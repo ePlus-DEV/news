@@ -520,7 +520,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Phường Gia Định: Check-in &#39;combo&#39; Lăng Ông - chợ Bà Chiểu](https://muctim.tuoitre.vn/phuong-gia-dinh-check-in-combo-lang-ong-cho-ba-chieu-101250810214952161.htm) - 07:46 11/08/2025
+- 🤔 [Đến phường Gia Định, check-in Lăng Ông - chợ Bà Chiểu](https://muctim.tuoitre.vn/phuong-gia-dinh-check-in-combo-lang-ong-cho-ba-chieu-101250810214952161.htm) - 07:46 11/08/2025
 - 🥷 [Bộ ảnh di tích Gò Công: Hành trình lưu giữ dấu xưa của nam sinh Trường THPT An Lạc](https://muctim.tuoitre.vn/bo-anh-di-tich-go-cong-hanh-trinh-luu-giu-dau-xua-cua-nam-sinh-truong-thpt-an-lac-101250811112851912.htm) - 06:44 11/08/2025
 - 🤖 [Vắng Messi, Inter Miami thua đậm trước Orlando City](https://muctim.tuoitre.vn/vang-messi-inter-miami-thua-dam-truoc-orlando-city-101250811121304176.htm) - 06:36 11/08/2025
 - 🤓 [Chiều nay 11-8, nhiều nơi mưa to, Hà Nội đề phòng dông, sét](https://muctim.tuoitre.vn/chieu-nay-11-8-nhieu-noi-mua-to-ha-noi-de-phong-dong-set-101250811124825488.htm) - 06:22 11/08/2025
