@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [VN-Index được dự báo sớm vượt 1.600 điểm](https://vnexpress.net/vn-index-duoc-du-bao-som-vuot-1-600-diem-4925161.html) - 17:01 10/08/2025
-- 🐲 [Giá vàng tuần tới có thể tiếp tục tăng](https://vnexpress.net/gia-vang-tuan-toi-co-the-tiep-tuc-tang-4925112.html) - 13:09 10/08/2025
+- 🐲 [Giá vàng tuần này có thể tiếp tục tăng](https://vnexpress.net/gia-vang-tuan-toi-co-the-tiep-tuc-tang-4925112.html) - 13:09 10/08/2025
 - 🔥 [Sun PhuQuoc Airways đón máy bay đầu tiên](https://vnexpress.net/sun-phuquoc-airways-don-may-bay-dau-tien-4925081.html) - 12:06 10/08/2025
 - 🐵 [Toan tính của ông Trump khi áp thuế 100% với chip nhập khẩu](https://vnexpress.net/toan-tinh-cua-ong-trump-khi-ap-thue-100-voi-chip-nhap-khau-4925091.html) - 08:33 10/08/2025
 - 🦅 [Diễn đàn Made by Vietnam thúc đẩy hợp tác công - tư](https://vnexpress.net/dien-dan-made-by-vietnam-thuc-day-hop-tac-cong-tu-4925016.html) - 08:00 10/08/2025
