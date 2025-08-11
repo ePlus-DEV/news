@@ -518,7 +518,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bóng chuyền nữ U21 thế giới ngày 11-8: Việt Nam - Argentina](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-11-8-viet-nam-argentina-101250811010223169.htm) - 01:58 11/08/2025
+- 🤔 [Trực tiếp bóng chuyền nữ U21 thế giới ngày 11-8: Việt Nam đang bị Argentina dẫn trước với tỉ số 1-2](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-11-8-viet-nam-argentina-101250811010223169.htm) - 01:58 11/08/2025
 - 🥷 [Đấu trường gia tốc tập 11: trận chung kết gay cấn bắt đầu](https://muctim.tuoitre.vn/dau-truong-gia-toc-tap-11-tran-chung-ket-gay-can-bat-dau-101250811015336259.htm) - 01:03 11/08/2025
 - 🤖 [Lịch thi đấu bóng chuyền nữ U21 thế giới ngày 11-8: Việt Nam - Argentina](https://muctim.tuoitre.vn/lich-thi-dau-bong-chuyen-nu-u21-the-gioi-ngay-11-8-viet-nam-argentina-101250811003502526.htm) - 00:49 11/08/2025
 - 🤓 [Tân binh toả sáng, Chelsea thắng đậm AC Milan](https://muctim.tuoitre.vn/tan-binh-toa-sang-chelsea-thang-dam-ac-milan-101250810233633467.htm) - 00:48 11/08/2025
