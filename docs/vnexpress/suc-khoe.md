@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Vì sao thận yếu đi?](https://vnexpress.net/vi-sao-than-yeu-di-4924946.html) - 14:00 11/08/2025
+- 🔥 [Vì sao thận suy yếu?](https://vnexpress.net/vi-sao-than-suy-yeu-4924946.html) - 14:00 11/08/2025
 - 🥰 [Vũ công đột tử khi đang biểu diễn trên sân khấu](https://vnexpress.net/vu-cong-dot-tu-khi-dang-bieu-dien-tren-san-khau-4925593.html) - 12:25 11/08/2025
 - 💡 [Bệnh Chikungunya](https://vnexpress.net/suc-khoe/cam-nang/benh-chikungunya-360) - 12:06 11/08/2025
 - 🤗 [Những hành động khiến virus dại lây nhiễm vào cơ thể](https://vnexpress.net/nhung-hanh-dong-khien-virus-dai-lay-nhiem-vao-co-the-4925555.html) - 12:00 11/08/2025
