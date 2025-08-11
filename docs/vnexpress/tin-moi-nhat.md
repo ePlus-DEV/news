@@ -13,7 +13,7 @@ sidebar_position: 9
 - 🧰 [Tranh cãi khi &#39;hồi sinh&#39; người đã khuất bằng AI](https://vnexpress.net/tranh-cai-khi-hoi-sinh-nguoi-da-khuat-bang-ai-4925329.html) - 17:00 11/08/2025
 - 🔭 [Vụ án &#39;bà mẹ nhẫn tâm&#39; gây sốc ở Italy](https://vnexpress.net/uan-khuc-sau-vu-ba-me-nhan-tam-gay-soc-o-italy-4925291.html) - 17:00 11/08/2025
 - 🫶 [Thủy thủ Philippines kể lại ác mộng dưới hỏa lực Houthi](https://vnexpress.net/thuy-thu-philippines-ke-lai-ac-mong-duoi-hoa-luc-houthi-4925210.html) - 17:00 11/08/2025
-- 🪜 [Lên mạng &#39;bóc phốt&#39; chồng ngoại tình có vi phạm không?](https://vnexpress.net/len-mang-boc-phot-chong-ngoai-tinh-co-vi-pham-khong-4922932.html) - 17:00 11/08/2025
+- 🪜 [Lên mạng &#39;bóc phốt&#39; chồng ngoại tình, tôi có sai gì không?](https://vnexpress.net/len-mang-boc-phot-chong-ngoai-tinh-toi-co-sai-gi-khong-4922932.html) - 17:00 11/08/2025
 - 👨‍🏫 [Bà mẹ Trung Quốc 90 tuổi tự học luật để bào chữa cho con](https://vnexpress.net/me-90-tuoi-tu-hoc-luat-de-bao-chua-cho-con-trai-4925468.html) - 16:59 11/08/2025
 - 🎊 [Lời khai của người đánh phụ nữ ở chung cư](https://vnexpress.net/loi-khai-cua-nguoi-danh-phu-nu-o-chung-cu-4925516.html) - 16:17 11/08/2025
 - 🎊 [Chính quyền Trump kiểm soát cảnh sát Washington, điều vệ binh tới thủ đô](https://vnexpress.net/chinh-quyen-trump-kiem-soat-canh-sat-washington-dieu-ve-binh-toi-thu-do-4925616.html) - 16:02 11/08/2025
