@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Cứu 3 người trong vụ cháy nhà gần trường học ở TPHCM](https://dantri.com.vn/xa-hoi/cuu-3-nguoi-trong-vu-chay-nha-gan-truong-hoc-o-tphcm-20250812123741698.htm) - 05:45 12/08/2025
-- 👨‍🏫 [Tổng Bí thư Tô Lâm và Thủ tướng Hàn Quốc dự Diễn đàn kinh tế Việt - Hàn](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-va-thu-tuong-han-quoc-du-dien-dan-kinh-te-viet-han-20250812121123828.htm) - 05:12 12/08/2025
+- 👨‍🏫 [Hàn Quốc mong đồng hành vững chắc cùng Việt Nam tạo nên “kỳ tích sông Hồng”](https://dantri.com.vn/xa-hoi/han-quoc-mong-dong-hanh-vung-chac-cung-viet-nam-tao-nen-ky-tich-song-hong-20250812121123828.htm) - 05:12 12/08/2025
 - 🌮 [Nga - Mỹ đặt kỳ vọng trước cuộc gặp lịch sử của hai Tổng thống](https://dantri.com.vn/the-gioi/nga-my-dat-ky-vong-truoc-cuoc-gap-lich-su-cua-hai-tong-thong-20250812113836320.htm) - 04:55 12/08/2025
 - 🕯 [Chiến sự Ukraine 12/8: Ukraine giành lại 2 khu vực ở Sumy](https://dantri.com.vn/the-gioi/chien-su-ukraine-128-ukraine-gianh-lai-2-khu-vuc-o-sumy-20250812112339813.htm) - 04:42 12/08/2025
 - 🪜 [Hà Nội metro xin lỗi vì nhân viên cấm khách mang xe đạp gấp gắn pin lên tàu](https://dantri.com.vn/xa-hoi/ha-noi-metro-xin-loi-vi-nhan-vien-cam-khach-mang-xe-dap-gap-gan-pin-len-tau-20250812113335713.htm) - 04:41 12/08/2025
