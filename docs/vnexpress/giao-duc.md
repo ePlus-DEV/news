@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [TP HCM dự kiến cho học sinh tựu trường sớm](https://vnexpress.net/hoc-sinh-tp-hcm-tuu-truong-ngay-nao-4926027.html) - 10:34 12/08/2025
+- 🤓 [TP HCM dự kiến cho học sinh tựu trường từ 18/8](https://vnexpress.net/hoc-sinh-tp-hcm-tuu-truong-ngay-nao-4926027.html) - 10:34 12/08/2025
 - 🦆 [Thí sinh điểm cao đổ xô vào trường nghề](https://vnexpress.net/thi-sinh-diem-cao-do-xo-vao-truong-nghe-4924870.html) - 08:07 12/08/2025
 - 🦩 [Học phí ngành Quản trị kinh doanh lên đến gần 104 triệu đồng](https://vnexpress.net/hoc-phi-nganh-quan-tri-kinh-doanh-o-cac-dai-hoc-nam-2025-4920806.html) - 04:18 12/08/2025
 - 🌮 [ISHCMC đào tạo đa chiều với triết lý &#39;tự tin không kiêu ngạo&#39;](https://vnexpress.net/ishcmc-dao-tao-da-chieu-voi-triet-ly-tu-tin-khong-kieu-ngao-4923236.html) - 03:00 12/08/2025
