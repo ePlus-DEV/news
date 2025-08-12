@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Vietnam Airlines mở bán vé giải chạy “Run For Love 2025”](https://dantri.com.vn/the-thao/vietnam-airlines-mo-ban-ve-giai-chay-run-for-love-2025-20250812195452792.htm) - 13:16 12/08/2025
 - 💯 [Sự cố bất ngờ với 2 VĐV bóng chuyền U21 Việt Nam tại giải thế giới](https://dantri.com.vn/the-thao/su-co-bat-ngo-voi-2-vdv-bong-chuyen-u21-viet-nam-tai-giai-the-gioi-20250812203937556.htm) - 12:38 12/08/2025
-- ⛽️ [Tuyển nữ Việt Nam 1-0 Thái Lan &lpar;hiệp 2&rpar;: Rất gần chiến thắng](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-1-0-thai-lan-hiep-2-rat-gan-chien-thang-20250812185049987.htm) - 11:51 12/08/2025
+- ⛽️ [Đánh bại Thái Lan, tuyển nữ Việt Nam xuất sắc giành ngôi đầu bảng](https://dantri.com.vn/the-thao/danh-bai-thai-lan-tuyen-nu-viet-nam-xuat-sac-gianh-ngoi-dau-bang-20250812185049987.htm) - 11:51 12/08/2025
 - 💃 [Đội tuyển bóng chuyền nữ Thái Lan được chào đón khi về nước](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-thai-lan-duoc-chao-don-khi-ve-nuoc-20250812152409712.htm) - 08:32 12/08/2025
 - 🌈 [Tuyển bóng chuyền nữ U21 Việt Nam lại gây sốc ở giải thế giới](https://dantri.com.vn/the-thao/tuyen-bong-chuyen-nu-u21-viet-nam-lai-gay-soc-o-giai-the-gioi-20250812151737203.htm) - 08:07 12/08/2025
 - 🦅 [Báo Malaysia nhắc tới bóng đá Việt Nam, cảnh báo về thực tế tàn khốc](https://dantri.com.vn/the-thao/bao-malaysia-nhac-toi-bong-da-viet-nam-canh-bao-ve-thuc-te-tan-khoc-20250812143159189.htm) - 07:32 12/08/2025
