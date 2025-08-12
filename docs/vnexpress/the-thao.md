@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam 1-0 Thái Lan &lpar;H1&rpar;: Chủ nhà mở tỷ số](https://vnexpress.net/viet-nam-1-0-thai-lan-h1-chu-nha-mo-ty-so-4925958.html) - 11:45 12/08/2025
+- 🪜 [Việt Nam 1-0 Thái Lan &lpar;H2&rpar;: Thanh Nhã đột phá](https://vnexpress.net/viet-nam-1-0-thai-lan-h2-thanh-nha-dot-pha-4925958.html) - 11:45 12/08/2025
 - 🦩 [Liên đoàn bóng chuyền Việt Nam phủ nhận hai nữ VĐV phải kiểm tra giới tính](https://vnexpress.net/lien-doan-bong-chuyen-viet-nam-phu-nhan-hai-nu-vdv-phai-kiem-tra-gioi-tinh-4926057.html) - 11:22 12/08/2025
 - 🧰 [Huy chương VnExpress Marathon Cần Thơ lấy cảm hứng từ đờn ca tài tử](https://vnexpress.net/huy-chuong-vnexpress-marathon-can-tho-lay-cam-hung-tu-don-ca-tai-tu-4925890.html) - 11:00 12/08/2025
 - 🤗 [HLV Thái Lan: &#39;Chưa thấy ai đập bóng ghi điểm nhiều như Bích Tuyền&#39;](https://vnexpress.net/hlv-thai-lan-chua-thay-ai-dap-bong-ghi-diem-nhieu-nhu-bich-tuyen-4925940.html) - 08:58 12/08/2025
