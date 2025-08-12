@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [VinFast chuyển hướng mở rộng sang thị trường châu Á](https://dantri.com.vn/o-to-xe-may/vinfast-chuyen-huong-mo-rong-sang-thi-truong-chau-a-20250812151454860.htm) - 12:51 12/08/2025
+- 🤡 [Loạt ô tô bán chậm tháng 7: Có xe nâng cấp vẫn không thoát “ế”](https://dantri.com.vn/o-to-xe-may/loat-o-to-ban-cham-thang-7-co-xe-nang-cap-van-khong-thoat-e-20250812093248877.htm) - 14:10 12/08/2025
 - 🧑‍💻 [Đã có ví ePass hoặc VETC, cần làm gì để chuyển sang tài khoản giao thông?](https://dantri.com.vn/o-to-xe-may/da-co-vi-epass-hoac-vetc-can-lam-gi-de-chuyen-sang-tai-khoan-giao-thong-20250812122806863.htm) - 05:54 12/08/2025
 - 🧑‍💻 [Mới giao xe ở Việt Nam, VinFast Limo Green đã rục rịch “xuất ngoại”](https://dantri.com.vn/o-to-xe-may/moi-giao-xe-o-viet-nam-vinfast-limo-green-da-ruc-rich-xuat-ngoai-20250812101220011.htm) - 04:27 12/08/2025
 - 🎓 [Ô tô con đâm sầm vào xe tải đang quay đầu: Lỗi &quot;kinh điển&quot; của nhiều tài xế](https://dantri.com.vn/o-to-xe-may/o-to-con-dam-sam-vao-xe-tai-dang-quay-dau-loi-kinh-dien-cua-nhieu-tai-xe-20250812095321105.htm) - 04:07 12/08/2025
