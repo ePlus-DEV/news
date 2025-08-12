@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Tổng Bí thư Tô Lâm hội kiến Chủ tịch Quốc hội Hàn Quốc Woo Won Sik](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-hoi-kien-chu-tich-quoc-hoi-han-quoc-woo-won-sik-20250812213102572.htm) - 14:31 12/08/2025
-- 💼 [Hai tài xế xe ôm đánh nhau trước cổng trường ở TPHCM](https://dantri.com.vn/xa-hoi/hai-tai-xe-xe-om-danh-nhau-truoc-cong-truong-o-tphcm-20250812210826517.htm) - 14:21 12/08/2025
+- 🫣 [Doanh nghiệp TPHCM nêu thách thức khi chuyển đổi xe điện](https://dantri.com.vn/xa-hoi/doanh-nghiep-tphcm-neu-thach-thuc-khi-chuyen-doi-xe-dien-20250812180645132.htm) - 14:48 12/08/2025
+- 💼 [Tổng Bí thư Tô Lâm hội kiến Chủ tịch Quốc hội Hàn Quốc Woo Won Sik](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-hoi-kien-chu-tich-quoc-hoi-han-quoc-woo-won-sik-20250812213102572.htm) - 14:31 12/08/2025
 - 🎊 [Miễn phí cấp đổi thẻ căn cước theo đơn vị hành chính mới trên VNeID](https://dantri.com.vn/xa-hoi/mien-phi-cap-doi-the-can-cuoc-theo-don-vi-hanh-chinh-moi-tren-vneid-20250812210100263.htm) - 14:20 12/08/2025
 - 🙉 [Cảnh sát mở đường dẫn ô tô chở người phụ nữ nguy kịch đi cấp cứu](https://dantri.com.vn/xa-hoi/canh-sat-mo-duong-dan-o-to-cho-nguoi-phu-nu-nguy-kich-di-cap-cuu-20250812203515534.htm) - 14:14 12/08/2025
 - 🕯 [Chủ tịch Đồng Nai đề nghị xã Đại Phước tập trung 2 lĩnh vực đột phá](https://dantri.com.vn/xa-hoi/chu-tich-dong-nai-de-nghi-xa-dai-phuoc-tap-trung-2-linh-vuc-dot-pha-20250812204221904.htm) - 14:05 12/08/2025
