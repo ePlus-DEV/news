@@ -403,9 +403,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tăng tốc liên kết vùng Đông Nam Bộ và triển khai hiệu quả cơ chế đặc thù cho TP Hồ Chí Minh](https://baochinhphu.vn/tang-toc-lien-ket-vung-dong-nam-bo-va-trien-khai-hieu-qua-co-che-dac-thu-cho-tp-ho-chi-minh-102250812174714785.htm) - 18:04 12/08/2025
-- 🌜 [Đề xuất chính sách quản lý giá dịch vụ kiểm định xe cơ giới, xe máy chuyên dùng](https://baochinhphu.vn/de-xuat-chinh-sach-quan-ly-gia-dich-vu-kiem-dinh-xe-co-gioi-xe-may-chuyen-dung-102250812173930522.htm) - 17:38 12/08/2025
-- 🦆 [Danh sách 65 đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo](https://baochinhphu.vn/danh-sach-65-don-vi-su-nghiep-cong-lap-truc-thuoc-bo-giao-duc-va-dao-tao-102250812171159949.htm) - 17:24 12/08/2025
+- 💻 [Danh sách 65 đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo](https://baochinhphu.vn/danh-sach-65-don-vi-su-nghiep-cong-lap-truc-thuoc-bo-giao-duc-va-dao-tao-102250812171159949.htm) - 18:14 12/08/2025
+- 🌜 [Tăng tốc liên kết vùng Đông Nam Bộ và triển khai hiệu quả cơ chế đặc thù cho TP Hồ Chí Minh](https://baochinhphu.vn/tang-toc-lien-ket-vung-dong-nam-bo-va-trien-khai-hieu-qua-co-che-dac-thu-cho-tp-ho-chi-minh-102250812174714785.htm) - 18:04 12/08/2025
+- 🦆 [Đề xuất chính sách quản lý giá dịch vụ kiểm định xe cơ giới, xe máy chuyên dùng](https://baochinhphu.vn/de-xuat-chinh-sach-quan-ly-gia-dich-vu-kiem-dinh-xe-co-gioi-xe-may-chuyen-dung-102250812173930522.htm) - 17:38 12/08/2025
 - 🌝 [Cần Thơ quyết tâm cao nhất thúc đẩy tăng trưởng cả năm đạt 10%](https://baochinhphu.vn/can-tho-quyet-tam-cao-nhat-thuc-day-tang-truong-ca-nam-dat-10-10225081216521906.htm) - 17:19 12/08/2025
 - 🦣 [Thần tốc, quyết liệt hoàn thiện công tác chuẩn bị Triển lãm 80 năm Quốc khánh](https://baochinhphu.vn/than-toc-quyet-liet-hoan-thien-cong-tac-chuan-bi-trien-lam-80-nam-quoc-khanh-102250812161645937.htm) - 17:19 12/08/2025
 - ⛽️ [Phó Thủ tướng Hồ Đức Phớc làm việc với tỉnh Hưng Yên](https://baochinhphu.vn/pho-thu-tuong-ho-duc-phoc-lam-viec-voi-tinh-hung-yen-102250812170154744.htm) - 17:05 12/08/2025
