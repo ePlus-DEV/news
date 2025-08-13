@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Cựu công an tiếp tay lừa bán đất bằng những lời cam kết tạo lòng tin](https://vnexpress.net/cuu-cong-an-tiep-tay-lua-ban-dat-bang-nhung-loi-cam-ket-tao-long-tin-4926371.html) - 09:46 13/08/2025
 - 🥰 [Ba bước đổi thẻ căn cước trên VNeID do thay đổi đơn vị hành chính](https://vnexpress.net/ba-buoc-doi-the-can-cuoc-tren-vneid-do-thay-doi-don-vi-hanh-chinh-4926444.html) - 08:45 13/08/2025
 - 🎓 [VKS kháng nghị bản án phạt 6 năm tù với người bán gà lôi trắng](https://vnexpress.net/vks-khang-nghi-ban-an-phat-6-nam-tu-voi-nguoi-ban-ga-loi-trang-4926337.html) - 06:42 13/08/2025
-- 🤓 [Uẩn khúc khiến người anh quật ghế tới tấp vào đầu em gái](https://vnexpress.net/uan-khuc-khien-nguoi-anh-quat-ghe-toi-tap-vao-dau-em-gai-4926304.html) - 06:29 13/08/2025
+- 🤓 [Người anh nói lý do quật ghế tới tấp vào đầu em gái](https://vnexpress.net/nguoi-anh-noi-ly-do-quat-ghe-toi-tap-vao-dau-em-gai-4926304.html) - 06:29 13/08/2025
 - 🎊 [Chủ nợ bắt người vay chụp ảnh khỏa thân để làm tin](https://vnexpress.net/chu-no-bat-nguoi-vay-chup-anh-khoa-than-de-lam-tin-4926267.html) - 03:40 13/08/2025
 - 🙉 [Xác hổ 200 kg trong khoang bí mật trên xe khách](https://vnexpress.net/xac-ho-200-kg-trong-khoang-bi-mat-tren-xe-khach-4926237.html) - 03:25 13/08/2025
 - 🤡 [10 năm lãnh đạo xã ở Sóc Sơn ký hồ sơ khống, bán 44 ha không sổ đỏ](https://vnexpress.net/10-nam-lanh-dao-xa-o-soc-son-ky-ho-so-khong-ban-44-ha-khong-so-do-4926103.html) - 00:57 13/08/2025
