@@ -19,7 +19,7 @@ sidebar_position: 3
 - 🦩 [Thủ tướng muốn Qualcomm mở rộng đầu tư công nghệ lõi trong ngành bán dẫn](https://vnexpress.net/thu-tuong-muon-qualcomm-mo-rong-dau-tu-cong-nghe-loi-trong-nganh-ban-dan-4926084.html) - 14:15 12/08/2025
 - 👍 [Ngành sữa Việt chật vật chinh phục người tiêu dùng](https://vnexpress.net/nganh-sua-viet-chat-vat-chinh-phuc-nguoi-tieu-dung-4926041.html) - 14:13 12/08/2025
 - 🏊 [Doanh nghiệp Hàn Quốc muốn tăng đào tạo nhân lực AI, bán dẫn cho Việt Nam](https://vnexpress.net/doanh-nghiep-han-quoc-muon-tang-dao-tao-nhan-luc-ai-ban-dan-cho-viet-nam-4926077.html) - 13:59 12/08/2025
-- 🤡 [TP HCM đưa ra phương án xây trung tâm hành chính tập trung](https://vnexpress.net/tp-hcm-de-xuat-3-vi-tri-xay-trung-tam-hanh-chinh-tap-trung-4926082.html) - 13:47 12/08/2025
+- 🤡 [Đề xuất 3 phương án vị trí xây trung tâm hành chính tập trung ở TP HCM](https://vnexpress.net/de-xuat-3-phuong-an-vi-tri-xay-trung-tam-hanh-chinh-tap-trung-o-tp-hcm-4926082.html) - 13:47 12/08/2025
 - 👀 [Tetra Pak: Việt Nam đóng vai trò then chốt trong chuỗi cung ứng khu vực](https://vnexpress.net/tetra-pak-viet-nam-dong-vai-tro-then-chot-trong-chuoi-cung-ung-khu-vuc-4926074.html) - 13:30 12/08/2025
 - 😺 [Hưng Yên nghiên cứu đề án thành lập khu kinh tế tự do](https://vnexpress.net/hung-yen-nghien-cuu-de-an-thanh-lap-khu-kinh-te-tu-do-4926048.html) - 12:05 12/08/2025
 - 🦣 [Người Ấn kêu gọi giảm mua hàng Mỹ](https://vnexpress.net/nguoi-an-keu-goi-giam-mua-hang-my-4925943.html) - 11:36 12/08/2025
