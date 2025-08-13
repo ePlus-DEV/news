@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Món bánh kẹp nào của Việt Nam ngon nhất thế giới?](https://vnexpress.net/mon-banh-kep-nao-cua-viet-nam-ngon-nhat-the-gioi-4926292.html) - 13:00 13/08/2025
-- 🦆 [Thầy giáo tới nhà tát nam sinh](https://vnexpress.net/thay-giao-toi-nha-tat-nam-sinh-4926448.html) - 09:10 13/08/2025
+- 🦆 [Thầy giáo đánh học trò rách màng nhĩ](https://vnexpress.net/thay-giao-danh-hoc-tro-rach-mang-nhi-4926448.html) - 09:10 13/08/2025
 - 🦩 [150 thí sinh tăng điểm thi Văn tốt nghiệp THPT sau phúc khảo](https://vnexpress.net/150-thi-sinh-tang-diem-thi-van-tot-nghiep-thpt-sau-phuc-khao-4926422.html) - 08:39 13/08/2025
 - 🌮 [Đỗ đại học top 20 Mỹ sau hai tháng trong danh sách chờ](https://vnexpress.net/do-dai-hoc-top-20-my-sau-hai-thang-trong-danh-sach-cho-4925453.html) - 07:39 13/08/2025
 - 🔭 [Học phí ngành Logistics khoảng 16 - 80 triệu đồng mỗi năm](https://vnexpress.net/hoc-phi-nganh-logistics-o-30-dai-hoc-nam-2025-4920785.html) - 04:45 13/08/2025
