@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bài thi tốt nghiệp THPT tăng 7,65 điểm sau phúc khảo](https://vnexpress.net/bai-thi-tot-nghiep-thpt-tang-7-65-diem-sau-phuc-khao-4926243.html) - 03:19 13/08/2025
-- 🦆 [Tất cả học sinh Khánh Hòa chung đồng phục quần xanh, áo trắng](https://vnexpress.net/tat-ca-hoc-sinh-khanh-hoa-chung-dong-phuc-quan-xanh-ao-trang-4926073.html) - 00:07 13/08/2025
-- 🦩 [Chưa sửa sách giáo khoa năm học tới](https://vnexpress.net/chua-sua-sach-giao-khoa-nam-hoc-toi-4926085.html) - 14:13 12/08/2025
-- 🌮 [Người Việt tiêu thụ bao nhiêu lít bia một năm?](https://vnexpress.net/nguoi-viet-tieu-thu-bao-nhieu-lit-bia-mot-nam-4925851.html) - 12:29 12/08/2025
-- 🔭 [TP HCM dự kiến cho học sinh tựu trường từ 18/8](https://vnexpress.net/hoc-sinh-tp-hcm-tuu-truong-ngay-nao-4926027.html) - 10:34 12/08/2025
-- 💡 [Thí sinh điểm cao đổ xô vào trường nghề](https://vnexpress.net/thi-sinh-diem-cao-do-xo-vao-truong-nghe-4924870.html) - 08:07 12/08/2025
-- 🥰 [Học phí ngành Quản trị kinh doanh lên đến gần 104 triệu đồng](https://vnexpress.net/hoc-phi-nganh-quan-tri-kinh-doanh-o-cac-dai-hoc-nam-2025-4920806.html) - 04:18 12/08/2025
-- 🐲 [ISHCMC đào tạo đa chiều với triết lý &#39;tự tin không kiêu ngạo&#39;](https://vnexpress.net/ishcmc-dao-tao-da-chieu-voi-triet-ly-tu-tin-khong-kieu-ngao-4923236.html) - 03:00 12/08/2025
-- 🦒 [Nữ sinh Nghệ An đỗ Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-nghe-an-do-dai-hoc-thanh-hoa-4924103.html) - 02:07 12/08/2025
-- 🦆 [Cặp song sinh tốt nghiệp xuất sắc Sư phạm, về dạy cùng trường chuyên](https://vnexpress.net/cap-song-sinh-tot-nghiep-xuat-sac-su-pham-ve-day-cung-truong-chuyen-4925278.html) - 23:03 11/08/2025
-- 🧰 [Nước nào nhập khẩu nhiều mực, bạch tuộc của Việt Nam nhất?](https://vnexpress.net/nuoc-nao-nhap-khau-nhieu-muc-bach-tuoc-cua-viet-nam-nhat-4925550.html) - 13:48 11/08/2025
-- 🐘 [Dự kiến thi tốt nghiệp THPT 2026 sớm 2 tuần](https://vnexpress.net/du-kien-thi-tot-nghiep-thpt-2026-som-2-tuan-4925578.html) - 11:11 11/08/2025
-- 🤓 [Chàng trai vàng Tin học quốc tế được thưởng 100 triệu đồng](https://vnexpress.net/chang-trai-vang-tin-hoc-quoc-te-duoc-thuong-100-trieu-dong-4925276.html) - 10:32 11/08/2025
-- 🧰 [Cô giáo Địa lý chinh phục học bổng Chính phủ Mỹ](https://vnexpress.net/co-giao-dia-ly-chinh-phuc-hoc-bong-chinh-phu-my-4924001.html) - 06:25 11/08/2025
-- 🧑‍💻 [Đề xuất giải thể trường Quốc tế Mỹ](https://vnexpress.net/giai-the-truong-quoc-te-my-aisvn-4924682.html) - 05:32 11/08/2025
-- 🫶 [Hàng trăm học sinh giải quốc gia, quốc tế cạnh tranh vào ngành Khoa học máy tính](https://vnexpress.net/hang-tram-hoc-sinh-giai-quoc-gia-quoc-te-canh-tranh-vao-nganh-khoa-hoc-may-tinh-4924945.html) - 01:30 11/08/2025
-- 🪜 [Nữ sinh 17 tuổi bác giả thuyết Toán học 40 năm](https://vnexpress.net/nu-sinh-17-tuoi-bac-gia-thuyet-toan-hoc-40-nam-4923568.html) - 14:00 10/08/2025
-- 🎊 [Người Việt đầu tiên học hệ cử nhân của Đại học Harvard là ai?](https://vnexpress.net/nguoi-viet-dau-tien-hoc-he-cu-nhan-cua-dai-hoc-harvard-la-ai-4924814.html) - 12:00 10/08/2025
-- 🧐 [Ba mẹo giao tiếp bằng Tiếng Anh](https://vnexpress.net/ba-meo-giao-tiep-bang-tieng-anh-4922588.html) - 10:20 10/08/2025
-- 🌈 [Bỏ học bổng tiến sĩ trường top 8 thế giới để học ở UAE](https://vnexpress.net/bo-hoc-bong-tien-si-truong-top-8-the-gioi-de-hoc-o-uae-4924186.html) - 06:25 10/08/2025
-- 🥰 [Kiến trúc bất đối xứng ở Viện nghiên cứu cao cấp về Toán](https://vnexpress.net/kien-truc-bat-doi-xung-o-vien-nghien-cuu-cao-cap-ve-toan-4923586.html) - 06:00 10/08/2025
-- 🎡 [Bộ Di trú Australia chấp nhận ba chứng chỉ tiếng Anh mới](https://vnexpress.net/bo-di-tru-australia-chap-nhan-ba-chung-chi-tieng-anh-moi-4924102.html) - 04:26 10/08/2025
-- 🎊 [Trở thành thủ khoa Học viện Ngoại giao nhờ chỉn chu](https://vnexpress.net/tro-thanh-thu-khoa-hoc-vien-ngoai-giao-nho-chin-chu-4924893.html) - 01:02 10/08/2025
-- 🌏 [Thí sinh đăng ký xét tuyển gấp 2-2,5 lần ở nhiều đại học](https://vnexpress.net/thi-sinh-dang-ky-xet-tuyen-gap-2-2-5-lan-o-nhieu-dai-hoc-4924226.html) - 22:59 09/08/2025
-- 🥸 [Đại học danh tiếng Mỹ ồ ạt sa thải](https://vnexpress.net/dai-hoc-danh-tieng-my-o-at-sa-thai-4924786.html) - 17:02 09/08/2025
-- 🕴 [&#39;Đại học chỉ nuôi quân để tồn tại, khó đột phá về nghiên cứu&#39;](https://vnexpress.net/dai-hoc-chi-nuoi-quan-de-ton-tai-kho-dot-pha-ve-nghien-cuu-4924547.html) - 15:08 09/08/2025
-- 💂 [Đồ uống nào của Việt Nam từng lọt top ngon nhất thế giới?](https://vnexpress.net/do-uong-nao-cua-viet-nam-tung-lot-top-ngon-nhat-the-gioi-4924905.html) - 12:59 09/08/2025
-- 🕴 [Kỷ lục 344 tổ hợp xét tuyển đại học năm 2025](https://vnexpress.net/ky-luc-344-to-hop-xet-tuyen-dai-hoc-nam-2025-4924879.html) - 12:25 09/08/2025
-- 🌋 [Trường phổ thông công lập được dạy một số môn bằng tiếng nước ngoài](https://vnexpress.net/truong-pho-thong-cong-lap-duoc-day-mot-so-mon-bang-tieng-nuoc-ngoai-4924679.html) - 06:07 09/08/2025
-- 🪜 [Thành tích IBDP nổi bật giúp học sinh ISHCMC vào đại học toàn cầu](https://vnexpress.net/thanh-tich-ibdp-noi-bat-giup-hoc-sinh-ishcmc-vao-dai-hoc-toan-cau-4924561.html) - 03:00 09/08/2025
-- 🕴 [Đôi bạn thân chuyên Toán cùng tốt nghiệp thủ khoa trường Y](https://vnexpress.net/doi-ban-than-chuyen-toan-cung-tot-nghiep-thu-khoa-truong-y-4924502.html) - 00:43 09/08/2025
-- 🎃 [Thí sinh dùng IELTS xét tuyển đại học tăng vọt](https://vnexpress.net/thi-sinh-dung-ielts-xet-tuyen-dai-hoc-tang-vot-4922957.html) - 14:00 08/08/2025
-- 🦏 [Học sinh Việt vào top 4 Olympic AI quốc tế](https://vnexpress.net/hoc-sinh-viet-vao-top-4-olympic-ai-quoc-te-4924647.html) - 12:42 08/08/2025
-- 🧑‍🏫 [Nước nào tiêu thụ mì ăn liền nhiều nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-tieu-thu-mi-an-lien-nhieu-nhat-dong-nam-a-4924612.html) - 12:23 08/08/2025
-- 💡 [Đình chỉ tuyển sinh, đào tạo 12 ngành của Đại học Kinh Bắc](https://vnexpress.net/dinh-chi-tuyen-sinh-dao-tao-12-nganh-cua-dai-hoc-kinh-bac-4924531.html) - 09:10 08/08/2025
-- 🐎 [Trở thành thủ khoa sau khi bỏ dở du học](https://vnexpress.net/tro-thanh-thu-khoa-sau-khi-bo-do-du-hoc-4922951.html) - 07:45 08/08/2025
-- 🧰 [Du học sinh Việt đông top 4 ở Australia](https://vnexpress.net/du-hoc-sinh-viet-dong-top-4-o-australia-4923814.html) - 02:39 08/08/2025
-- 🙉 [Thủ khoa tốt nghiệp với điểm gần tuyệt đối của Học viện Tài chính](https://vnexpress.net/thu-khoa-tot-nghiep-voi-diem-gan-tuyet-doi-cua-hoc-vien-tai-chinh-4922502.html) - 23:00 07/08/2025
-- ⚗️ [Việt Nam dự kiến có 2 đại học tinh hoa, đẳng cấp quốc tế vào năm 2030](https://vnexpress.net/viet-nam-du-kien-co-2-dai-hoc-tinh-hoa-dang-cap-quoc-te-vao-nam-2030-4923638.html) - 14:32 07/08/2025
-- 🌝 [Nước nào có mạng di động nhanh nhất thế giới?](https://vnexpress.net/nuoc-nao-co-mang-di-dong-nhanh-nhat-the-gioi-4923877.html) - 13:00 07/08/2025
-- ⛽️ [Đề xuất trợ cấp gần 60 triệu đồng cho giáo viên mầm non tuyển mới](https://vnexpress.net/de-xuat-tro-cap-gan-60-trieu-dong-cho-giao-vien-mam-non-tuyen-moi-4923646.html) - 07:15 07/08/2025
-- 🌜 [Điểm chuẩn Đại học Giao thông vận tải dự kiến từ 20 trở lên](https://vnexpress.net/du-bao-diem-chuan-dai-hoc-giao-thong-van-tai-nam-2025-4923889.html) - 06:25 07/08/2025
-- ⚗️ [Người Việt thứ tư có bài vào đề thi Olympic Toán quốc tế](https://vnexpress.net/nguoi-viet-thu-tu-co-bai-vao-de-thi-olympic-toan-quoc-te-4923080.html) - 02:29 07/08/2025
-- 🧰 [Đào tạo tư duy liên ngành tại Trường Đại học Fulbright Việt Nam](https://vnexpress.net/dao-tao-tu-duy-lien-nganh-tai-truong-dai-hoc-fulbright-viet-nam-4923270.html) - 02:00 07/08/2025
-- 🤗 [Thủ khoa &#39;chục năm có một&#39; của Đại học Y Hà Nội](https://vnexpress.net/thu-khoa-chuc-nam-co-mot-cua-dai-hoc-y-ha-noi-4923393.html) - 17:02 06/08/2025
-- 🔥 [Chàng trai Hà Nội giành học bổng tiến sĩ Mỹ sau hai năm đi làm](https://vnexpress.net/chang-trai-ha-noi-gianh-hoc-bong-tien-si-my-sau-hai-nam-di-lam-4914060.html) - 14:33 06/08/2025
-- 💪 [Xã đông dân nhất Việt Nam ở tỉnh, thành nào?](https://vnexpress.net/xa-dong-dan-nhat-viet-nam-o-tinh-thanh-nao-4923472.html) - 13:00 06/08/2025
-- 💂 [Gần 8.900 thí sinh có IELTS đăng ký vào Đại học Kinh tế - Luật](https://vnexpress.net/muc-diem-cong-va-quy-doi-ielts-vao-dai-hoc-kinh-te-luat-2025-4923475.html) - 12:00 06/08/2025
-- 🌮 [Cặp song sinh cùng đạt 666 điểm thi đại học](https://vnexpress.net/cap-song-sinh-cung-dat-666-diem-thi-dai-hoc-4923117.html) - 07:12 06/08/2025
-- 🪄 [Hơn 8.800 thí sinh trượt tốt nghiệp THPT 2025](https://vnexpress.net/hon-8-800-thi-sinh-truot-tot-nghiep-thpt-2025-4923264.html) - 03:18 06/08/2025
-- 🎡 [Cô gái hai lần trúng tuyển Đại học Thanh Hoa](https://vnexpress.net/co-gai-hai-lan-trung-tuyen-dai-hoc-thanh-hoa-4921155.html) - 23:01 05/08/2025
-- 🌈 [Tia sét dài nhất thế giới được ghi nhận ở nước nào?](https://vnexpress.net/tia-set-dai-nhat-the-gioi-duoc-ghi-nhan-o-nuoc-nao-4923065.html) - 13:07 05/08/2025
-- 🎊 [Điểm chuẩn Đại học Hà Nội dự kiến biến động 0,5-1,5](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-ha-noi-2025-4922928.html) - 10:02 05/08/2025
-- ⚗️ [Trường THCS, THPT không được dạy quá 7 tiết mỗi ngày](https://vnexpress.net/truong-thcs-thpt-khong-duoc-day-qua-7-tiet-moi-ngay-4923023.html) - 09:33 05/08/2025
-- 🌁 [Điểm chuẩn Đại học Công nghiệp TP HCM dự kiến giảm 0,5-1](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-du-kien-giam-0-5-1-4922514.html) - 04:54 05/08/2025
-- 🦏 [Học sinh chuyên ở Ninh Bình nhận hỗ trợ 1,6-2,4 triệu đồng mỗi tháng](https://vnexpress.net/muc-ho-tro-hoc-bong-cho-hoc-sinh-truong-chuyen-o-ninh-binh-2025-4922664.html) - 04:11 05/08/2025
-- 👍 [Nữ sinh 14 tuổi đạt 8.5 IELTS ngay lần thi đầu tiên](https://vnexpress.net/nu-sinh-14-tuoi-dat-8-5-ielts-ngay-lan-thi-dau-tien-4922672.html) - 23:59 04/08/2025
-- 🌈 [Australia nới trần tuyển du học sinh vào năm 2026](https://vnexpress.net/australia-noi-tran-tuyen-du-hoc-sinh-vao-nam-2026-4922567.html) - 13:48 04/08/2025
-- 🕴 [Nước nào xuất khẩu thanh long lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-xuat-khau-thanh-long-lon-nhat-the-gioi-4922423.html) - 13:18 04/08/2025
-- 🧰 [Đại học Kinh tế Quốc dân đặt mục tiêu vào top 100 châu Á](https://vnexpress.net/dai-hoc-kinh-te-quoc-dan-dat-muc-tieu-vao-top-100-chau-a-4922451.html) - 07:17 04/08/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [Học phí ngành Logistics khoảng 16 - 80 triệu đồng mỗi năm](https://vnexpress.net/hoc-phi-nganh-logistics-o-30-dai-hoc-nam-2025-4920785.html) - 04:45 13/08/2025
+- 🦆 [Bài thi tốt nghiệp THPT tăng 7,65 điểm sau phúc khảo](https://vnexpress.net/bai-thi-tot-nghiep-thpt-tang-7-65-diem-sau-phuc-khao-4926243.html) - 03:19 13/08/2025
+- 🦩 [Tất cả học sinh Khánh Hòa chung đồng phục quần xanh, áo trắng](https://vnexpress.net/tat-ca-hoc-sinh-khanh-hoa-chung-dong-phuc-quan-xanh-ao-trang-4926073.html) - 00:07 13/08/2025
+- 🌮 [Chưa sửa sách giáo khoa năm học tới](https://vnexpress.net/chua-sua-sach-giao-khoa-nam-hoc-toi-4926085.html) - 14:13 12/08/2025
+- 🔭 [Người Việt tiêu thụ bao nhiêu lít bia một năm?](https://vnexpress.net/nguoi-viet-tieu-thu-bao-nhieu-lit-bia-mot-nam-4925851.html) - 12:29 12/08/2025
+- 💡 [TP HCM dự kiến cho học sinh tựu trường từ 18/8](https://vnexpress.net/hoc-sinh-tp-hcm-tuu-truong-ngay-nao-4926027.html) - 10:34 12/08/2025
+- 🥰 [Thí sinh điểm cao đổ xô vào trường nghề](https://vnexpress.net/thi-sinh-diem-cao-do-xo-vao-truong-nghe-4924870.html) - 08:07 12/08/2025
+- 🐲 [Học phí ngành Quản trị kinh doanh lên đến gần 104 triệu đồng](https://vnexpress.net/hoc-phi-nganh-quan-tri-kinh-doanh-o-cac-dai-hoc-nam-2025-4920806.html) - 04:18 12/08/2025
+- 🦒 [ISHCMC đào tạo đa chiều với triết lý &#39;tự tin không kiêu ngạo&#39;](https://vnexpress.net/ishcmc-dao-tao-da-chieu-voi-triet-ly-tu-tin-khong-kieu-ngao-4923236.html) - 03:00 12/08/2025
+- 🦆 [Nữ sinh Nghệ An đỗ Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-nghe-an-do-dai-hoc-thanh-hoa-4924103.html) - 02:07 12/08/2025
+- 🧰 [Cặp song sinh tốt nghiệp xuất sắc Sư phạm, về dạy cùng trường chuyên](https://vnexpress.net/cap-song-sinh-tot-nghiep-xuat-sac-su-pham-ve-day-cung-truong-chuyen-4925278.html) - 23:03 11/08/2025
+- 🐘 [Nước nào nhập khẩu nhiều mực, bạch tuộc của Việt Nam nhất?](https://vnexpress.net/nuoc-nao-nhap-khau-nhieu-muc-bach-tuoc-cua-viet-nam-nhat-4925550.html) - 13:48 11/08/2025
+- 🤓 [Dự kiến thi tốt nghiệp THPT 2026 sớm 2 tuần](https://vnexpress.net/du-kien-thi-tot-nghiep-thpt-2026-som-2-tuan-4925578.html) - 11:11 11/08/2025
+- 🧰 [Chàng trai vàng Tin học quốc tế được thưởng 100 triệu đồng](https://vnexpress.net/chang-trai-vang-tin-hoc-quoc-te-duoc-thuong-100-trieu-dong-4925276.html) - 10:32 11/08/2025
+- 🧑‍💻 [Cô giáo Địa lý chinh phục học bổng Chính phủ Mỹ](https://vnexpress.net/co-giao-dia-ly-chinh-phuc-hoc-bong-chinh-phu-my-4924001.html) - 06:25 11/08/2025
+- 🫶 [Đề xuất giải thể trường Quốc tế Mỹ](https://vnexpress.net/giai-the-truong-quoc-te-my-aisvn-4924682.html) - 05:32 11/08/2025
+- 🪜 [Hàng trăm học sinh giải quốc gia, quốc tế cạnh tranh vào ngành Khoa học máy tính](https://vnexpress.net/hang-tram-hoc-sinh-giai-quoc-gia-quoc-te-canh-tranh-vao-nganh-khoa-hoc-may-tinh-4924945.html) - 01:30 11/08/2025
+- 🎊 [Nữ sinh 17 tuổi bác giả thuyết Toán học 40 năm](https://vnexpress.net/nu-sinh-17-tuoi-bac-gia-thuyet-toan-hoc-40-nam-4923568.html) - 14:00 10/08/2025
+- 🧐 [Người Việt đầu tiên học hệ cử nhân của Đại học Harvard là ai?](https://vnexpress.net/nguoi-viet-dau-tien-hoc-he-cu-nhan-cua-dai-hoc-harvard-la-ai-4924814.html) - 12:00 10/08/2025
+- 🌈 [Ba mẹo giao tiếp bằng Tiếng Anh](https://vnexpress.net/ba-meo-giao-tiep-bang-tieng-anh-4922588.html) - 10:20 10/08/2025
+- 🥰 [Bỏ học bổng tiến sĩ trường top 8 thế giới để học ở UAE](https://vnexpress.net/bo-hoc-bong-tien-si-truong-top-8-the-gioi-de-hoc-o-uae-4924186.html) - 06:25 10/08/2025
+- 🎡 [Kiến trúc bất đối xứng ở Viện nghiên cứu cao cấp về Toán](https://vnexpress.net/kien-truc-bat-doi-xung-o-vien-nghien-cuu-cao-cap-ve-toan-4923586.html) - 06:00 10/08/2025
+- 🎊 [Bộ Di trú Australia chấp nhận ba chứng chỉ tiếng Anh mới](https://vnexpress.net/bo-di-tru-australia-chap-nhan-ba-chung-chi-tieng-anh-moi-4924102.html) - 04:26 10/08/2025
+- 🌏 [Trở thành thủ khoa Học viện Ngoại giao nhờ chỉn chu](https://vnexpress.net/tro-thanh-thu-khoa-hoc-vien-ngoai-giao-nho-chin-chu-4924893.html) - 01:02 10/08/2025
+- 🥸 [Thí sinh đăng ký xét tuyển gấp 2-2,5 lần ở nhiều đại học](https://vnexpress.net/thi-sinh-dang-ky-xet-tuyen-gap-2-2-5-lan-o-nhieu-dai-hoc-4924226.html) - 22:59 09/08/2025
+- 🕴 [Đại học danh tiếng Mỹ ồ ạt sa thải](https://vnexpress.net/dai-hoc-danh-tieng-my-o-at-sa-thai-4924786.html) - 17:02 09/08/2025
+- 💂 [&#39;Đại học chỉ nuôi quân để tồn tại, khó đột phá về nghiên cứu&#39;](https://vnexpress.net/dai-hoc-chi-nuoi-quan-de-ton-tai-kho-dot-pha-ve-nghien-cuu-4924547.html) - 15:08 09/08/2025
+- 🕴 [Đồ uống nào của Việt Nam từng lọt top ngon nhất thế giới?](https://vnexpress.net/do-uong-nao-cua-viet-nam-tung-lot-top-ngon-nhat-the-gioi-4924905.html) - 12:59 09/08/2025
+- 🌋 [Kỷ lục 344 tổ hợp xét tuyển đại học năm 2025](https://vnexpress.net/ky-luc-344-to-hop-xet-tuyen-dai-hoc-nam-2025-4924879.html) - 12:25 09/08/2025
+- 🪜 [Trường phổ thông công lập được dạy một số môn bằng tiếng nước ngoài](https://vnexpress.net/truong-pho-thong-cong-lap-duoc-day-mot-so-mon-bang-tieng-nuoc-ngoai-4924679.html) - 06:07 09/08/2025
+- 🕴 [Thành tích IBDP nổi bật giúp học sinh ISHCMC vào đại học toàn cầu](https://vnexpress.net/thanh-tich-ibdp-noi-bat-giup-hoc-sinh-ishcmc-vao-dai-hoc-toan-cau-4924561.html) - 03:00 09/08/2025
+- 🎃 [Đôi bạn thân chuyên Toán cùng tốt nghiệp thủ khoa trường Y](https://vnexpress.net/doi-ban-than-chuyen-toan-cung-tot-nghiep-thu-khoa-truong-y-4924502.html) - 00:43 09/08/2025
+- 🦏 [Thí sinh dùng IELTS xét tuyển đại học tăng vọt](https://vnexpress.net/thi-sinh-dung-ielts-xet-tuyen-dai-hoc-tang-vot-4922957.html) - 14:00 08/08/2025
+- 🧑‍🏫 [Học sinh Việt vào top 4 Olympic AI quốc tế](https://vnexpress.net/hoc-sinh-viet-vao-top-4-olympic-ai-quoc-te-4924647.html) - 12:42 08/08/2025
+- 💡 [Nước nào tiêu thụ mì ăn liền nhiều nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-tieu-thu-mi-an-lien-nhieu-nhat-dong-nam-a-4924612.html) - 12:23 08/08/2025
+- 🐎 [Đình chỉ tuyển sinh, đào tạo 12 ngành của Đại học Kinh Bắc](https://vnexpress.net/dinh-chi-tuyen-sinh-dao-tao-12-nganh-cua-dai-hoc-kinh-bac-4924531.html) - 09:10 08/08/2025
+- 🧰 [Trở thành thủ khoa sau khi bỏ dở du học](https://vnexpress.net/tro-thanh-thu-khoa-sau-khi-bo-do-du-hoc-4922951.html) - 07:45 08/08/2025
+- 🙉 [Du học sinh Việt đông top 4 ở Australia](https://vnexpress.net/du-hoc-sinh-viet-dong-top-4-o-australia-4923814.html) - 02:39 08/08/2025
+- ⚗️ [Thủ khoa tốt nghiệp với điểm gần tuyệt đối của Học viện Tài chính](https://vnexpress.net/thu-khoa-tot-nghiep-voi-diem-gan-tuyet-doi-cua-hoc-vien-tai-chinh-4922502.html) - 23:00 07/08/2025
+- 🌝 [Việt Nam dự kiến có 2 đại học tinh hoa, đẳng cấp quốc tế vào năm 2030](https://vnexpress.net/viet-nam-du-kien-co-2-dai-hoc-tinh-hoa-dang-cap-quoc-te-vao-nam-2030-4923638.html) - 14:32 07/08/2025
+- ⛽️ [Nước nào có mạng di động nhanh nhất thế giới?](https://vnexpress.net/nuoc-nao-co-mang-di-dong-nhanh-nhat-the-gioi-4923877.html) - 13:00 07/08/2025
+- 🌜 [Đề xuất trợ cấp gần 60 triệu đồng cho giáo viên mầm non tuyển mới](https://vnexpress.net/de-xuat-tro-cap-gan-60-trieu-dong-cho-giao-vien-mam-non-tuyen-moi-4923646.html) - 07:15 07/08/2025
+- ⚗️ [Điểm chuẩn Đại học Giao thông vận tải dự kiến từ 20 trở lên](https://vnexpress.net/du-bao-diem-chuan-dai-hoc-giao-thong-van-tai-nam-2025-4923889.html) - 06:25 07/08/2025
+- 🧰 [Người Việt thứ tư có bài vào đề thi Olympic Toán quốc tế](https://vnexpress.net/nguoi-viet-thu-tu-co-bai-vao-de-thi-olympic-toan-quoc-te-4923080.html) - 02:29 07/08/2025
+- 🤗 [Đào tạo tư duy liên ngành tại Trường Đại học Fulbright Việt Nam](https://vnexpress.net/dao-tao-tu-duy-lien-nganh-tai-truong-dai-hoc-fulbright-viet-nam-4923270.html) - 02:00 07/08/2025
+- 🔥 [Thủ khoa &#39;chục năm có một&#39; của Đại học Y Hà Nội](https://vnexpress.net/thu-khoa-chuc-nam-co-mot-cua-dai-hoc-y-ha-noi-4923393.html) - 17:02 06/08/2025
+- 💪 [Chàng trai Hà Nội giành học bổng tiến sĩ Mỹ sau hai năm đi làm](https://vnexpress.net/chang-trai-ha-noi-gianh-hoc-bong-tien-si-my-sau-hai-nam-di-lam-4914060.html) - 14:33 06/08/2025
+- 💂 [Xã đông dân nhất Việt Nam ở tỉnh, thành nào?](https://vnexpress.net/xa-dong-dan-nhat-viet-nam-o-tinh-thanh-nao-4923472.html) - 13:00 06/08/2025
+- 🌮 [Gần 8.900 thí sinh có IELTS đăng ký vào Đại học Kinh tế - Luật](https://vnexpress.net/muc-diem-cong-va-quy-doi-ielts-vao-dai-hoc-kinh-te-luat-2025-4923475.html) - 12:00 06/08/2025
+- 🪄 [Cặp song sinh cùng đạt 666 điểm thi đại học](https://vnexpress.net/cap-song-sinh-cung-dat-666-diem-thi-dai-hoc-4923117.html) - 07:12 06/08/2025
+- 🎡 [Hơn 8.800 thí sinh trượt tốt nghiệp THPT 2025](https://vnexpress.net/hon-8-800-thi-sinh-truot-tot-nghiep-thpt-2025-4923264.html) - 03:18 06/08/2025
+- 🌈 [Cô gái hai lần trúng tuyển Đại học Thanh Hoa](https://vnexpress.net/co-gai-hai-lan-trung-tuyen-dai-hoc-thanh-hoa-4921155.html) - 23:01 05/08/2025
+- 🎊 [Tia sét dài nhất thế giới được ghi nhận ở nước nào?](https://vnexpress.net/tia-set-dai-nhat-the-gioi-duoc-ghi-nhan-o-nuoc-nao-4923065.html) - 13:07 05/08/2025
+- ⚗️ [Điểm chuẩn Đại học Hà Nội dự kiến biến động 0,5-1,5](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-ha-noi-2025-4922928.html) - 10:02 05/08/2025
+- 🌁 [Trường THCS, THPT không được dạy quá 7 tiết mỗi ngày](https://vnexpress.net/truong-thcs-thpt-khong-duoc-day-qua-7-tiet-moi-ngay-4923023.html) - 09:33 05/08/2025
+- 🦏 [Điểm chuẩn Đại học Công nghiệp TP HCM dự kiến giảm 0,5-1](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-du-kien-giam-0-5-1-4922514.html) - 04:54 05/08/2025
+- 👍 [Học sinh chuyên ở Ninh Bình nhận hỗ trợ 1,6-2,4 triệu đồng mỗi tháng](https://vnexpress.net/muc-ho-tro-hoc-bong-cho-hoc-sinh-truong-chuyen-o-ninh-binh-2025-4922664.html) - 04:11 05/08/2025
+- 🌈 [Nữ sinh 14 tuổi đạt 8.5 IELTS ngay lần thi đầu tiên](https://vnexpress.net/nu-sinh-14-tuoi-dat-8-5-ielts-ngay-lan-thi-dau-tien-4922672.html) - 23:59 04/08/2025
+- 🕴 [Australia nới trần tuyển du học sinh vào năm 2026](https://vnexpress.net/australia-noi-tran-tuyen-du-hoc-sinh-vao-nam-2026-4922567.html) - 13:48 04/08/2025
+- 🧰 [Nước nào xuất khẩu thanh long lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-xuat-khau-thanh-long-lon-nhat-the-gioi-4922423.html) - 13:18 04/08/2025<!-- vnexpress-giao-duc:END -->
