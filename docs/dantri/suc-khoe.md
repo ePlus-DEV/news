@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Cứu sống bệnh nhân ngừng tim 60 phút sau đặt stent](https://dantri.com.vn/suc-khoe/cuu-song-benh-nhan-ngung-tim-60-phut-sau-dat-stent-20250813170510076.htm) - 10:06 13/08/2025
+- 🤔 [Cứu sống bệnh nhân ngừng tim 60 phút](https://dantri.com.vn/suc-khoe/cuu-song-benh-nhan-ngung-tim-60-phut-20250813170510076.htm) - 10:06 13/08/2025
 - 🚦 [Mổ sớm &quot;chọn giờ đẹp&quot;, em bé 37 tuần tuổi suy hô hấp không qua khỏi](https://dantri.com.vn/suc-khoe/mo-som-chon-gio-dep-em-be-37-tuan-tuoi-suy-ho-hap-khong-qua-khoi-20250813154554079.htm) - 08:46 13/08/2025
 - 🤖 [Cơn đau nhói báo hiệu căn bệnh hiểm](https://dantri.com.vn/suc-khoe/con-dau-nhoi-bao-hieu-can-benh-hiem-20250804115302758.htm) - 08:15 13/08/2025
 - 🐻 [Trung Quốc thả muỗi ăn thịt để đẩy lùi bệnh Chikungunya](https://dantri.com.vn/suc-khoe/trung-quoc-tha-muoi-an-thit-de-day-lui-benh-chikungunya-20250813142455125.htm) - 08:00 13/08/2025
