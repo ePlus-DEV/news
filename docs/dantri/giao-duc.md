@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [&quot;Đỗ đâu dừng đấy&quot; sau thi tốt nghiệp THPT: Tạo đặc quyền cho trường &quot;top&quot;?](https://dantri.com.vn/giao-duc/do-dau-dung-day-sau-thi-tot-nghiep-thpt-tao-dac-quyen-cho-truong-top-20250812225216026.htm) - 23:00 12/08/2025
+- 🤡 [&quot;Đỗ đâu dừng đấy&quot; sau thi tốt nghiệp THPT: Tạo đặc quyền cho trường top?](https://dantri.com.vn/giao-duc/do-dau-dung-day-sau-thi-tot-nghiep-thpt-tao-dac-quyen-cho-truong-top-20250812225216026.htm) - 23:00 12/08/2025
 - 🗽 [Bộ GD&amp;ĐT cảnh báo những thủ đoạn “bắt cóc online”](https://dantri.com.vn/giao-duc/bo-gddt-canh-bao-nhung-thu-doan-bat-coc-online-20250812224356404.htm) - 16:15 12/08/2025
 - 🚦 [Dự kiến chỉnh sửa hàng loạt nội dung trong chương trình phổ thông](https://dantri.com.vn/giao-duc/du-kien-chinh-sua-hang-loat-noi-dung-trong-chuong-trinh-pho-thong-20250812180216446.htm) - 11:08 12/08/2025
 - 🌋 [Lễ khai giảng đặc biệt và lịch nghỉ lễ 2/9 của học sinh Hà Nội](https://dantri.com.vn/giao-duc/le-khai-giang-dac-biet-va-lich-nghi-le-29-cua-hoc-sinh-ha-noi-20250812143238562.htm) - 07:43 12/08/2025
