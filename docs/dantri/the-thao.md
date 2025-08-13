@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Indonesia bình luận khi bóng chuyền nữ Việt Nam chiến thắng sau án phạt](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-khi-bong-chuyen-nu-viet-nam-chien-thang-sau-an-phat-20250813195415950.htm) - 13:00 13/08/2025
-- 💯 [Myanmar 1-1 Philippines &lpar;Hiệp 2&rpar;: Lộ diện đối thủ của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/myanmar-1-1-philippines-hiep-2-lo-dien-doi-thu-cua-tuyen-nu-viet-nam-20250813155442484.htm) - 12:20 13/08/2025
+- 💯 [Tuyển nữ Việt Nam gặp U23 nữ Australia, Thái Lan đối đầu Myanmar ở bán kết](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-gap-u23-nu-australia-thai-lan-doi-dau-myanmar-o-ban-ket-20250813155442484.htm) - 12:20 13/08/2025
 - ⛽️ [Son Heung Min gây sốt lớn, sắp phá sâu kỷ lục của Lionel Messi](https://dantri.com.vn/the-thao/son-heung-min-gay-sot-lon-sap-pha-sau-ky-luc-cua-lionel-messi-20250813191609426.htm) - 12:16 13/08/2025
 - 💃 [Sân Lạch Tray lập kỷ lục khán giả, báo Đông Nam Á hết lời ca ngợi](https://dantri.com.vn/the-thao/san-lach-tray-lap-ky-luc-khan-gia-bao-dong-nam-a-het-loi-ca-ngoi-20250813162920280.htm) - 10:19 13/08/2025
 - 🌈 [Báo Thái Lan tin vào khả năng kháng án thành công của bóng chuyền Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-tin-vao-kha-nang-khang-an-thanh-cong-cua-bong-chuyen-viet-nam-20250813145644455.htm) - 09:00 13/08/2025
