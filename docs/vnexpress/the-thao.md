@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Hà Nội FC sử dụng cầu thủ nhập tịch sau 7 năm](https://vnexpress.net/ha-noi-fc-su-dung-cau-thu-nhap-tich-sau-7-nam-4927029.html) - 12:48 14/08/2025
-- 🦩 [Việt Nam có thể lật ngược án phạt của FIVB không?](https://vnexpress.net/viet-nam-co-the-lat-nguoc-an-phat-cua-fivb-khong-4926998.html) - 12:33 14/08/2025
+- 🦩 [Việt Nam không thể lật ngược án phạt của FIVB](https://vnexpress.net/viet-nam-khong-the-lat-nguoc-an-phat-cua-fivb-4926998.html) - 12:33 14/08/2025
 - 🧰 [Bỏ thuốc lá nhờ chạy bộ, runner U60 chạy HM sub1:25](https://vnexpress.net/bo-thuoc-la-nho-chay-bo-runner-u60-chay-hm-sub1-25-4926221.html) - 11:00 14/08/2025
 - 🤗 [Nguyễn Thị Oanh: &#39;Tôi nhớ nhất tấm HC vàng giành được sau bạo bệnh&#39;](https://vnexpress.net/nguyen-thi-oanh-toi-nho-nhat-tam-hc-vang-gianh-duoc-sau-bao-benh-4926919.html) - 09:12 14/08/2025
 - 🥳 [Vì sao FIVB không công bố lý do cầu thủ U21 Việt Nam mất tư cách?](https://vnexpress.net/vi-sao-fivb-khong-cong-bo-ly-do-cau-thu-u21-viet-nam-mat-tu-cach-4926830.html) - 06:32 14/08/2025
@@ -56,11 +56,11 @@ sidebar_position: 5
 - 🙉 [VĐV Nga bò về đích, không nhớ giành HC vàng thế nào](https://vnexpress.net/vdv-nga-bo-ve-dich-khong-nho-gianh-hc-vang-the-nao-4926121.html) - 22:40 12/08/2025
 - 🏊 [Mbappe giúp Real chạy đà hoàn hảo cho La Liga](https://vnexpress.net/mbappe-giup-real-chay-da-hoan-hao-cho-la-liga-4926123.html) - 22:34 12/08/2025
 - 🌊 [Việt Nam bị xử thua bốn trận ở giải bóng chuyền nữ U21 thế giới](https://vnexpress.net/viet-nam-bi-xu-thua-bon-tran-o-giai-bong-chuyen-nu-u21-the-gioi-4926089.html) - 17:24 12/08/2025
-- 👨‍🏫 [Việt Nam thắng Thái Lan ở ASEAN Cup nữ 2025](https://vnexpress.net/viet-nam-thang-thai-lan-o-asean-cup-nu-2025-4925958-tong-thuat.html) - 11:45 12/08/2025
-- 🥷 [Liên đoàn bóng chuyền Việt Nam phủ nhận hai nữ VĐV phải kiểm tra giới tính](https://vnexpress.net/lien-doan-bong-chuyen-viet-nam-phu-nhan-hai-nu-vdv-phai-kiem-tra-gioi-tinh-4926057.html) - 11:22 12/08/2025
-- ⚗️ [HLV Thái Lan: &#39;Chưa thấy ai đập bóng ghi điểm nhiều như Bích Tuyền&#39;](https://vnexpress.net/hlv-thai-lan-chua-thay-ai-dap-bong-ghi-diem-nhieu-nhu-bich-tuyen-4925940.html) - 08:58 12/08/2025
-- 🌮 [Cơ thủ Quyết Chiến lần đầu vào bán kết World Games](https://vnexpress.net/co-thu-quyet-chien-lan-dau-vao-ban-ket-world-games-4925929.html) - 08:45 12/08/2025
-- 🤩 [Vì sao PSG quyết gạt bỏ Donnarumma?](https://vnexpress.net/vi-sao-psg-quyet-gat-bo-donnarumma-4925930.html) - 08:17 12/08/2025
-- 🏊 [Việt Nam hạ Puerto Rico ở giải bóng chuyền U21 nữ thế giới](https://vnexpress.net/viet-nam-ha-puerto-rico-o-giai-bong-chuyen-u21-nu-the-gioi-4925914.html) - 08:16 12/08/2025
+- 👨‍🏫 [Những cái chết liên tiếp và câu hỏi về tương lai quyền Anh](https://vnexpress.net/nhung-cai-chet-lien-tiep-va-cau-hoi-ve-tuong-lai-quyen-anh-4925526.html) - 17:00 12/08/2025
+- 🥷 [Việt Nam thắng Thái Lan ở ASEAN Cup nữ 2025](https://vnexpress.net/viet-nam-thang-thai-lan-o-asean-cup-nu-2025-4925958-tong-thuat.html) - 11:45 12/08/2025
+- ⚗️ [Liên đoàn bóng chuyền Việt Nam phủ nhận hai nữ VĐV phải kiểm tra giới tính](https://vnexpress.net/lien-doan-bong-chuyen-viet-nam-phu-nhan-hai-nu-vdv-phai-kiem-tra-gioi-tinh-4926057.html) - 11:22 12/08/2025
+- 🌮 [HLV Thái Lan: &#39;Chưa thấy ai đập bóng ghi điểm nhiều như Bích Tuyền&#39;](https://vnexpress.net/hlv-thai-lan-chua-thay-ai-dap-bong-ghi-diem-nhieu-nhu-bich-tuyen-4925940.html) - 08:58 12/08/2025
+- 🤩 [Cơ thủ Quyết Chiến lần đầu vào bán kết World Games](https://vnexpress.net/co-thu-quyet-chien-lan-dau-vao-ban-ket-world-games-4925929.html) - 08:45 12/08/2025
+- 🏊 [Vì sao PSG quyết gạt bỏ Donnarumma?](https://vnexpress.net/vi-sao-psg-quyet-gat-bo-donnarumma-4925930.html) - 08:17 12/08/2025
 - 🐎 [Chuyện tình cổ tích của Ronaldo và Georgina](https://vnexpress.net/chuyen-tinh-co-tich-cua-ronaldo-va-georgina-4925787.html) - 06:54 12/08/2025
 - 💫 [Pedri: &#39;Khi bị 2-3 cầu thủ gây sức ép, tôi cố chuyền cho Messi&#39;](https://vnexpress.net/pedri-khi-bi-2-3-cau-thu-gay-suc-ep-toi-co-chuyen-cho-messi-4916486.html) - 04:00 12/08/2025<!-- vnexpress-the-thao:END -->
