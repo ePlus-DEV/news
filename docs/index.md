@@ -407,7 +407,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Thủ tướng: Xây dựng văn hóa phòng cháy, chữa cháy, phòng chống thiên tai, nâng cao kỹ năng cứu nạn, cứu hộ trong toàn dân](https://baochinhphu.vn/thu-tuong-xay-dung-van-hoa-phong-chay-chua-chay-phong-chong-thien-tai-nang-cao-ky-nang-cuu-nan-cuu-ho-trong-toan-dan-102250814113132701.htm) - 11:37 14/08/2025
-- 🌜 [Hiện thực hóa phát triển xanh của ngành Nông nghiệp Môi trường](https://baochinhphu.vn/hien-thuc-hoa-phat-trien-xanh-cua-nganh-nong-nghiep-moi-truong-102250814111639212.htm) - 11:21 14/08/2025
+- 🌜 [Hiện thực hóa phát triển xanh của ngành Nông nghiệp và Môi trường](https://baochinhphu.vn/hien-thuc-hoa-phat-trien-xanh-cua-nganh-nong-nghiep-moi-truong-102250814111639212.htm) - 11:21 14/08/2025
 - 🦆 [Lồng ghép nội dung đô thị thông minh vào quy hoạch đô thị](https://baochinhphu.vn/long-ghep-noi-dung-do-thi-thong-minh-vao-quy-hoach-do-thi-102250814111705176.htm) - 11:16 14/08/2025
 - 🌝 [Hiệu quả từ sự tăng cường sự lãnh đạo của Đảng với phát triển lâm nghiệp](https://baochinhphu.vn/hieu-qua-tu-su-tang-cuong-su-lanh-dao-cua-dang-voi-phat-trien-lam-nghiep-102250814105919326.htm) - 11:11 14/08/2025
 - 🦣 [CHUYỂN ĐỔI SỐ: &#39;Nhà máy nhân tài AI&#39; tại Indonesia](https://baochinhphu.vn/chuyen-doi-so-nha-may-nhan-tai-ai-tai-indonesia-102250814105936135.htm) - 10:59 14/08/2025
