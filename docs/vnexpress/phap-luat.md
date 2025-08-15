@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [63 người lãnh án tù trong vụ án &#39;sòng bạc poker quốc tế&#39;](https://vnexpress.net/63-nguoi-lanh-an-tu-trong-vu-an-song-bac-poker-quoc-te-o-biet-thu-4927308.html) - 10:25 15/08/2025
+- 😎 [63 người lãnh án tù trong vụ án &#39;sòng bạc poker quốc tế&#39;](https://vnexpress.net/63-nguoi-lanh-an-tu-trong-vu-an-song-bac-poker-quoc-te-4927308.html) - 10:25 15/08/2025
 - 🥰 [Cụ bà 80 tuổi bị sát hại](https://vnexpress.net/cu-ba-80-tuoi-bi-sat-hai-4927406.html) - 10:19 15/08/2025
 - 🎓 [Hàng loạt người mất tiền vì mua túi Chanel, LV &#39;authentic&#39; giá rẻ](https://vnexpress.net/hang-loat-nguoi-mat-tien-vi-mua-tui-chanel-lv-authentic-gia-re-4927232.html) - 05:12 15/08/2025
 - 🤓 [Bảo mẫu của Mái ấm Hoa Hồng &#39;sức khỏe yếu&#39;, tòa hoãn xử](https://vnexpress.net/bao-mau-cua-mai-am-hoa-hong-suc-khoe-yeu-toa-hoan-xu-4927077.html) - 00:42 15/08/2025
