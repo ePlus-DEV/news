@@ -62,5 +62,5 @@ sidebar_position: 5
 - 🌮 [Xu hướng &#39;đi bộ kiểu Nhật&#39; gây sốt TikTok](https://vnexpress.net/xu-huong-di-bo-kieu-nhat-gay-sot-tiktok-4926069.html) - 23:02 12/08/2025
 - 🤩 [HLV Mai Đức Chung: &#39;Không có gì để chê trách khi thắng Thái Lan&#39;](https://vnexpress.net/hlv-mai-duc-chung-khong-co-gi-de-che-trach-khi-thang-thai-lan-4926109.html) - 22:53 12/08/2025
 - 🏊 [Carragher: &#39;Liverpool không dễ vô địch ngay cả khi có Isak&#39;](https://vnexpress.net/carragher-liverpool-khong-de-vo-dich-ngay-ca-khi-co-isak-4926122.html) - 22:46 12/08/2025
-- 🐎 [Việt Nam bị xử thua bốn trận ở giải bóng chuyền nữ U21 thế giới](https://vnexpress.net/viet-nam-bi-xu-thua-bon-tran-o-giai-bong-chuyen-nu-u21-the-gioi-4926089.html) - 17:24 12/08/2025
-- 💫 [Những cái chết liên tiếp và câu hỏi về tương lai quyền Anh](https://vnexpress.net/nhung-cai-chet-lien-tiep-va-cau-hoi-ve-tuong-lai-quyen-anh-4925526.html) - 17:00 12/08/2025<!-- vnexpress-the-thao:END -->
+- 🐎 [VĐV Nga bò về đích, không nhớ giành HC vàng thế nào](https://vnexpress.net/vdv-nga-bo-ve-dich-khong-nho-gianh-hc-vang-the-nao-4926121.html) - 22:40 12/08/2025
+- 💫 [Việt Nam bị xử thua bốn trận ở giải bóng chuyền nữ U21 thế giới](https://vnexpress.net/viet-nam-bi-xu-thua-bon-tran-o-giai-bong-chuyen-nu-u21-the-gioi-4926089.html) - 17:24 12/08/2025<!-- vnexpress-the-thao:END -->
