@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [Kinh nghiệm xin visa Schengen của người làm công việc tự do](https://vnexpress.net/kinh-nghiem-xin-visa-schengen-cua-nguoi-lam-cong-viec-tu-do-4924592.html) - 17:00 15/08/2025
 - 🐲 [Startup hưởng lợi từ chính sách đầu tư mới](https://vnexpress.net/startup-huong-loi-tu-chinh-sach-dau-tu-moi-4926459.html) - 17:00 15/08/2025
 - 🤓 [Cháy lớn chợ thực phẩm ở Đồng Tháp](https://vnexpress.net/chay-lon-cho-thuc-pham-o-dong-thap-4927506.html) - 16:38 15/08/2025
-- 💪 [Loạt tiêm kích F-22 xếp hàng chờ đón lãnh đạo Mỹ, Nga](https://vnexpress.net/loat-tiem-kich-f-22-xep-hang-cho-don-lanh-dao-my-nga-4927493.html) - 16:18 15/08/2025
+- 💪 [Ông Trump tiếp đón, bắt tay ông Putin tại Alaska](https://vnexpress.net/ong-trump-tiep-don-bat-tay-ong-putin-tai-alaska-4927493.html) - 16:18 15/08/2025
 - 🎓 [Cục CSGT: Đỗ sát hạch là đủ điều kiện lái xe](https://vnexpress.net/cuc-csgt-do-sat-hach-la-du-dieu-kien-lai-xe-4927495.html) - 16:13 15/08/2025
 - 🫣 [Indonesia thua đậm Thái Lan ở giải U21 bóng chuyền nữ thế giới](https://vnexpress.net/indonesia-thua-dam-thai-lan-o-giai-u21-bong-chuyen-nu-the-gioi-4927499.html) - 15:57 15/08/2025
 - 🧑‍💻 [Đình Trọng đổ máu ở trận mở màn V-League 2025-2026](https://vnexpress.net/dinh-trong-do-mau-o-tran-mo-man-v-league-2025-2026-4927496.html) - 15:49 15/08/2025
