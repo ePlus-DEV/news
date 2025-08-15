@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [U tuyến yên âm thầm cướp cơ hội làm bố của người đàn ông](https://vnexpress.net/u-tuyen-yen-am-tham-cuop-co-hoi-lam-bo-cua-nguoi-dan-ong-4927363.html) - 23:00 15/08/2025
 - 🧰 [Nham nhở bãi biển Mũi Né](https://vnexpress.net/nham-nho-bai-bien-mui-ne-4923161.html) - 23:00 15/08/2025
 - 🥰 [10 ôtô xăng, dầu bán nhiều nhất tháng 7](https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-nhieu-nhat-thang-7-4926451.html) - 22:56 15/08/2025
-- 🌏 [Ông Putin tuyên bố đã đạt thỏa thuận với ông Trump](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525.html) - 22:54 15/08/2025
+- 🌏 [Tổng thống Mỹ - Nga họp báo sau ba tiếng hội đàm](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525.html) - 22:54 15/08/2025
 - 🧐 [Hàng loạt hội nhóm &#39;thu phí hoạt động&#39; vì Cuba](https://vnexpress.net/hang-loat-hoi-nhom-thu-phi-hoat-dong-vi-cuba-4927507.html) - 22:00 15/08/2025
 - 💫 [Thực đơn cá - tôm giúp no lâu, dáng đẹp](https://vnexpress.net/thuc-don-ca-tom-giup-no-lau-dang-dep-4926703.html) - 22:00 15/08/2025
 - 😺 [Kho hàng vắng tiếng trò chuyện](https://vnexpress.net/kho-hang-vang-tieng-tro-chuyen-4926601.html) - 22:00 15/08/2025
