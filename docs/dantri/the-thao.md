@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [CLB Công an Hà Nội chia điểm với Thể Công Viettel ở ngày mở màn V-League](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-chia-diem-voi-the-cong-viettel-o-ngay-mo-man-v-league-20250815214950970.htm) - 14:51 15/08/2025
-- 💯 [Đội tuyển bóng chuyền nữ U21 Việt Nam thất bại trước U21 Chile](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-that-bai-truoc-u21-chile-20250815195308295.htm) - 12:53 15/08/2025
+- 💯 [Đội tuyển bóng chuyền nữ U21 Việt Nam thua U21 Chile tại giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-thua-u21-chile-tai-giai-the-gioi-20250815195308295.htm) - 12:53 15/08/2025
 - ⛽️ [Báo Hàn Quốc phản ứng khi tiền đạo cao 2,06m sẵn sàng nhập tịch Việt Nam](https://dantri.com.vn/the-thao/bao-han-quoc-phan-ung-khi-tien-dao-cao-206m-san-sang-nhap-tich-viet-nam-20250815191814030.htm) - 12:30 15/08/2025
 - 💃 [Suunto Run: Khi phục hồi là chìa khóa bứt phá của runner](https://dantri.com.vn/the-thao/suunto-run-khi-phuc-hoi-la-chia-khoa-but-pha-cua-runner-20250815175651224.htm) - 11:03 15/08/2025
 - 🌈 [Usain Bolt chọn người kế nhiệm ngôi vương trên đường chạy 100m](https://dantri.com.vn/the-thao/usain-bolt-chon-nguoi-ke-nhiem-ngoi-vuong-tren-duong-chay-100m-20250815155609609.htm) - 08:56 15/08/2025
