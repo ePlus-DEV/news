@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Vì sao ông Putin nhắc đến hiệp ước hạt nhân trước thềm thượng đỉnh Mỹ - Nga](https://vnexpress.net/vi-sao-ong-putin-nhac-den-hiep-uoc-hat-nhan-truoc-them-thuong-dinh-my-nga-4927456.html) - 18:20 15/08/2025
 - 🕴 [Lý do Nga bán Alaska cho Mỹ với giá 7,2 triệu USD năm 1867](https://vnexpress.net/ly-do-nga-ban-alaska-cho-my-voi-gia-7-2-trieu-usd-nam-1867-4927106.html) - 18:00 15/08/2025
-- 🤭 [Ông Trump tiếp đón, bắt tay ông Putin tại Alaska](https://vnexpress.net/ong-trump-tiep-don-bat-tay-ong-putin-tai-alaska-4927493.html) - 16:18 15/08/2025
+- 🤭 [Ông Trump mời ông Putin ngồi cùng xe đến điểm họp ở Alaska](https://vnexpress.net/ong-trump-moi-ong-putin-ngoi-cung-xe-den-diem-hop-o-alaska-4927493.html) - 16:18 15/08/2025
 - 🧑‍💻 [Thủ đô Washington kiện chính quyền ông Trump vì lệnh tiếp quản cảnh sát](https://vnexpress.net/thu-do-washington-kien-chinh-quyen-ong-trump-vi-lenh-tiep-quan-canh-sat-4927489.html) - 15:42 15/08/2025
 - 🦏 [Lở đất, lũ quét khiến gần 200 người thiệt mạng tại Pakistan](https://vnexpress.net/lo-dat-lu-quet-khien-gan-200-nguoi-thiet-mang-tai-pakistan-4927482.html) - 14:42 15/08/2025
 - 🦒 [Thủ tướng Phạm Minh Chính điện đàm với Thủ tướng Campuchia](https://vnexpress.net/thu-tuong-pham-minh-chinh-dien-dam-voi-thu-tuong-campuchia-4927462.html) - 12:46 15/08/2025
