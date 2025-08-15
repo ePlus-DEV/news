@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Thượng đỉnh Nga - Mỹ: Ông Trump sẽ đón ông Putin tại sân bay](https://dantri.com.vn/the-gioi/thuong-dinh-nga-my-ong-trump-se-don-ong-putin-tai-san-bay-20250815160704535.htm) - 16:24 15/08/2025
+- 🌋 [Tổng thống Trump bắt tay Tổng thống Putin, thượng đỉnh Nga - Mỹ bắt đầu](https://dantri.com.vn/the-gioi/tong-thong-trump-bat-tay-tong-thong-putin-thuong-dinh-nga-my-bat-dau-20250815160704535.htm) - 16:24 15/08/2025
 - 🎬 [Tổng thống Ukraine lên tiếng trước cuộc gặp của Tổng thống Nga - Mỹ](https://dantri.com.vn/the-gioi/tong-thong-ukraine-len-tieng-truoc-cuoc-gap-cua-tong-thong-nga-my-20250815220515810.htm) - 15:31 15/08/2025
 - 🧰 [Ông Trump tiết lộ nội dung đàm phán với ông Putin khi lên đường tới Alaska](https://dantri.com.vn/the-gioi/ong-trump-tiet-lo-noi-dung-dam-phan-voi-ong-putin-khi-len-duong-toi-alaska-20250815200450287.htm) - 13:28 15/08/2025
 - 🌋 [Công chúa Thái Lan bị nhiễm trùng máu sau gần 3 năm hôn mê](https://dantri.com.vn/the-gioi/cong-chua-thai-lan-bi-nhiem-trung-mau-sau-gan-3-nam-hon-me-20250815171227102.htm) - 12:38 15/08/2025
