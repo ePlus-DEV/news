@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump sẽ đón ông Putin ở sân bay Alaska](https://vnexpress.net/ong-trump-se-don-ong-putin-o-san-bay-alaska-4927493.html) - 16:18 15/08/2025
+- 🎭 [Cuộc gặp Trump - Putin có thể kéo dài ít nhất 6-7 tiếng](https://vnexpress.net/cuoc-gap-trump-putin-co-the-keo-dai-it-nhat-6-7-tieng-4927493.html) - 16:18 15/08/2025
 - 🕴 [Thủ đô Washington kiện chính quyền ông Trump vì lệnh tiếp quản cảnh sát](https://vnexpress.net/thu-do-washington-kien-chinh-quyen-ong-trump-vi-lenh-tiep-quan-canh-sat-4927489.html) - 15:42 15/08/2025
 - 🤭 [Lở đất, lũ quét khiến gần 200 người thiệt mạng tại Pakistan](https://vnexpress.net/lo-dat-lu-quet-khien-gan-200-nguoi-thiet-mang-tai-pakistan-4927482.html) - 14:42 15/08/2025
 - 🧑‍💻 [Thủ tướng Phạm Minh Chính điện đàm với Thủ tướng Campuchia](https://vnexpress.net/thu-tuong-pham-minh-chinh-dien-dam-voi-thu-tuong-campuchia-4927462.html) - 12:46 15/08/2025
