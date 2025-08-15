@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Mỹ - Nga họp báo sau ba tiếng hội đàm](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525.html) - 22:54 15/08/2025
+- 🎭 [Ông Putin, ông Trump tuyên bố đạt tiến bộ lớn trong hội nghị thượng đỉnh](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525.html) - 22:54 15/08/2025
 - 🕴 [Vì sao ông Putin nhắc đến hiệp ước hạt nhân trước thềm thượng đỉnh Mỹ - Nga](https://vnexpress.net/vi-sao-ong-putin-nhac-den-hiep-uoc-hat-nhan-truoc-them-thuong-dinh-my-nga-4927456.html) - 18:20 15/08/2025
 - 🤭 [Lý do Nga bán Alaska cho Mỹ với giá 7,2 triệu USD năm 1867](https://vnexpress.net/ly-do-nga-ban-alaska-cho-my-voi-gia-7-2-trieu-usd-nam-1867-4927106.html) - 18:00 15/08/2025
 - 🧑‍💻 [Ông Trump và ông Putin tươi cười bắt tay, ngồi chung xe tại Alaska](https://vnexpress.net/ong-trump-va-ong-putin-tuoi-cuoi-bat-tay-ngoi-chung-xe-tai-alaska-4927493-tong-thuat.html) - 16:18 15/08/2025
