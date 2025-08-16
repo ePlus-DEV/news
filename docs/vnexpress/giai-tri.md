@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Denzel Washington: &#39;Không quan trọng việc đoạt Oscar&#39;](https://vnexpress.net/denzel-washington-khong-quan-trong-viec-doat-oscar-4927113.html) - 09:19 16/08/2025
+- 🌏 [Denzel Washington: &#39;Không quan trọng đoạt Oscar&#39;](https://vnexpress.net/denzel-washington-khong-quan-trong-doat-oscar-4927113.html) - 09:19 16/08/2025
 - 💫 [Liên hoan guitar quốc tế Sài Gòn 2025 tăng kết nối](https://vnexpress.net/lien-hoan-guitar-quoc-te-sai-gon-2025-tang-ket-noi-4927623.html) - 06:53 16/08/2025
 - 🌮 [&#39;Mâu thuẫn nhà Beckham ngày càng sâu sắc&#39;](https://vnexpress.net/mau-thuan-nha-beckham-ngay-cang-sau-sac-4927567.html) - 06:39 16/08/2025
 - 🧠 [Cường Đô La và nhiều sao diện mốt &#39;giày lười tỷ phú&#39;](https://vnexpress.net/cuong-do-la-va-nhieu-sao-dien-mot-giay-luoi-ty-phu-4927399.html) - 05:42 16/08/2025
