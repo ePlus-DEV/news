@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thắng kịch tính Hải Phòng, CLB Nam Định khởi đầu V-League thuận lợi](https://dantri.com.vn/the-thao/thang-kich-tinh-hai-phong-clb-nam-dinh-khoi-dau-v-league-thuan-loi-20250816210422855.htm) - 14:08 16/08/2025
-- 💯 [Tuyển nữ Việt Nam 0-2 U23 nữ Australia &lpar;hiệp 2&rpar;: Tuyển nữ Việt Nam ép sân](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-2-u23-nu-australia-hiep-2-tuyen-nu-viet-nam-ep-san-20250816193605745.htm) - 12:36 16/08/2025
+- 💯 [Tuyển nữ Việt Nam 0-2 U23 nữ Australia &lpar;hiệp 2&rpar;: Nỗ lực dồn ép](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-2-u23-nu-australia-hiep-2-no-luc-don-ep-20250816193605745.htm) - 12:36 16/08/2025
 - ⛽️ [Đội tuyển bóng chuyền nữ U21 Việt Nam xếp hạng 19 tại giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-xep-hang-19-tai-giai-the-gioi-20250816155814791.htm) - 08:58 16/08/2025
 - 💃 [Xuất sắc ngược dòng trước Thái Lan, Myanmar giành quyền vào chung kết](https://dantri.com.vn/the-thao/xuat-sac-nguoc-dong-truoc-thai-lan-myanmar-gianh-quyen-vao-chung-ket-20250816154536937.htm) - 08:45 16/08/2025
 - 🌈 [10 bản hợp đồng mới được mong chờ nhất tại Ngoại hạng Anh](https://dantri.com.vn/the-thao/10-ban-hop-dong-moi-duoc-mong-cho-nhat-tai-ngoai-hang-anh-20250815120856234.htm) - 08:00 16/08/2025
