@@ -404,7 +404,7 @@ trúng xe hơi](https://nld.com.vn/mua-yen-sao-khanh-hoa-nu-khach-hang-o-hue-vo-
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TỔNG THUẬT: Hội nghị sơ kết thực hiện chỉ tiêu phát triển nhà ở xã hội 7 tháng đầu năm 2025](https://baochinhphu.vn/tong-thuat-hoi-nghi-so-ket-thuc-hien-chi-tieu-phat-trien-nha-o-xa-hoi-7-thang-dau-nam-2025-102250816080752272.htm) - 10:34 16/08/2025
+- 💻 [TỔNG THUẬT: Hội nghị sơ kết thực hiện chỉ tiêu phát triển nhà ở xã hội 7 tháng đầu năm 2025](https://baochinhphu.vn/tong-thuat-hoi-nghi-so-ket-thuc-hien-chi-tieu-phat-trien-nha-o-xa-hoi-7-thang-dau-nam-2025-102250816080752272.htm) - 11:50 16/08/2025
 - 🌜 [Cổng thông tin hỗ trợ người nộp thuế có tích hợp trợ lý AI](https://baochinhphu.vn/cong-thong-tin-ho-tro-nguoi-nop-thue-co-tich-hop-tro-ly-ai-102250816102935071.htm) - 10:27 16/08/2025
 - 🦆 [Phân công người phát ngôn của ngành hải quan](https://baochinhphu.vn/phan-cong-nguoi-phat-ngon-cua-nganh-hai-quan-102250816095335417.htm) - 09:51 16/08/2025
 - 🌝 [THUẾ QUAN HOA KỲ: Mở rộng danh mục chịu thuế](https://baochinhphu.vn/thue-quan-hoa-ky-mo-rong-danh-muc-chiu-thue-102250816095903419.htm) - 09:06 16/08/2025
