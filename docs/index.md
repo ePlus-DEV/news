@@ -527,7 +527,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Teen Trường THPT Nguyễn An Ninh tổ chức gian hàng 0 đồng chan chứa yêu thương](https://muctim.tuoitre.vn/teen-truong-thpt-nguyen-an-ninh-to-chuc-gian-hang-0-dong-chan-chua-yeu-thuong-101250816153108703.htm) - 11:25 16/08/2025
-- 🥷 [Trực tiếp bán kết bóng đá nữ Đông Nam Á: Việt Nam - U23 Úc](https://muctim.tuoitre.vn/truc-tiep-ban-ket-bong-da-nu-dong-nam-a-viet-nam-u23-uc-101250816175321472.htm) - 11:20 16/08/2025
+- 🥷 [Trực tiếp bán kết bóng đá nữ Đông Nam Á: Việt Nam - U23 Úc: 0-2 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-ban-ket-bong-da-nu-dong-nam-a-viet-nam-u23-uc-101250816175321472.htm) - 11:20 16/08/2025
 - 🤖 [Tuyển bóng chuyền nữ U21 Việt Nam về đích giải vô địch thế giới với vị trí 19](https://muctim.tuoitre.vn/tuyen-bong-chuyen-nu-u21-viet-nam-ve-dich-giai-vo-dich-the-gioi-voi-vi-tri-19-101250816171748996.htm) - 11:13 16/08/2025
 - 🤓 [Về miền Tây cào nghêu, hái dừa cùng Gia đình Haha](https://muctim.tuoitre.vn/ve-mien-tay-cao-ngheu-hai-dua-cung-gia-dinh-haha-101250816150614131.htm) - 09:01 16/08/2025
 - 🎉 [Khi mẹ và con đều là thí sinh của Giải Lê Quý Đôn](https://muctim.tuoitre.vn/khi-me-va-con-deu-la-thi-sinh-cua-giai-le-quy-don-101250816152608661.htm) - 08:52 16/08/2025
@@ -556,7 +556,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤡 [Giải Lê Quý Đôn - người bạn đồng hành trên hành trình phát triển của Nguyễn Hoàng Phúc](https://muctim.tuoitre.vn/giai-le-quy-don-nguoi-ban-dong-hanh-tren-hanh-trinh-phat-trien-cua-nguyen-hoang-phuc-101250815191249773.htm) - 13:38 15/08/2025
 - 🌁 [Chợ phiên: Không gian cuối tuần cho giới trẻ mê mua sắm và làm đồ thủ công](https://muctim.tuoitre.vn/cho-phien-khong-gian-cuoi-tuan-cho-gioi-tre-me-mua-sam-va-lam-do-thu-cong-101250815190111339.htm) - 13:24 15/08/2025
 - 🎓 [Đa dạng sách và quà tặng mừng Quốc khánh 2-9 tại Đường sách TP.HCM](https://muctim.tuoitre.vn/da-dang-sach-va-qua-tang-mung-quoc-khanh-2-9-tai-duong-sach-tphcm-101250813190856889.htm) - 12:21 15/08/2025
-- 🦍 [Cô gái 9X dành hơn một thập kỉ để sáng tạo cờ Đông Sơn](https://muctim.tuoitre.vn/co-gai-9x-danh-hon-mot-thap-ki-de-sang-tao-co-dong-son-101250815153335912.htm) - 12:13 15/08/2025
+- 🦍 [Cô gái 9X dành hơn một thập kỉ để sáng tạo Cờ Đông Sơn](https://muctim.tuoitre.vn/co-gai-9x-danh-hon-mot-thap-ki-de-sang-tao-co-dong-son-101250815153335912.htm) - 12:13 15/08/2025
 - 🤠 [Xem lại V Concert - Rạng rỡ Việt Nam trên VTV những khung giờ nào?](https://muctim.tuoitre.vn/xem-lai-v-concert-rang-ro-viet-nam-tren-vtv-nhung-khung-gio-nao-101250815165241726.htm) - 10:48 15/08/2025
 - 🎬 [Cách nhận vé miễn phí concert Việt Nam trong tôi](https://muctim.tuoitre.vn/cach-nhan-ve-mien-phi-concert-viet-nam-trong-toi-101250815164248549.htm) - 10:45 15/08/2025
 - 🌮 [Cục vàng của ngoại hé lộ dàn cast, hóa ra là bộ ba quen thuộc](https://muctim.tuoitre.vn/cuc-vang-cua-ngoai-he-lo-dan-cast-hoa-ra-la-bo-ba-quen-thuoc-101250815162755981.htm) - 09:44 15/08/2025
