@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tuyển nữ Việt Nam 0-1 U23 nữ Australia &lpar;hiệp 1&rpar;: Bàn thua từ rất sớm](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-1-u23-nu-australia-hiep-1-ban-thua-tu-rat-som-20250816193605745.htm) - 12:36 16/08/2025
+- 🎭 [Tuyển nữ Việt Nam 0-2 U23 nữ Australia &lpar;hiệp 1&rpar;: Hai bàn thua quá sớm](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-2-u23-nu-australia-hiep-1-hai-ban-thua-qua-som-20250816193605745.htm) - 12:36 16/08/2025
 - 👨‍🏫 [Xác minh thông tin nộp 50 triệu đồng mới được đưa thi thể chết đuối về nhà](https://dantri.com.vn/xa-hoi/xac-minh-thong-tin-nop-50-trieu-dong-moi-duoc-dua-thi-the-chet-duoi-ve-nha-20250816183847043.htm) - 11:50 16/08/2025
 - 🌮 [Phản ứng của các bên sau hội nghị thượng đỉnh Nga - Mỹ](https://dantri.com.vn/the-gioi/phan-ung-cua-cac-ben-sau-hoi-nghi-thuong-dinh-nga-my-20250816175819480.htm) - 11:09 16/08/2025
 - 🕯 [“Vượt nắng thắng mưa”, ý chí ngày hội non sông](https://dantri.com.vn/xa-hoi/vuot-nang-thang-mua-y-chi-ngay-hoi-non-song-20250816173102317.htm) - 10:46 16/08/2025
