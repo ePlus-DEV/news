@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ngoại binh cao 2,06 m kiến tạo bằng gối giúp Nam Định thắng ngược](https://vnexpress.net/ngoai-binh-cao-2-06-m-kien-tao-bang-goi-giup-nam-dinh-thang-nguoc-4927735.html) - 13:26 16/08/2025
-- 🦩 [Việt Nam 0-2 Australia &lpar;H2&rpar;: Hai gáo nước lạnh](https://vnexpress.net/truc-tiep-viet-nam-vs-australia-4927733.html) - 12:30 16/08/2025
+- 🦩 [Việt Nam 0-2 Australia &lpar;H2&rpar;: Thế trận khó khăn](https://vnexpress.net/truc-tiep-viet-nam-vs-australia-4927733.html) - 12:30 16/08/2025
 - 🧰 [Thái Lan lỡ chung kết ASEAN Cup nữ sau 10 năm](https://vnexpress.net/thai-lan-lo-chung-ket-asean-cup-nu-sau-10-nam-4927721.html) - 11:20 16/08/2025
 - 🤗 [Việt Nam thắng dễ trận cuối giải U21 bóng chuyền nữ thế giới](https://vnexpress.net/viet-nam-thang-de-tran-cuoi-giai-u21-bong-chuyen-nu-the-gioi-4927711.html) - 10:44 16/08/2025
 - 🥳 [Monica Seles - huyền thoại tennis luôn bắt đầu lại từ con số không](https://vnexpress.net/monica-seles-huyen-thoai-tennis-luon-bat-dau-lai-tu-con-so-khong-4927628.html) - 10:15 16/08/2025
