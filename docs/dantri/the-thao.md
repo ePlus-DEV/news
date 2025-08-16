@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tuyển nữ Việt Nam 0-2 U23 nữ Australia &lpar;hiệp 1&rpar;: Hai bàn thua quá sớm](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-2-u23-nu-australia-hiep-1-hai-ban-thua-qua-som-20250816193605745.htm) - 12:36 16/08/2025
+- 🎡 [Tuyển nữ Việt Nam 0-2 U23 nữ Australia &lpar;hiệp 1&rpar;: Nỗ lực ghi bàn](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-2-u23-nu-australia-hiep-1-no-luc-ghi-ban-20250816193605745.htm) - 12:36 16/08/2025
 - 💯 [Đội tuyển bóng chuyền nữ U21 Việt Nam xếp hạng 19 tại giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-xep-hang-19-tai-giai-the-gioi-20250816155814791.htm) - 08:58 16/08/2025
 - ⛽️ [Xuất sắc ngược dòng trước Thái Lan, Myanmar giành quyền vào chung kết](https://dantri.com.vn/the-thao/xuat-sac-nguoc-dong-truoc-thai-lan-myanmar-gianh-quyen-vao-chung-ket-20250816154536937.htm) - 08:45 16/08/2025
 - 💃 [Xem trực tiếp trận tuyển nữ Việt Nam gặp U23 nữ Australia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-u23-nu-australia-o-dau-20250816131733402.htm) - 07:17 16/08/2025
