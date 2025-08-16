@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô khách tông container trên cao tốc, tài xế mắc kẹt trong cabin](https://vnexpress.net/oto-khach-tong-container-tren-cao-toc-tai-xe-mac-ket-trong-cabin-4927627.html) - 04:20 16/08/2025
+- 🦒 [Ôtô khách tông container trên cao tốc](https://vnexpress.net/oto-khach-tong-container-tren-cao-toc-4927627.html) - 04:20 16/08/2025
 - 🤓 [Hơn một triệu người đi bộ &#39;Vì Việt Nam đoàn kết, hùng cường&#39;](https://vnexpress.net/hon-mot-trieu-nguoi-di-bo-vi-viet-nam-doan-ket-hung-cuong-4927599.html) - 03:55 16/08/2025
 - ⚗️ [Triển lãm tranh ủng hộ trẻ em yếu thế](https://vnexpress.net/trien-lam-tranh-ung-ho-tre-em-yeu-the-4927550.html) - 03:22 16/08/2025
 - 🌊 [Trồng sim dại hái quả bán](https://vnexpress.net/trong-sim-dai-hai-qua-ban-4926044.html) - 02:39 16/08/2025
