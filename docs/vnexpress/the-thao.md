@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tiến Linh lập công giúp Công an TP HCM hạ Hà Nội FC](https://vnexpress.net/tien-linh-lap-cong-giup-cong-an-tp-hcm-ha-ha-noi-fc-4927751.html) - 14:38 16/08/2025
-- 🦩 [Ngoại binh cao 2,06 m kiến tạo bằng gối giúp Nam Định thắng ngược](https://vnexpress.net/ngoai-binh-cao-2-06-m-kien-tao-bang-goi-giup-nam-dinh-thang-nguoc-4927735.html) - 13:26 16/08/2025
+- 🦩 [Ngoại binh cao hơn 2 m kiến tạo bằng gối trong chiến thắng của Nam Định](https://vnexpress.net/ngoai-binh-cao-hon-2-m-kien-tao-bang-goi-trong-chien-thang-cua-nam-dinh-4927735.html) - 13:26 16/08/2025
 - 🧰 [Việt Nam thua Australia ở bán kết ASEAN Cup nữ](https://vnexpress.net/ket-qua-viet-nam-vs-australia-4927733.html) - 12:30 16/08/2025
 - 🤗 [Thái Lan lỡ chung kết ASEAN Cup nữ sau 10 năm](https://vnexpress.net/thai-lan-lo-chung-ket-asean-cup-nu-sau-10-nam-4927721.html) - 11:20 16/08/2025
 - 🥳 [Việt Nam thắng dễ trận cuối giải U21 bóng chuyền nữ thế giới](https://vnexpress.net/viet-nam-thang-de-tran-cuoi-giai-u21-bong-chuyen-nu-the-gioi-4927711.html) - 10:44 16/08/2025
