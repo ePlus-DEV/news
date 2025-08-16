@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển bóng chuyền nữ U21 Việt Nam 25-19, 25-17, 18-12 Dominica](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-25-19-25-17-18-12-dominica-20250816155814791.htm) - 08:58 16/08/2025
-- 💯 [Tuyển nữ Thái Lan 1-1 Myanmar &lpar;hết hiệp 1&rpar;: Giằng co nảy lửa](https://dantri.com.vn/the-thao/tuyen-nu-thai-lan-1-1-myanmar-het-hiep-1-giang-co-nay-lua-20250816154536937.htm) - 08:45 16/08/2025
-- ⛽️ [Xem trực tiếp trận U21 bóng chuyền Việt Nam gặp Dominica trên kênh nào?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u21-bong-chuyen-viet-nam-gap-dominica-tren-kenh-nao-20250816133212599.htm) - 06:32 16/08/2025
-- 💃 [Xem trực tiếp trận tuyển nữ Việt Nam gặp U23 nữ Australia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-u23-nu-australia-o-dau-20250816131733402.htm) - 06:17 16/08/2025
+- 🎡 [Đội tuyển bóng chuyền nữ U21 Việt Nam xếp hạng 19 tại giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-u21-viet-nam-xep-hang-19-tai-giai-the-gioi-20250816155814791.htm) - 08:58 16/08/2025
+- 💯 [Tuyển nữ Thái Lan 1-2 Myanmar &lpar;hiệp 2&rpar;: Rất bất ngờ](https://dantri.com.vn/the-thao/tuyen-nu-thai-lan-1-2-myanmar-hiep-2-rat-bat-ngo-20250816154536937.htm) - 08:45 16/08/2025
+- ⛽️ [Xem trực tiếp trận tuyển nữ Việt Nam gặp U23 nữ Australia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-u23-nu-australia-o-dau-20250816131733402.htm) - 07:17 16/08/2025
+- 💃 [Xem trực tiếp trận U21 bóng chuyền Việt Nam gặp Dominica trên kênh nào?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u21-bong-chuyen-viet-nam-gap-dominica-tren-kenh-nao-20250816133212599.htm) - 06:32 16/08/2025
 - 🌈 [HLV Arne Slot: &quot;Tôi đã vô thức lướt tìm Diogo Jota để tung vào sân”](https://dantri.com.vn/the-thao/hlv-arne-slot-toi-da-vo-thuc-luot-tim-diogo-jota-de-tung-vao-san-20250816105357925.htm) - 04:19 16/08/2025
 - 🦅 [Ngôi sao Bayern Munich đồng ý lương khủng, sát cánh cùng C.Ronaldo](https://dantri.com.vn/the-thao/ngoi-sao-bayern-munich-dong-y-luong-khung-sat-canh-cung-cronaldo-20250816104351774.htm) - 03:43 16/08/2025
 - 🌝 [VAR bị chỉ trích vì sai lầm nghiêm trọng trong chiến thắng của Liverpool](https://dantri.com.vn/the-thao/var-bi-chi-trich-vi-sai-lam-nghiem-trong-trong-chien-thang-cua-liverpool-20250816101740395.htm) - 03:30 16/08/2025
