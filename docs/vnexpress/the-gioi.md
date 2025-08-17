@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nhân viên ngoại giao Mỹ bỏ quên tài liệu thượng đỉnh ở khách sạn](https://vnexpress.net/nhan-vien-ngoai-giao-my-bo-quen-tai-lieu-thuong-dinh-o-khach-san-4927963.html) - 12:59 17/08/2025
-- 🕴 [Loạt lãnh đạo châu Âu sẽ cùng ông Zelensky đến gặp ông Trump](https://vnexpress.net/loat-lanh-dao-chau-au-se-cung-ong-zelensky-den-gap-ong-trump-4927964.html) - 12:18 17/08/2025
-- 🤭 [Biểu tình yêu cầu chấm dứt xung đột Gaza bùng phát khắp Israel](https://vnexpress.net/bieu-tinh-yeu-cau-cham-dut-xung-dot-gaza-bung-phat-khap-israel-4927949.html) - 10:59 17/08/2025
-- 🧑‍💻 [Ngoại trưởng Nga gây sốt vì áo mặc trước thượng đỉnh Trump - Putin](https://vnexpress.net/ngoai-truong-nga-gay-sot-vi-ao-mac-truoc-thuong-dinh-trump-putin-4927942.html) - 09:54 17/08/2025
-- 🦏 [Ông Medvedev: Ông Trump sẽ hạn chế gây áp lực lên Nga](https://vnexpress.net/ong-medvedev-ong-trump-se-han-che-gay-ap-luc-len-nga-4927916.html) - 08:10 17/08/2025
-- 🦒 [Israel chuẩn bị di dời cư dân Gaza City](https://vnexpress.net/israel-chuan-bi-di-doi-cu-dan-gaza-city-4927870.html) - 05:48 17/08/2025
-- 🌈 [Thông điệp từ màn phô diễn máy bay tàng hình Mỹ trước thượng đỉnh Trump - Putin](https://vnexpress.net/thong-diep-tu-man-pho-dien-may-bay-tang-hinh-my-truoc-thuong-dinh-trump-putin-4927740.html) - 05:00 17/08/2025
-- 🧑‍🏫 [Loạt bang Mỹ điều Vệ binh Quốc gia tới thủ đô Washington](https://vnexpress.net/loat-bang-my-dieu-ve-binh-quoc-gia-toi-thu-do-washington-4927851.html) - 04:19 17/08/2025
-- 🐲 [Những người Mỹ mắc kẹt trong &#39;chiếc còng vàng&#39;](https://vnexpress.net/nhung-nguoi-my-mac-ket-trong-chiec-cong-vang-4927218.html) - 02:46 17/08/2025
-- 🦒 [Khoảnh khắc ghế phóng kích hoạt, khiến hành khách văng khỏi tiêm kích Mỹ](https://vnexpress.net/khoanh-khac-ghe-phong-kich-hoat-khien-hanh-khach-vang-khoi-tiem-kich-my-4927821.html) - 02:43 17/08/2025
-- 🐻 [Ông Trump đổi lập trường, bỏ yêu cầu về lệnh ngừng bắn ở Ukraine](https://vnexpress.net/ong-trump-doi-lap-truong-bo-yeu-cau-ve-lenh-ngung-ban-o-ukraine-4927809.html) - 01:10 17/08/2025
-- 🚀 [Bà Melania gửi &#39;thư hòa bình&#39; cho ông Putin](https://vnexpress.net/ba-melania-gui-thu-hoa-binh-cho-ong-putin-4927803.html) - 00:20 17/08/2025
-- 🥰 [Khu mộ chiến sĩ Hồng quân Liên Xô tại Alaska](https://vnexpress.net/khu-mo-chien-si-hong-quan-lien-xo-tai-alaska-4927707.html) - 22:00 16/08/2025
-- 🔥 [Người Mỹ uống bia rượu ít nhất lịch sử](https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html) - 19:00 16/08/2025
-- 🥳 [Những vụ phóng ghế thoát hiểm khiến hành khách văng khỏi máy bay](https://vnexpress.net/nhung-vu-phong-ghe-thoat-hiem-khien-hanh-khach-vang-khoi-may-bay-4927358.html) - 18:00 16/08/2025
-- 💼 [Hơn 340 người chết vì lũ quét ở Pakistan](https://vnexpress.net/hon-340-nguoi-chet-vi-lu-quet-o-pakistan-4927749.html) - 15:33 16/08/2025
-- 🤡 [Chủ tịch Cuba cảm ơn sự giúp đỡ của người dân Việt Nam](https://vnexpress.net/chu-tich-cuba-cam-on-su-giup-do-cua-nguoi-dan-viet-nam-4927761.html) - 14:38 16/08/2025
-- 🌁 [Chiến thắng ông Putin giành được từ cuộc gặp thượng đỉnh ở Alaska](https://vnexpress.net/chien-thang-ong-putin-gianh-duoc-tu-cuoc-gap-thuong-dinh-o-alaska-4927553.html) - 14:00 16/08/2025
-- 🤩 [Mỹ có thể đã đề xuất đảm bảo an ninh kiểu NATO cho Ukraine](https://vnexpress.net/my-co-the-da-de-xuat-dam-bao-an-ninh-kieu-nato-cho-ukraine-4927736.html) - 13:35 16/08/2025
-- 🎉 [Màn chào đón nồng nhiệt ông Trump dành cho ông Putin tại Alaska](https://vnexpress.net/man-chao-don-nong-nhiet-ong-trump-danh-cho-ong-putin-tai-alaska-4927533.html) - 12:00 16/08/2025
-- 🎉 [Người Ukraine thất vọng với hội nghị thượng đỉnh Mỹ - Nga](https://vnexpress.net/nguoi-ukraine-that-vong-voi-hoi-nghi-thuong-dinh-my-nga-4927692.html) - 11:17 16/08/2025
-- 🌁 [Ông Zelensky sắp đến Mỹ gặp ông Trump](https://vnexpress.net/ong-zelensky-sap-den-my-gap-ong-trump-4927673.html) - 09:32 16/08/2025
-- 🌊 [Mỹ điều loạt tiêm kích F-35 tiễn chuyên cơ của ông Putin](https://vnexpress.net/my-dieu-loat-tiem-kich-f-35-tien-chuyen-co-cua-ong-putin-4927672.html) - 08:14 16/08/2025
-- 🕴 [Nga, Ukraine tập kích nhau trong ngày diễn ra thượng đỉnh Trump - Putin](https://vnexpress.net/nga-ukraine-tap-kich-nhau-trong-ngay-dien-ra-thuong-dinh-trump-putin-4927662.html) - 07:26 16/08/2025
-- 🎓 [Đảng Dân chủ định vẽ lại bản đồ bầu cử ở California](https://vnexpress.net/dang-dan-chu-dinh-ve-lai-ban-do-bau-cu-o-california-4927629.html) - 06:45 16/08/2025
-- 🦩 [Washington điều tàu chiến &#39;chống băng đảng ma túy ở Mỹ Latin&#39;](https://vnexpress.net/washington-dieu-tau-chien-chong-bang-dang-ma-tuy-o-my-latin-4927589.html) - 04:17 16/08/2025
-- 🌏 [Phong thái của Tổng thống Trump - Putin tại thượng đỉnh Alaska](https://vnexpress.net/phong-thai-cua-tong-thong-trump-putin-tai-thuong-dinh-alaska-4927549.html) - 03:45 16/08/2025
-- 🌋 [Ông Trump: Mỹ và Nga nhất trí phần lớn về nhượng bộ lãnh thổ](https://vnexpress.net/ong-trump-my-va-nga-nhat-tri-phan-lon-ve-nhuong-bo-lanh-tho-4927587.html) - 03:36 16/08/2025
-- 🪜 [5 giờ gặp nhau của lãnh đạo Nga - Mỹ tại Alaska](https://vnexpress.net/5-gio-gap-nhau-cua-lanh-dao-nga-my-tai-alaska-4927575.html) - 03:13 16/08/2025
-- 🕴 [Cuộc họp báo chớp nhoáng sau thượng đỉnh Trump - Putin](https://vnexpress.net/cuoc-hop-bao-chop-nhoang-sau-thuong-dinh-trump-putin-4927562.html) - 02:41 16/08/2025
-- 🧑‍🏫 [Bà Hillary nêu khả năng đề cử ông Trump cho giải Nobel Hòa bình](https://vnexpress.net/ba-hillary-neu-kha-nang-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4927554.html) - 02:18 16/08/2025
-- 🌮 [California giải cứu người đàn ông kẹt hai ngày sau thác nước](https://vnexpress.net/california-giai-cuu-nguoi-dan-ong-ket-hai-ngay-sau-thac-nuoc-4927292.html) - 01:17 16/08/2025
-- 🚦 [Ông Putin, ông Trump tuyên bố đạt tiến bộ lớn trong hội nghị thượng đỉnh](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525-tong-thuat.html) - 22:54 15/08/2025
-- 💫 [Vì sao ông Putin nhắc đến hiệp ước hạt nhân trước thềm thượng đỉnh Mỹ - Nga](https://vnexpress.net/vi-sao-ong-putin-nhac-den-hiep-uoc-hat-nhan-truoc-them-thuong-dinh-my-nga-4927456.html) - 18:20 15/08/2025
-- 🤡 [Lý do Nga bán Alaska cho Mỹ với giá 7,2 triệu USD năm 1867](https://vnexpress.net/ly-do-nga-ban-alaska-cho-my-voi-gia-7-2-trieu-usd-nam-1867-4927106.html) - 18:00 15/08/2025
-- 🦣 [Ông Trump và ông Putin tươi cười bắt tay, ngồi chung xe tại Alaska](https://vnexpress.net/ong-trump-va-ong-putin-tuoi-cuoi-bat-tay-ngoi-chung-xe-tai-alaska-4927493-tong-thuat.html) - 16:18 15/08/2025
-- 🎬 [Thủ đô Washington kiện chính quyền ông Trump vì lệnh tiếp quản cảnh sát](https://vnexpress.net/thu-do-washington-kien-chinh-quyen-ong-trump-vi-lenh-tiep-quan-canh-sat-4927489.html) - 15:42 15/08/2025
-- 🎉 [Lở đất, lũ quét khiến gần 200 người thiệt mạng tại Pakistan](https://vnexpress.net/lo-dat-lu-quet-khien-gan-200-nguoi-thiet-mang-tai-pakistan-4927482.html) - 14:42 15/08/2025
-- 🎡 [Thủ tướng Phạm Minh Chính điện đàm với Thủ tướng Campuchia](https://vnexpress.net/thu-tuong-pham-minh-chinh-dien-dam-voi-thu-tuong-campuchia-4927462.html) - 12:46 15/08/2025
-- 🌜 [Ông Trump và ông Putin sắp gặp nhau ở Alaska trong vài giờ tới](https://vnexpress.net/ong-trump-va-ong-putin-sap-gap-nhau-o-alaska-trong-vai-gio-toi-4927440.html) - 12:27 15/08/2025
-- 🎡 [Kết quả Mỹ - Nga có thể đạt được từ hội nghị thượng đỉnh ở Alaska](https://vnexpress.net/ket-qua-my-nga-co-the-dat-duoc-tu-hoi-nghi-thuong-dinh-o-alaska-4927064.html) - 12:00 15/08/2025
-- 🤗 [Loạt vụ gấu tấn công người gây lo ngại ở Nhật](https://vnexpress.net/loat-vu-gau-tan-cong-nguoi-gay-lo-ngai-o-nhat-4927350.html) - 11:22 15/08/2025
-- 🦩 [Lính Thái Lan trốn khỏi doanh trại, bắn trọng thương dân thường](https://vnexpress.net/linh-thai-lan-tron-khoi-doanh-trai-ban-trong-thuong-dan-thuong-4927389.html) - 10:21 15/08/2025
-- 🎓 [Nga &#39;xác định lập trường rõ ràng&#39; trước cuộc gặp Trump - Putin](https://vnexpress.net/nga-xac-dinh-lap-truong-ro-rang-truoc-cuoc-gap-trump-putin-4927351.html) - 09:27 15/08/2025
-- 🌁 [Hezbollah cảnh báo nguy cơ nội chiến hủy diệt ở Lebanon](https://vnexpress.net/hezbollah-canh-bao-nguy-co-noi-chien-huy-diet-o-lebanon-4927317.html) - 09:13 15/08/2025
-- 🤩 [Ukraine nghiên cứu băng đảng ma túy để đưa drone vào đất Nga](https://vnexpress.net/ukraine-nghien-cuu-bang-dang-ma-tuy-de-dua-drone-vao-dat-nga-4926920.html) - 08:54 15/08/2025
-- 👹 [Công chúa Thái Lan bị nhiễm trùng máu nghiêm trọng](https://vnexpress.net/cong-chua-thai-lan-bi-nhiem-trung-mau-nghiem-trong-4927285.html) - 08:52 15/08/2025
-- ⛽️ [Những đòn bẩy ông Trump có thể đưa ra với Nga tại Alaska](https://vnexpress.net/nhung-don-bay-ong-trump-co-the-dua-ra-voi-nga-tai-alaska-4927210.html) - 08:18 15/08/2025
-- 🚀 [Cách Mỹ bảo vệ không phận Alaska trong thượng đỉnh Trump - Putin](https://vnexpress.net/cach-my-bao-ve-khong-phan-alaska-trong-thuong-dinh-trump-putin-4927202.html) - 07:46 15/08/2025
-- 🎡 [800 lính vệ binh bắt đầu tuần tra ở Washington theo lệnh ông Trump](https://vnexpress.net/800-linh-ve-binh-bat-dau-tuan-tra-o-washington-theo-lenh-ong-trump-4927236.html) - 07:32 15/08/2025
-- 🕯 [Người Cuba nỗ lực vượt qua tình cảnh thiếu điện](https://vnexpress.net/nguoi-cuba-no-luc-vuot-qua-tinh-canh-thieu-dien-4927151.html) - 07:24 15/08/2025
-- 🐻 [Lý do thượng đỉnh Trump - Putin diễn ra tại căn cứ quân sự ở Alaska](https://vnexpress.net/ly-do-thuong-dinh-trump-putin-dien-ra-tai-can-cu-quan-su-o-alaska-4927110.html) - 06:54 15/08/2025
-- 🚦 [Tình báo Mỹ thừa nhận Patriot Ukraine khó đối phó tên lửa Iskander](https://vnexpress.net/tinh-bao-my-thua-nhan-patriot-ukraine-kho-doi-pho-ten-lua-iskander-4927168.html) - 05:42 15/08/2025
-- 👍 [Căn cứ diễn ra hội nghị thượng đỉnh Trump - Putin](https://vnexpress.net/can-cu-dien-ra-hoi-nghi-thuong-dinh-trump-putin-4927165.html) - 05:05 15/08/2025
-- 🚀 [Nga, Ukraine tập kích nhau trước cuộc gặp Trump - Putin](https://vnexpress.net/nga-ukraine-tap-kich-nhau-truoc-cuoc-gap-trump-putin-4927137.html) - 03:44 15/08/2025
-- 🌮 [Thế khó của Thị trưởng Washington trước áp lực từ ông Trump](https://vnexpress.net/the-kho-cua-thi-truong-washington-truoc-ap-luc-tu-ong-trump-4926915.html) - 03:33 15/08/2025
-- 😎 [Thiếu phụ tùng, tiêm kích F-35 Anh lại mắc kẹt ở nước ngoài](https://vnexpress.net/thieu-phu-tung-tiem-kich-f-35-anh-lai-mac-ket-o-nuoc-ngoai-4927097.html) - 03:20 15/08/2025
-- 🐲 [Lũ quét phá hủy ngôi làng ở Ấn Độ, ít nhất 56 người chết](https://vnexpress.net/lu-quet-pha-huy-ngoi-lang-o-an-do-it-nhat-56-nguoi-chet-4927078.html) - 03:18 15/08/2025
-- 💫 [Loại virus khiến nhiều con thỏ &#39;mọc sừng&#39; ở Mỹ](https://vnexpress.net/loai-virus-khien-nhieu-con-tho-moc-sung-o-my-4927128.html) - 03:07 15/08/2025
-- 👀 [Hunter Biden từ chối xin lỗi Đệ nhất phu nhân Melania](https://vnexpress.net/hunter-biden-tu-choi-xin-loi-de-nhat-phu-nhan-melania-4927107.html) - 02:35 15/08/2025<!-- vnexpress-the-gioi:END -->
+- 🎭 [Phái viên Mỹ: Nga đồng ý để Mỹ đảm bảo an ninh kiểu NATO cho Ukraine](https://vnexpress.net/phai-vien-my-nga-dong-y-de-my-dam-bao-an-ninh-kieu-nato-cho-ukraine-4928002.html) - 15:29 17/08/2025
+- 🕴 [Iraq bắt đầu khai quật hố chôn &#39;4.000 nạn nhân của IS&#39;](https://vnexpress.net/iraq-bat-dau-khai-quat-ho-chon-4-000-nan-nhan-cua-is-4927981.html) - 15:01 17/08/2025
+- 🤭 [Nga cáo buộc Ukraine phóng UAV nhằm vào nhà máy điện hạt nhân](https://vnexpress.net/nga-cao-buoc-ukraine-phong-uav-nham-vao-nha-may-dien-hat-nhan-4927974.html) - 14:10 17/08/2025
+- 🧑‍💻 [Nhân viên ngoại giao Mỹ bỏ quên tài liệu thượng đỉnh ở khách sạn](https://vnexpress.net/nhan-vien-ngoai-giao-my-bo-quen-tai-lieu-thuong-dinh-o-khach-san-4927963.html) - 12:59 17/08/2025
+- 🦏 [Loạt lãnh đạo châu Âu sẽ cùng ông Zelensky đến gặp ông Trump](https://vnexpress.net/loat-lanh-dao-chau-au-se-cung-ong-zelensky-den-gap-ong-trump-4927964.html) - 12:18 17/08/2025
+- 🦒 [Biểu tình yêu cầu chấm dứt xung đột Gaza bùng phát khắp Israel](https://vnexpress.net/bieu-tinh-yeu-cau-cham-dut-xung-dot-gaza-bung-phat-khap-israel-4927949.html) - 10:59 17/08/2025
+- 🌈 [Ngoại trưởng Nga gây sốt vì áo mặc trước thượng đỉnh Trump - Putin](https://vnexpress.net/ngoai-truong-nga-gay-sot-vi-ao-mac-truoc-thuong-dinh-trump-putin-4927942.html) - 09:54 17/08/2025
+- 🧑‍🏫 [Ông Medvedev: Ông Trump sẽ hạn chế gây áp lực lên Nga](https://vnexpress.net/ong-medvedev-ong-trump-se-han-che-gay-ap-luc-len-nga-4927916.html) - 08:10 17/08/2025
+- 🐲 [Israel chuẩn bị di dời cư dân Gaza City](https://vnexpress.net/israel-chuan-bi-di-doi-cu-dan-gaza-city-4927870.html) - 05:48 17/08/2025
+- 🦒 [Thông điệp từ màn phô diễn máy bay tàng hình Mỹ trước thượng đỉnh Trump - Putin](https://vnexpress.net/thong-diep-tu-man-pho-dien-may-bay-tang-hinh-my-truoc-thuong-dinh-trump-putin-4927740.html) - 05:00 17/08/2025
+- 🐻 [Loạt bang Mỹ điều Vệ binh Quốc gia tới thủ đô Washington](https://vnexpress.net/loat-bang-my-dieu-ve-binh-quoc-gia-toi-thu-do-washington-4927851.html) - 04:19 17/08/2025
+- 🚀 [Những người Mỹ mắc kẹt trong &#39;chiếc còng vàng&#39;](https://vnexpress.net/nhung-nguoi-my-mac-ket-trong-chiec-cong-vang-4927218.html) - 02:46 17/08/2025
+- 🥰 [Khoảnh khắc ghế phóng kích hoạt, khiến hành khách văng khỏi tiêm kích Mỹ](https://vnexpress.net/khoanh-khac-ghe-phong-kich-hoat-khien-hanh-khach-vang-khoi-tiem-kich-my-4927821.html) - 02:43 17/08/2025
+- 🔥 [Ông Trump đổi lập trường, bỏ yêu cầu về lệnh ngừng bắn ở Ukraine](https://vnexpress.net/ong-trump-doi-lap-truong-bo-yeu-cau-ve-lenh-ngung-ban-o-ukraine-4927809.html) - 01:10 17/08/2025
+- 🥳 [Bà Melania gửi &#39;thư hòa bình&#39; cho ông Putin](https://vnexpress.net/ba-melania-gui-thu-hoa-binh-cho-ong-putin-4927803.html) - 00:20 17/08/2025
+- 💼 [Khu mộ chiến sĩ Hồng quân Liên Xô tại Alaska](https://vnexpress.net/khu-mo-chien-si-hong-quan-lien-xo-tai-alaska-4927707.html) - 22:00 16/08/2025
+- 🤡 [Người Mỹ uống bia rượu ít nhất lịch sử](https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html) - 19:00 16/08/2025
+- 🌁 [Những vụ phóng ghế thoát hiểm khiến hành khách văng khỏi máy bay](https://vnexpress.net/nhung-vu-phong-ghe-thoat-hiem-khien-hanh-khach-vang-khoi-may-bay-4927358.html) - 18:00 16/08/2025
+- 🤩 [Hơn 340 người chết vì lũ quét ở Pakistan](https://vnexpress.net/hon-340-nguoi-chet-vi-lu-quet-o-pakistan-4927749.html) - 15:33 16/08/2025
+- 🎉 [Chủ tịch Cuba cảm ơn sự giúp đỡ của người dân Việt Nam](https://vnexpress.net/chu-tich-cuba-cam-on-su-giup-do-cua-nguoi-dan-viet-nam-4927761.html) - 14:38 16/08/2025
+- 🎉 [Chiến thắng ông Putin giành được từ cuộc gặp thượng đỉnh ở Alaska](https://vnexpress.net/chien-thang-ong-putin-gianh-duoc-tu-cuoc-gap-thuong-dinh-o-alaska-4927553.html) - 14:00 16/08/2025
+- 🌁 [Mỹ có thể đã đề xuất đảm bảo an ninh kiểu NATO cho Ukraine](https://vnexpress.net/my-co-the-da-de-xuat-dam-bao-an-ninh-kieu-nato-cho-ukraine-4927736.html) - 13:35 16/08/2025
+- 🌊 [Màn chào đón nồng nhiệt ông Trump dành cho ông Putin tại Alaska](https://vnexpress.net/man-chao-don-nong-nhiet-ong-trump-danh-cho-ong-putin-tai-alaska-4927533.html) - 12:00 16/08/2025
+- 🕴 [Người Ukraine thất vọng với hội nghị thượng đỉnh Mỹ - Nga](https://vnexpress.net/nguoi-ukraine-that-vong-voi-hoi-nghi-thuong-dinh-my-nga-4927692.html) - 11:17 16/08/2025
+- 🎓 [Ông Zelensky sắp đến Mỹ gặp ông Trump](https://vnexpress.net/ong-zelensky-sap-den-my-gap-ong-trump-4927673.html) - 09:32 16/08/2025
+- 🦩 [Mỹ điều loạt tiêm kích F-35 tiễn chuyên cơ của ông Putin](https://vnexpress.net/my-dieu-loat-tiem-kich-f-35-tien-chuyen-co-cua-ong-putin-4927672.html) - 08:14 16/08/2025
+- 🌏 [Nga, Ukraine tập kích nhau trong ngày diễn ra thượng đỉnh Trump - Putin](https://vnexpress.net/nga-ukraine-tap-kich-nhau-trong-ngay-dien-ra-thuong-dinh-trump-putin-4927662.html) - 07:26 16/08/2025
+- 🌋 [Đảng Dân chủ định vẽ lại bản đồ bầu cử ở California](https://vnexpress.net/dang-dan-chu-dinh-ve-lai-ban-do-bau-cu-o-california-4927629.html) - 06:45 16/08/2025
+- 🪜 [Washington điều tàu chiến &#39;chống băng đảng ma túy ở Mỹ Latin&#39;](https://vnexpress.net/washington-dieu-tau-chien-chong-bang-dang-ma-tuy-o-my-latin-4927589.html) - 04:17 16/08/2025
+- 🕴 [Phong thái của Tổng thống Trump - Putin tại thượng đỉnh Alaska](https://vnexpress.net/phong-thai-cua-tong-thong-trump-putin-tai-thuong-dinh-alaska-4927549.html) - 03:45 16/08/2025
+- 🧑‍🏫 [Ông Trump: Mỹ và Nga nhất trí phần lớn về nhượng bộ lãnh thổ](https://vnexpress.net/ong-trump-my-va-nga-nhat-tri-phan-lon-ve-nhuong-bo-lanh-tho-4927587.html) - 03:36 16/08/2025
+- 🌮 [5 giờ gặp nhau của lãnh đạo Nga - Mỹ tại Alaska](https://vnexpress.net/5-gio-gap-nhau-cua-lanh-dao-nga-my-tai-alaska-4927575.html) - 03:13 16/08/2025
+- 🚦 [Cuộc họp báo chớp nhoáng sau thượng đỉnh Trump - Putin](https://vnexpress.net/cuoc-hop-bao-chop-nhoang-sau-thuong-dinh-trump-putin-4927562.html) - 02:41 16/08/2025
+- 💫 [Bà Hillary nêu khả năng đề cử ông Trump cho giải Nobel Hòa bình](https://vnexpress.net/ba-hillary-neu-kha-nang-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4927554.html) - 02:18 16/08/2025
+- 🤡 [California giải cứu người đàn ông kẹt hai ngày sau thác nước](https://vnexpress.net/california-giai-cuu-nguoi-dan-ong-ket-hai-ngay-sau-thac-nuoc-4927292.html) - 01:17 16/08/2025
+- 🦣 [Ông Putin, ông Trump tuyên bố đạt tiến bộ lớn trong hội nghị thượng đỉnh](https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525-tong-thuat.html) - 22:54 15/08/2025
+- 🎬 [Vì sao ông Putin nhắc đến hiệp ước hạt nhân trước thềm thượng đỉnh Mỹ - Nga](https://vnexpress.net/vi-sao-ong-putin-nhac-den-hiep-uoc-hat-nhan-truoc-them-thuong-dinh-my-nga-4927456.html) - 18:20 15/08/2025
+- 🎉 [Lý do Nga bán Alaska cho Mỹ với giá 7,2 triệu USD năm 1867](https://vnexpress.net/ly-do-nga-ban-alaska-cho-my-voi-gia-7-2-trieu-usd-nam-1867-4927106.html) - 18:00 15/08/2025
+- 🎡 [Ông Trump và ông Putin tươi cười bắt tay, ngồi chung xe tại Alaska](https://vnexpress.net/ong-trump-va-ong-putin-tuoi-cuoi-bat-tay-ngoi-chung-xe-tai-alaska-4927493-tong-thuat.html) - 16:18 15/08/2025
+- 🌜 [Thủ đô Washington kiện chính quyền ông Trump vì lệnh tiếp quản cảnh sát](https://vnexpress.net/thu-do-washington-kien-chinh-quyen-ong-trump-vi-lenh-tiep-quan-canh-sat-4927489.html) - 15:42 15/08/2025
+- 🎡 [Lở đất, lũ quét khiến gần 200 người thiệt mạng tại Pakistan](https://vnexpress.net/lo-dat-lu-quet-khien-gan-200-nguoi-thiet-mang-tai-pakistan-4927482.html) - 14:42 15/08/2025
+- 🤗 [Thủ tướng Phạm Minh Chính điện đàm với Thủ tướng Campuchia](https://vnexpress.net/thu-tuong-pham-minh-chinh-dien-dam-voi-thu-tuong-campuchia-4927462.html) - 12:46 15/08/2025
+- 🦩 [Ông Trump và ông Putin sắp gặp nhau ở Alaska trong vài giờ tới](https://vnexpress.net/ong-trump-va-ong-putin-sap-gap-nhau-o-alaska-trong-vai-gio-toi-4927440.html) - 12:27 15/08/2025
+- 🎓 [Kết quả Mỹ - Nga có thể đạt được từ hội nghị thượng đỉnh ở Alaska](https://vnexpress.net/ket-qua-my-nga-co-the-dat-duoc-tu-hoi-nghi-thuong-dinh-o-alaska-4927064.html) - 12:00 15/08/2025
+- 🌁 [Loạt vụ gấu tấn công người gây lo ngại ở Nhật](https://vnexpress.net/loat-vu-gau-tan-cong-nguoi-gay-lo-ngai-o-nhat-4927350.html) - 11:22 15/08/2025
+- 🤩 [Lính Thái Lan trốn khỏi doanh trại, bắn trọng thương dân thường](https://vnexpress.net/linh-thai-lan-tron-khoi-doanh-trai-ban-trong-thuong-dan-thuong-4927389.html) - 10:21 15/08/2025
+- 👹 [Nga &#39;xác định lập trường rõ ràng&#39; trước cuộc gặp Trump - Putin](https://vnexpress.net/nga-xac-dinh-lap-truong-ro-rang-truoc-cuoc-gap-trump-putin-4927351.html) - 09:27 15/08/2025
+- ⛽️ [Hezbollah cảnh báo nguy cơ nội chiến hủy diệt ở Lebanon](https://vnexpress.net/hezbollah-canh-bao-nguy-co-noi-chien-huy-diet-o-lebanon-4927317.html) - 09:13 15/08/2025
+- 🚀 [Ukraine nghiên cứu băng đảng ma túy để đưa drone vào đất Nga](https://vnexpress.net/ukraine-nghien-cuu-bang-dang-ma-tuy-de-dua-drone-vao-dat-nga-4926920.html) - 08:54 15/08/2025
+- 🎡 [Công chúa Thái Lan bị nhiễm trùng máu nghiêm trọng](https://vnexpress.net/cong-chua-thai-lan-bi-nhiem-trung-mau-nghiem-trong-4927285.html) - 08:52 15/08/2025
+- 🕯 [Những đòn bẩy ông Trump có thể đưa ra với Nga tại Alaska](https://vnexpress.net/nhung-don-bay-ong-trump-co-the-dua-ra-voi-nga-tai-alaska-4927210.html) - 08:18 15/08/2025
+- 🐻 [Cách Mỹ bảo vệ không phận Alaska trong thượng đỉnh Trump - Putin](https://vnexpress.net/cach-my-bao-ve-khong-phan-alaska-trong-thuong-dinh-trump-putin-4927202.html) - 07:46 15/08/2025
+- 🚦 [800 lính vệ binh bắt đầu tuần tra ở Washington theo lệnh ông Trump](https://vnexpress.net/800-linh-ve-binh-bat-dau-tuan-tra-o-washington-theo-lenh-ong-trump-4927236.html) - 07:32 15/08/2025
+- 👍 [Người Cuba nỗ lực vượt qua tình cảnh thiếu điện](https://vnexpress.net/nguoi-cuba-no-luc-vuot-qua-tinh-canh-thieu-dien-4927151.html) - 07:24 15/08/2025
+- 🚀 [Lý do thượng đỉnh Trump - Putin diễn ra tại căn cứ quân sự ở Alaska](https://vnexpress.net/ly-do-thuong-dinh-trump-putin-dien-ra-tai-can-cu-quan-su-o-alaska-4927110.html) - 06:54 15/08/2025
+- 🌮 [Tình báo Mỹ thừa nhận Patriot Ukraine khó đối phó tên lửa Iskander](https://vnexpress.net/tinh-bao-my-thua-nhan-patriot-ukraine-kho-doi-pho-ten-lua-iskander-4927168.html) - 05:42 15/08/2025
+- 😎 [Căn cứ diễn ra hội nghị thượng đỉnh Trump - Putin](https://vnexpress.net/can-cu-dien-ra-hoi-nghi-thuong-dinh-trump-putin-4927165.html) - 05:05 15/08/2025
+- 🐲 [Nga, Ukraine tập kích nhau trước cuộc gặp Trump - Putin](https://vnexpress.net/nga-ukraine-tap-kich-nhau-truoc-cuoc-gap-trump-putin-4927137.html) - 03:44 15/08/2025
+- 💫 [Thế khó của Thị trưởng Washington trước áp lực từ ông Trump](https://vnexpress.net/the-kho-cua-thi-truong-washington-truoc-ap-luc-tu-ong-trump-4926915.html) - 03:33 15/08/2025
+- 👀 [Thiếu phụ tùng, tiêm kích F-35 Anh lại mắc kẹt ở nước ngoài](https://vnexpress.net/thieu-phu-tung-tiem-kich-f-35-anh-lai-mac-ket-o-nuoc-ngoai-4927097.html) - 03:20 15/08/2025<!-- vnexpress-the-gioi:END -->
