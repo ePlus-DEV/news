@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Bức xúc vì quán Mechilin nổi tiếng tính giá gấp đôi thực đơn](https://vnexpress.net/buc-xuc-vi-quan-mechilin-noi-tieng-tinh-gia-gap-doi-thuc-don-4927966.html) - 17:09 17/08/2025
+- 💂 [Bức xúc vì quán Michelin nổi tiếng tính giá gấp đôi thực đơn](https://vnexpress.net/buc-xuc-vi-quan-michelin-noi-tieng-tinh-gia-gap-doi-thuc-don-4927966.html) - 17:09 17/08/2025
 - 🪄 [Hoàng Sơn - dãy núi đá granite hùng vĩ của Trung Quốc](https://vnexpress.net/hoang-son-day-nui-da-granite-hung-vi-cua-trung-quoc-4927968.html) - 12:00 17/08/2025
 - 🦅 [Những điểm khám phá Nha Trang về đêm](https://vnexpress.net/nhung-diem-kham-pha-nha-trang-ve-dem-4927852.html) - 08:00 17/08/2025
 - 🕴 [Bánh trứng thằn lằn - món xuất phát từ hoàng gia Thái Lan](https://vnexpress.net/banh-trung-than-lan-mon-xuat-phat-tu-hoang-gia-thai-lan-4927825.html) - 06:25 17/08/2025
