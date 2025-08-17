@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Khán giả xếp hàng dài chờ xem &#39;Tự hào là người Việt Nam&#39;](https://vnexpress.net/khan-gia-xep-hang-dai-cho-xem-tu-hao-la-nguoi-viet-nam-4927965.html) - 11:12 17/08/2025
+- 🌏 [Khán giả xếp hàng chờ xem &#39;Tự hào là người Việt Nam&#39;](https://vnexpress.net/khan-gia-xep-hang-cho-xem-tu-hao-la-nguoi-viet-nam-4927965.html) - 11:12 17/08/2025
 - 💫 [Mốt trang điểm &#39;Cô gái mệt mỏi&#39;](https://vnexpress.net/mot-trang-diem-co-gai-met-moi-4927840.html) - 07:40 17/08/2025
 - 🌮 [Tín Nguyễn: &#39;Tôi may mắn đóng phim cùng nghệ sĩ gạo cội&#39;](https://vnexpress.net/tin-nguyen-toi-may-man-dong-phim-cung-nghe-si-gao-coi-4927021.html) - 07:34 17/08/2025
 - 🧠 [Con gái ca sĩ Phương Vy làm mẫu nhí](https://vnexpress.net/con-gai-ca-si-phuong-vy-lam-mau-nhi-4927899.html) - 06:43 17/08/2025
