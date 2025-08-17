@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh tốt nghiệp hai trường trong 5 năm](https://vnexpress.net/nam-sinh-tot-nghiep-hai-truong-trong-5-nam-4927704.html) - 23:04 16/08/2025
+- 🤓 [Giành học bổng Chính phủ Trung Quốc với hai bằng đại học](https://vnexpress.net/gianh-hoc-bong-chinh-phu-trung-quoc-voi-hai-bang-dai-hoc-4927704.html) - 23:04 16/08/2025
 - 🦆 [Con học hết lớp 1, phụ huynh mới biết trường tuyển sinh &#39;chui&#39;](https://vnexpress.net/con-hoc-het-lop-1-phu-huynh-moi-biet-truong-tuyen-sinh-chui-4927724.html) - 13:49 16/08/2025
 - 🦩 [Tỉnh nào có ngôi làng mang tên một pháo đài của Cuba?](https://vnexpress.net/tinh-nao-co-ngoi-lang-mang-ten-mot-phao-dai-cua-cuba-4927610.html) - 12:26 16/08/2025
 - 🌮 [Ba cách hỏi lại khi không hiểu người Mỹ nói gì](https://vnexpress.net/ba-cach-hoi-lai-khi-khong-hieu-nguoi-my-noi-gi-4927659.html) - 06:15 16/08/2025
