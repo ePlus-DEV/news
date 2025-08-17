@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Tuyển bóng chuyền nữ Việt Nam thua đội có đẳng cấp thế giới](https://dantri.com.vn/the-thao/tuyen-bong-chuyen-nu-viet-nam-thua-doi-co-dang-cap-the-gioi-20250817221156281.htm) - 15:31 17/08/2025
-- 💯 [Man Utd 0-1 Arsenal &lpar;hết hiệp 1&rpar;: Calafiori đánh đầu mở tỷ số](https://dantri.com.vn/the-thao/man-utd-0-1-arsenal-het-hiep-1-calafiori-danh-dau-mo-ty-so-20250817222225271.htm) - 15:22 17/08/2025
+- 💯 [Man Utd 0-1 Arsenal &lpar;hiệp 2&rpar;: Calafiori đánh đầu mở tỷ số](https://dantri.com.vn/the-thao/man-utd-0-1-arsenal-hiep-2-calafiori-danh-dau-mo-ty-so-20250817222225271.htm) - 15:22 17/08/2025
 - ⛽️ [CLB Ninh Bình thắng kịch tính HL Hà Tĩnh, CLB Thanh Hóa hòa SHB Đà Nẵng](https://dantri.com.vn/the-thao/clb-ninh-binh-thang-kich-tinh-hl-ha-tinh-clb-thanh-hoa-hoa-shb-da-nang-20250817203242631.htm) - 13:48 17/08/2025
 - 💃 [HAGL thua đậm CLB TPHCM, PVF-CAND bất ngờ đánh bại SL Nghệ An](https://dantri.com.vn/the-thao/hagl-thua-dam-clb-tphcm-pvf-cand-bat-ngo-danh-bai-sl-nghe-an-20250817203645426.htm) - 13:41 17/08/2025
 - 🌈 [Sao nhập tịch Thái Lan tuyên bố đanh thép khi tái đấu tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/sao-nhap-tich-thai-lan-tuyen-bo-danh-thep-khi-tai-dau-tuyen-nu-viet-nam-20250817181942866.htm) - 11:19 17/08/2025
