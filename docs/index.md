@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [M.U thi đấu thảm họa, thua đau Arsenal trên sân nhà: HLV Amorim phải trả giá đắt](https://thanhnien.vn/mu-thi-dau-tham-hoa-thua-dau-arsenal-tren-san-nha-hlv-amorim-phai-tra-gia-dat-185250818003426661.htm) - 17:39 17/08/2025
+- 🤠 [M.U thi đấu thảm họa, thua đau Arsenal trên sân nhà: HLV Amorim phải trả giá đắt vì…](https://thanhnien.vn/mu-thi-dau-tham-hoa-thua-dau-arsenal-tren-san-nha-hlv-amorim-phai-tra-gia-dat-185250818003426661.htm) - 17:39 17/08/2025
 - 🥸 [Khởi đầu vô vàn khó khăn của HAGL, V-League nóng từ vòng mở màn](https://thanhnien.vn/khoi-dau-vo-van-kho-khan-cua-hagl-v-league-nong-tu-vong-mo-man-185250817214424701.htm) - 17:15 17/08/2025
 - 🌁 [Đội tuyển nữ Việt Nam cần kiên trì mục tiêu trẻ hóa](https://thanhnien.vn/doi-tuyen-nu-viet-nam-can-kien-tri-muc-tieu-tre-hoa-185250817185943136.htm) - 17:13 17/08/2025
 - 🤡 [Hướng dẫn mới của Mỹ về kiểm soát huyết áp lưu ý điều quan trọng gì?](https://thanhnien.vn/huong-dan-moi-cua-my-ve-kiem-soat-huyet-ap-luu-y-dieu-quan-trong-gi-185250817235726956.htm) - 17:08 17/08/2025
