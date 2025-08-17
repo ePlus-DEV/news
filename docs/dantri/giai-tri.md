@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Nghi vấn vợ kém 50 tuổi của danh họa Trung Quốc mất tích cùng gia tài lớn](https://dantri.com.vn/giai-tri/nghi-van-vo-kem-50-tuoi-cua-danh-hoa-trung-quoc-mat-tich-cung-gia-tai-lon-20250817144706888.htm) - 08:05 17/08/2025
-- 🔥 [Con trai cả của David Beckham đau lòng khi vợ bị gọi là “rắn độc”](https://dantri.com.vn/giai-tri/con-trai-ca-cua-david-beckham-dau-long-khi-vo-bi-goi-la-ran-doc-20250817101240290.htm) - 07:00 17/08/2025
-- 🚀 [&quot;Tiểu Long Nữ&quot; Lý Nhược Đồng bị nghi dùng hộ chiếu giả vì... quá trẻ](https://dantri.com.vn/giai-tri/tieu-long-nu-ly-nhuoc-dong-bi-nghi-dung-ho-chieu-gia-vi-qua-tre-20250817115526350.htm) - 06:59 17/08/2025
+- 🤩 [&quot;Tiểu Long Nữ&quot; Lý Nhược Đồng bị nghi dùng hộ chiếu giả vì... quá trẻ](https://dantri.com.vn/giai-tri/tieu-long-nu-ly-nhuoc-dong-bi-nghi-dung-ho-chieu-gia-vi-qua-tre-20250817115526350.htm) - 08:59 17/08/2025
+- 🔥 [Nghi vấn vợ kém 50 tuổi của danh họa Trung Quốc mất tích cùng gia tài lớn](https://dantri.com.vn/giai-tri/nghi-van-vo-kem-50-tuoi-cua-danh-hoa-trung-quoc-mat-tich-cung-gia-tai-lon-20250817144706888.htm) - 08:05 17/08/2025
+- 🚀 [Con trai cả của David Beckham đau lòng khi vợ bị gọi là “rắn độc”](https://dantri.com.vn/giai-tri/con-trai-ca-cua-david-beckham-dau-long-khi-vo-bi-goi-la-ran-doc-20250817101240290.htm) - 07:00 17/08/2025
 - 🔥 [Khán giả vẫy cờ, hát Quốc ca khi xem vở diễn của Nhà hát Kịch Việt Nam](https://dantri.com.vn/giai-tri/khan-gia-vay-co-hat-quoc-ca-khi-xem-vo-dien-cua-nha-hat-kich-viet-nam-20250817115418882.htm) - 05:55 17/08/2025
 - 🌈 [Hoa hậu Ngọc Hân 15 năm sau đăng quang: Sắp làm mẹ, nhan sắc thăng hạng](https://dantri.com.vn/giai-tri/hoa-hau-ngoc-han-15-nam-sau-dang-quang-sap-lam-me-nhan-sac-thang-hang-20250817120727563.htm) - 05:48 17/08/2025
 - 📝 [Chuyên gia tâm lý Đinh Đoàn nói về cuốn sách &quot;dạy con bằng trái tim&quot;](https://dantri.com.vn/giai-tri/chuyen-gia-tam-ly-dinh-doan-noi-ve-cuon-sach-day-con-bang-trai-tim-20250817005802190.htm) - 03:55 17/08/2025
