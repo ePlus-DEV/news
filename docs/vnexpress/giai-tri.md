@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phương Mỹ Chi, Hằng Lamoon tỏa sáng ở chung kết &#39;Em xinh&#39;](https://vnexpress.net/phuong-my-chi-hang-lamoon-toa-sang-o-chung-ket-em-xinh-4927816.html) - 03:29 17/08/2025
+- 🌏 [Phương Mỹ Chi tỏa sáng ở chung kết &#39;Em xinh&#39;](https://vnexpress.net/phuong-my-chi-toa-sang-o-chung-ket-em-xinh-4927816.html) - 03:29 17/08/2025
 - 💫 [&#39;Năm anh em trên một chiếc xe tăng&#39; - giai điệu vượt thời gian](https://vnexpress.net/nam-anh-em-tren-mot-chiec-xe-tang-giai-dieu-vuot-thoi-gian-4925741.html) - 03:03 17/08/2025
 - 🌮 [&#39;Cú hích&#39; của bậc thầy tâm lý học Carl Jung](https://vnexpress.net/cu-hich-cua-bac-thay-tam-ly-hoc-carl-jung-4925875.html) - 02:53 17/08/2025
 - 🧠 [2pillz - &#39;nhà sản xuất âm nhạc tỷ view&#39;](https://vnexpress.net/2pillz-nha-san-xuat-am-nhac-ty-view-4923986.html) - 00:45 17/08/2025
@@ -21,7 +21,7 @@ sidebar_position: 5
 - 🎊 [Lâm Bảo Ngọc: Trả hết nợ nhờ &#39;năng nhặt chặt bị&#39;](https://vnexpress.net/lam-bao-ngoc-tra-het-no-nho-nang-nhat-chat-bi-4926263.html) - 04:01 16/08/2025
 - 👹 [Hậu trường Lisa đóng phim cùng tài tử Nhật Bản](https://vnexpress.net/hau-truong-lisa-dong-phim-cung-tai-tu-nhat-ban-4927560.html) - 02:11 16/08/2025
 - 💻 [Nghệ sĩ Phước Sang nhập viện cấp cứu](https://vnexpress.net/nghe-si-phuoc-sang-nhap-vien-cap-cuu-4927504.html) - 17:08 15/08/2025
-- 🤡 [&#39;Concert quốc gia&#39; - khi giới trẻ yêu nhạc cách mạng](https://vnexpress.net/concert-quoc-gia-khi-gioi-tre-yeu-nhac-cach-mang-4925444.html) - 17:00 15/08/2025
+- 🤡 [&#39;Concert quốc gia&#39; - giới trẻ yêu nhạc cách mạng](https://vnexpress.net/concert-quoc-gia-gioi-tre-yeu-nhac-cach-mang-4925444.html) - 17:00 15/08/2025
 - 🥰 [Đêm nghệ thuật tái hiện Hà Nội qua những thời khắc lịch sử](https://vnexpress.net/dem-nghe-thuat-tai-hien-ha-noi-qua-nhung-thoi-khac-lich-su-4927487.html) - 15:39 15/08/2025
 - 🚀 [Hồi ký Xuân Hinh &lpar;kỳ cuối&rpar;: &#39;Bắc Bling&#39;](https://vnexpress.net/hoi-ky-xuan-hinh-ky-cuoi-bac-bling-4926229.html) - 12:28 15/08/2025
 - 📝 [Thành Long: &#39;Già đi là một niềm hạnh phúc&#39;](https://vnexpress.net/thanh-long-gia-di-la-mot-niem-hanh-phuc-4927120.html) - 12:16 15/08/2025
