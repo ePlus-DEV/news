@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Cận cảnh đàn gà lôi trắng được nuôi ở Thảo Cầm Viên Sài Gòn](https://dantri.com.vn/xa-hoi/can-canh-dan-ga-loi-trang-duoc-nuoi-o-thao-cam-vien-sai-gon-20250816132934940.htm) - 05:58 17/08/2025
-- 💼 [Tổng Bí thư tặng Huân chương Sao Vàng cho lực lượng Công an nhân dân](https://dantri.com.vn/xa-hoi/tong-bi-thu-tang-huan-chuong-sao-vang-cho-luc-luong-cong-an-nhan-dan-20250817122546318.htm) - 05:50 17/08/2025
+- 💼 [Tổng Bí thư trao tặng Huân chương Sao Vàng cho lực lượng Công an nhân dân](https://dantri.com.vn/xa-hoi/tong-bi-thu-trao-tang-huan-chuong-sao-vang-cho-luc-luong-cong-an-nhan-dan-20250817122546318.htm) - 05:50 17/08/2025
 - 🎊 [Chưa gượng dậy sau lũ lịch sử, xã biên giới ở Nghệ An lại bị chia cắt](https://dantri.com.vn/xa-hoi/chua-guong-day-sau-lu-lich-su-xa-bien-gioi-o-nghe-an-lai-bi-chia-cat-20250817114243062.htm) - 05:41 17/08/2025
 - 🙉 [Tổng Bí thư: &quot;Dân tộc hùng cường phải có quốc phòng, an ninh vững mạnh&quot;](https://dantri.com.vn/xa-hoi/tong-bi-thu-dan-toc-hung-cuong-phai-co-quoc-phong-an-ninh-vung-manh-20250817120045599.htm) - 05:09 17/08/2025
 - 🕯 [Đà Nẵng lên tiếng về việc chuyển đổi xe xăng sang xe điện](https://dantri.com.vn/xa-hoi/da-nang-len-tieng-ve-viec-chuyen-doi-xe-xang-sang-xe-dien-20250817101315699.htm) - 03:39 17/08/2025
