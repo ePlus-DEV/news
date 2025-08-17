@@ -529,7 +529,7 @@ bền vững nhất](https://nld.com.vn/tong-bi-thu-to-lam-the-tran-long-dan-la-
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp Man United - Arsenal: Gyokeres đá chính, Sesko dự bị](https://muctim.tuoitre.vn/truc-tiep-man-united-gap-arsenal-22h30-toi-nay-17-8-101250817214300277.htm) - 14:53 17/08/2025
+- 🤔 [Trực tiếp Man United - Arsenal: 0-1, Calafiori mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-man-united-gap-arsenal-22h30-toi-nay-17-8-101250817214300277.htm) - 14:53 17/08/2025
 - 🥷 [Ngập tràn niềm vui tại Ngày hội &#39;Lan tỏa yêu thương&#39;](https://muctim.tuoitre.vn/ngap-tran-niem-vui-tai-ngay-hoi-lan-toa-yeu-thuong-101250817204203318.htm) - 14:21 17/08/2025
 - 🤖 [Những bài hát được yêu thích tại các &#39;concert quốc gia&#39; dịp lễ 2-9](https://muctim.tuoitre.vn/nhung-bai-hat-duoc-yeu-thich-tai-cac-concert-quoc-gia-dip-le-2-9-101250817125235867.htm) - 13:41 17/08/2025
 - 🤓 [Ghen tỵ không hẳn là xấu](https://muctim.tuoitre.vn/ghen-ty-khong-han-la-xau-101250814182714542.htm) - 13:04 17/08/2025
