@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Cách ông Trump tăng cường dùng quân đội để &#39;trị quốc&#39;](https://vnexpress.net/cach-ong-trump-tang-cuong-dung-quan-doi-de-tri-quoc-4925874.html) - 17:00 18/08/2025
-- 🕴 [Loạt lãnh đạo châu Âu đến Nhà Trắng, chuẩn bị gặp ông Trump](https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530.html) - 15:50 18/08/2025
+- 🕴 [Ông Zelensky gặp ông Trump tại Nhà Trắng](https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530.html) - 15:50 18/08/2025
 - 🤭 [Khoảnh khắc tên lửa Iskander rải đạn chùm xuống mục tiêu Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-rai-dan-chum-xuong-muc-tieu-ukraine-4928476.html) - 14:28 18/08/2025
 - 🧑‍💻 [Hungary - Ukraine đấu khẩu về vụ tập kích đường ống dẫn dầu Nga](https://vnexpress.net/hungary-ukraine-dau-khau-ve-vu-tap-kich-duong-ong-dan-dau-nga-4928518.html) - 14:08 18/08/2025
 - 🦏 [Thay đổi lập trường của ông Trump với lệnh ngừng bắn Ukraine](https://vnexpress.net/thay-doi-lap-truong-cua-ong-trump-voi-lenh-ngung-ban-ukraine-4928072.html) - 12:00 18/08/2025
