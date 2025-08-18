@@ -47,7 +47,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⚗️ [Cách ông Trump tăng cường dùng quân đội để &#39;trị quốc&#39;](https://vnexpress.net/cach-ong-trump-tang-cuong-dung-quan-doi-de-tri-quoc-4925874.html) - 17:00 18/08/2025
 - 🫣 [Hành trình kỳ diệu của giáo sư Toán từng làm shipper, vạ vật ở Mỹ](https://vnexpress.net/hanh-trinh-ky-dieu-cua-giao-su-toan-tung-lam-shipper-va-vat-o-my-4915413.html) - 16:06 18/08/2025
 - 👨‍🏫 [Xử phạt tài xế gắn biển số chữ &#39;Happy Wedding&#39;](https://vnexpress.net/xu-phat-tai-xe-gan-bien-so-chu-happy-wedding-4928529.html) - 15:56 18/08/2025
-- 🐻 [Ông Zelensky gặp ông Trump tại Nhà Trắng](https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530.html) - 15:50 18/08/2025
+- 🐻 [Ông Zelensky gặp ông Trump tại Nhà Trắng](https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530-tong-thuat.html) - 15:50 18/08/2025
 - 😺 [Miễn vé tham quan di tích Huế cho khách Việt ngày 19/8 và Quốc khánh](https://vnexpress.net/mien-ve-tham-quan-di-tich-hue-cho-khach-viet-ngay-19-8-va-quoc-khanh-4928443.html) - 15:47 18/08/2025
 - 🤔 [Ba người bị khởi tố vì giết mổ, buôn bán lợn mắc dịch tả Châu Phi](https://vnexpress.net/ba-nguoi-bi-khoi-to-vi-giet-mo-buon-ban-lon-mac-dich-ta-chau-phi-4928535.html) - 15:44 18/08/2025
 - 🌮 [Khối xe pháo quân sự tập kết về trung tâm Hà Nội trong đêm](https://vnexpress.net/khoi-xe-phao-quan-su-tap-ket-ve-trung-tam-ha-noi-trong-dem-4928531.html) - 15:21 18/08/2025
