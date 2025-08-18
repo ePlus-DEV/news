@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Ông Putin thông báo với các đối tác về kết quả thượng đỉnh Nga - Mỹ](https://dantri.com.vn/the-gioi/ong-putin-thong-bao-voi-cac-doi-tac-ve-ket-qua-thuong-dinh-nga-my-20250818201635438.htm) - 16:15 18/08/2025
-- 🎬 [Các lãnh đạo châu Âu đến Nhà Trắng, chuẩn bị gặp ông Trump](https://dantri.com.vn/the-gioi/cac-lanh-dao-chau-au-den-nha-trang-chuan-bi-gap-ong-trump-20250818171147050.htm) - 16:10 18/08/2025
+- 🎬 [Ông Zelensky cùng các lãnh đạo châu Âu đến Nhà Trắng gặp ông Trump](https://dantri.com.vn/the-gioi/ong-zelensky-cung-cac-lanh-dao-chau-au-den-nha-trang-gap-ong-trump-20250818171147050.htm) - 16:10 18/08/2025
 - 🧰 [Ông Trump và ông Zelensky sẽ đàm phán vấn đề gì tại Nhà Trắng?](https://dantri.com.vn/the-gioi/ong-trump-va-ong-zelensky-se-dam-phan-van-de-gi-tai-nha-trang-20250818200818423.htm) - 13:41 18/08/2025
 - 🌋 [Loạt khí tài xuất hiện trong buổi diễn tập duyệt binh của Trung Quốc](https://dantri.com.vn/the-gioi/loat-khi-tai-xuat-hien-trong-buoi-dien-tap-duyet-binh-cua-trung-quoc-20250818195936724.htm) - 13:19 18/08/2025
 - 🗽 [Quan chức Nga: Ông Trump thúc đẩy giải pháp thực sự cho xung đột Ukraine](https://dantri.com.vn/the-gioi/quan-chuc-nga-ong-trump-thuc-day-giai-phap-thuc-su-cho-xung-dot-ukraine-20250818160953635.htm) - 11:47 18/08/2025
