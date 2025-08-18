@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Bức xúc vì quán Michelin nổi tiếng tính giá gấp đôi thực đơn](https://vnexpress.net/buc-xuc-vi-quan-michelin-noi-tieng-tinh-gia-gap-doi-thuc-don-4927966.html) - 17:09 17/08/2025
-- 🪄 [Hoàng Sơn - dãy núi đá granite hùng vĩ của Trung Quốc](https://vnexpress.net/hoang-son-day-nui-da-granite-hung-vi-cua-trung-quoc-4927968.html) - 12:00 17/08/2025
-- 🦅 [Những điểm khám phá Nha Trang về đêm](https://vnexpress.net/nhung-diem-kham-pha-nha-trang-ve-dem-4927852.html) - 08:00 17/08/2025
-- 🕴 [Bánh trứng thằn lằn - món xuất phát từ hoàng gia Thái Lan](https://vnexpress.net/banh-trung-than-lan-mon-xuat-phat-tu-hoang-gia-thai-lan-4927825.html) - 06:25 17/08/2025
-- 👀 [Khám phá &#39;trái tim&#39; Havana của Cuba](https://vnexpress.net/kham-pha-trai-tim-havana-cua-cuba-4927417.html) - 01:26 17/08/2025
-- 🎭 [Du khách bị chuột chũi &#39;trộm&#39; khóa xe, cả làng đào hang tìm giúp](https://vnexpress.net/du-khach-bi-chuot-chui-trom-khoa-xe-ca-lang-dao-hang-tim-giup-4927720.html) - 17:09 16/08/2025
-- 🦒 [Alaska - vùng đất hoang dã của nước Mỹ](https://vnexpress.net/alaska-vung-dat-hoang-da-cua-nuoc-my-4927682.html) - 17:00 16/08/2025
-- 👨‍🏫 [Gợi ý vị trí xem diễu binh, diễu hành ngày 2/9 ở Hà Nội](https://vnexpress.net/goi-y-vi-tri-xem-dieu-binh-dieu-hanh-ngay-2-9-o-ha-noi-4927171.html) - 09:54 16/08/2025
-- ⚗️ [48 giờ ở Đông Hòa Hiệp - một trong 4 làng cổ đẹp nhất Việt Nam](https://vnexpress.net/48-gio-o-dong-hoa-hiep-mot-trong-4-lang-co-dep-nhat-viet-nam-4927353.html) - 05:38 16/08/2025
-- 🥸 [Chiếc lỗ nhìn xuyên ba quốc gia](https://vnexpress.net/chiec-lo-nhin-xuyen-ba-quoc-gia-4927286.html) - 00:30 16/08/2025
-- 🤠 [Kinh nghiệm xin visa Schengen của người làm công việc tự do](https://vnexpress.net/kinh-nghiem-xin-visa-schengen-cua-nguoi-lam-cong-viec-tu-do-4924592.html) - 17:00 15/08/2025
-- 🚀 [Bãi cỏ sông Hương hút khách hóng mát, ngắm hoàng hôn](https://vnexpress.net/bai-co-song-huong-hut-khach-hong-mat-ngam-hoang-hon-4926496.html) - 12:00 15/08/2025
-- 💻 [Việt Nam sẽ ra mắt &#39;siêu ứng dụng&#39; du lịch quốc gia](https://vnexpress.net/viet-nam-se-ra-mat-sieu-ung-dung-du-lich-quoc-gia-4927250.html) - 07:49 15/08/2025
-- 💼 [Ba lịch trình từ nhẹ nhàng đến dồn dập cho khách &#39;đổ bộ&#39; Hà Nội dịp A80](https://vnexpress.net/ba-lich-trinh-tu-nhe-nhang-den-don-dap-cho-khach-do-bo-ha-noi-dip-a80-4927003.html) - 04:00 15/08/2025
-- 🤡 [Toa tàu Nha Trang - Quy Nhơn vé 10 triệu đồng, giới hạn 12 chỗ](https://vnexpress.net/toa-tau-nha-trang-quy-nhon-ve-10-trieu-dong-gioi-han-12-cho-4920830.html) - 02:45 15/08/2025
-- 🐵 [Người 14 năm tình nguyện tìm đồ thất lạc cho du khách ở Đà Nẵng](https://vnexpress.net/nguoi-14-nam-tinh-nguyen-tim-do-that-lac-cho-du-khach-o-da-nang-4922165.html) - 00:10 15/08/2025
-- 😺 [Các thành phố có giá taxi đắt và rẻ nhất thế giới](https://vnexpress.net/cac-thanh-pho-co-gia-taxi-dat-va-re-nhat-the-gioi-4926972.html) - 17:09 14/08/2025
-- 🌈 [Du khách ám ảnh hơn 40 năm vì thấy bạn bị cá mập cắn chết](https://vnexpress.net/du-khach-am-anh-hon-40-nam-vi-thay-ban-bi-ca-map-can-chet-4926835.html) - 10:33 14/08/2025
-- ⚗️ [13 bãi biển &#39;đẹp nhất thế giới&#39; năm 2025](https://vnexpress.net/13-bai-bien-dep-nhat-the-gioi-nam-2025-4926442.html) - 07:36 14/08/2025
-- 👀 [Không nên để điện thoại trực tiếp lên khay kiểm tra an ninh](https://vnexpress.net/khong-nen-de-dien-thoai-truc-tiep-len-khay-kiem-tra-an-ninh-4926701.html) - 05:20 14/08/2025
-- 👍 [Lưu ý du lịch Đà Lạt an toàn mùa mưa](https://vnexpress.net/luu-y-du-lich-da-lat-an-toan-mua-mua-4926615.html) - 03:07 14/08/2025
-- 💄 [Đặt phòng cả nước dịp 2/9 chưa &#39;bùng nổ&#39;, giá vé máy bay tăng mạnh](https://vnexpress.net/dat-phong-ca-nuoc-dip-2-9-chua-bung-no-gia-ve-may-bay-tang-manh-4924180.html) - 00:00 14/08/2025
-- 🥷 [Hà Nội ra mắt 80 trải nghiệm du lịch vàng dịp 2/9](https://vnexpress.net/ha-noi-ra-mat-80-trai-nghiem-du-lich-vang-dip-2-9-4926479.html) - 17:09 13/08/2025
-- 📝 [Huy chương VnExpress Marathon Cần Thơ được runner ví &#39;tuyệt tác nghệ thuật&#39;](https://vnexpress.net/huy-chuong-vnexpress-marathon-can-tho-duoc-runner-vi-tuyet-tac-nghe-thuat-4926547.html) - 12:00 13/08/2025
-- 🌜 [Ý tưởng đánh chìm tàu hoang làm du lịch - phép thử lớn cho Côn Đảo](https://vnexpress.net/y-tuong-danh-chim-tau-hoang-lam-du-lich-phep-thu-lon-cho-con-dao-4926120.html) - 09:24 13/08/2025
-- 📝 [Bamboo Airways đổi vé cho khách trễ chuyến ga T3 Tân Sơn Nhất](https://vnexpress.net/bamboo-airways-doi-ve-cho-khach-tre-chuyen-ga-t3-tan-son-nhat-4926282.html) - 09:00 13/08/2025
-- 🧰 [Những nơi khách đông gấp chục lần dân địa phương](https://vnexpress.net/nhung-noi-khach-dong-gap-chuc-lan-dan-dia-phuong-4926231.html) - 08:42 13/08/2025
-- 🎬 [10 điểm đến trong và ngoài nước khách Việt tìm kiếm nhiều nhất dịp 2/9](https://vnexpress.net/10-diem-den-trong-va-ngoai-nuoc-khach-viet-tim-kiem-nhieu-nhat-dip-2-9-4926295.html) - 08:11 13/08/2025
-- 🧐 [Sa Đéc - xứ sở của trăm công trình kiến trúc cổ, di tích văn hóa](https://vnexpress.net/sa-dec-xu-so-cua-tram-cong-trinh-kien-truc-co-di-tich-van-hoa-4925742.html) - 07:00 13/08/2025
-- 👨‍🏫 [Báo Thái Lan ca ngợi phở ngon, bổ dưỡng bậc nhất Đông Nam Á](https://vnexpress.net/bao-thai-lan-ca-ngoi-pho-ngon-bo-duong-bac-nhat-dong-nam-a-4925734.html) - 02:00 13/08/2025
-- 🦣 [Chuyên gia du lịch bị chỉ trích vì dùng &#39;tiểu xảo&#39; trong khách sạn](https://vnexpress.net/chuyen-gia-du-lich-bi-chi-trich-vi-dung-tieu-xao-trong-khach-san-4925942.html) - 01:00 13/08/2025
-- 🌋 [8 đặc sản Nha Trang giúp runner nạp năng lượng trước VnExpress Marathon](https://vnexpress.net/8-mon-dac-san-nha-trang-giau-nang-luong-4924571.html) - 00:20 13/08/2025
-- 🦄 [Kỳ vọng du lịch Việt &#39;bắt kịp Thái Lan&#39; nhờ miễn visa với tỷ phú](https://vnexpress.net/ky-vong-du-lich-viet-bat-kip-thai-lan-nho-mien-visa-voi-ty-phu-4925861.html) - 00:00 13/08/2025
-- 💡 [Sự kiện văn hóa nghệ thuật tại Hà Nội dịp 2/9 diễn ra tuần này](https://vnexpress.net/su-kien-van-hoa-nghe-thuat-tai-ha-noi-dip-2-9-dien-ra-tuan-nay-4923977.html) - 17:09 12/08/2025
-- 🌏 [Nô nức chụp ảnh với áo dài trước Lăng mừng Quốc khánh](https://vnexpress.net/no-nuc-chup-anh-voi-ao-dai-truoc-lang-mung-quoc-khanh-4925980.html) - 12:46 12/08/2025
-- 💂 [Vinpearl ký MOU với ba doanh nghiệp du lịch Hàn Quốc](https://vnexpress.net/vinpearl-ky-mou-voi-ba-doanh-nghiep-du-lich-han-quoc-4926003.html) - 11:30 12/08/2025
-- 🤩 [Những con tàu được đánh đắm để biến thành điểm du lịch](https://vnexpress.net/nhung-con-tau-duoc-danh-dam-de-bien-thanh-diem-du-lich-4925622.html) - 09:13 12/08/2025
-- 💪 [Bức hình trước khi chết của du khách gây ám ảnh gần 40 năm](https://vnexpress.net/buc-hinh-truoc-khi-chet-cua-du-khach-gay-am-anh-gan-40-nam-4925837.html) - 08:14 12/08/2025
-- 💻 [Khách sạn trung tâm Hà Nội kín phòng dịp 2/9](https://vnexpress.net/khach-san-trung-tam-ha-noi-kin-phong-dip-2-9-4925580.html) - 04:52 12/08/2025
-- 🧑‍💻 [Hơn 15 triệu du khách đến Hà Nội nửa đầu năm](https://vnexpress.net/hon-15-trieu-du-khach-den-ha-noi-nua-dau-nam-4925749.html) - 04:05 12/08/2025
-- 🎭 [Đêm đầu tiên trên tàu chất lượng cao Hà Nội - Đồng Hới](https://vnexpress.net/dem-dau-tien-tren-tau-chat-luong-cao-ha-noi-dong-hoi-4925619.html) - 02:45 12/08/2025
-- 🧐 [Khám phá Hà Giang bằng ôtô hay xe máy?](https://vnexpress.net/kham-pha-ha-giang-bang-oto-hay-xe-may-4922903.html) - 00:00 12/08/2025
-- 💡 [Đề xuất đánh chìm tàu hoang ở Côn Đảo thành điểm lặn du lịch](https://vnexpress.net/de-xuat-danh-chim-tau-hoang-o-con-dao-thanh-diem-lan-du-lich-4925635.html) - 17:20 11/08/2025
-- 🌊 [Những khác biệt văn hóa khách Việt cần lưu ý khi đến Nhật Bản](https://vnexpress.net/nhung-khac-biet-van-hoa-khach-viet-can-luu-y-khi-den-nhat-ban-4923474.html) - 17:09 11/08/2025
-- 🎃 [Trang tin hàng không Anh: &#39;Nha Trang là nơi lý tưởng để an cư&#39;](https://vnexpress.net/trang-tin-hang-khong-anh-nha-trang-la-noi-ly-tuong-de-an-cu-4925358.html) - 11:00 11/08/2025
-- 🧠 [1.000 drone khắc họa di sản văn hóa Nam Bộ](https://vnexpress.net/1-000-drone-khac-hoa-di-san-van-hoa-nam-bo-4925436.html) - 09:30 11/08/2025
-- 💄 [Ba Na Hills ưu đãi gần nửa giá vé dịp 2/9](https://vnexpress.net/ba-na-hills-uu-dai-gan-nua-gia-ve-dip-2-9-4924651.html) - 09:00 11/08/2025
-- 🎬 [Những trải nghiệm &#39;nhất của nhất&#39; của khách quốc tế ở Việt Nam](https://vnexpress.net/nhung-trai-nghiem-nhat-cua-nhat-cua-khach-quoc-te-o-viet-nam-4925391.html) - 07:10 11/08/2025
-- 🐻 [Thế hệ đầu bếp trẻ lật tẩy góc khuất ẩm thực Pháp](https://vnexpress.net/the-he-dau-bep-tre-lat-tay-goc-khuat-am-thuc-phap-4924738.html) - 04:53 11/08/2025
-- 🌝 [&#39;Để điện thoại ở chế độ máy bay&#39; trên chuyến bay có còn cần thiết?](https://vnexpress.net/de-dien-thoai-o-che-do-may-bay-tren-chuyen-bay-co-con-can-thiet-4925229.html) - 03:45 11/08/2025
-- 🤩 [Những dấu mộc hộ chiếu &#39;để đời&#39; của du khách Việt](https://vnexpress.net/nhung-dau-moc-ho-chieu-de-doi-cua-du-khach-viet-4925093.html) - 02:47 11/08/2025
-- 🎬 [Giám khảo MasterChef: &#39;Đà Lạt hợp để xây câu lạc bộ xa hoa tầm cỡ quốc tế&#39;](https://vnexpress.net/giam-khao-masterchef-da-lat-hop-de-xay-cau-lac-bo-xa-hoa-tam-co-quoc-te-4924836.html) - 01:00 11/08/2025
-- 🦩 [Hồ Trị An mùa nước cạn](https://vnexpress.net/ho-tri-an-mua-nuoc-can-4924867.html) - 00:21 11/08/2025
-- 🦍 [7 món đắt đỏ nhưng từng là đồ ăn của người nghèo](https://vnexpress.net/7-mon-dat-do-nhung-tung-la-do-an-cua-nguoi-ngheo-4925034.html) - 17:00 10/08/2025
-- 👀 [6.000 người đổ về thảo nguyên &#39;chạm vào mây&#39;](https://vnexpress.net/6-000-nguoi-do-ve-thao-nguyen-cham-vao-may-4925036.html) - 06:54 10/08/2025
-- 🧰 [Mai Châu - viên ngọc Tây Bắc trong mắt khách Anh](https://vnexpress.net/mai-chau-vien-ngoc-tay-bac-trong-mat-khach-anh-4924022.html) - 05:00 10/08/2025
-- 🕯 [Dấu mộc hộ chiếu xuất hiện từ bao giờ?](https://vnexpress.net/dau-moc-ho-chieu-xuat-hien-tu-bao-gio-4924508.html) - 03:00 10/08/2025
-- 👍 [Chen chân chụp ảnh ở quán cà phê trang trí cờ đỏ sao vàng](https://vnexpress.net/chen-chan-chup-anh-o-quan-ca-phe-trang-tri-co-do-sao-vang-4924926.html) - 00:25 10/08/2025
-- 😎 [Lý do khách Nga đang tăng trưởng mạnh nhất tại Việt Nam](https://vnexpress.net/ly-do-khach-nga-dang-tang-truong-manh-nhat-tai-viet-nam-4924533.html) - 00:12 10/08/2025
-- 🐘 [Giá trị làm nên những chiếc dao Nhật gần 7.000 USD](https://vnexpress.net/gia-tri-lam-nen-nhung-chiec-dao-nhat-gan-7-000-usd-4924810.html) - 17:00 09/08/2025<!-- vnexpress-du-lich:END -->
+- 💂 [10 thành phố tốt nhất thế giới 2025 đối với người trẻ](https://vnexpress.net/10-thanh-pho-tot-nhat-the-gioi-2025-doi-voi-nguoi-tre-4928208.html) - 05:03 18/08/2025
+- 🪄 [Tour dành riêng cho du khách đến Hà Nội dịp 2/9](https://vnexpress.net/tour-danh-rieng-cho-du-khach-den-ha-noi-dip-2-9-4927295.html) - 03:17 18/08/2025
+- 🦅 [Lý do khách Việt vẫn muốn đi Mỹ dù chi phí cao, xin visa khó](https://vnexpress.net/ly-do-khach-viet-van-muon-di-my-du-chi-phi-cao-xin-visa-kho-4926723.html) - 00:00 18/08/2025
+- 🕴 [Bức xúc vì quán Michelin nổi tiếng tính giá gấp đôi thực đơn](https://vnexpress.net/buc-xuc-vi-quan-michelin-noi-tieng-tinh-gia-gap-doi-thuc-don-4927966.html) - 17:09 17/08/2025
+- 👀 [Hoàng Sơn - dãy núi đá granite hùng vĩ của Trung Quốc](https://vnexpress.net/hoang-son-day-nui-da-granite-hung-vi-cua-trung-quoc-4927968.html) - 12:00 17/08/2025
+- 🎭 [Những điểm khám phá Nha Trang về đêm](https://vnexpress.net/nhung-diem-kham-pha-nha-trang-ve-dem-4927852.html) - 08:00 17/08/2025
+- 🦒 [Bánh trứng thằn lằn - món xuất phát từ hoàng gia Thái Lan](https://vnexpress.net/banh-trung-than-lan-mon-xuat-phat-tu-hoang-gia-thai-lan-4927825.html) - 06:25 17/08/2025
+- 👨‍🏫 [Khám phá &#39;trái tim&#39; Havana của Cuba](https://vnexpress.net/kham-pha-trai-tim-havana-cua-cuba-4927417.html) - 01:26 17/08/2025
+- ⚗️ [Du khách bị chuột chũi &#39;trộm&#39; khóa xe, cả làng đào hang tìm giúp](https://vnexpress.net/du-khach-bi-chuot-chui-trom-khoa-xe-ca-lang-dao-hang-tim-giup-4927720.html) - 17:09 16/08/2025
+- 🥸 [Alaska - vùng đất hoang dã của nước Mỹ](https://vnexpress.net/alaska-vung-dat-hoang-da-cua-nuoc-my-4927682.html) - 17:00 16/08/2025
+- 🤠 [Gợi ý vị trí xem diễu binh, diễu hành ngày 2/9 ở Hà Nội](https://vnexpress.net/goi-y-vi-tri-xem-dieu-binh-dieu-hanh-ngay-2-9-o-ha-noi-4927171.html) - 09:54 16/08/2025
+- 🚀 [48 giờ ở Đông Hòa Hiệp - một trong 4 làng cổ đẹp nhất Việt Nam](https://vnexpress.net/48-gio-o-dong-hoa-hiep-mot-trong-4-lang-co-dep-nhat-viet-nam-4927353.html) - 05:38 16/08/2025
+- 💻 [Chiếc lỗ nhìn xuyên ba quốc gia](https://vnexpress.net/chiec-lo-nhin-xuyen-ba-quoc-gia-4927286.html) - 00:30 16/08/2025
+- 💼 [Kinh nghiệm xin visa Schengen của người làm công việc tự do](https://vnexpress.net/kinh-nghiem-xin-visa-schengen-cua-nguoi-lam-cong-viec-tu-do-4924592.html) - 17:00 15/08/2025
+- 🤡 [Bãi cỏ sông Hương hút khách hóng mát, ngắm hoàng hôn](https://vnexpress.net/bai-co-song-huong-hut-khach-hong-mat-ngam-hoang-hon-4926496.html) - 12:00 15/08/2025
+- 🐵 [Việt Nam sẽ ra mắt &#39;siêu ứng dụng&#39; du lịch quốc gia](https://vnexpress.net/viet-nam-se-ra-mat-sieu-ung-dung-du-lich-quoc-gia-4927250.html) - 07:49 15/08/2025
+- 😺 [Ba lịch trình từ nhẹ nhàng đến dồn dập cho khách &#39;đổ bộ&#39; Hà Nội dịp A80](https://vnexpress.net/ba-lich-trinh-tu-nhe-nhang-den-don-dap-cho-khach-do-bo-ha-noi-dip-a80-4927003.html) - 04:00 15/08/2025
+- 🌈 [Toa tàu Nha Trang - Quy Nhơn vé 10 triệu đồng, giới hạn 12 chỗ](https://vnexpress.net/toa-tau-nha-trang-quy-nhon-ve-10-trieu-dong-gioi-han-12-cho-4920830.html) - 02:45 15/08/2025
+- ⚗️ [Người 14 năm tình nguyện tìm đồ thất lạc cho du khách ở Đà Nẵng](https://vnexpress.net/nguoi-14-nam-tinh-nguyen-tim-do-that-lac-cho-du-khach-o-da-nang-4922165.html) - 00:10 15/08/2025
+- 👀 [Các thành phố có giá taxi đắt và rẻ nhất thế giới](https://vnexpress.net/cac-thanh-pho-co-gia-taxi-dat-va-re-nhat-the-gioi-4926972.html) - 17:09 14/08/2025
+- 👍 [Du khách ám ảnh hơn 40 năm vì thấy bạn bị cá mập cắn chết](https://vnexpress.net/du-khach-am-anh-hon-40-nam-vi-thay-ban-bi-ca-map-can-chet-4926835.html) - 10:33 14/08/2025
+- 💄 [13 bãi biển &#39;đẹp nhất thế giới&#39; năm 2025](https://vnexpress.net/13-bai-bien-dep-nhat-the-gioi-nam-2025-4926442.html) - 07:36 14/08/2025
+- 🥷 [Không nên để điện thoại trực tiếp lên khay kiểm tra an ninh](https://vnexpress.net/khong-nen-de-dien-thoai-truc-tiep-len-khay-kiem-tra-an-ninh-4926701.html) - 05:20 14/08/2025
+- 📝 [Lưu ý du lịch Đà Lạt an toàn mùa mưa](https://vnexpress.net/luu-y-du-lich-da-lat-an-toan-mua-mua-4926615.html) - 03:07 14/08/2025
+- 🌜 [Đặt phòng cả nước dịp 2/9 chưa &#39;bùng nổ&#39;, giá vé máy bay tăng mạnh](https://vnexpress.net/dat-phong-ca-nuoc-dip-2-9-chua-bung-no-gia-ve-may-bay-tang-manh-4924180.html) - 00:00 14/08/2025
+- 📝 [Hà Nội ra mắt 80 trải nghiệm du lịch vàng dịp 2/9](https://vnexpress.net/ha-noi-ra-mat-80-trai-nghiem-du-lich-vang-dip-2-9-4926479.html) - 17:09 13/08/2025
+- 🧰 [Huy chương VnExpress Marathon Cần Thơ được runner ví &#39;tuyệt tác nghệ thuật&#39;](https://vnexpress.net/huy-chuong-vnexpress-marathon-can-tho-duoc-runner-vi-tuyet-tac-nghe-thuat-4926547.html) - 12:00 13/08/2025
+- 🎬 [Ý tưởng đánh chìm tàu hoang làm du lịch - phép thử lớn cho Côn Đảo](https://vnexpress.net/y-tuong-danh-chim-tau-hoang-lam-du-lich-phep-thu-lon-cho-con-dao-4926120.html) - 09:24 13/08/2025
+- 🧐 [Bamboo Airways đổi vé cho khách trễ chuyến ga T3 Tân Sơn Nhất](https://vnexpress.net/bamboo-airways-doi-ve-cho-khach-tre-chuyen-ga-t3-tan-son-nhat-4926282.html) - 09:00 13/08/2025
+- 👨‍🏫 [Những nơi khách đông gấp chục lần dân địa phương](https://vnexpress.net/nhung-noi-khach-dong-gap-chuc-lan-dan-dia-phuong-4926231.html) - 08:42 13/08/2025
+- 🦣 [10 điểm đến trong và ngoài nước khách Việt tìm kiếm nhiều nhất dịp 2/9](https://vnexpress.net/10-diem-den-trong-va-ngoai-nuoc-khach-viet-tim-kiem-nhieu-nhat-dip-2-9-4926295.html) - 08:11 13/08/2025
+- 🌋 [Sa Đéc - xứ sở của trăm công trình kiến trúc cổ, di tích văn hóa](https://vnexpress.net/sa-dec-xu-so-cua-tram-cong-trinh-kien-truc-co-di-tich-van-hoa-4925742.html) - 07:00 13/08/2025
+- 🦄 [Báo Thái Lan ca ngợi phở ngon, bổ dưỡng bậc nhất Đông Nam Á](https://vnexpress.net/bao-thai-lan-ca-ngoi-pho-ngon-bo-duong-bac-nhat-dong-nam-a-4925734.html) - 02:00 13/08/2025
+- 💡 [Chuyên gia du lịch bị chỉ trích vì dùng &#39;tiểu xảo&#39; trong khách sạn](https://vnexpress.net/chuyen-gia-du-lich-bi-chi-trich-vi-dung-tieu-xao-trong-khach-san-4925942.html) - 01:00 13/08/2025
+- 🌏 [8 đặc sản Nha Trang giúp runner nạp năng lượng trước VnExpress Marathon](https://vnexpress.net/8-mon-dac-san-nha-trang-giau-nang-luong-4924571.html) - 00:20 13/08/2025
+- 💂 [Kỳ vọng du lịch Việt &#39;bắt kịp Thái Lan&#39; nhờ miễn visa với tỷ phú](https://vnexpress.net/ky-vong-du-lich-viet-bat-kip-thai-lan-nho-mien-visa-voi-ty-phu-4925861.html) - 00:00 13/08/2025
+- 🤩 [Sự kiện văn hóa nghệ thuật tại Hà Nội dịp 2/9 diễn ra tuần này](https://vnexpress.net/su-kien-van-hoa-nghe-thuat-tai-ha-noi-dip-2-9-dien-ra-tuan-nay-4923977.html) - 17:09 12/08/2025
+- 💪 [Nô nức chụp ảnh với áo dài trước Lăng mừng Quốc khánh](https://vnexpress.net/no-nuc-chup-anh-voi-ao-dai-truoc-lang-mung-quoc-khanh-4925980.html) - 12:46 12/08/2025
+- 💻 [Vinpearl ký MOU với ba doanh nghiệp du lịch Hàn Quốc](https://vnexpress.net/vinpearl-ky-mou-voi-ba-doanh-nghiep-du-lich-han-quoc-4926003.html) - 11:30 12/08/2025
+- 🧑‍💻 [Những con tàu được đánh đắm để biến thành điểm du lịch](https://vnexpress.net/nhung-con-tau-duoc-danh-dam-de-bien-thanh-diem-du-lich-4925622.html) - 09:13 12/08/2025
+- 🎭 [Bức hình trước khi chết của du khách gây ám ảnh gần 40 năm](https://vnexpress.net/buc-hinh-truoc-khi-chet-cua-du-khach-gay-am-anh-gan-40-nam-4925837.html) - 08:14 12/08/2025
+- 🧐 [Khách sạn trung tâm Hà Nội kín phòng dịp 2/9](https://vnexpress.net/khach-san-trung-tam-ha-noi-kin-phong-dip-2-9-4925580.html) - 04:52 12/08/2025
+- 💡 [Hơn 15 triệu du khách đến Hà Nội nửa đầu năm](https://vnexpress.net/hon-15-trieu-du-khach-den-ha-noi-nua-dau-nam-4925749.html) - 04:05 12/08/2025
+- 🌊 [Đêm đầu tiên trên tàu chất lượng cao Hà Nội - Đồng Hới](https://vnexpress.net/dem-dau-tien-tren-tau-chat-luong-cao-ha-noi-dong-hoi-4925619.html) - 02:45 12/08/2025
+- 🎃 [Khám phá Hà Giang bằng ôtô hay xe máy?](https://vnexpress.net/kham-pha-ha-giang-bang-oto-hay-xe-may-4922903.html) - 00:00 12/08/2025
+- 🧠 [Đề xuất đánh chìm tàu hoang ở Côn Đảo thành điểm lặn du lịch](https://vnexpress.net/de-xuat-danh-chim-tau-hoang-o-con-dao-thanh-diem-lan-du-lich-4925635.html) - 17:20 11/08/2025
+- 💄 [Những khác biệt văn hóa khách Việt cần lưu ý khi đến Nhật Bản](https://vnexpress.net/nhung-khac-biet-van-hoa-khach-viet-can-luu-y-khi-den-nhat-ban-4923474.html) - 17:09 11/08/2025
+- 🎬 [Trang tin hàng không Anh: &#39;Nha Trang là nơi lý tưởng để an cư&#39;](https://vnexpress.net/trang-tin-hang-khong-anh-nha-trang-la-noi-ly-tuong-de-an-cu-4925358.html) - 11:00 11/08/2025
+- 🐻 [1.000 drone khắc họa di sản văn hóa Nam Bộ](https://vnexpress.net/1-000-drone-khac-hoa-di-san-van-hoa-nam-bo-4925436.html) - 09:30 11/08/2025
+- 🌝 [Ba Na Hills ưu đãi gần nửa giá vé dịp 2/9](https://vnexpress.net/ba-na-hills-uu-dai-gan-nua-gia-ve-dip-2-9-4924651.html) - 09:00 11/08/2025
+- 🤩 [Những trải nghiệm &#39;nhất của nhất&#39; của khách quốc tế ở Việt Nam](https://vnexpress.net/nhung-trai-nghiem-nhat-cua-nhat-cua-khach-quoc-te-o-viet-nam-4925391.html) - 07:10 11/08/2025
+- 🎬 [Thế hệ đầu bếp trẻ lật tẩy góc khuất ẩm thực Pháp](https://vnexpress.net/the-he-dau-bep-tre-lat-tay-goc-khuat-am-thuc-phap-4924738.html) - 04:53 11/08/2025
+- 🦩 [&#39;Để điện thoại ở chế độ máy bay&#39; trên chuyến bay có còn cần thiết?](https://vnexpress.net/de-dien-thoai-o-che-do-may-bay-tren-chuyen-bay-co-con-can-thiet-4925229.html) - 03:45 11/08/2025
+- 🦍 [Những dấu mộc hộ chiếu &#39;để đời&#39; của du khách Việt](https://vnexpress.net/nhung-dau-moc-ho-chieu-de-doi-cua-du-khach-viet-4925093.html) - 02:47 11/08/2025
+- 👀 [Giám khảo MasterChef: &#39;Đà Lạt hợp để xây câu lạc bộ xa hoa tầm cỡ quốc tế&#39;](https://vnexpress.net/giam-khao-masterchef-da-lat-hop-de-xay-cau-lac-bo-xa-hoa-tam-co-quoc-te-4924836.html) - 01:00 11/08/2025
+- 🧰 [Hồ Trị An mùa nước cạn](https://vnexpress.net/ho-tri-an-mua-nuoc-can-4924867.html) - 00:21 11/08/2025
+- 🕯 [7 món đắt đỏ nhưng từng là đồ ăn của người nghèo](https://vnexpress.net/7-mon-dat-do-nhung-tung-la-do-an-cua-nguoi-ngheo-4925034.html) - 17:00 10/08/2025
+- 👍 [6.000 người đổ về thảo nguyên &#39;chạm vào mây&#39;](https://vnexpress.net/6-000-nguoi-do-ve-thao-nguyen-cham-vao-may-4925036.html) - 06:54 10/08/2025
+- 😎 [Mai Châu - viên ngọc Tây Bắc trong mắt khách Anh](https://vnexpress.net/mai-chau-vien-ngoc-tay-bac-trong-mat-khach-anh-4924022.html) - 05:00 10/08/2025
+- 🐘 [Dấu mộc hộ chiếu xuất hiện từ bao giờ?](https://vnexpress.net/dau-moc-ho-chieu-xuat-hien-tu-bao-gio-4924508.html) - 03:00 10/08/2025<!-- vnexpress-du-lich:END -->
