@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Ca sĩ Lynk Lee khoe dáng gợi cảm, nhan sắc ngày càng thăng hạng](https://dantri.com.vn/giai-tri/ca-si-lynk-lee-khoe-dang-goi-cam-nhan-sac-ngay-cang-thang-hang-20250818005041903.htm) - 08:19 18/08/2025
+- 🤩 [Vụ danh họa Trung Quốc và vợ kém 50 tuổi mất tích: Bạn bè tiết lộ tung tích](https://dantri.com.vn/giai-tri/vu-danh-hoa-trung-quoc-va-vo-kem-50-tuoi-mat-tich-ban-be-tiet-lo-tung-tich-20250818171629703.htm) - 10:56 18/08/2025
 - 🔥 [Ngô Thanh Vân mất ngủ, bật khóc khi chăm con đầu lòng ở tuổi 46](https://dantri.com.vn/giai-tri/ngo-thanh-van-mat-ngu-bat-khoc-khi-cham-con-dau-long-o-tuoi-46-20250818123200177.htm) - 07:38 18/08/2025
 - 🚀 [Dù gây tranh cãi, mẫu váy bó sát cơ thể vẫn mê hoặc dàn mỹ nhân Hollywood](https://dantri.com.vn/giai-tri/du-gay-tranh-cai-mau-vay-bo-sat-co-the-van-me-hoac-dan-my-nhan-hollywood-20250807175105538.htm) - 07:34 18/08/2025
 - 🔥 [Vương phi Kate và Thân vương William chuyển đến ở dinh thự mới](https://dantri.com.vn/giai-tri/vuong-phi-kate-va-than-vuong-william-chuyen-den-o-dinh-thu-moi-20250817181630899.htm) - 07:26 18/08/2025
