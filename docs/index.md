@@ -415,7 +415,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [80 NĂM CÔNG AN NHÂN DÂN VIỆT NAM - VỚI SỰ NGHIỆP XÂY DỰNG VÀ PHÁT TRIỂN KINH TẾ -  XÃ HỘI CỦA ĐẤT NƯỚC](https://baochinhphu.vn/80-nam-cong-an-nhan-dan-viet-nam-voi-su-nghiep-xay-dung-va-phat-trien-kinh-te-xa-hoi-cua-dat-nuoc-102250819013858347.htm) - 06:03 19/08/2025
+- 💻 [80 NĂM CÔNG AN NHÂN DÂN VIỆT NAM VỚI SỰ NGHIỆP XÂY DỰNG VÀ PHÁT TRIỂN KINH TẾ -  XÃ HỘI CỦA ĐẤT NƯỚC](https://baochinhphu.vn/80-nam-cong-an-nhan-dan-viet-nam-voi-su-nghiep-xay-dung-va-phat-trien-kinh-te-xa-hoi-cua-dat-nuoc-102250819013858347.htm) - 06:03 19/08/2025
 - 🌜 [Hào khí 19/8 và khát vọng hùng cường, thịnh vượng](https://baochinhphu.vn/hao-khi-19-8-va-khat-vong-hung-cuong-thinh-vuong-10225081822595577.htm) - 06:00 19/08/2025
 - 🦆 [Tổng thống Mỹ gặp Tổng thống Ukraine tại Nhà Trắng: Những nội dung then chốt](https://baochinhphu.vn/tong-thong-my-gap-tong-thong-ukraine-tai-nha-trang-cac-diem-dong-thuan-102250819022033597.htm) - 02:00 19/08/2025
 - 🌝 [Phấn đấu hoàn thành thắng lợi sứ mệnh của ngành Ngoại giao trong kỷ nguyên mới](https://baochinhphu.vn/phan-dau-hoan-thanh-thang-loi-su-menh-cua-nganh-ngoai-giao-trong-ky-nguyen-moi-102250818214848195.htm) - 22:18 18/08/2025
