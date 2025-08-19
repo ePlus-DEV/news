@@ -6,7 +6,7 @@ sidebar_position: 19
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Đảng ủy Mặt trận tổ quốc chỉ định Bí thư Đảng ủy Tổng Liên đoàn lao động](https://dantri.com.vn/lao-dong-viec-lam/dang-uy-mat-tran-to-quoc-chi-dinh-bi-thu-dang-uy-tong-lien-doan-lao-dong-20250819185352370.htm) - 12:23 19/08/2025
 - 🙉 [Từ 1/1/2026, doanh nghiệp phải đăng ký thông tin người lao động](https://dantri.com.vn/lao-dong-viec-lam/tu-112026-doanh-nghiep-phai-dang-ky-thong-tin-nguoi-lao-dong-20250819060721433.htm) - 08:19 19/08/2025
-- 🕴 [2 tháng thử việc vẫn được căn cứ tính vào thời gian hưởng trợ cấp thôi việc](https://dantri.com.vn/lao-dong-viec-lam/2-thang-thu-viec-van-duoc-can-cu-tinh-vao-thoi-gian-huong-tro-cap-thoi-viec-20250818104136203.htm) - 06:00 19/08/2025
+- 🕴 [2 tháng thử việc vẫn được tính để xét hưởng trợ cấp thôi việc](https://dantri.com.vn/lao-dong-viec-lam/2-thang-thu-viec-van-duoc-tinh-de-xet-huong-tro-cap-thoi-viec-20250818104136203.htm) - 06:00 19/08/2025
 - 🧐 [Nghề điều dưỡng ở Đức với cơ hội rộng mở, trải nghiệm đáng giá](https://dantri.com.vn/lao-dong-viec-lam/nghe-dieu-duong-o-duc-voi-co-hoi-rong-mo-trai-nghiem-dang-gia-20250819091547151.htm) - 03:29 19/08/2025
 - 🧑‍💻 [Quy định chi tiết về thời điểm hưởng lương hưu](https://dantri.com.vn/lao-dong-viec-lam/quy-dinh-chi-tiet-ve-thoi-diem-huong-luong-huu-20250819053753433.htm) - 03:00 19/08/2025
 - 🪄 [Nước ngập sâu, nông dân nhổ rau non bán rẻ](https://dantri.com.vn/lao-dong-viec-lam/nuoc-ngap-sau-nong-dan-nho-rau-non-ban-re-20250818225127980.htm) - 01:19 19/08/2025
