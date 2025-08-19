@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Nhiếp ảnh gia gen Z ‘hô biến’ đất sét thành bìa album nhạc 3D gây sốt](https://muctim.tuoitre.vn/nhiep-anh-gia-gen-z-ho-bien-dat-set-thanh-bia-album-nhac-3d-gay-sot-101250819170619035.htm) - 12:06 19/08/2025
-- 🥷 [Trực tiếp giao hữu bóng chuyền nữ 19-8: Việt Nam - Kenya](https://muctim.tuoitre.vn/truc-tiep-giao-huu-bong-chuyen-nu-19-8-viet-nam-kenya-101250819184601763.htm) - 11:56 19/08/2025
+- 🥷 [Giao hữu bóng chuyền nữ tối 19-8: Việt Nam thắng Kenya 3-0](https://muctim.tuoitre.vn/truc-tiep-giao-huu-bong-chuyen-nu-19-8-viet-nam-kenya-101250819184601763.htm) - 11:56 19/08/2025
 - 🤖 [150 thiếu nhi TP.HCM tranh tài tại hội thi Chỉ huy Đội giỏi](https://muctim.tuoitre.vn/150-thieu-nhi-tphcm-tranh-tai-tai-hoi-thi-chi-huy-doi-gioi-101250819152229335.htm) - 10:52 19/08/2025
 - 🤓 [Nhạc sĩ Nguyễn Văn Chung xúc động khi nghe Viết tiếp câu chuyện hòa bình phiên bản 13 ngôn ngữ](https://muctim.tuoitre.vn/nhac-si-nguyen-van-chung-xuc-dong-khi-nghe-viet-tiep-cau-chuyen-hoa-binh-phien-ban-13-ngon-ngu-10125081917054763.htm) - 10:18 19/08/2025
 - 🎉 [Theo bước chân lịch sử, &#39;chạm&#39; dấu son hào hùng](https://muctim.tuoitre.vn/theo-buoc-chan-lich-su-cham-dau-son-hao-hung-10125081811173647.htm) - 09:32 19/08/2025
