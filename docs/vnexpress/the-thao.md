@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bích Tuyền rút lui vì các yêu cầu của Liên đoàn bóng chuyền thế giới](https://vnexpress.net/bich-tuyen-rut-lui-vi-cac-yeu-cau-cua-lien-doan-bong-chuyen-the-gioi-4929003.html) - 12:47 19/08/2025
 - 🦩 [Những điều cần lưu ý trước khi dự VnExpress Marathon Libera Nha Trang](https://vnexpress.net/nhung-dieu-can-luu-y-truoc-khi-du-vnexpress-marathon-libera-nha-trang-4928242.html) - 11:10 19/08/2025
-- 🧰 [Messi sắp chơi trận cuối với Argentina trên sân nhà](https://vnexpress.net/messi-sap-choi-tran-cuoi-voi-argentina-tren-san-nha-4928935.html) - 11:06 19/08/2025
+- 🧰 [Messi sắp chơi trận cuối trên sân nhà với tuyển Argentina](https://vnexpress.net/messi-sap-choi-tran-cuoi-tren-san-nha-voi-tuyen-argentina-4928935.html) - 11:06 19/08/2025
 - 🤗 [Truyền thông Thái Lan dậy sóng vì Bích Tuyền nghỉ giải thế giới](https://vnexpress.net/truyen-thong-thai-lan-day-song-vi-bich-tuyen-nghi-giai-the-gioi-4928980.html) - 10:46 19/08/2025
 - 🥳 [Việt Nam không thể bổ sung cầu thủ thay Bích Tuyền](https://vnexpress.net/viet-nam-khong-the-bo-sung-cau-thu-thay-bich-tuyen-4928925.html) - 09:18 19/08/2025
 - 🦣 [Barca hy sinh đội nữ để tăng cường đội nam](https://vnexpress.net/barca-hy-sinh-doi-nu-de-tang-cuong-doi-nam-4928857.html) - 09:12 19/08/2025
