@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển nữ Việt Nam - Thái Lan &lpar;16h30 chiều nay&rpar;:  Quyết chiến vì danh dự](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-thai-lan-16h30-chieu-nay-quyet-chien-vi-danh-du-20250819160938858.htm) - 09:10 19/08/2025
+- 🎡 [Đội tuyển nữ Việt Nam 3-1 Thái Lan &lpar;hiệp 2&rpar;: Dấu ấn của Bích Thùy](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-3-1-thai-lan-hiep-2-dau-an-cua-bich-thuy-20250819160938858.htm) - 09:10 19/08/2025
 - 💯 [Alcaraz xác nhận đánh đôi với Raducanu ở US Open 2025](https://dantri.com.vn/the-thao/alcaraz-xac-nhan-danh-doi-voi-raducanu-o-us-open-2025-20250819153036525.htm) - 08:35 19/08/2025
 - ⛽️ [Báo Đông Nam Á bất ngờ khi Bích Tuyền rút lui ở tuyển bóng chuyền Việt Nam](https://dantri.com.vn/the-thao/bao-dong-nam-a-bat-ngo-khi-bich-tuyen-rut-lui-o-tuyen-bong-chuyen-viet-nam-20250819145317367.htm) - 08:05 19/08/2025
 - 💃 [Bích Tuyền bất ngờ rút lui ở đội tuyển bóng chuyền nữ Việt Nam](https://dantri.com.vn/the-thao/bich-tuyen-bat-ngo-rut-lui-o-doi-tuyen-bong-chuyen-nu-viet-nam-20250819124839000.htm) - 05:48 19/08/2025
