@@ -409,8 +409,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Quy định mới về các trường hợp miễn, giảm tiền sử dụng đất, tiền thuê đất](https://baochinhphu.vn/quy-dinh-moi-ve-cac-truong-hop-mien-giam-tien-su-dung-dat-tien-thue-dat-102250820004344987.htm) - 01:01 20/08/2025
-- 🌜 [Quy định mới về thu tiền cấp quyền sử dụng tần số vô tuyến điện](https://baochinhphu.vn/quy-dinh-moi-ve-thu-tien-cap-quyen-su-dung-tan-so-vo-tuyen-dien-102250819231012462.htm) - 00:00 20/08/2025
+- 💻 [Quy định mới về các trường hợp miễn, giảm tiền sử dụng đất, tiền thuê đất](https://baochinhphu.vn/quy-dinh-moi-ve-cac-truong-hop-mien-giam-tien-su-dung-dat-tien-thue-dat-102250820004344987.htm) - 23:59 19/08/2025
+- 🌜 [Quy định mới về thu tiền cấp quyền sử dụng tần số vô tuyến điện](https://baochinhphu.vn/quy-dinh-moi-ve-thu-tien-cap-quyen-su-dung-tan-so-vo-tuyen-dien-102250819231012462.htm) - 23:00 19/08/2025
 - 🦆 [Hòa Phát đầu tư 120.000 tỷ đồng xây Khu liên hợp sản xuất thép tại Đắk Lắk](https://baochinhphu.vn/hoa-phat-dau-tu-120000-ty-dong-xay-khu-lien-hop-san-xuat-thep-tai-dak-lak-102250819221430177.htm) - 22:35 19/08/2025
 - 🌝 [Các tổ công tác của Bộ Chính trị làm việc với Ban Thường vụ 4 tỉnh, thành ủy](https://baochinhphu.vn/cac-to-cong-tac-cua-bo-chinh-tri-lam-viec-voi-ban-thuong-vu-4-tinh-thanh-uy-102250819213838367.htm) - 21:44 19/08/2025
 - 🦣 [Thủ tướng Phạm Minh Chính: Không khí đặc biệt, khí thế đặc biệt, nỗ lực đặc biệt, sẽ tạo thành quả đặc biệt](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-khong-khi-dac-biet-khi-the-dac-biet-no-luc-dac-biet-se-tao-thanh-qua-dac-biet-102250819140426939.htm) - 20:57 19/08/2025
