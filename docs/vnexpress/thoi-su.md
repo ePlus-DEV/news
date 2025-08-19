@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Thủ tướng: Công an nhân dân là thanh bảo kiếm, lá chắn thép](https://vnexpress.net/thu-tuong-cong-an-nhan-dan-la-thanh-bao-kiem-la-chan-thep-4928672.html) - 04:18 19/08/2025
 - 🤓 [Ôtô chở 45 khách lật bên quốc lộ ở Tây Nguyên](https://vnexpress.net/oto-cho-45-khach-lat-ben-quoc-lo-o-tay-nguyen-4928700.html) - 04:16 19/08/2025
 - ⚗️ [Áp thấp nhiệt đới vào Quảng Ninh - Hải Phòng](https://vnexpress.net/ap-thap-nhiet-doi-vao-quang-ninh-hai-phong-4928609.html) - 03:35 19/08/2025
-- 🌊 [Nhiều đơn vị được tặng thưởng huân chương lao động](https://vnexpress.net/nhieu-don-vi-duoc-tang-thuong-huan-chuong-lao-dong-4928547.html) - 01:00 19/08/2025
+- 🌊 [Tổng Bí thư, Thủ tướng cắt băng khánh thành, khởi công 250 công trình](https://vnexpress.net/tong-bi-thu-thu-tuong-cat-bang-khanh-thanh-khoi-cong-250-cong-trinh-4928547.html) - 01:00 19/08/2025
 - 🎓 [7 công trình giao thông lớn thông xe ngày 19/8](https://vnexpress.net/7-cong-trinh-giao-thong-lon-thong-xe-ngay-19-8-4928517.html) - 23:00 18/08/2025
 - 🔥 [Từ Tổng khởi nghĩa đến Tuyên ngôn độc lập năm 1945](https://vnexpress.net/tu-tong-khoi-nghia-den-tuyen-ngon-doc-lap-nam-1945-4923463.html) - 23:00 18/08/2025
 - 🦏 [Người dân TP HCM thực hiện thủ tục hành chính không phụ thuộc nơi ở thế nào](https://vnexpress.net/nguoi-dan-tp-hcm-thuc-hien-thu-tuc-hanh-chinh-khong-phu-thuoc-noi-o-the-nao-4927967.html) - 22:00 18/08/2025
