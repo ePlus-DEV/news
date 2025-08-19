@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Việt Nam không thể bổ sung cầu thủ thay Bích Tuyền](https://vnexpress.net/viet-nam-khong-the-bo-sung-cau-thu-thay-bich-tuyen-4928925.html) - 09:18 19/08/2025
 - 🦩 [Barca hy sinh đội nữ để tăng cường đội nam](https://vnexpress.net/barca-hy-sinh-doi-nu-de-tang-cuong-doi-nam-4928857.html) - 09:12 19/08/2025
-- 🧰 [Nữ Việt Nam - Thái Lan: Huỳnh Như đá chính](https://vnexpress.net/nu-viet-nam-thai-lan-huynh-nhu-da-chinh-4928916.html) - 09:12 19/08/2025
+- 🧰 [Nữ Việt Nam 1-0 Thái Lan &lpar;hết H1&rpar;: Hải Yến ghi bàn](https://vnexpress.net/truc-tiep-viet-nam-vs-thai-lan-4928916.html) - 09:12 19/08/2025
 - 🤗 [Cựu danh thủ Real: &#39;Yamal nên nhường Quả Bóng Vàng cho Dembele&#39;](https://vnexpress.net/cuu-danh-thu-real-yamal-nen-nhuong-qua-bong-vang-cho-dembele-4926439.html) - 08:12 19/08/2025
 - 🥳 [Bích Tuyền không dự giải bóng chuyền nữ vô địch thế giới](https://vnexpress.net/bich-tuyen-khong-du-giai-bong-chuyen-nu-vo-dich-the-gioi-4928779.html) - 06:03 19/08/2025
 - 🦣 [Tò mò và hoài nghi về thể thức đôi nam - nữ mới ở Mỹ Mở rộng](https://vnexpress.net/to-mo-va-hoai-nghi-ve-the-thuc-doi-nam-nu-moi-o-my-mo-rong-4928757.html) - 05:28 19/08/2025
