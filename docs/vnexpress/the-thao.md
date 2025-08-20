@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Alonso thừa nhận điểm yếu của Real](https://vnexpress.net/alonso-thua-nhan-diem-yeu-cua-real-4929056.html) - 05:40 20/08/2025
 - 🦩 [Ronaldo đã phẫu thuật thẩm mỹ bao nhiêu lần?](https://vnexpress.net/ronaldo-da-phau-thuat-tham-my-bao-nhieu-lan-4929044.html) - 05:35 20/08/2025
 - 🧰 [Bạn gái cũ chia tay vì muốn thoát khỏi cái bóng của Kyrgios](https://vnexpress.net/ban-gai-cu-chia-tay-vi-muon-thoat-khoi-cai-bong-cua-kyrgios-4929055.html) - 05:28 20/08/2025
-- 🤗 [Trần Thị Duyên - hotgirl nhí nhảnh của tuyển nữ Việt Nam](https://vnexpress.net/tran-thi-duyen-hotgirl-nhi-nhanh-cua-tuyen-nu-viet-nam-4929122.html) - 05:26 20/08/2025
+- 🤗 [Trần Thị Duyên - hot girl của tuyển nữ Việt Nam](https://vnexpress.net/tran-thi-duyen-hot-girl-cua-tuyen-nu-viet-nam-4929122.html) - 05:26 20/08/2025
 - 🥳 [Itauma - &#39;Mike Tyson mới&#39; trên đường chinh phục quyền Anh hạng nặng](https://vnexpress.net/itauma-mike-tyson-moi-tren-duong-chinh-phuc-quyen-anh-hang-nang-4929051.html) - 05:00 20/08/2025
 - 🦣 [Gốc gác cầu thủ nhập tịch Malaysia gây tranh cãi](https://vnexpress.net/goc-gac-cau-thu-nhap-tich-malaysia-gay-tranh-cai-4929181.html) - 03:34 20/08/2025
 - 🌜 [Lại Lý Huynh, Nguyễn Thành Bảo sẽ dự giải cờ tướng thế giới](https://vnexpress.net/lai-ly-huynh-nguyen-thanh-bao-se-du-giai-co-tuong-the-gioi-4929043.html) - 03:19 20/08/2025
