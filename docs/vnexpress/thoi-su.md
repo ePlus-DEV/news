@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Công an Hà Nội điều chỉnh thời gian cấm đường ngày 21/8](https://vnexpress.net/cong-an-ha-noi-dieu-chinh-thoi-gian-cam-duong-ngay-21-8-4929281.html) - 06:54 20/08/2025
 - 🤓 [Thợ sơn tử vong, 6 ôtô bị thiêu rụi trong gara](https://vnexpress.net/tho-son-tu-vong-6-oto-bi-thieu-rui-trong-gara-4929280.html) - 06:48 20/08/2025
 - ⚗️ [Đoàn quân nhân Nga đến Việt Nam dự diễu binh A80](https://vnexpress.net/doan-quan-nhan-nga-den-viet-nam-du-dieu-binh-a80-4929185.html) - 06:48 20/08/2025
-- 🌊 [Cà Mau sẽ có cầu vượt biển dài nhất Việt Nam](https://vnexpress.net/ca-mau-se-co-cau-vuot-bien-dai-nhat-viet-nam-4929236.html) - 06:46 20/08/2025
+- 🌊 [Cà Mau sẽ có cầu vượt biển 18 km - dài nhất Việt Nam](https://vnexpress.net/ca-mau-se-co-cau-vuot-bien-18-km-dai-nhat-viet-nam-4929236.html) - 06:46 20/08/2025
 - 🎓 [Tổng Bí thư: &#39;Chính phủ luôn liêm chính, sáng tạo, vì dân&#39;](https://vnexpress.net/tong-bi-thu-chinh-phu-luon-liem-chinh-sang-tao-vi-dan-4929199.html) - 05:43 20/08/2025
 - 🔥 [18 dự án cao tốc do nhà nước đầu tư dự kiến thu phí từ năm 2026](https://vnexpress.net/18-du-an-cao-toc-do-nha-nuoc-dau-tu-du-kien-thu-phi-tu-nam-2026-4929212.html) - 04:17 20/08/2025
 - 🦏 [Phát hiện 3 khẩu súng chống tăng khi đào móng nhà](https://vnexpress.net/phat-hien-3-khau-sung-chong-tang-khi-dao-mong-nha-4929180.html) - 03:30 20/08/2025
