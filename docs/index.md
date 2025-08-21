@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Con rể gốc Việt sát hại bố vợ 94 tuổi vì &#39;không thể chu cấp&#39;](https://vnexpress.net/con-re-goc-viet-sat-hai-bo-vo-94-tuoi-vi-khong-the-chu-cap-4929805.html) - 19:00 21/08/2025
 - 🧰 [Khoảnh khắc núi sạt lở chia cắt quốc lộ ở Sơn La](https://vnexpress.net/khoanh-khac-nui-sat-lo-chia-cat-quoc-lo-o-son-la-4930005.html) - 18:50 21/08/2025
-- 🥰 [Cháy cụm xưởng ở TP HCM](https://vnexpress.net/chay-cum-xuong-o-tp-hcm-4929998.html) - 18:49 21/08/2025
+- 🥰 [Cháy xưởng sản xuất bóng đèn ở TP HCM](https://vnexpress.net/chay-xuong-san-xuat-bong-den-o-tp-hcm-4929998.html) - 18:49 21/08/2025
 - 🌏 [Bí quyết giúp nữ tỷ phú gym U70 có hình thể trẻ như 30](https://vnexpress.net/bi-quyet-giup-nu-ty-phu-gym-u70-co-hinh-the-tre-nhu-30-4929224.html) - 18:03 21/08/2025
 - 🧐 [Serena Williams hạ 14 kg nhờ thuốc giảm cân](https://vnexpress.net/serena-williams-ha-14-kg-nho-thuoc-giam-can-4929991.html) - 17:27 21/08/2025
 - 💫 [60% dân quận Cam muốn Mỹ tạo cơ hội cho người nhập cư không giấy tờ](https://vnexpress.net/60-dan-quan-cam-muon-my-tao-co-hoi-cho-nguoi-nhap-cu-khong-giay-to-4929902.html) - 17:25 21/08/2025
@@ -60,7 +60,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [Phá kính cứu hàng trăm khách mắc kẹt trên tàu điện Ấn Độ](https://vnexpress.net/pha-kinh-cuu-hang-tram-khach-mac-ket-tren-tau-dien-an-do-4929957.html) - 13:24 21/08/2025
 - 🎬 [Roddick: &#39;Alcaraz sai lầm khi an ủi Sinner&#39;](https://vnexpress.net/roddick-alcaraz-sai-lam-khi-an-ui-sinner-4929954.html) - 13:06 21/08/2025
 - 👨‍🏫 [Ôtô, chất bán dẫn, gỗ của EU vào Mỹ chịu thuế 15%](https://vnexpress.net/oto-chat-ban-dan-go-cua-eu-vao-my-chiu-thue-15-4929952.html) - 13:00 21/08/2025
-- ⚗️ [Buổi hợp luyện đầu tiên tại quảng trường Ba Đình](https://vnexpress.net/buoi-hop-luyen-dau-tien-tai-quang-truong-ba-dinh-4929951.html) - 13:00 21/08/2025
+- ⚗️ [Buổi hợp luyện đầu tiên tại quảng trường Ba Đình](https://vnexpress.net/buoi-hop-luyen-dau-tien-tai-quang-truong-ba-dinh-4929951-tong-thuat.html) - 13:00 21/08/2025
 - 😺 [ICE có thể sở hữu đội máy bay chuyên trục xuất người nhập cư](https://vnexpress.net/ice-co-the-so-huu-doi-may-bay-chuyen-truc-xuat-nguoi-nhap-cu-4929692.html) - 13:00 21/08/2025
 - 🔥 [Tạo hình &#39;như tiên nữ&#39; của Trương Nhã Khâm](https://vnexpress.net/tao-hinh-nhu-tien-nu-cua-truong-nha-kham-4929816.html) - 13:00 21/08/2025
 - 🧰 [Con tôi 3 năm không dám đi vệ sinh ở trường vì quá bẩn](https://vnexpress.net/con-toi-3-nam-khong-dam-di-ve-sinh-o-truong-vi-qua-ban-4929857.html) - 12:55 21/08/2025
