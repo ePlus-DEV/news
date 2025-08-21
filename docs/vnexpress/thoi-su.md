@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [16.000 quân nhân hợp luyện tại quảng trường Ba Đình](https://vnexpress.net/16-000-quan-nhan-hop-luyen-tai-quang-truong-ba-dinh-4929951.html) - 13:00 21/08/2025
+- 🦒 [Quân nhân, xe pháo hợp luyện tại quảng trường Ba Đình](https://vnexpress.net/quan-nhan-xe-phao-hop-luyen-tai-quang-truong-ba-dinh-4929951.html) - 13:00 21/08/2025
 - 🤓 [Người dân giao lưu với chiến sĩ diễu binh ở Ba Đình](https://vnexpress.net/nguoi-dan-giao-luu-voi-chien-si-dieu-binh-o-ba-dinh-4929879.html) - 12:05 21/08/2025
 - ⚗️ [Độc giả quốc tế gửi ảnh, video mừng 80 năm Quốc khánh Việt Nam](https://vnexpress.net/doc-gia-quoc-te-gui-anh-video-mung-80-nam-quoc-khanh-viet-nam-4929348.html) - 12:00 21/08/2025
 - 🌊 [TP HCM bắn pháo hoa 4 điểm mừng 80 năm Quốc khánh](https://vnexpress.net/tp-hcm-ban-phao-hoa-4-diem-mung-80-nam-quoc-khanh-4929893.html) - 10:18 21/08/2025
-- 🎓 [Khối pháo lễ sẵn sàng khai hỏa](https://vnexpress.net/khoi-phao-le-san-sang-khai-hoa-4929786.html) - 09:00 21/08/2025
+- 🎓 [Bộ đội, xe pháo đổ về Ba Đình chuẩn bị cho buổi hợp luyện](https://vnexpress.net/bo-doi-xe-phao-do-ve-ba-dinh-chuan-bi-cho-buoi-hop-luyen-4929786-tong-thuat.html) - 09:00 21/08/2025
 - 🔥 [Phát hiện tượng thần khỉ Champa 800 năm dưới biển Quảng Ngãi](https://vnexpress.net/phat-hien-tuong-than-khi-champa-800-nam-duoi-bien-quang-ngai-4929795.html) - 08:13 21/08/2025
 - 🦏 [Đại biểu Quốc hội: &#39;Người dân phát hiện hàng giả không biết kêu ai&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-nguoi-dan-phat-hien-hang-gia-khong-biet-keu-ai-4929731.html) - 08:07 21/08/2025
 - 👺 [Dòng người đổ lên Ba Đình chờ xem hợp luyện diễu binh](https://vnexpress.net/dong-nguoi-do-len-ba-dinh-cho-xem-hop-luyen-dieu-binh-4929774.html) - 07:36 21/08/2025
