@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Việt Nam đặt mục tiêu 30 doanh nghiệp nhà nước doanh thu trên 1 tỷ USD vào 2030](https://vnexpress.net/viet-nam-dat-muc-tieu-30-doanh-nghiep-nha-nuoc-doanh-thu-tren-1-ty-usd-vao-2030-4929662.html) - 06:49 21/08/2025
+- ⛽️ [Việt Nam đặt mục tiêu 30 doanh nghiệp nhà nước doanh thu tỷ USD vào 2030](https://vnexpress.net/viet-nam-dat-muc-tieu-30-doanh-nghiep-nha-nuoc-doanh-thu-ty-usd-vao-2030-4929662.html) - 06:49 21/08/2025
 - 🐲 [Chiến dịch gây sức ép lên Fed của ông Trump](https://vnexpress.net/chien-dich-gay-suc-ep-len-fed-cua-ong-trump-4929635.html) - 05:02 21/08/2025
 - 🔥 [Vàng miếng lại vượt 125 triệu đồng một lượng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-8-4929641.html) - 03:23 21/08/2025
 - 🐵 [Heineken Việt Nam cam kết phát triển cùng TP HCM](https://vnexpress.net/heineken-viet-nam-cam-ket-phat-trien-cung-tp-hcm-4928706.html) - 02:00 21/08/2025
