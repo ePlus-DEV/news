@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Đường cờ Tổ quốc uốn theo ruộng bậc thang hút khách check-in](https://vnexpress.net/duong-co-to-quoc-uon-theo-ruong-bac-thang-hut-khach-check-in-4929443.html) - 01:30 21/08/2025
+- 💂 [Đường cờ Tổ quốc uốn theo ruộng bậc thang hút khách](https://vnexpress.net/duong-co-to-quoc-uon-theo-ruong-bac-thang-hut-khach-4929443.html) - 01:30 21/08/2025
 - 🪄 [Chuyến xuyên Việt gần 30 năm trước của nữ du khách Anh](https://vnexpress.net/chuyen-xuyen-viet-gan-30-nam-truoc-cua-nu-du-khach-anh-4929408.html) - 00:00 21/08/2025
 - 🦅 [Loạt &#39;concert quốc gia&#39; miễn phí dịp Quốc khánh](https://vnexpress.net/loat-concert-quoc-gia-mien-phi-dip-quoc-khanh-4928510.html) - 17:00 20/08/2025
 - 🕴 [Bên trong khách sạn Hà Nội được bình chọn &#39;tốt nhất thế giới&#39;](https://vnexpress.net/ben-trong-khach-san-ha-noi-duoc-binh-chon-tot-nhat-the-gioi-4928299.html) - 12:51 20/08/2025
