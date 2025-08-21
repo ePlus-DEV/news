@@ -523,7 +523,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Vắng Messi, Suarez lập cú đúp giúp Inter Miami vào bàn kết Leagues Cup](https://muctim.tuoitre.vn/vang-messi-suarez-lap-cu-dup-giup-inter-miami-vao-ban-ket-leagues-cup-101250821142354465.htm) - 07:47 21/08/2025
+- 🤔 [Vắng Messi, Suarez lập cú đúp giúp Inter Miami vào bán kết Leagues Cup](https://muctim.tuoitre.vn/vang-messi-suarez-lap-cu-dup-giup-inter-miami-vao-ban-ket-leagues-cup-101250821142354465.htm) - 07:47 21/08/2025
 - 🥷 [Dự báo thời tiết cả nước dịp Quốc khánh 2-9](https://muctim.tuoitre.vn/du-bao-thoi-tiet-ca-nuoc-dip-quoc-khanh-2-9-10125082114182939.htm) - 07:46 21/08/2025
 - 🤖 [Em xinh say hi tập 14 lên sóng tối 23-8 có gì thú vị?](https://muctim.tuoitre.vn/em-xinh-say-hi-tap-14-len-song-toi-23-8-co-gi-thu-vi-101250821003229465.htm) - 02:29 21/08/2025
 - 🤓 [Sao nhập ngũ tập 3: Ninh Dương Lan Ngọc tạm dừng vì chấn thương](https://muctim.tuoitre.vn/sao-nhap-ngu-tap-3-ninh-duong-lan-ngoc-tam-dung-vi-chan-thuong-101250821004155058.htm) - 00:01 21/08/2025
