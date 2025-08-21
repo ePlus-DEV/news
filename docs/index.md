@@ -150,10 +150,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [HLV Kim Sang-sik tạm chia tay đội tuyển Việt Nam: Dồn sức cho mục tiêu lớn](https://thanhnien.vn/hlv-kim-sang-sik-tam-chia-tay-doi-tuyen-viet-nam-don-suc-cho-muc-tieu-lon-185250821190630677.htm) - 17:45 21/08/2025
+- 🤠 [HLV Kim Sang-sik tạm chia tay đội tuyển Việt Nam: Dồn sức cho vòng loại U.23 châu Á](https://thanhnien.vn/hlv-kim-sang-sik-tam-chia-tay-doi-tuyen-viet-nam-don-suc-cho-muc-tieu-lon-185250821190630677.htm) - 17:45 21/08/2025
 - 🥸 [Chuyên gia chỉ cách ăn khoai lang tối đa dinh dưỡng](https://thanhnien.vn/chuyen-gia-chi-cach-an-khoai-lang-toi-da-dinh-duong-18525082123484582.htm) - 17:09 21/08/2025
 - 🌁 [Bắp tay khỏe: dấu hiệu sức khỏe toàn thân tốt](https://thanhnien.vn/bap-tay-khoe-dau-hieu-suc-khoe-toan-than-tot-185250821170858717.htm) - 17:08 21/08/2025
-- 🤡 [Lịch thi đấu V-League mới nhất: HAGL đại chiến đội Hà Nội, CLB CA TP.HCM ra Bắc](https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-hagl-dai-chien-doi-ha-noi-clb-ca-tphcm-ra-bac-185250821175328592.htm) - 17:00 21/08/2025
+- 🤡 [Lịch thi đấu V-League mới nhất: HAGL đại chiến đội Hà Nội, CLB CA TP.HCM tiếp tục gây sốc?](https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-hagl-dai-chien-doi-ha-noi-clb-ca-tphcm-ra-bac-185250821175328592.htm) - 17:00 21/08/2025
 - 🎉 [Bắt 2 thanh niên lao xe vào đường cấm, tông thẳng vào cảnh sát cơ động](https://thanhnien.vn/bat-2-thanh-nien-lao-xe-vao-duong-cam-tong-thang-vao-canh-sat-co-dong-185250821230208656.htm) - 16:24 21/08/2025
 - 🎊 [TP.HCM bắn pháo hoa 4 điểm mừng Quốc khánh 2.9](https://thanhnien.vn/tphcm-ban-phao-hoa-4-diem-mung-quoc-khanh-29-185250821172125991.htm) - 16:07 21/08/2025
 - 🤠 [Kẻ phóng hỏa phòng trọ làm 2 người bị thương, cướp xe máy ở TP.HCM, khai gì?](https://thanhnien.vn/ke-phong-hoa-phong-tro-lam-2-nguoi-bi-thuong-cuop-xe-may-o-tphcm-khai-gi-185250821225408939.htm) - 16:01 21/08/2025
