@@ -359,7 +359,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Yêu cầu dự báo chính xác bão số 5, không để xảy ra sự cố đáng tiếc](https://www.sggp.org.vn/yeu-cau-du-bao-chinh-xac-bao-so-5-khong-de-xay-ra-su-co-dang-tiec-post809672.html) - 11:50 22/08/2025
 - 🙉 [“Cùng ngư dân thắp sáng đèn trên biển” đến với đặc khu Vân Đồn](https://www.sggp.org.vn/cung-ngu-dan-thap-sang-den-tren-bien-den-voi-dac-khu-van-don-post809676.html) - 11:43 22/08/2025
 - 💡 [Tháo gỡ vướng mắc, thúc đẩy phát triển kinh tế tư nhân](https://www.sggp.org.vn/thao-go-vuong-mac-thuc-day-phat-trien-kinh-te-tu-nhan-post809673.html) - 11:41 22/08/2025
-- 💫 [Bất ngờ điểm chuẩn ngành sức khỏe và sư phạm](https://www.sggp.org.vn/bat-ngo-diem-chuan-nganh-suc-khoe-va-su-pham-post809665.html) - 11:38 22/08/2025
+- 💫 [Bất ngờ điểm chuẩn ngành Sức khỏe và Sư phạm](https://www.sggp.org.vn/bat-ngo-diem-chuan-nganh-suc-khoe-va-su-pham-post809665.html) - 11:38 22/08/2025
 - 🧑‍💻 [VietinBank đồng hành cùng ước mơ học tập, làm việc toàn cầu của người Việt](https://www.sggp.org.vn/vietinbank-dong-hanh-cung-uoc-mo-hoc-tap-lam-viec-toan-cau-cua-nguoi-viet-post809637.html) - 11:33 22/08/2025
 - 🎊 [4 ngành lấy điểm chuẩn 30](https://www.sggp.org.vn/4-nganh-lay-diem-chuan-30-post809675.html) - 11:31 22/08/2025
 - 🤖 [Thượng tướng Nguyễn Quang Ngọc giữ chức Thứ trưởng Bộ Quốc phòng](https://www.sggp.org.vn/thuong-tuong-nguyen-quang-ngoc-giu-chuc-thu-truong-bo-quoc-phong-post809681.html) - 11:29 22/08/2025
