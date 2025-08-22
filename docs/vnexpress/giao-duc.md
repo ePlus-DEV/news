@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn 9 trường, viện thuộc Đại học Đà Nẵng](https://vnexpress.net/diem-chuan-dai-hoc-da-nang-2025-chinh-xac-nhat-4929604.html) - 11:24 22/08/2025
-- 🦆 [Điểm chuẩn Đại học Phenikaa từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-phenikaa-2205-chi-tiet-nhat-4930230.html) - 11:23 22/08/2025
-- 🦩 [Điểm chuẩn Đại học Y dược Cần Thơ từ 17 đến gần 24](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-can-tho-2025-moi-nhat-4930395.html) - 11:17 22/08/2025
-- 🌮 [Điểm chuẩn Đại học Giáo dục gần tuyệt đối](https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-ued-2025-chinh-xac-nhat-4930396.html) - 11:14 22/08/2025
-- 🔭 [Điểm chuẩn Đại học Công nghệ TP HCM từ 15-19](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-hutech-nam-2025-moi-nhat-4930164.html) - 11:12 22/08/2025
-- 💡 [Điểm chuẩn Học viện Kỹ thuật mật mã cao nhất 24,42](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-kma-2025-moi-nhat-4930388.html) - 11:10 22/08/2025
-- 🥰 [Điểm chuẩn Đại học Thăng Long cao nhất 23,75](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-2025-chinh-xac-nhat-4929036.html) - 11:07 22/08/2025
-- 🐲 [Điểm chuẩn Học viện Y Dược học cổ truyền Việt Nam cao nhất 24,25](https://vnexpress.net/diem-chuan-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-vutm-2025-chinh-xac-nhat-4929883.html) - 11:05 22/08/2025
-- 🦒 [Điểm chuẩn Đại học Kiến trúc Hà Nội cao nhất 24,15](https://vnexpress.net/diem-chuan-dai-hoc-kien-truc-ha-noi-2025-chinh-xac-nhat-4929877.html) - 10:56 22/08/2025
-- 🦆 [Điểm chuẩn Đại học Kinh tế TP HCM thấp nhất 22,8](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-ueh-nam-2025-chi-tiet-nhat-4929148.html) - 10:56 22/08/2025
-- 🧰 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 85,41/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-nam-2025-chi-tiet-nhat-4929202.html) - 10:47 22/08/2025
-- 🐘 [Điểm chuẩn Đại học Kinh tế - Luật từ 23,5 đến 28,08](https://vnexpress.net/chi-tiet-diem-chuan-dai-hoc-kinh-te-luat-nam-2025-4928888.html) - 10:41 22/08/2025
-- 🤓 [Điểm chuẩn 13 khoa, trường thuộc Đại học Huế](https://vnexpress.net/diem-chuan-dai-hoc-hue-hu-2025-chinh-xac-nhat-4929119.html) - 10:34 22/08/2025
-- 🧰 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-ftu-2025-chinh-xac-nhat-4928864.html) - 10:30 22/08/2025
-- 🧑‍💻 [Điểm chuẩn Đại học Công nghệ Thông tin cao nhất 29,6](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-thong-tin-2025-chinh-xac-nhat-4930114.html) - 10:30 22/08/2025
-- 🫶 [Điểm chuẩn nhiều ngành Đại học Luật TP HCM giảm 1-4 điểm](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-nam-2025-chi-tiet-4930229.html) - 10:26 22/08/2025
-- 🪜 [Điểm chuẩn Đại học Thủy lợi từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tlu-2025-chinh-xac-nhat-4929200.html) - 10:16 22/08/2025
-- 🎊 [Điểm chuẩn Đại học Xây dựng Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-xay-dung-ha-noi-huce-2025-chi-tiet-nhat-4929243.html) - 10:15 22/08/2025
-- 🧐 [Điểm chuẩn Đại học Sài Gòn cao nhất gần 29 điểm](https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-sgu-2025-moi-nhat-4930252.html) - 10:15 22/08/2025
-- 🌈 [Điểm chuẩn 12 trường, khoa của Đại học Thái Nguyên](https://vnexpress.net/diem-chuan-dai-hoc-thai-nguyen-2025-moi-nhat-4930234.html) - 10:08 22/08/2025
-- 🥰 [Điểm chuẩn Đại học Dược Hà Nội từ 20 đến 24,5](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-hup-2025-chinh-xac-nhat-4929161.html) - 10:04 22/08/2025
-- 🎡 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-neu-2025-moi-nhat-4928820.html) - 10:00 22/08/2025
-- 🎊 [Điểm chuẩn Đại học Hà Nội cao nhất 34,35/40](https://vnexpress.net/diem-chuan-dai-hoc-ha-noi-hanu-2025-moi-nhat-4928796.html) - 09:56 22/08/2025
-- 🌏 [Học viện Kỹ thuật quân sự công bố điểm chuẩn thấp nhất 26,4](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-mta-2025-moi-nhat-4930148.html) - 09:54 22/08/2025
-- 🥸 [Điểm chuẩn Đại học Y Dược TP HCM cao nhất 27,3](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-cao-nhat-27-3-4930323.html) - 09:50 22/08/2025
-- 🕴 [Điểm chuẩn Đại học Y khoa Phạm Ngọc Thạch giảm mạnh](https://vnexpress.net/diem-chuan-dai-hoc-y-khoa-pham-ngoc-thach-nam-2025-chi-tiet-nhat-4928863.html) - 09:37 22/08/2025
-- 💂 [Điểm chuẩn 20 trường quân đội cao nhất 30](https://vnexpress.net/diem-chuan-20-truong-quan-doi-nam-2025-chinh-xac-nhat-4929695.html) - 09:33 22/08/2025
-- 🕴 [Điểm chuẩn Đại học Kinh tế - Tài chính TP HCM từ 15](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-nam-2025-chi-tiet-4930172.html) - 09:24 22/08/2025
-- 🌋 [Điểm chuẩn trường Đại học Y Dược từ 19 đến 27,43](https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-2025-chi-tiet-nhat-4930203.html) - 09:22 22/08/2025
-- 🪜 [Học viện Ngân hàng công bố điểm chuẩn từ 21 đến 26,97](https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-2025-chi-tiet-nhat-4928944.html) - 09:21 22/08/2025
-- 🕴 [Điểm chuẩn Đại học Bách khoa Hà Nội cao nhất 29,39](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-hust-2025-chinh-xac-nhat-4928933.html) - 09:14 22/08/2025
-- 🎃 [Điểm chuẩn 12 trường thuộc Đại học Quốc gia Hà Nội](https://vnexpress.net/diem-chuan-dai-hoc-quoc-gia-ha-noi-vnu-2025-chi-tiet-nhat-4929187.html) - 09:13 22/08/2025
+- 🤓 [Điểm chuẩn Đại học Tài chính - Marketing thấp nhất 22](https://vnexpress.net/diem-chuan-dai-hoc-tai-chinh-marketing-nam-2025-chi-tiet-nhat-4930447.html) - 15:04 22/08/2025
+- 🦆 [Điểm chuẩn Đại học Sư phạm TP HCM cao nhất 29,38](https://vnexpress.net/diem-chuan-dai-hoc-su-pham-tp-hcm-nam-2025-o-tat-ca-nganh-phuong-thuc-4930330.html) - 14:06 22/08/2025
+- 🦩 [Điểm chuẩn Học viện Công nghệ Bưu chính viễn thông cao nhất 26,21](https://vnexpress.net/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-ptit-2025-moi-nhat-4928949.html) - 13:52 22/08/2025
+- 🌮 [Điểm chuẩn Đại học Khoa học Tự nhiên TP HCM áp sát 30](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-nam-2025-moi-va-chi-tiet-nhat-4930422.html) - 13:47 22/08/2025
+- 🔭 [Ngành Kiểm toán lấy điểm chuẩn cao nhất Học viện Tài chính](https://vnexpress.net/diem-chuan-hoc-vien-tai-chinh-aof-2025-chinh-xac-nhat-4928772.html) - 13:27 22/08/2025
+- 💡 [Điểm chuẩn Đại học Quốc tế không dưới 23](https://vnexpress.net/diem-chuan-dai-hoc-quoc-te-2025-moi-nhat-4930418.html) - 13:25 22/08/2025
+- 🥰 [Học viện Ngoại giao lấy điểm chuẩn cao nhất 26,09](https://vnexpress.net/diem-chuan-hoc-vien-ngoai-giao-dav-2025-chinh-xac-nhat-4929798.html) - 13:13 22/08/2025
+- 🐲 [Điểm chuẩn Đại học Khoa học Xã hội và Nhân văn TP HCM thấp nhất 20](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tp-hcm-2025-chi-tiet-4930206.html) - 13:09 22/08/2025
+- 🦒 [Học viện Nông nghiệp Việt Nam công bố điểm chuẩn](https://vnexpress.net/diem-chuan-hoc-vien-nong-nghiep-viet-nam-vnua-2025-moi-nhat-4930415.html) - 12:57 22/08/2025
+- 🦆 [Điểm chuẩn Đại học Mở Hà Nội 17,03 đến 25,17](https://vnexpress.net/diem-chuan-dai-hoc-mo-ha-noi-hou-2025-chinh-xac-nhat-4929725.html) - 12:44 22/08/2025
+- 🧰 [Điểm chuẩn Đại học Công nghệ Giao thông Vận tải 16-24,5](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-giao-thong-van-tai-utt-2025-chinh-xac-nhat-4928326.html) - 12:44 22/08/2025
+- 🐘 [Điểm chuẩn Đại học Công nghiệp TP HCM từ 17 đến 26,5](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-tu-17-den-26-5-4929135.html) - 12:39 22/08/2025
+- 🤓 [Điểm chuẩn Đại học Bách khoa Đà Nẵng cao nhất 27](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-da-nang-2025-moi-nhat-4929639.html) - 12:34 22/08/2025
+- 🧰 [Điểm chuẩn Đại học Sư phạm Hà Nội 2 thấp nhất 20,25](https://vnexpress.net/diem-chuan-dai-hoc-su-pham-2-hpu2-2025-chinh-xac-nhat-4929669.html) - 12:32 22/08/2025
+- 🧑‍💻 [Điểm chuẩn Đại học Y Hà Nội cao nhất 28,7](https://vnexpress.net/diem-chuan-dai-hoc-y-ha-noi-hmu-2025-chi-tiet-nhat-4928960.html) - 12:26 22/08/2025
+- 🫶 [Đại học Ngoại ngữ lấy điểm chuẩn cao nhất 30](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-ngu-ulis-2025-chinh-xac-nhat-4929150.html) - 12:24 22/08/2025
+- 🪜 [Điểm chuẩn các trường thành viên Đại học Quốc gia TP HCM](https://vnexpress.net/diem-chuan-truong-thanh-vien-dai-hoc-quoc-gia-tp-hcm-vnuhcm-nam-2025-chi-tiet-4930337.html) - 12:22 22/08/2025
+- 🎊 [Đại học Ngân hàng TP HCM lấy điểm chuẩn cao nhất 23,6](https://vnexpress.net/diem-chuan-dai-hoc-ngan-hang-tp-hcm-2025-moi-nhat-4930403.html) - 12:20 22/08/2025
+- 🧐 [Điểm chuẩn Đại học Khoa học Xã hội và Nhân văn cao nhất 29](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-cao-nhat-29-4930042.html) - 12:16 22/08/2025
+- 🌈 [Điểm chuẩn Đại học Sư phạm Kỹ thuật TP HCM cao nhất 29,57](https://vnexpress.net/diem-chuan-dai-hoc-su-pham-ky-thuat-tp-hcm-2025-hcmute-chi-tiet-nhat-4929182.html) - 12:10 22/08/2025
+- 🥰 [Sư phạm Lịch sử lấy điểm chuẩn cao nhất Đại học Vinh](https://vnexpress.net/su-pham-lich-su-lay-diem-chuan-cao-nhat-dai-hoc-vinh-4929246.html) - 12:02 22/08/2025
+- 🎡 [Điểm chuẩn Đại học Công nghiệp Hà Nội cao nhất 26,27](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-ha-noi-haui-2025-chi-tiet-nhat-4930400.html) - 11:50 22/08/2025
+- 🎊 [Đại học Luật Hà Nội công bố điểm chuẩn từ 19,75](https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-hlu-2025-moi-nhat-4929264.html) - 11:41 22/08/2025
+- 🌏 [Điểm chuẩn 9 trường, viện thuộc Đại học Đà Nẵng](https://vnexpress.net/diem-chuan-dai-hoc-da-nang-2025-chinh-xac-nhat-4929604.html) - 11:24 22/08/2025
+- 🥸 [Điểm chuẩn Đại học Phenikaa từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-phenikaa-2205-chi-tiet-nhat-4930230.html) - 11:23 22/08/2025
+- 🕴 [Điểm chuẩn Đại học Y dược Cần Thơ từ 17 đến gần 24](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-can-tho-2025-moi-nhat-4930395.html) - 11:17 22/08/2025
+- 💂 [Điểm chuẩn Đại học Giáo dục gần tuyệt đối](https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-ued-2025-chinh-xac-nhat-4930396.html) - 11:14 22/08/2025
+- 🕴 [Điểm chuẩn Đại học Công nghệ TP HCM từ 15-19](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-hutech-nam-2025-moi-nhat-4930164.html) - 11:12 22/08/2025
+- 🌋 [Điểm chuẩn Học viện Kỹ thuật mật mã cao nhất 24,42](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-kma-2025-moi-nhat-4930388.html) - 11:10 22/08/2025
+- 🪜 [Điểm chuẩn Đại học Thăng Long cao nhất 23,75](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-2025-chinh-xac-nhat-4929036.html) - 11:07 22/08/2025
+- 🕴 [Điểm chuẩn Học viện Y Dược học cổ truyền Việt Nam cao nhất 24,25](https://vnexpress.net/diem-chuan-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-vutm-2025-chinh-xac-nhat-4929883.html) - 11:05 22/08/2025
+- 🎃 [Điểm chuẩn Đại học Kiến trúc Hà Nội cao nhất 24,15](https://vnexpress.net/diem-chuan-dai-hoc-kien-truc-ha-noi-2025-chinh-xac-nhat-4929877.html) - 10:56 22/08/2025
+- 🦏 [Điểm chuẩn Đại học Kinh tế TP HCM thấp nhất 22,8](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-ueh-nam-2025-chi-tiet-nhat-4929148.html) - 10:56 22/08/2025
+- 🧑‍🏫 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 85,41/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-nam-2025-chi-tiet-nhat-4929202.html) - 10:47 22/08/2025
+- 💡 [Điểm chuẩn Đại học Kinh tế - Luật từ 23,5 đến 28,08](https://vnexpress.net/chi-tiet-diem-chuan-dai-hoc-kinh-te-luat-nam-2025-4928888.html) - 10:41 22/08/2025
+- 🐎 [Điểm chuẩn 13 khoa, trường thuộc Đại học Huế](https://vnexpress.net/diem-chuan-dai-hoc-hue-hu-2025-chinh-xac-nhat-4929119.html) - 10:34 22/08/2025
+- 🧰 [Điểm chuẩn Đại học Ngoại thương từ 24 đến 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-ftu-2025-chinh-xac-nhat-4928864.html) - 10:30 22/08/2025
+- 🙉 [Điểm chuẩn Đại học Công nghệ Thông tin cao nhất 29,6](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-thong-tin-2025-chinh-xac-nhat-4930114.html) - 10:30 22/08/2025
+- ⚗️ [Điểm chuẩn nhiều ngành Đại học Luật TP HCM giảm 1-4 điểm](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-nam-2025-chi-tiet-4930229.html) - 10:26 22/08/2025
+- 🌝 [Điểm chuẩn Đại học Thủy lợi từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tlu-2025-chinh-xac-nhat-4929200.html) - 10:16 22/08/2025
+- ⛽️ [Điểm chuẩn Đại học Xây dựng Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-xay-dung-ha-noi-huce-2025-chi-tiet-nhat-4929243.html) - 10:15 22/08/2025
+- 🌜 [Điểm chuẩn Đại học Sài Gòn cao nhất gần 29 điểm](https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-sgu-2025-moi-nhat-4930252.html) - 10:15 22/08/2025
+- ⚗️ [Điểm chuẩn 11 trường, khoa của Đại học Thái Nguyên](https://vnexpress.net/diem-chuan-dai-hoc-thai-nguyen-2025-moi-nhat-4930234.html) - 10:08 22/08/2025
+- 🧰 [Điểm chuẩn Đại học Dược Hà Nội từ 20 đến 24,5](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-hup-2025-chinh-xac-nhat-4929161.html) - 10:04 22/08/2025
+- 🤗 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-neu-2025-moi-nhat-4928820.html) - 10:00 22/08/2025
+- 🔥 [Điểm chuẩn Đại học Hà Nội cao nhất 34,35/40](https://vnexpress.net/diem-chuan-dai-hoc-ha-noi-hanu-2025-moi-nhat-4928796.html) - 09:56 22/08/2025
+- 💪 [Học viện Kỹ thuật quân sự công bố điểm chuẩn thấp nhất 26,4](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-mta-2025-moi-nhat-4930148.html) - 09:54 22/08/2025
+- 💂 [Điểm chuẩn Đại học Y Dược TP HCM cao nhất 27,3](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-cao-nhat-27-3-4930323.html) - 09:50 22/08/2025
+- 🌮 [Điểm chuẩn Đại học Y khoa Phạm Ngọc Thạch giảm mạnh](https://vnexpress.net/diem-chuan-dai-hoc-y-khoa-pham-ngoc-thach-nam-2025-chi-tiet-nhat-4928863.html) - 09:37 22/08/2025
+- 🪄 [Điểm chuẩn 20 trường quân đội cao nhất 30](https://vnexpress.net/diem-chuan-20-truong-quan-doi-nam-2025-chinh-xac-nhat-4929695.html) - 09:33 22/08/2025
+- 🎡 [Điểm chuẩn Đại học Kinh tế - Tài chính TP HCM từ 15](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-nam-2025-chi-tiet-4930172.html) - 09:24 22/08/2025
+- 🌈 [Điểm chuẩn trường Đại học Y Dược từ 19 đến 27,43](https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-2025-chi-tiet-nhat-4930203.html) - 09:22 22/08/2025
+- 🎊 [Học viện Ngân hàng công bố điểm chuẩn từ 21 đến 26,97](https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-2025-chi-tiet-nhat-4928944.html) - 09:21 22/08/2025
+- ⚗️ [Điểm chuẩn Đại học Bách khoa Hà Nội cao nhất 29,39](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-hust-2025-chinh-xac-nhat-4928933.html) - 09:14 22/08/2025
+- 🌁 [Điểm chuẩn 12 trường thuộc Đại học Quốc gia Hà Nội](https://vnexpress.net/diem-chuan-dai-hoc-quoc-gia-ha-noi-vnu-2025-chi-tiet-nhat-4929187.html) - 09:13 22/08/2025
 - 🦏 [Điểm chuẩn Đại học Khoa học Tự nhiên Hà Nội từ 20,05 đến 26](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-hus-2025-moi-nhat-4929205.html) - 08:58 22/08/2025
-- 🧑‍🏫 [Điểm chuẩn Đại học Y tế công cộng từ 18,3 đến 23,5](https://vnexpress.net/diem-chuan-dai-hoc-y-te-cong-cong-huph-2025-chinh-xac-nhat-4929230.html) - 08:39 22/08/2025
-- 💡 [Điểm chuẩn Đại học Y Dược Thái Bình cao nhất 24,6](https://vnexpress.net/diem-chuan-y-duoc-thai-binh-2025-chinh-xac-nhat-4930144.html) - 08:27 22/08/2025
-- 🐎 [Điểm chuẩn Đại học Công thương TP HCM cao nhất 24,5](https://vnexpress.net/diem-chuan-dai-hoc-cong-thuong-tp-hcm-nam-2025-moi-nhat-4929172.html) - 08:23 22/08/2025
-- 🧰 [Trường Y đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-ky-thuat-y-te-hai-duong-2025-chinh-xac-nhat-4930208.html) - 08:19 22/08/2025
-- 🙉 [Điểm chuẩn Đại học Thương mại cao nhất 27,8](https://vnexpress.net/diem-chuan-dai-hoc-thuong-mai-tmu-2025-chi-tiet-4929184.html) - 08:06 22/08/2025
-- ⚗️ [Điểm chuẩn Đại học Nha Trang 20-27/40](https://vnexpress.net/diem-chuan-dai-hoc-nha-trang-nam-2025-moi-nhat-4930281.html) - 07:54 22/08/2025
-- 🌝 [Trường thuộc ĐH Quốc gia Hà Nội tuyển bổ sung ngay khi công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-viet-nhat-vju-2025-chinh-xac-nhat-4930202.html) - 07:29 22/08/2025
-- ⛽️ [Trường đầu tiên thuộc Đại học Quốc gia Hà Nội công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-uet-2025-moi-nhat-4930248.html) - 07:15 22/08/2025
-- 🌜 [Điểm chuẩn đại học lên mức 30](https://vnexpress.net/diem-chuan-hon-200-dai-hoc-nam-2025-cap-nhat-nhanh-chi-tiet-chinh-xac-nhat-4929038.html) - 05:56 22/08/2025
-- ⚗️ [Điểm chuẩn Học viện Hàng không Việt Nam từ 18 đến 27](https://vnexpress.net/diem-chuan-hoc-vien-hang-khong-viet-nam-2025-tat-ca-phuong-thuc-xet-tuyen-4930098.html) - 05:41 22/08/2025
-- 🧰 [Những hoạt động hỗ trợ dịp tựu trường của Bitex](https://vnexpress.net/nhung-hoat-dong-ho-tro-dip-tuu-truong-cua-bitex-4930101.html) - 04:00 22/08/2025
-- 🤗 [Mùa tuyển sinh đại học rối ren](https://vnexpress.net/mua-tuyen-sinh-dai-hoc-roi-ren-4929359.html) - 02:30 22/08/2025
-- 🔥 [Loạt đại học phía Nam dự kiến điểm chuẩn tăng](https://vnexpress.net/loat-dai-hoc-phia-nam-du-kien-diem-chuan-tang-4929979.html) - 23:32 21/08/2025
-- 💪 [Tất cả đại học công bố điểm chuẩn vào chiều nay](https://vnexpress.net/tra-cuu-diem-chuan-dai-hoc-2025-chinh-xac-nhat-tren-vnexpress-4928832.html) - 23:00 21/08/2025
-- 💂 [Điểm chuẩn Đại học Sư phạm Kỹ thuật TP HCM dự kiến tăng](https://vnexpress.net/diem-chuan-dai-hoc-su-pham-ky-thuat-tp-hcm-du-kien-tang-4929949.html) - 14:50 21/08/2025
-- 🌮 [Nước nào xuất khẩu hạt điều nhiều nhất thế giới 18 năm liên tiếp?](https://vnexpress.net/nuoc-nao-xuat-khau-hat-dieu-nhieu-nhat-the-gioi-18-nam-lien-tiep-4929790.html) - 12:00 21/08/2025
-- 🪄 [Điểm chuẩn Đại học Công nghệ Thông tin dự kiến cao nhất 29,5](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-thong-tin-du-kien-cao-nhat-29-5-4929734.html) - 07:13 21/08/2025
-- 🎡 [Loạt đại học Australia tăng học phí với du học sinh](https://vnexpress.net/loat-dai-hoc-australia-tang-hoc-phi-voi-du-hoc-sinh-4929278.html) - 05:44 21/08/2025
-- 🌈 [Thủ khoa điểm cao nhất 40 năm ở Đại học Luật TP HCM](https://vnexpress.net/thu-khoa-diem-cao-nhat-40-nam-o-dai-hoc-luat-tp-hcm-4929541.html) - 23:51 20/08/2025
-- 🎊 [Phó bí thư Hà Nội: Tính toán việc xây trường để tránh lãng phí](https://vnexpress.net/pho-bi-thu-ha-noi-tinh-toan-viec-xay-truong-de-tranh-lang-phi-4929311.html) - 15:06 20/08/2025
-- ⚗️ [&#39;Xem lại năng lực hiệu trưởng nếu nhà vệ sinh của trường bẩn&#39;](https://vnexpress.net/xem-lai-nang-luc-hieu-truong-neu-nha-ve-sinh-cua-truong-ban-4929365.html) - 14:11 20/08/2025
-- 🌁 [Học phí 50 đại học hàng đầu Mỹ cao nhất 73.000 USD](https://vnexpress.net/hoc-phi-dai-hoc-my-nam-hoc-2025-2026-4929399.html) - 08:37 20/08/2025
-- 🦏 [Hà Nội cho học sinh nghỉ học hai ngày hợp luyện diễu binh](https://vnexpress.net/ha-noi-cho-hoc-sinh-nghi-hoc-hai-ngay-hop-luyen-dieu-binh-4929139.html) - 06:55 20/08/2025
-- 👍 [Thêm 4 lần lọc ảo, các đại học hoãn công bố điểm chuẩn](https://vnexpress.net/lich-cong-bo-diem-chuan-dai-hoc-2025-moi-nhat-4928860.html) - 06:01 20/08/2025
-- 🌈 [Đại học đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-hung-vuong-tp-hcm-nam-2025-chi-tiet-nhat-4929271.html) - 05:18 20/08/2025
-- 🕴 [Hai lưu ý với thí sinh đỗ đại học](https://vnexpress.net/hai-dieu-can-lam-ngay-sau-khi-biet-diem-chuan-dai-hoc-2025-4928942.html) - 03:49 20/08/2025
-- 🧰 [Đại học dự kiến công bố điểm chuẩn từ chiều nay](https://vnexpress.net/lich-cong-bo-diem-chuan-dai-hoc-2025-chinh-xac-nhat-4928848.html) - 23:16 19/08/2025<!-- vnexpress-giao-duc:END -->
+- 👍 [Điểm chuẩn Đại học Y tế công cộng từ 18,3 đến 23,5](https://vnexpress.net/diem-chuan-dai-hoc-y-te-cong-cong-huph-2025-chinh-xac-nhat-4929230.html) - 08:39 22/08/2025
+- 🌈 [Điểm chuẩn Đại học Y Dược Thái Bình cao nhất 24,6](https://vnexpress.net/diem-chuan-y-duoc-thai-binh-2025-chinh-xac-nhat-4930144.html) - 08:27 22/08/2025
+- 🕴 [Điểm chuẩn Đại học Công thương TP HCM cao nhất 24,5](https://vnexpress.net/diem-chuan-dai-hoc-cong-thuong-tp-hcm-nam-2025-moi-nhat-4929172.html) - 08:23 22/08/2025
+- 🧰 [Trường Y đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-ky-thuat-y-te-hai-duong-2025-chinh-xac-nhat-4930208.html) - 08:19 22/08/2025<!-- vnexpress-giao-duc:END -->
