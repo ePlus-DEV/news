@@ -4,8 +4,8 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Chiếc đèn gù, ống lấy máu và bài học để thiết bị y tế Việt vươn ra thế giới](https://dantri.com.vn/suc-khoe/chiec-den-gu-ong-lay-mau-va-bai-hoc-de-thiet-bi-y-te-viet-vuon-ra-the-gioi-20250821145701272.htm) - 07:15 22/08/2025
-- 🌈 [80 năm ngành Thể thao: Dấu ấn đậm nét ở đấu trường quốc tế](https://dantri.com.vn/the-thao/80-nam-nganh-the-thao-dau-an-dam-net-o-dau-truong-quoc-te-20250821234358609.htm) - 03:50 22/08/2025
+- 🤠 [80 năm ngành Thể thao: Dấu ấn đậm nét ở đấu trường quốc tế](https://dantri.com.vn/the-thao/80-nam-nganh-the-thao-dau-an-dam-net-o-dau-truong-quoc-te-20250821234358609.htm) - 08:50 22/08/2025
+- 🌈 [Chiếc đèn gù, ống lấy máu và bài học để thiết bị y tế Việt vươn ra thế giới](https://dantri.com.vn/suc-khoe/chiec-den-gu-ong-lay-mau-va-bai-hoc-de-thiet-bi-y-te-viet-vuon-ra-the-gioi-20250821145701272.htm) - 07:15 22/08/2025
 - 🐎 [Tự trồng thanh long đến sầu riêng: Tham vọng tự chủ trái cây của Trung Quốc](https://dantri.com.vn/kinh-doanh/tu-trong-thanh-long-den-sau-rieng-tham-vong-tu-chu-trai-cay-cua-trung-quoc-20250818005718684.htm) - 01:24 22/08/2025
 - 👹 [8 chính sách hỗ trợ tạo việc làm của nhà nước](https://dantri.com.vn/lao-dong-viec-lam/8-chinh-sach-ho-tro-tao-viec-lam-cua-nha-nuoc-20250820131341953.htm) - 01:00 22/08/2025
 - 🫶 [Hiền Hồ quỳ gối, Negav bị phản ứng: Cánh cửa trở lại không còn dễ dàng?](https://dantri.com.vn/giai-tri/hien-ho-quy-goi-negav-bi-phan-ung-canh-cua-tro-lai-khong-con-de-dang-20250819211212265.htm) - 00:25 22/08/2025
