@@ -4,10 +4,10 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tự trồng thanh long đến sầu riêng: Tham vọng tự chủ trái cây của Trung Quốc](https://dantri.com.vn/kinh-doanh/tu-trong-thanh-long-den-sau-rieng-tham-vong-tu-chu-trai-cay-cua-trung-quoc-20250818005718684.htm) - 01:24 22/08/2025
-- 🌈 [8 chính sách hỗ trợ tạo việc làm của nhà nước](https://dantri.com.vn/lao-dong-viec-lam/8-chinh-sach-ho-tro-tao-viec-lam-cua-nha-nuoc-20250820131341953.htm) - 01:00 22/08/2025
-- 🐎 [Hiền Hồ quỳ gối, Negav bị phản ứng: Cánh cửa trở lại không còn dễ dàng?](https://dantri.com.vn/giai-tri/hien-ho-quy-goi-negav-bi-phan-ung-canh-cua-tro-lai-khong-con-de-dang-20250819211212265.htm) - 00:25 22/08/2025
-- 👹 [80 năm ngành Thể thao: Dấu ấn đậm nét ở đấu trường quốc tế](https://dantri.com.vn/the-thao/80-nam-nganh-the-thao-dau-an-dam-net-o-dau-truong-quoc-te-20250821234358609.htm) - 23:34 21/08/2025
+- 🤠 [80 năm ngành Thể thao: Dấu ấn đậm nét ở đấu trường quốc tế](https://dantri.com.vn/the-thao/80-nam-nganh-the-thao-dau-an-dam-net-o-dau-truong-quoc-te-20250821234358609.htm) - 03:50 22/08/2025
+- 🌈 [Tự trồng thanh long đến sầu riêng: Tham vọng tự chủ trái cây của Trung Quốc](https://dantri.com.vn/kinh-doanh/tu-trong-thanh-long-den-sau-rieng-tham-vong-tu-chu-trai-cay-cua-trung-quoc-20250818005718684.htm) - 01:24 22/08/2025
+- 🐎 [8 chính sách hỗ trợ tạo việc làm của nhà nước](https://dantri.com.vn/lao-dong-viec-lam/8-chinh-sach-ho-tro-tao-viec-lam-cua-nha-nuoc-20250820131341953.htm) - 01:00 22/08/2025
+- 👹 [Hiền Hồ quỳ gối, Negav bị phản ứng: Cánh cửa trở lại không còn dễ dàng?](https://dantri.com.vn/giai-tri/hien-ho-quy-goi-negav-bi-phan-ung-canh-cua-tro-lai-khong-con-de-dang-20250819211212265.htm) - 00:25 22/08/2025
 - 🫶 [Loài gà lôi có bộ lông đẹp rực rỡ, đối mặt nguy cơ tuyệt chủng tại Việt Nam](https://dantri.com.vn/khoa-hoc/loai-ga-loi-co-bo-long-dep-ruc-ro-doi-mat-nguy-co-tuyet-chung-tai-viet-nam-20250822021100976.htm) - 23:27 21/08/2025
 - ⛽️ [Trung úy công an lặng người trước cảnh nhà mình sau những ngày lo việc dân](https://dantri.com.vn/xa-hoi/trung-uy-cong-an-lang-nguoi-truoc-canh-nha-minh-sau-nhung-ngay-lo-viec-dan-20250821170011358.htm) - 23:24 21/08/2025
 - 🌜 [&quot;Vua kung fu&quot; Lý Liên Kiệt bị bệnh tật gặm nhấm, chuẩn bị hậu sự ở tuổi 62](https://dantri.com.vn/giai-tri/vua-kung-fu-ly-lien-kiet-bi-benh-tat-gam-nham-chuan-bi-hau-su-o-tuoi-62-20250820180227466.htm) - 23:00 21/08/2025
