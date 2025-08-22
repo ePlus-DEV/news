@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Đường dây rửa tiền 30.000 tỷ đồng: Đã khám xét 3 chi nhánh ngân hàng](https://dantri.com.vn/phap-luat/duong-day-rua-tien-30000-ty-dong-da-kham-xet-3-chi-nhanh-ngan-hang-20250822201448409.htm) - 13:27 22/08/2025
-- 🐲 [Vụ thông chốt bảo vệ A80: Khởi tố vụ án, điều tra tội giết người](https://dantri.com.vn/phap-luat/vu-thong-chot-bao-ve-a80-khoi-to-vu-an-dieu-tra-toi-giet-nguoi-20250822184622478.htm) - 11:46 22/08/2025
+- 🐲 [Vụ &quot;thông chốt&quot; bảo vệ A80: Khởi tố vụ án, điều tra tội giết người](https://dantri.com.vn/phap-luat/vu-thong-chot-bao-ve-a80-khoi-to-vu-an-dieu-tra-toi-giet-nguoi-20250822184622478.htm) - 11:46 22/08/2025
 - 🌁 [Đối tượng chuyên “ăn hàng” laptop của sinh viên ở ký túc xá sa lưới](https://dantri.com.vn/phap-luat/doi-tuong-chuyen-an-hang-laptop-cua-sinh-vien-o-ky-tuc-xa-sa-luoi-20250822181150885.htm) - 11:32 22/08/2025
 - 🎃 [Quái xế đâm đại úy CSCĐ: Vi phạm giao thông nên lao qua chốt để bỏ chạy](https://dantri.com.vn/phap-luat/quai-xe-dam-dai-uy-cscd-vi-pham-giao-thong-nen-lao-qua-chot-de-bo-chay-20250822161453121.htm) - 09:42 22/08/2025
 - 🦅 [Bị phạt 7,5 triệu đồng vì chia sẻ thông tin xuyên tạc, bôi nhọ lãnh đạo](https://dantri.com.vn/phap-luat/bi-phat-75-trieu-dong-vi-chia-se-thong-tin-xuyen-tac-boi-nho-lanh-dao-20250822153157428.htm) - 09:05 22/08/2025
