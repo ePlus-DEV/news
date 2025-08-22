@@ -4,60 +4,62 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Điểm chuẩn Đại học Giáo dục gần tuyệt đối](https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-ued-2025-chinh-xac-nhat-4930396.html) - 11:14 22/08/2025
-- 🐎 [Điểm chuẩn Đại học Công nghệ TP HCM từ 15-19](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-hutech-nam-2025-moi-nhat-4930164.html) - 11:12 22/08/2025
-- 🦍 [Điểm chuẩn Học viện Kỹ thuật mật mã cao nhất 24,42](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-kma-2025-moi-nhat-4930388.html) - 11:10 22/08/2025
-- 🏊 [Điểm chuẩn Đại học Thăng Long cao nhất 23,75](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-2025-chinh-xac-nhat-4929036.html) - 11:07 22/08/2025
-- 🎊 [Điểm chuẩn Học viện Y Dược học cổ truyền Việt Nam cao nhất 24,25](https://vnexpress.net/diem-chuan-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-vutm-2025-chinh-xac-nhat-4929883.html) - 11:05 22/08/2025
-- 🎃 [Tùng Dương: &#39;Âm nhạc là con đường lan tỏa tinh thần dân tộc&#39;](https://vnexpress.net/tung-duong-am-nhac-la-con-duong-lan-toa-tinh-than-dan-toc-4930328.html) - 11:00 22/08/2025
-- 🧰 [Điểm chuẩn Đại học Kiến trúc Hà Nội cao nhất 24,15](https://vnexpress.net/diem-chuan-dai-hoc-kien-truc-ha-noi-2025-chinh-xac-nhat-4929877.html) - 10:56 22/08/2025
-- 🔭 [Điểm chuẩn Đại học Kinh tế TP HCM thấp nhất 22,8](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-ueh-nam-2025-chi-tiet-nhat-4929148.html) - 10:56 22/08/2025
-- 🫶 [Quân đội Trung Quốc sẽ đến Việt Nam tham gia diễu binh vào cuối tháng 8](https://vnexpress.net/quan-doi-trung-quoc-se-den-viet-nam-tham-gia-dieu-binh-vao-cuoi-thang-8-4930380.html) - 10:49 22/08/2025
-- 🪜 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 85,41/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-nam-2025-chi-tiet-nhat-4929202.html) - 10:47 22/08/2025
+- 🎬 [Sư phạm Lịch sử lấy điểm chuẩn cao nhất Đại học Vinh](https://vnexpress.net/su-pham-lich-su-lay-diem-chuan-cao-nhat-dai-hoc-vinh-4929246.html) - 12:02 22/08/2025
+- 🐎 [Dàn diễn viên đóng &#39;Cục vàng của ngoại&#39;](https://vnexpress.net/dan-dien-vien-dong-cuc-vang-cua-ngoai-4929909.html) - 12:00 22/08/2025
+- 🦍 [Công nghệ trên đội xe khai khoáng tự động lớn nhất thế giới](https://vnexpress.net/cong-nghe-tren-doi-xe-khai-khoang-tu-dong-lon-nhat-the-gioi-4929906.html) - 12:00 22/08/2025
+- 🏊 [Triết lý xử án của thẩm phán &#39;nhân từ nhất thế giới&#39;](https://vnexpress.net/triet-ly-xu-an-cua-tham-phan-nhan-tu-nhat-the-gioi-4929701.html) - 12:00 22/08/2025
+- 🎊 [4 dòng máy giặt dung tích lớn mới nhất từ Toshiba](https://vnexpress.net/4-dong-may-giat-dung-tich-lon-moi-nhat-tu-toshiba-4930393.html) - 12:00 22/08/2025
+- 🎃 [Nha Trang rực rỡ cờ hoa chào Quốc khánh và VnExpress Marathon](https://vnexpress.net/nha-trang-ruc-ro-co-hoa-chao-quoc-khanh-va-vnexpress-marathon-4930340.html) - 12:00 22/08/2025
+- 🧰 [Tử cung nhi hóa, vô kinh có chữa được không?](https://vnexpress.net/tu-cung-nhi-hoa-vo-kinh-co-chua-duoc-khong-4930246.html) - 12:00 22/08/2025
+- 🔭 [Điểm chuẩn Đại học Công nghiệp Hà Nội cao nhất 26,27](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-ha-noi-haui-2025-chi-tiet-nhat-4930400.html) - 11:50 22/08/2025
+- 🫶 [Đại học Luật Hà Nội công bố điểm chuẩn từ 19,75](https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-hlu-2025-moi-nhat-4929264.html) - 11:41 22/08/2025
+- 🪜 [Một giây sơ sẩy khiến võ sĩ Việt Nam lỡ chung kết Road to UFC](https://vnexpress.net/mot-giay-so-say-khien-vo-si-viet-nam-lo-chung-ket-road-to-ufc-4930382.html) - 11:40 22/08/2025
+- 👨‍🏫 [&#39;Chống trượt&#39; trong ma trận tuyển sinh đại học](https://vnexpress.net/chong-truot-trong-ma-tran-tuyen-sinh-dai-hoc-4930353.html) - 11:39 22/08/2025
+- 🎊 [Lửa bao trùm dãy nhà ven sông Cà Mau](https://vnexpress.net/lua-bao-trum-day-nha-ven-song-ca-mau-4930399.html) - 11:39 22/08/2025
+- 🎊 [Chuyến thăm vịnh Hạ Long của Quốc vương và Hoàng hậu Bhutan](https://vnexpress.net/chuyen-tham-vinh-ha-long-cua-quoc-vuong-va-hoang-hau-bhutan-4930387.html) - 11:35 22/08/2025
+- 😺 [Du khách phát hiện cá chết hàng loạt, san hô gãy rạp dưới biển Khánh Hòa](https://vnexpress.net/du-khach-phat-hien-ca-chet-hang-loat-san-ho-gay-rap-duoi-bien-khanh-hoa-4929958.html) - 11:30 22/08/2025
+- 🐘 [Điểm chuẩn 9 trường, viện thuộc Đại học Đà Nẵng](https://vnexpress.net/diem-chuan-dai-hoc-da-nang-2025-chinh-xac-nhat-4929604.html) - 11:24 22/08/2025
+- 🌁 [Điểm chuẩn Đại học Phenikaa từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-phenikaa-2205-chi-tiet-nhat-4930230.html) - 11:23 22/08/2025
+- 🐲 [Điểm chuẩn Đại học Y dược Cần Thơ từ 17 đến gần 24](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-can-tho-2025-moi-nhat-4930395.html) - 11:17 22/08/2025
+- 🤓 [Điểm chuẩn Đại học Giáo dục gần tuyệt đối](https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-ued-2025-chinh-xac-nhat-4930396.html) - 11:14 22/08/2025
+- 💪 [Điểm chuẩn Đại học Công nghệ TP HCM từ 15-19](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-hutech-nam-2025-moi-nhat-4930164.html) - 11:12 22/08/2025
+- 🎓 [Điểm chuẩn Học viện Kỹ thuật mật mã cao nhất 24,42](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-kma-2025-moi-nhat-4930388.html) - 11:10 22/08/2025
+- 🫣 [Điểm chuẩn Đại học Thăng Long cao nhất 23,75](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-2025-chinh-xac-nhat-4929036.html) - 11:07 22/08/2025
+- 🧑‍💻 [Điểm chuẩn Học viện Y Dược học cổ truyền Việt Nam cao nhất 24,25](https://vnexpress.net/diem-chuan-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-vutm-2025-chinh-xac-nhat-4929883.html) - 11:05 22/08/2025
+- 🐲 [Tùng Dương: &#39;Âm nhạc là con đường lan tỏa tinh thần dân tộc&#39;](https://vnexpress.net/tung-duong-am-nhac-la-con-duong-lan-toa-tinh-than-dan-toc-4930328.html) - 11:00 22/08/2025
+- 🌝 [Điểm chuẩn Đại học Kiến trúc Hà Nội cao nhất 24,15](https://vnexpress.net/diem-chuan-dai-hoc-kien-truc-ha-noi-2025-chinh-xac-nhat-4929877.html) - 10:56 22/08/2025
+- 😺 [Điểm chuẩn Đại học Kinh tế TP HCM thấp nhất 22,8](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-ueh-nam-2025-chi-tiet-nhat-4929148.html) - 10:56 22/08/2025
+- 🐎 [Quân đội Trung Quốc sẽ đến Việt Nam tham gia diễu binh vào cuối tháng 8](https://vnexpress.net/quan-doi-trung-quoc-se-den-viet-nam-tham-gia-dieu-binh-vao-cuoi-thang-8-4930380.html) - 10:49 22/08/2025
+- 🎡 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 85,41/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-nam-2025-chi-tiet-nhat-4929202.html) - 10:47 22/08/2025
 - 👨‍🏫 [Điểm chuẩn Đại học Kinh tế - Luật từ 23,5 đến 28,08](https://vnexpress.net/chi-tiet-diem-chuan-dai-hoc-kinh-te-luat-nam-2025-4928888.html) - 10:41 22/08/2025
-- 🎊 [Công an xác định không dấu hiệu án mạng trong vụ hai thi thể dưới mương](https://vnexpress.net/cong-an-xac-dinh-khong-dau-hieu-an-mang-trong-vu-hai-thi-the-duoi-muong-4930351.html) - 10:39 22/08/2025
-- 🎊 [Điểm chuẩn 13 khoa, trường thuộc Đại học Huế](https://vnexpress.net/diem-chuan-dai-hoc-hue-hu-2025-chinh-xac-nhat-4929119.html) - 10:34 22/08/2025
-- 😺 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-ftu-2025-chinh-xac-nhat-4928864.html) - 10:30 22/08/2025
-- 🐘 [Điểm chuẩn Đại học Công nghệ Thông tin cao nhất 29,6](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-thong-tin-2025-chinh-xac-nhat-4930114.html) - 10:30 22/08/2025
-- 🌁 [Điểm chuẩn nhiều ngành Đại học Luật TP HCM giảm 1-4 điểm](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-nam-2025-chi-tiet-4930229.html) - 10:26 22/08/2025
-- 🐲 [Tưới xăng đốt &#39;tình địch&#39; vì ghen](https://vnexpress.net/tuoi-xang-dot-tinh-dich-vi-ghen-4930343.html) - 10:24 22/08/2025
-- 🤓 [Điểm tin 17h: Điểm chuẩn đại học lên mức 30 | Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/diem-tin-17h-diem-chuan-dai-hoc-len-muc-30-metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930375.html) - 10:23 22/08/2025
-- 💪 [Sập cầu tại Trung Quốc, 10 người thiệt mạng](https://vnexpress.net/sap-cau-tai-trung-quoc-10-nguoi-thiet-mang-4930361.html) - 10:17 22/08/2025
-- 🎓 [Em định nghỉ học, đi làm trả nợ vì dính vào cờ bạc từ năm lớp 11](https://vnexpress.net/em-dinh-nghi-hoc-di-lam-tra-no-vi-dinh-vao-co-bac-tu-nam-lop-11-4929970.html) - 10:17 22/08/2025
-- 🫣 [Điểm chuẩn Đại học Thủy lợi từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tlu-2025-chinh-xac-nhat-4929200.html) - 10:16 22/08/2025
-- 🧑‍💻 [Điểm chuẩn Đại học Xây dựng Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-xay-dung-ha-noi-huce-2025-chi-tiet-nhat-4929243.html) - 10:15 22/08/2025
-- 🐲 [Điểm chuẩn Đại học Sài Gòn cao nhất gần 29 điểm](https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-sgu-2025-moi-nhat-4930252.html) - 10:15 22/08/2025
-- 🌝 [Liên Hợp Quốc tuyên bố nạn đói đang diễn ra ở Gaza](https://vnexpress.net/lien-hop-quoc-tuyen-bo-nan-doi-dang-dien-ra-o-gaza-4930338.html) - 10:11 22/08/2025
-- 😺 [Hai cựu Phó chủ tịch tỉnh Thanh Hóa bị khai trừ Đảng](https://vnexpress.net/hai-cuu-pho-chu-tich-tinh-thanh-hoa-bi-khai-tru-dang-4930362.html) - 10:10 22/08/2025
-- 🐎 [Điểm chuẩn 12 trường, khoa của Đại học Thái Nguyên](https://vnexpress.net/diem-chuan-dai-hoc-thai-nguyen-2025-moi-nhat-4930234.html) - 10:08 22/08/2025
-- 🎡 [Có nên rửa thịt cá trước khi nấu?](https://vnexpress.net/co-nen-rua-thit-ca-truoc-khi-nau-4930369.html) - 10:05 22/08/2025
-- 👨‍🏫 [Điểm chuẩn Đại học Dược Hà Nội từ 20 đến 24,5](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-hup-2025-chinh-xac-nhat-4929161.html) - 10:04 22/08/2025
-- 🦆 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-neu-2025-moi-nhat-4928820.html) - 10:00 22/08/2025
-- 🚦 [Điểm tin 17h: Điểm chuẩn đại học lên mức 30 | Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/diem-tin-17h-diem-chuan-dai-hoc-len-muc-30-metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930368.html) - 10:00 22/08/2025
-- 💫 [Vivo trình làng kính thông minh giống Apple Vision Pro](https://vnexpress.net/vivo-trinh-lang-kinh-thong-minh-giong-apple-vision-pro-4929975.html) - 10:00 22/08/2025
-- 🎉 [Hút thuốc lá có nguy cơ suy thận không?](https://vnexpress.net/hut-thuoc-la-co-nguy-co-suy-than-khong-4930372.html) - 10:00 22/08/2025
-- 🌋 [Phụ huynh xếp hàng, hồi hộp chờ race-kit Kun Marathon Nha Trang](https://vnexpress.net/phu-huynh-xep-hang-hoi-hop-cho-race-kit-kun-marathon-nha-trang-4930342.html) - 10:00 22/08/2025
-- 🤖 [Những thực phẩm người bệnh gan nhiễm mỡ nên hạn chế](https://vnexpress.net/nhung-thuc-pham-nguoi-benh-gan-nhiem-mo-nen-han-che-4930282.html) - 10:00 22/08/2025
-- 🦏 [6 món ăn có thể kiểm soát đường huyết](https://vnexpress.net/6-mon-an-co-the-kiem-soat-duong-huyet-4930265.html) - 10:00 22/08/2025
-- 🦩 [Khởi công khu nhà phố The Glamour giữa trung tâm công nghiệp TP HCM](https://vnexpress.net/khoi-cong-khu-nha-pho-the-glamour-giua-trung-tam-cong-nghiep-tp-hcm-4923554.html) - 10:00 22/08/2025
-- 👺 [TP HCM bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-bo-nhiem-nhieu-lanh-dao-don-vi-4930363.html) - 09:59 22/08/2025
-- 🧑‍🏫 [Điểm chuẩn Đại học Hà Nội cao nhất 34,35/40](https://vnexpress.net/diem-chuan-dai-hoc-ha-noi-hanu-2025-moi-nhat-4928796.html) - 09:56 22/08/2025
-- 😎 [Học viện Kỹ thuật quân sự công bố điểm chuẩn thấp nhất 26,4](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-mta-2025-moi-nhat-4930148.html) - 09:54 22/08/2025
-- 🪄 [Điểm chuẩn Đại học Y Dược TP HCM cao nhất 27,3](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-cao-nhat-27-3-4930323.html) - 09:50 22/08/2025
-- 🏊 [Điểm chuẩn Đại học Y khoa Phạm Ngọc Thạch giảm mạnh](https://vnexpress.net/diem-chuan-dai-hoc-y-khoa-pham-ngoc-thach-nam-2025-chi-tiet-nhat-4928863.html) - 09:37 22/08/2025
-- 💃 [Điểm chuẩn 20 trường quân đội cao nhất 30](https://vnexpress.net/diem-chuan-20-truong-quan-doi-nam-2025-chinh-xac-nhat-4929695.html) - 09:33 22/08/2025
-- 🦆 [Điểm chuẩn Đại học Kinh tế - Tài chính TP HCM từ 15](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-nam-2025-chi-tiet-4930172.html) - 09:24 22/08/2025
-- 🎊 [Điểm chuẩn trường Đại học Y Dược từ 19 đến 27,43](https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-2025-chi-tiet-nhat-4930203.html) - 09:22 22/08/2025
-- 👺 [Học viện Ngân hàng công bố điểm chuẩn từ 21 đến 26,97](https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-2025-chi-tiet-nhat-4928944.html) - 09:21 22/08/2025
-- 🎡 [Treo thưởng căn nhà để tìm con trai bị bắt cóc](https://vnexpress.net/treo-thuong-can-nha-de-tim-con-trai-bi-bat-coc-4930306.html) - 09:19 22/08/2025
-- 👍 [50 công an đột kích sới bạc trên đồi keo](https://vnexpress.net/50-cong-an-dot-kich-soi-bac-tren-doi-keo-4930264.html) - 09:15 22/08/2025
-- 🐎 [Điểm chuẩn Đại học Bách khoa Hà Nội cao nhất 29,39](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-hust-2025-chinh-xac-nhat-4928933.html) - 09:14 22/08/2025
-- 🏊 [Đề xuất phạt lao động công ích với người vi phạm giao thông](https://vnexpress.net/de-xuat-phat-lao-dong-cong-ich-voi-nguoi-vi-pham-giao-thong-4930326.html) - 09:14 22/08/2025
-- 🦩 [Điểm chuẩn 12 trường thuộc Đại học Quốc gia Hà Nội](https://vnexpress.net/diem-chuan-dai-hoc-quoc-gia-ha-noi-vnu-2025-chi-tiet-nhat-4929187.html) - 09:13 22/08/2025
-- 👍 [Apple để lộ ngày ra mắt iPhone 17](https://vnexpress.net/apple-de-lo-ngay-ra-mat-iphone-17-4930329.html) - 09:11 22/08/2025
-- 🔥 [Ukraine tấn công trạm bơm dầu Nga, đường ống Druzhba tê liệt](https://vnexpress.net/ukraine-tan-cong-tram-bom-dau-nga-duong-ong-druzhba-te-liet-4930263.html) - 09:00 22/08/2025
-- 💄 [&#39;Nhà hát Đó tạo nét mới lạ cho đường đua VM Libera Nha Trang&#39;](https://vnexpress.net/nha-hat-do-tao-net-moi-la-cho-duong-dua-vm-libera-nha-trang-4930317.html) - 09:00 22/08/2025
-- 🤡 [NCB tiếp vốn cho doanh nghiệp lớn ngành du lịch, giải trí, chứng khoán](https://vnexpress.net/ncb-tiep-von-cho-doanh-nghiep-lon-nganh-du-lich-giai-tri-chung-khoan-4930316.html) - 09:00 22/08/2025
-- ⛽️ [Tiêm vaccine sốt xuất huyết có giúp phòng sốt rét ác tính?](https://vnexpress.net/tiem-vaccine-sot-xuat-huyet-co-giup-phong-sot-ret-ac-tinh-4930285.html) - 09:00 22/08/2025
-- 🚀 [Điểm chuẩn Đại học Khoa học Tự nhiên Hà Nội từ 20,05 đến 26](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-hus-2025-moi-nhat-4929205.html) - 08:58 22/08/2025
-- 🌜 [Mỹ sẽ rà soát 55 triệu visa đã cấp cho người nước ngoài](https://vnexpress.net/my-se-ra-soat-55-trieu-visa-da-cap-cho-nguoi-nuoc-ngoai-4930260.html) - 08:47 22/08/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🦆 [Công an xác định không dấu hiệu án mạng trong vụ hai thi thể dưới mương](https://vnexpress.net/cong-an-xac-dinh-khong-dau-hieu-an-mang-trong-vu-hai-thi-the-duoi-muong-4930351.html) - 10:39 22/08/2025
+- 🚦 [Điểm chuẩn 13 khoa, trường thuộc Đại học Huế](https://vnexpress.net/diem-chuan-dai-hoc-hue-hu-2025-chinh-xac-nhat-4929119.html) - 10:34 22/08/2025
+- 💫 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-ftu-2025-chinh-xac-nhat-4928864.html) - 10:30 22/08/2025
+- 🎉 [Điểm chuẩn Đại học Công nghệ Thông tin cao nhất 29,6](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-thong-tin-2025-chinh-xac-nhat-4930114.html) - 10:30 22/08/2025
+- 🌋 [Điểm chuẩn nhiều ngành Đại học Luật TP HCM giảm 1-4 điểm](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-nam-2025-chi-tiet-4930229.html) - 10:26 22/08/2025
+- 🤖 [Tưới xăng đốt &#39;tình địch&#39; vì ghen](https://vnexpress.net/tuoi-xang-dot-tinh-dich-vi-ghen-4930343.html) - 10:24 22/08/2025
+- 🦏 [Điểm tin 17h: Điểm chuẩn đại học lên mức 30 | Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/diem-tin-17h-diem-chuan-dai-hoc-len-muc-30-metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930375.html) - 10:23 22/08/2025
+- 🦩 [Sập cầu tại Trung Quốc, 10 người thiệt mạng](https://vnexpress.net/sap-cau-tai-trung-quoc-10-nguoi-thiet-mang-4930361.html) - 10:17 22/08/2025
+- 👺 [Em định nghỉ học, đi làm trả nợ vì dính vào cờ bạc từ năm lớp 11](https://vnexpress.net/em-dinh-nghi-hoc-di-lam-tra-no-vi-dinh-vao-co-bac-tu-nam-lop-11-4929970.html) - 10:17 22/08/2025
+- 🧑‍🏫 [Điểm chuẩn Đại học Thủy lợi từ 17 đến 25,5](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tlu-2025-chinh-xac-nhat-4929200.html) - 10:16 22/08/2025
+- 😎 [Điểm chuẩn Đại học Xây dựng Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-xay-dung-ha-noi-huce-2025-chi-tiet-nhat-4929243.html) - 10:15 22/08/2025
+- 🪄 [Điểm chuẩn Đại học Sài Gòn cao nhất gần 29 điểm](https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-sgu-2025-moi-nhat-4930252.html) - 10:15 22/08/2025
+- 🏊 [Liên Hợp Quốc tuyên bố nạn đói đang diễn ra ở Gaza](https://vnexpress.net/lien-hop-quoc-tuyen-bo-nan-doi-dang-dien-ra-o-gaza-4930338.html) - 10:11 22/08/2025
+- 💃 [Hai cựu Phó chủ tịch tỉnh Thanh Hóa bị khai trừ Đảng](https://vnexpress.net/hai-cuu-pho-chu-tich-tinh-thanh-hoa-bi-khai-tru-dang-4930362.html) - 10:10 22/08/2025
+- 🦆 [Điểm chuẩn 12 trường, khoa của Đại học Thái Nguyên](https://vnexpress.net/diem-chuan-dai-hoc-thai-nguyen-2025-moi-nhat-4930234.html) - 10:08 22/08/2025
+- 🎊 [Có nên rửa thịt cá trước khi nấu?](https://vnexpress.net/co-nen-rua-thit-ca-truoc-khi-nau-4930369.html) - 10:05 22/08/2025
+- 👺 [Điểm chuẩn Đại học Dược Hà Nội từ 20 đến 24,5](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-hup-2025-chinh-xac-nhat-4929161.html) - 10:04 22/08/2025
+- 🎡 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-neu-2025-moi-nhat-4928820.html) - 10:00 22/08/2025
+- 👍 [Điểm tin 17h: Điểm chuẩn đại học lên mức 30 | Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/diem-tin-17h-diem-chuan-dai-hoc-len-muc-30-metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930368.html) - 10:00 22/08/2025
+- 🐎 [Vivo trình làng kính thông minh giống Apple Vision Pro](https://vnexpress.net/vivo-trinh-lang-kinh-thong-minh-giong-apple-vision-pro-4929975.html) - 10:00 22/08/2025
+- 🏊 [Hút thuốc lá có nguy cơ suy thận không?](https://vnexpress.net/hut-thuoc-la-co-nguy-co-suy-than-khong-4930372.html) - 10:00 22/08/2025
+- 🦩 [Phụ huynh xếp hàng, hồi hộp chờ race-kit Kun Marathon Nha Trang](https://vnexpress.net/phu-huynh-xep-hang-hoi-hop-cho-race-kit-kun-marathon-nha-trang-4930342.html) - 10:00 22/08/2025
+- 👍 [Những thực phẩm người bệnh gan nhiễm mỡ nên hạn chế](https://vnexpress.net/nhung-thuc-pham-nguoi-benh-gan-nhiem-mo-nen-han-che-4930282.html) - 10:00 22/08/2025
+- 🔥 [6 món ăn có thể kiểm soát đường huyết](https://vnexpress.net/6-mon-an-co-the-kiem-soat-duong-huyet-4930265.html) - 10:00 22/08/2025
+- 💄 [Khởi công khu nhà phố The Glamour giữa trung tâm công nghiệp TP HCM](https://vnexpress.net/khoi-cong-khu-nha-pho-the-glamour-giua-trung-tam-cong-nghiep-tp-hcm-4923554.html) - 10:00 22/08/2025
+- 🤡 [TP HCM bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-bo-nhiem-nhieu-lanh-dao-don-vi-4930363.html) - 09:59 22/08/2025
+- ⛽️ [Điểm chuẩn Đại học Hà Nội cao nhất 34,35/40](https://vnexpress.net/diem-chuan-dai-hoc-ha-noi-hanu-2025-moi-nhat-4928796.html) - 09:56 22/08/2025
+- 🚀 [Học viện Kỹ thuật quân sự công bố điểm chuẩn thấp nhất 26,4](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-mta-2025-moi-nhat-4930148.html) - 09:54 22/08/2025
+- 🌜 [Điểm chuẩn Đại học Y Dược TP HCM cao nhất 27,3](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-cao-nhat-27-3-4930323.html) - 09:50 22/08/2025
+- 🌜 [Điểm chuẩn Đại học Y khoa Phạm Ngọc Thạch giảm mạnh](https://vnexpress.net/diem-chuan-dai-hoc-y-khoa-pham-ngoc-thach-nam-2025-chi-tiet-nhat-4928863.html) - 09:37 22/08/2025
+- 🦩 [Điểm chuẩn 20 trường quân đội cao nhất 30](https://vnexpress.net/diem-chuan-20-truong-quan-doi-nam-2025-chinh-xac-nhat-4929695.html) - 09:33 22/08/2025<!-- vnexpress-tin-moi-nhat:END -->
