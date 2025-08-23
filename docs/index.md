@@ -451,8 +451,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦍 [Kết luận số 185-KL/TW: Tăng cường lãnh đạo, chỉ đạo công tác tổ chức đại hội đảng bộ các cấp](https://baochinhphu.vn/ket-luan-so-185-kl-tw-tang-cuong-lanh-dao-chi-dao-cong-tac-to-chuc-dai-hoi-dang-bo-cac-cap-102250822213602784.htm) - 21:37 22/08/2025
 - 🧐 [Năm thứ 18: Chương trình &#39;Trái tim cho em&#39; đổi mới để giúp được nhiều trẻ em nghèo hơn nữa](https://baochinhphu.vn/nam-thu-18-chuong-trinh-trai-tim-cho-em-doi-moi-de-giup-duoc-nhieu-tre-em-ngheo-hon-nua-102250822190807966.htm) - 21:36 22/08/2025
 - 🕴 [Chủ tịch nước Lương Cường tiếp Trưởng Ban Thanh niên Đảng Dân chủ tự do Nhật Bản](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-tiep-truong-ban-thanh-nien-dang-dan-chu-tu-do-nhat-ban-102250822195728792.htm) - 21:31 22/08/2025
-- 🌈 [Chủ động ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão](https://baochinhphu.vn/chu-dong-ung-pho-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-102250822212714837.htm) - 21:27 22/08/2025
-- 🔥 [Việt Nam, Nga tiếp tục thúc đẩy mạnh mẽ hợp tác kinh tế, thương mại, giáo dục, nhân văn](https://baochinhphu.vn/viet-nam-nga-tiep-tuc-thuc-day-manh-me-hop-tac-kinh-te-thuong-mai-giao-duc-nhan-van-102250822195204499.htm) - 21:00 22/08/2025<!-- baochinhphu:END -->
+- 🌈 [Công điện của Thủ tướng Chính phủ về chủ động ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão](https://baochinhphu.vn/cong-dien-cua-thu-tuong-chinh-phu-ve-chu-dong-ung-pho-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-102250823202126264.htm) - 21:27 22/08/2025
+- 🔥 [Chủ động ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão](https://baochinhphu.vn/chu-dong-ung-pho-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-102250822212714837.htm) - 21:27 22/08/2025<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
