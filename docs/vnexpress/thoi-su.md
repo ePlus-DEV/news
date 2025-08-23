@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều hồ xả nước trước bão Kajiki](https://vnexpress.net/nhieu-ho-xa-nuoc-truoc-bao-kajiki-4930657.html) - 10:27 23/08/2025
+- 🦒 [Hồ thủy điện, thủy lợi xả nước trước bão Kajiki](https://vnexpress.net/ho-thuy-dien-thuy-loi-xa-nuoc-truoc-bao-kajiki-4930657.html) - 10:27 23/08/2025
 - 🤓 [Công an Hà Nội điều chỉnh phương án cấm đường ngày 24/8](https://vnexpress.net/cong-an-ha-noi-dieu-chinh-phuong-an-cam-duong-ngay-24-8-4930650.html) - 09:13 23/08/2025
 - ⚗️ [Hơn 650 CSGT được điều về Hà Nội phục vụ đại lễ A80](https://vnexpress.net/hon-650-csgt-duoc-dieu-ve-ha-noi-phuc-vu-dai-le-a80-4930610.html) - 08:41 23/08/2025
 - 🌊 [Tổng Bí thư: Việt Nam cần xây dựng các &#39;thung lũng văn hóa&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-can-xay-dung-cac-thung-lung-van-hoa-4930637.html) - 08:27 23/08/2025
