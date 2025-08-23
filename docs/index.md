@@ -523,13 +523,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Trực tiếp bóng chuyền nữ vô địch thế giới 23-8: Việt Nam - Ba Lan](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-vo-dich-the-gioi-23-8-viet-nam-ba-lan-101250823165717705.htm) - 11:12 23/08/2025
-- 🥷 [Trực tiếp vòng 2 V-League: 5 cặp đấu trong ngày 23-8](https://muctim.tuoitre.vn/truc-tiep-vong-2-v-league-5-cap-dau-trong-ngay-23-8-101250823172830032.htm) - 10:59 23/08/2025
+- 🥷 [Trực tiếp vòng 2 V-League: Sông Lam Nghệ An gỡ hòa](https://muctim.tuoitre.vn/truc-tiep-vong-2-v-league-5-cap-dau-trong-ngay-23-8-101250823172830032.htm) - 10:59 23/08/2025
 - 🤖 [Lịch trực tiếp bóng đá Giải ngoại hạng Anh, La Liga, Bundesliga](https://muctim.tuoitre.vn/lich-truc-tiep-bong-da-giai-ngoai-hang-anh-la-liga-bundesliga-101250823161011671.htm) - 10:04 23/08/2025
-- 🤓 [Trực tiếp Giải bóng chuyền nữ vô địch thế giới: Nhật Bản dẫn Cameroon 2-0](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-nhat-ban-gap-cameroon-101250823131410452.htm) - 09:33 23/08/2025
+- 🤓 [Trực tiếp Giải bóng chuyền nữ vô địch thế giới: Nhật Bản vượt qua Cameroon 3-0](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-nhat-ban-gap-cameroon-101250823131410452.htm) - 09:33 23/08/2025
 - 🎉 [Trực tiếp Giải bóng chuyền nữ vô địch thế giới 23-8: Canada hạ Bulgaria 3-1](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-23-8-canada-doi-dau-bulgaria-101250823155750598.htm) - 09:19 23/08/2025
 - 👨‍🏫 [Kết quả bóng chuyền nữ vô địch thế giới ngày 22-8: CH Czech - Argentina](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-vo-dich-the-gioi-ngay-22-8-ch-czech-argentina-101250823142643236.htm) - 08:42 23/08/2025
-- 🚦 [Trực tiếp bóng chuyền nữ: CH Dominica đánh bại Colombia 3-0](https://muctim.tuoitre.vn/16h-hom-nay-23-8-ch-dominca-gap-colombia-tai-giai-bong-chuyen-nu-vo-dich-the-gioi-101250823153018274.htm) - 08:41 23/08/2025
-- 🤭 [Trực tiếp bóng chuyền nữ vô địch thế giới 23-8: Đức - Kenya](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-vo-dich-the-gioi-23-8-duc-kenya-101250823153155649.htm) - 08:37 23/08/2025
+- 🚦 [CH Dominica đánh bại Colombia 3-0 tại Giải bóng chuyền nữ vô địch thế giới 2025](https://muctim.tuoitre.vn/16h-hom-nay-23-8-ch-dominca-gap-colombia-tai-giai-bong-chuyen-nu-vo-dich-the-gioi-101250823153018274.htm) - 08:41 23/08/2025
+- 🤭 [Bóng chuyền nữ vô địch thế giới 23-8: Đức thắng Kenya 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-vo-dich-the-gioi-23-8-duc-kenya-101250823153155649.htm) - 08:37 23/08/2025
 - 😺 [4 điều tân sinh viên 2k7 đừng bỏ lỡ](https://muctim.tuoitre.vn/4-dieu-tan-sinh-vien-2k7-dung-bo-lo-101250818113354106.htm) - 08:31 23/08/2025
 - 😎 [Rộn ràng năm học mới ở các trường qua ghi nhận của các phóng viên nhí](https://muctim.tuoitre.vn/ron-rang-nam-hoc-moi-o-cac-truong-qua-ghi-nhan-cua-cac-phong-vien-nhi-101250820144404358.htm) - 07:55 23/08/2025
 - 🐎 [Lịch trực tiếp bóng đá ngày 23-8: Man City - Tottenham](https://muctim.tuoitre.vn/lich-truc-tiep-bong-da-ngay-23-8-man-city-tottenham-101250823122518257.htm) - 07:53 23/08/2025
