@@ -6,11 +6,11 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Dàn sao gen Z dự chung kết &#39;Em xinh say hi&#39;](https://vnexpress.net/dan-sao-gen-z-du-chung-ket-em-xinh-say-hi-4930736.html) - 14:43 23/08/2025
 - 💫 [Hoa hậu Đỗ Mỹ Linh hỗ trợ chồng kinh doanh](https://vnexpress.net/hoa-hau-do-my-linh-ho-tro-chong-kinh-doanh-4930632.html) - 13:35 23/08/2025
-- 🌮 [Khánh Huyền gây chú ý với vai đại gia](https://vnexpress.net/khanh-huyen-gay-chu-y-voi-vai-dai-gia-4930580.html) - 11:37 23/08/2025
-- 🧠 [Kim Thư xúc động ngày con trai tốt nghiệp](https://vnexpress.net/kim-thu-xuc-dong-ngay-con-trai-tot-nghiep-4930633.html) - 09:30 23/08/2025
-- 👨‍🏫 [Cuộc sống làm mẹ đơn thân của Hiền Thục](https://vnexpress.net/cuoc-song-lam-me-don-than-cua-hien-thuc-4929723.html) - 08:30 23/08/2025
-- ⚗️ [&#39;Demon Slayer&#39; - hoạt hình Nhật gây sốt toàn cầu](https://vnexpress.net/demon-slayer-hoat-hinh-nhat-gay-sot-toan-cau-4930548.html) - 06:27 23/08/2025
-- 😎 [DPR IAN &#39;phiêu&#39; cùng guitar bass, nhận nón lá từ fan](https://vnexpress.net/dpr-ian-phieu-cung-guitar-bass-nhan-non-la-tu-fan-4930660.html) - 06:00 23/08/2025
+- 🌮 [Laroi hát ca khúc tỷ view &#39;Stay&#39; cùng 50.000 khán giả Việt](https://vnexpress.net/laroi-hat-ca-khuc-ty-view-stay-cung-50-000-khan-gia-viet-4930660.html) - 13:00 23/08/2025
+- 🧠 [Khánh Huyền gây chú ý với vai đại gia](https://vnexpress.net/khanh-huyen-gay-chu-y-voi-vai-dai-gia-4930580.html) - 11:37 23/08/2025
+- 👨‍🏫 [Kim Thư xúc động ngày con trai tốt nghiệp](https://vnexpress.net/kim-thu-xuc-dong-ngay-con-trai-tot-nghiep-4930633.html) - 09:30 23/08/2025
+- ⚗️ [Cuộc sống làm mẹ đơn thân của Hiền Thục](https://vnexpress.net/cuoc-song-lam-me-don-than-cua-hien-thuc-4929723.html) - 08:30 23/08/2025
+- 😎 [&#39;Demon Slayer&#39; - hoạt hình Nhật gây sốt toàn cầu](https://vnexpress.net/demon-slayer-hoat-hinh-nhat-gay-sot-toan-cau-4930548.html) - 06:27 23/08/2025
 - 🫣 [Miss Cosmo 2024 trình diễn &#39;Girl on Fire&#39;](https://vnexpress.net/miss-cosmo-2024-trinh-dien-girl-on-fire-4930550.html) - 04:59 23/08/2025
 - 🪄 [Đời bình lặng của &#39;Tiểu Lý phi đao&#39; Tiêu Ân Tuấn](https://vnexpress.net/doi-binh-lang-cua-tieu-ly-phi-dao-tieu-an-tuan-4930537.html) - 04:37 23/08/2025
 - 🤓 [6 bộ trang phục của Hoàng hậu Bhutan khi ở Việt Nam](https://vnexpress.net/6-bo-trang-phuc-cua-hoang-hau-bhutan-khi-o-viet-nam-4930532.html) - 03:09 23/08/2025
