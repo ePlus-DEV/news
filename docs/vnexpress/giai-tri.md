@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [&#39;Mưa đỏ&#39; - bản tráng ca lấy nước mắt khán giả](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mua-do-830) - 17:00 23/08/2025
 - 💫 [Dàn sao gen Z dự chung kết &#39;Em xinh say hi&#39;](https://vnexpress.net/dan-sao-gen-z-du-chung-ket-em-xinh-say-hi-4930736.html) - 14:43 23/08/2025
 - 🌮 [Hoa hậu Đỗ Mỹ Linh hỗ trợ chồng kinh doanh](https://vnexpress.net/hoa-hau-do-my-linh-ho-tro-chong-kinh-doanh-4930632.html) - 13:35 23/08/2025
-- 🧠 [Laroi hát ca khúc tỷ view &#39;Stay&#39; cùng 50.000 khán giả Việt](https://vnexpress.net/laroi-hat-ca-khuc-ty-view-stay-cung-50-000-khan-gia-viet-4930660.html) - 13:00 23/08/2025
+- 🧠 [Laroi hát ca khúc tỷ view &#39;Stay&#39; cùng 50.000 khán giả Việt](https://vnexpress.net/laroi-hat-ca-khuc-ty-view-stay-cung-50-000-khan-gia-viet-4930660-tong-thuat.html) - 13:00 23/08/2025
 - 👨‍🏫 [Khánh Huyền gây chú ý với vai đại gia](https://vnexpress.net/khanh-huyen-gay-chu-y-voi-vai-dai-gia-4930580.html) - 11:37 23/08/2025
 - ⚗️ [Kim Thư xúc động ngày con trai tốt nghiệp](https://vnexpress.net/kim-thu-xuc-dong-ngay-con-trai-tot-nghiep-4930633.html) - 09:30 23/08/2025
 - 😎 [Cuộc sống làm mẹ đơn thân của Hiền Thục](https://vnexpress.net/cuoc-song-lam-me-don-than-cua-hien-thuc-4929723.html) - 08:30 23/08/2025
