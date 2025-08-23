@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [&#39;Bão Kajiki nhiều khả năng gây tổng hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-tong-hop-thien-tai-4930765.html) - 19:13 23/08/2025
-- 🐎 [VnExpress Marathon Libera Nha Trang 2025 bắt đầu](https://vnexpress.net/truc-tiep-vnexpress-marathon-nha-trang-2025-4930666.html) - 19:00 23/08/2025
+- 🐎 [Nguyễn Văn Lai đấu Lê Văn Tuấn tại VnExpress Marathon Libera Nha Trang 2025](https://vnexpress.net/truc-tiep-vnexpress-marathon-nha-trang-2025-4930666.html) - 19:00 23/08/2025
 - 🦍 [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
 - 🏊 [Phương Mỹ Chi là quán quân &#39;Em xinh say hi&#39;](https://vnexpress.net/phuong-my-chi-la-quan-quan-em-xinh-say-hi-4930748.html) - 18:03 23/08/2025
 - 🎊 [Giải mã hiện tượng đau tinh hoàn sau &#39;cuộc yêu&#39;](https://vnexpress.net/giai-ma-hien-tuong-dau-tinh-hoan-sau-cuoc-yeu-4930480.html) - 18:00 23/08/2025
