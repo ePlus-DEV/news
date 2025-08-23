@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html) - 14:55 23/08/2025
 - 🤓 [Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi](https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html) - 11:29 23/08/2025
-- ⚗️ [Bão Kajiki tăng cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
+- ⚗️ [Bão Kajiki tăng ba cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-ba-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
 - 🌊 [Tìm thấy thi thể người phụ nữ mất tích khi lên núi bắt ốc](https://vnexpress.net/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-len-nui-bat-oc-4930673.html) - 10:51 23/08/2025
 - 🎓 [Hồ thủy điện, thủy lợi xả nước trước bão Kajiki](https://vnexpress.net/ho-thuy-dien-thuy-loi-xa-nuoc-truoc-bao-kajiki-4930657.html) - 10:27 23/08/2025
 - 🔥 [Công an Hà Nội điều chỉnh phương án cấm đường ngày 24/8](https://vnexpress.net/cong-an-ha-noi-dieu-chinh-phuong-an-cam-duong-ngay-24-8-4930650.html) - 09:13 23/08/2025
