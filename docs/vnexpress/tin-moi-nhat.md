@@ -38,7 +38,7 @@ sidebar_position: 9
 - 🎉 [Vedan Việt Nam giới thiệu sản phẩm đông lạnh tại &#39;Vietfish&#39;](https://vnexpress.net/vedan-viet-nam-gioi-thieu-san-pham-dong-lanh-tai-vietfish-4930656.html) - 12:00 23/08/2025
 - 🌋 [Khánh Huyền gây chú ý với vai đại gia](https://vnexpress.net/khanh-huyen-gay-chu-y-voi-vai-dai-gia-4930580.html) - 11:37 23/08/2025
 - 🤖 [Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi](https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html) - 11:29 23/08/2025
-- 🦏 [Bão Kajiki tăng cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
+- 🦏 [Bão Kajiki tăng ba cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-ba-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
 - 🦩 [Ông Trump: &#39;Tôi là fan của TikTok&#39;](https://vnexpress.net/ong-trump-toi-la-fan-cua-tiktok-4930639.html) - 11:10 23/08/2025
 - 👺 [Sát hại thành viên tổ an ninh cơ sở vì bị mời lên đồn làm việc](https://vnexpress.net/sat-hai-thanh-vien-to-an-ninh-co-so-vi-bi-moi-len-don-lam-viec-4930689.html) - 11:07 23/08/2025
 - 🧑‍🏫 [Nữ nhân viên kể phút cứu thanh niên tông barie, ngã trên đường ray](https://vnexpress.net/nu-nhan-vien-ke-phut-cuu-thanh-nien-tong-barie-nga-tren-duong-ray-4930699.html) - 11:05 23/08/2025
