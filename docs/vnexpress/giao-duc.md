@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Một nửa sinh viên ở Kinh tế Quốc dân tốt nghiệp loại xuất sắc](https://vnexpress.net/mot-nua-sinh-vien-o-kinh-te-quoc-dan-tot-nghiep-loai-xuat-sac-4930600.html) - 06:49 23/08/2025
+- 🤓 [Một nửa số sinh viên ở Kinh tế Quốc dân tốt nghiệp loại xuất sắc](https://vnexpress.net/mot-nua-so-sinh-vien-o-kinh-te-quoc-dan-tot-nghiep-loai-xuat-sac-4930600.html) - 06:49 23/08/2025
 - 🦆 [Điểm chuẩn 15 trường Y từ 17 đến 30](https://vnexpress.net/diem-chuan-tat-ca-truong-y-duoc-ca-nuoc-2025-chi-tiet-nhat-4930424.html) - 06:26 23/08/2025
 - 🦩 [Học viện Báo chí và Tuyên truyền công bố điểm chuẩn](https://vnexpress.net/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-ajc-2025-moi-nhat-4929607.html) - 05:13 23/08/2025
 - 🌮 [Điểm chuẩn Đại học Sư phạm Hà Nội cao nhất 29,06](https://vnexpress.net/diem-chuan-dai-hoc-su-pham-ha-noi-hnue-2025-chi-tiet-chinh-xac-nhat-4929145.html) - 04:06 23/08/2025
