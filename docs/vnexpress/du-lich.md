@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách nội địa đổ về Hà Nội dịp 2/9](https://vnexpress.net/du-khach-noi-dia-do-ve-ha-noi-dip-2-9-4930831.html) - 04:00 24/08/2025
+- 💂 [Lượng tìm kiếm du lịch Hà Nội tăng gần 4 lần dịp lễ 2/9](https://vnexpress.net/luong-tim-kiem-du-lich-ha-noi-tang-gan-4-lan-dip-le-2-9-4930831.html) - 04:00 24/08/2025
 - 🪄 [&#39;VnExpress Marathon là cơ hội vàng để Khánh Hòa quảng bá hình ảnh năng động&#39;](https://vnexpress.net/vnexpress-marathon-la-co-hoi-vang-de-khanh-hoa-quang-ba-hinh-anh-nang-dong-4930587.html) - 04:00 24/08/2025
 - 🦅 [Ngôi làng mở toang cửa không lo trộm cắp ở Ấn Độ](https://vnexpress.net/ngoi-lang-mo-toang-cua-khong-lo-trom-cap-o-an-do-4930581.html) - 01:46 24/08/2025
 - 🕴 [Hà Nội bố trí 100 điểm gửi xe cho người dân, du khách xem diễu binh, diễu hành](https://vnexpress.net/ha-noi-bo-tri-100-diem-gui-xe-cho-nguoi-dan-du-khach-xem-dieu-binh-dieu-hanh-4930376.html) - 01:39 24/08/2025
