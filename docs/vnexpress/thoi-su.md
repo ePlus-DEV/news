@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
-- 🤓 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
-- ⚗️ [Bão Kajiki mạnh cấp 14, miền Trung mưa từ tối nay](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
-- 🌊 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
-- 🎓 [Bộ đội đồng ca &#39;Vì nhân dân quên mình&#39;](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930902.html) - 08:30 24/08/2025
-- 🔥 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
-- 🦏 [Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới](https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html) - 07:24 24/08/2025
-- 👺 [Người miền Trung chạy đua trước bão](https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html) - 05:02 24/08/2025
-- 🧑‍🏫 [Lên phương án di dời hơn 586.000 người tránh bão Kajiki](https://vnexpress.net/len-phuong-an-di-doi-hon-586-000-nguoi-tranh-bao-kajiki-4930852.html) - 04:26 24/08/2025
-- 🚦 [31 máy bay lần đầu hợp luyện trên quảng trường Ba Đình](https://vnexpress.net/31-may-bay-lan-dau-hop-luyen-tren-quang-truong-ba-dinh-4930823.html) - 04:06 24/08/2025
-- 🎉 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4930843.html) - 03:39 24/08/2025
-- 🦒 [Bão Kajiki mạnh lên cấp 12, hướng Nghệ An - Hà Tĩnh](https://vnexpress.net/bao-kajiki-manh-len-cap-12-huong-nghe-an-ha-tinh-4930807.html) - 02:08 24/08/2025
-- 🤗 [Cảnh ngổn ngang ở dự án nút giao lớn nhất TP HCM trễ tiến độ](https://vnexpress.net/canh-ngon-ngang-o-du-an-nut-giao-lon-nhat-tp-hcm-tre-tien-do-4930592.html) - 01:55 24/08/2025
-- 💼 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784-tong-thuat.html) - 00:30 24/08/2025
-- 🤩 [&#39;Bão Kajiki nhiều khả năng gây tổ hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-to-hop-thien-tai-4930765.html) - 19:13 23/08/2025
-- 🤡 [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
-- 💯 [Đường phố Thủ đô rợp bóng cờ mừng Quốc khánh 2/9](https://vnexpress.net/duong-pho-thu-do-rop-bong-co-mung-quoc-khanh-2-9-4930755.html) - 17:00 23/08/2025
-- 👺 [Sông Phố - nơi 10.000 người mừng độc lập 80 năm trước](https://vnexpress.net/song-pho-noi-10-000-nguoi-mung-doc-lap-80-nam-truoc-4923486.html) - 17:00 23/08/2025
-- 🌮 [Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html) - 14:55 23/08/2025
-- 🥸 [Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi](https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html) - 11:29 23/08/2025
-- 🐻 [Bão Kajiki tăng ba cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-ba-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
-- 👀 [Tìm thấy thi thể người phụ nữ mất tích khi lên núi bắt ốc](https://vnexpress.net/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-len-nui-bat-oc-4930673.html) - 10:51 23/08/2025
-- 🤔 [Hồ thủy điện, thủy lợi xả nước trước bão Kajiki](https://vnexpress.net/ho-thuy-dien-thuy-loi-xa-nuoc-truoc-bao-kajiki-4930657.html) - 10:27 23/08/2025
-- 🕯 [Công an Hà Nội điều chỉnh phương án cấm đường ngày 24/8](https://vnexpress.net/cong-an-ha-noi-dieu-chinh-phuong-an-cam-duong-ngay-24-8-4930650.html) - 09:13 23/08/2025
-- 😺 [Hơn 650 CSGT được điều về Hà Nội phục vụ đại lễ A80](https://vnexpress.net/hon-650-csgt-duoc-dieu-ve-ha-noi-phuc-vu-dai-le-a80-4930610.html) - 08:41 23/08/2025
-- 🦆 [Tổng Bí thư: Việt Nam cần xây dựng các &#39;thung lũng văn hóa&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-can-xay-dung-cac-thung-lung-van-hoa-4930637.html) - 08:27 23/08/2025
+- 🦒 [Tạm dừng khai thác hai sân bay do ảnh hưởng bão](https://vnexpress.net/tam-dung-khai-thac-hai-san-bay-do-anh-huong-bao-4930956.html) - 13:16 24/08/2025
+- 🤓 [Xe pháo quân sự, xe đặc chủng tổng hợp luyện lần hai](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955.html) - 13:00 24/08/2025
+- ⚗️ [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
+- 🌊 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
+- 🎓 [Bão Kajiki mạnh cấp 14, miền Trung mưa từ tối nay](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
+- 🔥 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
+- 🦏 [Quân nhân, khí tài, pháo lễ sẵn sàng hợp luyện](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930902.html) - 08:30 24/08/2025
+- 👺 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
+- 🧑‍🏫 [Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới](https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html) - 07:24 24/08/2025
+- 🚦 [Người miền Trung chạy đua trước bão](https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html) - 05:02 24/08/2025
+- 🎉 [Lên phương án di dời hơn 586.000 người tránh bão Kajiki](https://vnexpress.net/len-phuong-an-di-doi-hon-586-000-nguoi-tranh-bao-kajiki-4930852.html) - 04:26 24/08/2025
+- 🦒 [31 máy bay lần đầu hợp luyện trên quảng trường Ba Đình](https://vnexpress.net/31-may-bay-lan-dau-hop-luyen-tren-quang-truong-ba-dinh-4930823.html) - 04:06 24/08/2025
+- 🤗 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4930843.html) - 03:39 24/08/2025
+- 💼 [Bão Kajiki mạnh lên cấp 12, hướng Nghệ An - Hà Tĩnh](https://vnexpress.net/bao-kajiki-manh-len-cap-12-huong-nghe-an-ha-tinh-4930807.html) - 02:08 24/08/2025
+- 🤩 [Cảnh ngổn ngang ở dự án nút giao lớn nhất TP HCM trễ tiến độ](https://vnexpress.net/canh-ngon-ngang-o-du-an-nut-giao-lon-nhat-tp-hcm-tre-tien-do-4930592.html) - 01:55 24/08/2025
+- 🤡 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784-tong-thuat.html) - 00:30 24/08/2025
+- 💯 [&#39;Bão Kajiki nhiều khả năng gây tổ hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-to-hop-thien-tai-4930765.html) - 19:13 23/08/2025
+- 👺 [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
+- 🌮 [Đường phố Thủ đô rợp bóng cờ mừng Quốc khánh 2/9](https://vnexpress.net/duong-pho-thu-do-rop-bong-co-mung-quoc-khanh-2-9-4930755.html) - 17:00 23/08/2025
+- 🥸 [Sông Phố - nơi 10.000 người mừng độc lập 80 năm trước](https://vnexpress.net/song-pho-noi-10-000-nguoi-mung-doc-lap-80-nam-truoc-4923486.html) - 17:00 23/08/2025
+- 🐻 [Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html) - 14:55 23/08/2025
+- 👀 [Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi](https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html) - 11:29 23/08/2025
+- 🤔 [Bão Kajiki tăng ba cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-ba-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
+- 🕯 [Tìm thấy thi thể người phụ nữ mất tích khi lên núi bắt ốc](https://vnexpress.net/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-len-nui-bat-oc-4930673.html) - 10:51 23/08/2025
+- 😺 [Hồ thủy điện, thủy lợi xả nước trước bão Kajiki](https://vnexpress.net/ho-thuy-dien-thuy-loi-xa-nuoc-truoc-bao-kajiki-4930657.html) - 10:27 23/08/2025
+- 🦆 [Công an Hà Nội điều chỉnh phương án cấm đường ngày 24/8](https://vnexpress.net/cong-an-ha-noi-dieu-chinh-phuong-an-cam-duong-ngay-24-8-4930650.html) - 09:13 23/08/2025
+- 🧰 [Hơn 650 CSGT được điều về Hà Nội phục vụ đại lễ A80](https://vnexpress.net/hon-650-csgt-duoc-dieu-ve-ha-noi-phuc-vu-dai-le-a80-4930610.html) - 08:41 23/08/2025
+- 🦍 [Tổng Bí thư: Việt Nam cần xây dựng các &#39;thung lũng văn hóa&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-can-xay-dung-cac-thung-lung-van-hoa-4930637.html) - 08:27 23/08/2025
 - 🧰 [Hai nữ nhân viên cứu thanh niên ngã trên đường ray khi tàu sắp đến](https://vnexpress.net/hai-nu-nhan-vien-cuu-thanh-nien-nga-tren-duong-ray-khi-tau-sap-den-4930564.html) - 03:53 23/08/2025
-- 🦍 [Hà Nội miễn phí tàu điện, xe buýt dịp Quốc khánh 2/9](https://vnexpress.net/ha-noi-mien-phi-tau-dien-xe-buyt-dip-quoc-khanh-2-9-4930544.html) - 03:18 23/08/2025
+- 💃 [Hà Nội miễn phí tàu điện, xe buýt dịp Quốc khánh 2/9](https://vnexpress.net/ha-noi-mien-phi-tau-dien-xe-buyt-dip-quoc-khanh-2-9-4930544.html) - 03:18 23/08/2025
 - 🧰 [Khách qua Tân Sơn Nhất tăng mạnh dịp lễ Quốc khánh](https://vnexpress.net/khach-qua-tan-son-nhat-tang-manh-dip-le-quoc-khanh-4930510.html) - 02:42 23/08/2025
-- 💃 [Ôtô bẹp dúm sau tai nạn trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/oto-bep-dum-sau-tai-nan-tren-cao-toc-ha-noi-hai-phong-4930522.html) - 01:41 23/08/2025
-- 🧰 [Bão mạnh lên cấp 9, hướng vào Bắc Trung Bộ](https://vnexpress.net/bao-manh-len-cap-9-huong-vao-bac-trung-bo-4930482.html) - 00:14 23/08/2025
-- 🚀 [Hiện trạng 3 khu đất đề xuất xây trung tâm hành chính TP HCM](https://vnexpress.net/hien-trang-3-khu-dat-de-xuat-xay-trung-tam-hanh-chinh-tp-hcm-4930413.html) - 23:00 22/08/2025
-- 🎊 [Đề xuất hỗ trợ 100% giá trị phương tiện khi người Cần Giờ chuyển sang xe điện](https://vnexpress.net/de-xuat-ho-tro-100-gia-tri-phuong-tien-khi-nguoi-can-gio-chuyen-sang-xe-dien-4930440.html) - 17:00 22/08/2025
-- 🤭 [Triển lãm thành tựu đất nước 80 năm có &#39;quy mô lớn chưa từng có&#39;](https://vnexpress.net/trien-lam-thanh-tuu-dat-nuoc-80-nam-co-quy-mo-lon-chua-tung-co-4930431.html) - 14:19 22/08/2025
-- 🤗 [Thượng tướng Nguyễn Quang Ngọc làm Thứ trưởng Quốc phòng](https://vnexpress.net/thuong-tuong-nguyen-quang-ngoc-lam-thu-truong-quoc-phong-4930412.html) - 12:43 22/08/2025
-- 🌈 [Người phụ nữ ở Ninh Bình mất tích khi lên núi bắt ốc](https://vnexpress.net/nguoi-phu-nu-o-ninh-binh-mat-tich-khi-len-nui-bat-oc-4930333.html) - 12:19 22/08/2025
-- 🦣 [Quân đội Trung Quốc sẽ đến Việt Nam tham gia diễu binh vào cuối tháng 8](https://vnexpress.net/quan-doi-trung-quoc-se-den-viet-nam-tham-gia-dieu-binh-vao-cuoi-thang-8-4930380.html) - 10:49 22/08/2025
-- 🎡 [Hai cựu Phó chủ tịch tỉnh Thanh Hóa bị khai trừ Đảng](https://vnexpress.net/hai-cuu-pho-chu-tich-tinh-thanh-hoa-bi-khai-tru-dang-4930362.html) - 10:10 22/08/2025
-- 🦏 [TP HCM bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-bo-nhiem-nhieu-lanh-dao-don-vi-4930363.html) - 09:59 22/08/2025
-- 🎊 [Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930244.html) - 08:18 22/08/2025
-- 🫶 [Cuộn thép hàng chục tấn rơi xuống đường đè bẹp xe máy](https://vnexpress.net/cuon-thep-hang-chuc-tan-roi-xuong-duong-de-bep-xe-may-4930283.html) - 08:07 22/08/2025
-- 🤔 [Cháy 57 ki-ốt trong chợ ở Cà Mau](https://vnexpress.net/chay-57-ki-ot-trong-cho-o-ca-mau-4930223.html) - 06:08 22/08/2025
-- 🤠 [Ôtô tông chết 18 con bò](https://vnexpress.net/oto-tong-chet-18-con-bo-4930199.html) - 05:29 22/08/2025
-- 🌜 [Áp thấp nhiệt đới hướng vào Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-huong-vao-bien-dong-4930179.html) - 04:42 22/08/2025
-- 🕯 [Phụ xe mở cửa xả rác xuống đường khi dừng đèn đỏ](https://vnexpress.net/phu-xe-mo-cua-xa-rac-xuong-duong-khi-dung-den-do-4930143.html) - 04:05 22/08/2025
-- 🤔 [Đề xuất tăng quyền tự chủ cho đơn vị sự nghiệp công lập](https://vnexpress.net/de-xuat-tang-quyen-tu-chu-cho-don-vi-su-nghiep-cong-lap-4926006.html) - 04:00 22/08/2025
-- 🏊 [Ba nam sinh gặp nạn khi tắm biển Hải Tiến](https://vnexpress.net/ba-nam-sinh-gap-nan-khi-tam-bien-hai-tien-4930121.html) - 03:55 22/08/2025
-- 🌮 [Cuộc thi Vietnam Vibes gia hạn gửi bài, bình chọn đến 5/9](https://vnexpress.net/cuoc-thi-vietnam-vibes-gia-han-gui-bai-binh-chon-den-5-9-4929924.html) - 01:00 22/08/2025
-- 🫣 [Cháy xưởng sản xuất bóng đèn ở TP HCM](https://vnexpress.net/chay-xuong-san-xuat-bong-den-o-tp-hcm-4929998.html) - 18:49 21/08/2025
-- ⚗️ [Hai giờ hợp luyện diễu binh tại Ba Đình](https://vnexpress.net/hai-gio-hop-luyen-dieu-binh-tai-ba-dinh-4929985.html) - 17:20 21/08/2025
-- 🌜 [Hai thanh niên tông xe máy vào cảnh sát cơ động](https://vnexpress.net/hai-thanh-nien-tong-xe-may-vao-canh-sat-co-dong-4929986.html) - 17:07 21/08/2025
-- 🌁 [21 loạt đại bác mở màn buổi tổng hợp luyện](https://vnexpress.net/21-loat-dai-bac-mo-man-buoi-tong-hop-luyen-4929982.html) - 16:41 21/08/2025
-- 🐲 [Buổi hợp luyện đầu tiên tại quảng trường Ba Đình](https://vnexpress.net/buoi-hop-luyen-dau-tien-tai-quang-truong-ba-dinh-4929951-tong-thuat.html) - 13:00 21/08/2025
-- ⛽️ [Người dân giao lưu với chiến sĩ diễu binh ở Ba Đình](https://vnexpress.net/nguoi-dan-giao-luu-voi-chien-si-dieu-binh-o-ba-dinh-4929879.html) - 12:05 21/08/2025
-- 🗽 [TP HCM bắn pháo hoa 4 điểm mừng 80 năm Quốc khánh](https://vnexpress.net/tp-hcm-ban-phao-hoa-4-diem-mung-80-nam-quoc-khanh-4929893.html) - 10:18 21/08/2025
-- 🔥 [Bộ đội, xe pháo đổ về Ba Đình chuẩn bị hợp luyện](https://vnexpress.net/bo-doi-xe-phao-do-ve-ba-dinh-chuan-bi-hop-luyen-4929786-tong-thuat.html) - 09:00 21/08/2025
-- 💯 [Phát hiện tượng thần khỉ Champa 800 năm dưới biển Quảng Ngãi](https://vnexpress.net/phat-hien-tuong-than-khi-champa-800-nam-duoi-bien-quang-ngai-4929795.html) - 08:13 21/08/2025
-- 🦆 [Đại biểu Quốc hội: &#39;Người dân phát hiện hàng giả không biết kêu ai&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-nguoi-dan-phat-hien-hang-gia-khong-biet-keu-ai-4929731.html) - 08:07 21/08/2025
-- 🫣 [Dòng người đổ lên Ba Đình chờ xem hợp luyện diễu binh](https://vnexpress.net/dong-nguoi-do-len-ba-dinh-cho-xem-hop-luyen-dieu-binh-4929774.html) - 07:36 21/08/2025
-- 🤡 [Bắc Ninh, Thái Nguyên ngập, sạt lở vì mưa lớn](https://vnexpress.net/bac-ninh-thai-nguyen-ngap-sat-lo-vi-mua-lon-4929696.html) - 05:57 21/08/2025<!-- vnexpress-thoi-su:END -->
+- 🚀 [Ôtô bẹp dúm sau tai nạn trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/oto-bep-dum-sau-tai-nan-tren-cao-toc-ha-noi-hai-phong-4930522.html) - 01:41 23/08/2025
+- 🎊 [Bão mạnh lên cấp 9, hướng vào Bắc Trung Bộ](https://vnexpress.net/bao-manh-len-cap-9-huong-vao-bac-trung-bo-4930482.html) - 00:14 23/08/2025
+- 🤭 [Hiện trạng 3 khu đất đề xuất xây trung tâm hành chính TP HCM](https://vnexpress.net/hien-trang-3-khu-dat-de-xuat-xay-trung-tam-hanh-chinh-tp-hcm-4930413.html) - 23:00 22/08/2025
+- 🤗 [Đề xuất hỗ trợ 100% giá trị phương tiện khi người Cần Giờ chuyển sang xe điện](https://vnexpress.net/de-xuat-ho-tro-100-gia-tri-phuong-tien-khi-nguoi-can-gio-chuyen-sang-xe-dien-4930440.html) - 17:00 22/08/2025
+- 🌈 [Triển lãm thành tựu đất nước 80 năm có &#39;quy mô lớn chưa từng có&#39;](https://vnexpress.net/trien-lam-thanh-tuu-dat-nuoc-80-nam-co-quy-mo-lon-chua-tung-co-4930431.html) - 14:19 22/08/2025
+- 🦣 [Thượng tướng Nguyễn Quang Ngọc làm Thứ trưởng Quốc phòng](https://vnexpress.net/thuong-tuong-nguyen-quang-ngoc-lam-thu-truong-quoc-phong-4930412.html) - 12:43 22/08/2025
+- 🎡 [Người phụ nữ ở Ninh Bình mất tích khi lên núi bắt ốc](https://vnexpress.net/nguoi-phu-nu-o-ninh-binh-mat-tich-khi-len-nui-bat-oc-4930333.html) - 12:19 22/08/2025
+- 🦏 [Quân đội Trung Quốc sẽ đến Việt Nam tham gia diễu binh vào cuối tháng 8](https://vnexpress.net/quan-doi-trung-quoc-se-den-viet-nam-tham-gia-dieu-binh-vao-cuoi-thang-8-4930380.html) - 10:49 22/08/2025
+- 🎊 [Hai cựu Phó chủ tịch tỉnh Thanh Hóa bị khai trừ Đảng](https://vnexpress.net/hai-cuu-pho-chu-tich-tinh-thanh-hoa-bi-khai-tru-dang-4930362.html) - 10:10 22/08/2025
+- 🫶 [TP HCM bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-bo-nhiem-nhieu-lanh-dao-don-vi-4930363.html) - 09:59 22/08/2025
+- 🤔 [Metro đi Cần Giờ dự kiến có tốc độ 350 km/h](https://vnexpress.net/metro-di-can-gio-du-kien-co-toc-do-350-km-h-4930244.html) - 08:18 22/08/2025
+- 🤠 [Cuộn thép hàng chục tấn rơi xuống đường đè bẹp xe máy](https://vnexpress.net/cuon-thep-hang-chuc-tan-roi-xuong-duong-de-bep-xe-may-4930283.html) - 08:07 22/08/2025
+- 🌜 [Cháy 57 ki-ốt trong chợ ở Cà Mau](https://vnexpress.net/chay-57-ki-ot-trong-cho-o-ca-mau-4930223.html) - 06:08 22/08/2025
+- 🕯 [Ôtô tông chết 18 con bò](https://vnexpress.net/oto-tong-chet-18-con-bo-4930199.html) - 05:29 22/08/2025
+- 🤔 [Áp thấp nhiệt đới hướng vào Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-huong-vao-bien-dong-4930179.html) - 04:42 22/08/2025
+- 🏊 [Phụ xe mở cửa xả rác xuống đường khi dừng đèn đỏ](https://vnexpress.net/phu-xe-mo-cua-xa-rac-xuong-duong-khi-dung-den-do-4930143.html) - 04:05 22/08/2025
+- 🌮 [Đề xuất tăng quyền tự chủ cho đơn vị sự nghiệp công lập](https://vnexpress.net/de-xuat-tang-quyen-tu-chu-cho-don-vi-su-nghiep-cong-lap-4926006.html) - 04:00 22/08/2025
+- 🫣 [Ba nam sinh gặp nạn khi tắm biển Hải Tiến](https://vnexpress.net/ba-nam-sinh-gap-nan-khi-tam-bien-hai-tien-4930121.html) - 03:55 22/08/2025
+- ⚗️ [Cuộc thi Vietnam Vibes gia hạn gửi bài, bình chọn đến 5/9](https://vnexpress.net/cuoc-thi-vietnam-vibes-gia-han-gui-bai-binh-chon-den-5-9-4929924.html) - 01:00 22/08/2025
+- 🌜 [Cháy xưởng sản xuất bóng đèn ở TP HCM](https://vnexpress.net/chay-xuong-san-xuat-bong-den-o-tp-hcm-4929998.html) - 18:49 21/08/2025
+- 🌁 [Hai giờ hợp luyện diễu binh tại Ba Đình](https://vnexpress.net/hai-gio-hop-luyen-dieu-binh-tai-ba-dinh-4929985.html) - 17:20 21/08/2025
+- 🐲 [Hai thanh niên tông xe máy vào cảnh sát cơ động](https://vnexpress.net/hai-thanh-nien-tong-xe-may-vao-canh-sat-co-dong-4929986.html) - 17:07 21/08/2025
+- ⛽️ [21 loạt đại bác mở màn buổi tổng hợp luyện](https://vnexpress.net/21-loat-dai-bac-mo-man-buoi-tong-hop-luyen-4929982.html) - 16:41 21/08/2025
+- 🗽 [Buổi hợp luyện đầu tiên tại quảng trường Ba Đình](https://vnexpress.net/buoi-hop-luyen-dau-tien-tai-quang-truong-ba-dinh-4929951-tong-thuat.html) - 13:00 21/08/2025
+- 🔥 [Người dân giao lưu với chiến sĩ diễu binh ở Ba Đình](https://vnexpress.net/nguoi-dan-giao-luu-voi-chien-si-dieu-binh-o-ba-dinh-4929879.html) - 12:05 21/08/2025
+- 💯 [TP HCM bắn pháo hoa 4 điểm mừng 80 năm Quốc khánh](https://vnexpress.net/tp-hcm-ban-phao-hoa-4-diem-mung-80-nam-quoc-khanh-4929893.html) - 10:18 21/08/2025
+- 🦆 [Bộ đội, xe pháo đổ về Ba Đình chuẩn bị hợp luyện](https://vnexpress.net/bo-doi-xe-phao-do-ve-ba-dinh-chuan-bi-hop-luyen-4929786-tong-thuat.html) - 09:00 21/08/2025
+- 🫣 [Phát hiện tượng thần khỉ Champa 800 năm dưới biển Quảng Ngãi](https://vnexpress.net/phat-hien-tuong-than-khi-champa-800-nam-duoi-bien-quang-ngai-4929795.html) - 08:13 21/08/2025
+- 🤡 [Đại biểu Quốc hội: &#39;Người dân phát hiện hàng giả không biết kêu ai&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-nguoi-dan-phat-hien-hang-gia-khong-biet-keu-ai-4929731.html) - 08:07 21/08/2025<!-- vnexpress-thoi-su:END -->
