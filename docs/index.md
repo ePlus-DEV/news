@@ -316,7 +316,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Hà Tĩnh sơ tán hàng ngàn hộ dân tránh bão](https://www.sggp.org.vn/ha-tinh-so-tan-hang-ngan-ho-dan-tranh-bao-post809983.html) - 15:35 24/08/2025
-- 🌝 [Mãn nhãn với buổi tổng hợp luyện A80 lần 2 trên Quảng trường Ba Đình](https://www.sggp.org.vn/man-nhan-voi-buoi-tong-hop-luyen-a80-lan-2-tren-quang-truong-ba-dinh-post809978.html) - 14:44 24/08/2025
+- 🌝 [Mãn nhãn với buổi tổng hợp luyện A80 trên Quảng trường Ba Đình](https://www.sggp.org.vn/man-nhan-voi-buoi-tong-hop-luyen-a80-tren-quang-truong-ba-dinh-post809978.html) - 14:44 24/08/2025
 - 💃 [Nguyễn Thúy Hiền và đội tuyển bơi Việt Nam kết thúc thi đấu giải vô địch trẻ thế giới 2025](https://www.sggp.org.vn/nguyen-thuy-hien-va-doi-tuyen-boi-viet-nam-ket-thuc-thi-dau-giai-vo-dich-tre-the-gioi-2025-post809976.html) - 14:42 24/08/2025
 - 🧑‍💻 [Bão số 5 tăng vọt 7 cấp, mạnh và nguy hiểm ngang bão Yagi năm 2024](https://www.sggp.org.vn/bao-so-5-tang-vot-7-cap-manh-va-nguy-hiem-ngang-bao-yagi-nam-2024-post809979.html) - 14:32 24/08/2025
 - 🌊 [FPT khánh thành Tổ hợp giáo dục quy mô 20.000 người học tại Huế](https://www.sggp.org.vn/fpt-khanh-thanh-to-hop-giao-duc-quy-mo-20000-nguoi-hoc-tai-hue-post809968.html) - 14:01 24/08/2025
