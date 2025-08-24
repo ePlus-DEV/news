@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Thí sinh “ngã ngửa&quot; vì điểm chuẩn một đại học tăng 0,75 điểm khối C00](https://dantri.com.vn/giao-duc/thi-sinh-nga-ngua-vi-diem-chuan-mot-dai-hoc-tang-075-diem-khoi-c00-20250824104803498.htm) - 03:59 24/08/2025
-- 🗽 [Xôn xao &quot;thí sinh 29,75 trượt Đại học Ngoại thương&quot;, nhà trường nói gì?](https://dantri.com.vn/giao-duc/xon-xao-thi-sinh-2975-truot-dai-hoc-ngoai-thuong-nha-truong-noi-gi-20250824093250247.htm) - 02:42 24/08/2025
+- 🗽 [Thông tin “thí sinh 29,75 điểm trượt ĐH Ngoại thương” là không chính xác](https://dantri.com.vn/giao-duc/thong-tin-thi-sinh-2975-diem-truot-dh-ngoai-thuong-la-khong-chinh-xac-20250824093250247.htm) - 02:42 24/08/2025
 - 🚦 [Hơn 5 điểm/môn đã đỗ ngay vào trường top đầu cả nước](https://dantri.com.vn/giao-duc/hon-5-diemmon-da-do-ngay-vao-truong-top-dau-ca-nuoc-20250824081437672.htm) - 02:00 24/08/2025
 - 🌋 [Thí sinh xuất sắc nhất cuộc thi Olympic toán quốc tế đang làm gì?](https://dantri.com.vn/giao-duc/thi-sinh-xuat-sac-nhat-cuoc-thi-olympic-toan-quoc-te-dang-lam-gi-20250822173401346.htm) - 02:00 24/08/2025
 - 🏊 [Mức trúng tuyển đại học 2025 tăng phi mã: Hiện tượng mới &quot;ảo điểm chuẩn&quot;](https://dantri.com.vn/giao-duc/muc-trung-tuyen-dai-hoc-2025-tang-phi-ma-hien-tuong-moi-ao-diem-chuan-20250823191749597.htm) - 23:00 23/08/2025
