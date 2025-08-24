@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Báo Thái Lan khen đội tuyển bóng chuyền nữ Việt Nam sau khoảnh khắc lịch sử](https://dantri.com.vn/the-thao/bao-thai-lan-khen-doi-tuyen-bong-chuyen-nu-viet-nam-sau-khoanh-khac-lich-su-20250823231457706.htm) - 03:10 24/08/2025
 - 👨‍🏫 [Ô tô lao vào vỉa hè tông người dân, hàng loạt xe máy ở Đà Lạt](https://dantri.com.vn/xa-hoi/o-to-lao-vao-via-he-tong-nguoi-dan-hang-loat-xe-may-o-da-lat-20250824095713323.htm) - 03:05 24/08/2025
-- 🌮 [Xôn xao &quot;thí sinh 29,75 trượt Đại học Ngoại thương&quot;, nhà trường nói gì?](https://dantri.com.vn/giao-duc/xon-xao-thi-sinh-2975-truot-dai-hoc-ngoai-thuong-nha-truong-noi-gi-20250824093250247.htm) - 02:42 24/08/2025
+- 🌮 [Thông tin “thí sinh 29,75 điểm trượt ĐH Ngoại thương” là không chính xác](https://dantri.com.vn/giao-duc/thong-tin-thi-sinh-2975-diem-truot-dh-ngoai-thuong-la-khong-chinh-xac-20250824093250247.htm) - 02:42 24/08/2025
 - 🕯 [Trắng đêm gặt lúa chạy bão Kajiki](https://dantri.com.vn/xa-hoi/trang-dem-gat-lua-chay-bao-kajiki-20250824080605762.htm) - 02:37 24/08/2025
 - 🪜 [Khánh thành tuyến đường Làng Nủ, công trình xây dựng bằng cả yêu thương](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-tuyen-duong-lang-nu-cong-trinh-xay-dung-bang-ca-yeu-thuong-20250824064514672.htm) - 01:56 24/08/2025
 - 🐘 [Người đàn ông nuôi động vật hoang dã, được Chủ tịch nước tặng huân chương](https://dantri.com.vn/lao-dong-viec-lam/nguoi-dan-ong-nuoi-dong-vat-hoang-da-duoc-chu-tich-nuoc-tang-huan-chuong-20250823191333850.htm) - 01:00 24/08/2025
