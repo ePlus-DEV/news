@@ -5,10 +5,10 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tạm dừng khai thác hai sân bay do ảnh hưởng bão](https://vnexpress.net/tam-dung-khai-thac-hai-san-bay-do-anh-huong-bao-4930956.html) - 13:16 24/08/2025
-- 🤓 [Xe pháo quân sự, xe đặc chủng tổng hợp luyện lần hai](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955.html) - 13:00 24/08/2025
+- 🤓 [Quân nhân, khí tài bắt đầu hợp luyện lần hai](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955.html) - 13:00 24/08/2025
 - ⚗️ [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
 - 🌊 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
-- 🎓 [Bão Kajiki mạnh cấp 14, miền Trung mưa từ tối nay](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
+- 🎓 [Bão Kajiki mạnh cấp 14, dự kiến đổ bộ Nghệ An - Hà Tĩnh](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
 - 🔥 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
 - 🦏 [Quân nhân, khí tài, pháo lễ sẵn sàng hợp luyện](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930902.html) - 08:30 24/08/2025
 - 👺 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
