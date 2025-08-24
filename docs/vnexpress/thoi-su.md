@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Gần 400 quân và dân đảo Cồn Cỏ vào hầm trú ẩn tránh bão](https://vnexpress.net/gan-400-quan-va-dan-dao-con-co-vao-ham-tru-an-tranh-bao-4930978.html) - 14:29 24/08/2025
 - 🤓 [Thủ tướng: Đặt an toàn tính mạng người dân lên trên hết trong ứng phó bão](https://vnexpress.net/thu-tuong-dat-an-toan-tinh-mang-nguoi-dan-len-tren-het-trong-ung-pho-bao-4930962.html) - 14:08 24/08/2025
 - ⚗️ [Tạm dừng khai thác hai sân bay do ảnh hưởng bão](https://vnexpress.net/tam-dung-khai-thac-hai-san-bay-do-anh-huong-bao-4930956.html) - 13:16 24/08/2025
-- 🌊 [Quân nhân, khí tài hợp luyện lần hai](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955.html) - 13:00 24/08/2025
+- 🌊 [Hơn 16.000 quân nhân hợp luyện cùng khí tài](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955.html) - 13:00 24/08/2025
 - 🎓 [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
 - 🔥 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
 - 🦏 [Bão Kajiki mạnh cấp 14, dự kiến đổ bộ Nghệ An - Hà Tĩnh](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
