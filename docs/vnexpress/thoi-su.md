@@ -4,9 +4,9 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Kajiki cách Nghệ An gần 500 km](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
+- 🦒 [Bão Kajiki cách Nghệ An gần 470 km](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
 - 🤓 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
-- ⚗️ [Bộ đội về Ba Đình hợp luyện lần hai](https://vnexpress.net/bo-doi-ve-ba-dinh-hop-luyen-lan-hai-4930902.html) - 08:30 24/08/2025
+- ⚗️ [Xe pháo, khí tài vào Quảng trường Ba Đình chuẩn bị hợp luyện](https://vnexpress.net/xe-phao-khi-tai-vao-quang-truong-ba-dinh-chuan-bi-hop-luyen-4930902.html) - 08:30 24/08/2025
 - 🌊 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
 - 🎓 [Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới](https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html) - 07:24 24/08/2025
 - 🔥 [Người miền Trung chạy đua trước bão](https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html) - 05:02 24/08/2025
