@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4930843.html) - 03:39 24/08/2025
 - 🎓 [Bão Kajiki mạnh lên cấp 12, hướng Nghệ An - Hà Tĩnh](https://vnexpress.net/bao-kajiki-manh-len-cap-12-huong-nghe-an-ha-tinh-4930807.html) - 02:08 24/08/2025
 - 🔥 [Cảnh ngổn ngang ở dự án nút giao lớn nhất TP HCM trễ tiến độ](https://vnexpress.net/canh-ngon-ngang-o-du-an-nut-giao-lon-nhat-tp-hcm-tre-tien-do-4930592.html) - 01:55 24/08/2025
-- 🦏 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua Quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784.html) - 00:30 24/08/2025
+- 🦏 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua Quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784-tong-thuat.html) - 00:30 24/08/2025
 - 👺 [&#39;Bão Kajiki nhiều khả năng gây tổ hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-to-hop-thien-tai-4930765.html) - 19:13 23/08/2025
 - 🧑‍🏫 [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
 - 🚦 [Đường phố Thủ đô rợp bóng cờ mừng Quốc khánh 2/9](https://vnexpress.net/duong-pho-thu-do-rop-bong-co-mung-quoc-khanh-2-9-4930755.html) - 17:00 23/08/2025
