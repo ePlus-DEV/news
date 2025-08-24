@@ -5,7 +5,7 @@ sidebar_position: 27
 
 <!-- dantri-dmagazine:START -->
 - 👨‍🏫 [Bài toán &quot;đủ khó, đủ tầm&quot;, nhân tài sẽ mang tinh hoa 5 châu trở về đất nước](https://dantri.com.vn/khoa-hoc/bai-toan-du-kho-du-tam-nhan-tai-se-mang-tinh-hoa-5-chau-tro-ve-dat-nuoc-20250822180440055.htm) - 23:18 23/08/2025
-- 🎡 [Tiến sĩ Lương Bạch Vân quyết định trở về từ Paris làm “hạt bụi trong gió Việt Nam”](https://dantri.com.vn/xa-hoi/tien-si-luong-bach-van-quyet-dinh-tro-ve-tu-paris-lam-hat-bui-trong-gio-viet-nam-20250817155248559.htm) - 23:14 23/08/2025
+- 🎡 [TS Lương Bạch Vân quyết định trở về từ Paris làm &quot;hạt bụi trong gió Việt Nam&quot;](https://dantri.com.vn/xa-hoi/ts-luong-bach-van-quyet-dinh-tro-ve-tu-paris-lam-hat-bui-trong-gio-viet-nam-20250817155248559.htm) - 23:14 23/08/2025
 - 😎 [Cái vỗ vai và quyết định lịch sử đưa Internet vào Việt Nam](https://dantri.com.vn/cong-nghe/cai-vo-vai-va-quyet-dinh-lich-su-dua-internet-vao-viet-nam-20250822223329027.htm) - 06:47 23/08/2025
 - 🦍 [Ông vua vũ khí Việt: Từ kỹ sư máy bay đến Bazooka rung chuyển chiến trường](https://dantri.com.vn/khoa-hoc/ong-vua-vu-khi-viet-tu-ky-su-may-bay-den-bazooka-rung-chuyen-chien-truong-20250821170034476.htm) - 23:48 22/08/2025
 - 🦣 [Kỳ tích 5.000km đường ống xăng dầu xuyên Trường Sơn khiến thế giới sửng sốt](https://dantri.com.vn/khoa-hoc/ky-tich-5000km-duong-ong-xang-dau-xuyen-truong-son-khien-the-gioi-sung-sot-20250821160809342.htm) - 00:03 22/08/2025
