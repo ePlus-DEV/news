@@ -65,7 +65,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Gyokeres vuốt tóc ăn mừng, đáp trả chỉ trích từ trận Man Utd](https://vnexpress.net/gyokeres-vuot-toc-an-mung-dap-tra-chi-trich-tu-tran-man-utd-4930779.html) - 00:58 24/08/2025
 - 🧰 [Hậu vệ Chelsea hé lộ cảnh bị hắt hủi](https://vnexpress.net/hau-ve-chelsea-he-lo-canh-bi-hat-hui-4930768.html) - 00:49 24/08/2025
 - 🦒 [Guardiola: &#39;Tôi không yêu cầu Man City làm điều đặc biệt&#39;](https://vnexpress.net/guardiola-toi-khong-yeu-cau-man-city-lam-dieu-dac-biet-4930774.html) - 00:42 24/08/2025
-- ⛽️ [Trực thăng treo cờ Đảng, cờ Tổ quốc hướng về Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-huong-ve-ba-dinh-4930784.html) - 00:30 24/08/2025
+- ⛽️ [Trực thăng treo cờ Đảng, cờ Tổ quốc qua Quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784.html) - 00:30 24/08/2025
 - 🚀 [Ba tuần phát hiện ba vụ BTS giả gửi tin nhắn lừa đảo](https://vnexpress.net/ba-tuan-phat-hien-ba-vu-bts-gia-gui-tin-nhan-lua-dao-4930771.html) - 00:06 24/08/2025
 - 🪜 [Rolls-Royce nhúng sedan siêu sang Phantom xuống bể bơi](https://vnexpress.net/rolls-royce-nhung-sedan-sieu-sang-phantom-xuong-be-boi-4930506.html) - 00:00 24/08/2025
 - 🚦 [Freightzy ra mắt dịch vụ mới cho chuỗi cung ứng lạnh](https://vnexpress.net/freightzy-ra-mat-dich-vu-moi-cho-chuoi-cung-ung-lanh-4928875.html) - 00:00 24/08/2025
