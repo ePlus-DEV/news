@@ -18,8 +18,8 @@ sidebar_position: 9
 - 🎊 [Sao Việt tôn dáng với quần ống rộng](https://vnexpress.net/sao-viet-ton-dang-voi-quan-ong-rong-4927883.html) - 13:26 25/08/2025
 - 🎊 [Lãnh đạo Lộc Trời: Chúng tôi chỉ biết làm nông, không có kinh nghiệm tài chính](https://vnexpress.net/lanh-dao-loc-troi-chung-toi-chi-biet-lam-nong-khong-co-kinh-nghiem-tai-chinh-4931301.html) - 13:20 25/08/2025
 - 😺 [TP HCM mở tour đêm dịp 2/9](https://vnexpress.net/tp-hcm-mo-tour-dem-dip-2-9-4931302.html) - 13:12 25/08/2025
-- 🐘 [20 phút ngồi bấm điện thoại vì quá nửa số người đến muộn họp phụ huynh](https://vnexpress.net/thoi-quen-di-muon-y-thuc-dung-gio-vi-sao-nguoi-viet-hay-di-tre-20-phut-ngoi-bam-dien-thoai-cho-nguoi-den-muon-trong-buoi-hop-phu-huynh-4931299.html) - 13:00 25/08/2025
-- 🌁 [Chú út tôi lừa người thân chiếm hết tài sản bà nội để lại](https://vnexpress.net/chu-ut-toi-lua-nguoi-than-chiem-het-tai-san-ba-noi-de-lai-4931281.html) - 13:00 25/08/2025
+- 🐘 [Chú út tôi lừa người thân chiếm hết tài sản bà nội để lại](https://vnexpress.net/chu-ut-toi-lua-nguoi-than-chiem-het-tai-san-ba-noi-de-lai-4931281.html) - 13:00 25/08/2025
+- 🌁 [20 phút ngồi bấm điện thoại vì quá nửa số người đến muộn họp phụ huynh](https://vnexpress.net/thoi-quen-di-muon-y-thuc-dung-gio-vi-sao-nguoi-viet-hay-di-tre-20-phut-ngoi-bam-dien-thoai-cho-nguoi-den-muon-trong-buoi-hop-phu-huynh-4931299.html) - 13:00 25/08/2025
 - 🐲 [Vì sao bất động sản hàng hiệu hấp dẫn giới siêu giàu?](https://vnexpress.net/vi-sao-bat-dong-san-hang-hieu-hap-dan-gioi-sieu-giau-4927401.html) - 13:00 25/08/2025
 - 🤓 [Hai giờ cứu tài xế mắc kẹt trong cabin](https://vnexpress.net/hai-gio-cuu-tai-xe-mac-ket-trong-cabin-4931395.html) - 12:46 25/08/2025
 - 💪 [VĐV bắn súng tử trận trong chiến sự Nga – Ukraine](https://vnexpress.net/vdv-ban-sung-tu-tran-trong-chien-su-nga-ukraine-4931392.html) - 12:36 25/08/2025
