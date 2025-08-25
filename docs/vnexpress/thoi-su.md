@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Ông Dương Anh Đức làm Trưởng ban Tuyên giáo và Dân vận Thành ủy TP HCM](https://vnexpress.net/ong-duong-anh-duc-lam-truong-ban-tuyen-giao-va-dan-van-thanh-uy-tp-hcm-4931222.html) - 05:46 25/08/2025
 - 🎓 [Ôtô tông 6 xe máy dừng đèn đỏ ở Đồng Nai](https://vnexpress.net/oto-tong-6-xe-may-dung-den-do-o-dong-nai-4931128.html) - 03:29 25/08/2025
 - 🔥 [Cảnh sát giải cứu tài xế kẹt trong ôtô lao xuống mương](https://vnexpress.net/canh-sat-giai-cuu-tai-xe-ket-trong-oto-lao-xuong-muong-4931138.html) - 03:25 25/08/2025
-- 🦏 [Bão giảm còn cấp 13, đổ bộ Nghệ An - Hà Tĩnh trong hai giờ tới](https://vnexpress.net/chay-dua-truoc-khi-bao-kajiki-do-bo-4931111.html) - 03:00 25/08/2025
+- 🦏 [Dừng tàu, đóng cao tốc trước khi bão đổ bộ](https://vnexpress.net/chay-dua-truoc-khi-bao-kajiki-do-bo-4931111.html) - 03:00 25/08/2025
 - 👺 [Tài xế lấy xe ba gác chở ôtô](https://vnexpress.net/tai-xe-lay-xe-ba-gac-cho-oto-4931118.html) - 02:58 25/08/2025
 - 🧑‍🏫 [Ông Nguyễn Thanh Nghị làm Trưởng ban Chính sách, Chiến lược Trung ương](https://vnexpress.net/ong-nguyen-thanh-nghi-lam-truong-ban-chinh-sach-chien-luoc-trung-uong-4930999.html) - 01:31 25/08/2025
 - 🚦 [Ông Trần Lưu Quang làm Bí thư Thành ủy TP HCM](https://vnexpress.net/ong-tran-luu-quang-lam-bi-thu-thanh-uy-tp-hcm-4931045.html) - 01:14 25/08/2025
