@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nước nào sản xuất ôtô nhiều nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-san-xuat-oto-nhieu-nhat-dong-nam-a-4931399.html) - 13:35 25/08/2025
-- 🦆 [Nhiều thí sinh hốt hoảng vì từ đỗ thành trượt đại học](https://vnexpress.net/nhieu-thi-sinh-hot-hoang-vi-tu-do-thanh-truot-dai-hoc-4931380.html) - 12:14 25/08/2025
+- 🦆 [Nhiều thí sinh hốt hoảng vì từ đỗ thành trượt](https://vnexpress.net/nhieu-thi-sinh-hot-hoang-vi-tu-do-thanh-truot-4931380.html) - 12:14 25/08/2025
 - 🦩 [Cách phân biệt khi phát âm &#39;and&#39;, &#39;in&#39; và &#39;ing&#39;](https://vnexpress.net/cach-phan-biet-khi-phat-am-and-in-va-ing-4931251.html) - 07:48 25/08/2025
 - 🌮 [Sinh viên Việt giành giải ba Robocon châu Á - Thái Bình Dương](https://vnexpress.net/sinh-vien-viet-gianh-giai-ba-robocon-chau-a-thai-binh-duong-4910618.html) - 04:28 25/08/2025
 - 🔭 [FPT khánh thành tổ hợp giáo dục hơn 8,6 ha tại Huế](https://vnexpress.net/fpt-khanh-thanh-to-hop-giao-duc-hon-8-6-ha-tai-hue-4931154.html) - 03:50 25/08/2025
