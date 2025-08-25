@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng Bí thư trao danh hiệu Anh hùng Lao động cho bà Nguyễn Thị Bình](https://vnexpress.net/tong-bi-thu-trao-danh-hieu-anh-hung-lao-dong-cho-ba-nguyen-thi-binh-4931227.html) - 06:09 25/08/2025
+- 🎭 [Chó corgi đua tốc độ, thi trang phục độc lạ](https://vnexpress.net/cho-corgi-dua-toc-do-thi-trang-phuc-doc-la-4931213.html) - 07:11 25/08/2025
 - 🕴 [Lý do Ukraine tăng tập kích hạ tầng dầu mỏ Nga](https://vnexpress.net/ly-do-ukraine-tang-tap-kich-ha-tang-dau-mo-nga-4931025.html) - 05:05 25/08/2025
 - 🤭 [Hạ viện Campuchia thông qua luật cho phép tước quốc tịch](https://vnexpress.net/ha-vien-campuchia-thong-qua-luat-cho-phep-tuoc-quoc-tich-4931149.html) - 04:58 25/08/2025
 - 🧑‍💻 [Mỹ tìm mua phi cơ sao chép UAV tự sát Iran](https://vnexpress.net/my-tim-mua-phi-co-sao-chep-uav-tu-sat-iran-4931178.html) - 04:50 25/08/2025
