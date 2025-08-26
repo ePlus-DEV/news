@@ -4,10 +4,10 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Huyền thoại&quot; toán học Việt Nam và hành trình chinh phục Olympic toán](https://dantri.com.vn/giao-duc/huyen-thoai-toan-hoc-viet-nam-va-hanh-trinh-chinh-phuc-olympic-toan-20250826164430094.htm) - 23:00 26/08/2025
-- 🌈 [80 năm nỗ lực cải cách hành chính: Thành tựu thời kỳ đổi mới](https://dantri.com.vn/noi-vu/80-nam-no-luc-cai-cach-hanh-chinh-thanh-tuu-thoi-ky-doi-moi-20250825172655203.htm) - 23:00 26/08/2025
-- 🐎 [Người đàn ông U80 ở An Giang kể chuyện hơn một thập kỷ chở vợ đi phượt](https://dantri.com.vn/doi-song/nguoi-dan-ong-u80-o-an-giang-ke-chuyen-hon-mot-thap-ky-cho-vo-di-phuot-20250825212607204.htm) - 22:55 26/08/2025
-- 👹 [Nam sinh gây sốt nhờ giọng &quot;hiếm&quot;, hát nhạc đỏ được ví với NSND Trung Đức](https://dantri.com.vn/giai-tri/nam-sinh-gay-sot-nho-giong-hiem-hat-nhac-do-duoc-vi-voi-nsnd-trung-duc-20250823142036845.htm) - 22:44 26/08/2025
+- 🤠 [Nam sinh gây sốt nhờ giọng &quot;hiếm&quot;, hát nhạc đỏ được ví với NSND Trung Đức](https://dantri.com.vn/giai-tri/nam-sinh-gay-sot-nho-giong-hiem-hat-nhac-do-duoc-vi-voi-nsnd-trung-duc-20250823142036845.htm) - 23:05 26/08/2025
+- 🌈 [&quot;Huyền thoại&quot; toán học Việt Nam và hành trình chinh phục Olympic toán](https://dantri.com.vn/giao-duc/huyen-thoai-toan-hoc-viet-nam-va-hanh-trinh-chinh-phuc-olympic-toan-20250826164430094.htm) - 23:00 26/08/2025
+- 🐎 [80 năm nỗ lực cải cách hành chính: Thành tựu thời kỳ đổi mới](https://dantri.com.vn/noi-vu/80-nam-no-luc-cai-cach-hanh-chinh-thanh-tuu-thoi-ky-doi-moi-20250825172655203.htm) - 23:00 26/08/2025
+- 👹 [Người đàn ông U80 ở An Giang kể chuyện hơn một thập kỷ chở vợ đi phượt](https://dantri.com.vn/doi-song/nguoi-dan-ong-u80-o-an-giang-ke-chuyen-hon-mot-thap-ky-cho-vo-di-phuot-20250825212607204.htm) - 22:55 26/08/2025
 - 🫶 [Ứng dụng cảnh báo những điểm nguy cơ sạt lở, lũ quét theo thời gian thực](https://dantri.com.vn/cong-nghe/ung-dung-canh-bao-nhung-diem-nguy-co-sat-lo-lu-quet-theo-thoi-gian-thuc-20250826154329867.htm) - 08:56 26/08/2025
 - ⛽️ [Uy lực tổ hợp tên lửa Trường Sơn do Việt Nam tự phát triển và chế tạo](https://dantri.com.vn/khoa-hoc/uy-luc-to-hop-ten-lua-truong-son-do-viet-nam-tu-phat-trien-va-che-tao-20250826143711291.htm) - 08:02 26/08/2025
 - 🌜 [Thủ tướng: Xóa hơn 334.230 nhà tạm, nhà dột nát là một kỳ tích giảm nghèo](https://dantri.com.vn/xa-hoi/thu-tuong-xoa-hon-334230-nha-tam-nha-dot-nat-la-mot-ky-tich-giam-ngheo-20250826132252286.htm) - 06:35 26/08/2025
