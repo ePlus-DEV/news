@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Biển Thiên Cầm tan hoang sau bão](https://vnexpress.net/bien-thien-cam-tan-hoang-sau-bao-4931882.html) - 16:15 26/08/2025
+- 💂 [Biển Thiên Cầm tan hoang sau bão](https://vnexpress.net/bien-thien-cam-tan-hoang-sau-bao-4931882.html) - 17:00 26/08/2025
 - 🪄 [Du lịch y tế Việt Nam dự báo cán mốc 4 tỷ USD](https://vnexpress.net/du-lich-y-te-viet-nam-du-bao-can-moc-4-ty-usd-4931768.html) - 12:20 26/08/2025
 - 🦅 [Du khách Nga chạy giải marathon để thể hiện tình yêu với Nha Trang](https://vnexpress.net/du-khach-nga-chay-giai-marathon-de-the-hien-tinh-yeu-voi-nha-trang-4929721.html) - 12:00 26/08/2025
 - 🕴 [Bảo tàng Vũ trụ Việt Nam chưa nhận khách lẻ, khuyến cáo không tự gom đoàn](https://vnexpress.net/bao-tang-vu-tru-viet-nam-chua-nhan-khach-le-khuyen-cao-khong-tu-gom-doan-4931374.html) - 05:17 26/08/2025
