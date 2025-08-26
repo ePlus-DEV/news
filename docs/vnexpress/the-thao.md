@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Runner Nam Phi chạy 100 km dưới 6 giờ](https://vnexpress.net/runner-nam-phi-chay-100-km-duoi-6-gio-4931776.html) - 09:17 26/08/2025
-- 🦩 [Tham vọng &#39;nhân bản&#39; Sinner của quần vợt Italy](https://vnexpress.net/tham-vong-nhan-ban-sinner-cua-quan-vot-italy-4931762.html) - 09:16 26/08/2025
+- 🦩 [Quần vợt Italy và tham vọng &#39;nhân bản&#39; Jannik Sinner](https://vnexpress.net/quan-vot-italy-va-tham-vong-nhan-ban-jannik-sinner-4931762.html) - 09:16 26/08/2025
 - 🧰 [Diễn biến cuộc đua VnExpress Marathon Libera Nha Trang 2025](https://vnexpress.net/dien-bien-cuoc-dua-vnexpress-marathon-libera-nha-trang-2025-4928956.html) - 07:30 26/08/2025
 - 🤗 [Đế chế kinh doanh của &#39;tỷ phú&#39; Federer](https://vnexpress.net/de-che-kinh-doanh-cua-ty-phu-federer-4931073.html) - 07:00 26/08/2025
 - 🥳 [Việt Nam là đội duy nhất của châu Á bị loại ở giải bóng chuyền nữ VĐTG](https://vnexpress.net/viet-nam-la-doi-duy-nhat-cua-chau-a-bi-loai-o-giai-bong-chuyen-nu-vdtg-4931696.html) - 06:30 26/08/2025
