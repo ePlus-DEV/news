@@ -411,7 +411,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nhanh chóng khắc phục hậu quả bão số 5 và mưa lũ, khôi phục sản xuất, kinh doanh, ổn định tình hình Nhân dân](https://baochinhphu.vn/nhanh-chong-khac-phuc-hau-qua-bao-so-5-va-mua-lu-khoi-phuc-san-xuat-kinh-doanh-on-dinh-tinh-hinh-nhan-dan-102250827053016042.htm) - 05:27 27/08/2025
+- 💻 [Nhanh chóng khắc phục hậu quả bão số 5 và mưa lũ, khôi phục sản xuất, kinh doanh, ổn định tình hình Nhân dân](https://baochinhphu.vn/nhanh-chong-khac-phuc-hau-qua-bao-so-5-va-mua-lu-khoi-phuc-san-xuat-kinh-doanh-on-dinh-tinh-hinh-nhan-dan-102250827053016042.htm) - 05:25 27/08/2025
 - 🌜 [Đề xuất mới về niên hạn sử dụng phương tiện giao thông đường sắt](https://baochinhphu.vn/de-xuat-moi-ve-nien-han-su-dung-phuong-tien-giao-thong-duong-sat-102250826220918745.htm) - 22:08 26/08/2025
 - 🦆 [Khẩn trương xử lý sự cố xảy ra trên các tuyến đê tại Thanh Hóa](https://baochinhphu.vn/khan-truong-xu-ly-su-co-xay-ra-tren-cac-tuyen-de-tai-thanh-hoa-102250826204708262.htm) - 20:38 26/08/2025
 - 🌝 [Đối ngoại Quốc hội đóng góp vào thành tựu đối ngoại của đất nước trong 80 năm qua](https://baochinhphu.vn/doi-ngoai-quoc-hoi-dong-gop-vao-thanh-tuu-doi-ngoai-cua-dat-nuoc-trong-80-nam-qua-102250826202739725.htm) - 20:30 26/08/2025
