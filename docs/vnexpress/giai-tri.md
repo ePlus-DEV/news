@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Vai đặc biệt của thương binh thành cổ Quảng Trị trong &#39;Mưa đỏ&#39;](https://vnexpress.net/vai-dac-biet-cua-thuong-binh-thanh-co-quang-tri-trong-mua-do-4931507.html) - 04:07 26/08/2025
+- 🌏 [Thương binh thành cổ Quảng Trị xuất hiện trong phim &#39;Mưa đỏ&#39;](https://vnexpress.net/thuong-binh-thanh-co-quang-tri-xuat-hien-trong-phim-mua-do-4931507.html) - 04:07 26/08/2025
 - 💫 [Rapper Lil Nas X không nhận tội đánh người](https://vnexpress.net/rapper-lil-nas-x-khong-nhan-toi-danh-nguoi-4931497.html) - 03:59 26/08/2025
 - 🌮 [Lưu Diệc Phi đón tuổi 38](https://vnexpress.net/luu-diec-phi-don-tuoi-38-4931534.html) - 03:23 26/08/2025
 - 🧠 [Triển lãm chân dung nữ tướng Nguyễn Thị Định](https://vnexpress.net/trien-lam-chan-dung-nu-tuong-nguyen-thi-dinh-4927450.html) - 02:52 26/08/2025
