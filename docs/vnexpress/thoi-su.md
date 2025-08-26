@@ -15,7 +15,7 @@ sidebar_position: 1
 - 🧑‍🏫 [Khai trương trung tâm báo chí phục vụ Lễ kỷ niệm 80 năm Quốc khánh](https://vnexpress.net/khai-truong-trung-tam-bao-chi-phuc-vu-le-ky-niem-80-nam-quoc-khanh-4931761.html) - 11:21 26/08/2025
 - 🚦 [Vòi rồng ở Hà Nội cuốn bay đồ đạc](https://vnexpress.net/voi-rong-o-ha-noi-cuon-bay-do-dac-4931807.html) - 10:56 26/08/2025
 - 🎉 [Hai người tử vong khi dọn vệ sinh cống thoát nước](https://vnexpress.net/hai-nguoi-tu-vong-khi-don-ve-sinh-cong-thoat-nuoc-4931690.html) - 10:28 26/08/2025
-- 🦒 [Cần hơn 13.500 tỷ đồng &#39;phủ&#39; toàn bộ xe buýt điện ở TP HCM](https://vnexpress.net/can-hon-13-500-ty-dong-phu-toan-bo-xe-buyt-dien-o-tp-hcm-4931752.html) - 09:51 26/08/2025
+- 🦒 [Cần hơn 13.500 tỷ đồng để chuyển toàn bộ xe buýt TP HCM sang điện](https://vnexpress.net/can-hon-13-500-ty-dong-de-chuyen-toan-bo-xe-buyt-tp-hcm-sang-dien-4931752.html) - 09:51 26/08/2025
 - 🤗 [Khách ùn ứ ở Tân Sơn Nhất do lỗi hệ thống xuất cảnh](https://vnexpress.net/khach-un-u-o-tan-son-nhat-do-loi-he-thong-xuat-canh-4931724.html) - 08:37 26/08/2025
 - 💼 [Quỹ Hy vọng chung tay cùng đồng bào vượt bão](https://vnexpress.net/quy-hy-vong-chung-tay-cung-dong-bao-vuot-bao-4931718.html) - 08:10 26/08/2025
 - 🤩 [Ngư dân mò tài sản từ hàng loạt tàu chìm sau bão Kajiki](https://vnexpress.net/ngu-dan-mo-tai-san-tu-hang-loat-tau-chim-sau-bao-kajiki-4931626.html) - 07:00 26/08/2025
