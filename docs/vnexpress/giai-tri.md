@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [14 năm Trương Bá Chi làm mẹ đơn thân [26/08 - 15:59]](https://vnexpress.net/14-nam-truong-ba-chi-lam-me-don-than-26-08-15-59-4931565.html) - 09:16 26/08/2025
+- 🌏 [Cuộc sống tuổi đôi mươi của Hoa hậu Tiểu Vy](https://vnexpress.net/cuoc-song-tuoi-doi-muoi-cua-hoa-hau-tieu-vy-4931701.html) - 11:26 26/08/2025
 - 💫 [Will Smith bị nói &#39;dùng AI tạo hình khán giả&#39;](https://vnexpress.net/will-smith-bi-noi-dung-ai-tao-hinh-khan-gia-4931698.html) - 08:43 26/08/2025
 - 🌮 [Thương binh thành cổ Quảng Trị xuất hiện trong phim &#39;Mưa đỏ&#39;](https://vnexpress.net/thuong-binh-thanh-co-quang-tri-xuat-hien-trong-phim-mua-do-4931507.html) - 04:07 26/08/2025
 - 🧠 [Rapper Lil Nas X không nhận tội đánh người](https://vnexpress.net/rapper-lil-nas-x-khong-nhan-toi-danh-nguoi-4931497.html) - 03:59 26/08/2025
