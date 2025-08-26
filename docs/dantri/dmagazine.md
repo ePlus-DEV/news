@@ -5,7 +5,7 @@ sidebar_position: 27
 
 <!-- dantri-dmagazine:START -->
 - 👨‍🏫 [Hơn hai thập kỷ ghép tạng trẻ em: Viết tiếp những trang tuổi thơ dang dở](https://dantri.com.vn/suc-khoe/hon-hai-thap-ky-ghep-tang-tre-em-viet-tiep-nhung-trang-tuoi-tho-dang-do-20250825170836595.htm) - 23:47 25/08/2025
-- 🎡 [Triết lý “không liều, không thành” và chuyện làm hộ chiếu cho các nước của MK Group](https://dantri.com.vn/kinh-doanh/triet-ly-khong-lieu-khong-thanh-va-chuyen-lam-ho-chieu-cho-cac-nuoc-cua-mk-group-20250817171938482.htm) - 22:46 25/08/2025
+- 🎡 [Chủ tịch MK Group: Người dám đi thường đến đích trước kẻ mãi đứng yên](https://dantri.com.vn/kinh-doanh/chu-tich-mk-group-nguoi-dam-di-thuong-den-dich-truoc-ke-mai-dung-yen-20250817171938482.htm) - 22:46 25/08/2025
 - 😎 [Anh hùng Nguyễn Văn Phiệt và ký ức 10 phút bắn rơi 2 B-52 trên bầu trời Hà Nội](https://dantri.com.vn/khoa-hoc/anh-hung-nguyen-van-phiet-va-ky-uc-10-phut-ban-roi-2-b-52-tren-bau-troi-ha-noi-20250825100908538.htm) - 21:19 25/08/2025
 - 🦍 [Những &quot;bài toán Việt Nam&quot; phải do chính trí tuệ Việt giải quyết](https://dantri.com.vn/khoa-hoc/nhung-bai-toan-viet-nam-phai-do-chinh-tri-tue-viet-giai-quyet-20250824155113063.htm) - 00:03 25/08/2025
 - 🦣 [GS Trần Thanh Vân: Cần một “Nhà hát Hồ Gươm” của khoa học công nghệ](https://dantri.com.vn/giao-duc/gs-tran-thanh-van-can-mot-nha-hat-ho-guom-cua-khoa-hoc-cong-nghe-20250821201054333.htm) - 23:00 24/08/2025
