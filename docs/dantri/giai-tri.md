@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Nam sinh gây sốt nhờ giọng &quot;hiếm&quot;, hát nhạc đỏ được ví với NSND Trung Đức](https://dantri.com.vn/giai-tri/nam-sinh-gay-sot-nho-giong-hiem-hat-nhac-do-duoc-vi-voi-nsnd-trung-duc-20250823142036845.htm) - 22:44 26/08/2025
+- 🤩 [Nam sinh gây sốt nhờ giọng &quot;hiếm&quot;, hát nhạc đỏ được ví với NSND Trung Đức](https://dantri.com.vn/giai-tri/nam-sinh-gay-sot-nho-giong-hiem-hat-nhac-do-duoc-vi-voi-nsnd-trung-duc-20250823142036845.htm) - 23:05 26/08/2025
 - 🔥 [Bộ Văn hoá trao tặng 600 triệu đồng cho 3 tỉnh bị thiệt hại bởi bão Kajiki](https://dantri.com.vn/giai-tri/bo-van-hoa-trao-tang-600-trieu-dong-cho-3-tinh-bi-thiet-hai-boi-bao-kajiki-20250827001928204.htm) - 17:40 26/08/2025
 - 🚀 [VTV tường thuật trực tiếp lễ diễu binh, diễu hành ngày 2/9 từ 6h sáng](https://dantri.com.vn/giai-tri/vtv-tuong-thuat-truc-tiep-le-dieu-binh-dieu-hanh-ngay-29-tu-6h-sang-20250826215203078.htm) - 14:59 26/08/2025
 - 🔥 [Cục trưởng Xuân Bắc, Đen Vâu cùng dàn nghệ sĩ thăm Nhà sàn Bác Hồ](https://dantri.com.vn/giai-tri/cuc-truong-xuan-bac-den-vau-cung-dan-nghe-si-tham-nha-san-bac-ho-20250826203605099.htm) - 13:46 26/08/2025
