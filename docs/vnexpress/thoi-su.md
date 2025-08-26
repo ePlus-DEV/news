@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hàng loạt công trình tốc mái, hư hỏng sau bão Kajiki](https://vnexpress.net/hang-loat-cong-trinh-toc-mai-hu-hong-sau-bao-kajiki-4931592.html) - 05:35 26/08/2025
-- 🤓 [Chung cư, nhà dân Hà Nội dựng đập, rào chắn ngăn nước ngập](https://vnexpress.net/chung-cu-nha-dan-ha-noi-dung-dap-rao-chan-ngan-nuoc-ngap-4931622.html) - 05:03 26/08/2025
-- ⚗️ [Hơn 700 xã nguy cơ sạt lở, lũ quét](https://vnexpress.net/hon-700-xa-nguy-co-sat-lo-lu-quet-4931529.html) - 03:57 26/08/2025
-- 🌊 [Hàng loạt ôtô chết máy, chờ cứu hộ trên đường Hà Nội](https://vnexpress.net/hang-loat-oto-chet-may-cho-cuu-ho-tren-duong-ha-noi-4931547.html) - 03:41 26/08/2025
-- 🎓 [Ba người chết, hơn 6.800 nhà tốc mái do bão Kajiki](https://vnexpress.net/ba-nguoi-chet-hon-6-800-nha-toc-mai-do-bao-kajiki-4931549.html) - 03:30 26/08/2025
-- 🔥 [Giao thông Hà Nội hỗn loạn sau mưa lớn](https://vnexpress.net/giao-thong-ha-noi-hon-loan-sau-mua-lon-4931479.html) - 01:16 26/08/2025
-- 🦏 [Người Hà Nội chèo thuyền trên phố](https://vnexpress.net/nhieu-tuyen-pho-ha-noi-ngap-sau-4931446.html) - 00:05 26/08/2025
-- 👺 [Bão Kajiki suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-kajiki-suy-yeu-thanh-ap-thap-nhiet-doi-4931438.html) - 23:06 25/08/2025
-- 🧑‍🏫 [Cầu Rạch Miễu 2 xóa &#39;điểm đen&#39; ùn tắc ở quốc lộ nối Đồng Tháp – Vĩnh Long](https://vnexpress.net/cau-rach-mieu-2-xoa-diem-den-un-tac-o-quoc-lo-noi-dong-thap-vinh-long-4931070.html) - 23:00 25/08/2025
-- 🚦 [Khách đi tàu điện dịp 2/9 ở Hà Nội cần lưu ý gì?](https://vnexpress.net/khach-di-tau-dien-dip-2-9-o-ha-noi-can-luu-y-gi-4931406.html) - 18:33 25/08/2025
-- 🎉 [GS Hoàng Xuân Hãn - học giả uyên bác yêu nước](https://vnexpress.net/gs-hoang-xuan-han-hoc-gia-uyen-bac-yeu-nuoc-4929999.html) - 18:20 25/08/2025
-- 🦒 [TP HCM dự kiến thu hồi 325 ha đất làm metro nối Cần Giờ](https://vnexpress.net/tp-hcm-du-kien-thu-hoi-325-ha-dat-lam-metro-noi-can-gio-4931371.html) - 17:00 25/08/2025
-- 🤗 [Dấu tích &#39;Vạn lý trường thành&#39; hơn 14 km ở Gia Lai](https://vnexpress.net/dau-tich-van-ly-truong-thanh-hon-14-km-o-gia-lai-4931349.html) - 17:00 25/08/2025
-- 💼 [Hàng quán, nhà dân tan hoang trong bão Kajiki](https://vnexpress.net/hang-quan-nha-dan-tan-hoang-trong-bao-kajiki-4931407.html) - 14:20 25/08/2025
-- 🤩 [Cảnh sát lao xuống sông Cấm cứu người phụ nữ](https://vnexpress.net/canh-sat-lao-xuong-song-cam-cuu-nguoi-phu-nu-4931366.html) - 12:18 25/08/2025
-- 🤡 [&#39;Có tình trạng cán bộ lợi dụng chính sách nghỉ hưu trước tuổi&#39;](https://vnexpress.net/co-tinh-trang-can-bo-loi-dung-chinh-sach-nghi-huu-truoc-tuoi-4931369.html) - 10:46 25/08/2025
-- 💯 [Quân y Việt Nam khám bệnh cho phạm nhân ở Nam Sudan](https://vnexpress.net/quan-y-viet-nam-kham-benh-cho-pham-nhan-o-nam-sudan-4931323.html) - 10:39 25/08/2025
-- 👺 [Thanh niên tông gãy rào chắn đường sắt ở Đồng Nai](https://vnexpress.net/thanh-nien-tong-gay-rao-chan-duong-sat-o-dong-nai-4931324.html) - 09:25 25/08/2025
-- 🌮 [Một người chết, hơn 600 nhà tốc mái do bão](https://vnexpress.net/truc-tiep-tin-bao-moi-nhat-ngay-25-8-4931231-tong-thuat.html) - 07:00 25/08/2025
-- 🥸 [Tổng Bí thư trao danh hiệu Anh hùng Lao động cho bà Nguyễn Thị Bình](https://vnexpress.net/tong-bi-thu-trao-danh-hieu-anh-hung-lao-dong-cho-ba-nguyen-thi-binh-4931227.html) - 06:09 25/08/2025
-- 🐻 [Ông Dương Anh Đức làm Trưởng ban Tuyên giáo và Dân vận Thành ủy TP HCM](https://vnexpress.net/ong-duong-anh-duc-lam-truong-ban-tuyen-giao-va-dan-van-thanh-uy-tp-hcm-4931222.html) - 05:46 25/08/2025
-- 👀 [Ôtô tông 6 xe máy dừng đèn đỏ ở Đồng Nai](https://vnexpress.net/oto-tong-6-xe-may-dung-den-do-o-dong-nai-4931128.html) - 03:29 25/08/2025
-- 🤔 [Cảnh sát giải cứu tài xế kẹt trong ôtô lao xuống mương](https://vnexpress.net/canh-sat-giai-cuu-tai-xe-ket-trong-oto-lao-xuong-muong-4931138.html) - 03:25 25/08/2025
-- 🕯 [Dừng tàu, đóng cao tốc trước khi bão đổ bộ](https://vnexpress.net/chay-dua-truoc-khi-bao-kajiki-do-bo-4931111-tong-thuat.html) - 03:00 25/08/2025
-- 😺 [Tài xế lấy xe ba gác chở ôtô](https://vnexpress.net/tai-xe-lay-xe-ba-gac-cho-oto-4931118.html) - 02:58 25/08/2025
-- 🦆 [Ông Nguyễn Thanh Nghị làm Trưởng ban Chính sách, Chiến lược Trung ương](https://vnexpress.net/ong-nguyen-thanh-nghi-lam-truong-ban-chinh-sach-chien-luoc-trung-uong-4930999.html) - 01:31 25/08/2025
-- 🧰 [Ông Trần Lưu Quang làm Bí thư Thành ủy TP HCM](https://vnexpress.net/ong-tran-luu-quang-lam-bi-thu-thanh-uy-tp-hcm-4931045.html) - 01:14 25/08/2025
-- 🦍 [Ông Nguyễn Văn Nên làm Thường trực Tiểu ban Văn kiện Đại hội Đảng](https://vnexpress.net/ong-nguyen-van-nen-lam-thuong-truc-tieu-ban-van-kien-dai-hoi-dang-4931042.html) - 01:11 25/08/2025
-- 🧰 [Cấm cầu Cửa Hội để chống bão Kajiki](https://vnexpress.net/cam-cau-cua-hoi-de-chong-bao-kajiki-4931035.html) - 01:10 25/08/2025
-- 💃 [Ba người bị điện giật khi gia cố mái nhà chống bão Kajiki](https://vnexpress.net/ba-nguoi-bi-dien-giat-khi-gia-co-mai-nha-chong-bao-kajiki-4931021.html) - 01:03 25/08/2025
-- 🧰 [Bão Kajiki mạnh cấp 14, đổ bộ Thanh Hóa - Nghệ An vào chiều nay](https://vnexpress.net/bao-kajiki-manh-cap-14-do-bo-thanh-hoa-nghe-an-vao-chieu-nay-4931014.html) - 00:13 25/08/2025
-- 🚀 [Chạy vạy từng ngày để cứu con mắc ung thư máu](https://vnexpress.net/chay-vay-tung-ngay-de-cuu-con-mac-ung-thu-mau-4930785.html) - 17:40 24/08/2025
-- 🎊 [13 kỳ Đại hội Đảng](https://vnexpress.net/13-ky-dai-hoi-dang-4930267.html) - 17:00 24/08/2025
-- 🤭 [Đoàn diễu binh đi trên đường phố Thủ đô](https://vnexpress.net/doan-dieu-binh-di-tren-duong-pho-thu-do-4930986.html) - 16:18 24/08/2025
-- 🤗 [Gần 400 quân và dân đảo Cồn Cỏ vào hầm trú ẩn tránh bão](https://vnexpress.net/gan-400-quan-va-dan-dao-con-co-vao-ham-tru-an-tranh-bao-4930978.html) - 14:29 24/08/2025
-- 🌈 [Thủ tướng: Đặt an toàn tính mạng người dân lên trên hết trong ứng phó bão](https://vnexpress.net/thu-tuong-dat-an-toan-tinh-mang-nguoi-dan-len-tren-het-trong-ung-pho-bao-4930962.html) - 14:08 24/08/2025
-- 🦣 [Tạm dừng khai thác hai sân bay do ảnh hưởng bão](https://vnexpress.net/tam-dung-khai-thac-hai-san-bay-do-anh-huong-bao-4930956.html) - 13:16 24/08/2025
-- 🎡 [Hơn 16.000 quân nhân hợp luyện cùng khí tài](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955-tong-thuat.html) - 13:00 24/08/2025
-- 🦏 [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
-- 🎊 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
-- 🫶 [Bão Kajiki mạnh cấp 14, dự kiến đổ bộ Nghệ An - Hà Tĩnh](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
-- 🤔 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
-- 🤠 [Quân nhân, khí tài, pháo lễ sẵn sàng hợp luyện](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930902.html) - 08:30 24/08/2025
-- 🌜 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
-- 🕯 [Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới](https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html) - 07:24 24/08/2025
-- 🤔 [Người miền Trung chạy đua trước bão](https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html) - 05:02 24/08/2025
-- 🏊 [Lên phương án di dời hơn 586.000 người tránh bão Kajiki](https://vnexpress.net/len-phuong-an-di-doi-hon-586-000-nguoi-tranh-bao-kajiki-4930852.html) - 04:26 24/08/2025
-- 🌮 [31 máy bay lần đầu hợp luyện trên quảng trường Ba Đình](https://vnexpress.net/31-may-bay-lan-dau-hop-luyen-tren-quang-truong-ba-dinh-4930823.html) - 04:06 24/08/2025
-- 🫣 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4930843.html) - 03:39 24/08/2025
-- ⚗️ [Bão Kajiki mạnh lên cấp 12, hướng Nghệ An - Hà Tĩnh](https://vnexpress.net/bao-kajiki-manh-len-cap-12-huong-nghe-an-ha-tinh-4930807.html) - 02:08 24/08/2025
-- 🌜 [Cảnh ngổn ngang ở dự án nút giao lớn nhất TP HCM trễ tiến độ](https://vnexpress.net/canh-ngon-ngang-o-du-an-nut-giao-lon-nhat-tp-hcm-tre-tien-do-4930592.html) - 01:55 24/08/2025
-- 🌁 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784-tong-thuat.html) - 00:30 24/08/2025
-- 🐲 [&#39;Bão Kajiki nhiều khả năng gây tổ hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-to-hop-thien-tai-4930765.html) - 19:13 23/08/2025
-- ⛽️ [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
-- 🗽 [Đường phố Thủ đô rợp bóng cờ mừng Quốc khánh 2/9](https://vnexpress.net/duong-pho-thu-do-rop-bong-co-mung-quoc-khanh-2-9-4930755.html) - 17:00 23/08/2025
-- 🔥 [Sông Phố - nơi 10.000 người mừng độc lập 80 năm trước](https://vnexpress.net/song-pho-noi-10-000-nguoi-mung-doc-lap-80-nam-truoc-4923486.html) - 17:00 23/08/2025
-- 💯 [Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html) - 14:55 23/08/2025
-- 🦆 [Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi](https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html) - 11:29 23/08/2025
-- 🫣 [Bão Kajiki tăng ba cấp, gây mưa diện rộng](https://vnexpress.net/bao-kajiki-tang-ba-cap-gay-mua-dien-rong-4930687.html) - 11:28 23/08/2025
-- 🤡 [Tìm thấy thi thể người phụ nữ mất tích khi lên núi bắt ốc](https://vnexpress.net/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-len-nui-bat-oc-4930673.html) - 10:51 23/08/2025<!-- vnexpress-thoi-su:END -->
+- 🦒 [Khách ùn ứ ở Tân Sơn Nhất do lỗi hệ thống xuất cảnh](https://vnexpress.net/khach-un-u-o-tan-son-nhat-do-loi-he-thong-xuat-canh-4931724.html) - 08:37 26/08/2025
+- 🤓 [Quỹ Hy vọng chung tay cùng đồng bào vượt bão](https://vnexpress.net/quy-hy-vong-chung-tay-cung-dong-bao-vuot-bao-4931718.html) - 08:10 26/08/2025
+- ⚗️ [Ngư dân mò tài sản từ hàng loạt tàu chìm sau bão Kajiki](https://vnexpress.net/ngu-dan-mo-tai-san-tu-hang-loat-tau-chim-sau-bao-kajiki-4931626.html) - 07:00 26/08/2025
+- 🌊 [Hàng loạt công trình tốc mái, hư hỏng sau bão Kajiki](https://vnexpress.net/hang-loat-cong-trinh-toc-mai-hu-hong-sau-bao-kajiki-4931592.html) - 05:35 26/08/2025
+- 🎓 [Chung cư, nhà dân Hà Nội dựng đập, rào chắn ngăn nước ngập](https://vnexpress.net/chung-cu-nha-dan-ha-noi-dung-dap-rao-chan-ngan-nuoc-ngap-4931622.html) - 05:03 26/08/2025
+- 🔥 [Hơn 700 xã nguy cơ sạt lở, lũ quét](https://vnexpress.net/hon-700-xa-nguy-co-sat-lo-lu-quet-4931529.html) - 03:57 26/08/2025
+- 🦏 [Hàng loạt ôtô chết máy, chờ cứu hộ trên đường Hà Nội](https://vnexpress.net/hang-loat-oto-chet-may-cho-cuu-ho-tren-duong-ha-noi-4931547.html) - 03:41 26/08/2025
+- 👺 [Ba người chết, hơn 6.800 nhà tốc mái do bão Kajiki](https://vnexpress.net/ba-nguoi-chet-hon-6-800-nha-toc-mai-do-bao-kajiki-4931549.html) - 03:30 26/08/2025
+- 🧑‍🏫 [Giao thông Hà Nội hỗn loạn sau mưa lớn](https://vnexpress.net/giao-thong-ha-noi-hon-loan-sau-mua-lon-4931479.html) - 01:16 26/08/2025
+- 🚦 [Người ngã, cây đổ, thuyền phao xuất hiện giữa phố ngập Hà Nội](https://vnexpress.net/nhieu-tuyen-pho-ha-noi-ngap-sau-4931446-tong-thuat.html) - 00:05 26/08/2025
+- 🎉 [Bão Kajiki suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-kajiki-suy-yeu-thanh-ap-thap-nhiet-doi-4931438.html) - 23:06 25/08/2025
+- 🦒 [Cầu Rạch Miễu 2 xóa &#39;điểm đen&#39; ùn tắc ở quốc lộ nối Đồng Tháp – Vĩnh Long](https://vnexpress.net/cau-rach-mieu-2-xoa-diem-den-un-tac-o-quoc-lo-noi-dong-thap-vinh-long-4931070.html) - 23:00 25/08/2025
+- 🤗 [Khách đi tàu điện dịp 2/9 ở Hà Nội cần lưu ý gì?](https://vnexpress.net/khach-di-tau-dien-dip-2-9-o-ha-noi-can-luu-y-gi-4931406.html) - 18:33 25/08/2025
+- 💼 [GS Hoàng Xuân Hãn - học giả uyên bác yêu nước](https://vnexpress.net/gs-hoang-xuan-han-hoc-gia-uyen-bac-yeu-nuoc-4929999.html) - 18:20 25/08/2025
+- 🤩 [TP HCM dự kiến thu hồi 325 ha đất làm metro nối Cần Giờ](https://vnexpress.net/tp-hcm-du-kien-thu-hoi-325-ha-dat-lam-metro-noi-can-gio-4931371.html) - 17:00 25/08/2025
+- 🤡 [Dấu tích &#39;Vạn lý trường thành&#39; hơn 14 km ở Gia Lai](https://vnexpress.net/dau-tich-van-ly-truong-thanh-hon-14-km-o-gia-lai-4931349.html) - 17:00 25/08/2025
+- 💯 [Hàng quán, nhà dân tan hoang trong bão Kajiki](https://vnexpress.net/hang-quan-nha-dan-tan-hoang-trong-bao-kajiki-4931407.html) - 14:20 25/08/2025
+- 👺 [Cảnh sát lao xuống sông Cấm cứu người phụ nữ](https://vnexpress.net/canh-sat-lao-xuong-song-cam-cuu-nguoi-phu-nu-4931366.html) - 12:18 25/08/2025
+- 🌮 [&#39;Có tình trạng cán bộ lợi dụng chính sách nghỉ hưu trước tuổi&#39;](https://vnexpress.net/co-tinh-trang-can-bo-loi-dung-chinh-sach-nghi-huu-truoc-tuoi-4931369.html) - 10:46 25/08/2025
+- 🥸 [Quân y Việt Nam khám bệnh cho phạm nhân ở Nam Sudan](https://vnexpress.net/quan-y-viet-nam-kham-benh-cho-pham-nhan-o-nam-sudan-4931323.html) - 10:39 25/08/2025
+- 🐻 [Thanh niên tông gãy rào chắn đường sắt ở Đồng Nai](https://vnexpress.net/thanh-nien-tong-gay-rao-chan-duong-sat-o-dong-nai-4931324.html) - 09:25 25/08/2025
+- 👀 [Một người chết, hơn 600 nhà tốc mái do bão](https://vnexpress.net/truc-tiep-tin-bao-moi-nhat-ngay-25-8-4931231-tong-thuat.html) - 07:00 25/08/2025
+- 🤔 [Tổng Bí thư trao danh hiệu Anh hùng Lao động cho bà Nguyễn Thị Bình](https://vnexpress.net/tong-bi-thu-trao-danh-hieu-anh-hung-lao-dong-cho-ba-nguyen-thi-binh-4931227.html) - 06:09 25/08/2025
+- 🕯 [Ông Dương Anh Đức làm Trưởng ban Tuyên giáo và Dân vận Thành ủy TP HCM](https://vnexpress.net/ong-duong-anh-duc-lam-truong-ban-tuyen-giao-va-dan-van-thanh-uy-tp-hcm-4931222.html) - 05:46 25/08/2025
+- 😺 [Ôtô tông 6 xe máy dừng đèn đỏ ở Đồng Nai](https://vnexpress.net/oto-tong-6-xe-may-dung-den-do-o-dong-nai-4931128.html) - 03:29 25/08/2025
+- 🦆 [Cảnh sát giải cứu tài xế kẹt trong ôtô lao xuống mương](https://vnexpress.net/canh-sat-giai-cuu-tai-xe-ket-trong-oto-lao-xuong-muong-4931138.html) - 03:25 25/08/2025
+- 🧰 [Dừng tàu, đóng cao tốc trước khi bão đổ bộ](https://vnexpress.net/chay-dua-truoc-khi-bao-kajiki-do-bo-4931111-tong-thuat.html) - 03:00 25/08/2025
+- 🦍 [Tài xế lấy xe ba gác chở ôtô](https://vnexpress.net/tai-xe-lay-xe-ba-gac-cho-oto-4931118.html) - 02:58 25/08/2025
+- 🧰 [Ông Nguyễn Thanh Nghị làm Trưởng ban Chính sách, Chiến lược Trung ương](https://vnexpress.net/ong-nguyen-thanh-nghi-lam-truong-ban-chinh-sach-chien-luoc-trung-uong-4930999.html) - 01:31 25/08/2025
+- 💃 [Ông Trần Lưu Quang làm Bí thư Thành ủy TP HCM](https://vnexpress.net/ong-tran-luu-quang-lam-bi-thu-thanh-uy-tp-hcm-4931045.html) - 01:14 25/08/2025
+- 🧰 [Ông Nguyễn Văn Nên làm Thường trực Tiểu ban Văn kiện Đại hội Đảng](https://vnexpress.net/ong-nguyen-van-nen-lam-thuong-truc-tieu-ban-van-kien-dai-hoi-dang-4931042.html) - 01:11 25/08/2025
+- 🚀 [Cấm cầu Cửa Hội để chống bão Kajiki](https://vnexpress.net/cam-cau-cua-hoi-de-chong-bao-kajiki-4931035.html) - 01:10 25/08/2025
+- 🎊 [Ba người bị điện giật khi gia cố mái nhà chống bão Kajiki](https://vnexpress.net/ba-nguoi-bi-dien-giat-khi-gia-co-mai-nha-chong-bao-kajiki-4931021.html) - 01:03 25/08/2025
+- 🤭 [Bão Kajiki mạnh cấp 14, đổ bộ Thanh Hóa - Nghệ An vào chiều nay](https://vnexpress.net/bao-kajiki-manh-cap-14-do-bo-thanh-hoa-nghe-an-vao-chieu-nay-4931014.html) - 00:13 25/08/2025
+- 🤗 [Chạy vạy từng ngày để cứu con mắc ung thư máu](https://vnexpress.net/chay-vay-tung-ngay-de-cuu-con-mac-ung-thu-mau-4930785.html) - 17:40 24/08/2025
+- 🌈 [13 kỳ Đại hội Đảng](https://vnexpress.net/13-ky-dai-hoi-dang-4930267.html) - 17:00 24/08/2025
+- 🦣 [Đoàn diễu binh đi trên đường phố Thủ đô](https://vnexpress.net/doan-dieu-binh-di-tren-duong-pho-thu-do-4930986.html) - 16:18 24/08/2025
+- 🎡 [Gần 400 quân và dân đảo Cồn Cỏ vào hầm trú ẩn tránh bão](https://vnexpress.net/gan-400-quan-va-dan-dao-con-co-vao-ham-tru-an-tranh-bao-4930978.html) - 14:29 24/08/2025
+- 🦏 [Thủ tướng: Đặt an toàn tính mạng người dân lên trên hết trong ứng phó bão](https://vnexpress.net/thu-tuong-dat-an-toan-tinh-mang-nguoi-dan-len-tren-het-trong-ung-pho-bao-4930962.html) - 14:08 24/08/2025
+- 🎊 [Tạm dừng khai thác hai sân bay do ảnh hưởng bão](https://vnexpress.net/tam-dung-khai-thac-hai-san-bay-do-anh-huong-bao-4930956.html) - 13:16 24/08/2025
+- 🫶 [Hơn 16.000 quân nhân hợp luyện cùng khí tài](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930955-tong-thuat.html) - 13:00 24/08/2025
+- 🤔 [Di dân chống bão Kajiki](https://vnexpress.net/di-dan-chong-bao-kajiki-4930941.html) - 12:18 24/08/2025
+- 🤠 [Chiến sĩ hát, chụp hình cùng người dân trước giờ hợp luyện](https://vnexpress.net/chien-si-hat-chup-hinh-cung-nguoi-dan-truoc-gio-hop-luyen-4930959.html) - 11:51 24/08/2025
+- 🌜 [Bão Kajiki mạnh cấp 14, dự kiến đổ bộ Nghệ An - Hà Tĩnh](https://vnexpress.net/dien-tien-bao-kajiki-4930928.html) - 09:15 24/08/2025
+- 🕯 [Cấp tập sơ tán tài sản ở bãi tắm nổi tiếng miền Trung](https://vnexpress.net/cap-tap-so-tan-tai-san-o-bai-tam-noi-tieng-mien-trung-4930905.html) - 09:02 24/08/2025
+- 🤔 [Quân nhân, khí tài, pháo lễ sẵn sàng hợp luyện](https://vnexpress.net/truc-tiep-le-hop-luyen-dieu-binh-dieu-hanh-4930902.html) - 08:30 24/08/2025
+- 🏊 [Biển người đội mưa chào đón đoàn diễu binh về Ba Đình](https://vnexpress.net/bien-nguoi-doi-mua-chao-don-doan-dieu-binh-ve-ba-dinh-4930904.html) - 08:18 24/08/2025
+- 🌮 [Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới](https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html) - 07:24 24/08/2025
+- 🫣 [Người miền Trung chạy đua trước bão](https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html) - 05:02 24/08/2025
+- ⚗️ [Lên phương án di dời hơn 586.000 người tránh bão Kajiki](https://vnexpress.net/len-phuong-an-di-doi-hon-586-000-nguoi-tranh-bao-kajiki-4930852.html) - 04:26 24/08/2025
+- 🌜 [31 máy bay lần đầu hợp luyện trên quảng trường Ba Đình](https://vnexpress.net/31-may-bay-lan-dau-hop-luyen-tren-quang-truong-ba-dinh-4930823.html) - 04:06 24/08/2025
+- 🌁 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4930843.html) - 03:39 24/08/2025
+- 🐲 [Bão Kajiki mạnh lên cấp 12, hướng Nghệ An - Hà Tĩnh](https://vnexpress.net/bao-kajiki-manh-len-cap-12-huong-nghe-an-ha-tinh-4930807.html) - 02:08 24/08/2025
+- ⛽️ [Cảnh ngổn ngang ở dự án nút giao lớn nhất TP HCM trễ tiến độ](https://vnexpress.net/canh-ngon-ngang-o-du-an-nut-giao-lon-nhat-tp-hcm-tre-tien-do-4930592.html) - 01:55 24/08/2025
+- 🗽 [Trực thăng treo cờ Đảng, cờ Tổ quốc qua quảng trường Ba Đình](https://vnexpress.net/truc-thang-treo-co-dang-co-to-quoc-qua-quang-truong-ba-dinh-4930784-tong-thuat.html) - 00:30 24/08/2025
+- 🔥 [&#39;Bão Kajiki nhiều khả năng gây tổ hợp thiên tai&#39;](https://vnexpress.net/bao-kajiki-nhieu-kha-nang-gay-to-hop-thien-tai-4930765.html) - 19:13 23/08/2025
+- 💯 [Bác sĩ Cuba nặng lòng với Quảng Trị](https://vnexpress.net/bac-si-cuba-nang-long-voi-quang-tri-4930675.html) - 18:58 23/08/2025
+- 🦆 [Đường phố Thủ đô rợp bóng cờ mừng Quốc khánh 2/9](https://vnexpress.net/duong-pho-thu-do-rop-bong-co-mung-quoc-khanh-2-9-4930755.html) - 17:00 23/08/2025
+- 🫣 [Sông Phố - nơi 10.000 người mừng độc lập 80 năm trước](https://vnexpress.net/song-pho-noi-10-000-nguoi-mung-doc-lap-80-nam-truoc-4923486.html) - 17:00 23/08/2025
+- 🤡 [Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html) - 14:55 23/08/2025<!-- vnexpress-thoi-su:END -->
