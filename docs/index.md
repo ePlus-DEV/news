@@ -78,8 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Nhật Bản, Hàn Quốc sắp chốt gói đầu tư 900 tỷ USD vào Mỹ](https://vnexpress.net/nhat-ban-han-quoc-sap-chot-goi-dau-tu-900-ty-usd-vao-my-4931772.html) - 10:30 26/08/2025
 - 💂 [Sunshine Group dành 8 tỷ đồng cho hoạt động thiện nguyện](https://vnexpress.net/sunshine-group-danh-8-ty-dong-cho-hoat-dong-thien-nguyen-4931788.html) - 10:30 26/08/2025
 - 🚀 [Hai người tử vong khi dọn vệ sinh cống thoát nước](https://vnexpress.net/hai-nguoi-tu-vong-khi-don-ve-sinh-cong-thoat-nuoc-4931690.html) - 10:28 26/08/2025
-- 🕴 [Nhiều người uống cà phê ngọt vì sợ đắng](https://vnexpress.net/nhieu-nguoi-uong-ca-phe-ngot-vi-so-dang-4931778.html) - 10:25 26/08/2025
-- 🦆 [Mong được gặp anh giữa mùa thu Sài Gòn](https://vnexpress.net/mong-duoc-gap-anh-giua-mua-thu-sai-gon-4931813.html) - 10:25 26/08/2025<!-- vnexpress:END -->
+- 🕴 [Nhiều người uống cà phê ngọt vì sợ đắng](https://vnexpress.net/nhieu-nguoi-uong-ca-phe-ngot-vi-so-dang-4931778.html) - 10:25 26/08/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
