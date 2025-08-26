@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Chàng kỹ sư và sáng chế &#39;bịt mắt&#39; máy bay địch ở Trường Sơn](https://vnexpress.net/chang-ky-su-va-sang-che-bit-mat-may-bay-dich-o-truong-son-4927843.html) - 23:00 25/08/2025
-- 🎓 [Ám ảnh cảnh chen lấn, giẫm đạp, xả rác khi xem hợp luyện diễu binh](https://vnexpress.net/am-anh-canh-chen-lan-giam-dap-xa-rac-khi-xem-hop-luyen-dieu-binh-4931413.html) - 17:00 25/08/2025
+- 🎓 [Chen lấn, giẫm đạp, xả rác khi xem hợp luyện diễu binh](https://vnexpress.net/chen-lan-giam-dap-xa-rac-khi-xem-hop-luyen-dieu-binh-4931413.html) - 17:00 25/08/2025
 - 🚦 [Vingroup lắp tặng 830 cột đèn năng lượng mặt trời cho vùng khó khăn](https://vnexpress.net/vingroup-lap-tang-830-cot-den-nang-luong-mat-troi-cho-vung-kho-khan-4931397.html) - 13:45 25/08/2025
 - 🦣 [Mẹo nhỏ tiết kiệm lớn hóa đơn tiền điện](https://vnexpress.net/meo-nho-tiet-kiem-lon-hoa-don-tien-dien-4931319.html) - 09:26 25/08/2025
 - 🎓 [Thắng đường làm nước hàng có nên khuấy?](https://vnexpress.net/thang-duong-lam-nuoc-hang-co-nen-khuay-4931309.html) - 09:15 25/08/2025
