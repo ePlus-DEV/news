@@ -13,7 +13,7 @@ sidebar_position: 16
 - 🤔 [Công an Đà Nẵng thông tin về vụ cướp tiệm vàng ở Núi Thành](https://dantri.com.vn/phap-luat/cong-an-da-nang-thong-tin-ve-vu-cuop-tiem-vang-o-nui-thanh-20250827132538918.htm) - 07:04 27/08/2025
 - 🧠 [Chiến sự Ukraine 27/8: Nga tăng áp lực ở Pokrovsk](https://dantri.com.vn/the-gioi/chien-su-ukraine-278-nga-tang-ap-luc-o-pokrovsk-20250827112044279.htm) - 07:01 27/08/2025
 - 📝 [Nữ sinh viên nghèo cầu cứu cho người ba thêm cơ hội sống](https://dantri.com.vn/tam-long-nhan-ai/nu-sinh-vien-ngheo-cau-cuu-cho-nguoi-ba-them-co-hoi-song-20250818223323210.htm) - 06:30 27/08/2025
-- 🦏 [Mâm cỗ đặc biệt chờ xem sơ duyệt diễu binh](https://dantri.com.vn/xa-hoi/mam-co-dac-biet-cho-xem-so-duyet-dieu-binh-20250827090531749.htm) - 05:00 27/08/2025
+- 🦏 [Ấm lòng tinh thần đoàn kết, sẻ chia của người Việt](https://dantri.com.vn/xa-hoi/am-long-tinh-than-doan-ket-se-chia-cua-nguoi-viet-20250827090531749.htm) - 05:00 27/08/2025
 - 🥰 [Đã bắt được nghi phạm cướp tiệm vàng ở Đà Nẵng](https://dantri.com.vn/phap-luat/da-bat-duoc-nghi-pham-cuop-tiem-vang-o-da-nang-20250827112828499.htm) - 04:35 27/08/2025
 - 🤗 [Vụ tài xế xe cấp cứu thu 21 triệu đồng: Tạm đình chỉ 3 cán bộ, nhân viên](https://dantri.com.vn/xa-hoi/vu-tai-xe-xe-cap-cuu-thu-21-trieu-dong-tam-dinh-chi-3-can-bo-nhan-vien-20250827110356373.htm) - 04:25 27/08/2025
 - 🌈 [Cây cổ thụ bật gốc đổ đè trúng 2 ô tô trên phố Hà Nội](https://dantri.com.vn/xa-hoi/cay-co-thu-bat-goc-do-de-trung-2-o-to-tren-pho-ha-noi-20250827111018395.htm) - 04:16 27/08/2025
