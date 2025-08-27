@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U16 nữ Việt Nam thua Thái Lan ở bán kết giải Đông Nam Á 2025](https://dantri.com.vn/the-thao/u16-nu-viet-nam-thua-thai-lan-o-ban-ket-giai-dong-nam-a-2025-20250827181010585.htm) - 11:14 27/08/2025
-- 💯 [Đội tuyển bóng chuyền nữ Việt Nam 0-2 &lpar;16-21&rpar; Kenya](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-viet-nam-0-2-16-21-kenya-20250827165007708.htm) - 09:58 27/08/2025
+- 💯 [Đội tuyển bóng chuyền nữ Việt Nam thua Kenya, chia tay giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-bong-chuyen-nu-viet-nam-thua-kenya-chia-tay-giai-the-gioi-20250827165007708.htm) - 09:58 27/08/2025
 - ⛽️ [Báo Anh tiết lộ tương lai của Bruno Fernandes tại Man Utd](https://dantri.com.vn/the-thao/bao-anh-tiet-lo-tuong-lai-cua-bruno-fernandes-tai-man-utd-20250827161511829.htm) - 09:23 27/08/2025
 - 💃 [Xem trực tiếp trận tuyển bóng chuyền nữ Việt Nam gặp Kenya ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-bong-chuyen-nu-viet-nam-gap-kenya-o-dau-20250827093539348.htm) - 05:35 27/08/2025
 - 🌈 [Cơn địa chấn xuất hiện ở Champions League](https://dantri.com.vn/the-thao/con-dia-chan-xuat-hien-o-champions-league-20250827122622619.htm) - 05:26 27/08/2025
