@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lê Tuấn Minh hạ Carlsen nhờ nước thí xe](https://vnexpress.net/le-tuan-minh-ha-carlsen-nho-nuoc-thi-xe-4932274.html) - 10:10 27/08/2025
+- 🪜 [Lê Tuấn Minh thắng Carlsen nhờ nước thí xe](https://vnexpress.net/le-tuan-minh-thang-carlsen-nho-nuoc-thi-xe-4932274.html) - 10:10 27/08/2025
 - 🦩 [Runner khám phá cảnh sắc Nha Trang trên cung đường VnExpress Marathon](https://vnexpress.net/runner-kham-pha-canh-sac-nha-trang-tren-cung-duong-vnexpress-marathon-4931782.html) - 10:00 27/08/2025
 - 🧰 [Ai làm nên cuộc cách mạng kỹ thuật của bóng đá Nhật Bản?](https://vnexpress.net/ai-lam-nen-cuoc-cach-mang-ky-thuat-cua-bong-da-nhat-ban-4932170.html) - 08:26 27/08/2025
 - 🤗 [Gần 5.500 người hoàn thành giải chạy trực tuyến đồng hành VM Libera Nha Trang](https://vnexpress.net/gan-5-500-nguoi-hoan-thanh-giai-chay-truc-tuyen-dong-hanh-vm-libera-nha-trang-4931783.html) - 08:00 27/08/2025
