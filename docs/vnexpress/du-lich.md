@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Cách di chuyển bằng tàu điện đến các điểm xem diễu binh](https://vnexpress.net/cach-di-chuyen-bang-tau-dien-den-cac-diem-xem-dieu-binh-4931968.html) - 09:10 27/08/2025
 - 🪄 [Nhiều đặc quyền cho chủ thẻ Sasco Airport Lounge Privilege](https://vnexpress.net/nhieu-dac-quyen-cho-chu-the-sasco-airport-lounge-privilege-4932215.html) - 08:30 27/08/2025
-- 🦅 [Bán chỗ đẹp xem diễu binh, diễu hành](https://vnexpress.net/ban-cho-dep-xem-dieu-binh-dieu-hanh-4932119.html) - 07:46 27/08/2025
+- 🦅 [Bán chỗ đẹp xem diễu binh](https://vnexpress.net/ban-cho-dep-xem-dieu-binh-4932119.html) - 07:46 27/08/2025
 - 🕴 [Hà Nội dựng nhà bạt, trông xe miễn phí dịp 2/9](https://vnexpress.net/ha-noi-dung-nha-bat-trong-xe-mien-phi-dip-2-9-4932026.html) - 03:56 27/08/2025
 - 👀 [Mất tiền vì đặt nhầm khách sạn giả mạo ở Hà Nội dịp 2/9](https://vnexpress.net/mat-tien-vi-dat-nham-khach-san-gia-mao-o-ha-noi-dip-2-9-4931514.html) - 03:15 27/08/2025
 - 🎭 [Quán bar cho khách &#39;thử đi tù&#39; ở Trung Quốc](https://vnexpress.net/quan-bar-cho-khach-thu-di-tu-o-trung-quoc-4931759.html) - 22:30 26/08/2025
