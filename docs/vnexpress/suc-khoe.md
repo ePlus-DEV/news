@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [5 nhóm thực phẩm người tiểu đường cần tránh](https://vnexpress.net/5-nhom-thuc-pham-nguoi-tieu-duong-can-tranh-4932201.html) - 12:00 27/08/2025
 - 🥰 [Vô sinh thứ phát do nhiều bệnh phụ khoa](https://vnexpress.net/vo-sinh-thu-phat-do-nhieu-benh-phu-khoa-4932117.html) - 12:00 27/08/2025
-- 💡 [Cẩn trọng khi nhịn tiểu chờ xem sơ duyệt](https://vnexpress.net/can-trong-khi-nhin-tieu-cho-xem-so-duyet-4932179.html) - 11:34 27/08/2025
+- 💡 [Cẩn trọng khi nhịn tiểu](https://vnexpress.net/can-trong-khi-nhin-tieu-4932179.html) - 11:34 27/08/2025
 - 🤗 [Dấu hiệu ở mắt cảnh báo bệnh](https://vnexpress.net/dau-hieu-o-mat-canh-bao-benh-4932086.html) - 11:00 27/08/2025
 - 🪜 [Hơn 2.500 phụ nữ Việt tử vong mỗi năm do ung thư cổ tử cung](https://vnexpress.net/hon-2-500-phu-nu-viet-tu-vong-moi-nam-do-ung-thu-co-tu-cung-4932062.html) - 10:49 27/08/2025
 - 🕯 [Cách nào giữ vệ sinh tại nhà nghỉ, khách sạn khi chơi lễ?](https://vnexpress.net/cach-nao-giu-ve-sinh-tai-nha-nghi-khach-san-khi-choi-le-4932228.html) - 10:00 27/08/2025
