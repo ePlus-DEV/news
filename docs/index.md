@@ -62,7 +62,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Bắn chết người trong lúc mang súng &#39;đi dạo&#39;](https://vnexpress.net/ban-chet-nguoi-trong-luc-mang-sung-di-dao-4932335.html) - 13:07 27/08/2025
 - ⚗️ [Nước nào có gần 16.000 sân bay?](https://vnexpress.net/nuoc-nao-co-gan-16-000-san-bay-4931905.html) - 13:07 27/08/2025
 - 😺 [Nam Định thắng ngược ở V-League](https://vnexpress.net/nam-dinh-thang-nguoc-o-v-league-4932320.html) - 13:01 27/08/2025
-- 🔥 [Các đoàn diễu binh, khối xe pháo tỏa ra đường phố](https://vnexpress.net/cac-doan-dieu-binh-khoi-xe-phao-toa-ra-duong-pho-4932333-tong-thuat.html) - 13:00 27/08/2025
+- 🔥 [Hai tiếng phô diễn sức mạnh của lực lượng vũ trang](https://vnexpress.net/hai-tieng-pho-dien-suc-manh-cua-luc-luong-vu-trang-4932333-tong-thuat.html) - 13:00 27/08/2025
 - 🧰 [Bức tường bụi khổng lồ nuốt chửng thành phố Mỹ](https://vnexpress.net/buc-tuong-bui-khong-lo-nuot-chung-thanh-pho-my-4931929.html) - 13:00 27/08/2025
 - 🦒 [Thủ tướng Phạm Minh Chính sắp dự hội nghị SCO tại Trung Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-du-hoi-nghi-sco-tai-trung-quoc-4932322.html) - 12:45 27/08/2025
 - ⛽️ [Thiết bị rung bị lỗi khiến hàng loạt chìa khóa thông minh tê liệt](https://vnexpress.net/thiet-bi-rung-bi-loi-khien-hang-loat-chia-khoa-thong-minh-te-liet-4932327.html) - 12:37 27/08/2025
