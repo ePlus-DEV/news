@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd bị đội hạng Tư loại khỏi Cúp Liên đoàn](https://vnexpress.net/man-utd-bi-doi-hang-tu-loai-khoi-cup-lien-doan-4932380.html) - 21:16 27/08/2025
+- 🪜 [Man Utd bị đội hạng Tư loại khỏi Cup Liên đoàn](https://vnexpress.net/man-utd-bi-doi-hang-tu-loai-khoi-cup-lien-doan-4932380.html) - 21:16 27/08/2025
 - 🦩 [Thùy Linh vào vòng 1/8 giải cầu lông thế giới](https://vnexpress.net/thuy-linh-vao-vong-1-8-giai-cau-long-the-gioi-4932373.html) - 17:59 27/08/2025
 - 🧰 [Bóng chuyền Việt Nam toàn thua ở giải thế giới](https://vnexpress.net/bong-chuyen-viet-nam-toan-thua-o-giai-the-gioi-4932340.html) - 13:13 27/08/2025
 - 🤗 [Trận đấu V-League bị dừng vì mất điện](https://vnexpress.net/tran-dau-v-league-bi-dung-vi-mat-dien-4932337.html) - 13:10 27/08/2025
