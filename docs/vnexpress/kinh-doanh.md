@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá USD lên kịch trần](https://vnexpress.net/gia-usd-len-kich-tran-4932048.html) - 04:19 27/08/2025
 - 🐲 [Mỹ có thể thu 500 tỷ USD từ thuế nhập khẩu năm nay](https://vnexpress.net/my-co-the-thu-500-ty-usd-tu-thue-nhap-khau-nam-nay-4932004.html) - 04:12 27/08/2025
-- 🔥 [Giá vàng miếng lên 128 triệu đồng một lượng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-27-8-4931992.html) - 02:34 27/08/2025
+- 🔥 [Giá vàng miếng lên 128 triệu đồng một lượng](https://vnexpress.net/gia-vang-mieng-len-128-trieu-dong-mot-luong-4931992.html) - 02:34 27/08/2025
 - 🐵 [Giá vàng thế giới cao nhất 2 tuần](https://vnexpress.net/gia-vang-the-gioi-cao-nhat-2-tuan-4931947.html) - 01:24 27/08/2025
 - 🦅 [Đề xuất hạ thuế xuất khẩu vàng trang sức về 0%](https://vnexpress.net/de-xuat-ha-thue-xuat-khau-vang-trang-suc-ve-0-4931889.html) - 00:00 27/08/2025
 - 😺 [Bánh trung thu hình Capybara, Labubu hút khách](https://vnexpress.net/banh-trung-thu-hinh-capybara-labubu-hut-khach-4931780.html) - 23:05 26/08/2025
