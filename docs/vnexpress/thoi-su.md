@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe tăng, xe thiết giáp diễu qua lễ đài](https://vnexpress.net/xe-tang-xe-thiet-giap-dieu-qua-le-dai-4932333.html) - 13:00 27/08/2025
-- 🤓 [Quân nhân, khí tài tiến về Ba Đình sơ duyệt diễu binh](https://vnexpress.net/quan-nhan-khi-tai-tien-ve-ba-dinh-so-duyet-dieu-binh-4932315.html) - 11:38 27/08/2025
+- 🦒 [Các đoàn diễu binh, khối xe pháo tỏa ra đường phố](https://vnexpress.net/cac-doan-dieu-binh-khoi-xe-phao-toa-ra-duong-pho-4932333.html) - 13:00 27/08/2025
+- 🤓 [43 khối diễu binh, khí tài tiến về Ba Đình sơ duyệt](https://vnexpress.net/43-khoi-dieu-binh-khi-tai-tien-ve-ba-dinh-so-duyet-4932315.html) - 11:38 27/08/2025
 - ⚗️ [Lập biên bản xử phạt người xếp ghế giữ chỗ xem diễu binh rồi bán](https://vnexpress.net/lap-bien-ban-xu-phat-nguoi-xep-ghe-giu-cho-xem-dieu-binh-roi-ban-4932311.html) - 11:29 27/08/2025
 - 🌊 [Chim cổ rắn quý hiếm xuất hiện ở khu Phú Mỹ Hưng](https://vnexpress.net/chim-co-ran-quy-hiem-xuat-hien-o-khu-phu-my-hung-4932296.html) - 10:45 27/08/2025
 - 🎓 [Hàng loạt quốc lộ ở Thanh Hóa ngập lũ](https://vnexpress.net/hang-loat-quoc-lo-o-thanh-hoa-ngap-lu-4932260.html) - 10:39 27/08/2025
-- 🔥 [Quân - dân hòa giọng, khí tài tiến về Ba Đình](https://vnexpress.net/quan-dan-hoa-giong-khi-tai-tien-ve-ba-dinh-4932250.html) - 09:30 27/08/2025
+- 🔥 [Quân - dân hòa giọng ở Ba Đình](https://vnexpress.net/quan-dan-hoa-giong-o-ba-dinh-4932250-tong-thuat.html) - 09:30 27/08/2025
 - 🦏 [Trắng tay sau bão Kajiki](https://vnexpress.net/trang-tay-sau-bao-kajiki-4932116.html) - 09:06 27/08/2025
 - 👺 [Đồng Nai truy điệu, an táng 30 hài cốt liệt sĩ](https://vnexpress.net/dong-nai-truy-dieu-an-tang-30-hai-cot-liet-si-4932210.html) - 08:55 27/08/2025
 - 🧑‍🏫 [Cứu người đàn ông chới với trên dòng lũ xiết](https://vnexpress.net/cuu-nguoi-dan-ong-choi-voi-tren-dong-lu-xiet-4932203.html) - 08:45 27/08/2025
