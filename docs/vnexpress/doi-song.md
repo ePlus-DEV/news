@@ -4,19 +4,19 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Gia đình ba thế hệ vượt trăm cây số, xuyên đêm chờ diễu binh](https://vnexpress.net/gia-dinh-ba-the-he-vuot-tram-cay-so-xuyen-dem-cho-dieu-binh-4932108.html) - 05:32 27/08/2025
-- 🎓 [Mang kỷ vật của cha đã khuất đi xem diễu binh 2/9](https://vnexpress.net/mang-ky-vat-cua-cha-da-khuat-di-xem-dieu-binh-2-9-4931297.html) - 04:55 27/08/2025
-- 🚦 [Nỗi niềm của những người con xa nhà mùa Vu Lan](https://vnexpress.net/noi-niem-cua-nhung-nguoi-con-xa-nha-mua-vu-lan-4931899.html) - 04:00 27/08/2025
-- 🦣 [Những ngày ở chiến khu của gia đình Tổng đốc Vi Văn Định](https://vnexpress.net/nhung-ngay-o-chien-khu-cua-gia-dinh-tong-doc-vi-van-dinh-4930511.html) - 23:00 26/08/2025
-- 🎓 [Nấu cháo, tiếp tế cho người dân ở chung cư ngập nước, mất điện](https://vnexpress.net/nau-chao-tiep-te-cho-nguoi-dan-o-chung-cu-ngap-nuoc-mat-dien-4931884.html) - 17:00 26/08/2025
-- 🎭 [Hàng nghìn gia đình kết nối qua chuỗi vận động, âm nhạc](https://vnexpress.net/hang-nghin-gia-dinh-ket-noi-qua-chuoi-van-dong-am-nhac-4931739.html) - 10:00 26/08/2025
-- 🦅 [Vì sao nên bỏ đồng xu vào tủ lạnh?](https://vnexpress.net/vi-sao-nen-bo-dong-xu-vao-tu-lanh-4931216.html) - 09:44 26/08/2025
-- 🎃 [Vingroup mang nước sạch lên điểm trường vùng cao](https://vnexpress.net/vingroup-mang-nuoc-sach-len-diem-truong-vung-cao-4931775.html) - 09:30 26/08/2025
-- 💪 [Sông Tô Lịch &#39;lột xác&#39;, nước trong xanh sau mưa lớn](https://vnexpress.net/song-to-lich-lot-xac-nuoc-trong-xanh-sau-mua-lon-4931714.html) - 08:29 26/08/2025
-- 🐻 [Người miền Trung thức trắng đêm chạy bão](https://vnexpress.net/nguoi-mien-trung-thuc-trang-dem-chay-bao-4931525.html) - 05:06 26/08/2025
-- 🧠 [Chăm sóc sức khỏe đôi mắt cho cha mẹ](https://vnexpress.net/cham-soc-suc-khoe-doi-mat-cho-cha-me-4931612.html) - 05:00 26/08/2025
-- 🐘 [PNJ tham gia triển lãm thành tựu đất nước dịp 80 năm Quốc khánh](https://vnexpress.net/pnj-tham-gia-trien-lam-thanh-tuu-dat-nuoc-dip-80-nam-quoc-khanh-4931555.html) - 05:00 26/08/2025
-- 👹 [Điểm tổ chức loạt concert hút giới trẻ](https://vnexpress.net/diem-to-chuc-loat-concert-hut-gioi-tre-4931822.html) - 04:30 26/08/2025
+- 🚀 [Gia đình ba thế hệ xuyên đêm chờ xem diễu binh](https://vnexpress.net/gia-dinh-ba-the-he-xuyen-dem-cho-xem-dieu-binh-4932108.html) - 05:32 27/08/2025
+- 🎓 [Điểm tổ chức loạt concert hút giới trẻ](https://vnexpress.net/diem-to-chuc-loat-concert-hut-gioi-tre-4931822.html) - 05:30 27/08/2025
+- 🚦 [Mang kỷ vật của cha đã khuất đi xem diễu binh 2/9](https://vnexpress.net/mang-ky-vat-cua-cha-da-khuat-di-xem-dieu-binh-2-9-4931297.html) - 04:55 27/08/2025
+- 🦣 [Nỗi niềm của những người con xa nhà mùa Vu Lan](https://vnexpress.net/noi-niem-cua-nhung-nguoi-con-xa-nha-mua-vu-lan-4931899.html) - 04:00 27/08/2025
+- 🎓 [Những ngày ở chiến khu của gia đình Tổng đốc Vi Văn Định](https://vnexpress.net/nhung-ngay-o-chien-khu-cua-gia-dinh-tong-doc-vi-van-dinh-4930511.html) - 23:00 26/08/2025
+- 🎭 [Nấu cháo, tiếp tế cho người dân ở chung cư ngập nước, mất điện](https://vnexpress.net/nau-chao-tiep-te-cho-nguoi-dan-o-chung-cu-ngap-nuoc-mat-dien-4931884.html) - 17:00 26/08/2025
+- 🦅 [Hàng nghìn gia đình kết nối qua chuỗi vận động, âm nhạc](https://vnexpress.net/hang-nghin-gia-dinh-ket-noi-qua-chuoi-van-dong-am-nhac-4931739.html) - 10:00 26/08/2025
+- 🎃 [Vì sao nên bỏ đồng xu vào tủ lạnh?](https://vnexpress.net/vi-sao-nen-bo-dong-xu-vao-tu-lanh-4931216.html) - 09:44 26/08/2025
+- 💪 [Vingroup mang nước sạch lên điểm trường vùng cao](https://vnexpress.net/vingroup-mang-nuoc-sach-len-diem-truong-vung-cao-4931775.html) - 09:30 26/08/2025
+- 🐻 [Sông Tô Lịch &#39;lột xác&#39;, nước trong xanh sau mưa lớn](https://vnexpress.net/song-to-lich-lot-xac-nuoc-trong-xanh-sau-mua-lon-4931714.html) - 08:29 26/08/2025
+- 🧠 [Người miền Trung thức trắng đêm chạy bão](https://vnexpress.net/nguoi-mien-trung-thuc-trang-dem-chay-bao-4931525.html) - 05:06 26/08/2025
+- 🐘 [Chăm sóc sức khỏe đôi mắt cho cha mẹ](https://vnexpress.net/cham-soc-suc-khoe-doi-mat-cho-cha-me-4931612.html) - 05:00 26/08/2025
+- 👹 [PNJ tham gia triển lãm thành tựu đất nước dịp 80 năm Quốc khánh](https://vnexpress.net/pnj-tham-gia-trien-lam-thanh-tuu-dat-nuoc-dip-80-nam-quoc-khanh-4931555.html) - 05:00 26/08/2025
 - 💂 [Người Hà Nội bất lực trên đường vì mưa ngập](https://vnexpress.net/nguoi-ha-noi-bat-luc-tren-duong-vi-mua-ngap-4931480.html) - 02:45 26/08/2025
 - 🦍 [Gửi yêu thương đến cha mẹ mùa Vu Lan](https://vnexpress.net/gui-yeu-thuong-den-cha-me-mua-vu-lan-4931409.html) - 02:00 26/08/2025
 - 🧑‍🏫 [Chàng kỹ sư và sáng chế &#39;bịt mắt&#39; máy bay địch ở Trường Sơn](https://vnexpress.net/chang-ky-su-va-sang-che-bit-mat-may-bay-dich-o-truong-son-4927843.html) - 23:00 25/08/2025
