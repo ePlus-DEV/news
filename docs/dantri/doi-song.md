@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Đội ô, khoá ghế… ngồi kín vỉa hè từ đêm chờ xem hợp luyện diễu binh](https://dantri.com.vn/doi-song/doi-o-khoa-ghe-ngoi-kin-via-he-tu-dem-cho-xem-hop-luyen-dieu-binh-20250827082428973.htm) - 01:46 27/08/2025
+- 🥳 [Đội ô, khoá ghế… ngồi kín vỉa hè từ đêm chờ xem sơ duyệt diễu binh](https://dantri.com.vn/doi-song/doi-o-khoa-ghe-ngoi-kin-via-he-tu-dem-cho-xem-so-duyet-dieu-binh-20250827082428973.htm) - 01:46 27/08/2025
 - 🌁 [Vị giáo sư bỏ học ở Pháp về Việt Nam, bán nhà hiến 1.000 lạng vàng](https://dantri.com.vn/doi-song/vi-giao-su-bo-hoc-o-phap-ve-viet-nam-ban-nha-hien-1000-lang-vang-20250807162328514.htm) - 00:00 27/08/2025
 - 👀 [Chung cư Hà Nội ngập sâu, mất điện: Dân tát nước ở thang máy, nhờ chi viện](https://dantri.com.vn/doi-song/chung-cu-ha-noi-ngap-sau-mat-dien-dan-tat-nuoc-o-thang-may-nho-chi-vien-20250827004501648.htm) - 23:26 26/08/2025
 - 🐻 [Người đàn ông U80 ở An Giang kể chuyện hơn một thập kỷ chở vợ đi phượt](https://dantri.com.vn/doi-song/nguoi-dan-ong-u80-o-an-giang-ke-chuyen-hon-mot-thap-ky-cho-vo-di-phuot-20250825212607204.htm) - 22:55 26/08/2025
