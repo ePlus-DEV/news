@@ -29,7 +29,7 @@ sidebar_position: 1
 - 🥷 [Lũ bất ngờ dâng cao, nhiều thôn ven sông Con ngập lụt](https://dantri.com.vn/xa-hoi/lu-bat-ngo-dang-cao-nhieu-thon-ven-song-con-ngap-lut-20250827125747247.htm) - 06:15 27/08/2025
 - 👍 [Lượng rác thải &quot;khổng lồ&quot; sau bão Kajiki](https://dantri.com.vn/xa-hoi/luong-rac-thai-khong-lo-sau-bao-kajiki-20250827124605860.htm) - 06:10 27/08/2025
 - 🎬 [Nước lũ dâng cao, quốc lộ 1A qua Thanh Hóa ngập sâu](https://dantri.com.vn/xa-hoi/nuoc-lu-dang-cao-quoc-lo-1a-qua-thanh-hoa-ngap-sau-20250827121214448.htm) - 05:58 27/08/2025
-- 🦒 [Dàn khí tài quân sự cơ động về Quảng trường Ba Đình](https://dantri.com.vn/xa-hoi/dan-khi-tai-quan-su-co-dong-ve-quang-truong-ba-dinh-20250827090531749.htm) - 05:00 27/08/2025
+- 🦒 [15 khẩu pháo lễ trước giờ &quot;khai hỏa&quot;](https://dantri.com.vn/xa-hoi/15-khau-phao-le-truoc-gio-khai-hoa-20250827090531749.htm) - 05:00 27/08/2025
 - 🌊 [Vụ tài xế xe cấp cứu thu 21 triệu đồng: Tạm đình chỉ 3 cán bộ, nhân viên](https://dantri.com.vn/xa-hoi/vu-tai-xe-xe-cap-cuu-thu-21-trieu-dong-tam-dinh-chi-3-can-bo-nhan-vien-20250827110356373.htm) - 04:25 27/08/2025
 - 🧑‍💻 [Cây cổ thụ bật gốc đổ đè trúng 2 ô tô trên phố Hà Nội](https://dantri.com.vn/xa-hoi/cay-co-thu-bat-goc-do-de-trung-2-o-to-tren-pho-ha-noi-20250827111018395.htm) - 04:16 27/08/2025
 - 🕴 [&quot;Quốc hội phải dám mở đường, sửa đường và quyết định việc chưa có tiền lệ&quot;](https://dantri.com.vn/xa-hoi/quoc-hoi-phai-dam-mo-duong-sua-duong-va-quyet-dinh-viec-chua-co-tien-le-20250827110758291.htm) - 04:12 27/08/2025
