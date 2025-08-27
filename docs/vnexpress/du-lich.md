@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hàng nghìn khách đổ xô lên tàu Cát Linh đi xem diễu binh](https://vnexpress.net/hang-nghin-khach-do-xo-len-tau-cat-linh-di-xem-dieu-binh-4932302.html) - 11:23 27/08/2025
+- 💂 [Tàu Cát Linh - Hà Đông chật cứng người đi xem diễu binh](https://vnexpress.net/tau-cat-linh-ha-dong-chat-cung-nguoi-di-xem-dieu-binh-4932302.html) - 11:23 27/08/2025
 - 🪄 [Cách di chuyển bằng tàu điện đến các điểm xem diễu binh](https://vnexpress.net/cach-di-chuyen-bang-tau-dien-den-cac-diem-xem-dieu-binh-4931968.html) - 09:10 27/08/2025
 - 🦅 [Nhiều đặc quyền cho chủ thẻ Sasco Airport Lounge Privilege](https://vnexpress.net/nhieu-dac-quyen-cho-chu-the-sasco-airport-lounge-privilege-4932215.html) - 08:30 27/08/2025
 - 🕴 [Bán chỗ đẹp xem diễu binh](https://vnexpress.net/ban-cho-dep-xem-dieu-binh-4932119.html) - 07:46 27/08/2025
