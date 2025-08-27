@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Chính trị: Sẽ có bộ sách giáo khoa thống nhất toàn quốc](https://vnexpress.net/bo-chinh-tri-se-co-bo-sach-giao-khoa-thong-nhat-toan-quoc-4932028.html) - 03:17 27/08/2025
-- 🦆 [Bộ Chính trị: Đưa giáo dục Việt Nam vào top 20 thế giới](https://vnexpress.net/nghi-quyet-71-cua-bo-chinh-tri-ve-dot-pha-phat-trien-giao-duc-va-dao-tao-4931922.html) - 01:37 27/08/2025
+- 🤓 [Bộ Chính trị yêu cầu một bộ sách giáo khoa thống nhất toàn quốc](https://vnexpress.net/bo-chinh-tri-yeu-cau-mot-bo-sach-giao-khoa-thong-nhat-toan-quoc-4932028.html) - 03:17 27/08/2025
+- 🦆 [Giáo dục Việt Nam vào top 20 thế giới năm 2045](https://vnexpress.net/nghi-quyet-71-cua-bo-chinh-tri-ve-dot-pha-phat-trien-giao-duc-va-dao-tao-4931922.html) - 01:37 27/08/2025
 - 🦩 [Trường Đại học Anh Quốc Việt Nam chuyển đổi số toàn diện](https://vnexpress.net/truong-dai-hoc-anh-quoc-viet-nam-chuyen-doi-so-toan-dien-4931553.html) - 01:00 27/08/2025
 - 🌮 [Trở thành tân sinh viên ở tuổi 61](https://vnexpress.net/tro-thanh-tan-sinh-vien-o-tuoi-61-4931891.html) - 23:50 26/08/2025
 - 🔭 [Hàng chục thí sinh trượt oan được các đại học tiếp nhận](https://vnexpress.net/hang-chuc-thi-sinh-truot-oan-duoc-cac-dai-hoc-tiep-nhan-4931749.html) - 14:14 26/08/2025
