@@ -5,12 +5,12 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Khám phá Lạc Hồng 900 LX bản Chống đạn: Chịu 440 phát bắn, 11 lần nổ mìn](https://dantri.com.vn/o-to-xe-may/kham-pha-lac-hong-900-lx-ban-chong-dan-chiu-440-phat-ban-11-lan-no-min-20250828121341539.htm) - 08:06 28/08/2025
-- 🌈 [Tinh gọn bộ máy Chính phủ với việc giảm gần 40 đầu mối nhìn từ 25 năm trước](https://dantri.com.vn/noi-vu/tinh-gon-bo-may-chinh-phu-voi-viec-giam-gan-40-dau-moi-nhin-tu-25-nam-truoc-20250828102456082.htm) - 06:00 28/08/2025
-- 🐎 [Thành tựu 80 năm hợp tác quốc tế của ngành Nội vụ](https://dantri.com.vn/noi-vu/thanh-tuu-80-nam-hop-tac-quoc-te-cua-nganh-noi-vu-20250826173921116.htm) - 03:49 28/08/2025
-- 👹 [Chặng đường 80 năm vẻ vang của nền ngoại giao Việt Nam](https://dantri.com.vn/xa-hoi/chang-duong-80-nam-ve-vang-cua-nen-ngoai-giao-viet-nam-20250828070049018.htm) - 01:20 28/08/2025
-- 🫶 [Chính phủ - Hành trình 80 năm vì nước, vì dân](https://dantri.com.vn/xa-hoi/chinh-phu-hanh-trinh-80-nam-vi-nuoc-vi-dan-20250828065923259.htm) - 00:05 28/08/2025
-- ⛽️ [Anh hùng phi công đưa Tuyên ngôn độc lập và nắm đất Ba Đình lên vũ trụ](https://dantri.com.vn/doi-song/anh-hung-phi-cong-dua-tuyen-ngon-doc-lap-va-nam-dat-ba-dinh-len-vu-tru-20250827104950035.htm) - 23:50 27/08/2025
-- 🌜 [Ông Nguyễn Hồng Minh: “Việt Nam có thể giành Huy chương ở Olympic 2028”](https://dantri.com.vn/the-thao/ong-nguyen-hong-minh-viet-nam-co-the-gianh-huy-chuong-o-olympic-2028-20250827000154586.htm) - 23:00 27/08/2025
+- 🌈 [Ông Nguyễn Hồng Minh: “Việt Nam có thể giành Huy chương ở Olympic 2028”](https://dantri.com.vn/the-thao/ong-nguyen-hong-minh-viet-nam-co-the-gianh-huy-chuong-o-olympic-2028-20250827000154586.htm) - 08:00 28/08/2025
+- 🐎 [Tinh gọn bộ máy Chính phủ với việc giảm gần 40 đầu mối nhìn từ 25 năm trước](https://dantri.com.vn/noi-vu/tinh-gon-bo-may-chinh-phu-voi-viec-giam-gan-40-dau-moi-nhin-tu-25-nam-truoc-20250828102456082.htm) - 06:00 28/08/2025
+- 👹 [Thành tựu 80 năm hợp tác quốc tế của ngành Nội vụ](https://dantri.com.vn/noi-vu/thanh-tuu-80-nam-hop-tac-quoc-te-cua-nganh-noi-vu-20250826173921116.htm) - 03:49 28/08/2025
+- 🫶 [Chặng đường 80 năm vẻ vang của nền ngoại giao Việt Nam](https://dantri.com.vn/xa-hoi/chang-duong-80-nam-ve-vang-cua-nen-ngoai-giao-viet-nam-20250828070049018.htm) - 01:20 28/08/2025
+- ⛽️ [Chính phủ - Hành trình 80 năm vì nước, vì dân](https://dantri.com.vn/xa-hoi/chinh-phu-hanh-trinh-80-nam-vi-nuoc-vi-dan-20250828065923259.htm) - 00:05 28/08/2025
+- 🌜 [Anh hùng phi công đưa Tuyên ngôn độc lập và nắm đất Ba Đình lên vũ trụ](https://dantri.com.vn/doi-song/anh-hung-phi-cong-dua-tuyen-ngon-doc-lap-va-nam-dat-ba-dinh-len-vu-tru-20250827104950035.htm) - 23:50 27/08/2025
 - 💪 [&quot;Chàng 71 tuổi - nàng 64 tuổi&quot; lái mô tô chinh phục 20 cung đường Việt Nam](https://dantri.com.vn/du-lich/chang-71-tuoi-nang-64-tuoi-lai-mo-to-chinh-phuc-20-cung-duong-viet-nam-20250826180556145.htm) - 22:37 27/08/2025
 - 🎊 [Từ cô bé gảy đàn bầu gây sốt 8 năm trước thành &quot;hiện tượng nhạc đỏ&quot; tuổi 18](https://dantri.com.vn/giai-tri/tu-co-be-gay-dan-bau-gay-sot-8-nam-truoc-thanh-hien-tuong-nhac-do-tuoi-18-20250821143036231.htm) - 22:27 27/08/2025
 - 🔥 [Tổng Bí thư hỏi “người Nội vụ”: Bứt phá để hùng cường hay bỏ lỡ cơ hội?](https://dantri.com.vn/noi-vu/tong-bi-thu-hoi-nguoi-noi-vu-but-pha-de-hung-cuong-hay-bo-lo-co-hoi-20250827170650666.htm) - 11:08 27/08/2025
