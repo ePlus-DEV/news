@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đang bốc thăm vòng bảng Champions League: Ibrahimovic, Kaka ấn nút bốc thăm](https://dantri.com.vn/the-thao/dang-boc-tham-vong-bang-champions-league-ibrahimovic-kaka-an-nut-boc-tham-20250828230001066.htm) - 16:00 28/08/2025
+- 🎡 [Bốc thăm vòng bảng Champions League: Real đại chiến Man City, Barca gặp PSG](https://dantri.com.vn/the-thao/boc-tham-vong-bang-champions-league-real-dai-chien-man-city-barca-gap-psg-20250828230001066.htm) - 16:00 28/08/2025
 - 💯 [Thua CLB Công an TPHCM, HAGL chưa thoát khỏi nhóm cuối bảng V-League](https://dantri.com.vn/the-thao/thua-clb-cong-an-tphcm-hagl-chua-thoat-khoi-nhom-cuoi-bang-v-league-20250828220515826.htm) - 15:10 28/08/2025
 - ⛽️ [Ngoại binh lập hat-trick, CLB Công an Hà Nội đánh bại Hà Nội FC](https://dantri.com.vn/the-thao/ngoai-binh-lap-hat-trick-clb-cong-an-ha-noi-danh-bai-ha-noi-fc-20250828213109025.htm) - 14:55 28/08/2025
 - 💃 [Báo Trung Quốc ngỡ ngàng khi sao Việt kiều chọn tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-ngo-ngang-khi-sao-viet-kieu-chon-tuyen-viet-nam-20250828180433008.htm) - 11:21 28/08/2025
