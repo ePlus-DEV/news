@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Thu Quỳnh nói gì khi được dẫn đầu đội hình diễu hành nhiều sao hạng A?](https://dantri.com.vn/giai-tri/thu-quynh-noi-gi-khi-duoc-dan-dau-doi-hinh-dieu-hanh-nhieu-sao-hang-a-20250828120906655.htm) - 07:20 28/08/2025
 - 🔥 [Nhan sắc hoa hậu có gương mặt &quot;tỷ lệ vàng&quot; 2 lần góp mặt trong lễ diễu binh](https://dantri.com.vn/giai-tri/nhan-sac-hoa-hau-co-guong-mat-ty-le-vang-2-lan-gop-mat-trong-le-dieu-binh-20250828113408159.htm) - 06:40 28/08/2025
-- 🚀 [Ngọc Anh Miss Audition trước khi bị bắt: Đời tư kín tiếng, sống sang chảnh](https://dantri.com.vn/giai-tri/ngoc-anh-miss-audition-truoc-khi-bi-bat-doi-tu-kin-tieng-song-sang-chanh-20250828103225159.htm) - 05:12 28/08/2025
+- 🚀 [Ngọc Anh trước khi bị bắt: Đời tư kín tiếng, sống sang chảnh](https://dantri.com.vn/giai-tri/ngoc-anh-truoc-khi-bi-bat-doi-tu-kin-tieng-song-sang-chanh-20250828103225159.htm) - 05:12 28/08/2025
 - 🔥 [Taylor Swift được khuyên ký hợp đồng hôn nhân để bảo vệ tài sản tỷ USD](https://dantri.com.vn/giai-tri/taylor-swift-duoc-khuyen-ky-hop-dong-hon-nhan-de-bao-ve-tai-san-ty-usd-20250828084220210.htm) - 05:12 28/08/2025
 - 🌈 [Dương Hoàng Yến nói về khoảnh khắc ngơ ngác khi lạc vào khối thiếu nhi](https://dantri.com.vn/giai-tri/duong-hoang-yen-noi-ve-khoanh-khac-ngo-ngac-khi-lac-vao-khoi-thieu-nhi-20250828114552272.htm) - 05:07 28/08/2025
 - 📝 [Chủ nhân ca khúc 5,6 tỷ view “Gangnam Style” - Psy - bị khởi tố](https://dantri.com.vn/giai-tri/chu-nhan-ca-khuc-56-ty-view-gangnam-style-psy-bi-khoi-to-20250828095711603.htm) - 03:03 28/08/2025
