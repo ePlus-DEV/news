@@ -4,10 +4,10 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [VNeID khó truy cập sau thông tin người dân được tặng tiền](https://vnexpress.net/vneid-kho-truy-cap-sau-thong-tin-nguoi-dan-duoc-tang-tien-4932836.html) - 16:33 28/08/2025
+- 🎬 [VNeID khó truy cập sau thông tin người dân được tặng tiền](https://vnexpress.net/huong-dan-tich-hop-tai-khoan-an-sinh-xa-hoi-tren-vneid-4932836.html) - 16:33 28/08/2025
 - 🐎 [Thống đốc Fed kiện Tổng thống Trump](https://vnexpress.net/thong-doc-fed-kien-tong-thong-trump-4932823.html) - 16:16 28/08/2025
 - 🦍 [Hà Nội mưa lớn từ tối mai](https://vnexpress.net/ha-noi-mua-lon-tu-toi-mai-4932800.html) - 15:06 28/08/2025
-- 🏊 [Bốc thăm Champions League: Man Utd bị châm chọc](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html) - 15:00 28/08/2025
+- 🏊 [Real gặp Liverpool, Barca đấu PSG ở vòng bảng Champions League](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html) - 15:00 28/08/2025
 - 🎊 [Chỉ cần anh chân thành, mọi khác biệt đều trở thành điều để thương](https://vnexpress.net/chi-can-anh-chan-thanh-moi-khac-biet-deu-tro-thanh-dieu-de-thuong-4932471.html) - 15:00 28/08/2025
 - 🎃 [New Zealand hoan nghênh nhà khoa học Việt Nam đến học tập, nghiên cứu](https://vnexpress.net/new-zealand-hoan-nghenh-nha-khoa-hoc-viet-nam-den-hoc-tap-nghien-cuu-4932806.html) - 14:50 28/08/2025
 - 🧰 [Kinh tế Mỹ tăng trưởng vượt dự kiến](https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-kien-4932808.html) - 14:45 28/08/2025
