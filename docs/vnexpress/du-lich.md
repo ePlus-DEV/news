@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Người dân trải nghiệm chuyến bay mô hình Vietnam Airlines](https://vnexpress.net/nguoi-dan-trai-nghiem-chuyen-bay-mo-hinh-vietnam-airlines-4932818.html) - 14:45 28/08/2025
-- 🪄 [Khách xúc động xem triển lãm 80 năm thành tựu đất nước](https://vnexpress.net/khach-xuc-dong-xem-trien-lam-80-nam-thanh-tuu-dat-nuoc-4932795.html) - 14:29 28/08/2025
+- 🪄 [Khách bật khóc khi xem triển lãm 80 năm thành tựu đất nước](https://vnexpress.net/khach-bat-khoc-khi-xem-trien-lam-80-nam-thanh-tuu-dat-nuoc-4932795.html) - 14:29 28/08/2025
 - 🦅 [Món thịt xiên nướng chinh phục du khách khắp thế giới thế nào](https://vnexpress.net/mon-thit-xien-nuong-chinh-phuc-du-khach-khap-the-gioi-the-nao-4932676.html) - 11:43 28/08/2025
 - 🕴 [Sun Group hợp tác quốc tế đào tạo nhân lực hàng không, du lịch](https://vnexpress.net/sun-group-hop-tac-quoc-te-dao-tao-nhan-luc-hang-khong-du-lich-4932617.html) - 06:00 28/08/2025
 - 👀 [Hàng trăm điểm du lịch tại Nghệ An thiệt hại sau bão](https://vnexpress.net/hang-tram-diem-du-lich-tai-nghe-an-thiet-hai-sau-bao-4932352.html) - 03:26 28/08/2025
