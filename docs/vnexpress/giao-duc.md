@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái bỏ nghề vận động viên, thành thủ khoa bác sĩ y học cổ truyền](https://vnexpress.net/co-gai-bo-nghe-van-dong-vien-thanh-thu-khoa-bac-si-y-hoc-co-truyen-4932263.html) - 23:03 27/08/2025
+- 🤓 [Cô gái bỏ nghề vận động viên, thành thủ khoa trường Y](https://vnexpress.net/co-gai-bo-nghe-van-dong-vien-thanh-thu-khoa-truong-y-4932263.html) - 23:03 27/08/2025
 - 🦆 [Thứ trưởng Giáo dục: Phấn đấu đưa Tiếng Anh thành môn bắt buộc từ lớp 1](https://vnexpress.net/thu-truong-giao-duc-phan-dau-dua-tieng-anh-thanh-mon-bat-buoc-tu-lop-1-4932158.html) - 14:51 27/08/2025
 - 🦩 [Nước nào có gần 16.000 sân bay?](https://vnexpress.net/nuoc-nao-co-gan-16-000-san-bay-4931905.html) - 13:07 27/08/2025
 - 🌮 [Bộ Giáo dục sẽ sửa quy định dạy thêm, học thêm](https://vnexpress.net/bo-giao-duc-se-sua-thong-tu-29-ve-day-them-hoc-them-4932277.html) - 10:08 27/08/2025
