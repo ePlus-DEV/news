@@ -400,7 +400,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Đề xuất quy định về trình tự đăng ký tên miền](https://baochinhphu.vn/de-xuat-quy-dinh-ve-trinh-tu-dang-ky-ten-mien-10225082814520929.htm) - 16:47 28/08/2025
-- 🌜 [Trưng bày Triển lãm ‘Văn phòng Chính phủ - 80 năm đồng hành cùng dân tộc’](https://baochinhphu.vn/trung-bay-trien-lam-van-phong-chinh-phu-80-nam-dong-hanh-cung-dan-toc-102250828153539696.htm) - 16:38 28/08/2025
+- 🌜 [Triển lãm ‘Văn phòng Chính phủ - 80 năm đồng hành cùng dân tộc’](https://baochinhphu.vn/trung-bay-trien-lam-van-phong-chinh-phu-80-nam-dong-hanh-cung-dan-toc-102250828153539696.htm) - 16:38 28/08/2025
 - 🦆 [Quy định mới về cơ chế tài chính bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế](https://baochinhphu.vn/quy-dinh-moi-ve-co-che-tai-chinh-bao-hiem-xa-hoi-bao-hiem-that-nghiep-bao-hiem-y-te-102250828120804944.htm) - 16:34 28/08/2025
 - 🌝 [Nhìn lại hành trình 80 năm vẻ vang của QĐND Việt Nam qua Triển lãm Thành tựu đất nước](https://baochinhphu.vn/nhin-lai-hanh-trinh-80-nam-ve-vang-cua-qdnd-viet-nam-qua-trien-lam-thanh-tuu-dat-nuoc-102250828145235579.htm) - 16:10 28/08/2025
 - 🦣 [Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Quốc hội New Zealand](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-hoi-dam-voi-chu-tich-quoc-hoi-new-zealand-10225082815585512.htm) - 16:05 28/08/2025
