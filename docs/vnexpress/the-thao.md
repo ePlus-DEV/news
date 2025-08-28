@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bốc thăm Champions League](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html) - 15:00 28/08/2025
+- 🪜 [Real gặp Liverpool, Barca đấu PSG ở vòng bảng Champions League](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html) - 15:00 28/08/2025
 - 🦩 [Sinner với món nợ cần đòi ở vòng hai Mỹ Mở rộng 2025](https://vnexpress.net/sinner-voi-mon-no-can-doi-o-vong-hai-my-mo-rong-2025-4932772.html) - 12:34 28/08/2025
 - 🧰 [Đồng nghiệp và chuyên gia thông cảm với &#39;gã hề&#39; Medvedev](https://vnexpress.net/dong-nghiep-va-chuyen-gia-thong-cam-voi-ga-he-medvedev-4932555.html) - 09:17 28/08/2025
 - 🤗 [Djokovic - &#39;người khổng lồ&#39; cố thách thức thời gian](https://vnexpress.net/djokovic-nguoi-khong-lo-co-thach-thuc-thoi-gian-4932709.html) - 09:14 28/08/2025
