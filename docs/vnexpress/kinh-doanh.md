@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá vàng miếng lên sát 129 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-8-4932959.html) - 02:44 29/08/2025
 - 🐲 [Giá vàng thế giới cao nhất 5 tuần, Wall Street chưa dứt đà tăng](https://vnexpress.net/gia-vang-the-gioi-cao-nhat-5-tuan-wall-street-chua-dut-da-tang-4932878.html) - 01:00 29/08/2025
-- 🔥 [Người dân nhận 100.000 đồng dịp 2/9 như thế nào?](https://vnexpress.net/nhieu-ngan-hang-lien-ket-vneid-de-chi-tra-100-000-dong-dip-2-9-4932859.html) - 00:41 29/08/2025
+- 🔥 [Người dân nhận 100.000 đồng dịp 2/9 như thế nào?](https://vnexpress.net/nguoi-dan-nhan-100-000-dong-dip-2-9-nhu-the-nao-4932859.html) - 00:41 29/08/2025
 - 🐵 [Thuế quan của ông Trump giành lại vị thế cho nông sản Mỹ](https://vnexpress.net/thue-quan-cua-ong-trump-gianh-lai-vi-the-cho-nong-san-my-4932727.html) - 22:00 28/08/2025
 - 🦅 [Kinh tế Mỹ tăng trưởng vượt dự kiến](https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-kien-4932808.html) - 14:45 28/08/2025
 - 😺 [Chứng khoán VIX góp 150 tỷ lập công ty sàn giao dịch tài sản mã hóa](https://vnexpress.net/chung-khoan-vix-gop-150-ty-lap-cong-ty-san-giao-dich-tai-san-ma-hoa-4932744.html) - 12:40 28/08/2025
