@@ -159,7 +159,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [&#39;Bầu&#39; Đoan bị bắt khẩn cấp](https://thanhnien.vn/bau-doan-bi-bat-khan-cap-185250829215915572.htm) - 14:59 29/08/2025
 - 💼 [Đồng Nai: CSGT phát hiện nhiều trường hợp dương tính với ma túy](https://thanhnien.vn/dong-nai-csgt-phat-hien-nhieu-truong-hop-duong-tinh-voi-ma-tuy-185250829213413061.htm) - 14:57 29/08/2025
 - 🐻 [Vợ kém 30 tuổi của Lê Huỳnh bức xúc kể chuyện bị xâm phạm đời tư](https://thanhnien.vn/vo-kem-30-tuoi-cua-le-huynh-buc-xuc-ke-chuyen-bi-xam-pham-doi-tu-185250829200733224.htm) - 14:46 29/08/2025
-- 🤔 [Phát miễn phí thức ăn, đồ uống cho người xem diễu binh](https://thanhnien.vn/nguoi-dan-hat-vang-cac-bai-ca-cach-mang-cho-doan-dieu-binh-185250829193759111.htm) - 14:26 29/08/2025
+- 🤔 [Mở cửa cho người chờ xem diễu binh ngủ qua đêm miễn phí](https://thanhnien.vn/mo-cua-cho-nguoi-cho-xem-dieu-binh-ngu-qua-dem-mien-phi-185250829193759111.htm) - 14:26 29/08/2025
 - 📝 [Thời tiết Hà Nội ngày diễu binh: Khu vực nào có mưa?](https://thanhnien.vn/thoi-tiet-ha-noi-ngay-dieu-binh-khu-vuc-nao-co-mua-18525082921181901.htm) - 14:23 29/08/2025
 - 🥰 [Các nhà khoa học bàn về công nghệ chiến lược trong kỷ nguyên mới](https://thanhnien.vn/cac-nha-khoa-hoc-ban-ve-cong-nghe-chien-luoc-trong-ky-nguyen-moi-185250829201644818.htm) - 14:21 29/08/2025
 - 🐲 [Bộ Tài chính: Đảm bảo người dân nhận 100.000 đồng quà Quốc khánh trước 2.9](https://thanhnien.vn/bo-tai-chinh-dam-bao-nguoi-dan-nhan-100000-dong-qua-quoc-khanh-truoc-29-185250829205705209.htm) - 14:11 29/08/2025
