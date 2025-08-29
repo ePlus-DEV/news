@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Hàng nghìn cựu chiến binh, đội mưa, thức xuyên đêm chờ đón đoàn diễu binh](https://dantri.com.vn/xa-hoi/hang-nghin-cuu-chien-binh-doi-mua-thuc-xuyen-dem-cho-don-doan-dieu-binh-20250830014202412.htm) - 18:55 29/08/2025
-- 💼 [Sáng nay tổng duyệt lễ kỷ niệm, diễu binh, diễu hành mừng Quốc khánh 2/9](https://dantri.com.vn/xa-hoi/sang-nay-tong-duyet-le-ky-niem-dieu-binh-dieu-hanh-mung-quoc-khanh-29-20250829212050144.htm) - 17:03 29/08/2025
+- 💼 [Người dân mong trời sáng xem tổng duyệt diễu binh](https://dantri.com.vn/xa-hoi/nguoi-dan-mong-troi-sang-xem-tong-duyet-dieu-binh-20250829212050144.htm) - 17:03 29/08/2025
 - 🎊 [Nhiều nơi trên cả nước mưa rất to](https://dantri.com.vn/xa-hoi/nhieu-noi-tren-ca-nuoc-mua-rat-to-20250829193114248.htm) - 17:00 29/08/2025
 - 🙉 [Người dân TPHCM đội vali đi chơi lễ dưới mưa lớn](https://dantri.com.vn/xa-hoi/nguoi-dan-tphcm-doi-vali-di-choi-le-duoi-mua-lon-20250829202021748.htm) - 14:40 29/08/2025
 - 🕯 [Nhiều máy bay không thể hạ cánh ở Tân Sơn Nhất vì mưa lớn](https://dantri.com.vn/xa-hoi/nhieu-may-bay-khong-the-ha-canh-o-tan-son-nhat-vi-mua-lon-20250829205225835.htm) - 14:12 29/08/2025
