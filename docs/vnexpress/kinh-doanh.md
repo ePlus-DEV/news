@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng miếng lên sát 129 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-8-4932959.html) - 02:44 29/08/2025
+- ⛽️ [Giá vàng miếng vượt 129 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-8-4932959.html) - 02:44 29/08/2025
 - 🐲 [Giá vàng thế giới cao nhất 5 tuần, Wall Street chưa dứt đà tăng](https://vnexpress.net/gia-vang-the-gioi-cao-nhat-5-tuan-wall-street-chua-dut-da-tang-4932878.html) - 01:00 29/08/2025
 - 🔥 [Người dân nhận 100.000 đồng dịp 2/9 như thế nào?](https://vnexpress.net/nguoi-dan-nhan-100-000-dong-dip-2-9-nhu-the-nao-4932859.html) - 00:41 29/08/2025
 - 🐵 [Thuế quan của ông Trump giành lại vị thế cho nông sản Mỹ](https://vnexpress.net/thue-quan-cua-ong-trump-gianh-lai-vi-the-cho-nong-san-my-4932727.html) - 22:00 28/08/2025
