@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách trắng đêm giữ chỗ chờ xem tổng duyệt diễu binh](https://vnexpress.net/du-khach-trang-dem-giu-cho-cho-xem-tong-duyet-dieu-binh-4933308.html) - 16:17 29/08/2025
+- 💂 [Du khách trắng đêm giữ chỗ chờ xem tổng duyệt diễu binh](https://vnexpress.net/du-khach-trang-dem-giu-cho-cho-xem-tong-duyet-dieu-binh-4933308.html) - 17:00 29/08/2025
 - 🪄 [Sân bay Nhật trông ngóng khách sau tiên tri thảm họa từ truyện tranh](https://vnexpress.net/san-bay-nhat-trong-ngong-khach-sau-tien-tri-tham-hoa-tu-truyen-tranh-4932950.html) - 13:31 29/08/2025
 - 🦅 [Sun World Ha Long rực rỡ cờ hoa trước thềm 2/9](https://vnexpress.net/sun-world-ha-long-ruc-ro-co-hoa-truoc-them-2-9-4933232.html) - 13:00 29/08/2025
 - 🕴 [Việt Nam dẫn đầu trong lựa chọn điểm du lịch biển thay thế Thái Lan](https://vnexpress.net/viet-nam-dan-dau-trong-lua-chon-diem-du-lich-bien-thay-the-thai-lan-4933150.html) - 09:42 29/08/2025
