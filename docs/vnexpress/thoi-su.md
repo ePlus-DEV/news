@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người dân đội mưa chờ xem tổng duyệt diễu binh](https://vnexpress.net/nguoi-dan-doi-mua-cho-xem-tong-duyet-dieu-binh-4933299.html) - 14:43 29/08/2025
 - 🤓 [Điều chỉnh lịch bay tại hai sân bay do áp thấp nhiệt đới](https://vnexpress.net/dieu-chinh-lich-bay-tai-hai-san-bay-do-ap-thap-nhiet-doi-4933289.html) - 13:28 29/08/2025
-- ⚗️ [Đánh trống, hát Quốc ca trên phố](https://vnexpress.net/nguoi-dan-ve-ba-dinh-cho-xem-tong-duyet-dieu-binh-4933118.html) - 13:00 29/08/2025
+- ⚗️ [Thức xuyên đêm chờ xem tổng duyệt diễu binh](https://vnexpress.net/nguoi-dan-ve-ba-dinh-cho-xem-tong-duyet-dieu-binh-4933118.html) - 13:00 29/08/2025
 - 🌊 [Ông Phạm Gia Túc làm Chánh Văn phòng Trung ương Đảng](https://vnexpress.net/ong-pham-gia-tuc-lam-chanh-van-phong-trung-uong-dang-4933280.html) - 12:33 29/08/2025
 - 🎓 [Gần 120.000 tỷ đồng đầu tư vào Gia Lai](https://vnexpress.net/gan-120-000-ty-dong-dau-tu-vao-gia-lai-4933231.html) - 12:30 29/08/2025
 - 🔥 [Dòng xe ùn ứ dưới mưa giông ở Tân Sơn Nhất trước lễ 2/9](https://vnexpress.net/dong-xe-un-u-duoi-mua-giong-o-tan-son-nhat-truoc-le-2-9-4933261.html) - 11:00 29/08/2025
