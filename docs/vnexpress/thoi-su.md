@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quốc lộ 51 hư hỏng nặng do &#39;lượng xe tăng gấp 6 lần thiết kế&#39;](https://vnexpress.net/quoc-lo-51-hu-hong-nang-do-luong-xe-tang-gap-6-lan-thiet-ke-4933045.html) - 22:00 29/08/2025
 - 🤓 [Chính phủ chi trả 100.000 đồng dịp Quốc khánh qua tài khoản hoặc trực tiếp](https://vnexpress.net/chinh-phu-chi-tra-100-000-dong-dip-quoc-khanh-qua-tai-khoan-hoac-truc-tiep-4933327.html) - 20:57 29/08/2025
-- ⚗️ [Đội Trung Quốc tập dượt trong mưa trước tổng duyệt A80](https://vnexpress.net/quan-nhan-xe-phao-ve-ba-dinh-trong-dem-4933316.html) - 20:00 29/08/2025
+- ⚗️ [Các khối diễu binh tập kết trước Lăng Chủ tịch Hồ Chí Minh](https://vnexpress.net/quan-nhan-xe-phao-ve-ba-dinh-trong-dem-4933316.html) - 20:00 29/08/2025
 - 🌊 [Người miền Trung lo bão dồn dập](https://vnexpress.net/nguoi-mien-trung-lo-bao-don-dap-4933310.html) - 17:52 29/08/2025
 - 🎓 [Người dân đội mưa chờ xem tổng duyệt diễu binh](https://vnexpress.net/nguoi-dan-doi-mua-cho-xem-tong-duyet-dieu-binh-4933299.html) - 14:43 29/08/2025
 - 🔥 [Điều chỉnh lịch bay tại hai sân bay do áp thấp nhiệt đới](https://vnexpress.net/dieu-chinh-lich-bay-tai-hai-san-bay-do-ap-thap-nhiet-doi-4933289.html) - 13:28 29/08/2025
