@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Một tỷ phú đến vịnh Hạ Long du lịch dịp 2/9](https://vnexpress.net/mot-ty-phu-den-vinh-ha-long-du-lich-dip-2-9-4933055.html) - 06:44 29/08/2025
+- 💂 [Tỷ phú Mỹ đến vịnh Hạ Long du lịch dịp 2/9](https://vnexpress.net/ty-phu-my-den-vinh-ha-long-du-lich-dip-2-9-4933055.html) - 06:44 29/08/2025
 - 🪄 [Múa cột với cờ Thổ Nhĩ Kỳ, nữ du khách đối mặt án tù 5 năm](https://vnexpress.net/mua-cot-voi-co-tho-nhi-ky-nu-du-khach-doi-mat-an-tu-5-nam-4932997.html) - 04:21 29/08/2025
 - 🦅 [Trải nghiệm bắn súng hút khách tại triển lãm 80 năm](https://vnexpress.net/trai-nghiem-ban-sung-hut-khach-tai-trien-lam-80-nam-4932874.html) - 04:13 29/08/2025
 - 🕴 [Du lịch đêm Cần Thơ hút khách với phố đi bộ, lễ hội](https://vnexpress.net/du-lich-dem-can-tho-hut-khach-voi-pho-di-bo-le-hoi-4932782.html) - 04:00 29/08/2025
