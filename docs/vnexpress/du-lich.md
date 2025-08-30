@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách chen chúc trải nghiệm ẩm thực tại triển lãm 80 năm](https://vnexpress.net/du-khach-chen-chuc-trai-nghiem-am-thuc-tai-trien-lam-80-nam-4933533.html) - 10:01 30/08/2025
+- 💂 [Du khách chen chân trải nghiệm tại triển lãm 80 năm](https://vnexpress.net/du-khach-chen-chan-trai-nghiem-tai-trien-lam-80-nam-4933533.html) - 10:01 30/08/2025
 - 🪄 [Vietjet mở đường bay thẳng kết nối TP HCM với Manila](https://vnexpress.net/vietjet-mo-duong-bay-thang-ket-noi-tp-hcm-voi-manila-4933464.html) - 07:00 30/08/2025
 - 🦅 [5 điểm đến cho chuyến đi &#39;chữa lành&#39; dịp 2/9 từ Hà Nội](https://vnexpress.net/5-diem-den-cho-chuyen-di-chua-lanh-dip-2-9-tu-ha-noi-4931387.html) - 05:10 30/08/2025
 - 🕴 [7 quán cơm nhà Michelin khách nên thử ở Hà Nội dịp 2/9](https://vnexpress.net/7-quan-com-nha-michelin-khach-nen-thu-o-ha-noi-dip-2-9-4933031.html) - 05:00 30/08/2025
