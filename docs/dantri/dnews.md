@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Mưa đỏ&quot;: Cơn sốt chưa từng có, vượt mốc 300 tỷ để xô đổ kỷ lục Trấn Thành?](https://dantri.com.vn/giai-tri/mua-do-con-sot-chua-tung-co-vuot-moc-300-ty-de-xo-do-ky-luc-tran-thanh-20250829085943725.htm) - 23:00 30/08/2025
+- 🤠 [&quot;Mưa đỏ&quot;: Cơn sốt chưa từng có, vượt mốc 300 tỷ phá kỷ lục phim Trấn Thành?](https://dantri.com.vn/giai-tri/mua-do-con-sot-chua-tung-co-vuot-moc-300-ty-pha-ky-luc-phim-tran-thanh-20250829085943725.htm) - 23:00 30/08/2025
 - 🌈 [40 năm đổi mới đưa đất nước bứt phá, người dân hưởng thành quả phát triển](https://dantri.com.vn/noi-vu/40-nam-doi-moi-dua-dat-nuoc-but-pha-nguoi-dan-huong-thanh-qua-phat-trien-20250826171607892.htm) - 23:00 30/08/2025
 - 🐎 [Cách dùng ChatGPT tạo ảnh búp bê từ gương mặt của bạn để chào mừng ngày 2/9](https://dantri.com.vn/cong-nghe/cach-dung-chatgpt-tao-anh-bup-be-tu-guong-mat-cua-ban-de-chao-mung-ngay-29-20250830010653901.htm) - 00:37 30/08/2025
 - 👹 [Cha đẻ của &quot;Gangnam Style&quot;: &quot;Gã tâm thần&quot; khác biệt sở hữu MV 5,6 tỷ view](https://dantri.com.vn/giai-tri/cha-de-cua-gangnam-style-ga-tam-than-khac-biet-so-huu-mv-56-ty-view-20250829105623069.htm) - 00:00 30/08/2025
