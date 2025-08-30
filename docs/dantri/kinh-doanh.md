@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Vietcoco mang tinh hoa dừa Việt hòa nhịp cùng không khí đại lễ Quốc khánh 2/9](https://dantri.com.vn/kinh-doanh/vietcoco-mang-tinh-hoa-dua-viet-hoa-nhip-cung-khong-khi-dai-le-quoc-khanh-29-20250830104343735.htm) - 06:30 30/08/2025
-- 🦆 [Thông tin chính thức về cách nhận quà 100.000 đồng dịp Quốc khánh](https://dantri.com.vn/kinh-doanh/thong-tin-chinh-thuc-ve-cach-nhan-qua-100000-dong-dip-quoc-khanh-20250830124230907.htm) - 05:45 30/08/2025
+- 🦆 [Hôm nay, người dân bắt đầu nhận quà 100.000 đồng dịp Quốc khánh](https://dantri.com.vn/kinh-doanh/hom-nay-nguoi-dan-bat-dau-nhan-qua-100000-dong-dip-quoc-khanh-20250830124230907.htm) - 05:45 30/08/2025
 - 🦄 [Thủ tướng: Khẩn trương tặng quà 100.000 đồng cho nhân dân dịp 2/9](https://dantri.com.vn/kinh-doanh/thu-tuong-khan-truong-tang-qua-100000-dong-cho-nhan-dan-dip-29-20250830110943659.htm) - 04:15 30/08/2025
 - 🌝 [Hướng dẫn nhận 100.000 đồng dịp 2/9: Ngân hàng vạch trần chiêu lừa đảo](https://dantri.com.vn/kinh-doanh/huong-dan-nhan-100000-dong-dip-29-ngan-hang-vach-tran-chieu-lua-dao-20250830091053945.htm) - 04:06 30/08/2025
 - 💃 [Bão Nongfa áp sát đất liền, loạt chuyến bay bị điều chỉnh lịch](https://dantri.com.vn/kinh-doanh/bao-nongfa-ap-sat-dat-lien-loat-chuyen-bay-bi-dieu-chinh-lich-20250830104936445.htm) - 04:05 30/08/2025
