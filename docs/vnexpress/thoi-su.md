@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc từ Dầu Giây đi Vĩnh Hảo ùn tắc nhiều đoạn](https://vnexpress.net/cao-toc-tu-dau-giay-di-vinh-hao-un-tac-nhieu-doan-4933522.html) - 10:05 30/08/2025
+- 🦒 [Cao tốc từ Dầu Giây đi Vĩnh Hảo kẹt xe nhiều đoạn](https://vnexpress.net/cao-toc-tu-dau-giay-di-vinh-hao-ket-xe-nhieu-doan-4933522.html) - 10:05 30/08/2025
 - 🤓 [Cháy bãi xe dưới chân cầu Vĩnh Tuy](https://vnexpress.net/chay-bai-xe-duoi-chan-cau-vinh-tuy-4933497.html) - 08:17 30/08/2025
 - ⚗️ [Bão cấp 8 vào Hà Tĩnh - Quảng Trị, nhiều bản bị chia cắt](https://vnexpress.net/bao-cap-8-vao-ha-tinh-quang-tri-nhieu-ban-bi-chia-cat-4933458.html) - 07:53 30/08/2025
 - 🌊 [Đà Nẵng khởi công nhà ga hàng hóa mới tại sân bay quốc tế](https://vnexpress.net/da-nang-khoi-cong-nha-ga-hang-hoa-moi-tai-san-bay-quoc-te-4933434.html) - 07:35 30/08/2025
