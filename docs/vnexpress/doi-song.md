@@ -8,7 +8,7 @@ sidebar_position: 6
 - 🎓 [Đằng sau làn sóng người &#39;bốc hơi&#39; ở Nhật Bản](https://vnexpress.net/dang-sau-lan-song-nguoi-boc-hoi-o-nhat-ban-4933065.html) - 04:25 30/08/2025
 - 🚦 [Nở rộ dịch vụ ăn theo diễu binh](https://vnexpress.net/no-ro-dich-vu-an-theo-dieu-binh-4933279.html) - 04:08 30/08/2025
 - 🦣 [Mô hình y tế xanh 2.400 tỷ phía Tây TP HCM](https://vnexpress.net/mo-hinh-y-te-xanh-2-400-ty-phia-tay-tp-hcm-4933313.html) - 02:00 30/08/2025
-- 🎓 [Kiều bào về nước xem diễu binh](https://vnexpress.net/kieu-bao-ve-nuoc-xem-dieu-binh-4933305.html) - 23:29 29/08/2025
+- 🎓 [Nhiều kiều bào gác công việc, về nước xem diễu binh](https://vnexpress.net/nhieu-kieu-bao-gac-cong-viec-ve-nuoc-xem-dieu-binh-4933305.html) - 23:29 29/08/2025
 - 🎭 [Bàn giao công trình vệ sinh và thư viện điện tử trước năm học mới](https://vnexpress.net/ban-giao-cong-trinh-ve-sinh-va-thu-vien-dien-tu-truoc-nam-hoc-moi-4933282.html) - 18:09 29/08/2025
 - 🦅 [Những &#39;quản ca&#39; khuấy động không khí trước giờ tổng duyệt diễu binh](https://vnexpress.net/nhung-quan-ca-khuay-dong-khong-khi-truoc-gio-tong-duyet-dieu-binh-4933230.html) - 13:21 29/08/2025
 - 🎃 [Khánh Hòa sắp có đêm nhạc mừng 80 năm Quốc khánh tại CaraWorld](https://vnexpress.net/khanh-hoa-sap-co-dem-nhac-mung-80-nam-quoc-khanh-tai-caraworld-4933278.html) - 13:00 29/08/2025
