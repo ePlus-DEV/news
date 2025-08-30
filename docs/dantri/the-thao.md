@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Bùi Tiến Dũng ghi bàn giúp Thể Công Viettel đánh bại CLB TPHCM](https://dantri.com.vn/the-thao/bui-tien-dung-ghi-ban-giup-the-cong-viettel-danh-bai-clb-tphcm-20250830224047120.htm) - 15:42 30/08/2025
 - 💯 [Chelsea vươn lên dẫn đầu bảng xếp hạng Ngoại hạng Anh](https://dantri.com.vn/the-thao/chelsea-vuon-len-dan-dau-bang-xep-hang-ngoai-hang-anh-20250830214136506.htm) - 14:42 30/08/2025
-- ⛽️ [Man Utd vất vả hạ Burnley nhờ quả phạt đền ở phút bù giờ](https://dantri.com.vn/the-thao/man-utd-vat-va-ha-burnley-nho-qua-phat-den-o-phut-bu-gio-20250830205952296.htm) - 13:59 30/08/2025
+- ⛽️ [Man Utd nhọc nhằn hạ Burnley nhờ quả phạt đền ở phút bù giờ](https://dantri.com.vn/the-thao/man-utd-nhoc-nhan-ha-burnley-nho-qua-phat-den-o-phut-bu-gio-20250830205952296.htm) - 13:59 30/08/2025
 - 💃 [Man Utd nhận cú sốc ở vụ Antony](https://dantri.com.vn/the-thao/man-utd-nhan-cu-soc-o-vu-antony-20250830193304505.htm) - 12:33 30/08/2025
 - 🌈 [C.Ronaldo lập siêu kỷ lục rất khó phá vỡ](https://dantri.com.vn/the-thao/cronaldo-lap-sieu-ky-luc-rat-kho-pha-vo-20250830191250750.htm) - 12:12 30/08/2025
 - 🦅 [Cố gắng kháng cáo, Đại kiện tướng cờ vua quốc tế bị phạt nặng thêm](https://dantri.com.vn/the-thao/co-gang-khang-cao-dai-kien-tuong-co-vua-quoc-te-bi-phat-nang-them-20250830162422097.htm) - 10:02 30/08/2025
