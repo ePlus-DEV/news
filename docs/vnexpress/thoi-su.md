@@ -9,11 +9,11 @@ sidebar_position: 1
 - ⚗️ [&#39;Hổ mang chúa&#39; Su-30MK2 thả mồi bẫy nhiệt trên Ba Đình](https://vnexpress.net/ho-mang-chua-su-30mk2-tha-moi-bay-nhiet-tren-ba-dinh-4933373.html) - 01:48 30/08/2025
 - 🌊 [Những công trình giao thông biểu tượng trong 80 năm qua](https://vnexpress.net/nhung-cong-trinh-giao-thong-bieu-tuong-trong-80-nam-qua-4932791.html) - 00:30 30/08/2025
 - 🎓 [Tìm thấy hài cốt liệt sĩ cùng vòng tay ký hiệu &#39;SH-18-15X&#39;](https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-vong-tay-ky-hieu-sh-18-15x-4933222.html) - 23:36 29/08/2025
-- 🔥 [Đoàn diễu binh được người dân cổ vũ nhiệt tình](https://vnexpress.net/bat-dau-tong-duyet-dieu-binh-dieu-hanh-a80-4933337.html) - 23:30 29/08/2025
+- 🔥 [Các quân binh chủng phô diễn sức mạnh trên không và dưới đất](https://vnexpress.net/bat-dau-tong-duyet-dieu-binh-dieu-hanh-a80-4933337.html) - 23:30 29/08/2025
 - 🦏 [Áp thấp nhiệt đới mạnh lên thành bão, gây mưa cho miền Trung](https://vnexpress.net/ap-thap-nhiet-doi-bat-dau-gay-mua-cho-mien-trung-4933333.html) - 23:04 29/08/2025
 - 👺 [Đường kết nối sân bay Long Thành hỏng nặng do &#39;lượng xe tăng gấp 6 lần&#39;](https://vnexpress.net/duong-ket-noi-san-bay-long-thanh-hong-nang-do-luong-xe-tang-gap-6-lan-4933045.html) - 22:00 29/08/2025
 - 🧑‍🏫 [Chính phủ tặng 100.000 đồng dịp Quốc khánh qua tài khoản hoặc trực tiếp](https://vnexpress.net/chinh-phu-tang-100-000-dong-dip-quoc-khanh-qua-tai-khoan-hoac-truc-tiep-4933327.html) - 20:57 29/08/2025
-- 🚦 [Quân nhân, xe pháo về Ba Đình trong đêm mưa](https://vnexpress.net/quan-nhan-xe-phao-ve-ba-dinh-trong-dem-4933316.html) - 20:00 29/08/2025
+- 🚦 [Quân nhân, xe pháo về Ba Đình trong đêm mưa](https://vnexpress.net/quan-nhan-xe-phao-ve-ba-dinh-trong-dem-4933316-tong-thuat.html) - 20:00 29/08/2025
 - 🎉 [Người miền Trung lo bão dồn dập](https://vnexpress.net/nguoi-mien-trung-lo-bao-don-dap-4933310.html) - 17:52 29/08/2025
 - 🦒 [Người dân đội mưa chờ xem tổng duyệt diễu binh](https://vnexpress.net/nguoi-dan-doi-mua-cho-xem-tong-duyet-dieu-binh-4933299.html) - 14:43 29/08/2025
 - 🤗 [Điều chỉnh lịch bay tại hai sân bay do áp thấp nhiệt đới](https://vnexpress.net/dieu-chinh-lich-bay-tai-hai-san-bay-do-ap-thap-nhiet-doi-4933289.html) - 13:28 29/08/2025
