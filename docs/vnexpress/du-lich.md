@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt dời lịch đi tour quốc tế, ở lại xem diễu binh](https://vnexpress.net/khach-viet-doi-lich-di-tour-quoc-te-o-lai-xem-dieu-binh-4933441.html) - 17:00 30/08/2025
-- 🪄 [Du khách chen chân trải nghiệm tại triển lãm 80 năm](https://vnexpress.net/du-khach-chen-chan-trai-nghiem-tai-trien-lam-80-nam-4933533.html) - 10:01 30/08/2025
-- 🦅 [Vietjet mở đường bay thẳng kết nối TP HCM với Manila](https://vnexpress.net/vietjet-mo-duong-bay-thang-ket-noi-tp-hcm-voi-manila-4933464.html) - 07:00 30/08/2025
-- 🕴 [5 điểm đến cho chuyến đi &#39;chữa lành&#39; dịp 2/9 từ Hà Nội](https://vnexpress.net/5-diem-den-cho-chuyen-di-chua-lanh-dip-2-9-tu-ha-noi-4931387.html) - 05:10 30/08/2025
-- 👀 [7 quán cơm nhà Michelin khách nên thử ở Hà Nội dịp 2/9](https://vnexpress.net/7-quan-com-nha-michelin-khach-nen-thu-o-ha-noi-dip-2-9-4933031.html) - 05:00 30/08/2025
-- 🎭 [Những lưu ý khi xem triển lãm 80 năm ở Đông Anh](https://vnexpress.net/nhung-luu-y-khi-xem-trien-lam-80-nam-o-dong-anh-4933253.html) - 03:13 30/08/2025
-- 🦒 [Du khách &#39;mách&#39; 4 trải nghiệm không thể bỏ lỡ tại triển lãm 80 năm](https://vnexpress.net/du-khach-mach-4-trai-nghiem-khong-the-bo-lo-tai-trien-lam-80-nam-4933379.html) - 01:51 30/08/2025
-- 👨‍🏫 [Hàng quán mở xuyên đêm phục vụ khách xem tổng duyệt diễu binh](https://vnexpress.net/hang-quan-mo-xuyen-dem-phuc-vu-khach-xem-tong-duyet-dieu-binh-4933315.html) - 23:31 29/08/2025
-- ⚗️ [Món bún măng bò nguồn gốc Lào hút khách tại TP HCM](https://vnexpress.net/mon-bun-mang-bo-nguon-goc-lao-hut-khach-tai-tp-hcm-4920751.html) - 23:00 29/08/2025
-- 🥸 [Du khách trắng đêm giữ chỗ chờ xem tổng duyệt diễu binh](https://vnexpress.net/du-khach-trang-dem-giu-cho-cho-xem-tong-duyet-dieu-binh-4933308.html) - 17:00 29/08/2025
-- 🤠 [Sân bay Nhật trông ngóng khách sau tiên tri thảm họa từ truyện tranh](https://vnexpress.net/san-bay-nhat-trong-ngong-khach-sau-tien-tri-tham-hoa-tu-truyen-tranh-4932950.html) - 13:31 29/08/2025
-- 🚀 [Sun World Ha Long rực rỡ cờ hoa trước thềm 2/9](https://vnexpress.net/sun-world-ha-long-ruc-ro-co-hoa-truoc-them-2-9-4933232.html) - 13:00 29/08/2025
-- 💻 [Việt Nam dẫn đầu trong lựa chọn điểm du lịch biển thay thế Thái Lan](https://vnexpress.net/viet-nam-dan-dau-trong-lua-chon-diem-du-lich-bien-thay-the-thai-lan-4933150.html) - 09:42 29/08/2025
-- 💼 [Tỷ phú Mỹ đến vịnh Hạ Long du lịch dịp 2/9](https://vnexpress.net/ty-phu-my-den-vinh-ha-long-du-lich-dip-2-9-4933055.html) - 06:44 29/08/2025
-- 🤡 [Múa cột với cờ Thổ Nhĩ Kỳ, nữ du khách đối mặt án tù 5 năm](https://vnexpress.net/mua-cot-voi-co-tho-nhi-ky-nu-du-khach-doi-mat-an-tu-5-nam-4932997.html) - 04:21 29/08/2025
-- 🐵 [Trải nghiệm bắn súng hút khách tại triển lãm 80 năm](https://vnexpress.net/trai-nghiem-ban-sung-hut-khach-tai-trien-lam-80-nam-4932874.html) - 04:13 29/08/2025
-- 😺 [Du lịch đêm Cần Thơ hút khách với phố đi bộ, lễ hội](https://vnexpress.net/du-lich-dem-can-tho-hut-khach-voi-pho-di-bo-le-hoi-4932782.html) - 04:00 29/08/2025
-- 🌈 [Lưu ý khi ngắm phi đội &#39;hổ mang chúa&#39; SU-30MK2 trình diễn](https://vnexpress.net/luu-y-khi-ngam-phi-doi-ho-mang-chua-su-30mk2-trinh-dien-4932539.html) - 01:41 29/08/2025
-- ⚗️ [Những biểu tượng du lịch nổi tiếng của Việt Nam tại Triển lãm quốc gia](https://vnexpress.net/nhung-bieu-tuong-du-lich-noi-tieng-cua-viet-nam-tai-trien-lam-quoc-gia-4932662.html) - 17:00 28/08/2025
-- 👀 [Người dân trải nghiệm chuyến bay mô hình Vietnam Airlines](https://vnexpress.net/nguoi-dan-trai-nghiem-chuyen-bay-mo-hinh-vietnam-airlines-4932818.html) - 14:45 28/08/2025
-- 👍 [Khách bật khóc khi xem triển lãm 80 năm thành tựu đất nước](https://vnexpress.net/khach-bat-khoc-khi-xem-trien-lam-80-nam-thanh-tuu-dat-nuoc-4932795.html) - 14:29 28/08/2025
-- 💄 [Món thịt xiên nướng chinh phục du khách khắp thế giới thế nào](https://vnexpress.net/mon-thit-xien-nuong-chinh-phuc-du-khach-khap-the-gioi-the-nao-4932676.html) - 11:43 28/08/2025
-- 🥷 [Sun Group hợp tác quốc tế đào tạo nhân lực hàng không, du lịch](https://vnexpress.net/sun-group-hop-tac-quoc-te-dao-tao-nhan-luc-hang-khong-du-lich-4932617.html) - 06:00 28/08/2025
-- 📝 [Hàng trăm điểm du lịch tại Nghệ An thiệt hại sau bão](https://vnexpress.net/hang-tram-diem-du-lich-tai-nghe-an-thiet-hai-sau-bao-4932352.html) - 03:26 28/08/2025
-- 🌜 [Điểm ăn uống &#39;hoạt động hết công suất&#39; buổi sơ duyệt diễu binh](https://vnexpress.net/diem-an-uong-hoat-dong-het-cong-suat-buoi-so-duyet-dieu-binh-4932368.html) - 01:24 28/08/2025
-- 📝 [Những quán ăn bình dân trên 30 năm hút khách ở Hà Nội](https://vnexpress.net/nhung-quan-an-binh-dan-tren-30-nam-hut-khach-o-ha-noi-4929412.html) - 23:00 27/08/2025
-- 🧰 [Nỗi khổ chọn điểm đến của du khách hiện đại](https://vnexpress.net/noi-kho-chon-diem-den-cua-du-khach-hien-dai-4931873.html) - 17:00 27/08/2025
-- 🎬 [Khách Tây hòa cùng sự cuồng nhiệt của người Việt xem diễu binh](https://vnexpress.net/khach-tay-hoa-cung-su-cuong-nhiet-cua-nguoi-viet-xem-dieu-binh-4932332.html) - 14:54 27/08/2025
-- 🧐 [Tàu Cát Linh - Hà Đông chật cứng người đi xem diễu binh](https://vnexpress.net/tau-cat-linh-ha-dong-chat-cung-nguoi-di-xem-dieu-binh-4932302.html) - 11:23 27/08/2025
-- 👨‍🏫 [Cách di chuyển bằng tàu điện đến các điểm xem diễu binh](https://vnexpress.net/cach-di-chuyen-bang-tau-dien-den-cac-diem-xem-dieu-binh-4931968.html) - 09:10 27/08/2025
-- 🦣 [Nhiều đặc quyền cho chủ thẻ Sasco Airport Lounge Privilege](https://vnexpress.net/nhieu-dac-quyen-cho-chu-the-sasco-airport-lounge-privilege-4932215.html) - 08:30 27/08/2025
-- 🌋 [Bán chỗ đẹp xem diễu binh](https://vnexpress.net/ban-cho-dep-xem-dieu-binh-4932119.html) - 07:46 27/08/2025
-- 🦄 [Hà Nội dựng nhà bạt, trông xe miễn phí dịp 2/9](https://vnexpress.net/ha-noi-dung-nha-bat-trong-xe-mien-phi-dip-2-9-4932026.html) - 03:56 27/08/2025
-- 💡 [Mất tiền vì đặt nhầm khách sạn giả mạo ở Hà Nội dịp 2/9](https://vnexpress.net/mat-tien-vi-dat-nham-khach-san-gia-mao-o-ha-noi-dip-2-9-4931514.html) - 03:15 27/08/2025
-- 🌏 [Quán bar cho khách &#39;thử đi tù&#39; ở Trung Quốc](https://vnexpress.net/quan-bar-cho-khach-thu-di-tu-o-trung-quoc-4931759.html) - 22:30 26/08/2025
-- 💂 [Biển Thiên Cầm tan hoang sau bão](https://vnexpress.net/bien-thien-cam-tan-hoang-sau-bao-4931882.html) - 17:00 26/08/2025
-- 🤩 [Du lịch y tế Việt Nam dự báo cán mốc 4 tỷ USD](https://vnexpress.net/du-lich-y-te-viet-nam-du-bao-can-moc-4-ty-usd-4931768.html) - 12:20 26/08/2025
-- 💪 [Du khách Nga chạy giải marathon để thể hiện tình yêu với Nha Trang](https://vnexpress.net/du-khach-nga-chay-giai-marathon-de-the-hien-tinh-yeu-voi-nha-trang-4929721.html) - 12:00 26/08/2025
-- 💻 [Bảo tàng Vũ trụ Việt Nam chưa nhận khách lẻ, khuyến cáo không tự gom đoàn](https://vnexpress.net/bao-tang-vu-tru-viet-nam-chua-nhan-khach-le-khuyen-cao-khong-tu-gom-doan-4931374.html) - 05:17 26/08/2025
-- 🧑‍💻 [Khách sạn cao cấp giảm giá giờ chót cho khách đến Hà Nội dịp 2/9](https://vnexpress.net/khach-san-cao-cap-giam-gia-gio-chot-cho-khach-den-ha-noi-dip-2-9-4931238.html) - 05:17 26/08/2025
-- 🎭 [&#39;Mâm cơm Tết độc lập&#39; dành cho khách đến Hà Nội dịp 2/9](https://vnexpress.net/mam-com-tet-doc-lap-danh-cho-khach-den-ha-noi-dip-2-9-4931161.html) - 19:00 25/08/2025
-- 🧐 [Du lịch nước ngoài dưới 20 triệu đồng hút khách dịp lễ 2/9](https://vnexpress.net/du-lich-nuoc-ngoai-duoi-20-trieu-dong-hut-khach-dip-le-2-9-4931246.html) - 17:00 25/08/2025
-- 💡 [TP HCM mở tour đêm dịp 2/9](https://vnexpress.net/tp-hcm-mo-tour-dem-dip-2-9-4931302.html) - 13:12 25/08/2025
-- 🌊 [Sự kiện văn hóa nghệ thuật ở Hà Nội dịp 2/9 diễn ra tuần này](https://vnexpress.net/su-kien-van-hoa-nghe-thuat-o-ha-noi-dip-2-9-dien-ra-tuan-nay-4931074.html) - 09:01 25/08/2025
-- 🎃 [Du khách &#39;mách&#39; kinh nghiệm chọn chỗ xem diễu binh 2/9](https://vnexpress.net/du-khach-mach-kinh-nghiem-chon-cho-xem-dieu-binh-2-9-4930685.html) - 07:29 25/08/2025
-- 🧠 [Đa trải nghiệm ẩm thực tại sân bay Tân Sơn Nhất](https://vnexpress.net/da-trai-nghiem-am-thuc-tai-san-bay-tan-son-nhat-4930262.html) - 04:00 25/08/2025
-- 💄 [Cơm cuộn phủ vàng giá gần hai triệu đồng](https://vnexpress.net/com-cuon-phu-vang-gia-gan-hai-trieu-dong-4928286.html) - 03:19 25/08/2025
-- 🎬 [Khách Tây kể chuyện ăn ngủ cùng gánh xiếc Việt gần 20 năm trước](https://vnexpress.net/khach-tay-ke-chuyen-an-ngu-cung-ganh-xiec-viet-gan-20-nam-truoc-4930668.html) - 01:04 25/08/2025
-- 🐻 [Chuỗi hoạt động lễ hội dịp 30 năm thành lập Suối Tiên](https://vnexpress.net/chuoi-hoat-dong-le-hoi-dip-30-nam-thanh-lap-suoi-tien-4929631.html) - 01:00 25/08/2025
-- 🌝 [Hành trình độc hành qua 118 quốc gia của chàng trai 19 tuổi](https://vnexpress.net/hanh-trinh-doc-hanh-qua-118-quoc-gia-cua-chang-trai-19-tuoi-4929341.html) - 17:00 24/08/2025
-- 🤩 [Nhiều nơi tạm dừng du lịch biển do bão Kajiki](https://vnexpress.net/nhieu-noi-tam-dung-du-lich-bien-do-bao-kajiki-4930965.html) - 12:32 24/08/2025
-- 🎬 [Du khách phải trả phí tham quan vịnh Nha Trang từ 25/8](https://vnexpress.net/du-khach-phai-tra-phi-tham-quan-vinh-nha-trang-tu-25-8-4930837.html) - 08:06 24/08/2025
-- 🦩 [Lượng tìm kiếm du lịch Hà Nội tăng gần 4 lần dịp lễ 2/9](https://vnexpress.net/luong-tim-kiem-du-lich-ha-noi-tang-gan-4-lan-dip-le-2-9-4930831.html) - 04:00 24/08/2025
-- 🦍 [&#39;VnExpress Marathon là cơ hội vàng để Khánh Hòa quảng bá hình ảnh năng động&#39;](https://vnexpress.net/vnexpress-marathon-la-co-hoi-vang-de-khanh-hoa-quang-ba-hinh-anh-nang-dong-4930587.html) - 04:00 24/08/2025
-- 👀 [Ngôi làng mở toang cửa không lo trộm cắp ở Ấn Độ](https://vnexpress.net/ngoi-lang-mo-toang-cua-khong-lo-trom-cap-o-an-do-4930581.html) - 01:46 24/08/2025
-- 🧰 [Hà Nội bố trí 100 điểm gửi xe cho người dân, du khách xem diễu binh, diễu hành](https://vnexpress.net/ha-noi-bo-tri-100-diem-gui-xe-cho-nguoi-dan-du-khach-xem-dieu-binh-dieu-hanh-4930376.html) - 01:39 24/08/2025
-- 🕯 [Kinh nghiệm ngắm trọn màn trình diễn máy bay ngày 2/9](https://vnexpress.net/kinh-nghiem-ngam-tron-man-trinh-dien-may-bay-ngay-2-9-4930109.html) - 07:41 23/08/2025
-- 👍 [Đầu tư 20 triệu USD thiết kế tàu lặn để ngắm xác tàu Titanic](https://vnexpress.net/dau-tu-20-trieu-usd-thiet-ke-tau-lan-de-ngam-xac-tau-titanic-4929581.html) - 07:08 23/08/2025
-- 😎 [Thái Lan sẽ tặng 200.000 vé máy bay nội địa để hút khách quốc tế](https://vnexpress.net/thai-lan-se-tang-200-000-ve-may-bay-noi-dia-de-hut-khach-quoc-te-4930608.html) - 07:00 23/08/2025
-- 🐘 [Nửa ngày khám phá các điểm lịch sử ở Hà Nội trên xe máy huyền thoại thời bao cấp](https://vnexpress.net/nua-ngay-kham-pha-cac-diem-lich-su-o-ha-noi-tren-xe-may-huyen-thoai-thoi-bao-cap-4930443.html) - 00:17 23/08/2025<!-- vnexpress-du-lich:END -->
+- 💂 [Phượt thủ Mỹ kể hai lần đến thành phố nguy hiểm nhất thế giới](https://vnexpress.net/phuot-thu-my-ke-hai-lan-den-thanh-pho-nguy-hiem-nhat-the-gioi-4932745.html) - 23:00 30/08/2025
+- 🪄 [Khách Việt dời lịch đi tour quốc tế, ở lại xem diễu binh](https://vnexpress.net/khach-viet-doi-lich-di-tour-quoc-te-o-lai-xem-dieu-binh-4933441.html) - 17:00 30/08/2025
+- 🦅 [Du khách chen chân trải nghiệm tại triển lãm 80 năm](https://vnexpress.net/du-khach-chen-chan-trai-nghiem-tai-trien-lam-80-nam-4933533.html) - 10:01 30/08/2025
+- 🕴 [Vietjet mở đường bay thẳng kết nối TP HCM với Manila](https://vnexpress.net/vietjet-mo-duong-bay-thang-ket-noi-tp-hcm-voi-manila-4933464.html) - 07:00 30/08/2025
+- 👀 [5 điểm đến cho chuyến đi &#39;chữa lành&#39; dịp 2/9 từ Hà Nội](https://vnexpress.net/5-diem-den-cho-chuyen-di-chua-lanh-dip-2-9-tu-ha-noi-4931387.html) - 05:10 30/08/2025
+- 🎭 [7 quán cơm nhà Michelin khách nên thử ở Hà Nội dịp 2/9](https://vnexpress.net/7-quan-com-nha-michelin-khach-nen-thu-o-ha-noi-dip-2-9-4933031.html) - 05:00 30/08/2025
+- 🦒 [Những lưu ý khi xem triển lãm 80 năm ở Đông Anh](https://vnexpress.net/nhung-luu-y-khi-xem-trien-lam-80-nam-o-dong-anh-4933253.html) - 03:13 30/08/2025
+- 👨‍🏫 [Du khách &#39;mách&#39; 4 trải nghiệm không thể bỏ lỡ tại triển lãm 80 năm](https://vnexpress.net/du-khach-mach-4-trai-nghiem-khong-the-bo-lo-tai-trien-lam-80-nam-4933379.html) - 01:51 30/08/2025
+- ⚗️ [Hàng quán mở xuyên đêm phục vụ khách xem tổng duyệt diễu binh](https://vnexpress.net/hang-quan-mo-xuyen-dem-phuc-vu-khach-xem-tong-duyet-dieu-binh-4933315.html) - 23:31 29/08/2025
+- 🥸 [Món bún măng bò nguồn gốc Lào hút khách tại TP HCM](https://vnexpress.net/mon-bun-mang-bo-nguon-goc-lao-hut-khach-tai-tp-hcm-4920751.html) - 23:00 29/08/2025
+- 🤠 [Du khách trắng đêm giữ chỗ chờ xem tổng duyệt diễu binh](https://vnexpress.net/du-khach-trang-dem-giu-cho-cho-xem-tong-duyet-dieu-binh-4933308.html) - 17:00 29/08/2025
+- 🚀 [Sân bay Nhật trông ngóng khách sau tiên tri thảm họa từ truyện tranh](https://vnexpress.net/san-bay-nhat-trong-ngong-khach-sau-tien-tri-tham-hoa-tu-truyen-tranh-4932950.html) - 13:31 29/08/2025
+- 💻 [Sun World Ha Long rực rỡ cờ hoa trước thềm 2/9](https://vnexpress.net/sun-world-ha-long-ruc-ro-co-hoa-truoc-them-2-9-4933232.html) - 13:00 29/08/2025
+- 💼 [Việt Nam dẫn đầu trong lựa chọn điểm du lịch biển thay thế Thái Lan](https://vnexpress.net/viet-nam-dan-dau-trong-lua-chon-diem-du-lich-bien-thay-the-thai-lan-4933150.html) - 09:42 29/08/2025
+- 🤡 [Tỷ phú Mỹ đến vịnh Hạ Long du lịch dịp 2/9](https://vnexpress.net/ty-phu-my-den-vinh-ha-long-du-lich-dip-2-9-4933055.html) - 06:44 29/08/2025
+- 🐵 [Múa cột với cờ Thổ Nhĩ Kỳ, nữ du khách đối mặt án tù 5 năm](https://vnexpress.net/mua-cot-voi-co-tho-nhi-ky-nu-du-khach-doi-mat-an-tu-5-nam-4932997.html) - 04:21 29/08/2025
+- 😺 [Trải nghiệm bắn súng hút khách tại triển lãm 80 năm](https://vnexpress.net/trai-nghiem-ban-sung-hut-khach-tai-trien-lam-80-nam-4932874.html) - 04:13 29/08/2025
+- 🌈 [Du lịch đêm Cần Thơ hút khách với phố đi bộ, lễ hội](https://vnexpress.net/du-lich-dem-can-tho-hut-khach-voi-pho-di-bo-le-hoi-4932782.html) - 04:00 29/08/2025
+- ⚗️ [Lưu ý khi ngắm phi đội &#39;hổ mang chúa&#39; SU-30MK2 trình diễn](https://vnexpress.net/luu-y-khi-ngam-phi-doi-ho-mang-chua-su-30mk2-trinh-dien-4932539.html) - 01:41 29/08/2025
+- 👀 [Những biểu tượng du lịch nổi tiếng của Việt Nam tại Triển lãm quốc gia](https://vnexpress.net/nhung-bieu-tuong-du-lich-noi-tieng-cua-viet-nam-tai-trien-lam-quoc-gia-4932662.html) - 17:00 28/08/2025
+- 👍 [Người dân trải nghiệm chuyến bay mô hình Vietnam Airlines](https://vnexpress.net/nguoi-dan-trai-nghiem-chuyen-bay-mo-hinh-vietnam-airlines-4932818.html) - 14:45 28/08/2025
+- 💄 [Khách bật khóc khi xem triển lãm 80 năm thành tựu đất nước](https://vnexpress.net/khach-bat-khoc-khi-xem-trien-lam-80-nam-thanh-tuu-dat-nuoc-4932795.html) - 14:29 28/08/2025
+- 🥷 [Món thịt xiên nướng chinh phục du khách khắp thế giới thế nào](https://vnexpress.net/mon-thit-xien-nuong-chinh-phuc-du-khach-khap-the-gioi-the-nao-4932676.html) - 11:43 28/08/2025
+- 📝 [Sun Group hợp tác quốc tế đào tạo nhân lực hàng không, du lịch](https://vnexpress.net/sun-group-hop-tac-quoc-te-dao-tao-nhan-luc-hang-khong-du-lich-4932617.html) - 06:00 28/08/2025
+- 🌜 [Hàng trăm điểm du lịch tại Nghệ An thiệt hại sau bão](https://vnexpress.net/hang-tram-diem-du-lich-tai-nghe-an-thiet-hai-sau-bao-4932352.html) - 03:26 28/08/2025
+- 📝 [Điểm ăn uống &#39;hoạt động hết công suất&#39; buổi sơ duyệt diễu binh](https://vnexpress.net/diem-an-uong-hoat-dong-het-cong-suat-buoi-so-duyet-dieu-binh-4932368.html) - 01:24 28/08/2025
+- 🧰 [Những quán ăn bình dân trên 30 năm hút khách ở Hà Nội](https://vnexpress.net/nhung-quan-an-binh-dan-tren-30-nam-hut-khach-o-ha-noi-4929412.html) - 23:00 27/08/2025
+- 🎬 [Nỗi khổ chọn điểm đến của du khách hiện đại](https://vnexpress.net/noi-kho-chon-diem-den-cua-du-khach-hien-dai-4931873.html) - 17:00 27/08/2025
+- 🧐 [Khách Tây hòa cùng sự cuồng nhiệt của người Việt xem diễu binh](https://vnexpress.net/khach-tay-hoa-cung-su-cuong-nhiet-cua-nguoi-viet-xem-dieu-binh-4932332.html) - 14:54 27/08/2025
+- 👨‍🏫 [Tàu Cát Linh - Hà Đông chật cứng người đi xem diễu binh](https://vnexpress.net/tau-cat-linh-ha-dong-chat-cung-nguoi-di-xem-dieu-binh-4932302.html) - 11:23 27/08/2025
+- 🦣 [Cách di chuyển bằng tàu điện đến các điểm xem diễu binh](https://vnexpress.net/cach-di-chuyen-bang-tau-dien-den-cac-diem-xem-dieu-binh-4931968.html) - 09:10 27/08/2025
+- 🌋 [Nhiều đặc quyền cho chủ thẻ Sasco Airport Lounge Privilege](https://vnexpress.net/nhieu-dac-quyen-cho-chu-the-sasco-airport-lounge-privilege-4932215.html) - 08:30 27/08/2025
+- 🦄 [Bán chỗ đẹp xem diễu binh](https://vnexpress.net/ban-cho-dep-xem-dieu-binh-4932119.html) - 07:46 27/08/2025
+- 💡 [Hà Nội dựng nhà bạt, trông xe miễn phí dịp 2/9](https://vnexpress.net/ha-noi-dung-nha-bat-trong-xe-mien-phi-dip-2-9-4932026.html) - 03:56 27/08/2025
+- 🌏 [Mất tiền vì đặt nhầm khách sạn giả mạo ở Hà Nội dịp 2/9](https://vnexpress.net/mat-tien-vi-dat-nham-khach-san-gia-mao-o-ha-noi-dip-2-9-4931514.html) - 03:15 27/08/2025
+- 💂 [Quán bar cho khách &#39;thử đi tù&#39; ở Trung Quốc](https://vnexpress.net/quan-bar-cho-khach-thu-di-tu-o-trung-quoc-4931759.html) - 22:30 26/08/2025
+- 🤩 [Biển Thiên Cầm tan hoang sau bão](https://vnexpress.net/bien-thien-cam-tan-hoang-sau-bao-4931882.html) - 17:00 26/08/2025
+- 💪 [Du lịch y tế Việt Nam dự báo cán mốc 4 tỷ USD](https://vnexpress.net/du-lich-y-te-viet-nam-du-bao-can-moc-4-ty-usd-4931768.html) - 12:20 26/08/2025
+- 💻 [Du khách Nga chạy giải marathon để thể hiện tình yêu với Nha Trang](https://vnexpress.net/du-khach-nga-chay-giai-marathon-de-the-hien-tinh-yeu-voi-nha-trang-4929721.html) - 12:00 26/08/2025
+- 🧑‍💻 [Bảo tàng Vũ trụ Việt Nam chưa nhận khách lẻ, khuyến cáo không tự gom đoàn](https://vnexpress.net/bao-tang-vu-tru-viet-nam-chua-nhan-khach-le-khuyen-cao-khong-tu-gom-doan-4931374.html) - 05:17 26/08/2025
+- 🎭 [Khách sạn cao cấp giảm giá giờ chót cho khách đến Hà Nội dịp 2/9](https://vnexpress.net/khach-san-cao-cap-giam-gia-gio-chot-cho-khach-den-ha-noi-dip-2-9-4931238.html) - 05:17 26/08/2025
+- 🧐 [&#39;Mâm cơm Tết độc lập&#39; dành cho khách đến Hà Nội dịp 2/9](https://vnexpress.net/mam-com-tet-doc-lap-danh-cho-khach-den-ha-noi-dip-2-9-4931161.html) - 19:00 25/08/2025
+- 💡 [Du lịch nước ngoài dưới 20 triệu đồng hút khách dịp lễ 2/9](https://vnexpress.net/du-lich-nuoc-ngoai-duoi-20-trieu-dong-hut-khach-dip-le-2-9-4931246.html) - 17:00 25/08/2025
+- 🌊 [TP HCM mở tour đêm dịp 2/9](https://vnexpress.net/tp-hcm-mo-tour-dem-dip-2-9-4931302.html) - 13:12 25/08/2025
+- 🎃 [Sự kiện văn hóa nghệ thuật ở Hà Nội dịp 2/9 diễn ra tuần này](https://vnexpress.net/su-kien-van-hoa-nghe-thuat-o-ha-noi-dip-2-9-dien-ra-tuan-nay-4931074.html) - 09:01 25/08/2025
+- 🧠 [Du khách &#39;mách&#39; kinh nghiệm chọn chỗ xem diễu binh 2/9](https://vnexpress.net/du-khach-mach-kinh-nghiem-chon-cho-xem-dieu-binh-2-9-4930685.html) - 07:29 25/08/2025
+- 💄 [Đa trải nghiệm ẩm thực tại sân bay Tân Sơn Nhất](https://vnexpress.net/da-trai-nghiem-am-thuc-tai-san-bay-tan-son-nhat-4930262.html) - 04:00 25/08/2025
+- 🎬 [Cơm cuộn phủ vàng giá gần hai triệu đồng](https://vnexpress.net/com-cuon-phu-vang-gia-gan-hai-trieu-dong-4928286.html) - 03:19 25/08/2025
+- 🐻 [Khách Tây kể chuyện ăn ngủ cùng gánh xiếc Việt gần 20 năm trước](https://vnexpress.net/khach-tay-ke-chuyen-an-ngu-cung-ganh-xiec-viet-gan-20-nam-truoc-4930668.html) - 01:04 25/08/2025
+- 🌝 [Chuỗi hoạt động lễ hội dịp 30 năm thành lập Suối Tiên](https://vnexpress.net/chuoi-hoat-dong-le-hoi-dip-30-nam-thanh-lap-suoi-tien-4929631.html) - 01:00 25/08/2025
+- 🤩 [Hành trình độc hành qua 118 quốc gia của chàng trai 19 tuổi](https://vnexpress.net/hanh-trinh-doc-hanh-qua-118-quoc-gia-cua-chang-trai-19-tuoi-4929341.html) - 17:00 24/08/2025
+- 🎬 [Nhiều nơi tạm dừng du lịch biển do bão Kajiki](https://vnexpress.net/nhieu-noi-tam-dung-du-lich-bien-do-bao-kajiki-4930965.html) - 12:32 24/08/2025
+- 🦩 [Du khách phải trả phí tham quan vịnh Nha Trang từ 25/8](https://vnexpress.net/du-khach-phai-tra-phi-tham-quan-vinh-nha-trang-tu-25-8-4930837.html) - 08:06 24/08/2025
+- 🦍 [Lượng tìm kiếm du lịch Hà Nội tăng gần 4 lần dịp lễ 2/9](https://vnexpress.net/luong-tim-kiem-du-lich-ha-noi-tang-gan-4-lan-dip-le-2-9-4930831.html) - 04:00 24/08/2025
+- 👀 [&#39;VnExpress Marathon là cơ hội vàng để Khánh Hòa quảng bá hình ảnh năng động&#39;](https://vnexpress.net/vnexpress-marathon-la-co-hoi-vang-de-khanh-hoa-quang-ba-hinh-anh-nang-dong-4930587.html) - 04:00 24/08/2025
+- 🧰 [Ngôi làng mở toang cửa không lo trộm cắp ở Ấn Độ](https://vnexpress.net/ngoi-lang-mo-toang-cua-khong-lo-trom-cap-o-an-do-4930581.html) - 01:46 24/08/2025
+- 🕯 [Hà Nội bố trí 100 điểm gửi xe cho người dân, du khách xem diễu binh, diễu hành](https://vnexpress.net/ha-noi-bo-tri-100-diem-gui-xe-cho-nguoi-dan-du-khach-xem-dieu-binh-dieu-hanh-4930376.html) - 01:39 24/08/2025
+- 👍 [Kinh nghiệm ngắm trọn màn trình diễn máy bay ngày 2/9](https://vnexpress.net/kinh-nghiem-ngam-tron-man-trinh-dien-may-bay-ngay-2-9-4930109.html) - 07:41 23/08/2025
+- 😎 [Đầu tư 20 triệu USD thiết kế tàu lặn để ngắm xác tàu Titanic](https://vnexpress.net/dau-tu-20-trieu-usd-thiet-ke-tau-lan-de-ngam-xac-tau-titanic-4929581.html) - 07:08 23/08/2025
+- 🐘 [Thái Lan sẽ tặng 200.000 vé máy bay nội địa để hút khách quốc tế](https://vnexpress.net/thai-lan-se-tang-200-000-ve-may-bay-noi-dia-de-hut-khach-quoc-te-4930608.html) - 07:00 23/08/2025<!-- vnexpress-du-lich:END -->
