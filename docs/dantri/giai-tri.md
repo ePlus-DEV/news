@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Loạt ảnh sắp làm cô dâu đạt 7,1 triệu lượt thích của Selena Gomez](https://dantri.com.vn/giai-tri/loat-anh-sap-lam-co-dau-dat-71-trieu-luot-thich-cua-selena-gomez-20250830155014461.htm) - 23:00 30/08/2025
-- 🔥 [&quot;Mưa đỏ&quot;: Cơn sốt chưa từng có, vượt mốc 300 tỷ để xô đổ kỷ lục Trấn Thành?](https://dantri.com.vn/giai-tri/mua-do-con-sot-chua-tung-co-vuot-moc-300-ty-de-xo-do-ky-luc-tran-thanh-20250829085943725.htm) - 23:00 30/08/2025
+- 🔥 [&quot;Mưa đỏ&quot;: Cơn sốt chưa từng có, vượt mốc 300 tỷ phá kỷ lục phim Trấn Thành?](https://dantri.com.vn/giai-tri/mua-do-con-sot-chua-tung-co-vuot-moc-300-ty-pha-ky-luc-phim-tran-thanh-20250829085943725.htm) - 23:00 30/08/2025
 - 🚀 [Tổ chức chiếu phim Mưa đỏ miễn phí tại Thành cổ Quảng Trị](https://dantri.com.vn/giai-tri/to-chuc-chieu-phim-mua-do-mien-phi-tai-thanh-co-quang-tri-20250830095300020.htm) - 11:54 30/08/2025
 - 🔥 [Đinh Thuý Hà xin lỗi sau tranh cãi về diễn xuất ở phim &quot;Mưa đỏ&quot;](https://dantri.com.vn/giai-tri/dinh-thuy-ha-xin-loi-sau-tranh-cai-ve-dien-xuat-o-phim-mua-do-20250830134814839.htm) - 11:45 30/08/2025
 - 🌈 [Tình hình sức khỏe của MC Mai Ngọc sau khi sinh con đầu lòng](https://dantri.com.vn/giai-tri/tinh-hinh-suc-khoe-cua-mc-mai-ngoc-sau-khi-sinh-con-dau-long-20250830130808888.htm) - 08:04 30/08/2025
