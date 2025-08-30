@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Sát hại em họ vì bị can ngăn sàm sỡ](https://vnexpress.net/sat-hai-em-ho-vi-bi-can-ngan-sam-so-4933547.html) - 12:29 30/08/2025
 - 🥰 [Băng &#39;tín dụng đen&#39; ép người vay thế chấp bằng video khỏa thân](https://vnexpress.net/bang-tin-dung-den-ep-nguoi-vay-the-chap-bang-video-khoa-than-4933544.html) - 12:22 30/08/2025
 - 🎓 [Lừa bán vé mời xem diễu binh với giá 2 triệu đồng](https://vnexpress.net/lua-ban-ve-moi-xem-dieu-binh-voi-gia-2-trieu-dong-4933489.html) - 07:52 30/08/2025
-- 🤓 [Cuộc &#39;sang tay&#39; 62 ha đất vàng quốc phòng ở Nha Trang cho Hậu &#39;Pháo&#39;](https://vnexpress.net/cuoc-sang-tay-62-ha-dat-vang-quoc-phong-cho-hau-phao-4933078.html) - 06:55 30/08/2025
+- 🤓 [Cuộc &#39;sang tay&#39; 62 ha đất vàng quốc phòng ở Nha Trang cho Hậu &#39;Pháo&#39;](https://vnexpress.net/cuoc-sang-tay-62-ha-dat-vang-quoc-phong-o-nha-trang-cho-hau-phao-4933078.html) - 06:55 30/08/2025
 - 🎊 [Trùm giang hồ Vi &#39;Ngộ&#39; bị khởi tố thêm tội trốn thuế](https://vnexpress.net/trum-giang-ho-vi-ngo-bi-khoi-to-them-toi-tron-thue-4933468.html) - 06:30 30/08/2025
 - 🙉 [Truy tìm ôtô nghi cán chết nam sinh lớp 6](https://vnexpress.net/truy-tim-oto-nghi-can-chet-nam-sinh-lop-6-4933448.html) - 06:16 30/08/2025
 - 🤡 [Tạo câu chuyện giả &#39;nải chuối bằng vàng&#39; để lừa tiền](https://vnexpress.net/tao-cau-chuyen-gia-nai-chuoi-bang-vang-de-lua-tien-4933431.html) - 05:59 30/08/2025
