@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Mưa đỏ - Cột mốc chói lọi của phim chiến tranh Việt Nam](https://dantri.com.vn/tam-diem/mua-do-cot-moc-choi-loi-cua-phim-chien-tranh-viet-nam-20250831075848032.htm) - 01:47 31/08/2025
+- 🚦 [Mưa đỏ: Cột mốc chói lọi của phim lịch sử - chiến tranh cách mạng](https://dantri.com.vn/tam-diem/mua-do-cot-moc-choi-loi-cua-phim-lich-su-chien-tranh-cach-mang-20250831075848032.htm) - 01:47 31/08/2025
 - 🫶 [Món quà 100.000 đồng trong ngày Tết Độc lập](https://dantri.com.vn/tam-diem/mon-qua-100000-dong-trong-ngay-tet-doc-lap-20250830100750880.htm) - 08:26 30/08/2025
 - 🦏 [Những bước chân tự hào Việt Nam](https://dantri.com.vn/tam-diem/nhung-buoc-chan-tu-hao-viet-nam-20250830054027577.htm) - 22:40 29/08/2025
 - 🧰 [Quy hoạch đô thị: Thoát nước hay chứa nước?](https://dantri.com.vn/tam-diem/quy-hoach-do-thi-thoat-nuoc-hay-chua-nuoc-20250829054427545.htm) - 22:44 28/08/2025
