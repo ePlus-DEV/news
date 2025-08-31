@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Trái ngược Hà Nội, nhiều điểm du lịch vắng khách dịp 2/9](https://vnexpress.net/trai-nguoc-ha-noi-nhieu-diem-du-lich-vang-khach-dip-2-9-4933716.html) - 22:30 31/08/2025
 - 🪄 [Khách &#39;cố thủ&#39; ngoài đường hai đêm chờ xem diễu binh 2/9](https://vnexpress.net/khach-co-thu-ngoai-duong-hai-dem-cho-xem-dieu-binh-2-9-4933839.html) - 22:00 31/08/2025
-- 🦅 [&#39;Thế giới tương lai&#39; ở Trung Quốc làm khách Tây choáng ngợp](https://vnexpress.net/the-gioi-tuong-lai-o-trung-quoc-lam-khach-tay-choang-ngop-4933460.html) - 17:00 31/08/2025
+- 🦅 [&#39;Thế giới tương lai&#39; ở Trung Quốc làm du khách choáng ngợp](https://vnexpress.net/the-gioi-tuong-lai-o-trung-quoc-lam-du-khach-choang-ngop-4933460.html) - 17:00 31/08/2025
 - 🕴 [Nhiều điểm du lịch ở Hà Nội đông nghịt khách](https://vnexpress.net/nhieu-diem-du-lich-o-ha-noi-dong-nghit-khach-4933807.html) - 13:46 31/08/2025
 - 👀 [Khách miền Nam đổ ra Hà Nội để &#39;sống trọn không khí lịch sử&#39;](https://vnexpress.net/khach-mien-nam-do-ra-ha-noi-de-song-tron-khong-khi-lich-su-4933513.html) - 11:03 31/08/2025
 - 🎭 [Khách Tây lạ lẫm giữa &#39;rừng&#39; cờ đỏ sao vàng ở Hà Nội](https://vnexpress.net/khach-tay-la-lam-giua-rung-co-do-sao-vang-o-ha-noi-4932846.html) - 07:48 31/08/2025
