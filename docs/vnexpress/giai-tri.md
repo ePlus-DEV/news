@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Dàn nghệ sĩ tập hát cho Lễ Kỷ niệm 80 năm Quốc khánh](https://vnexpress.net/dan-nghe-si-tap-hat-cho-le-ky-niem-80-nam-quoc-khanh-4933918.html) - 04:52 01/09/2025
+- 🌏 [Mỹ Tâm, Phương Mỹ Chi tập hát cho Lễ Kỷ niệm Quốc khánh](https://vnexpress.net/my-tam-phuong-my-chi-tap-hat-cho-le-ky-niem-quoc-khanh-4933918.html) - 04:52 01/09/2025
 - 💫 [&#39;Đò lên Thạch Hãn ơi chèo nhẹ&#39; - nỗi niềm người lính hậu chiến](https://vnexpress.net/do-len-thach-han-oi-cheo-nhe-noi-niem-nguoi-linh-hau-chien-4933648.html) - 03:22 01/09/2025
 - 🌮 [&#39;Tử chiến trên không&#39; cùng loạt phim Việt ra rạp tháng 9](https://vnexpress.net/tu-chien-tren-khong-cung-loat-phim-viet-ra-rap-thang-9-4933875.html) - 03:05 01/09/2025
 - 🧠 [Lâm Tâm Như, Hoắc Kiến Hoa hôn nhau ở liveshow](https://vnexpress.net/lam-tam-nhu-hoac-kien-hoa-hon-nhau-o-liveshow-4933852.html) - 01:04 01/09/2025
