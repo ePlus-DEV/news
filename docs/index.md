@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Cận cảnh loạt UAV &quot;make in Viet Nam&quot; lần đầu trình làng tại triển lãm thành tựu đất nước](https://nld.com.vn/can-canh-loat-uav-make-in-viet-nam-lan-dau-trinh-lang-tai-trien-lam-thanh-tuu-dat-nuoc-196250901162357878.htm) - 18:02 01/09/2025
+- 🐎 [Cận cảnh loạt UAV &quot;make in Vietnam&quot; lần đầu trình làng tại triển lãm thành tựu đất nước](https://nld.com.vn/can-canh-loat-uav-make-in-viet-nam-lan-dau-trinh-lang-tai-trien-lam-thanh-tuu-dat-nuoc-196250901162357878.htm) - 18:02 01/09/2025
 - 😺 [Báo in ngày 2-9: Rộn ràng ngày hội non sông](https://nld.com.vn/bao-in-ngay-2-9-ron-rang-ngay-hoi-non-song-196250901212040641.htm) - 17:00 01/09/2025
 - 👍 [&quot;Đêm trắng&quot; của hàng trăm ngàn người dân háo hức chờ xem diễu binh A80](https://nld.com.vn/dem-trang-cua-hang-tram-ngan-nguoi-dan-hao-huc-cho-xem-dieu-binh-a80-196250901222600431.htm) - 15:48 01/09/2025
 - 🥷 [Tổng Bí thư Tô Lâm tiếp Trưởng đoàn chính đảng các nước dự Lễ kỷ niệm Quốc khánh 2-9](https://nld.com.vn/tong-bi-thu-to-lam-tiep-truong-doan-chinh-dang-cac-nuoc-du-le-ky-niem-quoc-khanh-2-9-196250901222006893.htm) - 15:18 01/09/2025
@@ -280,7 +280,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [TP HCM: Bắt nam thanh niên đập vỡ kính taxi công nghệ](https://nld.com.vn/tp-hcm-bat-nam-thanh-nien-dap-vo-kinh-taxi-cong-nghe-196250901170126615.htm) - 10:21 01/09/2025
 - 🫶 [Phát hiện người đàn ông tử vong trong căn nhà ở TP HCM](https://nld.com.vn/phat-hien-nguoi-dan-ong-tu-vong-trong-can-nha-o-tp-hcm-196250901154727861.htm) - 10:17 01/09/2025
 - 🐻 [Vị trí 15 &quot;Trạm khách: A80 Tự hào Việt Nam&quot; phục vụ miễn phí người dân xem diễu binh](https://nld.com.vn/vi-tri-15-tram-khach-a80-tu-hao-viet-nam-phuc-vu-mien-phi-nguoi-dan-xem-dieu-binh-196250901170853829.htm) - 10:07 01/09/2025
-- 🐲 [Người nước ngoài hòa giọng cùng người dân hát vang “Như có Bác trong ngày đại thắng”](https://nld.com.vn/hang-van-nguoi-dan-da-ken-dac-nhieu-tuyen-pho-cho-xem-dieu-binh-a80-vao-sang-mai-2-9-196250901172430632.htm) - 10:00 01/09/2025
+- 🐲 [Lực lượng diễu binh, diễu hành di chuyển đến khu vực tập kết](https://nld.com.vn/hang-van-nguoi-dan-da-ken-dac-nhieu-tuyen-pho-cho-xem-dieu-binh-a80-vao-sang-mai-2-9-196250901172430632.htm) - 10:00 01/09/2025
 - 🧑‍💻 [Niềm vui đoàn tụ của phạm nhân được đặc xá tại Trại giam Xuyên Mộc và Trại tạm giam số 1, TP HCM](https://nld.com.vn/niem-vui-doan-tu-cua-pham-nhan-duoc-dac-xa-tai-trai-giam-xuyen-moc-va-trai-tam-giam-so-1-tp-hcm-196250901163133744.htm) - 09:51 01/09/2025
 - 🎬 [Cấm xe tải trọng trên 18 tấn qua đoạn cầu Vĩnh Tuy sau vụ cháy 500 chiếc xe máy làm lộ cốt thép](https://nld.com.vn/cam-xe-tai-trong-tren-18-tan-qua-doan-cau-vinh-tuy-sau-vu-chay-500-chiec-xe-may-lam-lo-cot-thep-196250901163747383.htm) - 09:50 01/09/2025
 - 👀 [Những hình ảnh ấm áp, xúc động tại Tây Ninh dịp Quốc khánh 2-9](https://nld.com.vn/nhung-hinh-anh-am-ap-xuc-dong-tai-tay-ninh-dip-quoc-khanh-2-9-196250901164032069.htm) - 09:46 01/09/2025
