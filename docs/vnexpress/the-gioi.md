@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [&#39;Dân tộc Việt Nam sẽ chinh phục những đỉnh cao mới&#39;](https://vnexpress.net/dan-toc-viet-nam-se-chinh-phuc-nhung-dinh-cao-moi-4934056.html) - 13:53 01/09/2025
-- 🕴 [Chủ tịch nước: Đoàn kết với Cuba xuất phát từ trái tim mỗi người Việt Nam](https://vnexpress.net/chu-tich-nuoc-doan-ket-voi-cuba-xuat-phat-tu-trai-tim-moi-nguoi-viet-nam-4934019.html) - 11:20 01/09/2025
-- 🤭 [Châu Âu đang lên kế hoạch chi tiết về ý tưởng điều quân tới Ukraine](https://vnexpress.net/chau-au-dang-len-ke-hoach-chi-tiet-ve-y-tuong-dieu-quan-toi-ukraine-4933886.html) - 10:59 01/09/2025
-- 🧑‍💻 [Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống với Belarus](https://vnexpress.net/viet-nam-luon-coi-trong-quan-he-huu-nghi-truyen-thong-voi-belarus-4933978.html) - 10:08 01/09/2025
-- 🦏 [Ukraine cáo buộc Nga liên quan vụ ám sát cựu chủ tịch quốc hội](https://vnexpress.net/ukraine-cao-buoc-nga-lien-quan-vu-am-sat-cuu-chu-tich-quoc-hoi-4934000.html) - 09:48 01/09/2025
-- 🦒 [Phu nhân lãnh đạo Việt Nam - Cuba dạo phố, xem múa rối nước](https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-cuba-dao-pho-xem-mua-roi-nuoc-4933980.html) - 08:47 01/09/2025
-- 🌈 [&#39;Phép màu&#39; y tế của Cuba giữa vòng vây cấm vận](https://vnexpress.net/phep-mau-y-te-cua-cuba-giua-vong-vay-cam-van-4933374.html) - 08:25 01/09/2025
-- 🧑‍🏫 [Hàn Quốc ngừng phát sóng radio tuyên truyền sang Triều Tiên](https://vnexpress.net/han-quoc-ngung-phat-song-radio-tuyen-truyen-sang-trieu-tien-4933942.html) - 08:21 01/09/2025
-- 🐲 [Việt Nam trao tặng Cuba 385 tỷ đồng](https://vnexpress.net/viet-nam-trao-tang-cuba-385-ty-dong-4933973.html) - 07:55 01/09/2025
-- 🦒 [Xe húc vào cổng lãnh sự quán Nga tại Sydney](https://vnexpress.net/xe-huc-vao-cong-lanh-su-quan-nga-tai-sydney-4933917.html) - 06:14 01/09/2025
-- 🐻 [Động đất ở Afghanistan, hơn 800 người thiệt mạng](https://vnexpress.net/dong-dat-o-afghanistan-hon-800-nguoi-thiet-mang-4933929.html) - 04:28 01/09/2025
-- 🚀 [Một tuần Indonesia chìm trong hỗn loạn vì biểu tình](https://vnexpress.net/mot-tuan-indonesia-chim-trong-hon-loan-vi-bieu-tinh-4933855.html) - 03:43 01/09/2025
-- 🥰 [Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba](https://vnexpress.net/tong-bi-thu-to-lam-chu-tri-le-don-bi-thu-thu-nhat-chu-tich-cuba-4933882.html) - 03:05 01/09/2025
-- 🔥 [Thống đốc Illinois chỉ trích việc ông Trump điều quân tới các thành phố](https://vnexpress.net/thong-doc-illinois-chi-trich-viec-ong-trump-dieu-quan-toi-cac-thanh-pho-4933850.html) - 02:12 01/09/2025
-- 🥳 [Công chúa Thái Lan có dấu hiệu hồi phục sau khi bị nhiễm trùng máu](https://vnexpress.net/cong-chua-thai-lan-co-dau-hieu-hoi-phuc-sau-khi-bi-nhiem-trung-mau-4933866.html) - 01:16 01/09/2025
-- 💼 [Chèo thuyền 139 ngày vượt Thái Bình Dương](https://vnexpress.net/cheo-thuyen-139-ngay-vuot-thai-binh-duong-4933815.html) - 01:07 01/09/2025
-- 🤡 [Houthi bắt 11 nhân viên Liên Hợp Quốc](https://vnexpress.net/houthi-bat-11-nhan-vien-lien-hop-quoc-4933848.html) - 00:34 01/09/2025
-- 🌁 [Tổng thống Pháp gây thích thú khi khoe thẻ bài &#39;Rồng trắng mắt xanh&#39;](https://vnexpress.net/tong-thong-phap-gay-thich-thu-khi-khoe-the-bai-rong-trang-mat-xanh-4933803.html) - 00:07 01/09/2025
-- 🤩 [Nghi phạm ám sát cựu chủ tịch quốc hội Ukraine bị bắt](https://vnexpress.net/nghi-pham-am-sat-cuu-chu-tich-quoc-hoi-ukraine-bi-bat-4933845.html) - 23:53 31/08/2025
-- 🎉 [Thành phố cảng Ukraine hứng đòn tập kích dữ dội chưa từng thấy](https://vnexpress.net/thanh-pho-cang-ukraine-hung-don-tap-kich-du-doi-chua-tung-thay-4933811.html) - 16:29 31/08/2025
-- 🎉 [Chủ tịch Cuba thăm Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/chu-tich-cuba-tham-bao-tang-lich-su-quan-su-viet-nam-4933817.html) - 14:40 31/08/2025
-- 🌁 [Thủ tướng đề nghị Trung Quốc hỗ trợ Việt Nam phát triển AI](https://vnexpress.net/thu-tuong-de-nghi-trung-quoc-ho-tro-viet-nam-phat-trien-ai-4933788.html) - 14:20 31/08/2025
-- 🌊 [Hamas xác nhận thủ lĩnh ở Gaza đã thiệt mạng](https://vnexpress.net/hamas-xac-nhan-thu-linh-o-gaza-da-thiet-mang-4933810.html) - 13:39 31/08/2025
-- 🕴 [Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc](https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html) - 12:05 31/08/2025
-- 🎓 [Nhà của Bộ trưởng Indonesia bị cướp phá giữa biểu tình](https://vnexpress.net/nha-cua-bo-truong-indonesia-bi-cuop-pha-giua-bieu-tinh-4933748.html) - 09:58 31/08/2025
-- 🦩 [Lãnh đạo quốc hội Trung Quốc đến Việt Nam](https://vnexpress.net/lanh-dao-quoc-hoi-trung-quoc-den-viet-nam-4933726.html) - 08:06 31/08/2025
-- 🌏 [Ukraine khoe &#39;quân bài dữ liệu&#39; để nâng vị thế với phương Tây](https://vnexpress.net/ukraine-khoe-quan-bai-du-lieu-de-nang-vi-the-voi-phuong-tay-4932695.html) - 04:18 31/08/2025
-- 🌋 [Chủ tịch Cuba bắt đầu thăm cấp nhà nước đến Việt Nam](https://vnexpress.net/chu-tich-cuba-bat-dau-tham-cap-nha-nuoc-den-viet-nam-4933683.html) - 03:35 31/08/2025
-- 🪜 [Ông Putin tới Trung Quốc](https://vnexpress.net/ong-putin-toi-trung-quoc-4933643.html) - 02:30 31/08/2025
-- 🕴 [EU chỉ trích Mỹ vì không cấp thị thực cho lãnh đạo Palestine](https://vnexpress.net/eu-chi-trich-my-vi-khong-cap-thi-thuc-cho-lanh-dao-palestine-4933626.html) - 01:08 31/08/2025
-- 🧑‍🏫 [Ác mộng thất nghiệp phủ bóng Ấn Độ vì đòn thuế của ông Trump](https://vnexpress.net/ac-mong-that-nghiep-phu-bong-an-do-vi-don-thue-cua-ong-trump-4933081.html) - 01:00 31/08/2025
-- 🌮 [Houthi thề trả thù cho loạt lãnh đạo bị Israel hạ sát](https://vnexpress.net/houthi-the-tra-thu-cho-loat-lanh-dao-bi-israel-ha-sat-4933618.html) - 23:43 30/08/2025
-- 🚦 [Thương binh Ukraine bơi xuyên eo biển Á-Âu để vượt qua sang chấn](https://vnexpress.net/thuong-binh-ukraine-boi-xuyen-eo-bien-a-au-de-vuot-qua-sang-chan-4932212.html) - 22:00 30/08/2025
-- 💫 [Mặc đồ ngủ Batman truy bắt kẻ đột nhập trong đêm](https://vnexpress.net/mac-do-ngu-batman-truy-bat-ke-dot-nhap-trong-dem-4933419.html) - 19:00 30/08/2025
-- 🤡 [Hàng loạt lãnh đạo cấp cao Houthi bị Israel hạ sát](https://vnexpress.net/hang-loat-lanh-dao-cap-cao-houthi-bi-israel-ha-sat-4933580.html) - 14:35 30/08/2025
-- 🦣 [Thủ tướng đến Trung Quốc dự hội nghị Tổ chức Hợp tác Thượng Hải](https://vnexpress.net/thu-tuong-den-trung-quoc-du-hoi-nghi-to-chuc-hop-tac-thuong-hai-4933572.html) - 14:29 30/08/2025
-- 🎬 [Khoảnh khắc cựu chủ tịch quốc hội Ukraine bị bắn gục trên phố](https://vnexpress.net/khoanh-khac-cuu-chu-tich-quoc-hoi-ukraine-bi-ban-guc-tren-pho-4933557.html) - 14:01 30/08/2025
-- 🎉 [Ukraine có đơn vị xe tăng Abrams thứ hai](https://vnexpress.net/ukraine-co-don-vi-xe-tang-abrams-thu-hai-4933183.html) - 13:46 30/08/2025
+- 🎭 [Nhật Bản nới quy định về súng sau loạt vụ gấu tấn công người](https://vnexpress.net/nhat-ban-noi-quy-dinh-ve-sung-sau-loat-vu-gau-tan-cong-nguoi-4934010.html) - 14:41 01/09/2025
+- 🕴 [Thủ tướng Phạm Minh Chính hội kiến Tổng thống Nga Putin](https://vnexpress.net/thu-tuong-pham-minh-chinh-hoi-kien-tong-thong-nga-putin-4934067.html) - 14:23 01/09/2025
+- 🤭 [&#39;Dân tộc Việt Nam sẽ chinh phục những đỉnh cao mới&#39;](https://vnexpress.net/dan-toc-viet-nam-se-chinh-phuc-nhung-dinh-cao-moi-4934056.html) - 13:53 01/09/2025
+- 🧑‍💻 [Chủ tịch nước: Đoàn kết với Cuba xuất phát từ trái tim mỗi người Việt Nam](https://vnexpress.net/chu-tich-nuoc-doan-ket-voi-cuba-xuat-phat-tu-trai-tim-moi-nguoi-viet-nam-4934019.html) - 11:20 01/09/2025
+- 🦏 [Châu Âu đang lên kế hoạch chi tiết về ý tưởng điều quân tới Ukraine](https://vnexpress.net/chau-au-dang-len-ke-hoach-chi-tiet-ve-y-tuong-dieu-quan-toi-ukraine-4933886.html) - 10:59 01/09/2025
+- 🦒 [Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống với Belarus](https://vnexpress.net/viet-nam-luon-coi-trong-quan-he-huu-nghi-truyen-thong-voi-belarus-4933978.html) - 10:08 01/09/2025
+- 🌈 [Ukraine cáo buộc Nga liên quan vụ ám sát cựu chủ tịch quốc hội](https://vnexpress.net/ukraine-cao-buoc-nga-lien-quan-vu-am-sat-cuu-chu-tich-quoc-hoi-4934000.html) - 09:48 01/09/2025
+- 🧑‍🏫 [Phu nhân lãnh đạo Việt Nam - Cuba dạo phố, xem múa rối nước](https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-cuba-dao-pho-xem-mua-roi-nuoc-4933980.html) - 08:47 01/09/2025
+- 🐲 [&#39;Phép màu&#39; y tế của Cuba giữa vòng vây cấm vận](https://vnexpress.net/phep-mau-y-te-cua-cuba-giua-vong-vay-cam-van-4933374.html) - 08:25 01/09/2025
+- 🦒 [Hàn Quốc ngừng phát sóng radio tuyên truyền sang Triều Tiên](https://vnexpress.net/han-quoc-ngung-phat-song-radio-tuyen-truyen-sang-trieu-tien-4933942.html) - 08:21 01/09/2025
+- 🐻 [Việt Nam trao tặng Cuba 385 tỷ đồng](https://vnexpress.net/viet-nam-trao-tang-cuba-385-ty-dong-4933973.html) - 07:55 01/09/2025
+- 🚀 [Xe húc vào cổng lãnh sự quán Nga tại Sydney](https://vnexpress.net/xe-huc-vao-cong-lanh-su-quan-nga-tai-sydney-4933917.html) - 06:14 01/09/2025
+- 🥰 [Động đất ở Afghanistan, hơn 800 người thiệt mạng](https://vnexpress.net/dong-dat-o-afghanistan-hon-800-nguoi-thiet-mang-4933929.html) - 04:28 01/09/2025
+- 🔥 [Một tuần Indonesia chìm trong hỗn loạn vì biểu tình](https://vnexpress.net/mot-tuan-indonesia-chim-trong-hon-loan-vi-bieu-tinh-4933855.html) - 03:43 01/09/2025
+- 🥳 [Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba](https://vnexpress.net/tong-bi-thu-to-lam-chu-tri-le-don-bi-thu-thu-nhat-chu-tich-cuba-4933882.html) - 03:05 01/09/2025
+- 💼 [Thống đốc Illinois chỉ trích việc ông Trump điều quân tới các thành phố](https://vnexpress.net/thong-doc-illinois-chi-trich-viec-ong-trump-dieu-quan-toi-cac-thanh-pho-4933850.html) - 02:12 01/09/2025
+- 🤡 [Công chúa Thái Lan có dấu hiệu hồi phục sau khi bị nhiễm trùng máu](https://vnexpress.net/cong-chua-thai-lan-co-dau-hieu-hoi-phuc-sau-khi-bi-nhiem-trung-mau-4933866.html) - 01:16 01/09/2025
+- 🌁 [Chèo thuyền 139 ngày vượt Thái Bình Dương](https://vnexpress.net/cheo-thuyen-139-ngay-vuot-thai-binh-duong-4933815.html) - 01:07 01/09/2025
+- 🤩 [Houthi bắt 11 nhân viên Liên Hợp Quốc](https://vnexpress.net/houthi-bat-11-nhan-vien-lien-hop-quoc-4933848.html) - 00:34 01/09/2025
+- 🎉 [Tổng thống Pháp gây thích thú khi khoe thẻ bài &#39;Rồng trắng mắt xanh&#39;](https://vnexpress.net/tong-thong-phap-gay-thich-thu-khi-khoe-the-bai-rong-trang-mat-xanh-4933803.html) - 00:07 01/09/2025
+- 🎉 [Nghi phạm ám sát cựu chủ tịch quốc hội Ukraine bị bắt](https://vnexpress.net/nghi-pham-am-sat-cuu-chu-tich-quoc-hoi-ukraine-bi-bat-4933845.html) - 23:53 31/08/2025
+- 🌁 [Thành phố cảng Ukraine hứng đòn tập kích dữ dội chưa từng thấy](https://vnexpress.net/thanh-pho-cang-ukraine-hung-don-tap-kich-du-doi-chua-tung-thay-4933811.html) - 16:29 31/08/2025
+- 🌊 [Chủ tịch Cuba thăm Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/chu-tich-cuba-tham-bao-tang-lich-su-quan-su-viet-nam-4933817.html) - 14:40 31/08/2025
+- 🕴 [Thủ tướng đề nghị Trung Quốc hỗ trợ Việt Nam phát triển AI](https://vnexpress.net/thu-tuong-de-nghi-trung-quoc-ho-tro-viet-nam-phat-trien-ai-4933788.html) - 14:20 31/08/2025
+- 🎓 [Hamas xác nhận thủ lĩnh ở Gaza đã thiệt mạng](https://vnexpress.net/hamas-xac-nhan-thu-linh-o-gaza-da-thiet-mang-4933810.html) - 13:39 31/08/2025
+- 🦩 [Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc](https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html) - 12:05 31/08/2025
+- 🌏 [Nhà của Bộ trưởng Indonesia bị cướp phá giữa biểu tình](https://vnexpress.net/nha-cua-bo-truong-indonesia-bi-cuop-pha-giua-bieu-tinh-4933748.html) - 09:58 31/08/2025
+- 🌋 [Lãnh đạo quốc hội Trung Quốc đến Việt Nam](https://vnexpress.net/lanh-dao-quoc-hoi-trung-quoc-den-viet-nam-4933726.html) - 08:06 31/08/2025
+- 🪜 [Ukraine khoe &#39;quân bài dữ liệu&#39; để nâng vị thế với phương Tây](https://vnexpress.net/ukraine-khoe-quan-bai-du-lieu-de-nang-vi-the-voi-phuong-tay-4932695.html) - 04:18 31/08/2025
+- 🕴 [Chủ tịch Cuba bắt đầu thăm cấp nhà nước đến Việt Nam](https://vnexpress.net/chu-tich-cuba-bat-dau-tham-cap-nha-nuoc-den-viet-nam-4933683.html) - 03:35 31/08/2025
+- 🧑‍🏫 [Ông Putin tới Trung Quốc](https://vnexpress.net/ong-putin-toi-trung-quoc-4933643.html) - 02:30 31/08/2025
+- 🌮 [EU chỉ trích Mỹ vì không cấp thị thực cho lãnh đạo Palestine](https://vnexpress.net/eu-chi-trich-my-vi-khong-cap-thi-thuc-cho-lanh-dao-palestine-4933626.html) - 01:08 31/08/2025
+- 🚦 [Ác mộng thất nghiệp phủ bóng Ấn Độ vì đòn thuế của ông Trump](https://vnexpress.net/ac-mong-that-nghiep-phu-bong-an-do-vi-don-thue-cua-ong-trump-4933081.html) - 01:00 31/08/2025
+- 💫 [Houthi thề trả thù cho loạt lãnh đạo bị Israel hạ sát](https://vnexpress.net/houthi-the-tra-thu-cho-loat-lanh-dao-bi-israel-ha-sat-4933618.html) - 23:43 30/08/2025
+- 🤡 [Thương binh Ukraine bơi xuyên eo biển Á-Âu để vượt qua sang chấn](https://vnexpress.net/thuong-binh-ukraine-boi-xuyen-eo-bien-a-au-de-vuot-qua-sang-chan-4932212.html) - 22:00 30/08/2025
+- 🦣 [Mặc đồ ngủ Batman truy bắt kẻ đột nhập trong đêm](https://vnexpress.net/mac-do-ngu-batman-truy-bat-ke-dot-nhap-trong-dem-4933419.html) - 19:00 30/08/2025
+- 🎬 [Hàng loạt lãnh đạo cấp cao Houthi bị Israel hạ sát](https://vnexpress.net/hang-loat-lanh-dao-cap-cao-houthi-bi-israel-ha-sat-4933580.html) - 14:35 30/08/2025
+- 🎉 [Thủ tướng đến Trung Quốc dự hội nghị Tổ chức Hợp tác Thượng Hải](https://vnexpress.net/thu-tuong-den-trung-quoc-du-hoi-nghi-to-chuc-hop-tac-thuong-hai-4933572.html) - 14:29 30/08/2025
+- 🎡 [Khoảnh khắc cựu chủ tịch quốc hội Ukraine bị bắn gục trên phố](https://vnexpress.net/khoanh-khac-cuu-chu-tich-quoc-hoi-ukraine-bi-ban-guc-tren-pho-4933557.html) - 14:01 30/08/2025
+- 🌜 [Ukraine có đơn vị xe tăng Abrams thứ hai](https://vnexpress.net/ukraine-co-don-vi-xe-tang-abrams-thu-hai-4933183.html) - 13:46 30/08/2025
 - 🎡 [Cuộc đối đầu đẩy CDC Mỹ vào khủng hoảng](https://vnexpress.net/cuoc-doi-dau-day-cdc-my-vao-khung-hoang-4933350.html) - 12:00 30/08/2025
-- 🌜 [Cựu chủ tịch quốc hội Ukraine bị bắn chết giữa phố](https://vnexpress.net/cuu-chu-tich-quoc-hoi-ukraine-bi-ban-chet-giua-pho-4933537.html) - 11:19 30/08/2025
-- 🎡 [Nga phóng gần 600 tên lửa, UAV tập kích Ukraine](https://vnexpress.net/nga-phong-gan-600-ten-lua-uav-tap-kich-ukraine-4933501.html) - 09:52 30/08/2025
-- 🤗 [Biểu tình rung chuyển Indonesia sau vụ xe cảnh sát cán chết người](https://vnexpress.net/bieu-tinh-rung-chuyen-indonesia-sau-vu-xe-canh-sat-can-chet-nguoi-4933454.html) - 09:19 30/08/2025
-- 🦩 [Thẩm phán ngăn ông Trump tăng phạm vi trục xuất nhanh người nhập cư](https://vnexpress.net/tham-phan-ngan-ong-trump-tang-pham-vi-truc-xuat-nhanh-nguoi-nhap-cu-4933474.html) - 08:15 30/08/2025
-- 🎓 [Mỹ từ chối cấp thị thực cho lãnh đạo Palestine tới dự họp LHQ](https://vnexpress.net/my-tu-choi-cap-thi-thuc-cho-lanh-dao-palestine-toi-du-hop-lhq-4933424.html) - 05:01 30/08/2025
-- 🌁 [Lực lượng Nga hứng tổn thất vì gài mìn dưới chân cầu chiến lược](https://vnexpress.net/luc-luong-nga-hung-ton-that-vi-gai-min-duoi-chan-cau-chien-luoc-4933406.html) - 04:00 30/08/2025
-- 🤩 [Kế hoạch của ông Trump nhằm thay đổi hình ảnh Nhà Trắng](https://vnexpress.net/ke-hoach-cua-ong-trump-nham-thay-doi-hinh-anh-nha-trang-4933376.html) - 03:47 30/08/2025
-- 👹 [Hamas đe dọa &#39;trả thù máu&#39; nếu Israel chiếm đóng Gaza](https://vnexpress.net/hamas-de-doa-tra-thu-mau-neu-israel-chiem-dong-gaza-4933394.html) - 02:52 30/08/2025
-- ⛽️ [Khoảnh khắc Iskander tập kích bệ tên lửa Thần biển Ukraine](https://vnexpress.net/khoanh-khac-iskander-tap-kich-be-ten-lua-than-bien-ukraine-4933389.html) - 02:19 30/08/2025
-- 🚀 [Đức, Pháp dọa trừng phạt Nga nếu ông Putin không gặp ông Zelensky](https://vnexpress.net/duc-phap-doa-trung-phat-nga-neu-ong-putin-khong-gap-ong-zelensky-4933356.html) - 01:35 30/08/2025
-- 🎡 [Chủ tịch Cuba sắp thăm Việt Nam](https://vnexpress.net/chu-tich-cuba-sap-tham-viet-nam-4933357.html) - 01:18 30/08/2025
-- 🕯 [Ông Kim Jong-un gặp gia đình các binh sĩ thiệt mạng tại Nga](https://vnexpress.net/ong-kim-jong-un-gap-gia-dinh-cac-binh-si-thiet-mang-tai-nga-4933349.html) - 00:56 30/08/2025
-- 🐻 [Mỹ cắt gần 5 tỷ USD viện trợ nước ngoài](https://vnexpress.net/my-cat-gan-5-ty-usd-vien-tro-nuoc-ngoai-4933336.html) - 00:04 30/08/2025
-- 🚦 [Ông Trump rút đặc quyền an ninh của bà Harris](https://vnexpress.net/ong-trump-rut-dac-quyen-an-ninh-cua-ba-harris-4933339.html) - 23:52 29/08/2025
-- 👍 [Chiến thuật dùng &#39;vũ khí đồ cổ&#39; của Ukraine săn tìm UAV Nga](https://vnexpress.net/chien-thuat-dung-vu-khi-do-co-cua-ukraine-san-tim-uav-nga-4932860.html) - 22:00 29/08/2025
-- 🚀 [Bên trong kho tang vật ma túy ở Chicago](https://vnexpress.net/ben-trong-kho-tang-vat-ma-tuy-o-chicago-4931572.html) - 20:00 29/08/2025
-- 🌮 [Hỗn loạn và bất mãn bên trong CDC Mỹ](https://vnexpress.net/hon-loan-va-bat-man-ben-trong-cdc-my-4932892.html) - 17:00 29/08/2025
-- 😎 [Ukraine điều tra nhà sản xuất tên lửa Flamingo vì nghi vấn thổi giá](https://vnexpress.net/ukraine-dieu-tra-nha-san-xuat-ten-lua-flamingo-vi-nghi-van-thoi-gia-4933294.html) - 15:05 29/08/2025
-- 🐲 [Người Indonesia kỳ vọng, hoài nghi với dự án đê biển 700 km](https://vnexpress.net/nguoi-indonesia-ky-vong-hoai-nghi-voi-du-an-de-bien-700-km-4932714.html) - 14:00 29/08/2025
-- 💫 [Chủ tịch nước sẽ tới Trung Quốc dự lễ kỷ niệm chiến thắng phát xít](https://vnexpress.net/chu-tich-nuoc-se-toi-trung-quoc-du-le-ky-niem-chien-thang-phat-xit-4933284.html) - 13:20 29/08/2025
-- 👀 [Israel tuyên bố khởi động chiến dịch tiến công Gaza City](https://vnexpress.net/israel-tuyen-bo-khoi-dong-chien-dich-tien-cong-gaza-city-4933271.html) - 12:41 29/08/2025<!-- vnexpress-the-gioi:END -->
+- 🤗 [Cựu chủ tịch quốc hội Ukraine bị bắn chết giữa phố](https://vnexpress.net/cuu-chu-tich-quoc-hoi-ukraine-bi-ban-chet-giua-pho-4933537.html) - 11:19 30/08/2025
+- 🦩 [Nga phóng gần 600 tên lửa, UAV tập kích Ukraine](https://vnexpress.net/nga-phong-gan-600-ten-lua-uav-tap-kich-ukraine-4933501.html) - 09:52 30/08/2025
+- 🎓 [Biểu tình rung chuyển Indonesia sau vụ xe cảnh sát cán chết người](https://vnexpress.net/bieu-tinh-rung-chuyen-indonesia-sau-vu-xe-canh-sat-can-chet-nguoi-4933454.html) - 09:19 30/08/2025
+- 🌁 [Thẩm phán ngăn ông Trump tăng phạm vi trục xuất nhanh người nhập cư](https://vnexpress.net/tham-phan-ngan-ong-trump-tang-pham-vi-truc-xuat-nhanh-nguoi-nhap-cu-4933474.html) - 08:15 30/08/2025
+- 🤩 [Mỹ từ chối cấp thị thực cho lãnh đạo Palestine tới dự họp LHQ](https://vnexpress.net/my-tu-choi-cap-thi-thuc-cho-lanh-dao-palestine-toi-du-hop-lhq-4933424.html) - 05:01 30/08/2025
+- 👹 [Lực lượng Nga hứng tổn thất vì gài mìn dưới chân cầu chiến lược](https://vnexpress.net/luc-luong-nga-hung-ton-that-vi-gai-min-duoi-chan-cau-chien-luoc-4933406.html) - 04:00 30/08/2025
+- ⛽️ [Kế hoạch của ông Trump nhằm thay đổi hình ảnh Nhà Trắng](https://vnexpress.net/ke-hoach-cua-ong-trump-nham-thay-doi-hinh-anh-nha-trang-4933376.html) - 03:47 30/08/2025
+- 🚀 [Hamas đe dọa &#39;trả thù máu&#39; nếu Israel chiếm đóng Gaza](https://vnexpress.net/hamas-de-doa-tra-thu-mau-neu-israel-chiem-dong-gaza-4933394.html) - 02:52 30/08/2025
+- 🎡 [Khoảnh khắc Iskander tập kích bệ tên lửa Thần biển Ukraine](https://vnexpress.net/khoanh-khac-iskander-tap-kich-be-ten-lua-than-bien-ukraine-4933389.html) - 02:19 30/08/2025
+- 🕯 [Đức, Pháp dọa trừng phạt Nga nếu ông Putin không gặp ông Zelensky](https://vnexpress.net/duc-phap-doa-trung-phat-nga-neu-ong-putin-khong-gap-ong-zelensky-4933356.html) - 01:35 30/08/2025
+- 🐻 [Chủ tịch Cuba sắp thăm Việt Nam](https://vnexpress.net/chu-tich-cuba-sap-tham-viet-nam-4933357.html) - 01:18 30/08/2025
+- 🚦 [Ông Kim Jong-un gặp gia đình các binh sĩ thiệt mạng tại Nga](https://vnexpress.net/ong-kim-jong-un-gap-gia-dinh-cac-binh-si-thiet-mang-tai-nga-4933349.html) - 00:56 30/08/2025
+- 👍 [Mỹ cắt gần 5 tỷ USD viện trợ nước ngoài](https://vnexpress.net/my-cat-gan-5-ty-usd-vien-tro-nuoc-ngoai-4933336.html) - 00:04 30/08/2025
+- 🚀 [Ông Trump rút đặc quyền an ninh của bà Harris](https://vnexpress.net/ong-trump-rut-dac-quyen-an-ninh-cua-ba-harris-4933339.html) - 23:52 29/08/2025
+- 🌮 [Chiến thuật dùng &#39;vũ khí đồ cổ&#39; của Ukraine săn tìm UAV Nga](https://vnexpress.net/chien-thuat-dung-vu-khi-do-co-cua-ukraine-san-tim-uav-nga-4932860.html) - 22:00 29/08/2025
+- 😎 [Bên trong kho tang vật ma túy ở Chicago](https://vnexpress.net/ben-trong-kho-tang-vat-ma-tuy-o-chicago-4931572.html) - 20:00 29/08/2025
+- 🐲 [Hỗn loạn và bất mãn bên trong CDC Mỹ](https://vnexpress.net/hon-loan-va-bat-man-ben-trong-cdc-my-4932892.html) - 17:00 29/08/2025
+- 💫 [Ukraine điều tra nhà sản xuất tên lửa Flamingo vì nghi vấn thổi giá](https://vnexpress.net/ukraine-dieu-tra-nha-san-xuat-ten-lua-flamingo-vi-nghi-van-thoi-gia-4933294.html) - 15:05 29/08/2025
+- 👀 [Người Indonesia kỳ vọng, hoài nghi với dự án đê biển 700 km](https://vnexpress.net/nguoi-indonesia-ky-vong-hoai-nghi-voi-du-an-de-bien-700-km-4932714.html) - 14:00 29/08/2025<!-- vnexpress-the-gioi:END -->
