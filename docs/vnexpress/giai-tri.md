@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Diễn viên Ngọc Trinh &#39;Mùi ngò gai&#39; qua đời](https://vnexpress.net/dien-vien-ngoc-trinh-mui-ngo-gai-qua-doi-4934046.html) - 12:13 01/09/2025
 - 💫 [Nhà Beckham chúc mừng sinh nhật con trai thứ](https://vnexpress.net/nha-beckham-chuc-mung-sinh-nhat-con-trai-thu-4934007.html) - 11:43 01/09/2025
-- 🌮 [Khán giả chỉ trích paparazzi làm lộ nội dung &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/khan-gia-chi-trich-paparazzi-lam-lo-noi-dung-the-devil-wears-prada-2-4933965.html) - 09:58 01/09/2025
+- 🌮 [Paparazzi làm lộ nội dung &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/paparazzi-lam-lo-noi-dung-the-devil-wears-prada-2-4933965.html) - 09:58 01/09/2025
 - 🧠 [Lý do phim &#39;Mưa đỏ&#39; gây sốt](https://vnexpress.net/ly-do-phim-mua-do-gay-sot-4933949.html) - 08:48 01/09/2025
 - 👨‍🏫 [Đầu bếp Gordon Ramsay bị ung thư](https://vnexpress.net/dau-bep-gordon-ramsay-bi-ung-thu-4933998.html) - 08:43 01/09/2025
 - ⚗️ [Sách kể Hoàng hậu Camilla từng bị tấn công tình dục](https://vnexpress.net/sach-ke-hoang-hau-camilla-tung-bi-tan-cong-tinh-duc-4933890.html) - 07:35 01/09/2025
