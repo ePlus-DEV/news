@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Một người ở Hà Nội nghi bị sét đánh tử vong](https://vnexpress.net/mot-nguoi-o-ha-noi-nghi-bi-set-danh-tu-vong-4934040.html) - 12:11 01/09/2025
-- 🤓 [Ba ôtô suýt bị vùi lấp](https://vnexpress.net/ba-oto-suyt-bi-vui-lap-4934022.html) - 11:15 01/09/2025
+- 🦒 [Cô gái ở Hà Nội nghi bị sét đánh tử vong](https://vnexpress.net/co-gai-o-ha-noi-nghi-bi-set-danh-tu-vong-4934040.html) - 12:11 01/09/2025
+- 🤓 [Ba ôtô suýt bị đất đá vùi lấp](https://vnexpress.net/ba-oto-suyt-bi-dat-da-vui-lap-4934022.html) - 11:15 01/09/2025
 - ⚗️ [Cấm xe tải trên 18 tấn lên cầu Vĩnh Tuy sau vụ cháy bãi xe](https://vnexpress.net/cam-xe-tai-tren-18-tan-len-cau-vinh-tuy-sau-vu-chay-bai-xe-4934001.html) - 10:53 01/09/2025
 - 🌊 [Cán bộ xã vượt vùng sạt lở trao quà Quốc khánh cho người dân](https://vnexpress.net/can-bo-xa-vuot-vung-sat-lo-trao-qua-quoc-khanh-cho-nguoi-dan-4934011.html) - 10:28 01/09/2025
-- 🎓 [Bộ đội phát lương khô cho người dân chờ diễu binh](https://vnexpress.net/nguoi-dan-do-ve-ba-dinh-cho-le-dieu-binh-mung-quoc-khanh-4933976.html) - 10:00 01/09/2025
+- 🎓 [Người dân &#39;cắm chốt&#39; quanh Ba Đình chờ lễ diễu binh](https://vnexpress.net/nguoi-dan-do-ve-ba-dinh-cho-le-dieu-binh-mung-quoc-khanh-4933976.html) - 10:00 01/09/2025
 - 🔥 [Gần 2.000 cây dừa ở Gia Lai bị sâu đầu đen tàn phá](https://vnexpress.net/gan-2-000-cay-dua-o-gia-lai-bi-sau-dau-den-tan-pha-4933874.html) - 08:34 01/09/2025
 - 🦏 [Công nghệ thực tế ảo giúp người dân trải nghiệm lịch sử](https://vnexpress.net/cong-nghe-thuc-te-ao-giup-nguoi-dan-trai-nghiem-lich-su-4933097.html) - 07:43 01/09/2025
 - 👺 [Người TP HCM đến phường nhận 100.000 đồng tiền tặng lễ 2/9](https://vnexpress.net/nguoi-tp-hcm-den-phuong-nhan-100-000-dong-tien-tang-le-2-9-4933959.html) - 05:57 01/09/2025
