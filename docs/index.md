@@ -64,7 +64,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Triều đại nào của nước ta có nhiều vua nhất?](https://vnexpress.net/crossword-giai-o-chu-o-chu-trieu-dai-nao-cua-nuoc-ta-co-nhieu-vua-nhat-4928250.html) - 05:00 01/09/2025
 - 🔥 [Mỹ Tâm, Phương Mỹ Chi tập hát cho Lễ Kỷ niệm Quốc khánh](https://vnexpress.net/my-tam-phuong-my-chi-tap-hat-cho-le-ky-niem-quoc-khanh-4933918.html) - 04:52 01/09/2025
 - 🧰 [Suarez nhổ nước bọt vào mặt đối thủ](https://vnexpress.net/suarez-nho-nuoc-bot-vao-mat-doi-thu-4933928.html) - 04:38 01/09/2025
-- 🦒 [Động đất ở Afghanistan, ít nhất 500 người thiệt mạng](https://vnexpress.net/dong-dat-o-afghanistan-it-nhat-500-nguoi-thiet-mang-4933929.html) - 04:28 01/09/2025
+- 🦒 [Động đất ở Afghanistan, hơn 800 người thiệt mạng](https://vnexpress.net/dong-dat-o-afghanistan-hon-800-nguoi-thiet-mang-4933929.html) - 04:28 01/09/2025
 - ⛽️ [Uống 3-4 lon nước ngọt mỗi ngày có hại thận không?](https://vnexpress.net/uong-3-4-lon-nuoc-ngot-moi-ngay-co-hai-than-khong-4933754.html) - 04:00 01/09/2025
 - 🚀 [Gosu giới thiệu game văn hóa Việt tại Triển lãm thành tựu đất nước](https://vnexpress.net/gosu-gioi-thieu-game-van-hoa-viet-tai-trien-lam-thanh-tuu-dat-nuoc-4933155.html) - 04:00 01/09/2025
 - 🪜 [&#39;Guốc xích&#39; giúp xe tăng diễu binh không làm hư đường](https://vnexpress.net/guoc-xich-giup-xe-tang-dieu-binh-khong-lam-hu-duong-4933912.html) - 03:52 01/09/2025
