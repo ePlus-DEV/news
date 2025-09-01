@@ -4,10 +4,10 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Đa dạng các loại drone công nghệ cao tại triển lãm 80 năm](https://dantri.com.vn/khoa-hoc/da-dang-cac-loai-drone-cong-nghe-cao-tai-trien-lam-80-nam-20250901105811928.htm) - 21:55 01/09/2025
-- 👨‍🏫 [Đêm Hà Nội rộn rã tiếng ca, hàng vạn người hân hoan chờ lễ diễu binh](https://dantri.com.vn/xa-hoi/dem-ha-noi-ron-ra-tieng-ca-hang-van-nguoi-han-hoan-cho-le-dieu-binh-20250901220907348.htm) - 19:19 01/09/2025
-- 🌮 [Dàn diễn viên &quot;Mưa đỏ&quot; và 20.000 khán giả hát Còn gì đẹp hơn gây xúc động](https://dantri.com.vn/giai-tri/dan-dien-vien-mua-do-va-20000-khan-gia-hat-con-gi-dep-hon-gay-xuc-dong-20250901235554242.htm) - 17:53 01/09/2025
-- 🕯 [Đội hình xe tăng, thiết giáp sẵn sàng cho lễ diễu binh, diễu hành](https://dantri.com.vn/xa-hoi/doi-hinh-xe-tang-thiet-giap-san-sang-cho-le-dieu-binh-dieu-hanh-20250901124003271.htm) - 17:00 01/09/2025
+- 🎭 [Mong manh sự sống của cậu bé 6 tuổi mắc bệnh hiểm nghèo](https://dantri.com.vn/tam-long-nhan-ai/mong-manh-su-song-cua-cau-be-6-tuoi-mac-benh-hiem-ngheo-20250828170711622.htm) - 22:30 01/09/2025
+- 👨‍🏫 [Đa dạng các loại drone công nghệ cao tại triển lãm 80 năm](https://dantri.com.vn/khoa-hoc/da-dang-cac-loai-drone-cong-nghe-cao-tai-trien-lam-80-nam-20250901105811928.htm) - 21:55 01/09/2025
+- 🌮 [Đêm Hà Nội rộn rã tiếng ca, hàng vạn người hân hoan chờ lễ diễu binh](https://dantri.com.vn/xa-hoi/dem-ha-noi-ron-ra-tieng-ca-hang-van-nguoi-han-hoan-cho-le-dieu-binh-20250901220907348.htm) - 19:19 01/09/2025
+- 🕯 [Dàn diễn viên &quot;Mưa đỏ&quot; và 20.000 khán giả hát Còn gì đẹp hơn gây xúc động](https://dantri.com.vn/giai-tri/dan-dien-vien-mua-do-va-20000-khan-gia-hat-con-gi-dep-hon-gay-xuc-dong-20250901235554242.htm) - 17:53 01/09/2025
 - 🪜 [Mỹ Tâm cất giọng đầy nội lực, cùng Double2T &quot;rực cháy&quot; ở concert quốc gia](https://dantri.com.vn/giai-tri/my-tam-cat-giong-day-noi-luc-cung-double2t-ruc-chay-o-concert-quoc-gia-20250901231555710.htm) - 16:33 01/09/2025
 - 🐘 [Đình Bắc: U23 Việt Nam sẽ mang niềm vui tới người hâm mộ dịp Quốc khánh 2/9](https://dantri.com.vn/the-thao/dinh-bac-u23-viet-nam-se-mang-niem-vui-toi-nguoi-ham-mo-dip-quoc-khanh-29-20250901222816641.htm) - 15:31 01/09/2025
 - 🤔 [Nữ thương binh U80 lúc trẻ ngủ rừng, giờ hạnh phúc chờ xem diễu binh A80](https://dantri.com.vn/doi-song/nu-thuong-binh-u80-luc-tre-ngu-rung-gio-hanh-phuc-cho-xem-dieu-binh-a80-20250901222103371.htm) - 15:27 01/09/2025
