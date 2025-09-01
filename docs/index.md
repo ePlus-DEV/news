@@ -174,7 +174,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧠 [Toàn cảnh 17h: Người dân ‘bám trụ’ xem A80 dù mưa lớn | Thủ tướng yêu cầu chi trả 100.000 đúng hạn](https://thanhnien.vn/toan-canh-17h-nguoi-dan-bam-tru-xem-a80-du-mua-lon-thu-tuong-yeu-cau-chi-tra-100000-dung-han-185250901175242978.htm) - 10:00 01/09/2025
 - 🔥 [Danh ca Thái Châu tiết lộ ca khúc giúp cưới được vợ xinh đẹp](https://thanhnien.vn/danh-ca-thai-chau-tiet-lo-ca-khuc-giup-cuoi-duoc-vo-xinh-dep-185250901155601439.htm) - 10:00 01/09/2025
 - 🌋 [Huawei tuyên bố chiến thắng mọi cấm vận của Mỹ](https://thanhnien.vn/huawei-tuyen-bo-chien-thang-moi-cam-van-cua-my-18525090116030506.htm) - 09:57 01/09/2025
-- 😎 [Người dân ùn ùn đổ về các phố trung tâm chờ xem diễu binh 2.9](https://thanhnien.vn/doi-mua-cho-xem-dieu-binh-29-185250901162835605.htm) - 09:54 01/09/2025
+- 😎 [Người dân ùn ùn đổ về phố trung tâm chờ xem diễu binh 2.9](https://thanhnien.vn/doi-mua-cho-xem-dieu-binh-29-185250901162835605.htm) - 09:54 01/09/2025
 - 🥰 [5 mẫu xe hybrid người Việt ưa chuộng nhất](https://thanhnien.vn/5-mau-xe-hybrid-nguoi-viet-ua-chuong-nhat-185250821152432395.htm) - 09:41 01/09/2025
 - 🧑‍🏫 [Xe máy xăng nhập khẩu ồ ạt giảm giá, khách mua được tặng kèm xe điện](https://thanhnien.vn/xe-may-xang-nhap-khau-o-at-giam-gia-khach-mua-duoc-tang-kem-xe-dien-185250828203601907.htm) - 09:38 01/09/2025
 - 💄 [Triệu hồi ô tô điện hạng sang &#39;xịn&#39; nhất của Porsche tại Việt Nam](https://thanhnien.vn/trieu-hoi-o-to-dien-hang-sang-xin-nhat-cua-porsche-tai-viet-nam-185250831164534449.htm) - 09:36 01/09/2025
