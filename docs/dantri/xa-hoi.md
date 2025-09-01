@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🫣 [Đêm Hà Nội rộn rã tiếng ca, hàng vạn người hân hoan chờ lễ diễu binh](https://dantri.com.vn/xa-hoi/dem-ha-noi-ron-ra-tieng-ca-hang-van-nguoi-han-hoan-cho-le-dieu-binh-20250901220907348.htm) - 19:19 01/09/2025
 - 💼 [Nơi ghi dấu những khoảnh khắc chuyển dòng lịch sử](https://dantri.com.vn/xa-hoi/noi-ghi-dau-nhung-khoanh-khac-chuyen-dong-lich-su-20250901183433824.htm) - 17:16 01/09/2025
 - 🎊 [Sáng Quốc khánh 2/9, Hà Nội nắng nhẹ](https://dantri.com.vn/xa-hoi/sang-quoc-khanh-29-ha-noi-nang-nhe-20250901204702053.htm) - 17:00 01/09/2025
-- 🙉 [Biển người háo hức chờ đợi lễ diễu binh, diễu hành ngày Quốc khánh](https://dantri.com.vn/xa-hoi/bien-nguoi-hao-huc-cho-doi-le-dieu-binh-dieu-hanh-ngay-quoc-khanh-20250901124003271.htm) - 17:00 01/09/2025
+- 🙉 [Đội hình xe tăng, thiết giáp sẵn sàng cho lễ diễu binh, diễu hành](https://dantri.com.vn/xa-hoi/doi-hinh-xe-tang-thiet-giap-san-sang-cho-le-dieu-binh-dieu-hanh-20250901124003271.htm) - 17:00 01/09/2025
 - 🕯 [Thi thể nữ giới không nguyên vẹn nằm trên đường ở TPHCM](https://dantri.com.vn/xa-hoi/thi-the-nu-gioi-khong-nguyen-ven-nam-tren-duong-o-tphcm-20250901222213214.htm) - 15:28 01/09/2025
 - 👍 [Cây lúa Việt Nam đang xanh tốt trên những cánh đồng hữu nghị tại Cuba](https://dantri.com.vn/xa-hoi/cay-lua-viet-nam-dang-xanh-tot-tren-nhung-canh-dong-huu-nghi-tai-cuba-20250901220323804.htm) - 15:03 01/09/2025
 - 🤖 [CSGT giúp đỡ 2 chị em bị lạc khi đi từ Thanh Hóa ra Hà Nội xem diễu binh](https://dantri.com.vn/xa-hoi/csgt-giup-do-2-chi-em-bi-lac-khi-di-tu-thanh-hoa-ra-ha-noi-xem-dieu-binh-20250901214827793.htm) - 15:01 01/09/2025
