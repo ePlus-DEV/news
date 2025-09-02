@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [80 nghệ sĩ diễu hành trong lễ Quốc khánh](https://vnexpress.net/80-nghe-si-dieu-hanh-trong-le-quoc-khanh-4934173.html) - 05:02 02/09/2025
+- 🌏 [80 nghệ sĩ diễu hành, trình diễn mừng Quốc khánh](https://vnexpress.net/80-nghe-si-dieu-hanh-trinh-dien-mung-quoc-khanh-4934173.html) - 05:02 02/09/2025
 - 💫 [&#39;Thiên vương&#39; Trương Học Hữu xin lỗi vì hát tệ](https://vnexpress.net/thien-vuong-truong-hoc-huu-xin-loi-vi-hat-te-4934196.html) - 03:55 02/09/2025
 - 🌮 [Ngày tháng cuối đời của diễn viên Ngọc Trinh](https://vnexpress.net/ngay-thang-cuoi-doi-cua-dien-vien-ngoc-trinh-4934139.html) - 03:19 02/09/2025
 - 🧠 [Nhan sắc tân Hoa hậu Hong Kong](https://vnexpress.net/nhan-sac-tan-hoa-hau-hong-kong-4934158.html) - 02:34 02/09/2025
