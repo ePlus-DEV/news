@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik loại cầu thủ Việt kiều trước vòng loại U23 châu Á](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-cau-thu-viet-kieu-truoc-vong-loai-u23-chau-a-20250902195756096.htm) - 12:30 02/09/2025
-- 💯 [Lamine Yamal bị nghi chia tay ca sĩ nóng bỏng chỉ sau 2 tuần](https://dantri.com.vn/the-thao/lamine-yamal-bi-nghi-chia-tay-ca-si-nong-bong-chi-sau-2-tuan-20250902172932153.htm) - 10:29 02/09/2025
+- 🎡 [Lamine Yamal bị nghi chia tay ca sĩ nóng bỏng chỉ sau 2 tuần](https://dantri.com.vn/the-thao/lamine-yamal-bi-nghi-chia-tay-ca-si-nong-bong-chi-sau-2-tuan-20250902172932153.htm) - 12:31 02/09/2025
+- 💯 [HLV Kim Sang Sik loại cầu thủ Việt kiều trước vòng loại U23 châu Á](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-cau-thu-viet-kieu-truoc-vong-loai-u23-chau-a-20250902195756096.htm) - 12:30 02/09/2025
 - ⛽️ [Trung vệ Duy Mạnh: &quot;Biết ơn và tự hào trong ngày trọng đại của đất nước&quot;](https://dantri.com.vn/the-thao/trung-ve-duy-manh-biet-on-va-tu-hao-trong-ngay-trong-dai-cua-dat-nuoc-20250902155229502.htm) - 09:16 02/09/2025
 - 💃 [HLV Ten Hag lên tiếng chỉ trích Bayer Leverkusen sau khi bị sa thải](https://dantri.com.vn/the-thao/hlv-ten-hag-len-tieng-chi-trich-bayer-leverkusen-sau-khi-bi-sa-thai-20250902104512657.htm) - 05:03 02/09/2025
 - 🌈 [Những thương vụ đáng chú ý thành công trong ngày cuối “chợ hè”](https://dantri.com.vn/the-thao/nhung-thuong-vu-dang-chu-y-thanh-cong-trong-ngay-cuoi-cho-he-20250902105728318.htm) - 04:15 02/09/2025
