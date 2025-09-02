@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Thành phố duy nhất cả nước luôn xếp top đầu về cải cách hành chính](https://dantri.com.vn/noi-vu/thanh-pho-duy-nhat-ca-nuoc-luon-xep-top-dau-ve-cai-cach-hanh-chinh-20250901063809281.htm) - 01:02 02/09/2025
+- 🤠 [Thành phố duy nhất cả nước luôn đứng tốp đầu về cải cách hành chính](https://dantri.com.vn/noi-vu/thanh-pho-duy-nhat-ca-nuoc-luon-dung-top-dau-ve-cai-cach-hanh-chinh-20250901063809281.htm) - 01:02 02/09/2025
 - 🌈 [Những người lính tuổi 18 hành quân xuyên rừng, nay xuyên đêm ngắm hòa bình](https://dantri.com.vn/doi-song/nhung-nguoi-linh-tuoi-18-hanh-quan-xuyen-rung-nay-xuyen-dem-ngam-hoa-binh-20250901194122925.htm) - 00:59 02/09/2025
 - 🐎 [&quot;Không lực cản nào có thể ngăn bước Việt Nam vươn tới thịnh vượng&quot;](https://dantri.com.vn/xa-hoi/khong-luc-can-nao-co-the-ngan-buoc-viet-nam-vuon-toi-thinh-vuong-20250902050213812.htm) - 00:38 02/09/2025
 - 👹 [&quot;Mỏ vàng&quot; công nghệ AI: Việt Nam có trở thành trung tâm mới ở Đông Nam Á?](https://dantri.com.vn/cong-nghe/mo-vang-cong-nghe-ai-viet-nam-co-tro-thanh-trung-tam-moi-o-dong-nam-a-20250831225220443.htm) - 23:02 01/09/2025
