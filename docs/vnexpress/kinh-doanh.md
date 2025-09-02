@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [​Chin-Su được vinh danh &#39;thương hiệu thành công&#39;](https://vnexpress.net/chin-su-duoc-vinh-danh-thuong-hieu-thanh-cong-4934268.html) - 08:00 02/09/2025
 - 🔥 [Vì sao các nhà kinh tế đề cao tính độc lập của Fed?](https://vnexpress.net/vi-sao-cac-nha-kinh-te-de-cao-tinh-doc-lap-cua-fed-4933798.html) - 06:05 02/09/2025
 - 🐵 [&#39;Mặt trận đấu tranh tiền tệ&#39; với đồng Đông Dương](https://vnexpress.net/mat-tran-dau-tranh-tien-te-voi-dong-dong-duong-4934031.html) - 01:30 02/09/2025
-- 🦅 [Giá vàng thế giới lên cao nhất 4 tháng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-2-9-4934156.html) - 01:18 02/09/2025
+- 🦅 [Giá vàng thế giới lên cao nhất 4 tháng](https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-4-thang-4934156.html) - 01:18 02/09/2025
 - 😺 [Quốc gia đầu tiên cấm ống cá đựng tương sushi của Nhật Bản](https://vnexpress.net/quoc-gia-dau-tien-cam-ong-ca-dung-tuong-sushi-cua-nhat-ban-4933981.html) - 14:54 01/09/2025
 - 🤩 [Việt Nam - Campuchia hướng tới kim ngạch thương mại 20 tỷ USD](https://vnexpress.net/viet-nam-campuchia-huong-toi-kim-ngach-thuong-mai-20-ty-usd-4934015.html) - 11:42 01/09/2025
 - 🌮 [Kho bạc đã giải ngân hơn 10.400 tỷ đồng chi phí tặng quà 2/9](https://vnexpress.net/kho-bac-da-giai-ngan-hon-10-400-ty-dong-chi-phi-tang-qua-2-9-4934005.html) - 09:16 01/09/2025
