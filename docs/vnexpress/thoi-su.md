@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Uy lực tàu chiến, máy bay diễu binh trên biển Cam Ranh](https://vnexpress.net/uy-luc-tau-chien-may-bay-dieu-binh-tren-bien-cam-ranh-4934168.html) - 01:52 02/09/2025
 - 🦏 [&#39;Việt Nam hùng cường là lời thề danh dự trước lịch sử&#39;](https://vnexpress.net/viet-nam-hung-cuong-la-loi-the-danh-du-truoc-lich-su-4934150.html) - 01:23 02/09/2025
 - 👺 [Những lão nông miền Tây không có người kế nghiệp](https://vnexpress.net/nhung-lao-nong-mien-tay-khong-co-nguoi-ke-nghiep-4932728.html) - 23:00 01/09/2025
-- 🧑‍🏫 [Hải - lục - không quân cùng khí tài diễu binh mừng Quốc khánh](https://vnexpress.net/ha-noi-san-sang-cho-le-dieu-binh-mung-80-nam-quoc-khanh-4934036.html) - 22:00 01/09/2025
+- 🧑‍🏫 [Hải - lục - không quân cùng khí tài diễu binh mừng Quốc khánh](https://vnexpress.net/ha-noi-san-sang-cho-le-dieu-binh-mung-80-nam-quoc-khanh-4934036-tong-thuat.html) - 22:00 01/09/2025
 - 🚦 [Kho bảo vật quốc gia văn hóa Óc Eo giữa miền Tây](https://vnexpress.net/kho-bao-vat-quoc-gia-van-hoa-oc-eo-giua-mien-tay-4934006.html) - 17:00 01/09/2025
 - 🎉 [Những quyết sách cấp tiến của Chính phủ lâm thời năm 1945](https://vnexpress.net/nhung-quyet-sach-cap-tien-cua-chinh-phu-lam-thoi-nam-1945-4933958.html) - 17:00 01/09/2025
 - 🦒 [An ninh thắt chặt trước giờ diễu binh A80](https://vnexpress.net/an-ninh-that-chat-truoc-gio-dieu-binh-a80-4934080.html) - 15:06 01/09/2025
