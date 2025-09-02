@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người dân ùn ùn trở lại TP HCM sau kỳ nghỉ lễ Quốc khánh](https://vnexpress.net/nguoi-dan-un-un-tro-lai-tp-hcm-sau-ky-nghi-le-quoc-khanh-4934305.html) - 11:00 02/09/2025
-- 🤓 [Các chiến sĩ &#39;bắn tim&#39; gửi người dân](https://vnexpress.net/cac-chien-si-ban-tim-gui-nguoi-dan-4934256.html) - 07:02 02/09/2025
+- 🤓 [Chiến sĩ &#39;bắn tim&#39; gửi người dân](https://vnexpress.net/chien-si-ban-tim-gui-nguoi-dan-4934256.html) - 07:02 02/09/2025
 - ⚗️ [Dàn tên lửa, UAV Việt Nam phô diễn trong diễu binh](https://vnexpress.net/dan-ten-lua-uav-viet-nam-pho-dien-trong-dieu-binh-4934249.html) - 06:46 02/09/2025
 - 🌊 [Mưa lớn gây sạt lở, ngập lụt nhiều nơi ở Lâm Đồng](https://vnexpress.net/mua-lon-gay-sat-lo-ngap-lut-nhieu-noi-o-lam-dong-4934251.html) - 06:39 02/09/2025
 - 🎓 [Quân dân bịn rịn sau lễ diễu binh mừng Quốc khánh](https://vnexpress.net/quan-dan-bin-rin-sau-le-dieu-binh-mung-quoc-khanh-4934215.html) - 06:09 02/09/2025
