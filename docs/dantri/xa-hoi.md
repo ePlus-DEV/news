@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Tháo gỡ vướng mắc chính quyền 2 cấp ở TPHCM](https://dantri.com.vn/xa-hoi/thao-go-vuong-mac-chinh-quyen-2-cap-o-tphcm-20250902211232829.htm) - 14:25 02/09/2025
 - 💼 [Chủ tịch nước Lương Cường bắt đầu chương trình làm việc tại Trung Quốc](https://dantri.com.vn/xa-hoi/chu-tich-nuoc-luong-cuong-bat-dau-chuong-trinh-lam-viec-tai-trung-quoc-20250902212144200.htm) - 14:21 02/09/2025
-- 🎊 [Người dân đội mưa chờ xem pháo hoa ở TPHCM](https://dantri.com.vn/xa-hoi/nguoi-dan-doi-mua-cho-xem-phao-hoa-o-tphcm-20250902205049350.htm) - 14:10 02/09/2025
+- 🎊 [Người dân TPHCM đội mưa xem pháo hoa](https://dantri.com.vn/xa-hoi/nguoi-dan-tphcm-doi-mua-xem-phao-hoa-20250902205049350.htm) - 14:10 02/09/2025
 - 🙉 [Ô tô xếp hàng dài trên cao tốc hướng về TPHCM sau kỳ nghỉ lễ Quốc khánh](https://dantri.com.vn/xa-hoi/o-to-xep-hang-dai-tren-cao-toc-huong-ve-tphcm-sau-ky-nghi-le-quoc-khanh-20250902194740047.htm) - 13:03 02/09/2025
 - 🕯 [Ba thanh niên mất tích ở hồ Đá Xanh, vớt được một thi thể](https://dantri.com.vn/xa-hoi/ba-thanh-nien-mat-tich-o-ho-da-xanh-vot-duoc-mot-thi-the-20250902181435932.htm) - 11:23 02/09/2025
 - 👍 [Lắp camera an ninh trên địa bàn toàn tỉnh Phú Thọ](https://dantri.com.vn/xa-hoi/lap-camera-an-ninh-tren-dia-ban-toan-tinh-phu-tho-20250902172222691.htm) - 11:18 02/09/2025
