@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Chạy đua với những kỳ thi từ lớp một](https://dantri.com.vn/tam-diem/chay-dua-voi-nhung-ky-thi-tu-lop-mot-20250903153210108.htm) - 08:46 03/09/2025
+- 🚦 [Chạy đua với những kỳ thi từ lớp 1](https://dantri.com.vn/tam-diem/chay-dua-voi-nhung-ky-thi-tu-lop-1-20250903153210108.htm) - 08:46 03/09/2025
 - 🫶 [Phân biệt đối xử ẩn dưới “sự quan tâm phái yếu”](https://dantri.com.vn/tam-diem/phan-biet-doi-xu-an-duoi-su-quan-tam-phai-yeu-20250903055028986.htm) - 22:50 02/09/2025
 - 🦏 [Ba Đình vang lên khúc quân hành của cả dân tộc](https://dantri.com.vn/tam-diem/ba-dinh-vang-len-khuc-quan-hanh-cua-ca-dan-toc-20250901204159052.htm) - 07:00 02/09/2025
 - 🧰 [Nghĩ trong ngày độc lập](https://dantri.com.vn/tam-diem/nghi-trong-ngay-doc-lap-20250901204915965.htm) - 00:04 02/09/2025
