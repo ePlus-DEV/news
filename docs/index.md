@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp U23 Việt Nam vs U23 Bangladesh: 0-0 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-bangladesh-chien-thang-dau-tien-101250903182943616.htm) - 11:48 03/09/2025
+- 🤔 [Trực tiếp U23 Việt Nam vs U23 Bangladesh: 1-0 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-bangladesh-chien-thang-dau-tien-101250903182943616.htm) - 11:48 03/09/2025
 - 🥷 [Trực tiếp tứ kết bóng chuyền nữ ngày 3-9: Đại chiến Ý - Ba Lan](https://muctim.tuoitre.vn/truc-tiep-tu-ket-bong-chuyen-nu-ngay-3-9-dai-chien-y-ba-lan-101250903182029546.htm) - 11:32 03/09/2025
 - 🤖 [Teen Trường THPT Trần Khai Nguyên cùng tạo nên khởi đầu mới tại ngày hội đón tân binh](https://muctim.tuoitre.vn/teen-truong-thpt-tran-khai-nguyen-cung-tao-nen-khoi-dau-moi-tai-ngay-hoi-don-tan-binh-101250903140350641.htm) - 10:36 03/09/2025
 - 🤓 [Trực tiếp bóng chuyền nữ thế giới 3-9: Hà Lan, Nhật Bản so tài](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-the-gioi-3-9-ha-lan-nhat-ban-so-tai-101250903161134024.htm) - 09:32 03/09/2025
