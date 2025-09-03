@@ -529,7 +529,7 @@ bảo đảm điều kiện khai giảng năm học mới cho học sinh](https:
 <!-- muctim:START -->
 - 🤔 [Top 5 câu lạc bộ chi tiêu nhiều nhất mùa hè 2025](https://muctim.tuoitre.vn/top-5-cau-lac-bo-chi-tieu-nhieu-nhat-mua-he-2025-101250903173108613.htm) - 12:34 03/09/2025
 - 🥷 [Choi Woo Sik và Jung So Min thành đôi trong phim mới](https://muctim.tuoitre.vn/choi-woo-sik-va-jung-so-min-thanh-doi-trong-phim-moi-101250903175511618.htm) - 12:30 03/09/2025
-- 🤖 [Trực tiếp U23 Việt Nam vs U23 Bangladesh: 1-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-bangladesh-chien-thang-dau-tien-101250903182943616.htm) - 11:48 03/09/2025
+- 🤖 [Ngọc Mỹ, Lê Viktor lập công, U23 Việt Nam tạm dẫn đầu bảng C](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-bangladesh-chien-thang-dau-tien-101250903182943616.htm) - 11:48 03/09/2025
 - 🤓 [Trực tiếp tứ kết bóng chuyền nữ ngày 3-9: Đại chiến Ý - Ba Lan](https://muctim.tuoitre.vn/truc-tiep-tu-ket-bong-chuyen-nu-ngay-3-9-dai-chien-y-ba-lan-101250903182029546.htm) - 11:32 03/09/2025
 - 🎉 [Teen Trường THPT Trần Khai Nguyên cùng tạo nên khởi đầu mới tại ngày hội đón tân binh](https://muctim.tuoitre.vn/teen-truong-thpt-tran-khai-nguyen-cung-tao-nen-khoi-dau-moi-tai-ngay-hoi-don-tan-binh-101250903140350641.htm) - 10:36 03/09/2025
 - 👨‍🏫 [Ngược dòng đánh bại Hà Lan, tuyển bóng chuyền nữ Nhật Bản vào bán kết](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-the-gioi-3-9-ha-lan-nhat-ban-so-tai-101250903161134024.htm) - 09:32 03/09/2025
