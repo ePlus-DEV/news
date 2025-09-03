@@ -4,9 +4,9 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Thông báo kết chuyển Nhân ái tuần 3 tháng 8/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-3-thang-82025-20250903055335813.htm) - 00:41 03/09/2025
-- 🌜 [Danh sách bạn đọc ủng hộ tuần 3 tháng 8 năm 2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-3-thang-8-nam-2025-20250903054933981.htm) - 00:38 03/09/2025
-- 👀 [Không thể lo đủ 130 triệu đồng mổ tim, lao động chính xin về nhà chờ chết](https://dantri.com.vn/tam-long-nhan-ai/khong-the-lo-du-130-trieu-dong-mo-tim-lao-dong-chinh-xin-ve-nha-cho-chet-20250830224545089.htm) - 22:30 02/09/2025
+- 🌝 [Không thể lo đủ 130 triệu đồng mổ tim, lao động chính xin về nhà chờ chết](https://dantri.com.vn/tam-long-nhan-ai/khong-the-lo-du-130-trieu-dong-mo-tim-lao-dong-chinh-xin-ve-nha-cho-chet-20250830224545089.htm) - 22:30 02/09/2025
+- 🌜 [Thông báo kết chuyển Nhân ái tuần 3 tháng 8/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-3-thang-82025-20250903055335813.htm) - 22:29 02/09/2025
+- 👀 [Danh sách bạn đọc ủng hộ tuần 3 tháng 8 năm 2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-3-thang-8-nam-2025-20250903054933981.htm) - 22:28 02/09/2025
 - 🚀 [Mong manh sự sống của cậu bé 6 tuổi mắc bệnh hiểm nghèo](https://dantri.com.vn/tam-long-nhan-ai/mong-manh-su-song-cua-cau-be-6-tuoi-mac-benh-hiem-ngheo-20250828170711622.htm) - 22:30 01/09/2025
 - 🦅 [Xót xa chàng trai người Dao gồng gánh cả gia đình nghèo khó, bệnh tật](https://dantri.com.vn/tam-long-nhan-ai/xot-xa-chang-trai-nguoi-dao-gong-ganh-ca-gia-dinh-ngheo-kho-benh-tat-20250823004337036.htm) - 22:30 31/08/2025
 - 😎 [Mắc bệnh hiểm, cậu bé 15 tuổi phải ngủ ngồi suốt 10 năm](https://dantri.com.vn/tam-long-nhan-ai/mac-benh-hiem-cau-be-15-tuoi-phai-ngu-ngoi-suot-10-nam-20250828141543812.htm) - 22:30 30/08/2025
