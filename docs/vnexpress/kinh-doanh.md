@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng miếng trong nước tăng gần 3 triệu đồng một lượng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-9-4934458.html) - 02:52 03/09/2025
+- ⛽️ [Giá vàng miếng tăng gần 3 triệu đồng một lượng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-9-4934458.html) - 02:52 03/09/2025
 - 🐲 [LPBank nhận bằng khen doanh nghiệp đồng hành cùng đất nước](https://vnexpress.net/lpbank-nhan-bang-khen-doanh-nghiep-dong-hanh-cung-dat-nuoc-4934306.html) - 02:00 03/09/2025
 - 🔥 [Chủ chuỗi Haidilao thu hơn 6 tỷ đồng mỗi ngày tại Việt Nam](https://vnexpress.net/chu-chuoi-haidilao-thu-hon-6-ty-dong-moi-ngay-tai-viet-nam-4934288.html) - 01:02 03/09/2025
 - 🐵 [Mỹ tìm ra hóa chất giúp tái chế nhựa không cần phân loại](https://vnexpress.net/my-tim-ra-hoa-chat-giup-tai-che-nhua-khong-can-phan-loai-4934358.html) - 01:00 03/09/2025
