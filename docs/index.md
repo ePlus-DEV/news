@@ -406,9 +406,9 @@ xây dựng đất nước](https://thanhnien.vn/thanh-cong-cua-viet-nam-la-bai-
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nhà thầu có được cấp giấy xác nhận thu hồi khoáng sản?](https://baochinhphu.vn/nha-thau-co-duoc-cap-giay-xac-nhan-thu-hoi-khoang-san-102250901161154356.htm) - 10:00 03/09/2025
-- 🌜 [Có phải làm thủ tục bổ nhiệm lại khi sáp nhập phòng?](https://baochinhphu.vn/co-phai-lam-thu-tuc-bo-nhiem-lai-khi-sap-nhap-phong-10225082914054701.htm) - 09:00 03/09/2025
-- 🦆 [CẬP NHẬT: Lễ duyệt binh của Trung Quốc kỷ niệm 80 năm Chiến thắng phát xít](https://baochinhphu.vn/cap-nhat-le-duyet-binh-cua-trung-quoc-ky-niem-80-nam-chien-thang-phat-xit-102250903070500076.htm) - 08:34 03/09/2025
+- 💻 [CẬP NHẬT: Lễ duyệt binh của Trung Quốc kỷ niệm 80 năm Chiến thắng phát xít](https://baochinhphu.vn/cap-nhat-le-duyet-binh-cua-trung-quoc-ky-niem-80-nam-chien-thang-phat-xit-102250903070500076.htm) - 10:34 03/09/2025
+- 🌜 [Nhà thầu có được cấp giấy xác nhận thu hồi khoáng sản?](https://baochinhphu.vn/nha-thau-co-duoc-cap-giay-xac-nhan-thu-hoi-khoang-san-102250901161154356.htm) - 10:00 03/09/2025
+- 🦆 [Có phải làm thủ tục bổ nhiệm lại khi sáp nhập phòng?](https://baochinhphu.vn/co-phai-lam-thu-tuc-bo-nhiem-lai-khi-sap-nhap-phong-10225082914054701.htm) - 09:00 03/09/2025
 - 🌝 [Công ty có bắt buộc phải xác nhận thu nhập cho nhân viên mua nhà ở xã hội?](https://baochinhphu.vn/cong-ty-co-bat-buoc-phai-xac-nhan-thu-nhap-cho-nhan-vien-mua-nha-o-xa-hoi-102250901175424527.htm) - 08:00 03/09/2025
 - 🦣 [Giáo viên trưng tập có được hưởng phụ cấp đứng lớp?](https://baochinhphu.vn/giao-vien-trung-tap-co-duoc-huong-phu-cap-dung-lop-102250828143300879.htm) - 07:00 03/09/2025
 - ⛽️ [Ủy viên trưởng Nhân đại toàn quốc Trung Quốc Triệu Lạc Tế kết thúc chuyến thăm chính thức Việt Nam](https://baochinhphu.vn/uy-vien-truong-nhan-dai-toan-quoc-trung-quoc-trieu-lac-te-ket-thuc-chuyen-tham-chinh-thuc-viet-nam-102250902230751427.htm) - 06:34 03/09/2025
