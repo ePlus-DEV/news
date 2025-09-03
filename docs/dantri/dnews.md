@@ -4,8 +4,8 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Loạt ô tô dự kiến ra mắt tháng 9: Có xe gầm cao giá chưa tới 400 triệu đồng](https://dantri.com.vn/o-to-xe-may/loat-o-to-du-kien-ra-mat-thang-9-co-xe-gam-cao-gia-chua-toi-400-trieu-dong-20250903115556797.htm) - 07:26 03/09/2025
-- 🌈 [Nữ VĐV xinh đẹp xúc động khi được vinh dự rước đuốc ở Lễ kỷ niệm A80](https://dantri.com.vn/the-thao/nu-vdv-xinh-dep-xuc-dong-khi-duoc-vinh-du-ruoc-duoc-o-le-ky-niem-a80-20250903112402872.htm) - 04:40 03/09/2025
+- 🤠 [Nữ VĐV xinh đẹp xúc động khi được vinh dự rước đuốc ở Lễ kỷ niệm A80](https://dantri.com.vn/the-thao/nu-vdv-xinh-dep-xuc-dong-khi-duoc-vinh-du-ruoc-duoc-o-le-ky-niem-a80-20250903112402872.htm) - 10:40 03/09/2025
+- 🌈 [Loạt ô tô dự kiến ra mắt tháng 9: Có xe gầm cao giá chưa tới 400 triệu đồng](https://dantri.com.vn/o-to-xe-may/loat-o-to-du-kien-ra-mat-thang-9-co-xe-gam-cao-gia-chua-toi-400-trieu-dong-20250903115556797.htm) - 07:26 03/09/2025
 - 🐎 [MC Hạnh Phúc VTV kể hậu trường dẫn trực tiếp lễ diễu binh, diễu hành 2/9](https://dantri.com.vn/giai-tri/mc-hanh-phuc-vtv-ke-hau-truong-dan-truc-tiep-le-dieu-binh-dieu-hanh-29-20250903101356972.htm) - 03:29 03/09/2025
 - 👹 [Cách xem lại trọn vẹn Lễ diễu binh ngày 2/9 trên điện thoại và máy tính](https://dantri.com.vn/cong-nghe/cach-xem-lai-tron-ven-le-dieu-binh-ngay-29-tren-dien-thoai-va-may-tinh-20250902135119580.htm) - 23:55 02/09/2025
 - 🫶 [Cuộc sống của bé gái trong bức ảnh được Bác Hồ bế, đặt tên 76 năm trước](https://dantri.com.vn/doi-song/cuoc-song-cua-be-gai-trong-buc-anh-duoc-bac-ho-be-dat-ten-76-nam-truoc-20250817183715916.htm) - 23:04 02/09/2025
