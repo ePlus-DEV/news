@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đối thủ chính của U23 Việt Nam có chiến thắng trong trận ra quân](https://dantri.com.vn/the-thao/doi-thu-chinh-cua-u23-viet-nam-co-chien-thang-trong-tran-ra-quan-20250903185840147.htm) - 12:15 03/09/2025
-- 💯 [U23 Việt Nam 1-0 U23 Bangladesh &lpar;hiệp 1&rpar;: Ngọc Mỹ mở tỷ số trận đấu](https://dantri.com.vn/the-thao/u23-viet-nam-1-0-u23-bangladesh-hiep-1-ngoc-my-mo-ty-so-tran-dau-20250903111944930.htm) - 11:20 03/09/2025
+- 💯 [U23 Việt Nam 1-0 U23 Bangladesh &lpar; hiệp 2&rpar;: Văn Khang, Lê Victor vào sân](https://dantri.com.vn/the-thao/u23-viet-nam-1-0-u23-bangladesh-hiep-2-van-khang-le-victor-vao-san-20250903111944930.htm) - 11:20 03/09/2025
 - ⛽️ [Nữ VĐV xinh đẹp xúc động khi được vinh dự rước đuốc ở Lễ kỷ niệm A80](https://dantri.com.vn/the-thao/nu-vdv-xinh-dep-xuc-dong-khi-duoc-vinh-du-ruoc-duoc-o-le-ky-niem-a80-20250903112402872.htm) - 10:40 03/09/2025
 - 💃 [Jamie Carragher bất ngờ tiết lộ lý do HLV Amorim chưa bị Man Utd sa thải](https://dantri.com.vn/the-thao/jamie-carragher-bat-ngo-tiet-lo-ly-do-hlv-amorim-chua-bi-man-utd-sa-thai-20250903132743165.htm) - 10:37 03/09/2025
 - 🌈 [Quang Dương khiến người hâm mộ pickleball Việt Nam tiếc nuối](https://dantri.com.vn/the-thao/quang-duong-khien-nguoi-ham-mo-pickleball-viet-nam-tiec-nuoi-20250903144157957.htm) - 10:29 03/09/2025
