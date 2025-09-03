@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [U23 Việt Nam 2-0 Bangladesh &lpar;H2&rpar;: Lê Viktor ghi bàn](https://vnexpress.net/truc-tiep-u23-viet-nam-vs-u23-bangladesh-4934655.html) - 11:15 03/09/2025
+- 🪜 [Việt Nam thắng dễ trận đầu vòng loại U23 châu Á](https://vnexpress.net/truc-tiep-u23-viet-nam-vs-u23-bangladesh-4934655-tong-thuat.html) - 11:15 03/09/2025
 - 🦩 [VnExpress Marathon Cần Thơ công bố đường chạy qua 14 cây cầu](https://vnexpress.net/vnexpress-marathon-can-tho-cong-bo-duong-chay-qua-14-cay-cau-4934598.html) - 11:00 03/09/2025
 - 🧰 [Bạn thân nhận áo của Jota ở tuyển Bồ Đào Nha](https://vnexpress.net/ban-than-nhan-ao-cua-jota-o-tuyen-bo-dao-nha-4934676.html) - 10:47 03/09/2025
 - 🤗 [Những bước chạy mừng Quốc khánh](https://vnexpress.net/nhung-buoc-chay-mung-quoc-khanh-4934571.html) - 08:59 03/09/2025
