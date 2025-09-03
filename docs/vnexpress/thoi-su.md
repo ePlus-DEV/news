@@ -6,9 +6,9 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cát tràn ngập cao tốc Vĩnh Hảo - Phan Thiết](https://vnexpress.net/cat-tran-ngap-cao-toc-vinh-hao-phan-thiet-4934448.html) - 03:05 03/09/2025
 - 🤓 [Cửa ngõ phía đông TP HCM ùn tắc 3 km](https://vnexpress.net/cua-ngo-phia-dong-tp-hcm-un-tac-3-km-4934420.html) - 02:02 03/09/2025
-- ⚗️ [Những hình ảnh nổi bật trong đại lễ A80](https://vnexpress.net/nhung-hinh-anh-noi-bat-trong-dai-le-a80-4934129.html) - 23:00 02/09/2025
+- ⚗️ [Những hình ảnh nổi bật trong đại lễ 80 năm Quốc khánh](https://vnexpress.net/nhung-hinh-anh-noi-bat-trong-dai-le-80-nam-quoc-khanh-4934129.html) - 23:00 02/09/2025
 - 🌊 [300 ngày thần tốc xây dựng nhà triển lãm Kim Quy](https://vnexpress.net/300-ngay-than-toc-xay-dung-nha-trien-lam-kim-quy-4933830.html) - 23:00 02/09/2025
-- 🎓 [Đội hình tăng thiết giáp tham gia diễu binh A80](https://vnexpress.net/doi-hinh-tang-thiet-giap-tham-gia-dieu-binh-a80-4934301.html) - 17:00 02/09/2025
+- 🎓 [Đội hình tăng thiết giáp tham gia diễu binh](https://vnexpress.net/doi-hinh-tang-thiet-giap-tham-gia-dieu-binh-4934301.html) - 17:00 02/09/2025
 - 🔥 [66 loạt đại bác mừng 80 năm Quốc khánh](https://vnexpress.net/66-loat-dai-bac-mung-80-nam-quoc-khanh-4934350.html) - 16:44 02/09/2025
 - 🦏 [Kéo dài thời gian Triển lãm thành tựu đất nước đến hết 15/9](https://vnexpress.net/keo-dai-thoi-gian-trien-lam-thanh-tuu-dat-nuoc-den-het-15-9-4934345.html) - 15:48 02/09/2025
 - 👺 [Pháo hoa rực sáng bầu trời Hà Nội, TP HCM đêm 2/9](https://vnexpress.net/phao-hoa-ruc-sang-bau-troi-ha-noi-tp-hcm-dem-2-9-4934341.html) - 14:55 02/09/2025
