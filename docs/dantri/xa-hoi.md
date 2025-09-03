@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Tinh thần Quốc khách bất diệt thành động lực đưa dân tộc vào kỷ nguyên mới](https://dantri.com.vn/xa-hoi/tinh-than-quoc-khach-bat-diet-thanh-dong-luc-dua-dan-toc-vao-ky-nguyen-moi-20250903191508366.htm) - 12:15 03/09/2025
+- 🫣 [Tinh thần Quốc khánh bất diệt thành động lực đưa dân tộc vào kỷ nguyên mới](https://dantri.com.vn/xa-hoi/tinh-than-quoc-khanh-bat-diet-thanh-dong-luc-dua-dan-toc-vao-ky-nguyen-moi-20250903191508366.htm) - 12:15 03/09/2025
 - 💼 [Cần cẩu đổ sập tại dự án Vành đai 3 ở TPHCM, 2 người bị thương](https://dantri.com.vn/xa-hoi/can-cau-do-sap-tai-du-an-vanh-dai-3-o-tphcm-2-nguoi-bi-thuong-20250903175159077.htm) - 10:54 03/09/2025
 - 🎊 [Tội phạm tham nhũng giảm nhưng số tài sản tham nhũng thu hồi tăng rất cao](https://dantri.com.vn/xa-hoi/toi-pham-tham-nhung-giam-nhung-so-tai-san-tham-nhung-thu-hoi-tang-rat-cao-20250903174953156.htm) - 10:53 03/09/2025
 - 🙉 [Hà Nội phân luồng lại cầu Vĩnh Tuy sau vụ cháy lớn dưới gầm cầu](https://dantri.com.vn/xa-hoi/ha-noi-phan-luong-lai-cau-vinh-tuy-sau-vu-chay-lon-duoi-gam-cau-20250903171715256.htm) - 10:35 03/09/2025
