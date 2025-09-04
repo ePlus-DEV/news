@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [5 quán bún chả chuyên gia gợi ý khách nên thử ở Hà Nội](https://vnexpress.net/5-quan-bun-cha-chuyen-gia-goi-y-khach-nen-thu-o-ha-noi-4934764.html) - 05:49 04/09/2025
 - 🪄 [Khách Việt đến Hàn Quốc nhiều thứ hai khu vực](https://vnexpress.net/khach-viet-den-han-quoc-nhieu-thu-hai-khu-vuc-4934912.html) - 05:42 04/09/2025
 - 🦅 [Tượng cánh tay ở Hải Tiến bị sóng xô lật nghiêng](https://vnexpress.net/tuong-canh-tay-o-hai-tien-bi-song-xo-lat-nghieng-4934909.html) - 04:07 04/09/2025
-- 🕴 [Phép thử cho du lịch Hà Nội sau &#39;cú hích&#39; 80 năm Quốc khánh](https://vnexpress.net/phep-thu-cho-du-lich-ha-noi-sau-cu-hich-80-nam-quoc-khanh-4934787.html) - 03:47 04/09/2025
+- 🕴 [&#39;Cú hích&#39; cho du lịch Hà Nội sau đại lễ 80 năm Quốc khánh](https://vnexpress.net/cu-hich-cho-du-lich-ha-noi-sau-dai-le-80-nam-quoc-khanh-4934787.html) - 03:47 04/09/2025
 - 👀 [Thói quen tip tiền đảo lộn văn hóa phục vụ tận tâm ở Nhật Bản](https://vnexpress.net/thoi-quen-tip-tien-dao-lon-van-hoa-phuc-vu-tan-tam-o-nhat-ban-4934782.html) - 23:49 03/09/2025
 - 🎭 [Hơn 30 năm du lịch Việt đổi thay trong mắt khách Tây](https://vnexpress.net/hon-30-nam-du-lich-viet-doi-thay-trong-mat-khach-tay-4931854.html) - 17:00 03/09/2025
 - 🦒 [Gần 4 triệu lượt khách đến Trung tâm triển lãm Việt Nam](https://vnexpress.net/gan-4-trieu-luot-khach-den-trung-tam-trien-lam-viet-nam-4934753.html) - 14:00 03/09/2025
