@@ -73,8 +73,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Vì sao phụ nữ ngại dùng AI hơn nam giới?](https://vnexpress.net/vi-sao-phu-nu-ngai-dung-ai-hon-nam-gioi-4934710.html) - 08:00 04/09/2025
 - 🧑‍🏫 [Ba yếu tố nền tảng trong đầu tư chứng khoán](https://vnexpress.net/ba-yeu-to-nen-tang-trong-dau-tu-chung-khoan-4935038.html) - 08:00 04/09/2025
 - 🎓 [Chăm sóc sức khỏe cha mẹ với dinh dưỡng khoa học từ Abbott](https://vnexpress.net/cham-soc-suc-khoe-cha-me-voi-dinh-duong-khoa-hoc-tu-abbott-4935035.html) - 08:00 04/09/2025
-- 💫 [Doanh nghiệp Việt hợp lực làm chủ công nghệ tự hành](https://vnexpress.net/doanh-nghiep-viet-hop-luc-lam-chu-cong-nghe-tu-hanh-4935012.html) - 08:00 04/09/2025
-- 🤩 [Vì sao chúng ta cảm thấy ngày tháng trôi nhanh?](https://vnexpress.net/vi-sao-chung-ta-cam-thay-ngay-thang-troi-nhanh-4934792.html) - 07:55 04/09/2025<!-- vnexpress:END -->
+- 💫 [Doanh nghiệp Việt hợp lực làm chủ công nghệ tự hành](https://vnexpress.net/doanh-nghiep-viet-hop-luc-lam-chu-cong-nghe-tu-hanh-4935012.html) - 08:00 04/09/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
