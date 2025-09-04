@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U23 Thái Lan thắng đậm, nhiều đội bóng Đông Nam Á gây thất vọng](https://dantri.com.vn/the-thao/u23-thai-lan-thang-dam-nhieu-doi-bong-dong-nam-a-gay-that-vong-20250903225703738.htm) - 23:16 03/09/2025
-- 💯 [Thủ môn U23 Lào tuyên bố bất ngờ khi khiến U23 Indonesia chịu cú sốc lớn](https://dantri.com.vn/the-thao/thu-mon-u23-lao-tuyen-bo-bat-ngo-khi-khien-u23-indonesia-chiu-cu-soc-lon-20250903234242215.htm) - 23:10 03/09/2025
+- 💯 [Thủ môn U23 Lào tuyên bố bất ngờ sau khi khiến U23 Indonesia nhận cú sốc](https://dantri.com.vn/the-thao/thu-mon-u23-lao-tuyen-bo-bat-ngo-sau-khi-khien-u23-indonesia-nhan-cu-soc-20250903234242215.htm) - 23:10 03/09/2025
 - ⛽️ [Xác định hai cái tên đầu tiên vào bán kết bóng chuyền nữ vô địch thế giới](https://dantri.com.vn/the-thao/xac-dinh-hai-cai-ten-dau-tien-vao-ban-ket-bong-chuyen-nu-vo-dich-the-gioi-20250903235144959.htm) - 23:07 03/09/2025
 - 💃 [Báo Bangladesh bình luận khi đội nhà thất bại dễ dàng trước U23 Việt Nam](https://dantri.com.vn/the-thao/bao-bangladesh-binh-luan-khi-doi-nha-that-bai-de-dang-truoc-u23-viet-nam-20250904004418816.htm) - 23:01 03/09/2025
 - 🌈 [HLV Kim Sang Sik nói điều tận đáy lòng về các cầu thủ U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-dieu-tan-day-long-ve-cac-cau-thu-u23-viet-nam-20250903221214813.htm) - 15:17 03/09/2025
