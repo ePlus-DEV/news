@@ -6,11 +6,11 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bộ Chính trị: Cơ cấu lại ngành điện để người dân được chọn đơn vị cung cấp](https://vnexpress.net/bo-chinh-tri-co-cau-lai-nganh-dien-de-nguoi-dan-duoc-chon-don-vi-cung-cap-4934869.html) - 03:04 04/09/2025
 - 🐲 [Mô hình nhượng quyền đổi pin xe máy điện từ 210 triệu đồng](https://vnexpress.net/mo-hinh-nhuong-quyen-doi-pin-xe-may-dien-tu-210-trieu-dong-4934870.html) - 03:00 04/09/2025
-- 🔥 [Trung tâm tài chính TP HCM dự kiến khởi động xây dựng từ tháng 9](https://vnexpress.net/trung-tam-tai-chinh-tp-hcm-du-kien-khoi-dong-xay-dung-tu-thang-9-4934813.html) - 02:54 04/09/2025
+- 🔥 [TP HCM yêu cầu đẩy nhanh tiến độ xây trung tâm tài chính quốc tế](https://vnexpress.net/tp-hcm-yeu-cau-day-nhanh-tien-do-xay-trung-tam-tai-chinh-quoc-te-4934813.html) - 02:54 04/09/2025
 - 🐵 [Giá vàng miếng lên sát 134 triệu đồng](https://vnexpress.net/gia-vang-mieng-len-sat-134-trieu-dong-4934863.html) - 02:39 04/09/2025
-- 🦅 [Giá vàng thế giới tiếp tục tăng cao](https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4934798.html) - 00:21 04/09/2025
+- 🦅 [Giá vàng thế giới quay đầu sau khi lập đỉnh mới](https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4934798.html) - 00:21 04/09/2025
 - 😺 [Chà là tươi Thái Lan về Việt Nam giảm giá mạnh](https://vnexpress.net/cha-la-tuoi-thai-lan-ve-viet-nam-giam-gia-manh-4934541.html) - 23:14 03/09/2025
-- 🤩 [Hàng không bắt đầu bán vé Tết 2026](https://vnexpress.net/hang-khong-bat-dau-ban-ve-tet-2026-4934554.html) - 17:10 03/09/2025
+- 🤩 [Hàng không bắt đầu bán 6 triệu vé Tết Bính Ngọ 2026](https://vnexpress.net/hang-khong-bat-dau-ban-6-trieu-ve-tet-binh-ngo-2026-4934554.html) - 17:10 03/09/2025
 - 🌮 [Quốc Cường Gia Lai bị nghi ngờ khả năng hoạt động liên tục](https://vnexpress.net/quoc-cuong-gia-lai-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-4934754.html) - 17:03 03/09/2025
 - 🧰 [Bộ trưởng Tài chính kiêm chức Chủ tịch Hội đồng quản lý Bảo hiểm xã hội](https://vnexpress.net/bo-truong-tai-chinh-kiem-chuc-chu-tich-hoi-dong-quan-ly-bao-hiem-xa-hoi-4934752.html) - 14:00 03/09/2025
 - 🤔 [Đầu tư công cần ưu tiên cho các dự án lớn &#39;có thể xoay chuyển tình thế&#39;](https://vnexpress.net/dau-tu-cong-can-uu-tien-cho-cac-du-an-lon-co-the-xoay-chuyen-tinh-the-4934748.html) - 13:37 03/09/2025
