@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Thủ môn U23 Lào tuyên bố bất ngờ khi khiến U23 Indonesia chịu cú sốc lớn](https://dantri.com.vn/the-thao/thu-mon-u23-lao-tuyen-bo-bat-ngo-khi-khien-u23-indonesia-chiu-cu-soc-lon-20250903234242215.htm) - 23:10 03/09/2025
+- 🎭 [Thủ môn U23 Lào tuyên bố bất ngờ sau khi khiến U23 Indonesia nhận cú sốc](https://dantri.com.vn/the-thao/thu-mon-u23-lao-tuyen-bo-bat-ngo-sau-khi-khien-u23-indonesia-nhan-cu-soc-20250903234242215.htm) - 23:10 03/09/2025
 - 👨‍🏫 [Bị &quot;bắt cóc online&quot;, nam thanh niên lột quần áo, diễn cảnh bị đánh đập](https://dantri.com.vn/phap-luat/bi-bat-coc-online-nam-thanh-nien-lot-quan-ao-dien-canh-bi-danh-dap-20250904002453982.htm) - 23:09 03/09/2025
 - 🌮 [Số tiền bí ẩn Phạm Văn Tam chi cho Giám đốc Công ty Sa Huỳnh](https://dantri.com.vn/phap-luat/so-tien-bi-an-pham-van-tam-chi-cho-giam-doc-cong-ty-sa-huynh-20250903175747294.htm) - 23:06 03/09/2025
 - 🕯 [Con gái u máu, chồng tai biến liệt giường, người phụ nữ khẩn cầu sự giúp đỡ](https://dantri.com.vn/tam-long-nhan-ai/con-gai-u-mau-chong-tai-bien-liet-giuong-nguoi-phu-nu-khan-cau-su-giup-do-20250901140345948.htm) - 22:30 03/09/2025
