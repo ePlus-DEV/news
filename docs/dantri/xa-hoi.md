@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Miền Bắc nắng nóng, Biển Đông có thể đón bão](https://dantri.com.vn/xa-hoi/mien-bac-nang-nong-bien-dong-co-the-don-bao-20250905210605174.htm) - 14:54 05/09/2025
-- 💼 [Biển Đông khả năng đón bão số 7 trong ngày mai](https://dantri.com.vn/xa-hoi/bien-dong-kha-nang-don-bao-so-7-trong-ngay-mai-20250905212507528.htm) - 14:29 05/09/2025
+- 💼 [Biển Đông sắp đón cơn bão số 7](https://dantri.com.vn/xa-hoi/bien-dong-sap-don-con-bao-so-7-20250905212507528.htm) - 14:29 05/09/2025
 - 🎊 [Đà Nẵng lập tổ công tác tháo gỡ dự án bất động sản nợ gần 1.000 sổ đỏ](https://dantri.com.vn/xa-hoi/da-nang-lap-to-cong-tac-thao-go-du-an-bat-dong-san-no-gan-1000-so-do-20250905195550378.htm) - 13:52 05/09/2025
 - 🙉 [Mua bán tài khoản ngân hàng, 2 đối tượng bị xử phạt 91 triệu đồng](https://dantri.com.vn/xa-hoi/mua-ban-tai-khoan-ngan-hang-2-doi-tuong-bi-xu-phat-91-trieu-dong-20250905200242513.htm) - 13:42 05/09/2025
 - 🕯 [Rơi xuống hồ thủy lợi, nam sinh lớp 8 ở Lâm Đồng tử vong](https://dantri.com.vn/xa-hoi/roi-xuong-ho-thuy-loi-nam-sinh-lop-8-o-lam-dong-tu-vong-20250905200906029.htm) - 13:29 05/09/2025
