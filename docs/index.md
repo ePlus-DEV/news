@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Chân dung tân Thủ tướng Thái Lan Anutin Charnvirakul](https://nld.com.vn/chan-dung-tan-thu-tuong-thai-lan-anutin-charnvirakul-196250905170142853.htm) - 10:30 05/09/2025
 - 😺 [Một người ở Đồng Tháp thừa nhận hành vi vi phạm và tự nguyện rời khỏi nhóm phản động trên mạng](https://nld.com.vn/mot-nguoi-o-dong-thap-thua-nhan-hanh-vi-vi-pham-va-tu-nguyen-roi-khoi-nhom-phan-dong-tren-mang-196250905170318811.htm) - 10:07 05/09/2025
-- 👍 [Ngành ngân hàng hoàn tất đối chiếu sinh trắc học, giao dịch số tiếp tục tăng mạnh](https://nld.com.vn/nganh-ngan-hang-hoan-tat-doi-chieu-sinh-trac-hoc-giao-dich-so-tiep-tuc-tang-manh-196250905170128716.htm) - 10:05 05/09/2025
+- 👍 [Ngân hàng hoàn tất đối chiếu sinh trắc học, giảm hơn 59% vụ lừa đảo](https://nld.com.vn/nganh-ngan-hang-hoan-tat-doi-chieu-sinh-trac-hoc-giao-dich-so-tiep-tuc-tang-manh-196250905170128716.htm) - 10:05 05/09/2025
 - 🥷 [Hai chương trình của Đại học Y Hà Nội đạt chuẩn 5 sao quốc tế](https://nld.com.vn/hai-chuong-trinh-cua-dai-hoc-y-ha-noi-dat-chuan-5-sao-quoc-te-196250905154850737.htm) - 10:05 05/09/2025
 - 🤔 [Gần 800 suất học bổng đang chờ học sinh-sinh viên](https://nld.com.vn/gan-800-suat-hoc-bong-dang-cho-hoc-sinh-sinh-vien-196250905155406129.htm) - 10:00 05/09/2025
 - 🌈 [Xuất hiện vùng áp thấp trên Biển Đông, dự báo sẽ mạnh thêm](https://nld.com.vn/xuat-hien-vung-ap-thap-tren-bien-dong-du-bao-se-manh-them-19625090516503329.htm) - 09:57 05/09/2025
