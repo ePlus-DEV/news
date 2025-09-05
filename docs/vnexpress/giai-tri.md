@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Mỹ Tâm tặng tivi cho trường học cũ dịp khai giảng](https://vnexpress.net/my-tam-tang-tivi-cho-truong-hoc-cu-dip-khai-giang-4935412.html) - 09:27 05/09/2025
+- 🌏 [Mỹ Tâm tặng tivi cho trường học cũ](https://vnexpress.net/my-tam-tang-tivi-cho-truong-hoc-cu-4935412.html) - 09:27 05/09/2025
 - 💫 [Angelina Jolie để tóc ngắn](https://vnexpress.net/angelina-jolie-de-toc-ngan-4935585.html) - 09:04 05/09/2025
 - 🌮 [Đạo diễn Phạm Thị Thành - người &#39;thắp lửa&#39;](https://vnexpress.net/dao-dien-pham-thi-thanh-nguoi-thap-lua-4935049.html) - 08:27 05/09/2025
 - 🧠 [Phương Thanh hát về &#39;Mẹ thiên nhiên&#39;](https://vnexpress.net/phuong-thanh-hat-ve-me-thien-nhien-4931972.html) - 08:22 05/09/2025
