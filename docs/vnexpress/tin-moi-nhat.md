@@ -17,7 +17,7 @@ sidebar_position: 9
 - 👨‍🏫 [Những công trình dấu ấn ngành điện 80 năm qua](https://vnexpress.net/nhung-cong-trinh-dau-an-nganh-dien-80-nam-qua-4935520.html) - 17:00 05/09/2025
 - 🎊 [Chỉ cần em nhanh nhẹn, chúng ta sẽ cùng buôn bán](https://vnexpress.net/chi-can-em-nhanh-nhen-chung-ta-se-cung-buon-ban-4935396.html) - 17:00 05/09/2025
 - 🎊 [Ông Trump đã làm gì để gây áp lực với ông Putin?](https://vnexpress.net/ong-trump-da-lam-gi-de-gay-ap-luc-voi-ong-putin-4935298.html) - 17:00 05/09/2025
-- 😺 [Đam mê nghệ thuật của em bé hát cùng Mỹ Tâm ở đại lễ 2/9](https://vnexpress.net/dam-me-nghe-thuat-cua-em-be-hat-cung-my-tam-o-dai-le-2-9-4935204.html) - 17:00 05/09/2025
+- 😺 [Khiếu múa hát của em bé song ca Mỹ Tâm ở đại lễ 2/9](https://vnexpress.net/khieu-mua-hat-cua-em-be-song-ca-my-tam-o-dai-le-2-9-4935204.html) - 17:00 05/09/2025
 - 🐘 [Quyết định buông bỏ người đàn ông tưởng &#39;im lặng là quyền lực&#39;](https://vnexpress.net/khong-con-tinh-yeu-phan-boi-tinh-yeu-quyet-dinh-buong-bo-nguoi-dan-ong-tuong-im-lang-la-quyen-luc-4934967.html) - 17:00 05/09/2025
 - 🌁 [Cảnh báo về &#39;ma cà rồng&#39; hút điện trong nhà](https://vnexpress.net/canh-bao-ve-ma-ca-rong-hut-dien-trong-nha-4934820.html) - 17:00 05/09/2025
 - 🐲 [Ví tiền hộ gia đình mỏng dần giữa vòng xoáy chi phí](https://vnexpress.net/vi-tien-ho-gia-dinh-mong-dan-giua-vong-xoay-chi-phi-4933392.html) - 17:00 05/09/2025
