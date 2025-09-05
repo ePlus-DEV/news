@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Tiếng trống năm học mới ngân vang trên quần đảo Trường Sa](https://dantri.com.vn/giao-duc/tieng-trong-nam-hoc-moi-ngan-vang-tren-quan-dao-truong-sa-20250905170425127.htm) - 10:18 05/09/2025
+- 🤡 [Tiếng trống năm học mới rộn ràng trên quần đảo Trường Sa](https://dantri.com.vn/giao-duc/tieng-trong-nam-hoc-moi-ron-rang-tren-quan-dao-truong-sa-20250905170425127.htm) - 10:18 05/09/2025
 - 🗽 [Lễ khai giảng ở ngôi trường mang tên cố Tổng Bí thư Đỗ Mười](https://dantri.com.vn/giao-duc/le-khai-giang-o-ngoi-truong-mang-ten-co-tong-bi-thu-do-muoi-20250905161438356.htm) - 09:51 05/09/2025
 - 🚦 [Ấn tượng lễ khai giảng năm học mới tại Hệ thống Giáo dục Lý Thái Tổ](https://dantri.com.vn/giao-duc/an-tuong-le-khai-giang-nam-hoc-moi-tai-he-thong-giao-duc-ly-thai-to-20250905162847965.htm) - 09:42 05/09/2025
 - 🌋 [Món quà bất ngờ của Phó Bí thư Đảng ủy xã trong lễ khai giảng](https://dantri.com.vn/giao-duc/mon-qua-bat-ngo-cua-pho-bi-thu-dang-uy-xa-trong-le-khai-giang-20250905144304573.htm) - 08:46 05/09/2025
