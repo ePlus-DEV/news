@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Bức thư tình người chồng thời Đường gửi vợ](https://vnexpress.net/buc-thu-tinh-nguoi-chong-thoi-duong-gui-vo-4935059.html) - 17:05 05/09/2025
-- 💫 [Đam mê nghệ thuật của em bé hát cùng Mỹ Tâm ở đại lễ 2/9](https://vnexpress.net/dam-me-nghe-thuat-cua-em-be-hat-cung-my-tam-o-dai-le-2-9-4935204.html) - 17:00 05/09/2025
+- 💫 [Khiếu múa hát của em bé song ca Mỹ Tâm ở đại lễ 2/9](https://vnexpress.net/khieu-mua-hat-cua-em-be-song-ca-my-tam-o-dai-le-2-9-4935204.html) - 17:00 05/09/2025
 - 🌮 [&#39;Mưa đỏ&#39; vượt 500 tỷ đồng doanh thu](https://vnexpress.net/mua-do-vuot-500-ty-dong-doanh-thu-4934523.html) - 12:19 05/09/2025
 - 🧠 [Giorgio Armani - huyền thoại thời trang](https://vnexpress.net/giorgio-armani-huyen-thoai-thoi-trang-4935343.html) - 11:30 05/09/2025
 - 👨‍🏫 [Mỹ Tâm tặng tivi cho trường học cũ](https://vnexpress.net/my-tam-tang-tivi-cho-truong-hoc-cu-4935412.html) - 09:27 05/09/2025
