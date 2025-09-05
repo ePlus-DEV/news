@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Bức thư chan chứa tình cảm gửi Việt Nam của khối trưởng đoàn quân nhân Nga](https://dantri.com.vn/doi-song/buc-thu-chan-chua-tinh-cam-gui-viet-nam-cua-khoi-truong-doan-quan-nhan-nga-20250905145221176.htm) - 11:09 05/09/2025
+- 🥳 [Bức thư chan chứa tình cảm gửi Việt Nam của Khối trưởng đoàn quân nhân Nga](https://dantri.com.vn/doi-song/buc-thu-chan-chua-tinh-cam-gui-viet-nam-cua-khoi-truong-doan-quan-nhan-nga-20250905145221176.htm) - 11:09 05/09/2025
 - 🌁 [Cựu chiến binh rưng rưng xúc động khi xem &quot;Mưa đỏ&quot; giữa Thành cổ Quảng Trị](https://dantri.com.vn/doi-song/cuu-chien-binh-rung-rung-xuc-dong-khi-xem-mua-do-giua-thanh-co-quang-tri-20250905073556409.htm) - 01:31 05/09/2025
 - 👀 [Những điều &quot;được nhất&quot; từ đại lễ mừng Quốc khánh 2/9 lớn chưa từng có](https://dantri.com.vn/doi-song/nhung-dieu-duoc-nhat-tu-dai-le-mung-quoc-khanh-29-lon-chua-tung-co-20250904094855258.htm) - 23:35 04/09/2025
 - 🐻 [Chia sẻ của cụ bà ngồi cạnh Tổng Bí thư Tô Lâm xem diễu binh 2/9](https://dantri.com.vn/doi-song/chia-se-cua-cu-ba-ngoi-canh-tong-bi-thu-to-lam-xem-dieu-binh-29-20250904201904837.htm) - 23:03 04/09/2025
