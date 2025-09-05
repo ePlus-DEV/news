@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Muốn thoát nghèo, học ngay 6 chiêu tiết kiệm độc lạ mà hiệu từ gen Z](https://dantri.com.vn/kinh-doanh/muon-thoat-ngheo-hoc-ngay-6-chieu-tiet-kiem-doc-la-ma-hieu-tu-gen-z-20250905110348060.htm) - 04:23 05/09/2025
+- 🏊 [Muốn thoát nghèo, học ngay 6 chiêu tiết kiệm độc lạ mà hiệu quả từ gen Z](https://dantri.com.vn/kinh-doanh/muon-thoat-ngheo-hoc-ngay-6-chieu-tiet-kiem-doc-la-ma-hieu-qua-tu-gen-z-20250905110348060.htm) - 04:23 05/09/2025
 - 🦆 [Công ty hoa tại Đà Lạt chi hơn 4.500 tỷ đồng thâu tóm tập đoàn Australia](https://dantri.com.vn/kinh-doanh/cong-ty-hoa-tai-da-lat-chi-hon-4500-ty-dong-thau-tom-tap-doan-australia-20250905110046071.htm) - 04:15 05/09/2025
 - 🦄 [Đề xuất giảm biểu thuế thu nhập cá nhân còn 5 bậc, mức cao nhất 35%](https://dantri.com.vn/kinh-doanh/de-xuat-giam-bieu-thue-thu-nhap-ca-nhan-con-5-bac-muc-cao-nhat-35-20250905101334483.htm) - 03:42 05/09/2025
 - 🌝 [Chứng khoán VPBank bán cổ phần lần đầu, giá tối thiểu 12.130 đồng/cổ phiếu](https://dantri.com.vn/kinh-doanh/chung-khoan-vpbank-ban-co-phan-lan-dau-gia-toi-thieu-12130-dongco-phieu-20250904074942586.htm) - 03:30 05/09/2025
