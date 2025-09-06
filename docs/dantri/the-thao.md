@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U23 Yemen thắng Bangladesh, gây áp lực lên U23 Việt Nam](https://dantri.com.vn/the-thao/u23-yemen-thang-bangladesh-gay-ap-luc-len-u23-viet-nam-20250906194629421.htm) - 12:58 06/09/2025
-- 💯 [U23 Việt Nam 1-0 U23 Singapore &lpar;hiệp 2&rpar;: Bàn thắng quý hơn vàng](https://dantri.com.vn/the-thao/u23-viet-nam-1-0-u23-singapore-hiep-2-ban-thang-quy-hon-vang-20250906183411818.htm) - 11:34 06/09/2025
+- 💯 [Chiến thắng quý giá trước Singapore, U23 Việt Nam nắm lợi thế lớn](https://dantri.com.vn/the-thao/chien-thang-quy-gia-truoc-singapore-u23-viet-nam-nam-loi-the-lon-20250906183411818.htm) - 11:34 06/09/2025
 - ⛽️ [Cựu võ sĩ Quyền anh người Mỹ bị kết án 10 năm tù vì buôn ma túy](https://dantri.com.vn/the-thao/cuu-vo-si-quyen-anh-nguoi-my-bi-ket-an-10-nam-tu-vi-buon-ma-tuy-20250906110112026.htm) - 07:40 06/09/2025
 - 💃 [Xác định 17 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-17-doi-bong-gianh-ve-tham-du-world-cup-2026-20250906104001723.htm) - 07:40 06/09/2025
 - 🌈 [Sinner tranh cúp vô địch với Alcaraz tại US Open](https://dantri.com.vn/the-thao/sinner-tranh-cup-vo-dich-voi-alcaraz-tai-us-open-20250906115124344.htm) - 07:36 06/09/2025
