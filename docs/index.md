@@ -527,7 +527,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [‘Bắt sóng thanh xuân’ cùng &#39;tân binh&#39; Trường THPT Hùng Vương](https://muctim.tuoitre.vn/bat-song-thanh-xuan-cung-tan-binh-truong-thpt-hung-vuong-101250906142847088.htm) - 12:19 06/09/2025
 - 🥷 [U23 Yemen thắng 2 trận liền tại vòng loại U23 châu Á](https://muctim.tuoitre.vn/u23-yemen-thang-2-tran-lien-tai-vong-loai-u23-chau-a-101250906184432342.htm) - 12:05 06/09/2025
 - 🤖 [Trực tiếp bán kết bóng chuyền nữ thế giới ngày 6-9: Ý gặp Brazil](https://muctim.tuoitre.vn/truc-tiep-ban-ket-bong-chuyen-nu-the-gioi-ngay-6-9-y-gap-brazil-101250906174653676.htm) - 11:50 06/09/2025
-- 🤓 [U23 Việt Nam vs U23 Singapore: 0-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-singapore-nhung-guong-mat-moi-se-toa-sang-101250906184815782.htm) - 11:48 06/09/2025
+- 🤓 [U23 Việt Nam vs U23 Singapore: 1-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/u23-viet-nam-vs-u23-singapore-nhung-guong-mat-moi-se-toa-sang-101250906184815782.htm) - 11:48 06/09/2025
 - 🎉 [Tân binh trường THPT Võ Thị Sáu bùng nổ trong Ngày hội tân học sinh](https://muctim.tuoitre.vn/tan-binh-truong-thpt-vo-thi-sau-bung-no-trong-ngay-hoi-tan-hoc-sinh-101250906170004493.htm) - 11:17 06/09/2025
 - 👨‍🏫 [Teen Trường THPT Trần Hưng Đạo &#39;vui hết mình&#39; trong hội trại khối 10](https://muctim.tuoitre.vn/teen-truong-thpt-tran-hung-dao-vui-het-minh-trong-hoi-trai-khoi-10-101250906170758409.htm) - 11:07 06/09/2025
 - 🚦 [Cập nhật diễn biến bão số 7 trên biển Đông](https://muctim.tuoitre.vn/cap-nhat-dien-bien-bao-so-7-tren-bien-dong-101250906173638159.htm) - 10:59 06/09/2025
