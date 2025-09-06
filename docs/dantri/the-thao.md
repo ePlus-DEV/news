@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Sinner tranh cúp vô địch với Alcaraz tại US Open](https://dantri.com.vn/the-thao/sinner-tranh-cup-vo-dich-voi-alcaraz-tai-us-open-20250906115124344.htm) - 04:53 06/09/2025
-- 💯 [Xác định thêm 1 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-them-1-doi-bong-gianh-ve-tham-du-world-cup-2026-20250906104001723.htm) - 03:40 06/09/2025
+- 🎡 [Xác định 17 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-17-doi-bong-gianh-ve-tham-du-world-cup-2026-20250906104001723.htm) - 05:40 06/09/2025
+- 💯 [Sinner tranh cúp vô địch với Alcaraz tại US Open](https://dantri.com.vn/the-thao/sinner-tranh-cup-vo-dich-voi-alcaraz-tai-us-open-20250906115124344.htm) - 04:53 06/09/2025
 - ⛽️ [Xem trực tiếp trận U23 Việt Nam gặp U23 Singapore trên kênh nào?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u23-viet-nam-gap-u23-singapore-tren-kenh-nao-20250906100736393.htm) - 03:14 06/09/2025
 - 💃 [Luis Suarez nhận án phạt nặng vì hành vi phản cảm với đối thủ](https://dantri.com.vn/the-thao/luis-suarez-nhan-an-phat-nang-vi-hanh-vi-phan-cam-voi-doi-thu-20250906082346622.htm) - 02:03 06/09/2025
 - 🌈 [Nữ VĐV bóng chuyền xinh đẹp Nhật Bản gây sốt tại giải thế giới](https://dantri.com.vn/the-thao/nu-vdv-bong-chuyen-xinh-dep-nhat-ban-gay-sot-tai-giai-the-gioi-20250905234912201.htm) - 02:00 06/09/2025
