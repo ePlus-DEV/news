@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Áp thấp nhiệt đới mạnh lên thành bão trong hôm nay](https://vnexpress.net/ap-thap-nhiet-doi-manh-len-thanh-bao-trong-hom-nay-4935782.html) - 02:16 06/09/2025
+- 🦒 [Áp thấp nhiệt đới mạnh lên thành bão trong hôm nay](https://vnexpress.net/ap-thap-nhiet-doi-o-bien-dong-nguy-co-manh-thanh-bao-4935782.html) - 02:16 06/09/2025
 - 🤓 [Lũ trong đêm chia cắt nhiều khu dân cư ở Lâm Đồng](https://vnexpress.net/lu-trong-dem-chia-cat-nhieu-khu-dan-cu-o-lam-dong-4935773.html) - 02:11 06/09/2025
 - ⚗️ [Mộ gần 200 năm của vị hổ tướng triều Nguyễn ở trung tâm TP HCM](https://vnexpress.net/mo-gan-200-nam-cua-vi-ho-tuong-trieu-nguyen-o-trung-tam-tp-hcm-4933068.html) - 22:00 05/09/2025
 - 🌊 [Sông Tô Lịch sau gần một năm triển khai dự án &#39;hồi sinh&#39;](https://vnexpress.net/song-to-lich-sau-gan-mot-nam-trien-khai-du-an-hoi-sinh-4935239.html) - 21:00 05/09/2025
