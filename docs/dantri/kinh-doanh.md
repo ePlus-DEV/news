@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Cảng lớn nhất Bắc Âu đầu tư vào Việt Nam, rộng đường xuất ngoại nông sản](https://dantri.com.vn/kinh-doanh/cang-lon-nhat-bac-au-dau-tu-vao-viet-nam-rong-duong-xuat-ngoai-nong-san-20250907113531241.htm) - 04:41 07/09/2025
-- 🦆 [Tupperware chính hãng trở lại, nâng tầm chuẩn sống hiện đại cho người dùng Việt](https://dantri.com.vn/kinh-doanh/tupperware-chinh-hang-tro-lai-nang-tam-chuan-song-hien-dai-cho-nguoi-dung-viet-20250907081526001.htm) - 03:00 07/09/2025
-- 🦄 [&quot;Kính chiếu yêu&quot; khiến nhiều ông lớn giảm sâu lợi nhuận](https://dantri.com.vn/kinh-doanh/kinh-chieu-yeu-khien-nhieu-ong-lon-giam-sau-loi-nhuan-20250906060158566.htm) - 02:04 07/09/2025
-- 🌝 [Số doanh nghiệp gia nhập thị trường tăng mạnh nhất 3 năm](https://dantri.com.vn/kinh-doanh/so-doanh-nghiep-gia-nhap-thi-truong-tang-manh-nhat-3-nam-20250906231222964.htm) - 01:42 07/09/2025
-- 💃 [5 kiểu bố trí phòng ngủ “lệch chuẩn” mà vẫn sang trọng bất ngờ](https://dantri.com.vn/kinh-doanh/5-kieu-bo-tri-phong-ngu-lech-chuan-ma-van-sang-trong-bat-ngo-20250906133024022.htm) - 01:24 07/09/2025
+- 🏊 [Novaland, Quốc Cường Gia Lai... bị nghi ngờ khả năng hoạt động liên tục](https://dantri.com.vn/kinh-doanh/novaland-quoc-cuong-gia-lai-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-20250907120607073.htm) - 05:42 07/09/2025
+- 🦆 [Cảng lớn nhất Bắc Âu đầu tư vào Việt Nam, rộng đường xuất ngoại nông sản](https://dantri.com.vn/kinh-doanh/cang-lon-nhat-bac-au-dau-tu-vao-viet-nam-rong-duong-xuat-ngoai-nong-san-20250907113531241.htm) - 04:41 07/09/2025
+- 🦄 [Tupperware chính hãng trở lại, nâng tầm chuẩn sống hiện đại cho người dùng Việt](https://dantri.com.vn/kinh-doanh/tupperware-chinh-hang-tro-lai-nang-tam-chuan-song-hien-dai-cho-nguoi-dung-viet-20250907081526001.htm) - 03:00 07/09/2025
+- 🌝 [&quot;Kính chiếu yêu&quot; khiến nhiều ông lớn giảm sâu lợi nhuận](https://dantri.com.vn/kinh-doanh/kinh-chieu-yeu-khien-nhieu-ong-lon-giam-sau-loi-nhuan-20250906060158566.htm) - 02:04 07/09/2025
+- 💃 [Số doanh nghiệp gia nhập thị trường tăng mạnh nhất 3 năm](https://dantri.com.vn/kinh-doanh/so-doanh-nghiep-gia-nhap-thi-truong-tang-manh-nhat-3-nam-20250906231222964.htm) - 01:42 07/09/2025
 - 🦏 [CPI tháng 8 tăng do điện, học phí, nhà trọ cùng lên giá](https://dantri.com.vn/kinh-doanh/cpi-thang-8-tang-do-dien-hoc-phi-nha-tro-cung-len-gia-20250907000627897.htm) - 01:07 07/09/2025
 - 🦩 [Chương trình “Mua sơn nhận thẻ, nhà mới quà to” cùng Nippon Paint Việt Nam](https://dantri.com.vn/kinh-doanh/chuong-trinh-mua-son-nhan-the-nha-moi-qua-to-cung-nippon-paint-viet-nam-20250906151501703.htm) - 01:00 07/09/2025
 - 💡 [Vàng tăng 10 triệu/lượng trong hai tuần qua, dự báo tăng mạnh tuần tới](https://dantri.com.vn/kinh-doanh/vang-tang-10-trieuluong-trong-hai-tuan-qua-du-bao-tang-manh-tuan-toi-20250906234409831.htm) - 00:47 07/09/2025
