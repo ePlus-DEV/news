@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng tăng gần 49% trong một năm](https://vnexpress.net/gia-vang-tang-gan-49-trong-mot-nam-4936181.html) - 10:02 07/09/2025
+- ⛽️ [Cục Thống kê: Áp lực lạm phát vẫn chưa lớn](https://vnexpress.net/cuc-thong-ke-ap-luc-lam-phat-van-chua-lon-4936181.html) - 10:02 07/09/2025
 - 🐲 [Ông Trump ký sắc lệnh miễn thuế cho một số hàng hóa](https://vnexpress.net/ong-trump-ky-sac-lenh-mien-thue-cho-mot-so-hang-hoa-4936145.html) - 09:38 07/09/2025
 - 🔥 [Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed](https://vnexpress.net/ong-trump-rut-gon-danh-sach-ung-vien-chu-tich-fed-4936100.html) - 07:29 07/09/2025
 - 🐵 [Ấn Độ tuyên bố sẽ tiếp tục mua dầu Nga](https://vnexpress.net/an-do-tuyen-bo-se-tiep-tuc-mua-dau-nga-4936083.html) - 02:56 07/09/2025
