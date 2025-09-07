@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Hàng nghìn người thả hoa đằng trong đêm, cầu sức khoẻ cho bố mẹ ngày Vu Lan](https://dantri.com.vn/doi-song/hang-nghin-nguoi-tha-hoa-dang-trong-dem-cau-suc-khoe-cho-bo-me-ngay-vu-lan-20250907095406777.htm) - 14:10 07/09/2025
+- 🥳 [Hàng nghìn người thả hoa đăng trong đêm, cầu sức khoẻ cho bố mẹ ngày Vu Lan](https://dantri.com.vn/doi-song/hang-nghin-nguoi-tha-hoa-dang-trong-dem-cau-suc-khoe-cho-bo-me-ngay-vu-lan-20250907095406777.htm) - 14:10 07/09/2025
 - 🌁 [Vật lộn gần một tiếng để tóm cá sấu khổng lồ dài 4,2m, nặng 300kg trên sông](https://dantri.com.vn/doi-song/vat-lon-gan-mot-tieng-de-tom-ca-sau-khong-lo-dai-42m-nang-300kg-tren-song-20250907160328288.htm) - 14:07 07/09/2025
 - 👀 [Hai &quot;Nữ du kích&quot; đi điều lệnh trong tiệc gia đình ở TPHCM gây sốt](https://dantri.com.vn/doi-song/hai-nu-du-kich-di-dieu-lenh-trong-tiec-gia-dinh-o-tphcm-gay-sot-20250907122259398.htm) - 05:37 07/09/2025
 - 🐻 [Gia đình gần 70 người ở Hà Nội họp mặt mỗi năm, tự may áo, có kịch bản](https://dantri.com.vn/doi-song/gia-dinh-gan-70-nguoi-o-ha-noi-hop-mat-moi-nam-tu-may-ao-co-kich-ban-20250904140900636.htm) - 01:57 07/09/2025
