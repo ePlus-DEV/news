@@ -524,8 +524,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Bài hát &#39;Mười chín tháng Tám&#39; đã ra đời như thế nào?](https://muctim.tuoitre.vn/bai-hat-muoi-chin-thang-tam-da-ra-doi-nhu-the-nao-101250907203416394.htm) - 14:08 07/09/2025
 - 🥷 [Truyện ngắn Mực Tím: Matcha Latte](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-matcha-latte-101250801155518174.htm) - 14:05 07/09/2025
-- 🤖 [Cách xem trực tiếp nguyệt thực toàn phần &lpar;trăng máu&rpar; tối nay 7-9](https://muctim.tuoitre.vn/cach-xem-truc-tiep-nguyet-thuc-toan-phan-trang-mau-toi-nay-7-9-101250907203644439.htm) - 14:00 07/09/2025
-- 🤓 [Trực tiếp chung kết bóng chuyền nữ: Ý đại chiến Thổ Nhĩ Kỳ](https://muctim.tuoitre.vn/truc-tiep-chung-ket-bong-chuyen-nu-y-dai-chien-tho-nhi-ky-101250907182723489.htm) - 11:29 07/09/2025
+- 🤖 [Cách xem trực tiếp nguyệt thực toàn phần tối nay 7-9](https://muctim.tuoitre.vn/cach-xem-truc-tiep-nguyet-thuc-toan-phan-trang-mau-toi-nay-7-9-101250907203644439.htm) - 14:00 07/09/2025
+- 🤓 [Tuyển bóng chuyền nữ Ý vô địch thế giới sau 23 năm chờ đợi](https://muctim.tuoitre.vn/truc-tiep-chung-ket-bong-chuyen-nu-y-dai-chien-tho-nhi-ky-101250907182723489.htm) - 11:29 07/09/2025
 - 🎉 [Tối nay 7-9, V Fest - Thanh xuân rực rỡ phát sóng trên VTV1](https://muctim.tuoitre.vn/toi-nay-7-9-v-fest-thanh-xuan-ruc-ro-phat-song-tren-vtv1-101250907172502425.htm) - 10:59 07/09/2025
 - 👨‍🏫 [Aryna Sabalenka lập thành tích hiếm có, bảo vệ chức vô địch Mỹ Mở rộng](https://muctim.tuoitre.vn/aryna-sabalenka-lap-thanh-tich-hiem-co-bao-ve-chuc-vo-dich-my-mo-rong-101250907165926111.htm) - 10:05 07/09/2025
 - 🚦 [Tập 7 Chiến sĩ quả cảm: Binz, Hưng Nguyễn tham gia &#39;Lò luyện thép&#39;](https://muctim.tuoitre.vn/tap-7-chien-si-qua-cam-binz-hung-nguyen-tham-gia-lo-luyen-thep-101250907161028001.htm) - 09:46 07/09/2025
@@ -537,7 +537,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Đón đọc Khăn Quàng Đỏ 37, phát hành 10-9, sở hữu bộ card bo góc siêu tiện ích](https://muctim.tuoitre.vn/don-doc-khan-quang-do-37-phat-hanh-10-9-so-huu-bo-card-bo-goc-sieu-tien-ich-101250905203155003.htm) - 01:12 07/09/2025
 - 💃 [Mực Tím 37, phát hành ngày 8-9 tặng poster Ngô Kiến Huy](https://muctim.tuoitre.vn/muc-tim-37-phat-hanh-ngay-8-9-tang-poster-ngo-kien-huy-101250904140021932.htm) - 01:09 07/09/2025
 - 🪜 [Khán giả cần lưu ý gì khi tham dự Rock Concert ở Hà Nội?](https://muctim.tuoitre.vn/khan-gia-can-luu-y-gi-khi-tham-du-rock-concert-o-ha-noi-101250906192200155.htm) - 01:03 07/09/2025
-- 🎉 [Nguyệt thực toàn phần &lpar;trăng máu&rpar; tối 7-9, Việt Nam xem lúc mấy giờ?](https://muctim.tuoitre.vn/nguyet-thuc-toan-phan-trang-mau-toi-7-9-viet-nam-xem-luc-may-gio-101250906150547449.htm) - 00:49 07/09/2025
+- 🎉 [Nguyệt thực toàn phần tối 7-9, Việt Nam xem lúc mấy giờ?](https://muctim.tuoitre.vn/nguyet-thuc-toan-phan-trang-mau-toi-7-9-viet-nam-xem-luc-may-gio-101250906150547449.htm) - 00:49 07/09/2025
 - 🥳 [Ronaldo lập cú đúp cho Bồ Đào Nha tại vòng loại World Cup 2026](https://muctim.tuoitre.vn/ronaldo-lap-cu-dup-cho-bo-dao-nha-tai-vong-loai-world-cup-2026-101250907013756724.htm) - 00:03 07/09/2025
 - 🤓 [Phương Mỹ Chi bật mí Lamoon chính là ‘anh Tí’ của mình](https://muctim.tuoitre.vn/phuong-my-chi-bat-mi-lamoon-chinh-la-anh-ti-cua-minh-101250906215603808.htm) - 15:36 06/09/2025
 - 🎉 [Lịch thi đấu chung kết Giải bóng chuyền nữ vô địch thế giới 2025](https://muctim.tuoitre.vn/lich-thi-dau-chung-ket-giai-bong-chuyen-nu-vo-dich-the-gioi-2025-101250906205403201.htm) - 15:24 06/09/2025
