@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Điểm tuần: Chồng lĩnh án tù vì quan hệ với vợ, bãi xe chân cầu Vĩnh Tuy](https://dantri.com.vn/ban-doc/diem-tuan-chong-linh-an-tu-vi-quan-he-voi-vo-bai-xe-chan-cau-vinh-tuy-20250906235509487.htm) - 04:03 07/09/2025
+- 🦒 [Điểm tuần: Chồng lĩnh án tù vì quan hệ với vợ, cháy bãi xe gầm cầu Vĩnh Tuy](https://dantri.com.vn/ban-doc/diem-tuan-chong-linh-an-tu-vi-quan-he-voi-vo-chay-bai-xe-gam-cau-vinh-tuy-20250906235509487.htm) - 04:03 07/09/2025
 - 🤓 [Gặp sự cố trên cao tốc, dừng xe ra sao cho đúng luật?](https://dantri.com.vn/ban-doc/gap-su-co-tren-cao-toc-dung-xe-ra-sao-cho-dung-luat-20250906232104540.htm) - 01:01 07/09/2025
 - 🐻 [Vụ bị khởi tố vì trộm một con cá: Cá huyết long đắt đỏ ra sao?](https://dantri.com.vn/ban-doc/vu-bi-khoi-to-vi-trom-mot-con-ca-ca-huyet-long-dat-do-ra-sao-20250905160431565.htm) - 23:00 05/09/2025
 - 🏊 [Đầu tư cho tương lai dân tộc](https://dantri.com.vn/ban-doc/dau-tu-cho-tuong-lai-dan-toc-20250905155741788.htm) - 09:02 05/09/2025
