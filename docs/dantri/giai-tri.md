@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hé lộ chân dung chủ nhân ca khúc hút 14 triệu view do Mỹ Tâm thể hiện ở A80](https://dantri.com.vn/giai-tri/he-lo-chan-dung-chu-nhan-ca-khuc-hut-14-trieu-view-do-my-tam-the-hien-o-a80-20250906112605024.htm) - 22:41 07/09/2025
+- 🤩 [Hé lộ chân dung chủ nhân ca khúc hút 14 triệu view do Mỹ Tâm thể hiện ở A80](https://dantri.com.vn/giai-tri/he-lo-chan-dung-chu-nhan-ca-khuc-hut-14-trieu-view-do-my-tam-the-hien-o-a80-20250906112605024.htm) - 23:00 07/09/2025
 - 🔥 [&quot;Mưa đỏ&quot; vượt mốc 551 tỷ đồng, trở thành phim Việt ăn khách nhất lịch sử](https://dantri.com.vn/giai-tri/mua-do-vuot-moc-551-ty-dong-tro-thanh-phim-viet-an-khach-nhat-lich-su-20250907172237259.htm) - 10:31 07/09/2025
 - 🚀 [Bốn giọng đọc huyền thoại VTV: Người qua đời tuổi 77, người tuổi già an yên](https://dantri.com.vn/giai-tri/bon-giong-doc-huyen-thoai-vtv-nguoi-qua-doi-tuoi-77-nguoi-tuoi-gia-an-yen-20250907162938940.htm) - 10:23 07/09/2025
 - 🔥 [Bảo Anh tuổi 33: Mẹ đơn thân quyến rũ, lấy lại phong độ sau thăng trầm](https://dantri.com.vn/giai-tri/bao-anh-tuoi-33-me-don-than-quyen-ru-lay-lai-phong-do-sau-thang-tram-20250907123234007.htm) - 07:26 07/09/2025
