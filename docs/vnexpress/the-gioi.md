@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Thủ tướng Nhật Bản từ chức lãnh đạo đảng cầm quyền](https://vnexpress.net/thu-tuong-nhat-ban-tu-chuc-lanh-dao-dang-cam-quyen-4936184.html) - 09:15 07/09/2025
-- 🕴 [Nga tập kích tên lửa, UAV quy mô lớn chưa từng thấy vào Ukraine](https://vnexpress.net/nga-tap-kich-ten-lua-uav-quy-mo-lon-chua-tung-thay-vao-ukraine-4936169.html) - 08:36 07/09/2025
+- 🕴 [Nga tập kích lớn kỷ lục vào Ukraine, lần đầu đánh trúng nhà chính phủ](https://vnexpress.net/nga-tap-kich-lon-ky-luc-vao-ukraine-lan-dau-danh-trung-nha-chinh-phu-4936169.html) - 08:36 07/09/2025
 - 🤭 [Tân Thủ tướng Thái Lan quỳ lạy tranh Quốc vương khi nhậm chức](https://vnexpress.net/tan-thu-tuong-thai-lan-quy-lay-tranh-quoc-vuong-khi-nham-chuc-4936162.html) - 07:52 07/09/2025
 - 🧑‍💻 [Thống đốc Illinois cáo buộc ông Trump &#39;gây chiến&#39; với Chicago](https://vnexpress.net/thong-doc-illinois-cao-buoc-ong-trump-gay-chien-voi-chicago-4936132.html) - 06:46 07/09/2025
 - 🦏 [Ukraine tuyên bố tự chủ được 60% vũ khí](https://vnexpress.net/ukraine-tuyen-bo-tu-chu-duoc-60-vu-khi-4936109.html) - 04:07 07/09/2025
