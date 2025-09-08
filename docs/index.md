@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Cộng đồng mạng háo hức cùng xem nguyệt thực đêm 7-9](https://muctim.tuoitre.vn/cong-dong-mang-hao-huc-cung-xem-nguyet-thuc-dem-7-9-101250907231915035.htm) - 16:25 07/09/2025
-- 🥷 [Cập nhật nguyệt thực toàn phần đêm 7-9](https://muctim.tuoitre.vn/cap-nhat-nguyet-thuc-toan-phan-dem-7-9-101250907222815176.htm) - 15:28 07/09/2025
+- 🥷 [Hình ảnh ấn tượng đêm qua: 82 phút nguyệt thực toàn phần](https://muctim.tuoitre.vn/cap-nhat-nguyet-thuc-toan-phan-dem-7-9-101250907222815176.htm) - 15:28 07/09/2025
 - 🤖 [Bài hát &#39;Mười chín tháng Tám&#39; đã ra đời như thế nào?](https://muctim.tuoitre.vn/bai-hat-muoi-chin-thang-tam-da-ra-doi-nhu-the-nao-101250907203416394.htm) - 14:08 07/09/2025
 - 🤓 [Truyện ngắn Mực Tím: Matcha Latte](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-matcha-latte-101250801155518174.htm) - 14:05 07/09/2025
 - 🎉 [Cách xem trực tiếp nguyệt thực toàn phần tối nay 7-9](https://muctim.tuoitre.vn/cach-xem-truc-tiep-nguyet-thuc-toan-phan-trang-mau-toi-nay-7-9-101250907203644439.htm) - 14:00 07/09/2025
