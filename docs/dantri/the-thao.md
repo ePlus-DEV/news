@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Điểm yếu lớn nhất mà U23 Việt Nam cần khắc phục gấp](https://dantri.com.vn/the-thao/diem-yeu-lon-nhat-ma-u23-viet-nam-can-khac-phuc-gap-20250908113439266.htm) - 04:34 08/09/2025
+- 🎡 [Điểm yếu lớn nhất mà U23 Việt Nam cần khắc phục gấp](https://dantri.com.vn/the-thao/diem-yeu-lon-nhat-ma-u23-viet-nam-can-khac-phuc-gap-20250908113439266.htm) - 04:45 08/09/2025
 - 💯 [HLV Thái Lan phản ứng khi Chanathip bị chơi xấu, đội nhà mất chức vô địch](https://dantri.com.vn/the-thao/hlv-thai-lan-phan-ung-khi-chanathip-bi-choi-xau-doi-nha-mat-chuc-vo-dich-20250908103529979.htm) - 03:57 08/09/2025
 - ⛽️ [Alcaraz hạnh phúc sau khi vô địch US Open, lên ngôi số một thế giới](https://dantri.com.vn/the-thao/alcaraz-hanh-phuc-sau-khi-vo-dich-us-open-len-ngoi-so-mot-the-gioi-20250908102730272.htm) - 03:29 08/09/2025
 - 💃 [Chanathip lên tiếng sau khi bị cầu thủ Iraq chơi thô bạo](https://dantri.com.vn/the-thao/chanathip-len-tieng-sau-khi-bi-cau-thu-iraq-choi-tho-bao-20250908091157482.htm) - 03:04 08/09/2025
