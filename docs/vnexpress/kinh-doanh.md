@@ -19,7 +19,7 @@ sidebar_position: 3
 - 🦩 [Các nước phát triển thị trường bán lẻ điện thế nào](https://vnexpress.net/cac-nuoc-phat-trien-thi-truong-ban-le-dien-the-nao-4935737.html) - 03:28 08/09/2025
 - 👍 [Thủ tướng: Xử lý nghiêm thao túng, găm hàng gây bất ổn thị trường vàng](https://vnexpress.net/thu-tuong-xu-ly-nghiem-thao-tung-gam-hang-gay-bat-on-thi-truong-vang-4936323.html) - 02:15 08/09/2025
 - 🏊 [Chuyển đổi số - đòn bẩy tái cấu trúc cho hệ sinh thái Masan](https://vnexpress.net/chuyen-doi-so-don-bay-tai-cau-truc-cho-he-sinh-thai-masan-4936210.html) - 02:00 08/09/2025
-- 🤡 [5 yếu tố giúp VietinBank giữ vị trí số hai ngành ngân hàng](https://vnexpress.net/5-yeu-to-giup-vietinbank-giu-vi-tri-so-hai-nganh-ngan-hang-4935629.html) - 01:00 08/09/2025
+- 🤡 [5 yếu tố giúp VietinBank giữ vị trí top đầu trong nửa đầu năm](https://vnexpress.net/5-yeu-to-giup-vietinbank-giu-vi-tri-top-dau-trong-nua-dau-nam-4935629.html) - 01:00 08/09/2025
 - 👀 [Hội đồng Tư vấn chính sách: Mục tiêu tăng trưởng hai con số là &#39;phù hợp&#39;](https://vnexpress.net/hoi-dong-tu-van-chinh-sach-muc-tieu-tang-truong-hai-con-so-la-phu-hop-4936243.html) - 17:29 07/09/2025
 - 😺 [Nhãn bắp cải giảm giá mạnh](https://vnexpress.net/nhan-bap-cai-giam-gia-manh-4936105.html) - 17:00 07/09/2025
 - 🦣 [Google lặng lẽ xóa cam kết Net Zero khỏi website](https://vnexpress.net/google-lang-le-xoa-cam-ket-net-zero-khoi-website-4936089.html) - 17:00 07/09/2025
