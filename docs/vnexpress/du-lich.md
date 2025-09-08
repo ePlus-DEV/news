@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du lịch Việt từ &#39;số 0&#39; đến top 3 khu vực](https://vnexpress.net/du-lich-viet-tu-so-0-den-top-3-khu-vuc-4932801.html) - 23:00 07/09/2025
+- 💂 [Du lịch Việt từ &#39;số 0&#39; đến top 3 khu vực](https://vnexpress.net/du-lich-viet-tu-so-0-den-top-3-khu-vuc-4932801.html) - 02:46 08/09/2025
 - 🪄 [Triển lãm quốc gia vẫn đông nghịt khách sau khi mở thêm 10 ngày](https://vnexpress.net/trien-lam-quoc-gia-van-dong-nghit-khach-sau-khi-mo-them-10-ngay-4936241.html) - 17:43 07/09/2025
 - 🦅 [4 điểm du lịch nổi tiếng ở Quảng Trị xuất hiện trong phim Mưa Đỏ](https://vnexpress.net/4-diem-du-lich-noi-tieng-o-quang-tri-xuat-hien-trong-phim-mua-do-4935886.html) - 17:07 07/09/2025
 - 🕴 [Sân bay nào có vườn bươm bướm đầu tiên trên thế giới?](https://vnexpress.net/san-bay-nao-co-vuon-buom-buom-dau-tien-tren-the-gioi-4936108.html) - 08:06 07/09/2025
