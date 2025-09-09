@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Ứng viên phó giáo sư trẻ nhất ngành &quot;cực khó&quot; từng là ngân viên ngân hàng](https://dantri.com.vn/giao-duc/ung-vien-pho-giao-su-tre-nhat-nganh-cuc-kho-tung-la-ngan-vien-ngan-hang-20250909073339830.htm) - 05:00 09/09/2025
+- 🤡 [Ứng viên phó giáo sư trẻ nhất ngành luật từng là nhân viên ngân hàng](https://dantri.com.vn/giao-duc/ung-vien-pho-giao-su-tre-nhat-nganh-luat-tung-la-nhan-vien-ngan-hang-20250909073339830.htm) - 05:00 09/09/2025
 - 🗽 [Trường “bêu tên” học sinh: Minh bạch không được xây trên sự tổn thương](https://dantri.com.vn/giao-duc/truong-beu-ten-hoc-sinh-minh-bach-khong-duoc-xay-tren-su-ton-thuong-20250909085724543.htm) - 02:36 09/09/2025
 - 🚦 [Ứng viên giáo sư trẻ nhất năm 2025 từng là phó giáo sư trẻ nhất nước](https://dantri.com.vn/giao-duc/ung-vien-giao-su-tre-nhat-nam-2025-tung-la-pho-giao-su-tre-nhat-nuoc-20250908224559049.htm) - 01:13 09/09/2025
 - 🌋 [Từng phải xin ăn cùng bố, cô gái vượt nghịch cảnh tiến thẳng vào đại học](https://dantri.com.vn/giao-duc/tung-phai-xin-an-cung-bo-co-gai-vuot-nghich-canh-tien-thang-vao-dai-hoc-20250908202940748.htm) - 01:00 09/09/2025
