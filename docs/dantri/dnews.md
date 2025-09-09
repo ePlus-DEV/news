@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tường thuật trực tiếp sự kiện ra mắt iPhone 17](https://dantri.com.vn/cong-nghe/tuong-thuat-truc-tiep-su-kien-ra-mat-iphone-17-20250909162043663.htm) - 10:29 09/09/2025
+- 🤠 [iPhone Air cùng loạt iPhone 17 ra mắt](https://dantri.com.vn/cong-nghe/iphone-air-cung-loat-iphone-17-ra-mat-20250909162043663.htm) - 10:29 09/09/2025
 - 🌈 [Báo Dân trí, Cục Văn thư và Lưu trữ nhà nước hợp tác trao truyền lịch sử](https://dantri.com.vn/noi-vu/bao-dan-tri-cuc-van-thu-va-luu-tru-nha-nuoc-hop-tac-trao-truyen-lich-su-20250909132654246.htm) - 07:32 09/09/2025
 - 🐎 [Phác họa “chân dung” loạt iPhone 17 trước giờ ra mắt](https://dantri.com.vn/cong-nghe/phac-hoa-chan-dung-loat-iphone-17-truoc-gio-ra-mat-20250909022027518.htm) - 06:59 09/09/2025
 - 👹 [Mỏ vàng trắng ở Bolivia: Giấc mơ tỷ USD hay lời nguyền tài nguyên?](https://dantri.com.vn/kinh-doanh/mo-vang-trang-o-bolivia-giac-mo-ty-usd-hay-loi-nguyen-tai-nguyen-20250906015834461.htm) - 05:11 09/09/2025
