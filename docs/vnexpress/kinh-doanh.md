@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chật vật rao bán nhà ở Mỹ](https://vnexpress.net/chat-vat-rao-ban-nha-o-my-4937015.html) - 17:05 09/09/2025
-- 🐲 [Thương hiệu Việt trước sức ép hàng giả, nhái](https://vnexpress.net/thuong-hieu-viet-truoc-suc-ep-hang-gia-nhai-4937040.html) - 17:03 09/09/2025
-- 🔥 [Thủ tướng yêu cầu tăng tín dụng, mở rộng thị trường xuất khẩu gạo](https://vnexpress.net/thu-tuong-yeu-cau-tang-tin-dung-mo-rong-thi-truong-xuat-khau-gao-4937163.html) - 13:21 09/09/2025
-- 🐵 [Ông Nguyễn Văn Được: Nhà đầu tư đã trở lại TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-nha-dau-tu-da-tro-lai-tp-hcm-4937144.html) - 12:57 09/09/2025
-- 🦅 [100 thương hiệu hàng đầu Việt Nam giá trị 38,4 tỷ USD](https://vnexpress.net/100-thuong-hieu-hang-dau-viet-nam-gia-tri-38-4-ty-usd-4937109.html) - 12:43 09/09/2025
-- 😺 [Việt Nam thí điểm thị trường tài sản mã hóa](https://vnexpress.net/viet-nam-thi-diem-thi-truong-tai-san-ma-hoa-4937159.html) - 12:24 09/09/2025
-- 🤩 [Vietjet nhận giải về dịch vụ hàng không tại Ấn Độ](https://vnexpress.net/vietjet-nhan-giai-ve-dich-vu-hang-khong-tai-an-do-4937080.html) - 10:30 09/09/2025
-- 🌮 [Giá USD thế giới xuống thấp nhất gần 2 tháng](https://vnexpress.net/gia-usd-the-gioi-xuong-thap-nhat-gan-2-thang-4937038.html) - 09:33 09/09/2025
-- 🧰 [Quy mô thị trường nhà ở tại Mỹ tăng 20.000 tỷ USD](https://vnexpress.net/quy-mo-thi-truong-nha-o-tai-my-tang-20-000-ty-usd-4936873.html) - 09:15 09/09/2025
-- 🤔 [Doanh nghiệp liên quan bà Trương Mỹ Lan lỗ lũy kế hơn 3.000 tỷ đồng](https://vnexpress.net/doanh-nghiep-lien-quan-ba-truong-my-lan-lo-luy-ke-hon-3-000-ty-dong-4936993.html) - 09:00 09/09/2025
-- 🧑‍💻 [VN-Index ngắt chuỗi giảm sâu](https://vnexpress.net/vn-index-ngat-chuoi-giam-sau-4937058.html) - 08:46 09/09/2025
-- 🕴 [Bộ Tài chính trình nâng giảm trừ gia cảnh lên 15,5 triệu đồng](https://vnexpress.net/bo-tai-chinh-trinh-nang-giam-tru-gia-canh-len-15-5-trieu-dong-4936932.html) - 05:56 09/09/2025
-- 🦩 [EVN lý giải khoản lỗ 45.000 tỷ đồng chưa tính vào giá điện](https://vnexpress.net/evn-ly-giai-khoan-lo-45-000-ty-dong-chua-tinh-vao-gia-dien-4936867.html) - 05:05 09/09/2025
-- 👍 [3,2 triệu khách hàng tiêu thụ điện tăng 30% trong tháng 8](https://vnexpress.net/3-2-trieu-khach-hang-tieu-thu-dien-tang-30-trong-thang-8-4936826.html) - 03:52 09/09/2025
-- 🏊 [Gỗ Minh Long ra mắt bộ sưu tập mới mang tên &#39;Pha&#39;](https://vnexpress.net/go-minh-long-ra-mat-bo-suu-tap-moi-mang-ten-pha-4936480.html) - 02:00 09/09/2025
-- 🤡 [Công ty chứng khoán dự báo VN-Index lên 2.000 điểm vào cuối năm](https://vnexpress.net/cong-ty-chung-khoan-du-bao-vn-index-len-2-000-diem-vao-cuoi-nam-4936421.html) - 01:51 09/09/2025
-- 👀 [Chứng khoán Mỹ tiếp tục tăng cao](https://vnexpress.net/chung-khoan-my-tang-tiep-4936753.html) - 01:41 09/09/2025
-- 😺 [CEO nói về lý do Sun PhuQuoc Airways ra đời](https://vnexpress.net/ceo-noi-ve-ly-do-sun-phuquoc-airways-ra-doi-4936692.html) - 23:47 08/09/2025
-- 🦣 [Giao dịch gạo Việt chững lại khi Philippines ngưng nhập](https://vnexpress.net/giao-dich-gao-viet-chung-lai-khi-philippines-ngung-nhap-4936562.html) - 17:02 08/09/2025
-- 😺 [Bất đồng quanh mục tiêu cấm xe xăng ở EU vào 2035](https://vnexpress.net/bat-dong-quanh-muc-tieu-cam-xe-xang-o-eu-vao-2035-4936549.html) - 17:01 08/09/2025
-- 💼 [Hưng Thịnh Land thoát lỗ](https://vnexpress.net/hung-thinh-land-thoat-lo-4936628.html) - 13:54 08/09/2025
-- 🤗 [Khuyến nghị người dân thận trọng khi mua vàng](https://vnexpress.net/khuyen-nghi-nguoi-dan-than-trong-khi-mua-vang-4936654.html) - 12:14 08/09/2025
-- 👀 [&#39;Việt Nam ở vị thế tốt hơn đối thủ cạnh tranh giữa biến động thuế quan&#39;](https://vnexpress.net/viet-nam-o-vi-the-tot-hon-doi-thu-canh-tranh-giua-bien-dong-thue-quan-4936626.html) - 11:45 08/09/2025
-- 🎓 [Xuất khẩu của Trung Quốc sang Mỹ giảm hơn 30%](https://vnexpress.net/xuat-khau-cua-trung-quoc-sang-my-giam-hon-30-4936515.html) - 11:05 08/09/2025
-- 🗽 [Masterise Group: Khối tư nhân cần tham gia nâng chuẩn sống đô thị](https://vnexpress.net/masterise-group-khoi-tu-nhan-can-tham-gia-nang-chuan-song-do-thi-4936627.html) - 10:00 08/09/2025
-- 🚀 [&#39;EVN cần làm rõ khoản lỗ 45.000 tỷ đồng muốn đưa vào giá điện&#39;](https://vnexpress.net/evn-can-lam-ro-khoan-lo-45-000-ty-dong-muon-dua-vao-gia-dien-4936260.html) - 09:37 08/09/2025
-- 🤗 [T&amp;amp;T hoàn thành đường tải điện từ Lào về Việt Nam trong hơn 6 tháng](https://vnexpress.net/t-t-hoan-thanh-duong-tai-dien-tu-lao-ve-viet-nam-trong-hon-6-thang-4936509.html) - 09:00 08/09/2025
-- 🌜 [Chứng khoán giảm mạnh nhất một tháng](https://vnexpress.net/chung-khoan-giam-manh-nhat-mot-thang-4936575.html) - 08:44 08/09/2025
-- 👍 [Sắp thanh tra các doanh nghiệp kinh doanh vàng](https://vnexpress.net/sap-thanh-tra-cac-doanh-nghiep-kinh-doanh-vang-4936566.html) - 08:43 08/09/2025
-- 🤖 [Chủ chuỗi casino và nghỉ dưỡng Phú Quốc lỗ hơn 3 tỷ mỗi ngày](https://vnexpress.net/chu-chuoi-casino-va-nghi-duong-phu-quoc-lo-hon-3-ty-moi-ngay-4936517.html) - 08:38 08/09/2025
-- 🫣 [Đề xuất thí điểm giá điện hai thành phần từ 2026](https://vnexpress.net/de-xuat-thi-diem-gia-dien-hai-thanh-phan-tu-2026-4936558.html) - 08:22 08/09/2025
-- 🌏 [Chuyên gia DNSE nêu ba kênh đầu tư phù hợp nắm giữ cuối năm](https://vnexpress.net/chuyen-gia-dnse-neu-ba-kenh-dau-tu-phu-hop-nam-giu-cuoi-nam-4936519.html) - 08:00 08/09/2025
-- ⚗️ [Gian hàng của Sun Group tại triển lãm A80 hút khách tham quan](https://vnexpress.net/gian-hang-cua-sun-group-tai-trien-lam-a80-hut-khach-tham-quan-4936521.html) - 07:45 08/09/2025
-- 🕯 [Mastercard Việt Nam có giám đốc mới](https://vnexpress.net/mastercard-viet-nam-co-giam-doc-moi-4936424.html) - 06:52 08/09/2025
-- 👍 [Quan chức Mỹ cảnh báo khoản hoàn thuế khổng lồ nếu thua kiện](https://vnexpress.net/quan-chuc-my-canh-bao-khoan-hoan-thue-khong-lo-neu-thua-kien-4936372.html) - 05:02 08/09/2025
-- 🤠 [Ngành điện TP HCM công khai điện tiêu thụ hàng ngày trên app](https://vnexpress.net/nganh-dien-tp-hcm-cong-khai-dien-tieu-thu-hang-ngay-tren-app-4936347.html) - 03:30 08/09/2025
-- 🌊 [Các nước phát triển thị trường bán lẻ điện thế nào](https://vnexpress.net/cac-nuoc-phat-trien-thi-truong-ban-le-dien-the-nao-4935737.html) - 03:28 08/09/2025
-- 🌈 [Thủ tướng: Xử lý nghiêm thao túng, găm hàng gây bất ổn thị trường vàng](https://vnexpress.net/thu-tuong-xu-ly-nghiem-thao-tung-gam-hang-gay-bat-on-thi-truong-vang-4936323.html) - 02:15 08/09/2025
-- 🥳 [Chuyển đổi số - đòn bẩy tái cấu trúc cho hệ sinh thái Masan](https://vnexpress.net/chuyen-doi-so-don-bay-tai-cau-truc-cho-he-sinh-thai-masan-4936210.html) - 02:00 08/09/2025
-- 🐻 [5 yếu tố giúp VietinBank giữ vị trí top đầu trong nửa đầu năm](https://vnexpress.net/5-yeu-to-giup-vietinbank-giu-vi-tri-top-dau-trong-nua-dau-nam-4935629.html) - 01:00 08/09/2025
-- 💫 [Hội đồng Tư vấn chính sách: Mục tiêu tăng trưởng hai con số là &#39;phù hợp&#39;](https://vnexpress.net/hoi-dong-tu-van-chinh-sach-muc-tieu-tang-truong-hai-con-so-la-phu-hop-4936243.html) - 17:29 07/09/2025
-- 🤩 [Nhãn bắp cải giảm giá mạnh](https://vnexpress.net/nhan-bap-cai-giam-gia-manh-4936105.html) - 17:00 07/09/2025
-- 💻 [Google lặng lẽ xóa cam kết Net Zero khỏi website](https://vnexpress.net/google-lang-le-xoa-cam-ket-net-zero-khoi-website-4936089.html) - 17:00 07/09/2025
-- ⚗️ [Cục Thống kê: Áp lực lạm phát vẫn chưa lớn](https://vnexpress.net/cuc-thong-ke-ap-luc-lam-phat-van-chua-lon-4936181.html) - 10:02 07/09/2025
-- 🌈 [Ông Trump ký sắc lệnh miễn thuế cho một số hàng hóa](https://vnexpress.net/ong-trump-ky-sac-lenh-mien-thue-cho-mot-so-hang-hoa-4936145.html) - 09:38 07/09/2025
-- 🌝 [Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed](https://vnexpress.net/ong-trump-rut-gon-danh-sach-ung-vien-chu-tich-fed-4936100.html) - 07:29 07/09/2025
-- 🥸 [Ấn Độ tuyên bố sẽ tiếp tục mua dầu Nga](https://vnexpress.net/an-do-tuyen-bo-se-tiep-tuc-mua-dau-nga-4936083.html) - 02:56 07/09/2025
-- 🦆 [Mỹ sẽ siết nhập khẩu drone và xe tải Trung Quốc](https://vnexpress.net/my-se-siet-nhap-khau-drone-va-xe-tai-trung-quoc-4936049.html) - 02:50 07/09/2025
-- 🌋 [Xuất khẩu vải thiều tăng gấp ba cùng kỳ](https://vnexpress.net/xuat-khau-vai-thieu-tang-gap-ba-cung-ky-4936079.html) - 02:45 07/09/2025
-- 🦍 [Hàng Mỹ ồ ạt vào Việt Nam](https://vnexpress.net/hang-my-o-at-vao-viet-nam-4935958.html) - 00:00 07/09/2025
-- 🤔 [Bộ Công Thương: Giá điện chỉ tăng 2-5% nếu cho EVN tính bù khoản lỗ 45.000 tỷ đồng](https://vnexpress.net/bo-cong-thuong-gia-dien-chi-tang-2-5-neu-cho-evn-tinh-bu-khoan-lo-45-000-ty-dong-4936048.html) - 17:08 06/09/2025
-- 🧰 [Cuộc chiến quảng cáo kem đánh răng giữa căng thẳng Mỹ - Ấn](https://vnexpress.net/cuoc-chien-quang-cao-kem-danh-rang-giua-cang-thang-my-an-4935992.html) - 17:03 06/09/2025
-- 🌝 [Trung Quốc áp thuế đến 60% thịt heo châu Âu](https://vnexpress.net/trung-quoc-ap-thue-den-60-thit-heo-chau-au-4936045.html) - 16:21 06/09/2025
-- 👍 [Xuất nhập khẩu dự kiến lập kỷ lục mới năm nay](https://vnexpress.net/xuat-nhap-khau-du-kien-lap-ky-luc-moi-nam-nay-4935969.html) - 11:57 06/09/2025
-- 🗽 [Phó thống đốc lý giải nguyên nhân giá vàng tăng cao](https://vnexpress.net/pho-thong-doc-ly-giai-nguyen-nhan-gia-vang-tang-cao-4935981.html) - 10:40 06/09/2025
-- 🐎 [Hơn 200.000 doanh nghiệp gia nhập thị trường trong 8 tháng](https://vnexpress.net/hon-200-000-doanh-nghiep-gia-nhap-thi-truong-trong-8-thang-4935975.html) - 09:31 06/09/2025
-- 🪄 [Serbia huấn luyện loại sâu ăn 1 kg nhựa chỉ thải 1g CO2](https://vnexpress.net/serbia-huan-luyen-loai-sau-an-1-kg-nhua-chi-thai-1g-co2-4935883.html) - 05:12 06/09/2025
-- 🎊 [Thủ tướng yêu cầu chấn chỉnh thị trường vàng](https://vnexpress.net/thu-tuong-yeu-cau-chan-chinh-thi-truong-vang-4935819.html) - 03:25 06/09/2025
-- 🗽 [Nông dân thua lỗ vì khoai mì rớt giá mạnh](https://vnexpress.net/nong-dan-thua-lo-vi-khoai-mi-rot-gia-manh-4935565.html) - 02:55 06/09/2025
-- 🦩 [Hoàn thuế ra sao nếu ông Trump thua kiện tại Tòa án Tối cao?](https://vnexpress.net/hoan-thue-ra-sao-neu-ong-trump-thua-kien-tai-toa-an-toi-cao-4935633.html) - 02:23 06/09/2025<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Nhà đầu tư mở gần 260.000 tài khoản chứng khoán trong một tháng](https://vnexpress.net/nha-dau-tu-mo-gan-260-000-tai-khoan-chung-khoan-trong-mot-thang-4937130.html) - 22:00 09/09/2025
+- 🐲 [Chật vật rao bán nhà ở Mỹ](https://vnexpress.net/chat-vat-rao-ban-nha-o-my-4937015.html) - 17:05 09/09/2025
+- 🔥 [Thương hiệu Việt trước sức ép hàng giả, nhái](https://vnexpress.net/thuong-hieu-viet-truoc-suc-ep-hang-gia-nhai-4937040.html) - 17:03 09/09/2025
+- 🐵 [Thủ tướng yêu cầu tăng tín dụng, mở rộng thị trường xuất khẩu gạo](https://vnexpress.net/thu-tuong-yeu-cau-tang-tin-dung-mo-rong-thi-truong-xuat-khau-gao-4937163.html) - 13:21 09/09/2025
+- 🦅 [Ông Nguyễn Văn Được: Nhà đầu tư đã trở lại TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-nha-dau-tu-da-tro-lai-tp-hcm-4937144.html) - 12:57 09/09/2025
+- 😺 [100 thương hiệu hàng đầu Việt Nam giá trị 38,4 tỷ USD](https://vnexpress.net/100-thuong-hieu-hang-dau-viet-nam-gia-tri-38-4-ty-usd-4937109.html) - 12:43 09/09/2025
+- 🤩 [Việt Nam thí điểm thị trường tài sản mã hóa](https://vnexpress.net/viet-nam-thi-diem-thi-truong-tai-san-ma-hoa-4937159.html) - 12:24 09/09/2025
+- 🌮 [Vietjet nhận giải về dịch vụ hàng không tại Ấn Độ](https://vnexpress.net/vietjet-nhan-giai-ve-dich-vu-hang-khong-tai-an-do-4937080.html) - 10:30 09/09/2025
+- 🧰 [Giá USD thế giới xuống thấp nhất gần 2 tháng](https://vnexpress.net/gia-usd-the-gioi-xuong-thap-nhat-gan-2-thang-4937038.html) - 09:33 09/09/2025
+- 🤔 [Quy mô thị trường nhà ở tại Mỹ tăng 20.000 tỷ USD](https://vnexpress.net/quy-mo-thi-truong-nha-o-tai-my-tang-20-000-ty-usd-4936873.html) - 09:15 09/09/2025
+- 🧑‍💻 [Doanh nghiệp liên quan bà Trương Mỹ Lan lỗ lũy kế hơn 3.000 tỷ đồng](https://vnexpress.net/doanh-nghiep-lien-quan-ba-truong-my-lan-lo-luy-ke-hon-3-000-ty-dong-4936993.html) - 09:00 09/09/2025
+- 🕴 [VN-Index ngắt chuỗi giảm sâu](https://vnexpress.net/vn-index-ngat-chuoi-giam-sau-4937058.html) - 08:46 09/09/2025
+- 🦩 [Bộ Tài chính trình nâng giảm trừ gia cảnh lên 15,5 triệu đồng](https://vnexpress.net/bo-tai-chinh-trinh-nang-giam-tru-gia-canh-len-15-5-trieu-dong-4936932.html) - 05:56 09/09/2025
+- 👍 [EVN lý giải khoản lỗ 45.000 tỷ đồng chưa tính vào giá điện](https://vnexpress.net/evn-ly-giai-khoan-lo-45-000-ty-dong-chua-tinh-vao-gia-dien-4936867.html) - 05:05 09/09/2025
+- 🏊 [3,2 triệu khách hàng tiêu thụ điện tăng 30% trong tháng 8](https://vnexpress.net/3-2-trieu-khach-hang-tieu-thu-dien-tang-30-trong-thang-8-4936826.html) - 03:52 09/09/2025
+- 🤡 [Gỗ Minh Long ra mắt bộ sưu tập mới mang tên &#39;Pha&#39;](https://vnexpress.net/go-minh-long-ra-mat-bo-suu-tap-moi-mang-ten-pha-4936480.html) - 02:00 09/09/2025
+- 👀 [Công ty chứng khoán dự báo VN-Index lên 2.000 điểm vào cuối năm](https://vnexpress.net/cong-ty-chung-khoan-du-bao-vn-index-len-2-000-diem-vao-cuoi-nam-4936421.html) - 01:51 09/09/2025
+- 😺 [Chứng khoán Mỹ tiếp tục tăng cao](https://vnexpress.net/chung-khoan-my-tang-tiep-4936753.html) - 01:41 09/09/2025
+- 🦣 [CEO nói về lý do Sun PhuQuoc Airways ra đời](https://vnexpress.net/ceo-noi-ve-ly-do-sun-phuquoc-airways-ra-doi-4936692.html) - 23:47 08/09/2025
+- 😺 [Giao dịch gạo Việt chững lại khi Philippines ngưng nhập](https://vnexpress.net/giao-dich-gao-viet-chung-lai-khi-philippines-ngung-nhap-4936562.html) - 17:02 08/09/2025
+- 💼 [Bất đồng quanh mục tiêu cấm xe xăng ở EU vào 2035](https://vnexpress.net/bat-dong-quanh-muc-tieu-cam-xe-xang-o-eu-vao-2035-4936549.html) - 17:01 08/09/2025
+- 🤗 [Hưng Thịnh Land thoát lỗ](https://vnexpress.net/hung-thinh-land-thoat-lo-4936628.html) - 13:54 08/09/2025
+- 👀 [Khuyến nghị người dân thận trọng khi mua vàng](https://vnexpress.net/khuyen-nghi-nguoi-dan-than-trong-khi-mua-vang-4936654.html) - 12:14 08/09/2025
+- 🎓 [&#39;Việt Nam ở vị thế tốt hơn đối thủ cạnh tranh giữa biến động thuế quan&#39;](https://vnexpress.net/viet-nam-o-vi-the-tot-hon-doi-thu-canh-tranh-giua-bien-dong-thue-quan-4936626.html) - 11:45 08/09/2025
+- 🗽 [Xuất khẩu của Trung Quốc sang Mỹ giảm hơn 30%](https://vnexpress.net/xuat-khau-cua-trung-quoc-sang-my-giam-hon-30-4936515.html) - 11:05 08/09/2025
+- 🚀 [Masterise Group: Khối tư nhân cần tham gia nâng chuẩn sống đô thị](https://vnexpress.net/masterise-group-khoi-tu-nhan-can-tham-gia-nang-chuan-song-do-thi-4936627.html) - 10:00 08/09/2025
+- 🤗 [&#39;EVN cần làm rõ khoản lỗ 45.000 tỷ đồng muốn đưa vào giá điện&#39;](https://vnexpress.net/evn-can-lam-ro-khoan-lo-45-000-ty-dong-muon-dua-vao-gia-dien-4936260.html) - 09:37 08/09/2025
+- 🌜 [T&amp;amp;T hoàn thành đường tải điện từ Lào về Việt Nam trong hơn 6 tháng](https://vnexpress.net/t-t-hoan-thanh-duong-tai-dien-tu-lao-ve-viet-nam-trong-hon-6-thang-4936509.html) - 09:00 08/09/2025
+- 👍 [Chứng khoán giảm mạnh nhất một tháng](https://vnexpress.net/chung-khoan-giam-manh-nhat-mot-thang-4936575.html) - 08:44 08/09/2025
+- 🤖 [Sắp thanh tra các doanh nghiệp kinh doanh vàng](https://vnexpress.net/sap-thanh-tra-cac-doanh-nghiep-kinh-doanh-vang-4936566.html) - 08:43 08/09/2025
+- 🫣 [Chủ chuỗi casino và nghỉ dưỡng Phú Quốc lỗ hơn 3 tỷ mỗi ngày](https://vnexpress.net/chu-chuoi-casino-va-nghi-duong-phu-quoc-lo-hon-3-ty-moi-ngay-4936517.html) - 08:38 08/09/2025
+- 🌏 [Đề xuất thí điểm giá điện hai thành phần từ 2026](https://vnexpress.net/de-xuat-thi-diem-gia-dien-hai-thanh-phan-tu-2026-4936558.html) - 08:22 08/09/2025
+- ⚗️ [Chuyên gia DNSE nêu ba kênh đầu tư phù hợp nắm giữ cuối năm](https://vnexpress.net/chuyen-gia-dnse-neu-ba-kenh-dau-tu-phu-hop-nam-giu-cuoi-nam-4936519.html) - 08:00 08/09/2025
+- 🕯 [Gian hàng của Sun Group tại triển lãm A80 hút khách tham quan](https://vnexpress.net/gian-hang-cua-sun-group-tai-trien-lam-a80-hut-khach-tham-quan-4936521.html) - 07:45 08/09/2025
+- 👍 [Mastercard Việt Nam có giám đốc mới](https://vnexpress.net/mastercard-viet-nam-co-giam-doc-moi-4936424.html) - 06:52 08/09/2025
+- 🤠 [Quan chức Mỹ cảnh báo khoản hoàn thuế khổng lồ nếu thua kiện](https://vnexpress.net/quan-chuc-my-canh-bao-khoan-hoan-thue-khong-lo-neu-thua-kien-4936372.html) - 05:02 08/09/2025
+- 🌊 [Ngành điện TP HCM công khai điện tiêu thụ hàng ngày trên app](https://vnexpress.net/nganh-dien-tp-hcm-cong-khai-dien-tieu-thu-hang-ngay-tren-app-4936347.html) - 03:30 08/09/2025
+- 🌈 [Các nước phát triển thị trường bán lẻ điện thế nào](https://vnexpress.net/cac-nuoc-phat-trien-thi-truong-ban-le-dien-the-nao-4935737.html) - 03:28 08/09/2025
+- 🥳 [Thủ tướng: Xử lý nghiêm thao túng, găm hàng gây bất ổn thị trường vàng](https://vnexpress.net/thu-tuong-xu-ly-nghiem-thao-tung-gam-hang-gay-bat-on-thi-truong-vang-4936323.html) - 02:15 08/09/2025
+- 🐻 [Chuyển đổi số - đòn bẩy tái cấu trúc cho hệ sinh thái Masan](https://vnexpress.net/chuyen-doi-so-don-bay-tai-cau-truc-cho-he-sinh-thai-masan-4936210.html) - 02:00 08/09/2025
+- 💫 [5 yếu tố giúp VietinBank giữ vị trí top đầu trong nửa đầu năm](https://vnexpress.net/5-yeu-to-giup-vietinbank-giu-vi-tri-top-dau-trong-nua-dau-nam-4935629.html) - 01:00 08/09/2025
+- 🤩 [Hội đồng Tư vấn chính sách: Mục tiêu tăng trưởng hai con số là &#39;phù hợp&#39;](https://vnexpress.net/hoi-dong-tu-van-chinh-sach-muc-tieu-tang-truong-hai-con-so-la-phu-hop-4936243.html) - 17:29 07/09/2025
+- 💻 [Nhãn bắp cải giảm giá mạnh](https://vnexpress.net/nhan-bap-cai-giam-gia-manh-4936105.html) - 17:00 07/09/2025
+- ⚗️ [Google lặng lẽ xóa cam kết Net Zero khỏi website](https://vnexpress.net/google-lang-le-xoa-cam-ket-net-zero-khoi-website-4936089.html) - 17:00 07/09/2025
+- 🌈 [Cục Thống kê: Áp lực lạm phát vẫn chưa lớn](https://vnexpress.net/cuc-thong-ke-ap-luc-lam-phat-van-chua-lon-4936181.html) - 10:02 07/09/2025
+- 🌝 [Ông Trump ký sắc lệnh miễn thuế cho một số hàng hóa](https://vnexpress.net/ong-trump-ky-sac-lenh-mien-thue-cho-mot-so-hang-hoa-4936145.html) - 09:38 07/09/2025
+- 🥸 [Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed](https://vnexpress.net/ong-trump-rut-gon-danh-sach-ung-vien-chu-tich-fed-4936100.html) - 07:29 07/09/2025
+- 🦆 [Ấn Độ tuyên bố sẽ tiếp tục mua dầu Nga](https://vnexpress.net/an-do-tuyen-bo-se-tiep-tuc-mua-dau-nga-4936083.html) - 02:56 07/09/2025
+- 🌋 [Mỹ sẽ siết nhập khẩu drone và xe tải Trung Quốc](https://vnexpress.net/my-se-siet-nhap-khau-drone-va-xe-tai-trung-quoc-4936049.html) - 02:50 07/09/2025
+- 🦍 [Xuất khẩu vải thiều tăng gấp ba cùng kỳ](https://vnexpress.net/xuat-khau-vai-thieu-tang-gap-ba-cung-ky-4936079.html) - 02:45 07/09/2025
+- 🤔 [Hàng Mỹ ồ ạt vào Việt Nam](https://vnexpress.net/hang-my-o-at-vao-viet-nam-4935958.html) - 00:00 07/09/2025
+- 🧰 [Bộ Công Thương: Giá điện chỉ tăng 2-5% nếu cho EVN tính bù khoản lỗ 45.000 tỷ đồng](https://vnexpress.net/bo-cong-thuong-gia-dien-chi-tang-2-5-neu-cho-evn-tinh-bu-khoan-lo-45-000-ty-dong-4936048.html) - 17:08 06/09/2025
+- 🌝 [Cuộc chiến quảng cáo kem đánh răng giữa căng thẳng Mỹ - Ấn](https://vnexpress.net/cuoc-chien-quang-cao-kem-danh-rang-giua-cang-thang-my-an-4935992.html) - 17:03 06/09/2025
+- 👍 [Trung Quốc áp thuế đến 60% thịt heo châu Âu](https://vnexpress.net/trung-quoc-ap-thue-den-60-thit-heo-chau-au-4936045.html) - 16:21 06/09/2025
+- 🗽 [Xuất nhập khẩu dự kiến lập kỷ lục mới năm nay](https://vnexpress.net/xuat-nhap-khau-du-kien-lap-ky-luc-moi-nam-nay-4935969.html) - 11:57 06/09/2025
+- 🐎 [Phó thống đốc lý giải nguyên nhân giá vàng tăng cao](https://vnexpress.net/pho-thong-doc-ly-giai-nguyen-nhan-gia-vang-tang-cao-4935981.html) - 10:40 06/09/2025
+- 🪄 [Hơn 200.000 doanh nghiệp gia nhập thị trường trong 8 tháng](https://vnexpress.net/hon-200-000-doanh-nghiep-gia-nhap-thi-truong-trong-8-thang-4935975.html) - 09:31 06/09/2025
+- 🎊 [Serbia huấn luyện loại sâu ăn 1 kg nhựa chỉ thải 1g CO2](https://vnexpress.net/serbia-huan-luyen-loai-sau-an-1-kg-nhua-chi-thai-1g-co2-4935883.html) - 05:12 06/09/2025
+- 🗽 [Thủ tướng yêu cầu chấn chỉnh thị trường vàng](https://vnexpress.net/thu-tuong-yeu-cau-chan-chinh-thi-truong-vang-4935819.html) - 03:25 06/09/2025
+- 🦩 [Nông dân thua lỗ vì khoai mì rớt giá mạnh](https://vnexpress.net/nong-dan-thua-lo-vi-khoai-mi-rot-gia-manh-4935565.html) - 02:55 06/09/2025<!-- vnexpress-kinh-doanh:END -->
