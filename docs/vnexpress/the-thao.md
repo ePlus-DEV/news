@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ecuador - thế lực đang vươn mình ở Nam Mỹ](https://vnexpress.net/ecuador-the-luc-dang-vuon-minh-o-nam-my-4937134.html) - 11:24 09/09/2025
 - 🦩 [Tiến Minh bị loại, Vũ Thị Trang ngược dòng ấn tượng ở Vietnam Open](https://vnexpress.net/tien-minh-bi-loai-vu-thi-trang-nguoc-dong-an-tuong-o-vietnam-open-4937087.html) - 11:00 09/09/2025
-- 🧰 [Việt Nam 1-0 Yemen &lpar;H2&rpar;: Thanh Nhàn mở tỷ số](https://vnexpress.net/truc-tiep-tran-viet-nam-vs-yemen-tai-vong-loai-u23-chau-a-2026-4937094.html) - 11:00 09/09/2025
+- 🧰 [Việt Nam vào VCK U23 châu Á lần thứ sáu liên tiếp](https://vnexpress.net/truc-tiep-tran-viet-nam-vs-yemen-tai-vong-loai-u23-chau-a-2026-4937094.html) - 11:00 09/09/2025
 - 🤗 [Những cột mốc đưa Alcaraz vào nhóm huyền thoại](https://vnexpress.net/nhung-cot-moc-dua-alcaraz-vao-nhom-huyen-thoai-4937031.html) - 08:51 09/09/2025
 - 🥳 [Bí quyết giúp danh thủ Serie A tái xuất ở tuổi 82](https://vnexpress.net/bi-quyet-giup-danh-thu-serie-a-tai-xuat-o-tuoi-82-4937033.html) - 08:31 09/09/2025
 - 🦣 [Joao Felix &#39;tái sinh&#39; từ ngày về chung đội với Ronaldo](https://vnexpress.net/joao-felix-tai-sinh-tu-ngay-ve-chung-doi-voi-ronaldo-4937046.html) - 08:26 09/09/2025
