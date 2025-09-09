@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Lĩnh 20 năm tù vì dùng búa truy sát nữ trung tá công an](https://dantri.com.vn/phap-luat/linh-20-nam-tu-vi-dung-bua-truy-sat-nu-trung-ta-cong-an-20250908220616563.htm) - 23:18 08/09/2025
 - 🐲 [Thủ đoạn “rút ruột” hơn 95 lượng vàng của cựu Tổng giám đốc SJC](https://dantri.com.vn/phap-luat/thu-doan-rut-ruot-hon-95-luong-vang-cua-cuu-tong-giam-doc-sjc-20250908215744963.htm) - 23:09 08/09/2025
-- 🌁 [Kẹo Kera: Món quà tặng riêng, đưa hoa hậu Thùy Tiên vào thẳng trại tạm giam](https://dantri.com.vn/phap-luat/keo-kera-mon-qua-tang-rieng-dua-hoa-hau-thuy-tien-vao-thang-trai-tam-giam-20250908234558339.htm) - 22:18 08/09/2025
+- 🌁 [Kẹo Kera: Món quà tặng riêng đưa hoa hậu Thùy Tiên vào thẳng trại tạm giam](https://dantri.com.vn/phap-luat/keo-kera-mon-qua-tang-rieng-dua-hoa-hau-thuy-tien-vao-thang-trai-tam-giam-20250908234558339.htm) - 22:18 08/09/2025
 - 🎃 [Những bữa cơm tại nhà &quot;lãnh đạo cấp cao&quot; giúp Thuận An trúng thầu](https://dantri.com.vn/phap-luat/nhung-bua-com-tai-nha-lanh-dao-cap-cao-giup-thuan-an-trung-thau-20250908223630255.htm) - 17:00 08/09/2025
 - 🦅 [Làm rõ nam shipper bị đánh khi đi giao hàng cho một người đàn ông](https://dantri.com.vn/phap-luat/lam-ro-nam-shipper-bi-danh-khi-di-giao-hang-cho-mot-nguoi-dan-ong-20250908193334517.htm) - 16:03 08/09/2025
 - 🎭 [Tên cướp sa lưới sau 38 năm lẩn trốn](https://dantri.com.vn/phap-luat/ten-cuop-sa-luoi-sau-38-nam-lan-tron-20250908195745751.htm) - 15:58 08/09/2025
