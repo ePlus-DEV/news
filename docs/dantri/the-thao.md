@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam - U23 Yemen &lpar;19h hôm nay&rpar;: Đình Bắc, Văn Trường dự bị](https://dantri.com.vn/the-thao/u23-viet-nam-u23-yemen-19h-hom-nay-dinh-bac-van-truong-du-bi-20250909182025994.htm) - 11:20 09/09/2025
-- 💯 [Báo Đông Nam Á bình luận về màn ẩu đả của đội tuyển Thái Lan, Indonesia](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-ve-man-au-da-cua-doi-tuyen-thai-lan-indonesia-20250909145907603.htm) - 08:05 09/09/2025
-- ⛽️ [Messi úp mở khả năng dự World Cup, HLV Lionel Scaloni nói điều bất ngờ](https://dantri.com.vn/the-thao/messi-up-mo-kha-nang-du-world-cup-hlv-lionel-scaloni-noi-dieu-bat-ngo-20250909113546514.htm) - 07:17 09/09/2025
-- 💃 [AFC nói thẳng về U23 Việt Nam trước trận đấu quyết định](https://dantri.com.vn/the-thao/afc-noi-thang-ve-u23-viet-nam-truoc-tran-dau-quyet-dinh-20250909134113060.htm) - 06:41 09/09/2025
-- 🌈 [Siêu máy tính dự đoán kết quả trận U23 Việt Nam gặp Yemen](https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ket-qua-tran-u23-viet-nam-gap-yemen-20250909132444041.htm) - 06:24 09/09/2025
-- 🦅 [Xác định 18 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-18-doi-bong-gianh-ve-tham-du-world-cup-2026-20250909103932483.htm) - 05:39 09/09/2025
+- 🎡 [U23 Việt Nam 0-0 U23 Yemen &lpar;hết hiệp 1&rpar;: 45 phút chủ động](https://dantri.com.vn/the-thao/u23-viet-nam-0-0-u23-yemen-het-hiep-1-45-phut-chu-dong-20250909182025994.htm) - 11:20 09/09/2025
+- 💯 [Xác định 18 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-18-doi-bong-gianh-ve-tham-du-world-cup-2026-20250909103932483.htm) - 08:39 09/09/2025
+- ⛽️ [Báo Đông Nam Á bình luận về màn ẩu đả của đội tuyển Thái Lan, Indonesia](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-ve-man-au-da-cua-doi-tuyen-thai-lan-indonesia-20250909145907603.htm) - 08:05 09/09/2025
+- 💃 [Messi úp mở khả năng dự World Cup, HLV Lionel Scaloni nói điều bất ngờ](https://dantri.com.vn/the-thao/messi-up-mo-kha-nang-du-world-cup-hlv-lionel-scaloni-noi-dieu-bat-ngo-20250909113546514.htm) - 07:17 09/09/2025
+- 🌈 [AFC nói thẳng về U23 Việt Nam trước trận đấu quyết định](https://dantri.com.vn/the-thao/afc-noi-thang-ve-u23-viet-nam-truoc-tran-dau-quyet-dinh-20250909134113060.htm) - 06:41 09/09/2025
+- 🦅 [Siêu máy tính dự đoán kết quả trận U23 Việt Nam gặp Yemen](https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ket-qua-tran-u23-viet-nam-gap-yemen-20250909132444041.htm) - 06:24 09/09/2025
 - 🌝 [Bayer Leverkusen bổ nhiệm huấn luyện viên thay thế Ten Hag](https://dantri.com.vn/the-thao/bayer-leverkusen-bo-nhiem-huan-luyen-vien-thay-the-ten-hag-20250909105628325.htm) - 04:10 09/09/2025
 - 🚀 [Xem trực tiếp trận U23 Việt Nam gặp U23 Yemen ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u23-viet-nam-gap-u23-yemen-o-dau-20250909095051718.htm) - 03:11 09/09/2025
 - 🎉 [Alcaraz, Sinner thống trị Grand Slam: Chênh lệch đẳng cấp ngày càng lớn](https://dantri.com.vn/the-thao/alcaraz-sinner-thong-tri-grand-slam-chenh-lech-dang-cap-ngay-cang-lon-20250909084802850.htm) - 02:13 09/09/2025
