@@ -4,13 +4,13 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [CSGT hóa trang tuần tra, xử lý tài xế xe tải đi sai làn trên cao tốc](https://dantri.com.vn/thoi-su/csgt-hoa-trang-tuan-tra-xu-ly-tai-xe-xe-tai-di-sai-lan-tren-cao-toc-20250909121509506.htm) - 05:23 09/09/2025
-- 👨‍🏫 [Bộ Chính trị kết luận số lượng thứ trưởng, phó chủ tịch tỉnh sau sáp nhập](https://dantri.com.vn/thoi-su/bo-chinh-tri-ket-luan-so-luong-thu-truong-pho-chu-tich-tinh-sau-sap-nhap-20250909114901677.htm) - 05:00 09/09/2025
-- 🌮 [Chiến sự Ukraine 9/9: Nga lật thế cờ, vây ngược Ukraine ở Dobropolye](https://dantri.com.vn/the-gioi/chien-su-ukraine-99-nga-lat-the-co-vay-nguoc-ukraine-o-dobropolye-20250909112424715.htm) - 04:42 09/09/2025
-- 🕯 [Tòa án Thái Lan ra phán quyết ông Thaksin phải ngồi tù một năm](https://dantri.com.vn/the-gioi/toa-an-thai-lan-ra-phan-quyet-ong-thaksin-phai-ngoi-tu-mot-nam-20250909102853545.htm) - 04:17 09/09/2025
-- 🪜 [Chuyện về 2 ngôi mộ nằm trơ trọi giữa đường băng của sân bay](https://dantri.com.vn/du-lich/chuyen-ve-2-ngoi-mo-nam-tro-troi-giua-duong-bang-cua-san-bay-20250909103944153.htm) - 03:52 09/09/2025
-- 🐘 [Công an xử lý nghiêm vụ bác sĩ nha khoa hành hung khách hàng ở TPHCM](https://dantri.com.vn/phap-luat/cong-an-xu-ly-nghiem-vu-bac-si-nha-khoa-hanh-hung-khach-hang-o-tphcm-20250909082400098.htm) - 03:46 09/09/2025
-- 🤔 [Xác định 18 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-18-doi-bong-gianh-ve-tham-du-world-cup-2026-20250909103932483.htm) - 03:39 09/09/2025
+- 🎭 [Xác định 18 đội bóng giành vé tham dự World Cup 2026](https://dantri.com.vn/the-thao/xac-dinh-18-doi-bong-gianh-ve-tham-du-world-cup-2026-20250909103932483.htm) - 05:39 09/09/2025
+- 👨‍🏫 [CSGT hóa trang tuần tra, xử lý tài xế xe tải đi sai làn trên cao tốc](https://dantri.com.vn/thoi-su/csgt-hoa-trang-tuan-tra-xu-ly-tai-xe-xe-tai-di-sai-lan-tren-cao-toc-20250909121509506.htm) - 05:23 09/09/2025
+- 🌮 [Bộ Chính trị kết luận số lượng thứ trưởng, phó chủ tịch tỉnh sau sáp nhập](https://dantri.com.vn/thoi-su/bo-chinh-tri-ket-luan-so-luong-thu-truong-pho-chu-tich-tinh-sau-sap-nhap-20250909114901677.htm) - 05:00 09/09/2025
+- 🕯 [Chiến sự Ukraine 9/9: Nga lật thế cờ, vây ngược Ukraine ở Dobropolye](https://dantri.com.vn/the-gioi/chien-su-ukraine-99-nga-lat-the-co-vay-nguoc-ukraine-o-dobropolye-20250909112424715.htm) - 04:42 09/09/2025
+- 🪜 [Tòa án Thái Lan ra phán quyết ông Thaksin phải ngồi tù một năm](https://dantri.com.vn/the-gioi/toa-an-thai-lan-ra-phan-quyet-ong-thaksin-phai-ngoi-tu-mot-nam-20250909102853545.htm) - 04:17 09/09/2025
+- 🐘 [Chuyện về 2 ngôi mộ nằm trơ trọi giữa đường băng của sân bay](https://dantri.com.vn/du-lich/chuyen-ve-2-ngoi-mo-nam-tro-troi-giua-duong-bang-cua-san-bay-20250909103944153.htm) - 03:52 09/09/2025
+- 🤔 [Công an xử lý nghiêm vụ bác sĩ nha khoa hành hung khách hàng ở TPHCM](https://dantri.com.vn/phap-luat/cong-an-xu-ly-nghiem-vu-bac-si-nha-khoa-hanh-hung-khach-hang-o-tphcm-20250909082400098.htm) - 03:46 09/09/2025
 - 🧠 [Xem trực tiếp trận U23 Việt Nam gặp U23 Yemen ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u23-viet-nam-gap-u23-yemen-o-dau-20250909095051718.htm) - 03:11 09/09/2025
 - 📝 [Israel bị cáo buộc không kích loạt thành phố ở Syria](https://dantri.com.vn/the-gioi/israel-bi-cao-buoc-khong-kich-loat-thanh-pho-o-syria-20250909094933034.htm) - 02:53 09/09/2025
 - 🦏 [Thắp hương xong rời đi, người phụ nữ làm cháy 4 căn nhà](https://dantri.com.vn/ban-doc/thap-huong-xong-roi-di-nguoi-phu-nu-lam-chay-4-can-nha-20250909090647231.htm) - 02:49 09/09/2025
