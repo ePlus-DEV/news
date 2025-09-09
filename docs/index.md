@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Lịch thi đấu Giải bóng chuyền nam vô địch thế giới 2025](https://muctim.tuoitre.vn/lich-thi-dau-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-10125090917154176.htm) - 11:58 09/09/2025
-- 🥷 [Trực tiếp U23 Việt Nam - U23 Yemen: quyết thắng giành vé dự vòng chung kết](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-u23-yemen-quyet-thang-gianh-ve-du-vong-chung-ket-101250909185659382.htm) - 11:57 09/09/2025
+- 🥷 [Trực tiếp U23 Việt Nam - U23 Yemen: Thanh Nhàn mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-u23-yemen-quyet-thang-gianh-ve-du-vong-chung-ket-101250909185659382.htm) - 11:57 09/09/2025
 - 🤖 [Check-in sớm phố lồng đèn Lương Nhữ Học đón Trung thu](https://muctim.tuoitre.vn/check-in-som-pho-long-den-luong-nhu-hoc-don-trung-thu-101250906162148089.htm) - 11:00 09/09/2025
 - 🤓 [Điều ít ai biết về Hạ Anh, bóng hồng duy nhất trong phim Mưa đỏ](https://muctim.tuoitre.vn/dieu-it-ai-biet-ve-ha-anh-bong-hong-duy-nhat-trong-phim-mua-do-101250909123439811.htm) - 08:17 09/09/2025
 - 🎉 [Ca khúc chủ đề của Kpop Demon Hunters đứng đầu Billboard, vượt thành tích của BTS](https://muctim.tuoitre.vn/ca-khuc-chu-de-cua-kpop-demon-hunters-dung-dau-billboard-vuot-thanh-tich-cua-bts-101250909111923911.htm) - 08:14 09/09/2025
