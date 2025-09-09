@@ -30,7 +30,7 @@ sidebar_position: 2
 - 🕴 [Mỹ đặt mua vũ khí khoan hầm thay siêu bom GBU-57](https://vnexpress.net/my-dat-mua-vu-khi-khoan-ham-thay-sieu-bom-gbu-57-4936750.html) - 02:54 09/09/2025
 - 🎓 [Người Hàn cảm thấy bị &#39;phản bội&#39; sau vụ Mỹ bắt 300 công nhân](https://vnexpress.net/nguoi-han-cam-thay-bi-phan-boi-sau-vu-my-bat-300-cong-nhan-4936738.html) - 02:49 09/09/2025
 - 🦩 [Người trúng độc đắc 1,8 tỷ USD có thể thực lĩnh 242 triệu USD](https://vnexpress.net/nguoi-trung-doc-dac-1-8-ty-usd-co-the-thuc-linh-242-trieu-usd-4936771.html) - 02:22 09/09/2025
-- 🌏 [Thái Lan bắt người Việt bị cáo buộc buôn lậu sừng tê từ Angola](https://vnexpress.net/thai-lan-bat-nguoi-viet-bi-cao-buoc-buon-lau-sung-te-tu-angola-4936743.html) - 02:05 09/09/2025
+- 🌏 [Thái Lan bắt người Việt bị cáo buộc buôn lậu sừng tê giác từ Angola](https://vnexpress.net/thai-lan-bat-nguoi-viet-bi-cao-buoc-buon-lau-sung-te-giac-tu-angola-4936743.html) - 02:05 09/09/2025
 - 🌋 [Vụ cô gái Ukraine bị đâm chết thổi bùng tranh cãi trên chính trường Mỹ](https://vnexpress.net/vu-co-gai-ukraine-bi-dam-chet-thoi-bung-tranh-cai-tren-chinh-truong-my-4936724.html) - 01:32 09/09/2025
 - 🪜 [Chính quyền Trump truy quét người nhập cư trái phép ở Chicago](https://vnexpress.net/chinh-quyen-trump-truy-quet-nguoi-nhap-cu-trai-phep-o-chicago-4936729.html) - 01:03 09/09/2025
 - 🕴 [Phe Dân chủ công bố &#39;thư mừng sinh nhật ông Trump gửi Epstein&#39;](https://vnexpress.net/phe-dan-chu-cong-bo-thu-mung-sinh-nhat-ong-trump-gui-epstein-4936713.html) - 00:23 09/09/2025
