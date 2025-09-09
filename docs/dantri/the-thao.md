@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam - U23 Yemen &lpar;19h hôm nay&rpar;: Văm Khang, Phi Sơn đá chính](https://dantri.com.vn/the-thao/u23-viet-nam-u23-yemen-19h-hom-nay-vam-khang-phi-son-da-chinh-20250909182025994.htm) - 11:20 09/09/2025
+- 🎡 [U23 Việt Nam - U23 Yemen &lpar;19h hôm nay&rpar;: Đình Bắc, Văn Trường dự bị](https://dantri.com.vn/the-thao/u23-viet-nam-u23-yemen-19h-hom-nay-dinh-bac-van-truong-du-bi-20250909182025994.htm) - 11:20 09/09/2025
 - 💯 [Báo Đông Nam Á bình luận về màn ẩu đả của đội tuyển Thái Lan, Indonesia](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-ve-man-au-da-cua-doi-tuyen-thai-lan-indonesia-20250909145907603.htm) - 08:05 09/09/2025
 - ⛽️ [Messi úp mở khả năng dự World Cup, HLV Lionel Scaloni nói điều bất ngờ](https://dantri.com.vn/the-thao/messi-up-mo-kha-nang-du-world-cup-hlv-lionel-scaloni-noi-dieu-bat-ngo-20250909113546514.htm) - 07:17 09/09/2025
 - 💃 [AFC nói thẳng về U23 Việt Nam trước trận đấu quyết định](https://dantri.com.vn/the-thao/afc-noi-thang-ve-u23-viet-nam-truoc-tran-dau-quyet-dinh-20250909134113060.htm) - 06:41 09/09/2025
