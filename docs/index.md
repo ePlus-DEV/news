@@ -258,7 +258,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [CLB nữ TP HCM 1 thắng tối thiểu Phong Phú Hà Nam, duy trì ngôi đầu](https://nld.com.vn/clb-nu-tp-hcm-1-thang-toi-thieu-phong-phu-ha-nam-duy-tri-ngoi-dau-196250909222446363.htm) - 17:04 09/09/2025
 - 😺 [Báo in ngày 10-9: Thuế cho cá nhân kinh doanh còn nhiều vấn đề](https://nld.com.vn/bao-in-ngay-10-9-thue-cho-ca-nhan-kinh-doanh-con-nhieu-van-de-196250909223816239.htm) - 17:00 09/09/2025
-- 👍 [Đếm ngược giờ ra mắt iPhone 17, xem trực tiếp tại đây](https://nld.com.vn/dem-nguoc-gio-ra-mat-iphone-17-xem-truc-tiep-tai-day-196250909195901344.htm) - 16:54 09/09/2025
+- 👍 [Xem trực tiếp sự kiện ra mắt iPhone 17 tại đây](https://nld.com.vn/dem-nguoc-gio-ra-mat-iphone-17-xem-truc-tiep-tai-day-196250909195901344.htm) - 16:54 09/09/2025
 - 🥷 [HLV U23 Yemen: &quot;Hài lòng với các cầu thủ khi thất bại trước đội bóng hàng đầu châu Á&quot;](https://nld.com.vn/hlv-u23-yemen-hai-long-voi-cac-cau-thu-khi-that-bai-truoc-doi-bong-hang-dau-chau-a-196250909223954873.htm) - 16:43 09/09/2025
 - 🤔 [Trường Tươi Đồng Nai xuất quân với mục tiêu thăng hạng V-League](https://nld.com.vn/truong-tuoi-dong-nai-xuat-quan-voi-muc-tieu-thang-hang-v-league-196250909213143303.htm) - 15:17 09/09/2025
 - 🌈 [Xuân Trường thừa nhận áp lực khi tái hợp Công Phượng, Minh Vương](https://nld.com.vn/xuan-truong-thua-nhan-ap-luc-khi-tai-hop-cong-phuong-minh-vuong-196250909220913133.htm) - 15:16 09/09/2025
