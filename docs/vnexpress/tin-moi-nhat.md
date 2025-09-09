@@ -21,13 +21,13 @@ sidebar_position: 9
 - 🐘 [Em trai Tyson Fury xô đẩy đối thủ để quay video về đích](https://vnexpress.net/em-trai-tyson-fury-xo-day-doi-thu-de-quay-video-ve-dich-4936809.html) - 17:00 09/09/2025
 - 🌁 [Việt - Mỹ khai mạc chương trình Bạn bè Thái Bình Dương](https://vnexpress.net/viet-my-khai-mac-chuong-trinh-ban-be-thai-binh-duong-4937174.html) - 16:59 09/09/2025
 - 🐲 [Thái Lan toát mồ hôi giật vé dự vòng chung kết U23 châu Á](https://vnexpress.net/thai-lan-toat-mo-hoi-giat-ve-du-vong-chung-ket-u23-chau-a-4937194.html) - 16:32 09/09/2025
-- 🤓 [Lễ ra mắt iPhone 17](https://vnexpress.net/le-ra-mat-iphone-17-4936942.html) - 16:30 09/09/2025
+- 🤓 [iPhone Air &#39;siêu mỏng&#39; ra mắt](https://vnexpress.net/le-ra-mat-iphone-17-4936942.html) - 16:30 09/09/2025
 - 💪 [Tổng Bí thư: Khi nào xây dựng được bộ sách giáo khoa thống nhất?](https://vnexpress.net/tong-bi-thu-khi-nao-xay-dung-duoc-bo-sach-giao-khoa-thong-nhat-4937179.html) - 16:20 09/09/2025
 - 🎓 [HLV Kim Sang-sik: &#39;U23 Việt Nam còn nhiều khuyết điểm&#39;](https://vnexpress.net/hlv-kim-sang-sik-u23-viet-nam-con-nhieu-khuyet-diem-4937188.html) - 15:27 09/09/2025
 - 🫣 [Kết cục của người bố New Zealand đưa 3 con vào rừng suốt 4 năm](https://vnexpress.net/ket-cuc-cua-nguoi-bo-new-zealand-dua-3-con-vao-rung-suot-4-nam-4937003.html) - 15:07 09/09/2025
 - 🧑‍💻 [HLV của Yemen: &#39;Tôi ấn tượng trước sự đoàn kết của Việt Nam&#39;](https://vnexpress.net/hlv-cua-yemen-toi-an-tuong-truoc-su-doan-ket-cua-viet-nam-4937185.html) - 15:03 09/09/2025
 - 🐲 [Nữ sinh lớp 10 bị bạn đánh hội đồng sau lễ khai giảng](https://vnexpress.net/nu-sinh-lop-10-bi-ban-danh-hoi-dong-sau-le-khai-giang-4937052.html) - 15:00 09/09/2025
-- 🌝 [Việt Nam xuất khẩu 306 tỷ USD sau 8 tháng](https://vnexpress.net/viet-nam-xuat-khau-306-ty-usd-sau-8-thang-4937149.html) - 15:00 09/09/2025
+- 🌝 [Kim ngạch xuất nhập khẩu đạt 306 tỷ USD sau 8 tháng](https://vnexpress.net/kim-ngach-xuat-nhap-khau-dat-306-ty-usd-sau-8-thang-4937149.html) - 15:00 09/09/2025
 - 😺 [Em tìm một bàn tay để nắm trọn cả đời](https://vnexpress.net/em-tim-mot-ban-tay-de-nam-tron-ca-doi-4937019.html) - 14:59 09/09/2025
 - 🐎 [Hai người ba bữa, bốn mùa bên nhau](https://vnexpress.net/hai-nguoi-ba-bua-bon-mua-ben-nhau-4937014.html) - 14:59 09/09/2025
 - 🎡 [Indonesia mất vé dự vòng chung kết U23 châu Á 2026](https://vnexpress.net/indonesia-mat-ve-du-vong-chung-ket-u23-chau-a-2026-4937169.html) - 14:58 09/09/2025
