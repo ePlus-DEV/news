@@ -26,7 +26,7 @@ sidebar_position: 9
 - 🎓 [Em trai Tyson Fury xô đẩy đối thủ để quay video về đích](https://vnexpress.net/em-trai-tyson-fury-xo-day-doi-thu-de-quay-video-ve-dich-4936809.html) - 17:00 09/09/2025
 - 🫣 [Việt - Mỹ khai mạc chương trình Bạn bè Thái Bình Dương](https://vnexpress.net/viet-my-khai-mac-chuong-trinh-ban-be-thai-binh-duong-4937174.html) - 16:59 09/09/2025
 - 🧑‍💻 [Thái Lan toát mồ hôi giật vé dự vòng chung kết U23 châu Á](https://vnexpress.net/thai-lan-toat-mo-hoi-giat-ve-du-vong-chung-ket-u23-chau-a-4937194.html) - 16:32 09/09/2025
-- 🐲 [Apple ra iPhone Air siêu mỏng, 17 Pro Max vỏ nhôm](https://vnexpress.net/le-ra-mat-iphone-17-4936942-tong-thuat.html) - 16:30 09/09/2025
+- 🐲 [Apple ra iPhone Air siêu mỏng, 17 Pro Max vỏ nhôm](https://vnexpress.net/le-ra-mat-iphone-17-4936942.html) - 16:30 09/09/2025
 - 🌝 [Tổng Bí thư: Khi nào xây dựng được bộ sách giáo khoa thống nhất?](https://vnexpress.net/tong-bi-thu-khi-nao-xay-dung-duoc-bo-sach-giao-khoa-thong-nhat-4937179.html) - 16:20 09/09/2025
 - 😺 [HLV Kim Sang-sik: &#39;U23 Việt Nam còn nhiều khuyết điểm&#39;](https://vnexpress.net/hlv-kim-sang-sik-u23-viet-nam-con-nhieu-khuyet-diem-4937188.html) - 15:27 09/09/2025
 - 🐎 [Kết cục của người bố New Zealand đưa 3 con vào rừng suốt 4 năm](https://vnexpress.net/ket-cuc-cua-nguoi-bo-new-zealand-dua-3-con-vao-rung-suot-4-nam-4937003.html) - 15:07 09/09/2025
