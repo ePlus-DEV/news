@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV U23 Indonesia phát biểu sốc về cầu thủ nhập tịch, có thể mất việc](https://dantri.com.vn/the-thao/hlv-u23-indonesia-phat-bieu-soc-ve-cau-thu-nhap-tich-co-the-mat-viec-20250910131325508.htm) - 07:06 10/09/2025
-- 💯 [Cristiano Ronaldo sắp xô đổ kỷ lục ghi bàn ở vòng loại World Cup](https://dantri.com.vn/the-thao/cristiano-ronaldo-sap-xo-do-ky-luc-ghi-ban-o-vong-loai-world-cup-20250910112553502.htm) - 04:44 10/09/2025
-- ⛽️ [Toàn cảnh cuộc đua giành vé dự World Cup 2026](https://dantri.com.vn/the-thao/toan-canh-cuoc-dua-gianh-ve-du-world-cup-2026-20250910092622592.htm) - 02:32 10/09/2025
+- 🎡 [Toàn cảnh cuộc đua giành vé dự World Cup 2026](https://dantri.com.vn/the-thao/toan-canh-cuoc-dua-gianh-ve-du-world-cup-2026-20250910092622592.htm) - 09:00 10/09/2025
+- 💯 [HLV U23 Indonesia phát biểu sốc về cầu thủ nhập tịch, có thể mất việc](https://dantri.com.vn/the-thao/hlv-u23-indonesia-phat-bieu-soc-ve-cau-thu-nhap-tich-co-the-mat-viec-20250910131325508.htm) - 07:06 10/09/2025
+- ⛽️ [Cristiano Ronaldo sắp xô đổ kỷ lục ghi bàn ở vòng loại World Cup](https://dantri.com.vn/the-thao/cristiano-ronaldo-sap-xo-do-ky-luc-ghi-ban-o-vong-loai-world-cup-20250910112553502.htm) - 04:44 10/09/2025
 - 💃 [Argentina thất bại trong ngày vắng Messi, Brazil trắng tay trước Bolivia](https://dantri.com.vn/the-thao/argentina-that-bai-trong-ngay-vang-messi-brazil-trang-tay-truoc-bolivia-20250910092110939.htm) - 02:21 10/09/2025
 - 🌈 [Haaland ghi 5 bàn, Na Uy giành chiến thắng với tỷ số 11-1](https://dantri.com.vn/the-thao/haaland-ghi-5-ban-na-uy-gianh-chien-thang-voi-ty-so-11-1-20250910084310700.htm) - 02:03 10/09/2025
 - 🦅 [Ngôi sao Thái Lan tiết lộ bí quyết giúp đội nhà giành vé dự giải U23 châu Á](https://dantri.com.vn/the-thao/ngoi-sao-thai-lan-tiet-lo-bi-quyet-giup-doi-nha-gianh-ve-du-giai-u23-chau-a-20250910090400885.htm) - 02:02 10/09/2025
