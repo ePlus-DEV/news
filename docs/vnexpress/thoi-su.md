@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc Lộ Tẻ - Rạch Sỏi sau một năm xoá &#39;ổ gà&#39;](https://vnexpress.net/cao-toc-lo-te-rach-soi-sau-mot-nam-xoa-o-ga-4937326.html) - 07:18 10/09/2025
+- 🦒 [Cao tốc nối Cần Thơ - An Giang sau nâng cấp, sửa chữa hư hỏng](https://vnexpress.net/cao-toc-noi-can-tho-an-giang-sau-nang-cap-sua-chua-hu-hong-4937326.html) - 07:18 10/09/2025
 - 🤓 [Tổng Bí thư: Huy động tư nhân tham gia dự án hạ tầng trọng yếu](https://vnexpress.net/tong-bi-thu-huy-dong-tu-nhan-tham-gia-du-an-ha-tang-trong-yeu-4937411.html) - 06:50 10/09/2025
 - ⚗️ [Hai bếp ăn bán trú mới cho học sinh Cơ Tu](https://vnexpress.net/hai-bep-an-ban-tru-moi-cho-hoc-sinh-co-tu-4937228.html) - 05:10 10/09/2025
 - 🌊 [Bộ Xây dựng ủng hộ xây cao tốc nối cao nguyên và duyên hải](https://vnexpress.net/bo-xay-dung-ung-ho-xay-cao-toc-noi-cao-nguyen-va-duyen-hai-4937294.html) - 03:24 10/09/2025
