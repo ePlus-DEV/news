@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phụ huynh bất bình vì con phải đi học thứ bảy](https://vnexpress.net/phu-huynh-bat-binh-vi-con-phai-di-hoc-thu-bay-4936935.html) - 02:44 10/09/2025
+- 🤓 [Phụ huynh phản ứng vì con phải đi học thứ bảy](https://vnexpress.net/phu-huynh-phan-ung-vi-con-phai-di-hoc-thu-bay-4936935.html) - 02:44 10/09/2025
 - 🦆 [Chàng trai dẫn đầu kỳ thi bác sĩ nội trú lớn nhất ở Y Hà Nội](https://vnexpress.net/cach-hoc-cua-thu-khoa-bac-si-noi-tru-dai-hoc-y-ha-noi-nam-2025-4936943.html) - 18:04 09/09/2025
 - 🦩 [Tổng Bí thư: Khi nào xây dựng được bộ sách giáo khoa thống nhất?](https://vnexpress.net/tong-bi-thu-khi-nao-xay-dung-duoc-bo-sach-giao-khoa-thong-nhat-4937179.html) - 16:20 09/09/2025
 - 🌮 [Nữ sinh lớp 10 bị bạn đánh hội đồng sau lễ khai giảng](https://vnexpress.net/nu-sinh-lop-10-bi-ban-danh-hoi-dong-sau-le-khai-giang-4937052.html) - 15:00 09/09/2025
