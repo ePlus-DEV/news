@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đội tuyển Việt Nam thi đấu sân nhà ở hai trận gặp Nepal](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-thi-dau-san-nha-o-hai-tran-gap-nepal-20250911105647892.htm) - 04:02 11/09/2025
-- 💯 [U23 Indonesia và Malaysia “hiện nguyên hình”: Trái đắng của nhập tịch ồ ạt](https://dantri.com.vn/the-thao/u23-indonesia-va-malaysia-hien-nguyen-hinh-trai-dang-cua-nhap-tich-o-at-20250911094251927.htm) - 02:42 11/09/2025
+- 💯 [U23 Indonesia và Malaysia “hiện nguyên hình”: Trái đắng của nhập tịch ồ ạt](https://dantri.com.vn/the-thao/u23-indonesia-va-malaysia-hien-nguyen-hinh-trai-dang-cua-nhap-tich-o-at-20250911094251927.htm) - 03:42 11/09/2025
 - ⛽️ [Tay vợt pickleball số một thế giới Ben Johns tới Việt Nam tranh tài](https://dantri.com.vn/the-thao/tay-vot-pickleball-so-mot-the-gioi-ben-johns-toi-viet-nam-tranh-tai-20250911090032672.htm) - 02:41 11/09/2025
 - 💃 [Djokovic, Alcaraz đồng loạt không tham dự vòng loại Davis Cup 2025](https://dantri.com.vn/the-thao/djokovic-alcaraz-dong-loat-khong-tham-du-vong-loai-davis-cup-2025-20250911083645165.htm) - 01:38 11/09/2025
 - 🌈 [Messi được vinh danh sau khi kết thúc vòng loại World Cup 2026 của Nam Mỹ](https://dantri.com.vn/the-thao/messi-duoc-vinh-danh-sau-khi-ket-thuc-vong-loai-world-cup-2026-cua-nam-my-20250911075251561.htm) - 01:19 11/09/2025
