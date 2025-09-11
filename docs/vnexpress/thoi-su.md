@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Loạt cây đổ đè sập nhà, chắn ngang đường ở TP HCM](https://vnexpress.net/loat-cay-do-de-sap-nha-chan-ngang-duong-o-tp-hcm-4937995.html) - 12:37 11/09/2025
 - 🤓 [Danh thắng Tam Chúc là di tích quốc gia đặc biệt](https://vnexpress.net/danh-thang-tam-chuc-la-di-tich-quoc-gia-dac-biet-4937963.html) - 10:50 11/09/2025
-- ⚗️ [Ông Mai Xuân Liêm phụ trách UBND tỉnh Thanh Hóa](https://vnexpress.net/ong-mai-xuan-liem-phu-trach-ubnd-tinh-thanh-hoa-4937972.html) - 10:25 11/09/2025
+- ⚗️ [Chủ tịch UBND tỉnh Thanh Hóa đột ngột vắng mặt](https://vnexpress.net/chu-tich-ubnd-tinh-thanh-hoa-dot-ngot-vang-mat-4937972.html) - 10:25 11/09/2025
 - 🌊 [&#39;Không để hệ thống thông tin cơ mật quốc gia bị tấn công bất ngờ&#39;](https://vnexpress.net/khong-de-he-thong-thong-tin-co-mat-quoc-gia-bi-tan-cong-bat-ngo-4937947.html) - 10:21 11/09/2025
 - 🎓 [Phó chủ tịch tỉnh An Giang xin nghỉ hưu ở tuổi 51](https://vnexpress.net/pho-chu-tich-tinh-an-giang-xin-nghi-huu-o-tuoi-51-4937946.html) - 10:05 11/09/2025
 - 🔥 [Tàu cá cháy ngùn ngụt trên sông Nhật Lệ](https://vnexpress.net/tau-ca-chay-ngun-ngut-tren-song-nhat-le-4937926.html) - 09:51 11/09/2025
