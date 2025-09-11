@@ -4,12 +4,12 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Đọ cấu hình iPhone 17 Pro với Galaxy S25 Ultra, Sony Xperia 1 VII](https://dantri.com.vn/cong-nghe/do-cau-hinh-iphone-17-pro-voi-galaxy-s25-ultra-sony-xperia-1-vii-20250911021609991.htm) - 04:43 11/09/2025
-- 🌈 [Bảo Anh Taruki và nghệ sĩ Nhật hợp tác đưa Ghibli đến gần khán giả Việt](https://dantri.com.vn/giai-tri/bao-anh-taruki-va-nghe-si-nhat-hop-tac-dua-ghibli-den-gan-khan-gia-viet-20250731010102082.htm) - 04:32 11/09/2025
-- 🐎 [Thế giới chứng kiến kỷ nguyên vaccine chống ung thư](https://dantri.com.vn/suc-khoe/the-gioi-chung-kien-ky-nguyen-vaccine-chong-ung-thu-20250910151302352.htm) - 03:27 11/09/2025
-- 👹 [Từ cuộc gặp định mệnh đến góp vàng ủng hộ nhà nước của Nam Phương hoàng hậu](https://dantri.com.vn/doi-song/tu-cuoc-gap-dinh-menh-den-gop-vang-ung-ho-nha-nuoc-cua-nam-phuong-hoang-hau-20250817195614429.htm) - 02:46 11/09/2025
-- 🫶 [Nghị quyết 70: Cú hích an ninh năng lượng từ nguồn lực xã hội](https://dantri.com.vn/khoa-hoc/nghi-quyet-70-cu-hich-an-ninh-nang-luong-tu-nguon-luc-xa-hoi-20250911014227512.htm) - 00:43 11/09/2025
-- ⛽️ [HLV Hoàng Anh Tuấn: “U23 Việt Nam cần hoàn thiện lối chơi ở giải châu Á”](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-u23-viet-nam-can-hoan-thien-loi-choi-o-giai-chau-a-20250910235920492.htm) - 23:38 10/09/2025
+- 🤠 [HLV Hoàng Anh Tuấn: “U23 Việt Nam cần hoàn thiện lối chơi ở giải châu Á”](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-u23-viet-nam-can-hoan-thien-loi-choi-o-giai-chau-a-20250910235920492.htm) - 05:38 11/09/2025
+- 🌈 [Đọ cấu hình iPhone 17 Pro với Galaxy S25 Ultra, Sony Xperia 1 VII](https://dantri.com.vn/cong-nghe/do-cau-hinh-iphone-17-pro-voi-galaxy-s25-ultra-sony-xperia-1-vii-20250911021609991.htm) - 04:43 11/09/2025
+- 🐎 [Bảo Anh Taruki và nghệ sĩ Nhật hợp tác đưa Ghibli đến gần khán giả Việt](https://dantri.com.vn/giai-tri/bao-anh-taruki-va-nghe-si-nhat-hop-tac-dua-ghibli-den-gan-khan-gia-viet-20250731010102082.htm) - 04:32 11/09/2025
+- 👹 [Thế giới chứng kiến kỷ nguyên vaccine chống ung thư](https://dantri.com.vn/suc-khoe/the-gioi-chung-kien-ky-nguyen-vaccine-chong-ung-thu-20250910151302352.htm) - 03:27 11/09/2025
+- 🫶 [Từ cuộc gặp định mệnh đến góp vàng ủng hộ nhà nước của Nam Phương hoàng hậu](https://dantri.com.vn/doi-song/tu-cuoc-gap-dinh-menh-den-gop-vang-ung-ho-nha-nuoc-cua-nam-phuong-hoang-hau-20250817195614429.htm) - 02:46 11/09/2025
+- ⛽️ [Nghị quyết 70: Cú hích an ninh năng lượng từ nguồn lực xã hội](https://dantri.com.vn/khoa-hoc/nghi-quyet-70-cu-hich-an-ninh-nang-luong-tu-nguon-luc-xa-hoi-20250911014227512.htm) - 00:43 11/09/2025
 - 🌜 [Nữ du kích lái đò trên sông Thạch Hãn xem lại hình bóng mình trong &quot;Mưa đỏ&quot;](https://dantri.com.vn/thoi-su/nu-du-kich-lai-do-tren-song-thach-han-xem-lai-hinh-bong-minh-trong-mua-do-20250910194057972.htm) - 23:34 10/09/2025
 - 💪 [Cô gái xinh đẹp TPHCM gặp được tình yêu định mệnh nhờ thư cảnh báo lừa đảo](https://dantri.com.vn/doi-song/co-gai-xinh-dep-tphcm-gap-duoc-tinh-yeu-dinh-menh-nho-thu-canh-bao-lua-dao-20250908152911160.htm) - 23:19 10/09/2025
 - 🎊 [Gia đình 4 thế hệ vỡ òa khi nhận ra &quot;người cha đi B&quot; 50 năm trước](https://dantri.com.vn/lao-dong-viec-lam/gia-dinh-4-the-he-vo-oa-khi-nhan-ra-nguoi-cha-di-b-50-nam-truoc-20250910182511924.htm) - 23:01 10/09/2025
