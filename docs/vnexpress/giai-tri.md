@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Shin cậu bé bút chì 31&#39; - thử thách tình bạn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/crayon-shin-chan-the-movie-super-hot-the-spicy-kasukabe-dancers-831) - 09:44 11/09/2025
+- 🌏 [&#39;Shin cậu bé bút chì 33&#39; - thử thách tình bạn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/crayon-shin-chan-the-movie-super-hot-the-spicy-kasukabe-dancers-831) - 09:44 11/09/2025
 - 💫 [Diễn viên Huỳnh Anh Tuấn tạm ngưng kênh vlog nấu ăn](https://vnexpress.net/dien-vien-huynh-anh-tuan-tam-ngung-kenh-vlog-nau-an-4937912.html) - 08:22 11/09/2025
 - 🌮 [Nguyên tắc thời trang của mẹ con nhà Angelina Jolie](https://vnexpress.net/nguyen-tac-thoi-trang-cua-me-con-nha-angelina-jolie-4936927.html) - 08:04 11/09/2025
 - 🧠 [Kho túi hiệu của Đỗ Thị Hà](https://vnexpress.net/kho-tui-hieu-cua-do-thi-ha-4937819.html) - 07:19 11/09/2025
