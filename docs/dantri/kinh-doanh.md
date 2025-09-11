@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Ra mắt Hội đồng điều hành mô hình Toàn cảnh Kinh tế tư nhân](https://dantri.com.vn/kinh-doanh/ra-mat-hoi-dong-dieu-hanh-mo-hinh-toan-canh-kinh-te-tu-nhan-20250911165848005.htm) - 10:02 11/09/2025
 - 🦆 [VN-Index &quot;quay xe&quot; ngoạn mục, kết phiên xanh ngát](https://dantri.com.vn/kinh-doanh/vn-index-quay-xe-ngoan-muc-ket-phien-xanh-ngat-20250911155816738.htm) - 09:24 11/09/2025
-- 🦄 [PNJ nằm trong “Top 10 thương hiệu Việt Nam mạnh nhất năm 2025” của Brand Fiance](https://dantri.com.vn/kinh-doanh/pnj-nam-trong-top-10-thuong-hieu-viet-nam-manh-nhat-nam-2025-cua-brand-fiance-20250911161807780.htm) - 09:18 11/09/2025
+- 🦄 [PNJ nằm trong “Top 10 thương hiệu Việt Nam mạnh nhất năm 2025” của Brand Finance](https://dantri.com.vn/kinh-doanh/pnj-nam-trong-top-10-thuong-hieu-viet-nam-manh-nhat-nam-2025-cua-brand-finance-20250911161807780.htm) - 09:18 11/09/2025
 - 🌝 [Sá xị Chương Dương không đủ khả năng trả nợ Sabeco, đối mặt nguy cơ phá sản](https://dantri.com.vn/kinh-doanh/sa-xi-chuong-duong-khong-du-kha-nang-tra-no-sabeco-doi-mat-nguy-co-pha-san-20250911142423231.htm) - 09:16 11/09/2025
 - 💃 [Một chạm mở ưu đãi, nâng tầm trải nghiệm người dùng thời đại số](https://dantri.com.vn/kinh-doanh/mot-cham-mo-uu-dai-nang-tam-trai-nghiem-nguoi-dung-thoi-dai-so-20250911153224456.htm) - 08:42 11/09/2025
 - 🦏 [Giá xăng RON 95 giảm 30 đồng/lít](https://dantri.com.vn/kinh-doanh/gia-xang-ron-95-giam-30-donglit-20250911125907666.htm) - 07:25 11/09/2025
