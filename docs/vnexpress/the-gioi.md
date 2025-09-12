@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Bố của nghi phạm ám sát nhà hoạt động Mỹ khuyên con đầu thú](https://vnexpress.net/bo-cua-nghi-pham-am-sat-nha-hoat-dong-my-khuyen-con-dau-thu-4938436.html) - 12:42 12/09/2025
+- 🎭 [Nghi phạm ám sát nhà hoạt động Mỹ bị gia đình tố giác](https://vnexpress.net/nghi-pham-am-sat-nha-hoat-dong-my-bi-gia-dinh-to-giac-4938436.html) - 12:42 12/09/2025
 - 🕴 [Quân đội Nepal - tường thành giữ ổn định giữa khủng hoảng](https://vnexpress.net/quan-doi-nepal-tuong-thanh-giu-on-dinh-giua-khung-hoang-4938104.html) - 12:00 12/09/2025
 - 🤭 [Điện Kremlin nói đàm phán hòa bình Nga - Ukraine &#39;tạm dừng&#39;](https://vnexpress.net/dien-kremlin-noi-dam-phan-hoa-binh-nga-ukraine-tam-dung-4938414.html) - 11:37 12/09/2025
 - 🧑‍💻 [Harry tới Ukraine](https://vnexpress.net/harry-toi-ukraine-4938364.html) - 10:44 12/09/2025
