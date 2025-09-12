@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [G-Dragon chốt lịch biểu diễn tại Hà Nội, người hâm mộ &quot;đếm từng ngày&quot;](https://dantri.com.vn/giai-tri/g-dragon-chot-lich-bieu-dien-tai-ha-noi-nguoi-ham-mo-dem-tung-ngay-20250912102911566.htm) - 03:32 12/09/2025
+- 🤩 [G-Dragon chốt lịch biểu diễn ở Ocean City Hà Nội, khán giả &quot;đếm từng ngày&quot;](https://dantri.com.vn/giai-tri/g-dragon-chot-lich-bieu-dien-o-ocean-city-ha-noi-khan-gia-dem-tung-ngay-20250912102911566.htm) - 03:32 12/09/2025
 - 🔥 [Uẩn khúc trong cái chết và ngày cuối đời của mỹ nam vừa ngã lầu tử vong](https://dantri.com.vn/giai-tri/uan-khuc-trong-cai-chet-va-ngay-cuoi-doi-cua-my-nam-vua-nga-lau-tu-vong-20250912084500571.htm) - 02:42 12/09/2025
 - 🚀 [NSND Minh Hằng, NSND Lan Hương gây sốt với bức ảnh cách đây 3 thập kỷ](https://dantri.com.vn/giai-tri/nsnd-minh-hang-nsnd-lan-huong-gay-sot-voi-buc-anh-cach-day-3-thap-ky-20250911233921232.htm) - 01:20 12/09/2025
 - 🔥 [Ba mỹ nam Mưa đỏ: &quot;Cảnh cởi áo khoe cơ bắp 6 múi không phải để câu view&quot;](https://dantri.com.vn/giai-tri/ba-my-nam-mua-do-canh-coi-ao-khoe-co-bap-6-mui-khong-phai-de-cau-view-20250912065244281.htm) - 00:18 12/09/2025
