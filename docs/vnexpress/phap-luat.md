@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Chồng đoạt mạng vợ trong lúc cãi nhau](https://vnexpress.net/chong-doat-mang-vo-trong-luc-cai-nhau-4938004.html) - 13:49 11/09/2025
 - 🎊 [81 kg cần sa trôi dạt trên biển TP HCM](https://vnexpress.net/81-kg-can-sa-troi-dat-tren-bien-tp-hcm-4938003.html) - 13:47 11/09/2025
 - 🙉 [Ba án chung thân trong vụ hỗn chiến ven biển Đà Nẵng](https://vnexpress.net/ba-an-chung-than-trong-vu-hon-chien-ven-bien-da-nang-4937984.html) - 13:39 11/09/2025
-- 🤡 [Bác sĩ hãm hại nữ bệnh nhân bị phạt 2 năm 6 tháng tù](https://vnexpress.net/bac-si-ham-hai-nu-benh-nhan-bi-phat-2-nam-6-thang-tu-4937987.html) - 11:46 11/09/2025
+- 🤡 [Bác sĩ hãm hại nữ bệnh nhân bị phạt 2 năm 8 tháng tù](https://vnexpress.net/bac-si-ham-hai-nu-benh-nhan-bi-phat-2-nam-8-thang-tu-4937987.html) - 11:46 11/09/2025
 - 🗽 [Bà chủ chuỗi nhà thuốc Mỹ Châu bị phạt 17 năm tù](https://vnexpress.net/ba-chu-chuoi-nha-thuoc-my-chau-bi-phat-17-nam-tu-4937976.html) - 11:11 11/09/2025
 - 🌋 [Chủ tịch Công ty Cổ phần Tập đoàn dự án Hoàng Gia bị bắt](https://vnexpress.net/chu-tich-cong-ty-co-phan-tap-doan-du-an-hoang-gia-bi-bat-4937911.html) - 09:51 11/09/2025
 - 🎬 [Viên đạn bắn chim lạc vào cửa sổ khiến hàng xóm tử vong](https://vnexpress.net/vien-dan-ban-chim-lac-vao-cua-so-khien-hang-xom-tu-vong-4937866.html) - 07:04 11/09/2025
