@@ -4,8 +4,8 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Văng tục, hút shisha Độ mixi vẫn có triệu người hâm mộ: Thần tượng dễ dãi?](https://dantri.com.vn/doi-song/vang-tuc-hut-shisha-do-mixi-van-co-trieu-nguoi-ham-mo-than-tuong-de-dai-20250911182250845.htm) - 04:04 12/09/2025
-- 🌁 [Chôn cất đồng đội giữa bom đạn, cựu binh 50 năm tìm thân nhân cho bạn](https://dantri.com.vn/doi-song/chon-cat-dong-doi-giua-bom-dan-cuu-binh-50-nam-tim-than-nhan-cho-ban-20250911212830842.htm) - 03:03 12/09/2025
+- 🥳 [Nhân chứng kể phút tôn bay như &quot;máy chém&quot;, vút qua cô gái trong dông lốc](https://dantri.com.vn/doi-song/nhan-chung-ke-phut-ton-bay-nhu-may-chem-vut-qua-co-gai-trong-dong-loc-20250912113846401.htm) - 05:05 12/09/2025
+- 🌁 [Văng tục, hút shisha Độ mixi vẫn có triệu người hâm mộ: Thần tượng dễ dãi?](https://dantri.com.vn/doi-song/vang-tuc-hut-shisha-do-mixi-van-co-trieu-nguoi-ham-mo-than-tuong-de-dai-20250911182250845.htm) - 04:04 12/09/2025
 - 👀 [Người đàn ông đeo mặt nạ quái dị, hạ cửa kính khiến nhiều người hoang mang](https://dantri.com.vn/doi-song/nguoi-dan-ong-deo-mat-na-quai-di-ha-cua-kinh-khien-nhieu-nguoi-hoang-mang-20250911224231754.htm) - 00:26 12/09/2025
 - 🐻 [Chuyện ít biết về huyền thoại K3 Tam Đảo với lời thề &quot;K3 còn, Thành cổ còn&quot;](https://dantri.com.vn/doi-song/chuyen-it-biet-ve-huyen-thoai-k3-tam-dao-voi-loi-the-k3-con-thanh-co-con-20250911151046638.htm) - 23:08 11/09/2025
 - 🦅 [Cửa đá khổng lồ trên dãy núi, dấy lên nghi ngờ của người ngoài hành tinh](https://dantri.com.vn/doi-song/cua-da-khong-lo-tren-day-nui-day-len-nghi-ngo-cua-nguoi-ngoai-hanh-tinh-20250908231041001.htm) - 09:40 11/09/2025
