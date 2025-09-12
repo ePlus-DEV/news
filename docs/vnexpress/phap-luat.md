@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Bí thư Thành ủy Thanh Hóa bị bắt trong vụ án &#39;bầu&#39; Đoan](https://vnexpress.net/cuu-bi-thu-thanh-uy-thanh-hoa-bi-bat-trong-vu-an-bau-doan-4938469.html) - 15:22 12/09/2025
+- 😎 [Cựu Bí thư Thành ủy Thanh Hóa bị bắt trong vụ án &#39;bầu Đoan&#39;](https://vnexpress.net/cuu-bi-thu-thanh-uy-thanh-hoa-bi-bat-trong-vu-an-bau-doan-4938469.html) - 15:22 12/09/2025
 - 🥰 [Phó chủ tịch tỉnh Thanh Hóa Nguyễn Văn Thi bị bắt](https://vnexpress.net/pho-chu-tich-tinh-thanh-hoa-nguyen-van-thi-bi-bat-4938462.html) - 14:43 12/09/2025
 - 🎓 [Nam sinh lớp 7 bị đâm trọng thương trong trường](https://vnexpress.net/nam-sinh-lop-7-bi-dam-trong-thuong-trong-truong-4938417.html) - 12:07 12/09/2025
 - 🤓 [Hơn một tuần lẩn trốn của kẻ phân xác người tình ở Tây Ninh](https://vnexpress.net/hon-mot-tuan-lan-tron-cua-ke-phan-xac-nguoi-tinh-o-tay-ninh-4938331.html) - 10:20 12/09/2025
