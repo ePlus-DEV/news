@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô bé dắt người bố mù đi ăn xin đỗ ngành Sư phạm Vật lý](https://vnexpress.net/co-be-dat-nguoi-bo-mu-di-an-xin-do-nganh-su-pham-vat-ly-4938313.html) - 15:09 12/09/2025
+- 🤓 [Cô bé từng ăn xin đỗ ngành Sư phạm Vật lý](https://vnexpress.net/co-be-tung-an-xin-do-nganh-su-pham-vat-ly-4938313.html) - 15:09 12/09/2025
 - 🦆 [Người dân nước nào sống thọ nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-song-tho-nhat-the-gioi-4938409.html) - 12:00 12/09/2025
 - 🦩 [Sau bỏ học, thần đồng IQ 204 ứng tuyển vào Oxford](https://vnexpress.net/sau-bo-hoc-than-dong-iq-204-ung-tuyen-vao-oxford-4938219.html) - 06:23 12/09/2025
 - 🌮 [Vừa nhập học, gần 7.000 sinh viên đã đạt chuẩn đầu ra tiếng Anh](https://vnexpress.net/vua-nhap-hoc-gan-7-000-sinh-vien-da-dat-chuan-dau-ra-tieng-anh-4938152.html) - 04:51 12/09/2025
