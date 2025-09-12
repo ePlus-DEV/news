@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chuyên cơ Beechcraft B300 bay kiểm tra hệ thống ở Long Thành cuối tháng 9](https://vnexpress.net/chuyen-co-beechcraft-b300-bay-kiem-tra-he-thong-o-long-thanh-cuoi-thang-9-4938249.html) - 05:46 12/09/2025
+- ⛽️ [Vì sao Tesla trao gói thù lao 1.000 tỷ USD cho Elon Musk?](https://vnexpress.net/vi-sao-tesla-trao-goi-thu-lao-1-000-ty-usd-cho-elon-musk-4938157.html) - 07:30 12/09/2025
 - 🐲 [Chủ đầu tư Aqua City lỗ 70 tỷ đồng nửa đầu năm](https://vnexpress.net/chu-dau-tu-aqua-city-lo-70-ty-dong-nua-dau-nam-4938142.html) - 05:31 12/09/2025
 - 🔥 [&#39;Nếu giá điện tăng 3%, EVN có thêm khoảng 4.800 tỷ đồng doanh thu&#39;](https://vnexpress.net/neu-gia-dien-tang-3-evn-co-them-khoang-4-800-ty-dong-doanh-thu-4937835.html) - 05:15 12/09/2025
 - 🐵 [Ngân hàng Nhà nước yêu cầu khắc phục triệt để các lỗ hổng hệ thống thông tin](https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-khac-phuc-triet-de-cac-lo-hong-he-thong-thong-tin-4938089.html) - 03:17 12/09/2025
