@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Ngân hàng, trung gian thanh toán cần tăng cường đảm bảo an toàn hệ thống thông tin&#39;](https://vnexpress.net/ngan-hang-trung-gian-thanh-toan-can-tang-cuong-dam-bao-an-toan-he-thong-thong-tin-4938089.html) - 03:17 12/09/2025
+- ⛽️ [Ngân hàng Nhà nước yêu cầu khắc phục triệt để các lỗ hổng hệ thống thông tin](https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-khac-phuc-triet-de-cac-lo-hong-he-thong-thong-tin-4938089.html) - 03:17 12/09/2025
 - 🐲 [Phó thủ tướng yêu cầu có biện pháp kinh tế quản lý xe không đạt chuẩn môi trường](https://vnexpress.net/pho-thu-tuong-yeu-cau-co-bien-phap-kinh-te-quan-ly-xe-khong-dat-chuan-moi-truong-4938060.html) - 03:01 12/09/2025
 - 🔥 [21 dấu ẩn nổi bật của VNG sau hơn hai thập kỷ](https://vnexpress.net/21-dau-an-noi-bat-cua-vng-sau-hon-hai-thap-ky-4937913.html) - 02:09 12/09/2025
 - 🐵 [Chân dung tỷ phú sắp soán ngôi giàu nhất thế giới của Elon Musk](https://vnexpress.net/chan-dung-ty-phu-sap-soan-ngoi-giau-nhat-the-gioi-cua-elon-musk-4937895.html) - 18:00 11/09/2025
