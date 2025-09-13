@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [“Phải có chế tài xử lý dự án các được cấp đất, cấp phép nhưng không đầu tư”](https://dantri.com.vn/thoi-su/phai-co-che-tai-xu-ly-du-an-cac-duoc-cap-dat-cap-phep-nhung-khong-dau-tu-20250913221604609.htm) - 15:16 13/09/2025
+- 🎭 [“Phải có chế tài xử lý các dự án được cấp đất, cấp phép nhưng không đầu tư”](https://dantri.com.vn/thoi-su/phai-co-che-tai-xu-ly-cac-du-an-duoc-cap-dat-cap-phep-nhung-khong-dau-tu-20250913221604609.htm) - 15:16 13/09/2025
 - 👨‍🏫 [Người phụ nữ chết cháy trong container ở TPHCM](https://dantri.com.vn/thoi-su/nguoi-phu-nu-chet-chay-trong-container-o-tphcm-20250913202549319.htm) - 14:05 13/09/2025
 - 🌮 [Bạn đọc Dân trí nhận đỡ đầu, chắp cánh ước mơ học sinh trên đảo Cồn Cỏ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-nhan-do-dau-chap-canh-uoc-mo-hoc-sinh-tren-dao-con-co-20250913174127325.htm) - 13:43 13/09/2025
 - 🕯 [Nhiều nơi trên cả 3 miền mưa to vào chiều tối và đêm](https://dantri.com.vn/thoi-su/nhieu-noi-tren-ca-3-mien-mua-to-vao-chieu-toi-va-dem-20250913185825360.htm) - 13:25 13/09/2025
