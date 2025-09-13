@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bóng chuyền nam vô địch thế giới: Nhật Bản gặp Thổ Nhĩ Kỳ](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-nhat-ban-gap-tho-nhi-ky-101250913124013956.htm) - 05:43 13/09/2025
+- 🤔 [Trực tiếp bóng chuyền nam vô địch thế giới: Nhật Bản - Thổ Nhĩ Kỳ 0-2](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-nhat-ban-gap-tho-nhi-ky-101250913124013956.htm) - 05:43 13/09/2025
 - 🥷 [Những tân binh nào có thể ra mắt tại vòng 4 Giải Ngoại hạng Anh?](https://muctim.tuoitre.vn/nhung-tan-binh-nao-co-the-ra-mat-tai-vong-4-giai-ngoai-hang-anh-101250913122201764.htm) - 05:40 13/09/2025
 - 🤖 [Điều gì đưa Jun Ji Hyun trở thành nữ thần không tuổi của phim ảnh và thời trang Hàn Quốc?](https://muctim.tuoitre.vn/dieu-gi-dua-jun-ji-hyun-tro-thanh-nu-than-khong-tuoi-cua-phim-anh-va-thoi-trang-han-quoc-101250913101344664.htm) - 05:24 13/09/2025
 - 🤓 [Bật mí về cô nàng thích... bay của Trường THPT Nguyễn Thị Minh Khai](https://muctim.tuoitre.vn/bat-mi-ve-co-nang-thich-bay-cua-truong-thpt-nguyen-thi-minh-khai-101250909102659667.htm) - 05:19 13/09/2025
@@ -533,7 +533,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Lịch trực tiếp La Liga 13-9: Real Sociedad - Real Madrid](https://muctim.tuoitre.vn/lich-truc-tiep-la-liga-13-9-real-sociedad-real-madrid-101250913105449138.htm) - 05:08 13/09/2025
 - 🚦 [Đến triển lãm lồng đèn truyền thống tìm lại ký ức Trung thu xưa](https://muctim.tuoitre.vn/den-trien-lam-long-den-truyen-thong-tim-lai-ky-uc-trung-thu-xua-101250913093146248.htm) - 05:07 13/09/2025
 - 🤭 [Lịch thi đấu bán kết Vietnam Open 2025: Hy vọng Nguyễn Thùy Linh tỏa sáng](https://muctim.tuoitre.vn/lich-thi-dau-ban-ket-vietnam-open-2025-hy-vong-nguyen-thuy-linh-toa-sang-101250913103312796.htm) - 04:47 13/09/2025
-- 😺 [Trực tiếp Giải bóng chuyền nam vô địch thế giới 2025: Bồ Đào Nha - Cuba 0-1 &lpar;ván 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-bo-dao-nha-gap-cuba-trong-tran-ra-quan-101250913102901353.htm) - 03:57 13/09/2025
+- 😺 [Trực tiếp Giải bóng chuyền nam vô địch thế giới 2025: Bồ Đào Nha - Cuba 2-1 &lpar;set 3&rpar;](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-bo-dao-nha-gap-cuba-trong-tran-ra-quan-101250913102901353.htm) - 03:57 13/09/2025
 - 😎 [Lịch trực tiếp Giải ngoại hạng Anh hôm nay: tâm điểm Arsenal vs Nottingham Forest](https://muctim.tuoitre.vn/lich-truc-tiep-giai-ngoai-hang-anh-hom-nay-tam-diem-arsenal-vs-nottingham-forest-101250913081514505.htm) - 02:25 13/09/2025
 - 🐎 [Mỹ có chiến thắng áp đảo 3-0 trước Colombia tại Giải bóng chuyền nam vô địch thế giới](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-my-doi-dau-colombia-101250912222937372.htm) - 02:02 13/09/2025
 - 🎓 [Tuyển bóng chuyền nam Canada thắng ngược Lybia 3-1](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-canada-dau-lybia-101250913085038888.htm) - 01:50 13/09/2025
