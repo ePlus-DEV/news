@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thùy Linh vào chung kết Vietnam Open](https://vnexpress.net/thuy-linh-vao-chung-ket-vietnam-open-4938705.html) - 10:39 13/09/2025
+- 🪜 [Thùy Linh vào chung kết Vietnam Open 2025](https://vnexpress.net/thuy-linh-vao-chung-ket-vietnam-open-2025-4938705.html) - 10:39 13/09/2025
 - 🦩 [&#39;Em xinh&#39; Orange khuấy động lễ khai mạc chung kết LCP 2025](https://vnexpress.net/em-xinh-orange-khuay-dong-le-khai-mac-chung-ket-lcp-2025-4938655.html) - 10:00 13/09/2025
 - 🧰 [Lautaro Martinez: &#39;Những thứ không giết chết tôi sẽ làm tôi mạnh mẽ hơn&#39;](https://vnexpress.net/lautaro-martinez-nhung-thu-khong-giet-chet-toi-se-lam-toi-manh-me-hon-4938677.html) - 08:47 13/09/2025
 - 🤗 [Grealish - người thừa ở Man City thành người hùng Everton](https://vnexpress.net/grealish-nguoi-thua-o-man-city-thanh-nguoi-hung-everton-4938600.html) - 05:20 13/09/2025
