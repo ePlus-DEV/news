@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Amorim báo tin buồn, Man Utd có quyết định bất ngờ khi gặp Man City](https://dantri.com.vn/the-thao/hlv-amorim-bao-tin-buon-man-utd-co-quyet-dinh-bat-ngo-khi-gap-man-city-20250913110935290.htm) - 04:11 13/09/2025
+- 🎡 [Man Utd nhận tin buồn, có quyết định bất ngờ khi gặp Man City](https://dantri.com.vn/the-thao/man-utd-nhan-tin-buon-co-quyet-dinh-bat-ngo-khi-gap-man-city-20250913110935290.htm) - 04:30 13/09/2025
 - 💯 [HLV Ruben Amorim lần đầu tiết lộ lý do để thủ thành Onana rời Man Utd](https://dantri.com.vn/the-thao/hlv-ruben-amorim-lan-dau-tiet-lo-ly-do-de-thu-thanh-onana-roi-man-utd-20250913081714773.htm) - 01:53 13/09/2025
 - ⛽️ [C.Ronaldo và Messi: Bùng cháy rực rỡ, dồn nén cho lần thăng hoa cuối cùng](https://dantri.com.vn/the-thao/cronaldo-va-messi-bung-chay-ruc-ro-don-nen-cho-lan-thang-hoa-cuoi-cung-20250913021632965.htm) - 23:30 12/09/2025
 - 💃 [Đội tuyển Việt Nam có thêm trợ lý huấn luyện viên từ Hàn Quốc](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-co-them-tro-ly-huan-luyen-vien-tu-han-quoc-20250912235155191.htm) - 23:24 12/09/2025
