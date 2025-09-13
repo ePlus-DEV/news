@@ -4,8 +4,8 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách Anh bất đắc dĩ nổi tiếng khi đến Nepal giữa lúc biểu tình](https://vnexpress.net/du-khach-anh-bat-dac-di-noi-tieng-khi-den-nepal-giua-luc-bieu-tinh-4938426.html) - 17:00 12/09/2025
-- 🪄 [Du khách Mỹ mua trái cây, ăn hủ tiếu trên ghe chợ nổi](https://vnexpress.net/du-khach-my-mua-trai-cay-an-hu-tieu-tren-ghe-cho-noi-4938416.html) - 12:00 12/09/2025
+- 💂 [Khách Việt hủy tour, chấp nhận mất tiền để tránh Nepal](https://vnexpress.net/khach-viet-huy-tour-chap-nhan-mat-tien-de-tranh-nepal-4938274.html) - 23:30 12/09/2025
+- 🪄 [Du khách Anh bất đắc dĩ nổi tiếng khi đến Nepal giữa lúc biểu tình](https://vnexpress.net/du-khach-anh-bat-dac-di-noi-tieng-khi-den-nepal-giua-luc-bieu-tinh-4938426.html) - 17:00 12/09/2025
 - 🦅 [Đàn đá Đắk Sơn nghìn năm được công nhận bảo vật quốc gia](https://vnexpress.net/dan-da-dak-son-nghin-nam-duoc-cong-nhan-bao-vat-quoc-gia-4938256.html) - 10:18 12/09/2025
 - 🕴 [Hong Kong cung cấp tour miễn phí cho khách quá cảnh](https://vnexpress.net/hong-kong-cung-cap-tour-mien-phi-cho-khach-qua-canh-4938125.html) - 07:17 12/09/2025
 - 👀 [Du lịch Việt Nam &#39;tăng trưởng mạnh nhất thế giới&#39;](https://vnexpress.net/du-lich-viet-nam-tang-truong-manh-nhat-the-gioi-4938099.html) - 05:00 12/09/2025
