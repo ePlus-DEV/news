@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Phó Ban Tổ chức Trung ương Đỗ Trọng Hưng bị tạm hoãn xuất cảnh](https://vnexpress.net/pho-ban-to-chuc-trung-uong-do-trong-hung-bi-tam-hoan-xuat-canh-4938642.html) - 07:00 13/09/2025
-- 🥰 [Tổng Bí thư: Tòa án phải là điểm tựa của người dân](https://vnexpress.net/tong-bi-thu-toa-an-phai-la-diem-tua-cua-nguoi-dan-4938615.html) - 06:54 13/09/2025
+- 🥰 [Tổng Bí thư: Tòa án cần là điểm tựa của người dân](https://vnexpress.net/tong-bi-thu-toa-an-can-la-diem-tua-cua-nguoi-dan-4938615.html) - 06:54 13/09/2025
 - 🎓 [Bé trai cứu bạn thoát khỏi tay kẻ thảm sát ở Đăk Lăk](https://vnexpress.net/be-trai-cuu-ban-thoat-khoi-tay-ke-tham-sat-o-dak-lak-4938628.html) - 06:44 13/09/2025
 - 🤓 [Tài xế taxi ép khách trả 2,5 triệu đồng cho quãng đường 70 km](https://vnexpress.net/tai-xe-taxi-ep-khach-tra-2-5-trieu-dong-cho-quang-duong-70-km-4938606.html) - 05:14 13/09/2025
 - 🎊 [Lời khai của nghi phạm sát hại 4 người ở Đăk Lăk](https://vnexpress.net/loi-khai-cua-nghi-pham-sat-hai-4-nguoi-o-dak-lak-4938597.html) - 04:43 13/09/2025
