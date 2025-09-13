@@ -519,7 +519,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Trường âm nhạc Berklee &lpar;Mỹ&rpar; tuyển sinh tại Việt Nam](https://muctim.tuoitre.vn/truong-am-nhac-berklee-my-tuyen-sinh-tai-viet-nam-101250913152729638.htm) - 09:54 13/09/2025
 - 🥷 [Trực tiếp bóng chuyền nam vô địch thế giới: Hà Lan và Qatar](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-ha-lan-va-qatar-101250913164239903.htm) - 09:51 13/09/2025
-- 🤖 [Giải cầu lông Việt Nam mở rộng &lpar;Vietnam Open&rpar;: Nguyễn Thùy Linh tranh vé vào chung kết](https://muctim.tuoitre.vn/giai-cau-long-viet-nam-mo-rong-vietnam-open-nguyen-thuy-linh-tranh-ve-vao-chung-ket-101250913164738565.htm) - 09:47 13/09/2025
+- 🤖 [Nguyễn Thùy Linh vé vào chung kết Vietnam Open 2025](https://muctim.tuoitre.vn/giai-cau-long-viet-nam-mo-rong-vietnam-open-nguyen-thuy-linh-tranh-ve-vao-chung-ket-101250913164738565.htm) - 09:47 13/09/2025
 - 🤓 [Trực tiếp Giải bóng chuyền nam vô địch thế giới 2025: Đức đấu Bulgaria](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-duc-dau-bulgaria-101250913162855872.htm) - 09:29 13/09/2025
 - 🎉 [Lịch trực tiếp V-League ngày 13-9: Công an TP.HCM - Nam Định](https://muctim.tuoitre.vn/lich-truc-tiep-v-league-ngay-13-9-cong-an-tphcm-nam-dinh-101250913134151087.htm) - 07:30 13/09/2025
 - 👨‍🏫 [Trực tiếp bóng chuyền nam vô địch thế giới: Nhật Bản - Thổ Nhĩ Kỳ 0-3](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-nhat-ban-gap-tho-nhi-ky-101250913124013956.htm) - 05:43 13/09/2025
