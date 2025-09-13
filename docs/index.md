@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Runner Nhật Bản bứt lên, dẫn đầu VnExpress Marathon Cần Thơ](https://vnexpress.net/truc-tiep-vnexpress-marathon-can-tho-2025-4938651.html) - 19:00 13/09/2025
+- 🚀 [Cự ly 21km VnExpress Marathon Cần Thơ xuất phát](https://vnexpress.net/truc-tiep-vnexpress-marathon-can-tho-2025-4938651.html) - 19:00 13/09/2025
 - 🧰 [Juventus thắng nghẹt thở Inter](https://vnexpress.net/juventus-thang-nghet-tho-inter-4938763.html) - 18:56 13/09/2025
 - 🥰 [Ăn uống, tập luyện thế nào giảm acid uric](https://vnexpress.net/an-uong-tap-luyen-the-nao-giam-acid-uric-4937808.html) - 18:02 13/09/2025
 - 🌏 [Kiệt sức - nguyên nhân giấu mặt khiến nam giới &#39;bất lực&#39;](https://vnexpress.net/kiet-suc-nguyen-nhan-giau-mat-khien-nam-gioi-bat-luc-4938545.html) - 18:00 13/09/2025
