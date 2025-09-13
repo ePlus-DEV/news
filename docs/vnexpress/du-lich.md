@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [5 homestay khách chọn để ngắm mùa vàng ở Hoàng Su Phì](https://vnexpress.net/5-homestay-khach-chon-de-ngam-mua-vang-o-hoang-su-phi-4938247.html) - 06:40 13/09/2025
+- 💂 [5 homestay ngắm mùa vàng ở Hoàng Su Phì](https://vnexpress.net/5-homestay-ngam-mua-vang-o-hoang-su-phi-4938247.html) - 06:40 13/09/2025
 - 🪄 [Tàu viên đạn là phát minh của quốc gia nào?](https://vnexpress.net/tau-vien-dan-la-phat-minh-cua-quoc-gia-nao-4937698.html) - 05:23 13/09/2025
 - 🦅 [Những công trình biểu tượng của Nepal bị phá hoại trong biểu tình](https://vnexpress.net/nhung-cong-trinh-bieu-tuong-cua-nepal-bi-pha-hoai-trong-bieu-tinh-4938030.html) - 04:36 13/09/2025
 - 🕴 [Khách Việt hủy tour, chấp nhận mất tiền để tránh Nepal](https://vnexpress.net/khach-viet-huy-tour-chap-nhan-mat-tien-de-tranh-nepal-4938274.html) - 23:30 12/09/2025
