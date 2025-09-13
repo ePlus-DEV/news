@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [VnExpress Marathon Cần Thơ 2025 bắt đầu](https://vnexpress.net/truc-tiep-vnexpress-marathon-can-tho-2025-4938651.html) - 19:00 13/09/2025
+- 🪜 [Runner Nhật Bản bứt lên, dẫn đầu VnExpress Marathon Cần Thơ](https://vnexpress.net/truc-tiep-vnexpress-marathon-can-tho-2025-4938651.html) - 19:00 13/09/2025
 - 🦩 [Juventus thắng nghẹt thở Inter](https://vnexpress.net/juventus-thang-nghet-tho-inter-4938763.html) - 18:56 13/09/2025
 - 🧰 [Mbappe giúp Real thắng trong thế thiếu người](https://vnexpress.net/mbappe-giup-real-thang-trong-the-thieu-nguoi-4938755.html) - 17:00 13/09/2025
 - 🤗 [Runner Kenya hoàn tất bộ sưu tập 10.000m ở giải thế giới](https://vnexpress.net/runner-kenya-hoan-tat-bo-suu-tap-10-000m-o-giai-the-gioi-4938747.html) - 17:00 13/09/2025
