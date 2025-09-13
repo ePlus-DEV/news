@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Khoảnh khắc đạo diễn Pháp đoàn tụ với mẹ Việt sau 31 năm ở sân bay Nội Bài](https://dantri.com.vn/doi-song/khoanh-khac-dao-dien-phap-doan-tu-voi-me-viet-sau-31-nam-o-san-bay-noi-bai-20250913103732438.htm) - 04:24 13/09/2025
+- 🥳 [Khoảnh khắc đạo diễn Pháp đoàn tụ mẹ Việt ở sân bay Nội Bài sau 31 năm](https://dantri.com.vn/doi-song/khoanh-khac-dao-dien-phap-doan-tu-me-viet-o-san-bay-noi-bai-sau-31-nam-20250913103732438.htm) - 04:24 13/09/2025
 - 🌁 [Care &amp; Share by Coolmate: Khi sức mạnh cộng đồng tạo nên những điều kỳ diệu](https://dantri.com.vn/doi-song/care-share-by-coolmate-khi-suc-manh-cong-dong-tao-nen-nhung-dieu-ky-dieu-20250912142433998.htm) - 02:00 13/09/2025
 - 👀 [Hà Nội:  Bố thợ xây, mẹ cấy thuê, con học trường Y, người du học Pháp](https://dantri.com.vn/doi-song/ha-noi-bo-tho-xay-me-cay-thue-con-hoc-truong-y-nguoi-du-hoc-phap-20250912094536818.htm) - 22:59 12/09/2025
 - 🐻 [Người phụ nữ bị nhốt ở kho lạnh 20 phút, tặng cổ phần cho tài xế cứu mạng](https://dantri.com.vn/doi-song/nguoi-phu-nu-bi-nhot-o-kho-lanh-20-phut-tang-co-phan-cho-tai-xe-cuu-mang-20250912201323702.htm) - 13:40 12/09/2025
