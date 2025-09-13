@@ -48,10 +48,9 @@ sidebar_position: 9
 - 💃 [Việt Nam đề nghị Nga chuyển giao công nghệ sản xuất vaccine ung thư](https://vnexpress.net/viet-nam-de-nghi-nga-chuyen-giao-cong-nghe-san-xuat-vaccine-ung-thu-4938448.html) - 05:06 13/09/2025
 - 🦆 [Chưa có nhà nhưng bỏ ba tháng lương mua iPhone](https://vnexpress.net/iphone-17-pro-max-gia-bao-nhieu-iphone-17-pro-max-gia-du-kien-chua-co-nha-nhung-bo-ba-thang-luong-mua-iphone-17-pro-max-45-trieu-4938579.html) - 05:00 13/09/2025
 - 🎊 [Thấy chết không biết cứu](https://vnexpress.net/thay-chet-khong-biet-cuu-4938475.html) - 05:00 13/09/2025
-- 👺 [Nhà khoa học đề xuất giải pháp tái tạo khí quyển trên Sao Hỏa](https://vnexpress.net/nha-khoa-hoc-de-xuat-giai-phap-tai-tao-khi-quyen-tren-sao-hoa-4938350.html) - 05:00 13/09/2025
-- 🎡 [Gia đình phản đối, bạn trai sa ngã, tôi lạc lối giữa yêu và buông](https://vnexpress.net/gia-dinh-phan-doi-ban-trai-sa-nga-toi-lac-loi-giua-yeu-va-buong-4938253.html) - 05:00 13/09/2025
+- 👺 [Gia đình phản đối, bạn trai sa ngã, tôi lạc lối giữa yêu và buông](https://vnexpress.net/gia-dinh-phan-doi-ban-trai-sa-nga-toi-lac-loi-giua-yeu-va-buong-4938253.html) - 05:00 13/09/2025
+- 🎡 [Nhà khoa học đề xuất giải pháp tái tạo khí quyển trên Sao Hỏa](https://vnexpress.net/nha-khoa-hoc-de-xuat-giai-phap-tai-tao-khi-quyen-tren-sao-hoa-4938350.html) - 05:00 13/09/2025
 - 👍 [Địa phương nào có 113 phường, nhiều nhất Việt Nam?](https://vnexpress.net/crossword-giai-o-chu-o-chu-dia-phuong-nao-co-113-phuong-nhieu-nhat-viet-nam-4936822.html) - 05:00 13/09/2025
 - 🐎 [Bệnh viện Tâm Anh nhận chuyển giao công nghệ điều trị ung thư từ Nga](https://vnexpress.net/benh-vien-tam-anh-nhan-chuyen-giao-cong-nghe-dieu-tri-ung-thu-tu-nga-4938609.html) - 05:00 13/09/2025
 - 🏊 [Việt Nam Solar thành đối tác phân phối tấm pin mặt trời Panasonic](https://vnexpress.net/viet-nam-solar-thanh-doi-tac-phan-phoi-tam-pin-mat-troi-panasonic-4938594.html) - 05:00 13/09/2025
-- 🦩 [Vì sao bị rối loạn tiền đình dễ say xe?](https://vnexpress.net/vi-sao-bi-roi-loan-tien-dinh-de-say-xe-4938477.html) - 05:00 13/09/2025
-- 👍 [Lời khai của nghi phạm sát hại 4 người ở Đăk Lăk](https://vnexpress.net/loi-khai-cua-nghi-pham-sat-hai-4-nguoi-o-dak-lak-4938597.html) - 04:43 13/09/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Vì sao bị rối loạn tiền đình dễ say xe?](https://vnexpress.net/vi-sao-bi-roi-loan-tien-dinh-de-say-xe-4938477.html) - 05:00 13/09/2025<!-- vnexpress-tin-moi-nhat:END -->
