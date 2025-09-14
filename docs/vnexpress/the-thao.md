@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Guardiola: &#39;Sớm muộn gì Donnarumma cũng sẽ thủng lưới&#39;](https://vnexpress.net/guardiola-som-muon-gi-donnarumma-cung-se-thung-luoi-4938786.html) - 04:13 14/09/2025
 - 🦩 [Messi đá hỏng phạt đền khiến Inter Miami thảm bại](https://vnexpress.net/messi-da-hong-phat-den-khien-inter-miami-tham-bai-4938810.html) - 02:14 14/09/2025
-- 🧰 [CĐV Arsenal đồng loạt xin lỗi Madueke](https://vnexpress.net/cdv-arsenal-dong-loat-xin-loi-madueke-4938771.html) - 01:23 14/09/2025
+- 🧰 [CĐV Arsenal thi nhau xin lỗi Madueke](https://vnexpress.net/cdv-arsenal-thi-nhau-xin-loi-madueke-4938771.html) - 01:23 14/09/2025
 - 🤗 [Siêu mẫu áo tắm hẹn hò cả Alcaraz và Sinner](https://vnexpress.net/sieu-mau-ao-tam-hen-ho-ca-alcaraz-va-sinner-4938778.html) - 00:56 14/09/2025
 - 🥳 [Arteta: &#39;Các tân binh giúp Arsenal khó đoán hơn&#39;](https://vnexpress.net/arteta-cac-tan-binh-giup-arsenal-kho-doan-hon-4938765.html) - 23:32 13/09/2025
 - 🦣 [Flick tố tuyển Tây Ban Nha ép Yamal uống thuốc giảm đau thi đấu](https://vnexpress.net/flick-to-tuyen-tay-ban-nha-ep-yamal-uong-thuoc-giam-dau-thi-dau-4938752.html) - 23:24 13/09/2025
