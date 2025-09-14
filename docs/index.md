@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [CLB Hà Nội sớm dừng bước tại Cúp quốc gia 2025-2026](https://muctim.tuoitre.vn/clb-ha-noi-som-dung-buoc-tai-cup-quoc-gia-2025-2026-101250914213820729.htm) - 14:57 14/09/2025
-- 🥷 [Trực tiếp vòng 4 Ngoại hạng Anh: Man City vs Man United 1-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-4-ngoai-hang-anh-man-city-vs-man-united-101250914214630508.htm) - 14:53 14/09/2025
+- 🥷 [Trực tiếp vòng 4 Ngoại hạng Anh: Man City vs Man United 3-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-4-ngoai-hang-anh-man-city-vs-man-united-101250914214630508.htm) - 14:53 14/09/2025
 - 🤖 [Thành Đoàn TP.HCM chúc mừng đội viên trưởng thành trúng tuyển vào lớp 10](https://muctim.tuoitre.vn/thanh-doan-tphcm-chuc-mung-doi-vien-truong-thanh-trung-tuyen-vao-lop-10-101250914180108312.htm) - 13:50 14/09/2025
 - 🤓 [Bộ phim lấy cảm hứng từ vụ chìm phà Sewol chính thức khởi chiếu tại Việt Nam](https://muctim.tuoitre.vn/bo-phim-lay-cam-hung-tu-vu-chim-pha-sewol-chinh-thuc-khoi-chieu-tai-viet-nam-101250914203353444.htm) - 13:44 14/09/2025
 - 🎉 [Tuyển bóng chuyền nam Hàn Quốc không thể tạo bất ngờ trước Pháp](https://muctim.tuoitre.vn/tuyen-bong-chuyen-nam-han-quoc-khong-the-tao-bat-ngo-truoc-phap-101250914183617506.htm) - 13:43 14/09/2025
@@ -534,7 +534,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Tuyển bóng chuyền nam Trung Quốc thua ngược Brazil](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-brazil-gap-trung-quoc-101250914200124502.htm) - 13:28 14/09/2025
 - 🤭 [Hội đồng Đội TP.HCM khen thưởng 150 Chỉ huy Đội giỏi cấp thành phố](https://muctim.tuoitre.vn/hoi-dong-doi-tphcm-khen-thuong-150-chi-huy-doi-gioi-cap-thanh-pho-101250914165649036.htm) - 13:21 14/09/2025
 - 😺 [Bỉ toàn thắng Ukraine tại Giải bóng chuyền nam vô địch thế giới 2025](https://muctim.tuoitre.vn/bi-toan-thang-ukraine-tai-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-101250914162340183.htm) - 11:23 14/09/2025
-- 😎 [Tối nay 14-9, chung kết Miss Grand Vietnam – Hoa hậu Hòa bình Việt Nam](https://muctim.tuoitre.vn/toi-nay-14-9-chung-ket-miss-grand-vietnam-hoa-hau-hoa-binh-viet-nam-101250914175941466.htm) - 11:20 14/09/2025
+- 😎 [Nguyễn Thị Yến Nhi đăng quang Miss Grand Vietnam 2025](https://muctim.tuoitre.vn/toi-nay-14-9-chung-ket-miss-grand-vietnam-hoa-hau-hoa-binh-viet-nam-101250914175941466.htm) - 11:20 14/09/2025
 - 🐎 [Đón đọc Khăn Quàng Đỏ 38 phát hành 17-9, sở hữu bộ tag Trai tài gái giỏi](https://muctim.tuoitre.vn/don-doc-khan-quang-do-38-phat-hanh-17-9-so-huu-bo-tag-trai-tai-gai-gioi-101250912143832141.htm) - 09:17 14/09/2025
 - 🎓 [Chung kết Vienam Open 2025: Nguyễn Thùy Linh không thể bảo vệ ngôi vô địch](https://muctim.tuoitre.vn/chung-ket-vienam-open-2025-nguyen-thuy-linh-lan-thu-4-dang-quang-101250914161027524.htm) - 09:10 14/09/2025
 - 🐎 [Tập 8 Chiến sĩ quả cảm: Quốc Thiên trở lại, Dương Lâm chấn thương nặng](https://muctim.tuoitre.vn/tap-8-chien-si-qua-cam-quoc-thien-tro-lai-duong-lam-chan-thuong-nang-101250914144309964.htm) - 08:16 14/09/2025
