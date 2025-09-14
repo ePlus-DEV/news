@@ -4,14 +4,14 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Miss Grand International dự thảm đỏ cùng dàn sao Việt](https://vnexpress.net/miss-grand-international-du-tham-do-cung-dan-sao-viet-4938940.html) - 13:13 14/09/2025
+- 🌏 [Miss Grand International dự sự kiện cùng dàn sao Việt](https://vnexpress.net/miss-grand-international-du-su-kien-cung-dan-sao-viet-4938940.html) - 13:13 14/09/2025
 - 💫 [Trương Mạn Ngọc về nông thôn nuôi gà](https://vnexpress.net/truong-man-ngoc-ve-nong-thon-nuoi-ga-4938919.html) - 12:13 14/09/2025
 - 🌮 [&#39;Giấc mơ người luật sư&#39; - góc khuất nghề](https://vnexpress.net/giai-tri/phim/thu-vien-phim/beyond-the-bar-836) - 11:00 14/09/2025
 - 🧠 [Phong cách sánh đôi thanh lịch của vợ chồng Ivanka Trump](https://vnexpress.net/phong-cach-sanh-doi-thanh-lich-cua-vo-chong-ivanka-trump-4938849.html) - 08:09 14/09/2025
 - 👨‍🏫 [Julia Margaret Cameron - người thay đổi ngành nhiếp ảnh](https://vnexpress.net/julia-margaret-cameron-nguoi-thay-doi-nganh-nhiep-anh-4938176.html) - 07:15 14/09/2025
 - ⚗️ [3 Hoa hậu Việt Nam tạo dáng với áo dài cách điệu](https://vnexpress.net/3-hoa-hau-viet-nam-tao-dang-voi-ao-dai-cach-dieu-4938374.html) - 06:44 14/09/2025
 - 😎 [Tác giả 9x viết sách về mùa hè ở Cuba](https://vnexpress.net/tac-gia-9x-viet-sach-ve-mua-he-o-cuba-4936399.html) - 06:11 14/09/2025
-- 🫣 [Đại diện trường nhạc Berklee ngưỡng mộ nỗ lực của Trần Mạnh Tuấn](https://vnexpress.net/dai-dien-truong-nhac-berklee-nguong-mo-no-luc-cua-tran-manh-tuan-4938646.html) - 05:58 14/09/2025
+- 🫣 [Đại diện trường nhạc Berklee ngưỡng mộ Trần Mạnh Tuấn](https://vnexpress.net/dai-dien-truong-nhac-berklee-nguong-mo-tran-manh-tuan-4938646.html) - 05:58 14/09/2025
 - 🪄 [Đức Phúc tham gia cuộc thi âm nhạc quốc tế Intervision](https://vnexpress.net/duc-phuc-tham-gia-cuoc-thi-am-nhac-quoc-te-intervision-4938835.html) - 04:58 14/09/2025
 - 🤓 [30 &#39;Em xinh say hi&#39; khuấy động concert đầu tiên](https://vnexpress.net/30-em-xinh-say-hi-khuay-dong-concert-dau-tien-4938784.html) - 03:04 14/09/2025
 - 🫶 [Váy áo công sở cắt xẻ của nhà thiết kế Việt](https://vnexpress.net/vay-ao-cong-so-cat-xe-cua-nha-thiet-ke-viet-4938816.html) - 02:51 14/09/2025
