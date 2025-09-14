@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [&#39;Săn&#39; khoảnh khắc bình minh khắp Việt Nam](https://vnexpress.net/san-khoanh-khac-binh-minh-khap-viet-nam-4937401.html) - 22:00 13/09/2025
-- 🪄 [Trải nghiệm tàu hỏa &#39;Hà Nội 5 cửa ô&#39;](https://vnexpress.net/trai-nghiem-tau-hoa-ha-noi-5-cua-o-4938532.html) - 17:00 13/09/2025
+- 🪄 [Khách bất ngờ với không gian nghệ thuật trên tàu &#39;Hà Nội 5 cửa ô&#39;](https://vnexpress.net/khach-bat-ngo-voi-khong-gian-nghe-thuat-tren-tau-ha-noi-5-cua-o-4938532.html) - 17:00 13/09/2025
 - 🦅 [Hà Nội vào top thành phố có đồ ăn đường phố ngon nhất châu Á](https://vnexpress.net/ha-noi-vao-top-thanh-pho-co-do-an-duong-pho-ngon-nhat-chau-a-4938602.html) - 11:57 13/09/2025
 - 🕴 [Ngôi làng bị cây xanh &#39;nuốt trọn&#39; ở Trung Quốc](https://vnexpress.net/ngoi-lang-bi-cay-xanh-nuot-tron-o-trung-quoc-4938657.html) - 11:48 13/09/2025
 - 👀 [5 homestay ngắm mùa vàng ở Hoàng Su Phì](https://vnexpress.net/5-homestay-ngam-mua-vang-o-hoang-su-phi-4938247.html) - 06:40 13/09/2025
