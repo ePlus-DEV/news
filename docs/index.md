@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [CLB Hà Nội sớm dừng bước tại Cúp quốc gia 2025-2026](https://muctim.tuoitre.vn/clb-ha-noi-som-dung-buoc-tai-cup-quoc-gia-2025-2026-101250914213820729.htm) - 14:57 14/09/2025
-- 🥷 [Trực tiếp vòng 4 Ngoại hạng Anh: Man City vs Man United 3-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-4-ngoai-hang-anh-man-city-vs-man-united-101250914214630508.htm) - 14:53 14/09/2025
+- 🥷 [Haaland lập cú đúp, Man City vùi dập Man United](https://muctim.tuoitre.vn/truc-tiep-vong-4-ngoai-hang-anh-man-city-vs-man-united-101250914214630508.htm) - 14:53 14/09/2025
 - 🤖 [Thành Đoàn TP.HCM chúc mừng đội viên trưởng thành trúng tuyển vào lớp 10](https://muctim.tuoitre.vn/thanh-doan-tphcm-chuc-mung-doi-vien-truong-thanh-trung-tuyen-vao-lop-10-101250914180108312.htm) - 13:50 14/09/2025
 - 🤓 [Bộ phim lấy cảm hứng từ vụ chìm phà Sewol chính thức khởi chiếu tại Việt Nam](https://muctim.tuoitre.vn/bo-phim-lay-cam-hung-tu-vu-chim-pha-sewol-chinh-thuc-khoi-chieu-tai-viet-nam-101250914203353444.htm) - 13:44 14/09/2025
 - 🎉 [Tuyển bóng chuyền nam Hàn Quốc không thể tạo bất ngờ trước Pháp](https://muctim.tuoitre.vn/tuyen-bong-chuyen-nam-han-quoc-khong-the-tao-bat-ngo-truoc-phap-101250914183617506.htm) - 13:43 14/09/2025
