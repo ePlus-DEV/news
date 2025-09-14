@@ -523,7 +523,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Đón đọc Khăn Quàng Đỏ 38 phát hành 17-9, sở hữu bộ tag Trai tài gái giỏi](https://muctim.tuoitre.vn/don-doc-khan-quang-do-38-phat-hanh-17-9-so-huu-bo-tag-trai-tai-gai-gioi-101250912143832141.htm) - 09:17 14/09/2025
-- 🥷 [Chung kết Vienam Open 2025: Nguyễn Thùy Linh đang để đối thủ dẫn trước](https://muctim.tuoitre.vn/chung-ket-vienam-open-2025-nguyen-thuy-linh-lan-thu-4-dang-quang-101250914161027524.htm) - 09:10 14/09/2025
+- 🥷 [Chung kết Vienam Open 2025: Nguyễn Thùy Linh không thể bảo vệ ngôi vô địch](https://muctim.tuoitre.vn/chung-ket-vienam-open-2025-nguyen-thuy-linh-lan-thu-4-dang-quang-101250914161027524.htm) - 09:10 14/09/2025
 - 🤖 [Tập 8 Chiến sĩ quả cảm: Quốc Thiên trở lại, Dương Lâm chấn thương nặng](https://muctim.tuoitre.vn/tap-8-chien-si-qua-cam-quoc-thien-tro-lai-duong-lam-chan-thuong-nang-101250914144309964.htm) - 08:16 14/09/2025
 - 🤓 [Iran để thua Ai Cập 1-3 tại Giải bóng chuyền nam vô địch thế giới](https://muctim.tuoitre.vn/iran-de-thua-ai-cap-1-3-tai-giai-bong-chuyen-nam-vo-dich-the-gioi-10125091414472816.htm) - 07:52 14/09/2025
 - 🎉 [Nam sinh THPT chuyên Tiền Giang giành vé thi quý 4 Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-thpt-chuyen-tien-giang-gianh-ve-thi-quy-4-duong-len-dinh-olympia-101250914141750016.htm) - 07:49 14/09/2025
