@@ -41,9 +41,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Chiến hạm Nga phóng tên lửa Zircon, hạ mục tiêu trong tập trận](https://vnexpress.net/chien-ham-nga-phong-ten-lua-zircon-ha-muc-tieu-trong-tap-tran-4938941.html) - 13:39 14/09/2025
 - 🎬 [20 ứng viên vào vòng xét chọn giải Quả Cầu Vàng năm 2025](https://vnexpress.net/20-ung-vien-vao-vong-xet-chon-giai-qua-cau-vang-nam-2025-4938518.html) - 13:38 14/09/2025
 - 🚀 [Xe tải lật trên quốc lộ ở Lâm Đồng, ba người gặp nạn](https://vnexpress.net/xe-tai-lat-tren-quoc-lo-o-lam-dong-ba-nguoi-gap-nan-4938952.html) - 13:34 14/09/2025
-- 🪄 [Miss Grand International dự sự kiện cùng dàn sao Việt](https://vnexpress.net/miss-grand-international-du-su-kien-cung-dan-sao-viet-4938940.html) - 13:13 14/09/2025
+- 🪄 [Dàn sao dự chung kết Miss Grand Việt Nam](https://vnexpress.net/dan-sao-du-chung-ket-miss-grand-viet-nam-4938940.html) - 13:13 14/09/2025
 - 😎 [Giải mã cơ chế hình thành sóng độc](https://vnexpress.net/giai-ma-co-che-hinh-thanh-song-doc-4938886.html) - 13:10 14/09/2025
-- 🎊 [Thùy Linh đứt mạch vô địch ở chung kết Vietnam Open](https://vnexpress.net/thuy-linh-dut-mach-vo-dich-o-chung-ket-vietnam-open-4938957.html) - 13:06 14/09/2025
+- 🎊 [Thùy Linh đứt mạch vô địch ở Vietnam Open](https://vnexpress.net/thuy-linh-dut-mach-vo-dich-o-vietnam-open-4938957.html) - 13:06 14/09/2025
 - ⚗️ [Những trang phục ấn tượng tại Kun Marathon Cần Thơ 2025](https://vnexpress.net/nhung-trang-phuc-an-tuong-tai-kun-marathon-can-tho-2025-4938933.html) - 13:00 14/09/2025
 - 🫣 [Mỹ và Trung Quốc đưa TikTok vào đàm phán thương mại](https://vnexpress.net/my-va-trung-quoc-dua-tiktok-vao-dam-phan-thuong-mai-4938905.html) - 12:55 14/09/2025
 - 👨‍🏫 [Trung Quốc mở điều tra về giao dịch chip với Mỹ](https://vnexpress.net/trung-quoc-mo-dieu-tra-ve-giao-dich-chip-voi-my-4938923.html) - 12:48 14/09/2025
@@ -76,10 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Người dân không cần xuất trình giấy tờ đã có trên VNeID](https://vnexpress.net/nguoi-dan-khong-can-xuat-trinh-giay-to-da-co-tren-vneid-4938888.html) - 08:39 14/09/2025
 - 🤩 [Bruno Fernandes: &#39;Tôi không thể thay đổi cách người khác nghĩ về mình&#39;](https://vnexpress.net/bruno-fernandes-toi-khong-the-thay-doi-cach-nguoi-khac-nghi-ve-minh-4938836.html) - 08:38 14/09/2025
 - 🏊 [4 điểm nóng trận đại chiến Man City - Man Utd](https://vnexpress.net/4-diem-nong-tran-dai-chien-man-city-man-utd-4938826.html) - 08:27 14/09/2025
-- 💂 [Nhà đồng sáng lập thứ hai của Pi Network sắp xuất hiện lần đầu](https://vnexpress.net/nha-dong-sang-lap-thu-hai-cua-pi-network-sap-xuat-hien-lan-dau-4938869.html) - 08:25 14/09/2025
-- 🚀 [Tội phạm làm giả quyết định tại ngoại, trốn tù trót lọt ở Anh](https://vnexpress.net/toi-pham-lam-gia-quyet-dinh-tai-ngoai-tron-tu-trot-lot-o-anh-4938878.html) - 08:21 14/09/2025
-- 🕴 [Crawford thắng Canelo, vô địch tuyệt đối 3 hạng cân](https://vnexpress.net/crawford-thang-canelo-vo-dich-tuyet-doi-3-hang-can-4938894.html) - 08:15 14/09/2025
-- 🦆 [Phong cách sánh đôi thanh lịch của vợ chồng Ivanka Trump](https://vnexpress.net/phong-cach-sanh-doi-thanh-lich-cua-vo-chong-ivanka-trump-4938849.html) - 08:09 14/09/2025<!-- vnexpress:END -->
+- 💂 [Nhà đồng sáng lập thứ hai của Pi Network sắp xuất hiện lần đầu](https://vnexpress.net/nha-dong-sang-lap-thu-hai-cua-pi-network-sap-xuat-hien-lan-dau-4938869.html) - 08:25 14/09/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
