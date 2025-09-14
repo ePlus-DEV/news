@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man City 3-0 Man Utd &lpar;hiệp 2&rpar;: Haaland lập cú đúp](https://dantri.com.vn/the-thao/man-city-3-0-man-utd-hiep-2-haaland-lap-cu-dup-20250914221554236.htm) - 15:16 14/09/2025
+- 🎡 [Haaland lập cú đúp, Man City dễ dàng vùi dập Man Utd](https://dantri.com.vn/the-thao/haaland-lap-cu-dup-man-city-de-dang-vui-dap-man-utd-20250914221554236.htm) - 15:16 14/09/2025
 - 💯 [Liverpool nhọc nhằn đánh bại 10 người của Burnley](https://dantri.com.vn/the-thao/liverpool-nhoc-nhan-danh-bai-10-nguoi-cua-burnley-20250914215238153.htm) - 14:57 14/09/2025
 - ⛽️ [Thể Công Viettel đánh bại Hà Nội FC ở Cúp quốc gia](https://dantri.com.vn/the-thao/the-cong-viettel-danh-bai-ha-noi-fc-o-cup-quoc-gia-20250914222120793.htm) - 14:56 14/09/2025
 - 💃 [Thua tay vợt Trung Quốc, Nguyễn Thùy Linh lỡ hẹn chức vô địch Vietnam Open](https://dantri.com.vn/the-thao/thua-tay-vot-trung-quoc-nguyen-thuy-linh-lo-hen-chuc-vo-dich-vietnam-open-20250914191419658.htm) - 12:41 14/09/2025
