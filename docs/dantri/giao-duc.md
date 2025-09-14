@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Sử dụng ChatGPT ở đại học có phải mối nguy hại của sinh viên?](https://dantri.com.vn/giao-duc/su-dung-chatgpt-o-dai-hoc-co-phai-moi-nguy-hai-cua-sinh-vien-20250914161925280.htm) - 09:19 14/09/2025
+- 🤡 [Sử dụng Chat GPT ở đại học có phải mối nguy hại của sinh viên?](https://dantri.com.vn/giao-duc/su-dung-chat-gpt-o-dai-hoc-co-phai-moi-nguy-hai-cua-sinh-vien-20250914161925280.htm) - 09:19 14/09/2025
 - 🗽 [Chính sách mới về máy tính sử dụng cho bài thi SAT](https://dantri.com.vn/giao-duc/chinh-sach-moi-ve-may-tinh-su-dung-cho-bai-thi-sat-20250913235238984.htm) - 03:08 14/09/2025
 - 🚦 [Ngoài các tiết học được miễn phí, nội dung giáo dục nào vẫn thu tiền?](https://dantri.com.vn/giao-duc/ngoai-cac-tiet-hoc-duoc-mien-phi-noi-dung-giao-duc-nao-van-thu-tien-20250913235043779.htm) - 03:00 14/09/2025
 - 🌋 [Trẻ tự kỷ “vẽ” lại niềm tin vào cuộc sống](https://dantri.com.vn/giao-duc/tre-tu-ky-ve-lai-niem-tin-vao-cuoc-song-20250912155246138.htm) - 01:39 14/09/2025
