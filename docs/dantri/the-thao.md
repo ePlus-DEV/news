@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HDBank Green Marathon 2025 mùa thứ 4: Hành trình xanh sôi động và mới mẻ](https://dantri.com.vn/the-thao/hdbank-green-marathon-2025-mua-thu-4-hanh-trinh-xanh-soi-dong-va-moi-me-20250915160334054.htm) - 09:26 15/09/2025
-- 💯 [Tay vợt Việt Nam giành 2 chức vô địch ở giải đấu pickleball tại Australia](https://dantri.com.vn/the-thao/tay-vot-viet-nam-gianh-2-chuc-vo-dich-o-giai-dau-pickleball-tai-australia-20250915113230788.htm) - 08:37 15/09/2025
-- ⛽️ [Cơn ác mộng xuống hạng với Man Utd](https://dantri.com.vn/the-thao/con-ac-mong-xuong-hang-voi-man-utd-20250915132153414.htm) - 08:15 15/09/2025
+- 💯 [Cơn ác mộng xuống hạng với Man Utd](https://dantri.com.vn/the-thao/con-ac-mong-xuong-hang-voi-man-utd-20250915132153414.htm) - 08:49 15/09/2025
+- ⛽️ [Tay vợt Việt Nam giành 2 chức vô địch ở giải đấu pickleball tại Australia](https://dantri.com.vn/the-thao/tay-vot-viet-nam-gianh-2-chuc-vo-dich-o-giai-dau-pickleball-tai-australia-20250915113230788.htm) - 08:37 15/09/2025
 - 💃 [Vợ sắp cưới của C.Ronaldo “đeo biệt thự trên tay”, khoe thân hình gợi cảm](https://dantri.com.vn/the-thao/vo-sap-cuoi-cua-cronaldo-deo-biet-thu-tren-tay-khoe-than-hinh-goi-cam-20250915151442849.htm) - 08:14 15/09/2025
 - 🌈 [Aqua Warriors Vân Đồn 2025 - Camel Cup: Ban tổ chức kiểm tra an toàn đường bơi](https://dantri.com.vn/the-thao/aqua-warriors-van-don-2025-camel-cup-ban-to-chuc-kiem-tra-an-toan-duong-boi-20250915145706372.htm) - 08:01 15/09/2025
 - 🦅 [Liên đoàn Võ thuật tổng hợp TPHCM có người quản lý tạm thay ông Lưu Tú Bảo](https://dantri.com.vn/the-thao/lien-doan-vo-thuat-tong-hop-tphcm-co-nguoi-quan-ly-tam-thay-ong-luu-tu-bao-20250915122130967.htm) - 07:00 15/09/2025
