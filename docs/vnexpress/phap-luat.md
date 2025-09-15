@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nhóm thiếu niên bị bắt vì cướp bàn đặt đồ cúng cô hồn](https://vnexpress.net/nhom-thieu-nien-bi-bat-vi-cuop-ban-dat-do-cung-co-hon-4939144.html) - 04:31 15/09/2025
 - 🥰 [Cựu Giám đốc Sở Giáo dục và Đào tạo Thanh Hóa bị bắt](https://vnexpress.net/cuu-giam-doc-so-giao-duc-va-dao-tao-thanh-hoa-bi-bat-4939152.html) - 04:02 15/09/2025
-- 🎓 [Cảnh sát phong tỏa karaoke lớn nhất Quảng Ngãi, bắt hơn 50 người](https://vnexpress.net/canh-sat-phong-toa-karaoke-lon-nhat-quang-ngai-bat-hon-50-nguoi-4939088.html) - 02:52 15/09/2025
+- 🎓 [Cảnh sát phong tỏa karaoke &#39;hạng sang&#39; ở Quảng Ngãi, bắt hơn 50 người](https://vnexpress.net/canh-sat-phong-toa-karaoke-hang-sang-o-quang-ngai-bat-hon-50-nguoi-4939088.html) - 02:52 15/09/2025
 - 🤓 [Đường dây lắp ráp hàng nghìn súng quân dụng](https://vnexpress.net/duong-day-lap-rap-hang-nghin-sung-quan-dung-4939009.html) - 00:31 15/09/2025
 - 🎊 [Những người trẻ &#39;ngây thơ&#39; dính bẫy tội phạm ma túy vì ôm mộng sống ảo](https://vnexpress.net/nhung-nguoi-tre-ngay-tho-dinh-bay-ma-tuy-vi-om-mong-influencer-4938985.html) - 18:15 14/09/2025
 - 🙉 [Chiêu &#39;mua chuộc&#39; tại 20 vụ án khiến hàng loạt thẩm phán hầu tòa](https://vnexpress.net/chieu-mua-chuoc-tai-20-vu-an-khien-hang-loat-tham-phan-hau-toa-4938903.html) - 18:02 14/09/2025
