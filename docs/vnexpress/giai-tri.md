@@ -11,7 +11,7 @@ sidebar_position: 5
 - 👨‍🏫 [10 quy tắc sống của vợ chồng Justin Bieber](https://vnexpress.net/10-quy-tac-song-cua-vo-chong-justin-bieber-4939074.html) - 07:00 15/09/2025
 - ⚗️ [Thí sinh Top Model bỏ cuộc](https://vnexpress.net/thi-sinh-top-model-bo-cuoc-4939206.html) - 05:46 15/09/2025
 - 😎 [Quế Anh mặc đầm &#39;Vương miện rực rỡ&#39;](https://vnexpress.net/que-anh-mac-dam-vuong-mien-ruc-ro-4939127.html) - 05:24 15/09/2025
-- 🫣 [Ivanka Trump diện đầm xẻ ngực ở tiệc tối](https://vnexpress.net/ivanka-trump-dien-dam-xe-nguc-o-tiec-toi-4939219.html) - 05:13 15/09/2025
+- 🫣 [Ivanka Trump mặc váy xẻ ngực tôn dáng](https://vnexpress.net/ivanka-trump-mac-vay-xe-nguc-ton-dang-4939219.html) - 05:13 15/09/2025
 - 🪄 [Sao nhí &#39;Adolescence&#39; thắng Emmy](https://vnexpress.net/sao-nhi-adolescence-thang-emmy-4939054.html) - 04:47 15/09/2025
 - 🤓 [Lý Tử Thất như &#39;làn gió thu&#39;](https://vnexpress.net/ly-tu-that-nhu-lan-gio-thu-4939104.html) - 03:51 15/09/2025
 - 🫶 [Nhan sắc đời thường của Hoa hậu Yến Nhi](https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-yen-nhi-4939085.html) - 03:40 15/09/2025
