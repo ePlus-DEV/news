@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Xu hướng &#39;bay người không&#39; của giới trẻ](https://vnexpress.net/xu-huong-bay-nguoi-khong-cua-gioi-tre-4938345.html) - 22:00 14/09/2025
-- 🪄 [Khách quốc tế đổ đến trong mùa du lịch thấp điểm ở Việt Nam](https://vnexpress.net/khach-quoc-te-do-den-trong-mua-du-lich-thap-diem-o-viet-nam-4937770.html) - 17:00 14/09/2025
+- 🪄 [Lý do khách quốc tế vẫn đổ đến Việt Nam trong mùa thấp điểm](https://vnexpress.net/ly-do-khach-quoc-te-van-do-den-viet-nam-trong-mua-thap-diem-4937770.html) - 17:00 14/09/2025
 - 🦅 [Những đường băng kỳ lạ nhất thế giới](https://vnexpress.net/nhung-duong-bang-ky-la-nhat-the-gioi-4938743.html) - 07:00 14/09/2025
 - 🕴 [Cảnh báo du lịch Pháp khi biểu tình lan rộng](https://vnexpress.net/canh-bao-du-lich-phap-khi-bieu-tinh-lan-rong-4938837.html) - 05:31 14/09/2025
 - 👀 [Nguyên liệu nào đắt nhất thế giới tính theo trọng lượng?](https://vnexpress.net/nguyen-lieu-nao-dat-nhat-the-gioi-tinh-theo-trong-luong-4938762.html) - 05:00 14/09/2025
