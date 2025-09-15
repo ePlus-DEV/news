@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khách Australia bốc gạch khi du lịch Hà Giang](https://vnexpress.net/khach-australia-boc-gach-khi-du-lich-ha-giang-4939236.html) - 07:06 15/09/2025
 - 🪄 [Ngắm ruộng bậc thang vào độ chín vàng ở Hoàng Su Phì](https://vnexpress.net/ngam-ruong-bac-thang-vao-do-chin-vang-o-hoang-su-phi-4938754.html) - 05:01 15/09/2025
-- 🦅 [Du khách đạt kỷ lục đi qua 195 quốc gia với thời gian nhanh nhất](https://vnexpress.net/du-khach-dat-ky-luc-di-qua-195-quoc-gia-voi-thoi-gian-nhanh-nhat-4939039.html) - 04:12 15/09/2025
+- 🦅 [Du khách đạt kỷ lục đặt chân đến 195 quốc gia với thời gian nhanh nhất](https://vnexpress.net/du-khach-dat-ky-luc-dat-chan-den-195-quoc-gia-voi-thoi-gian-nhanh-nhat-4939039.html) - 04:12 15/09/2025
 - 🕴 [Xu hướng &#39;bay người không&#39; của giới trẻ](https://vnexpress.net/xu-huong-bay-nguoi-khong-cua-gioi-tre-4938345.html) - 22:00 14/09/2025
 - 👀 [Lý do khách quốc tế vẫn đổ đến Việt Nam trong mùa thấp điểm](https://vnexpress.net/ly-do-khach-quoc-te-van-do-den-viet-nam-trong-mua-thap-diem-4937770.html) - 17:00 14/09/2025
 - 🎭 [Những đường băng kỳ lạ nhất thế giới](https://vnexpress.net/nhung-duong-bang-ky-la-nhat-the-gioi-4938743.html) - 07:00 14/09/2025
