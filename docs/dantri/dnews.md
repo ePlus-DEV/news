@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Có nên đào tạo bác sĩ nội trú hàng loạt để ngành y thêm nhiều “tinh hoa”?](https://dantri.com.vn/suc-khoe/co-nen-dao-tao-bac-si-noi-tru-hang-loat-de-nganh-y-them-nhieu-tinh-hoa-20250915093240333.htm) - 07:05 15/09/2025
+- 🤠 [Có nên đào tạo bác sĩ nội trú hàng loạt để ngành y thêm nhiều “tinh hoa”?](https://dantri.com.vn/giao-duc/co-nen-dao-tao-bac-si-noi-tru-hang-loat-de-nganh-y-them-nhieu-tinh-hoa-20250915093240333.htm) - 07:05 15/09/2025
 - 🌈 [Một bộ sách giáo khoa thống nhất toàn quốc: Giảm gánh nặng, tránh &quot;lối mòn&quot;](https://dantri.com.vn/giao-duc/mot-bo-sach-giao-khoa-thong-nhat-toan-quoc-giam-ganh-nang-tranh-loi-mon-20250915075845434.htm) - 01:26 15/09/2025
 - 🐎 [Vì sao hội trường &quot;bùng nổ&quot; khi nữ bác sĩ nội trú chọn ngành Nội tim mạch?](https://dantri.com.vn/suc-khoe/vi-sao-hoi-truong-bung-no-khi-nu-bac-si-noi-tru-chon-nganh-noi-tim-mach-20250913120651074.htm) - 00:48 15/09/2025
 - 👹 [Cô dâu chú rể Hà Nội biến thú chơi đắt đỏ thành hoa, hộp nhẫn trong lễ cưới](https://dantri.com.vn/doi-song/co-dau-chu-re-ha-noi-bien-thu-choi-dat-do-thanh-hoa-hop-nhan-trong-le-cuoi-20250912015440285.htm) - 23:12 14/09/2025
