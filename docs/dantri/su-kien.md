@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Khoảnh khắc xe limousine tông thẳng vào đuôi xe tưới cây trên cao tốc](https://dantri.com.vn/thoi-su/khoanh-khac-xe-limousine-tong-thang-vao-duoi-xe-tuoi-cay-tren-cao-toc-20250915122917481.htm) - 06:22 15/09/2025
-- 👨‍🏫 [Cảnh phim tù nhân Côn Đảo hút 3 triệu views, gây tò mò sau phim &quot;Mưa đỏ&quot;](https://dantri.com.vn/giai-tri/canh-phim-tu-nhan-con-dao-hut-3-trieu-views-gay-to-mo-sau-phim-mua-do-20250915092644323.htm) - 05:59 15/09/2025
+- 👨‍🏫 [Cảnh phim tù nhân Côn Đảo hút 3 triệu views, gây tò mò sau &quot;Mưa đỏ&quot;](https://dantri.com.vn/giai-tri/canh-phim-tu-nhan-con-dao-hut-3-trieu-views-gay-to-mo-sau-mua-do-20250915092644323.htm) - 05:59 15/09/2025
 - 🌮 [Công an vào cuộc vụ nữ nhân viên giao hàng tố bị khách đánh nhập viện](https://dantri.com.vn/phap-luat/cong-an-vao-cuoc-vu-nu-nhan-vien-giao-hang-to-bi-khach-danh-nhap-vien-20250915115343148.htm) - 05:21 15/09/2025
 - 🕯 [Bắt nghi phạm trộm gần 30 cây vàng trong ô tô ở TPHCM](https://dantri.com.vn/phap-luat/bat-nghi-pham-trom-gan-30-cay-vang-trong-o-to-o-tphcm-20250912181053510.htm) - 05:04 15/09/2025
 - 🪜 [Chiến sự Ukraine 15/9: Nga lật ngược thế cờ, bao vây Ukraine ở Dobropolye](https://dantri.com.vn/the-gioi/chien-su-ukraine-159-nga-lat-nguoc-the-co-bao-vay-ukraine-o-dobropolye-20250915112910252.htm) - 04:55 15/09/2025
