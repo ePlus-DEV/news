@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [Nga giao dịch hàng đổi hàng với Trung Quốc](https://vnexpress.net/nga-giao-dich-hang-doi-hang-voi-trung-quoc-4939294.html) - 09:18 15/09/2025
 - 🦅 [VN-Index tăng 4 phiên liên tiếp](https://vnexpress.net/vn-index-tang-4-phien-lien-tiep-4939334.html) - 09:05 15/09/2025
 - 😺 [Phó thủ tướng muốn Anh giới thiệu nhà đầu tư đến trung tâm tài chính Việt Nam](https://vnexpress.net/pho-thu-tuong-muon-anh-gioi-thieu-nha-dau-tu-den-trung-tam-tai-chinh-viet-nam-4939261.html) - 08:26 15/09/2025
-- 🤩 [Chứng khoán VPBank muốn tham gia thị trường giao dịch vàng, hàng hóa](https://vnexpress.net/chung-khoan-vpbank-muon-tham-gia-thi-truong-giao-dich-vang-hang-hoa-4939249.html) - 07:45 15/09/2025
+- 🤩 [Chứng khoán VPBank muốn tham gia thị trường giao dịch hàng hóa](https://vnexpress.net/chung-khoan-vpbank-muon-tham-gia-thi-truong-giao-dich-hang-hoa-4939249.html) - 07:45 15/09/2025
 - 🌮 [CEO TPBank: Chuyển đổi số đã thay đổi tương lai ngân hàng](https://vnexpress.net/ceo-tpbank-chuyen-doi-so-da-thay-doi-tuong-lai-ngan-hang-4939187.html) - 07:00 15/09/2025
 - 🧰 [Giải chạy UOB Heartbeat 2025 gây quỹ hơn 940 triệu đồng](https://vnexpress.net/giai-chay-uob-heartbeat-2025-gay-quy-hon-940-trieu-dong-4938241.html) - 05:00 15/09/2025
 - 🤔 [Hoạt động kinh tế của Trung Quốc chậm lại](https://vnexpress.net/hoat-dong-kinh-te-cua-trung-quoc-cham-lai-4939171.html) - 04:26 15/09/2025
