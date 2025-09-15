@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hậu quả từ những vụ đốt phá trong biểu tình Nepal](https://vnexpress.net/hau-qua-tu-nhung-vu-dot-pha-trong-bieu-tinh-nepal-4939020.html) - 04:57 15/09/2025
+- 🎭 [Cuộc biểu tình &#39;đốt cháy đất nước&#39; Nepal](https://vnexpress.net/cuoc-bieu-tinh-dot-chay-dat-nuoc-nepal-4939020.html) - 04:57 15/09/2025
 - 🕴 [Biểu tình cực hữu ở Anh biến thành đụng độ](https://vnexpress.net/bieu-tinh-cuc-huu-o-anh-bien-thanh-dung-do-4939135.html) - 04:30 15/09/2025
 - 🤭 [Nga đưa xe tăng T-90 trưng bày triển lãm ra chiến trường](https://vnexpress.net/nga-dua-xe-tang-t-90-trung-bay-trien-lam-ra-chien-truong-4939109.html) - 03:54 15/09/2025
 - 🧑‍💻 [Cách Israel qua mặt đồng minh khi tập kích ban lãnh đạo Hamas ở Qatar](https://vnexpress.net/cach-israel-qua-mat-dong-minh-khi-tap-kich-ban-lanh-dao-hamas-o-qatar-4939017.html) - 03:37 15/09/2025
