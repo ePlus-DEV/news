@@ -523,7 +523,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Trực tiếp bóng chuyền nam vô địch thế giới: Nhật Bản gặp Canada](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-nhat-ban-gap-canada-101250915124147826.htm) - 05:54 15/09/2025
-- 🥷 [Trực tiếp Giải bóng chuyền nam vô địch thế giới 2025: Chile chạm trán tuyển Đức](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-chile-cham-tran-tuyen-duc-101250915123304147.htm) - 05:54 15/09/2025
+- 🥷 [Tuyển Đức có trận thắng đầu tiên tại Giải bóng chuyền nam vô địch thế giới](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-chile-cham-tran-tuyen-duc-101250915123304147.htm) - 05:54 15/09/2025
 - 🤖 [Chiến sĩ quả cảm tập 8: Ngô Kiến Huy chấn thương, Tiến Luật gây bất ngờ](https://muctim.tuoitre.vn/chien-si-qua-cam-tap-8-ngo-kien-huy-chan-thuong-tien-luat-gay-bat-ngo-101250915102550143.htm) - 05:53 15/09/2025
 - 🤓 [Mời bạn đón đọc Rùa Vàng 37, phát hành 15-9: 
 Khám phá phương tiện giao thông](https://muctim.tuoitre.vn/moi-ban-don-doc-rua-vang-37-phat-hanh-15-9-kham-pha-phuong-tien-giao-thong-101250915104303496.htm) - 05:52 15/09/2025
