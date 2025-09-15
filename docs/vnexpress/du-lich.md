@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Quốc gia nào ở Đông Nam Á không giáp biển?](https://vnexpress.net/quoc-gia-nao-o-dong-nam-a-khong-giap-bien-4939346.html) - 13:15 15/09/2025
-- 🪄 [Đà Nẵng mở lại các tuyến tham quan, dã ngoại tại bán đảo Sơn Trà](https://vnexpress.net/da-nang-mo-lai-cac-tuyen-tham-quan-da-ngoai-tai-ban-dao-son-tra-4939415.html) - 12:41 15/09/2025
+- 🪄 [Đà Nẵng mở lại các tuyến tham quan trên bán đảo Sơn Trà](https://vnexpress.net/da-nang-mo-lai-cac-tuyen-tham-quan-tren-ban-dao-son-tra-4939415.html) - 12:41 15/09/2025
 - 🦅 [Khách Australia bốc gạch khi du lịch Hà Giang](https://vnexpress.net/khach-australia-boc-gach-khi-du-lich-ha-giang-4939236.html) - 07:06 15/09/2025
 - 🕴 [Ngắm ruộng bậc thang vào độ chín vàng ở Hoàng Su Phì](https://vnexpress.net/ngam-ruong-bac-thang-vao-do-chin-vang-o-hoang-su-phi-4938754.html) - 05:01 15/09/2025
 - 👀 [Du khách đạt kỷ lục đặt chân đến 195 quốc gia với thời gian nhanh nhất](https://vnexpress.net/du-khach-dat-ky-luc-dat-chan-den-195-quoc-gia-voi-thoi-gian-nhanh-nhat-4939039.html) - 04:12 15/09/2025
