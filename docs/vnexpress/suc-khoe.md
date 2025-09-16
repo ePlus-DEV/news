@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [5 tư thế yoga làm thông thoáng đuờng thở](https://vnexpress.net/5-tu-the-yoga-lam-thong-thoang-duong-tho-4939636.html) - 05:00 16/09/2025
+- 🔥 [5 tư thế yoga làm thông thoáng đường thở](https://vnexpress.net/5-tu-the-yoga-lam-thong-thoang-duong-tho-4939636.html) - 05:00 16/09/2025
 - 🥰 [Vì sao xoang nhiễm nấm?](https://vnexpress.net/vi-sao-xoang-nhiem-nam-4939605.html) - 05:00 16/09/2025
 - 💡 [Cắt u, bảo tồn dạ dày nhờ phát hiện ung thư sớm](https://vnexpress.net/cat-u-bao-ton-da-day-nho-phat-hien-ung-thu-som-4939530.html) - 04:00 16/09/2025
 - 🤗 [Uống thuốc huyết áp đúng cách thế nào](https://vnexpress.net/uong-thuoc-huyet-ap-dung-cach-the-nao-4939475.html) - 04:00 16/09/2025
