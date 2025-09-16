@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Đen kết hợp Hoàng Dũng tung MV hot nhất concert, có cảnh Đen tự ghi hình](https://muctim.tuoitre.vn/den-ket-hop-hoang-dung-tung-mv-hot-nhat-concert-co-canh-den-tu-ghi-hinh-101250916122339976.htm) - 06:45 16/09/2025
 - 🥷 [Ukraine thắng dễ Algeria tại Giải bóng chuyền nam vô địch thế giới](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-ukraine-va-algeria-101250916130543277.htm) - 06:11 16/09/2025
-- 🤖 [Trực tiếp bóng chuyền nam vô địch thế giới: Iran gặp Tunisia](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-iran-gap-tunisia-101250916113133263.htm) - 05:06 16/09/2025
+- 🤖 [Tuyển bóng chuyền nam Iran ngược dòng, đánh bại Tunisia](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vo-dich-the-gioi-iran-gap-tunisia-101250916113133263.htm) - 05:06 16/09/2025
 - 🤓 [Park Ji Hyun đột phá với You and everything else sau thời gian kém tiếng](https://muctim.tuoitre.vn/park-ji-hyun-dot-pha-voi-you-and-everything-else-sau-thoi-gian-kem-tieng-101250916103054678.htm) - 04:01 16/09/2025
 - 🎉 [Lịch trực tiếp Champions League 16-9: Real Madrid, Arsenal ra quân](https://muctim.tuoitre.vn/lich-truc-tiep-champions-league-16-9-real-madrid-arsenal-ra-quan-101250916094424723.htm) - 03:21 16/09/2025
 - 👨‍🏫 [Tuyển bóng chuyền nam Argentina đánh bại Hàn Quốc 3-1](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-the-gioi-argentina-gap-han-quoc-101250916085612375.htm) - 02:06 16/09/2025
