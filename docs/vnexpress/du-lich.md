@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Vườn thú cấm khách cho tinh tinh xem điện thoại](https://vnexpress.net/vuon-thu-cam-khach-cho-tinh-tinh-xem-dien-thoai-4939593.html) - 04:47 16/09/2025
-- 🪄 [Những món nhất định phải thử trong lần đầu ăn dim sum](https://vnexpress.net/nhung-mon-nhat-dinh-phai-thu-trong-lan-dau-an-dim-sum-4939397.html) - 03:29 16/09/2025
+- 🪄 [Những món nhất định phải thử trong lần đầu ăn dimsum](https://vnexpress.net/nhung-mon-nhat-dinh-phai-thu-trong-lan-dau-an-dimsum-4939397.html) - 03:29 16/09/2025
 - 🦅 [Châu Âu không còn là &#39;miền đất hứa&#39; với người nước ngoài](https://vnexpress.net/chau-au-khong-con-la-mien-dat-hua-voi-nguoi-nuoc-ngoai-4939500.html) - 02:57 16/09/2025
 - 🕴 [Hướng dẫn check in ở sân bay không cần làm thủ tục tại quầy](https://vnexpress.net/huong-dan-check-in-o-san-bay-khong-can-lam-thu-tuc-tai-quay-4939068.html) - 23:00 15/09/2025
 - 👀 [Khách nước ngoài &#39;săn&#39; tiếng rao bánh bao nóng ở Việt Nam](https://vnexpress.net/khach-nuoc-ngoai-san-tieng-rao-banh-bao-nong-o-viet-nam-4939013.html) - 17:00 15/09/2025
