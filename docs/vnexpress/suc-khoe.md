@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Người phụ nữ mắc hai bệnh hiểm nghèo chạy marathon để sống khỏe](https://vnexpress.net/nguoi-phu-nu-mac-hai-benh-hiem-ngheo-chay-marathon-de-song-khoe-4937872.html) - 23:00 16/09/2025
-- 🥰 [Bác sĩ Việt sản xuất tế bào trị ung thư máu](https://vnexpress.net/bac-si-viet-san-xuat-te-bao-tri-ung-thu-mau-4939648.html) - 22:00 16/09/2025
+- 🥰 [Bác sĩ Việt sẽ sản xuất tế bào trị ung thư máu](https://vnexpress.net/bac-si-viet-se-san-xuat-te-bao-tri-ung-thu-mau-4939648.html) - 22:00 16/09/2025
 - 💡 [Bí quyết duy trì bộ não trẻ trung](https://vnexpress.net/bi-quyet-duy-tri-bo-nao-tre-trung-4937958.html) - 19:00 16/09/2025
 - 🤗 [5 món ăn sáng có thể khiến thận yếu](https://vnexpress.net/5-mon-an-sang-co-the-khien-than-yeu-4939374.html) - 18:00 16/09/2025
 - 🪜 [Món ăn hạ huyết áp không cần thuốc](https://vnexpress.net/mon-an-ha-huyet-ap-khong-can-thuoc-4937424.html) - 17:03 16/09/2025
