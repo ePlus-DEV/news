@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [De Zerbi: &#39;Quả phạt đền thứ hai của Real đáng xấu hổ&#39;](https://vnexpress.net/de-zerbi-qua-phat-den-thu-hai-cua-real-dang-xau-ho-4939958.html) - 00:42 17/09/2025
 - 🧰 [Mbappe: &#39;Không ai hiểu luật phạt đền&#39;](https://vnexpress.net/mbappe-khong-ai-hieu-luat-phat-den-4939955.html) - 00:34 17/09/2025
 - 🤗 [Dortmund rơi điểm dù bốn lần dẫn trước Juventus](https://vnexpress.net/dortmund-roi-diem-du-bon-lan-dan-truoc-juventus-4939953.html) - 22:55 16/09/2025
-- 🥳 [Arteta: &#39;Cầu thủ dự bị quan trọng hơn đá chính&#39;](https://vnexpress.net/arteta-cau-thu-du-bi-quan-trong-hon-da-chinh-4939951.html) - 22:08 16/09/2025
+- 🥳 [Arteta không thích từ &#39;cầu thủ dự bị&#39;](https://vnexpress.net/arteta-khong-thich-tu-cau-thu-du-bi-4939951.html) - 22:08 16/09/2025
 - 🦣 [Man Utd tốn 16 triệu USD nếu sa thải Amorim trước tháng 11](https://vnexpress.net/man-utd-ton-16-trieu-usd-neu-sa-thai-amorim-truoc-thang-11-4939949.html) - 22:01 16/09/2025
 - 🌜 [Mbappe cứu Real ở Champions League](https://vnexpress.net/mbappe-cuu-real-o-champions-league-4939952.html) - 22:00 16/09/2025
 - 🫶 [Kipyegon lần thứ tư vô địch 1.500m thế giới](https://vnexpress.net/kipyegon-lan-thu-tu-vo-dich-1-500m-the-gioi-4939944.html) - 21:27 16/09/2025
