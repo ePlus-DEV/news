@@ -4,9 +4,9 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Thông báo kết chuyển Nhân ái tuần 5 tháng 8/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-5-thang-82025-20250917124716870.htm) - 06:30 17/09/2025
-- 🌜 [Danh sách bạn đọc ủng hộ tuần 5 tháng 8 năm 2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-5-thang-8-nam-2025-20250917124243412.htm) - 06:29 17/09/2025
-- 👀 [Cha nằm thoi thóp, mẹ không kiếm nổi 1 triệu đồng để con đến trường](https://dantri.com.vn/tam-long-nhan-ai/cha-nam-thoi-thop-me-khong-kiem-noi-1-trieu-dong-de-con-den-truong-20250915104611309.htm) - 22:30 16/09/2025
+- 🌝 [Cha nằm thoi thóp, mẹ không kiếm nổi 1 triệu đồng để con đến trường](https://dantri.com.vn/tam-long-nhan-ai/cha-nam-thoi-thop-me-khong-kiem-noi-1-trieu-dong-de-con-den-truong-20250915104611309.htm) - 22:30 16/09/2025
+- 🌜 [Thông báo kết chuyển Nhân ái tuần 5 tháng 8/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-5-thang-82025-20250917124716870.htm) - 22:29 16/09/2025
+- 👀 [Danh sách bạn đọc ủng hộ tuần 5 tháng 8 năm 2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-5-thang-8-nam-2025-20250917124243412.htm) - 22:26 16/09/2025
 - 🚀 [&quot;Đường đẹp hơn rồi nhưng đi viện vẫn xa, cảm ơn các bác sĩ đến tận đây&quot;](https://dantri.com.vn/tam-long-nhan-ai/duong-dep-hon-roi-nhung-di-vien-van-xa-cam-on-cac-bac-si-den-tan-day-20250916131446999.htm) - 12:59 16/09/2025
 - 🦅 [Hiện thực hóa ước mơ của các hộ nghèo bằng những ngôi nhà Nhân ái](https://dantri.com.vn/tam-long-nhan-ai/hien-thuc-hoa-uoc-mo-cua-cac-ho-ngheo-bang-nhung-ngoi-nha-nhan-ai-20250916155354018.htm) - 12:48 16/09/2025
 - 😎 [Trao hơn 150 triệu đồng tới người phụ nữ đơn thân bị đủ thứ bệnh](https://dantri.com.vn/tam-long-nhan-ai/trao-hon-150-trieu-dong-toi-nguoi-phu-nu-don-than-bi-du-thu-benh-20250916183711092.htm) - 12:30 16/09/2025
