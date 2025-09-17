@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Ba lần là thủ khoa của tân sinh viên Học viện Kỹ thuật quân sự](https://vnexpress.net/ba-lan-la-thu-khoa-cua-tan-sinh-vien-hoc-vien-ky-thuat-quan-su-4940142.html) - 07:07 17/09/2025
 - 🦆 [15 trường Kinh doanh dẫn đầu Mỹ về tỷ lệ sinh viên có việc làm](https://vnexpress.net/15-truong-kinh-doanh-dan-dau-my-ve-ty-le-sinh-vien-co-viec-lam-4938404.html) - 04:14 17/09/2025
 - 🦩 [Sinh viên FPTU, NEU thắng giải khởi nghiệp nhờ ứng dụng AI vào giáo dục](https://vnexpress.net/sinh-vien-fptu-neu-thang-giai-khoi-nghiep-nho-ung-dung-ai-vao-giao-duc-4939846.html) - 01:00 17/09/2025
-- 🌮 [Thí sinh Olympic quốc tế chọn trường nào?](https://vnexpress.net/thi-sinh-olympic-quoc-te-chon-truong-nao-4939931.html) - 23:50 16/09/2025
+- 🌮 [Thí sinh giành huy chương Olympic quốc tế chọn đại học nào?](https://vnexpress.net/thi-sinh-gianh-huy-chuong-olympic-quoc-te-chon-dai-hoc-nao-4939931.html) - 23:50 16/09/2025
 - 🔭 [Sân bay lâu đời nhất thế giới còn hoạt động ở nước nào?](https://vnexpress.net/san-bay-lau-doi-nhat-the-gioi-con-hoat-dong-o-nuoc-nao-4939871.html) - 12:47 16/09/2025
 - 💡 [Sẽ mở phân hiệu Học viện Tài chính ở tỉnh Hưng Yên](https://vnexpress.net/mo-phan-hieu-hoc-vien-tai-chinh-o-hung-yen-4939859.html) - 12:23 16/09/2025
 - 🥰 [Bước đệm ra toàn cầu khi du học tại chỗ](https://vnexpress.net/buoc-dem-ra-toan-cau-khi-du-hoc-tai-cho-4939610.html) - 08:00 16/09/2025
