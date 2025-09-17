@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vingroup nhận giải thưởng tại triển lãm thành tựu đất nước](https://vnexpress.net/vingroup-nhan-giai-thuong-tai-trien-lam-thanh-tuu-dat-nuoc-4940280.html) - 10:00 17/09/2025
 - 🐲 [Chứng khoán giảm mạnh](https://vnexpress.net/chung-khoan-giam-manh-4940238.html) - 09:17 17/09/2025
-- 🔥 [Thủ tướng: Giải ngân 100% vốn đầu tư công, tránh &#39;có tiền không tiêu được&#39;](https://vnexpress.net/thu-tuong-giai-ngan-100-von-dau-tu-cong-tranh-co-tien-khong-tieu-duoc-4940201.html) - 08:07 17/09/2025
+- 🔥 [Thủ tướng phê bình 29 bộ ngành, 12 địa phương chậm giải ngân vốn đầu tư công](https://vnexpress.net/thu-tuong-phe-binh-29-bo-nganh-12-dia-phuong-cham-giai-ngan-von-dau-tu-cong-4940201.html) - 08:07 17/09/2025
 - 🐵 [Bamboo Capital bị cảnh báo chậm nộp báo cáo tài chính](https://vnexpress.net/bamboo-capital-bi-canh-bao-cham-nop-bao-cao-tai-chinh-4940119.html) - 05:55 17/09/2025
 - 🦅 [Sứa đạn Thái Lan giá gần một triệu đồng mỗi kg](https://vnexpress.net/sua-dan-thai-lan-gia-gan-mot-trieu-dong-moi-kg-4939717.html) - 04:33 17/09/2025
 - 😺 [Cuộc họp lãi suất chưa từng có tiền lệ của Fed](https://vnexpress.net/cuoc-hop-lai-suat-chua-tung-co-tien-le-cua-fed-4940063.html) - 04:32 17/09/2025
