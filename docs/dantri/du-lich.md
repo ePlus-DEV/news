@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Cá voi sát thủ lao vào tấn công, một du thuyền bị đánh chìm xuống biển](https://dantri.com.vn/du-lich/ca-voi-sat-thu-lao-vao-tan-cong-mot-du-thuyen-bi-danh-chim-xuong-bien-20250917150936191.htm) - 08:27 17/09/2025
-- 🥰 [Ngôi nhà tàng hình ở sa mạc Mỹ khiến TikToker bị phạt hơn 260 triệu đồng](https://dantri.com.vn/du-lich/ngoi-nha-tang-hinh-o-sa-mac-my-khien-tiktoker-bi-phat-hon-260-trieu-dong-20250917133403526.htm) - 07:28 17/09/2025
+- 🥰 [Ngôi nhà tàng hình ở sa mạc Mỹ khiến TikToker bị phạt 10.000 USD](https://dantri.com.vn/du-lich/ngoi-nha-tang-hinh-o-sa-mac-my-khien-tiktoker-bi-phat-10000-usd-20250917133403526.htm) - 07:28 17/09/2025
 - 🐻 [Phát hiện kỹ thuật ướp xác lâu đời nhất thế giới được tìm thấy tại Việt Nam](https://dantri.com.vn/du-lich/phat-hien-ky-thuat-uop-xac-lau-doi-nhat-the-gioi-duoc-tim-thay-tai-viet-nam-20250917094604510.htm) - 02:57 17/09/2025
 - 🤩 [Món 25.000 đồng ở Hà Nội khách Tây mê mẩn, nhiều người Việt còn chưa thử](https://dantri.com.vn/du-lich/mon-25000-dong-o-ha-noi-khach-tay-me-man-nhieu-nguoi-viet-con-chua-thu-20250916175358387.htm) - 23:00 16/09/2025
 - 🕴 [Wink Hotel Hai Phong - Điểm dừng chân cho hành trình 24 giờ khám phá Hải Phòng](https://dantri.com.vn/du-lich/wink-hotel-hai-phong-diem-dung-chan-cho-hanh-trinh-24-gio-kham-pha-hai-phong-20250916173618988.htm) - 13:00 16/09/2025
