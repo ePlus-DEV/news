@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp Nam Định đấu với Ratchaburi: 3-1 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-nam-dinh-dau-voi-ratchaburi-101250917193041856.htm) - 12:30 17/09/2025
+- 🤔 [Đánh bại Ratchaburi, Nam Định chia sẻ ngôi đầu với Gamba Osaka tại AFC Champions Leage Two](https://muctim.tuoitre.vn/truc-tiep-nam-dinh-dau-voi-ratchaburi-101250917193041856.htm) - 12:30 17/09/2025
 - 🥷 [Trực tiếp bóng chuyền nam thế giới: Nhật Bản có chiến thắng đầu tiên?](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-the-gioi-nhat-ban-co-chien-thang-dau-tien-101250917144803755.htm) - 12:06 17/09/2025
 - 🤖 [Trực tiếp bóng chuyền nam thế giới: Đức đấu Slovenia](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-the-gioi-duc-dau-slovenia-101250917180424334.htm) - 12:03 17/09/2025
 - 🤓 [Thống kê, đội hình dự kiến các trận Champions League ngày 17-9](https://muctim.tuoitre.vn/thong-ke-doi-hinh-du-kien-cac-tran-champions-league-ngay-17-9-10125091710490301.htm) - 10:28 17/09/2025
