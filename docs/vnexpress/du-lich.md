@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Trung Quốc ra mắt chuyến bay liên chặng dài nhất thế giới](https://vnexpress.net/trung-quoc-ra-mat-chuyen-bay-lien-chang-dai-nhat-the-gioi-4940277.html) - 12:45 17/09/2025
+- 💂 [Trung Quốc ra mắt chuyến bay thẳng dài nhất thế giới](https://vnexpress.net/trung-quoc-ra-mat-chuyen-bay-thang-dai-nhat-the-gioi-4940277.html) - 12:45 17/09/2025
 - 🪄 [Địa phương duy nhất nào ở Việt Nam có đường bay nội thành?](https://vnexpress.net/dia-phuong-duy-nhat-nao-o-viet-nam-co-duong-bay-noi-thanh-4940091.html) - 05:22 17/09/2025
 - 🦅 [Check in Trung thu sớm tại các quán cà phê ở TP HCM](https://vnexpress.net/check-in-trung-thu-som-tai-cac-quan-ca-phe-o-tp-hcm-4939651.html) - 04:37 17/09/2025
 - 🕴 [Hàng nghìn &#39;cá lóc bay&#39; khiến khách trầm trồ](https://vnexpress.net/hang-nghin-ca-loc-bay-khien-khach-tram-tro-4940085.html) - 03:24 17/09/2025
