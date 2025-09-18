@@ -200,8 +200,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Bác bỏ tin đồn lãnh đạo Công an Hải Phòng liên quan vụ xây nhầm nhà trên đất người khác](https://thanhnien.vn/bac-bo-tin-don-lanh-dao-cong-an-hai-phong-lien-quan-vu-xay-nham-nha-tren-dat-nguoi-khac-185250918162036412.htm) - 10:44 18/09/2025
 - 🎉 [Google sao chép phụ kiện đắt đỏ đến khó tin của iPhone 17](https://thanhnien.vn/google-sao-chep-phu-kien-dat-do-den-kho-tin-cua-iphone-17-18525091814432912.htm) - 10:42 18/09/2025
 - 🎊 [Nữ ca sĩ Hòa Minzy được đề nghị xét Giải thưởng &#39;Thanh niên sống đẹp&#39; năm 2025](https://thanhnien.vn/nu-ca-si-hoa-minzy-duoc-de-nghi-xet-giai-thuong-thanh-nien-song-dep-nam-2025-185250918160055971.htm) - 10:38 18/09/2025
-- 🥳 [Xác minh thông tin Bệnh viện vùng Tây nguyên tán sỏi cho bệnh nhân khi máy hỏng](https://thanhnien.vn/xac-minh-thong-tin-benh-vien-vung-tay-nguyen-tan-soi-cho-benh-nhan-khi-may-hong-185250918165126866.htm) - 10:28 18/09/2025
-- 🤡 [Bộ trưởng Nguyễn Kim Sơn nói về cuộc &#39;đại sắp xếp&#39; hệ thống giáo dục đại học](https://thanhnien.vn/bo-truong-nguyen-kim-son-noi-ve-cuoc-dai-sap-xep-he-thong-giao-duc-dai-hoc-185250918154527606.htm) - 10:28 18/09/2025<!-- thanhnien:END -->
+- 🥳 [Venezuela tập trận tàu chiến, máy bay giữa căng thẳng với Mỹ](https://thanhnien.vn/venezuela-tap-tran-tau-chien-may-bay-giua-cang-thang-voi-my-185250918171641163.htm) - 10:29 18/09/2025
+- 🤡 [Xác minh thông tin Bệnh viện vùng Tây nguyên tán sỏi cho bệnh nhân khi máy hỏng](https://thanhnien.vn/xac-minh-thong-tin-benh-vien-vung-tay-nguyen-tan-soi-cho-benh-nhan-khi-may-hong-185250918165126866.htm) - 10:28 18/09/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
