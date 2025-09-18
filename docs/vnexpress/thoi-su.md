@@ -29,7 +29,7 @@ sidebar_position: 1
 - 🤔 [Cảnh sát giao thông muốn thu hẹp làn đường ôtô ở nội đô](https://vnexpress.net/canh-sat-giao-thong-muon-thu-hep-lan-duong-oto-o-noi-do-4940372.html) - 15:23 17/09/2025
 - 🕯 [Hà Nội nghiên cứu xây Bảo tàng Bia](https://vnexpress.net/ha-noi-nghien-cuu-xay-bao-tang-bia-4940371.html) - 14:15 17/09/2025
 - 😺 [Áp thấp nhiệt đới đêm nay vào Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-dem-nay-vao-bien-dong-4940369.html) - 14:02 17/09/2025
-- 🦆 [Bộ Nội vụ đề xuất lao động việc làm công hưởng lương làm thêm đến 300%](https://vnexpress.net/bo-noi-vu-de-xuat-lao-dong-viec-lam-cong-huong-luong-lam-them-den-300-4940326.html) - 13:56 17/09/2025
+- 🦆 [Bộ Nội vụ đề xuất lao động tham gia việc làm công hưởng lương làm thêm đến 300%](https://vnexpress.net/bo-noi-vu-de-xuat-lao-dong-tham-gia-viec-lam-cong-huong-luong-lam-them-den-300-4940326.html) - 13:56 17/09/2025
 - 🧰 [Ông Quản Minh Cường tái đắc cử Bí thư Tỉnh ủy Cao Bằng](https://vnexpress.net/ong-quan-minh-cuong-tai-dac-cu-bi-thu-tinh-uy-cao-bang-4940345.html) - 13:13 17/09/2025
 - 🦍 [Tổng Bí thư: Đô thị và nông thôn phải phát triển cân bằng](https://vnexpress.net/tong-bi-thu-do-thi-va-nong-thon-phai-phat-trien-can-bang-4940322.html) - 11:35 17/09/2025
 - 🧰 [Gần 100 thùng da heo bốc mùi tại cơ sở làm lạp xưởng](https://vnexpress.net/gan-100-thung-da-heo-boc-mui-tai-co-so-lam-lap-xuong-4940309.html) - 10:49 17/09/2025
