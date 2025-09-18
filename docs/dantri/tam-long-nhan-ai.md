@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Cậu bé 8 tuổi bỗng dưng sốt cao, người cha nghèo ôm con vào viện cầu cứu](https://dantri.com.vn/tam-long-nhan-ai/cau-be-8-tuoi-bong-dung-sot-cao-nguoi-cha-ngheo-om-con-vao-vien-cau-cuu-20250914180411559.htm) - 22:30 18/09/2025
+- 🌝 [Bé trai 8 tuổi nguy kịch vì viêm não, cha nghèo khẩn cầu cứu con](https://dantri.com.vn/tam-long-nhan-ai/be-trai-8-tuoi-nguy-kich-vi-viem-nao-cha-ngheo-khan-cau-cuu-con-20250914180411559.htm) - 22:30 18/09/2025
 - 🌜 [5 nhà Nhân ái sắp khánh thành từ nguồn kinh phí giải pickleball báo Dân trí](https://dantri.com.vn/tam-long-nhan-ai/5-nha-nhan-ai-sap-khanh-thanh-tu-nguon-kinh-phi-giai-pickleball-bao-dan-tri-20250919000027471.htm) - 16:00 18/09/2025
 - 👀 [Người đàn ông bị ngã giàn giáo nguy kịch được giúp đỡ hơn 246 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/nguoi-dan-ong-bi-nga-gian-giao-nguy-kich-duoc-giup-do-hon-246-trieu-dong-20250918154143394.htm) - 13:19 18/09/2025
 - 🚀 [Bạn đọc Dân trí giúp hơn 475 triệu đồng tới bé gái nguy kịch sau tai nạn](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-giup-hon-475-trieu-dong-toi-be-gai-nguy-kich-sau-tai-nan-20250918133912291.htm) - 13:11 18/09/2025
