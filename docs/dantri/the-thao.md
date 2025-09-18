@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Thái Lan bình luận khi đội nhà thất bại trước đại diện Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-khi-doi-nha-that-bai-truoc-dai-dien-viet-nam-20250918111939221.htm) - 04:19 18/09/2025
+- 🎡 [Báo Thái Lan bình luận khi đội nhà thất bại trước đại diện Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-khi-doi-nha-that-bai-truoc-dai-dien-viet-nam-20250918111939221.htm) - 05:01 18/09/2025
 - 💯 [Nadal bác bỏ so sánh Big Three với Alcaraz và Sinner](https://dantri.com.vn/the-thao/nadal-bac-bo-so-sanh-big-three-voi-alcaraz-va-sinner-20250918102526314.htm) - 03:25 18/09/2025
 - ⛽️ [Harry Kane vượt mặt David Beckham, ghi dấu lịch sử Champions League](https://dantri.com.vn/the-thao/harry-kane-vuot-mat-david-beckham-ghi-dau-lich-su-champions-league-20250918083542115.htm) - 01:44 18/09/2025
 - 💃 [Mourinho xác nhận trở lại dẫn dắt Benfica](https://dantri.com.vn/the-thao/mourinho-xac-nhan-tro-lai-dan-dat-benfica-20250918074806674.htm) - 01:08 18/09/2025
