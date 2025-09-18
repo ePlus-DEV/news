@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Conte xin ý kiến De Bruyne trước trận gặp Man City](https://vnexpress.net/conte-xin-y-kien-de-bruyne-truoc-tran-gap-man-city-4940615.html) - 15:11 18/09/2025
-- 🦩 [Nguyễn Filip mắc lỗi, Công an Hà Nội mất điểm trước CLB Trung Quốc](https://vnexpress.net/nguyen-filip-mac-loi-cong-an-ha-noi-mat-diem-truoc-clb-trung-quoc-4940849.html) - 15:08 18/09/2025
-- 🧰 [CLB mới cài điều khoản đặc biệt khi bổ nhiệm Mourinho](https://vnexpress.net/clb-moi-cai-dieu-khoan-dac-biet-khi-bo-nhiem-mourinho-4940847.html) - 14:54 18/09/2025
+- 🪜 [Nguyễn Filip mắc lỗi, CAHN chia điểm ở Trung Quốc](https://vnexpress.net/nguyen-filip-mac-loi-cahn-chia-diem-o-trung-quoc-4940849.html) - 15:08 18/09/2025
+- 🦩 [CLB mới cài điều khoản đặc biệt khi bổ nhiệm Mourinho](https://vnexpress.net/clb-moi-cai-dieu-khoan-dac-biet-khi-bo-nhiem-mourinho-4940847.html) - 14:54 18/09/2025
+- 🧰 [Conte hỏi ý kiến De Bruyne trước trận gặp Man City](https://vnexpress.net/conte-hoi-y-kien-de-bruyne-truoc-tran-gap-man-city-4940615.html) - 13:11 18/09/2025
 - 🤗 [TSW: &#39;CFO biến hóa khó lường, PSG Talon giỏi kiểm soát thế trận&#39;](https://vnexpress.net/tsw-cfo-bien-hoa-kho-luong-psg-talon-gioi-kiem-soat-the-tran-4940769.html) - 11:00 18/09/2025
 - 🥳 [Lewandowski: &#39;Thế hệ cầu thủ ngày nay không thích bị hét vào mặt&#39;](https://vnexpress.net/lewandowski-the-he-cau-thu-ngay-nay-khong-thich-bi-het-vao-mat-4940791.html) - 10:34 18/09/2025
 - 🦣 [&#39;Nữ hoàng tốc độ&#39; Nhi Yến từ giã điền kinh Việt Nam ở tuổi 20](https://vnexpress.net/nu-hoang-toc-do-nhi-yen-tu-gia-dien-kinh-viet-nam-o-tuoi-20-4940732.html) - 09:13 18/09/2025
