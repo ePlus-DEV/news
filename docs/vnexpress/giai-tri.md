@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Hoa hậu đẹp nhất thế giới&#39; sinh con đầu lòng](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-sinh-con-dau-long-4940608.html) - 07:53 18/09/2025
-- 💫 [Vẻ đẹp &#39;siêu thực&#39; của Hunter Schafer](https://vnexpress.net/ve-dep-sieu-thuc-cua-hunter-schafer-4939778.html) - 07:40 18/09/2025
-- 🌮 [Victoria Beckham kể chuyện kinh doanh thua lỗ](https://vnexpress.net/victoria-beckham-ke-chuyen-kinh-doanh-thua-lo-4940511.html) - 05:46 18/09/2025
-- 🧠 [Ngọc Hân sinh con trai đầu lòng](https://vnexpress.net/ngoc-han-sinh-con-trai-dau-long-4940623.html) - 05:13 18/09/2025
-- 👨‍🏫 [NTK làm show về nghệ thuật thêu cung đình Huế](https://vnexpress.net/ntk-lam-show-ve-nghe-thuat-theu-cung-dinh-hue-4940076.html) - 04:45 18/09/2025
-- ⚗️ [Á hậu Châu Anh được thăng quân hàm](https://vnexpress.net/a-hau-chau-anh-duoc-thang-quan-ham-4940534.html) - 04:31 18/09/2025
-- 😎 [Mỹ nữ Tân Cương diện mốt khoe nội y](https://vnexpress.net/my-nu-tan-cuong-dien-mot-khoe-noi-y-4940247.html) - 03:32 18/09/2025
-- 🫣 [Dàn &#39;Anh trai say hi&#39; mùa 2 ra mắt](https://vnexpress.net/dan-anh-trai-say-hi-mua-2-ra-mat-4940398.html) - 03:25 18/09/2025
-- 🪄 [Tory Burch ra mắt bộ sưu tập thời trang Xuân Hè 2026](https://vnexpress.net/tory-burch-ra-mat-bo-suu-tap-thoi-trang-xuan-he-2026-4940070.html) - 02:00 18/09/2025
-- 🤓 [Cuộc sống độc thân của Jennifer Aniston](https://vnexpress.net/cuoc-song-doc-than-cua-jennifer-aniston-4939259.html) - 17:00 17/09/2025
-- 🫶 [Ly hôn chồng Tây, diễn viên Lan Phương được quyền nuôi 2 con](https://vnexpress.net/ly-hon-chong-tay-dien-vien-lan-phuong-duoc-quyen-nuoi-2-con-4940319.html) - 14:00 17/09/2025
-- 🧑‍🏫 [Son Ye Jin, Lisa dự thảm đỏ Liên hoan phim Busan](https://vnexpress.net/son-ye-jin-lisa-du-tham-do-lien-hoan-phim-busan-4940364.html) - 13:45 17/09/2025
-- 🦄 [JSol diễn cảnh tình cảm với &#39;hot girl 16 triệu fan&#39;](https://vnexpress.net/jsol-dien-canh-tinh-cam-voi-hot-girl-16-trieu-fan-4940166.html) - 13:35 17/09/2025
-- 💫 [Mỹ nhân &#39;Diệp Vấn&#39; chủ động theo đuổi chồng](https://vnexpress.net/my-nhan-diep-van-chu-dong-theo-duoi-chong-4939823.html) - 13:00 17/09/2025
-- 🎊 [Con trai Thái Hòa lần đầu đóng phim](https://vnexpress.net/con-trai-thai-hoa-lan-dau-dong-phim-4939911.html) - 12:15 17/09/2025
-- 👹 [Củng Lợi phá cách với tóc ngắn](https://vnexpress.net/cung-loi-pha-cach-voi-toc-ngan-4940171.html) - 11:23 17/09/2025
-- 💻 [Sắc vóc cô gái H&#39;rê đoạt á hậu Miss Grand Vietnam](https://vnexpress.net/sac-voc-co-gai-h-re-doat-a-hau-miss-grand-vietnam-4939745.html) - 08:46 17/09/2025
-- 🤡 [Những tình tiết gây tranh cãi trong phim &#39;Mưa đỏ&#39;](https://vnexpress.net/tinh-tiet-phim-mua-do-vap-phan-ung-4939283.html) - 08:03 17/09/2025
-- 🥰 [Robert Redford - huyền thoại thay đổi điện ảnh Mỹ](https://vnexpress.net/robert-redford-huyen-thoai-thay-doi-dien-anh-my-4939986.html) - 05:31 17/09/2025
-- 🚀 [Tiến Đạt: &#39;Ngọc Sơn truyền cảm hứng cho tôi rap&#39;](https://vnexpress.net/tien-dat-ngoc-son-truyen-cam-hung-cho-toi-rap-4939894.html) - 05:18 17/09/2025
-- 📝 [Jessica Alba quấn quýt người tình trẻ](https://vnexpress.net/jessica-alba-quan-quyt-nguoi-tinh-tre-4940006.html) - 04:17 17/09/2025
-- 🐲 [Dàn sao xem phim Việt đầu tiên về đề tài không tặc](https://vnexpress.net/dan-sao-xem-phim-viet-dau-tien-ve-de-tai-khong-tac-4939998.html) - 01:50 17/09/2025
-- 🎃 [Tài tử Vu Mông Lung tử vong do ngã sau uống rượu](https://vnexpress.net/tai-tu-vu-mong-lung-tu-vong-do-nga-sau-uong-ruou-4939992.html) - 01:31 17/09/2025
-- 🤠 [&#39;Khế ước bán dâu&#39; - phim 18+ về bi kịch làm vợ thời xưa](https://vnexpress.net/giai-tri/phim/thu-vien-phim/khe-uoc-ban-dau-838) - 17:00 16/09/2025
-- 🎭 [&#39;Huyền thoại điện ảnh Mỹ&#39; Robert Redford qua đời](https://vnexpress.net/huyen-thoai-dien-anh-my-robert-redford-qua-doi-4939900.html) - 13:37 16/09/2025
-- 🧰 [Phim &#39;Tử chiến trên không&#39; nhận nhiều lời khen](https://vnexpress.net/phim-tu-chien-tren-khong-nhan-nhieu-loi-khen-4939876.html) - 12:07 16/09/2025
-- 🦍 [Mốt quần ren gây tranh cãi](https://vnexpress.net/mot-quan-ren-gay-tranh-cai-4939815.html) - 12:00 16/09/2025
-- 🌝 [Tình người trong &#39;Sài Gòn bao thương&#39;](https://vnexpress.net/tinh-nguoi-trong-sai-gon-bao-thuong-4938895.html) - 08:38 16/09/2025
-- 🧑‍💻 [Minh tinh &#39;Phong Vân&#39;: Tôi kiệt quệ vì vụ án cưỡng dâm](https://vnexpress.net/minh-tinh-phong-van-toi-kiet-que-vi-vu-an-cuong-dam-4939707.html) - 07:34 16/09/2025
-- 🥸 [Nhan sắc vợ thứ sáu của tỷ phú Larry Ellison](https://vnexpress.net/nhan-sac-vo-thu-sau-cua-ty-phu-larry-ellison-4939549.html) - 05:06 16/09/2025
-- 🔥 [4 tác phẩm về chiến tranh của nhà văn Chu Lai](https://vnexpress.net/4-tac-pham-ve-chien-tranh-cua-nha-van-chu-lai-4939139.html) - 04:57 16/09/2025
-- 🐎 [Thiết kế lụa Việt trên sàn diễn New York](https://vnexpress.net/thiet-ke-lua-viet-tren-san-dien-new-york-4939612.html) - 04:14 16/09/2025
-- 😎 [Diễn viên Quỳnh Lam hẹn hò](https://vnexpress.net/dien-vien-quynh-lam-hen-ho-4939581.html) - 03:55 16/09/2025
-- 🦄 [Nam chính phim võ hiệp trang điểm &#39;căng mọng&#39;](https://vnexpress.net/nam-chinh-phim-vo-hiep-trang-diem-cang-mong-4939513.html) - 02:52 16/09/2025
-- 🌜 [Nhạc sĩ Dương Thụ kể lần nổi giận với Thanh Lam](https://vnexpress.net/nhac-si-duong-thu-ke-lan-noi-gian-voi-thanh-lam-4939361.html) - 02:26 16/09/2025
-- 🚦 [Đỗ Nhật Hoàng &#39;Mưa đỏ&#39;: cảnh quay vượt sông Thạch Hãn là khó nhất](https://vnexpress.net/do-nhat-hoang-mua-do-canh-quay-vuot-song-thach-han-la-kho-nhat-4939324.html) - 17:00 15/09/2025
-- 🧐 [Hồi ức Quảng Trị của người lính ở hai chiến tuyến](https://vnexpress.net/hoi-uc-quang-tri-cua-nguoi-linh-o-hai-chien-tuyen-4939130.html) - 14:55 15/09/2025
-- 🐵 [Trung thu ở Hà Nội hơn 100 năm trước qua ảnh](https://vnexpress.net/trung-thu-o-ha-noi-hon-100-nam-truoc-qua-anh-4939059.html) - 12:25 15/09/2025
-- ⚗️ [Hồ Quang Hiếu đón dâu phong cách miệt vườn](https://vnexpress.net/ho-quang-hieu-don-dau-phong-cach-miet-vuon-4939343.html) - 10:04 15/09/2025
-- 👺 [Bóng hồng phim Lý Tiểu Long hiếm hoi lộ diện](https://vnexpress.net/bong-hong-phim-ly-tieu-long-hiem-hoi-lo-dien-4939255.html) - 09:19 15/09/2025
-- 🌊 [Mai Davika diện đầm xuyên thấu của Lê Thanh Hòa](https://vnexpress.net/mai-davika-dien-dam-xuyen-thau-cua-le-thanh-hoa-4939320.html) - 08:52 15/09/2025
-- 🪜 [Yến Nhi: &#39;Biết ơn mẹ bán vé số, cha làm phụ hồ nuôi tôi&#39;](https://vnexpress.net/yen-nhi-biet-on-me-ban-ve-so-cha-lam-phu-ho-nuoi-toi-4939240.html) - 08:30 15/09/2025
-- 🕴 [10 quy tắc sống của vợ chồng Justin Bieber](https://vnexpress.net/10-quy-tac-song-cua-vo-chong-justin-bieber-4939074.html) - 07:00 15/09/2025
-- 💃 [Thí sinh Top Model bỏ cuộc](https://vnexpress.net/thi-sinh-top-model-bo-cuoc-4939206.html) - 05:46 15/09/2025
-- 🦄 [Quế Anh mặc đầm &#39;Vương miện rực rỡ&#39;](https://vnexpress.net/que-anh-mac-dam-vuong-mien-ruc-ro-4939127.html) - 05:24 15/09/2025
-- ⛽️ [Ivanka Trump mặc váy xẻ ngực tôn dáng](https://vnexpress.net/ivanka-trump-mac-vay-xe-nguc-ton-dang-4939219.html) - 05:13 15/09/2025
-- 😎 [Sao nhí &#39;Adolescence&#39; thắng Emmy](https://vnexpress.net/sao-nhi-adolescence-thang-emmy-4939054.html) - 04:47 15/09/2025
-- 🌊 [Lý Tử Thất như &#39;làn gió thu&#39;](https://vnexpress.net/ly-tu-that-nhu-lan-gio-thu-4939104.html) - 03:51 15/09/2025
-- 🐲 [Nhan sắc đời thường của Hoa hậu Yến Nhi](https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-yen-nhi-4939085.html) - 03:40 15/09/2025
-- 💂 [&#39;Phù thủy nhỏ&#39; Lisa bên dàn sao Emmy](https://vnexpress.net/phu-thuy-nho-lisa-ben-dan-sao-emmy-4939056.html) - 03:12 15/09/2025
-- 🙉 [Người đẹp Đăk Lăk đăng quang Miss Grand Vietnam 2025](https://vnexpress.net/nguoi-dep-dak-lak-dang-quang-miss-grand-vietnam-2025-4938953.html) - 17:11 14/09/2025
-- 💪 [Dàn diễn viên &#39;Mùi ngò gai&#39; sau 20 năm](https://vnexpress.net/dan-dien-vien-mui-ngo-gai-sau-20-nam-4938954.html) - 17:00 14/09/2025
-- 👍 [Trương Mạn Ngọc về nông thôn nuôi gà](https://vnexpress.net/truong-man-ngoc-ve-nong-thon-nuoi-ga-4938919.html) - 12:13 14/09/2025
-- 💪 [&#39;Giấc mơ người luật sư&#39; - góc khuất nghề](https://vnexpress.net/giai-tri/phim/thu-vien-phim/beyond-the-bar-836) - 11:00 14/09/2025
-- 💄 [Phong cách sánh đôi thanh lịch của vợ chồng Ivanka Trump](https://vnexpress.net/phong-cach-sanh-doi-thanh-lich-cua-vo-chong-ivanka-trump-4938849.html) - 08:09 14/09/2025
-- 🦩 [Julia Margaret Cameron - người thay đổi ngành nhiếp ảnh](https://vnexpress.net/julia-margaret-cameron-nguoi-thay-doi-nganh-nhiep-anh-4938176.html) - 07:15 14/09/2025
-- 🥸 [Tác giả 9x viết về mùa hè Cuba](https://vnexpress.net/tac-gia-9x-viet-ve-mua-he-cuba-4936399.html) - 06:11 14/09/2025
-- 🧰 [Đại diện trường nhạc Berklee ngưỡng mộ Trần Mạnh Tuấn](https://vnexpress.net/dai-dien-truong-nhac-berklee-nguong-mo-tran-manh-tuan-4938646.html) - 05:58 14/09/2025
-- 💼 [Đức Phúc tham gia cuộc thi âm nhạc quốc tế Intervision](https://vnexpress.net/duc-phuc-tham-gia-cuoc-thi-am-nhac-quoc-te-intervision-4938835.html) - 04:58 14/09/2025
+- 🌏 [Phim cổ trang để lọt cảnh nam chính đi dép nhựa](https://vnexpress.net/phim-co-trang-de-lot-canh-nam-chinh-di-dep-nhua-4940546.html) - 08:38 18/09/2025
+- 💫 [&#39;Hoa hậu đẹp nhất thế giới&#39; sinh con đầu lòng](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-sinh-con-dau-long-4940608.html) - 07:53 18/09/2025
+- 🌮 [Vẻ đẹp &#39;siêu thực&#39; của Hunter Schafer](https://vnexpress.net/ve-dep-sieu-thuc-cua-hunter-schafer-4939778.html) - 07:40 18/09/2025
+- 🧠 [Victoria Beckham kể chuyện kinh doanh thua lỗ](https://vnexpress.net/victoria-beckham-ke-chuyen-kinh-doanh-thua-lo-4940511.html) - 05:46 18/09/2025
+- 👨‍🏫 [Ngọc Hân sinh con trai đầu lòng](https://vnexpress.net/ngoc-han-sinh-con-trai-dau-long-4940623.html) - 05:13 18/09/2025
+- ⚗️ [NTK làm show về nghệ thuật thêu cung đình Huế](https://vnexpress.net/ntk-lam-show-ve-nghe-thuat-theu-cung-dinh-hue-4940076.html) - 04:45 18/09/2025
+- 😎 [Á hậu Châu Anh được thăng quân hàm](https://vnexpress.net/a-hau-chau-anh-duoc-thang-quan-ham-4940534.html) - 04:31 18/09/2025
+- 🫣 [Mỹ nữ Tân Cương diện mốt khoe nội y](https://vnexpress.net/my-nu-tan-cuong-dien-mot-khoe-noi-y-4940247.html) - 03:32 18/09/2025
+- 🪄 [Dàn &#39;Anh trai say hi&#39; mùa 2 ra mắt](https://vnexpress.net/dan-anh-trai-say-hi-mua-2-ra-mat-4940398.html) - 03:25 18/09/2025
+- 🤓 [Tory Burch ra mắt bộ sưu tập thời trang Xuân Hè 2026](https://vnexpress.net/tory-burch-ra-mat-bo-suu-tap-thoi-trang-xuan-he-2026-4940070.html) - 02:00 18/09/2025
+- 🫶 [Cuộc sống độc thân của Jennifer Aniston](https://vnexpress.net/cuoc-song-doc-than-cua-jennifer-aniston-4939259.html) - 17:00 17/09/2025
+- 🧑‍🏫 [Ly hôn chồng Tây, diễn viên Lan Phương được quyền nuôi 2 con](https://vnexpress.net/ly-hon-chong-tay-dien-vien-lan-phuong-duoc-quyen-nuoi-2-con-4940319.html) - 14:00 17/09/2025
+- 🦄 [Son Ye Jin, Lisa dự thảm đỏ Liên hoan phim Busan](https://vnexpress.net/son-ye-jin-lisa-du-tham-do-lien-hoan-phim-busan-4940364.html) - 13:45 17/09/2025
+- 💫 [JSol diễn cảnh tình cảm với &#39;hot girl 16 triệu fan&#39;](https://vnexpress.net/jsol-dien-canh-tinh-cam-voi-hot-girl-16-trieu-fan-4940166.html) - 13:35 17/09/2025
+- 🎊 [Mỹ nhân &#39;Diệp Vấn&#39; chủ động theo đuổi chồng](https://vnexpress.net/my-nhan-diep-van-chu-dong-theo-duoi-chong-4939823.html) - 13:00 17/09/2025
+- 👹 [Con trai Thái Hòa lần đầu đóng phim](https://vnexpress.net/con-trai-thai-hoa-lan-dau-dong-phim-4939911.html) - 12:15 17/09/2025
+- 💻 [Củng Lợi phá cách với tóc ngắn](https://vnexpress.net/cung-loi-pha-cach-voi-toc-ngan-4940171.html) - 11:23 17/09/2025
+- 🤡 [Sắc vóc cô gái H&#39;rê đoạt á hậu Miss Grand Vietnam](https://vnexpress.net/sac-voc-co-gai-h-re-doat-a-hau-miss-grand-vietnam-4939745.html) - 08:46 17/09/2025
+- 🥰 [Những tình tiết gây tranh cãi trong phim &#39;Mưa đỏ&#39;](https://vnexpress.net/tinh-tiet-phim-mua-do-vap-phan-ung-4939283.html) - 08:03 17/09/2025
+- 🚀 [Robert Redford - huyền thoại thay đổi điện ảnh Mỹ](https://vnexpress.net/robert-redford-huyen-thoai-thay-doi-dien-anh-my-4939986.html) - 05:31 17/09/2025
+- 📝 [Tiến Đạt: &#39;Ngọc Sơn truyền cảm hứng cho tôi rap&#39;](https://vnexpress.net/tien-dat-ngoc-son-truyen-cam-hung-cho-toi-rap-4939894.html) - 05:18 17/09/2025
+- 🐲 [Jessica Alba quấn quýt người tình trẻ](https://vnexpress.net/jessica-alba-quan-quyt-nguoi-tinh-tre-4940006.html) - 04:17 17/09/2025
+- 🎃 [Dàn sao xem phim Việt đầu tiên về đề tài không tặc](https://vnexpress.net/dan-sao-xem-phim-viet-dau-tien-ve-de-tai-khong-tac-4939998.html) - 01:50 17/09/2025
+- 🤠 [Tài tử Vu Mông Lung tử vong do ngã sau uống rượu](https://vnexpress.net/tai-tu-vu-mong-lung-tu-vong-do-nga-sau-uong-ruou-4939992.html) - 01:31 17/09/2025
+- 🎭 [&#39;Khế ước bán dâu&#39; - phim 18+ về bi kịch làm vợ thời xưa](https://vnexpress.net/giai-tri/phim/thu-vien-phim/khe-uoc-ban-dau-838) - 17:00 16/09/2025
+- 🧰 [&#39;Huyền thoại điện ảnh Mỹ&#39; Robert Redford qua đời](https://vnexpress.net/huyen-thoai-dien-anh-my-robert-redford-qua-doi-4939900.html) - 13:37 16/09/2025
+- 🦍 [Phim &#39;Tử chiến trên không&#39; nhận nhiều lời khen](https://vnexpress.net/phim-tu-chien-tren-khong-nhan-nhieu-loi-khen-4939876.html) - 12:07 16/09/2025
+- 🌝 [Mốt quần ren gây tranh cãi](https://vnexpress.net/mot-quan-ren-gay-tranh-cai-4939815.html) - 12:00 16/09/2025
+- 🧑‍💻 [Tình người trong &#39;Sài Gòn bao thương&#39;](https://vnexpress.net/tinh-nguoi-trong-sai-gon-bao-thuong-4938895.html) - 08:38 16/09/2025
+- 🥸 [Minh tinh &#39;Phong Vân&#39;: Tôi kiệt quệ vì vụ án cưỡng dâm](https://vnexpress.net/minh-tinh-phong-van-toi-kiet-que-vi-vu-an-cuong-dam-4939707.html) - 07:34 16/09/2025
+- 🔥 [Nhan sắc vợ thứ sáu của tỷ phú Larry Ellison](https://vnexpress.net/nhan-sac-vo-thu-sau-cua-ty-phu-larry-ellison-4939549.html) - 05:06 16/09/2025
+- 🐎 [4 tác phẩm về chiến tranh của nhà văn Chu Lai](https://vnexpress.net/4-tac-pham-ve-chien-tranh-cua-nha-van-chu-lai-4939139.html) - 04:57 16/09/2025
+- 😎 [Thiết kế lụa Việt trên sàn diễn New York](https://vnexpress.net/thiet-ke-lua-viet-tren-san-dien-new-york-4939612.html) - 04:14 16/09/2025
+- 🦄 [Diễn viên Quỳnh Lam hẹn hò](https://vnexpress.net/dien-vien-quynh-lam-hen-ho-4939581.html) - 03:55 16/09/2025
+- 🌜 [Nam chính phim võ hiệp trang điểm &#39;căng mọng&#39;](https://vnexpress.net/nam-chinh-phim-vo-hiep-trang-diem-cang-mong-4939513.html) - 02:52 16/09/2025
+- 🚦 [Nhạc sĩ Dương Thụ kể lần nổi giận với Thanh Lam](https://vnexpress.net/nhac-si-duong-thu-ke-lan-noi-gian-voi-thanh-lam-4939361.html) - 02:26 16/09/2025
+- 🧐 [Đỗ Nhật Hoàng &#39;Mưa đỏ&#39;: cảnh quay vượt sông Thạch Hãn là khó nhất](https://vnexpress.net/do-nhat-hoang-mua-do-canh-quay-vuot-song-thach-han-la-kho-nhat-4939324.html) - 17:00 15/09/2025
+- 🐵 [Hồi ức Quảng Trị của người lính ở hai chiến tuyến](https://vnexpress.net/hoi-uc-quang-tri-cua-nguoi-linh-o-hai-chien-tuyen-4939130.html) - 14:55 15/09/2025
+- ⚗️ [Trung thu ở Hà Nội hơn 100 năm trước qua ảnh](https://vnexpress.net/trung-thu-o-ha-noi-hon-100-nam-truoc-qua-anh-4939059.html) - 12:25 15/09/2025
+- 👺 [Hồ Quang Hiếu đón dâu phong cách miệt vườn](https://vnexpress.net/ho-quang-hieu-don-dau-phong-cach-miet-vuon-4939343.html) - 10:04 15/09/2025
+- 🌊 [Bóng hồng phim Lý Tiểu Long hiếm hoi lộ diện](https://vnexpress.net/bong-hong-phim-ly-tieu-long-hiem-hoi-lo-dien-4939255.html) - 09:19 15/09/2025
+- 🪜 [Mai Davika diện đầm xuyên thấu của Lê Thanh Hòa](https://vnexpress.net/mai-davika-dien-dam-xuyen-thau-cua-le-thanh-hoa-4939320.html) - 08:52 15/09/2025
+- 🕴 [Yến Nhi: &#39;Biết ơn mẹ bán vé số, cha làm phụ hồ nuôi tôi&#39;](https://vnexpress.net/yen-nhi-biet-on-me-ban-ve-so-cha-lam-phu-ho-nuoi-toi-4939240.html) - 08:30 15/09/2025
+- 💃 [10 quy tắc sống của vợ chồng Justin Bieber](https://vnexpress.net/10-quy-tac-song-cua-vo-chong-justin-bieber-4939074.html) - 07:00 15/09/2025
+- 🦄 [Thí sinh Top Model bỏ cuộc](https://vnexpress.net/thi-sinh-top-model-bo-cuoc-4939206.html) - 05:46 15/09/2025
+- ⛽️ [Quế Anh mặc đầm &#39;Vương miện rực rỡ&#39;](https://vnexpress.net/que-anh-mac-dam-vuong-mien-ruc-ro-4939127.html) - 05:24 15/09/2025
+- 😎 [Ivanka Trump mặc váy xẻ ngực tôn dáng](https://vnexpress.net/ivanka-trump-mac-vay-xe-nguc-ton-dang-4939219.html) - 05:13 15/09/2025
+- 🌊 [Sao nhí &#39;Adolescence&#39; thắng Emmy](https://vnexpress.net/sao-nhi-adolescence-thang-emmy-4939054.html) - 04:47 15/09/2025
+- 🐲 [Lý Tử Thất như &#39;làn gió thu&#39;](https://vnexpress.net/ly-tu-that-nhu-lan-gio-thu-4939104.html) - 03:51 15/09/2025
+- 💂 [Nhan sắc đời thường của Hoa hậu Yến Nhi](https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-yen-nhi-4939085.html) - 03:40 15/09/2025
+- 🙉 [&#39;Phù thủy nhỏ&#39; Lisa bên dàn sao Emmy](https://vnexpress.net/phu-thuy-nho-lisa-ben-dan-sao-emmy-4939056.html) - 03:12 15/09/2025
+- 💪 [Người đẹp Đăk Lăk đăng quang Miss Grand Vietnam 2025](https://vnexpress.net/nguoi-dep-dak-lak-dang-quang-miss-grand-vietnam-2025-4938953.html) - 17:11 14/09/2025
+- 👍 [Dàn diễn viên &#39;Mùi ngò gai&#39; sau 20 năm](https://vnexpress.net/dan-dien-vien-mui-ngo-gai-sau-20-nam-4938954.html) - 17:00 14/09/2025
+- 💪 [Trương Mạn Ngọc về nông thôn nuôi gà](https://vnexpress.net/truong-man-ngoc-ve-nong-thon-nuoi-ga-4938919.html) - 12:13 14/09/2025
+- 💄 [&#39;Giấc mơ người luật sư&#39; - góc khuất nghề](https://vnexpress.net/giai-tri/phim/thu-vien-phim/beyond-the-bar-836) - 11:00 14/09/2025
+- 🦩 [Phong cách sánh đôi thanh lịch của vợ chồng Ivanka Trump](https://vnexpress.net/phong-cach-sanh-doi-thanh-lich-cua-vo-chong-ivanka-trump-4938849.html) - 08:09 14/09/2025
+- 🥸 [Julia Margaret Cameron - người thay đổi ngành nhiếp ảnh](https://vnexpress.net/julia-margaret-cameron-nguoi-thay-doi-nganh-nhiep-anh-4938176.html) - 07:15 14/09/2025
+- 🧰 [Tác giả 9x viết về mùa hè Cuba](https://vnexpress.net/tac-gia-9x-viet-ve-mua-he-cuba-4936399.html) - 06:11 14/09/2025
+- 💼 [Đại diện trường nhạc Berklee ngưỡng mộ Trần Mạnh Tuấn](https://vnexpress.net/dai-dien-truong-nhac-berklee-nguong-mo-tran-manh-tuan-4938646.html) - 05:58 14/09/2025
 - 🧑‍💻 [Lý do &#39;Shin - Cậu bé bút chì&#39; thu hút khán giả](https://vnexpress.net/ly-do-shin-cau-be-but-chi-thu-hut-khan-gia-4931519.html) - 22:00 13/09/2025<!-- vnexpress-giai-tri:END -->
