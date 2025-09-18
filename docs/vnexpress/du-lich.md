@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Nhiều khách sạn, homstay ở Tây Bắc &#39;cháy&#39; phòng dịp mùa vàng](https://vnexpress.net/nhieu-khach-san-homstay-o-tay-bac-chay-phong-dip-mua-vang-4940168.html) - 22:00 18/09/2025
+- 💂 [Nhiều khách sạn, homestay ở Tây Bắc &#39;cháy&#39; phòng dịp mùa vàng](https://vnexpress.net/nhieu-khach-san-homestay-o-tay-bac-chay-phong-dip-mua-vang-4940168.html) - 22:00 18/09/2025
 - 🪄 [Cuộc đua nước rút của du lịch Việt đón 25 triệu khách quốc tế](https://vnexpress.net/cuoc-dua-nuoc-rut-cua-du-lich-viet-don-25-trieu-khach-quoc-te-4940670.html) - 12:33 18/09/2025
 - 🦅 [Gọi tên đặc sản &#39;gây thèm&#39; của miền Tây mùa nước nổi](https://vnexpress.net/goi-ten-dac-san-gay-them-cua-mien-tay-mua-nuoc-noi-4940268.html) - 11:00 18/09/2025
 - 🕴 [Những khách sạn kỳ quặc nhưng hút khách ở châu Âu](https://vnexpress.net/nhung-khach-san-ky-quac-nhung-hut-khach-o-chau-au-4940383.html) - 07:00 18/09/2025
