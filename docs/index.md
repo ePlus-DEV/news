@@ -72,8 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Máy bay hạ cánh khẩn cấp tại Thổ Nhĩ Kỳ để cứu hành khách](https://vnexpress.net/may-bay-ha-canh-khan-cap-tai-tho-nhi-ky-de-cuu-hanh-khach-4940522.html) - 02:53 18/09/2025
 - 💪 [Sếp doanh nghiệp Nhà nước có thể nhận lương cao nhất 320 triệu đồng một tháng](https://vnexpress.net/sep-doanh-nghiep-nha-nuoc-co-the-nhan-luong-cao-nhat-320-trieu-dong-mot-thang-4940490.html) - 02:46 18/09/2025
 - 🧑‍🏫 [Khi nào nhìn số 2 mà lại gọi là 10?](https://vnexpress.net/cau-do-tieng-viet-do-chu-khi-nao-nhin-so-2-ma-lai-goi-la-10-4940368.html) - 02:41 18/09/2025
-- 🎓 [VinFast đặt mục tiêu bán 1,5 triệu xe máy điện năm 2026](https://vnexpress.net/vinfast-dat-muc-tieu-ban-1-5-trieu-xe-may-dien-nam-2026-4940407.html) - 02:30 18/09/2025
-- 💫 [Trò đạp cửa quậy nhà dân ở quận Cam gây lo ngại](https://vnexpress.net/tro-dap-cua-quay-nha-dan-o-quan-cam-gay-lo-ngai-4940466.html) - 02:28 18/09/2025<!-- vnexpress:END -->
+- 🎓 [VinFast đặt mục tiêu bán 1,5 triệu xe máy điện năm 2026](https://vnexpress.net/vinfast-dat-muc-tieu-ban-1-5-trieu-xe-may-dien-nam-2026-4940407.html) - 02:30 18/09/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
