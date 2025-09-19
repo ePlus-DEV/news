@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Tổng thống Mỹ điện đàm với Chủ tịch Trung Quốc, bàn nhiều vấn đề quan trọng](https://dantri.com.vn/the-gioi/tong-thong-my-dien-dam-voi-chu-tich-trung-quoc-ban-nhieu-van-de-quan-trong-20250919230237445.htm) - 16:03 19/09/2025
+- 🌋 [Lãnh đạo Mỹ - Trung duyệt thỏa thuận về TikTok, sắp gặp nhau tại APEC](https://dantri.com.vn/the-gioi/lanh-dao-my-trung-duyet-thoa-thuan-ve-tiktok-sap-gap-nhau-tai-apec-20250919230237445.htm) - 16:03 19/09/2025
 - 🎬 [Nga cảnh báo cứng rắn liên minh cấp vũ khí cho Ukraine](https://dantri.com.vn/the-gioi/nga-canh-bao-cung-ran-lien-minh-cap-vu-khi-cho-ukraine-20250919212550232.htm) - 14:34 19/09/2025
 - 🧰 [Ukraine tiết lộ vấn đề hiếm hoi đàm phán với Nga](https://dantri.com.vn/the-gioi/ukraine-tiet-lo-van-de-hiem-hoi-dam-phan-voi-nga-20250919184155989.htm) - 12:21 19/09/2025
 - 🌋 [Ukraine tăng tốc phản công, phá thế siết vòng vây của Nga](https://dantri.com.vn/the-gioi/ukraine-tang-toc-phan-cong-pha-the-siet-vong-vay-cua-nga-20250919175415967.htm) - 11:21 19/09/2025
