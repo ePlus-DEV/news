@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [&quot;Mưa đỏ&quot; mất ngôi thống trị phòng vé về tay phim &quot;Tử chiến trên không&quot;](https://dantri.com.vn/giai-tri/mua-do-mat-ngoi-thong-tri-phong-ve-ve-tay-phim-tu-chien-tren-khong-20250919142902282.htm) - 10:32 19/09/2025
+- 🤩 [&quot;Mưa đỏ&quot; tạm mất ngôi thống trị phòng vé về tay phim &quot;Tử chiến trên không&quot;](https://dantri.com.vn/giai-tri/mua-do-tam-mat-ngoi-thong-tri-phong-ve-ve-tay-phim-tu-chien-tren-khong-20250919142902282.htm) - 10:32 19/09/2025
 - 🔥 [BLV Tạ Biên Cương xin nghỉ việc tại VTV sau gần 20 năm gắn bó](https://dantri.com.vn/giai-tri/blv-ta-bien-cuong-xin-nghi-viec-tai-vtv-sau-gan-20-nam-gan-bo-20250919144901381.htm) - 07:56 19/09/2025
 - 🚀 [Xôn xao clip mỹ nam Trung Quốc kêu cứu thảm thiết trước khi tử vong](https://dantri.com.vn/giai-tri/xon-xao-clip-my-nam-trung-quoc-keu-cuu-tham-thiet-truoc-khi-tu-vong-20250919105415790.htm) - 06:44 19/09/2025
 - 🔥 [Việt Hoa tuổi 29: Bật mí về nguyên tắc hôn nhân, đợi chờ một đám cưới](https://dantri.com.vn/giai-tri/viet-hoa-tuoi-29-bat-mi-ve-nguyen-tac-hon-nhan-doi-cho-mot-dam-cuoi-20250917151533743.htm) - 05:30 19/09/2025
