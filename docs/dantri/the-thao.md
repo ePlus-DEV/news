@@ -6,9 +6,9 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Đồng sở hữu Man Utd họp khẩn với HLV Amorim](https://dantri.com.vn/the-thao/dong-so-huu-man-utd-hop-khan-voi-hlv-amorim-20250919153028022.htm) - 09:36 19/09/2025
 - 💯 [Pickleball mang đến nhiều lợi ích to lớn cho phái đẹp](https://dantri.com.vn/the-thao/pickleball-mang-den-nhieu-loi-ich-to-lon-cho-phai-dep-20250919153053575.htm) - 08:38 19/09/2025
-- ⛽️ [Tuyển futsal Việt Nam quyết tâm vượt qua vòng loại giải châu Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-quyet-tam-vuot-qua-vong-loai-giai-chau-a-20250919143504661.htm) - 07:37 19/09/2025
-- 💃 [CLB Công an Hà Nội và các đội Đông Nam Á thi đấu ra sao ở Cúp C2 châu Á?](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-va-cac-doi-dong-nam-a-thi-dau-ra-sao-o-cup-c2-chau-a-20250919111917753.htm) - 07:30 19/09/2025
-- 🌈 [CĐV Man Utd muốn HLV vô cùng bất ngờ thay thế Ruben Amorim](https://dantri.com.vn/the-thao/cdv-man-utd-muon-hlv-vo-cung-bat-ngo-thay-the-ruben-amorim-20250919142455380.htm) - 07:25 19/09/2025
+- ⛽️ [CĐV Man Utd muốn HLV vô cùng bất ngờ thay thế Ruben Amorim](https://dantri.com.vn/the-thao/cdv-man-utd-muon-hlv-vo-cung-bat-ngo-thay-the-ruben-amorim-20250919142455380.htm) - 08:25 19/09/2025
+- 💃 [Tuyển futsal Việt Nam quyết tâm vượt qua vòng loại giải châu Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-quyet-tam-vuot-qua-vong-loai-giai-chau-a-20250919143504661.htm) - 07:37 19/09/2025
+- 🌈 [CLB Công an Hà Nội và các đội Đông Nam Á thi đấu ra sao ở Cúp C2 châu Á?](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-va-cac-doi-dong-nam-a-thi-dau-ra-sao-o-cup-c2-chau-a-20250919111917753.htm) - 07:30 19/09/2025
 - 🦅 [HLV đội Trung Quốc ngạc nhiên trước sức mạnh của CLB Công an Hà Nội](https://dantri.com.vn/the-thao/hlv-doi-trung-quoc-ngac-nhien-truoc-suc-manh-cua-clb-cong-an-ha-noi-20250919105624774.htm) - 03:56 19/09/2025
 - 🌝 [Báo Trung Quốc nói gì khi đội nhà ẩu đả với CLB Công an Hà Nội?](https://dantri.com.vn/the-thao/bao-trung-quoc-noi-gi-khi-doi-nha-au-da-voi-clb-cong-an-ha-noi-20250919103111117.htm) - 03:31 19/09/2025
 - 🚀 [Rashford tỏa sáng rực rỡ ở Barcelona, CĐV Man Utd đòi sa thải HLV Amorim](https://dantri.com.vn/the-thao/rashford-toa-sang-ruc-ro-o-barcelona-cdv-man-utd-doi-sa-thai-hlv-amorim-20250919101245914.htm) - 03:19 19/09/2025
