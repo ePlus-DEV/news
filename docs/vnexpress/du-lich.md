@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Xe xôi 7 màu nổi tiếng Buôn Ma Thuột &quot;xuống phố&quot; Sài Gòn](https://vnexpress.net/xe-xoi-7-mau-noi-tieng-buon-ma-thuot-xuong-pho-sai-gon-4940846.html) - 22:00 19/09/2025
+- 💂 [Xe xôi 7 màu nổi tiếng Buôn Ma Thuột &#39;xuống phố&#39; TP HCM](https://vnexpress.net/xe-xoi-7-mau-noi-tieng-buon-ma-thuot-xuong-pho-tp-hcm-4940846.html) - 22:00 19/09/2025
 - 🪄 [Du khách đổ đến chụp ảnh cùng cụ bà 94 tuổi](https://vnexpress.net/du-khach-do-den-chup-anh-cung-cu-ba-94-tuoi-4940986.html) - 17:00 19/09/2025
 - 🦅 [Miễn visa - &#39;chìa khóa&#39; giúp Trung Quốc hút khách quốc tế](https://vnexpress.net/mien-visa-chia-khoa-giup-trung-quoc-hut-khach-quoc-te-4941217.html) - 12:30 19/09/2025
 - 🕴 [48 giờ nghỉ dưỡng giữa mùa vàng Mù Cang Chải](https://vnexpress.net/48-gio-nghi-duong-giua-mua-vang-mu-cang-chai-4940492.html) - 11:00 19/09/2025
