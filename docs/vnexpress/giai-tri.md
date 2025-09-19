@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hậu trường kỹ xảo trong &#39;Mưa đỏ&#39;](https://vnexpress.net/hau-truong-ky-xao-trong-mua-do-4940469.html) - 17:00 18/09/2025
+- 🌏 [Ca sĩ Khánh Linh: &#39;Chồng giúp tôi vững vàng hơn&#39;](https://vnexpress.net/ca-si-khanh-linh-chong-giup-toi-vung-vang-hon-4939825.html) - 23:15 18/09/2025
 - 💫 [Ưng Hoàng Phúc lập nhóm nhạc &#39;Ngũ hổ tướng&#39;](https://vnexpress.net/ung-hoang-phuc-lap-nhom-nhac-ngu-ho-tuong-4940835.html) - 15:17 18/09/2025
 - 🌮 [&#39;Sóng đồng bằng&#39; - vĩnh cửu tình yêu](https://vnexpress.net/song-dong-bang-vinh-cuu-tinh-yeu-4940829.html) - 14:41 18/09/2025
 - 🧠 [Thái Hòa: &#39;Tôi thương con trai khi đóng Tử chiến trên không&#39;](https://vnexpress.net/thai-hoa-toi-thuong-con-trai-khi-dong-tu-chien-tren-khong-4939159.html) - 12:30 18/09/2025
