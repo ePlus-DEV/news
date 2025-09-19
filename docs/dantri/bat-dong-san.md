@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Ô tô, cò đất nườm nượp đổ về làng quê trong cơn &quot;sốt&quot; đất](https://dantri.com.vn/bat-dong-san/o-to-co-dat-nuom-nuop-do-ve-lang-que-trong-con-sot-dat-20250919175402163.htm) - 12:31 19/09/2025
+- 🌏 [Ô tô, môi giới nườm nượp đổ về làng quê trong cơn &quot;sốt&quot; đất](https://dantri.com.vn/bat-dong-san/o-to-moi-gioi-nuom-nuop-do-ve-lang-que-trong-con-sot-dat-20250919175402163.htm) - 12:31 19/09/2025
 - 👹 [Masteri Sky Quarter mang mô hình MultiLex đến Wonder City, Hà Nội](https://dantri.com.vn/bat-dong-san/masteri-sky-quarter-mang-mo-hinh-multilex-den-wonder-city-ha-noi-20250919174113158.htm) - 11:00 19/09/2025
 - 💡 [Bộ Xây dựng nói không nên lo ngại khi 26 năm thu nhập mới mua được chung cư](https://dantri.com.vn/bat-dong-san/bo-xay-dung-noi-khong-nen-lo-ngai-khi-26-nam-thu-nhap-moi-mua-duoc-chung-cu-20250919142258012.htm) - 07:37 19/09/2025
 - 🌋 [Hà Tĩnh chấn chỉnh tình trạng &quot;thổi giá đất&quot; sau phản ánh của Dân trí](https://dantri.com.vn/bat-dong-san/ha-tinh-chan-chinh-tinh-trang-thoi-gia-dat-sau-phan-anh-cua-dan-tri-20250919102157347.htm) - 07:11 19/09/2025
