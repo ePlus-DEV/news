@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Roger Federer hé lộ khả năng tái đấu Rafael Nadal](https://dantri.com.vn/the-thao/roger-federer-he-lo-kha-nang-tai-dau-rafael-nadal-20250919202118027.htm) - 13:21 19/09/2025
 - 💯 [Cầu thủ gốc Việt đắt giá nhất thế giới làm nên lịch sử ở Champions League](https://dantri.com.vn/the-thao/cau-thu-goc-viet-dat-gia-nhat-the-gioi-lam-nen-lich-su-o-champions-league-20250919200313784.htm) - 13:03 19/09/2025
-- ⛽️ [Hotgirl cầu lông Thùy Linh đạt thứ hạng cao chưa từng thấy](https://dantri.com.vn/the-thao/hotgirl-cau-long-thuy-linh-dat-thu-hang-cao-chua-tung-thay-20250919190407334.htm) - 12:04 19/09/2025
+- ⛽️ [Tay vợt cầu lông Thùy Linh đạt thứ hạng cao chưa từng thấy](https://dantri.com.vn/the-thao/tay-vot-cau-long-thuy-linh-dat-thu-hang-cao-chua-tung-thay-20250919190407334.htm) - 12:04 19/09/2025
 - 💃 [Đồng sở hữu Man Utd họp khẩn với HLV Amorim](https://dantri.com.vn/the-thao/dong-so-huu-man-utd-hop-khan-voi-hlv-amorim-20250919153028022.htm) - 09:36 19/09/2025
 - 🌈 [Pickleball mang đến nhiều lợi ích to lớn cho phái đẹp](https://dantri.com.vn/the-thao/pickleball-mang-den-nhieu-loi-ich-to-lon-cho-phai-dep-20250919153053575.htm) - 08:38 19/09/2025
 - 🦅 [CĐV Man Utd muốn HLV vô cùng bất ngờ thay thế Ruben Amorim](https://dantri.com.vn/the-thao/cdv-man-utd-muon-hlv-vo-cung-bat-ngo-thay-the-ruben-amorim-20250919142455380.htm) - 08:25 19/09/2025
