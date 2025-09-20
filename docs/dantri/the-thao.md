@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Futsal Việt Nam 6-1 Hong Kong &lpar;hiệp 2&rpar;: Không thể chống nổi](https://dantri.com.vn/the-thao/futsal-viet-nam-6-1-hong-kong-hiep-2-khong-the-chong-noi-20250920141303988.htm) - 07:14 20/09/2025
-- 💯 [HLV Amorim tuyên bố bất ngờ sau khi họp khẩn với sếp lớn Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-tuyen-bo-bat-ngo-sau-khi-hop-khan-voi-sep-lon-man-utd-20250920140200130.htm) - 07:02 20/09/2025
+- 🎡 [HLV Amorim tuyên bố bất ngờ sau khi họp khẩn với sếp lớn Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-tuyen-bo-bat-ngo-sau-khi-hop-khan-voi-sep-lon-man-utd-20250920140200130.htm) - 08:02 20/09/2025
+- 💯 [Tuyển futsal Việt Nam đại thắng 9-1, rộng cửa tham dự cúp châu Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-dai-thang-9-1-rong-cua-tham-du-cup-chau-a-20250920141303988.htm) - 07:14 20/09/2025
 - ⛽️ [Báo Trung Quốc nhận xét thẳng thắn về sức mạnh của tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-nhan-xet-thang-than-ve-suc-manh-cua-tuyen-futsal-viet-nam-20250920103453880.htm) - 03:35 20/09/2025
 - 💃 [Tiger Street Football 2025 tại Nha Trang: Nơi bản lĩnh tiếp lửa đam mê bóng đá](https://dantri.com.vn/the-thao/tiger-street-football-2025-tai-nha-trang-noi-ban-linh-tiep-lua-dam-me-bong-da-20250920095541027.htm) - 03:28 20/09/2025
 - 🌈 [Nhận định Man Utd - Chelsea &lpar;23h30, 20/9&rpar;: Giới hạn cuối cùng cho Amorim?](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-chelsea-23h30-209-gioi-han-cuoi-cung-cho-amorim-20250920100321276.htm) - 03:03 20/09/2025
