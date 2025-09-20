@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd - Chelsea: Baryindir tiếp tục được Amorim tin tưởng](https://dantri.com.vn/the-thao/man-utd-chelsea-baryindir-tiep-tuc-duoc-amorim-tin-tuong-20250920230415723.htm) - 16:04 20/09/2025
+- 🎡 [Man Utd 1-0 Chelsea &lpar;hiệp 1&rpar;: Fernandes mở tỷ số](https://dantri.com.vn/the-thao/man-utd-1-0-chelsea-hiep-1-fernandes-mo-ty-so-20250920230415723.htm) - 16:04 20/09/2025
 - 💯 [Tuấn Hải ghi bàn, Hà Nội FC vẫn hòa thất vọng trước Thể Công Viettel](https://dantri.com.vn/the-thao/tuan-hai-ghi-ban-ha-noi-fc-van-hoa-that-vong-truoc-the-cong-viettel-20250920214900423.htm) - 14:57 20/09/2025
 - ⛽️ [Huyền thoại John McEnroe dành lời khen đặc biệt cho Alcaraz](https://dantri.com.vn/the-thao/huyen-thoai-john-mcenroe-danh-loi-khen-dac-biet-cho-alcaraz-20250920210724350.htm) - 14:07 20/09/2025
 - 💃 [4 đội bóng bất phân thắng bại trong hai trận đấu sớm V-League](https://dantri.com.vn/the-thao/4-doi-bong-bat-phan-thang-bai-trong-hai-tran-dau-som-v-league-20250920204733911.htm) - 13:51 20/09/2025
