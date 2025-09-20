@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Chủ tịch HĐQT Agribank Nguyễn Thế Bình bị truy nã](https://vnexpress.net/cuu-chu-tich-hdqt-agribank-nguyen-the-binh-bi-truy-na-4941372.html) - 03:50 20/09/2025
+- 😎 [Cựu chủ tịch ngân hàng Nguyễn Thế Bình bị truy nã](https://vnexpress.net/cuu-chu-tich-ngan-hang-nguyen-the-binh-bi-truy-na-4941372.html) - 03:50 20/09/2025
 - 🥰 [Thanh niên đánh người &#39;sau cái chỉ tay của tổng tài&#39; bị bắt](https://vnexpress.net/thanh-nien-danh-nguoi-sau-cai-chi-tay-cua-tong-tai-bi-bat-4941381.html) - 03:08 20/09/2025
 - 🎓 [Nữ Việt kiều giúp đại gia Đinh Trường Chinh sang tay 4 khu đất &#39;vàng&#39; thế nào](https://vnexpress.net/nu-viet-kieu-giup-dai-gia-dinh-truong-chinh-sang-tay-4-khu-dat-vang-the-nao-4940997.html) - 00:00 20/09/2025
 - 🤓 [Phi vụ chi hơn 45 tỷ đồng &#39;bôi trơn&#39; của Giám đốc PPG Holdings](https://vnexpress.net/phi-vu-chi-hon-45-ty-dong-boi-tron-cua-giam-doc-ppg-holdings-4941289.html) - 17:12 19/09/2025
