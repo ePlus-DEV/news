@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Futsal Việt Nam 0-0 Hong Kong &lpar;hiệp 1&rpar;: Chiến thắng ngày ra quân](https://dantri.com.vn/the-thao/futsal-viet-nam-0-0-hong-kong-hiep-1-chien-thang-ngay-ra-quan-20250920141303988.htm) - 07:14 20/09/2025
+- 🎡 [Futsal Việt Nam 6-1 Hong Kong &lpar;hiệp 2&rpar;: Không thể chống nổi](https://dantri.com.vn/the-thao/futsal-viet-nam-6-1-hong-kong-hiep-2-khong-the-chong-noi-20250920141303988.htm) - 07:14 20/09/2025
 - 💯 [HLV Amorim tuyên bố bất ngờ sau khi họp khẩn với sếp lớn Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-tuyen-bo-bat-ngo-sau-khi-hop-khan-voi-sep-lon-man-utd-20250920140200130.htm) - 07:02 20/09/2025
 - ⛽️ [Báo Trung Quốc nhận xét thẳng thắn về sức mạnh của tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-nhan-xet-thang-than-ve-suc-manh-cua-tuyen-futsal-viet-nam-20250920103453880.htm) - 03:35 20/09/2025
 - 💃 [Tiger Street Football 2025 tại Nha Trang: Nơi bản lĩnh tiếp lửa đam mê bóng đá](https://dantri.com.vn/the-thao/tiger-street-football-2025-tai-nha-trang-noi-ban-linh-tiep-lua-dam-me-bong-da-20250920095541027.htm) - 03:28 20/09/2025
