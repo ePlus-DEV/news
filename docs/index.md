@@ -518,7 +518,7 @@ tiềm năng phát triển cảng biển](https://nld.com.vn/chu-tich-ubnd-tp-hc
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp vòng 5 Giải Ngoại hạng Anh: Man United đối đầu Chelsea](https://muctim.tuoitre.vn/truc-tiep-vong-5-giai-ngoai-hang-anh-man-united-doi-dau-chelsea-101250920183428001.htm) - 16:00 20/09/2025
+- 🤔 [Trực tiếp Giải ngoại hạng Anh: Man United đấu Chelsea 2-0 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-5-giai-ngoai-hang-anh-man-united-doi-dau-chelsea-101250920183428001.htm) - 16:00 20/09/2025
 - 🥷 [Vì sao chuyện ngủ đúng giờ tưởng đơn giản mà khó thực hiện?](https://muctim.tuoitre.vn/vi-sao-chuyen-ngu-dung-gio-tuong-don-gian-ma-kho-thuc-hien-101250917234903279.htm) - 14:10 20/09/2025
 - 🤖 [Inter Miami - DC United: Lịch trực tiếp, đội hình dự kiến](https://muctim.tuoitre.vn/inter-miami-dc-united-lich-truc-tiep-doi-hinh-du-kien-101250920175004883.htm) - 12:12 20/09/2025
 - 🤓 [Teen Trường THPT Trưng Vương cùng nhau tạo nên ‘khởi đầu mới’ tại trại chào đón học sinh khối 10](https://muctim.tuoitre.vn/teen-truong-thpt-trung-vuong-cung-nhau-tao-nen-khoi-dau-moi-tai-trai-chao-don-hoc-sinh-khoi-10-101250920170459302.htm) - 11:54 20/09/2025
