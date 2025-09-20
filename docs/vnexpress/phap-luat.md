@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nữ Việt kiều giúp đại gia Đinh Trường Chinh sang tay 4 khu đất &#39;vàng&#39; thế nào](https://vnexpress.net/nu-viet-kieu-giup-dai-gia-dinh-truong-chinh-sang-tay-4-khu-dat-vang-the-nao-4940997.html) - 00:00 20/09/2025
-- 🥰 [Phi vụ chi 45,5 tỷ đồng &#39;bôi trơn&#39; của đại gia bất động sản](https://vnexpress.net/phi-vu-chi-45-5-ty-dong-boi-tron-cua-dai-gia-bat-dong-san-4941289.html) - 17:12 19/09/2025
+- 🥰 [Phi vụ chi hơn 45 tỷ đồng &#39;bôi trơn&#39; của Giám đốc PPG Holdings](https://vnexpress.net/phi-vu-chi-hon-45-ty-dong-boi-tron-cua-giam-doc-ppg-holdings-4941289.html) - 17:12 19/09/2025
 - 🎓 [Chủ hụi chiếm đoạt 117 tỷ đồng của hàng trăm người vùng quê](https://vnexpress.net/chu-hui-chiem-doat-117-ty-dong-cua-hang-tram-nguoi-vung-que-4941264.html) - 17:00 19/09/2025
 - 🤓 [Kế hoạch phóng hỏa để cướp con của cô em họ bất thường](https://vnexpress.net/am-muu-phong-hoa-de-cuop-con-cua-co-em-ho-ky-quac-4941257.html) - 17:00 19/09/2025
 - 🎊 [Tạo trang web giả, lừa nhà đầu tư tiền ảo](https://vnexpress.net/tao-trang-web-gia-lua-nha-dau-tu-tien-ao-4941239.html) - 12:34 19/09/2025
