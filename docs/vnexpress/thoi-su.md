@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhân viên cứu thanh niên ngã trên đường ray khi tàu đang lao tới](https://vnexpress.net/nhan-vien-cuu-thanh-nien-nga-tren-duong-ray-khi-tau-dang-lao-toi-4941728.html) - 09:34 21/09/2025
+- 🦒 [Nhân viên cứu thanh niên ngã trên đường ray khi tàu lao tới](https://vnexpress.net/nhan-vien-cuu-thanh-nien-nga-tren-duong-ray-khi-tau-lao-toi-4941728.html) - 09:34 21/09/2025
 - 🤓 [Hai anh em tử vong dưới mương ở TP HCM](https://vnexpress.net/hai-anh-em-tu-vong-duoi-muong-o-tp-hcm-4941706.html) - 07:45 21/09/2025
 - ⚗️ [Từ vỡ nợ thành chủ trang trại ốc bươu](https://vnexpress.net/tu-vo-no-thanh-chu-trang-trai-oc-buou-4941668.html) - 07:23 21/09/2025
 - 🌊 [TP HCM sắp mở làn riêng cho xe đạp trên đại lộ Mai Chí Thọ](https://vnexpress.net/tp-hcm-sap-mo-lan-rieng-cho-xe-dap-tren-dai-lo-mai-chi-tho-4941683.html) - 05:50 21/09/2025
