@@ -45,7 +45,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Tiêu thụ căn hộ khu vực Bình Dương cũ vượt vùng lõi TP HCM](https://vnexpress.net/tieu-thu-can-ho-khu-vuc-binh-duong-cu-vuot-vung-loi-tp-hcm-4941200.html) - 02:54 21/09/2025
 - 🎊 [Chùa nào có tượng Phật nằm lớn nhất Việt Nam?](https://vnexpress.net/chua-nao-co-tuong-phat-nam-lon-nhat-viet-nam-4941579.html) - 02:52 21/09/2025
 - ⚗️ [Ăn hết 5,5 kg sầu riêng do bị từ chối mang lên máy bay](https://vnexpress.net/an-het-5-5-kg-sau-rieng-do-bi-tu-choi-mang-len-may-bay-4941618.html) - 02:52 21/09/2025
-- 🫣 [Ba mẹ con tử vong khi bị ôtô hất văng](https://vnexpress.net/ba-me-con-tu-vong-khi-bi-oto-hat-vang-4941621.html) - 02:33 21/09/2025
+- 🫣 [Ba mẹ con tử vong sau tai nạn, tài xế ôtô nghi say xỉn](https://vnexpress.net/ba-me-con-tu-vong-sau-tai-nan-tai-xe-oto-nghi-say-xin-4941621.html) - 02:33 21/09/2025
 - 👨‍🏫 [Vì sao suy nghĩ tiêu cực tăng nguy cơ mắc zona thần kinh?](https://vnexpress.net/vi-sao-suy-nghi-tieu-cuc-tang-nguy-co-mac-zona-than-kinh-4941560.html) - 02:30 21/09/2025
 - 🐻 [Chồng chỉ nghe lời mẹ, không quan tâm tôi nghĩ gì](https://vnexpress.net/chong-chi-nghe-loi-me-khong-quan-tam-toi-nghi-gi-4941554.html) - 02:26 21/09/2025
 - 😺 [Chủ tịch nước Lương Cường lên đường công tác ở Mỹ](https://vnexpress.net/chu-tich-nuoc-luong-cuong-len-duong-cong-tac-o-my-4941615.html) - 02:25 21/09/2025
@@ -75,9 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Các công ty bảo hiểm đang đầu tư cổ phiếu như thế nào](https://vnexpress.net/cac-cong-ty-bao-hiem-dang-dau-tu-co-phieu-nhu-the-nao-4928853.html) - 00:58 21/09/2025
 - 💫 [Thủ môn Chelsea xin lỗi vì nhận thẻ đỏ ngay phút 5](https://vnexpress.net/thu-mon-chelsea-xin-loi-vi-nhan-the-do-ngay-phut-5-4941594.html) - 00:50 21/09/2025
 - 🤩 [Amorim: &#39;Man Utd cần sớm quên trận thắng Chelsea&#39;](https://vnexpress.net/amorim-man-utd-can-som-quen-tran-thang-chelsea-4941597.html) - 00:46 21/09/2025
-- 🏊 [Hà Nội đề xuất hỗ trợ 50% chi phí xây hạ tầng với dự án nhà xã hội](https://vnexpress.net/ha-noi-de-xuat-ho-tro-50-chi-phi-xay-ha-tang-voi-du-an-nha-xa-hoi-4941373.html) - 00:39 21/09/2025
-- 💂 [Ông Zelensky sắp gặp ông Trump nhằm thúc đẩy trừng phạt Nga](https://vnexpress.net/ong-zelensky-sap-gap-ong-trump-nham-thuc-day-trung-phat-nga-4941592.html) - 00:36 21/09/2025
-- 🚀 [Lần đầu Việt Nam có chuẩn đào tạo kỹ sư, thạc sĩ tài năng](https://vnexpress.net/lan-dau-viet-nam-co-chuan-dao-tao-ky-su-thac-si-tai-nang-4941521.html) - 00:24 21/09/2025<!-- vnexpress:END -->
+- 🏊 [Hà Nội đề xuất hỗ trợ 50% chi phí xây hạ tầng với dự án nhà xã hội](https://vnexpress.net/ha-noi-de-xuat-ho-tro-50-chi-phi-xay-ha-tang-voi-du-an-nha-xa-hoi-4941373.html) - 00:39 21/09/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
