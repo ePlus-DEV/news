@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Arsenal 0-1 Man City &lpar;hiệp 1&rpar;: Haaland mở tỷ số](https://dantri.com.vn/the-thao/arsenal-0-1-man-city-hiep-1-haaland-mo-ty-so-20250921222641701.htm) - 15:26 21/09/2025
+- 🎡 [Arsenal 0-1 Man City &lpar;hiệp 2&rpar;: &quot;Pháo thủ&quot; gia tăng sức ép](https://dantri.com.vn/the-thao/arsenal-0-1-man-city-hiep-2-phao-thu-gia-tang-suc-ep-20250921222641701.htm) - 15:26 21/09/2025
 - 💯 [Ghi bàn rồi phản lưới, Tiến Linh chắp tay xin lỗi người hâm mộ](https://dantri.com.vn/the-thao/ghi-ban-roi-phan-luoi-tien-linh-chap-tay-xin-loi-nguoi-ham-mo-20250921205602479.htm) - 14:23 21/09/2025
 - ⛽️ [Tiến Linh ghi bàn ở đại chiến nội bộ bóng đá TPHCM, SLNA hòa CLB Hà Tĩnh](https://dantri.com.vn/the-thao/tien-linh-ghi-ban-o-dai-chien-noi-bo-bong-da-tphcm-slna-hoa-clb-ha-tinh-20250921201423266.htm) - 13:26 21/09/2025
 - 💃 [Báo Indonesia tiết lộ tuyển Việt Nam sẽ có 3 cầu thủ nhập tịch gốc Brazil](https://dantri.com.vn/the-thao/bao-indonesia-tiet-lo-tuyen-viet-nam-se-co-3-cau-thu-nhap-tich-goc-brazil-20250921184236450.htm) - 12:15 21/09/2025
