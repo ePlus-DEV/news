@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhân viên cứu thanh niên ngã trên đường ray khi tàu lao tới](https://vnexpress.net/nhan-vien-cuu-thanh-nien-nga-tren-duong-ray-khi-tau-lao-toi-4941728.html) - 09:34 21/09/2025
+- 🦒 [Nhân viên cứu người đàn ông ngã trên đường ray khi tàu lao tới](https://vnexpress.net/nhan-vien-cuu-nguoi-dan-ong-nga-tren-duong-ray-khi-tau-lao-toi-4941728.html) - 09:34 21/09/2025
 - 🤓 [Hai anh em tử vong dưới mương ở TP HCM](https://vnexpress.net/hai-anh-em-tu-vong-duoi-muong-o-tp-hcm-4941706.html) - 07:45 21/09/2025
 - ⚗️ [Từ vỡ nợ thành chủ trang trại ốc bươu](https://vnexpress.net/tu-vo-no-thanh-chu-trang-trai-oc-buou-4941668.html) - 07:23 21/09/2025
 - 🌊 [TP HCM sắp mở làn riêng cho xe đạp trên đại lộ Mai Chí Thọ](https://vnexpress.net/tp-hcm-sap-mo-lan-rieng-cho-xe-dap-tren-dai-lo-mai-chi-tho-4941683.html) - 05:50 21/09/2025
@@ -18,7 +18,7 @@ sidebar_position: 1
 - 🦒 [Thuê đất công rồi phân lô sang nhượng trái phép](https://vnexpress.net/thue-dat-cong-roi-phan-lo-sang-nhuong-trai-phep-4941487.html) - 09:16 20/09/2025
 - 🤗 [Giá vé tàu Tết cao nhất hơn 3,7 triệu đồng](https://vnexpress.net/gia-ve-tau-tet-cao-nhat-hon-3-7-trieu-dong-4941429.html) - 06:13 20/09/2025
 - 💼 [Quy định mới về tiêu chuẩn chức danh lãnh đạo Đảng, Nhà nước](https://vnexpress.net/quy-dinh-moi-ve-tieu-chuan-chuc-danh-lanh-dao-dang-nha-nuoc-4941326.html) - 06:12 20/09/2025
-- 🤩 [Đề nghị cấm xe tải, xe khách đi sát dải phân cách trên 8 đoạn cao tốc](https://vnexpress.net/de-nghi-cam-xe-tai-xe-khach-di-sat-dai-phan-cach-tren-8-doan-cao-toc-4940625.html) - 04:30 20/09/2025
+- 🤩 [Đề nghị cấm xe tải, xe khách đi sát dải phân cách trên 8 cao tốc](https://vnexpress.net/de-nghi-cam-xe-tai-xe-khach-di-sat-dai-phan-cach-tren-8-cao-toc-4940625.html) - 04:30 20/09/2025
 - 🤡 [Bão Ragasa tăng cấp nhanh](https://vnexpress.net/bao-ragasa-tang-cap-nhanh-4941342.html) - 04:14 20/09/2025
 - 💯 [6 căn nhà bị sạt lở xuống sông Tiền](https://vnexpress.net/6-can-nha-bi-sat-lo-xuong-song-tien-4941362.html) - 02:29 20/09/2025
 - 👺 [Làm giàu từ nuôi vịt trời](https://vnexpress.net/lam-giau-tu-nuoi-vit-troi-4939872.html) - 02:03 20/09/2025
