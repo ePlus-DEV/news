@@ -7,7 +7,7 @@ sidebar_position: 16
 - 🎭 [Mưa trên cả 3 miền, nhiều nơi mưa rất to](https://dantri.com.vn/thoi-su/mua-tren-ca-3-mien-nhieu-noi-mua-rat-to-20250921191757653.htm) - 17:00 21/09/2025
 - 👨‍🏫 [Cháy chợ giữa khuya ở TPHCM](https://dantri.com.vn/thoi-su/chay-cho-giua-khuya-o-tphcm-20250921233215405.htm) - 16:43 21/09/2025
 - 🌮 [Tổng thống Nga sẵn sàng đưa xung đột Ukraine đến hồi kết hòa bình](https://dantri.com.vn/the-gioi/tong-thong-nga-san-sang-dua-xung-dot-ukraine-den-hoi-ket-hoa-binh-20250921223256914.htm) - 15:50 21/09/2025
-- 🕯 [Arsenal 0-1 Man City &lpar;hiệp 2&rpar;: &quot;Pháo thủ&quot; gia tăng sức ép](https://dantri.com.vn/the-thao/arsenal-0-1-man-city-hiep-2-phao-thu-gia-tang-suc-ep-20250921222641701.htm) - 15:26 21/09/2025
+- 🕯 [Arsenal nhọc nhằn tránh được thất bại trước Man City](https://dantri.com.vn/the-thao/arsenal-nhoc-nhan-tranh-duoc-that-bai-truoc-man-city-20250921222641701.htm) - 15:26 21/09/2025
 - 🪜 [Hàng trăm người tìm kiếm bé gái 18 tháng tuổi mất tích trong đêm](https://dantri.com.vn/thoi-su/hang-tram-nguoi-tim-kiem-be-gai-18-thang-tuoi-mat-tich-trong-dem-20250921213206464.htm) - 15:18 21/09/2025
 - 🐘 [Ghi bàn rồi phản lưới, Tiến Linh chắp tay xin lỗi người hâm mộ](https://dantri.com.vn/the-thao/ghi-ban-roi-phan-luoi-tien-linh-chap-tay-xin-loi-nguoi-ham-mo-20250921205602479.htm) - 14:23 21/09/2025
 - 🤔 [Nga miễn nhiệm cựu Tư lệnh chiến dịch tại Ukraine](https://dantri.com.vn/the-gioi/nga-mien-nhiem-cuu-tu-lenh-chien-dich-tai-ukraine-20250921181246528.htm) - 13:19 21/09/2025
