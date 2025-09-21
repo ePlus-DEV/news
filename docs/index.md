@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Học lỏm thời trang mùa thu từ Shin Ye Eun, nàng thơ Trăm mảnh ký ức](https://muctim.tuoitre.vn/hoc-lom-thoi-trang-mua-thu-tu-shin-ye-eun-nang-tho-tram-manh-ky-uc-101250919102541753.htm) - 07:37 21/09/2025
 - 🥷 [Đường lên đỉnh Olympia: nam sinh Trường THPT chuyên Đại học Sư phạm về nhất](https://muctim.tuoitre.vn/duong-len-dinh-olympia-nam-sinh-truong-thpt-chuyen-dai-hoc-su-pham-ve-nhat-101250921140749749.htm) - 07:33 21/09/2025
-- 🤖 [Trực tiếp bóng chuyền nam vòng 1/8: Ý đối đầu Argentina](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vong-1-8-y-doi-dau-argentina-101250921122149345.htm) - 06:50 21/09/2025
+- 🤖 [Hạ Argentina 3-0, tuyển bóng chuyền nam Ý vào tứ kết](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vong-1-8-y-doi-dau-argentina-101250921122149345.htm) - 06:50 21/09/2025
 - 🤓 [Vì sao phim Hàn retro lại gây sốt với khán giả?](https://muctim.tuoitre.vn/vi-sao-phim-han-retro-lai-gay-sot-voi-khan-gia-101250920225539344.htm) - 04:31 21/09/2025
 - 🎉 [Học tiếng Anh cùng thủ khoa Trường đại học Ngoại Thương trên kênh TikTok 12k follower](https://muctim.tuoitre.vn/hoc-tieng-anh-cung-thu-khoa-truong-dai-hoc-ngoai-thuong-tren-kenh-tiktok-12k-follower-101250920183135137.htm) - 03:42 21/09/2025
 - 👨‍🏫 [Tập 9 Chiến sĩ quả cảm: hoa hậu Tiểu Vy bật khóc khi nhập cuộc](https://muctim.tuoitre.vn/tap-9-chien-si-qua-cam-hoa-hau-tieu-vy-bat-khoc-khi-nhap-cuoc-101250921060119884.htm) - 03:41 21/09/2025
