@@ -84,8 +84,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤓 [Đỗ Thị Hải Yến đóng hoàng hậu trong &#39;Hộ linh tráng sĩ&#39;](https://vnexpress.net/do-thi-hai-yen-dong-hoang-hau-trong-ho-linh-trang-si-4942076.html) - 12:20 22/09/2025
 - 🤡 [Cộng đồng Esports Việt động viên TSW sau chung kết LCP 2025](https://vnexpress.net/cong-dong-esports-viet-dong-vien-tsw-sau-chung-ket-lcp-2025-4942050.html) - 12:18 22/09/2025
 - 🧐 [Sốc phản vệ do uống thuốc không rõ loại](https://vnexpress.net/soc-phan-ve-do-uong-thuoc-khong-ro-loai-4942170.html) - 12:09 22/09/2025
-- 🤓 [Tắm sáng hay tối tốt hơn?](https://vnexpress.net/tam-sang-hay-toi-tot-hon-4941924.html) - 12:06 22/09/2025
-- 🌋 [Tài xế đuổi đánh hành khách bị phạt hơn 5 triệu đồng](https://vnexpress.net/tai-xe-duoi-danh-hanh-khach-bi-phat-hon-5-trieu-dong-4942246.html) - 12:05 22/09/2025<!-- vnexpress:END -->
+- 🤓 [Tắm sáng hay tối tốt hơn?](https://vnexpress.net/tam-sang-hay-toi-tot-hon-4941924.html) - 12:06 22/09/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
