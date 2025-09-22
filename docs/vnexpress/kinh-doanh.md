@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Ông chủ LVMH: Mức thuế với giới siêu giàu sẽ phá huỷ kinh tế Pháp](https://vnexpress.net/ong-chu-lvmh-muc-thue-voi-gioi-sieu-giau-se-pha-huy-kinh-te-phap-4942145.html) - 12:00 22/09/2025
-- 🐲 [Thủ tướng: Nhà nước làm những gì tư nhân không thể](https://vnexpress.net/thu-tuong-nha-nuoc-lam-nhung-gi-tu-nhan-khong-the-4942251.html) - 11:50 22/09/2025
+- 🐲 [&#39;Nhà nước làm những gì tư nhân không thể&#39;](https://vnexpress.net/nha-nuoc-lam-nhung-gi-tu-nhan-khong-the-4942251.html) - 11:50 22/09/2025
 - 🔥 [Phó thủ tướng: Tháo gỡ dự án tồn đọng để đưa hàng triệu tỷ đồng vào nền kinh tế](https://vnexpress.net/pho-thu-tuong-thao-go-du-an-ton-dong-de-dua-hang-trieu-ty-dong-vao-nen-kinh-te-4942244.html) - 11:34 22/09/2025
 - 🐵 [Đề xuất bảo hiểm tiền gửi chi trả sớm, không cần chờ phá sản](https://vnexpress.net/de-xuat-bao-hiem-tien-gui-chi-tra-som-khong-can-cho-pha-san-4942232.html) - 11:13 22/09/2025
 - 🦅 [Masan mong lan tỏa văn hóa Việt khi đồng hành V Fest](https://vnexpress.net/masan-mong-lan-toa-van-hoa-viet-khi-dong-hanh-v-fest-4942186.html) - 11:00 22/09/2025
