@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đá lớn rơi xuống đường bao biển Hạ Long - Cẩm Phả](https://vnexpress.net/da-lon-roi-xuong-duong-bao-bien-ha-long-cam-pha-4942234.html) - 13:56 22/09/2025
-- 🤓 [Siêu bão Kagasa sẽ giảm cấp nhanh từ 24/9](https://vnexpress.net/sieu-bao-kagasa-se-giam-cap-nhanh-tu-24-9-4942230.html) - 13:47 22/09/2025
+- 🤓 [Siêu bão Ragasa sẽ giảm cấp nhanh từ 24/9](https://vnexpress.net/sieu-bao-ragasa-se-giam-cap-nhanh-tu-24-9-4942230.html) - 13:47 22/09/2025
 - ⚗️ [Cho thôi nhiệm vụ đại biểu Quốc hội với ông Lại Thế Nguyên, Trần Quốc Nam](https://vnexpress.net/cho-thoi-nhiem-vu-dai-bieu-quoc-hoi-voi-ong-lai-the-nguyen-tran-quoc-nam-4942270.html) - 13:28 22/09/2025
 - 🌊 [Giảm thời gian cấp giấy miễn thị thực còn một ngày](https://vnexpress.net/giam-thoi-gian-cap-giay-mien-thi-thuc-con-mot-ngay-4942238.html) - 11:22 22/09/2025
 - 🎓 [Nhân viên cứu người ngã trên đường ray khi tàu lao tới được khen thưởng](https://vnexpress.net/nhan-vien-cuu-nguoi-nga-tren-duong-ray-khi-tau-lao-toi-duoc-khen-thuong-4942216.html) - 10:44 22/09/2025
