@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Gia đình Haha sẽ có tập encore tại Bản Liền](https://muctim.tuoitre.vn/gia-dinh-haha-se-co-tap-encore-tai-ban-lien-101250922124939775.htm) - 12:00 22/09/2025
 - 🥷 [Podcast Ca ngợi Tổ quốc: Bản Tuyên ngôn Độc lập](https://muctim.tuoitre.vn/podcast-ca-ngoi-to-quoc-ban-tuyen-ngon-doc-lap-101250922030330124.htm) - 11:29 22/09/2025
-- 🤖 [Trực tiếp V-League 1: Ninh Bình - Thép Xanh Nam Định 2-0](https://muctim.tuoitre.vn/truc-tiep-v-league-1-ninh-binh-thep-xanh-nam-dinh-101250922165123774.htm) - 09:55 22/09/2025
+- 🤖 [Hoàng Đức ghi bàn, Ninh Bình vượt qua Thép Xanh Nam Định 2-0](https://muctim.tuoitre.vn/truc-tiep-v-league-1-ninh-binh-thep-xanh-nam-dinh-101250922165123774.htm) - 09:55 22/09/2025
 - 🤓 [Học sinh Trường tiểu học Phan Huy Ích say mê khám phá thế giới dinh dưỡng](https://muctim.tuoitre.vn/hoc-sinh-truong-tieu-hoc-phan-huy-ich-say-me-kham-pha-the-gioi-dinh-duong-101250922145347809.htm) - 09:54 22/09/2025
 - 🎉 [Trực tiếp Giải bóng chuyền nam vô địch thế giới: Mỹ - Slovenia](https://muctim.tuoitre.vn/truc-tiep-giai-bong-chuyen-nam-vo-dich-the-gioi-my-slovenia-10125092216470155.htm) - 09:53 22/09/2025
 - 👨‍🏫 [Thắng Bồ Đào Nha 3-0, Bulgaria tiến vào tứ kết](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-vong-1-8-bulgaria-cham-tran-bo-dao-nha-101250922135043954.htm) - 07:31 22/09/2025
