@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lễ trao Quả Bóng Vàng 2025 bắt đầu](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-2025-4942267.html) - 16:20 22/09/2025
+- 🪜 [Yamal giành giải Kopa cho cầu thủ trẻ xuất sắc](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-2025-4942267.html) - 16:20 22/09/2025
 - 🦩 [Việt Nam thắng Trung Quốc 7-2 ở giải futsal châu Á](https://vnexpress.net/viet-nam-thang-trung-quoc-7-2-o-giai-futsal-chau-a-4942274.html) - 13:29 22/09/2025
 - 🧰 [Tân binh Ninh Bình hạ Nam Định ở V-League](https://vnexpress.net/tan-binh-ninh-binh-ha-nam-dinh-o-v-league-4942257.html) - 13:16 22/09/2025
 - 🤗 [Cộng đồng Esports Việt động viên TSW sau chung kết LCP 2025](https://vnexpress.net/cong-dong-esports-viet-dong-vien-tsw-sau-chung-ket-lcp-2025-4942050.html) - 12:18 22/09/2025
