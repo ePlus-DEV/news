@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Dàn vũ khí tối tân của tàu Hải quân Hoàng gia Anh vừa cập bến Nhà Rồng](https://dantri.com.vn/giao-duc/dan-vu-khi-toi-tan-cua-tau-hai-quan-hoang-gia-anh-vua-cap-ben-nha-rong-20250922194741975.htm) - 15:41 22/09/2025
+- 🌋 [Dàn vũ khí tối tân của tàu Hải quân Hoàng gia Anh vừa cập bến Nhà Rồng](https://dantri.com.vn/the-gioi/dan-vu-khi-toi-tan-cua-tau-hai-quan-hoang-gia-anh-vua-cap-ben-nha-rong-20250922194741975.htm) - 15:41 22/09/2025
 - 🎬 [Tổng thống Vladimir Putin: Nga đủ khả năng đối phó với mọi mối đe dọa](https://dantri.com.vn/the-gioi/tong-thong-vladimir-putin-nga-du-kha-nang-doi-pho-voi-moi-moi-de-doa-20250922201439898.htm) - 14:11 22/09/2025
 - 🧰 [Nga cảnh báo cứng rắn Estonia sau cáo buộc tiêm kích xâm phạm không phận](https://dantri.com.vn/the-gioi/nga-canh-bao-cung-ran-estonia-sau-cao-buoc-tiem-kich-xam-pham-khong-phan-20250922190107982.htm) - 12:29 22/09/2025
 - 🌋 [150.000 binh sĩ Nga vây bọc Pokrovsk, Ukraine tung chiến thuật bất ngờ](https://dantri.com.vn/the-gioi/150000-binh-si-nga-vay-boc-pokrovsk-ukraine-tung-chien-thuat-bat-ngo-20250922181225171.htm) - 12:20 22/09/2025
