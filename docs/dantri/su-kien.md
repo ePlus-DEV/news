@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Siêu bão Ragasa giữ cường độ cấp 17 đến khi nào?](https://dantri.com.vn/thoi-su/sieu-bao-ragasa-giu-cuong-do-cap-17-den-khi-nao-20250922212026388.htm) - 14:54 22/09/2025
+- 🎭 [Siêu bão Ragasa vào Biển Đông, trở thành cơn bão số 9](https://dantri.com.vn/thoi-su/sieu-bao-ragasa-vao-bien-dong-tro-thanh-con-bao-so-9-20250922212026388.htm) - 14:54 22/09/2025
 - 👨‍🏫 [Thủ tướng: Kéo giảm giá bất động sản về mức phù hợp](https://dantri.com.vn/bat-dong-san/thu-tuong-keo-giam-gia-bat-dong-san-ve-muc-phu-hop-20250922204103548.htm) - 13:56 22/09/2025
 - 🌮 [Cho 2 đại biểu Quốc hội thôi nhiệm vụ](https://dantri.com.vn/thoi-su/cho-2-dai-bieu-quoc-hoi-thoi-nhiem-vu-20250922203146370.htm) - 13:31 22/09/2025
 - 🕯 [&quot;Ragasa là cơn bão mạnh nhất trong lịch sử trên Biển Đông&quot;](https://dantri.com.vn/thoi-su/ragasa-la-con-bao-manh-nhat-trong-lich-su-tren-bien-dong-20250922190325216.htm) - 12:27 22/09/2025
