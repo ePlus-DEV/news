@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Thủ tướng gửi thư chúc mừng Đức Phúc vô địch Intervision](https://vnexpress.net/thu-tuong-gui-thu-chuc-mung-duc-phuc-vo-dich-intervision-4941898.html) - 03:24 22/09/2025
+- 🌏 [Thủ tướng chúc mừng Đức Phúc vô địch Intervision](https://vnexpress.net/thu-tuong-chuc-mung-duc-phuc-vo-dich-intervision-4941898.html) - 03:24 22/09/2025
 - 💫 [Trang phục giúp Đức Phúc tỏa sáng tại Intervision](https://vnexpress.net/trang-phuc-giup-duc-phuc-toa-sang-tai-intervision-4941769.html) - 17:00 21/09/2025
 - 🌮 [Con gái Angelina Jolie nhuộm tóc, xỏ khuyên](https://vnexpress.net/con-gai-angelina-jolie-nhuom-toc-xo-khuyen-4941777.html) - 15:50 21/09/2025
 - 🧠 [Lynda Trang Đài xin lao động công ích để được xóa tội &#39;trộm cắp&#39;](https://vnexpress.net/lynda-trang-dai-xin-lao-dong-cong-ich-de-duoc-xoa-toi-trom-cap-4941773.html) - 15:38 21/09/2025
