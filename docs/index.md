@@ -33,7 +33,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧐 [Tuổi 35, tôi nên đợi công ty sa thải hay chủ động xin nghỉ?](https://vnexpress.net/that-nghiep-tuoi-35-toi-nen-doi-cong-ty-sa-thai-hay-chu-dong-xin-nghi-4942091.html) - 14:00 22/09/2025
 - 💫 [Bia Saigon đồng hành với chương trình &#39;Việt Nam vươn mình&#39;](https://vnexpress.net/bia-saigon-dong-hanh-voi-chuong-trinh-viet-nam-vuon-minh-4942279.html) - 14:00 22/09/2025
 - 😺 [Đá lớn rơi xuống đường bao biển Hạ Long - Cẩm Phả](https://vnexpress.net/da-lon-roi-xuong-duong-bao-bien-ha-long-cam-pha-4942234.html) - 13:56 22/09/2025
-- 🕯 [Siêu bão Kagasa sẽ giảm cấp nhanh từ 24/9](https://vnexpress.net/sieu-bao-kagasa-se-giam-cap-nhanh-tu-24-9-4942230.html) - 13:47 22/09/2025
+- 🕯 [Siêu bão Ragasa sẽ giảm cấp nhanh từ 24/9](https://vnexpress.net/sieu-bao-ragasa-se-giam-cap-nhanh-tu-24-9-4942230.html) - 13:47 22/09/2025
 - 💃 [Hà Nội đề xuất trả 635 ha đất cho nhà đầu tư làm cầu Trần Hưng Đạo](https://vnexpress.net/ha-noi-de-xuat-tra-635-ha-dat-cho-nha-dau-tu-lam-cau-tran-hung-dao-4942180.html) - 13:37 22/09/2025
 - 💂 [Thị trường thời trang xa xỉ giảm sức hút](https://vnexpress.net/thi-truong-thoi-trang-xa-xi-giam-suc-hut-4941932.html) - 13:29 22/09/2025
 - 🎊 [Việt Nam thắng Trung Quốc 7-2 ở giải futsal châu Á](https://vnexpress.net/viet-nam-thang-trung-quoc-7-2-o-giai-futsal-chau-a-4942274.html) - 13:29 22/09/2025
