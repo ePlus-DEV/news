@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Ông Trump và Elon Musk bắt tay nhau sau nhiều tháng căng thẳng](https://vnexpress.net/ong-trump-va-elon-musk-bat-tay-nhau-sau-nhieu-thang-cang-thang-4942298.html) - 16:52 22/09/2025
 - 🐲 [Cháy nhà trong ngõ ở Hà Nội, nghi do phóng hỏa](https://vnexpress.net/chay-nha-trong-ngo-o-ha-noi-nghi-do-phong-hoa-4942302.html) - 16:36 22/09/2025
 - 🌝 [Siêu bão Ragasa vào Biển Đông](https://vnexpress.net/sieu-bao-ragasa-vao-bien-dong-4942299.html) - 16:21 22/09/2025
-- 😺 [Bonmati đoạt Quả Bóng Vàng nữ thứ ba liên tiếp](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-2025-4942267.html) - 16:20 22/09/2025
+- 😺 [Dembele lần đầu đoạt Quả Bóng Vàng](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-2025-4942267.html) - 16:20 22/09/2025
 - 🐎 [Dựng bia khắc lời ca khúc &#39;Nối vòng tay lớn&#39;](https://vnexpress.net/dung-bia-khac-loi-ca-khuc-noi-vong-tay-lon-4942285.html) - 15:14 22/09/2025
 - 🎡 [Vợ Charlie Kirk bật khóc, tha thứ cho nghi phạm ám sát chồng](https://vnexpress.net/vo-charlie-kirk-bat-khoc-tha-thu-cho-nghi-pham-am-sat-chong-4942253.html) - 14:44 22/09/2025
 - 👨‍🏫 [Bộ Giáo dục: Đình chỉ, đuổi học không phù hợp với học sinh](https://vnexpress.net/bo-giao-duc-dinh-chi-duoi-hoc-khong-phu-hop-voi-hoc-sinh-4942228.html) - 14:43 22/09/2025
