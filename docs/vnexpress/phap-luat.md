@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [16 tiếng đấu trí với nhóm không tặc cướp máy bay trên đường băng](https://vnexpress.net/16-tieng-kinh-hoang-trong-vu-cuop-may-bay-tren-duong-bang-4942780.html) - 17:00 23/09/2025
 - 🥰 [Giành quyền nuôi con sau lá đơn cầu cứu của đứa trẻ](https://vnexpress.net/gianh-quyen-nuoi-con-sau-la-don-cau-cuu-cua-dua-tre-4942271.html) - 17:00 23/09/2025
-- 🎓 [Nói xấu người khác trên mạng xã hội, có là vu khống?](https://vnexpress.net/noi-xau-nguoi-khac-tren-mang-co-bi-truy-to-toi-vu-khong-4941868.html) - 17:00 23/09/2025
+- 🎓 [Nói xấu người khác trên mạng xã hội, có là vu khống?](https://vnexpress.net/noi-xau-nguoi-khac-tren-mang-xa-hoi-co-la-vu-khong-4941868.html) - 17:00 23/09/2025
 - 🤓 [Cựu giám đốc EVN Bình Thuận: &#39;Họ đưa bao nhiêu, tôi nhận bấy nhiêu&#39;](https://vnexpress.net/cuu-giam-doc-evn-binh-thuan-ho-dua-bao-nhieu-toi-nhan-bay-nhieu-4942533.html) - 16:03 23/09/2025
 - 🎊 [Bác sĩ Anh hầu tòa vì bỏ dở ca phẫu thuật để tình tự với y tá](https://vnexpress.net/noi-sai-su-that-ve-nguoi-khac-tren-mang-xa-hoi-co-la-vu-khong-4942781.html) - 14:35 23/09/2025
 - 🙉 [Vụ kiện nhà trường bị cấm sử dụng sân chơi vì gây ồn cho cư dân giàu có](https://vnexpress.net/vu-kien-nha-truong-bi-cam-su-dung-san-choi-vi-gay-on-cho-cu-dan-giau-co-4942620.html) - 11:51 23/09/2025
