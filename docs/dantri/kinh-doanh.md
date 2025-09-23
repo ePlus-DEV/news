@@ -4,16 +4,16 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Loạt chuyến bay bị hoãn, hủy vì siêu bão Ragasa](https://dantri.com.vn/kinh-doanh/loat-chuyen-bay-bi-hoan-huy-vi-sieu-bao-ragasa-20250923133729220.htm) - 07:14 23/09/2025
-- 🦆 [Kết quả lễ quay số kỳ 1 “Du lịch 5 châu cùng ngoại hối Eximbank - Mùa 3”](https://dantri.com.vn/kinh-doanh/ket-qua-le-quay-so-ky-1-du-lich-5-chau-cung-ngoai-hoi-eximbank-mua-3-20250923134205451.htm) - 06:47 23/09/2025
-- 🦄 [Ngân hàng số trong kỷ nguyên mới - Động lực tăng trưởng bền vững](https://dantri.com.vn/kinh-doanh/ngan-hang-so-trong-ky-nguyen-moi-dong-luc-tang-truong-ben-vung-20250923103235784.htm) - 06:28 23/09/2025
-- 🌝 [Muốn bứt phá toàn cầu, TPHCM cần cơ chế tự quyết mạnh mẽ hơn](https://dantri.com.vn/kinh-doanh/muon-but-pha-toan-cau-tphcm-can-co-che-tu-quyet-manh-me-hon-20250923115613934.htm) - 05:06 23/09/2025
-- 💃 [Điện mặt trời mái nhà tiềm năng lớn, dân vẫn lo chi phí và thủ tục](https://dantri.com.vn/kinh-doanh/dien-mat-troi-mai-nha-tiem-nang-lon-dan-van-lo-chi-phi-va-thu-tuc-20250923092800887.htm) - 03:20 23/09/2025
-- 🦏 [Ca sĩ Ưng Hoàng Phúc đang sở hữu những công ty nào?](https://dantri.com.vn/kinh-doanh/ca-si-ung-hoang-phuc-dang-so-huu-nhung-cong-ty-nao-20250923091938542.htm) - 02:38 23/09/2025
-- 🦩 [EU tung đòn trừng phạt mới, &quot;hạm đội bóng tối&quot; Nga vào tầm ngắm](https://dantri.com.vn/kinh-doanh/eu-tung-don-trung-phat-moi-ham-doi-bong-toi-nga-vao-tam-ngam-20250920114529051.htm) - 01:15 23/09/2025
-- 💡 [Một công ty bảo hiểm vừa tăng 40% vốn điều lệ lên hơn 1.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/mot-cong-ty-bao-hiem-vua-tang-40-von-dieu-le-len-hon-1000-ty-dong-20250918140234261.htm) - 01:08 23/09/2025
-- 🌊 [Richy tăng hạng trong “Top 10 công ty thực phẩm uy tín 2025” từ Vietnam Report](https://dantri.com.vn/kinh-doanh/richy-tang-hang-trong-top-10-cong-ty-thuc-pham-uy-tin-2025-tu-vietnam-report-20250922171135213.htm) - 01:00 23/09/2025
-- 🧑‍💻 [Vàng thế giới lập đỉnh mới, giá trong nước cũng tăng](https://dantri.com.vn/kinh-doanh/vang-the-gioi-lap-dinh-moi-gia-trong-nuoc-cung-tang-20250923070950793.htm) - 00:30 23/09/2025
+- 🏊 [Giá vàng trong nước tăng 1,1 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-tang-11-trieu-dongluong-20250923070950793.htm) - 08:09 23/09/2025
+- 🦆 [Loạt chuyến bay bị hoãn, hủy vì siêu bão Ragasa](https://dantri.com.vn/kinh-doanh/loat-chuyen-bay-bi-hoan-huy-vi-sieu-bao-ragasa-20250923133729220.htm) - 07:14 23/09/2025
+- 🦄 [Kết quả lễ quay số kỳ 1 “Du lịch 5 châu cùng ngoại hối Eximbank - Mùa 3”](https://dantri.com.vn/kinh-doanh/ket-qua-le-quay-so-ky-1-du-lich-5-chau-cung-ngoai-hoi-eximbank-mua-3-20250923134205451.htm) - 06:47 23/09/2025
+- 🌝 [Ngân hàng số trong kỷ nguyên mới - Động lực tăng trưởng bền vững](https://dantri.com.vn/kinh-doanh/ngan-hang-so-trong-ky-nguyen-moi-dong-luc-tang-truong-ben-vung-20250923103235784.htm) - 06:28 23/09/2025
+- 💃 [Muốn bứt phá toàn cầu, TPHCM cần cơ chế tự quyết mạnh mẽ hơn](https://dantri.com.vn/kinh-doanh/muon-but-pha-toan-cau-tphcm-can-co-che-tu-quyet-manh-me-hon-20250923115613934.htm) - 05:06 23/09/2025
+- 🦏 [Điện mặt trời mái nhà tiềm năng lớn, dân vẫn lo chi phí và thủ tục](https://dantri.com.vn/kinh-doanh/dien-mat-troi-mai-nha-tiem-nang-lon-dan-van-lo-chi-phi-va-thu-tuc-20250923092800887.htm) - 03:20 23/09/2025
+- 🦩 [Ca sĩ Ưng Hoàng Phúc đang sở hữu những công ty nào?](https://dantri.com.vn/kinh-doanh/ca-si-ung-hoang-phuc-dang-so-huu-nhung-cong-ty-nao-20250923091938542.htm) - 02:38 23/09/2025
+- 💡 [EU tung đòn trừng phạt mới, &quot;hạm đội bóng tối&quot; Nga vào tầm ngắm](https://dantri.com.vn/kinh-doanh/eu-tung-don-trung-phat-moi-ham-doi-bong-toi-nga-vao-tam-ngam-20250920114529051.htm) - 01:15 23/09/2025
+- 🌊 [Một công ty bảo hiểm vừa tăng 40% vốn điều lệ lên hơn 1.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/mot-cong-ty-bao-hiem-vua-tang-40-von-dieu-le-len-hon-1000-ty-dong-20250918140234261.htm) - 01:08 23/09/2025
+- 🧑‍💻 [Richy tăng hạng trong “Top 10 công ty thực phẩm uy tín 2025” từ Vietnam Report](https://dantri.com.vn/kinh-doanh/richy-tang-hang-trong-top-10-cong-ty-thuc-pham-uy-tin-2025-tu-vietnam-report-20250922171135213.htm) - 01:00 23/09/2025
 - 🎓 [Vì sao Buffett rời bỏ gã khổng lồ xe điện Trung Quốc BYD sau gần 2 thập kỷ?](https://dantri.com.vn/kinh-doanh/vi-sao-buffett-roi-bo-ga-khong-lo-xe-dien-trung-quoc-byd-sau-gan-2-thap-ky-20250922154740028.htm) - 23:50 22/09/2025
 - 🪄 [Siêu bão Ragasa đổ bộ, người Trung Quốc đổ xô tích đồ](https://dantri.com.vn/kinh-doanh/sieu-bao-ragasa-do-bo-nguoi-trung-quoc-do-xo-tich-do-20250922160306779.htm) - 12:33 22/09/2025
 - 🪜 [Tỷ phú Warren Buffett bất ngờ bán sạch cổ phiếu BYD, ẩn số nào phía sau?](https://dantri.com.vn/kinh-doanh/ty-phu-warren-buffett-bat-ngo-ban-sach-co-phieu-byd-an-so-nao-phia-sau-20250922153432403.htm) - 12:32 22/09/2025
