@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [&quot;Nhiều người tin nhờ đòn roi, mắng mỏ mà nên người&quot;](https://dantri.com.vn/giao-duc/nhieu-nguoi-tin-nho-don-roi-mang-mo-ma-nen-nguoi-20250923145656735.htm) - 08:16 23/09/2025
+- 🤡 [&quot;Nhiều người tin nhờ đòn roi, mắng mỏ của thầy cô mà nên người&quot;](https://dantri.com.vn/giao-duc/nhieu-nguoi-tin-nho-don-roi-mang-mo-cua-thay-co-ma-nen-nguoi-20250923145656735.htm) - 08:16 23/09/2025
 - 🗽 [Hà Nội sắp xếp, điều chỉnh mô hình tổ chức các trường THPT](https://dantri.com.vn/giao-duc/ha-noi-sap-xep-dieu-chinh-mo-hinh-to-chuc-cac-truong-thpt-20250923100625977.htm) - 03:21 23/09/2025
 - 🚦 [Bộ GD&amp;ĐT: “Kỷ luật không nhằm đẩy học sinh khỏi môi trường giáo dục”](https://dantri.com.vn/giao-duc/bo-gddt-ky-luat-khong-nham-day-hoc-sinh-khoi-moi-truong-giao-duc-20250923081137838.htm) - 01:34 23/09/2025
 - 🌋 [Sắp xếp các trường đại học là mệnh lệnh, chiến lược để bứt phá](https://dantri.com.vn/giao-duc/sap-xep-cac-truong-dai-hoc-la-menh-lenh-chien-luoc-de-but-pha-20250923080141277.htm) - 01:23 23/09/2025
