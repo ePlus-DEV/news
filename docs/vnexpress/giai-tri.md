@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🌮 [Quốc Thiên trích tiền bán vé live concert trồng 10.000 cây xanh](https://vnexpress.net/quoc-thien-trich-tien-ban-ve-live-concert-trong-10-000-cay-xanh-4942273.html) - 04:50 23/09/2025
 - 🧠 [Sắc vóc &#39;bông hồng thép&#39; đoạt Quả Bóng Vàng 2025](https://vnexpress.net/sac-voc-bong-hong-thep-doat-qua-bong-vang-2025-4942427.html) - 04:05 23/09/2025
 - 👨‍🏫 [Vợ chồng ông Obama nghỉ dưỡng cùng đạo diễn Steven Spielberg](https://vnexpress.net/vo-chong-ong-obama-nghi-duong-cung-dao-dien-steven-spielberg-4942362.html) - 03:40 23/09/2025
-- ⚗️ [Jeon Ji Hyun tổn thất hàng triệu USD vì một câu thoại](https://vnexpress.net/jeon-ji-hyun-ton-that-hang-trieu-usd-vi-mot-cau-thoai-4942390.html) - 03:23 23/09/2025
+- ⚗️ [Jeon Ji Hyun &#39;tổn thất hàng triệu USD&#39; vì một câu thoại](https://vnexpress.net/jeon-ji-hyun-ton-that-hang-trieu-usd-vi-mot-cau-thoai-4942390.html) - 03:23 23/09/2025
 - 😎 [Ngôi sao guitar Marcin Patrzałek đến Việt Nam biểu diễn](https://vnexpress.net/ngoi-sao-guitar-marcin-patrza-ek-den-viet-nam-bieu-dien-4941150.html) - 03:13 23/09/2025
 - 🫣 [Rhyder &#39;lột xác&#39; trong MV mới](https://vnexpress.net/rhyder-lot-xac-trong-mv-moi-4941054.html) - 02:22 23/09/2025
 - 🪄 [Đầm cưới thêu tay mang nét mơ mộng xứ Huế](https://vnexpress.net/dam-cuoi-theu-tay-mang-net-mo-mong-xu-hue-4942030.html) - 02:00 23/09/2025
