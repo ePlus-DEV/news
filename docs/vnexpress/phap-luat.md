@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Tòa án: 19 đàn em Mr Pips thao túng, moi tiền khách hàng &#39;hết sức tinh vi&#39;](https://vnexpress.net/toa-an-19-dan-em-mr-pips-thao-tung-moi-tien-khach-hang-het-suc-tinh-vi-4942442.html) - 03:43 23/09/2025
 - 🥰 [Lão nông 79 tuổi bị khởi tố vì giăng điện diệt chuột gây chết người](https://vnexpress.net/lao-nong-79-tuoi-bi-khoi-to-vi-giang-dien-diet-chuot-gay-chet-nguoi-4942414.html) - 03:18 23/09/2025
 - 🎓 [4 anh em ra tòa vì điều hành đường dây đánh bạc 88.000 tỷ đồng](https://vnexpress.net/4-anh-em-ra-toa-vi-dieu-hanh-duong-day-danh-bac-88-000-ty-dong-4942284.html) - 01:00 23/09/2025
-- 🤓 [Giang hồ Bình &#39;Kiểm&#39; ra tòa trong vụ thu gom súng để bắt cóc người nổi tiếng](https://vnexpress.net/giang-ho-binh-kiem-ra-toa-trong-vu-thu-gom-sung-de-bat-coc-nguoi-noi-tieng-4942269.html) - 00:00 23/09/2025
+- 🤓 [Giang hồ Bình Kiểm nhận tội, nói &#39;đam mê súng từ nhỏ&#39;](https://vnexpress.net/giang-ho-binh-kiem-nhan-toi-noi-dam-me-sung-tu-nho-4942269.html) - 00:00 23/09/2025
 - 🎊 [Thiếu niên bị đối thủ mai phục, đánh tử vong](https://vnexpress.net/thieu-nien-bi-doi-thu-mai-phuc-danh-tu-vong-4942250.html) - 17:00 22/09/2025
 - 🙉 [Đêm cuối của 2 thiếu nữ vô tình vướng ân oán ma túy](https://vnexpress.net/dem-cuoi-cua-hai-thieu-nu-vo-tinh-vuong-vao-an-oan-ma-tuy-4942248.html) - 17:00 22/09/2025
 - 🤡 [Mánh giúp công ty &#39;sân sau&#39; trúng 25 gói thầu của EVN Bình Thuận](https://vnexpress.net/manh-giup-cong-ty-san-sau-trung-25-goi-thau-cua-evn-binh-thuan-4942013.html) - 17:00 22/09/2025
