@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hơn 10.000 thí sinh tranh suất làm giáo viên ở TP HCM](https://vnexpress.net/thong-tin-thi-tuyen-giao-vien-o-tp-hcm-2025-4942668.html) - 09:53 23/09/2025
+- 🤓 [Hơn 10.000 thí sinh thi tuyển làm giáo viên ở TP HCM](https://vnexpress.net/thong-tin-thi-tuyen-giao-vien-o-tp-hcm-2025-4942668.html) - 09:53 23/09/2025
 - 🦆 [Đại học cần đạt chuẩn gì trước nguy cơ sáp nhập, giải thể?](https://vnexpress.net/dai-hoc-can-dat-chuan-gi-truoc-nguy-co-sap-nhap-giai-the-4942282.html) - 06:45 23/09/2025
 - 🦩 [Hưng Yên phát động phong trào chữa ngọng &#39;l, n&#39;](https://vnexpress.net/hung-yen-phat-dong-phong-trao-chua-ngong-l-n-4942086.html) - 03:31 23/09/2025
 - 🌮 [Cần có biện pháp xử lý với học sinh &#39;lệch chuẩn quá lớn&#39;](https://vnexpress.net/can-co-bien-phap-xu-ly-voi-hoc-sinh-lech-chuan-qua-lon-4942373.html) - 02:41 23/09/2025
