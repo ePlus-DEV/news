@@ -531,7 +531,7 @@ thuận trong 45 ngày nêu gì?](https://nld.com.vn/vu-xay-nham-nha-tren-dat-ng
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Con ngoan trò giỏi - Lan toả cảm hứng phấn đấu giỏi, ngoan, sống đẹp](https://muctim.tuoitre.vn/con-ngoan-tro-gioi-lan-toa-cam-hung-phan-dau-gioi-ngoan-song-dep-101250924171352336.htm) - 12:22 24/09/2025
-- 🥷 [Trực tiếp Shopee Cup: Công an Hà Nội - Cebu FC](https://muctim.tuoitre.vn/truc-tiep-shopee-cup-cong-an-ha-noi-cebu-fc-10125092418291038.htm) - 12:18 24/09/2025
+- 🥷 [Trực tiếp Shopee Cup: Công an Hà Nội - Cebu FC 0-0 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-shopee-cup-cong-an-ha-noi-cebu-fc-10125092418291038.htm) - 12:18 24/09/2025
 - 🤖 [Ra mắt sách ảnh Sắc màu cuộc sống các dân tộc Việt Nam](https://muctim.tuoitre.vn/ra-mat-sach-anh-sac-mau-cuoc-song-cac-dan-toc-viet-nam-101250924145642949.htm) - 12:17 24/09/2025
 - 🤓 [Trực tiếp vòng tứ kết bóng chuyền nam: Ba Lan và Thổ Nhĩ Kỳ](https://muctim.tuoitre.vn/truc-tiep-vong-tu-ket-bong-chuyen-nam-ba-lan-va-tho-nhi-ky-101250924184024259.htm) - 11:55 24/09/2025
 - 🎉 [Trường đại học Kinh tế - Tài chính TP.HCM trao 30 tỷ đồng học bổng cho tân sinh viên](https://muctim.tuoitre.vn/truong-dai-hoc-kinh-te-tai-chinh-tphcm-trao-30-ty-dong-hoc-bong-cho-tan-sinh-vien-101250924150848999.htm) - 10:22 24/09/2025
