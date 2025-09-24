@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Pep Guardiola hạ mình chơi “phản bóng đá”: Biến hóa hay bất lực?](https://dantri.com.vn/the-thao/pep-guardiola-ha-minh-choi-phan-bong-da-bien-hoa-hay-bat-luc-20250924152811064.htm) - 08:28 24/09/2025
-- 💯 [Đội tuyển futsal Việt Nam 4-0 Lebanon &lpar;hiệp 2&rpar;: Ngọc Ánh đặt dấu ấn](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-4-0-lebanon-hiep-2-ngoc-anh-dat-dau-an-20250924142838981.htm) - 07:28 24/09/2025
+- 🎡 [Pep Guardiola hạ mình chơi “phản bóng đá”: Biến hóa hay bất lực?](https://dantri.com.vn/the-thao/pep-guardiola-ha-minh-choi-phan-bong-da-bien-hoa-hay-bat-luc-20250924152811064.htm) - 08:45 24/09/2025
+- 💯 [Đánh bại Lebanon, tuyển futsal Việt Nam giành vé dự giải châu Á](https://dantri.com.vn/the-thao/danh-bai-lebanon-tuyen-futsal-viet-nam-gianh-ve-du-giai-chau-a-20250924142838981.htm) - 07:28 24/09/2025
 - ⛽️ [Aice đồng hành, tiếp sức cho vận động viên tại Aqua Warriors Vân Đồn](https://dantri.com.vn/the-thao/aice-dong-hanh-tiep-suc-cho-van-dong-vien-tai-aqua-warriors-van-don-20250924092550521.htm) - 07:00 24/09/2025
 - 💃 [Ben Johns đánh mất vị trí số một đơn nam thế giới](https://dantri.com.vn/the-thao/ben-johns-danh-mat-vi-tri-so-mot-don-nam-the-gioi-20250924131117550.htm) - 06:20 24/09/2025
 - 🌈 [Xem trực tiếp trận futsal Việt Nam gặp Lebanon ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-futsal-viet-nam-gap-lebanon-o-dau-20250924100347689.htm) - 03:03 24/09/2025
