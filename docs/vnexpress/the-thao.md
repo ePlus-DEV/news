@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Guardiola: &#39;Man City phải tử thủ vì đá quá tệ&#39;](https://vnexpress.net/guardiola-man-city-phai-tu-thu-vi-da-qua-te-4943174.html) - 11:00 24/09/2025
+- 🪜 [Guardiola: &#39;Man City phải tử thủ trước Arsenal vì đá quá tệ&#39;](https://vnexpress.net/guardiola-man-city-phai-tu-thu-truoc-arsenal-vi-da-qua-te-4943174.html) - 11:00 24/09/2025
 - 🦩 [Alcaraz hóa thành samurai ở Tokyo](https://vnexpress.net/alcaraz-hoa-thanh-samurai-o-tokyo-4943052.html) - 11:00 24/09/2025
 - 🧰 [Cầu thủ Trung Quốc bị cấm 2 trận do chơi xấu ở trận thua Việt Nam](https://vnexpress.net/cau-thu-trung-quoc-bi-cam-2-tran-do-choi-xau-o-tran-thua-viet-nam-4943226.html) - 10:07 24/09/2025
 - 🤗 [Việt Nam toàn thắng đậm giải futsal châu Á](https://vnexpress.net/viet-nam-toan-thang-dam-giai-futsal-chau-a-4943182.html) - 09:28 24/09/2025
