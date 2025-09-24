@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển futsal Việt Nam 0-0 Lebanon &lpar;hiệp 1&rpar;: Không để tuột 3 điểm](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-0-0-lebanon-hiep-1-khong-de-tuot-3-diem-20250924142838981.htm) - 07:28 24/09/2025
+- 🎡 [Đội tuyển futsal Việt Nam 1-0 Lebanon &lpar;hiệp 1&rpar;: Đa Hải mở tỷ số](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-1-0-lebanon-hiep-1-da-hai-mo-ty-so-20250924142838981.htm) - 07:28 24/09/2025
 - 💯 [Aice đồng hành, tiếp sức cho vận động viên tại Aqua Warriors Vân Đồn](https://dantri.com.vn/the-thao/aice-dong-hanh-tiep-suc-cho-van-dong-vien-tai-aqua-warriors-van-don-20250924092550521.htm) - 07:00 24/09/2025
 - ⛽️ [Ben Johns đánh mất vị trí số một đơn nam thế giới](https://dantri.com.vn/the-thao/ben-johns-danh-mat-vi-tri-so-mot-don-nam-the-gioi-20250924131117550.htm) - 06:20 24/09/2025
 - 💃 [Xem trực tiếp trận futsal Việt Nam gặp Lebanon ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-futsal-viet-nam-gap-lebanon-o-dau-20250924100347689.htm) - 03:03 24/09/2025
