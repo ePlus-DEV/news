@@ -22,7 +22,7 @@ sidebar_position: 10
 - 🌝 [Vô sinh do vi khuẩn lao &#39;ăn&#39; nội mạc tử cung](https://vnexpress.net/vo-sinh-do-vi-khuan-lao-an-noi-mac-tu-cung-4943364.html) - 06:00 25/09/2025
 - 🗽 [Thuốc tiêm ngừa HIV giá rẻ sắp ra mắt](https://vnexpress.net/thuoc-tiem-ngua-hiv-gia-re-sap-ra-mat-4943471.html) - 05:32 25/09/2025
 - 🕯 [5 loại thực phẩm người rối loạn tuyến giáp nên hạn chế](https://vnexpress.net/5-loai-thuc-pham-nguoi-roi-loan-tuyen-giap-nen-han-che-4943534.html) - 05:00 25/09/2025
-- 🦅 [Khối u sau gáy to như đầu người, bệnh nhân tự điều trị suốt 16 năm.](https://vnexpress.net/khoi-u-sau-gay-to-nhu-dau-nguoi-benh-nhan-tu-dieu-tri-suot-16-nam-4943402.html) - 04:00 25/09/2025
+- 🦅 [Khối u sau gáy to như đầu người, bệnh nhân tự điều trị suốt 16 năm](https://vnexpress.net/khoi-u-sau-gay-to-nhu-dau-nguoi-benh-nhan-tu-dieu-tri-suot-16-nam-4943402.html) - 04:00 25/09/2025
 - 🦆 [Ho ba tháng mới phát hiện u lồng ngực](https://vnexpress.net/ho-ba-thang-moi-phat-hien-u-long-nguc-4943377.html) - 04:00 25/09/2025
 - 🎊 [Phụ nữ TP HCM sinh con ít nhất cả nước](https://vnexpress.net/phu-nu-tp-hcm-sinh-con-it-nhat-ca-nuoc-4943405.html) - 03:15 25/09/2025
 - 🏊 [Dấu hiệu cảnh báo đau ruột thừa](https://vnexpress.net/dau-hieu-canh-bao-dau-ruot-thua-4943415.html) - 03:00 25/09/2025
