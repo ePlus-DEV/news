@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đình chỉ việc hiệu trưởng vụ tố thực phẩm &#39;bẩn&#39; vào bữa ăn bán trú](https://vnexpress.net/thuc-pham-ban-4943452.html) - 03:36 25/09/2025
+- 🤓 [Đình chỉ công tác hiệu trưởng sau tố cáo thực phẩm &#39;bẩn&#39; vào bữa ăn bán trú](https://vnexpress.net/thuc-pham-ban-4943452.html) - 03:36 25/09/2025
 - 🦆 [Đại học dời lễ tốt nghiệp, chuyển học online vì lo bão Ragasa](https://vnexpress.net/dai-hoc-doi-le-tot-nghiep-chuyen-hoc-online-vi-lo-bao-ragasa-4943446.html) - 03:16 25/09/2025
 - 🦩 [Thí sinh lo giảm cơ hội nếu bị giới hạn nguyện vọng đại học](https://vnexpress.net/thi-sinh-lo-giam-co-hoi-neu-bi-gioi-han-nguyen-vong-dai-hoc-4942751.html) - 17:00 24/09/2025
 - 🌮 [Muốn bỏ phố về quê vì khó xin việc ngành Luật](https://vnexpress.net/muon-bo-pho-ve-que-vi-kho-xin-viec-nganh-luat-4942574.html) - 16:59 24/09/2025
