@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Messi góp công 37 bàn thắng, đưa Inter Miami vào MLS Cup 2025](https://muctim.tuoitre.vn/messi-gop-cong-37-ban-thang-dua-inter-miami-vao-mls-cup-2025-101250925141720435.htm) - 08:45 25/09/2025
 - 🥷 [Sao con được có 9,5 điểm? Sao không phải là 10 điểm?](https://muctim.tuoitre.vn/sao-con-duoc-co-95-diem-sao-khong-phai-la-10-diem-101250923105643021.htm) - 07:09 25/09/2025
-- 🤖 [Sống trong gian khó, những bạn nhỏ hiểu chuyện đến đau lòng](https://muctim.tuoitre.vn/song-trong-gian-kho-nhung-ban-nho-hieu-chuyen-den-dau-long-10125092311211512.htm) - 07:06 25/09/2025
+- 🤖 [Ước mơ của những bạn nhỏ &#39;hiểu chuyện&#39;](https://muctim.tuoitre.vn/song-trong-gian-kho-nhung-ban-nho-hieu-chuyen-den-dau-long-10125092311211512.htm) - 07:06 25/09/2025
 - 🤓 [Lần đầu đóng phim điện ảnh, bé Bảo Di gây ấn tượng  trong Tử chiến trên không](https://muctim.tuoitre.vn/lan-dau-dong-phim-dien-anh-be-bao-di-gay-an-tuong-trong-tu-chien-tren-khong-101250925095321566.htm) - 07:03 25/09/2025
 - 🎉 [Tứ kết Giải bóng chuyền nam vô địch thế giới: CH Czech lội ngược dòng giành chiến thắng 3-1 trước Iran](https://muctim.tuoitre.vn/truc-tiep-tu-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-ch-czech-iran-101250925114228179.htm) - 06:32 25/09/2025
 - 👨‍🏫 [Sắp có gameshow mới về trí tuệ nhân tạo AI, MC Trấn Thành dẫn dắt](https://muctim.tuoitre.vn/sap-co-gameshow-moi-ve-tri-tue-nhan-tao-ai-mc-tran-thanh-dan-dat-101250925111032922.htm) - 06:19 25/09/2025
