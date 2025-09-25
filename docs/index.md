@@ -531,7 +531,7 @@ toàn quân](https://nld.com.vn/tong-bi-thu-to-lam-du-dai-hoi-thi-dua-quyet-than
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp New York City đấu Inter Miami: Messi lĩnh xướng hàng công](https://muctim.tuoitre.vn/truc-tiep-new-york-city-dau-inter-miami-messi-linh-xuong-hang-cong-101250925062902948.htm) - 23:29 24/09/2025
+- 🤔 [Trực tiếp New York City đấu Inter Miami: Messi kiến tạo đẳng cấp](https://muctim.tuoitre.vn/truc-tiep-new-york-city-dau-inter-miami-messi-linh-xuong-hang-cong-101250925062902948.htm) - 23:29 24/09/2025
 - 🥷 [Lịch thi đấu tứ kết bóng chuyền nam 25-9: Mong chờ đại diện châu Á](https://muctim.tuoitre.vn/lich-thi-dau-tu-ket-bong-chuyen-nam-25-9-mong-cho-dai-dien-chau-a-101250925013814611.htm) - 23:03 24/09/2025
 - 🤖 [Phim Tử chiến trên không vượt mức doanh thu 100 tỷ đồng](https://muctim.tuoitre.vn/phim-tu-chien-tren-khong-vuot-muc-doanh-thu-100-ty-dong-101250924215741832.htm) - 15:06 24/09/2025
 - 🤓 [Hứa Quang Hán bất ngờ với tình cảm của khán giả Việt Nam](https://muctim.tuoitre.vn/hua-quang-han-bat-ngo-voi-tinh-cam-cua-khan-gia-viet-nam-101250924215417805.htm) - 14:58 24/09/2025
