@@ -4,11 +4,11 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Tiến Luật kể phản ứng của Thu Trang khi tham gia show thực tế &quot;khó nhằn&quot;](https://dantri.com.vn/giai-tri/tien-luat-ke-phan-ung-cua-thu-trang-khi-tham-gia-show-thuc-te-kho-nhan-20250925121000105.htm) - 07:45 25/09/2025
-- 🔥 [Nhóm tân binh chuẩn bị thi quốc tế, SOOBIN áp lực vai trò dẫn dắt](https://dantri.com.vn/giai-tri/nhom-tan-binh-chuan-bi-thi-quoc-te-soobin-ap-luc-vai-tro-dan-dat-20250925111323754.htm) - 07:42 25/09/2025
-- 🚀 [“Mưa đỏ” tiến sát mốc 700 tỷ đồng, NSX công bố ngày phim rời rạp](https://dantri.com.vn/giai-tri/mua-do-tien-sat-moc-700-ty-dong-nsx-cong-bo-ngay-phim-roi-rap-20250925134406091.htm) - 07:02 25/09/2025
-- 🔥 [Trường Giang khoe ảnh siêu âm, xác nhận Nhã Phương mang thai lần 3](https://dantri.com.vn/giai-tri/truong-giang-khoe-anh-sieu-am-xac-nhan-nha-phuong-mang-thai-lan-3-20250925123312835.htm) - 06:44 25/09/2025
-- 🌈 [Huấn luyện viên Mai Đức Chung được trao tặng danh hiệu Anh hùng Lao động](https://dantri.com.vn/giai-tri/huan-luyen-vien-mai-duc-chung-duoc-trao-tang-danh-hieu-anh-hung-lao-dong-20250925112916184.htm) - 04:41 25/09/2025
+- 🤩 [Vụ tử vong của mỹ nam Trung Quốc: Chung cư xảy ra vụ việc được rao bán](https://dantri.com.vn/giai-tri/vu-tu-vong-cua-my-nam-trung-quoc-chung-cu-xay-ra-vu-viec-duoc-rao-ban-20250925144855885.htm) - 09:00 25/09/2025
+- 🔥 [Tiến Luật kể phản ứng của Thu Trang khi tham gia show thực tế &quot;khó nhằn&quot;](https://dantri.com.vn/giai-tri/tien-luat-ke-phan-ung-cua-thu-trang-khi-tham-gia-show-thuc-te-kho-nhan-20250925121000105.htm) - 07:45 25/09/2025
+- 🚀 [Nhóm tân binh chuẩn bị thi quốc tế, SOOBIN áp lực vai trò dẫn dắt](https://dantri.com.vn/giai-tri/nhom-tan-binh-chuan-bi-thi-quoc-te-soobin-ap-luc-vai-tro-dan-dat-20250925111323754.htm) - 07:42 25/09/2025
+- 🔥 [“Mưa đỏ” tiến sát mốc 700 tỷ đồng, NSX công bố ngày phim rời rạp](https://dantri.com.vn/giai-tri/mua-do-tien-sat-moc-700-ty-dong-nsx-cong-bo-ngay-phim-roi-rap-20250925134406091.htm) - 07:02 25/09/2025
+- 🌈 [Trường Giang khoe ảnh siêu âm, xác nhận Nhã Phương mang thai lần 3](https://dantri.com.vn/giai-tri/truong-giang-khoe-anh-sieu-am-xac-nhan-nha-phuong-mang-thai-lan-3-20250925123312835.htm) - 06:44 25/09/2025
 - 📝 [Đoàn Công Vinh giành giải thưởng phụ, vào top 20 Nam vương Quốc tế 2025](https://dantri.com.vn/giai-tri/doan-cong-vinh-gianh-giai-thuong-phu-vao-top-20-nam-vuong-quoc-te-2025-20250925111002526.htm) - 04:30 25/09/2025
 - 💪 [“Mưa đỏ”, các concert quốc gia thổi bùng ngọn lửa tình yêu nước](https://dantri.com.vn/giai-tri/mua-do-cac-concert-quoc-gia-thoi-bung-ngon-lua-tinh-yeu-nuoc-20250925104434248.htm) - 04:01 25/09/2025
 - 🤡 [Trước Hương Giang, Hoa hậu Hoàn vũ từng có thí sinh chuyển giới hay chưa?](https://dantri.com.vn/giai-tri/truoc-huong-giang-hoa-hau-hoan-vu-tung-co-thi-sinh-chuyen-gioi-hay-chua-20250925094116406.htm) - 02:54 25/09/2025
