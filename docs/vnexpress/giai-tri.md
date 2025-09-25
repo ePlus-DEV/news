@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tài tử Huỳnh Anh Tuấn tái xuất kênh vlog ẩm thực](https://vnexpress.net/tai-tu-huynh-anh-tuan-tai-xuat-kenh-vlog-am-thuc-4941778.html) - 04:11 25/09/2025
+- 🌏 [Tài tử Huỳnh Anh Tuấn tái xuất kênh ẩm thực](https://vnexpress.net/tai-tu-huynh-anh-tuan-tai-xuat-kenh-am-thuc-4941778.html) - 04:11 25/09/2025
 - 💫 [Yến Nhi diễn trang phục cảm hứng từ múa rối nước](https://vnexpress.net/yen-nhi-dien-trang-phuc-cam-hung-tu-mua-roi-nuoc-4943412.html) - 04:01 25/09/2025
 - 🌮 [Brooklyn Beckham lần đầu lên tiếng về tin &#39;gia đình bất hòa&#39;](https://vnexpress.net/brooklyn-beckham-lan-dau-len-tieng-ve-tin-gia-dinh-bat-hoa-4943373.html) - 03:35 25/09/2025
 - 🧠 [Lê Tư tiễn biệt diễn viên TVB Lê Tuyên](https://vnexpress.net/le-tu-tien-biet-dien-vien-tvb-le-tuyen-4943435.html) - 03:02 25/09/2025
