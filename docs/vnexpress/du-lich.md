@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [Món Việt nào nằm trong 100 món tệ nhất thế giới năm 2025?](https://vnexpress.net/mon-viet-nao-nam-trong-100-mon-te-nhat-the-gioi-nam-2025-4943588.html) - 07:55 25/09/2025
 - 🕴 [Món ăn nhất định phải thử khi du lịch miền Tây](https://vnexpress.net/mon-an-nhat-dinh-phai-thu-khi-du-lich-mien-tay-4941682.html) - 04:07 25/09/2025
 - 👀 [Phố cổ Hà Nội thời vắng khách du lịch 30 năm trước](https://vnexpress.net/pho-co-ha-noi-thoi-vang-khach-du-lich-30-nam-truoc-4941750.html) - 03:14 25/09/2025
-- 🎭 [Chọn ngắm mùa thu ở đâu với 10-20 triệu đồng?](https://vnexpress.net/chon-ngam-mua-thu-o-dau-voi-10-20-trieu-dong-4941783.html) - 17:00 24/09/2025
+- 🎭 [Chọn nơi ngắm mùa thu với 10-20 triệu đồng](https://vnexpress.net/chon-noi-ngam-mua-thu-voi-10-20-trieu-dong-4941783.html) - 17:00 24/09/2025
 - 🦒 [Những cô gái bê 30 kg bia bằng tay không ở lễ hội Oktoberfest](https://vnexpress.net/nhung-co-gai-be-30-kg-bia-bang-tay-khong-o-le-hoi-oktoberfest-4943247.html) - 11:30 24/09/2025
 - 👨‍🏫 [Thành phố &#39;hai quốc tịch&#39; giữa lòng châu Âu](https://vnexpress.net/thanh-pho-hai-quoc-tich-giua-long-chau-au-4942608.html) - 07:27 24/09/2025
 - ⚗️ [Phố cổ Hội An được ca ngợi là điểm đến lịch sử đẹp nhất châu Á](https://vnexpress.net/pho-co-hoi-an-duoc-ca-ngoi-la-diem-den-lich-su-dep-nhat-chau-a-4942990.html) - 05:39 24/09/2025
