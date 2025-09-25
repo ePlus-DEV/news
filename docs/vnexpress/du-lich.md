@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Món ăn không quên khi du lịch miền Tây](https://vnexpress.net/mon-an-khong-quen-khi-du-lich-mien-tay-4941682.html) - 04:07 25/09/2025
+- 💂 [Món ăn nhất định phải thử khi du lịch miền Tây](https://vnexpress.net/mon-an-nhat-dinh-phai-thu-khi-du-lich-mien-tay-4941682.html) - 04:07 25/09/2025
 - 🪄 [Phố cổ Hà Nội thời vắng khách du lịch 30 năm trước](https://vnexpress.net/pho-co-ha-noi-thoi-vang-khach-du-lich-30-nam-truoc-4941750.html) - 03:14 25/09/2025
 - 🦅 [Chọn ngắm mùa thu ở đâu với 10-20 triệu đồng?](https://vnexpress.net/chon-ngam-mua-thu-o-dau-voi-10-20-trieu-dong-4941783.html) - 17:00 24/09/2025
 - 🕴 [Những cô gái bê 30 kg bia bằng tay không ở lễ hội Oktoberfest](https://vnexpress.net/nhung-co-gai-be-30-kg-bia-bang-tay-khong-o-le-hoi-oktoberfest-4943247.html) - 11:30 24/09/2025
