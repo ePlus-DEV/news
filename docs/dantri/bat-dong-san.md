@@ -5,8 +5,8 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Vụ nợ người dân 1.000 sổ đỏ: Lãnh đạo Đà Nẵng thị sát 3 dự án](https://dantri.com.vn/bat-dong-san/vu-no-nguoi-dan-1000-so-do-lanh-dao-da-nang-thi-sat-3-du-an-20250924163046459.htm) - 01:43 25/09/2025
-- 👹 [Quy Nhơn - “hạt nhân” tăng trưởng của tỉnh Gia Lai](https://dantri.com.vn/bat-dong-san/quy-nhon-hat-nhan-tang-truong-cua-tinh-gia-lai-20250924231240881.htm) - 01:00 25/09/2025
-- 💡 [Trellia Cove: Khi kiến trúc hòa điệu cùng thiên nhiên](https://dantri.com.vn/bat-dong-san/trellia-cove-khi-kien-truc-hoa-dieu-cung-thien-nhien-20250924225546666.htm) - 01:00 25/09/2025
+- 👹 [Trellia Cove: Khi kiến trúc hòa điệu cùng thiên nhiên](https://dantri.com.vn/bat-dong-san/trellia-cove-khi-kien-truc-hoa-dieu-cung-thien-nhien-20250924225546666.htm) - 01:00 25/09/2025
+- 💡 [Quy Nhơn - “hạt nhân” tăng trưởng của tỉnh Gia Lai](https://dantri.com.vn/bat-dong-san/quy-nhon-hat-nhan-tang-truong-cua-tinh-gia-lai-20250924231240881.htm) - 01:00 25/09/2025
 - 🌋 [Liên minh Vietstarland - Queenland phân phối nhà phố The Campus 2 tại Eco Central Park](https://dantri.com.vn/bat-dong-san/lien-minh-vietstarland-queenland-phan-phoi-nha-pho-the-campus-2-tai-eco-central-park-20250924224125091.htm) - 01:00 25/09/2025
 - 🌜 [8 mẹo đơn giản biến phòng ngủ nhỏ hóa rộng thênh thang](https://dantri.com.vn/bat-dong-san/8-meo-don-gian-bien-phong-ngu-nho-hoa-rong-thenh-thang-20250923155642182.htm) - 00:16 25/09/2025
 - 💃 [Hà Nội bổ sung hơn 500 căn nhà ở xã hội tại khu đô thị Đặng Xá 2](https://dantri.com.vn/bat-dong-san/ha-noi-bo-sung-hon-500-can-nha-o-xa-hoi-tai-khu-do-thi-dang-xa-2-20250924215014055.htm) - 23:57 24/09/2025
