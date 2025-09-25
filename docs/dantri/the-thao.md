@@ -5,9 +5,9 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Lịch trình và nội dung thi đấu ở Aqua Warriors Vân Đồn 2025 - Camel Cup](https://dantri.com.vn/the-thao/lich-trinh-va-noi-dung-thi-dau-o-aqua-warriors-van-don-2025-camel-cup-20250925160458236.htm) - 10:20 25/09/2025
-- 💯 [Huy chương và áo finisher tại Aqua Warriors Vân Đồn 2025 - Camel Cup](https://dantri.com.vn/the-thao/huy-chuong-va-ao-finisher-tai-aqua-warriors-van-don-2025-camel-cup-20250925154501945.htm) - 09:40 25/09/2025
-- ⛽️ [Messi lập kỷ lục sau chiến thắng đậm của Inter Miami](https://dantri.com.vn/the-thao/messi-lap-ky-luc-sau-chien-thang-dam-cua-inter-miami-20250925155753692.htm) - 09:07 25/09/2025
-- 💃 [Tuyển futsal Việt Nam vượt Thái Lan, có thành tích tốt nhất Đông Nam Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-vuot-thai-lan-co-thanh-tich-tot-nhat-dong-nam-a-20250925155823413.htm) - 08:58 25/09/2025
+- 💯 [Tuyển futsal Việt Nam vượt Thái Lan, có thành tích tốt nhất Đông Nam Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-vuot-thai-lan-co-thanh-tich-tot-nhat-dong-nam-a-20250925155823413.htm) - 10:18 25/09/2025
+- ⛽️ [Huy chương và áo finisher tại Aqua Warriors Vân Đồn 2025 - Camel Cup](https://dantri.com.vn/the-thao/huy-chuong-va-ao-finisher-tai-aqua-warriors-van-don-2025-camel-cup-20250925154501945.htm) - 09:40 25/09/2025
+- 💃 [Messi lập kỷ lục sau chiến thắng đậm của Inter Miami](https://dantri.com.vn/the-thao/messi-lap-ky-luc-sau-chien-thang-dam-cua-inter-miami-20250925155753692.htm) - 09:07 25/09/2025
 - 🌈 [Báo Đông Nam Á bình luận về giải futsal châu Á với các đội bóng khu vực](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-ve-giai-futsal-chau-a-voi-cac-doi-bong-khu-vuc-20250925133418243.htm) - 08:35 25/09/2025
 - 🦅 [Điểm mặt các tay golf trụ cột của đội tuyển Mỹ trước Ryder Cup 2025](https://dantri.com.vn/the-thao/diem-mat-cac-tay-golf-tru-cot-cua-doi-tuyen-my-truoc-ryder-cup-2025-20250925141918305.htm) - 08:29 25/09/2025
 - 🌝 [Huấn luyện viên Mai Đức Chung được trao tặng danh hiệu Anh hùng Lao động](https://dantri.com.vn/the-thao/huan-luyen-vien-mai-duc-chung-duoc-trao-tang-danh-hieu-anh-hung-lao-dong-20250925112916184.htm) - 04:41 25/09/2025
