@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Kỷ luật tiêu cực sẽ để lại hậu quả nghiêm trọng với học sinh](https://dantri.com.vn/giao-duc/ky-luat-tieu-cuc-se-de-lai-hau-qua-nghiem-trong-voi-hoc-sinh-20250925121206595.htm) - 05:30 25/09/2025
+- 🤡 [Kỷ luật học sinh cần &quot;phòng bệnh hơn chữa bệnh&quot;](https://dantri.com.vn/giao-duc/ky-luat-hoc-sinh-can-phong-benh-hon-chua-benh-20250925121206595.htm) - 05:30 25/09/2025
 - 🗽 [Vụ tố thực phẩm ở trường học có &quot;mùi lạ&quot;: Tạm đình chỉ công tác hiệu trưởng](https://dantri.com.vn/giao-duc/vu-to-thuc-pham-o-truong-hoc-co-mui-la-tam-dinh-chi-cong-tac-hieu-truong-20250925094126434.htm) - 02:53 25/09/2025
 - 🚦 [Nam giáo viên bị đình chỉ công tác vì trộm 20kg gạo của học sinh](https://dantri.com.vn/giao-duc/nam-giao-vien-bi-dinh-chi-cong-tac-vi-trom-20kg-gao-cua-hoc-sinh-20250924151807136.htm) - 00:36 25/09/2025
 - 🌋 [Sáp nhập đại học: Chấm dứt hệ quả phát triển “nóng”, cơ hội cho trường tư](https://dantri.com.vn/giao-duc/sap-nhap-dai-hoc-cham-dut-he-qua-phat-trien-nong-co-hoi-cho-truong-tu-20250924223025793.htm) - 23:19 24/09/2025
