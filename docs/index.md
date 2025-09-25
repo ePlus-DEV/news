@@ -532,7 +532,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Trailer Anh trai say hi tập 2: Đại hội vạch mặt của 30 anh trai](https://muctim.tuoitre.vn/trailer-anh-trai-say-hi-tap-2-dai-hoi-vach-mat-cua-30-anh-trai-101250925023857615.htm) - 01:15 25/09/2025
 - 🥷 [Sao nhập ngũ tập 8: dàn cast ngỡ ngàng trước sức mạnh của Trang Pháp, Chi Pu](https://muctim.tuoitre.vn/sao-nhap-ngu-tap-8-dan-cast-ngo-ngang-truoc-suc-manh-cua-trang-phap-chi-pu-101250925022208677.htm) - 01:09 25/09/2025
-- 🤖 [Trực tiếp New York City đấu Inter Miami: Messi kiến tạo đẳng cấp](https://muctim.tuoitre.vn/truc-tiep-new-york-city-dau-inter-miami-messi-linh-xuong-hang-cong-101250925062902948.htm) - 23:29 24/09/2025
+- 🤖 [Messi rực sáng, Inter Miami thắng tưng bừng 4-0 trên sân New York City](https://muctim.tuoitre.vn/truc-tiep-new-york-city-dau-inter-miami-messi-linh-xuong-hang-cong-101250925062902948.htm) - 23:29 24/09/2025
 - 🤓 [Lịch thi đấu tứ kết bóng chuyền nam 25-9: Mong chờ đại diện châu Á](https://muctim.tuoitre.vn/lich-thi-dau-tu-ket-bong-chuyen-nam-25-9-mong-cho-dai-dien-chau-a-101250925013814611.htm) - 23:03 24/09/2025
 - 🎉 [Phim Tử chiến trên không vượt mức doanh thu 100 tỷ đồng](https://muctim.tuoitre.vn/phim-tu-chien-tren-khong-vuot-muc-doanh-thu-100-ty-dong-101250924215741832.htm) - 15:06 24/09/2025
 - 👨‍🏫 [Hứa Quang Hán bất ngờ với tình cảm của khán giả Việt Nam](https://muctim.tuoitre.vn/hua-quang-han-bat-ngo-voi-tinh-cam-cua-khan-gia-viet-nam-101250924215417805.htm) - 14:58 24/09/2025
