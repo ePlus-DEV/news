@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Thứ trưởng Bộ Xây dựng: Nâng cầu Bình Triệu 1 tạo lợi ích lâu dài cho TPHCM](https://dantri.com.vn/thoi-su/thu-truong-bo-xay-dung-nang-cau-binh-trieu-1-tao-loi-ich-lau-dai-cho-tphcm-20250924115954559.htm) - 05:00 26/09/2025
+- 🤠 [Những nút thắt cần tháo gỡ để phát triển giao thông thủy ở TPHCM](https://dantri.com.vn/thoi-su/nhung-nut-that-can-thao-go-de-phat-trien-giao-thong-thuy-o-tphcm-20250924115954559.htm) - 05:00 26/09/2025
 - 🌈 [Anh Tạ “Mưa đỏ” từng muốn đổi nghề diễn sang kinh doanh vì kinh tế khó khăn](https://dantri.com.vn/giai-tri/anh-ta-mua-do-tung-muon-doi-nghe-dien-sang-kinh-doanh-vi-kinh-te-kho-khan-20250925235757538.htm) - 03:30 26/09/2025
 - 🐎 [Người mẹ 2 con trở về từ cõi chết: “Đến giờ em vẫn ngỡ như trong mơ”](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-2-con-tro-ve-tu-coi-chet-den-gio-em-van-ngo-nhu-trong-mo-20250925170623624.htm) - 02:35 26/09/2025
 - 👹 [Mazda6 ngừng bán tại Việt Nam, tương lai Honda Accord ra sao?](https://dantri.com.vn/o-to-xe-may/mazda6-ngung-ban-tai-viet-nam-tuong-lai-honda-accord-ra-sao-20250925141243880.htm) - 23:30 25/09/2025
