@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Thủ tướng Israel phát biểu căng thẳng tại Đại hội đồng Liên hợp quốc](https://nld.com.vn/thu-tuong-israel-phat-bieu-cang-thang-tai-dai-hoi-dong-lien-hop-quoc-196250926220827694.htm) - 15:49 26/09/2025
 - 😺 [Trốn truy nã, cùng bạn gái vào khách sạn thì bị bắt](https://nld.com.vn/tron-truy-na-cung-ban-gai-vao-khach-san-thi-bi-bat-196250926214049623.htm) - 15:26 26/09/2025
-- 👍 [Sau trận thắng Việt Nam, FIFA phạt LĐBĐ Malaysia và 7 cầu thủ gian lận hồ sơ nhập tịch](https://nld.com.vn/sau-tran-thang-viet-nam-fifa-phat-ldbd-malaysia-va-7-cau-thu-gian-lan-ho-so-nhap-tich-196250926221827892.htm) - 15:22 26/09/2025
+- 👍 [FIFA phạt nặng Malaysia vì 7 cầu thủ gian lận hồ sơ nhập tịch ở trận thắng tuyển Việt Nam](https://nld.com.vn/sau-tran-thang-viet-nam-fifa-phat-ldbd-malaysia-va-7-cau-thu-gian-lan-ho-so-nhap-tich-196250926221827892.htm) - 15:22 26/09/2025
 - 🥷 [Ngoại binh lập công, Hà Nội FC có trận thắng đầu tiên](https://nld.com.vn/ngoai-binh-lap-cong-ha-noi-fc-co-tran-thang-dau-tien-196250926221124384.htm) - 15:16 26/09/2025
 - 🤔 [Một tập đoàn chi 68 triệu USD mua khu đất 2.000m2 ở trung tâm TP HCM](https://nld.com.vn/mot-tap-doan-chi-68-trieu-usd-mua-khu-dat-2000m2-o-trung-tam-tphcm-196250926213630775.htm) - 15:16 26/09/2025
 - 🌈 [Kinh hãi: Mẹ giấu thi thể con gái trong tủ đông suốt hai thập kỉ ở Nhật Bản](https://nld.com.vn/kinh-hai-me-giau-thi-the-con-gai-trong-tu-dong-suot-hai-thap-ki-o-nhat-ban-196250926212133216.htm) - 14:35 26/09/2025
