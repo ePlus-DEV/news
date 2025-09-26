@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Món ăn &#39;rác&#39; của Mỹ hút thực khách](https://vnexpress.net/mon-an-rac-cua-my-hut-thuc-khach-4943712.html) - 01:46 26/09/2025
-- 🪄 [Chuyến đi &#39;đổ bể&#39; vì bão của gia đình Việt lần đầu du lịch Hong Kong](https://vnexpress.net/chuyen-di-do-be-vi-bao-cua-gia-dinh-viet-lan-dau-du-lich-hong-kong-4943605.html) - 17:00 25/09/2025
+- 🪄 [Chuyến đi đổ bể vì bão của gia đình Việt lần đầu đến Hong Kong](https://vnexpress.net/chuyen-di-do-be-vi-bao-cua-gia-dinh-viet-lan-dau-den-hong-kong-4943605.html) - 17:00 25/09/2025
 - 🦅 [Vợ chồng Singapore mua nhà ở Nhật, đón khách lạ ở miễn phí](https://vnexpress.net/vo-chong-singapore-mua-nha-o-nhat-don-khach-la-o-mien-phi-4943685.html) - 11:00 25/09/2025
 - 🕴 [Tặng bia và chả mực để hút khách đến Quảng Ninh](https://vnexpress.net/tang-bia-va-cha-muc-de-hut-khach-den-quang-ninh-4943679.html) - 10:06 25/09/2025
 - 👀 [Món Việt nào nằm trong 100 món tệ nhất thế giới năm 2025?](https://vnexpress.net/mon-viet-nao-nam-trong-100-mon-te-nhat-the-gioi-nam-2025-4943588.html) - 07:55 25/09/2025
