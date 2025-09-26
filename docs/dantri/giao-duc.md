@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [40 học sinh nhập viện sau khi ăn sáng tại trường](https://dantri.com.vn/giao-duc/40-hoc-sinh-nhap-vien-sau-khi-an-sang-tai-truong-20250926131544770.htm) - 07:21 26/09/2025
+- 🤡 [Thứ trưởng Bộ Giáo dục: “Đề thi tốt nghiệp THPT 2025 hết sức toàn diện”](https://dantri.com.vn/giao-duc/thu-truong-bo-giao-duc-de-thi-tot-nghiep-thpt-2025-het-suc-toan-dien-20250926150815575.htm) - 08:24 26/09/2025
 - 🗽 [100.000 thí sinh sẽ thi thử tốt nghiệp THPT trên máy tính](https://dantri.com.vn/giao-duc/100000-thi-sinh-se-thi-thu-tot-nghiep-thpt-tren-may-tinh-20250926090244822.htm) - 07:01 26/09/2025
 - 🚦 [Thách thức trên hành trình AI hóa giáo dục của Hàn Quốc](https://dantri.com.vn/giao-duc/thach-thuc-tren-hanh-trinh-ai-hoa-giao-duc-cua-han-quoc-20250922121123343.htm) - 05:22 26/09/2025
 - 🌋 [Phụ huynh &quot;hoa mắt&quot; về danh sách chi chít các khoản thu đầu năm học](https://dantri.com.vn/giao-duc/phu-huynh-hoa-mat-ve-danh-sach-chi-chit-cac-khoan-thu-dau-nam-hoc-20250926095209444.htm) - 05:13 26/09/2025
