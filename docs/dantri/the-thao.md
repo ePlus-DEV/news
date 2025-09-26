@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lewandowski toả sáng giúp Barcelona bám đuổi Real Madrid](https://dantri.com.vn/the-thao/lewandowski-toa-sang-giup-barcelona-bam-duoi-real-madrid-20250926062834841.htm) - 23:30 25/09/2025
-- 💯 [Xác định hai cặp đấu bán kết giải bóng chuyền nam vô địch thế giới](https://dantri.com.vn/the-thao/xac-dinh-hai-cap-dau-ban-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-20250925230408783.htm) - 23:08 25/09/2025
-- ⛽️ [Nhà vô địch marathon đột ngột qua đời ở tuổi 30](https://dantri.com.vn/the-thao/nha-vo-dich-marathon-dot-ngot-qua-doi-o-tuoi-30-20250925235821434.htm) - 23:01 25/09/2025
+- 🎡 [Nhà vô địch marathon qua đời thương tâm ở tuổi 30](https://dantri.com.vn/the-thao/nha-vo-dich-marathon-qua-doi-thuong-tam-o-tuoi-30-20250925235821434.htm) - 23:31 25/09/2025
+- 💯 [Lewandowski toả sáng giúp Barcelona bám đuổi Real Madrid](https://dantri.com.vn/the-thao/lewandowski-toa-sang-giup-barcelona-bam-duoi-real-madrid-20250926062834841.htm) - 23:30 25/09/2025
+- ⛽️ [Xác định hai cặp đấu bán kết giải bóng chuyền nam vô địch thế giới](https://dantri.com.vn/the-thao/xac-dinh-hai-cap-dau-ban-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-20250925230408783.htm) - 23:08 25/09/2025
 - 💃 [VĐV háo hức về nội dung mới lạ ở Aqua Warriors Vân Đồn 2025 - Camel Cup](https://dantri.com.vn/the-thao/vdv-hao-huc-ve-noi-dung-moi-la-o-aqua-warriors-van-don-2025-camel-cup-20250925141132661.htm) - 23:00 25/09/2025
 - 🌈 [Sinner, Alcaraz giành chiến thắng ấn tượng ở giải ATP 500 tại châu Á](https://dantri.com.vn/the-thao/sinner-alcaraz-gianh-chien-thang-an-tuong-o-giai-atp-500-tai-chau-a-20250925220343663.htm) - 17:05 25/09/2025
 - 🦅 [Bị đuổi người, Nam Định thắng vất vả đội bóng Campuchia ở Cúp Đông Nam Á](https://dantri.com.vn/the-thao/bi-duoi-nguoi-nam-dinh-thang-vat-va-doi-bong-campuchia-o-cup-dong-nam-a-20250925220802408.htm) - 15:12 25/09/2025
