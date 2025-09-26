@@ -413,8 +413,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng dự lễ khởi công 2 dự án có tổng vốn 182 nghìn tỷ đồng tại Hải Phòng](https://baochinhphu.vn/thu-tuong-du-le-khoi-cong-2-du-an-co-tong-von-182-nghin-ty-dong-tai-hai-phong-102250926194851292.htm) - 23:59 26/09/2025
-- 🌜 [Thủ tướng chỉ đạo tập trung ứng phó bão số 10](https://baochinhphu.vn/thu-tuong-chi-dao-tap-trung-ung-pho-bao-so-10-nam-2025-102250926235513086.htm) - 23:54 26/09/2025
+- 💻 [Thủ tướng chỉ đạo tập trung ứng phó bão số 10](https://baochinhphu.vn/thu-tuong-chi-dao-tap-trung-ung-pho-bao-so-10-nam-2025-102250926235513086.htm) - 23:54 26/09/2025
+- 🌜 [Thủ tướng dự lễ khởi công 2 dự án có tổng vốn 182 nghìn tỷ đồng tại Hải Phòng](https://baochinhphu.vn/thu-tuong-du-le-khoi-cong-2-du-an-co-tong-von-182-nghin-ty-dong-tai-hai-phong-102250926194851292.htm) - 23:50 26/09/2025
 - 🦆 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 26/9/2025 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-26-9-2025-2-102250926225222912.htm) - 23:00 26/09/2025
 - 🌝 [Dự thảo Luật Xây dựng sửa đổi: Bãi bỏ nhiều thủ tục, đẩy mạnh phân quyền cho địa phương](https://baochinhphu.vn/du-thao-luat-xay-dung-sua-doi-bai-bo-nhieu-thu-tuc-day-manh-phan-quyen-cho-dia-phuong-102250926222549532.htm) - 22:57 26/09/2025
 - 🦣 [Sau năm 2030 sẽ đầu tư tuyến đường sắt Hải Phòng - Hạ Long - Móng Cái](https://baochinhphu.vn/sau-nam-2030-se-dau-tu-tuyen-duong-sat-hai-phong-ha-long-mong-cai-102250926223453091.htm) - 22:50 26/09/2025
