@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Laptop chạy Intel Core Ultra 7 có hoạt động hiệu quả?](https://thanhnien.vn/laptop-chay-intel-core-ultra-7-co-hoat-dong-hieu-qua-185250926222348057.htm) - 15:57 26/09/2025
-- 🥸 [Nóng: HLV Kim Sang-sik đã được báo tin đội tuyển Malaysia dùng 7 cầu thủ gian lận](https://thanhnien.vn/hlv-kim-sang-sik-da-duoc-bao-tin-doi-tuyen-malaysia-dung-7-cau-thu-gian-lan-185250926224046149.htm) - 15:50 26/09/2025
+- 🥸 [Nóng: HLV Kim đã được báo tin đội tuyển Malaysia dùng 7 cầu thủ gian lận trận thắng Việt Nam](https://thanhnien.vn/hlv-kim-sang-sik-da-duoc-bao-tin-doi-tuyen-malaysia-dung-7-cau-thu-gian-lan-185250926224046149.htm) - 15:50 26/09/2025
 - 🌁 [Highlight CLB Hà Nội 2-1 CLB Thanh Hóa: Lội ngược dòng trên sân Hàng Đẫy](https://thanhnien.vn/highlight-clb-ha-noi-2-1-clb-thanh-hoa-loi-nguoc-dong-tren-san-hang-day-185250926223634779.htm) - 15:38 26/09/2025
 - 🤡 [Lương Thùy Linh dự sự kiện thời trang cùng David Beckham](https://thanhnien.vn/luong-thuy-linh-du-su-kien-thoi-trang-cung-david-beckham-185250926215417468.htm) - 15:29 26/09/2025
 - 🎉 [Malaysia sắp bị AFC xử thua 0-3: Đội tuyển Việt Nam rộng đường đến Asian Cup 2027](https://thanhnien.vn/malaysia-sap-bi-fifa-afc-xu-thua-0-3-doi-tuyen-viet-nam-rong-duong-den-asian-cup-185250926221353648.htm) - 15:19 26/09/2025
