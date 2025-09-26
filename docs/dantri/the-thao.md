@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ngoại binh toả sáng, Hà Nội FC ngược dòng đánh CLB Thanh Hoá](https://dantri.com.vn/the-thao/ngoai-binh-toa-sang-ha-noi-fc-nguoc-dong-danh-clb-thanh-hoa-20250926215631339.htm) - 15:03 26/09/2025
+- 🎡 [Ngoại binh toả sáng, Hà Nội FC ngược dòng đánh bại CLB Thanh Hoá](https://dantri.com.vn/the-thao/ngoai-binh-toa-sang-ha-noi-fc-nguoc-dong-danh-bai-clb-thanh-hoa-20250926215631339.htm) - 15:03 26/09/2025
 - 💯 [Ngôi sao Malaysia làm nên lịch sử, được đề cử giải Cầu thủ hay nhất châu Á](https://dantri.com.vn/the-thao/ngoi-sao-malaysia-lam-nen-lich-su-duoc-de-cu-giai-cau-thu-hay-nhat-chau-a-20250926204436112.htm) - 14:01 26/09/2025
 - ⛽️ [HLV Mourinho tuyên bố bất ngờ về mức lương ở CLB mới](https://dantri.com.vn/the-thao/hlv-mourinho-tuyen-bo-bat-ngo-ve-muc-luong-o-clb-moi-20250926181529217.htm) - 11:15 26/09/2025
 - 💃 [Huỳnh Anh Khôi - Văn Tâm - Đan Quyết làm nóng đường đua HDBank Green Marathon 2025](https://dantri.com.vn/the-thao/huynh-anh-khoi-van-tam-dan-quyet-lam-nong-duong-dua-hdbank-green-marathon-2025-20250926165931542.htm) - 10:07 26/09/2025
