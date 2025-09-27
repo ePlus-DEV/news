@@ -10,7 +10,7 @@ sidebar_position: 11
 - 🕴 [Tượng Phật ở chùa nào Việt Nam trong top ấn tượng nhất thế giới?](https://vnexpress.net/tuong-phat-o-chua-nao-viet-nam-trong-top-an-tuong-nhat-the-gioi-4944311.html) - 04:09 27/09/2025
 - 👀 [&#39;Đọc bã&#39; cà phê đoán vận mệnh ở Thổ Nhĩ Kỳ](https://vnexpress.net/doc-ba-ca-phe-doan-van-menh-o-tho-nhi-ky-4943957.html) - 03:57 27/09/2025
 - 🎭 [Kỳ nghỉ chạm vào biển mây ở nóc nhà Bảo Lộc](https://vnexpress.net/ky-nghi-cham-vao-bien-may-o-noc-nha-bao-loc-4941532.html) - 23:00 26/09/2025
-- 🦒 [Tập yoga ngắm cá bơi ở thuỷ cung](https://vnexpress.net/tap-yoga-ngam-ca-boi-o-thuy-cung-4944020.html) - 17:00 26/09/2025
+- 🦒 [Khách chi gần triệu đồng tập yoga, ngắm cá bơi ở thuỷ cung](https://vnexpress.net/khach-chi-gan-trieu-dong-tap-yoga-ngam-ca-boi-o-thuy-cung-4944020.html) - 17:00 26/09/2025
 - 👨‍🏫 [Khu phố Việt Nam vào top tuyệt vời nhất thế giới](https://vnexpress.net/khu-pho-viet-nam-vao-top-tuyet-voi-nhat-the-gioi-4944132.html) - 10:30 26/09/2025
 - ⚗️ [Khách Việt chia sẻ cách mua vé Tử Cấm Thành](https://vnexpress.net/khach-viet-chia-se-cach-mua-ve-tu-cam-thanh-4943899.html) - 07:18 26/09/2025
 - 🥸 [Sổ gạo thời bao cấp dùng để làm gì?](https://vnexpress.net/so-gao-thoi-bao-cap-dung-de-lam-gi-4943986.html) - 06:25 26/09/2025
