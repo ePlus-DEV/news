@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Hứa Quang Hán thưởng thức gỏi cuốn, phở thố đá Việt Nam](https://vnexpress.net/hua-quang-han-thuong-thuc-goi-cuon-pho-tho-da-viet-nam-4944486.html) - 13:01 27/09/2025
-- 🪄 [Làng gốm Thanh Hà là &#39;Điểm du lịch cộng đồng tốt nhất&#39; Việt Nam](https://vnexpress.net/lang-gom-thanh-ha-la-diem-du-lich-cong-dong-tot-nhat-viet-nam-4944427.html) - 10:21 27/09/2025
+- 🪄 [Làng gốm Thanh Hà giành giải &#39;Điểm du lịch cộng đồng tốt nhất&#39; Việt Nam](https://vnexpress.net/lang-gom-thanh-ha-gianh-giai-diem-du-lich-cong-dong-tot-nhat-viet-nam-4944427.html) - 10:21 27/09/2025
 - 🦅 [Khách Tây balo bị chỉ trích vì ngủ trong nhà vệ sinh để tiết kiệm](https://vnexpress.net/khach-tay-balo-bi-chi-trich-vi-ngu-trong-nha-ve-sinh-de-tiet-kiem-4944368.html) - 05:39 27/09/2025
 - 🕴 [Tượng Phật ở chùa nào Việt Nam trong top ấn tượng nhất thế giới?](https://vnexpress.net/tuong-phat-o-chua-nao-viet-nam-trong-top-an-tuong-nhat-the-gioi-4944311.html) - 04:09 27/09/2025
 - 👀 [&#39;Đọc bã&#39; cà phê đoán vận mệnh ở Thổ Nhĩ Kỳ](https://vnexpress.net/doc-ba-ca-phe-doan-van-menh-o-tho-nhi-ky-4943957.html) - 03:57 27/09/2025
