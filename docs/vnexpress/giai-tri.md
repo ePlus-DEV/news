@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phim &#39;Phá địa ngục&#39; đại diện Hong Kong tranh Oscar](https://vnexpress.net/phim-pha-dia-nguc-dai-dien-hong-kong-tranh-oscar-4944342.html) - 06:10 27/09/2025
+- 🌏 [Hong Kong chọn &#39;Phá địa ngục&#39; tranh Oscar 2026](https://vnexpress.net/hong-kong-chon-pha-dia-nguc-tranh-oscar-2026-4944342.html) - 06:10 27/09/2025
 - 💫 [&#39;Chuyện của mặt trời&#39; - tiểu thuyết về nạn buôn người](https://vnexpress.net/chuyen-cua-mat-troi-tieu-thuyet-ve-nan-buon-nguoi-4942759.html) - 06:01 27/09/2025
 - 🌮 [Trọng Hiếu nhớ bố trong E.P &#39;Kho báu&#39;](https://vnexpress.net/trong-hieu-nho-bo-trong-e-p-kho-bau-4944045.html) - 05:08 27/09/2025
 - 🧠 [Vợ chồng Ryan Reynolds sải bước trên phố như catwalk](https://vnexpress.net/vo-chong-ryan-reynolds-sai-buoc-tren-pho-nhu-catwalk-4944317.html) - 04:25 27/09/2025
