@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Kỳ nghỉ chạm vào biển mây ở nóc nhà Bảo Lộc](https://vnexpress.net/ky-nghi-cham-vao-bien-may-o-noc-nha-bao-loc-4941532.html) - 23:00 26/09/2025
-- 🪄 [Trải nghiệm tập yoga ngắm cá bơi ở thuỷ cung](https://vnexpress.net/trai-nghiem-tap-yoga-ngam-ca-boi-o-thuy-cung-4944020.html) - 17:00 26/09/2025
+- 🪄 [Tập yoga ngắm cá bơi ở thuỷ cung](https://vnexpress.net/tap-yoga-ngam-ca-boi-o-thuy-cung-4944020.html) - 17:00 26/09/2025
 - 🦅 [Khu phố Việt Nam vào top tuyệt vời nhất thế giới](https://vnexpress.net/khu-pho-viet-nam-vao-top-tuyet-voi-nhat-the-gioi-4944132.html) - 10:30 26/09/2025
 - 🕴 [Khách Việt chia sẻ cách mua vé Tử Cấm Thành](https://vnexpress.net/khach-viet-chia-se-cach-mua-ve-tu-cam-thanh-4943899.html) - 07:18 26/09/2025
 - 👀 [Sổ gạo thời bao cấp dùng để làm gì?](https://vnexpress.net/so-gao-thoi-bao-cap-dung-de-lam-gi-4943986.html) - 06:25 26/09/2025
