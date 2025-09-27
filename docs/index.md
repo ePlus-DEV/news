@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bán kết bóng chuyền nam: Ý và Ba Lan tranh tài](https://muctim.tuoitre.vn/truc-tiep-ban-ket-bong-chuyen-nam-y-va-ba-lan-tranh-tai-101250927171526518.htm) - 10:21 27/09/2025
+- 🤔 [Ý thắng Ba Lan 3-0, giành quyền vào chung kết Giải bóng chuyền nam](https://muctim.tuoitre.vn/truc-tiep-ban-ket-bong-chuyen-nam-y-va-ba-lan-tranh-tai-101250927171526518.htm) - 10:21 27/09/2025
 - 🥷 [Concert V Fest - Vietnam Today phát sóng trên VTV tối nay 27-9](https://muctim.tuoitre.vn/concert-v-fest-vietnam-today-phat-song-tren-vtv-toi-nay-27-9-101250927163531807.htm) - 10:19 27/09/2025
 - 🤖 [Đội tuyển nào sáng cửa giành vé tham dự World Cup 2026 tiếp theo?](https://muctim.tuoitre.vn/doi-tuyen-nao-sang-cua-gianh-ve-tham-du-world-cup-2026-tiep-theo-101250927114911443.htm) - 08:47 27/09/2025
 - 🤓 [Trường đại học Thủ Dầu Một giành 2 giải cao nhất tại Liên hoan Nhóm nhảy học sinh, sinh viên](https://muctim.tuoitre.vn/truong-dai-hoc-thu-dau-mot-gianh-2-giai-cao-nhat-tai-lien-hoan-nhom-nhay-hoc-sinh-sinh-vien-101250927135539785.htm) - 08:19 27/09/2025
