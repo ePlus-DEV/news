@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Chủ tịch Duma Quốc gia Nga: Không ngừng mở rộng hợp tác Việt - Nga](https://nld.com.vn/chu-tich-duma-quoc-gia-nga-khong-ngung-mo-rong-hop-tac-viet-nga-196250928212608113.htm) - 15:31 28/09/2025
-- 😺 [Bão số 10 &lpar;Bualoi&rpar;: Gió quần thảo dữ dội, cây xanh ngã đổ ở miền Trung](https://nld.com.vn/bao-so-10-bualoi-gio-quan-thao-du-doi-cay-xanh-thi-nhau-nga-do-o-mien-trung-196250928212315216.htm) - 14:55 28/09/2025
+- 😺 [Bão số 10 &lpar;Bualoi&rpar;: Gió quần thảo dữ dội, cây xanh ngã đổ ở miền Trung](https://nld.com.vn/bao-so-10-bualoi-gio-quan-thao-du-doi-cay-xanh-nga-do-o-mien-trung-196250928212315216.htm) - 14:55 28/09/2025
 - 👍 [Hình ảnh hàng trăm người gia cố đoạn kè biển bị sụt lún ở Hà Tĩnh](https://nld.com.vn/hinh-anh-hang-tram-nguoi-gia-co-doan-ke-bien-bi-sut-lun-o-ha-tinh-196250928204852838.htm) - 14:32 28/09/2025
 - 🥷 [Xôn xao clip &quot;cướp&quot; phiếu đặt cọc căn hộ gây hỗn loạn ở TP HCM](https://nld.com.vn/xon-xao-clip-cuop-phieu-dat-coc-can-ho-gay-hon-loan-o-tp-hcm-196250928205857592.htm) - 14:26 28/09/2025
 - 🤔 [Hoàng Đức lập công nhưng Ninh Bình FC vẫn bị ngắt mạch thắng](https://nld.com.vn/hoang-duc-lap-cong-nhung-ninh-binh-fc-van-bi-ngat-mach-thang-196250928212019756.htm) - 14:24 28/09/2025
