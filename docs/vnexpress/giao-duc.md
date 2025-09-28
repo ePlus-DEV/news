@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ít nhất 1,3 triệu học sinh nghỉ học tránh bão Bualoi](https://vnexpress.net/nhieu-tinh-cho-hoc-sinh-nghi-hoc-tranh-bao-bualoi-4944593.html) - 03:59 28/09/2025
+- 🤓 [Hơn 2,6 triệu học sinh nghỉ học tránh bão Bualoi](https://vnexpress.net/nhieu-tinh-cho-hoc-sinh-nghi-hoc-tranh-bao-bualoi-4944593.html) - 03:59 28/09/2025
 - 🦆 [Học sinh Việt thường xuyên đỗ học bổng cạnh tranh nhất đại học top 1 Canada](https://vnexpress.net/hoc-sinh-viet-thuong-xuyen-do-hoc-bong-canh-tranh-nhat-dai-hoc-top-1-canada-4944507.html) - 02:51 28/09/2025
 - 🦩 [Pháp tiến sát mốc nửa triệu sinh viên quốc tế](https://vnexpress.net/phap-tien-sat-moc-nua-trieu-sinh-vien-quoc-te-4941195.html) - 01:51 28/09/2025
 - 🌮 [Con đường nào đưa đại học Việt Nam vào top 100 thế giới?](https://vnexpress.net/con-duong-nao-dua-dai-hoc-viet-nam-vao-top-100-the-gioi-4939608.html) - 01:09 28/09/2025
