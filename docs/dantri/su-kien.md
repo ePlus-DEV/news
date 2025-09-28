@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Bão Bualoi sắp đổ bộ đất liền Nghệ An - Quảng Trị](https://dantri.com.vn/thoi-su/bao-bualoi-sap-do-bo-dat-lien-nghe-an-quang-tri-20250928222809727.htm) - 15:32 28/09/2025
+- 🎭 [Nhiều cột điện ở Quảng Trị gãy đổ do bão Bualoi](https://dantri.com.vn/thoi-su/nhieu-cot-dien-o-quang-tri-gay-do-do-bao-bualoi-20250928222809727.htm) - 15:32 28/09/2025
 - 👨‍🏫 [Bé trai ném dép trúng vòi nước chữa cháy làm 2 thang máy chung cư tê liệt](https://dantri.com.vn/thoi-su/be-trai-nem-dep-trung-voi-nuoc-chua-chay-lam-2-thang-may-chung-cu-te-liet-20250928202249050.htm) - 13:36 28/09/2025
 - 🌮 [Hàng trăm người đội mưa, vật lộn với sóng dữ &quot;vá&quot; kè biển trong bão Bualoi](https://dantri.com.vn/thoi-su/hang-tram-nguoi-doi-mua-vat-lon-voi-song-du-va-ke-bien-trong-bao-bualoi-20250928191720340.htm) - 12:54 28/09/2025
 - 🕯 [Bão Bualoi tàn phá nặng nề, Philippines chịu tổn thất kinh tế lớn](https://dantri.com.vn/kinh-doanh/bao-bualoi-tan-pha-nang-ne-philippines-chiu-ton-that-kinh-te-lon-20250928170720161.htm) - 11:15 28/09/2025
