@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Ông Hoàng Quốc Khánh tái cử Bí thư tỉnh Sơn La](https://vnexpress.net/ong-hoang-quoc-khanh-tai-cu-bi-thu-tinh-son-la-4944710.html) - 13:52 28/09/2025
 - 🤓 [Phát hiện đạn pháo dài nửa mét khi dọn cây](https://vnexpress.net/phat-hien-dan-phao-dai-nua-met-khi-don-cay-4944708.html) - 13:16 28/09/2025
 - ⚗️ [Đèo Bảo Lộc bị sạt lở](https://vnexpress.net/deo-bao-loc-bi-sat-lo-4944707.html) - 12:56 28/09/2025
-- 🌊 [Bão vẫn mạnh cấp 12, vài giờ tới đổ bộ Nghệ An - Quảng Trị](https://vnexpress.net/bao-ap-sat-bo-bien-quang-tri-4944652.html) - 11:00 28/09/2025
+- 🌊 [Bão sắp đổ bộ Nghệ An - Quảng Trị](https://vnexpress.net/bao-ap-sat-bo-bien-quang-tri-4944652.html) - 11:00 28/09/2025
 - 🎓 [Xác cá voi dài 10 m dạt vào đảo Lý Sơn trong bão Bualoi](https://vnexpress.net/xac-ca-voi-dai-10-m-dat-vao-dao-ly-son-trong-bao-bualoi-4944684.html) - 10:54 28/09/2025
 - 🔥 [Ba công nhân tử vong trong hầm lò](https://vnexpress.net/ba-cong-nhan-tu-vong-trong-ham-lo-4944675.html) - 10:43 28/09/2025
 - 🦏 [Bão Bualoi giảm tốc, tác động tới đất liền sẽ lâu hơn](https://vnexpress.net/bao-bualoi-giam-toc-tac-dong-toi-dat-lien-se-lau-hon-4944661.html) - 10:11 28/09/2025
