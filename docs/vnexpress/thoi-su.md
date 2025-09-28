@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ba người trong gia đình bị điện giật tử vong](https://vnexpress.net/ba-nguoi-trong-gia-dinh-bi-dien-giat-tu-vong-4944647.html) - 09:11 28/09/2025
+- 🦒 [Ba người trong gia đình tử vong ở vườn ổi](https://vnexpress.net/ba-nguoi-trong-gia-dinh-tu-vong-o-vuon-oi-4944647.html) - 09:11 28/09/2025
 - 🤓 [Tổng Bí thư: Công an phải củng cố tinh thần thượng tôn pháp luật trong xã hội](https://vnexpress.net/tong-bi-thu-cong-an-phai-cung-co-tinh-than-thuong-ton-phap-luat-trong-xa-hoi-4944614.html) - 07:00 28/09/2025
 - ⚗️ [Hàng nghìn người miền Trung đưa ôtô đi tránh bão Bualoi](https://vnexpress.net/hang-nghin-nguoi-mien-trung-dua-oto-di-tranh-bao-bualoi-4944616.html) - 06:50 28/09/2025
 - 🌊 [Thông xe cầu Phong Châu sớm ba tháng](https://vnexpress.net/thong-xe-cau-phong-chau-som-ba-thang-4944606.html) - 06:33 28/09/2025
