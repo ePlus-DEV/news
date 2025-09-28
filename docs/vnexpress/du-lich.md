@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Quán cà phê ở độ cao 800 m trên cây cầu cao nhất thế giới của Trung Quốc](https://vnexpress.net/quan-ca-phe-o-do-cao-800-m-tren-cay-cau-cao-nhat-the-gioi-cua-trung-quoc-4944730.html) - 17:00 28/09/2025
+- 💂 [Quán cà phê nằm trên cây cầu cao nhất thế giới của Trung Quốc](https://vnexpress.net/quan-ca-phe-nam-tren-cay-cau-cao-nhat-the-gioi-cua-trung-quoc-4944730.html) - 17:00 28/09/2025
 - 🪄 [Hàng nghìn người xem rước đèn Trung thu khổng lồ ở thành cổ Sơn Tây](https://vnexpress.net/hang-nghin-nguoi-xem-ruoc-den-trung-thu-khong-lo-o-thanh-co-son-tay-4944719.html) - 15:13 28/09/2025
 - 🦅 [Khách Trung Quốc leo vách đá cứu người ngã xuống biển](https://vnexpress.net/khach-trung-quoc-leo-vach-da-cuu-nguoi-nga-xuong-bien-4944692.html) - 13:00 28/09/2025
 - 🕴 [Khu du lịch, nhà hàng, khách sạn chống bão Bualoi](https://vnexpress.net/khu-du-lich-nha-hang-khach-san-chong-bao-bualoi-4944656.html) - 12:29 28/09/2025
