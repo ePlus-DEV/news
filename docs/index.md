@@ -528,7 +528,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Ấm áp niềm vui Trung thu tại làng Hòa Bình](https://muctim.tuoitre.vn/am-ap-niem-vui-trung-thu-tai-lang-hoa-binh-10125092817535104.htm) - 11:02 28/09/2025
 - 🥷 [Bão Bualoi đang tiến sát đất liền, cách Quảng Trị khoảng 110km](https://muctim.tuoitre.vn/bao-bualoi-dang-tien-sat-dat-lien-cach-quang-tri-khoang-110km-101250928171642817.htm) - 10:50 28/09/2025
-- 🤖 [Trực tiếp vòng 5 V-League 1: Thép Xanh Nam Định vs Công An Hà Nội](https://muctim.tuoitre.vn/truc-tiep-vong-5-v-league-1-thep-xanh-nam-dinh-vs-cong-an-ha-noi-101250928174348241.htm) - 10:44 28/09/2025
+- 🤖 [Trực tiếp vòng 5 V-League 1: Hoàng Đức mở tỉ số cho Ninh Bình](https://muctim.tuoitre.vn/truc-tiep-vong-5-v-league-1-thep-xanh-nam-dinh-vs-cong-an-ha-noi-101250928174348241.htm) - 10:44 28/09/2025
 - 🤓 [Trực tiếp chung kết Giải bóng chuyền nam vô địch thế giới: Bulgaria đối đầu Ý](https://muctim.tuoitre.vn/truc-tiep-chung-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-bulgaria-doi-dau-y-101250928162044178.htm) - 09:55 28/09/2025
 - 🎉 [Trung thu mơ ước 2025: lay động câu chuyện của những bạn nhỏ giàu nghị lực](https://muctim.tuoitre.vn/trung-thu-mo-uoc-2025-lay-dong-cau-chuyen-cua-nhung-ban-nho-giau-nghi-luc-101250928161158532.htm) - 09:53 28/09/2025
 - 👨‍🏫 [Rộn ràng góc photobooth tại chương trình Trung thu mơ ước](https://muctim.tuoitre.vn/ron-rang-goc-photobooth-tai-chuong-trinh-trung-thu-mo-uoc-101250928155031584.htm) - 09:50 28/09/2025
