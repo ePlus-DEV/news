@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bỏ bằng tốt nghiệp THCS &#39;giúp giảm áp lực bằng cấp&#39;](https://vnexpress.net/bo-bang-tot-nghiep-thcs-giup-giam-ap-luc-bang-cap-4945120.html) - 14:26 29/09/2025
+- 🦒 [&#39;Bỏ bằng tốt nghiệp THCS giúp giảm áp lực bằng cấp&#39;](https://vnexpress.net/bo-bang-tot-nghiep-thcs-giup-giam-ap-luc-bang-cap-4945120.html) - 14:26 29/09/2025
 - 🤓 [Ôtô bị cuốn xuống vực sâu 50 m, ba người thoát nạn](https://vnexpress.net/oto-bi-cuon-xuong-vuc-sau-50-m-ba-nguoi-thoat-nan-4945191.html) - 12:56 29/09/2025
 - ⚗️ [Ông Lê Quang Mạnh được giao điều hành Văn phòng Quốc hội](https://vnexpress.net/ong-le-quang-manh-duoc-giao-dieu-hanh-van-phong-quoc-hoi-4945184.html) - 12:11 29/09/2025
 - 🌊 [Một giờ vật lộn thoát khỏi tàu chìm trên sông Gianh](https://vnexpress.net/mot-gio-vat-lon-thoat-khoi-tau-chim-tren-song-gianh-4945003.html) - 11:51 29/09/2025
@@ -30,7 +30,7 @@ sidebar_position: 1
 - 🕯 [Giông lốc khiến 9 người ở Ninh Bình tử vong](https://vnexpress.net/giong-loc-khien-7-nguoi-o-ninh-binh-tu-vong-4944836.html) - 02:42 29/09/2025
 - 😺 [9 ngư dân TP HCM mất tích trên hai tàu cá](https://vnexpress.net/9-ngu-dan-tp-hcm-mat-tich-tren-hai-tau-ca-4944790.html) - 01:59 29/09/2025
 - 🦆 [Những cô giáo gánh &#39;cơm có thịt&#39; lên non cho học trò](https://vnexpress.net/nhung-co-giao-ganh-com-co-thit-len-non-cho-hoc-tro-4944434.html) - 23:00 28/09/2025
-- 🧰 [12 người tử vong, 17 ngư dân mất liên lạc do bão Bualoi](https://vnexpress.net/bao-hoanh-hanh-o-ha-tinh-4944749.html) - 22:19 28/09/2025
+- 🧰 [Bão Bualoi hoành hành Nghệ An - Hà Tĩnh, 13 người chết](https://vnexpress.net/bao-hoanh-hanh-o-ha-tinh-4944749-tong-thuat.html) - 22:19 28/09/2025
 - 🦍 [Loạt gầm cầu ở TP HCM thành nơi đậu xe, đổ rác](https://vnexpress.net/loat-gam-cau-o-tp-hcm-thanh-noi-dau-xe-do-rac-4944715.html) - 22:00 28/09/2025
 - 🧰 [Ông Hoàng Quốc Khánh tái cử Bí thư tỉnh Sơn La](https://vnexpress.net/ong-hoang-quoc-khanh-tai-cu-bi-thu-tinh-son-la-4944710.html) - 13:52 28/09/2025
 - 💃 [Phát hiện đạn pháo dài nửa mét khi dọn cây](https://vnexpress.net/phat-hien-dan-phao-dai-nua-met-khi-don-cay-4944708.html) - 13:16 28/09/2025
