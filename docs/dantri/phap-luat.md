@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Tiếp nhận lao động cờ bạc từ Campuchia](https://dantri.com.vn/phap-luat/tiep-nhan-lao-dong-co-bac-tu-campuchia-20250929205947520.htm) - 15:07 29/09/2025
+- 🌊 [Tây Ninh tiếp nhận 27 đối tượng bị trục xuất từ Campuchia](https://dantri.com.vn/phap-luat/tay-ninh-tiep-nhan-27-doi-tuong-bi-truc-xuat-tu-campuchia-20250929205947520.htm) - 15:07 29/09/2025
 - 🐲 [Trộm 48 thùng linh kiện 2,5 tỷ đồng, đem bán phế liệu được 45 triệu đồng](https://dantri.com.vn/phap-luat/trom-48-thung-linh-kien-25-ty-dong-dem-ban-phe-lieu-duoc-45-trieu-dong-20250929191727315.htm) - 13:40 29/09/2025
 - 🌁 [Truy tìm nhóm thanh niên náo loạn khu công nghiệp ở TPHCM](https://dantri.com.vn/phap-luat/truy-tim-nhom-thanh-nien-nao-loan-khu-cong-nghiep-o-tphcm-20250929195436614.htm) - 13:40 29/09/2025
 - 🎃 [Giam lỏng con bạc để ép trả nợ](https://dantri.com.vn/phap-luat/giam-long-con-bac-de-ep-tra-no-20250929193510276.htm) - 13:20 29/09/2025
