@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Vụ 40 học sinh nhập viện: Phó Hiệu trưởng nói về đoạn clip gây tranh luận](https://dantri.com.vn/suc-khoe/vu-40-hoc-sinh-nhap-vien-pho-hieu-truong-noi-ve-doan-clip-gay-tranh-luan-20250929093504852.htm) - 05:11 29/09/2025
+- 🤔 [Việt Nam tốn gần 30.000 tỷ đồng phí xét nghiệm cho khám chữa bệnh bảo hiểm](https://dantri.com.vn/suc-khoe/viet-nam-ton-gan-30000-ty-dong-phi-xet-nghiem-cho-kham-chua-benh-bao-hiem-20250929134410821.htm) - 06:56 29/09/2025
 - 🚦 [Bác sĩ chỉ ra 4 sai lầm trong ăn uống hiện đại ai cũng dễ mắc phải](https://dantri.com.vn/suc-khoe/bac-si-chi-ra-4-sai-lam-trong-an-uong-hien-dai-ai-cung-de-mac-phai-20250929095450784.htm) - 02:57 29/09/2025
 - 🤖 [Thu Cúc TCI ghi dấu ấn với tôn chỉ bền bỉ tri ân khách hàng](https://dantri.com.vn/suc-khoe/thu-cuc-tci-ghi-dau-an-voi-ton-chi-ben-bi-tri-an-khach-hang-20250929000448421.htm) - 02:00 29/09/2025
 - 🐻 [Hơn một nửa số ca mắc bệnh lây truyền qua đường tình dục xảy ra ở người trẻ](https://dantri.com.vn/suc-khoe/hon-mot-nua-so-ca-mac-benh-lay-truyen-qua-duong-tinh-duc-xay-ra-o-nguoi-tre-20250928144342623.htm) - 00:48 29/09/2025
