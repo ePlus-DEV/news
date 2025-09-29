@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Bỏ bằng tốt nghiệp THCS giúp giảm áp lực bằng cấp&#39;](https://vnexpress.net/bo-bang-tot-nghiep-thcs-giup-giam-ap-luc-bang-cap-4945120.html) - 14:26 29/09/2025
-- 🤓 [Ôtô bị cuốn xuống vực sâu 50 m, ba người thoát nạn](https://vnexpress.net/oto-bi-cuon-xuong-vuc-sau-50-m-ba-nguoi-thoat-nan-4945191.html) - 12:56 29/09/2025
+- 🤓 [Ôtô lao vực 50 m ở Sa Pa, hàng chục người thoát nạn trên Ô Quy Hồ](https://vnexpress.net/oto-lao-vuc-50-m-o-sa-pa-hang-chuc-nguoi-thoat-nan-tren-o-quy-ho-4945191.html) - 12:56 29/09/2025
 - ⚗️ [Ông Lê Quang Mạnh được giao điều hành Văn phòng Quốc hội](https://vnexpress.net/ong-le-quang-manh-duoc-giao-dieu-hanh-van-phong-quoc-hoi-4945184.html) - 12:11 29/09/2025
 - 🌊 [Một giờ vật lộn thoát khỏi tàu chìm trên sông Gianh](https://vnexpress.net/mot-gio-vat-lon-thoat-khoi-tau-chim-tren-song-gianh-4945003.html) - 11:51 29/09/2025
 - 🎓 [Giải cứu 13 người mắc kẹt trong trang trại ngập nước](https://vnexpress.net/giai-cuu-13-nguoi-mac-ket-trong-trang-trai-ngap-nuoc-4945141.html) - 10:49 29/09/2025
