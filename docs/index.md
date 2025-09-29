@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [&#39;Bỏ bằng tốt nghiệp THCS giúp giảm áp lực bằng cấp&#39;](https://vnexpress.net/bo-bang-tot-nghiep-thcs-giup-giam-ap-luc-bang-cap-4945120.html) - 14:26 29/09/2025
+- 🚀 [Bỏ bằng tốt nghiệp THCS &#39;giúp giảm áp lực bằng cấp&#39;](https://vnexpress.net/bo-bang-tot-nghiep-thcs-giup-giam-ap-luc-bang-cap-4945120.html) - 14:26 29/09/2025
 - 🧰 [Việt Nam - Đức nhất trí sớm nâng cấp quan hệ song phương](https://vnexpress.net/viet-nam-duc-nhat-tri-som-nang-cap-quan-he-song-phuong-4945213.html) - 14:25 29/09/2025
 - 🥰 [Luật sư Mỹ tranh cãi, coi thường thân chủ trên Facebook](https://vnexpress.net/luat-su-my-tranh-cai-coi-thuong-than-chu-tren-facebook-4945174.html) - 14:03 29/09/2025
 - 🌏 [Khoảnh khắc sạt lở đất hất văng ôtô xuống vực ở Sa Pa](https://vnexpress.net/khoanh-khac-sat-lo-dat-hat-vang-oto-xuong-vuc-o-sa-pa-4945210.html) - 14:03 29/09/2025
