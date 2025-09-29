@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Việt - Nga quyết tâm đưa hợp tác khoa học công nghệ lên tầm cao mới](https://vnexpress.net/viet-nga-quyet-tam-dua-hop-tac-khoa-hoc-cong-nghe-len-tam-cao-moi-4945178.html) - 12:48 29/09/2025
-- 🕴 [Văn hóa tôn sùng minh tinh như thánh nhân ở bang miền nam Ấn Độ](https://vnexpress.net/van-hoa-ton-sung-minh-tinh-nhu-thanh-nhan-o-bang-mien-nam-an-do-4944778.html) - 12:28 29/09/2025
+- 🕴 [Văn hóa tôn sùng sao điện ảnh như thánh nhân ở bang miền nam Ấn Độ](https://vnexpress.net/van-hoa-ton-sung-sao-dien-anh-nhu-thanh-nhan-o-bang-mien-nam-an-do-4944778.html) - 12:28 29/09/2025
 - 🤭 [Trung Quốc tử hình 16 thành viên băng đảng điều hành trung tâm lừa đảo](https://vnexpress.net/trung-quoc-tu-hinh-16-thanh-vien-bang-dang-dieu-hanh-trung-tam-lua-dao-4945164.html) - 11:42 29/09/2025
 - 🧑‍💻 [Thêm loạt drone lạ xâm nhập căn cứ quân sự Đan Mạch](https://vnexpress.net/them-loat-drone-la-xam-nhap-can-cu-quan-su-dan-mach-4945061.html) - 10:40 29/09/2025
 - 🦏 [Ông Thaksin có thể đã xin hoàng gia Thái Lan ân xá](https://vnexpress.net/ong-thaksin-co-the-da-xin-hoang-gia-thai-lan-an-xa-4945090.html) - 10:19 29/09/2025
