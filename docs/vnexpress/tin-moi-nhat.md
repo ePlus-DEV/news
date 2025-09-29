@@ -47,7 +47,7 @@ sidebar_position: 9
 - 🏊 [VTV24](https://vnexpress.net/vtv24-4945094.html) - 11:50 29/09/2025
 - 💃 [Yeah1](https://vnexpress.net/yeah1-4945095.html) - 11:48 29/09/2025
 - 🦆 [FAPTV](https://vnexpress.net/faptv-4945096.html) - 11:48 29/09/2025
-- 🎊 [Trưởng ban trọng tài Ngoại hạng Anh bị chê thất bại](https://vnexpress.net/truong-ban-trong-tai-ngoai-hang-anh-bi-che-that-bai-4945179.html) - 11:48 29/09/2025
+- 🎊 [Trưởng ban trọng tài Ngoại hạng Anh bị chê thất bại sau trận Newcastle - Arsenal](https://vnexpress.net/truong-ban-trong-tai-ngoai-hang-anh-bi-che-that-bai-sau-tran-newcastle-arsenal-4945179.html) - 11:48 29/09/2025
 - 👺 [Huyền thoại billiards Mika Immonen qua đời](https://vnexpress.net/huyen-thoai-billiards-mika-immonen-qua-doi-4945181.html) - 11:43 29/09/2025
 - 🎡 [Trung Quốc tử hình 16 thành viên băng đảng điều hành trung tâm lừa đảo](https://vnexpress.net/trung-quoc-tu-hinh-16-thanh-vien-bang-dang-dieu-hanh-trung-tam-lua-dao-4945164.html) - 11:42 29/09/2025
 - 👍 [TP HCM gỡ vướng cho 54 khu đất làm nhà ở thương mại](https://vnexpress.net/tp-hcm-go-vuong-cho-54-khu-dat-lam-nha-o-thuong-mai-4945117.html) - 11:42 29/09/2025
