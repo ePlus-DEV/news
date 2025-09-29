@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Alcaraz đấu Fritz ở chung kết Nhật Bản Mở rộng](https://vnexpress.net/alcaraz-dau-fritz-o-chung-ket-nhat-ban-mo-rong-4945206.html) - 13:41 29/09/2025
-- 🦩 [Trưởng ban trọng tài Ngoại hạng Anh bị chê thất bại](https://vnexpress.net/truong-ban-trong-tai-ngoai-hang-anh-bi-che-that-bai-4945179.html) - 11:48 29/09/2025
+- 🦩 [Trưởng ban trọng tài Ngoại hạng Anh bị chê thất bại sau trận Newcastle - Arsenal](https://vnexpress.net/truong-ban-trong-tai-ngoai-hang-anh-bi-che-that-bai-sau-tran-newcastle-arsenal-4945179.html) - 11:48 29/09/2025
 - 🧰 [Huyền thoại billiards Mika Immonen qua đời](https://vnexpress.net/huyen-thoai-billiards-mika-immonen-qua-doi-4945181.html) - 11:43 29/09/2025
 - 🤗 [Những giả thuyết dẫn đến án phạt nặng của bóng đá Malaysia](https://vnexpress.net/nhung-gia-thuyet-dan-den-an-phat-nang-cua-bong-da-malaysia-4945156.html) - 11:12 29/09/2025
 - 🥳 [Neville: &#39;Cầu thủ Man Utd bắt đầu nghi ngờ hệ thống của Amorim&#39;](https://vnexpress.net/neville-cau-thu-man-utd-bat-dau-nghi-ngo-he-thong-cua-amorim-4945142.html) - 09:54 29/09/2025
