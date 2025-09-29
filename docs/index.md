@@ -257,67 +257,67 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Fanpage giả giăng bẫy việc làm](https://nld.com.vn/fanpage-gia-giang-bay-viec-lam-196250929212320949.htm) - 22:27 29/09/2025
-- 😺 [Bản tin sáng 30-9: Nhà sập, nhiều nơi chìm trong &quot;biển&quot; nước khi bão số 10 Bualoi đổ bộ](https://nld.com.vn/ban-tin-sang-30-9-nha-sap-nhieu-noi-chim-trong-bien-nuoc-khi-bao-so-10-bualoi-do-bo-196250929212154137.htm) - 22:00 29/09/2025
-- 👍 [Khóc ròng trước chiêu trò của bà chủ hụi 34 tuổi](https://nld.com.vn/khoc-rong-truoc-chieu-tro-cua-ba-chu-hui-34-tuoi-196250929200602396.htm) - 22:00 29/09/2025
-- 🥷 [Tình quân dân nồng ấm trong lũ lụt](https://nld.com.vn/tinh-quan-dan-nong-am-trong-lu-lut-196250929200447059.htm) - 22:00 29/09/2025
-- 🤔 [Bài toán cân não của ngành gỗ](https://nld.com.vn/bai-toan-can-nao-cua-nganh-go-196250929214612285.htm) - 21:46 29/09/2025
-- 🌈 [Ngóng sổ hồng: Quýt làm cam chịu!](https://nld.com.vn/ngong-so-hong-quyt-lam-cam-chiu-196250929200309225.htm) - 21:28 29/09/2025
-- 🔥 [Báo in ngày 30-9: 41 quyết sách phát triển TP HCM](https://nld.com.vn/bao-in-ngay-30-9-41-quyet-sach-phat-trien-tp-hcm-196250929221536079.htm) - 17:00 29/09/2025
-- 🧰 [Trung Quốc tử hình 16 thành viên băng đảng lừa đảo](https://nld.com.vn/trung-quoc-tu-hinh-16-thanh-vien-bang-dang-lua-dao-196250929215804858.htm) - 15:27 29/09/2025
-- 🤗 [Bão số 10 khiến 19 người chết, nhiều người mất tích và mất liên lạc](https://nld.com.vn/bao-so-10-khien-19-nguoi-chet-nhieu-nguoi-mat-tich-va-mat-lien-lac-196250929214059923.htm) - 14:51 29/09/2025
-- 🦅 [Vì sao xuất hiện nhiều trận lốc xoáy kinh hoàng ở rìa phía Bắc bão số 10 Bualoi?](https://nld.com.vn/vi-sao-xuat-hien-nhieu-tran-loc-xoay-kinh-hoang-o-ria-phia-bac-bao-so-10-bualoi-196250929211537473.htm) - 14:34 29/09/2025
-- 🤩 [Khẩn trương trục vớt tàu cá có 9 ngư dân mất tích sau bão số 10 ở Quảng Trị](https://nld.com.vn/khan-truong-truc-vot-tau-ca-co-9-ngu-dan-mat-tich-sau-bao-so-10-o-quang-tri-196250929202043858.htm) - 14:25 29/09/2025
-- 🎭 [Việt Nam lọt top 16 khiêu vũ thể thao Thế giới Latin Trung niên 2](https://nld.com.vn/viet-nam-lot-top-16-khieu-vu-the-thao-the-gioi-latin-trung-nien-2-196250929191127988.htm) - 14:01 29/09/2025
-- 💄 [Hải Phòng dông lốc khiến 8 người bị thương, trên 200 nhà dân bị tốc mái](https://nld.com.vn/hai-phong-dong-loc-khien-8-nguoi-bi-thuong-tren-200-nha-dan-bi-toc-mai-196250929200328783.htm) - 14:00 29/09/2025
-- 🎊 [Kịch tính giải cứu người đàn ông Trung Quốc nợ cờ bạc bị bắt cóc](https://nld.com.vn/kich-tinh-giai-cuu-nguoi-dan-ong-trung-quoc-no-co-bac-bi-bat-coc-196250929201841914.htm) - 13:40 29/09/2025
-- 🎡 [Tổng Bí thư: Ngành Khoa học và Công nghệ tiếp tục 
+- 🐎 [VIDEO: Công an xã liên tiếp cứu các nạn nhân giữa dòng nước lũ](https://nld.com.vn/video-cong-an-xa-lien-tiep-cuu-cac-nan-nhan-giua-dong-nuoc-lu-196250930002842298.htm) - 23:06 29/09/2025
+- 😺 [Chính phủ Mỹ đứng trước nguy cơ đóng cửa](https://nld.com.vn/chinh-phu-my-dung-truoc-nguy-co-dong-cua-196250929213506956.htm) - 23:00 29/09/2025
+- 👍 [Định vị phường Bình Dương](https://nld.com.vn/dinh-vi-phuong-binh-duong-196250929211656463.htm) - 23:00 29/09/2025
+- 🥷 [Fanpage giả giăng bẫy việc làm](https://nld.com.vn/fanpage-gia-giang-bay-viec-lam-196250929212320949.htm) - 22:27 29/09/2025
+- 🤔 [Bản tin sáng 30-9: Nhà sập, nhiều nơi chìm trong &quot;biển&quot; nước khi bão số 10 Bualoi đổ bộ](https://nld.com.vn/ban-tin-sang-30-9-nha-sap-nhieu-noi-chim-trong-bien-nuoc-khi-bao-so-10-bualoi-do-bo-196250929212154137.htm) - 22:00 29/09/2025
+- 🌈 [Khóc ròng trước chiêu trò của bà chủ hụi 34 tuổi](https://nld.com.vn/khoc-rong-truoc-chieu-tro-cua-ba-chu-hui-34-tuoi-196250929200602396.htm) - 22:00 29/09/2025
+- 🔥 [Tình quân dân nồng ấm trong lũ lụt](https://nld.com.vn/tinh-quan-dan-nong-am-trong-lu-lut-196250929200447059.htm) - 22:00 29/09/2025
+- 🧰 [Bài toán cân não của ngành gỗ](https://nld.com.vn/bai-toan-can-nao-cua-nganh-go-196250929214612285.htm) - 21:46 29/09/2025
+- 🤗 [Ngóng sổ hồng: Quýt làm cam chịu!](https://nld.com.vn/ngong-so-hong-quyt-lam-cam-chiu-196250929200309225.htm) - 21:28 29/09/2025
+- 🦅 [Báo in ngày 30-9: 41 quyết sách phát triển TP HCM](https://nld.com.vn/bao-in-ngay-30-9-41-quyet-sach-phat-trien-tp-hcm-196250929221536079.htm) - 17:00 29/09/2025
+- 🤩 [Trung Quốc tử hình 16 thành viên băng đảng lừa đảo](https://nld.com.vn/trung-quoc-tu-hinh-16-thanh-vien-bang-dang-lua-dao-196250929215804858.htm) - 15:27 29/09/2025
+- 🎭 [Bão số 10 khiến 19 người chết, nhiều người mất tích và mất liên lạc](https://nld.com.vn/bao-so-10-khien-19-nguoi-chet-nhieu-nguoi-mat-tich-va-mat-lien-lac-196250929214059923.htm) - 14:51 29/09/2025
+- 💄 [Vì sao xuất hiện nhiều trận lốc xoáy kinh hoàng ở rìa phía Bắc bão số 10 Bualoi?](https://nld.com.vn/vi-sao-xuat-hien-nhieu-tran-loc-xoay-kinh-hoang-o-ria-phia-bac-bao-so-10-bualoi-196250929211537473.htm) - 14:34 29/09/2025
+- 🎊 [Khẩn trương trục vớt tàu cá có 9 ngư dân mất tích sau bão số 10 ở Quảng Trị](https://nld.com.vn/khan-truong-truc-vot-tau-ca-co-9-ngu-dan-mat-tich-sau-bao-so-10-o-quang-tri-196250929202043858.htm) - 14:25 29/09/2025
+- 🎡 [Việt Nam lọt top 16 khiêu vũ thể thao Thế giới Latin Trung niên 2](https://nld.com.vn/viet-nam-lot-top-16-khieu-vu-the-thao-the-gioi-latin-trung-nien-2-196250929191127988.htm) - 14:01 29/09/2025
+- 🎉 [Hải Phòng dông lốc khiến 8 người bị thương, trên 200 nhà dân bị tốc mái](https://nld.com.vn/hai-phong-dong-loc-khien-8-nguoi-bi-thuong-tren-200-nha-dan-bi-toc-mai-196250929200328783.htm) - 14:00 29/09/2025
+- 😺 [Kịch tính giải cứu người đàn ông Trung Quốc nợ cờ bạc bị bắt cóc](https://nld.com.vn/kich-tinh-giai-cuu-nguoi-dan-ong-trung-quoc-no-co-bac-bi-bat-coc-196250929201841914.htm) - 13:40 29/09/2025
+- 🐻 [Tổng Bí thư: Ngành Khoa học và Công nghệ tiếp tục 
 tiên phong đưa Việt Nam vững bước đi lên](https://nld.com.vn/tong-bi-thu-nganh-khoa-hoc-va-cong-nghe-tiep-tuc-tien-phong-dua-viet-nam-vung-buoc-di-len-196250929182401891.htm) - 13:33 29/09/2025
-- 🎉 [Thị trường tiền số hôm nay, 29-9: Nhà đầu tư sắp chứng kiến cú sốc](https://nld.com.vn/thi-truong-tien-so-hom-nay-29-9-nha-dau-tu-sap-chung-kien-cu-soc-196250929201955563.htm) - 13:29 29/09/2025
-- 😺 [Mời làm việc vụ người phụ nữ rải “bột lạ” ở TP HCM](https://nld.com.vn/moi-lam-viec-vu-nguoi-phu-nu-rai-bot-la-o-tp-hcm-196250929191607334.htm) - 13:21 29/09/2025
-- 🐻 [Tổng Bí thư lưu ý về tình trạng băng nhóm tội phạm cấu kết với cán bộ thoái hóa, biến chất](https://nld.com.vn/tong-bi-thu-luu-y-ve-tinh-trang-bang-nhom-toi-pham-cau-ket-voi-can-bo-thoai-hoa-bien-chat-196250929191031968.htm) - 13:20 29/09/2025
-- 🤡 [Bão số 10 ở Quảng Trị: Hơn 227.000 hộ mất điện, công nhân xuyên đêm khôi phục](https://nld.com.vn/bao-so-10-o-quang-tri-hon-227000-ho-mat-dien-cong-nhan-xuyen-dem-khoi-phuc-196250929194709673.htm) - 13:18 29/09/2025
-- 🚦 [Đề xuất tăng lương tối thiểu 7,2% từ năm 2026](https://nld.com.vn/de-xuat-tang-luong-toi-thieu-72-tu-nam-2026-196250929193620896.htm) - 13:12 29/09/2025
-- 🪜 [Thủ tướng Chính phủ yêu cầu điều tra vụ cháy khí mê-tan làm 3 công nhân tử vong](https://nld.com.vn/thu-tuong-chinh-phu-yeu-cau-dieu-tra-vu-chay-khi-me-tan-lam-3-cong-nhan-tu-vong-196250929192128766.htm) - 13:11 29/09/2025
-- 💫 [Ủy ban Thường vụ Quốc hội công bố các quyết định về công tác cán bộ](https://nld.com.vn/uy-ban-thuong-vu-quoc-hoi-cong-bo-cac-quyet-dinh-ve-cong-tac-can-bo-196250929190759559.htm) - 12:51 29/09/2025
-- 🔭 [Cảnh sát căng dây, ngâm mình trong nước lũ giải cứu 22 người mắc kẹt trong bão số 10](https://nld.com.vn/canh-sat-cang-day-ngam-minh-trong-nuoc-lu-giai-cuu-22-nguoi-mac-ket-trong-bao-so-10-196250929183829405.htm) - 12:39 29/09/2025
-- 🌝 [Thái Lan: Cựu Thủ tướng Thaksin Shinawatra đệ đơn xin ân xá](https://nld.com.vn/thai-lan-cuu-thu-tuong-thaksin-shinawatra-de-don-xin-an-xa-196250929180330932.htm) - 12:28 29/09/2025
-- 💪 [Đội nữ TP HCM 1 thắng phút chót, phà hơi nóng lên Hà Nội](https://nld.com.vn/doi-nu-tp-hcm-1-thang-phut-chot-pha-hoi-nong-len-ha-noi-196250929185134453.htm) - 12:23 29/09/2025
-- 🦍 [Giữa bão số 10, siêu thị tung gói bình ổn giá, giảm đến 33%](https://nld.com.vn/giua-bao-so-10-sieu-thi-tung-goi-binh-on-gia-giam-den-33-196250929183843561.htm) - 12:15 29/09/2025
-- 🥷 [Chứng khoán ngày mai, 30-9: Dòng tiền có thể dịch chuyển khó lường!](https://nld.com.vn/chung-khoan-ngay-mai-30-9-dong-tien-co-the-dich-chuyen-kho-luong-196250929190916237.htm) - 12:14 29/09/2025
-- 🫶 [Điều tra một nam sinh lớp 8 ở TP HCM rơi lầu nguy kịch](https://nld.com.vn/dieu-tra-mot-nam-sinh-lop-8-o-tp-hcm-roi-lau-nguy-kich-196250929183519426.htm) - 12:00 29/09/2025
-- 🐻 [Cuối ngày 29-9, giá vàng tiếp tục tăng, xuất hiện mốc cao mới](https://nld.com.vn/cuoi-ngay-29-9-gia-vang-tiep-tuc-tang-xuat-hien-moc-cao-moi-196250929184011027.htm) - 11:55 29/09/2025
-- 🐲 [Khởi tố 10 bị can trục lợi bảo hiểm](https://nld.com.vn/khoi-to-10-bi-can-truc-loi-bao-hiem-196250929175046234.htm) - 11:52 29/09/2025
-- 🧑‍💻 [5 năm tù cho chiêu lừa bất động sản tiền tỉ của Võ Minh](https://nld.com.vn/5-nam-tu-cho-chieu-lua-bat-dong-san-tien-ti-cua-vo-minh-196250929183947635.htm) - 11:50 29/09/2025
-- 🎬 [Huỳnh Anh Khôi vô địch, phá kỷ lục tại HDBank Green Marathon 2025](https://thitruong.nld.com.vn/huynh-anh-khoi-vo-dich-pha-ky-luc-tai-hdbank-green-marathon-2025-196250929172043537.htm) - 11:44 29/09/2025
-- 👀 [Pantum ra mắt dòng máy in mới, khẳng định đẳng cấp “in ấn chuyên nghiệp”](https://thitruong.nld.com.vn/pantum-ra-mat-dong-may-in-moi-khang-dinh-dang-cap-in-an-chuyen-nghiep-196250929171642036.htm) - 11:42 29/09/2025
-- 👍 [Đâm chìm bè cá trắm cỏ, tài công sà lan bỏ chạy](https://nld.com.vn/dam-chim-be-ca-tram-co-tai-cong-sa-lan-bo-chay-196250929183441368.htm) - 11:40 29/09/2025
-- 🦅 [Tiếng khóc xé lòng bên bờ biển Cửa Ông](https://nld.com.vn/bien-du-cuon-9-ngu-dan-tp-hcm-mat-tich-tieng-khoc-xe-long-ben-bo-bien-cua-ong-196250929172439517.htm) - 11:32 29/09/2025
-- 🦏 [300 CB-NV hiến máu kỷ niệm 35 năm thành lập Hiệp hội Nhựa Việt Nam](https://phunu.nld.com.vn/300-cb-nv-hien-mau-ky-niem-35-nam-thanh-lap-hiep-hoi-nhua-viet-nam-196250929154509014.htm) - 11:32 29/09/2025
-- 🗽 [5 lý do Phát Hoàng Gia Floral &amp; Decor là lựa chọn hoàn hảo cho ngày cưới](https://phunu.nld.com.vn/5-ly-do-phat-hoang-gia-floral-decor-la-lua-chon-hoan-hao-cho-ngay-cuoi-196250928184229568.htm) - 11:30 29/09/2025
-- 🔭 [Tập đoàn Khang Điền &lpar;KDH&rpar; nhận bộ đôi giải thưởng](https://diaoc.nld.com.vn/tap-doan-khang-dien-kdh-nhan-bo-doi-giai-thuong-196250929165634153.htm) - 11:28 29/09/2025
-- 👍 [Tường sập trong bão số 10 đè thương vong cặp vợ chồng ở Thanh Hóa](https://nld.com.vn/tuong-sap-trong-bao-so-10-de-thuong-vong-cap-vo-chong-o-thanh-hoa-196250929175256945.htm) - 11:18 29/09/2025
-- ⛽️ [Vô địch giải cờ tướng thế giới, Lại Lý Huynh nhận thưởng nóng của TP HCM](https://nld.com.vn/vo-dich-giai-co-tuong-the-gioi-lai-ly-huynh-nhan-thuong-nong-cua-tp-hcm-196250929174908471.htm) - 11:17 29/09/2025
-- 🥸 [Ra mắt Mạng lưới Giảng dạy tiếng Việt toàn cầu](https://nld.com.vn/ra-mat-mang-luoi-giang-day-tieng-viet-toan-cau-196250929170259249.htm) - 11:11 29/09/2025
-- 🌁 [Hàng không Nordwind đưa khách Nga đến Khánh Hòa sau 5 năm tạm ngưng](https://nld.com.vn/hang-khong-nordwind-dua-khach-nga-den-khanh-hoa-sau-5-nam-tam-ngung-196250929165032178.htm) - 11:04 29/09/2025
-- 🌮 [Khởi tố 6 bị can trong vụ đấu giá mỏ cát 370 tỉ ở Đà Nẵng](https://nld.com.vn/khoi-to-6-bi-can-trong-vu-dau-gia-mo-cat-370-ti-o-da-nang-19625092917171235.htm) - 11:02 29/09/2025
-- 🎉 [Ca sĩ Đức Phúc: Rất tự hào khi là học trò ca sĩ Mỹ Tâm](https://nld.com.vn/ca-si-duc-phuc-rat-tu-hao-khi-la-hoc-tro-ca-si-my-tam-196250929173319438.htm) - 10:41 29/09/2025
-- 🤔 [Ô tô bị thổi bay, sập mố cầu ở Thanh Hóa trong bão số 10](https://nld.com.vn/o-to-bi-thoi-bay-sap-mo-cau-o-thanh-hoa-trong-bao-so-10-196250929170130142.htm) - 10:37 29/09/2025
-- 🐘 [Đại hội MTTQ Việt Nam Đặc khu Côn Đảo đề ra 12 chỉ tiêu, 6 chương trình hành động](https://nld.com.vn/dai-hoi-mttq-viet-nam-dac-khu-con-dao-de-ra-12-chi-tieu-6-chuong-trinh-hanh-dong-196250929170151925.htm) - 10:36 29/09/2025
-- 🙉 [Miền Trung đang gánh chịu thiệt hại nặng do bão số 10 Bualoi](https://nld.com.vn/mien-trung-dang-ganh-chiu-thiet-hai-nang-do-bao-so-10-bualoi-19625092917024379.htm) - 10:33 29/09/2025
-- 🐵 [Hai du khách nước ngoài bị lạc tại Vườn quốc gia Hoàng Liên](https://nld.com.vn/hai-du-khach-nuoc-ngoai-bi-lac-tai-vuon-quoc-gia-hoang-lien-196250929165639333.htm) - 10:33 29/09/2025
-- 🙉 [Khởi tố thêm 2 bị can liên quan dự án cơ sở 2 của Bệnh viện Bạch Mai và Việt Đức](https://nld.com.vn/khoi-to-them-2-bi-can-lien-quan-du-an-co-so-2-cua-benh-vien-bach-mai-va-viet-duc-196250929171057585.htm) - 10:24 29/09/2025
-- 💪 [Anh Bùi Hữu Hồng Hải tiếp tục làm Bí thư Đoàn các cơ quan Đảng TP HCM](https://nld.com.vn/anh-bui-huu-hong-hai-tiep-tuc-lam-bi-thu-doan-cac-co-quan-dang-tp-hcm-196250929143945572.htm) - 10:10 29/09/2025
-- ⛽️ [Tìm thấy thi thể 2 người mất tích ở Đà Nẵng](https://nld.com.vn/tim-thay-thi-the-2-nguoi-mat-tich-o-da-nang-196250929144227021.htm) - 10:08 29/09/2025
-- 👺 [Lào Cai có tân Bí thư Tỉnh ủy 48 tuổi](https://nld.com.vn/lao-cai-co-tan-bi-thu-tinh-uy-48-tuoi-196250929163641223.htm) - 10:04 29/09/2025
-- 🧠 [Kết quả xổ số miền Bắc, xổ số miền Trung hôm nay, 29-9: Hà Nội, Huế, Phú Yên](https://nld.com.vn/ket-qua-xo-so-mien-bac-xo-so-mien-trung-hom-nay-29-9-ha-noi-hue-phu-yen-196250929141518148.htm) - 10:00 29/09/2025
-- 🔭 [Tây Ninh điều động, bổ nhiệm nhiều cán bộ](https://nld.com.vn/tay-ninh-dieu-dong-bo-nhiem-nhieu-can-bo-196250929163436739.htm) - 09:55 29/09/2025
-- 🦣 [Truyền thông Indonesia: Malaysia cần học Việt Nam, Indonesia](https://nld.com.vn/truyen-thong-indonesia-malaysia-can-hoc-viet-nam-indonesia-196250929155505416.htm) - 09:46 29/09/2025
-- 🔥 [Shinhan Life Việt Nam hoàn thành chương trình hướng nghiệp S-Career](https://thitruong.nld.com.vn/shinhan-life-viet-nam-hoan-thanh-chuong-trinh-huong-nghiep-s-career-196250929163246391.htm) - 09:38 29/09/2025
-- 🌝 [AIA Việt Nam và FPT hợp tác thúc đẩy chuyển đổi số lĩnh vực bảo hiểm sức khỏe](https://nld.com.vn/aia-viet-nam-va-fpt-hop-tac-thuc-day-chuyen-doi-so-linh-vuc-bao-hiem-suc-khoe-196250929154449919.htm) - 09:38 29/09/2025
-- 👍 [Bổ sung vụ việc tại Bệnh viện Đa khoa vùng Tây Nguyên vào diện Ban Chỉ đạo theo dõi, chỉ đạo](https://nld.com.vn/bo-sung-vu-viec-tai-benh-vien-da-khoa-vung-tay-nguyen-vao-dien-ban-chi-dao-theo-doi-chi-dao-196250929145147837.htm) - 09:34 29/09/2025
-- 💂 [Người đàn ông mắc kẹt giữa dòng nước lũ cuồn cuộn](https://nld.com.vn/nguoi-dan-ong-mac-ket-giua-dong-nuoc-lu-cuon-cuon-196250929161754962.htm) - 09:32 29/09/2025
-- 🤖 [Tổng cộng bao nhiêu chuyến bay bị ảnh hưởng bởi bão số 10 Bualoi?](https://nld.com.vn/tong-cong-bao-nhieu-chuyen-bay-bi-anh-huong-boi-bao-so-10-bualoi-196250929162346749.htm) - 09:31 29/09/2025<!-- nld:END -->
+- 🤡 [Thị trường tiền số hôm nay, 29-9: Nhà đầu tư sắp chứng kiến cú sốc](https://nld.com.vn/thi-truong-tien-so-hom-nay-29-9-nha-dau-tu-sap-chung-kien-cu-soc-196250929201955563.htm) - 13:29 29/09/2025
+- 🚦 [Mời làm việc vụ người phụ nữ rải “bột lạ” ở TP HCM](https://nld.com.vn/moi-lam-viec-vu-nguoi-phu-nu-rai-bot-la-o-tp-hcm-196250929191607334.htm) - 13:21 29/09/2025
+- 🪜 [Tổng Bí thư lưu ý về tình trạng băng nhóm tội phạm cấu kết với cán bộ thoái hóa, biến chất](https://nld.com.vn/tong-bi-thu-luu-y-ve-tinh-trang-bang-nhom-toi-pham-cau-ket-voi-can-bo-thoai-hoa-bien-chat-196250929191031968.htm) - 13:20 29/09/2025
+- 💫 [Bão số 10 ở Quảng Trị: Hơn 227.000 hộ mất điện, công nhân xuyên đêm khôi phục](https://nld.com.vn/bao-so-10-o-quang-tri-hon-227000-ho-mat-dien-cong-nhan-xuyen-dem-khoi-phuc-196250929194709673.htm) - 13:18 29/09/2025
+- 🔭 [Đề xuất tăng lương tối thiểu 7,2% từ năm 2026](https://nld.com.vn/de-xuat-tang-luong-toi-thieu-72-tu-nam-2026-196250929193620896.htm) - 13:12 29/09/2025
+- 🌝 [Thủ tướng Chính phủ yêu cầu điều tra vụ cháy khí mê-tan làm 3 công nhân tử vong](https://nld.com.vn/thu-tuong-chinh-phu-yeu-cau-dieu-tra-vu-chay-khi-me-tan-lam-3-cong-nhan-tu-vong-196250929192128766.htm) - 13:11 29/09/2025
+- 💪 [Ủy ban Thường vụ Quốc hội công bố các quyết định về công tác cán bộ](https://nld.com.vn/uy-ban-thuong-vu-quoc-hoi-cong-bo-cac-quyet-dinh-ve-cong-tac-can-bo-196250929190759559.htm) - 12:51 29/09/2025
+- 🦍 [Cảnh sát căng dây, ngâm mình trong nước lũ giải cứu 22 người mắc kẹt trong bão số 10](https://nld.com.vn/canh-sat-cang-day-ngam-minh-trong-nuoc-lu-giai-cuu-22-nguoi-mac-ket-trong-bao-so-10-196250929183829405.htm) - 12:39 29/09/2025
+- 🥷 [Thái Lan: Cựu Thủ tướng Thaksin Shinawatra đệ đơn xin ân xá](https://nld.com.vn/thai-lan-cuu-thu-tuong-thaksin-shinawatra-de-don-xin-an-xa-196250929180330932.htm) - 12:28 29/09/2025
+- 🫶 [Đội nữ TP HCM 1 thắng phút chót, phà hơi nóng lên Hà Nội](https://nld.com.vn/doi-nu-tp-hcm-1-thang-phut-chot-pha-hoi-nong-len-ha-noi-196250929185134453.htm) - 12:23 29/09/2025
+- 🐻 [Giữa bão số 10, siêu thị tung gói bình ổn giá, giảm đến 33%](https://nld.com.vn/giua-bao-so-10-sieu-thi-tung-goi-binh-on-gia-giam-den-33-196250929183843561.htm) - 12:15 29/09/2025
+- 🐲 [Chứng khoán ngày mai, 30-9: Dòng tiền có thể dịch chuyển khó lường!](https://nld.com.vn/chung-khoan-ngay-mai-30-9-dong-tien-co-the-dich-chuyen-kho-luong-196250929190916237.htm) - 12:14 29/09/2025
+- 🧑‍💻 [Điều tra một nam sinh lớp 8 ở TP HCM rơi lầu nguy kịch](https://nld.com.vn/dieu-tra-mot-nam-sinh-lop-8-o-tp-hcm-roi-lau-nguy-kich-196250929183519426.htm) - 12:00 29/09/2025
+- 🎬 [Cuối ngày 29-9, giá vàng tiếp tục tăng, xuất hiện mốc cao mới](https://nld.com.vn/cuoi-ngay-29-9-gia-vang-tiep-tuc-tang-xuat-hien-moc-cao-moi-196250929184011027.htm) - 11:55 29/09/2025
+- 👀 [Khởi tố 10 bị can trục lợi bảo hiểm](https://nld.com.vn/khoi-to-10-bi-can-truc-loi-bao-hiem-196250929175046234.htm) - 11:52 29/09/2025
+- 👍 [5 năm tù cho chiêu lừa bất động sản tiền tỉ của Võ Minh](https://nld.com.vn/5-nam-tu-cho-chieu-lua-bat-dong-san-tien-ti-cua-vo-minh-196250929183947635.htm) - 11:50 29/09/2025
+- 🦅 [Huỳnh Anh Khôi vô địch, phá kỷ lục tại HDBank Green Marathon 2025](https://thitruong.nld.com.vn/huynh-anh-khoi-vo-dich-pha-ky-luc-tai-hdbank-green-marathon-2025-196250929172043537.htm) - 11:44 29/09/2025
+- 🦏 [Pantum ra mắt dòng máy in mới, khẳng định đẳng cấp “in ấn chuyên nghiệp”](https://thitruong.nld.com.vn/pantum-ra-mat-dong-may-in-moi-khang-dinh-dang-cap-in-an-chuyen-nghiep-196250929171642036.htm) - 11:42 29/09/2025
+- 🗽 [Đâm chìm bè cá trắm cỏ, tài công sà lan bỏ chạy](https://nld.com.vn/dam-chim-be-ca-tram-co-tai-cong-sa-lan-bo-chay-196250929183441368.htm) - 11:40 29/09/2025
+- 🔭 [Tiếng khóc xé lòng bên bờ biển Cửa Ông](https://nld.com.vn/bien-du-cuon-9-ngu-dan-tp-hcm-mat-tich-tieng-khoc-xe-long-ben-bo-bien-cua-ong-196250929172439517.htm) - 11:32 29/09/2025
+- 👍 [300 CB-NV hiến máu kỷ niệm 35 năm thành lập Hiệp hội Nhựa Việt Nam](https://phunu.nld.com.vn/300-cb-nv-hien-mau-ky-niem-35-nam-thanh-lap-hiep-hoi-nhua-viet-nam-196250929154509014.htm) - 11:32 29/09/2025
+- ⛽️ [5 lý do Phát Hoàng Gia Floral &amp; Decor là lựa chọn hoàn hảo cho ngày cưới](https://phunu.nld.com.vn/5-ly-do-phat-hoang-gia-floral-decor-la-lua-chon-hoan-hao-cho-ngay-cuoi-196250928184229568.htm) - 11:30 29/09/2025
+- 🥸 [Tập đoàn Khang Điền &lpar;KDH&rpar; nhận bộ đôi giải thưởng](https://diaoc.nld.com.vn/tap-doan-khang-dien-kdh-nhan-bo-doi-giai-thuong-196250929165634153.htm) - 11:28 29/09/2025
+- 🌁 [Tường sập trong bão số 10 đè thương vong cặp vợ chồng ở Thanh Hóa](https://nld.com.vn/tuong-sap-trong-bao-so-10-de-thuong-vong-cap-vo-chong-o-thanh-hoa-196250929175256945.htm) - 11:18 29/09/2025
+- 🌮 [Vô địch giải cờ tướng thế giới, Lại Lý Huynh nhận thưởng nóng của TP HCM](https://nld.com.vn/vo-dich-giai-co-tuong-the-gioi-lai-ly-huynh-nhan-thuong-nong-cua-tp-hcm-196250929174908471.htm) - 11:17 29/09/2025
+- 🎉 [Ra mắt Mạng lưới Giảng dạy tiếng Việt toàn cầu](https://nld.com.vn/ra-mat-mang-luoi-giang-day-tieng-viet-toan-cau-196250929170259249.htm) - 11:11 29/09/2025
+- 🤔 [Hàng không Nordwind đưa khách Nga đến Khánh Hòa sau 5 năm tạm ngưng](https://nld.com.vn/hang-khong-nordwind-dua-khach-nga-den-khanh-hoa-sau-5-nam-tam-ngung-196250929165032178.htm) - 11:04 29/09/2025
+- 🐘 [Khởi tố 6 bị can trong vụ đấu giá mỏ cát 370 tỉ ở Đà Nẵng](https://nld.com.vn/khoi-to-6-bi-can-trong-vu-dau-gia-mo-cat-370-ti-o-da-nang-19625092917171235.htm) - 11:02 29/09/2025
+- 🙉 [Ca sĩ Đức Phúc: Rất tự hào khi là học trò ca sĩ Mỹ Tâm](https://nld.com.vn/ca-si-duc-phuc-rat-tu-hao-khi-la-hoc-tro-ca-si-my-tam-196250929173319438.htm) - 10:41 29/09/2025
+- 🐵 [Ô tô bị thổi bay, sập mố cầu ở Thanh Hóa trong bão số 10](https://nld.com.vn/o-to-bi-thoi-bay-sap-mo-cau-o-thanh-hoa-trong-bao-so-10-196250929170130142.htm) - 10:37 29/09/2025
+- 🙉 [Đại hội MTTQ Việt Nam Đặc khu Côn Đảo đề ra 12 chỉ tiêu, 6 chương trình hành động](https://nld.com.vn/dai-hoi-mttq-viet-nam-dac-khu-con-dao-de-ra-12-chi-tieu-6-chuong-trinh-hanh-dong-196250929170151925.htm) - 10:36 29/09/2025
+- 💪 [Miền Trung đang gánh chịu thiệt hại nặng do bão số 10 Bualoi](https://nld.com.vn/mien-trung-dang-ganh-chiu-thiet-hai-nang-do-bao-so-10-bualoi-19625092917024379.htm) - 10:33 29/09/2025
+- ⛽️ [Hai du khách nước ngoài bị lạc tại Vườn quốc gia Hoàng Liên](https://nld.com.vn/hai-du-khach-nuoc-ngoai-bi-lac-tai-vuon-quoc-gia-hoang-lien-196250929165639333.htm) - 10:33 29/09/2025
+- 👺 [Khởi tố thêm 2 bị can liên quan dự án cơ sở 2 của Bệnh viện Bạch Mai và Việt Đức](https://nld.com.vn/khoi-to-them-2-bi-can-lien-quan-du-an-co-so-2-cua-benh-vien-bach-mai-va-viet-duc-196250929171057585.htm) - 10:24 29/09/2025
+- 🧠 [Anh Bùi Hữu Hồng Hải tiếp tục làm Bí thư Đoàn các cơ quan Đảng TP HCM](https://nld.com.vn/anh-bui-huu-hong-hai-tiep-tuc-lam-bi-thu-doan-cac-co-quan-dang-tp-hcm-196250929143945572.htm) - 10:10 29/09/2025
+- 🔭 [Tìm thấy thi thể 2 người mất tích ở Đà Nẵng](https://nld.com.vn/tim-thay-thi-the-2-nguoi-mat-tich-o-da-nang-196250929144227021.htm) - 10:08 29/09/2025
+- 🦣 [Lào Cai có tân Bí thư Tỉnh ủy 48 tuổi](https://nld.com.vn/lao-cai-co-tan-bi-thu-tinh-uy-48-tuoi-196250929163641223.htm) - 10:04 29/09/2025
+- 🔥 [Kết quả xổ số miền Bắc, xổ số miền Trung hôm nay, 29-9: Hà Nội, Huế, Phú Yên](https://nld.com.vn/ket-qua-xo-so-mien-bac-xo-so-mien-trung-hom-nay-29-9-ha-noi-hue-phu-yen-196250929141518148.htm) - 10:00 29/09/2025
+- 🌝 [Tây Ninh điều động, bổ nhiệm nhiều cán bộ](https://nld.com.vn/tay-ninh-dieu-dong-bo-nhiem-nhieu-can-bo-196250929163436739.htm) - 09:55 29/09/2025
+- 👍 [Truyền thông Indonesia: Malaysia cần học Việt Nam, Indonesia](https://nld.com.vn/truyen-thong-indonesia-malaysia-can-hoc-viet-nam-indonesia-196250929155505416.htm) - 09:46 29/09/2025
+- 💂 [Shinhan Life Việt Nam hoàn thành chương trình hướng nghiệp S-Career](https://thitruong.nld.com.vn/shinhan-life-viet-nam-hoan-thanh-chuong-trinh-huong-nghiep-s-career-196250929163246391.htm) - 09:38 29/09/2025
+- 🤖 [AIA Việt Nam và FPT hợp tác thúc đẩy chuyển đổi số lĩnh vực bảo hiểm sức khỏe](https://nld.com.vn/aia-viet-nam-va-fpt-hop-tac-thuc-day-chuyen-doi-so-linh-vuc-bao-hiem-suc-khoe-196250929154449919.htm) - 09:38 29/09/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
