@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Phim &quot;Mưa đỏ&quot; tranh giải Oscar lần thứ 98](https://dantri.com.vn/giai-tri/phim-mua-do-tranh-giai-oscar-lan-thu-98-20250930194355446.htm) - 13:07 30/09/2025
+- 🤩 [Phim &quot;Mưa đỏ&quot; đại diện Việt Nam tranh giải Oscar lần thứ 98](https://dantri.com.vn/giai-tri/phim-mua-do-dai-dien-viet-nam-tranh-giai-oscar-lan-thu-98-20250930194355446.htm) - 13:07 30/09/2025
 - 🔥 [Tài tử “Nữ hoàng nước mắt” Kim Soo Hyun công bố gửi 150 lá thư cho bạn gái](https://dantri.com.vn/giai-tri/tai-tu-nu-hoang-nuoc-mat-kim-soo-hyun-cong-bo-gui-150-la-thu-cho-ban-gai-20250930160520441.htm) - 11:04 30/09/2025
 - 🚀 [Nhan sắc tuổi 55 trẻ đẹp bất chấp thời gian của &quot;tình cũ&quot; Châu Tinh Trì](https://dantri.com.vn/giai-tri/nhan-sac-tuoi-55-tre-dep-bat-chap-thoi-gian-cua-tinh-cu-chau-tinh-tri-20250929101701022.htm) - 09:32 30/09/2025
 - 🔥 [Hôn nhân đẹp như mơ của “thiên nga Úc” Nicole Kidman trước khi ly thân](https://dantri.com.vn/giai-tri/hon-nhan-dep-nhu-mo-cua-thien-nga-uc-nicole-kidman-truoc-khi-ly-than-20250930105056844.htm) - 04:09 30/09/2025
