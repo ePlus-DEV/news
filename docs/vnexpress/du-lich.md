@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khu nghỉ, nhà hàng ven biển tan hoang sau bão](https://vnexpress.net/khu-nghi-nha-hang-ven-bien-tan-hoang-sau-bao-4945422.html) - 10:10 30/09/2025
-- 🪄 [Khuyến cáo khách đổi lịch ngắm mùa vàng vì mưa bão](https://vnexpress.net/khuyen-cao-khach-doi-lich-ngam-mua-vang-vi-mua-bao-4945315.html) - 09:36 30/09/2025
+- 🪄 [Hoãn tour &#39;săn&#39; mùa vàng vì mưa, sạt lở](https://vnexpress.net/hoan-tour-san-mua-vang-vi-mua-sat-lo-4945315.html) - 09:36 30/09/2025
 - 🦅 [Hàn Quốc miễn visa cho khách Trung Quốc](https://vnexpress.net/han-quoc-mien-visa-cho-khach-trung-quoc-4945520.html) - 08:31 30/09/2025
 - 🕴 [Thành phố nào ở Trung Quốc có kỹ nghệ thay mặt siêu tốc?](https://vnexpress.net/thanh-pho-nao-o-trung-quoc-co-ky-nghe-thay-mat-sieu-toc-4945496.html) - 06:51 30/09/2025
 - 👀 [Nhiều khách mắc kẹt ở Sa Pa vì sạt lở](https://vnexpress.net/nhieu-khach-mac-ket-o-sa-pa-vi-sat-lo-4945476.html) - 06:36 30/09/2025
