@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [U23 Việt Nam có thêm cầu thủ Việt kiều, quyết tranh HCV SEA Games](https://dantri.com.vn/the-thao/u23-viet-nam-co-them-cau-thu-viet-kieu-quyet-tranh-hcv-sea-games-20250930162515546.htm) - 09:28 30/09/2025
 - 💯 [Bích Tuyền bất ngờ ngừng đăng ký thi đấu ở giải bóng chuyền quốc gia](https://dantri.com.vn/the-thao/bich-tuyen-bat-ngo-ngung-dang-ky-thi-dau-o-giai-bong-chuyen-quoc-gia-20250930151127938.htm) - 08:11 30/09/2025
-- ⛽️ [Cơ quan “bí ẩn” định đoạt số phận của tuyển Malaysia](https://dantri.com.vn/the-thao/co-quan-bi-an-dinh-doat-so-phan-cua-tuyen-malaysia-20250930115052478.htm) - 04:50 30/09/2025
+- ⛽️ [Cơ quan “bí ẩn” định đoạt số phận của tuyển Malaysia](https://dantri.com.vn/the-thao/co-quan-bi-an-dinh-doat-so-phan-cua-tuyen-malaysia-20250930115052478.htm) - 06:50 30/09/2025
 - 💃 [Danh sách tuyển Việt Nam: Đặng Văn Lâm trở lại, 8 cầu thủ U23 được bổ sung](https://dantri.com.vn/the-thao/danh-sach-tuyen-viet-nam-dang-van-lam-tro-lai-8-cau-thu-u23-duoc-bo-sung-20250930110859326.htm) - 04:11 30/09/2025
 - 🌈 [Mourinho vỗ về Chelsea trong ngày trở lại Stamford Bridge](https://dantri.com.vn/the-thao/mourinho-vo-ve-chelsea-trong-ngay-tro-lai-stamford-bridge-20250930110640162.htm) - 04:07 30/09/2025
 - 🦅 [Chủ tịch LĐBĐ Indonesia phủ nhận can thiệp FIFA trừng phạt bóng đá Malaysia](https://dantri.com.vn/the-thao/chu-tich-ldbd-indonesia-phu-nhan-can-thiep-fifa-trung-phat-bong-da-malaysia-20250930103258670.htm) - 03:54 30/09/2025
