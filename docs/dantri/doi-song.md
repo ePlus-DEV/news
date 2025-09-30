@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [8 tiếng vật lộn với ngập lụt, người Hà Nội mệt nhoài giữa dòng nước](https://dantri.com.vn/doi-song/8-tieng-vat-lon-voi-ngap-lut-nguoi-ha-noi-met-nhoai-giua-dong-nuoc-20250930215959072.htm) - 15:16 30/09/2025
+- 🥳 [Hà Nội 8 tiếng vật lộn với ngập lụt](https://dantri.com.vn/doi-song/ha-noi-8-tieng-vat-lon-voi-ngap-lut-20250930215959072.htm) - 15:16 30/09/2025
 - 🌁 [Yamaha PG-1: Khi ngôn ngữ thiết kế xe máy lấy cảm hứng từ văn hóa Việt](https://dantri.com.vn/doi-song/yamaha-pg-1-khi-ngon-ngu-thiet-ke-xe-may-lay-cam-hung-tu-van-hoa-viet-20250930204736368.htm) - 14:03 30/09/2025
 - 👀 [Nước lũ bao vây, người phụ nữ lên mạng khẩn cầu giúp đỡ đưa tang bà](https://dantri.com.vn/doi-song/nuoc-lu-bao-vay-nguoi-phu-nu-len-mang-khan-cau-giup-do-dua-tang-ba-20250930183624023.htm) - 11:54 30/09/2025
 - 🐻 [Lũ dâng nhanh, vợ chồng bất lực nhìn tài sản chìm trong nước lũ](https://dantri.com.vn/doi-song/lu-dang-nhanh-vo-chong-bat-luc-nhin-tai-san-chim-trong-nuoc-lu-20250930142709546.htm) - 11:11 30/09/2025
