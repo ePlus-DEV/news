@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Trắng đêm canh bão Bualoi](https://vnexpress.net/trang-dem-canh-bao-bualoi-4945237.html) - 03:14 30/09/2025
 - 🦏 [Người Hà Nội chèo thuyền, dắt xe đi làm trong mưa lớn](https://vnexpress.net/nguoi-ha-noi-cheo-thuyen-dat-xe-di-lam-trong-mua-lon-4945367.html) - 02:58 30/09/2025
 - 👺 [Tìm thấy hai thi thể ngư dân tàu cá TP HCM](https://vnexpress.net/tim-thay-hai-thi-the-ngu-dan-tau-ca-tp-hcm-4945310.html) - 02:41 30/09/2025
-- 🧑‍🏫 [Hà Nội huy động công nhân thoát nước ứng trực](https://vnexpress.net/ha-noi-huy-dong-cong-nhan-thoat-nuoc-ung-truc-4945265.html) - 01:03 30/09/2025
+- 🧑‍🏫 [Người dân trú dưới gầm cầu, lội nước tìm đường về](https://vnexpress.net/nguoi-dan-tru-duoi-gam-cau-loi-nuoc-tim-duong-ve-4945265.html) - 01:03 30/09/2025
 - 🚦 [&#39;Thay vì bỏ hoang, gầm cầu có thể làm bãi xe nếu bảo đảm chữa cháy&#39;](https://vnexpress.net/thay-vi-bo-hoang-gam-cau-co-the-lam-bai-xe-neu-bao-dam-chua-chay-4945208.html) - 22:00 29/09/2025
 - 🎉 [Bí ẩn tháp Chăm trên đỉnh núi 800 m](https://vnexpress.net/bi-an-thap-cham-tren-dinh-nui-800-m-4935391.html) - 22:00 29/09/2025
 - 🦒 [19 người chết, 13 người mất tích do bão Bualoi](https://vnexpress.net/19-nguoi-chet-13-nguoi-mat-tich-do-bao-bualoi-4945152.html) - 16:55 29/09/2025
