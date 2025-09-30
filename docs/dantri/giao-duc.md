@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hà Nội ngập nặng, trường học phải nhờ xe quân đội “giải cứu” học sinh](https://dantri.com.vn/giao-duc/ha-noi-ngap-nang-truong-hoc-phai-nho-xe-quan-doi-giai-cuu-hoc-sinh-20250930140835414.htm) - 07:20 30/09/2025
+- 🤡 [Hà Nội ngập nặng, trường học phải nhờ xe quân đội đón học sinh](https://dantri.com.vn/giao-duc/ha-noi-ngap-nang-truong-hoc-phai-nho-xe-quan-doi-don-hoc-sinh-20250930140835414.htm) - 07:20 30/09/2025
 - 🗽 [Sở GD&amp;ĐT TPHCM tung loạt hướng dẫn nhằm chấm dứt &quot;lạm thu&quot;](https://dantri.com.vn/giao-duc/so-gddt-tphcm-tung-loat-huong-dan-nham-cham-dut-lam-thu-20250930115925413.htm) - 05:19 30/09/2025
 - 🚦 [Không được dùng đòn roi phạt học sinh, nhiều giáo viên có tâm lý &quot;mặc kệ&quot;](https://dantri.com.vn/giao-duc/khong-duoc-dung-don-roi-phat-hoc-sinh-nhieu-giao-vien-co-tam-ly-mac-ke-20250929141153453.htm) - 01:00 30/09/2025
 - 🌋 [LG lan tỏa văn hóa đọc sách đến với trẻ em vùng cao](https://dantri.com.vn/giao-duc/lg-lan-toa-van-hoa-doc-sach-den-voi-tre-em-vung-cao-20250929141209793.htm) - 01:00 30/09/2025
