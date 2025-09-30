@@ -4,8 +4,8 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Cậu bé bị mẹ bỏ rơi, mắc ung thư phải cắt chân được giúp hơn 135 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/cau-be-bi-me-bo-roi-mac-ung-thu-phai-cat-chan-duoc-giup-hon-135-trieu-dong-20250930085653933.htm) - 05:44 30/09/2025
-- 👨‍🏫 [Mưa liên tiếp, nhiều đường phố ở Hà Nội ngập sâu](https://dantri.com.vn/thoi-su/mua-lien-tiep-nhieu-duong-pho-o-ha-noi-ngap-sau-20250930123750553.htm) - 05:42 30/09/2025
+- 🎭 [Bạn đọc Dân trí ủng hộ hơn 420 triệu đồng, giúp 2 chị em mồ côi có nhà mới](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-ung-ho-hon-420-trieu-dong-giup-2-chi-em-mo-coi-co-nha-moi-20250929202424096.htm) - 07:05 30/09/2025
+- 👨‍🏫 [Cậu bé bị mẹ bỏ rơi, mắc ung thư phải cắt chân được giúp hơn 135 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/cau-be-bi-me-bo-roi-mac-ung-thu-phai-cat-chan-duoc-giup-hon-135-trieu-dong-20250930085653933.htm) - 05:44 30/09/2025
 - 🌮 [Tổng Bí thư Tô Lâm dự Đại hội đại biểu Đảng bộ Quân đội lần thứ 12](https://dantri.com.vn/thoi-su/tong-bi-thu-to-lam-du-dai-hoi-dai-bieu-dang-bo-quan-doi-lan-thu-12-20250930115805694.htm) - 05:11 30/09/2025
 - 🕯 [Cơ quan “bí ẩn” định đoạt số phận của tuyển Malaysia](https://dantri.com.vn/the-thao/co-quan-bi-an-dinh-doat-so-phan-cua-tuyen-malaysia-20250930115052478.htm) - 04:50 30/09/2025
 - 🪜 [Vụ mẹ &quot;đại gia kim cương&quot; bị bắt: Khởi tố thêm 7 bị can](https://dantri.com.vn/phap-luat/vu-me-dai-gia-kim-cuong-bi-bat-khoi-to-them-7-bi-can-20250930114328346.htm) - 04:49 30/09/2025
