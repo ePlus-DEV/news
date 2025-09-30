@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Toà án &quot;điểm mặt” công ty đặt cọc biệt thự chưa hình thành ở Lâm Đồng](https://nld.com.vn/toa-an-diem-mat-cong-ty-dat-coc-biet-thu-chua-hinh-thanh-o-lam-dong-196250930211919172.htm) - 14:44 30/09/2025
+- 🐎 [Toà án &quot;điểm mặt” công ty nhận cọc biệt thự chưa hình thành ở Lâm Đồng](https://nld.com.vn/toa-an-diem-mat-cong-ty-nhan-coc-biet-thu-chua-hinh-thanh-o-lam-dong-196250930211919172.htm) - 14:44 30/09/2025
 - 😺 [Thị trường tiền số hôm nay, 30-9: Shark Bình lên tiếng khi bị cộng sự cũ tố &quot;úp bô&quot;](https://nld.com.vn/thi-truong-tien-so-hom-nay-30-9-shark-binh-len-tieng-khi-bi-cong-su-cu-to-up-bo-196250930212432263.htm) - 14:37 30/09/2025
 - 👍 [Tổng Bí thư Tô Lâm: Sẽ mở rộng bố trí cấp ủy không phải người địa phương](https://nld.com.vn/tong-bi-thu-to-lam-se-mo-rong-bo-tri-cap-uy-khong-phai-nguoi-dia-phuong-196250930204725648.htm) - 14:14 30/09/2025
 - 🥷 [Thủ tướng viếng nạn nhân tử vong trong vụ lốc xoáy kinh hoàng ở Ninh Bình](https://nld.com.vn/thu-tuong-vieng-nan-nhan-tu-vong-trong-vu-loc-xoay-kinh-hoang-o-ninh-binh-196250930203958205.htm) - 13:47 30/09/2025
