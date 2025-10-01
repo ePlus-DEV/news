@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [5 đồ uống giàu magie giúp ngủ sâu, tăng đề kháng](https://vnexpress.net/5-do-uong-giau-magie-giup-ngu-sau-tang-de-khang-4945940.html) - 07:30 01/10/2025
-- 🥰 [Gói chăm sóc người già 350.000 đồng một ngày, BHYT hỗ trợ](https://vnexpress.net/goi-cham-soc-nguoi-gia-350-000-dong-mot-ngay-bhyt-ho-tro-4945886.html) - 07:27 01/10/2025
+- 🥰 [Dịch vụ chăm sóc người già &#39;sáng đi chiều về&#39; 350.000 đồng một ngày](https://vnexpress.net/dich-vu-cham-soc-nguoi-gia-sang-di-chieu-ve-350-000-dong-mot-ngay-4945886.html) - 07:27 01/10/2025
 - 💡 [Cử tri kiến nghị giảm chênh lệch y tế tuyến trên và cơ sở](https://vnexpress.net/cu-tri-kien-nghi-giam-chenh-lech-y-te-tuyen-tren-va-co-so-4945896.html) - 07:18 01/10/2025
 - 🤗 [Vì sao một cơn cảm sốt có thể cướp đi sinh mạng người cao tuổi?](https://vnexpress.net/vi-sao-mot-con-cam-sot-co-the-cuop-di-sinh-mang-nguoi-cao-tuoi-4945744.html) - 06:45 01/10/2025
 - 🪜 [Bệnh cường giáp nguy hiểm không?](https://vnexpress.net/benh-cuong-giap-nguy-hiem-khong-4945922.html) - 06:00 01/10/2025
