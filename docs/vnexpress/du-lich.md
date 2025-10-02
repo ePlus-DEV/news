@@ -8,7 +8,7 @@ sidebar_position: 11
 - 🪄 [10 khách sạn Xanh tốt nhất Việt Nam 2025](https://vnexpress.net/10-khach-san-xanh-tot-nhat-viet-nam-2025-4944926.html) - 00:00 02/10/2025
 - 🦅 [Bên trong chuyến tàu 22 tỷ USD của Arab Saudi](https://vnexpress.net/ben-trong-chuyen-tau-22-ty-usd-cua-arab-saudi-4945678.html) - 17:00 01/10/2025
 - 🕴 [Loạt dịch vụ du lịch Mỹ bị ảnh hưởng vì chính phủ đóng cửa](https://vnexpress.net/loat-dich-vu-du-lich-my-bi-anh-huong-vi-chinh-phu-dong-cua-4946143.html) - 14:37 01/10/2025
-- 👀 [7 thi thể nổi tiếng trên đường leo Everest](https://vnexpress.net/7-thi-the-noi-tieng-tren-duong-leo-everest-4945625.html) - 08:11 01/10/2025
+- 👀 [7 thi thể gây ám ảnh trên đường leo Everest](https://vnexpress.net/7-thi-the-gay-am-anh-tren-duong-leo-everest-4945625.html) - 08:11 01/10/2025
 - 🎭 [Du lịch Trung Quốc kỳ vọng bùng nổ trong &#39;Tuần lễ vàng&#39;](https://vnexpress.net/du-lich-trung-quoc-ky-vong-bung-no-trong-tuan-le-vang-4945613.html) - 06:55 01/10/2025
 - 🦒 [Nhà thờ nào xây gần 150 năm vẫn chưa xong?](https://vnexpress.net/nha-tho-nao-xay-gan-150-nam-van-chua-xong-4945908.html) - 06:31 01/10/2025
 - 👨‍🏫 [Đoàn khách Đài Loan mắc kẹt vì sạt lở được mời ăn, ngủ miễn phí](https://vnexpress.net/doan-khach-dai-loan-mac-ket-vi-sat-lo-duoc-moi-an-ngu-mien-phi-4945933.html) - 05:41 01/10/2025
