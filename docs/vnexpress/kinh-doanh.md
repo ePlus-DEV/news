@@ -14,7 +14,7 @@ sidebar_position: 3
 - 🌮 [Rau xanh ở chợ tăng giá gấp đôi sau bão Bualoi](https://vnexpress.net/rau-xanh-o-cho-tang-gia-gap-doi-sau-bao-bualoi-4946293.html) - 09:05 02/10/2025
 - 🧰 [Agribank hỗ trợ Nghệ An 5 tỷ đồng khắc phục thiệt hại do bão số 10](https://vnexpress.net/agribank-ho-tro-nghe-an-5-ty-dong-khac-phuc-thiet-hai-do-bao-so-10-4946377.html) - 08:00 02/10/2025
 - 🤔 [Giá xăng, dầu cùng tăng](https://vnexpress.net/gia-xang-dau-hom-nay-2-10-4946442.html) - 07:36 02/10/2025
-- 🧑‍💻 [Ngân hàng đầu tiên ra mắt thương hiệu vàng miếng](https://vnexpress.net/ngan-hang-dau-tien-ra-mat-thuong-hieu-vang-mieng-4946397.html) - 06:40 02/10/2025
+- 🧑‍💻 [ACB sẽ giao dịch vàng miếng thương hiệu riêng](https://vnexpress.net/acb-se-giao-dich-vang-mieng-thuong-hieu-rieng-4946397.html) - 06:40 02/10/2025
 - 🕴 [Manulife ra mắt hai sản phẩm bảo hiểm &#39;Xanh&#39; gia tăng quyền lợi](https://vnexpress.net/manulife-ra-mat-hai-san-pham-bao-hiem-xanh-gia-tang-quyen-loi-4946379.html) - 06:30 02/10/2025
 - 🦩 [Dùng 92 tài khoản chứng khoán để thao túng cổ phiếu AGG](https://vnexpress.net/dung-92-tai-khoan-chung-khoan-de-thao-tung-co-phieu-agg-4946294.html) - 06:27 02/10/2025
 - 👍 [Nông dân Mỹ thêm khốn đốn vì chính phủ đóng cửa](https://vnexpress.net/nong-dan-my-them-khon-don-vi-chinh-phu-dong-cua-4946320.html) - 05:44 02/10/2025
