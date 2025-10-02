@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Hàn Quốc chỉ trích động thái của Malaysia ở vụ nhập tịch trái phép](https://dantri.com.vn/the-thao/bao-han-quoc-chi-trich-dong-thai-cua-malaysia-o-vu-nhap-tich-trai-phep-20251002151631510.htm) - 08:16 02/10/2025
+- 🎡 [Báo Hàn Quốc chỉ trích động thái của Malaysia ở vụ nhập tịch trái phép](https://dantri.com.vn/the-thao/bao-han-quoc-chi-trich-dong-thai-cua-malaysia-o-vu-nhap-tich-trai-phep-20251002151631510.htm) - 08:45 02/10/2025
 - 💯 [CĐV Trung Quốc đau lòng khi Lại Lý Huynh vô địch ở môn “quốc hồn quốc túy”](https://dantri.com.vn/the-thao/cdv-trung-quoc-dau-long-khi-lai-ly-huynh-vo-dich-o-mon-quoc-hon-quoc-tuy-20251001172602324.htm) - 07:00 02/10/2025
 - ⛽️ [Huy Hoàng giành 2 HCV châu Á: Thành tích khích lệ bơi lội Việt Nam](https://dantri.com.vn/the-thao/huy-hoang-gianh-2-hcv-chau-a-thanh-tich-khich-le-boi-loi-viet-nam-20251002132315549.htm) - 06:59 02/10/2025
 - 💃 [U23 Việt Nam chung bảng với Jordan, Kyrgyzstan, Saudi Arabia ở giải châu Á](https://dantri.com.vn/the-thao/u23-viet-nam-chung-bang-voi-jordan-kyrgyzstan-saudi-arabia-o-giai-chau-a-20251002135219316.htm) - 06:52 02/10/2025
