@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bốc thăm VCK U23 châu Á 2026](https://vnexpress.net/boc-tham-vck-u23-chau-a-2026-4946408.html) - 06:46 02/10/2025
+- 🪜 [Việt Nam gặp chủ nhà Arab Saudi ở VCK U23 châu Á 2026](https://vnexpress.net/viet-nam-gap-chu-nha-arab-saudi-o-vck-u23-chau-a-2026-4946408.html) - 06:46 02/10/2025
 - 🦩 [Lý Hoàng Nam thắng dễ Trịnh Linh Giang ở giải pickleball châu Á](https://vnexpress.net/ly-hoang-nam-thang-de-trinh-linh-giang-o-giai-pickleball-chau-a-4946387.html) - 05:04 02/10/2025
 - 🧰 [Vì sao Arab Saudi chi 55 tỷ USD thâu tóm EA?](https://vnexpress.net/vi-sao-arab-saudi-chi-55-ty-usd-thau-tom-ea-4946178.html) - 04:50 02/10/2025
 - 🤗 [Ông Trump cân nhắc chuyển địa điểm thi đấu World Cup 2026](https://vnexpress.net/ong-trump-can-nhac-chuyen-dia-diem-thi-dau-world-cup-2026-4946301.html) - 04:48 02/10/2025
