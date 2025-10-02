@@ -408,7 +408,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng quyết định hỗ trợ 2.524 tỷ đồng cho 15 địa phương khắc phục hậu quả bão số 10](https://baochinhphu.vn/thu-tuong-quyet-dinh-ho-tro-2524-ty-dong-cho-15-dia-phuong-khac-phuc-hau-qua-bao-so-10-102251002220423339.htm) - 21:56 02/10/2025
+- 💻 [Thủ tướng quyết định hỗ trợ 2.524 tỷ đồng cho 15 địa phương khắc phục hậu quả bão số 10 và các đợt thiên tai khác từ đầu năm 2025](https://baochinhphu.vn/thu-tuong-quyet-dinh-ho-tro-2524-ty-dong-cho-15-dia-phuong-khac-phuc-hau-qua-bao-so-10-102251002220423339.htm) - 21:56 02/10/2025
 - 🌜 [Tình hình kinh tế - xã hội 9 tháng đạt nhiều kết quả tích cực, quan trọng, toàn diện](https://baochinhphu.vn/tinh-hinh-kinh-te-xa-hoi-9-thang-dat-nhieu-ket-qua-tich-cuc-quan-trong-toan-dien-102251002185602415.htm) - 20:35 02/10/2025
 - 🦆 [Văn phòng Trung ương Đảng ủng hộ đồng bào khắc phục hậu quả bão số 10](https://baochinhphu.vn/van-phong-trung-uong-dang-ung-ho-dong-bao-khac-phuc-hau-qua-bao-so-10-10225100220144593.htm) - 20:28 02/10/2025
 - 🌝 [Ủy ban MTTQ Việt Nam phát động ủng hộ đồng bào bị thiệt hại do bão số 10](https://baochinhphu.vn/uy-ban-mttq-viet-nam-phat-dong-ung-ho-dong-bao-bi-thiet-hai-do-bao-so-10-102251002200058975.htm) - 20:08 02/10/2025
