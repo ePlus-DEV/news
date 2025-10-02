@@ -523,7 +523,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Taylor Swift gây sốt phòng vé, Song Kang khởi động chuỗi fan meeting](https://muctim.tuoitre.vn/taylor-swift-gay-sot-phong-ve-song-kang-khoi-dong-chuoi-fan-meeting-101251002181030579.htm) - 11:57 02/10/2025
 - 🥷 [Trailer tập 3 Anh trai say hi: Lohan, Ogenus hóa điệp viên, Gill gây bất ngờ](https://muctim.tuoitre.vn/trailer-tap-3-anh-trai-say-hi-lohan-ogenus-hoa-diep-vien-gill-gay-bat-ngo-101251002172349552.htm) - 11:57 02/10/2025
-- 🤖 [Trực tiếp AFC Champions League Two: Công An Hà Nội - Tai Po](https://muctim.tuoitre.vn/truc-tiep-afc-champions-league-two-cong-an-ha-noi-tai-po-101251002181443103.htm) - 11:41 02/10/2025
+- 🤖 [Trực tiếp AFC Champions League Two: Công An Hà Nội - Tai Po 2-0](https://muctim.tuoitre.vn/truc-tiep-afc-champions-league-two-cong-an-ha-noi-tai-po-101251002181443103.htm) - 11:41 02/10/2025
 - 🤓 [Nghệ sĩ chung vui ngày Giỗ Tổ sân khấu](https://muctim.tuoitre.vn/nghe-si-chung-vui-ngay-gio-to-san-khau-101251002162146612.htm) - 11:34 02/10/2025
 - 🎉 [Thép Xanh Nam Định có chiến thắng tối thiểu tại AFC Champions League Two](https://muctim.tuoitre.vn/truc-tiep-afc-champions-league-two-eastern-fc-thep-xanh-nam-dinh-101251002165025447.htm) - 09:52 02/10/2025
 - 👨‍🏫 [Tên bão Matmo có nghĩa là gì?](https://muctim.tuoitre.vn/ten-bao-matmo-co-nghia-la-gi-101251002150622365.htm) - 09:45 02/10/2025
