@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Vì sao Malaysia chưa nộp đơn kháng cáo lên FIFA vụ nhập tịch trái phép?](https://dantri.com.vn/the-thao/vi-sao-malaysia-chua-nop-don-khang-cao-len-fifa-vu-nhap-tich-trai-phep-20251002113204615.htm) - 04:32 02/10/2025
+- 🎡 [Vì sao Malaysia chưa kháng cáo lên FIFA vụ nhập tịch trái phép?](https://dantri.com.vn/the-thao/vi-sao-malaysia-chua-khang-cao-len-fifa-vu-nhap-tich-trai-phep-20251002113204615.htm) - 05:01 02/10/2025
 - 💯 [CĐV Trung Quốc đau lòng khi Lại Lý Huynh vô địch ở môn “quốc hồn quốc túy”](https://dantri.com.vn/the-thao/cdv-trung-quoc-dau-long-khi-lai-ly-huynh-vo-dich-o-mon-quoc-hon-quoc-tuy-20251001172602324.htm) - 03:28 02/10/2025
 - ⛽️ [Haaland vượt qua huyền thoại Thierry Henry, nói điều cay đắng về Man City](https://dantri.com.vn/the-thao/haaland-vuot-qua-huyen-thoai-thierry-henry-noi-dieu-cay-dang-ve-man-city-20251002084616993.htm) - 02:04 02/10/2025
 - 💃 [CĐV Đông Nam Á dậy sóng trước tin hai ngoại binh sắp nhập tịch Việt Nam](https://dantri.com.vn/the-thao/cdv-dong-nam-a-day-song-truoc-tin-hai-ngoai-binh-sap-nhap-tich-viet-nam-20251002001255243.htm) - 01:37 02/10/2025
