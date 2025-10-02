@@ -4,11 +4,11 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Huy Hoàng giành 2 HCV châu Á: Thành tích khích lệ bơi lội Việt Nam](https://dantri.com.vn/the-thao/huy-hoang-gianh-2-hcv-chau-a-thanh-tich-khich-le-boi-loi-viet-nam-20251002132315549.htm) - 06:59 02/10/2025
-- 🌈 [Sáp nhập đại học: Sẽ có làn sóng dịch chuyển giảng viên từ công sang tư?](https://dantri.com.vn/giao-duc/sap-nhap-dai-hoc-se-co-lan-song-dich-chuyen-giang-vien-tu-cong-sang-tu-20251001231423501.htm) - 06:50 02/10/2025
-- 🐎 [Nvidia - cỗ máy 4.500 tỷ USD kiến tạo hạ tầng cho nền kinh tế AI](https://dantri.com.vn/kinh-doanh/nvidia-co-may-4500-ty-usd-kien-tao-ha-tang-cho-nen-kinh-te-ai-20251002110124968.htm) - 05:59 02/10/2025
-- 👹 [18 doanh nghiệp được chọn làm nhà ở xã hội có tiềm lực ra sao?](https://dantri.com.vn/bat-dong-san/18-doanh-nghiep-duoc-chon-lam-nha-o-xa-hoi-co-tiem-luc-ra-sao-20251002104125808.htm) - 05:55 02/10/2025
-- 🫶 [CĐV Trung Quốc đau lòng khi Lại Lý Huynh vô địch ở môn “quốc hồn quốc túy”](https://dantri.com.vn/the-thao/cdv-trung-quoc-dau-long-khi-lai-ly-huynh-vo-dich-o-mon-quoc-hon-quoc-tuy-20251001172602324.htm) - 03:28 02/10/2025
+- 🤠 [CĐV Trung Quốc đau lòng khi Lại Lý Huynh vô địch ở môn “quốc hồn quốc túy”](https://dantri.com.vn/the-thao/cdv-trung-quoc-dau-long-khi-lai-ly-huynh-vo-dich-o-mon-quoc-hon-quoc-tuy-20251001172602324.htm) - 07:00 02/10/2025
+- 🌈 [Huy Hoàng giành 2 HCV châu Á: Thành tích khích lệ bơi lội Việt Nam](https://dantri.com.vn/the-thao/huy-hoang-gianh-2-hcv-chau-a-thanh-tich-khich-le-boi-loi-viet-nam-20251002132315549.htm) - 06:59 02/10/2025
+- 🐎 [Sáp nhập đại học: Sẽ có làn sóng dịch chuyển giảng viên từ công sang tư?](https://dantri.com.vn/giao-duc/sap-nhap-dai-hoc-se-co-lan-song-dich-chuyen-giang-vien-tu-cong-sang-tu-20251001231423501.htm) - 06:50 02/10/2025
+- 👹 [Nvidia - &quot;cỗ máy&quot; 4.500 tỷ USD kiến tạo hạ tầng cho nền kinh tế AI](https://dantri.com.vn/kinh-doanh/nvidia-co-may-4500-ty-usd-kien-tao-ha-tang-cho-nen-kinh-te-ai-20251002110124968.htm) - 05:59 02/10/2025
+- 🫶 [18 doanh nghiệp được chọn làm nhà ở xã hội có tiềm lực ra sao?](https://dantri.com.vn/bat-dong-san/18-doanh-nghiep-duoc-chon-lam-nha-o-xa-hoi-co-tiem-luc-ra-sao-20251002104125808.htm) - 05:55 02/10/2025
 - ⛽️ [Hệ lụy khi chính phủ Mỹ đóng cửa một phần từ ngày 1/10](https://dantri.com.vn/the-gioi/he-luy-khi-chinh-phu-my-dong-cua-mot-phan-tu-ngay-110-20251002072450052.htm) - 00:41 02/10/2025
 - 🌜 [Làn sóng sa thải thầm lặng ở Mỹ](https://dantri.com.vn/kinh-doanh/lan-song-sa-thai-tham-lang-o-my-20250826133401217.htm) - 00:22 02/10/2025
 - 💪 [Nhân vật của báo Dân trí nhận kỷ lục thế giới với bộ móng tay dài gần 6m](https://dantri.com.vn/doi-song/nhan-vat-cua-bao-dan-tri-nhan-ky-luc-the-gioi-voi-bo-mong-tay-dai-gan-6m-20251001211433325.htm) - 23:02 01/10/2025
