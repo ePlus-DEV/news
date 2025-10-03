@@ -454,16 +454,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦄 [Khắc phục khoảng cách trong tận dụng FTA của địa phương, doanh nghiệp](https://baochinhphu.vn/khac-phuc-khoang-cach-trong-tan-dung-fta-cua-dia-phuong-doanh-nghiep-102251003154057029.htm) - 16:20 03/10/2025
 - 🚀 [EVNNPT nâng công suất trạm biến áp 220 kV Tương Dương lên gấp đôi](https://baochinhphu.vn/evnnpt-nang-cong-suat-tram-bien-ap-220-kv-tuong-duong-len-gap-doi-102251003144732109.htm) - 16:20 03/10/2025
 - 🤖 [2 kịch bản dự báo hướng di chuyển của bão MATMO](https://baochinhphu.vn/2-kich-ban-du-bao-huong-di-chuyen-cua-bao-matmo-102251003155753881.htm) - 16:18 03/10/2025
-- 🕴 [Tây Ninh đổi mới mô hình tăng trưởng theo hướng kinh tế xanh, kinh tế số, kinh tế tuần hoàn](https://baochinhphu.vn/tay-ninh-doi-moi-mo-hinh-tang-truong-theo-huong-kinh-te-xanh-kinh-te-so-kinh-te-tuan-hoan-102251003144856016.htm) - 15:36 03/10/2025
-- 🤔 [Đề xuất quy định hoàn thuế đối với xăng sinh học](https://baochinhphu.vn/de-xuat-quy-dinh-hoan-thue-doi-voi-xang-sinh-hoc-102251003153538626.htm) - 15:34 03/10/2025
-- 💫 [Dự án tăng số căn hộ có phải điều chỉnh chủ trương đầu tư?](https://baochinhphu.vn/du-an-tang-so-can-ho-co-phai-dieu-chinh-chu-truong-dau-tu-102251003150450093.htm) - 15:30 03/10/2025
-- 👺 [Thương mại điện tử: Cơ hội để DNVVN vươn ra thị trường quốc tế](https://baochinhphu.vn/thuong-mai-dien-tu-co-hoi-de-dnvvn-vuon-ra-thi-truong-quoc-te-102251003144608996.htm) - 15:30 03/10/2025
+- 🕴 [Thư chúc Tết Trung thu của Chủ tịch nước gửi các cháu thiếu niên, nhi đồng](https://baochinhphu.vn/thu-chuc-tet-trung-thu-cua-chu-tich-nuoc-gui-cac-chau-thieu-nien-nhi-dong-102251004061234684.htm) - 16:12 03/10/2025
+- 🤔 [Tây Ninh đổi mới mô hình tăng trưởng theo hướng kinh tế xanh, kinh tế số, kinh tế tuần hoàn](https://baochinhphu.vn/tay-ninh-doi-moi-mo-hinh-tang-truong-theo-huong-kinh-te-xanh-kinh-te-so-kinh-te-tuan-hoan-102251003144856016.htm) - 15:36 03/10/2025
+- 💫 [Đề xuất quy định hoàn thuế đối với xăng sinh học](https://baochinhphu.vn/de-xuat-quy-dinh-hoan-thue-doi-voi-xang-sinh-hoc-102251003153538626.htm) - 15:34 03/10/2025
+- 👺 [Dự án tăng số căn hộ có phải điều chỉnh chủ trương đầu tư?](https://baochinhphu.vn/du-an-tang-so-can-ho-co-phai-dieu-chinh-chu-truong-dau-tu-102251003150450093.htm) - 15:30 03/10/2025
+- 🦍 [Thương mại điện tử: Cơ hội để DNVVN vươn ra thị trường quốc tế](https://baochinhphu.vn/thuong-mai-dien-tu-co-hoi-de-dnvvn-vuon-ra-thi-truong-quoc-te-102251003144608996.htm) - 15:30 03/10/2025
 - 🦍 [PVCFC: Đạt Top 10 Thương hiệu tăng trưởng ấn tượng năm 2025](https://baochinhphu.vn/pvcfc-dat-top-10-thuong-hieu-tang-truong-an-tuong-nam-2025-102251003145912702.htm) - 15:17 03/10/2025
-- 🦍 [Thủ tướng: 9 nhiệm vụ cấp bách khắc phục hậu quả bão số 10](https://baochinhphu.vn/thu-tuong-9-nhiem-vu-cap-bach-khac-phuc-hau-qua-bao-so-10-102251003142914362.htm) - 14:37 03/10/2025
-- 🧐 [Thúc đẩy nhanh, mạnh, hiệu quả các dự án hợp tác Việt Nam - Lào](https://baochinhphu.vn/thuc-day-nhanh-manh-hieu-qua-cac-du-an-hop-tac-viet-nam-lao-102251003103917936.htm) - 14:33 03/10/2025
-- 🕴 [Quy định mới về trang phục thanh tra](https://baochinhphu.vn/quy-dinh-moi-ve-trang-phuc-thanh-tra-102251003124402917.htm) - 14:29 03/10/2025
-- 🌈 [Đại hội Đảng bộ tỉnh An Giang: Khẳng định quyết tâm phát triển nhanh và bền vững](https://baochinhphu.vn/dai-hoi-dang-bo-tinh-an-giang-khang-dinh-quyet-tam-phat-trien-nhanh-va-ben-vung-102251003120928233.htm) - 14:23 03/10/2025
-- 🔥 [Quyết tâm xây dựng Gia Lai trở thành tỉnh phát triển khá của cả nước](https://baochinhphu.vn/quyet-tam-xay-dung-gia-lai-tro-thanh-tinh-phat-trien-kha-cua-ca-nuoc-102251003133841164.htm) - 14:22 03/10/2025<!-- baochinhphu:END -->
+- 🧐 [Thủ tướng: 9 nhiệm vụ cấp bách khắc phục hậu quả bão số 10](https://baochinhphu.vn/thu-tuong-9-nhiem-vu-cap-bach-khac-phuc-hau-qua-bao-so-10-102251003142914362.htm) - 14:37 03/10/2025
+- 🕴 [Thúc đẩy nhanh, mạnh, hiệu quả các dự án hợp tác Việt Nam - Lào](https://baochinhphu.vn/thuc-day-nhanh-manh-hieu-qua-cac-du-an-hop-tac-viet-nam-lao-102251003103917936.htm) - 14:33 03/10/2025
+- 🌈 [Quy định mới về trang phục thanh tra](https://baochinhphu.vn/quy-dinh-moi-ve-trang-phuc-thanh-tra-102251003124402917.htm) - 14:29 03/10/2025
+- 🔥 [Đại hội Đảng bộ tỉnh An Giang: Khẳng định quyết tâm phát triển nhanh và bền vững](https://baochinhphu.vn/dai-hoi-dang-bo-tinh-an-giang-khang-dinh-quyet-tam-phat-trien-nhanh-va-ben-vung-102251003120928233.htm) - 14:23 03/10/2025<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
