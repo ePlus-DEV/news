@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Mở lại đường bay Thâm Quyến - Đà Nẵng](https://vnexpress.net/mo-lai-duong-bay-tham-quyen-da-nang-4946631.html) - 17:00 02/10/2025
 - 🪄 [Khách Tây giúp người dân Hà Giang dọn bùn sau lũ](https://vnexpress.net/khach-tay-giup-nguoi-dan-ha-giang-don-bun-sau-lu-4946617.html) - 15:23 02/10/2025
-- 🦅 [Khách Tây ra đường &#39;trải nghiệm&#39; mưa ngập Hà Nội](https://vnexpress.net/khach-tay-ra-duong-trai-nghiem-mua-ngap-ha-noi-4946415.html) - 08:36 02/10/2025
+- 🦅 [Khách nước ngoài đội mưa quay Hà Nội ngập](https://vnexpress.net/khach-nuoc-ngoai-doi-mua-quay-ha-noi-ngap-4946415.html) - 08:36 02/10/2025
 - 🕴 [Đèo Khau Phạ sạt lở, khách hủy tour ngắm mùa vàng](https://vnexpress.net/deo-khau-pha-sat-lo-khach-huy-tour-ngam-mua-vang-4946374.html) - 07:23 02/10/2025
 - 👀 [Dừng đón khách ở hẻm Tu Sản vì lũ lớn trên sông Nho Quế](https://vnexpress.net/dung-don-khach-o-hem-tu-san-vi-lu-lon-tren-song-nho-que-4946361.html) - 04:51 02/10/2025
 - 🎭 [10 khách sạn Xanh tốt nhất Việt Nam 2025](https://vnexpress.net/10-khach-san-xanh-tot-nhat-viet-nam-2025-4944926.html) - 00:00 02/10/2025
