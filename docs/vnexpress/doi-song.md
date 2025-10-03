@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Những gia đình chỉ hạnh phúc trên mạng](https://vnexpress.net/nhung-gia-dinh-chi-hanh-phuc-tren-mang-4942944.html) - 23:00 02/10/2025
-- 🎓 [Nỗi sợ &#39;ngày thứ tư&#39; của cậu bé 17 tuổi](https://vnexpress.net/noi-so-ngay-thu-tu-cua-cau-be-17-tuoi-4945659.html) - 18:02 02/10/2025
+- 🎓 [Nỗi sợ &#39;ngày thứ tư&#39; của thiếu niên 17 tuổi](https://vnexpress.net/noi-so-ngay-thu-tu-cua-thieu-nien-17-tuoi-4945659.html) - 18:02 02/10/2025
 - 🚦 [Ba nhóm công việc AI khó thay thế con người](https://vnexpress.net/ba-nhom-cong-viec-ai-kho-thay-the-con-nguoi-4943693.html) - 09:13 02/10/2025
 - 🦣 [Món bò kho kiểu Nam Bộ](https://vnexpress.net/mon-bo-kho-kieu-nam-bo-4946059.html) - 08:13 02/10/2025
 - 🎓 [Anh em đoàn tụ sau 58 năm](https://vnexpress.net/anh-em-doan-tu-sau-58-nam-4946326.html) - 07:59 02/10/2025
