@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Đời tư bí ẩn của diễn viên &quot;Tử chiến trên không&quot; không tìm thấy trên Google](https://dantri.com.vn/giai-tri/doi-tu-bi-an-cua-dien-vien-tu-chien-tren-khong-khong-tim-thay-tren-google-20251002090613204.htm) - 23:15 02/10/2025
+- 🤩 [Đời tư bí ẩn của diễn viên &quot;Tử chiến trên không&quot; hiếm thấy tên trên Google](https://dantri.com.vn/giai-tri/doi-tu-bi-an-cua-dien-vien-tu-chien-tren-khong-hiem-thay-ten-tren-google-20251002090613204.htm) - 23:15 02/10/2025
 - 🔥 [“Vang mãi khúc khải hoàn”: Ký ức về những ngày hào hùng của Thủ đô](https://dantri.com.vn/giai-tri/vang-mai-khuc-khai-hoan-ky-uc-ve-nhung-ngay-hao-hung-cua-thu-do-20251002204059685.htm) - 15:18 02/10/2025
 - 🚀 [Tài tử &quot;Nữ hoàng nước mắt&quot; Kim Soo Hyun làm gì trong 6 tháng mất tích?](https://dantri.com.vn/giai-tri/tai-tu-nu-hoang-nuoc-mat-kim-soo-hyun-lam-gi-trong-6-thang-mat-tich-20251002100504920.htm) - 15:07 02/10/2025
 - 🔥 [Sau đám cưới rầm rộ, Selena Gomez bị chỉ trích vô ơn](https://dantri.com.vn/giai-tri/sau-dam-cuoi-ram-ro-selena-gomez-bi-chi-trich-vo-on-20251002112537222.htm) - 10:37 02/10/2025
