@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Dấu ấn nhạc sĩ Thế Hiển qua loạt ca khúc &#39;đi cùng năm tháng&#39;](https://vnexpress.net/dau-an-nhac-si-the-hien-qua-loat-ca-khuc-di-cung-nam-thang-4946803.html) - 11:17 03/10/2025
+- 🌏 [Những ca khúc &#39;đi cùng năm tháng&#39; của nhạc sĩ Thế Hiển](https://vnexpress.net/nhung-ca-khuc-di-cung-nam-thang-cua-nhac-si-the-hien-4946803.html) - 11:17 03/10/2025
 - 💫 [Hồ Văn Cường: &#39;Tôi mua được nhà như mơ ước&#39;](https://vnexpress.net/ho-van-cuong-toi-mua-duoc-nha-nhu-mo-uoc-4946972.html) - 09:51 03/10/2025
 - 🌮 [James Cameron: &#39;AI không thể nào thay thế nghệ sĩ&#39;](https://vnexpress.net/james-cameron-ai-khong-the-nao-thay-the-nghe-si-4946682.html) - 08:21 03/10/2025
 - 🧠 [&#39;Trùm nhạc rap&#39; Diddy dạy học trong tù](https://vnexpress.net/trum-nhac-rap-diddy-day-hoc-trong-tu-4946684.html) - 07:32 03/10/2025
