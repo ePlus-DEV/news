@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Điều kiện mới để lao động tự do được hưởng lương hưu](https://dantri.com.vn/lao-dong-viec-lam/dieu-kien-moi-de-lao-dong-tu-do-duoc-huong-luong-huu-20251002172909217.htm) - 01:30 03/10/2025
-- 🙉 [Cô gái 9X kiếm bộn tiền nhờ tài viết chữ đẹp, khách &quot;chốt đơn&quot; liên tục](https://dantri.com.vn/lao-dong-viec-lam/co-gai-9x-kiem-bon-tien-nho-tai-viet-chu-dep-khach-chot-don-lien-tuc-20251002092321970.htm) - 00:00 03/10/2025
+- 🙉 [Cô gái 9X kiếm bộn tiền nhờ chữ đẹp, khách &quot;chốt đơn&quot; liên tục](https://dantri.com.vn/lao-dong-viec-lam/co-gai-9x-kiem-bon-tien-nho-chu-dep-khach-chot-don-lien-tuc-20251002092321970.htm) - 00:00 03/10/2025
 - 🕴 [Lão nông thuê máy bay không người lái tìm đàn vịt lạc sau bão Bualoi](https://dantri.com.vn/lao-dong-viec-lam/lao-nong-thue-may-bay-khong-nguoi-lai-tim-dan-vit-lac-sau-bao-bualoi-20251002155008284.htm) - 23:00 02/10/2025
 - 🧐 [Ép lao động nước ngoài làm việc kiệt sức, CEO nhận án 3,5 năm tù](https://dantri.com.vn/lao-dong-viec-lam/ep-lao-dong-nuoc-ngoai-lam-viec-kiet-suc-ceo-nhan-an-35-nam-tu-20251002103437684.htm) - 12:00 02/10/2025
 - 🧑‍💻 [Nữ lao công bị sa thải vì làm việc... 17 giờ mỗi ngày](https://dantri.com.vn/lao-dong-viec-lam/nu-lao-cong-bi-sa-thai-vi-lam-viec-17-gio-moi-ngay-20251002084809059.htm) - 08:40 02/10/2025
