@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Mẹ còn sống, con có quyền đòi chia thừa kế?](https://vnexpress.net/me-con-song-con-co-quyen-doi-chia-thua-ke-4946515.html) - 23:00 02/10/2025
-- 🥰 [Vụ án nổ nam sinh 8 phát súng vì tình đơn phương](https://vnexpress.net/8-phat-sung-vi-tinh-don-phuong-cua-nam-sinh-truong-danh-tieng-4946578.html) - 17:00 02/10/2025
+- 🥰 [Vụ án nam sinh nổ 8 phát súng vì tình đơn phương](https://vnexpress.net/8-phat-sung-vi-tinh-don-phuong-cua-nam-sinh-truong-danh-tieng-4946578.html) - 17:00 02/10/2025
 - 🎓 [Cặp đôi hầu tòa vì &#39;tình cảm quá đà&#39; trên máy bay](https://vnexpress.net/cap-doi-hau-toa-vi-tinh-cam-qua-da-tren-may-bay-4946548.html) - 14:45 02/10/2025
 - 🤓 [Đường dây mại dâm núp bóng &#39;massage tại nhà&#39; ở Hà Nội](https://vnexpress.net/duong-day-mai-dam-nup-bong-massage-tai-nha-o-ha-noi-4946604.html) - 14:39 02/10/2025
 - 🎊 [Thi hành án dân sự năm 2025 thu kỷ lục 150.000 tỷ đồng](https://vnexpress.net/thi-hanh-an-dan-su-nam-2025-thu-tong-tien-ky-luc-150-000-ty-dong-4946586.html) - 14:31 02/10/2025
