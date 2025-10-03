@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Doanh nhân Hoàng Hường bị khởi tố](https://vnexpress.net/doanh-nhan-hoang-huong-bi-khoi-to-4946894.html) - 12:58 03/10/2025
+- 😎 [Hoàng Hường bị khởi tố](https://vnexpress.net/hoang-huong-bi-khoi-to-4946894.html) - 12:58 03/10/2025
 - 🥰 [Facebooker Nguyễn Mạnh Tuân chiếm đoạt 140 triệu đồng từ thiện](https://vnexpress.net/facebooker-nguyen-manh-tuan-chiem-doat-140-trieu-dong-tu-thien-4947040.html) - 11:47 03/10/2025
 - 🎓 [Hai du khách nước ngoài đi nhiều nơi ở Phú Quốc đổi USD giả](https://vnexpress.net/hai-du-khach-nuoc-ngoai-di-nhieu-noi-o-phu-quoc-doi-usd-gia-4947024.html) - 11:31 03/10/2025
 - 🤓 [Cựu giám đốc CDC và Bệnh viện Đa khoa Bình Thuận bị bắt](https://vnexpress.net/cuu-giam-doc-cdc-va-benh-vien-da-khoa-binh-thuan-bi-bat-4946974.html) - 09:52 03/10/2025
