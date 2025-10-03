@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Sắp diễn ra tọa đàm trực tuyến &quot;Hiểu đúng về u xơ tử cung&quot;](https://dantri.com.vn/suc-khoe/sap-dien-ra-toa-dam-truc-tuyen-hieu-dung-ve-u-xo-tu-cung-20251002143516322.htm) - 09:14 02/10/2025
+- 🪜 [Tọa đàm trực tuyến: Hiểu đúng về u xơ tử cung](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-hieu-dung-ve-u-xo-tu-cung-20251002143516322.htm) - 07:22 03/10/2025
 - 🗽 [Ai cũng muốn chuyển đổi số nhưng làm sao để phù hợp chiến lược thì rất khó](https://dantri.com.vn/kinh-doanh/ai-cung-muon-chuyen-doi-so-nhung-lam-sao-de-phu-hop-chien-luoc-thi-rat-kho-20250926074213496.htm) - 01:58 30/09/2025
 - 🕯 [Tín chỉ carbon - Cơ hội mới từ áp lực xanh](https://dantri.com.vn/kinh-doanh/tin-chi-carbon-co-hoi-moi-tu-ap-luc-xanh-20250929071019541.htm) - 01:30 29/09/2025
 - 🫶 [Tọa đàm: Tư vấn chăm sóc trước, trong và sau chu kỳ IVF](https://dantri.com.vn/suc-khoe/toa-dam-tu-van-cham-soc-truoc-trong-va-sau-chu-ky-ivf-20250925113317251.htm) - 06:46 26/09/2025
