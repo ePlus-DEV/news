@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Bảng xếp hạng mới nhất: V-League: Bắt đầu tách tốp, HAGL chỉ biết tự trách mình](https://thanhnien.vn/bang-xep-hang-moi-nhat-v-league-bat-dau-tach-top-hagl-chi-biet-tu-trach-minh-18525100320393798.htm) - 13:44 03/10/2025
+- 🤠 [Bảng xếp hạng V-League mới nhất: Bắt đầu tách tốp, HAGL lại đẩy Thanh Hóa xuống dưới đáy](https://thanhnien.vn/bang-xep-hang-moi-nhat-v-league-bat-dau-tach-top-hagl-chi-biet-tu-trach-minh-18525100320393798.htm) - 13:44 03/10/2025
 - 🥸 [Một đại học ở TP.HCM hỗ trợ học phí cho gần 3.000 sinh viên sau bão Bualoi](https://thanhnien.vn/mot-dai-hoc-o-tphcm-ho-tro-hoc-phi-cho-gan-3000-sinh-vien-sau-bao-bualoi-185251003200638832.htm) - 13:30 03/10/2025
 - 🌁 [Tuyên Quang: Mưa lũ lịch sử cuốn trôi hơn 20 cây cầu](https://thanhnien.vn/tuyen-quang-mua-lu-lich-su-cuon-troi-hon-20-cay-cau-185251003192623481.htm) - 13:21 03/10/2025
 - 🤡 [Nhiều hoạt động văn hóa nghệ thuật đặc sắc tại ‘2025 K-pop Festa In Dalat’](https://thanhnien.vn/nhieu-hoat-dong-van-hoa-nghe-thuat-dac-sac-tai-2025-k-pop-festa-in-dalat-1852510031820106.htm) - 13:19 03/10/2025
