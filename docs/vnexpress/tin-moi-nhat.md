@@ -48,7 +48,7 @@ sidebar_position: 9
 - 💃 [6 thói quen giúp bảo vệ xương trẻ em](https://vnexpress.net/6-thoi-quen-giup-bao-ve-xuong-tre-em-4946808.html) - 10:00 03/10/2025
 - 🦆 [Bouchee - bước tiến mới của Lotte Chocolat tại Việt Nam](https://vnexpress.net/bouchee-buoc-tien-moi-cua-lotte-chocolat-tai-viet-nam-4945799.html) - 10:00 03/10/2025
 - 🎊 [Thủ tướng Thái Lan làm phi công chuyến bay chở tạng hiến cứu 7 người](https://vnexpress.net/thu-tuong-thai-lan-lam-phi-cong-chuyen-bay-cho-tang-hien-cuu-7-nguoi-4946941.html) - 09:54 03/10/2025
-- 👺 [Cựu giám đốc CDC Bình Thuận bị bắt](https://vnexpress.net/cuu-giam-doc-cdc-binh-thuan-bi-bat-4946974.html) - 09:52 03/10/2025
+- 👺 [Cựu giám đốc CDC và Bệnh viện Đa khoa Bình Thuận bị bắt](https://vnexpress.net/cuu-giam-doc-cdc-va-benh-vien-da-khoa-binh-thuan-bi-bat-4946974.html) - 09:52 03/10/2025
 - 🎡 [Hồ Văn Cường: &#39;Tôi mua được nhà như mơ ước&#39;](https://vnexpress.net/ho-van-cuong-toi-mua-duoc-nha-nhu-mo-uoc-4946972.html) - 09:51 03/10/2025
 - 👍 [Xem xét đề xuất loại bỏ tên bão Bualoi](https://vnexpress.net/xem-xet-de-xuat-loai-bo-ten-bao-bualoi-4946989.html) - 09:51 03/10/2025
 - 🐎 [Chứng khoán kết tuần trong sắc đỏ](https://vnexpress.net/chung-khoan-hom-nay-3-10-vn-index-ket-tuan-trong-sac-do-4946971.html) - 09:11 03/10/2025
