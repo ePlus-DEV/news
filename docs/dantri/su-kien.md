@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Chú rể lội nước bì bõm, đưa cô dâu vượt lũ bằng xe hoa đặc biệt](https://dantri.com.vn/doi-song/chu-re-loi-nuoc-bi-bom-dua-co-dau-vuot-lu-bang-xe-hoa-dac-biet-20251003122030355.htm) - 07:15 03/10/2025
 - 👨‍🏫 [Đám cưới mùa lũ: Bắc ghế đi ăn cỗ, chèo thuyền hoa đón dâu](https://dantri.com.vn/doi-song/dam-cuoi-mua-lu-bac-ghe-di-an-co-cheo-thuyen-hoa-don-dau-20251002151219369.htm) - 07:07 03/10/2025
-- 🌮 [3 người tử vong trong ngôi nhà ở Đồng Nai, nghi bị sát hại](https://dantri.com.vn/thoi-su/3-nguoi-tu-vong-trong-ngoi-nha-o-dong-nai-nghi-bi-sat-hai-20251003113953396.htm) - 05:41 03/10/2025
+- 🌮 [3 người tử vong trong ngôi nhà ở Đồng Nai, nghi bị sát hại](https://dantri.com.vn/phap-luat/3-nguoi-tu-vong-trong-ngoi-nha-o-dong-nai-nghi-bi-sat-hai-20251003113953396.htm) - 05:41 03/10/2025
 - 🕯 [Chiến sự Ukraine 3/10: Thế cờ chính thức đảo ngược ở Dobropolye](https://dantri.com.vn/the-gioi/chien-su-ukraine-310-the-co-chinh-thuc-dao-nguoc-o-dobropolye-20251003110751467.htm) - 04:31 03/10/2025
 - 🪜 [Thiết kế hệ thống tiền lương, phụ cấp với công chức để trình Bộ Chính trị](https://dantri.com.vn/noi-vu/thiet-ke-he-thong-tien-luong-phu-cap-voi-cong-chuc-de-trinh-bo-chinh-tri-20251003102454779.htm) - 03:48 03/10/2025
 - 🐘 [Thủ tướng và lãnh đạo Chính phủ ủng hộ đồng bào bị thiệt hại do bão lũ](https://dantri.com.vn/thoi-su/thu-tuong-va-lanh-dao-chinh-phu-ung-ho-dong-bao-bi-thiet-hai-do-bao-lu-20251003094158447.htm) - 03:23 03/10/2025
