@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Khách Tây tò mò với bát mì &quot;lạ&quot; có thịt và nước dùng màu đen tại Hà Nội](https://dantri.com.vn/du-lich/khach-tay-to-mo-voi-bat-mi-la-co-thit-va-nuoc-dung-mau-den-tai-ha-noi-20251002114729044.htm) - 23:02 02/10/2025
-- 🥰 [Bão số 11 tăng tốc, du khách cân nhắc khi đi Sa Pa, Mù Cang Chải, Mộc Châu](https://dantri.com.vn/du-lich/bao-so-11-tang-toc-du-khach-can-nhac-khi-di-sa-pa-mu-cang-chai-moc-chau-20251002190312445.htm) - 22:45 02/10/2025
+- 🥰 [Bão Matmo tăng tốc, du khách cân nhắc khi đi Sa Pa, Mù Cang Chải, Mộc Châu](https://dantri.com.vn/du-lich/bao-matmo-tang-toc-du-khach-can-nhac-khi-di-sa-pa-mu-cang-chai-moc-chau-20251002190312445.htm) - 22:45 02/10/2025
 - 🐻 [Lâm Đồng tổ chức Lễ hội Khinh khí cầu và Nghệ thuật với quy mô chưa từng có](https://dantri.com.vn/du-lich/lam-dong-to-chuc-le-hoi-khinh-khi-cau-va-nghe-thuat-voi-quy-mo-chua-tung-co-20251002190657786.htm) - 12:57 02/10/2025
 - 🤩 [Chuyến tàu điện xa hoa bậc nhất thế giới ở Saudi Arabia, vé chỉ 1 USD](https://dantri.com.vn/du-lich/chuyen-tau-dien-xa-hoa-bac-nhat-the-gioi-o-saudi-arabia-ve-chi-1-usd-20251002113259303.htm) - 09:00 02/10/2025
 - 🕴 [Bộ trưởng Nguyễn Văn Hùng thăm và làm việc ở Tổ chức Du lịch Liên Hợp Quốc](https://dantri.com.vn/du-lich/bo-truong-nguyen-van-hung-tham-va-lam-viec-o-to-chuc-du-lich-lien-hop-quoc-20251002144610337.htm) - 08:04 02/10/2025
