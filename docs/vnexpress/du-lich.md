@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Đầu bếp Singapore tạo món phở Việt đặt trong củ hành rỗng](https://vnexpress.net/dau-bep-singapore-tao-mon-pho-viet-dat-trong-cu-hanh-rong-4946726.html) - 12:00 03/10/2025
+- 💂 [Đầu bếp Singapore sáng tạo phở Việt đặt trong củ hành rỗng](https://vnexpress.net/dau-bep-singapore-sang-tao-pho-viet-dat-trong-cu-hanh-rong-4946726.html) - 12:00 03/10/2025
 - 🪄 [Tour mùa thu Trung Quốc giá rẻ hút khách Việt](https://vnexpress.net/tour-mua-thu-trung-quoc-gia-re-hut-khach-viet-4944442.html) - 08:04 03/10/2025
 - 🦅 [Trung Quốc có mấy múi giờ?](https://vnexpress.net/trung-quoc-co-may-mui-gio-4946551.html) - 05:51 03/10/2025
 - 🕴 [Việt Nam khẳng định vị thế tại Tổ chức Du lịch Liên Hợp Quốc](https://vnexpress.net/viet-nam-khang-dinh-vi-the-tai-to-chuc-du-lich-lien-hop-quoc-4946520.html) - 04:47 03/10/2025
