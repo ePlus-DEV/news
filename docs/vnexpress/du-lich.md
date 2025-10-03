@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tour mùa thu Trung Quốc giá rẻ soán ngôi Nhật Bản, Hàn Quốc](https://vnexpress.net/tour-mua-thu-trung-quoc-gia-re-soan-ngoi-nhat-ban-han-quoc-4944442.html) - 08:04 03/10/2025
+- 💂 [Tour mùa thu Trung Quốc giá rẻ hút khách Việt](https://vnexpress.net/tour-mua-thu-trung-quoc-gia-re-hut-khach-viet-4944442.html) - 08:04 03/10/2025
 - 🪄 [Trung Quốc có mấy múi giờ?](https://vnexpress.net/trung-quoc-co-may-mui-gio-4946551.html) - 05:51 03/10/2025
 - 🦅 [Việt Nam khẳng định vị thế tại Tổ chức Du lịch Liên Hợp Quốc](https://vnexpress.net/viet-nam-khang-dinh-vi-the-tai-to-chuc-du-lich-lien-hop-quoc-4946520.html) - 04:47 03/10/2025
 - 🕴 [Nữ du khách thoát chết khi bị voi dìm dưới nước](https://vnexpress.net/nu-du-khach-thoat-chet-khi-bi-voi-dim-duoi-nuoc-4946761.html) - 03:51 03/10/2025
