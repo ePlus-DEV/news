@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phó Thủ tướng: Ưu tiên đầu tư để Khoa học Tự nhiên xứng tầm trường chuyên số một](https://vnexpress.net/pho-thu-tuong-uu-tien-dau-tu-de-khoa-hoc-tu-nhien-xung-tam-truong-chuyen-so-mot-4947244.html) - 12:14 04/10/2025
+- 🤓 [Phó Thủ tướng: Ưu tiên đầu tư để trường chuyên Khoa học Tự nhiên xứng tầm số một](https://vnexpress.net/pho-thu-tuong-uu-tien-dau-tu-de-truong-chuyen-khoa-hoc-tu-nhien-xung-tam-so-mot-4947244.html) - 12:14 04/10/2025
 - 🦆 [Ziaja đưa kiến thức chăm sóc sức khỏe vào sân bóng rổ](https://vnexpress.net/ziaja-dua-kien-thuc-cham-soc-suc-khoe-vao-san-bong-ro-4946623.html) - 11:15 04/10/2025
 - 🦩 [Những điều làm nên kỳ tích ở chuyên Tổng hợp](https://vnexpress.net/nhung-dieu-lam-nen-ky-tich-o-chuyen-tong-hop-4947193.html) - 06:35 04/10/2025
 - 🌮 [Tỷ lệ tốt nghiệp xuất sắc ĐH Bách khoa Hà Nội cao nhất lịch sử](https://vnexpress.net/ty-le-tot-nghiep-xuat-sac-dh-bach-khoa-ha-noi-cao-nhat-lich-su-4947188.html) - 04:37 04/10/2025
