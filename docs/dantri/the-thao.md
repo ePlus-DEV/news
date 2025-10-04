@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd 2-0 Sunderland &lpar;hiệp 1&rpar;: Sesko nhân đôi cách biệt](https://dantri.com.vn/the-thao/man-utd-2-0-sunderland-hiep-1-sesko-nhan-doi-cach-biet-20251004205327391.htm) - 13:53 04/10/2025
+- 🎡 [Man Utd 2-0 Sunderland &lpar;hiệp 2&rpar;: Chủ nhà thoát phạt đền](https://dantri.com.vn/the-thao/man-utd-2-0-sunderland-hiep-2-chu-nha-thoat-phat-den-20251004205327391.htm) - 13:53 04/10/2025
 - 💯 [Báo Malaysia: &quot;FAM vẫn có cơ hội thoát án phạt từ FIFA&quot;](https://dantri.com.vn/the-thao/bao-malaysia-fam-van-co-co-hoi-thoat-an-phat-tu-fifa-20251004202254131.htm) - 13:24 04/10/2025
 - ⛽️ [HLV Harry Kewell: Nổi danh trên sân cỏ, lận đận nghề huấn luyện viên](https://dantri.com.vn/the-thao/hlv-harry-kewell-noi-danh-tren-san-co-lan-dan-nghe-huan-luyen-vien-20251004191939638.htm) - 12:41 04/10/2025
 - 💃 [Báo Saudi Arabia bình luận khi đội nhà chung bảng với U23 Việt Nam](https://dantri.com.vn/the-thao/bao-saudi-arabia-binh-luan-khi-doi-nha-chung-bang-voi-u23-viet-nam-20251004185435709.htm) - 12:15 04/10/2025
