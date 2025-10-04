@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hai cha con đạp xe 25.000 km vòng quanh thế giới](https://vnexpress.net/hai-cha-con-dap-xe-25-000-km-vong-quanh-the-gioi-4947106.html) - 03:58 04/10/2025
+- 💂 [Hai cha con đạp xe 29.000 km vòng quanh thế giới](https://vnexpress.net/hai-cha-con-dap-xe-29-000-km-vong-quanh-the-gioi-4947106.html) - 03:58 04/10/2025
 - 🪄 [Khách chạy tán loạn vì mưa lửa tại lễ hội pháo hoa Trung Quốc](https://vnexpress.net/khach-chay-tan-loan-vi-mua-lua-tai-le-hoi-phao-hoa-trung-quoc-4947156.html) - 03:36 04/10/2025
 - 🦅 [Khách nước ngoài thích thú không khí Trung thu trên phố cổ](https://vnexpress.net/khach-nuoc-ngoai-thich-thu-khong-khi-trung-thu-tren-pho-co-4947088.html) - 17:00 03/10/2025
 - 🕴 [Thác nước check in thành điểm sinh hoạt chung sau lũ](https://vnexpress.net/thac-nuoc-check-in-thanh-diem-sinh-hoat-chung-sau-lu-4947066.html) - 15:02 03/10/2025
