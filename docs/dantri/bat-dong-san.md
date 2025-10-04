@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Lotte muốn tiếp tục dự án Thủ Thiêm Eco Smart City 20.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/lotte-muon-tiep-tuc-du-an-thu-thiem-eco-smart-city-20000-ty-dong-20251004163251904.htm) - 09:46 04/10/2025
+- 🌏 [Lotte muốn tiếp tục dự án Thủ Thiêm Eco Smart City 20.000 tỷ đồng](https://dantri.com.vn/bat-dong-san/lotte-muon-tiep-tuc-du-an-thu-thiem-eco-smart-city-20000-ty-dong-20251004163251904.htm) - 09:46 04/10/2025
 - 👹 [Thưởng lãm nghệ thuật tại căn hộ Marriott Residences phiên bản đặc biệt](https://dantri.com.vn/bat-dong-san/thuong-lam-nghe-thuat-tai-can-ho-marriott-residences-phien-ban-dac-biet-20251004092104103.htm) - 03:00 04/10/2025
 - 💡 [Bí quyết tối giản: Phòng khách sang trọng khi bỏ đi 7 món đồ này](https://dantri.com.vn/bat-dong-san/bi-quyet-toi-gian-phong-khach-sang-trong-khi-bo-di-7-mon-do-nay-20251003224823647.htm) - 02:53 04/10/2025
 - 🌋 [Những điểm nghẽn pháp lý từ vụ người vay thoát nợ 5 tỷ đồng mua biệt thự](https://dantri.com.vn/bat-dong-san/nhung-diem-nghen-phap-ly-tu-vu-nguoi-vay-thoat-no-5-ty-dong-mua-biet-thu-20251004083010101.htm) - 02:11 04/10/2025
