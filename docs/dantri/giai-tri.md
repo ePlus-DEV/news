@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Diddy khóc nức nở xin khoan hồng, lĩnh án 50 tháng tù giam](https://dantri.com.vn/giai-tri/diddy-khoc-nuc-no-xin-khoan-hong-linh-an-50-thang-tu-giam-20251004104600382.htm) - 05:04 04/10/2025
-- 🔥 [Lê Dương Bảo Lâm lên tiếng về tranh cãi hài lố tại show về chiến sĩ](https://dantri.com.vn/giai-tri/le-duong-bao-lam-len-tieng-ve-tranh-cai-hai-lo-tai-show-ve-chien-si-20251004083324591.htm) - 03:25 04/10/2025
+- 🔥 [Lê Dương Bảo Lâm lên tiếng sau tranh cãi hài lố tại show về chiến sĩ](https://dantri.com.vn/giai-tri/le-duong-bao-lam-len-tieng-sau-tranh-cai-hai-lo-tai-show-ve-chien-si-20251004083324591.htm) - 03:25 04/10/2025
 - 🚀 [NSND Hương Dung, Thanh Tú được Hội Nghệ sĩ Sân khấu vinh danh](https://dantri.com.vn/giai-tri/nsnd-huong-dung-thanh-tu-duoc-hoi-nghe-si-san-khau-vinh-danh-20251004095933862.htm) - 03:22 04/10/2025
 - 🔥 [Yến Nhi ấp úng khi nói tiếng Anh tại Hoa hậu Hòa bình Quốc tế 2025](https://dantri.com.vn/giai-tri/yen-nhi-ap-ung-khi-noi-tieng-anh-tai-hoa-hau-hoa-binh-quoc-te-2025-20251004084410084.htm) - 02:59 04/10/2025
 - 🌈 [Giải thưởng Bùi Xuân Phái 2025 vinh danh nhạc sĩ Trần Tiến](https://dantri.com.vn/giai-tri/giai-thuong-bui-xuan-phai-2025-vinh-danh-nhac-si-tran-tien-20251004083927665.htm) - 02:02 04/10/2025
