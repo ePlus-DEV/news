@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦆 [Nghịch lý kinh tế Nga: Thừa dầu xuất khẩu, thiếu xăng trong nước](https://dantri.com.vn/kinh-doanh/nghich-ly-kinh-te-nga-thua-dau-xuat-khau-thieu-xang-trong-nuoc-20251003205905431.htm) - 04:24 04/10/2025
 - 🦄 [Giá vàng thật tăng cao, người Thái Lan đổ xô mua vàng giả](https://dantri.com.vn/kinh-doanh/gia-vang-that-tang-cao-nguoi-thai-lan-do-xo-mua-vang-gia-20251004094338715.htm) - 03:27 04/10/2025
 - 🌝 [Gia hạn nhận hồ sơ vòng 1 Vietnam ESG Awards 2025](https://dantri.com.vn/kinh-doanh/gia-han-nhan-ho-so-vong-1-vietnam-esg-awards-2025-20251004095137197.htm) - 03:02 04/10/2025
-- 💃 [Giá vàng rớt mốc 138 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-rot-moc-138-trieu-dongluong-20251004082107763.htm) - 01:26 04/10/2025
+- 💃 [Giá vàng tiến sát mốc 139 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-tien-sat-moc-139-trieu-dongluong-20251004082107763.htm) - 01:26 04/10/2025
 - 🦏 [Visa K - Trung Quốc mở rộng cửa thu hút nhân tài thế giới](https://dantri.com.vn/kinh-doanh/visa-k-trung-quoc-mo-rong-cua-thu-hut-nhan-tai-the-gioi-20251003220453495.htm) - 01:02 04/10/2025
 - 🦩 [Hoàng Hường bị bắt: Chuyên gia chỉ rõ thủ đoạn trốn thuế qua hộ kinh doanh](https://dantri.com.vn/kinh-doanh/hoang-huong-bi-bat-chuyen-gia-chi-ro-thu-doan-tron-thue-qua-ho-kinh-doanh-20251003224737030.htm) - 00:17 04/10/2025
 - 💡 [Hoàng Hường bị bắt: Hé lộ đế chế kinh doanh và chiêu trò quảng cáo &quot;nổ&quot;](https://dantri.com.vn/kinh-doanh/hoang-huong-bi-bat-he-lo-de-che-kinh-doanh-va-chieu-tro-quang-cao-no-20251003210628410.htm) - 14:40 03/10/2025
