@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Công an kêu gọi cung cấp thông tin kẻ sát hại 3 người ở Đồng Nai](https://vnexpress.net/cong-an-keu-goi-cung-cap-thong-tin-ke-sat-hai-3-nguoi-o-dong-nai-4947049.html) - 01:22 04/10/2025
-- 🥰 [&#39;Trùm nhạc rap&#39; Diddy lĩnh hơn 4 năm tù](https://vnexpress.net/trum-nhac-rap-diddy-linh-an-50-thang-tu-4947122.html) - 01:00 04/10/2025
+- 🥰 [&#39;Trùm nhạc rap&#39; Diddy bị phạt hơn 4 năm tù](https://vnexpress.net/trum-nhac-rap-diddy-linh-an-50-thang-tu-4947122.html) - 01:00 04/10/2025
 - 🎓 [Gã giang hồ tiêu hủy ma túy hơn 3 tỷ đồng, người tình khóc vì tiếc](https://vnexpress.net/ga-giang-ho-tieu-huy-ma-tuy-hon-3-ty-dong-nguoi-tinh-khoc-vi-tiec-4947099.html) - 00:50 04/10/2025
 - 🤓 [Giám đốc Bệnh viện đa khoa vùng Tây Nguyên bị bắt](https://vnexpress.net/giam-doc-benh-vien-da-khoa-vung-tay-nguyen-bi-bat-4947111.html) - 23:44 03/10/2025
 - 🎊 [Bi kịch của nạn nhân chịu 6 tiếng thẩm vấn với hai viên đạn trong đầu](https://vnexpress.net/bi-kich-cua-nan-nhan-chiu-6-tieng-tham-van-voi-hai-vien-dan-trong-dau-4947047.html) - 17:00 03/10/2025
