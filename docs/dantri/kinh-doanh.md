@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Hoàng Hường bị bắt: Bị rút giấy phép, vẫn lén lút hoạt động](https://dantri.com.vn/kinh-doanh/hoang-huong-bi-bat-bi-rut-giay-phep-van-len-lut-hoat-dong-20251004210105558.htm) - 14:55 04/10/2025
+- 🏊 [Phòng khám Hoàng Hường bị rút giấy phép vẫn ngang nhiên hoạt động](https://dantri.com.vn/kinh-doanh/phong-kham-hoang-huong-bi-rut-giay-phep-van-ngang-nhien-hoat-dong-20251004210105558.htm) - 14:55 04/10/2025
 - 🦆 [Vietcombank phủ nhận thông tin cháy phòng giao dịch ở Hà Nội](https://dantri.com.vn/kinh-doanh/vietcombank-phu-nhan-thong-tin-chay-phong-giao-dich-o-ha-noi-20251004212720439.htm) - 14:49 04/10/2025
 - 🦄 [VNPAY được vinh danh tại giải thưởng &quot;Thương hiệu mạnh Việt Nam 2025”](https://dantri.com.vn/kinh-doanh/vnpay-duoc-vinh-danh-tai-giai-thuong-thuong-hieu-manh-viet-nam-2025-20251004190405549.htm) - 13:00 04/10/2025
 - 🌝 [AEON khai trương &quot;đại siêu thị&quot; vốn đầu tư hơn 1.000 tỷ đồng tại Tây Ninh](https://dantri.com.vn/kinh-doanh/aeon-khai-truong-dai-sieu-thi-von-dau-tu-hon-1000-ty-dong-tai-tay-ninh-20251004183250312.htm) - 12:04 04/10/2025
