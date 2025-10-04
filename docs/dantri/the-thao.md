@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Phúc Huỳnh thắng áp đảo Vinh Hiển, vô địch pickleball châu Á](https://dantri.com.vn/the-thao/phuc-huynh-thang-ap-dao-vinh-hien-vo-dich-pickleball-chau-a-20251004161405633.htm) - 09:14 04/10/2025
-- 💯 [Cựu danh thủ Liverpool Harry Kewell dẫn dắt CLB Hà Nội](https://dantri.com.vn/the-thao/cuu-danh-thu-liverpool-harry-kewell-dan-dat-clb-ha-noi-20251004135547612.htm) - 06:58 04/10/2025
-- ⛽️ [Báo Trung Quốc đánh giá bảng đấu của U23 Việt Nam gây tranh cãi](https://dantri.com.vn/the-thao/bao-trung-quoc-danh-gia-bang-dau-cua-u23-viet-nam-gay-tranh-cai-20251004125340840.htm) - 06:01 04/10/2025
+- 🎡 [Báo Trung Quốc đánh giá bảng đấu của U23 Việt Nam gây tranh cãi](https://dantri.com.vn/the-thao/bao-trung-quoc-danh-gia-bang-dau-cua-u23-viet-nam-gay-tranh-cai-20251004125340840.htm) - 09:16 04/10/2025
+- 💯 [Phúc Huỳnh thắng áp đảo Vinh Hiển, vô địch pickleball châu Á](https://dantri.com.vn/the-thao/phuc-huynh-thang-ap-dao-vinh-hien-vo-dich-pickleball-chau-a-20251004161405633.htm) - 09:14 04/10/2025
+- ⛽️ [Cựu danh thủ Liverpool Harry Kewell dẫn dắt CLB Hà Nội](https://dantri.com.vn/the-thao/cuu-danh-thu-liverpool-harry-kewell-dan-dat-clb-ha-noi-20251004135547612.htm) - 06:23 04/10/2025
 - 💃 [Quang Hải lần thứ 2 liên tiếp rút khỏi đội tuyển Việt Nam](https://dantri.com.vn/the-thao/quang-hai-lan-thu-2-lien-tiep-rut-khoi-doi-tuyen-viet-nam-20251004123815624.htm) - 05:41 04/10/2025
 - 🌈 [Tuyển Tây Ban Nha triệu tập, rồi bất ngờ gạch tên Lamine Yamal](https://dantri.com.vn/the-thao/tuyen-tay-ban-nha-trieu-tap-roi-bat-ngo-gach-ten-lamine-yamal-20251004105258932.htm) - 03:53 04/10/2025
 - 🦅 [Báo Indonesia nhận xét thẳng thắn về Malaysia khi mất 7 cầu thủ nhập tịch](https://dantri.com.vn/the-thao/bao-indonesia-nhan-xet-thang-than-ve-malaysia-khi-mat-7-cau-thu-nhap-tich-20251004095851731.htm) - 03:00 04/10/2025
