@@ -4,56 +4,56 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bỏ hội đồng trường trong cơ sở giáo dục công lập](https://vnexpress.net/bo-hoi-dong-truong-trong-co-so-giao-duc-cong-lap-4947552.html) - 14:19 05/10/2025
-- 🤓 [Giông lốc làm tốc mái, hư hỏng nhiều nhà ở Nghệ An, Hà Tĩnh](https://vnexpress.net/giong-loc-lam-toc-mai-hu-hong-nhieu-nha-o-nghe-an-ha-tinh-4947548.html) - 13:38 05/10/2025
-- ⚗️ [Quảng Ninh, Hải Phòng cấp tập ứng phó bão Matmo](https://vnexpress.net/quang-ninh-hai-phong-cap-tap-ung-pho-bao-matmo-4947519.html) - 13:02 05/10/2025
-- 🌊 [Vingroup đề xuất xây cầu vượt biển nối Cần Giờ - Vũng Tàu](https://vnexpress.net/vingroup-de-xuat-xay-cau-vuot-bien-noi-can-gio-vung-tau-4947543.html) - 12:42 05/10/2025
-- 🎓 [Chủ tịch Hà Nội: Ứng phó bão cần linh hoạt, tránh xáo trộn cuộc sống người dân](https://vnexpress.net/chu-tich-ha-noi-ung-pho-bao-can-linh-hoat-tranh-xao-tron-cuoc-song-nguoi-dan-4947507.html) - 12:37 05/10/2025
-- 🔥 [Bão Matmo vào biên giới Việt - Trung, có thể gây mưa 400 mm](https://vnexpress.net/bao-matmo-dem-nay-vao-bien-gioi-viet-trung-4947522.html) - 11:13 05/10/2025
-- 🦏 [Vùng trồng hoa, rau lớn nhất Hà Nội thiệt hại nặng sau bão Bualoi](https://vnexpress.net/vung-trong-hoa-rau-lon-nhat-ha-noi-thiet-hai-nang-sau-bao-bualoi-4947457.html) - 11:10 05/10/2025
-- 👺 [Bắt đầu sáp nhập trường đại học từ năm 2026](https://vnexpress.net/bat-dau-sap-nhap-truong-dai-hoc-tu-nam-2026-4947516.html) - 10:41 05/10/2025
-- 🧑‍🏫 [Người Hà Nội tìm cách bảo vệ ôtô trước bão Matmo](https://vnexpress.net/nguoi-ha-noi-tim-cach-bao-ve-oto-truoc-bao-matmo-4947408.html) - 10:41 05/10/2025
-- 🚦 [Tàu chở 11 người bị tông chìm ngoài khơi](https://vnexpress.net/tau-cho-11-nguoi-bi-tong-chim-ngoai-khoi-4947515.html) - 10:18 05/10/2025
-- 🎉 [Cán bộ diện Chính phủ quản lý sẽ được đánh giá hàng tháng](https://vnexpress.net/can-bo-dien-chinh-phu-quan-ly-se-duoc-danh-gia-hang-thang-4947496.html) - 09:24 05/10/2025
-- 🦒 [Khởi công xây dựng Nhà hát Opera Hà Nội bên Hồ Tây](https://vnexpress.net/khoi-cong-xay-dung-nha-hat-opera-ha-noi-ben-ho-tay-4947473.html) - 06:33 05/10/2025
-- 🤗 [Ông Lê Ngọc Quang tiếp tục làm Bí thư Quảng Trị](https://vnexpress.net/ong-le-ngoc-quang-tiep-tuc-lam-bi-thu-quang-tri-4947451.html) - 04:28 05/10/2025
-- 💼 [Vượt đường sắt, ôtô bán tải bị tàu hỏa tông văng xuống ruộng](https://vnexpress.net/vuot-duong-sat-oto-ban-tai-bi-tau-hoa-tong-vang-xuong-ruong-4947448.html) - 04:16 05/10/2025
-- 🤩 [Ba sân bay bị ảnh hưởng trực tiếp bởi bão Matmo](https://vnexpress.net/ba-san-bay-bi-anh-huong-truc-tiep-boi-bao-matmo-4947406.html) - 02:48 05/10/2025
-- 🤡 [Tài xế dừng ôtô trên cao tốc bay flycam bị phạt 13 triệu đồng](https://vnexpress.net/tai-xe-dung-oto-tren-cao-toc-bay-flycam-bi-phat-13-trieu-dong-4947410.html) - 02:31 05/10/2025
-- 💯 [Bão Matmo mạnh cấp 13, hướng vào Quảng Ninh](https://vnexpress.net/bao-matmo-manh-cap-12-huong-vao-quang-ninh-4947372.html) - 00:10 05/10/2025
-- 👺 [Những người làm sạch bom mìn ở Quảng Trị](https://vnexpress.net/nhung-nguoi-lam-sach-bom-min-o-quang-tri-4947259.html) - 18:21 04/10/2025
-- 🌮 [Hà Nội khuyến khích người dân làm việc online để ứng phó bão](https://vnexpress.net/ha-noi-khuyen-khich-nguoi-dan-lam-viec-online-de-ung-pho-bao-4947335.html) - 16:20 04/10/2025
-- 🥸 [Cấm biển phòng bão Matmo](https://vnexpress.net/cam-bien-phong-bao-matmo-4947313.html) - 15:38 04/10/2025
-- 🐻 [Bão Matmo mạnh lên cấp 12, gây mưa ở miền Bắc từ đêm 5/10](https://vnexpress.net/bao-matmo-manh-len-cap-12-gay-mua-o-mien-bac-tu-dem-mai-4947314.html) - 13:50 04/10/2025
-- 👀 [Nghi nổ khí gas, 4 người bị thương](https://vnexpress.net/nghi-no-khi-gas-4-nguoi-bi-thuong-4947315.html) - 13:12 04/10/2025
-- 🤔 [Vì sao năm nay bão lên phía bắc nhiều?](https://vnexpress.net/vi-sao-nam-nay-bao-len-phia-bac-nhieu-4947236.html) - 09:48 04/10/2025
-- 🕯 [Giải cứu hai công nhân bị kính cường lực đè bất tỉnh](https://vnexpress.net/giai-cuu-hai-cong-nhan-bi-kinh-cuong-luc-de-bat-tinh-4947265.html) - 08:41 04/10/2025
-- 😺 [Bờ biển Sầm Sơn ngổn ngang đất cát, rác thải sau bão](https://vnexpress.net/bo-bien-sam-son-ngon-ngang-dat-cat-rac-thai-sau-bao-4947175.html) - 06:43 04/10/2025
-- 🦆 [Cháy lớn tại cao ốc đang xây, hàng trăm công nhân sơ tán](https://vnexpress.net/chay-lon-tai-cao-oc-dang-xay-hang-tram-cong-nhan-so-tan-4947220.html) - 06:20 04/10/2025
-- 🧰 [Cán bộ, công chức không đáp ứng nhiệm vụ sẽ bị cho nghỉ](https://vnexpress.net/can-bo-cong-chuc-khong-dap-ung-nhiem-vu-se-bi-cho-nghi-4947205.html) - 04:53 04/10/2025
-- 🦍 [Xe cứu thương biến dạng sau tai nạn trên cao tốc Trung Lương](https://vnexpress.net/xe-cuu-thuong-bien-dang-sau-tai-nan-tren-cao-toc-trung-luong-4947177.html) - 04:20 04/10/2025
-- 🧰 [Hà Nội khởi công xây hầm chui tại nút giao Cổ Linh](https://vnexpress.net/ha-noi-khoi-cong-xay-ham-chui-tai-nut-giao-co-linh-4947172.html) - 04:13 04/10/2025
-- 💃 [&#39;Cần có nguyên tắc chung tính thời gian nghỉ Tết&#39;](https://vnexpress.net/can-co-nguyen-tac-chung-tinh-thoi-gian-nghi-tet-4946996.html) - 03:51 04/10/2025
-- 🧰 [Ôtô chở 30 người cháy rụi trên cao tốc Nha Trang - Cam Lâm](https://vnexpress.net/oto-cho-30-nguoi-chay-rui-tren-cao-toc-nha-trang-cam-lam-4947168.html) - 03:20 04/10/2025
-- 🚀 [Mang Trung thu đến với bệnh nhi tại Điện Biên](https://vnexpress.net/mang-trung-thu-den-voi-benh-nhi-tai-dien-bien-4947055.html) - 01:48 04/10/2025
-- 🎊 [Chủ tịch xã bị ôtô tông tử vong khi phân luồng giao thông](https://vnexpress.net/chu-tich-xa-bi-oto-tong-tu-vong-khi-phan-luong-giao-thong-4947125.html) - 01:26 04/10/2025
-- 🤭 [Người dân các tỉnh bão, lũ được tiêm vaccine uốn ván miễn phí](https://vnexpress.net/nguoi-dan-cac-tinh-bao-lu-duoc-tiem-vaccine-uon-van-mien-phi-4947078.html) - 01:00 04/10/2025
-- 🤗 [Bão Matmo mạnh lên cấp 11, đêm mai ảnh hưởng Bắc Bộ](https://vnexpress.net/bao-matmo-manh-len-cap-11-dem-mai-anh-huong-bac-bo-4947110.html) - 23:59 03/10/2025
-- 🌈 [Hai cầu dây văng lớn nhất cao tốc Bến Lức sau 10 năm thi công](https://vnexpress.net/hai-cau-day-vang-lon-nhat-cao-toc-ben-luc-sau-10-nam-thi-cong-4946955.html) - 23:00 03/10/2025
-- 🦣 [Hình hài đường ven biển hơn 5.000 tỷ đồng ở Quảng Trị](https://vnexpress.net/hinh-hai-duong-ven-bien-hon-5-000-ty-dong-o-quang-tri-4944081.html) - 22:00 03/10/2025
-- 🎡 [Lao động sang Đức lái tàu điện, xe buýt nhận lương 100 triệu đồng](https://vnexpress.net/lao-dong-sang-duc-lai-tau-dien-xe-buyt-nhan-luong-100-trieu-dong-4947093.html) - 17:00 03/10/2025
-- 🦏 [TP Huế có tân Bí thư](https://vnexpress.net/tp-hue-co-tan-bi-thu-4947085.html) - 16:32 03/10/2025
-- 🎊 [Tổng Bí thư: &#39;Không có cán bộ thiếu trình độ, chỉ có thiếu nhiệt tình&#39;](https://vnexpress.net/tong-bi-thu-khong-co-can-bo-thieu-trinh-do-chi-co-thieu-nhiet-tinh-4947062.html) - 14:32 03/10/2025
-- 🫶 [Hai cán bộ bị kỷ luật vì đề xuất dùng lầu Bảo Đại làm nơi ở](https://vnexpress.net/hai-can-bo-bi-ky-luat-vi-de-xuat-dung-lau-bao-dai-lam-noi-o-4947065.html) - 14:02 03/10/2025
-- 🤔 [Bão Matmo có thể gây mưa lớn cho Bắc Bộ](https://vnexpress.net/bao-matmo-co-the-gay-mua-lon-cho-bac-bo-4946999.html) - 10:45 03/10/2025
-- 🤠 [Xem xét đề xuất loại bỏ tên bão Bualoi](https://vnexpress.net/xem-xet-de-xuat-loai-bo-ten-bao-bualoi-4946989.html) - 09:51 03/10/2025
-- 🌜 [Ông Trương Cảnh Tuyên lần thứ hai làm Chủ tịch Cần Thơ](https://vnexpress.net/ong-truong-canh-tuyen-lan-thu-hai-lam-chu-tich-can-tho-4946931.html) - 08:49 03/10/2025
-- 🕯 [Đề xuất xây hồ ngầm dưới sân bóng để xóa &#39;rốn ngập&#39; ở TP HCM](https://vnexpress.net/de-xuat-xay-ho-ngam-duoi-san-bong-de-xoa-ron-ngap-o-tp-hcm-4946859.html) - 08:01 03/10/2025
-- 🤔 [&#39;Mở rộng quyền định đoạt của chủ sở hữu tài sản trí tuệ&#39;](https://vnexpress.net/mo-rong-quyen-dinh-doat-cua-chu-so-huu-tai-san-tri-tue-4946755.html) - 07:46 03/10/2025
-- 🏊 [Thủ tướng quyên góp ủng hộ người dân vùng bão Bualoi](https://vnexpress.net/thu-tuong-quyen-gop-ung-ho-nguoi-dan-vung-bao-bualoi-4946779.html) - 05:27 03/10/2025
-- 🌮 [Cử tri Đà Nẵng: Nhà ở xã hội phải tách biệt với kinh doanh](https://vnexpress.net/cu-tri-da-nang-nha-o-xa-hoi-phai-tach-biet-voi-kinh-doanh-4946842.html) - 05:26 03/10/2025
-- 🫣 [Chủ tịch TP Cần Thơ làm Bí thư tỉnh Vĩnh Long](https://vnexpress.net/chu-tich-tp-can-tho-lam-bi-thu-tinh-vinh-long-4946828.html) - 05:21 03/10/2025
-- ⚗️ [Đường kết nối TP HCM - Tây Ninh mở rộng gần 3 lần](https://vnexpress.net/duong-ket-noi-tp-hcm-tay-ninh-mo-rong-gan-3-lan-4946841.html) - 05:00 03/10/2025
+- 🦒 [Lo tái ngập, người Hà Nội đắp đập, dựng tấm chắn trước nhà](https://vnexpress.net/lo-tai-ngap-nguoi-ha-noi-dap-dap-dung-tam-chan-truoc-nha-4947582.html) - 18:41 05/10/2025
+- 🤓 [Bỏ hội đồng trường trong cơ sở giáo dục công lập](https://vnexpress.net/bo-hoi-dong-truong-trong-co-so-giao-duc-cong-lap-4947552.html) - 14:19 05/10/2025
+- ⚗️ [Giông lốc làm tốc mái, hư hỏng nhiều nhà ở Nghệ An, Hà Tĩnh](https://vnexpress.net/giong-loc-lam-toc-mai-hu-hong-nhieu-nha-o-nghe-an-ha-tinh-4947548.html) - 13:38 05/10/2025
+- 🌊 [Quảng Ninh, Hải Phòng cấp tập ứng phó bão Matmo](https://vnexpress.net/quang-ninh-hai-phong-cap-tap-ung-pho-bao-matmo-4947519.html) - 13:02 05/10/2025
+- 🎓 [Vingroup đề xuất xây cầu vượt biển nối Cần Giờ - Vũng Tàu](https://vnexpress.net/vingroup-de-xuat-xay-cau-vuot-bien-noi-can-gio-vung-tau-4947543.html) - 12:42 05/10/2025
+- 🔥 [Chủ tịch Hà Nội: Ứng phó bão cần linh hoạt, tránh xáo trộn cuộc sống người dân](https://vnexpress.net/chu-tich-ha-noi-ung-pho-bao-can-linh-hoat-tranh-xao-tron-cuoc-song-nguoi-dan-4947507.html) - 12:37 05/10/2025
+- 🦏 [Bão Matmo vào biên giới Việt - Trung, có thể gây mưa 400 mm](https://vnexpress.net/bao-matmo-dem-nay-vao-bien-gioi-viet-trung-4947522.html) - 11:13 05/10/2025
+- 👺 [Vùng trồng hoa, rau lớn nhất Hà Nội thiệt hại nặng sau bão Bualoi](https://vnexpress.net/vung-trong-hoa-rau-lon-nhat-ha-noi-thiet-hai-nang-sau-bao-bualoi-4947457.html) - 11:10 05/10/2025
+- 🧑‍🏫 [Bắt đầu sáp nhập trường đại học từ năm 2026](https://vnexpress.net/bat-dau-sap-nhap-truong-dai-hoc-tu-nam-2026-4947516.html) - 10:41 05/10/2025
+- 🚦 [Người Hà Nội tìm cách bảo vệ ôtô trước bão Matmo](https://vnexpress.net/nguoi-ha-noi-tim-cach-bao-ve-oto-truoc-bao-matmo-4947408.html) - 10:41 05/10/2025
+- 🎉 [Tàu chở 11 người bị tông chìm ngoài khơi](https://vnexpress.net/tau-cho-11-nguoi-bi-tong-chim-ngoai-khoi-4947515.html) - 10:18 05/10/2025
+- 🦒 [Cán bộ diện Chính phủ quản lý sẽ được đánh giá hàng tháng](https://vnexpress.net/can-bo-dien-chinh-phu-quan-ly-se-duoc-danh-gia-hang-thang-4947496.html) - 09:24 05/10/2025
+- 🤗 [Khởi công xây dựng Nhà hát Opera Hà Nội bên Hồ Tây](https://vnexpress.net/khoi-cong-xay-dung-nha-hat-opera-ha-noi-ben-ho-tay-4947473.html) - 06:33 05/10/2025
+- 💼 [Ông Lê Ngọc Quang tiếp tục làm Bí thư Quảng Trị](https://vnexpress.net/ong-le-ngoc-quang-tiep-tuc-lam-bi-thu-quang-tri-4947451.html) - 04:28 05/10/2025
+- 🤩 [Vượt đường sắt, ôtô bán tải bị tàu hỏa tông văng xuống ruộng](https://vnexpress.net/vuot-duong-sat-oto-ban-tai-bi-tau-hoa-tong-vang-xuong-ruong-4947448.html) - 04:16 05/10/2025
+- 🤡 [Ba sân bay bị ảnh hưởng trực tiếp bởi bão Matmo](https://vnexpress.net/ba-san-bay-bi-anh-huong-truc-tiep-boi-bao-matmo-4947406.html) - 02:48 05/10/2025
+- 💯 [Tài xế dừng ôtô trên cao tốc bay flycam bị phạt 13 triệu đồng](https://vnexpress.net/tai-xe-dung-oto-tren-cao-toc-bay-flycam-bi-phat-13-trieu-dong-4947410.html) - 02:31 05/10/2025
+- 👺 [Bão Matmo mạnh cấp 13, hướng vào Quảng Ninh](https://vnexpress.net/bao-matmo-manh-cap-12-huong-vao-quang-ninh-4947372.html) - 00:10 05/10/2025
+- 🌮 [Những người làm sạch bom mìn ở Quảng Trị](https://vnexpress.net/nhung-nguoi-lam-sach-bom-min-o-quang-tri-4947259.html) - 18:21 04/10/2025
+- 🥸 [Hà Nội khuyến khích người dân làm việc online để ứng phó bão](https://vnexpress.net/ha-noi-khuyen-khich-nguoi-dan-lam-viec-online-de-ung-pho-bao-4947335.html) - 16:20 04/10/2025
+- 🐻 [Cấm biển phòng bão Matmo](https://vnexpress.net/cam-bien-phong-bao-matmo-4947313.html) - 15:38 04/10/2025
+- 👀 [Bão Matmo mạnh lên cấp 12, gây mưa ở miền Bắc từ đêm 5/10](https://vnexpress.net/bao-matmo-manh-len-cap-12-gay-mua-o-mien-bac-tu-dem-mai-4947314.html) - 13:50 04/10/2025
+- 🤔 [Nghi nổ khí gas, 4 người bị thương](https://vnexpress.net/nghi-no-khi-gas-4-nguoi-bi-thuong-4947315.html) - 13:12 04/10/2025
+- 🕯 [Vì sao năm nay bão lên phía bắc nhiều?](https://vnexpress.net/vi-sao-nam-nay-bao-len-phia-bac-nhieu-4947236.html) - 09:48 04/10/2025
+- 😺 [Giải cứu hai công nhân bị kính cường lực đè bất tỉnh](https://vnexpress.net/giai-cuu-hai-cong-nhan-bi-kinh-cuong-luc-de-bat-tinh-4947265.html) - 08:41 04/10/2025
+- 🦆 [Bờ biển Sầm Sơn ngổn ngang đất cát, rác thải sau bão](https://vnexpress.net/bo-bien-sam-son-ngon-ngang-dat-cat-rac-thai-sau-bao-4947175.html) - 06:43 04/10/2025
+- 🧰 [Cháy lớn tại cao ốc đang xây, hàng trăm công nhân sơ tán](https://vnexpress.net/chay-lon-tai-cao-oc-dang-xay-hang-tram-cong-nhan-so-tan-4947220.html) - 06:20 04/10/2025
+- 🦍 [Cán bộ, công chức không đáp ứng nhiệm vụ sẽ bị cho nghỉ](https://vnexpress.net/can-bo-cong-chuc-khong-dap-ung-nhiem-vu-se-bi-cho-nghi-4947205.html) - 04:53 04/10/2025
+- 🧰 [Xe cứu thương biến dạng sau tai nạn trên cao tốc Trung Lương](https://vnexpress.net/xe-cuu-thuong-bien-dang-sau-tai-nan-tren-cao-toc-trung-luong-4947177.html) - 04:20 04/10/2025
+- 💃 [Hà Nội khởi công xây hầm chui tại nút giao Cổ Linh](https://vnexpress.net/ha-noi-khoi-cong-xay-ham-chui-tai-nut-giao-co-linh-4947172.html) - 04:13 04/10/2025
+- 🧰 [&#39;Cần có nguyên tắc chung tính thời gian nghỉ Tết&#39;](https://vnexpress.net/can-co-nguyen-tac-chung-tinh-thoi-gian-nghi-tet-4946996.html) - 03:51 04/10/2025
+- 🚀 [Ôtô chở 30 người cháy rụi trên cao tốc Nha Trang - Cam Lâm](https://vnexpress.net/oto-cho-30-nguoi-chay-rui-tren-cao-toc-nha-trang-cam-lam-4947168.html) - 03:20 04/10/2025
+- 🎊 [Mang Trung thu đến với bệnh nhi tại Điện Biên](https://vnexpress.net/mang-trung-thu-den-voi-benh-nhi-tai-dien-bien-4947055.html) - 01:48 04/10/2025
+- 🤭 [Chủ tịch xã bị ôtô tông tử vong khi phân luồng giao thông](https://vnexpress.net/chu-tich-xa-bi-oto-tong-tu-vong-khi-phan-luong-giao-thong-4947125.html) - 01:26 04/10/2025
+- 🤗 [Người dân các tỉnh bão, lũ được tiêm vaccine uốn ván miễn phí](https://vnexpress.net/nguoi-dan-cac-tinh-bao-lu-duoc-tiem-vaccine-uon-van-mien-phi-4947078.html) - 01:00 04/10/2025
+- 🌈 [Bão Matmo mạnh lên cấp 11, đêm mai ảnh hưởng Bắc Bộ](https://vnexpress.net/bao-matmo-manh-len-cap-11-dem-mai-anh-huong-bac-bo-4947110.html) - 23:59 03/10/2025
+- 🦣 [Hai cầu dây văng lớn nhất cao tốc Bến Lức sau 10 năm thi công](https://vnexpress.net/hai-cau-day-vang-lon-nhat-cao-toc-ben-luc-sau-10-nam-thi-cong-4946955.html) - 23:00 03/10/2025
+- 🎡 [Hình hài đường ven biển hơn 5.000 tỷ đồng ở Quảng Trị](https://vnexpress.net/hinh-hai-duong-ven-bien-hon-5-000-ty-dong-o-quang-tri-4944081.html) - 22:00 03/10/2025
+- 🦏 [Lao động sang Đức lái tàu điện, xe buýt nhận lương 100 triệu đồng](https://vnexpress.net/lao-dong-sang-duc-lai-tau-dien-xe-buyt-nhan-luong-100-trieu-dong-4947093.html) - 17:00 03/10/2025
+- 🎊 [TP Huế có tân Bí thư](https://vnexpress.net/tp-hue-co-tan-bi-thu-4947085.html) - 16:32 03/10/2025
+- 🫶 [Tổng Bí thư: &#39;Không có cán bộ thiếu trình độ, chỉ có thiếu nhiệt tình&#39;](https://vnexpress.net/tong-bi-thu-khong-co-can-bo-thieu-trinh-do-chi-co-thieu-nhiet-tinh-4947062.html) - 14:32 03/10/2025
+- 🤔 [Hai cán bộ bị kỷ luật vì đề xuất dùng lầu Bảo Đại làm nơi ở](https://vnexpress.net/hai-can-bo-bi-ky-luat-vi-de-xuat-dung-lau-bao-dai-lam-noi-o-4947065.html) - 14:02 03/10/2025
+- 🤠 [Bão Matmo có thể gây mưa lớn cho Bắc Bộ](https://vnexpress.net/bao-matmo-co-the-gay-mua-lon-cho-bac-bo-4946999.html) - 10:45 03/10/2025
+- 🌜 [Xem xét đề xuất loại bỏ tên bão Bualoi](https://vnexpress.net/xem-xet-de-xuat-loai-bo-ten-bao-bualoi-4946989.html) - 09:51 03/10/2025
+- 🕯 [Ông Trương Cảnh Tuyên lần thứ hai làm Chủ tịch Cần Thơ](https://vnexpress.net/ong-truong-canh-tuyen-lan-thu-hai-lam-chu-tich-can-tho-4946931.html) - 08:49 03/10/2025
+- 🤔 [Đề xuất xây hồ ngầm dưới sân bóng để xóa &#39;rốn ngập&#39; ở TP HCM](https://vnexpress.net/de-xuat-xay-ho-ngam-duoi-san-bong-de-xoa-ron-ngap-o-tp-hcm-4946859.html) - 08:01 03/10/2025
+- 🏊 [&#39;Mở rộng quyền định đoạt của chủ sở hữu tài sản trí tuệ&#39;](https://vnexpress.net/mo-rong-quyen-dinh-doat-cua-chu-so-huu-tai-san-tri-tue-4946755.html) - 07:46 03/10/2025
+- 🌮 [Thủ tướng quyên góp ủng hộ người dân vùng bão Bualoi](https://vnexpress.net/thu-tuong-quyen-gop-ung-ho-nguoi-dan-vung-bao-bualoi-4946779.html) - 05:27 03/10/2025
+- 🫣 [Cử tri Đà Nẵng: Nhà ở xã hội phải tách biệt với kinh doanh](https://vnexpress.net/cu-tri-da-nang-nha-o-xa-hoi-phai-tach-biet-voi-kinh-doanh-4946842.html) - 05:26 03/10/2025
+- ⚗️ [Chủ tịch TP Cần Thơ làm Bí thư tỉnh Vĩnh Long](https://vnexpress.net/chu-tich-tp-can-tho-lam-bi-thu-tinh-vinh-long-4946828.html) - 05:21 03/10/2025
 - 🌜 [Ông Nguyễn Hữu Nghĩa làm Bí thư Hưng Yên nhiệm kỳ 2025-2030](https://vnexpress.net/ong-nguyen-huu-nghia-lam-bi-thu-hung-yen-nhiem-ky-2025-2030-4946805.html) - 04:42 03/10/2025
 - 🌁 [Thượng tướng Thái Đại Ngọc làm Bí thư Gia Lai](https://vnexpress.net/thuong-tuong-thai-dai-ngoc-lam-bi-thu-gia-lai-4946796.html) - 04:12 03/10/2025
 - 🐲 [Bộ Chính trị chỉ định ông Nguyễn Tiến Hải làm Bí thư An Giang](https://vnexpress.net/bo-chinh-tri-chi-dinh-ong-nguyen-tien-hai-lam-bi-thu-an-giang-4946651.html) - 03:53 03/10/2025
