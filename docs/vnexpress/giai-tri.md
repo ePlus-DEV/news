@@ -16,7 +16,7 @@ sidebar_position: 5
 - 🤓 [Meghan Markle lần đầu dự Tuần lễ thời trang Paris](https://vnexpress.net/meghan-markle-lan-dau-du-tuan-le-thoi-trang-paris-4947401.html) - 03:05 05/10/2025
 - 🫶 [Hoa hậu Yến Nhi bị phản ứng ở Miss Grand](https://vnexpress.net/hoa-hau-yen-nhi-bi-phan-ung-o-miss-grand-4947373.html) - 02:31 05/10/2025
 - 🧑‍🏫 [Những kiểu áo khoác sao Việt diện đầu thu](https://vnexpress.net/nhung-kieu-ao-khoac-sao-viet-dien-dau-thu-4943703.html) - 00:00 05/10/2025
-- 🦄 [Loạt ca sĩ gen Z hứa hẹn bùng nổ tại &quot;Anh trai say hi&#39;](https://vnexpress.net/loat-ca-si-gen-z-hua-hen-bung-no-tai-anh-trai-say-hi-4946470.html) - 17:00 04/10/2025
+- 🦄 [Ca sĩ gen Z hứa hẹn bùng nổ tại &quot;Anh trai say hi&#39;](https://vnexpress.net/ca-si-gen-z-hua-hen-bung-no-tai-anh-trai-say-hi-4946470.html) - 17:00 04/10/2025
 - 💫 [&#39;Tỉnh thức&#39; để sống trọn vẹn](https://vnexpress.net/tinh-thuc-de-song-tron-ven-4942122.html) - 16:02 04/10/2025
 - 🎊 [&#39;Exit 8&#39; - mê cung tâm lý](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-exit-8-843) - 15:33 04/10/2025
 - 👹 [Con gái nhạc sĩ Thế Hiển: &#39;Cha tôi kiên cường đến phút cuối&#39;](https://vnexpress.net/con-gai-nhac-si-the-hien-cha-toi-kien-cuong-den-phut-cuoi-4947286.html) - 11:35 04/10/2025
