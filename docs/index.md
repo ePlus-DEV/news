@@ -26,22 +26,22 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Bất ngờ sinh con khi khám ruột thừa](https://vnexpress.net/bat-ngo-sinh-con-khi-kham-ruot-thua-4947475.html) - 07:14 05/10/2025
-- 🧰 [Triều Tiên tuyên bố triển khai &#39;nguồn lực đặc biệt&#39; đối phó Mỹ - Hàn](https://vnexpress.net/trieu-tien-tuyen-bo-trien-khai-nguon-luc-dac-biet-doi-pho-my-han-4947462.html) - 06:55 05/10/2025
-- 🥰 [Đô thị chạy bão](https://vnexpress.net/do-thi-chay-bao-4947429.html) - 06:42 05/10/2025
-- 🌏 [Vũ Cát Tường khóc khi thi &#39;Anh trai say hi&#39;](https://vnexpress.net/vu-cat-tuong-khoc-khi-thi-anh-trai-say-hi-4947423.html) - 06:41 05/10/2025
-- 🧐 [Nhuộm tóc hàng tháng theo thần tượng, cô gái 20 tuổi viêm thận](https://vnexpress.net/nhuom-toc-hang-thang-theo-than-tuong-co-gai-20-tuoi-viem-than-4947325.html) - 06:36 05/10/2025
-- 💫 [Khởi công xây dựng Nhà hát Opera Hà Nội bên Hồ Tây](https://vnexpress.net/khoi-cong-xay-dung-nha-hat-opera-ha-noi-ben-ho-tay-4947473.html) - 06:33 05/10/2025
-- 😺 [Thủng dạ dày ở tuổi 15](https://vnexpress.net/thung-da-day-o-tuoi-15-4947425.html) - 06:32 05/10/2025
-- 🕯 [5 thành tựu khoa học tiềm năng đoạt giải Nobel 2025](https://vnexpress.net/5-thanh-tuu-khoa-hoc-tiem-nang-doat-giai-nobel-2025-4947461.html) - 06:24 05/10/2025
-- 💃 [Nữ tay vợt Pháp: &#39;Nâng ngực không ảnh hưởng đến chuyên môn&#39;](https://vnexpress.net/nu-tay-vot-phap-nang-nguc-khong-anh-huong-den-chuyen-mon-4947474.html) - 05:48 05/10/2025
-- 💂 [Vợ chồng tỷ phú Jeff Bezos diện đồ đôi dạo phố](https://vnexpress.net/vo-chong-ty-phu-jeff-bezos-dien-do-doi-dao-pho-4947456.html) - 05:41 05/10/2025
-- 🎊 [Quăng vợt, khẩu chiến trên sân Pickleball](https://vnexpress.net/quang-vot-khau-chien-tren-san-pickleball-4947466.html) - 05:40 05/10/2025
-- 🤠 [Ben Johns - biểu tượng toàn cầu của pickleball](https://vnexpress.net/ben-johns-bieu-tuong-toan-cau-cua-pickleball-4947108.html) - 05:32 05/10/2025
-- 🌈 [Aeon dự kiến làm trung tâm thương mại 4.000 tỷ ở Bắc Ninh](https://vnexpress.net/aeon-du-kien-lam-trung-tam-thuong-mai-4-000-ty-o-bac-ninh-4947463.html) - 05:24 05/10/2025
-- 🎬 [Thời trang sánh đôi của vợ chồng Đăng Khôi](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-dang-khoi-4946788.html) - 05:08 05/10/2025
-- 🚀 [Hối hận khi cưới vợ](https://vnexpress.net/hoi-han-khi-cuoi-vo-4947385.html) - 05:00 05/10/2025
-- 🪄 [Cơn giận dữ của Mỹ khiến Israel xuống thang về kế hoạch Gaza](https://vnexpress.net/con-gian-du-cua-my-khien-israel-xuong-thang-ve-ke-hoach-gaza-4947118.html) - 05:00 05/10/2025
+- 🚀 [Cơn giận dữ của Mỹ khiến Israel xuống thang về kế hoạch Gaza](https://vnexpress.net/con-gian-du-cua-my-khien-israel-xuong-thang-ve-ke-hoach-gaza-4947118.html) - 07:22 05/10/2025
+- 🧰 [Bất ngờ sinh con khi khám ruột thừa](https://vnexpress.net/bat-ngo-sinh-con-khi-kham-ruot-thua-4947475.html) - 07:14 05/10/2025
+- 🥰 [Triều Tiên tuyên bố triển khai &#39;nguồn lực đặc biệt&#39; đối phó Mỹ - Hàn](https://vnexpress.net/trieu-tien-tuyen-bo-trien-khai-nguon-luc-dac-biet-doi-pho-my-han-4947462.html) - 06:55 05/10/2025
+- 🌏 [Đô thị chạy bão](https://vnexpress.net/do-thi-chay-bao-4947429.html) - 06:42 05/10/2025
+- 🧐 [Vũ Cát Tường khóc khi thi &#39;Anh trai say hi&#39;](https://vnexpress.net/vu-cat-tuong-khoc-khi-thi-anh-trai-say-hi-4947423.html) - 06:41 05/10/2025
+- 💫 [Nhuộm tóc hàng tháng theo thần tượng, cô gái 20 tuổi viêm thận](https://vnexpress.net/nhuom-toc-hang-thang-theo-than-tuong-co-gai-20-tuoi-viem-than-4947325.html) - 06:36 05/10/2025
+- 😺 [Khởi công xây dựng Nhà hát Opera Hà Nội bên Hồ Tây](https://vnexpress.net/khoi-cong-xay-dung-nha-hat-opera-ha-noi-ben-ho-tay-4947473.html) - 06:33 05/10/2025
+- 🕯 [Thủng dạ dày ở tuổi 15](https://vnexpress.net/thung-da-day-o-tuoi-15-4947425.html) - 06:32 05/10/2025
+- 💃 [5 thành tựu khoa học tiềm năng đoạt giải Nobel 2025](https://vnexpress.net/5-thanh-tuu-khoa-hoc-tiem-nang-doat-giai-nobel-2025-4947461.html) - 06:24 05/10/2025
+- 💂 [Nữ tay vợt Pháp: &#39;Nâng ngực không ảnh hưởng đến chuyên môn&#39;](https://vnexpress.net/nu-tay-vot-phap-nang-nguc-khong-anh-huong-den-chuyen-mon-4947474.html) - 05:48 05/10/2025
+- 🎊 [Vợ chồng tỷ phú Jeff Bezos diện đồ đôi dạo phố](https://vnexpress.net/vo-chong-ty-phu-jeff-bezos-dien-do-doi-dao-pho-4947456.html) - 05:41 05/10/2025
+- 🤠 [Quăng vợt, khẩu chiến trên sân Pickleball](https://vnexpress.net/quang-vot-khau-chien-tren-san-pickleball-4947466.html) - 05:40 05/10/2025
+- 🌈 [Ben Johns - biểu tượng toàn cầu của pickleball](https://vnexpress.net/ben-johns-bieu-tuong-toan-cau-cua-pickleball-4947108.html) - 05:32 05/10/2025
+- 🎬 [Aeon dự kiến làm trung tâm thương mại 4.000 tỷ ở Bắc Ninh](https://vnexpress.net/aeon-du-kien-lam-trung-tam-thuong-mai-4-000-ty-o-bac-ninh-4947463.html) - 05:24 05/10/2025
+- 🚀 [Thời trang sánh đôi của vợ chồng Đăng Khôi](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-dang-khoi-4946788.html) - 05:08 05/10/2025
+- 🪄 [Hối hận khi cưới vợ](https://vnexpress.net/hoi-han-khi-cuoi-vo-4947385.html) - 05:00 05/10/2025
 - 😎 [AI giúp phát hiện sớm loại ung thư &#39;sát thủ&#39;](https://vnexpress.net/ai-giup-phat-hien-som-loai-ung-thu-sat-thu-4947276.html) - 05:00 05/10/2025
 - 🎊 [Ai làm tù nhân của Tào Tháo, còn hơn làm khách Lưu Bị?](https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-lam-tu-nhan-cua-tao-thao-con-hon-lam-khach-luu-bi-4946716.html) - 05:00 05/10/2025
 - ⚗️ [Ông xã chúc mừng sinh nhật Midu](https://vnexpress.net/ong-xa-chuc-mung-sinh-nhat-midu-4947453.html) - 04:58 05/10/2025
