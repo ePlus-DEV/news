@@ -431,7 +431,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌊 [5 sân bay chịu ảnh hưởng trực tiếp của bão số 11 &lpar;Matmo&rpar;](https://baochinhphu.vn/5-san-bay-chiu-anh-huong-truc-tiep-cua-bao-so-11-matmo-102251005094748656.htm) - 09:51 05/10/2025
 - 🤭 [NPK Phú Mỹ chạm mốc 1 triệu tấn: Vững bước vì mùa bội thu](https://baochinhphu.vn/npk-phu-my-cham-moc-1-trieu-tan-vung-buoc-vi-mua-boi-thu-102251005092254752.htm) - 09:24 05/10/2025
 - 🥷 [Thủ tướng chủ trì Hội nghị trực tuyến Chính phủ với địa phương](https://baochinhphu.vn/thu-tuong-chu-tri-hoi-nghi-truc-tuyen-chinh-phu-voi-dia-phuong-102251005091132107.htm) - 09:13 05/10/2025
-- 🌁 [Tăng trưởng GDP quý III ước đạt trên 8%](https://baochinhphu.vn/tang-truong-gdp-quy-iii-uoc-dat-822-102251005090235898.htm) - 09:05 05/10/2025
+- 🌁 [Tăng trưởng GDP quý III ước đạt khoảng 8,2%](https://baochinhphu.vn/tang-truong-gdp-quy-iii-uoc-dat-822-102251005090235898.htm) - 09:05 05/10/2025
 - 🐵 [Ngành học nào đáp ứng tiêu chuẩn chức danh Kỹ thuật y hạng III?](https://baochinhphu.vn/nganh-hoc-nao-dap-ung-tieu-chuan-chuc-danh-ky-thuat-y-hang-iii-102251003165413865.htm) - 09:00 05/10/2025
 - 💯 [Thủ tướng phát động đợt thi đua cao điểm lập thành tích chào mừng Đại hội XIV của Đảng](https://baochinhphu.vn/thu-tuong-phat-dong-dot-thi-dua-cao-diem-lap-thanh-tich-chao-mung-dai-hoi-xiv-cua-dang-102251005085243206.htm) - 08:57 05/10/2025
 - 🔥 [Dự báo mưa lớn diện rộng ở Bắc Bộ do hoàn lưu bão số 11](https://baochinhphu.vn/du-bao-mua-lon-dien-rong-o-bac-bo-do-hoan-luu-bao-so-11-102251005082255855.htm) - 08:27 05/10/2025
