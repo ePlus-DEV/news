@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ngôi sao nhập tịch mới tự tin đưa tuyển Malaysia vượt khủng hoảng](https://dantri.com.vn/the-thao/ngoi-sao-nhap-tich-moi-tu-tin-dua-tuyen-malaysia-vuot-khung-hoang-20251007001821195.htm) - 17:19 06/10/2025
+- 🎡 [Ngôi sao nhập tịch mới tự tin đưa tuyển Malaysia vượt qua khủng hoảng](https://dantri.com.vn/the-thao/ngoi-sao-nhap-tich-moi-tu-tin-dua-tuyen-malaysia-vuot-qua-khung-hoang-20251007001821195.htm) - 17:19 06/10/2025
 - 💯 [Zverev nối gót Sinner rời Thượng Hải Masters](https://dantri.com.vn/the-thao/zverev-noi-got-sinner-roi-thuong-hai-masters-20251006232943716.htm) - 16:30 06/10/2025
 - ⛽️ [Phản ứng của Tiến Linh khi FIFA chuẩn bị đưa ra án phạt với tuyển Malaysia](https://dantri.com.vn/the-thao/phan-ung-cua-tien-linh-khi-fifa-chuan-bi-dua-ra-an-phat-voi-tuyen-malaysia-20251006214115384.htm) - 14:53 06/10/2025
 - 💃 [Tuyển Việt Nam: Hàng loạt cầu thủ nhập tịch sắp xuất hiện](https://dantri.com.vn/the-thao/tuyen-viet-nam-hang-loat-cau-thu-nhap-tich-sap-xuat-hien-20251006193016697.htm) - 12:30 06/10/2025
