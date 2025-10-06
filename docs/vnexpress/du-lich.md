@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Bánh dẻo nướng, ép dẹt gây sốt mùa Trung thu](https://vnexpress.net/banh-deo-nuong-ep-det-gay-sot-mua-trung-thu-4947570.html) - 06:23 06/10/2025
 - 🪄 [Nơi nào bị sét đánh nhiều nhất thế giới?](https://vnexpress.net/noi-nao-bi-set-danh-nhieu-nhat-the-gioi-4947719.html) - 05:15 06/10/2025
-- 🦅 [Du khách được cứu sống sau gần 40 tiếng trôi trên biển](https://vnexpress.net/du-khach-duoc-cuu-song-sau-gan-40-tieng-troi-tren-bien-4947680.html) - 04:33 06/10/2025
+- 🦅 [Khách thoát chết nhờ bám motor nước gần 40 tiếng giữa biển](https://vnexpress.net/khach-thoat-chet-nho-bam-motor-nuoc-gan-40-tieng-giua-bien-4947680.html) - 04:33 06/10/2025
 - 🕴 [Tiệm bánh trung thu trong hẻm hút khách tìm mua](https://vnexpress.net/tiem-banh-trung-thu-trong-hem-hut-khach-tim-mua-4943050.html) - 01:30 06/10/2025
 - 👀 [Làm kiệu lá hình rồng đón Trung thu ở ngoại thành Hà Nội](https://vnexpress.net/lam-kieu-la-hinh-rong-don-trung-thu-o-ngoai-thanh-ha-noi-4947095.html) - 00:00 06/10/2025
 - 🎭 [Gặp định mệnh cuộc đời trên chuyến bay &#39;tệ nhất&#39;](https://vnexpress.net/gap-dinh-menh-cuoc-doi-tren-chuyen-bay-te-nhat-4947301.html) - 17:00 05/10/2025
