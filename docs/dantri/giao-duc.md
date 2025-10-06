@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Gần 200 &quot;họa sĩ nhí&quot; khoe tài vẽ tranh chào Lễ hội Nghinh Ông Cần Giờ](https://dantri.com.vn/giao-duc/gan-200-hoa-si-nhi-khoe-tai-ve-tranh-chao-le-hoi-nghinh-ong-can-gio-20251006110304827.htm) - 05:05 06/10/2025
+- 🤡 [Lũ cuốn trôi cầu, &quot;thót tim&quot; cảnh hơn 200 học sinh vượt sông đến trường](https://dantri.com.vn/giao-duc/lu-cuon-troi-cau-thot-tim-canh-hon-200-hoc-sinh-vuot-song-den-truong-20251006130250708.htm) - 06:28 06/10/2025
 - 🗽 [Ứng phó hoàn lưu bão Matmo, Sở Giáo dục Hà Nội phát thông báo hỏa tốc](https://dantri.com.vn/giao-duc/ung-pho-hoan-luu-bao-matmo-so-giao-duc-ha-noi-phat-thong-bao-hoa-toc-20251006070132296.htm) - 00:06 06/10/2025
 - 🚦 [Trung cấp - “điểm nghẽn” khiến người học thiệt thòi khi ra thế giới?](https://dantri.com.vn/giao-duc/trung-cap-diem-nghen-khien-nguoi-hoc-thiet-thoi-khi-ra-the-gioi-20251005091206908.htm) - 23:43 05/10/2025
 - 🌋 [Nam sinh trường chuyên hàng đầu TPHCM đạt thủ khoa kép đại học](https://dantri.com.vn/giao-duc/nam-sinh-truong-chuyen-hang-dau-tphcm-dat-thu-khoa-kep-dai-hoc-20251006061439732.htm) - 23:32 05/10/2025
