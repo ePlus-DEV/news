@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [Món xôi tôm cho ngày mưa bão](https://vnexpress.net/mon-xoi-tom-cho-ngay-mua-bao-4947956.html) - 09:42 06/10/2025
 - 🎓 [Bảy dấu hiệu của cha mẹ &#39;máy cắt cỏ&#39;](https://vnexpress.net/bay-dau-hieu-cua-cha-me-may-cat-co-4947492.html) - 09:20 06/10/2025
 - 🚦 [Mất hết răng ở tuổi 21](https://vnexpress.net/mat-het-rang-o-tuoi-21-4947760.html) - 09:01 06/10/2025
-- 🦣 [Hơn 5.000 người đón Trung thu tại loạt đô thị Nam Long](https://vnexpress.net/hon-5-000-nguoi-don-trung-thu-tai-loat-do-thi-nam-long-4947918.html) - 09:00 06/10/2025
+- 🦣 [Hàng nghìn người đón Trung thu tại loạt đô thị Nam Long](https://vnexpress.net/hang-nghin-nguoi-don-trung-thu-tai-loat-do-thi-nam-long-4947918.html) - 09:00 06/10/2025
 - 🎓 [12 ứng viên tranh giải &#39;Nhà sáng tạo nội dung của năm&#39;](https://vnexpress.net/12-ung-vien-tranh-giai-nha-sang-tao-noi-dung-cua-nam-4947746.html) - 08:00 06/10/2025
 - 🎭 [Lái máy bay về quê tránh tắc đường](https://vnexpress.net/lai-may-bay-ve-que-tranh-tac-duong-4947675.html) - 04:17 06/10/2025
 - 🦅 [Nhiều trẻ bụ bẫm nhưng vẫn thiếu chất](https://vnexpress.net/nhieu-tre-bu-bam-nhung-van-thieu-chat-4933369.html) - 04:00 06/10/2025
