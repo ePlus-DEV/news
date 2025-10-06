@@ -7,13 +7,13 @@ sidebar_position: 12
 - 😎 [Hai cán bộ xã ở Hà Nội bảo kê sử dụng trái phép ma túy](https://vnexpress.net/hai-can-bo-xa-o-ha-noi-bao-ke-su-dung-trai-phep-ma-tuy-4947844.html) - 10:13 06/10/2025
 - 🥰 [Người phụ nữ tông chủ tịch xã tử vong bị khởi tố](https://vnexpress.net/nguoi-phu-nu-tong-chu-tich-xa-tu-vong-bi-khoi-to-4947182.html) - 09:51 06/10/2025
 - 🎓 [Hơn 500 nhân viên sale trong vụ Mr Pips sắp bị khởi tố](https://vnexpress.net/hon-550-sale-trong-vu-mr-pips-sap-bi-khoi-to-4947948.html) - 09:48 06/10/2025
-- 🤓 [Công an Đồng Nai: &#39;Hơn 500 cảnh sát truy bắt nghi phạm sát hại 3 người&#39;](https://vnexpress.net/cong-an-dong-nai-hon-500-canh-sat-truy-bat-nghi-pham-sat-hai-3-nguoi-4947843.html) - 09:30 06/10/2025
+- 🤓 [&#39;Nghi phạm lên kế hoạch kỹ lưỡng, bắn camera trước khi sát hại 3 người&#39;](https://vnexpress.net/nghi-pham-len-ke-hoach-ky-luong-ban-camera-truoc-khi-sat-hai-3-nguoi-4947843.html) - 09:30 06/10/2025
 - 🎊 [&#39;Bầu Đoan&#39; bị cáo buộc thu lợi bất chính 191 tỷ đồng khi bán đất](https://vnexpress.net/bau-doan-bi-cao-buoc-thu-loi-bat-chinh-191-ty-dong-khi-ban-dat-4947924.html) - 09:11 06/10/2025
 - 🙉 [Công an nhận đơn trình báo về dự án tiền ảo AntEx](https://vnexpress.net/cong-an-nhan-don-trinh-bao-ve-du-an-tien-ao-antex-4947912.html) - 09:06 06/10/2025
 - 🤡 [Cựu phó Bí thư Tỉnh ủy Đồng Nai Phan Thị Mỹ Thanh bị bắt](https://vnexpress.net/cuu-pho-bi-thu-tinh-uy-dong-nai-phan-thi-my-thanh-bi-bat-4947705.html) - 08:16 06/10/2025
 - 🗽 [Bênh bạn gái, kéo băng nhóm chém đối thủ](https://vnexpress.net/benh-ban-gai-keo-bang-nhom-chem-doi-thu-4947722.html) - 07:00 06/10/2025
 - 🌋 [Cựu giám đốc đại lý của công ty bảo hiểm bị bắt](https://vnexpress.net/cuu-giam-doc-dai-ly-cua-cong-ty-bao-hiem-bi-bat-4947761.html) - 05:22 06/10/2025
-- 🎬 [Nghi phạm giết 3 người ở Đồng Nai khai &#39;thực hiện nhiệm vụ game giao&#39;](https://vnexpress.net/nghi-pham-giet-3-nguoi-o-dong-nai-khai-thuc-hien-nhiem-vu-game-giao-4947787.html) - 04:54 06/10/2025
+- 🎬 [Lời khai của nghi phạm sát hại 3 người ở Đồng Nai](https://vnexpress.net/loi-khai-cua-nghi-pham-sat-hai-3-nguoi-o-dong-nai-4947787.html) - 04:54 06/10/2025
 - 💯 [Tesla bị kiện về lỗi mở cửa trong vụ hai sinh viên chết cháy trong xe](https://vnexpress.net/tesla-bi-kien-vi-cao-buoc-loi-cua-khien-nan-nhan-chet-chay-trong-xe-4947749.html) - 04:08 06/10/2025
 - 🌏 [Nghi phạm sát hại 3 người ở Đồng Nai bị bắt](https://vnexpress.net/nghi-pham-sat-hai-3-nguoi-o-dong-nai-bi-bat-4947303.html) - 03:55 06/10/2025
 - 🌊 [252 người nghiện trốn trại ở An Giang bị bắt](https://vnexpress.net/252-nguoi-nghien-tron-trai-o-an-giang-bi-bat-4947669.html) - 02:55 06/10/2025
