@@ -7,7 +7,7 @@ sidebar_position: 23
 - 🤔 [Căn bệnh ung thư nào phổ biến, nguy hiểm hàng đầu ở phụ nữ?](https://dantri.com.vn/suc-khoe/can-benh-ung-thu-nao-pho-bien-nguy-hiem-hang-dau-o-phu-nu-20251006134418964.htm) - 09:28 06/10/2025
 - 🚦 [U xơ tử cung: Hiểu đúng để bảo vệ sức khoẻ phụ nữ](https://dantri.com.vn/suc-khoe/u-xo-tu-cung-hieu-dung-de-bao-ve-suc-khoe-phu-nu-20251006160239662.htm) - 09:05 06/10/2025
 - 🤖 [Bé 2 tuổi bị pháo hoa bắn trúng mắt khi xem Trung thu](https://dantri.com.vn/suc-khoe/be-2-tuoi-bi-phao-hoa-ban-trung-mat-khi-xem-trung-thu-20251006143826867.htm) - 08:54 06/10/2025
-- 🐻 [Căn bệnh &quot;giết người thầm lặng&quot; 8-10% người Việt mắc phải](https://dantri.com.vn/suc-khoe/can-benh-giet-nguoi-tham-lang-8-10-nguoi-viet-mac-phai-20251004115818506.htm) - 07:20 06/10/2025
+- 🐻 [Căn bệnh thầm lặng nhưng nguy hiểm tính mạng, 8-10% người Việt mắc phải](https://dantri.com.vn/suc-khoe/can-benh-tham-lang-nhung-nguy-hiem-tinh-mang-8-10-nguoi-viet-mac-phai-20251004115818506.htm) - 07:20 06/10/2025
 - 🌏 [Loại rau được ví như &quot;thuốc quý&quot; của đàn ông](https://dantri.com.vn/suc-khoe/loai-rau-duoc-vi-nhu-thuoc-quy-cua-dan-ong-20251006073520961.htm) - 02:15 06/10/2025
 - 👺 [Dấu hiệu trên da ở người sống trong vùng ngập lụt cần chú ý](https://dantri.com.vn/suc-khoe/dau-hieu-tren-da-o-nguoi-song-trong-vung-ngap-lut-can-chu-y-20251006074908880.htm) - 01:12 06/10/2025
 - 🎬 [Ai dễ bị bệnh gan nhiễm mỡ?](https://dantri.com.vn/suc-khoe/ai-de-bi-benh-gan-nhiem-mo-20251005085854201.htm) - 00:09 06/10/2025
