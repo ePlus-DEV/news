@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Mùa bão năm nay ghi nhận những con số cực đoạn hiếm gặp](https://dantri.com.vn/thoi-su/mua-bao-nam-nay-ghi-nhan-nhung-con-so-cuc-doan-hiem-gap-20251006111901170.htm) - 04:29 06/10/2025
+- 🤠 [Mùa bão năm nay ghi nhận những con số cực đoan hiếm gặp](https://dantri.com.vn/thoi-su/mua-bao-nam-nay-ghi-nhan-nhung-con-so-cuc-doan-hiem-gap-20251006111901170.htm) - 04:29 06/10/2025
 - 🌈 [Toàn văn phát biểu khai mạc Hội nghị Trung ương 13 của Tổng Bí thư Tô Lâm](https://dantri.com.vn/thoi-su/toan-van-phat-bieu-khai-mac-hoi-nghi-trung-uong-13-cua-tong-bi-thu-to-lam-20251006103134014.htm) - 03:33 06/10/2025
 - 🐎 [Người vợ có chồng tử nạn trong tâm lũ: “Cả nhà đợi cơm, anh chẳng kịp về”](https://dantri.com.vn/tam-long-nhan-ai/nguoi-vo-co-chong-tu-nan-trong-tam-lu-ca-nha-doi-com-anh-chang-kip-ve-20251005162238477.htm) - 10:11 05/10/2025
 - 👹 [Cuộc gọi vượt trùng khơi, xúc động đêm Trung thu &quot;Vầng trăng của biển&quot;](https://dantri.com.vn/tam-long-nhan-ai/cuoc-goi-vuot-trung-khoi-xuc-dong-dem-trung-thu-vang-trang-cua-bien-20251005084153367.htm) - 03:08 05/10/2025
