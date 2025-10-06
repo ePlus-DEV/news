@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;One Battle After Another&#39; - phong độ của DiCaprio](https://vnexpress.net/giai-tri/phim/thu-vien-phim) - 17:00 05/10/2025
+- 🌏 [&#39;One Battle After Another&#39; - phong độ của DiCaprio](https://vnexpress.net/giai-tri/phim/thu-vien-phim/one-battle-after-another-844) - 17:00 05/10/2025
 - 💫 [Song Hye Kyo biến hóa phong cách](https://vnexpress.net/song-hye-kyo-bien-hoa-phong-cach-4947518.html) - 13:42 05/10/2025
 - 🌮 [Mỹ nữ Tân Cương hóa tiên nữ cung trăng](https://vnexpress.net/my-nu-tan-cuong-hoa-tien-nu-cung-trang-4947510.html) - 10:24 05/10/2025
 - 🧠 [Nghệ sĩ Lưu Hồng Quang sẽ độc tấu ba bản nhạc kinh điển](https://vnexpress.net/nghe-si-luu-hong-quang-se-doc-tau-ba-ban-nhac-kinh-dien-4946080.html) - 08:32 05/10/2025
