@@ -54,4 +54,6 @@ sidebar_position: 9
 - 🐎 [Sùi mào gà do nhiễm HPV](https://vnexpress.net/sui-mao-ga-do-nhiem-hpv-4947778.html) - 08:00 06/10/2025
 - 🏊 [12 ứng viên tranh giải &#39;Nhà sáng tạo nội dung của năm&#39;](https://vnexpress.net/12-ung-vien-tranh-giai-nha-sang-tao-noi-dung-cua-nam-4947746.html) - 08:00 06/10/2025
 - 🦩 [Hai phương pháp thẩm mỹ định hình vóc dáng tự nhiên](https://vnexpress.net/hai-phuong-phap-tham-my-dinh-hinh-voc-dang-tu-nhien-4947739.html) - 08:00 06/10/2025
-- 👍 [Vista Nam An Khánh làm đường Ecopath cho người đi bộ, xe đạp](https://vnexpress.net/vista-nam-an-khanh-lam-duong-ecopath-cho-nguoi-di-bo-xe-dap-4947718.html) - 08:00 06/10/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Vista Nam An Khánh làm đường Ecopath cho người đi bộ, xe đạp](https://vnexpress.net/vista-nam-an-khanh-lam-duong-ecopath-cho-nguoi-di-bo-xe-dap-4947718.html) - 08:00 06/10/2025
+- 🔥 [Xe máy điện Feliz 2025 hai pin - gấp đôi quãng đường di chuyển](https://vnexpress.net/xe-may-dien-feliz-2025-hai-pin-gap-doi-quang-duong-di-chuyen-4947662.html) - 08:00 06/10/2025
+- 💄 [Thương hiệu nội thất 8.700 cửa hàng toàn cầu mở showroom tại Việt Nam](https://vnexpress.net/thuong-hieu-noi-that-8-700-cua-hang-toan-cau-mo-showroom-tai-viet-nam-4946739.html) - 08:00 06/10/2025<!-- vnexpress-tin-moi-nhat:END -->
