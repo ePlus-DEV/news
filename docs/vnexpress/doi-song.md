@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Hà Nội vượt &#39;biển nước&#39; đi làm](https://vnexpress.net/nguoi-ha-noi-vuot-bien-nuoc-di-lam-4948127.html) - 04:06 07/10/2025
+- 🚀 [Những người vượt &#39;biển nước&#39; đi làm](https://vnexpress.net/nhung-nguoi-vuot-bien-nuoc-di-lam-4948127.html) - 04:06 07/10/2025
 - 🎓 [Người trẻ trải nghiệm chụp ảnh với camera Galaxy S25 FE](https://vnexpress.net/nguoi-tre-trai-nghiem-chup-anh-voi-camera-galaxy-s25-fe-4948039.html) - 01:00 07/10/2025
 - 🚦 [Trung thu tại ngôi miếu 300 năm tuổi của người Hoa ở TP HCM](https://vnexpress.net/trung-thu-tai-ngoi-mieu-300-nam-tuoi-cua-nguoi-hoa-o-tp-hcm-4948053.html) - 00:49 07/10/2025
 - 🦣 [Cuộc đời mới của chàng trai Mỹ ở Việt Nam](https://vnexpress.net/cuoc-doi-moi-cua-chang-trai-my-o-viet-nam-4946967.html) - 23:00 06/10/2025
