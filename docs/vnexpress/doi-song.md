@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Dân Thái Nguyên trắng đêm cầm cự với lũ trên nóc nhà](https://vnexpress.net/dan-thai-nguyen-trang-dem-cam-cu-voi-lu-tren-noc-nha-4948520.html) - 18:01 07/10/2025
 - 🎓 [Người Lạng Sơn một tuần chạy lũ 3 lần](https://vnexpress.net/nguoi-lang-son-mot-tuan-chay-lu-3-lan-4948447.html) - 13:33 07/10/2025
-- 🚦 [Củ niễng xào trứng kiểu đồng bằng Bắc Bộ](https://vnexpress.net/cu-nieng-xao-trung-kieu-dong-bang-bac-bo-4948469.html) - 10:58 07/10/2025
+- 🚦 [Củ niễng xào trứng kiểu đồng bằng Bắc Bộ](https://vnexpress.net/doi-song-cooking-cu-nieng-xao-trung-kieu-dong-bang-bac-bo-4948469.html) - 10:58 07/10/2025
 - 🦣 [Vì sao người Nhật kỳ thị kính râm?](https://vnexpress.net/vi-sao-nguoi-nhat-ky-thi-kinh-ram-4948276.html) - 10:46 07/10/2025
 - 🎓 [Người Thái Nguyên chạy lũ trong đêm](https://vnexpress.net/nguoi-thai-nguyen-chay-lu-trong-dem-4948263.html) - 07:08 07/10/2025
 - 🎭 [Phụ huynh rối bời vì con học online ngày mưa ngập](https://vnexpress.net/phu-huynh-roi-boi-vi-con-hoc-online-ngay-mua-ngap-4948136.html) - 05:42 07/10/2025
@@ -15,7 +15,7 @@ sidebar_position: 6
 - 💪 [Trung thu tại ngôi miếu 300 năm tuổi của người Hoa ở TP HCM](https://vnexpress.net/trung-thu-tai-ngoi-mieu-300-nam-tuoi-cua-nguoi-hoa-o-tp-hcm-4948053.html) - 00:49 07/10/2025
 - 🐻 [Cuộc đời mới của chàng trai Mỹ ở Việt Nam](https://vnexpress.net/cuoc-doi-moi-cua-chang-trai-my-o-viet-nam-4946967.html) - 23:00 06/10/2025
 - 🧠 [Trao vợ ngoại tình cho người thứ ba](https://vnexpress.net/trao-vo-ngoai-tinh-cho-nguoi-thu-ba-4948026.html) - 22:48 06/10/2025
-- 🐘 [Món xôi tôm cho ngày mưa bão](https://vnexpress.net/mon-xoi-tom-cho-ngay-mua-bao-4947956.html) - 09:42 06/10/2025
+- 🐘 [Món xôi tôm cho ngày mưa bão](https://vnexpress.net/doi-song-cooking-mon-xoi-tom-cho-ngay-mua-bao-4947956.html) - 09:42 06/10/2025
 - 👹 [Bảy dấu hiệu của cha mẹ &#39;máy cắt cỏ&#39;](https://vnexpress.net/bay-dau-hieu-cua-cha-me-may-cat-co-4947492.html) - 09:20 06/10/2025
 - 💂 [Mất hết răng ở tuổi 21](https://vnexpress.net/mat-het-rang-o-tuoi-21-4947760.html) - 09:01 06/10/2025
 - 🦍 [Hàng nghìn người đón Trung thu tại loạt đô thị Nam Long](https://vnexpress.net/hang-nghin-nguoi-don-trung-thu-tai-loat-do-thi-nam-long-4947918.html) - 09:00 06/10/2025
@@ -44,7 +44,7 @@ sidebar_position: 6
 - 🎡 [Tình yêu hồi sinh cuộc đời cô gái bị tạt axit](https://vnexpress.net/tinh-yeu-hoi-sinh-cuoc-doi-co-gai-bi-tat-axit-4941692.html) - 23:00 03/10/2025
 - 🌏 [Bốn loại thực phẩm tưởng sạch nhưng có nguy cơ ngộ độc](https://vnexpress.net/bon-loai-thuc-pham-tuong-sach-nhung-co-nguy-co-ngo-doc-4943366.html) - 12:15 03/10/2025
 - 🐻 [Mở cổng bình chọn giải thưởng Vietnam iContent Awards 2025](https://vnexpress.net/mo-cong-binh-chon-giai-thuong-vietnam-icontent-awards-2025-4947032.html) - 12:00 03/10/2025
-- 💂 [Mẹo nướng bánh Trung thu](https://vnexpress.net/meo-nuong-banh-trung-thu-4946980.html) - 09:11 03/10/2025
+- 💂 [Mẹo nướng bánh Trung thu](https://vnexpress.net/doi-song-cooking-meo-nuong-banh-trung-thu-4946980.html) - 09:11 03/10/2025
 - 🥸 [Opella Việt Nam năm thứ 4 đồng hành dự án Vệ sinh học đường](https://vnexpress.net/opella-viet-nam-nam-thu-4-dong-hanh-du-an-ve-sinh-hoc-duong-4946887.html) - 08:00 03/10/2025
 - 🌋 [Những tính cách của vợ khiến đàn ông sợ hãi](https://vnexpress.net/nhung-tinh-cach-cua-vo-khien-dan-ong-so-hai-4946918.html) - 07:50 03/10/2025
 - 🦩 [Vì sao đàn ông nên tiểu ngồi?](https://vnexpress.net/vi-sao-dan-ong-nen-tieu-ngoi-4944679.html) - 03:46 03/10/2025
@@ -52,7 +52,7 @@ sidebar_position: 6
 - 🐻 [Những gia đình chỉ hạnh phúc trên mạng](https://vnexpress.net/nhung-gia-dinh-chi-hanh-phuc-tren-mang-4942944.html) - 23:00 02/10/2025
 - 🎬 [Nỗi sợ &#39;ngày thứ tư&#39; của thiếu niên 17 tuổi](https://vnexpress.net/noi-so-ngay-thu-tu-cua-thieu-nien-17-tuoi-4945659.html) - 18:02 02/10/2025
 - 🎊 [Ba nhóm công việc AI khó thay thế con người](https://vnexpress.net/ba-nhom-cong-viec-ai-kho-thay-the-con-nguoi-4943693.html) - 09:13 02/10/2025
-- 💄 [Món bò kho kiểu Nam Bộ](https://vnexpress.net/mon-bo-kho-kieu-nam-bo-4946059.html) - 08:13 02/10/2025
+- 💄 [Món bò kho kiểu Nam Bộ](https://vnexpress.net/doi-song-cooking-mon-bo-kho-kieu-nam-bo-4946059.html) - 08:13 02/10/2025
 - 🏊 [Anh em đoàn tụ sau 58 năm](https://vnexpress.net/anh-em-doan-tu-sau-58-nam-4946326.html) - 07:59 02/10/2025
 - 🌜 [Nghề đóng giả khách mời đám cưới](https://vnexpress.net/nghe-dong-gia-khach-moi-dam-cuoi-4946350.html) - 07:10 02/10/2025
 - 🤡 [Vì sao có những người thường xuyên đi muộn?](https://vnexpress.net/vi-sao-co-nhung-nguoi-thuong-xuyen-di-muon-4946317.html) - 03:29 02/10/2025
