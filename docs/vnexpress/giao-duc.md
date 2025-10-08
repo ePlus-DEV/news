@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [TP HCM dự kiến sáp nhập hơn 30 đại học, cao đẳng, trung cấp](https://vnexpress.net/tp-hcm-du-kien-sap-nhap-hon-30-dai-hoc-cao-dang-trung-cap-4948722.html) - 07:18 08/10/2025
-- 🦆 [Cách ly học sinh phạm lỗi: Khó khả thi](https://vnexpress.net/cach-ly-hoc-sinh-pham-loi-kho-kha-thi-4948626.html) - 07:08 08/10/2025
+- 🦆 [&#39;Khó khả thi&#39; khi cách ly học sinh phạm lỗi](https://vnexpress.net/kho-kha-thi-khi-cach-ly-hoc-sinh-pham-loi-4948626.html) - 07:08 08/10/2025
 - 🦩 [Nhiều trường ở Hà Nội học online ngày thứ ba liên tiếp](https://vnexpress.net/nhieu-truong-o-ha-noi-hoc-online-ngay-thu-ba-lien-tiep-4948519.html) - 16:50 07/10/2025
 - 🌮 [Nước nào có GDP bình quân đầu người cao nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-gdp-binh-quan-dau-nguoi-cao-nhat-dong-nam-a-4948410.html) - 13:00 07/10/2025
 - 🔭 [16 trường ở TP HCM siết điện thoại vào giờ ra chơi](https://vnexpress.net/16-truong-o-tp-hcm-siet-dien-thoai-vao-gio-ra-choi-4948436.html) - 10:57 07/10/2025
