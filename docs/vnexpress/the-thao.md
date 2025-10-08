@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ronaldo thành tỷ phú đầu tiên của bóng đá thế giới](https://vnexpress.net/ronaldo-thanh-ty-phu-dau-tien-cua-bong-da-the-gioi-4948978.html) - 17:00 08/10/2025
-- 🦩 [Arab Saudi 0-0 Indonesia &lpar;H1&rpar;: VAR kiểm tra phạt đền](https://vnexpress.net/arab-saudi-v-indonesia-4949018.html) - 16:41 08/10/2025
+- 🦩 [Arab Saudi 3-1 Indonesia &lpar;H2&rpar;: Khó khăn chất chồng với đội khách](https://vnexpress.net/arab-saudi-v-indonesia-4949018.html) - 16:41 08/10/2025
 - 🧰 [Việt Nam thoải mái trước trận đấu đối thủ kém 52 bậc FIFA](https://vnexpress.net/viet-nam-thoai-mai-truoc-tran-dau-doi-thu-kem-52-bac-fifa-4949003.html) - 13:57 08/10/2025
 - 🤗 [HLV Malaysia: &#39;Án phạt của FIFA không khiến chúng tôi phân tâm&#39;](https://vnexpress.net/hlv-malaysia-an-phat-cua-fifa-khong-khien-chung-toi-phan-tam-4948985.html) - 12:38 08/10/2025
 - 🥳 [HLV Kim Sang-sik: &#39;Việt Nam cần tập trung vào Nepal, chứ không phải Malaysia&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-tap-trung-vao-nepal-chu-khong-phai-malaysia-4948960.html) - 10:37 08/10/2025
