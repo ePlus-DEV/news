@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Bên trong lò phản ứng hạt nhân Đà Lạt](https://vnexpress.net/lo-phan-ung-hat-nhan-duy-nhat-tai-viet-nam-4948494.html) - 17:00 08/10/2025
 - 💪 [Nói xấu người khác trong nhóm chat riêng có được không?](https://vnexpress.net/noi-xau-nguoi-khac-trong-nhom-chat-rieng-co-duoc-khong-4948133.html) - 17:00 08/10/2025
 - 🎓 [UAV Ukraine gây sức ép lên ngành xăng dầu Nga](https://vnexpress.net/uav-ukraine-gay-suc-ep-len-nganh-xang-dau-nga-4946677.html) - 17:00 08/10/2025
-- 🫣 [Arab Saudi 2-1 Indonesia &lpar;H2&rpar;: Cứu thua khó tin](https://vnexpress.net/arab-saudi-v-indonesia-4949018.html) - 16:41 08/10/2025
+- 🫣 [Indonesia thua sát nút Arab Saudi ở vòng loại bố World Cup 2026](https://vnexpress.net/arab-saudi-v-indonesia-4949018.html) - 16:41 08/10/2025
 - 🧑‍💻 [Sinh tồn trong lũ](https://vnexpress.net/sinh-ton-trong-lu-4949020.html) - 16:33 08/10/2025
 - 🐲 [Mỹ cân nhắc giới hạn chỉ 15% sinh viên quốc tế](https://vnexpress.net/my-can-nhac-gioi-han-chi-15-sinh-vien-quoc-te-4948968.html) - 16:30 08/10/2025
 - 🌝 [Gấu xông vào siêu thị tấn công người](https://vnexpress.net/gau-xong-vao-sieu-thi-tan-cong-nguoi-4949015.html) - 16:00 08/10/2025
