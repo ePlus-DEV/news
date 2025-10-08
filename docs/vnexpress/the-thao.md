@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cơ thủ Việt Nam bị xử ép ở World Cup billiard](https://vnexpress.net/co-thu-viet-nam-bi-xu-ep-o-world-cup-billiard-4949029.html) - 22:01 08/10/2025
 - 🦩 [Ratcliffe: &#39;Tôi sẽ cho Amorim ba năm ở Man Utd&#39;](https://vnexpress.net/ratcliffe-toi-se-cho-amorim-ba-nam-o-man-utd-4949037.html) - 21:58 08/10/2025
-- 🧰 [Ronaldo thành tỷ phú đầu tiên của bóng đá thế giới](https://vnexpress.net/ronaldo-thanh-ty-phu-dau-tien-cua-bong-da-the-gioi-4948978.html) - 17:00 08/10/2025
+- 🧰 [Ronaldo trở thành tỷ phú đầu tiên của bóng đá](https://vnexpress.net/ronaldo-tro-thanh-ty-phu-dau-tien-cua-bong-da-4948978.html) - 17:00 08/10/2025
 - 🤗 [Indonesia thua sát nút Arab Saudi ở vòng loại bốn World Cup 2026](https://vnexpress.net/arab-saudi-v-indonesia-4949018-tong-thuat.html) - 16:41 08/10/2025
 - 🥳 [Việt Nam thoải mái trước trận đấu đối thủ kém 52 bậc FIFA](https://vnexpress.net/viet-nam-thoai-mai-truoc-tran-dau-doi-thu-kem-52-bac-fifa-4949003.html) - 13:57 08/10/2025
 - 🦣 [HLV Malaysia: &#39;Án phạt của FIFA không khiến chúng tôi phân tâm&#39;](https://vnexpress.net/hlv-malaysia-an-phat-cua-fifa-khong-khien-chung-toi-phan-tam-4948985.html) - 12:38 08/10/2025
