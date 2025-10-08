@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc TP HCM - Long Thành hạn chế tốc độ để thi công mở rộng](https://vnexpress.net/cao-toc-tp-hcm-long-thanh-han-che-toc-do-de-thi-cong-mo-rong-4949011.html) - 14:36 08/10/2025
+- 🦒 [Cao tốc TP HCM - Long Thành rào chắn để thi công mở rộng](https://vnexpress.net/cao-toc-tp-hcm-long-thanh-rao-chan-de-thi-cong-mo-rong-4949011.html) - 14:36 08/10/2025
 - 🤓 [Đề xuất bổ sung cơ chế phát triển kinh tế báo chí](https://vnexpress.net/de-xuat-bo-sung-co-che-phat-trien-kinh-te-bao-chi-4948982.html) - 14:12 08/10/2025
 - ⚗️ [TP HCM cho Vingroup lắp trạm sạc điện tại điểm thu phí đỗ xe dưới lòng đường](https://vnexpress.net/tp-hcm-cho-vingroup-lap-tram-sac-dien-tai-diem-thu-phi-do-xe-duoi-long-duong-4948999.html) - 13:20 08/10/2025
 - 🌊 [Lũ ở Bắc Ninh chạm đỉnh lịch sử, uy hiếp hệ thống đê](https://vnexpress.net/lu-o-bac-ninh-cham-dinh-lich-su-uy-hiep-he-thong-de-4948976.html) - 12:04 08/10/2025
