@@ -5,10 +5,10 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Lượng điện tái tạo toàn cầu đạt kỷ lục](https://vnexpress.net/luong-dien-tai-tao-toan-cau-dat-ky-luc-4948573.html) - 05:10 08/10/2025
-- 🐲 [Mỗi lượng vàng miếng tăng 1,3 triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-tang-1-3-trieu-dong-4948702.html) - 04:35 08/10/2025
+- 🐲 [Giá vàng miếng vượt 142 triệu đồng](https://vnexpress.net/gia-vang-mieng-vuot-142-trieu-dong-4948702.html) - 04:35 08/10/2025
 - 🔥 [Giá vàng thế giới vượt mốc 4.000 USD](https://vnexpress.net/gia-vang-the-gioi-vuot-moc-4-000-usd-4948642.html) - 04:01 08/10/2025
 - 🐵 [Thủ tướng yêu cầu báo cáo chính sách thuế bất động sản trước 15/10](https://vnexpress.net/thu-tuong-yeu-cau-bao-cao-chinh-sach-thue-bat-dong-san-truoc-15-10-4948600.html) - 03:15 08/10/2025
-- 🦅 [VN-Index xoay chiều tăng thành giảm](https://vnexpress.net/chung-khoan-tang-manh-sau-tin-nang-hang-4948603.html) - 02:33 08/10/2025
+- 🦅 [VN-Index tiếp tục giằng co mạnh](https://vnexpress.net/chung-khoan-tang-manh-sau-tin-nang-hang-4948603.html) - 02:33 08/10/2025
 - 😺 [Novaland còn &#39;ế&#39; hơn 17 triệu cổ phiếu ESOP](https://vnexpress.net/novaland-con-e-hon-17-trieu-co-phieu-esop-4948507.html) - 22:00 07/10/2025
 - 🤩 [Chứng khoán Việt Nam được nâng hạng](https://vnexpress.net/chung-khoan-viet-nam-duoc-nang-hang-4948538.html) - 21:03 07/10/2025
 - 🌮 [Hoài nghi quanh tuyên bố hút 17.000 tỷ USD đầu tư của ông Trump](https://vnexpress.net/hoai-nghi-quanh-tuyen-bo-hut-17-000-ty-usd-dau-tu-cua-ong-trump-4948337.html) - 21:00 07/10/2025
