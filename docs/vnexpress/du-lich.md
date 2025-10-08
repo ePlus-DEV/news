@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Huy động thuyền du lịch chùa Hương đi cứu hộ vùng lũ lụt](https://vnexpress.net/huy-dong-thuyen-du-lich-chua-huong-di-cuu-ho-vung-lu-lut-4948760.html) - 06:14 08/10/2025
+- 💂 [Thuyền du lịch chùa Hương được huy động cứu hộ vùng lũ lụt](https://vnexpress.net/thuyen-du-lich-chua-huong-duoc-huy-dong-cuu-ho-vung-lu-lut-4948760.html) - 06:14 08/10/2025
 - 🪄 [Vietjet giảm đến 50% giá vé bay dịp 10/10](https://vnexpress.net/vietjet-giam-den-50-gia-ve-bay-dip-10-10-4948693.html) - 06:00 08/10/2025
 - 🦅 [Sập cổng chào Đồng Văn do sạt lở](https://vnexpress.net/sap-cong-chao-dong-van-do-sat-lo-4948714.html) - 04:40 08/10/2025
 - 🕴 [Quán biến tấu hương vị Việt chinh phục khách Tây](https://vnexpress.net/quan-bien-tau-huong-vi-viet-chinh-phuc-khach-tay-4942967.html) - 00:00 08/10/2025
