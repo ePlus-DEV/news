@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Vượt giới hạn thể lực, Medvedev hạ gục Tien ở Thượng Hải Masters](https://dantri.com.vn/the-thao/vuot-gioi-han-the-luc-medvedev-ha-guc-tien-o-thuong-hai-masters-20251008231932786.htm) - 16:20 08/10/2025
-- 💯 [Indonesia 1-1 Saudi Arabia &lpar;hiệp 1&rpar;: Gỡ hòa chớp nhoáng](https://dantri.com.vn/the-thao/indonesia-1-1-saudi-arabia-hiep-1-go-hoa-chop-nhoang-20251008224251738.htm) - 15:43 08/10/2025
+- 💯 [Indonesia 1-2 Saudi Arabia &lpar;hết hiệp 1&rpar;: Indonesia chịu thua vì VAR](https://dantri.com.vn/the-thao/indonesia-1-2-saudi-arabia-het-hiep-1-indonesia-chiu-thua-vi-var-20251008224251738.htm) - 15:43 08/10/2025
 - ⛽️ [Báo Argentina chỉ rõ gốc gác thực sự của các cầu thủ nhập tịch Malaysia](https://dantri.com.vn/the-thao/bao-argentina-chi-ro-goc-gac-thuc-su-cua-cac-cau-thu-nhap-tich-malaysia-20251008190353688.htm) - 12:03 08/10/2025
 - 💃 [HLV Nepal quyết tâm thắng đội tuyển Việt Nam, không quan tâm đến Malaysia](https://dantri.com.vn/the-thao/hlv-nepal-quyet-tam-thang-doi-tuyen-viet-nam-khong-quan-tam-den-malaysia-20251008183121106.htm) - 11:45 08/10/2025
 - 🌈 [Xem trực tiếp trận đấu giữa Indonesia gặp Saudi Arabia trên kênh nào?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-dau-giua-indonesia-gap-saudi-arabia-tren-kenh-nao-20251008183854887.htm) - 11:39 08/10/2025
