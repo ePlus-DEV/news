@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Nhan sắc khác lạ của Tóc Tiên ở tuổi 36 gây chú ý](https://dantri.com.vn/giai-tri/nhan-sac-khac-la-cua-toc-tien-o-tuoi-36-gay-chu-y-20251008171325062.htm) - 22:23 08/10/2025
+- 🤩 [Nhan sắc khác lạ của Tóc Tiên ở tuổi 36](https://dantri.com.vn/giai-tri/nhan-sac-khac-la-cua-toc-tien-o-tuoi-36-20251008171325062.htm) - 22:23 08/10/2025
 - 🔥 [Người đẹp được dự đoán đăng quang Hoa hậu Hòa bình Quốc tế 2025](https://dantri.com.vn/giai-tri/nguoi-dep-duoc-du-doan-dang-quang-hoa-hau-hoa-binh-quoc-te-2025-20251008122324829.htm) - 12:13 08/10/2025
 - 🚀 [Ra mắt ấn phẩm văn hóa &quot;Chợ Đồng Xuân - Không gian ký ức&quot;](https://dantri.com.vn/giai-tri/ra-mat-an-pham-van-hoa-cho-dong-xuan-khong-gian-ky-uc-20251008164845384.htm) - 10:11 08/10/2025
 - 🔥 [Thiết kế denim phá cách gây ấn tượng tại Tuần lễ thời trang Paris](https://dantri.com.vn/giai-tri/thiet-ke-denim-pha-cach-gay-an-tuong-tai-tuan-le-thoi-trang-paris-20251008120345524.htm) - 10:06 08/10/2025
