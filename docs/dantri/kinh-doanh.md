@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Chứng khoán được nâng hạng, thời gian &quot;thử thách&quot; 11 tháng nên hiểu ra sao?](https://dantri.com.vn/kinh-doanh/chung-khoan-duoc-nang-hang-thoi-gian-thu-thach-11-thang-nen-hieu-ra-sao-20251008094846615.htm) - 04:22 08/10/2025
-- 🦆 [Chứng khoán tăng sau tin nâng hạng, cổ phiếu tỷ phú phân hóa](https://dantri.com.vn/kinh-doanh/chung-khoan-tang-sau-tin-nang-hang-co-phieu-ty-phu-phan-hoa-20251008102635508.htm) - 04:13 08/10/2025
+- 🦆 [Chứng khoán đảo chiều giảm nhẹ](https://dantri.com.vn/kinh-doanh/chung-khoan-dao-chieu-giam-nhe-20251008102635508.htm) - 04:13 08/10/2025
 - 🦄 [Mua vàng SJC tại TPHCM phải đăng ký trực tuyến, Hà Nội vẫn bán tại cửa hàng](https://dantri.com.vn/kinh-doanh/mua-vang-sjc-tai-tphcm-phai-dang-ky-truc-tuyen-ha-noi-van-ban-tai-cua-hang-20251008011334753.htm) - 02:30 08/10/2025
 - 🌝 [Nội - ngoại so găng, thị trường trung tâm thương mại bước vào cao trào mới](https://dantri.com.vn/kinh-doanh/noi-ngoai-so-gang-thi-truong-trung-tam-thuong-mai-buoc-vao-cao-trao-moi-20251007174441031.htm) - 02:19 08/10/2025
 - 💃 [VBCSD - Hành trình 15 năm tiên phong thúc đẩy doanh nghiệp phát triển bền vững](https://dantri.com.vn/kinh-doanh/vbcsd-hanh-trinh-15-nam-tien-phong-thuc-day-doanh-nghiep-phat-trien-ben-vung-20251006135713208.htm) - 01:00 08/10/2025
