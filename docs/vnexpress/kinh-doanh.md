@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [&#39;Không làm khó người dân lắp điện mặt trời mái nhà tự dùng&#39;](https://vnexpress.net/khong-lam-kho-nguoi-dan-lap-dien-mat-troi-mai-nha-tu-dung-4948954.html) - 10:39 08/10/2025
 - 🐲 [JICA triển khai nhiều dự án giúp giảm ngập lụt tại Hà Nội, TP HCM](https://vnexpress.net/jica-trien-khai-nhieu-du-an-giup-giam-ngap-lut-tai-ha-noi-tp-hcm-4948888.html) - 10:12 08/10/2025
 - 🔥 [WTO nâng mạnh dự báo tăng trưởng thương mại toàn cầu](https://vnexpress.net/wto-nang-manh-du-bao-tang-truong-thuong-mai-toan-cau-4948801.html) - 10:00 08/10/2025
-- 🐵 [Cơ quan thuế khẳng định &#39;không phạt khi hộ kinh doanh chưa quen hệ thống mới&#39;](https://vnexpress.net/co-quan-thue-khang-dinh-khong-phat-khi-ho-kinh-doanh-chua-quen-he-thong-moi-4948793.html) - 09:35 08/10/2025
+- 🐵 [Nhiều hộ kinh doanh lo lắng bị phạt nếu không kê khai đúng](https://vnexpress.net/nhieu-ho-kinh-doanh-lo-lang-bi-phat-neu-khong-ke-khai-dung-4948793.html) - 09:35 08/10/2025
 - 🦅 [Grab lấn sân dịch vụ gọi ôtô điện](https://vnexpress.net/grab-lan-san-dich-vu-goi-oto-dien-4948850.html) - 09:24 08/10/2025
 - 😺 [Dapharco bị phạt gần 1 tỷ đồng do khai sai nghĩa vụ thuế](https://vnexpress.net/dapharco-bi-phat-gan-1-ty-dong-do-khai-sai-nghia-vu-thue-4948791.html) - 08:23 08/10/2025
 - 🤩 [Châu Âu tăng bảo hộ ngành thép](https://vnexpress.net/chau-au-tang-bao-ho-nganh-thep-4948677.html) - 07:46 08/10/2025
