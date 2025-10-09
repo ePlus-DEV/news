@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Đòi bồi thường 4 triệu USD vì ngồi tù oan gần 50 năm](https://vnexpress.net/doi-boi-thuong-4-trieu-usd-vi-ngoi-tu-oan-gan-50-nam-4949360.html) - 09:21 09/10/2025
 - 🕴 [Colombia chỉ trích Mỹ hạ sát công dân trên &#39;xuồng ma túy&#39;](https://vnexpress.net/colombia-chi-trich-my-ha-sat-cong-dan-tren-xuong-ma-tuy-4949324.html) - 09:19 09/10/2025
-- 🤭 [Tổng Bí thư Tô Lâm hội đàm với Chủ tịch Kim Jong-un](https://vnexpress.net/tong-bi-thu-to-lam-hoi-dam-voi-chu-tich-kim-jong-un-4949328.html) - 08:42 09/10/2025
+- 🤭 [Tổng Bí thư mong muốn Việt Nam - Triều Tiên mở rộng hợp tác](https://vnexpress.net/tong-bi-thu-mong-muon-viet-nam-trieu-tien-mo-rong-hop-tac-4949328.html) - 08:42 09/10/2025
 - 🧑‍💻 [Nghi phạm gây ra thảm họa cháy rừng Los Angeles bị bắt](https://vnexpress.net/nghi-pham-gay-ra-tham-hoa-chay-rung-los-angeles-bi-bat-4949294.html) - 08:34 09/10/2025
 - 🦏 [Ông Trump gửi thư đề nghị Thái Lan xử lý căng thẳng với Campuchia](https://vnexpress.net/ong-trump-gui-thu-de-nghi-thai-lan-xu-ly-cang-thang-voi-campuchia-4949280.html) - 08:28 09/10/2025
 - 🦒 [Nga có thể sắp lần đầu xuất khẩu tiêm kích bom Su-34](https://vnexpress.net/nga-co-the-sap-lan-dau-xuat-khau-tiem-kich-bom-su-34-4949285.html) - 08:18 09/10/2025
