@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik trả lời họp báo sau trận thắng chật vật Nepal](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tra-loi-hop-bao-sau-tran-thang-chat-vat-nepal-20251009214230122.htm) - 14:42 09/10/2025
+- 🎡 [HLV Kim Sang Sik: &quot;Đội tuyển Việt Nam không cần nghĩ nhiều về Malaysia&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-doi-tuyen-viet-nam-khong-can-nghi-nhieu-ve-malaysia-20251009214230122.htm) - 14:42 09/10/2025
 - 💯 [HLV Nepal: &quot;Đội tuyển Việt Nam hoàn toàn có thể thắng 6-1&quot;](https://dantri.com.vn/the-thao/hlv-nepal-doi-tuyen-viet-nam-hoan-toan-co-the-thang-6-1-20251009214635878.htm) - 14:41 09/10/2025
 - ⛽️ [Djokovic vượt qua chấn thương, tiến vào bán kết Thượng Hải Masters](https://dantri.com.vn/the-thao/djokovic-vuot-qua-chan-thuong-tien-vao-ban-ket-thuong-hai-masters-20251009202322731.htm) - 13:28 09/10/2025
 - 💃 [Mất 7 cầu thủ nhập tịch, Malaysia vẫn chiến thắng và đứng đầu bảng](https://dantri.com.vn/the-thao/mat-7-cau-thu-nhap-tich-malaysia-van-chien-thang-va-dung-dau-bang-20251009184140819.htm) - 11:41 09/10/2025
