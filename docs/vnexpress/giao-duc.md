@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [5 học sinh giành huy chương vàng Toán và Khoa học quốc tế](https://vnexpress.net/5-hoc-sinh-gianh-huy-chuong-vang-toan-va-khoa-hoc-quoc-te-4949152.html) - 04:05 09/10/2025
-- 🦆 [Kỷ lục 11 đại học Việt Nam vào bảng xếp hạng thế giới 2026](https://vnexpress.net/ky-luc-11-dai-hoc-viet-nam-vao-bang-xep-hang-the-gioi-2026-4949109.html) - 02:34 09/10/2025
+- 🦆 [11 đại học Việt Nam vào bảng xếp hạng thế giới 2026](https://vnexpress.net/11-dai-hoc-viet-nam-vao-bang-xep-hang-the-gioi-2026-4949109.html) - 02:34 09/10/2025
 - 🦩 [Chuyên gia mách nước cho sinh viên giữa sóng sa thải ngành ngân hàng](https://vnexpress.net/chuyen-gia-mach-nuoc-cho-sinh-vien-giua-song-sa-thai-nganh-ngan-hang-4948958.html) - 17:00 08/10/2025
 - 🌮 [Mỹ cân nhắc giới hạn chỉ 15% sinh viên quốc tế](https://vnexpress.net/my-can-nhac-gioi-han-chi-15-sinh-vien-quoc-te-4948968.html) - 16:30 08/10/2025
 - 🔭 [Đại học miễn học phí, tặng 3 triệu mỗi tháng cho thí sinh đỗ thẳng](https://vnexpress.net/dai-hoc-mien-hoc-phi-tang-3-trieu-moi-thang-cho-thi-sinh-do-thang-4948987.html) - 12:28 08/10/2025
