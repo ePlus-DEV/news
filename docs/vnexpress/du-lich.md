@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Lũ lụt nhấn chìm công viên Ấn Độ, voi và tê giác tháo chạy](https://vnexpress.net/lu-lut-nhan-chim-cong-vien-an-do-voi-va-te-giac-thao-chay-4949281.html) - 09:36 09/10/2025
 - 🪄 [Du khách đột tử khi chơi trò nhà ma](https://vnexpress.net/du-khach-dot-tu-khi-choi-tro-nha-ma-4949313.html) - 09:20 09/10/2025
 - 🦅 [Nơi du khách cùng lúc đặt chân lên ba quốc gia](https://vnexpress.net/noi-du-khach-cung-luc-dat-chan-len-ba-quoc-gia-4949173.html) - 06:58 09/10/2025
-- 🕴 [Thác Bản Giốc chảy xiết, đục ngầu trong mùa đẹp nhất](https://vnexpress.net/thac-ban-gioc-chay-xiet-duc-ngau-trong-mua-dep-nhat-4949213.html) - 04:43 09/10/2025
+- 🕴 [Thác Bản Giốc chảy xiết, đục ngầu](https://vnexpress.net/thac-ban-gioc-chay-xiet-duc-ngau-4949213.html) - 04:43 09/10/2025
 - 👀 [Thủy cung Canada dọa giết 30 cá voi trắng](https://vnexpress.net/thuy-cung-canada-doa-giet-30-ca-voi-trang-4949132.html) - 04:02 09/10/2025
 - 🎭 [Kho lúa Măng Đen thành điểm check in mới hút giới trẻ](https://vnexpress.net/kho-lua-mang-den-thanh-diem-check-in-moi-hut-gioi-tre-4948766.html) - 03:03 09/10/2025
 - 🦒 [Nhật Bản áp thuế lưu trú &#39;đắt nhất lịch sử&#39; ở cố đô Kyoto](https://vnexpress.net/nhat-ban-ap-thue-luu-tru-dat-nhat-lich-su-o-co-do-kyoto-4948972.html) - 17:00 08/10/2025
