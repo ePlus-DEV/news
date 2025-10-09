@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tiểu thuyết gia Hungary László Krasznahorkai đoạt Nobel Văn học](https://vnexpress.net/tieu-thuyet-gia-hungary-laszlo-krasznahorkai-doat-nobel-van-hoc-4949001.html) - 11:06 09/10/2025
+- 🌏 [Nhà văn Hungary László Krasznahorkai đoạt Nobel Văn học 2025](https://vnexpress.net/nha-van-hungary-laszlo-krasznahorkai-doat-nobel-van-hoc-2025-4949001.html) - 11:06 09/10/2025
 - 💫 [Gu mặc của Song Hye Kyo ngày ấy, bây giờ](https://vnexpress.net/gu-mac-cua-song-hye-kyo-ngay-ay-bay-gio-4949227.html) - 11:00 09/10/2025
 - 🌮 [Album &#39;The Life of a Showgirl&#39; của Taylor Swift lập kỷ lục](https://vnexpress.net/album-the-life-of-a-showgirl-cua-taylor-swift-lap-ky-luc-4947134.html) - 08:05 09/10/2025
 - 🧠 [Teyana Taylor - mỹ nhân đóng cặp DiCaprio](https://vnexpress.net/teyana-taylor-my-nhan-dong-cap-dicaprio-4948147.html) - 04:47 09/10/2025
