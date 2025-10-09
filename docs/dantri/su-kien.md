@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Ngoài NextTech, Công ty Ngân Lượng của Shark Bình cũng giảm 85% vốn](https://dantri.com.vn/kinh-doanh/ngoai-nexttech-cong-ty-ngan-luong-cua-shark-binh-cung-giam-85-von-20251009191534135.htm) - 12:58 09/10/2025
 - 👨‍🏫 [Báo Dân trí trao 10 tấn gạo và đèn pin tới người dân vùng lũ ở Thái Nguyên](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-10-tan-gao-va-den-pin-toi-nguoi-dan-vung-lu-o-thai-nguyen-20251009175632538.htm) - 11:51 09/10/2025
-- 🌮 [Tuyển Việt Nam 1-1 Nepal &lpar;Hết hiệp 1&rpar;: Cầu thủ đội khách nhận thẻ đỏ](https://dantri.com.vn/the-thao/tuyen-viet-nam-1-1-nepal-het-hiep-1-cau-thu-doi-khach-nhan-the-do-20251009095823853.htm) - 11:30 09/10/2025
+- 🌮 [Đội tuyển Việt Nam chật vật đánh bại 10 cầu thủ Nepal](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-chat-vat-danh-bai-10-cau-thu-nepal-20251009095823853.htm) - 11:30 09/10/2025
 - 🕯 [Vén màn chiêu trò lừa đảo tài sản số chỉ mất 15 giây để giăng bẫy](https://dantri.com.vn/cong-nghe/ven-man-chieu-tro-lua-dao-tai-san-so-chi-mat-15-giay-de-giang-bay-20251009163158592.htm) - 10:37 09/10/2025
 - 🪜 [Nếu được cấp tên lửa Tomahawk, Ukraine có thể đe dọa mục tiêu nào ở Nga?](https://dantri.com.vn/the-gioi/neu-duoc-cap-ten-lua-tomahawk-ukraine-co-the-de-doa-muc-tieu-nao-o-nga-20251008162504041.htm) - 09:53 09/10/2025
 - 🐘 [Truy lùng cá sấu sổng chuồng, tấn công người dân gây thương tích](https://dantri.com.vn/thoi-su/truy-lung-ca-sau-song-chuong-tan-cong-nguoi-dan-gay-thuong-tich-20251009152534687.htm) - 09:02 09/10/2025
