@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Azerbaijan thả nhà báo Nga sau cuộc gặp thượng đỉnh Putin - Aliyev](https://dantri.com.vn/the-gioi/azerbaijan-tha-nha-bao-nga-sau-cuoc-gap-thuong-dinh-putin-aliyev-20251010204906757.htm) - 14:44 10/10/2025
+- 🌋 [Azerbaijan thả nhà báo Nga sau cuộc gặp giữa hai Tổng thống Putin - Aliyev](https://dantri.com.vn/the-gioi/azerbaijan-tha-nha-bao-nga-sau-cuoc-gap-giua-hai-tong-thong-putin-aliyev-20251010204906757.htm) - 14:44 10/10/2025
 - 🎬 [Tổng thống Putin nêu phản ứng của Nga nếu Mỹ cấp Tomahawk cho Ukraine](https://dantri.com.vn/the-gioi/tong-thong-putin-neu-phan-ung-cua-nga-neu-my-cap-tomahawk-cho-ukraine-20251010212017497.htm) - 14:39 10/10/2025
 - 🧰 [Dư luận quốc tế về thỏa thuận hòa bình Israel - Hamas](https://dantri.com.vn/the-gioi/du-luan-quoc-te-ve-thoa-thuan-hoa-binh-israel-hamas-20251010212016009.htm) - 14:31 10/10/2025
 - 🌋 [Phản ứng của Mỹ khi Tổng thống Donald Trump không được trao giải Nobel](https://dantri.com.vn/the-gioi/phan-ung-cua-my-khi-tong-thong-donald-trump-khong-duoc-trao-giai-nobel-20251010185405449.htm) - 13:12 10/10/2025
