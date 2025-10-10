@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [&quot;Trường lớp bị nước lũ ngập hư hỏng hết, học sinh biết bắt đầu từ đâu”](https://dantri.com.vn/giao-duc/truong-lop-bi-nuoc-lu-ngap-hu-hong-het-hoc-sinh-biet-bat-dau-tu-dau-20251010142248983.htm) - 08:51 10/10/2025
+- 🤡 [Thái Nguyên: Trường lớp ngập trong bùn lũ sau khi nước rút](https://dantri.com.vn/giao-duc/thai-nguyen-truong-lop-ngap-trong-bun-lu-sau-khi-nuoc-rut-20251010142248983.htm) - 08:51 10/10/2025
 - 🗽 [Nam sinh 23 tuổi quay lén bạn cùng phòng trong nhà tắm ký túc xá](https://dantri.com.vn/giao-duc/nam-sinh-23-tuoi-quay-len-ban-cung-phong-trong-nha-tam-ky-tuc-xa-20251010114837182.htm) - 05:58 10/10/2025
 - 🚦 [Trường học đồng loạt phản ứng trước hướng dẫn thu chi của Sở GD&amp;ĐT](https://dantri.com.vn/giao-duc/truong-hoc-dong-loat-phan-ung-truoc-huong-dan-thu-chi-cua-so-gddt-20251010102429754.htm) - 04:57 10/10/2025
 - 🌋 [Sức khỏe tinh thần học sinh: Nền tảng cho giáo dục bền vững](https://dantri.com.vn/giao-duc/suc-khoe-tinh-than-hoc-sinh-nen-tang-cho-giao-duc-ben-vung-20251010105309001.htm) - 04:06 10/10/2025
