@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Hàn Quốc triệu đại sứ Campuchia liên quan nạn lừa đảo việc làm](https://vnexpress.net/han-quoc-trieu-dai-su-campuchia-lien-quan-nan-lua-dao-viec-lam-4949966.html) - 16:15 10/10/2025
+- 🎬 [Hàn Quốc triệu Đại sứ Campuchia liên quan nạn lừa đảo việc làm](https://vnexpress.net/han-quoc-trieu-dai-su-campuchia-lien-quan-nan-lua-dao-viec-lam-4949966.html) - 16:15 10/10/2025
 - 🐎 [Cháy nhà gần Bệnh viện Phụ sản Hà Nội](https://vnexpress.net/chay-nha-gan-benh-vien-phu-san-ha-noi-4949973.html) - 16:06 10/10/2025
 - 🦍 [Doanh nghiệp sẽ được cấp &#39;quota&#39; xuất nhập khẩu vàng hàng năm](https://vnexpress.net/doanh-nghiep-se-duoc-cap-quota-xuat-nhap-khau-vang-hang-nam-4949956.html) - 15:48 10/10/2025
 - 🏊 [Ông Trump dọa tăng thuế với Trung Quốc, không muốn gặp ông Tập](https://vnexpress.net/ong-trump-doa-tang-thue-voi-trung-quoc-khong-muon-gap-ong-tap-4949971.html) - 15:43 10/10/2025
