@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Nhiều đại học chi tiền tỷ cho nghiên cứu của sinh viên](https://vnexpress.net/nhieu-dai-hoc-chi-tien-ty-cho-nghien-cuu-cua-sinh-vien-4949766.html) - 14:08 10/10/2025
 - 🦆 [Lộ diện các bảng đấu giải bóng rổ Trẻ VnExpress - Cup Ziaja](https://vnexpress.net/lo-dien-cac-bang-dau-giai-bong-ro-tre-vnexpress-cup-ziaja-4949891.html) - 13:00 10/10/2025
 - 🦩 [Quốc gia nào được 3 đại dương bao quanh?](https://vnexpress.net/quoc-gia-nao-duoc-3-dai-duong-bao-quanh-4949830.html) - 12:53 10/10/2025
-- 🌮 [Dự kiến xóa sổ hội đồng trường công lập từ 1/1/2026](https://vnexpress.net/du-kien-xoa-so-hoi-dong-truong-cong-lap-tu-1-1-2026-4949908.html) - 12:06 10/10/2025
+- 🌮 [Dự kiến bỏ hội đồng trường công lập từ 1/1/2026](https://vnexpress.net/du-kien-bo-hoi-dong-truong-cong-lap-tu-1-1-2026-4949908.html) - 12:06 10/10/2025
 - 🔭 [Nam sinh ẵm suất học bổng hiếm của đại học top đầu Australia](https://vnexpress.net/nam-sinh-am-suat-hoc-bong-hiem-cua-dai-hoc-top-dau-australia-4947136.html) - 07:46 10/10/2025
 - 💡 [Những rối loạn đường ruột thường gặp ở học sinh](https://vnexpress.net/nhung-roi-loan-duong-ruot-thuong-gap-o-hoc-sinh-4949752.html) - 07:30 10/10/2025
 - 🥰 [5 môn học thiếu nhiều giáo viên nhất ở TP HCM](https://vnexpress.net/5-mon-hoc-thieu-nhieu-giao-vien-nhat-o-tp-hcm-4949226.html) - 23:55 09/10/2025
