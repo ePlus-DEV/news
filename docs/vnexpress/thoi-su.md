@@ -22,7 +22,7 @@ sidebar_position: 1
 - 🤡 [Khởi công Cung Thiếu nhi TP HCM hơn 1.100 tỷ đồng tại Thủ Thiêm](https://vnexpress.net/khoi-cong-cung-thieu-nhi-tp-hcm-hon-1-100-ty-dong-tai-thu-thiem-4949693.html) - 04:48 10/10/2025
 - 💯 [Ông Nguyễn Văn Quyết tiếp tục làm Bí thư Tây Ninh](https://vnexpress.net/ong-nguyen-van-quyet-tiep-tuc-lam-bi-thu-tay-ninh-4949561.html) - 04:26 10/10/2025
 - 👺 [Lũ sông miền Bắc tiếp tục xuống, còn 64.500 nhà ngập](https://vnexpress.net/lu-song-mien-bac-tiep-tuc-xuong-con-64-500-nha-ngap-4949617.html) - 04:25 10/10/2025
-- 🌮 [Nước lũ cuốn trôi nền đường sắt Hà Nội - Thái Nguyên](https://vnexpress.net/nuoc-lu-cuon-troi-nen-duong-sat-ha-noi-thai-nguyen-4949627.html) - 03:29 10/10/2025
+- 🌮 [Lũ cuốn trôi nền đường sắt Hà Nội - Thái Nguyên](https://vnexpress.net/lu-cuon-troi-nen-duong-sat-ha-noi-thai-nguyen-4949627.html) - 03:29 10/10/2025
 - 🥸 [Cao tốc Hà Nội - Thái Nguyên ngập nửa mét, hạn chế xe di chuyển](https://vnexpress.net/cao-toc-ha-noi-thai-nguyen-ngap-nua-met-han-che-xe-di-chuyen-4949515.html) - 01:16 10/10/2025
 - 🐻 [Gần 3 km Vành đai 2 TP HCM trước ngày tái khởi công](https://vnexpress.net/gan-3-km-vanh-dai-2-tp-hcm-truoc-ngay-tai-khoi-cong-4948877.html) - 23:00 09/10/2025
 - 👀 [Thủ tướng thị sát vùng ngập lụt ven sông ở Hà Nội](https://vnexpress.net/thu-tuong-thi-sat-vung-ngap-lut-ven-song-o-ha-noi-4949499.html) - 18:14 09/10/2025
