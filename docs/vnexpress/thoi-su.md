@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vòi rồng kéo dài 20 phút trên biển Phú Quốc](https://vnexpress.net/voi-rong-keo-dai-20-phut-tren-bien-phu-quoc-4949707.html) - 05:26 10/10/2025
+- 🦒 [Vòi rồng hơn 20 phút trên biển Phú Quốc](https://vnexpress.net/voi-rong-hon-20-phut-tren-bien-phu-quoc-4949707.html) - 05:26 10/10/2025
 - 🤓 [Cảnh sát giải cứu nam thanh niên nhảy cầu Thuận Phước](https://vnexpress.net/canh-sat-giai-cuu-nam-thanh-nien-nhay-cau-thuan-phuoc-4949684.html) - 05:17 10/10/2025
 - ⚗️ [Bộ Chính trị chỉ định ông Y Thanh Hà Niê Kđăm làm Bí thư Lâm Đồng](https://vnexpress.net/bo-chinh-tri-chi-dinh-ong-y-thanh-ha-nie-kdam-lam-bi-thu-lam-dong-4949497.html) - 05:06 10/10/2025
 - 🌊 [Ngoại thành Hà Nội ngập 1,5 m](https://vnexpress.net/ngoai-thanh-ha-noi-ngap-1-5-m-4949676.html) - 04:56 10/10/2025
