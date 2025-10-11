@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lam Trường đồng hành vợ chăm con nhỏ](https://vnexpress.net/lam-truong-dong-hanh-vo-cham-con-nho-4950093.html) - 13:00 11/10/2025
+- 🌏 [Lam Trường chăm sóc con sơ sinh](https://vnexpress.net/lam-truong-cham-soc-con-so-sinh-4950093.html) - 13:00 11/10/2025
 - 💫 [Victoria Beckham vực dậy sự nghiệp bên bờ phá sản](https://vnexpress.net/victoria-beckham-vuc-day-su-nghiep-ben-bo-pha-san-4949701.html) - 11:00 11/10/2025
 - 🌮 [Thí sinh Miss Grand diễn trang phục áo tắm](https://vnexpress.net/thi-sinh-miss-grand-dien-trang-phuc-ao-tam-4950151.html) - 08:46 11/10/2025
 - 🧠 [Sơn Tùng M-TP và nghệ sĩ chung tay vì người vùng bão lũ](https://vnexpress.net/son-tung-m-tp-va-nghe-si-chung-tay-vi-nguoi-vung-bao-lu-4950083.html) - 08:00 11/10/2025
