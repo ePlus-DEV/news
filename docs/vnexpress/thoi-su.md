@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cháy hai xe bồn chở xăng ở Đà Nẵng](https://vnexpress.net/chay-hai-xe-bon-cho-xang-o-da-nang-4950228.html) - 13:01 11/10/2025
 - 🤓 [Ba ngày chung sống với lũ sông Thương](https://vnexpress.net/ba-ngay-chung-song-voi-lu-song-thuong-4950165.html) - 10:44 11/10/2025
-- ⚗️ [45 bác sĩ quân y hỗ trợ ba tỉnh ngập nặng](https://vnexpress.net/45-bac-si-quan-y-ho-tro-ba-tinh-ngap-nang-4950199.html) - 10:27 11/10/2025
+- ⚗️ [Quân đội cử bác sĩ đến các tỉnh ngập nặng phòng dịch sau lũ](https://vnexpress.net/quan-doi-cu-bac-si-den-cac-tinh-ngap-nang-phong-dich-sau-lu-4950199.html) - 10:27 11/10/2025
 - 🌊 [Chủ tịch Hà Nội: Xử lý tận gốc nguyên nhân gây ngập](https://vnexpress.net/chu-tich-ha-noi-xu-ly-tan-goc-nguyen-nhan-gay-ngap-4950190.html) - 10:07 11/10/2025
 - 🎓 [Tổng Bí thư dự lễ khởi công xây trường nội trú ở xã biên giới Nghệ An](https://vnexpress.net/tong-bi-thu-du-le-khoi-cong-xay-truong-noi-tru-o-xa-bien-gioi-nghe-an-4950158.html) - 08:46 11/10/2025
 - 🔥 [Miền Bắc còn 12.900 nhà ngập, đê nguy cơ sạt trượt](https://vnexpress.net/mien-bac-con-12-900-nha-ngap-de-nguy-co-sat-truot-4950080.html) - 06:37 11/10/2025
