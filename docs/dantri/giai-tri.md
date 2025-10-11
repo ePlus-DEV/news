@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Chuyên gia di sản kể chuyện nhìn thấy phở Hà Nội trên đất Pháp](https://dantri.com.vn/giai-tri/chuyen-gia-di-san-ke-chuyen-nhin-thay-pho-ha-noi-tren-dat-phap-20251011172321510.htm) - 10:41 11/10/2025
+- 🤩 [Chuyên gia di sản kể chuyện về phở Hà Nội trên đất Pháp](https://dantri.com.vn/giai-tri/chuyen-gia-di-san-ke-chuyen-ve-pho-ha-noi-tren-dat-phap-20251011172321510.htm) - 10:41 11/10/2025
 - 🔥 [Cảnh tắm mưa táo bạo của Jennie trở thành chủ đề nóng, hút triệu lượt xem](https://dantri.com.vn/giai-tri/canh-tam-mua-tao-bao-cua-jennie-tro-thanh-chu-de-nong-hut-trieu-luot-xem-20251011111533376.htm) - 10:06 11/10/2025
 - 🚀 [Bộ ngực giả và loạt “thâm cung bí sử” được Victoria Beckham lần đầu hé lộ](https://dantri.com.vn/giai-tri/bo-nguc-gia-va-loat-tham-cung-bi-su-duoc-victoria-beckham-lan-dau-he-lo-20251011131750334.htm) - 06:38 11/10/2025
 - 🔥 [Hiệp sĩ Jazz Niels Lan Doky trở lại Việt Nam, hội ngộ Thanh Lam sau 20 năm](https://dantri.com.vn/giai-tri/hiep-si-jazz-niels-lan-doky-tro-lai-viet-nam-hoi-ngo-thanh-lam-sau-20-nam-20251011090840730.htm) - 04:01 11/10/2025
