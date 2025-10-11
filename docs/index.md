@@ -81,7 +81,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕴 [Vỡ tử cung sau tự phá thai 27 tuần](https://vnexpress.net/vo-tu-cung-sau-tu-pha-thai-27-tuan-4950173.html) - 08:44 11/10/2025
 - 🦆 [Bệnh viện TP HCM lập khoa ung thư](https://vnexpress.net/benh-vien-tp-hcm-lap-khoa-ung-thu-4950172.html) - 08:42 11/10/2025
 - 💫 [Bí quyết để thịt kho lên màu đẹp](https://vnexpress.net/bi-quyet-de-thit-kho-len-mau-dep-4950171.html) - 08:16 11/10/2025
-- 🤓 [Tòa Hình sự Quốc tế bác đề nghị cho ông Duterte tại ngoại](https://vnexpress.net/toa-hinh-su-quoc-te-bac-de-nghi-cho-ong-duterte-tai-ngoai-4950127.html) - 08:05 11/10/2025<!-- vnexpress:END -->
+- 🤓 [Tòa Hình sự Quốc tế bác đề nghị cho ông Duterte tại ngoại](https://vnexpress.net/toa-hinh-su-quoc-te-bac-de-nghi-cho-ong-duterte-tai-ngoai-4950127.html) - 08:05 11/10/2025
+- 🤡 [Sơn Tùng M-TP và nghệ sĩ chung tay vì người vùng bão lũ](https://vnexpress.net/son-tung-m-tp-va-nghe-si-chung-tay-vi-nguoi-vung-bao-lu-4950083.html) - 08:00 11/10/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
