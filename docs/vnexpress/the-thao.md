@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cựu cầu thủ Man United kết liễu giấc mơ World Cup của Indonesia](https://vnexpress.net/cuu-cau-thu-man-united-ket-lieu-giac-mo-world-cup-cua-indonesia-4950270.html) - 21:43 11/10/2025
+- 🪜 [Cựu cầu thủ Man United phá tan giấc mơ World Cup của Indonesia](https://vnexpress.net/cuu-cau-thu-man-united-pha-tan-giac-mo-world-cup-cua-indonesia-4950270.html) - 21:43 11/10/2025
 - 🦩 [Vacherot: &#39;Được đấu Djokovic là vinh dự rồi&#39;](https://vnexpress.net/vacherot-duoc-dau-djokovic-la-vinh-du-roi-4950242.html) - 17:42 11/10/2025
 - 🧰 [Anh em họ đấu nhau ở chung kết Thượng Hải Masters](https://vnexpress.net/anh-em-ho-dau-nhau-o-chung-ket-thuong-hai-masters-4950264.html) - 17:42 11/10/2025
 - 🤗 [Cao Quang Vinh Pendant: &#39;Tuyển Việt Nam cần đá quyết liệt hơn&#39;](https://vnexpress.net/cao-quang-vinh-pendant-tuyen-viet-nam-can-da-quyet-liet-hon-4950227.html) - 13:13 11/10/2025
