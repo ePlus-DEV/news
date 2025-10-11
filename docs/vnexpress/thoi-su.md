@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Cháy hai xe bồn chở xăng ở Đà Nẵng](https://vnexpress.net/chay-hai-xe-bon-cho-xang-o-da-nang-4950228.html) - 13:01 11/10/2025
 - 🤓 [Ba ngày chung sống với lũ sông Thương](https://vnexpress.net/ba-ngay-chung-song-voi-lu-song-thuong-4950165.html) - 10:44 11/10/2025
 - ⚗️ [Quân đội cử bác sĩ đến các tỉnh ngập nặng phòng dịch sau lũ](https://vnexpress.net/quan-doi-cu-bac-si-den-cac-tinh-ngap-nang-phong-dich-sau-lu-4950199.html) - 10:27 11/10/2025
-- 🌊 [Chủ tịch Hà Nội: Xử lý tận gốc nguyên nhân gây ngập](https://vnexpress.net/chu-tich-ha-noi-xu-ly-tan-goc-nguyen-nhan-gay-ngap-4950190.html) - 10:07 11/10/2025
+- 🌊 [Chủ tịch Hà Nội: Thành phố bị động từ khâu dự báo sau bão Bualoi](https://vnexpress.net/chu-tich-ha-noi-thanh-pho-bi-dong-tu-khau-du-bao-sau-bao-bualoi-4950190.html) - 10:07 11/10/2025
 - 🎓 [Tổng Bí thư dự lễ khởi công xây trường nội trú ở xã biên giới Nghệ An](https://vnexpress.net/tong-bi-thu-du-le-khoi-cong-xay-truong-noi-tru-o-xa-bien-gioi-nghe-an-4950158.html) - 08:46 11/10/2025
 - 🔥 [Miền Bắc còn 12.900 nhà ngập, đê nguy cơ sạt trượt](https://vnexpress.net/mien-bac-con-12-900-nha-ngap-de-nguy-co-sat-truot-4950080.html) - 06:37 11/10/2025
 - 🦏 [Bất lực nhìn ngôi nhà cháy khiến 5 người chết ở Hà Nội](https://vnexpress.net/bat-luc-nhin-ngoi-nha-chay-khien-5-nguoi-chet-o-ha-noi-4950085.html) - 05:14 11/10/2025
