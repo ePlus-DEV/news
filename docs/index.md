@@ -67,7 +67,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [Robot chó do sinh viên chế tạo](https://vnexpress.net/robot-cho-do-sinh-vien-che-tao-4950057.html) - 10:30 11/10/2025
 - ⛽️ [Quân đội cử bác sĩ đến các tỉnh ngập nặng phòng dịch sau lũ](https://vnexpress.net/quan-doi-cu-bac-si-den-cac-tinh-ngap-nang-phong-dich-sau-lu-4950199.html) - 10:27 11/10/2025
 - 🚀 [Chung cư &#39;nội chiến&#39;](https://vnexpress.net/chung-cu-noi-chien-4950209.html) - 10:26 11/10/2025
-- 🪜 [Chủ tịch Hà Nội: Xử lý tận gốc nguyên nhân gây ngập](https://vnexpress.net/chu-tich-ha-noi-xu-ly-tan-goc-nguyen-nhan-gay-ngap-4950190.html) - 10:07 11/10/2025
+- 🪜 [Chủ tịch Hà Nội: Thành phố bị động từ khâu dự báo sau bão Bualoi](https://vnexpress.net/chu-tich-ha-noi-thanh-pho-bi-dong-tu-khau-du-bao-sau-bao-bualoi-4950190.html) - 10:07 11/10/2025
 - 🚦 [Mỹ, Trung, Thái Lan phối hợp bắt lượng ma túy kỷ lục trên Biển Đông](https://vnexpress.net/my-trung-thai-lan-phoi-hop-bat-luong-ma-tuy-ky-luc-tren-bien-dong-4950184.html) - 10:01 11/10/2025
 - 🕯 [Điểm tin 21h: Mỹ, Trung, Thái Lan phối hợp bắt lượng ma túy kỷ lục trên Biển Đông | Miền Bắc còn 12.900 nhà ngập, đê nguy cơ sạt trượt](https://vnexpress.net/diem-tin-21h-my-trung-thai-lan-phoi-hop-bat-luong-ma-tuy-ky-luc-tren-bien-dong-mien-bac-con-12-900-nha-ngap-de-nguy-co-sat-truot-4950193.html) - 09:55 11/10/2025
 - 💪 [Mỹ bắt đầu sa thải hơn 4.000 công chức khi chính phủ đóng cửa](https://vnexpress.net/my-bat-dau-sa-thai-hon-4-000-cong-chuc-khi-chinh-phu-dong-cua-4950175.html) - 09:30 11/10/2025
