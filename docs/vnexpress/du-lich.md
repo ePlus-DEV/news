@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [&#39;Kết đắng&#39; của du khách quá tin lời chat GPT](https://vnexpress.net/ket-dang-cua-du-khach-qua-tin-loi-chat-gpt-4950188.html) - 12:03 11/10/2025
-- 🪄 [Khám phá đường hầm như mê cung dưới lòng đất Vịnh Mốc](https://vnexpress.net/kham-pha-duong-ham-nhu-me-cung-duoi-long-dat-vinh-moc-4946246.html) - 11:00 11/10/2025
+- 🪄 [Đường hầm xuyên lòng đất Vịnh Mốc như mê cung](https://vnexpress.net/duong-ham-xuyen-long-dat-vinh-moc-nhu-me-cung-4946246.html) - 11:00 11/10/2025
 - 🦅 [Khách đến châu Âu phải lấy dấu vân tay, chụp ảnh](https://vnexpress.net/khach-den-chau-au-phai-lay-dau-van-tay-chup-anh-4950189.html) - 10:57 11/10/2025
 - 🕴 [Ba chén trà 200 kg bị lũ cuốn trôi ở Thái Nguyên](https://vnexpress.net/ba-chen-tra-200-kg-bi-lu-cuon-troi-o-thai-nguyen-4950098.html) - 04:59 11/10/2025
 - 👀 [Món cháo &#39;chết người&#39; nào thành đặc sản?](https://vnexpress.net/mon-chao-chet-nguoi-nao-thanh-dac-san-4950036.html) - 02:57 11/10/2025
