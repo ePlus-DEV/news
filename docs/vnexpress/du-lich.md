@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Món súp hơn 400 nghìn đồng gồm 5 loại rắn của Hong Kong](https://vnexpress.net/mon-sup-hon-400-nghin-dong-gom-5-loai-ran-cua-hong-kong-4950382.html) - 12:56 12/10/2025
+- 💂 [Bát súp hơn 400 nghìn đồng có 5 loại rắn ở Hong Kong](https://vnexpress.net/bat-sup-hon-400-nghin-dong-co-5-loai-ran-o-hong-kong-4950382.html) - 12:56 12/10/2025
 - 🪄 [Ẩm thực Việt hấp dẫn top đầu thế giới](https://vnexpress.net/am-thuc-viet-hap-dan-top-dau-the-gioi-4950316.html) - 09:52 12/10/2025
 - 🦅 [Ngôi làng nào trên thế giới không có đường đi?](https://vnexpress.net/ngoi-lang-nao-tren-the-gioi-khong-co-duong-di-4950328.html) - 09:06 12/10/2025
 - 🕴 [Một ngày ở Tả Van - ngôi làng Việt Nam đẹp nhất châu Á](https://vnexpress.net/mot-ngay-o-ta-van-ngoi-lang-viet-nam-dep-nhat-chau-a-4941763.html) - 05:26 12/10/2025
