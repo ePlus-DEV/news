@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [16 trường New Zealand tuyển thẳng học sinh Việt bằng học bạ](https://vnexpress.net/16-truong-new-zealand-tuyen-thang-hoc-sinh-viet-bang-hoc-ba-4950445.html) - 17:31 12/10/2025
+- 🤓 [8 trường New Zealand tuyển thẳng học sinh Việt bằng học bạ](https://vnexpress.net/8-truong-new-zealand-tuyen-thang-hoc-sinh-viet-bang-hoc-ba-4950445.html) - 17:31 12/10/2025
 - 🦆 [Nước nào sở hữu lượng đất hiếm lớn thứ ba thế giới?](https://vnexpress.net/nuoc-nao-so-huu-luong-dat-hiem-lon-thu-ba-the-gioi-4950300.html) - 13:00 12/10/2025
 - 🦩 [Australia thăng hạng trên bảng xếp hạng đại học thế giới](https://vnexpress.net/australia-thang-hang-tren-bang-xep-hang-dai-hoc-the-gioi-4950357.html) - 07:50 12/10/2025
 - 🌮 [Australia rút lại đề xuất giới hạn tuyển sinh quốc tế](https://vnexpress.net/australia-rut-lai-de-xuat-gioi-han-tuyen-sinh-quoc-te-4950240.html) - 02:16 12/10/2025
