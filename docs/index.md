@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Xả súng tại quán bar Mỹ, 4 người chết](https://vnexpress.net/xa-sung-tai-quan-bar-my-4-nguoi-chet-4950452.html) - 15:55 12/10/2025
+- 🚀 [Xả súng tại quán bar Mỹ, ít nhất 4 người chết](https://vnexpress.net/xa-sung-tai-quan-bar-my-it-nhat-4-nguoi-chet-4950452.html) - 15:55 12/10/2025
 - 🧰 [Niềm tin tiêu dùng của người Mỹ thấp nhất 5 tháng](https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-nhat-5-thang-4950386.html) - 15:13 12/10/2025
 - 🥰 [Diane Keaton - biểu tượng thời trang vượt thời gian](https://vnexpress.net/diane-keaton-bieu-tuong-thoi-trang-vuot-thoi-gian-4950409.html) - 14:00 12/10/2025
 - 🌏 [Tôi thành gánh nặng của đồng nghiệp khi làm việc không hiệu quả](https://vnexpress.net/toi-thanh-ganh-nang-cua-dong-nghiep-khi-lam-viec-khong-hieu-qua-4950395.html) - 14:00 12/10/2025
