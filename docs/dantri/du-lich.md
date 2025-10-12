@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Khám phá ẩm thực 5 châu giá vài chục nghìn đồng ở Lễ hội Văn hóa Thế giới](https://dantri.com.vn/du-lich/kham-pha-am-thuc-5-chau-gia-vai-chuc-nghin-dong-o-le-hoi-van-hoa-the-gioi-20251012145604081.htm) - 08:20 12/10/2025
-- 🥰 [Hãng bay giá rẻ gây tranh cãi khi thu tiền hành khách khi ngả ghế](https://dantri.com.vn/du-lich/hang-bay-gia-re-gay-tranh-cai-khi-thu-tien-hanh-khach-khi-nga-ghe-20251012113744568.htm) - 07:00 12/10/2025
+- 🥰 [Hãng bay giá rẻ gây tranh cãi khi thu tiền hành khách khi ngả ghế](https://dantri.com.vn/du-lich/hang-bay-gia-re-gay-tranh-cai-khi-thu-tien-hanh-khach-khi-nga-ghe-20251012113744568.htm) - 08:00 12/10/2025
 - 🐻 [Du khách nhảy khỏi tàu giữa biển Thái Lan, đòi tự bơi vào bờ](https://dantri.com.vn/du-lich/du-khach-nhay-khoi-tau-giua-bien-thai-lan-doi-tu-boi-vao-bo-20251012103201390.htm) - 03:42 12/10/2025
 - 🤩 [Sau video tai nạn tàu đâm bàn ghế, phố cà phê đường tàu vẫn nhộn nhịp khách](https://dantri.com.vn/du-lich/sau-video-tai-nan-tau-dam-ban-ghe-pho-ca-phe-duong-tau-van-nhon-nhip-khach-20251012090914423.htm) - 02:10 12/10/2025
 - 🕴 [Quán cà phê Nhật Bản chỉ đón 10 khách, bắt &quot;chạy deadline&quot; xong mới được về](https://dantri.com.vn/du-lich/quan-ca-phe-nhat-ban-chi-don-10-khach-bat-chay-deadline-xong-moi-duoc-ve-20251011201133703.htm) - 23:02 11/10/2025
