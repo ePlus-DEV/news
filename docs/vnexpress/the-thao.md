@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [&#39;Hậu cung&#39; của F1 - khi sắc đẹp và tốc độ song hành](https://vnexpress.net/hau-cung-cua-f1-khi-sac-dep-va-toc-do-song-hanh-4950088.html) - 05:15 12/10/2025
-- 🦩 [HLV Kluivert đau lòng khi chứng kiến cầu thủ Indonesia suy sụp](https://vnexpress.net/hlv-kluivert-dau-long-khi-chung-kien-cau-thu-indonesia-suy-sup-4950321.html) - 05:07 12/10/2025
+- 🦩 [HLV Kluivert: &#39;Thật khó chấp nhận khi Indonesia lỡ World Cup&#39;](https://vnexpress.net/hlv-kluivert-that-kho-chap-nhan-khi-indonesia-lo-world-cup-4950321.html) - 05:07 12/10/2025
 - 🧰 [Thủ quân Indonesia: &#39;Chúng tôi phải tự trách mình&#39;](https://vnexpress.net/thu-quan-indonesia-chung-toi-phai-tu-trach-minh-4950298.html) - 03:08 12/10/2025
 - 🤗 [Messi lập cú đúp trong ngày Inter Miami đại thắng](https://vnexpress.net/messi-lap-cu-dup-trong-ngay-inter-miami-dai-thang-4950297.html) - 02:46 12/10/2025
 - 🥳 [CĐV Indonesia hô vang Shin Tae-yong](https://vnexpress.net/cdv-indonesia-ho-vang-shin-tae-yong-4950276.html) - 01:42 12/10/2025
