@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Lũ dữ đánh sập cầu ở Lạng Sơn, nhiều hộ dân bị ảnh hưởng nghiêm trọng](https://dantri.com.vn/tam-long-nhan-ai/lu-du-danh-sap-cau-o-lang-son-nhieu-ho-dan-bi-anh-huong-nghiem-trong-20251010225724126.htm) - 23:00 11/10/2025
-- 🌜 [Báo Dân trí là đơn vị đầu tiên tặng quà, hỗ trợ học sinh Vị Xuyên](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-la-don-vi-dau-tien-tang-qua-ho-tro-hoc-sinh-vi-xuyen-20251011192340532.htm) - 16:30 11/10/2025
+- 🌜 [Báo Dân trí trao yêu thương của bạn đọc đến học sinh vùng lũ Vị Xuyên](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-yeu-thuong-cua-ban-doc-den-hoc-sinh-vung-lu-vi-xuyen-20251011192340532.htm) - 16:30 11/10/2025
 - 👀 [Bạn đọc giúp đỡ cậu bé ngủ ngồi 10 năm hơn 255 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-giup-do-cau-be-ngu-ngoi-10-nam-hon-255-trieu-dong-20251011120858373.htm) - 10:19 11/10/2025
 - 🚀 [“Được bạn đọc báo Dân trí giúp đỡ, tôi có tiền đến viện”](https://dantri.com.vn/tam-long-nhan-ai/duoc-ban-doc-bao-dan-tri-giup-do-toi-co-tien-den-vien-20251011072331283.htm) - 10:07 11/10/2025
 - 🦅 [Người mẹ trẻ dân tộc Hà Nhì gồng mình nuôi con bại não, chồng viêm gan cấp](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-tre-dan-toc-ha-nhi-gong-minh-nuoi-con-bai-nao-chong-viem-gan-cap-20251009143823828.htm) - 22:30 10/10/2025
