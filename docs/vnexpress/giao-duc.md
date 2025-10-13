@@ -36,7 +36,7 @@ sidebar_position: 7
 - 🪜 [Mỹ cân nhắc giới hạn chỉ 15% sinh viên quốc tế](https://vnexpress.net/my-can-nhac-gioi-han-chi-15-sinh-vien-quoc-te-4948968.html) - 16:30 08/10/2025
 - 🕴 [Đại học miễn học phí, tặng 3 triệu mỗi tháng cho thí sinh đỗ thẳng](https://vnexpress.net/dai-hoc-mien-hoc-phi-tang-3-trieu-moi-thang-cho-thi-sinh-do-thang-4948987.html) - 12:28 08/10/2025
 - 🎃 [Nước nào có dân số trẻ nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-dan-so-tre-nhat-dong-nam-a-4948932.html) - 12:00 08/10/2025
-- 🦏 [TP HCM dự kiến sáp nhập hơn 30 đại học, cao đẳng, trung cấp](https://vnexpress.net/tp-hcm-du-kien-sap-nhap-hon-30-dai-hoc-cao-dang-trung-cap-4948722.html) - 07:18 08/10/2025
+- 🦏 [Dự kiến sáp nhập hơn 30 đại học, cao đẳng, trung cấp ở TP HCM](https://vnexpress.net/du-kien-sap-nhap-hon-30-dai-hoc-cao-dang-trung-cap-o-tp-hcm-4948722.html) - 07:18 08/10/2025
 - 🧑‍🏫 [&#39;Khó khả thi&#39; khi cách ly học sinh phạm lỗi](https://vnexpress.net/kho-kha-thi-khi-cach-ly-hoc-sinh-pham-loi-4948626.html) - 07:08 08/10/2025
 - 💡 [Nhiều trường ở Hà Nội học online ngày thứ ba liên tiếp](https://vnexpress.net/nhieu-truong-o-ha-noi-hoc-online-ngay-thu-ba-lien-tiep-4948519.html) - 16:50 07/10/2025
 - 🐎 [Nước nào có GDP bình quân đầu người cao nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-gdp-binh-quan-dau-nguoi-cao-nhat-dong-nam-a-4948410.html) - 13:00 07/10/2025
