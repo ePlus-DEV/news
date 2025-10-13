@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Bắt được cá sấu 80 kg nghi tấn công người ở Khánh Hòa](https://vnexpress.net/bat-duoc-ca-sau-80-kg-nghi-tan-cong-nguoi-o-khanh-hoa-4950834.html) - 09:31 13/10/2025
 - 🦏 [Lật xe khách, ba người chết](https://vnexpress.net/lat-xe-khach-ba-nguoi-chet-4950789.html) - 09:19 13/10/2025
 - 👺 [Thiệt hại do mưa bão được thống kê như thế nào](https://vnexpress.net/thiet-hai-do-mua-bao-duoc-thong-ke-nhu-the-nao-4949775.html) - 08:59 13/10/2025
-- 🧑‍🏫 [Chủ tịch Hà Nội: Không nạo vét sông hồ do không có chỗ đổ bùn](https://vnexpress.net/chu-tich-ha-noi-khong-nao-vet-song-ho-do-khong-co-cho-do-bun-4950716.html) - 08:26 13/10/2025
+- 🧑‍🏫 [Chủ tịch Hà Nội: Không nạo vét sông hồ do không có chỗ đổ bùn đúng quy định](https://vnexpress.net/chu-tich-ha-noi-khong-nao-vet-song-ho-do-khong-co-cho-do-bun-dung-quy-dinh-4950716.html) - 08:26 13/10/2025
 - 🚦 [&#39;Chủ tịch tỉnh, xã phải tiếp công dân, không được ủy quyền&#39;](https://vnexpress.net/chu-tich-tinh-xa-phai-tiep-cong-dan-khong-duoc-uy-quyen-4950730.html) - 07:48 13/10/2025
 - 🎉 [TP HCM có thêm công viên 17.000 m2](https://vnexpress.net/tp-hcm-co-them-cong-vien-17-000-m2-4950750.html) - 07:39 13/10/2025
 - 🦒 [Nhiều tổ chức quốc tế hỗ trợ Việt Nam khắc phục hậu quả thiên tai](https://vnexpress.net/nhieu-to-chuc-quoc-te-ho-tro-viet-nam-khac-phuc-hau-qua-thien-tai-4950703.html) - 07:23 13/10/2025
