@@ -406,7 +406,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [18 sản phẩm công nghệ vào chung kết Nhân tài Đất Việt 2025](https://baochinhphu.vn/18-san-pham-cong-nghe-vao-chung-ket-nhan-tai-dat-viet-2025-102251013102147993.htm) - 10:28 13/10/2025
-- 🌜 [TRỰC TIẾP: Khai mạc Đại hội đại biểu Đảng bộ Chính phủ lần thứ I](https://baochinhphu.vn/khai-mac-dai-hoi-dai-bieu-dang-bo-chinh-phu-lan-thu-i-102251013080435261.htm) - 10:15 13/10/2025
+- 🌜 [Khai mạc Đại hội đại biểu Đảng bộ Chính phủ lần thứ I](https://baochinhphu.vn/khai-mac-dai-hoi-dai-bieu-dang-bo-chinh-phu-lan-thu-i-102251013080435261.htm) - 10:15 13/10/2025
 - 🦆 [Phấn đấu tăng trưởng kinh tế giai đoạn 2026-2030 đạt tốc độ cao](https://baochinhphu.vn/phan-dau-tang-truong-kinh-te-giai-doan-2026-2030-dat-toc-do-cao-102251013095954645.htm) - 10:14 13/10/2025
 - 🌝 [Thủ tướng Phạm Minh Chính: Đảng bộ Chính phủ quyết tâm phấn đấu là một trong những Đảng bộ tiên phong, gương mẫu đi đầu trong triển khai Nghị quyết Đại hội XIV của Đảng](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-dang-bo-chinh-phu-quyet-tam-phan-dau-la-mot-trong-nhung-dang-bo-tien-phong-guong-mau-di-dau-trong-trien-khai-nghi-quyet-dai-hoi-xiv-cua-dang-102251013092901415.htm) - 09:34 13/10/2025
 - 🦣 [Chùm ảnh: Khai mạc trọng thể Đại hội đại biểu Đảng bộ Chính phủ lần thứ I](https://baochinhphu.vn/chum-anh-khai-mac-trong-the-dai-hoi-dai-bieu-dang-bo-chinh-phu-lan-thu-i-102251013090525743.htm) - 09:15 13/10/2025
