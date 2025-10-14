@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Thứ trưởng Bộ Nội vụ: &quot;Sáng kiến an toàn giao thông có sức lan tỏa mạnh mẽ&quot;](https://dantri.com.vn/thoi-su/thu-truong-bo-noi-vu-sang-kien-an-toan-giao-thong-co-suc-lan-toa-manh-me-20251014165420314.htm) - 12:06 14/10/2025
+- 🤠 [&quot;Sáng kiến an toàn giao thông có sức lan tỏa mạnh mẽ&quot;](https://dantri.com.vn/thoi-su/sang-kien-an-toan-giao-thong-co-suc-lan-toa-manh-me-20251014165420314.htm) - 12:06 14/10/2025
 - 🌈 [&quot;Cảm xúc rưng rưng, niềm tự hào là người Nội vụ luôn vẹn nguyên trong tôi&quot;](https://dantri.com.vn/noi-vu/cam-xuc-rung-rung-niem-tu-hao-la-nguoi-noi-vu-luon-ven-nguyen-trong-toi-20251014160519997.htm) - 09:47 14/10/2025
 - 🐎 [Shark Bình: Hành trình từ “cá mập” công nghệ tới sa chân vào lao lý](https://dantri.com.vn/cong-nghe/shark-binh-hanh-trinh-tu-ca-map-cong-nghe-toi-sa-chan-vao-lao-ly-20251014163309122.htm) - 09:46 14/10/2025
 - 👹 [Toàn văn phát biểu chỉ đạo của Tổng Bí thư Tô Lâm tại Đại hội Đảng bộ TPHCM](https://dantri.com.vn/thoi-su/toan-van-phat-bieu-chi-dao-cua-tong-bi-thu-to-lam-tai-dai-hoi-dang-bo-tphcm-20251014123526213.htm) - 06:02 14/10/2025
