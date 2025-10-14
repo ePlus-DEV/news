@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Nepal nói gì khi Nepal suýt cầm hòa đội tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-nepal-noi-gi-khi-nepal-suyt-cam-hoa-doi-tuyen-viet-nam-20251014220558410.htm) - 15:06 14/10/2025
+- 🎡 [HLV Nepal: &quot;Chúng tôi không may khi thua bởi bàn phản lưới nhà&quot;](https://dantri.com.vn/the-thao/hlv-nepal-chung-toi-khong-may-khi-thua-boi-ban-phan-luoi-nha-20251014220558410.htm) - 15:06 14/10/2025
 - 💯 [HLV Kim Sang Sik trả lời họp báo sau trận thắng khó khăn Nepal](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tra-loi-hop-bao-sau-tran-thang-kho-khan-nepal-20251014215930356.htm) - 15:00 14/10/2025
 - ⛽️ [Ngược dòng không tưởng, Nhật Bản tạo địa chấn khi đánh bại Brazil](https://dantri.com.vn/the-thao/nguoc-dong-khong-tuong-nhat-ban-tao-dia-chan-khi-danh-bai-brazil-20251014200413652.htm) - 13:07 14/10/2025
 - 💃 [Supachok tỏa sáng, đội tuyển Thái Lan thắng 6-1 ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/supachok-toa-sang-doi-tuyen-thai-lan-thang-6-1-o-vong-loai-asian-cup-20251014201301145.htm) - 13:01 14/10/2025
