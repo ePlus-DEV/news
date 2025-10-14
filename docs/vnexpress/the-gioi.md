@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Ông Biden, Clinton ca ngợi Tổng thống Trump vì thỏa thuận Gaza](https://vnexpress.net/ong-biden-clinton-ca-ngoi-tong-thong-trump-vi-thoa-thuan-gaza-4951246.html) - 10:32 14/10/2025
 - 🕴 [Tòa châu Âu yêu cầu Nga bồi thường gần 300 triệu USD cho Gruzia](https://vnexpress.net/toa-chau-au-yeu-cau-nga-boi-thuong-gan-300-trieu-usd-cho-gruzia-4951308.html) - 10:30 14/10/2025
-- 🤭 [Mỹ thay thế loạt lính Vệ binh Quốc gia béo phì](https://vnexpress.net/my-thay-the-loat-linh-ve-binh-quoc-gia-beo-phi-4951329.html) - 10:07 14/10/2025
+- 🤭 [Mỹ điều chuyển loạt lính vệ binh béo phì triển khai tới Chicago](https://vnexpress.net/my-dieu-chuyen-loat-linh-ve-binh-beo-phi-trien-khai-toi-chicago-4951329.html) - 10:07 14/10/2025
 - 🧑‍💻 [Công ty Mỹ cắt buồng lái, biến trực thăng thành UAV vận tải](https://vnexpress.net/cong-ty-my-cat-buong-lai-bien-truc-thang-thanh-uav-van-tai-4951236.html) - 09:51 14/10/2025
 - 🦏 [Hàn Quốc truy vết tài khoản nam sinh bị tra tấn đến chết ở Campuchia](https://vnexpress.net/han-quoc-truy-vet-tai-khoan-nam-sinh-bi-tra-tan-den-chet-o-campuchia-4951228.html) - 09:32 14/10/2025
 - 🦒 [Ông Trump nói đùa khi gọi nhầm Thủ tướng Canada là Tổng thống](https://vnexpress.net/ong-trump-noi-dua-khi-goi-nham-thu-tuong-canada-la-tong-thong-4951250.html) - 08:52 14/10/2025
