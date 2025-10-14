@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Malaysia khiến Lào hết cửa dự Asian Cup 2027](https://vnexpress.net/malaysia-khien-lao-het-cua-du-asian-cup-2027-4951393.html) - 14:57 14/10/2025
 - 🦩 [Nhật Bản lần đầu thắng Brazil sau hơn 30 năm](https://vnexpress.net/nhat-ban-lan-dau-thang-brazil-sau-hon-30-nam-4951395.html) - 12:56 14/10/2025
-- 🧰 [Thắng 6-1, Thái Lan lên đầu bảng vòng loại cuối Asian Cup 2027](https://vnexpress.net/thang-6-1-thai-lan-len-dau-bang-vong-loai-cuoi-asian-cup-2027-4951389.html) - 12:28 14/10/2025
+- 🧰 [Thái Lan đại thắng ở vòng loại cuối Asian Cup 2027](https://vnexpress.net/thai-lan-dai-thang-o-vong-loai-cuoi-asian-cup-2027-4951389.html) - 12:28 14/10/2025
 - 🤗 [Việt Nam thắng nhờ bàn phản lưới ở vòng loại Asian Cup](https://vnexpress.net/truc-tiep-tran-nepal-vs-viet-nam-o-vong-loai-asian-cup-2027-4951169-tong-thuat.html) - 11:30 14/10/2025
 - 🥳 [Bí mật nghề đầu bếp riêng cho các ngôi sao Ngoại hạng Anh](https://vnexpress.net/bi-mat-nghe-dau-bep-rieng-cho-cac-ngoi-sao-ngoai-hang-anh-4948651.html) - 08:05 14/10/2025
 - 🦣 [10 cú úp rổ hay nhất lịch sử NBA](https://vnexpress.net/10-cu-up-ro-hay-nhat-lich-su-nba-4951199.html) - 08:04 14/10/2025
