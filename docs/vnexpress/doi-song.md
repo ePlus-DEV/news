@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người miền Trung &#39;trả ân tình&#39; cho vùng lũ phía Bắc](https://vnexpress.net/nguoi-mien-trung-tra-an-tinh-cho-vung-lu-phia-bac-4951037.html) - 07:01 14/10/2025
+- 🚀 [Người miền Trung &#39;đáp ân tình&#39; vùng lũ phía Bắc](https://vnexpress.net/nguoi-mien-trung-dap-an-tinh-vung-lu-phia-bac-4951037.html) - 07:01 14/10/2025
 - 🎓 [Triệu phú có 11 ngôi nhà nhưng sống cô đơn](https://vnexpress.net/trieu-phu-co-11-ngoi-nha-nhung-song-co-don-4950963.html) - 04:17 14/10/2025
 - 🚦 [Cậu bé xăm kín mặt làm lại cuộc đời](https://vnexpress.net/cau-be-xam-kin-mat-lam-lai-cuoc-doi-4950873.html) - 01:48 14/10/2025
 - 🦣 [Người nước ngoài ấn tượng tinh thần Việt trong bão lũ](https://vnexpress.net/nguoi-nuoc-ngoai-an-tuong-tinh-than-viet-trong-bao-lu-4950929.html) - 00:54 14/10/2025
