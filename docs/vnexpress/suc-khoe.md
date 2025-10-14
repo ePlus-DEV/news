@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Sibutramine trong sản phẩm Ngân 98 - chất cấm gây hôn mê, tổn thương não](https://vnexpress.net/sibutramine-trong-san-pham-ngan-98-chat-cam-gay-hon-me-ton-thuong-nao-4950996.html) - 03:31 14/10/2025
+- 🔥 [Sibutramine trong sản phẩm giảm cân gây hôn mê, tổn thương não](https://vnexpress.net/sibutramine-trong-san-pham-giam-can-gay-hon-me-ton-thuong-nao-4950996.html) - 03:31 14/10/2025
 - 🥰 [Cơn bão giáp là gì?](https://vnexpress.net/con-bao-giap-la-gi-4951019.html) - 03:00 14/10/2025
 - 💡 [Phẫu thuật &#39;2 trong 1&#39; chữa ung thư vú, phòng ung thư buồng trứng](https://vnexpress.net/phau-thuat-2-trong-1-chua-ung-thu-vu-phong-ung-thu-buong-trung-4951010.html) - 03:00 14/10/2025
 - 🤗 [Sốc tim do biến chứng nhồi máu cơ tim](https://vnexpress.net/soc-tim-do-bien-chung-nhoi-mau-co-tim-4950990.html) - 03:00 14/10/2025
