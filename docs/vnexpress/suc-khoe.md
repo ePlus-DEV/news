@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Tổng đài cấp cứu 115 TP HCM bị than phiền &#39;hỏi rườm rà&#39;](https://vnexpress.net/cap-cuu-115-tp-hcm-bi-than-phien-hoi-ruom-ra-luc-benh-nhan-nguy-kich-4951191.html) - 12:01 14/10/2025
+- 🔥 [115 TP HCM bị than phiền quy trình nhận cuộc gọi cấp cứu dài dòng](https://vnexpress.net/115-tp-hcm-bi-than-phien-quy-trinh-nhan-cuoc-goi-cap-cuu-dai-dong-4951191.html) - 12:01 14/10/2025
 - 🥰 [Uống nước lá tía tô có làm ấm cơ thể, ngừa đau họng?](https://vnexpress.net/uong-nuoc-la-tia-to-co-lam-am-co-the-ngua-dau-hong-4951355.html) - 12:00 14/10/2025
 - 💡 [Nguyên nhân trẻ viêm mũi họng khi giao mùa](https://vnexpress.net/nguyen-nhan-tre-viem-mui-hong-khi-giao-mua-4951253.html) - 10:00 14/10/2025
 - 🤗 [9 thói quen phụ nữ nên dừng ngay nếu muốn giảm cân](https://vnexpress.net/9-thoi-quen-phu-nu-nen-dung-ngay-neu-muon-giam-can-4951147.html) - 09:30 14/10/2025
