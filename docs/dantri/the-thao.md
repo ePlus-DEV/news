@@ -6,8 +6,8 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Ngược dòng không tưởng, Nhật Bản tạo địa chấn khi đánh bại Brazil](https://dantri.com.vn/the-thao/nguoc-dong-khong-tuong-nhat-ban-tao-dia-chan-khi-danh-bai-brazil-20251014200413652.htm) - 13:07 14/10/2025
 - 💯 [Supachok tỏa sáng, đội tuyển Thái Lan thắng 6-1 ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/supachok-toa-sang-doi-tuyen-thai-lan-thang-6-1-o-vong-loai-asian-cup-20251014201301145.htm) - 13:01 14/10/2025
-- ⛽️ [Malaysia 1-1 Lào &lpar;hiệp 2&rpar;: Cú sút phạt đẹp mắt](https://dantri.com.vn/the-thao/malaysia-1-1-lao-hiep-2-cu-sut-phat-dep-mat-20251014194918287.htm) - 12:49 14/10/2025
-- 💃 [Đội tuyển Nepal 0-1 Việt Nam &lpar;hiệp 2&rpar;: Đội khách vùng lên](https://dantri.com.vn/the-thao/doi-tuyen-nepal-0-1-viet-nam-hiep-2-doi-khach-vung-len-20251014183303656.htm) - 11:34 14/10/2025
+- ⛽️ [Malaysia 5-1 Lào &lpar;hiệp 2&rpar;: Không thể chống đỡ](https://dantri.com.vn/the-thao/malaysia-5-1-lao-hiep-2-khong-the-chong-do-20251014194918287.htm) - 12:49 14/10/2025
+- 💃 [Đội tuyển Nepal 0-1 Việt Nam &lpar;hiệp 2&rpar;: Bóng đập cột dọc lần thứ ba](https://dantri.com.vn/the-thao/doi-tuyen-nepal-0-1-viet-nam-hiep-2-bong-dap-cot-doc-lan-thu-ba-20251014183303656.htm) - 11:34 14/10/2025
 - 🌈 [Ngôi sao nhập tịch danh giá của Malaysia bất ngờ bị đối xử phũ phàng](https://dantri.com.vn/the-thao/ngoi-sao-nhap-tich-danh-gia-cua-malaysia-bat-ngo-bi-doi-xu-phu-phang-20251014174529924.htm) - 10:45 14/10/2025
 - 🦅 [Báo Thái Lan bình luận khi chứng kiến tuyển Indonesia vỡ mộng dự World Cup](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-khi-chung-kien-tuyen-indonesia-vo-mong-du-world-cup-20251014155317592.htm) - 09:06 14/10/2025
 - 🌝 [HLV Kluivert lặng lẽ bỏ về Hà Lan, đối diện với áp lực bị Indonesia sa thải](https://dantri.com.vn/the-thao/hlv-kluivert-lang-le-bo-ve-ha-lan-doi-dien-voi-ap-luc-bi-indonesia-sa-thai-20251014104049199.htm) - 07:15 14/10/2025
