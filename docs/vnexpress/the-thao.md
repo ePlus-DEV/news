@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Bí mật nghề đầu bếp riêng cho các ngôi sao Ngoại hạng Anh](https://vnexpress.net/bi-mat-nghe-dau-bep-rieng-cho-cac-ngoi-sao-ngoai-hang-anh-4948651.html) - 08:05 14/10/2025
 - 🦩 [10 cú úp rổ hay nhất lịch sử NBA](https://vnexpress.net/10-cu-up-ro-hay-nhat-lich-su-nba-4951199.html) - 08:04 14/10/2025
 - 🧰 [Barca từ chối đề nghị 463 triệu USD cho Yamal](https://vnexpress.net/barca-tu-choi-de-nghi-463-trieu-usd-cho-yamal-4951249.html) - 08:03 14/10/2025
-- 🤗 [Nữ thần điền kinh Anh: &#39;Luôn coi trọng huy chương hơn đàn ông&#39;](https://vnexpress.net/nu-than-dien-kinh-anh-luon-coi-trong-huy-chuong-hon-dan-ong-4951091.html) - 05:45 14/10/2025
+- 🤗 [Nữ thần điền kinh Anh: &#39;Huy chương trước đàn ông&#39;](https://vnexpress.net/nu-than-dien-kinh-anh-huy-chuong-truoc-dan-ong-4951091.html) - 05:45 14/10/2025
 - 🥳 [Nepal - Việt Nam: Chờ bữa tiệc bàn thắng của thầy trò Kim Sang-sik](https://vnexpress.net/nepal-viet-nam-cho-bua-tiec-ban-thang-cua-thay-tro-kim-sang-sik-4951155.html) - 05:14 14/10/2025
 - 🦣 [Mbappe chạm hai kỷ lục hiếm có ở Real Madrid](https://vnexpress.net/mbappe-cham-hai-ky-luc-hiem-co-o-real-madrid-4950948.html) - 03:47 14/10/2025
 - 🌜 [Nguồn gốc sức mạnh của quân hậu trong cờ vua](https://vnexpress.net/nguon-goc-suc-manh-cua-quan-hau-trong-co-vua-4950263.html) - 03:18 14/10/2025
