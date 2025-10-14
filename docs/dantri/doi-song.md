@@ -4,10 +4,10 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Khoai Lang Thang: Về miền Tây, khám phá nguyên liệu đặc biệt từ đồng lúa trù phú](https://dantri.com.vn/doi-song/khoai-lang-thang-ve-mien-tay-kham-pha-nguyen-lieu-dac-biet-tu-dong-lua-tru-phu-20251014154205094.htm) - 09:20 14/10/2025
-- 🌁 [Cô gái lặng lẽ rời bệnh viện bỏ lại bé trai sơ sinh](https://dantri.com.vn/doi-song/co-gai-lang-le-roi-benh-vien-bo-lai-be-trai-so-sinh-20251014112423410.htm) - 06:19 14/10/2025
-- 👀 [Giấu tiền, vàng ở giát giường, người mẹ lục tung nhà, bãi rác sau lũ](https://dantri.com.vn/doi-song/giau-tien-vang-o-giat-giuong-nguoi-me-luc-tung-nha-bai-rac-sau-lu-20251014114329271.htm) - 06:16 14/10/2025
-- 🐻 [Cô gái hủy hôn, trả sính lễ nhưng đòi trừ &quot;phí ôm&quot; gây tranh cãi](https://dantri.com.vn/doi-song/co-gai-huy-hon-tra-sinh-le-nhung-doi-tru-phi-om-gay-tranh-cai-20251013192641473.htm) - 05:00 14/10/2025
+- 🥳 [Triệu phú sở hữu 11 căn nhà: Giàu có nhưng lại cô đơn](https://dantri.com.vn/doi-song/trieu-phu-so-huu-11-can-nha-giau-co-nhung-lai-co-don-20251014160814818.htm) - 13:20 14/10/2025
+- 🌁 [Cô gái hủy hôn, trả sính lễ nhưng đòi trừ &quot;phí ôm&quot; gây tranh cãi](https://dantri.com.vn/doi-song/co-gai-huy-hon-tra-sinh-le-nhung-doi-tru-phi-om-gay-tranh-cai-20251013192641473.htm) - 09:00 14/10/2025
+- 👀 [Cô gái lặng lẽ rời bệnh viện bỏ lại bé trai sơ sinh](https://dantri.com.vn/doi-song/co-gai-lang-le-roi-benh-vien-bo-lai-be-trai-so-sinh-20251014112423410.htm) - 06:19 14/10/2025
+- 🐻 [Giấu tiền, vàng ở giát giường, người mẹ lục tung nhà, bãi rác sau lũ](https://dantri.com.vn/doi-song/giau-tien-vang-o-giat-giuong-nguoi-me-luc-tung-nha-bai-rac-sau-lu-20251014114329271.htm) - 06:16 14/10/2025
 - 🦅 [Cậu bé ở Bắc Ninh hát tặng chiến sĩ bộ đội giúp hộ đê hút 5 triệu lượt xem](https://dantri.com.vn/doi-song/cau-be-o-bac-ninh-hat-tang-chien-si-bo-doi-giup-ho-de-hut-5-trieu-luot-xem-20251013210843104.htm) - 03:16 14/10/2025
 - 🦩 [Từ vụ Ngân 98: Khi lối sống &quot;khoe thân, khoe của&quot; thành công cụ kiếm tiền](https://dantri.com.vn/doi-song/tu-vu-ngan-98-khi-loi-song-khoe-than-khoe-cua-thanh-cong-cu-kiem-tien-20251013203620555.htm) - 00:00 14/10/2025
 - 🦏 [Vợ chồng tích cóp 1,5 tỷ đồng, không mua nổi nhà Hà Nội vì chờ... giảm giá](https://dantri.com.vn/doi-song/vo-chong-tich-cop-15-ty-dong-khong-mua-noi-nha-ha-noi-vi-cho-giam-gia-20251008223950637.htm) - 23:02 13/10/2025
