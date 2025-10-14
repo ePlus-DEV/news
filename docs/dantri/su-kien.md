@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [&quot;Đúng lúc nhà vừa hết gạo thì được bạn đọc Dân trí hỗ trợ&quot;](https://dantri.com.vn/tam-long-nhan-ai/dung-luc-nha-vua-het-gao-thi-duoc-ban-doc-dan-tri-ho-tro-20251014184734270.htm) - 13:08 14/10/2025
 - 👨‍🏫 [&quot;Sáng kiến an toàn giao thông có sức lan tỏa mạnh mẽ&quot;](https://dantri.com.vn/thoi-su/sang-kien-an-toan-giao-thong-co-suc-lan-toa-manh-me-20251014165420314.htm) - 12:06 14/10/2025
-- 🌮 [Đội tuyển Nepal 0-1 Việt Nam &lpar;hiệp 2&rpar;: Đội khách vùng lên](https://dantri.com.vn/the-thao/doi-tuyen-nepal-0-1-viet-nam-hiep-2-doi-khach-vung-len-20251014183303656.htm) - 11:34 14/10/2025
+- 🌮 [Đội tuyển Nepal 0-1 Việt Nam &lpar;hiệp 2&rpar;: Bóng đập cột dọc lần thứ ba](https://dantri.com.vn/the-thao/doi-tuyen-nepal-0-1-viet-nam-hiep-2-bong-dap-cot-doc-lan-thu-ba-20251014183303656.htm) - 11:34 14/10/2025
 - 🕯 [&quot;Cảm xúc rưng rưng, niềm tự hào là người Nội vụ luôn vẹn nguyên trong tôi&quot;](https://dantri.com.vn/noi-vu/cam-xuc-rung-rung-niem-tu-hao-la-nguoi-noi-vu-luon-ven-nguyen-trong-toi-20251014160519997.htm) - 09:47 14/10/2025
 - 🪜 [Hiện thực hóa khát vọng TPHCM vươn ra biển](https://dantri.com.vn/thoi-su/hien-thuc-hoa-khat-vong-tphcm-vuon-ra-bien-20251011144453261.htm) - 08:15 14/10/2025
 - 🐘 [Shark Bình bị bắt cùng 9 đồng phạm](https://dantri.com.vn/phap-luat/shark-binh-bi-bat-cung-9-dong-pham-20251014152234781.htm) - 06:50 14/10/2025
