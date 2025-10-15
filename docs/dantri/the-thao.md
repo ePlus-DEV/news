@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Đông Nam Á nhận xét về chiến thắng nhọc nhằn của tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-dong-nam-a-nhan-xet-ve-chien-thang-nhoc-nhan-cua-tuyen-viet-nam-20251015200042444.htm) - 13:00 15/10/2025
-- 💯 [Cầu thủ Việt Nam lọt top 60 tài năng trẻ hay nhất, báo Indonesia lên tiếng](https://dantri.com.vn/the-thao/cau-thu-viet-nam-lot-top-60-tai-nang-tre-hay-nhat-bao-indonesia-len-tieng-20251015193522292.htm) - 12:45 15/10/2025
+- 🎡 [Cầu thủ Việt Nam lọt top 60 tài năng trẻ hay nhất, báo Indonesia lên tiếng](https://dantri.com.vn/the-thao/cau-thu-viet-nam-lot-top-60-tai-nang-tre-hay-nhat-bao-indonesia-len-tieng-20251015193522292.htm) - 13:45 15/10/2025
+- 💯 [Báo Đông Nam Á nhận xét về chiến thắng nhọc nhằn của tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-dong-nam-a-nhan-xet-ve-chien-thang-nhoc-nhan-cua-tuyen-viet-nam-20251015200042444.htm) - 13:00 15/10/2025
 - ⛽️ [Bóng đá Malaysia chính thức gửi đơn kháng cáo lên FIFA](https://dantri.com.vn/the-thao/bong-da-malaysia-chinh-thuc-gui-don-khang-cao-len-fifa-20251015175257935.htm) - 10:56 15/10/2025
 - 💃 [Tuyển Việt Nam đón tin vui từ FIFA sau hai chiến thắng liên tiếp](https://dantri.com.vn/the-thao/tuyen-viet-nam-don-tin-vui-tu-fifa-sau-hai-chien-thang-lien-tiep-20251015142225790.htm) - 07:31 15/10/2025
 - 🌈 [Lionel Messi lập kỷ lục ấn tượng, tuyển Argentina đại thắng 6 bàn](https://dantri.com.vn/the-thao/lionel-messi-lap-ky-luc-an-tuong-tuyen-argentina-dai-thang-6-ban-20251015112119716.htm) - 04:21 15/10/2025
