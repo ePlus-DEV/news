@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Dụ dỗ bé gái 12 tuổi vào phòng khách sạn](https://vnexpress.net/du-do-be-gai-12-tuoi-vao-phong-khach-san-4951425.html) - 22:02 14/10/2025
 - 🎓 [Vụ án ngôi sao nhạc rock bị cả nhà tù căm ghét](https://vnexpress.net/cuoc-doi-tu-ruc-ro-den-chet-trong-tu-cua-ngoi-sao-au-dam-4951376.html) - 17:09 14/10/2025
 - 🤓 [Xem Tiktok tìm nhà có đám cưới để ăn trộm tiền mừng](https://vnexpress.net/xem-tiktok-tim-nha-co-dam-cuoi-de-an-trom-tien-mung-4951423.html) - 17:00 14/10/2025
-- 🎊 [Đọc vị chiêu thức &#39;bắt cóc online&#39; đang nhắm vào giới trẻ](https://vnexpress.net/doc-vi-chieu-thuc-bat-coc-online-dang-nham-vao-gioi-tre-4951160.html) - 17:00 14/10/2025
+- 🎊 [Chiêu thức &#39;bắt cóc online&#39; nhắm vào giới trẻ](https://vnexpress.net/chieu-thuc-bat-coc-online-nham-vao-gioi-tre-4951160.html) - 17:00 14/10/2025
 - 🙉 [Sửa chỉ số nguy hại môi trường để hưởng lợi](https://vnexpress.net/sua-chi-so-nguy-hai-moi-truong-de-huong-loi-4951359.html) - 13:41 14/10/2025
 - 🤡 [Hơn 3,2 triệu bình chữa cháy giả bị bán cho người tiêu dùng](https://vnexpress.net/hon-3-2-trieu-binh-chua-chay-gia-bi-ban-cho-nguoi-tieu-dung-4951210.html) - 10:37 14/10/2025
 - 🗽 [Bác sĩ và nhiều người bị bắt vì làm bệnh nhân nâng ngực tử vong](https://vnexpress.net/bac-si-va-nhieu-nguoi-bi-bat-vi-lam-benh-nhan-nang-nguc-tu-vong-4951272.html) - 08:58 14/10/2025
