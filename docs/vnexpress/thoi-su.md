@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đà Nẵng chi lương đến 150 triệu đồng để hút chuyên gia](https://vnexpress.net/da-nang-chi-luong-den-150-trieu-dong-de-hut-chuyen-gia-4951608.html) - 04:18 15/10/2025
+- 🦒 [Đà Nẵng chi tới 150 triệu đồng mỗi tháng để hút chuyên gia](https://vnexpress.net/da-nang-chi-toi-150-trieu-dong-moi-thang-de-hut-chuyen-gia-4951608.html) - 04:18 15/10/2025
 - 🤓 [Vườn mít, sầu riêng chìm trong lũ ở Đồng Tháp Mười](https://vnexpress.net/vuon-mit-sau-rieng-chim-trong-lu-o-dong-thap-muoi-4951427.html) - 02:51 15/10/2025
 - ⚗️ [Khánh thành di tích Đầm Dơi - Cái Nước - Chà Là](https://vnexpress.net/khanh-thanh-di-tich-dam-doi-cai-nuoc-cha-la-4951529.html) - 02:41 15/10/2025
 - 🌊 [5 năm TP HCM &#39;vượt sóng gió&#39;](https://vnexpress.net/5-nam-tp-hcm-vuot-song-gio-4950376.html) - 22:00 14/10/2025
