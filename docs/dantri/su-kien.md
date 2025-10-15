@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Chú rể bị “bắt” làm bài kiểm tra IELTS mới được cô dâu ở Hà Nội](https://dantri.com.vn/doi-song/chu-re-bi-bat-lam-bai-kiem-tra-ielts-moi-duoc-co-dau-o-ha-noi-20251015095831362.htm) - 23:01 15/10/2025
+- 🎭 [Chú rể bị “bắt” làm bài kiểm tra IELTS mới được đón cô dâu ở Hà Nội](https://dantri.com.vn/doi-song/chu-re-bi-bat-lam-bai-kiem-tra-ielts-moi-duoc-don-co-dau-o-ha-noi-20251015095831362.htm) - 23:01 15/10/2025
 - 👨‍🏫 [Đỗ Thị Hà đăng quang năm 19 tuổi, đời tư kín tiếng trước khi lấy thiếu gia](https://dantri.com.vn/giai-tri/do-thi-ha-dang-quang-nam-19-tuoi-doi-tu-kin-tieng-truoc-khi-lay-thieu-gia-20251015182748931.htm) - 22:35 15/10/2025
 - 🌮 [Lũ rút, nhà sập, 2 bà cháu không có nhà để về](https://dantri.com.vn/tam-long-nhan-ai/lu-rut-nha-sap-2-ba-chau-khong-co-nha-de-ve-20251015161242428.htm) - 22:30 15/10/2025
 - 🕯 [Mỹ xác nhận đang chuyển &quot;hỏa lực&quot; cho Ukraine](https://dantri.com.vn/the-gioi/my-xac-nhan-dang-chuyen-hoa-luc-cho-ukraine-20251016045544279.htm) - 22:05 15/10/2025
