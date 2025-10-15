@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Sau thông tin dậy sóng dư luận, công ty quản lý Vu Mông Lung gặp khó khăn](https://dantri.com.vn/giai-tri/sau-thong-tin-day-song-du-luan-cong-ty-quan-ly-vu-mong-lung-gap-kho-khan-20251015130051768.htm) - 13:12 15/10/2025
+- 🤩 [Sau thông tin dậy sóng dư luận, công ty quản lý Vu Mông Lung gặp khó khăn](https://dantri.com.vn/giai-tri/sau-thong-tin-day-song-du-luan-cong-ty-quan-ly-vu-mong-lung-gap-kho-khan-20251015130051768.htm) - 13:52 15/10/2025
 - 🔥 [Hồng Diễm - Mạnh Trường tái hợp sau 8 năm trong phim mới của VTV](https://dantri.com.vn/giai-tri/hong-diem-manh-truong-tai-hop-sau-8-nam-trong-phim-moi-cua-vtv-20251015154902552.htm) - 09:17 15/10/2025
 - 🚀 [Hoa hậu Đỗ Thị Hà sắp cưới thiếu gia Quảng Trị](https://dantri.com.vn/giai-tri/hoa-hau-do-thi-ha-sap-cuoi-thieu-gia-quang-tri-20251015142412507.htm) - 08:18 15/10/2025
 - 🔥 [Đời thực gợi cảm, xinh đẹp của Quỳnh Châu &quot;Cách em 1 milimet&quot;](https://dantri.com.vn/giai-tri/doi-thuc-goi-cam-xinh-dep-cua-quynh-chau-cach-em-1-milimet-20251015142623237.htm) - 08:18 15/10/2025
