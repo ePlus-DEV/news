@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Từ cú trượt lớp 10 đến thủ khoa đầu vào đại học](https://vnexpress.net/tu-cu-truot-lop-10-den-thu-khoa-dau-vao-dai-hoc-4951899.html) - 02:47 16/10/2025
+- 🤓 [Thủ khoa đầu vào đại học từng trượt lớp 10, học bổ túc](https://vnexpress.net/thu-khoa-dau-vao-dai-hoc-tung-truot-lop-10-hoc-bo-tuc-4951899.html) - 02:47 16/10/2025
 - 🦆 [Bộ Giáo dục: Chưa thể sắp xếp đại học trực thuộc](https://vnexpress.net/bo-giao-duc-chua-the-sap-xep-dai-hoc-truc-thuoc-4951912.html) - 17:08 15/10/2025
 - 🦩 [Bộ Giáo dục dự kiến cấp văn bằng, chứng chỉ số trong 5 ngày](https://vnexpress.net/bo-giao-duc-du-kien-cap-van-bang-chung-chi-so-trong-5-ngay-4951866.html) - 15:57 15/10/2025
 - 🌮 [Nước nào là nơi định cư tốt nhất thế giới?](https://vnexpress.net/nuoc-nao-la-noi-dinh-cu-tot-nhat-the-gioi-4951842.html) - 13:50 15/10/2025
