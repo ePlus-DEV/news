@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều nơi ở Nha Trang, Huế &#39;thất thủ&#39; sau trận mưa lớn](https://vnexpress.net/nhieu-noi-o-nha-trang-hue-that-thu-sau-tran-mua-lon-4952176.html) - 06:58 16/10/2025
-- 🤓 [Tổng Bí thư: Ba cực sáng tạo dẫn dắt sức bật mới của Hà Nội](https://vnexpress.net/tong-bi-thu-ba-cuc-sang-tao-dan-dat-suc-bat-moi-cua-ha-noi-4952146.html) - 06:00 16/10/2025
+- 🦒 [Nhiều nơi ở Nha Trang, Huế &#39;thất thủ&#39; sau trận mưa kéo dài](https://vnexpress.net/nhieu-noi-o-nha-trang-hue-that-thu-sau-tran-mua-keo-dai-4952176.html) - 06:58 16/10/2025
+- 🤓 [Tổng Bí thư: Hà Nội cần xử lý dứt điểm 4 vấn đề trong nhiệm kỳ tới](https://vnexpress.net/tong-bi-thu-ha-noi-can-xu-ly-dut-diem-4-van-de-trong-nhiem-ky-toi-4952146.html) - 06:00 16/10/2025
 - ⚗️ [Quốc lộ 1 bị ngập, đường Hồ Chí Minh sạt lở do mưa lớn](https://vnexpress.net/quoc-lo-1-bi-ngap-duong-ho-chi-minh-sat-lo-do-mua-lon-4952148.html) - 05:55 16/10/2025
 - 🌊 [Miền Trung mưa lớn](https://vnexpress.net/mien-trung-mua-lon-4952152.html) - 05:05 16/10/2025
 - 🎓 [Công nghệ cao &#39;là trụ cột an ninh và chủ quyền quốc gia&#39;](https://vnexpress.net/cong-nghe-cao-la-tru-cot-an-ninh-va-chu-quyen-quoc-gia-4952055.html) - 04:19 16/10/2025
