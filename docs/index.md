@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Dòng thác &#39;hồi sinh&#39; khi thủy điện Trị An xả lũ](https://vnexpress.net/dong-thac-hoi-sinh-khi-thuy-dien-tri-an-xa-lu-4952372.html) - 17:00 16/10/2025
 - 🧐 [Chiêu trò phông bạt của &#39;bậc thầy dạy làm giàu&#39; Trung Quốc](https://vnexpress.net/chieu-tro-phong-bat-cua-bac-thay-day-lam-giau-trung-quoc-4952357.html) - 17:00 16/10/2025
 - 💫 [Cà Mau khánh thành loạt công trình hơn 2.400 tỷ đồng](https://vnexpress.net/ca-mau-khanh-thanh-loat-cong-trinh-hon-2-400-ty-dong-4952353.html) - 17:00 16/10/2025
-- 😺 [Phân bổ tiền cứu trợ sao cho &#39;nước không dồn chỗ trũng&#39;](https://vnexpress.net/phan-bo-tien-cuu-tro-sao-cho-nuoc-khong-don-cho-trung-4952341.html) - 17:00 16/10/2025
+- 😺 [Mặt trận Tổ quốc: Phân bổ tiền cứu trợ sao cho &#39;nước không dồn chỗ trũng&#39;](https://vnexpress.net/mat-tran-to-quoc-phan-bo-tien-cuu-tro-sao-cho-nuoc-khong-don-cho-trung-4952341.html) - 17:00 16/10/2025
 - 🕯 [TP HCM sẽ khởi công mở rộng quốc lộ 13 năm 2026](https://vnexpress.net/tp-hcm-se-khoi-cong-mo-rong-quoc-lo-13-nam-2026-4952335.html) - 17:00 16/10/2025
 - 💃 [Giỏi chuyên môn nhưng không được lên sếp vì kém tiếng Anh](https://vnexpress.net/hoc-tieng-anh-hieu-qua-tieng-anh-giup-thang-tien-cong-viec-cach-nop-cv-vao-cong-ty-da-quoc-gia-4952285.html) - 17:00 16/10/2025
 - 💂 [Ám ảnh sở hữu](https://vnexpress.net/am-anh-so-huu-4952203.html) - 17:00 16/10/2025
