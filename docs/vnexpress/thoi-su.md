@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cà Mau khánh thành loạt công trình hơn 2.400 tỷ đồng](https://vnexpress.net/ca-mau-khanh-thanh-loat-cong-trinh-hon-2-400-ty-dong-4952353.html) - 17:00 16/10/2025
-- 🤓 [Phân bổ tiền cứu trợ sao cho &#39;nước không dồn chỗ trũng&#39;](https://vnexpress.net/phan-bo-tien-cuu-tro-sao-cho-nuoc-khong-don-cho-trung-4952341.html) - 17:00 16/10/2025
+- 🤓 [Mặt trận Tổ quốc: Tránh &#39;nước dồn chỗ trũng&#39; khi phân bổ tiền cứu trợ](https://vnexpress.net/mat-tran-to-quoc-tranh-nuoc-don-cho-trung-khi-phan-bo-tien-cuu-tro-4952341.html) - 17:00 16/10/2025
 - ⚗️ [TP HCM sẽ khởi công mở rộng quốc lộ 13 năm 2026](https://vnexpress.net/tp-hcm-se-khoi-cong-mo-rong-quoc-lo-13-nam-2026-4952335.html) - 17:00 16/10/2025
 - 🌊 [Quân khu 1 nhận Huân chương Hồ Chí Minh](https://vnexpress.net/quan-khu-1-nhan-huan-chuong-ho-chi-minh-4952385.html) - 14:57 16/10/2025
 - 🎓 [Hà Nội công bố 75 người trúng cử Ban Chấp hành Đảng bộ khóa 18](https://vnexpress.net/ha-noi-cong-bo-75-nguoi-trung-cu-ban-chap-hanh-dang-bo-khoa-18-4952246.html) - 14:40 16/10/2025
