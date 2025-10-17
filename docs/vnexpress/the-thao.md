@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Malaysia đình chỉ quan chức để điều tra vụ nhập tịch cầu thủ](https://vnexpress.net/malaysia-dinh-chi-quan-chuc-de-dieu-tra-vu-nhap-tich-cau-thu-4952755.html) - 11:11 17/10/2025
+- 🪜 [Malaysia đình chỉ công tác quan chức để điều tra vụ nhập tịch cầu thủ](https://vnexpress.net/malaysia-dinh-chi-cong-tac-quan-chuc-de-dieu-tra-vu-nhap-tich-cau-thu-4952755.html) - 11:11 17/10/2025
 - 🦩 [Vì sao Arteta vẫn tin Gyokeres dù 6 trận &#39;tịt ngòi&#39;](https://vnexpress.net/vi-sao-arteta-van-tin-gyokeres-du-6-tran-tit-ngoi-4952523.html) - 10:40 17/10/2025
 - 🧰 [CĐV có tên &#39;Manchester United&#39; qua đời ở tuổi 62](https://vnexpress.net/cdv-co-ten-manchester-united-qua-doi-o-tuoi-62-4952727.html) - 10:01 17/10/2025
 - 🤗 [Indonesia có thể phải đền gần 5 triệu USD cho Kluivert và cộng sự](https://vnexpress.net/indonesia-co-the-phai-den-gan-5-trieu-usd-cho-kluivert-va-cong-su-4952682.html) - 08:47 17/10/2025
