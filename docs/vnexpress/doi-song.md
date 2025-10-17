@@ -4,62 +4,62 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Giới trẻ dùng AI để tư vấn mua sắm](https://vnexpress.net/gioi-tre-dung-ai-de-tu-van-mua-sam-4952668.html) - 09:00 17/10/2025
-- 🎓 [Hurrykng tham gia chiến dịch ra mắt Heineken Silver phiên bản chai nhôm mới](https://vnexpress.net/hurrykng-tham-gia-chien-dich-ra-mat-heineken-silver-phien-ban-chai-nhom-moi-4952542.html) - 04:00 17/10/2025
-- 🚦 [Bộ mặt thật của &#39;bạn trai tận tụy nhất Trung Quốc&#39;](https://vnexpress.net/bo-mat-that-cua-ban-trai-tan-tuy-nhat-trung-quoc-4952492.html) - 03:56 17/10/2025
-- 🦣 [Chiến lược CSR gắn với giá trị tình thân, sống đẹp của PNJ](https://vnexpress.net/chien-luoc-csr-gan-voi-gia-tri-tinh-than-song-dep-cua-pnj-4952503.html) - 03:00 17/10/2025
-- 🎓 [Nỗi khổ của người đàn ông tên dài 6 trang giấy](https://vnexpress.net/noi-kho-cua-nguoi-dan-ong-ten-dai-6-trang-giay-4952398.html) - 01:32 17/10/2025
-- 🎭 [Chuyện tình sóng gió của chàng trai kém vợ 17 tuổi](https://vnexpress.net/chuyen-tinh-song-gio-cua-chang-trai-kem-vo-17-tuoi-4951785.html) - 23:00 16/10/2025
-- 🦅 [Bí mật khiến món chiên bằng mỡ lợn ngon hơn dầu ăn](https://vnexpress.net/bi-mat-khien-mon-chien-bang-mo-lon-ngon-hon-dau-an-4952293.html) - 09:11 16/10/2025
-- 🎃 [Tỷ phú Jeff Bezos: &#39;Đừng bỏ học để thành Bill Gates&#39;](https://vnexpress.net/ty-phu-jeff-bezos-dung-bo-hoc-de-thanh-bill-gates-4951923.html) - 08:30 16/10/2025
-- 💪 [Áp lực lên kế hoạch cưới](https://vnexpress.net/ap-luc-len-ke-hoach-cuoi-4952209.html) - 08:00 16/10/2025
-- 🐻 [Nỗi đau của hàng triệu &#39;ôsin 10 tuổi&#39; ở Pakistan](https://vnexpress.net/noi-dau-cua-hang-trieu-osin-10-tuoi-o-pakistan-4951917.html) - 07:22 16/10/2025
-- 🧠 [Cái kết triệu đô của &#39;làng hưu trí bạn thân&#39;](https://vnexpress.net/cai-ket-trieu-do-cua-lang-huu-tri-ban-than-4951962.html) - 04:13 16/10/2025
-- 🐘 [Loạt tiêu chí chọn smartphone của người dùng trẻ](https://vnexpress.net/loat-tieu-chi-chon-smartphone-cua-nguoi-dung-tre-4951700.html) - 02:00 16/10/2025
-- 👹 [Dùng AI &#39;chụp ảnh&#39; cùng người thân đã mất](https://vnexpress.net/dung-ai-chup-anh-cung-nguoi-than-da-mat-4951782.html) - 23:00 15/10/2025
-- 💂 [Nghịch lý người Mỹ lương cao vẫn &#39;tiền về là hết&#39;](https://vnexpress.net/nghich-ly-nguoi-my-luong-cao-van-tien-ve-la-het-4951913.html) - 22:44 15/10/2025
-- 🦍 [Quỹ Hy vọng nhận hơn 7 tỷ đồng hỗ trợ tái thiết sau lũ](https://vnexpress.net/quy-hy-vong-nhan-hon-7-ty-dong-ho-tro-tai-thiet-sau-lu-4951860.html) - 17:01 15/10/2025
-- 🧑‍🏫 [Vua Nệm truyền thông điệp ngủ đủ giấc bằng đoàn diễu hành pyjama](https://vnexpress.net/vua-nem-truyen-thong-diep-ngu-du-giac-bang-doan-dieu-hanh-pyjama-4951802.html) - 09:30 15/10/2025
-- 🧰 [Đậy vung khi rán cá - sai lầm nhiều người mắc](https://vnexpress.net/day-vung-khi-ran-ca-sai-lam-nhieu-nguoi-mac-4951705.html) - 08:40 15/10/2025
-- 🪄 [Thuê 12 chuyến xe dọn rác trong nhà mẹ](https://vnexpress.net/thue-12-chuyen-xe-don-rac-trong-nha-me-4951557.html) - 07:50 15/10/2025
-- 🐲 [Cuộc sống của những phụ nữ lấy chồng đồng tính](https://vnexpress.net/cuoc-song-cua-nhung-phu-nu-lay-chong-dong-tinh-4951576.html) - 04:14 15/10/2025
-- 💻 [Nam giới chủ động dự phòng HPV](https://vnexpress.net/nam-gioi-chu-dong-du-phong-hpv-4951127.html) - 03:00 15/10/2025
-- 🐘 [Cộng đồng người chơi Play Together ủng hộ 500 triệu đồng cho vùng lũ](https://vnexpress.net/cong-dong-nguoi-choi-play-together-ung-ho-500-trieu-dong-cho-vung-lu-4951195.html) - 03:00 15/10/2025
-- 🎬 [Những kiểu tính cách dễ bị lừa đảo online](https://vnexpress.net/nhung-kieu-tinh-cach-de-bi-lua-dao-online-4943717.html) - 02:37 15/10/2025
-- 💻 [Tracybee - từ tình yêu con đến giấc mơ cộng đồng khỏe mạnh](https://vnexpress.net/tracybee-tu-tinh-yeu-con-den-giac-mo-cong-dong-khoe-manh-4951353.html) - 02:00 15/10/2025
-- 🧰 [Nỗi oan &#39;lười biếng&#39; của người trẻ thất nghiệp](https://vnexpress.net/noi-oan-luoi-bieng-cua-nguoi-tre-that-nghiep-4950464.html) - 23:00 14/10/2025
-- 🫣 [120 thợ Thanh Hóa ra Thái Nguyên sửa xe miễn phí](https://vnexpress.net/120-tho-thanh-hoa-ra-thai-nguyen-sua-xe-mien-phi-4951164.html) - 17:00 14/10/2025
-- ⚗️ [Trường mua 1.300 suất ăn cho học sinh ở lại vì mưa lụt](https://vnexpress.net/truong-mua-1-300-suat-an-cho-hoc-sinh-o-lai-vi-mua-lut-4951388.html) - 12:43 14/10/2025
-- 🌊 [Những món ngon từ cốm Hà Nội](https://vnexpress.net/nhung-mon-ngon-tu-com-ha-noi-4951335.html) - 09:32 14/10/2025
-- 💃 [Khởi động &#39;Siêu thị mini 0 đồng&#39; hỗ trợ vùng bão lũ](https://vnexpress.net/khoi-dong-sieu-thi-mini-0-dong-ho-tro-vung-bao-lu-4951240.html) - 09:15 14/10/2025
-- 🦆 [Người miền Trung &#39;đáp ân tình&#39; vùng lũ phía Bắc](https://vnexpress.net/nguoi-mien-trung-dap-an-tinh-vung-lu-phia-bac-4951037.html) - 07:01 14/10/2025
-- 🎓 [Triệu phú có 11 ngôi nhà nhưng sống cô đơn](https://vnexpress.net/trieu-phu-co-11-ngoi-nha-nhung-song-co-don-4950963.html) - 04:17 14/10/2025
-- 💪 [Cậu bé xăm kín mặt làm lại cuộc đời](https://vnexpress.net/cau-be-xam-kin-mat-lam-lai-cuoc-doi-4950873.html) - 01:48 14/10/2025
-- 🤔 [Người nước ngoài ấn tượng tinh thần Việt trong bão lũ](https://vnexpress.net/nguoi-nuoc-ngoai-an-tuong-tinh-than-viet-trong-bao-lu-4950929.html) - 00:54 14/10/2025
-- 🧰 [Vớt cơ nghiệp trong bể bùn chợ Thái](https://vnexpress.net/vot-co-nghiep-trong-be-bun-cho-thai-4950903.html) - 23:00 13/10/2025
-- 😎 [15 ngày &#39;màn trời chiếu đất&#39; của người dân rốn lũ Thái Nguyên](https://vnexpress.net/15-ngay-man-troi-chieu-dat-cua-nguoi-dan-ron-lu-thai-nguyen-4950908.html) - 17:00 13/10/2025
-- 🌮 [Khánh thành loạt công trình vệ sinh cho học sinh Quảng Trị](https://vnexpress.net/khanh-thanh-loat-cong-trinh-ve-sinh-cho-hoc-sinh-quang-tri-4950895.html) - 17:00 13/10/2025
-- 🧠 [Cặp vợ chồng giống nhau &#39;như hai giọt nước&#39;](https://vnexpress.net/cap-vo-chong-giong-nhau-nhu-hai-giot-nuoc-4950829.html) - 09:57 13/10/2025
+- 🚀 [Đi bộ xuống 106 tầng do thang máy mất điện](https://vnexpress.net/di-bo-xuong-106-tang-do-thang-may-mat-dien-4952728.html) - 10:28 17/10/2025
+- 🎓 [Giới trẻ dùng AI để tư vấn mua sắm](https://vnexpress.net/gioi-tre-dung-ai-de-tu-van-mua-sam-4952668.html) - 09:00 17/10/2025
+- 🚦 [Hurrykng tham gia chiến dịch ra mắt Heineken Silver phiên bản chai nhôm mới](https://vnexpress.net/hurrykng-tham-gia-chien-dich-ra-mat-heineken-silver-phien-ban-chai-nhom-moi-4952542.html) - 04:00 17/10/2025
+- 🦣 [Bộ mặt thật của &#39;bạn trai tận tụy nhất Trung Quốc&#39;](https://vnexpress.net/bo-mat-that-cua-ban-trai-tan-tuy-nhat-trung-quoc-4952492.html) - 03:56 17/10/2025
+- 🎓 [Chiến lược CSR gắn với giá trị tình thân, sống đẹp của PNJ](https://vnexpress.net/chien-luoc-csr-gan-voi-gia-tri-tinh-than-song-dep-cua-pnj-4952503.html) - 03:00 17/10/2025
+- 🎭 [Nỗi khổ của người đàn ông tên dài 6 trang giấy](https://vnexpress.net/noi-kho-cua-nguoi-dan-ong-ten-dai-6-trang-giay-4952398.html) - 01:32 17/10/2025
+- 🦅 [Chuyện tình sóng gió của chàng trai kém vợ 17 tuổi](https://vnexpress.net/chuyen-tinh-song-gio-cua-chang-trai-kem-vo-17-tuoi-4951785.html) - 23:00 16/10/2025
+- 🎃 [Bí mật khiến món chiên bằng mỡ lợn ngon hơn dầu ăn](https://vnexpress.net/bi-mat-khien-mon-chien-bang-mo-lon-ngon-hon-dau-an-4952293.html) - 09:11 16/10/2025
+- 💪 [Tỷ phú Jeff Bezos: &#39;Đừng bỏ học để thành Bill Gates&#39;](https://vnexpress.net/ty-phu-jeff-bezos-dung-bo-hoc-de-thanh-bill-gates-4951923.html) - 08:30 16/10/2025
+- 🐻 [Áp lực lên kế hoạch cưới](https://vnexpress.net/ap-luc-len-ke-hoach-cuoi-4952209.html) - 08:00 16/10/2025
+- 🧠 [Nỗi đau của hàng triệu &#39;ôsin 10 tuổi&#39; ở Pakistan](https://vnexpress.net/noi-dau-cua-hang-trieu-osin-10-tuoi-o-pakistan-4951917.html) - 07:22 16/10/2025
+- 🐘 [Cái kết triệu đô của &#39;làng hưu trí bạn thân&#39;](https://vnexpress.net/cai-ket-trieu-do-cua-lang-huu-tri-ban-than-4951962.html) - 04:13 16/10/2025
+- 👹 [Loạt tiêu chí chọn smartphone của người dùng trẻ](https://vnexpress.net/loat-tieu-chi-chon-smartphone-cua-nguoi-dung-tre-4951700.html) - 02:00 16/10/2025
+- 💂 [Dùng AI &#39;chụp ảnh&#39; cùng người thân đã mất](https://vnexpress.net/dung-ai-chup-anh-cung-nguoi-than-da-mat-4951782.html) - 23:00 15/10/2025
+- 🦍 [Nghịch lý người Mỹ lương cao vẫn &#39;tiền về là hết&#39;](https://vnexpress.net/nghich-ly-nguoi-my-luong-cao-van-tien-ve-la-het-4951913.html) - 22:44 15/10/2025
+- 🧑‍🏫 [Quỹ Hy vọng nhận hơn 7 tỷ đồng hỗ trợ tái thiết sau lũ](https://vnexpress.net/quy-hy-vong-nhan-hon-7-ty-dong-ho-tro-tai-thiet-sau-lu-4951860.html) - 17:01 15/10/2025
+- 🧰 [Vua Nệm truyền thông điệp ngủ đủ giấc bằng đoàn diễu hành pyjama](https://vnexpress.net/vua-nem-truyen-thong-diep-ngu-du-giac-bang-doan-dieu-hanh-pyjama-4951802.html) - 09:30 15/10/2025
+- 🪄 [Đậy vung khi rán cá - sai lầm nhiều người mắc](https://vnexpress.net/day-vung-khi-ran-ca-sai-lam-nhieu-nguoi-mac-4951705.html) - 08:40 15/10/2025
+- 🐲 [Thuê 12 chuyến xe dọn rác trong nhà mẹ](https://vnexpress.net/thue-12-chuyen-xe-don-rac-trong-nha-me-4951557.html) - 07:50 15/10/2025
+- 💻 [Cuộc sống của những phụ nữ lấy chồng đồng tính](https://vnexpress.net/cuoc-song-cua-nhung-phu-nu-lay-chong-dong-tinh-4951576.html) - 04:14 15/10/2025
+- 🐘 [Nam giới chủ động dự phòng HPV](https://vnexpress.net/nam-gioi-chu-dong-du-phong-hpv-4951127.html) - 03:00 15/10/2025
+- 🎬 [Cộng đồng người chơi Play Together ủng hộ 500 triệu đồng cho vùng lũ](https://vnexpress.net/cong-dong-nguoi-choi-play-together-ung-ho-500-trieu-dong-cho-vung-lu-4951195.html) - 03:00 15/10/2025
+- 💻 [Những kiểu tính cách dễ bị lừa đảo online](https://vnexpress.net/nhung-kieu-tinh-cach-de-bi-lua-dao-online-4943717.html) - 02:37 15/10/2025
+- 🧰 [Tracybee - từ tình yêu con đến giấc mơ cộng đồng khỏe mạnh](https://vnexpress.net/tracybee-tu-tinh-yeu-con-den-giac-mo-cong-dong-khoe-manh-4951353.html) - 02:00 15/10/2025
+- 🫣 [Nỗi oan &#39;lười biếng&#39; của người trẻ thất nghiệp](https://vnexpress.net/noi-oan-luoi-bieng-cua-nguoi-tre-that-nghiep-4950464.html) - 23:00 14/10/2025
+- ⚗️ [120 thợ Thanh Hóa ra Thái Nguyên sửa xe miễn phí](https://vnexpress.net/120-tho-thanh-hoa-ra-thai-nguyen-sua-xe-mien-phi-4951164.html) - 17:00 14/10/2025
+- 🌊 [Trường mua 1.300 suất ăn cho học sinh ở lại vì mưa lụt](https://vnexpress.net/truong-mua-1-300-suat-an-cho-hoc-sinh-o-lai-vi-mua-lut-4951388.html) - 12:43 14/10/2025
+- 💃 [Những món ngon từ cốm Hà Nội](https://vnexpress.net/nhung-mon-ngon-tu-com-ha-noi-4951335.html) - 09:32 14/10/2025
+- 🦆 [Khởi động &#39;Siêu thị mini 0 đồng&#39; hỗ trợ vùng bão lũ](https://vnexpress.net/khoi-dong-sieu-thi-mini-0-dong-ho-tro-vung-bao-lu-4951240.html) - 09:15 14/10/2025
+- 🎓 [Người miền Trung &#39;đáp ân tình&#39; vùng lũ phía Bắc](https://vnexpress.net/nguoi-mien-trung-dap-an-tinh-vung-lu-phia-bac-4951037.html) - 07:01 14/10/2025
+- 💪 [Triệu phú có 11 ngôi nhà nhưng sống cô đơn](https://vnexpress.net/trieu-phu-co-11-ngoi-nha-nhung-song-co-don-4950963.html) - 04:17 14/10/2025
+- 🤔 [Cậu bé xăm kín mặt làm lại cuộc đời](https://vnexpress.net/cau-be-xam-kin-mat-lam-lai-cuoc-doi-4950873.html) - 01:48 14/10/2025
+- 🧰 [Người nước ngoài ấn tượng tinh thần Việt trong bão lũ](https://vnexpress.net/nguoi-nuoc-ngoai-an-tuong-tinh-than-viet-trong-bao-lu-4950929.html) - 00:54 14/10/2025
+- 😎 [Vớt cơ nghiệp trong bể bùn chợ Thái](https://vnexpress.net/vot-co-nghiep-trong-be-bun-cho-thai-4950903.html) - 23:00 13/10/2025
+- 🌮 [15 ngày &#39;màn trời chiếu đất&#39; của người dân rốn lũ Thái Nguyên](https://vnexpress.net/15-ngay-man-troi-chieu-dat-cua-nguoi-dan-ron-lu-thai-nguyen-4950908.html) - 17:00 13/10/2025
+- 🧠 [Khánh thành loạt công trình vệ sinh cho học sinh Quảng Trị](https://vnexpress.net/khanh-thanh-loat-cong-trinh-ve-sinh-cho-hoc-sinh-quang-tri-4950895.html) - 17:00 13/10/2025
+- 🎡 [Cặp vợ chồng giống nhau &#39;như hai giọt nước&#39;](https://vnexpress.net/cap-vo-chong-giong-nhau-nhu-hai-giot-nuoc-4950829.html) - 09:57 13/10/2025
 - 🎡 [Có nên hâm nóng rau bằng lò vi sóng?](https://vnexpress.net/co-nen-ham-nong-rau-bang-lo-vi-song-4950832.html) - 09:21 13/10/2025
-- 🎡 [Trả lại túi xách tiền, vàng nhặt được trong lũ](https://vnexpress.net/tra-lai-tui-xach-tien-vang-nhat-duoc-trong-lu-4950727.html) - 07:00 13/10/2025
-- 🌏 [Vì sao chúng ta không thích một ai đó?](https://vnexpress.net/vi-sao-chung-ta-khong-thich-mot-ai-do-4947489.html) - 02:50 13/10/2025
-- 🐻 [Treo thưởng cho người tát nhân tình của con trai](https://vnexpress.net/treo-thuong-cho-nguoi-tat-nhan-tinh-cua-con-trai-4950457.html) - 01:13 13/10/2025
-- 💂 [Điều ông bố đơn thân không thể làm cho con](https://vnexpress.net/dieu-ong-bo-don-than-khong-the-lam-cho-con-4949821.html) - 00:48 13/10/2025
-- 🥸 [Cuộc sống trên đê của làng lụt ngoại thành Hà Nội](https://vnexpress.net/cuoc-song-tren-de-cua-lang-lut-ngoai-thanh-ha-noi-4950444.html) - 17:47 12/10/2025
-- 🌋 [7 thói quen tưởng tiết kiệm nhưng lại tốn tiền](https://vnexpress.net/7-thoi-quen-tuong-tiet-kiem-nhung-lai-ton-tien-4950218.html) - 12:40 12/10/2025
-- 🦩 [Trứng chiên cốm - món ngon ngày thu Hà Nội](https://vnexpress.net/trung-chien-com-mon-ngon-ngay-thu-ha-noi-4950380.html) - 08:20 12/10/2025
-- 😺 [Cha kéo bè đưa con vượt lũ đi du học](https://vnexpress.net/cha-keo-be-dua-con-vuot-lu-di-du-hoc-4950356.html) - 07:53 12/10/2025
-- 🐻 [Ngày hội &#39;Gia đình trẻ hạnh phúc 2025&#39; khai mạc tại Hồ Gươm](https://vnexpress.net/ngay-hoi-gia-dinh-tre-hanh-phuc-2025-khai-mac-tai-ho-guom-4950365.html) - 07:15 12/10/2025
-- 🎬 [Bé gái 10 tuổi dùng thủ thuật Heimlich cứu em](https://vnexpress.net/be-gai-10-tuoi-dung-thu-thuat-heimlich-cuu-em-4950278.html) - 04:06 12/10/2025
-- 🎊 [Cưới cùng lúc hai chồng](https://vnexpress.net/cuoi-cung-luc-hai-chong-4950274.html) - 03:55 12/10/2025
-- 💄 [Nhiều người không biết tắt điện, nước, gas khi gặp sự cố](https://vnexpress.net/nhieu-nguoi-khong-biet-tat-dien-nuoc-gas-khi-gap-su-co-4950216.html) - 03:39 12/10/2025
-- 🏊 [Cậu bé bị nhầm là AI vì quá to lớn](https://vnexpress.net/cau-be-bi-nham-la-ai-vi-qua-to-lon-4950206.html) - 00:30 12/10/2025
-- 🌜 [Bác sĩ thành thiên tài piano sau khi bị sét đánh](https://vnexpress.net/bac-si-thanh-thien-tai-piano-sau-khi-bi-set-danh-4950183.html) - 23:29 11/10/2025
-- 🤡 [Hỗ trợ sơn sửa lớp học và tặng quà cho học sinh Lạng Sơn, Quảng Ninh](https://vnexpress.net/ho-tro-son-sua-lop-hoc-va-tang-qua-cho-hoc-sinh-lang-son-quang-ninh-4950179.html) - 17:29 11/10/2025
-- 🥰 [Hai lần trắng tay vì lũ](https://vnexpress.net/hai-lan-trang-tay-vi-lu-4950149.html) - 17:28 11/10/2025
-- 🦍 [Ba ưu điểm giúp Galaxy S25 FE thu hút phái đẹp](https://vnexpress.net/ba-uu-diem-giup-galaxy-s25-fe-thu-hut-phai-dep-4950210.html) - 11:29 11/10/2025
-- 🫣 [Bí quyết để thịt kho lên màu đẹp](https://vnexpress.net/doi-song-cooking-thit-kho-len-mau-dep-4950171.html) - 08:16 11/10/2025
-- 🚦 [Đà Nẵng hợp tác Grab thúc đẩy chuyển đổi số](https://vnexpress.net/da-nang-hop-tac-grab-thuc-day-chuyen-doi-so-4950162.html) - 08:00 11/10/2025
+- 🌏 [Trả lại túi xách tiền, vàng nhặt được trong lũ](https://vnexpress.net/tra-lai-tui-xach-tien-vang-nhat-duoc-trong-lu-4950727.html) - 07:00 13/10/2025
+- 🐻 [Vì sao chúng ta không thích một ai đó?](https://vnexpress.net/vi-sao-chung-ta-khong-thich-mot-ai-do-4947489.html) - 02:50 13/10/2025
+- 💂 [Treo thưởng cho người tát nhân tình của con trai](https://vnexpress.net/treo-thuong-cho-nguoi-tat-nhan-tinh-cua-con-trai-4950457.html) - 01:13 13/10/2025
+- 🥸 [Điều ông bố đơn thân không thể làm cho con](https://vnexpress.net/dieu-ong-bo-don-than-khong-the-lam-cho-con-4949821.html) - 00:48 13/10/2025
+- 🌋 [Cuộc sống trên đê của làng lụt ngoại thành Hà Nội](https://vnexpress.net/cuoc-song-tren-de-cua-lang-lut-ngoai-thanh-ha-noi-4950444.html) - 17:47 12/10/2025
+- 🦩 [7 thói quen tưởng tiết kiệm nhưng lại tốn tiền](https://vnexpress.net/7-thoi-quen-tuong-tiet-kiem-nhung-lai-ton-tien-4950218.html) - 12:40 12/10/2025
+- 😺 [Trứng chiên cốm - món ngon ngày thu Hà Nội](https://vnexpress.net/trung-chien-com-mon-ngon-ngay-thu-ha-noi-4950380.html) - 08:20 12/10/2025
+- 🐻 [Cha kéo bè đưa con vượt lũ đi du học](https://vnexpress.net/cha-keo-be-dua-con-vuot-lu-di-du-hoc-4950356.html) - 07:53 12/10/2025
+- 🎬 [Ngày hội &#39;Gia đình trẻ hạnh phúc 2025&#39; khai mạc tại Hồ Gươm](https://vnexpress.net/ngay-hoi-gia-dinh-tre-hanh-phuc-2025-khai-mac-tai-ho-guom-4950365.html) - 07:15 12/10/2025
+- 🎊 [Bé gái 10 tuổi dùng thủ thuật Heimlich cứu em](https://vnexpress.net/be-gai-10-tuoi-dung-thu-thuat-heimlich-cuu-em-4950278.html) - 04:06 12/10/2025
+- 💄 [Cưới cùng lúc hai chồng](https://vnexpress.net/cuoi-cung-luc-hai-chong-4950274.html) - 03:55 12/10/2025
+- 🏊 [Nhiều người không biết tắt điện, nước, gas khi gặp sự cố](https://vnexpress.net/nhieu-nguoi-khong-biet-tat-dien-nuoc-gas-khi-gap-su-co-4950216.html) - 03:39 12/10/2025
+- 🌜 [Cậu bé bị nhầm là AI vì quá to lớn](https://vnexpress.net/cau-be-bi-nham-la-ai-vi-qua-to-lon-4950206.html) - 00:30 12/10/2025
+- 🤡 [Bác sĩ thành thiên tài piano sau khi bị sét đánh](https://vnexpress.net/bac-si-thanh-thien-tai-piano-sau-khi-bi-set-danh-4950183.html) - 23:29 11/10/2025
+- 🥰 [Hỗ trợ sơn sửa lớp học và tặng quà cho học sinh Lạng Sơn, Quảng Ninh](https://vnexpress.net/ho-tro-son-sua-lop-hoc-va-tang-qua-cho-hoc-sinh-lang-son-quang-ninh-4950179.html) - 17:29 11/10/2025
+- 🦍 [Hai lần trắng tay vì lũ](https://vnexpress.net/hai-lan-trang-tay-vi-lu-4950149.html) - 17:28 11/10/2025
+- 🫣 [Ba ưu điểm giúp Galaxy S25 FE thu hút phái đẹp](https://vnexpress.net/ba-uu-diem-giup-galaxy-s25-fe-thu-hut-phai-dep-4950210.html) - 11:29 11/10/2025
+- 🚦 [Bí quyết để thịt kho lên màu đẹp](https://vnexpress.net/doi-song-cooking-thit-kho-len-mau-dep-4950171.html) - 08:16 11/10/2025
 - 🐘 [Những thứ không nên giặt chung với khăn](https://vnexpress.net/nhung-thu-khong-nen-giat-chung-voi-khan-4947525.html) - 07:57 11/10/2025
 - 🔥 [Vợ chồng Nhật hối tiếc vì không dám tiêu tiền](https://vnexpress.net/vo-chong-nhat-hoi-tiec-vi-khong-dam-tieu-tien-4949054.html) - 07:55 11/10/2025
 - 🎃 [Lặn xuống nước lũ phá khóa cứu dân mắc kẹt](https://vnexpress.net/lan-xuong-nuoc-lu-pha-khoa-cuu-dan-mac-ket-4950050.html) - 02:59 11/10/2025
