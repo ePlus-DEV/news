@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [&quot;Bạn đọc Dân trí giúp đồng bào miền Trung sớm ổn định cuộc sống sau bão&quot;](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-giup-dong-bao-mien-trung-som-on-dinh-cuoc-song-sau-bao-20251015113206025.htm) - 06:23 17/10/2025
-- 🌈 [Cần sớm đánh thuế bất động sản để chống đầu cơ và &quot;hở ra là mua đất&quot;](https://dantri.com.vn/bat-dong-san/can-som-danh-thue-bat-dong-san-de-chong-dau-co-va-ho-ra-la-mua-dat-20251017113056342.htm) - 05:20 17/10/2025
+- 🌈 [70% người mua bất động sản để đầu tư](https://dantri.com.vn/bat-dong-san/70-nguoi-mua-bat-dong-san-de-dau-tu-20251017113056342.htm) - 05:20 17/10/2025
 - 🐎 [Vì sao Kluivert và Troussier thất bại ở bóng đá Đông Nam Á?](https://dantri.com.vn/the-thao/vi-sao-kluivert-va-troussier-that-bai-o-bong-da-dong-nam-a-20251017004815742.htm) - 03:00 17/10/2025
 - 👹 [Diva Mỹ Linh tiết lộ bí quyết hôn nhân: “Lý trí quan trọng hơn tình yêu”](https://dantri.com.vn/giai-tri/diva-my-linh-tiet-lo-bi-quyet-hon-nhan-ly-tri-quan-trong-hon-tinh-yeu-20251017075346096.htm) - 02:02 17/10/2025
 - 🫶 [Ngỡ chỉ là cơn sốt nhẹ, người đàn ông rơi vào sốc sốt xuất huyết nguy kịch](https://dantri.com.vn/suc-khoe/ngo-chi-la-con-sot-nhe-nguoi-dan-ong-roi-vao-soc-sot-xuat-huyet-nguy-kich-20251016081409212.htm) - 23:46 16/10/2025
