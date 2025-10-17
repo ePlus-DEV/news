@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Mỹ nhân sở hữu gương mặt tỉ lệ &quot;vàng&quot; trình diễn đôi cánh nặng 23kg](https://dantri.com.vn/giai-tri/my-nhan-so-huu-guong-mat-ti-le-vang-trinh-dien-doi-canh-nang-23kg-20251016202428432.htm) - 10:18 17/10/2025
+- 🤩 [Mỹ nhân sở hữu gương mặt tỷ lệ &quot;vàng&quot; trình diễn đôi cánh nặng 23kg](https://dantri.com.vn/giai-tri/my-nhan-so-huu-guong-mat-ty-le-vang-trinh-dien-doi-canh-nang-23kg-20251016202428432.htm) - 10:18 17/10/2025
 - 🔥 [Alicia Keys sẽ biểu diễn tại 8Wonder Winter 2025](https://dantri.com.vn/giai-tri/alicia-keys-se-bieu-dien-tai-8wonder-winter-2025-20251017155909896.htm) - 09:04 17/10/2025
 - 🚀 [Người mẫu 26 tuổi bị bắt cóc và sát hại, thi thể không còn nội tạng](https://dantri.com.vn/giai-tri/nguoi-mau-26-tuoi-bi-bat-coc-va-sat-hai-thi-the-khong-con-noi-tang-20251017150513038.htm) - 08:51 17/10/2025
 - 🔥 [Doãn Quốc Đam bị phản ứng vì vai chính gây ức chế trong phim giờ vàng](https://dantri.com.vn/giai-tri/doan-quoc-dam-bi-phan-ung-vi-vai-chinh-gay-uc-che-trong-phim-gio-vang-20251017132929166.htm) - 07:44 17/10/2025
