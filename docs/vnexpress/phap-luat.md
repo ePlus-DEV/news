@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nghi phạm gây chú ý vì &#39;xinh như diễn viên&#39;](https://vnexpress.net/nghi-pham-gay-chu-y-vi-xinh-nhu-dien-vien-4952759.html) - 14:47 17/10/2025
+- 😎 [Nhân viên quán bar ở Nhật Bản bị bắt vì ép đồng nghiệp bán dâm](https://vnexpress.net/nhan-vien-quan-bar-o-nhat-ban-bi-bat-vi-ep-dong-nghiep-ban-dam-4952759.html) - 14:47 17/10/2025
 - 🥰 [Thanh tra Chính phủ chuyển vi phạm trái phiếu của Novaland sang Bộ Công an](https://vnexpress.net/thanh-tra-chinh-phu-chuyen-vi-pham-trai-phieu-cua-novaland-sang-bo-cong-an-4952729.html) - 10:42 17/10/2025
 - 🎓 [Nam sinh lớp 12 bị bạn đâm tử vong sau giờ học](https://vnexpress.net/nam-sinh-lop-12-bi-ban-dam-tu-vong-sau-gio-hoc-4952694.html) - 09:56 17/10/2025
 - 🤓 [Hai quản trị trang &#39;Beat Thanh Hóa&#39; bị tạm giữ hình sự](https://vnexpress.net/hai-quan-tri-trang-beat-thanh-hoa-bi-tam-giu-hinh-su-4952713.html) - 09:46 17/10/2025
