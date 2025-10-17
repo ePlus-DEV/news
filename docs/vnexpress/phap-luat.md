@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Đề xuất tăng 10 lần tiền cho vay với người hết nghiện ma túy](https://vnexpress.net/de-xuat-tang-10-lan-tien-cho-vay-voi-nguoi-cai-nghien-xong-ma-tuy-4952355.html) - 00:44 17/10/2025
-- 🥰 [Tòa phúc thẩm xét lại bản án &#39;người bán gà lôi trắng bị phạt 6 năm tù&#39;](https://vnexpress.net/toa-phuc-tham-xet-lai-ban-an-nguoi-ban-ga-loi-trang-bi-phat-6-nam-tu-4952096.html) - 17:07 16/10/2025
+- 🥰 [VKS đề nghị miễn trách nhiệm hình sự cho người bán gà lôi trắng](https://vnexpress.net/vks-de-nghi-mien-trach-nhiem-hinh-su-cho-nguoi-ban-ga-loi-trang-4952096.html) - 17:07 16/10/2025
 - 🎓 [Chiêu trò phông bạt của &#39;bậc thầy dạy làm giàu&#39; Trung Quốc](https://vnexpress.net/chieu-tro-phong-bat-cua-bac-thay-day-lam-giau-trung-quoc-4952357.html) - 17:00 16/10/2025
 - 🤓 [Người khống chế, dọa &#39;chọc bút vào mắt&#39; nữ bác sĩ bị tạm giữ](https://vnexpress.net/nguoi-khong-che-doa-choc-but-vao-mat-nu-bac-si-bi-tam-giu-4952262.html) - 13:17 16/10/2025
 - 🎊 [Cựu cán bộ hải quan nhận hơn 4,3 tỷ đồng hối lộ bị tuyên 8 năm tù](https://vnexpress.net/cuu-can-bo-hai-quan-nhan-hon-4-3-ty-dong-hoi-lo-bi-tuyen-8-nam-tu-4952334.html) - 12:34 16/10/2025
