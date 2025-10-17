@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Chặn 6 triệu thuê bao không chính chủ](https://vnexpress.net/chan-6-trieu-thue-bao-khong-chinh-chu-4952549.html) - 05:10 17/10/2025
 - 🤓 [Bí thư TP Huế làm Bí thư Quảng Trị](https://vnexpress.net/bi-thu-tp-hue-lam-bi-thu-quang-tri-4952465.html) - 04:49 17/10/2025
 - ⚗️ [Kè sông Tiền sụp lún](https://vnexpress.net/ke-song-tien-sup-lun-4952539.html) - 04:14 17/10/2025
-- 🌊 [Bộ Chính trị chỉ định ông Nguyễn Hồ Hải làm Bí thư Cà Mau](https://vnexpress.net/bo-chinh-tri-chi-dinh-ong-nguyen-ho-hai-lam-bi-thu-ca-mau-4952477.html) - 03:36 17/10/2025
+- 🌊 [Ông Nguyễn Hồ Hải làm Bí thư Cà Mau](https://vnexpress.net/ong-nguyen-ho-hai-lam-bi-thu-ca-mau-4952477.html) - 03:36 17/10/2025
 - 🎓 [Bà Bùi Thị Minh Hoài tái đắc cử Bí thư Thành ủy Hà Nội](https://vnexpress.net/ba-bui-thi-minh-hoai-tai-dac-cu-bi-thu-thanh-uy-ha-noi-4952436.html) - 01:49 17/10/2025
 - 🔥 [Huế có tân Bí thư Thành ủy](https://vnexpress.net/hue-co-tan-bi-thu-thanh-uy-4952391.html) - 01:14 17/10/2025
 - 🦏 [Cà Mau khánh thành loạt công trình hơn 2.400 tỷ đồng](https://vnexpress.net/ca-mau-khanh-thanh-loat-cong-trinh-hon-2-400-ty-dong-4952353.html) - 17:00 16/10/2025
