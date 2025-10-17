@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Chuyển đổi xanh chờ những chính sách đột phá](https://vnexpress.net/chuyen-doi-xanh-cho-nhung-chinh-sach-dot-pha-4952707.html) - 12:50 17/10/2025
 - 🐲 [Dấu ấn Generali Việt Nam tại hội nghị tư vấn tài chính GAEC](https://vnexpress.net/dau-an-generali-viet-nam-tai-hoi-nghi-tu-van-tai-chinh-gaec-4952752.html) - 12:00 17/10/2025
 - 🔥 [EU sẽ hỗ trợ tài chính các nước ảnh hưởng bởi thuế biên giới carbon](https://vnexpress.net/eu-se-ho-tro-tai-chinh-cac-nuoc-anh-huong-boi-thue-bien-gioi-carbon-4952528.html) - 11:41 17/10/2025
-- 🐵 [Vietcombank, Techcombank đề nghị được thuê gia công sản xuất vàng miếng](https://vnexpress.net/vietcombank-techcombank-de-nghi-duoc-thue-gia-cong-san-xuat-vang-mieng-4952721.html) - 11:27 17/10/2025
+- 🐵 [Ngân hàng đề xuất được thuê gia công sản xuất vàng miếng](https://vnexpress.net/ngan-hang-de-xuat-duoc-thue-gia-cong-san-xuat-vang-mieng-4952721.html) - 11:27 17/10/2025
 - 🦅 [Gần 8 tỷ USD kiều hối về TP HCM trong 9 tháng](https://vnexpress.net/gan-8-ty-usd-kieu-hoi-ve-tp-hcm-trong-9-thang-4952669.html) - 11:00 17/10/2025
 - 😺 [Nhiều người lùng mua từng chỉ vàng](https://vnexpress.net/nhieu-nguoi-lung-mua-tung-chi-vang-4952686.html) - 10:50 17/10/2025
 - 🤩 [Đề xuất lập quỹ thúc đẩy sử dụng năng lượng tiết kiệm năm 2026](https://vnexpress.net/de-xuat-lap-quy-thuc-day-su-dung-nang-luong-tiet-kiem-nam-2026-4952597.html) - 10:06 17/10/2025
