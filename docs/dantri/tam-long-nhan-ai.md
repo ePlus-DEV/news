@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Cụ bà sống cô độc &quot;chết ngất&quot; khi chứng kiến nhà bị lũ đánh sập](https://dantri.com.vn/tam-long-nhan-ai/cu-ba-song-co-doc-chet-ngat-khi-chung-kien-nha-bi-lu-danh-sap-20251017131950547.htm) - 22:30 17/10/2025
+- 🌝 [Cụ bà sống cô độc đau khổ khi chứng kiến nhà bị lũ đánh sập](https://dantri.com.vn/tam-long-nhan-ai/cu-ba-song-co-doc-dau-kho-khi-chung-kien-nha-bi-lu-danh-sap-20251017131950547.htm) - 22:30 17/10/2025
 - 🌜 [Người mẹ đau buồn kể về thời khắc trắng đêm tìm con mất tích trong mưa lũ](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-dau-buon-ke-ve-thoi-khac-trang-dem-tim-con-mat-tich-trong-mua-lu-20251017183213241.htm) - 12:19 17/10/2025
 - 👀 [Báo Dân trí trao 200 triệu đồng hỗ trợ người dân vùng lũ tỉnh Bắc Ninh](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-200-trieu-dong-ho-tro-nguoi-dan-vung-lu-tinh-bac-ninh-20251017135933607.htm) - 09:16 17/10/2025
 - 🚀 [&quot;Bạn đọc Dân trí giúp đồng bào miền Trung sớm ổn định cuộc sống sau bão&quot;](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-giup-dong-bao-mien-trung-som-on-dinh-cuoc-song-sau-bao-20251015113206025.htm) - 06:23 17/10/2025
