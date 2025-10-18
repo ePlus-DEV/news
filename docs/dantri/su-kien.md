@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Thai phụ bị lũ cuốn trôi nhà được bạn đọc Dân trí giúp đỡ 107 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/thai-phu-bi-lu-cuon-troi-nha-duoc-ban-doc-dan-tri-giup-do-107-trieu-dong-20251018144514462.htm) - 11:10 18/10/2025
-- 👨‍🏫 [Vụ gà lôi trắng: Anh Thái Khắc Thành có được bồi thường 4 tháng tạm giam?](https://dantri.com.vn/phap-luat/vu-ga-loi-trang-anh-thai-khac-thanh-co-duoc-boi-thuong-4-thang-tam-giam-20251018122830617.htm) - 09:20 18/10/2025
+- 👨‍🏫 [Vụ gà lôi trắng: Ông Thái Khắc Thành có được bồi thường 4 tháng tạm giam?](https://dantri.com.vn/phap-luat/vu-ga-loi-trang-ong-thai-khac-thanh-co-duoc-boi-thuong-4-thang-tam-giam-20251018122830617.htm) - 09:20 18/10/2025
 - 🌮 [Cụ ông tử vong trong bể nước, người vợ bị thương nặng ở nhà tắm](https://dantri.com.vn/phap-luat/cu-ong-tu-vong-trong-be-nuoc-nguoi-vo-bi-thuong-nang-o-nha-tam-20251018144134577.htm) - 07:57 18/10/2025
 - 🕯 [Thủ tướng: “Cán bộ sai phạm phải xử nghiêm, vô cảm phải thay thế&quot;](https://dantri.com.vn/thoi-su/thu-tuong-can-bo-sai-pham-phai-xu-nghiem-vo-cam-phai-thay-the-20251018132355318.htm) - 06:36 18/10/2025
 - 🪜 [Chiến sự Ukraine 18/10: Kiev rút lui ở Pokrovsk, phòng tuyến tây nam đã vỡ](https://dantri.com.vn/the-gioi/chien-su-ukraine-1810-kiev-rut-lui-o-pokrovsk-phong-tuyen-tay-nam-da-vo-20251018114138927.htm) - 05:11 18/10/2025
