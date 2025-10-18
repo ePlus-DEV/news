@@ -401,7 +401,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Lọc màng bụng - Bệnh nhân có thể ‘chạy thận’ tại nhà](https://baochinhphu.vn/loc-mang-bung-benh-nhan-co-the-chay-than-tai-nha-102251018101842852.htm) - 10:18 18/10/2025
+- 💻 [Phụ nữ Việt Nam nói không với thực phẩm không an toàn, tiên phong lan tỏa lối sống xanh](https://baochinhphu.vn/phu-nu-viet-nam-noi-khong-voi-thuc-pham-khong-an-toan-tien-phong-lan-toa-loi-song-xanh-102251018110800802.htm) - 12:12 18/10/2025
 - 🌜 [Agribank chung tay dựng xây trường nội trú vùng biên Tây Giang](https://baochinhphu.vn/agribank-chung-tay-dung-xay-truong-noi-tru-vung-bien-tay-giang-102251018094502047.htm) - 09:35 18/10/2025
 - 🦆 [Tiến tới không cần công chứng, không cần giấy xác nhận tình trạng hôn nhân khi mua bán đất, xe](https://baochinhphu.vn/tien-toi-khong-can-cong-chung-khong-can-giay-xac-nhan-tinh-trang-hon-nhan-khi-mua-ban-dat-xe-1022510180811105.htm) - 09:35 18/10/2025
 - 🌝 [Thủ tướng chủ trì Hội nghị toàn quốc lần 4 thúc đẩy giải ngân đầu tư công](https://baochinhphu.vn/thu-tuong-chu-tri-hoi-nghi-toan-quoc-lan-4-thuc-day-giai-ngan-dau-tu-cong-102251018090923823.htm) - 09:34 18/10/2025
