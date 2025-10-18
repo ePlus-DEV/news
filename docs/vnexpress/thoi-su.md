@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Kè biển hơn 40 tỷ đồng vỡ nát sau mưa bão](https://vnexpress.net/ke-bien-hon-40-ty-dong-vo-nat-sau-mua-bao-4953045.html) - 17:00 18/10/2025
 - 🤓 [TP HCM dừng dự án nhà ở tại khu vực Bến Nhà Rồng](https://vnexpress.net/tp-hcm-dung-du-an-nha-o-tai-khu-vuc-ben-nha-rong-4953039.html) - 17:00 18/10/2025
-- ⚗️ [Sáng mai không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/sang-mai-khong-khi-lanh-tran-xuong-mien-bac-4953048.html) - 15:53 18/10/2025
+- ⚗️ [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4953048.html) - 15:53 18/10/2025
 - 🌊 [Bà Đỗ Thị Thu Thảo làm Chủ tịch Hội Chữ thập đỏ Việt Nam](https://vnexpress.net/ba-do-thi-thu-thao-lam-chu-tich-hoi-chu-thap-do-viet-nam-4953032.html) - 14:07 18/10/2025
 - 🎓 [CSGT kiểm tra nồng độ cồn trên toàn quốc](https://vnexpress.net/csgt-kiem-tra-nong-do-con-tren-toan-quoc-4952996.html) - 10:59 18/10/2025
 - 🔥 [Bàn giao 8 thư viện điện tử cho học sinh Huế, Đà Nẵng](https://vnexpress.net/ban-giao-8-thu-vien-dien-tu-cho-hoc-sinh-hue-da-nang-4952913.html) - 10:40 18/10/2025
