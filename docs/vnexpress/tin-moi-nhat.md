@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [Váy áo cảm hứng bánh bò, bánh khọt](https://vnexpress.net/vay-ao-cam-hung-banh-bo-banh-khot-4952243.html) - 09:00 18/10/2025
 - 🎊 [12 năm làm giám đốc &#39;đau đầu&#39; tặng quà ngày 20/10](https://vnexpress.net/12-nam-lam-giam-doc-dau-dau-tang-qua-ngay-20-10-4952954.html) - 09:00 18/10/2025
 - 🎃 [10 thói quen hàng ngày âm thầm đầu độc gan](https://vnexpress.net/10-thoi-quen-hang-ngay-am-tham-dau-doc-gan-4952856.html) - 09:00 18/10/2025
-- 🧰 [Deepfake lừa đảo ngày càng rẻ](https://vnexpress.net/deepfake-lua-dao-ngay-cang-re-4948819.html) - 09:00 18/10/2025
+- 🧰 [Dịch vụ tạo deepfake để lừa đảo ngày càng rẻ](https://vnexpress.net/dich-vu-tao-deepfake-de-lua-dao-ngay-cang-re-4948819.html) - 09:00 18/10/2025
 - 🔭 [Thủ tướng: Xử nghiêm cán bộ thiếu trách nhiệm, sai phạm trong giải ngân đầu tư công](https://vnexpress.net/thu-tuong-xu-nghiem-can-bo-thieu-trach-nhiem-sai-pham-trong-giai-ngan-dau-tu-cong-4952952.html) - 08:47 18/10/2025
 - 🫶 [5 mô hình kinh doanh tiềm năng năm 2025](https://vnexpress.net/5-mo-hinh-kinh-doanh-tiem-nang-nam-2025-4952968.html) - 08:44 18/10/2025
 - 🪜 [Bão Fengshen và không khí lạnh sẽ gây mưa lớn cho miền Trung](https://vnexpress.net/bao-fengshen-va-khong-khi-lanh-se-gay-mua-lon-cho-mien-trung-4952946.html) - 08:32 18/10/2025
