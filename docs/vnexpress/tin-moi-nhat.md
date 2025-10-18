@@ -18,7 +18,7 @@ sidebar_position: 9
 - 🎊 [Liên Bỉnh Phát đoạt giải Kim Chung](https://vnexpress.net/lien-binh-phat-doat-giai-kim-chung-4953064.html) - 16:52 18/10/2025
 - 🎊 [Cụ bà bị trói tay, sát hại](https://vnexpress.net/cu-ba-bi-troi-tay-sat-hai-4953056.html) - 16:34 18/10/2025
 - 😺 [Thanh tra tiệm vàng tại TP HCM và Đồng Nai](https://vnexpress.net/thanh-tra-tiem-vang-tai-tp-hcm-va-dong-nai-4953047.html) - 15:54 18/10/2025
-- 🐘 [Sáng mai không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/sang-mai-khong-khi-lanh-tran-xuong-mien-bac-4953048.html) - 15:53 18/10/2025
+- 🐘 [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4953048.html) - 15:53 18/10/2025
 - 🌁 [Thủ tướng: Không tạo &#39;giấy phép con&#39;, gánh nặng hành chính cho doanh nghiệp](https://vnexpress.net/thu-tuong-khong-tao-giay-phep-con-ganh-nang-hanh-chinh-cho-doanh-nghiep-4953031.html) - 15:35 18/10/2025
 - 🐲 [Mỹ nhân Philippines đăng quang Miss Grand International 2025](https://vnexpress.net/my-nhan-philippines-dang-quang-miss-grand-international-2025-4953027.html) - 15:18 18/10/2025
 - 🤓 [Tàu chở dầu bị tấn công ngoài khơi Yemen](https://vnexpress.net/tau-cho-dau-bi-tan-cong-ngoai-khoi-yemen-4953040.html) - 15:09 18/10/2025
