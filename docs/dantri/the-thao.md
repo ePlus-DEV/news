@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Cú đúp của Haaland nhấn chìm Everton, Man City trở lại ngôi đầu](https://dantri.com.vn/the-thao/cu-dup-cua-haaland-nhan-chim-everton-man-city-tro-lai-ngoi-dau-20251018233812836.htm) - 16:39 18/10/2025
+- 🎡 [Cú đúp của Haaland nhấn chìm Everton, Man City trở lại ngôi đầu bảng](https://dantri.com.vn/the-thao/cu-dup-cua-haaland-nhan-chim-everton-man-city-tro-lai-ngoi-dau-bang-20251018233812836.htm) - 16:39 18/10/2025
 - 💯 [HLV Harry Kewell: &quot;Hà Nội FC chơi bóng đá đẹp nhưng vẫn thua CLB Ninh Bình&quot;](https://dantri.com.vn/the-thao/hlv-harry-kewell-ha-noi-fc-choi-bong-da-dep-nhung-van-thua-clb-ninh-binh-20251018222142788.htm) - 15:36 18/10/2025
 - ⛽️ [Hà Nội FC thua CLB Ninh Bình trong ngày ra mắt của HLV Harry Kewell](https://dantri.com.vn/the-thao/ha-noi-fc-thua-clb-ninh-binh-trong-ngay-ra-mat-cua-hlv-harry-kewell-20251018220050641.htm) - 15:09 18/10/2025
 - 💃 [Chelsea thắng đậm Nottingham, HLV Postecoglou nhanh chóng bị sa thải](https://dantri.com.vn/the-thao/chelsea-thang-dam-nottingham-hlv-postecoglou-nhanh-chong-bi-sa-thai-20251018213136488.htm) - 14:32 18/10/2025
