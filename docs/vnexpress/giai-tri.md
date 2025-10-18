@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Váy áo cảm hứng bánh bò, bánh khọt](https://vnexpress.net/vay-ao-cam-hung-banh-bo-banh-khot-4952243.html) - 09:00 18/10/2025
+- 🌏 [Váy áo cảm hứng bánh miền Tây](https://vnexpress.net/vay-ao-cam-hung-banh-mien-tay-4952243.html) - 09:00 18/10/2025
 - 💫 [Sức hút của Ninh Dương Story tại Vietnam iContent Awards 2025](https://vnexpress.net/suc-hut-cua-ninh-duong-story-tai-vietnam-icontent-awards-2025-4952617.html) - 08:00 18/10/2025
 - 🌮 [Hoàng Phúc: &#39;Tôi biết ơn vợ&#39;](https://vnexpress.net/hoang-phuc-toi-biet-on-vo-4950625.html) - 07:28 18/10/2025
 - 🧠 [Cuộc thi &#39;Tiếng hát Hà Nội&#39; nhận thí sinh nước ngoài](https://vnexpress.net/cuoc-thi-tieng-hat-ha-noi-nhan-thi-sinh-nuoc-ngoai-4952197.html) - 05:28 18/10/2025
