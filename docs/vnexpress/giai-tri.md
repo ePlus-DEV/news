@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tranh của Picasso bị mất](https://vnexpress.net/tranh-cua-picasso-bi-mat-4953194.html) - 13:53 19/10/2025
 - 💫 [Cuộc sống tuổi 30 của Hoài Lâm](https://vnexpress.net/cuoc-song-tuoi-30-cua-hoai-lam-4953215.html) - 10:46 19/10/2025
-- 🌮 [Hà Anh Tuấn hát nhạc Phạm Duy, Trịnh Công Sơn ở Mỹ](https://vnexpress.net/ha-anh-tuan-hat-nhac-pham-duy-trinh-cong-son-o-my-4953200.html) - 10:42 19/10/2025
+- 🌮 [Hà Anh Tuấn hát nhạc phẩm về quê hương trên đất Mỹ](https://vnexpress.net/ha-anh-tuan-hat-nhac-pham-ve-que-huong-tren-dat-my-4953200.html) - 10:42 19/10/2025
 - 🧠 [Nghệ sĩ Ái Như hạnh phúc khi lần đầu đóng chính](https://vnexpress.net/nghe-si-ai-nhu-hanh-phuc-khi-lan-dau-dong-chinh-4953125.html) - 08:57 19/10/2025
 - 👨‍🏫 [Angelina Jolie diện váy lộ hình xăm hổ](https://vnexpress.net/angelina-jolie-dien-vay-lo-hinh-xam-ho-4953186.html) - 08:54 19/10/2025
 - ⚗️ [Liên Bỉnh Phát - từ phục vụ nhà hàng đến ngôi sao màn ảnh](https://vnexpress.net/lien-binh-phat-tu-phuc-vu-nha-hang-den-ngoi-sao-man-anh-4953121.html) - 06:00 19/10/2025
