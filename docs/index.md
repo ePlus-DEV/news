@@ -524,7 +524,7 @@ sân vận động 60.000 chỗ ngồi tại Hưng Yên](https://nld.com.vn/tong
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Gợi ý lời chúc 20-10 tràn đầy niềm vui, ấm áp](https://muctim.tuoitre.vn/goi-y-loi-chuc-20-10-tran-day-niem-vui-am-ap-101251019181251971.htm) - 13:17 19/10/2025
-- 🥷 [Trực tiếp vòng 7 V-League 1: Hải Phòng ghi 2 bàn trong 10 phút](https://muctim.tuoitre.vn/truc-tiep-vong-7-v-league-1-hai-phong-hagl-pvf-cand-thanh-hoa-ca-tphcm-hong-linh-ha-tinh-101251019180827643.htm) - 11:08 19/10/2025
+- 🥷 [Kết quả vòng 7 V-League 1: Hải Phòng đánh bại HAGL 3-0, Công An TP.HCM hòa](https://muctim.tuoitre.vn/truc-tiep-vong-7-v-league-1-hai-phong-hagl-pvf-cand-thanh-hoa-ca-tphcm-hong-linh-ha-tinh-101251019180827643.htm) - 11:08 19/10/2025
 - 🤖 [Chung kết U20 World Cup: Argentina hay Morocco đăng quang?](https://muctim.tuoitre.vn/chung-ket-u20-world-cup-argentina-hay-morocco-dang-quang-101251019162506225.htm) - 10:20 19/10/2025
 - 🤓 [Cách làm thiệp chúc mừng 20-10 nhanh, đẹp, ý nghĩa với Canva](https://muctim.tuoitre.vn/cach-lam-thiep-chuc-mung-20-10-nhanh-dep-y-nghia-voi-canva-101251019150110559.htm) - 10:14 19/10/2025
 - 🎉 [Xác định 18 câu lạc bộ dự MLS Cup 2025, Inter Miami gặp lại Nashville](https://muctim.tuoitre.vn/xac-dinh-18-cau-lac-bo-du-mls-cup-2025-inter-miami-gap-lai-nashville-10125101915500088.htm) - 09:35 19/10/2025
