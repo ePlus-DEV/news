@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [10 mẫu ô tô &quot;hút&quot; khách nhất ba quý đầu 2025: Hai xe vượt mốc 30.000 chiếc](https://dantri.com.vn/o-to-xe-may/10-mau-o-to-hut-khach-nhat-ba-quy-dau-2025-hai-xe-vuot-moc-30000-chiec-20251019131324465.htm) - 09:00 19/10/2025
+- 🕴 [10 ô tô &quot;hút&quot; khách nhất ba quý đầu 2025: Hai mẫu xe vượt mốc 30.000 chiếc](https://dantri.com.vn/o-to-xe-may/10-o-to-hut-khach-nhat-ba-quy-dau-2025-hai-mau-xe-vuot-moc-30000-chiec-20251019131324465.htm) - 09:00 19/10/2025
 - 💻 [Thông tin 17 Ủy viên Ban Thường vụ Thành ủy Hà Nội khóa mới](https://dantri.com.vn/thoi-su/thong-tin-17-uy-vien-ban-thuong-vu-thanh-uy-ha-noi-khoa-moi-20251018140720532.htm) - 23:00 18/10/2025
 - 🗽 [Quá trình công tác của Bí thư Thành ủy Hà Nội Bùi Thị Minh Hoài](https://dantri.com.vn/thoi-su/qua-trinh-cong-tac-cua-bi-thu-thanh-uy-ha-noi-bui-thi-minh-hoai-20251017122731927.htm) - 06:00 17/10/2025
 - 👺 [10 ô tô xăng/dầu “hút” khách Việt tháng 9: Xe Nhật áp đảo xe Hàn](https://dantri.com.vn/o-to-xe-may/10-o-to-xangdau-hut-khach-viet-thang-9-xe-nhat-ap-dao-xe-han-20251016111552794.htm) - 07:05 16/10/2025
