@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Chơi thiếu người, CLB Công an TPHCM chia điểm với CLB Hà Tĩnh](https://dantri.com.vn/the-thao/choi-thieu-nguoi-clb-cong-an-tphcm-chia-diem-voi-clb-ha-tinh-20251019215441205.htm) - 15:14 19/10/2025
-- 💯 [Liverpool 0-1 Man Utd &lpar;hiệp 1&rpar;: Mbeumo mở tỷ số](https://dantri.com.vn/the-thao/liverpool-0-1-man-utd-hiep-1-mbeumo-mo-ty-so-20251019221114786.htm) - 15:11 19/10/2025
+- 💯 [Liverpool 0-1 Man Utd &lpar;hết hiệp 1&rpar;: Mbeumo mở tỷ số](https://dantri.com.vn/the-thao/liverpool-0-1-man-utd-het-hiep-1-mbeumo-mo-ty-so-20251019221114786.htm) - 15:11 19/10/2025
 - ⛽️ [CLB Hải Phòng thắng đậm HA Gia Lai, PVF-CAND hoà CLB Thanh Hoá](https://dantri.com.vn/the-thao/clb-hai-phong-thang-dam-ha-gia-lai-pvf-cand-hoa-clb-thanh-hoa-20251019220518746.htm) - 15:11 19/10/2025
 - 💃 [Những bóng hồng khoe sắc tại Giải vô địch trẻ trượt băng Quốc gia](https://dantri.com.vn/the-thao/nhung-bong-hong-khoe-sac-tai-giai-vo-dich-tre-truot-bang-quoc-gia-20251019091120692.htm) - 14:53 19/10/2025
 - 🌈 [Khởi công sân vận động lớn nhất Việt Nam tại Hưng Yên](https://dantri.com.vn/the-thao/khoi-cong-san-van-dong-lon-nhat-viet-nam-tai-hung-yen-20251019193955269.htm) - 12:46 19/10/2025
