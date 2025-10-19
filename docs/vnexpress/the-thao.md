@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HAGL lần thứ ba xuống cuối bảng V-League 2025-2026](https://vnexpress.net/hagl-lan-thu-ba-xuong-cuoi-bang-v-league-2025-2026-4953244.html) - 13:31 19/10/2025
 - 🦩 [Cầu thủ La Liga phản đối việc đưa trận Villarreal - Barca sang Mỹ](https://vnexpress.net/cau-thu-la-liga-phan-doi-viec-dua-tran-villarreal-barca-sang-my-4953061.html) - 11:49 19/10/2025
-- 🧰 [U22 Timor Leste trách nhầm Thái Lan khi quên đăng ký dự SEA Games 33](https://vnexpress.net/u22-timor-leste-trach-nham-thai-lan-khi-quen-dang-ky-du-sea-games-33-4953205.html) - 09:27 19/10/2025
+- 🧰 [Timor Leste trách nhầm Thái Lan khi quên đăng ký dự SEA Games 33](https://vnexpress.net/timor-leste-trach-nham-thai-lan-khi-quen-dang-ky-du-sea-games-33-4953205.html) - 09:27 19/10/2025
 - 🤗 [Tuyển nữ Việt Nam vào bảng khó tại SEA Games 33](https://vnexpress.net/tuyen-nu-viet-nam-vao-bang-kho-tai-sea-games-33-4953189.html) - 08:28 19/10/2025
 - 🥳 [Khởi công sân vận động lớn nhất Việt Nam](https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-4953162.html) - 07:24 19/10/2025
 - 🦣 [U22 Việt Nam đấu Malaysia ở vòng bảng SEA Games 33](https://vnexpress.net/u22-viet-nam-dau-malaysia-o-vong-bang-sea-games-33-4953165.html) - 06:31 19/10/2025
