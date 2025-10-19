@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Liên Bỉnh Phát: Hãnh diện mặc áo dài nhận cúp Thị đế Đài Loan](https://vnexpress.net/lien-binh-phat-hanh-dien-mac-ao-dai-nhan-cup-thi-de-dai-loan-4953109.html) - 02:46 19/10/2025
+- 🌏 [Liên Bỉnh Phát: Hãnh diện mặc áo dài nhận cúp Thị đế](https://vnexpress.net/lien-binh-phat-hanh-dien-mac-ao-dai-nhan-cup-thi-de-4953109.html) - 02:46 19/10/2025
 - 💫 [Sắc vóc Emma Tiglao - tân Hoa hậu Hòa bình Quốc tế](https://vnexpress.net/sac-voc-emma-tiglao-tan-hoa-hau-hoa-binh-quoc-te-4953060.html) - 17:30 18/10/2025
 - 🌮 [Liên Bỉnh Phát đoạt giải Kim Chung](https://vnexpress.net/lien-binh-phat-doat-giai-kim-chung-4953064.html) - 16:52 18/10/2025
 - 🧠 [Mỹ nhân Philippines đăng quang Miss Grand International 2025](https://vnexpress.net/my-nhan-philippines-dang-quang-miss-grand-international-2025-4953027.html) - 15:18 18/10/2025
