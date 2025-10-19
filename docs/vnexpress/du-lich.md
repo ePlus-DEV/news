@@ -6,9 +6,9 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Tìm thấy chén trà khổng lồ cuối cùng bị lũ cuốn ở Thái Nguyên](https://vnexpress.net/tim-thay-chen-tra-khong-lo-cuoi-cung-bi-lu-cuon-o-thai-nguyen-4953152.html) - 06:35 19/10/2025
 - 🪄 [Pizza đắt nhất thế giới giá bao nhiêu?](https://vnexpress.net/pizza-dat-nhat-the-gioi-gia-bao-nhieu-4953147.html) - 05:00 19/10/2025
-- 🦅 [Ngã xuống kênh đào Venice vì tin lời Google maps](https://vnexpress.net/nga-xuong-kenh-dao-venice-vi-tin-loi-google-maps-4953119.html) - 04:33 19/10/2025
+- 🦅 [Ngã xuống kênh đào Venice vì tin lời Google Maps](https://vnexpress.net/nga-xuong-kenh-dao-venice-vi-tin-loi-google-maps-4953119.html) - 04:33 19/10/2025
 - 🕴 [Ba &#39;mỹ vị nhân gian&#39; nhất định phải thử ở Hong Kong](https://vnexpress.net/ba-my-vi-nhan-gian-nhat-dinh-phai-thu-o-hong-kong-4952980.html) - 03:00 19/10/2025
-- 👀 [Đến nhà tắm công cộng ở Thổ Nhĩ Kỳ](https://vnexpress.net/den-nha-tam-cong-cong-o-tho-nhi-ky-4949964.html) - 01:29 19/10/2025
+- 👀 [Khám phá nhà tắm công cộng ở Thổ Nhĩ Kỳ](https://vnexpress.net/kham-pha-nha-tam-cong-cong-o-tho-nhi-ky-4949964.html) - 01:29 19/10/2025
 - 🎭 [Khách Việt dành 12 ngày &#39;săn&#39; mùa thu vàng ở Bắc Kinh](https://vnexpress.net/khach-viet-danh-12-ngay-san-mua-thu-vang-o-bac-kinh-4950572.html) - 00:00 19/10/2025
 - 🦒 [Lý do khiến người nước ngoài thích sống ở Việt Nam](https://vnexpress.net/ly-do-khien-nguoi-nuoc-ngoai-thich-song-o-viet-nam-4950078.html) - 17:00 18/10/2025
 - 👨‍🏫 [5 làng du lịch Việt Nam được vinh danh &#39;Tốt nhất thế giới&#39;](https://vnexpress.net/5-lang-du-lich-viet-nam-duoc-vinh-danh-tot-nhat-the-gioi-4952851.html) - 12:00 18/10/2025
