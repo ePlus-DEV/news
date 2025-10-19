@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Vợ chồng ở Hà Nội tự lái 2.400km, ngủ lều du mục, khám phá Trung Á](https://dantri.com.vn/du-lich/vo-chong-o-ha-noi-tu-lai-2400km-ngu-leu-du-muc-kham-pha-trung-a-20251015170620457.htm) - 23:07 18/10/2025
+- 🥰 [Top 5 nhà hàng omakase giá dưới 1 triệu đồng ở TPHCM](https://dantri.com.vn/du-lich/top-5-nha-hang-omakase-gia-duoi-1-trieu-dong-o-tphcm-20251016000859505.htm) - 00:21 19/10/2025
 - 🥰 [Tăng chuyến bay đến Ấn Độ, Việt Nam kỳ vọng hút khách từ đất nước tỷ dân](https://dantri.com.vn/du-lich/tang-chuyen-bay-den-an-do-viet-nam-ky-vong-hut-khach-tu-dat-nuoc-ty-dan-20251015161903862.htm) - 09:18 18/10/2025
 - 🐻 [Gia đình nữ tiếp viên hàng không nhận tin nhắn lạ gây phẫn nộ giữa đám tang](https://dantri.com.vn/du-lich/gia-dinh-nu-tiep-vien-hang-khong-nhan-tin-nhan-la-gay-phan-no-giua-dam-tang-20251018154932647.htm) - 09:00 18/10/2025
 - 🤩 [Lý do Ba Na By Night trở thành trải nghiệm đêm “độc nhất vô nhị”](https://dantri.com.vn/du-lich/ly-do-ba-na-by-night-tro-thanh-trai-nghiem-dem-doc-nhat-vo-nhi-20251018115426512.htm) - 06:59 18/10/2025
