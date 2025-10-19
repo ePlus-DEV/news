@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tuyển nữ Việt Nam vào bảng khó tại SEA Games 33](https://vnexpress.net/tuyen-nu-viet-nam-vao-bang-kho-tai-sea-games-33-4953189.html) - 08:28 19/10/2025
-- 🦩 [Khởi công sân vận động lớn nhất Việt Nam ở Hưng Yên](https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-o-hung-yen-4953162.html) - 07:24 19/10/2025
+- 🦩 [Khởi công sân vận động lớn nhất Việt Nam](https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-4953162.html) - 07:24 19/10/2025
 - 🧰 [U22 Việt Nam đấu Malaysia ở vòng bảng SEA Games 33](https://vnexpress.net/u22-viet-nam-dau-malaysia-o-vong-bang-sea-games-33-4953165.html) - 06:31 19/10/2025
 - 🤗 [Arteta thích chiến thắng xấu xí của Arsenal](https://vnexpress.net/arteta-thich-chien-thang-xau-xi-cua-arsenal-4953137.html) - 06:00 19/10/2025
 - 🥳 [5 yếu tố có thể định đoạt trận Liverpool - Man Utd](https://vnexpress.net/5-yeu-to-co-the-dinh-doat-tran-liverpool-man-utd-4952576.html) - 05:30 19/10/2025
