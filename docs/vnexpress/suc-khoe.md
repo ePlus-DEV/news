@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Dùng vòi nước rửa ôtô xịt hậu môn gây thủng đại tràng](https://vnexpress.net/dung-voi-nuoc-rua-oto-xit-hau-mon-gay-thung-dai-trang-4953329.html) - 13:00 20/10/2025
+- 🔥 [Thủng đại tràng do vòi xịt nước áp lực cao](https://vnexpress.net/thung-dai-trang-do-voi-xit-nuoc-ap-luc-cao-4953329.html) - 13:00 20/10/2025
 - 🥰 [Nang ống sống là bệnh gì?](https://vnexpress.net/nang-ong-song-la-benh-gi-4953606.html) - 12:00 20/10/2025
 - 💡 [Những thực phẩm hỗ trợ cai thuốc lá](https://vnexpress.net/nhung-thuc-pham-ho-tro-cai-thuoc-la-4953530.html) - 12:00 20/10/2025
 - 🤗 [Ba năm vô sinh do không có tinh trùng](https://vnexpress.net/ba-nam-vo-sinh-do-khong-co-tinh-trung-4953479.html) - 12:00 20/10/2025
