@@ -20,7 +20,7 @@ sidebar_position: 11
 - 💼 [Vì sao giới siêu giàu &#39;nghiện&#39; máy bay riêng?](https://vnexpress.net/vi-sao-gioi-sieu-giau-nghien-may-bay-rieng-4950698.html) - 08:05 18/10/2025
 - 🤡 [Món bánh nào trong danh sách &#39;39 món tệ nhất Việt Nam&#39; năm 2025?](https://vnexpress.net/mon-banh-nao-trong-danh-sach-39-mon-te-nhat-viet-nam-nam-2025-4952871.html) - 07:41 18/10/2025
 - 🐵 [7 sai lầm &#39;đốt tiền&#39; người Việt mắc phải khi đi du lịch](https://vnexpress.net/7-sai-lam-dot-tien-nguoi-viet-mac-phai-khi-di-du-lich-4951822.html) - 05:00 18/10/2025
-- 😺 [Lạc bước ở Lô Lô Chải - làng du lịch tốt nhất thế giới 2025](https://vnexpress.net/lac-buoc-o-lo-lo-chai-lang-du-lich-tot-nhat-the-gioi-2025-4952798.html) - 03:24 18/10/2025
+- 😺 [Lạc bước ở Lô Lô Chải - làng du lịch tốt nhất thế giới 2025](https://vnexpress.net/cam-nang-du-lich-lo-lo-chai-4952798.html) - 03:24 18/10/2025
 - 🌈 [Ba thành phố rùng rợn nhất nước Mỹ](https://vnexpress.net/ba-thanh-pho-rung-ron-nhat-nuoc-my-4951762.html) - 02:00 18/10/2025
 - ⚗️ [Thái Lan phạt 80 triệu đồng nếu khách dùng kem chống nắng hại san hô](https://vnexpress.net/thai-lan-phat-80-trieu-dong-neu-khach-dung-kem-chong-nang-hai-san-ho-4952748.html) - 17:00 17/10/2025
 - 👀 [Lô Lô Chải và Quỳnh Sơn là làng du lịch tốt nhất thế giới 2025](https://vnexpress.net/lo-lo-chai-va-quynh-son-la-lang-du-lich-tot-nhat-the-gioi-2025-4952766.html) - 14:16 17/10/2025
