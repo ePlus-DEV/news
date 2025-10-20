@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- dantri-tinh-yeu-gioi-tinh:START -->
-- 👨‍🏫 [Cởi quần của con gái, tôi hốt hoảng khi phát hiện sự thật chấn động](https://dantri.com.vn/tinh-yeu-gioi-tinh/coi-quan-cua-con-gai-toi-hot-hoang-khi-phat-hien-su-that-chan-dong-20251020123204015.htm) - 07:00 20/10/2025
+- 👨‍🏫 [Từ vết bầm tím trên chân con, tôi hốt hoảng phát hiện sự thật chấn động](https://dantri.com.vn/tinh-yeu-gioi-tinh/tu-vet-bam-tim-tren-chan-con-toi-hot-hoang-phat-hien-su-that-chan-dong-20251020123204015.htm) - 07:00 20/10/2025
 - 🦣 [Coi bạn thân của vợ như em gái, tôi ngã ngửa khi cô ấy đưa ra đề nghị](https://dantri.com.vn/tinh-yeu-gioi-tinh/coi-ban-than-cua-vo-nhu-em-gai-toi-nga-ngua-khi-co-ay-dua-ra-de-nghi-20251020105152894.htm) - 04:15 20/10/2025
 - 🔭 [Ra mắt mẹ chồng tương lai, tôi &quot;chạy mất dép&quot; không dám làm dâu nhà này](https://dantri.com.vn/tinh-yeu-gioi-tinh/ra-mat-me-chong-tuong-lai-toi-chay-mat-dep-khong-dam-lam-dau-nha-nay-20251020024419490.htm) - 02:09 20/10/2025
 - 🧐 [7 năm làm dâu, con chưa từng gọi mẹ bằng hai chữ “mẹ chồng”](https://dantri.com.vn/tinh-yeu-gioi-tinh/7-nam-lam-dau-con-chua-tung-goi-me-bang-hai-chu-me-chong-20251019201406957.htm) - 23:27 19/10/2025
