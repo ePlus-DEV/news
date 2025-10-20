@@ -412,11 +412,11 @@ sân vận động 60.000 chỗ ngồi tại Hưng Yên](https://nld.com.vn/tong
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Xây dựng kế hoạch 5 năm 2026-2030 với tinh thần hành động quyết liệt, đồng bộ, khả thi, hiệu quả, phấn đấu GDP 10%/năm trở lên](https://baochinhphu.vn/xay-dung-ke-hoach-5-nam-2026-2030-voi-tinh-than-hanh-dong-quyet-liet-dong-bo-kha-thi-hieu-qua-phan-dau-gdp-10-nam-tro-len-102251019233720119.htm) - 23:37 19/10/2025
-- 🌜 [Gió lạnh đầu mùa](https://baochinhphu.vn/gio-lanh-dau-mua-102251019224753044.htm) - 22:57 19/10/2025
-- 🦆 [Mở ra giai đoạn mới trong hợp tác Việt Nam-Phần Lan](https://baochinhphu.vn/mo-ra-giai-doan-moi-trong-hop-tac-viet-nam-phan-lan-102251019223212448.htm) - 22:41 19/10/2025
-- 🌝 [Chủ tịch Quốc hội: Chung sức, đồng lòng hoàn thành tốt trọng trách trong kỳ họp lịch sử](https://baochinhphu.vn/chu-tich-quoc-hoi-chung-suc-dong-long-hoan-thanh-tot-trong-trach-trong-ky-hop-lich-su-102251019193416792.htm) - 19:35 19/10/2025
-- 🦣 [Sáng mai &lpar;20/10&rpar;: Khai mạc Kỳ họp thứ 10, Quốc hội khóa XV](https://baochinhphu.vn/sang-mai-20-10-khai-mac-ky-hop-thu-10-quoc-hoi-khoa-xv-102251019190120129.htm) - 19:10 19/10/2025
+- 💻 [TRỰC TIẾP Sáng nay: Khai mạc Kỳ họp thứ 10, Quốc hội khóa XV](https://baochinhphu.vn/sang-mai-20-10-khai-mac-ky-hop-thu-10-quoc-hoi-khoa-xv-102251019190120129.htm) - 06:10 20/10/2025
+- 🌜 [Xây dựng kế hoạch 5 năm 2026-2030 với tinh thần hành động quyết liệt, đồng bộ, khả thi, hiệu quả, phấn đấu GDP 10%/năm trở lên](https://baochinhphu.vn/xay-dung-ke-hoach-5-nam-2026-2030-voi-tinh-than-hanh-dong-quyet-liet-dong-bo-kha-thi-hieu-qua-phan-dau-gdp-10-nam-tro-len-102251019233720119.htm) - 23:37 19/10/2025
+- 🦆 [Gió lạnh đầu mùa](https://baochinhphu.vn/gio-lanh-dau-mua-102251019224753044.htm) - 22:57 19/10/2025
+- 🌝 [Mở ra giai đoạn mới trong hợp tác Việt Nam-Phần Lan](https://baochinhphu.vn/mo-ra-giai-doan-moi-trong-hop-tac-viet-nam-phan-lan-102251019223212448.htm) - 22:41 19/10/2025
+- 🦣 [Chủ tịch Quốc hội: Chung sức, đồng lòng hoàn thành tốt trọng trách trong kỳ họp lịch sử](https://baochinhphu.vn/chu-tich-quoc-hoi-chung-suc-dong-long-hoan-thanh-tot-trong-trach-trong-ky-hop-lich-su-102251019193416792.htm) - 19:35 19/10/2025
 - ⛽️ [Đẩy nhanh tiến độ thi công các gian hàng Hội chợ Mùa thu](https://baochinhphu.vn/day-nhanh-tien-do-thi-cong-cac-gian-hang-hoi-cho-mua-thu-102251019185034658.htm) - 18:37 19/10/2025
 - 🎓 [Phụ nữ chạy hưởng ứng vì môi trường không khói thuốc, lan tỏa thông điệp sống xanh](https://baochinhphu.vn/phu-nu-chay-huong-ung-vi-moi-truong-khong-khoi-thuoc-lan-toa-thong-diep-song-xanh-102251019113732424.htm) - 18:24 19/10/2025
 - 💡 [Thủ tướng: Nhiệm kỳ này đã dành 600 nghìn tỷ đồng cho giao thông ĐBSCL](https://baochinhphu.vn/thu-tuong-nhiem-ky-nay-da-danh-600-nghin-ty-dong-cho-giao-thong-dbscl-102251019175517973.htm) - 18:10 19/10/2025
