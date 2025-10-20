@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai thanh niên bị khởi tố vì đá vào mặt bạn, bắt bò giữa đường](https://vnexpress.net/hai-thanh-nien-bi-khoi-to-vi-da-vao-mat-ban-bat-bo-giua-duong-4953712.html) - 14:36 20/10/2025
+- 😎 [Hai thanh niên đá vào mặt nam sinh, bắt bò giữa đường](https://vnexpress.net/hai-thanh-nien-da-vao-mat-nam-sinh-bat-bo-giua-duong-4953712.html) - 14:36 20/10/2025
 - 🥰 [Trinh sát bao vây, đạp ngã người chở bao ma túy](https://vnexpress.net/trinh-sat-bao-vay-dap-nga-nguoi-cho-bao-ma-tuy-4953686.html) - 13:48 20/10/2025
 - 🎓 [Vỏ bọc &#39;thiếu nữ thiên tài&#39; của CEO siêu lừa](https://vnexpress.net/vo-boc-thieu-nu-thien-tai-cua-ceo-sieu-lua-4953611.html) - 13:00 20/10/2025
 - 🤓 [Tịch thu hơn 2 tỷ đồng tại tiệm vàng mua bán ngoại tệ trái phép](https://vnexpress.net/tich-thu-hon-2-ty-dong-tai-tiem-vang-mua-ban-ngoai-te-trai-phep-4953446.html) - 10:32 20/10/2025
