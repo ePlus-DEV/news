@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nước nào ô nhiễm nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-o-nhiem-nhat-dong-nam-a-4953663.html) - 13:18 20/10/2025
-- 🦆 [Nam sinh lớp 10 bị bắt quỳ, liếm biển số xe](https://vnexpress.net/nam-sinh-lop-10-bi-bat-quy-liem-bien-so-xe-4953694.html) - 12:45 20/10/2025
+- 🦆 [Nam sinh lớp 10 bị đá vào mặt, bắt quỳ](https://vnexpress.net/nam-sinh-lop-10-bi-da-vao-mat-bat-quy-4953694.html) - 12:45 20/10/2025
 - 🦩 [Trường dừng bán trú, hàng trăm phụ huynh cho con nghỉ học](https://vnexpress.net/truong-dung-ban-tru-hang-tram-phu-huynh-cho-con-nghi-hoc-4953467.html) - 06:23 20/10/2025
 - 🌮 [Giáo viên cả nước chia sẻ về &#39;Tiếng nói Xanh&#39;](https://vnexpress.net/giao-vien-ca-nuoc-chia-se-ve-tieng-noi-xanh-4953427.html) - 04:00 20/10/2025
 - 🔭 [Quảng Trị có thêm 20 nhà vệ sinh đạt chuẩn](https://vnexpress.net/quang-tri-co-them-20-nha-ve-sinh-dat-chuan-4953330.html) - 03:00 20/10/2025
