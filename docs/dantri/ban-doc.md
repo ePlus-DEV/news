@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Ẩn hoạ từ những hố móng đầy nước trong Khu đô thị Dương Nội](https://dantri.com.vn/ban-doc/an-hoa-tu-nhung-ho-mong-day-nuoc-trong-khu-do-thi-duong-noi-20251020105310978.htm) - 04:21 20/10/2025
+- 🦒 [Ẩn họa từ những hố móng đầy nước trong Khu đô thị Dương Nội](https://dantri.com.vn/ban-doc/an-hoa-tu-nhung-ho-mong-day-nuoc-trong-khu-do-thi-duong-noi-20251020105310978.htm) - 04:21 20/10/2025
 - 🤓 [Từ vụ án Gà lôi trắng: Khi pháp luật là để giáo dục công dân sống tốt hơn](https://dantri.com.vn/ban-doc/tu-vu-an-ga-loi-trang-khi-phap-luat-la-de-giao-duc-cong-dan-song-tot-hon-20251018182635951.htm) - 01:26 20/10/2025
 - 🐻 [Cùng một loại đất của một dự án, xã được hỗ trợ, xã không](https://dantri.com.vn/ban-doc/cung-mot-loai-dat-cua-mot-du-an-xa-duoc-ho-tro-xa-khong-20250719150318539.htm) - 00:04 20/10/2025
 - 🏊 [Doanh nghiệp thắng kiện, buộc một xã ở Gia Lai trả nợ gần 1 tỷ đồng](https://dantri.com.vn/ban-doc/doanh-nghiep-thang-kien-buoc-mot-xa-o-gia-lai-tra-no-gan-1-ty-dong-20251018200941133.htm) - 07:59 19/10/2025
