@@ -528,7 +528,7 @@ sân vận động 60.000 chỗ ngồi tại Hưng Yên](https://nld.com.vn/tong
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp chung kết U20 World Cup 2025: Argentina đấu Morocco](https://muctim.tuoitre.vn/truc-tiep-chung-ket-u20-world-cup-2025-argentina-dau-morocco-10125102006034875.htm) - 23:13 19/10/2025
+- 🤔 [Trực tiếp chung kết U20 World Cup 2025: Argentina - Morocco 0-2](https://muctim.tuoitre.vn/truc-tiep-chung-ket-u20-world-cup-2025-argentina-dau-morocco-10125102006034875.htm) - 23:13 19/10/2025
 - 🥷 [Teen đắm mình trong kịch lịch sử và đờn ca tài tử tại Những ngày văn học - nghệ thuật TP.HCM](https://muctim.tuoitre.vn/teen-dam-minh-trong-kich-lich-su-va-don-ca-tai-tu-tai-nhung-ngay-van-hoc-nghe-thuat-tphcm-101251019195911028.htm) - 15:51 19/10/2025
 - 🤖 [Truyện ngắn Mực Tím: Tên cậu là gì?](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-ten-cau-la-gi-101250924154840451.htm) - 15:20 19/10/2025
 - 🤓 [Dự báo thời tiết từ 19 đến 25-10: Bắc Bộ rét, Trung Bộ mưa diện rộng, Nam Bộ mưa chiều](https://muctim.tuoitre.vn/du-bao-thoi-tiet-tu-19-den-25-10-bac-bo-ret-trung-bo-mua-dien-rong-nam-bo-mua-chieu-10125101921465892.htm) - 14:47 19/10/2025
