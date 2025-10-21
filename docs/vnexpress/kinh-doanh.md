@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Người lao động không thể mua nhà vì giá bất động sản tăng quá cao&#39;](https://vnexpress.net/nguoi-lao-dong-khong-the-mua-nha-vi-gia-bat-dong-san-tang-qua-cao-4953886.html) - 06:09 21/10/2025
+- ⛽️ [&#39;Công chức không thể mua nhà vì giá bất động sản tăng quá cao&#39;](https://vnexpress.net/cong-chuc-khong-the-mua-nha-vi-gia-bat-dong-san-tang-qua-cao-4953886.html) - 06:09 21/10/2025
 - 🐲 [LPBank báo lãi hơn 9.600 tỷ đồng sau 9 tháng](https://vnexpress.net/lpbank-bao-lai-hon-9-600-ty-dong-sau-9-thang-4953839.html) - 04:00 21/10/2025
 - 🔥 [Mỹ ký thỏa thuận đất hiếm với Australia](https://vnexpress.net/my-ky-thoa-thuan-dat-hiem-voi-australia-4953763.html) - 03:46 21/10/2025
 - 🐵 [Giá vàng miếng trong nước tăng hơn 3 triệu đồng](https://vnexpress.net/gia-vang-mieng-trong-nuoc-tang-hon-3-trieu-dong-4953808.html) - 02:35 21/10/2025
