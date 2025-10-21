@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Đường sá hư hỏng, thiệt hại gần 400 tỷ đồng do bão Matmo](https://vnexpress.net/duong-sa-hu-hong-thiet-hai-gan-400-ty-dong-do-bao-matmo-4953999.html) - 10:24 21/10/2025
 - 🔥 [Sạt lở đường &#39;nuốt chửng&#39; nhà sau mưa kéo dài](https://vnexpress.net/sat-lo-duong-nuot-chung-nha-sau-mua-keo-dai-4954009.html) - 10:16 21/10/2025
 - 🦏 [Thủ tướng: Phòng không - Không quân là tuyến đầu phòng thủ quốc gia](https://vnexpress.net/thu-tuong-phong-khong-khong-quan-la-tuyen-dau-phong-thu-quoc-gia-4953873.html) - 09:02 21/10/2025
-- 👺 [Sóng lớn tràn bờ sông Hàn, làm hư hại vỉa hè](https://vnexpress.net/song-lon-tran-bo-song-han-lam-hu-hai-via-he-4953969.html) - 08:20 21/10/2025
+- 👺 [Sóng lớn xô mạnh bờ kè, tràn vào nhà dân](https://vnexpress.net/song-lon-xo-manh-bo-ke-tran-vao-nha-dan-4953969.html) - 08:20 21/10/2025
 - 🧑‍🏫 [Dự trữ lương thực, huy động xuồng cứu hộ đề phòng lũ lớn](https://vnexpress.net/du-tru-luong-thuc-huy-dong-xuong-cuu-ho-de-phong-lu-lon-4953900.html) - 07:54 21/10/2025
 - 🚦 [Sơ tán hơn 300 người dân khỏi vùng núi nguy cơ sạt lở](https://vnexpress.net/so-tan-hon-300-nguoi-dan-khoi-vung-nui-nguy-co-sat-lo-4953919.html) - 05:40 21/10/2025
 - 🎉 [Bộ trưởng Nội vụ: Hoàn thiện phân loại đơn vị hành chính để triển khai chính sách](https://vnexpress.net/bo-truong-noi-vu-hoan-thien-phan-loai-don-vi-hanh-chinh-de-trien-khai-chinh-sach-4953821.html) - 04:41 21/10/2025
