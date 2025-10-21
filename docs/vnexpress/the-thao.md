@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Barca đại thắng trước thềm El Clasico](https://vnexpress.net/barca-dai-thang-truoc-them-el-clasico-4954184.html) - 18:38 21/10/2025
+- 🪜 [Rashford lập cú đúp, Barca đại thắng trước thềm El Clasico](https://vnexpress.net/rashford-lap-cu-dup-barca-dai-thang-truoc-them-el-clasico-4954184.html) - 18:38 21/10/2025
 - 🦩 [HLV Mai Đức Chung: &#39;Nữ Việt Nam không ngại Philippines&#39;](https://vnexpress.net/hlv-mai-duc-chung-nu-viet-nam-khong-ngai-philippines-4954128.html) - 13:19 21/10/2025
 - 🧰 [HLV Ishii tức giận vì Thái Lan sa thải đột ngột](https://vnexpress.net/hlv-ishii-tuc-gian-vi-thai-lan-sa-thai-dot-ngot-4954122.html) - 11:24 21/10/2025
 - 🤗 [Hansi Flick: &#39;Tôi phải cư xử lại, làm gương cho con cháu&#39;](https://vnexpress.net/hansi-flick-toi-phai-cu-xu-lai-lam-guong-cho-con-chau-4954103.html) - 10:49 21/10/2025
