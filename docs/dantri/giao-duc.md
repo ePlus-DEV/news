@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Lo bão Fangshen gây ngập lụt, trường học nhận giữ xe ô tô miễn phí](https://dantri.com.vn/giao-duc/lo-bao-fangshen-gay-ngap-lut-truong-hoc-nhan-giu-xe-o-to-mien-phi-20251022185222975.htm) - 14:02 22/10/2025
+- 🤡 [Lo bão Fangshen gây ngập lụt, trường học nhận giữ ô tô miễn phí](https://dantri.com.vn/giao-duc/lo-bao-fangshen-gay-ngap-lut-truong-hoc-nhan-giu-o-to-mien-phi-20251022185222975.htm) - 14:02 22/10/2025
 - 🗽 [Thầy giáo được minh oan sau 9 năm chuyển trường: Chủ tịch tỉnh chỉ đạo khẩn](https://dantri.com.vn/giao-duc/thay-giao-duoc-minh-oan-sau-9-nam-chuyen-truong-chu-tich-tinh-chi-dao-khan-20251022164029516.htm) - 11:09 22/10/2025
 - 🚦 [Vụ 40 học sinh nhập viện: Tiếp tục tạm đình chỉ nữ phó hiệu trưởng](https://dantri.com.vn/giao-duc/vu-40-hoc-sinh-nhap-vien-tiep-tuc-tam-dinh-chi-nu-pho-hieu-truong-20251022160522752.htm) - 09:39 22/10/2025
 - 🌋 [Chương trình học y quốc tế bị chấm dứt, sinh viên gửi tâm thư sang Đức](https://dantri.com.vn/giao-duc/chuong-trinh-hoc-y-quoc-te-bi-cham-dut-sinh-vien-gui-tam-thu-sang-duc-20251022162148899.htm) - 09:33 22/10/2025
