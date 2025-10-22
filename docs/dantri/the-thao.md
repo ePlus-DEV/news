@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lịch thi đấu của U22 Việt Nam ở giải đấu tại Trung Quốc trước SEA Games](https://dantri.com.vn/the-thao/lich-thi-dau-cua-u22-viet-nam-o-giai-dau-tai-trung-quoc-truoc-sea-games-20251022172340060.htm) - 10:23 22/10/2025
+- 🎡 [Lịch thi đấu của U22 Việt Nam ở giải đấu tại Trung Quốc trước SEA Games](https://dantri.com.vn/the-thao/lich-thi-dau-cua-u22-viet-nam-o-giai-dau-tai-trung-quoc-truoc-sea-games-20251022172340060.htm) - 10:33 22/10/2025
 - 💯 [Đội bóng làng chài 800 người viết nên câu chuyện cổ tích ở Thụy Điển](https://dantri.com.vn/the-thao/doi-bong-lang-chai-800-nguoi-viet-nen-cau-chuyen-co-tich-o-thuy-dien-20251021101016151.htm) - 07:31 22/10/2025
 - ⛽️ [HLV Shin Tae Yong bất ngờ tuyên bố muốn trở lại đội tuyển Indonesia](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-bat-ngo-tuyen-bo-muon-tro-lai-doi-tuyen-indonesia-20251022112228801.htm) - 06:06 22/10/2025
 - 💃 [Bóng đá Thái Lan thông báo về việc lựa chọn HLV đội tuyển quốc gia](https://dantri.com.vn/the-thao/bong-da-thai-lan-thong-bao-ve-viec-lua-chon-hlv-doi-tuyen-quoc-gia-20251022120445740.htm) - 06:04 22/10/2025
