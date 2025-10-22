@@ -7,8 +7,8 @@ sidebar_position: 1
 - 🦒 [Nông dân Cà Mau đổi đời nhờ nuôi tôm tuần hoàn](https://vnexpress.net/nong-dan-ca-mau-doi-doi-nho-nuoi-tom-tuan-hoan-4954558.html) - 17:00 22/10/2025
 - 🤓 [Sóng lớn uy hiếp kè biển miền Trung](https://vnexpress.net/song-lon-uy-hiep-ke-bien-mien-trung-4954545.html) - 17:00 22/10/2025
 - ⚗️ [Vé tàu Tết bán chậm](https://vnexpress.net/ve-tau-tet-ban-cham-4954393.html) - 17:00 22/10/2025
-- 🌊 [Hơn 262.000 bộ đội, dân quân ứng phó bão Fengshen](https://vnexpress.net/hon-262-000-bo-doi-dan-quan-ung-pho-bao-fengshen-4954318.html) - 14:55 22/10/2025
-- 🎓 [Bão Fengshen suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-fengshen-suy-yeu-thanh-ap-thap-nhiet-doi-4954623.html) - 14:07 22/10/2025
+- 🌊 [Hơn 262.000 bộ đội, dân quân ứng phó mưa bão](https://vnexpress.net/hon-262-000-bo-doi-dan-quan-ung-pho-mua-bao-4954318.html) - 14:55 22/10/2025
+- 🎓 [Bão Fengshen suy yếu, áp thấp nhiệt đới mới hình thành gần Biển Đông](https://vnexpress.net/bao-fengshen-suy-yeu-ap-thap-nhiet-doi-moi-hinh-thanh-gan-bien-dong-4954623.html) - 14:07 22/10/2025
 - 🔥 [Triều cường vượt mốc lịch sử, đường phố Cần Thơ ngập sâu](https://vnexpress.net/trieu-cuong-vuot-moc-lich-su-duong-pho-can-tho-ngap-sau-4954617.html) - 13:17 22/10/2025
 - 🦏 [Dự kiến trình phương án một bộ sách giáo khoa vào tháng 11](https://vnexpress.net/du-kien-trinh-phuong-an-mot-bo-sach-giao-khoa-vao-thang-11-4954576.html) - 11:32 22/10/2025
 - 👺 [Áp thấp nhiệt đới xuất hiện gần Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-xuat-hien-gan-bien-dong-4954588.html) - 11:31 22/10/2025
