@@ -4,12 +4,12 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Mỹ nhịn ăn trưa để tiết kiệm](https://vnexpress.net/nguoi-my-nhin-an-trua-de-tiet-kiem-4954461.html) - 08:05 22/10/2025
-- 🎓 [Miễn phí taxi cho người cha đến viện &#39;đón con đã mất&#39;](https://vnexpress.net/mien-phi-taxi-cho-nguoi-cha-den-vien-don-con-da-mat-4954372.html) - 05:20 22/10/2025
+- 🚀 [Nhịn ăn trưa để tiết kiệm](https://vnexpress.net/nhin-an-trua-de-tiet-kiem-4954461.html) - 08:05 22/10/2025
+- 🎓 [Tài xế miễn phí cho người cha đến viện &#39;đón con đã mất&#39;](https://vnexpress.net/tai-xe-mien-phi-cho-nguoi-cha-den-vien-don-con-da-mat-4954372.html) - 05:20 22/10/2025
 - 🚦 [Người bán báo dạo cuối cùng ở Paris](https://vnexpress.net/nguoi-ban-bao-dao-cuoi-cung-o-paris-4954319.html) - 03:27 22/10/2025
 - 🦣 [Cuộc chiến sinh tồn trong căn hộ &#39;chuồng chim&#39;](https://vnexpress.net/cuoc-chien-sinh-ton-trong-can-ho-chuong-chim-4954185.html) - 01:31 22/10/2025
 - 🎓 [Vỡ mộng &#39;du mục kỹ thuật số&#39;](https://vnexpress.net/vo-mong-du-muc-ky-thuat-so-4953984.html) - 23:30 21/10/2025
-- 🎭 [Người Mỹ kiệt sức nhưng không dám nhảy việc](https://vnexpress.net/nguoi-my-kiet-suc-nhung-khong-dam-nhay-viec-4953924.html) - 23:00 21/10/2025
+- 🎭 [Nhiều người kiệt sức nhưng không dám nhảy việc](https://vnexpress.net/nhieu-nguoi-kiet-suc-nhung-khong-dam-nhay-viec-4953924.html) - 23:00 21/10/2025
 - 🦅 [Mẹo chữa món ăn bị mặn](https://vnexpress.net/meo-chua-mon-an-bi-man-4954095.html) - 09:58 21/10/2025
 - 🎃 [Quay lại chăm sóc người yêu cũ mắc bệnh nan y](https://vnexpress.net/quay-lai-cham-soc-nguoi-yeu-cu-mac-benh-nan-y-4953998.html) - 09:06 21/10/2025
 - 💪 [Tổ ấm gần thiên nhiên của Ngọc Sơn](https://vnexpress.net/to-am-gan-thien-nhien-cua-ngoc-son-4953710.html) - 09:00 21/10/2025
