@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Hàng trăm nghìn cây sen đá trên đỉnh Fansipan](https://vnexpress.net/hang-tram-nghin-cay-sen-da-tren-dinh-fansipan-4954837.html) - 12:00 23/10/2025
 - 🪄 [Bên trong sân bay 2 tỷ USD kỳ vọng cứu du lịch Campuchia](https://vnexpress.net/ben-trong-san-bay-2-ty-usd-ky-vong-cuu-du-lich-campuchia-4955014.html) - 12:00 23/10/2025
-- 🦅 [100 loại cá Việt Nam cùng &#39;lên bàn tiệc&#39; lập kỷ lục ẩm thực](https://vnexpress.net/100-loai-ca-viet-nam-cung-len-ban-tiec-lap-ky-luc-am-thuc-4954971.html) - 10:49 23/10/2025
+- 🦅 [100 loại cá cùng lên bàn tiệc, lập kỷ lục ẩm thực Việt Nam](https://vnexpress.net/100-loai-ca-cung-len-ban-tiec-lap-ky-luc-am-thuc-viet-nam-4954971.html) - 10:49 23/10/2025
 - 🕴 [Du khách lội nước tham quan phố cổ Hội An](https://vnexpress.net/du-khach-loi-nuoc-tham-quan-pho-co-hoi-an-4954653.html) - 04:43 23/10/2025
 - 👀 [Tạm dừng chạy tàu di sản Huế - Đà Nẵng hai ngày](https://vnexpress.net/tam-dung-chay-tau-di-san-hue-da-nang-hai-ngay-4954649.html) - 03:05 23/10/2025
 - 🎭 [Du thuyền cao cấp ngừng đón khách, tránh mưa lớn](https://vnexpress.net/du-thuyen-cao-cap-ngung-don-khach-tranh-mua-lon-4954644.html) - 02:44 23/10/2025
