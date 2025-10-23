@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Ưu tiên bố đơn thân nuôi 2 con dễ bị hiểu sinh nhiều con càng nhiều tiền?](https://dantri.com.vn/lao-dong-viec-lam/uu-tien-bo-don-than-nuoi-2-con-de-bi-hieu-sinh-nhieu-con-cang-nhieu-tien-20251023143854669.htm) - 08:13 23/10/2025
+- ⚗️ [Ưu tiên đàn ông không vợ nuôi 2 con mua nhà ở xã hội: Nỗi lo biến tướng!](https://dantri.com.vn/lao-dong-viec-lam/uu-tien-dan-ong-khong-vo-nuoi-2-con-mua-nha-o-xa-hoi-noi-lo-bien-tuong-20251023143854669.htm) - 08:13 23/10/2025
 - 🙉 [Nhiều ứng dụng giao hàng bãi bỏ chính sách phạt tiền tài xế chậm đơn](https://dantri.com.vn/lao-dong-viec-lam/nhieu-ung-dung-giao-hang-bai-bo-chinh-sach-phat-tien-tai-xe-cham-don-20251022165930468.htm) - 03:00 23/10/2025
 - 🕴 [Người mới hưởng lương hưu qua đời có bị mất tiền BHXH?](https://dantri.com.vn/lao-dong-viec-lam/nguoi-moi-huong-luong-huu-qua-doi-co-bi-mat-tien-bhxh-20251022170609565.htm) - 00:30 23/10/2025
 - 🧐 [Chấm dứt sử dụng cán bộ công đoàn chuyên trách trước ngày 1/11](https://dantri.com.vn/lao-dong-viec-lam/cham-dut-su-dung-can-bo-cong-doan-chuyen-trach-truoc-ngay-111-20251022190830030.htm) - 23:00 22/10/2025
