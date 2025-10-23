@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đường phố, công viên ngập sâu trong đỉnh triều lịch sử ở Cần Thơ](https://vnexpress.net/duong-pho-cong-vien-ngap-sau-trong-dinh-trieu-lich-su-o-can-tho-4954803.html) - 04:42 23/10/2025
+- 🦒 [Đường phố, công viên ở Cần Thơ chìm dưới nước trong đỉnh lũ](https://vnexpress.net/duong-pho-cong-vien-o-can-tho-chim-duoi-nuoc-trong-dinh-lu-4954803.html) - 04:42 23/10/2025
 - 🤓 [Miền Bắc thấp nhất 9 độ C](https://vnexpress.net/mien-bac-thap-nhat-9-do-c-4954810.html) - 03:48 23/10/2025
 - ⚗️ [Ôtô làm rơi 4 thùng nghi chứa acid giữa phố](https://vnexpress.net/oto-lam-roi-4-thung-nghi-chua-acid-giua-pho-4954804.html) - 03:34 23/10/2025
 - 🌊 [Nam giới hai con, không vợ, có thể được ưu tiên mua nhà xã hội](https://vnexpress.net/nam-gioi-hai-con-khong-vo-co-the-duoc-uu-tien-mua-nha-xa-hoi-4954743.html) - 03:28 23/10/2025
