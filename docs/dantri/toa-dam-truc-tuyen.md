@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Tọa đàm &quot;Để trẻ phát triển chiều cao tối ưu&quot;](https://dantri.com.vn/suc-khoe/toa-dam-de-tre-phat-trien-chieu-cao-toi-uu-20251022110735242.htm) - 05:33 23/10/2025
+- 🪜 [Tọa đàm &quot;Để trẻ phát triển chiều cao tối ưu&quot;](https://dantri.com.vn/suc-khoe/toa-dam-de-tre-phat-trien-chieu-cao-toi-uu-20251022110735242.htm) - 07:30 23/10/2025
 - 🗽 [Tọa đàm trực tuyến: Thực phẩm chức năng - Hiểu đúng để dùng đúng](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-thuc-pham-chuc-nang-hieu-dung-de-dung-dung-20251020172042471.htm) - 07:11 21/10/2025
 - 🕯 [Toạ đàm: Ghép gan - Hành trình tái tạo sự sống](https://dantri.com.vn/suc-khoe/toa-dam-ghep-gan-hanh-trinh-tai-tao-su-song-20251016092804509.htm) - 06:59 17/10/2025
 - 🫶 [Tọa đàm trực tuyến: Hiểu đúng về u xơ tử cung](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-hieu-dung-ve-u-xo-tu-cung-20251002143516322.htm) - 07:22 03/10/2025
