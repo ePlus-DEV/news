@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chủ tịch CL-Fish nhận giải thưởng Bông hồng vàng 2025](https://vnexpress.net/chu-tich-cl-fish-nhan-giai-thuong-bong-hong-vang-2025-4955049.html) - 10:20 23/10/2025
+- ⛽️ [Chủ tịch CL-Fish nhận giải thưởng Bông hồng vàng lần 4](https://vnexpress.net/chu-tich-cl-fish-nhan-giai-thuong-bong-hong-vang-lan-4-4955049.html) - 10:20 23/10/2025
 - 🐲 [Hai công ty con của Vingroup lãi lớn nhờ hoạt động cho vay](https://vnexpress.net/hai-cong-ty-con-cua-vingroup-lai-lon-nho-hoat-dong-cho-vay-4954948.html) - 09:30 23/10/2025
 - 🔥 [Trung Quốc công bố kế hoạch kinh tế 5 năm mới](https://vnexpress.net/trung-quoc-cong-bo-ke-hoach-kinh-te-5-nam-moi-4955006.html) - 09:11 23/10/2025
 - 🐵 [Thanh khoản chứng khoán xuống thấp](https://vnexpress.net/chung-khoan-hom-nay-23-10-thanh-khoan-thi-truong-xuong-thap-4954996.html) - 08:58 23/10/2025
