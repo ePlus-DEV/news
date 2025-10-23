@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Thiếu tướng tình báo Phạm Xuân Ẩn - người Việt trầm lặng](https://vnexpress.net/thieu-tuong-tinh-bao-pham-xuan-an-nguoi-viet-tram-lang-4954863.html) - 17:05 23/10/2025
+- 🌏 [Thiếu tướng tình báo Phạm Xuân Ẩn - một người Việt trầm lặng](https://vnexpress.net/thieu-tuong-tinh-bao-pham-xuan-an-mot-nguoi-viet-tram-lang-4954863.html) - 17:05 23/10/2025
 - 💫 [Kình ngư Ánh Viên &#39;lột xác&#39; thời trang](https://vnexpress.net/kinh-ngu-anh-vien-lot-xac-thoi-trang-4954843.html) - 17:00 23/10/2025
 - 🌮 [&#39;Thiên thần nội y&#39; Victoria&#39;s Secret ngày ấy, bây giờ](https://vnexpress.net/thien-than-noi-y-victoria-s-secret-ngay-ay-bay-gio-4954307.html) - 14:00 23/10/2025
 - 🧠 [Ảnh cưới chụp ở châu Âu của Đỗ Thị Hà](https://vnexpress.net/anh-cuoi-chup-o-chau-au-cua-do-thi-ha-4954418.html) - 13:18 23/10/2025
