@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Mẫu tên lửa &#39;sát thủ diệt hạm&#39; có thể giúp Venezuela răn đe tàu chiến Mỹ](https://vnexpress.net/mau-ten-lua-sat-thu-diet-ham-co-the-giup-venezuela-ran-de-tau-chien-my-4954019.html) - 18:00 23/10/2025
 - 😺 [Cổ phiếu hãng phân phối ôtô tăng 50% trong một tuần](https://vnexpress.net/co-phieu-hang-phan-phoi-oto-tang-50-trong-mot-tuan-4955123.html) - 17:59 23/10/2025
 - 🐘 [Doanh thu bán vàng của PNJ phục hồi mạnh](https://vnexpress.net/doanh-thu-ban-vang-cua-pnj-phuc-hoi-manh-4955094.html) - 17:39 23/10/2025
-- 🌁 [Thiếu tướng Phạm Xuân Ẩn - người Việt trầm lặng](https://vnexpress.net/thieu-tuong-pham-xuan-an-nguoi-viet-tram-lang-4954863.html) - 17:05 23/10/2025
+- 🌁 [Thiếu tướng tình báo Phạm Xuân Ẩn - người Việt trầm lặng](https://vnexpress.net/thieu-tuong-tinh-bao-pham-xuan-an-nguoi-viet-tram-lang-4954863.html) - 17:05 23/10/2025
 - 🐲 [3 con giáp sinh ra để trở thành nhà lãnh đạo](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-3-con-giap-sinh-ra-de-tro-thanh-nha-lanh-dao-4954553.html) - 17:02 23/10/2025
 - 🤓 [Nên ăn bao nhiêu trứng mỗi ngày?](https://vnexpress.net/nen-an-bao-nhieu-trung-moi-ngay-4954439.html) - 17:02 23/10/2025
 - 💪 [Quy Nhơn vào danh sách 25 điểm đến hàng đầu thế giới năm 2026](https://vnexpress.net/quy-nhon-vao-danh-sach-25-diem-den-hang-dau-the-gioi-nam-2026-4955116.html) - 17:00 23/10/2025
