@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chém hai người trọng thương vì ghen](https://vnexpress.net/chem-hai-nguoi-trong-thuong-vi-ghen-4955191.html) - 02:21 24/10/2025
+- 😎 [Hàng chục cảnh sát truy tìm kẻ chém 2 người trọng thương](https://vnexpress.net/hang-chuc-canh-sat-truy-tim-ke-chem-2-nguoi-trong-thuong-4955191.html) - 02:21 24/10/2025
 - 🥰 [Trốn trong thùng chuyển phát nhanh để đột nhập nhà dân, cướp vàng](https://vnexpress.net/tron-trong-thung-chuyen-phat-nhanh-de-dot-nhap-nha-cuop-vang-4955167.html) - 01:49 24/10/2025
 - 🎓 [Trung bình 220 người dùng smartphone có một người sập bẫy lừa qua mạng](https://vnexpress.net/trung-binh-220-nguoi-dung-smartphone-co-mot-nguoi-sap-bay-lua-qua-mang-4954990.html) - 23:00 23/10/2025
 - 🤓 [Bẫy lừa tinh vi của gã trai trẻ với người tình giàu có](https://vnexpress.net/bay-lua-tinh-vi-cua-ga-trai-tre-voi-nguoi-tinh-giau-co-4955075.html) - 17:00 23/10/2025
