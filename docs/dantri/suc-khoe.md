@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [5 phút cuồng loạn và khoảnh khắc sinh tử của các nữ điều dưỡng](https://dantri.com.vn/suc-khoe/5-phut-cuong-loan-va-khoanh-khac-sinh-tu-cua-cac-nu-dieu-duong-20251024165609594.htm) - 10:35 24/10/2025
+- 🤔 [5 phút bị truy sát và khoảnh khắc sinh tử của các nữ điều dưỡng](https://dantri.com.vn/suc-khoe/5-phut-bi-truy-sat-va-khoanh-khac-sinh-tu-cua-cac-nu-dieu-duong-20251024165609594.htm) - 10:35 24/10/2025
 - 🚦 [Bác sĩ thẩm mỹ: &quot;Nhiều phụ nữ muốn trở thành bản sao của người khác&quot;](https://dantri.com.vn/suc-khoe/bac-si-tham-my-nhieu-phu-nu-muon-tro-thanh-ban-sao-cua-nguoi-khac-20251024115325056.htm) - 09:47 24/10/2025
 - 🤖 [TPHCM: Người chú định về quê “chờ chết” hồi sinh nhờ ghép gan của cháu trai](https://dantri.com.vn/suc-khoe/tphcm-nguoi-chu-dinh-ve-que-cho-chet-hoi-sinh-nho-ghep-gan-cua-chau-trai-20251024145548489.htm) - 08:05 24/10/2025
 - 🐻 [Đang đi họp, nữ giám đốc bệnh viện dừng xe cứu người gặp nạn giữa đường](https://dantri.com.vn/suc-khoe/dang-di-hop-nu-giam-doc-benh-vien-dung-xe-cuu-nguoi-gap-nan-giua-duong-20251024112335665.htm) - 04:55 24/10/2025
