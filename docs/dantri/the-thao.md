@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [LĐBĐ Malaysia bị chỉ trích nặng nề vì động thái thiếu trách nhiệm](https://dantri.com.vn/the-thao/ldbd-malaysia-bi-chi-trich-nang-ne-vi-dong-thai-thieu-trach-nhiem-20251024182034930.htm) - 11:32 24/10/2025
+- 🎡 [LĐBĐ Malaysia bị chỉ trích nặng nề vì động thái thiếu trách nhiệm](https://dantri.com.vn/the-thao/ldbd-malaysia-bi-chi-trich-nang-ne-vi-dong-thai-thieu-trach-nhiem-20251024182034930.htm) - 12:01 24/10/2025
 - 💯 [HLV Vũ Hồng Việt từ chức ghế &quot;thuyền trưởng&quot; CLB Nam Định](https://dantri.com.vn/the-thao/hlv-vu-hong-viet-tu-chuc-ghe-thuyen-truong-clb-nam-dinh-20251024172409536.htm) - 10:26 24/10/2025
 - ⛽️ [Lộ danh tính người giới thiệu 7 cầu thủ nhập tịch khiến FAM bị trừng phạt](https://dantri.com.vn/the-thao/lo-danh-tinh-nguoi-gioi-thieu-7-cau-thu-nhap-tich-khien-fam-bi-trung-phat-20251024150737741.htm) - 08:21 24/10/2025
 - 💃 [Sếp bóng đá Indonesia phát biểu dứt khoát, HLV Shin Tae Yong hết cơ hội](https://dantri.com.vn/the-thao/sep-bong-da-indonesia-phat-bieu-dut-khoat-hlv-shin-tae-yong-het-co-hoi-20251024114836736.htm) - 08:17 24/10/2025
