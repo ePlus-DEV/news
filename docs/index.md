@@ -251,8 +251,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Tổng thống Rumen Radev giới thiệu với Tổng Bí thư Tô Lâm về công nghiệp quốc phòng Bulgaria](https://nld.com.vn/tong-thong-rumen-radev-gioi-thieu-voi-tong-bi-thu-to-lam-ve-cong-nghiep-quoc-phong-bulgaria-19625102416372358.htm) - 09:53 24/10/2025
-- 😺 [TP HCM cần hàng chục ngàn lao động dịp cuối năm](https://nld.com.vn/tp-hcm-can-hang-chuc-ngan-lao-dong-dip-cuoi-nam-196251024164028385.htm) - 09:51 24/10/2025
+- 🐎 [Thêm một bệnh viện ở TP HCM làm chủ kỹ thuật ghép gan](https://nld.com.vn/them-mot-benh-vien-o-tp-hcm-lam-chu-ky-thuat-ghep-gan-196251024155828976.htm) - 09:56 24/10/2025
+- 😺 [Tổng thống Rumen Radev giới thiệu với Tổng Bí thư Tô Lâm về công nghiệp quốc phòng Bulgaria](https://nld.com.vn/tong-thong-rumen-radev-gioi-thieu-voi-tong-bi-thu-to-lam-ve-cong-nghiep-quoc-phong-bulgaria-19625102416372358.htm) - 09:53 24/10/2025
 - 👍 [Sóng dữ “tấn công” khiến bờ kè, vỉa hè sông Hàn hư hại, Sở Xây dựng Đà Nẵng nói gì?](https://nld.com.vn/song-du-tan-cong-khien-bo-ke-via-he-song-han-hu-hai-so-xay-dung-da-nang-noi-gi-196251024161910686.htm) - 09:51 24/10/2025
 - 🥷 [Đề xuất tăng mức chi BHYT cho thuốc trị vảy nến, lên tới hàng trăm triệu đồng](https://nld.com.vn/de-xuat-tang-muc-chi-bhyt-cho-thuoc-tri-vay-nen-len-toi-hang-tram-trieu-dong-196251024151640282.htm) - 09:49 24/10/2025
 - 🤔 [Bất ngờ với đối tượng chuyên dùng xe Ford Ranger đi “săn mồi” liên tỉnh](https://nld.com.vn/bat-ngo-voi-doi-tuong-chuyen-dung-xe-ford-ranger-di-san-moi-lien-tinh-196251024161938135.htm) - 09:44 24/10/2025
