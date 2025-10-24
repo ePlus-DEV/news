@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lời khai của kẻ truy sát 7 người ở Bệnh viện Sản Nhi Nghệ An](https://vnexpress.net/loi-khai-cua-ke-truy-sat-7-nguoi-o-benh-vien-san-nhi-nghe-an-4955532.html) - 15:07 24/10/2025
+- 😎 [Truy sát 7 người ở Bệnh viện Sản Nhi Nghệ An vì &#39;nghi ngờ con bị tráo&#39;](https://vnexpress.net/truy-sat-7-nguoi-o-benh-vien-san-nhi-nghe-an-vi-nghi-ngo-con-bi-trao-4955532.html) - 15:07 24/10/2025
 - 🥰 [Vợ chồng giám đốc làm giả hàng chục nghìn chai nước hoa Gucci, Dior, YSL](https://vnexpress.net/vo-chong-giam-doc-lam-gia-hang-chuc-nghin-chai-nuoc-hoa-gucci-dior-ysl-4955459.html) - 10:21 24/10/2025
 - 🎓 [Tự bắn vào chân để đóng vai &#39;anh hùng&#39; trước bạn gái](https://vnexpress.net/tu-ban-vao-chan-de-dong-vai-anh-hung-truoc-ban-gai-4955388.html) - 08:06 24/10/2025
 - 🤓 [Cảnh sát chặn xe khách, bắt nghi phạm chém 2 người ở Quảng Ngãi](https://vnexpress.net/canh-sat-chan-xe-khach-bat-nghi-pham-chem-2-nguoi-o-quang-ngai-4955392.html) - 07:59 24/10/2025
