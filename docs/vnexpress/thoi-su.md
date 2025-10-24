@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hình dáng tuyến đê vây dự án thủy cung lấn biển Vũng Tàu](https://vnexpress.net/thuy-cung-vung-tau-4955416.html) - 22:00 24/10/2025
+- 🦒 [Dự án dùng hơn 15.000 tấn chất thải xây dựng san lấp biển Vũng Tàu](https://vnexpress.net/thuy-cung-vung-tau-4955416.html) - 22:00 24/10/2025
 - 🤓 [120 năm từ nhà thương bản xứ đến bệnh viện hiện đại](https://vnexpress.net/120-nam-tu-nha-thuong-ban-xu-den-benh-vien-hien-dai-4946970.html) - 17:56 24/10/2025
 - ⚗️ [Đề xuất xây cầu vượt biển kết nối sân bay Cam Ranh với Ninh Thuận](https://vnexpress.net/de-xuat-xay-cau-vuot-bien-ket-noi-san-bay-cam-ranh-voi-ninh-thuan-4955545.html) - 17:00 24/10/2025
 - 🌊 [Đồng Nai chi gần 85 tỷ đồng mua xe công cho phường, xã](https://vnexpress.net/dong-nai-chi-gan-85-ty-dong-mua-xe-cong-cho-phuong-xa-4955529.html) - 17:00 24/10/2025
