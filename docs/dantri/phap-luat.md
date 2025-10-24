@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Công an thông tin về vụ tấn công nhiều người trong bệnh viện ở Nghệ An](https://dantri.com.vn/phap-luat/cong-an-thong-tin-ve-vu-tan-cong-nhieu-nguoi-trong-benh-vien-o-nghe-an-20251024104028306.htm) - 06:19 24/10/2025
+- 🌊 [Công an thông tin về vụ thanh niên tấn công nhiều người tại bệnh viện](https://dantri.com.vn/phap-luat/cong-an-thong-tin-ve-vu-thanh-nien-tan-cong-nhieu-nguoi-tai-benh-vien-20251024104028306.htm) - 06:19 24/10/2025
 - 🐲 [3 mắt xích bí ẩn chưa được làm rõ trong đường dây buôn lậu 520kg vàng](https://dantri.com.vn/phap-luat/3-mat-xich-bi-an-chua-duoc-lam-ro-trong-duong-day-buon-lau-520kg-vang-20251024105910903.htm) - 04:41 24/10/2025
 - 🌁 [Lê Sỹ Cường, người môi giới Ngân 98 và Lương Bằng Quang “chạy án”, là ai?](https://dantri.com.vn/phap-luat/le-sy-cuong-nguoi-moi-gioi-ngan-98-va-luong-bang-quang-chay-an-la-ai-20251013144456008.htm) - 03:50 24/10/2025
 - 🎃 [Nữ điều dưỡng liều mình bảo vệ bệnh nhân, trúng 11 nhát dao](https://dantri.com.vn/phap-luat/nu-dieu-duong-lieu-minh-bao-ve-benh-nhan-trung-11-nhat-dao-20251024100344069.htm) - 03:45 24/10/2025
