@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Cường kích Mỹ hạ cánh khẩn trên đồng, suýt quệt phải ôtô](https://vnexpress.net/cuong-kich-my-ha-canh-khan-tren-dong-suyt-quet-phai-oto-4955619.html) - 05:18 25/10/2025
-- 🕴 [60 nước ký Công ước Hà Nội trong ngày đầu tiên](https://vnexpress.net/60-nuoc-ky-cong-uoc-ha-noi-trong-ngay-dau-tien-4955658.html) - 04:53 25/10/2025
+- 🕴 [64 nước ký Công ước Hà Nội trong ngày đầu tiên](https://vnexpress.net/64-nuoc-ky-cong-uoc-ha-noi-trong-ngay-dau-tien-4955658.html) - 04:53 25/10/2025
 - 🤭 [Mỹ triển khai UAV giám sát lệnh ngừng bắn Gaza](https://vnexpress.net/my-trien-khai-uav-giam-sat-lenh-ngung-ban-gaza-4955629.html) - 04:47 25/10/2025
 - 🧑‍💻 [Chuyến công du châu Á nhiều kỳ vọng của ông Trump](https://vnexpress.net/chuyen-cong-du-chau-a-nhieu-ky-vong-cua-ong-trump-4955376.html) - 04:27 25/10/2025
 - 🦏 [Thủ tướng Thái Lan hủy dự hội nghị APEC vì Thái hậu qua đời](https://vnexpress.net/thu-tuong-thai-lan-huy-du-hoi-nghi-apec-vi-thai-hau-qua-doi-4955622.html) - 04:21 25/10/2025
