@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Từ năm 2026, người dân phải cung cấp số lượng nhà đất sở hữu](https://dantri.com.vn/bat-dong-san/tu-nam-2026-nguoi-dan-phai-cung-cap-so-luong-nha-dat-so-huu-20251025151720382.htm) - 08:32 25/10/2025
+- 🌏 [Đề xuất từ năm 2026, người dân phải cung cấp số lượng nhà đất sở hữu](https://dantri.com.vn/bat-dong-san/de-xuat-tu-nam-2026-nguoi-dan-phai-cung-cap-so-luong-nha-dat-so-huu-20251025151720382.htm) - 08:32 25/10/2025
 - 👹 [Hà Nội yêu cầu dừng nộp hồ sơ giấy về thủ tục sổ đỏ](https://dantri.com.vn/bat-dong-san/ha-noi-yeu-cau-dung-nop-ho-so-giay-ve-thu-tuc-so-do-20251025095729421.htm) - 04:04 25/10/2025
 - 💡 [6 cây xanh sống dai thích hợp để trồng trong nhà](https://dantri.com.vn/bat-dong-san/6-cay-xanh-song-dai-thich-hop-de-trong-trong-nha-20251023150934987.htm) - 01:37 25/10/2025
 - 🌋 [Bộ sưu tập villa mang hơi thở resort giữa thủ phủ công nghiệp](https://dantri.com.vn/bat-dong-san/bo-suu-tap-villa-mang-hoi-tho-resort-giua-thu-phu-cong-nghiep-20251024172542990.htm) - 11:00 24/10/2025
