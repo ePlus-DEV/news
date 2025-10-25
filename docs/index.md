@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Giận dữ không xấu, miễn là bạn biết cách quản lý](https://muctim.tuoitre.vn/gian-du-khong-xau-mien-la-ban-biet-cach-quan-ly-101251021155243488.htm) - 01:31 25/10/2025
-- 🥷 [Trực tiếp MLS Cup Inter Miami vs Nashville: Messi lại bùng nổ](https://muctim.tuoitre.vn/truc-tiep-mls-cup-inter-miami-vs-nashville-messi-lai-bung-no-101251025065546401.htm) - 00:13 25/10/2025
+- 🥷 [Inter Miami vs Nashville 3-1: Messi lại bùng nổ](https://muctim.tuoitre.vn/truc-tiep-mls-cup-inter-miami-vs-nashville-messi-lai-bung-no-101251025065546401.htm) - 00:13 25/10/2025
 - 🤖 [Em xinh Mỹ Mỹ bùng nổ với fancon đầu tiên trong sự nghiệp](https://muctim.tuoitre.vn/em-xinh-my-my-bung-no-voi-fancon-dau-tien-trong-su-nghiep-101251024215140197.htm) - 15:20 24/10/2025
 - 🤓 [MC dẫn chung kết Đường lên đỉnh Olympia 2025: Ai &#39;mát tay&#39; nhất?](https://muctim.tuoitre.vn/mc-dan-chung-ket-duong-len-dinh-olympia-2025-ai-mat-tay-nhat-101251024200757448.htm) - 15:08 24/10/2025
 - 🎉 [Messi lọt top ứng viên cho danh hiệu Cầu thủ xuất sắc nhất năm](https://muctim.tuoitre.vn/messi-lot-top-ung-vien-cho-danh-hieu-cau-thu-xuat-sac-nhat-nam-101251024121622738.htm) - 13:06 24/10/2025
