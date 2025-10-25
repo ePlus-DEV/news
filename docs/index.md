@@ -412,7 +412,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [CẬP NHẬT: Lễ mở ký Công ước của Liên Hợp Quốc về chống tội phạm mạng &lpar;Công ước Hà Nội&rpar;](https://baochinhphu.vn/cap-nhat-le-mo-ky-cong-uoc-cua-lien-hop-quoc-ve-chong-toi-pham-mang-cong-uoc-ha-noi-102251024213436127.htm) - 07:00 25/10/2025
+- 💻 [CẬP NHẬT: Lễ mở ký Công ước của Liên Hợp Quốc về chống tội phạm mạng - Công ước Hà Nội](https://baochinhphu.vn/cap-nhat-le-mo-ky-cong-uoc-cua-lien-hop-quoc-ve-chong-toi-pham-mang-cong-uoc-ha-noi-102251024213436127.htm) - 07:00 25/10/2025
 - 🌜 [Chế độ phụ cấp cho công chức văn thư - lưu trữ](https://baochinhphu.vn/che-do-phu-cap-cho-cong-chuc-van-thu-luu-tru-102251024091138809.htm) - 07:00 25/10/2025
 - 🦆 [Chuẩn hóa dữ liệu, tạo đột phá cho nền hành chính phục vụ](https://baochinhphu.vn/chuan-hoa-du-lieu-tao-dot-pha-cho-nen-hanh-chinh-phuc-vu-102251024222102321.htm) - 22:49 24/10/2025
 - 🌝 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 24/10/2025 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-24-10-2025-2-10225102422442681.htm) - 22:46 24/10/2025
