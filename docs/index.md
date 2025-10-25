@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [HLV Harry Kewell phản bác quan điểm chưa thật chuẩn chỉnh về đội Hà Nội: Đội của tôi...](https://thanhnien.vn/hlv-harry-kewell-phan-bac-quan-diem-chua-that-chuan-chinh-ve-doi-ha-noi-doi-cua-toi-185251026003005124.htm) - 17:34 25/10/2025
+- 🤠 [HLV Harry Kewell phản bác quan điểm chưa thật chuẩn chỉnh về CLB Hà Nội: Đội của tôi...](https://thanhnien.vn/hlv-harry-kewell-phan-bac-quan-diem-chua-that-chuan-chinh-ve-doi-ha-noi-doi-cua-toi-185251026003005124.htm) - 17:34 25/10/2025
 - 🥸 [Vì sao thận dễ bị tổn thương khi ăn quá nhiều muối và protein?](https://thanhnien.vn/vi-sao-than-de-bi-ton-thuong-khi-an-qua-nhieu-muoi-va-protein-185251025133553441.htm) - 17:09 25/10/2025
 - 🌁 [Vì sao ngủ đủ lại giúp giảm mỡ nhanh hơn?](https://thanhnien.vn/vi-sao-ngu-du-lai-giup-giam-mo-nhanh-hon-1852510241140176.htm) - 17:08 25/10/2025
 - 🤡 [Ăn trứng: Rốt cuộc nên ăn hay bỏ lòng đỏ mới tốt?](https://thanhnien.vn/an-trung-rot-cuoc-nen-an-hay-bo-long-do-moi-tot-185251025230352754.htm) - 17:07 25/10/2025
