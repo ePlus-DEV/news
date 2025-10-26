@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Real Madrid 0-0 Barcelona &lpar;Hiệp 1&rpar;: Yamal suýt thành tội đồ](https://dantri.com.vn/the-thao/real-madrid-0-0-barcelona-hiep-1-yamal-suyt-thanh-toi-do-20251026220651230.htm) - 15:07 26/10/2025
+- 🎡 [Real Madrid 1-0 Barcelona &lpar;Hiệp 1&rpar;: Mbappe ghi bàn](https://dantri.com.vn/the-thao/real-madrid-1-0-barcelona-hiep-1-mbappe-ghi-ban-20251026220651230.htm) - 15:07 26/10/2025
 - 💯 [CLB Thanh Hoá bất ngờ đánh bại SL Nghệ An, CLB Hải Phòng thắng HL Hà Tĩnh](https://dantri.com.vn/the-thao/clb-thanh-hoa-bat-ngo-danh-bai-sl-nghe-an-clb-hai-phong-thang-hl-ha-tinh-20251026204929098.htm) - 14:11 26/10/2025
 - ⛽️ [Chủ tịch FIFA muốn xây dựng Học viện Bóng đá FIFA tại Việt Nam](https://dantri.com.vn/the-thao/chu-tich-fifa-muon-xay-dung-hoc-vien-bong-da-fifa-tai-viet-nam-20251026212220522.htm) - 14:05 26/10/2025
 - 💃 [Đánh bại Thể Công Viettel, CLB HAGL có chiến thắng đầu tiên tại V-League](https://dantri.com.vn/the-thao/danh-bai-the-cong-viettel-clb-hagl-co-chien-thang-dau-tien-tai-v-league-20251026193544740.htm) - 12:53 26/10/2025
