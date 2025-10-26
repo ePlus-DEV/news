@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [VAR từ chối Haaland, Man City gục ngã trên sân Aston Villa](https://dantri.com.vn/the-thao/var-tu-choi-haaland-man-city-guc-nga-tren-san-aston-villa-20251026230148156.htm) - 16:01 26/10/2025
 - 💯 [Arsenal vượt ải Crystal Palace, vững vàng dẫn đầu Ngoại hạng Anh](https://dantri.com.vn/the-thao/arsenal-vuot-ai-crystal-palace-vung-vang-dan-dau-ngoai-hang-anh-20251026225654894.htm) - 15:56 26/10/2025
-- ⛽️ [Real Madrid 2-1 Barcelona &lpar;Hiệp 2&rpar;: Bellingham, Mbappe  toả sáng](https://dantri.com.vn/the-thao/real-madrid-2-1-barcelona-hiep-2-bellingham-mbappe-toa-sang-20251026220651230.htm) - 15:07 26/10/2025
+- ⛽️ [Real Madrid 2-1 Barcelona &lpar;Hiệp 2&rpar;: Szczesny xuất sắc cản phá 11m](https://dantri.com.vn/the-thao/real-madrid-2-1-barcelona-hiep-2-szczesny-xuat-sac-can-pha-11m-20251026220651230.htm) - 15:07 26/10/2025
 - 💃 [CLB Thanh Hoá bất ngờ đánh bại SL Nghệ An, CLB Hải Phòng thắng HL Hà Tĩnh](https://dantri.com.vn/the-thao/clb-thanh-hoa-bat-ngo-danh-bai-sl-nghe-an-clb-hai-phong-thang-hl-ha-tinh-20251026204929098.htm) - 14:11 26/10/2025
 - 🌈 [Chủ tịch FIFA muốn xây dựng Học viện Bóng đá FIFA tại Việt Nam](https://dantri.com.vn/the-thao/chu-tich-fifa-muon-xay-dung-hoc-vien-bong-da-fifa-tai-viet-nam-20251026212220522.htm) - 14:05 26/10/2025
 - 🦅 [Đánh bại Thể Công Viettel, CLB HAGL có chiến thắng đầu tiên tại V-League](https://dantri.com.vn/the-thao/danh-bai-the-cong-viettel-clb-hagl-co-chien-thang-dau-tien-tai-v-league-20251026193544740.htm) - 12:53 26/10/2025
