@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thanh Tùng dẫn đầu chung kết Olympia 2025](https://vnexpress.net/truc-tiep-chung-ket-duong-len-dinh-olympia-2025-4955848.html) - 00:35 26/10/2025
+- 🤓 [Bảo Khánh vô địch Olympia 2025](https://vnexpress.net/truc-tiep-chung-ket-duong-len-dinh-olympia-2025-4955848.html) - 00:35 26/10/2025
 - 🦆 [Công thức thành công của tiến sĩ có 700 bằng sáng chế](https://vnexpress.net/ts-nguyen-thanh-my-8-yeu-to-de-thanh-cong-4955685.html) - 14:11 25/10/2025
 - 🦩 [Nước nào là quê hương của karaoke?](https://vnexpress.net/nuoc-nao-la-que-huong-cua-karaoke-4955663.html) - 13:05 25/10/2025
 - 🌮 [Học sinh Việt đưa AI vào dự án cứu trợ thiên tai, giao thông](https://vnexpress.net/hoc-sinh-viet-dua-ai-vao-du-an-cuu-tro-thien-tai-giao-thong-4955736.html) - 08:30 25/10/2025
