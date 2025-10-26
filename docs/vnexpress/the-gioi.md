@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ tướng Phạm Minh Chính gặp Tổng thống Donald Trump](https://vnexpress.net/thu-tuong-pham-minh-chinh-gap-tong-thong-donald-trump-4955987.html) - 12:37 26/10/2025
+- 🎭 [Thủ tướng Phạm Minh Chính gặp Tổng thống Trump](https://vnexpress.net/thu-tuong-pham-minh-chinh-gap-tong-thong-trump-4955987.html) - 12:37 26/10/2025
 - 🕴 [Việt Nam hoan nghênh Campuchia - Thái Lan ký văn kiện hòa bình](https://vnexpress.net/viet-nam-hoan-nghenh-campuchia-thai-lan-ky-van-kien-hoa-binh-4955974.html) - 11:59 26/10/2025
 - 🤭 [Tổng Bí thư Tô Lâm sắp thăm Anh](https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-anh-4955978.html) - 11:31 26/10/2025
 - 🧑‍💻 [Hai nghi phạm cướp bảo tàng Louvre bị bắt](https://vnexpress.net/hai-nghi-pham-cuop-bao-tang-louvre-bi-bat-4955961.html) - 09:59 26/10/2025
