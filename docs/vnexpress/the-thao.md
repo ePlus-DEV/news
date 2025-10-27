@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Vinicius doạ rời Real khi bị thay ra ở El Clasico](https://vnexpress.net/vinicius-doa-roi-real-khi-bi-thay-ra-o-el-clasico-4956414.html) - 11:01 27/10/2025
 - 🦩 [Quyết Chiến có đường cơ cao nhất sự nghiệp](https://vnexpress.net/quyet-chien-co-duong-co-cao-nhat-su-nghiep-4956427.html) - 10:57 27/10/2025
-- 🧰 [Tay vợt nữ số một Thái Lan bỏ SEA Games 33 vì bất mãn](https://vnexpress.net/tay-vot-nu-so-mot-thai-lan-bo-sea-games-33-vi-bat-man-4956446.html) - 10:10 27/10/2025
+- 🧰 [Tay vợt nữ số sáu thế giới bỏ SEA Games 33 vì bất mãn](https://vnexpress.net/tay-vot-nu-so-sau-the-gioi-bo-sea-games-33-vi-bat-man-4956446.html) - 10:10 27/10/2025
 - 🤗 [vRace ra mắt gói dịch vụ thể thao trực tuyến cho doanh nghiệp](https://vnexpress.net/vrace-ra-mat-goi-dich-vu-the-thao-truc-tuyen-cho-doanh-nghiep-4956089.html) - 10:00 27/10/2025
 - 🥳 [Vì sao trọng tài từ chối siêu phẩm của Mbappe?](https://vnexpress.net/vi-sao-trong-tai-tu-choi-sieu-pham-cua-mbappe-4956119.html) - 07:57 27/10/2025
 - 🦣 [Chanathip phủ nhận cố tình đánh nguội ở Thai League 1](https://vnexpress.net/chanathip-phu-nhan-co-tinh-danh-nguoi-o-thai-league-1-4956313.html) - 07:05 27/10/2025
