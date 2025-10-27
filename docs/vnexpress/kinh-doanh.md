@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Cơ hội tăng trưởng của Trung Quốc từ &#39;kinh tế bạc&#39;](https://vnexpress.net/co-hoi-tang-truong-cua-trung-quoc-tu-kinh-te-bac-4956341.html) - 17:05 27/10/2025
 - 🐲 [Thương chiến cản đường cất cánh của máy bay &#39;made in China&#39;](https://vnexpress.net/thuong-chien-can-duong-cat-canh-cua-may-bay-made-in-china-4956399.html) - 17:03 27/10/2025
 - 🔥 [Kinh tế Mỹ bắt đầu chịu hậu quả khi chính phủ đóng cửa](https://vnexpress.net/kinh-te-my-bat-dau-chiu-hau-qua-khi-chinh-phu-dong-cua-4956374.html) - 17:02 27/10/2025
-- 🐵 [Việt - Nga sớm ký thoả thuận để khởi công nhà máy điện hat nhân](https://vnexpress.net/viet-nga-som-ky-thoa-thuan-de-khoi-cong-nha-may-dien-hat-nhan-4956487.html) - 15:05 27/10/2025
+- 🐵 [Việt - Nga sớm ký thoả thuận để khởi công nhà máy điện hạt nhân](https://vnexpress.net/viet-nga-som-ky-thoa-thuan-de-khoi-cong-nha-may-dien-hat-nhan-4956487.html) - 15:05 27/10/2025
 - 🦅 [Hãng bay hàng đầu Mỹ trở lại Việt Nam](https://vnexpress.net/hang-bay-hang-dau-my-tro-lai-viet-nam-4956462.html) - 12:01 27/10/2025
 - 😺 [Hai con trai ông Phạm Nhật Vượng góp 200 tỷ vào công ty thép của Vingroup](https://vnexpress.net/hai-con-trai-ong-pham-nhat-vuong-gop-200-ty-vao-cong-ty-thep-cua-vingroup-4956464.html) - 11:26 27/10/2025
 - 🤩 [Vietjet chia cổ tức 20% bằng cổ phiếu](https://vnexpress.net/vietjet-chia-co-tuc-20-bang-co-phieu-4956421.html) - 10:00 27/10/2025
