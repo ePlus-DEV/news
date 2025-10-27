@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Trường THPT Phan Huy Chú đề xuất mở chương trình song bằng Việt - Úc](https://dantri.com.vn/giao-duc/truong-thpt-phan-huy-chu-de-xuat-mo-chuong-trinh-song-bang-viet-uc-20251027115916731.htm) - 06:02 27/10/2025
+- 🤡 [Hơn 800 giảng viên bị trả thiếu lương suốt 8 năm](https://dantri.com.vn/giao-duc/hon-800-giang-vien-bi-tra-thieu-luong-suot-8-nam-20251027114724710.htm) - 06:57 27/10/2025
 - 🗽 [Mưa lớn gây chia cắt, nhiều giáo viên mắc kẹt trên đường đến trường](https://dantri.com.vn/giao-duc/mua-lon-gay-chia-cat-nhieu-giao-vien-mac-ket-tren-duong-den-truong-20251027114154182.htm) - 05:56 27/10/2025
 - 🚦 [Học sinh tự quyết học gì, học thế nào có phải là mô hình giáo dục lý tưởng?](https://dantri.com.vn/giao-duc/hoc-sinh-tu-quyet-hoc-gi-hoc-the-nao-co-phai-la-mo-hinh-giao-duc-ly-tuong-20251026225735923.htm) - 00:07 27/10/2025
 - 🌋 [Đại học Oxford và Cambridge lần đầu rớt khỏi top 3](https://dantri.com.vn/giao-duc/dai-hoc-oxford-va-cambridge-lan-dau-rot-khoi-top-3-20251026215603208.htm) - 00:00 27/10/2025
