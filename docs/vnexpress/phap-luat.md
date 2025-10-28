@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát dùng flycam truy tìm tên cướp trốn trong đồng cỏ](https://vnexpress.net/canh-sat-dung-flycam-truy-tim-ten-cuop-tron-trong-dong-co-4956885.html) - 09:07 28/10/2025
+- 😎 [Tên cướp cầm súng giả, trốn cảnh sát suốt 5 giờ trong đồng cỏ](https://vnexpress.net/ten-cuop-cam-sung-gia-tron-canh-sat-suot-5-gio-trong-dong-co-4956885.html) - 09:07 28/10/2025
 - 🥰 [Tự bịa công văn của lãnh đạo UBND tỉnh để &#39;lấy le&#39; với hiệu trưởng](https://vnexpress.net/tu-bia-cong-van-cua-lanh-dao-ubnd-tinh-de-lay-le-voi-hieu-truong-4956810.html) - 07:58 28/10/2025
 - 🎓 [Trêu chọc người thân bằng trò chơi khăm dọa giết](https://vnexpress.net/treu-choc-nguoi-than-bang-tro-choi-kham-doa-giet-4956743.html) - 07:56 28/10/2025
 - 🤓 [Bị khởi tố vì trộm 2 quả mít](https://vnexpress.net/bi-khoi-to-vi-trom-2-qua-mit-4956788.html) - 06:46 28/10/2025
