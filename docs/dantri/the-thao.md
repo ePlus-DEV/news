@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Chủ tịch Madam Pang xin lỗi VFF về vụ nhầm Quốc kỳ rất nghiêm trọng](https://dantri.com.vn/the-thao/chu-tich-madam-pang-xin-loi-vff-ve-vu-nham-quoc-ky-rat-nghiem-trong-20251028212627519.htm) - 14:17 28/10/2025
-- 💯 [Nữ tay vợt số một Thái Lan bất ngờ rút lại quyết định bỏ SEA Games 33](https://dantri.com.vn/the-thao/nu-tay-vot-so-mot-thai-lan-bat-ngo-rut-lai-quyet-dinh-bo-sea-games-33-20251028194422182.htm) - 13:06 28/10/2025
-- ⛽️ [FIFA có thể đưa ra phán quyết bất ngờ với Malaysia](https://dantri.com.vn/the-thao/fifa-co-the-dua-ra-phan-quyet-bat-ngo-voi-malaysia-20251028194728925.htm) - 12:47 28/10/2025
+- 💯 [FIFA có thể đưa ra phán quyết bất ngờ với Malaysia](https://dantri.com.vn/the-thao/fifa-co-the-dua-ra-phan-quyet-bat-ngo-voi-malaysia-20251028194728925.htm) - 13:47 28/10/2025
+- ⛽️ [Nữ tay vợt số một Thái Lan bất ngờ rút lại quyết định bỏ SEA Games 33](https://dantri.com.vn/the-thao/nu-tay-vot-so-mot-thai-lan-bat-ngo-rut-lai-quyet-dinh-bo-sea-games-33-20251028194422182.htm) - 13:06 28/10/2025
 - 💃 [Barcelona họp khẩn, Lamine Yamal tiếp tục có hành động tranh cãi](https://dantri.com.vn/the-thao/barcelona-hop-khan-lamine-yamal-tiep-tuc-co-hanh-dong-tranh-cai-20251028184324108.htm) - 12:02 28/10/2025
 - 🌈 [VFF phản đối Liên đoàn bóng đá Thái Lan dùng sai Quốc kỳ Việt Nam](https://dantri.com.vn/the-thao/vff-phan-doi-lien-doan-bong-da-thai-lan-dung-sai-quoc-ky-viet-nam-20251028185707875.htm) - 11:52 28/10/2025
 - 🦅 [HD Hyundai Electric đồng hành “thắp lửa” đam mê bóng đá cho giới trẻ Việt](https://dantri.com.vn/the-thao/hd-hyundai-electric-dong-hanh-thap-lua-dam-me-bong-da-cho-gioi-tre-viet-20251028173543442.htm) - 11:00 28/10/2025
