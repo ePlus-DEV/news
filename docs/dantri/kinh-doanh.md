@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Vietcombank liên kết trực tiếp với tài khoản giao thông ePass](https://dantri.com.vn/kinh-doanh/vietcombank-lien-ket-truc-tiep-voi-tai-khoan-giao-thong-epass-20251028191204896.htm) - 12:15 28/10/2025
-- 🦆 [Vinpearl là thương hiệu mạnh nhất Đông Nam Á theo xếp hạng Brand Finance](https://dantri.com.vn/kinh-doanh/vinpearl-la-thuong-hieu-manh-nhat-dong-nam-a-theo-xep-hang-brand-finance-20251028181351324.htm) - 12:08 28/10/2025
-- 🦄 [150 nhà đầu tư toàn cầu đến Việt Nam tìm cơ hội &quot;giải ngân&quot;](https://dantri.com.vn/kinh-doanh/150-nha-dau-tu-toan-cau-den-viet-nam-tim-co-hoi-giai-ngan-20251028165540975.htm) - 11:21 28/10/2025
+- 🏊 [T&amp;T Group được vinh danh “Top 30 tập đoàn đầu tư chiến lược Việt Nam”](https://dantri.com.vn/kinh-doanh/tt-group-duoc-vinh-danh-top-30-tap-doan-dau-tu-chien-luoc-viet-nam-20251028201044061.htm) - 13:45 28/10/2025
+- 🦆 [Vietcombank liên kết trực tiếp với tài khoản giao thông ePass](https://dantri.com.vn/kinh-doanh/vietcombank-lien-ket-truc-tiep-voi-tai-khoan-giao-thong-epass-20251028191204896.htm) - 12:15 28/10/2025
+- 🦄 [Vinpearl là thương hiệu mạnh nhất Đông Nam Á theo xếp hạng Brand Finance](https://dantri.com.vn/kinh-doanh/vinpearl-la-thuong-hieu-manh-nhat-dong-nam-a-theo-xep-hang-brand-finance-20251028181351324.htm) - 12:08 28/10/2025
 - 🌝 [Khi kè bê tông Châu Âu Nam - AMACCAO hóa &quot;tuyến phòng thủ&quot; cho hạ tầng Việt](https://dantri.com.vn/kinh-doanh/khi-ke-be-tong-chau-au-nam-amaccao-hoa-tuyen-phong-thu-cho-ha-tang-viet-20251028174033450.htm) - 11:03 28/10/2025
 - 💃 [13 ngân hàng báo lãi quý III tăng vọt, ngôi đầu đổi chủ](https://dantri.com.vn/kinh-doanh/13-ngan-hang-bao-lai-quy-iii-tang-vot-ngoi-dau-doi-chu-20251028160725018.htm) - 09:48 28/10/2025
 - 🦏 [Giá vàng lao dốc, chuyên gia khuyến cáo “không bắt dao rơi”](https://dantri.com.vn/kinh-doanh/gia-vang-lao-doc-chuyen-gia-khuyen-cao-khong-bat-dao-roi-20251028155728354.htm) - 09:21 28/10/2025
