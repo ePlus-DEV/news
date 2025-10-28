@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Bị thất lạc túi hàng hiệu, NSND Thu Quế tìm lại bằng cách nào?](https://dantri.com.vn/giai-tri/bi-that-lac-tui-hang-hieu-nsnd-thu-que-tim-lai-bang-cach-nao-20251028165524637.htm) - 11:00 28/10/2025
 - 🔥 [Gia đình lo lắng trước tình trạng &quot;thiếu kiểm soát&quot; của Britney Spears](https://dantri.com.vn/giai-tri/gia-dinh-lo-lang-truoc-tinh-trang-thieu-kiem-soat-cua-britney-spears-20251028101254758.htm) - 11:00 28/10/2025
-- 🚀 [Đêm nhạc &quot;Tôi! Người Việt Nam&quot; sẻ chia với đồng bào bị lũ lụt ở miền Trung](https://dantri.com.vn/giai-tri/dem-nhac-toi-nguoi-viet-nam-se-chia-voi-dong-bao-bi-lu-lut-o-mien-trung-20251028160245696.htm) - 10:47 28/10/2025
+- 🚀 [Cùng san sẻ với người dân vùng lũ lụt trong đêm nhạc &quot;Tôi! Người Việt Nam&quot;](https://dantri.com.vn/giai-tri/cung-san-se-voi-nguoi-dan-vung-lu-lut-trong-dem-nhac-toi-nguoi-viet-nam-20251028160245696.htm) - 10:47 28/10/2025
 - 🔥 [Aespa mang âm nhạc Hàn Quốc đến Hà Nội cùng 8Wonder Winter 2025](https://dantri.com.vn/giai-tri/aespa-mang-am-nhac-han-quoc-den-ha-noi-cung-8wonder-winter-2025-20251028152641737.htm) - 08:33 28/10/2025
 - 🌈 [Xuất thân danh gia vọng tộc và chuyện ít biết về huyền thoại Hứa Thiệu Hùng](https://dantri.com.vn/giai-tri/xuat-than-danh-gia-vong-toc-va-chuyen-it-biet-ve-huyen-thoai-hua-thieu-hung-20251028134248188.htm) - 07:40 28/10/2025
 - 📝 [&quot;Mỹ nhân màn ảnh&quot; Lê Khanh và nhan sắc hiếm thấy qua 5 thập kỷ](https://dantri.com.vn/giai-tri/my-nhan-man-anh-le-khanh-va-nhan-sac-hiem-thay-qua-5-thap-ky-20251027151035628.htm) - 07:14 28/10/2025
