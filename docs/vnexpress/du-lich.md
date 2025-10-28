@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Loạt trải nghiệm cho du khách tại Hội chợ Mùa thu](https://vnexpress.net/loat-trai-nghiem-cho-du-khach-tai-hoi-cho-mua-thu-4957010.html) - 12:30 28/10/2025
-- 🪄 [Khách Tây &#39;sốc&#39; trước cảnh lũ lụt lên nhanh ở Huế, Hội An](https://vnexpress.net/khach-tay-soc-truoc-canh-lu-lut-len-nhanh-o-hue-hoi-an-4956947.html) - 12:25 28/10/2025
+- 🪄 [Khách Tây &#39;sốc&#39; trước cảnh nước lũ dâng bốn bề ở Huế, Hội An](https://vnexpress.net/khach-tay-soc-truoc-canh-nuoc-lu-dang-bon-be-o-hue-hoi-an-4956947.html) - 12:25 28/10/2025
 - 🦅 [Tượng Phật ở tỉnh nào Việt Nam cao nhất châu Á?](https://vnexpress.net/tuong-phat-o-tinh-nao-viet-nam-cao-nhat-chau-a-4955915.html) - 12:00 28/10/2025
 - 🕴 [Vietjet mở bán hàng nghìn vé bay 0 đồng dịp cuối năm](https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-bay-0-dong-dip-cuoi-nam-4956980.html) - 11:00 28/10/2025
 - 👀 [Kinh thành Huế, phố cổ Hội An bị lũ nhấn chìm](https://vnexpress.net/kinh-thanh-hue-pho-co-hoi-an-bi-lu-nhan-chim-4956654.html) - 06:12 28/10/2025
