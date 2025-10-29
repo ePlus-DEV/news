@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Chủ tịch nước gặp ông Trump, đề nghị sớm hoàn tất đàm phán Hiệp định thương mại đối ứng](https://vnexpress.net/chu-tich-nuoc-gap-ong-trump-de-nghi-som-hoan-tat-dam-phan-hiep-dinh-thuong-mai-doi-ung-4957537.html) - 13:13 29/10/2025
+- 🎭 [Chủ tịch nước gặp Tổng thống Trump, đề nghị sớm hoàn tất đàm phán thương mại](https://vnexpress.net/chu-tich-nuoc-gap-tong-thong-trump-de-nghi-som-hoan-tat-dam-phan-thuong-mai-4957537.html) - 13:13 29/10/2025
 - 🕴 [Đòn không kích của Israel có thể thổi bay thỏa thuận hòa bình Gaza](https://vnexpress.net/don-khong-kich-cua-israel-co-the-thoi-bay-thoa-thuan-hoa-binh-gaza-4957279.html) - 12:17 29/10/2025
 - 🤭 [Hơn 100 người Gaza chết vì bom Israel trong một ngày](https://vnexpress.net/hon-100-nguoi-gaza-chet-vi-bom-israel-trong-mot-ngay-4957502.html) - 11:31 29/10/2025
 - 🧑‍💻 [Venezuela điều tiêm kích bắn &#39;máy bay chở ma túy&#39;](https://vnexpress.net/venezuela-dieu-tiem-kich-ban-may-bay-cho-ma-tuy-4957499.html) - 11:16 29/10/2025
