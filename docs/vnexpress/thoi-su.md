@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Cần công nhận liệt sĩ với y bác sĩ hy sinh khi làm nhiệm vụ&#39;](https://vnexpress.net/can-cong-nhan-liet-si-voi-y-bac-si-hy-sinh-khi-lam-nhiem-vu-4957249.html) - 04:59 29/10/2025
-- 🤓 [Sạt lở vùi lấp trạm y tế ở Quảng Ngãi](https://vnexpress.net/sat-lo-vui-lap-tram-y-te-o-quang-ngai-4957262.html) - 04:54 29/10/2025
+- 🤓 [Sạt lở uy hiếp trạm y tế, trường học, trụ sở ở Quảng Ngãi](https://vnexpress.net/sat-lo-uy-hiep-tram-y-te-truong-hoc-tru-so-o-quang-ngai-4957262.html) - 04:54 29/10/2025
 - ⚗️ [Rút hai đoàn tàu chở đá khỏi cầu đường sắt ở Huế](https://vnexpress.net/rut-hai-doan-tau-cho-da-khoi-cau-duong-sat-o-hue-4957159.html) - 04:26 29/10/2025
 - 🌊 [Lốc xoáy thổi bay hàng chục nhà ở Cà Mau](https://vnexpress.net/loc-xoay-thoi-bay-hang-chuc-nha-o-ca-mau-4957257.html) - 04:07 29/10/2025
 - 🎓 [Đề xuất lập lực lượng cứu trợ nhân dân](https://vnexpress.net/de-xuat-lap-luc-luong-cuu-tro-nhan-dan-4957245.html) - 04:03 29/10/2025
