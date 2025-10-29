@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Tôi! Người Việt Nam: NSND Tự Long ngẫu hứng lên khán đài giao lưu cùng fan](https://dantri.com.vn/giai-tri/toi-nguoi-viet-nam-nsnd-tu-long-ngau-hung-len-khan-dai-giao-luu-cung-fan-20251029190939810.htm) - 13:07 29/10/2025
+- 🤩 [Tôi! Người Việt Nam: Dàn &quot;anh tài&quot; thể hiện ca khúc hướng về vùng bão lũ](https://dantri.com.vn/giai-tri/toi-nguoi-viet-nam-dan-anh-tai-the-hien-ca-khuc-huong-ve-vung-bao-lu-20251029190939810.htm) - 13:07 29/10/2025
 - 🔥 [Hẹn nhau mặc áo dài, lan tỏa tinh thần dân tộc tại &quot;Tôi! Người Việt Nam&quot;](https://dantri.com.vn/giai-tri/hen-nhau-mac-ao-dai-lan-toa-tinh-than-dan-toc-tai-toi-nguoi-viet-nam-20251029193103035.htm) - 13:07 29/10/2025
 - 🚀 [Khán giả háo hức đổ về TPHCM trước giờ diễn ra “Tôi! Người Việt Nam”](https://dantri.com.vn/giai-tri/khan-gia-hao-huc-do-ve-tphcm-truoc-gio-dien-ra-toi-nguoi-viet-nam-20251029182609431.htm) - 11:54 29/10/2025
 - 🔥 [Tôi! Người Việt Nam: Khán giả xếp hàng, sẵn sàng bùng nổ cùng 25 &quot;anh tài&quot;](https://dantri.com.vn/giai-tri/toi-nguoi-viet-nam-khan-gia-xep-hang-san-sang-bung-no-cung-25-anh-tai-20251029164046657.htm) - 10:17 29/10/2025
