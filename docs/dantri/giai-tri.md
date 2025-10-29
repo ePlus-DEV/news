@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Jack xin lỗi sau buổi làm việc với Sở Văn hóa và Thể thao Hà Nội](https://dantri.com.vn/giai-tri/jack-xin-loi-sau-buoi-lam-viec-voi-so-van-hoa-va-the-thao-ha-noi-20251029224127665.htm) - 16:03 29/10/2025
-- 🔥 [Đêm nhạc &quot;Tôi! Người Việt Nam&quot; khép lại tràn ngập cảm xúc](https://dantri.com.vn/giai-tri/dem-nhac-toi-nguoi-viet-nam-khep-lai-tran-ngap-cam-xuc-20251029190939810.htm) - 13:07 29/10/2025
+- 🔥 [Đêm nhạc &quot;Tôi! Người Việt Nam&quot; ngập tràn cảm xúc, lan tỏa yêu thương](https://dantri.com.vn/giai-tri/dem-nhac-toi-nguoi-viet-nam-ngap-tran-cam-xuc-lan-toa-yeu-thuong-20251029190939810.htm) - 13:07 29/10/2025
 - 🚀 [Hẹn nhau mặc áo dài, lan tỏa tinh thần dân tộc tại &quot;Tôi! Người Việt Nam&quot;](https://dantri.com.vn/giai-tri/hen-nhau-mac-ao-dai-lan-toa-tinh-than-dan-toc-tai-toi-nguoi-viet-nam-20251029193103035.htm) - 13:07 29/10/2025
 - 🔥 [Khán giả háo hức đổ về TPHCM trước giờ diễn ra “Tôi! Người Việt Nam”](https://dantri.com.vn/giai-tri/khan-gia-hao-huc-do-ve-tphcm-truoc-gio-dien-ra-toi-nguoi-viet-nam-20251029182609431.htm) - 11:54 29/10/2025
 - 🌈 [Tôi! Người Việt Nam: Khán giả xếp hàng, sẵn sàng bùng nổ cùng 25 &quot;anh tài&quot;](https://dantri.com.vn/giai-tri/toi-nguoi-viet-nam-khan-gia-xep-hang-san-sang-bung-no-cung-25-anh-tai-20251029164046657.htm) - 10:17 29/10/2025
