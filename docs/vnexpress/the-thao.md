@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pardew: &#39;Man City sẽ thách thức tham vọng vô địch của Arsenal&#39;](https://vnexpress.net/pardew-man-city-se-thach-thuc-tham-vong-vo-dich-cua-arsenal-4957088.html) - 12:41 29/10/2025
+- 🪜 [Pardew: &#39;Man City vẫn đủ khả năng đua vô địch với Arsenal&#39;](https://vnexpress.net/pardew-man-city-van-du-kha-nang-dua-vo-dich-voi-arsenal-4957088.html) - 12:41 29/10/2025
 - 🦩 [Alcaraz: &#39;Ai cũng có một ngày tồi tệ&#39;](https://vnexpress.net/alcaraz-ai-cung-co-mot-ngay-toi-te-4957501.html) - 12:28 29/10/2025
 - 🧰 [Vì sao Gyokeres thất bại ở Brighton?](https://vnexpress.net/vi-sao-gyokeres-that-bai-o-brighton-4957273.html) - 12:00 29/10/2025
 - 🤗 [VFF ghi nhận lời xin lỗi của Thái Lan](https://vnexpress.net/vff-ghi-nhan-loi-xin-loi-cua-thai-lan-4957433.html) - 10:25 29/10/2025
