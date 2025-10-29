@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nữ sinh công bố quốc tế từ nghiên cứu về rơm, rạ, vỏ trấu](https://vnexpress.net/nu-sinh-cong-bo-quoc-te-tu-nghien-cuu-ve-rom-ra-vo-trau-4955469.html) - 03:32 29/10/2025
 - 🦆 [Viện Nghiên cứu Tâm Anh hợp tác Oxford đào tạo y tế chuyên sâu](https://vnexpress.net/vien-nghien-cuu-tam-anh-hop-tac-oxford-dao-tao-y-te-chuyen-sau-4957208.html) - 03:00 29/10/2025
-- 🦩 [Đóng băng tuyển nghiên cứu sinh tiến sĩ ở Mỹ](https://vnexpress.net/dong-bang-tuyen-nghien-cuu-sinh-tien-si-o-my-4956949.html) - 01:38 29/10/2025
+- 🦩 [Hàng loạt đại học Mỹ cắt giảm chỉ tiêu tiến sĩ](https://vnexpress.net/hang-loat-dai-hoc-my-cat-giam-chi-tieu-tien-si-4956949.html) - 01:38 29/10/2025
 - 🌮 [Dự kiến trung tâm dạy thêm phải công khai danh sách học sinh](https://vnexpress.net/du-kien-trung-tam-day-them-phai-cong-khai-danh-sach-hoc-sinh-4957001.html) - 14:41 28/10/2025
 - 🔭 [Người dân nước nào ăn nhiều &#39;mì tôm&#39; nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-an-nhieu-mi-tom-nhat-the-gioi-4956920.html) - 12:00 28/10/2025
 - 💡 [7 học bổng du học châu Âu năm 2026](https://vnexpress.net/thoi-gian-mo-don-7-hoc-bong-chinh-phu-du-hoc-chau-au-nam-2026-4956032.html) - 09:15 28/10/2025
