@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Người đàn ông cứu hai mẹ con bám cột điện nhiều giờ giữa dòng nước lũ ở Huế](https://dantri.com.vn/doi-song/nguoi-dan-ong-cuu-hai-me-con-bam-cot-dien-nhieu-gio-giua-dong-nuoc-lu-o-hue-20251029153517741.htm) - 08:56 29/10/2025
+- 🥳 [Người đàn ông cứu hai mẹ con bám cột điện giữa dòng nước lũ ở Huế](https://dantri.com.vn/doi-song/nguoi-dan-ong-cuu-hai-me-con-bam-cot-dien-giua-dong-nuoc-lu-o-hue-20251029153517741.htm) - 08:56 29/10/2025
 - 🌁 [Phòng gym tặng xe hơi cho người giảm được 50kg trong 3 tháng](https://dantri.com.vn/doi-song/phong-gym-tang-xe-hoi-cho-nguoi-giam-duoc-50kg-trong-3-thang-20251029143920798.htm) - 08:45 29/10/2025
 - 👀 [Cảnh thợ săn bão bay thẳng vào tâm bão có sức gió 280km/h mạnh nhất năm nay](https://dantri.com.vn/doi-song/canh-tho-san-bao-bay-thang-vao-tam-bao-co-suc-gio-280kmh-manh-nhat-nam-nay-20251029125349380.htm) - 08:09 29/10/2025
 - 🐻 [Người đàn ông dùng máy cày vượt lũ, giúp sản phụ, người bệnh đi cấp cứu](https://dantri.com.vn/doi-song/nguoi-dan-ong-dung-may-cay-vuot-lu-giup-san-phu-nguoi-benh-di-cap-cuu-20251029095325339.htm) - 06:03 29/10/2025
