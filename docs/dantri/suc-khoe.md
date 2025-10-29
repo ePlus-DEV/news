@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Kỹ thuật đặc biệt ý nghĩa với người trẻ mắc căn bệnh ung thư nguy hiểm](https://dantri.com.vn/suc-khoe/ky-thuat-dac-biet-y-nghia-voi-nguoi-tre-mac-can-benh-ung-thu-nguy-hiem-20251029112950967.htm) - 04:50 29/10/2025
-- 🚦 [Chiều nay tọa đàm: Dược sĩ nhà thuốc - Người gác cổng sức khỏe cộng đồng](https://dantri.com.vn/suc-khoe/chieu-nay-toa-dam-duoc-si-nha-thuoc-nguoi-gac-cong-suc-khoe-cong-dong-20251029113852025.htm) - 04:39 29/10/2025
+- 🚦 [Tọa đàm: Dược sĩ nhà thuốc - Người gác cổng sức khỏe cộng đồng](https://dantri.com.vn/suc-khoe/toa-dam-duoc-si-nha-thuoc-nguoi-gac-cong-suc-khoe-cong-dong-20251029113852025.htm) - 04:39 29/10/2025
 - 🤖 [Nhân viên y tế liên tiếp bị hành hung, Bộ Y tế đề nghị Bộ Công an hỗ trợ](https://dantri.com.vn/suc-khoe/nhan-vien-y-te-lien-tiep-bi-hanh-hung-bo-y-te-de-nghi-bo-cong-an-ho-tro-20251029102118539.htm) - 03:21 29/10/2025
 - 🐻 [Những thói quen nhỏ giúp tim khỏe mạnh](https://dantri.com.vn/suc-khoe/nhung-thoi-quen-nho-giup-tim-khoe-manh-20251028220532459.htm) - 03:00 29/10/2025
 - 🌏 [Hai lớp bảo vệ giúp lấp “khoảng trống miễn dịch” cho trẻ](https://dantri.com.vn/suc-khoe/hai-lop-bao-ve-giup-lap-khoang-trong-mien-dich-cho-tre-20251028214534737.htm) - 03:00 29/10/2025
