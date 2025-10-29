@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đồng tiền nước nào giá trị nhất Đông Nam Á?](https://vnexpress.net/dong-tien-nuoc-nao-gia-tri-nhat-dong-nam-a-4957489.html) - 14:14 29/10/2025
+- 🤓 [Đồng tiền nước nào giá trị cao nhất Đông Nam Á?](https://vnexpress.net/dong-tien-nuoc-nao-gia-tri-cao-nhat-dong-nam-a-4957489.html) - 14:14 29/10/2025
 - 🦆 [&#39;Nhiều sinh viên y khoa đi thực tập nhưng không được thực hành&#39;](https://vnexpress.net/nhieu-sinh-vien-y-khoa-di-thuc-tap-nhung-khong-duoc-thuc-hanh-4957402.html) - 09:42 29/10/2025
 - 🦩 [Tiếng Anh sẽ thành môn bắt buộc từ lớp 1](https://vnexpress.net/phe-duyet-de-an-tieng-anh-thanh-ngon-ngu-thu-hai-trong-truong-hoc-4957394.html) - 09:04 29/10/2025
 - 🌮 [6 cái nhất của Đại học Oxford](https://vnexpress.net/6-cai-nhat-cua-dai-hoc-oxford-4957405.html) - 08:15 29/10/2025
