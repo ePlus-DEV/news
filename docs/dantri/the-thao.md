@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Madam Pang đến Đại sứ quán Việt Nam để xin lỗi vụ dùng sai Quốc kỳ](https://dantri.com.vn/the-thao/madam-pang-den-dai-su-quan-viet-nam-de-xin-loi-vu-dung-sai-quoc-ky-20251030184519428.htm) - 11:45 30/10/2025
+- 🎡 [Madam Pang đến Đại sứ quán Việt Nam để xin lỗi vụ dùng sai Quốc kỳ](https://dantri.com.vn/the-thao/madam-pang-den-dai-su-quan-viet-nam-de-xin-loi-vu-dung-sai-quoc-ky-20251030184519428.htm) - 12:00 30/10/2025
 - 💯 [AFC tuyên bố xử lý mạnh tay với bóng đá Malaysia, chỉ còn chờ FIFA](https://dantri.com.vn/the-thao/afc-tuyen-bo-xu-ly-manh-tay-voi-bong-da-malaysia-chi-con-cho-fifa-20251030154538574.htm) - 08:51 30/10/2025
 - ⛽️ [Vinicius không xin lỗi HLV Alonso, Real Madrid muốn mua Haaland thay thế](https://dantri.com.vn/the-thao/vinicius-khong-xin-loi-hlv-alonso-real-madrid-muon-mua-haaland-thay-the-20251030131157085.htm) - 08:09 30/10/2025
 - 💃 [HLV Masatada Ishii dẫn dắt CLB Thái Lan, chuẩn bị chạm trán HLV Polking](https://dantri.com.vn/the-thao/hlv-masatada-ishii-dan-dat-clb-thai-lan-chuan-bi-cham-tran-hlv-polking-20251030135901398.htm) - 08:04 30/10/2025
