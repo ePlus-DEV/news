@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Thủ tướng: “Sẽ cân đối, tính toán để tăng lương sớm”](https://dantri.com.vn/thoi-su/thu-tuong-se-can-doi-tinh-toan-de-tang-luong-som-20251030165227915.htm) - 10:02 30/10/2025
-- 👨‍🏫 [Miền Trung oằn mình trong lũ, nhà sập, người mất, tài sản cuốn trôi](https://dantri.com.vn/tam-long-nhan-ai/mien-trung-oan-minh-trong-lu-nha-sap-nguoi-mat-tai-san-cuon-troi-20251030131939283.htm) - 09:07 30/10/2025
+- 👨‍🏫 [Miền Trung oằn mình trong lũ, nhà sập, người mất, tài sản bị cuốn trôi](https://dantri.com.vn/tam-long-nhan-ai/mien-trung-oan-minh-trong-lu-nha-sap-nguoi-mat-tai-san-bi-cuon-troi-20251030131939283.htm) - 09:07 30/10/2025
 - 🌮 [Cân hành lý xách tay: Khách than phiền toái, Vietnam Airlines lý giải](https://dantri.com.vn/kinh-doanh/can-hanh-ly-xach-tay-khach-than-phien-toai-vietnam-airlines-ly-giai-20251030121034331.htm) - 08:56 30/10/2025
 - 🕯 [3 đối tượng bán súng cho Lê Sỹ Tùng sát hại 3 người ở Đồng Nai](https://dantri.com.vn/phap-luat/3-doi-tuong-ban-sung-cho-le-sy-tung-sat-hai-3-nguoi-o-dong-nai-20251030143019675.htm) - 08:01 30/10/2025
 - 🪜 [Chiến sự Ukraine 30/10: Mọi nỗ lực phá vây ở Pokrovsk của Kiev đều thất bại](https://dantri.com.vn/the-gioi/chien-su-ukraine-3010-moi-no-luc-pha-vay-o-pokrovsk-cua-kiev-deu-that-bai-20251030115832733.htm) - 05:14 30/10/2025
