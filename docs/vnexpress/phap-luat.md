@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [3 nghi phạm bán súng cho Lê Sỹ Tùng sát hại gia đình ở Đồng Nai bị bắt](https://vnexpress.net/3-nghi-pham-ban-sung-cho-le-sy-tung-sat-hai-gia-dinh-o-dong-nai-bi-bat-4957837.html) - 07:16 30/10/2025
+- 😎 [3 người bán súng cho Lê Sỹ Tùng sát hại gia đình ở Đồng Nai bị bắt](https://vnexpress.net/3-nguoi-ban-sung-cho-le-sy-tung-sat-hai-gia-dinh-o-dong-nai-bi-bat-4957837.html) - 07:16 30/10/2025
 - 🥰 [Gọi 911 cầu cứu, chủ nhà bị cảnh sát bắn chết vì cầm nồi nước sôi](https://vnexpress.net/goi-911-cau-cuu-chu-nha-bi-canh-sat-ban-chet-vi-cam-noi-nuoc-soi-4957794.html) - 06:39 30/10/2025
 - 🎓 [Đại gia đánh bạc 16 triệu USD &#39;không biết&#39; sát phạt trong casino là phạm pháp](https://vnexpress.net/dai-gia-danh-bac-16-trieu-usd-khong-biet-sat-phat-trong-casino-la-pham-phap-4957744.html) - 06:01 30/10/2025
 - 🤓 [Trộm vàng, tiền trị giá 2 tỷ đồng của cô chồng](https://vnexpress.net/trom-vang-tien-tri-gia-2-ty-dong-cua-co-chong-4957725.html) - 03:58 30/10/2025
