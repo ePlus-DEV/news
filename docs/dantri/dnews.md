@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Doanh nghiệp than với Thứ trưởng &quot;vật vã xin giấy phép&quot; xuất khẩu lao động](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-than-voi-thu-truong-vat-va-xin-giay-phep-xuat-khau-lao-dong-20251030100340533.htm) - 03:51 30/10/2025
+- 🤠 [Doanh nghiệp than với Thứ trưởng thủ tục cấp phép xuất khẩu lao động](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-than-voi-thu-truong-thu-tuc-cap-phep-xuat-khau-lao-dong-20251030100340533.htm) - 03:51 30/10/2025
 - 🌈 [Diễn biến mưa, lụt tại các tỉnh thành miền Trung](https://dantri.com.vn/thoi-su/dien-bien-mua-lut-tai-cac-tinh-thanh-mien-trung-20251030081411148.htm) - 02:15 30/10/2025
 - 🐎 [&quot;Bóng ma&quot; trung tâm thương mại ở Trung Quốc và chỉ báo bong bóng bán lẻ](https://dantri.com.vn/kinh-doanh/bong-ma-trung-tam-thuong-mai-o-trung-quoc-va-chi-bao-bong-bong-ban-le-20251029224032918.htm) - 01:52 30/10/2025
 - 👹 [Bruno Fernandes: Lời mời triệu USD từ Saudi Arabia và tình cảm với Man Utd](https://dantri.com.vn/the-thao/bruno-fernandes-loi-moi-trieu-usd-tu-saudi-arabia-va-tinh-cam-voi-man-utd-20251030053512323.htm) - 01:48 30/10/2025
