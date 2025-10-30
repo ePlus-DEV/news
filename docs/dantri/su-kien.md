@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Chiến sự Ukraine 30/10: Mọi nỗ lực phá vây ở Pokrovsk của Kiev đều thất bại](https://dantri.com.vn/the-gioi/chien-su-ukraine-3010-moi-no-luc-pha-vay-o-pokrovsk-cua-kiev-deu-that-bai-20251030115832733.htm) - 05:14 30/10/2025
 - 👨‍🏫 [Những khoảnh khắc khó quên trong đêm nhạc &quot;Tôi! Người Việt Nam&quot;](https://dantri.com.vn/giai-tri/nhung-khoanh-khac-kho-quen-trong-dem-nhac-toi-nguoi-viet-nam-20251030101514899.htm) - 04:39 30/10/2025
-- 🌮 [6-7 tỷ USD kiểu hối lao động Việt gửi về ngang nhóm hàng xuất khẩu mũi nhọn](https://dantri.com.vn/lao-dong-viec-lam/6-7-ty-usd-kieu-hoi-lao-dong-viet-gui-ve-ngang-nhom-hang-xuat-khau-mui-nhon-20251030100340533.htm) - 03:51 30/10/2025
+- 🌮 [6-7 tỷ USD lao động Việt gửi về mỗi năm ngang nhóm hàng xuất khẩu mũi nhọn](https://dantri.com.vn/lao-dong-viec-lam/6-7-ty-usd-lao-dong-viet-gui-ve-moi-nam-ngang-nhom-hang-xuat-khau-mui-nhon-20251030100340533.htm) - 03:51 30/10/2025
 - 🕯 [Phó Thủ tướng báo cáo giá vàng, bất động sản tăng cao và biến động](https://dantri.com.vn/thoi-su/pho-thu-tuong-bao-cao-gia-vang-bat-dong-san-tang-cao-va-bien-dong-20251030101958987.htm) - 03:32 30/10/2025
 - 🪜 [Chú rể dùng xe kéo rước dâu vượt lũ ở Đà Nẵng](https://dantri.com.vn/doi-song/chu-re-dung-xe-keo-ruoc-dau-vuot-lu-o-da-nang-20251030073118382.htm) - 02:56 30/10/2025
 - 🐘 [Jack tạm dừng hoạt động biểu diễn sau ồn ào ca từ phản cảm](https://dantri.com.vn/giai-tri/jack-tam-dung-hoat-dong-bieu-dien-sau-on-ao-ca-tu-phan-cam-20251030091739780.htm) - 02:24 30/10/2025
