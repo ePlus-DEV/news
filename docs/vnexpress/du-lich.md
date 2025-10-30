@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Cuộc chạy lũ lịch sử bằng thuyền và xe tải của khách Tây ở Huế](https://vnexpress.net/cuoc-chay-lu-lich-su-bang-thuyen-va-xe-tai-cua-khach-tay-o-hue-4957579.html) - 02:27 30/10/2025
+- 💂 [Cuộc chạy lũ bằng thuyền và xe tải của khách Tây ở Huế](https://vnexpress.net/cuoc-chay-lu-bang-thuyen-va-xe-tai-cua-khach-tay-o-hue-4957579.html) - 02:27 30/10/2025
 - 🪄 [Lý do điện Thái Hòa vẫn khô ráo giữa nước lũ ở Huế](https://vnexpress.net/ly-do-dien-thai-hoa-van-kho-rao-giua-nuoc-lu-o-hue-4957525.html) - 02:18 30/10/2025
 - 🦅 [24 giờ trên chuyến tàu xa xỉ của Italy](https://vnexpress.net/24-gio-tren-chuyen-tau-xa-xi-cua-italy-4957344.html) - 17:00 29/10/2025
 - 🕴 [Vietnam Airlines thu phí hành lý xách tay quá tiêu chuẩn](https://vnexpress.net/vietnam-airlines-thu-phi-hanh-ly-xach-tay-qua-tieu-chuan-4957495.html) - 13:17 29/10/2025
