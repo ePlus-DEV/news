@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ngày &#39;phán quyết&#39; của bóng đá Malaysia](https://vnexpress.net/ngay-phan-quyet-cua-bong-da-malaysia-4957814.html) - 05:57 30/10/2025
-- 🦩 [Bóng đá châu Âu dưới gót giày của các HLV người Tây Ban Nha](https://vnexpress.net/bong-da-chau-au-duoi-got-giay-cua-cac-hlv-nguoi-tay-ban-nha-4957815.html) - 05:55 30/10/2025
+- 🦩 [Các HLV người Tây Ban Nha thống trị châu Âu như thế nào](https://vnexpress.net/cac-hlv-nguoi-tay-ban-nha-thong-tri-chau-au-nhu-the-nao-4957815.html) - 05:55 30/10/2025
 - 🧰 [Bóng đá đi bộ - môn thể thao cho các lão niên](https://vnexpress.net/bong-da-di-bo-mon-the-thao-cho-cac-lao-nien-4957554.html) - 05:31 30/10/2025
 - 🤗 [Vì sao Djokovic chưa giải nghệ?](https://vnexpress.net/vi-sao-djokovic-chua-giai-nghe-4957792.html) - 05:24 30/10/2025
 - 🥳 [Messi cảnh báo Inter Miami về tham vọng MLS Cup](https://vnexpress.net/messi-canh-bao-inter-miami-ve-tham-vong-mls-cup-4957750.html) - 05:20 30/10/2025
