@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Miền Trung oằn mình trong lũ, nhà sập, người mất, tài sản cuốn trôi](https://dantri.com.vn/tam-long-nhan-ai/mien-trung-oan-minh-trong-lu-nha-sap-nguoi-mat-tai-san-cuon-troi-20251030131939283.htm) - 09:07 30/10/2025
+- 🌝 [Miền Trung oằn mình trong lũ, nhà sập, người mất, tài sản bị cuốn trôi](https://dantri.com.vn/tam-long-nhan-ai/mien-trung-oan-minh-trong-lu-nha-sap-nguoi-mat-tai-san-bi-cuon-troi-20251030131939283.htm) - 09:07 30/10/2025
 - 🌜 [Ngã vào chảo mỡ bò đang sôi, người bố 2 con bỏng 75% cơ thể](https://dantri.com.vn/tam-long-nhan-ai/nga-vao-chao-mo-bo-dang-soi-nguoi-bo-2-con-bong-75-co-the-20251023164339984.htm) - 22:30 29/10/2025
 - 👀 [Cậu bé 5 tuổi mắc bệnh hiểm nghèo được bạn đọc hỗ trợ hơn 200 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/cau-be-5-tuoi-mac-benh-hiem-ngheo-duoc-ban-doc-ho-tro-hon-200-trieu-dong-20251029211604357.htm) - 15:33 29/10/2025
 - 🚀 [Bạn đọc hỗ trợ người vợ chăm chồng trọng bệnh hơn 110 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-ho-tro-nguoi-vo-cham-chong-trong-benh-hon-110-trieu-dong-20251029154225781.htm) - 12:54 29/10/2025
