@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Nước ngập khách sạn ở Hội An, khách Tây kể trải nghiệm đi thuyền như Venice](https://dantri.com.vn/doi-song/nuoc-ngap-khach-san-o-hoi-an-khach-tay-ke-trai-nghiem-di-thuyen-nhu-venice-20251030085701375.htm) - 08:35 30/10/2025
+- 🥳 [Đò chở đoàn đi cứu trợ bị chìm, 6 người rơi xuống vùng nước sâu](https://dantri.com.vn/doi-song/do-cho-doan-di-cuu-tro-bi-chim-6-nguoi-roi-xuong-vung-nuoc-sau-20251030152237953.htm) - 10:12 30/10/2025
 - 🌁 [Người dân xã đảo rim cá khô gửi về vùng rốn lũ miền Trung](https://dantri.com.vn/doi-song/nguoi-dan-xa-dao-rim-ca-kho-gui-ve-vung-ron-lu-mien-trung-20251029162521227.htm) - 06:28 30/10/2025
 - 👀 [Mưa lũ miền Trung: “Chỉ mong bà con có nước uống, thức ăn&quot;](https://dantri.com.vn/doi-song/mua-lu-mien-trung-chi-mong-ba-con-co-nuoc-uong-thuc-an-20251029191339721.htm) - 06:28 30/10/2025
 - 🐻 [Chợ truyền thống lớn nhất Huế tan hoang sau lũ, nhiều mặt hàng khan hiếm](https://dantri.com.vn/doi-song/cho-truyen-thong-lon-nhat-hue-tan-hoang-sau-lu-nhieu-mat-hang-khan-hiem-20251030113059774.htm) - 04:49 30/10/2025
