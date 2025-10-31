@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Sự thật về video SVĐ World Cup chọc trời ở Arab Saudi](https://vnexpress.net/su-that-ve-video-svd-world-cup-choc-troi-o-arab-saudi-4958067.html) - 02:04 31/10/2025
-- 🦩 [Sinner lần đầu vào tứ kết Paris Masters](https://vnexpress.net/sinner-lan-dau-vao-tu-ket-paris-masters-4958101.html) - 01:58 31/10/2025
-- 🧰 [55 runner chạy marathon ở độ sâu 1.120 mét](https://vnexpress.net/55-runner-chay-marathon-o-do-sau-1-120-met-4957962.html) - 01:24 31/10/2025
-- 🤗 [Redknapp: &#39;Slot phàn nàn nhiều khiến Liverpool mất tự tin&#39;](https://vnexpress.net/redknapp-slot-phan-nan-nhieu-khien-liverpool-mat-tu-tin-4958020.html) - 23:45 30/10/2025
-- 🥳 [Sinner: &#39;Alcaraz là số 1 năm nay&#39;](https://vnexpress.net/sinner-alcaraz-la-so-1-nam-nay-4957979.html) - 22:41 30/10/2025
-- 🦣 [Haaland có thể rời Man City](https://vnexpress.net/haaland-co-the-roi-man-city-4958038.html) - 22:39 30/10/2025
+- 🪜 [Andre Agassi và Steffi Graf - bình yên sau ánh hào quang](https://vnexpress.net/andre-agassi-va-steffi-graf-binh-yen-sau-anh-hao-quang-4958029.html) - 04:13 31/10/2025
+- 🦩 [Tài liệu cho thấy cầu thủ bị cấm không có gốc gác Malaysia](https://vnexpress.net/tai-lieu-cho-thay-cau-thu-bi-cam-khong-co-goc-gac-malaysia-4958139.html) - 03:08 31/10/2025
+- 🧰 [Sự thật về video SVĐ World Cup chọc trời ở Arab Saudi](https://vnexpress.net/su-that-ve-video-svd-world-cup-choc-troi-o-arab-saudi-4958067.html) - 02:04 31/10/2025
+- 🤗 [Sinner lần đầu vào tứ kết Paris Masters](https://vnexpress.net/sinner-lan-dau-vao-tu-ket-paris-masters-4958101.html) - 01:58 31/10/2025
+- 🥳 [Giải marathon sâu nhất thế giới](https://vnexpress.net/giai-marathon-sau-nhat-the-gioi-4957962.html) - 01:24 31/10/2025
+- 🦣 [Redknapp: &#39;Slot phàn nàn nhiều khiến Liverpool mất tự tin&#39;](https://vnexpress.net/redknapp-slot-phan-nan-nhieu-khien-liverpool-mat-tu-tin-4958020.html) - 23:45 30/10/2025
+- 🌜 [Sinner: &#39;Alcaraz là số 1 năm nay&#39;](https://vnexpress.net/sinner-alcaraz-la-so-1-nam-nay-4957979.html) - 22:41 30/10/2025
+- 🫶 [Haaland có thể rời Man City](https://vnexpress.net/haaland-co-the-roi-man-city-4958038.html) - 22:39 30/10/2025
 - 🌜 [Amorim: &#39;Man Utd có thể thắng nhiều hơn nếu đá 4-4-2&#39;](https://vnexpress.net/amorim-man-utd-co-the-thang-nhieu-hon-neu-da-4-4-2-4958035.html) - 17:00 30/10/2025
-- 🫶 [Tiger Street Football 2025 thu hút 3.300 cầu thủ đường phố Việt](https://vnexpress.net/tiger-street-football-2025-thu-hut-3-300-cau-thu-duong-pho-viet-4956606.html) - 13:00 30/10/2025
-- 🌜 [Madam Pang đến Đại sứ quán Việt Nam tại Thái Lan để xin lỗi](https://vnexpress.net/madam-pang-den-dai-su-quan-viet-nam-tai-thai-lan-de-xin-loi-4957975.html) - 11:24 30/10/2025
-- 😺 [Lãnh đạo LĐBĐ Thái Lan sẽ từ chức nếu mất vé dự Asian Cup 2027](https://vnexpress.net/lanh-dao-ldbd-thai-lan-se-tu-chuc-neu-mat-ve-du-asian-cup-2027-4957931.html) - 09:34 30/10/2025
-- 👍 [UEFA kháng cáo bất thành ở dự án Super League](https://vnexpress.net/uefa-khang-cao-bat-thanh-o-du-an-super-league-4956276.html) - 08:20 30/10/2025
-- 🐵 [Ngày &#39;phán quyết&#39; của bóng đá Malaysia](https://vnexpress.net/ngay-phan-quyet-cua-bong-da-malaysia-4957814.html) - 05:57 30/10/2025
-- 💫 [Các HLV người Tây Ban Nha thống trị châu Âu như thế nào](https://vnexpress.net/cac-hlv-nguoi-tay-ban-nha-thong-tri-chau-au-nhu-the-nao-4957815.html) - 05:55 30/10/2025
-- 🦆 [Bóng đá đi bộ - môn thể thao cho các lão niên](https://vnexpress.net/bong-da-di-bo-mon-the-thao-cho-cac-lao-nien-4957554.html) - 05:31 30/10/2025
-- 🙉 [Vì sao Djokovic chưa giải nghệ?](https://vnexpress.net/vi-sao-djokovic-chua-giai-nghe-4957792.html) - 05:24 30/10/2025
-- 📝 [Messi cảnh báo Inter Miami về tham vọng MLS Cup](https://vnexpress.net/messi-canh-bao-inter-miami-ve-tham-vong-mls-cup-4957750.html) - 05:20 30/10/2025
-- 💯 [Slot: &#39;Làm HLV là phải chọn giữa đội hình và kết quả&#39;](https://vnexpress.net/slot-lam-hlv-la-phai-chon-giua-doi-hinh-va-ket-qua-4957705.html) - 03:04 30/10/2025
-- 🌈 [Chạy giật lùi có thể chữa được chuột rút?](https://vnexpress.net/chay-giat-lui-co-the-chua-duoc-chuot-rut-4957559.html) - 02:40 30/10/2025
-- 🦩 [Kane giúp Bayern tạo chuỗi thắng lịch sử](https://vnexpress.net/kane-giup-bayern-tao-chuoi-thang-lich-su-4957599.html) - 00:15 30/10/2025
-- 🐲 [Arsenal thắng 8 trận liên tiếp](https://vnexpress.net/arsenal-thang-8-tran-lien-tiep-4957589.html) - 23:25 29/10/2025
-- 🌁 [Khoảnh khắc Ronaldo tự động viên bản thân gây chú ý](https://vnexpress.net/khoanh-khac-ronaldo-tu-dong-vien-ban-than-gay-chu-y-4957536.html) - 23:17 29/10/2025
-- 💯 [Man City phải ngược dòng trước đội hạng Nhất](https://vnexpress.net/man-city-phai-nguoc-dong-truoc-doi-hang-nhat-4957584.html) - 23:10 29/10/2025
-- 🌝 [&#39;Tiểu Mbappe&#39; vượt qua Lamine Yamal](https://vnexpress.net/tieu-mbappe-vuot-qua-lamine-yamal-4957469.html) - 23:09 29/10/2025
-- 🤖 [Cuộc sống trong tù của Robinho](https://vnexpress.net/cuoc-song-trong-tu-cua-robinho-4957465.html) - 23:06 29/10/2025
-- 🕯 [Liverpool bị loại sớm ở Cup Liên đoàn](https://vnexpress.net/liverpool-bi-loai-som-o-cup-lien-doan-4957585.html) - 22:45 29/10/2025
-- 🧰 [Carlsen thắng áp đảo tại siêu giải Clutch Chess](https://vnexpress.net/carlsen-thang-ap-dao-tai-sieu-giai-clutch-chess-4957583.html) - 22:43 29/10/2025
-- 🥳 [PSG tiếp tục sẩy chân ở Ligue 1](https://vnexpress.net/psg-tiep-tuc-say-chan-o-ligue-1-4957582.html) - 19:55 29/10/2025
-- 👍 [Pardew: &#39;Man City vẫn đủ khả năng đua vô địch với Arsenal&#39;](https://vnexpress.net/pardew-man-city-van-du-kha-nang-dua-vo-dich-voi-arsenal-4957088.html) - 12:41 29/10/2025
-- 💪 [Alcaraz: &#39;Ai cũng có một ngày tồi tệ&#39;](https://vnexpress.net/alcaraz-ai-cung-co-mot-ngay-toi-te-4957501.html) - 12:28 29/10/2025
-- 👹 [Vì sao Gyokeres thất bại ở Brighton?](https://vnexpress.net/vi-sao-gyokeres-that-bai-o-brighton-4957273.html) - 12:00 29/10/2025
-- 🧰 [VFF ghi nhận lời xin lỗi của Thái Lan](https://vnexpress.net/vff-ghi-nhan-loi-xin-loi-cua-thai-lan-4957433.html) - 10:25 29/10/2025
-- 🚀 [Chuyên gia Malaysia mong FIFA giảm án cho 7 cầu thủ nhập tịch](https://vnexpress.net/chuyen-gia-malaysia-mong-fifa-giam-an-cho-7-cau-thu-nhap-tich-4957351.html) - 08:36 29/10/2025
-- 🎃 [Gabriel - &#39;pháo đài bay&#39; của Arsenal](https://vnexpress.net/gabriel-phao-dai-bay-cua-arsenal-4957411.html) - 08:21 29/10/2025
-- 🧰 [Messi thăng hoa và nghịch lý ở MLS](https://vnexpress.net/messi-thang-hoa-va-nghich-ly-o-mls-4957386.html) - 08:07 29/10/2025
-- 👀 [Pacquiao: &#39;Tôi không né tránh Mayweather&#39;](https://vnexpress.net/pacquiao-toi-khong-ne-tranh-mayweather-4957193.html) - 07:21 29/10/2025
-- 🌜 [Chủ tịch Perez được dự đoán bán Vinicius](https://vnexpress.net/chu-tich-perez-duoc-du-doan-ban-vinicius-4957070.html) - 07:08 29/10/2025
-- 🫶 [Hoka Rocket X 3 - siêu giày không dành cho marathoner nhẹ cân](https://vnexpress.net/hoka-rocket-x-3-sieu-giay-khong-danh-cho-marathoner-nhe-can-4957320.html) - 05:15 29/10/2025
-- 🦄 [Ferdinand: &#39;Nực cười với cách bào chữa của Slot&#39;](https://vnexpress.net/ferdinand-nuc-cuoi-voi-cach-bao-chua-cua-slot-4957082.html) - 04:36 29/10/2025
-- 🥳 [Guardiola: &#39;Bóng đá thời Stoke City đã trở lại&#39;](https://vnexpress.net/guardiola-bong-da-thoi-stoke-city-da-tro-lai-4957223.html) - 04:26 29/10/2025
-- 🐲 [Sự sáng tạo của Xabi Alonso ở El Clasico](https://vnexpress.net/su-sang-tao-cua-xabi-alonso-o-el-clasico-4956869.html) - 04:00 29/10/2025
-- 🧑‍🏫 [Tranh cãi về SVĐ chọc trời ở World Cup 2034](https://vnexpress.net/tranh-cai-ve-svd-choc-troi-o-world-cup-2034-4957076.html) - 03:57 29/10/2025
-- 🤔 [Cầu thủ trẻ Việt Nam gửi thông điệp &#39;xin cha bỏ bia&#39;](https://vnexpress.net/cau-thu-tre-viet-nam-gui-thong-diep-xin-cha-bo-bia-4956979.html) - 03:28 29/10/2025
-- 😺 [Carlsen gieo thêm sầu cho Vua cờ Gukesh](https://vnexpress.net/carlsen-gieo-them-sau-cho-vua-co-gukesh-4957215.html) - 03:23 29/10/2025
-- 💪 [Thái Lan cử đại diện sang Việt Nam xin lỗi vụ nhầm cờ](https://vnexpress.net/thai-lan-cu-dai-dien-sang-viet-nam-xin-loi-vu-nham-co-4957180.html) - 02:23 29/10/2025
-- 💼 [Ronaldo bị Benzema &#39;đá&#39; khỏi King&#39;s Cup](https://vnexpress.net/ronaldo-bi-benzema-da-khoi-king-s-cup-4957087.html) - 23:24 28/10/2025
-- 🕴 [Ông trùm F1 95 tuổi và cuộc sống yên bình bên con trai 5 tuổi](https://vnexpress.net/ong-trum-f1-95-tuoi-va-cuoc-song-yen-binh-ben-con-trai-5-tuoi-4957077.html) - 22:54 28/10/2025
-- 🕯 [Ferdinand: &#39;Amorim đang chơi trò cò quay Nga ở Man Utd&#39;](https://vnexpress.net/ferdinand-amorim-dang-choi-tro-co-quay-nga-o-man-utd-4956950.html) - 22:21 28/10/2025
-- 📝 [Messi: &#39;Nhiều cầu thủ ám ảnh kỷ lục cá nhân&#39;](https://vnexpress.net/messi-nhieu-cau-thu-am-anh-ky-luc-ca-nhan-4957072.html) - 22:16 28/10/2025
-- 🧐 [Alcaraz thua ngay trận đầu ở Paris Masters](https://vnexpress.net/alcaraz-thua-ngay-tran-dau-o-paris-masters-4957079.html) - 22:12 28/10/2025
-- 🙉 [Thủ môn Inter Milan gây tai nạn chết người](https://vnexpress.net/thu-mon-inter-milan-gay-tai-nan-chet-nguoi-4957075.html) - 22:09 28/10/2025
-- 🏊 [Vinicius công khai chuyện tình với người mẫu hơn tuổi](https://vnexpress.net/vinicius-cong-khai-chuyen-tinh-voi-nguoi-mau-hon-tuoi-4957080.html) - 22:03 28/10/2025
-- 🌊 [Anh em họ Vacherot - Rinderknech tái đấu ở Paris Masters](https://vnexpress.net/anh-em-ho-vacherot-rinderknech-tai-dau-o-paris-masters-4957078.html) - 20:40 28/10/2025
-- 👨‍🏫 [Thái Lan nhầm cờ Việt Nam ở lễ bốc thăm giải Đông Nam Á](https://vnexpress.net/thai-lan-nham-co-viet-nam-o-le-boc-tham-giai-dong-nam-a-4957006.html) - 12:20 28/10/2025
-- 🥷 [Mourinho đã đúng về các trọng tài Thổ Nhĩ Kỳ](https://vnexpress.net/mourinho-da-dung-ve-cac-trong-tai-tho-nhi-ky-4956977.html) - 11:29 28/10/2025
-- ⚗️ [Tay vợt nữ số 6 thế giới rút lại quyết định bỏ SEA Games 33](https://vnexpress.net/tay-vot-nu-so-6-the-gioi-rut-lai-quyet-dinh-bo-sea-games-33-4956934.html) - 09:22 28/10/2025
-- 🌮 [Vì sao Arsenal ám ảnh với các cầu thủ thuận chân trái?](https://vnexpress.net/vi-sao-arsenal-am-anh-voi-cac-cau-thu-thuan-chan-trai-4956897.html) - 08:48 28/10/2025
-- 🤩 [Khi Real là tắc kè hoa, còn Barca như tấm kính trong suốt](https://vnexpress.net/khi-real-la-tac-ke-hoa-con-barca-nhu-tam-kinh-trong-suot-4956808.html) - 07:38 28/10/2025
-- 🏊 [Yamal mua biệt thự cũ của Pique, Shakira](https://vnexpress.net/yamal-mua-biet-thu-cu-cua-pique-shakira-4956737.html) - 06:56 28/10/2025
-- 🐎 [Bekele và Kipchoge - màn tái đấu cuối cùng tại New York City Marathon?](https://vnexpress.net/bekele-va-kipchoge-man-tai-dau-cuoi-cung-tai-new-york-city-marathon-4956703.html) - 04:17 28/10/2025
+- 😺 [Tiger Street Football 2025 thu hút 3.300 cầu thủ đường phố Việt](https://vnexpress.net/tiger-street-football-2025-thu-hut-3-300-cau-thu-duong-pho-viet-4956606.html) - 13:00 30/10/2025
+- 👍 [Madam Pang đến Đại sứ quán Việt Nam tại Thái Lan để xin lỗi](https://vnexpress.net/madam-pang-den-dai-su-quan-viet-nam-tai-thai-lan-de-xin-loi-4957975.html) - 11:24 30/10/2025
+- 🐵 [Lãnh đạo LĐBĐ Thái Lan sẽ từ chức nếu mất vé dự Asian Cup 2027](https://vnexpress.net/lanh-dao-ldbd-thai-lan-se-tu-chuc-neu-mat-ve-du-asian-cup-2027-4957931.html) - 09:34 30/10/2025
+- 💫 [UEFA kháng cáo bất thành ở dự án Super League](https://vnexpress.net/uefa-khang-cao-bat-thanh-o-du-an-super-league-4956276.html) - 08:20 30/10/2025
+- 🦆 [Ngày &#39;phán quyết&#39; của bóng đá Malaysia](https://vnexpress.net/ngay-phan-quyet-cua-bong-da-malaysia-4957814.html) - 05:57 30/10/2025
+- 🙉 [Các HLV người Tây Ban Nha thống trị châu Âu như thế nào](https://vnexpress.net/cac-hlv-nguoi-tay-ban-nha-thong-tri-chau-au-nhu-the-nao-4957815.html) - 05:55 30/10/2025
+- 📝 [Bóng đá đi bộ - môn thể thao cho các lão niên](https://vnexpress.net/bong-da-di-bo-mon-the-thao-cho-cac-lao-nien-4957554.html) - 05:31 30/10/2025
+- 💯 [Vì sao Djokovic chưa giải nghệ?](https://vnexpress.net/vi-sao-djokovic-chua-giai-nghe-4957792.html) - 05:24 30/10/2025
+- 🌈 [Messi cảnh báo Inter Miami về tham vọng MLS Cup](https://vnexpress.net/messi-canh-bao-inter-miami-ve-tham-vong-mls-cup-4957750.html) - 05:20 30/10/2025
+- 🦩 [Slot: &#39;Làm HLV là phải chọn giữa đội hình và kết quả&#39;](https://vnexpress.net/slot-lam-hlv-la-phai-chon-giua-doi-hinh-va-ket-qua-4957705.html) - 03:04 30/10/2025
+- 🐲 [Chạy giật lùi có thể chữa được chuột rút?](https://vnexpress.net/chay-giat-lui-co-the-chua-duoc-chuot-rut-4957559.html) - 02:40 30/10/2025
+- 🌁 [Kane giúp Bayern tạo chuỗi thắng lịch sử](https://vnexpress.net/kane-giup-bayern-tao-chuoi-thang-lich-su-4957599.html) - 00:15 30/10/2025
+- 💯 [Arsenal thắng 8 trận liên tiếp](https://vnexpress.net/arsenal-thang-8-tran-lien-tiep-4957589.html) - 23:25 29/10/2025
+- 🌝 [Khoảnh khắc Ronaldo tự động viên bản thân gây chú ý](https://vnexpress.net/khoanh-khac-ronaldo-tu-dong-vien-ban-than-gay-chu-y-4957536.html) - 23:17 29/10/2025
+- 🤖 [Man City phải ngược dòng trước đội hạng Nhất](https://vnexpress.net/man-city-phai-nguoc-dong-truoc-doi-hang-nhat-4957584.html) - 23:10 29/10/2025
+- 🕯 [&#39;Tiểu Mbappe&#39; vượt qua Lamine Yamal](https://vnexpress.net/tieu-mbappe-vuot-qua-lamine-yamal-4957469.html) - 23:09 29/10/2025
+- 🧰 [Cuộc sống trong tù của Robinho](https://vnexpress.net/cuoc-song-trong-tu-cua-robinho-4957465.html) - 23:06 29/10/2025
+- 🥳 [Liverpool bị loại sớm ở Cup Liên đoàn](https://vnexpress.net/liverpool-bi-loai-som-o-cup-lien-doan-4957585.html) - 22:45 29/10/2025
+- 👍 [Carlsen thắng áp đảo tại siêu giải Clutch Chess](https://vnexpress.net/carlsen-thang-ap-dao-tai-sieu-giai-clutch-chess-4957583.html) - 22:43 29/10/2025
+- 💪 [PSG tiếp tục sẩy chân ở Ligue 1](https://vnexpress.net/psg-tiep-tuc-say-chan-o-ligue-1-4957582.html) - 19:55 29/10/2025
+- 👹 [Pardew: &#39;Man City vẫn đủ khả năng đua vô địch với Arsenal&#39;](https://vnexpress.net/pardew-man-city-van-du-kha-nang-dua-vo-dich-voi-arsenal-4957088.html) - 12:41 29/10/2025
+- 🧰 [Alcaraz: &#39;Ai cũng có một ngày tồi tệ&#39;](https://vnexpress.net/alcaraz-ai-cung-co-mot-ngay-toi-te-4957501.html) - 12:28 29/10/2025
+- 🚀 [Vì sao Gyokeres thất bại ở Brighton?](https://vnexpress.net/vi-sao-gyokeres-that-bai-o-brighton-4957273.html) - 12:00 29/10/2025
+- 🎃 [VFF ghi nhận lời xin lỗi của Thái Lan](https://vnexpress.net/vff-ghi-nhan-loi-xin-loi-cua-thai-lan-4957433.html) - 10:25 29/10/2025
+- 🧰 [Chuyên gia Malaysia mong FIFA giảm án cho 7 cầu thủ nhập tịch](https://vnexpress.net/chuyen-gia-malaysia-mong-fifa-giam-an-cho-7-cau-thu-nhap-tich-4957351.html) - 08:36 29/10/2025
+- 👀 [Gabriel - &#39;pháo đài bay&#39; của Arsenal](https://vnexpress.net/gabriel-phao-dai-bay-cua-arsenal-4957411.html) - 08:21 29/10/2025
+- 🌜 [Messi thăng hoa và nghịch lý ở MLS](https://vnexpress.net/messi-thang-hoa-va-nghich-ly-o-mls-4957386.html) - 08:07 29/10/2025
+- 🫶 [Pacquiao: &#39;Tôi không né tránh Mayweather&#39;](https://vnexpress.net/pacquiao-toi-khong-ne-tranh-mayweather-4957193.html) - 07:21 29/10/2025
+- 🦄 [Chủ tịch Perez được dự đoán bán Vinicius](https://vnexpress.net/chu-tich-perez-duoc-du-doan-ban-vinicius-4957070.html) - 07:08 29/10/2025
+- 🥳 [Hoka Rocket X 3 - siêu giày không dành cho marathoner nhẹ cân](https://vnexpress.net/hoka-rocket-x-3-sieu-giay-khong-danh-cho-marathoner-nhe-can-4957320.html) - 05:15 29/10/2025
+- 🐲 [Ferdinand: &#39;Nực cười với cách bào chữa của Slot&#39;](https://vnexpress.net/ferdinand-nuc-cuoi-voi-cach-bao-chua-cua-slot-4957082.html) - 04:36 29/10/2025
+- 🧑‍🏫 [Guardiola: &#39;Bóng đá thời Stoke City đã trở lại&#39;](https://vnexpress.net/guardiola-bong-da-thoi-stoke-city-da-tro-lai-4957223.html) - 04:26 29/10/2025
+- 🤔 [Sự sáng tạo của Xabi Alonso ở El Clasico](https://vnexpress.net/su-sang-tao-cua-xabi-alonso-o-el-clasico-4956869.html) - 04:00 29/10/2025
+- 😺 [Tranh cãi về SVĐ chọc trời ở World Cup 2034](https://vnexpress.net/tranh-cai-ve-svd-choc-troi-o-world-cup-2034-4957076.html) - 03:57 29/10/2025
+- 💪 [Cầu thủ trẻ Việt Nam gửi thông điệp &#39;xin cha bỏ bia&#39;](https://vnexpress.net/cau-thu-tre-viet-nam-gui-thong-diep-xin-cha-bo-bia-4956979.html) - 03:28 29/10/2025
+- 💼 [Carlsen gieo thêm sầu cho Vua cờ Gukesh](https://vnexpress.net/carlsen-gieo-them-sau-cho-vua-co-gukesh-4957215.html) - 03:23 29/10/2025
+- 🕴 [Thái Lan cử đại diện sang Việt Nam xin lỗi vụ nhầm cờ](https://vnexpress.net/thai-lan-cu-dai-dien-sang-viet-nam-xin-loi-vu-nham-co-4957180.html) - 02:23 29/10/2025
+- 🕯 [Ronaldo bị Benzema &#39;đá&#39; khỏi King&#39;s Cup](https://vnexpress.net/ronaldo-bi-benzema-da-khoi-king-s-cup-4957087.html) - 23:24 28/10/2025
+- 📝 [Ông trùm F1 95 tuổi và cuộc sống yên bình bên con trai 5 tuổi](https://vnexpress.net/ong-trum-f1-95-tuoi-va-cuoc-song-yen-binh-ben-con-trai-5-tuoi-4957077.html) - 22:54 28/10/2025
+- 🧐 [Ferdinand: &#39;Amorim đang chơi trò cò quay Nga ở Man Utd&#39;](https://vnexpress.net/ferdinand-amorim-dang-choi-tro-co-quay-nga-o-man-utd-4956950.html) - 22:21 28/10/2025
+- 🙉 [Messi: &#39;Nhiều cầu thủ ám ảnh kỷ lục cá nhân&#39;](https://vnexpress.net/messi-nhieu-cau-thu-am-anh-ky-luc-ca-nhan-4957072.html) - 22:16 28/10/2025
+- 🏊 [Alcaraz thua ngay trận đầu ở Paris Masters](https://vnexpress.net/alcaraz-thua-ngay-tran-dau-o-paris-masters-4957079.html) - 22:12 28/10/2025
+- 🌊 [Thủ môn Inter Milan gây tai nạn chết người](https://vnexpress.net/thu-mon-inter-milan-gay-tai-nan-chet-nguoi-4957075.html) - 22:09 28/10/2025
+- 👨‍🏫 [Vinicius công khai chuyện tình với người mẫu hơn tuổi](https://vnexpress.net/vinicius-cong-khai-chuyen-tinh-voi-nguoi-mau-hon-tuoi-4957080.html) - 22:03 28/10/2025
+- 🥷 [Anh em họ Vacherot - Rinderknech tái đấu ở Paris Masters](https://vnexpress.net/anh-em-ho-vacherot-rinderknech-tai-dau-o-paris-masters-4957078.html) - 20:40 28/10/2025
+- ⚗️ [Thái Lan nhầm cờ Việt Nam ở lễ bốc thăm giải Đông Nam Á](https://vnexpress.net/thai-lan-nham-co-viet-nam-o-le-boc-tham-giai-dong-nam-a-4957006.html) - 12:20 28/10/2025
+- 🌮 [Mourinho đã đúng về các trọng tài Thổ Nhĩ Kỳ](https://vnexpress.net/mourinho-da-dung-ve-cac-trong-tai-tho-nhi-ky-4956977.html) - 11:29 28/10/2025
+- 🤩 [Tay vợt nữ số 6 thế giới rút lại quyết định bỏ SEA Games 33](https://vnexpress.net/tay-vot-nu-so-6-the-gioi-rut-lai-quyet-dinh-bo-sea-games-33-4956934.html) - 09:22 28/10/2025
+- 🏊 [Vì sao Arsenal ám ảnh với các cầu thủ thuận chân trái?](https://vnexpress.net/vi-sao-arsenal-am-anh-voi-cac-cau-thu-thuan-chan-trai-4956897.html) - 08:48 28/10/2025
+- 🐎 [Khi Real là tắc kè hoa, còn Barca như tấm kính trong suốt](https://vnexpress.net/khi-real-la-tac-ke-hoa-con-barca-nhu-tam-kinh-trong-suot-4956808.html) - 07:38 28/10/2025
 - 💫 [Vua cờ Gukesh xin thua trong thế hòa Carlsen](https://vnexpress.net/vua-co-gukesh-xin-thua-trong-the-hoa-carlsen-4956688.html) - 04:01 28/10/2025<!-- vnexpress-the-thao:END -->
