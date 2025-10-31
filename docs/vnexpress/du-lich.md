@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách tham quan trở lại Kinh thành Huế sau 4 ngày bị lũ bủa vây](https://vnexpress.net/du-khach-tham-quan-tro-lai-kinh-thanh-hue-sau-4-ngay-bi-lu-bua-vay-4958470.html) - 14:41 31/10/2025
+- 💂 [Du khách tham quan trở lại Kinh thành Huế sau 4 ngày lũ bủa vây](https://vnexpress.net/du-khach-tham-quan-tro-lai-kinh-thanh-hue-sau-4-ngay-lu-bua-vay-4958470.html) - 14:41 31/10/2025
 - 🪄 [Du lịch Việt tăng trưởng, nỗi lo &#39;chặt chém&#39; vẫn còn](https://vnexpress.net/du-lich-viet-tang-truong-noi-lo-chat-chem-van-con-4958222.html) - 13:00 31/10/2025
 - 🦅 [Tên gọi Sa Pa có nghĩa là gì?](https://vnexpress.net/ten-goi-sa-pa-co-nghia-la-gi-4951591.html) - 12:00 31/10/2025
 - 🕴 [Du khách xem múa rối, hát quan họ tại Hội chợ mùa thu](https://vnexpress.net/du-khach-xem-mua-roi-hat-quan-ho-tai-hoi-cho-mua-thu-4958403.html) - 10:00 31/10/2025
