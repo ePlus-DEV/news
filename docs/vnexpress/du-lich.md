@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách xem múa rối, hát quan họ tại Hội chợ mùa thu](https://vnexpress.net/du-khach-xem-mua-roi-hat-quan-ho-tai-hoi-cho-mua-thu-4958403.html) - 10:00 31/10/2025
-- 🪄 [Lưu ý du lịch Thái Lan trong năm để tang Hoàng Thái hậu](https://vnexpress.net/luu-y-du-lich-thai-lan-trong-nam-de-tang-hoang-thai-hau-4958260.html) - 09:21 31/10/2025
-- 🦅 [Lý do Tử Cấm Thành không ngập suốt 600 năm](https://vnexpress.net/ly-do-tu-cam-thanh-khong-ngap-suot-600-nam-4958264.html) - 08:30 31/10/2025
-- 🕴 [Khách đổ xô check in quả cầu lơ lửng ở Hồ Tây](https://vnexpress.net/khach-do-xo-check-in-qua-cau-lo-lung-o-ho-tay-4958152.html) - 06:34 31/10/2025
-- 👀 [Nhà cổ 300 năm ghi dấu các mốc lũ lịch sử ở Hội An](https://vnexpress.net/nha-co-300-nam-ghi-dau-cac-moc-lu-lich-su-o-hoi-an-4957998.html) - 06:02 31/10/2025
-- 🎭 [Khách rơi laptop vào khoang hàng, máy bay phải quay đầu](https://vnexpress.net/khach-roi-laptop-vao-khoang-hang-may-bay-phai-quay-dau-4958251.html) - 05:37 31/10/2025
-- 🦒 [Chủ hàng quán Hội An vật lộn trong 4 ngày nước lũ bao vây](https://vnexpress.net/chu-hang-quan-hoi-an-vat-lon-trong-4-ngay-nuoc-lu-bao-vay-4957983.html) - 03:10 31/10/2025
-- 👨‍🏫 [Vì sao bánh mì Việt không vào top ngon nhất thế giới của CNN?](https://vnexpress.net/vi-sao-banh-mi-viet-khong-vao-top-ngon-nhat-the-gioi-cua-cnn-4954092.html) - 02:00 31/10/2025
-- ⚗️ [Du khách được cảnh sát Hàn Quốc giám sát và bảo vệ an toàn ngày Halloween](https://vnexpress.net/du-khach-duoc-canh-sat-han-quoc-giam-sat-va-bao-ve-an-toan-ngay-halloween-4958030.html) - 01:00 31/10/2025
-- 🥸 [Cô gái Việt đưa cà phê phin chinh phục người New York](https://vnexpress.net/co-gai-viet-dua-ca-phe-phin-chinh-phuc-nguoi-new-york-4957532.html) - 00:00 31/10/2025
-- 🤠 [Chàng trai Việt dành 1,5 năm đạp xe tới Anh xem MU](https://vnexpress.net/chang-trai-viet-danh-1-5-nam-dap-xe-toi-anh-xem-mu-4954044.html) - 17:00 30/10/2025
-- 🚀 [Di tích Huế mở cửa đón khách tham quan trở lại](https://vnexpress.net/di-tich-hue-mo-cua-don-khach-tham-quan-tro-lai-4958007.html) - 15:13 30/10/2025
-- 💻 [Những &#39;đặc quyền&#39; khi mua vé Sun PhuQuoc Airways](https://vnexpress.net/nhung-dac-quyen-khi-mua-ve-sun-phuquoc-airways-4957384.html) - 12:00 30/10/2025
-- 💼 [Phú Quốc tiếp tục vào top điểm đến hấp dẫn toàn cầu](https://vnexpress.net/phu-quoc-tiep-tuc-vao-top-diem-den-hap-dan-toan-cau-4957893.html) - 08:59 30/10/2025
-- 🤡 [4 cung đường Phan Thiết - Đà Lạt tránh đèo Đại Ninh sạt lở](https://vnexpress.net/4-cung-duong-phan-thiet-da-lat-tranh-deo-dai-ninh-sat-lo-4957699.html) - 07:45 30/10/2025
-- 🐵 [Hai ngày nghỉ dưỡng, ngắm hoàng hôn ở Hạ Long mùa thu](https://vnexpress.net/hai-ngay-nghi-duong-ngam-hoang-hon-o-ha-long-mua-thu-4956137.html) - 07:00 30/10/2025
-- 😺 [Du thuyền 6 sao Athena Premium hạ thủy tại vịnh Hạ Long](https://vnexpress.net/du-thuyen-6-sao-athena-premium-ha-thuy-tai-vinh-ha-long-4957253.html) - 06:00 30/10/2025
-- 🌈 [Công ty Nhật Bản bán gói du lịch tên lửa từ Tokyo đi Mỹ](https://vnexpress.net/cong-ty-nhat-ban-ban-goi-du-lich-ten-lua-tu-tokyo-di-my-4957656.html) - 04:30 30/10/2025
-- ⚗️ [Cuộc chạy lũ bằng thuyền và xe tải của khách Tây ở Huế](https://vnexpress.net/cuoc-chay-lu-bang-thuyen-va-xe-tai-cua-khach-tay-o-hue-4957579.html) - 02:27 30/10/2025
-- 👀 [Lý do điện Thái Hòa vẫn khô ráo giữa nước lũ ở Huế](https://vnexpress.net/ly-do-dien-thai-hoa-van-kho-rao-giua-nuoc-lu-o-hue-4957525.html) - 02:18 30/10/2025
-- 👍 [24 giờ trên chuyến tàu xa xỉ của Italy](https://vnexpress.net/24-gio-tren-chuyen-tau-xa-xi-cua-italy-4957344.html) - 17:00 29/10/2025
-- 💄 [Vietnam Airlines thu phí hành lý xách tay quá tiêu chuẩn](https://vnexpress.net/vietnam-airlines-thu-phi-hanh-ly-xach-tay-qua-tieu-chuan-4957495.html) - 13:17 29/10/2025
-- 🥷 [Bão tuyết làm tê liệt hoạt động du lịch ở Everest](https://vnexpress.net/bao-tuyet-lam-te-liet-hoat-dong-du-lich-o-everest-4957503.html) - 12:39 29/10/2025
-- 📝 [Hàng triệu cua đỏ tràn lên mặt đường trong mùa di cư ở Australia](https://vnexpress.net/hang-trieu-cua-do-tran-len-mat-duong-trong-mua-di-cu-o-australia-4956210.html) - 09:27 29/10/2025
-- 🌜 [Hai cung đường di chuyển tránh đèo Lò Xo sạt lở](https://vnexpress.net/hai-cung-duong-di-chuyen-tranh-deo-lo-xo-sat-lo-4957297.html) - 07:50 29/10/2025
-- 📝 [Nhà hàng ở Nhật Bản bị chỉ trích vì đuổi khách mặc &#39;áo ba lỗ&#39;](https://vnexpress.net/nha-hang-o-nhat-ban-bi-chi-trich-vi-duoi-khach-mac-ao-ba-lo-4956960.html) - 07:30 29/10/2025
-- 🧰 [Trải nghiệm &#39;kinh dị nhất nước Anh&#39; sát lễ Halloween](https://vnexpress.net/trai-nghiem-kinh-di-nhat-nuoc-anh-sat-le-halloween-4957238.html) - 06:03 29/10/2025
-- 🎬 [Trả thiếu tiền phòng, hướng dẫn viên bị nhân viên khách sạn đánh chết](https://vnexpress.net/tra-thieu-tien-phong-huong-dan-vien-bi-nhan-vien-khach-san-danh-chet-4957197.html) - 04:16 29/10/2025
-- 🧐 [Một ngày trải nghiệm thu Hà Nội với tour riêng](https://vnexpress.net/mot-ngay-trai-nghiem-thu-ha-noi-voi-tour-rieng-4953823.html) - 23:59 28/10/2025
-- 👨‍🏫 [Vì sao móc quần áo là vật quan trọng nhất khi ngủ ở khách sạn?](https://vnexpress.net/vi-sao-moc-quan-ao-la-vat-quan-trong-nhat-khi-ngu-o-khach-san-4955765.html) - 17:00 28/10/2025
-- 🦣 [Loạt trải nghiệm cho du khách tại Hội chợ Mùa thu](https://vnexpress.net/loat-trai-nghiem-cho-du-khach-tai-hoi-cho-mua-thu-4957010.html) - 12:30 28/10/2025
-- 🌋 [Khách Tây &#39;sốc&#39; trước cảnh nước lũ dâng bốn bề ở Huế, Hội An](https://vnexpress.net/khach-tay-soc-truoc-canh-nuoc-lu-dang-bon-be-o-hue-hoi-an-4956947.html) - 12:25 28/10/2025
-- 🦄 [Tượng Phật ở tỉnh nào Việt Nam cao nhất châu Á?](https://vnexpress.net/tuong-phat-o-tinh-nao-viet-nam-cao-nhat-chau-a-4955915.html) - 12:00 28/10/2025
-- 💡 [Vietjet mở bán hàng nghìn vé bay 0 đồng dịp cuối năm](https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-bay-0-dong-dip-cuoi-nam-4956980.html) - 11:00 28/10/2025
-- 🌏 [Kinh thành Huế, phố cổ Hội An bị lũ nhấn chìm](https://vnexpress.net/kinh-thanh-hue-pho-co-hoi-an-bi-lu-nhan-chim-4956654.html) - 06:12 28/10/2025
-- 💂 [Du khách tiết kiệm tiền bằng cách bay từ Anh sang Italy ăn tối](https://vnexpress.net/du-khach-tiet-kiem-tien-bang-cach-bay-tu-anh-sang-italy-an-toi-4956700.html) - 05:18 28/10/2025
-- 🤩 [Nghệ sĩ quốc tế đến Phú Quốc tổng duyệt show pháo hoa nghệ thuật](https://vnexpress.net/nghe-si-quoc-te-den-phu-quoc-tong-duyet-show-phao-hoa-nghe-thuat-4956683.html) - 04:00 28/10/2025
-- 💪 [Vietjet giới thiệu du lịch Việt tại lễ hội tại Nagoya](https://vnexpress.net/vietjet-gioi-thieu-du-lich-viet-tai-le-hoi-tai-nagoya-4956653.html) - 03:00 28/10/2025
-- 💻 [Điểm đến mùa thu &#39;đẹp như tranh&#39; cho khách Việt đi tự túc](https://vnexpress.net/diem-den-mua-thu-dep-nhu-tranh-cho-khach-viet-di-tu-tuc-4954110.html) - 23:48 27/10/2025
-- 🧑‍💻 [Cơn sốt du lịch khám răng ở Hàn Quốc](https://vnexpress.net/con-sot-du-lich-kham-rang-o-han-quoc-4955982.html) - 17:00 27/10/2025
-- 🎭 [Hàng nghìn khách dừng đi tàu Bắc - Nam do lũ lớn ở miền Trung](https://vnexpress.net/hang-nghin-khach-dung-di-tau-bac-nam-do-lu-lon-o-mien-trung-4956443.html) - 11:44 27/10/2025
-- 🧐 [Dùng thuyền sơ tán khách Tây khỏi vùng ngập ở Hội An](https://vnexpress.net/dung-thuyen-so-tan-khach-tay-khoi-vung-ngap-o-hoi-an-4956429.html) - 11:29 27/10/2025
-- 💡 [Vietjet khai trương đường bay nối Kuala Lumpur - Đà Nẵng](https://vnexpress.net/vietjet-khai-truong-duong-bay-noi-kuala-lumpur-da-nang-4956425.html) - 10:30 27/10/2025
-- 🌊 [Khách đến Hà Nội 10 tháng đầu năm vượt cả năm 2024](https://vnexpress.net/khach-den-ha-noi-10-thang-dau-nam-vuot-ca-nam-2024-4956165.html) - 09:08 27/10/2025
-- 🎃 [Điệu múa Malaysia ông Trump nhún nhảy ở sân bay có gì đặc biệt](https://vnexpress.net/dieu-mua-malaysia-ong-trump-nhun-nhay-o-san-bay-co-gi-dac-biet-4956038.html) - 08:59 27/10/2025
-- 🧠 [Huế dừng đón khách tại các điểm di tích vì lũ ngập](https://vnexpress.net/hue-dung-don-khach-tai-cac-diem-di-tich-vi-lu-ngap-4956285.html) - 06:30 27/10/2025
-- 💄 [Khách Mỹ &#39;tìm thấy hạnh phúc&#39; khi đến Việt Nam](https://vnexpress.net/khach-my-tim-thay-hanh-phuc-khi-den-viet-nam-4951817.html) - 02:00 27/10/2025
-- 🎬 [Ngắm lâu đài thời Phục hưng lớn nhất ở Scandinavia](https://vnexpress.net/ngam-lau-dai-thoi-phuc-hung-lon-nhat-o-scandinavia-4954853.html) - 00:00 27/10/2025
-- 🐻 [Khách đổ xô check in cửa sổ bảo tàng Louvre nơi nhóm trộm đột nhập](https://vnexpress.net/khach-do-xo-check-in-cua-so-bao-tang-louvre-noi-nhom-trom-dot-nhap-4956025.html) - 17:00 26/10/2025
-- 🌝 [Những điểm nhấn tại hội chợ mùa Thu 2025](https://vnexpress.net/nhung-diem-nhan-tai-hoi-cho-mua-thu-2025-4956020.html) - 15:45 26/10/2025
-- 🤩 [Cảnh sắc mùa thu làm &#39;say lòng người&#39; khắp Trung Quốc](https://vnexpress.net/canh-sac-mua-thu-lam-say-long-nguoi-khap-trung-quoc-4955918.html) - 12:19 26/10/2025
-- 🎬 [Tuyết rơi giữa mùa thu ở Trung Quốc](https://vnexpress.net/tuyet-roi-giua-mua-thu-o-trung-quoc-4955908.html) - 06:29 26/10/2025
-- 🦩 [Thịt nạm và gầu của bò khác nhau ở điểm nào?](https://vnexpress.net/thit-nam-va-gau-cua-bo-khac-nhau-o-diem-nao-4953881.html) - 05:00 26/10/2025
-- 🦍 [Quán Việt ở Mỹ khiến khách đặt hàng trước cả tháng](https://vnexpress.net/quan-viet-o-my-khien-khach-dat-hang-truoc-ca-thang-4955828.html) - 02:56 26/10/2025
-- 👀 [Thành phố có đồ ăn ngon nhất thế giới](https://vnexpress.net/thanh-pho-co-do-an-ngon-nhat-the-gioi-4954842.html) - 17:00 25/10/2025
-- 🧰 [Vườn thú Trung Quốc tuyển người cho hổ ăn, lương tháng 7.000 USD](https://vnexpress.net/vuon-thu-trung-quoc-tuyen-nguoi-cho-ho-an-luong-thang-7-000-usd-4955795.html) - 12:42 25/10/2025
-- 🕯 [Đua xuồng ba lá giữa rừng tràm Đồng Tháp](https://vnexpress.net/dua-xuong-ba-la-giua-rung-tram-dong-thap-4955696.html) - 10:27 25/10/2025
-- 👍 [Bangkok là thành phố có nạn móc túi, lừa đảo cao nhất thế giới](https://vnexpress.net/bangkok-la-thanh-pho-co-nan-moc-tui-lua-dao-cao-nhat-the-gioi-4955624.html) - 06:28 25/10/2025
-- 😎 [Món ăn nào có thể gây chết người ở Ai Cập?](https://vnexpress.net/mon-an-nao-co-the-gay-chet-nguoi-o-ai-cap-4955650.html) - 06:24 25/10/2025
-- 🐘 [Điều khách Mỹ hối tiếc vì không làm khi đến châu Âu](https://vnexpress.net/dieu-khach-my-hoi-tiec-vi-khong-lam-khi-den-chau-au-4955437.html) - 04:15 25/10/2025<!-- vnexpress-du-lich:END -->
+- 💂 [Du khách tham quan trở lại Kinh thành Huế sau 4 ngày bị lũ bủa vây](https://vnexpress.net/du-khach-tham-quan-tro-lai-kinh-thanh-hue-sau-4-ngay-bi-lu-bua-vay-4958470.html) - 14:41 31/10/2025
+- 🪄 [Du lịch Việt tăng trưởng, nỗi lo &#39;chặt chém&#39; vẫn còn](https://vnexpress.net/du-lich-viet-tang-truong-noi-lo-chat-chem-van-con-4958222.html) - 13:00 31/10/2025
+- 🦅 [Tên gọi Sa Pa có nghĩa là gì?](https://vnexpress.net/ten-goi-sa-pa-co-nghia-la-gi-4951591.html) - 12:00 31/10/2025
+- 🕴 [Du khách xem múa rối, hát quan họ tại Hội chợ mùa thu](https://vnexpress.net/du-khach-xem-mua-roi-hat-quan-ho-tai-hoi-cho-mua-thu-4958403.html) - 10:00 31/10/2025
+- 👀 [Lưu ý du lịch Thái Lan trong năm để tang Hoàng Thái hậu](https://vnexpress.net/luu-y-du-lich-thai-lan-trong-nam-de-tang-hoang-thai-hau-4958260.html) - 09:21 31/10/2025
+- 🎭 [Lý do Tử Cấm Thành không ngập suốt 600 năm](https://vnexpress.net/ly-do-tu-cam-thanh-khong-ngap-suot-600-nam-4958264.html) - 08:30 31/10/2025
+- 🦒 [Khách đổ xô check in quả cầu lơ lửng ở Hồ Tây](https://vnexpress.net/khach-do-xo-check-in-qua-cau-lo-lung-o-ho-tay-4958152.html) - 06:34 31/10/2025
+- 👨‍🏫 [Nhà cổ 300 năm ghi dấu các mốc lũ lịch sử ở Hội An](https://vnexpress.net/nha-co-300-nam-ghi-dau-cac-moc-lu-lich-su-o-hoi-an-4957998.html) - 06:02 31/10/2025
+- ⚗️ [Khách rơi laptop vào khoang hàng, máy bay phải quay đầu](https://vnexpress.net/khach-roi-laptop-vao-khoang-hang-may-bay-phai-quay-dau-4958251.html) - 05:37 31/10/2025
+- 🥸 [Đêm chạy lũ giữ hàng hóa, tài sản của chủ hàng quán ở Hội An](https://vnexpress.net/dem-chay-lu-giu-hang-hoa-tai-san-cua-chu-hang-quan-o-hoi-an-4957983.html) - 03:10 31/10/2025
+- 🤠 [Vì sao bánh mì Việt không vào top ngon nhất thế giới của CNN?](https://vnexpress.net/vi-sao-banh-mi-viet-khong-vao-top-ngon-nhat-the-gioi-cua-cnn-4954092.html) - 02:00 31/10/2025
+- 🚀 [Du khách được cảnh sát Hàn Quốc giám sát và bảo vệ an toàn ngày Halloween](https://vnexpress.net/du-khach-duoc-canh-sat-han-quoc-giam-sat-va-bao-ve-an-toan-ngay-halloween-4958030.html) - 01:00 31/10/2025
+- 💻 [Cô gái Việt đưa cà phê phin chinh phục người New York](https://vnexpress.net/co-gai-viet-dua-ca-phe-phin-chinh-phuc-nguoi-new-york-4957532.html) - 00:00 31/10/2025
+- 💼 [Chàng trai Việt dành 1,5 năm đạp xe tới Anh xem MU](https://vnexpress.net/chang-trai-viet-danh-1-5-nam-dap-xe-toi-anh-xem-mu-4954044.html) - 17:00 30/10/2025
+- 🤡 [Di tích Huế mở cửa đón khách tham quan trở lại](https://vnexpress.net/di-tich-hue-mo-cua-don-khach-tham-quan-tro-lai-4958007.html) - 15:13 30/10/2025
+- 🐵 [Những &#39;đặc quyền&#39; khi mua vé Sun PhuQuoc Airways](https://vnexpress.net/nhung-dac-quyen-khi-mua-ve-sun-phuquoc-airways-4957384.html) - 12:00 30/10/2025
+- 😺 [Phú Quốc tiếp tục vào top điểm đến hấp dẫn toàn cầu](https://vnexpress.net/phu-quoc-tiep-tuc-vao-top-diem-den-hap-dan-toan-cau-4957893.html) - 08:59 30/10/2025
+- 🌈 [4 cung đường Phan Thiết - Đà Lạt tránh đèo Đại Ninh sạt lở](https://vnexpress.net/4-cung-duong-phan-thiet-da-lat-tranh-deo-dai-ninh-sat-lo-4957699.html) - 07:45 30/10/2025
+- ⚗️ [Hai ngày nghỉ dưỡng, ngắm hoàng hôn ở Hạ Long mùa thu](https://vnexpress.net/hai-ngay-nghi-duong-ngam-hoang-hon-o-ha-long-mua-thu-4956137.html) - 07:00 30/10/2025
+- 👀 [Du thuyền 6 sao Athena Premium hạ thủy tại vịnh Hạ Long](https://vnexpress.net/du-thuyen-6-sao-athena-premium-ha-thuy-tai-vinh-ha-long-4957253.html) - 06:00 30/10/2025
+- 👍 [Công ty Nhật Bản bán gói du lịch tên lửa từ Tokyo đi Mỹ](https://vnexpress.net/cong-ty-nhat-ban-ban-goi-du-lich-ten-lua-tu-tokyo-di-my-4957656.html) - 04:30 30/10/2025
+- 💄 [Cuộc chạy lũ bằng thuyền và xe tải của khách Tây ở Huế](https://vnexpress.net/cuoc-chay-lu-bang-thuyen-va-xe-tai-cua-khach-tay-o-hue-4957579.html) - 02:27 30/10/2025
+- 🥷 [Lý do điện Thái Hòa vẫn khô ráo giữa nước lũ ở Huế](https://vnexpress.net/ly-do-dien-thai-hoa-van-kho-rao-giua-nuoc-lu-o-hue-4957525.html) - 02:18 30/10/2025
+- 📝 [24 giờ trên chuyến tàu xa xỉ của Italy](https://vnexpress.net/24-gio-tren-chuyen-tau-xa-xi-cua-italy-4957344.html) - 17:00 29/10/2025
+- 🌜 [Vietnam Airlines thu phí hành lý xách tay quá tiêu chuẩn](https://vnexpress.net/vietnam-airlines-thu-phi-hanh-ly-xach-tay-qua-tieu-chuan-4957495.html) - 13:17 29/10/2025
+- 📝 [Bão tuyết làm tê liệt hoạt động du lịch ở Everest](https://vnexpress.net/bao-tuyet-lam-te-liet-hoat-dong-du-lich-o-everest-4957503.html) - 12:39 29/10/2025
+- 🧰 [Hàng triệu cua đỏ tràn lên mặt đường trong mùa di cư ở Australia](https://vnexpress.net/hang-trieu-cua-do-tran-len-mat-duong-trong-mua-di-cu-o-australia-4956210.html) - 09:27 29/10/2025
+- 🎬 [Hai cung đường di chuyển tránh đèo Lò Xo sạt lở](https://vnexpress.net/hai-cung-duong-di-chuyen-tranh-deo-lo-xo-sat-lo-4957297.html) - 07:50 29/10/2025
+- 🧐 [Nhà hàng ở Nhật Bản bị chỉ trích vì đuổi khách mặc &#39;áo ba lỗ&#39;](https://vnexpress.net/nha-hang-o-nhat-ban-bi-chi-trich-vi-duoi-khach-mac-ao-ba-lo-4956960.html) - 07:30 29/10/2025
+- 👨‍🏫 [Trải nghiệm &#39;kinh dị nhất nước Anh&#39; sát lễ Halloween](https://vnexpress.net/trai-nghiem-kinh-di-nhat-nuoc-anh-sat-le-halloween-4957238.html) - 06:03 29/10/2025
+- 🦣 [Trả thiếu tiền phòng, hướng dẫn viên bị nhân viên khách sạn đánh chết](https://vnexpress.net/tra-thieu-tien-phong-huong-dan-vien-bi-nhan-vien-khach-san-danh-chet-4957197.html) - 04:16 29/10/2025
+- 🌋 [Một ngày trải nghiệm thu Hà Nội với tour riêng](https://vnexpress.net/mot-ngay-trai-nghiem-thu-ha-noi-voi-tour-rieng-4953823.html) - 23:59 28/10/2025
+- 🦄 [Vì sao móc quần áo là vật quan trọng nhất khi ngủ ở khách sạn?](https://vnexpress.net/vi-sao-moc-quan-ao-la-vat-quan-trong-nhat-khi-ngu-o-khach-san-4955765.html) - 17:00 28/10/2025
+- 💡 [Loạt trải nghiệm cho du khách tại Hội chợ Mùa thu](https://vnexpress.net/loat-trai-nghiem-cho-du-khach-tai-hoi-cho-mua-thu-4957010.html) - 12:30 28/10/2025
+- 🌏 [Khách Tây &#39;sốc&#39; trước cảnh nước lũ dâng bốn bề ở Huế, Hội An](https://vnexpress.net/khach-tay-soc-truoc-canh-nuoc-lu-dang-bon-be-o-hue-hoi-an-4956947.html) - 12:25 28/10/2025
+- 💂 [Tượng Phật ở tỉnh nào Việt Nam cao nhất châu Á?](https://vnexpress.net/tuong-phat-o-tinh-nao-viet-nam-cao-nhat-chau-a-4955915.html) - 12:00 28/10/2025
+- 🤩 [Vietjet mở bán hàng nghìn vé bay 0 đồng dịp cuối năm](https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-bay-0-dong-dip-cuoi-nam-4956980.html) - 11:00 28/10/2025
+- 💪 [Kinh thành Huế, phố cổ Hội An bị lũ nhấn chìm](https://vnexpress.net/kinh-thanh-hue-pho-co-hoi-an-bi-lu-nhan-chim-4956654.html) - 06:12 28/10/2025
+- 💻 [Du khách tiết kiệm tiền bằng cách bay từ Anh sang Italy ăn tối](https://vnexpress.net/du-khach-tiet-kiem-tien-bang-cach-bay-tu-anh-sang-italy-an-toi-4956700.html) - 05:18 28/10/2025
+- 🧑‍💻 [Nghệ sĩ quốc tế đến Phú Quốc tổng duyệt show pháo hoa nghệ thuật](https://vnexpress.net/nghe-si-quoc-te-den-phu-quoc-tong-duyet-show-phao-hoa-nghe-thuat-4956683.html) - 04:00 28/10/2025
+- 🎭 [Vietjet giới thiệu du lịch Việt tại lễ hội tại Nagoya](https://vnexpress.net/vietjet-gioi-thieu-du-lich-viet-tai-le-hoi-tai-nagoya-4956653.html) - 03:00 28/10/2025
+- 🧐 [Điểm đến mùa thu &#39;đẹp như tranh&#39; cho khách Việt đi tự túc](https://vnexpress.net/diem-den-mua-thu-dep-nhu-tranh-cho-khach-viet-di-tu-tuc-4954110.html) - 23:48 27/10/2025
+- 💡 [Cơn sốt du lịch khám răng ở Hàn Quốc](https://vnexpress.net/con-sot-du-lich-kham-rang-o-han-quoc-4955982.html) - 17:00 27/10/2025
+- 🌊 [Hàng nghìn khách dừng đi tàu Bắc - Nam do lũ lớn ở miền Trung](https://vnexpress.net/hang-nghin-khach-dung-di-tau-bac-nam-do-lu-lon-o-mien-trung-4956443.html) - 11:44 27/10/2025
+- 🎃 [Dùng thuyền sơ tán khách Tây khỏi vùng ngập ở Hội An](https://vnexpress.net/dung-thuyen-so-tan-khach-tay-khoi-vung-ngap-o-hoi-an-4956429.html) - 11:29 27/10/2025
+- 🧠 [Vietjet khai trương đường bay nối Kuala Lumpur - Đà Nẵng](https://vnexpress.net/vietjet-khai-truong-duong-bay-noi-kuala-lumpur-da-nang-4956425.html) - 10:30 27/10/2025
+- 💄 [Khách đến Hà Nội 10 tháng đầu năm vượt cả năm 2024](https://vnexpress.net/khach-den-ha-noi-10-thang-dau-nam-vuot-ca-nam-2024-4956165.html) - 09:08 27/10/2025
+- 🎬 [Điệu múa Malaysia ông Trump nhún nhảy ở sân bay có gì đặc biệt](https://vnexpress.net/dieu-mua-malaysia-ong-trump-nhun-nhay-o-san-bay-co-gi-dac-biet-4956038.html) - 08:59 27/10/2025
+- 🐻 [Huế dừng đón khách tại các điểm di tích vì lũ ngập](https://vnexpress.net/hue-dung-don-khach-tai-cac-diem-di-tich-vi-lu-ngap-4956285.html) - 06:30 27/10/2025
+- 🌝 [Khách Mỹ &#39;tìm thấy hạnh phúc&#39; khi đến Việt Nam](https://vnexpress.net/khach-my-tim-thay-hanh-phuc-khi-den-viet-nam-4951817.html) - 02:00 27/10/2025
+- 🤩 [Ngắm lâu đài thời Phục hưng lớn nhất ở Scandinavia](https://vnexpress.net/ngam-lau-dai-thoi-phuc-hung-lon-nhat-o-scandinavia-4954853.html) - 00:00 27/10/2025
+- 🎬 [Khách đổ xô check in cửa sổ bảo tàng Louvre nơi nhóm trộm đột nhập](https://vnexpress.net/khach-do-xo-check-in-cua-so-bao-tang-louvre-noi-nhom-trom-dot-nhap-4956025.html) - 17:00 26/10/2025
+- 🦩 [Những điểm nhấn tại hội chợ mùa Thu 2025](https://vnexpress.net/nhung-diem-nhan-tai-hoi-cho-mua-thu-2025-4956020.html) - 15:45 26/10/2025
+- 🦍 [Cảnh sắc mùa thu làm &#39;say lòng người&#39; khắp Trung Quốc](https://vnexpress.net/canh-sac-mua-thu-lam-say-long-nguoi-khap-trung-quoc-4955918.html) - 12:19 26/10/2025
+- 👀 [Tuyết rơi giữa mùa thu ở Trung Quốc](https://vnexpress.net/tuyet-roi-giua-mua-thu-o-trung-quoc-4955908.html) - 06:29 26/10/2025
+- 🧰 [Thịt nạm và gầu của bò khác nhau ở điểm nào?](https://vnexpress.net/thit-nam-va-gau-cua-bo-khac-nhau-o-diem-nao-4953881.html) - 05:00 26/10/2025
+- 🕯 [Quán Việt ở Mỹ khiến khách đặt hàng trước cả tháng](https://vnexpress.net/quan-viet-o-my-khien-khach-dat-hang-truoc-ca-thang-4955828.html) - 02:56 26/10/2025
+- 👍 [Thành phố có đồ ăn ngon nhất thế giới](https://vnexpress.net/thanh-pho-co-do-an-ngon-nhat-the-gioi-4954842.html) - 17:00 25/10/2025
+- 😎 [Vườn thú Trung Quốc tuyển người cho hổ ăn, lương tháng 7.000 USD](https://vnexpress.net/vuon-thu-trung-quoc-tuyen-nguoi-cho-ho-an-luong-thang-7-000-usd-4955795.html) - 12:42 25/10/2025
+- 🐘 [Đua xuồng ba lá giữa rừng tràm Đồng Tháp](https://vnexpress.net/dua-xuong-ba-la-giua-rung-tram-dong-thap-4955696.html) - 10:27 25/10/2025<!-- vnexpress-du-lich:END -->
