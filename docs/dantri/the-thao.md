@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Malaysia bình luận vụ hồ sơ của cầu thủ nhập tịch giả mạo bị phơi bày](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-vu-ho-so-cua-cau-thu-nhap-tich-gia-mao-bi-phoi-bay-20251031141416476.htm) - 10:04 31/10/2025
-- 💯 [Phản ứng của CĐV Đông Nam Á khi FIFA tung chứng cứ bất lợi cho Malaysia](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-fifa-tung-chung-cu-bat-loi-cho-malaysia-20251031145941032.htm) - 09:59 31/10/2025
+- 💯 [Phản ứng của CĐV Đông Nam Á khi tuyển Malaysia lộ bằng chứng bất lợi](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-tuyen-malaysia-lo-bang-chung-bat-loi-20251031145941032.htm) - 09:59 31/10/2025
 - ⛽️ [Khổ luyện thành tài tại “lò luyện vàng” Thể dục dụng cụ Việt Nam](https://dantri.com.vn/the-thao/kho-luyen-thanh-tai-tai-lo-luyen-vang-the-duc-dung-cu-viet-nam-20251031153459857.htm) - 09:04 31/10/2025
 - 💃 [Tiết lộ rất bất ngờ về người tố cáo Malaysia nhập tịch gian lận](https://dantri.com.vn/the-thao/tiet-lo-rat-bat-ngo-ve-nguoi-to-cao-malaysia-nhap-tich-gian-lan-20251031152027813.htm) - 08:20 31/10/2025
 - 🌈 [Sự thật về SVĐ “độc nhất vô nhị” trên tòa nhà chọc trời ở Saudi Arabia](https://dantri.com.vn/the-thao/su-that-ve-svd-doc-nhat-vo-nhi-tren-toa-nha-choc-troi-o-saudi-arabia-20251031113608497.htm) - 04:36 31/10/2025
