@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cựu tuyển thủ Việt Nam bị giẫm rách tai ở V-League](https://vnexpress.net/cuu-tuyen-thu-viet-nam-bi-giam-rach-tai-o-v-league-4958507.html) - 15:42 31/10/2025
+- 🪜 [Trọng Hoàng bị giẫm rách tai ở V-League](https://vnexpress.net/trong-hoang-bi-giam-rach-tai-o-v-league-4958507.html) - 15:42 31/10/2025
 - 🦩 [HAGL khiến Nam Định không thắng sáu trận liền ở V-League](https://vnexpress.net/hagl-khien-nam-dinh-khong-thang-sau-tran-lien-o-v-league-4958474.html) - 13:47 31/10/2025
 - 🧰 [Phán quyết vụ 7 cầu thủ nhập tịch Malaysia có thể đến trễ](https://vnexpress.net/phan-quyet-vu-7-cau-thu-nhap-tich-malaysia-co-the-den-tre-4958483.html) - 13:45 31/10/2025
 - 🤗 [Mbappe nhận Giày Vàng châu Âu](https://vnexpress.net/mbappe-nhan-giay-vang-chau-au-4958350.html) - 10:00 31/10/2025
