@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Lựa chọn phương pháp mổ cận an toàn: Góc nhìn từ chuyên gia](https://dantri.com.vn/suc-khoe/lua-chon-phuong-phap-mo-can-an-toan-goc-nhin-tu-chuyen-gia-20251030165610011.htm) - 09:57 30/10/2025
+- 🪜 [Toạ đàm trực tuyến: Lựa chọn phương pháp mổ cận an toàn](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-lua-chon-phuong-phap-mo-can-an-toan-20251030165610011.htm) - 07:18 31/10/2025
 - 🗽 [Tọa đàm: Dược sĩ nhà thuốc - Người gác cổng sức khỏe cộng đồng](https://dantri.com.vn/suc-khoe/toa-dam-duoc-si-nha-thuoc-nguoi-gac-cong-suc-khoe-cong-dong-20251029113852025.htm) - 04:39 29/10/2025
 - 🕯 [Dược sĩ nhà thuốc - Người gác cổng sức khỏe cộng đồng](https://dantri.com.vn/suc-khoe/duoc-si-nha-thuoc-nguoi-gac-cong-suc-khoe-cong-dong-20251028143503732.htm) - 07:35 28/10/2025
 - 🫶 [Tọa đàm &quot;Để trẻ phát triển chiều cao tối ưu&quot;](https://dantri.com.vn/suc-khoe/toa-dam-de-tre-phat-trien-chieu-cao-toi-uu-20251022110735242.htm) - 07:30 23/10/2025
