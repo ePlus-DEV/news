@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Masterise Park Place: Dấu ấn tiếp nối vị thế và năng lực quốc tế của Masterise Homes](https://dantri.com.vn/bat-dong-san/masterise-park-place-dau-an-tiep-noi-vi-the-va-nang-luc-quoc-te-cua-masterise-homes-20251031161206513.htm) - 10:30 31/10/2025
+- 🌏 [Masteri Park Place: Dấu ấn tiếp nối vị thế và năng lực quốc tế của Masterise Homes](https://dantri.com.vn/bat-dong-san/masteri-park-place-dau-an-tiep-noi-vi-the-va-nang-luc-quoc-te-cua-masterise-homes-20251031161206513.htm) - 10:30 31/10/2025
 - 👹 [Loạt &quot;ông lớn&quot; bất động sản nợ thuế hàng nghìn tỷ đồng](https://dantri.com.vn/bat-dong-san/loat-ong-lon-bat-dong-san-no-thue-hang-nghin-ty-dong-20251030172618227.htm) - 10:05 31/10/2025
 - 💡 [Onsen Forest - “Căn phòng nhiệt đới sức khỏe” tại Flamingo Maison 108](https://dantri.com.vn/bat-dong-san/onsen-forest-can-phong-nhiet-doi-suc-khoe-tai-flamingo-maison-108-20251031160528450.htm) - 10:00 31/10/2025
 - 🌋 [Hà Nội đề xuất bảng giá đất mới, chuyên gia cảnh báo “gánh nặng kép”](https://dantri.com.vn/bat-dong-san/ha-noi-de-xuat-bang-gia-dat-moi-chuyen-gia-canh-bao-ganh-nang-kep-20251031100326636.htm) - 07:48 31/10/2025
