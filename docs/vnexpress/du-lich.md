@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách nước ngoài tấp nập trở lại phố cổ Hội An](https://vnexpress.net/khach-nuoc-ngoai-tap-nap-tro-lai-pho-co-hoi-an-4958685.html) - 09:47 01/11/2025
+- 💂 [Khách nước ngoài tấp nập trở lại phố cổ Hội An](https://vnexpress.net/khach-nuoc-ngoai-tap-nap-tro-lai-pho-co-hoi-an-4958685.html) - 10:41 01/11/2025
 - 🪄 [Hà Nội vào top thành phố thân thiện nhất thế giới 2025](https://vnexpress.net/ha-noi-vao-top-thanh-pho-than-thien-nhat-the-gioi-2025-4958573.html) - 09:19 01/11/2025
 - 🦅 [Sự thật về rừng tự sát nổi tiếng Nhật Bản](https://vnexpress.net/su-that-ve-rung-tu-sat-noi-tieng-nhat-ban-4958621.html) - 06:30 01/11/2025
 - 🕴 [Nước nào có biên giới giáp nhiều quốc gia nhất hành tinh?](https://vnexpress.net/nuoc-nao-co-bien-gioi-giap-nhieu-quoc-gia-nhat-hanh-tinh-4951035.html) - 05:00 01/11/2025
