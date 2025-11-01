@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nguyễn Xuân Son có thể lên tuyển Việt Nam đấu Lào](https://vnexpress.net/nguyen-xuan-son-co-the-len-tuyen-viet-nam-dau-lao-4958660.html) - 05:39 01/11/2025
+- 🪜 [Xuân Son có thể tái xuất tuyển Việt Nam trong tháng 11](https://vnexpress.net/xuan-son-co-the-tai-xuat-tuyen-viet-nam-trong-thang-11-4958660.html) - 05:39 01/11/2025
 - 🦩 [Trào lưu ném biên trỗi dậy ở Ngoại hạng Anh](https://vnexpress.net/trao-luu-nem-bien-troi-day-o-ngoai-hang-anh-4958459.html) - 05:15 01/11/2025
 - 🧰 [Arsenal đang hay hơn mùa giải Bất bại?](https://vnexpress.net/arsenal-dang-hay-hon-mua-giai-bat-bai-4958387.html) - 05:06 01/11/2025
 - 🤗 [Tài xế xe bus &#39;chở&#39; Espanyol vào top 5 La Liga](https://vnexpress.net/tai-xe-xe-bus-cho-espanyol-vao-top-5-la-liga-4958545.html) - 03:18 01/11/2025
