@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hoàng Đức giúp Ninh Bình nối dài mạch bất bại](https://vnexpress.net/hoang-duc-giup-ninh-binh-noi-dai-mach-bat-bai-4958774.html) - 14:02 01/11/2025
+- 🪜 [Hoàng Đức giúp Ninh Bình nối dài mạch bất bại ở V-League](https://vnexpress.net/hoang-duc-giup-ninh-binh-noi-dai-mach-bat-bai-o-v-league-4958774.html) - 14:02 01/11/2025
 - 🦩 [Con trai Ronaldo ghi bàn đầu tiên cho U16 Bồ Đào Nha](https://vnexpress.net/con-trai-ronaldo-ghi-ban-dau-tien-cho-u16-bo-dao-nha-4958772.html) - 13:52 01/11/2025
 - 🧰 [Hai nhà vô địch quốc gia dự khai mạc VYB 2025 - Cup Ziaja](https://vnexpress.net/nha-vo-dich-hanoi-buffaloes-du-le-khai-mac-giai-bong-ro-tre-vnexpress-2025-4958761.html) - 13:00 01/11/2025
 - 🤗 [Lammens: &#39;Tôi không phải Schmeichel cải trang&#39;](https://vnexpress.net/lammens-toi-khong-phai-schmeichel-cai-trang-4958686.html) - 09:00 01/11/2025
