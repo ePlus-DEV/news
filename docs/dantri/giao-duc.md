@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Chuyển đổi số trong giáo dục: Bắt đầu từ nội dung số và người thầy số](https://dantri.com.vn/giao-duc/chuyen-doi-so-trong-giao-duc-bat-dau-tu-noi-dung-so-va-nguoi-thay-so-20251101071521722.htm) - 03:00 01/11/2025
-- 🗽 [Nam sinh từng thấy mình “không bình thường” và hành trình viết lại số phận](https://dantri.com.vn/giao-duc/nam-sinh-tung-thay-minh-khong-binh-thuong-va-hanh-trinh-viet-lai-so-phan-20251031235024817.htm) - 01:00 01/11/2025
-- 🚦 [Phụ huynh tố trường tiểu học vi phạm về thu tiền ngoài giờ, dạy thêm](https://dantri.com.vn/giao-duc/phu-huynh-to-truong-tieu-hoc-vi-pham-ve-thu-tien-ngoai-gio-day-them-20251031153841802.htm) - 23:00 31/10/2025
+- 🤡 [Nhà giáo viên ngập đến mái, trường học đầy sình lầy, hư hại nặng sau lũ](https://dantri.com.vn/giao-duc/nha-giao-vien-ngap-den-mai-truong-hoc-day-sinh-lay-hu-hai-nang-sau-lu-20251101130033078.htm) - 06:49 01/11/2025
+- 🗽 [Chuyển đổi số trong giáo dục: Bắt đầu từ nội dung số và người thầy số](https://dantri.com.vn/giao-duc/chuyen-doi-so-trong-giao-duc-bat-dau-tu-noi-dung-so-va-nguoi-thay-so-20251101071521722.htm) - 03:00 01/11/2025
+- 🚦 [Nam sinh từng thấy mình “không bình thường” và hành trình viết lại số phận](https://dantri.com.vn/giao-duc/nam-sinh-tung-thay-minh-khong-binh-thuong-va-hanh-trinh-viet-lai-so-phan-20251031235024817.htm) - 01:00 01/11/2025
 - 🌋 [Thầy giáo bị xử phạt vì đăng tin xúc phạm hiệu trưởng lên mạng xã hội](https://dantri.com.vn/giao-duc/thay-giao-bi-xu-phat-vi-dang-tin-xuc-pham-hieu-truong-len-mang-xa-hoi-20251031190558021.htm) - 14:33 31/10/2025
 - 🏊 [“Khát” nhân lực, Hàn Quốc triển khai hàng loạt học bổng đến du học sinh](https://dantri.com.vn/giao-duc/khat-nhan-luc-han-quoc-trien-khai-hang-loat-hoc-bong-den-du-hoc-sinh-20251031172424464.htm) - 14:30 31/10/2025
 - 🎃 [Học viện Bưu chính Viễn thông tăng chỉ tiêu, dự kiến thêm một số ngành mới](https://dantri.com.vn/giao-duc/hoc-vien-buu-chinh-vien-thong-tang-chi-tieu-du-kien-them-mot-so-nganh-moi-20251031175149310.htm) - 11:04 31/10/2025
