@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Tiền phí đặc biệt của thợ sửa điện tử cho người dân vùng lũ](https://dantri.com.vn/doi-song/tien-phi-dac-biet-cua-tho-sua-dien-tu-cho-nguoi-dan-vung-lu-20251102142626768.htm) - 11:08 02/11/2025
+- 🥳 [&quot;Tiền công&quot; đặc biệt của thợ sửa điện tử cho người dân vùng lũ](https://dantri.com.vn/doi-song/tien-cong-dac-biet-cua-tho-sua-dien-tu-cho-nguoi-dan-vung-lu-20251102142626768.htm) - 11:08 02/11/2025
 - 🌁 [Kẻ gian nấp trong thùng hàng, ép chủ nhà uống thuốc ngủ lấy đi vài cây vàng](https://dantri.com.vn/doi-song/ke-gian-nap-trong-thung-hang-ep-chu-nha-uong-thuoc-ngu-lay-di-vai-cay-vang-20251102131308865.htm) - 07:23 02/11/2025
 - 👀 [Hành khách 80 tuổi bị du thuyền sang trọng &quot;bỏ quên&quot;, tử vong trên đảo](https://dantri.com.vn/doi-song/hanh-khach-80-tuoi-bi-du-thuyen-sang-trong-bo-quen-tu-vong-tren-dao-20251102112823230.htm) - 05:12 02/11/2025
 - 🐻 [Biệt thự 99 cửa và giai thoại “Con ma nhà họ Hứa” giữa lòng TPHCM](https://dantri.com.vn/doi-song/biet-thu-99-cua-va-giai-thoai-con-ma-nha-ho-hua-giua-long-tphcm-20251101221728530.htm) - 02:00 02/11/2025
