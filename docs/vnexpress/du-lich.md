@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Góc khuất của những chuyến du lịch miễn phí](https://vnexpress.net/goc-khuat-cua-nhung-chuyen-du-lich-mien-phi-4959168.html) - 07:30 03/11/2025
 - 🪄 [Lý do nhiều người Việt muốn xách tay hành lý lên máy bay](https://vnexpress.net/ly-do-nhieu-nguoi-viet-muon-xach-tay-hanh-ly-len-may-bay-4958511.html) - 05:32 03/11/2025
-- 🦅 [Địa danh nào ở miền Tây được cho là từng có nhiều chim công đậu?](https://vnexpress.net/dia-danh-nao-o-mien-tay-duoc-cho-la-tung-co-nhieu-chim-cong-dau-4946777.html) - 05:00 03/11/2025
+- 🦅 [Nơi nào từng là &quot;thủ phủ chim công&#39; ở miền Tây?](https://vnexpress.net/noi-nao-tung-la-thu-phu-chim-cong-o-mien-tay-4946777.html) - 05:00 03/11/2025
 - 🕴 [Vietjet ưu đãi vé 0 đồng các chặng TP HCM - Manila](https://vnexpress.net/vietjet-uu-dai-ve-0-dong-cac-chang-tp-hcm-manila-4959184.html) - 04:30 03/11/2025
 - 👀 [Hội chợ Mùa thu hội tụ hơn 3.000 gian hàng](https://vnexpress.net/hoi-cho-mua-thu-hoi-tu-hon-3-000-gian-hang-4959134.html) - 04:00 03/11/2025
 - 🎭 [Chủ quán bán đặc sản không ngừng tay ở hội chợ mùa thu](https://vnexpress.net/chu-quan-ban-dac-san-khong-ngung-tay-o-hoi-cho-mua-thu-4959089.html) - 02:38 03/11/2025
