@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Từ ban nhạc heavy metal đến nữ hoàng hai hạng cân](https://vnexpress.net/tu-ban-nhac-heavy-metal-den-nu-hoang-hai-hang-can-4959010.html) - 04:15 03/11/2025
 - 🧰 [Haaland khơi mào tranh luận về việc uống sữa thô](https://vnexpress.net/haaland-khoi-mao-tranh-luan-ve-viec-uong-sua-tho-4958918.html) - 04:12 03/11/2025
 - 🤗 [Các đội mạnh thắng lớn ở ngày ba Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/ngay-ba-giai-bong-ro-tre-vnexpress-4958994.html) - 04:00 03/11/2025
-- 🥳 [Giggs và em trai giảng hòa sau bê bối tình dục](https://vnexpress.net/giggs-va-em-trai-giang-hoa-sau-be-boi-tinh-duc-4959057.html) - 03:48 03/11/2025
+- 🥳 [Giggs và em trai giảng hòa sau bê bối tình ái](https://vnexpress.net/giggs-va-em-trai-giang-hoa-sau-be-boi-tinh-ai-4959057.html) - 03:48 03/11/2025
 - 🦣 [Antony lập cú đúp siêu phẩm, được ví như &#39;phù thủy&#39;](https://vnexpress.net/antony-lap-cu-dup-sieu-pham-duoc-vi-nhu-phu-thuy-4959099.html) - 02:42 03/11/2025
 - 🌜 [Sinner vô địch Paris Masters, lên số một thế giới](https://vnexpress.net/sinner-vo-dich-paris-masters-len-so-mot-the-gioi-4959029.html) - 00:43 03/11/2025
 - 🫶 [Mầm mống &#39;phản thầy&#39; ở Tottenham](https://vnexpress.net/mam-mong-phan-thay-o-tottenham-4959005.html) - 23:21 02/11/2025
