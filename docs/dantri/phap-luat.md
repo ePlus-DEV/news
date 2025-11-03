@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Vụ mẹ ném con trai xuống giếng: Tạm hình sự người mẹ](https://dantri.com.vn/phap-luat/vu-me-nem-con-trai-xuong-gieng-tam-hinh-su-nguoi-me-20251103173628364.htm) - 11:14 03/11/2025
+- 🌊 [Vụ mẹ ném con trai xuống giếng: Tạm giữ hình sự người mẹ](https://dantri.com.vn/phap-luat/vu-me-nem-con-trai-xuong-gieng-tam-giu-hinh-su-nguoi-me-20251103173628364.htm) - 11:14 03/11/2025
 - 🐲 [Công an điều tra vụ học sinh bị đánh nguy kịch ở Thanh Hóa](https://dantri.com.vn/phap-luat/cong-an-dieu-tra-vu-hoc-sinh-bi-danh-nguy-kich-o-thanh-hoa-20251103173303325.htm) - 11:06 03/11/2025
 - 🌁 [Bị phạt 7,5 triệu đồng vì đăng video kêu gọi từ thiện sai sự thật](https://dantri.com.vn/phap-luat/bi-phat-75-trieu-dong-vi-dang-video-keu-goi-tu-thien-sai-su-that-20251103171505145.htm) - 10:25 03/11/2025
 - 🎃 [Nhóm người dùng gậy sắt, mái chèo đánh nhau giữa phố ngập lụt](https://dantri.com.vn/phap-luat/nhom-nguoi-dung-gay-sat-mai-cheo-danh-nhau-giua-pho-ngap-lut-20251103164401483.htm) - 10:15 03/11/2025
