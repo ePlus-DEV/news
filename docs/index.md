@@ -76,9 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Em thích sự giản dị và chân thành trong mọi mối quan hệ](https://vnexpress.net/em-thich-su-gian-di-va-chan-thanh-trong-moi-moi-quan-he-4959213.html) - 09:47 03/11/2025
 - 🤩 [Em thích cảm giác an yên khi ở bên người trưởng thành, điềm đạm](https://vnexpress.net/em-thich-cam-giac-an-yen-khi-o-ben-nguoi-truong-thanh-diem-dam-4959224.html) - 09:39 03/11/2025
 - 🏊 [Tư nhân làm đường sắt tốc độ cao: Cần rõ cơ chế quản lý, sở hữu tài sản](https://vnexpress.net/tu-nhan-lam-duong-sat-toc-do-cao-can-ro-co-che-quan-ly-so-huu-tai-san-4959408.html) - 09:37 03/11/2025
-- 💂 [Nhật Bản bác bỏ việc rời LĐBĐ châu Á](https://vnexpress.net/nhat-ban-bac-bo-viec-roi-ldbd-chau-a-4959426.html) - 09:34 03/11/2025
-- 🚀 [Nhân chứng kể khoảnh khắc cầu xin kẻ đâm dao trên tàu Anh](https://vnexpress.net/nhan-chung-ke-khoanh-khac-cau-xin-ke-dam-dao-tren-tau-anh-4959350.html) - 09:22 03/11/2025
-- 🕴 [Billie Eilish kêu gọi giới tỷ phú quyên góp nhiều hơn](https://vnexpress.net/billie-eilish-keu-goi-gioi-ty-phu-quyen-gop-nhieu-hon-4959087.html) - 09:22 03/11/2025<!-- vnexpress:END -->
+- 💂 [Nhật Bản bác bỏ việc rời LĐBĐ châu Á](https://vnexpress.net/nhat-ban-bac-bo-viec-roi-ldbd-chau-a-4959426.html) - 09:34 03/11/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
