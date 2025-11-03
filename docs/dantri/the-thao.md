@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nguy cơ với tuyển Malaysia khi FIFA giữ nguyên án phạt 7 cầu thủ nhập tịch](https://dantri.com.vn/the-thao/nguy-co-voi-tuyen-malaysia-khi-fifa-giu-nguyen-an-phat-7-cau-thu-nhap-tich-20251103215201047.htm) - 14:52 03/11/2025
-- 💯 [FIFA bác kháng cáo của Liên đoàn bóng đá Malaysia](https://dantri.com.vn/the-thao/fifa-bac-khang-cao-cua-lien-doan-bong-da-malaysia-20251103212627219.htm) - 14:16 03/11/2025
+- 🎡 [Cục diện vòng loại Asian Cup 2027 nếu Malaysia bị xử thua tuyển Việt Nam](https://dantri.com.vn/the-thao/cuc-dien-vong-loai-asian-cup-2027-neu-malaysia-bi-xu-thua-tuyen-viet-nam-20251103215201047.htm) - 14:52 03/11/2025
+- 💯 [FIFA bác kháng cáo của bóng đá Malaysia vụ 7 cầu thủ nhập tịch](https://dantri.com.vn/the-thao/fifa-bac-khang-cao-cua-bong-da-malaysia-vu-7-cau-thu-nhap-tich-20251103212627219.htm) - 14:16 03/11/2025
 - ⛽️ [&quot;Người thừa&quot; của Man Utd khiến cả châu Âu ngỡ ngàng](https://dantri.com.vn/the-thao/nguoi-thua-cua-man-utd-khien-ca-chau-au-ngo-ngang-20251103200700825.htm) - 13:32 03/11/2025
 - 💃 [Chuyên gia: “Quan chức FAM phải bị sa thải nếu kháng cáo FIFA thất bại”](https://dantri.com.vn/the-thao/chuyen-gia-quan-chuc-fam-phai-bi-sa-thai-neu-khang-cao-fifa-that-bai-20251103195152945.htm) - 13:30 03/11/2025
 - 🌈 [Chủ tịch VFF nói điều đặc biệt với đội tuyển nữ Việt Nam trước SEA Games](https://dantri.com.vn/the-thao/chu-tich-vff-noi-dieu-dac-biet-voi-doi-tuyen-nu-viet-nam-truoc-sea-games-20251103195552975.htm) - 12:56 03/11/2025
