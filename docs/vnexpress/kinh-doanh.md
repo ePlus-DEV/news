@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [MSB duy trì tăng trưởng ổn định trong 9 tháng](https://vnexpress.net/msb-duy-tri-tang-truong-on-dinh-trong-9-thang-4959410.html) - 10:30 03/11/2025
-- 🐲 [&#39;Cơ chế cho tư nhân làm đường sắt tốc độ cao cần đảm bảo quyền lợi, nghĩa vụ&#39;](https://vnexpress.net/co-che-cho-tu-nhan-lam-duong-sat-toc-do-cao-can-dam-bao-quyen-loi-nghia-vu-4959408.html) - 09:37 03/11/2025
+- 🐲 [Tư nhân làm đường sắt tốc độ cao: Cần rõ cơ chế quản lý, sở hữu tài sản](https://vnexpress.net/tu-nhan-lam-duong-sat-toc-do-cao-can-ro-co-che-quan-ly-so-huu-tai-san-4959408.html) - 09:37 03/11/2025
 - 🔥 [Tương lai bấp bênh của ngành than Mỹ](https://vnexpress.net/tuong-lai-bap-benh-cua-nganh-than-my-4959288.html) - 09:15 03/11/2025
 - 🐵 [VN-Index liên tiếp giảm sâu](https://vnexpress.net/vn-index-lien-tiep-giam-sau-4959380.html) - 08:39 03/11/2025
 - 🦅 [Xuất khẩu nông, lâm, thủy sản vượt 58 tỷ USD](https://vnexpress.net/xuat-khau-nong-lam-thuy-san-vuot-58-ty-usd-4959326.html) - 08:26 03/11/2025
