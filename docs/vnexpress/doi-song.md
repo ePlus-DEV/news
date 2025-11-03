@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Góp tiền mua nhà khi đang yêu](https://vnexpress.net/gop-tien-mua-nha-khi-dang-yeu-4957797.html) - 23:00 03/11/2025
+- 🚀 [Mua nhà trước, cưới sau](https://vnexpress.net/mua-nha-truoc-cuoi-sau-4957797.html) - 23:00 03/11/2025
 - 🎓 [Vietjet vận chuyển miễn phí hàng cứu trợ đến vùng lũ](https://vnexpress.net/vietjet-van-chuyen-mien-phi-hang-cuu-tro-den-vung-lu-4959473.html) - 12:45 03/11/2025
 - 🚦 [Cách nấu bún dọc mùng Hà Nội](https://vnexpress.net/doi-song-cooking-cach-nau-bun-doc-mung-ha-noi-4959465.html) - 10:35 03/11/2025
 - 🦣 [Mỹ: Dân văn phòng mất việc hàng loạt, thợ lành nghề &#39;lên ngôi&#39;](https://vnexpress.net/my-dan-van-phong-mat-viec-hang-loat-tho-lanh-nghe-len-ngoi-4959116.html) - 06:58 03/11/2025
