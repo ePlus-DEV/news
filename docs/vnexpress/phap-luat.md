@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Đại gia miền Tây lĩnh án vì chặt cây trong khu đất tranh chấp](https://vnexpress.net/dai-gia-mien-tay-linh-an-vi-chat-cay-trong-khu-dat-tranh-chap-4959399.html) - 09:04 03/11/2025
 - 🥰 [Cảnh sát trưởng xin lỗi vì cấp dưới mặc quần chip trong phiên tòa online](https://vnexpress.net/canh-sat-truong-xin-loi-vi-cap-duoi-mac-quan-chip-trong-phien-toa-online-4959248.html) - 06:54 03/11/2025
 - 🎓 [Hàng loạt người sập bẫy &#39;cò&#39; đất](https://vnexpress.net/hang-loat-nguoi-sap-bay-co-dat-4959172.html) - 04:11 03/11/2025
-- 🤓 [Cảnh sát bị cáo buộc gài bẫy để bỏ tù hơn 100 người](https://vnexpress.net/canh-sat-bi-cao-buoc-gai-bay-de-bo-tu-hon-100-nguoi-4959143.html) - 03:35 03/11/2025
+- 🤓 [Cảnh sát Anh bị cáo buộc gài bẫy để bỏ tù hơn 100 người](https://vnexpress.net/canh-sat-anh-bi-cao-buoc-gai-bay-de-bo-tu-hon-100-nguoi-4959143.html) - 03:35 03/11/2025
 - 🎊 [Hai thuyền trưởng ở TP HCM bị khởi tố](https://vnexpress.net/hai-thuyen-truong-o-tp-hcm-bi-khoi-to-4959042.html) - 02:16 03/11/2025
 - 🙉 [Sát hại người yêu trong nhà nghỉ](https://vnexpress.net/sat-hai-nguoi-yeu-trong-nha-nghi-4958990.html) - 17:00 02/11/2025
 - 🤡 [Nghi phạm người Trung Quốc bỏ trốn khi được chữa bệnh](https://vnexpress.net/nghi-pham-nguoi-trung-quoc-bo-tron-khi-duoc-chua-benh-4958946.html) - 10:25 02/11/2025
