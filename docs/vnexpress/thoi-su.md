@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đô thị Đà Nẵng ngập sau cơn mưa lớn](https://vnexpress.net/do-thi-da-nang-ngap-sau-con-mua-lon-4959053.html) - 03:11 03/11/2025
-- 🤓 [Bão Kalmaegi tăng ba cấp, ngày 5/11 vào Biển Đông](https://vnexpress.net/bao-kalmaegi-tang-ba-cap-ngay-5-11-vao-bien-dong-4959013.html) - 02:47 03/11/2025
-- ⚗️ [Miền Bắc thấp nhất 10 độ C](https://vnexpress.net/mien-bac-thap-nhat-10-do-c-4959072.html) - 02:32 03/11/2025
-- 🌊 [Kế hoạch 3 lớp &#39;phòng thủ&#39; chống ngập cho TP HCM như thế nào](https://vnexpress.net/ke-hoach-3-lop-phong-thu-chong-ngap-cho-tp-hcm-nhu-the-nao-4958770.html) - 23:00 02/11/2025
-- 🎓 [Các sông ở Huế, Đà Nẵng lên báo động ba, nhiều nơi tái ngập](https://vnexpress.net/cac-song-o-hue-da-nang-len-bao-dong-ba-nhieu-noi-tai-ngap-4959011.html) - 22:27 02/11/2025
-- 🔥 [Đại biểu Phạm Văn Thịnh: Không thể chỉ trông chờ vào tinh thần cống hiến](https://vnexpress.net/dai-bieu-pham-van-thinh-khong-the-chi-trong-cho-vao-tinh-than-cong-hien-4958780.html) - 22:00 02/11/2025
-- 🦏 [Mệt mỏi vì lũ kéo dài](https://vnexpress.net/met-moi-vi-lu-keo-dai-4958983.html) - 18:34 02/11/2025
-- 👺 [Người miền Tây một tháng vật lộn trong lũ](https://vnexpress.net/nguoi-mien-tay-mot-thang-vat-lon-trong-lu-4958709.html) - 17:00 02/11/2025
-- 🧑‍🏫 [Lâm Đồng công bố tình huống khẩn cấp sạt lở ở hai quốc lộ](https://vnexpress.net/sat-lo-dat-o-lam-dong-4958968.html) - 12:56 02/11/2025
-- 🚦 [Tìm thấy hài cốt liệt sĩ cùng tấm biển khắc mã &#39;SH 1-99X&#39;](https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-tam-bien-khac-ma-sh-1-99x-4958962.html) - 12:11 02/11/2025
-- 🎉 [Cứu người đàn ông bị vùi lấp khi sạt lở cuốn trôi 6 ngôi nhà](https://vnexpress.net/cuu-nguoi-dan-ong-bi-vui-lap-khi-sat-lo-cuon-troi-6-ngoi-nha-4958964.html) - 12:01 02/11/2025
-- 🦒 [Bão Kalmaegi có thể đạt cấp 14 khi vào Biển Đông](https://vnexpress.net/bao-kalmaegi-co-the-dat-cap-14-khi-vao-bien-dong-4958957.html) - 10:59 02/11/2025
-- 🤗 [Việt Nam - Mỹ tăng cường hợp tác quốc phòng](https://vnexpress.net/viet-nam-my-tang-cuong-hop-tac-quoc-phong-4958947.html) - 10:49 02/11/2025
-- 💼 [Lùi thời hạn hoàn thành cầu Đuống mới đến năm 2026](https://vnexpress.net/lui-thoi-han-hoan-thanh-cau-duong-moi-den-nam-2026-4957413.html) - 09:55 02/11/2025
-- 🤩 [Cuộc tháo chạy bất thành của gia đình khi vỡ hồ nước trên núi](https://vnexpress.net/cuoc-thao-chay-bat-thanh-cua-gia-dinh-khi-vo-ho-nuoc-tren-nui-4958889.html) - 09:00 02/11/2025
-- 🤡 [Lao động thời vụ đi Hàn &#39;hợp đồng 8 tháng đóng phí tới 65 triệu đồng&#39;](https://vnexpress.net/lao-dong-thoi-vu-di-han-hop-dong-8-thang-dong-phi-toi-65-trieu-dong-4958503.html) - 08:05 02/11/2025
-- 💯 [Hồ bị vỡ ở Lâm Đồng chứa 900.000 m3 nước, không có giấy phép](https://vnexpress.net/ho-bi-vo-o-lam-dong-chua-900-000-m3-nuoc-khong-co-giay-phep-4958910.html) - 07:44 02/11/2025
-- 👺 [Tàu chở 170.000 tấn quặng sắt mắc cạn ở biển Dung Quất](https://vnexpress.net/tau-cho-170-000-tan-quang-sat-mac-can-o-bien-dung-quat-4958899.html) - 05:48 02/11/2025
-- 🌮 [Tổng Bí thư thăm người dân vùng rốn lũ](https://vnexpress.net/tong-bi-thu-tham-nguoi-dan-vung-ron-lu-4958895.html) - 05:42 02/11/2025
-- 🥸 [Đô thị Huế một tuần sau lũ](https://vnexpress.net/do-thi-hue-mot-tuan-sau-lu-4958802.html) - 04:39 02/11/2025
-- 🐻 [Bão Kalmaegi vào Biển Đông sẽ tăng cấp nhanh](https://vnexpress.net/bao-kalmaegi-vao-bien-dong-se-tang-cap-nhanh-4958875.html) - 04:35 02/11/2025
-- 👀 [Lũ các sông miền Trung lại lên](https://vnexpress.net/lu-cac-song-mien-trung-lai-len-4958855.html) - 03:27 02/11/2025
-- 🤔 [Cầu gãy, gần 1.300 người bị nước lụt bao vây](https://vnexpress.net/cau-gay-gan-1-300-nguoi-bi-nuoc-lut-bao-vay-4958845.html) - 01:59 02/11/2025
-- 🕯 [Hiện trường vỡ hồ nước trên núi ở Lâm Đồng](https://vnexpress.net/hien-truong-vo-ho-nuoc-tren-nui-o-lam-dong-4958835.html) - 01:19 02/11/2025
-- 😺 [11 người gặp nạn sau va chạm tàu nước ngoài ở biển Vũng Tàu](https://vnexpress.net/tai-nan-tren-bien-vung-tau-4958829.html) - 00:50 02/11/2025
-- 🦆 [35 kỷ lục mưa bị phá vỡ trong tháng 10](https://vnexpress.net/35-ky-luc-mua-bi-pha-vo-trong-thang-10-4958775.html) - 17:00 01/11/2025
+- 🦒 [Đường Hồ Chí Minh, quốc lộ 1 tiếp tục sạt lở, ngập nước](https://vnexpress.net/duong-ho-chi-minh-quoc-lo-1-tiep-tuc-sat-lo-ngap-nuoc-4959171.html) - 05:12 03/11/2025
+- 🤓 [Ứng dụng giúp người dân tự động gia hạn GPLX](https://vnexpress.net/ung-dung-giup-nguoi-dan-tu-dong-gia-han-gplx-4959096.html) - 04:33 03/11/2025
+- ⚗️ [Đô thị Đà Nẵng ngập sau cơn mưa lớn](https://vnexpress.net/do-thi-da-nang-ngap-sau-con-mua-lon-4959053.html) - 03:11 03/11/2025
+- 🌊 [Bão Kalmaegi tăng ba cấp, ngày 5/11 vào Biển Đông](https://vnexpress.net/bao-kalmaegi-tang-ba-cap-ngay-5-11-vao-bien-dong-4959013.html) - 02:47 03/11/2025
+- 🎓 [Miền Bắc thấp nhất 10 độ C](https://vnexpress.net/mien-bac-thap-nhat-10-do-c-4959072.html) - 02:32 03/11/2025
+- 🔥 [Kế hoạch 3 lớp &#39;phòng thủ&#39; chống ngập cho TP HCM như thế nào](https://vnexpress.net/ke-hoach-3-lop-phong-thu-chong-ngap-cho-tp-hcm-nhu-the-nao-4958770.html) - 23:00 02/11/2025
+- 🦏 [Các sông ở Huế, Đà Nẵng lên báo động ba, nhiều nơi tái ngập](https://vnexpress.net/cac-song-o-hue-da-nang-len-bao-dong-ba-nhieu-noi-tai-ngap-4959011.html) - 22:27 02/11/2025
+- 👺 [Đại biểu Phạm Văn Thịnh: Không thể chỉ trông chờ vào tinh thần cống hiến](https://vnexpress.net/dai-bieu-pham-van-thinh-khong-the-chi-trong-cho-vao-tinh-than-cong-hien-4958780.html) - 22:00 02/11/2025
+- 🧑‍🏫 [Mệt mỏi vì lũ kéo dài](https://vnexpress.net/met-moi-vi-lu-keo-dai-4958983.html) - 18:34 02/11/2025
+- 🚦 [Người miền Tây một tháng vật lộn trong lũ](https://vnexpress.net/nguoi-mien-tay-mot-thang-vat-lon-trong-lu-4958709.html) - 17:00 02/11/2025
+- 🎉 [Lâm Đồng công bố tình huống khẩn cấp sạt lở ở hai quốc lộ](https://vnexpress.net/sat-lo-dat-o-lam-dong-4958968.html) - 12:56 02/11/2025
+- 🦒 [Tìm thấy hài cốt liệt sĩ cùng tấm biển khắc mã &#39;SH 1-99X&#39;](https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-tam-bien-khac-ma-sh-1-99x-4958962.html) - 12:11 02/11/2025
+- 🤗 [Cứu người đàn ông bị vùi lấp khi sạt lở cuốn trôi 6 ngôi nhà](https://vnexpress.net/cuu-nguoi-dan-ong-bi-vui-lap-khi-sat-lo-cuon-troi-6-ngoi-nha-4958964.html) - 12:01 02/11/2025
+- 💼 [Bão Kalmaegi có thể đạt cấp 14 khi vào Biển Đông](https://vnexpress.net/bao-kalmaegi-co-the-dat-cap-14-khi-vao-bien-dong-4958957.html) - 10:59 02/11/2025
+- 🤩 [Việt Nam - Mỹ tăng cường hợp tác quốc phòng](https://vnexpress.net/viet-nam-my-tang-cuong-hop-tac-quoc-phong-4958947.html) - 10:49 02/11/2025
+- 🤡 [Lùi thời hạn hoàn thành cầu Đuống mới đến năm 2026](https://vnexpress.net/lui-thoi-han-hoan-thanh-cau-duong-moi-den-nam-2026-4957413.html) - 09:55 02/11/2025
+- 💯 [Cuộc tháo chạy bất thành của gia đình khi vỡ hồ nước trên núi](https://vnexpress.net/cuoc-thao-chay-bat-thanh-cua-gia-dinh-khi-vo-ho-nuoc-tren-nui-4958889.html) - 09:00 02/11/2025
+- 👺 [Lao động thời vụ đi Hàn &#39;hợp đồng 8 tháng đóng phí tới 65 triệu đồng&#39;](https://vnexpress.net/lao-dong-thoi-vu-di-han-hop-dong-8-thang-dong-phi-toi-65-trieu-dong-4958503.html) - 08:05 02/11/2025
+- 🌮 [Hồ bị vỡ ở Lâm Đồng chứa 900.000 m3 nước, không có giấy phép](https://vnexpress.net/ho-bi-vo-o-lam-dong-chua-900-000-m3-nuoc-khong-co-giay-phep-4958910.html) - 07:44 02/11/2025
+- 🥸 [Tàu chở 170.000 tấn quặng sắt mắc cạn ở biển Dung Quất](https://vnexpress.net/tau-cho-170-000-tan-quang-sat-mac-can-o-bien-dung-quat-4958899.html) - 05:48 02/11/2025
+- 🐻 [Tổng Bí thư thăm người dân vùng rốn lũ](https://vnexpress.net/tong-bi-thu-tham-nguoi-dan-vung-ron-lu-4958895.html) - 05:42 02/11/2025
+- 👀 [Đô thị Huế một tuần sau lũ](https://vnexpress.net/do-thi-hue-mot-tuan-sau-lu-4958802.html) - 04:39 02/11/2025
+- 🤔 [Bão Kalmaegi vào Biển Đông sẽ tăng cấp nhanh](https://vnexpress.net/bao-kalmaegi-vao-bien-dong-se-tang-cap-nhanh-4958875.html) - 04:35 02/11/2025
+- 🕯 [Lũ các sông miền Trung lại lên](https://vnexpress.net/lu-cac-song-mien-trung-lai-len-4958855.html) - 03:27 02/11/2025
+- 😺 [Cầu gãy, gần 1.300 người bị nước lụt bao vây](https://vnexpress.net/cau-gay-gan-1-300-nguoi-bi-nuoc-lut-bao-vay-4958845.html) - 01:59 02/11/2025
+- 🦆 [Hiện trường vỡ hồ nước trên núi ở Lâm Đồng](https://vnexpress.net/hien-truong-vo-ho-nuoc-tren-nui-o-lam-dong-4958835.html) - 01:19 02/11/2025
+- 🧰 [11 người gặp nạn sau va chạm tàu nước ngoài ở biển Vũng Tàu](https://vnexpress.net/tai-nan-tren-bien-vung-tau-4958829.html) - 00:50 02/11/2025
+- 🦍 [35 kỷ lục mưa bị phá vỡ trong tháng 10](https://vnexpress.net/35-ky-luc-mua-bi-pha-vo-trong-thang-10-4958775.html) - 17:00 01/11/2025
 - 🧰 [Kè biển Đồ Sơn nứt vỡ](https://vnexpress.net/ke-bien-do-son-nut-vo-4958592.html) - 17:00 01/11/2025
-- 🦍 [Học sinh hào hứng tham gia ngày hội vệ sinh học đường](https://vnexpress.net/hoc-sinh-hao-hung-tham-gia-ngay-hoi-ve-sinh-hoc-duong-4958782.html) - 16:55 01/11/2025
+- 💃 [Học sinh hào hứng tham gia ngày hội vệ sinh học đường](https://vnexpress.net/hoc-sinh-hao-hung-tham-gia-ngay-hoi-ve-sinh-hoc-duong-4958782.html) - 16:55 01/11/2025
 - 🧰 [Ba trường ở Thái Nguyên nhận hỗ trợ tái thiết sau bão](https://vnexpress.net/ba-truong-o-thai-nguyen-nhan-ho-tro-tai-thiet-sau-bao-4958672.html) - 16:54 01/11/2025
-- 💃 [Vỡ hồ chứa trên núi ở Lâm Đồng, nhiều người bị cuốn trôi](https://vnexpress.net/vo-ho-chua-tren-nui-o-lam-dong-nhieu-nguoi-bi-cuon-troi-4958795.html) - 16:33 01/11/2025
-- 🧰 [Lũ tràn về vùng hạ du hồ Kẻ Gỗ](https://vnexpress.net/lu-tran-ve-vung-ha-du-ho-ke-go-4958759.html) - 15:15 01/11/2025
-- 🚀 [Người phụ nữ bị nước cuốn tử vong](https://vnexpress.net/mua-lu-sat-lo-o-lam-dong-4958777.html) - 14:40 01/11/2025
-- 🎊 [Ôtô thoát ngập nước nhờ dùng bạt bọc kín](https://vnexpress.net/oto-thoat-ngap-nuoc-nho-dung-bat-boc-kin-4958773.html) - 14:34 01/11/2025
-- 🤭 [Thủ tướng yêu cầu vận hành thử sàn dữ liệu trong tháng 11](https://vnexpress.net/thu-tuong-yeu-cau-van-hanh-thu-san-du-lieu-trong-thang-11-4958767.html) - 14:00 01/11/2025
-- 🤗 [Vietnam Airlines vận chuyển miễn phí hàng cứu trợ miền Trung](https://vnexpress.net/vietnam-airlines-van-chuyen-mien-phi-hang-cuu-tro-mien-trung-4958768.html) - 13:30 01/11/2025
-- 🌈 [Phố phường ngập rác sau lũ lịch sử ở Huế](https://vnexpress.net/pho-phuong-ngap-rac-sau-lu-lich-su-o-hue-4958753.html) - 12:20 01/11/2025
-- 🦣 [Biển Đông sắp xuất hiện cơn bão thứ 13](https://vnexpress.net/bien-dong-sap-xuat-hien-con-bao-thu-13-4958747.html) - 11:44 01/11/2025
-- 🎡 [Cát đỏ tràn lấp quốc lộ 1 qua Lâm Đồng, giao thông tê liệt](https://vnexpress.net/cat-do-tran-lap-quoc-lo-1-qua-lam-dong-giao-thong-te-liet-4958734.html) - 10:41 01/11/2025
-- 🦏 [Không khí lạnh tăng cường, vùng núi có thể rét đậm](https://vnexpress.net/khong-khi-lanh-tang-cuong-vung-nui-co-the-ret-dam-4958721.html) - 10:24 01/11/2025
-- 🎊 [Đà Nẵng chi 200 tỷ đồng hỗ trợ người dân vùng lũ, khắc phục hạ tầng](https://vnexpress.net/da-nang-chi-200-ty-dong-ho-tro-nguoi-dan-vung-lu-khac-phuc-ha-tang-4958666.html) - 07:48 01/11/2025
-- 🫶 [Thi thể cô gái trong cốp ôtô đậu ven đường TP HCM](https://vnexpress.net/thi-the-co-gai-trong-cop-oto-dau-ven-duong-tp-hcm-4958632.html) - 04:36 01/11/2025
-- 🤔 [Miền Trung tiếp tục mưa lớn, nguy cơ lũ lại lên báo động ba](https://vnexpress.net/mien-trung-tiep-tuc-mua-lon-nguy-co-lu-lai-len-bao-dong-ba-4958571.html) - 03:35 01/11/2025
-- 🤠 [TP HCM mời người dân góp ý Đài tưởng niệm nạn nhân Covid-19](https://vnexpress.net/tp-hcm-moi-nguoi-dan-gop-y-dai-tuong-niem-nan-nhan-covid-19-4958599.html) - 03:28 01/11/2025
-- 🌜 [Quốc lộ lên khu du lịch Măng Đen nứt taluy kéo dài](https://vnexpress.net/quoc-lo-len-khu-du-lich-mang-den-nut-taluy-keo-dai-4958583.html) - 03:21 01/11/2025
-- 🕯 [&#39;Học theo tổng tài làm lệch lạc nhận thức giới trẻ&#39;](https://vnexpress.net/hoc-theo-tong-tai-lam-lech-lac-nhan-thuc-gioi-tre-4958435.html) - 00:00 01/11/2025
-- 🤔 [&#39;Nâng chất lượng lao động trẻ thay vì tăng tuổi hưu lên 65&#39;](https://vnexpress.net/nang-chat-luong-lao-dong-tre-thay-vi-tang-tuoi-huu-len-65-4958189.html) - 23:30 31/10/2025
-- 🏊 [Sống bất an nơi nhà lún hơn nửa mét ở TP HCM](https://vnexpress.net/song-bat-an-noi-nha-lun-hon-nua-met-o-tp-hcm-4958498.html) - 23:00 31/10/2025
-- 🌮 [Chính sách nổi bật có hiệu lực từ tháng 11](https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-4958454.html) - 22:30 31/10/2025
-- 🫣 [Ôtô nằm la liệt trên đường phố Huế chờ cứu hộ](https://vnexpress.net/oto-nam-la-liet-tren-duong-pho-hue-cho-cuu-ho-4958487.html) - 22:00 31/10/2025
-- ⚗️ [Kỷ nguyên mới &#39;không chỉ tăng trưởng mà phải đột phá&#39;](https://vnexpress.net/ky-nguyen-moi-khong-chi-tang-truong-ma-phai-dot-pha-4958386.html) - 21:00 31/10/2025
-- 🌜 [Trụ sở xã nứt toác, nghiêng ngả sau mưa lớn kéo dài](https://vnexpress.net/tru-so-xa-nut-toac-nghieng-nga-sau-mua-lon-keo-dai-4958514.html) - 20:00 31/10/2025
-- 🌁 [TP HCM chi hơn 2.200 tỷ đồng nâng cấp hệ thống kênh Đông Củ Chi](https://vnexpress.net/tp-hcm-chi-hon-2-200-ty-dong-nang-cap-he-thong-kenh-dong-cu-chi-4958179.html) - 17:00 31/10/2025
-- 🐲 [Nổ trên ruộng lúa ở Quảng Trị](https://vnexpress.net/no-tren-ruong-lua-o-quang-tri-4958472.html) - 13:46 31/10/2025
-- ⛽️ [Mở đường tiếp tế 1.700 người bị cô lập 4 ngày do lở núi](https://vnexpress.net/mo-duong-tiep-te-1-700-nguoi-bi-co-lap-4-ngay-do-lo-nui-4958473.html) - 13:41 31/10/2025
-- 🗽 [28 người chết do mưa lũ miền Trung](https://vnexpress.net/28-nguoi-chet-do-mua-lu-mien-trung-4958467.html) - 13:10 31/10/2025
-- 🔥 [Hàng trăm tấn cá điêu hồng chết kín rạch ở Cần Thơ](https://vnexpress.net/hang-tram-tan-ca-dieu-hong-chet-kin-rach-o-can-tho-4958457.html) - 12:52 31/10/2025
-- 💯 [Những hộ dân mất tiền tỷ trong lũ](https://vnexpress.net/nhung-ho-dan-mat-tien-ty-trong-lu-4958402.html) - 12:37 31/10/2025
-- 🦆 [Nhà kho giữa khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-kho-giua-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4958461.html) - 12:27 31/10/2025
-- 🫣 [Tất cả chủ tịch tỉnh sẽ không là người địa phương trong năm 2025](https://vnexpress.net/tat-ca-chu-tich-tinh-se-khong-la-nguoi-dia-phuong-trong-nam-2025-4958453.html) - 12:24 31/10/2025
-- 🤡 [Mưa lũ phá hủy các tuyến đường qua miền Trung](https://vnexpress.net/mua-lu-pha-huy-cac-tuyen-duong-qua-mien-trung-4958428.html) - 12:01 31/10/2025<!-- vnexpress-thoi-su:END -->
+- 🚀 [Vỡ hồ chứa trên núi ở Lâm Đồng, nhiều người bị cuốn trôi](https://vnexpress.net/vo-ho-chua-tren-nui-o-lam-dong-nhieu-nguoi-bi-cuon-troi-4958795.html) - 16:33 01/11/2025
+- 🎊 [Lũ tràn về vùng hạ du hồ Kẻ Gỗ](https://vnexpress.net/lu-tran-ve-vung-ha-du-ho-ke-go-4958759.html) - 15:15 01/11/2025
+- 🤭 [Người phụ nữ bị nước cuốn tử vong](https://vnexpress.net/mua-lu-sat-lo-o-lam-dong-4958777.html) - 14:40 01/11/2025
+- 🤗 [Ôtô thoát ngập nước nhờ dùng bạt bọc kín](https://vnexpress.net/oto-thoat-ngap-nuoc-nho-dung-bat-boc-kin-4958773.html) - 14:34 01/11/2025
+- 🌈 [Thủ tướng yêu cầu vận hành thử sàn dữ liệu trong tháng 11](https://vnexpress.net/thu-tuong-yeu-cau-van-hanh-thu-san-du-lieu-trong-thang-11-4958767.html) - 14:00 01/11/2025
+- 🦣 [Vietnam Airlines vận chuyển miễn phí hàng cứu trợ miền Trung](https://vnexpress.net/vietnam-airlines-van-chuyen-mien-phi-hang-cuu-tro-mien-trung-4958768.html) - 13:30 01/11/2025
+- 🎡 [Phố phường ngập rác sau lũ lịch sử ở Huế](https://vnexpress.net/pho-phuong-ngap-rac-sau-lu-lich-su-o-hue-4958753.html) - 12:20 01/11/2025
+- 🦏 [Biển Đông sắp xuất hiện cơn bão thứ 13](https://vnexpress.net/bien-dong-sap-xuat-hien-con-bao-thu-13-4958747.html) - 11:44 01/11/2025
+- 🎊 [Cát đỏ tràn lấp quốc lộ 1 qua Lâm Đồng, giao thông tê liệt](https://vnexpress.net/cat-do-tran-lap-quoc-lo-1-qua-lam-dong-giao-thong-te-liet-4958734.html) - 10:41 01/11/2025
+- 🫶 [Không khí lạnh tăng cường, vùng núi có thể rét đậm](https://vnexpress.net/khong-khi-lanh-tang-cuong-vung-nui-co-the-ret-dam-4958721.html) - 10:24 01/11/2025
+- 🤔 [Đà Nẵng chi 200 tỷ đồng hỗ trợ người dân vùng lũ, khắc phục hạ tầng](https://vnexpress.net/da-nang-chi-200-ty-dong-ho-tro-nguoi-dan-vung-lu-khac-phuc-ha-tang-4958666.html) - 07:48 01/11/2025
+- 🤠 [Thi thể cô gái trong cốp ôtô đậu ven đường TP HCM](https://vnexpress.net/thi-the-co-gai-trong-cop-oto-dau-ven-duong-tp-hcm-4958632.html) - 04:36 01/11/2025
+- 🌜 [Miền Trung tiếp tục mưa lớn, nguy cơ lũ lại lên báo động ba](https://vnexpress.net/mien-trung-tiep-tuc-mua-lon-nguy-co-lu-lai-len-bao-dong-ba-4958571.html) - 03:35 01/11/2025
+- 🕯 [TP HCM mời người dân góp ý Đài tưởng niệm nạn nhân Covid-19](https://vnexpress.net/tp-hcm-moi-nguoi-dan-gop-y-dai-tuong-niem-nan-nhan-covid-19-4958599.html) - 03:28 01/11/2025
+- 🤔 [Quốc lộ lên khu du lịch Măng Đen nứt taluy kéo dài](https://vnexpress.net/quoc-lo-len-khu-du-lich-mang-den-nut-taluy-keo-dai-4958583.html) - 03:21 01/11/2025
+- 🏊 [&#39;Học theo tổng tài làm lệch lạc nhận thức giới trẻ&#39;](https://vnexpress.net/hoc-theo-tong-tai-lam-lech-lac-nhan-thuc-gioi-tre-4958435.html) - 00:00 01/11/2025
+- 🌮 [&#39;Nâng chất lượng lao động trẻ thay vì tăng tuổi hưu lên 65&#39;](https://vnexpress.net/nang-chat-luong-lao-dong-tre-thay-vi-tang-tuoi-huu-len-65-4958189.html) - 23:30 31/10/2025
+- 🫣 [Sống bất an nơi nhà lún hơn nửa mét ở TP HCM](https://vnexpress.net/song-bat-an-noi-nha-lun-hon-nua-met-o-tp-hcm-4958498.html) - 23:00 31/10/2025
+- ⚗️ [Chính sách nổi bật có hiệu lực từ tháng 11](https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-4958454.html) - 22:30 31/10/2025
+- 🌜 [Ôtô nằm la liệt trên đường phố Huế chờ cứu hộ](https://vnexpress.net/oto-nam-la-liet-tren-duong-pho-hue-cho-cuu-ho-4958487.html) - 22:00 31/10/2025
+- 🌁 [Kỷ nguyên mới &#39;không chỉ tăng trưởng mà phải đột phá&#39;](https://vnexpress.net/ky-nguyen-moi-khong-chi-tang-truong-ma-phai-dot-pha-4958386.html) - 21:00 31/10/2025
+- 🐲 [Trụ sở xã nứt toác, nghiêng ngả sau mưa lớn kéo dài](https://vnexpress.net/tru-so-xa-nut-toac-nghieng-nga-sau-mua-lon-keo-dai-4958514.html) - 20:00 31/10/2025
+- ⛽️ [TP HCM chi hơn 2.200 tỷ đồng nâng cấp hệ thống kênh Đông Củ Chi](https://vnexpress.net/tp-hcm-chi-hon-2-200-ty-dong-nang-cap-he-thong-kenh-dong-cu-chi-4958179.html) - 17:00 31/10/2025
+- 🗽 [Nổ trên ruộng lúa ở Quảng Trị](https://vnexpress.net/no-tren-ruong-lua-o-quang-tri-4958472.html) - 13:46 31/10/2025
+- 🔥 [Mở đường tiếp tế 1.700 người bị cô lập 4 ngày do lở núi](https://vnexpress.net/mo-duong-tiep-te-1-700-nguoi-bi-co-lap-4-ngay-do-lo-nui-4958473.html) - 13:41 31/10/2025
+- 💯 [28 người chết do mưa lũ miền Trung](https://vnexpress.net/28-nguoi-chet-do-mua-lu-mien-trung-4958467.html) - 13:10 31/10/2025
+- 🦆 [Hàng trăm tấn cá điêu hồng chết kín rạch ở Cần Thơ](https://vnexpress.net/hang-tram-tan-ca-dieu-hong-chet-kin-rach-o-can-tho-4958457.html) - 12:52 31/10/2025
+- 🫣 [Những hộ dân mất tiền tỷ trong lũ](https://vnexpress.net/nhung-ho-dan-mat-tien-ty-trong-lu-4958402.html) - 12:37 31/10/2025
+- 🤡 [Nhà kho giữa khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-kho-giua-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4958461.html) - 12:27 31/10/2025<!-- vnexpress-thoi-su:END -->
