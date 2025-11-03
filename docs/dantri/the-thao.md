@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Indonesia dự đoán phán quyết cuối cùng của FIFA với Malaysia](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-phan-quyet-cuoi-cung-cua-fifa-voi-malaysia-20251103162427672.htm) - 09:38 03/11/2025
+- 🎡 [Báo Indonesia dự đoán phán quyết cuối cùng của FIFA với Malaysia](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-phan-quyet-cuoi-cung-cua-fifa-voi-malaysia-20251103162427672.htm) - 10:38 03/11/2025
 - 💯 [Cựu cầu thủ Malaysia bất ngờ ra đầu thú](https://dantri.com.vn/the-thao/cuu-cau-thu-malaysia-bat-ngo-ra-dau-thu-20251103144611379.htm) - 07:57 03/11/2025
 - ⛽️ [Son Heung Min ghi bàn như máy, giúp đội nhà giành vé đi tiếp](https://dantri.com.vn/the-thao/son-heung-min-ghi-ban-nhu-may-giup-doi-nha-gianh-ve-di-tiep-20251103123819651.htm) - 05:38 03/11/2025
 - 💃 [CLB Chile sẵn sàng “giải cứu” ngôi sao Malaysia giữa tâm bão giấy tờ giả](https://dantri.com.vn/the-thao/clb-chile-san-sang-giai-cuu-ngoi-sao-malaysia-giua-tam-bao-giay-to-gia-20251103095525584.htm) - 05:05 03/11/2025
