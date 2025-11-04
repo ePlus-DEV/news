@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [L&#39;Azure Resort &amp;amp; Spa Phu Quoc đạt hai giải thưởng quốc tế](https://vnexpress.net/l-azure-resort-spa-phu-quoc-dat-hai-giai-thuong-quoc-te-4959201.html) - 13:00 04/11/2025
 - 🪄 [Trung Quốc gia hạn miễn visa cho 45 nước](https://vnexpress.net/trung-quoc-gia-han-mien-visa-cho-45-nuoc-4959940.html) - 12:09 04/11/2025
-- 🦅 [&#39;Bản gốc&#39; của vương miện vàng Hàn Quốc tặng Tổng thống Trump](https://vnexpress.net/ban-goc-cua-vuong-mien-vang-han-quoc-tang-tong-thong-trump-4959701.html) - 12:00 04/11/2025
+- 🦅 [Món quà của Hàn Quốc tặng Tổng thống Trump quý giá thế nào](https://vnexpress.net/mon-qua-cua-han-quoc-tang-tong-thong-trump-quy-gia-the-nao-4959701.html) - 12:00 04/11/2025
 - 🕴 [Núi Bà Đen sắp vượt kỷ lục 5 triệu khách tham quan](https://vnexpress.net/nui-ba-den-sap-vuot-ky-luc-5-trieu-khach-tham-quan-4959673.html) - 09:30 04/11/2025
 - 👀 [Quán gà rán bán &#39;bàn tỷ phú&#39; Jensen Huang theo giờ](https://vnexpress.net/quan-ga-ran-ban-ban-ty-phu-jensen-huang-theo-gio-4959813.html) - 08:13 04/11/2025
 - 🎭 [Đoạn tường thành Huế đổ sụp do mưa lũ](https://vnexpress.net/doan-tuong-thanh-hue-do-sup-do-mua-lu-4959785.html) - 07:28 04/11/2025
