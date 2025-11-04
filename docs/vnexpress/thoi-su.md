@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Kalmaegi có thể mạnh cấp 14 khi vào vùng biển Đà Nẵng - Khánh Hòa](https://vnexpress.net/bao-kalmaegi-co-the-manh-cap-14-khi-vao-vung-bien-da-nang-khanh-hoa-4959910.html) - 11:00 04/11/2025
+- 🦒 [Bão có thể mạnh cấp 14 khi vào vùng biển Đà Nẵng - Khánh Hòa](https://vnexpress.net/bao-co-the-manh-cap-14-khi-vao-vung-bien-da-nang-khanh-hoa-4959910.html) - 11:00 04/11/2025
 - 🤓 [Tổng Bí thư: Không để người dân phải xin những thứ họ được hưởng](https://vnexpress.net/tong-bi-thu-khong-de-nguoi-dan-phai-xin-nhung-thu-ho-duoc-huong-4959803.html) - 10:01 04/11/2025
 - ⚗️ [Lập phương án chuyển giao đàn hổ ở Thanh Hóa cho vườn thú](https://vnexpress.net/lap-phuong-an-chuyen-giao-dan-ho-o-thanh-hoa-cho-vuon-thu-4959831.html) - 09:58 04/11/2025
 - 🌊 [Phó chánh án Nguyễn Quốc Đoàn làm Phó tổng Thanh tra Chính phủ](https://vnexpress.net/pho-chanh-an-nguyen-quoc-doan-lam-pho-tong-thanh-tra-chinh-phu-4959890.html) - 09:42 04/11/2025
