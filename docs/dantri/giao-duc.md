@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Ninh Bình nhiều ứng viên giáo sư, phó giáo sư nhất năm 2025](https://dantri.com.vn/giao-duc/ninh-binh-nhieu-ung-vien-giao-su-pho-giao-su-nhat-nam-2025-20251104094221353.htm) - 02:51 04/11/2025
+- 🤡 [Ninh Bình là quê của nhiều giáo sư, phó giáo sư đạt chuẩn năm 2025](https://dantri.com.vn/giao-duc/ninh-binh-la-que-cua-nhieu-giao-su-pho-giao-su-dat-chuan-nam-2025-20251104094221353.htm) - 02:51 04/11/2025
 - 🗽 [Lịch đăng ký và xét tuyển đại học 2026 sớm hơn 2 tuần](https://dantri.com.vn/giao-duc/lich-dang-ky-va-xet-tuyen-dai-hoc-2026-som-hon-2-tuan-20251104091309390.htm) - 02:21 04/11/2025
 - 🚦 [Top 11 đơn vị dẫn đầu số GS, PGS đạt chuẩn năm 2025, Bách khoa Hà Nội số 1](https://dantri.com.vn/giao-duc/top-11-don-vi-dan-dau-so-gs-pgs-dat-chuan-nam-2025-bach-khoa-ha-noi-so-1-20251104081613029.htm) - 01:34 04/11/2025
 - 🌋 [Công bố danh sách ứng viên giáo sư, phó giáo sư năm 2025 được thông qua](https://dantri.com.vn/giao-duc/cong-bo-danh-sach-ung-vien-giao-su-pho-giao-su-nam-2025-duoc-thong-qua-20251104063636901.htm) - 23:46 03/11/2025
