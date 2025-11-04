@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [6 phong cách mùa thu sao ngoại ưa chuộng](https://vnexpress.net/6-phong-cach-mua-thu-sao-ngoai-ua-chuong-4959424.html) - 17:05 03/11/2025
-- 💫 [Cuộc sống của vợ Đức Tiến và con gái ở Mỹ](https://vnexpress.net/cuoc-song-cua-vo-duc-tien-va-con-gai-o-my-4958597.html) - 17:00 03/11/2025
+- 💫 [Cuộc sống của vợ con diễn viên Đức Tiến ở Mỹ](https://vnexpress.net/cuoc-song-cua-vo-con-dien-vien-duc-tien-o-my-4958597.html) - 17:00 03/11/2025
 - 🌮 [Trùm phim kiếm hiệp: &#39;Tôi vẫn phải lo kiếm tiền nuôi con&#39;](https://vnexpress.net/trum-phim-kiem-hiep-toi-van-phai-lo-kiem-tien-nuoi-con-4959337.html) - 12:00 03/11/2025
 - 🧠 [Jennifer Aniston công khai bạn trai](https://vnexpress.net/jennifer-aniston-cong-khai-ban-trai-4959387.html) - 09:48 03/11/2025
 - 👨‍🏫 [Billie Eilish kêu gọi giới tỷ phú quyên góp nhiều hơn](https://vnexpress.net/billie-eilish-keu-goi-gioi-ty-phu-quyen-gop-nhieu-hon-4959087.html) - 09:22 03/11/2025
