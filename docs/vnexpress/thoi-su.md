@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bão Kalmaegi mạnh lên cấp 14, có thể gây mưa trên 600 mm](https://vnexpress.net/bao-kalmaegi-manh-len-cap-14-co-the-gay-mua-tren-600-mm-4960284.html) - 09:30 05/11/2025
-- 🤓 [Thu hoạch tôm hùm &#39;chạy bão&#39;](https://vnexpress.net/thu-hoach-tom-hum-chay-bao-4960210.html) - 09:28 05/11/2025
+- 🤓 [Thủ phủ tôm hùm thu hoạch &#39;chạy bão&#39;](https://vnexpress.net/thu-phu-tom-hum-thu-hoach-chay-bao-4960210.html) - 09:28 05/11/2025
 - ⚗️ [Cháy trường mầm non ở Đồng Nai](https://vnexpress.net/chay-truong-mam-non-o-dong-nai-4960383.html) - 09:18 05/11/2025
 - 🌊 [Thanh Hóa bổ nhiệm loạt giám đốc sở, ngành](https://vnexpress.net/thanh-hoa-bo-nhiem-loat-giam-doc-so-nganh-4960364.html) - 09:01 05/11/2025
 - 🎓 [Hồng hạc ở Thảo Cầm Viên sinh con tự nhiên sau 20 năm](https://vnexpress.net/hong-hac-o-thao-cam-vien-sinh-con-tu-nhien-sau-20-nam-4960245.html) - 08:49 05/11/2025
