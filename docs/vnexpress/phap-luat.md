@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Chủ tịch Bất động sản Nhật Nam bị truy tố rửa tiền, lừa hàng chục nghìn khách hàng](https://vnexpress.net/chu-tich-bat-dong-san-nhat-nam-bi-truy-to-rua-tien-lua-hang-chuc-nghin-khach-hang-4959932.html) - 11:15 04/11/2025
 - 🎊 [Đại gia đánh bạc 16,3 triệu USD bị đề nghị hơn 4 năm tù](https://vnexpress.net/dai-gia-danh-bac-16-3-trieu-usd-bi-de-nghi-hon-4-nam-tu-4959397.html) - 08:10 04/11/2025
 - 🙉 [Nam sinh được băng lừa đảo thả, cho tiền về nhà](https://vnexpress.net/nam-sinh-duoc-bang-lua-dao-tha-cho-tien-ve-nha-4959730.html) - 06:56 04/11/2025
-- 🤡 [Phạm tội tham nhũng vì &#39;dám đổi mới, đột phá&#39; có thể được miễn hình phạt](https://vnexpress.net/pham-toi-tham-nhung-vi-dam-doi-moi-dot-pha-co-the-duoc-mien-hinh-phat-4959727.html) - 06:49 04/11/2025
+- 🤡 [Phạm tội vì &#39;dám đổi mới, không vụ lợi&#39; có thể được miễn hình phạt](https://vnexpress.net/pham-toi-vi-dam-doi-moi-khong-vu-loi-co-the-duoc-mien-hinh-phat-4959727.html) - 06:49 04/11/2025
 - 🗽 [Bài học từ vụ bị lừa 1,5 tỷ đồng khi mua nhà qua vi bằng](https://vnexpress.net/bai-hoc-tu-vu-bi-lua-1-5-ty-dong-khi-mua-nha-qua-vi-bang-4959709.html) - 06:10 04/11/2025
 - 🌋 [Tự vệ làm chết người khi dưới 18 tuổi, có bị phạt tù?](https://vnexpress.net/tu-ve-lam-chet-nguoi-khi-duoi-18-tuoi-co-bi-phat-tu-4956251.html) - 03:52 04/11/2025
 - 🎬 [Hỗn chiến giữa phố ngập lụt](https://vnexpress.net/hon-chien-giua-pho-ngap-lut-4959516.html) - 00:54 04/11/2025
