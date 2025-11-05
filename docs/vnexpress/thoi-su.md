@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão mạnh cấp 12 dự báo đổ bộ Quảng Ngãi - Gia Lai](https://vnexpress.net/bao-manh-cap-12-du-bao-do-bo-quang-ngai-gia-lai-4960471.html) - 14:10 05/11/2025
-- 🤓 [Chính phủ muốn ưu tiên quỹ đất sạch và trụ sở dôi dư để xây trường](https://vnexpress.net/chinh-phu-muon-uu-tien-quy-dat-sach-va-tru-so-doi-du-de-xay-truong-4960463.html) - 13:36 05/11/2025
-- ⚗️ [Nhiều đường TP HCM &#39;tê liệt&#39; do triều cường lớn nhất năm](https://vnexpress.net/nhieu-duong-tp-hcm-te-liet-do-trieu-cuong-lon-nhat-nam-4960469.html) - 13:33 05/11/2025
-- 🌊 [Người miền Trung gia cố cửa kính, mái nhà trước bão Kalmaegi](https://vnexpress.net/nguoi-mien-trung-gia-co-cua-kinh-mai-nha-truoc-bao-kalmaegi-4960242.html) - 13:07 05/11/2025
-- 🎓 [Đề xuất tăng lương cho người có sáng kiến chống lãng phí](https://vnexpress.net/de-xuat-tang-luong-cho-nguoi-co-sang-kien-chong-lang-phi-4960403.html) - 12:53 05/11/2025
-- 🔥 [Giới thiệu nhân sự tham gia Bộ Chính trị, Ban Bí thư khóa 14](https://vnexpress.net/gioi-thieu-nhan-su-tham-gia-bo-chinh-tri-ban-bi-thu-khoa-14-4960451.html) - 11:35 05/11/2025
-- 🦏 [Trung ương giới thiệu nhân sự bầu Chánh án, Phó chủ tịch Quốc hội](https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-bau-chanh-an-pho-chu-tich-quoc-hoi-4960381.html) - 11:13 05/11/2025
-- 👺 [Tiểu sử tân Chủ nhiệm Ủy ban Kiểm tra Trung ương Trần Sỹ Thanh](https://vnexpress.net/tieu-su-tan-chu-nhiem-uy-ban-kiem-tra-trung-uong-tran-sy-thanh-4960073.html) - 10:57 05/11/2025
-- 🧑‍🏫 [Ông Trần Sỹ Thanh làm Chủ nhiệm Ủy ban Kiểm tra Trung ương](https://vnexpress.net/ong-tran-sy-thanh-lam-chu-nhiem-uy-ban-kiem-tra-trung-uong-4959204.html) - 10:55 05/11/2025
-- 🚦 [Bão Kalmaegi mạnh lên cấp 14, có thể gây mưa trên 600 mm](https://vnexpress.net/bao-kalmaegi-manh-len-cap-14-co-the-gay-mua-tren-600-mm-4960284.html) - 09:30 05/11/2025
-- 🎉 [Thủ phủ tôm hùm thu hoạch &#39;chạy bão&#39;](https://vnexpress.net/thu-phu-tom-hum-thu-hoach-chay-bao-4960210.html) - 09:28 05/11/2025
-- 🦒 [Cháy trường mầm non ở Đồng Nai](https://vnexpress.net/chay-truong-mam-non-o-dong-nai-4960383.html) - 09:18 05/11/2025
-- 🤗 [Thanh Hóa bổ nhiệm loạt giám đốc sở, ngành](https://vnexpress.net/thanh-hoa-bo-nhiem-loat-giam-doc-so-nganh-4960364.html) - 09:01 05/11/2025
-- 💼 [Hồng hạc ở Thảo Cầm Viên sinh con tự nhiên sau 20 năm](https://vnexpress.net/hong-hac-o-thao-cam-vien-sinh-con-tu-nhien-sau-20-nam-4960245.html) - 08:49 05/11/2025
-- 🤩 [Quân y Việt Nam - Campuchia lần đầu diễn tập ứng phó thảm họa thiên tai](https://vnexpress.net/quan-y-viet-nam-campuchia-lan-dau-dien-tap-ung-pho-tham-hoa-thien-tai-4960255.html) - 08:21 05/11/2025
-- 🤡 [Xe cẩu 40 tấn lật ở giao lộ TP HCM](https://vnexpress.net/xe-cau-40-tan-lat-o-giao-lo-tp-hcm-4960341.html) - 08:21 05/11/2025
-- 💯 [Ứng phó bão Kalmaegi với tinh thần &#39;khẩn cấp hơn&#39;](https://vnexpress.net/ung-pho-bao-kalmaegi-voi-tinh-than-khan-cap-hon-4960205.html) - 07:29 05/11/2025
-- 👺 [TP HCM sẽ mở rộng đường ven kênh Tẻ gấp ba lần](https://vnexpress.net/tp-hcm-se-mo-rong-duong-ven-kenh-te-gap-ba-lan-4960224.html) - 06:04 05/11/2025
-- 🌮 [Đường lên đỉnh núi Bạch Mã bị chia cắt](https://vnexpress.net/duong-len-dinh-nui-bach-ma-bi-chia-cat-4960233.html) - 05:20 05/11/2025
-- 🥸 [&#39;Khó thu hút chuyên gia nước ngoài nếu họ phải kê khai tài sản&#39;](https://vnexpress.net/kho-thu-hut-chuyen-gia-nuoc-ngoai-neu-ho-phai-ke-khai-tai-san-4960208.html) - 05:12 05/11/2025
-- 🐻 [Cuộc chiến cân não ở &#39;rốn lũ&#39; miền Trung](https://vnexpress.net/cuoc-chien-can-nao-o-ron-lu-mien-trung-4960029.html) - 05:07 05/11/2025
-- 👀 [Sở hữu trí tuệ &#39;quyết định sự sống còn của doanh nghiệp&#39;](https://vnexpress.net/so-huu-tri-tue-quyet-dinh-su-song-con-cua-doanh-nghiep-4960143.html) - 05:03 05/11/2025
-- 🤔 [Sắp khởi công 5 nhà ga trên tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng](https://vnexpress.net/sap-khoi-cong-5-nha-ga-tren-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-4960152.html) - 04:53 05/11/2025
-- 🕯 [Hải quân Trường Sa, biên phòng cấp tập cùng ngư dân chống bão Kalmaegi](https://vnexpress.net/hai-quan-truong-sa-bien-phong-cap-tap-cung-ngu-dan-chong-bao-kalmaegi-4960149.html) - 04:28 05/11/2025
-- 😺 [Lâm Đồng buộc doanh nghiệp phá đập tích nước 5 hồ trên núi](https://vnexpress.net/lam-dong-buoc-doanh-nghiep-pha-dap-tich-nuoc-5-ho-tren-nui-4960192.html) - 04:08 05/11/2025
-- 🦆 [Quân đội giúp khắc phục sạt lở bờ biển](https://vnexpress.net/quan-doi-giup-khac-phuc-sat-lo-bo-bien-4960031.html) - 03:30 05/11/2025
-- 🧰 [Tổng Bí thư: Chọn nhân sự Bộ Chính trị khóa 14 với &#39;5 điểm cộng&#39;](https://vnexpress.net/tong-bi-thu-chon-nhan-su-bo-chinh-tri-khoa-14-voi-5-diem-cong-4960095.html) - 02:54 05/11/2025
-- 🦍 [Khai mạc Hội nghị Trung ương 14](https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-14-4960072.html) - 02:02 05/11/2025
-- 🧰 [Lửa thiêu rụi 86 ki-ốt trong chợ ở Gia Lai](https://vnexpress.net/lua-thieu-rui-86-ki-ot-trong-cho-o-gia-lai-4960028.html) - 01:01 05/11/2025
-- 💃 [Hà Nội thay đổi phương án bổ cập nước cho sông Tô Lịch](https://vnexpress.net/ha-noi-thay-doi-phuong-an-bo-cap-nuoc-cho-song-to-lich-4959988.html) - 00:03 05/11/2025
-- 🧰 [Cứu tài xế mắc kẹt trong cabin sau tai nạn trên đèo Bảo Lộc](https://vnexpress.net/tai-nan-deo-bao-loc-4960012.html) - 23:20 04/11/2025
-- 🚀 [Bão Kalmaegi vào Biển Đông mạnh cấp 13](https://vnexpress.net/bao-kalmaegi-vao-bien-dong-manh-cap-13-4960011.html) - 23:16 04/11/2025
-- 🎊 [Xe máy chạy xăng sẽ được cải tạo sang điện thế nào](https://vnexpress.net/xe-may-chay-xang-se-duoc-cai-tao-sang-dien-the-nao-4959772.html) - 23:00 04/11/2025
-- 🤭 [Trang trại trên núi tan hoang sau vỡ hồ nước](https://vnexpress.net/trang-trai-tren-nui-tan-hoang-sau-vo-ho-nuoc-4959963.html) - 22:00 04/11/2025
-- 🤗 [Quá trình công tác của Trưởng ban Tuyên giáo và Dân vận Trung ương Trịnh Văn Quyết](https://vnexpress.net/qua-trinh-cong-tac-cua-truong-ban-tuyen-giao-va-dan-van-trung-uong-trinh-van-quyet-4959975.html) - 17:00 04/11/2025
-- 🌈 [Tiểu sử đại tướng Nguyễn Trọng Nghĩa - Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam](https://vnexpress.net/tieu-su-dai-tuong-nguyen-trong-nghia-chu-nhiem-tong-cuc-chinh-tri-quan-doi-nhan-dan-viet-nam-4959699.html) - 17:00 04/11/2025
-- 🦣 [64 lao động trốn thoát từ cơ sở lừa đảo Campuchia](https://vnexpress.net/64-lao-dong-tron-thoat-tu-co-so-lua-dao-campuchia-4959976.html) - 14:59 04/11/2025
-- 🎡 [Các thủy điện hạ mức nước đón lũ trước bão Kalmaegi](https://vnexpress.net/cac-thuy-dien-ha-muc-nuoc-don-lu-truoc-bao-kalmaegi-4959953.html) - 13:50 04/11/2025
-- 🦏 [Bão có thể mạnh cấp 14 khi vào vùng biển Đà Nẵng - Khánh Hòa](https://vnexpress.net/bao-co-the-manh-cap-14-khi-vao-vung-bien-da-nang-khanh-hoa-4959910.html) - 11:00 04/11/2025
-- 🎊 [Tổng Bí thư: Không để người dân phải xin những thứ họ được hưởng](https://vnexpress.net/tong-bi-thu-khong-de-nguoi-dan-phai-xin-nhung-thu-ho-duoc-huong-4959803.html) - 10:01 04/11/2025
-- 🫶 [Lập phương án chuyển giao đàn hổ ở Thanh Hóa cho vườn thú](https://vnexpress.net/lap-phuong-an-chuyen-giao-dan-ho-o-thanh-hoa-cho-vuon-thu-4959831.html) - 09:58 04/11/2025
-- 🤔 [Phó chánh án Nguyễn Quốc Đoàn làm Phó tổng Thanh tra Chính phủ](https://vnexpress.net/pho-chanh-an-nguyen-quoc-doan-lam-pho-tong-thanh-tra-chinh-phu-4959890.html) - 09:42 04/11/2025
-- 🤠 [CSGT đồng loạt xử lý học sinh không đủ điều kiện đi xe máy](https://vnexpress.net/csgt-dong-loat-xu-ly-hoc-sinh-khong-du-dieu-kien-di-xe-may-4959824.html) - 09:20 04/11/2025
-- 🌜 [Ông Nguyễn Văn Quảng làm Bí thư Đảng ủy Tòa án nhân dân Tối cao](https://vnexpress.net/ong-nguyen-van-quang-lam-bi-thu-dang-uy-toa-an-nhan-dan-toi-cao-4959619.html) - 08:58 04/11/2025
-- 🕯 [Hải Phòng dôi dư gần 700 trụ sở công](https://vnexpress.net/hai-phong-doi-du-gan-700-tru-so-cong-4959817.html) - 08:40 04/11/2025
-- 🤔 [Dọn khu &#39;biệt thự Chú Hỏa&#39; để làm đài tưởng niệm](https://vnexpress.net/don-khu-biet-thu-chu-hoa-de-lam-dai-tuong-niem-4959767.html) - 07:45 04/11/2025
-- 🏊 [Kiến nghị tăng giá trị tài sản phải kê khai lên 150 triệu đồng](https://vnexpress.net/kien-nghi-tang-gia-tri-tai-san-phai-ke-khai-len-150-trieu-dong-4959774.html) - 07:20 04/11/2025
-- 🌮 [Đề xuất thăm dò, khai thác đất hiếm phải được Nhà nước chỉ định](https://vnexpress.net/de-xuat-tham-do-khai-thac-dat-hiem-phai-duoc-nha-nuoc-chi-dinh-4959599.html) - 06:19 04/11/2025
-- 🫣 [Hai Thứ trưởng Quốc phòng được thăng quân hàm thượng tướng](https://vnexpress.net/hai-thu-truong-quoc-phong-duoc-thang-quan-ham-thuong-tuong-4959759.html) - 06:04 04/11/2025
-- ⚗️ [Chủ hồ nước bị vỡ trên núi: &#39;Sự cố do thiên tai&#39;](https://vnexpress.net/chu-ho-nuoc-bi-vo-tren-nui-su-co-do-thien-tai-4959495.html) - 04:52 04/11/2025
-- 🌜 [Lũ miền Trung đang xuống, còn gần 80.000 nhà ngập](https://vnexpress.net/lu-mien-trung-dang-xuong-con-gan-80-000-nha-ngap-4959647.html) - 04:38 04/11/2025
-- 🌁 [Ông Nguyễn Duy Ngọc: &#39;Tôi sẽ làm hết sức mình vì Thủ đô&#39;](https://vnexpress.net/ong-nguyen-duy-ngoc-toi-se-lam-het-suc-minh-vi-thu-do-4959718.html) - 04:19 04/11/2025
-- 🐲 [Chánh án Lê Minh Trí làm Phó ban Nội chính Trung ương](https://vnexpress.net/chanh-an-le-minh-tri-lam-pho-ban-noi-chinh-trung-uong-4959585.html) - 04:02 04/11/2025
-- ⛽️ [Đại tướng Trịnh Văn Quyết làm Trưởng ban Tuyên giáo và Dân vận Trung ương](https://vnexpress.net/dai-tuong-trinh-van-quyet-lam-truong-ban-tuyen-giao-va-dan-van-trung-uong-4959610.html) - 03:59 04/11/2025
-- 🗽 [Đại tướng Nguyễn Trọng Nghĩa giữ chức Chủ nhiệm Tổng cục Chính trị](https://vnexpress.net/dai-tuong-nguyen-trong-nghia-giu-chuc-chu-nhiem-tong-cuc-chinh-tri-4959560.html) - 03:55 04/11/2025
-- 🔥 [Vì sao năm nay lạnh sớm?](https://vnexpress.net/vi-sao-nam-nay-lanh-som-4959492.html) - 03:31 04/11/2025
-- 💯 [Tiểu sử tân Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc](https://vnexpress.net/tieu-su-tan-bi-thu-thanh-uy-ha-noi-nguyen-duy-ngoc-4959594.html) - 02:44 04/11/2025
-- 🦆 [Ông Nguyễn Duy Ngọc giữ chức Bí thư Thành ủy Hà Nội](https://vnexpress.net/ong-nguyen-duy-ngoc-giu-chuc-bi-thu-thanh-uy-ha-noi-4959493.html) - 02:36 04/11/2025
-- 🫣 [Bà Bùi Thị Minh Hoài làm Bí thư Đảng ủy Mặt trận Tổ quốc](https://vnexpress.net/ba-bui-thi-minh-hoai-lam-bi-thu-dang-uy-mat-tran-to-quoc-4959120.html) - 02:01 04/11/2025
-- 🤡 [Ông Đỗ Văn Chiến làm Phó bí thư thường trực Đảng ủy Quốc hội](https://vnexpress.net/ong-do-van-chien-lam-pho-bi-thu-thuong-truc-dang-uy-quoc-hoi-4959199.html) - 01:42 04/11/2025<!-- vnexpress-thoi-su:END -->
+- 🦒 [Hủy nhiều chuyến bay đến miền Trung](https://vnexpress.net/huy-nhieu-chuyen-bay-den-mien-trung-4960474.html) - 14:27 05/11/2025
+- 🤓 [Bão Kalmaegi dự báo đổ bộ Quảng Ngãi - Gia Lai](https://vnexpress.net/bao-kalmaegi-du-bao-do-bo-quang-ngai-gia-lai-4960471.html) - 14:10 05/11/2025
+- ⚗️ [Chính phủ muốn ưu tiên quỹ đất sạch và trụ sở dôi dư để xây trường](https://vnexpress.net/chinh-phu-muon-uu-tien-quy-dat-sach-va-tru-so-doi-du-de-xay-truong-4960463.html) - 13:36 05/11/2025
+- 🌊 [Nhiều đường TP HCM &#39;tê liệt&#39; do triều cường lớn nhất năm](https://vnexpress.net/nhieu-duong-tp-hcm-te-liet-do-trieu-cuong-lon-nhat-nam-4960469.html) - 13:33 05/11/2025
+- 🎓 [Người miền Trung gia cố cửa kính, mái nhà trước bão Kalmaegi](https://vnexpress.net/nguoi-mien-trung-gia-co-cua-kinh-mai-nha-truoc-bao-kalmaegi-4960242.html) - 13:07 05/11/2025
+- 🔥 [Đề xuất tăng lương cho người có sáng kiến chống lãng phí](https://vnexpress.net/de-xuat-tang-luong-cho-nguoi-co-sang-kien-chong-lang-phi-4960403.html) - 12:53 05/11/2025
+- 🦏 [Giới thiệu nhân sự tham gia Bộ Chính trị, Ban Bí thư khóa 14](https://vnexpress.net/gioi-thieu-nhan-su-tham-gia-bo-chinh-tri-ban-bi-thu-khoa-14-4960451.html) - 11:35 05/11/2025
+- 👺 [Trung ương giới thiệu nhân sự bầu Chánh án, Phó chủ tịch Quốc hội](https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-bau-chanh-an-pho-chu-tich-quoc-hoi-4960381.html) - 11:13 05/11/2025
+- 🧑‍🏫 [Tiểu sử tân Chủ nhiệm Ủy ban Kiểm tra Trung ương Trần Sỹ Thanh](https://vnexpress.net/tieu-su-tan-chu-nhiem-uy-ban-kiem-tra-trung-uong-tran-sy-thanh-4960073.html) - 10:57 05/11/2025
+- 🚦 [Ông Trần Sỹ Thanh làm Chủ nhiệm Ủy ban Kiểm tra Trung ương](https://vnexpress.net/ong-tran-sy-thanh-lam-chu-nhiem-uy-ban-kiem-tra-trung-uong-4959204.html) - 10:55 05/11/2025
+- 🎉 [Bão Kalmaegi mạnh lên cấp 14, có thể gây mưa trên 600 mm](https://vnexpress.net/bao-kalmaegi-manh-len-cap-14-co-the-gay-mua-tren-600-mm-4960284.html) - 09:30 05/11/2025
+- 🦒 [Thủ phủ tôm hùm thu hoạch &#39;chạy bão&#39;](https://vnexpress.net/thu-phu-tom-hum-thu-hoach-chay-bao-4960210.html) - 09:28 05/11/2025
+- 🤗 [Cháy trường mầm non ở Đồng Nai](https://vnexpress.net/chay-truong-mam-non-o-dong-nai-4960383.html) - 09:18 05/11/2025
+- 💼 [Thanh Hóa bổ nhiệm loạt giám đốc sở, ngành](https://vnexpress.net/thanh-hoa-bo-nhiem-loat-giam-doc-so-nganh-4960364.html) - 09:01 05/11/2025
+- 🤩 [Hồng hạc ở Thảo Cầm Viên sinh con tự nhiên sau 20 năm](https://vnexpress.net/hong-hac-o-thao-cam-vien-sinh-con-tu-nhien-sau-20-nam-4960245.html) - 08:49 05/11/2025
+- 🤡 [Quân y Việt Nam - Campuchia lần đầu diễn tập ứng phó thảm họa thiên tai](https://vnexpress.net/quan-y-viet-nam-campuchia-lan-dau-dien-tap-ung-pho-tham-hoa-thien-tai-4960255.html) - 08:21 05/11/2025
+- 💯 [Xe cẩu 40 tấn lật ở giao lộ TP HCM](https://vnexpress.net/xe-cau-40-tan-lat-o-giao-lo-tp-hcm-4960341.html) - 08:21 05/11/2025
+- 👺 [Ứng phó bão Kalmaegi với tinh thần &#39;khẩn cấp hơn&#39;](https://vnexpress.net/ung-pho-bao-kalmaegi-voi-tinh-than-khan-cap-hon-4960205.html) - 07:29 05/11/2025
+- 🌮 [TP HCM sẽ mở rộng đường ven kênh Tẻ gấp ba lần](https://vnexpress.net/tp-hcm-se-mo-rong-duong-ven-kenh-te-gap-ba-lan-4960224.html) - 06:04 05/11/2025
+- 🥸 [Đường lên đỉnh núi Bạch Mã bị chia cắt](https://vnexpress.net/duong-len-dinh-nui-bach-ma-bi-chia-cat-4960233.html) - 05:20 05/11/2025
+- 🐻 [&#39;Khó thu hút chuyên gia nước ngoài nếu họ phải kê khai tài sản&#39;](https://vnexpress.net/kho-thu-hut-chuyen-gia-nuoc-ngoai-neu-ho-phai-ke-khai-tai-san-4960208.html) - 05:12 05/11/2025
+- 👀 [Cuộc chiến cân não ở &#39;rốn lũ&#39; miền Trung](https://vnexpress.net/cuoc-chien-can-nao-o-ron-lu-mien-trung-4960029.html) - 05:07 05/11/2025
+- 🤔 [Sở hữu trí tuệ &#39;quyết định sự sống còn của doanh nghiệp&#39;](https://vnexpress.net/so-huu-tri-tue-quyet-dinh-su-song-con-cua-doanh-nghiep-4960143.html) - 05:03 05/11/2025
+- 🕯 [Sắp khởi công 5 nhà ga trên tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng](https://vnexpress.net/sap-khoi-cong-5-nha-ga-tren-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-4960152.html) - 04:53 05/11/2025
+- 😺 [Hải quân Trường Sa, biên phòng cấp tập cùng ngư dân chống bão Kalmaegi](https://vnexpress.net/hai-quan-truong-sa-bien-phong-cap-tap-cung-ngu-dan-chong-bao-kalmaegi-4960149.html) - 04:28 05/11/2025
+- 🦆 [Lâm Đồng buộc doanh nghiệp phá đập tích nước 5 hồ trên núi](https://vnexpress.net/lam-dong-buoc-doanh-nghiep-pha-dap-tich-nuoc-5-ho-tren-nui-4960192.html) - 04:08 05/11/2025
+- 🧰 [Quân đội giúp khắc phục sạt lở bờ biển](https://vnexpress.net/quan-doi-giup-khac-phuc-sat-lo-bo-bien-4960031.html) - 03:30 05/11/2025
+- 🦍 [Tổng Bí thư: Chọn nhân sự Bộ Chính trị khóa 14 với &#39;5 điểm cộng&#39;](https://vnexpress.net/tong-bi-thu-chon-nhan-su-bo-chinh-tri-khoa-14-voi-5-diem-cong-4960095.html) - 02:54 05/11/2025
+- 🧰 [Khai mạc Hội nghị Trung ương 14](https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-14-4960072.html) - 02:02 05/11/2025
+- 💃 [Lửa thiêu rụi 86 ki-ốt trong chợ ở Gia Lai](https://vnexpress.net/lua-thieu-rui-86-ki-ot-trong-cho-o-gia-lai-4960028.html) - 01:01 05/11/2025
+- 🧰 [Hà Nội thay đổi phương án bổ cập nước cho sông Tô Lịch](https://vnexpress.net/ha-noi-thay-doi-phuong-an-bo-cap-nuoc-cho-song-to-lich-4959988.html) - 00:03 05/11/2025
+- 🚀 [Cứu tài xế mắc kẹt trong cabin sau tai nạn trên đèo Bảo Lộc](https://vnexpress.net/tai-nan-deo-bao-loc-4960012.html) - 23:20 04/11/2025
+- 🎊 [Bão Kalmaegi vào Biển Đông mạnh cấp 13](https://vnexpress.net/bao-kalmaegi-vao-bien-dong-manh-cap-13-4960011.html) - 23:16 04/11/2025
+- 🤭 [Xe máy chạy xăng sẽ được cải tạo sang điện thế nào](https://vnexpress.net/xe-may-chay-xang-se-duoc-cai-tao-sang-dien-the-nao-4959772.html) - 23:00 04/11/2025
+- 🤗 [Trang trại trên núi tan hoang sau vỡ hồ nước](https://vnexpress.net/trang-trai-tren-nui-tan-hoang-sau-vo-ho-nuoc-4959963.html) - 22:00 04/11/2025
+- 🌈 [Quá trình công tác của Trưởng ban Tuyên giáo và Dân vận Trung ương Trịnh Văn Quyết](https://vnexpress.net/qua-trinh-cong-tac-cua-truong-ban-tuyen-giao-va-dan-van-trung-uong-trinh-van-quyet-4959975.html) - 17:00 04/11/2025
+- 🦣 [Tiểu sử đại tướng Nguyễn Trọng Nghĩa - Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam](https://vnexpress.net/tieu-su-dai-tuong-nguyen-trong-nghia-chu-nhiem-tong-cuc-chinh-tri-quan-doi-nhan-dan-viet-nam-4959699.html) - 17:00 04/11/2025
+- 🎡 [64 lao động trốn thoát từ cơ sở lừa đảo Campuchia](https://vnexpress.net/64-lao-dong-tron-thoat-tu-co-so-lua-dao-campuchia-4959976.html) - 14:59 04/11/2025
+- 🦏 [Các thủy điện hạ mức nước đón lũ trước bão Kalmaegi](https://vnexpress.net/cac-thuy-dien-ha-muc-nuoc-don-lu-truoc-bao-kalmaegi-4959953.html) - 13:50 04/11/2025
+- 🎊 [Bão có thể mạnh cấp 14 khi vào vùng biển Đà Nẵng - Khánh Hòa](https://vnexpress.net/bao-co-the-manh-cap-14-khi-vao-vung-bien-da-nang-khanh-hoa-4959910.html) - 11:00 04/11/2025
+- 🫶 [Tổng Bí thư: Không để người dân phải xin những thứ họ được hưởng](https://vnexpress.net/tong-bi-thu-khong-de-nguoi-dan-phai-xin-nhung-thu-ho-duoc-huong-4959803.html) - 10:01 04/11/2025
+- 🤔 [Lập phương án chuyển giao đàn hổ ở Thanh Hóa cho vườn thú](https://vnexpress.net/lap-phuong-an-chuyen-giao-dan-ho-o-thanh-hoa-cho-vuon-thu-4959831.html) - 09:58 04/11/2025
+- 🤠 [Phó chánh án Nguyễn Quốc Đoàn làm Phó tổng Thanh tra Chính phủ](https://vnexpress.net/pho-chanh-an-nguyen-quoc-doan-lam-pho-tong-thanh-tra-chinh-phu-4959890.html) - 09:42 04/11/2025
+- 🌜 [CSGT đồng loạt xử lý học sinh không đủ điều kiện đi xe máy](https://vnexpress.net/csgt-dong-loat-xu-ly-hoc-sinh-khong-du-dieu-kien-di-xe-may-4959824.html) - 09:20 04/11/2025
+- 🕯 [Ông Nguyễn Văn Quảng làm Bí thư Đảng ủy Tòa án nhân dân Tối cao](https://vnexpress.net/ong-nguyen-van-quang-lam-bi-thu-dang-uy-toa-an-nhan-dan-toi-cao-4959619.html) - 08:58 04/11/2025
+- 🤔 [Hải Phòng dôi dư gần 700 trụ sở công](https://vnexpress.net/hai-phong-doi-du-gan-700-tru-so-cong-4959817.html) - 08:40 04/11/2025
+- 🏊 [Dọn khu &#39;biệt thự Chú Hỏa&#39; để làm đài tưởng niệm](https://vnexpress.net/don-khu-biet-thu-chu-hoa-de-lam-dai-tuong-niem-4959767.html) - 07:45 04/11/2025
+- 🌮 [Kiến nghị tăng giá trị tài sản phải kê khai lên 150 triệu đồng](https://vnexpress.net/kien-nghi-tang-gia-tri-tai-san-phai-ke-khai-len-150-trieu-dong-4959774.html) - 07:20 04/11/2025
+- 🫣 [Đề xuất thăm dò, khai thác đất hiếm phải được Nhà nước chỉ định](https://vnexpress.net/de-xuat-tham-do-khai-thac-dat-hiem-phai-duoc-nha-nuoc-chi-dinh-4959599.html) - 06:19 04/11/2025
+- ⚗️ [Hai Thứ trưởng Quốc phòng được thăng quân hàm thượng tướng](https://vnexpress.net/hai-thu-truong-quoc-phong-duoc-thang-quan-ham-thuong-tuong-4959759.html) - 06:04 04/11/2025
+- 🌜 [Chủ hồ nước bị vỡ trên núi: &#39;Sự cố do thiên tai&#39;](https://vnexpress.net/chu-ho-nuoc-bi-vo-tren-nui-su-co-do-thien-tai-4959495.html) - 04:52 04/11/2025
+- 🌁 [Lũ miền Trung đang xuống, còn gần 80.000 nhà ngập](https://vnexpress.net/lu-mien-trung-dang-xuong-con-gan-80-000-nha-ngap-4959647.html) - 04:38 04/11/2025
+- 🐲 [Ông Nguyễn Duy Ngọc: &#39;Tôi sẽ làm hết sức mình vì Thủ đô&#39;](https://vnexpress.net/ong-nguyen-duy-ngoc-toi-se-lam-het-suc-minh-vi-thu-do-4959718.html) - 04:19 04/11/2025
+- ⛽️ [Chánh án Lê Minh Trí làm Phó ban Nội chính Trung ương](https://vnexpress.net/chanh-an-le-minh-tri-lam-pho-ban-noi-chinh-trung-uong-4959585.html) - 04:02 04/11/2025
+- 🗽 [Đại tướng Trịnh Văn Quyết làm Trưởng ban Tuyên giáo và Dân vận Trung ương](https://vnexpress.net/dai-tuong-trinh-van-quyet-lam-truong-ban-tuyen-giao-va-dan-van-trung-uong-4959610.html) - 03:59 04/11/2025
+- 🔥 [Đại tướng Nguyễn Trọng Nghĩa giữ chức Chủ nhiệm Tổng cục Chính trị](https://vnexpress.net/dai-tuong-nguyen-trong-nghia-giu-chuc-chu-nhiem-tong-cuc-chinh-tri-4959560.html) - 03:55 04/11/2025
+- 💯 [Vì sao năm nay lạnh sớm?](https://vnexpress.net/vi-sao-nam-nay-lanh-som-4959492.html) - 03:31 04/11/2025
+- 🦆 [Tiểu sử tân Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc](https://vnexpress.net/tieu-su-tan-bi-thu-thanh-uy-ha-noi-nguyen-duy-ngoc-4959594.html) - 02:44 04/11/2025
+- 🫣 [Ông Nguyễn Duy Ngọc giữ chức Bí thư Thành ủy Hà Nội](https://vnexpress.net/ong-nguyen-duy-ngoc-giu-chuc-bi-thu-thanh-uy-ha-noi-4959493.html) - 02:36 04/11/2025
+- 🤡 [Bà Bùi Thị Minh Hoài làm Bí thư Đảng ủy Mặt trận Tổ quốc](https://vnexpress.net/ba-bui-thi-minh-hoai-lam-bi-thu-dang-uy-mat-tran-to-quoc-4959120.html) - 02:01 04/11/2025<!-- vnexpress-thoi-su:END -->
