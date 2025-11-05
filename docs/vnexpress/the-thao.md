@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Haaland: &#39;VAR giúp đỡ tôi&#39;](https://vnexpress.net/haaland-var-giup-do-toi-4960248.html) - 14:56 05/11/2025
-- 🦩 [Nam Định mất phạt đền trước CLB Nhật Bản ở C2 châu Á](https://vnexpress.net/nam-dinh-mat-phat-den-truoc-clb-nhat-ban-o-c2-chau-a-4960498.html) - 14:52 05/11/2025
+- 🦩 [Nam Định mất oan phạt đền ở Cup C2 châu Á](https://vnexpress.net/nam-dinh-mat-oan-phat-den-o-cup-c2-chau-a-4960498.html) - 14:52 05/11/2025
 - 🧰 [CLB TP HCM lần đầu thắng trên sân nhà ở V-League](https://vnexpress.net/clb-tp-hcm-lan-dau-thang-tren-san-nha-o-v-league-4960475.html) - 13:52 05/11/2025
 - 🤗 [Quang Liêm vào vòng ba World Cup cờ vua](https://vnexpress.net/quang-liem-vao-vong-ba-world-cup-co-vua-4960470.html) - 13:42 05/11/2025
 - 🥳 [Cầu thủ đột nhiên co giật ở giải hạng Ba Quốc gia 2025](https://vnexpress.net/cau-thu-dot-nhien-co-giat-o-giai-hang-ba-quoc-gia-2025-4960457.html) - 11:58 05/11/2025
