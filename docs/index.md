@@ -155,7 +155,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Hiến kế cho công viên đài tưởng niệm nạn nhân Covid-19 tại TP.HCM](https://thanhnien.vn/hien-ke-cho-cong-vien-dai-tuong-niem-nan-nhan-covid-19-tai-tphcm-185251105215934067.htm) - 23:00 05/11/2025
 - 💼 [Triều cường dâng cao, người dân Bình Quới lo xe chết máy: ‘Không dám về nhà’](https://thanhnien.vn/trieu-cuong-dang-cao-nguoi-dan-binh-quoi-lo-xe-chet-may-khong-dam-ve-nha-185251105212131702.htm) - 23:00 05/11/2025
 - 🐻 [Cầu nối cho tương lai và hiểu biết sâu sắc hơn giữa hai dân tộc](https://thanhnien.vn/cau-noi-cho-tuong-lai-va-hieu-biet-sau-sac-hon-giua-hai-dan-toc-18525110520264882.htm) - 23:00 05/11/2025
-- 🤔 [Bên trong khu &#39;đất vàng&#39; ở TP.HCM nơi có 7 biệt thự kiến trúc Pháp](https://thanhnien.vn/ben-trong-khu-dat-vang-o-tphcm-noi-co-7-biet-thu-kien-truc-phap-185251105095011233.htm) - 23:00 05/11/2025
+- 🤔 [Bên trong khu &#39;đất vàng&#39; ở TP.HCM nơi sẽ dựng đài tưởng niệm nạn nhân Covid-19](https://thanhnien.vn/ben-trong-khu-dat-vang-o-tphcm-noi-co-7-biet-thu-kien-truc-phap-185251105095011233.htm) - 23:00 05/11/2025
 - 📝 [Nàng dâu miền Nam kể chuyện cuộc sống ở Cao Bằng](https://thanhnien.vn/nang-dau-mien-nam-ke-chuyen-cuoc-song-o-cao-bang-185251105205356511.htm) - 22:45 05/11/2025
 - 🥰 [Đến với học trò bị cô lập do mưa lũ](https://thanhnien.vn/den-voi-hoc-tro-bi-co-lap-do-mua-lu-185251105204230048.htm) - 22:45 05/11/2025
 - 🐲 [Những &#39;gáo nước lạnh&#39; đe dọa Nhà Trắng](https://thanhnien.vn/nhung-gao-nuoc-lanh-de-doa-nha-trang-185251105233345764.htm) - 22:40 05/11/2025
