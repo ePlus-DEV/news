@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Thi thể bé trai trong túi ở ven đường](https://vnexpress.net/thi-the-be-trai-trong-tui-o-ven-duong-4960384.html) - 09:25 05/11/2025
 - 🥰 [8 giám đốc bị bắt trong đường dây mua bán giấy kiểm nghiệm sầu riêng](https://vnexpress.net/8-giam-doc-bi-bat-trong-duong-day-mua-ban-giay-kiem-nghiem-sau-rieng-4960402.html) - 09:21 05/11/2025
 - 🎓 [Thùng tiền 20 tỷ đồng khiến cựu cán bộ TAND Tối cao hầu tòa](https://vnexpress.net/thung-tien-20-ty-dong-khien-cuu-can-bo-tand-toi-cao-hau-toa-4960263.html) - 08:12 05/11/2025
-- 🤓 [Ông Nguyễn Quốc Vũ bị bắt](https://vnexpress.net/ong-nguyen-quoc-vu-bi-bat-4960301.html) - 07:35 05/11/2025
+- 🤓 [Ông Nguyễn Quốc Vũ bị bắt](https://vnexpress.net/chong-doan-di-bang-bi-bat-4960301.html) - 07:35 05/11/2025
 - 🎊 [Tăng 3 lần tiền phạt nếu thả rông chó, mèo nơi công cộng](https://vnexpress.net/tang-3-lan-tien-phat-neu-tha-rong-cho-meo-noi-cong-cong-4960203.html) - 07:06 05/11/2025
 - 🙉 [Dàn dựng bị bắt cóc để trốn truy nã 13 năm](https://vnexpress.net/dan-dung-bi-bat-coc-de-tron-truy-na-13-nam-4960176.html) - 05:44 05/11/2025
 - 🤡 [Vờ hỏi mua vàng rồi cướp](https://vnexpress.net/vo-hoi-mua-vang-roi-cuop-4959958.html) - 02:00 05/11/2025
