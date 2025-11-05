@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Cựu Phó Chủ tịch AFF: “Tuyển Việt Nam xứng đáng dự Asian Cup hơn Malaysia”](https://dantri.com.vn/the-thao/cuu-pho-chu-tich-aff-tuyen-viet-nam-xung-dang-du-asian-cup-hon-malaysia-20251105013658914.htm) - 12:00 05/11/2025
-- 🌈 [Nam sinh làm game “Tiệm phở anh Hai” không thích chơi game, sợ nổi tiếng](https://dantri.com.vn/giao-duc/nam-sinh-lam-game-tiem-pho-anh-hai-khong-thich-choi-game-so-noi-tieng-20251105181951948.htm) - 11:48 05/11/2025
+- 🌈 [Hé lộ bất ngờ về nam sinh gây sốt với game &quot;Tiệm phở anh Hai&quot;](https://dantri.com.vn/giao-duc/he-lo-bat-ngo-ve-nam-sinh-gay-sot-voi-game-tiem-pho-anh-hai-20251105181951948.htm) - 11:48 05/11/2025
 - 🐎 [Báo Dân trí trao giải Cuộc thi ảnh &quot;Màu cờ tôi yêu 2025&quot;](https://dantri.com.vn/doi-song/bao-dan-tri-trao-giai-cuoc-thi-anh-mau-co-toi-yeu-2025-20251105181306227.htm) - 11:40 05/11/2025
 - 👹 [Cục Việc làm làm việc với An Giang về hỗ trợ việc làm bền vững](https://dantri.com.vn/lao-dong-viec-lam/cuc-viec-lam-lam-viec-voi-an-giang-ve-ho-tro-viec-lam-ben-vung-20251105133640823.htm) - 08:07 05/11/2025
 - 🫶 [Miếng bánh thương mại điện tử 25 tỷ USD tại Việt Nam: Ngọt và đầy kịch tính](https://dantri.com.vn/kinh-doanh/mieng-banh-thuong-mai-dien-tu-25-ty-usd-tai-viet-nam-ngot-va-day-kich-tinh-20251027190102104.htm) - 07:47 05/11/2025
