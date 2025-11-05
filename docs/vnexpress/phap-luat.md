@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhóm cướp giật vàng ở TP HCM bị bắt](https://vnexpress.net/nhom-cuop-giat-vang-o-tp-hcm-bi-bat-4960466.html) - 14:18 05/11/2025
+- 😎 [Hai người cướp giật vàng ở TP HCM bị bắt](https://vnexpress.net/hai-nguoi-cuop-giat-vang-o-tp-hcm-bi-bat-4960466.html) - 14:18 05/11/2025
 - 🥰 [Thi thể bé trai trong túi ở ven đường](https://vnexpress.net/thi-the-be-trai-trong-tui-o-ven-duong-4960384.html) - 09:25 05/11/2025
 - 🎓 [8 giám đốc bị bắt trong đường dây mua bán giấy kiểm nghiệm sầu riêng](https://vnexpress.net/8-giam-doc-bi-bat-trong-duong-day-mua-ban-giay-kiem-nghiem-sau-rieng-4960402.html) - 09:21 05/11/2025
 - 🤓 [Thùng tiền 20 tỷ đồng khiến cựu cán bộ TAND Tối cao hầu tòa](https://vnexpress.net/thung-tien-20-ty-dong-khien-cuu-can-bo-tand-toi-cao-hau-toa-4960263.html) - 08:12 05/11/2025
