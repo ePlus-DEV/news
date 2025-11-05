@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Đà Nẵng, Quảng Ngãi cho học sinh nghỉ học từ chiều 6/11 để tránh bão](https://dantri.com.vn/giao-duc/da-nang-quang-ngai-cho-hoc-sinh-nghi-hoc-tu-chieu-611-de-tranh-bao-20251105191324149.htm) - 13:03 05/11/2025
-- 🗽 [Nam sinh làm game “Tiệm phở anh Hai” không thích chơi game, sợ nổi tiếng](https://dantri.com.vn/giao-duc/nam-sinh-lam-game-tiem-pho-anh-hai-khong-thich-choi-game-so-noi-tieng-20251105181951948.htm) - 11:48 05/11/2025
+- 🗽 [Hé lộ bất ngờ về nam sinh gây sốt với game &quot;Tiệm phở anh Hai&quot;](https://dantri.com.vn/giao-duc/he-lo-bat-ngo-ve-nam-sinh-gay-sot-voi-game-tiem-pho-anh-hai-20251105181951948.htm) - 11:48 05/11/2025
 - 🚦 [Sở GD&amp;ĐT TPHCM yêu cầu các trường lên phương án sơ tán học sinh khi có bão](https://dantri.com.vn/giao-duc/so-gddt-tphcm-yeu-cau-cac-truong-len-phuong-an-so-tan-hoc-sinh-khi-co-bao-20251105171239465.htm) - 10:33 05/11/2025
 - 🌋 [Tổ liêm chính Trường Y khoa Phạm Ngọc Thạch rà soát tuyển sinh sau đại học](https://dantri.com.vn/giao-duc/to-liem-chinh-truong-y-khoa-pham-ngoc-thach-ra-soat-tuyen-sinh-sau-dai-hoc-20251105163411577.htm) - 09:58 05/11/2025
 - 🏊 [Năm 2026, giáo viên cấp 3 sẽ nhận lương cao nhất bao nhiêu?](https://dantri.com.vn/giao-duc/nam-2026-giao-vien-cap-3-se-nhan-luong-cao-nhat-bao-nhieu-20251105140407388.htm) - 07:16 05/11/2025
