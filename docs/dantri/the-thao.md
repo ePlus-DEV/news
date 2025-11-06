@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Mourinho có nguy cơ bị sa thải sau hơn 1 tháng, bất ngờ với tiền đền bù](https://dantri.com.vn/the-thao/hlv-mourinho-co-nguy-co-bi-sa-thai-sau-hon-1-thang-bat-ngo-voi-tien-den-bu-20251106201948164.htm) - 13:22 06/11/2025
-- 💯 [Báo Hàn Quốc: “Tuyển Việt Nam là nạn nhân của sự bất công”](https://dantri.com.vn/the-thao/bao-han-quoc-tuyen-viet-nam-la-nan-nhan-cua-su-bat-cong-20251106190828303.htm) - 12:08 06/11/2025
+- 🎡 [Báo Hàn Quốc: “Tuyển Việt Nam là nạn nhân của sự bất công”](https://dantri.com.vn/the-thao/bao-han-quoc-tuyen-viet-nam-la-nan-nhan-cua-su-bat-cong-20251106190828303.htm) - 13:24 06/11/2025
+- 💯 [HLV Mourinho có nguy cơ bị sa thải sau hơn 1 tháng, bất ngờ với tiền đền bù](https://dantri.com.vn/the-thao/hlv-mourinho-co-nguy-co-bi-sa-thai-sau-hon-1-thang-bat-ngo-voi-tien-den-bu-20251106201948164.htm) - 13:22 06/11/2025
 - ⛽️ [CLB Công an Hà Nội thua đội bóng Australia tại Cúp C2 châu Á](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-thua-doi-bong-australia-tai-cup-c2-chau-a-20251106171651290.htm) - 10:32 06/11/2025
 - 💃 [Đội tuyển Việt Nam: Xuân Son có tên, Hoàng Hên vắng mặt](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-xuan-son-co-ten-hoang-hen-vang-mat-20251106173014079.htm) - 10:30 06/11/2025
 - 🌈 [Bùi Vĩ Hào trở lại cùng U22 Việt Nam chinh phục HCV SEA Games](https://dantri.com.vn/the-thao/bui-vi-hao-tro-lai-cung-u22-viet-nam-chinh-phuc-hcv-sea-games-20251106170326732.htm) - 10:06 06/11/2025
