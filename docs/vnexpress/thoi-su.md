@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Kalmaegi giảm cấp, sóng biển tràn vào nhà dân.](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961.html) - 12:21 06/11/2025
+- 🦒 [Bão Kalmaegi gây sóng tràn vào nhà dân](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961.html) - 12:21 06/11/2025
 - 🤓 [&#39;Cần gỡ vướng chuyển giao công nghệ y tế để bệnh nhân không ra nước ngoài&#39;](https://vnexpress.net/can-go-vuong-chuyen-giao-cong-nghe-y-te-de-benh-nhan-khong-ra-nuoc-ngoai-4960919.html) - 11:47 06/11/2025
 - ⚗️ [Nhân sự Bộ Chính trị, Ban Bí thư khóa 14 phải có tầm nhìn, năng lực, sức bền](https://vnexpress.net/nhan-su-bo-chinh-tri-ban-bi-thu-khoa-14-phai-co-tam-nhin-nang-luc-suc-ben-4960944.html) - 11:14 06/11/2025
 - 🌊 [Lâm Đồng kiểm tra khẩn cấp các hồ chứa nước](https://vnexpress.net/lam-dong-kiem-tra-khan-cap-cac-ho-chua-nuoc-4960878.html) - 10:50 06/11/2025
