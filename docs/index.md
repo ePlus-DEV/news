@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Bão số 13 Kalmaegi đang ở Cao nguyên Trung Bộ, còn giật tới cấp 12](https://nld.com.vn/bao-so-13-kalmaegi-dang-o-cao-nguyen-trung-bo-con-giat-toi-cap-12-1962511062300578.htm) - 16:06 06/11/2025
-- 😺 [Bão số 13 Kalmaegi: Những hình ảnh đầu tiên về thiệt hại ở Gia Lai, Đắk Lắk](https://nld.com.vn/nhung-hinh-anh-dau-tien-ve-thiet-hai-o-gia-lai-dak-lak-sau-bao-so-13-196251106230239258.htm) - 16:02 06/11/2025
+- 😺 [Bão số 13 Kalmaegi: Những thiệt hại nặng nề ở Gia Lai, Đắk Lắk](https://nld.com.vn/nhung-hinh-anh-dau-tien-ve-thiet-hai-o-gia-lai-dak-lak-sau-bao-so-13-196251106230239258.htm) - 16:02 06/11/2025
 - 👍 [VIDEO: Nhiều khu dân cư tại TP HCM biến thành &quot;sông&quot; do triều cường đạt đỉnh kỷ lục](https://nld.com.vn/video-nhieu-khu-dan-cu-tai-tp-hcm-bien-thanh-song-do-trieu-cuong-dat-dinh-ky-luc-196251106215253135.htm) - 15:03 06/11/2025
 - 🥷 [Mỹ nam &quot;Mưa đỏ&quot; phát sốt vì &quot;Dương Quá&quot; Cổ Thiên Lạc, Hồng Kim Bảo](https://nld.com.vn/my-nam-mua-do-phat-sot-vi-duong-qua-co-thien-lac-hong-kim-bao-196251106215639472.htm) - 15:01 06/11/2025
 - 🤔 [Thị trường tiền số hôm nay, 6-11: Khoảng trống giữa stablecoin và tài sản số](https://nld.com.vn/thi-truong-tien-so-hom-nay-6-11-khoang-trong-giua-stablecoin-va-tai-san-so-196251106213141516.htm) - 14:51 06/11/2025
