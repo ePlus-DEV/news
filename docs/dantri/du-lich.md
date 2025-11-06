@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Chủ quán chê khách lấy 1.000 đồng: Tiền của mình, có gì mà không thoáng?](https://dantri.com.vn/du-lich/chu-quan-che-khach-lay-1000-dong-tien-cua-minh-co-gi-ma-khong-thoang-20251106112538174.htm) - 05:10 06/11/2025
+- 🥰 [Vụ chủ quán chê khách lấy 1.000 đồng: Tiền của mình, có gì mà không thoáng?](https://dantri.com.vn/du-lich/vu-chu-quan-che-khach-lay-1000-dong-tien-cua-minh-co-gi-ma-khong-thoang-20251106112538174.htm) - 05:10 06/11/2025
 - 🥰 [Du khách ra biển lướt sóng trước giờ bão Kalmaegi áp sát](https://dantri.com.vn/du-lich/du-khach-ra-bien-luot-song-truoc-gio-bao-kalmaegi-ap-sat-20251106111246674.htm) - 05:00 06/11/2025
 - 🐻 [Máy bay từ Đà Nẵng đi Hong Kong  bị chậm hơn 1 tiếng vì cặp đôi cãi nhau](https://dantri.com.vn/du-lich/may-bay-tu-da-nang-di-hong-kong-bi-cham-hon-1-tieng-vi-cap-doi-cai-nhau-20251105095501283.htm) - 01:54 06/11/2025
 - 🤩 [Du lịch nông thôn gắn với bảo tồn di sản - chìa khóa của phát triển xanh](https://dantri.com.vn/du-lich/du-lich-nong-thon-gan-voi-bao-ton-di-san-chia-khoa-cua-phat-trien-xanh-20251105200910318.htm) - 01:45 06/11/2025
