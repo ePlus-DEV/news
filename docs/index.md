@@ -415,7 +415,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [CẬP NHẬT: Bão số 13 suy yếu thành áp thấp nhiệt đới](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 02:02 07/11/2025
+- 💻 [CẬP NHẬT: Bão số 13 suy yếu thành áp thấp trên khu vực Hạ Lào](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 05:41 07/11/2025
 - 🌜 [Phó Thủ tướng Trần Hồng Hà thị sát khu vực Quy Nhơn ngay trong đêm sau khi bão số 13 quét qua](https://baochinhphu.vn/pho-thu-tuong-tran-hong-ha-thi-sat-khu-vuc-quy-nhon-ngay-trong-dem-sau-khi-bao-so-13-quet-qua-102251106235504988.htm) - 00:02 07/11/2025
 - 🦆 [Giải Báo chí toàn quốc ‘Vì sự nghiệp phát triển Văn hóa Việt Nam’: Lan tỏa các giá trị tốt đẹp đến cộng đồng](https://baochinhphu.vn/giai-bao-chi-toan-quoc-vi-su-nghiep-phat-trien-van-hoa-viet-nam-lan-toa-cac-gia-tri-tot-dep-den-cong-dong-102251106223824027.htm) - 22:38 06/11/2025
 - 🌝 [Sửa Luật Công nghệ cao: Cần tiêu chí rõ ràng cho mô hình đô thị công nghệ cao](https://baochinhphu.vn/sua-luat-cong-nghe-cao-can-tieu-chi-ro-rang-cho-mo-hinh-do-thi-cong-nghe-cao-102251106190530857.htm) - 20:57 06/11/2025
