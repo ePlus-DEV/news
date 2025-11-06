@@ -4,12 +4,12 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Xuyên đêm cứu đôi tay bị chém đứt lìa](https://vnexpress.net/xuyen-dem-cuu-doi-tay-bi-chem-dut-lia-4960969.html) - 13:17 06/11/2025
-- 🐎 [Bao Phương Vinh bị loại khỏi World Cup vì thua 0,01 điểm](https://vnexpress.net/bao-phuong-vinh-bi-loai-khoi-world-cup-vi-thua-0-01-diem-4960972.html) - 13:17 06/11/2025
-- 🦍 [Dùng cây đinh ba dọa đánh, cướp xe máy trên cao tốc](https://vnexpress.net/dung-cay-dinh-ba-doa-danh-cuop-xe-may-tren-cao-toc-4960967.html) - 13:07 06/11/2025
-- 🏊 [Cổ Thiên Lạc, Hồng Kim Bảo dự sự kiện cùng dàn sao Việt](https://vnexpress.net/co-thien-lac-hong-kim-bao-du-su-kien-cung-dan-sao-viet-4960966.html) - 13:03 06/11/2025
-- 🎊 [Hết lòng vì gia đình vẫn bị mẹ chồng bảo &#39;vô phước mới có dâu như này&#39;](https://vnexpress.net/het-long-vi-gia-dinh-van-bi-me-chong-bao-vo-phuoc-moi-co-dau-nhu-nay-4960875.html) - 13:00 06/11/2025
-- 🎃 [Tinh thần lạc quan trong lũ của người Hội An thức tỉnh vợ chồng người Mỹ](https://vnexpress.net/tinh-than-lac-quan-trong-lu-cua-nguoi-hoi-an-thuc-tinh-vo-chong-nguoi-my-4960864.html) - 13:00 06/11/2025
+- 🎬 [Lý do cá nhân chưa được mua tài sản mã hóa của doanh nghiệp Việt](https://vnexpress.net/ly-do-ca-nhan-chua-duoc-mua-tai-san-ma-hoa-cua-doanh-nghiep-viet-4960751.html) - 13:30 06/11/2025
+- 🐎 [Xuyên đêm cứu đôi tay bị chém đứt lìa](https://vnexpress.net/xuyen-dem-cuu-doi-tay-bi-chem-dut-lia-4960969.html) - 13:17 06/11/2025
+- 🦍 [Bao Phương Vinh bị loại khỏi World Cup vì thua 0,01 điểm](https://vnexpress.net/bao-phuong-vinh-bi-loai-khoi-world-cup-vi-thua-0-01-diem-4960972.html) - 13:17 06/11/2025
+- 🏊 [Dùng cây đinh ba dọa đánh, cướp xe máy trên cao tốc](https://vnexpress.net/dung-cay-dinh-ba-doa-danh-cuop-xe-may-tren-cao-toc-4960967.html) - 13:07 06/11/2025
+- 🎊 [&#39;Dương Quá&#39; Cổ Thiên Lạc dự sự kiện cùng dàn sao Việt](https://vnexpress.net/duong-qua-co-thien-lac-du-su-kien-cung-dan-sao-viet-4960966.html) - 13:03 06/11/2025
+- 🎃 [Hết lòng vì gia đình vẫn bị mẹ chồng bảo &#39;vô phước mới có dâu như này&#39;](https://vnexpress.net/het-long-vi-gia-dinh-van-bi-me-chong-bao-vo-phuoc-moi-co-dau-nhu-nay-4960875.html) - 13:00 06/11/2025
 - 🧰 [Ranh giới an toàn mong manh khi hoán cải xe xăng thành xe điện](https://vnexpress.net/hoan-cai-xe-xang-thanh-xe-dien-ranh-gioi-an-toan-mong-manh-khi-hoan-cai-xe-xang-thanh-xe-dien-4960845.html) - 13:00 06/11/2025
 - 🔭 [&#39;Vòi bạch tuộc&#39; kinh doanh của ông trùm Chen Zhi](https://vnexpress.net/voi-bach-tuoc-kinh-doanh-cua-ong-trum-chen-zhi-4959543.html) - 13:00 06/11/2025
 - 🫶 [&#39;Thiếu trung gian gây giảm hiệu quả thương mại hóa công nghệ&#39;](https://vnexpress.net/thieu-trung-gian-gay-giam-hieu-qua-thuong-mai-hoa-cong-nghe-4960940.html) - 13:00 06/11/2025
@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [58% giáo viên THCS hài lòng về lương](https://vnexpress.net/58-giao-vien-thcs-hai-long-ve-luong-4960926.html) - 12:36 06/11/2025
 - 😺 [Khởi tố vụ án  cầu sông Lô &#39;trơ lõi thép&#39;](https://vnexpress.net/khoi-to-vu-an-cau-song-lo-tro-loi-thep-4960936.html) - 12:32 06/11/2025
 - 🐘 [Ca hiến thận &#39;có một không hai&#39; của cụ ông 80 tuổi cho con trai](https://vnexpress.net/ca-hien-than-co-mot-khong-hai-cua-cu-ong-80-tuoi-cho-con-trai-4960818.html) - 12:28 06/11/2025
-- 🌁 [Bão Kalmaegi đổ bộ Đăk Lăk, Gia Lai](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961.html) - 12:21 06/11/2025
+- 🌁 [Bão Kalmaegi quần thảo trong đất liền, nhiều người cầu cứu](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961.html) - 12:21 06/11/2025
 - 🐲 [Meghan Markle trở lại đóng phim](https://vnexpress.net/meghan-markle-tro-lai-dong-phim-4960804.html) - 12:00 06/11/2025
 - 🤓 [Lý do bão Kalmaegi gây hậu quả hủy diệt ở Philippines](https://vnexpress.net/ly-do-bao-kalmaegi-gay-hau-qua-huy-diet-o-philippines-4960789.html) - 12:00 06/11/2025
 - 💪 [Phở bò hay phở gà có trước?](https://vnexpress.net/pho-bo-hay-pho-ga-co-truoc-4960244.html) - 12:00 06/11/2025
