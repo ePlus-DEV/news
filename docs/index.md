@@ -406,14 +406,14 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [CẬP NHẬT: Bão số 13 giật trên cấp 16 tiến gần đất liền, gấp rút hoàn thành công tác ứng phó](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 19:06 06/11/2025
+- 💻 [CẬP NHẬT: Bão số 13 giật cấp 15, đã đổ bộ đất liền các tỉnh Đắk Lắk – Gia Lai](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 19:48 06/11/2025
 - 🌜 [TP. Huế: Gần 6.000 cán bộ, chiến sĩ sẵn sàng cơ động ứng phó bão số 13](https://baochinhphu.vn/tp-hue-gan-6000-can-bo-chien-si-san-sang-co-dong-ung-pho-bao-so-13-102251106190456776.htm) - 18:50 06/11/2025
 - 🦆 [Bộ trưởng Trần Đức Thắng: Hợp tác De Heus-Hùng Nhơn - hình mẫu tiêu biểu cho liên kết chuỗi giá trị nông nghiệp](https://baochinhphu.vn/bo-truong-tran-duc-thang-hop-tac-de-heus-hung-nhon-hinh-mau-tieu-bieu-cho-lien-ket-chuoi-gia-tri-nong-nghiep-102251106183802948.htm) - 18:46 06/11/2025
 - 🌝 [Việt Nam kiên quyết xử lý nghiêm, công khai các hành vi vi phạm IUU](https://baochinhphu.vn/viet-nam-kien-quyet-xu-ly-nghiem-cong-khai-cac-hanh-vi-vi-pham-iuu-102251106163426391.htm) - 18:43 06/11/2025
 - 🦣 [Ảnh hưởng bão số 13, lũ các sông ở Đà Nẵng và Huế lên trở lại](https://baochinhphu.vn/anh-huong-bao-so-13-lu-cac-song-o-da-nang-va-hue-len-tro-lai-102251106183238321.htm) - 18:39 06/11/2025
 - ⛽️ [Chuyển đổi số bao trùm, không để ai bị bỏ lại phía sau](https://baochinhphu.vn/chuyen-doi-so-bao-trum-khong-de-ai-bi-bo-lai-phia-sau-102251106180514276.htm) - 18:20 06/11/2025
 - 🎓 [Phó Thủ tướng Trần Hồng Hà kiểm tra, rà soát công tác ứng phó ngay trước khi bão số 13 đổ bộ](https://baochinhphu.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-ra-soat-cong-tac-ung-pho-ngay-truoc-khi-bao-so-13-do-bo-102251106181037536.htm) - 18:18 06/11/2025
-- 💡 [Việt Nam chung tay cùng Liên hợp Quốc chống lại tội phạm mạng](https://baochinhphu.vn/viet-nam-chung-tay-cung-lien-hop-quoc-chong-lai-toi-pham-mang-102251106170536292.htm) - 18:17 06/11/2025
+- 💡 [Việt Nam chung tay cùng Liên Hợp Quốc chống lại tội phạm mạng](https://baochinhphu.vn/viet-nam-chung-tay-cung-lien-hop-quoc-chong-lai-toi-pham-mang-102251106170536292.htm) - 18:17 06/11/2025
 - 🌊 [Dự thảo Luật Xây dựng &lpar;sửa đổi&rpar;: Tháo gỡ những bất cập về xây dựng](https://baochinhphu.vn/du-thao-luat-xay-dung-sua-doi-thao-go-nhung-bat-cap-ve-xay-dung-102251106155842543.htm) - 18:00 06/11/2025
 - 💯 [Triều cường dâng cao, EVNSPC cảnh báo khẩn an toàn điện](https://baochinhphu.vn/trieu-cuong-dang-cao-evnspc-canh-bao-khan-an-toan-dien-102251106164446474.htm) - 17:56 06/11/2025
 - 🦣 [Hoàn thiện cơ chế, chính sách pháp luật về thông tin đối ngoại](https://baochinhphu.vn/hoan-thien-co-che-chinh-sach-phap-luat-ve-thong-tin-doi-ngoai-102251106163014534.htm) - 17:50 06/11/2025
