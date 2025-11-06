@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cổ Thiên Lạc, Hồng Kim Bảo dự sự kiện cùng dàn sao Việt](https://vnexpress.net/co-thien-lac-hong-kim-bao-du-su-kien-cung-dan-sao-viet-4960966.html) - 13:03 06/11/2025
+- 🌏 [&#39;Dương Quá&#39; Cổ Thiên Lạc dự sự kiện cùng sao Việt](https://vnexpress.net/duong-qua-co-thien-lac-du-su-kien-cung-sao-viet-4960966.html) - 13:03 06/11/2025
 - 💫 [Meghan Markle trở lại đóng phim](https://vnexpress.net/meghan-markle-tro-lai-dong-phim-4960804.html) - 12:00 06/11/2025
 - 🌮 [Tài tử Hồng Kim Bảo: &#39;Tôi nhớ phở&#39;](https://vnexpress.net/tai-tu-hong-kim-bao-toi-nho-pho-4960887.html) - 10:25 06/11/2025
 - 🧠 [Show &#39;2 Ngày 1 Đêm&#39; tại Bắc Ninh tôn vinh văn hóa cội nguồn](https://vnexpress.net/show-2-ngay-1-dem-tai-bac-ninh-ton-vinh-van-hoa-coi-nguon-4959602.html) - 10:00 06/11/2025
