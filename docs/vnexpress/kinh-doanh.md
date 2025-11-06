@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Lý do cá nhân chưa được mua tài sản mã hóa của doanh nghiệp Việt](https://vnexpress.net/ly-do-ca-nhan-chua-duoc-mua-tai-san-ma-hoa-cua-doanh-nghiep-viet-4960751.html) - 13:30 06/11/2025
+- ⛽️ [Lý do tài sản mã hóa chỉ được phát hành cho nhà đầu tư ngoại](https://vnexpress.net/ly-do-tai-san-ma-hoa-chi-duoc-phat-hanh-cho-nha-dau-tu-ngoai-4960751.html) - 13:30 06/11/2025
 - 🐲 [Trung Quốc mua lô lúa mỳ Mỹ đầu tiên sau một năm](https://vnexpress.net/trung-quoc-mua-lo-lua-my-my-dau-tien-sau-mot-nam-4960840.html) - 09:38 06/11/2025
 - 🔥 [Đại sứ EU: Bão lũ miền Trung là bài toán khí hậu trong phát triển kinh tế Việt Nam](https://vnexpress.net/dai-su-eu-bao-lu-mien-trung-la-bai-toan-khi-hau-trong-phat-trien-kinh-te-viet-nam-4960898.html) - 09:36 06/11/2025
 - 🐵 [Thanh khoản xuống thấp nhất gần 5 tháng](https://vnexpress.net/chung-khoan-hom-nay-6-11-thanh-khoan-xuong-muc-thap-nhat-gan-5-thang-4960862.html) - 09:00 06/11/2025
