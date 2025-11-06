@@ -409,7 +409,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [CẬP NHẬT: Bão số 13 giật cấp 14, trên đất liền các tỉnh Đắk Lắk – Gia Lai](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 21:14 06/11/2025
+- 💻 [CẬP NHẬT: Bão số 13 có sức gió mạnh nhất cấp 9-10, trên đất liền các tỉnh Đắk Lắk – Gia Lai](https://baochinhphu.vn/bao-so-13-giat-cap-17-tien-gan-dat-lien-phai-hoan-thanh-so-tan-dan-truoc-12-gio-ngay-6-11-10225110608595213.htm) - 22:00 06/11/2025
 - 🌜 [Sửa Luật Công nghệ cao: Cần tiêu chí rõ ràng cho mô hình đô thị công nghệ cao](https://baochinhphu.vn/sua-luat-cong-nghe-cao-can-tieu-chi-ro-rang-cho-mo-hinh-do-thi-cong-nghe-cao-102251106190530857.htm) - 20:57 06/11/2025
 - 🦆 [Thủ tướng: Việt Nam phấn đấu có nhà máy chip bán dẫn đầu tiên trong năm 2026](https://baochinhphu.vn/thu-tuong-viet-nam-phan-dau-co-nha-may-chip-ban-dan-dau-tien-trong-nam-2026-102251106182228446.htm) - 20:56 06/11/2025
 - 🌝 [TP. Huế: Gần 6.000 cán bộ, chiến sĩ sẵn sàng cơ động ứng phó bão số 13](https://baochinhphu.vn/tp-hue-gan-6000-can-bo-chien-si-san-sang-co-dong-ung-pho-bao-so-13-102251106190456776.htm) - 18:50 06/11/2025
