@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Báo Dân trí giành 3 giải báo chí &quot;Vì sự nghiệp phát triển Văn hoá Việt Nam&quot;](https://dantri.com.vn/giai-tri/bao-dan-tri-gianh-3-giai-bao-chi-vi-su-nghiep-phat-trien-van-hoa-viet-nam-20251107011242989.htm) - 23:14 06/11/2025
+- 🤩 [Báo Dân trí giành 3 giải báo chí &quot;Vì sự nghiệp phát triển Văn hóa Việt Nam&quot;](https://dantri.com.vn/giai-tri/bao-dan-tri-gianh-3-giai-bao-chi-vi-su-nghiep-phat-trien-van-hoa-viet-nam-20251107011242989.htm) - 23:14 06/11/2025
 - 🔥 [Quách Ngọc Ngoan sau ồn ào vỡ nợ: &quot;Tôi không xấu hổ về biến cố&quot;](https://dantri.com.vn/giai-tri/quach-ngoc-ngoan-sau-on-ao-vo-no-toi-khong-xau-ho-ve-bien-co-20251106100002844.htm) - 23:00 06/11/2025
 - 🚀 [Nhiều ca sĩ tham dự Lễ hội Việt Nam - TPHCM tại Nhật Bản](https://dantri.com.vn/giai-tri/nhieu-ca-si-tham-du-le-hoi-viet-nam-tphcm-tai-nhat-ban-20251106205604596.htm) - 14:36 06/11/2025
 - 🔥 [Chân dung người đàn ông quyến rũ nhất thế giới năm 2025](https://dantri.com.vn/giai-tri/chan-dung-nguoi-dan-ong-quyen-ru-nhat-the-gioi-nam-2025-20251105181545069.htm) - 13:00 06/11/2025
