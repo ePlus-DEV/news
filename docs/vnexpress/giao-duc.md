@@ -12,7 +12,7 @@ sidebar_position: 7
 - 💡 [Nhiều trường ở TP HCM cho học sinh về sớm tránh triều cường](https://vnexpress.net/nhieu-truong-o-tp-hcm-cho-hoc-sinh-ve-som-tranh-trieu-cuong-4960946.html) - 11:29 06/11/2025
 - 🥰 [Nvidia cấp học bổng 1 triệu USD cho sinh viên](https://vnexpress.net/nvidia-cap-hoc-bong-1-trieu-usd-cho-sinh-vien-4960805.html) - 08:44 06/11/2025
 - 🐲 [Trượt đại học vì bắt nạt học đường](https://vnexpress.net/truot-dai-hoc-vi-bat-nat-hoc-duong-4960725.html) - 07:01 06/11/2025
-- 🦒 [Canada dự kiến cắt giảm 65% giấy phép du học](https://vnexpress.net/canada-du-kien-cat-giam-65-giay-phep-du-hoc-4960579.html) - 03:01 06/11/2025
+- 🦒 [Canada dự kiến cắt giảm hơn 50% giấy phép du học](https://vnexpress.net/canada-du-kien-cat-giam-hon-50-giay-phep-du-hoc-4960579.html) - 03:01 06/11/2025
 - 🦆 [Bộ Giáo dục: Lương của hầu hết giáo viên thấp hơn ngành y tế, xây dựng](https://vnexpress.net/luong-giao-vien-so-voi-cac-nganh-khac-the-nao-4960486.html) - 16:10 05/11/2025
 - 🧰 [Công ty nào lãi đậm nhất thế giới năm 2024?](https://vnexpress.net/cong-ty-nao-lai-dam-nhat-the-gioi-nam-2024-4960465.html) - 13:44 05/11/2025
 - 🐘 [Chính phủ muốn ưu tiên quỹ đất sạch và trụ sở dôi dư để xây trường](https://vnexpress.net/chinh-phu-muon-uu-tien-quy-dat-sach-va-tru-so-doi-du-de-xay-truong-4960463.html) - 13:36 05/11/2025
