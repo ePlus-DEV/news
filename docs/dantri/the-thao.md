@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [FIFA ra lệnh trừng phạt đội tuyển Indonesia](https://dantri.com.vn/the-thao/fifa-ra-lenh-trung-phat-doi-tuyen-indonesia-20251107191844994.htm) - 12:18 07/11/2025
+- 🎡 [FIFA ra lệnh trừng phạt đội tuyển Indonesia](https://dantri.com.vn/the-thao/fifa-ra-lenh-trung-phat-doi-tuyen-indonesia-20251107191844994.htm) - 13:18 07/11/2025
 - 💯 [Bóng đá Malaysia nhận thêm cú sốc, AFC vào cuộc điều tra](https://dantri.com.vn/the-thao/bong-da-malaysia-nhan-them-cu-soc-afc-vao-cuoc-dieu-tra-20251107183153748.htm) - 12:01 07/11/2025
 - ⛽️ [HLV Ruben Amorim phản ứng bất ngờ trước chỉ trích của C.Ronaldo](https://dantri.com.vn/the-thao/hlv-ruben-amorim-phan-ung-bat-ngo-truoc-chi-trich-cua-cronaldo-20251107155901996.htm) - 08:59 07/11/2025
 - 💃 [Bóng đá Malaysia khủng hoảng vì án phạt: Đồng tiền không cứu nổi sai lầm](https://dantri.com.vn/the-thao/bong-da-malaysia-khung-hoang-vi-an-phat-dong-tien-khong-cuu-noi-sai-lam-20251107152254517.htm) - 08:36 07/11/2025
