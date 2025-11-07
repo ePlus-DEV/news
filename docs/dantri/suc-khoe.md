@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Bộ Y tế thông tin với báo chí về Dự thảo Luật Dân số](https://dantri.com.vn/suc-khoe/bo-y-te-thong-tin-voi-bao-chi-ve-du-thao-luat-dan-so-20251107115816323.htm) - 05:06 07/11/2025
+- 🤔 [Bộ Y tế nói về quy định ưu tiên mua nhà ở xã hội trong Dự thảo Luật Dân số](https://dantri.com.vn/suc-khoe/bo-y-te-noi-ve-quy-dinh-uu-tien-mua-nha-o-xa-hoi-trong-du-thao-luat-dan-so-20251107115816323.htm) - 05:06 07/11/2025
 - 🚦 [Sốt xuất huyết biến đổi khó lường, Việt Nam triển khai thử nghiệm vaccine](https://dantri.com.vn/suc-khoe/sot-xuat-huyet-bien-doi-kho-luong-viet-nam-trien-khai-thu-nghiem-vaccine-20251107110750513.htm) - 04:24 07/11/2025
 - 🤖 [Khám tổng quát - Bí quyết giúp nam giới duy trì phong độ sau tuổi 40](https://dantri.com.vn/suc-khoe/kham-tong-quat-bi-quyet-giup-nam-gioi-duy-tri-phong-do-sau-tuoi-40-20251107101600085.htm) - 03:45 07/11/2025
 - 🐻 [Những sai lầm cha mẹ dễ mắc khi đưa con đi tiêm](https://dantri.com.vn/suc-khoe/nhung-sai-lam-cha-me-de-mac-khi-dua-con-di-tiem-20251106165056203.htm) - 02:48 07/11/2025
