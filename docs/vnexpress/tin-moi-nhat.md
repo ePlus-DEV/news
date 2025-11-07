@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [AI trên Cổng pháp luật quốc gia &#39;trả lời như chuyên gia pháp lý&#39;](https://vnexpress.net/ai-tren-cong-phap-luat-quoc-gia-tra-loi-nhu-chuyen-gia-phap-ly-4961301.html) - 11:59 07/11/2025
 - 🦩 [Trung Quốc xúc tiến nới lỏng xuất khẩu đất hiếm](https://vnexpress.net/trung-quoc-xuc-tien-noi-long-xuat-khau-dat-hiem-4961361.html) - 11:56 07/11/2025
 - 👺 [Nguyên Phó chủ tịch tỉnh Đồng Nai Nguyễn Quốc Hùng bị khai trừ Đảng](https://vnexpress.net/nguyen-pho-chu-tich-tinh-dong-nai-nguyen-quoc-hung-bi-khai-tru-dang-4961371.html) - 11:43 07/11/2025
-- 🧑‍🏫 [Người dân nơi tâm bão: &#39;Gió cuốn hết, chẳng còn gì&#39;](https://vnexpress.net/nguoi-dan-noi-tam-bao-gio-cuon-het-chang-con-gi-4961355.html) - 11:41 07/11/2025
+- 🧑‍🏫 [Người dân nơi tâm bão: &#39;Quá khốc liệt&#39;](https://vnexpress.net/nguoi-dan-noi-tam-bao-qua-khoc-liet-4961355.html) - 11:41 07/11/2025
 - 😎 [Man Utd giành cú đúp giải thưởng Ngoại hạng Anh](https://vnexpress.net/man-utd-gianh-cu-dup-giai-thuong-ngoai-hang-anh-4961374.html) - 11:41 07/11/2025
 - 🪄 [Hàng loạt cơ sở du lịch Quy Nhơn đổ nát, mất tiền tỷ sau bão](https://vnexpress.net/hang-loat-co-so-du-lich-quy-nhon-do-nat-mat-tien-ty-sau-bao-4961353.html) - 11:37 07/11/2025
 - 🏊 [6 giờ bão Kalmaegi &#39;tấn công&#39; Việt Nam và những con số thiệt hại](https://vnexpress.net/6-gio-bao-kalmaegi-tan-cong-viet-nam-va-nhung-con-so-thiet-hai-4961375.html) - 11:30 07/11/2025
