@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Guardiola và 1000 trận đấu định nghĩa lại bóng đá](https://vnexpress.net/guardiola-va-1000-tran-dau-dinh-nghia-lai-bong-da-4961226.html) - 17:00 07/11/2025
-- 🦩 [Yoro: &#39;Man Utd có thể sa sút, nhưng đẳng cấp thì không bao giờ mất&#39;](https://vnexpress.net/yoro-man-utd-co-the-sa-sut-nhung-dang-cap-thi-khong-bao-gio-mat-4961421.html) - 17:00 07/11/2025
+- 🪜 [Yoro: &#39;Man Utd có thể sa sút, nhưng đẳng cấp không bao giờ mất&#39;](https://vnexpress.net/yoro-man-utd-co-the-sa-sut-nhung-dang-cap-khong-bao-gio-mat-4961421.html) - 17:00 07/11/2025
+- 🦩 [Guardiola và 1000 trận đấu định nghĩa lại bóng đá](https://vnexpress.net/guardiola-va-1000-tran-dau-dinh-nghia-lai-bong-da-4961226.html) - 17:00 07/11/2025
 - 🧰 [Cựu vô địch NBA bị bắt vì tàng trữ ma túy](https://vnexpress.net/cuu-vo-dich-nba-bi-bat-vi-tang-tru-ma-tuy-4961416.html) - 17:00 07/11/2025
 - 🤗 [Slot ví Liverpool - Man City như El Clasico nước Anh](https://vnexpress.net/slot-vi-liverpool-man-city-nhu-el-clasico-nuoc-anh-4961407.html) - 17:00 07/11/2025
-- 🥳 [Arteta: &#39;Không cần khen Arsenal về thành tích phòng ngự&#39;](https://vnexpress.net/arteta-khong-can-khen-arsenal-ve-thanh-tich-phong-ngu-4961400.html) - 17:00 07/11/2025
+- 🥳 [Arteta: &#39;Arsenal không cần những lời khen ngợi&#39;](https://vnexpress.net/arteta-arsenal-khong-can-nhung-loi-khen-ngoi-4961400.html) - 17:00 07/11/2025
 - 🦣 [Man Utd giành cú đúp giải thưởng Ngoại hạng Anh](https://vnexpress.net/man-utd-gianh-cu-dup-giai-thuong-ngoai-hang-anh-4961374.html) - 11:41 07/11/2025
 - 🌜 [Báo Malaysia kêu gọi công lý cho 7 cầu thủ nhập tịch](https://vnexpress.net/bao-malaysia-keu-goi-cong-ly-cho-7-cau-thu-nhap-tich-4961363.html) - 11:10 07/11/2025
 - 🫶 [Theerathon bác bỏ mâu thuẫn với cầu thủ lai Thái Lan](https://vnexpress.net/theerathon-bac-bo-mau-thuan-voi-cau-thu-lai-thai-lan-4961326.html) - 09:20 07/11/2025
