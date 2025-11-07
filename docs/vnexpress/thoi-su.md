@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông Trần Sỹ Thanh: Ủy ban Kiểm tra Trung ương sẽ xứng đáng là nơi bảo vệ kỷ cương](https://vnexpress.net/ong-tran-sy-thanh-uy-ban-kiem-tra-trung-uong-se-xung-dang-la-noi-bao-ve-ky-cuong-4961412.html) - 15:05 07/11/2025
-- 🤓 [Voi rừng vào nhà dân tìm thức ăn](https://vnexpress.net/voi-rung-vao-nha-dan-tim-thuc-an-4961408.html) - 14:55 07/11/2025
-- ⚗️ [Đề xuất xây dựng bộ sách riêng cho học sinh giỏi](https://vnexpress.net/de-xuat-xay-dung-bo-sach-rieng-cho-hoc-sinh-gioi-4961357.html) - 13:34 07/11/2025
-- 🌊 [Lâm Đồng di dời dân quanh hồ 1,7 triệu m3 nguy cơ vỡ đập](https://vnexpress.net/vo-ho-chua-nuoc-4961390.html) - 13:13 07/11/2025
-- 🎓 [Bão Kalmeagi gây thiệt hại hơn 7.000 tỷ đồng](https://vnexpress.net/bao-kalmeagi-gay-thiet-hai-hon-7-000-ty-dong-4961359.html) - 12:00 07/11/2025
-- 🔥 [Nguyên Phó chủ tịch tỉnh Đồng Nai Nguyễn Quốc Hùng bị khai trừ Đảng](https://vnexpress.net/nguyen-pho-chu-tich-tinh-dong-nai-nguyen-quoc-hung-bi-khai-tru-dang-4961371.html) - 11:43 07/11/2025
-- 🦏 [6 giờ bão Kalmaegi &#39;tấn công&#39; Việt Nam và những con số thiệt hại](https://vnexpress.net/6-gio-bao-kalmaegi-tan-cong-viet-nam-va-nhung-con-so-thiet-hai-4961375.html) - 11:30 07/11/2025
-- 👺 [Xe tải tông vào loạt xe trên cao tốc Hà Nội - Thái Nguyên](https://vnexpress.net/xe-tai-tong-vao-loat-xe-tren-cao-toc-ha-noi-thai-nguyen-4961339.html) - 10:03 07/11/2025
-- 🧑‍🏫 [Đại biểu Quốc hội: Lạm dụng đóng dấu mật gây lãng phí trong quản trị công](https://vnexpress.net/dai-bieu-quoc-hoi-lam-dung-dong-dau-mat-gay-lang-phi-trong-quan-tri-cong-4961302.html) - 09:55 07/11/2025
-- 🚦 [Xe tải tông nhau, cao tốc Nghi Sơn - Diễn Châu ùn tắc](https://vnexpress.net/xe-tai-tong-nhau-cao-toc-nghi-son-dien-chau-un-tac-4961186.html) - 07:53 07/11/2025
-- 🎉 [Hàng trăm tàu bị bão Kalmaegi phá hủy, đánh chìm](https://vnexpress.net/hang-tram-tau-bi-bao-kalmaegi-pha-huy-danh-chim-4961184.html) - 07:46 07/11/2025
-- 🦒 [Tiểu sử nữ Chủ tịch đầu tiên của Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/tieu-su-nu-chu-tich-dau-tien-cua-mat-tran-to-quoc-viet-nam-4959377.html) - 07:45 07/11/2025
-- 🤗 [Lũ cuốn trôi đường dẫn cầu, đường Trường Sơn Đông bị chia cắt](https://vnexpress.net/lu-cuon-troi-duong-dan-cau-duong-truong-son-dong-bi-chia-cat-4961174.html) - 07:45 07/11/2025
-- 💼 [Bà Bùi Thị Minh Hoài giữ chức Chủ tịch Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/ba-bui-thi-minh-hoai-giu-chuc-chu-tich-mat-tran-to-quoc-viet-nam-4960663.html) - 07:42 07/11/2025
-- 🤩 [Cá sấu xuất hiện trong vườn nhà dân](https://vnexpress.net/ca-sau-xuat-hien-trong-vuon-nha-dan-4961187.html) - 05:42 07/11/2025
-- 🤡 [Trực thăng tìm kiếm 3 người mất tích ở biển Lý Sơn](https://vnexpress.net/truc-thang-tim-kiem-3-nguoi-mat-tich-o-bien-ly-son-4961188.html) - 05:22 07/11/2025
-- 💯 [Chính phủ đề xuất mở rộng 4 vùng động lực quốc gia](https://vnexpress.net/chinh-phu-de-xuat-mo-rong-4-vung-dong-luc-quoc-gia-4961159.html) - 05:11 07/11/2025
-- 👺 [Dừa bật gốc, cát phủ kín 3 km đường ven biển Đà Nẵng](https://vnexpress.net/dua-bat-goc-cat-phu-kin-3-km-duong-ven-bien-da-nang-4961098.html) - 04:16 07/11/2025
-- 🌮 [Trung tâm Quy Nhơn ngổn ngang sau bão](https://vnexpress.net/trung-tam-quy-nhon-ngon-ngang-sau-bao-4961115.html) - 04:15 07/11/2025
-- 🥸 [Hơn 1,6 triệu hộ mất điện do bão Kalmaegi](https://vnexpress.net/hon-1-6-trieu-ho-mat-dien-do-bao-kalmaegi-4961070.html) - 02:19 07/11/2025
-- 🐻 [5 người chết, hơn 2.600 nhà hư hỏng do bão Kalmaegi](https://vnexpress.net/5-nguoi-chet-hon-2-600-nha-hu-hong-do-bao-kalmaegi-4961051.html) - 02:14 07/11/2025
-- 👀 [Đường sắt Bắc Nam bị chia cắt, 9 tàu khách phải nằm chờ](https://vnexpress.net/duong-sat-bac-nam-bi-chia-cat-9-tau-khach-phai-nam-cho-4961047.html) - 02:09 07/11/2025
-- 🤔 [Nước biển tràn vào nhà dân Đăk Lăk](https://vnexpress.net/nuoc-bien-tran-vao-nha-dan-dak-lak-4961034.html) - 01:55 07/11/2025
-- 🕯 [Chợ, nhà máy, đường phố tan hoang sau bão Kalmaegi](https://vnexpress.net/cho-nha-may-duong-pho-tan-hoang-sau-bao-kalmaegi-4961016.html) - 23:52 06/11/2025
-- 😺 [Hai cầu đường sắt ba lần được tàu hàng trấn giữ](https://vnexpress.net/hai-cau-duong-sat-ba-lan-duoc-tau-hang-tran-giu-4960246.html) - 23:00 06/11/2025
-- 🦆 [Bão Kalmaegi suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-kalmaegi-suy-yeu-thanh-ap-thap-nhiet-doi-4960982.html) - 22:32 06/11/2025
-- 🧰 [Những ngôi làng bị lũ bủa vây suốt 20 ngày](https://vnexpress.net/nhung-ngoi-lang-bi-lu-bua-vay-suot-20-ngay-4960963.html) - 17:00 06/11/2025
-- 🦍 [Cửa kính vỡ, mái tôn bay khi bão quét qua](https://vnexpress.net/cua-kinh-vo-mai-ton-bay-khi-bao-quet-qua-4960947.html) - 15:22 06/11/2025
-- 🧰 [Bão Kalmaegi giật sập nhiều nhà, nguy cơ ngập diện rộng](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961-tong-thuat.html) - 12:21 06/11/2025
-- 💃 [&#39;Cần gỡ vướng chuyển giao công nghệ y tế để bệnh nhân không ra nước ngoài&#39;](https://vnexpress.net/can-go-vuong-chuyen-giao-cong-nghe-y-te-de-benh-nhan-khong-ra-nuoc-ngoai-4960919.html) - 11:47 06/11/2025
-- 🧰 [Nhân sự Bộ Chính trị, Ban Bí thư khóa 14 phải có tầm nhìn, năng lực, sức bền](https://vnexpress.net/nhan-su-bo-chinh-tri-ban-bi-thu-khoa-14-phai-co-tam-nhin-nang-luc-suc-ben-4960944.html) - 11:14 06/11/2025
-- 🚀 [Lâm Đồng kiểm tra khẩn cấp các hồ chứa nước](https://vnexpress.net/lam-dong-kiem-tra-khan-cap-cac-ho-chua-nuoc-4960878.html) - 10:50 06/11/2025
-- 🎊 [Bão Kalmaegi trên vùng biển Đăk Lăk - Gia Lai, mạnh cấp 14](https://vnexpress.net/bao-kalmaegi-tren-vung-bien-dak-lak-gia-lai-manh-cap-14-4960941.html) - 10:43 06/11/2025
-- 🤭 [Nhà nước kiến tạo để doanh nghiệp công nghệ chiến lược phát triển](https://vnexpress.net/nha-nuoc-kien-tao-de-doanh-nghiep-cong-nghe-chien-luoc-phat-trien-4960858.html) - 10:21 06/11/2025
-- 🤗 [Chính phủ đề xuất đầu tư sân bay Gia Bình hơn 196.000 tỷ đồng](https://vnexpress.net/chinh-phu-de-xuat-dau-tu-san-bay-gia-binh-hon-196-000-ty-dong-4960901.html) - 09:52 06/11/2025
-- 🌈 [Bão Kalmaegi quật vỡ kính khách sạn khi áp sát bờ](https://vnexpress.net/bao-kalmaegi-gay-mua-gio-lon-o-quang-ngai-gia-lai-4960610-tong-thuat.html) - 09:12 06/11/2025
-- 🦣 [Triều cường cao kỷ lục gây vỡ đê cồn giữa sông Hậu](https://vnexpress.net/trieu-cuong-cao-ky-luc-gay-vo-de-con-giua-song-hau-4960782.html) - 08:49 06/11/2025
-- 🎡 [Đặc khu Trường Sa thiệt hại nhẹ sau bão Kalmaegi](https://vnexpress.net/dac-khu-truong-sa-thiet-hai-nhe-sau-bao-kalmaegi-4960753.html) - 08:38 06/11/2025
-- 🦏 [TP HCM nguy cơ ngập nặng do hoàn lưu bão Kalmaegi kết hợp triều cường](https://vnexpress.net/tp-hcm-nguy-co-ngap-nang-do-hoan-luu-bao-kalmaegi-ket-hop-trieu-cuong-4960821.html) - 08:26 06/11/2025
-- 🎊 [Trăn quý hiếm cuộn tròn trong nhà dân](https://vnexpress.net/tran-quy-hiem-cuon-tron-trong-nha-dan-4960792.html) - 08:09 06/11/2025
-- 🫶 [Gia Lai cấm người dân ra khỏi nhà](https://vnexpress.net/gia-lai-cam-nguoi-dan-ra-khoi-nha-4960825.html) - 08:05 06/11/2025
-- 🤔 [Người dân bảo vệ tài sản, chạy bão Kalmaegi](https://vnexpress.net/nguoi-dan-bao-ve-tai-san-chay-bao-kalmaegi-4960765.html) - 07:27 06/11/2025
-- 🤠 [Người dân miền Trung khẩn cấp di tản tránh bão Kalmaegi](https://vnexpress.net/nguoi-dan-mien-trung-khan-cap-di-tan-tranh-bao-kalmaegi-4960758.html) - 06:43 06/11/2025
-- 🌜 [Đề xuất thi ý tưởng thiết kế đài tưởng niệm nạn nhân Covid-19](https://vnexpress.net/de-xuat-thi-y-tuong-thiet-ke-dai-tuong-niem-nan-nhan-covid-19-4960754.html) - 06:24 06/11/2025
-- 🕯 [Chủ tịch TP Huế: &#39;Tôi ấm lòng vì người dân chủ động cùng chính quyền chống lũ&#39;](https://vnexpress.net/chu-tich-tp-hue-toi-am-long-vi-nguoi-dan-chu-dong-cung-chinh-quyen-chong-lu-4959884.html) - 05:53 06/11/2025
-- 🤔 [Trung ương bế mạc Hội nghị 14, thống nhất một số nội dung về nhân sự cấp cao](https://vnexpress.net/trung-uong-be-mac-hoi-nghi-14-thong-nhat-mot-so-noi-dung-ve-nhan-su-cap-cao-4960690.html) - 04:37 06/11/2025
-- 🏊 [Bão Kalmaegi mạnh lên cấp 15, đổ bộ Quảng Ngãi - Gia Lai chiều nay](https://vnexpress.net/bao-kalmaegi-manh-len-cap-15-do-bo-quang-ngai-gia-lai-chieu-nay-4960647.html) - 03:24 06/11/2025
-- 🌮 [Kalmaegi là bão mạnh nhất đổ bộ Quảng Ngãi - Gia Lai 5 năm qua](https://vnexpress.net/kalmaegi-la-bao-manh-nhat-do-bo-quang-ngai-gia-lai-5-nam-qua-4960531.html) - 03:17 06/11/2025
-- 🫣 [6 sân bay tạm dừng tiếp nhận tàu bay](https://vnexpress.net/6-san-bay-tam-dung-tiep-nhan-tau-bay-4960645.html) - 03:08 06/11/2025
-- ⚗️ [Vùng tâm bão huy động xe thiết giáp chống Kalmaegi](https://vnexpress.net/vung-tam-bao-huy-dong-xe-thiet-giap-chong-kalmaegi-4960562.html) - 02:23 06/11/2025
-- 🌜 [Bão Kalmaegi ảnh hưởng đất liền Đà Nẵng - Đăk Lăk từ chiều nay](https://vnexpress.net/bao-kalmaegi-anh-huong-dat-lien-da-nang-dak-lak-tu-chieu-nay-4960535.html) - 23:35 05/11/2025
-- 🌁 [Chịu tổn thất nặng vì lao động đi Hàn bỏ trốn](https://vnexpress.net/chiu-ton-that-nang-vi-lao-dong-di-han-bo-tron-4959419.html) - 17:58 05/11/2025
-- 🐲 [&#39;Kalmaegi là bão mạnh hiếm gặp trong tháng 11&#39;](https://vnexpress.net/kalmaegi-la-bao-manh-hiem-gap-trong-thang-11-4960458.html) - 17:22 05/11/2025
-- ⛽️ [Đề xuất chuyển cụm &#39;biệt thự Chú Hỏa&#39; thành bảo tàng, thư viện](https://vnexpress.net/de-xuat-chuyen-cum-biet-thu-chu-hoa-thanh-bao-tang-thu-vien-4960291.html) - 17:00 05/11/2025
-- 🗽 [Tài xế bỏ trốn sau khi gây hàng loạt va chạm](https://vnexpress.net/tai-xe-bo-tron-sau-khi-gay-hang-loat-va-cham-4960520.html) - 16:39 05/11/2025
-- 🔥 [Hủy nhiều chuyến bay đến miền Trung](https://vnexpress.net/huy-nhieu-chuyen-bay-den-mien-trung-4960474.html) - 14:27 05/11/2025
-- 💯 [Bão Kalmaegi dự báo đổ bộ Quảng Ngãi - Gia Lai](https://vnexpress.net/bao-kalmaegi-du-bao-do-bo-quang-ngai-gia-lai-4960471.html) - 14:10 05/11/2025
-- 🦆 [Chính phủ muốn ưu tiên quỹ đất sạch và trụ sở dôi dư để xây trường](https://vnexpress.net/chinh-phu-muon-uu-tien-quy-dat-sach-va-tru-so-doi-du-de-xay-truong-4960463.html) - 13:36 05/11/2025
-- 🫣 [Nhiều đường TP HCM &#39;tê liệt&#39; do triều cường lớn nhất năm](https://vnexpress.net/nhieu-duong-tp-hcm-te-liet-do-trieu-cuong-lon-nhat-nam-4960469.html) - 13:33 05/11/2025
-- 🤡 [Người miền Trung gia cố cửa kính, mái nhà trước bão Kalmaegi](https://vnexpress.net/nguoi-mien-trung-gia-co-cua-kinh-mai-nha-truoc-bao-kalmaegi-4960242.html) - 13:07 05/11/2025<!-- vnexpress-thoi-su:END -->
+- 🦒 [Đêm đầu sau bão không điện ở trung tâm Quy Nhơn](https://vnexpress.net/dem-dau-sau-bao-khong-dien-o-trung-tam-quy-nhon-4961417.html) - 15:15 07/11/2025
+- 🤓 [Ông Trần Sỹ Thanh: Ủy ban Kiểm tra Trung ương sẽ xứng đáng là nơi bảo vệ kỷ cương](https://vnexpress.net/ong-tran-sy-thanh-uy-ban-kiem-tra-trung-uong-se-xung-dang-la-noi-bao-ve-ky-cuong-4961412.html) - 15:05 07/11/2025
+- ⚗️ [Voi rừng vào nhà dân tìm thức ăn](https://vnexpress.net/voi-rung-vao-nha-dan-tim-thuc-an-4961408.html) - 14:55 07/11/2025
+- 🌊 [Đề xuất xây dựng bộ sách riêng cho học sinh giỏi](https://vnexpress.net/de-xuat-xay-dung-bo-sach-rieng-cho-hoc-sinh-gioi-4961357.html) - 13:34 07/11/2025
+- 🎓 [Lâm Đồng di dời dân quanh hồ 1,7 triệu m3 nguy cơ vỡ đập](https://vnexpress.net/vo-ho-chua-nuoc-4961390.html) - 13:13 07/11/2025
+- 🔥 [Bão Kalmeagi gây thiệt hại hơn 7.000 tỷ đồng](https://vnexpress.net/bao-kalmeagi-gay-thiet-hai-hon-7-000-ty-dong-4961359.html) - 12:00 07/11/2025
+- 🦏 [Nguyên Phó chủ tịch tỉnh Đồng Nai Nguyễn Quốc Hùng bị khai trừ Đảng](https://vnexpress.net/nguyen-pho-chu-tich-tinh-dong-nai-nguyen-quoc-hung-bi-khai-tru-dang-4961371.html) - 11:43 07/11/2025
+- 👺 [6 giờ bão Kalmaegi &#39;tấn công&#39; Việt Nam và những con số thiệt hại](https://vnexpress.net/6-gio-bao-kalmaegi-tan-cong-viet-nam-va-nhung-con-so-thiet-hai-4961375.html) - 11:30 07/11/2025
+- 🧑‍🏫 [Xe tải tông vào loạt xe trên cao tốc Hà Nội - Thái Nguyên](https://vnexpress.net/xe-tai-tong-vao-loat-xe-tren-cao-toc-ha-noi-thai-nguyen-4961339.html) - 10:03 07/11/2025
+- 🚦 [Đại biểu Quốc hội: Lạm dụng đóng dấu mật gây lãng phí trong quản trị công](https://vnexpress.net/dai-bieu-quoc-hoi-lam-dung-dong-dau-mat-gay-lang-phi-trong-quan-tri-cong-4961302.html) - 09:55 07/11/2025
+- 🎉 [Xe tải tông nhau, cao tốc Nghi Sơn - Diễn Châu ùn tắc](https://vnexpress.net/xe-tai-tong-nhau-cao-toc-nghi-son-dien-chau-un-tac-4961186.html) - 07:53 07/11/2025
+- 🦒 [Hàng trăm tàu bị bão Kalmaegi phá hủy, đánh chìm](https://vnexpress.net/hang-tram-tau-bi-bao-kalmaegi-pha-huy-danh-chim-4961184.html) - 07:46 07/11/2025
+- 🤗 [Tiểu sử nữ Chủ tịch đầu tiên của Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/tieu-su-nu-chu-tich-dau-tien-cua-mat-tran-to-quoc-viet-nam-4959377.html) - 07:45 07/11/2025
+- 💼 [Lũ cuốn trôi đường dẫn cầu, đường Trường Sơn Đông bị chia cắt](https://vnexpress.net/lu-cuon-troi-duong-dan-cau-duong-truong-son-dong-bi-chia-cat-4961174.html) - 07:45 07/11/2025
+- 🤩 [Bà Bùi Thị Minh Hoài giữ chức Chủ tịch Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/ba-bui-thi-minh-hoai-giu-chuc-chu-tich-mat-tran-to-quoc-viet-nam-4960663.html) - 07:42 07/11/2025
+- 🤡 [Cá sấu xuất hiện trong vườn nhà dân](https://vnexpress.net/ca-sau-xuat-hien-trong-vuon-nha-dan-4961187.html) - 05:42 07/11/2025
+- 💯 [Trực thăng tìm kiếm 3 người mất tích ở biển Lý Sơn](https://vnexpress.net/truc-thang-tim-kiem-3-nguoi-mat-tich-o-bien-ly-son-4961188.html) - 05:22 07/11/2025
+- 👺 [Chính phủ đề xuất mở rộng 4 vùng động lực quốc gia](https://vnexpress.net/chinh-phu-de-xuat-mo-rong-4-vung-dong-luc-quoc-gia-4961159.html) - 05:11 07/11/2025
+- 🌮 [Dừa bật gốc, cát phủ kín 3 km đường ven biển Đà Nẵng](https://vnexpress.net/dua-bat-goc-cat-phu-kin-3-km-duong-ven-bien-da-nang-4961098.html) - 04:16 07/11/2025
+- 🥸 [Trung tâm Quy Nhơn ngổn ngang sau bão](https://vnexpress.net/trung-tam-quy-nhon-ngon-ngang-sau-bao-4961115.html) - 04:15 07/11/2025
+- 🐻 [Hơn 1,6 triệu hộ mất điện do bão Kalmaegi](https://vnexpress.net/hon-1-6-trieu-ho-mat-dien-do-bao-kalmaegi-4961070.html) - 02:19 07/11/2025
+- 👀 [5 người chết, hơn 2.600 nhà hư hỏng do bão Kalmaegi](https://vnexpress.net/5-nguoi-chet-hon-2-600-nha-hu-hong-do-bao-kalmaegi-4961051.html) - 02:14 07/11/2025
+- 🤔 [Đường sắt Bắc Nam bị chia cắt, 9 tàu khách phải nằm chờ](https://vnexpress.net/duong-sat-bac-nam-bi-chia-cat-9-tau-khach-phai-nam-cho-4961047.html) - 02:09 07/11/2025
+- 🕯 [Nước biển tràn vào nhà dân Đăk Lăk](https://vnexpress.net/nuoc-bien-tran-vao-nha-dan-dak-lak-4961034.html) - 01:55 07/11/2025
+- 😺 [Chợ, nhà máy, đường phố tan hoang sau bão Kalmaegi](https://vnexpress.net/cho-nha-may-duong-pho-tan-hoang-sau-bao-kalmaegi-4961016.html) - 23:52 06/11/2025
+- 🦆 [Hai cầu đường sắt ba lần được tàu hàng trấn giữ](https://vnexpress.net/hai-cau-duong-sat-ba-lan-duoc-tau-hang-tran-giu-4960246.html) - 23:00 06/11/2025
+- 🧰 [Bão Kalmaegi suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-kalmaegi-suy-yeu-thanh-ap-thap-nhiet-doi-4960982.html) - 22:32 06/11/2025
+- 🦍 [Những ngôi làng bị lũ bủa vây suốt 20 ngày](https://vnexpress.net/nhung-ngoi-lang-bi-lu-bua-vay-suot-20-ngay-4960963.html) - 17:00 06/11/2025
+- 🧰 [Cửa kính vỡ, mái tôn bay khi bão quét qua](https://vnexpress.net/cua-kinh-vo-mai-ton-bay-khi-bao-quet-qua-4960947.html) - 15:22 06/11/2025
+- 💃 [Bão Kalmaegi giật sập nhiều nhà, nguy cơ ngập diện rộng](https://vnexpress.net/bao-kalmaegi-do-bo-dak-lak-gia-lai-4960961-tong-thuat.html) - 12:21 06/11/2025
+- 🧰 [&#39;Cần gỡ vướng chuyển giao công nghệ y tế để bệnh nhân không ra nước ngoài&#39;](https://vnexpress.net/can-go-vuong-chuyen-giao-cong-nghe-y-te-de-benh-nhan-khong-ra-nuoc-ngoai-4960919.html) - 11:47 06/11/2025
+- 🚀 [Nhân sự Bộ Chính trị, Ban Bí thư khóa 14 phải có tầm nhìn, năng lực, sức bền](https://vnexpress.net/nhan-su-bo-chinh-tri-ban-bi-thu-khoa-14-phai-co-tam-nhin-nang-luc-suc-ben-4960944.html) - 11:14 06/11/2025
+- 🎊 [Lâm Đồng kiểm tra khẩn cấp các hồ chứa nước](https://vnexpress.net/lam-dong-kiem-tra-khan-cap-cac-ho-chua-nuoc-4960878.html) - 10:50 06/11/2025
+- 🤭 [Bão Kalmaegi trên vùng biển Đăk Lăk - Gia Lai, mạnh cấp 14](https://vnexpress.net/bao-kalmaegi-tren-vung-bien-dak-lak-gia-lai-manh-cap-14-4960941.html) - 10:43 06/11/2025
+- 🤗 [Nhà nước kiến tạo để doanh nghiệp công nghệ chiến lược phát triển](https://vnexpress.net/nha-nuoc-kien-tao-de-doanh-nghiep-cong-nghe-chien-luoc-phat-trien-4960858.html) - 10:21 06/11/2025
+- 🌈 [Chính phủ đề xuất đầu tư sân bay Gia Bình hơn 196.000 tỷ đồng](https://vnexpress.net/chinh-phu-de-xuat-dau-tu-san-bay-gia-binh-hon-196-000-ty-dong-4960901.html) - 09:52 06/11/2025
+- 🦣 [Bão Kalmaegi quật vỡ kính khách sạn khi áp sát bờ](https://vnexpress.net/bao-kalmaegi-gay-mua-gio-lon-o-quang-ngai-gia-lai-4960610-tong-thuat.html) - 09:12 06/11/2025
+- 🎡 [Triều cường cao kỷ lục gây vỡ đê cồn giữa sông Hậu](https://vnexpress.net/trieu-cuong-cao-ky-luc-gay-vo-de-con-giua-song-hau-4960782.html) - 08:49 06/11/2025
+- 🦏 [Đặc khu Trường Sa thiệt hại nhẹ sau bão Kalmaegi](https://vnexpress.net/dac-khu-truong-sa-thiet-hai-nhe-sau-bao-kalmaegi-4960753.html) - 08:38 06/11/2025
+- 🎊 [TP HCM nguy cơ ngập nặng do hoàn lưu bão Kalmaegi kết hợp triều cường](https://vnexpress.net/tp-hcm-nguy-co-ngap-nang-do-hoan-luu-bao-kalmaegi-ket-hop-trieu-cuong-4960821.html) - 08:26 06/11/2025
+- 🫶 [Trăn quý hiếm cuộn tròn trong nhà dân](https://vnexpress.net/tran-quy-hiem-cuon-tron-trong-nha-dan-4960792.html) - 08:09 06/11/2025
+- 🤔 [Gia Lai cấm người dân ra khỏi nhà](https://vnexpress.net/gia-lai-cam-nguoi-dan-ra-khoi-nha-4960825.html) - 08:05 06/11/2025
+- 🤠 [Người dân bảo vệ tài sản, chạy bão Kalmaegi](https://vnexpress.net/nguoi-dan-bao-ve-tai-san-chay-bao-kalmaegi-4960765.html) - 07:27 06/11/2025
+- 🌜 [Người dân miền Trung khẩn cấp di tản tránh bão Kalmaegi](https://vnexpress.net/nguoi-dan-mien-trung-khan-cap-di-tan-tranh-bao-kalmaegi-4960758.html) - 06:43 06/11/2025
+- 🕯 [Đề xuất thi ý tưởng thiết kế đài tưởng niệm nạn nhân Covid-19](https://vnexpress.net/de-xuat-thi-y-tuong-thiet-ke-dai-tuong-niem-nan-nhan-covid-19-4960754.html) - 06:24 06/11/2025
+- 🤔 [Chủ tịch TP Huế: &#39;Tôi ấm lòng vì người dân chủ động cùng chính quyền chống lũ&#39;](https://vnexpress.net/chu-tich-tp-hue-toi-am-long-vi-nguoi-dan-chu-dong-cung-chinh-quyen-chong-lu-4959884.html) - 05:53 06/11/2025
+- 🏊 [Trung ương bế mạc Hội nghị 14, thống nhất một số nội dung về nhân sự cấp cao](https://vnexpress.net/trung-uong-be-mac-hoi-nghi-14-thong-nhat-mot-so-noi-dung-ve-nhan-su-cap-cao-4960690.html) - 04:37 06/11/2025
+- 🌮 [Bão Kalmaegi mạnh lên cấp 15, đổ bộ Quảng Ngãi - Gia Lai chiều nay](https://vnexpress.net/bao-kalmaegi-manh-len-cap-15-do-bo-quang-ngai-gia-lai-chieu-nay-4960647.html) - 03:24 06/11/2025
+- 🫣 [Kalmaegi là bão mạnh nhất đổ bộ Quảng Ngãi - Gia Lai 5 năm qua](https://vnexpress.net/kalmaegi-la-bao-manh-nhat-do-bo-quang-ngai-gia-lai-5-nam-qua-4960531.html) - 03:17 06/11/2025
+- ⚗️ [6 sân bay tạm dừng tiếp nhận tàu bay](https://vnexpress.net/6-san-bay-tam-dung-tiep-nhan-tau-bay-4960645.html) - 03:08 06/11/2025
+- 🌜 [Vùng tâm bão huy động xe thiết giáp chống Kalmaegi](https://vnexpress.net/vung-tam-bao-huy-dong-xe-thiet-giap-chong-kalmaegi-4960562.html) - 02:23 06/11/2025
+- 🌁 [Bão Kalmaegi ảnh hưởng đất liền Đà Nẵng - Đăk Lăk từ chiều nay](https://vnexpress.net/bao-kalmaegi-anh-huong-dat-lien-da-nang-dak-lak-tu-chieu-nay-4960535.html) - 23:35 05/11/2025
+- 🐲 [Chịu tổn thất nặng vì lao động đi Hàn bỏ trốn](https://vnexpress.net/chiu-ton-that-nang-vi-lao-dong-di-han-bo-tron-4959419.html) - 17:58 05/11/2025
+- ⛽️ [&#39;Kalmaegi là bão mạnh hiếm gặp trong tháng 11&#39;](https://vnexpress.net/kalmaegi-la-bao-manh-hiem-gap-trong-thang-11-4960458.html) - 17:22 05/11/2025
+- 🗽 [Đề xuất chuyển cụm &#39;biệt thự Chú Hỏa&#39; thành bảo tàng, thư viện](https://vnexpress.net/de-xuat-chuyen-cum-biet-thu-chu-hoa-thanh-bao-tang-thu-vien-4960291.html) - 17:00 05/11/2025
+- 🔥 [Tài xế bỏ trốn sau khi gây hàng loạt va chạm](https://vnexpress.net/tai-xe-bo-tron-sau-khi-gay-hang-loat-va-cham-4960520.html) - 16:39 05/11/2025
+- 💯 [Hủy nhiều chuyến bay đến miền Trung](https://vnexpress.net/huy-nhieu-chuyen-bay-den-mien-trung-4960474.html) - 14:27 05/11/2025
+- 🦆 [Bão Kalmaegi dự báo đổ bộ Quảng Ngãi - Gia Lai](https://vnexpress.net/bao-kalmaegi-du-bao-do-bo-quang-ngai-gia-lai-4960471.html) - 14:10 05/11/2025
+- 🫣 [Chính phủ muốn ưu tiên quỹ đất sạch và trụ sở dôi dư để xây trường](https://vnexpress.net/chinh-phu-muon-uu-tien-quy-dat-sach-va-tru-so-doi-du-de-xay-truong-4960463.html) - 13:36 05/11/2025
+- 🤡 [Nhiều đường TP HCM &#39;tê liệt&#39; do triều cường lớn nhất năm](https://vnexpress.net/nhieu-duong-tp-hcm-te-liet-do-trieu-cuong-lon-nhat-nam-4960469.html) - 13:33 05/11/2025<!-- vnexpress-thoi-su:END -->
