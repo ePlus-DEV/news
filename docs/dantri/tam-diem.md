@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Khi cha mẹ bị phạt tiền nếu cưỡng ép con học quá sức](https://dantri.com.vn/tam-diem/khi-cha-me-bi-phat-tien-neu-cuong-ep-con-hoc-qua-suc-20251105171055776.htm) - 00:30 06/11/2025
-- 🫶 [Kỳ vọng lộ trình, bước đi phù hợp cho “nguồn thu nhập chính”](https://dantri.com.vn/tam-diem/ky-vong-lo-trinh-buoc-di-phu-hop-cho-nguon-thu-nhap-chinh-20251105182124568.htm) - 11:21 05/11/2025
-- 🦏 [Về đề xuất đánh thuế thu nhập cá nhân với giao dịch vàng miếng](https://dantri.com.vn/tam-diem/ve-de-xuat-danh-thue-thu-nhap-ca-nhan-voi-giao-dich-vang-mieng-20251104215948007.htm) - 00:37 05/11/2025
-- 🧰 [“Ngược - xuôi” tăng tuổi nghỉ hưu](https://dantri.com.vn/tam-diem/nguoc-xuoi-tang-tuoi-nghi-huu-20251104130807362.htm) - 06:59 04/11/2025
-- 🙉 [Đối diện với “vòng luẩn quẩn” của thiên tai](https://dantri.com.vn/tam-diem/doi-dien-voi-vong-luan-quan-cua-thien-tai-20251103220218009.htm) - 15:16 03/11/2025
-- 🌜 [Hệ điều tiết sự phát triển xã hội bền vững](https://dantri.com.vn/tam-diem/he-dieu-tiet-su-phat-trien-xa-hoi-ben-vung-20251102165430464.htm) - 23:06 02/11/2025
-- 🤔 [Nổi tiếng và tai tiếng](https://dantri.com.vn/tam-diem/noi-tieng-va-tai-tieng-20251101202325242.htm) - 22:34 01/11/2025
-- 🤩 [Giữ rừng, để không “rưng rưng nước mắt”](https://dantri.com.vn/tam-diem/giu-rung-de-khong-rung-rung-nuoc-mat-20251101091759671.htm) - 02:28 01/11/2025
-- 🦅 [Cái cân trước cửa ra máy bay](https://dantri.com.vn/tam-diem/cai-can-truoc-cua-ra-may-bay-20251031053802627.htm) - 08:49 31/10/2025
-- 💫 [Hướng đi khác của “nhà ở xã hội giá rẻ”](https://dantri.com.vn/tam-diem/huong-di-khac-cua-nha-o-xa-hoi-gia-re-20251030110854079.htm) - 22:49 30/10/2025
-- 🤗 [Nỗi đau mùa lũ](https://dantri.com.vn/tam-diem/noi-dau-mua-lu-20251030073849379.htm) - 00:48 30/10/2025
-- 🫶 [Khi camera AI “soi” vi phạm giao thông](https://dantri.com.vn/tam-diem/khi-camera-ai-soi-vi-pham-giao-thong-20251029082751598.htm) - 07:32 29/10/2025
-- 💡 [Ký túc xá, hạ tầng thiết yếu bị “bỏ quên”](https://dantri.com.vn/tam-diem/ky-tuc-xa-ha-tang-thiet-yeu-bi-bo-quen-20251028142819256.htm) - 23:33 28/10/2025
-- 🌮 [Khi xếp hàng mua nhà ở xã hội như “săn vé concert”](https://dantri.com.vn/tam-diem/khi-xep-hang-mua-nha-o-xa-hoi-nhu-san-ve-concert-20251028140337466.htm) - 07:55 28/10/2025
-- 🌊 [Từ chuyện Bầu Đức làm Học viện bóng đá đến đề xuất của Chủ tịch FIFA](https://dantri.com.vn/tam-diem/tu-chuyen-bau-duc-lam-hoc-vien-bong-da-den-de-xuat-cua-chu-tich-fifa-20251027215018346.htm) - 21:52 27/10/2025
-- 👹 [Hai đề xuất quan trọng nâng cao hiệu quả kiểm soát tài sản, thu nhập](https://dantri.com.vn/tam-diem/hai-de-xuat-quan-trong-nang-cao-hieu-qua-kiem-soat-tai-san-thu-nhap-20251027090926550.htm) - 02:21 27/10/2025
-- 🤩 [Đề xuất đình chỉ bác sĩ tiết lộ giới tính thai nhi: Chế tài “phần ngọn”!](https://dantri.com.vn/tam-diem/de-xuat-dinh-chi-bac-si-tiet-lo-gioi-tinh-thai-nhi-che-tai-phan-ngon-20251026083836008.htm) - 08:12 26/10/2025
-- 💄 [Nắp cống kể chuyện](https://dantri.com.vn/tam-diem/nap-cong-ke-chuyen-20251026081943587.htm) - 01:22 26/10/2025
-- 🦣 [Bằng giỏi theo kiểu “cả làng cùng vui”](https://dantri.com.vn/tam-diem/bang-gioi-theo-kieu-ca-lang-cung-vui-20251025174245784.htm) - 10:42 25/10/2025
-- ⛽️ [Hàng không chậm chuyến: Không thể xin lỗi là xong!](https://dantri.com.vn/tam-diem/hang-khong-cham-chuyen-khong-the-xin-loi-la-xong-20251024134658348.htm) - 00:06 25/10/2025
-- 🌁 [Đường sắt đô thị và chiến lược sống còn của Hà Nội](https://dantri.com.vn/tam-diem/duong-sat-do-thi-va-chien-luoc-song-con-cua-ha-noi-20251024074518324.htm) - 00:47 24/10/2025
-- 🥳 [Khi lòng tốt bị biến thành công cụ kiếm tiền bất chính](https://dantri.com.vn/tam-diem/khi-long-tot-bi-bien-thanh-cong-cu-kiem-tien-bat-chinh-20251023151813267.htm) - 08:31 23/10/2025
-- 🧐 [Toàn dân góp ý vào tầm nhìn Đại hội XIV của Đảng](https://dantri.com.vn/tam-diem/toan-dan-gop-y-vao-tam-nhin-dai-hoi-xiv-cua-dang-20251023061007122.htm) - 23:10 22/10/2025
-- 🕴 [Phạt tiền trong nhà trường](https://dantri.com.vn/tam-diem/phat-tien-trong-nha-truong-20251022104045011.htm) - 07:10 22/10/2025
-- 🥳 [Khu vực Bến Nhà Rồng: Mảnh đất vàng cho những giá trị bền lâu](https://dantri.com.vn/tam-diem/khu-vuc-ben-nha-rong-manh-dat-vang-cho-nhung-gia-tri-ben-lau-20251021153322248.htm) - 23:21 21/10/2025
-- 💡 [Khi “cái tôi” nghệ sĩ vượt quá giới hạn của văn hóa](https://dantri.com.vn/tam-diem/khi-cai-toi-nghe-si-vuot-qua-gioi-han-cua-van-hoa-20251021080024073.htm) - 01:12 21/10/2025
-- 🦣 [Kỳ vọng không gian mới khu vực Bến Nhà Rồng](https://dantri.com.vn/tam-diem/ky-vong-khong-gian-moi-khu-vuc-ben-nha-rong-20251020151352039.htm) - 09:54 20/10/2025
-- 🤓 [TPHCM và viễn cảnh trung tâm hàng hải quốc tế](https://dantri.com.vn/tam-diem/tphcm-va-vien-canh-trung-tam-hang-hai-quoc-te-20251020083131529.htm) - 01:35 20/10/2025
-- 🤭 [Nâng mức giảm trừ gia cảnh, tăng nuôi dưỡng nguồn thu](https://dantri.com.vn/tam-diem/nang-muc-giam-tru-gia-canh-tang-nuoi-duong-nguon-thu-20251019081201698.htm) - 08:08 19/10/2025
-- 🌮 [“Phạt” học trò hư như thế nào?](https://dantri.com.vn/tam-diem/phat-hoc-tro-hu-nhu-the-nao-20251019075045947.htm) - 01:55 19/10/2025
-- 🗽 [Chuẩn nào cho khay cơm bán trú ở nhà trường](https://dantri.com.vn/tam-diem/chuan-nao-cho-khay-com-ban-tru-o-nha-truong-20251018184302031.htm) - 11:43 18/10/2025
-- ⚗️ [Người trẻ không chịu sinh con - chuyện không chỉ là “tiền”](https://dantri.com.vn/tam-diem/nguoi-tre-khong-chiu-sinh-con-chuyen-khong-chi-la-tien-20251017094217324.htm) - 23:47 17/10/2025
-- 🥰 [Ảo tưởng giàu nhanh với tiền số: Đưa chân vào bẫy!](https://dantri.com.vn/tam-diem/ao-tuong-giau-nhanh-voi-tien-so-dua-chan-vao-bay-20251017033105163.htm) - 20:31 16/10/2025
-- 🚀 [Khoảng trống bảo hiểm sau bão lũ](https://dantri.com.vn/tam-diem/khoang-trong-bao-hiem-sau-bao-lu-20251016073211000.htm) - 07:20 16/10/2025
-- 🎊 [“Bão like” từ cách truyền thông chính sách mới](https://dantri.com.vn/tam-diem/bao-like-tu-cach-truyen-thong-chinh-sach-moi-20251015164341413.htm) - 00:23 16/10/2025
-- 🦣 [Đằng sau mô hình kinh doanh bằng sự nổi tiếng](https://dantri.com.vn/tam-diem/dang-sau-mo-hinh-kinh-doanh-bang-su-noi-tieng-20251014142816718.htm) - 00:37 15/10/2025
-- 🎃 [Tăng chiều cao người Việt như thế nào?](https://dantri.com.vn/tam-diem/tang-chieu-cao-nguoi-viet-nhu-the-nao-20251014173327080.htm) - 10:33 14/10/2025
-- 💂 [Từ vụ Ngân 98: Khi “thần dược” là trò lừa](https://dantri.com.vn/tam-diem/tu-vu-ngan-98-khi-than-duoc-la-tro-lua-20251014065124860.htm) - 23:52 13/10/2025
-- 🦒 [Doanh nhân Việt Nam trước thời khắc lịch sử](https://dantri.com.vn/tam-diem/doanh-nhan-viet-nam-truoc-thoi-khac-lich-su-20251013075515362.htm) - 08:25 13/10/2025
-- 🎭 [Tầm vóc doanh nhân Việt](https://dantri.com.vn/tam-diem/tam-voc-doanh-nhan-viet-20251013062408522.htm) - 00:30 13/10/2025
-- 📝 [Làm giàu không dễ](https://dantri.com.vn/tam-diem/lam-giau-khong-de-20251012062054123.htm) - 23:21 11/10/2025
-- 🦄 [Đừng để “chuyển đổi số” trong nhà trường thành “trang trí số”](https://dantri.com.vn/tam-diem/dung-de-chuyen-doi-so-trong-nha-truong-thanh-trang-tri-so-20251011134627850.htm) - 06:47 11/10/2025
-- 🚀 [“Công tư đồng hành”](https://dantri.com.vn/tam-diem/cong-tu-dong-hanh-20251011065506388.htm) - 01:24 11/10/2025
-- 💂 [Vòng lặp “càng đô thị hóa, càng ngập”](https://dantri.com.vn/tam-diem/vong-lap-cang-do-thi-hoa-cang-ngap-20251010154120098.htm) - 08:41 10/10/2025
-- 👀 [Bàn về cơ chế kiểm soát, kiềm chế giá bất động sản](https://dantri.com.vn/tam-diem/ban-ve-co-che-kiem-soat-kiem-che-gia-bat-dong-san-20251009203918776.htm) - 23:17 09/10/2025
-- 🚦 [Xây hầm chống ngập: Lối thoát cho đô thị Việt Nam?](https://dantri.com.vn/tam-diem/xay-ham-chong-ngap-loi-thoat-cho-do-thi-viet-nam-20251009102046831.htm) - 03:20 09/10/2025
-- 💃 [Chứng khoán Việt: Nâng hạng thị trường, lên hạng nhà đầu tư](https://dantri.com.vn/tam-diem/chung-khoan-viet-nang-hang-thi-truong-len-hang-nha-dau-tu-20251008153638993.htm) - 22:51 08/10/2025
-- 🧑‍💻 [Rác “công nghệ nhanh”](https://dantri.com.vn/tam-diem/rac-cong-nghe-nhanh-20251008075329583.htm) - 00:55 08/10/2025
-- 🥰 [Hà Nội ngập không chỉ bởi mưa lớn](https://dantri.com.vn/tam-diem/ha-noi-ngap-khong-chi-boi-mua-lon-20251007113836145.htm) - 04:49 07/10/2025
+- 🚦 [Thành phố nghĩa tình và biểu tượng vượt qua Covid-19](https://dantri.com.vn/tam-diem/thanh-pho-nghia-tinh-va-bieu-tuong-vuot-qua-covid-19-20251106161916620.htm) - 00:54 07/11/2025
+- 🫶 [Khi cha mẹ bị phạt tiền nếu cưỡng ép con học quá sức](https://dantri.com.vn/tam-diem/khi-cha-me-bi-phat-tien-neu-cuong-ep-con-hoc-qua-suc-20251105171055776.htm) - 00:30 06/11/2025
+- 🦏 [Kỳ vọng lộ trình, bước đi phù hợp cho “nguồn thu nhập chính”](https://dantri.com.vn/tam-diem/ky-vong-lo-trinh-buoc-di-phu-hop-cho-nguon-thu-nhap-chinh-20251105182124568.htm) - 11:21 05/11/2025
+- 🧰 [Về đề xuất đánh thuế thu nhập cá nhân với giao dịch vàng miếng](https://dantri.com.vn/tam-diem/ve-de-xuat-danh-thue-thu-nhap-ca-nhan-voi-giao-dich-vang-mieng-20251104215948007.htm) - 00:37 05/11/2025
+- 🙉 [“Ngược - xuôi” tăng tuổi nghỉ hưu](https://dantri.com.vn/tam-diem/nguoc-xuoi-tang-tuoi-nghi-huu-20251104130807362.htm) - 06:59 04/11/2025
+- 🌜 [Đối diện với “vòng luẩn quẩn” của thiên tai](https://dantri.com.vn/tam-diem/doi-dien-voi-vong-luan-quan-cua-thien-tai-20251103220218009.htm) - 15:16 03/11/2025
+- 🤔 [Hệ điều tiết sự phát triển xã hội bền vững](https://dantri.com.vn/tam-diem/he-dieu-tiet-su-phat-trien-xa-hoi-ben-vung-20251102165430464.htm) - 23:06 02/11/2025
+- 🤩 [Nổi tiếng và tai tiếng](https://dantri.com.vn/tam-diem/noi-tieng-va-tai-tieng-20251101202325242.htm) - 22:34 01/11/2025
+- 🦅 [Giữ rừng, để không “rưng rưng nước mắt”](https://dantri.com.vn/tam-diem/giu-rung-de-khong-rung-rung-nuoc-mat-20251101091759671.htm) - 02:28 01/11/2025
+- 💫 [Cái cân trước cửa ra máy bay](https://dantri.com.vn/tam-diem/cai-can-truoc-cua-ra-may-bay-20251031053802627.htm) - 08:49 31/10/2025
+- 🤗 [Hướng đi khác của “nhà ở xã hội giá rẻ”](https://dantri.com.vn/tam-diem/huong-di-khac-cua-nha-o-xa-hoi-gia-re-20251030110854079.htm) - 22:49 30/10/2025
+- 🫶 [Nỗi đau mùa lũ](https://dantri.com.vn/tam-diem/noi-dau-mua-lu-20251030073849379.htm) - 00:48 30/10/2025
+- 💡 [Khi camera AI “soi” vi phạm giao thông](https://dantri.com.vn/tam-diem/khi-camera-ai-soi-vi-pham-giao-thong-20251029082751598.htm) - 07:32 29/10/2025
+- 🌮 [Ký túc xá, hạ tầng thiết yếu bị “bỏ quên”](https://dantri.com.vn/tam-diem/ky-tuc-xa-ha-tang-thiet-yeu-bi-bo-quen-20251028142819256.htm) - 23:33 28/10/2025
+- 🌊 [Khi xếp hàng mua nhà ở xã hội như “săn vé concert”](https://dantri.com.vn/tam-diem/khi-xep-hang-mua-nha-o-xa-hoi-nhu-san-ve-concert-20251028140337466.htm) - 07:55 28/10/2025
+- 👹 [Từ chuyện Bầu Đức làm Học viện bóng đá đến đề xuất của Chủ tịch FIFA](https://dantri.com.vn/tam-diem/tu-chuyen-bau-duc-lam-hoc-vien-bong-da-den-de-xuat-cua-chu-tich-fifa-20251027215018346.htm) - 21:52 27/10/2025
+- 🤩 [Hai đề xuất quan trọng nâng cao hiệu quả kiểm soát tài sản, thu nhập](https://dantri.com.vn/tam-diem/hai-de-xuat-quan-trong-nang-cao-hieu-qua-kiem-soat-tai-san-thu-nhap-20251027090926550.htm) - 02:21 27/10/2025
+- 💄 [Đề xuất đình chỉ bác sĩ tiết lộ giới tính thai nhi: Chế tài “phần ngọn”!](https://dantri.com.vn/tam-diem/de-xuat-dinh-chi-bac-si-tiet-lo-gioi-tinh-thai-nhi-che-tai-phan-ngon-20251026083836008.htm) - 08:12 26/10/2025
+- 🦣 [Nắp cống kể chuyện](https://dantri.com.vn/tam-diem/nap-cong-ke-chuyen-20251026081943587.htm) - 01:22 26/10/2025
+- ⛽️ [Bằng giỏi theo kiểu “cả làng cùng vui”](https://dantri.com.vn/tam-diem/bang-gioi-theo-kieu-ca-lang-cung-vui-20251025174245784.htm) - 10:42 25/10/2025
+- 🌁 [Hàng không chậm chuyến: Không thể xin lỗi là xong!](https://dantri.com.vn/tam-diem/hang-khong-cham-chuyen-khong-the-xin-loi-la-xong-20251024134658348.htm) - 00:06 25/10/2025
+- 🥳 [Đường sắt đô thị và chiến lược sống còn của Hà Nội](https://dantri.com.vn/tam-diem/duong-sat-do-thi-va-chien-luoc-song-con-cua-ha-noi-20251024074518324.htm) - 00:47 24/10/2025
+- 🧐 [Khi lòng tốt bị biến thành công cụ kiếm tiền bất chính](https://dantri.com.vn/tam-diem/khi-long-tot-bi-bien-thanh-cong-cu-kiem-tien-bat-chinh-20251023151813267.htm) - 08:31 23/10/2025
+- 🕴 [Toàn dân góp ý vào tầm nhìn Đại hội XIV của Đảng](https://dantri.com.vn/tam-diem/toan-dan-gop-y-vao-tam-nhin-dai-hoi-xiv-cua-dang-20251023061007122.htm) - 23:10 22/10/2025
+- 🥳 [Phạt tiền trong nhà trường](https://dantri.com.vn/tam-diem/phat-tien-trong-nha-truong-20251022104045011.htm) - 07:10 22/10/2025
+- 💡 [Khu vực Bến Nhà Rồng: Mảnh đất vàng cho những giá trị bền lâu](https://dantri.com.vn/tam-diem/khu-vuc-ben-nha-rong-manh-dat-vang-cho-nhung-gia-tri-ben-lau-20251021153322248.htm) - 23:21 21/10/2025
+- 🦣 [Khi “cái tôi” nghệ sĩ vượt quá giới hạn của văn hóa](https://dantri.com.vn/tam-diem/khi-cai-toi-nghe-si-vuot-qua-gioi-han-cua-van-hoa-20251021080024073.htm) - 01:12 21/10/2025
+- 🤓 [Kỳ vọng không gian mới khu vực Bến Nhà Rồng](https://dantri.com.vn/tam-diem/ky-vong-khong-gian-moi-khu-vuc-ben-nha-rong-20251020151352039.htm) - 09:54 20/10/2025
+- 🤭 [TPHCM và viễn cảnh trung tâm hàng hải quốc tế](https://dantri.com.vn/tam-diem/tphcm-va-vien-canh-trung-tam-hang-hai-quoc-te-20251020083131529.htm) - 01:35 20/10/2025
+- 🌮 [Nâng mức giảm trừ gia cảnh, tăng nuôi dưỡng nguồn thu](https://dantri.com.vn/tam-diem/nang-muc-giam-tru-gia-canh-tang-nuoi-duong-nguon-thu-20251019081201698.htm) - 08:08 19/10/2025
+- 🗽 [“Phạt” học trò hư như thế nào?](https://dantri.com.vn/tam-diem/phat-hoc-tro-hu-nhu-the-nao-20251019075045947.htm) - 01:55 19/10/2025
+- ⚗️ [Chuẩn nào cho khay cơm bán trú ở nhà trường](https://dantri.com.vn/tam-diem/chuan-nao-cho-khay-com-ban-tru-o-nha-truong-20251018184302031.htm) - 11:43 18/10/2025
+- 🥰 [Người trẻ không chịu sinh con - chuyện không chỉ là “tiền”](https://dantri.com.vn/tam-diem/nguoi-tre-khong-chiu-sinh-con-chuyen-khong-chi-la-tien-20251017094217324.htm) - 23:47 17/10/2025
+- 🚀 [Ảo tưởng giàu nhanh với tiền số: Đưa chân vào bẫy!](https://dantri.com.vn/tam-diem/ao-tuong-giau-nhanh-voi-tien-so-dua-chan-vao-bay-20251017033105163.htm) - 20:31 16/10/2025
+- 🎊 [Khoảng trống bảo hiểm sau bão lũ](https://dantri.com.vn/tam-diem/khoang-trong-bao-hiem-sau-bao-lu-20251016073211000.htm) - 07:20 16/10/2025
+- 🦣 [“Bão like” từ cách truyền thông chính sách mới](https://dantri.com.vn/tam-diem/bao-like-tu-cach-truyen-thong-chinh-sach-moi-20251015164341413.htm) - 00:23 16/10/2025
+- 🎃 [Đằng sau mô hình kinh doanh bằng sự nổi tiếng](https://dantri.com.vn/tam-diem/dang-sau-mo-hinh-kinh-doanh-bang-su-noi-tieng-20251014142816718.htm) - 00:37 15/10/2025
+- 💂 [Tăng chiều cao người Việt như thế nào?](https://dantri.com.vn/tam-diem/tang-chieu-cao-nguoi-viet-nhu-the-nao-20251014173327080.htm) - 10:33 14/10/2025
+- 🦒 [Từ vụ Ngân 98: Khi “thần dược” là trò lừa](https://dantri.com.vn/tam-diem/tu-vu-ngan-98-khi-than-duoc-la-tro-lua-20251014065124860.htm) - 23:52 13/10/2025
+- 🎭 [Doanh nhân Việt Nam trước thời khắc lịch sử](https://dantri.com.vn/tam-diem/doanh-nhan-viet-nam-truoc-thoi-khac-lich-su-20251013075515362.htm) - 08:25 13/10/2025
+- 📝 [Tầm vóc doanh nhân Việt](https://dantri.com.vn/tam-diem/tam-voc-doanh-nhan-viet-20251013062408522.htm) - 00:30 13/10/2025
+- 🦄 [Làm giàu không dễ](https://dantri.com.vn/tam-diem/lam-giau-khong-de-20251012062054123.htm) - 23:21 11/10/2025
+- 🚀 [Đừng để “chuyển đổi số” trong nhà trường thành “trang trí số”](https://dantri.com.vn/tam-diem/dung-de-chuyen-doi-so-trong-nha-truong-thanh-trang-tri-so-20251011134627850.htm) - 06:47 11/10/2025
+- 💂 [“Công tư đồng hành”](https://dantri.com.vn/tam-diem/cong-tu-dong-hanh-20251011065506388.htm) - 01:24 11/10/2025
+- 👀 [Vòng lặp “càng đô thị hóa, càng ngập”](https://dantri.com.vn/tam-diem/vong-lap-cang-do-thi-hoa-cang-ngap-20251010154120098.htm) - 08:41 10/10/2025
+- 🚦 [Bàn về cơ chế kiểm soát, kiềm chế giá bất động sản](https://dantri.com.vn/tam-diem/ban-ve-co-che-kiem-soat-kiem-che-gia-bat-dong-san-20251009203918776.htm) - 23:17 09/10/2025
+- 💃 [Xây hầm chống ngập: Lối thoát cho đô thị Việt Nam?](https://dantri.com.vn/tam-diem/xay-ham-chong-ngap-loi-thoat-cho-do-thi-viet-nam-20251009102046831.htm) - 03:20 09/10/2025
+- 🧑‍💻 [Chứng khoán Việt: Nâng hạng thị trường, lên hạng nhà đầu tư](https://dantri.com.vn/tam-diem/chung-khoan-viet-nang-hang-thi-truong-len-hang-nha-dau-tu-20251008153638993.htm) - 22:51 08/10/2025
+- 🥰 [Rác “công nghệ nhanh”](https://dantri.com.vn/tam-diem/rac-cong-nghe-nhanh-20251008075329583.htm) - 00:55 08/10/2025
+- 🥳 [Hà Nội ngập không chỉ bởi mưa lớn](https://dantri.com.vn/tam-diem/ha-noi-ngap-khong-chi-boi-mua-lon-20251007113836145.htm) - 04:49 07/10/2025
 - 🥳 [Một liều thuốc mạnh cho “sốt ảo” bất động sản](https://dantri.com.vn/tam-diem/mot-lieu-thuoc-manh-cho-sot-ao-bat-dong-san-20251006172812726.htm) - 00:48 07/10/2025
-- 🥳 [Sông Tô Lịch và giấc mơ du lịch](https://dantri.com.vn/tam-diem/song-to-lich-va-giac-mo-du-lich-20251006174336990.htm) - 10:43 06/10/2025
-- 🎉 [Kiểm soát rủi ro khi đưa AI vào tiểu học](https://dantri.com.vn/tam-diem/kiem-soat-rui-ro-khi-dua-ai-vao-tieu-hoc-20251004190516953.htm) - 23:03 05/10/2025
-- 🔥 [Bí thư Tỉnh ủy, Thành ủy không là người địa phương](https://dantri.com.vn/tam-diem/bi-thu-tinh-uy-thanh-uy-khong-la-nguoi-dia-phuong-20251004191402640.htm) - 01:45 05/10/2025
-- 🥸 [Từ vụ Hoàng Hường nghĩ về hình ảnh “thành công trên mạng”](https://dantri.com.vn/tam-diem/tu-vu-hoang-huong-nghi-ve-hinh-anh-thanh-cong-tren-mang-20251004184801542.htm) - 12:28 04/10/2025
-- 💯 [Vì sao nên phạt lao động công ích người vi phạm giao thông?](https://dantri.com.vn/tam-diem/vi-sao-nen-phat-lao-dong-cong-ich-nguoi-vi-pham-giao-thong-20251004084448300.htm) - 01:46 04/10/2025
-- 🦏 [Giờ học, giờ chơi của học sinh: Đừng làm khó phụ huynh!](https://dantri.com.vn/tam-diem/gio-hoc-gio-choi-cua-hoc-sinh-dung-lam-kho-phu-huynh-20251002171906073.htm) - 09:04 03/10/2025
-- 👹 [“Bắt bệnh” giá nhà, đất](https://dantri.com.vn/tam-diem/bat-benh-gia-nha-dat-20251002172722611.htm) - 02:18 03/10/2025
-- 💻 [Chặt đứt mối quan hệ &quot;quan tham - gian thương&quot;](https://dantri.com.vn/tam-diem/chat-dut-moi-quan-he-quan-tham-gian-thuong-20251002063026629.htm) - 23:30 01/10/2025
-- 🎭 [Nghịch lý đến trường ngày mưa ngập](https://dantri.com.vn/tam-diem/nghich-ly-den-truong-ngay-mua-ngap-20251001081028339.htm) - 03:42 01/10/2025
-- 🌏 [Mái tôn bay trong bão](https://dantri.com.vn/tam-diem/mai-ton-bay-trong-bao-20251001075757009.htm) - 01:31 01/10/2025<!-- dantri-tam-diem:END -->
+- 🎉 [Sông Tô Lịch và giấc mơ du lịch](https://dantri.com.vn/tam-diem/song-to-lich-va-giac-mo-du-lich-20251006174336990.htm) - 10:43 06/10/2025
+- 🔥 [Kiểm soát rủi ro khi đưa AI vào tiểu học](https://dantri.com.vn/tam-diem/kiem-soat-rui-ro-khi-dua-ai-vao-tieu-hoc-20251004190516953.htm) - 23:03 05/10/2025
+- 🥸 [Bí thư Tỉnh ủy, Thành ủy không là người địa phương](https://dantri.com.vn/tam-diem/bi-thu-tinh-uy-thanh-uy-khong-la-nguoi-dia-phuong-20251004191402640.htm) - 01:45 05/10/2025
+- 💯 [Từ vụ Hoàng Hường nghĩ về hình ảnh “thành công trên mạng”](https://dantri.com.vn/tam-diem/tu-vu-hoang-huong-nghi-ve-hinh-anh-thanh-cong-tren-mang-20251004184801542.htm) - 12:28 04/10/2025
+- 🦏 [Vì sao nên phạt lao động công ích người vi phạm giao thông?](https://dantri.com.vn/tam-diem/vi-sao-nen-phat-lao-dong-cong-ich-nguoi-vi-pham-giao-thong-20251004084448300.htm) - 01:46 04/10/2025
+- 👹 [Giờ học, giờ chơi của học sinh: Đừng làm khó phụ huynh!](https://dantri.com.vn/tam-diem/gio-hoc-gio-choi-cua-hoc-sinh-dung-lam-kho-phu-huynh-20251002171906073.htm) - 09:04 03/10/2025
+- 💻 [“Bắt bệnh” giá nhà, đất](https://dantri.com.vn/tam-diem/bat-benh-gia-nha-dat-20251002172722611.htm) - 02:18 03/10/2025
+- 🎭 [Chặt đứt mối quan hệ &quot;quan tham - gian thương&quot;](https://dantri.com.vn/tam-diem/chat-dut-moi-quan-he-quan-tham-gian-thuong-20251002063026629.htm) - 23:30 01/10/2025
+- 🌏 [Nghịch lý đến trường ngày mưa ngập](https://dantri.com.vn/tam-diem/nghich-ly-den-truong-ngay-mua-ngap-20251001081028339.htm) - 03:42 01/10/2025<!-- dantri-tam-diem:END -->
