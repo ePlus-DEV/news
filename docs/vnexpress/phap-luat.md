@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [TikToker bị bắt &#39;ăn theo&#39; video chửi bới trên mạng](https://vnexpress.net/tiktoker-bi-bat-an-theo-video-chui-boi-tren-mang-4961647.html) - 09:35 08/11/2025
+- 😎 [TikToker bị bắt vì &#39;ăn theo&#39; video chửi bới trên mạng](https://vnexpress.net/tiktoker-bi-bat-vi-an-theo-video-chui-boi-tren-mang-4961647.html) - 09:35 08/11/2025
 - 🥰 [Kê biên hai bất động sản hơn 300 tỷ đồng của Hoàng Hường](https://vnexpress.net/ke-bien-hai-bat-dong-san-hon-300-ty-dong-cua-hoang-huong-4961626.html) - 09:29 08/11/2025
 - 🎓 [Giả &#39;nhà gái&#39; lừa người đàn ông Trung Quốc cưới vợ Việt](https://vnexpress.net/gia-nha-gai-lua-nguoi-dan-ong-trung-quoc-cuoi-vo-viet-4961634.html) - 09:07 08/11/2025
 - 🤓 [Nhóm công nhân cắt nhỏ dây điện tuồn qua khe thoát nước](https://vnexpress.net/nhom-cong-nhan-cat-nho-day-dien-tuon-qua-khe-thoat-nuoc-4961593.html) - 08:42 08/11/2025
