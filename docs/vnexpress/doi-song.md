@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Các cặp đôi thực hiện ước mơ cùng đi concert G-DRAGON](https://vnexpress.net/cac-cap-doi-thuc-hien-uoc-mo-cung-di-concert-g-dragon-4961683.html) - 14:00 08/11/2025
+- 🚀 [Các cặp tình nhân thực hiện ước mơ cùng đi concert G-DRAGON](https://vnexpress.net/cac-cap-tinh-nhan-thuc-hien-uoc-mo-cung-di-concert-g-dragon-4961683.html) - 14:00 08/11/2025
 - 🎓 [Lầm tưởng phổ biến khi phi hành tỏi](https://vnexpress.net/lam-tuong-pho-bien-khi-phi-hanh-toi-4961630.html) - 09:28 08/11/2025
 - 🚦 [200 người làm &#39;thần đèn&#39; nhấc bổng ngôi nhà 6 tấn](https://vnexpress.net/200-nguoi-lam-than-den-nhac-bong-ngoi-nha-6-tan-4961568.html) - 08:14 08/11/2025
 - 🦣 [Chú rể bán quảng cáo trên vest cưới](https://vnexpress.net/chu-re-ban-quang-cao-tren-vest-cuoi-4961566.html) - 08:04 08/11/2025
