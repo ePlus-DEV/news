@@ -4,8 +4,8 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tottenham 0-0 Man Utd &lpar;hiệp 1&rpar;: Sesko dự bị](https://dantri.com.vn/the-thao/tottenham-0-0-man-utd-hiep-1-sesko-du-bi-20251108192840540.htm) - 12:28 08/11/2025
-- 👨‍🏫 [Bộ Chính trị yêu cầu kiểm tra việc cắt giảm đầu mối bên trong các cơ quan](https://dantri.com.vn/thoi-su/bo-chinh-tri-yeu-cau-kiem-tra-viec-cat-giam-dau-moi-ben-trong-cac-co-quan-20251108164822865.htm) - 09:59 08/11/2025
+- 🎭 [Bộ Chính trị yêu cầu kiểm tra việc cắt giảm đầu mối bên trong các cơ quan](https://dantri.com.vn/thoi-su/bo-chinh-tri-yeu-cau-kiem-tra-viec-cat-giam-dau-moi-ben-trong-cac-co-quan-20251108164822865.htm) - 09:59 08/11/2025
+- 👨‍🏫 [Kê biên 2 tài sản trị giá hơn 300 tỷ đồng của Hoàng Hường](https://dantri.com.vn/phap-luat/ke-bien-2-tai-san-tri-gia-hon-300-ty-dong-cua-hoang-huong-20251108160713468.htm) - 09:22 08/11/2025
 - 🌮 [“Quốc hội chuyển từ làm luật để quản lý sang kiến tạo phát triển”](https://dantri.com.vn/thoi-su/quoc-hoi-chuyen-tu-lam-luat-de-quan-ly-sang-kien-tao-phat-trien-20251108114729349.htm) - 08:21 08/11/2025
 - 🕯 [“Tiết kiệm chi để có kinh phí tăng lương trong năm 2026”](https://dantri.com.vn/thoi-su/tiet-kiem-chi-de-co-kinh-phi-tang-luong-trong-nam-2026-20251108143302836.htm) - 07:48 08/11/2025
 - 🪜 [Đà điểu chạy trên đường ở TPHCM đã chết](https://dantri.com.vn/thoi-su/da-dieu-chay-tren-duong-o-tphcm-da-chet-20251108132815731.htm) - 06:46 08/11/2025
