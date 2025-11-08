@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tottenham 0-0 Man Utd &lpar;hiệp 1&rpar;: Sesko dự bị](https://dantri.com.vn/the-thao/tottenham-0-0-man-utd-hiep-1-sesko-du-bi-20251108192840540.htm) - 12:28 08/11/2025
+- 🎡 [Man Utd hòa kịch tính với Tottenham nhờ bàn gỡ ở phút cuối](https://dantri.com.vn/the-thao/man-utd-hoa-kich-tinh-voi-tottenham-nho-ban-go-o-phut-cuoi-20251108192840540.htm) - 12:28 08/11/2025
 - 💯 [FIFA bị tố cáo xử phạt sai luật bóng đá Malaysia vụ nhập tịch gian lận](https://dantri.com.vn/the-thao/fifa-bi-to-cao-xu-phat-sai-luat-bong-da-malaysia-vu-nhap-tich-gian-lan-20251108174729005.htm) - 11:30 08/11/2025
 - ⛽️ [Cầu thủ nhập tịch Malaysia bị CLB Tây Ban Nha sa thải, tương lai bấp bênh](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-malaysia-bi-clb-tay-ban-nha-sa-thai-tuong-lai-bap-benh-20251108133607523.htm) - 09:01 08/11/2025
 - 💃 [Man City đối đầu Liverpool, HLV Pep Guardiola đạt cột mốc ấn tượng](https://dantri.com.vn/the-thao/man-city-doi-dau-liverpool-hlv-pep-guardiola-dat-cot-moc-an-tuong-20251108092248831.htm) - 09:00 08/11/2025
