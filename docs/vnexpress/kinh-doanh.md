@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Biến đổi khí hậu &#39;nuôi&#39; siêu bão thế nào?](https://vnexpress.net/bien-doi-khi-hau-nuoi-sieu-bao-the-nao-4961372.html) - 05:39 08/11/2025
 - 🐲 [Năng lực R&amp;amp;D, phân phối giúp Masan Consumer mở rộng thị trường](https://vnexpress.net/nang-luc-r-d-phan-phoi-giup-masan-consumer-mo-rong-thi-truong-4961542.html) - 04:30 08/11/2025
-- 🔥 [Nhiều tổ chức quốc tế nâng hạng dự báo tăng trưởng của Việt Nam](https://vnexpress.net/nhieu-to-chuc-quoc-te-nang-hang-du-bao-tang-truong-cua-viet-nam-4961519.html) - 03:35 08/11/2025
+- 🔥 [Thủ tướng: GDP quý IV phải tăng trên 8,4%](https://vnexpress.net/thu-tuong-gdp-quy-iv-phai-tang-tren-8-4-4961519.html) - 03:35 08/11/2025
 - 🐵 [Niềm tin tiêu dùng của người Mỹ thấp nhất 3 năm](https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-nhat-3-nam-4961504.html) - 03:09 08/11/2025
 - 🦅 [Biến trải nghiệm thành khoản đầu tư tại &#39;Dẫn đầu xu thế sinh lời&#39;](https://vnexpress.net/bien-trai-nghiem-thanh-khoan-dau-tu-tai-dan-dau-xu-the-sinh-loi-4961297.html) - 01:00 08/11/2025
 - 😺 [Việt Nam cần giải bài toán thực thi để trở thành &#39;thiên đường năng lượng xanh&#39;](https://vnexpress.net/viet-nam-can-giai-bai-toan-thuc-thi-de-tro-thanh-thien-duong-nang-luong-xanh-4961427.html) - 19:05 07/11/2025
