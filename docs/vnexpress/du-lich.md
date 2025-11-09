@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Người Hàn Quốc phát cuồng vì các loại bánh](https://vnexpress.net/nguoi-han-quoc-phat-cuong-vi-cac-loai-banh-4961559.html) - 03:00 09/11/2025
 - 🪄 [Uống rượu bia vào ban ngày có thể bị phạt 300 USD tại Thái Lan](https://vnexpress.net/uong-ruou-bia-vao-ban-ngay-co-the-bi-phat-300-usd-tai-thai-lan-4961074.html) - 02:06 09/11/2025
-- 🦅 [Quán cà phê cho khách nấu ăn trong căn bếp mini](https://vnexpress.net/quan-ca-phe-cho-khach-nau-an-trong-can-bep-mini-4961596.html) - 17:00 08/11/2025
+- 🦅 [Quán cà phê ở TP HCM cho khách nấu ăn trong căn bếp mini](https://vnexpress.net/quan-ca-phe-o-tp-hcm-cho-khach-nau-an-trong-can-bep-mini-4961596.html) - 17:00 08/11/2025
 - 🕴 [Xôi nào trong những món xôi ngon nhất Việt Nam năm 2025](https://vnexpress.net/xoi-nao-trong-nhung-mon-xoi-ngon-nhat-viet-nam-nam-2025-4961530.html) - 12:29 08/11/2025
 - 👀 [Lý do không nên mang theo vali xách tay lên máy bay](https://vnexpress.net/ly-do-khong-nen-mang-theo-vali-xach-tay-len-may-bay-4961617.html) - 11:00 08/11/2025
 - 🎭 [Món cá cứng như gỗ nhưng người Nhật nhìn là thèm](https://vnexpress.net/mon-ca-cung-nhu-go-nhung-nguoi-nhat-nhin-la-them-4961538.html) - 08:00 08/11/2025
