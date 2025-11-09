@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lò luyện kéo co Việt Nam ngày đêm chuẩn bị cho SEA Games đầu tiên](https://dantri.com.vn/the-thao/lo-luyen-keo-co-viet-nam-ngay-dem-chuan-bi-cho-sea-games-dau-tien-20251104121851311.htm) - 07:32 09/11/2025
-- 💯 [Lionel Messi lập kỷ lục vĩ đại, giúp đội nhà lần đầu vào tứ kết](https://dantri.com.vn/the-thao/lionel-messi-lap-ky-luc-vi-dai-giup-doi-nha-lan-dau-vao-tu-ket-20251109125349569.htm) - 06:02 09/11/2025
-- ⛽️ [Hình ảnh ấn tượng tại giải Standard Chartered Marathon Di sản Hà Nội 2025](https://dantri.com.vn/the-thao/hinh-anh-an-tuong-tai-giai-standard-chartered-marathon-di-san-ha-noi-2025-20251109093713627.htm) - 03:39 09/11/2025
-- 💃 [Báo Indonesia bình luận về động thái nói dối quanh co của LĐBĐ Malaysia](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-dong-thai-noi-doi-quanh-co-cua-ldbd-malaysia-20251108231810727.htm) - 03:18 09/11/2025
+- 🎡 [Lionel Messi lập kỷ lục vĩ đại, giúp đội nhà lần đầu vào tứ kết](https://dantri.com.vn/the-thao/lionel-messi-lap-ky-luc-vi-dai-giup-doi-nha-lan-dau-vao-tu-ket-20251109125349569.htm) - 07:34 09/11/2025
+- 💯 [Báo Indonesia bình luận về động thái nói dối quanh co của LĐBĐ Malaysia](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-dong-thai-noi-doi-quanh-co-cua-ldbd-malaysia-20251108231810727.htm) - 07:33 09/11/2025
+- ⛽️ [Lò luyện kéo co Việt Nam ngày đêm chuẩn bị cho SEA Games đầu tiên](https://dantri.com.vn/the-thao/lo-luyen-keo-co-viet-nam-ngay-dem-chuan-bi-cho-sea-games-dau-tien-20251104121851311.htm) - 07:32 09/11/2025
+- 💃 [Hình ảnh ấn tượng tại giải Standard Chartered Marathon Di sản Hà Nội 2025](https://dantri.com.vn/the-thao/hinh-anh-an-tuong-tai-giai-standard-chartered-marathon-di-san-ha-noi-2025-20251109093713627.htm) - 03:39 09/11/2025
 - 🌈 [HLV Amorim chỉ ra điều đáng lo của Man Utd khi &quot;hút chết&quot; trước Tottenham](https://dantri.com.vn/the-thao/hlv-amorim-chi-ra-dieu-dang-lo-cua-man-utd-khi-hut-chet-truoc-tottenham-20251109093109866.htm) - 02:31 09/11/2025
 - 🦅 [VĐV tranh tài sôi nổi ở giải chạy Standard Chartered Marathon Di sản Hà Nội](https://dantri.com.vn/the-thao/vdv-tranh-tai-soi-noi-o-giai-chay-standard-chartered-marathon-di-san-ha-noi-20251109085200832.htm) - 02:30 09/11/2025
 - 🌝 [U17 nữ Triều Tiên không có đối thủ, lần thứ 4 vô địch World Cup](https://dantri.com.vn/the-thao/u17-nu-trieu-tien-khong-co-doi-thu-lan-thu-4-vo-dich-world-cup-20251109090026911.htm) - 02:00 09/11/2025
