@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Động thái đáng ngờ của Malaysia khiến cầu thủ bị nghi ngờ “nhập tịch lậu”](https://dantri.com.vn/the-thao/dong-thai-dang-ngo-cua-malaysia-khien-cau-thu-bi-nghi-ngo-nhap-tich-lau-20251109165104121.htm) - 10:08 09/11/2025
+- 🎡 [Động thái đáng ngờ của Malaysia khiến cầu thủ bị nghi nhập tịch trái phép](https://dantri.com.vn/the-thao/dong-thai-dang-ngo-cua-malaysia-khien-cau-thu-bi-nghi-nhap-tich-trai-phep-20251109165104121.htm) - 10:35 09/11/2025
 - 💯 [Lionel Messi lập kỷ lục vĩ đại, giúp đội nhà lần đầu vào tứ kết](https://dantri.com.vn/the-thao/lionel-messi-lap-ky-luc-vi-dai-giup-doi-nha-lan-dau-vao-tu-ket-20251109125349569.htm) - 07:34 09/11/2025
 - ⛽️ [Báo Indonesia bình luận về động thái nói dối quanh co của LĐBĐ Malaysia](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-dong-thai-noi-doi-quanh-co-cua-ldbd-malaysia-20251108231810727.htm) - 07:33 09/11/2025
 - 💃 [Lò luyện kéo co Việt Nam ngày đêm chuẩn bị cho SEA Games đầu tiên](https://dantri.com.vn/the-thao/lo-luyen-keo-co-viet-nam-ngay-dem-chuan-bi-cho-sea-games-dau-tien-20251104121851311.htm) - 07:32 09/11/2025
