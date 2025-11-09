@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Bị bắt vì hàng giả, trả nợ nghìn tỷ, thay tướng đến làm tàu vũ trụ](https://dantri.com.vn/kinh-doanh/bi-bat-vi-hang-gia-tra-no-nghin-ty-thay-tuong-den-lam-tau-vu-tru-20251109081800228.htm) - 01:48 09/11/2025
+- 🏊 [Doanh nghiệp Việt bước chân vào lĩnh vực hàng không vũ trụ](https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-buoc-chan-vao-linh-vuc-hang-khong-vu-tru-20251109081800228.htm) - 01:48 09/11/2025
 - 🦆 [Dự báo giá vàng sau tuần đi ngang quanh ngưỡng 4.000 USD/ounce](https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-di-ngang-quanh-nguong-4000-usdounce-20251109014021878.htm) - 01:01 09/11/2025
 - 🦄 [Cà phê được giá, nông dân Tây Nguyên trúng lớn mùa &quot;vàng nâu&quot;](https://dantri.com.vn/kinh-doanh/ca-phe-duoc-gia-nong-dan-tay-nguyen-trung-lon-mua-vang-nau-20251108204234556.htm) - 23:53 08/11/2025
 - 🌝 [Cuộc đua khốc liệt của các &quot;ông lớn&quot; thương mại điện tử: Ai được, ai mất?](https://dantri.com.vn/kinh-doanh/cuoc-dua-khoc-liet-cua-cac-ong-lon-thuong-mai-dien-tu-ai-duoc-ai-mat-20251106002125615.htm) - 12:21 08/11/2025
