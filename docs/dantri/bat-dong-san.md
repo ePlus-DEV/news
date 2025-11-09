@@ -5,7 +5,7 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Đất sử dụng ổn định 10 năm được giảm 30% tiền sử dụng đất](https://dantri.com.vn/bat-dong-san/dat-su-dung-on-dinh-10-nam-duoc-giam-30-tien-su-dung-dat-20251109092926141.htm) - 02:49 09/11/2025
-- 👹 [Thông xe đường Liên Phường, tăng kết nối và định hình lại giao thông khu Đông TPHCM](https://dantri.com.vn/bat-dong-san/thong-xe-duong-lien-phuong-tang-ket-noi-va-dinh-hinh-lai-giao-thong-khu-dong-tphcm-20251108192641570.htm) - 12:40 08/11/2025
+- 👹 [Thông xe kỹ thuật đường Liên Phường, tăng kết nối và định hình lại giao thông khu Đông TPHCM](https://dantri.com.vn/bat-dong-san/thong-xe-ky-thuat-duong-lien-phuong-tang-ket-noi-va-dinh-hinh-lai-giao-thong-khu-dong-tphcm-20251108192641570.htm) - 12:40 08/11/2025
 - 💡 [6 bí quyết tận dụng nóc tủ lạnh giúp không gian bếp vừa gọn vừa sang](https://dantri.com.vn/bat-dong-san/6-bi-quyet-tan-dung-noc-tu-lanh-giup-khong-gian-bep-vua-gon-vua-sang-20251106103120310.htm) - 08:03 08/11/2025
 - 🌋 [54 công ty ở TPHCM được thí điểm làm nhà ở thương mại từ đất nông nghiệp](https://dantri.com.vn/bat-dong-san/54-cong-ty-o-tphcm-duoc-thi-diem-lam-nha-o-thuong-mai-tu-dat-nong-nghiep-20251108101400374.htm) - 06:44 08/11/2025
 - 🌜 [Vinhomes Cần Giờ hút hàng trăm người xếp hàng đăng ký ngày đầu ra mắt](https://dantri.com.vn/bat-dong-san/vinhomes-can-gio-hut-hang-tram-nguoi-xep-hang-dang-ky-ngay-dau-ra-mat-20251108115242596.htm) - 05:29 08/11/2025
