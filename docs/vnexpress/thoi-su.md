@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nổ lớn ở nhà máy hóa chất tại Lâm Đồng, hai người tử vong](https://vnexpress.net/no-lon-o-nha-may-hoa-chat-tai-lam-dong-hai-nguoi-tu-vong-4961849.html) - 08:18 09/11/2025
+- 🦒 [Nổ tại nhà máy hóa chất ở Lâm Đồng, hai người tử vong](https://vnexpress.net/no-tai-nha-may-hoa-chat-o-lam-dong-hai-nguoi-tu-vong-4961849.html) - 08:18 09/11/2025
 - 🤓 [Nhân viên đường sắt bị tàu hỏa tông tử vong](https://vnexpress.net/nhan-vien-duong-sat-bi-tau-hoa-tong-tu-vong-4961833.html) - 07:02 09/11/2025
 - ⚗️ [Hồ thủy điện lớn nhất miền Nam tăng mức xả lũ gấp 3 lần](https://vnexpress.net/ho-thuy-dien-lon-nhat-mien-nam-tang-muc-xa-lu-gap-3-lan-4961827.html) - 06:48 09/11/2025
 - 🌊 [Xe đầu kéo cháy rụi trên cao tốc](https://vnexpress.net/xe-dau-keo-chay-rui-tren-cao-toc-4961821.html) - 06:22 09/11/2025
