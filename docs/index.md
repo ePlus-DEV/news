@@ -525,7 +525,7 @@ dự Ngày hội Đại đoàn kết xã Phước Hải](https://nld.com.vn/pho-
 <!-- muctim:START -->
 - 🤔 [Trực tiếp lượt trận 3 U17 World Cup 2025: Bồ Đào Nha - Nhật Bản](https://muctim.tuoitre.vn/truc-tiep-luot-tran-3-u17-world-cup-2025-bo-dao-nha-nhat-ban-101251109201813626.htm) - 13:31 09/11/2025
 - 🥷 [Khi người trẻ thổi sức sống mới vào di sản lọng bướm](https://muctim.tuoitre.vn/khi-nguoi-tre-thoi-suc-song-moi-vao-di-san-long-buom-101251109161923784.htm) - 12:39 09/11/2025
-- 🤖 [Trực tiếp V-League 1: Công An TP.HCM gặp Ninh Bình](https://muctim.tuoitre.vn/truc-tiep-v-league-1-cong-an-tphcm-gap-ninh-binh-101251109191329736.htm) - 12:13 09/11/2025
+- 🤖 [Ninh Bình thắng ngược trong trận cầu mãn nhãn trên sân Thống Nhất](https://muctim.tuoitre.vn/truc-tiep-v-league-1-cong-an-tphcm-gap-ninh-binh-101251109191329736.htm) - 12:13 09/11/2025
 - 🤓 [4 câu nói truyền cảm hứng của Shuhua &lpar;I-DLE&rpar; dành cho bạn trẻ](https://muctim.tuoitre.vn/4-cau-noi-truyen-cam-hung-cua-shuhua-i-dle-danh-cho-ban-tre-101251109141250569.htm) - 11:29 09/11/2025
 - 🎉 [20h30 tối nay 9-11, Nhật Bản chạm trán Bồ Đào Nha tại U17 World Cup 2025](https://muctim.tuoitre.vn/20h30-toi-nay-9-11-nhat-ban-cham-tran-bo-dao-nha-tai-u17-world-cup-2025-101251109164435415.htm) - 10:37 09/11/2025
 - 👨‍🏫 [Cảnh báo dông, lốc, sét và mưa lớn tại TP.HCM và Hà Nội](https://muctim.tuoitre.vn/canh-bao-dong-loc-set-va-mua-lon-tai-tphcm-va-ha-noi-101251109165232529.htm) - 10:36 09/11/2025
