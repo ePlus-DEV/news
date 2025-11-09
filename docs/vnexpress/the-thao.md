@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Rybakina giành khoản tiền thưởng lớn nhất lịch sử quần vợt nữ](https://vnexpress.net/rybakina-gianh-khoan-tien-thuong-lon-nhat-lich-su-quan-vot-nu-4961752.html) - 23:29 08/11/2025
-- 🦩 [Chelsea lên nhì bảng Ngoại hạng Anh](https://vnexpress.net/chelsea-len-nhi-bang-ngoai-hang-anh-4961748.html) - 22:40 08/11/2025
+- 🦩 [Garnacho góp công giúp Chelsea lên nhì bảng Ngoại hạng Anh](https://vnexpress.net/garnacho-gop-cong-giup-chelsea-len-nhi-bang-ngoai-hang-anh-4961748.html) - 22:40 08/11/2025
 - 🧰 [Djokovic vô địch tại Hy Lạp, bỏ ATP Finals](https://vnexpress.net/djokovic-vo-dich-tai-hy-lap-bo-atp-finals-4961749.html) - 22:39 08/11/2025
 - 🤗 [Haaland: &#39;Tôi đang đạt phiên bản tốt nhất&#39;](https://vnexpress.net/haaland-toi-dang-dat-phien-ban-tot-nhat-4961513.html) - 22:00 08/11/2025
 - 🥳 [Cựu thẩm phán Malaysia: &#39;FIFA vượt quyền khi cấm 7 cầu thủ&#39;](https://vnexpress.net/cuu-tham-phan-malaysia-fifa-vuot-quyen-khi-cam-7-cau-thu-4961678.html) - 20:03 08/11/2025
@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🌜 [Võ sĩ MMA Việt Nam thua cao thủ Trung Quốc sau đòn khóa cổ](https://vnexpress.net/vo-si-mma-viet-nam-thua-cao-thu-trung-quoc-sau-don-khoa-co-4961734.html) - 18:48 08/11/2025
 - 😺 [Gukesh sớm bị loại ở World Cup cờ vua](https://vnexpress.net/gukesh-som-bi-loai-o-world-cup-co-vua-4961739.html) - 18:42 08/11/2025
 - 👍 [Bayern đứt chuỗi 16 trận thắng](https://vnexpress.net/bayern-dut-chuoi-16-tran-thang-4961736.html) - 17:10 08/11/2025
-- 🐵 [Ronaldo ghi bàn phạt đền thứ 180](https://vnexpress.net/ronaldo-ghi-ban-phat-den-thu-180-4961731.html) - 16:56 08/11/2025
+- 🐵 [Ronaldo ghi bàn phạt đền thứ 180](https://vnexpress.net/ronaldo-ghi-ban-phat-den-thu-180-4961731.html) - 17:00 08/11/2025
 - 💫 [Thể Công tuột chiến thắng ở phút bù tại V-League](https://vnexpress.net/the-cong-tuot-chien-thang-o-phut-bu-tai-v-league-4961711.html) - 14:52 08/11/2025
 - 🦆 [Man Utd thoát thua Tottenham ở phút 96](https://vnexpress.net/man-utd-thoat-thua-tottenham-o-phut-96-4961697.html) - 14:28 08/11/2025
 - 🙉 [Quang Liêm chạm kỷ lục cá nhân ở World Cup cờ vua](https://vnexpress.net/quang-liem-cham-ky-luc-ca-nhan-o-world-cup-co-vua-4961693.html) - 13:52 08/11/2025
