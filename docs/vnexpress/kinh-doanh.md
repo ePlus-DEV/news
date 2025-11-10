@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Loạt nhà máy bị cắt giảm công suất vì thừa nguồn điện](https://vnexpress.net/loat-nha-may-bi-cat-giam-cong-suat-vi-thua-nguon-dien-4962311.html) - 10:32 10/11/2025
-- 🐲 [Saigon Marina IFC thắp sáng trong &#39;Tuần hữu nghị Việt Nam - Anh&#39;](https://vnexpress.net/saigon-marina-ifc-thap-sang-trong-tuan-huu-nghi-viet-nam-anh-4962317.html) - 10:25 10/11/2025
+- ⛽️ [Home Credit ra tính năng hoàn tiền cho thẻ tín dụng](https://vnexpress.net/home-credit-ra-tinh-nang-hoan-tien-cho-the-tin-dung-4962324.html) - 12:00 10/11/2025
+- 🐲 [Loạt nhà máy bị cắt giảm công suất vì thừa nguồn điện](https://vnexpress.net/loat-nha-may-bi-cat-giam-cong-suat-vi-thua-nguon-dien-4962311.html) - 10:32 10/11/2025
 - 🔥 [UOB nâng dự báo tăng trưởng Việt Nam lên 7,7%](https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-7-7-4962168.html) - 09:13 10/11/2025
 - 🐵 [VN-Index giảm sâu ba phiên liên tiếp](https://vnexpress.net/vn-index-giam-sau-ba-phien-lien-tiep-4962249.html) - 08:57 10/11/2025
 - 🦅 [Thế Giới Di Động chốt ngày mua 10 triệu cổ phiếu quỹ](https://vnexpress.net/the-gioi-di-dong-chot-ngay-mua-10-trieu-co-phieu-quy-4962221.html) - 08:56 10/11/2025
