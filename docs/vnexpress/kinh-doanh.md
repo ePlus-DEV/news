@@ -5,23 +5,23 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá tiêu dùng tại Trung Quốc tăng trở lại](https://vnexpress.net/gia-tieu-dung-tai-trung-quoc-tang-tro-lai-4962082.html) - 05:14 10/11/2025
-- 🐲 [Vietjet vào top thương hiệu hàng không giá trị nhất ASEAN 2025](https://vnexpress.net/vietjet-vao-top-thuong-hieu-hang-khong-gia-tri-nhat-asean-2025-4962094.html) - 05:00 10/11/2025
-- 🔥 [Vàng miếng trong nước tăng hơn 1 triệu đồng](https://vnexpress.net/vang-mieng-trong-nuoc-tang-hon-1-trieu-dong-4962079.html) - 03:45 10/11/2025
-- 🐵 [VN-Index sẽ ra sao sau khi thủng mốc 1.600 điểm?](https://vnexpress.net/vn-index-se-ra-sao-sau-khi-thung-moc-1-600-diem-4961846.html) - 18:57 09/11/2025
-- 🦅 [Hơn 400.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân](https://vnexpress.net/hon-400-000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-4961886.html) - 18:47 09/11/2025
-- 😺 [Cổ phiếu &#39;lên sàn&#39; sẽ nhanh hơn 3-6 lần trước đây](https://vnexpress.net/co-phieu-len-san-se-nhanh-hon-3-6-lan-truoc-day-4961803.html) - 13:26 09/11/2025
-- 🤩 [Gạo Ông Cua ST25 lần thứ ba đoạt giải ‘Gạo ngon nhất thế giới’](https://vnexpress.net/gao-ong-cua-st25-lan-thu-ba-doat-giai-gao-ngon-nhat-the-gioi-4961852.html) - 08:57 09/11/2025
-- 🌮 [CEO MB lý giải nguyên nhân lãi suất tăng trong thời gian qua](https://vnexpress.net/ceo-mb-ly-giai-nguyen-nhan-lai-suat-tang-trong-thoi-gian-qua-4961839.html) - 08:00 09/11/2025
-- 🧰 [&#39;Vua tôm&#39; lãi đậm](https://vnexpress.net/vua-tom-lai-dam-4961796.html) - 05:41 09/11/2025
-- 🤔 [Vốn điều lệ của VinSpeed vượt mốc tỷ USD](https://vnexpress.net/von-dieu-le-cua-vinspeed-vuot-moc-ty-usd-4961746.html) - 04:16 09/11/2025
-- 🧑‍💻 [Ông lớn thép miền Nam muốn tái cấu trúc khi lỗ lũy kế hơn 3.000 tỷ](https://vnexpress.net/pomina-dai-gia-thep-mien-nam-muon-tai-cau-truc-khi-lo-luy-ke-hon-3-000-ty-4961619.html) - 23:00 08/11/2025
-- 🕴 [Tranh cãi vì sao giá thịt bò ở Mỹ ngày càng đắt đỏ](https://vnexpress.net/tranh-cai-vi-sao-gia-thit-bo-o-my-ngay-cang-dat-do-4961709.html) - 17:03 08/11/2025
-- 🦩 [Quảng Trị có 14 dự án giải ngân 0 đồng](https://vnexpress.net/quang-tri-co-14-du-an-giai-ngan-0-dong-4961623.html) - 17:02 08/11/2025
-- 👍 [Việt Nam chi gần 3 tỷ USD nhập thủy sản ngoại](https://vnexpress.net/viet-nam-chi-gan-3-ty-usd-nhap-thuy-san-ngoai-4961615.html) - 17:01 08/11/2025
-- 🏊 [TP HCM đã cắt giảm hơn 400 thủ tục hành chính về kinh doanh](https://vnexpress.net/tp-hcm-da-cat-giam-hon-400-thu-tuc-hanh-chinh-ve-kinh-doanh-4961696.html) - 15:15 08/11/2025
-- 🤡 [Thứ trưởng Công Thương: Sàn thương mại điện tử cơ bản ít hàng giả, nhái](https://vnexpress.net/thu-truong-cong-thuong-san-thuong-mai-dien-tu-co-ban-it-hang-gia-nhai-4961665.html) - 11:45 08/11/2025
-- 👀 [Chuyện gì xảy ra nếu Tòa tối cao Mỹ không ủng hộ thuế nhập khẩu](https://vnexpress.net/chuyen-gi-xay-ra-neu-toa-toi-cao-my-khong-ung-ho-thue-nhap-khau-4961544.html) - 09:00 08/11/2025
-- 😺 [Bộ trưởng Xây dựng: Có tình trạng xếp chỗ mua nhà xã hội, bán chênh 200-500 triệu](https://vnexpress.net/bo-truong-xay-dung-co-tinh-trang-xep-cho-mua-nha-xa-hoi-ban-chenh-200-500-trieu-4961640.html) - 08:56 08/11/2025
+- 🐲 [Vàng miếng trong nước tăng hơn 1 triệu đồng](https://vnexpress.net/vang-mieng-trong-nuoc-tang-hon-1-trieu-dong-4962079.html) - 03:45 10/11/2025
+- 🔥 [VN-Index sẽ ra sao sau khi thủng mốc 1.600 điểm?](https://vnexpress.net/vn-index-se-ra-sao-sau-khi-thung-moc-1-600-diem-4961846.html) - 18:57 09/11/2025
+- 🐵 [Hơn 400.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân](https://vnexpress.net/hon-400-000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-4961886.html) - 18:47 09/11/2025
+- 🦅 [Cổ phiếu &#39;lên sàn&#39; sẽ nhanh hơn 3-6 lần trước đây](https://vnexpress.net/co-phieu-len-san-se-nhanh-hon-3-6-lan-truoc-day-4961803.html) - 13:26 09/11/2025
+- 😺 [Gạo Ông Cua ST25 lần thứ ba đoạt giải ‘Gạo ngon nhất thế giới’](https://vnexpress.net/gao-ong-cua-st25-lan-thu-ba-doat-giai-gao-ngon-nhat-the-gioi-4961852.html) - 08:57 09/11/2025
+- 🤩 [CEO MB lý giải nguyên nhân lãi suất tăng trong thời gian qua](https://vnexpress.net/ceo-mb-ly-giai-nguyen-nhan-lai-suat-tang-trong-thoi-gian-qua-4961839.html) - 08:00 09/11/2025
+- 🌮 [&#39;Vua tôm&#39; lãi đậm](https://vnexpress.net/vua-tom-lai-dam-4961796.html) - 05:41 09/11/2025
+- 🧰 [Vốn điều lệ của VinSpeed vượt mốc tỷ USD](https://vnexpress.net/von-dieu-le-cua-vinspeed-vuot-moc-ty-usd-4961746.html) - 04:16 09/11/2025
+- 🤔 [Ông lớn thép miền Nam muốn tái cấu trúc khi lỗ lũy kế hơn 3.000 tỷ](https://vnexpress.net/pomina-dai-gia-thep-mien-nam-muon-tai-cau-truc-khi-lo-luy-ke-hon-3-000-ty-4961619.html) - 23:00 08/11/2025
+- 🧑‍💻 [Tranh cãi vì sao giá thịt bò ở Mỹ ngày càng đắt đỏ](https://vnexpress.net/tranh-cai-vi-sao-gia-thit-bo-o-my-ngay-cang-dat-do-4961709.html) - 17:03 08/11/2025
+- 🕴 [Quảng Trị có 14 dự án giải ngân 0 đồng](https://vnexpress.net/quang-tri-co-14-du-an-giai-ngan-0-dong-4961623.html) - 17:02 08/11/2025
+- 🦩 [Việt Nam chi gần 3 tỷ USD nhập thủy sản ngoại](https://vnexpress.net/viet-nam-chi-gan-3-ty-usd-nhap-thuy-san-ngoai-4961615.html) - 17:01 08/11/2025
+- 👍 [TP HCM đã cắt giảm hơn 400 thủ tục hành chính về kinh doanh](https://vnexpress.net/tp-hcm-da-cat-giam-hon-400-thu-tuc-hanh-chinh-ve-kinh-doanh-4961696.html) - 15:15 08/11/2025
+- 🏊 [Thứ trưởng Công Thương: Sàn thương mại điện tử cơ bản ít hàng giả, nhái](https://vnexpress.net/thu-truong-cong-thuong-san-thuong-mai-dien-tu-co-ban-it-hang-gia-nhai-4961665.html) - 11:45 08/11/2025
+- 🤡 [Chuyện gì xảy ra nếu Tòa tối cao Mỹ không ủng hộ thuế nhập khẩu](https://vnexpress.net/chuyen-gi-xay-ra-neu-toa-toi-cao-my-khong-ung-ho-thue-nhap-khau-4961544.html) - 09:00 08/11/2025
+- 👀 [Bộ trưởng Xây dựng: Có tình trạng xếp chỗ mua nhà xã hội, bán chênh 200-500 triệu](https://vnexpress.net/bo-truong-xay-dung-co-tinh-trang-xep-cho-mua-nha-xa-hoi-ban-chenh-200-500-trieu-4961640.html) - 08:56 08/11/2025
+- 😺 [Vietjet vào top thương hiệu hàng không giá trị nhất ASEAN 2025](https://vnexpress.net/vietjet-vao-top-thuong-hieu-hang-khong-gia-tri-nhat-asean-2025-4962094.html) - 06:00 08/11/2025
 - 🦣 [Biến đổi khí hậu &#39;nuôi&#39; siêu bão thế nào?](https://vnexpress.net/bien-doi-khi-hau-nuoi-sieu-bao-the-nao-4961372.html) - 05:39 08/11/2025
 - 😺 [Năng lực R&amp;amp;D, phân phối giúp Masan Consumer mở rộng thị trường](https://vnexpress.net/nang-luc-r-d-phan-phoi-giup-masan-consumer-mo-rong-thi-truong-4961542.html) - 04:30 08/11/2025
 - 💼 [Thủ tướng: GDP quý IV phải tăng trên 8,4%](https://vnexpress.net/thu-tuong-gdp-quy-iv-phai-tang-tren-8-4-4961519.html) - 03:35 08/11/2025
