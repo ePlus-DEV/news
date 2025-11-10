@@ -523,7 +523,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Có gì trong giờ ra chơi không điện thoại ở Trường THPT Nguyễn Khuyến?](https://muctim.tuoitre.vn/co-gi-trong-gio-ra-choi-khong-dien-thoai-o-truong-thpt-nguyen-khuyen-101251110131713938.htm) - 07:47 10/11/2025
+- 🤔 [Có gì trong giờ ra chơi không điện thoại ở Trường THPT Nguyễn Khuyến - Bà Rịa - Vũng Tàu?](https://muctim.tuoitre.vn/co-gi-trong-gio-ra-choi-khong-dien-thoai-o-truong-thpt-nguyen-khuyen-101251110131713938.htm) - 07:47 10/11/2025
 - 🥷 [Xác định 4 cặp đấu tứ kết MLS Cup 2025: Inter Miami gặp Cincinnati](https://muctim.tuoitre.vn/xac-dinh-4-cap-dau-tu-ket-mls-cup-2025-inter-miami-gap-cincinnati-10125111012584993.htm) - 06:30 10/11/2025
 - 🤖 [Vén màn bí mật &#39;con gái Netflix&#39; Lee Yoo Mi](https://muctim.tuoitre.vn/ven-man-bi-mat-con-gai-netflix-lee-yoo-mi-101251110101455512.htm) - 06:29 10/11/2025
 - 🤓 [Diễn viên Kim Hải: Tôi may mắn có gia đình tuyệt vời](https://muctim.tuoitre.vn/dien-vien-kim-hai-toi-may-man-co-gia-dinh-tuyet-voi-101251110005653456.htm) - 06:25 10/11/2025
