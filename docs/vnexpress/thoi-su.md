@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Tăng lương tối thiểu vùng từ ngày 1/1/2026](https://vnexpress.net/tang-luong-toi-thieu-vung-tu-ngay-1-1-2026-4962358.html) - 12:49 10/11/2025
 - 🤓 [&#39;Hỗ trợ quá thấp khó khuyến khích phụ nữ sinh con&#39;](https://vnexpress.net/ho-tro-qua-thap-kho-khuyen-khich-phu-nu-sinh-con-4962316.html) - 12:37 10/11/2025
 - ⚗️ [Cần Thơ tính dời sân vận động 50.000 chỗ để phát triển thương mại](https://vnexpress.net/can-tho-tinh-doi-san-van-dong-50-000-cho-de-phat-trien-thuong-mai-4962341.html) - 11:38 10/11/2025
-- 🌊 [Đường sắt Bắc Nam dự kiến thông tối nay, sau 4 ngày hư hại do bão](https://vnexpress.net/duong-sat-bac-nam-du-kien-thong-toi-nay-sau-4-ngay-hu-hai-do-bao-4962337.html) - 11:24 10/11/2025
+- 🌊 [Đường sắt Bắc Nam thông tuyến sau 4 ngày hư hại do bão](https://vnexpress.net/duong-sat-bac-nam-thong-tuyen-sau-4-ngay-hu-hai-do-bao-4962337.html) - 11:24 10/11/2025
 - 🎓 [Đề nghị kiểm soát đồ ăn &#39;siêu ngon khó cưỡng&#39; để bảo vệ trẻ em](https://vnexpress.net/de-nghi-kiem-soat-do-an-sieu-ngon-kho-cuong-de-bao-ve-tre-em-4962243.html) - 10:57 10/11/2025
 - 🔥 [&#39;Nên hỗ trợ tài chính cho phụ nữ sinh hai con sau 35 tuổi&#39;](https://vnexpress.net/nen-ho-tro-tai-chinh-cho-phu-nu-sinh-hai-con-sau-35-tuoi-4962205.html) - 10:44 10/11/2025
 - 🦏 [Ông Nguyễn Đức Trung: Xây dựng Hà Nội là &#39;nơi đáng đến và đáng sống&#39;](https://vnexpress.net/ong-nguyen-duc-trung-xay-dung-ha-noi-la-noi-dang-den-va-dang-song-4962319.html) - 10:32 10/11/2025
