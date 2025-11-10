@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du lịch Đà Nẵng, Huế, Lâm Đồng tăng trưởng mạnh so cùng kỳ](https://vnexpress.net/du-lich-da-nang-hue-lam-dong-tang-truong-manh-so-cung-ky-4961876.html) - 00:00 10/11/2025
+- 💂 [Du lịch Đà Nẵng, Huế, Lâm Đồng tăng trưởng mạnh dù mưa bão](https://vnexpress.net/du-lich-da-nang-hue-lam-dong-tang-truong-manh-du-mua-bao-4961876.html) - 00:00 10/11/2025
 - 🪄 [Nơi người dân tin làm ra loại bánh mì ngon nhất thế giới](https://vnexpress.net/noi-nguoi-dan-tin-lam-ra-loai-banh-mi-ngon-nhat-the-gioi-4961889.html) - 17:00 09/11/2025
 - 🦅 [Thành phố có tên dài nhất thế giới nằm ở quốc gia nào?](https://vnexpress.net/thanh-pho-co-ten-dai-nhat-the-gioi-nam-o-quoc-gia-nao-4961735.html) - 12:00 09/11/2025
 - 🕴 [Xếp hàng gần một tiếng chờ mua &#39;xôi mùa thu&#39; ở TP HCM](https://vnexpress.net/xep-hang-gan-mot-tieng-cho-mua-xoi-mua-thu-o-tp-hcm-4961840.html) - 10:38 09/11/2025
