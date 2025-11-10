@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Gần 100.000 fan “cháy” cùng G-Dragon tại Việt Nam: Dấu ấn &quot;ông hoàng Kpop&quot;](https://dantri.com.vn/giai-tri/gan-100000-fan-chay-cung-g-dragon-tai-viet-nam-dau-an-ong-hoang-kpop-20251110123623211.htm) - 07:09 10/11/2025
+- 🤠 [Gần 100.000 fan “cháy” cùng G-Dragon tại Việt Nam: Dấu ấn ông hoàng Kpop](https://dantri.com.vn/giai-tri/gan-100000-fan-chay-cung-g-dragon-tai-viet-nam-dau-an-ong-hoang-kpop-20251110123623211.htm) - 07:09 10/11/2025
 - 🌈 [&quot;Canh bạc&quot; của nông dân ngoài đê bao mùa lũ](https://dantri.com.vn/lao-dong-viec-lam/canh-bac-cua-nong-dan-ngoai-de-bao-mua-lu-20251105171258524.htm) - 03:16 10/11/2025
 - 🐎 [60 lần &quot;thử - sai&quot; và hành trình đưa tên Việt lên tạp chí AI hàng đầu thế giới](https://dantri.com.vn/khoa-hoc/60-lan-thu-sai-va-hanh-trinh-dua-ten-viet-len-tap-chi-ai-hang-dau-the-gioi-20251104162220016.htm) - 00:03 10/11/2025
 - 👹 [&quot;Ngoại giao chất xám&quot; và tứ giác phát triển bền vững của Việt Nam](https://dantri.com.vn/the-gioi/ngoai-giao-chat-xam-va-tu-giac-phat-trien-ben-vung-cua-viet-nam-20251105105007758.htm) - 23:59 09/11/2025
