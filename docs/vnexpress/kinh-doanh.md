@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [VN-Index sẽ ra sao sau khi thủng mốc 1.600 điểm?](https://vnexpress.net/vn-index-se-ra-sao-sau-khi-thung-moc-1-600-diem-4961846.html) - 18:57 09/11/2025
-- 🐲 [Hơn 400.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân](https://vnexpress.net/hon-400-000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-4961886.html) - 18:47 09/11/2025
-- 🔥 [Hãng xe điện học Tesla trả thù lao 4,6 tỷ USD cho CEO](https://vnexpress.net/hang-xe-dien-hoc-tesla-tra-thu-lao-4-6-ty-usd-cho-ceo-4961820.html) - 13:27 09/11/2025
+- ⛽️ [Vàng miếng trong nước tăng hơn 1 triệu đồng](https://vnexpress.net/vang-mieng-trong-nuoc-tang-hon-1-trieu-dong-4962079.html) - 03:45 10/11/2025
+- 🐲 [VN-Index sẽ ra sao sau khi thủng mốc 1.600 điểm?](https://vnexpress.net/vn-index-se-ra-sao-sau-khi-thung-moc-1-600-diem-4961846.html) - 18:57 09/11/2025
+- 🔥 [Hơn 400.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân](https://vnexpress.net/hon-400-000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-4961886.html) - 18:47 09/11/2025
 - 🐵 [Cổ phiếu &#39;lên sàn&#39; sẽ nhanh hơn 3-6 lần trước đây](https://vnexpress.net/co-phieu-len-san-se-nhanh-hon-3-6-lan-truoc-day-4961803.html) - 13:26 09/11/2025
 - 🦅 [Gạo Ông Cua ST25 lần thứ ba đoạt giải ‘Gạo ngon nhất thế giới’](https://vnexpress.net/gao-ong-cua-st25-lan-thu-ba-doat-giai-gao-ngon-nhat-the-gioi-4961852.html) - 08:57 09/11/2025
 - 😺 [CEO MB lý giải nguyên nhân lãi suất tăng trong thời gian qua](https://vnexpress.net/ceo-mb-ly-giai-nguyen-nhan-lai-suat-tang-trong-thoi-gian-qua-4961839.html) - 08:00 09/11/2025
