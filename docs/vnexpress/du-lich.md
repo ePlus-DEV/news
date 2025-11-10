@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Amiana Resort là &#39;chuỗi nghỉ dưỡng sang trọng nhất thế giới&#39;](https://vnexpress.net/amiana-resort-la-chuoi-nghi-duong-sang-trong-nhat-the-gioi-4962330.html) - 14:45 10/11/2025
-- 🪄 [Cầu gỗ dài nhất Việt Nam &#39;biến mất&#39; sau bão số 13](https://vnexpress.net/cau-go-dai-nhat-viet-nam-bien-mat-sau-bao-so-13-4962036.html) - 13:09 10/11/2025
+- 🪄 [Cầu gỗ dài nhất Việt Nam &#39;biến mất&#39; sau bão Kalmaegi](https://vnexpress.net/cau-go-dai-nhat-viet-nam-bien-mat-sau-bao-kalmaegi-4962036.html) - 13:09 10/11/2025
 - 🦅 [Khách trả giá đắt vì phá hoại phòng khách sạn](https://vnexpress.net/khach-tra-gia-dat-vi-pha-hoai-phong-khach-san-4962270.html) - 12:30 10/11/2025
 - 🕴 [Vì sao ghế trên tàu hỏa không có dây an toàn?](https://vnexpress.net/vi-sao-ghe-tren-tau-hoa-khong-co-day-an-toan-4962282.html) - 11:47 10/11/2025
 - 👀 [Con đường hoa dã quỳ nở vàng rực ở Vườn quốc gia Ba Vì](https://vnexpress.net/con-duong-hoa-da-quy-no-vang-ruc-o-vuon-quoc-gia-ba-vi-4962020.html) - 07:00 10/11/2025
