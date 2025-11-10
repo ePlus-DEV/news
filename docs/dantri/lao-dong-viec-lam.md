@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Chốt tăng lương tối thiểu, mức cao nhất 5,3 triệu đồng/tháng](https://dantri.com.vn/noi-vu/chot-tang-luong-toi-thieu-muc-cao-nhat-53-trieu-dongthang-20250729085531319.htm) - 11:29 10/11/2025
+- ⚗️ [Chốt tăng lương tối thiểu từ 1/1/2026, mức cao nhất 5,3 triệu đồng/tháng](https://dantri.com.vn/noi-vu/chot-tang-luong-toi-thieu-tu-112026-muc-cao-nhat-53-trieu-dongthang-20250729085531319.htm) - 11:29 10/11/2025
 - 🙉 [Tăng nghỉ thai sản với phụ nữ dễ khiến doanh nghiệp dễ... ngán chị em?](https://dantri.com.vn/lao-dong-viec-lam/tang-nghi-thai-san-voi-phu-nu-de-khien-doanh-nghiep-de-ngan-chi-em-20251110153845306.htm) - 09:24 10/11/2025
 - 🕴 [Lao động trẻ thiếu kỹ năng mềm, doanh nghiệp phải dạy lại cách… chào hỏi](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-tre-thieu-ky-nang-mem-doanh-nghiep-phai-day-lai-cach-chao-hoi-20251109170651443.htm) - 03:45 10/11/2025
 - 🧐 [&quot;Canh bạc&quot; của nông dân ngoài đê bao mùa lũ](https://dantri.com.vn/lao-dong-viec-lam/canh-bac-cua-nong-dan-ngoai-de-bao-mua-lu-20251105171258524.htm) - 03:16 10/11/2025
