@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bệnh viện sẽ Việt Nam trữ đông mô buồng trứng cho bệnh nhân ung thư](https://vnexpress.net/benh-vien-se-viet-nam-tru-dong-mo-buong-trung-cho-benh-nhan-ung-thu-4962325.html) - 13:39 10/11/2025
+- 🔥 [Bệnh viện Việt Nam sẽ trữ đông mô buồng trứng cho bệnh nhân ung thư](https://vnexpress.net/benh-vien-viet-nam-se-tru-dong-mo-buong-trung-cho-benh-nhan-ung-thu-4962325.html) - 13:39 10/11/2025
 - 🥰 [72 giờ chạy đua lấy ghép 12 tạng từ hai người hiến chết não](https://vnexpress.net/72-gio-chay-dua-lay-ghep-12-tang-tu-hai-nguoi-hien-chet-nao-4962238.html) - 13:18 10/11/2025
 - 💡 [Thụ tinh ống nghiệm để có con ở tuổi 41](https://vnexpress.net/thu-tinh-ong-nghiem-de-co-con-o-tuoi-41-4962268.html) - 12:00 10/11/2025
 - 🤗 [&#39;Mọi đổi mới của Vinmec đều bắt đầu từ người bệnh&#39;](https://vnexpress.net/moi-doi-moi-cua-vinmec-deu-bat-dau-tu-nguoi-benh-4962322.html) - 11:00 10/11/2025
