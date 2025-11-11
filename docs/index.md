@@ -26,57 +26,52 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nhà văn Anh thắng giải Booker 2025](https://vnexpress.net/nha-van-anh-thang-giai-booker-2025-4962590.html) - 06:21 11/11/2025
-- 🧰 [Bài toán &#39;13 + 2 = 14&#39; khiến cả mạng xã hội xoắn não](https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-bai-toan-18-2-14-khien-ca-mang-xa-hoi-xoan-nao-4962207.html) - 06:20 11/11/2025
-- 🥰 [Săn mây ở Tà Xùa](https://vnexpress.net/san-may-o-ta-xua-4960656.html) - 06:05 11/11/2025
-- 🌏 [Mỗi lần nghe người nọ người kia xì xào, tôi lại muốn bỏ bạn trai](https://vnexpress.net/moi-lan-nghe-nguoi-no-nguoi-kia-xi-xao-toi-lai-muon-bo-ban-trai-4962378.html) - 06:00 11/11/2025
-- 🧐 [Đặt tinh hoàn nhân tạo cho chàng trai 20 tuổi](https://vnexpress.net/dat-tinh-hoan-nhan-tao-cho-chang-trai-20-tuoi-4962490.html) - 06:00 11/11/2025
-- 💫 [6 vật dụng cần vệ sinh thường xuyên phòng bệnh mũi họng](https://vnexpress.net/6-vat-dung-can-ve-sinh-thuong-xuyen-phong-benh-mui-hong-4962479.html) - 06:00 11/11/2025
-- 😺 [Em tìm anh chàng cao ráo cùng trang trí cây thông](https://vnexpress.net/em-tim-anh-chang-cao-rao-cung-trang-tri-cay-thong-4962369.html) - 05:39 11/11/2025
-- 🕯 [&#39;TP HCM thuộc nhóm dễ nảy sinh vi phạm tham nhũng, lãng phí&#39;](https://vnexpress.net/tp-hcm-thuoc-nhom-de-nay-sinh-vi-pham-tham-nhung-lang-phi-4962595.html) - 05:30 11/11/2025
-- 💃 [7 bệnh có triệu chứng sớm ở mắt](https://vnexpress.net/7-benh-co-trieu-chung-som-o-mat-4962480.html) - 05:30 11/11/2025
-- 💂 [Nhóm con bạc chuyên mở sới tại đám tang](https://vnexpress.net/nhom-con-bac-chuyen-mo-soi-tai-dam-tang-4962601.html) - 05:25 11/11/2025
-- 🎊 [28 cổ phiếu Việt Nam có thể vào rổ chỉ số FTSE sau khi nâng hạng](https://vnexpress.net/28-co-phieu-viet-nam-co-the-vao-ro-chi-so-ftse-sau-khi-nang-hang-4962586.html) - 05:20 11/11/2025
-- 🤠 [10 đội tuyển có thể giành vé dự World Cup 2026 tuần này](https://vnexpress.net/10-doi-tuyen-co-the-gianh-ve-du-world-cup-2026-tuan-nay-4962409.html) - 05:20 11/11/2025
-- 🌈 [Chủ mới chi tỷ USD để sở hữu Atletico Madrid](https://vnexpress.net/chu-moi-chi-ty-usd-de-so-huu-atletico-madrid-4962431.html) - 05:06 11/11/2025
-- 🎬 [Lại Lý Huynh tái đấu các kỳ thủ Trung Quốc](https://vnexpress.net/lai-ly-huynh-tai-dau-cac-ky-thu-trung-quoc-4962563.html) - 05:03 11/11/2025
-- 🚀 [Rộ tin đồn Messi trở lại châu Âu thi đấu](https://vnexpress.net/ro-tin-don-messi-tro-lai-chau-au-thi-dau-4962408.html) - 05:00 11/11/2025
-- 🪄 [Tiêm chất làm đầy hốc mắt trũng sâu](https://vnexpress.net/tiem-chat-lam-day-hoc-mat-trung-sau-4962529.html) - 05:00 11/11/2025
-- 😎 [Có con sau 12 lần chuyển phôi thụ tinh ống nghiệm thất bại](https://vnexpress.net/co-con-sau-12-lan-chuyen-phoi-thu-tinh-ong-nghiem-that-bai-4962522.html) - 05:00 11/11/2025
-- 🎊 [Hành trình 35 năm xây dựng thương hiệu của PV Gas](https://vnexpress.net/hanh-trinh-35-nam-xay-dung-thuong-hieu-cua-pv-gas-4962448.html) - 05:00 11/11/2025
-- ⚗️ [5 điểm trải nghiệm làm nông hút du khách tại miền Trung](https://vnexpress.net/5-diem-trai-nghiem-lam-nong-hut-du-khach-tai-mien-trung-4961046.html) - 05:00 11/11/2025
-- 🫣 [Ca mổ &#39;5 trong 1&#39; tái sinh khuôn mặt người đàn ông](https://vnexpress.net/ca-mo-5-trong-1-tai-sinh-khuon-mat-nguoi-dan-ong-4962556.html) - 04:57 11/11/2025
-- 👨‍🏫 [FLC dự kiến giao dịch lại cổ phiếu từ quý I/2026](https://vnexpress.net/flc-du-kien-giao-dich-lai-co-phieu-tu-quy-i-2026-4962527.html) - 04:52 11/11/2025
-- 🐻 [Bố đi 1.000 km mở quán ăn vì con gái thèm cơm nhà](https://vnexpress.net/bo-di-1-000-km-mo-quan-an-vi-con-gai-them-com-nha-4962539.html) - 04:47 11/11/2025
-- 😺 [Trái cây ngoại ồ ạt vào Việt Nam](https://vnexpress.net/trai-cay-ngoai-o-at-vao-viet-nam-4962240.html) - 04:46 11/11/2025
-- 🤔 [Ca sĩ Bằng Kiều gây tranh cãi khi nói về G-Dragon](https://vnexpress.net/ca-si-bang-kieu-gay-tranh-cai-khi-noi-ve-g-dragon-4962570.html) - 04:43 11/11/2025
-- 🌮 [Nhiều người Mỹ lo bị truy thu trợ cấp tem phiếu thực phẩm](https://vnexpress.net/nhieu-nguoi-my-lo-bi-truy-thu-tro-cap-tem-phieu-thuc-pham-4962473.html) - 04:42 11/11/2025
-- 🦩 [DOL English tri ân giáo viên nhân ngày 20/11](https://vnexpress.net/dol-english-tri-an-giao-vien-nhan-ngay-20-11-4962552.html) - 04:35 11/11/2025
-- 📝 [Xe chở khách lao vào sảnh sân bay Mỹ, 18 người bị thương](https://vnexpress.net/xe-cho-khach-lao-vao-sanh-san-bay-my-18-nguoi-bi-thuong-4962514.html) - 04:23 11/11/2025
-- 🕴 [Khai quật đàn tế trời ở thành nhà Hồ](https://vnexpress.net/khai-quat-dan-te-troi-o-thanh-nha-ho-4962517.html) - 04:18 11/11/2025
-- 🐲 [Thủ tướng: Xử lý ngay trục lợi trong lĩnh vực nhà ở xã hội](https://vnexpress.net/thu-tuong-xu-ly-ngay-truc-loi-trong-linh-vuc-nha-o-xa-hoi-4962540.html) - 04:17 11/11/2025
-- 🌜 [Cáp quang biển - xương sống mong manh của AI và Internet toàn cầu](https://vnexpress.net/cap-quang-bien-xuong-song-mong-manh-cua-ai-va-internet-toan-cau-4962318.html) - 04:15 11/11/2025
-- 💄 [Ai là &#39;Lưỡng quốc Thám hoa&#39; duy nhất trong sử Việt?](https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-la-luong-quoc-tham-hoa-duy-nhat-trong-su-viet-4962029.html) - 04:15 11/11/2025
-- 🌁 [&#39;Kế hoạch B&#39; của ông Trump để bảo vệ thuế quan trước thách thức pháp lý](https://vnexpress.net/ke-hoach-b-cua-ong-trump-de-bao-ve-thue-quan-truoc-thach-thuc-phap-ly-4960571.html) - 04:13 11/11/2025
-- 🎬 [200 tay súng &#39;chuột chũi&#39; có thể đe dọa hòa bình Gaza](https://vnexpress.net/200-tay-sung-chuot-chui-co-the-de-doa-hoa-binh-gaza-4962237.html) - 04:11 11/11/2025
-- 👨‍🏫 [Tìm được chứng cứ điều tra viên bỏ sót, người cha lật án tử](https://vnexpress.net/tim-duoc-chung-cu-dieu-tra-vien-bo-sot-nguoi-cha-lat-an-tu-4962524.html) - 04:10 11/11/2025
-- ⚗️ [Giải chạy đêm Hà Nội đóng đăng ký trong 12 giờ tới](https://vnexpress.net/vnexpress-marathon-ha-noi-dong-dang-ky-4961066.html) - 04:10 11/11/2025
-- 😺 [Màn cơm &#39;bay&#39; lạ mắt ở quán ăn TP HCM](https://vnexpress.net/man-com-bay-la-mat-o-quan-an-tp-hcm-4959662.html) - 04:08 11/11/2025
-- 🔥 [Bỏ qua cho bạn gái nhiều chuyện, giờ muốn bỏ luôn cô ấy](https://vnexpress.net/bo-qua-cho-ban-gai-nhieu-chuyen-gio-muon-bo-luon-co-ay-4962384.html) - 04:07 11/11/2025
-- 🧰 [Độ ẩm cao - &#39;kẻ thù&#39; của runner](https://vnexpress.net/do-am-cao-ke-thu-cua-runner-4962041.html) - 04:04 11/11/2025
-- 🦒 [Vaccine phế cầu phòng bệnh gì?](https://vnexpress.net/vaccine-phe-cau-phong-benh-gi-4962519.html) - 04:00 11/11/2025
-- ⛽️ [Ngủ li bì không muốn dậy là bệnh gì?](https://vnexpress.net/ngu-li-bi-khong-muon-day-la-benh-gi-4962482.html) - 04:00 11/11/2025
-- 🚀 [Chứng khoán Pinetree khởi động cuộc thi &#39;Chứng Trường Bạc Tỷ&#39; mùa 2](https://vnexpress.net/chung-khoan-pinetree-khoi-dong-cuoc-thi-chung-truong-bac-ty-mua-2-4962265.html) - 04:00 11/11/2025
-- 🪜 [Vận tải hàng không toàn cầu duy trì đà tăng trưởng](https://vnexpress.net/van-tai-hang-khong-toan-cau-duy-tri-da-tang-truong-4960158.html) - 04:00 11/11/2025
-- 🚦 [Tuần cuối bình chọn vòng chung kết Vietnam iContent Awards 2025](https://vnexpress.net/tuan-cuoi-binh-chon-vong-chung-ket-vietnam-icontent-awards-2025-4953423.html) - 04:00 11/11/2025
-- 🕯 [Trường học kêu gọi phụ huynh không tặng quà giáo viên dịp 20/11](https://vnexpress.net/truong-hoc-keu-goi-phu-huynh-khong-tang-qua-giao-vien-dip-20-11-4962349.html) - 03:58 11/11/2025
-- 💪 [Giá vàng miếng lên cao nhất hai tuần](https://vnexpress.net/gia-vang-mieng-len-cao-nhat-hai-tuan-4962531.html) - 03:57 11/11/2025
-- 🧑‍🏫 [Hai cao tốc ở Cao Bằng, Lạng Sơn dự kiến thông tuyến cuối năm](https://vnexpress.net/hai-cao-toc-o-cao-bang-lang-son-du-kien-thong-tuyen-cuoi-nam-4962343.html) - 03:55 11/11/2025
-- 🎓 [Toyota Hilux thế hệ mới có phiên bản chạy điện](https://vnexpress.net/toyota-hilux-the-he-moi-co-phien-ban-chay-dien-4962425.html) - 03:49 11/11/2025
-- 💫 [Học sinh gây sốt nhờ mặc như thám tử](https://vnexpress.net/hoc-sinh-gay-sot-nho-mac-nhu-tham-tu-4962498.html) - 03:47 11/11/2025
-- 🤩 [Cô gái giảm 14 kg sau 35 ngày ăn cả chuột, rết trên hoang đảo](https://vnexpress.net/co-gai-giam-14-kg-sau-35-ngay-an-ca-chuot-ret-tren-hoang-dao-4962261.html) - 03:43 11/11/2025
-- 🏊 [Nhiều người bao vây, đập phá ôtô](https://vnexpress.net/nhieu-nguoi-bao-vay-dap-pha-oto-4962504.html) - 03:40 11/11/2025
-- 💂 [&#39;Thánh mukbang&#39; phải lắp răng giả vì ăn quá nhiều](https://vnexpress.net/thanh-mukbang-phai-lap-rang-gia-vi-an-qua-nhieu-4962511.html) - 03:35 11/11/2025<!-- vnexpress:END -->
+- 🚀 [Greenfeed nhận &#39;Thương hiệu vàng nông nghiệp Việt Nam 2025&#39;](https://vnexpress.net/greenfeed-nhan-thuong-hieu-vang-nong-nghiep-viet-nam-2025-4962626.html) - 09:00 11/11/2025
+- 🧰 [Điều gì xảy ra nếu ăn chocolate trước khi ngủ?](https://vnexpress.net/dieu-gi-xay-ra-neu-an-chocolate-truoc-khi-ngu-4962467.html) - 09:00 11/11/2025
+- 🥰 [CIMB nâng hạn mức vay trên ứng dụng DNSE](https://vnexpress.net/cimb-nang-han-muc-vay-tren-ung-dung-dnse-4962267.html) - 09:00 11/11/2025
+- 🌏 [Chứng khoán hồi phục mạnh](https://vnexpress.net/chung-khoan-hoi-phuc-manh-4962679.html) - 08:50 11/11/2025
+- 🧐 [Nga tuyên bố phá âm mưu đánh cắp tiêm kích MiG-31 mang Kinzhal](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-danh-cap-tiem-kich-mig-31-mang-kinzhal-4962643.html) - 08:34 11/11/2025
+- 💫 [12 điều khoản kỳ lạ nhất trong hợp đồng cầu thủ](https://vnexpress.net/12-dieu-khoan-ky-la-nhat-trong-hop-dong-cau-thu-4961801.html) - 08:32 11/11/2025
+- 😺 [Hai &#39;siêu dự án&#39; tại đất vàng trung tâm TP HCM có cơ hội hồi sinh](https://vnexpress.net/hai-sieu-du-an-tai-dat-vang-trung-tam-tp-hcm-co-co-hoi-hoi-sinh-4962608.html) - 08:30 11/11/2025
+- 🕯 [Lãnh đạo Syria chơi bóng rổ với quan chức Mỹ](https://vnexpress.net/lanh-dao-syria-choi-bong-ro-voi-quan-chuc-my-4962622.html) - 08:22 11/11/2025
+- 💃 [Bạch Mai lập phòng thực hành mô phỏng tiếp cận mạch máu](https://vnexpress.net/bach-mai-lap-phong-thuc-hanh-mo-phong-tiep-can-mach-mau-4962426.html) - 08:22 11/11/2025
+- 💂 [Ca phẫu thuật mở ngực giữa Trường Sa](https://vnexpress.net/ca-phau-thuat-mo-nguc-giua-truong-sa-4962576.html) - 08:21 11/11/2025
+- 🎊 [Vẫn đợi anh, người cùng em đi đến hạnh phúc](https://vnexpress.net/van-doi-anh-nguoi-cung-em-di-den-hanh-phuc-4962370.html) - 08:10 11/11/2025
+- 🤠 [&#39;Bụng mình ăn bẩn quen rồi&#39;](https://vnexpress.net/bung-minh-an-ban-quen-roi-4962651.html) - 08:00 11/11/2025
+- 🌈 [Visa đồng hành Esports thúc đẩy chuyển đổi số tại Việt Nam](https://vnexpress.net/visa-dong-hanh-esports-chuyen-doi-so-viet-nam-4962616.html) - 08:00 11/11/2025
+- 🎬 [9 dấu hiệu cho thấy đường huyết đang tăng](https://vnexpress.net/9-dau-hieu-cho-thay-duong-huyet-dang-tang-4962557.html) - 08:00 11/11/2025
+- 🚀 [9 loại rau xanh quen thuộc tốt cho thận](https://vnexpress.net/9-loai-rau-xanh-quen-thuoc-tot-cho-than-4962538.html) - 08:00 11/11/2025
+- 🪄 [Ổ cứng khan hàng vì cơn sốt AI](https://vnexpress.net/o-cung-khan-hang-vi-con-sot-ai-4961946.html) - 07:50 11/11/2025
+- 😎 [Không mua máy rửa bát vì &#39;tốn điện nước, không sạch bằng tay&#39;](https://vnexpress.net/chi-toi-chiu-kho-vi-tiec-tien-mua-may-rua-bat-4962621.html) - 07:46 11/11/2025
+- 🎊 [Quy mô, hướng tuyến dự án Metro Bến Thành - Cần Giờ](https://vnexpress.net/quy-mo-huong-tuyen-du-an-metro-ben-thanh-can-gio-4962641.html) - 07:45 11/11/2025
+- ⚗️ [Mua được nhà bằng tiền nhặt vỏ lon](https://vnexpress.net/mua-duoc-nha-bang-tien-nhat-vo-lon-4962631.html) - 07:44 11/11/2025
+- 🫣 [Biểu tình đòi &#39;quyền hít thở&#39; tại thủ đô Ấn Độ](https://vnexpress.net/bieu-tinh-doi-quyen-hit-tho-tai-thu-do-an-do-4962512.html) - 07:43 11/11/2025
+- 👨‍🏫 [Cô giáo mất việc vì đánh học sinh trả lời sai](https://vnexpress.net/co-giao-mat-viec-vi-danh-hoc-sinh-tra-loi-sai-4962618.html) - 07:40 11/11/2025
+- 🐻 [Diễn tập Việt Nam - Ấn  Độ về gìn giữ hòa bình](https://vnexpress.net/dien-tap-viet-nam-an-do-ve-gin-giu-hoa-binh-4962634.html) - 07:36 11/11/2025
+- 😺 [Cuộc sống Lương Thùy Linh ở tuổi 25](https://vnexpress.net/cuoc-song-luong-thuy-linh-o-tuoi-25-4961883.html) - 07:36 11/11/2025
+- 🤔 [Bạn trai lén lút rủ người cũ vào nhà nghỉ](https://vnexpress.net/ban-trai-nhan-tin-cho-nguoi-cu-anh-dang-doc-than-can-chua-lanh-bang-tinh-duc-4962571.html) - 07:35 11/11/2025
+- 🌮 [Ukraine sao chép &#39;giáp lông nhím&#39; của xe tăng Nga](https://vnexpress.net/ukraine-sao-chep-giap-long-nhim-cua-xe-tang-nga-4962528.html) - 07:34 11/11/2025
+- 🦩 [Mô hình As One nâng cao kiểm soát bệnh mạn tính tại Việt Nam](https://vnexpress.net/mo-hinh-as-one-nang-cao-kiem-soat-benh-man-tinh-tai-viet-nam-4962509.html) - 07:30 11/11/2025
+- 📝 [Warren Buffett tăng tốc quyên góp tài sản làm từ thiện](https://vnexpress.net/warren-buffett-tang-toc-quyen-gop-tai-san-lam-tu-thien-4962566.html) - 07:27 11/11/2025
+- 🕴 [Thái Lan nói đình chỉ thỏa thuận hòa bình với Campuchia để &#39;tự vệ&#39;](https://vnexpress.net/thai-lan-noi-dinh-chi-thoa-thuan-hoa-binh-voi-campuchia-de-tu-ve-4962620.html) - 07:25 11/11/2025
+- 🐲 [Đâu là mức trần năng lượng của các VĐV?](https://vnexpress.net/dau-la-muc-tran-nang-luong-cua-cac-vdv-4961951.html) - 07:24 11/11/2025
+- 🌜 [Các hãng xe Trung Quốc - mối đe dọa lớn nhất của Honda](https://vnexpress.net/cac-hang-xe-trung-quoc-moi-de-doa-lon-nhat-cua-honda-4962630.html) - 07:23 11/11/2025
+- 💄 [Thành ngữ Việt Nam nào gắn liền với những con ma?](https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-viet-nam-nao-gan-lien-voi-nhung-con-ma-4961336.html) - 07:18 11/11/2025
+- 🌁 [Alcaraz thấy may mắn khi Djokovic rút lui](https://vnexpress.net/alcaraz-thay-may-man-khi-djokovic-rut-lui-4962553.html) - 07:17 11/11/2025
+- 🎬 [Gọi xe Be lần đầu báo lãi](https://vnexpress.net/goi-xe-be-lan-dau-bao-lai-4962600.html) - 07:16 11/11/2025
+- 👨‍🏫 [Em biết lắng nghe, mang cảm giác thoải mái cho người khác](https://vnexpress.net/em-biet-lang-nghe-mang-cam-giac-thoai-mai-cho-nguoi-khac-4962368.html) - 07:14 11/11/2025
+- ⚗️ [Nhà xưởng, khu công nghiệp tan hoang sau bão Kalmaegi](https://vnexpress.net/nha-xuong-khu-cong-nghiep-tan-hoang-sau-bao-kalmaegi-4962513.html) - 07:04 11/11/2025
+- 😺 [Phim &#39;Hoàn Châu&#39; - minh tinh hiện đại lạc ở Tử Cấm Thành](https://vnexpress.net/phim-hoan-chau-minh-tinh-hien-dai-lac-o-tu-cam-thanh-4962469.html) - 07:00 11/11/2025
+- 🔥 [Trung Quốc phá kỷ lục về số lần phóng tàu trong một năm](https://vnexpress.net/trung-quoc-pha-ky-luc-ve-so-lan-phong-tau-trong-mot-nam-4962542.html) - 07:00 11/11/2025
+- 🧰 [Blanca City kỳ vọng đón sóng đầu tư khi TP HCM mở rộng](https://vnexpress.net/blanca-city-ky-vong-don-song-dau-tu-khi-tp-hcm-mo-rong-4962633.html) - 07:00 11/11/2025
+- 🦒 [5 quả giàu chất béo nên ăn thường xuyên](https://vnexpress.net/5-qua-giau-chat-beo-nen-an-thuong-xuyen-4962573.html) - 07:00 11/11/2025
+- ⛽️ [Tổ hợp phong cách Singapore gần 80.000 tỷ đồng tại Đà Nẵng](https://vnexpress.net/to-hop-phong-cach-singapore-gan-80-000-ty-dong-tai-da-nang-4962562.html) - 07:00 11/11/2025
+- 🚀 [9x khởi nghiệp từ những cây chè trăm tuổi](https://vnexpress.net/9x-khoi-nghiep-tu-nhung-cay-che-tram-tuoi-4962547.html) - 07:00 11/11/2025
+- 🪜 [Quốc hội phê chuẩn hai Phó chủ tịch Hội đồng Bầu cử quốc gia](https://vnexpress.net/quoc-hoi-phe-chuan-hai-pho-chu-tich-hoi-dong-bau-cu-quoc-gia-4962619.html) - 06:59 11/11/2025
+- 🚦 [Vứt ma túy xuống bồn cầu khi bị khám nhà](https://vnexpress.net/vut-ma-tuy-xuong-bon-cau-khi-bi-kham-nha-4962607.html) - 06:56 11/11/2025
+- 🕯 [Chính phủ trả tiền, người Trung Quốc vẫn ngại sinh con](https://vnexpress.net/chinh-phu-tra-tien-nguoi-trung-quoc-van-ngai-sinh-con-4962477.html) - 06:52 11/11/2025
+- 💪 [Khách sạn ở Hà Nội vào danh sách &#39;tuyệt nhất thế giới 2026&#39;](https://vnexpress.net/khach-san-o-ha-noi-vao-danh-sach-tuyet-nhat-the-gioi-2026-4962521.html) - 06:30 11/11/2025
+- 🧑‍🏫 [Nhà văn Anh thắng giải Booker 2025](https://vnexpress.net/nha-van-anh-thang-giai-booker-2025-4962590.html) - 06:21 11/11/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
