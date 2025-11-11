@@ -4,10 +4,10 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tiệm bánh mì Việt ở New York khiến khách xếp cả tiếng chờ mua](https://vnexpress.net/tiem-banh-mi-viet-o-new-york-khien-khach-xep-ca-tieng-cho-mua-4962738.html) - 13:00 11/11/2025
+- 💂 [Khách sạn ở Hà Nội bị tố &#39;bùng&#39; phòng của khách](https://vnexpress.net/khach-san-o-ha-noi-bi-to-bung-phong-cua-khach-4962772.html) - 13:48 11/11/2025
 - 🪄 [Vì sao gọi là xôi xéo?](https://vnexpress.net/vi-sao-goi-la-xoi-xeo-4962585.html) - 12:00 11/11/2025
 - 🦅 [Khách sạn ở Hà Nội vào danh sách &#39;tuyệt nhất thế giới 2026&#39;](https://vnexpress.net/khach-san-o-ha-noi-vao-danh-sach-tuyet-nhat-the-gioi-2026-4962521.html) - 06:30 11/11/2025
-- 🕴 [Săn mây ở Tà Xùa](https://vnexpress.net/san-may-o-ta-xua-4960656.html) - 06:05 11/11/2025
+- 🕴 [Săn biển mây ở Tà Xùa](https://vnexpress.net/san-bien-may-o-ta-xua-4960656.html) - 06:05 11/11/2025
 - 👀 [5 điểm trải nghiệm làm nông hút du khách tại miền Trung](https://vnexpress.net/5-diem-trai-nghiem-lam-nong-hut-du-khach-tai-mien-trung-4961046.html) - 05:00 11/11/2025
 - 🎭 [Khách đổ xô check in quán cà phê giữa vườn nho ở TP HCM](https://vnexpress.net/khach-do-xo-check-in-quan-ca-phe-giua-vuon-nho-o-tp-hcm-4961917.html) - 00:00 11/11/2025
 - 🦒 [Bên trong khách sạn robot ở Nhật Bản](https://vnexpress.net/ben-trong-khach-san-robot-o-nhat-ban-4954321.html) - 17:00 10/11/2025
