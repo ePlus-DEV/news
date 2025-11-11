@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Cá nào sống dưới biển nhưng không bơi?](https://vnexpress.net/ca-nao-song-duoi-bien-nhung-khong-boi-4962708.html) - 12:13 11/11/2025
-- 🦆 [Chủ tịch Hội đồng trường bị cho thôi việc sau video &#39;thân mật&#39; với nhiều phụ nữ](https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html) - 09:29 11/11/2025
+- 🦆 [Cho thôi việc Chủ tịch Hội đồng trường sau video &#39;thân mật&#39; với nhiều phụ nữ](https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html) - 09:29 11/11/2025
 - 🦩 [Cô giáo mất việc vì đánh học sinh trả lời sai](https://vnexpress.net/co-giao-mat-viec-vi-danh-hoc-sinh-tra-loi-sai-4962618.html) - 07:40 11/11/2025
 - 🌮 [Trường học kêu gọi phụ huynh không tặng quà giáo viên dịp 20/11](https://vnexpress.net/truong-hoc-keu-goi-phu-huynh-khong-tang-qua-giao-vien-dip-20-11-4962349.html) - 03:58 11/11/2025
 - 🔭 [Nhiều đại học vào cuộc đua xếp hạng](https://vnexpress.net/nhieu-dai-hoc-vao-cuoc-dua-xep-hang-4961238.html) - 02:35 11/11/2025
