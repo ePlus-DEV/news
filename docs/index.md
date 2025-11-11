@@ -318,7 +318,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Lê Quang Liêm bị cầm hòa ở trận đầu tại vòng 4 giải World Cup 2025](https://www.sggp.org.vn/le-quang-liem-bi-cam-hoa-o-tran-dau-tai-vong-4-giai-world-cup-2025-post822983.html) - 14:51 11/11/2025
-- 🌝 [Vụ &quot;Bánh mì cóc cô Bích&quot;: Bệnh nhân tiếp tục tăng, tìm thấy vi khuẩn khác](https://www.sggp.org.vn/vu-banh-mi-coc-co-bich-benh-nhan-tiep-tuc-tang-tim-thay-vi-khuan-khac-post822984.html) - 14:47 11/11/2025
+- 🌝 [Vụ &quot;Bánh mì cóc cô Bích&quot;: Tăng lên 299 ca, tìm thấy vi khuẩn khác](https://www.sggp.org.vn/vu-banh-mi-coc-co-bich-tang-len-299-ca-tim-thay-vi-khuan-khac-post822984.html) - 14:47 11/11/2025
 - 💃 [Lâm Đồng: 8 tàu cá bị sóng lớn đánh chìm](https://www.sggp.org.vn/lam-dong-8-tau-ca-bi-song-lon-danh-chim-post822979.html) - 13:48 11/11/2025
 - 🧑‍💻 [Ra mắt nền tảng công nghệ chuỗi khối OnusChain](https://www.sggp.org.vn/ra-mat-nen-tang-cong-nghe-chuoi-khoi-onuschain-post822966.html) - 13:47 11/11/2025
 - 🌊 [Xây dựng Hồ Tràm trở thành trung tâm du lịch biển đẳng cấp quốc tế](https://www.sggp.org.vn/xay-dung-ho-tram-tro-thanh-trung-tam-du-lich-bien-dang-cap-quoc-te-post822942.html) - 13:43 11/11/2025
