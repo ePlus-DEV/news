@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [12 điều khoản kỳ lạ nhất trong hợp đồng cầu thủ](https://vnexpress.net/12-dieu-khoan-ky-la-nhat-trong-hop-dong-cau-thu-4961801.html) - 08:32 11/11/2025
-- 🦩 [Đâu là mức trần năng lượng của các VĐV?](https://vnexpress.net/dau-la-muc-tran-nang-luong-cua-cac-vdv-4961951.html) - 07:24 11/11/2025
+- 🦩 [Đâu là ngưỡng chịu đựng của các VĐV?](https://vnexpress.net/dau-la-nguong-chiu-dung-cua-cac-vdv-4961951.html) - 07:24 11/11/2025
 - 🧰 [Alcaraz thấy may mắn khi Djokovic rút lui](https://vnexpress.net/alcaraz-thay-may-man-khi-djokovic-rut-lui-4962553.html) - 07:17 11/11/2025
 - 🤗 [10 đội tuyển có thể giành vé dự World Cup 2026 tuần này](https://vnexpress.net/10-doi-tuyen-co-the-gianh-ve-du-world-cup-2026-tuan-nay-4962409.html) - 05:20 11/11/2025
 - 🥳 [Chủ mới chi tỷ USD để sở hữu Atletico Madrid](https://vnexpress.net/chu-moi-chi-ty-usd-de-so-huu-atletico-madrid-4962431.html) - 05:06 11/11/2025
