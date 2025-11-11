@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ngôi sao nhập tịch rút lui bí ẩn khỏi đội tuyển Malaysia](https://dantri.com.vn/the-thao/ngoi-sao-nhap-tich-rut-lui-bi-an-khoi-doi-tuyen-malaysia-20251111222300842.htm) - 15:32 11/11/2025
+- 🎡 [Ngôi sao nhập tịch rút lui bí ẩn khỏi đội tuyển Malaysia](https://dantri.com.vn/the-thao/ngoi-sao-nhap-tich-rut-lui-bi-an-khoi-doi-tuyen-malaysia-20251111222300842.htm) - 17:20 11/11/2025
 - 💯 [Lamine Yamal bất ngờ bị loại khỏi đội tuyển Tây Ban Nha, HLV trưởng bị sốc](https://dantri.com.vn/the-thao/lamine-yamal-bat-ngo-bi-loai-khoi-doi-tuyen-tay-ban-nha-hlv-truong-bi-soc-20251111185628325.htm) - 12:02 11/11/2025
 - ⛽️ [Xuân Son báo tin vui trong ngày trở lại đội tuyển Việt Nam](https://dantri.com.vn/the-thao/xuan-son-bao-tin-vui-trong-ngay-tro-lai-doi-tuyen-viet-nam-20251111172251229.htm) - 10:23 11/11/2025
 - 💃 [HLV U22 Việt Nam: &quot;Chúng tôi không ngại khi đối đầu Trung Quốc, Hàn Quốc&quot;](https://dantri.com.vn/the-thao/hlv-u22-viet-nam-chung-toi-khong-ngai-khi-doi-dau-trung-quoc-han-quoc-20251111152414057.htm) - 08:44 11/11/2025
