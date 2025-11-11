@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Mẹo chữa thịt kho bị cứng](https://vnexpress.net/meo-chua-thit-kho-bi-cung-4962690.html) - 09:43 11/11/2025
 - 🪜 [Tài xế cố thoát vòng vây khi ôtô bị tấn công](https://vnexpress.net/tai-xe-co-thoat-vong-vay-khi-oto-bi-tan-cong-4962663.html) - 09:35 11/11/2025
 - 👨‍🏫 [Dùng nhà ở xã hội sai mục đích có thể bị phạt đến 120 triệu đồng](https://vnexpress.net/dung-nha-o-xa-hoi-sai-muc-dich-co-the-bi-phat-den-120-trieu-dong-4962696.html) - 09:34 11/11/2025
-- 🎊 [Chủ tịch Hội đồng trường bị cho thôi việc sau video &#39;thân mật&#39; với nhiều phụ nữ](https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html) - 09:29 11/11/2025
+- 🎊 [Chủ tịch HĐQT trường bị cho thôi việc sau video &#39;thân mật&#39; với nhiều phụ nữ](https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html) - 09:29 11/11/2025
 - 🎊 [Tài tử đóng kiệt tác &#39;Kagemusha&#39; qua đời](https://vnexpress.net/tai-tu-dong-kiet-tac-kagemusha-qua-doi-4962693.html) - 09:21 11/11/2025
 - 😺 [Hà Nội lắp đặt hệ thống truyền tin báo cháy tự động](https://vnexpress.net/ha-noi-lap-dat-he-thong-truyen-tin-bao-chay-tu-dong-4962628.html) - 09:18 11/11/2025
 - 🐘 [Hồi ký của bố mẹ Giáo sư Ngô Bảo Châu](https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-4962100.html) - 09:18 11/11/2025
