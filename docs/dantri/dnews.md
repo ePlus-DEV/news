@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Báo Dân trí trao tặng hơn 280 triệu đồng tới 2 trường học tại Thái Nguyên](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-tang-hon-280-trieu-dong-toi-2-truong-hoc-tai-thai-nguyen-20251111173732680.htm) - 14:04 11/11/2025
-- 🌈 [Trụ cầu Sông Lô trơ lõi: Kiến nghị khẩn sau khảo sát của cơ quan thuộc QH](https://dantri.com.vn/thoi-su/tru-cau-song-lo-tro-loi-kien-nghi-khan-sau-khao-sat-cua-co-quan-thuoc-qh-20251111202629972.htm) - 13:56 11/11/2025
+- 🌈 [Trụ cầu Sông Lô trơ lõi: Kiến nghị khẩn sau khảo sát của cơ quan thuộc Quốc hội](https://dantri.com.vn/thoi-su/tru-cau-song-lo-tro-loi-kien-nghi-khan-sau-khao-sat-cua-co-quan-thuoc-quoc-hoi-20251111202629972.htm) - 13:56 11/11/2025
 - 🐎 [Be và Xanh SM trỗi dậy, vị thế thống trị của Grab lung lay](https://dantri.com.vn/kinh-doanh/be-va-xanh-sm-troi-day-vi-the-thong-tri-cua-grab-lung-lay-20251111191903168.htm) - 13:53 11/11/2025
 - 👹 [Gạo Việt chuyển mình mạnh mẽ từ giá rẻ sang cao cấp](https://dantri.com.vn/kinh-doanh/gao-viet-chuyen-minh-manh-me-tu-gia-re-sang-cao-cap-20251111165931484.htm) - 09:59 11/11/2025
 - 🫶 [“Cơn lốc” hóa đơn và bài toán sinh tồn đau đầu của nông sản Việt](https://dantri.com.vn/kinh-doanh/con-loc-hoa-don-va-bai-toan-sinh-ton-dau-dau-cua-nong-san-viet-20251108154256703.htm) - 06:33 11/11/2025
