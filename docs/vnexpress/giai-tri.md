@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ca sĩ Bằng Kiều gây tranh cãi khi nói về G-Dragon](https://vnexpress.net/ca-si-bang-kieu-gay-tranh-cai-khi-noi-ve-g-dragon-4962570.html) - 04:43 11/11/2025
-- 💫 [Tuần cuối bình chọn vòng chung kết Vietnam iContent Awards 2025](https://vnexpress.net/tuan-cuoi-binh-chon-vong-chung-ket-vietnam-icontent-awards-2025-4953423.html) - 04:00 11/11/2025
+- 🌏 [Nhà văn Anh thắng giải Booker 2025](https://vnexpress.net/nha-van-anh-thang-giai-booker-2025-4962590.html) - 06:21 11/11/2025
+- 💫 [Ca sĩ Bằng Kiều gây tranh cãi khi nói về G-Dragon](https://vnexpress.net/ca-si-bang-kieu-gay-tranh-cai-khi-noi-ve-g-dragon-4962570.html) - 04:43 11/11/2025
 - 🌮 [Học sinh gây sốt nhờ mặc như thám tử](https://vnexpress.net/hoc-sinh-gay-sot-nho-mac-nhu-tham-tu-4962498.html) - 03:47 11/11/2025
 - 🧠 [Liên Bỉnh Phát áp lực khi đoạt giải Kim Chung](https://vnexpress.net/lien-binh-phat-ap-luc-khi-doat-giai-kim-chung-4962315.html) - 03:19 11/11/2025
 - 👨‍🏫 [Thái Hòa biến hóa trên màn ảnh rộng](https://vnexpress.net/thai-hoa-bien-hoa-tren-man-anh-rong-4962047.html) - 17:00 10/11/2025
