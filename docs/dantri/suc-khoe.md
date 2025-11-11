@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Vụ nghi ngộ độc sau khi ăn bánh mì: 299 ca vào viện, tìm thấy vi khuẩn khác](https://dantri.com.vn/suc-khoe/vu-nghi-ngo-doc-sau-khi-an-banh-mi-299-ca-vao-vien-tim-thay-vi-khuan-khac-20251111184719139.htm) - 12:30 11/11/2025
-- 🚦 [Bác sĩ &quot;chạy xô&quot; về Hà Nội, thành công 2 ca ghép phổi trong một ngày](https://dantri.com.vn/suc-khoe/bac-si-chay-xo-ve-ha-noi-thanh-cong-2-ca-ghep-phoi-trong-mot-ngay-20251111191557086.htm) - 12:26 11/11/2025
+- 🚦 [Bác sĩ &quot;chạy xô&quot; về Hà Nội thực hiện 2 ca ghép phổi trong một ngày](https://dantri.com.vn/suc-khoe/bac-si-chay-xo-ve-ha-noi-thuc-hien-2-ca-ghep-phoi-trong-mot-ngay-20251111191557086.htm) - 12:26 11/11/2025
 - 🤖 [Truy vết từng thành phần nguyên liệu vụ ngộ độc bánh mì ở TPHCM](https://dantri.com.vn/suc-khoe/truy-vet-tung-thanh-phan-nguyen-lieu-vu-ngo-doc-banh-mi-o-tphcm-20251111181346651.htm) - 12:24 11/11/2025
 - 🐻 [Người Việt sống thọ nhưng ít năm sống khỏe, vì sao?](https://dantri.com.vn/suc-khoe/nguoi-viet-song-tho-nhung-it-nam-song-khoe-vi-sao-20251111141851359.htm) - 10:23 11/11/2025
 - 🌏 [Cứu sống người đàn ông 70 tuổi hôn mê sâu vì ho ra máu ồ ạt](https://dantri.com.vn/suc-khoe/cuu-song-nguoi-dan-ong-70-tuoi-hon-me-sau-vi-ho-ra-mau-o-at-20251111145815264.htm) - 10:03 11/11/2025
