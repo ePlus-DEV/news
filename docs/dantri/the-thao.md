@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Malaysia phản ứng mạnh đội nhà thảm bại 0-11 trước khi gặp U17 Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-phan-ung-manh-doi-nha-tham-bai-0-11-truoc-khi-gap-u17-viet-nam-20251112185854780.htm) - 12:00 12/11/2025
-- 💯 [U22 Trung Quốc 0-0 U22 Việt Nam &lpar;hiệp 2&rpar;: Văn Thuận vào sân](https://dantri.com.vn/the-thao/u22-trung-quoc-0-0-u22-viet-nam-hiep-2-van-thuan-vao-san-20251112180931678.htm) - 11:09 12/11/2025
+- 💯 [U22 Việt Nam xuất sắc đánh bại U22 Trung Quốc ngay tại Thành Đô](https://dantri.com.vn/the-thao/u22-viet-nam-xuat-sac-danh-bai-u22-trung-quoc-ngay-tai-thanh-do-20251112180931678.htm) - 11:09 12/11/2025
 - ⛽️ [Chủ tịch VFF nhắn nhủ điều đặc biệt với đội tuyển Việt Nam](https://dantri.com.vn/the-thao/chu-tich-vff-nhan-nhu-dieu-dac-biet-voi-doi-tuyen-viet-nam-20251112174831866.htm) - 10:48 12/11/2025
 - 💃 [Cựu danh thủ Hồ Văn Lợi: Ngôi sao tài hoa, quái kiệt sân cỏ](https://dantri.com.vn/the-thao/cuu-danh-thu-ho-van-loi-ngoi-sao-tai-hoa-quai-kiet-san-co-20251112144904825.htm) - 10:16 12/11/2025
 - 🌈 [Đội nữ TPHCM quyết tâm khởi đầu tốt tại Cúp C1 châu Á 2025-2026](https://dantri.com.vn/the-thao/doi-nu-tphcm-quyet-tam-khoi-dau-tot-tai-cup-c1-chau-a-2025-2026-20251112122521572.htm) - 10:09 12/11/2025
