@@ -4,9 +4,9 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Ăn đá viên cầm hơi, ngất 12 lần/tháng: Mặt tối ám ảnh ngoại hình sao Hàn](https://dantri.com.vn/giai-tri/an-da-vien-cam-hoi-ngat-12-lanthang-mat-toi-am-anh-ngoai-hinh-sao-han-20251112134338274.htm) - 11:30 12/11/2025
-- 🌈 [Phát huy sức mạnh đại đoàn kết toàn dân tộc để phát triển đất nước](https://dantri.com.vn/thoi-su/phat-huy-suc-manh-dai-doan-ket-toan-dan-toc-de-phat-trien-dat-nuoc-20251112172800067.htm) - 10:30 12/11/2025
-- 🐎 [Cựu danh thủ Hồ Văn Lợi: Ngôi sao tài hoa, quái kiệt sân cỏ](https://dantri.com.vn/the-thao/cuu-danh-thu-ho-van-loi-ngoi-sao-tai-hoa-quai-kiet-san-co-20251112144904825.htm) - 10:16 12/11/2025
+- 🤠 [Cựu danh thủ Hồ Văn Lợi: Ngôi sao tài hoa, quái kiệt sân cỏ](https://dantri.com.vn/the-thao/cuu-danh-thu-ho-van-loi-ngoi-sao-tai-hoa-quai-kiet-san-co-20251112144904825.htm) - 12:16 12/11/2025
+- 🌈 [Ăn đá viên cầm hơi, ngất 12 lần/tháng: Mặt tối ám ảnh ngoại hình sao Hàn](https://dantri.com.vn/giai-tri/an-da-vien-cam-hoi-ngat-12-lanthang-mat-toi-am-anh-ngoai-hinh-sao-han-20251112134338274.htm) - 11:30 12/11/2025
+- 🐎 [Phát huy sức mạnh đại đoàn kết toàn dân tộc để phát triển đất nước](https://dantri.com.vn/thoi-su/phat-huy-suc-manh-dai-doan-ket-toan-dan-toc-de-phat-trien-dat-nuoc-20251112172800067.htm) - 10:30 12/11/2025
 - 👹 [Thị trường tiền số lại dậy sóng vì “bóng ma” Satoshi Nakamoto](https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-lai-day-song-vi-bong-ma-satoshi-nakamoto-20251112084520588.htm) - 09:56 12/11/2025
 - 🫶 [&quot;Ngành NN&amp;MT cần tiếp tục đổi mới, hành động quyết liệt hơn, hiệu quả hơn&quot;](https://dantri.com.vn/thoi-su/nganh-nnmt-can-tiep-tuc-doi-moi-hanh-dong-quyet-liet-hon-hieu-qua-hon-20251112144632040.htm) - 07:58 12/11/2025
 - ⛽️ [Cần Thơ: Tiềm năng du lịch lớn, cần đột phá để níu chân du khách](https://dantri.com.vn/du-lich/can-tho-tiem-nang-du-lich-lon-can-dot-pha-de-niu-chan-du-khach-20251023223719169.htm) - 07:53 12/11/2025
