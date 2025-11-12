@@ -527,7 +527,7 @@ và khắc phục nhanh hậu quả bão, lũ tại khu vực Trung Bộ](https:
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp U22 Việt Nam vs U22 Trung Quốc: Thanh Nhàn đá chính](https://muctim.tuoitre.vn/truc-tiep-u22-viet-nam-vs-u22-trung-quoc-thanh-nhan-da-chinh-101251112183721849.htm) - 11:37 12/11/2025
+- 🤔 [Trực tiếp U22 Việt Nam vs U22 Trung Quốc: 1-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u22-viet-nam-vs-u22-trung-quoc-thanh-nhan-da-chinh-101251112183721849.htm) - 11:37 12/11/2025
 - 🥷 [Lionel Messi mong muốn sống tại Barcelona](https://muctim.tuoitre.vn/lionel-messi-mong-muon-song-tai-barcelona-101251112150318582.htm) - 09:40 12/11/2025
 - 🤖 [5 phim Hàn có rating vượt mốc 10% trong năm 2025](https://muctim.tuoitre.vn/5-phim-han-co-rating-vuot-moc-10-trong-nam-2025-101251111225222704.htm) - 07:02 12/11/2025
 - 🤓 [Thời gian đăng ký tài khoản dự thi đánh giá năng lực Đại học Quốc gia Hà Nội &lpar;HSA&rpar; năm 2026](https://muctim.tuoitre.vn/thoi-gian-dang-ky-tai-khoan-du-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-ha-noi-hsa-nam-2026-101251112120318264.htm) - 06:56 12/11/2025
