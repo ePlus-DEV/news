@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Cử tri gốc Latin dần quay lưng với ông Trump](https://vnexpress.net/cu-tri-goc-latin-dan-quay-lung-voi-ong-trump-4962845.html) - 22:00 12/11/2025
 - 🕴 [Ông Trump muốn giúp người trẻ Mỹ vay 50 năm để mua nhà](https://vnexpress.net/ong-trump-muon-giup-nguoi-tre-my-vay-50-nam-de-mua-nha-4962957.html) - 20:00 12/11/2025
 - 🤭 [Kiện chính quyền thành phố vì cành cây gãy làm chết con trai](https://vnexpress.net/kien-chinh-quyen-thanh-pho-vi-canh-cay-gay-lam-chet-con-trai-4962979.html) - 19:00 12/11/2025
-- 🧑‍💻 [Giá rét kỷ lục mùa thu tràn xuống miền nam nước Mỹ](https://vnexpress.net/gia-ret-ky-luc-mua-thu-tran-xuong-mien-nam-nuoc-my-4963115.html) - 18:06 12/11/2025
+- 🧑‍💻 [Giá rét tràn xuống miền nam nước Mỹ vào mùa thu](https://vnexpress.net/gia-ret-tran-xuong-mien-nam-nuoc-my-vao-mua-thu-4963115.html) - 18:06 12/11/2025
 - 🦏 [Chiến dịch chiêu mộ để đánh cắp tiêm kích Nga mang tên lửa Kinzhal](https://vnexpress.net/chien-dich-chieu-mo-de-danh-cap-tiem-kich-nga-mang-ten-lua-kinzhal-4962899.html) - 18:00 12/11/2025
 - 🦒 [Hai bộ trưởng Ukraine từ chức do bê bối tham nhũng](https://vnexpress.net/hai-bo-truong-ukraine-tu-chuc-do-be-boi-tham-nhung-4963268.html) - 17:02 12/11/2025
 - 🌈 [Thách thức với ông Trump khi chính phủ mở cửa trở lại](https://vnexpress.net/thach-thuc-voi-ong-trump-khi-chinh-phu-mo-cua-tro-lai-4962841.html) - 17:00 12/11/2025
