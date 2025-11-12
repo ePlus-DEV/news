@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Võ sĩ năn nỉ UFC trả thưởng để chăm mẹ](https://vnexpress.net/vo-si-nan-ni-ufc-tra-thuong-de-cham-me-4962815.html) - 22:19 11/11/2025
 - 🤗 [Kình ngư 13 tuổi Trung Quốc phá kỷ lục châu Á](https://vnexpress.net/kinh-ngu-13-tuoi-trung-quoc-pha-ky-luc-chau-a-4962810.html) - 22:09 11/11/2025
 - 🥳 [Nội bộ Santos &#39;dậy sóng&#39; vì Neymar](https://vnexpress.net/noi-bo-santos-day-song-vi-neymar-4962813.html) - 22:06 11/11/2025
-- 🦣 [Runner bị xe tải tông khi đang dẫn đầu cuộc đua marathon](https://vnexpress.net/runner-bi-xe-tai-tong-khi-dang-dan-dau-cuoc-dua-marathon-4962809.html) - 22:04 11/11/2025
+- 🦣 [Runner Hàn Quốc bị xe tải tông khi đang dẫn đầu cuộc đua marathon](https://vnexpress.net/runner-han-quoc-bi-xe-tai-tong-khi-dang-dan-dau-cuoc-dua-marathon-4962809.html) - 22:04 11/11/2025
 - 🌜 [Alcaraz thắng ngược ở ATP Finals](https://vnexpress.net/alcaraz-thang-nguoc-o-atp-finals-4962811.html) - 19:03 11/11/2025
 - 🫶 [LĐBĐ Tây Ban Nha nổi giận vì Barca tự ý chữa trị cho Yamal](https://vnexpress.net/ldbd-tay-ban-nha-noi-gian-vi-barca-tu-y-chua-tri-cho-yamal-4962771.html) - 13:23 11/11/2025
 - 🌜 [Ronaldo vào top 5 ghi bàn chân trái trong thế kỷ 21](https://vnexpress.net/ronaldo-vao-top-5-ghi-ban-chan-trai-trong-the-ky-21-4962760.html) - 11:42 11/11/2025
