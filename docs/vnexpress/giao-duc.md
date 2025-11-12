@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa được Học viện An ninh nhân dân giữ lại làm giảng viên](https://vnexpress.net/thu-khoa-duoc-hoc-vien-an-ninh-nhan-dan-giu-lai-lam-giang-vien-4962579.html) - 23:24 11/11/2025
+- 🤓 [Thủ khoa được giữ lại làm giảng viên Học viện An ninh nhân dân](https://vnexpress.net/thu-khoa-duoc-giu-lai-lam-giang-vien-hoc-vien-an-ninh-nhan-dan-4962579.html) - 23:24 11/11/2025
 - 🦆 [Trường y đầu tiên dự kiến phương án tuyển sinh 2026](https://vnexpress.net/dai-hoc-y-khoa-pham-ngoc-thach-du-kien-phuong-thuc-tuyen-sinh-2026-4962774.html) - 15:35 11/11/2025
 - 🦩 [Cá nào sống dưới biển nhưng không bơi?](https://vnexpress.net/ca-nao-song-duoi-bien-nhung-khong-boi-4962708.html) - 12:13 11/11/2025
 - 🌮 [Cho thôi việc Chủ tịch Hội đồng trường sau video &#39;thân mật&#39; với nhiều phụ nữ](https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html) - 09:29 11/11/2025
