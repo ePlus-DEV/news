@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Ngày &#39;tàn&#39; của bánh mì Pháp đang đến](https://vnexpress.net/ngay-tan-cua-banh-mi-phap-dang-den-4962840.html) - 13:00 12/11/2025
+- 💂 [Tương lai bấp bênh của bánh mì Pháp](https://vnexpress.net/tuong-lai-bap-benh-cua-banh-mi-phap-4962840.html) - 13:00 12/11/2025
 - 🪄 [Quốc gia nào có thủ đô cao nhất thế giới?](https://vnexpress.net/quoc-gia-nao-co-thu-do-cao-nhat-the-gioi-4962336.html) - 12:00 12/11/2025
 - 🦅 [Đã trả hết tiền, có giữ được phòng khách sạn nếu đến muộn?](https://vnexpress.net/da-tra-het-tien-co-giu-duoc-phong-khach-san-neu-den-muon-4962862.html) - 07:22 12/11/2025
 - 🕴 [Hướng dẫn viên được khen dù mắng khách suốt tour](https://vnexpress.net/huong-dan-vien-duoc-khen-du-mang-khach-suot-tour-4962784.html) - 02:00 12/11/2025
