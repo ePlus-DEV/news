@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Ronaldo nhận thẻ đỏ trong trận thua của Bồ Đào Nha](https://vnexpress.net/ronaldo-nhan-the-do-trong-tran-thua-cua-bo-dao-nha-4963754.html) - 22:02 13/11/2025
 - 🧰 [Haaland lập cú đúp, Na Uy tiến sát vé dự World Cup](https://vnexpress.net/haaland-lap-cu-dup-na-uy-tien-sat-ve-du-world-cup-4963753.html) - 22:02 13/11/2025
-- 🥰 [Vi khuẩn lây nhiễm khiến 70 bệnh nhân không lành vết mổ có gì nguy hiểm?](https://vnexpress.net/vi-khuan-lay-nhiem-khien-70-benh-nhan-khong-lanh-vet-mo-co-gi-nguy-hiem-4963611.html) - 22:00 13/11/2025
+- 🥰 [Vi khuẩn lây nhiễm khiến 70 bệnh nhân không lành vết mổ nguy hiểm thế nào](https://vnexpress.net/vi-khuan-lay-nhiem-khien-70-benh-nhan-khong-lanh-vet-mo-nguy-hiem-the-nao-4963611.html) - 22:00 13/11/2025
 - 🌏 [Bê bối tham nhũng 100 triệu USD rung chuyển chính trường Ukraine](https://vnexpress.net/be-boi-tham-nhung-100-trieu-usd-rung-chuyen-chinh-truong-ukraine-4963301.html) - 22:00 13/11/2025
 - 🧐 [Reddit - cái tên bị chê thành nền tảng trăm triệu người dùng](https://vnexpress.net/reddit-cai-ten-bi-che-thanh-nen-tang-tram-trieu-nguoi-dung-4963271.html) - 22:00 13/11/2025
 - 💫 [Dây an toàn sẽ trở nên nguy hiểm với trẻ em nếu không có ghế riêng](https://vnexpress.net/day-an-toan-se-tro-nen-nguy-hiem-voi-tre-em-neu-khong-co-ghe-rieng-4963728.html) - 22:00 13/11/2025
