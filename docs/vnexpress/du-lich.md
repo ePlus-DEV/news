@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Chuyện gì xảy ra nếu khách mua vé nhưng không lên chuyến bay?](https://vnexpress.net/chuyen-gi-xay-ra-neu-khach-mua-ve-nhung-khong-len-chuyen-bay-4963138.html) - 02:00 13/11/2025
+- 💂 [Chuyện gì xảy ra nếu khách mua vé nhưng không lên chuyến bay](https://vnexpress.net/chuyen-gi-xay-ra-neu-khach-mua-ve-nhung-khong-len-chuyen-bay-4963138.html) - 02:00 13/11/2025
 - 🪄 [Cách Hàn Quốc, Nhật Bản &#39;đóng gói&#39; mùa thu thành thương hiệu du lịch tỷ USD](https://vnexpress.net/cach-han-quoc-nhat-ban-dong-goi-mua-thu-thanh-thuong-hieu-du-lich-ty-usd-4962596.html) - 00:00 13/11/2025
 - 🦅 [Đà Lạt trong mắt nhiếp ảnh gia Mỹ hơn 60 năm trước](https://vnexpress.net/da-lat-trong-mat-nhiep-anh-gia-my-hon-60-nam-truoc-4962597.html) - 17:00 12/11/2025
 - 🕴 [Tương lai bấp bênh của bánh mì Pháp](https://vnexpress.net/tuong-lai-bap-benh-cua-banh-mi-phap-4962840.html) - 13:00 12/11/2025
