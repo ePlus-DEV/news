@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Thủ tướng Anh: BBC nên chấn chỉnh sau bê bối với ông Trump](https://vnexpress.net/thu-tuong-anh-bbc-nen-chan-chinh-sau-be-boi-voi-ong-trump-4963297.html) - 03:02 13/11/2025
 - 🕴 [Campuchia, Thái Lan tranh cãi về nguyên nhân vụ đấu súng ở biên giới](https://vnexpress.net/campuchia-thai-lan-tranh-cai-ve-nguyen-nhan-vu-dau-sung-o-bien-gioi-4963359.html) - 02:45 13/11/2025
 - 🤭 [Xe buýt vỡ nát khi lao xuống vực ở Peru, 37 người chết](https://vnexpress.net/xe-buyt-vo-nat-khi-lao-xuong-vuc-o-peru-37-nguoi-chet-4963305.html) - 01:53 13/11/2025
-- 🧑‍💻 [Dự luật mở lại chính phủ Mỹ vượt qua ải cuối cùng](https://vnexpress.net/du-luat-mo-lai-chinh-phu-my-vuot-qua-ai-cuoi-cung-4963330.html) - 01:31 13/11/2025
+- 🧑‍💻 [Chính phủ Mỹ mở cửa trở lại](https://vnexpress.net/chinh-phu-my-mo-cua-tro-lai-4963330.html) - 01:31 13/11/2025
 - 🦏 [Mỹ trừng phạt nhóm phiến quân Myanmar vì cáo buộc lừa đảo](https://vnexpress.net/my-trung-phat-nhom-phien-quan-myanmar-vi-cao-buoc-lua-dao-4963299.html) - 01:06 13/11/2025
 - 🦒 [Thái Lan dẫn độ trùm lừa đảo Trung Quốc về nước](https://vnexpress.net/thai-lan-dan-do-trum-lua-dao-trung-quoc-ve-nuoc-4963294.html) - 00:35 13/11/2025
 - 🌈 [Ông Trump đề nghị Tổng thống Israel ân xá Thủ tướng Netanyahu](https://vnexpress.net/ong-trump-de-nghi-tong-thong-israel-an-xa-thu-tuong-netanyahu-4963293.html) - 00:06 13/11/2025
