@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cuộc đời mới của người phụ nữ &#39;bỗng dưng mất hết tay chân&#39;](https://vnexpress.net/cuoc-doi-moi-cua-nguoi-phu-nu-bong-dung-mat-het-tay-chan-4961792.html) - 23:29 12/11/2025
+- 🚀 [Cuộc đời mới của cô gái &#39;bỗng dưng mất hết tay chân&#39;](https://vnexpress.net/cuoc-doi-moi-cua-co-gai-bong-dung-mat-het-tay-chan-4961792.html) - 23:29 12/11/2025
 - 🎓 [Người phụ nữ &#39;quan trọng hơn cả Alibaba&#39; của tỷ phú Jack Ma](https://vnexpress.net/nguoi-phu-nu-quan-trong-hon-ca-alibaba-cua-ty-phu-jack-ma-4963250.html) - 23:00 12/11/2025
 - 🚦 [Mực nấu ngót kiểu Nam Bộ](https://vnexpress.net/doi-song-cooking-muc-nau-ngot-kieu-nam-bo-4963150.html) - 09:27 12/11/2025
 - 🦣 [Hàng trăm con mèo chết vì bị &#39;phóng sinh&#39; xuống hồ](https://vnexpress.net/hang-tram-con-meo-chet-vi-bi-phong-sinh-xuong-ho-4963021.html) - 08:42 12/11/2025
