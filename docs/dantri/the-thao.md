@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U22 Việt Nam thắng U22 Trung Quốc: Quả cảm vượt nghịch cảnh](https://dantri.com.vn/the-thao/u22-viet-nam-thang-u22-trung-quoc-qua-cam-vuot-nghich-canh-20251113193249533.htm) - 12:32 13/11/2025
+- 🎡 [U22 Việt Nam thắng U22 Trung Quốc: Quả cảm vượt nghịch cảnh](https://dantri.com.vn/the-thao/u22-viet-nam-thang-u22-trung-quoc-qua-cam-vuot-nghich-canh-20251113193249533.htm) - 12:50 13/11/2025
 - 💯 [Truyền thông Trung Quốc &quot;kể tội&quot; 3 cầu thủ sau trận thua U22 Việt Nam](https://dantri.com.vn/the-thao/truyen-thong-trung-quoc-ke-toi-3-cau-thu-sau-tran-thua-u22-viet-nam-20251113185639082.htm) - 11:57 13/11/2025
 - ⛽️ [Chuyên gia Trung Quốc: “Kỹ năng cầu thủ chúng ta kém U22 Việt Nam 20 năm”](https://dantri.com.vn/the-thao/chuyen-gia-trung-quoc-ky-nang-cau-thu-chung-ta-kem-u22-viet-nam-20-nam-20251113144023564.htm) - 11:01 13/11/2025
 - 💃 [HLV Kim Sang Sik nhận tin vui, Duy Mạnh đeo băng đội trưởng](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-nhan-tin-vui-duy-manh-deo-bang-doi-truong-20251113181042006.htm) - 11:00 13/11/2025
