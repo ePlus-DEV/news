@@ -4,18 +4,18 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Điều trùng hợp trong chiến thắng của U22 Việt Nam trước U22 Trung Quốc](https://dantri.com.vn/the-thao/dieu-trung-hop-trong-chien-thang-cua-u22-viet-nam-truoc-u22-trung-quoc-20251113130137287.htm) - 07:33 13/11/2025
-- 💯 [CĐV châu Á: &quot;U22 Việt Nam có thể cạnh tranh vô địch với U22 Hàn Quốc&quot;](https://dantri.com.vn/the-thao/cdv-chau-a-u22-viet-nam-co-the-canh-tranh-vo-dich-voi-u22-han-quoc-20251113121007439.htm) - 07:28 13/11/2025
+- 🎡 [CĐV châu Á: &quot;U22 Việt Nam có thể cạnh tranh vô địch với U22 Hàn Quốc&quot;](https://dantri.com.vn/the-thao/cdv-chau-a-u22-viet-nam-co-the-canh-tranh-vo-dich-voi-u22-han-quoc-20251113121007439.htm) - 08:28 13/11/2025
+- 💯 [Điều trùng hợp trong chiến thắng của U22 Việt Nam trước U22 Trung Quốc](https://dantri.com.vn/the-thao/dieu-trung-hop-trong-chien-thang-cua-u22-viet-nam-truoc-u22-trung-quoc-20251113130137287.htm) - 07:33 13/11/2025
 - ⛽️ [Báo Trung Quốc chỉ trích trọng tài, đòi lại công bằng cho U22 Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-chi-trich-trong-tai-doi-lai-cong-bang-cho-u22-viet-nam-20251113123854288.htm) - 05:39 13/11/2025
-- 💃 [Báo Hàn Quốc: &quot;U22 Trung Quốc thất bại ê chề trước U22 Việt Nam&quot;](https://dantri.com.vn/the-thao/bao-han-quoc-u22-trung-quoc-that-bai-e-che-truoc-u22-viet-nam-20251113104609675.htm) - 03:52 13/11/2025
-- 🌈 [Cầu thủ Trung Quốc gây tranh cãi với pha xử lý lạ trận thua U22 Việt Nam](https://dantri.com.vn/the-thao/cau-thu-trung-quoc-gay-tranh-cai-voi-pha-xu-ly-la-tran-thua-u22-viet-nam-20251113103009604.htm) - 03:30 13/11/2025
-- 🦅 [Lê Quang Liêm giành chiến thắng lịch sử tại World Cup cờ vua 2025](https://dantri.com.vn/the-thao/le-quang-liem-gianh-chien-thang-lich-su-tai-world-cup-co-vua-2025-20251113095351087.htm) - 03:01 13/11/2025
-- 🌝 [Hai khán giả qua đời tại giải ATP Finals ở Turin](https://dantri.com.vn/the-thao/hai-khan-gia-qua-doi-tai-giai-atp-finals-o-turin-20251113085319411.htm) - 01:53 13/11/2025
-- 🚀 [Cầu thủ U22 Trung Quốc chỉ ra nguyên nhân đội nhà thua U22 Việt Nam](https://dantri.com.vn/the-thao/cau-thu-u22-trung-quoc-chi-ra-nguyen-nhan-doi-nha-thua-u22-viet-nam-20251113072352680.htm) - 01:19 13/11/2025
-- 🎉 [FIFA ra án phạt nặng với CLB Thanh Hóa](https://dantri.com.vn/the-thao/fifa-ra-an-phat-nang-voi-clb-thanh-hoa-20251113083152880.htm) - 01:18 13/11/2025
-- 📝 [HLV Trung Quốc tuyên bố U22 Việt Nam thắng may mắn](https://dantri.com.vn/the-thao/hlv-trung-quoc-tuyen-bo-u22-viet-nam-thang-may-man-20251113010008415.htm) - 00:31 13/11/2025
-- 🦄 [Sinner đánh bại Zverev lần thứ ba trong 17 ngày, vào bán kết ATP Finals](https://dantri.com.vn/the-thao/sinner-danh-bai-zverev-lan-thu-ba-trong-17-ngay-vao-ban-ket-atp-finals-20251113064755722.htm) - 23:48 12/11/2025
-- 🎉 [Djokovic xúc động chia sẻ về di sản và khát khao được yêu mến](https://dantri.com.vn/the-thao/djokovic-xuc-dong-chia-se-ve-di-san-va-khat-khao-duoc-yeu-men-20251113062606832.htm) - 23:27 12/11/2025
+- 💃 [Djokovic xúc động chia sẻ về di sản và khát khao được yêu mến](https://dantri.com.vn/the-thao/djokovic-xuc-dong-chia-se-ve-di-san-va-khat-khao-duoc-yeu-men-20251113062606832.htm) - 05:38 13/11/2025
+- 🌈 [Báo Hàn Quốc: &quot;U22 Trung Quốc thất bại ê chề trước U22 Việt Nam&quot;](https://dantri.com.vn/the-thao/bao-han-quoc-u22-trung-quoc-that-bai-e-che-truoc-u22-viet-nam-20251113104609675.htm) - 03:52 13/11/2025
+- 🦅 [Cầu thủ Trung Quốc gây tranh cãi với pha xử lý lạ ở trận thua U22 Việt Nam](https://dantri.com.vn/the-thao/cau-thu-trung-quoc-gay-tranh-cai-voi-pha-xu-ly-la-o-tran-thua-u22-viet-nam-20251113103009604.htm) - 03:30 13/11/2025
+- 🌝 [Lê Quang Liêm giành chiến thắng lịch sử tại World Cup cờ vua 2025](https://dantri.com.vn/the-thao/le-quang-liem-gianh-chien-thang-lich-su-tai-world-cup-co-vua-2025-20251113095351087.htm) - 03:01 13/11/2025
+- 🚀 [Hai khán giả qua đời tại giải ATP Finals ở Turin](https://dantri.com.vn/the-thao/hai-khan-gia-qua-doi-tai-giai-atp-finals-o-turin-20251113085319411.htm) - 01:53 13/11/2025
+- 🎉 [Cầu thủ U22 Trung Quốc chỉ ra nguyên nhân đội nhà thua U22 Việt Nam](https://dantri.com.vn/the-thao/cau-thu-u22-trung-quoc-chi-ra-nguyen-nhan-doi-nha-thua-u22-viet-nam-20251113072352680.htm) - 01:19 13/11/2025
+- 📝 [FIFA ra án phạt nặng với CLB Thanh Hóa](https://dantri.com.vn/the-thao/fifa-ra-an-phat-nang-voi-clb-thanh-hoa-20251113083152880.htm) - 01:18 13/11/2025
+- 🦄 [HLV Trung Quốc tuyên bố U22 Việt Nam thắng may mắn](https://dantri.com.vn/the-thao/hlv-trung-quoc-tuyen-bo-u22-viet-nam-thang-may-man-20251113010008415.htm) - 00:31 13/11/2025
+- 🎉 [Sinner đánh bại Zverev lần thứ ba trong 17 ngày, vào bán kết ATP Finals](https://dantri.com.vn/the-thao/sinner-danh-bai-zverev-lan-thu-ba-trong-17-ngay-vao-ban-ket-atp-finals-20251113064755722.htm) - 23:48 12/11/2025
 - 💼 [Báo Trung Quốc bình luận khi đội nhà thất bại trước U22 Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-binh-luan-khi-doi-nha-that-bai-truoc-u22-viet-nam-20251113015452441.htm) - 23:01 12/11/2025
 - 🤡 [HLV U22 Việt Nam tiết lộ bí quyết đánh bại U22 Trung Quốc](https://dantri.com.vn/the-thao/hlv-u22-viet-nam-tiet-lo-bi-quyet-danh-bai-u22-trung-quoc-20251113054020751.htm) - 22:41 12/11/2025
 - 🦆 [Cầu thủ nhập tịch Malaysia bị đội bóng Colombia cắt hợp đồng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-malaysia-bi-doi-bong-colombia-cat-hop-dong-20251112225429733.htm) - 22:08 12/11/2025
