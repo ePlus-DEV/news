@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội bóng nhỏ bé, từng ngang ngửa tuyển Việt Nam có cơ hội lớn dự World Cup](https://dantri.com.vn/the-thao/doi-bong-nho-be-tung-ngang-ngua-tuyen-viet-nam-co-co-hoi-lon-du-world-cup-20251114180211137.htm) - 11:02 14/11/2025
+- 🎡 [Đội bóng nhỏ bé, từng ngang ngửa tuyển Việt Nam, có cơ hội lớn dự World Cup](https://dantri.com.vn/the-thao/doi-bong-nho-be-tung-ngang-ngua-tuyen-viet-nam-co-co-hoi-lon-du-world-cup-20251114180211137.htm) - 11:02 14/11/2025
 - 💯 [Cơ quan quyền lực của Malaysia có động thái khiến quan chức FAM lo sợ](https://dantri.com.vn/the-thao/co-quan-quyen-luc-cua-malaysia-co-dong-thai-khien-quan-chuc-fam-lo-so-20251114164809458.htm) - 10:01 14/11/2025
 - ⛽️ [Lực sĩ Phạm Văn Mách lần thứ 7 vô địch thể hình thế giới ở tuổi 49](https://dantri.com.vn/the-thao/luc-si-pham-van-mach-lan-thu-7-vo-dich-the-hinh-the-gioi-o-tuoi-49-20251114135358653.htm) - 07:10 14/11/2025
 - 💃 [U22 Việt Nam thăng tiến mạnh, HLV U22 Thái Lan nói lời thật lòng](https://dantri.com.vn/the-thao/u22-viet-nam-thang-tien-manh-hlv-u22-thai-lan-noi-loi-that-long-20251114125543185.htm) - 06:39 14/11/2025
