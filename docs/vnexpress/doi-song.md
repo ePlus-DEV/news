@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người dân ngỡ ngàng vì &#39;giá rau xanh nhảy múa&#39;](https://vnexpress.net/nguoi-dan-ngo-ngang-vi-gia-rau-xanh-nhay-mua-4963739.html) - 23:28 13/11/2025
-- 🎓 [Mong ước cuối đời của người cha già dành cho con gái nuôi](https://vnexpress.net/mong-uoc-cuoi-doi-cua-nguoi-cha-gia-danh-cho-con-gai-nuoi-4963261.html) - 23:03 13/11/2025
+- 🚀 [Chóng mặt vì giá rau xanh &#39;nhảy múa&#39;](https://vnexpress.net/chong-mat-vi-gia-rau-xanh-nhay-mua-4963739.html) - 23:28 13/11/2025
+- 🎓 [Mong ước cuối đời của người cha dành cho con gái nuôi](https://vnexpress.net/mong-uoc-cuoi-doi-cua-nguoi-cha-danh-cho-con-gai-nuoi-4963261.html) - 23:03 13/11/2025
 - 🚦 [Quỹ Hy vọng và Uniqlo hỗ trợ bão lũ ở Huế](https://vnexpress.net/quy-hy-vong-va-uniqlo-ho-tro-bao-lu-o-hue-4963696.html) - 14:39 13/11/2025
 - 🦣 [Mở cổng đăng ký tham dự ngày hội Sáng tạo số Việt Nam 2025](https://vnexpress.net/mo-cong-dang-ky-tham-du-ngay-hoi-sang-tao-so-viet-nam-2025-4963187.html) - 09:45 13/11/2025
 - 🎓 [Cuộc hồi sinh của bé gái sinh non 26 tuần, nặng gần 900 gram](https://vnexpress.net/cuoc-hoi-sinh-cua-be-gai-sinh-non-26-tuan-nang-gan-900-gram-4963450.html) - 09:40 13/11/2025
