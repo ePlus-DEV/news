@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nỗi niềm của Nguyễn Xuân Son](https://vnexpress.net/noi-niem-cua-nguyen-xuan-son-4964171.html) - 12:08 14/11/2025
+- 🪜 [Duy Mạnh: &#39;Vấn đề của Xuân Son là nỗi nhớ sân cỏ&#39;](https://vnexpress.net/duy-manh-van-de-cua-xuan-son-la-noi-nho-san-co-4964171.html) - 12:08 14/11/2025
 - 🦩 [Lại Lý Huynh thua thần đồng cờ tướng Trung Quốc vì mất trắng pháo](https://vnexpress.net/lai-ly-huynh-thua-than-dong-co-tuong-trung-quoc-vi-mat-trang-phao-4964129.html) - 11:45 14/11/2025
 - 🧰 [Mbappe vượt một kỷ lục của Messi](https://vnexpress.net/mbappe-vuot-mot-ky-luc-cua-messi-4964081.html) - 11:00 14/11/2025
 - 🤗 [Nam Định công bố HLV Bồ Đào Nha](https://vnexpress.net/nam-dinh-cong-bo-hlv-bo-dao-nha-4964157.html) - 10:42 14/11/2025
