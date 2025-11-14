@@ -4,8 +4,8 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Shipper thân với khách như người nhà, ngồi thẳng vào bàn ăn cơm chung](https://dantri.com.vn/lao-dong-viec-lam/shipper-than-voi-khach-nhu-nguoi-nha-ngoi-thang-vao-ban-an-com-chung-20251113184116140.htm) - 07:05 14/11/2025
-- 🙉 [Phu nhân Ngô Phương Ly dự lễ khánh thành tôn tạo Di tích Hang Tám Cô](https://dantri.com.vn/lao-dong-viec-lam/phu-nhan-ngo-phuong-ly-du-le-khanh-thanh-ton-tao-di-tich-hang-tam-co-20251114093833744.htm) - 06:39 14/11/2025
+- ⚗️ [Liên đoàn Lao động thành phố Hà Nội có chủ tịch mới](https://dantri.com.vn/lao-dong-viec-lam/lien-doan-lao-dong-thanh-pho-ha-noi-co-chu-tich-moi-20251114150204434.htm) - 08:11 14/11/2025
+- 🙉 [Shipper thân với khách như người nhà, ngồi thẳng vào bàn ăn cơm chung](https://dantri.com.vn/lao-dong-viec-lam/shipper-than-voi-khach-nhu-nguoi-nha-ngoi-thang-vao-ban-an-com-chung-20251113184116140.htm) - 07:05 14/11/2025
 - 🕴 [Nghề chỉ làm vào mùa mưa, mang niềm vui đi khắp thôn xóm](https://dantri.com.vn/lao-dong-viec-lam/nghe-chi-lam-vao-mua-mua-mang-niem-vui-di-khap-thon-xom-20251112163750133.htm) - 06:30 14/11/2025
 - 🧐 [VietnamWorks đồng hành cùng nhân sự chạm đến phiên bản chuyên nghiệp](https://dantri.com.vn/lao-dong-viec-lam/vietnamworks-dong-hanh-cung-nhan-su-cham-den-phien-ban-chuyen-nghiep-20251114114428801.htm) - 05:02 14/11/2025
 - 🧑‍💻 [15 cặp đôi công nhân sẽ được tặng nhẫn vàng trong lễ cưới tập thể](https://dantri.com.vn/lao-dong-viec-lam/15-cap-doi-cong-nhan-se-duoc-tang-nhan-vang-trong-le-cuoi-tap-the-20251114105827760.htm) - 04:20 14/11/2025
