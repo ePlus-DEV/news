@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Di dời khẩn cấp 664 người sau vụ sạt lở giữa trời nắng ráo](https://vnexpress.net/di-doi-khan-cap-664-nguoi-sau-vu-sat-lo-giua-troi-nang-rao-4964179.html) - 14:12 14/11/2025
 - 🤓 [Hơn 21.800 tỷ đồng đầu tư trung tâm hội nghị APEC ở Phú Quốc](https://vnexpress.net/hon-21-800-ty-dong-dau-tu-trung-tam-hoi-nghi-apec-o-phu-quoc-4964161.html) - 12:10 14/11/2025
-- ⚗️ [Tỉnh rộng nhất nước tính toán xây trung tâm hành chính mới](https://vnexpress.net/tinh-rong-nhat-nuoc-tinh-toan-xay-trung-tam-hanh-chinh-moi-4964154.html) - 11:55 14/11/2025
+- ⚗️ [Lâm Đồng tìm vị trí xây trung tâm hành chính mới](https://vnexpress.net/lam-dong-tim-vi-tri-xay-trung-tam-hanh-chinh-moi-4964154.html) - 11:55 14/11/2025
 - 🌊 [Chủ tịch Thái Nguyên được giới thiệu để bầu làm Chủ tịch Bắc Ninh](https://vnexpress.net/chu-tich-thai-nguyen-duoc-gioi-thieu-de-bau-lam-chu-tich-bac-ninh-4964160.html) - 11:25 14/11/2025
 - 🎓 [Ôtô tông loạt xe và người nước ngoài ở Vũng Tàu](https://vnexpress.net/oto-tong-loat-xe-va-nguoi-nuoc-ngoai-o-vung-tau-4964156.html) - 10:59 14/11/2025
 - 🔥 [Miền Trung mưa lớn, lũ có thể lên báo động ba](https://vnexpress.net/mien-trung-mua-lon-lu-co-the-len-bao-dong-ba-4964134.html) - 10:54 14/11/2025
