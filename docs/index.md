@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Doãn Quốc Đam: Tôi không thấy thiệt thòi hay tự ái khi đóng vai phụ](https://muctim.tuoitre.vn/doan-quoc-dam-toi-khong-thay-thiet-thoi-hay-tu-ai-khi-dong-vai-phu-101251113214705677.htm) - 12:02 14/11/2025
 - 🥷 [Giới trẻ khui blindbox Doraemon để có ‘cheap moment’ với idol](https://muctim.tuoitre.vn/gioi-tre-khui-blindbox-doraemon-de-co-cheap-moment-voi-idol-101251114023637125.htm) - 12:00 14/11/2025
-- 🤖 [Shin Min Ah, Joo Ji Hoon lần đầu kết hợp trong phim mới](https://muctim.tuoitre.vn/shin-min-ah-joo-ji-hoon-lan-dau-ket-hop-trong-phim-moi-101251114160824044.htm) - 11:58 14/11/2025
+- 🤖 [Shin Min Ah, Joo Ji Hoon tái hợp trong phim mới](https://muctim.tuoitre.vn/shin-min-ah-joo-ji-hoon-lan-dau-ket-hop-trong-phim-moi-101251114160824044.htm) - 11:58 14/11/2025
 - 🤓 [Những trải nghiệm thú vị đang chờ bạn tại Ngày hội Việt Nam Xanh 2025](https://muctim.tuoitre.vn/nhung-trai-nghiem-thu-vi-dang-cho-ban-tai-ngay-hoi-viet-nam-xanh-2025-101251114170419912.htm) - 10:26 14/11/2025
 - 🎉 [Trường THPT Phan Đăng Lưu giao lưu, kết nối văn hoá cùng học sinh Đài Loan &lpar;Trung Quốc&rpar;](https://muctim.tuoitre.vn/truong-thpt-phan-dang-luu-giao-luu-ket-noi-van-hoa-cung-hoc-sinh-dai-loan-trung-quoc-101251114150409025.htm) - 10:02 14/11/2025
 - 👨‍🏫 [Mbappe lập cú đúp giúp Pháp giành vé dự World Cup 2026](https://muctim.tuoitre.vn/mbappe-lap-cu-dup-giup-phap-gianh-ve-du-world-cup-2026-101251114115149312.htm) - 05:43 14/11/2025
