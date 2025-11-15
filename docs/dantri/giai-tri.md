@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hương Giang tự chấm 5/10 cho phần thi áo tắm, tiết lộ sự cố trước giờ thi](https://dantri.com.vn/giai-tri/huong-giang-tu-cham-510-cho-phan-thi-ao-tam-tiet-lo-su-co-truoc-gio-thi-20251115153450996.htm) - 08:56 15/11/2025
-- 🔥 [Giải Cánh diều nguy cơ không có tiền thưởng, Hội Điện ảnh loay hoay tháo gỡ](https://dantri.com.vn/giai-tri/giai-canh-dieu-nguy-co-khong-co-tien-thuong-hoi-dien-anh-loay-hoay-thao-go-20251115144414256.htm) - 08:50 15/11/2025
+- 🤩 [Phần trình diễn áo tắm của Hương Giang gây nhiều tranh luận](https://dantri.com.vn/giai-tri/phan-trinh-dien-ao-tam-cua-huong-giang-gay-nhieu-tranh-luan-20251115153450996.htm) - 09:20 15/11/2025
+- 🔥 [Giải Cánh diều 2025 của Việt Nam nguy cơ không có tiền thưởng](https://dantri.com.vn/giai-tri/giai-canh-dieu-2025-cua-viet-nam-nguy-co-khong-co-tien-thuong-20251115144414256.htm) - 08:50 15/11/2025
 - 🚀 [&quot;Kiều nữ làng hài&quot; kể cuộc sống sau khi sang tên tài sản cho con](https://dantri.com.vn/giai-tri/kieu-nu-lang-hai-ke-cuoc-song-sau-khi-sang-ten-tai-san-cho-con-20251115094510257.htm) - 08:37 15/11/2025
 - 🔥 [Hoa hậu Mai Phương &quot;lột xác&quot; trở thành ca sĩ, diễn vũ đạo bốc lửa](https://dantri.com.vn/giai-tri/hoa-hau-mai-phuong-lot-xac-tro-thanh-ca-si-dien-vu-dao-boc-lua-20251115110342839.htm) - 07:00 15/11/2025
 - 🌈 [Hoa hậu suýt lộ ngực trên thảm đỏ thời trang ở Hà Nội gây tranh cãi](https://dantri.com.vn/giai-tri/hoa-hau-suyt-lo-nguc-tren-tham-do-thoi-trang-o-ha-noi-gay-tranh-cai-20251115114615669.htm) - 05:44 15/11/2025
