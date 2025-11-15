@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tài tử &#39;Hồ sơ trinh sát&#39;: Đau khi ly hôn](https://vnexpress.net/tai-tu-ho-so-trinh-sat-dau-khi-ly-hon-4964263.html) - 03:02 15/11/2025
-- 💫 [Hồi ký bố mẹ Giáo sư Ngô Bảo Châu &lpar;kỳ cuối&rpar;: Những ngày sơ tán](https://vnexpress.net/hoi-ky-bo-me-giao-su-ngo-bao-chau-ky-cuoi-nhung-ngay-so-tan-4964149.html) - 02:42 15/11/2025
-- 🌮 [Những lần sánh đôi của Đen Vâu, Hoàng Thùy Linh](https://vnexpress.net/nhung-lan-sanh-doi-cua-den-vau-hoang-thuy-linh-4964192.html) - 00:11 15/11/2025
-- 🧠 [Tiến sĩ Hán Nôm mất 5 tạ sách cổ do lũ](https://vnexpress.net/tien-si-han-nom-mat-5-ta-sach-co-do-lu-4963211.html) - 18:00 14/11/2025
-- 👨‍🏫 [Phim lấy cảm hứng từ vụ án Mr Pips, Mr Hunter](https://vnexpress.net/phim-lay-cam-hung-tu-vu-an-mr-pips-mr-hunter-4964180.html) - 17:00 14/11/2025
-- ⚗️ [Tranh sơn mài của sinh viên đoạt giải hội họa Victor Tardieu](https://vnexpress.net/tranh-son-mai-cua-sinh-vien-doat-giai-hoi-hoa-victor-tardieu-4964089.html) - 15:35 14/11/2025
-- 😎 [Hương Giang diễn áo tắm cùng thí sinh Miss Universe](https://vnexpress.net/huong-giang-dien-ao-tam-cung-thi-sinh-miss-universe-4964135.html) - 14:04 14/11/2025
-- 🫣 [Mỹ nhân đóng yêu tinh nhện &#39;Tây du ký&#39; ngày ấy, bây giờ](https://vnexpress.net/my-nhan-dong-yeu-tinh-nhen-tay-du-ky-ngay-ay-bay-gio-4964035.html) - 13:35 14/11/2025
-- 🪄 [&#39;Made in Vietnam&#39; - khi Gen Z hướng về nguồn cội](https://vnexpress.net/made-in-vietnam-khi-gen-z-huong-ve-nguon-coi-4960923.html) - 11:33 14/11/2025
-- 🤓 [Người đẹp thế giới hội tụ ở Miss International 2025](https://vnexpress.net/nguoi-dep-the-gioi-hoi-tu-o-miss-international-2025-4964092.html) - 11:00 14/11/2025
-- 🫶 [Sắc vóc &#39;Mỹ nhân đẹp nhất thế giới theo tỷ lệ vàng Hy Lạp&#39;](https://vnexpress.net/sac-voc-my-nhan-dep-nhat-the-gioi-theo-ty-le-vang-hy-lap-4963955.html) - 09:07 14/11/2025
-- 🧑‍🏫 [Ngô Thanh Vân, Mỹ Tâm bức xúc khi bị AI giả mạo](https://vnexpress.net/ngo-thanh-van-my-tam-buc-xuc-khi-bi-ai-gia-mao-4963794.html) - 05:11 14/11/2025
-- 🦄 [Trang phục nổi loạn lấy cảm hứng văn hóa Đông Sơn](https://vnexpress.net/trang-phuc-noi-loan-lay-cam-hung-van-hoa-dong-son-4963867.html) - 04:49 14/11/2025
-- 💫 [Nghệ sĩ rèn kỷ luật trong &#39;Sao nhập ngũ&#39;](https://vnexpress.net/nghe-si-ren-ky-luat-trong-sao-nhap-ngu-4962901.html) - 04:31 14/11/2025
-- 🎊 [Nữ sinh 22 tuổi vào mắt xanh tài tử Huỳnh Hiểu Minh](https://vnexpress.net/nu-sinh-22-tuoi-vao-mat-xanh-tai-tu-huynh-hieu-minh-4963858.html) - 04:30 14/11/2025
-- 👹 [&#39;Trạm phóng tương lai&#39; - chắp cánh giấc mơ đến trường cho trẻ vùng sâu](https://vnexpress.net/tram-phong-tuong-lai-chap-canh-giac-mo-den-truong-cho-tre-vung-sau-4963689.html) - 04:30 14/11/2025
-- 💻 [Ca sĩ Billie Eilish chỉ trích tỷ phú Elon Musk](https://vnexpress.net/ca-si-billie-eilish-chi-trich-ty-phu-elon-musk-4963819.html) - 03:33 14/11/2025
-- 🤡 [Đà Nẵng xuất hiện trong phim Hàn &#39;As You Stood By&#39;](https://vnexpress.net/da-nang-xuat-hien-trong-phim-han-as-you-stood-by-4963555.html) - 02:23 14/11/2025
-- 🥰 [Hồi ký của bố mẹ giáo sư Ngô Bảo Châu &lpar;kỳ 1&rpar;: Cuộc sống du học](https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-ky-1-cuoc-song-du-hoc-4963769.html) - 00:07 14/11/2025
-- 🚀 [Lý do G-Dragon gây sốt](https://vnexpress.net/ly-do-g-dragon-gay-sot-4962993.html) - 17:00 13/11/2025
-- 📝 [Đầm xa xỉ của nhà mốt Singapore trên sàn diễn Hà Nội](https://vnexpress.net/dam-xa-xi-cua-nha-mot-singapore-tren-san-dien-ha-noi-4963608.html) - 09:50 13/11/2025
-- 🐲 [&#39;Ca sĩ lệch chuẩn văn hóa vì thiếu nền tảng mỹ học&#39;](https://vnexpress.net/ca-si-lech-chuan-van-hoa-vi-thieu-nen-tang-my-hoc-4963529.html) - 08:58 13/11/2025
-- 🎃 [Tùng Dương diện đồ gần nửa tỷ đồng đi xem show](https://vnexpress.net/tung-duong-dien-do-gan-nua-ty-dong-di-xem-show-4963564.html) - 08:25 13/11/2025
-- 🤠 [Sao nhí &#39;Reply 1988&#39; sau 10 năm](https://vnexpress.net/sao-nhi-reply-1988-sau-10-nam-4963568.html) - 08:07 13/11/2025
-- 🎭 [Những khoảnh khắc ấn tượng trong hai đêm concert G-DRAGON](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-hai-dem-concert-g-dragon-4963524.html) - 07:00 13/11/2025
-- 🧰 [Adele lần đầu đóng phim](https://vnexpress.net/adele-lan-dau-dong-phim-4963350.html) - 06:52 13/11/2025
-- 🦍 [Hoa hậu Thanh Thủy catwalk với phong cách siêu thực](https://vnexpress.net/hoa-hau-thanh-thuy-catwalk-voi-phong-cach-sieu-thuc-4963509.html) - 05:42 13/11/2025
-- 🌝 [&#39;Vẽ kể chuyện&#39; - TikToker yêu sử Việt](https://vnexpress.net/ve-ke-chuyen-tiktoker-yeu-su-viet-4962992.html) - 04:00 13/11/2025
-- 🧑‍💻 [Sắc vóc tỷ phú 32 tuổi Trung Quốc](https://vnexpress.net/sac-voc-ty-phu-32-tuoi-trung-quoc-4963400.html) - 03:08 13/11/2025
-- 🥸 [Hậu trường gánh hát bội Sài Gòn](https://vnexpress.net/hau-truong-ganh-hat-boi-sai-gon-4963163.html) - 01:52 13/11/2025
-- 🔥 [Đỗ Thị Hà chọn giày bệt khi sánh đôi chồng](https://vnexpress.net/do-thi-ha-chon-giay-bet-khi-sanh-doi-chong-4960339.html) - 17:09 12/11/2025
-- 🐎 [&#39;Văn chương Việt hôm nay là bờ sông lặng sóng&#39;](https://vnexpress.net/van-chuong-viet-hom-nay-la-bo-song-lang-song-4963251.html) - 17:03 12/11/2025
-- 😎 [&#39;Frankenstein&#39; - linh hồn cô độc](https://vnexpress.net/giai-tri/phim/thu-vien-phim/frankenstein-853) - 13:25 12/11/2025
-- 🦄 [Thách thức của Meghan Markle khi trở lại đóng phim](https://vnexpress.net/thach-thuc-cua-meghan-markle-khi-tro-lai-dong-phim-4962089.html) - 11:00 12/11/2025
-- 🌜 [Cách Vingroup đưa Việt Nam thành điểm đến của dàn sao quốc tế](https://vnexpress.net/cach-vingroup-dua-viet-nam-thanh-diem-den-cua-dan-sao-quoc-te-4963070.html) - 10:00 12/11/2025
-- 🚦 [Thúy Hiền tái xuất điện ảnh sau 10 năm](https://vnexpress.net/thuy-hien-tai-xuat-dien-anh-sau-10-nam-4962609.html) - 08:47 12/11/2025
-- 🧐 [Tài tử Hong Kong nhớ ơn Châu Nhuận Phát](https://vnexpress.net/tai-tu-hong-kong-nho-on-chau-nhuan-phat-4963065.html) - 08:11 12/11/2025
-- 🐵 [&#39;Buôn trăng&#39; - cú hích của Phương Mỹ Chi](https://vnexpress.net/buon-trang-cu-hich-cua-phuong-my-chi-4960922.html) - 08:00 12/11/2025
-- ⚗️ [Cách phối quần jeans mùa lạnh trông sang](https://vnexpress.net/cach-phoi-quan-jeans-mua-lanh-trong-sang-4962714.html) - 07:20 12/11/2025
-- 👺 [Tiểu thuyết về tội phạm dữ liệu đoạt giải nhất](https://vnexpress.net/tieu-thuyet-ve-toi-pham-du-lieu-doat-giai-nhat-4962755.html) - 07:18 12/11/2025
-- 🌊 [MV cưới của Đỗ Thị Hà](https://vnexpress.net/mv-cuoi-cua-do-thi-ha-4962929.html) - 05:25 12/11/2025
-- 🪜 [Trương Mạn Ngọc vui thú điền viên](https://vnexpress.net/truong-man-ngoc-vui-thu-dien-vien-4962866.html) - 03:08 12/11/2025
-- 🕴 [Soobin: &#39;Tôi học hỏi G-Dragon&#39;](https://vnexpress.net/soobin-toi-hoc-hoi-g-dragon-4962412.html) - 02:24 12/11/2025
-- 💃 [Tàu điện, xích lô ở Hà Nội năm 1987](https://vnexpress.net/tau-dien-xich-lo-o-ha-noi-nam-1987-4962736.html) - 17:00 11/11/2025
-- 🦄 [Tổ ấm của Lê Dương Bảo Lâm](https://vnexpress.net/to-am-cua-le-duong-bao-lam-4961245.html) - 13:58 11/11/2025
-- ⛽️ [Ảnh cưới trên biển của Á hậu Tâm Như](https://vnexpress.net/anh-cuoi-tren-bien-cua-a-hau-tam-nhu-4962733.html) - 11:31 11/11/2025
-- 😎 [Võ Hạ Trâm hát cổ vũ người vùng lũ](https://vnexpress.net/vo-ha-tram-hat-co-vu-nguoi-vung-lu-4961291.html) - 10:29 11/11/2025
-- 🌊 [Concert G-DRAGON tạo điểm nhấn mới trong chuỗi đại nhạc hội quốc tế tại Việt Nam](https://vnexpress.net/concert-g-dragon-tao-diem-nhan-moi-trong-chuoi-dai-nhac-hoi-quoc-te-tai-viet-nam-4962534.html) - 10:00 11/11/2025
-- 🐲 [Tài tử đóng kiệt tác &#39;Kagemusha&#39; qua đời](https://vnexpress.net/tai-tu-dong-kiet-tac-kagemusha-qua-doi-4962693.html) - 09:21 11/11/2025
-- 💂 [Hồi ký của bố mẹ Giáo sư Ngô Bảo Châu](https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-4962100.html) - 09:18 11/11/2025
-- 🙉 [Cuộc sống Lương Thùy Linh ở tuổi 25](https://vnexpress.net/cuoc-song-luong-thuy-linh-o-tuoi-25-4961883.html) - 07:36 11/11/2025
-- 💪 [Phim &#39;Hoàn Châu&#39; - minh tinh hiện đại lạc ở Tử Cấm Thành](https://vnexpress.net/phim-hoan-chau-minh-tinh-hien-dai-lac-o-tu-cam-thanh-4962469.html) - 07:00 11/11/2025
-- 👍 [Nhà văn Anh thắng giải Booker 2025](https://vnexpress.net/nha-van-anh-thang-giai-booker-2025-4962590.html) - 06:21 11/11/2025
-- 💪 [Ca sĩ Bằng Kiều gây tranh cãi khi nói về G-Dragon](https://vnexpress.net/ca-si-bang-kieu-gay-tranh-cai-khi-noi-ve-g-dragon-4962570.html) - 04:43 11/11/2025
-- 💄 [Học sinh gây sốt nhờ mặc như thám tử](https://vnexpress.net/hoc-sinh-gay-sot-nho-mac-nhu-tham-tu-4962498.html) - 03:47 11/11/2025
-- 🦩 [Liên Bỉnh Phát áp lực khi đoạt giải Kim Chung](https://vnexpress.net/lien-binh-phat-ap-luc-khi-doat-giai-kim-chung-4962315.html) - 03:19 11/11/2025
-- 🥸 [Thái Hòa biến hóa trên màn ảnh rộng](https://vnexpress.net/thai-hoa-bien-hoa-tren-man-anh-rong-4962047.html) - 17:00 10/11/2025
-- 🧰 [Ca sĩ gốc Việt nhận đề cử Grammy thứ ba](https://vnexpress.net/ca-si-goc-viet-nhan-de-cu-grammy-thu-ba-4962287.html) - 13:08 10/11/2025
-- 💼 [Nghệ sĩ Thành Hội: &#39;Sống kỷ luật giúp tôi bền bỉ với nghề&#39;](https://vnexpress.net/nghe-si-thanh-hoi-song-ky-luat-giup-toi-ben-bi-voi-nghe-4961129.html) - 12:00 10/11/2025
-- 🧑‍💻 [Quan Vịnh Hà tái xuất](https://vnexpress.net/quan-vinh-ha-tai-xuat-4962194.html) - 08:40 10/11/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [Phong cách ngày ấy, bây giờ của Đỗ Thị Hà](https://vnexpress.net/phong-cach-ngay-ay-bay-gio-cua-do-thi-ha-4962978.html) - 04:36 15/11/2025
+- 💫 [Tài tử &#39;Hồ sơ trinh sát&#39;: Đau khi ly hôn](https://vnexpress.net/tai-tu-ho-so-trinh-sat-dau-khi-ly-hon-4964263.html) - 03:02 15/11/2025
+- 🌮 [Hồi ký bố mẹ Giáo sư Ngô Bảo Châu &lpar;kỳ cuối&rpar;: Những ngày sơ tán](https://vnexpress.net/hoi-ky-bo-me-giao-su-ngo-bao-chau-ky-cuoi-nhung-ngay-so-tan-4964149.html) - 02:42 15/11/2025
+- 🧠 [Những lần sánh đôi của Đen Vâu, Hoàng Thùy Linh](https://vnexpress.net/nhung-lan-sanh-doi-cua-den-vau-hoang-thuy-linh-4964192.html) - 00:11 15/11/2025
+- 👨‍🏫 [Tiến sĩ Hán Nôm mất 5 tạ sách cổ do lũ](https://vnexpress.net/tien-si-han-nom-mat-5-ta-sach-co-do-lu-4963211.html) - 18:00 14/11/2025
+- ⚗️ [Phim lấy cảm hứng từ vụ án Mr Pips, Mr Hunter](https://vnexpress.net/phim-lay-cam-hung-tu-vu-an-mr-pips-mr-hunter-4964180.html) - 17:00 14/11/2025
+- 😎 [Tranh sơn mài của sinh viên đoạt giải hội họa Victor Tardieu](https://vnexpress.net/tranh-son-mai-cua-sinh-vien-doat-giai-hoi-hoa-victor-tardieu-4964089.html) - 15:35 14/11/2025
+- 🫣 [Hương Giang diễn áo tắm cùng thí sinh Miss Universe](https://vnexpress.net/huong-giang-dien-ao-tam-cung-thi-sinh-miss-universe-4964135.html) - 14:04 14/11/2025
+- 🪄 [Mỹ nhân đóng yêu tinh nhện &#39;Tây du ký&#39; ngày ấy, bây giờ](https://vnexpress.net/my-nhan-dong-yeu-tinh-nhen-tay-du-ky-ngay-ay-bay-gio-4964035.html) - 13:35 14/11/2025
+- 🤓 [&#39;Made in Vietnam&#39; - khi Gen Z hướng về nguồn cội](https://vnexpress.net/made-in-vietnam-khi-gen-z-huong-ve-nguon-coi-4960923.html) - 11:33 14/11/2025
+- 🫶 [Người đẹp thế giới hội tụ ở Miss International 2025](https://vnexpress.net/nguoi-dep-the-gioi-hoi-tu-o-miss-international-2025-4964092.html) - 11:00 14/11/2025
+- 🧑‍🏫 [Sắc vóc &#39;Mỹ nhân đẹp nhất thế giới theo tỷ lệ vàng Hy Lạp&#39;](https://vnexpress.net/sac-voc-my-nhan-dep-nhat-the-gioi-theo-ty-le-vang-hy-lap-4963955.html) - 09:07 14/11/2025
+- 🦄 [Ngô Thanh Vân, Mỹ Tâm bức xúc khi bị AI giả mạo](https://vnexpress.net/ngo-thanh-van-my-tam-buc-xuc-khi-bi-ai-gia-mao-4963794.html) - 05:11 14/11/2025
+- 💫 [Trang phục nổi loạn lấy cảm hứng văn hóa Đông Sơn](https://vnexpress.net/trang-phuc-noi-loan-lay-cam-hung-van-hoa-dong-son-4963867.html) - 04:49 14/11/2025
+- 🎊 [Nghệ sĩ rèn kỷ luật trong &#39;Sao nhập ngũ&#39;](https://vnexpress.net/nghe-si-ren-ky-luat-trong-sao-nhap-ngu-4962901.html) - 04:31 14/11/2025
+- 👹 [Nữ sinh 22 tuổi vào mắt xanh tài tử Huỳnh Hiểu Minh](https://vnexpress.net/nu-sinh-22-tuoi-vao-mat-xanh-tai-tu-huynh-hieu-minh-4963858.html) - 04:30 14/11/2025
+- 💻 [&#39;Trạm phóng tương lai&#39; - chắp cánh giấc mơ đến trường cho trẻ vùng sâu](https://vnexpress.net/tram-phong-tuong-lai-chap-canh-giac-mo-den-truong-cho-tre-vung-sau-4963689.html) - 04:30 14/11/2025
+- 🤡 [Ca sĩ Billie Eilish chỉ trích tỷ phú Elon Musk](https://vnexpress.net/ca-si-billie-eilish-chi-trich-ty-phu-elon-musk-4963819.html) - 03:33 14/11/2025
+- 🥰 [Đà Nẵng xuất hiện trong phim Hàn &#39;As You Stood By&#39;](https://vnexpress.net/da-nang-xuat-hien-trong-phim-han-as-you-stood-by-4963555.html) - 02:23 14/11/2025
+- 🚀 [Hồi ký của bố mẹ giáo sư Ngô Bảo Châu &lpar;kỳ 1&rpar;: Cuộc sống du học](https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-ky-1-cuoc-song-du-hoc-4963769.html) - 00:07 14/11/2025
+- 📝 [Lý do G-Dragon gây sốt](https://vnexpress.net/ly-do-g-dragon-gay-sot-4962993.html) - 17:00 13/11/2025
+- 🐲 [Đầm xa xỉ của nhà mốt Singapore trên sàn diễn Hà Nội](https://vnexpress.net/dam-xa-xi-cua-nha-mot-singapore-tren-san-dien-ha-noi-4963608.html) - 09:50 13/11/2025
+- 🎃 [&#39;Ca sĩ lệch chuẩn văn hóa vì thiếu nền tảng mỹ học&#39;](https://vnexpress.net/ca-si-lech-chuan-van-hoa-vi-thieu-nen-tang-my-hoc-4963529.html) - 08:58 13/11/2025
+- 🤠 [Tùng Dương diện đồ gần nửa tỷ đồng đi xem show](https://vnexpress.net/tung-duong-dien-do-gan-nua-ty-dong-di-xem-show-4963564.html) - 08:25 13/11/2025
+- 🎭 [Sao nhí &#39;Reply 1988&#39; sau 10 năm](https://vnexpress.net/sao-nhi-reply-1988-sau-10-nam-4963568.html) - 08:07 13/11/2025
+- 🧰 [Những khoảnh khắc ấn tượng trong hai đêm concert G-DRAGON](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-hai-dem-concert-g-dragon-4963524.html) - 07:00 13/11/2025
+- 🦍 [Adele lần đầu đóng phim](https://vnexpress.net/adele-lan-dau-dong-phim-4963350.html) - 06:52 13/11/2025
+- 🌝 [Hoa hậu Thanh Thủy catwalk với phong cách siêu thực](https://vnexpress.net/hoa-hau-thanh-thuy-catwalk-voi-phong-cach-sieu-thuc-4963509.html) - 05:42 13/11/2025
+- 🧑‍💻 [&#39;Vẽ kể chuyện&#39; - TikToker yêu sử Việt](https://vnexpress.net/ve-ke-chuyen-tiktoker-yeu-su-viet-4962992.html) - 04:00 13/11/2025
+- 🥸 [Sắc vóc tỷ phú 32 tuổi Trung Quốc](https://vnexpress.net/sac-voc-ty-phu-32-tuoi-trung-quoc-4963400.html) - 03:08 13/11/2025
+- 🔥 [Hậu trường gánh hát bội Sài Gòn](https://vnexpress.net/hau-truong-ganh-hat-boi-sai-gon-4963163.html) - 01:52 13/11/2025
+- 🐎 [Đỗ Thị Hà chọn giày bệt khi sánh đôi chồng](https://vnexpress.net/do-thi-ha-chon-giay-bet-khi-sanh-doi-chong-4960339.html) - 17:09 12/11/2025
+- 😎 [&#39;Văn chương Việt hôm nay là bờ sông lặng sóng&#39;](https://vnexpress.net/van-chuong-viet-hom-nay-la-bo-song-lang-song-4963251.html) - 17:03 12/11/2025
+- 🦄 [&#39;Frankenstein&#39; - linh hồn cô độc](https://vnexpress.net/giai-tri/phim/thu-vien-phim/frankenstein-853) - 13:25 12/11/2025
+- 🌜 [Thách thức của Meghan Markle khi trở lại đóng phim](https://vnexpress.net/thach-thuc-cua-meghan-markle-khi-tro-lai-dong-phim-4962089.html) - 11:00 12/11/2025
+- 🚦 [Cách Vingroup đưa Việt Nam thành điểm đến của dàn sao quốc tế](https://vnexpress.net/cach-vingroup-dua-viet-nam-thanh-diem-den-cua-dan-sao-quoc-te-4963070.html) - 10:00 12/11/2025
+- 🧐 [Thúy Hiền tái xuất điện ảnh sau 10 năm](https://vnexpress.net/thuy-hien-tai-xuat-dien-anh-sau-10-nam-4962609.html) - 08:47 12/11/2025
+- 🐵 [Tài tử Hong Kong nhớ ơn Châu Nhuận Phát](https://vnexpress.net/tai-tu-hong-kong-nho-on-chau-nhuan-phat-4963065.html) - 08:11 12/11/2025
+- ⚗️ [&#39;Buôn trăng&#39; - cú hích của Phương Mỹ Chi](https://vnexpress.net/buon-trang-cu-hich-cua-phuong-my-chi-4960922.html) - 08:00 12/11/2025
+- 👺 [Cách phối quần jeans mùa lạnh trông sang](https://vnexpress.net/cach-phoi-quan-jeans-mua-lanh-trong-sang-4962714.html) - 07:20 12/11/2025
+- 🌊 [Tiểu thuyết về tội phạm dữ liệu đoạt giải nhất](https://vnexpress.net/tieu-thuyet-ve-toi-pham-du-lieu-doat-giai-nhat-4962755.html) - 07:18 12/11/2025
+- 🪜 [MV cưới của Đỗ Thị Hà](https://vnexpress.net/mv-cuoi-cua-do-thi-ha-4962929.html) - 05:25 12/11/2025
+- 🕴 [Trương Mạn Ngọc vui thú điền viên](https://vnexpress.net/truong-man-ngoc-vui-thu-dien-vien-4962866.html) - 03:08 12/11/2025
+- 💃 [Soobin: &#39;Tôi học hỏi G-Dragon&#39;](https://vnexpress.net/soobin-toi-hoc-hoi-g-dragon-4962412.html) - 02:24 12/11/2025
+- 🦄 [Tàu điện, xích lô ở Hà Nội năm 1987](https://vnexpress.net/tau-dien-xich-lo-o-ha-noi-nam-1987-4962736.html) - 17:00 11/11/2025
+- ⛽️ [Tổ ấm của Lê Dương Bảo Lâm](https://vnexpress.net/to-am-cua-le-duong-bao-lam-4961245.html) - 13:58 11/11/2025
+- 😎 [Ảnh cưới trên biển của Á hậu Tâm Như](https://vnexpress.net/anh-cuoi-tren-bien-cua-a-hau-tam-nhu-4962733.html) - 11:31 11/11/2025
+- 🌊 [Võ Hạ Trâm hát cổ vũ người vùng lũ](https://vnexpress.net/vo-ha-tram-hat-co-vu-nguoi-vung-lu-4961291.html) - 10:29 11/11/2025
+- 🐲 [Concert G-DRAGON tạo điểm nhấn mới trong chuỗi đại nhạc hội quốc tế tại Việt Nam](https://vnexpress.net/concert-g-dragon-tao-diem-nhan-moi-trong-chuoi-dai-nhac-hoi-quoc-te-tai-viet-nam-4962534.html) - 10:00 11/11/2025
+- 💂 [Tài tử đóng kiệt tác &#39;Kagemusha&#39; qua đời](https://vnexpress.net/tai-tu-dong-kiet-tac-kagemusha-qua-doi-4962693.html) - 09:21 11/11/2025
+- 🙉 [Hồi ký của bố mẹ Giáo sư Ngô Bảo Châu](https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-4962100.html) - 09:18 11/11/2025
+- 💪 [Cuộc sống Lương Thùy Linh ở tuổi 25](https://vnexpress.net/cuoc-song-luong-thuy-linh-o-tuoi-25-4961883.html) - 07:36 11/11/2025
+- 👍 [Phim &#39;Hoàn Châu&#39; - minh tinh hiện đại lạc ở Tử Cấm Thành](https://vnexpress.net/phim-hoan-chau-minh-tinh-hien-dai-lac-o-tu-cam-thanh-4962469.html) - 07:00 11/11/2025
+- 💪 [Nhà văn Anh thắng giải Booker 2025](https://vnexpress.net/nha-van-anh-thang-giai-booker-2025-4962590.html) - 06:21 11/11/2025
+- 💄 [Ca sĩ Bằng Kiều gây tranh cãi khi nói về G-Dragon](https://vnexpress.net/ca-si-bang-kieu-gay-tranh-cai-khi-noi-ve-g-dragon-4962570.html) - 04:43 11/11/2025
+- 🦩 [Học sinh gây sốt nhờ mặc như thám tử](https://vnexpress.net/hoc-sinh-gay-sot-nho-mac-nhu-tham-tu-4962498.html) - 03:47 11/11/2025
+- 🥸 [Liên Bỉnh Phát áp lực khi đoạt giải Kim Chung](https://vnexpress.net/lien-binh-phat-ap-luc-khi-doat-giai-kim-chung-4962315.html) - 03:19 11/11/2025
+- 🧰 [Thái Hòa biến hóa trên màn ảnh rộng](https://vnexpress.net/thai-hoa-bien-hoa-tren-man-anh-rong-4962047.html) - 17:00 10/11/2025
+- 💼 [Ca sĩ gốc Việt nhận đề cử Grammy thứ ba](https://vnexpress.net/ca-si-goc-viet-nhan-de-cu-grammy-thu-ba-4962287.html) - 13:08 10/11/2025
+- 🧑‍💻 [Nghệ sĩ Thành Hội: &#39;Sống kỷ luật giúp tôi bền bỉ với nghề&#39;](https://vnexpress.net/nghe-si-thanh-hoi-song-ky-luat-giup-toi-ben-bi-voi-nghe-4961129.html) - 12:00 10/11/2025<!-- vnexpress-giai-tri:END -->
