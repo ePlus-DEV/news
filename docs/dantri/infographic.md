@@ -5,7 +5,7 @@ sidebar_position: 13
 
 <!-- dantri-infographic:START -->
 - 🕴 [Bí ẩn con tàu cổ bất ngờ xuất hiện trở lại trên biển Hội An dần được hé lộ](https://dantri.com.vn/thoi-su/bi-an-con-tau-co-bat-ngo-xuat-hien-tro-lai-tren-bien-hoi-an-dan-duoc-he-lo-20251114230321641.htm) - 23:07 15/11/2025
-- 💻 [Quốc hội khóa mới gồm 500 đại biểu, dự kiến có 12 – 14 Ủy viên Bộ Chính trị, Ban Bí thư](https://dantri.com.vn/thoi-su/quoc-hoi-khoa-moi-gom-500-dai-bieu-du-kien-co-12-14-uy-vien-bo-chinh-tri-ban-bi-thu-20251115165032585.htm) - 22:36 15/11/2025
+- 💻 [Quốc hội khóa mới gồm 500 đại biểu, dự kiến có 12–14 Ủy viên Bộ Chính trị, Ban Bí thư](https://dantri.com.vn/thoi-su/quoc-hoi-khoa-moi-gom-500-dai-bieu-du-kien-co-1214-uy-vien-bo-chinh-tri-ban-bi-thu-20251115165032585.htm) - 22:36 15/11/2025
 - 🗽 [Loạt ô tô bán chạy tháng 10: VinFast áp đảo, Xpander tăng trưởng mạnh](https://dantri.com.vn/o-to-xe-may/loat-o-to-ban-chay-thang-10-vinfast-ap-dao-xpander-tang-truong-manh-20251115160550659.htm) - 14:12 15/11/2025
 - 👺 [Toàn cảnh vụ án liên quan hoa hậu Thùy Tiên, Quang Linh Vlog, Hằng Du Mục](https://dantri.com.vn/phap-luat/toan-canh-vu-an-lien-quan-hoa-hau-thuy-tien-quang-linh-vlog-hang-du-muc-20251115124546634.htm) - 07:07 15/11/2025
 - 🤠 [Mục tiêu tăng trưởng 2 con số và GDP bình quân 5.500 USD/người](https://dantri.com.vn/thoi-su/muc-tieu-tang-truong-2-con-so-va-gdp-binh-quan-5500-usdnguoi-20251114182242943.htm) - 23:21 14/11/2025
