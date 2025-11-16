@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Khởi công xây dựng 4 trường nội trú ở biên giới hơn 600 tỷ đồng](https://dantri.com.vn/giao-duc/khoi-cong-xay-dung-4-truong-noi-tru-o-bien-gioi-hon-600-ty-dong-20251116175319084.htm) - 14:15 16/11/2025
-- 🗽 [Thêm một trường trình Thủ tướng phê duyệt mô hình “đại học“](https://dantri.com.vn/giao-duc/them-mot-truong-trinh-thu-tuong-phe-duyet-mo-hinh-dai-hoc-20251116171238058.htm) - 11:24 16/11/2025
+- 🗽 [Thêm một trường trình Thủ tướng phê duyệt mô hình đại học](https://dantri.com.vn/giao-duc/them-mot-truong-trinh-thu-tuong-phe-duyet-mo-hinh-dai-hoc-20251116171238058.htm) - 11:24 16/11/2025
 - 🚦 [Phó Thủ tướng Lê Thành Long dự kỷ niệm thành lập ngôi trường 50 năm tuổi](https://dantri.com.vn/giao-duc/pho-thu-tuong-le-thanh-long-du-ky-niem-thanh-lap-ngoi-truong-50-nam-tuoi-20251116135658715.htm) - 09:23 16/11/2025
 - 🌋 [Phó Thủ tướng Hồ Quốc Dũng: Trường học vùng biên sẽ là &quot;ngôi nhà tri thức&quot;](https://dantri.com.vn/giao-duc/pho-thu-tuong-ho-quoc-dung-truong-hoc-vung-bien-se-la-ngoi-nha-tri-thuc-20251116115941929.htm) - 07:08 16/11/2025
 - 🏊 [Gian lận thi cử bằng AI gây chấn động tại Hàn Quốc](https://dantri.com.vn/giao-duc/gian-lan-thi-cu-bang-ai-gay-chan-dong-tai-han-quoc-20251116135651485.htm) - 06:57 16/11/2025
