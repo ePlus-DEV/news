@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phạm Quỳnh Anh: &#39;Tôi chưa bao giờ tươi mới như lúc này&#39;](https://vnexpress.net/pham-quynh-anh-toi-chua-bao-gio-tuoi-moi-nhu-luc-nay-4956840.html) - 06:12 17/11/2025
-- 💫 [Vợ cũ nói về chuyện tình của cựu Thủ tướng Canada và Katy Perry](https://vnexpress.net/vo-cu-noi-ve-chuyen-tinh-cua-cuu-thu-tuong-canada-va-katy-perry-4964748.html) - 04:52 17/11/2025
-- 🌮 [Con Cò Đây - &#39;hiện tượng số&#39; gắn với hình ảnh bà thím](https://vnexpress.net/con-co-day-hien-tuong-so-gan-voi-hinh-anh-ba-thim-4964596.html) - 04:15 17/11/2025
+- 🌏 [Con Cò Đây - &#39;hiện tượng số&#39; gắn với hình ảnh bà thím](https://vnexpress.net/con-co-day-hien-tuong-so-gan-voi-hinh-anh-ba-thim-4964596.html) - 07:35 17/11/2025
+- 💫 [Phạm Quỳnh Anh: &#39;Tôi chưa bao giờ tươi mới như lúc này&#39;](https://vnexpress.net/pham-quynh-anh-toi-chua-bao-gio-tuoi-moi-nhu-luc-nay-4956840.html) - 06:12 17/11/2025
+- 🌮 [Vợ cũ nói về chuyện tình của cựu Thủ tướng Canada và Katy Perry](https://vnexpress.net/vo-cu-noi-ve-chuyen-tinh-cua-cuu-thu-tuong-canada-va-katy-perry-4964748.html) - 04:52 17/11/2025
 - 🧠 [&#39;Tôi là Lưu Nhảy Vọt&#39; - chất dí dỏm của Lưu Chấn Vân](https://vnexpress.net/toi-la-luu-nhay-vot-chat-di-dom-cua-luu-chan-van-4964774.html) - 03:09 17/11/2025
 - 👨‍🏫 [4 bộ phim yêu thích của Giáo hoàng Leo XIV](https://vnexpress.net/4-bo-phim-yeu-thich-cua-giao-hoang-leo-xiv-4963889.html) - 02:11 17/11/2025
 - ⚗️ [Dương Lệ Bình lần đầu biểu diễn tại Việt Nam](https://vnexpress.net/duong-le-binh-lan-dau-bieu-dien-tai-viet-nam-4964644.html) - 01:00 17/11/2025
