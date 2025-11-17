@@ -59,5 +59,4 @@ sidebar_position: 9
 - 💄 [Lê Trung Khoa bị khởi tố](https://vnexpress.net/le-trung-khoa-bi-khoi-to-4965092.html) - 12:11 17/11/2025
 - 🤡 [Nhà ở xã hội đầu tiên cạnh Sân bay Long Thành công bố giá bán](https://vnexpress.net/nha-o-xa-hoi-dau-tien-canh-san-bay-long-thanh-cong-bo-gia-ban-4965030.html) - 12:06 17/11/2025
 - ⛽️ [Phát Đạt thâu tóm dự án nghìn tỷ tại trung tâm TP HCM](https://vnexpress.net/phat-dat-thau-tom-du-an-nghin-ty-tai-trung-tam-tp-hcm-4965065.html) - 12:00 17/11/2025
-- 🚀 [Người dân Huế đưa ôtô, xe máy đi tránh lũ](https://vnexpress.net/nguoi-dan-hue-dua-oto-xe-may-di-tranh-lu-4965070.html) - 12:00 17/11/2025
-- 🌜 [Tại sao không đổ nước sôi vào bồn rửa?](https://vnexpress.net/tai-sao-khong-do-nuoc-soi-vao-bon-rua-4965045.html) - 12:00 17/11/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Người dân Huế đưa ôtô, xe máy đi tránh lũ](https://vnexpress.net/nguoi-dan-hue-dua-oto-xe-may-di-tranh-lu-4965070.html) - 12:00 17/11/2025<!-- vnexpress-tin-moi-nhat:END -->
