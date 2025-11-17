@@ -37,11 +37,11 @@ sidebar_position: 9
 - 💫 [VietinBank tung ưu đãi cho khách hàng gửi tiết kiệm dịp cuối năm](https://vnexpress.net/vietinbank-tung-uu-dai-cho-khach-hang-gui-tiet-kiem-dip-cuoi-nam-4964344.html) - 09:00 17/11/2025
 - 🎉 [MIK Group lên kế hoạch mở rộng quỹ đất tại Quảng Ninh](https://vnexpress.net/mik-group-len-ke-hoach-mo-rong-quy-dat-tai-quang-ninh-4964102.html) - 09:00 17/11/2025
 - 🌋 [Hai ngày mới dám ăn rau muống vì &#39;tiền rau đau hơn tiền thịt&#39;](https://vnexpress.net/rau-xanh-tang-gia-gia-rau-xanh-gia-rau-leo-thang-hai-ngay-moi-dam-an-rau-mot-lan-vi-mo-rau-muong-45-000-dong-4965000.html) - 08:55 17/11/2025
-- 🤖 [Chủ tịch Cà Mau làm Phó bí thư Tỉnh ủy Đồng Tháp](https://vnexpress.net/chu-tich-ca-mau-lam-pho-bi-thu-tinh-uy-dong-thap-4964956.html) - 08:55 17/11/2025
+- 🤖 [Chủ tịch Cà Mau làm Chủ tịch Đồng Tháp](https://vnexpress.net/chu-tich-ca-mau-lam-chu-tich-dong-thap-4964956.html) - 08:55 17/11/2025
 - 🦏 [Đề xuất lao động tự nộp bảo hiểm thất nghiệp khi doanh nghiệp không đóng đủ](https://vnexpress.net/de-xuat-lao-dong-tu-nop-bao-hiem-that-nghiep-khi-doanh-nghiep-khong-dong-du-4964879.html) - 08:45 17/11/2025
 - 🦩 [TP HCM có tân Chủ nhiệm Uỷ ban Kiểm tra Thành ủy](https://vnexpress.net/tp-hcm-co-tan-chu-nhiem-uy-ban-kiem-tra-thanh-uy-4964998.html) - 08:44 17/11/2025
 - 👺 [Game RPG 440 tỷ đồng được SohaGame phát hành tại Việt Nam](https://vnexpress.net/game-rpg-440-ty-dong-duoc-sohagame-phat-hanh-tai-viet-nam-4959733.html) - 08:42 17/11/2025
-- 🧑‍🏫 [Nạn nhân vụ sạt lở đè xe khách: &#39;Đất đá trên núi trút xuống ầm ầm&#39;](https://vnexpress.net/nan-nhan-vu-sat-lo-de-xe-khach-dat-da-tren-nui-trut-xuong-am-am-4964904.html) - 08:41 17/11/2025
+- 🧑‍🏫 [Nạn nhân vụ sạt lở đè xe khách: &#39;Khung ôtô biến dạng đè chặt nhiều người&#39;](https://vnexpress.net/nan-nhan-vu-sat-lo-de-xe-khach-khung-oto-bien-dang-de-chat-nhieu-nguoi-4964904.html) - 08:41 17/11/2025
 - 😎 [Ông Võ Trọng Hải được giới thiệu làm Chủ tịch Nghệ An](https://vnexpress.net/ong-vo-trong-hai-duoc-gioi-thieu-lam-chu-tich-nghe-an-4963427.html) - 08:40 17/11/2025
 - 🪄 [&#39;Yêu nữ hàng hiệu&#39; bị bắt vì ăn quỵt loạt nhà hàng sang chảnh](https://vnexpress.net/yeu-nu-hang-hieu-bi-bat-vi-an-quyt-loat-nha-hang-sang-chanh-4964992.html) - 08:38 17/11/2025
 - 🏊 [VN-Index tăng mạnh đầu tuần](https://vnexpress.net/vn-index-tang-manh-dau-tuan-4964987.html) - 08:37 17/11/2025
