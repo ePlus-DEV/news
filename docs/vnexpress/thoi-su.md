@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất 338.000 tỷ đồng đầu tư đại lộ cảnh quan sông Hồng](https://vnexpress.net/de-xuat-338-000-ty-dong-dau-tu-dai-lo-canh-quan-song-hong-4965034.html) - 17:00 17/11/2025
+- 🦒 [Tổng vốn đầu tư đại lộ cảnh quan sông Hồng khoảng 338.000 tỷ đồng](https://vnexpress.net/tong-von-dau-tu-dai-lo-canh-quan-song-hong-khoang-338-000-ty-dong-4965034.html) - 17:00 17/11/2025
 - 🤓 [Đề xuất tăng vốn Metro Bến Thành - Tham Lương lên 52.000 tỷ đồng](https://vnexpress.net/de-xuat-tang-von-metro-ben-thanh-tham-luong-len-52-000-ty-dong-4964939.html) - 17:00 17/11/2025
 - ⚗️ [Đề xuất cấm phát triển trí tuệ nhân tạo có khả năng giả mạo con người](https://vnexpress.net/de-xuat-cam-phat-trien-tri-tue-nhan-tao-co-kha-nang-gia-mao-con-nguoi-4965096.html) - 13:56 17/11/2025
 - 🌊 [Bộ trưởng Công an: Ghi hình trên xe khách phải bảo đảm an ninh dữ liệu](https://vnexpress.net/bo-truong-cong-an-ghi-hinh-tren-xe-khach-phai-bao-dam-an-ninh-du-lieu-4965067.html) - 13:18 17/11/2025
