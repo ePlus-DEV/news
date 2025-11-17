@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Chiêu &#39;lùa gà&#39; để chiếm đoạt 7.677 tỷ đồng từ nhà đầu tư của Shark Thủy](https://vnexpress.net/chieu-lua-ga-de-chiem-doat-7-677-ty-dong-tu-nha-dau-tu-cua-shark-thuy-4965132.html) - 17:00 17/11/2025
 - 🌏 [Ba cung đèo lên Đà Lạt bị sạt lở ra sao](https://vnexpress.net/ba-cung-deo-len-da-lat-bi-sat-lo-ra-sao-4965105.html) - 17:00 17/11/2025
 - 🧐 [10 năm vơ vét tiền của &#39;Nữ hoàng Bitcoin&#39; Trung Quốc](https://vnexpress.net/10-nam-vo-vet-tien-cua-nu-hoang-bitcoin-trung-quoc-4965081.html) - 17:00 17/11/2025
-- 💫 [Đề xuất 338.000 tỷ đồng đầu tư đại lộ cảnh quan sông Hồng](https://vnexpress.net/de-xuat-338-000-ty-dong-dau-tu-dai-lo-canh-quan-song-hong-4965034.html) - 17:00 17/11/2025
+- 💫 [Tổng vốn đầu tư đại lộ cảnh quan sông Hồng khoảng 338.000 tỷ đồng](https://vnexpress.net/tong-von-dau-tu-dai-lo-canh-quan-song-hong-khoang-338-000-ty-dong-4965034.html) - 17:00 17/11/2025
 - 😺 [Lo lắng khi phát hiện con trai học năm thứ ba đại học sống thử](https://vnexpress.net/song-thu-lo-lang-khi-phat-hien-con-trai-hoc-nam-thu-ba-dai-hoc-song-thu-4965022.html) - 17:00 17/11/2025
 - 🕯 [Đề xuất tăng vốn Metro Bến Thành - Tham Lương lên 52.000 tỷ đồng](https://vnexpress.net/de-xuat-tang-von-metro-ben-thanh-tham-luong-len-52-000-ty-dong-4964939.html) - 17:00 17/11/2025
 - 💃 [Ba lần nhảy việc để làm sếp](https://vnexpress.net/tuyen-dung-viec-lam-that-nghiep-tuoi-trung-nien-sa-thai-quan-ly-cong-ty-viec-lam-4964922.html) - 17:00 17/11/2025
