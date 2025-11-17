@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nhiều kịch tính ở ngày cuối vòng bảng Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/ngay-cuoi-vong-bang-giai-bong-ro-tre-vnexpress-2025-4964754.html) - 05:30 17/11/2025
 - 🦆 [Bộ trưởng Nguyễn Kim Sơn: Chưa bao giờ ngành giáo dục được chăm lo như hiện nay](https://vnexpress.net/bo-truong-nguyen-kim-son-chua-bao-gio-nganh-giao-duc-duoc-cham-lo-nhu-hien-nay-4964780.html) - 03:31 17/11/2025
-- 🦩 [Hành trình &#39;thắp lên sự sống&#39; của ứng viên GS ngành Sản phụ khoa](https://vnexpress.net/hanh-trinh-thap-len-su-song-cua-ung-vien-gs-nganh-san-phu-khoa-4964631.html) - 22:00 16/11/2025
+- 🦩 [Hành trình &#39;thắp lên sự sống&#39; của ứng viên đạt chuẩn GS ngành Y](https://vnexpress.net/hanh-trinh-thap-len-su-song-cua-ung-vien-dat-chuan-gs-nganh-y-4964631.html) - 22:00 16/11/2025
 - 🌮 [Tiết mục múa mừng 20/11 của học sinh gây sốt](https://vnexpress.net/tiet-muc-mua-mung-20-11-cua-hoc-sinh-gay-sot-4964646.html) - 14:38 16/11/2025
 - 🔭 [Nước duy nhất nào không có màu đỏ, trắng, xanh dương trên quốc kỳ?](https://vnexpress.net/nuoc-duy-nhat-nao-khong-co-mau-do-trang-xanh-duong-tren-quoc-ky-4964592.html) - 12:00 16/11/2025
 - 💡 [THPT Phan Đình Phùng bị loại sớm tại Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/phan-dinh-phung-bi-loai-som-giai-bong-ro-tre-vnexpress-4964583.html) - 12:00 16/11/2025
