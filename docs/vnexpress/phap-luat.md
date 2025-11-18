@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhóm người chém gục 2 cậu cháu ở TP HCM bị bắt](https://vnexpress.net/nhom-nguoi-chem-guc-2-cau-chau-o-tp-hcm-bi-bat-4965551.html) - 13:31 18/11/2025
+- 😎 [7 người bị bắt trong vụ chém gục hai cậu cháu ở TP HCM](https://vnexpress.net/7-nguoi-bi-bat-trong-vu-chem-guc-hai-cau-chau-o-tp-hcm-4965551.html) - 13:31 18/11/2025
 - 🥰 [Ba cán bộ thú y ở Cần Thơ bị bắt](https://vnexpress.net/ba-can-bo-thu-y-o-can-tho-bi-bat-4965538.html) - 12:59 18/11/2025
 - 🎓 [Ông Nguyễn Văn Đài bị khởi tố](https://vnexpress.net/cuu-luat-su-nguyen-van-dai-bi-khoi-to-4965520.html) - 12:08 18/11/2025
 - 🤓 [Kiện đòi tiền khi phát hiện chồng ngoại tình với bạn thân](https://vnexpress.net/kien-doi-tien-khi-phat-hien-chong-ngoai-tinh-voi-ban-than-4965343.html) - 04:44 18/11/2025
