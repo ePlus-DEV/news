@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U22 Trung Quốc hòa Uzbekistan, U22 Hàn Quốc vô địch Panda Cup 2025](https://dantri.com.vn/the-thao/u22-trung-quoc-hoa-uzbekistan-u22-han-quoc-vo-dich-panda-cup-2025-20251118210640304.htm) - 14:11 18/11/2025
-- 💯 [Nepal 0-1 Malaysia &lpar;hiệp 2&rpar;: Bàn thắng mở tỷ số quý giá](https://dantri.com.vn/the-thao/nepal-0-1-malaysia-hiep-2-ban-thang-mo-ty-so-quy-gia-20251118195021885.htm) - 12:50 18/11/2025
+- 💯 [Nepal 0-1 Malaysia &lpar;hiệp 2&rpar;: Thi đấu chật vật](https://dantri.com.vn/the-thao/nepal-0-1-malaysia-hiep-2-thi-dau-chat-vat-20251118195021885.htm) - 12:50 18/11/2025
 - ⛽️ [Thủ quân U22 Việt Nam nhập viện sau trận thua U22 Hàn Quốc](https://dantri.com.vn/the-thao/thu-quan-u22-viet-nam-nhap-vien-sau-tran-thua-u22-han-quoc-20251118193310791.htm) - 12:33 18/11/2025
 - 💃 [Tuyển Thái Lan thắng đậm Sri Lanka, sáng cửa giành vé dự Asian Cup 2027](https://dantri.com.vn/the-thao/tuyen-thai-lan-thang-dam-sri-lanka-sang-cua-gianh-ve-du-asian-cup-2027-20251118191811259.htm) - 12:29 18/11/2025
 - 🌈 [LĐBĐ Malaysia phản ứng mạnh mẽ khi FIFA công bố bằng chứng gian lận](https://dantri.com.vn/the-thao/ldbd-malaysia-phan-ung-manh-me-khi-fifa-cong-bo-bang-chung-gian-lan-20251118175346934.htm) - 11:02 18/11/2025
