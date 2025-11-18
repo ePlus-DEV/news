@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du lịch Nhật Bản &#39;thất thu&#39; vì khách Trung Quốc hủy vé, tour](https://vnexpress.net/du-lich-nhat-ban-that-thu-vi-khach-trung-quoc-huy-ve-tour-4965242.html) - 05:33 18/11/2025
+- 💂 [Gần nửa triệu khách Trung Quốc hủy vé, tour đi Nhật Bản](https://vnexpress.net/gan-nua-trieu-khach-trung-quoc-huy-ve-tour-di-nhat-ban-4965242.html) - 05:33 18/11/2025
 - 🪄 [Cải tạo vườn nhà thành &#39;chốn về quê&#39; cho du khách](https://vnexpress.net/cai-tao-vuon-nha-thanh-chon-ve-que-cho-du-khach-4964778.html) - 04:40 18/11/2025
 - 🦅 [Thăm kênh đào Nyhavn nổi tiếng ở Copenhagen](https://vnexpress.net/tham-kenh-dao-nyhavn-noi-tieng-o-copenhagen-4960903.html) - 04:00 18/11/2025
 - 🕴 [Khám phá hai ngôi làng dưới chân cột cờ Lũng Cú](https://vnexpress.net/kham-pha-hai-ngoi-lang-duoi-chan-cot-co-lung-cu-4958892.html) - 02:00 18/11/2025
