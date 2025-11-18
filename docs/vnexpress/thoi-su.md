@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Bộ trưởng Công an: Ghi hình trên xe khách phải bảo đảm an ninh dữ liệu](https://vnexpress.net/bo-truong-cong-an-ghi-hinh-tren-xe-khach-phai-bao-dam-an-ninh-du-lieu-4965067.html) - 13:18 17/11/2025
 - 🔥 [Chính phủ đề xuất chương trình đầu tư cho giáo dục trị giá hơn 580.000 tỷ đồng](https://vnexpress.net/chinh-phu-de-xuat-chuong-trinh-dau-tu-cho-giao-duc-tri-gia-hon-580-000-ty-dong-4965085.html) - 12:36 17/11/2025
 - 🦏 [Phương án nhân sự lãnh đạo chủ chốt Đảng, Nhà nước là tuyệt mật](https://vnexpress.net/phuong-an-nhan-su-lanh-dao-chu-chot-dang-nha-nuoc-la-tuyet-mat-4965080.html) - 12:12 17/11/2025
-- 👺 [Người dân Huế đưa ôtô, xe máy đi tránh lũ](https://vnexpress.net/nguoi-dan-hue-dua-oto-xe-may-di-tranh-lu-4965070.html) - 12:00 17/11/2025
+- 👺 [Người Huế đưa ôtô, xe máy đi tránh lũ](https://vnexpress.net/nguoi-hue-dua-oto-xe-may-di-tranh-lu-4965070.html) - 12:00 17/11/2025
 - 🧑‍🏫 [Lũ, sạt lở khắp nơi ở miền Trung, Tây Nguyên](https://vnexpress.net/lu-sat-lo-khap-noi-o-mien-trung-tay-nguyen-4964901.html) - 11:49 17/11/2025
 - 🚦 [Hiện trạng sạt lở đèo Prenn, đất đá sụp xuống rừng thông](https://vnexpress.net/hien-trang-sat-lo-deo-prenn-dat-da-sup-xuong-rung-thong-4965052.html) - 10:58 17/11/2025
 - 🎉 [&#39;Không nên bắt buộc taxi lắp ghế an toàn trẻ em&#39;](https://vnexpress.net/khong-nen-bat-buoc-taxi-lap-ghe-an-toan-tre-em-4965011.html) - 10:26 17/11/2025
