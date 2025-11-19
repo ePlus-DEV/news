@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Dùng súng bắn dây giải cứu người dân bị nước lũ cô lập trong đêm](https://dantri.com.vn/thoi-su/dung-sung-ban-day-giai-cuu-nguoi-dan-bi-nuoc-lu-co-lap-trong-dem-20251119210559207.htm) - 14:32 19/11/2025
-- 👨‍🏫 [HLV tuyển Lào lý giải nguyên nhân đội nhà thất bại trước tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-tuyen-lao-ly-giai-nguyen-nhan-doi-nha-that-bai-truoc-tuyen-viet-nam-20251119210711187.htm) - 14:07 19/11/2025
+- 👨‍🏫 [HLV tuyển Lào: &quot;Chúng tôi thua tuyển Việt Nam vì chuẩn bị chưa tốt&quot;](https://dantri.com.vn/the-thao/hlv-tuyen-lao-chung-toi-thua-tuyen-viet-nam-vi-chuan-bi-chua-tot-20251119210711187.htm) - 14:07 19/11/2025
 - 🌮 [Chủ trang trại cá tầm ở Lâm Đồng bị lũ cuốn mất tích](https://dantri.com.vn/thoi-su/chu-trang-trai-ca-tam-o-lam-dong-bi-lu-cuon-mat-tich-20251119200113827.htm) - 13:22 19/11/2025
 - 🕯 [Lũ lên nhanh, Chủ tịch Gia Lai yêu cầu sơ tán dân trong đêm](https://dantri.com.vn/thoi-su/lu-len-nhanh-chu-tich-gia-lai-yeu-cau-so-tan-dan-trong-dem-20251119193529079.htm) - 13:04 19/11/2025
 - 🪜 [Bé gái thoát chết kỳ diệu khi căn nhà bị đất đá vùi lấp ở Đà Lạt](https://dantri.com.vn/thoi-su/be-gai-thoat-chet-ky-dieu-khi-can-nha-bi-dat-da-vui-lap-o-da-lat-20251119192724836.htm) - 12:53 19/11/2025
