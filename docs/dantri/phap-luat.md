@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Hoa hậu Thùy Tiên: &quot;Đây là bài học rất lớn của cuộc đời bị cáo&quot;](https://dantri.com.vn/phap-luat/hoa-hau-thuy-tien-day-la-bai-hoc-rat-lon-cua-cuoc-doi-bi-cao-20251118212146279.htm) - 03:46 19/11/2025
+- 🌊 [Đề nghị phạt Hoa hậu Thùy Tiên, Quang Linh Vlogs 2 năm đến 2 năm 6 tháng tù](https://dantri.com.vn/phap-luat/de-nghi-phat-hoa-hau-thuy-tien-quang-linh-vlogs-2-nam-den-2-nam-6-thang-tu-20251118212146279.htm) - 03:46 19/11/2025
 - 🐲 [Hằng Du Mục: &quot;Bị cáo thiếu trách nhiệm&quot;](https://dantri.com.vn/phap-luat/hang-du-muc-bi-cao-thieu-trach-nhiem-20251119085452549.htm) - 02:45 19/11/2025
 - 🌁 [Bắt tạm giam 7 đối tượng lừa đảo gần 7 tỷ đồng](https://dantri.com.vn/phap-luat/bat-tam-giam-7-doi-tuong-lua-dao-gan-7-ty-dong-20251119084937225.htm) - 02:30 19/11/2025
 - 🎃 [Những lời nói đầu của hoa hậu Thùy Tiên tại phòng xét xử](https://dantri.com.vn/phap-luat/nhung-loi-noi-dau-cua-hoa-hau-thuy-tien-tai-phong-xet-xu-20251119090851833.htm) - 02:16 19/11/2025
