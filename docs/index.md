@@ -40,7 +40,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Hệ tiện ích thiết kế cho cư dân toàn cầu tại Sun Feliza Suites](https://vnexpress.net/he-tien-ich-thiet-ke-cho-cu-dan-toan-cau-tai-sun-feliza-suites-4965872.html) - 08:30 19/11/2025
 - 🌈 [Pi Group bàn giao chứng nhận quyền sở hữu căn hộ Picity High Park](https://vnexpress.net/pi-group-ban-giao-chung-nhan-quyen-so-huu-can-ho-picity-high-park-4965871.html) - 08:30 19/11/2025
 - 🎬 [Yếu tố lịch sử văn hóa trong loạt công trình đô thị Vũng Tàu](https://vnexpress.net/yeu-to-lich-su-van-hoa-trong-loat-cong-trinh-do-thi-vung-tau-4965439.html) - 08:30 19/11/2025
-- 🚀 [Volkswagen Golf: có gì hay và dở?](https://vnexpress.net/volkswagen-golf-co-gi-hay-va-do-4965746.html) - 08:28 19/11/2025
+- 🚀 [Volkswagen Golf 1.5 eTSI R-Line: có gì hay và dở?](https://vnexpress.net/volkswagen-golf-1-5-etsi-r-line-co-gi-hay-va-do-4965746.html) - 08:28 19/11/2025
 - 🪄 [Thống đốc Nhật hát bản hit &#39;Blue Light Yokohama&#39; lời Việt](https://vnexpress.net/thong-doc-nhat-hat-ban-hit-blue-light-yokohama-loi-viet-4965858.html) - 08:27 19/11/2025
 - 😎 [Khách Việt thích mang mì gói, gia vị đi du lịch](https://vnexpress.net/khach-viet-thich-mang-mi-goi-gia-vi-di-du-lich-4965848.html) - 08:22 19/11/2025
 - 🎊 [Cloudflare - &#39;người gác cổng&#39; của Internet](https://vnexpress.net/cloudflare-nguoi-gac-cong-cua-internet-4965710.html) - 08:18 19/11/2025
