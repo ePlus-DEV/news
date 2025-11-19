@@ -519,7 +519,7 @@ GIỮA NHÀ NƯỚC KUWAIT VÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Chuyên trang Mực Tím đoạt giải khuyến khích giải báo chí &#39;Vì sự nghiệp phát triển giáo dục TP.HCM&#39; năm 2025](https://muctim.tuoitre.vn/chuyen-trang-muc-tim-doat-giai-khuyen-khich-giai-bao-chi-vi-su-nghiep-phat-trien-giao-duc-tphcm-nam-2025-101251119112030375.htm) - 04:24 19/11/2025
+- 🤔 [Chuyên trang Mực Tím đoạt giải khuyến khích Giải báo chí ‘Vì sự nghiệp phát triển giáo dục TP.HCM’ năm 2025](https://muctim.tuoitre.vn/chuyen-trang-muc-tim-doat-giai-khuyen-khich-giai-bao-chi-vi-su-nghiep-phat-trien-giao-duc-tphcm-nam-2025-101251119112030375.htm) - 04:24 19/11/2025
 - 🥷 [Chè cua độc lạ đang gây bão trong giới trẻ](https://muctim.tuoitre.vn/che-cua-doc-la-dang-gay-bao-trong-gioi-tre-101251119092019978.htm) - 03:51 19/11/2025
 - 🤖 [Brazil lội ngược dòng trước Pháp, vào tứ kết U17 World Cup 2025](https://muctim.tuoitre.vn/brazil-loi-nguoc-dong-truoc-phap-vao-tu-ket-u17-world-cup-2025-101251119094629026.htm) - 03:48 19/11/2025
 - 🤓 [Thắng Triều Tiên ở loạt đá luân lưu, Nhật Bản vào tứ kết U17 World Cup](https://muctim.tuoitre.vn/thang-trieu-tien-o-loat-da-luan-luu-nhat-ban-vao-tu-ket-u17-world-cup-101251119084934894.htm) - 03:47 19/11/2025
