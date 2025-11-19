@@ -153,7 +153,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Nước lũ dâng, nhiều tin nhắn kêu cứu dồn dập gửi về Báo Thanh Niên giữa đêm](https://thanhnien.vn/nuoc-lu-dang-nhieu-tin-nhan-keu-cuu-don-dap-gui-ve-bao-thanh-nien-giua-dem-185251120005105761.htm) - 18:06 19/11/2025
 - 🥸 [Ngày mới với tin tức sức khỏe: Cách đơn giản giúp giảm huyết áp cao](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-cach-don-gian-giup-giam-huyet-ap-cao-185251119234547643.htm) - 17:10 19/11/2025
-- 🌁 [Công an Đắk Lắk đang cứu dân vùng ngập lụt xuyên đêm](https://thanhnien.vn/dem-1911-cong-an-dak-lak-van-chuyen-10-tan-nhu-yeu-pham-tiep-te-vung-lu-bi-co-lap-185251119235837185.htm) - 17:09 19/11/2025
+- 🌁 [Công an Đắk Lắk cứu dân vùng ngập lụt xuyên đêm](https://thanhnien.vn/dem-1911-cong-an-dak-lak-van-chuyen-10-tan-nhu-yeu-pham-tiep-te-vung-lu-bi-co-lap-185251119235837185.htm) - 17:09 19/11/2025
 - 🤡 [5 thực phẩm giúp phụ nữ tuổi 40 giảm mỡ bụng hiệu quả](https://thanhnien.vn/5-thuc-pham-giup-phu-nu-tuoi-40-giam-mo-bung-hieu-qua-185251119160023299.htm) - 17:09 19/11/2025
 - 🎉 [Gout: 5 loại trái cây giúp kiểm soát a xít uric cao](https://thanhnien.vn/gout-5-loai-trai-cay-giup-kiem-soat-a-xit-uric-cao-185251119160604029.htm) - 17:08 19/11/2025
 - 🎊 [Loại vitamin D nào tốt cho sức khỏe nhất?](https://thanhnien.vn/loai-vitamin-d-nao-tot-cho-suc-khoe-nhat-185251119231623269.htm) - 17:07 19/11/2025
