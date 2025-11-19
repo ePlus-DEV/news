@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Mỹ nhân thế hệ mới của Trung Quốc “kêu cứu” vì bị đồn là đàn ông đóng giả](https://dantri.com.vn/giai-tri/my-nhan-the-he-moi-cua-trung-quoc-keu-cuu-vi-bi-don-la-dan-ong-dong-gia-20251119104950422.htm) - 10:00 19/11/2025
+- 🤩 [Mỹ nhân thế hệ mới của Trung Quốc “kêu cứu” vì bị đồn là đàn ông đóng giả](https://dantri.com.vn/giai-tri/my-nhan-the-he-moi-cua-trung-quoc-keu-cuu-vi-bi-don-la-dan-ong-dong-gia-20251119104950422.htm) - 10:31 19/11/2025
 - 🔥 [Bức ảnh “tự sướng” đắt giá của Ronaldo tại Nhà Trắng](https://dantri.com.vn/giai-tri/buc-anh-tu-suong-dat-gia-cua-ronaldo-tai-nha-trang-20251119160016841.htm) - 09:08 19/11/2025
 - 🚀 [Diễn viên “Mưa đỏ&quot; cầu cứu vì bố mẹ mắc kẹt trong vùng lũ, mất liên lạc](https://dantri.com.vn/giai-tri/dien-vien-mua-do-cau-cuu-vi-bo-me-mac-ket-trong-vung-lu-mat-lien-lac-20251119144904143.htm) - 08:40 19/11/2025
 - 🔥 [&quot;Tôi! Người Việt Nam&quot; bàn giao 5,3 tỷ đồng ủng hộ đồng bào vùng bão lũ](https://dantri.com.vn/giai-tri/toi-nguoi-viet-nam-ban-giao-53-ty-dong-ung-ho-dong-bao-vung-bao-lu-20251119151041410.htm) - 08:29 19/11/2025
