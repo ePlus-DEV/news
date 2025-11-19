@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Băng tuyết xuất hiện trên đỉnh Tà Xùa](https://vnexpress.net/bang-tuyet-xuat-hien-tren-dinh-ta-xua-4965977.html) - 12:32 19/11/2025
+- 💂 [Du khách bất ngờ trước cảnh băng giá trên đỉnh Tà Xùa](https://vnexpress.net/du-khach-bat-ngo-truoc-canh-bang-gia-tren-dinh-ta-xua-4965977.html) - 12:32 19/11/2025
 - 🪄 [Vì sao gọi là hoa tam giác mạch?](https://vnexpress.net/vi-sao-goi-la-hoa-tam-giac-mach-4965916.html) - 12:00 19/11/2025
 - 🦅 [Khách Việt thích mang mì gói đi du lịch](https://vnexpress.net/khach-viet-thich-mang-mi-goi-di-du-lich-4965848.html) - 08:22 19/11/2025
 - 🕴 [Khách nước ngoài &#39;no show&#39; gây ám ảnh cho nhà hàng Nhật Bản](https://vnexpress.net/khach-nuoc-ngoai-no-show-gay-am-anh-cho-nha-hang-nhat-ban-4964060.html) - 07:14 19/11/2025
