@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Malaysia nhận tin vui từ FIFA khi gia tăng cách biệt với tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-nhan-tin-vui-tu-fifa-khi-gia-tang-cach-biet-voi-tuyen-viet-nam-20251119184537058.htm) - 12:15 19/11/2025
-- 💯 [Đội tuyển Lào 0-0 Việt Nam &lpar;hết hiệp 1&rpar;: Một chút bế tắc](https://dantri.com.vn/the-thao/doi-tuyen-lao-0-0-viet-nam-het-hiep-1-mot-chut-be-tac-20251119164057849.htm) - 11:00 19/11/2025
+- 💯 [Đội tuyển Lào 0-1 Việt Nam &lpar;hiệp 2&rpar;: Xuân Son ghi bàn từ chấm 11m](https://dantri.com.vn/the-thao/doi-tuyen-lao-0-1-viet-nam-hiep-2-xuan-son-ghi-ban-tu-cham-11m-20251119164057849.htm) - 11:00 19/11/2025
 - ⛽️ [HLV Hoàng Anh Tuấn: &quot;U22 Việt Nam đừng đề cao trận thắng U22 Trung Quốc&quot;](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-u22-viet-nam-dung-de-cao-tran-thang-u22-trung-quoc-20251119150501200.htm) - 08:50 19/11/2025
 - 💃 [Xem trực tiếp trận đội tuyển Việt Nam gặp Lào ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-doi-tuyen-viet-nam-gap-lao-o-dau-20251119154125124.htm) - 08:43 19/11/2025
 - 🌈 [Bóng đá Malaysia rạn nứt vì cầu thủ nhập tịch, HLV phát biểu gây tranh cãi](https://dantri.com.vn/the-thao/bong-da-malaysia-ran-nut-vi-cau-thu-nhap-tich-hlv-phat-bieu-gay-tranh-cai-20251119131302263.htm) - 08:42 19/11/2025
