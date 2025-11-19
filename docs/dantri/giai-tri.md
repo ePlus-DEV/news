@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Lùm xùm trước bán kết Hoa hậu Hoàn vũ 2025, ban tổ chức ra thông báo khẩn](https://dantri.com.vn/giai-tri/lum-xum-truoc-ban-ket-hoa-hau-hoan-vu-2025-ban-to-chuc-ra-thong-bao-khan-20251119101228209.htm) - 04:22 19/11/2025
+- 🤩 [Lùm xùm trước bán kết Hoa hậu Hoàn vũ 2025, Ban tổ chức ra thông báo khẩn](https://dantri.com.vn/giai-tri/lum-xum-truoc-ban-ket-hoa-hau-hoan-vu-2025-ban-to-chuc-ra-thong-bao-khan-20251119101228209.htm) - 04:22 19/11/2025
 - 🔥 [NTK Cao Minh Tiến bị phản ứng vì nghi đạo nhái tại Tuần lễ thời trang](https://dantri.com.vn/giai-tri/ntk-cao-minh-tien-bi-phan-ung-vi-nghi-dao-nhai-tai-tuan-le-thoi-trang-20251118234257140.htm) - 02:28 19/11/2025
 - 🚀 [NSƯT Kim Tuyến: Mẹ đơn thân gợi cảm, nghi vấn hẹn hò &quot;chị đẹp&quot; kém 8 tuổi](https://dantri.com.vn/giai-tri/nsut-kim-tuyen-me-don-than-goi-cam-nghi-van-hen-ho-chi-dep-kem-8-tuoi-20251119054103299.htm) - 02:00 19/11/2025
 - 🔥 [Mars Anh Tú: &quot;Tôi thiệt thòi hơn bạn bè vì có con sớm quá&quot;](https://dantri.com.vn/giai-tri/mars-anh-tu-toi-thiet-thoi-hon-ban-be-vi-co-con-som-qua-20251119082942296.htm) - 01:29 19/11/2025
