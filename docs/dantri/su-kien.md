@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Tạm giữ hình sự tài xế xe tải &quot;đuổi bắt&quot; với CSGT trên đại lộ Thăng Long](https://dantri.com.vn/phap-luat/tam-giu-hinh-su-tai-xe-xe-tai-duoi-bat-voi-csgt-tren-dai-lo-thang-long-20251119185011805.htm) - 11:54 19/11/2025
 - 👨‍🏫 [Tổng Bí thư: Xây dựng Thổ Châu trở thành đặc khu biển đảo xanh - mạnh - bền vững](https://dantri.com.vn/thoi-su/tong-bi-thu-xay-dung-tho-chau-tro-thanh-dac-khu-bien-dao-xanh-manh-ben-vung-20251119182038051.htm) - 11:20 19/11/2025
-- 🌮 [Đội tuyển Lào 0-0 Việt Nam &lpar;hết hiệp 1&rpar;: Một chút bế tắc](https://dantri.com.vn/the-thao/doi-tuyen-lao-0-0-viet-nam-het-hiep-1-mot-chut-be-tac-20251119164057849.htm) - 11:00 19/11/2025
+- 🌮 [Đội tuyển Lào 0-0 Việt Nam &lpar;hiệp 2&rpar;: Bóng dội xà ngang](https://dantri.com.vn/the-thao/doi-tuyen-lao-0-0-viet-nam-hiep-2-bong-doi-xa-ngang-20251119164057849.htm) - 11:00 19/11/2025
 - 🕯 [Hoa hậu Thùy Tiên, Quang Linh Vlogs, Hằng Du Mục lĩnh 2 năm tù](https://dantri.com.vn/phap-luat/hoa-hau-thuy-tien-quang-linh-vlogs-hang-du-muc-linh-2-nam-tu-20251119141230372.htm) - 10:17 19/11/2025
 - 🪜 [Công nhân phát hiện quả bom khi thi công cống thoát nước ở TPHCM](https://dantri.com.vn/thoi-su/cong-nhan-phat-hien-qua-bom-khi-thi-cong-cong-thoat-nuoc-o-tphcm-20251119152343343.htm) - 09:29 19/11/2025
 - 🐘 [Tổng Bí thư: Phát triển cụm đảo Hòn Khoai - bước tiến của một Việt Nam khát vọng và tự cường](https://dantri.com.vn/thoi-su/tong-bi-thu-phat-trien-cum-dao-hon-khoai-buoc-tien-cua-mot-viet-nam-khat-vong-va-tu-cuong-20251119161635049.htm) - 09:16 19/11/2025
