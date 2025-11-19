@@ -4,18 +4,18 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chuyên gia Herbalife đào tạo dinh dưỡng cho tuyển nữ Việt Nam](https://vnexpress.net/chuyen-gia-herbalife-dao-tao-dinh-duong-cho-tuyen-nu-viet-nam-4965502.html) - 09:00 19/11/2025
-- 🦩 [Benzema: &#39;Real là nơi lý tưởng để đoạt Quả Bóng Vàng&#39;](https://vnexpress.net/benzema-real-la-noi-ly-tuong-de-doat-qua-bong-vang-4965901.html) - 08:43 19/11/2025
-- 🧰 [7 cầu thủ nhập tịch Malaysia nói gì khi điều trần trước FIFA?](https://vnexpress.net/7-cau-thu-nhap-tich-malaysia-noi-gi-khi-dieu-tran-truoc-fifa-4965501.html) - 06:00 19/11/2025
-- 🤗 [Quyền Anh thế giới phẫn nộ vì trận Joshua - Jake Paul](https://vnexpress.net/quyen-anh-the-gioi-phan-no-vi-tran-joshua-jake-paul-4965667.html) - 05:55 19/11/2025
-- 🥳 [Neymar mua thương hiệu Pele](https://vnexpress.net/neymar-mua-thuong-hieu-pele-4965731.html) - 05:49 19/11/2025
-- 🦣 [Na Uy bị châm chọc vì ăn mừng vé World Cup 2026](https://vnexpress.net/na-uy-bi-cham-choc-vi-an-mung-ve-world-cup-2026-4965627.html) - 05:43 19/11/2025
-- 🌜 [Tuyển thủ Việt Nam gây sốt với đám cưới &#39;cô chủ tiệm vàng&#39;](https://vnexpress.net/tuyen-thu-viet-nam-gay-sot-voi-dam-cuoi-co-chu-tiem-vang-4965490.html) - 05:09 19/11/2025
-- 🫶 [Hôm nay Xuân Son tái xuất ở tuyển Việt Nam](https://vnexpress.net/hom-nay-xuan-son-tai-xuat-o-tuyen-viet-nam-4965724.html) - 03:45 19/11/2025
-- 🌜 [Đông Nam Á trước ngưỡng cửa lịch sử ở Asian Cup](https://vnexpress.net/dong-nam-a-truoc-nguong-cua-lich-su-o-asian-cup-4965728.html) - 03:13 19/11/2025
-- 😺 [Djokovic diện kiến Thủ tướng Hy Lạp](https://vnexpress.net/djokovic-dien-kien-thu-tuong-hy-lap-4965702.html) - 03:07 19/11/2025
-- 👍 [Ronaldo ăn tối tại Nhà Trắng](https://vnexpress.net/ronaldo-an-toi-tai-nha-trang-4965699.html) - 02:15 19/11/2025
-- 🐵 [Chinh phục marathon sau 15 năm bị tiểu đường tuýp 1](https://vnexpress.net/chinh-phuc-marathon-tieu-duong-tuyp1-4963813.html) - 02:00 19/11/2025
+- 🪜 [Djokovic toan tính gì khi rời bỏ quê hương Serbia?](https://vnexpress.net/djokovic-toan-tinh-gi-khi-roi-bo-que-huong-serbia-4965934.html) - 09:25 19/11/2025
+- 🦩 [Chuyên gia Herbalife đào tạo dinh dưỡng cho tuyển nữ Việt Nam](https://vnexpress.net/chuyen-gia-herbalife-dao-tao-dinh-duong-cho-tuyen-nu-viet-nam-4965502.html) - 09:00 19/11/2025
+- 🧰 [Benzema: &#39;Real là nơi lý tưởng để đoạt Quả Bóng Vàng&#39;](https://vnexpress.net/benzema-real-la-noi-ly-tuong-de-doat-qua-bong-vang-4965901.html) - 08:43 19/11/2025
+- 🤗 [7 cầu thủ nhập tịch Malaysia nói gì khi điều trần trước FIFA?](https://vnexpress.net/7-cau-thu-nhap-tich-malaysia-noi-gi-khi-dieu-tran-truoc-fifa-4965501.html) - 06:00 19/11/2025
+- 🥳 [Quyền Anh thế giới phẫn nộ vì trận Joshua - Jake Paul](https://vnexpress.net/quyen-anh-the-gioi-phan-no-vi-tran-joshua-jake-paul-4965667.html) - 05:55 19/11/2025
+- 🦣 [Neymar mua thương hiệu Pele](https://vnexpress.net/neymar-mua-thuong-hieu-pele-4965731.html) - 05:49 19/11/2025
+- 🌜 [Na Uy bị châm chọc vì ăn mừng vé World Cup 2026](https://vnexpress.net/na-uy-bi-cham-choc-vi-an-mung-ve-world-cup-2026-4965627.html) - 05:43 19/11/2025
+- 🫶 [Tuyển thủ Việt Nam gây sốt với đám cưới &#39;cô chủ tiệm vàng&#39;](https://vnexpress.net/tuyen-thu-viet-nam-gay-sot-voi-dam-cuoi-co-chu-tiem-vang-4965490.html) - 05:09 19/11/2025
+- 🌜 [Hôm nay Xuân Son tái xuất ở tuyển Việt Nam](https://vnexpress.net/hom-nay-xuan-son-tai-xuat-o-tuyen-viet-nam-4965724.html) - 03:45 19/11/2025
+- 😺 [Đông Nam Á trước ngưỡng cửa lịch sử ở Asian Cup](https://vnexpress.net/dong-nam-a-truoc-nguong-cua-lich-su-o-asian-cup-4965728.html) - 03:13 19/11/2025
+- 👍 [Djokovic diện kiến Thủ tướng Hy Lạp](https://vnexpress.net/djokovic-dien-kien-thu-tuong-hy-lap-4965702.html) - 03:07 19/11/2025
+- 🐵 [Ronaldo ăn tối tại Nhà Trắng](https://vnexpress.net/ronaldo-an-toi-tai-nha-trang-4965699.html) - 02:15 19/11/2025
 - 💫 [VĐV 16 tuổi Trung Quốc phá kỷ lục U20 châu Á](https://vnexpress.net/vdv-16-tuoi-trung-quoc-pha-ky-luc-u20-chau-a-4965651.html) - 01:11 19/11/2025
 - 🦆 [Tuyển CH Czech bị phạt vì ngó lơ CĐV nhà](https://vnexpress.net/tuyen-ch-czech-bi-phat-vi-ngo-lo-cdv-nha-4965632.html) - 01:06 19/11/2025
 - 🙉 [World Cup 2026 chỉ còn 6 suất chưa có chủ](https://vnexpress.net/world-cup-2026-chi-con-6-suat-chua-co-chu-4965626.html) - 00:06 19/11/2025
