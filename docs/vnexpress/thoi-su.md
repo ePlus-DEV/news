@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đường đèo Mimosa ở Đà Lạt nứt toác, suýt cuốn ôtô khách](https://vnexpress.net/sat-lo-deo-mimosa-da-lat-4967550.html) - 18:28 19/11/2025
+- 🦒 [Đèo Mimosa nứt toác, suýt cuốn ôtô khách xuống vực](https://vnexpress.net/sat-lo-deo-mimosa-da-lat-4967550.html) - 18:28 19/11/2025
 - 🤓 [Bộ trưởng Nguyễn Kim Sơn: Việt Nam sẽ có thế hệ trẻ trí tuệ, nhân ái](https://vnexpress.net/bo-truong-nguyen-kim-son-viet-nam-se-co-the-he-tre-tri-tue-nhan-ai-4967548.html) - 18:00 19/11/2025
 - ⚗️ [Lần đầu trưng bày 19 bảo vật quốc gia tại Đà Nẵng](https://vnexpress.net/lan-dau-trung-bay-19-bao-vat-quoc-gia-tai-da-nang-4966772.html) - 17:00 19/11/2025
 - 🌊 [Hơn 70% doanh nghiệp &#39;tinh gọn chưa hiệu quả&#39;](https://vnexpress.net/hon-70-doanh-nghiep-tinh-gon-chua-hieu-qua-4966006.html) - 17:00 19/11/2025
