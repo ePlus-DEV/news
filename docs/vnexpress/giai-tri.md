@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cuộc sống đơn độc của &#39;mỹ nhân Sài Gòn xưa&#39; Mộng Tuyền](https://vnexpress.net/cuoc-song-don-doc-cua-my-nhan-sai-gon-xua-mong-tuyen-4965416.html) - 17:01 19/11/2025
+- 🌏 [Cuộc sống đơn độc của &#39;mỹ nhân Sài Gòn&#39; Mộng Tuyền](https://vnexpress.net/cuoc-song-don-doc-cua-my-nhan-sai-gon-mong-tuyen-4965416.html) - 17:01 19/11/2025
 - 💫 [Hương Giang và dàn người đẹp thi bán kết Miss Universe](https://vnexpress.net/huong-giang-va-dan-nguoi-dep-thi-ban-ket-miss-universe-4966768.html) - 15:38 19/11/2025
 - 🌮 [Trang phục dân tộc đa sắc màu của thí sinh Miss Universe](https://vnexpress.net/trang-phuc-dan-toc-da-sac-mau-cua-thi-sinh-miss-universe-4965969.html) - 15:13 19/11/2025
 - 🧠 [Son Ye Jin, Song Hye Kyo dự thảm đỏ Rồng Xanh](https://vnexpress.net/son-ye-jin-song-hye-kyo-du-tham-do-rong-xanh-4966766.html) - 13:39 19/11/2025
