@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Sản phẩm chủ lực 10.000 tỷ đồng với cơ hội làm giàu cho chục ngàn hộ dân](https://dantri.com.vn/lao-dong-viec-lam/san-pham-chu-luc-10000-ty-dong-voi-co-hoi-lam-giau-cho-chuc-ngan-ho-dan-20251119005046231.htm) - 04:17 19/11/2025
+- ⚗️ [Sản phẩm chủ lực 10.000 tỷ đồng và cơ hội làm giàu cho chục ngàn hộ dân](https://dantri.com.vn/lao-dong-viec-lam/san-pham-chu-luc-10000-ty-dong-va-co-hoi-lam-giau-cho-chuc-ngan-ho-dan-20251119005046231.htm) - 04:17 19/11/2025
 - 🙉 [Lũ về nhanh, dân nghèo bất lực nhìn 13 con bò bị chết ngạt](https://dantri.com.vn/lao-dong-viec-lam/lu-ve-nhanh-dan-ngheo-bat-luc-nhin-13-con-bo-bi-chet-ngat-20251118224536576.htm) - 01:46 19/11/2025
 - 🕴 [Người thợ hồ kiếm 50 triệu đồng/tháng nhờ kỹ năng đặc biệt](https://dantri.com.vn/lao-dong-viec-lam/nguoi-tho-ho-kiem-50-trieu-dongthang-nho-ky-nang-dac-biet-20251118185722008.htm) - 00:45 19/11/2025
 - 🧐 [Không cộng dồn thời gian làm hợp đồng khi xét tiếp nhận công chức](https://dantri.com.vn/lao-dong-viec-lam/khong-cong-don-thoi-gian-lam-hop-dong-khi-xet-tiep-nhan-cong-chuc-20251118114945067.htm) - 23:31 18/11/2025
