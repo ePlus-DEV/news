@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Sự nguy hại của máy sấy tay trong toilet](https://vnexpress.net/su-nguy-hai-cua-may-say-tay-trong-toilet-4965517.html) - 08:30 20/11/2025
-- 🎓 [Người vùng lũ: &#39;Chỉ mong ai đó nhìn thấy và đến cứu kịp&#39;](https://vnexpress.net/nguoi-vung-lu-chi-mong-ai-do-nhin-thay-va-den-cuu-kip-4969194.html) - 06:55 20/11/2025
+- 🎓 [Người vùng lũ: &#39;Mong được cứu&#39;](https://vnexpress.net/nguoi-vung-lu-mong-duoc-cuu-4969194.html) - 06:55 20/11/2025
 - 🚦 [Vợ 68 tuổi lừa chồng để có thêm con](https://vnexpress.net/vo-68-tuoi-lua-chong-de-co-them-con-4965797.html) - 04:25 20/11/2025
 - 🦣 [Những cô gái từ bỏ &#39;nữ cường&#39; để sống như ốc sên](https://vnexpress.net/nhung-co-gai-tu-bo-nu-cuong-de-song-nhu-oc-sen-4965832.html) - 03:59 20/11/2025
 - 🎓 [Vì sao người Tây Ban Nha bỏ ngủ trưa?](https://vnexpress.net/vi-sao-nguoi-tay-ban-nha-bo-ngu-trua-4965825.html) - 00:14 20/11/2025
