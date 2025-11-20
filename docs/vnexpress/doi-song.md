@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nhưng cuộc giải cứu trong biển nước miền Trung](https://vnexpress.net/nhung-cuoc-giai-cuu-trong-bien-nuoc-mien-trung-4969627.html) - 17:00 20/11/2025
+- 🚀 [Những cuộc giải cứu trong biển nước miền Trung](https://vnexpress.net/nhung-cuoc-giai-cuu-trong-bien-nuoc-mien-trung-4969627.html) - 17:00 20/11/2025
 - 🎓 [&#39;Siêu thị mini 0 đồng&#39; tiếp sức bà con Quy Nhơn hậu bão](https://vnexpress.net/sieu-thi-mini-0-dong-tiep-suc-ba-con-quy-nhon-hau-bao-4969468.html) - 10:45 20/11/2025
 - 🚦 [Cách làm bánh xèo giòn rụm, vàng ươm như nhà hàng](https://vnexpress.net/doi-song-cooking-cach-lam-banh-xeo-gion-rum-vang-uom-nhu-nha-hang-4969347.html) - 10:16 20/11/2025
 - 🦣 [Sự nguy hại của máy sấy tay trong toilet](https://vnexpress.net/su-nguy-hai-cua-may-say-tay-trong-toilet-4965517.html) - 08:30 20/11/2025
