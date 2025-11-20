@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Đèo Cả tê liệt, sạt lở núi làm 2 người thương vong](https://dantri.com.vn/thoi-su/deo-ca-te-liet-sat-lo-nui-lam-2-nguoi-thuong-vong-20251120103805933.htm) - 04:33 20/11/2025
-- 👨‍🏫 [Người dân chèo tấm xốp ra nhận hàng cứu trợ sau nhiều ngày mắc kẹt](https://dantri.com.vn/thoi-su/nguoi-dan-cheo-tam-xop-ra-nhan-hang-cuu-tro-sau-nhieu-ngay-mac-ket-20251120112056862.htm) - 04:32 20/11/2025
+- 👨‍🏫 [Quân đội điều xe thiết giáp giải cứu người dân bị cô lập](https://dantri.com.vn/thoi-su/quan-doi-dieu-xe-thiet-giap-giai-cuu-nguoi-dan-bi-co-lap-20251120112056862.htm) - 04:32 20/11/2025
 - 🌮 [Công an xuất hiện tại tiệm vàng nổi tiếng ở Đắk Lắk](https://dantri.com.vn/phap-luat/cong-an-xuat-hien-tai-tiem-vang-noi-tieng-o-dak-lak-20251120105121557.htm) - 04:06 20/11/2025
 - 🕯 [Người đàn ông bê thùng tiền lẻ đi mua ô tô, nhân viên đếm 3 giờ mới xong](https://dantri.com.vn/doi-song/nguoi-dan-ong-be-thung-tien-le-di-mua-o-to-nhan-vien-dem-3-gio-moi-xong-20251120085907679.htm) - 02:09 20/11/2025
 - 🪜 [Toạ đàm: Phát triển ESG bền vững trong sản xuất thiết bị y tế](https://dantri.com.vn/suc-khoe/toa-dam-phat-trien-esg-ben-vung-trong-san-xuat-thiet-bi-y-te-20251120073400688.htm) - 00:34 20/11/2025
