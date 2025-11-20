@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bài tập quân đội Canada giúp Vua Charles giữ sức bền ở tuổi 75](https://vnexpress.net/bai-tap-quan-doi-canada-giup-vua-charles-giu-suc-ben-o-tuoi-75-4965599.html) - 22:00 19/11/2025
+- 🔥 [Bài tập quân đội Canada giúp Vua Charles giữ sức bền ở tuổi 77](https://vnexpress.net/bai-tap-quan-doi-canada-giup-vua-charles-giu-suc-ben-o-tuoi-77-4965599.html) - 22:00 19/11/2025
 - 🥰 [Ngủ trưa thế nào có lợi cho sức khỏe](https://vnexpress.net/ngu-trua-the-nao-co-loi-cho-suc-khoe-4963266.html) - 18:03 19/11/2025
 - 💡 [Điều gì xảy ra khi ăn nhiều món chiên rán?](https://vnexpress.net/suc-khoe-dinh-duong-mon-chien-ran-4964950.html) - 18:00 19/11/2025
 - 🤗 [Ba nguy cơ sức khỏe khi uống dưới 500 ml nước một ngày](https://vnexpress.net/ba-nguy-co-suc-khoe-khi-uong-duoi-500-ml-nuoc-mot-ngay-4964936.html) - 17:03 19/11/2025
