@@ -405,9 +405,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phát hiện gần 15 tấn đường cát nhập lậu tại TPHCM](https://baochinhphu.vn/phat-hien-gan-15-tan-duong-cat-nhap-lau-tai-tphcm-102251120124012819.htm) - 12:55 20/11/2025
-- 🌜 [Tạm ngừng khai thác sân bay Tuy Hòa từ 10h đến 24h hôm nay 20/11](https://baochinhphu.vn/tam-ngung-khai-thac-san-bay-tuy-hoa-tu-10h-den-24h-hom-nay-20-11-10225112012411569.htm) - 12:42 20/11/2025
-- 🦆 [TPHCM: Phát hiện kho hàng chứa trên 100 tấn vải cuộn không rõ nguồn gốc](https://baochinhphu.vn/tphcm-phat-hien-kho-hang-chua-tren-100-tan-vai-cuon-khong-ro-nguon-goc-102251120123210105.htm) - 12:35 20/11/2025
+- 💻 [TPHCM phát hiện hơn 372.000 sản phẩm vi phạm trong gần một tháng](https://baochinhphu.vn/tphcm-phat-hien-hon-372000-san-pham-vi-pham-trong-gan-mot-thang-102251120125623098.htm) - 13:06 20/11/2025
+- 🌜 [Các lực lượng công an, quân đội nỗ lực cứu, sơ tán khẩn cấp người dân bị cô lập do nước lũ](https://baochinhphu.vn/cac-luc-luong-cong-an-quan-doi-no-luc-cuu-so-tan-khan-cap-nguoi-dan-bi-co-lap-do-nuoc-lu-102251120122520894.htm) - 13:04 20/11/2025
+- 🦆 [Tạm ngừng khai thác sân bay Tuy Hòa từ 10h đến 24h hôm nay 20/11](https://baochinhphu.vn/tam-ngung-khai-thac-san-bay-tuy-hoa-tu-10h-den-24h-hom-nay-20-11-10225112012411569.htm) - 12:42 20/11/2025
 - 🌝 [Đưa vào vận hành Dự án Nhà máy điện khí LNG Hiệp Phước trong năm 2027](https://baochinhphu.vn/dua-vao-van-hanh-du-an-nha-may-dien-khi-lng-hiep-phuoc-trong-nam-2027-102251120122949976.htm) - 12:33 20/11/2025
 - 🦣 [Chuyển đổi số hướng tới mô hình Hải quan thông minh](https://baochinhphu.vn/chuyen-doi-so-huong-toi-mo-hinh-hai-quan-thong-minh-102251120111045105.htm) - 12:31 20/11/2025
 - ⛽️ [Giáo viên vùng khó khăn cần được hưởng mức phụ cấp ưu đãi nghề cao hơn](https://baochinhphu.vn/giao-vien-vung-kho-khan-can-duoc-huong-muc-phu-cap-uu-dai-nghe-cao-hon-10225112011574415.htm) - 12:10 20/11/2025
