@@ -411,7 +411,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng: Huy động mọi lực lượng, mọi phương tiện để tập trung cao nhất cứu người trong mưa lũ](https://baochinhphu.vn/thu-tuong-huy-dong-moi-luc-luong-moi-phuong-tien-de-tap-trung-cao-nhat-cuu-nguoi-trong-mua-lu-102251120234846299.htm) - 23:48 20/11/2025
+- 💻 [Thủ tướng: Huy động mọi lực lượng, bằng mọi cách cứu người trong mưa lũ](https://baochinhphu.vn/thu-tuong-huy-dong-moi-luc-luong-moi-phuong-tien-de-tap-trung-cao-nhat-cuu-nguoi-trong-mua-lu-102251120234846299.htm) - 23:48 20/11/2025
 - 🌜 [TỔNG THUẬT: Thủ tướng chủ trì cuộc họp khẩn trực tuyến từ Algeria về ứng phó mưa lũ, thiên tai, cứu hộ, cứu nạn](https://baochinhphu.vn/thu-tuong-chu-tri-cuoc-hop-khan-truc-tuyen-tu-algeria-ve-ung-pho-bao-lu-thien-tai-cuu-ho-cuu-nan-102251120221128957.htm) - 22:55 20/11/2025
 - 🦆 [Thủ tướng tiếp Tổng Bí thư Đảng Mặt trận giải phóng dân tộc Algeria](https://baochinhphu.vn/thu-tuong-tiep-tong-bi-thu-dang-mat-tran-giai-phong-dan-toc-algeria-102251120224346866.htm) - 22:51 20/11/2025
 - 🌝 [Thủ tướng tiếp Bộ trưởng Bộ Cựu chiến binh và người có công Algeria](https://baochinhphu.vn/thu-tuong-tiep-bo-truong-bo-cuu-chien-binh-va-nguoi-co-cong-algeria-102251120221043997.htm) - 22:18 20/11/2025
