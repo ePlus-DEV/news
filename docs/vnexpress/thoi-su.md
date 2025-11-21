@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tình nguyện trồng san hô dưới đáy biển Cô Tô](https://vnexpress.net/tinh-nguyen-trong-san-ho-duoi-day-bien-co-to-4965120.html) - 17:00 21/11/2025
-- 🤓 [Dùng flycam cứu người mắc kẹt giữa sông Sêrêpôk](https://vnexpress.net/dung-flycam-cuu-nguoi-mac-ket-giua-song-serepok-4973223.html) - 16:56 21/11/2025
+- 🤓 [Dùng drone cứu người giữa sông Sêrêpôk](https://vnexpress.net/dung-drone-cuu-nguoi-giua-song-serepok-4973223.html) - 16:56 21/11/2025
 - ⚗️ [&#39;Thiếu người tư vấn cho chủ tịch tỉnh lệnh xả lũ thủy điện sớm&#39;](https://vnexpress.net/thieu-nguoi-tu-van-cho-chu-tich-tinh-lenh-xa-lu-thuy-dien-som-4973402.html) - 16:31 21/11/2025
 - 🌊 [Gia Lai, Khánh Hòa lũ giảm, Đăk Lăk nhiều nơi còn ngập sâu](https://vnexpress.net/gia-lai-khanh-hoa-lu-giam-dak-lak-nhieu-noi-con-ngap-sau-4972100.html) - 12:31 21/11/2025
 - 🎓 [&#39;Muốn tự chủ công nghệ, phải ưu đãi mạnh cho sản phẩm chiến lược&#39;](https://vnexpress.net/muon-tu-chu-cong-nghe-phai-uu-dai-manh-cho-san-pham-chien-luoc-4972091.html) - 11:51 21/11/2025
