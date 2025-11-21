@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tranh luận việc xếp bác sĩ nội trú tương đương thạc sĩ](https://vnexpress.net/tranh-luan-viec-xep-bac-si-noi-tru-tuong-duong-thac-si-4972478.html) - 14:43 21/11/2025
+- 🤓 [Tranh luận việc xếp bác sĩ nội trú, chuyên khoa I tương đương thạc sĩ](https://vnexpress.net/tranh-luan-viec-xep-bac-si-noi-tru-chuyen-khoa-i-tuong-duong-thac-si-4972478.html) - 14:43 21/11/2025
 - 🦆 [Quốc gia nào từng không có ngày 30/12?](https://vnexpress.net/quoc-gia-nao-tung-khong-co-ngay-30-12-4972734.html) - 12:57 21/11/2025
 - 🦩 [Tương quan 4 cặp tứ kết nam Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/tu-ket-nam-bong-ro-tre-2025-4971225.html) - 11:10 21/11/2025
 - 🌮 [Hà Nội dự kiến thi lớp 10 vào cuối tháng 6/2026](https://vnexpress.net/du-kien-lich-thi-lop-10-ha-noi-nam-2026-vao-cuoi-thang-6-4972433.html) - 10:14 21/11/2025
