@@ -316,7 +316,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Hàng ngàn đại biểu, khán giả hòa vào ngày hội điện ảnh](https://www.sggp.org.vn/hang-ngan-dai-bieu-khan-gia-hoa-vao-ngay-hoi-dien-anh-post824669.html) - 16:15 21/11/2025
+- 🪜 [Khai mạc LHP Việt Nam lần thứ 24: Hàng ngàn khán giả hòa vào ngày hội điện ảnh](https://www.sggp.org.vn/khai-mac-lhp-viet-nam-lan-thu-24-hang-ngan-khan-gia-hoa-vao-ngay-hoi-dien-anh-post824669.html) - 16:15 21/11/2025
 - 🌝 [Người dân TPHCM đổ về ga metro gửi quà cứu trợ miền Trung trong đêm khuya](https://www.sggp.org.vn/nguoi-dan-tphcm-do-ve-ga-metro-gui-qua-cuu-tro-mien-trung-trong-dem-khuya-post824787.html) - 16:09 21/11/2025
 - 💃 [Trong đêm 21-11, TPHCM chuyển gấp 15 tấn nhu yếu phẩm đến tỉnh Khánh Hòa](https://www.sggp.org.vn/trong-dem-21-11-tphcm-chuyen-gap-15-tan-nhu-yeu-pham-den-tinh-khanh-hoa-post824785.html) - 15:42 21/11/2025
 - 🧑‍💻 [Thông cáo báo chí số 26 Kỳ họp thứ 10, Quốc hội khóa XV](https://www.sggp.org.vn/thong-cao-bao-chi-so-26-ky-hop-thu-10-quoc-hoi-khoa-xv-post824786.html) - 15:34 21/11/2025
