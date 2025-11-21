@@ -10,7 +10,7 @@ sidebar_position: 11
 - 🕴 [Rượu vang có thể kết hợp lòng lợn và mắm tôm?](https://vnexpress.net/ruou-vang-co-the-ket-hop-long-lon-va-mam-tom-4961076.html) - 02:30 21/11/2025
 - 👀 [Giá phòng ở Lô Lô Chải tăng gấp ba khi qua tay môi giới](https://vnexpress.net/gia-phong-o-lo-lo-chai-tang-gap-ba-khi-qua-tay-moi-gioi-4969376.html) - 00:00 21/11/2025
 - 🎭 [Có gì thu hút ở lễ hội hoa tam giác mạch Hà Giang 2025?](https://vnexpress.net/co-gi-thu-hut-o-le-hoi-hoa-tam-giac-mach-ha-giang-2025-4965271.html) - 22:00 20/11/2025
-- 🦒 [Tiệm kem hơn 40 năm tuổi ở Hà Nội biến mất](https://vnexpress.net/tiem-kem-hon-40-nam-tuoi-o-ha-noi-bien-mat-4965341.html) - 17:00 20/11/2025
+- 🦒 [Tiệm kem gần 70 năm ở Hà Nội biến mất](https://vnexpress.net/tiem-kem-gan-70-nam-o-ha-noi-bien-mat-4965341.html) - 17:00 20/11/2025
 - 👨‍🏫 [Nhật Bản mất gần 10 tỷ USD nếu khách Trung Quốc tiếp tục ngừng đến](https://vnexpress.net/nhat-ban-mat-gan-10-ty-usd-neu-khach-trung-quoc-tiep-tuc-ngung-den-4968621.html) - 12:00 20/11/2025
 - ⚗️ [Cây thông giáng sinh xếp từ mô hình kẹo tại TP HCM](https://vnexpress.net/cay-thong-giang-sinh-xep-tu-mo-hinh-keo-tai-tp-hcm-4965775.html) - 09:30 20/11/2025
 - 🥸 [Khách hủy tour vì sạt lở trên đường đi Đà Lạt](https://vnexpress.net/khach-huy-tour-vi-sat-lo-tren-duong-di-da-lat-4969219.html) - 08:35 20/11/2025
