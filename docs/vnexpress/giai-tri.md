@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Dàn sao dự thảm đỏ Liên hoan phim Việt Nam](https://vnexpress.net/dan-sao-du-tham-do-lien-hoan-phim-viet-nam-4973145.html) - 13:30 21/11/2025
-- 💫 [Sao Việt chung tay giúp người Nam Trung Bộ giữa trận lũ lịch sử](https://vnexpress.net/sao-viet-chung-tay-giup-nguoi-nam-trung-bo-giua-tran-lu-lich-su-4971277.html) - 12:59 21/11/2025
+- 💫 [Nghệ sĩ chung tay giúp người Nam Trung Bộ giữa trận lũ lịch sử](https://vnexpress.net/nghe-si-chung-tay-giup-nguoi-nam-trung-bo-giua-tran-lu-lich-su-4971277.html) - 12:59 21/11/2025
 - 🌮 [21 ngày thi Miss Universe của Hương Giang](https://vnexpress.net/21-ngay-thi-miss-universe-cua-huong-giang-4972389.html) - 11:34 21/11/2025
 - 🧠 [Tuổi trẻ rực rỡ của chị em song sinh &#39;đẹp nhất thế giới&#39;](https://vnexpress.net/tuoi-tre-ruc-ro-cua-chi-em-song-sinh-dep-nhat-the-gioi-4972111.html) - 09:16 21/11/2025
 - 👨‍🏫 [Đoan Trang cùng con gái hát &#39;Người thầy&#39;](https://vnexpress.net/doan-trang-cung-con-gai-hat-nguoi-thay-4971586.html) - 07:54 21/11/2025
