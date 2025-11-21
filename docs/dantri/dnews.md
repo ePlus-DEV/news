@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Sẽ có đoàn cứu hộ tiếp cận 14 công nhân bị cô lập, không còn gì để ăn](https://dantri.com.vn/thoi-su/se-co-doan-cuu-ho-tiep-can-14-cong-nhan-bi-co-lap-khong-con-gi-de-an-20251121143335484.htm) - 08:00 21/11/2025
-- 🌈 [Tân Hoa hậu Hoàn vũ: Từ trẻ khó đọc đến mỹ nhân đẹp nhất hành tinh](https://dantri.com.vn/giai-tri/tan-hoa-hau-hoan-vu-tu-tre-kho-doc-den-my-nhan-dep-nhat-hanh-tinh-20251121140118726.htm) - 07:28 21/11/2025
+- 🌈 [Tân Hoa hậu Hoàn vũ: Từ trẻ khó đọc đến nữ hoàng sắc đẹp](https://dantri.com.vn/giai-tri/tan-hoa-hau-hoan-vu-tu-tre-kho-doc-den-nu-hoang-sac-dep-20251121140118726.htm) - 07:28 21/11/2025
 - 🐎 [“Lũ quét và sạt lở đất đang là một thách thức lớn không chỉ với Việt Nam”](https://dantri.com.vn/thoi-su/lu-quet-va-sat-lo-dat-dang-la-mot-thach-thuc-lon-khong-chi-voi-viet-nam-20251121134014404.htm) - 07:08 21/11/2025
 - 👹 [ESG: &quot;Vòng gửi xe” và cốt lõi để ngành thiết bị y tế Việt Nam phát triển](https://dantri.com.vn/suc-khoe/esg-vong-gui-xe-va-cot-loi-de-nganh-thiet-bi-y-te-viet-nam-phat-trien-20251121122903599.htm) - 06:13 21/11/2025
 - 🫶 [14 công nhân bị cô lập trong lũ cầu cứu khi không còn gì để ăn](https://dantri.com.vn/thoi-su/14-cong-nhan-bi-co-lap-trong-lu-cau-cuu-khi-khong-con-gi-de-an-20251121095524485.htm) - 03:22 21/11/2025
