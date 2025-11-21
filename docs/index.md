@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Miền Trung oằn mình vì mưa lũ, người trẻ xa quê sốt ruột ngóng tin gia đình](https://muctim.tuoitre.vn/mien-trung-oan-minh-vi-mua-lu-nguoi-tre-xa-que-sot-ruot-ngong-tin-gia-dinh-101251120172057067.htm) - 03:29 21/11/2025
 - 🥷 [Kết quả bốc thăm play-off World Cup: Ý gặp Bắc Ireland](https://muctim.tuoitre.vn/ket-qua-boc-tham-play-off-world-cup-y-gap-bac-ireland-101251121080741511.htm) - 02:19 21/11/2025
-- 🤖 [Sáng nay chung kết Miss Universe 2025 tại Thái Lan: Hương Giang dừng chân](https://muctim.tuoitre.vn/sang-nay-chung-ket-miss-universe-2025-tai-thai-lan-101251121080436665.htm) - 01:11 21/11/2025
+- 🤖 [Sáng nay chung kết Miss Universe 2025 tại Thái Lan: Hoa hậu Mexico đăng quang](https://muctim.tuoitre.vn/sang-nay-chung-ket-miss-universe-2025-tai-thai-lan-101251121080436665.htm) - 01:11 21/11/2025
 - 🤓 [Bí mật tuổi chúng mình: Khui &quot;secret&quot; chuyện yêu tuổi học trò](https://muctim.tuoitre.vn/bi-mat-tuoi-chung-minh-khui-secret-chuyen-yeu-tuoi-hoc-tro-101251118093943659.htm) - 23:00 20/11/2025
 - 🎉 [BTS và BLACKPINK dẫn đầu bảng xếp hạng danh tiếng](https://muctim.tuoitre.vn/bts-va-blackpink-dan-dau-bang-xep-hang-danh-tieng-101251120201944247.htm) - 15:48 20/11/2025
 - 👨‍🏫 [Tờ báo tường gây sốt mạng xã hội của học sinh Trường THPT Ứng Hòa B &lpar;Hà Nội&rpar;](https://muctim.tuoitre.vn/to-bao-tuong-gay-sot-mang-xa-hoi-cua-hoc-sinh-truong-thpt-ung-hoa-b-ha-noi-101251120205432859.htm) - 15:35 20/11/2025
