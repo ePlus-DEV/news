@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [“72 giờ vàng” trong lũ](https://dantri.com.vn/tam-diem/72-gio-vang-trong-lu-20251121060919958.htm) - 23:09 20/11/2025
+- 🚦 [72 giờ khẩn cấp trong lũ](https://dantri.com.vn/tam-diem/72-gio-khan-cap-trong-lu-20251121060919958.htm) - 23:09 20/11/2025
 - 🫶 [“Quyền nghiêm khắc” của người thầy](https://dantri.com.vn/tam-diem/quyen-nghiem-khac-cua-nguoi-thay-20251119211153217.htm) - 01:00 20/11/2025
 - 🦏 [Ghế trẻ em trên ô tô: Làm sao để khả thi?](https://dantri.com.vn/tam-diem/ghe-tre-em-tren-o-to-lam-sao-de-kha-thi-20251119205204473.htm) - 13:53 19/11/2025
 - 🧰 [Những vấn đề từ “bức tranh toàn cảnh” 500 doanh nghiệp tư nhân lớn nhất](https://dantri.com.vn/tam-diem/nhung-van-de-tu-buc-tranh-toan-canh-500-doanh-nghiep-tu-nhan-lon-nhat-20251117200452531.htm) - 23:54 18/11/2025
