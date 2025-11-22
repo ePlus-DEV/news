@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Lao vào biển nước cứu người ở tâm lũ Đăk Lăk](https://vnexpress.net/lao-vao-bien-nuoc-cuu-nguoi-o-tam-lu-dak-lak-4973837.html) - 05:46 22/11/2025
 - 🧑‍🏫 [Ùn tắc hàng chục km trên các quốc lộ qua miền Trung](https://vnexpress.net/un-tac-hang-chuc-km-tren-cac-quoc-lo-qua-mien-trung-4974540.html) - 05:37 22/11/2025
 - 🚦 [Nhân viên tàu hỏa xoay xở phục vụ khách mắc kẹt trong mưa lũ](https://vnexpress.net/nhan-vien-tau-hoa-xoay-xo-phuc-vu-khach-mac-ket-trong-mua-lu-4973372.html) - 05:19 22/11/2025
-- 🎉 [Điều 4 trực thăng cứu trợ người dân ở Đăk Lăk](https://vnexpress.net/dieu-4-truc-thang-cuu-tro-nguoi-dan-o-dak-lak-4974248.html) - 05:18 22/11/2025
+- 🎉 [Hai trực thăng thả hàng cứu trợ cho vùng cô lập ở Đăk Lăk](https://vnexpress.net/hai-truc-thang-tha-hang-cuu-tro-cho-vung-co-lap-o-dak-lak-4974248.html) - 05:18 22/11/2025
 - 🦒 [Phố cổ Hội An ngập bùn non](https://vnexpress.net/pho-co-hoi-an-ngap-bun-non-4973041.html) - 03:49 22/11/2025
 - 🤗 [Lũ các sông đang xuống](https://vnexpress.net/lu-cac-song-dang-xuong-4973435.html) - 01:47 22/11/2025
 - 💼 [55 người chết do mưa lũ, Đăk Lăk thiệt hại nghiêm trọng nhất](https://vnexpress.net/55-nguoi-chet-do-mua-lu-dak-lak-thiet-hai-nghiem-trong-nhat-4973491.html) - 01:26 22/11/2025
