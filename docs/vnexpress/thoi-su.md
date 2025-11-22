@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [55 người chết do mưa lũ, thiệt hại kinh tế gần 9.000 tỷ đồng](https://vnexpress.net/55-nguoi-chet-do-mua-lu-thiet-hai-kinh-te-gan-9-000-ty-dong-4973435.html) - 01:47 22/11/2025
-- 🤓 [27 người chết, 200.000 nhà ngập do mưa lũ ở Đăk Lăk](https://vnexpress.net/27-nguoi-chet-200-000-nha-ngap-do-mua-lu-o-dak-lak-4973491.html) - 01:26 22/11/2025
+- 🦒 [Lũ các sông đang xuống](https://vnexpress.net/lu-cac-song-dang-xuong-4973435.html) - 01:47 22/11/2025
+- 🤓 [55 người chết do mưa lũ, Đăk Lăk thiệt hại nghiêm trọng nhất](https://vnexpress.net/55-nguoi-chet-do-mua-lu-dak-lak-thiet-hai-nghiem-trong-nhat-4973491.html) - 01:26 22/11/2025
 - ⚗️ [Tình nguyện trồng san hô dưới đáy biển Cô Tô](https://vnexpress.net/tinh-nguyen-trong-san-ho-duoi-day-bien-co-to-4965120.html) - 17:00 21/11/2025
 - 🌊 [Dùng drone cứu người giữa sông Sêrêpôk](https://vnexpress.net/dung-drone-cuu-nguoi-giua-song-serepok-4973223.html) - 16:56 21/11/2025
 - 🎓 [&#39;Thiếu người tư vấn cho chủ tịch tỉnh lệnh xả lũ thủy điện sớm&#39;](https://vnexpress.net/thieu-nguoi-tu-van-cho-chu-tich-tinh-lenh-xa-lu-thuy-dien-som-4973402.html) - 16:31 21/11/2025
