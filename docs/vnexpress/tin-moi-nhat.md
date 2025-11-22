@@ -51,5 +51,4 @@ sidebar_position: 9
 - 👺 [Bẫy đỏ đen sau ánh hào quang thể thao](https://vnexpress.net/bay-do-den-sau-anh-hao-quang-the-thao-4972567.html) - 05:36 22/11/2025
 - 🎡 [Nhân viên tàu hỏa xoay xở phục vụ khách mắc kẹt trong mưa lũ](https://vnexpress.net/nhan-vien-tau-hoa-xoay-xo-phuc-vu-khach-mac-ket-trong-mua-lu-4973372.html) - 05:19 22/11/2025
 - 👍 [Điều 4 trực thăng cứu trợ người dân ở Đăk Lăk](https://vnexpress.net/dieu-4-truc-thang-cuu-tro-nguoi-dan-o-dak-lak-4974248.html) - 05:18 22/11/2025
-- 🐎 [FBI tìm mua drone cáp quang](https://vnexpress.net/fbi-tim-mua-drone-cap-quang-4974306.html) - 05:11 22/11/2025
-- 🏊 [Bạn gái đòi chia tay khi đọc đoạn chat nhạy cảm của tôi và bạn khác](https://vnexpress.net/ban-gai-doi-chia-tay-khi-doc-doan-chat-nhay-cam-cua-toi-va-ban-khac-4974324.html) - 05:00 22/11/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [FBI tìm mua drone cáp quang](https://vnexpress.net/fbi-tim-mua-drone-cap-quang-4974306.html) - 05:11 22/11/2025<!-- vnexpress-tin-moi-nhat:END -->
