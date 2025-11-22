@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đồng Nai yêu cầu Lâm Đồng cung cấp thông tin thủy điện xả lũ](https://vnexpress.net/dong-nai-yeu-cau-lam-dong-cung-cap-thong-tin-thuy-dien-xa-lu-4974351.html) - 07:56 22/11/2025
+- 🦒 [Đồng Nai đề nghị Lâm Đồng cung cấp thông tin thủy điện xả lũ](https://vnexpress.net/dong-nai-de-nghi-lam-dong-cung-cap-thong-tin-thuy-dien-xa-lu-4974351.html) - 07:56 22/11/2025
 - 🤓 [Dòng xe kẹt hàng chục km trên quốc lộ 1](https://vnexpress.net/dong-xe-ket-hang-chuc-km-tren-quoc-lo-1-4974480.html) - 07:04 22/11/2025
 - ⚗️ [Tan hoang vùng rốn lũ Đăk Lăk](https://vnexpress.net/tan-hoang-vung-ron-lu-dak-lak-4974496.html) - 06:14 22/11/2025
 - 🌊 [Lao vào biển nước cứu người ở tâm lũ Đăk Lăk](https://vnexpress.net/lao-vao-bien-nuoc-cuu-nguoi-o-tam-lu-dak-lak-4973837.html) - 05:46 22/11/2025
