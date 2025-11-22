@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Công an xử lý 2 hai người đăng tin &#39;vỡ đập thủy lợi&#39; sai sự thật](https://vnexpress.net/cong-an-xu-ly-2-hai-nguoi-dang-tin-vo-dap-thuy-loi-sai-su-that-4973436.html) - 00:57 22/11/2025
 - 🥰 [Du khách Nhật Bản đánh đồng hương tử vong tại TP HCM](https://vnexpress.net/du-khach-nhat-ban-danh-dong-huong-tu-vong-tai-tp-hcm-4973377.html) - 17:00 21/11/2025
-- 🎓 [Cách mua bảo hiểm y tế online cho hộ gia đình](https://vnexpress.net/cach-mua-bao-hiem-y-te-online-cho-ho-gia-dinh-4971325.html) - 17:00 21/11/2025
+- 🎓 [Cách mua bảo hiểm y tế online cho hộ gia đình](https://vnexpress.net/phap-luat-tu-van-cach-mua-bao-hiem-y-te-online-cho-ho-gia-dinh-4971325.html) - 17:00 21/11/2025
 - 🤓 [Công an truy tìm người xịt sơn lên 3 ôtô](https://vnexpress.net/cong-an-truy-tim-nguoi-xit-son-len-3-oto-4973384.html) - 15:28 21/11/2025
 - 🎊 [Vợ chồng chủ Thẩm mỹ viện Mailisa bị bắt](https://vnexpress.net/vo-chong-chu-tham-my-vien-mailisa-bi-bat-4972892.html) - 11:57 21/11/2025
 - 🙉 [Cựu bí thư xã chở ma túy thuê bị phạt 18 năm tù](https://vnexpress.net/cuu-bi-thu-xa-cho-ma-tuy-thue-bi-phat-18-nam-tu-4972503.html) - 11:16 21/11/2025
