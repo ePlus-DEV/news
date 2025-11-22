@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [72 người chết do mưa lũ, Đăk Lăk còn 4 xã, phường ngập nặng](https://vnexpress.net/72-nguoi-chet-do-mua-lu-dak-lak-con-4-xa-phuong-ngap-nang-4976388.html) - 11:49 22/11/2025
-- 🤓 [Thông tuyến quốc lộ 1 qua Đăk Lăk](https://vnexpress.net/thong-tuyen-quoc-lo-1-qua-dak-lak-4975933.html) - 10:42 22/11/2025
-- ⚗️ [Bất lực khi người thân ở rốn lũ Hòa Thịnh bị nước bủa vây](https://vnexpress.net/bat-luc-khi-nguoi-than-o-ron-lu-hoa-thinh-bi-nuoc-bua-vay-4975360.html) - 10:31 22/11/2025
-- 🌊 [Đèo Khánh Lê nứt toác](https://vnexpress.net/deo-khanh-le-nut-toac-4975765.html) - 10:11 22/11/2025
-- 🎓 [Phân bổ 80 tỷ đồng hỗ trợ Lâm Đồng, Khánh Hòa, Đăk Lăk, Gia Lai](https://vnexpress.net/phan-bo-80-ty-dong-ho-tro-lam-dong-khanh-hoa-dak-lak-gia-lai-4975513.html) - 09:23 22/11/2025
-- 🔥 [Đồng Nai đề nghị Lâm Đồng cung cấp thông tin thủy điện xả lũ](https://vnexpress.net/dong-nai-de-nghi-lam-dong-cung-cap-thong-tin-thuy-dien-xa-lu-4974351.html) - 07:56 22/11/2025
-- 🦏 [Dòng xe kẹt hàng chục km trên quốc lộ 1](https://vnexpress.net/dong-xe-ket-hang-chuc-km-tren-quoc-lo-1-4974480.html) - 07:04 22/11/2025
-- 👺 [Tan hoang vùng rốn lũ Đăk Lăk](https://vnexpress.net/tan-hoang-vung-ron-lu-dak-lak-4974496.html) - 06:14 22/11/2025
-- 🧑‍🏫 [Lao vào biển nước cứu người ở tâm lũ Đăk Lăk](https://vnexpress.net/lao-vao-bien-nuoc-cuu-nguoi-o-tam-lu-dak-lak-4973837.html) - 05:46 22/11/2025
-- 🚦 [Ùn tắc hàng chục km trên các quốc lộ qua miền Trung](https://vnexpress.net/un-tac-hang-chuc-km-tren-cac-quoc-lo-qua-mien-trung-4974540.html) - 05:37 22/11/2025
-- 🎉 [Nhân viên tàu hỏa xoay xở phục vụ khách mắc kẹt trong mưa lũ](https://vnexpress.net/nhan-vien-tau-hoa-xoay-xo-phuc-vu-khach-mac-ket-trong-mua-lu-4973372.html) - 05:19 22/11/2025
-- 🦒 [Hai trực thăng thả hàng cứu trợ cho vùng cô lập ở Đăk Lăk](https://vnexpress.net/hai-truc-thang-tha-hang-cuu-tro-cho-vung-co-lap-o-dak-lak-4974248.html) - 05:18 22/11/2025
-- 🤗 [Phố cổ Hội An ngập bùn non](https://vnexpress.net/pho-co-hoi-an-ngap-bun-non-4973041.html) - 03:49 22/11/2025
-- 💼 [Lũ các sông đang xuống](https://vnexpress.net/lu-cac-song-dang-xuong-4973435.html) - 01:47 22/11/2025
-- 🤩 [55 người chết do mưa lũ, Đăk Lăk thiệt hại nghiêm trọng nhất](https://vnexpress.net/55-nguoi-chet-do-mua-lu-dak-lak-thiet-hai-nghiem-trong-nhat-4973491.html) - 01:26 22/11/2025
-- 🤡 [Tình nguyện trồng san hô dưới đáy biển Cô Tô](https://vnexpress.net/tinh-nguyen-trong-san-ho-duoi-day-bien-co-to-4965120.html) - 17:00 21/11/2025
-- 💯 [Dùng drone cứu người giữa sông Sêrêpôk](https://vnexpress.net/dung-drone-cuu-nguoi-giua-song-serepok-4973223.html) - 16:56 21/11/2025
-- 👺 [&#39;Thiếu người tư vấn cho chủ tịch tỉnh lệnh xả lũ thủy điện sớm&#39;](https://vnexpress.net/thieu-nguoi-tu-van-cho-chu-tich-tinh-lenh-xa-lu-thuy-dien-som-4973402.html) - 16:31 21/11/2025
-- 🌮 [Gia Lai, Khánh Hòa lũ giảm, Đăk Lăk nhiều nơi còn ngập sâu](https://vnexpress.net/gia-lai-khanh-hoa-lu-giam-dak-lak-nhieu-noi-con-ngap-sau-4972100.html) - 12:31 21/11/2025
-- 🥸 [&#39;Muốn tự chủ công nghệ, phải ưu đãi mạnh cho sản phẩm chiến lược&#39;](https://vnexpress.net/muon-tu-chu-cong-nghe-phai-uu-dai-manh-cho-san-pham-chien-luoc-4972091.html) - 11:51 21/11/2025
-- 🐻 [40 công nhân cao tốc Bắc - Nam mắc kẹt trong lũ](https://vnexpress.net/40-cong-nhan-cao-toc-bac-nam-mac-ket-trong-lu-4972721.html) - 11:33 21/11/2025
-- 👀 [Phó thủ tướng yêu cầu thủy điện Đa Nhim hỗ trợ người dân bị lũ quét](https://vnexpress.net/pho-thu-tuong-yeu-cau-thuy-dien-da-nhim-ho-tro-nguoi-dan-bi-lu-quet-4972651.html) - 11:16 21/11/2025
-- 🤔 [Nhiều người gặp nạn trên cao tốc ở Đồng Nai khi đi cứu trợ miền Trung](https://vnexpress.net/nhieu-nguoi-gap-nan-tren-cao-toc-o-dong-nai-khi-di-cuu-tro-mien-trung-4972471.html) - 10:48 21/11/2025
-- 🕯 [Nha Trang, Quy Nhơn ngổn ngang sau lũ](https://vnexpress.net/nha-trang-quy-nhon-ngon-ngang-sau-lu-4972054.html) - 09:50 21/11/2025
-- 😺 [Bộ Chính trị giao 4 địa phương chi viện các tỉnh thiệt hại nặng](https://vnexpress.net/bo-chinh-tri-giao-4-dia-phuong-chi-vien-cac-tinh-thiet-hai-nang-4972214.html) - 09:23 21/11/2025
-- 🦆 [Các tuyến đường đang cấm xe do ngập, sạt lở](https://vnexpress.net/cac-tuyen-duong-dang-cam-xe-do-ngap-sat-lo-4971933.html) - 08:52 21/11/2025
+- 🦒 [Tìm thấy tài xế xe đầu kéo bị lũ cuốn ở Quảng Trị](https://vnexpress.net/tim-thay-tai-xe-xe-dau-keo-bi-lu-cuon-o-quang-tri-4977030.html) - 12:59 22/11/2025
+- 🤓 [Tổng lực cứu trợ người dân vùng lũ](https://vnexpress.net/tong-luc-cuu-tro-nguoi-dan-vung-lu-4975504.html) - 12:41 22/11/2025
+- ⚗️ [72 người chết do mưa lũ, Đăk Lăk còn 4 xã, phường ngập nặng](https://vnexpress.net/72-nguoi-chet-do-mua-lu-dak-lak-con-4-xa-phuong-ngap-nang-4976388.html) - 11:49 22/11/2025
+- 🌊 [Thông tuyến quốc lộ 1 qua Đăk Lăk](https://vnexpress.net/thong-tuyen-quoc-lo-1-qua-dak-lak-4975933.html) - 10:42 22/11/2025
+- 🎓 [Bất lực khi người thân ở rốn lũ Hòa Thịnh bị nước vây hãm](https://vnexpress.net/bat-luc-khi-nguoi-than-o-ron-lu-hoa-thinh-bi-nuoc-vay-ham-4975360.html) - 10:31 22/11/2025
+- 🔥 [Đèo Khánh Lê nứt toác](https://vnexpress.net/deo-khanh-le-nut-toac-4975765.html) - 10:11 22/11/2025
+- 🦏 [Phân bổ 80 tỷ đồng hỗ trợ Lâm Đồng, Khánh Hòa, Đăk Lăk, Gia Lai](https://vnexpress.net/phan-bo-80-ty-dong-ho-tro-lam-dong-khanh-hoa-dak-lak-gia-lai-4975513.html) - 09:23 22/11/2025
+- 👺 [Đồng Nai đề nghị Lâm Đồng cung cấp thông tin thủy điện xả lũ](https://vnexpress.net/dong-nai-de-nghi-lam-dong-cung-cap-thong-tin-thuy-dien-xa-lu-4974351.html) - 07:56 22/11/2025
+- 🧑‍🏫 [Dòng xe kẹt hàng chục km trên quốc lộ 1](https://vnexpress.net/dong-xe-ket-hang-chuc-km-tren-quoc-lo-1-4974480.html) - 07:04 22/11/2025
+- 🚦 [Tan hoang vùng rốn lũ Đăk Lăk](https://vnexpress.net/tan-hoang-vung-ron-lu-dak-lak-4974496.html) - 06:14 22/11/2025
+- 🎉 [Lao vào biển nước cứu người ở tâm lũ Đăk Lăk](https://vnexpress.net/lao-vao-bien-nuoc-cuu-nguoi-o-tam-lu-dak-lak-4973837.html) - 05:46 22/11/2025
+- 🦒 [Ùn tắc hàng chục km trên các quốc lộ qua miền Trung](https://vnexpress.net/un-tac-hang-chuc-km-tren-cac-quoc-lo-qua-mien-trung-4974540.html) - 05:37 22/11/2025
+- 🤗 [Nhân viên tàu hỏa xoay xở phục vụ khách mắc kẹt trong mưa lũ](https://vnexpress.net/nhan-vien-tau-hoa-xoay-xo-phuc-vu-khach-mac-ket-trong-mua-lu-4973372.html) - 05:19 22/11/2025
+- 💼 [Hai trực thăng thả hàng cứu trợ cho vùng cô lập ở Đăk Lăk](https://vnexpress.net/hai-truc-thang-tha-hang-cuu-tro-cho-vung-co-lap-o-dak-lak-4974248.html) - 05:18 22/11/2025
+- 🤩 [Phố cổ Hội An ngập bùn non](https://vnexpress.net/pho-co-hoi-an-ngap-bun-non-4973041.html) - 03:49 22/11/2025
+- 🤡 [Lũ các sông đang xuống](https://vnexpress.net/lu-cac-song-dang-xuong-4973435.html) - 01:47 22/11/2025
+- 💯 [55 người chết do mưa lũ, Đăk Lăk thiệt hại nghiêm trọng nhất](https://vnexpress.net/55-nguoi-chet-do-mua-lu-dak-lak-thiet-hai-nghiem-trong-nhat-4973491.html) - 01:26 22/11/2025
+- 👺 [Tình nguyện trồng san hô dưới đáy biển Cô Tô](https://vnexpress.net/tinh-nguyen-trong-san-ho-duoi-day-bien-co-to-4965120.html) - 17:00 21/11/2025
+- 🌮 [Dùng drone cứu người giữa sông Sêrêpôk](https://vnexpress.net/dung-drone-cuu-nguoi-giua-song-serepok-4973223.html) - 16:56 21/11/2025
+- 🥸 [&#39;Thiếu người tư vấn cho chủ tịch tỉnh lệnh xả lũ thủy điện sớm&#39;](https://vnexpress.net/thieu-nguoi-tu-van-cho-chu-tich-tinh-lenh-xa-lu-thuy-dien-som-4973402.html) - 16:31 21/11/2025
+- 🐻 [Gia Lai, Khánh Hòa lũ giảm, Đăk Lăk nhiều nơi còn ngập sâu](https://vnexpress.net/gia-lai-khanh-hoa-lu-giam-dak-lak-nhieu-noi-con-ngap-sau-4972100.html) - 12:31 21/11/2025
+- 👀 [&#39;Muốn tự chủ công nghệ, phải ưu đãi mạnh cho sản phẩm chiến lược&#39;](https://vnexpress.net/muon-tu-chu-cong-nghe-phai-uu-dai-manh-cho-san-pham-chien-luoc-4972091.html) - 11:51 21/11/2025
+- 🤔 [40 công nhân cao tốc Bắc - Nam mắc kẹt trong lũ](https://vnexpress.net/40-cong-nhan-cao-toc-bac-nam-mac-ket-trong-lu-4972721.html) - 11:33 21/11/2025
+- 🕯 [Phó thủ tướng yêu cầu thủy điện Đa Nhim hỗ trợ người dân bị lũ quét](https://vnexpress.net/pho-thu-tuong-yeu-cau-thuy-dien-da-nhim-ho-tro-nguoi-dan-bi-lu-quet-4972651.html) - 11:16 21/11/2025
+- 😺 [Nhiều người gặp nạn trên cao tốc ở Đồng Nai khi đi cứu trợ miền Trung](https://vnexpress.net/nhieu-nguoi-gap-nan-tren-cao-toc-o-dong-nai-khi-di-cuu-tro-mien-trung-4972471.html) - 10:48 21/11/2025
+- 🦆 [Nha Trang, Quy Nhơn ngổn ngang sau lũ](https://vnexpress.net/nha-trang-quy-nhon-ngon-ngang-sau-lu-4972054.html) - 09:50 21/11/2025
+- 🧰 [Bộ Chính trị giao 4 địa phương chi viện các tỉnh thiệt hại nặng](https://vnexpress.net/bo-chinh-tri-giao-4-dia-phuong-chi-vien-cac-tinh-thiet-hai-nang-4972214.html) - 09:23 21/11/2025
+- 🦍 [Các tuyến đường đang cấm xe do ngập, sạt lở](https://vnexpress.net/cac-tuyen-duong-dang-cam-xe-do-ngap-sat-lo-4971933.html) - 08:52 21/11/2025
 - 🧰 [Quốc lộ 1 qua Khánh Hòa tê liệt, CSGT phải đóng đường](https://vnexpress.net/quoc-lo-1-qua-khanh-hoa-te-liet-csgt-phai-dong-duong-4972096.html) - 08:39 21/11/2025
-- 🦍 [Nước sông Đồng Nai dâng cao, hàng trăm nhà dân ngập sâu](https://vnexpress.net/nuoc-song-dong-nai-dang-cao-hang-tram-nha-dan-ngap-sau-4971936.html) - 07:51 21/11/2025
+- 💃 [Nước sông Đồng Nai dâng cao, hàng trăm nhà dân ngập sâu](https://vnexpress.net/nuoc-song-dong-nai-dang-cao-hang-tram-nha-dan-ngap-sau-4971936.html) - 07:51 21/11/2025
 - 🧰 [Hàng loạt cầu, đường hư hỏng sau lũ lịch sử](https://vnexpress.net/hang-loat-cau-duong-hu-hong-sau-lu-lich-su-4971811.html) - 06:53 21/11/2025
-- 💃 [Đèo Sông Pha nối Phan Rang - Đà Lạt thông trở lại](https://vnexpress.net/deo-song-pha-noi-phan-rang-da-lat-thong-tro-lai-4971570.html) - 05:19 21/11/2025
-- 🧰 [Phú Thọ muốn xây cao tốc Việt Trì - Hòa Bình](https://vnexpress.net/phu-tho-muon-xay-cao-toc-viet-tri-hoa-binh-4971308.html) - 04:19 21/11/2025
-- 🚀 [Phát triển trí tuệ nhân tạo &#39;vì con người&#39;](https://vnexpress.net/phat-trien-tri-tue-nhan-tao-vi-con-nguoi-4970863.html) - 03:34 21/11/2025
-- 🎊 [43 người chết, thiệt hại hơn 3.000 tỷ đồng do mưa lũ](https://vnexpress.net/43-nguoi-chet-thiet-hai-hon-3-000-ty-dong-do-mua-lu-4971213.html) - 03:14 21/11/2025
-- 🤭 [12 người thoát nạn trong hai vụ cháy ở Hà Nội](https://vnexpress.net/12-nguoi-thoat-nan-trong-hai-vu-chay-o-ha-noi-4970963.html) - 02:48 21/11/2025
-- 🤗 [Thủ tướng huy động tổng lực phương tiện tiếp cận người dân kêu cứu](https://vnexpress.net/thu-tuong-huy-dong-tong-luc-phuong-tien-tiep-can-nguoi-dan-keu-cuu-4970851.html) - 02:14 21/11/2025
-- 🌈 [Đêm chạy lũ ở Nha Trang](https://vnexpress.net/dem-chay-lu-o-nha-trang-4970697.html) - 20:20 20/11/2025
-- 🦣 [Khu dân cư dưới chân đập Đa Nhim tan hoang sau lũ](https://vnexpress.net/khu-dan-cu-duoi-chan-dap-da-nhim-tan-hoang-sau-lu-4970432.html) - 19:35 20/11/2025
-- 🎡 [Đà Nẵng đến Khánh Hòa vẫn mưa lớn](https://vnexpress.net/da-nang-den-khanh-hoa-van-mua-lon-4970381.html) - 18:10 20/11/2025
-- 🦏 [Người dân Đà Lạt đổ xô mua xăng](https://vnexpress.net/do-xang-da-lat-4970575.html) - 17:26 20/11/2025
-- 🎊 [Thủ tướng chủ trì họp trực tuyến từ Algeria để ứng phó mưa lũ](https://vnexpress.net/thu-tuong-chu-tri-hop-truc-tuyen-tu-algeria-de-ung-pho-mua-lu-4970312.html) - 16:10 20/11/2025
-- 🫶 [Giải cứu hai chị em rơi xuống hố sâu ở núi Trầm](https://vnexpress.net/giai-cuu-hai-chi-em-roi-xuong-ho-sau-o-nui-tram-4970076.html) - 15:10 20/11/2025
-- 🤔 [Các hồ chứa ở Nam Trung Bộ xả lũ tác động thế nào](https://vnexpress.net/cac-ho-chua-o-nam-trung-bo-xa-lu-tac-dong-the-nao-4969233.html) - 14:42 20/11/2025
-- 🤠 [41 người chết, hơn 52.000 nhà ngập do mưa lũ](https://vnexpress.net/41-nguoi-chet-hon-52-000-nha-ngap-do-mua-lu-4969798.html) - 13:03 20/11/2025
-- 🌜 [Tai nạn liên hoàn, cao tốc Nghi Sơn - Diễn Châu ùn tắc hơn ba tiếng](https://vnexpress.net/tai-nan-lien-hoan-cao-toc-nghi-son-dien-chau-un-tac-hon-ba-tieng-4969724.html) - 12:41 20/11/2025
-- 🕯 [Quân đội dựng lều dã chiến cho người Nha Trang tránh ngập](https://vnexpress.net/quan-doi-dung-leu-da-chien-cho-nguoi-nha-trang-tranh-ngap-4969482.html) - 11:45 20/11/2025
-- 🤔 [Bộ trưởng Giáo dục: Vinh quang nghề nghiệp không tự nhiên sinh ra](https://vnexpress.net/bo-truong-giao-duc-vinh-quang-nghe-nghiep-khong-tu-nhien-sinh-ra-4969452.html) - 11:40 20/11/2025
-- 🏊 [TP HCM được bố trí tối đa 8 phó chủ tịch UBND](https://vnexpress.net/tp-hcm-duoc-bo-tri-toi-da-8-pho-chu-tich-ubnd-4969355.html) - 10:19 20/11/2025
-- 🌮 [Diễn biến 5 ngày mưa lũ, sạt lở miền Trung, Tây Nguyên](https://vnexpress.net/dien-bien-5-ngay-mua-lu-sat-lo-mien-trung-tay-nguyen-4969343.html) - 09:06 20/11/2025
-- 🫣 [Người dân bám dây, ngồi thúng thoát khỏi lũ xiết](https://vnexpress.net/nguoi-dan-bam-day-ngoi-thung-thoat-khoi-lu-xiet-4969254.html) - 08:55 20/11/2025
-- ⚗️ [100 can axit đặc biệt nguy hiểm bị lũ cuốn](https://vnexpress.net/100-can-axit-dac-biet-nguy-hiem-bi-lu-cuon-4969325.html) - 08:46 20/11/2025
-- 🌜 [Đề xuất sửa Luật Bảo hiểm xã hội từ năm 2026](https://vnexpress.net/de-xuat-sua-luat-bao-hiem-xa-hoi-tu-nam-2026-4969207.html) - 08:39 20/11/2025
-- 🌁 [Sân bay, đường sắt, quốc lộ qua miền Trung tê liệt](https://vnexpress.net/san-bay-duong-sat-quoc-lo-qua-mien-trung-te-liet-4969229.html) - 08:00 20/11/2025
-- 🐲 [Hà Nội thí điểm cấm ôtô trên 10 tấn đi vào ba tuyến đường](https://vnexpress.net/ha-noi-thi-diem-cam-oto-tren-10-tan-di-vao-ba-tuyen-duong-4969177.html) - 07:17 20/11/2025
-- ⛽️ [Cháy quán lẩu dưới chân cầu Long Biên](https://vnexpress.net/chay-quan-lau-duoi-chan-cau-long-bien-4969239.html) - 07:13 20/11/2025
-- 🗽 [Học sinh tham gia bạo lực học đường &#39;cần phải lao động công ích&#39;](https://vnexpress.net/hoc-sinh-tham-gia-bao-luc-hoc-duong-can-phai-lao-dong-cong-ich-4969174.html) - 07:04 20/11/2025
-- 🔥 [Nhiều tài xế, xe hàng mắc kẹt trên quốc lộ do lũ](https://vnexpress.net/nhieu-tai-xe-xe-hang-mac-ket-tren-quoc-lo-do-lu-4969209.html) - 06:21 20/11/2025
-- 💯 [Xe sang đâm ôtô khách đỗ ven đường, một người tử vong](https://vnexpress.net/xe-sang-dam-oto-khach-do-ven-duong-mot-nguoi-tu-vong-4969198.html) - 05:23 20/11/2025
-- 🦆 [Đề xuất phát hành sách giáo khoa điện tử](https://vnexpress.net/de-xuat-phat-hanh-sach-giao-khoa-dien-tu-4969171.html) - 05:01 20/11/2025
-- 🫣 [Thủ tướng yêu cầu &#39;bằng mọi biện pháp&#39; cứu dân vùng lũ](https://vnexpress.net/thu-tuong-yeu-cau-bang-moi-bien-phap-cuu-dan-vung-lu-4968987.html) - 04:42 20/11/2025
-- 🤡 [&#39;Thi tuyển giáo viên phải tạo sân chơi lớn cho mọi người đua tài&#39;](https://vnexpress.net/thi-tuyen-giao-vien-phai-tao-san-choi-lon-cho-moi-nguoi-dua-tai-4968614.html) - 03:52 20/11/2025<!-- vnexpress-thoi-su:END -->
+- 🚀 [Đèo Sông Pha nối Phan Rang - Đà Lạt thông trở lại](https://vnexpress.net/deo-song-pha-noi-phan-rang-da-lat-thong-tro-lai-4971570.html) - 05:19 21/11/2025
+- 🎊 [Phú Thọ muốn xây cao tốc Việt Trì - Hòa Bình](https://vnexpress.net/phu-tho-muon-xay-cao-toc-viet-tri-hoa-binh-4971308.html) - 04:19 21/11/2025
+- 🤭 [Phát triển trí tuệ nhân tạo &#39;vì con người&#39;](https://vnexpress.net/phat-trien-tri-tue-nhan-tao-vi-con-nguoi-4970863.html) - 03:34 21/11/2025
+- 🤗 [43 người chết, thiệt hại hơn 3.000 tỷ đồng do mưa lũ](https://vnexpress.net/43-nguoi-chet-thiet-hai-hon-3-000-ty-dong-do-mua-lu-4971213.html) - 03:14 21/11/2025
+- 🌈 [12 người thoát nạn trong hai vụ cháy ở Hà Nội](https://vnexpress.net/12-nguoi-thoat-nan-trong-hai-vu-chay-o-ha-noi-4970963.html) - 02:48 21/11/2025
+- 🦣 [Thủ tướng huy động tổng lực phương tiện tiếp cận người dân kêu cứu](https://vnexpress.net/thu-tuong-huy-dong-tong-luc-phuong-tien-tiep-can-nguoi-dan-keu-cuu-4970851.html) - 02:14 21/11/2025
+- 🎡 [Đêm chạy lũ ở Nha Trang](https://vnexpress.net/dem-chay-lu-o-nha-trang-4970697.html) - 20:20 20/11/2025
+- 🦏 [Khu dân cư dưới chân đập Đa Nhim tan hoang sau lũ](https://vnexpress.net/khu-dan-cu-duoi-chan-dap-da-nhim-tan-hoang-sau-lu-4970432.html) - 19:35 20/11/2025
+- 🎊 [Đà Nẵng đến Khánh Hòa vẫn mưa lớn](https://vnexpress.net/da-nang-den-khanh-hoa-van-mua-lon-4970381.html) - 18:10 20/11/2025
+- 🫶 [Người dân Đà Lạt đổ xô mua xăng](https://vnexpress.net/do-xang-da-lat-4970575.html) - 17:26 20/11/2025
+- 🤔 [Thủ tướng chủ trì họp trực tuyến từ Algeria để ứng phó mưa lũ](https://vnexpress.net/thu-tuong-chu-tri-hop-truc-tuyen-tu-algeria-de-ung-pho-mua-lu-4970312.html) - 16:10 20/11/2025
+- 🤠 [Giải cứu hai chị em rơi xuống hố sâu ở núi Trầm](https://vnexpress.net/giai-cuu-hai-chi-em-roi-xuong-ho-sau-o-nui-tram-4970076.html) - 15:10 20/11/2025
+- 🌜 [Các hồ chứa ở Nam Trung Bộ xả lũ tác động thế nào](https://vnexpress.net/cac-ho-chua-o-nam-trung-bo-xa-lu-tac-dong-the-nao-4969233.html) - 14:42 20/11/2025
+- 🕯 [41 người chết, hơn 52.000 nhà ngập do mưa lũ](https://vnexpress.net/41-nguoi-chet-hon-52-000-nha-ngap-do-mua-lu-4969798.html) - 13:03 20/11/2025
+- 🤔 [Tai nạn liên hoàn, cao tốc Nghi Sơn - Diễn Châu ùn tắc hơn ba tiếng](https://vnexpress.net/tai-nan-lien-hoan-cao-toc-nghi-son-dien-chau-un-tac-hon-ba-tieng-4969724.html) - 12:41 20/11/2025
+- 🏊 [Quân đội dựng lều dã chiến cho người Nha Trang tránh ngập](https://vnexpress.net/quan-doi-dung-leu-da-chien-cho-nguoi-nha-trang-tranh-ngap-4969482.html) - 11:45 20/11/2025
+- 🌮 [Bộ trưởng Giáo dục: Vinh quang nghề nghiệp không tự nhiên sinh ra](https://vnexpress.net/bo-truong-giao-duc-vinh-quang-nghe-nghiep-khong-tu-nhien-sinh-ra-4969452.html) - 11:40 20/11/2025
+- 🫣 [TP HCM được bố trí tối đa 8 phó chủ tịch UBND](https://vnexpress.net/tp-hcm-duoc-bo-tri-toi-da-8-pho-chu-tich-ubnd-4969355.html) - 10:19 20/11/2025
+- ⚗️ [Diễn biến 5 ngày mưa lũ, sạt lở miền Trung, Tây Nguyên](https://vnexpress.net/dien-bien-5-ngay-mua-lu-sat-lo-mien-trung-tay-nguyen-4969343.html) - 09:06 20/11/2025
+- 🌜 [Người dân bám dây, ngồi thúng thoát khỏi lũ xiết](https://vnexpress.net/nguoi-dan-bam-day-ngoi-thung-thoat-khoi-lu-xiet-4969254.html) - 08:55 20/11/2025
+- 🌁 [100 can axit đặc biệt nguy hiểm bị lũ cuốn](https://vnexpress.net/100-can-axit-dac-biet-nguy-hiem-bi-lu-cuon-4969325.html) - 08:46 20/11/2025
+- 🐲 [Đề xuất sửa Luật Bảo hiểm xã hội từ năm 2026](https://vnexpress.net/de-xuat-sua-luat-bao-hiem-xa-hoi-tu-nam-2026-4969207.html) - 08:39 20/11/2025
+- ⛽️ [Sân bay, đường sắt, quốc lộ qua miền Trung tê liệt](https://vnexpress.net/san-bay-duong-sat-quoc-lo-qua-mien-trung-te-liet-4969229.html) - 08:00 20/11/2025
+- 🗽 [Hà Nội thí điểm cấm ôtô trên 10 tấn đi vào ba tuyến đường](https://vnexpress.net/ha-noi-thi-diem-cam-oto-tren-10-tan-di-vao-ba-tuyen-duong-4969177.html) - 07:17 20/11/2025
+- 🔥 [Cháy quán lẩu dưới chân cầu Long Biên](https://vnexpress.net/chay-quan-lau-duoi-chan-cau-long-bien-4969239.html) - 07:13 20/11/2025
+- 💯 [Học sinh tham gia bạo lực học đường &#39;cần phải lao động công ích&#39;](https://vnexpress.net/hoc-sinh-tham-gia-bao-luc-hoc-duong-can-phai-lao-dong-cong-ich-4969174.html) - 07:04 20/11/2025
+- 🦆 [Nhiều tài xế, xe hàng mắc kẹt trên quốc lộ do lũ](https://vnexpress.net/nhieu-tai-xe-xe-hang-mac-ket-tren-quoc-lo-do-lu-4969209.html) - 06:21 20/11/2025
+- 🫣 [Xe sang đâm ôtô khách đỗ ven đường, một người tử vong](https://vnexpress.net/xe-sang-dam-oto-khach-do-ven-duong-mot-nguoi-tu-vong-4969198.html) - 05:23 20/11/2025
+- 🤡 [Đề xuất phát hành sách giáo khoa điện tử](https://vnexpress.net/de-xuat-phat-hanh-sach-giao-khoa-dien-tu-4969171.html) - 05:01 20/11/2025<!-- vnexpress-thoi-su:END -->
