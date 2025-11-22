@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Bắc Ninh xây dựng hệ sinh thái số phát triển du lịch nông thôn](https://dantri.com.vn/du-lich/bac-ninh-xay-dung-he-sinh-thai-so-phat-trien-du-lich-nong-thon-20251122115627872.htm) - 04:56 22/11/2025
-- 🥰 [Cao Bằng xây dựng nhiều sản phẩm du lịch nông nghiệp, hút lượng khách lớn](https://dantri.com.vn/du-lich/cao-bang-xay-dung-nhieu-san-pham-du-lich-nong-nghiep-hut-luong-khach-lon-20251122105530543.htm) - 03:55 22/11/2025
+- 🥰 [Cao Bằng xây dựng nhiều sản phẩm du lịch nông thôn hấp dẫn](https://dantri.com.vn/du-lich/cao-bang-xay-dung-nhieu-san-pham-du-lich-nong-thon-hap-dan-20251122105530543.htm) - 03:55 22/11/2025
 - 🐻 [Con đường duy nhất tại Việt Nam lọt top &quot;hấp dẫn nhất thế giới&quot;](https://dantri.com.vn/du-lich/con-duong-duy-nhat-tai-viet-nam-lot-top-hap-dan-nhat-the-gioi-20251121214316491.htm) - 03:26 22/11/2025
 - 🤩 [Khách đến cao nguyên đá nghe kể chuyện bằng rock giữa mùa hoa tam giác mạch](https://dantri.com.vn/du-lich/khach-den-cao-nguyen-da-nghe-ke-chuyen-bang-rock-giua-mua-hoa-tam-giac-mach-20251121231448626.htm) - 03:10 22/11/2025
 - 🕴 [Ăn suất bún chả Hà Nội 70.000 đồng, khách bức xúc vì thịt còn sống nguyên](https://dantri.com.vn/du-lich/an-suat-bun-cha-ha-noi-70000-dong-khach-buc-xuc-vi-thit-con-song-nguyen-20251121223148404.htm) - 00:00 22/11/2025
