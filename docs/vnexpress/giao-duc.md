@@ -4,14 +4,14 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tứ kết nam Giải bóng rổ Trẻ VnExpress diễn ra ngày 23/11](https://vnexpress.net/tu-ket-bong-ro-tre-vnexpress-23-11-4975289.html) - 10:00 22/11/2025
-- 🦆 [Đại học Sư phạm Hà Nội 2 bỏ xét học bạ 17 ngành](https://vnexpress.net/phuong-thuc-xet-tuyen-sinh-dai-hoc-su-pham-ha-noi-2-nam-2026-chi-tiet-nhat-4973962.html) - 03:14 22/11/2025
-- 🦩 [Tiến sĩ nhận đến 150 triệu đồng khi về trường Đại học Kinh tế - Luật](https://vnexpress.net/tien-si-nhan-den-150-trieu-dong-khi-ve-truong-dai-hoc-kinh-te-luat-4972632.html) - 01:00 22/11/2025
-- 🌮 [Tranh luận việc xếp bác sĩ nội trú, chuyên khoa I tương đương thạc sĩ](https://vnexpress.net/tranh-luan-viec-xep-bac-si-noi-tru-chuyen-khoa-i-tuong-duong-thac-si-4972478.html) - 14:43 21/11/2025
-- 🔭 [Quốc gia nào từng không có ngày 30/12?](https://vnexpress.net/quoc-gia-nao-tung-khong-co-ngay-30-12-4972734.html) - 12:57 21/11/2025
-- 💡 [Tương quan 4 cặp tứ kết nam Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/tu-ket-nam-bong-ro-tre-2025-4971225.html) - 11:10 21/11/2025
-- 🥰 [Hà Nội dự kiến thi lớp 10 vào cuối tháng 6/2026](https://vnexpress.net/du-kien-lich-thi-lop-10-ha-noi-nam-2026-vao-cuoi-thang-6-4972433.html) - 10:14 21/11/2025
-- 🐲 [Tứ kết Giải Bóng rổ Trẻ VnExpress: Việt Đức - Nguyễn Bỉnh Khiêm](https://vnexpress.net/bong-ro-vnexpress-viet-duc-nguyen-binh-khiem-4972281.html) - 08:54 21/11/2025
+- 🤓 [Tokyo ra quy định cứng rắn với phụ huynh khó tính](https://vnexpress.net/tokyo-ra-quy-dinh-cung-ran-voi-phu-huynh-kho-tinh-4975981.html) - 10:29 22/11/2025
+- 🦆 [Tứ kết nam Giải bóng rổ Trẻ VnExpress diễn ra ngày 23/11](https://vnexpress.net/tu-ket-bong-ro-tre-vnexpress-23-11-4975289.html) - 10:00 22/11/2025
+- 🦩 [Đại học Sư phạm Hà Nội 2 bỏ xét học bạ 17 ngành](https://vnexpress.net/phuong-thuc-xet-tuyen-sinh-dai-hoc-su-pham-ha-noi-2-nam-2026-chi-tiet-nhat-4973962.html) - 03:14 22/11/2025
+- 🌮 [Tiến sĩ nhận đến 150 triệu đồng khi về trường Đại học Kinh tế - Luật](https://vnexpress.net/tien-si-nhan-den-150-trieu-dong-khi-ve-truong-dai-hoc-kinh-te-luat-4972632.html) - 01:00 22/11/2025
+- 🔭 [Tranh luận việc xếp bác sĩ nội trú, chuyên khoa I tương đương thạc sĩ](https://vnexpress.net/tranh-luan-viec-xep-bac-si-noi-tru-chuyen-khoa-i-tuong-duong-thac-si-4972478.html) - 14:43 21/11/2025
+- 💡 [Quốc gia nào từng không có ngày 30/12?](https://vnexpress.net/quoc-gia-nao-tung-khong-co-ngay-30-12-4972734.html) - 12:57 21/11/2025
+- 🥰 [Tương quan 4 cặp tứ kết nam Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/tu-ket-nam-bong-ro-tre-2025-4971225.html) - 11:10 21/11/2025
+- 🐲 [Hà Nội dự kiến thi lớp 10 vào cuối tháng 6/2026](https://vnexpress.net/du-kien-lich-thi-lop-10-ha-noi-nam-2026-vao-cuoi-thang-6-4972433.html) - 10:14 21/11/2025
 - 🦒 [Học trò gánh thịt, cá tặng cô giáo](https://vnexpress.net/hoc-tro-ganh-thit-ca-tang-co-giao-4971455.html) - 06:20 21/11/2025
 - 🦆 [Đề xuất cấp học bổng toàn phần cho người học tiến sĩ](https://vnexpress.net/de-xuat-cap-hoc-bong-toan-phan-cho-nguoi-hoc-tien-si-4971409.html) - 04:28 21/11/2025
 - 🧰 [Top 5 pha ghi điểm vòng bảng Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/top-5-pha-ghi-diem-giai-bong-ro-tre-vnexpress-4971223.html) - 03:30 21/11/2025
