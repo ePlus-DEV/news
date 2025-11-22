@@ -17,7 +17,7 @@ sidebar_position: 10
 - 🦆 [5 món ít calo, giàu protein người béo phì nên ăn thường xuyên](https://vnexpress.net/5-mon-it-calo-giau-protein-nguoi-beo-phi-nen-an-thuong-xuyen-4973396.html) - 04:00 22/11/2025
 - 🚀 [8 cách đơn giản giúp trẻ giảm ho đêm](https://vnexpress.net/8-cach-don-gian-giup-tre-giam-ho-dem-4973426.html) - 03:00 22/11/2025
 - 🌜 [Kháng thể đơn dòng điều trị ung thư là gì?](https://vnexpress.net/khang-the-don-dong-dieu-tri-ung-thu-la-gi-4973382.html) - 03:00 22/11/2025
-- 🧰 [Số trẻ em tử vong do đuối nước ở Việt Nam giảm dần](https://vnexpress.net/so-tre-em-tu-vong-do-duoi-nuoc-o-viet-nam-giam-dan-4973406.html) - 02:38 22/11/2025
+- 🧰 [&#39;Học bơi an toàn giúp duy trì đà giảm tử vong do đuối nước ở trẻ em&#39;](https://vnexpress.net/hoc-boi-an-toan-giup-duy-tri-da-giam-tu-vong-do-duoi-nuoc-o-tre-em-4973406.html) - 02:38 22/11/2025
 - 💫 [Australia lần đầu dùng &#39;quả cầu băng&#39; diệt ung thư](https://vnexpress.net/australia-lan-dau-dung-qua-cau-bang-diet-ung-thu-4973353.html) - 02:32 22/11/2025
 - 🌝 [Huyết áp thấp có cần uống thuốc không?](https://vnexpress.net/huyet-ap-thap-co-can-uong-thuoc-khong-4973424.html) - 01:00 22/11/2025
 - 🗽 [Bị hen suyễn nặng có nên chuyển vào miền Nam sống?](https://vnexpress.net/bi-hen-suyen-nang-co-nen-chuyen-vao-mien-nam-song-4973423.html) - 01:00 22/11/2025
