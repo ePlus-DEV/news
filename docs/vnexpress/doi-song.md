@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Đói, rét ở rốn lũ](https://vnexpress.net/doi-ret-o-ron-lu-4974728.html) - 07:04 22/11/2025
+- 🚀 [Đói, rét ở vùng lũ](https://vnexpress.net/doi-ret-o-vung-lu-4974728.html) - 07:04 22/11/2025
 - 🎓 [Bẫy đỏ đen sau ánh hào quang thể thao](https://vnexpress.net/bay-do-den-sau-anh-hao-quang-the-thao-4972567.html) - 05:36 22/11/2025
 - 🚦 [Cụ bà tặng nhà, trả lương tìm người dưng phụng dưỡng](https://vnexpress.net/cu-ba-tang-nha-tra-luong-tim-nguoi-dung-phung-duong-4973420.html) - 00:56 22/11/2025
 - 🦣 [Chi hàng trăm triệu đồng &#39;ở cữ 5 sao&#39;](https://vnexpress.net/chi-hang-tram-trieu-dong-o-cu-5-sao-4965494.html) - 23:00 21/11/2025
