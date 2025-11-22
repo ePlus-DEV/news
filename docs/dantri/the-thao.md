@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Xuân Son tuyên bố đanh thép sau màn tỏa sáng ở tuyển Việt Nam](https://dantri.com.vn/the-thao/xuan-son-tuyen-bo-danh-thep-sau-man-toa-sang-o-tuyen-viet-nam-20251122105147477.htm) - 03:51 22/11/2025
+- 🎡 [Xuân Son tuyên bố đanh thép sau màn tỏa sáng ở tuyển Việt Nam](https://dantri.com.vn/the-thao/xuan-son-tuyen-bo-danh-thep-sau-man-toa-sang-o-tuyen-viet-nam-20251122105147477.htm) - 05:01 22/11/2025
 - 💯 [Malaysia chỉ gọi 1 cầu thủ nhập tịch đối đầu với U22 Việt Nam ở SEA Games](https://dantri.com.vn/the-thao/malaysia-chi-goi-1-cau-thu-nhap-tich-doi-dau-voi-u22-viet-nam-o-sea-games-20251122100114395.htm) - 03:01 22/11/2025
 - ⛽️ [Nhật Bản kêu gọi FIFA can thiệp sau hành động kỳ lạ của đội U17 Triều Tiên](https://dantri.com.vn/the-thao/nhat-ban-keu-goi-fifa-can-thiep-sau-hanh-dong-ky-la-cua-doi-u17-trieu-tien-20251122091340133.htm) - 02:22 22/11/2025
 - 💃 [Đội tuyển Ý vào chung kết Davis Cup dù không có Sinner](https://dantri.com.vn/the-thao/doi-tuyen-y-vao-chung-ket-davis-cup-du-khong-co-sinner-20251122083212162.htm) - 01:32 22/11/2025
