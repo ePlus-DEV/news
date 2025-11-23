@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Yamal vẩy má kiến tạo siêu đẳng, CĐV trầm trồ thán phục](https://dantri.com.vn/the-thao/yamal-vay-ma-kien-tao-sieu-dang-cdv-tram-tro-than-phuc-20251123170804224.htm) - 10:16 23/11/2025
+- 🎡 [Yamal vẩy má kiến tạo siêu đẳng, CĐV trầm trồ thán phục](https://dantri.com.vn/the-thao/yamal-vay-ma-kien-tao-sieu-dang-cdv-tram-tro-than-phuc-20251123170804224.htm) - 11:01 23/11/2025
 - 💯 [McTominay thăng hoa: Man Utd có hối hận khi đã rũ bỏ người hùng Scotland?](https://dantri.com.vn/the-thao/mctominay-thang-hoa-man-utd-co-hoi-han-khi-da-ru-bo-nguoi-hung-scotland-20251123105909101.htm) - 08:29 23/11/2025
 - ⛽️ [Thủ môn cao 1,91m của U22 Việt Nam tăng giá rất mạnh trước SEA Games 33](https://dantri.com.vn/the-thao/thu-mon-cao-191m-cua-u22-viet-nam-tang-gia-rat-manh-truoc-sea-games-33-20251123142348525.htm) - 08:28 23/11/2025
 - 💃 [Đội tuyển Campuchia nhập tịch 9 cầu thủ, lộ tham vọng ở AFF Cup 2026](https://dantri.com.vn/the-thao/doi-tuyen-campuchia-nhap-tich-9-cau-thu-lo-tham-vong-o-aff-cup-2026-20251123135459931.htm) - 08:26 23/11/2025
