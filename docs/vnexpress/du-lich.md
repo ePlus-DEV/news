@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Hàng trăm nghệ nhân quốc tế sắp dự Lễ hội Cồng chiêng](https://vnexpress.net/hang-tram-nghe-nhan-quoc-te-sap-du-le-hoi-cong-chieng-4984223.html) - 14:40 23/11/2025
 - 🪄 [Du khách bất ngờ gặp băng giá trên đỉnh Fansipan](https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-fansipan-4984242.html) - 13:29 23/11/2025
 - 🦅 [Khách đổ đến thử món ngon tại Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/khach-do-den-thu-mon-ngon-tai-lien-hoan-am-thuc-quoc-te-4982755.html) - 12:59 23/11/2025
-- 🕴 [Phu nhân Tổng Bí thư tham quan Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/phu-nhan-tong-bi-thu-tham-quan-lien-hoan-am-thuc-quoc-te-4983553.html) - 08:54 23/11/2025
+- 🕴 [Bà Ngô Phương Ly tham quan Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/ba-ngo-phuong-ly-tham-quan-lien-hoan-am-thuc-quoc-te-4983553.html) - 08:54 23/11/2025
 - 👀 [Vietjet khai trương đường bay TP HCM - Manila](https://vnexpress.net/vietjet-khai-truong-duong-bay-tp-hcm-manila-4984126.html) - 08:35 23/11/2025
 - 🎭 [Bí mật món cua sốt ớt Singapore nổi tiếng toàn cầu](https://vnexpress.net/bi-mat-mon-cua-sot-ot-singapore-noi-tieng-toan-cau-4975158.html) - 05:52 23/11/2025
 - 🦒 [Điểm ngắm mây &#39;đất trời hòa làm một&#39; ở Tà Xùa](https://vnexpress.net/diem-ngam-may-dat-troi-hoa-lam-mot-o-ta-xua-4964775.html) - 00:00 23/11/2025
