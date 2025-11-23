@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Bà lão ở Hải Phòng suýt mất 239 triệu vì kẻ giả danh cán bộ điều tra](https://dantri.com.vn/phap-luat/ba-lao-o-hai-phong-suyt-mat-239-trieu-vi-ke-gia-danh-can-bo-dieu-tra-20251123203046401.htm) - 14:16 23/11/2025
 - 🐲 [Công an làm việc với người phao tin “hàng trăm người chết” tại xã Hoà Thịnh](https://dantri.com.vn/phap-luat/cong-an-lam-viec-voi-nguoi-phao-tin-hang-tram-nguoi-chet-tai-xa-hoa-thinh-20251123184350292.htm) - 12:38 23/11/2025
-- 🌁 [Một người bị đánh bất tỉnh giữa đường nghi do mâu thuẫn giao thông](https://dantri.com.vn/phap-luat/mot-nguoi-bi-danh-bat-tinh-giua-duong-nghi-do-mau-thuan-giao-thong-20251123184032186.htm) - 11:42 23/11/2025
+- 🌁 [Một người bị đánh bất tỉnh giữa đường ở Hà Nội nghi do mâu thuẫn giao thông](https://dantri.com.vn/phap-luat/mot-nguoi-bi-danh-bat-tinh-giua-duong-o-ha-noi-nghi-do-mau-thuan-giao-thong-20251123184032186.htm) - 11:42 23/11/2025
 - 🎃 [Truy bắt 2 người giấu thi thể nam giới trong túi ở TPHCM](https://dantri.com.vn/phap-luat/truy-bat-2-nguoi-giau-thi-the-nam-gioi-trong-tui-o-tphcm-20251123165127649.htm) - 10:02 23/11/2025
 - 🦅 [Xử lý 52 tài khoản Facebook, TikTok đăng tin sai sự thật về mưa lũ](https://dantri.com.vn/phap-luat/xu-ly-52-tai-khoan-facebook-tiktok-dang-tin-sai-su-that-ve-mua-lu-20251123150132375.htm) - 08:35 23/11/2025
 - 🎭 [Mâu thuẫn việc dọn phòng, du khách đánh đồng hương tử vong ở TPHCM](https://dantri.com.vn/phap-luat/mau-thuan-viec-don-phong-du-khach-danh-dong-huong-tu-vong-o-tphcm-20251121220334233.htm) - 08:11 23/11/2025
