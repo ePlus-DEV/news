@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hàng trăm nghệ nhân quốc tế sắp dự Lễ hội Cồng chiêng](https://vnexpress.net/hang-tram-nghe-nhan-quoc-te-sap-du-le-hoi-cong-chieng-4984223.html) - 14:40 23/11/2025
-- 🪄 [Du khách bất ngờ gặp băng giá trên đỉnh Fansipan](https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-fansipan-4984242.html) - 13:29 23/11/2025
-- 🦅 [Khách đổ đến thử món ngon tại Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/khach-do-den-thu-mon-ngon-tai-lien-hoan-am-thuc-quoc-te-4982755.html) - 12:59 23/11/2025
-- 🕴 [Bà Ngô Phương Ly tham quan Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/ba-ngo-phuong-ly-tham-quan-lien-hoan-am-thuc-quoc-te-4983553.html) - 08:54 23/11/2025
-- 👀 [Vietjet khai trương đường bay TP HCM - Manila](https://vnexpress.net/vietjet-khai-truong-duong-bay-tp-hcm-manila-4984126.html) - 08:35 23/11/2025
-- 🎭 [Bí mật món cua sốt ớt Singapore nổi tiếng toàn cầu](https://vnexpress.net/bi-mat-mon-cua-sot-ot-singapore-noi-tieng-toan-cau-4975158.html) - 05:52 23/11/2025
-- 🦒 [Điểm ngắm mây &#39;đất trời hòa làm một&#39; ở Tà Xùa](https://vnexpress.net/diem-ngam-may-dat-troi-hoa-lam-mot-o-ta-xua-4964775.html) - 00:00 23/11/2025
-- 👨‍🏫 [Du khách chờ săn mây, check in hoa dã quỳ từ rạng sáng](https://vnexpress.net/du-khach-cho-san-may-check-in-hoa-da-quy-tu-rang-sang-4974940.html) - 17:00 22/11/2025
-- ⚗️ [Ngôn ngữ bí mật của tiếp viên trên máy bay](https://vnexpress.net/ngon-ngu-bi-mat-cua-tiep-vien-tren-may-bay-4975364.html) - 14:54 22/11/2025
-- 🥸 [Khách sạn nào lâu đời nhất tại Hà Nội](https://vnexpress.net/khach-san-nao-lau-doi-nhat-tai-ha-noi-4976133.html) - 12:49 22/11/2025
-- 🤠 [Biển chào mừng các tỉnh thành gần 30 năm trước](https://vnexpress.net/bien-chao-mung-cac-tinh-thanh-gan-30-nam-truoc-4965136.html) - 06:39 22/11/2025
-- 🚀 [Tạm dừng xe chở khách lên cột cờ Lũng Cú](https://vnexpress.net/tam-dung-xe-cho-khach-len-cot-co-lung-cu-4972631.html) - 04:55 22/11/2025
-- 💻 [Lũ lớn cuốn trôi cầu treo tại Thác Dray Nur](https://vnexpress.net/lu-lon-cuon-troi-cau-treo-tai-thac-dray-nur-4973136.html) - 03:10 22/11/2025
-- 💼 [Quán bánh cuốn đêm gần 40 năm trong ngõ nhỏ Hà Nội](https://vnexpress.net/quan-banh-cuon-dem-gan-40-nam-trong-ngo-nho-ha-noi-4964285.html) - 00:00 22/11/2025
-- 🤡 [Cà phê phô mai sấy - món uống ít người biết ở Thụy Điển](https://vnexpress.net/ca-phe-pho-mai-say-mon-uong-it-nguoi-biet-o-thuy-dien-4971538.html) - 17:00 21/11/2025
-- 🐵 [Cặp gấu trúc cuối cùng ở Nhật Bản sắp về Trung Quốc](https://vnexpress.net/cap-gau-truc-cuoi-cung-o-nhat-ban-sap-ve-trung-quoc-4973302.html) - 14:19 21/11/2025
-- 😺 [Món thịt heo xay, ăn sống của người Đức](https://vnexpress.net/mon-thit-heo-xay-an-song-cua-nguoi-duc-4972085.html) - 13:00 21/11/2025
-- 🌈 [Những hàng phở Việt ở nước ngoài &#39;bỗng dưng nổi tiếng&#39;](https://vnexpress.net/nhung-hang-pho-viet-o-nuoc-ngoai-bong-dung-noi-tieng-4969199.html) - 12:00 21/11/2025
-- ⚗️ [&#39;Đà Nẵng có cú hích để vươn tầm trung tâm du lịch hàng đầu châu Á&#39;](https://vnexpress.net/da-nang-co-cu-hich-de-vuon-tam-trung-tam-du-lich-hang-dau-chau-a-4972334.html) - 10:00 21/11/2025
-- 👀 [&#39;Đệ nhất thác nước&#39; nam Tây Nguyên chảy xiết, đục ngầu](https://vnexpress.net/de-nhat-thac-nuoc-nam-tay-nguyen-chay-xiet-duc-ngau-4971595.html) - 09:08 21/11/2025
-- 👍 [The Grand Ho Tram - điểm đến mùa cưới và sự kiện cuối năm](https://vnexpress.net/the-grand-ho-tram-diem-den-mua-cuoi-va-su-kien-cuoi-nam-4971136.html) - 07:00 21/11/2025
-- 💄 [Khách gây rối trên máy bay của Pháp sẽ bị phạt tới 20.000 euro](https://vnexpress.net/khach-gay-roi-tren-may-bay-cua-phap-se-bi-phat-toi-20-000-euro-4970941.html) - 06:23 21/11/2025
-- 🥷 [Bí quyết giúp nâng hạng ghế máy bay miễn phí](https://vnexpress.net/bi-quyet-giup-nang-hang-ghe-may-bay-mien-phi-4968882.html) - 05:00 21/11/2025
-- 📝 [Rượu vang có thể kết hợp lòng lợn và mắm tôm?](https://vnexpress.net/ruou-vang-co-the-ket-hop-long-lon-va-mam-tom-4961076.html) - 02:30 21/11/2025
-- 🌜 [Giá phòng ở Lô Lô Chải tăng gấp ba khi qua tay môi giới](https://vnexpress.net/gia-phong-o-lo-lo-chai-tang-gap-ba-khi-qua-tay-moi-gioi-4969376.html) - 00:00 21/11/2025
-- 📝 [Có gì thu hút ở lễ hội hoa tam giác mạch Hà Giang 2025?](https://vnexpress.net/co-gi-thu-hut-o-le-hoi-hoa-tam-giac-mach-ha-giang-2025-4965271.html) - 22:00 20/11/2025
-- 🧰 [Tiệm kem gần 70 năm ở Hà Nội biến mất](https://vnexpress.net/tiem-kem-gan-70-nam-o-ha-noi-bien-mat-4965341.html) - 17:00 20/11/2025
-- 🎬 [Nhật Bản mất gần 10 tỷ USD nếu khách Trung Quốc tiếp tục ngừng đến](https://vnexpress.net/nhat-ban-mat-gan-10-ty-usd-neu-khach-trung-quoc-tiep-tuc-ngung-den-4968621.html) - 12:00 20/11/2025
-- 🧐 [Cây thông giáng sinh xếp từ mô hình kẹo tại TP HCM](https://vnexpress.net/cay-thong-giang-sinh-xep-tu-mo-hinh-keo-tai-tp-hcm-4965775.html) - 09:30 20/11/2025
-- 👨‍🏫 [Khách hủy tour vì sạt lở trên đường đi Đà Lạt](https://vnexpress.net/khach-huy-tour-vi-sat-lo-tren-duong-di-da-lat-4969219.html) - 08:35 20/11/2025
-- 🦣 [Tàu cao tốc đi Phú Quốc, Nam Du dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-nam-du-dung-chay-4969006.html) - 05:47 20/11/2025
-- 🌋 [Hỗ trợ khách nước ngoài mắc kẹt trên tàu do lũ ngập](https://vnexpress.net/ho-tro-khach-nuoc-ngoai-mac-ket-tren-tau-do-lu-ngap-4969085.html) - 05:15 20/11/2025
-- 🦄 [Khách lần đầu trải nghiệm món chè nhân thịt cua](https://vnexpress.net/khach-lan-dau-trai-nghiem-mon-che-nhan-thit-cua-4968320.html) - 04:00 20/11/2025
-- 💡 [Tiệm bánh mì Việt duy nhất ở Hong Kong được Michelin vinh danh](https://vnexpress.net/tiem-banh-mi-viet-duy-nhat-o-hong-kong-duoc-michelin-vinh-danh-4965157.html) - 03:00 20/11/2025
-- 🌏 [Nhà hàng cho khách &#39;xuyên không&#39; về cổ đại dự yến tiệc cung đình ở Bắc Kinh](https://vnexpress.net/nha-hang-cho-khach-xuyen-khong-ve-co-dai-du-yen-tiec-cung-dinh-o-bac-kinh-4965947.html) - 00:00 20/11/2025
-- 💂 [Khách Tây nổi tiếng sau khi đến Việt Nam phẫu thuật thẩm mỹ](https://vnexpress.net/khach-tay-noi-tieng-sau-khi-den-viet-nam-phau-thuat-tham-my-4965982.html) - 17:00 19/11/2025
-- 🤩 [Du khách bất ngờ gặp băng giá trên đỉnh Tà Xùa](https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-ta-xua-4965977.html) - 12:32 19/11/2025
-- 💪 [Vì sao gọi là hoa tam giác mạch?](https://vnexpress.net/vi-sao-goi-la-hoa-tam-giac-mach-4965916.html) - 12:00 19/11/2025
-- 💻 [Khách Việt thích mang mì gói đi du lịch](https://vnexpress.net/khach-viet-thich-mang-mi-goi-di-du-lich-4965848.html) - 08:22 19/11/2025
-- 🧑‍💻 [Khách nước ngoài &#39;no show&#39; gây ám ảnh cho nhà hàng Nhật Bản](https://vnexpress.net/khach-nuoc-ngoai-no-show-gay-am-anh-cho-nha-hang-nhat-ban-4964060.html) - 07:14 19/11/2025
-- 🎭 [Hơn 100 món ngon từ cua Cà Mau cho khách nếm thử](https://vnexpress.net/hon-100-mon-ngon-tu-cua-ca-mau-cho-khach-nem-thu-4965613.html) - 05:29 19/11/2025
-- 🧐 [Điều đầu tiên cần làm khi vào phòng khách sạn](https://vnexpress.net/dieu-dau-tien-can-lam-khi-vao-phong-khach-san-4965711.html) - 04:34 19/11/2025
-- 💡 [Gia đình 4 người chết vì hít phải chất độc trong khách sạn](https://vnexpress.net/gia-dinh-4-nguoi-chet-vi-hit-phai-chat-doc-trong-khach-san-4965689.html) - 02:50 19/11/2025
-- 🌊 [Bên trong du thuyền hơn 11 triệu USD hình cá heo trên vịnh Hạ Long](https://vnexpress.net/ben-trong-du-thuyen-hon-11-trieu-usd-hinh-ca-heo-tren-vinh-ha-long-4965311.html) - 00:00 19/11/2025
-- 🎃 [Nguồn gốc món phở qua góc nhìn người Việt ở nước ngoài](https://vnexpress.net/nguon-goc-mon-pho-qua-goc-nhin-nguoi-viet-o-nuoc-ngoai-4965074.html) - 17:00 18/11/2025
-- 🧠 [Lý do cửa sổ máy bay lệch với hàng ghế ngồi](https://vnexpress.net/ly-do-cua-so-may-bay-lech-voi-hang-ghe-ngoi-4965446.html) - 14:57 18/11/2025
-- 💄 [Du lịch châu Âu &#39;chưa hết khổ&#39;](https://vnexpress.net/du-lich-chau-au-chua-het-kho-4965390.html) - 12:00 18/11/2025
-- 🎬 [Du khách Mỹ chắp tay cúi đầu cảm ơn chủ quán vì ăn ngon](https://vnexpress.net/du-khach-my-chap-tay-cui-dau-cam-on-chu-quan-vi-an-ngon-4965495.html) - 11:07 18/11/2025
-- 🐻 [TikToker hot nhất thế giới làm đại sứ Du lịch của Liên Hợp Quốc](https://vnexpress.net/tiktoker-hot-nhat-the-gioi-lam-dai-su-du-lich-cua-lien-hop-quoc-4965355.html) - 08:37 18/11/2025
-- 🌝 [Gần nửa triệu khách Trung Quốc hủy vé, tour đi Nhật Bản](https://vnexpress.net/gan-nua-trieu-khach-trung-quoc-huy-ve-tour-di-nhat-ban-4965242.html) - 05:33 18/11/2025
-- 🤩 [Cải tạo vườn nhà thành &#39;chốn về quê&#39; cho du khách](https://vnexpress.net/cai-tao-vuon-nha-thanh-chon-ve-que-cho-du-khach-4964778.html) - 04:40 18/11/2025
-- 🎬 [Thăm kênh đào Nyhavn nổi tiếng ở Copenhagen](https://vnexpress.net/tham-kenh-dao-nyhavn-noi-tieng-o-copenhagen-4960903.html) - 04:00 18/11/2025
-- 🦩 [Khám phá hai ngôi làng dưới chân cột cờ Lũng Cú](https://vnexpress.net/kham-pha-hai-ngoi-lang-duoi-chan-cot-co-lung-cu-4958892.html) - 02:00 18/11/2025
-- 🦍 [Du khách hào hứng thi mò cua biển nhanh nhất](https://vnexpress.net/du-khach-hao-hung-thi-mo-cua-bien-nhanh-nhat-4965147.html) - 17:52 17/11/2025
-- 👀 [Khăn sarong - vật &#39;bất ly thân&#39; trong hành lý du lịch](https://vnexpress.net/khan-sarong-vat-bat-ly-than-trong-hanh-ly-du-lich-4964764.html) - 17:00 17/11/2025
-- 🧰 [Ký hiệu khách không muốn nhìn thấy trên vé máy bay](https://vnexpress.net/ky-hieu-khach-khong-muon-nhin-thay-tren-ve-may-bay-4964983.html) - 13:00 17/11/2025
-- 🕯 [Quốc gia nào có biên giới ngắn nhất hành tinh?](https://vnexpress.net/quoc-gia-nao-co-bien-gioi-ngan-nhat-hanh-tinh-4964757.html) - 12:00 17/11/2025
-- 👍 [Du khách trả lại 14 kg đá cuội lấy từ Cô Tô 10 năm trước](https://vnexpress.net/du-khach-tra-lai-14-kg-da-cuoi-lay-tu-co-to-10-nam-truoc-4964830.html) - 04:36 17/11/2025
-- 😎 [Ba đường nối Nha Trang - Đà Lạt, tránh đèo Khánh Lê, Ngoạn Mục sạt lở](https://vnexpress.net/ba-duong-noi-nha-trang-da-lat-tranh-deo-khanh-le-ngoan-muc-sat-lo-4964795.html) - 04:35 17/11/2025
-- 🐘 [Tranh cãi khu resort ở Trung Quốc cho sư tử vào đánh thức khách](https://vnexpress.net/tranh-cai-khu-resort-o-trung-quoc-cho-su-tu-vao-danh-thuc-khach-4964723.html) - 03:35 17/11/2025<!-- vnexpress-du-lich:END -->
+- 💂 [Ba ngày kẹt trên tàu vì ngập lụt của khách Tây](https://vnexpress.net/ba-ngay-ket-tren-tau-vi-ngap-lut-cua-khach-tay-4975832.html) - 17:50 23/11/2025
+- 🪄 [Hàng trăm nghệ nhân quốc tế sắp dự Lễ hội Cồng chiêng](https://vnexpress.net/hang-tram-nghe-nhan-quoc-te-sap-du-le-hoi-cong-chieng-4984223.html) - 14:40 23/11/2025
+- 🦅 [Du khách bất ngờ gặp băng giá trên đỉnh Fansipan](https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-fansipan-4984242.html) - 13:29 23/11/2025
+- 🕴 [Khách đổ đến thử món ngon tại Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/khach-do-den-thu-mon-ngon-tai-lien-hoan-am-thuc-quoc-te-4982755.html) - 12:59 23/11/2025
+- 👀 [Bà Ngô Phương Ly tham quan Liên hoan Ẩm thực Quốc tế](https://vnexpress.net/ba-ngo-phuong-ly-tham-quan-lien-hoan-am-thuc-quoc-te-4983553.html) - 08:54 23/11/2025
+- 🎭 [Vietjet khai trương đường bay TP HCM - Manila](https://vnexpress.net/vietjet-khai-truong-duong-bay-tp-hcm-manila-4984126.html) - 08:35 23/11/2025
+- 🦒 [Bí mật món cua sốt ớt Singapore nổi tiếng toàn cầu](https://vnexpress.net/bi-mat-mon-cua-sot-ot-singapore-noi-tieng-toan-cau-4975158.html) - 05:52 23/11/2025
+- 👨‍🏫 [Điểm ngắm mây &#39;đất trời hòa làm một&#39; ở Tà Xùa](https://vnexpress.net/diem-ngam-may-dat-troi-hoa-lam-mot-o-ta-xua-4964775.html) - 00:00 23/11/2025
+- ⚗️ [Du khách chờ săn mây, check in hoa dã quỳ từ rạng sáng](https://vnexpress.net/du-khach-cho-san-may-check-in-hoa-da-quy-tu-rang-sang-4974940.html) - 17:00 22/11/2025
+- 🥸 [Ngôn ngữ bí mật của tiếp viên trên máy bay](https://vnexpress.net/ngon-ngu-bi-mat-cua-tiep-vien-tren-may-bay-4975364.html) - 14:54 22/11/2025
+- 🤠 [Khách sạn nào lâu đời nhất tại Hà Nội](https://vnexpress.net/khach-san-nao-lau-doi-nhat-tai-ha-noi-4976133.html) - 12:49 22/11/2025
+- 🚀 [Biển chào mừng các tỉnh thành gần 30 năm trước](https://vnexpress.net/bien-chao-mung-cac-tinh-thanh-gan-30-nam-truoc-4965136.html) - 06:39 22/11/2025
+- 💻 [Tạm dừng xe chở khách lên cột cờ Lũng Cú](https://vnexpress.net/tam-dung-xe-cho-khach-len-cot-co-lung-cu-4972631.html) - 04:55 22/11/2025
+- 💼 [Lũ lớn cuốn trôi cầu treo tại Thác Dray Nur](https://vnexpress.net/lu-lon-cuon-troi-cau-treo-tai-thac-dray-nur-4973136.html) - 03:10 22/11/2025
+- 🤡 [Quán bánh cuốn đêm gần 40 năm trong ngõ nhỏ Hà Nội](https://vnexpress.net/quan-banh-cuon-dem-gan-40-nam-trong-ngo-nho-ha-noi-4964285.html) - 00:00 22/11/2025
+- 🐵 [Cà phê phô mai sấy - món uống ít người biết ở Thụy Điển](https://vnexpress.net/ca-phe-pho-mai-say-mon-uong-it-nguoi-biet-o-thuy-dien-4971538.html) - 17:00 21/11/2025
+- 😺 [Cặp gấu trúc cuối cùng ở Nhật Bản sắp về Trung Quốc](https://vnexpress.net/cap-gau-truc-cuoi-cung-o-nhat-ban-sap-ve-trung-quoc-4973302.html) - 14:19 21/11/2025
+- 🌈 [Món thịt heo xay, ăn sống của người Đức](https://vnexpress.net/mon-thit-heo-xay-an-song-cua-nguoi-duc-4972085.html) - 13:00 21/11/2025
+- ⚗️ [Những hàng phở Việt ở nước ngoài &#39;bỗng dưng nổi tiếng&#39;](https://vnexpress.net/nhung-hang-pho-viet-o-nuoc-ngoai-bong-dung-noi-tieng-4969199.html) - 12:00 21/11/2025
+- 👀 [&#39;Đà Nẵng có cú hích để vươn tầm trung tâm du lịch hàng đầu châu Á&#39;](https://vnexpress.net/da-nang-co-cu-hich-de-vuon-tam-trung-tam-du-lich-hang-dau-chau-a-4972334.html) - 10:00 21/11/2025
+- 👍 [&#39;Đệ nhất thác nước&#39; nam Tây Nguyên chảy xiết, đục ngầu](https://vnexpress.net/de-nhat-thac-nuoc-nam-tay-nguyen-chay-xiet-duc-ngau-4971595.html) - 09:08 21/11/2025
+- 💄 [The Grand Ho Tram - điểm đến mùa cưới và sự kiện cuối năm](https://vnexpress.net/the-grand-ho-tram-diem-den-mua-cuoi-va-su-kien-cuoi-nam-4971136.html) - 07:00 21/11/2025
+- 🥷 [Khách gây rối trên máy bay của Pháp sẽ bị phạt tới 20.000 euro](https://vnexpress.net/khach-gay-roi-tren-may-bay-cua-phap-se-bi-phat-toi-20-000-euro-4970941.html) - 06:23 21/11/2025
+- 📝 [Bí quyết giúp nâng hạng ghế máy bay miễn phí](https://vnexpress.net/bi-quyet-giup-nang-hang-ghe-may-bay-mien-phi-4968882.html) - 05:00 21/11/2025
+- 🌜 [Rượu vang có thể kết hợp lòng lợn và mắm tôm?](https://vnexpress.net/ruou-vang-co-the-ket-hop-long-lon-va-mam-tom-4961076.html) - 02:30 21/11/2025
+- 📝 [Giá phòng ở Lô Lô Chải tăng gấp ba khi qua tay môi giới](https://vnexpress.net/gia-phong-o-lo-lo-chai-tang-gap-ba-khi-qua-tay-moi-gioi-4969376.html) - 00:00 21/11/2025
+- 🧰 [Có gì thu hút ở lễ hội hoa tam giác mạch Hà Giang 2025?](https://vnexpress.net/co-gi-thu-hut-o-le-hoi-hoa-tam-giac-mach-ha-giang-2025-4965271.html) - 22:00 20/11/2025
+- 🎬 [Tiệm kem gần 70 năm ở Hà Nội biến mất](https://vnexpress.net/tiem-kem-gan-70-nam-o-ha-noi-bien-mat-4965341.html) - 17:00 20/11/2025
+- 🧐 [Nhật Bản mất gần 10 tỷ USD nếu khách Trung Quốc tiếp tục ngừng đến](https://vnexpress.net/nhat-ban-mat-gan-10-ty-usd-neu-khach-trung-quoc-tiep-tuc-ngung-den-4968621.html) - 12:00 20/11/2025
+- 👨‍🏫 [Cây thông giáng sinh xếp từ mô hình kẹo tại TP HCM](https://vnexpress.net/cay-thong-giang-sinh-xep-tu-mo-hinh-keo-tai-tp-hcm-4965775.html) - 09:30 20/11/2025
+- 🦣 [Khách hủy tour vì sạt lở trên đường đi Đà Lạt](https://vnexpress.net/khach-huy-tour-vi-sat-lo-tren-duong-di-da-lat-4969219.html) - 08:35 20/11/2025
+- 🌋 [Tàu cao tốc đi Phú Quốc, Nam Du dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-nam-du-dung-chay-4969006.html) - 05:47 20/11/2025
+- 🦄 [Hỗ trợ khách nước ngoài mắc kẹt trên tàu do lũ ngập](https://vnexpress.net/ho-tro-khach-nuoc-ngoai-mac-ket-tren-tau-do-lu-ngap-4969085.html) - 05:15 20/11/2025
+- 💡 [Khách lần đầu trải nghiệm món chè nhân thịt cua](https://vnexpress.net/khach-lan-dau-trai-nghiem-mon-che-nhan-thit-cua-4968320.html) - 04:00 20/11/2025
+- 🌏 [Tiệm bánh mì Việt duy nhất ở Hong Kong được Michelin vinh danh](https://vnexpress.net/tiem-banh-mi-viet-duy-nhat-o-hong-kong-duoc-michelin-vinh-danh-4965157.html) - 03:00 20/11/2025
+- 💂 [Nhà hàng cho khách &#39;xuyên không&#39; về cổ đại dự yến tiệc cung đình ở Bắc Kinh](https://vnexpress.net/nha-hang-cho-khach-xuyen-khong-ve-co-dai-du-yen-tiec-cung-dinh-o-bac-kinh-4965947.html) - 00:00 20/11/2025
+- 🤩 [Khách Tây nổi tiếng sau khi đến Việt Nam phẫu thuật thẩm mỹ](https://vnexpress.net/khach-tay-noi-tieng-sau-khi-den-viet-nam-phau-thuat-tham-my-4965982.html) - 17:00 19/11/2025
+- 💪 [Du khách bất ngờ gặp băng giá trên đỉnh Tà Xùa](https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-ta-xua-4965977.html) - 12:32 19/11/2025
+- 💻 [Vì sao gọi là hoa tam giác mạch?](https://vnexpress.net/vi-sao-goi-la-hoa-tam-giac-mach-4965916.html) - 12:00 19/11/2025
+- 🧑‍💻 [Khách Việt thích mang mì gói đi du lịch](https://vnexpress.net/khach-viet-thich-mang-mi-goi-di-du-lich-4965848.html) - 08:22 19/11/2025
+- 🎭 [Khách nước ngoài &#39;no show&#39; gây ám ảnh cho nhà hàng Nhật Bản](https://vnexpress.net/khach-nuoc-ngoai-no-show-gay-am-anh-cho-nha-hang-nhat-ban-4964060.html) - 07:14 19/11/2025
+- 🧐 [Hơn 100 món ngon từ cua Cà Mau cho khách nếm thử](https://vnexpress.net/hon-100-mon-ngon-tu-cua-ca-mau-cho-khach-nem-thu-4965613.html) - 05:29 19/11/2025
+- 💡 [Điều đầu tiên cần làm khi vào phòng khách sạn](https://vnexpress.net/dieu-dau-tien-can-lam-khi-vao-phong-khach-san-4965711.html) - 04:34 19/11/2025
+- 🌊 [Gia đình 4 người chết vì hít phải chất độc trong khách sạn](https://vnexpress.net/gia-dinh-4-nguoi-chet-vi-hit-phai-chat-doc-trong-khach-san-4965689.html) - 02:50 19/11/2025
+- 🎃 [Bên trong du thuyền hơn 11 triệu USD hình cá heo trên vịnh Hạ Long](https://vnexpress.net/ben-trong-du-thuyen-hon-11-trieu-usd-hinh-ca-heo-tren-vinh-ha-long-4965311.html) - 00:00 19/11/2025
+- 🧠 [Nguồn gốc món phở qua góc nhìn người Việt ở nước ngoài](https://vnexpress.net/nguon-goc-mon-pho-qua-goc-nhin-nguoi-viet-o-nuoc-ngoai-4965074.html) - 17:00 18/11/2025
+- 💄 [Lý do cửa sổ máy bay lệch với hàng ghế ngồi](https://vnexpress.net/ly-do-cua-so-may-bay-lech-voi-hang-ghe-ngoi-4965446.html) - 14:57 18/11/2025
+- 🎬 [Du lịch châu Âu &#39;chưa hết khổ&#39;](https://vnexpress.net/du-lich-chau-au-chua-het-kho-4965390.html) - 12:00 18/11/2025
+- 🐻 [Du khách Mỹ chắp tay cúi đầu cảm ơn chủ quán vì ăn ngon](https://vnexpress.net/du-khach-my-chap-tay-cui-dau-cam-on-chu-quan-vi-an-ngon-4965495.html) - 11:07 18/11/2025
+- 🌝 [TikToker hot nhất thế giới làm đại sứ Du lịch của Liên Hợp Quốc](https://vnexpress.net/tiktoker-hot-nhat-the-gioi-lam-dai-su-du-lich-cua-lien-hop-quoc-4965355.html) - 08:37 18/11/2025
+- 🤩 [Gần nửa triệu khách Trung Quốc hủy vé, tour đi Nhật Bản](https://vnexpress.net/gan-nua-trieu-khach-trung-quoc-huy-ve-tour-di-nhat-ban-4965242.html) - 05:33 18/11/2025
+- 🎬 [Cải tạo vườn nhà thành &#39;chốn về quê&#39; cho du khách](https://vnexpress.net/cai-tao-vuon-nha-thanh-chon-ve-que-cho-du-khach-4964778.html) - 04:40 18/11/2025
+- 🦩 [Thăm kênh đào Nyhavn nổi tiếng ở Copenhagen](https://vnexpress.net/tham-kenh-dao-nyhavn-noi-tieng-o-copenhagen-4960903.html) - 04:00 18/11/2025
+- 🦍 [Khám phá hai ngôi làng dưới chân cột cờ Lũng Cú](https://vnexpress.net/kham-pha-hai-ngoi-lang-duoi-chan-cot-co-lung-cu-4958892.html) - 02:00 18/11/2025
+- 👀 [Du khách hào hứng thi mò cua biển nhanh nhất](https://vnexpress.net/du-khach-hao-hung-thi-mo-cua-bien-nhanh-nhat-4965147.html) - 17:52 17/11/2025
+- 🧰 [Khăn sarong - vật &#39;bất ly thân&#39; trong hành lý du lịch](https://vnexpress.net/khan-sarong-vat-bat-ly-than-trong-hanh-ly-du-lich-4964764.html) - 17:00 17/11/2025
+- 🕯 [Ký hiệu khách không muốn nhìn thấy trên vé máy bay](https://vnexpress.net/ky-hieu-khach-khong-muon-nhin-thay-tren-ve-may-bay-4964983.html) - 13:00 17/11/2025
+- 👍 [Quốc gia nào có biên giới ngắn nhất hành tinh?](https://vnexpress.net/quoc-gia-nao-co-bien-gioi-ngan-nhat-hanh-tinh-4964757.html) - 12:00 17/11/2025
+- 😎 [Du khách trả lại 14 kg đá cuội lấy từ Cô Tô 10 năm trước](https://vnexpress.net/du-khach-tra-lai-14-kg-da-cuoi-lay-tu-co-to-10-nam-truoc-4964830.html) - 04:36 17/11/2025
+- 🐘 [Ba đường nối Nha Trang - Đà Lạt, tránh đèo Khánh Lê, Ngoạn Mục sạt lở](https://vnexpress.net/ba-duong-noi-nha-trang-da-lat-tranh-deo-khanh-le-ngoan-muc-sat-lo-4964795.html) - 04:35 17/11/2025<!-- vnexpress-du-lich:END -->
