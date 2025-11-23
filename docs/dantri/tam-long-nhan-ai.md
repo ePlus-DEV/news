@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Báo Dân trí tiếp tục trao 1 tỷ đồng hỗ trợ nhân dân bị lũ lụt tỉnh Đắk Lắk](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-tuc-trao-1-ty-dong-ho-tro-nhan-dan-bi-lu-lut-tinh-dak-lak-20251123131048099.htm) - 06:57 23/11/2025
+- 🌝 [Báo Dân trí tiếp tục trao 1 tỷ đồng hỗ trợ nhân dân tỉnh Đắk Lắk](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-tuc-trao-1-ty-dong-ho-tro-nhan-dan-tinh-dak-lak-20251123131048099.htm) - 06:57 23/11/2025
 - 🌜 [10 năm chiến đấu với bạo bệnh, chàng trai 18 tuổi khát khao được sống](https://dantri.com.vn/tam-long-nhan-ai/10-nam-chien-dau-voi-bao-benh-chang-trai-18-tuoi-khat-khao-duoc-song-20251112182151639.htm) - 22:30 22/11/2025
 - 👀 [Báo Dân trí đã trao nóng 1 tỷ đồng hỗ trợ người dân vùng lũ Gia Lai](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-da-trao-nong-1-ty-dong-ho-tro-nguoi-dan-vung-lu-gia-lai-20251122175940716.htm) - 12:59 22/11/2025
 - 🚀 [Mẹ ung thư đổ gục khi con trai bỏng điện bất động giữa ranh giới sinh tử](https://dantri.com.vn/tam-long-nhan-ai/me-ung-thu-do-guc-khi-con-trai-bong-dien-bat-dong-giua-ranh-gioi-sinh-tu-20251119120540990.htm) - 22:30 21/11/2025
