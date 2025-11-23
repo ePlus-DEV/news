@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Báo Dân trí tiếp tục trao 1 tỷ đồng hỗ trợ nhân dân tỉnh Đắk Lắk](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-tuc-trao-1-ty-dong-ho-tro-nhan-dan-tinh-dak-lak-20251123131048099.htm) - 06:57 23/11/2025
+- 🎭 [Báo Dân trí tiếp tục trao 1 tỷ đồng hỗ trợ nhân dân bị lũ lụt tỉnh Đắk Lắk](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-tuc-trao-1-ty-dong-ho-tro-nhan-dan-bi-lu-lut-tinh-dak-lak-20251123131048099.htm) - 06:57 23/11/2025
 - 👨‍🏫 [Bí thư Đảng ủy xã Hòa Thịnh chia sẻ trên mạng xã hội về tình hình lũ lụt](https://dantri.com.vn/thoi-su/bi-thu-dang-uy-xa-hoa-thinh-chia-se-tren-mang-xa-hoi-ve-tinh-hinh-lu-lut-20251123111627099.htm) - 04:52 23/11/2025
 - 🌮 [Mỹ tiết lộ “tác giả” của kế hoạch hòa bình Ukraine 28 điểm](https://dantri.com.vn/the-gioi/my-tiet-lo-tac-gia-cua-ke-hoach-hoa-binh-ukraine-28-diem-20251123100201837.htm) - 03:11 23/11/2025
 - 🕯 [Bốn ngày chạy lũ trở về, người bảo vệ rơi nước mắt trước cảnh nhà đổ nát](https://dantri.com.vn/thoi-su/bon-ngay-chay-lu-tro-ve-nguoi-bao-ve-roi-nuoc-mat-truoc-canh-nha-do-nat-20251122055628478.htm) - 02:19 23/11/2025
