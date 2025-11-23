@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Hỗ trợ 1.100 tỷ đồng cho 4 tỉnh khắc phục hậu quả mưa lũ](https://vnexpress.net/ho-tro-1-100-ty-dong-cho-4-tinh-khac-phuc-hau-qua-mua-lu-4982958.html) - 05:07 23/11/2025
 - 🎓 [Dòng người nhận hàng cứu trợ ở rốn lũ Đăk Lăk](https://vnexpress.net/dong-nguoi-nhan-hang-cuu-tro-o-ron-lu-dak-lak-4975820.html) - 04:29 23/11/2025
 - 🔥 [Cầu Bình Triệu cho ôtô chạy sau nâng cao hơn một mét](https://vnexpress.net/cau-binh-trieu-cho-oto-chay-sau-nang-cao-hon-mot-met-4982777.html) - 04:04 23/11/2025
-- 🦏 [Trực thăng tiếp tục bay cứu trợ khu vực Đăk Lăk](https://vnexpress.net/truc-thang-tiep-tuc-bay-cuu-tro-khu-vuc-dak-lak-4982703.html) - 02:55 23/11/2025
+- 🦏 [9 chuyến trực thăng chở hàng hóa tới vùng lũ Đăk Lăk](https://vnexpress.net/9-chuyen-truc-thang-cho-hang-hoa-toi-vung-lu-dak-lak-4982703.html) - 02:55 23/11/2025
 - 👺 [Ôtô biến dạng sau tai nạn liên hoàn trên vành đai 3](https://vnexpress.net/oto-bien-dang-sau-tai-nan-lien-hoan-tren-vanh-dai-3-4982205.html) - 01:54 23/11/2025
 - 🧑‍🏫 [90 người chết do mưa lũ, Đăk Lăk thêm 19 trường hợp](https://vnexpress.net/90-nguoi-chet-do-mua-lu-dak-lak-them-19-truong-hop-4982564.html) - 01:49 23/11/2025
 - 🚦 [Tại sao Hòa Thịnh, Đông Hòa thành rốn lũ?](https://vnexpress.net/tai-sao-hoa-thinh-dong-hoa-thanh-ron-lu-4976051.html) - 00:00 23/11/2025
