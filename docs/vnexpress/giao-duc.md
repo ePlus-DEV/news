@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Một tỉnh ở Canada tăng gấp 3 mức chứng minh tài chính du học](https://vnexpress.net/mot-tinh-o-canada-tang-gap-3-muc-chung-minh-tai-chinh-du-hoc-4984012.html) - 08:08 23/11/2025
-- 🦆 [Nguyễn Tất Thành - Lý Thái Tổ: Tứ kết Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/nguyen-tat-thanh-ly-thai-to-tu-ket-giai-bong-ro-tre-vnexpress-4972311.html) - 07:15 23/11/2025
+- 🦆 [Tứ kết nam 4: Nguyễn Tất Thành 50–42 Lý Thái Tổ](https://vnexpress.net/tu-ket-nam-4-nguyen-tat-thanh-50-42-ly-thai-to-4972311.html) - 07:15 23/11/2025
 - 🦩 [Tứ kết nam 3: Alpha 39–68 Vinschool The Harmony](https://vnexpress.net/tu-ket-nam-3-alpha-39-68-vinschool-the-harmony-4972294.html) - 05:15 23/11/2025
 - 🌮 [Lũ cuốn trôi sinh kế, sinh viên lo không có tiền đóng học](https://vnexpress.net/lu-cuon-troi-sinh-ke-sinh-vien-lo-khong-co-tien-dong-hoc-4976837.html) - 03:48 23/11/2025
 - 🔭 [Tứ kết nam 2: Việt Đức 56–54 Nguyễn Bỉnh Khiêm](https://vnexpress.net/bong-ro-vnexpress-viet-duc-nguyen-binh-khiem-4972281.html) - 02:48 23/11/2025
