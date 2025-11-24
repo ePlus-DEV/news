@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Hỗ trợ quân nhân có 2 em nử vong do sạt lở tại Đắk Lắk](https://dantri.com.vn/doi-song/ho-tro-quan-nhan-co-2-em-nu-vong-do-sat-lo-tai-dak-lak-20251124132059067.htm) - 07:18 24/11/2025
+- 🥳 [Hỗ trợ quân nhân có 2 em tử vong do sạt lở tại Đắk Lắk](https://dantri.com.vn/doi-song/ho-tro-quan-nhan-co-2-em-tu-vong-do-sat-lo-tai-dak-lak-20251124132059067.htm) - 07:18 24/11/2025
 - 🌁 [Nhà cổ Hội An đối mặt nguy cơ tổn thương do ngập lụt liên miên](https://dantri.com.vn/doi-song/nha-co-hoi-an-doi-mat-nguy-co-ton-thuong-do-ngap-lut-lien-mien-20251123102758042.htm) - 04:47 24/11/2025
 - 👀 [Lào Cai: Người đàn ông báo công an vì tưởng bị lừa, ai ngờ trúng iPhone 17](https://dantri.com.vn/doi-song/lao-cai-nguoi-dan-ong-bao-cong-an-vi-tuong-bi-lua-ai-ngo-trung-iphone-17-20251124104510423.htm) - 04:36 24/11/2025
 - 🐻 [Lạc vào vườn nho trĩu quả giữa lòng TPHCM](https://dantri.com.vn/doi-song/lac-vao-vuon-nho-triu-qua-giua-long-tphcm-20251118210329762.htm) - 03:23 24/11/2025
