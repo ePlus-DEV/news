@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Cảnh cáo người phụ nữ ở TPHCM đăng tin sai sự thật về mưa lũ miền Trung](https://dantri.com.vn/phap-luat/canh-cao-nguoi-phu-nu-o-tphcm-dang-tin-sai-su-that-ve-mua-lu-mien-trung-20251124202628994.htm) - 13:51 24/11/2025
-- 🐲 [Công an truy tìm nam thanh niên bịt mặt cướp dây chuyền ở tiệm vàng](https://dantri.com.vn/thoi-su/cong-an-truy-tim-nam-thanh-nien-bit-mat-cuop-day-chuyen-o-tiem-vang-20251124190105852.htm) - 12:59 24/11/2025
+- 🐲 [Công an truy tìm nam thanh niên bịt mặt cướp dây chuyền ở tiệm vàng](https://dantri.com.vn/phap-luat/cong-an-truy-tim-nam-thanh-nien-bit-mat-cuop-day-chuyen-o-tiem-vang-20251124190105852.htm) - 12:59 24/11/2025
 - 🌁 [Nhận 3 tỷ đồng &quot;chạy án&quot;, 4 người đưa nhau vào tù](https://dantri.com.vn/phap-luat/nhan-3-ty-dong-chay-an-4-nguoi-dua-nhau-vao-tu-20251124162915267.htm) - 10:59 24/11/2025
 - 🎃 [Gã trai đi ô tô, lừa shipper để lấy 300.000 đồng](https://dantri.com.vn/phap-luat/ga-trai-di-o-to-lua-shipper-de-lay-300000-dong-20251124171424962.htm) - 10:23 24/11/2025
 - 🦅 [Vụ cô gái Nghệ An mất tích, thi thể ở Hưng Yên: Bắt một nghi phạm](https://dantri.com.vn/phap-luat/vu-co-gai-nghe-an-mat-tich-thi-the-o-hung-yen-bat-mot-nghi-pham-20251124154203983.htm) - 08:47 24/11/2025
