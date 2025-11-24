@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Miền Trung có thể chịu ảnh hưởng của bão](https://vnexpress.net/mien-trung-co-the-chiu-anh-huong-cua-bao-4985578.html) - 09:39 24/11/2025
+- 🦒 [Miền Trung có thể sắp chịu ảnh hưởng của bão](https://vnexpress.net/mien-trung-co-the-sap-chiu-anh-huong-cua-bao-4985578.html) - 09:39 24/11/2025
 - 🤓 [&#39;Nền tảng số phải chia sẻ doanh thu với báo chí nếu lấy thông tin&#39;](https://vnexpress.net/nen-tang-so-phai-chia-se-doanh-thu-voi-bao-chi-neu-lay-thong-tin-4985545.html) - 09:31 24/11/2025
 - ⚗️ [Cháy lớn ở xưởng tái chế nhựa](https://vnexpress.net/chay-lon-o-xuong-tai-che-nhua-4985587.html) - 09:19 24/11/2025
 - 🌊 [Công bố tình huống khẩn cấp sạt lở đèo Khánh Lê và nhiều tuyến đường](https://vnexpress.net/cong-bo-tinh-huong-khan-cap-sat-lo-deo-khanh-le-va-nhieu-tuyen-duong-4985559.html) - 09:03 24/11/2025
