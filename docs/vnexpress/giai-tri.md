@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tuấn Trần đóng phim huyền sử về Đinh Tiên Hoàng](https://vnexpress.net/tuan-tran-dong-phim-huyen-su-ve-dinh-tien-hoang-4985683.html) - 13:54 24/11/2025
-- 💫 [Rodríguez &#39;lột xác&#39; phong cách qua 9 năm yêu Ronaldo](https://vnexpress.net/rodriguez-lot-xac-phong-cach-qua-9-nam-yeu-ronaldo-4985455.html) - 13:00 24/11/2025
+- 💫 [Phong cách Rodríguez qua 9 năm yêu Ronaldo](https://vnexpress.net/phong-cach-rodriguez-qua-9-nam-yeu-ronaldo-4985455.html) - 13:00 24/11/2025
 - 🌮 [&#39;Tháp đồng cảm Tokyo&#39; - khi người trẻ cô đơn](https://vnexpress.net/thap-dong-cam-tokyo-khi-nguoi-tre-co-don-4975594.html) - 12:00 24/11/2025
 - 🧠 [Tùng Leo, Tuấn Ngọc đồng hành diễn đàn sáng tạo số tại Vietnam iContent](https://vnexpress.net/tung-leo-tuan-ngoc-dong-hanh-dien-dan-sang-tao-so-tai-vietnam-icontent-4965911.html) - 12:00 24/11/2025
 - 👨‍🏫 [Tài tử &#39;Hồ sơ trinh sát&#39;: Có phúc lấy được vợ hiền](https://vnexpress.net/tai-tu-ho-so-trinh-sat-co-phuc-lay-duoc-vo-hien-4985555.html) - 11:30 24/11/2025
