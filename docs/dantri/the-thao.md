@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [C.Ronaldo và Messi thi nhau khiến làng túc cầu dậy sóng](https://dantri.com.vn/the-thao/cronaldo-va-messi-thi-nhau-khien-lang-tuc-cau-day-song-20251124175411616.htm) - 10:54 24/11/2025
+- 🎡 [C.Ronaldo và Messi thi nhau khiến làng túc cầu dậy sóng](https://dantri.com.vn/the-thao/cronaldo-va-messi-thi-nhau-khien-lang-tuc-cau-day-song-20251124175411616.htm) - 11:06 24/11/2025
 - 💯 [LĐBĐ Malaysia đối mặt với hậu quả nghiêm trọng khi thách thức FIFA](https://dantri.com.vn/the-thao/ldbd-malaysia-doi-mat-voi-hau-qua-nghiem-trong-khi-thach-thuc-fifa-20251124111356464.htm) - 05:12 24/11/2025
 - ⛽️ [Võ sĩ MMA qua đời thương tâm ngay trên sàn đấu ở tuổi 31](https://dantri.com.vn/the-thao/vo-si-mma-qua-doi-thuong-tam-ngay-tren-san-dau-o-tuoi-31-20251124120850184.htm) - 05:11 24/11/2025
 - 💃 [Lionel Messi lập kỷ lục, đưa Inter Miami vào chung kết](https://dantri.com.vn/the-thao/lionel-messi-lap-ky-luc-dua-inter-miami-vao-chung-ket-20251124102412900.htm) - 03:49 24/11/2025
