@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Nhật Bản khó tìm thị trường thay thế khách Trung Quốc](https://vnexpress.net/nhat-ban-kho-tim-thi-truong-thay-the-khach-trung-quoc-4985401.html) - 06:47 24/11/2025
-- 🪄 [Vĩnh Khánh vào danh sách 10 đường phố thú vị nhất thế giới](https://vnexpress.net/vinh-khanh-vao-danh-sach-10-duong-pho-thu-vi-nhat-the-gioi-4985360.html) - 05:22 24/11/2025
+- 🪄 [Vĩnh Khánh vào danh sách đường phố thú vị nhất thế giới](https://vnexpress.net/vinh-khanh-vao-danh-sach-duong-pho-thu-vi-nhat-the-gioi-4985360.html) - 05:22 24/11/2025
 - 🦅 [Mường Thanh trao giải cho cuộc thi vẽ tranh thiếu nhi](https://vnexpress.net/muong-thanh-trao-giai-cho-cuoc-thi-ve-tranh-thieu-nhi-4982716.html) - 04:15 24/11/2025
 - 🕴 [Nhật Bản, Hàn Quốc hút khách Việt săn tuyết](https://vnexpress.net/nhat-ban-han-quoc-hut-khach-viet-san-tuyet-4975770.html) - 00:00 24/11/2025
 - 👀 [Ba ngày kẹt trên tàu vì ngập lụt của khách Tây](https://vnexpress.net/ba-ngay-ket-tren-tau-vi-ngap-lut-cua-khach-tay-4975832.html) - 17:50 23/11/2025
