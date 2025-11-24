@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Kim Yoo Jung &#39;lột xác&#39; với vai ác](https://vnexpress.net/kim-yoo-jung-lot-xac-voi-vai-ac-4963670.html) - 07:27 24/11/2025
 - 💫 [Hòa Minzy sẽ hát &#39;Bắc Bling&#39; ở lễ trao giải Vietnam iContent 2025](https://vnexpress.net/hoa-minzy-se-hat-bac-bling-o-le-trao-giai-vietnam-icontent-2025-4984090.html) - 07:01 24/11/2025
-- 🌮 [Tác giả &#39;Bắc Bling&#39; viết ca khúc về trò chơi dân gian](https://vnexpress.net/tac-gia-bac-bling-viet-ca-khuc-ve-tro-choi-dan-gian-4985322.html) - 06:45 24/11/2025
+- 🌮 [Tác giả &#39;Bắc Bling&#39; viết ca khúc về oẳn tù tì](https://vnexpress.net/tac-gia-bac-bling-viet-ca-khuc-ve-oan-tu-ti-4985322.html) - 06:45 24/11/2025
 - 🧠 [Katy Perry đi chùa ở Trung Quốc](https://vnexpress.net/katy-perry-di-chua-o-trung-quoc-4985366.html) - 05:31 24/11/2025
 - 👨‍🏫 [Lại Mai Hoa: &#39;Sự nghiêm khắc của Thanh Hằng rèn giũa tôi&#39;](https://vnexpress.net/lai-mai-hoa-su-nghiem-khac-cua-thanh-hang-ren-giua-toi-4955444.html) - 04:30 24/11/2025
 - ⚗️ [Nhan sắc &#39;ngọc trai đen&#39; đoạt á hậu Miss Universe](https://vnexpress.net/nhan-sac-ngoc-trai-den-doat-a-hau-miss-universe-4969654.html) - 04:23 24/11/2025
