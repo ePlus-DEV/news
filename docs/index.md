@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Tạo hành lang pháp lý để lập các cơ quan truyền thông chủ lực ở Hà Nội và TP HCM](https://nld.com.vn/tao-hanh-lang-phap-ly-de-lap-cac-co-quan-truyen-thong-chu-luc-o-ha-noi-va-tp-hcm-196251124165949449.htm) - 11:44 24/11/2025
+- 🐎 [Tạo hành lang pháp lý để lập các cơ quan truyền thông chủ lực ở Hà Nội và TPHCM](https://nld.com.vn/tao-hanh-lang-phap-ly-de-lap-cac-co-quan-truyen-thong-chu-luc-o-ha-noi-va-tp-hcm-196251124165949449.htm) - 11:44 24/11/2025
 - 😺 [Bắt đối tượng có lệnh truy nã đặc biệt nguy hiểm](https://nld.com.vn/bat-doi-tuong-co-lenh-truy-na-dac-biet-nguy-hiem-19625112418263083.htm) - 11:40 24/11/2025
 - 👍 [Tổng thống Philippines mạnh tay trị tham nhũng cơ sở hạ tầng chống lũ](https://nld.com.vn/tong-thong-philippines-manh-tay-tri-tham-nhung-co-so-ha-tang-chong-lu-196251124174237584.htm) - 11:40 24/11/2025
 - 🥷 [Đề xuất thành lập Khu thương mại tự do TP HCM](https://nld.com.vn/de-xuat-thanh-lap-khu-thuong-mai-tu-do-tp-hcm-196251124182607208.htm) - 11:38 24/11/2025
