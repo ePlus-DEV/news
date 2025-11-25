@@ -4,9 +4,9 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sân bay Liên Khương đóng cửa 4 tháng để nâng cấp](https://vnexpress.net/san-bay-lien-khuong-4986036.html) - 09:21 25/11/2025
-- 🤓 [&#39;Thủ phủ&#39; tôm hùm bị xóa sổ sau lũ lịch sử](https://vnexpress.net/thu-phu-tom-hum-bi-xoa-so-sau-lu-lich-su-4985976.html) - 08:30 25/11/2025
-- ⚗️ [Bão lũ từ đầu năm gây thiệt hại hơn 85.000 tỷ đồng](https://vnexpress.net/bao-lu-tu-dau-nam-gay-thiet-hai-hon-85-000-ty-dong-4985965.html) - 08:18 25/11/2025
+- 🦒 [Sân bay Liên Khương dừng khai thác 6 tháng](https://vnexpress.net/san-bay-lien-khuong-4986036.html) - 09:21 25/11/2025
+- 🤓 [Thủ phủ tôm hùm bị xóa sổ sau lũ lịch sử](https://vnexpress.net/thu-phu-tom-hum-bi-xoa-so-sau-lu-lich-su-4985976.html) - 08:30 25/11/2025
+- ⚗️ [Bão lũ gây thiệt hại hơn 85.000 tỷ đồng](https://vnexpress.net/bao-lu-gay-thiet-hai-hon-85-000-ty-dong-4985965.html) - 08:18 25/11/2025
 - 🌊 [Garage ở Nha Trang kín xe hỏng sau lũ](https://vnexpress.net/garage-o-nha-trang-kin-xe-hong-sau-lu-4985695.html) - 06:40 25/11/2025
 - 🎓 [Đại học đa ngành sẽ không được phép đào tạo bác sĩ, cử nhân luật](https://vnexpress.net/dai-hoc-da-nganh-se-khong-duoc-phep-dao-tao-bac-si-cu-nhan-luat-4985929.html) - 06:35 25/11/2025
 - 🔥 [&#39;Phát triển là phải để người dân sống vui, không lo hết tiền hay ốm đau&#39;](https://vnexpress.net/phat-trien-la-phai-de-nguoi-dan-song-vui-khong-lo-het-tien-hay-om-dau-4985878.html) - 06:11 25/11/2025
