@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Malaysia bình luận khi U17 Việt Nam đại thắng 14-0, vượt mặt đội nhà](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-khi-u17-viet-nam-dai-thang-14-0-vuot-mat-doi-nha-20251125133148819.htm) - 06:32 25/11/2025
+- 🎡 [Báo Malaysia bình luận khi U17 Việt Nam đại thắng 14-0, vượt mặt đội nhà](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-khi-u17-viet-nam-dai-thang-14-0-vuot-mat-doi-nha-20251125133148819.htm) - 07:01 25/11/2025
 - 💯 [Cầu thủ ở Thái Lan kêu cứu vì lụt, có thể dời sân thi đấu của U22 Việt Nam](https://dantri.com.vn/the-thao/cau-thu-o-thai-lan-keu-cuu-vi-lut-co-the-doi-san-thi-dau-cua-u22-viet-nam-20251125123841736.htm) - 05:46 25/11/2025
 - ⛽️ [HLV Flick báo tin vui về lực lượng, HLV Chelsea chỉ cách đánh bại Barcelona](https://dantri.com.vn/the-thao/hlv-flick-bao-tin-vui-ve-luc-luong-hlv-chelsea-chi-cach-danh-bai-barcelona-20251125111146937.htm) - 05:37 25/11/2025
 - 💃 [HLV Ruben Amorim nói thật lòng sau trận thua bẽ mặt của Man Utd](https://dantri.com.vn/the-thao/hlv-ruben-amorim-noi-that-long-sau-tran-thua-be-mat-cua-man-utd-20251125095020609.htm) - 03:01 25/11/2025
