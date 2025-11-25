@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vì sao lễ tân không nói to số phòng của khách?](https://vnexpress.net/vi-sao-le-tan-khong-noi-to-so-phong-cua-khach-4986080.html) - 15:00 25/11/2025
+- 💂 [Vì sao lễ tân không nói to số phòng của khách?](https://vnexpress.net/vi-sao-le-tan-khong-noi-to-so-phong-cua-khach-4986080.html) - 17:00 25/11/2025
 - 🪄 [Những khoảnh khắc văn hóa Việt đoạt giải Ảnh Di sản 2025](https://vnexpress.net/nhung-khoanh-khac-van-hoa-viet-doat-giai-anh-di-san-2025-4986040.html) - 13:46 25/11/2025
 - 🦅 [Đỉnh núi nào của Việt Nam từng có lượng mưa xếp thứ hai thế giới?](https://vnexpress.net/dinh-nui-nao-cua-viet-nam-tung-co-luong-mua-xep-thu-hai-the-gioi-4985217.html) - 12:00 25/11/2025
 - 🕴 [Hàng nghìn du khách mắc kẹt tại Thái Lan vì lũ lụt](https://vnexpress.net/hang-nghin-du-khach-mac-ket-tai-thai-lan-vi-lu-lut-4985966.html) - 09:12 25/11/2025
