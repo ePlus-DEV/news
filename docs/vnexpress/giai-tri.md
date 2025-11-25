@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Con trai trưởng nhóm Bức Tường sáng tác nhạc](https://vnexpress.net/con-trai-truong-nhom-buc-tuong-sang-tac-nhac-4985400.html) - 02:46 25/11/2025
 - 💫 [Jennifer Lopez nhận 2 triệu USD hát đám cưới](https://vnexpress.net/jennifer-lopez-nhan-2-trieu-usd-hat-dam-cuoi-4985748.html) - 02:28 25/11/2025
 - 🌮 [Lee Soon Jae, &#39;Ông nội quốc dân&#39; màn ảnh Hàn, qua đời](https://vnexpress.net/lee-soon-jae-ong-noi-quoc-dan-man-anh-han-qua-doi-4985747.html) - 01:20 25/11/2025
-- 🧠 [Nghệ sĩ vẽ tác phẩm 3D trên mặt bằng miệng](https://vnexpress.net/nghe-si-ve-tac-pham-3d-tren-mat-bang-mieng-4985448.html) - 17:06 24/11/2025
+- 🧠 [Nghệ sĩ dùng miệng vẽ tác phẩm 3D trên mặt](https://vnexpress.net/nghe-si-dung-mieng-ve-tac-pham-3d-tren-mat-4985448.html) - 17:06 24/11/2025
 - 👨‍🏫 [Tranh của danh họa lần đầu trưng bày ở Việt Nam](https://vnexpress.net/tranh-cua-danh-hoa-lan-dau-trung-bay-o-viet-nam-4975298.html) - 17:00 24/11/2025
 - ⚗️ [Á hậu Miss Universe 2025 từ bỏ danh hiệu](https://vnexpress.net/a-hau-miss-universe-2025-tu-bo-danh-hieu-4985709.html) - 16:15 24/11/2025
 - 😎 [Tuấn Trần đóng phim huyền sử về Đinh Tiên Hoàng](https://vnexpress.net/tuan-tran-dong-phim-huyen-su-ve-dinh-tien-hoang-4985683.html) - 13:54 24/11/2025
