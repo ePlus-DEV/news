@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Báo in ngày 27-11: Thương lắm ngày đến trường sau lũ dữ](https://nld.com.vn/bao-in-ngay-27-11-thuong-lam-ngay-den-truong-sau-lu-du-196251126225934244.htm) - 16:59 26/11/2025
-- 😺 [Cháy 8 tòa nhà ở Hồng Kông: Hơn 8 tiếng vẫn chưa dập được, còn nhiều người mắc kẹt](https://nld.com.vn/chay-8-toa-nha-o-hong-kong-hon-8-tieng-van-chua-dap-duoc-con-nhieu-nguoi-mac-ket-196251126215629296.htm) - 15:26 26/11/2025
+- 😺 [Cháy 8 tòa nhà ở Hồng Kông: Thương vong nặng nề, còn hàng trăm người mất tích](https://nld.com.vn/chay-8-toa-nha-o-hong-kong-hon-8-tieng-van-chua-dap-duoc-con-nhieu-nguoi-mac-ket-196251126215629296.htm) - 15:26 26/11/2025
 - 👍 [TP Hà Nội hỗ trợ tỉnh Gia Lai 200 tỉ đồng khắc phục hậu quả mưa, lũ](https://nld.com.vn/tp-ha-noi-ho-tro-tinh-gia-lai-200-ti-dong-khac-phuc-hau-qua-mua-lu-19625112621240699.htm) - 15:16 26/11/2025
 - 🥷 [U22 Việt Nam tăng cường rèn đấu pháp chiến thuật](https://nld.com.vn/u22-viet-nam-tang-cuong-ren-dau-phap-chien-thuat-196251126214417402.htm) - 15:05 26/11/2025
 - 🤔 [Branded Living By Masterise Homes: Tương lai của bất động sản cao cấp tại Việt Nam](https://diaoc.nld.com.vn/branded-living-by-masterise-homes-tuong-lai-cua-bat-dong-san-cao-cap-tai-viet-nam-196251126202216157.htm) - 15:00 26/11/2025
