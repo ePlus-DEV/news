@@ -13,7 +13,7 @@ sidebar_position: 12
 - 🤡 [Cảnh sát đột kích, khống chế nghi phạm cướp ở TP HCM](https://vnexpress.net/canh-sat-dot-kich-khong-che-nghi-pham-cuop-o-tp-hcm-4986250.html) - 02:56 26/11/2025
 - 🗽 [Đưa 24 người vượt biên sang Đài Loan bằng tàu cá](https://vnexpress.net/dua-24-nguoi-vuot-bien-sang-dai-loan-bang-tau-ca-4986239.html) - 02:55 26/11/2025
 - 🌋 [Đề xuất chỉ dùng dao đầu tròn trong nấu ăn ở Anh để giảm án giết người](https://vnexpress.net/de-xuat-chi-dung-dao-dau-tron-trong-nau-an-o-anh-de-giam-an-giet-nguoi-4986135.html) - 17:00 25/11/2025
-- 🎬 [Thủ phạm dùng xyanua đầu độc 4 người thân bị xét xử](https://vnexpress.net/thu-pham-dung-xyanua-dau-doc-4-nguoi-than-bi-xet-xu-4986129.html) - 17:00 25/11/2025
+- 🎬 [Thủ phạm dùng xyanua đầu độc 4 người thân sắp bị xét xử](https://vnexpress.net/thu-pham-dung-xyanua-dau-doc-4-nguoi-than-sap-bi-xet-xu-4986129.html) - 17:00 25/11/2025
 - 💯 [Tin nhắn cuối cùng của thiếu nữ 19 tuổi trước khi mất tích](https://vnexpress.net/tin-nhan-cuoi-cung-cua-thieu-nu-19-tuoi-truoc-khi-mat-tich-4986075.html) - 17:00 25/11/2025
 - 🌏 [Người thuê trả nhà sớm, chủ từ chối trả cọc được không?](https://vnexpress.net/nguoi-thue-tra-nha-som-chu-tu-choi-tra-coc-duoc-khong-4972042.html) - 17:00 25/11/2025
 - 🌊 [Kết cục tù tội của cô bồi bàn lấy chồng triệu phú](https://vnexpress.net/ket-cuc-tu-toi-cua-co-boi-ban-lay-chong-trieu-phu-4986110.html) - 15:50 25/11/2025
