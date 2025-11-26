@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Tư lệnh Sudan kêu gọi ông Trump giúp chấm dứt nội chiến](https://vnexpress.net/tu-lenh-sudan-keu-goi-ong-trump-giup-cham-dut-noi-chien-4986548.html) - 12:25 26/11/2025
 - 🤭 [Túi sinh tồn - bộ dụng cụ cứu mạng người Nhật giữa thiên tai](https://vnexpress.net/tui-sinh-ton-bo-dung-cu-cuu-mang-nguoi-nhat-giua-thien-tai-4986320.html) - 12:00 26/11/2025
 - 🧑‍💻 [Công ty Trung Quốc khoe tên lửa siêu vượt âm có thể vươn tới Nhật](https://vnexpress.net/cong-ty-trung-quoc-khoe-ten-lua-sieu-vuot-am-co-the-vuon-toi-nhat-4986505.html) - 11:24 26/11/2025
-- 🦏 [Lửa bao trùm cụm chung cư ở Hong Kong, 4 người chết](https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-4-nguoi-chet-4986525.html) - 11:05 26/11/2025
+- 🦏 [Lửa bao trùm cụm chung cư ở Hong Kong, 13 người chết](https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-13-nguoi-chet-4986525.html) - 11:05 26/11/2025
 - 🦒 [Nga nói một số điểm trong kế hoạch hòa bình Ukraine &#39;tích cực&#39;](https://vnexpress.net/nga-noi-mot-so-diem-trong-ke-hoach-hoa-binh-ukraine-tich-cuc-4986498.html) - 10:07 26/11/2025
 - 🌈 [Lũ lụt khiến 33 người ở Thái Lan thiệt mạng](https://vnexpress.net/lu-lut-khien-33-nguoi-o-thai-lan-thiet-mang-4986459.html) - 09:59 26/11/2025
 - 🧑‍🏫 [Bộ trưởng Mỹ có thể đã cảnh báo Ukraine về &#39;thất bại cận kề&#39;](https://vnexpress.net/bo-truong-my-co-the-da-canh-bao-ukraine-ve-that-bai-can-ke-4986475.html) - 09:47 26/11/2025
