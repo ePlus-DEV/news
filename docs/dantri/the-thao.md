@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U17 Việt Nam thắng vất vả U17 Hong Kong, bị U17 Malaysia áp sát](https://dantri.com.vn/the-thao/u17-viet-nam-thang-vat-va-u17-hong-kong-bi-u17-malaysia-ap-sat-20251126213428028.htm) - 14:45 26/11/2025
-- 💯 [U22 Campuchia rút khỏi SEA Games 33, bóng đá nam có thể bốc thăm lại](https://dantri.com.vn/the-thao/u22-campuchia-rut-khoi-sea-games-33-bong-da-nam-co-the-boc-tham-lai-20251126205158768.htm) - 13:52 26/11/2025
+- 💯 [U22 Campuchia rút khỏi SEA Games 33, bóng đá nam có thể bốc thăm lại](https://dantri.com.vn/the-thao/u22-campuchia-rut-khoi-sea-games-33-bong-da-nam-co-the-boc-tham-lai-20251126205158768.htm) - 13:22 26/11/2025
 - ⛽️ [Báo Malaysia khó hiểu vì động thái lạ của 7 cầu thủ nhập tịch gian lận](https://dantri.com.vn/the-thao/bao-malaysia-kho-hieu-vi-dong-thai-la-cua-7-cau-thu-nhap-tich-gian-lan-20251126192859426.htm) - 12:29 26/11/2025
 - 💃 [FIFA thay đổi lớn ở World Cup 2026, nhiều “ông lớn” hưởng lợi](https://dantri.com.vn/the-thao/fifa-thay-doi-lon-o-world-cup-2026-nhieu-ong-lon-huong-loi-20251126183827457.htm) - 12:15 26/11/2025
 - 🌈 [Một năm của Ruben Amorim tại Man Utd: Viết lại trật tự từ hỗn loạn](https://dantri.com.vn/the-thao/mot-nam-cua-ruben-amorim-tai-man-utd-viet-lai-trat-tu-tu-hon-loan-20251126150514616.htm) - 09:07 26/11/2025
