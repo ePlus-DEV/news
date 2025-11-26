@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cựu Á quân Olympia lọt top nhà nghiên cứu ảnh hưởng ở Australia](https://vnexpress.net/cuu-a-quan-olympia-lot-top-nha-nghien-cuu-anh-huong-o-australia-4986580.html) - 14:14 26/11/2025
+- 🤓 [Cựu Á quân Olympia lọt top nhà nghiên cứu ảnh hưởng nhất Australia](https://vnexpress.net/cuu-a-quan-olympia-lot-top-nha-nghien-cuu-anh-huong-nhat-australia-4986580.html) - 14:14 26/11/2025
 - 🦆 [Người trúng giải xổ số độc đắc cao nhất thế giới ở nước nào?](https://vnexpress.net/nguoi-trung-giai-xo-so-doc-dac-cao-nhat-the-gioi-o-nuoc-nao-4986497.html) - 12:46 26/11/2025
 - 🦩 [Giải bóng rổ Trẻ VnExpress sẽ trao thưởng cho đội cổ vũ sôi động](https://vnexpress.net/giai-bong-ro-tre-trao-giai-doi-co-vu-4972154.html) - 10:00 26/11/2025
 - 🌮 [Trung Quốc thí điểm cấp bằng tiến sĩ không cần luận án](https://vnexpress.net/trung-quoc-thi-diem-cap-bang-tien-si-khong-can-luan-an-4986478.html) - 09:40 26/11/2025
