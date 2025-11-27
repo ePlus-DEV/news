@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arteta: &#39;Mỗi cá nhân đều xuất sắc để thắng Bayern&#39;](https://vnexpress.net/arteta-moi-ca-nhan-deu-xuat-sac-de-thang-bayern-4986706.html) - 02:44 27/11/2025
+- 🪜 [Arteta: &#39;Mọi cầu thủ đều đạt đúng đẳng cấp mới thắng được Bayern&#39;](https://vnexpress.net/arteta-moi-cau-thu-deu-dat-dung-dang-cap-moi-thang-duoc-bayern-4986706.html) - 02:44 27/11/2025
 - 🦩 [Van Dijk &#39;chơi bóng chuyền&#39; trong thảm bại của Liverpool](https://vnexpress.net/van-dijk-choi-bong-chuyen-trong-tham-bai-cua-liverpool-4986614.html) - 01:04 27/11/2025
 - 🧰 [David Luiz ghi bàn ở Champions League sau 8 năm](https://vnexpress.net/david-luiz-ghi-ban-o-champions-league-sau-8-nam-4986625.html) - 00:21 27/11/2025
 - 🤗 [FIFA có thể bị kiện vì giảm án cho Ronaldo](https://vnexpress.net/fifa-co-the-bi-kien-vi-giam-an-cho-ronaldo-4986611.html) - 23:13 26/11/2025
