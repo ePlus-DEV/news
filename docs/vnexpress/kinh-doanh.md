@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phó thủ tướng: Sẽ công tâm khi chọn doanh nghiệp làm đường sắt tốc độ cao](https://vnexpress.net/pho-thu-tuong-se-cong-tam-khi-chon-doanh-nghiep-lam-duong-sat-toc-do-cao-4987110.html) - 15:54 27/11/2025
-- 🐲 [Tập đoàn dầu khí Nga muốn xây dựng trung tâm năng lượng tại Việt Nam](https://vnexpress.net/tap-doan-dau-khi-nga-muon-xay-dung-trung-tam-nang-luong-tai-viet-nam-4987108.html) - 15:36 27/11/2025
-- 🔥 [T&amp;amp;T Group hợp tác chiến lược với Hội Doanh nhân trẻ Việt Nam](https://vnexpress.net/t-t-group-hop-tac-chien-luoc-voi-hoi-doanh-nhan-tre-viet-nam-4987087.html) - 14:00 27/11/2025
-- 🐵 [Người Mỹ háo hức Black Friday bất chấp thuế quan](https://vnexpress.net/nguoi-my-hao-huc-black-friday-bat-chap-thue-quan-4986990.html) - 13:08 27/11/2025
-- 🦅 [VNPT muốn thoái toàn bộ vốn tại MSB](https://vnexpress.net/vnpt-muon-thoai-toan-bo-von-tai-msb-4986987.html) - 11:00 27/11/2025
-- 😺 [10 triệu trái phiếu DNSE chính thức lên sàn HNX](https://vnexpress.net/10-trieu-trai-phieu-dnse-chinh-thuc-len-san-hnx-4987044.html) - 11:00 27/11/2025
-- 🤩 [F88 phát hành 10 triệu trái phiếu ra công chúng](https://vnexpress.net/f88-phat-hanh-10-trieu-trai-phieu-ra-cong-chung-4986952.html) - 10:00 27/11/2025
-- 🌮 [Săn hàng hiệu giảm giá sâu trước ngày Black Friday](https://vnexpress.net/san-hang-hieu-giam-gia-sau-truoc-ngay-black-friday-4986877.html) - 09:43 27/11/2025
-- 🧰 [Chứng khoán &#39;xanh vỏ, đỏ lòng&#39;](https://vnexpress.net/chung-khoan-hom-nay-27-11-thi-truong-xanh-vo-do-long-4987007.html) - 09:29 27/11/2025
-- 🤔 [Lý do bất động sản sân golf thu hút giới siêu giàu](https://vnexpress.net/ly-do-bat-dong-san-san-golf-thu-hut-gioi-sieu-giau-4986890.html) - 09:00 27/11/2025
-- 🧑‍💻 [Bảo hiểm có thể trả hơn 300 triệu USD trong vụ cháy chung cư Hong Kong](https://vnexpress.net/bao-hiem-co-the-tra-hon-300-trieu-usd-trong-vu-chay-chung-cu-hong-kong-4986962.html) - 08:56 27/11/2025
-- 🕴 [Xuất khẩu tôm hùm nguy cơ giảm tốc vì lũ lịch sử](https://vnexpress.net/xuat-khau-tom-hum-nguy-co-giam-toc-vi-lu-lich-su-4986899.html) - 08:41 27/11/2025
-- 🦩 [Thủ tướng: Doanh nhân trẻ cần tiên phong làm nhà xã hội](https://vnexpress.net/thu-tuong-doanh-nhan-tre-can-tien-phong-lam-nha-xa-hoi-4986763.html) - 08:13 27/11/2025
-- 👍 [Giá xăng về 20.000 đồng một lít](https://vnexpress.net/gia-xang-ve-20-000-dong-mot-lit-4986847.html) - 07:37 27/11/2025
-- 🏊 [Cổ phiếu Giầy Thượng Đình tăng gấp đôi trong một tuần](https://vnexpress.net/co-phieu-giay-thuong-dinh-tang-gap-doi-trong-mot-tuan-4986850.html) - 07:26 27/11/2025
-- 🤡 [Lo ngại quanh ứng cử viên hàng đầu chức Chủ tịch Fed](https://vnexpress.net/lo-ngai-quanh-ung-cu-vien-hang-dau-chuc-chu-tich-fed-4986738.html) - 06:18 27/11/2025
-- 👀 [Lợi ích của mô hình kinh doanh tích hợp ngân hàng - bảo hiểm](https://vnexpress.net/loi-ich-cua-mo-hinh-kinh-doanh-tich-hop-ngan-hang-bao-hiem-4986759.html) - 04:30 27/11/2025
-- 😺 [Bộ trưởng Tài chính: Giảm giấy phép kinh doanh tối thiểu 50 ngành, nghề](https://vnexpress.net/bo-truong-tai-chinh-giam-giay-phep-kinh-doanh-toi-thieu-50-nganh-nghe-4986741.html) - 04:16 27/11/2025
-- 🦣 [&#39;Tỷ giá leo thang tạo sức ép lên thị trường chứng khoán&#39;](https://vnexpress.net/ty-gia-leo-thang-tao-suc-ep-len-thi-truong-chung-khoan-4986710.html) - 04:00 27/11/2025
-- 😺 [Ông Phạm Nhật Vượng muốn góp thêm vốn bằng cổ phiếu vào VinSpeed](https://vnexpress.net/ong-pham-nhat-vuong-muon-gop-them-von-bang-co-phieu-vao-vinspeed-4986601.html) - 02:57 27/11/2025
-- 💼 [Giá vàng thế giới lên cao nhất gần 2 tuần](https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-gan-2-tuan-4986623.html) - 00:46 27/11/2025
-- 🤗 [Hành trình 10 năm trả nợ của công ty bầu Đức](https://vnexpress.net/hanh-trinh-10-nam-tra-no-cua-cong-ty-bau-duc-4964616.html) - 17:00 26/11/2025
-- 👀 [Khu vực bão lũ sẽ được hỗ trợ gia hạn, miễn, giảm thuế](https://vnexpress.net/khu-vuc-bao-lu-se-duoc-ho-tro-gia-han-mien-giam-thue-4986564.html) - 14:41 26/11/2025
-- 🎓 [Thủ tướng: Khoa học công nghệ sẽ đưa Việt Nam thành nước phát triển](https://vnexpress.net/thu-tuong-khoa-hoc-cong-nghe-se-dua-viet-nam-thanh-nuoc-phat-trien-4986539.html) - 13:22 26/11/2025
-- 🗽 [Việt Nam sẵn sàng trở thành &#39;phòng thí nghiệm xanh - số&#39; của khu vực](https://vnexpress.net/viet-nam-san-sang-tro-thanh-phong-thi-nghiem-xanh-so-cua-khu-vuc-4986568.html) - 13:10 26/11/2025
-- 🚀 [Thế Giới Di Động thu 500 triệu USD từ bán sản phẩm Apple](https://vnexpress.net/the-gioi-di-dong-thu-500-trieu-usd-tu-ban-san-pham-apple-4986509.html) - 13:03 26/11/2025
-- 🤗 [Cho phép người Việt vào chơi casino tại Phú Quốc, Hồ Tràm, Vân Đồn](https://vnexpress.net/cho-phep-nguoi-viet-vao-choi-casino-tai-phu-quoc-ho-tram-van-don-4986529.html) - 12:02 26/11/2025
-- 🌜 [Foxconn tăng 83% doanh thu ở Việt Nam nhờ &#39;nhà máy thông minh&#39;](https://vnexpress.net/foxconn-tang-83-doanh-thu-o-viet-nam-nho-nha-may-thong-minh-4986384.html) - 09:30 26/11/2025
-- 👍 [Trung Quốc chi 300 triệu USD mua thêm đậu nành Mỹ](https://vnexpress.net/trung-quoc-chi-300-trieu-usd-mua-them-dau-nanh-my-4986390.html) - 09:15 26/11/2025
-- 🤖 [Các &#39;cá mập&#39; đang rút vốn mạnh khỏi Bitcoin](https://vnexpress.net/gia-bitcoin-hom-nay-cac-ca-map-dang-rut-von-du-doi-khoi-btc-4986285.html) - 09:10 26/11/2025
-- 🫣 [Chứng khoán lên cao nhất một tháng](https://vnexpress.net/chung-khoan-len-cao-nhat-mot-thang-4986446.html) - 08:58 26/11/2025
-- 🌏 [Quỹ ngoại 500 triệu USD có thể bán toàn bộ cổ phiếu khi Việt Nam được nâng hạng?](https://vnexpress.net/etf-fubon-quy-ngoai-500-trieu-usd-se-ban-sach-co-phieu-khi-viet-nam-duoc-nang-hang-4986402.html) - 08:46 26/11/2025
-- ⚗️ [Hãng giày thể thao kiếm bộn dù tăng giá sản phẩm](https://vnexpress.net/hang-giay-the-thao-kiem-bon-du-tang-gia-san-pham-4986266.html) - 07:00 26/11/2025
-- 🕯 [Đề xuất ưu tiên lực lượng vũ trang dự trữ hàng hóa chiến lược](https://vnexpress.net/de-xuat-uu-tien-luc-luong-vu-trang-du-tru-hang-hoa-chien-luoc-4986289.html) - 05:07 26/11/2025
-- 👍 [Đại diện Liên Hợp Quốc: Việt Nam nên dùng AI cảnh báo sớm thiên tai](https://vnexpress.net/dai-dien-lien-hop-quoc-viet-nam-nen-dung-ai-canh-bao-som-thien-tai-4986296.html) - 05:03 26/11/2025
-- 🤠 [Thủ tướng: Sẵn sàng mở cửa thị trường đón dòng vốn xanh](https://vnexpress.net/thu-tuong-san-sang-mo-cua-thi-truong-don-dong-von-xanh-4986258.html) - 03:39 26/11/2025
-- 🌊 [Viettel kỷ niệm 5 năm chương trình Thực tập sinh tài năng](https://vnexpress.net/viettel-ky-niem-5-nam-chuong-trinh-thuc-tap-sinh-tai-nang-4986236.html) - 02:30 26/11/2025
-- 🌈 [Ra mắt ứng dụng Sun PhuQuoc Airways](https://vnexpress.net/ra-mat-ung-dung-sun-phuquoc-airways-4986086.html) - 01:00 26/11/2025
-- 🥳 [Mỹ - châu Âu vẫn bất đồng chuyện giảm thuế](https://vnexpress.net/my-chau-au-van-bat-dong-chuyen-giam-thue-4986032.html) - 17:15 25/11/2025
-- 🐻 [Vietravel thoát hết vốn tại Vietravel Airlines](https://vnexpress.net/vietravel-thoat-het-von-tai-vietravel-airlines-4986021.html) - 17:00 25/11/2025
-- 💫 [Hoàng Anh Gia Lai dự kiến IPO công ty tại Lào vào giữa năm sau](https://vnexpress.net/hoang-anh-gia-lai-du-kien-ipo-cong-ty-tai-lao-vao-giua-nam-sau-4986128.html) - 15:44 25/11/2025
-- 🤩 [Thủ tướng gợi ý 5 điều kiện để TP HCM thành siêu đô thị](https://vnexpress.net/thu-tuong-goi-y-5-dieu-kien-de-tp-hcm-thanh-sieu-do-thi-4985979.html) - 13:00 25/11/2025
-- 💻 [Vingroup hỗ trợ vốn cho thép Pomina](https://vnexpress.net/vingroup-ho-tro-von-cho-thep-pomina-4986114.html) - 12:15 25/11/2025
-- ⚗️ [&#39;Việt Nam không chạy theo tín chỉ carbon giá rẻ&#39;](https://vnexpress.net/viet-nam-khong-chay-theo-tin-chi-carbon-gia-re-4986077.html) - 12:05 25/11/2025
-- 🌈 [Công ty hạ tầng Gelex được chấp thuận IPO 100 triệu cổ phiếu](https://vnexpress.net/cong-ty-ha-tang-gelex-duoc-chap-thuan-ipo-100-trieu-co-phieu-4986054.html) - 12:00 25/11/2025
-- 🌝 [&#39;Xăng E10 có thể giúp Việt Nam tiết kiệm gần tỷ USD mỗi năm&#39;](https://vnexpress.net/xang-e10-co-the-giup-viet-nam-tiet-kiem-gan-ty-usd-moi-nam-4985950.html) - 09:29 25/11/2025
-- 🥸 [Hộ kinh doanh có thể được nộp thuế trên phần lãi](https://vnexpress.net/ho-kinh-doanh-co-the-duoc-nop-thue-tren-phan-lai-4986013.html) - 08:56 25/11/2025
-- 🦆 [Chứng khoán bị bán mạnh](https://vnexpress.net/chung-khoan-bi-ban-manh-4986016.html) - 08:35 25/11/2025
-- 🌋 [Vietnam Airlines đưa mùi hương vào chiến lược thương hiệu](https://vnexpress.net/vietnam-airlines-dua-mui-huong-vao-chien-luoc-thuong-hieu-4962938.html) - 08:30 25/11/2025
-- 🦍 [Doanh nghiệp có thể thay đổi mục đích sử dụng vốn trái phiếu](https://vnexpress.net/doanh-nghiep-co-the-thay-doi-muc-dich-su-dung-von-trai-phieu-4985877.html) - 07:51 25/11/2025
-- 🤔 [CEO WEF: Người trẻ Việt cần chuẩn bị tương lai hợp tác người - máy](https://vnexpress.net/ceo-wef-nguoi-tre-viet-can-chuan-bi-tuong-lai-hop-tac-nguoi-may-4985847.html) - 07:24 25/11/2025
-- 🧰 [Nhiều doanh nghiệp ở miền Trung trắng tay sau lũ](https://vnexpress.net/nhieu-doanh-nghiep-o-mien-trung-trang-tay-sau-lu-4985734.html) - 05:09 25/11/2025
-- 🌝 [Ông Phạm Nhật Vượng lần đầu vào top 100 người giàu nhất thế giới](https://vnexpress.net/ong-pham-nhat-vuong-lan-dau-vao-top-100-nguoi-giau-nhat-the-gioi-4985921.html) - 05:02 25/11/2025
-- 👍 [Gần 190 triệu người Mỹ sẽ săn hàng giảm giá Black Friday](https://vnexpress.net/gan-190-trieu-nguoi-my-se-san-hang-giam-gia-black-friday-4985827.html) - 04:46 25/11/2025
-- 🗽 [Giá vàng miếng tăng hơn 2 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-25-11-4985836.html) - 03:22 25/11/2025
-- 🐎 [Giá vàng thế giới tăng mạnh](https://vnexpress.net/gia-vang-the-gioi-tang-manh-4985736.html) - 00:38 25/11/2025
-- 🪄 [Hãng bay đón khách kỷ lục chỉ nhờ một câu nói](https://vnexpress.net/hang-bay-don-khach-ky-luc-chi-nho-cau-noi-nothing-beats-a-jet2-holiday-4985664.html) - 17:02 24/11/2025
-- 🎊 [Ông chủ Thorakao nêu lý do bán mỹ phẩm giá thấp, bao bì &#39;xấu&#39;](https://vnexpress.net/ong-chu-thorakao-neu-ly-do-ban-my-pham-gia-thap-bao-bi-xau-4985520.html) - 17:00 24/11/2025
-- 🗽 [Đề xuất doanh nghiệp làm điện gió ngoài khơi cần vốn tối thiểu 10.000 tỷ đồng](https://vnexpress.net/de-xuat-doanh-nghiep-lam-dien-gio-ngoai-khoi-can-von-toi-thieu-10-000-ty-dong-4985693.html) - 16:32 24/11/2025
-- 🦩 [TP HCM, Đà Nẵng có thể giữ lại 100% tiền thu từ quỹ đất TOD](https://vnexpress.net/tp-hcm-da-nang-co-the-giu-lai-100-tien-thu-tu-quy-dat-tod-4985651.html) - 12:34 24/11/2025<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Không có chuyện Việt Nam thải cả triệu tấn nhựa ra đại dương](https://vnexpress.net/khong-co-chuyen-viet-nam-thai-ca-trieu-tan-nhua-ra-dai-duong-4987098.html) - 18:00 27/11/2025
+- 🐲 [Phó thủ tướng: Sẽ công tâm khi chọn doanh nghiệp làm đường sắt tốc độ cao](https://vnexpress.net/pho-thu-tuong-se-cong-tam-khi-chon-doanh-nghiep-lam-duong-sat-toc-do-cao-4987110.html) - 15:54 27/11/2025
+- 🔥 [Tập đoàn dầu khí Nga muốn xây dựng trung tâm năng lượng tại Việt Nam](https://vnexpress.net/tap-doan-dau-khi-nga-muon-xay-dung-trung-tam-nang-luong-tai-viet-nam-4987108.html) - 15:36 27/11/2025
+- 🐵 [T&amp;amp;T Group hợp tác chiến lược với Hội Doanh nhân trẻ Việt Nam](https://vnexpress.net/t-t-group-hop-tac-chien-luoc-voi-hoi-doanh-nhan-tre-viet-nam-4987087.html) - 14:00 27/11/2025
+- 🦅 [Người Mỹ háo hức Black Friday bất chấp thuế quan](https://vnexpress.net/nguoi-my-hao-huc-black-friday-bat-chap-thue-quan-4986990.html) - 13:08 27/11/2025
+- 😺 [VNPT muốn thoái toàn bộ vốn tại MSB](https://vnexpress.net/vnpt-muon-thoai-toan-bo-von-tai-msb-4986987.html) - 11:00 27/11/2025
+- 🤩 [10 triệu trái phiếu DNSE chính thức lên sàn HNX](https://vnexpress.net/10-trieu-trai-phieu-dnse-chinh-thuc-len-san-hnx-4987044.html) - 11:00 27/11/2025
+- 🌮 [F88 phát hành 10 triệu trái phiếu ra công chúng](https://vnexpress.net/f88-phat-hanh-10-trieu-trai-phieu-ra-cong-chung-4986952.html) - 10:00 27/11/2025
+- 🧰 [Săn hàng hiệu giảm giá sâu trước ngày Black Friday](https://vnexpress.net/san-hang-hieu-giam-gia-sau-truoc-ngay-black-friday-4986877.html) - 09:43 27/11/2025
+- 🤔 [Chứng khoán &#39;xanh vỏ, đỏ lòng&#39;](https://vnexpress.net/chung-khoan-hom-nay-27-11-thi-truong-xanh-vo-do-long-4987007.html) - 09:29 27/11/2025
+- 🧑‍💻 [Lý do bất động sản sân golf thu hút giới siêu giàu](https://vnexpress.net/ly-do-bat-dong-san-san-golf-thu-hut-gioi-sieu-giau-4986890.html) - 09:00 27/11/2025
+- 🕴 [Bảo hiểm có thể trả hơn 300 triệu USD trong vụ cháy chung cư Hong Kong](https://vnexpress.net/bao-hiem-co-the-tra-hon-300-trieu-usd-trong-vu-chay-chung-cu-hong-kong-4986962.html) - 08:56 27/11/2025
+- 🦩 [Xuất khẩu tôm hùm nguy cơ giảm tốc vì lũ lịch sử](https://vnexpress.net/xuat-khau-tom-hum-nguy-co-giam-toc-vi-lu-lich-su-4986899.html) - 08:41 27/11/2025
+- 👍 [Thủ tướng: Doanh nhân trẻ cần tiên phong làm nhà xã hội](https://vnexpress.net/thu-tuong-doanh-nhan-tre-can-tien-phong-lam-nha-xa-hoi-4986763.html) - 08:13 27/11/2025
+- 🏊 [Giá xăng về 20.000 đồng một lít](https://vnexpress.net/gia-xang-ve-20-000-dong-mot-lit-4986847.html) - 07:37 27/11/2025
+- 🤡 [Cổ phiếu Giầy Thượng Đình tăng gấp đôi trong một tuần](https://vnexpress.net/co-phieu-giay-thuong-dinh-tang-gap-doi-trong-mot-tuan-4986850.html) - 07:26 27/11/2025
+- 👀 [Lo ngại quanh ứng cử viên hàng đầu chức Chủ tịch Fed](https://vnexpress.net/lo-ngai-quanh-ung-cu-vien-hang-dau-chuc-chu-tich-fed-4986738.html) - 06:18 27/11/2025
+- 😺 [Lợi ích của mô hình kinh doanh tích hợp ngân hàng - bảo hiểm](https://vnexpress.net/loi-ich-cua-mo-hinh-kinh-doanh-tich-hop-ngan-hang-bao-hiem-4986759.html) - 04:30 27/11/2025
+- 🦣 [Bộ trưởng Tài chính: Giảm giấy phép kinh doanh tối thiểu 50 ngành, nghề](https://vnexpress.net/bo-truong-tai-chinh-giam-giay-phep-kinh-doanh-toi-thieu-50-nganh-nghe-4986741.html) - 04:16 27/11/2025
+- 😺 [&#39;Tỷ giá leo thang tạo sức ép lên thị trường chứng khoán&#39;](https://vnexpress.net/ty-gia-leo-thang-tao-suc-ep-len-thi-truong-chung-khoan-4986710.html) - 04:00 27/11/2025
+- 💼 [Ông Phạm Nhật Vượng muốn góp thêm vốn bằng cổ phiếu vào VinSpeed](https://vnexpress.net/ong-pham-nhat-vuong-muon-gop-them-von-bang-co-phieu-vao-vinspeed-4986601.html) - 02:57 27/11/2025
+- 🤗 [Giá vàng thế giới lên cao nhất gần 2 tuần](https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-gan-2-tuan-4986623.html) - 00:46 27/11/2025
+- 👀 [Công ty vận hành metro Bến Thành - Suối Tiên lỗ đậm](https://vnexpress.net/cong-ty-van-hanh-metro-ben-thanh-suoi-tien-lo-dam-4986581.html) - 23:04 26/11/2025
+- 🎓 [Hành trình 10 năm trả nợ của công ty bầu Đức](https://vnexpress.net/hanh-trinh-10-nam-tra-no-cua-cong-ty-bau-duc-4964616.html) - 17:00 26/11/2025
+- 🗽 [Khu vực bão lũ sẽ được hỗ trợ gia hạn, miễn, giảm thuế](https://vnexpress.net/khu-vuc-bao-lu-se-duoc-ho-tro-gia-han-mien-giam-thue-4986564.html) - 14:41 26/11/2025
+- 🚀 [Thủ tướng: Khoa học công nghệ sẽ đưa Việt Nam thành nước phát triển](https://vnexpress.net/thu-tuong-khoa-hoc-cong-nghe-se-dua-viet-nam-thanh-nuoc-phat-trien-4986539.html) - 13:22 26/11/2025
+- 🤗 [Việt Nam sẵn sàng trở thành &#39;phòng thí nghiệm xanh - số&#39; của khu vực](https://vnexpress.net/viet-nam-san-sang-tro-thanh-phong-thi-nghiem-xanh-so-cua-khu-vuc-4986568.html) - 13:10 26/11/2025
+- 🌜 [Thế Giới Di Động thu 500 triệu USD từ bán sản phẩm Apple](https://vnexpress.net/the-gioi-di-dong-thu-500-trieu-usd-tu-ban-san-pham-apple-4986509.html) - 13:03 26/11/2025
+- 👍 [Cho phép người Việt vào chơi casino tại Phú Quốc, Hồ Tràm, Vân Đồn](https://vnexpress.net/cho-phep-nguoi-viet-vao-choi-casino-tai-phu-quoc-ho-tram-van-don-4986529.html) - 12:02 26/11/2025
+- 🤖 [Foxconn tăng 83% doanh thu ở Việt Nam nhờ &#39;nhà máy thông minh&#39;](https://vnexpress.net/foxconn-tang-83-doanh-thu-o-viet-nam-nho-nha-may-thong-minh-4986384.html) - 09:30 26/11/2025
+- 🫣 [Trung Quốc chi 300 triệu USD mua thêm đậu nành Mỹ](https://vnexpress.net/trung-quoc-chi-300-trieu-usd-mua-them-dau-nanh-my-4986390.html) - 09:15 26/11/2025
+- 🌏 [Các &#39;cá mập&#39; đang rút vốn mạnh khỏi Bitcoin](https://vnexpress.net/gia-bitcoin-hom-nay-cac-ca-map-dang-rut-von-du-doi-khoi-btc-4986285.html) - 09:10 26/11/2025
+- ⚗️ [Chứng khoán lên cao nhất một tháng](https://vnexpress.net/chung-khoan-len-cao-nhat-mot-thang-4986446.html) - 08:58 26/11/2025
+- 🕯 [Quỹ ngoại 500 triệu USD có thể bán toàn bộ cổ phiếu khi Việt Nam được nâng hạng?](https://vnexpress.net/etf-fubon-quy-ngoai-500-trieu-usd-se-ban-sach-co-phieu-khi-viet-nam-duoc-nang-hang-4986402.html) - 08:46 26/11/2025
+- 👍 [Hãng giày thể thao kiếm bộn dù tăng giá sản phẩm](https://vnexpress.net/hang-giay-the-thao-kiem-bon-du-tang-gia-san-pham-4986266.html) - 07:00 26/11/2025
+- 🤠 [Đề xuất ưu tiên lực lượng vũ trang dự trữ hàng hóa chiến lược](https://vnexpress.net/de-xuat-uu-tien-luc-luong-vu-trang-du-tru-hang-hoa-chien-luoc-4986289.html) - 05:07 26/11/2025
+- 🌊 [Đại diện Liên Hợp Quốc: Việt Nam nên dùng AI cảnh báo sớm thiên tai](https://vnexpress.net/dai-dien-lien-hop-quoc-viet-nam-nen-dung-ai-canh-bao-som-thien-tai-4986296.html) - 05:03 26/11/2025
+- 🌈 [Thủ tướng: Sẵn sàng mở cửa thị trường đón dòng vốn xanh](https://vnexpress.net/thu-tuong-san-sang-mo-cua-thi-truong-don-dong-von-xanh-4986258.html) - 03:39 26/11/2025
+- 🥳 [Viettel kỷ niệm 5 năm chương trình Thực tập sinh tài năng](https://vnexpress.net/viettel-ky-niem-5-nam-chuong-trinh-thuc-tap-sinh-tai-nang-4986236.html) - 02:30 26/11/2025
+- 🐻 [Ra mắt ứng dụng Sun PhuQuoc Airways](https://vnexpress.net/ra-mat-ung-dung-sun-phuquoc-airways-4986086.html) - 01:00 26/11/2025
+- 💫 [Mỹ - châu Âu vẫn bất đồng chuyện giảm thuế](https://vnexpress.net/my-chau-au-van-bat-dong-chuyen-giam-thue-4986032.html) - 17:15 25/11/2025
+- 🤩 [Vietravel thoát hết vốn tại Vietravel Airlines](https://vnexpress.net/vietravel-thoat-het-von-tai-vietravel-airlines-4986021.html) - 17:00 25/11/2025
+- 💻 [Hoàng Anh Gia Lai dự kiến IPO công ty tại Lào vào giữa năm sau](https://vnexpress.net/hoang-anh-gia-lai-du-kien-ipo-cong-ty-tai-lao-vao-giua-nam-sau-4986128.html) - 15:44 25/11/2025
+- ⚗️ [Thủ tướng gợi ý 5 điều kiện để TP HCM thành siêu đô thị](https://vnexpress.net/thu-tuong-goi-y-5-dieu-kien-de-tp-hcm-thanh-sieu-do-thi-4985979.html) - 13:00 25/11/2025
+- 🌈 [Vingroup hỗ trợ vốn cho thép Pomina](https://vnexpress.net/vingroup-ho-tro-von-cho-thep-pomina-4986114.html) - 12:15 25/11/2025
+- 🌝 [&#39;Việt Nam không chạy theo tín chỉ carbon giá rẻ&#39;](https://vnexpress.net/viet-nam-khong-chay-theo-tin-chi-carbon-gia-re-4986077.html) - 12:05 25/11/2025
+- 🥸 [Công ty hạ tầng Gelex được chấp thuận IPO 100 triệu cổ phiếu](https://vnexpress.net/cong-ty-ha-tang-gelex-duoc-chap-thuan-ipo-100-trieu-co-phieu-4986054.html) - 12:00 25/11/2025
+- 🦆 [&#39;Xăng E10 có thể giúp Việt Nam tiết kiệm gần tỷ USD mỗi năm&#39;](https://vnexpress.net/xang-e10-co-the-giup-viet-nam-tiet-kiem-gan-ty-usd-moi-nam-4985950.html) - 09:29 25/11/2025
+- 🌋 [Hộ kinh doanh có thể được nộp thuế trên phần lãi](https://vnexpress.net/ho-kinh-doanh-co-the-duoc-nop-thue-tren-phan-lai-4986013.html) - 08:56 25/11/2025
+- 🦍 [Chứng khoán bị bán mạnh](https://vnexpress.net/chung-khoan-bi-ban-manh-4986016.html) - 08:35 25/11/2025
+- 🤔 [Vietnam Airlines đưa mùi hương vào chiến lược thương hiệu](https://vnexpress.net/vietnam-airlines-dua-mui-huong-vao-chien-luoc-thuong-hieu-4962938.html) - 08:30 25/11/2025
+- 🧰 [Doanh nghiệp có thể thay đổi mục đích sử dụng vốn trái phiếu](https://vnexpress.net/doanh-nghiep-co-the-thay-doi-muc-dich-su-dung-von-trai-phieu-4985877.html) - 07:51 25/11/2025
+- 🌝 [CEO WEF: Người trẻ Việt cần chuẩn bị tương lai hợp tác người - máy](https://vnexpress.net/ceo-wef-nguoi-tre-viet-can-chuan-bi-tuong-lai-hop-tac-nguoi-may-4985847.html) - 07:24 25/11/2025
+- 👍 [Nhiều doanh nghiệp ở miền Trung trắng tay sau lũ](https://vnexpress.net/nhieu-doanh-nghiep-o-mien-trung-trang-tay-sau-lu-4985734.html) - 05:09 25/11/2025
+- 🗽 [Ông Phạm Nhật Vượng lần đầu vào top 100 người giàu nhất thế giới](https://vnexpress.net/ong-pham-nhat-vuong-lan-dau-vao-top-100-nguoi-giau-nhat-the-gioi-4985921.html) - 05:02 25/11/2025
+- 🐎 [Gần 190 triệu người Mỹ sẽ săn hàng giảm giá Black Friday](https://vnexpress.net/gan-190-trieu-nguoi-my-se-san-hang-giam-gia-black-friday-4985827.html) - 04:46 25/11/2025
+- 🪄 [Giá vàng miếng tăng hơn 2 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-25-11-4985836.html) - 03:22 25/11/2025
+- 🎊 [Giá vàng thế giới tăng mạnh](https://vnexpress.net/gia-vang-the-gioi-tang-manh-4985736.html) - 00:38 25/11/2025
+- 🗽 [Hãng bay đón khách kỷ lục chỉ nhờ một câu nói](https://vnexpress.net/hang-bay-don-khach-ky-luc-chi-nho-cau-noi-nothing-beats-a-jet2-holiday-4985664.html) - 17:02 24/11/2025
+- 🦩 [Ông chủ Thorakao nêu lý do bán mỹ phẩm giá thấp, bao bì &#39;xấu&#39;](https://vnexpress.net/ong-chu-thorakao-neu-ly-do-ban-my-pham-gia-thap-bao-bi-xau-4985520.html) - 17:00 24/11/2025<!-- vnexpress-kinh-doanh:END -->
