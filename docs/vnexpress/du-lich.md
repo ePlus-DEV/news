@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách nước ngoài kể hành trình cứu trợ ở vùng lũ Nha Trang](https://vnexpress.net/khach-nuoc-ngoai-ke-hanh-trinh-cuu-tro-o-vung-lu-nha-trang-4986536.html) - 12:00 27/11/2025
+- 💂 [Khách nước ngoài nửa đêm xin tham gia cứu trợ người dân vùng lũ](https://vnexpress.net/khach-nuoc-ngoai-nua-dem-xin-tham-gia-cuu-tro-nguoi-dan-vung-lu-4986536.html) - 12:00 27/11/2025
 - 🪄 [Khâu nhục có nguồn gốc từ đâu?](https://vnexpress.net/khau-nhuc-co-nguon-goc-tu-dau-4986552.html) - 11:58 27/11/2025
 - 🦅 [Khách Đức viết tâm thư, gửi tiền ủng hộ người Việt vùng lũ lụt](https://vnexpress.net/khach-duc-viet-tam-thu-gui-tien-ung-ho-nguoi-viet-vung-lu-lut-4986823.html) - 08:32 27/11/2025
 - 🕴 [Vietjet mở lại đường bay Côn Đảo](https://vnexpress.net/vietjet-mo-lai-duong-bay-con-dao-4986849.html) - 07:30 27/11/2025
