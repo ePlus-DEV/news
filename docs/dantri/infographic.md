@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [Lịch thi đấu môn bóng đá nam SEA Games 33](https://dantri.com.vn/the-thao/lich-thi-dau-mon-bong-da-nam-sea-games-33-20251126231341547.htm) - 22:00 26/11/2025
+- 🕴 [Lịch thi đấu môn bóng đá nam SEA Games 33](https://dantri.com.vn/the-thao/lich-thi-dau-mon-bong-da-nam-sea-games-33-20251126231341547.htm) - 13:00 26/11/2025
 - 💻 [Chân dung tân Chủ tịch UBND tỉnh Đồng Nai Nguyễn Văn Út](https://dantri.com.vn/infographic/chan-dung-tan-chu-tich-ubnd-tinh-dong-nai-nguyen-van-ut-20251118135031998.htm) - 09:33 18/11/2025
 - 🗽 [Chân dung tân Chủ tịch UBND tỉnh Tây Ninh Lê Văn Hẳn](https://dantri.com.vn/thoi-su/chan-dung-tan-chu-tich-ubnd-tinh-tay-ninh-le-van-han-20251118113858570.htm) - 07:31 18/11/2025
 - 👺 [Thương mại điện tử Việt Nam: Cuộc đua tỷ đô tăng tốc](https://dantri.com.vn/kinh-doanh/thuong-mai-dien-tu-viet-nam-cuoc-dua-ty-do-tang-toc-20251117174509998.htm) - 05:35 18/11/2025
