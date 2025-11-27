@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Con trai 8 tuổi thoi thóp sau tai nạn, bố mẹ kiệt sức níu giữ mạng sống](https://dantri.com.vn/tam-long-nhan-ai/con-trai-8-tuoi-thoi-thop-sau-tai-nan-bo-me-kiet-suc-niu-giu-mang-song-20251122174656514.htm) - 22:30 26/11/2025
-- 🌜 [Bạn đọc Dân trí trao hỗ trợ 11 gia đình có người tử nạn trong mưa lũ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-trao-ho-tro-11-gia-dinh-co-nguoi-tu-nan-trong-mua-lu-20251126100528031.htm) - 22:00 26/11/2025
+- 🌜 [Bạn đọc Dân trí hỗ trợ 11 gia đình có người tử nạn trong mưa lũ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-ho-tro-11-gia-dinh-co-nguoi-tu-nan-trong-mua-lu-20251126100528031.htm) - 22:00 26/11/2025
 - 👀 [Vay nợ khắp nơi, nhà không còn gì để bán, vợ nghèo khẩn cầu cứu chồng](https://dantri.com.vn/tam-long-nhan-ai/vay-no-khap-noi-nha-khong-con-gi-de-ban-vo-ngheo-khan-cau-cuu-chong-20251121155414773.htm) - 22:30 25/11/2025
 - 🚀 [Bạn đọc Dân trí hỗ trợ người dân Đà Nẵng 100 triệu đồng khắc phục bão lũ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-ho-tro-nguoi-dan-da-nang-100-trieu-dong-khac-phuc-bao-lu-20251125080136419.htm) - 06:15 25/11/2025
 - 🦅 [Nam công nhân mồ côi cha, nguy kịch khi mưu sinh gồng gánh mẹ già, con thơ](https://dantri.com.vn/tam-long-nhan-ai/nam-cong-nhan-mo-coi-cha-nguy-kich-khi-muu-sinh-gong-ganh-me-gia-con-tho-20251118005224259.htm) - 22:30 24/11/2025
