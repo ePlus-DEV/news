@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Lập đơn hàng khống, chiếm đoạt 650 triệu đồng của công ty](https://dantri.com.vn/phap-luat/lap-don-hang-khong-chiem-doat-650-trieu-dong-cua-cong-ty-20251127180830738.htm) - 11:58 27/11/2025
 - 🐲 [Điều tra dấu hiệu lừa đảo mua vàng online tại TPHCM](https://dantri.com.vn/phap-luat/dieu-tra-dau-hieu-lua-dao-mua-vang-online-tai-tphcm-20251127180019989.htm) - 11:06 27/11/2025
-- 🌁 [Người trông trẻ bất cẩn để bé 2 tuổi uống chất tẩy rửa, tử vong](https://dantri.com.vn/phap-luat/nguoi-trong-tre-bat-can-de-be-2-tuoi-uong-chat-tay-rua-tu-vong-20251127170803486.htm) - 10:33 27/11/2025
+- 🌁 [Bé 2 tuổi uống chất tẩy rửa tử vong, người trông trẻ bị khởi tố](https://dantri.com.vn/phap-luat/be-2-tuoi-uong-chat-tay-rua-tu-vong-nguoi-trong-tre-bi-khoi-to-20251127170803486.htm) - 10:33 27/11/2025
 - 🎃 [Tiếp tay nhóm mua bán hóa đơn, cựu cán bộ thuế ở TPHCM lĩnh 20 năm tù](https://dantri.com.vn/phap-luat/tiep-tay-nhom-mua-ban-hoa-don-cuu-can-bo-thue-o-tphcm-linh-20-nam-tu-20251127143620448.htm) - 08:29 27/11/2025
 - 🦅 [Hà Tĩnh phát hiện điểm khai thác vàng trái phép trên đồi Moòng Coòng](https://dantri.com.vn/phap-luat/ha-tinh-phat-hien-diem-khai-thac-vang-trai-phep-tren-doi-moong-coong-20251127142028824.htm) - 08:03 27/11/2025
 - 🎭 [Công ty &quot;công nghệ&quot; với đường dây cờ bạc bịp, nhân viên đều có biệt danh](https://dantri.com.vn/phap-luat/cong-ty-cong-nghe-voi-duong-day-co-bac-bip-nhan-vien-deu-co-biet-danh-20251127131745052.htm) - 07:19 27/11/2025
