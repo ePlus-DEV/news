@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Kiện công ty mai mối vì &#39;thổi phồng&#39; tài sản nhà chú rể](https://vnexpress.net/kien-cong-ty-mai-moi-vi-thoi-phong-tai-san-nha-chu-re-4986749.html) - 04:01 27/11/2025
 - 🎓 [Shipper tông ngã bà bầu: Tài xế hay công ty quản lý phải bồi thường?](https://vnexpress.net/shipper-tong-nga-ba-bau-tai-xe-hay-cong-ty-quan-ly-phai-boi-thuong-4986725.html) - 03:51 27/11/2025
 - 🤓 [Cha bị bắt sau khi ôm hai con nhảy cầu](https://vnexpress.net/cha-bi-bat-sau-khi-om-hai-con-nhay-cau-4986740.html) - 03:35 27/11/2025
-- 🎊 [Kẻ hạ độc 4 người thân bằng xyanua: &#39;Việc làm của bị cáo là bất nhân&#39;](https://vnexpress.net/ke-ha-doc-4-nguoi-than-bang-xyanua-viec-lam-cua-bi-cao-la-bat-nhan-4986586.html) - 01:41 27/11/2025
+- 🎊 [Kẻ hạ độc 4 người thân khai &#39;nhận tiền bảo hiểm&#39; sau cái chết của chồng](https://vnexpress.net/ke-ha-doc-4-nguoi-than-khai-nhan-tien-bao-hiem-sau-cai-chet-cua-chong-4986586.html) - 01:41 27/11/2025
 - 🙉 [Tội ác của nữ tiểu thuyết gia](https://vnexpress.net/toi-ac-cua-nu-tieu-thuyet-gia-4986537.html) - 17:00 26/11/2025
 - 🤡 [Nên làm gì khi bị người khác nói xấu trên mạng xã hội?](https://vnexpress.net/nen-lam-gi-khi-bi-nguoi-khac-noi-xau-tren-mang-xa-hoi-4985928.html) - 17:00 26/11/2025
 - 🗽 [Trái chủ vụ Vạn Thịnh Phát được chi trả thêm hơn 200 tỷ đồng](https://vnexpress.net/trai-chu-vu-van-thinh-phat-duoc-chi-tra-them-hon-200-ty-dong-4986471.html) - 10:15 26/11/2025
