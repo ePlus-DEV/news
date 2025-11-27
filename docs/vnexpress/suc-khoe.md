@@ -4,11 +4,11 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nữ sinh lớp 9 đột quỵ tử vong sau chạy thể dục](https://vnexpress.net/nu-sinh-lop-9-dot-quy-tu-vong-sau-chay-the-duc-4987056.html) - 12:57 27/11/2025
-- 🥰 [Ai dễ mắc ung thư tiền liệt tuyến?](https://vnexpress.net/ai-de-mac-ung-thu-tien-liet-tuyen-4986215.html) - 12:00 27/11/2025
-- 💡 [Đốt sóng cao tần giảm đau do thoát vị đĩa đệm](https://vnexpress.net/dot-song-cao-tan-giam-dau-do-thoat-vi-dia-dem-4986642.html) - 12:00 27/11/2025
-- 🤗 [Chiều cao lúc 3 tuổi quyết định tầm vóc khi trưởng thành](https://vnexpress.net/chieu-cao-luc-3-tuoi-quyet-dinh-tam-voc-khi-truong-thanh-4987017.html) - 11:34 27/11/2025
-- 🪜 [Ca cúm tăng nhanh, người dân chủ động tiêm phòng sớm](https://vnexpress.net/ca-cum-tang-nhanh-nguoi-dan-chu-dong-tiem-phong-som-4987043.html) - 10:50 27/11/2025
+- 🔥 [79 công nhân, học sinh ở TP HCM cấp cứu nghi ngộ độc thực phẩm](https://vnexpress.net/79-cong-nhan-hoc-sinh-o-tp-hcm-cap-cuu-nghi-ngo-doc-thuc-pham-4987100.html) - 15:09 27/11/2025
+- 🥰 [Nữ sinh lớp 9 đột quỵ tử vong sau chạy thể dục](https://vnexpress.net/nu-sinh-lop-9-dot-quy-tu-vong-sau-chay-the-duc-4987056.html) - 12:57 27/11/2025
+- 💡 [Ai dễ mắc ung thư tiền liệt tuyến?](https://vnexpress.net/ai-de-mac-ung-thu-tien-liet-tuyen-4986215.html) - 12:00 27/11/2025
+- 🤗 [Đốt sóng cao tần giảm đau do thoát vị đĩa đệm](https://vnexpress.net/dot-song-cao-tan-giam-dau-do-thoat-vi-dia-dem-4986642.html) - 12:00 27/11/2025
+- 🪜 [Chiều cao lúc 3 tuổi quyết định tầm vóc khi trưởng thành](https://vnexpress.net/chieu-cao-luc-3-tuoi-quyet-dinh-tam-voc-khi-truong-thanh-4987017.html) - 11:34 27/11/2025
 - 🕯 [Ba cách ăn uống phòng thiếu máu](https://vnexpress.net/ba-cach-an-uong-phong-thieu-mau-4986818.html) - 10:00 27/11/2025
 - 🤭 [Cholesterol cao tác động cơ thể như thế nào](https://vnexpress.net/cholesterol-cao-tac-dong-co-the-nhu-the-nao-4986786.html) - 09:00 27/11/2025
 - 👀 [Đục thủy tinh thể ở tuổi 40](https://vnexpress.net/duc-thuy-tinh-the-o-tuoi-40-4986756.html) - 09:00 27/11/2025
