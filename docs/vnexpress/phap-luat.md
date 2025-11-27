@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Vụ mất tích rúng động của nữ blogger đi phượt](https://vnexpress.net/vu-mat-tich-rung-dong-cua-nu-blogger-di-phuot-4987045.html) - 17:00 27/11/2025
-- 🥰 [Giúp nạn nhân tai nạn giao thông đi cấp cứu sẽ được hỗ trợ tới 5 triệu đồng](https://vnexpress.net/giup-nan-nhan-tai-nan-giao-thong-di-cap-cuu-se-duoc-ho-tro-toi-5-trieu-dong-4986951.html) - 17:00 27/11/2025
+- 🥰 [Giúp nạn nhân tai nạn giao thông đi cấp cứu được hỗ trợ đến 5 triệu đồng](https://vnexpress.net/giup-nan-nhan-tai-nan-giao-thong-di-cap-cuu-duoc-ho-tro-den-5-trieu-dong-4986951.html) - 17:00 27/11/2025
 - 🎓 [Xin nghỉ việc trước hay sau dịp lễ, Tết sẽ lợi hơn?](https://vnexpress.net/xin-nghi-viec-truoc-hay-sau-dip-le-tet-se-loi-hon-4986108.html) - 17:00 27/11/2025
 - 🤓 [Đánh vỡ đầu cán bộ khi bị nhắc đội mũ bảo hiểm](https://vnexpress.net/danh-vo-dau-can-bo-khi-bi-nhac-doi-mu-bao-hiem-4987052.html) - 12:33 27/11/2025
 - 🎊 [Tiệm vàng ở TP HCM đóng cửa bất thường](https://vnexpress.net/tiem-vang-o-tp-hcm-dong-cua-bat-thuong-4987048.html) - 12:23 27/11/2025
