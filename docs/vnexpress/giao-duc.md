@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [&#39;Trốn&#39; ra trường vì sợ thất nghiệp](https://vnexpress.net/tron-ra-truong-vi-so-that-nghiep-4986816.html) - 06:59 27/11/2025
+- 🤓 [Làn sóng &#39;trốn&#39; tốt nghiệp của sinh viên Hàn Quốc](https://vnexpress.net/lan-song-tron-tot-nghiep-cua-sinh-vien-han-quoc-4986816.html) - 06:59 27/11/2025
 - 🦆 [Học phí trường công ở Hà Nội cao nhất 6,1 triệu đồng](https://vnexpress.net/hoc-phi-tat-ca-truong-chat-luong-cao-o-ha-noi-nam-hoc-2025-2026-4986730.html) - 04:08 27/11/2025
 - 🦩 [Sinh viên nhặt được 5 chỉ vàng khi soạn đồ cứu trợ vùng lũ](https://vnexpress.net/sinh-vien-nhat-duoc-5-chi-vang-khi-soan-do-cuu-tro-vung-lu-4986646.html) - 03:33 27/11/2025
 - 🌮 [Nữ sinh tốt nghiệp Bách khoa với điểm tuyệt đối nhờ quy tắc 80-20](https://vnexpress.net/nu-sinh-tot-nghiep-bach-khoa-voi-diem-tuyet-doi-nho-quy-tac-80-20-4985719.html) - 22:59 26/11/2025
