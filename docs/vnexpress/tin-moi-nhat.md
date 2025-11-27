@@ -16,7 +16,7 @@ sidebar_position: 9
 - 🪜 [Bốn con giáp giàu kếch xù trong ba ngày tới](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-co-su-nghiep-no-ro-giau-kech-xu-trong-3-ngay-toi-4986924.html) - 17:02 27/11/2025
 - 👨‍🏫 [Sắc vóc Miss International 2025](https://vnexpress.net/sac-voc-miss-international-2025-4987091.html) - 17:00 27/11/2025
 - 🎊 [Vụ mất tích rúng động của nữ blogger đi phượt](https://vnexpress.net/vu-mat-tich-rung-dong-cua-nu-blogger-di-phuot-4987045.html) - 17:00 27/11/2025
-- 🎊 [Giúp nạn nhân tai nạn giao thông đi cấp cứu được hỗ trợ đến 5 triệu đồng](https://vnexpress.net/giup-nan-nhan-tai-nan-giao-thong-di-cap-cuu-duoc-ho-tro-den-5-trieu-dong-4986951.html) - 17:00 27/11/2025
+- 🎊 [Giúp nạn nhân tai nạn giao thông đi cấp cứu sẽ được hỗ trợ tới 5 triệu đồng](https://vnexpress.net/giup-nan-nhan-tai-nan-giao-thong-di-cap-cuu-se-duoc-ho-tro-toi-5-trieu-dong-4986951.html) - 17:00 27/11/2025
 - 😺 [&#39;Chồng già vợ trẻ là tiên&#39;, tôi thấy đúng với vợ chồng mình](https://vnexpress.net/chong-gia-vo-tre-la-tien-toi-thay-dung-voi-vo-chong-minh-4986919.html) - 17:00 27/11/2025
 - 🐘 [Thủ phủ nho Ninh Thuận thiệt hại nặng sau lũ kỷ lục](https://vnexpress.net/thu-phu-nho-ninh-thuan-thiet-hai-nang-sau-lu-ky-luc-4986841.html) - 17:00 27/11/2025
 - 🌁 [Nhà 197 m2 nội thất trắng của gia đình ba thế hệ](https://vnexpress.net/nha-197-m2-noi-that-trang-cua-gia-dinh-ba-the-he-4986480.html) - 17:00 27/11/2025
