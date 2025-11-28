@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bộ đội xây sửa nhà cho người dân vùng lũ](https://vnexpress.net/bo-doi-xay-sua-nha-cho-nguoi-dan-vung-lu-4987400.html) - 10:54 28/11/2025
 - 🤓 [Tổng Bí thư: Mọi trẻ bị bỏ rơi cần được chăm sóc an toàn](https://vnexpress.net/tong-bi-thu-moi-tre-bi-bo-roi-can-duoc-cham-soc-an-toan-4987408.html) - 10:22 28/11/2025
-- ⚗️ [Sóng 4-5 m uy hiếp biển Nha Trang, Phan Thiết](https://vnexpress.net/song-4-5-m-uy-hiep-bien-nha-trang-phan-thiet-4987428.html) - 10:00 28/11/2025
+- ⚗️ [Sóng cao 5 m dội vào khu du lịch Nha Trang, Phan Thiết](https://vnexpress.net/song-cao-5-m-doi-vao-khu-du-lich-nha-trang-phan-thiet-4987428.html) - 10:00 28/11/2025
 - 🌊 [Tàu chở 5 người chìm khi đi tránh bão Koto](https://vnexpress.net/tau-cho-5-nguoi-chim-khi-di-tranh-bao-koto-4987451.html) - 09:54 28/11/2025
 - 🎓 [Thêm một áp thấp nhiệt đới hoạt động gần Biển Đông](https://vnexpress.net/them-mot-ap-thap-nhiet-doi-hoat-dong-gan-bien-dong-4987402.html) - 09:15 28/11/2025
 - 🔥 [Cần Thơ đề xuất dự án chống ngập hơn 9.100 tỷ đồng](https://vnexpress.net/can-tho-de-xuat-du-an-chong-ngap-hon-9-100-ty-dong-4987392.html) - 09:04 28/11/2025
