@@ -4,23 +4,23 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lâm Tâm Như mặc tôn dáng](https://vnexpress.net/lam-tam-nhu-mac-ton-dang-4987358.html) - 08:04 28/11/2025
-- 💫 [Nhiều nhà văn Anh lo sợ bị AI thay thế](https://vnexpress.net/nhieu-nha-van-anh-lo-so-bi-ai-thay-the-4986094.html) - 07:25 28/11/2025
-- 🌮 [&#39;Zootopia 2&#39; - nỗi sợ bị kỳ thị](https://vnexpress.net/giai-tri/phim/thu-vien-phim/zootopia-2-858) - 05:28 28/11/2025
-- 🧠 [Met Gala - cuộc chơi quyền lực của tỷ phú Jeff Bezos](https://vnexpress.net/met-gala-cuoc-choi-quyen-luc-cua-ty-phu-jeff-bezos-4986755.html) - 04:48 28/11/2025
-- 👨‍🏫 [Ngày mai diễn ra Ngày hội Sáng tạo số Việt Nam 2025](https://vnexpress.net/ngay-mai-dien-ra-ngay-hoi-sang-tao-so-viet-nam-2025-4987011.html) - 04:00 28/11/2025
-- ⚗️ [Sao &#39;Mỹ nhân tâm kế&#39;: Tôi tù túng trong hôn nhân](https://vnexpress.net/sao-my-nhan-tam-ke-toi-tu-tung-trong-hon-nhan-4987191.html) - 03:57 28/11/2025
-- 😎 [Alicia Keys sẽ biểu diễn ở Hà Nội](https://vnexpress.net/alicia-keys-se-bieu-dien-o-ha-noi-4987247.html) - 03:56 28/11/2025
-- 🫣 [Đời sống Hà Nội thập niên 1980](https://vnexpress.net/doi-song-ha-noi-thap-nien-1980-4986875.html) - 02:51 28/11/2025
-- 🪄 [Chopard ra mắt đồng hồ &#39;chế tác phức tạp nhất&#39; dịp 30 năm thành lập](https://vnexpress.net/chopard-ra-mat-dong-ho-che-tac-phuc-tap-nhat-dip-30-nam-thanh-lap-4986848.html) - 02:00 28/11/2025
-- 🤓 [Lý do mốt &#39;giày xấu&#39; khiến nhiều người mê](https://vnexpress.net/ly-do-mot-giay-xau-khien-nhieu-nguoi-me-4986342.html) - 00:55 28/11/2025
-- 🫶 [Sắc vóc Miss International 2025](https://vnexpress.net/sac-voc-miss-international-2025-4987091.html) - 17:00 27/11/2025
-- 🧑‍🏫 [Ngọc Thuận &#39;Trai nhảy&#39; trở lại điện ảnh sau 20 năm](https://vnexpress.net/ngoc-thuan-trai-nhay-tro-lai-dien-anh-sau-20-nam-4986806.html) - 15:13 27/11/2025
-- 🦄 [Macaulay Culkin muốn quay phần mới &#39;Ở nhà một mình&#39;](https://vnexpress.net/macaulay-culkin-muon-quay-phan-moi-o-nha-mot-minh-4986936.html) - 12:00 27/11/2025
-- 💫 [Khánh Vy giao lưu ba nhà sáng tạo quốc tế tại Vietnam iContent 2025](https://vnexpress.net/khanh-vy-giao-luu-ba-nha-sang-tao-quoc-te-tai-vietnam-icontent-2025-4986241.html) - 11:00 27/11/2025
-- 🎊 [Kiều Duy trượt top 20 Miss International](https://vnexpress.net/kieu-duy-truot-top-20-miss-international-4986254.html) - 10:52 27/11/2025
-- 👹 [Châu Nhuận Phát hủy dự lễ trao giải sau vụ cháy ở Hong Kong](https://vnexpress.net/chau-nhuan-phat-huy-du-le-trao-giai-sau-vu-chay-o-hong-kong-4986843.html) - 08:07 27/11/2025
-- 💻 [Đối thoại mở về sự phát triển của ngành sáng tạo nội dung](https://vnexpress.net/doi-thoai-mo-ve-su-phat-trien-cua-nganh-sang-tao-noi-dung-4986419.html) - 07:00 27/11/2025
+- 🌏 [Đối thoại mở về vấn đề &#39;nóng&#39; của KOL, KOC](https://vnexpress.net/doi-thoai-mo-ve-van-de-nong-cua-kol-koc-4986419.html) - 08:49 28/11/2025
+- 💫 [Lâm Tâm Như mặc tôn dáng](https://vnexpress.net/lam-tam-nhu-mac-ton-dang-4987358.html) - 08:04 28/11/2025
+- 🌮 [Nhiều nhà văn Anh lo sợ bị AI thay thế](https://vnexpress.net/nhieu-nha-van-anh-lo-so-bi-ai-thay-the-4986094.html) - 07:25 28/11/2025
+- 🧠 [&#39;Zootopia 2&#39; - nỗi sợ bị kỳ thị](https://vnexpress.net/giai-tri/phim/thu-vien-phim/zootopia-2-858) - 05:28 28/11/2025
+- 👨‍🏫 [Met Gala - cuộc chơi quyền lực của tỷ phú Jeff Bezos](https://vnexpress.net/met-gala-cuoc-choi-quyen-luc-cua-ty-phu-jeff-bezos-4986755.html) - 04:48 28/11/2025
+- ⚗️ [Ngày mai diễn ra Ngày hội Sáng tạo số Việt Nam 2025](https://vnexpress.net/ngay-mai-dien-ra-ngay-hoi-sang-tao-so-viet-nam-2025-4987011.html) - 04:00 28/11/2025
+- 😎 [Sao &#39;Mỹ nhân tâm kế&#39;: Tôi tù túng trong hôn nhân](https://vnexpress.net/sao-my-nhan-tam-ke-toi-tu-tung-trong-hon-nhan-4987191.html) - 03:57 28/11/2025
+- 🫣 [Alicia Keys sẽ biểu diễn ở Hà Nội](https://vnexpress.net/alicia-keys-se-bieu-dien-o-ha-noi-4987247.html) - 03:56 28/11/2025
+- 🪄 [Đời sống Hà Nội thập niên 1980](https://vnexpress.net/doi-song-ha-noi-thap-nien-1980-4986875.html) - 02:51 28/11/2025
+- 🤓 [Chopard ra mắt đồng hồ &#39;chế tác phức tạp nhất&#39; dịp 30 năm thành lập](https://vnexpress.net/chopard-ra-mat-dong-ho-che-tac-phuc-tap-nhat-dip-30-nam-thanh-lap-4986848.html) - 02:00 28/11/2025
+- 🫶 [Lý do mốt &#39;giày xấu&#39; khiến nhiều người mê](https://vnexpress.net/ly-do-mot-giay-xau-khien-nhieu-nguoi-me-4986342.html) - 00:55 28/11/2025
+- 🧑‍🏫 [Sắc vóc Miss International 2025](https://vnexpress.net/sac-voc-miss-international-2025-4987091.html) - 17:00 27/11/2025
+- 🦄 [Ngọc Thuận &#39;Trai nhảy&#39; trở lại điện ảnh sau 20 năm](https://vnexpress.net/ngoc-thuan-trai-nhay-tro-lai-dien-anh-sau-20-nam-4986806.html) - 15:13 27/11/2025
+- 💫 [Macaulay Culkin muốn quay phần mới &#39;Ở nhà một mình&#39;](https://vnexpress.net/macaulay-culkin-muon-quay-phan-moi-o-nha-mot-minh-4986936.html) - 12:00 27/11/2025
+- 🎊 [Khánh Vy giao lưu ba nhà sáng tạo quốc tế tại Vietnam iContent 2025](https://vnexpress.net/khanh-vy-giao-luu-ba-nha-sang-tao-quoc-te-tai-vietnam-icontent-2025-4986241.html) - 11:00 27/11/2025
+- 👹 [Kiều Duy trượt top 20 Miss International](https://vnexpress.net/kieu-duy-truot-top-20-miss-international-4986254.html) - 10:52 27/11/2025
+- 💻 [Châu Nhuận Phát hủy dự lễ trao giải sau vụ cháy ở Hong Kong](https://vnexpress.net/chau-nhuan-phat-huy-du-le-trao-giai-sau-vu-chay-o-hong-kong-4986843.html) - 08:07 27/11/2025
 - 🤡 [Nhóm cascadeur đứng sau phim &#39;Truy tìm long diên hương&#39;](https://vnexpress.net/nhom-cascadeur-dung-sau-phim-truy-tim-long-dien-huong-4986242.html) - 05:17 27/11/2025
 - 🥰 [Diễn viên quần chúng chết trong phòng trọ](https://vnexpress.net/dien-vien-quan-chung-chet-trong-phong-tro-4986685.html) - 03:47 27/11/2025
 - 🚀 [Chopard chiến thắng hai hạng mục tại giải thưởng đồng hồ danh giá](https://vnexpress.net/chopard-chien-thang-hai-hang-muc-tai-giai-thuong-dong-ho-danh-gia-4986696.html) - 03:00 27/11/2025
