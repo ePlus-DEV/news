@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump: &#39;Mỹ ngừng tiếp nhận người nhập cư từ các nước thế giới thứ ba&#39;](https://vnexpress.net/ong-trump-my-ngung-tiep-nhan-nguoi-nhap-cu-tu-cac-nuoc-the-gioi-thu-ba-4987318.html) - 06:48 28/11/2025
-- 🕴 [Nghi phạm bắn chết vệ binh Mỹ có thể từng là đặc nhiệm Afghanistan](https://vnexpress.net/nghi-pham-ban-chet-ve-binh-my-co-the-tung-la-dac-nhiem-afghanistan-4987217.html) - 05:01 28/11/2025
-- 🤭 [Nhà xác tỉnh miền nam Thái Lan quá tải sau lũ lụt](https://vnexpress.net/nha-xac-tinh-mien-nam-thai-lan-qua-tai-sau-lu-lut-4987291.html) - 04:59 28/11/2025
-- 🧑‍💻 [Lũ cuốn phăng loạt nhà cửa ở Indonesia, 84 người chết](https://vnexpress.net/lu-cuon-phang-loat-nha-cua-o-indonesia-84-nguoi-chet-4987255.html) - 04:50 28/11/2025
-- 🦏 [Mỹ rà soát lại toàn bộ thẻ xanh cấp cho người nhập cư từ 19 nước](https://vnexpress.net/my-ra-soat-lai-toan-bo-the-xanh-cap-cho-nguoi-nhap-cu-tu-19-nuoc-4987254.html) - 04:38 28/11/2025
-- 🦒 [Nhà thầu trong vụ cháy chung cư Hong Kong từng nhiều lần bị xử phạt](https://vnexpress.net/nha-thau-trong-vu-chay-chung-cu-hong-kong-tung-nhieu-lan-bi-xu-phat-4987208.html) - 04:34 28/11/2025
-- 🌈 [Lý do công nghệ bất lực trong đám cháy chung cư Hong Kong](https://vnexpress.net/ly-do-cong-nghe-bat-luc-trong-dam-chay-chung-cu-hong-kong-4987175.html) - 04:20 28/11/2025
-- 🧑‍🏫 [Hai ngày lính cứu hỏa Hong Kong khống chế hỏa hoạn chung cư](https://vnexpress.net/hai-ngay-linh-cuu-hoa-hong-kong-khong-che-hoa-hoan-chung-cu-4987171.html) - 03:09 28/11/2025
-- 🐲 [Binh sĩ tự ý rút lui, Ukraine bị đánh thọc sườn ở Zaporizhzhia](https://vnexpress.net/binh-si-tu-y-rut-lui-ukraine-bi-danh-thoc-suon-o-zaporizhzhia-4987190.html) - 03:06 28/11/2025
-- 🦒 [Mồi lửa khởi phát đám cháy thiêu rụi cụm chung cư Hong Kong](https://vnexpress.net/moi-lua-khoi-phat-dam-chay-thieu-rui-cum-chung-cu-hong-kong-4987150.html) - 02:37 28/11/2025
-- 🐻 [Ông Trump nói sắp chặn tội phạm ma túy Venezuela &#39;trên bộ&#39;](https://vnexpress.net/ong-trump-noi-sap-chan-toi-pham-ma-tuy-venezuela-tren-bo-4987169.html) - 02:37 28/11/2025
-- 🚀 [Ông Putin: Nga đã bao vây hoàn toàn thành trì Pokrovsk - Mirnograd](https://vnexpress.net/ong-putin-nga-da-bao-vay-hoan-toan-thanh-tri-pokrovsk-mirnograd-4987137.html) - 01:13 28/11/2025
-- 🥰 [Ít nhất 94 người chết trong vụ cháy chung cư ở Hong Kong](https://vnexpress.net/it-nhat-94-nguoi-chet-trong-vu-chay-chung-cu-o-hong-kong-4987132.html) - 00:38 28/11/2025
-- 🔥 [Mỹ ngừng tiếp nhận người nhập cư Afghanistan sau vụ vệ binh bị bắn](https://vnexpress.net/my-ngung-tiep-nhan-nguoi-nhap-cu-afghanistan-sau-vu-ve-binh-bi-ban-4987129.html) - 23:37 27/11/2025
-- 🥳 [Ông Putin lần đầu đề cập kế hoạch hòa bình Ukraine](https://vnexpress.net/ong-putin-lan-dau-de-cap-ke-hoach-hoa-binh-ukraine-4987095.html) - 23:21 27/11/2025
-- 💼 [Bị đặc vụ ICE bắt khi trên đường đón con](https://vnexpress.net/bi-dac-vu-ice-bat-khi-tren-duong-don-con-4986700.html) - 19:00 27/11/2025
-- 🤡 [Bộ trưởng &#39;ngôi sao&#39; được ông Trump chọn thúc đẩy hòa đàm Nga - Ukraine](https://vnexpress.net/bo-truong-ngoi-sao-duoc-ong-trump-chon-thuc-day-hoa-dam-nga-ukraine-4986189.html) - 17:00 27/11/2025
-- 🌁 [Số người chết trong vụ cháy chung cư Hong Kong tăng lên 83](https://vnexpress.net/so-nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-83-4987112.html) - 16:28 27/11/2025
-- 🤩 [Cụm chung cư cháy ở Hong Kong từng bị cảnh báo về nguy cơ hỏa hoạn](https://vnexpress.net/cum-chung-cu-chay-o-hong-kong-tung-bi-canh-bao-ve-nguy-co-hoa-hoan-4987090.html) - 15:21 27/11/2025
+- 🎭 [Lời nhắn của người chồng với vợ kẹt trong chung cư cháy ở Hong Kong](https://vnexpress.net/loi-nhan-cua-nguoi-chong-voi-vo-ket-trong-chung-cu-chay-o-hong-kong-4987241.html) - 07:14 28/11/2025
+- 🕴 [Ông Trump: &#39;Mỹ ngừng tiếp nhận người nhập cư từ các nước thế giới thứ ba&#39;](https://vnexpress.net/ong-trump-my-ngung-tiep-nhan-nguoi-nhap-cu-tu-cac-nuoc-the-gioi-thu-ba-4987318.html) - 06:48 28/11/2025
+- 🤭 [Nghi phạm bắn chết vệ binh Mỹ có thể từng là đặc nhiệm Afghanistan](https://vnexpress.net/nghi-pham-ban-chet-ve-binh-my-co-the-tung-la-dac-nhiem-afghanistan-4987217.html) - 05:01 28/11/2025
+- 🧑‍💻 [Nhà xác tỉnh miền nam Thái Lan quá tải sau lũ lụt](https://vnexpress.net/nha-xac-tinh-mien-nam-thai-lan-qua-tai-sau-lu-lut-4987291.html) - 04:59 28/11/2025
+- 🦏 [Lũ cuốn phăng loạt nhà cửa ở Indonesia, 84 người chết](https://vnexpress.net/lu-cuon-phang-loat-nha-cua-o-indonesia-84-nguoi-chet-4987255.html) - 04:50 28/11/2025
+- 🦒 [Mỹ rà soát lại toàn bộ thẻ xanh cấp cho người nhập cư từ 19 nước](https://vnexpress.net/my-ra-soat-lai-toan-bo-the-xanh-cap-cho-nguoi-nhap-cu-tu-19-nuoc-4987254.html) - 04:38 28/11/2025
+- 🌈 [Nhà thầu trong vụ cháy chung cư Hong Kong từng nhiều lần bị xử phạt](https://vnexpress.net/nha-thau-trong-vu-chay-chung-cu-hong-kong-tung-nhieu-lan-bi-xu-phat-4987208.html) - 04:34 28/11/2025
+- 🧑‍🏫 [Lý do công nghệ bất lực trong đám cháy chung cư Hong Kong](https://vnexpress.net/ly-do-cong-nghe-bat-luc-trong-dam-chay-chung-cu-hong-kong-4987175.html) - 04:20 28/11/2025
+- 🐲 [Hai ngày lính cứu hỏa Hong Kong khống chế hỏa hoạn chung cư](https://vnexpress.net/hai-ngay-linh-cuu-hoa-hong-kong-khong-che-hoa-hoan-chung-cu-4987171.html) - 03:09 28/11/2025
+- 🦒 [Binh sĩ tự ý rút lui, Ukraine bị đánh thọc sườn ở Zaporizhzhia](https://vnexpress.net/binh-si-tu-y-rut-lui-ukraine-bi-danh-thoc-suon-o-zaporizhzhia-4987190.html) - 03:06 28/11/2025
+- 🐻 [Mồi lửa khởi phát đám cháy thiêu rụi cụm chung cư Hong Kong](https://vnexpress.net/moi-lua-khoi-phat-dam-chay-thieu-rui-cum-chung-cu-hong-kong-4987150.html) - 02:37 28/11/2025
+- 🚀 [Ông Trump nói sắp chặn tội phạm ma túy Venezuela &#39;trên bộ&#39;](https://vnexpress.net/ong-trump-noi-sap-chan-toi-pham-ma-tuy-venezuela-tren-bo-4987169.html) - 02:37 28/11/2025
+- 🥰 [Ông Putin: Nga đã bao vây hoàn toàn thành trì Pokrovsk - Mirnograd](https://vnexpress.net/ong-putin-nga-da-bao-vay-hoan-toan-thanh-tri-pokrovsk-mirnograd-4987137.html) - 01:13 28/11/2025
+- 🔥 [Ít nhất 94 người chết trong vụ cháy chung cư ở Hong Kong](https://vnexpress.net/it-nhat-94-nguoi-chet-trong-vu-chay-chung-cu-o-hong-kong-4987132.html) - 00:38 28/11/2025
+- 🥳 [Mỹ ngừng tiếp nhận người nhập cư Afghanistan sau vụ vệ binh bị bắn](https://vnexpress.net/my-ngung-tiep-nhan-nguoi-nhap-cu-afghanistan-sau-vu-ve-binh-bi-ban-4987129.html) - 23:37 27/11/2025
+- 💼 [Ông Putin lần đầu đề cập kế hoạch hòa bình Ukraine](https://vnexpress.net/ong-putin-lan-dau-de-cap-ke-hoach-hoa-binh-ukraine-4987095.html) - 23:21 27/11/2025
+- 🤡 [Bị đặc vụ ICE bắt khi trên đường đón con](https://vnexpress.net/bi-dac-vu-ice-bat-khi-tren-duong-don-con-4986700.html) - 19:00 27/11/2025
+- 🌁 [Bộ trưởng &#39;ngôi sao&#39; được ông Trump chọn thúc đẩy hòa đàm Nga - Ukraine](https://vnexpress.net/bo-truong-ngoi-sao-duoc-ong-trump-chon-thuc-day-hoa-dam-nga-ukraine-4986189.html) - 17:00 27/11/2025
+- 🤩 [Số người chết trong vụ cháy chung cư Hong Kong tăng lên 83](https://vnexpress.net/so-nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-83-4987112.html) - 16:28 27/11/2025
+- 🎉 [Cụm chung cư cháy ở Hong Kong từng bị cảnh báo về nguy cơ hỏa hoạn](https://vnexpress.net/cum-chung-cu-chay-o-hong-kong-tung-bi-canh-bao-ve-nguy-co-hoa-hoan-4987090.html) - 15:21 27/11/2025
 - 🎉 [Người Mỹ kể cảnh hỗn loạn khi vệ binh bị phục kích gần Nhà Trắng](https://vnexpress.net/nguoi-my-ke-canh-hon-loan-khi-ve-binh-bi-phuc-kich-gan-nha-trang-4986858.html) - 15:00 27/11/2025
-- 🎉 [Người Jakarta tranh cãi về lệnh cấm thịt chó](https://vnexpress.net/nguoi-jakarta-tranh-cai-ve-lenh-cam-thit-cho-4986963.html) - 14:00 27/11/2025
-- 🌁 [Hạnh phúc dở dang của lính cứu hỏa thiệt mạng trong vụ cháy ở Hong Kong](https://vnexpress.net/hanh-phuc-do-dang-cua-linh-cuu-hoa-thiet-mang-trong-vu-chay-o-hong-kong-4987074.html) - 13:08 27/11/2025
-- 🌊 [Nga kết án chung thân 8 người liên quan vụ đánh bom cầu Crimea](https://vnexpress.net/nga-ket-an-chung-than-8-nguoi-lien-quan-vu-danh-bom-cau-crimea-4987051.html) - 12:18 27/11/2025
-- 🕴 [Thách thức với nỗ lực sơ tán trong các vụ cháy chung cư](https://vnexpress.net/thach-thuc-voi-no-luc-so-tan-trong-cac-vu-chay-chung-cu-4986845.html) - 12:00 27/11/2025
-- 🎓 [Quốc vương Brunei sắp thăm Việt Nam](https://vnexpress.net/quoc-vuong-brunei-sap-tham-viet-nam-4986999.html) - 09:38 27/11/2025
-- 🦩 [Lo ngại về nguy cơ chung cư Hong Kong sập sau hỏa hoạn](https://vnexpress.net/lo-ngai-ve-nguy-co-chung-cu-hong-kong-sap-sau-hoa-hoan-4986836.html) - 09:37 27/11/2025
-- 🌏 [Quốc tế hỗ trợ Việt Nam gần 16 triệu USD khắc phục hậu quả mưa lũ](https://vnexpress.net/quoc-te-ho-tro-viet-nam-gan-16-trieu-usd-khac-phuc-hau-qua-mua-lu-4986992.html) - 09:36 27/11/2025
-- 🌋 [Quan chức Ukraine nêu hai &#39;lằn ranh đỏ&#39; với thỏa thuận hòa bình](https://vnexpress.net/quan-chuc-ukraine-neu-hai-lan-ranh-do-voi-thoa-thuan-hoa-binh-4986960.html) - 09:11 27/11/2025
-- 🪜 [Ông Trump không mời Nam Phi dự hội nghị G20 năm sau](https://vnexpress.net/ong-trump-khong-moi-nam-phi-du-hoi-nghi-g20-nam-sau-4986926.html) - 09:04 27/11/2025
-- 🕴 [Hàng chục binh sĩ Anh đổ bệnh khi ngồi thiết giáp 10 triệu USD](https://vnexpress.net/hang-chuc-binh-si-anh-do-benh-khi-ngoi-thiet-giap-10-trieu-usd-4986640.html) - 08:57 27/11/2025
-- 🧑‍🏫 [Người chết trong vụ cháy chung cư Hong Kong tăng lên 55](https://vnexpress.net/nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-55-4986859.html) - 08:13 27/11/2025
-- 🌮 [Đêm đau thương của người Hong Kong](https://vnexpress.net/dem-dau-thuong-cua-nguoi-hong-kong-4986754.html) - 07:57 27/11/2025
-- 🚦 [Mỹ rà soát toàn bộ người Afghanistan nhập cảnh dưới thời ông Biden](https://vnexpress.net/my-ra-soat-toan-bo-nguoi-afghanistan-nhap-canh-duoi-thoi-ong-biden-4986830.html) - 07:42 27/11/2025
-- 💫 [Hà Lan làm lồng chống drone cho pháo tự hành &#39;mạnh nhất thế giới&#39;](https://vnexpress.net/ha-lan-lam-long-chong-drone-cho-phao-tu-hanh-manh-nhat-the-gioi-4986802.html) - 07:41 27/11/2025
-- 🤡 [Thiết kế của cụm chung cư Hong Kong bị thiêu rụi trong đám cháy lan](https://vnexpress.net/thiet-ke-cua-cum-chung-cu-hong-kong-bi-thieu-rui-trong-dam-chay-lan-4986803.html) - 06:46 27/11/2025
-- 🦣 [Rủi ro từ những hệ thống giàn giáo tre ở Hong Kong](https://vnexpress.net/rui-ro-tu-nhung-he-thong-gian-giao-tre-o-hong-kong-4986636.html) - 04:49 27/11/2025
-- 🎬 [Những lính cứu hỏa quyết lao vào biển lửa trong vụ cháy chung cư Hong Kong](https://vnexpress.net/nhung-linh-cuu-hoa-quyet-lao-vao-bien-lua-trong-vu-chay-chung-cu-hong-kong-4986767.html) - 04:43 27/11/2025
-- 🎉 [Tàu hỏa lao vào nhóm công nhân đường sắt, 11 người thiệt mạng](https://vnexpress.net/tau-hoa-lao-vao-nhom-cong-nhan-duong-sat-11-nguoi-thiet-mang-4986794.html) - 04:25 27/11/2025
-- 🎡 [Ông Trump có thể đã khuyên Thủ tướng Nhật &#39;không tăng căng thẳng với Trung Quốc&#39;](https://vnexpress.net/ong-trump-co-the-da-khuyen-thu-tuong-nhat-khong-tang-cang-thang-voi-trung-quoc-4986676.html) - 04:24 27/11/2025
-- 🌜 [19 giờ hỏa hoạn thiêu đốt khu chung cư Hong Kong](https://vnexpress.net/19-gio-hoa-hoan-thieu-dot-khu-chung-cu-hong-kong-4986658.html) - 03:23 27/11/2025
-- 🎡 [Nga phát triển UAV chuyên săn lùng HIMARS, pháo NATO](https://vnexpress.net/nga-phat-trien-uav-chuyen-san-lung-himars-phao-nato-4986659.html) - 03:23 27/11/2025
-- 🤗 [Nghi phạm bắn hai lính Vệ binh Quốc gia là người nhập cư](https://vnexpress.net/nghi-pham-ban-hai-linh-ve-binh-quoc-gia-la-nguoi-nhap-cu-4986665.html) - 03:20 27/11/2025
-- 🦩 [Phiến quân bắt hàng trăm người, Nigeria ban bố tình trạng khẩn cấp](https://vnexpress.net/phien-quan-bat-hang-tram-nguoi-nigeria-ban-bo-tinh-trang-khan-cap-4986641.html) - 02:58 27/11/2025
-- 🎓 [Hai điểm bất thường trong thảm kịch cháy chung cư Hong Kong](https://vnexpress.net/hai-diem-bat-thuong-trong-tham-kich-chay-chung-cu-hong-kong-4986682.html) - 02:39 27/11/2025
-- 🌁 [Những nguyên nhân có thể gây ra vụ cháy chung cư Hong Kong](https://vnexpress.net/nhung-nguyen-nhan-co-the-gay-ra-vu-chay-chung-cu-hong-kong-4986621.html) - 01:45 27/11/2025
-- 🤩 [Đảo chính ở Guinea-Bissau](https://vnexpress.net/dao-chinh-o-guinea-bissau-4986617.html) - 00:56 27/11/2025
-- 👹 [Bang Georgia hủy truy tố ông Trump âm mưu lật kèo bầu cử](https://vnexpress.net/bang-georgia-huy-truy-to-ong-trump-am-muu-lat-keo-bau-cu-4986598.html) - 00:14 27/11/2025
-- ⛽️ [Hai lính Vệ binh Quốc gia Mỹ bị bắn gần Nhà Trắng](https://vnexpress.net/hai-linh-ve-binh-quoc-gia-my-bi-ban-gan-nha-trang-4986612.html) - 00:02 27/11/2025
-- 🚀 [44 người chết, 279 người mất tích trong vụ cháy chung cư Hong Kong](https://vnexpress.net/44-nguoi-chet-279-nguoi-mat-tich-trong-vu-chay-chung-cu-hong-kong-4986604.html) - 23:46 26/11/2025
-- 🎡 [Dấu hiệu tuổi tác bắt đầu đè nặng lên ông Trump](https://vnexpress.net/dau-hieu-tuoi-tac-bat-dau-de-nang-len-ong-trump-4986196.html) - 22:00 26/11/2025
-- 🕯 [Mỹ tăng phí thêm 100 USD với người nước ngoài vào công viên quốc gia](https://vnexpress.net/my-tang-phi-them-100-usd-voi-nguoi-nuoc-ngoai-vao-cong-vien-quoc-gia-4986414.html) - 19:00 26/11/2025
-- 🐻 [Nhân chứng kể khoảnh khắc chung cư Hong Kong chìm dần trong biển lửa](https://vnexpress.net/nhan-chung-ke-khoanh-khac-chung-cu-hong-kong-chim-dan-trong-bien-lua-4986585.html) - 16:45 26/11/2025
-- 🚦 [Biển lửa nuốt chửng cụm chung cư Hong Kong](https://vnexpress.net/bien-lua-nuot-chung-cum-chung-cu-hong-kong-4986560.html) - 13:13 26/11/2025
-- 👍 [Tư lệnh Sudan kêu gọi ông Trump giúp chấm dứt nội chiến](https://vnexpress.net/tu-lenh-sudan-keu-goi-ong-trump-giup-cham-dut-noi-chien-4986548.html) - 12:25 26/11/2025
-- 🚀 [Túi sinh tồn - bộ dụng cụ cứu mạng người Nhật giữa thiên tai](https://vnexpress.net/tui-sinh-ton-bo-dung-cu-cuu-mang-nguoi-nhat-giua-thien-tai-4986320.html) - 12:00 26/11/2025
-- 🌮 [Công ty Trung Quốc khoe tên lửa siêu vượt âm có thể vươn tới Nhật](https://vnexpress.net/cong-ty-trung-quoc-khoe-ten-lua-sieu-vuot-am-co-the-vuon-toi-nhat-4986505.html) - 11:24 26/11/2025
-- 😎 [Lửa bao trùm cụm chung cư ở Hong Kong, 13 người chết](https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-13-nguoi-chet-4986525.html) - 11:05 26/11/2025
-- 🐲 [Nga nói một số điểm trong kế hoạch hòa bình Ukraine &#39;tích cực&#39;](https://vnexpress.net/nga-noi-mot-so-diem-trong-ke-hoach-hoa-binh-ukraine-tich-cuc-4986498.html) - 10:07 26/11/2025
-- 💫 [Lũ lụt khiến 33 người ở Thái Lan thiệt mạng](https://vnexpress.net/lu-lut-khien-33-nguoi-o-thai-lan-thiet-mang-4986459.html) - 09:59 26/11/2025
-- 👀 [Bộ trưởng Mỹ có thể đã cảnh báo Ukraine về &#39;thất bại cận kề&#39;](https://vnexpress.net/bo-truong-my-co-the-da-canh-bao-ukraine-ve-that-bai-can-ke-4986475.html) - 09:47 26/11/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Người Jakarta tranh cãi về lệnh cấm thịt chó](https://vnexpress.net/nguoi-jakarta-tranh-cai-ve-lenh-cam-thit-cho-4986963.html) - 14:00 27/11/2025
+- 🌊 [Hạnh phúc dở dang của lính cứu hỏa thiệt mạng trong vụ cháy ở Hong Kong](https://vnexpress.net/hanh-phuc-do-dang-cua-linh-cuu-hoa-thiet-mang-trong-vu-chay-o-hong-kong-4987074.html) - 13:08 27/11/2025
+- 🕴 [Nga kết án chung thân 8 người liên quan vụ đánh bom cầu Crimea](https://vnexpress.net/nga-ket-an-chung-than-8-nguoi-lien-quan-vu-danh-bom-cau-crimea-4987051.html) - 12:18 27/11/2025
+- 🎓 [Thách thức với nỗ lực sơ tán trong các vụ cháy chung cư](https://vnexpress.net/thach-thuc-voi-no-luc-so-tan-trong-cac-vu-chay-chung-cu-4986845.html) - 12:00 27/11/2025
+- 🦩 [Quốc vương Brunei sắp thăm Việt Nam](https://vnexpress.net/quoc-vuong-brunei-sap-tham-viet-nam-4986999.html) - 09:38 27/11/2025
+- 🌏 [Lo ngại về nguy cơ chung cư Hong Kong sập sau hỏa hoạn](https://vnexpress.net/lo-ngai-ve-nguy-co-chung-cu-hong-kong-sap-sau-hoa-hoan-4986836.html) - 09:37 27/11/2025
+- 🌋 [Quốc tế hỗ trợ Việt Nam gần 16 triệu USD khắc phục hậu quả mưa lũ](https://vnexpress.net/quoc-te-ho-tro-viet-nam-gan-16-trieu-usd-khac-phuc-hau-qua-mua-lu-4986992.html) - 09:36 27/11/2025
+- 🪜 [Quan chức Ukraine nêu hai &#39;lằn ranh đỏ&#39; với thỏa thuận hòa bình](https://vnexpress.net/quan-chuc-ukraine-neu-hai-lan-ranh-do-voi-thoa-thuan-hoa-binh-4986960.html) - 09:11 27/11/2025
+- 🕴 [Ông Trump không mời Nam Phi dự hội nghị G20 năm sau](https://vnexpress.net/ong-trump-khong-moi-nam-phi-du-hoi-nghi-g20-nam-sau-4986926.html) - 09:04 27/11/2025
+- 🧑‍🏫 [Hàng chục binh sĩ Anh đổ bệnh khi ngồi thiết giáp 10 triệu USD](https://vnexpress.net/hang-chuc-binh-si-anh-do-benh-khi-ngoi-thiet-giap-10-trieu-usd-4986640.html) - 08:57 27/11/2025
+- 🌮 [Người chết trong vụ cháy chung cư Hong Kong tăng lên 55](https://vnexpress.net/nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-55-4986859.html) - 08:13 27/11/2025
+- 🚦 [Đêm đau thương của người Hong Kong](https://vnexpress.net/dem-dau-thuong-cua-nguoi-hong-kong-4986754.html) - 07:57 27/11/2025
+- 💫 [Mỹ rà soát toàn bộ người Afghanistan nhập cảnh dưới thời ông Biden](https://vnexpress.net/my-ra-soat-toan-bo-nguoi-afghanistan-nhap-canh-duoi-thoi-ong-biden-4986830.html) - 07:42 27/11/2025
+- 🤡 [Hà Lan làm lồng chống drone cho pháo tự hành &#39;mạnh nhất thế giới&#39;](https://vnexpress.net/ha-lan-lam-long-chong-drone-cho-phao-tu-hanh-manh-nhat-the-gioi-4986802.html) - 07:41 27/11/2025
+- 🦣 [Thiết kế của cụm chung cư Hong Kong bị thiêu rụi trong đám cháy lan](https://vnexpress.net/thiet-ke-cua-cum-chung-cu-hong-kong-bi-thieu-rui-trong-dam-chay-lan-4986803.html) - 06:46 27/11/2025
+- 🎬 [Rủi ro từ những hệ thống giàn giáo tre ở Hong Kong](https://vnexpress.net/rui-ro-tu-nhung-he-thong-gian-giao-tre-o-hong-kong-4986636.html) - 04:49 27/11/2025
+- 🎉 [Những lính cứu hỏa quyết lao vào biển lửa trong vụ cháy chung cư Hong Kong](https://vnexpress.net/nhung-linh-cuu-hoa-quyet-lao-vao-bien-lua-trong-vu-chay-chung-cu-hong-kong-4986767.html) - 04:43 27/11/2025
+- 🎡 [Tàu hỏa lao vào nhóm công nhân đường sắt, 11 người thiệt mạng](https://vnexpress.net/tau-hoa-lao-vao-nhom-cong-nhan-duong-sat-11-nguoi-thiet-mang-4986794.html) - 04:25 27/11/2025
+- 🌜 [Ông Trump có thể đã khuyên Thủ tướng Nhật &#39;không tăng căng thẳng với Trung Quốc&#39;](https://vnexpress.net/ong-trump-co-the-da-khuyen-thu-tuong-nhat-khong-tang-cang-thang-voi-trung-quoc-4986676.html) - 04:24 27/11/2025
+- 🎡 [19 giờ hỏa hoạn thiêu đốt khu chung cư Hong Kong](https://vnexpress.net/19-gio-hoa-hoan-thieu-dot-khu-chung-cu-hong-kong-4986658.html) - 03:23 27/11/2025
+- 🤗 [Nga phát triển UAV chuyên săn lùng HIMARS, pháo NATO](https://vnexpress.net/nga-phat-trien-uav-chuyen-san-lung-himars-phao-nato-4986659.html) - 03:23 27/11/2025
+- 🦩 [Nghi phạm bắn hai lính Vệ binh Quốc gia là người nhập cư](https://vnexpress.net/nghi-pham-ban-hai-linh-ve-binh-quoc-gia-la-nguoi-nhap-cu-4986665.html) - 03:20 27/11/2025
+- 🎓 [Phiến quân bắt hàng trăm người, Nigeria ban bố tình trạng khẩn cấp](https://vnexpress.net/phien-quan-bat-hang-tram-nguoi-nigeria-ban-bo-tinh-trang-khan-cap-4986641.html) - 02:58 27/11/2025
+- 🌁 [Hai điểm bất thường trong thảm kịch cháy chung cư Hong Kong](https://vnexpress.net/hai-diem-bat-thuong-trong-tham-kich-chay-chung-cu-hong-kong-4986682.html) - 02:39 27/11/2025
+- 🤩 [Những nguyên nhân có thể gây ra vụ cháy chung cư Hong Kong](https://vnexpress.net/nhung-nguyen-nhan-co-the-gay-ra-vu-chay-chung-cu-hong-kong-4986621.html) - 01:45 27/11/2025
+- 👹 [Đảo chính ở Guinea-Bissau](https://vnexpress.net/dao-chinh-o-guinea-bissau-4986617.html) - 00:56 27/11/2025
+- ⛽️ [Bang Georgia hủy truy tố ông Trump âm mưu lật kèo bầu cử](https://vnexpress.net/bang-georgia-huy-truy-to-ong-trump-am-muu-lat-keo-bau-cu-4986598.html) - 00:14 27/11/2025
+- 🚀 [Hai lính Vệ binh Quốc gia Mỹ bị bắn gần Nhà Trắng](https://vnexpress.net/hai-linh-ve-binh-quoc-gia-my-bi-ban-gan-nha-trang-4986612.html) - 00:02 27/11/2025
+- 🎡 [44 người chết, 279 người mất tích trong vụ cháy chung cư Hong Kong](https://vnexpress.net/44-nguoi-chet-279-nguoi-mat-tich-trong-vu-chay-chung-cu-hong-kong-4986604.html) - 23:46 26/11/2025
+- 🕯 [Dấu hiệu tuổi tác bắt đầu đè nặng lên ông Trump](https://vnexpress.net/dau-hieu-tuoi-tac-bat-dau-de-nang-len-ong-trump-4986196.html) - 22:00 26/11/2025
+- 🐻 [Mỹ tăng phí thêm 100 USD với người nước ngoài vào công viên quốc gia](https://vnexpress.net/my-tang-phi-them-100-usd-voi-nguoi-nuoc-ngoai-vao-cong-vien-quoc-gia-4986414.html) - 19:00 26/11/2025
+- 🚦 [Nhân chứng kể khoảnh khắc chung cư Hong Kong chìm dần trong biển lửa](https://vnexpress.net/nhan-chung-ke-khoanh-khac-chung-cu-hong-kong-chim-dan-trong-bien-lua-4986585.html) - 16:45 26/11/2025
+- 👍 [Biển lửa nuốt chửng cụm chung cư Hong Kong](https://vnexpress.net/bien-lua-nuot-chung-cum-chung-cu-hong-kong-4986560.html) - 13:13 26/11/2025
+- 🚀 [Tư lệnh Sudan kêu gọi ông Trump giúp chấm dứt nội chiến](https://vnexpress.net/tu-lenh-sudan-keu-goi-ong-trump-giup-cham-dut-noi-chien-4986548.html) - 12:25 26/11/2025
+- 🌮 [Túi sinh tồn - bộ dụng cụ cứu mạng người Nhật giữa thiên tai](https://vnexpress.net/tui-sinh-ton-bo-dung-cu-cuu-mang-nguoi-nhat-giua-thien-tai-4986320.html) - 12:00 26/11/2025
+- 😎 [Công ty Trung Quốc khoe tên lửa siêu vượt âm có thể vươn tới Nhật](https://vnexpress.net/cong-ty-trung-quoc-khoe-ten-lua-sieu-vuot-am-co-the-vuon-toi-nhat-4986505.html) - 11:24 26/11/2025
+- 🐲 [Lửa bao trùm cụm chung cư ở Hong Kong, 13 người chết](https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-13-nguoi-chet-4986525.html) - 11:05 26/11/2025
+- 💫 [Nga nói một số điểm trong kế hoạch hòa bình Ukraine &#39;tích cực&#39;](https://vnexpress.net/nga-noi-mot-so-diem-trong-ke-hoach-hoa-binh-ukraine-tich-cuc-4986498.html) - 10:07 26/11/2025
+- 👀 [Lũ lụt khiến 33 người ở Thái Lan thiệt mạng](https://vnexpress.net/lu-lut-khien-33-nguoi-o-thai-lan-thiet-mang-4986459.html) - 09:59 26/11/2025<!-- vnexpress-the-gioi:END -->
