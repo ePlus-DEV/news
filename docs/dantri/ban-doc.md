@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [&quot;Xiết&quot; văn hoá lái xe quan trọng hơn tăng độ khó của bài thi sát hạch](https://dantri.com.vn/ban-doc/xiet-van-hoa-lai-xe-quan-trong-hon-tang-do-kho-cua-bai-thi-sat-hach-20251128084703967.htm) - 01:47 28/11/2025
+- 🦒 [&quot;Xiết&quot; văn hóa lái xe quan trọng hơn tăng độ khó của bài thi sát hạch](https://dantri.com.vn/ban-doc/xiet-van-hoa-lai-xe-quan-trong-hon-tang-do-kho-cua-bai-thi-sat-hach-20251128084703967.htm) - 01:47 28/11/2025
 - 🤓 [Hà Nội: Xe rác dàn hàng lấn chiếm 2/3 lòng đường gây mất an toàn giao thông](https://dantri.com.vn/ban-doc/ha-noi-xe-rac-dan-hang-lan-chiem-23-long-duong-gay-mat-an-toan-giao-thong-20251127111033179.htm) - 06:16 27/11/2025
 - 🐻 [Tham gia giao thông khi đang đề nghị cấp lại Giấy phép lái xe thế nào?](https://dantri.com.vn/ban-doc/tham-gia-giao-thong-khi-dang-de-nghi-cap-lai-giay-phep-lai-xe-the-nao-20251127091621316.htm) - 02:16 27/11/2025
 - 🏊 [Nếu phương tiện công cộng thuận tiện, tôi tự nguyện bỏ xe xăng, xe cá nhân](https://dantri.com.vn/ban-doc/neu-phuong-tien-cong-cong-thuan-tien-toi-tu-nguyen-bo-xe-xang-xe-ca-nhan-20251125231428791.htm) - 03:01 26/11/2025
