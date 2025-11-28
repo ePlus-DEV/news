@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Đau mạn tính: Vì sao cơn đau kéo dài dai dẳng và ngày càng khó dứt?](https://dantri.com.vn/suc-khoe/dau-man-tinh-vi-sao-con-dau-keo-dai-dai-dang-va-ngay-cang-kho-dut-20251127180238439.htm) - 11:02 27/11/2025
+- 🪜 [Bước tiến mới từ điện quang can thiệp chữa đau thần kinh dai dẳng](https://dantri.com.vn/suc-khoe/buoc-tien-moi-tu-dien-quang-can-thiep-chua-dau-than-kinh-dai-dang-20251127180238439.htm) - 01:54 28/11/2025
 - 🗽 [Toạ đàm: Phẫu thuật tuyến giáp - Những điều bác sĩ muốn bạn hiểu đúng](https://dantri.com.vn/suc-khoe/toa-dam-phau-thuat-tuyen-giap-nhung-dieu-bac-si-muon-ban-hieu-dung-20251120170939223.htm) - 01:53 21/11/2025
 - 🕯 [Toạ đàm: Phát triển ESG bền vững trong sản xuất thiết bị y tế](https://dantri.com.vn/suc-khoe/toa-dam-phat-trien-esg-ben-vung-trong-san-xuat-thiet-bi-y-te-20251120073400688.htm) - 00:34 20/11/2025
 - 🫶 [Bắt sóng nghề nghiệp thời AI: Làm gì để không bị đào thải?](https://dantri.com.vn/giao-duc/bat-song-nghe-nghiep-thoi-ai-lam-gi-de-khong-bi-dao-thai-20251118172937821.htm) - 02:20 19/11/2025
