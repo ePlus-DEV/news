@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [FIFA có thể tăng án phạt với 7 cầu thủ nhập tịch gian lận của Malaysia](https://dantri.com.vn/the-thao/fifa-co-the-tang-an-phat-voi-7-cau-thu-nhap-tich-gian-lan-cua-malaysia-20251128193258086.htm) - 12:33 28/11/2025
+- 🎡 [FIFA tiếp tục điều tra, có thể tăng án phạt với 7 sao nhập tịch Malaysia](https://dantri.com.vn/the-thao/fifa-tiep-tuc-dieu-tra-co-the-tang-an-phat-voi-7-sao-nhap-tich-malaysia-20251128193258086.htm) - 13:19 28/11/2025
 - 💯 [U17 Malaysia thắng nghẹt thở, soán ngôi đầu của U17 Việt Nam](https://dantri.com.vn/the-thao/u17-malaysia-thang-nghet-tho-soan-ngoi-dau-cua-u17-viet-nam-20251128183531874.htm) - 11:35 28/11/2025
 - ⛽️ [Đoàn thể thao Việt Nam xuất quân tham dự SEA Games, mục tiêu giành 110 HCV](https://dantri.com.vn/the-thao/doan-the-thao-viet-nam-xuat-quan-tham-du-sea-games-muc-tieu-gianh-110-hcv-20251128180653272.htm) - 11:07 28/11/2025
 - 💃 [Thực hư thông tin Việt Nam có 16 triệu người chơi pickleball](https://dantri.com.vn/the-thao/thuc-hu-thong-tin-viet-nam-co-16-trieu-nguoi-choi-pickleball-20251128153801043.htm) - 09:26 28/11/2025
