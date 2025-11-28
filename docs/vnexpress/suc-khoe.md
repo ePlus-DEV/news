@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Hồi phục gian nan của bé 5 tuổi mồ côi sau hỏa hoạn](https://vnexpress.net/hoi-phuc-gian-nan-cua-be-5-tuoi-mo-coi-sau-hoa-hoan-4987442.html) - 12:18 28/11/2025
-- 🥰 [Chiến thắng ung thư vú nhờ phác đồ điều trị &#39;may đo&#39; riêng](https://vnexpress.net/chien-thang-ung-thu-vu-nho-phac-do-dieu-tri-may-do-rieng-4987107.html) - 12:13 28/11/2025
+- 🥰 [Chiến thắng ung thư nhờ phác đồ điều trị &#39;may đo&#39; riêng](https://vnexpress.net/chien-thang-ung-thu-nho-phac-do-dieu-tri-may-do-rieng-4987107.html) - 12:13 28/11/2025
 - 💡 [5 dấu hiệu cảnh báo gan nhiễm mỡ dễ bị bỏ qua](https://vnexpress.net/5-dau-hieu-canh-bao-gan-nhiem-mo-de-bi-bo-qua-4987327.html) - 11:00 28/11/2025
 - 🤗 [Hai hội chứng làm tăng nguy cơ ung thư đại trực tràng](https://vnexpress.net/hai-hoi-chung-lam-tang-nguy-co-ung-thu-dai-truc-trang-4987213.html) - 10:00 28/11/2025
 - 🪜 [5 món ăn nhẹ buổi tối giúp ngủ ngon suốt đêm](https://vnexpress.net/5-mon-an-nhe-buoi-toi-giup-ngu-ngon-suot-dem-4987286.html) - 09:30 28/11/2025
