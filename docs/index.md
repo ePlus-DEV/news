@@ -316,7 +316,7 @@ và bảo vệ trẻ em có hoàn cảnh đặc biệt](https://nld.com.vn/ket-l
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Sống Trọn Vẹn 2025: hành trình sẻ chia và kết nối cộng đồng](https://www.sggp.org.vn/song-tron-ven-2025-hanh-trinh-se-chia-va-ket-noi-cong-dong-post826043.html) - 14:59 28/11/2025
+- 🪜 [Sống trọn vẹn 2025: Chung tay đẩy lùi dịch bệnh AIDS](https://www.sggp.org.vn/song-tron-ven-2025-chung-tay-day-lui-dich-benh-aids-post826043.html) - 14:59 28/11/2025
 - 🌝 [Nghệ sĩ New Zealand khám phá nghệ thuật hát bội](https://www.sggp.org.vn/nghe-si-new-zealand-kham-pha-nghe-thuat-hat-boi-post826040.html) - 14:58 28/11/2025
 - 💃 [U17 Việt Nam chờ tranh vé vào vòng chung kết với Malaysia](https://www.sggp.org.vn/u17-viet-nam-cho-tranh-ve-vao-vong-chung-ket-voi-malaysia-post826044.html) - 14:40 28/11/2025
 - 🧑‍💻 [Nâng tầm nông sản Việt, hướng tới phát triển bền vững và hội nhập](https://www.sggp.org.vn/nang-tam-nong-san-viet-huong-toi-phat-trien-ben-vung-va-hoi-nhap-post826026.html) - 14:33 28/11/2025
