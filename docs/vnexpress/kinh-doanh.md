@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Công ty vận hành metro Bến Thành - Suối Tiên lỗ đậm](https://vnexpress.net/cong-ty-van-hanh-metro-ben-thanh-suoi-tien-lo-dam-4986581.html) - 01:30 28/11/2025
+- ⛽️ [Công ty vận hành metro Bến Thành - Suối Tiên lỗ 140 tỷ đồng](https://vnexpress.net/cong-ty-van-hanh-metro-ben-thanh-suoi-tien-lo-140-ty-dong-4986581.html) - 01:30 28/11/2025
 - 🐲 [Bộ đôi phân bón Phú Mỹ giúp nâng chất lượng cà phê Việt](https://vnexpress.net/bo-doi-phan-bon-phu-my-giup-nang-chat-luong-ca-phe-viet-4986436.html) - 01:00 28/11/2025
 - 🔥 [Lý do các hãng xe điện được miễn trừ trách nhiệm thu gom, tái chế pin](https://vnexpress.net/ly-do-cac-hang-xe-dien-duoc-mien-tru-trach-nhiem-thu-gom-tai-che-pin-4987121.html) - 23:00 27/11/2025
 - 🐵 [Không có chuyện Việt Nam thải cả triệu tấn nhựa ra đại dương](https://vnexpress.net/khong-co-chuyen-viet-nam-thai-ca-trieu-tan-nhua-ra-dai-duong-4987098.html) - 18:00 27/11/2025
