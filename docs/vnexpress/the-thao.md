@@ -5,9 +5,9 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Truyền thông Trung Quốc ám chỉ trọng tài ưu ái CAHN](https://vnexpress.net/truyen-thong-trung-quoc-am-chi-trong-tai-uu-ai-cahn-4987164.html) - 03:39 28/11/2025
-- 🦩 [Hai cầu thủ đánh nhau giảng hòa bằng trận quyền Anh](https://vnexpress.net/hai-cau-thu-danh-nhau-giang-hoa-bang-tran-quyen-anh-4987126.html) - 02:35 28/11/2025
+- 🦩 [Hai cầu thủ Everton giảng hòa bằng trận quyền Anh](https://vnexpress.net/hai-cau-thu-everton-giang-hoa-bang-tran-quyen-anh-4987126.html) - 02:35 28/11/2025
 - 🧰 [Ronaldo đặt chân vào thế giới võ thuật MMA](https://vnexpress.net/ronaldo-dat-chan-vao-the-gioi-vo-thuat-mma-4987128.html) - 01:47 28/11/2025
-- 🤗 [Đội của Antony thủng lưới từ cú lốp bóng giữa sân](https://vnexpress.net/doi-cua-antony-thung-luoi-tu-cu-lop-bong-giua-san-4987131.html) - 00:36 28/11/2025
+- 🤗 [Antony giúp Betis thắng ở Europa League](https://vnexpress.net/antony-giup-betis-thang-o-europa-league-4987131.html) - 00:36 28/11/2025
 - 🥳 [Đội phó Bayern: &#39;Đấu PSG khó hơn Arsenal&#39;](https://vnexpress.net/doi-pho-bayern-dau-psg-kho-hon-arsenal-4987053.html) - 22:43 27/11/2025
 - 🦣 [Võ sĩ trở lại công trường sau màn ra mắt UFC hoành tráng](https://vnexpress.net/vo-si-tro-lai-cong-truong-sau-man-ra-mat-ufc-hoanh-trang-4987125.html) - 22:32 27/11/2025
 - 🌜 [HLV thể hình tử vong vì thử thách tăng cân cực đoan](https://vnexpress.net/hlv-the-hinh-tu-vong-vi-thu-thach-tang-can-cuc-doan-4987123.html) - 22:27 27/11/2025
