@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam nắm lợi thế trước Malaysia ở suất dự U17 châu Á 2026](https://vnexpress.net/viet-nam-nam-loi-the-truoc-malaysia-o-suat-du-u17-chau-a-2026-4987524.html) - 14:10 28/11/2025
+- 🪜 [Việt Nam nắm lợi thế trước Malaysia ở vòng loại U17 châu Á 2026](https://vnexpress.net/viet-nam-nam-loi-the-truoc-malaysia-o-vong-loai-u17-chau-a-2026-4987524.html) - 14:10 28/11/2025
 - 🦩 [Indonesia dùng 5 cầu thủ gốc Hà Lan dự SEA Games 33](https://vnexpress.net/indonesia-dung-5-cau-thu-goc-ha-lan-du-sea-games-33-4987514.html) - 13:51 28/11/2025
 - 🧰 [HLV Kim Sang-sik: &#39;Tôi mất ngủ để tìm đội hình dự SEA Games&#39;](https://vnexpress.net/hlv-kim-sang-sik-toi-mat-ngu-de-tim-doi-hinh-du-sea-games-4987481.html) - 12:03 28/11/2025
 - 🤗 [Điền kinh Việt Nam sẵn sàng cho mục tiêu săn vàng SEA Games 33](https://vnexpress.net/dien-kinh-viet-nam-san-sang-cho-muc-tieu-san-vang-sea-games-33-4987426.html) - 12:00 28/11/2025
