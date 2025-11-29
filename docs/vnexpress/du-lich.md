@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Phố đường tàu vừa giải tỏa lại tấp nập](https://vnexpress.net/pho-duong-tau-vua-giai-toa-lai-tap-nap-4987742.html) - 12:40 29/11/2025
+- 💂 [Phố đường tàu Khâm Thiên tấp nập khách sau 4 ngày giải toả](https://vnexpress.net/pho-duong-tau-kham-thien-tap-nap-khach-sau-4-ngay-giai-toa-4987742.html) - 12:40 29/11/2025
 - 🪄 [Tên gọi Sài Gòn có ý nghĩa gì?](https://vnexpress.net/ten-goi-sai-gon-co-y-nghia-gi-4987684.html) - 12:00 29/11/2025
 - 🦅 [Chàng trai 18 tuổi kể đêm trú ẩn trong ngôi nhà không khóa](https://vnexpress.net/chang-trai-18-tuoi-ke-dem-tru-an-trong-ngoi-nha-khong-khoa-4987716.html) - 09:30 29/11/2025
 - 🕴 [Du khách bị cá mập cắn chết](https://vnexpress.net/du-khach-bi-ca-map-can-chet-4987624.html) - 04:20 29/11/2025
