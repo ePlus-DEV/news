@@ -8,7 +8,7 @@ sidebar_position: 5
 - 💫 [Khưu Trạch cưới Hứa Vỹ Ninh](https://vnexpress.net/khuu-trach-cuoi-hua-vy-ninh-4987593.html) - 02:36 29/11/2025
 - 🌮 [Những kiểu mặc váy len trông cuốn hút](https://vnexpress.net/nhung-kieu-mac-vay-len-trong-cuon-hut-4986023.html) - 01:31 29/11/2025
 - 🧠 [Giới trẻ lăng xê 7 kiểu mốt mùa đông](https://vnexpress.net/gioi-tre-lang-xe-7-kieu-mot-mua-dong-4987300.html) - 01:28 29/11/2025
-- 👨‍🏫 [Thứ trưởng Lê Hải Bình: cộng đồng sáng tạo nội dung là mắt xích quan trọng của xã hội](https://vnexpress.net/vietnam-icontent-2025-sang-tao-noi-dung-o-ky-nguyen-so-4986798.html) - 00:30 29/11/2025
+- 👨‍🏫 [Thứ trưởng Lê Hải Bình: &#39;Kiến tạo không gian để nhà sáng tạo số bay cao&#39;](https://vnexpress.net/vietnam-icontent-2025-sang-tao-noi-dung-o-ky-nguyen-so-4986798.html) - 00:30 29/11/2025
 - ⚗️ [Hòa Minzy cùng dàn ca sĩ tổng duyệt gala Vietnam iContent 2025](https://vnexpress.net/hoa-minzy-cung-dan-ca-si-tong-duyet-gala-vietnam-icontent-2025-4987539.html) - 23:09 28/11/2025
 - 😎 [Phương Anh Đào - thiếu nữ quê nghèo thành ngôi sao điện ảnh](https://vnexpress.net/phuong-anh-dao-thieu-nu-que-ngheo-thanh-ngoi-sao-dien-anh-4986349.html) - 17:00 28/11/2025
 - 🫣 [Bộ ảnh khỏa thân yoga nhận giải &#39;Nhiếp ảnh xuất sắc&#39;](https://vnexpress.net/bo-anh-khoa-than-yoga-nhan-giai-nhiep-anh-xuat-sac-4987502.html) - 13:24 28/11/2025
