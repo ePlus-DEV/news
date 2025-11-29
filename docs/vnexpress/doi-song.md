@@ -4,11 +4,11 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bị phạt vì nuôi 79 con chó](https://vnexpress.net/bi-phat-vi-nuoi-79-con-cho-4987507.html) - 02:41 29/11/2025
-- 🎓 [3,7 triệu người Trung Quốc tranh suất &#39;bát cơm sắt&#39;](https://vnexpress.net/3-7-trieu-nguoi-trung-quoc-tranh-suat-bat-com-sat-4987534.html) - 01:20 29/11/2025
-- 🚦 [Quỹ Hy vọng đạt Giải thưởng phát triển bền vững toàn cầu GCSA](https://vnexpress.net/quy-hy-vong-dat-giai-thuong-phat-trien-ben-vung-toan-cau-gcsa-4987558.html) - 01:10 29/11/2025
-- 🦣 [Những người trẻ &#39;vừa chạy deadline vừa tìm người yêu&#39;](https://vnexpress.net/nhung-nguoi-tre-vua-chay-deadline-vua-tim-nguoi-yeu-4986595.html) - 23:29 28/11/2025
-- 🎓 [Tiến sĩ 15 tuổi muốn giúp con người &#39;bất tử&#39;](https://vnexpress.net/tien-si-15-tuoi-muon-giup-con-nguoi-bat-tu-4987258.html) - 23:00 28/11/2025
+- 🚀 [Chồng dễ ngoại tình khi vợ học cao](https://vnexpress.net/chong-de-ngoai-tinh-khi-vo-hoc-cao-4987498.html) - 04:00 29/11/2025
+- 🎓 [Bị phạt vì nuôi 79 con chó](https://vnexpress.net/bi-phat-vi-nuoi-79-con-cho-4987507.html) - 02:41 29/11/2025
+- 🚦 [3,7 triệu người Trung Quốc tranh suất &#39;bát cơm sắt&#39;](https://vnexpress.net/3-7-trieu-nguoi-trung-quoc-tranh-suat-bat-com-sat-4987534.html) - 01:20 29/11/2025
+- 🦣 [Quỹ Hy vọng đạt Giải thưởng phát triển bền vững toàn cầu GCSA](https://vnexpress.net/quy-hy-vong-dat-giai-thuong-phat-trien-ben-vung-toan-cau-gcsa-4987558.html) - 01:10 29/11/2025
+- 🎓 [Những người trẻ &#39;vừa chạy deadline vừa tìm người yêu&#39;](https://vnexpress.net/nhung-nguoi-tre-vua-chay-deadline-vua-tim-nguoi-yeu-4986595.html) - 23:29 28/11/2025
 - 🎭 [Galaxy S25 FE - quà tặng công nghệ dịp Giáng sinh](https://vnexpress.net/galaxy-s25-fe-qua-tang-cong-nghe-dip-giang-sinh-4987452.html) - 10:00 28/11/2025
 - 🦅 [Sự thật về &#39;ninh xương 48 tiếng&#39; để nấu phở](https://vnexpress.net/su-that-ve-ninh-xuong-48-tieng-de-nau-pho-4987446.html) - 09:17 28/11/2025
 - 🎃 [Mất sạch vốn liếng khi cưới vợ sau 4 giờ gặp mặt](https://vnexpress.net/mat-sach-von-lieng-khi-cuoi-vo-sau-4-gio-gap-mat-4987273.html) - 09:02 28/11/2025
