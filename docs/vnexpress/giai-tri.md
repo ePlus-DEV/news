@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [5 quyển sách tỷ phú Bill Gates gợi ý đọc cuối năm](https://vnexpress.net/5-quyen-sach-ty-phu-bill-gates-goi-y-doc-cuoi-nam-4987602.html) - 09:54 29/11/2025
 - 💫 [Tài tử &#39;Ỷ Thiên Đồ Long Ký&#39;: Tôi 89 tuổi vẫn ham chơi](https://vnexpress.net/tai-tu-y-thien-do-long-ky-toi-89-tuoi-van-ham-choi-4987712.html) - 09:00 29/11/2025
-- 🌮 [&#39;KOL, KOC sẽ được đào tạo để truyền thông chuẩn mực&#39;](https://vnexpress.net/vietnam-icontent-ban-ve-trach-nhiem-voi-niem-tin-cong-chung-4987133.html) - 08:00 29/11/2025
+- 🌮 [Cục trưởng Lê Quang Tự Do: &#39;KOL, KOC sẽ được đào tạo để truyền thông chuẩn mực&#39;](https://vnexpress.net/vietnam-icontent-ban-ve-trach-nhiem-voi-niem-tin-cong-chung-4987133.html) - 08:00 29/11/2025
 - 🧠 [Mỹ Tâm tập hát, nhảy cho live concert](https://vnexpress.net/my-tam-tap-hat-nhay-cho-live-concert-4987679.html) - 07:47 29/11/2025
 - 👨‍🏫 [Những ý tưởng phối đồ với mốt &#39;giày xấu&#39;](https://vnexpress.net/nhung-y-tuong-phoi-do-voi-mot-giay-xau-4987673.html) - 07:00 29/11/2025
 - ⚗️ [Miss Universe 2025 - mùa giải hỗn loạn](https://vnexpress.net/miss-universe-2025-mua-giai-hon-loan-4986307.html) - 03:52 29/11/2025
