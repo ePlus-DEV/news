@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Người đóng Người Nhện đầu tiên trong lịch sử điện ảnh qua đời](https://dantri.com.vn/giai-tri/nguoi-dong-nguoi-nhen-dau-tien-trong-lich-su-dien-anh-qua-doi-20251129095004527.htm) - 03:05 29/11/2025
-- 🔥 [&quot;Hoạ mi nước Mỹ&quot; Alicia Keys sẽ đến Việt Nam trình diễn tại VinFuture 2025](https://dantri.com.vn/giai-tri/hoa-mi-nuoc-my-alicia-keys-se-den-viet-nam-trinh-dien-tai-vinfuture-2025-20251128092141124.htm) - 02:17 29/11/2025
+- 🔥 [&quot;Họa mi nước Mỹ&quot; Alicia Keys sẽ đến Việt Nam trình diễn tại VinFuture 2025](https://dantri.com.vn/giai-tri/hoa-mi-nuoc-my-alicia-keys-se-den-viet-nam-trinh-dien-tai-vinfuture-2025-20251128092141124.htm) - 02:17 29/11/2025
 - 🚀 [Thảm đỏ bị hủy, nghệ sĩ không dám cười tại lễ trao giải](https://dantri.com.vn/giai-tri/tham-do-bi-huy-nghe-si-khong-dam-cuoi-tai-le-trao-giai-20251128232031907.htm) - 01:45 29/11/2025
 - 🔥 [Nữ biên kịch &quot;Thư giãn cuối tuần&quot; vượt trầm cảm, trở lại với âm nhạc](https://dantri.com.vn/giai-tri/nu-bien-kich-thu-gian-cuoi-tuan-vuot-tram-cam-tro-lai-voi-am-nhac-20251129065056828.htm) - 00:08 29/11/2025
 - 🌈 [Ồn ào khán giả đòi trả vé: SOOBIN mất ngủ, bật khóc trước thềm đêm nhạc](https://dantri.com.vn/giai-tri/on-ao-khan-gia-doi-tra-ve-soobin-mat-ngu-bat-khoc-truoc-them-dem-nhac-20251129003118195.htm) - 23:17 28/11/2025
