@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Đêm nhạc SOOBIN: Khán giả từ Nhật Bản bay về, mạnh tay chi 2 triệu làm tóc](https://dantri.com.vn/giai-tri/dem-nhac-soobin-khan-gia-tu-nhat-ban-bay-ve-manh-tay-chi-2-trieu-lam-toc-20251129175559133.htm) - 11:33 29/11/2025
+- 🤩 [Đêm nhạc SOOBIN: Khán giả từ Nhật Bản bay về, chi 2 triệu đồng làm tóc](https://dantri.com.vn/giai-tri/dem-nhac-soobin-khan-gia-tu-nhat-ban-bay-ve-chi-2-trieu-dong-lam-toc-20251129175559133.htm) - 11:33 29/11/2025
 - 🔥 [Sắc vóc nóng bỏng của hoa hậu Hàn Quốc đăng quang từ năm 17 tuổi](https://dantri.com.vn/giai-tri/sac-voc-nong-bong-cua-hoa-hau-han-quoc-dang-quang-tu-nam-17-tuoi-20251129104832942.htm) - 10:36 29/11/2025
 - 🚀 [Nghệ sĩ hát bội TPHCM học hỏi tinh thần văn hóa cùng đoàn New Zealand](https://dantri.com.vn/giai-tri/nghe-si-hat-boi-tphcm-hoc-hoi-tinh-than-van-hoa-cung-doan-new-zealand-20251129133221155.htm) - 07:59 29/11/2025
 - 🔥 [Nghi vấn kết quả Hoa hậu Hoàn vũ 2025 sắp bị hủy bỏ](https://dantri.com.vn/giai-tri/nghi-van-ket-qua-hoa-hau-hoan-vu-2025-sap-bi-huy-bo-20251129130133155.htm) - 07:37 29/11/2025
