@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Khánh Hòa hỗ trợ tất cả người ở trọ thiệt hại do mưa lũ](https://vnexpress.net/khanh-hoa-ho-tro-tat-ca-nguoi-o-tro-thiet-hai-do-mua-lu-4987701.html) - 06:42 29/11/2025
+- 🦒 [Khánh Hòa hỗ trợ người ở trọ tạm trú thiệt hại do mưa lũ](https://vnexpress.net/khanh-hoa-ho-tro-nguoi-o-tro-tam-tru-thiet-hai-do-mua-lu-4987701.html) - 06:42 29/11/2025
 - 🤓 [68 chuyến bay phải đổi hướng tránh bão Koto](https://vnexpress.net/68-chuyen-bay-phai-doi-huong-tranh-bao-koto-4987615.html) - 02:57 29/11/2025
 - ⚗️ [Nhiệt độ Hà Nội xuống 9 độ C](https://vnexpress.net/nhiet-do-ha-noi-xuong-9-do-c-4987595.html) - 02:46 29/11/2025
 - 🌊 [Áp thấp nhiệt đới từ Ấn Độ Dương vào Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-tu-an-do-duong-vao-bien-dong-4987576.html) - 02:31 29/11/2025
