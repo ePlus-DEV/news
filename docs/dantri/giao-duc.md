@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Công ty ra quyết định &quot;phong sát&quot; nữ sinh thực tập gây sốc, trường nói gì?](https://dantri.com.vn/giao-duc/cong-ty-ra-quyet-dinh-phong-sat-nu-sinh-thuc-tap-gay-soc-truong-noi-gi-20251129140701512.htm) - 07:24 29/11/2025
+- 🤡 [Công ty ra quyết định kỷ luật nữ sinh viên thực tập gây sốc, trường nói gì?](https://dantri.com.vn/giao-duc/cong-ty-ra-quyet-dinh-ky-luat-nu-sinh-vien-thuc-tap-gay-soc-truong-noi-gi-20251129140701512.htm) - 07:24 29/11/2025
 - 🗽 [Vì sao làm việc nhóm là &quot;cơn ác mộng&quot; với nhiều sinh viên?](https://dantri.com.vn/giao-duc/vi-sao-lam-viec-nhom-la-con-ac-mong-voi-nhieu-sinh-vien-20251128184338061.htm) - 06:00 29/11/2025
 - 🚦 [Bộ ba “khắc chế” học sinh hư](https://dantri.com.vn/giao-duc/bo-ba-khac-che-hoc-sinh-hu-20251128223028731.htm) - 03:30 29/11/2025
 - 🌋 [Nhận học bổng từ Chính phủ, nữ sinh chuyển ngay đến đồng bào vùng lũ](https://dantri.com.vn/giao-duc/nhan-hoc-bong-tu-chinh-phu-nu-sinh-chuyen-ngay-den-dong-bao-vung-lu-20251128170440420.htm) - 02:00 29/11/2025
