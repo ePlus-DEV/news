@@ -8,7 +8,7 @@ sidebar_position: 5
 - 💫 [&#39;Bắc Bling&#39; đoạt giải Âm nhạc truyền cảm hứng](https://vnexpress.net/bac-bling-doat-giai-am-nhac-truyen-cam-hung-4987784.html) - 14:45 29/11/2025
 - 🌮 [Khoai Lang Thang và dàn nghệ sĩ dự thảm đỏ Vietnam iContent](https://vnexpress.net/khoai-lang-thang-va-dan-nghe-si-du-tham-do-vietnam-icontent-4987802.html) - 14:05 29/11/2025
 - 🧠 [Chặng đầu &#39;Stranger Things 5&#39; thiếu đột phá](https://vnexpress.net/chang-dau-stranger-things-5-thieu-dot-pha-4987307.html) - 13:00 29/11/2025
-- 👨‍🏫 [Vietnam iContent Awards: Khoai Lang Thang lần thứ hai đoạt giải &#39;Nhà sáng tạo nội dung của năm&#39;](https://vnexpress.net/le-vinh-danh-giai-thuong-sang-tao-noi-dung-so-viet-nam-4987134.html) - 12:00 29/11/2025
+- 👨‍🏫 [Khoai Lang Thang đoạt giải &#39;Nhà sáng tạo nội dung của năm&#39;](https://vnexpress.net/le-vinh-danh-giai-thuong-sang-tao-noi-dung-so-viet-nam-4987134-tong-thuat.html) - 12:00 29/11/2025
 - ⚗️ [5 quyển sách tỷ phú Bill Gates gợi ý đọc cuối năm](https://vnexpress.net/5-quyen-sach-ty-phu-bill-gates-goi-y-doc-cuoi-nam-4987602.html) - 09:54 29/11/2025
 - 😎 [Tài tử &#39;Ỷ Thiên Đồ Long Ký&#39;: Tôi 89 tuổi vẫn ham chơi](https://vnexpress.net/tai-tu-y-thien-do-long-ky-toi-89-tuoi-van-ham-choi-4987712.html) - 09:00 29/11/2025
 - 🫣 [Cục trưởng Lê Quang Tự Do: &#39;KOL, KOC sẽ được đào tạo để truyền thông chuẩn mực&#39;](https://vnexpress.net/vietnam-icontent-ban-ve-trach-nhiem-voi-niem-tin-cong-chung-4987133.html) - 08:24 29/11/2025
