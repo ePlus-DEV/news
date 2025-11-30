@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Sinh viên bức xúc vì tiền hỗ trợ A80 thấp, hiệu trưởng nói &#39;hiểu nhầm&#39;](https://vnexpress.net/cao-dang-du-lich-ha-noi-noi-gi-vu-sinh-vien-buc-xuc-940-000-dong-ho-tro-a80-4987970.html) - 08:25 30/11/2025
 - 🦆 [Bán kết giải Bóng rổ Trẻ VnExpress: THPT Nguyễn Tất Thành gặp THPT Vinschool The Harmony](https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-thpt-nguyen-tat-thanh-gap-thpt-vinschool-the-harmony-4987851.html) - 07:31 30/11/2025
-- 🦩 [Khi nào phát âm /t/ giống /d/ trong tiếng Anh?](https://vnexpress.net/khi-nao-phat-am-t-giong-d-trong-tieng-anh-4987833.html) - 06:27 30/11/2025
+- 🦩 [Hai trường hợp phát âm /t/ giống /d/ trong tiếng Anh](https://vnexpress.net/hai-truong-hop-phat-am-t-giong-d-trong-tieng-anh-4987833.html) - 06:27 30/11/2025
 - 🌮 [Bán kết giải Bóng rổ Trẻ VnExpress: THPT Việt Đức gặp THPT Cầu Giấy](https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-thpt-viet-duc-gap-thpt-cau-giay-4987850.html) - 05:30 30/11/2025
 - 🔭 [Phan Đình Phùng năm thứ hai liên tiếp vào chung kết giải bóng rổ Trẻ VnExpress](https://vnexpress.net/phan-dinh-phung-nam-thu-hai-lien-tiep-vao-chung-ket-giai-bong-ro-tre-vnexpress-4972152.html) - 03:00 30/11/2025
 - 💡 [Bán kết nữ 1 &lpar;hiệp 4&rpar;: Vinschool Smart City 36-41 Vinschool The Harmony](https://vnexpress.net/ban-ket-nu-1-hiep-4-vinschool-smart-city-36-41-vinschool-the-harmony-4972150.html) - 01:00 30/11/2025
