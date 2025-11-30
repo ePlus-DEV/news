@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [LĐBĐ Malaysia có thể kiện 7 cầu thủ nhập tịch gian lận](https://dantri.com.vn/the-thao/ldbd-malaysia-co-the-kien-7-cau-thu-nhap-tich-gian-lan-20251130162738083.htm) - 09:27 30/11/2025
+- 🎡 [LĐBĐ Malaysia có thể kiện 7 cầu thủ nhập tịch gian lận](https://dantri.com.vn/the-thao/ldbd-malaysia-co-the-kien-7-cau-thu-nhap-tich-gian-lan-20251130162738083.htm) - 11:00 30/11/2025
 - 💯 [Báo Malaysia bình luận về trận đấu “sinh tử” của đội nhà với U17 Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-ve-tran-dau-sinh-tu-cua-doi-nha-voi-u17-viet-nam-20251130113517820.htm) - 07:50 30/11/2025
 - ⛽️ [Xem trực tiếp trận U17 Việt Nam gặp U17 Malaysia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u17-viet-nam-gap-u17-malaysia-o-dau-20251130115152454.htm) - 06:01 30/11/2025
 - 💃 [U22 Việt Nam gút danh sách dự SEA Games 33, trung vệ cao 1m95 bị loại](https://dantri.com.vn/the-thao/u22-viet-nam-gut-danh-sach-du-sea-games-33-trung-ve-cao-1m95-bi-loai-20251130094444764.htm) - 02:49 30/11/2025
