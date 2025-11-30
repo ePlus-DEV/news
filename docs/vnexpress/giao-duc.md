@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bán kết 2 giải Bóng rổ Trẻ VnExpress: Phan Đình Phùng gặp Việt Đức](https://vnexpress.net/ban-ket-2-giai-bong-ro-tre-vnexpress-phan-dinh-phung-gap-viet-duc-4972152.html) - 03:00 30/11/2025
+- 🤓 [Phan Đình Phùng năm thứ hai liên tiếp vào chung kết giải bóng rổ Trẻ VnExpress](https://vnexpress.net/phan-dinh-phung-nam-thu-hai-lien-tiep-vao-chung-ket-giai-bong-ro-tre-vnexpress-4972152.html) - 03:00 30/11/2025
 - 🦆 [Bán kết nữ 1 &lpar;hiệp 4&rpar;: Vinschool Smart City 36-41 Vinschool The Harmony](https://vnexpress.net/ban-ket-nu-1-hiep-4-vinschool-smart-city-36-41-vinschool-the-harmony-4972150.html) - 01:00 30/11/2025
 - 🦩 [Thủ khoa được đặc cách vào Viện Kiểm sát từng suýt bỏ học](https://vnexpress.net/thu-khoa-duoc-dac-cach-vao-vien-kiem-sat-tung-suyt-bo-hoc-4987621.html) - 22:59 29/11/2025
 - 🌮 [Ngày mai diễn ra bán kết Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/ngay-mai-ban-ket-giai-bong-ro-vnexpress-4987804.html) - 14:10 29/11/2025
