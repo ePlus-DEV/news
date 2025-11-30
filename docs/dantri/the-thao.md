@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Crystal Palace 1-2 Man Utd &lpar;hiệp 2&rpar;: Mount ghi bàn](https://dantri.com.vn/the-thao/crystal-palace-1-2-man-utd-hiep-2-mount-ghi-ban-20251130184537193.htm) - 11:46 30/11/2025
-- 💯 [U17 Việt Nam 4-0 U17 Malaysia &lpar;hiệp 2&rpar;: Chiến thắng tưng bừng](https://dantri.com.vn/the-thao/u17-viet-nam-4-0-u17-malaysia-hiep-2-chien-thang-tung-bung-20251130182546724.htm) - 11:25 30/11/2025
+- 🎡 [Man Utd ngược dòng đánh bại Crystal Palace tại Selhurst Park](https://dantri.com.vn/the-thao/man-utd-nguoc-dong-danh-bai-crystal-palace-tai-selhurst-park-20251130184537193.htm) - 11:46 30/11/2025
+- 💯 [Thắng tưng bừng Malaysia, U17 Việt Nam giành vé dự cúp châu Á](https://dantri.com.vn/the-thao/thang-tung-bung-malaysia-u17-viet-nam-gianh-ve-du-cup-chau-a-20251130182546724.htm) - 11:25 30/11/2025
 - ⛽️ [LĐBĐ Malaysia có thể kiện 7 cầu thủ nhập tịch gian lận](https://dantri.com.vn/the-thao/ldbd-malaysia-co-the-kien-7-cau-thu-nhap-tich-gian-lan-20251130162738083.htm) - 11:00 30/11/2025
 - 💃 [Báo Malaysia bình luận về trận đấu “sinh tử” của đội nhà với U17 Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-ve-tran-dau-sinh-tu-cua-doi-nha-voi-u17-viet-nam-20251130113517820.htm) - 07:50 30/11/2025
 - 🌈 [Xem trực tiếp trận U17 Việt Nam gặp U17 Malaysia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u17-viet-nam-gap-u17-malaysia-o-dau-20251130115152454.htm) - 06:01 30/11/2025
