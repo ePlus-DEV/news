@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [NSND Tự Long bảo vệ thành công luận án Tiến sĩ](https://vnexpress.net/nsnd-tu-long-bao-ve-thanh-cong-luan-an-tien-si-4987933.html) - 06:05 30/11/2025
-- 💫 [Tranh in khắc gỗ của nghệ sĩ Nhật đạt 21,7 triệu HKD](https://vnexpress.net/tranh-in-khac-go-cua-nghe-si-nhat-dat-21-7-trieu-hkd-4987881.html) - 05:38 30/11/2025
+- 💫 [Tranh ngọn sóng của danh họa Nhật đạt 21,7 triệu HKD](https://vnexpress.net/tranh-ngon-song-cua-danh-hoa-nhat-dat-21-7-trieu-hkd-4987881.html) - 05:38 30/11/2025
 - 🌮 [&#39;Bắc Bling&#39; đoạt giải Âm nhạc truyền cảm hứng](https://vnexpress.net/bac-bling-doat-giai-am-nhac-truyen-cam-hung-4987784.html) - 05:00 30/11/2025
 - 🧠 [Châu Nhuận Phát tưởng niệm nạn nhân vụ cháy chung cư](https://vnexpress.net/chau-nhuan-phat-tuong-niem-nan-nhan-vu-chay-chung-cu-4987888.html) - 03:57 30/11/2025
 - 👨‍🏫 [&#39;Viết tiếp câu chuyện hòa bình&#39; đoạt giải Bài hát đặc biệt của năm 2025](https://vnexpress.net/viet-tiep-cau-chuyen-hoa-binh-doat-giai-bai-hat-dac-biet-cua-nam-2025-4987805.html) - 03:35 30/11/2025
