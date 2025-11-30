@@ -323,7 +323,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌝 [Bàn giao nhà đồng đội chào mừng 80 năm Ngày truyền thống Quân khu 9](https://www.sggp.org.vn/ban-giao-nha-dong-doi-chao-mung-80-nam-ngay-truyen-thong-quan-khu-9-post826277.html) - 09:51 30/11/2025
 - 💃 [Chuyển đổi số, đột phá trong công tác mặt trận](https://www.sggp.org.vn/chuyen-doi-so-dot-pha-trong-cong-tac-mat-tran-post826270.html) - 09:32 30/11/2025
 - 🧑‍💻 [Holger Rune nỗ lực tập hồi phục sau chấn thương](https://www.sggp.org.vn/holger-rune-no-luc-tap-hoi-phuc-sau-chan-thuong-post826274.html) - 09:29 30/11/2025
-- 🌊 [Đèo Mimosa &lpar;Đà Lạt&rpar; thông tuyến sau hơn 10 ngày gián đoạn](https://www.sggp.org.vn/deo-mimosa-da-lat-thong-tuyen-sau-hon-10-ngay-gian-doan-post826276.html) - 09:14 30/11/2025
+- 🌊 [Đèo Mimosa thông tuyến sau hơn 10 ngày gián đoạn](https://www.sggp.org.vn/deo-mimosa-thong-tuyen-sau-hon-10-ngay-gian-doan-post826276.html) - 09:14 30/11/2025
 - 🧑‍💻 [TPHCM ra mắt ứng dụng An sinh xã hội số](https://www.sggp.org.vn/tphcm-ra-mat-ung-dung-an-sinh-xa-hoi-so-post826268.html) - 09:10 30/11/2025
 - ⛽️ [Gần 500 giáo viên tập huấn ứng dụng Al tại phường Bà Rịa](https://www.sggp.org.vn/gan-500-giao-vien-tap-huan-ung-dung-al-tai-phuong-ba-ria-post826271.html) - 09:07 30/11/2025
 - 😎 [Gần 500 lượt vận động viên tranh tài tại Đại hội thể dục thể thao](https://www.sggp.org.vn/gan-500-luot-van-dong-vien-tranh-tai-tai-dai-hoi-the-duc-the-thao-post826272.html) - 09:05 30/11/2025
