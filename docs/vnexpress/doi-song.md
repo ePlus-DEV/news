@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Thế giới ngầm của những &#39;ông trùm&#39; rác thải Anh](https://vnexpress.net/the-gioi-ngam-cua-nhung-ong-trum-rac-thai-anh-4987820.html) - 08:21 30/11/2025
 - 🎓 [Khách dùng ảnh AI lừa tiền shop online](https://vnexpress.net/khach-dung-anh-ai-lua-tien-shop-online-4987885.html) - 02:40 30/11/2025
-- 🚦 [Người trung niên rủ nhau &#39;nghiện&#39; thể thao để giải tỏa](https://vnexpress.net/nguoi-trung-nien-ru-nhau-nghien-the-thao-de-giai-toa-4957682.html) - 23:30 29/11/2025
+- 🚦 [Người trung niên rủ nhau &#39;nghiện&#39; thể thao](https://vnexpress.net/nguoi-trung-nien-ru-nhau-nghien-the-thao-4957682.html) - 23:30 29/11/2025
 - 🦣 [Mẹ cấm con trai tái hôn để cứu con dâu](https://vnexpress.net/me-cam-con-trai-tai-hon-de-cuu-con-dau-4987803.html) - 23:00 29/11/2025
 - 🎓 [NSND Xuân Bắc, Ali Thục Phương tiếp sức 2.000 runner nhí Hà Nội](https://vnexpress.net/xuan-bac-ali-thuc-phuong-kun-marathon-hanoi-4987728.html) - 11:00 29/11/2025
 - 🎭 [Công dụng bất ngờ của sợi xơ trắng trên cam, quýt](https://vnexpress.net/cong-dung-bat-ngo-cua-soi-xo-trang-tren-cam-quyt-4987537.html) - 09:16 29/11/2025
