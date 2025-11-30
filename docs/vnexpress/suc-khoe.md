@@ -59,8 +59,8 @@ sidebar_position: 10
 - 💡 [Koro - nỗi sợ &#39;cậu nhỏ&#39; biến mất từng gây hoang mang một thời](https://vnexpress.net/koro-noi-so-cau-nho-bien-mat-tung-gay-hoang-mang-mot-thoi-4984277.html) - 18:00 28/11/2025
 - 💯 [Mắc Chlamydia sau quan hệ ngoài luồng](https://vnexpress.net/mac-chlamydia-sau-quan-he-ngoai-luong-4986882.html) - 17:03 28/11/2025
 - 🧠 [Hồi phục gian nan của bé 5 tuổi mồ côi sau hỏa hoạn](https://vnexpress.net/hoi-phuc-gian-nan-cua-be-5-tuoi-mo-coi-sau-hoa-hoan-4987442.html) - 12:18 28/11/2025
-- 🎡 [5 dấu hiệu cảnh báo gan nhiễm mỡ dễ bị bỏ qua](https://vnexpress.net/5-dau-hieu-canh-bao-gan-nhiem-mo-de-bi-bo-qua-4987327.html) - 11:00 28/11/2025
-- 🌏 [97 ngày cứu bé sinh non &#39;nhỏ như hộp sữa&#39;](https://vnexpress.net/97-ngay-cuu-be-sinh-non-nho-nhu-hop-sua-4987328.html) - 06:57 28/11/2025
-- ⚗️ [76 loại thuốc mới được BHYT chi trả, ưu tiên thuốc trị ung thư](https://vnexpress.net/76-loai-thuoc-moi-duoc-bhyt-chi-tra-uu-tien-thuoc-tri-ung-thu-4987288.html) - 06:54 28/11/2025
-- 👨‍🏫 [5 dấu hiệu sớm cảnh báo ung thư não](https://vnexpress.net/5-dau-hieu-som-canh-bao-ung-thu-nao-4986862.html) - 06:00 28/11/2025
-- 🤖 [Huấn luyện viên thể hình ngừng tim sau thử thách giảm cân](https://vnexpress.net/huan-luyen-vien-the-hinh-ngung-tim-sau-thu-thach-giam-can-4987193.html) - 03:59 28/11/2025<!-- vnexpress-suc-khoe:END -->
+- 🎡 [Chiến thắng ung thư nhờ phác đồ điều trị &#39;may đo&#39; riêng](https://vnexpress.net/chien-thang-ung-thu-nho-phac-do-dieu-tri-may-do-rieng-4987107.html) - 12:13 28/11/2025
+- 🌏 [5 dấu hiệu cảnh báo gan nhiễm mỡ dễ bị bỏ qua](https://vnexpress.net/5-dau-hieu-canh-bao-gan-nhiem-mo-de-bi-bo-qua-4987327.html) - 11:00 28/11/2025
+- ⚗️ [97 ngày cứu bé sinh non &#39;nhỏ như hộp sữa&#39;](https://vnexpress.net/97-ngay-cuu-be-sinh-non-nho-nhu-hop-sua-4987328.html) - 06:57 28/11/2025
+- 👨‍🏫 [76 loại thuốc mới được BHYT chi trả, ưu tiên thuốc trị ung thư](https://vnexpress.net/76-loai-thuoc-moi-duoc-bhyt-chi-tra-uu-tien-thuoc-tri-ung-thu-4987288.html) - 06:54 28/11/2025
+- 🤖 [5 dấu hiệu sớm cảnh báo ung thư não](https://vnexpress.net/5-dau-hieu-som-canh-bao-ung-thu-nao-4986862.html) - 06:00 28/11/2025<!-- vnexpress-suc-khoe:END -->
