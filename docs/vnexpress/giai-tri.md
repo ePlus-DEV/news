@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Anh trai vượt ngàn chông gai&#39; thắng giải Video truyền cảm hứng](https://vnexpress.net/anh-trai-vuot-ngan-chong-gai-thang-giai-video-truyen-cam-hung-4987846.html) - 11:42 30/11/2025
+- 🌏 [&#39;Anh trai vượt ngàn chông gai&#39; - Video truyền cảm hứng](https://vnexpress.net/anh-trai-vuot-ngan-chong-gai-video-truyen-cam-hung-4987846.html) - 11:42 30/11/2025
 - 💫 [50 tác phẩm văn học, nghệ thuật xuất sắc sau thống nhất](https://vnexpress.net/50-tac-pham-van-hoc-nghe-thuat-xuat-sac-sau-thong-nhat-4987990.html) - 10:03 30/11/2025
 - 🌮 [&#39;Tình đầu quốc dân&#39; Suzy chạy bộ ở Hồ Tây](https://vnexpress.net/tinh-dau-quoc-dan-suzy-chay-bo-o-ho-tay-4987972.html) - 08:00 30/11/2025
 - 🧠 [&#39;Gia đình Haha&#39; - Hiện tượng số của năm](https://vnexpress.net/gia-dinh-haha-hien-tuong-so-cua-nam-4987897.html) - 07:07 30/11/2025
