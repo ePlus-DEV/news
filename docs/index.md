@@ -320,7 +320,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Báo SGGP trao tặng bản đồ Việt Nam tại tỉnh Gia Lai](https://www.sggp.org.vn/bao-sggp-trao-tang-ban-do-viet-nam-tai-tinh-gia-lai-post826458.html) - 14:58 01/12/2025
+- 🪜 [Tổng Bí thư Tô Lâm hội kiến Thủ tướng Lào Sonexay Siphandone](https://www.sggp.org.vn/tong-bi-thu-to-lam-hoi-kien-thu-tuong-lao-sonexay-siphandone-post826459.html) - 16:09 01/12/2025
 - 🌝 [Quả bóng đồng Dương Thị Vân lỡ hẹn với SEA Games 33](https://www.sggp.org.vn/qua-bong-dong-duong-thi-van-lo-hen-voi-sea-games-33-post826440.html) - 14:40 01/12/2025
 - 💃 [Lịch thi đấu đội tuyển U22 Việt Nam tại SEA Games 33](https://www.sggp.org.vn/lich-thi-dau-doi-tuyen-u22-viet-nam-tai-sea-games-33-post826454.html) - 14:40 01/12/2025
 - 🧑‍💻 [U22 Việt Nam: Nhẹ nhàng trong ngày đầu đến Bangkok](https://www.sggp.org.vn/u22-viet-nam-nhe-nhang-trong-ngay-dau-den-bangkok-post826451.html) - 14:40 01/12/2025
@@ -355,7 +355,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎃 [TPHCM: Gần 1 triệu học sinh đồng diễn Vovinam hướng đến xác lập kỷ lục thế giới](https://www.sggp.org.vn/tphcm-gan-1-trieu-hoc-sinh-dong-dien-vovinam-huong-den-xac-lap-ky-luc-the-gioi-post826415.html) - 10:48 01/12/2025
 - 🌮 [Hoàn thành hành trình khoan 4 nhà ga ngầm Dự án metro Nhổn - ga Hà Nội](https://www.sggp.org.vn/hoan-thanh-hanh-trinh-khoan-4-nha-ga-ngam-du-an-metro-nhon-ga-ha-noi-post826423.html) - 10:43 01/12/2025
 - 🥰 [Thúc đẩy quan hệ Việt Nam - Brunei ngày càng thực chất và hiệu quả hơn](https://www.sggp.org.vn/thuc-day-quan-he-viet-nam-brunei-ngay-cang-thuc-chat-va-hieu-qua-hon-post826421.html) - 10:42 01/12/2025
-- 🕯 [Báo SGGP trao tặng bản đồ Việt Nam tại tỉnh Gia Lai](https://www.sggp.org.vn/bao-sggp-trao-tang-ban-do-viet-nam-tai-tinh-gia-lai-post826420.html) - 10:36 01/12/2025
+- 🕯 [Chương trình &quot;Bản đồ trên tay - Tổ quốc trong tim&quot; của Báo SGGP đến với tỉnh Gia Lai](https://www.sggp.org.vn/chuong-trinh-ban-do-tren-tay-to-quoc-trong-tim-cua-bao-sggp-den-voi-tinh-gia-lai-post826420.html) - 10:36 01/12/2025
 - 🙉 [Tàu Trần Hưng Đạo thăm, giao lưu với hải quân Trung Quốc](https://www.sggp.org.vn/tau-tran-hung-dao-tham-giao-luu-voi-hai-quan-trung-quoc-post826400.html) - 10:32 01/12/2025
 - 💡 [Nhiều đơn vị xuất bản và phát hành cùng hướng về miền Trung](https://www.sggp.org.vn/nhieu-don-vi-xuat-ban-va-phat-hanh-cung-huong-ve-mien-trung-post826395.html) - 10:10 01/12/2025
 - 💫 [Đắk Lắk: Khám chữa bệnh miễn phí cho hàng ngàn hộ dân vùng &quot;rốn lũ&quot;](https://www.sggp.org.vn/dak-lak-kham-chua-benh-mien-phi-cho-hang-ngan-ho-dan-vung-ron-lu-post826416.html) - 10:09 01/12/2025
