@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Lời khai của gã lái ô tô Lexus tông em gái tử vong ở Tây Ninh](https://dantri.com.vn/phap-luat/loi-khai-cua-ga-lai-o-to-lexus-tong-em-gai-tu-vong-o-tay-ninh-20251201171931809.htm) - 10:30 01/12/2025
 - 🐲 [Tạm giữ 38 xe máy của nhóm thanh thiếu niên ở Tây Ninh](https://dantri.com.vn/phap-luat/tam-giu-38-xe-may-cua-nhom-thanh-thieu-nien-o-tay-ninh-20251201163613364.htm) - 10:11 01/12/2025
-- 🌁 [Người đàn ông dùng súng bắn chỉ thiên để &quot;góp vui&quot; cho đám cưới](https://dantri.com.vn/phap-luat/nguoi-dan-ong-dung-sung-ban-chi-thien-de-gop-vui-cho-dam-cuoi-20251201161845766.htm) - 09:29 01/12/2025
+- 🌁 [Bắt tạm giam người đàn ông bắn súng chỉ thiên để &quot;góp vui&quot; cho đám cưới](https://dantri.com.vn/phap-luat/bat-tam-giam-nguoi-dan-ong-ban-sung-chi-thien-de-gop-vui-cho-dam-cuoi-20251201161845766.htm) - 09:29 01/12/2025
 - 🎃 [Mua hơn 5 tạ lợn nhiễm dịch tả châu Phi về giết mổ](https://dantri.com.vn/phap-luat/mua-hon-5-ta-lon-nhiem-dich-ta-chau-phi-ve-giet-mo-20251201140601057.htm) - 07:35 01/12/2025
 - 🦅 [Công an Hải Phòng tăng tốc số hóa dữ liệu dân cư, nâng chất lượng phục vụ](https://dantri.com.vn/phap-luat/cong-an-hai-phong-tang-toc-so-hoa-du-lieu-dan-cu-nang-chat-luong-phuc-vu-20251201140704940.htm) - 07:25 01/12/2025
 - 🎭 [Chiếm đoạt hàng chục tỷ đồng, TGĐ Công ty BBA mua hơn 60 mảnh đất](https://dantri.com.vn/phap-luat/chiem-doat-hang-chuc-ty-dong-tgd-cong-ty-bba-mua-hon-60-manh-dat-20251201134250244.htm) - 06:55 01/12/2025
