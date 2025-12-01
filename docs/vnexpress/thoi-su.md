@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người Hà Nội &#39;hút&#39; thụ động bao nhiêu điếu thuốc mỗi ngày](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-4988529.html) - 23:00 01/12/2025
+- 🦒 [Người Hà Nội &#39;hút&#39; thụ động bao nhiêu điếu thuốc mỗi ngày do ô nhiễm](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-do-o-nhiem-4988529.html) - 23:00 01/12/2025
 - 🤓 [TP HCM đào tạo gần 500 nhân sự metro để vận hành 7 tuyến mới](https://vnexpress.net/tp-hcm-dao-tao-gan-500-nhan-su-metro-de-van-hanh-7-tuyen-moi-4988515.html) - 17:00 01/12/2025
 - ⚗️ [Dự án gây lũ cát Mũi Né bị dừng làm bất động sản](https://vnexpress.net/du-an-gay-lu-cat-mui-ne-bi-dung-lam-bat-dong-san-4988511.html) - 17:00 01/12/2025
 - 🌊 [Thủ tướng: Hạn chế tối đa tác động tiêu cực của nhóm lợi ích](https://vnexpress.net/thu-tuong-han-che-toi-da-tac-dong-tieu-cuc-cua-nhom-loi-ich-4988520.html) - 14:51 01/12/2025
