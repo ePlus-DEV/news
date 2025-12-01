@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bị U17 Việt Nam vùi dập, HLV U17 Malaysia đứng trước nguy cơ “bay ghế”](https://dantri.com.vn/the-thao/bi-u17-viet-nam-vui-dap-hlv-u17-malaysia-dung-truoc-nguy-co-bay-ghe-20251201182406696.htm) - 11:25 01/12/2025
+- 🎡 [Thảm bại trước U17 Việt Nam, HLV U17 Malaysia đứng trước nguy cơ mất việc](https://dantri.com.vn/the-thao/tham-bai-truoc-u17-viet-nam-hlv-u17-malaysia-dung-truoc-nguy-co-mat-viec-20251201182406696.htm) - 11:25 01/12/2025
 - 💯 [U22 Việt Nam tới Thái Lan, tự tin tranh HCV SEA Games 33](https://dantri.com.vn/the-thao/u22-viet-nam-toi-thai-lan-tu-tin-tranh-hcv-sea-games-33-20251201154459555.htm) - 08:45 01/12/2025
 - ⛽️ [HLV Malaysia tuyên bố đanh thép khi đụng độ U22 Việt Nam ở SEA Games](https://dantri.com.vn/the-thao/hlv-malaysia-tuyen-bo-danh-thep-khi-dung-do-u22-viet-nam-o-sea-games-20251201152215781.htm) - 08:31 01/12/2025
 - 💃 [Quang Dương giành cú đúp danh hiệu ở giải pickleball tại Việt Nam](https://dantri.com.vn/the-thao/quang-duong-gianh-cu-dup-danh-hieu-o-giai-pickleball-tai-viet-nam-20251201135545252.htm) - 07:07 01/12/2025
