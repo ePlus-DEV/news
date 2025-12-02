@@ -408,7 +408,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Hướng dẫn lập báo cáo tài chính hợp nhất của đơn vị kế toán hành chính, sự nghiệp](https://baochinhphu.vn/huong-dan-lap-bao-cao-tai-chinh-hop-nhat-cua-don-vi-ke-toan-hanh-chinh-su-nghiep-102251202180326055.htm) - 18:03 02/12/2025
-- 🌜 [Đồng Nai bứt phá mạnh mẽ, GRDP năm 2025 vượt mục tiêu](https://baochinhphu.vn/dong-nai-but-pha-manh-me-grdp-nam-2025-vuot-muc-tieu-102251202180221705.htm) - 18:02 02/12/2025
+- 🌜 [Đồng Nai bứt phá mạnh mẽ, GRDP năm 2025 vượt mục tiêu, khẳng định vai trò đầu tàu kinh tế của vùng và cả nước](https://baochinhphu.vn/dong-nai-but-pha-manh-me-grdp-nam-2025-vuot-muc-tieu-102251202180221705.htm) - 18:02 02/12/2025
 - 🦆 [Tuần phim Ba Lan tại Việt Nam chiếu 7 bộ phim đặc sắc của điện ảnh châu Âu](https://baochinhphu.vn/tuan-phim-ba-lan-tai-viet-nam-chieu-7-bo-phim-dac-sac-cua-dien-anh-chau-au-102251202164000591.htm) - 17:36 02/12/2025
 - 🌝 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình dự Lễ kỷ niệm 60 năm ngày thành lập Cục Bưu điện Trung ương](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-du-le-ky-niem-60-nam-ngay-thanh-lap-cuc-buu-dien-trung-uong-102251202171347362.htm) - 17:18 02/12/2025
 - 🦣 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 02/12/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-02-12-2025-102251202170449015.htm) - 17:12 02/12/2025
