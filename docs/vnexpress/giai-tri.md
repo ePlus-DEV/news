@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nhà văn Nhật biết ơn AI](https://vnexpress.net/nha-van-nhat-biet-on-ai-4988475.html) - 07:50 02/12/2025
+- 🌏 [Nhà văn Nhật nói biết ơn AI](https://vnexpress.net/nha-van-nhat-noi-biet-on-ai-4988475.html) - 07:50 02/12/2025
 - 💫 [Hương Tràm: &#39;Tôi trưởng thành vì tổn thương khi yêu&#39;](https://vnexpress.net/huong-tram-toi-truong-thanh-vi-ton-thuong-khi-yeu-4988552.html) - 07:17 02/12/2025
 - 🌮 [Sắc vóc &#39;Người mẫu của năm 2025&#39; Anok Yai](https://vnexpress.net/sac-voc-nguoi-mau-cua-nam-2025-anok-yai-4988704.html) - 05:19 02/12/2025
 - 🧠 [Tổ ấm của Ngô Thanh Vân và Huy Trần](https://vnexpress.net/to-am-cua-ngo-thanh-van-va-huy-tran-4965374.html) - 04:04 02/12/2025
