@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người Hà Nội &#39;hút&#39; thụ động bao nhiêu điếu thuốc mỗi ngày do ô nhiễm](https://vnexpress.net/nguoi-ha-noi-hut-thu-dong-bao-nhieu-dieu-thuoc-moi-ngay-do-o-nhiem-4988529.html) - 23:00 01/12/2025
 - 🤓 [TP HCM đào tạo gần 500 nhân sự metro để vận hành 7 tuyến mới](https://vnexpress.net/tp-hcm-dao-tao-gan-500-nhan-su-metro-de-van-hanh-7-tuyen-moi-4988515.html) - 17:00 01/12/2025
-- ⚗️ [Dự án gây lũ cát Mũi Né bị dừng làm bất động sản](https://vnexpress.net/du-an-gay-lu-cat-mui-ne-bi-dung-lam-bat-dong-san-4988511.html) - 17:00 01/12/2025
+- ⚗️ [Dự án gây lũ cát Mũi Né bị dừng làm biệt thự](https://vnexpress.net/du-an-gay-lu-cat-mui-ne-bi-dung-lam-biet-thu-4988511.html) - 17:00 01/12/2025
 - 🌊 [Thủ tướng: Hạn chế tối đa tác động tiêu cực của nhóm lợi ích](https://vnexpress.net/thu-tuong-han-che-toi-da-tac-dong-tieu-cuc-cua-nhom-loi-ich-4988520.html) - 14:51 01/12/2025
 - 🎓 [Cần Thơ lần đầu tổ chức lễ hội văn hóa miền Tây trên sông](https://vnexpress.net/can-tho-lan-dau-to-chuc-le-hoi-van-hoa-mien-tay-tren-song-4988503.html) - 12:53 01/12/2025
 - 🔥 [Khai báo một lần cho tất cả dịch vụ công](https://vnexpress.net/khai-bao-mot-lan-cho-tat-ca-dich-vu-cong-4988398.html) - 11:25 01/12/2025
@@ -15,7 +15,7 @@ sidebar_position: 1
 - 🧑‍🏫 [Bờ sông Đa Nhim sạt lở ăn sâu vào khu dân cư ở Lâm Đồng](https://vnexpress.net/sat-lo-lam-dong-4988446.html) - 10:20 01/12/2025
 - 🚦 [Nhà thờ Đức Bà Sài Gòn lắp 1.000 km đèn LED dịp Giáng sinh](https://vnexpress.net/nha-tho-duc-ba-sai-gon-lap-1-000-km-den-led-dip-giang-sinh-4988461.html) - 10:15 01/12/2025
 - 🎉 [Thủy điện Sông Ba Hạ thay người điều hành](https://vnexpress.net/thuy-dien-song-ba-ha-thay-nguoi-dieu-hanh-4988453.html) - 09:50 01/12/2025
-- 🦒 [Phú Quốc đảo lộn vì sự cố cáp ngầm gây mất điện](https://vnexpress.net/phu-quoc-dao-lon-vi-su-co-cap-ngam-gay-mat-dien-4988342.html) - 09:50 01/12/2025
+- 🦒 [Phú Quốc đảo lộn vì mất điện do sự cố cáp ngầm](https://vnexpress.net/phu-quoc-dao-lon-vi-mat-dien-do-su-co-cap-ngam-4988342.html) - 09:50 01/12/2025
 - 🤗 [Cháy lớn tại bãi xe ngoại ô Đà Nẵng](https://vnexpress.net/chay-lon-tai-bai-xe-ngoai-o-da-nang-4988441.html) - 09:50 01/12/2025
 - 💼 [14 kỷ lục lượng mưa trong tháng 11](https://vnexpress.net/14-ky-luc-luong-mua-trong-thang-11-4988421.html) - 09:47 01/12/2025
 - 🤩 [Thanh Hóa hợp tác toàn diện với Houaphanh](https://vnexpress.net/thanh-hoa-hop-tac-toan-dien-voi-houaphanh-4988429.html) - 09:38 01/12/2025
