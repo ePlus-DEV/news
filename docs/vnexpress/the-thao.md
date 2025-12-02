@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [U22 Việt Nam hứng khởi trước trận ra quân SEA Games 33](https://vnexpress.net/u22-viet-nam-hung-khoi-truoc-tran-ra-quan-sea-games-33-4988977.html) - 12:20 02/12/2025
+- 🪜 [Huyền thoại thủ môn Hàn Quốc uốn nắn cho hotboy Trần Trung Kiên](https://vnexpress.net/huyen-thoai-thu-mon-han-quoc-uon-nan-cho-hotboy-tran-trung-kien-4988977.html) - 12:20 02/12/2025
 - 🦩 [HLV Thái Lan tiếc khi Campuchia bỏ môn bóng đá SEA Games 33](https://vnexpress.net/hlv-thai-lan-tiec-khi-campuchia-bo-mon-bong-da-sea-games-33-4988961.html) - 10:47 02/12/2025
 - 🧰 [Sân Rajamangala - trái tim của SEA Games 33](https://vnexpress.net/san-rajamangala-trai-tim-cua-sea-games-33-4988818.html) - 09:47 02/12/2025
 - 🤗 [HLV U22 Lào đặt mục tiêu thắng Việt Nam hoặc Malaysia](https://vnexpress.net/hlv-u22-lao-dat-muc-tieu-thang-viet-nam-hoac-malaysia-4988833.html) - 07:35 02/12/2025
