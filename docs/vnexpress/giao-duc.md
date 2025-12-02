@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh lớp 10 bị bạn chặn đánh giữa đường](https://vnexpress.net/nam-sinh-lop-10-bi-danh-nhet-bang-ve-sinh-vao-mieng-4988788.html) - 07:11 02/12/2025
+- 🤓 [Nữ sinh lớp 7 bị vây đánh, sợ không dám đi học](https://vnexpress.net/nam-sinh-lop-10-bi-danh-nhet-bang-ve-sinh-vao-mieng-4988788.html) - 07:11 02/12/2025
 - 🦆 [Những sinh viên học 4-7 chuyên ngành cùng lúc](https://vnexpress.net/nhung-sinh-vien-hoc-4-7-chuyen-nganh-cung-luc-4988767.html) - 05:15 02/12/2025
 - 🦩 [Trường ĐH FPT mở rộng ngành học theo xu hướng việc làm tương lai](https://vnexpress.net/truong-dh-fpt-mo-rong-nganh-hoc-theo-xu-huong-viec-lam-tuong-lai-4988678.html) - 04:00 02/12/2025
 - 🌮 [Trung úy 24 tuổi lập &#39;hat-trick&#39; giải vàng Olympic Cơ học, tốt nghiệp thủ khoa](https://vnexpress.net/hanh-trinh-cua-thu-khoa-hoc-vien-phong-khong-khong-quan-bui-huy-hoang-4987985.html) - 23:11 01/12/2025
