@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Kim Sang-sik họp báo trước trận ra quân SEA Games 33](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-truoc-tran-ra-quan-sea-games-33-4988773.html) - 05:51 02/12/2025
+- 🪜 [HLV Kim Sang-sik: ‘Gặp Lào không còn dễ’](https://vnexpress.net/hlv-kim-sang-sik-gap-lao-khong-con-de-4988773.html) - 05:51 02/12/2025
 - 🦩 [Valdano: &#39;Real đang ở đâu nếu không có Mbappe?&#39;](https://vnexpress.net/valdano-real-dang-o-dau-neu-khong-co-mbappe-4988694.html) - 05:46 02/12/2025
 - 🧰 [Cựu chủ tịch Bayern: &#39;Wirtz không có bóng để chơi ở Liverpool&#39;](https://vnexpress.net/cuu-chu-tich-bayern-wirtz-khong-co-bong-de-choi-o-liverpool-4988550.html) - 04:32 02/12/2025
 - 🤗 [FIFPro phản đối FIFA phạt 7 cầu thủ nhập tịch Malaysia](https://vnexpress.net/fifpro-phan-doi-fifa-phat-7-cau-thu-nhap-tich-malaysia-4988618.html) - 03:57 02/12/2025
