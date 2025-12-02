@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Sai sót nghiêm trọng của BTC SEA Games: Nhầm cờ Thái Lan thành Việt Nam](https://dantri.com.vn/the-thao/sai-sot-nghiem-trong-cua-btc-sea-games-nham-co-thai-lan-thanh-viet-nam-20251202231716553.htm) - 16:17 02/12/2025
+- 🎡 [Sai sót nghiêm trọng của BTC SEA Games: Nhầm cờ Thái Lan thành Việt Nam](https://dantri.com.vn/the-thao/sai-sot-nghiem-trong-cua-btc-sea-games-nham-co-thai-lan-thanh-viet-nam-20251202231716553.htm) - 17:15 02/12/2025
 - 💯 [Hoa khôi bóng chuyền cầm cờ cho đoàn thể thao Việt Nam ở SEA Games](https://dantri.com.vn/the-thao/hoa-khoi-bong-chuyen-cam-co-cho-doan-the-thao-viet-nam-o-sea-games-20251202212114102.htm) - 14:22 02/12/2025
 - ⛽️ [Thua U17 Việt Nam, bóng đá trẻ Malaysia chìm trong bão chỉ trích](https://dantri.com.vn/the-thao/thua-u17-viet-nam-bong-da-tre-malaysia-chim-trong-bao-chi-trich-20251202203804235.htm) - 13:38 02/12/2025
 - 💃 [Động thái bất ngờ, nghi ngờ Malaysia bỏ cuộc kháng cáo lên CAS](https://dantri.com.vn/the-thao/dong-thai-bat-ngo-nghi-ngo-malaysia-bo-cuoc-khang-cao-len-cas-20251202200954153.htm) - 13:10 02/12/2025
