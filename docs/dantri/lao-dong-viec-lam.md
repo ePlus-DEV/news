@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Đủ tuổi nghỉ hưu có được hưởng bảo hiểm thất nghiệp?](https://dantri.com.vn/lao-dong-viec-lam/du-tuoi-nghi-huu-co-duoc-huong-bao-hiem-that-nghiep-20251202172243422.htm) - 23:34 02/12/2025
-- 🙉 [Doanh nghiệp cho nghỉ Tết 13 ngày, tăng 7,5% lương từ đầu năm 2026](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-cho-nghi-tet-13-ngay-tang-75-luong-tu-dau-nam-2026-20251202155611981.htm) - 23:00 02/12/2025
+- 🙉 [Doanh nghiệp chốt nghỉ Tết 13 ngày, tăng 7,5% lương từ đầu năm 2026](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-chot-nghi-tet-13-ngay-tang-75-luong-tu-dau-nam-2026-20251202155611981.htm) - 23:00 02/12/2025
 - 🕴 [Người đàn ông “lột xác” cho hạt muối ở làng nghề hơn 400 năm tuổi](https://dantri.com.vn/lao-dong-viec-lam/nguoi-dan-ong-lot-xac-cho-hat-muoi-o-lang-nghe-hon-400-nam-tuoi-20251202081350253.htm) - 07:07 02/12/2025
 - 🧐 [Xem xét quy định thực hiện chính sách an sinh, hỗ trợ cho nhiều đối tượng](https://dantri.com.vn/noi-vu/xem-xet-quy-dinh-thuc-hien-chinh-sach-an-sinh-ho-tro-cho-nhieu-doi-tuong-20251201195406528.htm) - 03:56 02/12/2025
 - 🧑‍💻 [Thủ phủ đào phai chết khô sau mưa bão, người dân lo mất Tết](https://dantri.com.vn/lao-dong-viec-lam/thu-phu-dao-phai-chet-kho-sau-mua-bao-nguoi-dan-lo-mat-tet-20251202093339285.htm) - 03:19 02/12/2025
