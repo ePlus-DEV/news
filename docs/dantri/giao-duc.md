@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-giao-duc:START -->
 - 🤡 [Phụ huynh lo ngại về &quot;núi rác&quot; cạnh trường học liên cấp](https://dantri.com.vn/giao-duc/phu-huynh-lo-ngai-ve-nui-rac-canh-truong-hoc-lien-cap-20251203161913009.htm) - 10:55 03/12/2025
 - 🗽 [Vị giáo sư dành cả tuổi trẻ để lấy lại đôi tay cho người đột quỵ](https://dantri.com.vn/giao-duc/vi-giao-su-danh-ca-tuoi-tre-de-lay-lai-doi-tay-cho-nguoi-dot-quy-20251203152125561.htm) - 09:06 03/12/2025
-- 🚦 [Thông tin mới vụ bố xích chân 2 con trong phòng, không cho đi học](https://dantri.com.vn/giao-duc/thong-tin-moi-vu-bo-xich-chan-2-con-trong-phong-khong-cho-di-hoc-20251203150923822.htm) - 08:26 03/12/2025
+- 🚦 [Thông tin mới vụ bố xích chân con trong phòng, không cho đi học](https://dantri.com.vn/giao-duc/thong-tin-moi-vu-bo-xich-chan-con-trong-phong-khong-cho-di-hoc-20251203150923822.htm) - 08:26 03/12/2025
 - 🌋 [Bộ Giáo dục ra tiêu chuẩn SGK điện tử: Cấm quảng cáo, tải về linh hoạt](https://dantri.com.vn/giao-duc/bo-giao-duc-ra-tieu-chuan-sgk-dien-tu-cam-quang-cao-tai-ve-linh-hoat-20251203124103180.htm) - 07:54 03/12/2025
 - 🏊 [Lo sợ mất việc vì AI, giới trẻ đổ xô đi học nghề... sửa ống nước](https://dantri.com.vn/giao-duc/lo-so-mat-viec-vi-ai-gioi-tre-do-xo-di-hoc-nghe-sua-ong-nuoc-20251202210627918.htm) - 06:00 03/12/2025
 - 🎃 [&quot;Tuyển dụng điều dưỡng, hỏi tiêm nghiêng bao nhiêu độ không trả lời được&quot;](https://dantri.com.vn/lao-dong-viec-lam/tuyen-dung-dieu-duong-hoi-tiem-nghieng-bao-nhieu-do-khong-tra-loi-duoc-20251203115814362.htm) - 05:33 03/12/2025
