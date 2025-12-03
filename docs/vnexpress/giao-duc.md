@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tốt nghiệp xuất sắc Bách khoa sau hai năm bỏ học, chạy xe ôm](https://vnexpress.net/tot-nghiep-xuat-sac-bach-khoa-sau-hai-nam-bo-hoc-chay-xe-om-4988843.html) - 00:10 03/12/2025
-- 🦆 [Bộ Giáo dục dự kiến nới quy định dạy thêm trong trường](https://vnexpress.net/bo-giao-duc-du-kien-noi-quy-dinh-day-them-trong-truong-4988986.html) - 17:00 02/12/2025
-- 🦩 [Nước nào có mật độ dân số lên tới 26.000 người/km2?](https://vnexpress.net/nuoc-nao-co-mat-do-dan-so-len-toi-26-000-nguoi-km2-4988468.html) - 14:17 02/12/2025
-- 🌮 [Vì sao loạt ngành ở ĐH Khoa học Xã hội và Nhân văn bỏ xét khối C00?](https://vnexpress.net/vi-sao-loat-nganh-o-dh-khoa-hoc-xa-hoi-va-nhan-van-bo-xet-khoi-c00-4988738.html) - 12:56 02/12/2025
-- 🔭 [Học sinh có thể làm bài tập trên sách giáo khoa điện tử](https://vnexpress.net/hoc-sinh-co-the-lam-bai-tap-tren-sach-giao-khoa-dien-tu-4988976.html) - 12:26 02/12/2025
-- 💡 [Nữ sinh lớp 7 bị vây đánh, sợ không dám đi học](https://vnexpress.net/nam-sinh-lop-10-bi-danh-nhet-bang-ve-sinh-vao-mieng-4988788.html) - 07:11 02/12/2025
-- 🥰 [Những sinh viên học 4-7 chuyên ngành cùng lúc](https://vnexpress.net/nhung-sinh-vien-hoc-4-7-chuyen-nganh-cung-luc-4988767.html) - 05:15 02/12/2025
-- 🐲 [Trường ĐH FPT mở rộng ngành học theo xu hướng việc làm tương lai](https://vnexpress.net/truong-dh-fpt-mo-rong-nganh-hoc-theo-xu-huong-viec-lam-tuong-lai-4988678.html) - 04:00 02/12/2025
-- 🦒 [Trung úy 24 tuổi lập &#39;hat-trick&#39; giải vàng Olympic Cơ học, tốt nghiệp thủ khoa](https://vnexpress.net/hanh-trinh-cua-thu-khoa-hoc-vien-phong-khong-khong-quan-bui-huy-hoang-4987985.html) - 23:11 01/12/2025
-- 🦆 [ĐH Khoa học Xã hội và Nhân văn bỏ xét tổ hợp C00 với 15 ngành](https://vnexpress.net/phuong-thuc-to-hop-xet-tuyen-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-nam-2026-chinh-xac-nhat-4988523.html) - 14:32 01/12/2025
-- 🧰 [Người dân nước nào cao nhất Đông Nam Á?](https://vnexpress.net/nguoi-dan-nuoc-nao-cao-nhat-dong-nam-a-4988019.html) - 13:00 01/12/2025
-- 🐘 [FPT Polytechnic lập kỷ lục Việt Nam tại Giải chạy đêm Hà Nội](https://vnexpress.net/fpt-polytechnic-ky-luc-marathon-ha-noi-4988255.html) - 11:00 01/12/2025
-- 🤓 [Đại học tư &#39;đút túi&#39; hàng trăm triệu USD vì sinh viên bỏ nhập học](https://vnexpress.net/dai-hoc-tu-dut-tui-hang-tram-trieu-usd-vi-sinh-vien-bo-nhap-hoc-4987969.html) - 09:23 01/12/2025
-- 🧰 [&#39;Không có chuyện ký khống vụ chi tiền hỗ trợ A80&#39;](https://vnexpress.net/cai-ket-buoi-doi-thoai-hieu-truong-cao-dang-du-lich-ha-noi-voi-sinh-vien-vu-buc-xuc-tien-ho-tro-a80-4988317.html) - 07:20 01/12/2025
-- 🧑‍💻 [Cầu Giấy đấu Vinschool The Harmony ở chung kết Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/cau-giay-dau-vinschool-the-harmony-o-chung-ket-giai-bong-ro-tre-vnexpress-4988041.html) - 04:18 01/12/2025
-- 🫶 [Cô trò tất bật may đồng phục tặng học sinh vùng lũ](https://vnexpress.net/co-tro-tat-bat-may-dong-phuc-tang-hoc-sinh-vung-lu-4988069.html) - 04:02 01/12/2025
-- 🪜 [Ngôi trường thu học phí hơn 950 triệu đồng một năm](https://vnexpress.net/ngoi-truong-thu-hoc-phi-hon-950-trieu-dong-mot-nam-4986403.html) - 22:59 30/11/2025
-- 🎊 [Top 5 ngành học dễ kiếm việc với du học sinh ở Australia](https://vnexpress.net/top-5-nganh-hoc-de-xin-viec-nhat-o-australia-voi-du-hoc-sinh-4986347.html) - 17:00 30/11/2025
-- 🧐 [Thành phố tắc đường nhất thế giới ở nước nào?](https://vnexpress.net/thanh-pho-tac-duong-nhat-the-gioi-o-nuoc-nao-4987863.html) - 13:00 30/11/2025
-- 🌈 [Nữ Phan Đình Phùng lần thứ hai liên tiếp vào chung kết giải bóng rổ Trẻ VnExpress](https://vnexpress.net/nu-phan-dinh-phung-lan-thu-hai-lien-tiep-vao-chung-ket-giai-bong-ro-tre-vnexpress-4988029.html) - 12:51 30/11/2025
-- 🥰 [Sinh viên bức xúc vì tiền hỗ trợ A80 thấp, hiệu trưởng nói &#39;hiểu nhầm&#39;](https://vnexpress.net/cao-dang-du-lich-ha-noi-noi-gi-vu-sinh-vien-buc-xuc-940-000-dong-ho-tro-a80-4987970.html) - 08:25 30/11/2025
-- 🎡 [Bán kết nam 2: Nguyễn Tất Thành 40-47 Vinschool The Harmony](https://vnexpress.net/ban-ket-nam-2-nguyen-tat-thanh-40-47-vinschool-the-harmony-4987851.html) - 07:31 30/11/2025
-- 🎊 [Âm /t/ phát âm giống /d/ trong tiếng Anh Mỹ](https://vnexpress.net/am-t-phat-am-giong-d-trong-tieng-anh-my-4987833.html) - 06:27 30/11/2025
-- 🌏 [Bán kết nam 1: Việt Đức 50-64 Cầu Giấy](https://vnexpress.net/ban-ket-nam-1-viet-duc-50-64-cau-giay-4987850.html) - 05:30 30/11/2025
-- 🥸 [Bán kết nữ 2: Phan Đình Phùng 46-27 Việt Đức](https://vnexpress.net/ban-ket-nu-2-phan-dinh-phung-46-27-viet-duc-4972152.html) - 03:00 30/11/2025
-- 🕴 [Bán kết nữ 1: Vinschool Smart City 42-50 Vinschool The Harmony](https://vnexpress.net/ban-ket-nu-1-vinschool-smart-city-42-50-vinschool-the-harmony-4972150.html) - 01:00 30/11/2025
-- 💂 [Thủ khoa được đặc cách vào Viện Kiểm sát từng suýt bỏ học](https://vnexpress.net/thu-khoa-duoc-dac-cach-vao-vien-kiem-sat-tung-suyt-bo-hoc-4987621.html) - 22:59 29/11/2025
-- 🕴 [Ngày mai diễn ra bán kết Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/ngay-mai-ban-ket-giai-bong-ro-vnexpress-4987804.html) - 14:10 29/11/2025
-- 🌋 [Người dân nước nào có IQ cao nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-co-iq-cao-nhat-the-gioi-4987772.html) - 13:04 29/11/2025
-- 🪜 [Thủ khoa đi 7 nước, giành học bổng tiến sĩ trước tốt nghiệp](https://vnexpress.net/thu-khoa-di-7-nuoc-gianh-hoc-bong-tien-si-truoc-tot-nghiep-4987618.html) - 12:00 29/11/2025
-- 🕴 [Tương quan bốn cặp bán kết Giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-2025-4985523.html) - 11:20 29/11/2025
-- 🎃 [Ba từ tiếng Anh &#39;hot&#39; nhất năm 2025](https://vnexpress.net/ba-tu-tieng-anh-hot-nhat-nam-2025-4987636.html) - 05:50 29/11/2025
-- 🦏 [Một trường Sư phạm bỏ xét điểm hai kỳ thi riêng](https://vnexpress.net/cac-phuong-thuc-xet-tuyen-sinh-dai-hoc-su-pham-thai-nguyen-nam-2026-chinh-xac-nhat-4987478.html) - 03:31 29/11/2025
-- 🧑‍🏫 [&#39;Gom&#39; đào tạo cử nhân Luật đi ngược xu hướng đại học đa ngành](https://vnexpress.net/gom-dao-tao-cu-nhan-luat-di-nguoc-xu-huong-dai-hoc-da-nganh-4987033.html) - 23:15 28/11/2025
-- 💡 [Học bổng chính phủ Trung Quốc cho du học sinh Việt giảm mạnh](https://vnexpress.net/dieu-kien-thu-tuc-nop-hoc-bong-chinh-phu-trung-quoc-nam-2026-4987517.html) - 14:30 28/11/2025
-- 🐎 [Nước châu Á nào là quê hương của quả táo?](https://vnexpress.net/nuoc-chau-a-nao-la-que-huong-cua-qua-tao-4987427.html) - 13:07 28/11/2025
-- 🧰 [Thứ trưởng Giáo dục: Ưu tiên bảo vệ thông tin của thầy trò khi dùng AI](https://vnexpress.net/thu-truong-giao-duc-uu-tien-bao-ve-thong-tin-cua-thay-tro-khi-dung-ai-4987342.html) - 09:30 28/11/2025
-- 🙉 [Thủ khoa điểm tuyệt đối, TOEIC 950 của Bách khoa TP HCM](https://vnexpress.net/thu-khoa-diem-tuyet-doi-toeic-950-cua-bach-khoa-tp-hcm-4986954.html) - 07:33 28/11/2025
-- ⚗️ [Marie Curie thắng Kim Liên 18-9](https://vnexpress.net/marie-curie-thang-kim-lien-18-9-4986930.html) - 06:54 28/11/2025
-- 🌝 [Sân Warzone sôi động trong trận Dewey gặp Phạm Hồng Thái](https://vnexpress.net/san-warzone-soi-dong-trong-tran-dewey-gap-pham-hong-thai-4986773.html) - 05:32 28/11/2025
-- ⛽️ [Bộ Giáo dục chấn chỉnh việc xét thăng hạng giáo viên](https://vnexpress.net/bo-giao-duc-yeu-cau-tiep-tuc-xet-thang-hang-giao-vien-4987185.html) - 03:15 28/11/2025
-- 🌜 [Bộ sách giáo khoa tiếng Anh thiết kế theo khung chương trình Bộ Giáo dục](https://vnexpress.net/bo-sach-giao-khoa-tieng-anh-thiet-ke-theo-khung-chuong-trinh-bo-giao-duc-4987004.html) - 01:00 28/11/2025
-- ⚗️ [Băn khoăn khi &#39;chỉ trường Y được đào tạo bác sĩ&#39;](https://vnexpress.net/ban-khoan-khi-chi-truong-y-duoc-dao-tao-bac-si-4986819.html) - 23:26 27/11/2025
-- 🧰 [Canada cắt 50% giấy phép du học mới năm 2026](https://vnexpress.net/canada-cat-50-giay-phep-du-hoc-moi-nam-2026-4986943.html) - 18:11 27/11/2025
-- 🤗 [Hai nước Đông Nam Á nào thỏa thuận chuyển đổi tiền tệ với nhau?](https://vnexpress.net/hai-nuoc-dong-nam-a-nao-thoa-thuan-chuyen-doi-tien-te-voi-nhau-4987038.html) - 13:19 27/11/2025
-- 🔥 [Làn sóng &#39;trốn&#39; tốt nghiệp của sinh viên Hàn Quốc](https://vnexpress.net/lan-song-tron-tot-nghiep-cua-sinh-vien-han-quoc-4986816.html) - 06:59 27/11/2025
-- 💪 [Học phí trường công ở Hà Nội cao nhất 6,1 triệu đồng](https://vnexpress.net/hoc-phi-tat-ca-truong-chat-luong-cao-o-ha-noi-nam-hoc-2025-2026-4986730.html) - 04:08 27/11/2025
-- 💂 [Sinh viên nhặt được 5 chỉ vàng khi soạn đồ cứu trợ vùng lũ](https://vnexpress.net/sinh-vien-nhat-duoc-5-chi-vang-khi-soan-do-cuu-tro-vung-lu-4986646.html) - 03:33 27/11/2025
-- 🌮 [Nữ sinh tốt nghiệp Bách khoa với điểm tuyệt đối nhờ quy tắc 80-20](https://vnexpress.net/nu-sinh-tot-nghiep-bach-khoa-voi-diem-tuyet-doi-nho-quy-tac-80-20-4985719.html) - 22:59 26/11/2025
-- 🪄 [Cựu Á quân Olympia lọt top nhà nghiên cứu ảnh hưởng nhất Australia](https://vnexpress.net/cuu-a-quan-olympia-lot-top-nha-nghien-cuu-anh-huong-nhat-australia-4986580.html) - 14:14 26/11/2025
-- 🎡 [Người trúng giải xổ số độc đắc cao nhất thế giới ở nước nào?](https://vnexpress.net/nguoi-trung-giai-xo-so-doc-dac-cao-nhat-the-gioi-o-nuoc-nao-4986497.html) - 12:46 26/11/2025
-- 🌈 [Giải bóng rổ Trẻ VnExpress sẽ trao thưởng cho đội cổ vũ sôi động](https://vnexpress.net/giai-bong-ro-tre-trao-giai-doi-co-vu-4972154.html) - 10:00 26/11/2025
-- 🎊 [Trung Quốc thí điểm cấp bằng tiến sĩ không cần luận án](https://vnexpress.net/trung-quoc-thi-diem-cap-bang-tien-si-khong-can-luan-an-4986478.html) - 09:40 26/11/2025
-- ⚗️ [Thêm bậc Pre-A1 trong khung năng lực ngoại ngữ của Việt Nam](https://vnexpress.net/them-bac-pre-a1-trong-khung-nang-luc-ngoai-ngu-cua-viet-nam-4986422.html) - 08:11 26/11/2025
-- 🌁 [Tâm Anh - Oxford lần đầu tuyển sinh nghiên cứu khoa học, dữ liệu y tế](https://vnexpress.net/tam-anh-oxford-lan-dau-tuyen-sinh-nghien-cuu-khoa-hoc-du-lieu-y-te-4986122.html) - 02:00 26/11/2025
-- 🦏 [Nhiều đại học xóa sổ tổ hợp truyền thống, giảm xét học bạ](https://vnexpress.net/nhieu-dai-hoc-xoa-so-to-hop-truyen-thong-giam-xet-hoc-ba-4985589.html) - 22:59 25/11/2025
-- 👍 [Du học sinh Việt ở Australia khó xin việc hơn](https://vnexpress.net/du-hoc-sinh-viet-o-australia-kho-xin-viec-hon-4986145.html) - 17:29 25/11/2025
-- 🌈 [Nước Đông Nam Á nào có thành phố &#39;chìm nhanh nhất thế giới?&#39;](https://vnexpress.net/nuoc-dong-nam-a-nao-co-thanh-pho-chim-nhanh-nhat-the-gioi-4986004.html) - 13:23 25/11/2025
-- 🕴 [Du học sinh Việt mới đến Australia giảm hơn 40%](https://vnexpress.net/du-hoc-sinh-viet-moi-den-australia-giam-hon-40-4985945.html) - 07:53 25/11/2025
-- 🧰 [Đại học đa ngành sẽ không được phép đào tạo bác sĩ, cử nhân luật](https://vnexpress.net/dai-hoc-da-nganh-se-khong-duoc-phep-dao-tao-bac-si-cu-nhan-luat-4985929.html) - 06:35 25/11/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [&#39;Dậy sóng&#39; vì khoản thuế hơn 900 bảng với du học sinh Anh](https://vnexpress.net/day-song-vi-khoan-thue-hon-900-bang-voi-du-hoc-sinh-anh-4989340.html) - 08:15 03/12/2025
+- 🦆 [Tốt nghiệp xuất sắc Bách khoa sau hai năm bỏ học, chạy xe ôm](https://vnexpress.net/tot-nghiep-xuat-sac-bach-khoa-sau-hai-nam-bo-hoc-chay-xe-om-4988843.html) - 00:10 03/12/2025
+- 🦩 [Bộ Giáo dục dự kiến nới quy định dạy thêm trong trường](https://vnexpress.net/bo-giao-duc-du-kien-noi-quy-dinh-day-them-trong-truong-4988986.html) - 17:00 02/12/2025
+- 🌮 [Nước nào có mật độ dân số lên tới 26.000 người/km2?](https://vnexpress.net/nuoc-nao-co-mat-do-dan-so-len-toi-26-000-nguoi-km2-4988468.html) - 14:17 02/12/2025
+- 🔭 [Vì sao loạt ngành ở ĐH Khoa học Xã hội và Nhân văn bỏ xét khối C00?](https://vnexpress.net/vi-sao-loat-nganh-o-dh-khoa-hoc-xa-hoi-va-nhan-van-bo-xet-khoi-c00-4988738.html) - 12:56 02/12/2025
+- 💡 [Học sinh có thể làm bài tập trên sách giáo khoa điện tử](https://vnexpress.net/hoc-sinh-co-the-lam-bai-tap-tren-sach-giao-khoa-dien-tu-4988976.html) - 12:26 02/12/2025
+- 🥰 [Nữ sinh lớp 7 bị vây đánh, sợ không dám đi học](https://vnexpress.net/nam-sinh-lop-10-bi-danh-nhet-bang-ve-sinh-vao-mieng-4988788.html) - 07:11 02/12/2025
+- 🐲 [Những sinh viên học 4-7 chuyên ngành cùng lúc](https://vnexpress.net/nhung-sinh-vien-hoc-4-7-chuyen-nganh-cung-luc-4988767.html) - 05:15 02/12/2025
+- 🦒 [Trường ĐH FPT mở rộng ngành học theo xu hướng việc làm tương lai](https://vnexpress.net/truong-dh-fpt-mo-rong-nganh-hoc-theo-xu-huong-viec-lam-tuong-lai-4988678.html) - 04:00 02/12/2025
+- 🦆 [Trung úy 24 tuổi lập &#39;hat-trick&#39; giải vàng Olympic Cơ học, tốt nghiệp thủ khoa](https://vnexpress.net/hanh-trinh-cua-thu-khoa-hoc-vien-phong-khong-khong-quan-bui-huy-hoang-4987985.html) - 23:11 01/12/2025
+- 🧰 [ĐH Khoa học Xã hội và Nhân văn bỏ xét tổ hợp C00 với 15 ngành](https://vnexpress.net/phuong-thuc-to-hop-xet-tuyen-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-nam-2026-chinh-xac-nhat-4988523.html) - 14:32 01/12/2025
+- 🐘 [Người dân nước nào cao nhất Đông Nam Á?](https://vnexpress.net/nguoi-dan-nuoc-nao-cao-nhat-dong-nam-a-4988019.html) - 13:00 01/12/2025
+- 🤓 [FPT Polytechnic lập kỷ lục Việt Nam tại Giải chạy đêm Hà Nội](https://vnexpress.net/fpt-polytechnic-ky-luc-marathon-ha-noi-4988255.html) - 11:00 01/12/2025
+- 🧰 [Đại học tư &#39;đút túi&#39; hàng trăm triệu USD vì sinh viên bỏ nhập học](https://vnexpress.net/dai-hoc-tu-dut-tui-hang-tram-trieu-usd-vi-sinh-vien-bo-nhap-hoc-4987969.html) - 09:23 01/12/2025
+- 🧑‍💻 [&#39;Không có chuyện ký khống vụ chi tiền hỗ trợ A80&#39;](https://vnexpress.net/cai-ket-buoi-doi-thoai-hieu-truong-cao-dang-du-lich-ha-noi-voi-sinh-vien-vu-buc-xuc-tien-ho-tro-a80-4988317.html) - 07:20 01/12/2025
+- 🫶 [Cầu Giấy đấu Vinschool The Harmony ở chung kết Giải Bóng rổ Trẻ VnExpress](https://vnexpress.net/cau-giay-dau-vinschool-the-harmony-o-chung-ket-giai-bong-ro-tre-vnexpress-4988041.html) - 04:18 01/12/2025
+- 🪜 [Cô trò tất bật may đồng phục tặng học sinh vùng lũ](https://vnexpress.net/co-tro-tat-bat-may-dong-phuc-tang-hoc-sinh-vung-lu-4988069.html) - 04:02 01/12/2025
+- 🎊 [Ngôi trường thu học phí hơn 950 triệu đồng một năm](https://vnexpress.net/ngoi-truong-thu-hoc-phi-hon-950-trieu-dong-mot-nam-4986403.html) - 22:59 30/11/2025
+- 🧐 [Top 5 ngành học dễ kiếm việc với du học sinh ở Australia](https://vnexpress.net/top-5-nganh-hoc-de-xin-viec-nhat-o-australia-voi-du-hoc-sinh-4986347.html) - 17:00 30/11/2025
+- 🌈 [Thành phố tắc đường nhất thế giới ở nước nào?](https://vnexpress.net/thanh-pho-tac-duong-nhat-the-gioi-o-nuoc-nao-4987863.html) - 13:00 30/11/2025
+- 🥰 [Nữ Phan Đình Phùng lần thứ hai liên tiếp vào chung kết giải bóng rổ Trẻ VnExpress](https://vnexpress.net/nu-phan-dinh-phung-lan-thu-hai-lien-tiep-vao-chung-ket-giai-bong-ro-tre-vnexpress-4988029.html) - 12:51 30/11/2025
+- 🎡 [Sinh viên bức xúc vì tiền hỗ trợ A80 thấp, hiệu trưởng nói &#39;hiểu nhầm&#39;](https://vnexpress.net/cao-dang-du-lich-ha-noi-noi-gi-vu-sinh-vien-buc-xuc-940-000-dong-ho-tro-a80-4987970.html) - 08:25 30/11/2025
+- 🎊 [Bán kết nam 2: Nguyễn Tất Thành 40-47 Vinschool The Harmony](https://vnexpress.net/ban-ket-nam-2-nguyen-tat-thanh-40-47-vinschool-the-harmony-4987851.html) - 07:31 30/11/2025
+- 🌏 [Âm /t/ phát âm giống /d/ trong tiếng Anh Mỹ](https://vnexpress.net/am-t-phat-am-giong-d-trong-tieng-anh-my-4987833.html) - 06:27 30/11/2025
+- 🥸 [Bán kết nam 1: Việt Đức 50-64 Cầu Giấy](https://vnexpress.net/ban-ket-nam-1-viet-duc-50-64-cau-giay-4987850.html) - 05:30 30/11/2025
+- 🕴 [Bán kết nữ 2: Phan Đình Phùng 46-27 Việt Đức](https://vnexpress.net/ban-ket-nu-2-phan-dinh-phung-46-27-viet-duc-4972152.html) - 03:00 30/11/2025
+- 💂 [Bán kết nữ 1: Vinschool Smart City 42-50 Vinschool The Harmony](https://vnexpress.net/ban-ket-nu-1-vinschool-smart-city-42-50-vinschool-the-harmony-4972150.html) - 01:00 30/11/2025
+- 🕴 [Thủ khoa được đặc cách vào Viện Kiểm sát từng suýt bỏ học](https://vnexpress.net/thu-khoa-duoc-dac-cach-vao-vien-kiem-sat-tung-suyt-bo-hoc-4987621.html) - 22:59 29/11/2025
+- 🌋 [Ngày mai diễn ra bán kết Giải bóng rổ Trẻ VnExpress](https://vnexpress.net/ngay-mai-ban-ket-giai-bong-ro-vnexpress-4987804.html) - 14:10 29/11/2025
+- 🪜 [Người dân nước nào có IQ cao nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-co-iq-cao-nhat-the-gioi-4987772.html) - 13:04 29/11/2025
+- 🕴 [Thủ khoa đi 7 nước, giành học bổng tiến sĩ trước tốt nghiệp](https://vnexpress.net/thu-khoa-di-7-nuoc-gianh-hoc-bong-tien-si-truoc-tot-nghiep-4987618.html) - 12:00 29/11/2025
+- 🎃 [Tương quan bốn cặp bán kết Giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-2025-4985523.html) - 11:20 29/11/2025
+- 🦏 [Ba từ tiếng Anh &#39;hot&#39; nhất năm 2025](https://vnexpress.net/ba-tu-tieng-anh-hot-nhat-nam-2025-4987636.html) - 05:50 29/11/2025
+- 🧑‍🏫 [Một trường Sư phạm bỏ xét điểm hai kỳ thi riêng](https://vnexpress.net/cac-phuong-thuc-xet-tuyen-sinh-dai-hoc-su-pham-thai-nguyen-nam-2026-chinh-xac-nhat-4987478.html) - 03:31 29/11/2025
+- 💡 [&#39;Gom&#39; đào tạo cử nhân Luật đi ngược xu hướng đại học đa ngành](https://vnexpress.net/gom-dao-tao-cu-nhan-luat-di-nguoc-xu-huong-dai-hoc-da-nganh-4987033.html) - 23:15 28/11/2025
+- 🐎 [Học bổng chính phủ Trung Quốc cho du học sinh Việt giảm mạnh](https://vnexpress.net/dieu-kien-thu-tuc-nop-hoc-bong-chinh-phu-trung-quoc-nam-2026-4987517.html) - 14:30 28/11/2025
+- 🧰 [Nước châu Á nào là quê hương của quả táo?](https://vnexpress.net/nuoc-chau-a-nao-la-que-huong-cua-qua-tao-4987427.html) - 13:07 28/11/2025
+- 🙉 [Thứ trưởng Giáo dục: Ưu tiên bảo vệ thông tin của thầy trò khi dùng AI](https://vnexpress.net/thu-truong-giao-duc-uu-tien-bao-ve-thong-tin-cua-thay-tro-khi-dung-ai-4987342.html) - 09:30 28/11/2025
+- ⚗️ [Thủ khoa điểm tuyệt đối, TOEIC 950 của Bách khoa TP HCM](https://vnexpress.net/thu-khoa-diem-tuyet-doi-toeic-950-cua-bach-khoa-tp-hcm-4986954.html) - 07:33 28/11/2025
+- 🌝 [Marie Curie thắng Kim Liên 18-9](https://vnexpress.net/marie-curie-thang-kim-lien-18-9-4986930.html) - 06:54 28/11/2025
+- ⛽️ [Sân Warzone sôi động trong trận Dewey gặp Phạm Hồng Thái](https://vnexpress.net/san-warzone-soi-dong-trong-tran-dewey-gap-pham-hong-thai-4986773.html) - 05:32 28/11/2025
+- 🌜 [Bộ Giáo dục chấn chỉnh việc xét thăng hạng giáo viên](https://vnexpress.net/bo-giao-duc-yeu-cau-tiep-tuc-xet-thang-hang-giao-vien-4987185.html) - 03:15 28/11/2025
+- ⚗️ [Bộ sách giáo khoa tiếng Anh thiết kế theo khung chương trình Bộ Giáo dục](https://vnexpress.net/bo-sach-giao-khoa-tieng-anh-thiet-ke-theo-khung-chuong-trinh-bo-giao-duc-4987004.html) - 01:00 28/11/2025
+- 🧰 [Băn khoăn khi &#39;chỉ trường Y được đào tạo bác sĩ&#39;](https://vnexpress.net/ban-khoan-khi-chi-truong-y-duoc-dao-tao-bac-si-4986819.html) - 23:26 27/11/2025
+- 🤗 [Canada cắt 50% giấy phép du học mới năm 2026](https://vnexpress.net/canada-cat-50-giay-phep-du-hoc-moi-nam-2026-4986943.html) - 18:11 27/11/2025
+- 🔥 [Hai nước Đông Nam Á nào thỏa thuận chuyển đổi tiền tệ với nhau?](https://vnexpress.net/hai-nuoc-dong-nam-a-nao-thoa-thuan-chuyen-doi-tien-te-voi-nhau-4987038.html) - 13:19 27/11/2025
+- 💪 [Làn sóng &#39;trốn&#39; tốt nghiệp của sinh viên Hàn Quốc](https://vnexpress.net/lan-song-tron-tot-nghiep-cua-sinh-vien-han-quoc-4986816.html) - 06:59 27/11/2025
+- 💂 [Học phí trường công ở Hà Nội cao nhất 6,1 triệu đồng](https://vnexpress.net/hoc-phi-tat-ca-truong-chat-luong-cao-o-ha-noi-nam-hoc-2025-2026-4986730.html) - 04:08 27/11/2025
+- 🌮 [Sinh viên nhặt được 5 chỉ vàng khi soạn đồ cứu trợ vùng lũ](https://vnexpress.net/sinh-vien-nhat-duoc-5-chi-vang-khi-soan-do-cuu-tro-vung-lu-4986646.html) - 03:33 27/11/2025
+- 🪄 [Nữ sinh tốt nghiệp Bách khoa với điểm tuyệt đối nhờ quy tắc 80-20](https://vnexpress.net/nu-sinh-tot-nghiep-bach-khoa-voi-diem-tuyet-doi-nho-quy-tac-80-20-4985719.html) - 22:59 26/11/2025
+- 🎡 [Cựu Á quân Olympia lọt top nhà nghiên cứu ảnh hưởng nhất Australia](https://vnexpress.net/cuu-a-quan-olympia-lot-top-nha-nghien-cuu-anh-huong-nhat-australia-4986580.html) - 14:14 26/11/2025
+- 🌈 [Người trúng giải xổ số độc đắc cao nhất thế giới ở nước nào?](https://vnexpress.net/nguoi-trung-giai-xo-so-doc-dac-cao-nhat-the-gioi-o-nuoc-nao-4986497.html) - 12:46 26/11/2025
+- 🎊 [Giải bóng rổ Trẻ VnExpress sẽ trao thưởng cho đội cổ vũ sôi động](https://vnexpress.net/giai-bong-ro-tre-trao-giai-doi-co-vu-4972154.html) - 10:00 26/11/2025
+- ⚗️ [Trung Quốc thí điểm cấp bằng tiến sĩ không cần luận án](https://vnexpress.net/trung-quoc-thi-diem-cap-bang-tien-si-khong-can-luan-an-4986478.html) - 09:40 26/11/2025
+- 🌁 [Thêm bậc Pre-A1 trong khung năng lực ngoại ngữ của Việt Nam](https://vnexpress.net/them-bac-pre-a1-trong-khung-nang-luc-ngoai-ngu-cua-viet-nam-4986422.html) - 08:11 26/11/2025
+- 🦏 [Tâm Anh - Oxford lần đầu tuyển sinh nghiên cứu khoa học, dữ liệu y tế](https://vnexpress.net/tam-anh-oxford-lan-dau-tuyen-sinh-nghien-cuu-khoa-hoc-du-lieu-y-te-4986122.html) - 02:00 26/11/2025
+- 👍 [Nhiều đại học xóa sổ tổ hợp truyền thống, giảm xét học bạ](https://vnexpress.net/nhieu-dai-hoc-xoa-so-to-hop-truyen-thong-giam-xet-hoc-ba-4985589.html) - 22:59 25/11/2025
+- 🌈 [Du học sinh Việt ở Australia khó xin việc hơn](https://vnexpress.net/du-hoc-sinh-viet-o-australia-kho-xin-viec-hon-4986145.html) - 17:29 25/11/2025
+- 🕴 [Nước Đông Nam Á nào có thành phố &#39;chìm nhanh nhất thế giới?&#39;](https://vnexpress.net/nuoc-dong-nam-a-nao-co-thanh-pho-chim-nhanh-nhat-the-gioi-4986004.html) - 13:23 25/11/2025
+- 🧰 [Du học sinh Việt mới đến Australia giảm hơn 40%](https://vnexpress.net/du-hoc-sinh-viet-moi-den-australia-giam-hon-40-4985945.html) - 07:53 25/11/2025<!-- vnexpress-giao-duc:END -->
