@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất Giám đốc Sở được &#39;nới trần&#39; dạy thêm trong trường](https://vnexpress.net/de-xuat-giam-doc-so-duoc-noi-tran-day-them-trong-truong-4988986.html) - 17:00 02/12/2025
+- 🤓 [Bộ Giáo dục dự kiến nới quy định dạy thêm trong trường](https://vnexpress.net/bo-giao-duc-du-kien-noi-quy-dinh-day-them-trong-truong-4988986.html) - 17:00 02/12/2025
 - 🦆 [Nước nào có mật độ dân số lên tới 26.000 người/km2?](https://vnexpress.net/nuoc-nao-co-mat-do-dan-so-len-toi-26-000-nguoi-km2-4988468.html) - 14:17 02/12/2025
 - 🦩 [Vì sao loạt ngành ở ĐH Khoa học Xã hội và Nhân văn bỏ xét khối C00?](https://vnexpress.net/vi-sao-loat-nganh-o-dh-khoa-hoc-xa-hoi-va-nhan-van-bo-xet-khoi-c00-4988738.html) - 12:56 02/12/2025
 - 🌮 [Học sinh có thể làm bài tập trên sách giáo khoa điện tử](https://vnexpress.net/hoc-sinh-co-the-lam-bai-tap-tren-sach-giao-khoa-dien-tu-4988976.html) - 12:26 02/12/2025
