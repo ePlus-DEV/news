@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cách Victor Vũ - Đinh Ngọc Diệp vun đắp hôn nhân](https://vnexpress.net/cach-victor-vu-dinh-ngoc-diep-vun-dap-hon-nhan-4988231.html) - 17:00 02/12/2025
+- 🌏 [Victor Vũ - Đinh Ngọc Diệp vun đắp hôn nhân](https://vnexpress.net/victor-vu-dinh-ngoc-diep-vun-dap-hon-nhan-4988231.html) - 17:00 02/12/2025
 - 💫 [Anh Tú Atus áp lực lần đầu đóng phim 18+](https://vnexpress.net/anh-tu-atus-ap-luc-lan-dau-dong-phim-18-4988962.html) - 14:43 02/12/2025
 - 🌮 [Dàn sao phim hài &#39;Lộc Đỉnh Ký&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-phim-hai-loc-dinh-ky-ngay-ay-bay-gio-4988357.html) - 12:00 02/12/2025
 - 🧠 [Tranh về Chúa Jesus thất lạc hơn 400 năm](https://vnexpress.net/tranh-ve-chua-jesus-that-lac-hon-400-nam-4988784.html) - 09:24 02/12/2025
