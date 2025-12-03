@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Chiếm đoạt hơn 10 tỷ đồng của nhiều người muốn đi Canada làm việc](https://vnexpress.net/chiem-doat-hon-10-ty-dong-cua-nhieu-nguoi-muon-di-canada-lam-viec-4989433.html) - 10:30 03/12/2025
 - 🥰 [CEO Tập đoàn Phúc Hoàng Nguyên bị bắt](https://vnexpress.net/ceo-tap-doan-phuc-hoang-nguyen-bi-bat-4989413.html) - 10:02 03/12/2025
-- 🎓 [Đoàn Văn Sáng bị bắt về tội giết người ở Lạng Sơn](https://vnexpress.net/nghi-pham-giet-nguoi-phi-tang-xac-o-lang-son-bi-bat-4988692.html) - 08:50 03/12/2025
+- 🎓 [Đoàn Văn Sáng bị bắt vì giết người ở Lạng Sơn](https://vnexpress.net/nghi-pham-giet-nguoi-phi-tang-xac-o-lang-son-bi-bat-4988692.html) - 08:50 03/12/2025
 - 🤓 [Các băng đảng sử dụng gia súc để buôn lậu ma túy vào châu Âu thế nào](https://vnexpress.net/cac-bang-dang-su-dung-gia-suc-de-buon-lau-ma-tuy-vao-chau-au-the-nao-4989241.html) - 05:57 03/12/2025
 - 🎊 [Ra tòa vì đi bộ ngược chiều thang cuốn](https://vnexpress.net/ra-toa-vi-di-bo-nguoc-chieu-thang-cuon-4989249.html) - 05:46 03/12/2025
 - 🙉 [Đề xuất lập tòa án chuyên biệt, thẩm phán có thể là người nước ngoài](https://vnexpress.net/de-xuat-lap-toa-an-chuyen-biet-tham-phan-co-the-la-nguoi-nuoc-ngoai-4989223.html) - 05:02 03/12/2025
