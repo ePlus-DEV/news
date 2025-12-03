@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Cách mua vé máy bay, đặt phòng với giá hời](https://vnexpress.net/cach-mua-ve-may-bay-dat-phong-voi-gia-hoi-4989222.html) - 07:00 03/12/2025
-- 🪄 [Tạp chí nước ngoài gợi ý khách uống bia, ăn ở vỉa hè Việt Nam](https://vnexpress.net/tap-chi-nuoc-ngoai-goi-y-khach-uong-bia-an-o-via-he-viet-nam-4988640.html) - 06:25 03/12/2025
+- 🪄 [Tạp chí nước ngoài gợi ý trải nghiệm ẩm thực ở Việt Nam](https://vnexpress.net/tap-chi-nuoc-ngoai-goi-y-trai-nghiem-am-thuc-o-viet-nam-4988640.html) - 06:25 03/12/2025
 - 🦅 [Khách tố bị hướng dẫn viên nhốt trong cửa hàng Trung Quốc vì không mua đồ](https://vnexpress.net/khach-to-bi-huong-dan-vien-nhot-trong-cua-hang-trung-quoc-vi-khong-mua-do-4989187.html) - 04:16 03/12/2025
 - 🕴 [Nguồn gốc món kem rưới cà phê &#39;gây sốt&#39; thực khách Việt](https://vnexpress.net/nguon-goc-mon-kem-ruoi-ca-phe-gay-sot-thuc-khach-viet-4988948.html) - 00:03 03/12/2025
 - 👀 [Những điểm đến Trung Quốc mất dần sức hút với khách Việt](https://vnexpress.net/nhung-diem-den-trung-quoc-mat-dan-suc-hut-voi-khach-viet-4988476.html) - 17:00 02/12/2025
