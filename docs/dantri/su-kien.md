@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Vợ mất sớm, các con khó nghèo, cụ ông 82 tuổi: “Không muốn phiền con cháu”](https://dantri.com.vn/tam-long-nhan-ai/vo-mat-som-cac-con-kho-ngheo-cu-ong-82-tuoi-khong-muon-phien-con-chau-20251124222105410.htm) - 22:30 03/12/2025
+- 🎭 [Vợ mất sớm, các con khó nghèo, cụ ông 82 tuổi &quot;quen&quot; khổ và bệnh tật](https://dantri.com.vn/tam-long-nhan-ai/vo-mat-som-cac-con-kho-ngheo-cu-ong-82-tuoi-quen-kho-va-benh-tat-20251124222105410.htm) - 22:30 03/12/2025
 - 👨‍🏫 [Đèo nối Đà Lạt với TPHCM sạt lở giữa đêm, giao thông chia cắt](https://dantri.com.vn/thoi-su/deo-noi-da-lat-voi-tphcm-sat-lo-giua-dem-giao-thong-chia-cat-20251203214520175.htm) - 15:19 03/12/2025
 - 🌮 [Diễn biến mới vụ giải tỏa con đường &quot;đắt nhất hành tinh&quot; ở Hà Nội](https://dantri.com.vn/bat-dong-san/dien-bien-moi-vu-giai-toa-con-duong-dat-nhat-hanh-tinh-o-ha-noi-20251203202701406.htm) - 14:20 03/12/2025
 - 🕯 [Trọng tài nội bình luận về bàn thắng gây tranh cãi của U22 Việt Nam](https://dantri.com.vn/the-thao/trong-tai-noi-binh-luan-ve-ban-thang-gay-tranh-cai-cua-u22-viet-nam-20251203181319843.htm) - 14:11 03/12/2025
