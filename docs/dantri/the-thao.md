@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Malaysia tuyên bố đội nhà phải đánh bại U22 Việt Nam bằng mọi giá](https://dantri.com.vn/the-thao/bao-malaysia-tuyen-bo-doi-nha-phai-danh-bai-u22-viet-nam-bang-moi-gia-20251204164944548.htm) - 09:49 04/12/2025
+- 🎡 [Báo Malaysia tuyên bố đội nhà phải đánh bại U22 Việt Nam bằng mọi giá](https://dantri.com.vn/the-thao/bao-malaysia-tuyen-bo-doi-nha-phai-danh-bai-u22-viet-nam-bang-moi-gia-20251204164944548.htm) - 11:01 04/12/2025
 - 💯 [HLV Mai Đức Chung đánh giá đối thủ ở “bảng tử thần” của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-danh-gia-doi-thu-o-bang-tu-than-cua-tuyen-nu-viet-nam-20251204162017105.htm) - 09:20 04/12/2025
 - ⛽️ [Công nhân Thái Lan căng mình làm việc trước giờ khai mạc SEA Games 33](https://dantri.com.vn/the-thao/cong-nhan-thai-lan-cang-minh-lam-viec-truoc-gio-khai-mac-sea-games-33-20251204140502034.htm) - 09:10 04/12/2025
 - 💃 [Quốc ca thiếu nhạc, báo Thái Lan phản ứng với Ban tổ chức SEA Games](https://dantri.com.vn/the-thao/quoc-ca-thieu-nhac-bao-thai-lan-phan-ung-voi-ban-to-chuc-sea-games-20251204134404010.htm) - 08:16 04/12/2025
