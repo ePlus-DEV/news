@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Nỗi buồn chiến tranh là tiểu thuyết hay, đáng vinh danh&#39;](https://vnexpress.net/noi-buon-chien-tranh-la-tieu-thuyet-hay-dang-vinh-danh-4988675.html) - 17:44 03/12/2025
+- 🌏 [&#39;Nỗi buồn chiến tranh là tiểu thuyết đáng vinh danh&#39;](https://vnexpress.net/noi-buon-chien-tranh-la-tieu-thuyet-dang-vinh-danh-4988675.html) - 17:44 03/12/2025
 - 💫 [Hoàng Hải: &#39;Series Cảnh sát hình sự là kỷ niệm đẹp trong đời&#39;](https://vnexpress.net/hoang-hai-series-canh-sat-hinh-su-la-ky-niem-dep-trong-doi-4968603.html) - 17:00 03/12/2025
 - 🌮 [Hậu trường bối cảnh Sài Gòn thập niên 1980 trong &#39;Quán Kỳ Nam&#39;](https://vnexpress.net/hau-truong-boi-canh-sai-gon-thap-nien-1980-trong-quan-ky-nam-4988666.html) - 11:32 03/12/2025
 - 🧠 [Miss Universe 2025: Tôi không mua giải](https://vnexpress.net/miss-universe-2025-toi-khong-mua-giai-4989202.html) - 08:34 03/12/2025
