@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Cuộc sống trụy lạc bị đưa lên sóng, Diddy phẫn nộ đòi kiện từ trong tù](https://dantri.com.vn/giai-tri/cuoc-song-truy-lac-bi-dua-len-song-diddy-phan-no-doi-kien-tu-trong-tu-20251204105601969.htm) - 05:12 04/12/2025
-- 🔥 [Đối thoại giữa nghệ thuật và khoa học trong không gian đương đại ở Hà Nội](https://dantri.com.vn/giai-tri/doi-thoai-giua-nghe-thuat-va-khoa-hoc-trong-khong-gian-duong-dai-o-ha-noi-20251204103844444.htm) - 04:18 04/12/2025
-- 🚀 [Phong cách ngọt ngào như công chúa tóc mây của Lisa gây sốt](https://dantri.com.vn/giai-tri/phong-cach-ngot-ngao-nhu-cong-chua-toc-may-cua-lisa-gay-sot-20251204100016968.htm) - 03:11 04/12/2025
+- 🤩 [Phong cách ngọt ngào như công chúa tóc mây của Lisa gây sốt](https://dantri.com.vn/giai-tri/phong-cach-ngot-ngao-nhu-cong-chua-toc-may-cua-lisa-gay-sot-20251204100016968.htm) - 09:29 04/12/2025
+- 🔥 [Cuộc sống trụy lạc bị đưa lên sóng, Diddy phẫn nộ đòi kiện từ trong tù](https://dantri.com.vn/giai-tri/cuoc-song-truy-lac-bi-dua-len-song-diddy-phan-no-doi-kien-tu-trong-tu-20251204105601969.htm) - 05:12 04/12/2025
+- 🚀 [Đối thoại giữa nghệ thuật và khoa học trong không gian đương đại ở Hà Nội](https://dantri.com.vn/giai-tri/doi-thoai-giua-nghe-thuat-va-khoa-hoc-trong-khong-gian-duong-dai-o-ha-noi-20251204103844444.htm) - 04:18 04/12/2025
 - 🔥 [Cuộc sống bình yên, nhiều tiếng cười của nghệ sĩ Vân Dung ở tuổi 50](https://dantri.com.vn/giai-tri/cuoc-song-binh-yen-nhieu-tieng-cuoi-cua-nghe-si-van-dung-o-tuoi-50-20251203235049681.htm) - 03:00 04/12/2025
 - 🌈 [Nhà văn Bảo Ninh nói gì trước ý kiến trái chiều về &quot;Nỗi buồn chiến tranh&quot;?](https://dantri.com.vn/giai-tri/nha-van-bao-ninh-noi-gi-truoc-y-kien-trai-chieu-ve-noi-buon-chien-tranh-20251202171203549.htm) - 02:59 04/12/2025
 - 📝 [10 cuốn sách hay nhất năm 2025](https://dantri.com.vn/giai-tri/10-cuon-sach-hay-nhat-nam-2025-20251204092832316.htm) - 02:57 04/12/2025
