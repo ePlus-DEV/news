@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Một thí sinh ở Hà Nội bị thu hồi bằng tốt nghiệp THPT](https://vnexpress.net/hy-huu-mot-thi-sinh-o-ha-noi-bi-thu-hoi-bang-tot-nghiep-thpt-4989642.html) - 03:33 04/12/2025
+- 🤓 [Thí sinh Hà Nội bị thu hồi bằng tốt nghiệp THPT sau nửa năm thi](https://vnexpress.net/hy-huu-mot-thi-sinh-o-ha-noi-bi-thu-hoi-bang-tot-nghiep-thpt-4989642.html) - 03:33 04/12/2025
 - 🦆 [Đại học Bách khoa Hà Nội mở đăng ký thi đánh giá tư duy năm 2026](https://vnexpress.net/huong-dan-dang-ky-thi-danh-gia-tu-duy-tsa-cua-dai-hoc-bach-khoa-ha-noi-moi-nhat-4989324.html) - 02:10 04/12/2025
 - 🦩 [BUV phát triển &#39;hệ sinh thái&#39; thực tập toàn diện cho cho sinh viên](https://vnexpress.net/buv-phat-trien-he-sinh-thai-thuc-tap-toan-dien-cho-cho-sinh-vien-4989449.html) - 01:00 04/12/2025
 - 🌮 [BUV 6 năm liền đạt chứng nhận QS 5 sao](https://vnexpress.net/buv-6-nam-lien-dat-chung-nhan-qs-5-sao-4989442.html) - 01:00 04/12/2025
