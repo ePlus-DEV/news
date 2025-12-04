@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người dân kêu cứu trong đêm nước lũ dâng ngập nhà ở Lâm Đồng](https://vnexpress.net/nguoi-dan-keu-cuu-trong-dem-nuoc-lu-dang-ngap-nha-o-lam-dong-4989957.html) - 17:25 04/12/2025
+- 🦒 [Hàng trăm người kêu cứu trong đêm lũ dâng ngập nhà ở Lâm Đồng](https://vnexpress.net/hang-tram-nguoi-keu-cuu-trong-dem-lu-dang-ngap-nha-o-lam-dong-4989957.html) - 17:25 04/12/2025
 - 🤓 [Người dân Phan Thiết chạy lũ trong đêm](https://vnexpress.net/nguoi-dan-phan-thiet-chay-lu-trong-dem-4989956.html) - 17:16 04/12/2025
 - ⚗️ [Phương án đầu tư cầu Cần Giờ hơn 13.000 tỷ đồng](https://vnexpress.net/phuong-an-dau-tu-cau-can-gio-hon-13-000-ty-dong-4989770.html) - 17:00 04/12/2025
 - 🌊 [Hoạt động trí tuệ nhân tạo sẽ hưởng ưu đãi và hỗ trợ cao nhất](https://vnexpress.net/hoat-dong-tri-tue-nhan-tao-se-huong-uu-dai-va-ho-tro-cao-nhat-4989898.html) - 13:09 04/12/2025
