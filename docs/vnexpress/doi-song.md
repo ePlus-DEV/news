@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cư dân &#39;chia phe&#39; vì chung cư cấm xe điện](https://vnexpress.net/cu-dan-chia-phe-vi-chung-cu-cam-xe-dien-4989720.html) - 07:13 04/12/2025
+- 🚀 [Cư dân chia phe vì chung cư cấm xe điện](https://vnexpress.net/cu-dan-chia-phe-vi-chung-cu-cam-xe-dien-4989720.html) - 07:13 04/12/2025
 - 🎓 [Cái kết cay đắng của người &#39;đu đỉnh&#39; mua nhà](https://vnexpress.net/cai-ket-cay-dang-cua-nguoi-du-dinh-mua-nha-4989534.html) - 04:44 04/12/2025
 - 🚦 [Thợ bốc vác đổi đời nhờ &#39;bắn tiếng Anh như gió&#39;](https://vnexpress.net/tho-boc-vac-doi-doi-nho-ban-tieng-anh-nhu-gio-4989490.html) - 03:58 04/12/2025
 - 🦣 [60.000 hộ gia đình Mỹ có nguy cơ &#39;ra đường&#39;](https://vnexpress.net/60-000-ho-gia-dinh-my-co-nguy-co-ra-duong-4989502.html) - 01:30 04/12/2025
