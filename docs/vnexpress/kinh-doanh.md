@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chính phủ đề xuất tạo điều kiện cho tư nhân làm đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/chinh-phu-de-xuat-tao-dieu-kien-cho-tu-nhan-lam-duong-sat-toc-do-cao-bac-nam-4989847.html) - 10:39 04/12/2025
+- ⛽️ [Chính phủ đề xuất cho tư nhân làm đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/chinh-phu-de-xuat-cho-tu-nhan-lam-duong-sat-toc-do-cao-bac-nam-4989847.html) - 10:39 04/12/2025
 - 🐲 [Chứng khoán có mạch tăng dài nhất 4 tháng](https://vnexpress.net/chung-khoan-co-mach-tang-dai-nhat-4-thang-4989829.html) - 09:09 04/12/2025
 - 🔥 [HDBank được chấp thuận tăng vốn điều lên hơn 50.000 tỷ](https://vnexpress.net/hdbank-duoc-chap-thuan-tang-von-dieu-len-hon-50-000-ty-4989816.html) - 08:30 04/12/2025
 - 🐵 [Hải Phòng dự kiến thu hàng trăm triệu USD từ giao dịch carbon](https://vnexpress.net/hai-phong-du-kien-thu-hang-tram-trieu-usd-tu-giao-dich-carbon-4989691.html) - 08:02 04/12/2025
