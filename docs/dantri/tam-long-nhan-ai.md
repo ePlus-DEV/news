@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Vợ mất sớm, các con khó nghèo, cụ ông 82 tuổi: “Không muốn phiền con cháu”](https://dantri.com.vn/tam-long-nhan-ai/vo-mat-som-cac-con-kho-ngheo-cu-ong-82-tuoi-khong-muon-phien-con-chau-20251124222105410.htm) - 22:30 03/12/2025
+- 🌝 [Vợ mất sớm, các con khó nghèo, cụ ông 82 tuổi &quot;quen&quot; khổ và bệnh tật](https://dantri.com.vn/tam-long-nhan-ai/vo-mat-som-cac-con-kho-ngheo-cu-ong-82-tuoi-quen-kho-va-benh-tat-20251124222105410.htm) - 22:30 03/12/2025
 - 🌜 [Nhà lá 30 năm bị cuốn sập, người phụ nữ tật nguyền sống nhờ hàng xóm](https://dantri.com.vn/tam-long-nhan-ai/nha-la-30-nam-bi-cuon-sap-nguoi-phu-nu-tat-nguyen-song-nho-hang-xom-20251120135951215.htm) - 22:30 02/12/2025
 - 👀 [Năm ngày vượt biển về nhà, người đàn ông khóc nghẹn bên mộ vợ](https://dantri.com.vn/tam-long-nhan-ai/nam-ngay-vuot-bien-ve-nha-nguoi-dan-ong-khoc-nghen-ben-mo-vo-20251202154716490.htm) - 22:00 02/12/2025
 - 🚀 [Hỗ trợ 170 triệu đồng giúp người dân Gia Lai bị sập nhà do bão lũ](https://dantri.com.vn/tam-long-nhan-ai/ho-tro-170-trieu-dong-giup-nguoi-dan-gia-lai-bi-sap-nha-do-bao-lu-20251202063618686.htm) - 16:05 02/12/2025
