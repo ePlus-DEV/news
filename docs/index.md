@@ -51,7 +51,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [H&#39;Hen Niê tái xuất thảm đỏ](https://vnexpress.net/h-hen-nie-tai-xuat-tham-do-4990394.html) - 15:44 05/12/2025
 - 🤔 [Thủ tướng: Xác định dự án ưu tiên ứng phó biến đổi khí hậu ĐBSCL](https://vnexpress.net/thu-tuong-xac-dinh-du-an-uu-tien-ung-pho-bien-doi-khi-hau-dbscl-4990361.html) - 15:24 05/12/2025
 - 🌮 [Phú Quốc khôi phục điện hoàn toàn sau sự cố cáp ngầm](https://vnexpress.net/phu-quoc-khoi-phuc-dien-hoan-toan-sau-su-co-cap-ngam-4990384.html) - 15:03 05/12/2025
-- 🦩 [Bốc thăm World Cup 2026: Anh cùng bảng Croatia](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html) - 15:00 05/12/2025
+- 🦩 [Mbappe đấu Haaland ở vòng bảng World Cup 2026](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html) - 15:00 05/12/2025
 - 📝 [Phó thủ tướng: Phát triển bền vững khởi đầu gian nan, dài hạn &#39;hái quả ngọt&#39;](https://vnexpress.net/pho-thu-tuong-phat-trien-ben-vung-khoi-dau-gian-nan-dai-han-hai-qua-ngot-4990377.html) - 14:45 05/12/2025
 - 🕴 [Đà Nẵng đề xuất đầu tư sân bay Chu Lai gắn hệ sinh thái 10 tỷ USD](https://vnexpress.net/da-nang-de-xuat-dau-tu-san-bay-chu-lai-gan-he-sinh-thai-10-ty-usd-4990375.html) - 14:23 05/12/2025
 - 🐲 [Á hậu Phương Nhi dự lễ trao giải VinFuture](https://vnexpress.net/a-hau-phuong-nhi-du-le-trao-giai-vinfuture-4990390.html) - 14:21 05/12/2025
