@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HLV Mai Đức Chung: &#39;Trận thắng Malaysia đạt ba mục tiêu&#39;](https://vnexpress.net/hlv-mai-duc-chung-tran-thang-malaysia-dat-ba-muc-tieu-4986045.html) - 16:16 05/12/2025
-- 🦩 [Bốc thăm World Cup 2026: Ông Trump tri ân Pele](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html) - 15:00 05/12/2025
+- 🦩 [Bốc thăm World Cup 2026: Tây Ban Nha cùng bảng Uruguay](https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html) - 15:00 05/12/2025
 - 🧰 [Thái Lan tìm nhóm hotgirl quảng cáo cá độ ở trận đấu của Việt Nam](https://vnexpress.net/thai-lan-tim-nhom-hotgirl-quang-cao-ca-do-o-tran-dau-cua-viet-nam-4990342.html) - 11:44 05/12/2025
 - 🤗 [Nữ Việt Nam thắng 7-0 ở trận ra quân SEA Games](https://vnexpress.net/bong-da-nu-sea-games-viet-nam-malaysia-4990346-tong-thuat.html) - 10:48 05/12/2025
 - 🥳 [Keane: &#39;Man Utd sợ hãi khi dẫn bàn&#39;](https://vnexpress.net/keane-man-utd-so-hai-khi-dan-ban-4990037.html) - 08:54 05/12/2025
