@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [2 cô gái nhảy từ tầng 3 để thoát khỏi đám cháy khiến 4 người chết ở TPHCM](https://dantri.com.vn/thoi-su/2-co-gai-nhay-tu-tang-3-de-thoat-khoi-dam-chay-khien-4-nguoi-chet-o-tphcm-20251205121343608.htm) - 06:46 05/12/2025
+- 🎭 [2 cô gái nhảy từ tầng 3 để thoát khỏi quán ăn bị cháy ở TPHCM](https://dantri.com.vn/thoi-su/2-co-gai-nhay-tu-tang-3-de-thoat-khoi-quan-an-bi-chay-o-tphcm-20251205121343608.htm) - 06:46 05/12/2025
 - 👨‍🏫 [Bí ẩn hàng trăm nghìn tấn thịt trâu “biến mất” khi nhập vào Việt Nam](https://dantri.com.vn/kinh-doanh/bi-an-hang-tram-nghin-tan-thit-trau-bien-mat-khi-nhap-vao-viet-nam-20251205131453002.htm) - 06:45 05/12/2025
 - 🌮 [“Mong rằng ngọn lửa nhân ái sẽ lan tỏa và cháy mãi”](https://dantri.com.vn/tam-long-nhan-ai/mong-rang-ngon-lua-nhan-ai-se-lan-toa-va-chay-mai-20251205120041242.htm) - 06:41 05/12/2025
 - 🕯 [K+ lỗ hàng nghìn tỷ đồng trước khi dừng hoạt động tại Việt Nam](https://dantri.com.vn/kinh-doanh/k-lo-hang-nghin-ty-dong-truoc-khi-dung-hoat-dong-tai-viet-nam-20251205123423035.htm) - 05:47 05/12/2025
