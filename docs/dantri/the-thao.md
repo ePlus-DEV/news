@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thành phố tại Mỹ chính thức cấm pickleball vì tiếng ồn](https://dantri.com.vn/the-thao/thanh-pho-tai-my-chinh-thuc-cam-pickleball-vi-tieng-on-20251205115506913.htm) - 17:55 05/12/2025
-- 💯 [Bốc thăm World Cup 2026: Brazil gặp Morocco, Bồ Đào Nha đụng Colombia](https://dantri.com.vn/the-thao/boc-tham-world-cup-2026-brazil-gap-morocco-bo-dao-nha-dung-colombia-20251205233316017.htm) - 16:33 05/12/2025
+- 💯 [Bốc thăm World Cup 2026: Argentina, Bồ Đào Nha nhẹ gánh, Pháp, Anh gặp khó](https://dantri.com.vn/the-thao/boc-tham-world-cup-2026-argentina-bo-dao-nha-nhe-ganh-phap-anh-gap-kho-20251205233316017.htm) - 16:33 05/12/2025
 - ⛽️ [U22 Việt Nam được nghỉ tập, xem đội tuyển nữ đánh bại Malaysia](https://dantri.com.vn/the-thao/u22-viet-nam-duoc-nghi-tap-xem-doi-tuyen-nu-danh-bai-malaysia-20251205215246428.htm) - 15:29 05/12/2025
 - 💃 [HLV Mai Đức Chung nêu lý do giúp tuyển nữ Việt Nam thắng đậm Malaysia](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-neu-ly-do-giup-tuyen-nu-viet-nam-thang-dam-malaysia-20251205220810919.htm) - 15:08 05/12/2025
 - 🌈 [Đánh bại Myanmar, U22 Philippines thách thức U22 Indonesia](https://dantri.com.vn/the-thao/danh-bai-myanmar-u22-philippines-thach-thuc-u22-indonesia-20251205203400957.htm) - 13:35 05/12/2025
