@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan tìm nhóm hotgirl quảng cáo cá độ ở trận đấu của Việt Nam](https://vnexpress.net/thai-lan-tim-nhom-hotgirl-quang-cao-ca-do-o-tran-dau-cua-viet-nam-4990342.html) - 11:44 05/12/2025
-- 🦩 [Việt Nam 5-0 Malaysia &lpar;H2&rpar;: Thái Thị Thảo lập hai siêu phẩm](https://vnexpress.net/bong-da-nu-sea-games-viet-nam-malaysia-4990346.html) - 10:48 05/12/2025
+- 🦩 [Việt Nam 4-0 Malaysia &lpar;hết H1&rpar;: Hải Yến lập cú đúp](https://vnexpress.net/bong-da-nu-sea-games-viet-nam-malaysia-4990346.html) - 10:48 05/12/2025
 - 🧰 [Keane: &#39;Man Utd sợ hãi khi dẫn bàn&#39;](https://vnexpress.net/keane-man-utd-so-hai-khi-dan-ban-4990037.html) - 08:54 05/12/2025
 - 🤗 [Lý Hoàng Nam thắng tay vợt pickleball số 2 thế giới](https://vnexpress.net/ly-hoang-nam-thang-tay-vot-pickleball-so-2-the-gioi-4990283.html) - 08:44 05/12/2025
 - 🥳 [Nữ nhân viên pháp y và giấc mơ chinh phục SEA Games](https://vnexpress.net/nu-nhan-vien-phap-y-va-giac-mo-chinh-phuc-sea-games-4989961.html) - 08:04 05/12/2025
