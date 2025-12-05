@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Sở Tư pháp TPHCM phải báo cáo vụ bác sĩ Chiêm Quốc Thái trước 12/12](https://dantri.com.vn/thoi-su/so-tu-phap-tphcm-phai-bao-cao-vu-bac-si-chiem-quoc-thai-truoc-1212-20251205191054799.htm) - 12:50 05/12/2025
 - 👨‍🏫 [Bộ Công an truy nã Lê Trung Khoa, Nguyễn Văn Đài](https://dantri.com.vn/phap-luat/bo-cong-an-truy-na-le-trung-khoa-nguyen-van-dai-20251205193418894.htm) - 12:34 05/12/2025
-- 🌮 [Tường thuật trực tiếp Lễ trao giải VinFuture 2025](https://dantri.com.vn/khoa-hoc/tuong-thuat-truc-tiep-le-trao-giai-vinfuture-2025-20251205095426877.htm) - 12:15 05/12/2025
+- 🌮 [Giải thưởng VinFuture Grand Prize 3 triệu USD trao cho tác giả vaccine HPV](https://dantri.com.vn/khoa-hoc/giai-thuong-vinfuture-grand-prize-3-trieu-usd-trao-cho-tac-gia-vaccine-hpv-20251205095426877.htm) - 12:15 05/12/2025
 - 🕯 [Thủ tướng yêu cầu tìm cách quản lý chất lượng không khí tại Hà Nội, TPHCM](https://dantri.com.vn/thoi-su/thu-tuong-yeu-cau-tim-cach-quan-ly-chat-luong-khong-khi-tai-ha-noi-tphcm-20251205183040602.htm) - 11:35 05/12/2025
 - 🪜 [Tuyển nữ Việt Nam đại thắng 7-0 trước Malaysia](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-dai-thang-7-0-truoc-malaysia-20251205181440519.htm) - 11:15 05/12/2025
 - 🐘 [Thông tin mới vụ án chủ kênh “Hà và Việt Nam” chiếm đoạt tiền từ thiện](https://dantri.com.vn/phap-luat/thong-tin-moi-vu-an-chu-kenh-ha-va-viet-nam-chiem-doat-tien-tu-thien-20251205162903445.htm) - 11:14 05/12/2025
