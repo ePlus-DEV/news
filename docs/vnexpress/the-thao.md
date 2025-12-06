@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Faker và T1 đến Việt Nam cuối tháng 12](https://vnexpress.net/faker-t1-giao-luu-ha-noi-4990583.html) - 10:00 06/12/2025
 - 🧰 [Lý Hoàng Nam hạ tay vợt số 1 châu Á ở chung kết PPA Tour](https://vnexpress.net/ly-hoang-nam-ha-tay-vot-so-1-chau-a-o-chung-ket-ppa-tour-4990621.html) - 09:48 06/12/2025
 - 🤗 [Nữ sinh giành 25 HC vàng và ước mơ lớn sau Giải bóng rổ trẻ VnExpress](https://vnexpress.net/nu-sinh-gianh-25-hc-vang-va-uoc-mo-lon-sau-giai-bong-ro-tre-vnexpress-4990613.html) - 09:00 06/12/2025
-- 🥳 [Hạ Lào 4-1, Malaysia chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/u22-malaysia-v-u22-lao-4990606.html) - 08:40 06/12/2025
+- 🥳 [Malaysia 3-1 Lào &lpar;H2&rpar;: Việt Nam mất ngôi đầu bảng](https://vnexpress.net/u22-malaysia-v-u22-lao-4990606.html) - 08:40 06/12/2025
 - 🦣 [Chàng DJ phòng thay đồ và giấc mơ SEA Games](https://vnexpress.net/chang-dj-phong-thay-do-va-giac-mo-sea-games-4990337.html) - 07:52 06/12/2025
 - 🌜 [Supachalasai - chiến địa của môn điền kinh SEA Games 33](https://vnexpress.net/supachalasai-chien-dia-cua-mon-dien-kinh-sea-games-33-4990566.html) - 07:46 06/12/2025
 - 🫶 [Deschamps: &#39;Bảng của Pháp khó nhất World Cup 2026&#39;](https://vnexpress.net/deschamps-bang-cua-phap-kho-nhat-world-cup-2026-4990498.html) - 07:27 06/12/2025
