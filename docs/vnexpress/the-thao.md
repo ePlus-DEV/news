@@ -5,14 +5,14 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Arsenal thua ở phút bù thứ 5](https://vnexpress.net/arsenal-thua-o-phut-bu-thu-5-4990666.html) - 14:48 06/12/2025
-- 🦩 [Timor Leste đả bại Singapore, giúp Việt Nam ở SEA Games](https://vnexpress.net/timor-leste-da-bai-singapore-giup-viet-nam-o-sea-games-4990657.html) - 13:56 06/12/2025
+- 🦩 [Timor Leste thắng sốc Singapore ở SEA Games 33](https://vnexpress.net/timor-leste-thang-soc-singapore-o-sea-games-33-4990657.html) - 13:56 06/12/2025
 - 🧰 [Đội trưởng Lào gãy chân, lĩnh thẻ đỏ ở SEA Games](https://vnexpress.net/doi-truong-lao-gay-chan-linh-the-do-o-sea-games-4990647.html) - 12:17 06/12/2025
 - 🤗 [Messi đá chung kết MLS Cup - bước ngoặt cho bóng đá Mỹ](https://vnexpress.net/messi-da-chung-ket-mls-cup-buoc-ngoat-cho-bong-da-my-4990079.html) - 12:12 06/12/2025
 - 🥳 [Lễ bốc thăm World Cup 2026 bị chê lố bịch](https://vnexpress.net/le-boc-tham-world-cup-2026-bi-che-lo-bich-4990618.html) - 10:28 06/12/2025
 - 🦣 [Faker và T1 đến Việt Nam cuối tháng 12](https://vnexpress.net/faker-t1-giao-luu-ha-noi-4990583.html) - 10:00 06/12/2025
 - 🌜 [Lý Hoàng Nam hạ tay vợt số 1 châu Á ở chung kết PPA Tour](https://vnexpress.net/ly-hoang-nam-ha-tay-vot-so-1-chau-a-o-chung-ket-ppa-tour-4990621.html) - 09:48 06/12/2025
 - 🫶 [Nữ sinh giành 25 HC vàng và ước mơ lớn sau Giải bóng rổ trẻ VnExpress](https://vnexpress.net/nu-sinh-gianh-25-hc-vang-va-uoc-mo-lon-sau-giai-bong-ro-tre-vnexpress-4990613.html) - 09:00 06/12/2025
-- 🌜 [Hạ Lào 4-1, Malaysia chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/u22-malaysia-v-u22-lao-4990606.html) - 08:40 06/12/2025
+- 🌜 [Hạ Lào 4-1, Malaysia chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/u22-malaysia-v-u22-lao-4990606-tong-thuat.html) - 08:40 06/12/2025
 - 😺 [Supachalasai - chiến địa của môn điền kinh SEA Games 33](https://vnexpress.net/supachalasai-chien-dia-cua-mon-dien-kinh-sea-games-33-4990566.html) - 07:46 06/12/2025
 - 👍 [Deschamps: &#39;Bảng của Pháp khó nhất World Cup 2026&#39;](https://vnexpress.net/deschamps-bang-cua-phap-kho-nhat-world-cup-2026-4990498.html) - 07:27 06/12/2025
 - 🐵 [U22 Việt Nam đổi lịch tập để đi &#39;xem giò&#39; Malaysia](https://vnexpress.net/u22-viet-nam-doi-lich-tap-de-di-xem-gio-malaysia-4990556.html) - 07:19 06/12/2025
