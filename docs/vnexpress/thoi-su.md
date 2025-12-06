@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Văn bia lăng vua triều Nguyễn bị khắc chữ trái phép](https://vnexpress.net/van-bia-lang-vua-trieu-nguyen-bi-khac-chu-trai-phep-4990203.html) - 17:00 06/12/2025
 - 🤓 [Lí do ST25 lần thứ 3 thắng giải gạo ngon nhất thế giới](https://vnexpress.net/li-do-st25-lan-thu-3-thang-giai-gao-ngon-nhat-the-gioi-4988452.html) - 17:00 06/12/2025
 - ⚗️ [Xe bán tải bị hất qua lan can rơi xuống suối](https://vnexpress.net/xe-ban-tai-bi-hat-qua-lan-can-roi-xuong-suoi-4990643.html) - 12:24 06/12/2025
-- 🌊 [Sà lan chở 900 m3 cát lật úp trên biển Vũng Tàu](https://vnexpress.net/chim-sa-lan-tren-bien-vung-tau-4990642.html) - 11:57 06/12/2025
+- 🌊 [Sà lan chở 3 người lật úp trên biển Vũng Tàu](https://vnexpress.net/chim-sa-lan-tren-bien-vung-tau-4990642.html) - 11:57 06/12/2025
 - 🎓 [Nghiên cứu xây hai sân bay mới ở miền Trung để hỗ trợ cứu nạn](https://vnexpress.net/nghien-cuu-xay-hai-san-bay-moi-o-mien-trung-de-ho-tro-cuu-nan-4990638.html) - 11:38 06/12/2025
 - 🔥 [Hải đăng cao nhất Việt Nam được xếp hạng di tích](https://vnexpress.net/hai-dang-cao-nhat-viet-nam-duoc-xep-hang-di-tich-4990619.html) - 10:12 06/12/2025
 - 🦏 [Áp thấp nhiệt đới gần Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-gan-bien-dong-4990582.html) - 08:49 06/12/2025
