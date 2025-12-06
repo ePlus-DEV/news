@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Đăng tin bịa đặt bát phở giá 300.000 đồng ở Sầm Sơn](https://vnexpress.net/dang-tin-bia-dat-bat-pho-gia-300-000-dong-o-sam-son-4990480.html) - 03:31 06/12/2025
-- 🥰 [Bị bắt vì chiếm đoạt tiền cứu trợ bão lũ](https://vnexpress.net/bi-bat-vi-chiem-doat-tien-cuu-tro-bao-lu-4990453.html) - 01:56 06/12/2025
+- 🥰 [Bị bắt vì chiếm đoạt tiền cứu trợ](https://vnexpress.net/bi-bat-vi-chiem-doat-tien-cuu-tro-4990453.html) - 01:56 06/12/2025
 - 🎓 [Có phải gãy 4 răng sẽ không được đi nghĩa vụ quân sự?](https://vnexpress.net/co-phai-gay-4-rang-thi-khong-duoc-di-nghia-vu-quan-su-4989656.html) - 22:00 05/12/2025
 - 🤓 [Vụ án rúng động của gã &#39;quái vật&#39; trong nhà xác](https://vnexpress.net/vu-an-rung-dong-cua-ga-quai-vat-trong-nha-xac-4990343.html) - 17:00 05/12/2025
 - 🎊 [Bộ Công an truy nã Nguyễn Văn Đài, Lê Trung Khoa](https://vnexpress.net/bo-cong-an-truy-na-nguyen-van-dai-le-trung-khoa-4990382.html) - 13:11 05/12/2025
