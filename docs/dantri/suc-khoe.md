@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Nạn nhân nhảy lầu vụ cháy quán ăn 4 người chết: &quot;Không thể thở nổi&quot;](https://dantri.com.vn/suc-khoe/nan-nhan-nhay-lau-vu-chay-quan-an-4-nguoi-chet-khong-the-tho-noi-20251206121041843.htm) - 06:18 06/12/2025
+- 🤔 [Người nhảy lầu thoát khỏi vụ cháy quán ăn: &quot;Không thể thở nổi&quot;](https://dantri.com.vn/suc-khoe/nguoi-nhay-lau-thoat-khoi-vu-chay-quan-an-khong-the-tho-noi-20251206121041843.htm) - 06:18 06/12/2025
 - 🚦 [Tai nạn hy hữu khiến bé trai bị mảnh bồn cầu rạch vết dài ở lưng](https://dantri.com.vn/suc-khoe/tai-nan-hy-huu-khien-be-trai-bi-manh-bon-cau-rach-vet-dai-o-lung-20251206110303541.htm) - 04:08 06/12/2025
 - 🤖 [Bệnh viện Đức Giang đưa AI vào mọi quy trình khám chữa bệnh](https://dantri.com.vn/suc-khoe/benh-vien-duc-giang-dua-ai-vao-moi-quy-trinh-kham-chua-benh-20251206110524861.htm) - 04:05 06/12/2025
 - 🐻 [Thói quen ngủ tưởng vô hại có thể khiến cổ vai gáy đau mỗi sáng](https://dantri.com.vn/suc-khoe/thoi-quen-ngu-tuong-vo-hai-co-the-khien-co-vai-gay-dau-moi-sang-20251206094845367.htm) - 03:22 06/12/2025
