@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Lý Hoàng Nam vô địch PPA Asia Tour Open 2025 ở Trung Quốc](https://dantri.com.vn/the-thao/ly-hoang-nam-vo-dich-ppa-asia-tour-open-2025-o-trung-quoc-20251206160009043.htm) - 09:12 06/12/2025
-- 💯 [U22 Lào 1-0 U22 Malaysia &lpar;hiệp 1&rpar;: Bàn mở tỷ số sớm](https://dantri.com.vn/the-thao/u22-lao-1-0-u22-malaysia-hiep-1-ban-mo-ty-so-som-20251206155739960.htm) - 08:57 06/12/2025
+- 💯 [U22 Lào 1-1 U22 Malaysia &lpar;hiệp 1&rpar;: Người hùng hóa tội đồ](https://dantri.com.vn/the-thao/u22-lao-1-1-u22-malaysia-hiep-1-nguoi-hung-hoa-toi-do-20251206155739960.htm) - 08:57 06/12/2025
 - ⛽️ [Nhan sắc xinh đẹp của nữ xạ thủ Việt Nam mang hàm thượng uý dự SEA Games 33](https://dantri.com.vn/the-thao/nhan-sac-xinh-dep-cua-nu-xa-thu-viet-nam-mang-ham-thuong-uy-du-sea-games-33-20251206092502287.htm) - 06:57 06/12/2025
 - 💃 [U22 Việt Nam đón tin vui, lên kế hoạch theo dõi U22 Malaysia thi đấu](https://dantri.com.vn/the-thao/u22-viet-nam-don-tin-vui-len-ke-hoach-theo-doi-u22-malaysia-thi-dau-20251206131505353.htm) - 06:54 06/12/2025
 - 🌈 [HLV Malaysia nói về sức mạnh tuyển nữ Việt Nam khi thắng đậm 7-0](https://dantri.com.vn/the-thao/hlv-malaysia-noi-ve-suc-manh-tuyen-nu-viet-nam-khi-thang-dam-7-0-20251206125850225.htm) - 06:00 06/12/2025
