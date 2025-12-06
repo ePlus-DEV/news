@@ -309,7 +309,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌝 [Clip 3 ô tô lao vào nhau rồi cùng bốc cháy ngùn ngụt trên đường cao tốc Vân Phong – Nha Trang](https://nld.com.vn/clip-3-o-to-lao-vao-nhau-roi-cung-boc-chay-ngun-ngut-tren-duong-cao-toc-van-phong-nha-trang-196251206123030892.htm) - 05:47 06/12/2025
 - 👍 [Diễn biến sức khỏe 2 cô gái nhảy lầu để thoát thân trong vụ cháy khiến 4 người tử vong ở TP HCM](https://nld.com.vn/dien-bien-suc-khoe-2-co-gai-nhay-lau-de-thoat-than-trong-vu-chay-khien-4-nguoi-tu-vong-o-tp-hcm-19625120611484694.htm) - 05:38 06/12/2025
 - 💂 [Soi tỉ số trận Bournemouth – Chelsea: Đội khách quyết trở lại mạch chiến thắng](https://nld.com.vn/soi-ti-so-tran-bournemouth-chelsea-doi-khach-quyet-tro-lai-mach-chien-thang-196251206122143271.htm) - 05:28 06/12/2025
-- 🤖 [Tai nạn kinh hoàng, xe giường nằm leo lề trái tông chết 2 người đang ngồi uống nước](https://nld.com.vn/tai-nan-kinh-hoang-xe-giuong-nam-leo-le-trai-tong-chet-2-nguoi-dang-ngoi-uong-nuoc-196251206122126502.htm) - 05:28 06/12/2025<!-- nld:END -->
+- 🤖 [Tai nạn kinh hoàng, xe giường nằm leo lề trái tông chết 2 người ngồi uống nước](https://nld.com.vn/tai-nan-kinh-hoang-xe-giuong-nam-leo-le-trai-tong-chet-2-nguoi-dang-ngoi-uong-nuoc-196251206122126502.htm) - 05:28 06/12/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
