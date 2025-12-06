@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phương Linh khó di chuyển khi diễn trang phục &#39;Cá chép hóa rồng&#39;](https://vnexpress.net/phuong-linh-kho-di-chuyen-khi-dien-trang-phuc-ca-chep-hoa-rong-4990440.html) - 05:00 06/12/2025
+- 🌏 [Phương Linh gặp khó khi diễn trang phục &#39;Cá chép hóa rồng&#39;](https://vnexpress.net/phuong-linh-gap-kho-khi-dien-trang-phuc-ca-chep-hoa-rong-4990440.html) - 05:00 06/12/2025
 - 💫 [Gia đình Vương phi Kate diện sắc xanh dự hòa nhạc Giáng sinh](https://vnexpress.net/gia-dinh-vuong-phi-kate-dien-sac-xanh-du-hoa-nhac-giang-sinh-4990472.html) - 03:10 06/12/2025
 - 🌮 [&#39;Quách Tĩnh&#39; Huỳnh Nhật Hoa giải nghệ](https://vnexpress.net/quach-tinh-huynh-nhat-hoa-giai-nghe-4990468.html) - 02:45 06/12/2025
 - 🧠 [Ngọc Châu và dàn sao dự lễ cưới Hương Ly](https://vnexpress.net/ngoc-chau-va-dan-sao-du-le-cuoi-huong-ly-4990380.html) - 02:39 06/12/2025
