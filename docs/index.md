@@ -312,15 +312,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Ra mắt lộ trình giáo dục nghệ thuật đa lĩnh vực chuyên nghiệp đầu tiên tại Việt Nam](https://www.sggp.org.vn/ra-mat-lo-trinh-giao-duc-nghe-thuat-da-linh-vuc-chuyen-nghiep-dau-tien-tai-viet-nam-post827298.html) - 15:51 06/12/2025
+- 🪜 [Ra mắt lộ trình giáo dục nghệ thuật đa lĩnh vực tại Việt Nam](https://www.sggp.org.vn/ra-mat-lo-trinh-giao-duc-nghe-thuat-da-linh-vuc-tai-viet-nam-post827298.html) - 15:51 06/12/2025
 - 🌝 [Sôi nổi Đại hội thể dục thể thao liên phường 2025](https://www.sggp.org.vn/soi-noi-dai-hoi-the-duc-the-thao-lien-phuong-2025-post827284.html) - 15:50 06/12/2025
 - 💃 [Bà Lê Nữ Thùy Dương được trao tặng danh hiệu Anh hùng Lao động](https://www.sggp.org.vn/ba-le-nu-thuy-duong-duoc-trao-tang-danh-hieu-anh-hung-lao-dong-post827292.html) - 15:46 06/12/2025
 - 🧑‍💻 [Tân binh “bền bất bại” HONOR X9d chính thức ra mắt tại Việt Nam](https://www.sggp.org.vn/tan-binh-ben-bat-bai-honor-x9d-chinh-thuc-ra-mat-tai-viet-nam-post827299.html) - 15:44 06/12/2025
 - 🌊 [Lâm Đồng: Bắt nam diễn viên trộm đồ của hoa hậu Miss Cosmo Mexico](https://www.sggp.org.vn/lam-dong-bat-nam-dien-vien-trom-do-cua-hoa-hau-miss-cosmo-mexico-post827296.html) - 15:33 06/12/2025
 - 🧑‍💻 [Huawei lan tỏa lối sống khỏe mạnh với giải chạy Active Rings](https://www.sggp.org.vn/huawei-lan-toa-loi-song-khoe-manh-voi-giai-chay-active-rings-post827295.html) - 15:30 06/12/2025
-- ⛽️ [Chăm lo và tôn vinh tài năng của thanh thiếu nhi khuyết tật](https://www.sggp.org.vn/cham-lo-va-ton-vinh-tai-nang-cua-thanh-thieu-nhi-khuyet-tat-post827293.html) - 15:26 06/12/2025
+- ⛽️ [Chăm lo và tôn vinh tài năng của các em khuyết tật](https://www.sggp.org.vn/cham-lo-va-ton-vinh-tai-nang-cua-cac-em-khuyet-tat-post827293.html) - 15:26 06/12/2025
 - 😎 [HONOR Việt Nam hỗ trợ đồng bào vùng bão lũ 200 triệu đồng](https://www.sggp.org.vn/honor-viet-nam-ho-tro-dong-bao-vung-bao-lu-200-trieu-dong-post827294.html) - 15:19 06/12/2025
-- 🌜 [Sinh viên Lào và Campuchia đang học tập tại TPHCM tham gia “Về đất Sen Hồng”](https://www.sggp.org.vn/sinh-vien-lao-va-campuchia-dang-hoc-tap-tai-tphcm-tham-gia-ve-dat-sen-hong-post827290.html) - 14:54 06/12/2025
+- 🌜 [Sinh viên Lào và Campuchia đang học tập tại TPHCM “Về đất Sen Hồng”](https://www.sggp.org.vn/sinh-vien-lao-va-campuchia-dang-hoc-tap-tai-tphcm-ve-dat-sen-hong-post827290.html) - 14:54 06/12/2025
 - 💻 [Cựu chiến binh rơi nước mắt khi xem lại ký ức chiến trường qua phim “Mưa đỏ”](https://www.sggp.org.vn/cuu-chien-binh-roi-nuoc-mat-khi-xem-lai-ky-uc-chien-truong-qua-phim-mua-do-post827277.html) - 14:10 06/12/2025
 - 👍 [Goldfish đồng hành cùng Miss Charm 2025 với tiệc chủ đề “Người đẹp và Biển cả”](https://www.sggp.org.vn/goldfish-dong-hanh-cung-miss-charm-2025-voi-tiec-chu-de-nguoi-dep-va-bien-ca-post827286.html) - 14:01 06/12/2025
 - 🦆 [Ngày hội Công nghệ số Thủ Đức](https://www.sggp.org.vn/ngay-hoi-cong-nghe-so-thu-duc-post827288.html) - 13:57 06/12/2025
