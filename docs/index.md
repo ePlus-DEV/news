@@ -76,8 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Xuất tinh ra máu không rõ nguyên nhân](https://vnexpress.net/xuat-tinh-ra-mau-khong-ro-nguyen-nhan-4990475.html) - 08:00 06/12/2025
 - 🤩 [CEO doanh nghiệp nhôm tỷ USD: EU &#39;tự bắn vào chân mình&#39; bằng thuế carbon](https://vnexpress.net/ceo-doanh-nghiep-nhom-ty-usd-eu-tu-ban-vao-chan-minh-bang-thue-carbon-4990580.html) - 07:52 06/12/2025
 - 🏊 [Hưng Yên tìm chủ đầu tư khu nhà xã hội gần 2.900 tỷ ở Phố Hiến](https://vnexpress.net/hung-yen-tim-chu-dau-tu-khu-nha-xa-hoi-gan-2-900-ty-o-pho-hien-4989576.html) - 07:48 06/12/2025
-- 💂 [Supachalasai - chiến địa của môn điền kinh SEA Games 33](https://vnexpress.net/supachalasai-chien-dia-cua-mon-dien-kinh-sea-games-33-4990566.html) - 07:46 06/12/2025
-- 🚀 [Cháy xe chuyển hành lý sát máy bay ở Brazil, gần 170 khách sơ tán](https://vnexpress.net/chay-xe-chuyen-hanh-ly-sat-may-bay-o-brazil-gan-170-khach-so-tan-4990570.html) - 07:31 06/12/2025<!-- vnexpress:END -->
+- 💂 [Supachalasai - chiến địa của môn điền kinh SEA Games 33](https://vnexpress.net/supachalasai-chien-dia-cua-mon-dien-kinh-sea-games-33-4990566.html) - 07:46 06/12/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
