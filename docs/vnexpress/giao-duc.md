@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Hậu duệ nhà Samsung gây sốt vì điểm thi đại học gần tuyệt đối](https://vnexpress.net/hau-due-nha-samsung-gay-sot-vi-diem-thi-dai-hoc-gan-tuyet-doi-4990800.html) - 08:04 07/12/2025
-- 🦆 [Chung kết nam Bóng rổ Trẻ VnExpress &lpar;H2&rpar;: Harmony 17-10 Cầu Giấy](https://vnexpress.net/chung-ket-nam-bong-ro-tre-vnexpress-h2-harmony-17-10-cau-giay-4990754.html) - 07:49 07/12/2025
+- 🦆 [Chung kết nam Bóng rổ Trẻ VnExpress &lpar;H3&rpar;: Harmony 23-23 Cầu Giấy](https://vnexpress.net/chung-ket-nam-bong-ro-tre-vnexpress-h3-harmony-23-23-cau-giay-4990754.html) - 07:49 07/12/2025
 - 🦩 [Chung kết nữ: Phan Đình Phùng 37-29 Vinschool The Harmony](https://vnexpress.net/chung-ket-nu-phan-dinh-phung-37-29-vinschool-the-harmony-4990752.html) - 06:00 07/12/2025
 - 🌮 [Đội trưởng tuyển bóng rổ Phạm Hồng Thái đạt điểm GPA trên 9](https://vnexpress.net/doi-truong-tuyen-bong-ro-pham-hong-thai-dat-diem-gpa-tren-9-4990669.html) - 06:00 07/12/2025
 - 🔭 [Sinh viên Bách khoa Hà Nội nhận lương trung bình 12 triệu đồng](https://vnexpress.net/sinh-vien-bach-khoa-ha-noi-nhan-luong-trung-binh-12-trieu-dong-4990762.html) - 04:43 07/12/2025
