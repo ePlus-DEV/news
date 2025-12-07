@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [H&#39;Hen Niê và chồng mặc cổ phục, tình tứ bên nhau trên phố đi bộ Hồ Gươm](https://dantri.com.vn/giai-tri/hhen-nie-va-chong-mac-co-phuc-tinh-tu-ben-nhau-tren-pho-di-bo-ho-guom-20251207131437089.htm) - 13:12 07/12/2025
+- 🤩 [H&#39;Hen Niê và chồng mặc cổ phục, tình tứ trên phố đi bộ Hồ Gươm](https://dantri.com.vn/giai-tri/hhen-nie-va-chong-mac-co-phuc-tinh-tu-tren-pho-di-bo-ho-guom-20251207131437089.htm) - 13:12 07/12/2025
 - 🔥 [Katy Perry đắm chìm trong hạnh phúc bên cựu Thủ tướng Canada](https://dantri.com.vn/giai-tri/katy-perry-dam-chim-trong-hanh-phuc-ben-cuu-thu-tuong-canada-20251207134829676.htm) - 08:26 07/12/2025
 - 🚀 [Binz quên lời rap, đứng hình vì màn giả gái bất ngờ của BB Trần](https://dantri.com.vn/giai-tri/binz-quen-loi-rap-dung-hinh-vi-man-gia-gai-bat-ngo-cua-bb-tran-20251207111236115.htm) - 04:42 07/12/2025
 - 🔥 [NSƯT Kiều Anh nói gì khi bị chê diễn lố, &quot;cưa sừng làm nghé&quot; ở phim VTV?](https://dantri.com.vn/giai-tri/nsut-kieu-anh-noi-gi-khi-bi-che-dien-lo-cua-sung-lam-nghe-o-phim-vtv-20251207014733750.htm) - 03:32 07/12/2025
