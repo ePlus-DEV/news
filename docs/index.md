@@ -78,7 +78,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Dấu hiệu nào cảnh báo sớm ung thư vú?](https://vnexpress.net/dau-hieu-nao-canh-bao-som-ung-thu-vu-4990311.html) - 01:00 07/12/2025
 - 💂 [Thách thức trong vận chuyển trực thăng xuyên biên giới](https://vnexpress.net/thach-thuc-trong-van-chuyen-truc-thang-xuyen-bien-gioi-4988593.html) - 01:00 07/12/2025
 - 🚀 [CEO Nvidia làm việc 7 ngày một tuần với nỗi lo phá sản](https://vnexpress.net/ceo-nvidia-lam-viec-7-ngay-mot-tuan-voi-noi-lo-pha-san-4990693.html) - 00:58 07/12/2025
-- 🕴 [Kia Vision Meta Turismo - xe lạ từ tương lai](https://vnexpress.net/kia-vision-meta-turismo-xe-la-tu-tuong-lai-4990587.html) - 00:48 07/12/2025<!-- vnexpress:END -->
+- 🕴 [Kia Vision Meta Turismo - xe lạ từ tương lai](https://vnexpress.net/kia-vision-meta-turismo-xe-la-tu-tuong-lai-4990587.html) - 00:48 07/12/2025
+- 🦆 [Elon Musk kêu gọi giải tán EU sau khi X bị phạt](https://vnexpress.net/elon-musk-keu-goi-giai-tan-eu-sau-khi-x-bi-phat-4990705.html) - 00:27 07/12/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
