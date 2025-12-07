@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Vinschool The Harmony 5-3 Phan Đình Phùng](https://vnexpress.net/vinschool-the-harmony-5-3-phan-dinh-phung-4990752.html) - 06:00 07/12/2025
-- 🦆 [Đội trưởng tuyển bóng rổ Phan Đình Phùng đạt điểm GPA trên 9](https://vnexpress.net/doi-truong-tuyen-bong-ro-phan-dinh-phung-dat-diem-gpa-tren-9-4990669.html) - 06:00 07/12/2025
+- 🤓 [Chung kết nữ: Phan Đình Phùng 37-29 Vinschool The Harmony](https://vnexpress.net/chung-ket-nu-phan-dinh-phung-37-29-vinschool-the-harmony-4990752.html) - 06:00 07/12/2025
+- 🦆 [Đội trưởng tuyển bóng rổ Phạm Hồng Thái đạt điểm GPA trên 9](https://vnexpress.net/doi-truong-tuyen-bong-ro-pham-hong-thai-dat-diem-gpa-tren-9-4990669.html) - 06:00 07/12/2025
 - 🦩 [Sinh viên Bách khoa Hà Nội nhận lương trung bình 12 triệu đồng](https://vnexpress.net/sinh-vien-bach-khoa-ha-noi-nhan-luong-trung-binh-12-trieu-dong-4990762.html) - 04:43 07/12/2025
 - 🌮 [Australia thiếu giáo viên, sinh viên phải đứng lớp](https://vnexpress.net/australia-thieu-giao-vien-sinh-vien-phai-dung-lop-4990688.html) - 00:15 07/12/2025
 - 🔭 [20 đại học dự kiến phương thức xét tuyển năm 2026](https://vnexpress.net/20-dai-hoc-du-kien-phuong-thuc-xet-tuyen-nam-2026-4989236.html) - 23:00 06/12/2025
