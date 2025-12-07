@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Vợ chồng Johnathan Hạnh Nguyễn - Thủy Tiên đưa con gái về nhà chồng](https://vnexpress.net/vo-chong-johnathan-hanh-nguyen-thuy-tien-dua-con-gai-ve-nha-chong-4990769.html) - 06:00 07/12/2025
+- 🌏 [Doanh nhân Johnathan Hạnh Nguyễn - Thủy Tiên đưa con gái về nhà chồng](https://vnexpress.net/doanh-nhan-johnathan-hanh-nguyen-thuy-tien-dua-con-gai-ve-nha-chong-4990769.html) - 06:00 07/12/2025
 - 💫 [Vợ con chúc mừng đội bóng của Beckham vô địch MLS Cup](https://vnexpress.net/vo-con-chuc-mung-doi-bong-cua-beckham-vo-dich-mls-cup-4990774.html) - 05:41 07/12/2025
 - 🌮 [Đại học Mỹ mở môn học về G-Dragon](https://vnexpress.net/dai-hoc-my-mo-mon-hoc-ve-g-dragon-4990747.html) - 04:18 07/12/2025
 - 🧠 [Chú rể Dubai dùng dàn xe Rolls-Royce rước fashionista Tiên Nguyễn](https://vnexpress.net/chu-re-dubai-dung-dan-xe-rolls-royce-ruoc-fashionista-tien-nguyen-4990734.html) - 03:45 07/12/2025
