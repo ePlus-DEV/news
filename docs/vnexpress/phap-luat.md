@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lời kể của những cô gái tháo chạy khỏi &#39;địa ngục lừa đảo&#39; tại Campuchia](https://vnexpress.net/loi-ke-cua-nhung-co-gai-thao-chay-khoi-dia-nguc-lua-dao-tai-campuchia-4990727.html) - 03:11 07/12/2025
+- 😎 [Lời kể của những người trốn khỏi &#39;địa ngục lừa đảo&#39; tại Campuchia](https://vnexpress.net/loi-ke-cua-nhung-nguoi-tron-khoi-dia-nguc-lua-dao-tai-campuchia-4990727.html) - 03:11 07/12/2025
 - 🥰 [Bên thuê không trả mặt bằng đúng hạn, tôi có được phá để đuổi đi?](https://vnexpress.net/ben-thue-khong-tra-mat-bang-dung-han-toi-co-duoc-pha-de-duoi-di-4989827.html) - 17:00 06/12/2025
 - 🎓 [Nam diễn viên trộm túi xách của Hoa hậu Mexico ở Đà Lạt](https://vnexpress.net/nam-dien-vien-trom-tui-xach-cua-hoa-hau-mexico-o-da-lat-4990668.html) - 15:11 06/12/2025
 - 🤓 [Thêm một người &#39;chống phá nhà nước&#39; liên quan Lê Trung Khoa bị bắt](https://vnexpress.net/them-mot-nguoi-chong-pha-nha-nuoc-lien-quan-le-trung-khoa-bi-bat-4990646.html) - 12:16 06/12/2025
