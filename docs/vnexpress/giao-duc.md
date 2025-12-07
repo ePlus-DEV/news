@@ -4,14 +4,14 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nước nào là quê hương của rượu?](https://vnexpress.net/nuoc-nao-la-que-huong-cua-ruou-4990845.html) - 13:56 07/12/2025
-- 🦆 [Vinschool The Harmony vô địch nam giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/vinschool-the-harmony-vo-dich-nam-giai-bong-ro-tre-vnexpress-2025-4990835.html) - 11:31 07/12/2025
-- 🦩 [THPT Phan Đình Phùng vô địch nữ giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/doi-nu-thpt-phan-dinh-phung-thang-vinschool-the-harmony-37-29-lan-thu-hai-lien-tiep-vo-dich-giai-bong-ro-tre-vnexpress-2025-cup-ziaja-4990808.html) - 10:00 07/12/2025
-- 🌮 [Hậu duệ nhà Samsung gây sốt vì điểm thi đại học gần tuyệt đối](https://vnexpress.net/hau-due-nha-samsung-gay-sot-vi-diem-thi-dai-hoc-gan-tuyet-doi-4990800.html) - 08:04 07/12/2025
-- 🔭 [Chung kết nam: Vinschool The Harmony 41-36 Cầu Giấy](https://vnexpress.net/chung-ket-nam-vinschool-the-harmony-41-36-cau-giay-4990754.html) - 07:49 07/12/2025
-- 💡 [Chung kết nữ: Phan Đình Phùng 37-29 Vinschool The Harmony](https://vnexpress.net/chung-ket-nu-phan-dinh-phung-37-29-vinschool-the-harmony-4990752.html) - 06:00 07/12/2025
-- 🥰 [Đội trưởng tuyển bóng rổ Phạm Hồng Thái đạt điểm GPA trên 9](https://vnexpress.net/doi-truong-tuyen-bong-ro-pham-hong-thai-dat-diem-gpa-tren-9-4990669.html) - 06:00 07/12/2025
-- 🐲 [Tốt nghiệp thủ khoa nhưng vẫn thấy thiếu kiến thức](https://vnexpress.net/tot-nghiep-thu-khoa-nhung-van-thay-thieu-kien-thuc-4989500.html) - 05:00 07/12/2025
+- 🤓 [Nữ sinh là &#39;tay ghi điểm&#39; chủ lực của tuyển bóng rổ Vinschool The Harmony](https://vnexpress.net/nu-sinh-la-tay-ghi-diem-chu-luc-cua-tuyen-bong-ro-vinschool-the-harmony-4990683.html) - 17:00 07/12/2025
+- 🦆 [Nước nào là quê hương của rượu?](https://vnexpress.net/nuoc-nao-la-que-huong-cua-ruou-4990845.html) - 13:56 07/12/2025
+- 🦩 [Vinschool The Harmony vô địch nam giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/vinschool-the-harmony-vo-dich-nam-giai-bong-ro-tre-vnexpress-2025-4990835.html) - 11:31 07/12/2025
+- 🌮 [THPT Phan Đình Phùng vô địch nữ giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/doi-nu-thpt-phan-dinh-phung-thang-vinschool-the-harmony-37-29-lan-thu-hai-lien-tiep-vo-dich-giai-bong-ro-tre-vnexpress-2025-cup-ziaja-4990808.html) - 10:00 07/12/2025
+- 🔭 [Hậu duệ nhà Samsung gây sốt vì điểm thi đại học gần tuyệt đối](https://vnexpress.net/hau-due-nha-samsung-gay-sot-vi-diem-thi-dai-hoc-gan-tuyet-doi-4990800.html) - 08:04 07/12/2025
+- 💡 [Chung kết nam: Vinschool The Harmony 41-36 Cầu Giấy](https://vnexpress.net/chung-ket-nam-vinschool-the-harmony-41-36-cau-giay-4990754.html) - 07:49 07/12/2025
+- 🥰 [Chung kết nữ: Phan Đình Phùng 37-29 Vinschool The Harmony](https://vnexpress.net/chung-ket-nu-phan-dinh-phung-37-29-vinschool-the-harmony-4990752.html) - 06:00 07/12/2025
+- 🐲 [Đội trưởng tuyển bóng rổ Phạm Hồng Thái đạt điểm GPA trên 9](https://vnexpress.net/doi-truong-tuyen-bong-ro-pham-hong-thai-dat-diem-gpa-tren-9-4990669.html) - 06:00 07/12/2025
 - 🦒 [Sinh viên Bách khoa Hà Nội nhận lương trung bình 12 triệu đồng](https://vnexpress.net/sinh-vien-bach-khoa-ha-noi-nhan-luong-trung-binh-12-trieu-dong-4990762.html) - 04:43 07/12/2025
 - 🦆 [Australia thiếu giáo viên, sinh viên phải đứng lớp](https://vnexpress.net/australia-thieu-giao-vien-sinh-vien-phai-dung-lop-4990688.html) - 00:15 07/12/2025
 - 🧰 [20 đại học dự kiến phương thức xét tuyển năm 2026](https://vnexpress.net/20-dai-hoc-du-kien-phuong-thuc-xet-tuyen-nam-2026-4989236.html) - 23:00 06/12/2025
