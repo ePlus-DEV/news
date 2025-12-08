@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Chủ nhà &#39;dở khóc dở cười&#39; vì chỗ gửi xe giảm giá 80%](https://vnexpress.net/chu-nha-do-khoc-do-cuoi-vi-cho-gui-xe-giam-gia-80-4991090.html) - 07:01 08/12/2025
 - 🎓 [Bị cho nghỉ việc vì đi vệ sinh quá nhiều](https://vnexpress.net/bi-cho-nghi-viec-vi-di-ve-sinh-qua-nhieu-4991100.html) - 06:54 08/12/2025
-- 🚦 [Người Mỹ buộc phải đi làm lại sau khi nghỉ hưu](https://vnexpress.net/nguoi-my-buoc-phai-di-lam-lai-sau-khi-nghi-huu-4990755.html) - 04:24 08/12/2025
+- 🚦 [Người Mỹ đi làm lại sau khi nghỉ hưu](https://vnexpress.net/nguoi-my-di-lam-lai-sau-khi-nghi-huu-4990755.html) - 04:24 08/12/2025
 - 🦣 [Trai quê Trung Quốc có nhà, xe vẫn ế vợ](https://vnexpress.net/trai-que-trung-quoc-co-nha-xe-van-e-vo-4990907.html) - 04:07 08/12/2025
 - 🎓 [Bi kịch của những bà mẹ &#39;sinh con thuận tự nhiên&#39;](https://vnexpress.net/bi-kich-cua-nhung-ba-me-sinh-con-thuan-tu-nhien-4990813.html) - 01:46 08/12/2025
 - 🎭 [Cô gái 21 tuổi gồng gánh chăm bạn trai đột quỵ](https://vnexpress.net/co-gai-21-tuoi-gong-ganh-cham-ban-trai-dot-quy-4990322.html) - 23:00 07/12/2025
