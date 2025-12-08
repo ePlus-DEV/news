@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tân thủ khoa sở hữu bằng bảo hộ thiết kế &#39;máy chẩn đoán ôtô&#39;](https://vnexpress.net/tan-thu-khoa-so-huu-bang-bao-ho-thiet-ke-may-chan-doan-oto-4990116.html) - 22:00 07/12/2025
+- 🤓 [Tân thủ khoa thiết kế &#39;máy chẩn đoán ôtô&#39;](https://vnexpress.net/tan-thu-khoa-thiet-ke-may-chan-doan-oto-4990116.html) - 22:00 07/12/2025
 - 🦆 [Nữ sinh là &#39;tay ghi điểm&#39; chủ lực của tuyển bóng rổ Vinschool The Harmony](https://vnexpress.net/nu-sinh-la-tay-ghi-diem-chu-luc-cua-tuyen-bong-ro-vinschool-the-harmony-4990683.html) - 17:00 07/12/2025
 - 🦩 [Nước nào là quê hương của rượu?](https://vnexpress.net/nuoc-nao-la-que-huong-cua-ruou-4990845.html) - 13:56 07/12/2025
 - 🌮 [Vinschool The Harmony vô địch nam giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/vinschool-the-harmony-vo-dich-nam-giai-bong-ro-tre-vnexpress-2025-4990835.html) - 11:31 07/12/2025
