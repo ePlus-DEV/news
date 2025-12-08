@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [CSGT TPHCM tịch thu xe máy do thiếu niên điều khiển bốc đầu](https://laodong.vn/phap-luat/csgt-tphcm-tich-thu-xe-may-do-thieu-nien-dieu-khien-boc-dau-1622299.ldo) - 15:30 08/12/2025
+- 🗽 [CSGT TPHCM tịch thu xe máy của thiếu niên &quot;bốc đầu&quot; trên đường phố](https://laodong.vn/phap-luat/csgt-tphcm-tich-thu-xe-may-cua-thieu-nien-boc-dau-tren-duong-pho-1622299.ldo) - 15:30 08/12/2025
 - 📝 [Camera ghi cảnh nhóm đối tượng mang hung khí đi trộm chó ở Hưng Yên](https://laodong.vn/phap-luat/camera-ghi-canh-nhom-doi-tuong-mang-hung-khi-di-trom-cho-o-hung-yen-1622296.ldo) - 15:29 08/12/2025
 - 🦏 [Tòa án Trung Quốc yêu cầu Malaysia Airlines bồi thường cho nạn nhân MH370](https://laodong.vn/the-gioi/toa-an-trung-quoc-yeu-cau-malaysia-airlines-boi-thuong-cho-nan-nhan-mh370-1622279.ldo) - 15:28 08/12/2025
 - 🦩 [Dùng dao găm tấn công bạn gái cũ, nam thanh niên ở Quảng Ninh lĩnh 15 năm tù](https://laodong.vn/phap-luat/dung-dao-gam-tan-cong-ban-gai-cu-nam-thanh-nien-o-quang-ninh-linh-15-nam-tu-1622305.ldo) - 15:27 08/12/2025
