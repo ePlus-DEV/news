@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Đương kim vô địch Indonesia thua sốc ở SEA Games 33](https://vnexpress.net/duong-kim-vo-dich-indonesia-thua-soc-o-sea-games-33-4991327.html) - 12:58 08/12/2025
 - 🧰 [Tuyển thủ Việt Nam sáng học online, chiều đá SEA Games 33](https://vnexpress.net/tuyen-thu-viet-nam-sang-hoc-online-chieu-da-sea-games-33-4991298.html) - 11:20 08/12/2025
 - 🤗 [Messi được khen vượt tầm vóc Pele ở MLS](https://vnexpress.net/messi-duoc-khen-vuot-tam-voc-pele-o-mls-4991268.html) - 11:05 08/12/2025
-- 🥳 [Nữ Việt Nam thua Philippines ở phút bù](https://vnexpress.net/viet-nam-philippines-huynh-nhu-lai-du-bi-4991303-tong-thuat.html) - 10:47 08/12/2025
+- 🥳 [Nữ Việt Nam thua đau Philippines ở SEA Games 33](https://vnexpress.net/viet-nam-philippines-huynh-nhu-lai-du-bi-4991303-tong-thuat.html) - 10:47 08/12/2025
 - 🦣 [FPT Play thay K+, sở hữu bản quyền Ngoại hạng Anh](https://vnexpress.net/fpt-play-thay-k-so-huu-ban-quyen-ngoai-hang-anh-4991198.html) - 08:09 08/12/2025
 - 🌜 [Malaysia chính thức kiện FIFA lên Tòa Trọng tài Thể thao](https://vnexpress.net/malaysia-chinh-thuc-kien-fifa-len-toa-trong-tai-the-thao-4991127.html) - 06:36 08/12/2025
 - 🫶 [Messi hướng đến World Cup 2026 bằng phong độ như thời ở Barca](https://vnexpress.net/messi-huong-den-world-cup-2026-bang-phong-do-nhu-thoi-o-barca-4991126.html) - 05:56 08/12/2025
