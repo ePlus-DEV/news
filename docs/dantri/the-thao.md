@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tuyển nữ Việt Nam 0-0 Philippines &lpar;hiệp 1&rpar;: Thái Thị Thảo, Hải Yến đá chính](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-0-philippines-hiep-1-thai-thi-thao-hai-yen-da-chinh-20251208182301707.htm) - 11:23 08/12/2025
+- 🎡 [Tuyển nữ Việt Nam 0-0 Philippines &lpar;hiệp 1&rpar;: Thế trận chủ động](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-0-0-philippines-hiep-1-the-tran-chu-dong-20251208182301707.htm) - 11:23 08/12/2025
 - 💯 [U22 Indonesia 0-0 U22 Philippines &lpar;Hiệp 1&rpar;: Diễn biến quyết liệt](https://dantri.com.vn/the-thao/u22-indonesia-0-0-u22-philippines-hiep-1-dien-bien-quyet-liet-20251208171906884.htm) - 10:51 08/12/2025
 - ⛽️ [Quốc kỳ Việt Nam tung bay trong lễ thượng cờ tại SEA Games 33](https://dantri.com.vn/the-thao/quoc-ky-viet-nam-tung-bay-trong-le-thuong-co-tai-sea-games-33-20251208165703680.htm) - 10:30 08/12/2025
 - 💃 [Hoàng Nam - Vinh Hiển xóa hiềm khích trong ngày vui của pickleball Việt Nam](https://dantri.com.vn/the-thao/hoang-nam-vinh-hien-xoa-hiem-khich-trong-ngay-vui-cua-pickleball-viet-nam-20251208145432516.htm) - 08:59 08/12/2025
