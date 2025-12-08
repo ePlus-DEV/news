@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Malaysia kiện FIFA lên Tòa Trọng tài Thể thao vụ 7 cầu thủ nhập tịch](https://vnexpress.net/malaysia-kien-fifa-len-toa-trong-tai-the-thao-vu-7-cau-thu-nhap-tich-4991127.html) - 06:36 08/12/2025
+- 🪜 [Malaysia chính thức kiện FIFA lên Tòa Trọng tài Thể thao](https://vnexpress.net/malaysia-chinh-thuc-kien-fifa-len-toa-trong-tai-the-thao-4991127.html) - 06:36 08/12/2025
 - 🦩 [Messi hướng đến World Cup 2026 bằng phong độ như thời ở Barca](https://vnexpress.net/messi-huong-den-world-cup-2026-bang-phong-do-nhu-thoi-o-barca-4991126.html) - 05:56 08/12/2025
 - 🧰 [Thái Lan tăng cường bảo vệ Đoàn thể thao Campuchia](https://vnexpress.net/thai-lan-tang-cuong-bao-ve-doan-the-thao-campuchia-4991096.html) - 05:05 08/12/2025
 - 🤗 [Nữ Việt Nam - Philippines: Khúc cua gắt trên đường vào bán kết SEA Games 33](https://vnexpress.net/nu-viet-nam-philippines-khuc-cua-gat-tren-duong-vao-ban-ket-sea-games-33-4991071.html) - 04:55 08/12/2025
