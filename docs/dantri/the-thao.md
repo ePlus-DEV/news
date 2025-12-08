@@ -6,8 +6,8 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Malaysia nhận xét thẳng thắn về U22 Việt Nam trước trận quyết chiến](https://dantri.com.vn/the-thao/hlv-malaysia-nhan-xet-thang-than-ve-u22-viet-nam-truoc-tran-quyet-chien-20251208184926550.htm) - 12:33 08/12/2025
 - 💯 [Thái Lan đặt mục tiêu giành 241 HCV ở SEA Games 33](https://dantri.com.vn/the-thao/thai-lan-dat-muc-tieu-gianh-241-hcv-o-sea-games-33-20251208184121358.htm) - 11:44 08/12/2025
-- ⛽️ [Đội tuyển nữ Việt Nam 0-0 Philippines &lpar;hiệp 2&rpar;: Thế trận cân bằng](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-0-0-philippines-hiep-2-the-tran-can-bang-20251208182301707.htm) - 11:23 08/12/2025
-- 💃 [U22 Indonesia 0-1 U22 Philippines &lpar;Hiệp 2&rpar;: Thế trận bế tắc](https://dantri.com.vn/the-thao/u22-indonesia-0-1-u22-philippines-hiep-2-the-tran-be-tac-20251208171906884.htm) - 10:51 08/12/2025
+- ⛽️ [Phút bù giờ nghiệt ngã, tuyển nữ Việt Nam gục ngã trước Philippines](https://dantri.com.vn/the-thao/phut-bu-gio-nghiet-nga-tuyen-nu-viet-nam-guc-nga-truoc-philippines-20251208182301707.htm) - 11:23 08/12/2025
+- 💃 [Đánh bại U22 Indonesia, U22 Philippines tiến vào bán kết SEA Games 33](https://dantri.com.vn/the-thao/danh-bai-u22-indonesia-u22-philippines-tien-vao-ban-ket-sea-games-33-20251208171906884.htm) - 10:51 08/12/2025
 - 🌈 [Quốc kỳ Việt Nam tung bay trong lễ thượng cờ tại SEA Games 33](https://dantri.com.vn/the-thao/quoc-ky-viet-nam-tung-bay-trong-le-thuong-co-tai-sea-games-33-20251208165703680.htm) - 10:30 08/12/2025
 - 🦅 [Hoàng Nam - Vinh Hiển xóa hiềm khích trong ngày vui của pickleball Việt Nam](https://dantri.com.vn/the-thao/hoang-nam-vinh-hien-xoa-hiem-khich-trong-ngay-vui-cua-pickleball-viet-nam-20251208145432516.htm) - 08:59 08/12/2025
 - 🌝 [Lễ thượng cờ Đoàn Thể thao Việt Nam tại SEA Games 33](https://dantri.com.vn/the-thao/le-thuong-co-doan-the-thao-viet-nam-tai-sea-games-33-20251208171730876.htm) - 08:58 08/12/2025
