@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lễ khai mạc SEA Games 33 mắc lỗi hiển thị sai quốc kỳ](https://dantri.com.vn/the-thao/le-khai-mac-sea-games-33-mac-loi-hien-thi-sai-quoc-ky-20251209221107479.htm) - 15:11 09/12/2025
+- 🎡 [Lễ khai mạc SEA Games mắc lỗi liên quan tới quốc kỳ, xuất hiện nhiều sự cố](https://dantri.com.vn/the-thao/le-khai-mac-sea-games-mac-loi-lien-quan-toi-quoc-ky-xuat-hien-nhieu-su-co-20251209221107479.htm) - 15:11 09/12/2025
 - 💯 [Ngôi sao Malaysia nhận xét về U22 Việt Nam trước trận đấu quyết định](https://dantri.com.vn/the-thao/ngoi-sao-malaysia-nhan-xet-ve-u22-viet-nam-truoc-tran-dau-quyet-dinh-20251209194426738.htm) - 12:44 09/12/2025
 - ⛽️ [U22 Việt Nam phải tự bổ sung thức ăn, tuyển nữ muốn đổi sân tập vì quá xa](https://dantri.com.vn/the-thao/u22-viet-nam-phai-tu-bo-sung-thuc-an-tuyen-nu-muon-doi-san-tap-vi-qua-xa-20251209184950277.htm) - 12:43 09/12/2025
 - 💃 [Báo Indonesia lo ngại U22 Việt Nam bắt tay Malaysia để loại đội nhà](https://dantri.com.vn/the-thao/bao-indonesia-lo-ngai-u22-viet-nam-bat-tay-malaysia-de-loai-doi-nha-20251209185205109.htm) - 12:31 09/12/2025
