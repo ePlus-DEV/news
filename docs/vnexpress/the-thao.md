@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Khai mạc SEA Games 33: Buổi lễ tiếp tục sau 30 phút gián đoạn](https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677.html) - 11:30 09/12/2025
+- 🪜 [Khai mạc SEA Games 33: Đài lửa tượng trưng được thắp sáng](https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677.html) - 11:30 09/12/2025
 - 🦩 [8 trận cầu được chờ đợi nhất lượt sáu Champions League](https://vnexpress.net/8-tran-cau-duoc-cho-doi-nhat-luot-sau-champions-league-4990851.html) - 10:00 09/12/2025
 - 🧰 [Cầu thủ Việt Nam phủ nhận &#39;bắt tay&#39; Malaysia để loại Indonesia](https://vnexpress.net/cau-thu-viet-nam-phu-nhan-bat-tay-malaysia-de-loai-indonesia-4991766.html) - 09:43 09/12/2025
 - 🤗 [Tranh cãi về số danh hiệu của Messi](https://vnexpress.net/tranh-cai-ve-so-danh-hieu-cua-messi-4991489.html) - 07:55 09/12/2025
