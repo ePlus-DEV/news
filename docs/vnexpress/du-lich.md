@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Hơn nghìn gốc mai anh đào ở Sa Pa bị di dời khiến khách tiếc nuối](https://vnexpress.net/hon-nghin-goc-mai-anh-dao-o-sa-pa-bi-di-doi-khien-khach-tiec-nuoi-4991923.html) - 06:31 10/12/2025
-- 🪄 [Quán cà phê ngắm trọn nhà thờ Đức Bà lên đèn dịp Giáng sinh](https://vnexpress.net/quan-ca-phe-ngam-tron-nha-tho-duc-ba-len-den-dip-giang-sinh-4991341.html) - 04:29 10/12/2025
+- 🪄 [5 quán cà phê ngắm nhà thờ Đức Bà lên đèn dịp Giáng sinh](https://vnexpress.net/5-quan-ca-phe-ngam-nha-tho-duc-ba-len-den-dip-giang-sinh-4991341.html) - 04:29 10/12/2025
 - 🦅 [Quảng Trị tìm cách thúc đẩy du lịch cộng đồng](https://vnexpress.net/quang-tri-tim-cach-thuc-day-du-lich-cong-dong-4991720.html) - 03:00 10/12/2025
 - 🕴 [Kinh nghiệm xin cả hàng ghế trên máy bay](https://vnexpress.net/kinh-nghiem-xin-ca-hang-ghe-tren-may-bay-4990153.html) - 23:00 09/12/2025
 - 👀 [Nghịch lý càng cấm, càng đông ở phố đường tàu trong mắt người nước ngoài](https://vnexpress.net/nghich-ly-cang-cam-cang-dong-o-pho-duong-tau-trong-mat-nguoi-nuoc-ngoai-4987973.html) - 17:00 09/12/2025
