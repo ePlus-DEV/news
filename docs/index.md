@@ -248,68 +248,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Mở đường cho TP HCM tăng tốc, vươn tầm: Không xin tiền, chỉ xin cơ chế](https://nld.com.vn/mo-duong-cho-tp-hcm-tang-toc-vuon-tam-khong-xin-tien-chi-xin-co-che-196251209204636572.htm) - 23:51 09/12/2025
-- 😺 [Hậu vệ tỏa sáng, Barcelona ngược dòng giành chiến thắng sân nhà ở Champions League](https://nld.com.vn/hau-ve-toa-sang-barcelona-nguoc-dong-gianh-chien-thang-san-nha-o-champions-league-196251210064108094.htm) - 23:45 09/12/2025
-- 👍 [Vở &quot;Hồ Nguyệt Cô hóa cáo&quot;](https://maivang.nld.com.vn/vo-ho-nguyet-co-hoa-cao-19625121006011248.htm) - 23:42 09/12/2025
-- 🥷 [Liên hợp quốc giảm quy mô hỗ trợ nhân đạo](https://nld.com.vn/lien-hop-quoc-giam-quy-mo-ho-tro-nhan-dao-196251209203631447.htm) - 23:41 09/12/2025
-- 🤔 [Vở &quot;Đảo Hoa Hậu&quot;](https://maivang.nld.com.vn/vo-dao-hoa-hau-196251210055650952.htm) - 23:40 09/12/2025
-- 🌈 [Vở &quot;Dưới bóng giai nhân&quot;](https://maivang.nld.com.vn/vo-duoi-bong-giai-nhan-196251210054806969.htm) - 23:38 09/12/2025
-- 🔥 [Diễn viên hài - NSND Tự Long](https://maivang.nld.com.vn/dien-vien-hai-nsnd-tu-long-196251210001545574.htm) - 23:38 09/12/2025
-- 🧰 [Diễn viên hài - nghệ sĩ Duy Khánh Zhou Zhou](https://maivang.nld.com.vn/dien-vien-hai-nghe-si-duy-khanh-zhou-zhou-196251210001238518.htm) - 23:38 09/12/2025
-- 🤗 [Diễn viên hài - nghệ sĩ BB Trần](https://maivang.nld.com.vn/dien-vien-hai-nghe-si-bb-tran-19625121000094542.htm) - 23:37 09/12/2025
-- 🦅 [Nghệ sĩ Việt Hương](https://maivang.nld.com.vn/nghe-si-viet-huong-196251210000626493.htm) - 23:37 09/12/2025
-- 🤩 [NSƯT Tú Sương](https://maivang.nld.com.vn/nsut-tu-suong-196251210000244011.htm) - 23:36 09/12/2025
-- 🎭 [Nghệ sĩ Lâm Vỹ Dạ](https://maivang.nld.com.vn/nghe-si-lam-vy-da-196251209235842807.htm) - 23:36 09/12/2025
-- 💄 [Concert &quot;Tổ quốc trong tim&quot;](https://maivang.nld.com.vn/concert-to-quoc-trong-tim-196251210061608237.htm) - 23:35 09/12/2025
-- 🎊 [Chương trình &quot;Mùa xuân thành phố Hồ Chí Minh – Bước vào kỷ nguyên mới&quot; của HTV](https://maivang.nld.com.vn/chuong-trinh-mua-xuan-thanh-pho-ho-chi-minh-buoc-vao-ky-nguyen-moi-cua-htv-196251210061338818.htm) - 23:35 09/12/2025
-- 🎡 [Vở &quot;Nơi kết thúc bắt đầu&quot;](https://maivang.nld.com.vn/vo-noi-ket-thuc-bat-dau-196251210061107342.htm) - 23:34 09/12/2025
-- 🎉 [Vở chèo &quot;Nguyễn Văn Cừ – Tuổi trẻ chí lớn&quot;](https://maivang.nld.com.vn/vo-cheo-nguyen-van-cu-tuoi-tre-chi-lon-196251210060411339.htm) - 23:34 09/12/2025
-- 😺 [Giá vàng hôm nay 10-12: Tăng rất mạnh](https://nld.com.vn/gia-vang-hom-nay-10-12-tang-rat-manh-1962512100618217.htm) - 23:32 09/12/2025
-- 🐻 [Để TP HCM thành trung tâm đổi mới sáng tạo](https://nld.com.vn/de-tp-hcm-thanh-trung-tam-doi-moi-sang-tao-196251209224835749.htm) - 23:31 09/12/2025
-- 🤡 [Cảnh sát giao thông TP Huế lý giải vì sao chưa thể tổ chức sát hạch cấp bằng lái hạng C](https://nld.com.vn/canh-sat-giao-thong-tp-hue-ly-giai-vi-sao-chua-the-to-chuc-sat-hach-cap-bang-lai-hang-c-196251210061137401.htm) - 23:28 09/12/2025
-- 🚦 [Điểm nóng xung đột ngày 10-12: Ukraine tấn công, kho năng lượng Nga cháy suốt 3 ngày](https://nld.com.vn/diem-nong-xung-dot-ngay-10-12-ukraine-tan-cong-kho-nang-luong-nga-chay-suot-3-ngay-196251209205631031.htm) - 23:24 09/12/2025
-- 🪜 [Nghệ sĩ Bình Tinh](https://maivang.nld.com.vn/nghe-si-binh-tinh-196251209235007856.htm) - 23:22 09/12/2025
-- 💫 [Khai mạc SEA Games 33: Cội nguồn và tình đoàn kết Đông Nam Á](https://nld.com.vn/khai-mac-sea-games-33-coi-nguon-va-tinh-doan-ket-dong-nam-a-196251209223353007.htm) - 23:21 09/12/2025
-- 🔭 [Nghệ sĩ Hồng Ánh](https://maivang.nld.com.vn/nghe-si-hong-anh-196251209235522497.htm) - 23:11 09/12/2025
-- 🌝 [Nghệ sĩ Trương Hạ](https://maivang.nld.com.vn/nghe-si-truong-ha-196251209234641517.htm) - 23:11 09/12/2025
-- 💪 [Hội đồng nghệ thuật Giải Mai Vàng lần thứ 31 - năm 2025: Đồng thuận cao, trọng trách lớn](https://maivang.nld.com.vn/hoi-dong-nghe-thuat-giai-mai-vang-lan-thu-31-nam-2025-dong-thuan-cao-trong-trach-lon-196251209224307614.htm) - 23:11 09/12/2025
-- 🦍 [Hạng mục Nam diễn viên sân khấu:
-
-Nghệ sĩ Trọng Nhân](https://maivang.nld.com.vn/hang-muc-nam-dien-vien-san-khaunghe-si-trong-nhan-196251209234214143.htm) - 23:10 09/12/2025
-- 🥷 [Nghệ sĩ Hùng Vương](https://maivang.nld.com.vn/nghe-si-hung-vuong-19625120923365018.htm) - 23:09 09/12/2025
-- 🫶 [Nghệ sĩ Hoàng Hải](https://maivang.nld.com.vn/nghe-si-hoang-hai-196251209233121182.htm) - 23:05 09/12/2025
-- 🐻 [Nghệ sĩ Đình Toàn](https://maivang.nld.com.vn/nghe-si-dinh-toan-196251209232211386.htm) - 23:04 09/12/2025
-- 🐲 [Phong phú việc làm Tết, cảnh giác trước bẫy lừa](https://nld.com.vn/phong-phu-viec-lam-tet-canh-giac-truoc-bay-lua-196251209213859234.htm) - 23:01 09/12/2025
-- 🧑‍💻 [Bộ Nội vụ đề xuất quỹ từ thiện không được cho vay, góp vốn đầu tư](https://nld.com.vn/bo-noi-vu-de-xuat-quy-tu-thien-khong-duoc-cho-vay-gop-von-dau-tu-196251209220806835.htm) - 22:57 09/12/2025
-- 🎬 [Nơm nớp lo Nghĩa trang Hòa Sơn sạt lở](https://nld.com.vn/nom-nop-lo-nghia-trang-hoa-son-sat-lo-196251209202832281.htm) - 22:40 09/12/2025
-- 👀 [Úc: Luật mới về mạng xã hội gây tranh cãi](https://nld.com.vn/uc-luat-moi-ve-mang-xa-hoi-gay-tranh-cai-196251209204238929.htm) - 22:20 09/12/2025
-- 👍 [Gợi mở loại hình cơ quan báo chí chủ lực địa phương](https://nld.com.vn/goi-mo-loai-hinh-co-quan-bao-chi-chu-luc-dia-phuong-196251209214448885.htm) - 22:02 09/12/2025
-- 🦅 [Bản tin sáng 10-12: Áp thấp lại xuất hiện trên biển Đông](https://nld.com.vn/ban-tin-sang-10-12-bien-dong-du-doi-o-nam-bien-dong-do-ap-thap-nhiet-doi-moi-hinh-thanh-196251209191300335.htm) - 22:00 09/12/2025
-- 🦏 [Vinh danh 3 tác phẩm Văn hóa - Nghệ thuật xuất sắc](https://maivang.nld.com.vn/vinh-danh-3-tac-pham-van-hoa-nghe-thuat-xuat-sac-19625120922451086.htm) - 21:44 09/12/2025
-- 🗽 [Hết năm 2025, cả nước sẽ có 3.345 km tuyến chính cao tốc](https://nld.com.vn/het-nam-2025-ca-nuoc-se-co-3345-km-tuyen-chinh-cao-toc-196251209220049949.htm) - 21:24 09/12/2025
-- 🔭 [Cảnh báo đáng lo sau động đất mạnh ở Nhật Bản](https://nld.com.vn/canh-bao-dang-lo-sau-dong-dat-manh-o-nhat-ban-196251209204347959.htm) - 21:04 09/12/2025
-- 👍 [Truy vết, thu hồi tài sản xuyên biên giới](https://nld.com.vn/truy-vet-thu-hoi-tai-san-xuyen-bien-gioi-196251209215636207.htm) - 20:35 09/12/2025
-- ⛽️ [Sâm Ngọc Linh rớt giá mạnh](https://nld.com.vn/sam-ngoc-linh-rot-gia-manh-196251209203047784.htm) - 19:26 09/12/2025
-- 🥸 [Báo in ngày 10-12: Linh hoạt quy định về dạy thêm, học thêm](https://nld.com.vn/bao-in-ngay-10-12-linh-hoat-quy-dinh-ve-day-them-hoc-them-196251209225819969.htm) - 17:07 09/12/2025
-- 🌁 [Lê Hạ Anh phim &quot;Mưa đỏ&quot;](https://maivang.nld.com.vn/le-ha-anh-phim-mua-do-196251209193516715.htm) - 17:06 09/12/2025
-- 🌮 [Đinh Ngọc Diệp phim &quot;Thám tử Kiên: Kỳ án không đầu&quot;](https://maivang.nld.com.vn/dinh-ngoc-diep-phim-tham-tu-kien-ky-an-khong-dau-196251209193110796.htm) - 17:04 09/12/2025
-- 🎉 [Phim &quot;Địa đạo: Mặt trời trong bóng tối&quot;](https://maivang.nld.com.vn/phim-dia-dao-mat-troi-trong-bong-toi-196251209194722754.htm) - 17:03 09/12/2025
-- 🤔 [Bích Ngọc trong &quot;Hạnh phúc bị đánh cắp&quot; &lpar;phần 2&rpar;](https://maivang.nld.com.vn/bich-ngoc-trong-hanh-phuc-bi-danh-cap-phan-2-196251209192636194.htm) - 17:03 09/12/2025
-- 🐘 [Băng Di vai Thương phim &quot;Cục vàng của ngoại&quot;](https://maivang.nld.com.vn/bang-di-vai-thuong-phim-cuc-vang-cua-ngoai-196251209191741572.htm) - 17:03 09/12/2025
-- 🙉 [Lê Phương phim &quot;Cuộc chiến hạ lưu&quot;](https://maivang.nld.com.vn/le-phuong-phim-cuoc-chien-ha-luu-196251209194218818.htm) - 17:02 09/12/2025
-- 🐵 [Steven Nguyễn trong &quot;Mưa đỏ&quot;](https://maivang.nld.com.vn/steven-nguyen-trong-mua-do-196251209191148236.htm) - 17:02 09/12/2025
-- 🙉 [Kỷ niệm 65 năm thiết lập quan hệ ngoại giao Việt Nam - Cuba](https://nld.com.vn/ky-niem-65-nam-thiet-lap-quan-he-ngoai-giao-viet-nam-cuba-196251209210822075.htm) - 16:11 09/12/2025
-- 💪 [Cảnh báo thiên tai, thay đổi hành vi ứng phó ở Đà Nẵng](https://nld.com.vn/canh-bao-thien-tai-thay-doi-hanh-vi-ung-pho-o-da-nang-196251209073357951.htm) - 15:46 09/12/2025
-- ⛽️ [Phát hiện thi thể trẻ sơ sinh trong tủ lạnh tại cơ sở giải trí người lớn ở Nhật Bản](https://nld.com.vn/phat-hien-thi-the-tre-so-sinh-trong-tu-lanh-tai-co-so-giai-tri-nguoi-lon-o-nhat-ban-196251209183306559.htm) - 15:26 09/12/2025
-- 👺 [Chuẩn bị khai trương Trung tâm Tài chính quốc tế tại TP HCM](https://nld.com.vn/chuan-bi-khai-truong-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-196251209210355972.htm) - 15:19 09/12/2025
-- 🧠 [Bí thư Thành ủy Trần Lưu Quang: TPHCM phải quan tâm đặc biệt đến khoa học - công nghệ](https://nld.com.vn/bi-thu-thanh-uy-tran-luu-quang-tphcm-phai-quan-tam-dac-biet-den-khoa-hoc-cong-nghe-196251209212251562.htm) - 15:10 09/12/2025
-- 🔭 [Nhiều &quot;sạn&quot; trong lễ khai mạc SEA Games 33: Cổ động viên Việt Nam phản ứng mạnh mẽ](https://nld.com.vn/nhieu-san-trong-le-khai-mac-sea-games-33-lanh-tho-viet-nam-thieu-3-dac-khu-196251209220407241.htm) - 15:09 09/12/2025
-- 🦣 [Phim &quot;Nhà gia tiên&quot;](https://maivang.nld.com.vn/phim-nha-gia-tien-196251209195338806.htm) - 15:09 09/12/2025
-- 🔥 [Phim “Chiếc vòng ngọc bích” của đạo diễn Nguyễn Dương](https://maivang.nld.com.vn/phim-chiec-vong-ngoc-bich-cua-dao-dien-nguyen-duong-196251209180543754.htm) - 15:02 09/12/2025
-- 🌝 [MC Phí Linh](https://maivang.nld.com.vn/mc-phi-linh-196251209171638546.htm) - 15:02 09/12/2025
-- 👍 [Phim &quot;Mưa đỏ&quot;](https://maivang.nld.com.vn/phim-mua-do-196251209195053009.htm) - 15:01 09/12/2025
-- 💂 [Phim “Mẹ biển”](https://maivang.nld.com.vn/phim-me-bien-196251209182434182.htm) - 15:01 09/12/2025
-- 🤖 [MC Vũ Mạnh Cường](https://maivang.nld.com.vn/mc-vu-manh-cuong-196251209172748324.htm) - 15:01 09/12/2025<!-- nld:END -->
+- 🐎 [Hết cảnh &quot;chợ chiều&quot;, đại gia nội ngoại tấp nập &quot;đi săn&quot; dự án nhà đất đủ pháp lý](https://nld.com.vn/het-canh-cho-chieu-dai-gia-noi-ngoai-tap-nap-di-san-du-an-nha-dat-du-phap-ly-19625121008295372.htm) - 02:25 10/12/2025
+- 😺 [Nhóm MOPIUS - ứng viên giải Mai Vàng 31-2025 hạng mục Nhóm nhạc được yêu thích nhất](https://nld.com.vn/nhom-mopius-ung-vien-giai-mai-vang-31-2025-hang-muc-nhom-nhac-duoc-yeu-thich-nhat-196251210092143588.htm) - 02:23 10/12/2025
+- 👍 [Nhóm B.O.F - ứng viên giải Mai Vàng 31-2025 hạng mục Nhóm nhạc được yêu thích nhất](https://nld.com.vn/nhom-bof-ung-vien-giai-mai-vang-31-2025-hang-muc-nhom-nhac-duoc-yeu-thich-nhat-196251210091834395.htm) - 02:22 10/12/2025
+- 🥷 [Nhóm Chín muồi - ứng viên giải Mai Vàng 31-2025 hạng mục Nhóm nhạc được yêu thích nhất](https://nld.com.vn/nhom-chin-muoi-ung-vien-giai-mai-vang-31-2025-hang-muc-nhom-nhac-duoc-yeu-thich-nhat-196251210091414903.htm) - 02:21 10/12/2025
+- 🤔 [Tóc Tiên - ứng viên giải Mai Vàng 31-2025 hạng mục Nữ ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/toc-tien-ung-vien-giai-mai-vang-31-2025-hang-muc-nu-ca-si-duoc-yeu-thich-nhat-196251210085038181.htm) - 02:20 10/12/2025
+- 🌈 [Hòa Minzy - ứng viên giải Mai Vàng 31-2025 hạng mục Nữ ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/hoa-minzy-ung-vien-giai-mai-vang-31-2025-hang-muc-nu-ca-si-duoc-yeu-thich-nhat-196251210084827786.htm) - 02:19 10/12/2025
+- 🔥 [Bùi Lan Hương - ứng viên giải Mai Vàng 31-2025 hạng mục Nữ ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/bui-lan-huong-ung-vien-giai-mai-vang-31-2025-hang-muc-nu-ca-si-duoc-yeu-thich-nhat-196251210084225141.htm) - 02:19 10/12/2025
+- 🧰 [Phương Mỹ Chi là ứng viên giải Mai Vàng 31-2025 hạng mục Nữ ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/phuong-my-chi-la-ung-vien-giai-mai-vang-31-2025-hang-muc-nu-ca-si-duoc-yeu-thich-nhat-196251210084550327.htm) - 02:18 10/12/2025
+- 🤗 [Trang Pháp - ứng viên giải Mai Vàng 31-2025 hạng mục Nữ ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/trang-phap-ung-vien-giai-mai-vang-31-2025-hang-muc-nu-ca-si-duoc-yeu-thich-nhat-19625121008392393.htm) - 02:18 10/12/2025
+- 🦅 [Khó tin: Việt Nam chi hơn 23 triệu USD để nhập khẩu ớt](https://nld.com.vn/kho-tin-viet-nam-chi-hon-23-trieu-usd-de-nhap-khau-ot-196251210082947619.htm) - 02:14 10/12/2025
+- 🤩 [Nỗ lực đưa điện về thôn 6, xã Trà Leng trong những ngày cuối năm 2025](https://nld.com.vn/no-luc-dua-dien-ve-thon-6-xa-tra-leng-trong-nhung-ngay-cuoi-nam-2025-196251210084801485.htm) - 02:11 10/12/2025
+- 🎭 [Sẵn sàng mặt bằng thi công Vành đai 2 TPHCM](https://nld.com.vn/san-sang-mat-bang-thi-cong-vanh-dai-2-tphcm-196251210083623279.htm) - 02:11 10/12/2025
+- 💄 [Nông dân Gia Lai “lên đời” nhờ công nghệ số](https://nld.com.vn/nong-dan-gia-lai-len-doi-nho-cong-nghe-so-196251210053226017.htm) - 02:07 10/12/2025
+- 🎊 [Tìm chủ 50 xe máy &quot;bị bỏ rơi&quot; ở TP HCM](https://nld.com.vn/tim-chu-50-xe-may-bi-bo-roi-o-tp-hcm-196251210083430683.htm) - 02:04 10/12/2025
+- 🎡 [Công an TPHCM tìm nạn nhân 4 vụ cướp giật do Nguyễn Phú Tân gây án](https://nld.com.vn/cong-an-tphcm-tim-nan-nhan-4-vu-cuop-giat-do-nguyen-phu-tan-gay-an-196251210084304279.htm) - 02:02 10/12/2025
+- 🎉 [Đạo diễn Hồng Ngọc háo hức khi vở &quot;Duyên nghiệp&quot; lưu diễn tại Cần Thơ](https://nld.com.vn/dao-dien-hong-ngoc-hao-huc-khi-vo-duyen-nghiep-luu-dien-tai-can-tho-196251210075138957.htm) - 02:01 10/12/2025
+- 😺 [Giải pháp tài chính giúp nhà đầu tư tránh rủi ro lãi suất thả nổi](https://diaoc.nld.com.vn/giai-phap-tai-chinh-giup-nha-dau-tu-tranh-rui-ro-lai-suat-tha-noi-196251208144106595.htm) - 02:00 10/12/2025
+- 🐻 [&quot;Chốt&quot; ngưỡng chịu thuế của hộ kinh doanh là 500 triệu đồng](https://nld.com.vn/chot-nguong-chiu-thue-cua-ho-kinh-doanh-la-500-trieu-dong-19625120919373499.htm) - 01:45 10/12/2025
+- 🤡 [Lennart Karl lập kỷ lục Champions League, Bayern Munich ngược dòng hạ Sporting](https://nld.com.vn/lennart-karl-lap-ky-luc-champions-league-bayern-munich-nguoc-dong-ha-sporting-196251210073653926.htm) - 01:34 10/12/2025
+- 🚦 [&lpar;S&rpar;TRONG Trọng Hiếu là ứng viên giải Mai Vàng lần thứ 31-2025](https://maivang.nld.com.vn/strong-trong-hieu-la-ung-vien-giai-mai-vang-lan-thu-31-2025-196251210080420479.htm) - 01:33 10/12/2025
+- 🪜 [Ứng viên Tùng Dương - Nam ca sĩ được yêu thích nhất giải Mai Vàng lần thứ 31-2025](https://maivang.nld.com.vn/ung-vien-tung-duong-nam-ca-si-duoc-yeu-thich-nhat-giai-mai-vang-lan-thu-31-2025-196251210074825427.htm) - 01:33 10/12/2025
+- 💫 [S.T Sơn Thạch  là ứng viên giải Mai Vàng lần thứ 31-2025 hạng mục Nam ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/st-son-thach-la-ung-vien-giai-mai-vang-lan-thu-31-2025-hang-muc-nam-ca-si-duoc-yeu-thich-nhat-196251210080722575.htm) - 01:32 10/12/2025
+- 🔭 [SOOBIN là ứng viên giải Mai Vàng lần thứ 31-2025 hạng mục Nam ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/soobin-la-ung-vien-giai-mai-vang-lan-thu-31-2025-hang-muc-nam-ca-si-duoc-yeu-thich-nhat-19625121007582719.htm) - 01:32 10/12/2025
+- 🌝 [Bùi Công Nam là ứng viên giải Mai Vàng lần thứ 31-2025 hạng mục Nam ca sĩ được yêu thích nhất](https://maivang.nld.com.vn/bui-cong-nam-la-ung-vien-giai-mai-vang-lan-thu-31-2025-hang-muc-nam-ca-si-duoc-yeu-thich-nhat-196251210075506791.htm) - 01:32 10/12/2025
+- 💪 [Đức Phúc - ứng viên giải Mai Vàng 31-2025 hạng mục Nam ca sĩ được yêu thích](https://maivang.nld.com.vn/duc-phuc-ung-vien-giai-mai-vang-31-2025-hang-muc-nam-ca-si-duoc-yeu-thich-196251210075139664.htm) - 01:31 10/12/2025
+- 🦍 [Dự báo thời tiết hôm nay, 10-12: TPHCM và Nam Bộ tăng mưa](https://nld.com.vn/du-bao-thoi-tiet-hom-nay-10-12-tphcm-va-nam-bo-tang-mua-196251210074412811.htm) - 01:30 10/12/2025
+- 🥷 [Nữ hành khách Trung Quốc tá hỏa sau khi rời taxi](https://nld.com.vn/nu-hanh-khach-trung-quoc-ta-hoa-sau-khi-roi-taxi-196251210010009728.htm) - 01:29 10/12/2025
+- 🫶 [VPBank tài trợ 40 tỉ đồng cho Bệnh viện Bạch Mai, lan tỏa giá trị nhân văn](https://nld.com.vn/vpbank-tai-tro-40-ti-dong-cho-benh-vien-bach-mai-lan-toa-gia-tri-nhan-van-196251209185514293.htm) - 01:22 10/12/2025
+- 🐻 [Xử phạt tiếng ồn không cần máy đo: Sợ nhất là cảm tính!](https://nld.com.vn/xu-phat-tieng-on-khong-can-may-do-so-nhat-la-cam-tinh-196251209212022002.htm) - 01:03 10/12/2025
+- 🐲 [SEA Games 33 ngày 10-12: Hy vọng những tấm HCV đầu tiên](https://nld.com.vn/sea-games-33-ngay-10-12-hy-vong-nhung-tam-hcv-dau-tien-196251210075545712.htm) - 00:59 10/12/2025
+- 🧑‍💻 [Cú hích thực chất](https://nld.com.vn/cu-hich-thuc-chat-196251209222322199.htm) - 00:55 10/12/2025
+- 🎬 [Ngời sáng phẩm chất Bộ đội Cụ Hồ](https://nld.com.vn/ngoi-sang-pham-chat-bo-doi-cu-ho-19625120921365816.htm) - 00:52 10/12/2025
+- 👀 [Xổ số miền Nam: &quot;Chị đẹp&quot; trúng 14 tờ vé số khiến dân mạng phấn khích](https://nld.com.vn/xo-so-mien-nam-chi-dep-trung-14-to-ve-so-khien-dan-mang-phan-khich-196251210072430332.htm) - 00:51 10/12/2025
+- 👍 [Giá cà phê hôm nay 10-12: Cắt mạch giảm sau 6 phiên](https://nld.com.vn/gia-ca-phe-hom-nay-10-12-cat-mach-giam-sau-6-phien-196251210064945744.htm) - 00:47 10/12/2025
+- 🦅 [Hàng loạt chính sách hỗ trợ chuyển đổi qua xe điện](https://nld.com.vn/hang-loat-chinh-sach-ho-tro-chuyen-doi-qua-xe-dien-196251209211844694.htm) - 00:42 10/12/2025
+- 🦏 [Tổng thống Mỹ: Nga có lợi thế đàm phán, Ukraine cần nhượng bộ](https://nld.com.vn/tong-thong-my-nga-co-loi-the-dam-phan-ukraine-can-nhuong-bo-196251209230004087.htm) - 00:39 10/12/2025
+- 🗽 [Hôm nay, HĐND TPHCM chất vấn Giám đốc Sở Xây dựng, Sở An toàn thực phẩm](https://nld.com.vn/hom-nay-hdnd-tphcm-chat-van-giam-doc-so-xay-dung-so-an-toan-thuc-pham-196251210073250141.htm) - 00:38 10/12/2025
+- 🔭 [Linh hoạt quy định về dạy thêm, học thêm](https://nld.com.vn/linh-hoat-quy-dinh-ve-day-them-hoc-them-196251209215638344.htm) - 00:32 10/12/2025
+- 👍 [Diễn biến mới nhất về vùng áp thấp trên Biển Đông, cảnh báo mưa lớn ở miền Trung](https://nld.com.vn/dien-bien-moi-nhat-ve-vung-ap-thap-tren-bien-dong-canh-bao-mua-lon-o-mien-trung-196251210064401884.htm) - 00:30 10/12/2025
+- ⛽️ [Năm 2025, chi khám chữa bệnh BHYT tại TPHCM có thể vượt dự toán khoảng 2.000 tỉ đồng](https://nld.com.vn/nam-2025-chi-kham-chua-benh-bhyt-tai-tphcm-co-the-vuot-du-toan-khoang-2000-ti-dong-196251209193118437.htm) - 00:28 10/12/2025
+- 🥸 [Liverpool, Tottenham bay cao tại Champions League](https://nld.com.vn/liverpool-tottenham-bay-cao-tai-champions-league-196251210070846968.htm) - 00:22 10/12/2025
+- 🌁 [&quot;Chiến dịch Quang Trung&quot;: Thần tốc vì dân](https://nld.com.vn/chien-dich-quang-trung-than-toc-vi-dan-196251209215924861.htm) - 00:22 10/12/2025
+- 🌮 [Tiền đề tăng trưởng 2 con số](https://nld.com.vn/tien-de-tang-truong-2-con-so-196251209215347342.htm) - 00:12 10/12/2025
+- 🎉 [Mở đường cho TP HCM tăng tốc, vươn tầm: Không xin tiền, chỉ xin cơ chế](https://nld.com.vn/mo-duong-cho-tp-hcm-tang-toc-vuon-tam-khong-xin-tien-chi-xin-co-che-196251209204636572.htm) - 23:51 09/12/2025
+- 🤔 [Hậu vệ tỏa sáng, Barcelona ngược dòng giành chiến thắng sân nhà ở Champions League](https://nld.com.vn/hau-ve-toa-sang-barcelona-nguoc-dong-gianh-chien-thang-san-nha-o-champions-league-196251210064108094.htm) - 23:45 09/12/2025
+- 🐘 [Vở &quot;Hồ Nguyệt Cô hóa cáo&quot;](https://maivang.nld.com.vn/vo-ho-nguyet-co-hoa-cao-19625121006011248.htm) - 23:42 09/12/2025
+- 🙉 [Liên hợp quốc giảm quy mô hỗ trợ nhân đạo](https://nld.com.vn/lien-hop-quoc-giam-quy-mo-ho-tro-nhan-dao-196251209203631447.htm) - 23:41 09/12/2025
+- 🐵 [Vở &quot;Đảo Hoa Hậu&quot;](https://maivang.nld.com.vn/vo-dao-hoa-hau-196251210055650952.htm) - 23:40 09/12/2025
+- 🙉 [Vở &quot;Dưới bóng giai nhân&quot;](https://maivang.nld.com.vn/vo-duoi-bong-giai-nhan-196251210054806969.htm) - 23:38 09/12/2025
+- 💪 [Diễn viên hài - NSND Tự Long](https://maivang.nld.com.vn/dien-vien-hai-nsnd-tu-long-196251210001545574.htm) - 23:38 09/12/2025
+- ⛽️ [Diễn viên hài - nghệ sĩ Duy Khánh Zhou Zhou](https://maivang.nld.com.vn/dien-vien-hai-nghe-si-duy-khanh-zhou-zhou-196251210001238518.htm) - 23:38 09/12/2025
+- 👺 [Diễn viên hài - nghệ sĩ BB Trần](https://maivang.nld.com.vn/dien-vien-hai-nghe-si-bb-tran-19625121000094542.htm) - 23:37 09/12/2025
+- 🧠 [Nghệ sĩ Việt Hương](https://maivang.nld.com.vn/nghe-si-viet-huong-196251210000626493.htm) - 23:37 09/12/2025
+- 🔭 [NSƯT Tú Sương](https://maivang.nld.com.vn/nsut-tu-suong-196251210000244011.htm) - 23:36 09/12/2025
+- 🦣 [Nghệ sĩ Lâm Vỹ Dạ](https://maivang.nld.com.vn/nghe-si-lam-vy-da-196251209235842807.htm) - 23:36 09/12/2025
+- 🔥 [Concert &quot;Tổ quốc trong tim&quot;](https://maivang.nld.com.vn/concert-to-quoc-trong-tim-196251210061608237.htm) - 23:35 09/12/2025
+- 🌝 [Chương trình &quot;Mùa xuân thành phố Hồ Chí Minh – Bước vào kỷ nguyên mới&quot; của HTV](https://maivang.nld.com.vn/chuong-trinh-mua-xuan-thanh-pho-ho-chi-minh-buoc-vao-ky-nguyen-moi-cua-htv-196251210061338818.htm) - 23:35 09/12/2025
+- 👍 [Vở &quot;Nơi kết thúc bắt đầu&quot;](https://maivang.nld.com.vn/vo-noi-ket-thuc-bat-dau-196251210061107342.htm) - 23:34 09/12/2025
+- 💂 [Vở chèo &quot;Nguyễn Văn Cừ – Tuổi trẻ chí lớn&quot;](https://maivang.nld.com.vn/vo-cheo-nguyen-van-cu-tuoi-tre-chi-lon-196251210060411339.htm) - 23:34 09/12/2025
+- 🤖 [Giá vàng hôm nay 10-12: Tăng rất mạnh](https://nld.com.vn/gia-vang-hom-nay-10-12-tang-rat-manh-1962512100618217.htm) - 23:32 09/12/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
