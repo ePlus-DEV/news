@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🌜 [HLV Indonesia bị chỉ trích vì đổ lỗi cho cầu thủ](https://vnexpress.net/hlv-indonesia-bi-chi-trich-vi-do-loi-cho-cau-thu-4991864.html) - 04:14 10/12/2025
 - 😺 [Nữ VĐV phải bỏ SEA Games 33 vì ung thư](https://vnexpress.net/nu-vdv-phai-bo-sea-games-33-vi-ung-thu-4991929.html) - 04:01 10/12/2025
 - 👍 [Campuchia rút toàn bộ VĐV khỏi SEA Games 33](https://vnexpress.net/campuchia-rut-toan-bo-vdv-khoi-sea-games-33-4991973.html) - 02:57 10/12/2025
-- 🐵 [SEA Games ngày 10/12: Việt Nam giành HC vàng thứ tư](https://vnexpress.net/sea-games-ngay-10-12-4991873.html) - 01:45 10/12/2025
+- 🐵 [Việt Nam giành 4 HC vàng trong ngày đầu SEA Games](https://vnexpress.net/sea-games-ngay-10-12-4991873.html) - 01:45 10/12/2025
 - 💫 [Trọng tài bị chỉ trích thổi phạt đền &#39;tai tiếng&#39; cho Liverpool](https://vnexpress.net/trong-tai-bi-chi-trich-thoi-phat-den-tai-tieng-cho-liverpool-4991876.html) - 01:21 10/12/2025
 - 🦆 [Barca ngược dòng trong ba phút ở Champions League](https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html) - 23:02 09/12/2025
 - 🙉 [Nhà vô địch marathon thế giới lỡ chiến thắng vì chơi đẹp](https://vnexpress.net/nha-vo-dich-marathon-the-gioi-lo-chien-thang-vi-choi-dep-4991823.html) - 22:53 09/12/2025
