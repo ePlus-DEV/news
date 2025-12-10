@@ -4,8 +4,8 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Gần 350 triệu đồng đến với cậu bé 8 tuổi sống thoi thóp sau tai nạn](https://dantri.com.vn/tam-long-nhan-ai/gan-350-trieu-dong-den-voi-cau-be-8-tuoi-song-thoi-thop-sau-tai-nan-20251210082102436.htm) - 03:21 10/12/2025
-- 🌜 [Bé 3 tháng tuổi nguy kịch vì sốc nhiễm khuẩn, cha mẹ nghèo bất lực cầu cứu](https://dantri.com.vn/tam-long-nhan-ai/be-3-thang-tuoi-nguy-kich-vi-soc-nhiem-khuan-cha-me-ngheo-bat-luc-cau-cuu-20251207222933868.htm) - 22:30 09/12/2025
+- 🌝 [Bé 3 tháng tuổi nguy kịch vì sốc nhiễm khuẩn, cha mẹ nghèo bất lực cầu cứu](https://dantri.com.vn/tam-long-nhan-ai/be-3-thang-tuoi-nguy-kich-vi-soc-nhiem-khuan-cha-me-ngheo-bat-luc-cau-cuu-20251207222933868.htm) - 22:30 09/12/2025
+- 🌜 [Gần 350 triệu đồng đến với cậu bé 8 tuổi sống thoi thóp sau tai nạn](https://dantri.com.vn/tam-long-nhan-ai/gan-350-trieu-dong-den-voi-cau-be-8-tuoi-song-thoi-thop-sau-tai-nan-20251210082102436.htm) - 22:29 09/12/2025
 - 👀 [Thông báo kết chuyển Nhân ái tuần 4 tháng 11/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-4-thang-112025-20251209095701865.htm) - 06:21 09/12/2025
 - 🚀 [Danh sách bạn đọc ủng hộ tuần 4 tháng 11/2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-4-thang-112025-20251209095258851.htm) - 06:20 09/12/2025
 - 🦅 [Bạn đọc hỗ trợ gia đình chị Đinh Thị Bích Ngọc ở Lâm Đồng gần 1,9 tỷ đồng](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-ho-tro-gia-dinh-chi-dinh-thi-bich-ngoc-o-lam-dong-gan-19-ty-dong-20251208195111580.htm) - 02:07 09/12/2025
