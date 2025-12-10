@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [LPBank bổ nhiệm phó tổng giám đốc mới](https://vnexpress.net/lpbank-bo-nhiem-pho-tong-giam-doc-moi-4992101.html) - 06:30 10/12/2025
 - 🌮 [Gia đình ông Cô Gia Thọ sắp nhận hàng trăm tỷ đồng cổ tức từ Thiên Long](https://vnexpress.net/gia-dinh-ong-co-gia-tho-sap-nhan-hang-tram-ty-dong-co-tuc-tu-thien-long-4992039.html) - 06:16 10/12/2025
 - 🧰 [Giá bạc miếng lập đỉnh trên 2,3 triệu một lượng](https://vnexpress.net/gia-bac-mieng-lap-dinh-tren-2-3-trieu-mot-luong-4992053.html) - 05:30 10/12/2025
-- 🤔 [Sẽ thí điểm &quot;voucher công nghệ&quot; cho nông dân dùng thử](https://vnexpress.net/se-thi-diem-voucher-cong-nghe-cho-nong-dan-dung-thu-4992022.html) - 05:23 10/12/2025
+- 🤔 [Sẽ thí điểm &#39;voucher công nghệ&#39; cho nông dân dùng thử](https://vnexpress.net/se-thi-diem-voucher-cong-nghe-cho-nong-dan-dung-thu-4992022.html) - 05:23 10/12/2025
 - 🧑‍💻 [Người livestream bán hàng phải xác thực danh tính theo VNeID](https://vnexpress.net/nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-theo-vneid-4992047.html) - 05:21 10/12/2025
 - 🕴 [EU tăng ngưỡng doanh thu tuân thủ báo cáo bền vững lên 1,7 tỷ USD](https://vnexpress.net/eu-tang-nguong-doanh-thu-tuan-thu-bao-cao-ben-vung-len-1-7-ty-usd-4992034.html) - 05:17 10/12/2025
 - 🦩 [Lạm phát Trung Quốc lên cao nhất gần 2 năm](https://vnexpress.net/lam-phat-trung-quoc-len-cao-nhat-gan-2-nam-4991931.html) - 03:34 10/12/2025
