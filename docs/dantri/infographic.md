@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [10 mẫu ô tô “hút” khách tháng 11: Limo Green dẫn đầu, Herio Green vắng bóng](https://dantri.com.vn/o-to-xe-may/10-mau-o-to-hut-khach-thang-11-limo-green-dan-dau-herio-green-vang-bong-20251210130803686.htm) - 07:16 10/12/2025
+- 🕴 [10 mẫu ô tô hút khách tháng 11: Limo Green dẫn đầu, Herio Green vắng bóng](https://dantri.com.vn/o-to-xe-may/10-mau-o-to-hut-khach-thang-11-limo-green-dan-dau-herio-green-vang-bong-20251210130803686.htm) - 07:16 10/12/2025
 - 💻 [Chi tiết thể lệ cuộc thi tìm hiểu về trật tự, an toàn giao thông đường bộ](https://dantri.com.vn/thoi-su/chi-tiet-the-le-cuoc-thi-tim-hieu-ve-trat-tu-an-toan-giao-thong-duong-bo-20251206193855572.htm) - 13:15 06/12/2025
 - 🗽 [Những &quot;kỷ lục&quot; thiên tai khốc liệt năm 2025](https://dantri.com.vn/thoi-su/nhung-ky-luc-thien-tai-khoc-liet-nam-2025-20251205104843735.htm) - 03:57 05/12/2025
 - 👺 [Chi tiết thể lệ cuộc thi tìm hiểu 80 năm truyền thống lực lượng CSGT](https://dantri.com.vn/thoi-su/chi-tiet-the-le-cuoc-thi-tim-hieu-80-nam-truyen-thong-luc-luong-csgt-20251204152415475.htm) - 08:34 04/12/2025
