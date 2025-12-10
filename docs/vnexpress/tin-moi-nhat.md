@@ -44,7 +44,7 @@ sidebar_position: 9
 - 🧑‍🏫 [&#39;Chúa tể vượt ngục&#39; lần thứ 4 trốn khỏi nhà tù an ninh tối đa](https://vnexpress.net/chua-te-vuot-nguc-lan-thu-4-tron-khoi-nha-tu-an-ninh-toi-da-4992261.html) - 10:17 10/12/2025
 - 😎 [Hàng loạt sự cố ở ngày đầu SEA Games 33](https://vnexpress.net/hang-loat-su-co-o-ngay-dau-sea-games-33-4992273.html) - 10:06 10/12/2025
 - 🪄 [Cán bộ phải kê khai biến động tài sản từ 1 tỷ đồng](https://vnexpress.net/can-bo-phai-ke-khai-bien-dong-tai-san-tu-1-ty-dong-4992260.html) - 10:06 10/12/2025
-- 🏊 [Điểm tin 21h: Hàng loạt sự cố ở ngày đầu SEA Games 33 | Cán bộ phải kê khai biến động tài sản từ 1 tỷ đồng](https://vnexpress.net/diem-tin-21h-hang-loat-su-co-o-ngay-dau-sea-games-33-can-bo-phai-ke-khai-bien-dong-tai-san-tu-1-ty-dong-4992271.html) - 10:00 10/12/2025
+- 🏊 [Điểm tin 17h: Quốc hội trao quyền tự chủ và siết minh bạch đại học | Hộ kinh doanh được tự xác định doanh thu nộp thuế](https://vnexpress.net/diem-tin-17h-quoc-hoi-trao-quyen-tu-chu-va-siet-minh-bach-dai-hoc-ho-kinh-doanh-duoc-tu-xac-dinh-doanh-thu-nop-thue-4992271.html) - 10:00 10/12/2025
 - 💃 [Bivina ra mắt bao bì Tết lấy cảm hứng từ ý chí người miền biển](https://vnexpress.net/bivina-ra-mat-bao-bi-tet-lay-cam-hung-tu-y-chi-nguoi-mien-bien-4992240.html) - 10:00 10/12/2025
 - 🦆 [Nguyên nhân gây thức giấc sớm](https://vnexpress.net/nguyen-nhan-gay-thuc-giac-som-4992035.html) - 10:00 10/12/2025
 - 🎊 [Cấp giấy phép xây dựng online, dự kiến tối đa 10 ngày](https://vnexpress.net/cap-giay-phep-xay-dung-online-du-kien-toi-da-10-ngay-4992247.html) - 09:59 10/12/2025
