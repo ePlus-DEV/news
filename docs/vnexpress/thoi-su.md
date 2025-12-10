@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Dự kiến áp dụng khung năng lực bắt buộc với công chức từ tháng 3/2026](https://vnexpress.net/du-kien-ap-dung-khung-nang-luc-bat-buoc-voi-cong-chuc-tu-thang-3-2026-4991698.html) - 23:00 09/12/2025
 - ⚗️ [Chìm tàu cá, 8 người gặp nạn](https://vnexpress.net/chim-tau-ca-8-nguoi-gap-nan-4991859.html) - 17:14 09/12/2025
 - 🌊 [Cuộc sống &#39;xóm Việt kiều&#39; trên hồ Trị An](https://vnexpress.net/cuoc-song-xom-viet-kieu-tren-ho-tri-an-4988356.html) - 17:00 09/12/2025
-- 🎓 [Bế tắc truy tìm ôtô làm đá rơi khiến du khách Nga tử vong](https://vnexpress.net/be-tac-truy-tim-oto-lam-da-roi-khien-du-khach-nga-tu-vong-4991844.html) - 16:06 09/12/2025
+- 🎓 [Gặp khó khi truy tìm ôtô làm đá rơi khiến du khách Nga tử vong](https://vnexpress.net/gap-kho-khi-truy-tim-oto-lam-da-roi-khien-du-khach-nga-tu-vong-4991844.html) - 16:06 09/12/2025
 - 🔥 [Tổng Bí thư yêu cầu hoàn thiện công tác nhân sự trình Hội nghị Trung ương 15](https://vnexpress.net/tong-bi-thu-yeu-cau-hoan-thien-cong-tac-nhan-su-trinh-hoi-nghi-trung-uong-15-4991833.html) - 15:22 09/12/2025
 - 🦏 [Hà Nội chuẩn bị trạm sạc, bãi đỗ cho lộ trình hạn chế xe máy xăng](https://vnexpress.net/ha-noi-chuan-bi-tram-sac-bai-do-cho-lo-trinh-han-che-xe-may-xang-4991733.html) - 14:43 09/12/2025
 - 👺 [Chim hồng hoàng quý hiếm bay lạc vào vườn nhà dân](https://vnexpress.net/chim-hong-hoang-quy-hiem-bay-lac-vao-vuon-nha-dan-4991838.html) - 14:17 09/12/2025
