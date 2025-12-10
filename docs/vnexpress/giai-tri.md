@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Về miền bí ẩn&#39; - triết lý của đức tin](https://vnexpress.net/ve-mien-bi-an-triet-ly-cua-duc-tin-4991808.html) - 13:39 10/12/2025
+- 🌏 [Thời trang hẹn hò của Timothée Chalamet, Kylie Jenner](https://vnexpress.net/thoi-trang-hen-ho-cua-timothee-chalamet-kylie-jenner-4991996.html) - 15:00 10/12/2025
 - 💫 [10 phim được người Việt tìm kiếm nhiều nhất 2025](https://vnexpress.net/10-phim-duoc-nguoi-viet-tim-kiem-nhieu-nhat-2025-4991668.html) - 12:00 10/12/2025
 - 🌮 [Hoa hậu Thế giới gây sốt khi xuất hiện tại SEA Games](https://vnexpress.net/hoa-hau-the-gioi-gay-sot-khi-xuat-hien-tai-sea-games-4992130.html) - 09:40 10/12/2025
 - 🧠 [Gia đình, khán giả tiễn biệt tài tử Thương Tín](https://vnexpress.net/gia-dinh-khan-gia-tien-biet-tai-tu-thuong-tin-4991945.html) - 08:44 10/12/2025
