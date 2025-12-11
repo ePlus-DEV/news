@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Ngưỡng chịu thuế 500 triệu vẫn có thể điều chỉnh phù hợp từng thời kỳ&#39;](https://vnexpress.net/nguong-chiu-thue-500-trieu-van-co-the-dieu-chinh-phu-hop-tung-thoi-ky-4992709.html) - 13:15 11/12/2025
+- ⛽️ [&#39;Ngưỡng chịu thuế 500 triệu vẫn có thể điều chỉnh theo biến động thực tế&#39;](https://vnexpress.net/nguong-chiu-thue-500-trieu-van-co-the-dieu-chinh-theo-bien-dong-thuc-te-4992709.html) - 13:15 11/12/2025
 - 🐲 [Boeing có thể thắng cuộc đua đơn hàng máy bay năm nay](https://vnexpress.net/boeing-co-the-thang-cuoc-dua-don-hang-may-bay-nam-nay-4992638.html) - 10:42 11/12/2025
 - 🔥 [Sun PhuQuoc Airways sắp mở các đường bay đến Seoul, Đài Bắc](https://vnexpress.net/sun-phuquoc-airways-sap-mo-cac-duong-bay-den-seoul-dai-bac-4992679.html) - 10:34 11/12/2025
 - 🐵 [BIDV đồng hành cùng hộ kinh doanh chuyển từ thuế khoán sang kê khai](https://vnexpress.net/bidv-dong-hanh-cung-ho-kinh-doanh-chuyen-tu-thue-khoan-sang-ke-khai-4992520.html) - 09:00 11/12/2025
