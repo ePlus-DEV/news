@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Kim Sang-sik họp báo sau trận thắng Malaysia](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-malaysia-4992782.html) - 11:16 11/12/2025
+- 🪜 [HLV Kim muốn nâng Cup lần nữa ở Rajamangala](https://vnexpress.net/hlv-kim-muon-nang-cup-lan-nua-o-rajamangala-4992782.html) - 11:16 11/12/2025
 - 🦩 [Madueke: &#39;Arsenal muốn vô địch cả Champions League và Ngoại hạng Anh&#39;](https://vnexpress.net/madueke-arsenal-muon-vo-dich-ca-champions-league-va-ngoai-hang-anh-4992560.html) - 08:55 11/12/2025
-- 🧰 [Nữ Việt Nam hạ Myanmar, vào bán kết SEA Games](https://vnexpress.net/ket-qua-nu-viet-nam-myanmar-4992669.html) - 08:10 11/12/2025
+- 🧰 [Nữ Việt Nam hạ Myanmar, vào bán kết SEA Games](https://vnexpress.net/ket-qua-nu-viet-nam-myanmar-4992669-tong-thuat.html) - 08:10 11/12/2025
 - 🤗 [Việt Nam hạ Malaysia, vào bán kết bóng đá nam SEA Games](https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-4992581.html) - 08:00 11/12/2025
 - 🥳 [HLV Malaysia: &#39;Hòa là đủ, nhưng thắng Việt Nam vẫn tốt hơn&#39;](https://vnexpress.net/hlv-malaysia-hoa-la-du-nhung-thang-viet-nam-van-tot-hon-4992523.html) - 06:16 11/12/2025
 - 🦣 [SEA Games 33 sẽ tìm ra người Đông Nam Á đầu tiên chạy 100m dưới 10 giây?](https://vnexpress.net/sea-games-33-se-tim-ra-nguoi-dong-nam-a-dau-tien-chay-100m-duoi-10-giay-4992555.html) - 05:18 11/12/2025
@@ -16,7 +16,7 @@ sidebar_position: 5
 - 😺 [Guardiola &#39;xát muối&#39; vào vết thương của Real](https://vnexpress.net/guardiola-xat-muoi-vao-vet-thuong-cua-real-4992346.html) - 03:12 11/12/2025
 - 👍 [Nguyễn Đình Bắc - quân Hậu của Việt Nam ở SEA Games 33](https://vnexpress.net/nguyen-dinh-bac-quan-hau-cua-viet-nam-o-sea-games-33-4992460.html) - 02:56 11/12/2025
 - 🐵 [Trận đấu ở nơi lạnh nhất lịch sử Champions League](https://vnexpress.net/tran-dau-o-noi-lanh-nhat-lich-su-champions-league-4992394.html) - 01:41 11/12/2025
-- 💫 [SEA Games ngày 11/12: Điền kinh Việt Nam có HC vàng đầu tiên](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
+- 💫 [SEA Games ngày 11/12: Điền kinh Việt Nam liên tiếp giành HC vàng](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
 - 🦆 [Trùng hợp thú vị của hai nữ VĐV mở hàng HC vàng cho Việt Nam](https://vnexpress.net/trung-hop-thu-vi-cua-hai-nu-vdv-mo-hang-hc-vang-cho-viet-nam-4992252.html) - 23:17 10/12/2025
 - 🙉 [Man City gieo sầu cho Real tại Bernabeu](https://vnexpress.net/man-city-gieo-sau-cho-real-tai-bernabeu-4992340.html) - 23:09 10/12/2025
 - 📝 [Mourinho cùng Benfica thắng Napoli ở Champions League](https://vnexpress.net/mourinho-cung-benfica-thang-napoli-o-champions-league-4992338.html) - 22:52 10/12/2025
