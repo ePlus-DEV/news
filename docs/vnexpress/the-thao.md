@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Guardiola &#39;xát muối&#39; vào vết thương của Real](https://vnexpress.net/guardiola-xat-muoi-vao-vet-thuong-cua-real-4992346.html) - 03:12 11/12/2025
 - 🥳 [Nguyễn Đình Bắc - quân Hậu của Việt Nam ở SEA Games 33](https://vnexpress.net/nguyen-dinh-bac-quan-hau-cua-viet-nam-o-sea-games-33-4992460.html) - 02:56 11/12/2025
 - 🦣 [Trận đấu ở nơi lạnh nhất lịch sử Champions League](https://vnexpress.net/tran-dau-o-noi-lanh-nhat-lich-su-champions-league-4992394.html) - 01:41 11/12/2025
-- 🌜 [SEA Games ngày 11/12: Huyền thoại đại hội khóc vì HC đồng](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
+- 🌜 [SEA Games ngày 11/12: Chủ nhà chấm lễ khai mạc điểm 10](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
 - 🫶 [Trùng hợp thú vị của hai nữ VĐV mở hàng HC vàng cho Việt Nam](https://vnexpress.net/trung-hop-thu-vi-cua-hai-nu-vdv-mo-hang-hc-vang-cho-viet-nam-4992252.html) - 23:17 10/12/2025
 - 🌜 [Man City gieo sầu cho Real tại Bernabeu](https://vnexpress.net/man-city-gieo-sau-cho-real-tai-bernabeu-4992340.html) - 23:09 10/12/2025
 - 😺 [Mourinho cùng Benfica thắng Napoli ở Champions League](https://vnexpress.net/mourinho-cung-benfica-thang-napoli-o-champions-league-4992338.html) - 22:52 10/12/2025
