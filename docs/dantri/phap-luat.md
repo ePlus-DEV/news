@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Hai người bị xử lý vì tung tin bịa đặt về vụ án Đoàn Văn Sáng ở Lạng Sơn](https://dantri.com.vn/phap-luat/hai-nguoi-bi-xu-ly-vi-tung-tin-bia-dat-ve-vu-an-doan-van-sang-o-lang-son-20251210233227457.htm) - 17:18 10/12/2025
-- 🐲 [Thiếu niên 16 tuổi ở Hà Nội lên mạng mua 3 khẩu súng, 100 viên đạn](https://dantri.com.vn/phap-luat/thieu-nien-16-tuoi-o-ha-noi-len-mang-mua-3-khau-sung-100-vien-dan-20251210225202330.htm) - 17:00 10/12/2025
+- 🐲 [Thanh niên 16 tuổi ở Hà Nội lên mạng mua 3 khẩu súng, 100 viên đạn](https://dantri.com.vn/phap-luat/thanh-nien-16-tuoi-o-ha-noi-len-mang-mua-3-khau-sung-100-vien-dan-20251210225202330.htm) - 17:00 10/12/2025
 - 🌁 [Hơn 30.000 học sinh, sinh viên tham gia “Trường học không ma túy” mùa 3](https://dantri.com.vn/phap-luat/hon-30000-hoc-sinh-sinh-vien-tham-gia-truong-hoc-khong-ma-tuy-mua-3-20251210225818597.htm) - 16:06 10/12/2025
 - 🎃 [Tài xế xe buýt bị hành khách đánh khi xe đang chạy trên quốc lộ](https://dantri.com.vn/phap-luat/tai-xe-xe-buyt-bi-hanh-khach-danh-khi-xe-dang-chay-tren-quoc-lo-20251210213552458.htm) - 14:50 10/12/2025
 - 🦅 [Bộ Công an chỉ đạo mở rộng điều tra vụ Đoàn Văn Sáng](https://dantri.com.vn/phap-luat/bo-cong-an-chi-dao-mo-rong-dieu-tra-vu-doan-van-sang-20251210205453324.htm) - 14:24 10/12/2025
