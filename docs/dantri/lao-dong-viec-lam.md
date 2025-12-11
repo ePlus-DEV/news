@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Người đàn ông hơn 20 năm gắn bó với nghề nhọc nhằn, hiểm nguy rình rập](https://dantri.com.vn/lao-dong-viec-lam/nguoi-dan-ong-hon-20-nam-gan-bo-voi-nghe-nhoc-nhan-hiem-nguy-rinh-rap-20251210142620802.htm) - 03:37 11/12/2025
-- 🙉 [Thợ gỗ &quot;làm liều&quot; livestream bán hàng để giữ nghề](https://dantri.com.vn/lao-dong-viec-lam/tho-go-lam-lieu-livestream-ban-hang-de-giu-nghe-20251211064345741.htm) - 03:14 11/12/2025
+- 🙉 [Thợ gỗ &quot;làm liều&quot;, cả làng livestream bán hàng để giữ nghề](https://dantri.com.vn/lao-dong-viec-lam/tho-go-lam-lieu-ca-lang-livestream-ban-hang-de-giu-nghe-20251211064345741.htm) - 03:14 11/12/2025
 - 🕴 [Hỗ trợ tới 100% mức đóng bảo hiểm y tế cho nhiều đối tượng](https://dantri.com.vn/lao-dong-viec-lam/ho-tro-toi-100-muc-dong-bao-hiem-y-te-cho-nhieu-doi-tuong-20251210195632181.htm) - 02:09 11/12/2025
 - 🧐 [Doanh nghiệp luật &quot;đãi cát&quot; tìm nhân lực thế hệ mới](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-luat-dai-cat-tim-nhan-luc-the-he-moi-20251211065125616.htm) - 00:45 11/12/2025
 - 🧑‍💻 [Gần 18.000 vị trí việc làm được doanh nghiệp TPHCM tuyển dụng](https://dantri.com.vn/lao-dong-viec-lam/gan-18000-vi-tri-viec-lam-duoc-doanh-nghiep-tphcm-tuyen-dung-20251211060509232.htm) - 00:42 11/12/2025
