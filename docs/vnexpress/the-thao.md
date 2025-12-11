@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trận đấu ở nơi lạnh nhất lịch sử Champions League](https://vnexpress.net/tran-dau-o-noi-lanh-nhat-lich-su-champions-league-4992394.html) - 01:41 11/12/2025
-- 🦩 [SEA Games ngày 11/12: Việt Nam có thể dự 39 nội dung chung kết](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
-- 🧰 [Trùng hợp thú vị của hai nữ VĐV mở hàng HC vàng cho Việt Nam](https://vnexpress.net/trung-hop-thu-vi-cua-hai-nu-vdv-mo-hang-hc-vang-cho-viet-nam-4992252.html) - 23:17 10/12/2025
-- 🤗 [Man City gieo sầu cho Real tại Bernabeu](https://vnexpress.net/man-city-gieo-sau-cho-real-tai-bernabeu-4992340.html) - 23:09 10/12/2025
-- 🥳 [Mourinho cùng Benfica thắng Napoli ở Champions League](https://vnexpress.net/mourinho-cung-benfica-thang-napoli-o-champions-league-4992338.html) - 22:52 10/12/2025
-- 🦣 [Võ sĩ Việt Nam bật khóc vì bị xử ép trước VĐV Thái Lan](https://vnexpress.net/vo-si-viet-nam-bat-khoc-vi-bi-xu-ep-truoc-vdv-thai-lan-4992336.html) - 22:50 10/12/2025
-- 🌜 [Đôi giày bí ẩn giúp nữ hoàng ultra trail chạy marathon sub2:39](https://vnexpress.net/doi-giay-bi-an-giup-nu-hoang-ultra-trail-chay-marathon-sub2-39-4992339.html) - 22:37 10/12/2025
-- 🫶 [Arsenal giữ mạch toàn thắng ở Champions League](https://vnexpress.net/arsenal-giu-mach-toan-thang-o-champions-league-4992337.html) - 21:59 10/12/2025
-- 🌜 [Hàng loạt sự cố ở ngày đầu SEA Games 33](https://vnexpress.net/hang-loat-su-co-o-ngay-dau-sea-games-33-4992273.html) - 10:06 10/12/2025
-- 😺 [HLV Kim: &#39;Trận thua Malaysia 0-4 cũng khiến U22 Việt Nam tổn thương&#39;](https://vnexpress.net/hlv-kim-tran-thua-malaysia-0-4-cung-khien-u22-viet-nam-ton-thuong-4992263.html) - 09:46 10/12/2025
-- 👍 [Truyền thông châu Á bất ngờ khi Campuchia bỏ giải](https://vnexpress.net/truyen-thong-chau-a-bat-ngo-khi-campuchia-bo-giai-4992220.html) - 09:16 10/12/2025
-- 🐵 [Hai nữ võ sĩ Việt Nam gây sốc với bài quyền &#39;diệt ma&#39;](https://vnexpress.net/hai-nu-vo-si-viet-nam-gay-soc-voi-bai-quyen-diet-ma-4992180.html) - 07:59 10/12/2025
-- 💫 [Ẩn tình sau lời khuyên của Guardiola dành cho Alonso](https://vnexpress.net/an-tinh-sau-loi-khuyen-cua-guardiola-danh-cho-alonso-4992109.html) - 07:00 10/12/2025
-- 🦆 [Arteta: &#39;Arsenal đang trong vòng xoáy chấn thương nguy hiểm&#39;](https://vnexpress.net/arteta-arsenal-dang-trong-vong-xoay-chan-thuong-nguy-hiem-4991867.html) - 05:00 10/12/2025
-- 🙉 [Guardiola: &#39;Man City sẽ chứng minh bản lĩnh tại Bernabeu&#39;](https://vnexpress.net/guardiola-man-city-se-chung-minh-ban-linh-tai-bernabeu-4991866.html) - 05:00 10/12/2025
-- 📝 [HLV Malaysia: &#39;Quan trọng nhất là không được thua Việt Nam&#39;](https://vnexpress.net/hlv-malaysia-quan-trong-nhat-la-khong-duoc-thua-viet-nam-4991862.html) - 04:23 10/12/2025
+- 🪜 [Courtois: &#39;Nếu chúng tôi không ủng hộ Alonso, Real đã thua 0-6&#39;](https://vnexpress.net/courtois-neu-chung-toi-khong-ung-ho-alonso-real-da-thua-0-6-4992489.html) - 04:33 11/12/2025
+- 🦩 [Nữ Việt Nam - Myanmar: Không còn đường lùi ở SEA Games 33](https://vnexpress.net/nu-viet-nam-myanmar-khong-con-duong-lui-o-sea-games-33-4992384.html) - 03:53 11/12/2025
+- 🧰 [Việt Nam – Malaysia: Quyết chiến cho ngôi đầu ở SEA Games 33](https://vnexpress.net/viet-nam-malaysia-quyet-chien-cho-ngoi-dau-o-sea-games-33-4992477.html) - 03:52 11/12/2025
+- 🤗 [Guardiola &#39;xát muối&#39; vào vết thương của Real](https://vnexpress.net/guardiola-xat-muoi-vao-vet-thuong-cua-real-4992346.html) - 03:12 11/12/2025
+- 🥳 [Nguyễn Đình Bắc - quân Hậu của Việt Nam ở SEA Games 33](https://vnexpress.net/nguyen-dinh-bac-quan-hau-cua-viet-nam-o-sea-games-33-4992460.html) - 02:56 11/12/2025
+- 🦣 [Trận đấu ở nơi lạnh nhất lịch sử Champions League](https://vnexpress.net/tran-dau-o-noi-lanh-nhat-lich-su-champions-league-4992394.html) - 01:41 11/12/2025
+- 🌜 [SEA Games ngày 11/12: Huyền thoại đại hội khóc vì HC đồng](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
+- 🫶 [Trùng hợp thú vị của hai nữ VĐV mở hàng HC vàng cho Việt Nam](https://vnexpress.net/trung-hop-thu-vi-cua-hai-nu-vdv-mo-hang-hc-vang-cho-viet-nam-4992252.html) - 23:17 10/12/2025
+- 🌜 [Man City gieo sầu cho Real tại Bernabeu](https://vnexpress.net/man-city-gieo-sau-cho-real-tai-bernabeu-4992340.html) - 23:09 10/12/2025
+- 😺 [Mourinho cùng Benfica thắng Napoli ở Champions League](https://vnexpress.net/mourinho-cung-benfica-thang-napoli-o-champions-league-4992338.html) - 22:52 10/12/2025
+- 👍 [Võ sĩ Việt Nam bật khóc vì bị xử ép trước VĐV Thái Lan](https://vnexpress.net/vo-si-viet-nam-bat-khoc-vi-bi-xu-ep-truoc-vdv-thai-lan-4992336.html) - 22:50 10/12/2025
+- 🐵 [Đôi giày bí ẩn giúp nữ hoàng ultra trail chạy marathon sub2:39](https://vnexpress.net/doi-giay-bi-an-giup-nu-hoang-ultra-trail-chay-marathon-sub2-39-4992339.html) - 22:37 10/12/2025
+- 💫 [Arsenal giữ mạch toàn thắng ở Champions League](https://vnexpress.net/arsenal-giu-mach-toan-thang-o-champions-league-4992337.html) - 21:59 10/12/2025
+- 🦆 [Hàng loạt sự cố ở ngày đầu SEA Games 33](https://vnexpress.net/hang-loat-su-co-o-ngay-dau-sea-games-33-4992273.html) - 10:06 10/12/2025
+- 🙉 [HLV Kim: &#39;Trận thua Malaysia 0-4 cũng khiến U22 Việt Nam tổn thương&#39;](https://vnexpress.net/hlv-kim-tran-thua-malaysia-0-4-cung-khien-u22-viet-nam-ton-thuong-4992263.html) - 09:46 10/12/2025
+- 📝 [Truyền thông châu Á bất ngờ khi Campuchia bỏ giải](https://vnexpress.net/truyen-thong-chau-a-bat-ngo-khi-campuchia-bo-giai-4992220.html) - 09:16 10/12/2025
+- 💯 [Hai nữ võ sĩ Việt Nam gây sốc với bài quyền &#39;diệt ma&#39;](https://vnexpress.net/hai-nu-vo-si-viet-nam-gay-soc-voi-bai-quyen-diet-ma-4992180.html) - 07:59 10/12/2025
+- 🌈 [Ẩn tình sau lời khuyên của Guardiola dành cho Alonso](https://vnexpress.net/an-tinh-sau-loi-khuyen-cua-guardiola-danh-cho-alonso-4992109.html) - 07:00 10/12/2025
+- 🦩 [Arteta: &#39;Arsenal đang trong vòng xoáy chấn thương nguy hiểm&#39;](https://vnexpress.net/arteta-arsenal-dang-trong-vong-xoay-chan-thuong-nguy-hiem-4991867.html) - 05:00 10/12/2025
+- 🐲 [Guardiola: &#39;Man City sẽ chứng minh bản lĩnh tại Bernabeu&#39;](https://vnexpress.net/guardiola-man-city-se-chung-minh-ban-linh-tai-bernabeu-4991866.html) - 05:00 10/12/2025
+- 🌁 [HLV Malaysia: &#39;Quan trọng nhất là không được thua Việt Nam&#39;](https://vnexpress.net/hlv-malaysia-quan-trong-nhat-la-khong-duoc-thua-viet-nam-4991862.html) - 04:23 10/12/2025
 - 💯 [HLV Indonesia bị chỉ trích vì đổ lỗi cho cầu thủ](https://vnexpress.net/hlv-indonesia-bi-chi-trich-vi-do-loi-cho-cau-thu-4991864.html) - 04:14 10/12/2025
-- 🌈 [Nữ VĐV phải bỏ SEA Games 33 vì ung thư](https://vnexpress.net/nu-vdv-phai-bo-sea-games-33-vi-ung-thu-4991929.html) - 04:01 10/12/2025
-- 🦩 [Campuchia rút toàn bộ VĐV khỏi SEA Games 33](https://vnexpress.net/campuchia-rut-toan-bo-vdv-khoi-sea-games-33-4991973.html) - 02:57 10/12/2025
-- 🐲 [Việt Nam giành 4 HC vàng trong ngày đầu SEA Games](https://vnexpress.net/sea-games-ngay-10-12-4991873-tong-thuat.html) - 01:45 10/12/2025
-- 🌁 [Trọng tài bị chỉ trích thổi phạt đền &#39;tai tiếng&#39; cho Liverpool](https://vnexpress.net/trong-tai-bi-chi-trich-thoi-phat-den-tai-tieng-cho-liverpool-4991876.html) - 01:21 10/12/2025
-- 💯 [Barca ngược dòng trong ba phút ở Champions League](https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html) - 23:02 09/12/2025
-- 🌝 [Nhà vô địch marathon thế giới lỡ chiến thắng vì chơi đẹp](https://vnexpress.net/nha-vo-dich-marathon-the-gioi-lo-chien-thang-vi-choi-dep-4991823.html) - 22:53 09/12/2025
-- 🤖 [Messi hay nhất MLS hai mùa liên tiếp](https://vnexpress.net/messi-hay-nhat-mls-hai-mua-lien-tiep-4991865.html) - 22:51 09/12/2025
-- 🕯 [Tài năng 17 tuổi cứu Bayern ở Champions League](https://vnexpress.net/tai-nang-17-tuoi-cuu-bayern-o-champions-league-4991871.html) - 22:46 09/12/2025
+- 🌝 [Nữ VĐV phải bỏ SEA Games 33 vì ung thư](https://vnexpress.net/nu-vdv-phai-bo-sea-games-33-vi-ung-thu-4991929.html) - 04:01 10/12/2025
+- 🤖 [Campuchia rút toàn bộ VĐV khỏi SEA Games 33](https://vnexpress.net/campuchia-rut-toan-bo-vdv-khoi-sea-games-33-4991973.html) - 02:57 10/12/2025
+- 🕯 [Việt Nam giành 4 HC vàng trong ngày đầu SEA Games](https://vnexpress.net/sea-games-ngay-10-12-4991873-tong-thuat.html) - 01:45 10/12/2025
+- 🧰 [Trọng tài bị chỉ trích thổi phạt đền &#39;tai tiếng&#39; cho Liverpool](https://vnexpress.net/trong-tai-bi-chi-trich-thoi-phat-den-tai-tieng-cho-liverpool-4991876.html) - 01:21 10/12/2025
+- 🥳 [Barca ngược dòng trong ba phút ở Champions League](https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html) - 23:02 09/12/2025
+- 👍 [Nhà vô địch marathon thế giới lỡ chiến thắng vì chơi đẹp](https://vnexpress.net/nha-vo-dich-marathon-the-gioi-lo-chien-thang-vi-choi-dep-4991823.html) - 22:53 09/12/2025
+- 💪 [Messi hay nhất MLS hai mùa liên tiếp](https://vnexpress.net/messi-hay-nhat-mls-hai-mua-lien-tiep-4991865.html) - 22:51 09/12/2025
+- 👹 [Tài năng 17 tuổi cứu Bayern ở Champions League](https://vnexpress.net/tai-nang-17-tuoi-cuu-bayern-o-champions-league-4991871.html) - 22:46 09/12/2025
 - 🧰 [Chelsea thua ngược ở Champions League](https://vnexpress.net/chelsea-thua-nguoc-o-champions-league-4991872.html) - 22:45 09/12/2025
-- 🥳 [Liverpool thắng Inter Milan ở Champions League](https://vnexpress.net/liverpool-thang-inter-milan-o-champions-league-4991869.html) - 22:31 09/12/2025
-- 👍 [11 ngôi sao hứa hẹn tỏa sáng tại SEA Games 33](https://vnexpress.net/11-ngoi-sao-hua-hen-toa-sang-tai-sea-games-33-4991520.html) - 17:11 09/12/2025
-- 💪 [Tiền vệ cao 1,64 m đe dọa chọc thủng lưới Việt Nam](https://vnexpress.net/tien-ve-cao-1-64-m-de-doa-choc-thung-luoi-viet-nam-4991642.html) - 17:00 09/12/2025
-- 👹 [Iran truy cứu vụ nữ runner không đội khăn trùm đầu](https://vnexpress.net/iran-truy-cuu-vu-nu-runner-khong-doi-khan-trum-dau-4991619.html) - 17:00 09/12/2025
-- 🧰 [Sắc màu truyền thống và hiện đại trong lễ khai mạc SEA Games 33](https://vnexpress.net/sac-mau-truyen-thong-va-hien-dai-trong-le-khai-mac-sea-games-33-4991843.html) - 16:13 09/12/2025
-- 🚀 [Lễ khai mạc SEA Games 33 có nhiều sự cố](https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677-tong-thuat.html) - 11:30 09/12/2025
-- 🎃 [8 trận cầu được chờ đợi nhất lượt sáu Champions League](https://vnexpress.net/8-tran-cau-duoc-cho-doi-nhat-luot-sau-champions-league-4990851.html) - 10:00 09/12/2025
-- 🧰 [Cầu thủ Việt Nam phủ nhận &#39;bắt tay&#39; Malaysia để loại Indonesia](https://vnexpress.net/cau-thu-viet-nam-phu-nhan-bat-tay-malaysia-de-loai-indonesia-4991766.html) - 09:43 09/12/2025
-- 👀 [Tranh cãi về số danh hiệu của Messi](https://vnexpress.net/tranh-cai-ve-so-danh-hieu-cua-messi-4991489.html) - 07:55 09/12/2025
-- 🌜 [Nhiều đoàn kiến nghị chuyện hậu cần SEA Games 33](https://vnexpress.net/nhieu-doan-kien-nghi-chuyen-hau-can-sea-games-33-4991633.html) - 07:04 09/12/2025
-- 🫶 [Có 3 phút nghỉ bắt buộc mỗi hiệp ở World Cup 2026](https://vnexpress.net/co-3-phut-nghi-bat-buoc-moi-hiep-o-world-cup-2026-4991398.html) - 07:00 09/12/2025
-- 🦄 [Tay vợt nữ gợi cảm cầm cờ cho Philippines ở SEA Games 33](https://vnexpress.net/tay-vot-nu-goi-cam-cam-co-cho-philippines-o-sea-games-33-4991367.html) - 07:00 09/12/2025
-- 🥳 [10 điểm nhấn ở vòng 15 Ngoại hạng Anh](https://vnexpress.net/10-diem-nhan-o-vong-15-ngoai-hang-anh-4990760.html) - 05:00 09/12/2025
-- 🐲 [Malaysia đối mặt những kịch bản nào khi kiện FIFA ra tòa?](https://vnexpress.net/malaysia-doi-mat-nhung-kich-ban-nao-khi-kien-fifa-ra-toa-4991253.html) - 03:25 09/12/2025
-- 🧑‍🏫 [Amorim: &#39;Man Utd cần thắng 20 trận liên tiếp&#39;](https://vnexpress.net/amorim-man-utd-can-thang-20-tran-lien-tiep-4991487.html) - 03:08 09/12/2025
-- 🤔 [Kịch bản nào để tuyển nữ Việt Nam đi tiếp ở SEA Games 33?](https://vnexpress.net/kich-ban-nao-de-tuyen-nu-viet-nam-di-tiep-o-sea-games-33-4991363.html) - 02:30 09/12/2025
-- 😺 [Việt Nam có thể đấu Thái Lan ở bán kết SEA Games 33](https://vnexpress.net/viet-nam-co-the-dau-thai-lan-o-ban-ket-sea-games-33-4991344.html) - 02:25 09/12/2025
-- 💪 [Báo Indonesia: &#39;Một thất bại cay đắng trong lịch sử SEA Games&#39;](https://vnexpress.net/bao-indonesia-mot-that-bai-cay-dang-trong-lich-su-sea-games-4991368.html) - 02:02 09/12/2025
-- 💼 [SEA Games 33 khai mạc hôm nay](https://vnexpress.net/sea-games-33-khai-mac-hom-nay-4991369.html) - 00:57 09/12/2025
-- 🕴 [Liverpool loại Salah khỏi trận gặp Inter ở Champions League](https://vnexpress.net/liverpool-loai-salah-khoi-tran-gap-inter-o-champions-league-4991377.html) - 23:12 08/12/2025
-- 🕯 [HLV Indonesia thừa nhận bất lực nếu Việt Nam thông đồng với Malaysia](https://vnexpress.net/hlv-indonesia-thua-nhan-bat-luc-neu-viet-nam-thong-dong-voi-malaysia-4991364.html) - 22:54 08/12/2025
-- 📝 [Slot sốc vì phát ngôn công kích của Salah](https://vnexpress.net/slot-soc-vi-phat-ngon-cong-kich-cua-salah-4991370.html) - 22:50 08/12/2025
-- 🧐 [Carragher: &#39;Salah chờ Liverpool đá tệ để phát ngôn&#39;](https://vnexpress.net/carragher-salah-cho-liverpool-da-te-de-phat-ngon-4991373.html) - 22:48 08/12/2025
-- 🙉 [Lĩnh 4 năm tù vì giả mang thai với Son Heung-min](https://vnexpress.net/linh-4-nam-tu-vi-gia-mang-thai-voi-son-heung-min-4991372.html) - 22:48 08/12/2025
-- 🏊 [Nữ cầu thủ Liverpool bị triệu phú quấy rối](https://vnexpress.net/nu-cau-thu-liverpool-bi-trieu-phu-quay-roi-4991374.html) - 22:43 08/12/2025
-- 🌊 [Man Utd đại thắng đội chót bảng Ngoại hạng Anh](https://vnexpress.net/man-utd-dai-thang-doi-chot-bang-ngoai-hang-anh-4991371.html) - 21:58 08/12/2025
-- 👨‍🏫 [HLV Mai Đức Chung: &#39;Trọng tài không công bằng, cầu thủ sai chiến thuật&#39;](https://vnexpress.net/hlv-mai-duc-chung-trong-tai-khong-cong-bang-cau-thu-sai-chien-thuat-4991340.html) - 14:59 08/12/2025
-- 🥷 [Đương kim vô địch Indonesia thua sốc ở SEA Games 33](https://vnexpress.net/duong-kim-vo-dich-indonesia-thua-soc-o-sea-games-33-4991327.html) - 12:58 08/12/2025
-- ⚗️ [Tuyển thủ Việt Nam sáng học online, chiều đá SEA Games 33](https://vnexpress.net/tuyen-thu-viet-nam-sang-hoc-online-chieu-da-sea-games-33-4991298.html) - 11:20 08/12/2025
-- 🌮 [Messi được khen vượt tầm vóc Pele ở MLS](https://vnexpress.net/messi-duoc-khen-vuot-tam-voc-pele-o-mls-4991268.html) - 11:05 08/12/2025
-- 🤩 [Nữ Việt Nam thua đau Philippines ở SEA Games 33](https://vnexpress.net/viet-nam-philippines-huynh-nhu-lai-du-bi-4991303-tong-thuat.html) - 10:47 08/12/2025
-- 🏊 [Malaysia chính thức kiện FIFA lên Tòa Trọng tài Thể thao](https://vnexpress.net/malaysia-chinh-thuc-kien-fifa-len-toa-trong-tai-the-thao-4991127.html) - 06:36 08/12/2025
-- 🐎 [Messi hướng đến World Cup 2026 bằng phong độ như thời ở Barca](https://vnexpress.net/messi-huong-den-world-cup-2026-bang-phong-do-nhu-thoi-o-barca-4991126.html) - 05:56 08/12/2025
-- 💫 [Thái Lan tăng cường bảo vệ đoàn thể thao Campuchia](https://vnexpress.net/thai-lan-tang-cuong-bao-ve-doan-the-thao-campuchia-4991096.html) - 05:05 08/12/2025<!-- vnexpress-the-thao:END -->
+- 🚀 [Liverpool thắng Inter Milan ở Champions League](https://vnexpress.net/liverpool-thang-inter-milan-o-champions-league-4991869.html) - 22:31 09/12/2025
+- 🎃 [11 ngôi sao hứa hẹn tỏa sáng tại SEA Games 33](https://vnexpress.net/11-ngoi-sao-hua-hen-toa-sang-tai-sea-games-33-4991520.html) - 17:11 09/12/2025
+- 🧰 [Tiền vệ cao 1,64 m đe dọa chọc thủng lưới Việt Nam](https://vnexpress.net/tien-ve-cao-1-64-m-de-doa-choc-thung-luoi-viet-nam-4991642.html) - 17:00 09/12/2025
+- 👀 [Iran truy cứu vụ nữ runner không đội khăn trùm đầu](https://vnexpress.net/iran-truy-cuu-vu-nu-runner-khong-doi-khan-trum-dau-4991619.html) - 17:00 09/12/2025
+- 🌜 [Sắc màu truyền thống và hiện đại trong lễ khai mạc SEA Games 33](https://vnexpress.net/sac-mau-truyen-thong-va-hien-dai-trong-le-khai-mac-sea-games-33-4991843.html) - 16:13 09/12/2025
+- 🫶 [Lễ khai mạc SEA Games 33 có nhiều sự cố](https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677-tong-thuat.html) - 11:30 09/12/2025
+- 🦄 [8 trận cầu được chờ đợi nhất lượt sáu Champions League](https://vnexpress.net/8-tran-cau-duoc-cho-doi-nhat-luot-sau-champions-league-4990851.html) - 10:00 09/12/2025
+- 🥳 [Cầu thủ Việt Nam phủ nhận &#39;bắt tay&#39; Malaysia để loại Indonesia](https://vnexpress.net/cau-thu-viet-nam-phu-nhan-bat-tay-malaysia-de-loai-indonesia-4991766.html) - 09:43 09/12/2025
+- 🐲 [Tranh cãi về số danh hiệu của Messi](https://vnexpress.net/tranh-cai-ve-so-danh-hieu-cua-messi-4991489.html) - 07:55 09/12/2025
+- 🧑‍🏫 [Nhiều đoàn kiến nghị chuyện hậu cần SEA Games 33](https://vnexpress.net/nhieu-doan-kien-nghi-chuyen-hau-can-sea-games-33-4991633.html) - 07:04 09/12/2025
+- 🤔 [Có 3 phút nghỉ bắt buộc mỗi hiệp ở World Cup 2026](https://vnexpress.net/co-3-phut-nghi-bat-buoc-moi-hiep-o-world-cup-2026-4991398.html) - 07:00 09/12/2025
+- 😺 [Tay vợt nữ gợi cảm cầm cờ cho Philippines ở SEA Games 33](https://vnexpress.net/tay-vot-nu-goi-cam-cam-co-cho-philippines-o-sea-games-33-4991367.html) - 07:00 09/12/2025
+- 💪 [10 điểm nhấn ở vòng 15 Ngoại hạng Anh](https://vnexpress.net/10-diem-nhan-o-vong-15-ngoai-hang-anh-4990760.html) - 05:00 09/12/2025
+- 💼 [Malaysia đối mặt những kịch bản nào khi kiện FIFA ra tòa?](https://vnexpress.net/malaysia-doi-mat-nhung-kich-ban-nao-khi-kien-fifa-ra-toa-4991253.html) - 03:25 09/12/2025
+- 🕴 [Amorim: &#39;Man Utd cần thắng 20 trận liên tiếp&#39;](https://vnexpress.net/amorim-man-utd-can-thang-20-tran-lien-tiep-4991487.html) - 03:08 09/12/2025
+- 🕯 [Kịch bản nào để tuyển nữ Việt Nam đi tiếp ở SEA Games 33?](https://vnexpress.net/kich-ban-nao-de-tuyen-nu-viet-nam-di-tiep-o-sea-games-33-4991363.html) - 02:30 09/12/2025
+- 📝 [Việt Nam có thể đấu Thái Lan ở bán kết SEA Games 33](https://vnexpress.net/viet-nam-co-the-dau-thai-lan-o-ban-ket-sea-games-33-4991344.html) - 02:25 09/12/2025
+- 🧐 [Báo Indonesia: &#39;Một thất bại cay đắng trong lịch sử SEA Games&#39;](https://vnexpress.net/bao-indonesia-mot-that-bai-cay-dang-trong-lich-su-sea-games-4991368.html) - 02:02 09/12/2025
+- 🙉 [SEA Games 33 khai mạc hôm nay](https://vnexpress.net/sea-games-33-khai-mac-hom-nay-4991369.html) - 00:57 09/12/2025
+- 🏊 [Liverpool loại Salah khỏi trận gặp Inter ở Champions League](https://vnexpress.net/liverpool-loai-salah-khoi-tran-gap-inter-o-champions-league-4991377.html) - 23:12 08/12/2025
+- 🌊 [HLV Indonesia thừa nhận bất lực nếu Việt Nam thông đồng với Malaysia](https://vnexpress.net/hlv-indonesia-thua-nhan-bat-luc-neu-viet-nam-thong-dong-voi-malaysia-4991364.html) - 22:54 08/12/2025
+- 👨‍🏫 [Slot sốc vì phát ngôn công kích của Salah](https://vnexpress.net/slot-soc-vi-phat-ngon-cong-kich-cua-salah-4991370.html) - 22:50 08/12/2025
+- 🥷 [Carragher: &#39;Salah chờ Liverpool đá tệ để phát ngôn&#39;](https://vnexpress.net/carragher-salah-cho-liverpool-da-te-de-phat-ngon-4991373.html) - 22:48 08/12/2025
+- ⚗️ [Lĩnh 4 năm tù vì giả mang thai với Son Heung-min](https://vnexpress.net/linh-4-nam-tu-vi-gia-mang-thai-voi-son-heung-min-4991372.html) - 22:48 08/12/2025
+- 🌮 [Nữ cầu thủ Liverpool bị triệu phú quấy rối](https://vnexpress.net/nu-cau-thu-liverpool-bi-trieu-phu-quay-roi-4991374.html) - 22:43 08/12/2025
+- 🤩 [Man Utd đại thắng đội chót bảng Ngoại hạng Anh](https://vnexpress.net/man-utd-dai-thang-doi-chot-bang-ngoai-hang-anh-4991371.html) - 21:58 08/12/2025
+- 🏊 [HLV Mai Đức Chung: &#39;Trọng tài không công bằng, cầu thủ sai chiến thuật&#39;](https://vnexpress.net/hlv-mai-duc-chung-trong-tai-khong-cong-bang-cau-thu-sai-chien-thuat-4991340.html) - 14:59 08/12/2025
+- 🐎 [Đương kim vô địch Indonesia thua sốc ở SEA Games 33](https://vnexpress.net/duong-kim-vo-dich-indonesia-thua-soc-o-sea-games-33-4991327.html) - 12:58 08/12/2025
+- 💫 [Tuyển thủ Việt Nam sáng học online, chiều đá SEA Games 33](https://vnexpress.net/tuyen-thu-viet-nam-sang-hoc-online-chieu-da-sea-games-33-4991298.html) - 11:20 08/12/2025<!-- vnexpress-the-thao:END -->
