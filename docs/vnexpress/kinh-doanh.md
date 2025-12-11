@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [Nhà nước sẽ tạm ứng chi phí phá sản cho doanh nghiệp không còn tiền](https://vnexpress.net/nha-nuoc-se-tam-ung-chi-phi-pha-san-cho-doanh-nghiep-khong-con-tien-4992571.html) - 07:21 11/12/2025
 - 🌮 [Quốc hội yêu cầu sớm lập sàn giao dịch vàng](https://vnexpress.net/quoc-hoi-yeu-cau-som-lap-san-giao-dich-vang-4992543.html) - 05:22 11/12/2025
 - 🧰 [TP HCM được lập khu thương mại tự do](https://vnexpress.net/tp-hcm-duoc-lap-khu-thuong-mai-tu-do-4992498.html) - 04:18 11/12/2025
-- 🤔 [Doanh nghiệp tư nhân được khuyến khích đầu tư điện hạt nhân module nhỏ](https://vnexpress.net/doanh-nghiep-tu-nhan-duoc-khuyen-khich-dau-tu-dien-hat-nhan-module-nho-4992469.html) - 04:02 11/12/2025
+- 🤔 [Doanh nghiệp tư nhân được khuyến khích đầu tư điện hạt nhân nhỏ](https://vnexpress.net/doanh-nghiep-tu-nhan-duoc-khuyen-khich-dau-tu-dien-hat-nhan-nho-4992469.html) - 04:02 11/12/2025
 - 🧑‍💻 [VNPAY đồng hành cùng hộ kinh doanh tiếp cận nộp thuế số](https://vnexpress.net/vnpay-dong-hanh-cung-ho-kinh-doanh-tiep-can-nop-thue-so-4992486.html) - 04:00 11/12/2025
 - 🕴 [Sàn chứng khoán có thêm doanh nghiệp vốn hóa tỷ USD](https://vnexpress.net/san-chung-khoan-co-them-doanh-nghiep-von-hoa-ty-usd-4992476.html) - 03:38 11/12/2025
 - 🦩 [Quốc hội chốt thêm 3 trường hợp Nhà nước thu hồi đất từ 2026](https://vnexpress.net/quoc-hoi-chot-them-3-truong-hop-nha-nuoc-thu-hoi-dat-tu-2026-4992444.html) - 03:09 11/12/2025
