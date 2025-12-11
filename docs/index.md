@@ -74,7 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Hà Nội được tăng gấp hai lần mức bồi thường cho dự án lớn](https://vnexpress.net/ha-noi-duoc-tang-gap-hai-lan-muc-boi-thuong-cho-du-an-lon-4992590.html) - 08:02 11/12/2025
 - 🎓 [Việt Nam giành HC vàng nội dung kata đồng đội nữ](https://vnexpress.net/viet-nam-gianh-hc-vang-noi-dung-kata-dong-doi-nu-4992616.html) - 08:01 11/12/2025
 - 💫 [Bị chồng ép &#39;gần gũi&#39; dù tôi đang bị bệnh hiểm nghèo](https://vnexpress.net/sex-bi-chong-ep-gan-gui-du-toi-dang-bi-benh-hiem-ngheo-4992593.html) - 08:00 11/12/2025
-- 🤩 [Việt Nam 2-0 Malaysia &lpar;H2&rpar;: Thế trận áp đảo](https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-4992581.html) - 08:00 11/12/2025
+- 🤩 [Việt Nam 2-0 Malaysia &lpar;H2&rpar;: Đình Bắc gây sóng gió](https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-4992581.html) - 08:00 11/12/2025
 - 🏊 [CTicket ra mắt tính năng bán vé dành riêng cho các giải Esports](https://vnexpress.net/cticket-ra-mat-tinh-nang-ban-ve-danh-rieng-cho-cac-giai-esports-4992611.html) - 08:00 11/12/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
