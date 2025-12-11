@@ -4,17 +4,17 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [TP HCM được lập khu thương mại tự do](https://vnexpress.net/tp-hcm-duoc-lap-khu-thuong-mai-tu-do-4992498.html) - 04:18 11/12/2025
-- 🐲 [Doanh nghiệp nhà nước, tư nhân được khuyến khích đầu tư điện hạt nhân module nhỏ](https://vnexpress.net/doanh-nghiep-nha-nuoc-tu-nhan-duoc-khuyen-khich-dau-tu-dien-hat-nhan-module-nho-4992469.html) - 04:02 11/12/2025
-- 🔥 [VNPAY đồng hành cùng hộ kinh doanh tiếp cận nộp thuế số](https://vnexpress.net/vnpay-dong-hanh-cung-ho-kinh-doanh-tiep-can-nop-thue-so-4992486.html) - 04:00 11/12/2025
-- 🐵 [Sàn chứng khoán có thêm doanh nghiệp vốn hóa tỷ USD](https://vnexpress.net/san-chung-khoan-co-them-doanh-nghiep-von-hoa-ty-usd-4992476.html) - 03:38 11/12/2025
-- 🦅 [Quốc hội chốt thêm 3 trường hợp Nhà nước thu hồi đất từ 2026](https://vnexpress.net/quoc-hoi-chot-them-3-truong-hop-nha-nuoc-thu-hoi-dat-tu-2026-4992444.html) - 03:09 11/12/2025
-- 😺 [Bỏ giấy phép kinh doanh cho 38 ngành, nghề](https://vnexpress.net/bo-giay-phep-kinh-doanh-cho-38-nganh-nghe-4992383.html) - 02:18 11/12/2025
-- 🤩 [Doanh nghiệp Việt cần đổi mới để thoát khỏi vị thế gia công](https://vnexpress.net/doanh-nghiep-viet-can-doi-moi-de-thoat-khoi-vi-the-gia-cong-4990933.html) - 02:00 11/12/2025
-- 🌮 [LPBank ra mắt công cụ quản lý dòng tiền cho doanh nghiệp](https://vnexpress.net/lpbank-ra-mat-cong-cu-quan-ly-dong-tien-cho-doanh-nghiep-4992326.html) - 02:00 11/12/2025
-- 🧰 [Giá vàng thế giới tăng sau khi Fed giảm lãi suất](https://vnexpress.net/gia-vang-the-gioi-tang-sau-khi-fed-giam-lai-suat-4992380.html) - 01:41 11/12/2025
-- 🤔 [Sona Gift ra mắt BST quà Tết doanh nghiệp thiết kế độc quyền](https://vnexpress.net/sona-gift-ra-mat-bst-qua-tet-doanh-nghiep-thiet-ke-doc-quyen-4990482.html) - 01:00 11/12/2025
-- 🧑‍💻 [&#39;Việt Nam có thể là cứ điểm trung tâm dữ liệu khu vực&#39;](https://vnexpress.net/viet-nam-co-the-la-cu-diem-trung-tam-du-lieu-khu-vuc-4972062.html) - 01:00 11/12/2025
+- ⛽️ [Quốc hội yêu cầu sớm lập sàn giao dịch vàng](https://vnexpress.net/quoc-hoi-yeu-cau-som-lap-san-giao-dich-vang-4992543.html) - 05:22 11/12/2025
+- 🐲 [TP HCM được lập khu thương mại tự do](https://vnexpress.net/tp-hcm-duoc-lap-khu-thuong-mai-tu-do-4992498.html) - 04:18 11/12/2025
+- 🔥 [Doanh nghiệp tư nhân được khuyến khích đầu tư điện hạt nhân module nhỏ](https://vnexpress.net/doanh-nghiep-tu-nhan-duoc-khuyen-khich-dau-tu-dien-hat-nhan-module-nho-4992469.html) - 04:02 11/12/2025
+- 🐵 [VNPAY đồng hành cùng hộ kinh doanh tiếp cận nộp thuế số](https://vnexpress.net/vnpay-dong-hanh-cung-ho-kinh-doanh-tiep-can-nop-thue-so-4992486.html) - 04:00 11/12/2025
+- 🦅 [Sàn chứng khoán có thêm doanh nghiệp vốn hóa tỷ USD](https://vnexpress.net/san-chung-khoan-co-them-doanh-nghiep-von-hoa-ty-usd-4992476.html) - 03:38 11/12/2025
+- 😺 [Quốc hội chốt thêm 3 trường hợp Nhà nước thu hồi đất từ 2026](https://vnexpress.net/quoc-hoi-chot-them-3-truong-hop-nha-nuoc-thu-hoi-dat-tu-2026-4992444.html) - 03:09 11/12/2025
+- 🤩 [Bỏ giấy phép kinh doanh cho 38 ngành, nghề](https://vnexpress.net/bo-giay-phep-kinh-doanh-cho-38-nganh-nghe-4992383.html) - 02:18 11/12/2025
+- 🌮 [Doanh nghiệp Việt cần đổi mới để thoát khỏi vị thế gia công](https://vnexpress.net/doanh-nghiep-viet-can-doi-moi-de-thoat-khoi-vi-the-gia-cong-4990933.html) - 02:00 11/12/2025
+- 🧰 [LPBank ra mắt công cụ quản lý dòng tiền cho doanh nghiệp](https://vnexpress.net/lpbank-ra-mat-cong-cu-quan-ly-dong-tien-cho-doanh-nghiep-4992326.html) - 02:00 11/12/2025
+- 🤔 [Giá vàng thế giới tăng sau khi Fed giảm lãi suất](https://vnexpress.net/gia-vang-the-gioi-tang-sau-khi-fed-giam-lai-suat-4992380.html) - 01:41 11/12/2025
+- 🧑‍💻 [Sona Gift ra mắt BST quà Tết doanh nghiệp thiết kế độc quyền](https://vnexpress.net/sona-gift-ra-mat-bst-qua-tet-doanh-nghiep-thiet-ke-doc-quyen-4990482.html) - 01:00 11/12/2025
 - 🕴 [Nhiều ngân hàng nâng lãi suất kỳ hạn ngắn lên kịch trần](https://vnexpress.net/nhieu-ngan-hang-nang-lai-suat-ky-han-ngan-len-kich-tran-4991491.html) - 23:05 10/12/2025
 - 🦩 [Bỏ thuế khoán, hộ kinh doanh tính thuế thế nào từ 2026?](https://vnexpress.net/bo-thue-khoan-ho-kinh-doanh-tinh-thue-the-nao-tu-2026-4992081.html) - 23:00 10/12/2025
 - 👍 [Fed giảm lãi suất 0,25%](https://vnexpress.net/fed-giam-lai-suat-0-25-4992335.html) - 19:16 10/12/2025
