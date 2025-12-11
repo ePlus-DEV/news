@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [VĐV Đông Nam Á đầu tiên chạy 100m dưới 10 giây](https://vnexpress.net/vdv-dong-nam-a-dau-tien-chay-100m-duoi-10-giay-4992555.html) - 13:09 11/12/2025
 - 🦩 [Nam Định thắng 9-0 vẫn bị loại ở Cup C2 châu Á](https://vnexpress.net/nam-dinh-thang-9-0-van-bi-loai-o-cup-c2-chau-a-4992804.html) - 12:59 11/12/2025
-- 🧰 [HLV Malaysia tiếc vì chơi tệ ở hiệp một trước Việt Nam](https://vnexpress.net/hlv-malaysia-tiec-vi-choi-te-o-hiep-mot-truoc-viet-nam-4992799.html) - 12:30 11/12/2025
+- 🧰 [HLV Malaysia thừa nhận sai sót trước Việt Nam](https://vnexpress.net/hlv-malaysia-thua-nhan-sai-sot-truoc-viet-nam-4992799.html) - 12:30 11/12/2025
 - 🤗 [Trưởng đoàn Campuchia: &#39;Chúng tôi đã hoàn thành nhiệm vụ tại SEA Games 33&#39;](https://vnexpress.net/truong-doan-campuchia-chung-toi-da-hoan-thanh-nhiem-vu-tai-sea-games-33-4992730.html) - 12:14 11/12/2025
 - 🥳 [HLV Kim muốn Việt Nam vô địch lần nữa ở Rajamangala](https://vnexpress.net/hlv-kim-muon-viet-nam-vo-dich-lan-nua-o-rajamangala-4992782.html) - 11:16 11/12/2025
 - 🦣 [Madueke: &#39;Arsenal muốn vô địch cả Champions League và Ngoại hạng Anh&#39;](https://vnexpress.net/madueke-arsenal-muon-vo-dich-ca-champions-league-va-ngoai-hang-anh-4992560.html) - 08:55 11/12/2025
@@ -19,7 +19,7 @@ sidebar_position: 5
 - 💫 [Guardiola &#39;xát muối&#39; vào vết thương của Real](https://vnexpress.net/guardiola-xat-muoi-vao-vet-thuong-cua-real-4992346.html) - 03:12 11/12/2025
 - 🦆 [Nguyễn Đình Bắc - quân Hậu của Việt Nam ở SEA Games 33](https://vnexpress.net/nguyen-dinh-bac-quan-hau-cua-viet-nam-o-sea-games-33-4992460.html) - 02:56 11/12/2025
 - 🙉 [Trận đấu ở nơi lạnh nhất lịch sử Champions League](https://vnexpress.net/tran-dau-o-noi-lanh-nhat-lich-su-champions-league-4992394.html) - 01:41 11/12/2025
-- 📝 [SEA Games ngày 11/12: Việt Nam bứt phá với thêm 9 HC vàng](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341.html) - 01:30 11/12/2025
+- 📝 [SEA Games ngày 11/12: Việt Nam bứt phá với thêm 10 HC vàng](https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341-tong-thuat.html) - 01:30 11/12/2025
 - 💯 [Trùng hợp thú vị của hai nữ VĐV mở hàng HC vàng cho Việt Nam](https://vnexpress.net/trung-hop-thu-vi-cua-hai-nu-vdv-mo-hang-hc-vang-cho-viet-nam-4992252.html) - 23:17 10/12/2025
 - 🌈 [Man City gieo sầu cho Real tại Bernabeu](https://vnexpress.net/man-city-gieo-sau-cho-real-tai-bernabeu-4992340.html) - 23:09 10/12/2025
 - 🦩 [Mourinho cùng Benfica thắng Napoli ở Champions League](https://vnexpress.net/mourinho-cung-benfica-thang-napoli-o-champions-league-4992338.html) - 22:52 10/12/2025
