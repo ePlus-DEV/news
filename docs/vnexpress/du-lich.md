@@ -8,7 +8,7 @@ sidebar_position: 11
 - 🪄 [Bắt cá đồng, ăn ong non ở rừng tràm U Minh Hạ](https://vnexpress.net/bat-ca-dong-an-ong-non-o-rung-tram-u-minh-ha-4991289.html) - 03:15 11/12/2025
 - 🦅 [Thói quen chen ra lối đi khi máy bay vừa hạ cánh](https://vnexpress.net/thoi-quen-chen-ra-loi-di-khi-may-bay-vua-ha-canh-4992320.html) - 03:02 11/12/2025
 - 🕴 [Đà Nẵng hình thành 60 mô hình du lịch nông thôn sau sáp nhập](https://vnexpress.net/da-nang-hinh-thanh-60-mo-hinh-du-lich-nong-thon-sau-sap-nhap-4992143.html) - 01:00 11/12/2025
-- 👀 [Ngôi làng nổi tiếng bán thịt chuột ở ngoại thành Hà Nội](https://vnexpress.net/ngoi-lang-noi-tieng-ban-thit-chuot-o-ngoai-thanh-ha-noi-4991169.html) - 23:00 10/12/2025
+- 👀 [Làng nổi tiếng bán thịt chuột ở ngoại thành Hà Nội](https://vnexpress.net/lang-noi-tieng-ban-thit-chuot-o-ngoai-thanh-ha-noi-4991169.html) - 23:00 10/12/2025
 - 🎭 [Mùa mai anh đào cuối cùng ở đồi chè Sa Pa trước khi bị di dời](https://vnexpress.net/mua-mai-anh-dao-cuoi-cung-o-doi-che-sa-pa-truoc-khi-bi-di-doi-4991963.html) - 17:00 10/12/2025
 - 🦒 [Du khách tắm trong &#39;nồi lẩu&#39; hai ngăn ở Trung Quốc](https://vnexpress.net/du-khach-tam-trong-noi-lau-hai-ngan-o-trung-quoc-4991276.html) - 13:00 10/12/2025
 - 👨‍🏫 [Núi Bà Đen đón khách trở lại sau hai tháng đóng cửa](https://vnexpress.net/nui-ba-den-don-khach-tro-lai-sau-hai-thang-dong-cua-4992291.html) - 12:44 10/12/2025
