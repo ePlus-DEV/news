@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Diễn từ Nobel Văn học &lpar;kỳ 1&rpar;: Thiên thần trên cao và những Elon Musk trần thế](https://vnexpress.net/dien-tu-nobel-van-hoc-ky-1-thien-than-tren-cao-va-nhung-elon-musk-tran-the-4992908.html) - 08:34 12/12/2025
 - 💫 [Tiên Nguyễn diện váy 4.000 USD đón khách trước tiệc cưới ở Đà Nẵng](https://vnexpress.net/tien-nguyen-dien-vay-4-000-usd-don-khach-truoc-tiec-cuoi-o-da-nang-4993086.html) - 08:12 12/12/2025
 - 🌮 [Thử phân biệt váy đắt tiền và bình dân](https://vnexpress.net/thu-phan-biet-vay-dat-tien-va-binh-dan-4992221.html) - 06:12 12/12/2025
-- 🧠 [&#39;Pretty Little Baby&#39; nổi tiếng toàn cầu sau 6 thập niên](https://vnexpress.net/pretty-little-baby-noi-tieng-toan-cau-sau-6-thap-nien-4992893.html) - 05:28 12/12/2025
+- 🧠 [&#39;Pretty Little Baby&#39; hút 68 tỷ view](https://vnexpress.net/pretty-little-baby-hut-68-ty-view-4992893.html) - 05:28 12/12/2025
 - 👨‍🏫 [Đỗ Thị Hải Yến - &#39;đôi mắt biết nói&#39; của điện ảnh Việt](https://vnexpress.net/do-thi-hai-yen-doi-mat-biet-noi-cua-dien-anh-viet-4988364.html) - 05:28 12/12/2025
 - ⚗️ [Dàn sao &#39;Reply 1988&#39; hội ngộ sau 10 năm](https://vnexpress.net/dan-sao-reply-1988-hoi-ngo-sau-10-nam-4992973.html) - 04:59 12/12/2025
 - 😎 [Hơn 70 hoa hậu các nước tôn vinh áo dài](https://vnexpress.net/hon-70-hoa-hau-cac-nuoc-ton-vinh-ao-dai-4992954.html) - 04:45 12/12/2025
