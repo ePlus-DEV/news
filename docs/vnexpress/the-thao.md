@@ -13,7 +13,7 @@ sidebar_position: 5
 - 🌜 [Ngày vàng của điền kinh Việt Nam ở SEA Games 33](https://vnexpress.net/ngay-vang-cua-dien-kinh-viet-nam-o-sea-games-33-4992863.html) - 03:19 12/12/2025
 - 🫶 [Nợ ròng Man Utd lần đầu vượt 1 tỷ USD](https://vnexpress.net/no-rong-man-utd-lan-dau-vuot-1-ty-usd-4992953.html) - 02:56 12/12/2025
 - 🌜 [Báo Malaysia: &#39;Việt Nam đã thuần hóa những chú Hổ&#39;](https://vnexpress.net/bao-malaysia-viet-nam-da-thuan-hoa-nhung-chu-ho-4992869.html) - 02:49 12/12/2025
-- 😺 [SEA Games ngày 12/12: Taekwondo, karate liên tiếp giành HC](https://vnexpress.net/sea-games-ngay-12-12-4992852.html) - 01:30 12/12/2025
+- 😺 [SEA Games ngày 12/12: Việt Nam đoạt 7 HC vàng](https://vnexpress.net/sea-games-ngay-12-12-4992852.html) - 01:30 12/12/2025
 - 👍 [Cú nhảy để đời giúp VĐV vô danh giành HC vàng SEA Games 33](https://vnexpress.net/cu-nhay-de-doi-giup-vdv-vo-danh-gianh-hc-vang-sea-games-33-4992854.html) - 01:20 12/12/2025
 - 🐵 [Antony đưa Betis vượt qua vòng bảng Europa League](https://vnexpress.net/antony-dua-betis-vuot-qua-vong-bang-europa-league-4992868.html) - 00:49 12/12/2025
 - 💫 [Nguyễn Đình Bắc và 45 phút tra tấn hàng thủ Malaysia](https://vnexpress.net/nguyen-dinh-bac-va-45-phut-tra-tan-hang-thu-malaysia-4992825.html) - 23:50 11/12/2025
