@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [VN-Index giảm hơn 60 điểm](https://vnexpress.net/chung-khoan-hom-nay-12-12-vn-index-giam-hon-60-diem-4993112.html) - 07:45 12/12/2025
+- ⛽️ [VN-Index giảm mạnh nhất gần hai tháng](https://vnexpress.net/chung-khoan-hom-nay-12-12-vn-index-giam-hon-60-diem-4993112.html) - 07:45 12/12/2025
 - 🐲 [Hơn 2.300 tỷ đồng đầu tư khu công nghiệp ở Tây Ninh](https://vnexpress.net/hon-2-300-ty-dong-dau-tu-khu-cong-nghiep-o-tay-ninh-4993061.html) - 07:03 12/12/2025
 - 🔥 [Thủ tướng yêu cầu thu hồi suất mua nhà ở xã hội nếu phát hiện kê khai sai](https://vnexpress.net/thu-tuong-yeu-cau-thu-hoi-suat-mua-nha-o-xa-hoi-neu-phat-hien-ke-khai-sai-4993065.html) - 06:05 12/12/2025
 - 🐵 [Tài chính Mirae Asset cải thiện chất lượng tín dụng](https://vnexpress.net/tai-chinh-mirae-asset-cai-thien-chat-luong-tin-dung-4993029.html) - 05:00 12/12/2025
