@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Indonesia - Myanmar: Indonesia cầu nguyện trước buổi tập cuối](https://vnexpress.net/indonesia-myanmar-4993095.html) - 10:31 12/12/2025
+- 🪜 [Indonesia 0-0 Myanmar: Indonesia đá ba tiền đạo, tấn công phủ đầu](https://vnexpress.net/indonesia-myanmar-4993095.html) - 10:31 12/12/2025
 - 🦩 [HLV Malaysia bị tố ép VĐV giả chấn thương, loại khỏi SEA Games](https://vnexpress.net/hlv-malaysia-bi-to-ep-vdv-gia-chan-thuong-loai-khoi-sea-games-4992995.html) - 07:53 12/12/2025
 - 🧰 [Nhà vô địch bắn súng SEA Games bớt run khi nghe tiếng hô &#39;Việt Nam&#39;](https://vnexpress.net/nha-vo-dich-ban-sung-sea-games-bot-run-khi-nghe-tieng-ho-viet-nam-4993072.html) - 06:51 12/12/2025
 - 🤗 [CLB Saudi Arabia chê Salah vì quá già](https://vnexpress.net/clb-saudi-arabia-che-salah-vi-qua-gia-4993057.html) - 05:12 12/12/2025
@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫶 [Ngày vàng của điền kinh Việt Nam ở SEA Games 33](https://vnexpress.net/ngay-vang-cua-dien-kinh-viet-nam-o-sea-games-33-4992863.html) - 03:19 12/12/2025
 - 🌜 [Nợ ròng Man Utd lần đầu vượt 1 tỷ USD](https://vnexpress.net/no-rong-man-utd-lan-dau-vuot-1-ty-usd-4992953.html) - 02:56 12/12/2025
 - 😺 [Báo Malaysia: &#39;Việt Nam đã thuần hóa những chú Hổ&#39;](https://vnexpress.net/bao-malaysia-viet-nam-da-thuan-hoa-nhung-chu-ho-4992869.html) - 02:49 12/12/2025
-- 👍 [SEA Games ngày 12/12: Việt Nam đoạt 7 HC vàng](https://vnexpress.net/sea-games-ngay-12-12-4992852.html) - 01:30 12/12/2025
+- 👍 [SEA Games ngày 12/12: Em trai Ánh Viên đoạt HC vàng](https://vnexpress.net/sea-games-ngay-12-12-4992852.html) - 01:30 12/12/2025
 - 🐵 [Cú nhảy để đời giúp VĐV vô danh giành HC vàng SEA Games 33](https://vnexpress.net/cu-nhay-de-doi-giup-vdv-vo-danh-gianh-hc-vang-sea-games-33-4992854.html) - 01:20 12/12/2025
 - 💫 [Antony đưa Betis vượt qua vòng bảng Europa League](https://vnexpress.net/antony-dua-betis-vuot-qua-vong-bang-europa-league-4992868.html) - 00:49 12/12/2025
 - 🦆 [Nguyễn Đình Bắc và 45 phút tra tấn hàng thủ Malaysia](https://vnexpress.net/nguyen-dinh-bac-va-45-phut-tra-tan-hang-thu-malaysia-4992825.html) - 23:50 11/12/2025
