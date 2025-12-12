@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Xác định hai cặp bán kết bóng đá nam SEA Games 33](https://vnexpress.net/xac-dinh-hai-cap-ban-ket-bong-da-nam-sea-games-33-4993255.html) - 14:50 12/12/2025
+- 🪜 [Xác định hai trận bán kết bóng đá nam SEA Games 33](https://vnexpress.net/xac-dinh-hai-tran-ban-ket-bong-da-nam-sea-games-33-4993255.html) - 14:50 12/12/2025
 - 🦩 [Võ sĩ Campuchia về nước vẫn có tên trong trận chung kết SEA Games 33](https://vnexpress.net/vo-si-campuchia-ve-nuoc-van-co-ten-trong-tran-chung-ket-sea-games-33-4993200.html) - 11:59 12/12/2025
-- 🧰 [Indonesia bị loại khỏi SEA Games 33](https://vnexpress.net/indonesia-myanmar-4993095-tong-thuat.html) - 10:31 12/12/2025
+- 🧰 [ĐKVĐ Indonesia bị loại khỏi SEA Games 33](https://vnexpress.net/indonesia-myanmar-4993095-tong-thuat.html) - 10:31 12/12/2025
 - 🤗 [HLV Malaysia bị tố ép VĐV giả chấn thương, loại khỏi SEA Games](https://vnexpress.net/hlv-malaysia-bi-to-ep-vdv-gia-chan-thuong-loai-khoi-sea-games-4992995.html) - 07:53 12/12/2025
 - 🥳 [Nhà vô địch bắn súng SEA Games bớt run khi nghe tiếng hô &#39;Việt Nam&#39;](https://vnexpress.net/nha-vo-dich-ban-sung-sea-games-bot-run-khi-nghe-tieng-ho-viet-nam-4993072.html) - 06:51 12/12/2025
 - 🦣 [CLB Saudi Arabia chê Salah vì quá già](https://vnexpress.net/clb-saudi-arabia-che-salah-vi-qua-gia-4993057.html) - 05:12 12/12/2025
