@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Bốn con giáp kiếm tiền ầm ầm vào cuối tuần](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-bon-con-giap-vuot-qua-ap-luc-kiem-tien-am-am-vao-cuoi-tuan-4992756.html) - 17:02 12/12/2025
-- 🐎 [Công ty giày da chi hơn 700 tỷ đồng thưởng Tết](https://vnexpress.net/cong-ty-giay-da-chi-hon-700-ty-dong-thuong-tet-4993257.html) - 17:00 12/12/2025
+- 🐎 [Công ty da giày chi hơn 700 tỷ đồng thưởng Tết](https://vnexpress.net/cong-ty-da-giay-chi-hon-700-ty-dong-thuong-tet-4993257.html) - 17:00 12/12/2025
 - 🦍 [Đề xuất vé xe buýt 1-3 ngày, dùng chung metro ở TP HCM](https://vnexpress.net/de-xuat-ve-xe-buyt-1-3-ngay-dung-chung-metro-o-tp-hcm-4993239.html) - 17:00 12/12/2025
 - 🏊 [Kẻ giấu thi thể mẹ trong vườn bị phạt án chung thân](https://vnexpress.net/ke-giau-thi-the-me-trong-vuon-bi-phat-an-chung-than-4993232.html) - 17:00 12/12/2025
 - 🎊 [Cặp đôi dùng giấy tờ giả mua đất vẫn được cấp sổ đỏ, lừa ngân hàng](https://vnexpress.net/cap-doi-dung-giay-to-gia-mua-dat-van-duoc-cap-so-do-lua-ngan-hang-4993211.html) - 17:00 12/12/2025
