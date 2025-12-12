@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Long Thành sẽ là điểm đến hàng không hàng đầu Đông Nam Á](https://vnexpress.net/long-thanh-se-la-diem-den-hang-khong-hang-dau-dong-nam-a-4992898.html) - 02:52 12/12/2025
+- 🦒 [Long Thành hướng tới điểm đến hàng không hàng đầu Đông Nam Á](https://vnexpress.net/long-thanh-huong-toi-diem-den-hang-khong-hang-dau-dong-nam-a-4992898.html) - 02:52 12/12/2025
 - 🤓 [Đà Nẵng thưởng tối đa 5 triệu đồng mỗi tháng cho cán bộ xuất sắc](https://vnexpress.net/da-nang-thuong-toi-da-5-trieu-dong-moi-thang-cho-can-bo-xuat-sac-4992845.html) - 02:28 12/12/2025
 - ⚗️ [Kè biển 35 tỷ đồng chưa nghiệm thu bị sóng đánh hư hỏng](https://vnexpress.net/ke-bien-35-ty-dong-chua-nghiem-thu-bi-song-danh-hu-hong-4992814.html) - 01:00 12/12/2025
 - 🌊 [Cà Mau xây dựng vùng nuôi cua biển 50.000 ha phục vụ xuất khẩu](https://vnexpress.net/ca-mau-xay-dung-vung-nuoi-cua-bien-50-000-ha-phuc-vu-xuat-khau-4992813.html) - 18:00 11/12/2025
