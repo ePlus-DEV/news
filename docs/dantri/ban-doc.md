@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Dấu hiệu Giết người vụ đẩy CSGT vào đầu xe tải](https://dantri.com.vn/ban-doc/dau-hieu-giet-nguoi-vu-day-csgt-vao-dau-xe-tai-20251212103956724.htm) - 03:45 12/12/2025
+- 🦒 [Dấu hiệu giết người vụ đẩy CSGT vào đầu xe tải](https://dantri.com.vn/ban-doc/dau-hieu-giet-nguoi-vu-day-csgt-vao-dau-xe-tai-20251212103956724.htm) - 03:45 12/12/2025
 - 🤓 [Tàu hỏa dừng khẩn cấp để tránh ô tô: Nữ tài xế có phải bồi thường?](https://dantri.com.vn/ban-doc/tau-hoa-dung-khan-cap-de-tranh-o-to-nu-tai-xe-co-phai-boi-thuong-20251211215936665.htm) - 01:40 12/12/2025
 - 🐻 [Vụ từ chối trông giữ xe điện: Lo lắng của chung cư là chính đáng!](https://dantri.com.vn/ban-doc/vu-tu-choi-trong-giu-xe-dien-lo-lang-cua-chung-cu-la-chinh-dang-20251212050324091.htm) - 23:49 11/12/2025
 - 🏊 [Ban quản lý chợ phải kiểm điểm vì thu phí vệ sinh sai quy định](https://dantri.com.vn/ban-doc/ban-quan-ly-cho-phai-kiem-diem-vi-thu-phi-ve-sinh-sai-quy-dinh-20251211171702769.htm) - 23:00 11/12/2025
