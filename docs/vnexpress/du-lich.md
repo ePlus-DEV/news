@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [Cẩm nang du lịch làng gốm Bát Tràng](https://vnexpress.net/cam-nang-du-lich-lang-gom-bat-trang-4991663.html) - 05:18 12/12/2025
 - 🕴 [Nỗi khổ của du khách mang cuốn hộ chiếu &#39;yếu&#39;](https://vnexpress.net/noi-kho-cua-du-khach-mang-cuon-ho-chieu-yeu-4992905.html) - 04:54 12/12/2025
 - 👀 [Vì sao nấm truffle đắt đỏ?](https://vnexpress.net/vi-sao-nam-truffle-dat-do-4991235.html) - 02:00 12/12/2025
-- 🎭 [&#39;Ngõ Noel&#39; 100 m hút nghìn khách check in mỗi ngày](https://vnexpress.net/ngo-noel-100-m-hut-nghin-khach-check-in-moi-ngay-4992290.html) - 23:00 11/12/2025
+- 🎭 [Khách đổ đến check in &#39;ngõ Noel&#39; dài 100 m](https://vnexpress.net/khach-do-den-check-in-ngo-noel-dai-100-m-4992290.html) - 23:00 11/12/2025
 - 🦒 [Các món ăn Việt vào bảng xếp hạng ngon nhất thế giới 2025](https://vnexpress.net/cac-mon-an-viet-vao-bang-xep-hang-ngon-nhat-the-gioi-2025-4992443.html) - 17:00 11/12/2025
 - 👨‍🏫 [Raclette - món phomat &#39;cạo&#39; nóng chảy mùa Giáng sinh](https://vnexpress.net/raclette-mon-phomat-cao-nong-chay-mua-giang-sinh-4991296.html) - 13:00 11/12/2025
 - ⚗️ [Nhiệt độ kỷ lục ở nơi lạnh nhất thế giới có người sống là bao nhiêu?](https://vnexpress.net/nhiet-do-ky-luc-o-noi-lanh-nhat-the-gioi-co-nguoi-song-la-bao-nhieu-4992726.html) - 12:00 11/12/2025
