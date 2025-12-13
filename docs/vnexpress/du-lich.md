@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách quốc tế thứ 20 triệu đến Phú Quốc vào 15/12](https://vnexpress.net/khach-quoc-te-thu-20-trieu-den-phu-quoc-vao-15-12-4993375.html) - 04:25 13/12/2025
+- 💂 [Việt Nam đón khách quốc tế thứ 20 triệu](https://vnexpress.net/viet-nam-don-khach-quoc-te-thu-20-trieu-4993375.html) - 04:25 13/12/2025
 - 🪄 [Quán bún nước lèo hơn 40 năm hút khách ở Cà Mau](https://vnexpress.net/quan-bun-nuoc-leo-hon-40-nam-hut-khach-o-ca-mau-4992279.html) - 23:00 12/12/2025
 - 🦅 [Lý do trứng cá tầm Beluga đắt nhất thế giới](https://vnexpress.net/ly-do-trung-ca-tam-beluga-dat-nhat-the-gioi-4991249.html) - 17:00 12/12/2025
 - 🕴 [Tạp chí nước ngoài bày cách du lịch Việt Nam giá rẻ](https://vnexpress.net/tap-chi-nuoc-ngoai-bay-cach-du-lich-viet-nam-gia-re-4992644.html) - 12:00 12/12/2025
