@@ -54,7 +54,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Thí sinh rối bời khi Đại học Quốc gia TP HCM đổi cách xét tuyển](https://vnexpress.net/thi-sinh-roi-boi-khi-dai-hoc-quoc-gia-tp-hcm-doi-cach-xet-tuyen-4993480.html) - 12:50 13/12/2025
 - 📝 [Hàng chục nghìn khán giả chờ xem concert Mỹ Tâm](https://vnexpress.net/hang-chuc-nghin-khan-gia-cho-xem-concert-my-tam-4993504.html) - 12:45 13/12/2025
 - 🕴 [Vietjet thúc đẩy sáng tạo Việt Nam - Ấn Độ qua cuộc thi &#39;Chuyến bay khởi nghiệp&#39;](https://vnexpress.net/vietjet-thuc-day-sang-tao-viet-nam-an-do-qua-cuoc-thi-chuyen-bay-khoi-nghiep-4993498.html) - 12:30 13/12/2025
-- 🐲 [Thủ tướng: Cả xã hội đổi mới sáng tạo, đất nước sẽ chuyển mình mạnh mẽ](https://vnexpress.net/le-khai-mac-techfest-viet-nam-2025-4993447.html) - 12:28 13/12/2025
+- 🐲 [Thủ tướng: Cả xã hội đổi mới sáng tạo, đất nước sẽ chuyển mình mạnh mẽ](https://vnexpress.net/le-khai-mac-techfest-viet-nam-2025-4993447-tong-thuat.html) - 12:28 13/12/2025
 - 🌜 [Vườn nho ở TP HCM hút khách đến check-in](https://vnexpress.net/vuon-nho-o-tp-hcm-hut-khach-den-check-in-4989059.html) - 12:25 13/12/2025
 - 💄 [Nhóm thanh thiếu niên vây đánh người trước cổng tòa án](https://vnexpress.net/nhom-thanh-thieu-nien-vay-danh-nguoi-truoc-cong-toa-an-4993494.html) - 12:03 13/12/2025
 - 🌁 [Nhập khẩu dừa, cau tăng trên 300%](https://vnexpress.net/nhap-khau-dua-cau-tang-tren-300-4993435.html) - 12:00 13/12/2025
