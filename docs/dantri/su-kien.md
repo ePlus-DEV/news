@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Người đàn ông ở Tây Ninh chém vợ rồi tự đâm vào mình](https://dantri.com.vn/phap-luat/nguoi-dan-ong-o-tay-ninh-chem-vo-roi-tu-dam-vao-minh-20251213092547398.htm) - 03:07 13/12/2025
 - 👨‍🏫 [Hé lộ nội dung chính của Diễn đàn ESG Việt Nam 2025 ngày 22/12](https://dantri.com.vn/kinh-doanh/he-lo-noi-dung-chinh-cua-dien-dan-esg-viet-nam-2025-ngay-2212-20251213014121619.htm) - 01:18 13/12/2025
-- 🌮 [Nhật ký SEA Games 33 ngày 13/12: Huy Hoàng, Mỹ Tiên vào chung kết](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1312-huy-hoang-my-tien-vao-chung-ket-20251213063709461.htm) - 23:37 12/12/2025
+- 🌮 [Nhật ký SEA Games 33 ngày 13/12: Mộng Tuyền, Thanh Thảo giành HCB đồng đội](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1312-mong-tuyen-thanh-thao-gianh-hcb-dong-doi-20251213063709461.htm) - 23:37 12/12/2025
 - 🕯 [Vợ chồng khuyết tật nặng cầm cố nhà cửa để 2 con có cơ hội đi học](https://dantri.com.vn/tam-long-nhan-ai/vo-chong-khuyet-tat-nang-cam-co-nha-cua-de-2-con-co-co-hoi-di-hoc-20251203165331763.htm) - 22:30 12/12/2025
 - 🪜 [Được bạn đọc giúp đỡ, người bố mù để dành tiền tiết kiệm cho các con](https://dantri.com.vn/tam-long-nhan-ai/duoc-ban-doc-giup-do-nguoi-bo-mu-de-danh-tien-tiet-kiem-cho-cac-con-20251212212605707.htm) - 22:00 12/12/2025
 - 🐘 [Bảng tổng sắp huy chương SEA Games 33 ngày 12/12: Việt Nam đã có 24 HCV](https://dantri.com.vn/the-thao/bang-tong-sap-huy-chuong-sea-games-33-ngay-1212-viet-nam-da-co-24-hcv-20251212224632611.htm) - 16:03 12/12/2025
