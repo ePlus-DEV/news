@@ -23,7 +23,7 @@ sidebar_position: 5
 - 💯 [Messi ra mắt tượng cao 21 m tại Ấn Độ](https://vnexpress.net/messi-ra-mat-tuong-cao-21-m-tai-an-do-4993341.html) - 03:21 13/12/2025
 - 🌈 [Salah trở lại đội hình Liverpool](https://vnexpress.net/salah-tro-lai-doi-hinh-liverpool-4993316.html) - 02:23 13/12/2025
 - 🦩 [&#39;Hot girl vượt rào&#39; không hối tiếc dù tuột HC vàng SEA Games](https://vnexpress.net/hot-girl-vuot-rao-khong-hoi-tiec-du-tuot-hc-vang-sea-games-4993244.html) - 02:02 13/12/2025
-- 🐲 [SEA Games ngày 13/12: Việt Nam giành thêm 6 HC vàng](https://vnexpress.net/truc-tiep-sea-games-ngay-13-12-4993296-tong-thuat.html) - 01:30 13/12/2025
+- 🐲 [SEA Games ngày 13/12: Việt Nam tụt xuống sau Thái Lan và Indonesia](https://vnexpress.net/truc-tiep-sea-games-ngay-13-12-4993296-tong-thuat.html) - 01:30 13/12/2025
 - 🌁 [Nghi vấn lượng người xem kỷ lục trận Messi vô địch Cup MLS](https://vnexpress.net/nghi-van-luong-nguoi-xem-ky-luc-tran-messi-vo-dich-cup-mls-4993306.html) - 01:17 13/12/2025
 - 💯 [Benzema: &#39;Alonso không định hướng cho Mbappe, Vinicius hay Bellingham được đâu&#39;](https://vnexpress.net/benzema-alonso-khong-dinh-huong-cho-mbappe-vinicius-hay-bellingham-duoc-dau-4993297.html) - 00:45 13/12/2025
 - 🌝 [HLV Cameroon từ chối bị sa thải, chỉ trích Chủ tịch Eto’o tự luyến](https://vnexpress.net/hlv-cameroon-tu-choi-bi-sa-thai-chi-trich-chu-tich-eto-o-tu-luyen-4993287.html) - 00:15 13/12/2025
