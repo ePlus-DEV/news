@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Nữ Việt Nam thắng Indonesia 5-0, vào chung kết SEA Games](https://vnexpress.net/truc-tiep-tran-nu-viet-nam-vs-nu-indonesia-4993696-tong-thuat.html) - 08:45 14/12/2025
 - 🌜 [Bóng chuyền nữ Việt Nam vào chung kết SEA Games 33](https://vnexpress.net/bong-chuyen-nu-viet-nam-vao-chung-ket-sea-games-33-4993683.html) - 07:53 14/12/2025
 - 🫶 [HLV Philippines muốn đá sòng phẳng với Việt Nam ở bán kết SEA Games 33](https://vnexpress.net/hlv-philippines-muon-da-song-phang-voi-viet-nam-o-ban-ket-sea-games-33-4993679.html) - 07:41 14/12/2025
-- 🌜 [Bóng cố định: Ăn may hay vũ khí của Việt Nam?](https://vnexpress.net/bong-co-dinh-an-may-hay-vu-khi-cua-viet-nam-4993665.html) - 06:07 14/12/2025
+- 🌜 [Giải mật thể thao: Vũ khí bóng cố định của Việt Nam ở SEA Games 33](https://vnexpress.net/giai-mat-the-thao-vu-khi-bong-co-dinh-cua-viet-nam-o-sea-games-33-4993665.html) - 06:07 14/12/2025
 - 😺 [HLV Kim ba lần nói &#39;nhất định thắng lợi&#39; trước bán kết SEA Games 33](https://vnexpress.net/hlv-kim-ba-lan-noi-nhat-dinh-thang-loi-truoc-ban-ket-sea-games-33-4993663.html) - 05:50 14/12/2025
 - 👍 [Arteta chê Arsenal phòng ngự &#39;không thể chấp nhận&#39;](https://vnexpress.net/arteta-che-arsenal-phong-ngu-khong-the-chap-nhan-4993599.html) - 05:30 14/12/2025
 - 🐵 [VĐV 9 tuổi thi đấu SEA Games 33](https://vnexpress.net/vdv-9-tuoi-thi-dau-sea-games-33-4993607.html) - 05:13 14/12/2025
