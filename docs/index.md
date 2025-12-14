@@ -314,56 +314,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Bóng chuyền Italy chắc chắn có CLB vô địch thế giới](https://www.sggp.org.vn/bong-chuyen-italy-chac-chan-co-clb-vo-dich-the-gioi-post828650.html) - 07:03 14/12/2025
-- 🌝 [Cầu mây Việt Nam nhận HCB khi thua Thái Lan ở chung kết đầu tiên](https://www.sggp.org.vn/cau-may-viet-nam-nhan-hcb-khi-thua-thai-lan-o-chung-ket-dau-tien-post828649.html) - 06:46 14/12/2025
-- 💃 [Cùng chứng kiến màn toả sáng của Trịnh Thu Vinh và Nguyễn Thùy Trang](https://www.sggp.org.vn/cung-chung-kien-man-toa-sang-cua-trinh-thu-vinh-va-nguyen-thuy-trang-post828647.html) - 06:27 14/12/2025
-- 🧑‍💻 [Vị nữ chuyên gia âm thầm sau tấm HCV SEA Games 33 của tổ súng ngắn nữ](https://www.sggp.org.vn/vi-nu-chuyen-gia-am-tham-sau-tam-hcv-sea-games-33-cua-to-sung-ngan-nu-post828646.html) - 06:27 14/12/2025
-- 🌊 [Bà Lê Nữ Thùy Dương được phong tặng danh hiệu Anh hùng Lao động](https://www.sggp.org.vn/ba-le-nu-thuy-duong-duoc-phong-tang-danh-hieu-anh-hung-lao-dong-post828639.html) - 06:14 14/12/2025
-- 🧑‍💻 [Bản tin trưa 14-12: Hà Nội rét mướt, nhiệt độ từ 12 đến 21 độ C](https://www.sggp.org.vn/ban-tin-trua-14-12-ha-noi-ret-muot-nhiet-do-tu-12-den-21-do-c-post828634.html) - 06:00 14/12/2025
-- ⛽️ [Trịnh Thu Vinh tiết lộ bí quyết phá kỷ lục SEA Games cá nhân 10m súng ngắn nữ](https://www.sggp.org.vn/trinh-thu-vinh-tiet-lo-bi-quyet-pha-ky-luc-sea-games-ca-nhan-10m-sung-ngan-nu-post828642.html) - 05:53 14/12/2025
-- 😎 [Ngày Chủ nhật xanh gắn kết cộng đồng phường Bình Lợi Trung](https://www.sggp.org.vn/ngay-chu-nhat-xanh-gan-ket-cong-dong-phuong-binh-loi-trung-post828619.html) - 05:52 14/12/2025
-- 🌜 [Khắc phục và tiếp tục theo dõi hố sụt lún trên quốc lộ 49](https://www.sggp.org.vn/khac-phuc-va-tiep-tuc-theo-doi-ho-sut-lun-tren-quoc-lo-49-post828635.html) - 05:52 14/12/2025
-- 💻 [Vệ sinh di tích lịch sử cách mạng cấp Quốc gia Nhà má Tám Nhung đón Tết](https://www.sggp.org.vn/ve-sinh-di-tich-lich-su-cach-mang-cap-quoc-gia-nha-ma-tam-nhung-don-tet-post828622.html) - 05:49 14/12/2025
-- 👍 [Gia Lai: Tai nạn nghiêm trọng làm 3 người tử vong](https://www.sggp.org.vn/gia-lai-tai-nan-nghiem-trong-lam-3-nguoi-tu-vong-post828607.html) - 05:47 14/12/2025
-- 🦆 [Ban tổ chức SEA Games 33 tôn vinh Hoàng Xuân Vinh](https://www.sggp.org.vn/ban-to-chuc-sea-games-33-ton-vinh-hoang-xuan-vinh-post828637.html) - 05:35 14/12/2025
-- 🦩 [Podcast tin trưa 14-12: Con rể trộm hơn 200 triệu đồng của nhà vợ khai gì?](https://www.sggp.org.vn/podcast-tin-trua-14-12-con-re-trom-hon-200-trieu-dong-cua-nha-vo-khai-gi-post828636.html) - 05:33 14/12/2025
-- 🥰 [Pedri phá kỷ lục của Messi trong trận thắng Osasuna](https://www.sggp.org.vn/pedri-pha-ky-luc-cua-messi-trong-tran-thang-osasuna-post828640.html) - 05:31 14/12/2025
-- 🎬 [Sôi nổi Ngày hội Toán học mở TPHCM năm 2025](https://www.sggp.org.vn/soi-noi-ngay-hoi-toan-hoc-mo-tphcm-nam-2025-post828627.html) - 04:49 14/12/2025
-- 🦩 [Nâng cao nhận thức để phụ nữ làm chủ không gian số](https://www.sggp.org.vn/nang-cao-nhan-thuc-de-phu-nu-lam-chu-khong-gian-so-post828624.html) - 04:44 14/12/2025
-- 🌮 [Flamengo đánh bại Pyramids giành quyền vào chung kết Cúp Liên lục địa](https://www.sggp.org.vn/flamengo-danh-bai-pyramids-gianh-quyen-vao-chung-ket-cup-lien-luc-dia-post828632.html) - 04:44 14/12/2025
-- 👍 [Phường Bình Dương: Khai mạc Đại hội Thể dục Thể thao lần thứ I, năm 2025](https://www.sggp.org.vn/phuong-binh-duong-khai-mac-dai-hoi-the-duc-the-thao-lan-thu-i-nam-2025-post828625.html) - 04:36 14/12/2025
-- 🦒 [Chuyện gì đã xảy ra?](https://www.sggp.org.vn/chuyen-gi-da-xay-ra-post828628.html) - 04:33 14/12/2025
-- 🤡 [Trịnh Thu Vinh và đồng đội phá kỷ lục SEA Games, giành HCV quan trọng 10m súng ngắn hơi](https://www.sggp.org.vn/trinh-thu-vinh-va-dong-doi-pha-ky-luc-sea-games-gianh-hcv-quan-trong-10m-sung-ngan-hoi-post828626.html) - 04:29 14/12/2025
-- 🐎 [Anh Phan Duy Bằng làm Bí thư Tỉnh đoàn An Giang](https://www.sggp.org.vn/anh-phan-duy-bang-lam-bi-thu-tinh-doan-an-giang-post828618.html) - 04:20 14/12/2025
-- 🦆 [Phường Tây Nam khai mạc Đại hội Thể thao lần thứ I năm 2025](https://www.sggp.org.vn/phuong-tay-nam-khai-mac-dai-hoi-the-thao-lan-thu-i-nam-2025-post828616.html) - 04:17 14/12/2025
-- 🦅 [Đức bắt giữ 5 nghi can âm mưu tấn công khủng bố tại chợ Giáng sinh](https://www.sggp.org.vn/duc-bat-giu-5-nghi-can-am-muu-tan-cong-khung-bo-tai-cho-giang-sinh-post828623.html) - 04:11 14/12/2025
-- 🫣 [Việt Nam có số ca mắc và tử vong do ung thư tăng nhanh](https://www.sggp.org.vn/viet-nam-co-so-ca-mac-va-tu-vong-do-ung-thu-tang-nhanh-post828621.html) - 04:10 14/12/2025
-- 🎭 [Khai mạc “Light Up Festive - Bình Trưng 2025”, thắp sáng mùa lễ hội](https://www.sggp.org.vn/khai-mac-light-up-festive-binh-trung-2025-thap-sang-mua-le-hoi-post828563.html) - 03:19 14/12/2025
-- 🫶 [Chương trình ca nhạc “Quê hương, tình yêu và tuổi trẻ” tại phường Bình Dương](https://www.sggp.org.vn/chuong-trinh-ca-nhac-que-huong-tinh-yeu-va-tuoi-tre-tai-phuong-binh-duong-post828573.html) - 03:11 14/12/2025
-- 🎓 [Nội dung marathon và đi bộ 20km thi đấu vào chiều tối](https://www.sggp.org.vn/noi-dung-marathon-va-di-bo-20km-thi-dau-vao-chieu-toi-post828617.html) - 03:10 14/12/2025
-- 🤡 [Thảo “bò vàng” và cảm xúc về đấu trường SEA Games](https://www.sggp.org.vn/thao-bo-vang-va-cam-xuc-ve-dau-truong-sea-games-post828615.html) - 03:09 14/12/2025
-- 🦅 [Dấu ấn của những kỷ lục](https://www.sggp.org.vn/dau-an-cua-nhung-ky-luc-post828620.html) - 03:08 14/12/2025
-- 🧑‍🏫 [Tác giả 9X viết sách khơi gợi yêu thương từ những điều bình dị](https://www.sggp.org.vn/tac-gia-9x-viet-sach-khoi-goi-yeu-thuong-tu-nhung-dieu-binh-di-post828571.html) - 03:07 14/12/2025
-- 🕴 [Anh trai “say hi” lộ diện quán quân, có giải thưởng đặc biệt](https://www.sggp.org.vn/anh-trai-say-hi-lo-dien-quan-quan-co-giai-thuong-dac-biet-post828611.html) - 03:00 14/12/2025
-- 🦆 [Sinh viên tốt nghiệp xuất sắc được hỗ trợ 150 triệu đồng khi tuyển dụng](https://www.sggp.org.vn/sinh-vien-tot-nghiep-xuat-sac-duoc-ho-tro-150-trieu-dong-khi-tuyen-dung-post828566.html) - 02:52 14/12/2025
-- 🎃 [Dậy sớm đi bộ góp hơn 3,9 tỷ đồng chăm lo người yếu thế](https://www.sggp.org.vn/day-som-di-bo-gop-hon-39-ty-dong-cham-lo-nguoi-yeu-the-post828614.html) - 02:52 14/12/2025
-- 🌮 [Ca sĩ, nhạc sĩ Huỳnh Đức: Góp phần lan tỏa giá trị âm nhạc truyền thống](https://www.sggp.org.vn/ca-si-nhac-si-huynh-duc-gop-phan-lan-toa-gia-tri-am-nhac-truyen-thong-post828580.html) - 02:46 14/12/2025
+- 🪜 [Mỹ Tâm lập kỷ lục liveshow cá nhân quy mô nhất Việt Nam với 40.000 khán giả](https://www.sggp.org.vn/my-tam-lap-ky-luc-liveshow-ca-nhan-quy-mo-nhat-viet-nam-voi-40000-khan-gia-post828633.html) - 08:02 14/12/2025
+- 🌝 [Lấy ý kiến đoàn viên, người lao động về Dự thảo Điều lệ Công đoàn Việt Nam &lpar;sửa đổi&rpar;](https://www.sggp.org.vn/lay-y-kien-doan-vien-nguoi-lao-dong-ve-du-thao-dieu-le-cong-doan-viet-nam-sua-doi-post828648.html) - 07:58 14/12/2025
+- 💃 [An Giang “chạy nước rút” trước ngày thông xe cao tốc Châu Đốc - Cần Thơ - Sóc Trăng](https://www.sggp.org.vn/an-giang-chay-nuoc-rut-truoc-ngay-thong-xe-cao-toc-chau-doc-can-tho-soc-trang-post828638.html) - 07:55 14/12/2025
+- 🧑‍💻 [Cổ động viên Việt Nam nhiệt tình cổ vũ đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng ở bán kết](https://www.sggp.org.vn/co-dong-vien-viet-nam-nhiet-tinh-co-vu-doi-tuyen-bong-chuyen-nu-viet-nam-gianh-chien-thang-o-ban-ket-post828654.html) - 07:51 14/12/2025
+- 🌊 [HLV Kim Sang-sik nhắc U22 Việt Nam không chủ quan trước U22 Philippines](https://www.sggp.org.vn/hlv-kim-sang-sik-nhac-u22-viet-nam-khong-chu-quan-truoc-u22-philippines-post828653.html) - 07:50 14/12/2025
+- 🧑‍💻 [Đội tuyển bóng chuyền nữ Việt Nam hoàn thành chỉ tiêu vào chung kết SEA Games 33](https://www.sggp.org.vn/doi-tuyen-bong-chuyen-nu-viet-nam-hoan-thanh-chi-tieu-vao-chung-ket-sea-games-33-post828652.html) - 07:49 14/12/2025
+- ⛽️ [Đồng loạt ra quân “Tình nguyện mùa Đông 2025 – Xuân tình nguyện 2026” trên hai tuyến biên giới](https://www.sggp.org.vn/dong-loat-ra-quan-tinh-nguyen-mua-dong-2025-xuan-tinh-nguyen-2026-tren-hai-tuyen-bien-gioi-post828630.html) - 07:30 14/12/2025
+- 😎 [10 công ty công nghệ làm hạt nhân mạng lưới đổi mới sáng tạo y tế](https://www.sggp.org.vn/10-cong-ty-cong-nghe-lam-hat-nhan-mang-luoi-doi-moi-sang-tao-y-te-post828645.html) - 07:29 14/12/2025
+- 🌜 [Chắp cánh ước mơ cho thế hệ trẻ](https://www.sggp.org.vn/chap-canh-uoc-mo-cho-the-he-tre-post828629.html) - 07:23 14/12/2025
+- 💻 [Thủ tướng Phạm Minh Chính dự lễ khánh thành nhà máy điện LNG đầu tiên của Việt Nam](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-du-le-khanh-thanh-nha-may-dien-lng-dau-tien-cua-viet-nam-post828644.html) - 07:15 14/12/2025
+- 👍 [Kịp thời khống chế đám cháy ở ngôi nhà 3 tầng giữa đô thị Quy Nhơn &lpar;Gia Lai&rpar;](https://www.sggp.org.vn/kip-thoi-khong-che-dam-chay-o-ngoi-nha-3-tang-giua-do-thi-quy-nhon-gia-lai-post828641.html) - 07:12 14/12/2025
+- 🦆 [Bóng chuyền Italy chắc chắn có CLB vô địch thế giới](https://www.sggp.org.vn/bong-chuyen-italy-chac-chan-co-clb-vo-dich-the-gioi-post828650.html) - 07:03 14/12/2025
+- 🦩 [Cầu mây Việt Nam nhận HCB khi thua Thái Lan ở chung kết đầu tiên](https://www.sggp.org.vn/cau-may-viet-nam-nhan-hcb-khi-thua-thai-lan-o-chung-ket-dau-tien-post828649.html) - 06:46 14/12/2025
+- 🥰 [Cùng chứng kiến màn toả sáng của Trịnh Thu Vinh và Nguyễn Thùy Trang](https://www.sggp.org.vn/cung-chung-kien-man-toa-sang-cua-trinh-thu-vinh-va-nguyen-thuy-trang-post828647.html) - 06:27 14/12/2025
+- 🎬 [Vị nữ chuyên gia âm thầm sau tấm HCV SEA Games 33 của tổ súng ngắn nữ](https://www.sggp.org.vn/vi-nu-chuyen-gia-am-tham-sau-tam-hcv-sea-games-33-cua-to-sung-ngan-nu-post828646.html) - 06:27 14/12/2025
+- 🦩 [Bà Lê Nữ Thùy Dương được phong tặng danh hiệu Anh hùng Lao động](https://www.sggp.org.vn/ba-le-nu-thuy-duong-duoc-phong-tang-danh-hieu-anh-hung-lao-dong-post828639.html) - 06:14 14/12/2025
+- 🌮 [Bản tin trưa 14-12: Hà Nội rét mướt, nhiệt độ từ 12 đến 21 độ C](https://www.sggp.org.vn/ban-tin-trua-14-12-ha-noi-ret-muot-nhiet-do-tu-12-den-21-do-c-post828634.html) - 06:00 14/12/2025
+- 👍 [Trịnh Thu Vinh tiết lộ bí quyết phá kỷ lục SEA Games cá nhân 10m súng ngắn nữ](https://www.sggp.org.vn/trinh-thu-vinh-tiet-lo-bi-quyet-pha-ky-luc-sea-games-ca-nhan-10m-sung-ngan-nu-post828642.html) - 05:53 14/12/2025
+- 🦒 [Ngày Chủ nhật xanh gắn kết cộng đồng phường Bình Lợi Trung](https://www.sggp.org.vn/ngay-chu-nhat-xanh-gan-ket-cong-dong-phuong-binh-loi-trung-post828619.html) - 05:52 14/12/2025
+- 🤡 [Khắc phục và tiếp tục theo dõi hố sụt lún trên quốc lộ 49](https://www.sggp.org.vn/khac-phuc-va-tiep-tuc-theo-doi-ho-sut-lun-tren-quoc-lo-49-post828635.html) - 05:52 14/12/2025
+- 🐎 [Vệ sinh di tích lịch sử cách mạng cấp Quốc gia Nhà má Tám Nhung đón Tết](https://www.sggp.org.vn/ve-sinh-di-tich-lich-su-cach-mang-cap-quoc-gia-nha-ma-tam-nhung-don-tet-post828622.html) - 05:49 14/12/2025
+- 🦆 [Gia Lai: Tai nạn nghiêm trọng làm 3 người tử vong](https://www.sggp.org.vn/gia-lai-tai-nan-nghiem-trong-lam-3-nguoi-tu-vong-post828607.html) - 05:47 14/12/2025
+- 🦅 [Ban tổ chức SEA Games 33 tôn vinh Hoàng Xuân Vinh](https://www.sggp.org.vn/ban-to-chuc-sea-games-33-ton-vinh-hoang-xuan-vinh-post828637.html) - 05:35 14/12/2025
+- 🫣 [Podcast tin trưa 14-12: Con rể trộm hơn 200 triệu đồng của nhà vợ khai gì?](https://www.sggp.org.vn/podcast-tin-trua-14-12-con-re-trom-hon-200-trieu-dong-cua-nha-vo-khai-gi-post828636.html) - 05:33 14/12/2025
+- 🎭 [Pedri phá kỷ lục của Messi trong trận thắng Osasuna](https://www.sggp.org.vn/pedri-pha-ky-luc-cua-messi-trong-tran-thang-osasuna-post828640.html) - 05:31 14/12/2025
+- 🫶 [Sôi nổi Ngày hội Toán học mở TPHCM năm 2025](https://www.sggp.org.vn/soi-noi-ngay-hoi-toan-hoc-mo-tphcm-nam-2025-post828627.html) - 04:49 14/12/2025
+- 🎓 [Nâng cao nhận thức để phụ nữ làm chủ không gian số](https://www.sggp.org.vn/nang-cao-nhan-thuc-de-phu-nu-lam-chu-khong-gian-so-post828624.html) - 04:44 14/12/2025
+- 🤡 [Flamengo đánh bại Pyramids giành quyền vào chung kết Cúp Liên lục địa](https://www.sggp.org.vn/flamengo-danh-bai-pyramids-gianh-quyen-vao-chung-ket-cup-lien-luc-dia-post828632.html) - 04:44 14/12/2025
+- 🦅 [Phường Bình Dương: Khai mạc Đại hội Thể dục Thể thao lần thứ I, năm 2025](https://www.sggp.org.vn/phuong-binh-duong-khai-mac-dai-hoi-the-duc-the-thao-lan-thu-i-nam-2025-post828625.html) - 04:36 14/12/2025
+- 🧑‍🏫 [Chuyện gì đã xảy ra?](https://www.sggp.org.vn/chuyen-gi-da-xay-ra-post828628.html) - 04:33 14/12/2025
+- 🕴 [Trịnh Thu Vinh và đồng đội phá kỷ lục SEA Games, giành HCV quan trọng 10m súng ngắn hơi](https://www.sggp.org.vn/trinh-thu-vinh-va-dong-doi-pha-ky-luc-sea-games-gianh-hcv-quan-trong-10m-sung-ngan-hoi-post828626.html) - 04:29 14/12/2025
+- 🦆 [Anh Phan Duy Bằng làm Bí thư Tỉnh đoàn An Giang](https://www.sggp.org.vn/anh-phan-duy-bang-lam-bi-thu-tinh-doan-an-giang-post828618.html) - 04:20 14/12/2025
+- 🎃 [Phường Tây Nam khai mạc Đại hội Thể thao lần thứ I năm 2025](https://www.sggp.org.vn/phuong-tay-nam-khai-mac-dai-hoi-the-thao-lan-thu-i-nam-2025-post828616.html) - 04:17 14/12/2025
+- 🌮 [Đức bắt giữ 5 nghi can âm mưu tấn công khủng bố tại chợ Giáng sinh](https://www.sggp.org.vn/duc-bat-giu-5-nghi-can-am-muu-tan-cong-khung-bo-tai-cho-giang-sinh-post828623.html) - 04:11 14/12/2025
+- 🥰 [Việt Nam có số ca mắc và tử vong do ung thư tăng nhanh](https://www.sggp.org.vn/viet-nam-co-so-ca-mac-va-tu-vong-do-ung-thu-tang-nhanh-post828621.html) - 04:10 14/12/2025
+- 🕯 [Khai mạc “Light Up Festive - Bình Trưng 2025”, thắp sáng mùa lễ hội](https://www.sggp.org.vn/khai-mac-light-up-festive-binh-trung-2025-thap-sang-mua-le-hoi-post828563.html) - 03:19 14/12/2025
+- 🙉 [Chương trình ca nhạc “Quê hương, tình yêu và tuổi trẻ” tại phường Bình Dương](https://www.sggp.org.vn/chuong-trinh-ca-nhac-que-huong-tinh-yeu-va-tuoi-tre-tai-phuong-binh-duong-post828573.html) - 03:11 14/12/2025
+- 💡 [Nội dung marathon và đi bộ 20km thi đấu vào chiều tối](https://www.sggp.org.vn/noi-dung-marathon-va-di-bo-20km-thi-dau-vao-chieu-toi-post828617.html) - 03:10 14/12/2025
+- 💫 [Thảo “bò vàng” và cảm xúc về đấu trường SEA Games](https://www.sggp.org.vn/thao-bo-vang-va-cam-xuc-ve-dau-truong-sea-games-post828615.html) - 03:09 14/12/2025
+- 🧑‍💻 [Dấu ấn của những kỷ lục](https://www.sggp.org.vn/dau-an-cua-nhung-ky-luc-post828620.html) - 03:08 14/12/2025
+- 🎊 [Tác giả 9X viết sách khơi gợi yêu thương từ những điều bình dị](https://www.sggp.org.vn/tac-gia-9x-viet-sach-khoi-goi-yeu-thuong-tu-nhung-dieu-binh-di-post828571.html) - 03:07 14/12/2025
+- 🤖 [Anh trai “say hi” lộ diện quán quân, có giải thưởng đặc biệt](https://www.sggp.org.vn/anh-trai-say-hi-lo-dien-quan-quan-co-giai-thuong-dac-biet-post828611.html) - 03:00 14/12/2025
+- 💫 [Sinh viên tốt nghiệp xuất sắc được hỗ trợ 150 triệu đồng khi tuyển dụng](https://www.sggp.org.vn/sinh-vien-tot-nghiep-xuat-sac-duoc-ho-tro-150-trieu-dong-khi-tuyen-dung-post828566.html) - 02:52 14/12/2025
+- 👨‍🏫 [Dậy sớm đi bộ góp hơn 3,9 tỷ đồng chăm lo người yếu thế](https://www.sggp.org.vn/day-som-di-bo-gop-hon-39-ty-dong-cham-lo-nguoi-yeu-the-post828614.html) - 02:52 14/12/2025
+- 🧰 [Ca sĩ, nhạc sĩ Huỳnh Đức: Góp phần lan tỏa giá trị âm nhạc truyền thống](https://www.sggp.org.vn/ca-si-nhac-si-huynh-duc-gop-phan-lan-toa-gia-tri-am-nhac-truyen-thong-post828580.html) - 02:46 14/12/2025
 - 🥰 [Số trẻ mắc tay chân miệng chuyển nặng có xu hướng gia tăng](https://www.sggp.org.vn/so-tre-mac-tay-chan-mieng-chuyen-nang-co-xu-huong-gia-tang-post828576.html) - 02:45 14/12/2025
-- 🕯 [NSƯT Tuyết Thu: Vai diễn khác biệt tính cách cho tôi nhiều “đất” diễn](https://www.sggp.org.vn/nsut-tuyet-thu-vai-dien-khac-biet-tinh-cach-cho-toi-nhieu-dat-dien-post828579.html) - 02:45 14/12/2025
-- 🙉 [Phim Lằn ranh: Nóng những chuyện thời sự](https://www.sggp.org.vn/phim-lan-ranh-nong-nhung-chuyen-thoi-su-post828578.html) - 02:45 14/12/2025
-- 💡 [Đinh Phương Thành, người đi xuyên kỷ lục](https://www.sggp.org.vn/dinh-phuong-thanh-nguoi-di-xuyen-ky-luc-post828583.html) - 02:45 14/12/2025
-- 💫 [Trẻ em và áp lực vô hình từ mạng xã hội](https://www.sggp.org.vn/tre-em-va-ap-luc-vo-hinh-tu-mang-xa-hoi-post828588.html) - 02:45 14/12/2025
-- 🧑‍💻 [Bắc bộ rét đậm, Trung bộ có mưa, Nam bộ nắng ráo](https://www.sggp.org.vn/bac-bo-ret-dam-trung-bo-co-mua-nam-bo-nang-rao-post828598.html) - 02:40 14/12/2025
-- 🎊 [Chỉ định bà Phan Thị Thúy Linh giữ chức Chủ tịch Liên đoàn Lao động TP Đà Nẵng](https://www.sggp.org.vn/chi-dinh-ba-phan-thi-thuy-linh-giu-chuc-chu-tich-lien-doan-lao-dong-tp-da-nang-post828592.html) - 02:38 14/12/2025
-- 🤖 [Juventus từ chối lời đề nghị mua lại trị giá 1,2 tỷ USD](https://www.sggp.org.vn/juventus-tu-choi-loi-de-nghi-mua-lai-tri-gia-12-ty-usd-post828613.html) - 01:55 14/12/2025
-- 💫 [Thái Lan xin lỗi sự việc bản đồ Việt Nam không hiển thị đúng tại lễ khai mạc SEA Games 33](https://www.sggp.org.vn/thai-lan-xin-loi-su-viec-ban-do-viet-nam-khong-hien-thi-dung-tai-le-khai-mac-sea-games-33-post828612.html) - 01:54 14/12/2025
-- 👨‍🏫 [Võ sĩ jujitsu, taekwondo về nước còn tuyển thủ đấu kiếm, triathlon lên đường tranh tài SEA Games 33](https://www.sggp.org.vn/vo-si-jujitsu-taekwondo-ve-nuoc-con-tuyen-thu-dau-kiem-triathlon-len-duong-tranh-tai-sea-games-33-post828610.html) - 01:53 14/12/2025
-- 🧰 [Mikel Arteta chỉ trích lối phòng ngự của Arsenal](https://www.sggp.org.vn/mikel-arteta-chi-trich-loi-phong-ngu-cua-arsenal-post828609.html) - 01:25 14/12/2025
-- 🥰 [Saigon Co.op khởi động chương trình tiếp sức người lao động về quê đón Tết 2026](https://www.sggp.org.vn/saigon-coop-khoi-dong-chuong-trinh-tiep-suc-nguoi-lao-dong-ve-que-don-tet-2026-post828562.html) - 01:07 14/12/2025
-- 💼 [Xả súng ở Mỹ, 10 người thương vong](https://www.sggp.org.vn/xa-sung-o-my-10-nguoi-thuong-vong-post828605.html) - 00:55 14/12/2025
-- 🤗 [Tổng thống Mỹ cam kết đáp trả vụ 3 người Mỹ thiệt mạng tại Syria](https://www.sggp.org.vn/tong-thong-my-cam-ket-dap-tra-vu-3-nguoi-my-thiet-mang-tai-syria-post828600.html) - 00:52 14/12/2025
-- 🦩 [Raphinha lập cú đúp giúp Barcelona tạo cách biệt 7 điểm](https://www.sggp.org.vn/raphinha-lap-cu-dup-giup-barcelona-tao-cach-biet-7-diem-post828606.html) - 00:41 14/12/2025
-- 🫶 [Tour GOAT tại Ấn Độ của Lionel Messi mở màn trong hỗn loạn](https://www.sggp.org.vn/tour-goat-tai-an-do-cua-lionel-messi-mo-man-trong-hon-loan-post828604.html) - 00:41 14/12/2025<!-- sggp:END -->
+- 💼 [NSƯT Tuyết Thu: Vai diễn khác biệt tính cách cho tôi nhiều “đất” diễn](https://www.sggp.org.vn/nsut-tuyet-thu-vai-dien-khac-biet-tinh-cach-cho-toi-nhieu-dat-dien-post828579.html) - 02:45 14/12/2025
+- 🤗 [Phim Lằn ranh: Nóng những chuyện thời sự](https://www.sggp.org.vn/phim-lan-ranh-nong-nhung-chuyen-thoi-su-post828578.html) - 02:45 14/12/2025
+- 🦩 [Đinh Phương Thành, người đi xuyên kỷ lục](https://www.sggp.org.vn/dinh-phuong-thanh-nguoi-di-xuyen-ky-luc-post828583.html) - 02:45 14/12/2025
+- 🫶 [Trẻ em và áp lực vô hình từ mạng xã hội](https://www.sggp.org.vn/tre-em-va-ap-luc-vo-hinh-tu-mang-xa-hoi-post828588.html) - 02:45 14/12/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
