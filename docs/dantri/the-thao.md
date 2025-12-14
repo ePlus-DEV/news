@@ -5,12 +5,12 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Xem trực tiếp trận tuyển nữ Việt Nam gặp Indonesia ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-indonesia-o-dau-20251214132401507.htm) - 06:24 14/12/2025
-- 💯 [HLV Kim Sang Sik: &quot;Mục tiêu của U22 Việt Nam không dừng lại ở bán kết&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-muc-tieu-cua-u22-viet-nam-khong-dung-lai-o-ban-ket-1436415254.htm) - 05:55 14/12/2025
+- 💯 [HLV Kim Sang Sik: &quot;Mục tiêu của U22 Việt Nam cao hơn vòng bán kết&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-muc-tieu-cua-u22-viet-nam-cao-hon-vong-ban-ket-1436415254.htm) - 05:55 14/12/2025
 - ⛽️ [Mohamed Salah phá kỷ lục mọi thời đại ở Premier League](https://dantri.com.vn/the-thao/mohamed-salah-pha-ky-luc-moi-thoi-dai-o-premier-league-20251214081732151.htm) - 05:00 14/12/2025
 - 💃 [CĐV Ấn Độ nổi giận ném ghế, chai lọ khiến Messi hốt hoảng rút lui khẩn cấp](https://dantri.com.vn/the-thao/cdv-an-do-noi-gian-nem-ghe-chai-lo-khien-messi-hot-hoang-rut-lui-khan-cap-20251214110422782.htm) - 04:07 14/12/2025
 - 🌈 [Ban tổ chức SEA Games 33 xin lỗi Việt Nam về sai sót bản đồ lãnh thổ](https://dantri.com.vn/the-thao/ban-to-chuc-sea-games-33-xin-loi-viet-nam-ve-sai-sot-ban-do-lanh-tho-20251214085936516.htm) - 02:01 14/12/2025
 - 🦅 [Cận cảnh bữa ăn của VĐV Việt Nam ở SEA Games: Nhập gia tùy tục](https://dantri.com.vn/the-thao/can-canh-bua-an-cua-vdv-viet-nam-o-sea-games-nhap-gia-tuy-tuc-20251214024106073.htm) - 00:16 14/12/2025
-- 🌝 [Nhật ký SEA Games 33 ngày 14/12: Trịnh Thu Vinh lập cú đúp HCV, phá kỷ lục](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1412-trinh-thu-vinh-lap-cu-dup-hcv-pha-ky-luc-20251214065907178.htm) - 00:00 14/12/2025
+- 🌝 [Nhật ký SEA Games 33 ngày 14/12: Bóng chuyền nữ vào chung kết](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1412-bong-chuyen-nu-vao-chung-ket-20251214065907178.htm) - 00:00 14/12/2025
 - 🚀 [Arsenal đánh bại đội cuối bảng nhờ cú đúp phản lưới nhà](https://dantri.com.vn/the-thao/arsenal-danh-bai-doi-cuoi-bang-nho-cu-dup-phan-luoi-nha-20251214062739221.htm) - 23:27 13/12/2025
 - 🎉 [Raphinha giúp Barcelona tiếp tục dẫn đầu La Liga, bỏ xa Real Madrid](https://dantri.com.vn/the-thao/raphinha-giup-barcelona-tiep-tuc-dan-dau-la-liga-bo-xa-real-madrid-20251214061723255.htm) - 23:17 13/12/2025
 - 📝 [Chelsea áp đảo Everton, vững bước trong cuộc đua top 4](https://dantri.com.vn/the-thao/chelsea-ap-dao-everton-vung-buoc-trong-cuoc-dua-top-4-20251214061150756.htm) - 23:12 13/12/2025
