@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hòa Minzy cổ vũ Mỹ Tâm nhiệt tình nhưng xin về sớm để... đón con](https://dantri.com.vn/giai-tri/hoa-minzy-co-vu-my-tam-nhiet-tinh-nhung-xin-ve-som-de-don-con-20251214102942935.htm) - 04:05 14/12/2025
-- 🔥 [Mỹ Tâm khoe eo thon, &quot;cháy&quot; hết mình trong đêm nhạc 40.000 khán giả](https://dantri.com.vn/giai-tri/my-tam-khoe-eo-thon-chay-het-minh-trong-dem-nhac-40000-khan-gia-20251214092154979.htm) - 03:10 14/12/2025
-- 🚀 [Gia đình cố nghệ sĩ Thương Tín cảnh báo lừa đảo sau tang lễ](https://dantri.com.vn/giai-tri/gia-dinh-co-nghe-si-thuong-tin-canh-bao-lua-dao-sau-tang-le-20251214075937779.htm) - 02:21 14/12/2025
+- 🤩 [Gia đình cố nghệ sĩ Thương Tín cảnh báo lừa đảo sau tang lễ](https://dantri.com.vn/giai-tri/gia-dinh-co-nghe-si-thuong-tin-canh-bao-lua-dao-sau-tang-le-20251214075937779.htm) - 04:21 14/12/2025
+- 🔥 [Hòa Minzy cổ vũ Mỹ Tâm nhiệt tình nhưng xin về sớm để... đón con](https://dantri.com.vn/giai-tri/hoa-minzy-co-vu-my-tam-nhiet-tinh-nhung-xin-ve-som-de-don-con-20251214102942935.htm) - 04:05 14/12/2025
+- 🚀 [Mỹ Tâm khoe eo thon, &quot;cháy&quot; hết mình trong đêm nhạc 40.000 khán giả](https://dantri.com.vn/giai-tri/my-tam-khoe-eo-thon-chay-het-minh-trong-dem-nhac-40000-khan-gia-20251214092154979.htm) - 03:10 14/12/2025
 - 🔥 [Hành trình “80 năm, một Việt Nam vững tin”](https://dantri.com.vn/giai-tri/hanh-trinh-80-nam-mot-viet-nam-vung-tin-20251213173643991.htm) - 01:01 14/12/2025
 - 🌈 [Rapper Negav gây tranh cãi khi đăng quang &quot;Anh trai say hi&quot; mùa 2](https://dantri.com.vn/giai-tri/rapper-negav-gay-tranh-cai-khi-dang-quang-anh-trai-say-hi-mua-2-20251213192147847.htm) - 23:18 13/12/2025
 - 📝 [Mỹ Tâm khoe ảnh tình tứ với Mai Tài Phến, gọi tên anh ở concert](https://dantri.com.vn/giai-tri/my-tam-khoe-anh-tinh-tu-voi-mai-tai-phen-goi-ten-anh-o-concert-20251214013706395.htm) - 23:16 13/12/2025
