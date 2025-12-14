@@ -406,7 +406,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phó Thủ tướng Thường trực kiểm tra tình hình sản xuất kinh doanh Cảng container Quốc tế Hateco Hải Phòng](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-kiem-tra-tinh-hinh-san-xuat-kinh-doanh-cang-container-quoc-te-hateco-hai-phong-102251214214321897.htm) - 21:43 14/12/2025
+- 💻 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình thăm Cảng container Quốc tế Hateco Hải Phòng](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-kiem-tra-tinh-hinh-san-xuat-kinh-doanh-cang-container-quoc-te-hateco-hai-phong-102251214214321897.htm) - 21:43 14/12/2025
 - 🌜 [Sẵn sàng nguồn điện an toàn, chất lượng cao phục vụ Sân bay quốc tế Long Thành](https://baochinhphu.vn/san-sang-nguon-dien-an-toan-chat-luong-cao-phuc-vu-san-bay-quoc-te-long-thanh-10225121420084345.htm) - 21:22 14/12/2025
 - 🦆 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình thăm Công ty VinFast](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-tham-cong-ty-vinfast-va-cang-container-quoc-te-hateco-hai-phong-102251214185232646.htm) - 21:18 14/12/2025
 - 🌝 [Thắng Indonesia 5-0, Đội tuyển nữ Việt Nam lần thứ 5 liên tiếp vào chung kết SEA Games](https://baochinhphu.vn/thang-indonesia-5-0-doi-tuyen-nu-viet-nam-lan-thu-5-lien-tiep-vao-chung-ket-sea-games-102251214201038189.htm) - 20:35 14/12/2025
