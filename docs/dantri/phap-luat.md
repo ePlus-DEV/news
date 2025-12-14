@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Một thanh niên tử vong trong vụ hỗn chiến tại TPHCM](https://dantri.com.vn/phap-luat/mot-thanh-nien-tu-vong-trong-vu-hon-chien-tai-tphcm-20251214213651838.htm) - 15:14 14/12/2025
-- 🐲 [Xét xử 28 bị cáo trong vụ án xảy ra tại TAND cấp cao ở Đà Nẵng](https://dantri.com.vn/phap-luat/xet-xu-28-bi-cao-trong-vu-an-xay-ra-tai-tand-cap-cao-o-da-nang-20251214201510085.htm) - 13:26 14/12/2025
+- 🐲 [Xét xử 28 bị cáo trong vụ án xảy ra tại TAND Cấp cao ở Đà Nẵng](https://dantri.com.vn/phap-luat/xet-xu-28-bi-cao-trong-vu-an-xay-ra-tai-tand-cap-cao-o-da-nang-20251214201510085.htm) - 13:26 14/12/2025
 - 🌁 [Bộ đội Biên phòng bắt quả tang vụ tàng trữ cỏ Mỹ ở TPHCM](https://dantri.com.vn/phap-luat/bo-doi-bien-phong-bat-qua-tang-vu-tang-tru-co-my-o-tphcm-20251214190742975.htm) - 12:41 14/12/2025
 - 🎃 [Bé trai ở Hà Nội nghi bị bố của bạn tát, đánh vào đầu](https://dantri.com.vn/phap-luat/be-trai-o-ha-noi-nghi-bi-bo-cua-ban-tat-danh-vao-dau-20251214191807494.htm) - 12:23 14/12/2025
 - 🦅 [Ngăn chặn kịp thời 20 người mang theo hung khí để &quot;hỗn chiến&quot;](https://dantri.com.vn/phap-luat/ngan-chan-kip-thoi-20-nguoi-mang-theo-hung-khi-de-hon-chien-20251214175007870.htm) - 11:39 14/12/2025
