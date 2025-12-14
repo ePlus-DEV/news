@@ -18,7 +18,7 @@ sidebar_position: 5
 - 🐵 [Huyền thoại Singapore vô đối về số huy chương SEA Games](https://vnexpress.net/huyen-thoai-singapore-vo-doi-ve-so-huy-chuong-sea-games-4993554.html) - 04:08 14/12/2025
 - 💫 [VĐV marathon và đi bộ tìm cách vượt khó ở SEA Games](https://vnexpress.net/vdv-marathon-va-di-bo-tim-cach-vuot-kho-o-sea-games-4993628.html) - 04:04 14/12/2025
 - 🦆 [Mẹ một con nén đau giành HC đồng SEA Games](https://vnexpress.net/me-mot-con-nen-dau-gianh-hc-dong-sea-games-4993601.html) - 03:54 14/12/2025
-- 🙉 [SEA Games ngày 14/12: Nguyên Thanh về thứ tư marathon](https://vnexpress.net/truc-tiep-sea-games-ngay-14-12-4993598.html) - 01:35 14/12/2025
+- 🙉 [SEA Games ngày 14/12: Việt Nam kém Indonesia ba HC vàng](https://vnexpress.net/truc-tiep-sea-games-ngay-14-12-4993598.html) - 01:35 14/12/2025
 - 📝 [Indonesia hứng bão chỉ trích sau khi bị phế ngôi ở SEA Games](https://vnexpress.net/indonesia-hung-bao-chi-trich-sau-khi-bi-phe-ngoi-o-sea-games-4993456.html) - 00:41 14/12/2025
 - 💯 [Arsenal thắng nhờ hai bàn phản lưới ở Ngoại hạng Anh](https://vnexpress.net/arsenal-thang-nho-hai-ban-phan-luoi-o-ngoai-hang-anh-4993562.html) - 22:20 13/12/2025
 - 🌈 [Slot: &#39;Không còn mâu thuẫn nào với Salah&#39;](https://vnexpress.net/slot-khong-con-mau-thuan-nao-voi-salah-4993573.html) - 21:13 13/12/2025
