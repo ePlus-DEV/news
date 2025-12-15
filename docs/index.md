@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [MoMo lên tiếng về công việc của ông Hoàng Hoa Trung liên quan dự án &quot;Nuôi em&quot;](https://nld.com.vn/momo-len-tieng-ve-cong-viec-cua-ong-hoang-hoa-trung-lien-quan-du-an-nuoi-em-196251215204457371.htm) - 13:51 15/12/2025
-- 😺 [Xe buýt va chạm nhẹ với xe con, tài xế bị đánh chấn thương sọ não](https://nld.com.vn/xe-buyt-va-cham-nhe-voi-xe-con-tai-xe-bi-danh-chan-thuong-so-nao-19625121520303079.htm) - 13:40 15/12/2025
+- 😺 [Xe buýt va chạm nhẹ với xe con, tài xế bị đánh chấn thương](https://nld.com.vn/xe-buyt-va-cham-nhe-voi-xe-con-tai-xe-bi-danh-chan-thuong-so-nao-19625121520303079.htm) - 13:40 15/12/2025
 - 👍 [Quảng Trị quyết tâm hoàn thành công trình chống sụt trượt ở Khe Sanh vào ngày 31-12](https://nld.com.vn/quang-tri-quyet-tam-hoan-thanh-cong-trinh-chong-sut-truot-o-khe-sanh-vao-ngay-31-12-196251215195856575.htm) - 13:39 15/12/2025
 - 🥷 [Nhặt được chiếc ví chứa nhiều tiền mặt, nam sinh lớp 9 lập tức giao nộp](https://nld.com.vn/nhat-duoc-chiec-vi-chua-nhieu-tien-mat-nam-sinh-lop-9-lap-tuc-giao-nop-196251215201705693.htm) - 13:38 15/12/2025
 - 🤔 [Bao nhiêu khách ăn bánh mì liên quan vụ ngộ độc ở Phan Thiết?](https://nld.com.vn/bao-nhieu-khach-an-banh-mi-lien-quan-vu-ngo-doc-o-phan-thiet-196251215202017534.htm) - 13:37 15/12/2025
