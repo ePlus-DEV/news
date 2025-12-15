@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nữ tuyển thủ bóng chuyền Việt Nam khóc nghẹn sau trận thua Thái Lan](https://vnexpress.net/nu-tuyen-thu-bong-chuyen-viet-nam-khoc-nghen-sau-tran-thua-thai-lan-4994240.html) - 15:00 15/12/2025
 - 🦩 [3 phút &#39;điên rồ&#39; đưa Việt Nam vào chung kết SEA Games 33](https://vnexpress.net/3-phut-dien-ro-dua-viet-nam-vao-chung-ket-sea-games-33-4994236.html) - 14:26 15/12/2025
-- 🧰 [Thái Lan đấu Việt Nam ở chung kết SEA Games](https://vnexpress.net/thai-lan-malaysia-xac-dinh-doi-thu-cua-viet-nam-4994217.html) - 12:25 15/12/2025
+- 🧰 [Thái Lan đấu Việt Nam ở chung kết SEA Games 33](https://vnexpress.net/thai-lan-malaysia-xac-dinh-doi-thu-cua-viet-nam-4994217-tong-thuat.html) - 12:25 15/12/2025
 - 🤗 [HLV Philippines: &#39;Bàn thua ở phút 89 trước Việt Nam thật tàn nhẫn&#39;](https://vnexpress.net/hlv-philippines-ban-thua-o-phut-89-truoc-viet-nam-that-tan-nhan-4994213.html) - 12:06 15/12/2025
 - 🥳 [Chiến thuật chinh phục PR tại VnExpress Marathon Hải Phòng](https://vnexpress.net/chien-thuat-chinh-phuc-pr-tai-vnexpress-marathon-hai-phong-4993721.html) - 12:00 15/12/2025
 - 🦣 [HLV Kim Sang-sik chấm điểm trên 100 cho cầu thủ Việt Nam](https://vnexpress.net/hlv-kim-sang-sik-cham-diem-tren-100-cho-cau-thu-viet-nam-4994038.html) - 10:53 15/12/2025
