@@ -4,9 +4,9 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [Kia bỏ mô hình một đại lý đa thương hiệu tại Malaysia, Việt Nam thì sao?](https://dantri.com.vn/o-to-xe-may/kia-bo-mo-hinh-mot-dai-ly-da-thuong-hieu-tai-malaysia-viet-nam-thi-sao-20251215114041414.htm) - 06:48 15/12/2025
+- 🤡 [Suzuki Fronx thế chỗ Hyundai Venue, trở thành SUV hạng A “kén” khách nhất](https://dantri.com.vn/o-to-xe-may/suzuki-fronx-the-cho-hyundai-venue-tro-thanh-suv-hang-a-ken-khach-nhat-20251215134625192.htm) - 07:45 15/12/2025
+- 🧑‍💻 [Kia bỏ mô hình một đại lý đa thương hiệu tại Malaysia, Việt Nam thì sao?](https://dantri.com.vn/o-to-xe-may/kia-bo-mo-hinh-mot-dai-ly-da-thuong-hieu-tai-malaysia-viet-nam-thi-sao-20251215114041414.htm) - 06:48 15/12/2025
 - 🧑‍💻 [Ô tô dừng trên vạch mắt võng, quyết chặn đường xe rẽ phải gây bức xúc](https://dantri.com.vn/o-to-xe-may/o-to-dung-tren-vach-mat-vong-quyet-chan-duong-xe-re-phai-gay-buc-xuc-20251215095450506.htm) - 03:44 15/12/2025
-- 🧑‍💻 [Ngày càng nhiều người quay lưng với ô tô điện, trở lại chọn xe xăng](https://dantri.com.vn/o-to-xe-may/ngay-cang-nhieu-nguoi-quay-lung-voi-o-to-dien-tro-lai-chon-xe-xang-20251214231141564.htm) - 00:45 15/12/2025
 - 🎓 [Cầm ô đi xe máy, người đàn ông lao thẳng vào ô tô](https://dantri.com.vn/o-to-xe-may/cam-o-di-xe-may-nguoi-dan-ong-lao-thang-vao-o-to-20251214170211096.htm) - 17:00 14/12/2025
 - 🌊 [Sedan châu Âu ra mắt Việt Nam chưa lâu đã rục rịch có phiên bản mới](https://dantri.com.vn/o-to-xe-may/sedan-chau-au-ra-mat-viet-nam-chua-lau-da-ruc-rich-co-phien-ban-moi-20251214122611413.htm) - 11:19 14/12/2025
 - 🥷 [Nổi bật tuần qua: Thót tim khoảnh khắc tàu kịp dừng tránh ô tô bị mắc kẹt](https://dantri.com.vn/o-to-xe-may/noi-bat-tuan-qua-thot-tim-khoanh-khac-tau-kip-dung-tranh-o-to-bi-mac-ket-20251214094717902.htm) - 02:56 14/12/2025
