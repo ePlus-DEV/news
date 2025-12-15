@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Vượt qua Thái Lan, Karate Việt Nam khẳng định vị thế tại SEA Games 33](https://dantri.com.vn/the-thao/vuot-qua-thai-lan-karate-viet-nam-khang-dinh-vi-the-tai-sea-games-33-20251215142420233.htm) - 07:28 15/12/2025
-- 💯 [U22 Việt Nam - U22 Philippines: Đình Bắc, Viktor Lê đá chính](https://dantri.com.vn/the-thao/u22-viet-nam-u22-philippines-dinh-bac-viktor-le-da-chinh-20251215101404345.htm) - 07:14 15/12/2025
+- 💯 [U22 Việt Nam - U22 Philippines: Hình ảnh đẹp trên sân Rajamangala](https://dantri.com.vn/the-thao/u22-viet-nam-u22-philippines-hinh-anh-dep-tren-san-rajamangala-20251215101404345.htm) - 07:14 15/12/2025
 - ⛽️ [CLB Thái Lan từ chối sang Campuchia thi đấu, chấp nhận bị xử thua](https://dantri.com.vn/the-thao/clb-thai-lan-tu-choi-sang-campuchia-thi-dau-chap-nhan-bi-xu-thua-20251215135207861.htm) - 06:52 15/12/2025
 - 💃 [Hụt hơi loạt cuối, cặp xạ thủ Thu Vinh - Quang Huy bỏ lỡ HCV SEA Games](https://dantri.com.vn/the-thao/hut-hoi-loat-cuoi-cap-xa-thu-thu-vinh-quang-huy-bo-lo-hcv-sea-games-20251215133309549.htm) - 06:48 15/12/2025
 - 🌈 [Võ sĩ wushu Dương Thúy Vi và bước nhảy khỏi &quot;vùng an toàn&quot; SEA Games 33](https://dantri.com.vn/the-thao/vo-si-wushu-duong-thuy-vi-va-buoc-nhay-khoi-vung-an-toan-sea-games-33-20251215132845325.htm) - 06:44 15/12/2025
