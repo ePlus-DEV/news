@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ủy ban điều tra Malaysia phát hiện &#39;sai sót nghiêm trọng&#39; ở vụ cầu thủ nhập tịch](https://vnexpress.net/uy-ban-dieu-tra-malaysia-phat-hien-sai-sot-nghiem-trong-o-vu-cau-thu-nhap-tich-4994672.html) - 13:47 16/12/2025
-- 🦩 [Trung vệ Việt Nam: ‘Không cần rụt rè trước Thái Lan ở chung kết SEA Games’](https://vnexpress.net/trung-ve-viet-nam-khong-can-rut-re-truoc-thai-lan-o-chung-ket-sea-games-4994651.html) - 11:45 16/12/2025
+- 🦩 [Trung vệ Việt Nam: &#39;Không cần rụt rè trước Thái Lan ở chung kết SEA Games&#39;](https://vnexpress.net/trung-ve-viet-nam-khong-can-rut-re-truoc-thai-lan-o-chung-ket-sea-games-4994651.html) - 11:45 16/12/2025
 - 🧰 [Nguyễn Thị Oanh cân bằng kỷ lục điền kinh SEA Games](https://vnexpress.net/nguyen-thi-oanh-can-bang-ky-luc-dien-kinh-sea-games-4994500.html) - 10:33 16/12/2025
 - 🤗 [Võ sĩ Thái Lan &#39;cố tình đưa mặt vào cú đá của VĐV Việt Nam&#39;](https://vnexpress.net/vo-si-thai-lan-co-tinh-dua-mat-vao-cu-da-cua-vdv-viet-nam-4994607.html) - 09:41 16/12/2025
 - 🥳 [Amorim được khen vì dùng 4 hậu vệ](https://vnexpress.net/amorim-duoc-khen-vi-dung-4-hau-ve-4994359.html) - 08:21 16/12/2025
