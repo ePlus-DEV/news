@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Loạt dự án trọng điểm khởi công, khánh thành ngày 19/12](https://vnexpress.net/loat-du-an-trong-diem-khoi-cong-khanh-thanh-ngay-19-12-4994560.html) - 09:51 16/12/2025
-- 🤓 [Tạm giữ xe khách chở động vật hoang dã](https://vnexpress.net/tam-giu-xe-khach-cho-dong-vat-hoang-da-4994582.html) - 09:23 16/12/2025
+- 🤓 [Tạm giữ xe khách chở cầy mực, heo rừng](https://vnexpress.net/tam-giu-xe-khach-cho-cay-muc-heo-rung-4994582.html) - 09:23 16/12/2025
 - ⚗️ [Sập tường trung tâm sát hạch lái xe, một học viên tử vong](https://vnexpress.net/sat-hach-lai-xe-o-lam-dong-4994579.html) - 08:43 16/12/2025
 - 🌊 [Phó thủ tướng: Tăng lương khu vực công từ 2026](https://vnexpress.net/pho-thu-tuong-tang-luong-khu-vuc-cong-tu-2026-4994509.html) - 08:22 16/12/2025
 - 🎓 [Đề xuất dời bãi giữ xe khách đi metro ở trung tâm TP HCM](https://vnexpress.net/de-xuat-doi-bai-giu-xe-khach-di-metro-o-trung-tam-tp-hcm-4994470.html) - 07:00 16/12/2025
