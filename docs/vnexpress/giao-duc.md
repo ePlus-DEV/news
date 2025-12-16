@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [BUV hợp tác Bộ Giáo dục Trung Quốc nhằm thúc đẩy trao đổi quốc tế](https://vnexpress.net/buv-hop-tac-bo-giao-duc-trung-quoc-nham-thuc-day-trao-doi-quoc-te-4994110.html) - 01:00 16/12/2025
 - 🦆 [Du học sinh nghề &#39;đánh vật&#39; với tiếng Đức](https://vnexpress.net/du-hoc-sinh-nghe-danh-vat-voi-tieng-duc-4994052.html) - 00:16 16/12/2025
-- 🦩 [Đánh hội đồng bạn trong nghĩa trang, quay video đăng mạng xã hội](https://vnexpress.net/danh-hoi-dong-ban-trong-nghia-trang-quay-video-dang-mang-xa-hoi-4994204.html) - 16:29 15/12/2025
+- 🦩 [Ép bạn vào nghĩa trang đánh, quay video](https://vnexpress.net/ep-ban-vao-nghia-trang-danh-quay-video-4994204.html) - 16:29 15/12/2025
 - 🌮 [Trường phủ nhận &#39;liên kết đào tạo&#39; vụ bằng đại học vô hiệu ở Việt Nam](https://vnexpress.net/truong-phu-nhan-lien-ket-dao-tao-vu-bang-dai-hoc-vo-hieu-o-viet-nam-4994035.html) - 13:57 15/12/2025
 - 🔭 [Đại học Quốc gia TP HCM có nữ giám đốc đầu tiên](https://vnexpress.net/gs-ts-nguyen-thi-thanh-mai-giam-doc-dai-hoc-quoc-gia-tp-hcm-la-ai-4956348.html) - 09:38 15/12/2025
 - 💡 [Nữ sinh Ams giành học bổng 10 tỷ đồng du học Mỹ](https://vnexpress.net/nu-sinh-ams-gianh-hoc-bong-10-ty-dong-du-hoc-my-4994019.html) - 07:37 15/12/2025
