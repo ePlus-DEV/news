@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Học sinh phổ thông chính thức học thêm môn học mới là trí tuệ nhân tạo](https://dantri.com.vn/giao-duc/hoc-sinh-pho-thong-chinh-thuc-hoc-them-mon-hoc-moi-la-tri-tue-nhan-tao-20251216173923598.htm) - 10:55 16/12/2025
+- 🤡 [Học sinh sẽ học trí tuệ nhân tạo từ lớp 1](https://dantri.com.vn/giao-duc/hoc-sinh-se-hoc-tri-tue-nhan-tao-tu-lop-1-20251216173923598.htm) - 10:55 16/12/2025
 - 🗽 [Nhiều sinh viên vẫn chưa nhận được tiền A80, phải ký xác nhận trừ tiền ăn](https://dantri.com.vn/giao-duc/nhieu-sinh-vien-van-chua-nhan-duoc-tien-a80-phai-ky-xac-nhan-tru-tien-an-20251216114515349.htm) - 08:02 16/12/2025
 - 🚦 [Chi tiết lịch nghỉ Tết Nguyên đán 2026 của 30 trường đại học top](https://dantri.com.vn/giao-duc/chi-tiet-lich-nghi-tet-nguyen-dan-2026-cua-30-truong-dai-hoc-top-20251215131314149.htm) - 07:26 16/12/2025
 - 🌋 [Nam sinh lớp 11 gây chấn động trong lịch sử Bowling Việt Nam là ai?](https://dantri.com.vn/giao-duc/nam-sinh-lop-11-gay-chan-dong-trong-lich-su-bowling-viet-nam-la-ai-20251216100700460.htm) - 03:21 16/12/2025
