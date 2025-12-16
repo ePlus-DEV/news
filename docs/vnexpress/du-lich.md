@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tiệm bánh mì Việt gây sốt ở Singapore của cựu giám đốc Google](https://vnexpress.net/tiem-banh-mi-viet-gay-sot-o-singapore-cua-cuu-giam-doc-google-4944724.html) - 23:00 15/12/2025
+- 💂 [Cựu giám đốc Google bán bánh mì Việt ở Singapore](https://vnexpress.net/cuu-giam-doc-google-ban-banh-mi-viet-o-singapore-4944724.html) - 23:00 15/12/2025
 - 🪄 [Quán cà phê mô hình sân bay đầu tiên tại Việt Nam](https://vnexpress.net/quan-ca-phe-mo-hinh-san-bay-dau-tien-tai-viet-nam-4994192.html) - 17:00 15/12/2025
 - 🦅 [Hộ chiếu Việt Nam từng xếp hạng cao nhất bao nhiêu?](https://vnexpress.net/ho-chieu-viet-nam-tung-xep-hang-cao-nhat-bao-nhieu-4994112.html) - 12:01 15/12/2025
 - 🕴 [Hộ chiếu Việt Nam tăng hai bậc](https://vnexpress.net/ho-chieu-viet-nam-tang-hai-bac-4993899.html) - 05:22 15/12/2025
