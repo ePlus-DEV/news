@@ -16,7 +16,7 @@ sidebar_position: 5
 - 😺 [Đội pencak silat Malaysia đuổi đánh trọng tài vì thiên vị Thái Lan](https://vnexpress.net/doi-pencak-silat-malaysia-duoi-danh-trong-tai-vi-thien-vi-thai-lan-4994447.html) - 04:12 16/12/2025
 - 👍 [&#39;Máy tạt&#39; Phi Hoàng đã oanh tạc Philippines thế nào?](https://vnexpress.net/may-tat-phi-hoang-da-oanh-tac-philippines-the-nao-4994265.html) - 04:05 16/12/2025
 - 🐵 [HLV bóng chuyền nữ Thái Lan: &#39;Chúng tôi có tâm lý tốt hơn Việt Nam&#39;](https://vnexpress.net/hlv-bong-chuyen-nu-thai-lan-chung-toi-co-tam-ly-tot-hon-viet-nam-4994339.html) - 03:48 16/12/2025
-- 💫 [SEA Games ngày 16/12: Điền kinh cán mốc 12 HC vàng, nhận 1 tỷ đồng](https://vnexpress.net/truc-tiep-sea-games-ngay-16-12-4994320.html) - 02:30 16/12/2025
+- 💫 [SEA Games ngày 16/12: Điền kinh cán mốc 12 HC vàng, nhận 1 tỷ đồng](https://vnexpress.net/truc-tiep-sea-games-ngay-16-12-4994320-tong-thuat.html) - 02:30 16/12/2025
 - 🦆 [SEA Games 33 &#39;diễn lại&#39; lễ trao huy chương vì nhầm quốc kỳ](https://vnexpress.net/sea-games-33-dien-lai-le-trao-huy-chuong-vi-nham-quoc-ky-4994277.html) - 01:58 16/12/2025
 - 🙉 [Bóng trong hay ngoài khi Việt Nam hụt HC vàng bóng chuyền nữ?](https://vnexpress.net/bong-trong-hay-ngoai-khi-viet-nam-hut-hc-vang-bong-chuyen-nu-4994267.html) - 23:42 15/12/2025
 - 📝 [Thái Lan xin lỗi Việt Nam vụ bắt VĐV đấu lại ở SEA Games](https://vnexpress.net/thai-lan-xin-loi-viet-nam-vu-bat-vdv-dau-lai-o-sea-games-4994269.html) - 23:33 15/12/2025
