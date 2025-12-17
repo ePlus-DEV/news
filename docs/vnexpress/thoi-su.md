@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Chất lượng không khí Hà Nội trở lại mức xấu](https://vnexpress.net/chat-luong-khong-khi-ha-noi-tro-lai-muc-xau-4994920.html) - 05:28 17/12/2025
 - 🤓 [53 ngư dân nhảy xuống biển khi tàu câu mực bốc cháy](https://vnexpress.net/53-ngu-dan-nhay-xuong-bien-khi-tau-cau-muc-boc-chay-4994905.html) - 05:19 17/12/2025
-- ⚗️ [Camera AI hỗ trợ tìm cụ ông đi lạc ở Hà Nội](https://vnexpress.net/camera-ai-ho-tro-tim-cu-ong-di-lac-o-ha-noi-4994889.html) - 04:57 17/12/2025
+- ⚗️ [Camera AI ghi nhận gần 400 vi phạm sau 3 ngày](https://vnexpress.net/camera-ai-ghi-nhan-gan-400-vi-pham-sau-3-ngay-4994889.html) - 04:57 17/12/2025
 - 🌊 [Trường bị phạt gần 200 triệu đồng nhưng không có tiền nộp](https://vnexpress.net/truong-bi-phat-gan-200-trieu-dong-nhung-khong-co-tien-nop-4994769.html) - 04:21 17/12/2025
 - 🎓 [TP HCM mù mịt](https://vnexpress.net/tp-hcm-mu-mit-4994784.html) - 02:39 17/12/2025
 - 🔥 [Đề xuất lắp gần 160 điểm quan trắc không khí ở TP HCM](https://vnexpress.net/de-xuat-lap-gan-160-diem-quan-trac-khong-khi-o-tp-hcm-4994741.html) - 02:05 17/12/2025
