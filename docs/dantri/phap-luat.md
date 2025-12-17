@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Cựu Chủ tịch Tập đoàn Thuận An nộp thêm 47 tỷ đồng trước phiên phúc thẩm](https://dantri.com.vn/phap-luat/cuu-chu-tich-tap-doan-thuan-an-nop-them-47-ty-dong-truoc-phien-phuc-tham-20251217183126017.htm) - 11:39 17/12/2025
 - 🐲 [Biên phòng Tây Ninh bắt giữ nam thanh niên nhập cảnh trái phép](https://dantri.com.vn/phap-luat/bien-phong-tay-ninh-bat-giu-nam-thanh-nien-nhap-canh-trai-phep-20251217175909397.htm) - 11:14 17/12/2025
-- 🌁 [Bắt giữ đối tượng truy nã Vàng Văn Ánh](https://dantri.com.vn/phap-luat/bat-giu-doi-tuong-truy-na-vang-van-anh-20251217175643706.htm) - 11:07 17/12/2025
+- 🌁 [Bắt Long &quot;Tổng&quot; tại sân bay Nội Bài](https://dantri.com.vn/phap-luat/bat-long-tong-tai-san-bay-noi-bai-20251217175643706.htm) - 11:07 17/12/2025
 - 🎃 [Bắt giữ thanh niên trộm iPhone của cháu bé ở TPHCM](https://dantri.com.vn/phap-luat/bat-giu-thanh-nien-trom-iphone-cua-chau-be-o-tphcm-20251217172744879.htm) - 11:06 17/12/2025
 - 🦅 [Nhóm thanh thiếu niên đuổi đánh nhau gây náo loạn ở Đà Nẵng](https://dantri.com.vn/phap-luat/nhom-thanh-thieu-nien-duoi-danh-nhau-gay-nao-loan-o-da-nang-20251217174047486.htm) - 10:55 17/12/2025
 - 🎭 [Bắt giữ hai thanh niên đua xe, mang dao kiếm đi gây rối](https://dantri.com.vn/phap-luat/bat-giu-hai-thanh-nien-dua-xe-mang-dao-kiem-di-gay-roi-20251217171952118.htm) - 10:36 17/12/2025
