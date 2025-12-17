@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Thói quen ăn thực phẩm tái chế, hết hạn ở Nam Cực](https://vnexpress.net/thoi-quen-an-thuc-pham-tai-che-het-han-o-nam-cuc-4994015.html) - 23:00 16/12/2025
 - 🪄 [Bi kịch tự tử ẩn sau vẻ đẹp của vùng đất Greenland](https://vnexpress.net/bi-kich-tu-tu-an-sau-ve-dep-cua-vung-dat-greenland-4994527.html) - 17:00 16/12/2025
 - 🦅 [Vietjet gấp đôi chuyến bay đến Côn Đảo](https://vnexpress.net/vietjet-gap-doi-chuyen-bay-den-con-dao-4994682.html) - 16:00 16/12/2025
-- 🕴 [Hàng bánh cuốn cung đình 55 năm bán ở ven đường thành phố Huế](https://vnexpress.net/hang-banh-cuon-cung-dinh-55-nam-ban-o-ven-duong-thanh-pho-hue-4994006.html) - 13:00 16/12/2025
+- 🕴 [Hàng bánh cuốn cung đình 55 năm bán ven đường ở Huế](https://vnexpress.net/hang-banh-cuon-cung-dinh-55-nam-ban-ven-duong-o-hue-4994006.html) - 13:00 16/12/2025
 - 👀 [Ba công ty du lịch ở Đà Nẵng bị phạt hơn 300 triệu đồng](https://vnexpress.net/ba-cong-ty-du-lich-o-da-nang-bi-phat-hon-300-trieu-dong-4994638.html) - 12:42 16/12/2025
 - 🎭 [Michelin gợi ý 6 món tráng miệng Việt](https://vnexpress.net/michelin-goi-y-6-mon-trang-mieng-viet-4994342.html) - 08:15 16/12/2025
 - 🦒 [Cựu giám đốc Google bán bánh mì Việt ở Singapore](https://vnexpress.net/cuu-giam-doc-google-ban-banh-mi-viet-o-singapore-4944724.html) - 23:00 15/12/2025
