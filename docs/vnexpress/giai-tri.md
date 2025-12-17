@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phong cách thanh lịch của diễn viên Kim Tuyến](https://vnexpress.net/phong-cach-thanh-lich-cua-dien-vien-kim-tuyen-4987737.html) - 13:20 17/12/2025
-- 💫 [Bùi Lan Hương làm mới ca khúc do Nguyễn Quang Dũng viết](https://vnexpress.net/bui-lan-huong-lam-moi-ca-khuc-do-nguyen-quang-dung-viet-4994665.html) - 12:30 17/12/2025
+- 💫 [Bùi Lan Hương làm MV tặng đạo diễn Nguyễn Quang Dũng](https://vnexpress.net/bui-lan-huong-lam-mv-tang-dao-dien-nguyen-quang-dung-4994665.html) - 12:30 17/12/2025
 - 🌮 [Những điều nên biết trước khi xem &#39;Avatar 3&#39;](https://vnexpress.net/nhung-dieu-nen-biet-truoc-khi-xem-avatar-3-4994408.html) - 12:00 17/12/2025
 - 🧠 [Sinh viên 20 tuổi thắng The Voice Mỹ](https://vnexpress.net/sinh-vien-20-tuoi-thang-the-voice-my-4995076.html) - 10:42 17/12/2025
 - 👨‍🏫 [Danh ca Phượng Liên hội ngộ nghệ sĩ &#39;thế hệ vàng&#39;](https://vnexpress.net/danh-ca-phuong-lien-hoi-ngo-nghe-si-the-he-vang-4994958.html) - 09:37 17/12/2025
