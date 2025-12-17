@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [U22 Thái Lan được HLV ĐTQG &#39;tiếp lửa&#39; trước chung kết SEA Games 33](https://vnexpress.net/u22-thai-lan-duoc-hlv-dtqg-tiep-lua-truoc-chung-ket-sea-games-33-4995113.html) - 11:50 17/12/2025
-- 🦩 [Philippines - Việt Nam: Thanh Nhã, Trần Thị Duyên đá chính](https://vnexpress.net/truc-tiep-tran-philippines-vs-viet-nam-o-chung-ket-bong-da-nu-sea-games-33-4995033.html) - 11:30 17/12/2025
+- 🦩 [Philippines 0-0 Việt Nam &lpar;H1&rpar;: Bích Thùy mất oan bàn thắng](https://vnexpress.net/truc-tiep-tran-philippines-vs-viet-nam-o-chung-ket-bong-da-nu-sea-games-33-4995033.html) - 11:30 17/12/2025
 - 🧰 [Tranh cãi về vụ HLV Shin Tae-yong bị tố hành hung học trò cũ](https://vnexpress.net/tranh-cai-ve-vu-hlv-shin-tae-yong-bi-to-hanh-hung-hoc-tro-cu-4994577.html) - 08:46 17/12/2025
 - 🤗 [Trịnh Thu Vinh giành 4 HC vàng, phá 3 kỷ lục SEA Games](https://vnexpress.net/trinh-thu-vinh-gianh-4-hc-vang-pha-3-ky-luc-sea-games-4994947.html) - 08:26 17/12/2025
 - 🥳 [Võ sĩ Việt Nam đoạt HC vàng: &#39;Đối thủ lăm le đá vào vết thương của tôi&#39;](https://vnexpress.net/vo-si-viet-nam-doat-hc-vang-doi-thu-lam-le-da-vao-vet-thuong-cua-toi-4994897.html) - 07:13 17/12/2025
