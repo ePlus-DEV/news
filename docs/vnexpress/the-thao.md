@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🌜 [Malaysia bị xử thua 0-3 ở ba trận](https://vnexpress.net/malaysia-bi-xu-thua-0-3-o-ba-tran-4994902.html) - 04:47 17/12/2025
 - 😺 [HLV Thái Lan: &#39;Phải thắng Việt Nam để vươn tầm châu lục&#39;](https://vnexpress.net/hlv-thai-lan-phai-thang-viet-nam-de-vuon-tam-chau-luc-4994812.html) - 03:15 17/12/2025
 - 👍 [HLV Kim: &#39;U22 Việt Nam sẽ vô địch tại Rajamangala như ĐTQG hồi tháng 1&#39;](https://vnexpress.net/hlv-kim-u22-viet-nam-se-vo-dich-tai-rajamangala-nhu-dtqg-hoi-thang-1-4994800.html) - 03:15 17/12/2025
-- 🐵 [SEA Games ngày 17/12: Việt Nam giành 13 HC vàng](https://vnexpress.net/sea-games-ngay-17-12-cho-mua-vang-tu-cac-mon-vo-rowing-va-bong-da-nu-4994724.html) - 02:30 17/12/2025
+- 🐵 [SEA Games ngày 17/12: Việt Nam giành 16 HC vàng](https://vnexpress.net/sea-games-ngay-17-12-cho-mua-vang-tu-cac-mon-vo-rowing-va-bong-da-nu-4994724.html) - 02:30 17/12/2025
 - 💫 [HLV cùng võ sĩ Việt Nam bỏ đấu SEA Games vì bị xử ép](https://vnexpress.net/hlv-cung-vo-si-viet-nam-bo-dau-sea-games-vi-bi-xu-ep-4994713.html) - 01:00 17/12/2025
 - 🦆 [Rashford chấm dứt chuỗi 10 trận tịt ngòi](https://vnexpress.net/rashford-cham-dut-chuoi-10-tran-tit-ngoi-4994711.html) - 23:14 16/12/2025
 - 🙉 [Garnacho đưa Chelsea vào bán kết Cup Liên đoàn](https://vnexpress.net/garnacho-dua-chelsea-vao-ban-ket-cup-lien-doan-4994708.html) - 23:14 16/12/2025
