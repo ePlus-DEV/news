@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [5 nhầm lẫn thường gặp về tăng lương từ 1/1/2026](https://vnexpress.net/5-nham-lan-thuong-gap-ve-tang-luong-tu-1-1-2026-4993991.html) - 22:00 16/12/2025
 - 🥰 [Hôn nhân đọa đày của vợ chồng lực sĩ](https://vnexpress.net/hon-nhan-doa-day-cua-vo-chong-luc-si-4994652.html) - 17:00 16/12/2025
-- 🎓 [Mỗi chữ ký của nữ Cục trưởng An toàn thực phẩm giá &#39;ít nhất 2 triệu đồng&#39;](https://vnexpress.net/moi-chu-ky-cua-nu-cuc-truong-an-toan-thuc-pham-gia-it-nhat-2-trieu-dong-4994588.html) - 17:00 16/12/2025
+- 🎓 [Chữ ký của cựu Cục trưởng An toàn thực phẩm giá &#39;ít nhất 2 triệu đồng&#39;](https://vnexpress.net/chu-ky-cua-nu-cuc-truong-an-toan-thuc-pham-gia-it-nhat-2-trieu-dong-4994588.html) - 17:00 16/12/2025
 - 🤓 [Mang súng ngắn phòng thân khi vận chuyển ma túy tiền tỷ](https://vnexpress.net/mang-sung-ngan-phong-than-khi-van-chuyen-ma-tuy-tien-ty-4994690.html) - 16:18 16/12/2025
 - 🎊 [Nữ sinh lớp 8 bị bạn đâm tử vong](https://vnexpress.net/nu-sinh-lop-8-bi-ban-dam-tu-vong-4994670.html) - 14:22 16/12/2025
 - 🙉 [Ném ớt bột vào mặt, cướp 1,5 tỷ đồng](https://vnexpress.net/nem-ot-bot-vao-mat-cuop-1-5-ty-dong-4994666.html) - 14:05 16/12/2025
