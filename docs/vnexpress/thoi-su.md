@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hà Nội sẽ chọn lọc gen để đào tạo tinh hoa](https://vnexpress.net/ha-noi-se-chon-loc-gen-de-dao-tao-tinh-hoa-4994948.html) - 09:02 17/12/2025
+- 🦒 [Hà Nội sẽ có đề án đào tạo nhân lực tinh hoa](https://vnexpress.net/ha-noi-se-co-de-an-dao-tao-nhan-luc-tinh-hoa-4994948.html) - 09:02 17/12/2025
 - 🤓 [Ông Johnathan Hạnh Nguyễn được đề nghị tặng danh hiệu Anh hùng Lao động](https://vnexpress.net/ong-johnathan-hanh-nguyen-duoc-de-nghi-tang-danh-hieu-anh-hung-lao-dong-4994971.html) - 08:38 17/12/2025
 - ⚗️ [Ôtô gây tai nạn liên hoàn trên phố Hà Nội](https://vnexpress.net/oto-gay-tai-nan-lien-hoan-tren-pho-ha-noi-4994999.html) - 08:15 17/12/2025
 - 🌊 [Sai phạm nghiêm trọng tại dự án biệt thự cao cấp Đồi Hòn Rơm](https://vnexpress.net/sai-pham-nghiem-trong-tai-du-an-biet-thu-cao-cap-doi-hon-rom-4994923.html) - 07:54 17/12/2025
