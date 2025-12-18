@@ -410,9 +410,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [VIDEO Những bàn thắng tuyệt đẹp đưa U22 Việt Nam vô địch bóng đá nam SEA Games 33](https://baochinhphu.vn/video-nhung-ban-thang-tuyet-dep-dua-u22-viet-nam-vo-dich-bong-da-nam-sea-games-33-102251218233353243.htm) - 23:24 18/12/2025
-- 🌜 [Truyền thông các nước viết về chiến thắng của U22 Việt Nam tại SEA Games 33](https://baochinhphu.vn/truyen-thong-cac-nuoc-viet-ve-chien-thang-cua-u22-viet-nam-tai-sea-games-33-102251218232322154.htm) - 23:10 18/12/2025
-- 🦆 [Bảng tổng sắp huy chương SEA Games 33 mới nhất &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/bang-tong-sap-huy-chuong-sea-games-33-khoi-dong-tu-hom-nay-102251203090708318.htm) - 22:27 18/12/2025
+- 💻 [Bảng tổng sắp huy chương SEA Games 33 mới nhất &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/bang-tong-sap-huy-chuong-sea-games-33-khoi-dong-tu-hom-nay-102251203090708318.htm) - 04:27 19/12/2025
+- 🌜 [VIDEO Những bàn thắng tuyệt đẹp đưa U22 Việt Nam vô địch bóng đá nam SEA Games 33](https://baochinhphu.vn/video-nhung-ban-thang-tuyet-dep-dua-u22-viet-nam-vo-dich-bong-da-nam-sea-games-33-102251218233353243.htm) - 23:24 18/12/2025
+- 🦆 [Truyền thông các nước viết về chiến thắng của U22 Việt Nam tại SEA Games 33](https://baochinhphu.vn/truyen-thong-cac-nuoc-viet-ve-chien-thang-cua-u22-viet-nam-tai-sea-games-33-102251218232322154.htm) - 23:10 18/12/2025
 - 🌝 [Thủ tướng gửi thư chúc mừng Đội tuyển bóng đá nam U22 và Đội tuyển nữ Futsal quốc gia Việt Nam giành Huy chương Vàng SEA Games 33](https://baochinhphu.vn/thu-tuong-gui-thu-chuc-mung-doi-tuyen-bong-da-nam-u22-va-doi-tuyen-nu-futsal-quoc-gia-viet-nam-gianh-huy-chuong-vang-sea-gamesthu-chuc-mung-102251218215536442.htm) - 22:17 18/12/2025
 - 🦣 [VTC chuyển giao quyền đại diện chủ sở hữu vốn nhà nước về Bộ VHTT&amp;DL](https://baochinhphu.vn/vtc-chuyen-giao-quyen-dai-dien-chu-so-huu-von-nha-nuoc-ve-bo-vhttdl-102251218215113033.htm) - 22:07 18/12/2025
 - ⛽️ [Đẩy mạnh chống hàng giả trên sàn thương mại điện tử](https://baochinhphu.vn/day-manh-chong-hang-gia-tren-san-thuong-mai-dien-tu-102251218170541077.htm) - 21:44 18/12/2025
