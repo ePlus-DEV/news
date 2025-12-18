@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Học bổng yêu thương gieo mầm ước mơ của trẻ em Chiềng Sinh](https://dantri.com.vn/tam-long-nhan-ai/hoc-bong-yeu-thuong-gieo-mam-uoc-mo-cua-tre-em-chieng-sinh-20251217233013379.htm) - 04:31 18/12/2025
+- 🌝 [Học bổng yêu thương gieo mầm ước mơ tới trẻ em Chiềng Sinh](https://dantri.com.vn/tam-long-nhan-ai/hoc-bong-yeu-thuong-gieo-mam-uoc-mo-toi-tre-em-chieng-sinh-20251217233013379.htm) - 04:31 18/12/2025
 - 🌜 [Vợ chồng trẻ như bị &quot;trời hành&quot;: &quot;Nếu không được điều trị, con tôi sẽ chết&quot;](https://dantri.com.vn/tam-long-nhan-ai/vo-chong-tre-nhu-bi-troi-hanh-neu-khong-duoc-dieu-tri-con-toi-se-chet-20251215215737690.htm) - 22:30 17/12/2025
 - 👀 [Thông báo kết chuyển Nhân ái tuần 1 tháng 12/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-1-thang-122025-20251217172701193.htm) - 14:06 17/12/2025
 - 🚀 [Danh sách bạn đọc ủng hộ tuần 1 tháng 12/2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-1-thang-122025-20251217172221952.htm) - 14:04 17/12/2025
