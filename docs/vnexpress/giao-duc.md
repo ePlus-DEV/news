@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học thưởng Tết 30 triệu đồng, &#39;cào bằng&#39; từ lao công đến hiệu trưởng](https://vnexpress.net/dai-hoc-thuong-tet-30-trieu-dong-cao-bang-tu-lao-cong-den-hieu-truong-4995173.html) - 04:24 18/12/2025
+- 🤓 [Đại học thưởng Tết 30 triệu đồng, từ lao công đến hiệu trưởng](https://vnexpress.net/dai-hoc-thuong-tet-30-trieu-dong-tu-lao-cong-den-hieu-truong-4995173.html) - 04:24 18/12/2025
 - 🦆 [Vòng chung kết kịch tính khép lại Giải Bóng rổ Trẻ VnExpress 2025](https://vnexpress.net/vong-chung-ket-kich-tinh-khep-lai-giai-bong-ro-tre-vnexpress-2025-4994983.html) - 04:00 18/12/2025
 - 🦩 [Nam sinh chuyên Tin đỗ đại học top 7 Mỹ với bài luận về &#39;ba đôi mắt&#39;](https://vnexpress.net/nam-sinh-chuyen-tin-do-dai-hoc-top-7-my-voi-bai-luan-ve-ba-doi-mat-4995167.html) - 17:16 17/12/2025
 - 🌮 [Thành phố nào ở Đông Nam Á có &#39;đền David Beckham&#39;?](https://vnexpress.net/thanh-pho-nao-o-dong-nam-a-co-den-david-beckham-4995090.html) - 13:48 17/12/2025
