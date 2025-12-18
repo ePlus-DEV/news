@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Ứng dụng chuyển đổi số trong đảm bảo trật tự ATGT ở Hà Nội](https://dantri.com.vn/thoi-su/ung-dung-chuyen-doi-so-trong-dam-bao-trat-tu-atgt-o-ha-noi-20251217220150639.htm) - 17:00 17/12/2025
+- 🪜 [Camera AI là &quot;mắt thần giám sát&quot; nhưng con người vẫn là yếu tố quyết định](https://dantri.com.vn/thoi-su/camera-ai-la-mat-than-giam-sat-nhung-con-nguoi-van-la-yeu-to-quyet-dinh-20251217220150639.htm) - 17:00 17/12/2025
 - 🗽 [Toạ đàm: Tiêm vaccine cúm A thế nào để bảo vệ an toàn cho trẻ và người lớn?](https://dantri.com.vn/suc-khoe/toa-dam-tiem-vaccine-cum-a-the-nao-de-bao-ve-an-toan-cho-tre-va-nguoi-lon-20251215221454284.htm) - 23:47 15/12/2025
 - 🕯 [Chi tiết các mức hỗ trợ của Hà Nội để người dân chuyển đổi sang xe điện](https://dantri.com.vn/thoi-su/chi-tiet-cac-muc-ho-tro-cua-ha-noi-de-nguoi-dan-chuyen-doi-sang-xe-dien-20251209085141137.htm) - 07:03 09/12/2025
 - 🫶 [Bước tiến mới từ điện quang can thiệp chữa đau thần kinh dai dẳng](https://dantri.com.vn/suc-khoe/buoc-tien-moi-tu-dien-quang-can-thiep-chua-dau-than-kinh-dai-dang-20251127180238439.htm) - 01:54 28/11/2025
