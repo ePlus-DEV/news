@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U22 Việt Nam - U22 Thái Lan &lpar;19h30 hôm nay&rpar;: Toàn tâm, quyết chí vì HCV](https://dantri.com.vn/the-thao/u22-viet-nam-u22-thai-lan-19h30-hom-nay-toan-tam-quyet-chi-vi-hcv-20251218132556863.htm) - 10:00 18/12/2025
-- 💯 [Futsal nữ Việt Nam 4-0 Indonesia &lpar;hiệp 1&rpar;: Thắng tưng bừng, tiến gần HCV](https://dantri.com.vn/the-thao/futsal-nu-viet-nam-4-0-indonesia-hiep-1-thang-tung-bung-tien-gan-hcv-20251218161814891.htm) - 09:18 18/12/2025
+- 💯 [Futsal nữ Việt Nam 4-0 Indonesia &lpar;hiệp 2&rpar;: Thắng tưng bừng, tiến gần HCV](https://dantri.com.vn/the-thao/futsal-nu-viet-nam-4-0-indonesia-hiep-2-thang-tung-bung-tien-gan-hcv-20251218161814891.htm) - 09:18 18/12/2025
 - ⛽️ [Xem trực tiếp trận chung kết U22 Việt Nam gặp Thái Lan ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-chung-ket-u22-viet-nam-gap-thai-lan-o-dau-20251218161030254.htm) - 09:10 18/12/2025
 - 💃 [Trọng tài đồng hương với HLV Philippines có thổi ép tuyển nữ Việt Nam?](https://dantri.com.vn/the-thao/trong-tai-dong-huong-voi-hlv-philippines-co-thoi-ep-tuyen-nu-viet-nam-20251218151113792.htm) - 08:25 18/12/2025
 - 🌈 [Báo Thái Lan thống kê 5 trận gần nhất, lo ngại đội nhà thua U22 Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-thong-ke-5-tran-gan-nhat-lo-ngai-doi-nha-thua-u22-viet-nam-20251218140626495.htm) - 08:15 18/12/2025
@@ -24,7 +24,7 @@ sidebar_position: 2
 - 🦒 [Man City đối đầu Newcastle tại bán kết Cúp Liên đoàn Anh](https://dantri.com.vn/the-thao/man-city-doi-dau-newcastle-tai-ban-ket-cup-lien-doan-anh-20251218070920096.htm) - 00:09 18/12/2025
 - 🌜 [Tiết lộ bất ngờ về trọng tài khiến tuyển nữ Việt Nam mất oan bàn thắng](https://dantri.com.vn/the-thao/tiet-lo-bat-ngo-ve-trong-tai-khien-tuyen-nu-viet-nam-mat-oan-ban-thang-20251218014245441.htm) - 00:02 18/12/2025
 - 🦆 [Báo Philippines tuyên bố trọng tài sai lầm, tuyển nữ Việt Nam chịu oan ức](https://dantri.com.vn/the-thao/bao-philippines-tuyen-bo-trong-tai-sai-lam-tuyen-nu-viet-nam-chiu-oan-uc-20251218011933339.htm) - 00:01 18/12/2025
-- 💪 [Nhật ký SEA Games 33 ngày 18/12: Ba chị em giành HCV vật](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1812-ba-chi-em-gianh-hcv-vat-20251217233308326.htm) - 23:32 17/12/2025
+- 💪 [Nhật ký SEA Games 33 ngày 18/12: Thể thao Việt Nam chạm mốc 70 HCV](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1812-the-thao-viet-nam-cham-moc-70-hcv-20251217233308326.htm) - 23:32 17/12/2025
 - 🧠 [Thủ tướng Phạm Minh Chính gửi thư chúc mừng đội tuyển bóng đá nữ Việt Nam](https://dantri.com.vn/the-thao/thu-tuong-pham-minh-chinh-gui-thu-chuc-mung-doi-tuyen-bong-da-nu-viet-nam-20251218065013078.htm) - 23:29 17/12/2025
 - 🦄 [U22 Việt Nam - U22 Thái Lan &lpar;19h30 hôm nay&rpar;: Ký ức đẹp ở Rajamangala](https://dantri.com.vn/the-thao/u22-viet-nam-u22-thai-lan-19h30-hom-nay-ky-uc-dep-o-rajamangala-20251217120606098.htm) - 23:00 17/12/2025
 - 🥸 [Nước mắt tuyển nữ Việt Nam, khoảnh khắc lịch sử của Philippines ở SEA Games](https://dantri.com.vn/the-thao/nuoc-mat-tuyen-nu-viet-nam-khoanh-khac-lich-su-cua-philippines-o-sea-games-20251218031231413.htm) - 22:59 17/12/2025
