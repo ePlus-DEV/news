@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Liên đoàn bóng đá châu Á xin lỗi tuyển nữ Việt Nam](https://vnexpress.net/lien-doan-bong-da-chau-a-xin-loi-tuyen-nu-viet-nam-4995556.html) - 12:22 18/12/2025
 - 🦩 [Futsal Việt Nam giành HC vàng SEA Games lịch sử](https://vnexpress.net/futsal-viet-nam-gianh-hc-vang-sea-games-lich-su-4995545.html) - 11:14 18/12/2025
-- 🧰 [Việt Nam 2-2 Thái Lan &lpar;H2&rpar;: Hiệp phụ đến gần](https://vnexpress.net/chung-ket-bong-da-nam-sea-games-viet-nam-thai-lan-4995533.html) - 11:01 18/12/2025
+- 🧰 [Việt Nam 3-2 Thái Lan &lpar;hiệp phụ 1&rpar;: Thầy trò Kim vượt lên](https://vnexpress.net/chung-ket-bong-da-nam-sea-games-viet-nam-thai-lan-4995533.html) - 11:01 18/12/2025
 - 🤗 [Ba chị em ruột của Việt Nam giành HC vàng SEA Games 33 trong nửa ngày](https://vnexpress.net/ba-chi-em-ruot-cua-viet-nam-gianh-hc-vang-sea-games-33-trong-nua-ngay-4995513.html) - 10:30 18/12/2025
 - 🥳 [Cầu thủ Thái Lan được yêu cầu &#39;đá đến hơi thở cuối cùng trước Việt Nam&#39;](https://vnexpress.net/cau-thu-thai-lan-duoc-yeu-cau-da-den-hoi-tho-cuoi-cung-truoc-viet-nam-4995448.html) - 08:45 18/12/2025
 - 🦣 [Việt Nam hạ bệ Thái Lan ở cầu mây nam SEA Games](https://vnexpress.net/viet-nam-ha-be-thai-lan-o-cau-may-nam-sea-games-4995452.html) - 08:11 18/12/2025
