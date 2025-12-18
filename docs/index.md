@@ -516,7 +516,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [2025 là năm đại hỷ của làng giải trí Hàn](https://muctim.tuoitre.vn/2025-la-nam-dai-hy-cua-lang-giai-tri-han-101251218143936582.htm) - 11:48 18/12/2025
-- 🥷 [Trực tiếp U22 Việt Nam - U22 Thái Lan tranh huy chương vàng SEA Games 33](https://muctim.tuoitre.vn/truc-tiep-u22-viet-nam-u22-thai-lan-tranh-huy-chuong-vang-sea-games-33-101251218145315575.htm) - 10:33 18/12/2025
+- 🥷 [Trực tiếp SEA Games 33: U22 Việt Nam - U22 Thái Lan 0-2 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u22-viet-nam-u22-thai-lan-tranh-huy-chuong-vang-sea-games-33-101251218145315575.htm) - 10:33 18/12/2025
 - 🤖 [Hành trình chạm đến huy chương bạc SEA Games của cô giáo Trường THCS Nguyễn Thị Hương](https://muctim.tuoitre.vn/hanh-trinh-cham-den-huy-chuong-bac-sea-games-cua-co-giao-thcs-nguyen-thi-huong-101251218165304703.htm) - 10:30 18/12/2025
 - 🤓 [Trực tiếp futsal nam SEA Games 33: Việt Nam đối đầu chủ nhà Thái Lan](https://muctim.tuoitre.vn/truc-tiep-futsal-nam-sea-games-33-viet-nam-doi-dau-chu-nha-thai-lan-101251218163055937.htm) - 09:57 18/12/2025
 - 🎉 [Có gì mới trong kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM?](https://muctim.tuoitre.vn/co-gi-moi-trong-ky-thi-danh-gia-nang-luc-cua-dai-hoc-quoc-gia-tphcm-101251218120702582.htm) - 09:44 18/12/2025
