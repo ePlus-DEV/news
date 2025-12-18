@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Bảng tổng sắp huy chương SEA Games ngày 18/12: HCV thứ 73 từ U22 Việt Nam](https://dantri.com.vn/the-thao/bang-tong-sap-huy-chuong-sea-games-ngay-1812-hcv-thu-73-tu-u22-viet-nam-20251218222513783.htm) - 15:29 18/12/2025
-- 👨‍🏫 [Pháo hoa rực sáng trước Nhà hát Lớn mừng chiến thắng ngoạn mục của Việt Nam](https://dantri.com.vn/thoi-su/phao-hoa-ruc-sang-truoc-nha-hat-lon-mung-chien-thang-ngoan-muc-cua-viet-nam-20251218220359523.htm) - 15:14 18/12/2025
+- 👨‍🏫 [Đường phố ngập sắc đỏ sau chiến thắng ngoạn mục của U22 Việt Nam](https://dantri.com.vn/thoi-su/duong-pho-ngap-sac-do-sau-chien-thang-ngoan-muc-cua-u22-viet-nam-20251218220359523.htm) - 15:14 18/12/2025
 - 🌮 [Công an truy tìm đối tượng hành hung tài xế xe buýt ở Hà Nội](https://dantri.com.vn/phap-luat/cong-an-truy-tim-doi-tuong-hanh-hung-tai-xe-xe-buyt-o-ha-noi-20251218204124453.htm) - 13:53 18/12/2025
 - 🕯 [Quyết tâm cắt giảm thủ tục hành chính rườm rà và lời cam kết của Thủ tướng](https://dantri.com.vn/thoi-su/quyet-tam-cat-giam-thu-tuc-hanh-chinh-ruom-ra-va-loi-cam-ket-cua-thu-tuong-20251218184457320.htm) - 11:45 18/12/2025
 - 🪜 [Tai nạn 3 người chết trên cao tốc: Lái xe đầu kéo có phải chịu trách nhiệm?](https://dantri.com.vn/ban-doc/tai-nan-3-nguoi-chet-tren-cao-toc-lai-xe-dau-keo-co-phai-chiu-trach-nhiem-20251218115551933.htm) - 10:32 18/12/2025
