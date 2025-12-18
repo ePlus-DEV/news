@@ -43,7 +43,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Lý do Mỹ Tâm luôn hút fan](https://vnexpress.net/ly-do-my-tam-luon-hut-fan-4993850.html) - 17:00 18/12/2025
 - 🪄 [VnExpress đạt Giải C báo chí về Quốc hội và Hội đồng nhân dân](https://vnexpress.net/vnexpress-dat-giai-c-bao-chi-ve-quoc-hoi-va-hoi-dong-nhan-dan-4995619.html) - 16:49 18/12/2025
 - 😎 [Ông Lukashenko: Tên lửa Oreshnik đã triển khai ở Belarus](https://vnexpress.net/ong-lukashenko-ten-lua-oreshnik-da-trien-khai-o-belarus-4995612.html) - 16:47 18/12/2025
-- 🎊 [Niềm vui vỡ òa của U22 Việt Nam tại Rajamangala](https://vnexpress.net/niem-vui-vo-oa-cua-u22-viet-nam-tai-rajamangala-4995620.html) - 16:43 18/12/2025
+- 🎊 [Việt Nam lần thứ hai trong một năm lên ngôi ở Rajamangala](https://vnexpress.net/viet-nam-lan-thu-hai-trong-mot-nam-len-ngoi-o-rajamangala-4995620.html) - 16:43 18/12/2025
 - ⚗️ [Sếp EVN: &#39;Có quốc gia tiến đến thị trường bán lẻ điện cạnh tranh rồi quay lại bán buôn&#39;](https://vnexpress.net/sep-evn-co-quoc-gia-tien-den-thi-truong-ban-le-dien-canh-tranh-roi-quay-lai-ban-buon-4995609.html) - 16:29 18/12/2025
 - 🫣 [Cầu thủ Việt Nam nói gì với nhau sau khi bị Thái Lan dẫn hai bàn?](https://vnexpress.net/cau-thu-viet-nam-noi-gi-voi-nhau-sau-khi-bi-thai-lan-dan-hai-ban-4995604.html) - 16:17 18/12/2025
 - 👨‍🏫 [Thêm 42 khu đất nông nghiệp tại TP HCM được thí điểm làm nhà ở thương mại](https://vnexpress.net/them-42-khu-dat-nong-nghiep-tai-tp-hcm-duoc-thi-diem-lam-nha-o-thuong-mai-4995560.html) - 16:07 18/12/2025
