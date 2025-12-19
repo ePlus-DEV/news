@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Vẻ nam tính của thủ môn cao 1,91 m tuyển Việt Nam](https://vnexpress.net/ve-nam-tinh-cua-thu-mon-cao-1-91-m-tuyen-viet-nam-4995962.html) - 14:04 19/12/2025
+- 🌏 [Vẻ nam tính của thủ môn tuyển Việt Nam cao 1,91 m](https://vnexpress.net/ve-nam-tinh-cua-thu-mon-tuyen-viet-nam-cao-1-91-m-4995962.html) - 14:04 19/12/2025
 - 💫 [10 tranh đắt nhất thế giới trong năm](https://vnexpress.net/10-tranh-dat-nhat-the-gioi-trong-nam-4995455.html) - 13:23 19/12/2025
 - 🌮 [Madam Pang đeo bông tai 20.000 USD](https://vnexpress.net/madam-pang-deo-bong-tai-20-000-usd-4995951.html) - 12:01 19/12/2025
 - 🧠 [Soobin đưa xẩm đến gần Gen Z](https://vnexpress.net/soobin-dua-xam-den-gan-gen-z-4995707.html) - 12:00 19/12/2025
