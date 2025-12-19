@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [20 năm đi khắp gần 900 nghĩa trang để đưa liệt sĩ về với gia đình](https://dantri.com.vn/noi-vu/20-nam-di-khap-gan-900-nghia-trang-de-dua-liet-si-ve-voi-gia-dinh-20251218220241303.htm) - 23:38 18/12/2025
+- ⚗️ [Hà Nội đa dạng hóa sinh kế, phát triển mô hình giảm nghèo](https://dantri.com.vn/lao-dong-viec-lam/ha-noi-da-dang-hoa-sinh-ke-phat-trien-mo-hinh-giam-ngheo-20251218203841461.htm) - 03:21 19/12/2025
 - 🙉 [Các địa phương cải thiện dinh dưỡng, nâng cao tầm vóc trẻ em](https://dantri.com.vn/lao-dong-viec-lam/cac-dia-phuong-cai-thien-dinh-duong-nang-cao-tam-voc-tre-em-20251218215506885.htm) - 23:00 18/12/2025
 - 🕴 [Thưởng Tết 2026 cao nhất 200 triệu đồng, thấp nhất 100.000 đồng](https://dantri.com.vn/lao-dong-viec-lam/thuong-tet-2026-cao-nhat-200-trieu-dong-thap-nhat-100000-dong-20251218152329441.htm) - 09:36 18/12/2025
 - 🧐 [Vĩnh Long đẩy mạnh xây dựng và phát triển văn hoá an toàn trong lao động](https://dantri.com.vn/lao-dong-viec-lam/vinh-long-day-manh-xay-dung-va-phat-trien-van-hoa-an-toan-trong-lao-dong-20251218104044793.htm) - 07:55 18/12/2025
