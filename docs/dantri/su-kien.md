@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Đường dây bán khí cười giao tận nơi, thu lời hàng trăm triệu ở TPHCM](https://dantri.com.vn/phap-luat/duong-day-ban-khi-cuoi-giao-tan-noi-thu-loi-hang-tram-trieu-o-tphcm-20251219101127777.htm) - 03:36 19/12/2025
-- 👨‍🏫 [Đồng loạt khởi công, khánh thành, thông xe kỹ thuật 234 công trình, dự án](https://dantri.com.vn/thoi-su/dong-loat-khoi-cong-khanh-thanh-thong-xe-ky-thuat-234-cong-trinh-du-an-20251219012824687.htm) - 23:28 18/12/2025
+- 👨‍🏫 [PGS.TS Nguyễn Ái Việt: ESG thực chất là một bài toán khoa học công nghệ](https://dantri.com.vn/cong-nghe/pgsts-nguyen-ai-viet-esg-thuc-chat-la-mot-bai-toan-khoa-hoc-cong-nghe-20251218223341829.htm) - 02:00 19/12/2025
 - 🌮 [Niềm mong mỏi của cô và trò ở 2 điểm trường &quot;nhiều không&quot;](https://dantri.com.vn/tam-long-nhan-ai/niem-mong-moi-cua-co-va-tro-o-2-diem-truong-nhieu-khong-20251106175707536.htm) - 22:30 18/12/2025
 - 🕯 [Người dân cả nước ra đường ăn mừng U22 Việt Nam vô địch SEA Games](https://dantri.com.vn/ban-doc/nguoi-dan-ca-nuoc-ra-duong-an-mung-u22-viet-nam-vo-dich-sea-games-20251218215500588.htm) - 18:21 18/12/2025
 - 🪜 [Phản ứng của CĐV Đông Nam Á khi U22 Việt Nam giành HCV SEA Games 33](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-u22-viet-nam-gianh-hcv-sea-games-33-20251218231155163.htm) - 17:28 18/12/2025
