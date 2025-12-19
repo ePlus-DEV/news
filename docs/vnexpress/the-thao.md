@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫶 [Mbappe áp sát kỷ lục ghi bàn của Ronaldo tại Real](https://vnexpress.net/mbappe-ap-sat-ky-luc-ghi-ban-cua-ronaldo-tai-real-4995562.html) - 05:23 19/12/2025
 - 🌜 [Việt Nam chỉ thua Thái Lan một trận ở bóng đá trẻ suốt 8 năm](https://vnexpress.net/viet-nam-chi-thua-thai-lan-mot-tran-o-bong-da-tre-suot-8-nam-4995774.html) - 05:08 19/12/2025
 - 😺 [Các cựu tuyển thủ Thái Lan khẩu chiến sau trận thua Việt Nam](https://vnexpress.net/cac-cuu-tuyen-thu-thai-lan-khau-chien-sau-tran-thua-viet-nam-4995725.html) - 03:48 19/12/2025
-- 👍 [SEA Games ngày 19/12: &#39;Mưa vàng&#39; từ cờ vua, vật, quyền Anh](https://vnexpress.net/sea-games-ngay-19-12-cho-vang-co-vua-quyen-anh-dua-thuyen-4995712.html) - 03:00 19/12/2025
+- 👍 [SEA Games ngày 19/12: Đội tuyển bóng đá nam về nước](https://vnexpress.net/sea-games-ngay-19-12-cho-vang-co-vua-quyen-anh-dua-thuyen-4995712.html) - 03:00 19/12/2025
 - 🐵 [Điền kinh Việt Nam hoàn thành mục tiêu tại SEA Games 33](https://vnexpress.net/dien-kinh-viet-nam-hoan-thanh-muc-tieu-tai-sea-games-33-4995531.html) - 03:00 19/12/2025
 - 💫 [Madam Pang đau lòng vì Thái Lan thua ngược Việt Nam](https://vnexpress.net/madam-pang-dau-long-vi-thai-lan-thua-nguoc-viet-nam-4995690.html) - 02:05 19/12/2025
 - 🦆 [HLV Thái Lan: &#39;Chúng tôi đã muốn giải quyết Việt Nam trong 90 phút&#39;](https://vnexpress.net/hlv-thai-lan-chung-toi-da-muon-giai-quyet-viet-nam-trong-90-phut-4995661.html) - 02:00 19/12/2025
