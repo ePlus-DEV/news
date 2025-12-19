@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Hàn Quốc bị buộc rời khỏi máy bay vì nghi quấy rối](https://vnexpress.net/khach-han-quoc-bi-buoc-roi-khoi-may-bay-vi-nghi-quay-roi-4995956.html) - 15:00 19/12/2025
+- 💂 [Khách Hàn bị buộc rời khỏi chuyến bay TP HCM - Busan vì nghi quấy rối](https://vnexpress.net/khach-han-bi-buoc-roi-khoi-chuyen-bay-tp-hcm-busan-vi-nghi-quay-roi-4995956.html) - 15:00 19/12/2025
 - 🪄 [Lonely Planet gợi ý ba điểm đến tránh đông đúc ở Việt Nam](https://vnexpress.net/lonely-planet-goi-y-ba-diem-den-tranh-dong-duc-o-viet-nam-4995511.html) - 14:14 19/12/2025
 - 🦅 [Khách sạn Việt vào &#39;Danh sách Vàng&#39; nơi lưu trú toàn cầu 2026](https://vnexpress.net/khach-san-viet-vao-danh-sach-vang-noi-luu-tru-toan-cau-2026-4995873.html) - 09:25 19/12/2025
 - 🕴 [Đàn vịt Bắc Kinh khiến các tay máy đổ đến &#39;săn ảnh&#39; ở Tây Ninh](https://vnexpress.net/dan-vit-bac-kinh-khien-cac-tay-may-do-den-san-anh-o-tay-ninh-4995379.html) - 07:34 19/12/2025
