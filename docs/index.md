@@ -406,8 +406,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tổng kết năm 2025: Tổng thống Nga Vladimir Putin đối thoại với người dân và báo chí](https://baochinhphu.vn/tong-ket-nam-2025-tong-thong-nga-vladimir-putin-doi-thoai-voi-nguoi-dan-va-bao-chi-102251219061242506.htm) - 06:17 19/12/2025
-- 🌜 [Bảng tổng sắp huy chương SEA Games 33 mới nhất &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/bang-tong-sap-huy-chuong-sea-games-33-khoi-dong-tu-hom-nay-102251203090708318.htm) - 04:27 19/12/2025
+- 💻 [Bảng tổng sắp huy chương SEA Games 33 mới nhất &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/bang-tong-sap-huy-chuong-sea-games-33-khoi-dong-tu-hom-nay-102251203090708318.htm) - 07:00 19/12/2025
+- 🌜 [Tổng kết năm 2025: Tổng thống Nga Vladimir Putin đối thoại với người dân và báo chí](https://baochinhphu.vn/tong-ket-nam-2025-tong-thong-nga-vladimir-putin-doi-thoai-voi-nguoi-dan-va-bao-chi-102251219061242506.htm) - 06:17 19/12/2025
 - 🦆 [VIDEO Những bàn thắng tuyệt đẹp đưa U22 Việt Nam vô địch bóng đá nam SEA Games 33](https://baochinhphu.vn/video-nhung-ban-thang-tuyet-dep-dua-u22-viet-nam-vo-dich-bong-da-nam-sea-games-33-102251218233353243.htm) - 23:24 18/12/2025
 - 🌝 [Truyền thông các nước viết về chiến thắng của U22 Việt Nam tại SEA Games 33](https://baochinhphu.vn/truyen-thong-cac-nuoc-viet-ve-chien-thang-cua-u22-viet-nam-tai-sea-games-33-102251218232322154.htm) - 23:10 18/12/2025
 - 🦣 [Thủ tướng gửi thư chúc mừng Đội tuyển bóng đá nam U22 và Đội tuyển nữ Futsal quốc gia Việt Nam giành Huy chương Vàng SEA Games 33](https://baochinhphu.vn/thu-tuong-gui-thu-chuc-mung-doi-tuyen-bong-da-nam-u22-va-doi-tuyen-nu-futsal-quoc-gia-viet-nam-gianh-huy-chuong-vang-sea-gamesthu-chuc-mung-102251218215536442.htm) - 22:17 18/12/2025
