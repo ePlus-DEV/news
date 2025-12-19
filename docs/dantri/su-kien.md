@@ -4,10 +4,10 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Người hâm mộ chào đón U22 Việt Nam về nước](https://dantri.com.vn/the-thao/nguoi-ham-mo-chao-don-u22-viet-nam-ve-nuoc-20251219153525523.htm) - 08:36 19/12/2025
-- 👨‍🏫 [Thai phụ mất nhà sau lũ xúc động đón nhận món quà đặc biệt](https://dantri.com.vn/tam-long-nhan-ai/thai-phu-mat-nha-sau-lu-xuc-dong-don-nhan-mon-qua-dac-biet-20251219141626379.htm) - 08:00 19/12/2025
-- 🌮 [Đường dây bán khí cười giao tận nơi, thu lời hàng trăm triệu ở TPHCM](https://dantri.com.vn/phap-luat/duong-day-ban-khi-cuoi-giao-tan-noi-thu-loi-hang-tram-trieu-o-tphcm-20251219101127777.htm) - 03:36 19/12/2025
-- 🕯 [Nhật ký SEA Games 33 ngày 19/12: &quot;Mưa vàng&quot;, đoàn Việt Nam giành 86 HCV](https://dantri.com.vn/the-thao/nhat-ky-sea-games-33-ngay-1912-mua-vang-doan-viet-nam-gianh-86-hcv-20251219065424588.htm) - 02:06 19/12/2025
+- 🎭 [Xe bán bún riêu ở TPHCM phát nổ khiến người đi đường hoảng hốt](https://dantri.com.vn/thoi-su/xe-ban-bun-rieu-o-tphcm-phat-no-khien-nguoi-di-duong-hoang-hot-20251219184644716.htm) - 12:17 19/12/2025
+- 👨‍🏫 [U22 Việt Nam về đến Hà Nội, rạng rỡ sau chiến dịch SEA Games 33](https://dantri.com.vn/the-thao/u22-viet-nam-ve-den-ha-noi-rang-ro-sau-chien-dich-sea-games-33-20251219153525523.htm) - 08:36 19/12/2025
+- 🌮 [Thai phụ mất nhà sau lũ xúc động đón nhận món quà đặc biệt](https://dantri.com.vn/tam-long-nhan-ai/thai-phu-mat-nha-sau-lu-xuc-dong-don-nhan-mon-qua-dac-biet-20251219141626379.htm) - 08:00 19/12/2025
+- 🕯 [Đường dây bán khí cười giao tận nơi, thu lời hàng trăm triệu ở TPHCM](https://dantri.com.vn/phap-luat/duong-day-ban-khi-cuoi-giao-tan-noi-thu-loi-hang-tram-trieu-o-tphcm-20251219101127777.htm) - 03:36 19/12/2025
 - 🪜 [PGS.TS Nguyễn Ái Việt: ESG thực chất là một bài toán khoa học công nghệ](https://dantri.com.vn/cong-nghe/pgsts-nguyen-ai-viet-esg-thuc-chat-la-mot-bai-toan-khoa-hoc-cong-nghe-20251218223341829.htm) - 02:00 19/12/2025
 - 🐘 [234 công trình dự án hôm nay thể hiện tư duy, tầm nhìn và khát vọng vươn xa](https://dantri.com.vn/thoi-su/234-cong-trinh-du-an-hom-nay-the-hien-tu-duy-tam-nhin-va-khat-vong-vuon-xa-20251219012824687.htm) - 23:28 18/12/2025
 - 🤔 [Niềm mong mỏi của cô và trò ở 2 điểm trường &quot;nhiều không&quot;](https://dantri.com.vn/tam-long-nhan-ai/niem-mong-moi-cua-co-va-tro-o-2-diem-truong-nhieu-khong-20251106175707536.htm) - 22:30 18/12/2025
