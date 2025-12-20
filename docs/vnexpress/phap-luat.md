@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu chuyên viên Chính phủ nhận tiền tỷ giúp nhóm cấp phiếu thử nghiệm giả](https://vnexpress.net/cuu-chuyen-vien-chinh-phu-nhan-tien-ty-giup-nhom-cap-phieu-thu-nghiem-gia-4996148.html) - 03:27 20/12/2025
+- 😎 [Cựu chuyên viên nhận 4 tỷ đồng để giúp nhóm cấp phiếu thử nghiệm giả](https://vnexpress.net/cuu-chuyen-vien-nhan-4-ty-dong-de-giup-nhom-cap-phieu-thu-nghiem-gia-4996148.html) - 03:27 20/12/2025
 - 🥰 [7 cán bộ Cảng vụ Hàng hải Thanh Hoá bị bắt](https://vnexpress.net/7-can-bo-cang-vu-hang-hai-thanh-hoa-bi-bat-4996119.html) - 03:06 20/12/2025
 - 🎓 [Bí mật sau thương vụ xóa sổ 159 căn hộ tái định cư tại dự án Bến Vân Đồn](https://vnexpress.net/bi-mat-sau-thuong-vu-xoa-so-159-can-ho-tai-dinh-cu-tai-du-an-ben-van-don-4995578.html) - 23:00 19/12/2025
 - 🤓 [Tội ác đêm giao thừa của người chồng thua kém vợ](https://vnexpress.net/toi-ac-dem-giao-thua-cua-nguoi-chong-thua-kem-vo-4996005.html) - 17:00 19/12/2025
