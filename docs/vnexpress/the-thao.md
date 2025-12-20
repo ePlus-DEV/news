@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bế mạc SEA Games 33: Malaysia nhận cờ đăng cai Đại hội 34](https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250.html) - 11:50 20/12/2025
+- 🪜 [Kỳ SEA Games nhiều tranh cãi khép lại](https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250.html) - 11:50 20/12/2025
 - 🦩 [Chốt bảng tổng sắp huy chương SEA Games 33](https://vnexpress.net/chot-bang-tong-sap-huy-chuong-sea-games-33-4996253.html) - 09:07 20/12/2025
 - 🧰 [Phil Foden – kim cương của Guardiola sau những đè nén](https://vnexpress.net/phil-foden-kim-cuong-cua-guardiola-sau-nhung-de-nen-4996242.html) - 08:04 20/12/2025
 - 🤗 [Tay vợt Trung Quốc bị cấm thi đấu 12 năm vì 22 vụ bán độ](https://vnexpress.net/tay-vot-trung-quoc-bi-cam-thi-dau-12-nam-vi-22-vu-ban-do-4996236.html) - 07:47 20/12/2025
