@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Indonesia thừa nhận sự thống trị của bóng đá Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-thua-nhan-su-thong-tri-cua-bong-da-viet-nam-20251220182622051.htm) - 12:31 20/12/2025
-- 💯 [SEA Games 33 hạ màn, pháo hoa rực rỡ trong đêm chia tay Thái Lan](https://dantri.com.vn/the-thao/sea-games-33-ha-man-phao-hoa-ruc-ro-trong-dem-chia-tay-thai-lan-20251220181319433.htm) - 11:25 20/12/2025
+- 💯 [Lễ bế mạc tại SEA Games 33: Pháo hoa lần đầu xuất hiện tại Rajamangala](https://dantri.com.vn/the-thao/le-be-mac-tai-sea-games-33-phao-hoa-lan-dau-xuat-hien-tai-rajamangala-20251220181319433.htm) - 11:25 20/12/2025
 - ⛽️ [Danh sách các vận động viên Việt Nam giành huy chương SEA Games 33](https://dantri.com.vn/the-thao/danh-sach-cac-van-dong-vien-viet-nam-gianh-huy-chuong-sea-games-33-20251220181348541.htm) - 11:15 20/12/2025
 - 💃 [Làm rõ tương lai của HLV Kim Sang Sik sau khi giành HCV SEA Games](https://dantri.com.vn/the-thao/lam-ro-tuong-lai-cua-hlv-kim-sang-sik-sau-khi-gianh-hcv-sea-games-20251220180948291.htm) - 11:09 20/12/2025
 - 🌈 [Thể thao Việt Nam tự tin chinh phục những môn &quot;lạ&quot; tại SEA Games 33](https://dantri.com.vn/the-thao/the-thao-viet-nam-tu-tin-chinh-phuc-nhung-mon-la-tai-sea-games-33-20251220153922900.htm) - 10:10 20/12/2025
