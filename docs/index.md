@@ -398,7 +398,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP Lễ bế mạc SEA Games 33](https://baochinhphu.vn/truc-tiep-le-be-mac-sea-games-33-19h-hom-nay-102251220094046609.htm) - 20:04 20/12/2025
+- 💻 [TOÀN CẢNH Lễ bế mạc SEA Games 33](https://baochinhphu.vn/truc-tiep-le-be-mac-sea-games-33-19h-hom-nay-102251220094046609.htm) - 20:04 20/12/2025
 - 🌜 [Kiến tạo cấu trúc nền kinh tế số quốc gia thay vì số hóa rời rạc](https://baochinhphu.vn/kien-tao-cau-truc-nen-kinh-te-so-quoc-gia-thay-vi-so-hoa-roi-rac-102251220173955593.htm) - 19:04 20/12/2025
 - 🦆 [Thành phố Hồ Chí Minh tập trung xử lý dứt điểm các dự án vướng mắc, tồn đọng kéo dài](https://baochinhphu.vn/thanh-pho-ho-chi-minh-tap-trung-xu-ly-dut-diem-cac-du-an-vuong-mac-ton-dong-keo-dai-102251220183104903.htm) - 19:01 20/12/2025
 - 🌝 [Phát động Chương trình &#39;Học từ làm việc thực tế&#39;](https://baochinhphu.vn/phat-dong-chuong-trinh-hoc-tu-lam-viec-thuc-te-102251220164314097.htm) - 19:01 20/12/2025
