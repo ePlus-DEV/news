@@ -242,7 +242,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Newcastle đánh rơi chiến thắng trước Chelsea, 2 thủ môn đều kiến tạo](https://nld.com.vn/newcastle-danh-roi-chien-thang-truoc-chelsea-2-thu-mon-deu-kien-tao-196251220220151968.htm) - 15:13 20/12/2025
+- 🐎 [Chelsea kiên cường giành lại 1 điểm dù Newcastle dẫn trước 2 bàn](https://nld.com.vn/newcastle-danh-roi-chien-thang-truoc-chelsea-2-thu-mon-deu-kien-tao-196251220220151968.htm) - 15:13 20/12/2025
 - 😺 [Loạt sao tham dự đám cưới Shin Min-ah và Kim Woo-bin](https://nld.com.vn/loat-sao-tham-du-dam-cuoi-shin-min-ah-va-kim-woo-bin-196251220210704159.htm) - 14:41 20/12/2025
 - 👍 [Bế mạc SEA Games 33: Hẹn gặp lại, Malaysia 2027](https://nld.com.vn/be-mac-sea-games-33-hen-gap-lai-malaysia-2027-196251220210038286.htm) - 14:40 20/12/2025
 - 🥷 [Thủ tướng: Không để doanh nghiệp phải &quot;xin cho&quot; và đi lại nhiều lần](https://nld.com.vn/thu-tuong-khong-de-doanh-nghiep-phai-xin-cho-va-di-lai-nhieu-lan-196251220190914486.htm) - 12:21 20/12/2025
