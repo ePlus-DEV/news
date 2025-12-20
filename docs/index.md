@@ -27,8 +27,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [&#39;Đổi mới cách làm để khoa học công nghệ tác động vào sự phát triển&#39;](https://vnexpress.net/doi-moi-cach-lam-de-khoa-hoc-cong-nghe-tac-dong-vao-su-phat-trien-4996093.html) - 19:00 20/12/2025
-- 🧰 [VnExpress Marathon Hải Phòng 2025 khởi tranh](https://vnexpress.net/vnexpress-marathon-hai-phong-2025-khoi-tranh-4996240.html) - 19:00 20/12/2025
-- 🥰 [Haaland giúp Man City thắng đậm ở Ngoại hạng Anh](https://vnexpress.net/haaland-giup-man-city-thang-dam-o-ngoai-hang-anh-4996373.html) - 18:23 20/12/2025
+- 🧰 [Minh Tâm, Vĩ Ly đeo bám VĐV Kenya tại VM Hải Phòng](https://vnexpress.net/truc-tiep-vnexpress-marathon-hai-phong-4996240.html) - 19:00 20/12/2025
+- 🥰 [Haaland đưa Man City trở lại đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/haaland-dua-man-city-tro-lai-dinh-bang-ngoai-hang-anh-4996373.html) - 18:23 20/12/2025
 - 🌏 [4 loại nước bù điện giải tốt cho sức khỏe](https://vnexpress.net/4-loai-nuoc-bu-dien-giai-tot-cho-suc-khoe-4995888.html) - 18:00 20/12/2025
 - 🧐 [Gặp họa do học tư thế sex như &#39;phim đen&#39;](https://vnexpress.net/gap-hoa-do-hoc-tu-the-sex-nhu-phim-den-4995793.html) - 18:00 20/12/2025
 - 💫 [Mẫu tên lửa có thể giúp máy bay Triều Tiên ra đòn từ cách hàng trăm km](https://vnexpress.net/mau-ten-lua-co-the-giup-may-bay-trieu-tien-ra-don-tu-cach-hang-tram-km-4989334.html) - 18:00 20/12/2025
