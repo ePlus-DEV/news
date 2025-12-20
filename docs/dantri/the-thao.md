@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tuyển thủ quốc gia Ecuador bị bắn chết thương tâm](https://dantri.com.vn/the-thao/tuyen-thu-quoc-gia-ecuador-bi-ban-chet-thuong-tam-20251220115537775.htm) - 04:55 20/12/2025
-- 💯 [AFC kỳ vọng U23 Việt Nam vô địch châu Á sau khi giành HCV SEA Games](https://dantri.com.vn/the-thao/afc-ky-vong-u23-viet-nam-vo-dich-chau-a-sau-khi-gianh-hcv-sea-games-20251220110959321.htm) - 04:10 20/12/2025
-- ⛽️ [Mãn nhãn hình ảnh thi đấu giành 3 HCV của đấu kiếm Việt Nam ở SEA Games 33](https://dantri.com.vn/the-thao/man-nhan-hinh-anh-thi-dau-gianh-3-hcv-cua-dau-kiem-viet-nam-o-sea-games-33-20251220075710419.htm) - 03:23 20/12/2025
-- 💃 [Xác định rõ tương lai của HLV Thái Lan sau khi thua ngược U22 Việt Nam](https://dantri.com.vn/the-thao/xac-dinh-ro-tuong-lai-cua-hlv-thai-lan-sau-khi-thua-nguoc-u22-viet-nam-20251220085954363.htm) - 02:00 20/12/2025
-- 🌈 [Nhà báo Đông Nam Á: “SEA Games chỉ nên tập trung vào các môn Olympic”](https://dantri.com.vn/the-thao/nha-bao-dong-nam-a-sea-games-chi-nen-tap-trung-vao-cac-mon-olympic-20251220031717881.htm) - 01:42 20/12/2025
-- 🦅 [Thể thao Việt Nam hy vọng giành 2 HCV cầu mây ở ngày bế mạc SEA Games 33](https://dantri.com.vn/the-thao/the-thao-viet-nam-hy-vong-gianh-2-hcv-cau-may-o-ngay-be-mac-sea-games-33-20251220070037059.htm) - 00:03 20/12/2025
+- 🎡 [Cầu mây nam thắng Thái Lan, thể thao Việt Nam có HCV thứ 87](https://dantri.com.vn/the-thao/cau-may-nam-thang-thai-lan-the-thao-viet-nam-co-hcv-thu-87-20251220070037059.htm) - 05:33 20/12/2025
+- 💯 [Tuyển thủ quốc gia Ecuador bị bắn chết thương tâm](https://dantri.com.vn/the-thao/tuyen-thu-quoc-gia-ecuador-bi-ban-chet-thuong-tam-20251220115537775.htm) - 04:55 20/12/2025
+- ⛽️ [AFC kỳ vọng U23 Việt Nam vô địch châu Á sau khi giành HCV SEA Games](https://dantri.com.vn/the-thao/afc-ky-vong-u23-viet-nam-vo-dich-chau-a-sau-khi-gianh-hcv-sea-games-20251220110959321.htm) - 04:10 20/12/2025
+- 💃 [Mãn nhãn hình ảnh thi đấu giành 3 HCV của đấu kiếm Việt Nam ở SEA Games 33](https://dantri.com.vn/the-thao/man-nhan-hinh-anh-thi-dau-gianh-3-hcv-cua-dau-kiem-viet-nam-o-sea-games-33-20251220075710419.htm) - 03:23 20/12/2025
+- 🌈 [Xác định rõ tương lai của HLV Thái Lan sau khi thua ngược U22 Việt Nam](https://dantri.com.vn/the-thao/xac-dinh-ro-tuong-lai-cua-hlv-thai-lan-sau-khi-thua-nguoc-u22-viet-nam-20251220085954363.htm) - 02:00 20/12/2025
+- 🦅 [Nhà báo Đông Nam Á: “SEA Games chỉ nên tập trung vào các môn Olympic”](https://dantri.com.vn/the-thao/nha-bao-dong-nam-a-sea-games-chi-nen-tap-trung-vao-cac-mon-olympic-20251220031717881.htm) - 01:42 20/12/2025
 - 🌝 [Báo Thái Lan chỉ trích đội nhà khi bóng đá trắng tay HCV ở SEA Games 33](https://dantri.com.vn/the-thao/bao-thai-lan-chi-trich-doi-nha-khi-bong-da-trang-tay-hcv-o-sea-games-33-20251220000848992.htm) - 23:27 19/12/2025
 - 🚀 [Steve Darby: “Di sản của HLV Troussier giúp U22 Việt Nam vô địch SEA Games”](https://dantri.com.vn/the-thao/steve-darby-di-san-cua-hlv-troussier-giup-u22-viet-nam-vo-dich-sea-games-20251219233422326.htm) - 23:06 19/12/2025
 - 🎉 [Báo Trung Quốc thán phục màn ngược dòng kinh điển của U22 Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-than-phuc-man-nguoc-dong-kinh-dien-cua-u22-viet-nam-20251220001618799.htm) - 23:01 19/12/2025
