@@ -401,9 +401,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tục thông báo hoạt động môi giới bất động sản](https://baochinhphu.vn/thu-tuc-thong-bao-hoat-dong-moi-gioi-bat-dong-san-102251220052216207.htm) - 11:00 20/12/2025
-- 🌜 [Khôi phục điện sau bão số 13 tại Gia Lai: Cuộc chạy đua với 3 kỷ lục](https://baochinhphu.vn/khoi-phuc-dien-sau-bao-so-13-tai-gia-lai-cuoc-chay-dua-voi-3-ky-luc-102251220092945835.htm) - 10:42 20/12/2025
-- 🦆 [CẬP NHẬT: Thủ tướng Phạm Minh Chính chủ trì Diễn đàn quốc gia phát triển Kinh tế số và xã hội số lần thứ 3](https://baochinhphu.vn/cap-nhat-thu-tuong-pham-minh-chinh-chu-tri-dien-dan-quoc-gia-phat-trien-kinh-te-so-va-xa-hoi-so-lan-thu-3-102251220083417387.htm) - 10:34 20/12/2025
+- 💻 [CẬP NHẬT: Thủ tướng Phạm Minh Chính chủ trì Diễn đàn quốc gia phát triển Kinh tế số và xã hội số lần thứ 3](https://baochinhphu.vn/cap-nhat-thu-tuong-pham-minh-chinh-chu-tri-dien-dan-quoc-gia-phat-trien-kinh-te-so-va-xa-hoi-so-lan-thu-3-102251220083417387.htm) - 11:34 20/12/2025
+- 🌜 [Thủ tục thông báo hoạt động môi giới bất động sản](https://baochinhphu.vn/thu-tuc-thong-bao-hoat-dong-moi-gioi-bat-dong-san-102251220052216207.htm) - 11:00 20/12/2025
+- 🦆 [Khôi phục điện sau bão số 13 tại Gia Lai: Cuộc chạy đua với 3 kỷ lục](https://baochinhphu.vn/khoi-phuc-dien-sau-bao-so-13-tai-gia-lai-cuoc-chay-dua-voi-3-ky-luc-102251220092945835.htm) - 10:42 20/12/2025
 - 🌝 [Các khoản trợ cấp cho thân nhân khi người đang hưởng lương hưu từ trần](https://baochinhphu.vn/cac-khoan-tro-cap-cho-than-nhan-khi-nguoi-dang-huong-luong-huu-tu-tran-102251219164630955.htm) - 10:00 20/12/2025
 - 🦣 [TRỰC TIẾP Lễ bế mạc SEA Games 33 &lpar;19h hôm nay&rpar;](https://baochinhphu.vn/truc-tiep-le-be-mac-sea-games-33-19h-hom-nay-102251220094046609.htm) - 09:40 20/12/2025
 - ⛽️ [CHUYỂN ĐỔI SỐ: Indonesia xây dựng &quot;Cổng Văn hóa&quot; số](https://baochinhphu.vn/chuyen-doi-so-indonesia-xay-dung-cong-van-hoa-so-102251220091909367.htm) - 09:19 20/12/2025
