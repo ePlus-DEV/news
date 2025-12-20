@@ -72,7 +72,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Hai thành phố châu Á &#39;đáng đến để ăn nhất năm 2026&#39;](https://vnexpress.net/hai-thanh-pho-chau-a-dang-den-de-an-nhat-nam-2026-4996162.html) - 05:34 20/12/2025
 - 💪 [MB nhận &#39;cú đúp&#39; giải thưởng về sáng tạo và quảng cáo](https://vnexpress.net/mb-nhan-cu-dup-giai-thuong-ve-sang-tao-va-quang-cao-4996195.html) - 05:30 20/12/2025
 - 🧑‍🏫 [Du khách Đức: &#39;VnExpress Marathon như bữa tiệc lớn&#39;](https://vnexpress.net/du-khach-chau-au-vnexpress-marathon-hai-phong-4994442.html) - 05:30 20/12/2025
-- 🎓 [Campuchia cáo buộc F-16 Thái Lan phá hủy cầu huyết mạch](https://vnexpress.net/campuchia-cao-buoc-f-16-thai-lan-pha-huy-cau-huyet-mach-4996200.html) - 05:22 20/12/2025<!-- vnexpress:END -->
+- 🎓 [Campuchia cáo buộc F-16 Thái Lan phá hủy cầu huyết mạch](https://vnexpress.net/campuchia-cao-buoc-f-16-thai-lan-pha-huy-cau-huyet-mach-4996200.html) - 05:22 20/12/2025
+- 💫 [Làn ngoài cùng bên trái chỉ dành cho xe vượt để ngăn nạn &#39;rùa bò&#39;](https://vnexpress.net/lan-ngoai-cung-ben-trai-chi-danh-cho-xe-vuot-de-ngan-nan-rua-bo-4996186.html) - 05:22 20/12/2025
+- 🤩 [Thái Lan tuyên bố không chịu sức ép từ Mỹ, Trung để ngừng bắn với Campuchia](https://vnexpress.net/thai-lan-tuyen-bo-khong-chiu-suc-ep-tu-my-trung-de-ngung-ban-voi-campuchia-4996189.html) - 05:12 20/12/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
