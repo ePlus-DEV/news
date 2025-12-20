@@ -514,7 +514,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Tối 20-12, Phương Linh tranh tài tại chung kết Miss Cosmo 2025](https://muctim.tuoitre.vn/toi-20-12-phuong-linh-tranh-tai-tai-chung-ket-miss-cosmo-2025-101251220210717599.htm) - 14:10 20/12/2025
+- 🤔 [Người đẹp Mỹ Yolina Lindquist đăng quang Miss Cosmo 2025](https://muctim.tuoitre.vn/toi-20-12-phuong-linh-tranh-tai-tai-chung-ket-miss-cosmo-2025-101251220210717599.htm) - 14:10 20/12/2025
 - 🥷 [Kim Woo Bin, Shin Min Ah tung ảnh cưới tuyệt đối điện ảnh](https://muctim.tuoitre.vn/kim-woo-bin-shin-min-ah-tung-anh-cuoi-tuyet-doi-dien-anh-101251220125724459.htm) - 12:20 20/12/2025
 - 🤖 [Nhà thờ Tân Định lên đèn đón Giáng sinh lúc 17h45, check-in góc nào đẹp nhất?](https://muctim.tuoitre.vn/nha-tho-tan-dinh-len-den-don-giang-sinh-luc-17h45-check-in-goc-nao-dep-nhat-101251220150231126.htm) - 12:19 20/12/2025
 - 🤓 [Việt Nam giành 278 huy chương tại SEA Games 33](https://muctim.tuoitre.vn/viet-nam-gianh-278-huy-chuong-tai-sea-games-33-10125122017030264.htm) - 12:14 20/12/2025
