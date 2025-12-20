@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [VnExpress Marathon Hải Phòng 2025 khởi tranh](https://vnexpress.net/vnexpress-marathon-hai-phong-2025-khoi-tranh-4996240.html) - 19:00 20/12/2025
+- 🪜 [Cự ly 42km VnExpress Marathon Hải Phòng 2025 xuất phát](https://vnexpress.net/vnexpress-marathon-hai-phong-2025-khoi-tranh-4996240.html) - 19:00 20/12/2025
 - 🦩 [Haaland giúp Man City thắng đậm ở Ngoại hạng Anh](https://vnexpress.net/haaland-giup-man-city-thang-dam-o-ngoai-hang-anh-4996373.html) - 18:23 20/12/2025
 - 🧰 [Chelsea hút chết trước Newcastle](https://vnexpress.net/chelsea-hut-chet-truoc-newcastle-4996320.html) - 15:08 20/12/2025
 - 🤗 [Kỳ SEA Games nhiều tranh cãi khép lại](https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250-tong-thuat.html) - 11:50 20/12/2025
