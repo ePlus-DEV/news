@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Đường dây lừa đầu tư tiền ảo, chiếm đoạt 1.300 tỷ đồng bị bắt](https://vnexpress.net/duong-day-lua-dau-tu-tien-ao-chiem-doat-1-300-ty-dong-bi-bat-4996504.html) - 09:25 21/12/2025
 - 🪜 [Cách Ronaldo giữ hình thể như tạc tượng ở tuổi 40](https://vnexpress.net/cach-ronaldo-giu-hinh-the-nhu-tac-tuong-o-tuoi-40-4996426.html) - 09:20 21/12/2025
 - 👨‍🏫 [Stan Wawrinka sẽ từ giã sự nghiệp cuối 2026](https://vnexpress.net/stan-wawrinka-se-tu-gia-su-nghiep-cuoi-2026-4996510.html) - 09:19 21/12/2025
-- 🎊 [Bộ trưởng Nguyễn Mạnh Hùng: &#39;Năm 2025 ngành khoa học công nghệ có nhiều thử thách&#39;](https://vnexpress.net/bo-truong-nguyen-manh-hung-nam-2025-nganh-khoa-hoc-cong-nghe-co-nhieu-thu-thach-4996388.html) - 09:14 21/12/2025
+- 🎊 [Ngành Khoa học và Công nghệ 2025 &#39;thay đổi nhận thức, cách làm và ra nhiều kết quả hơn&#39;](https://vnexpress.net/nganh-khoa-hoc-va-cong-nghe-2025-thay-doi-nhan-thuc-cach-lam-va-ra-nhieu-ket-qua-hon-4996388.html) - 09:14 21/12/2025
 - 🎊 [Cho ôtô vào cao tốc Cần Thơ - Hậu Giang từ sáng 22/12](https://vnexpress.net/cho-oto-vao-cao-toc-can-tho-hau-giang-tu-sang-22-12-4996495.html) - 09:01 21/12/2025
 - 😺 [Điều gì xảy ra khi ăn hành lá thường xuyên?](https://vnexpress.net/dieu-gi-xay-ra-khi-an-hanh-la-thuong-xuyen-4996315.html) - 09:00 21/12/2025
 - 🐘 [Vì sao nhiều người đi xe máy lại thích đeo tai nghe?](https://vnexpress.net/vi-sao-nhieu-nguoi-di-xe-may-lai-thich-deo-tai-nghe-4996493.html) - 08:48 21/12/2025
