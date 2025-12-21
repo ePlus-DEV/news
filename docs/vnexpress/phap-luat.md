@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Gia chủ hầu tòa vì tự ý chặt cây quý trong sân nhà](https://vnexpress.net/gia-chu-hau-toa-vi-tu-y-chat-cay-quy-trong-san-nha-4996392.html) - 01:45 21/12/2025
 - 🎓 [Nam thanh niên khai &#39;lên ôtô người lạ, tỉnh dậy đã ở Campuchia&#39;](https://vnexpress.net/nam-thanh-nien-khai-len-oto-nguoi-la-tinh-day-da-o-campuchia-4996326.html) - 00:45 21/12/2025
 - 🤓 [Mẹ bị bắt vì say rượu quên con trong ôtô suốt 4 tiếng](https://vnexpress.net/me-bi-bat-vi-say-ruou-quen-con-trong-oto-suot-4-tieng-4996313.html) - 00:00 21/12/2025
-- 🎊 [Hệ thống &#39;chấm điểm công dân&#39; trên VNeID dự kiến hoạt động ra sao](https://vnexpress.net/he-thong-cham-diem-cong-dan-tren-vneid-du-kien-hoat-dong-ra-sao-4996291.html) - 00:00 21/12/2025
+- 🎊 [Hệ thống &#39;chấm điểm công dân số&#39; trên VNeID dự kiến hoạt động ra sao](https://vnexpress.net/he-thong-cham-diem-cong-dan-so-tren-vneid-du-kien-hoat-dong-ra-sao-4996291.html) - 00:00 21/12/2025
 - 🙉 [Đường dây nhập lậu hàng trăm nghìn tấn thịt động vật từ Châu Âu](https://vnexpress.net/duong-day-nhap-lau-hang-tram-nghin-tan-thit-dong-vat-tu-chau-au-4996276.html) - 15:21 20/12/2025
 - 🤡 [Công an Hà Nội kích hoạt &#39;lá chắn thép&#39; chống ma túy](https://vnexpress.net/cong-an-ha-noi-kich-hoat-la-chan-thep-chong-ma-tuy-4996305.html) - 14:33 20/12/2025
 - 🗽 [Toan tính giết vợ vì bị ly hôn](https://vnexpress.net/toan-tinh-giet-vo-vi-bi-ly-hon-4996175.html) - 05:55 20/12/2025
