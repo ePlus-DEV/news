@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vì sao bánh khúc cây được ăn vào dịp Giáng sinh?](https://vnexpress.net/vi-sao-banh-khuc-cay-duoc-an-vao-dip-giang-sinh-4996053.html) - 14:56 21/12/2025
+- 💂 [Lý do bánh khúc cây được ăn vào dịp Giáng sinh](https://vnexpress.net/ly-do-banh-khuc-cay-duoc-an-vao-dip-giang-sinh-4996053.html) - 14:56 21/12/2025
 - 🪄 [Quả mận miền Nam là quả gì miền Bắc?](https://vnexpress.net/qua-man-mien-nam-la-qua-gi-mien-bac-4996266.html) - 12:30 21/12/2025
 - 🦅 [6 điều nên làm khi đến Mộc Châu mùa đông xuân](https://vnexpress.net/6-dieu-nen-lam-khi-den-moc-chau-mua-dong-xuan-4995810.html) - 04:15 21/12/2025
 - 🕴 [Theo chân thợ săn &#39;mật ong điên&#39; trên vách núi](https://vnexpress.net/theo-chan-tho-san-mat-ong-dien-tren-vach-nui-4995833.html) - 23:00 20/12/2025
