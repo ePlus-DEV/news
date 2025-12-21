@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Bộ trưởng Công Thương Nguyễn Hồng Diên giữ chức Phó Bí thư Đảng ủy Quốc hội](https://dantri.com.vn/thoi-su/bo-truong-cong-thuong-nguyen-hong-dien-giu-chuc-pho-bi-thu-dang-uy-quoc-hoi-20251221153509000.htm) - 11:01 21/12/2025
+- 🎭 [Ông Nguyễn Hồng Diên được điều động giữ chức Phó Bí thư Đảng ủy Quốc hội](https://dantri.com.vn/thoi-su/ong-nguyen-hong-dien-duoc-dieu-dong-giu-chuc-pho-bi-thu-dang-uy-quoc-hoi-20251221153509000.htm) - 11:01 21/12/2025
 - 👨‍🏫 [Lê Trung Khoa mượn danh nhà báo để lập “điểm đen tuyên truyền”](https://dantri.com.vn/phap-luat/le-trung-khoa-muon-danh-nha-bao-de-lap-diem-den-tuyen-truyen-20251221161915434.htm) - 09:32 21/12/2025
 - 🌮 [Vàng lập đỉnh 2025, nhưng kho báu lợi nhuận thực sự lại nằm ở 4 cái tên này](https://dantri.com.vn/kinh-doanh/vang-lap-dinh-2025-nhung-kho-bau-loi-nhuan-thuc-su-lai-nam-o-4-cai-ten-nay-20251221150349106.htm) - 08:31 21/12/2025
 - 🕯 [AFC ra án phạt với Malaysia ở vòng loại Asian Cup 2027](https://dantri.com.vn/the-thao/afc-ra-an-phat-voi-malaysia-o-vong-loai-asian-cup-2027-20251221141632598.htm) - 07:16 21/12/2025
