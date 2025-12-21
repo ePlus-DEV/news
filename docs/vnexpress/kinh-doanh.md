@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chủ tịch PVN được giao quyền Bộ trưởng Công Thương](https://vnexpress.net/chu-tich-pvn-duoc-giao-quyen-bo-truong-cong-thuong-4996461.html) - 06:58 21/12/2025
+- ⛽️ [Thủ tướng: Việt Nam ổn định là &#39;mỏ neo&#39; an toàn nhất cho nhà đầu tư](https://vnexpress.net/thu-tuong-viet-nam-on-dinh-la-mo-neo-an-toan-nhat-cho-nha-dau-tu-4996481.html) - 07:39 21/12/2025
 - 🐲 [Chính phủ công bố thành lập Trung tâm tài chính quốc tế tại Việt Nam](https://vnexpress.net/chinh-phu-cong-bo-thanh-lap-trung-tam-tai-chinh-quoc-te-tai-viet-nam-4996407.html) - 04:00 21/12/2025
 - 🔥 [Xuất khẩu rau quả sang EU đạt mức cao nhất từ trước tới nay](https://vnexpress.net/xuat-khau-rau-qua-sang-eu-dat-muc-cao-nhat-tu-truoc-toi-nay-4996404.html) - 03:54 21/12/2025
 - 🐵 [&#39;Lãi suất vay tăng nhưng chưa đáng lo ngại&#39;](https://vnexpress.net/lai-suat-vay-tang-nhung-chua-dang-lo-ngai-4995352.html) - 00:25 21/12/2025
