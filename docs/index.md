@@ -207,46 +207,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [FPT Play phát trực tiếp sự kiện VPBank Presents T1 Vietnam](https://laodong.vn/the-thao/fpt-play-phat-truc-tiep-su-kien-vpbank-presents-t1-vietnam-1628161.ldo) - 15:21 19/12/2025
-- 📝 [6 vụ tai nạn liên tiếp trong ngày ở Hải Phòng khiến 9 người thương vong](https://laodong.vn/xa-hoi/6-vu-tai-nan-lien-tiep-trong-ngay-o-hai-phong-khien-9-nguoi-thuong-vong-1628164.ldo) - 15:16 19/12/2025
-- 🦏 [Nhà hàng, massage, karaoke ở TPHCM phải ký cam kết không khiêu dâm, kích dục](https://laodong.vn/kinh-doanh/nha-hang-massage-karaoke-o-tphcm-phai-ky-cam-ket-khong-khieu-dam-kich-duc-1628152.ldo) - 15:01 19/12/2025
-- 🦩 [AI hỗ trợ thầy cô trong giảng dạy nhưng không thay thế tư duy](https://laodong.vn/giao-duc/ai-ho-tro-thay-co-trong-giang-day-nhung-khong-thay-the-tu-duy-1628064.ldo) - 14:41 19/12/2025
-- 🦏 [Nhịp Showbiz: Cục trưởng Xuân Bắc gây sốt khi nhắc tới tuyển U22 Việt Nam](https://laodong.vn/van-hoa-giai-tri/nhip-showbiz-cuc-truong-xuan-bac-gay-sot-khi-nhac-toi-tuyen-u22-viet-nam-1628120.ldo) - 14:38 19/12/2025
-- 🧰 [Bắt tạm giam 7 cán bộ Cảng vụ hàng hải Thanh Hóa](https://laodong.vn/phap-luat/bat-tam-giam-7-can-bo-cang-vu-hang-hai-thanh-hoa-1628138.ldo) - 14:22 19/12/2025
-- 🌊 [Cú zoom xa hơn 500m của camera AI khiến tài xế không thể chối cãi lỗi vi phạm](https://laodong.vn/phap-luat/cu-zoom-xa-hon-500m-cua-camera-ai-khien-tai-xe-khong-the-choi-cai-loi-vi-pham-1628133.ldo) - 14:18 19/12/2025
-- 🔥 [Công đoàn An Giang đổi mới nội dung, sáng tạo trong phương thức hoạt động](https://laodong.vn/video/cong-doan-an-giang-doi-moi-noi-dung-sang-tao-trong-phuong-thuc-hoat-dong-1628043.ldo) - 14:08 19/12/2025
-- 🦒 [Nam học sinh lớp 10 ở Lâm Đồng nhảy lầu tự tử ngay trong trường](https://laodong.vn/giao-duc/nam-hoc-sinh-lop-10-o-lam-dong-nhay-lau-tu-tu-ngay-trong-truong-1628124.ldo) - 13:53 19/12/2025
-- 💼 [Camera AI “soi” tận cổng trường, hàng trăm học sinh vi phạm bị xử lý](https://laodong.vn/phap-luat/camera-ai-soi-tan-cong-truong-hang-tram-hoc-sinh-vi-pham-bi-xu-ly-1628127.ldo) - 13:46 19/12/2025
-- 🤖 [Điều tra vụ thi thể không còn nguyên vẹn trôi trên sông Sài Gòn](https://laodong.vn/phap-luat/dieu-tra-vu-thi-the-khong-con-nguyen-ven-troi-tren-song-sai-gon-1628128.ldo) - 13:38 19/12/2025
-- 💪 [LD25091: Con mắc bệnh hiểm nghèo, vợ chồng trẻ ở Thanh Hóa kiệt quệ giữa vòng xoáy số phận](https://laodong.vn/tlv-canh-doi/ld25091-con-mac-benh-hiem-ngheo-vo-chong-tre-o-thanh-hoa-kiet-que-giua-vong-xoay-so-phan-1628052.ldo) - 13:21 19/12/2025
-- 👍 [Bà Bùi Thị Minh Hoài thăm, chúc mừng Tòa Tổng Giám mục Tổng Giáo phận Hà Nội](https://laodong.vn/mat-tran/ba-bui-thi-minh-hoai-tham-chuc-mung-toa-tong-giam-muc-tong-giao-phan-ha-noi-1628121.ldo) - 13:17 19/12/2025
-- 💂 [U22 Việt Nam về nước, chuẩn bị cho giải U23 châu Á](https://laodong.vn/video/u22-viet-nam-ve-nuoc-chuan-bi-cho-giai-u23-chau-a-1628119.ldo) - 13:17 19/12/2025
-- 🧰 [Ông Putin cập nhật tình hình Ukraina trong họp báo cuối năm](https://laodong.vn/ban-tin/ong-putin-cap-nhat-tinh-hinh-ukraina-trong-hop-bao-cuoi-nam-1628067.ldo) - 13:15 19/12/2025
-- 🥷 [Nhan sắc khó tin ở tuổi 75 của “Võ Tắc Thiên đẹp nhất màn ảnh”](https://laodong.vn/giai-tri/nhan-sac-kho-tin-o-tuoi-75-cua-vo-tac-thien-dep-nhat-man-anh-1628101.ldo) - 13:10 19/12/2025
-- 💫 [Đội tuyển bóng bàn Việt Nam khép lại  nội dung tranh tài tại SEA Games 33](https://laodong.vn/the-thao/doi-tuyen-bong-ban-viet-nam-khep-lai-noi-dung-tranh-tai-tai-sea-games-33-1628122.ldo) - 13:02 19/12/2025
-- 🎭 [Mỹ gây bất ngờ sau quyết định đảo ngược viện trợ Ukraina](https://laodong.vn/the-gioi/my-gay-bat-ngo-sau-quyet-dinh-dao-nguoc-vien-tro-ukraina-1628053.ldo) - 13:00 19/12/2025
-- 😎 [Tin 20h: Vụ tai nạn làm 3 người tử vong, xe cứu thương bật tín hiệu ưu tiên sai quy định](https://laodong.vn/video-xa-hoi/tin-20h-vu-tai-nan-lam-3-nguoi-tu-vong-xe-cuu-thuong-bat-tin-hieu-uu-tien-sai-quy-dinh-1628051.ldo) - 13:00 19/12/2025
-- 💄 [5 thói quen hàng ngày giúp duy trì lượng đường trong máu ổn định](https://laodong.vn/suc-khoe/5-thoi-quen-hang-ngay-giup-duy-tri-luong-duong-trong-mau-on-dinh-1627988.ldo) - 13:00 19/12/2025
-- 🫣 [Dự báo thời tiết ngày mai 20.12 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-2012-tren-ca-nuoc-1628093.ldo) - 13:00 19/12/2025
-- 🧑‍🏫 [Giá vàng biến động giữa nhịp rung lắc của thị trường](https://laodong.vn/kinh-doanh/gia-vang-bien-dong-giua-nhip-rung-lac-cua-thi-truong-1628090.ldo) - 12:48 19/12/2025
-- 🦣 [Giám đốc Công an Cao Bằng được thăng hàm thiếu tướng](https://laodong.vn/thoi-su/giam-doc-cong-an-cao-bang-duoc-thang-ham-thieu-tuong-1628116.ldo) - 12:41 19/12/2025
-- 💫 [Phát hiện cá nghi hải tượng long chết nổi trên hồ nước ở Đà Nẵng](https://laodong.vn/xa-hoi/phat-hien-ca-nghi-hai-tuong-long-chet-noi-tren-ho-nuoc-o-da-nang-1628106.ldo) - 12:38 19/12/2025
-- ⛽️ [Ông Putin tin EU sẽ phải trả lại tài sản Nga](https://laodong.vn/the-gioi/ong-putin-tin-eu-se-phai-tra-lai-tai-san-nga-1628071.ldo) - 12:36 19/12/2025
-- 💫 [Xử lý người bấm nhầm vào phần chia sẻ trang đánh bạc ở Hưng Yên](https://laodong.vn/phap-luat/xu-ly-nguoi-bam-nham-vao-phan-chia-se-trang-danh-bac-o-hung-yen-1628112.ldo) - 12:33 19/12/2025
-- 🥸 [Gửi tiết kiệm 100 triệu đồng, nhận lãi suất cao nhất lên đến 8,3%/năm](https://laodong.vn/kinh-doanh/gui-tiet-kiem-100-trieu-dong-nhan-lai-suat-cao-nhat-len-den-83nam-1628115.ldo) - 12:32 19/12/2025
-- 🐻 [Công đoàn Công ty TNHH Northstar Precision Việt Nam vun đắp quan hệ lao động hài hòa](https://laodong.vn/cong-doan/cong-doan-cong-ty-tnhh-northstar-precision-viet-nam-vun-dap-quan-he-lao-dong-hai-hoa-1628118.ldo) - 12:30 19/12/2025
-- 🪄 [Bản tin dự báo thời tiết đêm nay và ngày mai 20.12](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2012-1628070.ldo) - 12:30 19/12/2025
-- 🧑‍🏫 [Metro số 1 miễn phí vé dịp Tết Dương lịch 2026](https://laodong.vn/xa-hoi/metro-so-1-mien-phi-ve-dip-tet-duong-lich-2026-1628109.ldo) - 12:29 19/12/2025
-- 🌊 [Đoàn tàu của tuyến metro số 5 ở Hà Nội đạt tốc độ 90km/h khi đi ngầm](https://laodong.vn/xa-hoi/doan-tau-cua-tuyen-metro-so-5-o-ha-noi-dat-toc-do-90kmh-khi-di-ngam-1628110.ldo) - 12:29 19/12/2025
-- 💻 [CSGT Tây Ninh dán phản quang “Về nhà an toàn” cho xe tải, container](https://laodong.vn/xa-hoi/csgt-tay-ninh-dan-phan-quang-ve-nha-an-toan-cho-xe-tai-container-1628114.ldo) - 12:27 19/12/2025
-- 👨‍🏫 [Điện Biên thúc đẩy sớm mở cửa khẩu A Pa Chải](https://laodong.vn/kinh-doanh/dien-bien-thuc-day-som-mo-cua-khau-a-pa-chai-1628048.ldo) - 12:11 19/12/2025
-- 🌈 [Thế giới 24h: Dự báo 2 vùng áp thấp hình thành gần Philippines vào tuần tới](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-du-bao-2-vung-ap-thap-hinh-thanh-gan-philippines-vao-tuan-toi-1628018.ldo) - 12:00 19/12/2025
-- 🐲 [Nóng Sài Gòn: Dự báo mưa dông kèm triều cường ở Nam Bộ](https://laodong.vn/video/nong-sai-gon-du-bao-mua-dong-kem-trieu-cuong-o-nam-bo-1628088.ldo) - 12:00 19/12/2025
-- 🚀 [Nhu cầu an cư tăng, Hưng Yên thúc đẩy phân khúc nhà ở cho người lao động](https://laodong.vn/bat-dong-san/nhu-cau-an-cu-tang-hung-yen-thuc-day-phan-khuc-nha-o-cho-nguoi-lao-dong-1628082.ldo) - 11:57 19/12/2025
-- 😺 [Bắt đối tượng tham ô tài sản ở Ninh Bình](https://laodong.vn/phap-luat/bat-doi-tuong-tham-o-tai-san-o-ninh-binh-1628098.ldo) - 11:52 19/12/2025
-- 🕴 [Bắt voọc đen Hà Tĩnh tấn công người tại Quảng Trị](https://laodong.vn/xa-hoi/bat-vooc-den-ha-tinh-tan-cong-nguoi-tai-quang-tri-1628100.ldo) - 11:51 19/12/2025
-- 🌋 [Nhóm bạn lĩnh hơn 22 năm tù sau bữa tiệc ma túy ở Hải Phòng](https://laodong.vn/phap-luat/nhom-ban-linh-hon-22-nam-tu-sau-bua-tiec-ma-tuy-o-hai-phong-1628099.ldo) - 11:48 19/12/2025
-- 💄 [Cập nhật giá vàng chốt phiên 19.12: Tiềm ẩn nguy cơ khi lướt sóng](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-1912-tiem-an-nguy-co-khi-luot-song-1627543.ldo) - 11:47 19/12/2025<!-- laodong:END -->
+- 🗽 [Man United trắng tay rời Villa Park](https://laodong.vn/bong-da-quoc-te/man-united-trang-tay-roi-villa-park-1629058.ldo) - 18:58 21/12/2025
+- 📝 [2 xe máy tông trực diện ở Lâm Đồng, 2 người tử vong tại chỗ](https://laodong.vn/giao-thong/2-xe-may-tong-truc-dien-o-lam-dong-2-nguoi-tu-vong-tai-cho-1629006.ldo) - 14:39 21/12/2025
+- 🦏 [Nhiều dấu ấn từ Giải Padel quốc gia đầu tiên tại TPHCM](https://laodong.vn/the-thao/nhieu-dau-an-tu-giai-padel-quoc-gia-dau-tien-tai-tphcm-1629023.ldo) - 14:27 21/12/2025
+- 🦩 [Công an Gia Lai thần tốc dựng lại nhà cho dân vùng bão lũ trước Tết](https://laodong.vn/mat-tran/cong-an-gia-lai-than-toc-dung-lai-nha-cho-dan-vung-bao-lu-truoc-tet-1628960.ldo) - 14:26 21/12/2025
+- 🦏 [Tạm giữ nhóm đối tượng để điều tra hành vi môi giới mại dâm tại Quảng Ninh](https://laodong.vn/phap-luat/tam-giu-nhom-doi-tuong-de-dieu-tra-hanh-vi-moi-gioi-mai-dam-tai-quang-ninh-1628995.ldo) - 14:11 21/12/2025
+- 🧰 [Kể chuyện khoa học bằng những hành trình bền bỉ phía sau ánh hào quang](https://laodong.vn/cong-nghe/ke-chuyen-khoa-hoc-bang-nhung-hanh-trinh-ben-bi-phia-sau-anh-hao-quang-1628998.ldo) - 14:10 21/12/2025
+- 🌊 [Điểm bất lợi của iPhone Fold so với các đối thủ](https://laodong.vn/cong-nghe/diem-bat-loi-cua-iphone-fold-so-voi-cac-doi-thu-1629010.ldo) - 14:01 21/12/2025
+- 🔥 [Dòng kênh từng ngập rác ở TPHCM dần lột xác thành đường 4 làn xe](https://laodong.vn/xa-hoi/dong-kenh-tung-ngap-rac-o-tphcm-dan-lot-xac-thanh-duong-4-lan-xe-1628997.ldo) - 13:59 21/12/2025
+- 🦒 [Bóng chuyền Việt Nam 21.12: VTV Bình Điền Long An thi đấu ở Hàn Quốc](https://laodong.vn/the-thao/bong-chuyen-viet-nam-2112-vtv-binh-dien-long-an-thi-dau-o-han-quoc-1628876.ldo) - 13:44 21/12/2025
+- 💼 [Hyun Bin muốn đóng bộ phim thứ ba với Son Ye Jin](https://laodong.vn/giai-tri/hyun-bin-muon-dong-bo-phim-thu-ba-voi-son-ye-jin-1628999.ldo) - 13:41 21/12/2025
+- 🤖 [Đông kín người dân đếm ngược đón khoảnh khắc Nhà thờ Đức Bà lên đèn](https://laodong.vn/video/dong-kin-nguoi-dan-dem-nguoc-don-khoanh-khac-nha-tho-duc-ba-len-den-1629005.ldo) - 13:40 21/12/2025
+- 💪 [Nhịp Showbiz: Trấn Thành mếu máo, Chi Pu xinh đẹp](https://laodong.vn/van-hoa-giai-tri/nhip-showbiz-tran-thanh-meu-mao-chi-pu-xinh-dep-1629000.ldo) - 13:31 21/12/2025
+- 👍 [Trụ cột U22 Việt Nam trở lại thi đấu cho câu lạc bộ](https://laodong.vn/the-thao/tru-cot-u22-viet-nam-tro-lai-thi-dau-cho-cau-lac-bo-1629004.ldo) - 13:29 21/12/2025
+- 💂 [Tin 20h: Chấm điểm công dân số trên VNeID không phải công cụ xử phạt](https://laodong.vn/video-xa-hoi/tin-20h-cham-diem-cong-dan-so-tren-vneid-khong-phai-cong-cu-xu-phat-1628972.ldo) - 13:00 21/12/2025
+- 🧰 [3 đồ uống với giấm thông dụng giúp ngủ ngon, bổ gan thận](https://laodong.vn/suc-khoe/3-do-uong-voi-giam-thong-dung-giup-ngu-ngon-bo-gan-than-1624599.ldo) - 13:00 21/12/2025
+- 🥷 [Mách bạn cách khử mùi tanh của cá khô nhanh, hiệu quả](https://laodong.vn/chuyen-nha-minh/mach-ban-cach-khu-mui-tanh-cua-ca-kho-nhanh-hieu-qua-1628620.ldo) - 13:00 21/12/2025
+- 💫 [Thói quen ăn vào mùa đông ảnh hưởng đến cân nặng và sức khỏe](https://laodong.vn/suc-khoe/thoi-quen-an-vao-mua-dong-anh-huong-den-can-nang-va-suc-khoe-1628758.ldo) - 13:00 21/12/2025
+- 🎭 [Đạo diễn &quot;Quán Kỳ Nam&quot;: Liên Bỉnh Phát có tố chất điện ảnh hiếm có](https://laodong.vn/video/dao-dien-quan-ky-nam-lien-binh-phat-co-to-chat-dien-anh-hiem-co-1628953.ldo) - 13:00 21/12/2025
+- 😎 [Dự báo thời tiết ngày mai 22.12 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-2212-tren-ca-nuoc-1628895.ldo) - 12:54 21/12/2025
+- 💄 [&quot;Hỗn chiến&quot; tại một giải đua ghe ở Huế](https://laodong.vn/ban-tin/hon-chien-tai-mot-giai-dua-ghe-o-hue-1628989.ldo) - 12:30 21/12/2025
+- 🫣 [Bản tin dự báo thời tiết đêm nay và ngày mai 22.12](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2212-1628896.ldo) - 12:30 21/12/2025
+- 🧑‍🏫 [Danh sách chủ xe bị phạt nguội lỗi vượt đèn đỏ theo Nghị định 168 tính đến 21.12](https://laodong.vn/xe/danh-sach-chu-xe-bi-phat-nguoi-loi-vuot-den-do-theo-nghi-dinh-168-tinh-den-2112-1628902.ldo) - 12:18 21/12/2025
+- 🦣 [Hé lộ thời điểm ra mắt dòng Samsung Galaxy S26](https://laodong.vn/cong-nghe/he-lo-thoi-diem-ra-mat-dong-samsung-galaxy-s26-1628991.ldo) - 12:12 21/12/2025
+- 💫 [7 cách đơn giản giúp ngăn ô nhiễm không khí xâm nhập vào nhà](https://laodong.vn/suc-khoe/7-cach-don-gian-giup-ngan-o-nhiem-khong-khi-xam-nhap-vao-nha-1628860.ldo) - 12:04 21/12/2025
+- ⛽️ [Nguyên nhân chất lượng không khí Hà Nội thường suy giảm rõ rệt vào ban đêm](https://laodong.vn/video/nguyen-nhan-chat-luong-khong-khi-ha-noi-thuong-suy-giam-ro-ret-vao-ban-dem-1628889.ldo) - 12:00 21/12/2025
+- 💫 [Thế giới 24h: Dự báo bất ngờ về xu hướng tăng của giá vàng 2026](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-du-bao-bat-ngo-ve-xu-huong-tang-cua-gia-vang-2026-1628891.ldo) - 12:00 21/12/2025
+- 🥸 [Nóng Sài Gòn: Mưa dông sắp trở lại khu vực Nam Bộ, trời se lạnh](https://laodong.vn/video/nong-sai-gon-mua-dong-sap-tro-lai-khu-vuc-nam-bo-troi-se-lanh-1628933.ldo) - 12:00 21/12/2025
+- 🐻 [Triệu Lộ Tư chiếm vị trí trung tâm tại sự kiện có Bạch Lộc, Lưu Vũ Ninh](https://laodong.vn/giai-tri/trieu-lo-tu-chiem-vi-tri-trung-tam-tai-su-kien-co-bach-loc-luu-vu-ninh-1628979.ldo) - 11:51 21/12/2025
+- 🪄 [600 phụ nữ yếu thế được khám miễn phí, tầm soát sớm ung thư cổ tử cung](https://laodong.vn/mat-tran/600-phu-nu-yeu-the-duoc-kham-mien-phi-tam-soat-som-ung-thu-co-tu-cung-1628971.ldo) - 11:43 21/12/2025
+- 🧑‍🏫 [Cập nhật lãi suất Agribank, BIDV, Vietcombank, VietinBank ngày 21.12.2025](https://laodong.vn/ban-tin/cap-nhat-lai-suat-agribank-bidv-vietcombank-vietinbank-ngay-21122025-1628988.ldo) - 11:40 21/12/2025
+- 🌊 [Đà Nẵng tăng tốc vào giai đoạn vận hành Trung tâm tài chính quốc tế](https://laodong.vn/tien-te-dau-tu/da-nang-tang-toc-vao-giai-doan-van-hanh-trung-tam-tai-chinh-quoc-te-1628952.ldo) - 11:38 21/12/2025
+- 💻 [Công đoàn Đắk Lắk đổi mới để chăm lo toàn diện cho người lao động](https://laodong.vn/cong-doan/cong-doan-dak-lak-doi-moi-de-cham-lo-toan-dien-cho-nguoi-lao-dong-1628884.ldo) - 11:36 21/12/2025
+- 👨‍🏫 [Va chạm cửa ôtô, người đi xe máy ở Hải Phòng tử vong](https://laodong.vn/xa-hoi/va-cham-cua-oto-nguoi-di-xe-may-o-hai-phong-tu-vong-1628986.ldo) - 11:35 21/12/2025
+- 🌈 [Gia Lai triệt phá 10 vụ ma túy, tạm giữ 15 đối tượng](https://laodong.vn/phap-luat/gia-lai-triet-pha-10-vu-ma-tuy-tam-giu-15-doi-tuong-1628925.ldo) - 11:34 21/12/2025
+- 🐲 [Kỳ vọng gửi đến Đại hội Công đoàn tỉnh Đồng Tháp lần thứ I](https://laodong.vn/cong-doan/ky-vong-gui-den-dai-hoi-cong-doan-tinh-dong-thap-lan-thu-i-1628982.ldo) - 11:33 21/12/2025
+- 🚀 [Xe máy va chạm ôtô bán tải, người phụ nữ tử vong tại chỗ](https://laodong.vn/giao-thong/xe-may-va-cham-oto-ban-tai-nguoi-phu-nu-tu-vong-tai-cho-1628978.ldo) - 11:26 21/12/2025
+- 😺 [Him Lam, Vinaconex nằm trong tầm ngắm thanh tra năm 2026](https://laodong.vn/thoi-su/him-lam-vinaconex-nam-trong-tam-ngam-thanh-tra-nam-2026-1628962.ldo) - 11:22 21/12/2025
+- 🕴 [Bộ trưởng Nguyễn Hồng Diên làm Phó Bí thư chuyên trách Đảng ủy Quốc hội](https://laodong.vn/thoi-su/bo-truong-nguyen-hong-dien-lam-pho-bi-thu-chuyen-trach-dang-uy-quoc-hoi-1628974.ldo) - 11:19 21/12/2025
+- 🌋 [Tai nạn trên Quốc lộ 1 ở Lâm Đồng khiến 1 người tử vong](https://laodong.vn/giao-thong/tai-nan-tren-quoc-lo-1-o-lam-dong-khien-1-nguoi-tu-vong-1628983.ldo) - 11:15 21/12/2025
+- 💄 [Bệnh viện Đa khoa Vũng Tàu phẫu thuật thành công ca đa chấn thương nặng](https://laodong.vn/suc-khoe/benh-vien-da-khoa-vung-tau-phau-thuat-thanh-cong-ca-da-chan-thuong-nang-1628949.ldo) - 11:10 21/12/2025<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
