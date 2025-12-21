@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Theo chân thợ săn &#39;mật ong điên&#39; trên vách núi](https://vnexpress.net/theo-chan-tho-san-mat-ong-dien-tren-vach-nui-4995833.html) - 23:00 20/12/2025
-- 🪄 [Biển người đổ về ngắm Nhà thờ Đức Bà lúc lên đèn](https://vnexpress.net/bien-nguoi-do-ve-ngam-nha-tho-duc-ba-luc-len-den-4994202.html) - 17:00 20/12/2025
+- 🪄 [Nỗi khổ tìm chỗ ngắm Nhà thờ Đức Bà lúc lên đèn](https://vnexpress.net/noi-kho-tim-cho-ngam-nha-tho-duc-ba-luc-len-den-4994202.html) - 17:00 20/12/2025
 - 🦅 [Việt Nam ra mắt nền tảng dữ liệu quốc gia đầu tiên cho du lịch](https://vnexpress.net/viet-nam-ra-mat-nen-tang-du-lieu-quoc-gia-dau-tien-cho-du-lich-4996230.html) - 14:47 20/12/2025
 - 🕴 [Thủ đô Thái Lan giữ kỷ lục gì?](https://vnexpress.net/thu-do-thai-lan-giu-ky-luc-gi-4995549.html) - 13:53 20/12/2025
 - 👀 [24 giờ trải nghiệm &#39;quốc gia không tồn tại&#39; ở châu Âu](https://vnexpress.net/24-gio-trai-nghiem-quoc-gia-khong-ton-tai-o-chau-au-4996042.html) - 08:30 20/12/2025
