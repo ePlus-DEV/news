@@ -82,7 +82,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [Trần Quốc Cường - Bắn súng](https://vnexpress.net/tran-quoc-cuong-ban-sung-4996059.html) - 06:40 21/12/2025
 - 💫 [Nguyễn Hoàng Vũ - Bơi](https://vnexpress.net/nguyen-hoang-vu-boi-4996077.html) - 06:39 21/12/2025
 - 🤓 [Phạm Thị Mỹ Hằng - Bóng ném](https://vnexpress.net/pham-thi-my-hang-bong-nem-4995970.html) - 06:39 21/12/2025
-- 🤡 [Nguyễn Tấn Đạt - Bowling](https://vnexpress.net/nguyen-tan-dat-bowling-4995981.html) - 06:39 21/12/2025<!-- vnexpress:END -->
+- 🤡 [Nguyễn Tấn Đạt - Bowling](https://vnexpress.net/nguyen-tan-dat-bowling-4995981.html) - 06:39 21/12/2025
+- 🧐 [Hà Thị Hạnh - Bóng ném](https://vnexpress.net/ha-thi-hanh-bong-nem-4995975.html) - 06:38 21/12/2025
+- 🤓 [Đặng Văn Phúc - Điền kinh](https://vnexpress.net/dang-van-phuc-dien-kinh-4996372.html) - 06:38 21/12/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
