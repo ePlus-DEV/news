@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Ngôi vương du lịch của Thái Lan lung lay](https://vnexpress.net/ngoi-vuong-du-lich-cua-thai-lan-lung-lay-4996622.html) - 05:47 22/12/2025
+- 💂 [Du lịch Thái Lan đối mặt nguy cơ mất ngôi vương khu vực](https://vnexpress.net/du-lich-thai-lan-doi-mat-nguy-co-mat-ngoi-vuong-khu-vuc-4996622.html) - 05:47 22/12/2025
 - 🪄 [Bên trong Nhà hát Lớn Hà Nội trước khi đóng cửa hai năm](https://vnexpress.net/ben-trong-nha-hat-lon-ha-noi-truoc-khi-dong-cua-hai-nam-4995945.html) - 03:28 22/12/2025
 - 🦅 [Tiệm chè hơn nửa thế kỷ phục vụ khách ở chợ Bến Thành](https://vnexpress.net/tiem-che-hon-nua-the-ky-phuc-vu-khach-o-cho-ben-thanh-4996492.html) - 23:00 21/12/2025
 - 🕴 [Khu rừng nhiệt đới đầu tiên nằm giữa sa mạc ở Dubai](https://vnexpress.net/khu-rung-nhiet-doi-dau-tien-nam-giua-sa-mac-o-dubai-4995932.html) - 17:00 21/12/2025
