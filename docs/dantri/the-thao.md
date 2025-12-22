@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tuyển Việt Nam nhận tin vui từ FIFA, Malaysia lĩnh đòn đau khi bị xử thua](https://dantri.com.vn/the-thao/tuyen-viet-nam-nhan-tin-vui-tu-fifa-malaysia-linh-don-dau-khi-bi-xu-thua-20251222192930352.htm) - 12:29 22/12/2025
-- 💯 [Công bố danh sách U23 Việt Nam tham dự giải châu Á](https://dantri.com.vn/the-thao/cong-bo-danh-sach-u23-viet-nam-tham-du-giai-chau-a-20251222184809297.htm) - 11:48 22/12/2025
+- 🎡 [Công bố danh sách U23 Việt Nam tham dự giải châu Á](https://dantri.com.vn/the-thao/cong-bo-danh-sach-u23-viet-nam-tham-du-giai-chau-a-20251222184809297.htm) - 12:48 22/12/2025
+- 💯 [Tuyển Việt Nam nhận tin vui từ FIFA, Malaysia lĩnh đòn đau khi bị xử thua](https://dantri.com.vn/the-thao/tuyen-viet-nam-nhan-tin-vui-tu-fifa-malaysia-linh-don-dau-khi-bi-xu-thua-20251222192930352.htm) - 12:29 22/12/2025
 - ⛽️ [VĐV Thái Lan nhận bức xúc vì bị cắt giảm tiền thưởng HCV SEA Games](https://dantri.com.vn/the-thao/vdv-thai-lan-nhan-buc-xuc-vi-bi-cat-giam-tien-thuong-hcv-sea-games-20251222154142328.htm) - 08:56 22/12/2025
 - 💃 [FIFA điều tra nhân vật đặc biệt ở vụ làm giả giấy tờ nhập tịch của Malaysia](https://dantri.com.vn/the-thao/fifa-dieu-tra-nhan-vat-dac-biet-o-vu-lam-gia-giay-to-nhap-tich-cua-malaysia-20251222144404274.htm) - 07:44 22/12/2025
 - 🌈 [Thái Lan tuyên bố về hướng đi mới sau khi giành 233 HCV ở SEA Games 33](https://dantri.com.vn/the-thao/thai-lan-tuyen-bo-ve-huong-di-moi-sau-khi-gianh-233-hcv-o-sea-games-33-20251222131057991.htm) - 06:47 22/12/2025
