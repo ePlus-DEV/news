@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phân khúc nghỉ dưỡng nửa tỷ đồng mỗi đêm hình thành ở Việt nam](https://vnexpress.net/phan-khuc-nghi-duong-nua-ty-dong-moi-dem-hinh-thanh-o-viet-nam-4996527.html) - 22:00 21/12/2025
+- ⛽️ [Phân khúc nghỉ dưỡng nửa tỷ đồng mỗi đêm hình thành ở Việt Nam](https://vnexpress.net/phan-khuc-nghi-duong-nua-ty-dong-moi-dem-hinh-thanh-o-viet-nam-4996527.html) - 22:00 21/12/2025
 - 🐲 [Lãi suất huy động lên 7-8% một năm](https://vnexpress.net/lai-suat-huy-dong-len-7-8-mot-nam-4996475.html) - 21:00 21/12/2025
 - 🔥 [Xuất khẩu rau quả sang Thái Lan giảm mạnh](https://vnexpress.net/xuat-khau-rau-qua-sang-thai-lan-giam-manh-4996383.html) - 18:06 21/12/2025
 - 🐵 [Tập đoàn Hàn Quốc dự tính rót 21 triệu USD phát triển đất hiếm tại Việt Nam](https://vnexpress.net/tap-doan-han-quoc-du-tinh-rot-21-trieu-usd-phat-trien-dat-hiem-tai-viet-nam-4996421.html) - 17:39 21/12/2025
