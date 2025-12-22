@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Park Hang Seo nhắn nhủ U22 Việt Nam, tiết lộ về chiếc nhẫn đặc biệt](https://dantri.com.vn/the-thao/hlv-park-hang-seo-nhan-nhu-u22-viet-nam-tiet-lo-ve-chiec-nhan-dac-biet-20251222123950167.htm) - 05:41 22/12/2025
 - 💯 [SEA Games với “thước đo” không chuẩn: Không từ bỏ, nhưng cũng không như cũ](https://dantri.com.vn/the-thao/sea-games-voi-thuoc-do-khong-chuan-khong-tu-bo-nhung-cung-khong-nhu-cu-20251222120439839.htm) - 05:19 22/12/2025
-- ⛽️ [HLV Kim Sang Sik: &quot;Bóng đá Việt Nam luôn phải đặt mục tiêu World Cup&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-bong-da-viet-nam-luon-phai-dat-muc-tieu-world-cup-20251220085308314.htm) - 03:30 22/12/2025
+- ⛽️ [HLV Kim Sang Sik: &quot;U23 Việt Nam sẽ tiến sâu ở giải châu Á&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-u23-viet-nam-se-tien-sau-o-giai-chau-a-20251220085308314.htm) - 03:30 22/12/2025
 - 💃 [“AFC sẽ noi theo FIFA phạt nặng bóng đá Malaysia”](https://dantri.com.vn/the-thao/afc-se-noi-theo-fifa-phat-nang-bong-da-malaysia-20251222002929655.htm) - 00:01 22/12/2025
 - 🌈 [Lamine Yamal tỏa sáng, Barcelona vô địch lượt đi La Liga](https://dantri.com.vn/the-thao/lamine-yamal-toa-sang-barcelona-vo-dich-luot-di-la-liga-20251222062926560.htm) - 23:31 21/12/2025
 - 🦅 [Man Utd gục ngã trước Aston Villa bởi siêu phẩm của Morgan Rogers](https://dantri.com.vn/the-thao/man-utd-guc-nga-truoc-aston-villa-boi-sieu-pham-cua-morgan-rogers-20251222061134152.htm) - 23:12 21/12/2025
