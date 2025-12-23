@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất làm cáp treo từ sân bay Cỏ Ống tới trung tâm Côn Đảo](https://vnexpress.net/de-xuat-lam-cap-treo-tu-san-bay-co-ong-toi-trung-tam-con-dao-4997263.html) - 08:17 23/12/2025
+- 🦒 [Làm cáp treo từ sân bay Cỏ Ống về trung tâm Côn Đảo để bảo vệ rừng](https://vnexpress.net/lam-cap-treo-tu-san-bay-co-ong-ve-trung-tam-con-dao-de-bao-ve-rung-4997263.html) - 08:17 23/12/2025
 - 🤓 [Hà Nội và TP HCM tiếp tục dẫn đầu về số lượng đại biểu Quốc hội](https://vnexpress.net/ha-noi-va-tp-hcm-tiep-tuc-dan-dau-ve-so-luong-dai-bieu-quoc-hoi-4997203.html) - 07:40 23/12/2025
 - ⚗️ [Hà Nội thí điểm hạn chế ôtô tải, container trên một số tuyến đường](https://vnexpress.net/ha-noi-thi-diem-han-che-oto-tai-container-tren-mot-so-tuyen-duong-4997254.html) - 07:31 23/12/2025
 - 🌊 [TP HCM yêu cầu dỡ trạm thu phí trên quốc lộ 51 trước 31/12](https://vnexpress.net/tp-hcm-yeu-cau-do-tram-thu-phi-tren-quoc-lo-51-truoc-31-12-4997273.html) - 07:13 23/12/2025
