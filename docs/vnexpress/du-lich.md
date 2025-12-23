@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vượt sóng dữ lần đầu chinh phục Nam Cực](https://vnexpress.net/vuot-song-du-lan-dau-chinh-phuc-nam-cuc-4997237.html) - 06:31 23/12/2025
+- 💂 [Theo chân blogger Mỹ lần đầu chinh phục Nam Cực](https://vnexpress.net/theo-chan-blogger-my-lan-dau-chinh-phuc-nam-cuc-4997237.html) - 06:31 23/12/2025
 - 🪄 [Khách Việt đến Thái Lan giảm mạnh](https://vnexpress.net/khach-viet-den-thai-lan-giam-manh-4997158.html) - 05:51 23/12/2025
 - 🦅 [Cánh đồng hoa hướng dương bung nở ở Nghệ An](https://vnexpress.net/canh-dong-hoa-huong-duong-bung-no-o-nghe-an-4996358.html) - 03:32 23/12/2025
 - 🕴 [Nhà hàng Michelin biến tấu món Âu với cá ngừ và quất Quảng An](https://vnexpress.net/nha-hang-michelin-bien-tau-mon-au-voi-ca-ngu-va-quat-quang-an-4971036.html) - 03:00 23/12/2025
