@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Chèo kayak giữa những tảng băng trôi ở Nam Cực](https://vnexpress.net/cheo-kayak-giua-nhung-tang-bang-troi-o-nam-cuc-4997237.html) - 22:00 23/12/2025
 - 🧰 [Vì sao liên tiếp xảy ra các vụ ngộ độc bánh mì?](https://vnexpress.net/vi-sao-lien-tiep-xay-ra-cac-vu-ngo-doc-banh-mi-4997448.html) - 22:00 23/12/2025
-- 🥰 [Giá heo hơi tăng lên 70.000 đồng một kg](https://vnexpress.net/gia-heo-hoi-tang-len-70-000-dong-mot-kg-4997324.html) - 22:00 23/12/2025
+- 🥰 [Giá heo hơi tăng vọt lên 70.000 đồng một kg](https://vnexpress.net/gia-heo-hoi-tang-vot-len-70-000-dong-mot-kg-4997324.html) - 22:00 23/12/2025
 - 🌏 [9 sự kiện nổi bật thế giới năm 2025](https://vnexpress.net/9-su-kien-noi-bat-the-gioi-nam-2025-4997151.html) - 22:00 23/12/2025
 - 🧐 [Loạt smartphone có pin lớn nhất năm 2025](https://vnexpress.net/loat-smartphone-co-pin-lon-nhat-nam-2025-4995622.html) - 22:00 23/12/2025
 - 💫 [Thử phân biệt áo khoác đắt tiền và bình dân](https://vnexpress.net/thu-phan-biet-ao-khoac-dat-tien-va-binh-dan-4995075.html) - 22:00 23/12/2025
