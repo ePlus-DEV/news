@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Bình chọn 10 sự kiện văn hóa, thể thao và du lịch tiêu biểu 2025](https://vnexpress.net/binh-chon-10-su-kien-van-hoa-the-thao-va-du-lich-tieu-bieu-2025-4997297.html) - 08:40 23/12/2025
 - 👨‍🏫 [Thiền sư nói về tình yêu của Shin Min Ah, Kim Woo Bin](https://vnexpress.net/thien-su-noi-ve-tinh-yeu-cua-shin-min-ah-kim-woo-bin-4997305.html) - 08:02 23/12/2025
 - ⚗️ [Sao Việt đón Giáng sinh 2025](https://vnexpress.net/sao-viet-don-giang-sinh-2025-4996602.html) - 06:00 23/12/2025
-- 😎 [Bom tấn &#39;The Odyssey&#39; tung trailer](https://vnexpress.net/bom-tan-the-odyssey-tung-trailer-4997104.html) - 04:31 23/12/2025
+- 😎 [&#39;The Odyssey&#39; của Christopher Nolan tung trailer](https://vnexpress.net/the-odyssey-cua-christopher-nolan-tung-trailer-4997104.html) - 04:31 23/12/2025
 - 🫣 [Màn robot nhào lộn ở show Vương Lực Hoành gây sốt](https://vnexpress.net/man-robot-nhao-lon-o-show-vuong-luc-hoanh-gay-sot-4997135.html) - 03:54 23/12/2025
 - 🪄 [Vẻ ngọt ngào của mỹ nhân Philippines đoạt á hậu Miss Cosmo](https://vnexpress.net/ve-ngot-ngao-cua-my-nhan-philippines-doat-a-hau-miss-cosmo-4996917.html) - 03:11 23/12/2025
 - 🤓 [Nghệ sĩ gạo cội diện áo dài xem triển lãm thời trang](https://vnexpress.net/nghe-si-gao-coi-dien-ao-dai-xem-trien-lam-thoi-trang-4997077.html) - 03:08 23/12/2025
