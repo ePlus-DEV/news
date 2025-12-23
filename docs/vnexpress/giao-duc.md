@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thuê cano đưa 130 học sinh vượt sông đi học](https://vnexpress.net/thue-cano-dua-130-hoc-sinh-vuot-song-di-hoc-4997293.html) - 09:31 23/12/2025
+- 🤓 [Thuê cano 4 triệu đồng mỗi ngày đưa học sinh đến trường](https://vnexpress.net/thue-cano-4-trieu-dong-moi-ngay-dua-hoc-sinh-den-truong-4997293.html) - 09:31 23/12/2025
 - 🦆 [Sinh viên Đại học Sài Gòn bị nợ hàng chục tỷ đồng tiền sinh hoạt phí](https://vnexpress.net/sinh-vien-dai-hoc-sai-gon-bi-no-hang-chuc-ty-dong-tien-sinh-hoat-phi-4997259.html) - 07:57 23/12/2025
 - 🦩 [Đại học Kinh tế dự kiến bỏ xét học bạ ở hầu hết ngành](https://vnexpress.net/dai-hoc-kinh-te-du-kien-bo-xet-hoc-ba-o-hau-het-nganh-4997201.html) - 04:28 23/12/2025
 - 🌮 [Cuộc đời ngắn ngủi của thiên tài Toán học không bằng cấp](https://vnexpress.net/cuoc-doi-ngan-ngui-cua-thien-tai-toan-hoc-khong-bang-cap-4997140.html) - 03:49 23/12/2025
