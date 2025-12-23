@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Món ăn Trung Quốc nào được ví &#39;cám dỗ cả nhà sư&#39;?](https://vnexpress.net/mon-an-trung-quoc-nao-duoc-vi-cam-do-ca-nha-su-4996425.html) - 12:13 23/12/2025
-- 🪄 [Giải mã tục hôn nhau dưới cây tầm gửi đêm Giáng sinh](https://vnexpress.net/giai-ma-tuc-hon-nhau-duoi-cay-tam-gui-dem-giang-sinh-4997246.html) - 12:00 23/12/2025
+- 🪄 [Giải mã phong tục hôn dưới cây tầm gửi đêm Giáng sinh](https://vnexpress.net/giai-ma-phong-tuc-hon-duoi-cay-tam-gui-dem-giang-sinh-4997246.html) - 12:00 23/12/2025
 - 🦅 [Khách Việt đến Thái Lan giảm mạnh](https://vnexpress.net/khach-viet-den-thai-lan-giam-manh-4997158.html) - 05:51 23/12/2025
 - 🕴 [Cánh đồng hoa hướng dương bung nở ở Nghệ An](https://vnexpress.net/canh-dong-hoa-huong-duong-bung-no-o-nghe-an-4996358.html) - 03:32 23/12/2025
 - 👀 [Nhà hàng Michelin biến tấu món Âu với cá ngừ và quất Quảng An](https://vnexpress.net/nha-hang-michelin-bien-tau-mon-au-voi-ca-ngu-va-quat-quang-an-4971036.html) - 03:00 23/12/2025
