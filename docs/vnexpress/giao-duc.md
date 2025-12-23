@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giành vé vào đại học tinh hoa Mỹ nhờ bài luận về chiếc quần dài](https://vnexpress.net/gianh-ve-vao-dai-hoc-tinh-hoa-my-nho-bai-luan-ve-chiec-quan-dai-4996947.html) - 22:59 22/12/2025
+- 🤓 [Giành vé vào Đại học Cornell nhờ bài luận về chiếc quần dài](https://vnexpress.net/gianh-ve-vao-dai-hoc-cornell-nho-bai-luan-ve-chiec-quan-dai-4996947.html) - 22:59 22/12/2025
 - 🦆 [5 từ tiếng Anh thịnh hành năm 2025](https://vnexpress.net/5-tu-tieng-anh-thinh-hanh-nam-2025-4996707.html) - 17:00 22/12/2025
 - 🦩 [Tuyên dương 145 học sinh, sinh viên dân tộc thiểu số](https://vnexpress.net/tuyen-duong-145-hoc-sinh-sinh-vien-dan-toc-thieu-so-4996891.html) - 15:09 22/12/2025
 - 🌮 [Ai được Đại tướng Võ Nguyên Giáp gọi là &#39;ông Phật làm súng&#39;?](https://vnexpress.net/ai-duoc-dai-tuong-vo-nguyen-giap-goi-la-ong-phat-lam-sung-4996935.html) - 12:23 22/12/2025
