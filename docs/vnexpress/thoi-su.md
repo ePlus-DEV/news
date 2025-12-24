@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đặc khu Côn Đảo có tuyến buýt điện đầu tiên](https://vnexpress.net/dac-khu-con-dao-co-tuyen-buyt-dien-dau-tien-4997763.html) - 07:32 24/12/2025
 - 🤓 [Hạn chế xe xăng, dầu vào trung tâm TP HCM dự kiến từ 2027](https://vnexpress.net/han-che-xe-xang-dau-vao-trung-tam-tp-hcm-du-kien-tu-2027-4997696.html) - 06:08 24/12/2025
-- ⚗️ [Hà Nội điều động, bổ nhiệm loạt cán bộ sở, ngành](https://vnexpress.net/ha-noi-dieu-dong-bo-nhiem-loat-can-bo-so-nganh-4997702.html) - 05:39 24/12/2025
+- ⚗️ [Hà Nội điều động, bổ nhiệm nhiều cán bộ sở, ngành](https://vnexpress.net/ha-noi-dieu-dong-bo-nhiem-nhieu-can-bo-so-nganh-4997702.html) - 05:39 24/12/2025
 - 🌊 [Đề xuất hoán đổi để nghỉ Tết Dương lịch 4 ngày](https://vnexpress.net/de-xuat-hoan-doi-de-nghi-tet-duong-lich-4-ngay-4997676.html) - 04:35 24/12/2025
 - 🎓 [Loạt công trình phục vụ APEC 2027 ở Phú Quốc thành hình](https://vnexpress.net/loat-cong-trinh-phuc-vu-apec-2027-o-phu-quoc-thanh-hinh-4996820.html) - 04:20 24/12/2025
 - 🔥 [Giá rau tăng 2-3 lần, đại biểu đề nghị kiểm soát chặt dịp cuối năm](https://vnexpress.net/gia-rau-tang-2-3-lan-dai-bieu-de-nghi-kiem-soat-chat-dip-cuoi-nam-4997557.html) - 04:16 24/12/2025
