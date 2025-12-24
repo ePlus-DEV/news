@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chàng trai vàng Olympic Hóa học quốc tế muốn trở về](https://vnexpress.net/chang-trai-vang-olympic-hoa-hoc-quoc-te-muon-tro-ve-4997424.html) - 06:53 24/12/2025
+- 🤓 [Chàng trai vàng Olympic quốc tế muốn trở về](https://vnexpress.net/chang-trai-vang-olympic-quoc-te-muon-tro-ve-4997424.html) - 06:53 24/12/2025
 - 🦆 [Mỹ đổi luật chơi &#39;xổ số&#39; H-1B, du học sinh gặp khó](https://vnexpress.net/my-doi-luat-choi-xo-so-h-1b-du-hoc-sinh-gap-kho-4997562.html) - 02:46 24/12/2025
 - 🦩 [Ma trận tên tiếng Anh của các trường đại học](https://vnexpress.net/ma-tran-ten-tieng-anh-cua-cac-truong-dai-hoc-4996708.html) - 23:22 23/12/2025
 - 🌮 [8.000 người thi ở đường băng sân bay](https://vnexpress.net/8-000-nguoi-thi-o-duong-bang-san-bay-4997460.html) - 17:00 23/12/2025
