@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Mở đường lên tháp Chăm cao 800 m trên núi](https://vnexpress.net/mo-duong-len-thap-cham-cao-800-m-tren-nui-4997415.html) - 23:28 23/12/2025
+- 🦒 [Mở đường lên tháp Chăm trên núi cao 800 m](https://vnexpress.net/mo-duong-len-thap-cham-tren-nui-cao-800-m-4997415.html) - 23:28 23/12/2025
 - 🤓 [Loạt nút giao ở Hà Nội được xén vỉa hè, mở rộng mặt đường](https://vnexpress.net/loat-nut-giao-o-ha-noi-duoc-xen-via-he-mo-rong-mat-duong-4997452.html) - 22:00 23/12/2025
 - ⚗️ [Nuôi cá trên ruộng lúa bỏ hoang - một vốn mấy lời](https://vnexpress.net/nuoi-ca-tren-ruong-lua-bo-hoang-mot-von-may-loi-4996903.html) - 18:00 23/12/2025
 - 🌊 [Chiếu sáng nghệ thuật Hồ Gươm dịp Tết Dương lịch 2026](https://vnexpress.net/chieu-sang-nghe-thuat-ho-guom-dip-tet-duong-lich-2026-4997449.html) - 15:45 23/12/2025
