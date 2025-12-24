@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Cô dâu Hà Nội lên mạng than ế cỗ, 100 người lạ rủ nhau đến dự](https://dantri.com.vn/doi-song/co-dau-ha-noi-len-mang-than-e-co-100-nguoi-la-ru-nhau-den-du-20251223184946212.htm) - 06:02 24/12/2025
-- 🌈 [Nỗi đau về 53 vạn liệt sỹ chưa biết tên, 18 vạn người chưa thấy hài cốt](https://dantri.com.vn/noi-vu/noi-dau-ve-53-van-liet-sy-chua-biet-ten-18-van-nguoi-chua-thay-hai-cot-20251224102851374.htm) - 03:56 24/12/2025
+- 🌈 [Nỗi đau về 530.000 liệt sỹ chưa biết tên, 180.000 người chưa thấy hài cốt](https://dantri.com.vn/noi-vu/noi-dau-ve-530000-liet-sy-chua-biet-ten-180000-nguoi-chua-thay-hai-cot-20251224102851374.htm) - 03:56 24/12/2025
 - 🐎 [Bài toán cơ sở vật chất, thể thao học đường cho mục tiêu Asiad, Olympic](https://dantri.com.vn/the-thao/bai-toan-co-so-vat-chat-the-thao-hoc-duong-cho-muc-tieu-asiad-olympic-20251223220627983.htm) - 03:00 24/12/2025
 - 👹 [Tiếng loa trong bệnh viện và chuyện xúc động của những “ngân hàng máu sống”](https://dantri.com.vn/suc-khoe/tieng-loa-trong-benh-vien-va-chuyen-xuc-dong-cua-nhung-ngan-hang-mau-song-20251224092016323.htm) - 02:39 24/12/2025
 - 🫶 [Người mua nhà chịu áp lực kép giữa vòng xoáy giá và lãi suất](https://dantri.com.vn/bat-dong-san/nguoi-mua-nha-chiu-ap-luc-kep-giua-vong-xoay-gia-va-lai-suat-20251224075453550.htm) - 02:22 24/12/2025
