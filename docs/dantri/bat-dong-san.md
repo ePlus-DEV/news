@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Lộ lý do Vingroup, Đèo Cả, MIK Group xin rút làm dự án chục tỷ USD](https://dantri.com.vn/bat-dong-san/lo-ly-do-vingroup-deo-ca-mik-group-xin-rut-lam-du-an-chuc-ty-usd-20251225171807731.htm) - 10:21 25/12/2025
+- 🌏 [Lý do Vingroup, Đèo Cả, MIK Group xin rút khỏi dự án chục tỷ USD](https://dantri.com.vn/bat-dong-san/ly-do-vingroup-deo-ca-mik-group-xin-rut-khoi-du-an-chuc-ty-usd-20251225171807731.htm) - 10:21 25/12/2025
 - 👹 [Siêu dự án sông Hồng: Sau Đèo Cả, đến lượt MIK Group bất ngờ xin rút](https://dantri.com.vn/bat-dong-san/sieu-du-an-song-hong-sau-deo-ca-den-luot-mik-group-bat-ngo-xin-rut-20251225152731513.htm) - 08:34 25/12/2025
 - 💡 [Tăng trưởng kinh tế và dư địa của bất động sản cao cấp](https://dantri.com.vn/bat-dong-san/tang-truong-kinh-te-va-du-dia-cua-bat-dong-san-cao-cap-20251225151045940.htm) - 08:30 25/12/2025
 - 🌋 [Chủ tịch Đèo Cả tiết lộ lý do rút khỏi siêu dự án sông Hồng 855.000 tỷ đồng](https://dantri.com.vn/bat-dong-san/chu-tich-deo-ca-tiet-lo-ly-do-rut-khoi-sieu-du-an-song-hong-855000-ty-dong-20251225112456997.htm) - 05:18 25/12/2025
