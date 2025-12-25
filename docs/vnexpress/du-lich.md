@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [10 điểm đến mang lại hạnh phúc nhất cho du khách năm 2026](https://vnexpress.net/10-diem-den-mang-lai-hanh-phuc-nhat-cho-du-khach-nam-2026-4997003.html) - 00:22 25/12/2025
-- 🪄 [Khách Tây bất ngờ trước biển người đổ ra đường chơi đêm Giáng sinh](https://vnexpress.net/khach-tay-bat-ngo-truoc-bien-nguoi-do-ra-duong-choi-dem-giang-sinh-4997968.html) - 00:19 25/12/2025
+- 🪄 [Khách Tây bất ngờ trước biển người Việt đổ ra đường chơi đêm Giáng sinh](https://vnexpress.net/khach-tay-bat-ngo-truoc-bien-nguoi-viet-do-ra-duong-choi-dem-giang-sinh-4997968.html) - 00:19 25/12/2025
 - 🦅 [&#39;Món quà&#39; Giáng sinh nào dành cho trẻ em chưa ngoan?](https://vnexpress.net/mon-qua-giang-sinh-nao-danh-cho-tre-em-chua-ngoan-4997670.html) - 13:39 24/12/2025
 - 🕴 [Việt Nam đặt mục tiêu đón 25 triệu lượt khách quốc tế năm 2026](https://vnexpress.net/viet-nam-dat-muc-tieu-don-25-trieu-luot-khach-quoc-te-nam-2026-4997742.html) - 10:28 24/12/2025
 - 👀 [10 năm ghi dấu ấn của Vinpearl Safari Phú Quốc](https://vnexpress.net/10-nam-ghi-dau-an-cua-vinpearl-safari-phu-quoc-4997771.html) - 09:00 24/12/2025
