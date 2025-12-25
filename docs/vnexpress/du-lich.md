@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [2.000 người xem trình diễn kèn đồng giữa không gian nhà thờ cổ](https://vnexpress.net/2-000-nguoi-xem-trinh-dien-ken-dong-giua-khong-gian-nha-tho-co-4998079.html) - 07:25 25/12/2025
 - 🪄 [Chó nghiệp vụ phát hiện khách Việt mang giò lợn ở sân bay Thái Lan](https://vnexpress.net/cho-nghiep-vu-phat-hien-khach-viet-mang-gio-lon-o-san-bay-thai-lan-4998155.html) - 05:21 25/12/2025
 - 🦅 [Khách &#39;săn&#39; được băng tuyết đúng dịp Noel trên đỉnh Fansipan](https://vnexpress.net/khach-san-duoc-bang-tuyet-dung-dip-noel-tren-dinh-fansipan-4998166.html) - 04:53 25/12/2025
-- 🕴 [Khách quốc tế lần đầu tận hưởng không khí Giáng sinh trên phố Hà Nội](https://vnexpress.net/khach-quoc-te-lan-dau-tan-huong-khong-khi-giang-sinh-tren-pho-ha-noi-4998132.html) - 04:08 25/12/2025
+- 🕴 [Khách quốc tế tận hưởng không khí Giáng sinh trên phố Hà Nội](https://vnexpress.net/khach-quoc-te-tan-huong-khong-khi-giang-sinh-tren-pho-ha-noi-4998132.html) - 04:08 25/12/2025
 - 👀 [10 điểm đến mang lại hạnh phúc nhất cho du khách năm 2026](https://vnexpress.net/10-diem-den-mang-lai-hanh-phuc-nhat-cho-du-khach-nam-2026-4997003.html) - 00:22 25/12/2025
 - 🎭 [Khách Tây bất ngờ trước biển người Việt đổ ra đường chơi đêm Giáng sinh](https://vnexpress.net/khach-tay-bat-ngo-truoc-bien-nguoi-viet-do-ra-duong-choi-dem-giang-sinh-4997968.html) - 00:19 25/12/2025
 - 🦒 [&#39;Món quà&#39; Giáng sinh nào dành cho trẻ em chưa ngoan?](https://vnexpress.net/mon-qua-giang-sinh-nao-danh-cho-tre-em-chua-ngoan-4997670.html) - 13:39 24/12/2025
