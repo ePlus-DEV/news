@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Xóa sổ tư duy tự chủ đại học là &#39;tự lo&#39;](https://vnexpress.net/xoa-so-tu-duy-tu-chu-dai-hoc-la-tu-lo-4997658.html) - 17:16 24/12/2025
+- 🤓 [Đại học mong thoát cảnh tự chủ là &#39;tự lo&#39;](https://vnexpress.net/dai-hoc-mong-thoat-canh-tu-chu-la-tu-lo-4997658.html) - 17:16 24/12/2025
 - 🦆 [Hai đại học của Bộ Tài chính sáp nhập](https://vnexpress.net/dai-hoc-tai-chinh-marketing-co-phan-hieu-o-quang-ngai-4997896.html) - 15:26 24/12/2025
 - 🦩 [Người dân nước nào &#39;lười vận động&#39; nhất Đông Nam Á?](https://vnexpress.net/nguoi-dan-nuoc-nao-luoi-van-dong-nhat-dong-nam-a-4997922.html) - 14:06 24/12/2025
 - 🌮 [Vingroup triển khai mô hình giáo dục đặc biệt cho trẻ tự kỷ](https://vnexpress.net/vingroup-trien-khai-mo-hinh-giao-duc-dac-biet-cho-tre-tu-ky-4997879.html) - 13:00 24/12/2025
