@@ -4,12 +4,12 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Trung Quốc tăng số ngày nghỉ để dân tiêu tiền](https://vnexpress.net/trung-quoc-tang-so-ngay-nghi-de-dan-tieu-tien-4998142.html) - 09:36 25/12/2025
-- 🎓 [Quy tắc &#39;3 lửa&#39; cho các món kho](https://vnexpress.net/quy-tac-3-lua-cho-cac-mon-kho-4997389.html) - 08:36 25/12/2025
-- 🚦 [Bài học từ người trúng số độc đắc](https://vnexpress.net/bai-hoc-tu-nguoi-trung-so-doc-dac-4998172.html) - 07:34 25/12/2025
-- 🦣 [Tác hại việc dùng giấy bạc gói thức ăn thừa](https://vnexpress.net/tac-hai-viec-dung-giay-bac-goi-thuc-an-thua-4997256.html) - 06:30 25/12/2025
-- 🎓 [Vì sao một số phụ nữ trung niên thích yêu trai trẻ?](https://vnexpress.net/vi-sao-mot-so-phu-nu-trung-nien-thich-yeu-trai-tre-4995021.html) - 03:11 25/12/2025
-- 🎭 [Loạt trò chơi cho cả gia đình tại Vietnam Mobility Show cuối tuần này](https://vnexpress.net/loat-tro-choi-cho-ca-gia-dinh-tai-vietnam-mobility-show-cuoi-tuan-nay-4997181.html) - 02:20 25/12/2025
+- 🚀 [Loạt trò chơi cho cả gia đình tại Vietnam Mobility Show cuối tuần này](https://vnexpress.net/loat-tro-choi-cho-ca-gia-dinh-tai-vietnam-mobility-show-cuoi-tuan-nay-4997181.html) - 12:00 25/12/2025
+- 🎓 [Trung Quốc tăng số ngày nghỉ để dân tiêu tiền](https://vnexpress.net/trung-quoc-tang-so-ngay-nghi-de-dan-tieu-tien-4998142.html) - 09:36 25/12/2025
+- 🚦 [Quy tắc &#39;3 lửa&#39; cho các món kho](https://vnexpress.net/quy-tac-3-lua-cho-cac-mon-kho-4997389.html) - 08:36 25/12/2025
+- 🦣 [Bài học từ người trúng số độc đắc](https://vnexpress.net/bai-hoc-tu-nguoi-trung-so-doc-dac-4998172.html) - 07:34 25/12/2025
+- 🎓 [Tác hại việc dùng giấy bạc gói thức ăn thừa](https://vnexpress.net/tac-hai-viec-dung-giay-bac-goi-thuc-an-thua-4997256.html) - 06:30 25/12/2025
+- 🎭 [Vì sao một số phụ nữ trung niên thích yêu trai trẻ?](https://vnexpress.net/vi-sao-mot-so-phu-nu-trung-nien-thich-yeu-trai-tre-4995021.html) - 03:11 25/12/2025
 - 🦅 [Tháo chạy khỏi thủ đô ô nhiễm nhất thế giới](https://vnexpress.net/thao-chay-khoi-thu-do-o-nhiem-nhat-the-gioi-4997908.html) - 01:00 25/12/2025
 - 🎃 [Ngôi trường sạt lở trên núi Ngọc Linh chờ xây mới](https://vnexpress.net/ngoi-truong-sat-lo-tren-nui-ngoc-linh-cho-xay-moi-4997970.html) - 00:59 25/12/2025
 - 💪 [Những người không muốn nghỉ Tết Dương lịch dài](https://vnexpress.net/nhung-nguoi-khong-muon-nghi-tet-duong-lich-dai-4997901.html) - 17:00 24/12/2025
