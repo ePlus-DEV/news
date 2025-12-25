@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [VKS: Cựu giám đốc BIDV Tây Sài Gòn &#39;không oan&#39;](https://vnexpress.net/vks-cuu-giam-doc-bidv-tay-sai-gon-khong-oan-4998147.html) - 09:56 25/12/2025
+- 😎 [Tranh luận gay gắt về quan điểm buộc tội cựu giám đốc BIDV Tây Sài Gòn](https://vnexpress.net/tranh-luan-gay-gat-ve-quan-diem-buoc-toi-cuu-giam-doc-bidv-tay-sai-gon-4998147.html) - 09:56 25/12/2025
 - 🥰 [Vợ chồng bợm nhậu lĩnh án vì &#39;bán con lấy 6 lon bia&#39;](https://vnexpress.net/vo-chong-bom-nhau-linh-an-vi-ban-con-lay-6-lon-bia-4998205.html) - 07:59 25/12/2025
 - 🎓 [Đào hàng trăm xác heo bệnh về &#39;sơ chế&#39; rồi bán](https://vnexpress.net/dao-hang-tram-xac-heo-benh-ve-so-che-roi-ban-4998225.html) - 07:37 25/12/2025
 - 🤓 [Nghệ sĩ bị hủy show vì Google AI bịa tin là tội phạm tình dục](https://vnexpress.net/nghe-si-bi-huy-show-vi-google-ai-bia-tin-la-toi-pham-tinh-duc-4998185.html) - 06:27 25/12/2025
