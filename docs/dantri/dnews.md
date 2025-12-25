@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Lộ lý do Vingroup, Đèo Cả, MIK Group xin rút làm dự án chục tỷ USD](https://dantri.com.vn/bat-dong-san/lo-ly-do-vingroup-deo-ca-mik-group-xin-rut-lam-du-an-chuc-ty-usd-20251225171807731.htm) - 10:21 25/12/2025
+- 🤠 [Lý do Vingroup, Đèo Cả, MIK Group xin rút khỏi dự án chục tỷ USD](https://dantri.com.vn/bat-dong-san/ly-do-vingroup-deo-ca-mik-group-xin-rut-khoi-du-an-chuc-ty-usd-20251225171807731.htm) - 10:21 25/12/2025
 - 🌈 [Từ học sinh lớp 9 đến ông trùm mua bán nợ Được “Đất Bắc”](https://dantri.com.vn/phap-luat/tu-hoc-sinh-lop-9-den-ong-trum-mua-ban-no-duoc-dat-bac-20251225140238638.htm) - 08:15 25/12/2025
 - 🐎 [TPHCM lùi thời điểm hạn chế xe xăng để bổ sung cơ sở khoa học](https://dantri.com.vn/thoi-su/tphcm-lui-thoi-diem-han-che-xe-xang-de-bo-sung-co-so-khoa-hoc-20251225104342544.htm) - 04:34 25/12/2025
 - 👹 [Đánh giá MSI Cubi Z AI 8M: Có gì để cạnh tranh Mac Mini M4?](https://dantri.com.vn/cong-nghe/danh-gia-msi-cubi-z-ai-8m-co-gi-de-canh-tranh-mac-mini-m4-20251224164208294.htm) - 00:44 25/12/2025
