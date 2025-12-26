@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Ngày mới với tin tức sức khỏe: Trứng không ngọt, sao bị nghi làm tăng đường huyết?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-trung-khong-ngot-sao-bi-nghi-lam-tang-duong-huyet-185251227001357334.htm) - 17:13 26/12/2025
-- 🥸 [Phát hiện đột phá: Dầu cá omega-3 &#39;cứu tinh&#39; cho bệnh thận](https://thanhnien.vn/phat-hien-dot-pha-dau-ca-omega-3-cuu-tinh-cho-benh-than-185251226231014235.htm) - 17:09 26/12/2025
+- 🥸 [Nghiên cứu: Dầu cá omega-3 &#39;cứu tinh&#39; cho người bệnh thận](https://thanhnien.vn/phat-hien-dot-pha-dau-ca-omega-3-cuu-tinh-cho-benh-than-185251226231014235.htm) - 17:09 26/12/2025
 - 🌁 [Bác sĩ tiết lộ &#39;khung giờ vàng&#39; cho cữ cà phê sáng](https://thanhnien.vn/bac-si-tiet-lo-khung-gio-vang-cho-cu-ca-phe-sang-185251226234606384.htm) - 17:08 26/12/2025
 - 🤡 [U.23 Việt Nam tập buổi đầu tiên tại Qatar, HLV Kim Sang-sik sẽ loại 1 cầu thủ vào ngày nào?](https://thanhnien.vn/u23-viet-nam-tap-buoi-dau-tien-tai-qatar-hlv-kim-sang-sik-se-loai-1-cau-thu-vao-ngay-nao-185251226204327009.htm) - 17:00 26/12/2025
 - 🎉 [Hoàng Đức lập hat-trick Quả bóng vàng Việt Nam, Bích Thùy xúc động khi được vinh danh đặc biệt](https://thanhnien.vn/hoang-duc-lap-hat-trick-qua-bong-vang-viet-nam-bich-thuy-xuc-dong-khi-duoc-vinh-danh-dac-biet-185251226202847289.htm) - 15:20 26/12/2025
