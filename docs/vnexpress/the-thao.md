@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lễ trao Quả bóng Vàng Việt Nam 2025 bắt đầu](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794.html) - 12:02 26/12/2025
+- 🪜 [Lễ trao Quả bóng Vàng Việt Nam 2025: Hoàng Đức được yêu thích nhất](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794.html) - 12:02 26/12/2025
 - 🦩 [VFF gia hạn bốn tháng với HLV Mai Đức Chung](https://vnexpress.net/vff-gia-han-bon-thang-voi-hlv-mai-duc-chung-4998682.html) - 09:26 26/12/2025
 - 🧰 [Ai đủ sức gánh vác Man Utd khi Fernandes vắng mặt?](https://vnexpress.net/ai-du-suc-ganh-vac-man-utd-khi-fernandes-vang-mat-4998656.html) - 07:17 26/12/2025
 - 🤗 [Djokovic có thể treo vợt sau Australia Mở rộng 2026](https://vnexpress.net/djokovic-co-the-treo-vot-sau-australia-mo-rong-2026-4998641.html) - 07:16 26/12/2025
