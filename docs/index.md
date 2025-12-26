@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Khách Việt kể chuyện đi massage giá rẻ ở Ấn Độ](https://vnexpress.net/khach-viet-ke-chuyen-di-massage-gia-re-o-an-do-4998379.html) - 12:30 26/12/2025
 - 🌮 [Đâm dao ở Nhật Bản, 14 người bị thương](https://vnexpress.net/dam-dao-o-nhat-ban-14-nguoi-bi-thuong-4998782.html) - 12:24 26/12/2025
 - 🦩 [&#39;Chủng tộc và lịch sử&#39; - bản tuyên ngôn về bình đẳng trí tuệ](https://vnexpress.net/chung-toc-va-lich-su-ban-tuyen-ngon-ve-binh-dang-tri-tue-4992423.html) - 12:18 26/12/2025
-- 📝 [Hoàng Đức lập hat-trick Quả bóng Vàng](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794-tong-thuat.html) - 12:02 26/12/2025
+- 📝 [Hoàng Đức lập hat-trick Quả bóng Vàng](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794.html) - 12:02 26/12/2025
 - 🕴 [Năm đặc biệt của ngành khoa học và công nghệ Việt Nam](https://vnexpress.net/nam-dac-biet-cua-nganh-khoa-hoc-va-cong-nghe-viet-nam-4998764.html) - 12:00 26/12/2025
 - 🐲 [Những ngày như địa ngục ở Odessa dưới mưa tên lửa Nga](https://vnexpress.net/nhung-ngay-nhu-dia-nguc-o-odessa-duoi-mua-ten-lua-nga-4998436.html) - 12:00 26/12/2025
 - 🌜 [Ở nhà bốn ngày vì lịch nghỉ Tết Dương lịch thay đổi phút chót](https://vnexpress.net/o-nha-bon-ngay-vi-lich-nghi-tet-duong-lich-thay-doi-phut-chot-4998680.html) - 12:00 26/12/2025
