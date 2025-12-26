@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U23 Việt Nam đặt chân tới Qatar, sẵn sàng tạo kỳ tích ở giải châu Á](https://dantri.com.vn/the-thao/u23-viet-nam-dat-chan-toi-qatar-san-sang-tao-ky-tich-o-giai-chau-a-20251226202603289.htm) - 13:26 26/12/2025
-- 💯 [Quả bóng vàng Việt Nam 2025: Đình Bắc nhận giải Cầu thủ trẻ xuất sắc nhất](https://dantri.com.vn/the-thao/qua-bong-vang-viet-nam-2025-dinh-bac-nhan-giai-cau-thu-tre-xuat-sac-nhat-20251226194014947.htm) - 12:43 26/12/2025
+- 💯 [Nguyễn Hoàng Đức lần thứ 3 giành Quả bóng vàng Việt Nam](https://dantri.com.vn/the-thao/nguyen-hoang-duc-lan-thu-3-gianh-qua-bong-vang-viet-nam-20251226194014947.htm) - 12:43 26/12/2025
 - ⛽️ [Báo Thái Lan bình luận về việc VFF cử đội U21 Việt Nam dự Asiad 2026](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-ve-viec-vff-cu-doi-u21-viet-nam-du-asiad-2026-20251226191502993.htm) - 12:15 26/12/2025
 - 💃 [Nữ CĐV xinh đẹp Thái Lan công khai mến mộ cầu thủ U23 Việt Nam](https://dantri.com.vn/the-thao/nu-cdv-xinh-dep-thai-lan-cong-khai-men-mo-cau-thu-u23-viet-nam-20251226184814022.htm) - 11:48 26/12/2025
 - 🌈 [VFF lên tiếng về việc cử U21 Việt Nam dự Asiad 2026](https://dantri.com.vn/the-thao/vff-len-tieng-ve-viec-cu-u21-viet-nam-du-asiad-2026-20251226145552337.htm) - 07:57 26/12/2025
