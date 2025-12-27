@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Tây chứng kiến 14 năm &#39;lột xác&#39; của phố đường tàu Hà Nội](https://vnexpress.net/khach-tay-chung-kien-14-nam-lot-xac-cua-pho-duong-tau-ha-noi-4995343.html) - 14:34 27/12/2025
+- 💂 [Khách Tây chứng kiến hành trình &#39;lột xác&#39; của phố đường tàu Hà Nội](https://vnexpress.net/khach-tay-chung-kien-hanh-trinh-lot-xac-cua-pho-duong-tau-ha-noi-4995343.html) - 14:34 27/12/2025
 - 🪄 [Địa danh Sài Gòn xuất hiện từ khi nào?](https://vnexpress.net/dia-danh-sai-gon-xuat-hien-tu-khi-nao-4999038.html) - 12:22 27/12/2025
 - 🦅 [Loạt hoạt động đón Tết Dương lịch tại Sun World Ba Na Hills](https://vnexpress.net/loat-hoat-dong-don-tet-duong-lich-tai-sun-world-ba-na-hills-4999026.html) - 10:30 27/12/2025
 - 🕴 [Khách sạn nơi kín chỗ, nơi trầm lắng trước kỳ nghỉ Tết Dương lịch](https://vnexpress.net/khach-san-noi-kin-cho-noi-tram-lang-truoc-ky-nghi-tet-duong-lich-4998793.html) - 06:35 27/12/2025
