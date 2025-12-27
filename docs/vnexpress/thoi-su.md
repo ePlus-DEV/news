@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thủ tướng: Quản lý văn hóa theo nguyên tắc &#39;ai giỏi nhất thì làm&#39;](https://vnexpress.net/thu-tuong-quan-ly-van-hoa-theo-nguyen-tac-ai-gioi-nhat-thi-lam-4999071.html) - 13:25 27/12/2025
-- 🤓 [Xe mất phanh khi xuống dốc gây lật ở Lào Cai](https://vnexpress.net/xe-mat-phanh-khi-xuong-doc-gay-lat-o-lao-cai-4999073.html) - 12:41 27/12/2025
+- 🤓 [Xe chở đoàn thiện nguyện lật ở Lào Cai do mất phanh khi xuống dốc](https://vnexpress.net/xe-cho-doan-thien-nguyen-lat-o-lao-cai-do-mat-phanh-khi-xuong-doc-4999073.html) - 12:41 27/12/2025
 - ⚗️ [&#39;Dầu loang ở Dung Quất do van hở khi lắp đồng hồ&#39;](https://vnexpress.net/dau-loang-o-dung-quat-do-van-ho-khi-lap-dong-ho-4998947.html) - 07:18 27/12/2025
 - 🌊 [Bé sơ sinh sống sót giữa biển lửa thiêu rụi cửa hàng điện nước ở Đăk Lăk](https://vnexpress.net/be-so-sinh-song-sot-giua-bien-lua-thieu-rui-cua-hang-dien-nuoc-o-dak-lak-4998909.html) - 06:48 27/12/2025
 - 🎓 [Tổng Bí thư: Thi đua để mỗi người coi làm việc tốt là lẽ tự nhiên](https://vnexpress.net/tong-bi-thu-thi-dua-de-moi-nguoi-coi-lam-viec-tot-la-le-tu-nhien-4998957.html) - 05:41 27/12/2025
