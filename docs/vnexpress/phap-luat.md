@@ -4,12 +4,12 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai cha con thả chó dữ cắn hàng xóm bị tạm giữ](https://vnexpress.net/hai-cha-con-tha-cho-du-can-hang-xom-bi-tam-giu-4999081.html) - 14:04 27/12/2025
-- 🥰 [Nhân viên can thiệp phần mềm công ty, chiếm đoạt gần 18 tỷ đồng](https://vnexpress.net/nhan-vien-can-thiep-phan-mem-cong-ty-chiem-doat-gan-18-ty-dong-4999060.html) - 11:52 27/12/2025
-- 🎓 [Cậu bé 12 tuổi nhanh trí giúp tóm kẻ đột nhập nhà](https://vnexpress.net/cau-be-12-tuoi-nhanh-tri-giup-tom-ke-dot-nhap-nha-4999052.html) - 10:56 27/12/2025
-- 🤓 [Ba người trong gia đình tử vong ở nhà riêng](https://vnexpress.net/ba-nguoi-trong-gia-dinh-tu-vong-o-nha-rieng-4999051.html) - 10:54 27/12/2025
-- 🎊 [Cựu lãnh đạo Ban quản lý dự án ở Đăk Lăk nhận &#39;lót tay&#39; hơn 11 tỷ đồng](https://vnexpress.net/cuu-lanh-dao-ban-quan-ly-du-an-o-dak-lak-nhan-lot-tay-hon-11-ty-dong-4998952.html) - 05:03 27/12/2025
-- 🙉 [Hai cựu thiếu tướng sắp hầu tòa trong vụ Hậu &#39;Pháo&#39; thâu tóm đất vàng Nha Trang](https://vnexpress.net/hai-cuu-thieu-tuong-sap-hau-toa-trong-vu-hau-phao-thau-tom-dat-vang-nha-trang-4999072.html) - 01:00 27/12/2025
+- 😎 [Hai cựu thiếu tướng sắp hầu tòa trong vụ Hậu &#39;Pháo&#39; thâu tóm đất vàng Nha Trang](https://vnexpress.net/hai-cuu-thieu-tuong-sap-hau-toa-trong-vu-hau-phao-thau-tom-dat-vang-nha-trang-4999072.html) - 17:07 27/12/2025
+- 🥰 [Hai cha con thả chó dữ cắn hàng xóm bị tạm giữ](https://vnexpress.net/hai-cha-con-tha-cho-du-can-hang-xom-bi-tam-giu-4999081.html) - 14:04 27/12/2025
+- 🎓 [Nhân viên can thiệp phần mềm công ty, chiếm đoạt gần 18 tỷ đồng](https://vnexpress.net/nhan-vien-can-thiep-phan-mem-cong-ty-chiem-doat-gan-18-ty-dong-4999060.html) - 11:52 27/12/2025
+- 🤓 [Cậu bé 12 tuổi nhanh trí giúp tóm kẻ đột nhập nhà](https://vnexpress.net/cau-be-12-tuoi-nhanh-tri-giup-tom-ke-dot-nhap-nha-4999052.html) - 10:56 27/12/2025
+- 🎊 [Ba người trong gia đình tử vong ở nhà riêng](https://vnexpress.net/ba-nguoi-trong-gia-dinh-tu-vong-o-nha-rieng-4999051.html) - 10:54 27/12/2025
+- 🙉 [Cựu lãnh đạo Ban quản lý dự án ở Đăk Lăk nhận &#39;lót tay&#39; hơn 11 tỷ đồng](https://vnexpress.net/cuu-lanh-dao-ban-quan-ly-du-an-o-dak-lak-nhan-lot-tay-hon-11-ty-dong-4998952.html) - 05:03 27/12/2025
 - 🤡 [150 cảnh sát vây bắt băng giang hồ cờ bạc mua bán súng](https://vnexpress.net/150-canh-sat-vay-bat-bang-giang-ho-co-bac-mua-ban-sung-4998849.html) - 23:39 26/12/2025
 - 🗽 [Mất con sau hai ngày gửi &#39;đi giáo dục&#39; ở trung tâm công tác xã hội](https://vnexpress.net/mat-con-sau-hai-ngay-gui-di-giao-duc-4998800.html) - 23:19 26/12/2025
 - 🌋 [Cán bộ nhận tiền để cấp phù hiệu cho hàng trăm xe không đủ chuẩn](https://vnexpress.net/can-bo-nhan-tien-de-cap-phu-hieu-cho-hang-tram-xe-khong-du-chuan-4998712.html) - 17:00 26/12/2025
