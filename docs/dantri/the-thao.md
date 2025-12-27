@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Thái Lan bất ngờ chỉ trích nặng nề của Madam Pang](https://dantri.com.vn/the-thao/bao-thai-lan-bat-ngo-chi-trich-nang-ne-cua-madam-pang-20251227131040749.htm) - 06:10 27/12/2025
-- 💯 [U23 Thái Lan nguy to sau trận thua U23 Việt Nam, bị đối thủ đánh giá thấp](https://dantri.com.vn/the-thao/u23-thai-lan-nguy-to-sau-tran-thua-u23-viet-nam-bi-doi-thu-danh-gia-thap-20251227102006547.htm) - 03:20 27/12/2025
-- ⛽️ [HLV Ruben Amorim thừa nhận phá bỏ lời thề để giúp Man Utd chiến thắng](https://dantri.com.vn/the-thao/hlv-ruben-amorim-thua-nhan-pha-bo-loi-the-de-giup-man-utd-chien-thang-20251227082932203.htm) - 02:48 27/12/2025
-- 💃 [Ngôi sao Man Utd được so sánh với Zidane sau siêu phẩm trước Newcastle](https://dantri.com.vn/the-thao/ngoi-sao-man-utd-duoc-so-sanh-voi-zidane-sau-sieu-pham-truoc-newcastle-20251227091812918.htm) - 02:41 27/12/2025
-- 🌈 [Võ sĩ Việt Nam trải lòng về việc bị VĐV Thái Lan chơi xấu, trọng tài xử ép](https://dantri.com.vn/the-thao/vo-si-viet-nam-trai-long-ve-viec-bi-vdv-thai-lan-choi-xau-trong-tai-xu-ep-20251226013117806.htm) - 01:00 27/12/2025
-- 🦅 [Lịch thi đấu vòng chung kết U23 châu Á 2026](https://dantri.com.vn/the-thao/lich-thi-dau-vong-chung-ket-u23-chau-a-2026-20251226174700096.htm) - 00:00 27/12/2025
+- 🎡 [Lịch thi đấu vòng chung kết U23 châu Á 2026](https://dantri.com.vn/the-thao/lich-thi-dau-vong-chung-ket-u23-chau-a-2026-20251226174700096.htm) - 08:00 27/12/2025
+- 💯 [Báo Thái Lan bất ngờ chỉ trích nặng nề Madam Pang](https://dantri.com.vn/the-thao/bao-thai-lan-bat-ngo-chi-trich-nang-ne-madam-pang-20251227131040749.htm) - 06:10 27/12/2025
+- ⛽️ [U23 Thái Lan nguy to sau trận thua U23 Việt Nam, bị đối thủ đánh giá thấp](https://dantri.com.vn/the-thao/u23-thai-lan-nguy-to-sau-tran-thua-u23-viet-nam-bi-doi-thu-danh-gia-thap-20251227102006547.htm) - 03:20 27/12/2025
+- 💃 [HLV Ruben Amorim thừa nhận phá bỏ lời thề để giúp Man Utd chiến thắng](https://dantri.com.vn/the-thao/hlv-ruben-amorim-thua-nhan-pha-bo-loi-the-de-giup-man-utd-chien-thang-20251227082932203.htm) - 02:48 27/12/2025
+- 🌈 [Ngôi sao Man Utd được so sánh với Zidane sau siêu phẩm trước Newcastle](https://dantri.com.vn/the-thao/ngoi-sao-man-utd-duoc-so-sanh-voi-zidane-sau-sieu-pham-truoc-newcastle-20251227091812918.htm) - 02:41 27/12/2025
+- 🦅 [Võ sĩ Việt Nam trải lòng về việc bị VĐV Thái Lan chơi xấu, trọng tài xử ép](https://dantri.com.vn/the-thao/vo-si-viet-nam-trai-long-ve-viec-bi-vdv-thai-lan-choi-xau-trong-tai-xu-ep-20251226013117806.htm) - 01:00 27/12/2025
 - 🌝 [Dorgu tỏa sáng, MU vượt qua Newcastle tại Old Trafford](https://dantri.com.vn/the-thao/dorgu-toa-sang-mu-vuot-qua-newcastle-tai-old-trafford-20251227055528497.htm) - 23:01 26/12/2025
 - 🚀 [Từ mặc cảm “người khổng lồ” đến khát vọng chinh phục Para Games](https://dantri.com.vn/the-thao/tu-mac-cam-nguoi-khong-lo-den-khat-vong-chinh-phuc-para-games-20251226153515115.htm) - 23:00 26/12/2025
 - 🎉 [Bích Thùy: “Cảm ơn người hâm mộ đã không quay lưng với tuyển nữ Việt Nam”](https://dantri.com.vn/the-thao/bich-thuy-cam-on-nguoi-ham-mo-da-khong-quay-lung-voi-tuyen-nu-viet-nam-20251227025854877.htm) - 20:27 26/12/2025
