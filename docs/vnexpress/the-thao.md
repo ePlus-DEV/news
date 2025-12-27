@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Yamal rê bóng nhiều nhất năm 2025](https://vnexpress.net/yamal-re-bong-nhieu-nhat-nam-2025-4998877.html) - 02:53 27/12/2025
 - 🧰 [Amorim thừa nhận sơ đồ mới hiệu quả hơn với Man Utd](https://vnexpress.net/amorim-thua-nhan-so-do-moi-hieu-qua-hon-voi-man-utd-4998867.html) - 02:23 27/12/2025
 - 🤗 [Nhiều VĐV nữ không được thưởng HCV do sai sót văn bản](https://vnexpress.net/nhieu-vdv-nu-khong-duoc-thuong-hcv-do-sai-sot-van-ban-4998499.html) - 01:58 27/12/2025
-- 🥳 [Bích Thuỳ và đồng đội nữ quấn quýt ở lễ trao Quả bóng Vàng 2025](https://vnexpress.net/bich-thuy-va-dong-doi-nu-quan-quyt-o-le-trao-qua-bong-vang-2025-4998873.html) - 01:07 27/12/2025
+- 🥳 [Bích Thuỳ chia vui cùng đồng đội nữ ở lễ trao Quả bóng Vàng 2025](https://vnexpress.net/bich-thuy-chia-vui-cung-dong-doi-nu-o-le-trao-qua-bong-vang-2025-4998873.html) - 01:07 27/12/2025
 - 🦣 [Ai nhanh nhất Ngoại hạng Anh?](https://vnexpress.net/ai-nhanh-nhat-ngoai-hang-anh-4998665.html) - 23:45 26/12/2025
 - 🌜 [Arteta tránh nói về khả năng ăn bốn của Arsenal](https://vnexpress.net/arteta-tranh-noi-ve-kha-nang-an-bon-cua-arsenal-4998845.html) - 23:43 26/12/2025
 - 🫶 [Guardiola: &#39;Man City muốn dẫn đầu chứ không phải kẻ bám đuổi ở Ngoại hạng Anh&#39;](https://vnexpress.net/guardiola-man-city-muon-dan-dau-chu-khong-phai-ke-bam-duoi-o-ngoai-hang-anh-4998846.html) - 23:32 26/12/2025
