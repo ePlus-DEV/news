@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Bé sơ sinh sống sót giữa biển lửa thiêu rụi cửa hàng điện nước ở Đăk Lăk](https://vnexpress.net/be-so-sinh-song-sot-giua-bien-lua-thieu-rui-cua-hang-dien-nuoc-o-dak-lak-4998909.html) - 06:48 27/12/2025
 - ⚗️ [Tổng Bí thư: Thi đua để mỗi người coi làm việc tốt là lẽ tự nhiên](https://vnexpress.net/tong-bi-thu-thi-dua-de-moi-nguoi-coi-lam-viec-tot-la-le-tu-nhien-4998957.html) - 05:41 27/12/2025
 - 🌊 [Hiện trường vụ lật xe chở đoàn thiện nguyện tại Lào Cai](https://vnexpress.net/hien-truong-vu-lat-xe-cho-doan-thien-nguyen-tai-lao-cai-4998981.html) - 05:25 27/12/2025
-- 🎓 [7 tập thể Quân đội, Công an nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân](https://vnexpress.net/7-tap-the-quan-doi-cong-an-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-4998959.html) - 04:56 27/12/2025
+- 🎓 [Binh chủng Đặc công nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân](https://vnexpress.net/binh-chung-dac-cong-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-4998959.html) - 04:56 27/12/2025
 - 🔥 [Kỹ sư quân đội chế tạo tên lửa, UAV](https://vnexpress.net/ky-su-quan-doi-che-tao-ten-lua-uav-4998935.html) - 04:32 27/12/2025
 - 🦏 [Lật xe chở đoàn thiện nguyện, 9 người tử vong](https://vnexpress.net/lat-xe-cho-doan-thien-nguyen-9-nguoi-tu-vong-4998912.html) - 03:02 27/12/2025
 - 👺 [Thủ tướng: Các phong trào thi đua yêu nước góp phần tạo nên kỳ tích](https://vnexpress.net/thu-tuong-cac-phong-trao-thi-dua-yeu-nuoc-gop-phan-tao-nen-ky-tich-4997758.html) - 01:43 27/12/2025
