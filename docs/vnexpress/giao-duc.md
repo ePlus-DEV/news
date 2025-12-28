@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học &#39;ra giá&#39; 11.000 USD cho sinh viên chuộc điểm](https://vnexpress.net/dai-hoc-ra-gia-11-000-usd-cho-sinh-vien-chuoc-diem-4999108.html) - 07:00 28/12/2025
+- 🤓 [Đại học &#39;ra giá&#39; 11.000 USD để xóa nợ môn](https://vnexpress.net/dai-hoc-ra-gia-11-000-usd-de-xoa-no-mon-4999108.html) - 07:00 28/12/2025
 - 🦆 [Chi tiền tỷ tặng sinh viên áo blouse cao cấp, Y Hà Nội gây &#39;sốt&#39;](https://vnexpress.net/chi-tien-ty-tang-sinh-vien-ao-blouse-cao-cap-y-ha-noi-gay-sot-4999004.html) - 04:13 28/12/2025
 - 🦩 [Thủ khoa Kỹ thuật phần mềm đầu tiên của Học viện Kỹ thuật quân sự](https://vnexpress.net/thu-khoa-ky-thuat-phan-mem-dau-tien-cua-hoc-vien-ky-thuat-quan-su-4998898.html) - 17:17 27/12/2025
 - 🌮 [Lần đầu vinh danh thủ khoa người dân tộc thiểu số](https://vnexpress.net/lan-dau-vinh-danh-thu-khoa-nguoi-dan-toc-thieu-so-4999104.html) - 16:28 27/12/2025
