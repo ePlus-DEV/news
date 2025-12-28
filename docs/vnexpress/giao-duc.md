@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thêm một đại học tư thục dự kiến mở ngành Y khoa](https://vnexpress.net/them-mot-dai-hoc-tu-thuc-du-kien-mo-nganh-y-khoa-4999221.html) - 15:04 28/12/2025
+- 🤓 [Thêm một đại học tư thục dự kiến mở ngành Y khoa](https://vnexpress.net/phuong-thuc-to-hop-tuyen-sinh-dai-hoc-cong-nghe-tp-hcm-nam-2026-chi-tiet-4999221.html) - 15:04 28/12/2025
 - 🦆 [Thành phố có nhiều tòa nhà chọc trời nhất Đông Nam Á ở nước nào?](https://vnexpress.net/thanh-pho-co-nhieu-toa-nha-choc-troi-nhat-dong-nam-a-o-nuoc-nao-4999254.html) - 13:23 28/12/2025
 - 🦩 [Đại học &#39;ra giá&#39; 11.000 USD để xóa nợ môn](https://vnexpress.net/dai-hoc-ra-gia-11-000-usd-de-xoa-no-mon-4999108.html) - 07:00 28/12/2025
 - 🌮 [Chi tiền tỷ tặng sinh viên áo blouse cao cấp, Y Hà Nội gây &#39;sốt&#39;](https://vnexpress.net/chi-tien-ty-tang-sinh-vien-ao-blouse-cao-cap-y-ha-noi-gay-sot-4999004.html) - 04:13 28/12/2025
