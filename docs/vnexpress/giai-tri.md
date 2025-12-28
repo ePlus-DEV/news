@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Chương Tử Di viết thư cho con gái](https://vnexpress.net/chuong-tu-di-viet-thu-cho-con-gai-4999229.html) - 11:00 28/12/2025
 - 👨‍🏫 [Tranh Đông Hồ được tái hiện bằng xiếc](https://vnexpress.net/tranh-dong-ho-duoc-tai-hien-bang-xiec-4999230.html) - 10:08 28/12/2025
 - ⚗️ [Vẻ thanh lịch của Hoa hậu Thế giới Trương Tử Lâm](https://vnexpress.net/ve-thanh-lich-cua-hoa-hau-the-gioi-truong-tu-lam-4998738.html) - 08:06 28/12/2025
-- 😎 [Lùm xùm quanh đêm nhạc &#39;Về đây bốn cánh chim trời&#39;](https://vnexpress.net/lum-xum-quanh-dem-nhac-ve-day-bon-canh-chim-troi-4999078.html) - 06:31 28/12/2025
+- 😎 [Khán giả lao lên sân khấu bức xúc vì show hoãn phút chót](https://vnexpress.net/khan-gia-lao-len-san-khau-buc-xuc-vi-show-hoan-phut-chot-4999078.html) - 06:31 28/12/2025
 - 🫣 [&#39;Lý Mạc Sầu đẹp nhất màn ảnh&#39; bình yên sau sóng gió](https://vnexpress.net/ly-mac-sau-dep-nhat-man-anh-binh-yen-sau-song-gio-4999148.html) - 05:00 28/12/2025
 - 🪄 [Hồi ký &#39;vua vũ khí&#39; Trần Đại Nghĩa &lpar;kỳ cuối&rpar;: Chế thuốc pháo từ phân dơi](https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-cuoi-che-thuoc-phao-tu-phan-doi-4999030.html) - 04:00 28/12/2025
 - 🤓 [Phương Mỹ Chi phiêu nốt cao trước hàng nghìn khán giả](https://vnexpress.net/phuong-my-chi-phieu-not-cao-truoc-hang-nghin-khan-gia-4999140.html) - 03:25 28/12/2025
