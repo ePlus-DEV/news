@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [Lịch thi đấu vòng chung kết U23 châu Á 2026](https://dantri.com.vn/the-thao/lich-thi-dau-vong-chung-ket-u23-chau-a-2026-20251226174700096.htm) - 00:00 27/12/2025
+- 🕴 [Lịch thi đấu vòng chung kết U23 châu Á 2026](https://dantri.com.vn/the-thao/lich-thi-dau-vong-chung-ket-u23-chau-a-2026-20251226174700096.htm) - 08:00 27/12/2025
 - 💻 [Chi tiết 25 ngày nghỉ lễ, Tết trong năm 2026](https://dantri.com.vn/noi-vu/chi-tiet-25-ngay-nghi-le-tet-trong-nam-2026-20251225141316277.htm) - 07:20 25/12/2025
 - 🗽 [Ấn định số lượng đại biểu Quốc hội khóa mới ở 34 tỉnh, thành](https://dantri.com.vn/thoi-su/an-dinh-so-luong-dai-bieu-quoc-hoi-khoa-moi-o-34-tinh-thanh-20251224185634539.htm) - 01:25 25/12/2025
 - 👺 [Danh sách huy chương các môn thể thao của Việt Nam ở SEA Games 33](https://dantri.com.vn/the-thao/danh-sach-huy-chuong-cac-mon-the-thao-cua-viet-nam-o-sea-games-33-20251223154617185.htm) - 09:04 23/12/2025
