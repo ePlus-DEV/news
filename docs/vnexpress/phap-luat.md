@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Công an bắt nhóm lừa tiền hơn 1.000 người](https://vnexpress.net/cong-an-bat-nhom-lua-tien-hon-1-000-nguoi-4999305.html) - 17:35 28/12/2025
+- 😎 [Nhóm lừa tiền hơn 1.000 người bị bắt tại sân bay, cửa khẩu](https://vnexpress.net/nhom-lua-tien-hon-1-000-nguoi-bi-bat-tai-san-bay-cua-khau-4999305.html) - 17:35 28/12/2025
 - 🥰 [Lòng tham biến bạn thân thành &#39;ác quỷ&#39;](https://vnexpress.net/long-tham-bien-ban-than-thanh-ac-quy-4999106.html) - 17:00 28/12/2025
 - 🎓 [Thêm công an, bộ đội, lao động thời vụ bị khấu trừ lương nếu không nộp phạt hành chính](https://vnexpress.net/them-cong-an-bo-doi-lao-dong-thoi-vu-se-bi-khau-tru-luong-de-nop-phat-hanh-chinh-4998400.html) - 17:00 28/12/2025
 - 🤓 [Ba tù nhân Mỹ vượt ngục, bắt cóc nữ tài xế công nghệ](https://vnexpress.net/ba-tu-nhan-my-vuot-nguc-bat-coc-nu-tai-xe-cong-nghe-4999252.html) - 12:01 28/12/2025
