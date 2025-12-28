@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhà nước tặng quà người có công, hưu trí xã hội dịp Đại hội Đảng và Tết](https://vnexpress.net/nha-nuoc-tang-qua-nguoi-co-cong-huu-tri-xa-hoi-dip-dai-hoi-dang-va-tet-4999280.html) - 13:34 28/12/2025
+- 🦒 [Đảng, Nhà nước tặng quà nhân dịp Đại hội Đảng và Tết Nguyên đán](https://vnexpress.net/dang-nha-nuoc-tang-qua-nhan-dip-dai-hoi-dang-va-tet-nguyen-dan-4999280.html) - 13:34 28/12/2025
 - 🤓 [Cháy trên dãy nhà liền kề Hà Nội, lửa khói ngùn ngụt](https://vnexpress.net/chay-tren-day-nha-lien-ke-ha-noi-lua-khoi-ngun-ngut-4999266.html) - 12:26 28/12/2025
 - ⚗️ [Ba đứa trẻ tử vong dưới hồ](https://vnexpress.net/ba-dua-tre-tu-vong-duoi-ho-4999251.html) - 10:44 28/12/2025
 - 🌊 [Người dân đảo Phú Quý chi 350 triệu đồng thuê trực thăng chuyển viện](https://vnexpress.net/nguoi-dan-dao-phu-quy-chi-350-trieu-dong-thue-truc-thang-chuyen-vien-4999222.html) - 09:24 28/12/2025
