@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Mạo danh đại học lớn nhất nước để tuyển cán bộ, kêu gọi từ thiện](https://dantri.com.vn/giao-duc/mao-danh-dai-hoc-lon-nhat-nuoc-de-tuyen-can-bo-keu-goi-tu-thien-20251229143247034.htm) - 07:45 29/12/2025
+- 🤡 [Mạo danh đại học top cả nước để tuyển cán bộ, kêu gọi từ thiện](https://dantri.com.vn/giao-duc/mao-danh-dai-hoc-top-ca-nuoc-de-tuyen-can-bo-keu-goi-tu-thien-20251229143247034.htm) - 07:45 29/12/2025
 - 🗽 [Thay đổi lịch nghỉ Tết Dương lịch của học sinh Hà Nội](https://dantri.com.vn/giao-duc/thay-doi-lich-nghi-tet-duong-lich-cua-hoc-sinh-ha-noi-20251229122007711.htm) - 05:26 29/12/2025
 - 🚦 [Mẹ nữ sinh lớp 8 bị đánh hội đồng: &quot;Cháu vẫn hoảng loạn, sợ gặp người lạ&quot;](https://dantri.com.vn/giao-duc/me-nu-sinh-lop-8-bi-danh-hoi-dong-chau-van-hoang-loan-so-gap-nguoi-la-20251229115739564.htm) - 05:13 29/12/2025
 - 🌋 [Hàng loạt quyết sách lớn thể hiện sự ưu tiên đặc biệt cho giáo dục](https://dantri.com.vn/giao-duc/hang-loat-quyet-sach-lon-the-hien-su-uu-tien-dac-biet-cho-giao-duc-20251229104650060.htm) - 04:11 29/12/2025
