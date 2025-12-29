@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lừa đảo trực tuyến gây thiệt hại gần 40.000 tỷ đồng trong 5 năm](https://vnexpress.net/lua-dao-truc-tuyen-gay-thiet-hai-gan-40-000-ty-dong-trong-5-nam-4999575.html) - 08:30 29/12/2025
+- 😎 [5 năm, người Việt mất gần 40.000 tỷ đồng vì lừa đảo trực tuyến](https://vnexpress.net/5-nam-nguoi-viet-mat-gan-40-000-ty-dong-vi-lua-dao-truc-tuyen-4999575.html) - 08:30 29/12/2025
 - 🥰 [Khách thuê phòng trèo từ khách sạn sang cửa hàng trộm 66 iPhone](https://vnexpress.net/khach-thue-phong-treo-tu-khach-san-sang-cua-hang-trom-66-iphone-4999514.html) - 07:57 29/12/2025
 - 🎓 [12 cựu công an bị cáo buộc &#39;giải cứu&#39; người nghiện](https://vnexpress.net/12-cuu-cong-an-bi-cao-buoc-giai-cuu-nguoi-nghien-4999498.html) - 06:00 29/12/2025
 - 🤓 [5 người cầm hung khí đánh tới tấp &#39;đối thủ&#39;](https://vnexpress.net/5-nguoi-cam-hung-khi-danh-toi-tap-doi-thu-4999492.html) - 05:20 29/12/2025
