@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [An vị xá lợi trái tim Bồ tát Thích Quảng Đức ở Việt Nam Quốc Tự](https://vnexpress.net/an-vi-xa-loi-trai-tim-bo-tat-thich-quang-duc-o-viet-nam-quoc-tu-4999464.html) - 04:35 29/12/2025
+- 🦒 [An vị xá lợi trái tim Bồ tát Thích Quảng Đức ở bảo tháp Việt Nam Quốc Tự](https://vnexpress.net/an-vi-xa-loi-trai-tim-bo-tat-thich-quang-duc-o-bao-thap-viet-nam-quoc-tu-4999464.html) - 04:35 29/12/2025
 - 🤓 [Thưởng Tết Dương lịch tại Hải Phòng tăng hơn 16%](https://vnexpress.net/thuong-tet-duong-lich-tai-hai-phong-tang-hon-16-4999439.html) - 04:14 29/12/2025
 - ⚗️ [Hai xe máy tông nhau, ba người thiệt mạng](https://vnexpress.net/hai-xe-may-tong-nhau-ba-nguoi-thiet-mang-4999375.html) - 02:44 29/12/2025
 - 🌊 [Hàng nghìn công nhân bất an vì đối mặt mất việc trước Tết](https://vnexpress.net/hang-nghin-cong-nhan-bat-an-vi-doi-mat-mat-viec-truoc-tet-4999227.html) - 23:00 28/12/2025
