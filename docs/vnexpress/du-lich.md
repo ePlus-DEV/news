@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Năm 2025 du lịch Việt bứt phá trở lại thời hoàng kim](https://vnexpress.net/nam-2025-du-lich-viet-but-pha-tro-lai-thoi-hoang-kim-4993966.html) - 00:00 29/12/2025
+- 💂 [2025 - năm trở lại hoàng kim của du lịch Việt Nam](https://vnexpress.net/2025-nam-tro-lai-hoang-kim-cua-du-lich-viet-nam-4993966.html) - 00:00 29/12/2025
 - 🪄 [Rupee mất giá, khách Ấn Độ chuyển hướng đến Việt Nam](https://vnexpress.net/rupee-mat-gia-khach-an-do-chuyen-huong-den-viet-nam-4999211.html) - 17:00 28/12/2025
 - 🦅 [Tên gọi Cần Giờ có ý nghĩa gì?](https://vnexpress.net/ten-goi-can-gio-co-y-nghia-gi-4999066.html) - 12:00 28/12/2025
 - 🕴 [Thử thuê bạn gái một ngày ở Nhật Bản](https://vnexpress.net/thu-thue-ban-gai-mot-ngay-o-nhat-ban-4999005.html) - 09:26 28/12/2025
