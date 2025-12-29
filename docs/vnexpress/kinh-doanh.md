@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Tăng trưởng tín dụng gần 18%, cao nhất nhiều năm](https://vnexpress.net/tang-truong-tin-dung-gan-18-cao-nhat-nhieu-nam-4999616.html) - 09:28 29/12/2025
 - 🔥 [Chứng khoán tăng vọt đầu tuần](https://vnexpress.net/chung-khoan-tang-vot-dau-tuan-4999610.html) - 09:04 29/12/2025
 - 🐵 [Nhiều cơ sở thuộc tiệm vàng lớn ở Hà Tĩnh bất ngờ đóng cửa](https://vnexpress.net/nhieu-co-so-thuoc-tiem-vang-lon-o-ha-tinh-bat-ngo-dong-cua-4999567.html) - 08:43 29/12/2025
-- 🦅 [EVN giảm bớt lỗ lũy kế giai đoạn 2022-2023](https://vnexpress.net/evn-giam-bot-lo-luy-ke-giai-doan-2022-2023-4999419.html) - 05:44 29/12/2025
+- 🦅 [EVN giảm bớt lỗ lũy kế](https://vnexpress.net/evn-giam-bot-lo-luy-ke-4999419.html) - 05:44 29/12/2025
 - 😺 [Nở rộ mô hình siêu thị tích hợp ẩm thực](https://vnexpress.net/no-ro-mo-hinh-sieu-thi-tich-hop-am-thuc-4993133.html) - 05:41 29/12/2025
 - 🤩 [Giá vàng miếng giảm gần 2 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-12-4999405.html) - 03:19 29/12/2025
 - 🌮 [Năm Bitcoin không còn là &#39;tiền ảo&#39;](https://vnexpress.net/nam-bitcoin-khong-con-la-tien-ao-4997887.html) - 22:00 28/12/2025
