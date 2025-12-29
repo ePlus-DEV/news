@@ -4,9 +4,9 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [10 điểm đến Việt được du khách yêu thích nhất năm 2025](https://vnexpress.net/10-diem-den-viet-duoc-du-khach-yeu-thich-nhat-nam-2025-4999595.html) - 09:31 29/12/2025
+- 💂 [10 điểm đến được yêu thích nhất tại Việt Nam năm 2025](https://vnexpress.net/10-diem-den-duoc-yeu-thich-nhat-tai-viet-nam-nam-2025-4999595.html) - 09:31 29/12/2025
 - 🪄 [5 nơi du khách không thể ghé thăm năm 2026](https://vnexpress.net/5-noi-du-khach-khong-the-ghe-tham-nam-2026-4999283.html) - 06:17 29/12/2025
-- 🦅 [Chọn 9 điểm chơi Tết Dương lịch vào &#39;phút chót&#39;](https://vnexpress.net/chon-9-diem-choi-tet-duong-lich-vao-phut-chot-4998120.html) - 06:01 29/12/2025
+- 🦅 [9 điểm chơi Tết Dương lịch vào &#39;phút chót&#39;](https://vnexpress.net/9-diem-choi-tet-duong-lich-vao-phut-chot-4998120.html) - 06:01 29/12/2025
 - 🕴 [Khách lần đầu trải nghiệm tour &#39;tìm ký ức&#39; ở Hà Nội](https://vnexpress.net/khach-lan-dau-trai-nghiem-tour-tim-ky-uc-o-ha-noi-4999103.html) - 04:45 29/12/2025
 - 👀 [2025 - năm trở lại hoàng kim của du lịch Việt Nam](https://vnexpress.net/2025-nam-tro-lai-hoang-kim-cua-du-lich-viet-nam-4993966.html) - 00:00 29/12/2025
 - 🎭 [Rupee mất giá, khách Ấn Độ chuyển hướng đến Việt Nam](https://vnexpress.net/rupee-mat-gia-khach-an-do-chuyen-huong-den-viet-nam-4999211.html) - 17:00 28/12/2025
