@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [2025 - Năm thiên tai vượt ngưỡng và giới hạn của hệ thống phòng thủ](https://vnexpress.net/2025-nam-thien-tai-vuot-nguong-va-gioi-han-cua-he-thong-phong-thu-4999742.html) - 23:00 29/12/2025
+- 🦒 [2025 - Năm thiên tai cực hạn](https://vnexpress.net/2025-nam-thien-tai-cuc-han-4999742.html) - 23:00 29/12/2025
 - 🤓 [Cầu vượt đầu tiên ở dự án nút giao lớn nhất TP HCM sắp thông xe](https://vnexpress.net/cau-vuot-dau-tien-o-du-an-nut-giao-lon-nhat-tp-hcm-sap-thong-xe-4999686.html) - 22:00 29/12/2025
 - ⚗️ [Lương, thưởng Tết Bính Ngọ tại các tỉnh thành](https://vnexpress.net/luong-thuong-tet-binh-ngo-tai-cac-tinh-thanh-4999667.html) - 20:00 29/12/2025
 - 🌊 [83 phường, xã TP HCM được tăng thêm một phó chủ tịch UBND](https://vnexpress.net/83-phuong-xa-tp-hcm-duoc-tang-them-mot-pho-chu-tich-ubnd-4999735.html) - 17:00 29/12/2025
