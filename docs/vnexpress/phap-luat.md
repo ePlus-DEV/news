@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Giám đốc công ty tổ chức chương trình &#39;Bốn cánh chim trời&#39; bị khởi tố](https://vnexpress.net/giam-doc-cong-ty-to-chuc-chuong-trinh-bon-canh-chim-troi-bi-khoi-to-5000296.html) - 15:07 30/12/2025
+- 😎 [Giám đốc tổ chức chương trình &#39;Về đây bốn cánh chim trời&#39; bị khởi tố](https://vnexpress.net/giam-doc-to-chuc-chuong-trinh-ve-day-bon-canh-chim-troi-bi-khoi-to-5000296.html) - 15:07 30/12/2025
 - 🥰 [Đường dây buôn lậu hơn 50.000 hộp thực phẩm chức năng](https://vnexpress.net/duong-day-buon-lau-hon-50-000-hop-thuc-pham-chuc-nang-5000272.html) - 14:24 30/12/2025
 - 🎓 [Cuộc hôn nhân không viên mãn của thiếu phụ bị chồng sát hại](https://vnexpress.net/cuoc-hon-nhan-khong-vien-man-cua-thieu-phu-bi-chong-sat-hai-5000235.html) - 11:19 30/12/2025
 - 🤓 [Bộ Công an giải cứu hai thiếu nữ khỏi ổ lừa đảo tại Campuchia](https://vnexpress.net/bo-cong-an-giai-cuu-hai-thieu-nu-khoi-o-lua-dao-tai-campuchia-5000237.html) - 11:01 30/12/2025
