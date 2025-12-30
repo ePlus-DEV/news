@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Ẵm học bổng 7,1 tỷ đồng nhờ bài luận thay đổi vào &#39;phút chót&#39;](https://vnexpress.net/am-hoc-bong-7-1-ty-dong-nho-bai-luan-thay-doi-vao-phut-chot-4999580.html) - 23:09 29/12/2025
-- 🦆 [Học sinh &#39;quên&#39; cách xem đồng hồ sau lệnh cấm điện thoại](https://vnexpress.net/hoc-sinh-quen-cach-xem-dong-ho-sau-lenh-cam-dien-thoai-4999395.html) - 14:53 29/12/2025
+- 🦆 [Học sinh quên cách xem đồng hồ sau lệnh cấm điện thoại](https://vnexpress.net/hoc-sinh-quen-cach-xem-dong-ho-sau-lenh-cam-dien-thoai-4999395.html) - 14:53 29/12/2025
 - 🦩 [Nước nào là mỏ &#39;vàng đen&#39; lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-la-mo-vang-den-lon-nhat-the-gioi-4999679.html) - 13:12 29/12/2025
 - 🌮 [Hơn 4.000 trường học Hàn Quốc biến mất vì thiếu học sinh](https://vnexpress.net/hon-4-000-truong-hoc-han-quoc-bien-mat-vi-thieu-hoc-sinh-4999493.html) - 09:12 29/12/2025
 - 🔭 [Thầy giáo bị tố sàm sỡ nữ sinh lớp 8 trong trường](https://vnexpress.net/thay-giao-bi-to-sam-so-nu-sinh-lop-8-trong-truong-4999494.html) - 07:04 29/12/2025
