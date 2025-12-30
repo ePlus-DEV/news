@@ -25,7 +25,7 @@ sidebar_position: 5
 - 🦩 [Haaland trưởng thành thế nào trong năm 2025?](https://vnexpress.net/haaland-truong-thanh-the-nao-trong-nam-2025-4999308.html) - 02:13 29/12/2025
 - 🐲 [Kyrgios thắng Sabalenka ở &#39;đại chiến giới tính&#39;](https://vnexpress.net/kyrgios-thang-sabalenka-o-dai-chien-gioi-tinh-4999322.html) - 00:28 29/12/2025
 - 🌁 [Real bị chê lạc lối vì Vinicius](https://vnexpress.net/real-bi-che-lac-loi-vi-vinicius-4999309.html) - 22:58 28/12/2025
-- 💯 [Man Utd thanh lý Zirkzee](https://vnexpress.net/man-utd-thanh-ly-zirkzee-4999310.html) - 22:46 28/12/2025
+- 💯 [Man Utd sắp thanh lý Zirkzee](https://vnexpress.net/man-utd-sap-thanh-ly-zirkzee-4999310.html) - 22:46 28/12/2025
 - 🌝 [Ronaldo đoạt giải Cầu thủ hay nhất Trung Đông 2025](https://vnexpress.net/ronaldo-doat-giai-cau-thu-hay-nhat-trung-dong-2025-4999312.html) - 22:42 28/12/2025
 - 🤖 [Carlsen đoạt danh hiệu thế giới thứ 21](https://vnexpress.net/carlsen-doat-danh-hieu-the-gioi-thu-21-4999300.html) - 15:58 28/12/2025
 - 🕯 [Bầu Đức: &#39;Tôi vẫn âm thầm đóng góp cho bóng đá Việt Nam&#39;](https://vnexpress.net/bau-duc-toi-van-am-tham-dong-gop-cho-bong-da-viet-nam-4998259.html) - 08:30 28/12/2025
