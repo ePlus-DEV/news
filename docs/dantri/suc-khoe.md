@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [TPHCM sẽ có thêm bệnh viện trăm tỷ ngay giữa khu đất vàng](https://dantri.com.vn/suc-khoe/tphcm-se-co-them-benh-vien-tram-ty-ngay-giua-khu-dat-vang-20251230170807186.htm) - 10:28 30/12/2025
+- 🤔 [Bệnh viện giữa khu đất vàng ở TPHCM sẽ có thêm 2 tòa nhà trăm tỷ](https://dantri.com.vn/suc-khoe/benh-vien-giua-khu-dat-vang-o-tphcm-se-co-them-2-toa-nha-tram-ty-20251230170807186.htm) - 10:28 30/12/2025
 - 🚦 [Nhiều bệnh nhân phản ánh không được cấp thuốc ngoại trú trên 30 ngày](https://dantri.com.vn/suc-khoe/nhieu-benh-nhan-phan-anh-khong-duoc-cap-thuoc-ngoai-tru-tren-30-ngay-20251230160146442.htm) - 10:20 30/12/2025
 - 🤖 [Cứu chàng trai khỏi khối u bụng khổng lồ như quả bóng, vỡ bất cứ lúc nào](https://dantri.com.vn/suc-khoe/cuu-chang-trai-khoi-khoi-u-bung-khong-lo-nhu-qua-bong-vo-bat-cu-luc-nao-20251230171653671.htm) - 10:17 30/12/2025
 - 🐻 [Lợi ích từ công thức kết hợp dầu olive nguyên chất và dầu gạo lứt](https://dantri.com.vn/suc-khoe/loi-ich-tu-cong-thuc-ket-hop-dau-olive-nguyen-chat-va-dau-gao-lut-20251230152453969.htm) - 09:00 30/12/2025
