@@ -38,7 +38,7 @@ sidebar_position: 9
 - 🎉 [Nga tặng tranh chân dung cho em gái ông Kim Jong-un](https://vnexpress.net/nga-tang-tranh-chan-dung-cho-em-gai-ong-kim-jong-un-5000749.html) - 15:45 31/12/2025
 - 🌋 [Mua bán dữ liệu cá nhân sẽ bị phạt gấp 10 lần doanh thu từ 2026](https://vnexpress.net/mua-ban-du-lieu-ca-nhan-se-bi-phat-gap-10-lan-doanh-thu-tu-2026-5000744.html) - 15:15 31/12/2025
 - 🤖 [Giới trẻ cuồng nhiệt cùng âm nhạc đón 2026 trên phố Nguyễn Huệ, Hồ Gươm](https://vnexpress.net/gioi-tre-cuong-nhiet-cung-am-nhac-don-2026-tren-pho-nguyen-hue-ho-guom-5000742.html) - 15:05 31/12/2025
-- 🦏 [Biển người xuống đường đón năm 2026](https://vnexpress.net/bien-nguoi-xuong-duong-don-nam-2026-5000699.html) - 15:03 31/12/2025
+- 🦏 [Biển người xuống đường đón năm mới](https://vnexpress.net/bien-nguoi-xuong-duong-don-nam-moi-5000699.html) - 15:03 31/12/2025
 - 🦩 [Generali Việt Nam chú trọng chất lượng đội ngũ tư vấn viên](https://vnexpress.net/generali-viet-nam-chu-trong-chat-luong-doi-ngu-tu-van-vien-5000725.html) - 15:00 31/12/2025
 - 👺 [7 nghiên cứu giáo dục nổi bật năm 2025](https://vnexpress.net/7-nghien-cuu-giao-duc-noi-bat-nam-2025-4993894.html) - 14:55 31/12/2025
 - 🧑‍🏫 [Xuất hiện ảnh &#39;bệ phóng điện từ gắn trên xe tải&#39; của Trung Quốc](https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html) - 14:07 31/12/2025
