@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [24 người bị bắt trong đường dây cá độ bóng đá ở TP HCM](https://vnexpress.net/24-nguoi-bi-bat-trong-duong-day-ca-do-bong-da-o-tp-hcm-5000735.html) - 18:00 31/12/2025
 - 🎊 [Điều gì xảy ra khi bạn ăn chuối?](https://vnexpress.net/dieu-gi-xay-ra-khi-ban-an-chuoi-5000512.html) - 18:00 31/12/2025
 - 🎃 [Ngẩng đầu bước vào năm mới](https://vnexpress.net/ngang-dau-buoc-vao-nam-moi-5000591.html) - 17:43 31/12/2025
-- 🧰 [Khoảnh khắc dòng người chen lấn ở Hồ Gươm](https://vnexpress.net/khoanh-khac-dong-nguoi-chen-lan-o-ho-guom-5000762.html) - 17:29 31/12/2025
+- 🧰 [Dòng người chen lấn ở Hồ Gươm](https://vnexpress.net/dong-nguoi-chen-lan-o-ho-guom-5000762.html) - 17:29 31/12/2025
 - 🔭 [Doanh nghiệp nhập cuộc chuyển đổi xanh, số cùng TP HCM](https://vnexpress.net/doanh-nghiep-nhap-cuoc-chuyen-doi-xanh-so-cung-tp-hcm-5000711.html) - 17:10 31/12/2025
 - 🫶 [Ba con giáp được Thần Tài &#39;lì xì&#39; đầu năm 2026](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-ba-con-giap-duoc-than-tai-li-xi-dau-nam-2026-5000473.html) - 17:02 31/12/2025
 - 🪜 [Biệt thự hơn 2.000 m2 như phòng trưng bày nghệ thuật giữa cánh đồng](https://vnexpress.net/biet-thu-hon-2-000-m2-nhu-phong-trung-bay-nghe-thuat-giua-canh-dong-5000312.html) - 17:02 31/12/2025
