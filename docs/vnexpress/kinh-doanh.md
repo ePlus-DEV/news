@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Yêu cầu Zalo điều chỉnh thỏa thuận, không buộc người dùng &#39;phải đồng ý&#39;](https://vnexpress.net/yeu-cau-zalo-dieu-chinh-thoa-thuan-khong-buoc-nguoi-dung-phai-dong-y-5000489.html) - 04:10 31/12/2025
 - 🐲 [BIDV chuyển nhượng toàn bộ khoản nợ trái phiếu của Hoàng Anh Gia Lai](https://vnexpress.net/bidv-chuyen-nhuong-toan-bo-khoan-no-trai-phieu-cua-hoang-anh-gia-lai-5000386.html) - 02:47 31/12/2025
-- 🔥 [Mua bán ngoại tệ &#39;chợ đen&#39; có thể bị phạt tới 100 triệu đồng](https://vnexpress.net/mua-ban-ngoai-te-cho-den-co-the-bi-phat-toi-100-trieu-dong-5000256.html) - 02:14 31/12/2025
+- 🔥 [Mua vàng từ 20 triệu đồng không chuyển khoản sẽ bị phạt](https://vnexpress.net/mua-vang-tu-20-trieu-dong-khong-chuyen-khoan-se-bi-phat-5000256.html) - 02:14 31/12/2025
 - 🐵 [Meey Group hướng đến hệ sinh thái công nghệ bất động sản](https://vnexpress.net/meey-group-huong-den-he-sinh-thai-cong-nghe-bat-dong-san-5000356.html) - 02:00 31/12/2025
 - 🦅 [Giá vàng, bạc thế giới tăng trở lại](https://vnexpress.net/gia-vang-bac-the-gioi-tang-tro-lai-5000336.html) - 01:01 31/12/2025
 - 😺 [Kinh tế Việt Nam 2025 qua các con số](https://vnexpress.net/kinh-te-viet-nam-2025-qua-cac-con-so-5000307.html) - 00:24 31/12/2025
