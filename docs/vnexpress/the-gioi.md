@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Xuất hiện ảnh &#39;bệ phóng điện từ gắn trên xe tải&#39; của Trung Quốc](https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html) - 14:07 31/12/2025
-- 🕴 [Nga công bố video xác UAV bị bắn rơi khi &#39;tập kích dinh thự ông Putin&#39;](https://vnexpress.net/nga-cong-bo-video-xac-uav-bi-ban-roi-khi-tap-kich-dinh-thu-ong-putin-5000716.html) - 12:52 31/12/2025
-- 🤭 [Nga - Ukraine tìm cách xoay chuyển ông Trump](https://vnexpress.net/nga-ukraine-tim-cach-xoay-chuyen-ong-trump-5000344.html) - 12:00 31/12/2025
-- 🧑‍💻 [Khu vực Đông Á đón năm mới](https://vnexpress.net/the-gioi-bat-dau-don-nam-moi-2026-5000678.html) - 10:39 31/12/2025
-- 🦏 [Hai nước châu Phi đáp trả lệnh cấm nhập cảnh của Mỹ](https://vnexpress.net/hai-nuoc-chau-phi-dap-tra-lenh-cam-nhap-canh-cua-my-5000601.html) - 09:41 31/12/2025
-- 🦒 [Ông Trump lần đầu dùng quyền phủ quyết trong nhiệm kỳ hai](https://vnexpress.net/ong-trump-lan-dau-dung-quyen-phu-quyet-trong-nhiem-ky-hai-5000505.html) - 08:28 31/12/2025
-- 🌈 [Quân đội Nga được yêu cầu tăng vùng đệm ở Ukraine](https://vnexpress.net/quan-doi-nga-duoc-yeu-cau-tang-vung-dem-o-ukraine-5000571.html) - 08:21 31/12/2025
-- 🧑‍🏫 [Khoan xuyên kho tiền ngân hàng, trộm 35 triệu USD](https://vnexpress.net/khoan-xuyen-kho-tien-ngan-hang-trom-35-trieu-usd-5000574.html) - 08:11 31/12/2025
-- 🐲 [Cuộc tập trận quy mô chưa từng có của Trung Quốc quanh Đài Loan](https://vnexpress.net/cuoc-tap-tran-quy-mo-chua-tung-co-cua-trung-quoc-quanh-dai-loan-5000455.html) - 08:09 31/12/2025
-- 🦒 [Thủ tướng Thái Lan cam kết sẽ xây tường biên giới với Campuchia](https://vnexpress.net/thu-tuong-thai-lan-cam-ket-se-xay-tuong-bien-gioi-voi-campuchia-5000562.html) - 07:35 31/12/2025
-- 🐻 [Người dân khắp thế giới chuẩn bị đón năm mới 2026](https://vnexpress.net/nguoi-dan-khap-the-gioi-chuan-bi-don-nam-moi-2026-5000375.html) - 07:02 31/12/2025
-- 🚀 [Israel thu hồi giấy phép của 37 tổ chức viện trợ người Palestine](https://vnexpress.net/israel-thu-hoi-giay-phep-cua-37-to-chuc-vien-tro-nguoi-palestine-5000404.html) - 07:01 31/12/2025
-- 🥰 [Ông Medvedev: Tổng thống Ukraine sẽ phải &#39;ẩn náu suốt đời&#39;](https://vnexpress.net/ong-medvedev-tong-thong-ukraine-se-phai-an-nau-suot-doi-5000350.html) - 05:31 31/12/2025
-- 🔥 [Thái Lan trao trả 18 tù binh Campuchia](https://vnexpress.net/thai-lan-trao-tra-18-tu-binh-campuchia-5000469.html) - 04:53 31/12/2025
-- 🥳 [&#39;Quả cầu chòm sao&#39; sẽ thắp sáng Quảng trường Thời đại lúc giao thừa](https://vnexpress.net/qua-cau-chom-sao-se-thap-sang-quang-truong-thoi-dai-luc-giao-thua-5000448.html) - 04:45 31/12/2025
-- 💼 [Ông Putin chúc mừng năm mới lãnh đạo Trung, Mỹ](https://vnexpress.net/ong-putin-chuc-mung-nam-moi-lanh-dao-trung-my-5000437.html) - 04:28 31/12/2025
-- 🤡 [Loạt nghệ sĩ hủy show tại trung tâm mang tên ông Trump](https://vnexpress.net/loat-nghe-si-huy-show-tai-trung-tam-mang-ten-ong-trump-5000389.html) - 04:02 31/12/2025
-- 🌁 [Philippines chật vật đáp ứng cơn sốt khoai mỡ tím toàn cầu](https://vnexpress.net/philippines-chat-vat-dap-ung-con-sot-khoai-mo-tim-toan-cau-4999615.html) - 03:14 31/12/2025
-- 🤩 [Dân sống gần dinh thự ông Putin &#39;không thấy dấu hiệu vụ tập kích&#39;](https://vnexpress.net/dan-song-gan-dinh-thu-ong-putin-khong-thay-dau-hieu-vu-tap-kich-5000363.html) - 03:14 31/12/2025
+- 🎭 [Nga tặng tranh chân dung cho em gái ông Kim Jong-un](https://vnexpress.net/nga-tang-tranh-chan-dung-cho-em-gai-ong-kim-jong-un-5000749.html) - 15:45 31/12/2025
+- 🕴 [Xuất hiện ảnh &#39;bệ phóng điện từ gắn trên xe tải&#39; của Trung Quốc](https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html) - 14:07 31/12/2025
+- 🤭 [Nga công bố video xác UAV bị bắn rơi khi &#39;tập kích dinh thự ông Putin&#39;](https://vnexpress.net/nga-cong-bo-video-xac-uav-bi-ban-roi-khi-tap-kich-dinh-thu-ong-putin-5000716.html) - 12:52 31/12/2025
+- 🧑‍💻 [Nga - Ukraine tìm cách xoay chuyển ông Trump](https://vnexpress.net/nga-ukraine-tim-cach-xoay-chuyen-ong-trump-5000344.html) - 12:00 31/12/2025
+- 🦏 [Đông Nam Á bắt đầu đón năm mới](https://vnexpress.net/the-gioi-bat-dau-don-nam-moi-2026-5000678.html) - 10:39 31/12/2025
+- 🦒 [Hai nước châu Phi đáp trả lệnh cấm nhập cảnh của Mỹ](https://vnexpress.net/hai-nuoc-chau-phi-dap-tra-lenh-cam-nhap-canh-cua-my-5000601.html) - 09:41 31/12/2025
+- 🌈 [Ông Trump lần đầu dùng quyền phủ quyết trong nhiệm kỳ hai](https://vnexpress.net/ong-trump-lan-dau-dung-quyen-phu-quyet-trong-nhiem-ky-hai-5000505.html) - 08:28 31/12/2025
+- 🧑‍🏫 [Quân đội Nga được yêu cầu tăng vùng đệm ở Ukraine](https://vnexpress.net/quan-doi-nga-duoc-yeu-cau-tang-vung-dem-o-ukraine-5000571.html) - 08:21 31/12/2025
+- 🐲 [Khoan xuyên kho tiền ngân hàng, trộm 35 triệu USD](https://vnexpress.net/khoan-xuyen-kho-tien-ngan-hang-trom-35-trieu-usd-5000574.html) - 08:11 31/12/2025
+- 🦒 [Cuộc tập trận quy mô chưa từng có của Trung Quốc quanh Đài Loan](https://vnexpress.net/cuoc-tap-tran-quy-mo-chua-tung-co-cua-trung-quoc-quanh-dai-loan-5000455.html) - 08:09 31/12/2025
+- 🐻 [Thủ tướng Thái Lan cam kết sẽ xây tường biên giới với Campuchia](https://vnexpress.net/thu-tuong-thai-lan-cam-ket-se-xay-tuong-bien-gioi-voi-campuchia-5000562.html) - 07:35 31/12/2025
+- 🚀 [Người dân khắp thế giới chuẩn bị đón năm mới 2026](https://vnexpress.net/nguoi-dan-khap-the-gioi-chuan-bi-don-nam-moi-2026-5000375.html) - 07:02 31/12/2025
+- 🥰 [Israel thu hồi giấy phép của 37 tổ chức viện trợ người Palestine](https://vnexpress.net/israel-thu-hoi-giay-phep-cua-37-to-chuc-vien-tro-nguoi-palestine-5000404.html) - 07:01 31/12/2025
+- 🔥 [Ông Medvedev: Tổng thống Ukraine sẽ phải &#39;ẩn náu suốt đời&#39;](https://vnexpress.net/ong-medvedev-tong-thong-ukraine-se-phai-an-nau-suot-doi-5000350.html) - 05:31 31/12/2025
+- 🥳 [Thái Lan trao trả 18 tù binh Campuchia](https://vnexpress.net/thai-lan-trao-tra-18-tu-binh-campuchia-5000469.html) - 04:53 31/12/2025
+- 💼 [&#39;Quả cầu chòm sao&#39; sẽ thắp sáng Quảng trường Thời đại lúc giao thừa](https://vnexpress.net/qua-cau-chom-sao-se-thap-sang-quang-truong-thoi-dai-luc-giao-thua-5000448.html) - 04:45 31/12/2025
+- 🤡 [Ông Putin chúc mừng năm mới lãnh đạo Trung, Mỹ](https://vnexpress.net/ong-putin-chuc-mung-nam-moi-lanh-dao-trung-my-5000437.html) - 04:28 31/12/2025
+- 🌁 [Loạt nghệ sĩ hủy show tại trung tâm mang tên ông Trump](https://vnexpress.net/loat-nghe-si-huy-show-tai-trung-tam-mang-ten-ong-trump-5000389.html) - 04:02 31/12/2025
+- 🤩 [Philippines chật vật đáp ứng cơn sốt khoai mỡ tím toàn cầu](https://vnexpress.net/philippines-chat-vat-dap-ung-con-sot-khoai-mo-tim-toan-cau-4999615.html) - 03:14 31/12/2025
+- 🎉 [Dân sống gần dinh thự ông Putin &#39;không thấy dấu hiệu vụ tập kích&#39;](https://vnexpress.net/dan-song-gan-dinh-thu-ong-putin-khong-thay-dau-hieu-vu-tap-kich-5000363.html) - 03:14 31/12/2025
 - 🎉 [UAE rút toàn bộ lực lượng khỏi Yemen](https://vnexpress.net/uae-rut-toan-bo-luc-luong-khoi-yemen-5000335.html) - 01:56 31/12/2025
-- 🎉 [Giây phút người biểu tình Iran ngồi giữa đường chặn đoàn xe cảnh sát](https://vnexpress.net/giay-phut-nguoi-bieu-tinh-iran-ngoi-giua-duong-chan-doan-xe-canh-sat-5000333.html) - 01:31 31/12/2025
-- 🌁 [Ông Zelensky bàn với ông Trump &#39;về khả năng triển khai lính Mỹ tới Ukraine&#39;](https://vnexpress.net/ong-zelensky-ban-voi-ong-trump-ve-kha-nang-trien-khai-linh-my-toi-ukraine-5000329.html) - 00:07 31/12/2025
-- 🌊 [Thắng lợi của ông Zelensky khi hội đàm với ông Trump](https://vnexpress.net/thang-loi-cua-ong-zelensky-khi-hoi-dam-voi-ong-trump-4999770.html) - 22:00 30/12/2025
-- 🕴 [Pháo hoa đêm giao thừa thổi bùng tranh cãi ở Đức](https://vnexpress.net/phao-hoa-dem-giao-thua-thoi-bung-tranh-cai-o-duc-4999777.html) - 17:00 30/12/2025
-- 🎓 [Thái Lan hoãn thả tù binh Campuchia sau cáo buộc drone xâm nhập](https://vnexpress.net/thai-lan-hoan-tha-tu-binh-campuchia-sau-cao-buoc-drone-xam-nhap-5000309.html) - 16:39 30/12/2025
-- 🦩 [Đại sứ Knapper điểm lại quan hệ Việt - Mỹ năm 2025 bằng tiếng Việt](https://vnexpress.net/dai-su-knapper-diem-lai-quan-he-viet-my-nam-2025-bang-tieng-viet-5000266.html) - 15:27 30/12/2025
-- 🌏 [UAV nhựa xốp Nga bay hơn 230 km, tập kích trực thăng Ukraine](https://vnexpress.net/uav-nhua-xop-nga-bay-hon-230-km-tap-kich-truc-thang-ukraine-5000123.html) - 14:48 30/12/2025
-- 🌋 [Nga, Ukraine đấu khẩu về cáo buộc dinh thự ông Putin bị tập kích](https://vnexpress.net/nga-ukraine-dau-khau-ve-cao-buoc-dinh-thu-ong-putin-bi-tap-kich-5000257.html) - 12:53 30/12/2025
-- 🪜 [Arab Saudi không kích cảng ở Yemen, cảnh báo UAE](https://vnexpress.net/arab-saudi-khong-kich-cang-o-yemen-canh-bao-uae-5000246.html) - 11:50 30/12/2025
-- 🕴 [Tên lửa siêu vượt âm Oreshnik lần đầu lộ diện](https://vnexpress.net/ten-lua-sieu-vuot-am-oreshnik-lan-dau-lo-dien-5000191.html) - 09:50 30/12/2025
-- 🧑‍🏫 [Khoảnh khắc Trung Quốc phóng loạt rocket khi tập trận gần Đài Loan](https://vnexpress.net/khoanh-khac-trung-quoc-phong-loat-rocket-khi-tap-tran-gan-dai-loan-5000179.html) - 09:23 30/12/2025
-- 🌮 [Thủ tướng Nhật chuyển vào dinh thự bị đồn &#39;ma ám&#39;](https://vnexpress.net/thu-tuong-nhat-chuyen-vao-dinh-thu-bi-don-ma-am-5000133.html) - 08:26 30/12/2025
-- 🚦 [Thủ tướng Campuchia nêu lý do đồng ý ngừng bắn với Thái Lan](https://vnexpress.net/thu-tuong-campuchia-neu-ly-do-dong-y-ngung-ban-voi-thai-lan-4999854.html) - 08:11 30/12/2025
-- 💫 [Triều Tiên khoe pháo phản lực có thể mang đầu đạn hạt nhân](https://vnexpress.net/trieu-tien-khoe-phao-phan-luc-co-the-mang-dau-dan-hat-nhan-5000030.html) - 07:59 30/12/2025
-- 🤡 [Hoài nghi về tuyên bố &#39;Ukraine tập kích dinh thự ông Putin&#39;](https://vnexpress.net/hoai-nghi-ve-tuyen-bo-ukraine-tap-kich-dinh-thu-ong-putin-4999786.html) - 07:30 30/12/2025
-- 🦣 [CIA có thể đã tung đòn tập kích đầu tiên vào đất liền Venezuela](https://vnexpress.net/cia-co-the-da-tung-don-tap-kich-dau-tien-vao-dat-lien-venezuela-4999898.html) - 05:02 30/12/2025
-- 🎬 [Quân đội Trung Quốc đăng video cảnh tượng thành phố Đài Bắc](https://vnexpress.net/quan-doi-trung-quoc-dang-video-canh-tuong-thanh-pho-dai-bac-4999794.html) - 04:43 30/12/2025
-- 🎉 [Xe tăng bốc khói mù mịt giữa đường phố Đài Loan](https://vnexpress.net/xe-tang-boc-khoi-mu-mit-giua-duong-pho-dai-loan-4999831.html) - 04:39 30/12/2025
-- 🎡 [Những công việc nguy hiểm nhất ở Mỹ](https://vnexpress.net/nhung-cong-viec-nguy-hiem-nhat-o-my-4999873.html) - 04:29 30/12/2025
-- 🌜 [Xu hướng tiệc sáng không cồn ở Hàn Quốc](https://vnexpress.net/xu-huong-tiec-sang-khong-con-o-han-quoc-4999596.html) - 04:19 30/12/2025
-- 🎡 [Cách Mỹ định hình chiến lược gây sức ép với Venezuela](https://vnexpress.net/cach-my-dinh-hinh-chien-luoc-gay-suc-ep-voi-venezuela-4999331.html) - 04:08 30/12/2025
-- 🤗 [UAV Mỹ mang tên lửa nhiều chưa từng thấy khi triển khai gần Venezuela](https://vnexpress.net/uav-my-mang-ten-lua-nhieu-chua-tung-thay-khi-trien-khai-gan-venezuela-4999865.html) - 03:38 30/12/2025
-- 🦩 [Mỹ ký hợp đồng bán loạt F-15 trị giá gần 9 tỷ USD cho Israel](https://vnexpress.net/my-ky-hop-dong-ban-loat-f-15-tri-gia-gan-9-ty-usd-cho-israel-4999834.html) - 03:02 30/12/2025
-- 🎓 [Thành phố Dallas &#39;rỗng ruột&#39;](https://vnexpress.net/thanh-pho-dallas-rong-ruot-4999644.html) - 02:47 30/12/2025
-- 🌁 [Xe tăng chủ lực tối tân Hàn Quốc được lắp giáp lồng](https://vnexpress.net/xe-tang-chu-luc-toi-tan-han-quoc-duoc-lap-giap-long-4999788.html) - 02:29 30/12/2025
-- 🤩 [Ông Trump &#39;không lo lắng&#39; vì Trung Quốc diễn tập quanh Đài Loan](https://vnexpress.net/ong-trump-khong-lo-lang-vi-trung-quoc-dien-tap-quanh-dai-loan-4999774.html) - 01:46 30/12/2025
-- 👹 [Mỹ tập kích mục tiêu đầu tiên trên đất liền Venezuela](https://vnexpress.net/my-tap-kich-muc-tieu-dau-tien-tren-dat-lien-venezuela-4999766.html) - 00:55 30/12/2025
-- ⛽️ [Tổng thống Israel bác tin cùng ông Trump bàn về việc ân xá cho Thủ tướng Netanyahu](https://vnexpress.net/tong-thong-israel-bac-tin-cung-ong-trump-ban-ve-viec-an-xa-cho-thu-tuong-netanyahu-4999758.html) - 00:18 30/12/2025
-- 🚀 [Ông Trump dọa tấn công Iran, khiến Hamas phải trả giá đắt](https://vnexpress.net/ong-trump-doa-tan-cong-iran-khien-hamas-phai-tra-gia-dat-4999757.html) - 00:08 30/12/2025
-- 🎡 [Thảm kịch khi người thân phản bội, chỉ điểm nhau ở Syria](https://vnexpress.net/tham-kich-khi-nguoi-than-phan-boi-chi-diem-nhau-o-syria-4999570.html) - 22:00 29/12/2025
-- 🕯 [Kho đất hiếm bị bỏ quên giúp Mỹ duy trì nền công nghiệp quốc phòng](https://vnexpress.net/kho-dat-hiem-bi-bo-quen-giup-my-duy-tri-nen-cong-nghiep-quoc-phong-4998460.html) - 18:00 29/12/2025
-- 🐻 [Cuộc sống đảo lộn ở Mỹ sau gần một năm ông Trump siết nhập cư](https://vnexpress.net/cuoc-song-dao-lon-o-my-sau-gan-mot-nam-ong-trump-siet-nhap-cu-4999329.html) - 17:00 29/12/2025
-- 🚦 [Nga cáo buộc Ukraine tập kích dinh thự của ông Putin, Kiev bác bỏ](https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-dinh-thu-cua-ong-putin-kiev-bac-bo-4999741.html) - 16:57 29/12/2025
-- 👍 [Thủ tướng nêu ba bài học với ngành ngoại giao Việt Nam](https://vnexpress.net/thu-tuong-neu-ba-bai-hoc-voi-nganh-ngoai-giao-viet-nam-4999738.html) - 16:47 29/12/2025
-- 🚀 [Nga: Ukraine nên rút quân khỏi Donbass nếu muốn hòa bình](https://vnexpress.net/nga-ukraine-nen-rut-quan-khoi-donbass-neu-muon-hoa-binh-4999726.html) - 16:06 29/12/2025
-- 🌮 [Cảnh sát Thổ Nhĩ Kỳ đấu súng hơn 7 giờ với phiến quân IS](https://vnexpress.net/canh-sat-tho-nhi-ky-dau-sung-hon-7-gio-voi-phien-quan-is-4999709.html) - 13:33 29/12/2025
-- 😎 [Ngoại trưởng Trung Quốc gặp người đồng cấp Campuchia, Thái Lan](https://vnexpress.net/ngoai-truong-trung-quoc-gap-nguoi-dong-cap-campuchia-thai-lan-4999702.html) - 12:26 29/12/2025
-- 🐲 [Bên trong thủ đô mới không tắc đường, không khói bụi của Indonesia](https://vnexpress.net/ben-trong-thu-do-moi-khong-tac-duong-khong-khoi-bui-cua-indonesia-4999330.html) - 12:00 29/12/2025
-- 💫 [Ukraine muốn được Mỹ đảm bảo an ninh trong nửa thế kỷ](https://vnexpress.net/ukraine-muon-duoc-my-dam-bao-an-ninh-trong-nua-the-ky-4999614.html) - 11:33 29/12/2025
-- 👀 [Dân làng Nigeria bối rối khi bị Mỹ không kích](https://vnexpress.net/dan-lang-nigeria-boi-roi-khi-bi-my-khong-kich-4999552.html) - 10:13 29/12/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Giây phút người biểu tình Iran ngồi giữa đường chặn đoàn xe cảnh sát](https://vnexpress.net/giay-phut-nguoi-bieu-tinh-iran-ngoi-giua-duong-chan-doan-xe-canh-sat-5000333.html) - 01:31 31/12/2025
+- 🌊 [Ông Zelensky bàn với ông Trump &#39;về khả năng triển khai lính Mỹ tới Ukraine&#39;](https://vnexpress.net/ong-zelensky-ban-voi-ong-trump-ve-kha-nang-trien-khai-linh-my-toi-ukraine-5000329.html) - 00:07 31/12/2025
+- 🕴 [Thắng lợi của ông Zelensky khi hội đàm với ông Trump](https://vnexpress.net/thang-loi-cua-ong-zelensky-khi-hoi-dam-voi-ong-trump-4999770.html) - 22:00 30/12/2025
+- 🎓 [Pháo hoa đêm giao thừa thổi bùng tranh cãi ở Đức](https://vnexpress.net/phao-hoa-dem-giao-thua-thoi-bung-tranh-cai-o-duc-4999777.html) - 17:00 30/12/2025
+- 🦩 [Thái Lan hoãn thả tù binh Campuchia sau cáo buộc drone xâm nhập](https://vnexpress.net/thai-lan-hoan-tha-tu-binh-campuchia-sau-cao-buoc-drone-xam-nhap-5000309.html) - 16:39 30/12/2025
+- 🌏 [Đại sứ Knapper điểm lại quan hệ Việt - Mỹ năm 2025 bằng tiếng Việt](https://vnexpress.net/dai-su-knapper-diem-lai-quan-he-viet-my-nam-2025-bang-tieng-viet-5000266.html) - 15:27 30/12/2025
+- 🌋 [UAV nhựa xốp Nga bay hơn 230 km, tập kích trực thăng Ukraine](https://vnexpress.net/uav-nhua-xop-nga-bay-hon-230-km-tap-kich-truc-thang-ukraine-5000123.html) - 14:48 30/12/2025
+- 🪜 [Nga, Ukraine đấu khẩu về cáo buộc dinh thự ông Putin bị tập kích](https://vnexpress.net/nga-ukraine-dau-khau-ve-cao-buoc-dinh-thu-ong-putin-bi-tap-kich-5000257.html) - 12:53 30/12/2025
+- 🕴 [Arab Saudi không kích cảng ở Yemen, cảnh báo UAE](https://vnexpress.net/arab-saudi-khong-kich-cang-o-yemen-canh-bao-uae-5000246.html) - 11:50 30/12/2025
+- 🧑‍🏫 [Tên lửa siêu vượt âm Oreshnik lần đầu lộ diện](https://vnexpress.net/ten-lua-sieu-vuot-am-oreshnik-lan-dau-lo-dien-5000191.html) - 09:50 30/12/2025
+- 🌮 [Khoảnh khắc Trung Quốc phóng loạt rocket khi tập trận gần Đài Loan](https://vnexpress.net/khoanh-khac-trung-quoc-phong-loat-rocket-khi-tap-tran-gan-dai-loan-5000179.html) - 09:23 30/12/2025
+- 🚦 [Thủ tướng Nhật chuyển vào dinh thự bị đồn &#39;ma ám&#39;](https://vnexpress.net/thu-tuong-nhat-chuyen-vao-dinh-thu-bi-don-ma-am-5000133.html) - 08:26 30/12/2025
+- 💫 [Thủ tướng Campuchia nêu lý do đồng ý ngừng bắn với Thái Lan](https://vnexpress.net/thu-tuong-campuchia-neu-ly-do-dong-y-ngung-ban-voi-thai-lan-4999854.html) - 08:11 30/12/2025
+- 🤡 [Triều Tiên khoe pháo phản lực có thể mang đầu đạn hạt nhân](https://vnexpress.net/trieu-tien-khoe-phao-phan-luc-co-the-mang-dau-dan-hat-nhan-5000030.html) - 07:59 30/12/2025
+- 🦣 [Hoài nghi về tuyên bố &#39;Ukraine tập kích dinh thự ông Putin&#39;](https://vnexpress.net/hoai-nghi-ve-tuyen-bo-ukraine-tap-kich-dinh-thu-ong-putin-4999786.html) - 07:30 30/12/2025
+- 🎬 [CIA có thể đã tung đòn tập kích đầu tiên vào đất liền Venezuela](https://vnexpress.net/cia-co-the-da-tung-don-tap-kich-dau-tien-vao-dat-lien-venezuela-4999898.html) - 05:02 30/12/2025
+- 🎉 [Quân đội Trung Quốc đăng video cảnh tượng thành phố Đài Bắc](https://vnexpress.net/quan-doi-trung-quoc-dang-video-canh-tuong-thanh-pho-dai-bac-4999794.html) - 04:43 30/12/2025
+- 🎡 [Xe tăng bốc khói mù mịt giữa đường phố Đài Loan](https://vnexpress.net/xe-tang-boc-khoi-mu-mit-giua-duong-pho-dai-loan-4999831.html) - 04:39 30/12/2025
+- 🌜 [Những công việc nguy hiểm nhất ở Mỹ](https://vnexpress.net/nhung-cong-viec-nguy-hiem-nhat-o-my-4999873.html) - 04:29 30/12/2025
+- 🎡 [Xu hướng tiệc sáng không cồn ở Hàn Quốc](https://vnexpress.net/xu-huong-tiec-sang-khong-con-o-han-quoc-4999596.html) - 04:19 30/12/2025
+- 🤗 [Cách Mỹ định hình chiến lược gây sức ép với Venezuela](https://vnexpress.net/cach-my-dinh-hinh-chien-luoc-gay-suc-ep-voi-venezuela-4999331.html) - 04:08 30/12/2025
+- 🦩 [UAV Mỹ mang tên lửa nhiều chưa từng thấy khi triển khai gần Venezuela](https://vnexpress.net/uav-my-mang-ten-lua-nhieu-chua-tung-thay-khi-trien-khai-gan-venezuela-4999865.html) - 03:38 30/12/2025
+- 🎓 [Mỹ ký hợp đồng bán loạt F-15 trị giá gần 9 tỷ USD cho Israel](https://vnexpress.net/my-ky-hop-dong-ban-loat-f-15-tri-gia-gan-9-ty-usd-cho-israel-4999834.html) - 03:02 30/12/2025
+- 🌁 [Thành phố Dallas &#39;rỗng ruột&#39;](https://vnexpress.net/thanh-pho-dallas-rong-ruot-4999644.html) - 02:47 30/12/2025
+- 🤩 [Xe tăng chủ lực tối tân Hàn Quốc được lắp giáp lồng](https://vnexpress.net/xe-tang-chu-luc-toi-tan-han-quoc-duoc-lap-giap-long-4999788.html) - 02:29 30/12/2025
+- 👹 [Ông Trump &#39;không lo lắng&#39; vì Trung Quốc diễn tập quanh Đài Loan](https://vnexpress.net/ong-trump-khong-lo-lang-vi-trung-quoc-dien-tap-quanh-dai-loan-4999774.html) - 01:46 30/12/2025
+- ⛽️ [Mỹ tập kích mục tiêu đầu tiên trên đất liền Venezuela](https://vnexpress.net/my-tap-kich-muc-tieu-dau-tien-tren-dat-lien-venezuela-4999766.html) - 00:55 30/12/2025
+- 🚀 [Tổng thống Israel bác tin cùng ông Trump bàn về việc ân xá cho Thủ tướng Netanyahu](https://vnexpress.net/tong-thong-israel-bac-tin-cung-ong-trump-ban-ve-viec-an-xa-cho-thu-tuong-netanyahu-4999758.html) - 00:18 30/12/2025
+- 🎡 [Ông Trump dọa tấn công Iran, khiến Hamas phải trả giá đắt](https://vnexpress.net/ong-trump-doa-tan-cong-iran-khien-hamas-phai-tra-gia-dat-4999757.html) - 00:08 30/12/2025
+- 🕯 [Thảm kịch khi người thân phản bội, chỉ điểm nhau ở Syria](https://vnexpress.net/tham-kich-khi-nguoi-than-phan-boi-chi-diem-nhau-o-syria-4999570.html) - 22:00 29/12/2025
+- 🐻 [Kho đất hiếm bị bỏ quên giúp Mỹ duy trì nền công nghiệp quốc phòng](https://vnexpress.net/kho-dat-hiem-bi-bo-quen-giup-my-duy-tri-nen-cong-nghiep-quoc-phong-4998460.html) - 18:00 29/12/2025
+- 🚦 [Cuộc sống đảo lộn ở Mỹ sau gần một năm ông Trump siết nhập cư](https://vnexpress.net/cuoc-song-dao-lon-o-my-sau-gan-mot-nam-ong-trump-siet-nhap-cu-4999329.html) - 17:00 29/12/2025
+- 👍 [Nga cáo buộc Ukraine tập kích dinh thự của ông Putin, Kiev bác bỏ](https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-dinh-thu-cua-ong-putin-kiev-bac-bo-4999741.html) - 16:57 29/12/2025
+- 🚀 [Thủ tướng nêu ba bài học với ngành ngoại giao Việt Nam](https://vnexpress.net/thu-tuong-neu-ba-bai-hoc-voi-nganh-ngoai-giao-viet-nam-4999738.html) - 16:47 29/12/2025
+- 🌮 [Nga: Ukraine nên rút quân khỏi Donbass nếu muốn hòa bình](https://vnexpress.net/nga-ukraine-nen-rut-quan-khoi-donbass-neu-muon-hoa-binh-4999726.html) - 16:06 29/12/2025
+- 😎 [Cảnh sát Thổ Nhĩ Kỳ đấu súng hơn 7 giờ với phiến quân IS](https://vnexpress.net/canh-sat-tho-nhi-ky-dau-sung-hon-7-gio-voi-phien-quan-is-4999709.html) - 13:33 29/12/2025
+- 🐲 [Ngoại trưởng Trung Quốc gặp người đồng cấp Campuchia, Thái Lan](https://vnexpress.net/ngoai-truong-trung-quoc-gap-nguoi-dong-cap-campuchia-thai-lan-4999702.html) - 12:26 29/12/2025
+- 💫 [Bên trong thủ đô mới không tắc đường, không khói bụi của Indonesia](https://vnexpress.net/ben-trong-thu-do-moi-khong-tac-duong-khong-khoi-bui-cua-indonesia-4999330.html) - 12:00 29/12/2025
+- 👀 [Ukraine muốn được Mỹ đảm bảo an ninh trong nửa thế kỷ](https://vnexpress.net/ukraine-muon-duoc-my-dam-bao-an-ninh-trong-nua-the-ky-4999614.html) - 11:33 29/12/2025<!-- vnexpress-the-gioi:END -->
