@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Gay cấn cuộc đua AI](https://nld.com.vn/gay-can-cuoc-dua-ai-196251231210039529.htm) - 18:02 31/12/2025
 - 😺 [Kỳ vọng thoát lũ cho khu vực Tây Nha Trang](https://nld.com.vn/ky-vong-thoat-lu-cho-khu-vuc-tay-nha-trang-196251231194517755.htm) - 17:48 31/12/2025
-- 👍 [Biển người dân hân hoan đón khoảnh khắc giao thừa](https://nld.com.vn/bien-nguoi-dan-han-hoan-don-khoanh-khac-giao-thua-196260101001852223.htm) - 17:37 31/12/2025
+- 👍 [Biển người hân hoan đón khoảnh khắc giao thừa](https://nld.com.vn/bien-nguoi-dan-han-hoan-don-khoanh-khac-giao-thua-196260101001852223.htm) - 17:37 31/12/2025
 - 🥷 [Báo in ngày 1-1: Tàu, xe tăng chuyến phục vụ khách](https://nld.com.vn/bao-in-ngay-1-1-tau-xe-tang-chuyen-phuc-vu-khach-196251231232929639.htm) - 17:00 31/12/2025
 - 🤔 [TP HCM chào năm mới cùng Mỹ Tâm, Đức Phúc...](https://nld.com.vn/tp-hcm-chao-nam-moi-cung-my-tam-duc-phuc-196251231234528218.htm) - 16:50 31/12/2025
 - 🌈 [Thông điệp của chủ tịch Trung Quốc và tổng thống Nga cho năm 2026](https://nld.com.vn/thong-diep-cua-chu-tich-trung-quoc-va-tong-thong-nga-cho-nam-2026-196251231231822936.htm) - 16:35 31/12/2025
