@@ -411,8 +411,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tổ chức Tết Nguyên đán Bính Ngọ năm 2026 vui tươi, lành mạnh, an toàn, tiết kiệm](https://baochinhphu.vn/to-chuc-tet-nguyen-dan-binh-ngo-nam-2026-vui-tuoi-lanh-manh-an-toan-tiet-kiem-102251231235629712.htm) - 00:10 01/01/2026
-- 🌜 [CẬP NHẬT: Những quốc gia đầu tiên đón năm mới 2026](https://baochinhphu.vn/the-gioi-dem-nguoc-san-sang-cho-thoi-khac-nam-moi-2026-102251231151038627.htm) - 23:33 31/12/2025
+- 💻 [CẬP NHẬT: Thế giới bước sang năm mới 2026](https://baochinhphu.vn/the-gioi-dem-nguoc-san-sang-cho-thoi-khac-nam-moi-2026-102251231151038627.htm) - 00:15 01/01/2026
+- 🌜 [Tổ chức Tết Nguyên đán Bính Ngọ năm 2026 vui tươi, lành mạnh, an toàn, tiết kiệm](https://baochinhphu.vn/to-chuc-tet-nguyen-dan-binh-ngo-nam-2026-vui-tuoi-lanh-manh-an-toan-tiet-kiem-102251231235629712.htm) - 00:10 01/01/2026
 - 🦆 [Tăng cường tiêm chủng vaccine và các biện pháp phòng, chống bệnh bại liệt](https://baochinhphu.vn/tang-cuong-tiem-chung-vaccine-va-cac-bien-phap-phong-chong-benh-bai-liet-102251231230216476.htm) - 23:14 31/12/2025
 - 🌝 [Tuyên phạt bị cáo Lê Trung Khoa và đồng phạm](https://baochinhphu.vn/tuyen-phat-bi-cao-le-trung-khoa-va-dong-pham-102251231215619808.htm) - 21:58 31/12/2025
 - 🦣 [Kinh tế tư nhân trong triển khai Nghị quyết 68: Nhìn từ hoạt động của tập đoàn tư nhân hàng đầu](https://baochinhphu.vn/kinh-te-tu-nhan-trong-trien-khai-nghi-quyet-68-nhin-tu-hoat-dong-cua-tap-doan-tu-nhan-hang-dau-102251231212624092.htm) - 21:26 31/12/2025
