@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [2025 - năm của concert quốc gia](https://vnexpress.net/2025-nam-cua-concert-quoc-gia-5000398.html) - 12:00 31/12/2025
-- 💫 [Đạo diễn Quang Dũng làm &#39;Đất rừng phương Nam&#39; phần 2](https://vnexpress.net/dao-dien-quang-dung-lam-dat-rung-phuong-nam-phan-2-5000497.html) - 10:11 31/12/2025
-- 🌮 [Thái Y Lâm gây sốt khi diễn trên mô hình đầu rắn](https://vnexpress.net/thai-y-lam-gay-sot-khi-dien-tren-mo-hinh-dau-ran-5000616.html) - 09:00 31/12/2025
-- 🧠 [5 váy dạ hội nổi bật tại cuộc thi hoa hậu quốc tế 2025](https://vnexpress.net/5-vay-da-hoi-noi-bat-tai-cuoc-thi-hoa-hau-quoc-te-2025-5000519.html) - 08:36 31/12/2025
-- 👨‍🏫 [Những cuốn sách bán chạy trong năm](https://vnexpress.net/nhung-cuon-sach-ban-chay-trong-nam-4996683.html) - 07:11 31/12/2025
-- ⚗️ [Thanh Thủy tôn sắc vóc với đầm hoa văn cung đình](https://vnexpress.net/thanh-thuy-ton-sac-voc-voi-dam-hoa-van-cung-dinh-5000427.html) - 05:00 31/12/2025
-- 😎 [Hàn Quốc ban hành luật mới sau cái chết của Goo Hara](https://vnexpress.net/han-quoc-ban-hanh-luat-moi-sau-cai-chet-cua-goo-hara-5000521.html) - 04:59 31/12/2025
-- 🫣 [Hồ Trung Dũng: &#39;Tôi vượt qua tổn thương&#39;](https://vnexpress.net/ho-trung-dung-toi-vuot-qua-ton-thuong-5000376.html) - 04:17 31/12/2025
-- 🪄 [Tài tử 75 tuổi khóc khi chia tay bạn gái](https://vnexpress.net/tai-tu-75-tuoi-khoc-khi-chia-tay-ban-gai-5000456.html) - 03:52 31/12/2025
-- 🤓 [Diễn viên Ahn Sung Ki nguy kịch](https://vnexpress.net/dien-vien-ahn-sung-ki-nguy-kich-5000394.html) - 02:33 31/12/2025
-- 🫶 [&#39;The Stringer&#39; - phía sau bức ảnh Em bé Napalm](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-stringer-the-man-who-took-the-photo-866) - 17:00 30/12/2025
-- 🧑‍🏫 [Những bộ cánh &#39;mặc như không&#39; năm 2025](https://vnexpress.net/nhung-bo-canh-mac-nhu-khong-nam-2025-4999876.html) - 14:30 30/12/2025
-- 🦄 [Hậu trường diễn viên 76 tuổi đóng thiếu nữ trong &#39;Avatar 3&#39;](https://vnexpress.net/hau-truong-dien-vien-76-tuoi-dong-thieu-nu-trong-avatar-3-4999947.html) - 13:00 30/12/2025
-- 💫 [Cẩm nang thiền để tìm tự do của Osho](https://vnexpress.net/cam-nang-thien-de-tim-tu-do-cua-osho-4999501.html) - 12:00 30/12/2025
-- 🎊 [Soạn giả Lê Duy Hạnh được vinh danh giải Đào Tấn](https://vnexpress.net/soan-gia-le-duy-hanh-duoc-vinh-danh-giai-dao-tan-5000201.html) - 11:00 30/12/2025
-- 👹 [Thái Sơn biến hóa với các vai hài](https://vnexpress.net/thai-son-bien-hoa-voi-cac-vai-hai-4998109.html) - 11:00 30/12/2025
-- 💻 [Triển lãm thời trang &#39;Miệt cù lao&#39; nhận bằng kỷ lục Việt Nam](https://vnexpress.net/trien-lam-thoi-trang-miet-cu-lao-nhan-bang-ky-luc-viet-nam-4999884.html) - 08:44 30/12/2025
-- 🤡 [Dung mạo ngôi sao &#39;Đẹp trai nhất thế giới&#39; 2025](https://vnexpress.net/dung-mao-ngoi-sao-dep-trai-nhat-the-gioi-2025-4999919.html) - 08:36 30/12/2025
-- 🥰 [Tài tử 75 tuổi hoang mang trước tin &#39;bạn gái bí mật lấy chồng khác&#39;](https://vnexpress.net/tai-tu-75-tuoi-hoang-mang-truoc-tin-ban-gai-bi-mat-lay-chong-khac-5000102.html) - 08:26 30/12/2025
-- 🚀 [Những tranh chấp khiến concert &#39;Về đây bốn cánh chim trời&#39; hủy phút chót](https://vnexpress.net/nhung-tranh-chap-khien-concert-ve-day-bon-canh-chim-troi-huy-phut-chot-4999797.html) - 07:44 30/12/2025
-- 📝 [Vợ chồng tài tử George Clooney nhập quốc tịch Pháp](https://vnexpress.net/vo-chong-tai-tu-george-clooney-nhap-quoc-tich-phap-4999869.html) - 05:16 30/12/2025
-- 🐲 [Thử phân biệt tranh và ảnh chụp](https://vnexpress.net/thu-phan-biet-tranh-va-anh-chup-4999645.html) - 02:30 30/12/2025
-- 🎃 [Khảo cứu &#39;Ả đào&#39; được vinh danh](https://vnexpress.net/khao-cuu-a-dao-duoc-vinh-danh-4999683.html) - 02:29 30/12/2025
-- 🤠 [Lâm Tuấn Kiệt hẹn hò](https://vnexpress.net/lam-tuan-kiet-hen-ho-4999791.html) - 02:09 30/12/2025
-- 🎭 [Phong cách vượt thời gian của minh tinh Brigitte Bardot](https://vnexpress.net/phong-cach-vuot-thoi-gian-cua-minh-tinh-brigitte-bardot-4999488.html) - 22:00 29/12/2025
-- 🧰 [Trấn Thành, Trường Giang đi xem phim của Thu Trang](https://vnexpress.net/tran-thanh-truong-giang-di-xem-phim-cua-thu-trang-4999730.html) - 16:11 29/12/2025
-- 🦍 [Beyoncé trở thành tỷ phú](https://vnexpress.net/beyonce-tro-thanh-ty-phu-4999727.html) - 16:04 29/12/2025
-- 🌝 [Hòa Minzy dẫn đầu đề cử Làn Sóng Xanh 2025](https://vnexpress.net/hoa-minzy-dan-dau-de-cu-lan-song-xanh-2025-4999703.html) - 15:11 29/12/2025
-- 🧑‍💻 [Lý do phim Việt chưa vào danh sách rút gọn Oscar](https://vnexpress.net/ly-do-phim-viet-chua-vao-danh-sach-rut-gon-oscar-4996631.html) - 13:07 29/12/2025
-- 🥸 [Ra mắt ấn bản &#39;Kim Vân Kiều&#39; sau hơn 100 năm](https://vnexpress.net/ra-mat-an-ban-kim-van-kieu-sau-hon-100-nam-4999613.html) - 12:46 29/12/2025
-- 🔥 [BTC &#39;Về đây bốn cánh chim trời&#39; bị tuýt còi vì tự ý hủy show](https://vnexpress.net/btc-ve-day-bon-canh-chim-troi-bi-tuyt-coi-vi-tu-y-huy-show-4999490.html) - 10:15 29/12/2025
-- 🐎 [Cuộc đời tự do của huyền thoại Brigitte Bardot](https://vnexpress.net/cuoc-doi-tu-do-cua-huyen-thoai-brigitte-bardot-4999337.html) - 08:11 29/12/2025
-- 😎 [Cuộc sống của Baggio, Quỳnh Trâm ở Mỹ](https://vnexpress.net/cuoc-song-cua-baggio-quynh-tram-o-my-4999210.html) - 05:25 29/12/2025
-- 🦄 [Hồ Quỳnh Hương ra MV tặng sinh nhật con trai](https://vnexpress.net/ho-quynh-huong-ra-mv-tang-sinh-nhat-con-trai-4999361.html) - 04:17 29/12/2025
-- 🌜 [Rosé thắng danh hiệu &#39;Gương mặt nữ đẹp nhất thế giới&#39; 2025](https://vnexpress.net/rose-thang-danh-hieu-guong-mat-nu-dep-nhat-the-gioi-2025-4999359.html) - 03:47 29/12/2025
-- 🚦 [Nghệ sĩ Đặng Thái Sơn: &#39;Tôi miễn dịch với mọi lời khen chê&#39;](https://vnexpress.net/nghe-si-dang-thai-son-toi-mien-dich-voi-moi-loi-khen-che-4998017.html) - 17:00 28/12/2025
-- 🧐 [Brigitte Bardot - biểu tượng quyến rũ màn bạc](https://vnexpress.net/brigitte-bardot-bieu-tuong-quyen-ru-man-bac-4999289.html) - 14:54 28/12/2025
-- 🐵 [Biểu tượng điện ảnh Pháp Brigitte Bardot qua đời](https://vnexpress.net/bieu-tuong-dien-anh-phap-brigitte-bardot-qua-doi-4999277.html) - 13:32 28/12/2025
-- ⚗️ [Thử phân biệt váy dự tiệc đắt tiền và bình dân](https://vnexpress.net/thu-phan-biet-vay-du-tiec-dat-tien-va-binh-dan-4997383.html) - 12:00 28/12/2025
-- 👺 [Đỗ Thị Hà ngưng kinh doanh để vun vén hôn nhân](https://vnexpress.net/do-thi-ha-ngung-kinh-doanh-de-vun-ven-hon-nhan-4999257.html) - 11:48 28/12/2025
-- 🌊 [Chương Tử Di viết thư cho con gái](https://vnexpress.net/chuong-tu-di-viet-thu-cho-con-gai-4999229.html) - 11:00 28/12/2025
-- 🪜 [Tranh Đông Hồ được tái hiện bằng xiếc](https://vnexpress.net/tranh-dong-ho-duoc-tai-hien-bang-xiec-4999230.html) - 10:08 28/12/2025
-- 🕴 [Vẻ thanh lịch của Hoa hậu Thế giới Trương Tử Lâm](https://vnexpress.net/ve-thanh-lich-cua-hoa-hau-the-gioi-truong-tu-lam-4998738.html) - 08:06 28/12/2025
-- 💃 [Khán giả lao lên sân khấu bức xúc vì show hoãn phút chót](https://vnexpress.net/khan-gia-lao-len-san-khau-buc-xuc-vi-show-hoan-phut-chot-4999078.html) - 06:31 28/12/2025
-- 🦄 [&#39;Lý Mạc Sầu đẹp nhất màn ảnh&#39; bình yên sau sóng gió](https://vnexpress.net/ly-mac-sau-dep-nhat-man-anh-binh-yen-sau-song-gio-4999148.html) - 05:00 28/12/2025
-- ⛽️ [Hồi ký &#39;vua vũ khí&#39; Trần Đại Nghĩa &lpar;kỳ cuối&rpar;: Chế thuốc pháo từ phân dơi](https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-cuoi-che-thuoc-phao-tu-phan-doi-4999030.html) - 04:00 28/12/2025
-- 😎 [Phương Mỹ Chi phiêu nốt cao trước hàng nghìn khán giả](https://vnexpress.net/phuong-my-chi-phieu-not-cao-truoc-hang-nghin-khan-gia-4999140.html) - 03:25 28/12/2025
-- 🌊 [Hoa hậu Brazil được cầu hôn ở Vịnh Hạ Long](https://vnexpress.net/hoa-hau-brazil-duoc-cau-hon-o-vinh-ha-long-4999139.html) - 03:16 28/12/2025
-- 🐲 [Thanh Duy giả gái hát cùng Như Quỳnh](https://vnexpress.net/thanh-duy-gia-gai-hat-cung-nhu-quynh-4999136.html) - 02:41 28/12/2025
-- 💂 [30 &#39;Anh trai say hi&#39; mùa hai diễn bùng nổ ở concert](https://vnexpress.net/30-anh-trai-say-hi-mua-hai-dien-bung-no-o-concert-4999124.html) - 01:53 28/12/2025
-- 🙉 [Brooklyn Beckham nghỉ lễ cùng nhà vợ](https://vnexpress.net/brooklyn-beckham-nghi-le-cung-nha-vo-4999134.html) - 01:20 28/12/2025
-- 💪 [&#39;Taxi Driver 3&#39; - hành động vì công lý](https://vnexpress.net/giai-tri/phim/thu-vien-phim/taxi-driver-3-865) - 01:00 28/12/2025
-- 👍 [H&#39;Hen Niê: &#39;Làm bố mẹ tốt là điều không dễ&#39;](https://vnexpress.net/h-hen-nie-lam-bo-me-tot-la-dieu-khong-de-4997372.html) - 22:00 27/12/2025
-- 💪 [Rapper Negav khóc trước khán giả](https://vnexpress.net/rapper-negav-khoc-truoc-khan-gia-4999097.html) - 16:29 27/12/2025
-- 💄 [Fan trang điểm &#39;bling bling&#39; xem concert Anh trai say hi](https://vnexpress.net/fan-trang-diem-bling-bling-xem-concert-anh-trai-say-hi-4999062.html) - 12:13 27/12/2025
-- 🦩 [Sở thích nấu ăn của vợ chồng Hồ Quang Hiếu](https://vnexpress.net/so-thich-nau-an-cua-vo-chong-ho-quang-hieu-4997756.html) - 10:00 27/12/2025
-- 🥸 [Sam Worthington - diễn viên vô danh đổi đời nhờ &#39;Avatar&#39;](https://vnexpress.net/sam-worthington-dien-vien-vo-danh-doi-doi-nho-avatar-4998532.html) - 07:30 27/12/2025
-- 🧰 [Hồi ký &#39;vua vũ khí&#39; Trần Đại Nghĩa &lpar;kỳ 1&rpar;: Sản xuất đạn bazôca thời chiến](https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-1-san-xuat-dan-bazoca-thoi-chien-4998915.html) - 06:16 27/12/2025
-- 💼 [Váy áo tôn đường cong của &#39;Hoa khôi bắn súng&#39; Việt Nam](https://vnexpress.net/vay-ao-ton-duong-cong-cua-hoa-khoi-ban-sung-viet-nam-4998927.html) - 06:01 27/12/2025
+- 🌏 [8 show thời trang hay nhất thế giới năm 2025](https://vnexpress.net/8-show-thoi-trang-hay-nhat-the-gioi-nam-2025-5000520.html) - 13:30 31/12/2025
+- 💫 [2025 - năm của concert quốc gia](https://vnexpress.net/2025-nam-cua-concert-quoc-gia-5000398.html) - 12:00 31/12/2025
+- 🌮 [Đạo diễn Quang Dũng làm &#39;Đất rừng phương Nam&#39; phần 2](https://vnexpress.net/dao-dien-quang-dung-lam-dat-rung-phuong-nam-phan-2-5000497.html) - 10:11 31/12/2025
+- 🧠 [Thái Y Lâm gây sốt khi diễn trên mô hình đầu rắn](https://vnexpress.net/thai-y-lam-gay-sot-khi-dien-tren-mo-hinh-dau-ran-5000616.html) - 09:00 31/12/2025
+- 👨‍🏫 [5 váy dạ hội nổi bật tại cuộc thi hoa hậu quốc tế 2025](https://vnexpress.net/5-vay-da-hoi-noi-bat-tai-cuoc-thi-hoa-hau-quoc-te-2025-5000519.html) - 08:36 31/12/2025
+- ⚗️ [Những cuốn sách bán chạy trong năm](https://vnexpress.net/nhung-cuon-sach-ban-chay-trong-nam-4996683.html) - 07:11 31/12/2025
+- 😎 [Thanh Thủy tôn sắc vóc với đầm hoa văn cung đình](https://vnexpress.net/thanh-thuy-ton-sac-voc-voi-dam-hoa-van-cung-dinh-5000427.html) - 05:00 31/12/2025
+- 🫣 [Hàn Quốc ban hành luật mới sau cái chết của Goo Hara](https://vnexpress.net/han-quoc-ban-hanh-luat-moi-sau-cai-chet-cua-goo-hara-5000521.html) - 04:59 31/12/2025
+- 🪄 [Hồ Trung Dũng: &#39;Tôi vượt qua tổn thương&#39;](https://vnexpress.net/ho-trung-dung-toi-vuot-qua-ton-thuong-5000376.html) - 04:17 31/12/2025
+- 🤓 [Tài tử 75 tuổi khóc khi chia tay bạn gái](https://vnexpress.net/tai-tu-75-tuoi-khoc-khi-chia-tay-ban-gai-5000456.html) - 03:52 31/12/2025
+- 🫶 [Diễn viên Ahn Sung Ki nguy kịch](https://vnexpress.net/dien-vien-ahn-sung-ki-nguy-kich-5000394.html) - 02:33 31/12/2025
+- 🧑‍🏫 [&#39;The Stringer&#39; - phía sau bức ảnh Em bé Napalm](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-stringer-the-man-who-took-the-photo-866) - 17:00 30/12/2025
+- 🦄 [Những bộ cánh &#39;mặc như không&#39; năm 2025](https://vnexpress.net/nhung-bo-canh-mac-nhu-khong-nam-2025-4999876.html) - 14:30 30/12/2025
+- 💫 [Hậu trường diễn viên 76 tuổi đóng thiếu nữ trong &#39;Avatar 3&#39;](https://vnexpress.net/hau-truong-dien-vien-76-tuoi-dong-thieu-nu-trong-avatar-3-4999947.html) - 13:00 30/12/2025
+- 🎊 [Cẩm nang thiền để tìm tự do của Osho](https://vnexpress.net/cam-nang-thien-de-tim-tu-do-cua-osho-4999501.html) - 12:00 30/12/2025
+- 👹 [Soạn giả Lê Duy Hạnh được vinh danh giải Đào Tấn](https://vnexpress.net/soan-gia-le-duy-hanh-duoc-vinh-danh-giai-dao-tan-5000201.html) - 11:00 30/12/2025
+- 💻 [Thái Sơn biến hóa với các vai hài](https://vnexpress.net/thai-son-bien-hoa-voi-cac-vai-hai-4998109.html) - 11:00 30/12/2025
+- 🤡 [Triển lãm thời trang &#39;Miệt cù lao&#39; nhận bằng kỷ lục Việt Nam](https://vnexpress.net/trien-lam-thoi-trang-miet-cu-lao-nhan-bang-ky-luc-viet-nam-4999884.html) - 08:44 30/12/2025
+- 🥰 [Dung mạo ngôi sao &#39;Đẹp trai nhất thế giới&#39; 2025](https://vnexpress.net/dung-mao-ngoi-sao-dep-trai-nhat-the-gioi-2025-4999919.html) - 08:36 30/12/2025
+- 🚀 [Tài tử 75 tuổi hoang mang trước tin &#39;bạn gái bí mật lấy chồng khác&#39;](https://vnexpress.net/tai-tu-75-tuoi-hoang-mang-truoc-tin-ban-gai-bi-mat-lay-chong-khac-5000102.html) - 08:26 30/12/2025
+- 📝 [Những tranh chấp khiến concert &#39;Về đây bốn cánh chim trời&#39; hủy phút chót](https://vnexpress.net/nhung-tranh-chap-khien-concert-ve-day-bon-canh-chim-troi-huy-phut-chot-4999797.html) - 07:44 30/12/2025
+- 🐲 [Vợ chồng tài tử George Clooney nhập quốc tịch Pháp](https://vnexpress.net/vo-chong-tai-tu-george-clooney-nhap-quoc-tich-phap-4999869.html) - 05:16 30/12/2025
+- 🎃 [Thử phân biệt tranh và ảnh chụp](https://vnexpress.net/thu-phan-biet-tranh-va-anh-chup-4999645.html) - 02:30 30/12/2025
+- 🤠 [Khảo cứu &#39;Ả đào&#39; được vinh danh](https://vnexpress.net/khao-cuu-a-dao-duoc-vinh-danh-4999683.html) - 02:29 30/12/2025
+- 🎭 [Lâm Tuấn Kiệt hẹn hò](https://vnexpress.net/lam-tuan-kiet-hen-ho-4999791.html) - 02:09 30/12/2025
+- 🧰 [Phong cách vượt thời gian của minh tinh Brigitte Bardot](https://vnexpress.net/phong-cach-vuot-thoi-gian-cua-minh-tinh-brigitte-bardot-4999488.html) - 22:00 29/12/2025
+- 🦍 [Trấn Thành, Trường Giang đi xem phim của Thu Trang](https://vnexpress.net/tran-thanh-truong-giang-di-xem-phim-cua-thu-trang-4999730.html) - 16:11 29/12/2025
+- 🌝 [Beyoncé trở thành tỷ phú](https://vnexpress.net/beyonce-tro-thanh-ty-phu-4999727.html) - 16:04 29/12/2025
+- 🧑‍💻 [Hòa Minzy dẫn đầu đề cử Làn Sóng Xanh 2025](https://vnexpress.net/hoa-minzy-dan-dau-de-cu-lan-song-xanh-2025-4999703.html) - 15:11 29/12/2025
+- 🥸 [Lý do phim Việt chưa vào danh sách rút gọn Oscar](https://vnexpress.net/ly-do-phim-viet-chua-vao-danh-sach-rut-gon-oscar-4996631.html) - 13:07 29/12/2025
+- 🔥 [Ra mắt ấn bản &#39;Kim Vân Kiều&#39; sau hơn 100 năm](https://vnexpress.net/ra-mat-an-ban-kim-van-kieu-sau-hon-100-nam-4999613.html) - 12:46 29/12/2025
+- 🐎 [BTC &#39;Về đây bốn cánh chim trời&#39; bị tuýt còi vì tự ý hủy show](https://vnexpress.net/btc-ve-day-bon-canh-chim-troi-bi-tuyt-coi-vi-tu-y-huy-show-4999490.html) - 10:15 29/12/2025
+- 😎 [Cuộc đời tự do của huyền thoại Brigitte Bardot](https://vnexpress.net/cuoc-doi-tu-do-cua-huyen-thoai-brigitte-bardot-4999337.html) - 08:11 29/12/2025
+- 🦄 [Cuộc sống của Baggio, Quỳnh Trâm ở Mỹ](https://vnexpress.net/cuoc-song-cua-baggio-quynh-tram-o-my-4999210.html) - 05:25 29/12/2025
+- 🌜 [Hồ Quỳnh Hương ra MV tặng sinh nhật con trai](https://vnexpress.net/ho-quynh-huong-ra-mv-tang-sinh-nhat-con-trai-4999361.html) - 04:17 29/12/2025
+- 🚦 [Rosé thắng danh hiệu &#39;Gương mặt nữ đẹp nhất thế giới&#39; 2025](https://vnexpress.net/rose-thang-danh-hieu-guong-mat-nu-dep-nhat-the-gioi-2025-4999359.html) - 03:47 29/12/2025
+- 🧐 [Nghệ sĩ Đặng Thái Sơn: &#39;Tôi miễn dịch với mọi lời khen chê&#39;](https://vnexpress.net/nghe-si-dang-thai-son-toi-mien-dich-voi-moi-loi-khen-che-4998017.html) - 17:00 28/12/2025
+- 🐵 [Brigitte Bardot - biểu tượng quyến rũ màn bạc](https://vnexpress.net/brigitte-bardot-bieu-tuong-quyen-ru-man-bac-4999289.html) - 14:54 28/12/2025
+- ⚗️ [Biểu tượng điện ảnh Pháp Brigitte Bardot qua đời](https://vnexpress.net/bieu-tuong-dien-anh-phap-brigitte-bardot-qua-doi-4999277.html) - 13:32 28/12/2025
+- 👺 [Thử phân biệt váy dự tiệc đắt tiền và bình dân](https://vnexpress.net/thu-phan-biet-vay-du-tiec-dat-tien-va-binh-dan-4997383.html) - 12:00 28/12/2025
+- 🌊 [Đỗ Thị Hà ngưng kinh doanh để vun vén hôn nhân](https://vnexpress.net/do-thi-ha-ngung-kinh-doanh-de-vun-ven-hon-nhan-4999257.html) - 11:48 28/12/2025
+- 🪜 [Chương Tử Di viết thư cho con gái](https://vnexpress.net/chuong-tu-di-viet-thu-cho-con-gai-4999229.html) - 11:00 28/12/2025
+- 🕴 [Tranh Đông Hồ được tái hiện bằng xiếc](https://vnexpress.net/tranh-dong-ho-duoc-tai-hien-bang-xiec-4999230.html) - 10:08 28/12/2025
+- 💃 [Vẻ thanh lịch của Hoa hậu Thế giới Trương Tử Lâm](https://vnexpress.net/ve-thanh-lich-cua-hoa-hau-the-gioi-truong-tu-lam-4998738.html) - 08:06 28/12/2025
+- 🦄 [Khán giả lao lên sân khấu bức xúc vì show hoãn phút chót](https://vnexpress.net/khan-gia-lao-len-san-khau-buc-xuc-vi-show-hoan-phut-chot-4999078.html) - 06:31 28/12/2025
+- ⛽️ [&#39;Lý Mạc Sầu đẹp nhất màn ảnh&#39; bình yên sau sóng gió](https://vnexpress.net/ly-mac-sau-dep-nhat-man-anh-binh-yen-sau-song-gio-4999148.html) - 05:00 28/12/2025
+- 😎 [Hồi ký &#39;vua vũ khí&#39; Trần Đại Nghĩa &lpar;kỳ cuối&rpar;: Chế thuốc pháo từ phân dơi](https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-cuoi-che-thuoc-phao-tu-phan-doi-4999030.html) - 04:00 28/12/2025
+- 🌊 [Phương Mỹ Chi phiêu nốt cao trước hàng nghìn khán giả](https://vnexpress.net/phuong-my-chi-phieu-not-cao-truoc-hang-nghin-khan-gia-4999140.html) - 03:25 28/12/2025
+- 🐲 [Hoa hậu Brazil được cầu hôn ở Vịnh Hạ Long](https://vnexpress.net/hoa-hau-brazil-duoc-cau-hon-o-vinh-ha-long-4999139.html) - 03:16 28/12/2025
+- 💂 [Thanh Duy giả gái hát cùng Như Quỳnh](https://vnexpress.net/thanh-duy-gia-gai-hat-cung-nhu-quynh-4999136.html) - 02:41 28/12/2025
+- 🙉 [30 &#39;Anh trai say hi&#39; mùa hai diễn bùng nổ ở concert](https://vnexpress.net/30-anh-trai-say-hi-mua-hai-dien-bung-no-o-concert-4999124.html) - 01:53 28/12/2025
+- 💪 [Brooklyn Beckham nghỉ lễ cùng nhà vợ](https://vnexpress.net/brooklyn-beckham-nghi-le-cung-nha-vo-4999134.html) - 01:20 28/12/2025
+- 👍 [&#39;Taxi Driver 3&#39; - hành động vì công lý](https://vnexpress.net/giai-tri/phim/thu-vien-phim/taxi-driver-3-865) - 01:00 28/12/2025
+- 💪 [H&#39;Hen Niê: &#39;Làm bố mẹ tốt là điều không dễ&#39;](https://vnexpress.net/h-hen-nie-lam-bo-me-tot-la-dieu-khong-de-4997372.html) - 22:00 27/12/2025
+- 💄 [Rapper Negav khóc trước khán giả](https://vnexpress.net/rapper-negav-khoc-truoc-khan-gia-4999097.html) - 16:29 27/12/2025
+- 🦩 [Fan trang điểm &#39;bling bling&#39; xem concert Anh trai say hi](https://vnexpress.net/fan-trang-diem-bling-bling-xem-concert-anh-trai-say-hi-4999062.html) - 12:13 27/12/2025
+- 🥸 [Sở thích nấu ăn của vợ chồng Hồ Quang Hiếu](https://vnexpress.net/so-thich-nau-an-cua-vo-chong-ho-quang-hieu-4997756.html) - 10:00 27/12/2025
+- 🧰 [Sam Worthington - diễn viên vô danh đổi đời nhờ &#39;Avatar&#39;](https://vnexpress.net/sam-worthington-dien-vien-vo-danh-doi-doi-nho-avatar-4998532.html) - 07:30 27/12/2025
+- 💼 [Hồi ký &#39;vua vũ khí&#39; Trần Đại Nghĩa &lpar;kỳ 1&rpar;: Sản xuất đạn bazôca thời chiến](https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-1-san-xuat-dan-bazoca-thoi-chien-4998915.html) - 06:16 27/12/2025
 - 🧑‍💻 [Đạo diễn Quang Dũng gây tranh luận khi tuyển trợ lý không lương](https://vnexpress.net/dao-dien-quang-dung-gay-tranh-luan-khi-tuyen-tro-ly-khong-luong-4998886.html) - 03:45 27/12/2025<!-- vnexpress-giai-tri:END -->
