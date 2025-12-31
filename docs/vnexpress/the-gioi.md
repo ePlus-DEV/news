@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Xuất hiện ảnh &#39;bệ phóng điện từ gắn trên xe tải&#39; của Trung Quốc](https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html) - 14:07 31/12/2025
 - 🤭 [Nga công bố video xác UAV bị bắn rơi khi &#39;tập kích dinh thự ông Putin&#39;](https://vnexpress.net/nga-cong-bo-video-xac-uav-bi-ban-roi-khi-tap-kich-dinh-thu-ong-putin-5000716.html) - 12:52 31/12/2025
 - 🧑‍💻 [Nga - Ukraine tìm cách xoay chuyển ông Trump](https://vnexpress.net/nga-ukraine-tim-cach-xoay-chuyen-ong-trump-5000344.html) - 12:00 31/12/2025
-- 🦏 [Đông Nam Á bắt đầu đón năm mới](https://vnexpress.net/the-gioi-bat-dau-don-nam-moi-2026-5000678.html) - 10:39 31/12/2025
+- 🦏 [Thế giới đón năm mới 2026](https://vnexpress.net/the-gioi-bat-dau-don-nam-moi-2026-5000678.html) - 10:39 31/12/2025
 - 🦒 [Hai nước châu Phi đáp trả lệnh cấm nhập cảnh của Mỹ](https://vnexpress.net/hai-nuoc-chau-phi-dap-tra-lenh-cam-nhap-canh-cua-my-5000601.html) - 09:41 31/12/2025
 - 🌈 [Ông Trump lần đầu dùng quyền phủ quyết trong nhiệm kỳ hai](https://vnexpress.net/ong-trump-lan-dau-dung-quyen-phu-quyet-trong-nhiem-ky-hai-5000505.html) - 08:28 31/12/2025
 - 🧑‍🏫 [Quân đội Nga được yêu cầu tăng vùng đệm ở Ukraine](https://vnexpress.net/quan-doi-nga-duoc-yeu-cau-tang-vung-dem-o-ukraine-5000571.html) - 08:21 31/12/2025
