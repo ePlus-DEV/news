@@ -4,8 +4,8 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Người cha nghèo bị hoại tử chân được bạn đọc ủng hộ hơn 180 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/nguoi-cha-ngheo-bi-hoai-tu-chan-duoc-ban-doc-ung-ho-hon-180-trieu-dong-20260101084512133.htm) - 13:30 01/01/2026
-- 🌜 [Nhìn lại chương trình Nhân ái năm 2025](https://dantri.com.vn/tam-long-nhan-ai/nhin-lai-chuong-trinh-nhan-ai-nam-2025-20251231170423844.htm) - 13:03 01/01/2026
+- 🌝 [Nhìn lại chương trình Nhân ái năm 2025](https://dantri.com.vn/tam-long-nhan-ai/nhin-lai-chuong-trinh-nhan-ai-nam-2025-20251231170423844.htm) - 13:03 01/01/2026
+- 🌜 [Người cha nghèo bị hoại tử chân được bạn đọc ủng hộ hơn 180 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/nguoi-cha-ngheo-bi-hoai-tu-chan-duoc-ban-doc-ung-ho-hon-180-trieu-dong-20260101084512133.htm) - 13:00 01/01/2026
 - 👀 [Thông báo kết chuyển Nhân ái tuần 3 tháng 12/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-3-thang-122025-20260101171231766.htm) - 11:42 01/01/2026
 - 🚀 [Danh sách bạn đọc ủng hộ tuần 3 tháng 12/2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-3-thang-122025-20260101170737150.htm) - 11:41 01/01/2026
 - 🦅 [Tết Nhân ái 2026: Cùng Dân trí góp 1.000 suất quà Tết tới người dân vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/tet-nhan-ai-2026-cung-dan-tri-gop-1000-suat-qua-tet-toi-nguoi-dan-vung-lu-20251229144358611.htm) - 22:30 31/12/2025
