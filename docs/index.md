@@ -318,56 +318,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Báo Sài Gòn Giải Phóng ngày 1/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-112026-post831600.html) - 00:12 01/01/2026
-- 🌝 [Thông báo thay đổi địa điểm hoạt động ngân hàng BIDV – chi nhánh Bắc Sài Gòn &lpar;lần 2&rpar;](https://www.sggp.org.vn/thong-bao-thay-doi-dia-diem-hoat-dong-ngan-hang-bidv-chi-nhanh-bac-sai-gon-lan-2-post831487.html) - 00:00 01/01/2026
-- 💃 [Chạm đến ước mơ giáo dục hội nhập thế giới](https://www.sggp.org.vn/cham-den-uoc-mo-giao-duc-hoi-nhap-the-gioi-post831589.html) - 23:55 31/12/2025
-- 🧑‍💻 [Thế giới tưng bừng đón năm mới 2026](https://www.sggp.org.vn/the-gioi-tung-bung-don-nam-moi-2026-post831598.html) - 23:55 31/12/2025
-- 🌊 [Vận động viên, huấn luyện viên tiêu biểu toàn quốc năm 2025: Xạ thủ Trịnh Thu Vinh và bóng đá nam U22 thắng lớn](https://www.sggp.org.vn/van-dong-vien-huan-luyen-vien-tieu-bieu-toan-quoc-nam-2025-xa-thu-trinh-thu-vinh-va-bong-da-nam-u22-thang-lon-post831597.html) - 23:55 31/12/2025
-- 🧑‍💻 [Góc khuất thị trường dự đoán tương lai](https://www.sggp.org.vn/goc-khuat-thi-truong-du-doan-tuong-lai-post831599.html) - 23:54 31/12/2025
-- ⛽️ [Tuyết Dung ghi bàn đầu tiên tại Giải futsal nữ VĐQG 2025](https://www.sggp.org.vn/tuyet-dung-ghi-ban-dau-tien-tai-giai-futsal-nu-vdqg-2025-post831571.html) - 23:35 31/12/2025
-- 😎 [Hồn áo nối trăm năm](https://www.sggp.org.vn/hon-ao-noi-tram-nam-post831596.html) - 23:32 31/12/2025
-- 🌜 [Xây dựng &quot;đô thị đầu tàu&quot; có chất lượng sống tốt](https://www.sggp.org.vn/xay-dung-do-thi-dau-tau-co-chat-luong-song-tot-post831586.html) - 23:29 31/12/2025
-- 💻 [Niềm vui trong căn nhà mới của “Chiến dịch Quang Trung”](https://www.sggp.org.vn/niem-vui-trong-can-nha-moi-cua-chien-dich-quang-trung-post831592.html) - 23:29 31/12/2025
-- 👍 [Tạo đà bứt phá](https://www.sggp.org.vn/tao-da-but-pha-post831583.html) - 23:29 31/12/2025
-- 🦆 [Côn Đảo - một “tinh thần Bhutan” giữa đại dương](https://www.sggp.org.vn/con-dao-mot-tinh-than-bhutan-giua-dai-duong-post831594.html) - 23:28 31/12/2025
-- 🦩 [Vũng Tàu trang hoàng đẹp đón du khách đầu năm](https://www.sggp.org.vn/vung-tau-trang-hoang-dep-don-du-khach-dau-nam-post831593.html) - 23:28 31/12/2025
-- 🥰 [Sức trẻ TPHCM chọn dấn thân để cống hiến](https://www.sggp.org.vn/suc-tre-tphcm-chon-dan-than-de-cong-hien-post831585.html) - 23:28 31/12/2025
-- 🎬 [TPHCM rộn ràng chào năm mới](https://www.sggp.org.vn/tphcm-ron-rang-chao-nam-moi-post831595.html) - 23:28 31/12/2025
-- 🦩 [Giao thông ùn tắc trước kỳ nghỉ](https://www.sggp.org.vn/giao-thong-un-tac-truoc-ky-nghi-post831584.html) - 23:21 31/12/2025
-- 🌮 [Bình yên từ những đêm trắng...](https://www.sggp.org.vn/binh-yen-tu-nhung-dem-trang-post831590.html) - 23:20 31/12/2025
-- 👍 [Thư Ban Biên tập](https://www.sggp.org.vn/thu-ban-bien-tap-post831588.html) - 23:20 31/12/2025
-- 🦒 [Công bố 10 dấu ấn nổi bật của Thủ đô Hà Nội trong năm 2025](https://www.sggp.org.vn/cong-bo-10-dau-an-noi-bat-cua-thu-do-ha-noi-trong-nam-2025-post831535.html) - 23:16 31/12/2025
-- 🤡 [Hà Nội rực rỡ pháo hoa chào đón năm mới 2026](https://www.sggp.org.vn/ha-noi-ruc-ro-phao-hoa-chao-don-nam-moi-2026-post831577.html) - 23:15 31/12/2025
-- 🐎 [Kết thúc giải Billiards Carom 3 băng Team League 2025: Quyết Chiến và đồng đội vô địch đầy kịch tính](https://www.sggp.org.vn/ket-thuc-giai-billiards-carom-3-bang-team-league-2025-quyet-chien-va-dong-doi-vo-dich-day-kich-tinh-post831578.html) - 22:38 31/12/2025
-- 🦆 [Pháo hoa mừng năm mới rực rỡ trên bầu trời TPHCM](https://www.sggp.org.vn/phao-hoa-mung-nam-moi-ruc-ro-tren-bau-troi-tphcm-post831576.html) - 17:30 31/12/2025
-- 🦅 [Malaysia khởi động tìm máy bay MH370 ở Ấn Độ Dương](https://www.sggp.org.vn/malaysia-khoi-dong-tim-may-bay-mh370-o-an-do-duong-post831575.html) - 16:38 31/12/2025
-- 🫣 [Tổng thống Vladimir Putin và Chủ tịch Tập Cận Bình trao lời chúc năm mới, thắt chặt Đối tác Chiến lược toàn diện](https://www.sggp.org.vn/tong-thong-vladimir-putin-va-chu-tich-tap-can-binh-trao-loi-chuc-nam-moi-that-chat-doi-tac-chien-luoc-toan-dien-post831574.html) - 16:37 31/12/2025
-- 🎭 [Đặc sắc chương trình Chào đón năm mới 2026 “Thành phố mùa xuân” ở phường Phú Thạnh](https://www.sggp.org.vn/dac-sac-chuong-trinh-chao-don-nam-moi-2026-thanh-pho-mua-xuan-o-phuong-phu-thanh-post831573.html) - 16:33 31/12/2025
-- 🫶 [Ngập tràn không khí đón chào năm mới 2026](https://www.sggp.org.vn/ngap-tran-khong-khi-don-chao-nam-moi-2026-post831566.html) - 15:36 31/12/2025
-- 🎓 [Ấm áp &quot;Bữa cơm đoàn kết&quot; mừng năm mới tại khu nhà trọ tự quản](https://www.sggp.org.vn/am-ap-bua-com-doan-ket-mung-nam-moi-tai-khu-nha-tro-tu-quan-post831570.html) - 15:21 31/12/2025
-- 🤡 [TPHCM rộn ràng chào năm mới 2026](https://www.sggp.org.vn/tphcm-ron-rang-chao-nam-moi-2026-post831564.html) - 15:18 31/12/2025
-- 🦅 [TPHCM: Triệt phá đường dây tổ chức đánh bạc, đánh bạc qua mạng](https://www.sggp.org.vn/tphcm-triet-pha-duong-day-to-chuc-danh-bac-danh-bac-qua-mang-post831567.html) - 14:46 31/12/2025
-- 🧑‍🏫 [Hạ tầng năng lượng xuyên biên giới: Không gian mới cho khu vực tư nhân](https://www.sggp.org.vn/ha-tang-nang-luong-xuyen-bien-gioi-khong-gian-moi-cho-khu-vuc-tu-nhan-post831568.html) - 14:44 31/12/2025
-- 🕴 [“Khúc hát giao mùa” lan tỏa niềm vui trong đêm cuối năm](https://www.sggp.org.vn/khuc-hat-giao-mua-lan-toa-niem-vui-trong-dem-cuoi-nam-post831565.html) - 14:39 31/12/2025
-- 🦆 [Xã Bàu Bàng &lpar;TPHCM&rpar; thành lập trung tâm cung ứng dịch vụ công và trạm y tế xã](https://www.sggp.org.vn/xa-bau-bang-tphcm-thanh-lap-trung-tam-cung-ung-dich-vu-cong-va-tram-y-te-xa-post831557.html) - 14:24 31/12/2025
-- 🎃 [Cuối năm nói chuyện … say xỉn của bóng đá Anh](https://www.sggp.org.vn/cuoi-nam-noi-chuyen-say-xin-cua-bong-da-anh-post831544.html) - 14:15 31/12/2025
-- 🌮 [Ùn tắc nghiêm trọng tại các cửa ngõ TPHCM chiều cuối năm 2025](https://www.sggp.org.vn/un-tac-nghiem-trong-tai-cac-cua-ngo-tphcm-chieu-cuoi-nam-2025-post831560.html) - 14:15 31/12/2025
-- 🥰 [Lễ tổng kết chương trình học bổng Shinhan Life S-cellence đợt 2: ươm mầm tài năng trẻ, mở lối tương lai](https://www.sggp.org.vn/le-tong-ket-chuong-trinh-hoc-bong-shinhan-life-s-cellence-dot-2-uom-mam-tai-nang-tre-mo-loi-tuong-lai-post831561.html) - 14:15 31/12/2025
-- 🕯 [Phường Tam Thắng &lpar;TPHCM&rpar; điều động, bổ nhiệm cán bộ quản lý y tế, giáo dục](https://www.sggp.org.vn/phuong-tam-thang-tphcm-dieu-dong-bo-nhiem-can-bo-quan-ly-y-te-giao-duc-post831550.html) - 14:12 31/12/2025
-- 🙉 [Podcast tin tối 31-12: VNG xin lùi lịch làm việc liên quan vụ Zalo &quot;ép&quot; người dùng](https://www.sggp.org.vn/podcast-tin-toi-31-12-vng-xin-lui-lich-lam-viec-lien-quan-vu-zalo-ep-nguoi-dung-post831554.html) - 13:58 31/12/2025
-- 💡 [Ông Thái Văn Cảnh làm Trưởng Ban quản lý Di tích Lịch sử - Văn hóa Dinh Cô](https://www.sggp.org.vn/ong-thai-van-canh-lam-truong-ban-quan-ly-di-tich-lich-su-van-hoa-dinh-co-post831552.html) - 13:55 31/12/2025
-- 💫 [Đội bóng chuyền nam Công an TPHCM chia tay HLV trưởng Dương Tấn Vinh](https://www.sggp.org.vn/doi-bong-chuyen-nam-cong-an-tphcm-chia-tay-hlv-truong-duong-tan-vinh-post831558.html) - 13:54 31/12/2025
-- 🧑‍💻 [Trao giải cuộc thi “Thính giả với an toàn giao thông” năm 2025](https://www.sggp.org.vn/trao-giai-cuoc-thi-thinh-gia-voi-an-toan-giao-thong-nam-2025-post831551.html) - 13:51 31/12/2025
-- 🎊 [Gần 500 container chè Việt Nam bị kẹt tại Pakistan được tái xuất](https://www.sggp.org.vn/gan-500-container-che-viet-nam-bi-ket-tai-pakistan-duoc-tai-xuat-post831548.html) - 13:45 31/12/2025
-- 🤖 [THƯ CẢM ƠN](https://www.sggp.org.vn/thu-cam-on-post831559.html) - 13:43 31/12/2025
-- 💫 [Kiến nghị bổ sung nhân sự cấp xã trong lĩnh vực đất đai](https://www.sggp.org.vn/kien-nghi-bo-sung-nhan-su-cap-xa-trong-linh-vuc-dat-dai-post831555.html) - 13:42 31/12/2025
-- 👨‍🏫 [Bản tin tối 30-12: Kiến nghị bổ sung nhân sự cấp xã trong lĩnh vực đất đai](https://www.sggp.org.vn/ban-tin-toi-30-12-kien-nghi-bo-sung-nhan-su-cap-xa-trong-linh-vuc-dat-dai-post831553.html) - 13:00 31/12/2025
-- 🧰 [Khởi tố 3 đối tượng trong đường dây mua bán hóa đơn hơn 200 tỷ đồng](https://www.sggp.org.vn/khoi-to-3-doi-tuong-trong-duong-day-mua-ban-hoa-don-hon-200-ty-dong-post831547.html) - 12:52 31/12/2025
-- 🥰 [Thử nghiệm 5 thủ tục hành chính trong lĩnh vực hộ tịch](https://www.sggp.org.vn/thu-nghiem-5-thu-tuc-hanh-chinh-trong-linh-vuc-ho-tich-post831531.html) - 12:50 31/12/2025
-- 💼 [Năm 2025, tổng nguồn cung xăng dầu ước đạt 25,2 triệu tấn](https://www.sggp.org.vn/nam-2025-tong-nguon-cung-xang-dau-uoc-dat-252-trieu-tan-post831539.html) - 12:44 31/12/2025
-- 🤗 [LOTTE MART Đà Nẵng tung khuyến mãi lớn dịp ra mắt diện mạo mới](https://www.sggp.org.vn/lotte-mart-da-nang-tung-khuyen-mai-lon-dip-ra-mat-dien-mao-moi-post831541.html) - 12:40 31/12/2025
-- 🦩 [Diễn đàn Kinh tế mùa thu 2025 đã thành công tốt đẹp, toàn diện](https://www.sggp.org.vn/dien-dan-kinh-te-mua-thu-2025-da-thanh-cong-tot-dep-toan-dien-post831546.html) - 12:37 31/12/2025
-- 🫶 [Bộ KH-CN sẽ không để xảy ra tình trạng &quot;luật chờ nghị định&quot;](https://www.sggp.org.vn/bo-kh-cn-se-khong-de-xay-ra-tinh-trang-luat-cho-nghi-dinh-post831545.html) - 12:35 31/12/2025<!-- sggp:END -->
+- 🪜 [Lâm Đồng đón những du khách đầu tiên năm 2026](https://www.sggp.org.vn/lam-dong-don-nhung-du-khach-dau-tien-nam-2026-post831569.html) - 02:37 01/01/2026
+- 🌝 [Dọn vệ sinh hẻm, chào đón năm mới 2026](https://www.sggp.org.vn/don-ve-sinh-hem-chao-don-nam-moi-2026-post831614.html) - 02:30 01/01/2026
+- 💃 [Tăng sức hút dòng vốn chiến lược](https://www.sggp.org.vn/tang-suc-hut-dong-von-chien-luoc-post831587.html) - 02:27 01/01/2026
+- 🧑‍💻 [Ngày 1-1-2026, sân bay Tân Sơn Nhất dự kiến phục vụ 117.000 hành khách](https://www.sggp.org.vn/ngay-1-1-2026-san-bay-tan-son-nhat-du-kien-phuc-vu-117000-hanh-khach-post831604.html) - 02:23 01/01/2026
+- 🌊 [Gần 300 gian hàng tham gia chợ hoa Xuân Bình Điền Bính Ngọ 2026](https://www.sggp.org.vn/gan-300-gian-hang-tham-gia-cho-hoa-xuan-binh-dien-binh-ngo-2026-post831613.html) - 02:10 01/01/2026
+- 🧑‍💻 [Vissan mở rộng danh mục sản phẩm tiện lợi](https://www.sggp.org.vn/vissan-mo-rong-danh-muc-san-pham-tien-loi-post831611.html) - 02:06 01/01/2026
+- ⛽️ [Bán lẻ tăng lượng hàng cho cao điểm tết](https://www.sggp.org.vn/ban-le-tang-luong-hang-cho-cao-diem-tet-post831610.html) - 02:04 01/01/2026
+- 😎 [Sản phẩm tết lên kệ siêu thị](https://www.sggp.org.vn/san-pham-tet-len-ke-sieu-thi-post831609.html) - 02:00 01/01/2026
+- 🌜 [Chợ đầu mối nông sản thực phẩm Bình Điền: Giữ nhịp thị trường mùa tết](https://www.sggp.org.vn/cho-dau-moi-nong-san-thuc-pham-binh-dien-giu-nhip-thi-truong-mua-tet-post831608.html) - 01:58 01/01/2026
+- 💻 [Xanh hóa để tăng sức cạnh tranh cho hàng Việt](https://www.sggp.org.vn/xanh-hoa-de-tang-suc-canh-tranh-cho-hang-viet-post831607.html) - 01:54 01/01/2026
+- 👍 [Độc đáo chợ mây trên “nóc nhà” miền Tây](https://www.sggp.org.vn/doc-dao-cho-may-tren-noc-nha-mien-tay-post830969.html) - 01:54 01/01/2026
+- 🦆 [Ông Trump rút Vệ binh quốc gia khỏi loạt thành phố Mỹ](https://www.sggp.org.vn/ong-trump-rut-ve-binh-quoc-gia-khoi-loat-thanh-pho-my-post831605.html) - 01:53 01/01/2026
+- 🦩 [Thực hiện nghiêm việc không tổ chức đi thăm, chúc tết cấp trên và lãnh đạo các cấp](https://www.sggp.org.vn/thuc-hien-nghiem-viec-khong-to-chuc-di-tham-chuc-tet-cap-tren-va-lanh-dao-cac-cap-post831601.html) - 01:46 01/01/2026
+- 🥰 [Phường Tam Thắng &lpar;TPHCM&rpar; thăm, tặng quà đối tượng chính sách](https://www.sggp.org.vn/phuong-tam-thang-tphcm-tham-tang-qua-doi-tuong-chinh-sach-post831536.html) - 01:15 01/01/2026
+- 🎬 [Tọa đàm “Giải mã sức bật khu Tây TPHCM”: LA Home khai mở tọa độ đầu tư mới](https://www.sggp.org.vn/toa-dam-giai-ma-suc-bat-khu-tay-tphcm-la-home-khai-mo-toa-do-dau-tu-moi-post831532.html) - 01:10 01/01/2026
+- 🦩 [TPHCM chào đón những công dân nhí đầu tiên của năm 2026](https://www.sggp.org.vn/tphcm-chao-don-nhung-cong-dan-nhi-dau-tien-cua-nam-2026-post831602.html) - 01:06 01/01/2026
+- 🌮 [Báo Sài Gòn Giải Phóng ngày 1/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-112026-post831600.html) - 00:12 01/01/2026
+- 👍 [Thông báo thay đổi địa điểm hoạt động ngân hàng BIDV – chi nhánh Bắc Sài Gòn &lpar;lần 2&rpar;](https://www.sggp.org.vn/thong-bao-thay-doi-dia-diem-hoat-dong-ngan-hang-bidv-chi-nhanh-bac-sai-gon-lan-2-post831487.html) - 00:00 01/01/2026
+- 🦒 [Chạm đến ước mơ giáo dục hội nhập thế giới](https://www.sggp.org.vn/cham-den-uoc-mo-giao-duc-hoi-nhap-the-gioi-post831589.html) - 23:55 31/12/2025
+- 🤡 [Thế giới tưng bừng đón năm mới 2026](https://www.sggp.org.vn/the-gioi-tung-bung-don-nam-moi-2026-post831598.html) - 23:55 31/12/2025
+- 🐎 [Vận động viên, huấn luyện viên tiêu biểu toàn quốc năm 2025: Xạ thủ Trịnh Thu Vinh và bóng đá nam U22 thắng lớn](https://www.sggp.org.vn/van-dong-vien-huan-luyen-vien-tieu-bieu-toan-quoc-nam-2025-xa-thu-trinh-thu-vinh-va-bong-da-nam-u22-thang-lon-post831597.html) - 23:55 31/12/2025
+- 🦆 [Góc khuất thị trường dự đoán tương lai](https://www.sggp.org.vn/goc-khuat-thi-truong-du-doan-tuong-lai-post831599.html) - 23:54 31/12/2025
+- 🦅 [Tuyết Dung ghi bàn đầu tiên tại Giải futsal nữ VĐQG 2025](https://www.sggp.org.vn/tuyet-dung-ghi-ban-dau-tien-tai-giai-futsal-nu-vdqg-2025-post831571.html) - 23:35 31/12/2025
+- 🫣 [Hồn áo nối trăm năm](https://www.sggp.org.vn/hon-ao-noi-tram-nam-post831596.html) - 23:32 31/12/2025
+- 🎭 [Xây dựng &quot;đô thị đầu tàu&quot; có chất lượng sống tốt](https://www.sggp.org.vn/xay-dung-do-thi-dau-tau-co-chat-luong-song-tot-post831586.html) - 23:29 31/12/2025
+- 🫶 [Niềm vui trong căn nhà mới của “Chiến dịch Quang Trung”](https://www.sggp.org.vn/niem-vui-trong-can-nha-moi-cua-chien-dich-quang-trung-post831592.html) - 23:29 31/12/2025
+- 🎓 [Tạo đà bứt phá](https://www.sggp.org.vn/tao-da-but-pha-post831583.html) - 23:29 31/12/2025
+- 🤡 [Côn Đảo - một “tinh thần Bhutan” giữa đại dương](https://www.sggp.org.vn/con-dao-mot-tinh-than-bhutan-giua-dai-duong-post831594.html) - 23:28 31/12/2025
+- 🦅 [Vũng Tàu trang hoàng đẹp đón du khách đầu năm](https://www.sggp.org.vn/vung-tau-trang-hoang-dep-don-du-khach-dau-nam-post831593.html) - 23:28 31/12/2025
+- 🧑‍🏫 [Sức trẻ TPHCM chọn dấn thân để cống hiến](https://www.sggp.org.vn/suc-tre-tphcm-chon-dan-than-de-cong-hien-post831585.html) - 23:28 31/12/2025
+- 🕴 [TPHCM rộn ràng chào năm mới](https://www.sggp.org.vn/tphcm-ron-rang-chao-nam-moi-post831595.html) - 23:28 31/12/2025
+- 🦆 [Giao thông ùn tắc trước kỳ nghỉ](https://www.sggp.org.vn/giao-thong-un-tac-truoc-ky-nghi-post831584.html) - 23:21 31/12/2025
+- 🎃 [Bình yên từ những đêm trắng...](https://www.sggp.org.vn/binh-yen-tu-nhung-dem-trang-post831590.html) - 23:20 31/12/2025
+- 🌮 [Thư Ban Biên tập](https://www.sggp.org.vn/thu-ban-bien-tap-post831588.html) - 23:20 31/12/2025
+- 🥰 [Công bố 10 dấu ấn nổi bật của Thủ đô Hà Nội trong năm 2025](https://www.sggp.org.vn/cong-bo-10-dau-an-noi-bat-cua-thu-do-ha-noi-trong-nam-2025-post831535.html) - 23:16 31/12/2025
+- 🕯 [Hà Nội rực rỡ pháo hoa chào đón năm mới 2026](https://www.sggp.org.vn/ha-noi-ruc-ro-phao-hoa-chao-don-nam-moi-2026-post831577.html) - 23:15 31/12/2025
+- 🙉 [Kết thúc giải Billiards Carom 3 băng Team League 2025: Quyết Chiến và đồng đội vô địch đầy kịch tính](https://www.sggp.org.vn/ket-thuc-giai-billiards-carom-3-bang-team-league-2025-quyet-chien-va-dong-doi-vo-dich-day-kich-tinh-post831578.html) - 22:38 31/12/2025
+- 💡 [Pháo hoa mừng năm mới rực rỡ trên bầu trời TPHCM](https://www.sggp.org.vn/phao-hoa-mung-nam-moi-ruc-ro-tren-bau-troi-tphcm-post831576.html) - 17:30 31/12/2025
+- 💫 [Malaysia khởi động tìm máy bay MH370 ở Ấn Độ Dương](https://www.sggp.org.vn/malaysia-khoi-dong-tim-may-bay-mh370-o-an-do-duong-post831575.html) - 16:38 31/12/2025
+- 🧑‍💻 [Tổng thống Vladimir Putin và Chủ tịch Tập Cận Bình trao lời chúc năm mới, thắt chặt Đối tác Chiến lược toàn diện](https://www.sggp.org.vn/tong-thong-vladimir-putin-va-chu-tich-tap-can-binh-trao-loi-chuc-nam-moi-that-chat-doi-tac-chien-luoc-toan-dien-post831574.html) - 16:37 31/12/2025
+- 🎊 [Đặc sắc chương trình Chào đón năm mới 2026 “Thành phố mùa xuân” ở phường Phú Thạnh](https://www.sggp.org.vn/dac-sac-chuong-trinh-chao-don-nam-moi-2026-thanh-pho-mua-xuan-o-phuong-phu-thanh-post831573.html) - 16:33 31/12/2025
+- 🤖 [Ngập tràn không khí đón chào năm mới 2026](https://www.sggp.org.vn/ngap-tran-khong-khi-don-chao-nam-moi-2026-post831566.html) - 15:36 31/12/2025
+- 💫 [Ấm áp &quot;Bữa cơm đoàn kết&quot; mừng năm mới tại khu nhà trọ tự quản](https://www.sggp.org.vn/am-ap-bua-com-doan-ket-mung-nam-moi-tai-khu-nha-tro-tu-quan-post831570.html) - 15:21 31/12/2025
+- 👨‍🏫 [TPHCM rộn ràng chào năm mới 2026](https://www.sggp.org.vn/tphcm-ron-rang-chao-nam-moi-2026-post831564.html) - 15:18 31/12/2025
+- 🧰 [TPHCM: Triệt phá đường dây tổ chức đánh bạc, đánh bạc qua mạng](https://www.sggp.org.vn/tphcm-triet-pha-duong-day-to-chuc-danh-bac-danh-bac-qua-mang-post831567.html) - 14:46 31/12/2025
+- 🥰 [Hạ tầng năng lượng xuyên biên giới: Không gian mới cho khu vực tư nhân](https://www.sggp.org.vn/ha-tang-nang-luong-xuyen-bien-gioi-khong-gian-moi-cho-khu-vuc-tu-nhan-post831568.html) - 14:44 31/12/2025
+- 💼 [“Khúc hát giao mùa” lan tỏa niềm vui trong đêm cuối năm](https://www.sggp.org.vn/khuc-hat-giao-mua-lan-toa-niem-vui-trong-dem-cuoi-nam-post831565.html) - 14:39 31/12/2025
+- 🤗 [Xã Bàu Bàng &lpar;TPHCM&rpar; thành lập trung tâm cung ứng dịch vụ công và trạm y tế xã](https://www.sggp.org.vn/xa-bau-bang-tphcm-thanh-lap-trung-tam-cung-ung-dich-vu-cong-va-tram-y-te-xa-post831557.html) - 14:24 31/12/2025
+- 🦩 [Cuối năm nói chuyện … say xỉn của bóng đá Anh](https://www.sggp.org.vn/cuoi-nam-noi-chuyen-say-xin-cua-bong-da-anh-post831544.html) - 14:15 31/12/2025
+- 🫶 [Ùn tắc nghiêm trọng tại các cửa ngõ TPHCM chiều cuối năm 2025](https://www.sggp.org.vn/un-tac-nghiem-trong-tai-cac-cua-ngo-tphcm-chieu-cuoi-nam-2025-post831560.html) - 14:15 31/12/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
