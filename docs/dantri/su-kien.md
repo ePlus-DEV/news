@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tọa đàm “Việt Nam 2026: Chuyển mình trong kỷ nguyên mới” diễn ra hôm nay](https://dantri.com.vn/kinh-doanh/toa-dam-viet-nam-2026-chuyen-minh-trong-ky-nguyen-moi-dien-ra-hom-nay-20251225105400677.htm) - 00:29 01/01/2026
+- 🎭 [Việt Nam bước vào năm 2026 với tâm thế và thể chế sẵn sàng bứt phá](https://dantri.com.vn/kinh-doanh/viet-nam-buoc-vao-nam-2026-voi-tam-the-va-the-che-san-sang-but-pha-20251225105400677.htm) - 00:29 01/01/2026
 - 👨‍🏫 [Tết Nhân ái 2026: Cùng Dân trí góp 1.000 suất quà Tết tới người dân vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/tet-nhan-ai-2026-cung-dan-tri-gop-1000-suat-qua-tet-toi-nguoi-dan-vung-lu-20251229144358611.htm) - 22:30 31/12/2025
 - 🌮 [Cửa ngõ Hà Nội kẹt cứng, ken đặc dòng người về quê nghỉ Tết](https://dantri.com.vn/thoi-su/cua-ngo-ha-noi-ket-cung-ken-dac-dong-nguoi-ve-que-nghi-tet-20251231175327441.htm) - 11:49 31/12/2025
 - 🕯 [Thủ tướng: Nghiên cứu giải pháp tốt nhất với SCB](https://dantri.com.vn/kinh-doanh/thu-tuong-nghien-cuu-giai-phap-tot-nhat-voi-scb-20251231175040835.htm) - 11:14 31/12/2025
