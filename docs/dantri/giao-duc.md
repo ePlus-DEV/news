@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Vợ khen chồng học dốt mà giàu: &quot;Không nghề gì lương thiện mà không cần học&quot;](https://dantri.com.vn/giao-duc/vo-khen-chong-hoc-dot-ma-giau-khong-nghe-gi-luong-thien-ma-khong-can-hoc-20260102121155963.htm) - 12:00 02/01/2026
-- 🗽 [Báo Dân trí và Trường Đại học Cửu Long chính thức ký kết hợp tác](https://dantri.com.vn/giao-duc/bao-dan-tri-va-truong-dai-hoc-cuu-long-chinh-thuc-ky-ket-hop-tac-20260102173552963.htm) - 11:42 02/01/2026
+- 🗽 [Video: Báo Dân trí và Trường Đại học Cửu Long chính thức ký kết hợp tác](https://dantri.com.vn/giao-duc/video-bao-dan-tri-va-truong-dai-hoc-cuu-long-chinh-thuc-ky-ket-hop-tac-20260102173552963.htm) - 11:42 02/01/2026
 - 🚦 [Báo Dân trí và Trường Đại học Cửu Long ký kết thoả thuận hợp tác](https://dantri.com.vn/giao-duc/bao-dan-tri-va-truong-dai-hoc-cuu-long-ky-ket-thoa-thuan-hop-tac-20260102175259112.htm) - 11:38 02/01/2026
 - 🌋 [Toàn cảnh buổi ký kết hợp tác giữa báo Dân trí và Trường Đại học Cửu Long](https://dantri.com.vn/giao-duc/toan-canh-buoi-ky-ket-hop-tac-giua-bao-dan-tri-va-truong-dai-hoc-cuu-long-20260102155122702.htm) - 11:38 02/01/2026
 - 🏊 [Đề nghị Công an điều tra hành vi xuyên tạc về sách giáo khoa](https://dantri.com.vn/giao-duc/de-nghi-cong-an-dieu-tra-hanh-vi-xuyen-tac-ve-sach-giao-khoa-20260102165853658.htm) - 10:26 02/01/2026
