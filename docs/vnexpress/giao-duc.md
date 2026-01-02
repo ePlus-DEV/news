@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bác tin sách giáo khoa lớp 5 bỏ nội dung về Quang Trung](https://vnexpress.net/bac-tin-sach-giao-khoa-lop-5-bo-noi-dung-ve-quang-trung-5001205.html) - 10:50 02/01/2026
+- 🤓 [Bác tin sách giáo khoa lịch sử &#39;bỏ qua&#39; Quang Trung](https://vnexpress.net/bac-tin-sach-giao-khoa-lich-su-bo-qua-quang-trung-5001205.html) - 10:50 02/01/2026
 - 🦆 [Cuộc đời phi thường từ cô bé vắt sữa đến giải &#39;Nobel máy tính&#39;](https://vnexpress.net/cuoc-doi-phi-thuong-tu-co-be-vat-sua-den-giai-nobel-may-tinh-5000677.html) - 01:15 02/01/2026
 - 🦩 [Giáo viên hợp đồng chạnh lòng vì thưởng Tết](https://vnexpress.net/thuong-tet-giao-vien-hop-dong-111-theo-nghi-dinh-73-nhu-the-nao-5000440.html) - 23:00 01/01/2026
 - 🌮 [Học phí 10 đại học tốt nhất Hàn Quốc năm 2026](https://vnexpress.net/hoc-phi-10-dai-hoc-tot-nhat-han-quoc-nam-2026-5000712.html) - 17:00 01/01/2026
