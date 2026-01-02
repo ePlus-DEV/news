@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiện trường bờ kè &#39;hở hàm ếch&#39; bị sập làm 4 người chết](https://vnexpress.net/hien-truong-bo-ke-ho-ham-ech-bi-sap-lam-4-nguoi-chet-5001169.html) - 10:30 02/01/2026
+- 🦒 [Hiện trường bờ kè sập làm 4 người chết ở Đăk Lăk](https://vnexpress.net/hien-truong-bo-ke-sap-lam-4-nguoi-chet-o-dak-lak-5001169.html) - 10:30 02/01/2026
 - 🤓 [Xuất hiện hố sâu 3 mét trên quốc lộ 9B](https://vnexpress.net/xuat-hien-ho-sau-3-met-tren-quoc-lo-9b-5001165.html) - 10:05 02/01/2026
 - ⚗️ [Trợ cấp thất nghiệp tối đa khu vực công tăng lên 26,55 triệu](https://vnexpress.net/tro-cap-that-nghiep-toi-da-khu-vuc-cong-tang-len-26-55-trieu-5000645.html) - 08:54 02/01/2026
 - 🌊 [Nhiều dự án ven biển Đồng Hới bỏ hoang, chậm tiến độ](https://vnexpress.net/nhieu-du-an-ven-bien-dong-hoi-bo-hoang-cham-tien-do-5000564.html) - 06:00 02/01/2026
