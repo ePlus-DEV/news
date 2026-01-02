@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cuộc đời phi thường của người phụ nữ thay đổi lịch sử máy tính](https://vnexpress.net/cuoc-doi-phi-thuong-cua-nguoi-phu-nu-thay-doi-lich-su-may-tinh-5000677.html) - 01:15 02/01/2026
+- 🤓 [Cuộc đời phi thường từ cô bé vắt sữa đến giải &#39;Nobel máy tính&#39;](https://vnexpress.net/cuoc-doi-phi-thuong-tu-co-be-vat-sua-den-giai-nobel-may-tinh-5000677.html) - 01:15 02/01/2026
 - 🦆 [Giáo viên hợp đồng chạnh lòng vì thưởng Tết](https://vnexpress.net/thuong-tet-giao-vien-hop-dong-111-theo-nghi-dinh-73-nhu-the-nao-5000440.html) - 23:00 01/01/2026
 - 🦩 [Học phí 10 đại học tốt nhất Hàn Quốc năm 2026](https://vnexpress.net/hoc-phi-10-dai-hoc-tot-nhat-han-quoc-nam-2026-5000712.html) - 17:00 01/01/2026
 - 🌮 [Người dân nước nào dành ít thời gian vào mạng nhất?](https://vnexpress.net/nguoi-dan-nuoc-nao-danh-it-thoi-gian-vao-mang-nhat-5000863.html) - 13:04 01/01/2026
