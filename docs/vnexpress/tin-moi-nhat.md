@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Người dân nước nào uống bia nhiều nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-uong-bia-nhieu-nhat-the-gioi-5001228.html) - 13:39 02/01/2026
 - 🐎 [Vẻ đẹp mùa xuân trong &#39;Sách Tết Bính Ngọ 2026&#39;](https://vnexpress.net/ve-dep-mua-xuan-trong-sach-tet-binh-ngo-2026-5000724.html) - 13:37 02/01/2026
-- 🦍 [Phí ra biển số ôtô tại Hà Nội, TP HCM dự kiến giảm còn 14 triệu đồng từ 2026](https://vnexpress.net/phi-ra-bien-so-oto-tai-ha-noi-tp-hcm-du-kien-giam-con-14-trieu-dong-tu-2026-5000967.html) - 13:33 02/01/2026
+- 🦍 [Phí ra biển số ôtô tại Hà Nội, TP HCM giảm còn 14 triệu đồng từ 2026](https://vnexpress.net/phi-ra-bien-so-oto-tai-ha-noi-tp-hcm-giam-con-14-trieu-dong-tu-2026-5000967.html) - 13:33 02/01/2026
 - 🏊 [Phía sau &#39;chồng đầu bếp học dốt thu nhập cao hơn kỹ sư, thạc sĩ&#39;](https://vnexpress.net/phia-sau-chong-dau-bep-hoc-dot-thu-nhap-cao-hon-ky-su-thac-si-5001123.html) - 13:11 02/01/2026
 - 🎊 [Bà Melania Trump diện đầm ôm trong tiệc đón năm mới](https://vnexpress.net/ba-melania-trump-dien-dam-om-trong-tiec-don-nam-moi-5001191.html) - 12:34 02/01/2026
 - 🎃 [Tranh các loài vật sống động như thật](https://vnexpress.net/tranh-cac-loai-vat-song-dong-nhu-that-5001135.html) - 12:30 02/01/2026
