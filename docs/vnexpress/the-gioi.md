@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Trump sắp họp báo về cuộc đột kích Venezuela](https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485.html) - 15:47 03/01/2026
+- 🎭 [Tổng thống Trump họp báo về cuộc đột kích Venezuela](https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485.html) - 15:47 03/01/2026
 - 🕴 [Ông Trump: &#39;Trực thăng Mỹ trúng đạn khi tập kích Venezuela&#39;](https://vnexpress.net/ong-trump-truc-thang-my-trung-dan-khi-tap-kich-venezuela-5001456.html) - 15:36 03/01/2026
 - 🤭 [Venezuela nói Mỹ &#39;bắt cóc&#39; ông Maduro tại căn cứ quân sự](https://vnexpress.net/venezuela-noi-my-bat-coc-ong-maduro-tai-can-cu-quan-su-5001455.html) - 15:09 03/01/2026
 - 🧑‍💻 [Đại sứ quán Việt Nam tại Venezuela lập kênh liên lạc khẩn cấp](https://vnexpress.net/dai-su-quan-viet-nam-tai-venezuela-lap-kenh-lien-lac-khan-cap-5001450.html) - 14:46 03/01/2026
