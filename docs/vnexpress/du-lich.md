@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Phú Quốc đón số chuyến bay quốc tế cao chưa từng thấy](https://vnexpress.net/phu-quoc-don-so-chuyen-bay-quoc-te-cao-chua-tung-thay-5001418.html) - 13:26 03/01/2026
-- 🪄 [Xác minh tài xế taxi Nha Trang bị tố tráo tiền của du khách nước ngoài](https://vnexpress.net/xac-minh-tai-xe-taxi-nha-trang-bi-to-trao-tien-cua-du-khach-nuoc-ngoai-5001385.html) - 09:45 03/01/2026
+- 🪄 [Tài xế taxi Nha Trang bị tố tráo tiền của du khách nước ngoài](https://vnexpress.net/tai-xe-taxi-nha-trang-bi-to-trao-tien-cua-du-khach-nuoc-ngoai-5001385.html) - 09:45 03/01/2026
 - 🦅 [Hàng trăm du khách mắc kẹt trên đỉnh núi ở Trung Quốc](https://vnexpress.net/hang-tram-du-khach-mac-ket-tren-dinh-nui-o-trung-quoc-5001381.html) - 09:22 03/01/2026
 - 🕴 [Homestay Phú Quốc &#39;bùng&#39; phòng của khách Tây bị dừng hoạt động](https://vnexpress.net/homestay-phu-quoc-bung-phong-cua-khach-tay-bi-dung-hoat-dong-5001346.html) - 05:59 03/01/2026
 - 👀 [Hai bãi biển đẹp nhất Phú Quốc ngập trong lục bình, rác](https://vnexpress.net/hai-bai-bien-dep-nhat-phu-quoc-ngap-trong-luc-binh-rac-5001311.html) - 05:01 03/01/2026
