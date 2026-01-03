@@ -404,7 +404,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Mỹ thông tin việc tấn công Venezuela, bắt giữ Tổng thống Nicolas Maduro; phản ứng của các nước &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 22:51 03/01/2026
+- 💻 [Mỹ thông tin việc tấn công Venezuela, bắt giữ Tổng thống Nicolas Maduro; phản ứng của các nước](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 22:51 03/01/2026
 - 🌜 [Bộ Ngoại giao khuyến cáo công dân Việt Nam tại Venezuela](https://baochinhphu.vn/bo-ngoai-giao-khuyen-cao-cong-dan-viet-nam-tai-venezuela-102260103224732564.htm) - 22:31 03/01/2026
 - 🦆 [Thủ tướng Phạm Minh Chính tiếp Đại sứ Philippines](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tiep-dai-su-philippines-102260103164244731.htm) - 17:52 03/01/2026
 - 🌝 [Chủ tịch nước gửi điện chia buồn về vụ hỏa hoạn nghiêm trọng tại Thụy Sĩ](https://baochinhphu.vn/chu-tich-nuoc-gui-dien-chia-buon-ve-vu-hoa-hoan-nghiem-trong-tai-thuy-si-10226010315330143.htm) - 15:59 03/01/2026
