@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Ông Trump nói chiến dịch tập kích Venezuela &#39;hoàn hảo&#39;](https://vnexpress.net/ong-trump-noi-chien-dich-tap-kich-venezuela-hoan-hao-5001408.html) - 10:14 03/01/2026
 - 🧑‍💻 [Ấn Độ trưng bày di vật Đức Phật sau 127 năm lưu lạc](https://vnexpress.net/an-do-trung-bay-di-vat-duc-phat-sau-127-nam-luu-lac-5001387.html) - 09:07 03/01/2026
 - 🦏 [Không phận Venezuela vắng tanh giữa đòn tập kích](https://vnexpress.net/khong-phan-venezuela-vang-tanh-giua-don-tap-kich-5001382.html) - 08:00 03/01/2026
-- 🦒 [Ông Trump: &#39;Mỹ đã bắt Tổng thống Venezuela&#39;](https://vnexpress.net/loat-tieng-no-lon-rung-chuyen-thu-do-venezuela-5001370.html) - 06:40 03/01/2026
+- 🦒 [Mỹ đột kích Venezuela, tuyên bố bắt Tổng thống Maduro](https://vnexpress.net/loat-tieng-no-lon-rung-chuyen-thu-do-venezuela-5001370-tong-thuat.html) - 06:40 03/01/2026
 - 🌈 [Hiệu ứng &#39;cháy bùng&#39; có thể gây thảm kịch ở khu nghỉ dưỡng Thụy Sĩ](https://vnexpress.net/hieu-ung-chay-bung-co-the-gay-tham-kich-o-khu-nghi-duong-thuy-si-5001343.html) - 05:02 03/01/2026
 - 🧑‍🏫 [Nỗ lực dàn xếp đưa Elon Musk trở lại với ông Trump](https://vnexpress.net/no-luc-dan-xep-dua-elon-musk-tro-lai-voi-ong-trump-4999778.html) - 03:30 03/01/2026
 - 🐲 [Campuchia - Thái Lan tranh cãi về &#39;làng biên giới bị sáp nhập&#39;](https://vnexpress.net/campuchia-thai-lan-tranh-cai-ve-lang-bien-gioi-bi-sap-nhap-5001302.html) - 02:33 03/01/2026
