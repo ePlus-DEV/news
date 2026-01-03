@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Homestay Phú Quốc bùng phòng của khách Tây bị dừng hoạt động](https://vnexpress.net/homestay-phu-quoc-bung-phong-cua-khach-tay-bi-dung-hoat-dong-5001346.html) - 05:59 03/01/2026
+- 💂 [Homestay Phú Quốc &#39;bùng&#39; phòng của khách Tây bị dừng hoạt động](https://vnexpress.net/homestay-phu-quoc-bung-phong-cua-khach-tay-bi-dung-hoat-dong-5001346.html) - 05:59 03/01/2026
 - 🪄 [Hai bãi biển đẹp nhất Phú Quốc ngập trong lục bình, rác](https://vnexpress.net/hai-bai-bien-dep-nhat-phu-quoc-ngap-trong-luc-binh-rac-5001311.html) - 05:01 03/01/2026
 - 🦅 [5 điểm du lịch đắt đỏ hơn vào năm 2026 do thuế](https://vnexpress.net/5-diem-du-lich-dat-do-hon-vao-nam-2026-do-thue-5001254.html) - 02:00 03/01/2026
 - 🕴 [Đội chó nghiệp vụ chuyên săn tìm hàng vi phạm ở sân bay](https://vnexpress.net/doi-cho-nghiep-vu-chuyen-san-tim-hang-vi-pham-o-san-bay-4998624.html) - 00:00 03/01/2026
