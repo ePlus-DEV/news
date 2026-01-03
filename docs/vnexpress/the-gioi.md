@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Loạt tiếng nổ lớn rung chuyển thủ đô Venezuela](https://vnexpress.net/loat-tieng-no-lon-rung-chuyen-thu-do-venezuela-5001370.html) - 06:40 03/01/2026
+- 🎭 [Tổng thống Venezuela ban bố tình trạng khẩn cấp sau loạt vụ nổ](https://vnexpress.net/loat-tieng-no-lon-rung-chuyen-thu-do-venezuela-5001370.html) - 06:40 03/01/2026
 - 🕴 [Hiệu ứng &#39;cháy bùng&#39; có thể gây thảm kịch ở khu nghỉ dưỡng Thụy Sĩ](https://vnexpress.net/hieu-ung-chay-bung-co-the-gay-tham-kich-o-khu-nghi-duong-thuy-si-5001343.html) - 05:02 03/01/2026
 - 🤭 [Nỗ lực dàn xếp đưa Elon Musk trở lại với ông Trump](https://vnexpress.net/no-luc-dan-xep-dua-elon-musk-tro-lai-voi-ong-trump-4999778.html) - 03:30 03/01/2026
 - 🧑‍💻 [Campuchia - Thái Lan tranh cãi về &#39;làng biên giới bị sáp nhập&#39;](https://vnexpress.net/campuchia-thai-lan-tranh-cai-ve-lang-bien-gioi-bi-sap-nhap-5001302.html) - 02:33 03/01/2026
