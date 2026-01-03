@@ -407,8 +407,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng Phạm Minh Chính tiếp Đại sứ Philippines](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tiep-dai-su-philippines-102260103164244731.htm) - 17:52 03/01/2026
-- 🌜 [Mỹ thông tin việc tấn công Venezuela, bắt giữ Tổng thống Nicolas Maduro; phản ứng của các nước &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 17:15 03/01/2026
+- 💻 [Mỹ thông tin việc tấn công Venezuela, bắt giữ Tổng thống Nicolas Maduro; phản ứng của các nước &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 19:51 03/01/2026
+- 🌜 [Thủ tướng Phạm Minh Chính tiếp Đại sứ Philippines](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tiep-dai-su-philippines-102260103164244731.htm) - 17:52 03/01/2026
 - 🦆 [Chủ tịch nước gửi điện chia buồn về vụ hỏa hoạn nghiêm trọng tại Thụy Sĩ](https://baochinhphu.vn/chu-tich-nuoc-gui-dien-chia-buon-ve-vu-hoa-hoan-nghiem-trong-tai-thuy-si-10226010315330143.htm) - 15:59 03/01/2026
 - 🌝 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 27/12/2025-2/1/2026](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-27-12-2025-2-1-2026-102260101202420308.htm) - 14:42 03/01/2026
 - 🦣 [Linh hoạt trước biến động, kiên định mục tiêu phát triển](https://baochinhphu.vn/linh-hoat-truoc-bien-dong-kien-dinh-muc-tieu-phat-trien-102251226191731974.htm) - 13:17 03/01/2026
