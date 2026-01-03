@@ -411,8 +411,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chủ tịch nước gửi điện chia buồn về vụ hỏa hoạn nghiêm trọng tại Thụy Sĩ](https://baochinhphu.vn/chu-tich-nuoc-gui-dien-chia-buon-ve-vu-hoa-hoan-nghiem-trong-tai-thuy-si-10226010315330143.htm) - 15:59 03/01/2026
-- 🌜 [CẬP NHẬT: Nhiều vụ nổ lớn tại thủ đô Venezuela; phản ứng của Mỹ và các nước](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 15:38 03/01/2026
+- 💻 [Nổ lớn tại thủ đô Venezuela: Giới chức Mỹ xác nhận tấn công; phản ứng của các nước &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/cap-nhat-nhieu-vu-no-lon-tai-thu-do-venezuela-phan-ung-cua-my-va-cac-nuoc-102260103160711801.htm) - 16:15 03/01/2026
+- 🌜 [Chủ tịch nước gửi điện chia buồn về vụ hỏa hoạn nghiêm trọng tại Thụy Sĩ](https://baochinhphu.vn/chu-tich-nuoc-gui-dien-chia-buon-ve-vu-hoa-hoan-nghiem-trong-tai-thuy-si-10226010315330143.htm) - 15:59 03/01/2026
 - 🦆 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 27/12/2025-2/1/2026](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-27-12-2025-2-1-2026-102260101202420308.htm) - 14:42 03/01/2026
 - 🌝 [Linh hoạt trước biến động, kiên định mục tiêu phát triển](https://baochinhphu.vn/linh-hoat-truoc-bien-dong-kien-dinh-muc-tieu-phat-trien-102251226191731974.htm) - 13:17 03/01/2026
 - 🦣 [Kỳ vọng những &#39;bứt phá&#39; rõ nét của ngành văn hóa năm 2026](https://baochinhphu.vn/ky-vong-nhung-but-pha-ro-net-cua-nganh-van-hoa-nam-2026-102251231094942637.htm) - 12:03 03/01/2026
