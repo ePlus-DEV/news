@@ -314,56 +314,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [TPHCM: Rực rỡ vườn hoa xuân bên ga Ba Son](https://www.sggp.org.vn/tphcm-ruc-ro-vuon-hoa-xuan-ben-ga-ba-son-post831904.html) - 04:31 04/01/2026
-- 🌝 [Hôm nay 4-1, Cảng Hàng không Quốc tế Tân Sơn Nhất dự kiến phục vụ hơn 139.000 lượt khách](https://www.sggp.org.vn/hom-nay-4-1-cang-hang-khong-quoc-te-tan-son-nhat-du-kien-phuc-vu-hon-139000-luot-khach-post831911.html) - 04:21 04/01/2026
-- 💃 [Lễ hội Hoa Tớ Dày và các hoạt động chào xuân 2026](https://www.sggp.org.vn/le-hoi-hoa-to-day-va-cac-hoat-dong-chao-xuan-2026-post831906.html) - 03:30 04/01/2026
-- 🧑‍💻 [Venezuela: Phó Tổng thống Delcy Rodriguez được bổ nhiệm làm tổng thống lâm thời](https://www.sggp.org.vn/venezuela-pho-tong-thong-delcy-rodriguez-duoc-bo-nhiem-lam-tong-thong-lam-thoi-post831910.html) - 03:28 04/01/2026
-- 🌊 [Gần 60 doanh nghiệp được vinh danh “Doanh nghiệp Việt Nam điển hình sáng tạo” năm 2025](https://www.sggp.org.vn/gan-60-doanh-nghiep-duoc-vinh-danh-doanh-nghiep-viet-nam-dien-hinh-sang-tao-nam-2025-post831901.html) - 03:25 04/01/2026
-- 🧑‍💻 [Rực rỡ “Sân khấu tinh hoa” mở màn Chung kết “Tân binh toàn năng”](https://www.sggp.org.vn/ruc-ro-san-khau-tinh-hoa-mo-man-chung-ket-tan-binh-toan-nang-post831902.html) - 03:25 04/01/2026
-- ⛽️ [“Ngôi nhà thông minh” của gấu trúc tại Tứ Xuyên](https://www.sggp.org.vn/ngoi-nha-thong-minh-cua-gau-truc-tai-tu-xuyen-post831895.html) - 03:23 04/01/2026
-- 😎 [Vi phạm quyền tác giả, có thể bị phạt đến 500 triệu đồng](https://www.sggp.org.vn/vi-pham-quyen-tac-gia-co-the-bi-phat-den-500-trieu-dong-post831877.html) - 03:23 04/01/2026
-- 🌜 [Các nghị sĩ đảng Dân chủ tại Hạ viện Mỹ họp khẩn về vấn đề Venezuela](https://www.sggp.org.vn/cac-nghi-si-dang-dan-chu-tai-ha-vien-my-hop-khan-ve-van-de-venezuela-post831907.html) - 03:12 04/01/2026
-- 💻 [Đồng Nai: Phát hiện nhiều hung khí sau vụ hỗn chiến bất thành](https://www.sggp.org.vn/dong-nai-phat-hien-nhieu-hung-khi-sau-vu-hon-chien-bat-thanh-post831900.html) - 02:53 04/01/2026
-- 👍 [Bắt đối tượng cướp tiệm vàng ở Lâm Đồng](https://www.sggp.org.vn/bat-doi-tuong-cuop-tiem-vang-o-lam-dong-post831905.html) - 02:51 04/01/2026
-- 🦆 [Mùa hoa sữa về, nồng nàn con phố](https://www.sggp.org.vn/mua-hoa-sua-ve-nong-nan-con-pho-post831889.html) - 02:44 04/01/2026
-- 🦩 [Thể thao thế giới năm 2026: Năm của “bom tấn” và những giấc mơ lớn](https://www.sggp.org.vn/the-thao-the-gioi-nam-2026-nam-cua-bom-tan-va-nhung-giac-mo-lon-post831896.html) - 02:44 04/01/2026
-- 🥰 [Khi đời sống hôn nhân “phơi trần” trên mạng](https://www.sggp.org.vn/khi-doi-song-hon-nhan-phoi-tran-tren-mang-post831885.html) - 02:44 04/01/2026
-- 🎬 [Đường sách TPHCM - “biểu tượng văn hóa mềm”](https://www.sggp.org.vn/duong-sach-tphcm-bieu-tuong-van-hoa-mem-post831886.html) - 02:44 04/01/2026
-- 🦩 [Giữ hồn đình làng giữa lòng đô thị An Khánh](https://www.sggp.org.vn/giu-hon-dinh-lang-giua-long-do-thi-an-khanh-post831891.html) - 02:44 04/01/2026
-- 🌮 [Podcast: Người dân nô nức check-in những địa điểm độc đáo](https://www.sggp.org.vn/podcast-nguoi-dan-no-nuc-check-in-nhung-dia-diem-doc-dao-post831866.html) - 02:00 04/01/2026
-- 👍 [Việt Nam kêu gọi các bên liên quan tình hình Venezuela tôn trọng luật pháp quốc tế](https://www.sggp.org.vn/viet-nam-keu-goi-cac-ben-lien-quan-tinh-hinh-venezuela-ton-trong-luat-phap-quoc-te-post831897.html) - 01:33 04/01/2026
-- 🦒 [Lợi cả đôi đường](https://www.sggp.org.vn/loi-ca-doi-duong-post831875.html) - 01:31 04/01/2026
-- 🤡 [Thông điệp ngoài vũ trụ](https://www.sggp.org.vn/thong-diep-ngoai-vu-tru-post831899.html) - 01:31 04/01/2026
-- 🐎 [Tổng thống Donald Trump: Mỹ sẽ “điều hành” Venezuela](https://www.sggp.org.vn/tong-thong-donald-trump-my-se-dieu-hanh-venezuela-post831898.html) - 01:19 04/01/2026
-- 🦆 [Liên hợp quốc họp khẩn về Venezuela](https://www.sggp.org.vn/lien-hop-quoc-hop-khan-ve-venezuela-post831892.html) - 01:03 04/01/2026
-- 🦅 [Trái dại quê nhà](https://www.sggp.org.vn/trai-dai-que-nha-post831887.html) - 00:27 04/01/2026
-- 🫣 [Những ngày trăn trở đầu năm...](https://www.sggp.org.vn/nhung-ngay-tran-tro-dau-nam-post831888.html) - 00:27 04/01/2026
-- 🎭 [Giữ vững vùng biên](https://www.sggp.org.vn/giu-vung-vung-bien-post831890.html) - 00:27 04/01/2026
-- 🫶 [Thêm sân chơi cho người yêu thơ phường Bến Cát](https://www.sggp.org.vn/them-san-choi-cho-nguoi-yeu-tho-phuong-ben-cat-post831893.html) - 00:27 04/01/2026
-- 🎓 [Giải Pickleball Bàn Cờ năm 2026](https://www.sggp.org.vn/giai-pickleball-ban-co-nam-2026-post831894.html) - 00:26 04/01/2026
-- 🤡 [Báo Sài Gòn Giải Phóng ngày 4/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-412026-post831884.html) - 23:15 03/01/2026
-- 🦅 [Hà Nội thu nhỏ vỉa hè để mở rộng đường](https://www.sggp.org.vn/ha-noi-thu-nho-via-he-de-mo-rong-duong-post831879.html) - 23:15 03/01/2026
-- 🧑‍🏫 [Các sự kiện, hoạt động tiêu biểu của Quốc hội năm 2025](https://www.sggp.org.vn/cac-su-kien-hoat-dong-tieu-bieu-cua-quoc-hoi-nam-2025-post831880.html) - 23:15 03/01/2026
-- 🕴 [Hẹn nhau ở cuối con đường](https://www.sggp.org.vn/hen-nhau-o-cuoi-con-duong-post831881.html) - 23:15 03/01/2026
-- 🦆 [Diễn viên Thanh Hương: Gắng diễn thật đời](https://www.sggp.org.vn/dien-vien-thanh-huong-gang-dien-that-doi-post831882.html) - 23:15 03/01/2026
-- 🎃 [Tác giả trẻ Hải Nguyên: Yêu và viết từ những điều bé nhỏ](https://www.sggp.org.vn/tac-gia-tre-hai-nguyen-yeu-va-viet-tu-nhung-dieu-be-nho-post831883.html) - 23:15 03/01/2026
-- 🌮 [Nhiều nước phản đối Mỹ can thiệp quân sự vào Venezuela](https://www.sggp.org.vn/nhieu-nuoc-phan-doi-my-can-thiep-quan-su-vao-venezuela-post831874.html) - 22:42 03/01/2026
-- 🥰 [Năm của âm nhạc truyền cảm hứng](https://www.sggp.org.vn/nam-cua-am-nhac-truyen-cam-hung-post831878.html) - 22:42 03/01/2026
-- 🕯 [Khi đô thị bớt tiếng “loa kẹo kéo”](https://www.sggp.org.vn/khi-do-thi-bot-tieng-loa-keo-keo-post831876.html) - 22:41 03/01/2026
-- 🙉 [Một trọng tài không vượt qua được bài kiểm tra thể lực](https://www.sggp.org.vn/mot-trong-tai-khong-vuot-qua-duoc-bai-kiem-tra-the-luc-post831873.html) - 22:07 03/01/2026
-- 💡 [Bộ Ngoại giao khuyến cáo công dân Việt Nam hạn chế đến Venezuela](https://www.sggp.org.vn/bo-ngoai-giao-khuyen-cao-cong-dan-viet-nam-han-che-den-venezuela-post831872.html) - 16:12 03/01/2026
-- 💫 [Công an làm việc với tài xế taxi bị tố tráo tiền của khách nước ngoài](https://www.sggp.org.vn/cong-an-lam-viec-voi-tai-xe-taxi-bi-to-trao-tien-cua-khach-nuoc-ngoai-post831818.html) - 15:08 03/01/2026
-- 🧑‍💻 [Đồng Tháp ra mắt Không gian trải nghiệm “Đêm Tân Thuận Tây”](https://www.sggp.org.vn/dong-thap-ra-mat-khong-gian-trai-nghiem-dem-tan-thuan-tay-post831869.html) - 14:31 03/01/2026
-- 🎊 [Tòa án Mỹ truy tố Tổng thống Venezuela Nicolás Maduro và phu nhân](https://www.sggp.org.vn/toa-an-my-truy-to-tong-thong-venezuela-nicolas-maduro-va-phu-nhan-post831870.html) - 14:17 03/01/2026
-- 🤖 [Dành 580.133 tỷ đồng cho hiện đại hóa, nâng cao chất lượng giáo dục và đào tạo](https://www.sggp.org.vn/danh-580133-ty-dong-cho-hien-dai-hoa-nang-cao-chat-luong-giao-duc-va-dao-tao-post831867.html) - 13:31 03/01/2026
-- 💫 [Mỹ tấn công Venezuela: Các nước kêu gọi kiềm chế và tôn trọng luật pháp quốc tế](https://www.sggp.org.vn/my-tan-cong-venezuela-cac-nuoc-keu-goi-kiem-che-va-ton-trong-luat-phap-quoc-te-post831868.html) - 13:29 03/01/2026
-- 👨‍🏫 [Bản tin tối 3-1: Tổng thống Mỹ Donald Trump ra lệnh tấn công Venezuela](https://www.sggp.org.vn/ban-tin-toi-3-1-tong-thong-my-donald-trump-ra-lenh-tan-cong-venezuela-post831862.html) - 13:00 03/01/2026
-- 🧰 [Podcast bản tin tối 3-1: Đẩy nhanh tiến độ các dự án đầu tư xây dựng chào mừng Đại hội lần thứ XIV của Đảng](https://www.sggp.org.vn/podcast-ban-tin-toi-3-1-day-nhanh-tien-do-cac-du-an-dau-tu-xay-dung-chao-mung-dai-hoi-lan-thu-xiv-cua-dang-post831863.html) - 13:00 03/01/2026
-- 🥰 [Một thuyền trưởng vi phạm nồng độ cồn khi đang chở khách du lịch](https://www.sggp.org.vn/mot-thuyen-truong-vi-pham-nong-do-con-khi-dang-cho-khach-du-lich-post831864.html) - 12:56 03/01/2026
-- 💼 [Cầu lông trẻ Việt Nam định hình chiến lược phát triển](https://www.sggp.org.vn/cau-long-tre-viet-nam-dinh-hinh-chien-luoc-phat-trien-post831841.html) - 12:50 03/01/2026
-- 🤗 [Indonesia công bố tân HLV trưởng](https://www.sggp.org.vn/indonesia-cong-bo-tan-hlv-truong-post831865.html) - 12:49 03/01/2026
-- 🦩 [&quot;Nhà mình đi thôi&quot; gia nhập &quot;đường đua&quot; phim tết 2026](https://www.sggp.org.vn/nha-minh-di-thoi-gia-nhap-duong-dua-phim-tet-2026-post831858.html) - 12:24 03/01/2026
-- 🫶 [VAR được áp dụng tại vòng chung kết U23 châu Á 2026](https://www.sggp.org.vn/var-duoc-ap-dung-tai-vong-chung-ket-u23-chau-a-2026-post831859.html) - 12:24 03/01/2026<!-- sggp:END -->
+- 🪜 [Hà Nội: Khách du lịch tăng kỷ lục dịp Tết Dương lịch 2026](https://www.sggp.org.vn/ha-noi-khach-du-lich-tang-ky-luc-dip-tet-duong-lich-2026-post831915.html) - 05:21 04/01/2026
+- 🌝 [Hoàng Nguyên Thanh và Phạm Thị Hồng Lệ chiến thắng ở giải việt dã Chinh phục Bà Rá năm 2026](https://www.sggp.org.vn/hoang-nguyen-thanh-va-pham-thi-hong-le-chien-thang-o-giai-viet-da-chinh-phuc-ba-ra-nam-2026-post831903.html) - 05:13 04/01/2026
+- 💃 [Saxophone Trần Mạnh Tuấn với đêm nhạc “Gửi người em gái”](https://www.sggp.org.vn/saxophone-tran-manh-tuan-voi-dem-nhac-gui-nguoi-em-gai-post831913.html) - 04:48 04/01/2026
+- 🧑‍💻 [Công ty XSKT Bà Rịa-Vũng Tàu: Phát hành mẫu vé mới trong năm 2026](https://www.sggp.org.vn/cong-ty-xskt-ba-ria-vung-tau-phat-hanh-mau-ve-moi-trong-nam-2026-post831917.html) - 04:47 04/01/2026
+- 🌊 [Yến sào Khánh Hòa: 5 lần liên tiếp lọt top 10 doanh nghiệp sáng tạo xuất sắc](https://www.sggp.org.vn/yen-sao-khanh-hoa-5-lan-lien-tiep-lot-top-10-doanh-nghiep-sang-tao-xuat-sac-post831914.html) - 04:43 04/01/2026
+- 🧑‍💻 [TPHCM: Rực rỡ vườn hoa xuân bên ga Ba Son](https://www.sggp.org.vn/tphcm-ruc-ro-vuon-hoa-xuan-ben-ga-ba-son-post831904.html) - 04:31 04/01/2026
+- ⛽️ [Hôm nay 4-1, Cảng Hàng không quốc tế Tân Sơn Nhất dự kiến phục vụ hơn 139.000 lượt khách](https://www.sggp.org.vn/hom-nay-4-1-cang-hang-khong-quoc-te-tan-son-nhat-du-kien-phuc-vu-hon-139000-luot-khach-post831911.html) - 04:21 04/01/2026
+- 😎 [Lễ hội Hoa Tớ Dày và các hoạt động chào xuân 2026](https://www.sggp.org.vn/le-hoi-hoa-to-day-va-cac-hoat-dong-chao-xuan-2026-post831906.html) - 03:30 04/01/2026
+- 🌜 [Venezuela: Phó Tổng thống Delcy Rodriguez được bổ nhiệm làm tổng thống lâm thời](https://www.sggp.org.vn/venezuela-pho-tong-thong-delcy-rodriguez-duoc-bo-nhiem-lam-tong-thong-lam-thoi-post831910.html) - 03:28 04/01/2026
+- 💻 [Gần 60 doanh nghiệp được vinh danh “Doanh nghiệp Việt Nam điển hình sáng tạo” năm 2025](https://www.sggp.org.vn/gan-60-doanh-nghiep-duoc-vinh-danh-doanh-nghiep-viet-nam-dien-hinh-sang-tao-nam-2025-post831901.html) - 03:25 04/01/2026
+- 👍 [Rực rỡ “Sân khấu tinh hoa” mở màn Chung kết “Tân binh toàn năng”](https://www.sggp.org.vn/ruc-ro-san-khau-tinh-hoa-mo-man-chung-ket-tan-binh-toan-nang-post831902.html) - 03:25 04/01/2026
+- 🦆 [“Ngôi nhà thông minh” của gấu trúc tại Tứ Xuyên](https://www.sggp.org.vn/ngoi-nha-thong-minh-cua-gau-truc-tai-tu-xuyen-post831895.html) - 03:23 04/01/2026
+- 🦩 [Vi phạm quyền tác giả, có thể bị phạt đến 500 triệu đồng](https://www.sggp.org.vn/vi-pham-quyen-tac-gia-co-the-bi-phat-den-500-trieu-dong-post831877.html) - 03:23 04/01/2026
+- 🥰 [Các nghị sĩ đảng Dân chủ tại Hạ viện Mỹ họp khẩn về vấn đề Venezuela](https://www.sggp.org.vn/cac-nghi-si-dang-dan-chu-tai-ha-vien-my-hop-khan-ve-van-de-venezuela-post831907.html) - 03:12 04/01/2026
+- 🎬 [Đồng Nai: Phát hiện nhiều hung khí sau vụ hỗn chiến bất thành](https://www.sggp.org.vn/dong-nai-phat-hien-nhieu-hung-khi-sau-vu-hon-chien-bat-thanh-post831900.html) - 02:53 04/01/2026
+- 🦩 [Bắt đối tượng cướp tiệm vàng ở Lâm Đồng](https://www.sggp.org.vn/bat-doi-tuong-cuop-tiem-vang-o-lam-dong-post831905.html) - 02:51 04/01/2026
+- 🌮 [Mùa hoa sữa về, nồng nàn con phố](https://www.sggp.org.vn/mua-hoa-sua-ve-nong-nan-con-pho-post831889.html) - 02:44 04/01/2026
+- 👍 [Thể thao thế giới năm 2026: Năm của “bom tấn” và những giấc mơ lớn](https://www.sggp.org.vn/the-thao-the-gioi-nam-2026-nam-cua-bom-tan-va-nhung-giac-mo-lon-post831896.html) - 02:44 04/01/2026
+- 🦒 [Khi đời sống hôn nhân “phơi trần” trên mạng](https://www.sggp.org.vn/khi-doi-song-hon-nhan-phoi-tran-tren-mang-post831885.html) - 02:44 04/01/2026
+- 🤡 [Đường sách TPHCM - “biểu tượng văn hóa mềm”](https://www.sggp.org.vn/duong-sach-tphcm-bieu-tuong-van-hoa-mem-post831886.html) - 02:44 04/01/2026
+- 🐎 [Giữ hồn đình làng giữa lòng đô thị An Khánh](https://www.sggp.org.vn/giu-hon-dinh-lang-giua-long-do-thi-an-khanh-post831891.html) - 02:44 04/01/2026
+- 🦆 [Podcast: Người dân nô nức check-in những địa điểm độc đáo](https://www.sggp.org.vn/podcast-nguoi-dan-no-nuc-check-in-nhung-dia-diem-doc-dao-post831866.html) - 02:00 04/01/2026
+- 🦅 [Việt Nam kêu gọi các bên liên quan tình hình Venezuela tôn trọng luật pháp quốc tế](https://www.sggp.org.vn/viet-nam-keu-goi-cac-ben-lien-quan-tinh-hinh-venezuela-ton-trong-luat-phap-quoc-te-post831897.html) - 01:33 04/01/2026
+- 🫣 [Lợi cả đôi đường](https://www.sggp.org.vn/loi-ca-doi-duong-post831875.html) - 01:31 04/01/2026
+- 🎭 [Thông điệp ngoài vũ trụ](https://www.sggp.org.vn/thong-diep-ngoai-vu-tru-post831899.html) - 01:31 04/01/2026
+- 🫶 [Tổng thống Donald Trump: Mỹ sẽ “điều hành” Venezuela](https://www.sggp.org.vn/tong-thong-donald-trump-my-se-dieu-hanh-venezuela-post831898.html) - 01:19 04/01/2026
+- 🎓 [Liên hợp quốc họp khẩn về Venezuela](https://www.sggp.org.vn/lien-hop-quoc-hop-khan-ve-venezuela-post831892.html) - 01:03 04/01/2026
+- 🤡 [Trái dại quê nhà](https://www.sggp.org.vn/trai-dai-que-nha-post831887.html) - 00:27 04/01/2026
+- 🦅 [Những ngày trăn trở đầu năm...](https://www.sggp.org.vn/nhung-ngay-tran-tro-dau-nam-post831888.html) - 00:27 04/01/2026
+- 🧑‍🏫 [Giữ vững vùng biên](https://www.sggp.org.vn/giu-vung-vung-bien-post831890.html) - 00:27 04/01/2026
+- 🕴 [Thêm sân chơi cho người yêu thơ phường Bến Cát](https://www.sggp.org.vn/them-san-choi-cho-nguoi-yeu-tho-phuong-ben-cat-post831893.html) - 00:27 04/01/2026
+- 🦆 [Giải Pickleball Bàn Cờ năm 2026](https://www.sggp.org.vn/giai-pickleball-ban-co-nam-2026-post831894.html) - 00:26 04/01/2026
+- 🎃 [Báo Sài Gòn Giải Phóng ngày 4/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-412026-post831884.html) - 23:15 03/01/2026
+- 🌮 [Hà Nội thu nhỏ vỉa hè để mở rộng đường](https://www.sggp.org.vn/ha-noi-thu-nho-via-he-de-mo-rong-duong-post831879.html) - 23:15 03/01/2026
+- 🥰 [Các sự kiện, hoạt động tiêu biểu của Quốc hội năm 2025](https://www.sggp.org.vn/cac-su-kien-hoat-dong-tieu-bieu-cua-quoc-hoi-nam-2025-post831880.html) - 23:15 03/01/2026
+- 🕯 [Hẹn nhau ở cuối con đường](https://www.sggp.org.vn/hen-nhau-o-cuoi-con-duong-post831881.html) - 23:15 03/01/2026
+- 🙉 [Diễn viên Thanh Hương: Gắng diễn thật đời](https://www.sggp.org.vn/dien-vien-thanh-huong-gang-dien-that-doi-post831882.html) - 23:15 03/01/2026
+- 💡 [Tác giả trẻ Hải Nguyên: Yêu và viết từ những điều bé nhỏ](https://www.sggp.org.vn/tac-gia-tre-hai-nguyen-yeu-va-viet-tu-nhung-dieu-be-nho-post831883.html) - 23:15 03/01/2026
+- 💫 [Nhiều nước phản đối Mỹ can thiệp quân sự vào Venezuela](https://www.sggp.org.vn/nhieu-nuoc-phan-doi-my-can-thiep-quan-su-vao-venezuela-post831874.html) - 22:42 03/01/2026
+- 🧑‍💻 [Năm của âm nhạc truyền cảm hứng](https://www.sggp.org.vn/nam-cua-am-nhac-truyen-cam-hung-post831878.html) - 22:42 03/01/2026
+- 🎊 [Khi đô thị bớt tiếng “loa kẹo kéo”](https://www.sggp.org.vn/khi-do-thi-bot-tieng-loa-keo-keo-post831876.html) - 22:41 03/01/2026
+- 🤖 [Một trọng tài không vượt qua được bài kiểm tra thể lực](https://www.sggp.org.vn/mot-trong-tai-khong-vuot-qua-duoc-bai-kiem-tra-the-luc-post831873.html) - 22:07 03/01/2026
+- 💫 [Bộ Ngoại giao khuyến cáo công dân Việt Nam hạn chế đến Venezuela](https://www.sggp.org.vn/bo-ngoai-giao-khuyen-cao-cong-dan-viet-nam-han-che-den-venezuela-post831872.html) - 16:12 03/01/2026
+- 👨‍🏫 [Công an làm việc với tài xế taxi bị tố tráo tiền của khách nước ngoài](https://www.sggp.org.vn/cong-an-lam-viec-voi-tai-xe-taxi-bi-to-trao-tien-cua-khach-nuoc-ngoai-post831818.html) - 15:08 03/01/2026
+- 🧰 [Đồng Tháp ra mắt Không gian trải nghiệm “Đêm Tân Thuận Tây”](https://www.sggp.org.vn/dong-thap-ra-mat-khong-gian-trai-nghiem-dem-tan-thuan-tay-post831869.html) - 14:31 03/01/2026
+- 🥰 [Tòa án Mỹ truy tố Tổng thống Venezuela Nicolás Maduro và phu nhân](https://www.sggp.org.vn/toa-an-my-truy-to-tong-thong-venezuela-nicolas-maduro-va-phu-nhan-post831870.html) - 14:17 03/01/2026
+- 💼 [Dành 580.133 tỷ đồng cho hiện đại hóa, nâng cao chất lượng giáo dục và đào tạo](https://www.sggp.org.vn/danh-580133-ty-dong-cho-hien-dai-hoa-nang-cao-chat-luong-giao-duc-va-dao-tao-post831867.html) - 13:31 03/01/2026
+- 🤗 [Mỹ tấn công Venezuela: Các nước kêu gọi kiềm chế và tôn trọng luật pháp quốc tế](https://www.sggp.org.vn/my-tan-cong-venezuela-cac-nuoc-keu-goi-kiem-che-va-ton-trong-luat-phap-quoc-te-post831868.html) - 13:29 03/01/2026
+- 🦩 [Bản tin tối 3-1: Tổng thống Mỹ Donald Trump ra lệnh tấn công Venezuela](https://www.sggp.org.vn/ban-tin-toi-3-1-tong-thong-my-donald-trump-ra-lenh-tan-cong-venezuela-post831862.html) - 13:00 03/01/2026
+- 🫶 [Podcast bản tin tối 3-1: Đẩy nhanh tiến độ các dự án đầu tư xây dựng chào mừng Đại hội lần thứ XIV của Đảng](https://www.sggp.org.vn/podcast-ban-tin-toi-3-1-day-nhanh-tien-do-cac-du-an-dau-tu-xay-dung-chao-mung-dai-hoi-lan-thu-xiv-cua-dang-post831863.html) - 13:00 03/01/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
