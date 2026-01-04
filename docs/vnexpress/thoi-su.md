@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xác minh nhóm người cầm xẻng dọa đánh khách nước ngoài ở Nha Trang](https://vnexpress.net/xac-minh-nhom-nguoi-cam-xeng-doa-danh-khach-nuoc-ngoai-o-nha-trang-5001656.html) - 12:27 04/01/2026
 - 🤓 [Tìm thấy hai hài cốt liệt sĩ cùng túi da đựng tài liệu](https://vnexpress.net/tim-thay-hai-hai-cot-liet-si-cung-tui-da-dung-tai-lieu-5001639.html) - 12:13 04/01/2026
-- ⚗️ [Bãi đỗ xe trong đô thị sẽ áp dụng thu phí tự động](https://vnexpress.net/bai-do-xe-trong-do-thi-se-ap-dung-thu-phi-tu-dong-5001650.html) - 12:08 04/01/2026
+- ⚗️ [Sẽ thu phí tự động tại bãi đỗ xe đô thị](https://vnexpress.net/se-thu-phi-tu-dong-tai-bai-do-xe-do-thi-5001650.html) - 12:08 04/01/2026
 - 🌊 [11 ôtô tông liên hoàn trên cao tốc La Sơn - Hòa Liên](https://vnexpress.net/11-oto-tong-lien-hoan-tren-cao-toc-la-son-hoa-lien-5001665.html) - 12:00 04/01/2026
 - 🎓 [94 người chết do tai nạn giao thông dịp Tết Dương lịch](https://vnexpress.net/94-nguoi-chet-do-tai-nan-giao-thong-dip-tet-duong-lich-5001657.html) - 11:44 04/01/2026
 - 🔥 [Cửa ngõ Hà Nội, TP HCM ùn ứ nhẹ sau kỳ nghỉ 4 ngày](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-u-nhe-sau-ky-nghi-4-ngay-5001649.html) - 11:20 04/01/2026
