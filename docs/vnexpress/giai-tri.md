@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Thiên đường máu&#39; - cạm bẫy từ niềm tin việc nhẹ lương cao](https://vnexpress.net/giai-tri/phim/thu-vien-phim/thien-duong-mau-867) - 12:30 04/01/2026
+- 🌏 [&#39;Thiên đường máu&#39; - cạm bẫy việc nhẹ lương cao](https://vnexpress.net/giai-tri/phim/thu-vien-phim/thien-duong-mau-867) - 12:30 04/01/2026
 - 💫 [&#39;Avatar 3&#39; vượt một tỷ USD](https://vnexpress.net/avatar-3-vuot-mot-ty-usd-5001645.html) - 11:21 04/01/2026
 - 🌮 [Váy áo tôn chiều cao 1,57 m của vợ Messi](https://vnexpress.net/vay-ao-ton-chieu-cao-1-57-m-cua-vo-messi-5000958.html) - 09:25 04/01/2026
 - 🧠 [Phong cách cô gái Nga vào top đẹp nhất thế giới](https://vnexpress.net/phong-cach-co-gai-nga-vao-top-dep-nhat-the-gioi-5001572.html) - 07:21 04/01/2026
