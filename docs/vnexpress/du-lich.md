@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [5 tỉnh thành vượt nghìn tỷ đồng doanh thu du lịch dịp Tết Dương lịch](https://vnexpress.net/5-tinh-thanh-vuot-nghin-ty-dong-doanh-thu-du-lich-dip-tet-duong-lich-5001624.html) - 13:23 04/01/2026
+- 💂 [Doanh thu du lịch nhiều tỉnh thành vượt nghìn tỷ đồng dịp Tết Dương lịch](https://vnexpress.net/doanh-thu-du-lich-nhieu-tinh-thanh-vuot-nghin-ty-dong-dip-tet-duong-lich-5001624.html) - 13:23 04/01/2026
 - 🪄 [Khách vui chơi chật kín trung tâm thương mại Hà Nội dịp lễ](https://vnexpress.net/khach-vui-choi-chat-kin-trung-tam-thuong-mai-ha-noi-dip-le-5001673.html) - 13:00 04/01/2026
 - 🦅 [Du khách đổ đến check in vườn hoa xuân cạnh ga metro](https://vnexpress.net/du-khach-do-den-check-in-vuon-hoa-xuan-canh-ga-metro-5001606.html) - 11:23 04/01/2026
 - 🕴 [5 xu hướng du lịch năm 2026](https://vnexpress.net/5-xu-huong-du-lich-nam-2026-5001568.html) - 04:39 04/01/2026
