@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd cầm hòa Leeds ở Ngoại hạng Anh](https://vnexpress.net/man-utd-cam-hoa-leeds-o-ngoai-hang-anh-5001681.html) - 14:22 04/01/2026
+- 🪜 [Man Utd cầm hoà Leeds ở Ngoại hạng Anh](https://vnexpress.net/man-utd-cam-hoa-leeds-o-ngoai-hang-anh-5001681.html) - 14:22 04/01/2026
 - 🦩 [Thủ môn Barca đẩy ngã đồng đội để chắn cú sút](https://vnexpress.net/thu-mon-barca-day-nga-dong-doi-de-chan-cu-sut-5001616.html) - 09:03 04/01/2026
 - 🧰 [Việt Nam nhẹ cân nhất ở VCK U23 châu Á 2026](https://vnexpress.net/viet-nam-nhe-can-nhat-o-vck-u23-chau-a-2026-5001613.html) - 08:14 04/01/2026
 - 🤗 [Amorim ám chỉ mâu thuẫn với ban lãnh đạo Man Utd](https://vnexpress.net/amorim-am-chi-mau-thuan-voi-ban-lanh-dao-man-utd-5001567.html) - 05:29 04/01/2026
