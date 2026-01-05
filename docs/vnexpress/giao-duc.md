@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ba nghề &#39;khát&#39; nhân lực nhất Singapore](https://vnexpress.net/ba-nghe-khat-nhan-luc-nhat-singapore-5001861.html) - 07:53 05/01/2026
-- 🦆 [Tiến sĩ Hàn Quốc giải quyết dứt điểm bài toán 60 năm tuổi](https://vnexpress.net/tien-si-han-quoc-giai-quyet-dut-diem-bai-toan-60-nam-tuoi-5001937.html) - 06:53 05/01/2026
-- 🦩 [Đại học Ngoại thương mở loạt ngành công nghệ, trí tuệ nhân tạo](https://vnexpress.net/dai-hoc-ngoai-thuong-mo-loat-nganh-cong-nghe-tri-tue-nhan-tao-5001778.html) - 03:35 05/01/2026
-- 🌮 [Trung học nghề có thể là &#39;lối thoát&#39; cho áp lực thi lớp 10](https://vnexpress.net/trung-hoc-nghe-co-the-la-loi-thoat-cho-ap-luc-thi-lop-10-4997301.html) - 02:29 05/01/2026
-- 🔭 [Giáo sư Toán học chuyển hướng ở tuổi 50](https://vnexpress.net/giao-su-toan-hoc-chuyen-huong-o-tuoi-50-5001072.html) - 23:20 04/01/2026
-- 💡 [Du học sinh trường top cũng &#39;khó thở&#39; vì việc làm](https://vnexpress.net/du-hoc-sinh-truong-top-cung-kho-tho-vi-viec-lam-5001666.html) - 14:46 04/01/2026
-- 🥰 [Đảo nào có trữ lượng đất hiếm lớn nhất thế giới?](https://vnexpress.net/dao-nao-co-tru-luong-dat-hiem-lon-nhat-the-gioi-5001591.html) - 12:31 04/01/2026
-- 🐲 [20 tỉnh, thành có học sinh đỗ Đại học Quốc gia TP HCM đông nhất](https://vnexpress.net/20-tinh-thanh-co-hoc-sinh-do-dai-hoc-quoc-gia-tp-hcm-dong-nhat-5001322.html) - 03:00 04/01/2026
-- 🦒 [Đại học đầu tiên tuyển sinh bằng bài đánh giá định hướng nghề nghiệp](https://vnexpress.net/6-phuong-thuc-tuyen-sinh-nam-2026-cua-dai-hoc-van-lang-5001242.html) - 01:17 04/01/2026
-- 🦆 [&#39;Mỏ vàng&#39; việc làm ngành bán dẫn ở Đài Loan chờ sinh viên Việt](https://vnexpress.net/mo-vang-viec-lam-nganh-ban-dan-o-dai-loan-cho-sinh-vien-viet-5001424.html) - 00:32 04/01/2026
-- 🧰 [Thành phố nào từ nhỏ nhất thành rộng nhất cả nước sau sáp nhập?](https://vnexpress.net/thanh-pho-nao-tu-nho-nhat-thanh-rong-nhat-ca-nuoc-sau-sap-nhap-5001344.html) - 12:16 03/01/2026
-- 🐘 [Tiến sĩ nộp 500 đơn xin việc vẫn thất nghiệp](https://vnexpress.net/tien-si-nop-500-don-xin-viec-van-that-nghiep-5001144.html) - 01:33 03/01/2026
-- 🤓 [Hơn 30 đại học công bố phương thức xét tuyển năm 2026](https://vnexpress.net/hon-30-dai-hoc-cong-bo-phuong-thuc-xet-tuyen-nam-2026-5000014.html) - 23:00 02/01/2026
-- 🧰 [Người dân nước nào uống bia nhiều nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-uong-bia-nhieu-nhat-the-gioi-5001228.html) - 13:39 02/01/2026
-- 🧑‍💻 [Bác tin sách giáo khoa lịch sử &#39;bỏ qua&#39; Quang Trung](https://vnexpress.net/bac-tin-sach-giao-khoa-lich-su-bo-qua-quang-trung-5001205.html) - 10:50 02/01/2026
-- 🫶 [Cuộc đời phi thường từ cô bé vắt sữa đến giải &#39;Nobel máy tính&#39;](https://vnexpress.net/cuoc-doi-phi-thuong-tu-co-be-vat-sua-den-giai-nobel-may-tinh-5000677.html) - 01:15 02/01/2026
-- 🪜 [Giáo viên hợp đồng chạnh lòng vì thưởng Tết](https://vnexpress.net/thuong-tet-giao-vien-hop-dong-111-theo-nghi-dinh-73-nhu-the-nao-5000440.html) - 23:00 01/01/2026
-- 🎊 [Học phí 10 đại học tốt nhất Hàn Quốc năm 2026](https://vnexpress.net/hoc-phi-10-dai-hoc-tot-nhat-han-quoc-nam-2026-5000712.html) - 17:00 01/01/2026
-- 🧐 [Người dân nước nào dành ít thời gian vào mạng nhất?](https://vnexpress.net/nguoi-dan-nuoc-nao-danh-it-thoi-gian-vao-mang-nhat-5000863.html) - 13:04 01/01/2026
-- 🌈 [Đại học Sư phạm Hà Nội mở ngành Trí tuệ nhân tạo](https://vnexpress.net/dai-hoc-su-pham-ha-noi-mo-nganh-tri-tue-nhan-tao-5000939.html) - 10:33 01/01/2026
-- 🥰 [Giáo sư Mỹ dùng cách thi &#39;cổ xưa&#39; để chấm điểm sinh viên](https://vnexpress.net/giao-su-my-dung-cach-thi-co-xua-de-cham-diem-sinh-vien-4997912.html) - 03:00 01/01/2026
-- 🎡 [6 thay đổi lớn của ngành giáo dục từ năm 2026](https://vnexpress.net/6-thay-doi-lon-cua-nganh-giao-duc-tu-nam-2026-5000605.html) - 00:38 01/01/2026
-- 🎊 [15 cách chúc mừng năm mới 2026 bằng tiếng Anh](https://vnexpress.net/15-cach-chuc-mung-nam-moi-2026-bang-tieng-anh-5000626.html) - 17:00 31/12/2025
-- 🌏 [7 nghiên cứu giáo dục nổi bật năm 2025](https://vnexpress.net/7-nghien-cuu-giao-duc-noi-bat-nam-2025-4993894.html) - 14:55 31/12/2025
-- 🥸 [Người dân nước nào mặc đồ chấm bi vào ngày đầu năm mới?](https://vnexpress.net/nguoi-dan-nuoc-nao-mac-do-cham-bi-vao-ngay-dau-nam-moi-5000148.html) - 12:26 31/12/2025
-- 🕴 [Trung Quốc cắt giảm bài kiểm tra ở tất cả khối lớp](https://vnexpress.net/trung-quoc-cat-giam-bai-kiem-tra-o-tat-ca-khoi-lop-4999691.html) - 06:43 31/12/2025
-- 💂 [Lợi thế giúp &#39;Kết nối tri thức với cuộc sống&#39; được chọn làm sách thống nhất](https://vnexpress.net/loi-the-giup-ket-noi-tri-thuc-voi-cuoc-song-duoc-chon-lam-sach-thong-nhat-5000431.html) - 03:30 31/12/2025
-- 🕴 [Hình phạt &#39;lạ&#39; cho nam sinh đi muộn khiến triệu người thích thú](https://vnexpress.net/hinh-phat-la-cho-nam-sinh-di-muon-khien-trieu-nguoi-thich-thu-4999677.html) - 01:36 31/12/2025
-- 🌋 [Giáo viên nhận thưởng Tết khoảng 10-14 triệu đồng](https://vnexpress.net/giao-vien-duoc-chia-thuong-tet-theo-nghi-dinh-73-nhu-the-nao-5000153.html) - 17:00 30/12/2025
-- 🪜 [Các trường thuộc Bộ Giáo dục giảm khoảng 3.000 biên chế](https://vnexpress.net/cac-truong-thuoc-bo-giao-duc-giam-khoang-3-000-bien-che-5000282.html) - 14:53 30/12/2025
-- 🕴 [Hoa xác thối là quốc hoa của nước Đông Nam Á nào?](https://vnexpress.net/hoa-xac-thoi-la-quoc-hoa-cua-nuoc-dong-nam-a-nao-5000238.html) - 13:24 30/12/2025
-- 🎃 [Thành lập trường Đại học Tâm Anh](https://vnexpress.net/thanh-lap-truong-dai-hoc-tam-anh-5000196.html) - 09:15 30/12/2025
-- 🦏 [Trường học ở TP HCM sẽ siết điện thoại vào giờ ra chơi](https://vnexpress.net/truong-hoc-o-tp-hcm-se-siet-dien-thoai-vao-gio-ra-choi-5000132.html) - 08:07 30/12/2025
-- 🧑‍🏫 [15 nghề không cần bằng đại học có lương cao nhất ở Mỹ](https://vnexpress.net/15-nghe-khong-can-bang-dai-hoc-co-luong-cao-nhat-o-my-4999670.html) - 07:06 30/12/2025
-- 💡 [5 học giả danh tiếng gốc Hoa về nước](https://vnexpress.net/5-hoc-gia-danh-tieng-goc-hoa-ve-nuoc-4998643.html) - 06:37 30/12/2025
-- 🐎 [Hơn 700 sinh viên sư phạm ra trường vẫn bị nợ 145 triệu đồng tiền hỗ trợ](https://vnexpress.net/hon-700-sinh-vien-su-pham-ra-truong-van-bi-no-145-trieu-dong-tien-ho-tro-4999744.html) - 02:28 30/12/2025
-- 🧰 [Ẵm học bổng 7,1 tỷ đồng nhờ bài luận về kính vạn hoa](https://vnexpress.net/am-hoc-bong-7-1-ty-dong-nho-bai-luan-ve-kinh-van-hoa-4999580.html) - 23:09 29/12/2025
-- 🙉 [Học sinh quên cách xem đồng hồ sau lệnh cấm điện thoại](https://vnexpress.net/hoc-sinh-quen-cach-xem-dong-ho-sau-lenh-cam-dien-thoai-4999395.html) - 14:53 29/12/2025
-- ⚗️ [Nước nào là mỏ &#39;vàng đen&#39; lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-la-mo-vang-den-lon-nhat-the-gioi-4999679.html) - 13:12 29/12/2025
-- 🌝 [Hơn 4.000 trường học Hàn Quốc biến mất vì thiếu học sinh](https://vnexpress.net/hon-4-000-truong-hoc-han-quoc-bien-mat-vi-thieu-hoc-sinh-4999493.html) - 09:12 29/12/2025
-- ⛽️ [Thầy giáo bị tố sàm sỡ nữ sinh lớp 8 trong trường](https://vnexpress.net/thay-giao-bi-to-sam-so-nu-sinh-lop-8-trong-truong-4999494.html) - 07:04 29/12/2025
-- 🌜 [Giáo dục 2025 - Đột phá và xáo trộn](https://vnexpress.net/nhung-su-kien-giao-duc-noi-bat-2025-4995006.html) - 06:26 29/12/2025
-- ⚗️ [Hà Nội đổi lịch nghỉ Tết Dương lịch cho học sinh](https://vnexpress.net/ha-noi-doi-lich-nghi-tet-duong-lich-cho-hoc-sinh-4999449.html) - 04:34 29/12/2025
-- 🧰 [Trường Ngôi Sao Hoàng Mai trao 20 suất học bổng toàn phần](https://vnexpress.net/truong-ngoi-sao-hoang-mai-trao-20-suat-hoc-bong-toan-phan-4999357.html) - 04:00 29/12/2025
-- 🤗 [Nam sinh dùng bột phấn &#39;bẻ khóa&#39; két sắt đựng điện thoại của lớp](https://vnexpress.net/nam-sinh-dung-bot-phan-be-khoa-ket-sat-dung-dien-thoai-cua-lop-4999378.html) - 03:43 29/12/2025
-- 🔥 [Nữ tiến sĩ Việt với những dự án pin &#39;mật&#39; cùng Bộ Năng lượng Mỹ](https://vnexpress.net/nu-tien-si-viet-voi-nhung-du-an-pin-mat-cung-bo-nang-luong-my-4994389.html) - 23:29 28/12/2025
-- 💪 [Đại học phương Tây hiếm gắn tên &#39;quốc gia&#39;, &#39;quốc tế&#39;](https://vnexpress.net/dai-hoc-phuong-tay-hiem-gan-ten-quoc-gia-quoc-te-4997422.html) - 17:00 28/12/2025
-- 💂 [Thêm một đại học tư thục dự kiến mở ngành Y khoa](https://vnexpress.net/phuong-thuc-to-hop-tuyen-sinh-dai-hoc-cong-nghe-tp-hcm-nam-2026-chi-tiet-4999221.html) - 15:04 28/12/2025
-- 🌮 [Thành phố có nhiều tòa nhà chọc trời nhất Đông Nam Á ở nước nào?](https://vnexpress.net/thanh-pho-co-nhieu-toa-nha-choc-troi-nhat-dong-nam-a-o-nuoc-nao-4999254.html) - 13:23 28/12/2025
-- 🪄 [Đại học &#39;ra giá&#39; 11.000 USD để xóa nợ môn](https://vnexpress.net/dai-hoc-ra-gia-11-000-usd-de-xoa-no-mon-4999108.html) - 07:00 28/12/2025
-- 🎡 [Chi tiền tỷ tặng sinh viên áo blouse cao cấp, Y Hà Nội gây &#39;sốt&#39;](https://vnexpress.net/chi-tien-ty-tang-sinh-vien-ao-blouse-cao-cap-y-ha-noi-gay-sot-4999004.html) - 04:13 28/12/2025
-- 🌈 [Thủ khoa Kỹ thuật phần mềm đầu tiên của Học viện Kỹ thuật quân sự](https://vnexpress.net/thu-khoa-ky-thuat-phan-mem-dau-tien-cua-hoc-vien-ky-thuat-quan-su-4998898.html) - 17:17 27/12/2025
-- 🎊 [Lần đầu vinh danh thủ khoa người dân tộc thiểu số](https://vnexpress.net/lan-dau-vinh-danh-thu-khoa-nguoi-dan-toc-thieu-so-4999104.html) - 16:28 27/12/2025
-- ⚗️ [Gần 60% sinh viên Bách khoa TP HCM ra trường muộn](https://vnexpress.net/gan-60-sinh-vien-bach-khoa-tp-hcm-ra-truong-muon-4999046.html) - 13:07 27/12/2025
-- 🌁 [Sở Giáo dục TP HCM: Hiệu trưởng có thể cho nghỉ Tết 14 ngày](https://vnexpress.net/lich-nghi-tet-nguyen-dan-2026-chinh-thuc-cua-hoc-sinh-tp-hcm-4999023.html) - 08:49 27/12/2025
-- 🦏 [Hàng nghìn giáo viên bị nợ tiền dạy thêm giờ suốt 5 năm](https://vnexpress.net/hang-nghin-giao-vien-bi-no-tien-day-them-gio-suot-5-nam-4998785.html) - 04:14 27/12/2025
-- 👍 [Gợi ý giải đề Vật lý thi học sinh giỏi quốc gia ngày 2](https://vnexpress.net/de-thi-hoc-sinh-gioi-quoc-gia-mon-vat-ly-nam-hoc-2025-2026-4998901.html) - 03:59 27/12/2025
-- 🌈 [Đổi tên Đại học Sư phạm Kỹ thuật TP HCM](https://vnexpress.net/doi-ten-dai-hoc-su-pham-ky-thuat-tp-hcm-4998840.html) - 00:03 27/12/2025
-- 🕴 [Đề xuất nghiên cứu sinh ngành bán dẫn không được đi làm](https://vnexpress.net/de-xuat-nghien-cuu-sinh-nganh-ban-dan-khong-duoc-di-lam-4998799.html) - 17:00 26/12/2025
-- 🧰 [TP HCM chốt cho học sinh nghỉ Tết Nguyên đán 11 ngày](https://vnexpress.net/chot-lich-nghi-tet-binh-ngo-2026-cua-hoc-sinh-tp-hcm-voi-11-ngay-4996721.html) - 15:09 26/12/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [Dự kiến cấm giáo viên lợi dụng người thân để &#39;chi phối&#39; dạy thêm](https://vnexpress.net/du-kien-cam-giao-vien-loi-dung-nguoi-than-de-chi-phoi-day-them-5002025.html) - 08:38 05/01/2026
+- 🦆 [Ba nghề &#39;khát&#39; nhân lực nhất Singapore](https://vnexpress.net/ba-nghe-khat-nhan-luc-nhat-singapore-5001861.html) - 07:53 05/01/2026
+- 🦩 [Tiến sĩ Hàn Quốc giải quyết dứt điểm bài toán 60 năm tuổi](https://vnexpress.net/tien-si-han-quoc-giai-quyet-dut-diem-bai-toan-60-nam-tuoi-5001937.html) - 06:53 05/01/2026
+- 🌮 [Đại học Ngoại thương mở loạt ngành công nghệ, trí tuệ nhân tạo](https://vnexpress.net/dai-hoc-ngoai-thuong-mo-loat-nganh-cong-nghe-tri-tue-nhan-tao-5001778.html) - 03:35 05/01/2026
+- 🔭 [Trung học nghề có thể là &#39;lối thoát&#39; cho áp lực thi lớp 10](https://vnexpress.net/trung-hoc-nghe-co-the-la-loi-thoat-cho-ap-luc-thi-lop-10-4997301.html) - 02:29 05/01/2026
+- 💡 [Giáo sư Toán học chuyển hướng ở tuổi 50](https://vnexpress.net/giao-su-toan-hoc-chuyen-huong-o-tuoi-50-5001072.html) - 23:20 04/01/2026
+- 🥰 [Du học sinh trường top cũng &#39;khó thở&#39; vì việc làm](https://vnexpress.net/du-hoc-sinh-truong-top-cung-kho-tho-vi-viec-lam-5001666.html) - 14:46 04/01/2026
+- 🐲 [Đảo nào có trữ lượng đất hiếm lớn nhất thế giới?](https://vnexpress.net/dao-nao-co-tru-luong-dat-hiem-lon-nhat-the-gioi-5001591.html) - 12:31 04/01/2026
+- 🦒 [20 tỉnh, thành có học sinh đỗ Đại học Quốc gia TP HCM đông nhất](https://vnexpress.net/20-tinh-thanh-co-hoc-sinh-do-dai-hoc-quoc-gia-tp-hcm-dong-nhat-5001322.html) - 03:00 04/01/2026
+- 🦆 [Đại học đầu tiên tuyển sinh bằng bài đánh giá định hướng nghề nghiệp](https://vnexpress.net/6-phuong-thuc-tuyen-sinh-nam-2026-cua-dai-hoc-van-lang-5001242.html) - 01:17 04/01/2026
+- 🧰 [&#39;Mỏ vàng&#39; việc làm ngành bán dẫn ở Đài Loan chờ sinh viên Việt](https://vnexpress.net/mo-vang-viec-lam-nganh-ban-dan-o-dai-loan-cho-sinh-vien-viet-5001424.html) - 00:32 04/01/2026
+- 🐘 [Thành phố nào từ nhỏ nhất thành rộng nhất cả nước sau sáp nhập?](https://vnexpress.net/thanh-pho-nao-tu-nho-nhat-thanh-rong-nhat-ca-nuoc-sau-sap-nhap-5001344.html) - 12:16 03/01/2026
+- 🤓 [Tiến sĩ nộp 500 đơn xin việc vẫn thất nghiệp](https://vnexpress.net/tien-si-nop-500-don-xin-viec-van-that-nghiep-5001144.html) - 01:33 03/01/2026
+- 🧰 [Hơn 30 đại học công bố phương thức xét tuyển năm 2026](https://vnexpress.net/hon-30-dai-hoc-cong-bo-phuong-thuc-xet-tuyen-nam-2026-5000014.html) - 23:00 02/01/2026
+- 🧑‍💻 [Người dân nước nào uống bia nhiều nhất thế giới?](https://vnexpress.net/nguoi-dan-nuoc-nao-uong-bia-nhieu-nhat-the-gioi-5001228.html) - 13:39 02/01/2026
+- 🫶 [Bác tin sách giáo khoa lịch sử &#39;bỏ qua&#39; Quang Trung](https://vnexpress.net/bac-tin-sach-giao-khoa-lich-su-bo-qua-quang-trung-5001205.html) - 10:50 02/01/2026
+- 🪜 [Cuộc đời phi thường từ cô bé vắt sữa đến giải &#39;Nobel máy tính&#39;](https://vnexpress.net/cuoc-doi-phi-thuong-tu-co-be-vat-sua-den-giai-nobel-may-tinh-5000677.html) - 01:15 02/01/2026
+- 🎊 [Giáo viên hợp đồng chạnh lòng vì thưởng Tết](https://vnexpress.net/thuong-tet-giao-vien-hop-dong-111-theo-nghi-dinh-73-nhu-the-nao-5000440.html) - 23:00 01/01/2026
+- 🧐 [Học phí 10 đại học tốt nhất Hàn Quốc năm 2026](https://vnexpress.net/hoc-phi-10-dai-hoc-tot-nhat-han-quoc-nam-2026-5000712.html) - 17:00 01/01/2026
+- 🌈 [Người dân nước nào dành ít thời gian vào mạng nhất?](https://vnexpress.net/nguoi-dan-nuoc-nao-danh-it-thoi-gian-vao-mang-nhat-5000863.html) - 13:04 01/01/2026
+- 🥰 [Đại học Sư phạm Hà Nội mở ngành Trí tuệ nhân tạo](https://vnexpress.net/dai-hoc-su-pham-ha-noi-mo-nganh-tri-tue-nhan-tao-5000939.html) - 10:33 01/01/2026
+- 🎡 [Giáo sư Mỹ dùng cách thi &#39;cổ xưa&#39; để chấm điểm sinh viên](https://vnexpress.net/giao-su-my-dung-cach-thi-co-xua-de-cham-diem-sinh-vien-4997912.html) - 03:00 01/01/2026
+- 🎊 [6 thay đổi lớn của ngành giáo dục từ năm 2026](https://vnexpress.net/6-thay-doi-lon-cua-nganh-giao-duc-tu-nam-2026-5000605.html) - 00:38 01/01/2026
+- 🌏 [15 cách chúc mừng năm mới 2026 bằng tiếng Anh](https://vnexpress.net/15-cach-chuc-mung-nam-moi-2026-bang-tieng-anh-5000626.html) - 17:00 31/12/2025
+- 🥸 [7 nghiên cứu giáo dục nổi bật năm 2025](https://vnexpress.net/7-nghien-cuu-giao-duc-noi-bat-nam-2025-4993894.html) - 14:55 31/12/2025
+- 🕴 [Người dân nước nào mặc đồ chấm bi vào ngày đầu năm mới?](https://vnexpress.net/nguoi-dan-nuoc-nao-mac-do-cham-bi-vao-ngay-dau-nam-moi-5000148.html) - 12:26 31/12/2025
+- 💂 [Trung Quốc cắt giảm bài kiểm tra ở tất cả khối lớp](https://vnexpress.net/trung-quoc-cat-giam-bai-kiem-tra-o-tat-ca-khoi-lop-4999691.html) - 06:43 31/12/2025
+- 🕴 [Lợi thế giúp &#39;Kết nối tri thức với cuộc sống&#39; được chọn làm sách thống nhất](https://vnexpress.net/loi-the-giup-ket-noi-tri-thuc-voi-cuoc-song-duoc-chon-lam-sach-thong-nhat-5000431.html) - 03:30 31/12/2025
+- 🌋 [Hình phạt &#39;lạ&#39; cho nam sinh đi muộn khiến triệu người thích thú](https://vnexpress.net/hinh-phat-la-cho-nam-sinh-di-muon-khien-trieu-nguoi-thich-thu-4999677.html) - 01:36 31/12/2025
+- 🪜 [Giáo viên nhận thưởng Tết khoảng 10-14 triệu đồng](https://vnexpress.net/giao-vien-duoc-chia-thuong-tet-theo-nghi-dinh-73-nhu-the-nao-5000153.html) - 17:00 30/12/2025
+- 🕴 [Các trường thuộc Bộ Giáo dục giảm khoảng 3.000 biên chế](https://vnexpress.net/cac-truong-thuoc-bo-giao-duc-giam-khoang-3-000-bien-che-5000282.html) - 14:53 30/12/2025
+- 🎃 [Hoa xác thối là quốc hoa của nước Đông Nam Á nào?](https://vnexpress.net/hoa-xac-thoi-la-quoc-hoa-cua-nuoc-dong-nam-a-nao-5000238.html) - 13:24 30/12/2025
+- 🦏 [Thành lập trường Đại học Tâm Anh](https://vnexpress.net/thanh-lap-truong-dai-hoc-tam-anh-5000196.html) - 09:15 30/12/2025
+- 🧑‍🏫 [Trường học ở TP HCM sẽ siết điện thoại vào giờ ra chơi](https://vnexpress.net/truong-hoc-o-tp-hcm-se-siet-dien-thoai-vao-gio-ra-choi-5000132.html) - 08:07 30/12/2025
+- 💡 [15 nghề không cần bằng đại học có lương cao nhất ở Mỹ](https://vnexpress.net/15-nghe-khong-can-bang-dai-hoc-co-luong-cao-nhat-o-my-4999670.html) - 07:06 30/12/2025
+- 🐎 [5 học giả danh tiếng gốc Hoa về nước](https://vnexpress.net/5-hoc-gia-danh-tieng-goc-hoa-ve-nuoc-4998643.html) - 06:37 30/12/2025
+- 🧰 [Hơn 700 sinh viên sư phạm ra trường vẫn bị nợ 145 triệu đồng tiền hỗ trợ](https://vnexpress.net/hon-700-sinh-vien-su-pham-ra-truong-van-bi-no-145-trieu-dong-tien-ho-tro-4999744.html) - 02:28 30/12/2025
+- 🙉 [Ẵm học bổng 7,1 tỷ đồng nhờ bài luận về kính vạn hoa](https://vnexpress.net/am-hoc-bong-7-1-ty-dong-nho-bai-luan-ve-kinh-van-hoa-4999580.html) - 23:09 29/12/2025
+- ⚗️ [Học sinh quên cách xem đồng hồ sau lệnh cấm điện thoại](https://vnexpress.net/hoc-sinh-quen-cach-xem-dong-ho-sau-lenh-cam-dien-thoai-4999395.html) - 14:53 29/12/2025
+- 🌝 [Nước nào là mỏ &#39;vàng đen&#39; lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-la-mo-vang-den-lon-nhat-the-gioi-4999679.html) - 13:12 29/12/2025
+- ⛽️ [Hơn 4.000 trường học Hàn Quốc biến mất vì thiếu học sinh](https://vnexpress.net/hon-4-000-truong-hoc-han-quoc-bien-mat-vi-thieu-hoc-sinh-4999493.html) - 09:12 29/12/2025
+- 🌜 [Thầy giáo bị tố sàm sỡ nữ sinh lớp 8 trong trường](https://vnexpress.net/thay-giao-bi-to-sam-so-nu-sinh-lop-8-trong-truong-4999494.html) - 07:04 29/12/2025
+- ⚗️ [Giáo dục 2025 - Đột phá và xáo trộn](https://vnexpress.net/nhung-su-kien-giao-duc-noi-bat-2025-4995006.html) - 06:26 29/12/2025
+- 🧰 [Hà Nội đổi lịch nghỉ Tết Dương lịch cho học sinh](https://vnexpress.net/ha-noi-doi-lich-nghi-tet-duong-lich-cho-hoc-sinh-4999449.html) - 04:34 29/12/2025
+- 🤗 [Trường Ngôi Sao Hoàng Mai trao 20 suất học bổng toàn phần](https://vnexpress.net/truong-ngoi-sao-hoang-mai-trao-20-suat-hoc-bong-toan-phan-4999357.html) - 04:00 29/12/2025
+- 🔥 [Nam sinh dùng bột phấn &#39;bẻ khóa&#39; két sắt đựng điện thoại của lớp](https://vnexpress.net/nam-sinh-dung-bot-phan-be-khoa-ket-sat-dung-dien-thoai-cua-lop-4999378.html) - 03:43 29/12/2025
+- 💪 [Nữ tiến sĩ Việt với những dự án pin &#39;mật&#39; cùng Bộ Năng lượng Mỹ](https://vnexpress.net/nu-tien-si-viet-voi-nhung-du-an-pin-mat-cung-bo-nang-luong-my-4994389.html) - 23:29 28/12/2025
+- 💂 [Đại học phương Tây hiếm gắn tên &#39;quốc gia&#39;, &#39;quốc tế&#39;](https://vnexpress.net/dai-hoc-phuong-tay-hiem-gan-ten-quoc-gia-quoc-te-4997422.html) - 17:00 28/12/2025
+- 🌮 [Thêm một đại học tư thục dự kiến mở ngành Y khoa](https://vnexpress.net/phuong-thuc-to-hop-tuyen-sinh-dai-hoc-cong-nghe-tp-hcm-nam-2026-chi-tiet-4999221.html) - 15:04 28/12/2025
+- 🪄 [Thành phố có nhiều tòa nhà chọc trời nhất Đông Nam Á ở nước nào?](https://vnexpress.net/thanh-pho-co-nhieu-toa-nha-choc-troi-nhat-dong-nam-a-o-nuoc-nao-4999254.html) - 13:23 28/12/2025
+- 🎡 [Đại học &#39;ra giá&#39; 11.000 USD để xóa nợ môn](https://vnexpress.net/dai-hoc-ra-gia-11-000-usd-de-xoa-no-mon-4999108.html) - 07:00 28/12/2025
+- 🌈 [Chi tiền tỷ tặng sinh viên áo blouse cao cấp, Y Hà Nội gây &#39;sốt&#39;](https://vnexpress.net/chi-tien-ty-tang-sinh-vien-ao-blouse-cao-cap-y-ha-noi-gay-sot-4999004.html) - 04:13 28/12/2025
+- 🎊 [Thủ khoa Kỹ thuật phần mềm đầu tiên của Học viện Kỹ thuật quân sự](https://vnexpress.net/thu-khoa-ky-thuat-phan-mem-dau-tien-cua-hoc-vien-ky-thuat-quan-su-4998898.html) - 17:17 27/12/2025
+- ⚗️ [Lần đầu vinh danh thủ khoa người dân tộc thiểu số](https://vnexpress.net/lan-dau-vinh-danh-thu-khoa-nguoi-dan-toc-thieu-so-4999104.html) - 16:28 27/12/2025
+- 🌁 [Gần 60% sinh viên Bách khoa TP HCM ra trường muộn](https://vnexpress.net/gan-60-sinh-vien-bach-khoa-tp-hcm-ra-truong-muon-4999046.html) - 13:07 27/12/2025
+- 🦏 [Sở Giáo dục TP HCM: Hiệu trưởng có thể cho nghỉ Tết 14 ngày](https://vnexpress.net/lich-nghi-tet-nguyen-dan-2026-chinh-thuc-cua-hoc-sinh-tp-hcm-4999023.html) - 08:49 27/12/2025
+- 👍 [Hàng nghìn giáo viên bị nợ tiền dạy thêm giờ suốt 5 năm](https://vnexpress.net/hang-nghin-giao-vien-bi-no-tien-day-them-gio-suot-5-nam-4998785.html) - 04:14 27/12/2025
+- 🌈 [Gợi ý giải đề Vật lý thi học sinh giỏi quốc gia ngày 2](https://vnexpress.net/de-thi-hoc-sinh-gioi-quoc-gia-mon-vat-ly-nam-hoc-2025-2026-4998901.html) - 03:59 27/12/2025
+- 🕴 [Đổi tên Đại học Sư phạm Kỹ thuật TP HCM](https://vnexpress.net/doi-ten-dai-hoc-su-pham-ky-thuat-tp-hcm-4998840.html) - 00:03 27/12/2025
+- 🧰 [Đề xuất nghiên cứu sinh ngành bán dẫn không được đi làm](https://vnexpress.net/de-xuat-nghien-cuu-sinh-nganh-ban-dan-khong-duoc-di-lam-4998799.html) - 17:00 26/12/2025<!-- vnexpress-giao-duc:END -->
