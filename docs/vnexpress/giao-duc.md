@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Dự kiến cấm giáo viên lợi dụng người thân để &#39;chi phối&#39; dạy thêm](https://vnexpress.net/du-kien-cam-giao-vien-loi-dung-nguoi-than-de-chi-phoi-day-them-5002025.html) - 08:38 05/01/2026
+- 🤓 [Dự kiến cấm giáo viên lợi dụng người thân để dạy thêm](https://vnexpress.net/du-kien-cam-giao-vien-loi-dung-nguoi-than-de-day-them-5002025.html) - 08:38 05/01/2026
 - 🦆 [Ba nghề &#39;khát&#39; nhân lực nhất Singapore](https://vnexpress.net/ba-nghe-khat-nhan-luc-nhat-singapore-5001861.html) - 07:53 05/01/2026
 - 🦩 [Tiến sĩ Hàn Quốc giải quyết dứt điểm bài toán 60 năm tuổi](https://vnexpress.net/tien-si-han-quoc-giai-quyet-dut-diem-bai-toan-60-nam-tuoi-5001937.html) - 06:53 05/01/2026
 - 🌮 [Đại học Ngoại thương mở loạt ngành công nghệ, trí tuệ nhân tạo](https://vnexpress.net/dai-hoc-ngoai-thuong-mo-loat-nganh-cong-nghe-tri-tue-nhan-tao-5001778.html) - 03:35 05/01/2026
