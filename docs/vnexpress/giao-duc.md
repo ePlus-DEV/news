@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giáo sư chuyển hướng ở tuổi 50 để theo đuổi Toán ứng dụng](https://vnexpress.net/giao-su-chuyen-huong-o-tuoi-50-de-theo-duoi-toan-ung-dung-5001072.html) - 23:20 04/01/2026
+- 🤓 [Giáo sư Toán học chuyển hướng ở tuổi 50](https://vnexpress.net/giao-su-toan-hoc-chuyen-huong-o-tuoi-50-5001072.html) - 23:20 04/01/2026
 - 🦆 [Du học sinh trường top cũng &#39;khó thở&#39; vì việc làm](https://vnexpress.net/du-hoc-sinh-truong-top-cung-kho-tho-vi-viec-lam-5001666.html) - 14:46 04/01/2026
 - 🦩 [Đảo nào có trữ lượng đất hiếm lớn nhất thế giới?](https://vnexpress.net/dao-nao-co-tru-luong-dat-hiem-lon-nhat-the-gioi-5001591.html) - 12:31 04/01/2026
 - 🌮 [20 tỉnh, thành có học sinh đỗ Đại học Quốc gia TP HCM đông nhất](https://vnexpress.net/20-tinh-thanh-co-hoc-sinh-do-dai-hoc-quoc-gia-tp-hcm-dong-nhat-5001322.html) - 03:00 04/01/2026
