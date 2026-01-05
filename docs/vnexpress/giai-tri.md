@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Timothée Chalamet tri ân bạn gái](https://vnexpress.net/timothee-chalamet-tri-an-ban-gai-5001844.html) - 06:43 05/01/2026
-- 💫 [Bảo Trúc: &#39;Tôi tìm thấy bình yên bên bạn trai&#39;](https://vnexpress.net/bao-truc-toi-tim-thay-binh-yen-ben-ban-trai-5001767.html) - 06:28 05/01/2026
-- 🌮 [Diện mạo con gái Kim Kardashian gây chú ý](https://vnexpress.net/dien-mao-con-gai-kim-kardashian-gay-chu-y-5001750.html) - 04:28 05/01/2026
-- 🧠 [Nhan sắc các thí sinh Miss World Vietnam 2025](https://vnexpress.net/nhan-sac-cac-thi-sinh-miss-world-vietnam-2025-5001682.html) - 03:56 05/01/2026
-- 👨‍🏫 [Xa Thi Mạn, Huỳnh Tông Trạch đại thắng giải TVB](https://vnexpress.net/xa-thi-man-huynh-tong-trach-dai-thang-giai-tvb-5001751.html) - 02:43 05/01/2026
-- ⚗️ [Tranh bánh kẹo như thật của họa sĩ Italy](https://vnexpress.net/tranh-banh-keo-nhu-that-cua-hoa-si-italy-5001660.html) - 02:10 05/01/2026
-- 😎 [Huyền thoại điện ảnh Hàn Ahn Sung Ki qua đời](https://vnexpress.net/huyen-thoai-dien-anh-han-ahn-sung-ki-qua-doi-5001741.html) - 01:31 05/01/2026
-- 🫣 [Nhạc sĩ Đoàn Bổng qua đời](https://vnexpress.net/nhac-si-doan-bong-qua-doi-5001701.html) - 18:38 04/01/2026
-- 🪄 [Diễn viên &#39;Avatar 3&#39; trên phim và ngoài đời](https://vnexpress.net/dien-vien-avatar-3-tren-phim-va-ngoai-doi-5001595.html) - 17:00 04/01/2026
-- 🤓 [&#39;Good Goodbye&#39; - lời chia tay kiêu hãnh của Hwasa](https://vnexpress.net/good-goodbye-loi-chia-tay-kieu-hanh-cua-hwasa-5001317.html) - 14:00 04/01/2026
-- 🫶 [&#39;Thiên đường máu&#39; - cạm bẫy việc nhẹ lương cao](https://vnexpress.net/giai-tri/phim/thu-vien-phim/thien-duong-mau-867) - 12:30 04/01/2026
-- 🧑‍🏫 [&#39;Avatar 3&#39; vượt một tỷ USD](https://vnexpress.net/avatar-3-vuot-mot-ty-usd-5001645.html) - 11:21 04/01/2026
-- 🦄 [Váy áo tôn chiều cao 1,57 m của vợ Messi](https://vnexpress.net/vay-ao-ton-chieu-cao-1-57-m-cua-vo-messi-5000958.html) - 09:25 04/01/2026
-- 💫 [Phong cách cô gái Nga vào top đẹp nhất thế giới](https://vnexpress.net/phong-cach-co-gai-nga-vao-top-dep-nhat-the-gioi-5001572.html) - 07:21 04/01/2026
-- 🎊 [Leonardo DiCaprio kẹt ở Caribbean do Mỹ tập kích Venezuela](https://vnexpress.net/leonardo-dicaprio-ket-o-caribbean-do-my-tap-kich-venezuela-5001569.html) - 05:20 04/01/2026
-- 👹 [Gu mặc sánh đôi của vợ chồng &#39;Sao đẹp nhất Philippines&#39;](https://vnexpress.net/gu-mac-sanh-doi-cua-vo-chong-sao-dep-nhat-philippines-5001577.html) - 04:53 04/01/2026
-- 💻 [Phim &#39;Tôi như ánh dương rực rỡ&#39; có bản đồ đường đứt đoạn](https://vnexpress.net/phim-toi-nhu-anh-duong-ruc-ro-co-ban-do-duong-dut-doan-5001559.html) - 03:25 04/01/2026
-- 🤡 [Thành Long &#39;ngầm giúp đỡ con gái&#39;](https://vnexpress.net/thanh-long-ngam-giup-do-con-gai-5001551.html) - 02:50 04/01/2026
-- 🥰 [Tài tử 76 tuổi tha thứ cho bạn gái cũ](https://vnexpress.net/tai-tu-76-tuoi-tha-thu-cho-ban-gai-cu-5001538.html) - 01:58 04/01/2026
-- 🚀 [&#39;Con cái chúng ta đều tốt&#39; - chiến thuật dạy trẻ](https://vnexpress.net/con-cai-chung-ta-deu-tot-chien-thuat-day-tre-5000139.html) - 01:23 04/01/2026
-- 📝 [Vũ Ngọc và Son ra BST &#39;Tình ca trên sóng&#39; ở Hong Kong](https://vnexpress.net/vu-ngoc-va-son-ra-bst-tinh-ca-tren-song-o-hong-kong-5001149.html) - 00:57 04/01/2026
-- 🐲 [10 sao đẹp trai nhất thế giới 2025](https://vnexpress.net/10-sao-dep-trai-nhat-the-gioi-2025-5001233.html) - 17:00 03/01/2026
-- 🎃 [Thử phân biệt tranh do con người và AI tạo ra](https://vnexpress.net/thu-phan-biet-tranh-do-con-nguoi-va-ai-tao-ra-5001415.html) - 13:17 03/01/2026
-- 🤠 [Loạt phim điện ảnh Việt được mong đợi năm 2026](https://vnexpress.net/loat-phim-dien-anh-viet-duoc-mong-doi-nam-2026-5001339.html) - 10:59 03/01/2026
-- 🎭 [Ca sĩ &#39;Bốn chữ lắm&#39; cưới](https://vnexpress.net/ca-si-bon-chu-lam-cuoi-5001389.html) - 09:45 03/01/2026
-- 🧰 [10 ca sĩ có thu nhập cao nhất thế giới](https://vnexpress.net/10-ca-si-co-thu-nhap-cao-nhat-the-gioi-5001172.html) - 09:00 03/01/2026
-- 🦍 [Thúy Uyên: &#39;Tôi học cách sống buông bỏ&#39;](https://vnexpress.net/thuy-uyen-toi-hoc-cach-song-buong-bo-5001314.html) - 07:30 03/01/2026
-- 🌝 [Jennie: &#39;Tôi như đứa trẻ chập chững bước ra thế giới&#39;](https://vnexpress.net/jennie-toi-nhu-dua-tre-chap-chung-buoc-ra-the-gioi-5001333.html) - 05:32 03/01/2026
-- 🧑‍💻 [Sắc vóc hoa hậu cao nhất showbiz Việt](https://vnexpress.net/sac-voc-hoa-hau-cao-nhat-showbiz-viet-5001204.html) - 05:07 03/01/2026
-- 🥸 [10 kiểu túi thống trị nửa đầu 2026](https://vnexpress.net/10-kieu-tui-thong-tri-nua-dau-2026-5001327.html) - 04:43 03/01/2026
-- 🔥 [Váy áo giúp Lưu Gia Linh &#39;ăn gian&#39; tuổi](https://vnexpress.net/vay-ao-giup-luu-gia-linh-an-gian-tuoi-5001297.html) - 03:33 03/01/2026
-- 🐎 [Thành Long xin lỗi con](https://vnexpress.net/thanh-long-xin-loi-con-5001301.html) - 02:29 03/01/2026
-- 😎 [Triển lãm mô phỏng tác phẩm của danh họa Van Gogh, Monet](https://vnexpress.net/trien-lam-mo-phong-tac-pham-cua-danh-hoa-van-gogh-monet-5001092.html) - 01:41 03/01/2026
-- 🦄 [10 cô gái xinh đẹp nhất thế giới 2025](https://vnexpress.net/10-co-gai-xinh-dep-nhat-the-gioi-2025-5001079.html) - 17:00 02/01/2026
-- 🌜 [Vẻ đẹp mùa xuân trong &#39;Sách Tết Bính Ngọ 2026&#39;](https://vnexpress.net/ve-dep-mua-xuan-trong-sach-tet-binh-ngo-2026-5000724.html) - 13:37 02/01/2026
-- 🚦 [Bà Melania Trump diện đầm ôm trong tiệc đón năm mới](https://vnexpress.net/ba-melania-trump-dien-dam-om-trong-tiec-don-nam-moi-5001191.html) - 12:34 02/01/2026
-- 🧐 [Tranh các loài vật sống động như thật](https://vnexpress.net/tranh-cac-loai-vat-song-dong-nhu-that-5001135.html) - 12:30 02/01/2026
-- 🐵 [Gu đồ diễn táo bạo của Jennifer Lopez](https://vnexpress.net/gu-do-dien-tao-bao-cua-jennifer-lopez-5001065.html) - 09:49 02/01/2026
-- ⚗️ [Trang phục chàng rể Mông Cổ gây chú ý ở lễ rước dâu Việt](https://vnexpress.net/trang-phuc-chang-re-mong-co-gay-chu-y-o-le-ruoc-dau-viet-5001090.html) - 07:06 02/01/2026
-- 👺 [Phong cách khêu gợi và 7 xu hướng hot đầu năm 2026](https://vnexpress.net/phong-cach-kheu-goi-va-7-xu-huong-hot-dau-nam-2026-5001077.html) - 06:46 02/01/2026
-- 🌊 [Will Smith bị kiện](https://vnexpress.net/will-smith-bi-kien-5001015.html) - 06:26 02/01/2026
-- 🪜 [Phim Việt đối đầu tác phẩm Châu Tinh Trì](https://vnexpress.net/phim-viet-doi-dau-tac-pham-chau-tinh-tri-5001103.html) - 06:05 02/01/2026
-- 🕴 [Hà Anh Tuấn hát về &#39;Một năm qua&#39;](https://vnexpress.net/ha-anh-tuan-hat-ve-mot-nam-qua-5000966.html) - 04:40 02/01/2026
-- 💃 [&#39;Ngọc nữ&#39; Nhật Masami Nagasawa kết hôn](https://vnexpress.net/ngoc-nu-nhat-masami-nagasawa-ket-hon-5001070.html) - 04:10 02/01/2026
-- 🦄 [Vợ Cổ Cự Cơ sinh con ở tuổi 57](https://vnexpress.net/vo-co-cu-co-sinh-con-o-tuoi-57-5001059.html) - 03:32 02/01/2026
-- ⛽️ [Diễn viên &#39;Tuyệt đỉnh kungfu&#39; qua đời](https://vnexpress.net/dien-vien-tuyet-dinh-kungfu-qua-doi-5001035.html) - 03:15 02/01/2026
-- 😎 [Châu Âu qua du ký](https://vnexpress.net/chau-au-qua-du-ky-4999690.html) - 02:47 02/01/2026
-- 🌊 [Ca sĩ AI hát về sống &#39;Được&#39;](https://vnexpress.net/ca-si-ai-hat-ve-song-duoc-5000902.html) - 01:59 02/01/2026
-- 🐲 [10 phim điện ảnh hay nhất năm qua](https://vnexpress.net/10-phim-dien-anh-hay-nhat-nam-qua-5000498.html) - 17:10 01/01/2026
-- 💂 [Tranh luận việc nghệ sĩ bỏ concert &#39;Về đây bốn cánh chim trời&#39;](https://vnexpress.net/tranh-luan-viec-nghe-si-bo-concert-ve-day-bon-canh-chim-troi-5000866.html) - 12:59 01/01/2026
-- 🙉 [Sao Việt quây quần gia đình ngày đầu năm 2026](https://vnexpress.net/sao-viet-quay-quan-gia-dinh-ngay-dau-nam-2026-5000800.html) - 09:42 01/01/2026
-- 💪 [Xa Thi Mạn biến hóa đa phong cách](https://vnexpress.net/xa-thi-man-bien-hoa-da-phong-cach-5000858.html) - 08:03 01/01/2026
-- 👍 [Nhan sắc cô gái xinh đẹp nhất thế giới 2025](https://vnexpress.net/nhan-sac-co-gai-xinh-dep-nhat-the-gioi-2025-5000847.html) - 07:02 01/01/2026
-- 💪 [Con gái 10 tuổi của &#39;Mỹ nhân đẹp nhất Philippines&#39;](https://vnexpress.net/con-gai-10-tuoi-cua-my-nhan-dep-nhat-philippines-5000805.html) - 04:56 01/01/2026
-- 💄 [Bảo Ngọc, Duyên Quỳnh là công dân trẻ tiêu biểu TP HCM](https://vnexpress.net/bao-ngoc-duyen-quynh-la-cong-dan-tre-tieu-bieu-tp-hcm-5000819.html) - 03:44 01/01/2026
-- 🦩 [David Beckham đăng ảnh với Brooklyn](https://vnexpress.net/david-beckham-dang-anh-voi-brooklyn-5000810.html) - 03:09 01/01/2026
-- 🥸 [Nhan sắc vợ của &#39;thiên thần&#39; Kaka](https://vnexpress.net/nhan-sac-vo-cua-thien-than-kaka-5000781.html) - 02:43 01/01/2026
-- 🧰 [Mỹ Tâm cùng hàng nghìn người đếm ngược đón 2026](https://vnexpress.net/my-tam-cung-hang-nghin-nguoi-dem-nguoc-don-2026-5000758.html) - 02:29 01/01/2026
-- 💼 [Khán giả hòa nhịp đón năm mới trên phố đi bộ Nguyễn Huệ](https://vnexpress.net/khan-gia-hoa-nhip-don-nam-moi-tren-pho-di-bo-nguyen-hue-5000792.html) - 02:14 01/01/2026
+- 🌏 [Đoàn Bổng - nhạc sĩ của tâm tình quê hương](https://vnexpress.net/doan-bong-nhac-si-cua-tam-tinh-que-huong-5001995.html) - 08:38 05/01/2026
+- 💫 [BTS trở lại đường đua âm nhạc](https://vnexpress.net/bts-tro-lai-duong-dua-am-nhac-5001990.html) - 08:06 05/01/2026
+- 🌮 [Bùi Lan Hương đeo trang sức tiền tỷ trong MV mới](https://vnexpress.net/bui-lan-huong-deo-trang-suc-tien-ty-trong-mv-moi-5000793.html) - 08:00 05/01/2026
+- 🧠 [Phim của Leonardo DiCaprio thắng giải quan trọng ở Critics&#39; Choice](https://vnexpress.net/phim-cua-leonardo-dicaprio-thang-giai-quan-trong-o-critics-choice-5001946.html) - 07:43 05/01/2026
+- 👨‍🏫 [Phương Mỹ Chi làm đêm nhạc tri ân fan](https://vnexpress.net/phuong-my-chi-lam-dem-nhac-tri-an-fan-5001803.html) - 07:32 05/01/2026
+- ⚗️ [Timothée Chalamet tri ân bạn gái](https://vnexpress.net/timothee-chalamet-tri-an-ban-gai-5001844.html) - 06:43 05/01/2026
+- 😎 [Bảo Trúc: &#39;Tôi tìm thấy bình yên bên bạn trai&#39;](https://vnexpress.net/bao-truc-toi-tim-thay-binh-yen-ben-ban-trai-5001767.html) - 06:28 05/01/2026
+- 🫣 [Diện mạo con gái Kim Kardashian gây chú ý](https://vnexpress.net/dien-mao-con-gai-kim-kardashian-gay-chu-y-5001750.html) - 04:28 05/01/2026
+- 🪄 [Nhan sắc các thí sinh Miss World Vietnam 2025](https://vnexpress.net/nhan-sac-cac-thi-sinh-miss-world-vietnam-2025-5001682.html) - 03:56 05/01/2026
+- 🤓 [Xa Thi Mạn, Huỳnh Tông Trạch đại thắng giải TVB](https://vnexpress.net/xa-thi-man-huynh-tong-trach-dai-thang-giai-tvb-5001751.html) - 02:43 05/01/2026
+- 🫶 [Tranh bánh kẹo như thật của họa sĩ Italy](https://vnexpress.net/tranh-banh-keo-nhu-that-cua-hoa-si-italy-5001660.html) - 02:10 05/01/2026
+- 🧑‍🏫 [Huyền thoại điện ảnh Hàn Ahn Sung Ki qua đời](https://vnexpress.net/huyen-thoai-dien-anh-han-ahn-sung-ki-qua-doi-5001741.html) - 01:31 05/01/2026
+- 🦄 [Nhạc sĩ Đoàn Bổng qua đời](https://vnexpress.net/nhac-si-doan-bong-qua-doi-5001701.html) - 18:38 04/01/2026
+- 💫 [Diễn viên &#39;Avatar 3&#39; trên phim và ngoài đời](https://vnexpress.net/dien-vien-avatar-3-tren-phim-va-ngoai-doi-5001595.html) - 17:00 04/01/2026
+- 🎊 [&#39;Good Goodbye&#39; - lời chia tay kiêu hãnh của Hwasa](https://vnexpress.net/good-goodbye-loi-chia-tay-kieu-hanh-cua-hwasa-5001317.html) - 14:00 04/01/2026
+- 👹 [&#39;Thiên đường máu&#39; - cạm bẫy việc nhẹ lương cao](https://vnexpress.net/giai-tri/phim/thu-vien-phim/thien-duong-mau-867) - 12:30 04/01/2026
+- 💻 [&#39;Avatar 3&#39; vượt một tỷ USD](https://vnexpress.net/avatar-3-vuot-mot-ty-usd-5001645.html) - 11:21 04/01/2026
+- 🤡 [Váy áo tôn chiều cao 1,57 m của vợ Messi](https://vnexpress.net/vay-ao-ton-chieu-cao-1-57-m-cua-vo-messi-5000958.html) - 09:25 04/01/2026
+- 🥰 [Phong cách cô gái Nga vào top đẹp nhất thế giới](https://vnexpress.net/phong-cach-co-gai-nga-vao-top-dep-nhat-the-gioi-5001572.html) - 07:21 04/01/2026
+- 🚀 [Leonardo DiCaprio kẹt ở Caribbean do Mỹ tập kích Venezuela](https://vnexpress.net/leonardo-dicaprio-ket-o-caribbean-do-my-tap-kich-venezuela-5001569.html) - 05:20 04/01/2026
+- 📝 [Gu mặc sánh đôi của vợ chồng &#39;Sao đẹp nhất Philippines&#39;](https://vnexpress.net/gu-mac-sanh-doi-cua-vo-chong-sao-dep-nhat-philippines-5001577.html) - 04:53 04/01/2026
+- 🐲 [Phim &#39;Tôi như ánh dương rực rỡ&#39; có bản đồ đường đứt đoạn](https://vnexpress.net/phim-toi-nhu-anh-duong-ruc-ro-co-ban-do-duong-dut-doan-5001559.html) - 03:25 04/01/2026
+- 🎃 [Thành Long &#39;ngầm giúp đỡ con gái&#39;](https://vnexpress.net/thanh-long-ngam-giup-do-con-gai-5001551.html) - 02:50 04/01/2026
+- 🤠 [Tài tử 76 tuổi tha thứ cho bạn gái cũ](https://vnexpress.net/tai-tu-76-tuoi-tha-thu-cho-ban-gai-cu-5001538.html) - 01:58 04/01/2026
+- 🎭 [&#39;Con cái chúng ta đều tốt&#39; - chiến thuật dạy trẻ](https://vnexpress.net/con-cai-chung-ta-deu-tot-chien-thuat-day-tre-5000139.html) - 01:23 04/01/2026
+- 🧰 [Vũ Ngọc và Son ra BST &#39;Tình ca trên sóng&#39; ở Hong Kong](https://vnexpress.net/vu-ngoc-va-son-ra-bst-tinh-ca-tren-song-o-hong-kong-5001149.html) - 00:57 04/01/2026
+- 🦍 [10 sao đẹp trai nhất thế giới 2025](https://vnexpress.net/10-sao-dep-trai-nhat-the-gioi-2025-5001233.html) - 17:00 03/01/2026
+- 🌝 [Thử phân biệt tranh do con người và AI tạo ra](https://vnexpress.net/thu-phan-biet-tranh-do-con-nguoi-va-ai-tao-ra-5001415.html) - 13:17 03/01/2026
+- 🧑‍💻 [Loạt phim điện ảnh Việt được mong đợi năm 2026](https://vnexpress.net/loat-phim-dien-anh-viet-duoc-mong-doi-nam-2026-5001339.html) - 10:59 03/01/2026
+- 🥸 [Ca sĩ &#39;Bốn chữ lắm&#39; cưới](https://vnexpress.net/ca-si-bon-chu-lam-cuoi-5001389.html) - 09:45 03/01/2026
+- 🔥 [10 ca sĩ có thu nhập cao nhất thế giới](https://vnexpress.net/10-ca-si-co-thu-nhap-cao-nhat-the-gioi-5001172.html) - 09:00 03/01/2026
+- 🐎 [Thúy Uyên: &#39;Tôi học cách sống buông bỏ&#39;](https://vnexpress.net/thuy-uyen-toi-hoc-cach-song-buong-bo-5001314.html) - 07:30 03/01/2026
+- 😎 [Jennie: &#39;Tôi như đứa trẻ chập chững bước ra thế giới&#39;](https://vnexpress.net/jennie-toi-nhu-dua-tre-chap-chung-buoc-ra-the-gioi-5001333.html) - 05:32 03/01/2026
+- 🦄 [Sắc vóc hoa hậu cao nhất showbiz Việt](https://vnexpress.net/sac-voc-hoa-hau-cao-nhat-showbiz-viet-5001204.html) - 05:07 03/01/2026
+- 🌜 [10 kiểu túi thống trị nửa đầu 2026](https://vnexpress.net/10-kieu-tui-thong-tri-nua-dau-2026-5001327.html) - 04:43 03/01/2026
+- 🚦 [Váy áo giúp Lưu Gia Linh &#39;ăn gian&#39; tuổi](https://vnexpress.net/vay-ao-giup-luu-gia-linh-an-gian-tuoi-5001297.html) - 03:33 03/01/2026
+- 🧐 [Thành Long xin lỗi con](https://vnexpress.net/thanh-long-xin-loi-con-5001301.html) - 02:29 03/01/2026
+- 🐵 [Triển lãm mô phỏng tác phẩm của danh họa Van Gogh, Monet](https://vnexpress.net/trien-lam-mo-phong-tac-pham-cua-danh-hoa-van-gogh-monet-5001092.html) - 01:41 03/01/2026
+- ⚗️ [10 cô gái xinh đẹp nhất thế giới 2025](https://vnexpress.net/10-co-gai-xinh-dep-nhat-the-gioi-2025-5001079.html) - 17:00 02/01/2026
+- 👺 [Vẻ đẹp mùa xuân trong &#39;Sách Tết Bính Ngọ 2026&#39;](https://vnexpress.net/ve-dep-mua-xuan-trong-sach-tet-binh-ngo-2026-5000724.html) - 13:37 02/01/2026
+- 🌊 [Bà Melania Trump diện đầm ôm trong tiệc đón năm mới](https://vnexpress.net/ba-melania-trump-dien-dam-om-trong-tiec-don-nam-moi-5001191.html) - 12:34 02/01/2026
+- 🪜 [Tranh các loài vật sống động như thật](https://vnexpress.net/tranh-cac-loai-vat-song-dong-nhu-that-5001135.html) - 12:30 02/01/2026
+- 🕴 [Gu đồ diễn táo bạo của Jennifer Lopez](https://vnexpress.net/gu-do-dien-tao-bao-cua-jennifer-lopez-5001065.html) - 09:49 02/01/2026
+- 💃 [Trang phục chàng rể Mông Cổ gây chú ý ở lễ rước dâu Việt](https://vnexpress.net/trang-phuc-chang-re-mong-co-gay-chu-y-o-le-ruoc-dau-viet-5001090.html) - 07:06 02/01/2026
+- 🦄 [Phong cách khêu gợi và 7 xu hướng hot đầu năm 2026](https://vnexpress.net/phong-cach-kheu-goi-va-7-xu-huong-hot-dau-nam-2026-5001077.html) - 06:46 02/01/2026
+- ⛽️ [Will Smith bị kiện](https://vnexpress.net/will-smith-bi-kien-5001015.html) - 06:26 02/01/2026
+- 😎 [Phim Việt đối đầu tác phẩm Châu Tinh Trì](https://vnexpress.net/phim-viet-doi-dau-tac-pham-chau-tinh-tri-5001103.html) - 06:05 02/01/2026
+- 🌊 [Hà Anh Tuấn hát về &#39;Một năm qua&#39;](https://vnexpress.net/ha-anh-tuan-hat-ve-mot-nam-qua-5000966.html) - 04:40 02/01/2026
+- 🐲 [&#39;Ngọc nữ&#39; Nhật Masami Nagasawa kết hôn](https://vnexpress.net/ngoc-nu-nhat-masami-nagasawa-ket-hon-5001070.html) - 04:10 02/01/2026
+- 💂 [Vợ Cổ Cự Cơ sinh con ở tuổi 57](https://vnexpress.net/vo-co-cu-co-sinh-con-o-tuoi-57-5001059.html) - 03:32 02/01/2026
+- 🙉 [Diễn viên &#39;Tuyệt đỉnh kungfu&#39; qua đời](https://vnexpress.net/dien-vien-tuyet-dinh-kungfu-qua-doi-5001035.html) - 03:15 02/01/2026
+- 💪 [Châu Âu qua du ký](https://vnexpress.net/chau-au-qua-du-ky-4999690.html) - 02:47 02/01/2026
+- 👍 [Ca sĩ AI hát về sống &#39;Được&#39;](https://vnexpress.net/ca-si-ai-hat-ve-song-duoc-5000902.html) - 01:59 02/01/2026
+- 💪 [10 phim điện ảnh hay nhất năm qua](https://vnexpress.net/10-phim-dien-anh-hay-nhat-nam-qua-5000498.html) - 17:10 01/01/2026
+- 💄 [Tranh luận việc nghệ sĩ bỏ concert &#39;Về đây bốn cánh chim trời&#39;](https://vnexpress.net/tranh-luan-viec-nghe-si-bo-concert-ve-day-bon-canh-chim-troi-5000866.html) - 12:59 01/01/2026
+- 🦩 [Sao Việt quây quần gia đình ngày đầu năm 2026](https://vnexpress.net/sao-viet-quay-quan-gia-dinh-ngay-dau-nam-2026-5000800.html) - 09:42 01/01/2026
+- 🥸 [Xa Thi Mạn biến hóa đa phong cách](https://vnexpress.net/xa-thi-man-bien-hoa-da-phong-cach-5000858.html) - 08:03 01/01/2026
+- 🧰 [Nhan sắc cô gái xinh đẹp nhất thế giới 2025](https://vnexpress.net/nhan-sac-co-gai-xinh-dep-nhat-the-gioi-2025-5000847.html) - 07:02 01/01/2026
+- 💼 [Bảo Ngọc, Duyên Quỳnh là công dân trẻ tiêu biểu TP HCM](https://vnexpress.net/bao-ngoc-duyen-quynh-la-cong-dan-tre-tieu-bieu-tp-hcm-5000819.html) - 03:44 01/01/2026
 - 🧑‍💻 [Tài tử Trung Quốc hát &#39;Cắt đôi nỗi sầu&#39; của Tăng Duy Tân](https://vnexpress.net/tai-tu-trung-quoc-hat-cat-doi-noi-sau-cua-tang-duy-tan-5000776.html) - 01:39 01/01/2026<!-- vnexpress-giai-tri:END -->
