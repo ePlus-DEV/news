@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vợ chồng cựu Cục trưởng An toàn thực phẩm ra tòa với cáo buộc nhận hối lộ](https://vnexpress.net/vo-chong-cuu-cuc-truong-an-toan-thuc-pham-ra-toa-voi-cao-buoc-nhan-hoi-lo-5001592.html) - 17:01 04/01/2026
-- 🥰 [&#39;Trùm&#39; sữa giả HiUP ra tòa trong phi vụ thu lợi 2.400 tỷ đồng](https://vnexpress.net/trum-sua-gia-hiup-ra-toa-trong-phi-vu-thu-loi-2-400-ty-dong-5001596.html) - 17:00 04/01/2026
+- 😎 [Hai cựu Cục trưởng An toàn thực phẩm ra tòa với cáo buộc nhận hối lộ](https://vnexpress.net/hai-cuu-cuc-truong-an-toan-thuc-pham-ra-toa-voi-cao-buoc-nhan-hoi-lo-5001592.html) - 17:01 04/01/2026
+- 🥰 [&#39;Trùm&#39; sữa giả HIUP ra tòa trong phi vụ thu lợi 2.400 tỷ đồng](https://vnexpress.net/trum-sua-gia-hiup-ra-toa-trong-phi-vu-thu-loi-2-400-ty-dong-5001596.html) - 17:00 04/01/2026
 - 🎓 [Đường dây đánh bạc qua game online, giao dịch 100 tỷ đồng](https://vnexpress.net/duong-day-danh-bac-qua-game-online-giao-dich-100-ty-dong-5001689.html) - 15:51 04/01/2026
 - 🤓 [Lời khai nghi phạm sát hại bé gái, đẩy xuống vuông nước](https://vnexpress.net/loi-khai-nghi-pham-sat-hai-be-gai-day-xuong-vuong-nuoc-5001644.html) - 11:27 04/01/2026
 - 🎊 [Giả nam giới bỏ trốn sau khi trộm vàng của người tình](https://vnexpress.net/gia-nam-gioi-bo-tron-sau-khi-trom-vang-cua-nguoi-tinh-5001636.html) - 09:54 04/01/2026
