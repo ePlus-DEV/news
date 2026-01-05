@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Hội đồng Bảo an LHQ họp khẩn về Venezuela](https://vnexpress.net/hoi-dong-bao-an-lhq-hop-khan-ve-venezuela-5002171.html) - 16:24 05/01/2026
-- 🕴 [Ông Maduro lần đầu xuất hiện ở tòa án Mỹ](https://vnexpress.net/ong-maduro-lan-dau-xuat-hien-o-toa-an-my-5002156.html) - 15:09 05/01/2026
+- 🕴 [Ông Maduro tuyên bố &#39;tôi vô tội&#39; ở tòa án Mỹ](https://vnexpress.net/ong-maduro-lan-dau-xuat-hien-o-toa-an-my-5002156.html) - 15:09 05/01/2026
 - 🤭 [Trùm an ninh Ukraine từ chức](https://vnexpress.net/trum-an-ninh-ukraine-tu-chuc-5002150.html) - 14:27 05/01/2026
 - 🧑‍💻 [Thụy Sĩ đóng băng tài sản của ông Maduro](https://vnexpress.net/thuy-si-dong-bang-tai-san-cua-ong-maduro-5002139.html) - 14:15 05/01/2026
 - 🦏 [Trận chiến pháp lý ông Maduro đối mặt](https://vnexpress.net/tran-chien-phap-ly-ong-maduro-doi-mat-5002117.html) - 12:57 05/01/2026
