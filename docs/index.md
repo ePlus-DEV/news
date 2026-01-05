@@ -317,7 +317,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- sggp:START -->
 - 🪜 [Ra mắt sách “80 năm Quốc hội Việt Nam - Những dấu ấn lịch sử”](https://www.sggp.org.vn/ra-mat-sach-80-nam-quoc-hoi-viet-nam-nhung-dau-an-lich-su-post832099.html) - 11:20 05/01/2026
 - 🌝 [Diễn đàn &quot;Bản giao hưởng AI vì nhân loại&quot;](https://www.sggp.org.vn/dien-dan-ban-giao-huong-ai-vi-nhan-loai-post832094.html) - 11:19 05/01/2026
-- 💃 [Man.United sa thải Ruben Amorim - một kết cục không thể khác](https://www.sggp.org.vn/manunited-sa-thai-ruben-amorim-mot-ket-cuc-khong-the-khac-post832114.html) - 11:15 05/01/2026
+- 💃 [Man.United sa thải Ruben Amorim: Một kết cục không thể khác](https://www.sggp.org.vn/manunited-sa-thai-ruben-amorim-mot-ket-cuc-khong-the-khac-post832114.html) - 11:15 05/01/2026
 - 🧑‍💻 [Cháy cửa hàng kinh doanh vật liệu xây dựng ở Đà Nẵng](https://www.sggp.org.vn/chay-cua-hang-kinh-doanh-vat-lieu-xay-dung-o-da-nang-post832097.html) - 11:15 05/01/2026
 - 🌊 [Kiểm tra tàu nước ngoài trôi dạt, mắc cạn ở Quảng Ngãi](https://www.sggp.org.vn/kiem-tra-tau-nuoc-ngoai-troi-dat-mac-can-o-quang-ngai-post832110.html) - 11:15 05/01/2026
 - 🧑‍💻 [Đà Nẵng khẩn trương xử lý đất cát bồi lấp sau lũ để kịp sản xuất vụ Đông Xuân](https://www.sggp.org.vn/da-nang-khan-truong-xu-ly-dat-cat-boi-lap-sau-lu-de-kip-san-xuat-vu-dong-xuan-post832093.html) - 11:10 05/01/2026
