@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [AFC đặc biệt chú ý tới ngôi sao U23 Việt Nam trước giải châu Á](https://dantri.com.vn/the-thao/afc-dac-biet-chu-y-toi-ngoi-sao-u23-viet-nam-truoc-giai-chau-a-20260105194506147.htm) - 12:45 05/01/2026
-- 💯 [Siêu máy tính dự đoán kết quả trận U23 Việt Nam - U23 Jordan](https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ket-qua-tran-u23-viet-nam-u23-jordan-20260105181824671.htm) - 12:19 05/01/2026
-- ⛽️ [Lộ diện các ứng viên cho ghế HLV trưởng Man Utd](https://dantri.com.vn/the-thao/lo-dien-cac-ung-vien-cho-ghe-hlv-truong-man-utd-20260105184103015.htm) - 11:43 05/01/2026
-- 💃 [U23 Việt Nam đón tin vui ngay trước trận gặp U23 Jordan](https://dantri.com.vn/the-thao/u23-viet-nam-don-tin-vui-ngay-truoc-tran-gap-u23-jordan-20260105181954355.htm) - 11:20 05/01/2026
+- 🎡 [U23 Việt Nam đón tin vui ngay trước trận gặp U23 Jordan](https://dantri.com.vn/the-thao/u23-viet-nam-don-tin-vui-ngay-truoc-tran-gap-u23-jordan-20260105181954355.htm) - 12:46 05/01/2026
+- 💯 [AFC đặc biệt chú ý tới ngôi sao U23 Việt Nam trước giải châu Á](https://dantri.com.vn/the-thao/afc-dac-biet-chu-y-toi-ngoi-sao-u23-viet-nam-truoc-giai-chau-a-20260105194506147.htm) - 12:45 05/01/2026
+- ⛽️ [Siêu máy tính dự đoán kết quả trận U23 Việt Nam - U23 Jordan](https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ket-qua-tran-u23-viet-nam-u23-jordan-20260105181824671.htm) - 12:19 05/01/2026
+- 💃 [Lộ diện các ứng viên cho ghế HLV trưởng Man Utd](https://dantri.com.vn/the-thao/lo-dien-cac-ung-vien-cho-ghe-hlv-truong-man-utd-20260105184103015.htm) - 11:43 05/01/2026
 - 🌈 [Vì sao Man Utd sa thải HLV Amorim sau 14 tháng?](https://dantri.com.vn/the-thao/vi-sao-man-utd-sa-thai-hlv-amorim-sau-14-thang-20260105174931381.htm) - 10:49 05/01/2026
 - 🦅 [HLV Kim Sang Sik đặt mục tiêu vào tứ kết giải U23 châu Á 2026](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-dat-muc-tieu-vao-tu-ket-giai-u23-chau-a-2026-20260105173649975.htm) - 10:44 05/01/2026
 - 🌝 [Man Utd bất ngờ sa thải HLV Ruben Amorim](https://dantri.com.vn/the-thao/man-utd-bat-ngo-sa-thai-hlv-ruben-amorim-20260105172235034.htm) - 10:12 05/01/2026
