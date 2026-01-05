@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trùm an ninh Ukraine từ chức](https://vnexpress.net/trum-an-ninh-ukraine-tu-chuc-5002150.html) - 14:27 05/01/2026
-- 🕴 [Thụy Sĩ đóng băng tài sản của ông Maduro](https://vnexpress.net/thuy-si-dong-bang-tai-san-cua-ong-maduro-5002139.html) - 14:15 05/01/2026
-- 🤭 [Trận chiến pháp lý ông Maduro sắp đối mặt](https://vnexpress.net/tran-chien-phap-ly-ong-maduro-sap-doi-mat-5002117.html) - 12:57 05/01/2026
-- 🧑‍💻 [3 ngày thế giới chấn động vì vụ Mỹ bắt Tổng thống Venezuela](https://vnexpress.net/3-ngay-the-gioi-chan-dong-vi-vu-my-bat-tong-thong-venezuela-5001789.html) - 12:00 05/01/2026
-- 🦏 [Nga phóng loạt tên lửa Iskander-M, S-300 tập kích Ukraine trong đêm](https://vnexpress.net/nga-phong-loat-ten-lua-iskander-m-s-300-tap-kich-ukraine-trong-dem-5002097.html) - 11:29 05/01/2026
-- 🦒 [Caracas sau khi ông Maduro bị Mỹ bắt](https://vnexpress.net/caracas-sau-khi-ong-maduro-bi-my-bat-5002021.html) - 11:07 05/01/2026
-- 🌈 [Cựu tướng Philippines bị bắt vì kêu gọi lật đổ Tổng thống](https://vnexpress.net/cuu-tuong-philippines-bi-bat-vi-keu-goi-lat-do-tong-thong-5002067.html) - 10:37 05/01/2026
-- 🧑‍🏫 [Mưa lớn, triều cường biến đường phố California thành sông](https://vnexpress.net/mua-lon-trieu-cuong-bien-duong-pho-california-thanh-song-5002086.html) - 10:25 05/01/2026
-- 🐲 [Venezuela tưởng niệm 32 công dân Cuba thiệt mạng trong chiến dịch của Mỹ](https://vnexpress.net/venezuela-tuong-niem-32-cong-dan-cuba-thiet-mang-trong-chien-dich-cua-my-5002065.html) - 09:45 05/01/2026
-- 🦒 [Nga trang bị tên lửa phòng không vác vai cho UAV Geran](https://vnexpress.net/nga-trang-bi-ten-lua-phong-khong-vac-vai-cho-uav-geran-5001897.html) - 09:29 05/01/2026
-- 🐻 [Tổng thống Colombia - Mỹ đấu khẩu giữa căng thẳng Venezuela](https://vnexpress.net/tong-thong-colombia-my-dau-khau-giua-cang-thang-venezuela-5001972.html) - 08:35 05/01/2026
-- 🚀 [Người Venezuela hoang mang về tương lai sau khi Tổng thống bị bắt](https://vnexpress.net/nguoi-venezuela-hoang-mang-ve-tuong-lai-sau-khi-tong-thong-bi-bat-5001712.html) - 08:25 05/01/2026
-- 🥰 [Trung Quốc: Không nước nào có quyền làm &#39;cảnh sát thế giới&#39;](https://vnexpress.net/trung-quoc-khong-nuoc-nao-co-quyen-lam-canh-sat-the-gioi-5001906.html) - 07:20 05/01/2026
-- 🔥 [Người phụ nữ được kỳ vọng mang lại ổn định cho Venezuela](https://vnexpress.net/nguoi-phu-nu-duoc-ky-vong-mang-lai-on-dinh-cho-venezuela-5001755.html) - 07:00 05/01/2026
-- 🥳 [Elon Musk miễn phí Internet Starlink tại Venezuela](https://vnexpress.net/elon-musk-mien-phi-internet-starlink-tai-venezuela-5001879.html) - 05:00 05/01/2026
-- 💼 [Tổng thống lâm thời Venezuela muốn &#39;hợp tác cùng phát triển&#39; với Mỹ](https://vnexpress.net/tong-thong-lam-thoi-venezuela-muon-hop-tac-cung-phat-trien-voi-my-5001882.html) - 04:43 05/01/2026
-- 🤡 [Mỹ xác định Ukraine không tập kích dinh thự ông Putin](https://vnexpress.net/my-xac-dinh-ukraine-khong-tap-kich-dinh-thu-ong-putin-5001806.html) - 04:24 05/01/2026
-- 🌁 [Ông Trump cảnh báo kịch bản Iran &#39;bị giáng đòn nặng&#39;](https://vnexpress.net/ong-trump-canh-bao-kich-ban-iran-bi-giang-don-nang-5001830.html) - 04:15 05/01/2026
-- 🤩 [Triều Tiên thử tên lửa siêu vượt âm, phô diễn năng lực răn đe](https://vnexpress.net/trieu-tien-thu-ten-lua-sieu-vuot-am-pho-dien-nang-luc-ran-de-5001736.html) - 04:13 05/01/2026
+- 🎭 [Ông Maduro lần đầu xuất hiện ở tòa án Mỹ](https://vnexpress.net/ong-maduro-lan-dau-xuat-hien-o-toa-an-my-5002156.html) - 15:09 05/01/2026
+- 🕴 [Trùm an ninh Ukraine từ chức](https://vnexpress.net/trum-an-ninh-ukraine-tu-chuc-5002150.html) - 14:27 05/01/2026
+- 🤭 [Thụy Sĩ đóng băng tài sản của ông Maduro](https://vnexpress.net/thuy-si-dong-bang-tai-san-cua-ong-maduro-5002139.html) - 14:15 05/01/2026
+- 🧑‍💻 [Trận chiến pháp lý ông Maduro sắp đối mặt](https://vnexpress.net/tran-chien-phap-ly-ong-maduro-sap-doi-mat-5002117.html) - 12:57 05/01/2026
+- 🦏 [3 ngày thế giới chấn động vì vụ Mỹ bắt Tổng thống Venezuela](https://vnexpress.net/3-ngay-the-gioi-chan-dong-vi-vu-my-bat-tong-thong-venezuela-5001789.html) - 12:00 05/01/2026
+- 🦒 [Nga phóng loạt tên lửa Iskander-M, S-300 tập kích Ukraine trong đêm](https://vnexpress.net/nga-phong-loat-ten-lua-iskander-m-s-300-tap-kich-ukraine-trong-dem-5002097.html) - 11:29 05/01/2026
+- 🌈 [Caracas sau khi ông Maduro bị Mỹ bắt](https://vnexpress.net/caracas-sau-khi-ong-maduro-bi-my-bat-5002021.html) - 11:07 05/01/2026
+- 🧑‍🏫 [Cựu tướng Philippines bị bắt vì kêu gọi lật đổ Tổng thống](https://vnexpress.net/cuu-tuong-philippines-bi-bat-vi-keu-goi-lat-do-tong-thong-5002067.html) - 10:37 05/01/2026
+- 🐲 [Mưa lớn, triều cường biến đường phố California thành sông](https://vnexpress.net/mua-lon-trieu-cuong-bien-duong-pho-california-thanh-song-5002086.html) - 10:25 05/01/2026
+- 🦒 [Venezuela tưởng niệm 32 công dân Cuba thiệt mạng trong chiến dịch của Mỹ](https://vnexpress.net/venezuela-tuong-niem-32-cong-dan-cuba-thiet-mang-trong-chien-dich-cua-my-5002065.html) - 09:45 05/01/2026
+- 🐻 [Nga trang bị tên lửa phòng không vác vai cho UAV Geran](https://vnexpress.net/nga-trang-bi-ten-lua-phong-khong-vac-vai-cho-uav-geran-5001897.html) - 09:29 05/01/2026
+- 🚀 [Tổng thống Colombia - Mỹ đấu khẩu giữa căng thẳng Venezuela](https://vnexpress.net/tong-thong-colombia-my-dau-khau-giua-cang-thang-venezuela-5001972.html) - 08:35 05/01/2026
+- 🥰 [Người Venezuela hoang mang về tương lai sau khi Tổng thống bị bắt](https://vnexpress.net/nguoi-venezuela-hoang-mang-ve-tuong-lai-sau-khi-tong-thong-bi-bat-5001712.html) - 08:25 05/01/2026
+- 🔥 [Trung Quốc: Không nước nào có quyền làm &#39;cảnh sát thế giới&#39;](https://vnexpress.net/trung-quoc-khong-nuoc-nao-co-quyen-lam-canh-sat-the-gioi-5001906.html) - 07:20 05/01/2026
+- 🥳 [Người phụ nữ được kỳ vọng mang lại ổn định cho Venezuela](https://vnexpress.net/nguoi-phu-nu-duoc-ky-vong-mang-lai-on-dinh-cho-venezuela-5001755.html) - 07:00 05/01/2026
+- 💼 [Elon Musk miễn phí Internet Starlink tại Venezuela](https://vnexpress.net/elon-musk-mien-phi-internet-starlink-tai-venezuela-5001879.html) - 05:00 05/01/2026
+- 🤡 [Tổng thống lâm thời Venezuela muốn &#39;hợp tác cùng phát triển&#39; với Mỹ](https://vnexpress.net/tong-thong-lam-thoi-venezuela-muon-hop-tac-cung-phat-trien-voi-my-5001882.html) - 04:43 05/01/2026
+- 🌁 [Mỹ xác định Ukraine không tập kích dinh thự ông Putin](https://vnexpress.net/my-xac-dinh-ukraine-khong-tap-kich-dinh-thu-ong-putin-5001806.html) - 04:24 05/01/2026
+- 🤩 [Ông Trump cảnh báo kịch bản Iran &#39;bị giáng đòn nặng&#39;](https://vnexpress.net/ong-trump-canh-bao-kich-ban-iran-bi-giang-don-nang-5001830.html) - 04:15 05/01/2026
+- 🎉 [Triều Tiên thử tên lửa siêu vượt âm, phô diễn năng lực răn đe](https://vnexpress.net/trieu-tien-thu-ten-lua-sieu-vuot-am-pho-dien-nang-luc-ran-de-5001736.html) - 04:13 05/01/2026
 - 🎉 [Cuba xác nhận 32 nhân viên an ninh thiệt mạng ở Venezuela](https://vnexpress.net/cuba-xac-nhan-32-nhan-vien-an-ninh-thiet-mang-o-venezuela-5001820.html) - 04:08 05/01/2026
-- 🎉 [Ngoại trưởng Rubio: Mỹ sẽ không điều hành Venezuela](https://vnexpress.net/ngoai-truong-rubio-my-se-khong-dieu-hanh-venezuela-5001825.html) - 04:03 05/01/2026
-- 🌁 [Colombia triển khai quân đội đến biên giới giáp Venezuela](https://vnexpress.net/colombia-trien-khai-quan-doi-den-bien-gioi-giap-venezuela-5001769.html) - 03:34 05/01/2026
-- 🌊 [Cá ngừ 3,2 triệu USD lập kỷ lục phiên đấu giá năm mới ở Nhật](https://vnexpress.net/ca-ngu-3-2-trieu-usd-lap-ky-luc-phien-dau-gia-nam-moi-o-nhat-5001807.html) - 03:28 05/01/2026
-- 🕴 [Ông Medvedev: Chiến dịch của Mỹ ở Venezuela &#39;bất hợp pháp&#39;](https://vnexpress.net/ong-medvedev-chien-dich-cua-my-o-venezuela-bat-hop-phap-5001737.html) - 03:21 05/01/2026
-- 🎓 [Ông Trump đổi giọng với lãnh đạo lâm thời Venezuela](https://vnexpress.net/ong-trump-doi-giong-voi-lanh-dao-lam-thoi-venezuela-5001727.html) - 01:26 05/01/2026
-- 🦩 [Vợ ông Maduro lần đầu xuất hiện từ khi bị Mỹ bắt](https://vnexpress.net/vo-ong-maduro-lan-dau-xuat-hien-tu-khi-bi-my-bat-5001713.html) - 00:49 05/01/2026
-- 🌏 [Ông Trump tiếp tục đề cập ý tưởng kiểm soát Greenland](https://vnexpress.net/ong-trump-tiep-tuc-de-cap-y-tuong-kiem-soat-greenland-5001716.html) - 00:25 05/01/2026
-- 🌋 [Phần lớn cận vệ của ông Maduro thiệt mạng khi Mỹ đột kích](https://vnexpress.net/phan-lon-can-ve-cua-ong-maduro-thiet-mang-khi-my-dot-kich-5001710.html) - 00:02 05/01/2026
-- 🪜 [Vợ quan chức Mỹ đăng ảnh cờ Mỹ phủ kín Greenland, Đan Mạch phản đối](https://vnexpress.net/vo-quan-chuc-my-dang-anh-co-my-phu-kin-greenland-dan-mach-phan-doi-5001686.html) - 15:53 04/01/2026
-- 🕴 [Ảnh vệ tinh căn cứ lớn nhất Venezuela trước và sau cuộc tập kích của Mỹ](https://vnexpress.net/anh-ve-tinh-can-cu-lon-nhat-venezuela-truoc-va-sau-cuoc-tap-kich-cua-my-5001680.html) - 14:57 04/01/2026
-- 🧑‍🏫 [Giáo hoàng kêu gọi đảm bảo phúc lợi cho người dân Venezuela](https://vnexpress.net/giao-hoang-keu-goi-dam-bao-phuc-loi-cho-nguoi-dan-venezuela-5001671.html) - 13:04 04/01/2026
-- 🌮 [Phi cơ nghi là UAV 30 triệu USD của Mỹ rơi ở Afghanistan](https://vnexpress.net/phi-co-nghi-la-uav-30-trieu-usd-cua-my-roi-o-afghanistan-5001337.html) - 10:02 04/01/2026
-- 🚦 [UAV tàng hình Mỹ xuất hiện sau chiến dịch bắt ông Maduro](https://vnexpress.net/uav-tang-hinh-my-xuat-hien-sau-chien-dich-bat-ong-maduro-5001608.html) - 09:16 04/01/2026
-- 💫 [Ông Trump nêu kịch bản không điều quân tới Venezuela](https://vnexpress.net/ong-trump-neu-kich-ban-khong-dieu-quan-toi-venezuela-5001611.html) - 08:15 04/01/2026
-- 🤡 [5 tháng Mỹ chuẩn bị cho chiến dịch đột kích vào Venezuela](https://vnexpress.net/5-thang-my-chuan-bi-cho-chien-dich-dot-kich-vao-venezuela-5001565.html) - 08:07 04/01/2026
-- 🦣 [Trung Quốc biến tàu container thành &#39;tàu sân bay UAV&#39;](https://vnexpress.net/trung-quoc-bien-tau-container-thanh-tau-san-bay-uav-5001206.html) - 07:15 04/01/2026
-- 🎬 [Phó tổng thống Venezuela được chỉ định làm Tổng thống lâm thời](https://vnexpress.net/pho-tong-thong-venezuela-duoc-chi-dinh-lam-tong-thong-lam-thoi-5001573.html) - 05:27 04/01/2026
-- 🎉 [Ông Maduro nói &#39;chúc mừng năm mới&#39; khi bị áp giải ở New York](https://vnexpress.net/ong-maduro-noi-chuc-mung-nam-moi-khi-bi-ap-giai-o-new-york-5001563.html) - 05:13 04/01/2026
-- 🎡 [Biểu tình tại nhiều thành phố Mỹ để phản đối vụ bắt Tổng thống Venezuela](https://vnexpress.net/bieu-tinh-tai-nhieu-thanh-pho-my-de-phan-doi-vu-bat-tong-thong-venezuela-5001576.html) - 05:11 04/01/2026
-- 🌜 [Loạt nước lên án vụ Mỹ bắt Tổng thống Maduro](https://vnexpress.net/loat-nuoc-len-an-vu-my-bat-tong-thong-maduro-5001541.html) - 04:14 04/01/2026
-- 🎡 [40 người có thể đã thiệt mạng khi Mỹ tập kích bắt ông Maduro](https://vnexpress.net/40-nguoi-co-the-da-thiet-mang-khi-my-tap-kich-bat-ong-maduro-5001554.html) - 03:36 04/01/2026
-- 🤗 [Triều Tiên lần đầu phóng tên lửa đạn đạo trong năm nay](https://vnexpress.net/trieu-tien-lan-dau-phong-ten-lua-dan-dao-trong-nam-nay-5001532.html) - 02:39 04/01/2026
-- 🦩 [Đảng Dân chủ nói bị chính quyền Trump lừa dối về kế hoạch Venezuela](https://vnexpress.net/dang-dan-chu-noi-bi-chinh-quyen-trump-lua-doi-ve-ke-hoach-venezuela-5001536.html) - 02:27 04/01/2026
-- 🎓 [Giây phút Tổng thống Venezuela bị áp giải xuống sân bay Mỹ](https://vnexpress.net/giay-phut-tong-thong-venezuela-bi-ap-giai-xuong-san-bay-my-5001528.html) - 00:35 04/01/2026
-- 🌁 [Phó tổng thống Rodriguez: Ông Maduro vẫn là Tổng thống Venezuela](https://vnexpress.net/pho-tong-thong-rodriguez-ong-maduro-van-la-tong-thong-venezuela-5001529.html) - 00:08 04/01/2026
-- 🤩 [Việt Nam quan ngại về tình hình Venezuela](https://vnexpress.net/viet-nam-quan-ngai-ve-tinh-hinh-venezuela-5001513.html) - 17:41 03/01/2026
-- 👹 [Không khí căng thẳng bao trùm Venezuela sau khi Mỹ tập kích](https://vnexpress.net/khong-khi-cang-thang-bao-trum-venezuela-sau-khi-my-tap-kich-5001488.html) - 17:11 03/01/2026
-- ⛽️ [Hình ảnh ông Maduro trên tàu chiến Mỹ](https://vnexpress.net/hinh-anh-ong-maduro-tren-tau-chien-my-5001510.html) - 17:00 03/01/2026
-- 🚀 [Ông Trump: &#39;Mỹ sẽ điều quân tới Venezuela bảo vệ dầu&#39;](https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485-tong-thuat.html) - 15:47 03/01/2026
-- 🎡 [Ông Trump: &#39;Trực thăng Mỹ trúng đạn khi tập kích Venezuela&#39;](https://vnexpress.net/ong-trump-truc-thang-my-trung-dan-khi-tap-kich-venezuela-5001456.html) - 15:36 03/01/2026
-- 🕯 [Venezuela nói Mỹ &#39;bắt cóc&#39; ông Maduro tại căn cứ quân sự](https://vnexpress.net/venezuela-noi-my-bat-coc-ong-maduro-tai-can-cu-quan-su-5001455.html) - 15:09 03/01/2026
-- 🐻 [Đại sứ quán Việt Nam tại Venezuela lập kênh liên lạc khẩn cấp](https://vnexpress.net/dai-su-quan-viet-nam-tai-venezuela-lap-kenh-lien-lac-khan-cap-5001450.html) - 14:46 03/01/2026
-- 🚦 [Người Venezuela biểu tình, yêu cầu Mỹ thả ông Maduro](https://vnexpress.net/nguoi-venezuela-bieu-tinh-yeu-cau-my-tha-ong-maduro-5001442.html) - 14:32 03/01/2026
-- 👍 [Căn cứ không quân Venezuela sau đòn tập kích của Mỹ](https://vnexpress.net/can-cu-khong-quan-venezuela-sau-don-tap-kich-cua-my-5001437.html) - 14:17 03/01/2026
-- 🚀 [Mỹ nêu lý do bắt Tổng thống Venezuela](https://vnexpress.net/my-neu-ly-do-bat-tong-thong-venezuela-5001433.html) - 13:29 03/01/2026
-- 🌮 [Nga lên án Mỹ &#39;xâm lược vũ trang&#39; Venezuela](https://vnexpress.net/nga-len-an-my-xam-luoc-vu-trang-venezuela-5001401.html) - 11:35 03/01/2026
-- 😎 [Biểu tình lan rộng ở Iran, ít nhất 10 người chết](https://vnexpress.net/bieu-tinh-lan-rong-o-iran-it-nhat-10-nguoi-chet-5001416.html) - 11:31 03/01/2026
-- 🐲 [Ông Trump nói chiến dịch tập kích Venezuela &#39;hoàn hảo&#39;](https://vnexpress.net/ong-trump-noi-chien-dich-tap-kich-venezuela-hoan-hao-5001408.html) - 10:14 03/01/2026
-- 💫 [Ấn Độ trưng bày di vật Đức Phật sau 127 năm lưu lạc](https://vnexpress.net/an-do-trung-bay-di-vat-duc-phat-sau-127-nam-luu-lac-5001387.html) - 09:07 03/01/2026
-- 👀 [Không phận Venezuela vắng tanh giữa đòn tập kích](https://vnexpress.net/khong-phan-venezuela-vang-tanh-giua-don-tap-kich-5001382.html) - 08:00 03/01/2026<!-- vnexpress-the-gioi:END -->
+- 🌁 [Ngoại trưởng Rubio: Mỹ sẽ không điều hành Venezuela](https://vnexpress.net/ngoai-truong-rubio-my-se-khong-dieu-hanh-venezuela-5001825.html) - 04:03 05/01/2026
+- 🌊 [Colombia triển khai quân đội đến biên giới giáp Venezuela](https://vnexpress.net/colombia-trien-khai-quan-doi-den-bien-gioi-giap-venezuela-5001769.html) - 03:34 05/01/2026
+- 🕴 [Cá ngừ 3,2 triệu USD lập kỷ lục phiên đấu giá năm mới ở Nhật](https://vnexpress.net/ca-ngu-3-2-trieu-usd-lap-ky-luc-phien-dau-gia-nam-moi-o-nhat-5001807.html) - 03:28 05/01/2026
+- 🎓 [Ông Medvedev: Chiến dịch của Mỹ ở Venezuela &#39;bất hợp pháp&#39;](https://vnexpress.net/ong-medvedev-chien-dich-cua-my-o-venezuela-bat-hop-phap-5001737.html) - 03:21 05/01/2026
+- 🦩 [Ông Trump đổi giọng với lãnh đạo lâm thời Venezuela](https://vnexpress.net/ong-trump-doi-giong-voi-lanh-dao-lam-thoi-venezuela-5001727.html) - 01:26 05/01/2026
+- 🌏 [Vợ ông Maduro lần đầu xuất hiện từ khi bị Mỹ bắt](https://vnexpress.net/vo-ong-maduro-lan-dau-xuat-hien-tu-khi-bi-my-bat-5001713.html) - 00:49 05/01/2026
+- 🌋 [Ông Trump tiếp tục đề cập ý tưởng kiểm soát Greenland](https://vnexpress.net/ong-trump-tiep-tuc-de-cap-y-tuong-kiem-soat-greenland-5001716.html) - 00:25 05/01/2026
+- 🪜 [Phần lớn cận vệ của ông Maduro thiệt mạng khi Mỹ đột kích](https://vnexpress.net/phan-lon-can-ve-cua-ong-maduro-thiet-mang-khi-my-dot-kich-5001710.html) - 00:02 05/01/2026
+- 🕴 [Vợ quan chức Mỹ đăng ảnh cờ Mỹ phủ kín Greenland, Đan Mạch phản đối](https://vnexpress.net/vo-quan-chuc-my-dang-anh-co-my-phu-kin-greenland-dan-mach-phan-doi-5001686.html) - 15:53 04/01/2026
+- 🧑‍🏫 [Ảnh vệ tinh căn cứ lớn nhất Venezuela trước và sau cuộc tập kích của Mỹ](https://vnexpress.net/anh-ve-tinh-can-cu-lon-nhat-venezuela-truoc-va-sau-cuoc-tap-kich-cua-my-5001680.html) - 14:57 04/01/2026
+- 🌮 [Giáo hoàng kêu gọi đảm bảo phúc lợi cho người dân Venezuela](https://vnexpress.net/giao-hoang-keu-goi-dam-bao-phuc-loi-cho-nguoi-dan-venezuela-5001671.html) - 13:04 04/01/2026
+- 🚦 [Phi cơ nghi là UAV 30 triệu USD của Mỹ rơi ở Afghanistan](https://vnexpress.net/phi-co-nghi-la-uav-30-trieu-usd-cua-my-roi-o-afghanistan-5001337.html) - 10:02 04/01/2026
+- 💫 [UAV tàng hình Mỹ xuất hiện sau chiến dịch bắt ông Maduro](https://vnexpress.net/uav-tang-hinh-my-xuat-hien-sau-chien-dich-bat-ong-maduro-5001608.html) - 09:16 04/01/2026
+- 🤡 [Ông Trump nêu kịch bản không điều quân tới Venezuela](https://vnexpress.net/ong-trump-neu-kich-ban-khong-dieu-quan-toi-venezuela-5001611.html) - 08:15 04/01/2026
+- 🦣 [5 tháng Mỹ chuẩn bị cho chiến dịch đột kích vào Venezuela](https://vnexpress.net/5-thang-my-chuan-bi-cho-chien-dich-dot-kich-vao-venezuela-5001565.html) - 08:07 04/01/2026
+- 🎬 [Trung Quốc biến tàu container thành &#39;tàu sân bay UAV&#39;](https://vnexpress.net/trung-quoc-bien-tau-container-thanh-tau-san-bay-uav-5001206.html) - 07:15 04/01/2026
+- 🎉 [Phó tổng thống Venezuela được chỉ định làm Tổng thống lâm thời](https://vnexpress.net/pho-tong-thong-venezuela-duoc-chi-dinh-lam-tong-thong-lam-thoi-5001573.html) - 05:27 04/01/2026
+- 🎡 [Ông Maduro nói &#39;chúc mừng năm mới&#39; khi bị áp giải ở New York](https://vnexpress.net/ong-maduro-noi-chuc-mung-nam-moi-khi-bi-ap-giai-o-new-york-5001563.html) - 05:13 04/01/2026
+- 🌜 [Biểu tình tại nhiều thành phố Mỹ để phản đối vụ bắt Tổng thống Venezuela](https://vnexpress.net/bieu-tinh-tai-nhieu-thanh-pho-my-de-phan-doi-vu-bat-tong-thong-venezuela-5001576.html) - 05:11 04/01/2026
+- 🎡 [Loạt nước lên án vụ Mỹ bắt Tổng thống Maduro](https://vnexpress.net/loat-nuoc-len-an-vu-my-bat-tong-thong-maduro-5001541.html) - 04:14 04/01/2026
+- 🤗 [40 người có thể đã thiệt mạng khi Mỹ tập kích bắt ông Maduro](https://vnexpress.net/40-nguoi-co-the-da-thiet-mang-khi-my-tap-kich-bat-ong-maduro-5001554.html) - 03:36 04/01/2026
+- 🦩 [Triều Tiên lần đầu phóng tên lửa đạn đạo trong năm nay](https://vnexpress.net/trieu-tien-lan-dau-phong-ten-lua-dan-dao-trong-nam-nay-5001532.html) - 02:39 04/01/2026
+- 🎓 [Đảng Dân chủ nói bị chính quyền Trump lừa dối về kế hoạch Venezuela](https://vnexpress.net/dang-dan-chu-noi-bi-chinh-quyen-trump-lua-doi-ve-ke-hoach-venezuela-5001536.html) - 02:27 04/01/2026
+- 🌁 [Giây phút Tổng thống Venezuela bị áp giải xuống sân bay Mỹ](https://vnexpress.net/giay-phut-tong-thong-venezuela-bi-ap-giai-xuong-san-bay-my-5001528.html) - 00:35 04/01/2026
+- 🤩 [Phó tổng thống Rodriguez: Ông Maduro vẫn là Tổng thống Venezuela](https://vnexpress.net/pho-tong-thong-rodriguez-ong-maduro-van-la-tong-thong-venezuela-5001529.html) - 00:08 04/01/2026
+- 👹 [Việt Nam quan ngại về tình hình Venezuela](https://vnexpress.net/viet-nam-quan-ngai-ve-tinh-hinh-venezuela-5001513.html) - 17:41 03/01/2026
+- ⛽️ [Không khí căng thẳng bao trùm Venezuela sau khi Mỹ tập kích](https://vnexpress.net/khong-khi-cang-thang-bao-trum-venezuela-sau-khi-my-tap-kich-5001488.html) - 17:11 03/01/2026
+- 🚀 [Hình ảnh ông Maduro trên tàu chiến Mỹ](https://vnexpress.net/hinh-anh-ong-maduro-tren-tau-chien-my-5001510.html) - 17:00 03/01/2026
+- 🎡 [Ông Trump: &#39;Mỹ sẽ điều quân tới Venezuela bảo vệ dầu&#39;](https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485-tong-thuat.html) - 15:47 03/01/2026
+- 🕯 [Ông Trump: &#39;Trực thăng Mỹ trúng đạn khi tập kích Venezuela&#39;](https://vnexpress.net/ong-trump-truc-thang-my-trung-dan-khi-tap-kich-venezuela-5001456.html) - 15:36 03/01/2026
+- 🐻 [Venezuela nói Mỹ &#39;bắt cóc&#39; ông Maduro tại căn cứ quân sự](https://vnexpress.net/venezuela-noi-my-bat-coc-ong-maduro-tai-can-cu-quan-su-5001455.html) - 15:09 03/01/2026
+- 🚦 [Đại sứ quán Việt Nam tại Venezuela lập kênh liên lạc khẩn cấp](https://vnexpress.net/dai-su-quan-viet-nam-tai-venezuela-lap-kenh-lien-lac-khan-cap-5001450.html) - 14:46 03/01/2026
+- 👍 [Người Venezuela biểu tình, yêu cầu Mỹ thả ông Maduro](https://vnexpress.net/nguoi-venezuela-bieu-tinh-yeu-cau-my-tha-ong-maduro-5001442.html) - 14:32 03/01/2026
+- 🚀 [Căn cứ không quân Venezuela sau đòn tập kích của Mỹ](https://vnexpress.net/can-cu-khong-quan-venezuela-sau-don-tap-kich-cua-my-5001437.html) - 14:17 03/01/2026
+- 🌮 [Mỹ nêu lý do bắt Tổng thống Venezuela](https://vnexpress.net/my-neu-ly-do-bat-tong-thong-venezuela-5001433.html) - 13:29 03/01/2026
+- 😎 [Nga lên án Mỹ &#39;xâm lược vũ trang&#39; Venezuela](https://vnexpress.net/nga-len-an-my-xam-luoc-vu-trang-venezuela-5001401.html) - 11:35 03/01/2026
+- 🐲 [Biểu tình lan rộng ở Iran, ít nhất 10 người chết](https://vnexpress.net/bieu-tinh-lan-rong-o-iran-it-nhat-10-nguoi-chet-5001416.html) - 11:31 03/01/2026
+- 💫 [Ông Trump nói chiến dịch tập kích Venezuela &#39;hoàn hảo&#39;](https://vnexpress.net/ong-trump-noi-chien-dich-tap-kich-venezuela-hoan-hao-5001408.html) - 10:14 03/01/2026
+- 👀 [Ấn Độ trưng bày di vật Đức Phật sau 127 năm lưu lạc](https://vnexpress.net/an-do-trung-bay-di-vat-duc-phat-sau-127-nam-luu-lac-5001387.html) - 09:07 03/01/2026<!-- vnexpress-the-gioi:END -->
