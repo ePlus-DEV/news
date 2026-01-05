@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Người dùng đũa đâm tới tấp vào mặt tài xế bị bắt](https://vnexpress.net/nguoi-dung-dua-dam-toi-tap-vao-mat-tai-xe-bi-bat-5002147.html) - 13:52 05/01/2026
 - 🥰 [Hai ông chủ nhà hàng Hàn Quốc lĩnh án vì cho tiếp viên bán dâm](https://vnexpress.net/hai-ong-chu-nha-hang-han-quoc-linh-an-vi-cho-tiep-vien-ban-dam-5002140.html) - 13:04 05/01/2026
-- 🎓 [Cựu Cục trưởng An toàn thực phẩm khai &#39;thấy sai lầm&#39; khi nhận hối lộ gần 44 tỷ đồng](https://vnexpress.net/cuu-cuc-truong-an-toan-thuc-pham-khai-thay-sai-lam-khi-nhan-hoi-lo-gan-44-ty-dong-5002131.html) - 13:01 05/01/2026
+- 🎓 [Cựu cục phó An toàn thực phẩm: Cứ ký xong là nhận tiền](https://vnexpress.net/cuu-cuc-truong-an-toan-thuc-pham-khai-thay-sai-lam-khi-nhan-hoi-lo-gan-44-ty-dong-5002131.html) - 13:01 05/01/2026
 - 🤓 [10 người bị khởi tố trong vụ án &#39;chết sau hai ngày&#39; vào trung tâm công tác xã hội](https://vnexpress.net/10-nguoi-bi-khoi-to-trong-vu-an-chet-sau-hai-ngay-vao-trung-tam-cong-tac-xa-hoi-5002129.html) - 12:01 05/01/2026
 - 🎊 [Chủ nhiều dự án &#39;ma&#39; sa lưới sau 17 năm trốn nã](https://vnexpress.net/chu-nhieu-du-an-ma-sa-luoi-sau-17-nam-tron-na-5002121.html) - 11:39 05/01/2026
 - 🙉 [&#39;Cha đẻ&#39; của 26 công thức sữa giả khai tự nghĩ cách trộn nguyên liệu](https://vnexpress.net/cha-de-cua-26-cong-thuc-sua-gia-khai-tu-nghi-cach-tron-nguyen-lieu-5002030.html) - 09:43 05/01/2026
