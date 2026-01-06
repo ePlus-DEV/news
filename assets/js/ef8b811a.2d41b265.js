@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknews=self.webpackChunknews||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"David Nguyen","title":"CEO","url":"https://github.com/hoangsvit","imageURL":"https://github.com/hoangsvit.png","key":"david","page":null,"count":4}]}')}}]);
