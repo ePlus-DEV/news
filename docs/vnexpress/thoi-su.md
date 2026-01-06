@@ -5,9 +5,9 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Khỉ đuôi lợn xuống khu dân cư tấn công người dân](https://vnexpress.net/khi-duoi-lon-xuong-khu-dan-cu-tan-cong-nguoi-dan-5002268.html) - 05:59 06/01/2026
-- 🤓 [1,4 triệu thanh niên &#39;hai không&#39;](https://vnexpress.net/1-4-trieu-thanh-nien-hai-khong-5002273.html) - 05:58 06/01/2026
+- 🤓 [1,4 triệu thanh niên &#39;ba không&#39;](https://vnexpress.net/1-4-trieu-thanh-nien-ba-khong-5002273.html) - 05:58 06/01/2026
 - ⚗️ [Băng giá xuất hiện ở Cao Bằng](https://vnexpress.net/bang-gia-xuat-hien-o-cao-bang-5002374.html) - 05:29 06/01/2026
-- 🌊 [Loạt dự án gần 240.000 tỷ đồng sắp khởi công, động thổ ở TP HCM](https://vnexpress.net/loat-du-an-gan-240-000-ty-dong-sap-khoi-cong-dong-tho-o-tp-hcm-5002379.html) - 05:26 06/01/2026
+- 🌊 [4 dự án gần 240.000 tỷ đồng sắp khởi công, động thổ ở TP HCM](https://vnexpress.net/4-du-an-gan-240-000-ty-dong-sap-khoi-cong-dong-tho-o-tp-hcm-5002379.html) - 05:26 06/01/2026
 - 🎓 [Lý do dựng nhà rường trái phép ở lăng mộ Hoàng Thái hậu Từ Dụ](https://vnexpress.net/ly-do-dung-nha-ruong-trai-phep-o-lang-mo-hoang-thai-hau-tu-du-5002160.html) - 05:17 06/01/2026
 - 🔥 [Ôtô vỡ nát sau tai nạn, hai người thoát chết](https://vnexpress.net/oto-vo-nat-sau-tai-nan-hai-nguoi-thoat-chet-5002372.html) - 05:02 06/01/2026
 - 🦏 [Tổng Bí thư: Quốc hội cần dũng cảm quyết định việc khó](https://vnexpress.net/tong-bi-thu-quoc-hoi-can-dung-cam-quyet-dinh-viec-kho-5002293.html) - 05:01 06/01/2026
