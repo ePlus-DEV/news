@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Người dân đảo Phú Quý xếp hàng mua xăng](https://vnexpress.net/nguoi-dan-dao-phu-quy-xep-hang-mua-xang-5002257.html) - 05:28 06/01/2026
+- ⛽️ [Người dân đảo Phú Quý đổ đi mua xăng](https://vnexpress.net/nguoi-dan-dao-phu-quy-do-di-mua-xang-5002257.html) - 05:28 06/01/2026
 - 🐲 [Kho Bitcoin khổng lồ của Venezuela](https://vnexpress.net/kho-bitcoin-khong-lo-cua-venezuela-5002272.html) - 05:00 06/01/2026
 - 🔥 [Mỹ có thể hoàn chi phí cho các hãng dầu đầu tư vào Venezuela](https://vnexpress.net/my-co-the-hoan-chi-phi-cho-cac-hang-dau-dau-tu-vao-venezuela-5002337.html) - 04:23 06/01/2026
 - 🐵 [Nông sản Việt tham gia vào chuỗi giá trị toàn cầu của PepsiCo](https://vnexpress.net/nong-san-viet-tham-gia-vao-chuoi-gia-tri-toan-cau-cua-pepsico-4986383.html) - 04:00 06/01/2026
