@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam - Jordan: Đình Bắc, Lý Đức đá chính](https://vnexpress.net/truc-tiep-viet-nam-vs-jordan-5002551.html) - 10:27 06/01/2026
+- 🪜 [Việt Nam 0-0 Jordan &lpar;H1&rpar;: Các học trò Kim Sang-sik tràn lên](https://vnexpress.net/truc-tiep-viet-nam-vs-jordan-5002551.html) - 10:27 06/01/2026
 - 🦩 [Chelsea bổ nhiệm HLV Rosenior](https://vnexpress.net/chelsea-bo-nhiem-hlv-rosenior-5002542.html) - 10:00 06/01/2026
 - 🧰 [HLV Fletcher có thể giúp gì cho Man Utd?](https://vnexpress.net/hlv-fletcher-co-the-giup-gi-cho-man-utd-5002334.html) - 09:29 06/01/2026
 - 🤗 [VFF phạt thêm 5 cầu thủ vì &#39;thi đấu không đúng khả năng&#39;](https://vnexpress.net/vff-phat-them-5-cau-thu-vi-thi-dau-khong-dung-kha-nang-5002508.html) - 09:02 06/01/2026
