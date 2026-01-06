@@ -14,12 +14,12 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
@@ -42,4 +42,5 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: eplus-bot
           user_email: bot@eplus.dev
+
 
