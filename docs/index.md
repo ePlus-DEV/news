@@ -257,17 +257,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Báo in ngày 7-1: Vỡ mộng thú chơi rồng Nam Mỹ](https://nld.com.vn/bao-in-ngay-7-1-vo-mong-thu-choi-rong-nam-my-196260106225058707.htm) - 17:06 06/01/2026
-- 😺 [HLV Kim Sang-sik tiết lộ nguyên nhân giúp U23 Việt Nam thắng U23 Jordan](https://nld.com.vn/hlv-kim-sang-sik-tiet-lo-nguyen-nhan-giup-u23-viet-nam-thang-u23-jordan-196260106221839798.htm) - 15:20 06/01/2026
-- 👍 [Trường Đại học Cửu Long ký hợp tác với Viện Pasteur TPHCM](https://nld.com.vn/truong-dai-hoc-cuu-long-ky-hop-tac-voi-vien-pasteur-tphcm-19626010620561538.htm) - 14:59 06/01/2026
-- 🥷 [U23 Việt Nam tạo cột mốc mới khi thắng U23 Jordan](https://nld.com.vn/u23-viet-nam-tao-cot-moc-moi-khi-thang-u23-jordan-19626010621553703.htm) - 14:58 06/01/2026
-- 🤔 [Bé gái sơ sinh bị bỏ rơi, cơ thể tím tái trong giá rét](https://nld.com.vn/be-gai-so-sinh-bi-bo-roi-co-the-tim-tai-trong-gia-ret-196260106213405378.htm) - 14:39 06/01/2026
-- 🌈 [Thị trường tiền số hôm nay, 6-1: Ai đang âm thầm đẩy giá Bitcoin tăng vọt?](https://nld.com.vn/thi-truong-tien-so-hom-nay-6-1-ai-dang-am-tham-day-gia-bitcoin-tang-vot-196260106211449451.htm) - 14:34 06/01/2026
-- 🔥 [Highlight: Xem 2 bàn thắng của U23 Việt Nam trước Jordan](https://nld.com.vn/highlight-xem-2-ban-thang-cua-u23-viet-nam-truoc-jordan-196260106212938297.htm) - 14:31 06/01/2026
-- 🧰 [Đình Bắc tỏa sáng giúp U23 Việt Nam thắng U23 Jordan](https://nld.com.vn/dinh-bac-toa-sang-giup-u23-viet-nam-thang-u23-jordan-196260106212857757.htm) - 14:30 06/01/2026
-- 🤗 [Phát hiện ô tô chở 12 người nước ngoài nhập cảnh trái phép vào Việt Nam](https://nld.com.vn/phat-hien-o-to-cho-12-nguoi-nuoc-ngoai-nhap-canh-trai-phep-vao-viet-nam-196260106212530478.htm) - 14:28 06/01/2026
-- 🦅 [Điều gì đã xảy ra khiến Starbucks Việt Nam phải xin lỗi khách hàng?](https://nld.com.vn/dieu-gi-da-xay-ra-khien-starbucks-viet-nam-phai-xin-loi-khach-hang-19626010620422596.htm) - 14:27 06/01/2026
-- 🤩 [Phiên bản mới của Flappy Bird là trò chơi tốn điện thoại nhất từ trước đến nay?](https://nld.com.vn/phien-ban-moi-cua-flappy-bird-la-tro-choi-ton-dien-thoai-nhat-tu-truoc-den-nay-196260106184749097.htm) - 14:17 06/01/2026
+- 🐎 [Phiên bản mới của Flappy Bird là trò chơi tốn điện thoại nhất từ trước đến nay?](https://nld.com.vn/phien-ban-moi-cua-flappy-bird-la-tro-choi-ton-dien-thoai-nhat-tu-truoc-den-nay-196260106184749097.htm) - 17:17 06/01/2026
+- 😺 [Báo in ngày 7-1: Vỡ mộng thú chơi rồng Nam Mỹ](https://nld.com.vn/bao-in-ngay-7-1-vo-mong-thu-choi-rong-nam-my-196260106225058707.htm) - 17:06 06/01/2026
+- 👍 [HLV Kim Sang-sik tiết lộ nguyên nhân giúp U23 Việt Nam thắng U23 Jordan](https://nld.com.vn/hlv-kim-sang-sik-tiet-lo-nguyen-nhan-giup-u23-viet-nam-thang-u23-jordan-196260106221839798.htm) - 15:20 06/01/2026
+- 🥷 [Trường Đại học Cửu Long ký hợp tác với Viện Pasteur TPHCM](https://nld.com.vn/truong-dai-hoc-cuu-long-ky-hop-tac-voi-vien-pasteur-tphcm-19626010620561538.htm) - 14:59 06/01/2026
+- 🤔 [U23 Việt Nam tạo cột mốc mới khi thắng U23 Jordan](https://nld.com.vn/u23-viet-nam-tao-cot-moc-moi-khi-thang-u23-jordan-19626010621553703.htm) - 14:58 06/01/2026
+- 🌈 [Bé gái sơ sinh bị bỏ rơi, cơ thể tím tái trong giá rét](https://nld.com.vn/be-gai-so-sinh-bi-bo-roi-co-the-tim-tai-trong-gia-ret-196260106213405378.htm) - 14:39 06/01/2026
+- 🔥 [Thị trường tiền số hôm nay, 6-1: Ai đang âm thầm đẩy giá Bitcoin tăng vọt?](https://nld.com.vn/thi-truong-tien-so-hom-nay-6-1-ai-dang-am-tham-day-gia-bitcoin-tang-vot-196260106211449451.htm) - 14:34 06/01/2026
+- 🧰 [Highlight: Xem 2 bàn thắng của U23 Việt Nam trước Jordan](https://nld.com.vn/highlight-xem-2-ban-thang-cua-u23-viet-nam-truoc-jordan-196260106212938297.htm) - 14:31 06/01/2026
+- 🤗 [Đình Bắc tỏa sáng giúp U23 Việt Nam thắng U23 Jordan](https://nld.com.vn/dinh-bac-toa-sang-giup-u23-viet-nam-thang-u23-jordan-196260106212857757.htm) - 14:30 06/01/2026
+- 🦅 [Phát hiện ô tô chở 12 người nước ngoài nhập cảnh trái phép vào Việt Nam](https://nld.com.vn/phat-hien-o-to-cho-12-nguoi-nuoc-ngoai-nhap-canh-trai-phep-vao-viet-nam-196260106212530478.htm) - 14:28 06/01/2026
+- 🤩 [Điều gì đã xảy ra khiến Starbucks Việt Nam phải xin lỗi khách hàng?](https://nld.com.vn/dieu-gi-da-xay-ra-khien-starbucks-viet-nam-phai-xin-loi-khach-hang-19626010620422596.htm) - 14:27 06/01/2026
 - 🎭 [Hà Nội thắng kịch tính, Thái Sơn Nam TP HCM vô địch sớm 1 vòng](https://nld.com.vn/ha-noi-thang-kich-tinh-thai-son-nam-tp-hcm-vo-dich-som-1-vong-196260106204527724.htm) - 14:11 06/01/2026
 - 💄 [Chelsea bổ nhiệm tân HLV trưởng Liam Rosenior](https://nld.com.vn/chelsea-bo-nhiem-tan-hlv-truong-liam-rosenior-196260106204404819.htm) - 14:11 06/01/2026
 - 🎊 [Phó Thủ tướng chỉ đạo Thanh tra Chính phủ xác suất kiểm tra về chống khai thác IUU](https://nld.com.vn/pho-thu-tuong-chi-dao-thanh-tra-chinh-phu-xac-suat-kiem-tra-ve-chong-khai-thac-iuu-196260106210245745.htm) - 14:05 06/01/2026
