@@ -36,7 +36,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Tan nát gia đình từ khi chồng đi theo nữ đồng nghiệp giang hồ](https://vnexpress.net/ly-hon-tan-nat-gia-dinh-tu-khi-chong-di-theo-nu-dong-nghiep-giang-ho-5002502.html) - 14:00 06/01/2026
 - 💃 [Đường bay Hà Nội - TP HCM vào top bận rộn nhất thế giới](https://vnexpress.net/duong-bay-ha-noi-tp-hcm-vao-top-ban-ron-nhat-the-gioi-5002555.html) - 13:48 06/01/2026
 - 💂 [Việt Nam đạt cột mốc lịch sử trước Jordan ở cấp U23](https://vnexpress.net/viet-nam-dat-cot-moc-lich-su-truoc-jordan-o-cap-u23-5002585.html) - 13:35 06/01/2026
-- 🎊 [HLV Kim tự hào về khả năng tận dụng &#39;bóng chết&#39; của Việt Nam](https://vnexpress.net/hlv-kim-tu-hao-ve-kha-nang-tan-dung-bong-chet-cua-viet-nam-5002578.html) - 13:30 06/01/2026
+- 🎊 [HLV Kim Sang-sik tự hào về &#39;bóng chết&#39; của Việt Nam](https://vnexpress.net/hlv-kim-sang-sik-tu-hao-ve-bong-chet-cua-viet-nam-5002578.html) - 13:30 06/01/2026
 - 🤠 [Thu ngân sách 2025 đạt kỷ lục 2,65 triệu tỷ đồng](https://vnexpress.net/thu-ngan-sach-2025-dat-ky-luc-2-65-trieu-ty-dong-5002519.html) - 13:30 06/01/2026
 - 🌈 [Vương Tổ Hiền: &#39;Tôi sống thanh thản&#39;](https://vnexpress.net/vuong-to-hien-toi-song-thanh-than-5002442.html) - 13:18 06/01/2026
 - 🎬 [Học sinh nước Đông Nam Á nào giỏi Toán nhất thế giới?](https://vnexpress.net/hoc-sinh-nuoc-dong-nam-a-nao-gioi-toan-nhat-the-gioi-5002518.html) - 13:05 06/01/2026
@@ -66,7 +66,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Quán bar có nhân viên dùng xẻng dọa khách nước ngoài bị đình chỉ hoạt động](https://vnexpress.net/quan-bar-co-nhan-vien-dung-xeng-doa-khach-nuoc-ngoai-bi-dinh-chi-hoat-dong-5002553.html) - 10:51 06/01/2026
 - 🦒 [Trăm cảnh sát vây bắt đường dây lừa đảo, đánh bạc 9.300 tỷ đồng](https://vnexpress.net/tram-canh-sat-vay-bat-duong-day-lua-dao-danh-bac-9-300-ty-dong-5002552.html) - 10:35 06/01/2026
 - ⛽️ [Báo chí Mỹ biết trước về vụ đột kích Venezuela](https://vnexpress.net/bao-chi-my-biet-truoc-ve-vu-dot-kich-venezuela-5002509.html) - 10:31 06/01/2026
-- 🚀 [Việt Nam hạ Jordan ở trận ra quân U23 châu Á](https://vnexpress.net/truc-tiep-viet-nam-vs-jordan-5002551.html) - 10:27 06/01/2026
+- 🚀 [Việt Nam hạ Jordan ở trận ra quân U23 châu Á](https://vnexpress.net/truc-tiep-viet-nam-vs-jordan-5002551-tong-thuat.html) - 10:27 06/01/2026
 - 🪜 [Người phụ nữ mất 7,4 tỷ đồng vì tin &#39;chuyên gia tài chính&#39;](https://vnexpress.net/nguoi-phu-nu-mat-7-4-ty-dong-vi-tin-chuyen-gia-tai-chinh-5002536.html) - 10:19 06/01/2026
 - 🚦 [Điểm tin 21h: Việt Nam thắng Jordan ở trận ra quân U23 châu Á | TP HCM cho phép lắp tủ đổi pin xe máy điện trên vỉa hè](https://vnexpress.net/diem-tin-21h-viet-nam-thang-jordan-o-tran-ra-quan-u23-chau-a-tp-hcm-cho-phep-lap-tu-doi-pin-xe-may-dien-tren-via-he-5002540.html) - 10:10 06/01/2026
 - 🕯 [Bị cáo: Đưa tiền theo &#39;cơ chế của cục trưởng Nga&#39; mới được duyệt hồ sơ](https://vnexpress.net/bi-cao-dua-tien-theo-co-che-cua-cuc-truong-nga-moi-duoc-duyet-ho-so-5002525.html) - 10:05 06/01/2026
