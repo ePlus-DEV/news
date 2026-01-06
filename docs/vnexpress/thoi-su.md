@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM cho phép lắp tủ đổi pin xe máy điện trên vỉa hè](https://vnexpress.net/tp-hcm-cho-phep-lap-tu-doi-pin-xe-may-dien-tren-via-he-5002584.html) - 13:20 06/01/2026
+- 🦒 [Đà Nẵng dự kiến tạo 10.000 việc làm từ ngành dược liệu](https://vnexpress.net/da-nang-du-kien-tao-10-000-viec-lam-tu-nganh-duoc-lieu-5002576.html) - 14:40 06/01/2026
 - 🤓 [Phát hiện đạn cối, rocket trong rẫy keo](https://vnexpress.net/phat-hien-dan-coi-rocket-trong-ray-keo-5002565.html) - 11:29 06/01/2026
 - ⚗️ [Thực hiện Chương trình hiện đại hóa giáo dục trị giá 580.000 tỷ đồng](https://vnexpress.net/thuc-hien-chuong-trinh-hien-dai-hoa-giao-duc-tri-gia-580-000-ty-dong-5000748.html) - 11:00 06/01/2026
 - 🌊 [Quán bar có nhân viên dùng xẻng dọa khách nước ngoài bị đình chỉ hoạt động](https://vnexpress.net/quan-bar-co-nhan-vien-dung-xeng-doa-khach-nuoc-ngoai-bi-dinh-chi-hoat-dong-5002553.html) - 10:51 06/01/2026
