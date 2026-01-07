@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [Đề xuất Kho bạc được nới hạn mức gửi tiền dịp Tết](https://vnexpress.net/de-xuat-kho-bac-duoc-noi-han-muc-gui-tien-dip-tet-5002913.html) - 09:53 07/01/2026
 - 🐵 [VN-Index tiếp tục lập kỷ lục mới](https://vnexpress.net/vn-index-tiep-tuc-lap-ky-luc-moi-5002947.html) - 08:47 07/01/2026
 - 🦅 [Chính phủ Mỹ có thể phải hoàn 133 tỷ USD thuế nhập khẩu nếu thua kiện](https://vnexpress.net/chinh-phu-my-co-the-phai-hoan-133-ty-usd-thue-nhap-khau-neu-thua-kien-5002648.html) - 08:18 07/01/2026
-- 😺 [BIDV lãi kỷ lục hơn 36.000 tỷ đồng](https://vnexpress.net/bidv-lai-ky-luc-hon-36-000-ty-dong-5002888.html) - 08:08 07/01/2026
+- 😺 [BIDV báo lãi hơn 36.000 tỷ đồng](https://vnexpress.net/bidv-bao-lai-hon-36-000-ty-dong-5002888.html) - 08:08 07/01/2026
 - 🤩 [Venezuela từng chuyển hơn 100 tấn vàng tới Thụy Sĩ](https://vnexpress.net/venezuela-tung-chuyen-hon-100-tan-vang-toi-thuy-si-5002732.html) - 04:24 07/01/2026
 - 🌮 [Bac A Bank tặng tiền mặt cho người mở tài khoản thanh toán lần đầu](https://vnexpress.net/bac-a-bank-tang-tien-mat-cho-nguoi-mo-tai-khoan-thanh-toan-lan-dau-5002457.html) - 03:00 07/01/2026
 - 🧰 [Áp lực sau kỷ lục xuất khẩu 500 tỷ USD năm 2025](https://vnexpress.net/ap-luc-sau-ky-luc-xuat-khau-500-ty-usd-nam-2025-5002440.html) - 02:08 07/01/2026
