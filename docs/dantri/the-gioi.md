@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Su-57 Nga &#39;tả xung hữu đột&quot;, xuyên thủng lưới lửa phòng không Ukraine](https://dantri.com.vn/the-gioi/su-57-nga-ta-xung-huu-dot-xuyen-thung-luoi-lua-phong-khong-ukraine-20260108154603748.htm) - 10:47 08/01/2026
+- 🌋 [Su-57 Nga &quot;tả xung hữu đột&quot;, xuyên thủng lưới lửa phòng không Ukraine](https://dantri.com.vn/the-gioi/su-57-nga-ta-xung-huu-dot-xuyen-thung-luoi-lua-phong-khong-ukraine-20260108154603748.htm) - 10:47 08/01/2026
 - 🎬 [Chủ tịch Trung Quốc tặng Tổng thống Hàn Quốc xe đạp điện](https://dantri.com.vn/the-gioi/chu-tich-trung-quoc-tang-tong-thong-han-quoc-xe-dap-dien-20260108160950791.htm) - 09:38 08/01/2026
 - 🧰 [Trung Quốc lên tiếng sau vụ Campuchia bắt ông trùm Chen Zhi](https://dantri.com.vn/the-gioi/trung-quoc-len-tieng-sau-vu-campuchia-bat-ong-trum-chen-zhi-20260108154455503.htm) - 08:51 08/01/2026
 - 🌋 [Rủi ro có thể thành thảm kịch trong cuộc đột kích của Mỹ vào Venezuela](https://dantri.com.vn/the-gioi/rui-ro-co-the-thanh-tham-kich-trong-cuoc-dot-kich-cua-my-vao-venezuela-20260108145706790.htm) - 08:33 08/01/2026
