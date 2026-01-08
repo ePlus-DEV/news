@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế rượt đuổi xe trên cao tốc khiến khách hoảng loạn](https://vnexpress.net/tai-xe-ruot-duoi-xe-tren-cao-toc-khien-khach-hoang-loan-5003284.html) - 05:38 08/01/2026
+- 🦒 [Tài xế rượt đuổi xe trên cao tốc TP HCM - Trung Lương khiến khách hoảng loạn](https://vnexpress.net/tai-xe-ruot-duoi-xe-tren-cao-toc-tp-hcm-trung-luong-khien-khach-hoang-loan-5003284.html) - 05:38 08/01/2026
 - 🤓 [Hiện trường vụ cháy nhà 6 tầng ở Hà Đông](https://vnexpress.net/hien-truong-vu-chay-nha-6-tang-o-ha-dong-5003222.html) - 03:58 08/01/2026
 - ⚗️ [Hiện trạng sân khấu 10.000 m2 trung tâm TP HCM sẽ làm bãi xe metro](https://vnexpress.net/hien-trang-san-khau-10-000-m2-trung-tam-tp-hcm-se-lam-bai-xe-metro-5002837.html) - 02:39 08/01/2026
 - 🌊 [Cháy nhà 6 tầng tại Hà Đông](https://vnexpress.net/chay-nha-6-tang-tai-ha-dong-5003162.html) - 02:32 08/01/2026
