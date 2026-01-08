@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga cảnh báo lính châu Âu đến Ukraine sẽ là mục tiêu hợp pháp](https://vnexpress.net/nga-canh-bao-linh-chau-au-den-ukraine-se-la-muc-tieu-hop-phap-5003502.html) - 14:30 08/01/2026
-- 🕴 [Tổng Bí thư Tô Lâm chúc mừng Tổng Bí thư Lào tái đắc cử](https://vnexpress.net/tong-bi-thu-to-lam-chuc-mung-tong-bi-thu-lao-tai-dac-cu-5003488.html) - 13:48 08/01/2026
-- 🤭 [Mỹ công bố ảnh nguyên mẫu xe tăng Abrams thế hệ mới](https://vnexpress.net/my-cong-bo-anh-nguyen-mau-xe-tang-abrams-the-he-moi-5003445.html) - 12:45 08/01/2026
-- 🧑‍💻 [Mỹ hứng chỉ trích vì rút khỏi công ước khí hậu LHQ](https://vnexpress.net/my-hung-chi-trich-vi-rut-khoi-cong-uoc-khi-hau-lhq-5003335.html) - 12:14 08/01/2026
-- 🦏 [Ông Trump nêu thời hạn Mỹ &#39;giám sát Venezuela&#39;](https://vnexpress.net/ong-trump-neu-thoi-han-my-giam-sat-venezuela-5003468.html) - 11:44 08/01/2026
-- 🦒 [Việt Nam mong muốn tiếp tục thúc đẩy hợp tác với Venezuela](https://vnexpress.net/viet-nam-mong-muon-tiep-tuc-thuc-day-hop-tac-voi-venezuela-5003430.html) - 10:22 08/01/2026
-- 🌈 [Khoảnh khắc ông trùm Chen Zhi bị dẫn độ về Trung Quốc](https://vnexpress.net/khoanh-khac-ong-trum-chen-zhi-bi-dan-do-ve-trung-quoc-5003422.html) - 09:58 08/01/2026
-- 🧑‍🏫 [Việt Nam lên tiếng về việc Mỹ rút khỏi 66 tổ chức quốc tế](https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-rut-khoi-66-to-chuc-quoc-te-5003416.html) - 09:44 08/01/2026
-- 🐲 [Biểu tình ở nhiều thành phố Mỹ sau vụ đặc vụ ICE bắn chết người](https://vnexpress.net/bieu-tinh-o-nhieu-thanh-pho-my-sau-vu-dac-vu-ice-ban-chet-nguoi-5003345.html) - 09:17 08/01/2026
-- 🦒 [Phi công F-16 Ukraine kể về mối đe dọa từ tiêm kích Nga](https://vnexpress.net/phi-cong-f-16-ukraine-ke-ve-moi-de-doa-tu-tiem-kich-nga-5002953.html) - 08:47 08/01/2026
-- 🐻 [Khoảnh khắc trực thăng Mỹ đổ quân bắt tàu dầu trên biển](https://vnexpress.net/khoanh-khac-truc-thang-my-do-quan-bat-tau-dau-tren-bien-5003347.html) - 08:37 08/01/2026
-- 🚀 [Mỹ sẽ kiểm soát hoạt động mua bán dầu của Venezuela &#39;vô thời hạn&#39;](https://vnexpress.net/my-se-kiem-soat-hoat-dong-mua-ban-dau-cua-venezuela-vo-thoi-han-5003244.html) - 08:16 08/01/2026
-- 🥰 [Campuchia thanh lý ngân hàng của ông trùm Chen Zhi](https://vnexpress.net/campuchia-thanh-ly-ngan-hang-cua-ong-trum-chen-zhi-5003290.html) - 08:16 08/01/2026
-- 🔥 [Hơn hai tuần Mỹ truy bắt tàu dầu mang cờ Nga](https://vnexpress.net/hon-hai-tuan-my-truy-bat-tau-dau-mang-co-nga-5003164.html) - 07:53 08/01/2026
-- 🥳 [Ông Zelensky kêu gọi Mỹ &#39;tiến hành chiến dịch&#39; với lãnh đạo Chechnya](https://vnexpress.net/ong-zelensky-keu-goi-my-tien-hanh-chien-dich-voi-lanh-dao-chechnya-5003267.html) - 07:24 08/01/2026
-- 💼 [Canada sẽ tài trợ gần 59 triệu USD cho các dự án phát triển tại Việt Nam](https://vnexpress.net/canada-se-tai-tro-gan-59-trieu-usd-cho-cac-du-an-phat-trien-tai-viet-nam-5003303.html) - 07:23 08/01/2026
-- 🤡 [Ông Trump muốn chi 1.500 tỷ USD để xây dựng &#39;quân đội trong mơ&#39;](https://vnexpress.net/ong-trump-muon-chi-1-500-ty-usd-de-xay-dung-quan-doi-trong-mo-5003266.html) - 05:06 08/01/2026
-- 🌁 [Marco Rubio - người định hình chính sách của Mỹ với Venezuela](https://vnexpress.net/marco-rubio-nguoi-dinh-hinh-chinh-sach-cua-my-voi-venezuela-5002640.html) - 04:43 08/01/2026
-- 🤩 [Nhật Bản bổ nhiệm mèo làm trưởng ga tàu](https://vnexpress.net/nhat-ban-bo-nhiem-meo-lam-truong-ga-tau-5003187.html) - 04:19 08/01/2026
+- 🎭 [Tổng thống Pháp Macron: Mỹ &#39;phá vỡ quy tắc quốc tế&#39;](https://vnexpress.net/tong-thong-phap-macron-my-pha-vo-quy-tac-quoc-te-5003506.html) - 16:20 08/01/2026
+- 🕴 [Nga cảnh báo lính châu Âu đến Ukraine sẽ là mục tiêu hợp pháp](https://vnexpress.net/nga-canh-bao-linh-chau-au-den-ukraine-se-la-muc-tieu-hop-phap-5003502.html) - 14:30 08/01/2026
+- 🤭 [Tổng Bí thư Tô Lâm chúc mừng Tổng Bí thư Lào tái đắc cử](https://vnexpress.net/tong-bi-thu-to-lam-chuc-mung-tong-bi-thu-lao-tai-dac-cu-5003488.html) - 13:48 08/01/2026
+- 🧑‍💻 [Mỹ công bố ảnh nguyên mẫu xe tăng Abrams thế hệ mới](https://vnexpress.net/my-cong-bo-anh-nguyen-mau-xe-tang-abrams-the-he-moi-5003445.html) - 12:45 08/01/2026
+- 🦏 [Mỹ hứng chỉ trích vì rút khỏi công ước khí hậu LHQ](https://vnexpress.net/my-hung-chi-trich-vi-rut-khoi-cong-uoc-khi-hau-lhq-5003335.html) - 12:14 08/01/2026
+- 🦒 [Ông Trump nêu thời hạn Mỹ &#39;giám sát Venezuela&#39;](https://vnexpress.net/ong-trump-neu-thoi-han-my-giam-sat-venezuela-5003468.html) - 11:44 08/01/2026
+- 🌈 [Việt Nam mong muốn tiếp tục thúc đẩy hợp tác với Venezuela](https://vnexpress.net/viet-nam-mong-muon-tiep-tuc-thuc-day-hop-tac-voi-venezuela-5003430.html) - 10:22 08/01/2026
+- 🧑‍🏫 [Khoảnh khắc ông trùm Chen Zhi bị dẫn độ về Trung Quốc](https://vnexpress.net/khoanh-khac-ong-trum-chen-zhi-bi-dan-do-ve-trung-quoc-5003422.html) - 09:58 08/01/2026
+- 🐲 [Việt Nam lên tiếng về việc Mỹ rút khỏi 66 tổ chức quốc tế](https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-rut-khoi-66-to-chuc-quoc-te-5003416.html) - 09:44 08/01/2026
+- 🦒 [Biểu tình ở nhiều thành phố Mỹ sau vụ đặc vụ ICE bắn chết người](https://vnexpress.net/bieu-tinh-o-nhieu-thanh-pho-my-sau-vu-dac-vu-ice-ban-chet-nguoi-5003345.html) - 09:17 08/01/2026
+- 🐻 [Phi công F-16 Ukraine kể về mối đe dọa từ tiêm kích Nga](https://vnexpress.net/phi-cong-f-16-ukraine-ke-ve-moi-de-doa-tu-tiem-kich-nga-5002953.html) - 08:47 08/01/2026
+- 🚀 [Khoảnh khắc trực thăng Mỹ đổ quân bắt tàu dầu trên biển](https://vnexpress.net/khoanh-khac-truc-thang-my-do-quan-bat-tau-dau-tren-bien-5003347.html) - 08:37 08/01/2026
+- 🥰 [Mỹ sẽ kiểm soát hoạt động mua bán dầu của Venezuela &#39;vô thời hạn&#39;](https://vnexpress.net/my-se-kiem-soat-hoat-dong-mua-ban-dau-cua-venezuela-vo-thoi-han-5003244.html) - 08:16 08/01/2026
+- 🔥 [Campuchia thanh lý ngân hàng của ông trùm Chen Zhi](https://vnexpress.net/campuchia-thanh-ly-ngan-hang-cua-ong-trum-chen-zhi-5003290.html) - 08:16 08/01/2026
+- 🥳 [Hơn hai tuần Mỹ truy bắt tàu dầu mang cờ Nga](https://vnexpress.net/hon-hai-tuan-my-truy-bat-tau-dau-mang-co-nga-5003164.html) - 07:53 08/01/2026
+- 💼 [Ông Zelensky kêu gọi Mỹ &#39;tiến hành chiến dịch&#39; với lãnh đạo Chechnya](https://vnexpress.net/ong-zelensky-keu-goi-my-tien-hanh-chien-dich-voi-lanh-dao-chechnya-5003267.html) - 07:24 08/01/2026
+- 🤡 [Canada sẽ tài trợ gần 59 triệu USD cho các dự án phát triển tại Việt Nam](https://vnexpress.net/canada-se-tai-tro-gan-59-trieu-usd-cho-cac-du-an-phat-trien-tai-viet-nam-5003303.html) - 07:23 08/01/2026
+- 🌁 [Ông Trump muốn chi 1.500 tỷ USD để xây dựng &#39;quân đội trong mơ&#39;](https://vnexpress.net/ong-trump-muon-chi-1-500-ty-usd-de-xay-dung-quan-doi-trong-mo-5003266.html) - 05:06 08/01/2026
+- 🤩 [Marco Rubio - người định hình chính sách của Mỹ với Venezuela](https://vnexpress.net/marco-rubio-nguoi-dinh-hinh-chinh-sach-cua-my-voi-venezuela-5002640.html) - 04:43 08/01/2026
+- 🎉 [Nhật Bản bổ nhiệm mèo làm trưởng ga tàu](https://vnexpress.net/nhat-ban-bo-nhiem-meo-lam-truong-ga-tau-5003187.html) - 04:19 08/01/2026
 - 🎉 [Nga tố Mỹ vi phạm công ước UNCLOS khi bắt tàu dầu](https://vnexpress.net/nga-to-my-vi-pham-cong-uoc-unclos-khi-bat-tau-dau-5003195.html) - 04:08 08/01/2026
-- 🎉 [Venezuela nói 100 người thiệt mạng khi Mỹ đột kích bắt ông Maduro](https://vnexpress.net/venezuela-noi-100-nguoi-thiet-mang-khi-my-dot-kich-bat-ong-maduro-5003180.html) - 03:34 08/01/2026
-- 🌁 [Đặc vụ ICE bắn chết người ở Minnesota](https://vnexpress.net/dac-vu-ice-ban-chet-nguoi-o-minnesota-5003133.html) - 03:04 08/01/2026
-- 🌊 [Ông Trump mời Tổng thống Colombia tới Nhà Trắng giữa căng thẳng](https://vnexpress.net/ong-trump-moi-tong-thong-colombia-toi-nha-trang-giua-cang-thang-5003134.html) - 02:43 08/01/2026
-- 🕴 [Tiêm kích F-16V Đài Loan lao xuống biển vì &#39;trục trặc máy tính&#39;](https://vnexpress.net/tiem-kich-f-16v-dai-loan-lao-xuong-bien-vi-truc-trac-may-tinh-5003105.html) - 02:38 08/01/2026
-- 🎓 [Chính phủ Venezuela bàn cách giải cứu ông Maduro](https://vnexpress.net/chinh-phu-venezuela-ban-cach-giai-cuu-ong-maduro-5003128.html) - 02:29 08/01/2026
-- 🦩 [Ông Vance: Venezuela chỉ được bán dầu nếu phục vụ lợi ích Mỹ](https://vnexpress.net/ong-vance-venezuela-chi-duoc-ban-dau-neu-phuc-vu-loi-ich-my-5003098.html) - 01:36 08/01/2026
-- 🌏 [Mỹ rút khỏi 66 tổ chức quốc tế](https://vnexpress.net/my-rut-khoi-66-to-chuc-quoc-te-5003093.html) - 01:19 08/01/2026
-- 🌋 [Mỹ bắt tàu dầu mang cờ Nga sau nhiều tuần bám đuổi](https://vnexpress.net/my-bat-tau-dau-mang-co-nga-sau-nhieu-tuan-bam-duoi-5003091.html) - 00:52 08/01/2026
-- 🪜 [Ông Trump chỉ trích Na Uy không trao Nobel Hòa bình cho mình](https://vnexpress.net/ong-trump-chi-trich-na-uy-khong-trao-nobel-hoa-binh-cho-minh-5003089.html) - 23:59 07/01/2026
-- 🕴 [Trung Quốc chỉ trích Mỹ ép Venezuela giao nộp dầu](https://vnexpress.net/trung-quoc-chi-trich-my-ep-venezuela-giao-nop-dau-5003067.html) - 16:41 07/01/2026
-- 🧑‍🏫 [Việt Nam thông tin về Đại hội Đảng lần thứ 14 tới quốc tế](https://vnexpress.net/viet-nam-thong-tin-ve-dai-hoi-dang-lan-thu-14-toi-quoc-te-5003056.html) - 16:00 07/01/2026
-- 🌮 [Campuchia bắt ông trùm Chen Zhi](https://vnexpress.net/campuchia-bat-ong-trum-chen-zhi-5003068.html) - 15:58 07/01/2026
-- 🚦 [Tổng thống Iran yêu cầu lực lượng an ninh không nhắm vào người biểu tình ôn hòa](https://vnexpress.net/tong-thong-iran-yeu-cau-luc-luong-an-ninh-khong-nham-vao-nguoi-bieu-tinh-on-hoa-5003041.html) - 14:15 07/01/2026
-- 💫 [Chiến dịch đột kích, bắt Tổng thống Venezuela của Mỹ qua ảnh](https://vnexpress.net/chien-dich-dot-kich-bat-tong-thong-venezuela-cua-my-qua-anh-5003023.html) - 13:51 07/01/2026
-- 🤡 [Venezuela thay tư lệnh đội cận vệ Tổng thống](https://vnexpress.net/venezuela-thay-tu-lenh-doi-can-ve-tong-thong-5003036.html) - 13:07 07/01/2026
-- 🦣 [Nỗi bất an của châu Âu khi Mỹ tăng sức ép về Greenland](https://vnexpress.net/noi-bat-an-cua-chau-au-khi-my-tang-suc-ep-ve-greenland-5002642.html) - 12:00 07/01/2026
-- 🎬 [Câu chuyện phía sau tấm ảnh cô gái Venezuela chạy trốn hỏa lực Mỹ](https://vnexpress.net/cau-chuyen-phia-sau-tam-anh-co-gai-venezuela-chay-tron-hoa-luc-my-5002922.html) - 10:48 07/01/2026
-- 🎉 [Mỹ mở chiến dịch truy quét trục xuất &#39;lớn nhất lịch sử&#39;](https://vnexpress.net/my-mo-chien-dich-truy-quet-truc-xuat-lon-nhat-lich-su-5002930.html) - 09:49 07/01/2026
-- 🎡 [Tổng thống Hàn Quốc đề nghị ông Tập giúp hòa giải với Triều Tiên](https://vnexpress.net/tong-thong-han-quoc-de-nghi-ong-tap-giup-hoa-giai-voi-trieu-tien-5002959.html) - 09:48 07/01/2026
-- 🌜 [Đặc vụ CIA từng &#39;bán danh tính loạt điệp viên&#39; chết trong tù](https://vnexpress.net/dac-vu-cia-tung-ban-danh-tinh-loat-diep-vien-chet-trong-tu-5002895.html) - 09:36 07/01/2026
-- 🎡 [10 năm bỏ chính sách một con, tỷ lệ sinh ở Trung Quốc vẫn lao dốc](https://vnexpress.net/10-nam-bo-chinh-sach-mot-con-ty-le-sinh-o-trung-quoc-van-lao-doc-5002675.html) - 08:49 07/01/2026
-- 🤗 [Venezuela tuyên bố quốc tang 7 ngày](https://vnexpress.net/venezuela-tuyen-bo-quoc-tang-7-ngay-5002879.html) - 08:29 07/01/2026
-- 🦩 [Đài Loan chưa tìm thấy phi công gặp nạn cùng tiêm kích F-16](https://vnexpress.net/dai-loan-chua-tim-thay-phi-cong-gap-nan-cung-tiem-kich-f-16-5002871.html) - 08:20 07/01/2026
-- 🎓 [Ông Trump: Vợ ghét điệu nhảy YMCA của tôi](https://vnexpress.net/ong-trump-vo-ghet-dieu-nhay-ymca-cua-toi-5002841.html) - 07:49 07/01/2026
-- 🌁 [Vật giá leo thang ở Venezuela](https://vnexpress.net/vat-gia-leo-thang-o-venezuela-5002643.html) - 07:48 07/01/2026
-- 🤩 [Mỹ lần đầu tiết lộ số quân nhân bị thương khi bắt ông Maduro](https://vnexpress.net/my-lan-dau-tiet-lo-so-quan-nhan-bi-thuong-khi-bat-ong-maduro-5002755.html) - 07:24 07/01/2026
-- 👹 [Hơn hai thập kỷ căng thẳng trong quan hệ Mỹ - Venezuela](https://vnexpress.net/hon-hai-thap-ky-cang-thang-trong-quan-he-my-venezuela-5002224.html) - 05:01 07/01/2026
-- ⛽️ [Mỹ thêm công dân 25 nước vào danh sách phải nộp bảo lãnh lên tới 15.000 USD khi xin visa](https://vnexpress.net/my-them-cong-dan-25-nuoc-vao-danh-sach-phai-nop-bao-lanh-len-toi-15-000-usd-khi-xin-visa-5002716.html) - 04:15 07/01/2026
-- 🚀 [Tuần duyên Mỹ bám đuổi tàu dầu Nga trên biển](https://vnexpress.net/tuan-duyen-my-bam-duoi-tau-dau-nga-tren-bien-5002646.html) - 04:07 07/01/2026
-- 🎡 [Chùa Duyên Giác ở California bốc cháy](https://vnexpress.net/chua-duyen-giac-o-california-boc-chay-5002661.html) - 03:41 07/01/2026
-- 🕯 [Ông Trump nêu khả năng bị phe Dân chủ luận tội](https://vnexpress.net/ong-trump-neu-kha-nang-bi-phe-dan-chu-luan-toi-5002674.html) - 03:31 07/01/2026
-- 🐻 [Thái Lan cảnh báo sẵn sàng hành động sau vụ nã cối từ Campuchia](https://vnexpress.net/thai-lan-canh-bao-san-sang-hanh-dong-sau-vu-na-coi-tu-campuchia-5002666.html) - 02:52 07/01/2026
-- 🚦 [Vợ ông Maduro &#39;bị thương&#39; khi đặc nhiệm Mỹ đột kích](https://vnexpress.net/vo-ong-maduro-bi-thuong-khi-dac-nhiem-my-dot-kich-5002636.html) - 02:45 07/01/2026
-- 👍 [Loạt nước châu Âu nhất trí đưa quân tới Ukraine sau ngừng bắn](https://vnexpress.net/loat-nuoc-chau-au-nhat-tri-dua-quan-toi-ukraine-sau-ngung-ban-5002651.html) - 02:26 07/01/2026
-- 🚀 [Thái Lan tuyên bố phát hiện kho vũ khí trong sòng bạc Campuchia](https://vnexpress.net/thai-lan-tuyen-bo-phat-hien-kho-vu-khi-trong-song-bac-campuchia-5002649.html) - 01:57 07/01/2026
-- 🌮 [Mấu chốt pháp lý trong vụ Mỹ xét xử ông Maduro](https://vnexpress.net/mau-chot-phap-ly-trong-vu-my-xet-xu-ong-maduro-5002302.html) - 00:55 07/01/2026
-- 😎 [Venezuela tuyên bố không bị thế lực nước ngoài điều hành](https://vnexpress.net/venezuela-tuyen-bo-khong-bi-the-luc-nuoc-ngoai-dieu-hanh-5002630.html) - 00:44 07/01/2026
-- 🐲 [23 binh sĩ Venezuela thiệt mạng khi Mỹ bắt Tổng thống Maduro](https://vnexpress.net/23-binh-si-venezuela-thiet-mang-khi-my-bat-tong-thong-maduro-5002622.html) - 00:23 07/01/2026
-- 💫 [Ông Trump: Venezuela sẽ giao nộp 30-50 triệu thùng dầu cho Mỹ](https://vnexpress.net/ong-trump-venezuela-se-giao-nop-30-50-trieu-thung-dau-cho-my-5002634.html) - 00:23 07/01/2026
-- 👀 [Mỹ không loại trừ phương án kiểm soát Greenland bằng biện pháp quân sự](https://vnexpress.net/my-khong-loai-tru-phuong-an-kiem-soat-greenland-bang-bien-phap-quan-su-5002628.html) - 23:49 06/01/2026<!-- vnexpress-the-gioi:END -->
+- 🌁 [Venezuela nói 100 người thiệt mạng khi Mỹ đột kích bắt ông Maduro](https://vnexpress.net/venezuela-noi-100-nguoi-thiet-mang-khi-my-dot-kich-bat-ong-maduro-5003180.html) - 03:34 08/01/2026
+- 🌊 [Đặc vụ ICE bắn chết người ở Minnesota](https://vnexpress.net/dac-vu-ice-ban-chet-nguoi-o-minnesota-5003133.html) - 03:04 08/01/2026
+- 🕴 [Ông Trump mời Tổng thống Colombia tới Nhà Trắng giữa căng thẳng](https://vnexpress.net/ong-trump-moi-tong-thong-colombia-toi-nha-trang-giua-cang-thang-5003134.html) - 02:43 08/01/2026
+- 🎓 [Tiêm kích F-16V Đài Loan lao xuống biển vì &#39;trục trặc máy tính&#39;](https://vnexpress.net/tiem-kich-f-16v-dai-loan-lao-xuong-bien-vi-truc-trac-may-tinh-5003105.html) - 02:38 08/01/2026
+- 🦩 [Chính phủ Venezuela bàn cách giải cứu ông Maduro](https://vnexpress.net/chinh-phu-venezuela-ban-cach-giai-cuu-ong-maduro-5003128.html) - 02:29 08/01/2026
+- 🌏 [Ông Vance: Venezuela chỉ được bán dầu nếu phục vụ lợi ích Mỹ](https://vnexpress.net/ong-vance-venezuela-chi-duoc-ban-dau-neu-phuc-vu-loi-ich-my-5003098.html) - 01:36 08/01/2026
+- 🌋 [Mỹ rút khỏi 66 tổ chức quốc tế](https://vnexpress.net/my-rut-khoi-66-to-chuc-quoc-te-5003093.html) - 01:19 08/01/2026
+- 🪜 [Mỹ bắt tàu dầu mang cờ Nga sau nhiều tuần bám đuổi](https://vnexpress.net/my-bat-tau-dau-mang-co-nga-sau-nhieu-tuan-bam-duoi-5003091.html) - 00:52 08/01/2026
+- 🕴 [Ông Trump chỉ trích Na Uy không trao Nobel Hòa bình cho mình](https://vnexpress.net/ong-trump-chi-trich-na-uy-khong-trao-nobel-hoa-binh-cho-minh-5003089.html) - 23:59 07/01/2026
+- 🧑‍🏫 [Trung Quốc chỉ trích Mỹ ép Venezuela giao nộp dầu](https://vnexpress.net/trung-quoc-chi-trich-my-ep-venezuela-giao-nop-dau-5003067.html) - 16:41 07/01/2026
+- 🌮 [Việt Nam thông tin về Đại hội Đảng lần thứ 14 tới quốc tế](https://vnexpress.net/viet-nam-thong-tin-ve-dai-hoi-dang-lan-thu-14-toi-quoc-te-5003056.html) - 16:00 07/01/2026
+- 🚦 [Campuchia bắt ông trùm Chen Zhi](https://vnexpress.net/campuchia-bat-ong-trum-chen-zhi-5003068.html) - 15:58 07/01/2026
+- 💫 [Tổng thống Iran yêu cầu lực lượng an ninh không nhắm vào người biểu tình ôn hòa](https://vnexpress.net/tong-thong-iran-yeu-cau-luc-luong-an-ninh-khong-nham-vao-nguoi-bieu-tinh-on-hoa-5003041.html) - 14:15 07/01/2026
+- 🤡 [Chiến dịch đột kích, bắt Tổng thống Venezuela của Mỹ qua ảnh](https://vnexpress.net/chien-dich-dot-kich-bat-tong-thong-venezuela-cua-my-qua-anh-5003023.html) - 13:51 07/01/2026
+- 🦣 [Venezuela thay tư lệnh đội cận vệ Tổng thống](https://vnexpress.net/venezuela-thay-tu-lenh-doi-can-ve-tong-thong-5003036.html) - 13:07 07/01/2026
+- 🎬 [Nỗi bất an của châu Âu khi Mỹ tăng sức ép về Greenland](https://vnexpress.net/noi-bat-an-cua-chau-au-khi-my-tang-suc-ep-ve-greenland-5002642.html) - 12:00 07/01/2026
+- 🎉 [Câu chuyện phía sau tấm ảnh cô gái Venezuela chạy trốn hỏa lực Mỹ](https://vnexpress.net/cau-chuyen-phia-sau-tam-anh-co-gai-venezuela-chay-tron-hoa-luc-my-5002922.html) - 10:48 07/01/2026
+- 🎡 [Mỹ mở chiến dịch truy quét trục xuất &#39;lớn nhất lịch sử&#39;](https://vnexpress.net/my-mo-chien-dich-truy-quet-truc-xuat-lon-nhat-lich-su-5002930.html) - 09:49 07/01/2026
+- 🌜 [Tổng thống Hàn Quốc đề nghị ông Tập giúp hòa giải với Triều Tiên](https://vnexpress.net/tong-thong-han-quoc-de-nghi-ong-tap-giup-hoa-giai-voi-trieu-tien-5002959.html) - 09:48 07/01/2026
+- 🎡 [Đặc vụ CIA từng &#39;bán danh tính loạt điệp viên&#39; chết trong tù](https://vnexpress.net/dac-vu-cia-tung-ban-danh-tinh-loat-diep-vien-chet-trong-tu-5002895.html) - 09:36 07/01/2026
+- 🤗 [10 năm bỏ chính sách một con, tỷ lệ sinh ở Trung Quốc vẫn lao dốc](https://vnexpress.net/10-nam-bo-chinh-sach-mot-con-ty-le-sinh-o-trung-quoc-van-lao-doc-5002675.html) - 08:49 07/01/2026
+- 🦩 [Venezuela tuyên bố quốc tang 7 ngày](https://vnexpress.net/venezuela-tuyen-bo-quoc-tang-7-ngay-5002879.html) - 08:29 07/01/2026
+- 🎓 [Đài Loan chưa tìm thấy phi công gặp nạn cùng tiêm kích F-16](https://vnexpress.net/dai-loan-chua-tim-thay-phi-cong-gap-nan-cung-tiem-kich-f-16-5002871.html) - 08:20 07/01/2026
+- 🌁 [Ông Trump: Vợ ghét điệu nhảy YMCA của tôi](https://vnexpress.net/ong-trump-vo-ghet-dieu-nhay-ymca-cua-toi-5002841.html) - 07:49 07/01/2026
+- 🤩 [Vật giá leo thang ở Venezuela](https://vnexpress.net/vat-gia-leo-thang-o-venezuela-5002643.html) - 07:48 07/01/2026
+- 👹 [Mỹ lần đầu tiết lộ số quân nhân bị thương khi bắt ông Maduro](https://vnexpress.net/my-lan-dau-tiet-lo-so-quan-nhan-bi-thuong-khi-bat-ong-maduro-5002755.html) - 07:24 07/01/2026
+- ⛽️ [Hơn hai thập kỷ căng thẳng trong quan hệ Mỹ - Venezuela](https://vnexpress.net/hon-hai-thap-ky-cang-thang-trong-quan-he-my-venezuela-5002224.html) - 05:01 07/01/2026
+- 🚀 [Mỹ thêm công dân 25 nước vào danh sách phải nộp bảo lãnh lên tới 15.000 USD khi xin visa](https://vnexpress.net/my-them-cong-dan-25-nuoc-vao-danh-sach-phai-nop-bao-lanh-len-toi-15-000-usd-khi-xin-visa-5002716.html) - 04:15 07/01/2026
+- 🎡 [Tuần duyên Mỹ bám đuổi tàu dầu Nga trên biển](https://vnexpress.net/tuan-duyen-my-bam-duoi-tau-dau-nga-tren-bien-5002646.html) - 04:07 07/01/2026
+- 🕯 [Chùa Duyên Giác ở California bốc cháy](https://vnexpress.net/chua-duyen-giac-o-california-boc-chay-5002661.html) - 03:41 07/01/2026
+- 🐻 [Ông Trump nêu khả năng bị phe Dân chủ luận tội](https://vnexpress.net/ong-trump-neu-kha-nang-bi-phe-dan-chu-luan-toi-5002674.html) - 03:31 07/01/2026
+- 🚦 [Thái Lan cảnh báo sẵn sàng hành động sau vụ nã cối từ Campuchia](https://vnexpress.net/thai-lan-canh-bao-san-sang-hanh-dong-sau-vu-na-coi-tu-campuchia-5002666.html) - 02:52 07/01/2026
+- 👍 [Vợ ông Maduro &#39;bị thương&#39; khi đặc nhiệm Mỹ đột kích](https://vnexpress.net/vo-ong-maduro-bi-thuong-khi-dac-nhiem-my-dot-kich-5002636.html) - 02:45 07/01/2026
+- 🚀 [Loạt nước châu Âu nhất trí đưa quân tới Ukraine sau ngừng bắn](https://vnexpress.net/loat-nuoc-chau-au-nhat-tri-dua-quan-toi-ukraine-sau-ngung-ban-5002651.html) - 02:26 07/01/2026
+- 🌮 [Thái Lan tuyên bố phát hiện kho vũ khí trong sòng bạc Campuchia](https://vnexpress.net/thai-lan-tuyen-bo-phat-hien-kho-vu-khi-trong-song-bac-campuchia-5002649.html) - 01:57 07/01/2026
+- 😎 [Mấu chốt pháp lý trong vụ Mỹ xét xử ông Maduro](https://vnexpress.net/mau-chot-phap-ly-trong-vu-my-xet-xu-ong-maduro-5002302.html) - 00:55 07/01/2026
+- 🐲 [Venezuela tuyên bố không bị thế lực nước ngoài điều hành](https://vnexpress.net/venezuela-tuyen-bo-khong-bi-the-luc-nuoc-ngoai-dieu-hanh-5002630.html) - 00:44 07/01/2026
+- 💫 [23 binh sĩ Venezuela thiệt mạng khi Mỹ bắt Tổng thống Maduro](https://vnexpress.net/23-binh-si-venezuela-thiet-mang-khi-my-bat-tong-thong-maduro-5002622.html) - 00:23 07/01/2026
+- 👀 [Ông Trump: Venezuela sẽ giao nộp 30-50 triệu thùng dầu cho Mỹ](https://vnexpress.net/ong-trump-venezuela-se-giao-nop-30-50-trieu-thung-dau-cho-my-5002634.html) - 00:23 07/01/2026<!-- vnexpress-the-gioi:END -->
