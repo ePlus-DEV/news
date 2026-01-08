@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thái Lan 1-2 Australia &lpar;H2&rpar;: Thua ngược chóng vánh](https://vnexpress.net/u23-thai-lan-v-u23-australia-5003375.html) - 10:55 08/01/2026
+- 🪜 [Thái Lan 1-2 Australia &lpar;H2&rpar;: Bế tắc cuối trận](https://vnexpress.net/u23-thai-lan-v-u23-australia-5003375.html) - 10:55 08/01/2026
 - 🦩 [Carlsen &#39;mượn&#39; Messi ca ngợi thần đồng cờ vua Argentina](https://vnexpress.net/carlsen-muon-messi-ca-ngoi-than-dong-co-vua-argentina-5003413.html) - 09:11 08/01/2026
 - 🧰 [Szoboszlai: &#39;Arsenal vẫn còn cách xa chức vô địch Ngoại hạng Anh&#39;](https://vnexpress.net/szoboszlai-arsenal-van-con-cach-xa-chuc-vo-dich-ngoai-hang-anh-5003298.html) - 07:01 08/01/2026
 - 🤗 [Arteta không dám so sánh với đội hình bất bại của Arsenal](https://vnexpress.net/arteta-khong-dam-so-sanh-voi-doi-hinh-bat-bai-cua-arsenal-5003235.html) - 06:56 08/01/2026
