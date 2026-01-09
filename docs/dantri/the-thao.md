@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Thái Lan muốn đội nhà đòi lại chức vô địch AFF Cup của tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-muon-doi-nha-doi-lai-chuc-vo-dich-aff-cup-cua-tuyen-viet-nam-20260109191658323.htm) - 12:17 09/01/2026
-- 💯 [U23 Việt Nam 1-1 U23 Kyrgyzstan &lpar;hiệp 2&rpar;: 45 phút khó khăn](https://dantri.com.vn/the-thao/u23-viet-nam-1-1-u23-kyrgyzstan-hiep-2-45-phut-kho-khan-20260109185843815.htm) - 11:59 09/01/2026
+- 💯 [U23 Việt Nam 1-1 U23 Kyrgyzstan &lpar;hiệp 2&rpar;: Đình Bắc vào sân](https://dantri.com.vn/the-thao/u23-viet-nam-1-1-u23-kyrgyzstan-hiep-2-dinh-bac-vao-san-20260109185843815.htm) - 11:59 09/01/2026
 - ⛽️ [U23 Việt Nam bất ngờ phải nhường sân tập cho Barcelona](https://dantri.com.vn/the-thao/u23-viet-nam-bat-ngo-phai-nhuong-san-tap-cho-barcelona-20260109164738856.htm) - 10:11 09/01/2026
 - 💃 [U23 Việt Nam có cơ hội làm nên lịch sử trước U23 Kyrgyzstan](https://dantri.com.vn/the-thao/u23-viet-nam-co-co-hoi-lam-nen-lich-su-truoc-u23-kyrgyzstan-20260109151935360.htm) - 08:27 09/01/2026
 - 🌈 [HLV U23 Thái Lan khen đội nhà dù thua trận và đối diện với nguy cơ bị loại](https://dantri.com.vn/the-thao/hlv-u23-thai-lan-khen-doi-nha-du-thua-tran-va-doi-dien-voi-nguy-co-bi-loai-20260109140615423.htm) - 07:11 09/01/2026
