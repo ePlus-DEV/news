@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [UOB nâng dự báo tăng trưởng kinh tế Việt Nam lên 7,5%](https://vnexpress.net/uob-nang-du-bao-tang-truong-kinh-te-viet-nam-len-7-5-5003907.html) - 12:43 09/01/2026
-- 🐲 [Siêu thị, cửa hàng tiện lợi gỡ sữa NAN khỏi kệ](https://vnexpress.net/sieu-thi-cua-hang-tien-loi-go-sua-nan-khoi-ke-5003912.html) - 12:39 09/01/2026
+- 🐲 [Siêu thị, cửa hàng tiện lợi gỡ sữa NAN thuộc diện thu hồi khỏi kệ](https://vnexpress.net/sieu-thi-cua-hang-tien-loi-go-sua-nan-thuoc-dien-thu-hoi-khoi-ke-5003912.html) - 12:39 09/01/2026
 - 🔥 [Đà Nẵng vận hành Trung tâm tài chính quốc tế](https://vnexpress.net/da-nang-van-hanh-trung-tam-tai-chinh-quoc-te-5003860.html) - 10:30 09/01/2026
 - 🐵 [DAFC nhận giải thưởng nhà phân phối hàng xa xỉ của năm](https://vnexpress.net/dafc-nhan-giai-thuong-nha-phan-phoi-hang-xa-xi-cua-nam-5003897.html) - 10:30 09/01/2026
 - 🦅 [Gần 1 triệu tỷ đồng vốn đầu tư công sẽ rót vào nền kinh tế năm nay](https://vnexpress.net/gan-1-trieu-ty-dong-von-dau-tu-cong-se-rot-vao-nen-kinh-te-nam-nay-5003849.html) - 09:07 09/01/2026
