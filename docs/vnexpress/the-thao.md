@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [HLV Kyrgyzstan: &#39;Không thể hóa giải bóng cố định của Việt Nam&#39;](https://vnexpress.net/hlv-kyrgyzstan-khong-the-hoa-giai-bong-co-dinh-cua-viet-nam-5003959.html) - 17:03 09/01/2026
 - 🦩 [Việt Nam lập thêm kỳ tích ở U23 châu Á](https://vnexpress.net/viet-nam-lap-them-ky-tich-o-u23-chau-a-5003957.html) - 16:25 09/01/2026
 - 🧰 [HLV Kim Sang-sik: &#39;Đối thủ nào cũng phải dè chừng Việt Nam&#39;](https://vnexpress.net/hlv-kim-sang-sik-doi-thu-nao-cung-phai-de-chung-viet-nam-5003946.html) - 16:01 09/01/2026
-- 🤗 [Việt Nam thắng liền hai trận ở U23 châu Á](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932.html) - 12:53 09/01/2026
+- 🤗 [Việt Nam thắng liền hai trận ở U23 châu Á](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932-tong-thuat.html) - 12:53 09/01/2026
 - 🥳 [Madam Pang nhận lỗi khi hụt 4 HC vàng bóng đá SEA Games 33](https://vnexpress.net/madam-pang-nhan-loi-khi-hut-4-hc-vang-bong-da-sea-games-33-5003913.html) - 10:58 09/01/2026
 - 🦣 [Balotelli chuyển 10 đội trong 10 năm](https://vnexpress.net/balotelli-chuyen-10-doi-trong-10-nam-5003701.html) - 10:04 09/01/2026
 - 🌜 [LĐBĐ Kyrgyzstan: &#39;U23 Việt Nam kiên cường bậc nhất châu Á&#39;](https://vnexpress.net/ldbd-kyrgyzstan-u23-viet-nam-kien-cuong-bac-nhat-chau-a-5003866.html) - 09:30 09/01/2026
