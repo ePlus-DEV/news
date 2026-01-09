@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam 1-0 Kyrgyzstan &lpar;H1&rpar;: Văn Khang ghi bàn](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932.html) - 12:53 09/01/2026
+- 🪜 [Việt Nam 1-1 Kyrgyzstan &lpar;H2&rpar;: Cơ hội liên tiếp](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932.html) - 12:53 09/01/2026
 - 🦩 [Madam Pang nhận lỗi khi hụt 4 HC vàng bóng đá SEA Games 33](https://vnexpress.net/madam-pang-nhan-loi-khi-hut-4-hc-vang-bong-da-sea-games-33-5003913.html) - 10:58 09/01/2026
 - 🧰 [Balotelli chuyển 10 đội trong 10 năm](https://vnexpress.net/balotelli-chuyen-10-doi-trong-10-nam-5003701.html) - 10:04 09/01/2026
 - 🤗 [LĐBĐ Kyrgyzstan: &#39;U23 Việt Nam kiên cường bậc nhất châu Á&#39;](https://vnexpress.net/ldbd-kyrgyzstan-u23-viet-nam-kien-cuong-bac-nhat-chau-a-5003866.html) - 09:30 09/01/2026
