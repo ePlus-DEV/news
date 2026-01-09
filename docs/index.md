@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Dự báo thời tiết đêm 9 và ngày 10-1: nhiệt độ TP.HCM sáng sớm 17 độ C](https://muctim.tuoitre.vn/du-bao-thoi-tiet-dem-9-va-ngay-10-1-nhiet-do-tphcm-sang-som-17-do-c-101260109203238506.htm) - 13:57 09/01/2026
 - 🥷 [Đội hình ra sân của U23 Việt Nam đấu Kyrgyzstan: Đình Bắc dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-u23-viet-nam-dau-kyrgyzstan-dinh-bac-du-bi-101260109183741407.htm) - 13:44 09/01/2026
-- 🤖 [Trực tiếp U23 Việt Nam đấu U23 Kyrgyzstan: Khuất Văn Khang mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-kyrgyzstan-thang-de-di-tiep-101260109193141859.htm) - 12:31 09/01/2026
+- 🤖 [Trực tiếp U23 Việt Nam đấu U23 Kyrgyzstan: 1-1 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-kyrgyzstan-thang-de-di-tiep-101260109193141859.htm) - 12:31 09/01/2026
 - 🤓 [1.000 học sinh trải nghiệm công nghệ tại Trung tâm Khởi nghiệp sáng tạo TP.HCM](https://muctim.tuoitre.vn/1000-hoc-sinh-trai-nghiem-cong-nghe-tai-trung-tam-khoi-nghiep-sang-tao-tphcm-101260109152410438.htm) - 10:31 09/01/2026
 - 🎉 [Độc đáo Trạm tích Xanh của sinh viên Nhân văn](https://muctim.tuoitre.vn/doc-dao-tram-tich-xanh-cua-sinh-vien-nhan-van-101260109132841555.htm) - 09:41 09/01/2026
 - 👨‍🏫 [3 điểm đáng mong chờ của Can this love be translated?](https://muctim.tuoitre.vn/3-diem-dang-mong-cho-cua-can-this-love-be-translated-101260109103947006.htm) - 07:00 09/01/2026
