@@ -410,7 +410,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP U23 Việt Nam - U23 Kyrgyzstan: Đội bạn ghi bàn, tỉ số 1 -1 &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/lich-xem-truc-tiep-u23-viet-nam-vs-u23-kyrgyzstan-102260107120444708.htm) - 22:18 09/01/2026
+- 💻 [TƯỜNG THUẬT: Thắng U23 Kyrgyzstan, U23 Việt Nam mở cánh cửa vào Tứ kết U23 châu Á 2026](https://baochinhphu.vn/lich-xem-truc-tiep-u23-viet-nam-vs-u23-kyrgyzstan-102260107120444708.htm) - 22:59 09/01/2026
 - 🌜 [Bài học kinh nghiệm giúp giải ngân vốn đầu tư công vượt kế hoạch được giao](https://baochinhphu.vn/bai-hoc-kinh-nghiem-giup-giai-ngan-von-dau-tu-cong-vuot-ke-hoach-duoc-giao-102260109191653861.htm) - 20:07 09/01/2026
 - 🦆 [Việt Nam có đầy đủ chứng cứ lịch sử và cơ sở pháp lý để khẳng định chủ quyền đối với quần đảo Hoàng Sa](https://baochinhphu.vn/viet-nam-co-day-du-chung-cu-lich-su-va-co-so-phap-ly-de-khang-dinh-chu-quyen-doi-voi-quan-dao-hoang-sa-102260109183811652.htm) - 20:04 09/01/2026
 - 🌝 [Thủ tướng: Lựa chọn thủ tục đơn giản nhất nhưng hiệu quả nhất, giảm hệ số ICOR, tăng hiệu quả đầu tư công](https://baochinhphu.vn/thu-tuong-lua-chon-thu-tuc-don-gian-nhat-nhung-hieu-qua-nhat-giam-he-so-icor-tang-hieu-qua-dau-tu-cong-102260109195823817.htm) - 20:03 09/01/2026
