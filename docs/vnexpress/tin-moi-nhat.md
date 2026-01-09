@@ -21,9 +21,9 @@ sidebar_position: 9
 - 🐘 [Mong em nữ tính, hiền thục](https://vnexpress.net/mong-em-nu-tinh-hien-thuc-5003683.html) - 12:56 09/01/2026
 - 🌁 [Bản thân thiệt thòi khi gánh toàn bộ chi phí nuôi hai con](https://vnexpress.net/ban-than-thiet-thoi-khi-ganh-toan-bo-chi-phi-nuoi-hai-con-5003845.html) - 12:56 09/01/2026
 - 🐲 [Dàn sao đóng MV Tết của Trúc Nhân](https://vnexpress.net/dan-sao-dong-mv-tet-cua-truc-nhan-5003603.html) - 12:53 09/01/2026
-- 🤓 [Việt Nam 1-0 Kyrgyzstan &lpar;H1&rpar;: Văn Khang ghi bàn](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932.html) - 12:53 09/01/2026
+- 🤓 [Việt Nam 1-1 Kyrgyzstan &lpar;H2&rpar;: Murzakhmatov gỡ hòa](https://vnexpress.net/truc-tiep-viet-nam-kyrgyzstan-5003932.html) - 12:53 09/01/2026
 - 💪 [UOB nâng dự báo tăng trưởng kinh tế Việt Nam lên 7,5%](https://vnexpress.net/uob-nang-du-bao-tang-truong-kinh-te-viet-nam-len-7-5-5003907.html) - 12:43 09/01/2026
-- 🎓 [Siêu thị, cửa hàng tiện lợi gỡ sữa NAN khỏi kệ](https://vnexpress.net/sieu-thi-cua-hang-tien-loi-go-sua-nan-khoi-ke-5003912.html) - 12:39 09/01/2026
+- 🎓 [Siêu thị, cửa hàng tiện lợi gỡ sữa NAN thuộc diện thu hồi khỏi kệ](https://vnexpress.net/sieu-thi-cua-hang-tien-loi-go-sua-nan-thuoc-dien-thu-hoi-khoi-ke-5003912.html) - 12:39 09/01/2026
 - 🫣 [Đại học Luật TP HCM cho sinh viên ở nhà đón Tết gần 2 tháng](https://vnexpress.net/lich-nghi-tet-dai-hoc-luat-tp-hcm-2026-5003924.html) - 12:37 09/01/2026
 - 🧑‍💻 [Kiev kêu gọi dân tạm rời thành phố vì hệ thống năng lượng hư hại](https://vnexpress.net/kiev-keu-goi-dan-tam-roi-thanh-pho-vi-he-thong-nang-luong-hu-hai-5003909.html) - 12:22 09/01/2026
 - 🐲 [Cô gái đóng giả tiếp viên hàng không](https://vnexpress.net/co-gai-dong-gia-tiep-vien-hang-khong-5003884.html) - 12:22 09/01/2026
