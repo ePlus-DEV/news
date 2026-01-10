@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Chàng trai 9X vẽ Sơn Tùng M-TP, Soobin bằng bút bi gây sốt](https://vnexpress.net/chang-trai-9x-ve-son-tung-m-tp-soobin-bang-but-bi-gay-sot-5004053.html) - 09:58 10/01/2026
+- 🌏 [Chàng trai 9x vẽ Sơn Tùng M-TP, Soobin bằng bút bi gây sốt](https://vnexpress.net/chang-trai-9x-ve-son-tung-m-tp-soobin-bang-but-bi-gay-sot-5004053.html) - 09:58 10/01/2026
 - 💫 [Hậu trường Vũ Ngọc và Son cùng 200 người làm show ở Hong Kong](https://vnexpress.net/hau-truong-vu-ngoc-va-son-cung-200-nguoi-lam-show-o-hong-kong-5004023.html) - 08:15 10/01/2026
 - 🌮 [Phong cách Hồ Ngọc Hà qua 25 năm](https://vnexpress.net/phong-cach-ho-ngoc-ha-qua-25-nam-5004078.html) - 07:54 10/01/2026
 - 🧠 [Hôn nhân 10 năm của Quang Tuấn - Linh Phi](https://vnexpress.net/hon-nhan-10-nam-cua-quang-tuan-linh-phi-5002407.html) - 05:30 10/01/2026
