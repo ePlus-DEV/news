@@ -409,7 +409,7 @@ thuật mắt 700 triệu đồng](https://phunu.nld.com.vn/trung-tam-mat-ky-thu
 <!-- baochinhphu:START -->
 - 💻 [Hai thập kỷ giữ vững vai trò kênh thông tin chính thống](https://baochinhphu.vn/hai-thap-ky-giu-vung-vai-tro-kenh-thong-tin-chinh-thong-102260109145803448.htm) - 22:15 10/01/2026
 - 🌜 [Thủ tướng: Sớm hoàn thiện chương trình hỗ trợ doanh nghiệp Việt Nam ra thế giới](https://baochinhphu.vn/thu-tuong-som-hoan-thien-chuong-trinh-ho-tro-doanh-nghiep-viet-nam-ra-the-gioi-102260110215846821.htm) - 22:03 10/01/2026
-- 🦆 [Dấu ấn và cam kết dài hạn của Sovico với hành trình bứt phá của Đà Nẵng](https://baochinhphu.vn/dau-an-va-cam-ket-dai-han-cua-sovico-voi-hanh-trinh-but-pha-cua-da-nang-102260110213833142.htm) - 21:38 10/01/2026
+- 🦆 [Tiến sĩ Nguyễn Thị Phương Thảo và hành trình 20 năm cùng Đà Nẵng](https://baochinhphu.vn/dau-an-va-cam-ket-dai-han-cua-sovico-voi-hanh-trinh-but-pha-cua-da-nang-102260110213833142.htm) - 21:38 10/01/2026
 - 🌝 [Thủ tướng Phạm Minh Chính tiếp Đại sứ Hoa Kỳ Marc Knapper](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tiep-dai-su-hoa-ky-marc-knapper-102260110203559161.htm) - 20:43 10/01/2026
 - 🦣 [Bắt khẩn cấp Tổng Giám đốc Công ty cổ phần đồ hộp Hạ Long](https://baochinhphu.vn/bat-khan-cap-tong-giam-doc-cong-ty-co-phan-do-hop-ha-long-102260110191802244.htm) - 19:40 10/01/2026
 - ⛽️ [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 10/1/2026](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-10-1-2026-102260110192657872.htm) - 19:32 10/01/2026
