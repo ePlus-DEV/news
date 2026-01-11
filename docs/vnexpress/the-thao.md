@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thái Lan 0-1 Iraq &lpar;H2&rpar;: Đại diện Đông Nam Á nguy cơ bị loại sớm](https://vnexpress.net/u23-thai-lan-v-u23-iraq-5004370.html) - 13:31 11/01/2026
+- 🪜 [Thái Lan 1-1 Iraq &lpar;H2&rpar;: Bàn gỡ bất ngờ](https://vnexpress.net/u23-thai-lan-v-u23-iraq-5004370.html) - 13:31 11/01/2026
 - 🦩 [Việt Nam chưa từng đứng đầu bảng ở các giải vô địch châu Á](https://vnexpress.net/viet-nam-chua-tung-dung-dau-bang-o-cac-giai-vo-dich-chau-a-5004326.html) - 11:11 11/01/2026
 - 🧰 [&#39;Cô giáo nhu thuật&#39; Việt Nam giành HC vàng MMA châu Á](https://vnexpress.net/co-giao-nhu-thuat-viet-nam-gianh-hc-vang-mma-chau-a-5004347.html) - 10:20 11/01/2026
 - 🤗 [Messi muốn làm ông chủ hơn là HLV bóng đá sau giải nghệ](https://vnexpress.net/messi-muon-lam-ong-chu-hon-la-hlv-bong-da-sau-giai-nghe-5004235.html) - 02:15 11/01/2026
