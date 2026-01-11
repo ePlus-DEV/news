@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Lý do đặt phòng qua ứng dụng có thể bị &#39;bùng&#39;](https://vnexpress.net/ly-do-dat-phong-qua-ung-dung-co-the-bi-bung-5002774.html) - 04:50 11/01/2026
+- 💂 [Kỳ nghỉ đảo lộn của khách Mỹ mắc kẹt tại Caribe do vụ không kích Venezuela](https://vnexpress.net/ky-nghi-dao-lon-cua-khach-my-mac-ket-tai-caribe-do-vu-khong-kich-venezuela-5004232.html) - 06:26 11/01/2026
 - 🪄 [Báo Mỹ ca ngợi Việt Nam là điểm du lịch đang lên ở Đông Nam Á](https://vnexpress.net/bao-my-ca-ngoi-viet-nam-la-diem-du-lich-dang-len-o-dong-nam-a-5004197.html) - 03:28 11/01/2026
 - 🦅 [Cách kiểm tra nợ thuế trước khi đi du lịch](https://vnexpress.net/cach-kiem-tra-no-thue-truoc-khi-di-du-lich-5004035.html) - 00:00 11/01/2026
 - 🕴 [Khám phá &#39;thủ phủ song sinh&#39; của thế giới](https://vnexpress.net/kham-pha-thu-phu-song-sinh-cua-the-gioi-5004061.html) - 17:00 10/01/2026
