@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Medvedev và Sabalenka vô địch Brisbane International 2026](https://dantri.com.vn/the-thao/medvedev-va-sabalenka-vo-dich-brisbane-international-2026-20260111220058181.htm) - 15:04 11/01/2026
 - 💯 [HLV Kim Sang Sik cảnh báo U23 Việt Nam trước trận gặp U23 Saudi Arabia](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-canh-bao-u23-viet-nam-truoc-tran-gap-u23-saudi-arabia-20260111213214787.htm) - 14:33 11/01/2026
-- ⛽️ [U23 Thái Lan 1-1 U23 Iraq &lpar;hiệp 2&rpar;: Trở về từ cõi chết](https://dantri.com.vn/the-thao/u23-thai-lan-1-1-u23-iraq-hiep-2-tro-ve-tu-coi-chet-20260111204659226.htm) - 13:47 11/01/2026
+- ⛽️ [Thoát thua trong gang tấc, U23 Thái Lan sống dậy hy vọng đi tiếp](https://dantri.com.vn/the-thao/thoat-thua-trong-gang-tac-u23-thai-lan-song-day-hy-vong-di-tiep-20260111204659226.htm) - 13:47 11/01/2026
 - 💃 [Báo Saudi Arabia bình luận trước khi đội nhà gặp U23 Việt Nam](https://dantri.com.vn/the-thao/bao-saudi-arabia-binh-luan-truoc-khi-doi-nha-gap-u23-viet-nam-20260111181211996.htm) - 11:35 11/01/2026
 - 🌈 [Bất ngờ quật ngã U23 Australia, U23 Trung Quốc rộng cửa đi tiếp](https://dantri.com.vn/the-thao/bat-ngo-quat-nga-u23-australia-u23-trung-quoc-rong-cua-di-tiep-20260111182730334.htm) - 11:27 11/01/2026
 - 🦅 [Nữ võ sĩ Việt Nam dùng tuyệt chiêu hạ tay đấm Iran, vô địch giải MMA châu Á](https://dantri.com.vn/the-thao/nu-vo-si-viet-nam-dung-tuyet-chieu-ha-tay-dam-iran-vo-dich-giai-mma-chau-a-20260111184816481.htm) - 11:26 11/01/2026
