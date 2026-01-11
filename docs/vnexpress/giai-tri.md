@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [130 năm phát triển của &#39;Bóng đá Việt Nam&#39;](https://vnexpress.net/130-nam-phat-trien-cua-bong-da-viet-nam-5004276.html) - 05:40 11/01/2026
-- 💫 [Liveshow &#39;Hoài niệm&#39; - gạch nối nhạc Trịnh và Phú Quang](https://vnexpress.net/liveshow-hoai-niem-gach-noi-nhac-trinh-va-phu-quang-5004262.html) - 05:26 11/01/2026
+- 💫 [&#39;Hoài niệm&#39; - gạch nối nhạc Trịnh và Phú Quang](https://vnexpress.net/hoai-niem-gach-noi-nhac-trinh-va-phu-quang-5004262.html) - 05:26 11/01/2026
 - 🌮 [Lần đầu công bố 26 tranh Kiều của danh họa Nguyễn Tư Nghiêm](https://vnexpress.net/lan-dau-cong-bo-26-tranh-kieu-cua-danh-hoa-nguyen-tu-nghiem-5004243.html) - 03:59 11/01/2026
 - 🧠 [Cô gái Hà Nội đăng quang Hoa hậu Du lịch Việt Nam 2026](https://vnexpress.net/co-gai-ha-noi-dang-quang-hoa-hau-du-lich-viet-nam-2026-5004240.html) - 03:16 11/01/2026
 - 👨‍🏫 [&#39;Mưa đỏ&#39; đại thắng giải Ngôi Sao Xanh](https://vnexpress.net/mua-do-dai-thang-giai-ngoi-sao-xanh-5004219.html) - 02:49 11/01/2026
