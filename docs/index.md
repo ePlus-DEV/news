@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Báo in ngày 13-1: Ấm lòng công nhân](https://nld.com.vn/bao-in-ngay-13-1-am-long-cong-nhan-196260112223633182.htm) - 16:59 12/01/2026
-- 😺 [U23 Việt Nam &lpar;0-0&rpar; U23 Ả Rập Saudi: Thầy trò ông Kim bị dồn ép liên tục](https://nld.com.vn/u23-viet-nam-u23-a-rap-saudi-muc-tieu-bat-bai-sau-vong-bang-196260112225537805.htm) - 15:57 12/01/2026
+- 😺 [U23 Việt Nam &lpar;1-0&rpar; U23 Ả Rập Saudi: Đình Bắc ghi bàn mở tỉ số](https://nld.com.vn/u23-viet-nam-u23-a-rap-saudi-muc-tieu-bat-bai-sau-vong-bang-196260112225537805.htm) - 15:57 12/01/2026
 - 👍 [TPHCM ra quyết định giải thể Trường Quốc tế Mỹ](https://nld.com.vn/tphcm-ra-quyet-dinh-giai-the-truong-quoc-te-my-196260112221344731.htm) - 15:41 12/01/2026
 - 🥷 [Đoàn Đại biểu Quốc hội TPHCM khảo sát tại Tập đoàn Công nghiệp Cao su Việt Nam](https://nld.com.vn/doan-dai-bieu-quoc-hoi-tphcm-khao-sat-tai-tap-doan-cong-nghiep-cao-su-viet-nam-196260112214855879.htm) - 15:33 12/01/2026
 - 🤔 [Bắt tạm giam 2 đối tượng đánh người đến liệt giường nhưng giám định thương tích 0%](https://nld.com.vn/bat-tam-giam-2-doi-tuong-danh-nguoi-den-liet-giuong-nhung-giam-dinh-thuong-tich-0-196260112214012164.htm) - 15:10 12/01/2026
