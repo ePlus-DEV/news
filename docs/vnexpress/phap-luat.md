@@ -4,13 +4,13 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Sàn tiền ảo Bioption.org lừa hơn trăm người, chiếm đoạt hàng triệu USD](https://vnexpress.net/san-tien-ao-bioption-org-lua-hon-tram-nguoi-chiem-doat-hang-trieu-usd-5004834.html) - 13:05 12/01/2026
+- 😎 [Sàn tiền ảo Bioption chiếm đoạt hàng triệu USD của nhà đầu tư](https://vnexpress.net/san-tien-ao-bioption-chiem-doat-hang-trieu-usd-cua-nha-dau-tu-5004834.html) - 13:05 12/01/2026
 - 🥰 [Bị bắt vì không trả lại 499 triệu đồng chuyển nhầm](https://vnexpress.net/bi-bat-vi-khong-tra-lai-499-trieu-dong-chuyen-nham-5004829.html) - 12:41 12/01/2026
 - 🎓 [Bị phạt vì bình luận sai sự thật trên Facebook của Lê Trung Khoa](https://vnexpress.net/bi-phat-vi-binh-luan-sai-su-that-tren-facebook-cua-le-trung-khoa-5004797.html) - 10:31 12/01/2026
 - 🤓 [Lập nhiều kênh trên Telegram bán video khiêu dâm giá 200.000 đồng](https://vnexpress.net/lap-nhieu-kenh-tren-telegram-ban-video-khieu-dam-gia-200-000-dong-5004741.html) - 08:39 12/01/2026
 - 🎊 [Cựu điều tra viên, kiểm sát viên phủ nhận cáo buộc &#39;chạy án&#39;](https://vnexpress.net/cuu-dieu-tra-vien-kiem-sat-vien-phu-nhan-cao-buoc-chay-an-5004660.html) - 08:33 12/01/2026
 - 🙉 [Nhóm &#39;chị em cầm gậy hồng&#39; chống bạo lực ở Ấn Độ](https://vnexpress.net/nhom-chi-em-cam-gay-hong-chong-bao-luc-o-an-do-5004650.html) - 08:31 12/01/2026
-- 🤡 [Chủ lò sản xuất 800 tấn mì tươi trộn hàn the ở TP HCM bị bắt](https://vnexpress.net/chu-lo-san-xuat-800-tan-mi-tuoi-tron-han-the-o-tp-hcm-bi-bat-5004700.html) - 08:24 12/01/2026
+- 🤡 [Lò sản xuất 800 tấn mì tươi trộn hàn the ở TP HCM](https://vnexpress.net/lo-san-xuat-800-tan-mi-tuoi-tron-han-the-o-tp-hcm-5004700.html) - 08:24 12/01/2026
 - 🗽 [Cụ bà 87 tuổi bị cướp khống chế lấy hết tiền](https://vnexpress.net/cu-ba-87-tuoi-bi-cuop-khong-che-lay-het-tien-5004646.html) - 06:16 12/01/2026
 - 🌋 [Cựu Giám đốc Đại học Huế ra tòa trong vụ thu vượt phí chứng chỉ B1](https://vnexpress.net/cuu-giam-doc-dai-hoc-hue-ra-toa-trong-vu-thu-vuot-phi-chung-chi-b1-5004590.html) - 06:05 12/01/2026
 - 🎬 [Ôtô đậu trước nhà bị người lạ đập phá](https://vnexpress.net/oto-dau-truoc-nha-bi-nguoi-la-dap-pha-5004513.html) - 05:48 12/01/2026
