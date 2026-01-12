@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thiếu nữ Nhật leo thang bộ 60 tầng để đánh dấu mốc trưởng thành](https://vnexpress.net/thieu-nu-nhat-leo-thang-bo-60-tang-de-danh-dau-moc-truong-thanh-5004835.html) - 13:41 12/01/2026
-- 🕴 [Động lực thúc đẩy Campuchia dẫn độ ông trùm Chen Zhi tới Trung Quốc](https://vnexpress.net/dong-luc-thuc-day-campuchia-dan-do-ong-trum-chen-zhi-toi-trung-quoc-5004462.html) - 12:40 12/01/2026
-- 🤭 [Ông Trump &#39;không biết gì&#39; về việc Chủ tịch Fed bị điều tra](https://vnexpress.net/ong-trump-khong-biet-gi-ve-viec-chu-tich-fed-bi-dieu-tra-5004808.html) - 11:20 12/01/2026
-- 🧑‍💻 [Người ủng hộ ông Trump bất đồng về vụ ICE bắn chết người](https://vnexpress.net/nguoi-ung-ho-ong-trump-bat-dong-ve-vu-ice-ban-chet-nguoi-5004635.html) - 10:37 12/01/2026
-- 🦏 [Nhật Bản tìm cách khai thác đất hiếm dưới đáy biển](https://vnexpress.net/nhat-ban-tim-cach-khai-thac-dat-hiem-duoi-day-bien-5004728.html) - 09:50 12/01/2026
-- 🦒 [Nga bắt đầu triển khai UAV Geran phản lực thế hệ mới](https://vnexpress.net/nga-bat-dau-trien-khai-uav-geran-phan-luc-the-he-moi-5004753.html) - 09:42 12/01/2026
-- 🌈 [Trung Quốc phản đối nước ngoài can thiệp vào Iran](https://vnexpress.net/trung-quoc-phan-doi-nuoc-ngoai-can-thiep-vao-iran-5004743.html) - 09:22 12/01/2026
-- 🧑‍🏫 [Pháo phòng không Gepard Ukraine lộ vị trí, hứng đòn từ UAV Lancet](https://vnexpress.net/phao-phong-khong-gepard-ukraine-lo-vi-tri-hung-don-tu-uav-lancet-5004692.html) - 08:32 12/01/2026
-- 🐲 [Giới thương nhân châm ngòi sóng biểu tình khiến Iran chao đảo](https://vnexpress.net/gioi-thuong-nhan-cham-ngoi-song-bieu-tinh-khien-iran-chao-dao-5004483.html) - 08:07 12/01/2026
-- 🦒 [Biểu tình ở nhiều nơi khắp nước Mỹ phản đối ICE](https://vnexpress.net/bieu-tinh-o-nhieu-noi-khap-nuoc-my-phan-doi-ice-5004515.html) - 07:26 12/01/2026
-- 🐻 [Cuộc sống ở Venezuela một tuần sau vụ đột kích của Mỹ](https://vnexpress.net/cuoc-song-o-venezuela-mot-tuan-sau-vu-dot-kich-cua-my-5004592.html) - 07:10 12/01/2026
-- 🚀 [Cuba diễn tập &#39;quốc phòng toàn dân&#39;](https://vnexpress.net/cuba-dien-tap-quoc-phong-toan-dan-5004559.html) - 04:58 12/01/2026
-- 🥰 [Thái Lan kêu gọi người dân tố cáo nhóm đánh bom 11 trạm xăng](https://vnexpress.net/thai-lan-keu-goi-nguoi-dan-to-cao-nhom-danh-bom-11-tram-xang-5004557.html) - 04:15 12/01/2026
-- 🔥 [19 nhà sư &#39;đi bộ vì hòa bình&#39; xuyên nước Mỹ](https://vnexpress.net/19-nha-su-di-bo-vi-hoa-binh-xuyen-nuoc-my-5004526.html) - 04:11 12/01/2026
-- 🥳 [Ông Trump: Iran đã đề nghị đàm phán](https://vnexpress.net/ong-trump-iran-da-de-nghi-dam-phan-5004520.html) - 03:56 12/01/2026
-- 💼 [Trợ lý Nhà Trắng đăng thông tin về &#39;vũ khí bí mật&#39; trong chiến dịch đột kích Venezuela](https://vnexpress.net/tro-ly-nha-trang-dang-thong-tin-ve-vu-khi-bi-mat-trong-chien-dich-dot-kich-venezuela-5004487.html) - 03:30 12/01/2026
-- 🤡 [Đại sứ Hàn Quốc: &#39;Việt Nam sẽ không chỉ là cứ điểm sản xuất&#39;](https://vnexpress.net/dai-su-han-quoc-viet-nam-se-khong-chi-la-cu-diem-san-xuat-4997218.html) - 03:26 12/01/2026
-- 🌁 [Anh muốn phát triển tên lửa giúp Ukraine tập kích sâu vào Nga](https://vnexpress.net/anh-muon-phat-trien-ten-lua-giup-ukraine-tap-kich-sau-vao-nga-5004447.html) - 03:23 12/01/2026
-- 🤩 [Tiểu đoàn trưởng Nga tuyên bố từng hạ F-16 Ukraine bằng S-300](https://vnexpress.net/tieu-doan-truong-nga-tuyen-bo-tung-ha-f-16-ukraine-bang-s-300-5004468.html) - 02:12 12/01/2026
+- 🎭 [Nga nói tên lửa Oreshnik đánh trúng xưởng sửa máy bay Ukraine](https://vnexpress.net/nga-noi-ten-lua-oreshnik-danh-trung-xuong-sua-may-bay-ukraine-5004847.html) - 15:08 12/01/2026
+- 🕴 [Thiếu nữ Nhật leo thang bộ 60 tầng để đánh dấu mốc trưởng thành](https://vnexpress.net/thieu-nu-nhat-leo-thang-bo-60-tang-de-danh-dau-moc-truong-thanh-5004835.html) - 13:41 12/01/2026
+- 🤭 [Động lực thúc đẩy Campuchia dẫn độ ông trùm Chen Zhi tới Trung Quốc](https://vnexpress.net/dong-luc-thuc-day-campuchia-dan-do-ong-trum-chen-zhi-toi-trung-quoc-5004462.html) - 12:40 12/01/2026
+- 🧑‍💻 [Ông Trump &#39;không biết gì&#39; về việc Chủ tịch Fed bị điều tra](https://vnexpress.net/ong-trump-khong-biet-gi-ve-viec-chu-tich-fed-bi-dieu-tra-5004808.html) - 11:20 12/01/2026
+- 🦏 [Người ủng hộ ông Trump bất đồng về vụ ICE bắn chết người](https://vnexpress.net/nguoi-ung-ho-ong-trump-bat-dong-ve-vu-ice-ban-chet-nguoi-5004635.html) - 10:37 12/01/2026
+- 🦒 [Nhật Bản tìm cách khai thác đất hiếm dưới đáy biển](https://vnexpress.net/nhat-ban-tim-cach-khai-thac-dat-hiem-duoi-day-bien-5004728.html) - 09:50 12/01/2026
+- 🌈 [Nga bắt đầu triển khai UAV Geran phản lực thế hệ mới](https://vnexpress.net/nga-bat-dau-trien-khai-uav-geran-phan-luc-the-he-moi-5004753.html) - 09:42 12/01/2026
+- 🧑‍🏫 [Trung Quốc phản đối nước ngoài can thiệp vào Iran](https://vnexpress.net/trung-quoc-phan-doi-nuoc-ngoai-can-thiep-vao-iran-5004743.html) - 09:22 12/01/2026
+- 🐲 [Pháo phòng không Gepard Ukraine lộ vị trí, hứng đòn từ UAV Lancet](https://vnexpress.net/phao-phong-khong-gepard-ukraine-lo-vi-tri-hung-don-tu-uav-lancet-5004692.html) - 08:32 12/01/2026
+- 🦒 [Giới thương nhân châm ngòi sóng biểu tình khiến Iran chao đảo](https://vnexpress.net/gioi-thuong-nhan-cham-ngoi-song-bieu-tinh-khien-iran-chao-dao-5004483.html) - 08:07 12/01/2026
+- 🐻 [Biểu tình ở nhiều nơi khắp nước Mỹ phản đối ICE](https://vnexpress.net/bieu-tinh-o-nhieu-noi-khap-nuoc-my-phan-doi-ice-5004515.html) - 07:26 12/01/2026
+- 🚀 [Cuộc sống ở Venezuela một tuần sau vụ đột kích của Mỹ](https://vnexpress.net/cuoc-song-o-venezuela-mot-tuan-sau-vu-dot-kich-cua-my-5004592.html) - 07:10 12/01/2026
+- 🥰 [Cuba diễn tập &#39;quốc phòng toàn dân&#39;](https://vnexpress.net/cuba-dien-tap-quoc-phong-toan-dan-5004559.html) - 04:58 12/01/2026
+- 🔥 [Thái Lan kêu gọi người dân tố cáo nhóm đánh bom 11 trạm xăng](https://vnexpress.net/thai-lan-keu-goi-nguoi-dan-to-cao-nhom-danh-bom-11-tram-xang-5004557.html) - 04:15 12/01/2026
+- 🥳 [19 nhà sư &#39;đi bộ vì hòa bình&#39; xuyên nước Mỹ](https://vnexpress.net/19-nha-su-di-bo-vi-hoa-binh-xuyen-nuoc-my-5004526.html) - 04:11 12/01/2026
+- 💼 [Ông Trump: Iran đã đề nghị đàm phán](https://vnexpress.net/ong-trump-iran-da-de-nghi-dam-phan-5004520.html) - 03:56 12/01/2026
+- 🤡 [Trợ lý Nhà Trắng đăng thông tin về &#39;vũ khí bí mật&#39; trong chiến dịch đột kích Venezuela](https://vnexpress.net/tro-ly-nha-trang-dang-thong-tin-ve-vu-khi-bi-mat-trong-chien-dich-dot-kich-venezuela-5004487.html) - 03:30 12/01/2026
+- 🌁 [Đại sứ Hàn Quốc: &#39;Việt Nam sẽ không chỉ là cứ điểm sản xuất&#39;](https://vnexpress.net/dai-su-han-quoc-viet-nam-se-khong-chi-la-cu-diem-san-xuat-4997218.html) - 03:26 12/01/2026
+- 🤩 [Anh muốn phát triển tên lửa giúp Ukraine tập kích sâu vào Nga](https://vnexpress.net/anh-muon-phat-trien-ten-lua-giup-ukraine-tap-kich-sau-vao-nga-5004447.html) - 03:23 12/01/2026
+- 🎉 [Tiểu đoàn trưởng Nga tuyên bố từng hạ F-16 Ukraine bằng S-300](https://vnexpress.net/tieu-doan-truong-nga-tuyen-bo-tung-ha-f-16-ukraine-bang-s-300-5004468.html) - 02:12 12/01/2026
 - 🎉 [Chủ tịch Cuba: Không ai được lệnh cho chúng tôi phải làm gì](https://vnexpress.net/chu-tich-cuba-khong-ai-duoc-lenh-cho-chung-toi-phai-lam-gi-5004430.html) - 01:32 12/01/2026
-- 🎉 [Châu Âu cân nhắc &#39;đưa lực lượng NATO đến Greenland&#39;](https://vnexpress.net/chau-au-can-nhac-dua-luc-luong-nato-den-greenland-5004426.html) - 00:17 12/01/2026
-- 🌁 [Mỹ điều thêm hàng trăm đặc vụ đến Minneapolis sau vụ nổ súng chết người](https://vnexpress.net/my-dieu-them-hang-tram-dac-vu-den-minneapolis-sau-vu-no-sung-chet-nguoi-5004422.html) - 23:56 11/01/2026
-- 🌊 [ICE - lực lượng trấn áp nhập cư nhiều tranh cãi của Mỹ](https://vnexpress.net/ice-luc-luong-tran-ap-nhap-cu-nhieu-tranh-cai-cua-my-5003854.html) - 22:00 11/01/2026
-- 🕴 [Điệp viên phản bội từng phá nát mạng lưới tình báo của CIA ở Liên Xô](https://vnexpress.net/diep-vien-phan-boi-tung-pha-nat-mang-luoi-tinh-bao-cua-cia-o-lien-xo-5002885.html) - 17:00 11/01/2026
-- 🎓 [Chủ nhân Nobel Hòa bình không được phép tặng lại giải cho ông Trump](https://vnexpress.net/chu-nhan-nobel-hoa-binh-khong-duoc-phep-tang-lai-giai-cho-ong-trump-5004373.html) - 15:17 11/01/2026
-- 🦩 [Iran ghi nhận hơn 100 nhân viên an ninh thiệt mạng trong làn sóng biểu tình](https://vnexpress.net/iran-ghi-nhan-hon-100-nhan-vien-an-ninh-thiet-mang-trong-lan-song-bieu-tinh-5004358.html) - 12:08 11/01/2026
-- 🌏 [Greenland - Mảnh ghép chiến lược trong tham vọng của ông Trump](https://vnexpress.net/greenland-manh-ghep-chien-luoc-trong-tham-vong-cua-ong-trump-5003096.html) - 11:49 11/01/2026
-- 🌋 [Đánh bom đồng loạt tại 11 trạm xăng Thái Lan](https://vnexpress.net/danh-bom-dong-loat-tai-11-tram-xang-thai-lan-5004329.html) - 09:55 11/01/2026
-- 🪜 [Ông Trump ký sắc lệnh bảo vệ nguồn thu từ dầu mỏ Venezuela](https://vnexpress.net/ong-trump-ky-sac-lenh-bao-ve-nguon-thu-tu-dau-mo-venezuela-5004317.html) - 09:11 11/01/2026
-- 🕴 [Iran dọa nhắm vào căn cứ Mỹ nếu Washington tấn công](https://vnexpress.net/iran-doa-nham-vao-can-cu-my-neu-washington-tan-cong-5004310.html) - 07:53 11/01/2026
-- 🧑‍🏫 [Lý do các ổ lừa đảo trực tuyến khó bị xóa sổ](https://vnexpress.net/ly-do-cac-o-lua-dao-truc-tuyen-kho-bi-xoa-so-5003557.html) - 07:43 11/01/2026
-- 🌮 [Thông điệp của Nga khi phóng tên lửa Oreshnik vào Ukraine](https://vnexpress.net/thong-diep-cua-nga-khi-phong-ten-lua-oreshnik-vao-ukraine-5004015.html) - 04:00 11/01/2026
-- 🚦 [Người Mỹ sẽ tổ chức hơn 1.000 cuộc biểu tình phản đối ICE](https://vnexpress.net/nguoi-my-se-to-chuc-hon-1-000-cuoc-bieu-tinh-phan-doi-ice-5004247.html) - 03:45 11/01/2026
-- 💫 [Ông Maduro thông báo &#39;vẫn ổn&#39; trong nhà tù Mỹ](https://vnexpress.net/ong-maduro-thong-bao-van-on-trong-nha-tu-my-5004225.html) - 02:41 11/01/2026
-- 🤡 [Người Kiev co ro trong giá rét sau đòn tập kích của Nga](https://vnexpress.net/nguoi-kiev-co-ro-trong-gia-ret-sau-don-tap-kich-cua-nga-5004221.html) - 01:36 11/01/2026
-- 🦣 [Mỹ không kích quy mô lớn đáp trả IS ở Syria](https://vnexpress.net/my-khong-kich-quy-mo-lon-dap-tra-is-o-syria-5004217.html) - 00:09 11/01/2026
-- 🎬 [Mỹ kêu gọi công dân lập tức rời Venezuela](https://vnexpress.net/my-keu-goi-cong-dan-lap-tuc-roi-venezuela-5004216.html) - 23:27 10/01/2026
-- 🎉 [Thỏa ước &#39;thế kỷ&#39; Mỹ từng ký với Đan Mạch về quyền kiểm soát Greenland](https://vnexpress.net/thoa-uoc-the-ky-my-tung-ky-voi-dan-mach-ve-quyen-kiem-soat-greenland-5002757.html) - 22:00 10/01/2026
-- 🎡 [Điểm nóng thử thách quyền lực của ông Trump trong lòng nước Mỹ](https://vnexpress.net/diem-nong-thu-thach-quyen-luc-cua-ong-trump-trong-long-nuoc-my-5003986.html) - 17:00 10/01/2026
-- 🌜 [Mạng xã hội Mỹ dậy sóng vì máy bay &#39;Ngày tận thế&#39; xuất hiện ở Los Angeles](https://vnexpress.net/mang-xa-hoi-my-day-song-vi-may-bay-ngay-tan-the-xuat-hien-o-los-angeles-5004194.html) - 15:46 10/01/2026
-- 🎡 [&#39;Đòn giáng kép&#39; vào đảng Cộng hòa ngay đầu năm bầu cử giữa kỳ](https://vnexpress.net/don-giang-kep-vao-dang-cong-hoa-ngay-dau-nam-bau-cu-giua-ky-5002664.html) - 12:05 10/01/2026
-- 🤗 [Các đảng phái Greenland tuyên bố không muốn bị Mỹ kiểm soát](https://vnexpress.net/cac-dang-phai-greenland-tuyen-bo-khong-muon-bi-my-kiem-soat-5004136.html) - 10:31 10/01/2026
-- 🦩 [Đặc vụ Mỹ gây chú ý khi rời hàng ngũ để ôm người biểu tình ở Minnesota](https://vnexpress.net/dac-vu-my-gay-chu-y-khi-roi-hang-ngu-de-om-nguoi-bieu-tinh-o-minnesota-5004113.html) - 08:45 10/01/2026
-- 🎓 [Đại sứ Knapper: Việt Nam sẽ mãi là nơi rất đặc biệt với tôi](https://vnexpress.net/dai-su-knapper-viet-nam-se-mai-la-noi-rat-dac-biet-voi-toi-5004102.html) - 08:00 10/01/2026
-- 🌁 [Quan chức EU - Nga đấu khẩu về vụ phóng tên lửa Oreshnik](https://vnexpress.net/quan-chuc-eu-nga-dau-khau-ve-vu-phong-ten-lua-oreshnik-5004037.html) - 05:48 10/01/2026
-- 🤩 [Italy đề nghị EU nối lại đối thoại với Nga về Ukraine](https://vnexpress.net/italy-de-nghi-eu-noi-lai-doi-thoai-voi-nga-ve-ukraine-5004056.html) - 05:10 10/01/2026
-- 👹 [Hơn một thế kỷ Mỹ nuôi tham vọng thâu tóm Greenland](https://vnexpress.net/hon-mot-the-ky-my-nuoi-tham-vong-thau-tom-greenland-5003793.html) - 04:55 10/01/2026
-- ⛽️ [Quân đội Ukraine mua phải loạt mìn &#39;nổ trên tay binh sĩ&#39;](https://vnexpress.net/quan-doi-ukraine-mua-phai-loat-min-no-tren-tay-binh-si-5003988.html) - 04:32 10/01/2026
-- 🚀 [Ông Trump đe dọa &#39;giáng đòn&#39; vào Iran](https://vnexpress.net/ong-trump-de-doa-giang-don-vao-iran-5004059.html) - 04:02 10/01/2026
-- 🎡 [Công dân Trung Quốc bị bắt vì chụp ảnh căn cứ B-2 Mỹ](https://vnexpress.net/cong-dan-trung-quoc-bi-bat-vi-chup-anh-can-cu-b-2-my-5004026.html) - 03:52 10/01/2026
-- 🕯 [Việt Nam lên tiếng về việc Trung Quốc mở trung tâm thương mại trên đảo Phú Lâm](https://vnexpress.net/viet-nam-len-tieng-ve-viec-trung-quoc-mo-trung-tam-thuong-mai-tren-dao-phu-lam-5004032.html) - 03:39 10/01/2026
-- 🐻 [Ukraine thu được loạt mảnh vỡ tên lửa siêu vượt âm Oreshnik](https://vnexpress.net/ukraine-thu-duoc-loat-manh-vo-ten-lua-sieu-vuot-am-oreshnik-5003996.html) - 03:27 10/01/2026
-- 🚦 [Colombia kêu gọi Venezuela chung tay chống tội phạm ma túy](https://vnexpress.net/colombia-keu-goi-venezuela-chung-tay-chong-toi-pham-ma-tuy-5004006.html) - 03:22 10/01/2026
-- 👍 [Phe đối lập Greenland muốn hòn đảo tự đàm phán với Mỹ](https://vnexpress.net/phe-doi-lap-greenland-muon-hon-dao-tu-dam-phan-voi-my-5004016.html) - 03:09 10/01/2026
-- 🚀 [Venezuela đàm phán khôi phục quan hệ với Mỹ](https://vnexpress.net/venezuela-dam-phan-khoi-phuc-quan-he-voi-my-5004012.html) - 02:43 10/01/2026
-- 🌮 [Ông Trump đọc to lời nhắn riêng từ Ngoại trưởng Rubio giữa cuộc họp](https://vnexpress.net/ong-trump-doc-to-loi-nhan-rieng-tu-ngoai-truong-rubio-giua-cuoc-hop-5003977.html) - 02:11 10/01/2026
-- 😎 [Ông Trump nêu thời điểm gặp Tổng thống Colombia](https://vnexpress.net/ong-trump-neu-thoi-diem-gap-tong-thong-colombia-5003975.html) - 01:25 10/01/2026
-- 🐲 [Triều Tiên tuyên bố bắn hạ UAV Hàn Quốc](https://vnexpress.net/trieu-tien-tuyen-bo-ban-ha-uav-han-quoc-5003973.html) - 01:14 10/01/2026
-- 💫 [Giây phút chạm trán khiến đặc vụ ICE bắn chết người ở Minnesota](https://vnexpress.net/giay-phut-cham-tran-khien-dac-vu-ice-ban-chet-nguoi-o-minnesota-5003972.html) - 00:12 10/01/2026
-- 👀 [Ông Trump phủ nhận chủ quyền của Đan Mạch đối với Greenland](https://vnexpress.net/ong-trump-phu-nhan-chu-quyen-cua-dan-mach-doi-voi-greenland-5003971.html) - 23:42 09/01/2026<!-- vnexpress-the-gioi:END -->
+- 🌁 [Châu Âu cân nhắc &#39;đưa lực lượng NATO đến Greenland&#39;](https://vnexpress.net/chau-au-can-nhac-dua-luc-luong-nato-den-greenland-5004426.html) - 00:17 12/01/2026
+- 🌊 [Mỹ điều thêm hàng trăm đặc vụ đến Minneapolis sau vụ nổ súng chết người](https://vnexpress.net/my-dieu-them-hang-tram-dac-vu-den-minneapolis-sau-vu-no-sung-chet-nguoi-5004422.html) - 23:56 11/01/2026
+- 🕴 [ICE - lực lượng trấn áp nhập cư nhiều tranh cãi của Mỹ](https://vnexpress.net/ice-luc-luong-tran-ap-nhap-cu-nhieu-tranh-cai-cua-my-5003854.html) - 22:00 11/01/2026
+- 🎓 [Điệp viên phản bội từng phá nát mạng lưới tình báo của CIA ở Liên Xô](https://vnexpress.net/diep-vien-phan-boi-tung-pha-nat-mang-luoi-tinh-bao-cua-cia-o-lien-xo-5002885.html) - 17:00 11/01/2026
+- 🦩 [Chủ nhân Nobel Hòa bình không được phép tặng lại giải cho ông Trump](https://vnexpress.net/chu-nhan-nobel-hoa-binh-khong-duoc-phep-tang-lai-giai-cho-ong-trump-5004373.html) - 15:17 11/01/2026
+- 🌏 [Iran ghi nhận hơn 100 nhân viên an ninh thiệt mạng trong làn sóng biểu tình](https://vnexpress.net/iran-ghi-nhan-hon-100-nhan-vien-an-ninh-thiet-mang-trong-lan-song-bieu-tinh-5004358.html) - 12:08 11/01/2026
+- 🌋 [Greenland - Mảnh ghép chiến lược trong tham vọng của ông Trump](https://vnexpress.net/greenland-manh-ghep-chien-luoc-trong-tham-vong-cua-ong-trump-5003096.html) - 11:49 11/01/2026
+- 🪜 [Đánh bom đồng loạt tại 11 trạm xăng Thái Lan](https://vnexpress.net/danh-bom-dong-loat-tai-11-tram-xang-thai-lan-5004329.html) - 09:55 11/01/2026
+- 🕴 [Ông Trump ký sắc lệnh bảo vệ nguồn thu từ dầu mỏ Venezuela](https://vnexpress.net/ong-trump-ky-sac-lenh-bao-ve-nguon-thu-tu-dau-mo-venezuela-5004317.html) - 09:11 11/01/2026
+- 🧑‍🏫 [Iran dọa nhắm vào căn cứ Mỹ nếu Washington tấn công](https://vnexpress.net/iran-doa-nham-vao-can-cu-my-neu-washington-tan-cong-5004310.html) - 07:53 11/01/2026
+- 🌮 [Lý do các ổ lừa đảo trực tuyến khó bị xóa sổ](https://vnexpress.net/ly-do-cac-o-lua-dao-truc-tuyen-kho-bi-xoa-so-5003557.html) - 07:43 11/01/2026
+- 🚦 [Thông điệp của Nga khi phóng tên lửa Oreshnik vào Ukraine](https://vnexpress.net/thong-diep-cua-nga-khi-phong-ten-lua-oreshnik-vao-ukraine-5004015.html) - 04:00 11/01/2026
+- 💫 [Người Mỹ sẽ tổ chức hơn 1.000 cuộc biểu tình phản đối ICE](https://vnexpress.net/nguoi-my-se-to-chuc-hon-1-000-cuoc-bieu-tinh-phan-doi-ice-5004247.html) - 03:45 11/01/2026
+- 🤡 [Ông Maduro thông báo &#39;vẫn ổn&#39; trong nhà tù Mỹ](https://vnexpress.net/ong-maduro-thong-bao-van-on-trong-nha-tu-my-5004225.html) - 02:41 11/01/2026
+- 🦣 [Người Kiev co ro trong giá rét sau đòn tập kích của Nga](https://vnexpress.net/nguoi-kiev-co-ro-trong-gia-ret-sau-don-tap-kich-cua-nga-5004221.html) - 01:36 11/01/2026
+- 🎬 [Mỹ không kích quy mô lớn đáp trả IS ở Syria](https://vnexpress.net/my-khong-kich-quy-mo-lon-dap-tra-is-o-syria-5004217.html) - 00:09 11/01/2026
+- 🎉 [Mỹ kêu gọi công dân lập tức rời Venezuela](https://vnexpress.net/my-keu-goi-cong-dan-lap-tuc-roi-venezuela-5004216.html) - 23:27 10/01/2026
+- 🎡 [Thỏa ước &#39;thế kỷ&#39; Mỹ từng ký với Đan Mạch về quyền kiểm soát Greenland](https://vnexpress.net/thoa-uoc-the-ky-my-tung-ky-voi-dan-mach-ve-quyen-kiem-soat-greenland-5002757.html) - 22:00 10/01/2026
+- 🌜 [Điểm nóng thử thách quyền lực của ông Trump trong lòng nước Mỹ](https://vnexpress.net/diem-nong-thu-thach-quyen-luc-cua-ong-trump-trong-long-nuoc-my-5003986.html) - 17:00 10/01/2026
+- 🎡 [Mạng xã hội Mỹ dậy sóng vì máy bay &#39;Ngày tận thế&#39; xuất hiện ở Los Angeles](https://vnexpress.net/mang-xa-hoi-my-day-song-vi-may-bay-ngay-tan-the-xuat-hien-o-los-angeles-5004194.html) - 15:46 10/01/2026
+- 🤗 [&#39;Đòn giáng kép&#39; vào đảng Cộng hòa ngay đầu năm bầu cử giữa kỳ](https://vnexpress.net/don-giang-kep-vao-dang-cong-hoa-ngay-dau-nam-bau-cu-giua-ky-5002664.html) - 12:05 10/01/2026
+- 🦩 [Các đảng phái Greenland tuyên bố không muốn bị Mỹ kiểm soát](https://vnexpress.net/cac-dang-phai-greenland-tuyen-bo-khong-muon-bi-my-kiem-soat-5004136.html) - 10:31 10/01/2026
+- 🎓 [Đặc vụ Mỹ gây chú ý khi rời hàng ngũ để ôm người biểu tình ở Minnesota](https://vnexpress.net/dac-vu-my-gay-chu-y-khi-roi-hang-ngu-de-om-nguoi-bieu-tinh-o-minnesota-5004113.html) - 08:45 10/01/2026
+- 🌁 [Đại sứ Knapper: Việt Nam sẽ mãi là nơi rất đặc biệt với tôi](https://vnexpress.net/dai-su-knapper-viet-nam-se-mai-la-noi-rat-dac-biet-voi-toi-5004102.html) - 08:00 10/01/2026
+- 🤩 [Quan chức EU - Nga đấu khẩu về vụ phóng tên lửa Oreshnik](https://vnexpress.net/quan-chuc-eu-nga-dau-khau-ve-vu-phong-ten-lua-oreshnik-5004037.html) - 05:48 10/01/2026
+- 👹 [Italy đề nghị EU nối lại đối thoại với Nga về Ukraine](https://vnexpress.net/italy-de-nghi-eu-noi-lai-doi-thoai-voi-nga-ve-ukraine-5004056.html) - 05:10 10/01/2026
+- ⛽️ [Hơn một thế kỷ Mỹ nuôi tham vọng thâu tóm Greenland](https://vnexpress.net/hon-mot-the-ky-my-nuoi-tham-vong-thau-tom-greenland-5003793.html) - 04:55 10/01/2026
+- 🚀 [Quân đội Ukraine mua phải loạt mìn &#39;nổ trên tay binh sĩ&#39;](https://vnexpress.net/quan-doi-ukraine-mua-phai-loat-min-no-tren-tay-binh-si-5003988.html) - 04:32 10/01/2026
+- 🎡 [Ông Trump đe dọa &#39;giáng đòn&#39; vào Iran](https://vnexpress.net/ong-trump-de-doa-giang-don-vao-iran-5004059.html) - 04:02 10/01/2026
+- 🕯 [Công dân Trung Quốc bị bắt vì chụp ảnh căn cứ B-2 Mỹ](https://vnexpress.net/cong-dan-trung-quoc-bi-bat-vi-chup-anh-can-cu-b-2-my-5004026.html) - 03:52 10/01/2026
+- 🐻 [Việt Nam lên tiếng về việc Trung Quốc mở trung tâm thương mại trên đảo Phú Lâm](https://vnexpress.net/viet-nam-len-tieng-ve-viec-trung-quoc-mo-trung-tam-thuong-mai-tren-dao-phu-lam-5004032.html) - 03:39 10/01/2026
+- 🚦 [Ukraine thu được loạt mảnh vỡ tên lửa siêu vượt âm Oreshnik](https://vnexpress.net/ukraine-thu-duoc-loat-manh-vo-ten-lua-sieu-vuot-am-oreshnik-5003996.html) - 03:27 10/01/2026
+- 👍 [Colombia kêu gọi Venezuela chung tay chống tội phạm ma túy](https://vnexpress.net/colombia-keu-goi-venezuela-chung-tay-chong-toi-pham-ma-tuy-5004006.html) - 03:22 10/01/2026
+- 🚀 [Phe đối lập Greenland muốn hòn đảo tự đàm phán với Mỹ](https://vnexpress.net/phe-doi-lap-greenland-muon-hon-dao-tu-dam-phan-voi-my-5004016.html) - 03:09 10/01/2026
+- 🌮 [Venezuela đàm phán khôi phục quan hệ với Mỹ](https://vnexpress.net/venezuela-dam-phan-khoi-phuc-quan-he-voi-my-5004012.html) - 02:43 10/01/2026
+- 😎 [Ông Trump đọc to lời nhắn riêng từ Ngoại trưởng Rubio giữa cuộc họp](https://vnexpress.net/ong-trump-doc-to-loi-nhan-rieng-tu-ngoai-truong-rubio-giua-cuoc-hop-5003977.html) - 02:11 10/01/2026
+- 🐲 [Ông Trump nêu thời điểm gặp Tổng thống Colombia](https://vnexpress.net/ong-trump-neu-thoi-diem-gap-tong-thong-colombia-5003975.html) - 01:25 10/01/2026
+- 💫 [Triều Tiên tuyên bố bắn hạ UAV Hàn Quốc](https://vnexpress.net/trieu-tien-tuyen-bo-ban-ha-uav-han-quoc-5003973.html) - 01:14 10/01/2026
+- 👀 [Giây phút chạm trán khiến đặc vụ ICE bắn chết người ở Minnesota](https://vnexpress.net/giay-phut-cham-tran-khien-dac-vu-ice-ban-chet-nguoi-o-minnesota-5003972.html) - 00:12 10/01/2026<!-- vnexpress-the-gioi:END -->
