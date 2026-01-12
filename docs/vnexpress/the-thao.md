@@ -5,8 +5,8 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Real sa thải HLV Alonso](https://vnexpress.net/real-sa-thai-hlv-alonso-5004864.html) - 17:29 12/01/2026
-- 🦩 [Việt Nam toàn thắng vòng bảng U23 châu Á](https://vnexpress.net/truc-tiep-arab-saudi-viet-nam-5004836.html) - 15:19 12/01/2026
-- 🧰 [Sao Real bẽ mặt khi trút giận vào chai nước](https://vnexpress.net/sao-real-be-mat-khi-trut-gian-vao-chai-nuoc-5004798.html) - 11:19 12/01/2026
+- 🦩 [Hạ Arab Saudi, Việt Nam vào tứ kết U23 châu Á](https://vnexpress.net/ket-qua-arab-saudi-viet-nam-5004836.html) - 15:19 12/01/2026
+- 🧰 [Cầu thủ Real bẽ mặt khi trút giận vào chai nước](https://vnexpress.net/cau-thu-real-be-mat-khi-trut-gian-vao-chai-nuoc-5004798.html) - 11:19 12/01/2026
 - 🤗 [Tài khoản của Bruno Fernandes bị hack](https://vnexpress.net/tai-khoan-cua-bruno-fernandes-bi-hack-5004792.html) - 11:14 12/01/2026
 - 🥳 [CLB bị xử thua hy hữu giữa trận bóng rổ Champions League](https://vnexpress.net/clb-bi-xu-thua-hy-huu-giua-tran-bong-ro-champions-league-5004656.html) - 09:02 12/01/2026
 - 🦣 [Arab Saudi – Việt Nam: Quyết chiến vì vé tứ kết U23 châu Á 2026](https://vnexpress.net/arab-saudi-viet-nam-quyet-chien-vi-ve-tu-ket-u23-chau-a-2026-5004718.html) - 08:36 12/01/2026
