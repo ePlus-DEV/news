@@ -408,7 +408,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP U23 Việt Nam đấu trận quyết định với U23 Saudi Arabia](https://baochinhphu.vn/u23-viet-nam-dau-tran-quyet-dinh-voi-u23-saudi-arabia-lich-xem-truc-tiep-va-cac-kich-ban-kho-luong-102260110094320646.htm) - 00:06 13/01/2026
+- 💻 [TOÀN CẢNH U23 Việt Nam chiến thắng thuyết phục trước U23 Saudi Arabia](https://baochinhphu.vn/u23-viet-nam-dau-tran-quyet-dinh-voi-u23-saudi-arabia-lich-xem-truc-tiep-va-cac-kich-ban-kho-luong-102260110094320646.htm) - 01:26 13/01/2026
 - 🌜 [Dự kiến thu phí 5 dự án thành phần cao tốc Bắc-Nam từ tháng 2/2026](https://baochinhphu.vn/du-kien-thu-phi-5-du-an-thanh-phan-cao-toc-bac-nam-tu-thang-2-2026-102260112224925057.htm) - 23:02 12/01/2026
 - 🦆 [Không để hành khách thiếu phương tiện, chậm về quê đón Tết](https://baochinhphu.vn/khong-de-hanh-khach-thieu-phuong-tien-cham-ve-que-don-tet-102260112223635439.htm) - 22:41 12/01/2026
 - 🌝 [Khẩn trương khắc phục hằn lún mặt đường cao tốc Cầu Giẽ - Ninh Bình](https://baochinhphu.vn/khan-truong-khac-phuc-han-lun-mat-duong-cao-toc-cau-gie-ninh-binh-102260112220118988.htm) - 22:05 12/01/2026
