@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Làm &#39;luật ngầm&#39; tại Trung tâm đăng kiểm 50-04V, hơn 60 người lĩnh án](https://vnexpress.net/lam-luat-ngam-tai-trung-tam-dang-kiem-50-04v-hon-60-nguoi-linh-an-5005282.html) - 11:03 13/01/2026
 - 🥰 [Canada bắt chủ mưu vụ cướp 6.600 thỏi vàng](https://vnexpress.net/canada-bat-chu-muu-vu-cuop-66-000-thoi-vang-5005283.html) - 11:02 13/01/2026
-- 🎓 [Giám đốc trung tâm thể thao &#39;xà xẻo&#39; tiền của vận động viên](https://vnexpress.net/giam-doc-trung-tam-the-thao-xa-xeo-tien-cua-van-dong-vien-5005223.html) - 09:02 13/01/2026
+- 🎓 [Giám đốc trung tâm thể thao &#39;ăn chặn&#39; tiền của vận động viên](https://vnexpress.net/giam-doc-trung-tam-the-thao-an-chan-tien-cua-van-dong-vien-5005223.html) - 09:02 13/01/2026
 - 🤓 [Nhiều cựu quan chức địa phương lĩnh án vì sai phạm bồi thường đất sân bay Long Thành](https://vnexpress.net/nhieu-cuu-quan-chuc-dia-phuong-linh-an-vi-sai-pham-boi-thuong-dat-san-bay-long-thanh-5005198.html) - 08:55 13/01/2026
 - 🎊 [Xác minh nguồn tin &#39;để lọt tội phạm&#39; ở vụ án tài xế tông chết nữ sinh Vĩnh Long](https://vnexpress.net/xac-minh-viec-khong-xu-ly-nguoi-co-toi-o-vu-an-tai-xe-tong-chet-nu-sinh-vinh-long-5005121.html) - 07:42 13/01/2026
 - 🙉 [19 người bị bắt sau vụ cầm hung khí đuổi đánh nhau ở TP HCM](https://vnexpress.net/19-nguoi-bi-bat-sau-vu-cam-hung-khi-duoi-danh-nhau-o-tp-hcm-5005101.html) - 06:28 13/01/2026
