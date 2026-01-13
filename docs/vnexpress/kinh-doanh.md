@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Sở Nông nghiệp và Môi trường: Ba năm kiểm tra không phát hiện sai phạm tại Công ty Đồ hộp Hạ Long](https://vnexpress.net/so-nong-nghiep-va-moi-truong-ba-nam-kiem-tra-khong-phat-hien-sai-pham-tai-cong-ty-do-hop-ha-long-5005183.html) - 09:26 13/01/2026
+- ⛽️ [Sở Nông nghiệp và Môi trường: Ba năm kiểm tra không phát hiện sai phạm tại Đồ hộp Hạ Long](https://vnexpress.net/so-nong-nghiep-va-moi-truong-ba-nam-kiem-tra-khong-phat-hien-sai-pham-tai-do-hop-ha-long-5005183.html) - 09:26 13/01/2026
 - 🐲 [HSBC: Việt Nam có thể là quán quân tăng trưởng châu Á](https://vnexpress.net/hsbc-viet-nam-co-the-la-quan-quan-tang-truong-chau-a-5005177.html) - 09:25 13/01/2026
 - 🔥 [Thủ tướng: Nghiên cứu áp thuế để hạn chế đầu cơ, thổi giá bất động sản](https://vnexpress.net/thu-tuong-nghien-cuu-ap-thue-de-han-che-dau-co-thoi-gia-bat-dong-san-5005130.html) - 08:33 13/01/2026
 - 🐵 [Chứng khoán vượt 1.900 điểm](https://vnexpress.net/chung-khoan-vuot-1-900-diem-5005197.html) - 08:33 13/01/2026
