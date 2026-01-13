@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [5 ôtô hybrid bàn giao nhiều nhất tháng 12/2025](https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-giao-nhieu-nhat-thang-12-2025-5005053.html) - 17:00 13/01/2026
 - 🐲 [Apple ra gói ứng dụng Creator Studio giá 199.000 đồng mỗi tháng](https://vnexpress.net/apple-ra-goi-ung-dung-creator-studio-gia-199-000-dong-moi-thang-5005344.html) - 16:18 13/01/2026
 - 🤓 [Thủ hiến Greenland: Chúng tôi chọn Đan Mạch, không chọn Mỹ](https://vnexpress.net/thu-hien-greenland-chung-toi-chon-dan-mach-khong-chon-my-5005326.html) - 16:15 13/01/2026
-- 💪 [UAE 1-1 Syria &lpar;H2&rpar;: Gỡ hòa đầu hiệp hai](https://vnexpress.net/truc-tiep-uae-syria-xac-dinh-doi-thu-cua-viet-nam-5005343.html) - 15:46 13/01/2026
+- 💪 [Xác định đối thủ của Việt Nam ở tứ kết U23 châu Á](https://vnexpress.net/truc-tiep-uae-syria-xac-dinh-doi-thu-cua-viet-nam-5005343.html) - 15:46 13/01/2026
 - 🎓 [TP HCM tính phát triển TOD về khu vực Bình Dương, Bà Rịa - Vũng Tàu cũ](https://vnexpress.net/tp-hcm-tinh-phat-trien-tod-ve-khu-vuc-binh-duong-ba-ria-vung-tau-cu-5005332.html) - 15:36 13/01/2026
 - 🫣 [Campuchia ngừng bán các dự án chung cư thuộc tập đoàn của Chen Zhi](https://vnexpress.net/campuchia-ngung-ban-cac-du-an-chung-cu-thuoc-tap-doan-cua-chen-zhi-5005293.html) - 15:29 13/01/2026
 - 🧑‍💻 [Hương Giang thi Miss Grand International](https://vnexpress.net/huong-giang-thi-miss-grand-international-5005318.html) - 14:45 13/01/2026
