@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nghịch lý: Càng bất an, &#39;chuyện ấy&#39; càng thăng hoa](https://vnexpress.net/nghich-ly-cang-bat-an-chuyen-ay-cang-thang-hoa-5005215.html) - 13:32 14/01/2026
+- 🚀 [Càng bất an, &#39;chuyện ấy&#39; càng thăng hoa](https://vnexpress.net/cang-bat-an-chuyen-ay-cang-thang-hoa-5005215.html) - 13:32 14/01/2026
 - 🎓 [Nhiều phụ nữ Mỹ nuôi chó thay cho hẹn hò](https://vnexpress.net/nhieu-phu-nu-my-nuoi-cho-thay-cho-hen-ho-5005342.html) - 06:59 14/01/2026
 - 🚦 [Nên thắp hương quả xanh hay quả chín?](https://vnexpress.net/nen-thap-huong-qua-xanh-hay-qua-chin-5004398.html) - 04:34 14/01/2026
 - 🦣 [Chị em song sinh cưới anh em sinh đôi](https://vnexpress.net/chi-em-song-sinh-cuoi-anh-em-sinh-doi-5005368.html) - 03:32 14/01/2026
