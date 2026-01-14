@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Tây nhờ tìm lại điểm chụp ảnh 22 năm trước](https://vnexpress.net/khach-tay-nho-tim-lai-diem-chup-anh-22-nam-truoc-5005287.html) - 00:00 14/01/2026
+- 💂 [Hoa tớ dày nhuộm hồng Mù Cang Chải](https://vnexpress.net/hoa-to-day-nhuom-hong-mu-cang-chai-5004685.html) - 02:57 14/01/2026
 - 🪄 [Chuyến đi không có ngày về của khách tới &#39;nơi hạnh phúc nhất thế giới&#39;](https://vnexpress.net/chuyen-di-khong-co-ngay-ve-cua-khach-toi-noi-hanh-phuc-nhat-the-gioi-5005096.html) - 19:40 13/01/2026
 - 🦅 [Đảo Greenland nằm ở đâu?](https://vnexpress.net/dao-greenland-nam-o-dau-5004759.html) - 12:30 13/01/2026
 - 🕴 [Quán bánh mì khiến khách xếp hàng cả tiếng ở ngoại thành Hà Nội](https://vnexpress.net/quan-banh-mi-khien-khach-xep-hang-ca-tieng-o-ngoai-thanh-ha-noi-5005277.html) - 11:00 13/01/2026
