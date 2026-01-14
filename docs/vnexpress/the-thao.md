@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Xác định bốn trận tứ kết U23 châu Á 2026](https://vnexpress.net/xac-dinh-bon-tran-tu-ket-u23-chau-a-2026-5005753.html) - 13:46 14/01/2026
 - 🦩 [Thùy Linh thắng cựu vô địch thế giới ở giải Ấn Độ](https://vnexpress.net/thuy-linh-thang-cuu-vo-dich-the-gioi-o-giai-an-do-5005739.html) - 12:36 14/01/2026
-- 🧰 [Hòa Trung Quốc, Thái Lan bị loại ở VCK U23 châu Á 2026](https://vnexpress.net/u23-thai-lan-v-u23-trung-quoc-5005690.html) - 10:56 14/01/2026
+- 🧰 [Hòa Trung Quốc, Thái Lan bị loại ở VCK U23 châu Á 2026](https://vnexpress.net/u23-thai-lan-v-u23-trung-quoc-5005690-tong-thuat.html) - 10:56 14/01/2026
 - 🤗 [Henry: &#39;Cầu thủ Real nắm 90% quyền lực, chỉ 10% thuộc về HLV&#39;](https://vnexpress.net/henry-cau-thu-real-nam-90-quyen-luc-chi-10-thuoc-ve-hlv-5005660.html) - 09:11 14/01/2026
 - 🥳 [HLV Kim Sang-sik: &#39;Gặp đối thủ nào, Việt Nam cũng chiến&#39;](https://vnexpress.net/hlv-kim-sang-sik-gap-doi-thu-nao-viet-nam-cung-chien-5005613.html) - 08:14 14/01/2026
 - 🦣 [Tân HLV Real lo thảm bại nếu bắt chước Mourinho](https://vnexpress.net/tan-hlv-real-lo-tham-bai-neu-bat-chuoc-mourinho-5005360.html) - 05:34 14/01/2026
