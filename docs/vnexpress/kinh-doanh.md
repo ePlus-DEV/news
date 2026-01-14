@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Kinh tế nhà nước ra sao sau 40 năm Đổi mới](https://vnexpress.net/kinh-te-nha-nuoc-ra-sao-sau-40-nam-doi-moi-5005341.html) - 17:02 13/01/2026
+- ⛽️ [Kinh tế nhà nước sau 40 năm Đổi mới](https://vnexpress.net/kinh-te-nha-nuoc-sau-40-nam-doi-moi-5005341.html) - 17:02 13/01/2026
 - 🐲 [Niềm tin doanh nghiệp châu Âu ở Việt Nam cao nhất 7 năm](https://vnexpress.net/niem-tin-doanh-nghiep-chau-au-o-viet-nam-cao-nhat-7-nam-5005224.html) - 17:00 13/01/2026
 - 🔥 [TP HCM tính phát triển TOD về khu vực Bình Dương, Bà Rịa - Vũng Tàu cũ](https://vnexpress.net/tp-hcm-tinh-phat-trien-tod-ve-khu-vuc-binh-duong-ba-ria-vung-tau-cu-5005332.html) - 15:36 13/01/2026
 - 🐵 [Chứng khoán Venezuela tăng hơn 130% từ đầu năm](https://vnexpress.net/chung-khoan-venezuela-tang-hon-130-tu-dau-nam-5005159.html) - 12:00 13/01/2026
