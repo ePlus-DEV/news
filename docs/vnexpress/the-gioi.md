@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Sự cố khiến loạt bom hạt nhân Mỹ vỡ tung ở Greenland năm 1968](https://vnexpress.net/su-co-khien-loat-bom-hat-nhan-my-vo-tung-o-greenland-nam-1968-5004699.html) - 18:00 15/01/2026
-- 🕴 [Ông Trump dọa dùng luật chống nổi loạn để đối phó biểu tình ở Minnesota](https://vnexpress.net/ong-trump-doa-dung-luat-chong-noi-loan-de-doi-pho-bieu-tinh-o-minnesota-5006218.html) - 15:13 15/01/2026
-- 🤭 [Ông Macron: Binh sĩ Pháp đã có mặt tại Greenland](https://vnexpress.net/ong-macron-binh-si-phap-da-co-mat-tai-greenland-5006207.html) - 13:20 15/01/2026
-- 🧑‍💻 [Thủ đô Ukraine chìm trong bóng tối giữa khủng hoảng năng lượng](https://vnexpress.net/thu-do-ukraine-chim-trong-bong-toi-giua-khung-hoang-nang-luong-5005614.html) - 12:00 15/01/2026
-- 🦏 [Nga quan ngại NATO điều thêm quân đến Greenland](https://vnexpress.net/nga-quan-ngai-nato-dieu-them-quan-den-greenland-5006143.html) - 10:40 15/01/2026
-- 🦒 [Khoảng hai triệu người Ukraine trốn nhập ngũ](https://vnexpress.net/khoang-hai-trieu-nguoi-ukraine-tron-nhap-ngu-5006099.html) - 10:01 15/01/2026
-- 🌈 [Ông Trump: Tổng thống Putin sẵn sàng đạt thỏa thuận hòa bình](https://vnexpress.net/ong-trump-tong-thong-putin-san-sang-dat-thoa-thuan-hoa-binh-5006019.html) - 09:14 15/01/2026
-- 🧑‍🏫 [Nga trục xuất nhân viên ngoại giao Anh bị nghi là gián điệp](https://vnexpress.net/nga-truc-xuat-nhan-vien-ngoai-giao-anh-bi-nghi-la-gian-diep-5006093.html) - 08:54 15/01/2026
-- 🐲 [Mỹ thử nghiệm UAV trợ chiến vận hành bằng AI](https://vnexpress.net/my-thu-nghiem-uav-tro-chien-van-hanh-bang-ai-5006039.html) - 08:42 15/01/2026
-- 🦒 [Mẫu máy bay bảo vệ Tổng thống Mỹ trong kịch bản chiến tranh hạt nhân](https://vnexpress.net/mau-may-bay-bao-ve-tong-thong-my-trong-kich-ban-chien-tranh-hat-nhan-5005919.html) - 08:04 15/01/2026
-- 🐻 [Đặc vụ ICE &#39;bị xuất huyết nội&#39; trong vụ bắn chết người ở Minnesota](https://vnexpress.net/dac-vu-ice-bi-xuat-huyet-noi-trong-vu-ban-chet-nguoi-o-minnesota-5005965.html) - 07:23 15/01/2026
-- 🚀 [Mỹ thông báo bắt đầu quá trình &#39;phi quân sự hóa hoàn toàn&#39; Gaza](https://vnexpress.net/my-thong-bao-bat-dau-qua-trinh-phi-quan-su-hoa-hoan-toan-gaza-5005883.html) - 07:00 15/01/2026
-- 🥰 [Bất đồng khiến đàm phán Mỹ - Đan Mạch về Greenland bế tắc](https://vnexpress.net/bat-dong-khien-dam-phan-my-dan-mach-ve-greenland-be-tac-5005818.html) - 04:55 15/01/2026
-- 🔥 [Người Thái Lan tranh cãi về chữ viết &#39;không đọc nổi&#39; của ông Anutin](https://vnexpress.net/nguoi-thai-lan-tranh-cai-ve-chu-viet-khong-doc-noi-cua-ong-anutin-5005891.html) - 04:32 15/01/2026
-- 🥳 [Campuchia cam kết tiếp tục trấn áp lừa đảo sau vụ bắt Chen Zhi](https://vnexpress.net/campuchia-cam-ket-tiep-tuc-tran-ap-lua-dao-sau-vu-bat-chen-zhi-5005867.html) - 04:10 15/01/2026
-- 💼 [Tư lệnh hải quân Mỹ lo siêu tàu sân bay bị quá tải](https://vnexpress.net/tu-lenh-hai-quan-my-lo-sieu-tau-san-bay-bi-qua-tai-5005821.html) - 03:41 15/01/2026
-- 🤡 [Không phận Iran vắng bóng máy bay](https://vnexpress.net/khong-phan-iran-vang-bong-may-bay-5005892.html) - 03:33 15/01/2026
-- 🌁 [Thông điệp &#39;ngoại giao chơi trống&#39; của lãnh đạo Nhật - Hàn](https://vnexpress.net/thong-diep-ngoai-giao-choi-trong-cua-lanh-dao-nhat-han-5005658.html) - 03:24 15/01/2026
-- 🤩 [Thách thức với tham vọng khai khoáng Greenland](https://vnexpress.net/thach-thuc-voi-tham-vong-khai-khoang-greenland-5004911.html) - 03:00 15/01/2026
+- 🎭 [Thẩm phán định đoạt số phận cựu tổng thống Hàn Quốc](https://vnexpress.net/tham-phan-dinh-doat-so-phan-cuu-tong-thong-han-quoc-5005380.html) - 22:00 15/01/2026
+- 🕴 [Sự cố khiến loạt bom hạt nhân Mỹ vỡ tung ở Greenland năm 1968](https://vnexpress.net/su-co-khien-loat-bom-hat-nhan-my-vo-tung-o-greenland-nam-1968-5004699.html) - 18:00 15/01/2026
+- 🤭 [Ông Trump dọa dùng luật chống nổi loạn để đối phó biểu tình ở Minnesota](https://vnexpress.net/ong-trump-doa-dung-luat-chong-noi-loan-de-doi-pho-bieu-tinh-o-minnesota-5006218.html) - 15:13 15/01/2026
+- 🧑‍💻 [Ông Macron: Binh sĩ Pháp đã có mặt tại Greenland](https://vnexpress.net/ong-macron-binh-si-phap-da-co-mat-tai-greenland-5006207.html) - 13:20 15/01/2026
+- 🦏 [Thủ đô Ukraine chìm trong bóng tối giữa khủng hoảng năng lượng](https://vnexpress.net/thu-do-ukraine-chim-trong-bong-toi-giua-khung-hoang-nang-luong-5005614.html) - 12:00 15/01/2026
+- 🦒 [Nga quan ngại NATO điều thêm quân đến Greenland](https://vnexpress.net/nga-quan-ngai-nato-dieu-them-quan-den-greenland-5006143.html) - 10:40 15/01/2026
+- 🌈 [Khoảng hai triệu người Ukraine trốn nhập ngũ](https://vnexpress.net/khoang-hai-trieu-nguoi-ukraine-tron-nhap-ngu-5006099.html) - 10:01 15/01/2026
+- 🧑‍🏫 [Ông Trump: Tổng thống Putin sẵn sàng đạt thỏa thuận hòa bình](https://vnexpress.net/ong-trump-tong-thong-putin-san-sang-dat-thoa-thuan-hoa-binh-5006019.html) - 09:14 15/01/2026
+- 🐲 [Nga trục xuất nhân viên ngoại giao Anh bị nghi là gián điệp](https://vnexpress.net/nga-truc-xuat-nhan-vien-ngoai-giao-anh-bi-nghi-la-gian-diep-5006093.html) - 08:54 15/01/2026
+- 🦒 [Mỹ thử nghiệm UAV trợ chiến vận hành bằng AI](https://vnexpress.net/my-thu-nghiem-uav-tro-chien-van-hanh-bang-ai-5006039.html) - 08:42 15/01/2026
+- 🐻 [Mẫu máy bay bảo vệ Tổng thống Mỹ trong kịch bản chiến tranh hạt nhân](https://vnexpress.net/mau-may-bay-bao-ve-tong-thong-my-trong-kich-ban-chien-tranh-hat-nhan-5005919.html) - 08:04 15/01/2026
+- 🚀 [Đặc vụ ICE &#39;bị xuất huyết nội&#39; trong vụ bắn chết người ở Minnesota](https://vnexpress.net/dac-vu-ice-bi-xuat-huyet-noi-trong-vu-ban-chet-nguoi-o-minnesota-5005965.html) - 07:23 15/01/2026
+- 🥰 [Mỹ thông báo bắt đầu quá trình &#39;phi quân sự hóa hoàn toàn&#39; Gaza](https://vnexpress.net/my-thong-bao-bat-dau-qua-trinh-phi-quan-su-hoa-hoan-toan-gaza-5005883.html) - 07:00 15/01/2026
+- 🔥 [Bất đồng khiến đàm phán Mỹ - Đan Mạch về Greenland bế tắc](https://vnexpress.net/bat-dong-khien-dam-phan-my-dan-mach-ve-greenland-be-tac-5005818.html) - 04:55 15/01/2026
+- 🥳 [Người Thái Lan tranh cãi về chữ viết &#39;không đọc nổi&#39; của ông Anutin](https://vnexpress.net/nguoi-thai-lan-tranh-cai-ve-chu-viet-khong-doc-noi-cua-ong-anutin-5005891.html) - 04:32 15/01/2026
+- 💼 [Campuchia cam kết tiếp tục trấn áp lừa đảo sau vụ bắt Chen Zhi](https://vnexpress.net/campuchia-cam-ket-tiep-tuc-tran-ap-lua-dao-sau-vu-bat-chen-zhi-5005867.html) - 04:10 15/01/2026
+- 🤡 [Tư lệnh hải quân Mỹ lo siêu tàu sân bay bị quá tải](https://vnexpress.net/tu-lenh-hai-quan-my-lo-sieu-tau-san-bay-bi-qua-tai-5005821.html) - 03:41 15/01/2026
+- 🌁 [Không phận Iran vắng bóng máy bay](https://vnexpress.net/khong-phan-iran-vang-bong-may-bay-5005892.html) - 03:33 15/01/2026
+- 🤩 [Thông điệp &#39;ngoại giao chơi trống&#39; của lãnh đạo Nhật - Hàn](https://vnexpress.net/thong-diep-ngoai-giao-choi-trong-cua-lanh-dao-nhat-han-5005658.html) - 03:24 15/01/2026
+- 🎉 [Thách thức với tham vọng khai khoáng Greenland](https://vnexpress.net/thach-thuc-voi-tham-vong-khai-khoang-greenland-5004911.html) - 03:00 15/01/2026
 - 🎉 [Học sinh Mỹ sửa ôtô cũ để tặng cho các bà mẹ đơn thân](https://vnexpress.net/hoc-sinh-my-sua-oto-cu-de-tang-cho-cac-ba-me-don-than-5005540.html) - 02:46 15/01/2026
-- 🎉 [NATO tăng cường điều quân tới Greenland](https://vnexpress.net/nato-tang-cuong-dieu-quan-toi-greenland-5005812.html) - 02:19 15/01/2026
-- 🌁 [Băng đảng đập tủ kính, cướp tiệm vàng ở California](https://vnexpress.net/bang-dang-dap-tu-kinh-cuop-tiem-vang-o-california-5005837.html) - 02:02 15/01/2026
-- 🌊 [Tổng thống Mỹ ca ngợi lãnh đạo lâm thời Venezuela &#39;tuyệt vời&#39;](https://vnexpress.net/tong-thong-my-ca-ngoi-lanh-dao-lam-thoi-venezuela-tuyet-voi-5005798.html) - 01:02 15/01/2026
-- 🕴 [Ukraine sắp nhận xe thiết giáp tối tân của Đức](https://vnexpress.net/ukraine-sap-nhan-xe-thiet-giap-toi-tan-cua-duc-5005687.html) - 00:28 15/01/2026
-- 🎓 [Ông Trump dịu giọng về Greenland](https://vnexpress.net/ong-trump-diu-giong-ve-greenland-5005792.html) - 00:03 15/01/2026
-- 🦩 [Cuộc sống đảo lộn của các thẩm phán ICC bị Mỹ trừng phạt](https://vnexpress.net/cuoc-song-dao-lon-cua-cac-tham-phan-icc-bi-my-trung-phat-5005374.html) - 22:00 14/01/2026
-- 🌏 [Vụ bắt tàu hé lộ điểm yếu hộ tống của hải quân Nga](https://vnexpress.net/vu-bat-tau-he-lo-diem-yeu-ho-tong-cua-hai-quan-nga-5004551.html) - 18:00 14/01/2026
-- 🌋 [Chiến lược gây sức ép của ông Trump nhằm kéo giảm vật giá](https://vnexpress.net/chien-luoc-gay-suc-ep-cua-ong-trump-nham-keo-giam-vat-gia-5005392.html) - 17:00 14/01/2026
-- 🪜 [Mỹ dừng xử lý visa định cư cho công dân 75 nước](https://vnexpress.net/my-dung-xu-ly-visa-dinh-cu-cho-cong-dan-75-nuoc-5005768.html) - 15:59 14/01/2026
-- 🕴 [Nga cáo buộc Ukraine tập kích tàu dầu Hy Lạp](https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-tau-dau-hy-lap-5005758.html) - 14:53 14/01/2026
-- 🧑‍🏫 [Ông Trump: Không thể chấp nhận việc Mỹ không có Greenland](https://vnexpress.net/ong-trump-khong-the-chap-nhan-viec-my-khong-co-greenland-5005748.html) - 13:53 14/01/2026
-- 🌮 [Thủ tướng Nhật sắp giải tán quốc hội để bầu cử sớm](https://vnexpress.net/thu-tuong-nhat-sap-giai-tan-quoc-hoi-de-bau-cu-som-5005741.html) - 13:28 14/01/2026
-- 🚦 [Chó cưng sống sót sau gần 2 tháng lạc trên núi](https://vnexpress.net/cho-cung-song-sot-sau-gan-2-thang-lac-tren-nui-5005722.html) - 12:06 14/01/2026
-- 💫 [Lính Ukraine khoe hạ 21 UAV Nga bằng tên lửa &#39;Hỏa ngục&#39;](https://vnexpress.net/linh-ukraine-khoe-ha-21-uav-nga-bang-ten-lua-hoa-nguc-5005698.html) - 11:08 14/01/2026
-- 🤡 [Campuchia, Thái Lan tranh cãi vì cáo buộc &#39;chiếm làng biên giới&#39;](https://vnexpress.net/campuchia-thai-lan-tranh-cai-vi-cao-buoc-chiem-lang-bien-gioi-5005618.html) - 09:43 14/01/2026
-- 🦣 [Hiện trường vụ cần cẩu rơi trúng tàu hỏa Thái Lan](https://vnexpress.net/hien-truong-vu-can-cau-roi-trung-tau-hoa-thai-lan-5005625.html) - 09:38 14/01/2026
-- 🎬 [Nhà Trắng đề cử nữ ứng viên làm đại sứ tại Việt Nam](https://vnexpress.net/nha-trang-de-cu-nu-ung-vien-lam-dai-su-tai-viet-nam-5005608.html) - 09:04 14/01/2026
-- 🎉 [Các &#39;ông lớn&#39; công nghệ Trung Quốc mạnh tay thưởng cuối năm](https://vnexpress.net/cac-ong-lon-cong-nghe-trung-quoc-manh-tay-thuong-cuoi-nam-5005486.html) - 09:00 14/01/2026
-- 🎡 [Mỹ suýt mất phi cơ 90 triệu USD vì một bánh răng lỗi](https://vnexpress.net/my-suyt-mat-phi-co-90-trieu-usd-vi-mot-banh-rang-loi-5005587.html) - 07:56 14/01/2026
-- 🌜 [Nguy cơ pháp lý với vợ chồng Clinton khi từ chối điều trần vụ Epstein](https://vnexpress.net/nguy-co-phap-ly-voi-vo-chong-clinton-khi-tu-choi-dieu-tran-vu-epstein-5005386.html) - 07:32 14/01/2026
-- 🎡 [Đoàn tàu, lâu đài băng lung linh trong lễ hội ở Cáp Nhĩ Tân](https://vnexpress.net/doan-tau-lau-dai-bang-lung-linh-trong-le-hoi-o-cap-nhi-tan-5005202.html) - 07:24 14/01/2026
-- 🤗 [Cần cẩu rơi trúng tàu hỏa Thái Lan, ít nhất 22 người chết](https://vnexpress.net/can-cau-roi-trung-tau-hoa-thai-lan-it-nhat-22-nguoi-chet-5005548.html) - 04:58 14/01/2026
-- 🦩 [6 công tố viên Mỹ đồng loạt từ chức sau vụ đặc vụ ICE bắn chết người](https://vnexpress.net/6-cong-to-vien-my-dong-loat-tu-chuc-sau-vu-dac-vu-ice-ban-chet-nguoi-5005455.html) - 04:55 14/01/2026
-- 🎓 [Vợ chồng Clinton từ chối điều trần trước Hạ viện Mỹ về hồ sơ Epstein](https://vnexpress.net/vo-chong-clinton-tu-choi-dieu-tran-truoc-ha-vien-my-ve-ho-so-epstein-5005396.html) - 04:11 14/01/2026
-- 🌁 [Tổng thống Hàn cùng Thủ tướng Nhật chơi trống](https://vnexpress.net/tong-thong-han-cung-thu-tuong-nhat-choi-trong-5005437.html) - 03:14 14/01/2026
-- 🤩 [Chính trị gia Thái Lan đề xuất cho phép phụ nữ lấy 4 chồng](https://vnexpress.net/chinh-tri-gia-thai-lan-de-xuat-cho-phep-phu-nu-lay-4-chong-5005379.html) - 03:00 14/01/2026
-- 👹 [Ấn Độ truy tìm voi giết 22 người](https://vnexpress.net/an-do-truy-tim-voi-giet-22-nguoi-5005389.html) - 02:18 14/01/2026
-- ⛽️ [Nông dân Pháp lái hàng trăm máy kéo về Paris biểu tình](https://vnexpress.net/nong-dan-phap-lai-hang-tram-may-keo-ve-paris-bieu-tinh-5005371.html) - 00:56 14/01/2026
-- 🚀 [Triều Tiên yêu cầu Hàn Quốc xin lỗi vụ &#39;UAV xâm phạm không phận&#39;](https://vnexpress.net/trieu-tien-yeu-cau-han-quoc-xin-loi-vu-uav-xam-pham-khong-phan-5005361.html) - 00:47 14/01/2026
-- 🎡 [Drone tấn công hai tàu dầu trên Biển Đen](https://vnexpress.net/drone-tan-cong-hai-tau-dau-tren-bien-den-5005362.html) - 00:12 14/01/2026
-- 🕯 [Ông Trump dọa tước quốc tịch người nhập cư phạm tội lừa đảo](https://vnexpress.net/ong-trump-doa-tuoc-quoc-tich-nguoi-nhap-cu-pham-toi-lua-dao-5005356.html) - 00:05 14/01/2026
-- 🐻 [Quyết sách của ông Trump phủ bóng hoạt động đi lại toàn cầu](https://vnexpress.net/quyet-sach-cua-ong-trump-phu-bong-hoat-dong-di-lai-toan-cau-5004951.html) - 18:00 13/01/2026
-- 🚦 [Thủ hiến Greenland: Chúng tôi chọn Đan Mạch, không chọn Mỹ](https://vnexpress.net/thu-hien-greenland-chung-toi-chon-dan-mach-khong-chon-my-5005326.html) - 16:15 13/01/2026
-- 👍 [Campuchia ngừng bán các dự án chung cư thuộc tập đoàn của Chen Zhi](https://vnexpress.net/campuchia-ngung-ban-cac-du-an-chung-cu-thuoc-tap-doan-cua-chen-zhi-5005293.html) - 15:29 13/01/2026
-- 🚀 [Gần 15.000 y tá New York đồng loạt đình công](https://vnexpress.net/gan-15-000-y-ta-new-york-dong-loat-dinh-cong-5005154.html) - 14:00 13/01/2026
-- 🌮 [Cựu tổng thống Hàn Quốc Yoon Suk-yeol bị đề nghị án tử hình](https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-bi-de-nghi-an-tu-hinh-5005315.html) - 13:38 13/01/2026
-- 😎 [Bộ trưởng Ngoại giao trao Huân chương Hữu nghị cho Đại sứ Mỹ Knapper](https://vnexpress.net/bo-truong-ngoai-giao-trao-huan-chuong-huu-nghi-cho-dai-su-my-knapper-5005308.html) - 13:21 13/01/2026
-- 🐲 [Liên Hợp Quốc lo ngại về biểu tình ở Iran](https://vnexpress.net/lien-hop-quoc-lo-ngai-ve-bieu-tinh-o-iran-5005304.html) - 12:33 13/01/2026
-- 💫 [Tham vọng tên lửa tầm xa nội địa của Ukraine để tập kích Nga](https://vnexpress.net/tham-vong-ten-lua-tam-xa-noi-dia-cua-ukraine-de-tap-kich-nga-5004442.html) - 12:00 13/01/2026
-- 👀 [Lãnh đạo Venezuela phẫn nộ với ảnh chế &#39;quyền tổng thống&#39; của ông Trump](https://vnexpress.net/lanh-dao-venezuela-phan-no-voi-anh-che-quyen-tong-thong-cua-ong-trump-5005242.html) - 10:43 13/01/2026<!-- vnexpress-the-gioi:END -->
+- 🌁 [NATO tăng cường điều quân tới Greenland](https://vnexpress.net/nato-tang-cuong-dieu-quan-toi-greenland-5005812.html) - 02:19 15/01/2026
+- 🌊 [Băng đảng đập tủ kính, cướp tiệm vàng ở California](https://vnexpress.net/bang-dang-dap-tu-kinh-cuop-tiem-vang-o-california-5005837.html) - 02:02 15/01/2026
+- 🕴 [Tổng thống Mỹ ca ngợi lãnh đạo lâm thời Venezuela &#39;tuyệt vời&#39;](https://vnexpress.net/tong-thong-my-ca-ngoi-lanh-dao-lam-thoi-venezuela-tuyet-voi-5005798.html) - 01:02 15/01/2026
+- 🎓 [Ukraine sắp nhận xe thiết giáp tối tân của Đức](https://vnexpress.net/ukraine-sap-nhan-xe-thiet-giap-toi-tan-cua-duc-5005687.html) - 00:28 15/01/2026
+- 🦩 [Ông Trump dịu giọng về Greenland](https://vnexpress.net/ong-trump-diu-giong-ve-greenland-5005792.html) - 00:03 15/01/2026
+- 🌏 [Cuộc sống đảo lộn của các thẩm phán ICC bị Mỹ trừng phạt](https://vnexpress.net/cuoc-song-dao-lon-cua-cac-tham-phan-icc-bi-my-trung-phat-5005374.html) - 22:00 14/01/2026
+- 🌋 [Vụ bắt tàu hé lộ điểm yếu hộ tống của hải quân Nga](https://vnexpress.net/vu-bat-tau-he-lo-diem-yeu-ho-tong-cua-hai-quan-nga-5004551.html) - 18:00 14/01/2026
+- 🪜 [Chiến lược gây sức ép của ông Trump nhằm kéo giảm vật giá](https://vnexpress.net/chien-luoc-gay-suc-ep-cua-ong-trump-nham-keo-giam-vat-gia-5005392.html) - 17:00 14/01/2026
+- 🕴 [Mỹ dừng xử lý visa định cư cho công dân 75 nước](https://vnexpress.net/my-dung-xu-ly-visa-dinh-cu-cho-cong-dan-75-nuoc-5005768.html) - 15:59 14/01/2026
+- 🧑‍🏫 [Nga cáo buộc Ukraine tập kích tàu dầu Hy Lạp](https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-tau-dau-hy-lap-5005758.html) - 14:53 14/01/2026
+- 🌮 [Ông Trump: Không thể chấp nhận việc Mỹ không có Greenland](https://vnexpress.net/ong-trump-khong-the-chap-nhan-viec-my-khong-co-greenland-5005748.html) - 13:53 14/01/2026
+- 🚦 [Thủ tướng Nhật sắp giải tán quốc hội để bầu cử sớm](https://vnexpress.net/thu-tuong-nhat-sap-giai-tan-quoc-hoi-de-bau-cu-som-5005741.html) - 13:28 14/01/2026
+- 💫 [Chó cưng sống sót sau gần 2 tháng lạc trên núi](https://vnexpress.net/cho-cung-song-sot-sau-gan-2-thang-lac-tren-nui-5005722.html) - 12:06 14/01/2026
+- 🤡 [Lính Ukraine khoe hạ 21 UAV Nga bằng tên lửa &#39;Hỏa ngục&#39;](https://vnexpress.net/linh-ukraine-khoe-ha-21-uav-nga-bang-ten-lua-hoa-nguc-5005698.html) - 11:08 14/01/2026
+- 🦣 [Campuchia, Thái Lan tranh cãi vì cáo buộc &#39;chiếm làng biên giới&#39;](https://vnexpress.net/campuchia-thai-lan-tranh-cai-vi-cao-buoc-chiem-lang-bien-gioi-5005618.html) - 09:43 14/01/2026
+- 🎬 [Hiện trường vụ cần cẩu rơi trúng tàu hỏa Thái Lan](https://vnexpress.net/hien-truong-vu-can-cau-roi-trung-tau-hoa-thai-lan-5005625.html) - 09:38 14/01/2026
+- 🎉 [Nhà Trắng đề cử nữ ứng viên làm đại sứ tại Việt Nam](https://vnexpress.net/nha-trang-de-cu-nu-ung-vien-lam-dai-su-tai-viet-nam-5005608.html) - 09:04 14/01/2026
+- 🎡 [Các &#39;ông lớn&#39; công nghệ Trung Quốc mạnh tay thưởng cuối năm](https://vnexpress.net/cac-ong-lon-cong-nghe-trung-quoc-manh-tay-thuong-cuoi-nam-5005486.html) - 09:00 14/01/2026
+- 🌜 [Mỹ suýt mất phi cơ 90 triệu USD vì một bánh răng lỗi](https://vnexpress.net/my-suyt-mat-phi-co-90-trieu-usd-vi-mot-banh-rang-loi-5005587.html) - 07:56 14/01/2026
+- 🎡 [Nguy cơ pháp lý với vợ chồng Clinton khi từ chối điều trần vụ Epstein](https://vnexpress.net/nguy-co-phap-ly-voi-vo-chong-clinton-khi-tu-choi-dieu-tran-vu-epstein-5005386.html) - 07:32 14/01/2026
+- 🤗 [Đoàn tàu, lâu đài băng lung linh trong lễ hội ở Cáp Nhĩ Tân](https://vnexpress.net/doan-tau-lau-dai-bang-lung-linh-trong-le-hoi-o-cap-nhi-tan-5005202.html) - 07:24 14/01/2026
+- 🦩 [Cần cẩu rơi trúng tàu hỏa Thái Lan, ít nhất 22 người chết](https://vnexpress.net/can-cau-roi-trung-tau-hoa-thai-lan-it-nhat-22-nguoi-chet-5005548.html) - 04:58 14/01/2026
+- 🎓 [6 công tố viên Mỹ đồng loạt từ chức sau vụ đặc vụ ICE bắn chết người](https://vnexpress.net/6-cong-to-vien-my-dong-loat-tu-chuc-sau-vu-dac-vu-ice-ban-chet-nguoi-5005455.html) - 04:55 14/01/2026
+- 🌁 [Vợ chồng Clinton từ chối điều trần trước Hạ viện Mỹ về hồ sơ Epstein](https://vnexpress.net/vo-chong-clinton-tu-choi-dieu-tran-truoc-ha-vien-my-ve-ho-so-epstein-5005396.html) - 04:11 14/01/2026
+- 🤩 [Tổng thống Hàn cùng Thủ tướng Nhật chơi trống](https://vnexpress.net/tong-thong-han-cung-thu-tuong-nhat-choi-trong-5005437.html) - 03:14 14/01/2026
+- 👹 [Chính trị gia Thái Lan đề xuất cho phép phụ nữ lấy 4 chồng](https://vnexpress.net/chinh-tri-gia-thai-lan-de-xuat-cho-phep-phu-nu-lay-4-chong-5005379.html) - 03:00 14/01/2026
+- ⛽️ [Ấn Độ truy tìm voi giết 22 người](https://vnexpress.net/an-do-truy-tim-voi-giet-22-nguoi-5005389.html) - 02:18 14/01/2026
+- 🚀 [Nông dân Pháp lái hàng trăm máy kéo về Paris biểu tình](https://vnexpress.net/nong-dan-phap-lai-hang-tram-may-keo-ve-paris-bieu-tinh-5005371.html) - 00:56 14/01/2026
+- 🎡 [Triều Tiên yêu cầu Hàn Quốc xin lỗi vụ &#39;UAV xâm phạm không phận&#39;](https://vnexpress.net/trieu-tien-yeu-cau-han-quoc-xin-loi-vu-uav-xam-pham-khong-phan-5005361.html) - 00:47 14/01/2026
+- 🕯 [Drone tấn công hai tàu dầu trên Biển Đen](https://vnexpress.net/drone-tan-cong-hai-tau-dau-tren-bien-den-5005362.html) - 00:12 14/01/2026
+- 🐻 [Ông Trump dọa tước quốc tịch người nhập cư phạm tội lừa đảo](https://vnexpress.net/ong-trump-doa-tuoc-quoc-tich-nguoi-nhap-cu-pham-toi-lua-dao-5005356.html) - 00:05 14/01/2026
+- 🚦 [Quyết sách của ông Trump phủ bóng hoạt động đi lại toàn cầu](https://vnexpress.net/quyet-sach-cua-ong-trump-phu-bong-hoat-dong-di-lai-toan-cau-5004951.html) - 18:00 13/01/2026
+- 👍 [Thủ hiến Greenland: Chúng tôi chọn Đan Mạch, không chọn Mỹ](https://vnexpress.net/thu-hien-greenland-chung-toi-chon-dan-mach-khong-chon-my-5005326.html) - 16:15 13/01/2026
+- 🚀 [Campuchia ngừng bán các dự án chung cư thuộc tập đoàn của Chen Zhi](https://vnexpress.net/campuchia-ngung-ban-cac-du-an-chung-cu-thuoc-tap-doan-cua-chen-zhi-5005293.html) - 15:29 13/01/2026
+- 🌮 [Gần 15.000 y tá New York đồng loạt đình công](https://vnexpress.net/gan-15-000-y-ta-new-york-dong-loat-dinh-cong-5005154.html) - 14:00 13/01/2026
+- 😎 [Cựu tổng thống Hàn Quốc Yoon Suk-yeol bị đề nghị án tử hình](https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-bi-de-nghi-an-tu-hinh-5005315.html) - 13:38 13/01/2026
+- 🐲 [Bộ trưởng Ngoại giao trao Huân chương Hữu nghị cho Đại sứ Mỹ Knapper](https://vnexpress.net/bo-truong-ngoai-giao-trao-huan-chuong-huu-nghi-cho-dai-su-my-knapper-5005308.html) - 13:21 13/01/2026
+- 💫 [Liên Hợp Quốc lo ngại về biểu tình ở Iran](https://vnexpress.net/lien-hop-quoc-lo-ngai-ve-bieu-tinh-o-iran-5005304.html) - 12:33 13/01/2026
+- 👀 [Tham vọng tên lửa tầm xa nội địa của Ukraine để tập kích Nga](https://vnexpress.net/tham-vong-ten-lua-tam-xa-noi-dia-cua-ukraine-de-tap-kich-nga-5004442.html) - 12:00 13/01/2026<!-- vnexpress-the-gioi:END -->
