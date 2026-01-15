@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Mỹ có thể đã bán lô dầu Venezuela đầu tiên](https://vnexpress.net/my-co-the-da-ban-lo-dau-venezuela-dau-tien-5006048.html) - 08:56 15/01/2026
 - 🐲 [Shopee, TikTok Shop chiếm 8% thị phần ngành bán lẻ](https://vnexpress.net/shopee-tiktok-shop-chiem-8-thi-phan-nganh-ban-le-5005886.html) - 08:52 15/01/2026
-- 🔥 [Xuất khẩu rau quả sang Trung Quốc cao kỷ lục gần 8,6 tỷ USD](https://vnexpress.net/xuat-khau-rau-qua-sang-trung-quoc-cao-ky-luc-gan-8-6-ty-usd-5005948.html) - 08:38 15/01/2026
+- 🔥 [Xuất khẩu rau quả sang Trung Quốc cao kỷ lục gần 5,5 tỷ USD](https://vnexpress.net/xuat-khau-rau-qua-sang-trung-quoc-cao-ky-luc-gan-5-5-ty-usd-5005948.html) - 08:38 15/01/2026
 - 🐵 [VN-Index giảm sâu](https://vnexpress.net/vn-index-giam-sau-5006076.html) - 08:17 15/01/2026
 - 🦅 [Giá xăng lên gần 19.000 đồng một lít](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-1-5006045.html) - 07:43 15/01/2026
 - 😺 [Nguy cơ nuốt hàng ngàn hạt vi nhựa khi dùng cốc cà phê một lần](https://vnexpress.net/nguy-co-nuot-hang-ngan-hat-vi-nhua-khi-dung-coc-ca-phe-mot-lan-5005900.html) - 06:44 15/01/2026
