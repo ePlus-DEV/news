@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường quốc tế học phí 1,1 tỷ đồng tuyển sinh &#39;chui&#39;](https://vnexpress.net/truong-quoc-te-hoc-phi-1-1-ty-dong-tuyen-sinh-chui-5005807.html) - 02:14 15/01/2026
+- 🤓 [Trường quốc tế học phí 1,1 tỷ đồng bị đình chỉ tuyển sinh](https://vnexpress.net/truong-quoc-te-hoc-phi-1-1-ty-dong-bi-dinh-chi-tuyen-sinh-5005807.html) - 02:14 15/01/2026
 - 🦆 [Chàng trai Việt ở Apple chinh phục Đại học Harvard](https://vnexpress.net/chang-trai-viet-o-apple-chinh-phuc-dai-hoc-harvard-5004631.html) - 23:00 14/01/2026
 - 🦩 [Ai là phụ nữ quyền lực nhất thế giới?](https://vnexpress.net/ai-la-phu-nu-quyen-luc-nhat-the-gioi-5005717.html) - 14:00 14/01/2026
 - 🌮 [Đại học Công nghiệp Hà Nội thêm 5 tổ hợp mới](https://vnexpress.net/to-hop-phuong-thuc-xet-tuyen-dai-hoc-cong-nghiep-ha-noi-2026-5005747.html) - 13:19 14/01/2026
