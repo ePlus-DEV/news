@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Khuất Văn Khang muốn &#39;phá dớp&#39; ở tứ kết U23 châu Á](https://vnexpress.net/khuat-van-khang-muon-pha-dop-o-tu-ket-u23-chau-a-5006147.html) - 09:53 15/01/2026
+- 🪜 [Khuất Văn Khang muốn phá dớp ở tứ kết U23 châu Á](https://vnexpress.net/khuat-van-khang-muon-pha-dop-o-tu-ket-u23-chau-a-5006147.html) - 09:53 15/01/2026
 - 🦩 [Việt Nam cùng bảng Indonesia ở ASEAN Cup 2026](https://vnexpress.net/viet-nam-cung-bang-indonesia-o-asean-cup-2026-5006059.html) - 08:45 15/01/2026
-- 🧰 [HLV Kim: &#39;Việt Nam đã vượt Đông Nam Á, vươn tầm châu lục&#39;](https://vnexpress.net/hlv-kim-viet-nam-da-vuot-dong-nam-a-vuon-tam-chau-luc-5006015.html) - 08:15 15/01/2026
+- 🧰 [HLV Kim: &#39;U23 Việt Nam đã vượt Đông Nam Á, vươn tầm châu lục&#39;](https://vnexpress.net/hlv-kim-u23-viet-nam-da-vuot-dong-nam-a-vuon-tam-chau-luc-5006015.html) - 08:15 15/01/2026
 - 🤗 [HLV UAE: &#39;Không cần kế sách đặc biệt để đối phó Việt Nam&#39;](https://vnexpress.net/hlv-uae-khong-can-ke-sach-dac-biet-de-doi-pho-viet-nam-5006027.html) - 08:14 15/01/2026
 - 🥳 [Việt Nam tận dụng cơ hội tốt nhất vòng bảng U23 châu Á](https://vnexpress.net/viet-nam-tan-dung-co-hoi-tot-nhat-vong-bang-u23-chau-a-5005937.html) - 06:56 15/01/2026
 - 🦣 [Djokovic chung nhánh Sinner ở Australia Mở rộng 2026](https://vnexpress.net/djokovic-chung-nhanh-sinner-o-australia-mo-rong-2026-5006011.html) - 06:42 15/01/2026
