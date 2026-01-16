@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Ông Zelensky: Nhiều tổ hợp phòng không phương Tây đã cạn tên lửa](https://vnexpress.net/ong-zelensky-nhieu-to-hop-phong-khong-phuong-tay-da-can-ten-lua-5006626.html) - 16:00 16/01/2026
 - 🐎 [Phương Anh Đào chọn kỹ kịch bản để tránh gây nhàm chán](https://vnexpress.net/phuong-anh-dao-chon-ky-kich-ban-de-tranh-gay-nham-chan-5006580.html) - 15:37 16/01/2026
 - 🦍 [Chủ nhân Nobel Vật lý giảng bài cho học sinh Việt Nam](https://vnexpress.net/chu-nhan-nobel-vat-ly-giang-bai-cho-hoc-sinh-viet-nam-5006602.html) - 15:24 16/01/2026
-- 🏊 [Man City mua được tuyển thủ Anh với giá hời](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
+- 🏊 [Man City mua được tuyển thủ Anh với &#39;giá hời&#39;](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
 - 🎊 [27 học sinh giải vàng cuộc thi nhạc cụ lớn nhất Hà Nội](https://vnexpress.net/27-hoc-sinh-giai-vang-cuoc-thi-nhac-cu-lon-nhat-ha-noi-5006608.html) - 15:08 16/01/2026
 - 🎃 [Tôi thất vọng những ứng viên phỏng vấn kiểu &#39;xin việc&#39;](https://vnexpress.net/toi-that-vong-nhung-ung-vien-phong-van-khum-num-di-xin-viec-5006545.html) - 15:00 16/01/2026
 - 🧰 [Quả đá luân lưu hiếm thấy ở tứ kết U23 châu Á 2026](https://vnexpress.net/qua-da-luan-luu-hiem-thay-o-tu-ket-u23-chau-a-2026-5006624.html) - 14:45 16/01/2026
@@ -15,13 +15,13 @@ sidebar_position: 9
 - 🫶 [Giám đốc CIA có thể đã gặp Tổng thống lâm thời Venezuela](https://vnexpress.net/giam-doc-cia-co-the-da-gap-tong-thong-lam-thoi-venezuela-5006616.html) - 14:34 16/01/2026
 - 🪜 [Thủ tướng yêu cầu ra mắt Trung tâm tài chính tại TP HCM trước 9/2](https://vnexpress.net/thu-tuong-yeu-cau-ra-mat-trung-tam-tai-chinh-tai-tp-hcm-truoc-9-2-5006614.html) - 14:26 16/01/2026
 - 👨‍🏫 [Quản lý điểm &#39;massage mại dâm&#39; ở khách sạn Samdi ra đầu thú](https://vnexpress.net/quan-ly-diem-massage-mai-dam-o-khach-san-samdi-ra-dau-thu-5006618.html) - 14:19 16/01/2026
-- 🎊 [Việt Nam 1-1 UAE &lpar;H1&rpar;: Niềm vui ngắn ngủi](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
+- 🎊 [Việt Nam 1-1 UAE &lpar;H2&rpar;: Niềm vui ngắn ngủi](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
 - 🎊 [Sau ly hôn chồng, tôi lúng túng vì nhu cầu sinh lý cao](https://vnexpress.net/sau-ly-hon-chong-toi-lung-tung-vi-nhu-cau-sinh-ly-cao-5006552.html) - 14:00 16/01/2026
 - 😺 [Làm việc 40 giờ một tuần, bắt đầu từ đâu?](https://vnexpress.net/lam-viec-40-gio-mot-tuan-nguoi-lao-dong-tang-ca-giam-gio-lam-viec-5006495.html) - 14:00 16/01/2026
 - 🐘 [Nước nào có số mèo vượt quá số dân?](https://vnexpress.net/nuoc-nao-co-so-meo-vuot-qua-so-dan-5006587.html) - 13:51 16/01/2026
 - 🌁 [Việt Nam có thể cùng Lào giải quyết các bài toán bằng công nghệ](https://vnexpress.net/viet-nam-co-the-cung-lao-giai-quyet-cac-bai-toan-bang-cong-nghe-5006612.html) - 13:50 16/01/2026
 - 🐲 [Những trang phục gây tranh cãi của Lisa](https://vnexpress.net/nhung-trang-phuc-gay-tranh-cai-cua-lisa-5005713.html) - 13:24 16/01/2026
-- 🤓 [Đàn husky đặc nhiệm băng qua hàng nghìn km tuyết trắng ở Greenland](https://vnexpress.net/dan-husky-dac-nhiem-bang-qua-hang-nghin-km-tuyet-trang-o-greenland-5005914.html) - 13:21 16/01/2026
+- 🤓 [Đàn husky đặc nhiệm tuần tra trên hàng nghìn km tuyết trắng ở Greenland](https://vnexpress.net/dan-husky-dac-nhiem-tuan-tra-tren-hang-nghin-km-tuyet-trang-o-greenland-5005914.html) - 13:21 16/01/2026
 - 💪 [LĐBĐ Malaysia tính thay toàn bộ ban chấp hành để tránh bị FIFA đình chỉ](https://vnexpress.net/ldbd-malaysia-tinh-thay-toan-bo-ban-chap-hanh-de-tranh-bi-fifa-dinh-chi-5006609.html) - 13:18 16/01/2026
 - 🎓 [Hòa Minzy áp lực khi làm concert đầu tay](https://vnexpress.net/hoa-minzy-ap-luc-khi-lam-concert-dau-tay-5006461.html) - 13:17 16/01/2026
 - 🫣 [Học viện Kỹ thuật quân sự dự kiến tuyển hệ dân sự ngành Kỹ thuật ôtô](https://vnexpress.net/hoc-vien-ky-thuat-quan-su-du-kien-tuyen-he-dan-su-nganh-ky-thuat-oto-5006592.html) - 13:14 16/01/2026
@@ -49,7 +49,7 @@ sidebar_position: 9
 - 🦆 [Nhóm cướp tài sản người nước ngoài ở Nha Trang bị bắt](https://vnexpress.net/nhom-cuop-tai-san-nguoi-nuoc-ngoai-o-nha-trang-bi-bat-5006588.html) - 11:32 16/01/2026
 - 🎊 [Người phụ nữ bị cáo buộc bôi nhọ cán bộ, chính quyền](https://vnexpress.net/nguoi-phu-nu-bi-cao-buoc-boi-nho-can-bo-chinh-quyen-5006594.html) - 11:28 16/01/2026
 - 👺 [Khoảnh khắc tiêm kích F-15 Mỹ &#39;khoác áo choàng hơi nước&#39;](https://vnexpress.net/khoanh-khac-tiem-kich-f-15-my-khoac-ao-choang-hoi-nuoc-5006485.html) - 11:17 16/01/2026
-- 🎡 [Nhật Bản thắng Jordan ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
+- 🎡 [Nhật Bản thắng Jordan nhờ luân lưu ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
 - 👍 [35 tuổi, tôi vẫn sợ đối diện với con gái dù đẹp trai, thành đạt](https://vnexpress.net/35-tuoi-toi-van-so-doi-dien-voi-con-gai-du-dep-trai-thanh-dat-5006488.html) - 11:00 16/01/2026
 - 🐎 [Dấu hiệu hô hấp cảnh báo bệnh phổi](https://vnexpress.net/dau-hieu-ho-hap-canh-bao-benh-phoi-5006473.html) - 11:00 16/01/2026
 - 🏊 [Điểm tin 21h: Ông Trần Sỹ Thanh, ông Nguyễn Văn Thắng được giới thiệu ứng cử đại biểu Quốc hội khóa 16 | Đề xuất cho bán &#39;nhà trên giấy&#39; dù đang thế chấp ngân hàng](https://vnexpress.net/diem-tin-21h-ong-tran-sy-thanh-ong-nguyen-van-thang-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-khoa-16-de-xuat-cho-ban-nha-tren-giay-du-dang-the-chap-ngan-hang-5006579.html) - 10:01 16/01/2026
