@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Ông Trần Sỹ Thanh và nhiều Bộ trưởng được giới thiệu ứng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/ong-tran-sy-thanh-va-nhieu-bo-truong-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5006537.html) - 09:48 16/01/2026
 - 🤓 [Tăng thời gian bay đêm tại 6 sân bay dịp Tết](https://vnexpress.net/tang-thoi-gian-bay-dem-tai-6-san-bay-dip-tet-5006445.html) - 09:42 16/01/2026
 - ⚗️ [Loạt trụ điện giữa đường mới mở rộng ở nội đô TP HCM](https://vnexpress.net/loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5006493.html) - 09:41 16/01/2026
-- 🌊 [Nhà máy ở Đồng Tháp thưởng 1.000 chỉ vàng cho công nhân](https://vnexpress.net/nha-may-o-dong-thap-thuong-1-000-chi-vang-cho-cong-nhan-5006419.html) - 08:50 16/01/2026
+- 🌊 [Nhà máy ở Đồng Tháp sẽ thưởng 1.000 chỉ vàng cho công nhân](https://vnexpress.net/nha-may-o-dong-thap-se-thuong-1-000-chi-vang-cho-cong-nhan-5006419.html) - 08:50 16/01/2026
 - 🎓 [Hà Nội bắt đầu xử phạt vi phạm trật tự đô thị qua camera AI](https://vnexpress.net/ha-noi-bat-dau-xu-phat-vi-pham-trat-tu-do-thi-qua-camera-ai-5006500.html) - 08:43 16/01/2026
 - 🔥 [Thủ tướng: Chiến dịch Quang Trung chiến thắng giòn giã](https://vnexpress.net/thu-tuong-chien-dich-quang-trung-chien-thang-gion-gia-5006360.html) - 06:19 16/01/2026
 - 🦏 [Ra mắt ứng dụng Tuyên giáo và Dân vận](https://vnexpress.net/ra-mat-ung-dung-tuyen-giao-va-dan-van-5006347.html) - 06:10 16/01/2026
