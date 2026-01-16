@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Man City mua được tuyển thủ Anh với giá hời](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
 - 🦩 [Quả đá luân lưu hiếm thấy ở tứ kết U23 châu Á 2026](https://vnexpress.net/qua-da-luan-luu-hiem-thay-o-tu-ket-u23-chau-a-2026-5006624.html) - 14:45 16/01/2026
-- 🧰 [Việt Nam 0-0 UAE &lpar;H1&rpar;: Đình Bắc lại dự bị, Trung Kiên bắt chính](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
+- 🧰 [Việt Nam 0-0 UAE &lpar;H1&rpar;: VAR hủy bàn](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
 - 🤗 [LĐBĐ Malaysia tính thay toàn bộ ban chấp hành để tránh bị FIFA đình chỉ](https://vnexpress.net/ldbd-malaysia-tinh-thay-toan-bo-ban-chap-hanh-de-tranh-bi-fifa-dinh-chi-5006609.html) - 13:18 16/01/2026
 - 🥳 [HLV PSG muốn bóng đá dùng thẻ xanh như bóng bầu dục](https://vnexpress.net/hlv-psg-muon-bong-da-dung-the-xanh-nhu-bong-bau-duc-5006565.html) - 11:33 16/01/2026
 - 🦣 [Nhật Bản thắng Jordan ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
