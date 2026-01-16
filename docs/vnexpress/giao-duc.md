@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Sơn La rút lại phương án thi lớp 10 với tổ hợp 6 môn](https://vnexpress.net/son-la-rut-lai-phuong-an-thi-lop-10-voi-to-hop-6-mon-5006534.html) - 09:19 16/01/2026
+- 🤓 [Sơn La rút phương án thi lớp 10 với tổ hợp 6 môn](https://vnexpress.net/son-la-rut-phuong-an-thi-lop-10-voi-to-hop-6-mon-5006534.html) - 09:19 16/01/2026
 - 🦆 [VinFast cùng 30 trường chuẩn hóa chương trình đào tạo kỹ sư ôtô điện](https://vnexpress.net/vinfast-cung-30-truong-chuan-hoa-chuong-trinh-dao-tao-ky-su-oto-dien-5006431.html) - 06:00 16/01/2026
 - 🦩 [Du học sinh Việt vi phạm thị thực ở Hàn Quốc tăng vọt](https://vnexpress.net/du-hoc-sinh-viet-vi-pham-thi-thuc-o-han-quoc-tang-vot-5006337.html) - 04:07 16/01/2026
 - 🌮 [Trường học 114 tỷ đồng dở dang suốt 8 năm ở TP HCM](https://vnexpress.net/truong-hoc-114-ty-dong-do-dang-suot-8-nam-o-tp-hcm-5006049.html) - 23:23 15/01/2026
