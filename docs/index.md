@@ -529,7 +529,7 @@ tại Lễ khởi công Nhà máy chip bán dẫn công nghệ cao](https://baoc
 <!-- muctim:START -->
 - 🤔 [Tìm hiểu các mục tiêu phát triển đất nước đến năm 2030](https://muctim.tuoitre.vn/tim-hieu-cac-muc-tieu-phat-trien-dat-nuoc-den-nam-2030-101260116151026335.htm) - 15:19 16/01/2026
 - 🥷 [Nhà sản xuất Kpop demon hunters sắp ra mắt phim Goat về bóng rổ](https://muctim.tuoitre.vn/nha-san-xuat-kpop-demon-hunters-sap-ra-mat-phim-goat-ve-bong-ro-10126011620460424.htm) - 14:59 16/01/2026
-- 🤖 [Trực tiếp U23 Việt Nam đấu U23 UAE: 1-1, Lê Phát mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-uae-noi-dai-mach-thang-101260116214040904.htm) - 14:52 16/01/2026
+- 🤖 [Trực tiếp U23 Việt Nam đấu U23 UAE: 2-2, Đình Bắc lập công](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-uae-noi-dai-mach-thang-101260116214040904.htm) - 14:52 16/01/2026
 - 🤓 [Thắng nhọc nhằn Jordan, U23 Nhật Bản giành vé vào bán kết U23 châu Á 2026](https://muctim.tuoitre.vn/thang-nhoc-nhan-jordan-u23-nhat-ban-gianh-ve-vao-ban-ket-u23-chau-a-2026-101260116212508129.htm) - 14:47 16/01/2026
 - 🎉 [Đội hình ra sân U23 Việt Nam đấu U23 UAE: Đình Bắc tiếp tục dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-u23-viet-nam-dau-u23-uae-dinh-bac-tiep-tuc-du-bi-101260116213643488.htm) - 14:42 16/01/2026
 - 👨‍🏫 [Giới thiệu Phó bí thư Thành Đoàn TP.HCM Trịnh Thị Hiền Trân ứng cử đại biểu Quốc hội khóa XVI](https://muctim.tuoitre.vn/gioi-thieu-pho-bi-thu-thanh-doan-tphcm-trinh-thi-hien-tran-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-1012601162104366.htm) - 14:13 16/01/2026
