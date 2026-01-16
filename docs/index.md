@@ -405,7 +405,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP trận tứ kết U23 Việt Nam – U23 UAE: Thử thách cực đại &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/lich-thi-dau-tran-tu-ket-u23-viet-nam-u23-uae-102260114074424516.htm) - 22:34 16/01/2026
+- 💻 [TRỰC TIẾP trận tứ kết U23 Việt Nam – U23 UAE: 1- 1 &lpar;CẬP NHẬT&rpar;](https://baochinhphu.vn/lich-thi-dau-tran-tu-ket-u23-viet-nam-u23-uae-102260114074424516.htm) - 23:25 16/01/2026
 - 🌜 [Tiếp nối hành trình Vì một Việt Nam xanh: OMO Trao tặng 20.000 banh hạt giống cho Vườn quốc gia Núi Chúa](https://baochinhphu.vn/tiep-noi-hanh-trinh-vi-mot-viet-nam-xanh-omo-trao-tang-20000-banh-hat-giong-cho-vuon-quoc-gia-nui-chua-102260116194853403.htm) - 21:34 16/01/2026
 - 🦆 [Phát triển quan hệ với Trung Quốc là lựa chọn chiến lược, ưu tiên hàng đầu của Việt Nam](https://baochinhphu.vn/phat-trien-quan-he-voi-trung-quoc-la-lua-chon-chien-luoc-uu-tien-hang-dau-cua-viet-nam-102260116210051876.htm) - 21:28 16/01/2026
 - 🌝 [Xây dựng Quy chế hoạt động của Trung tâm tài chính quốc tế tại Việt Nam](https://baochinhphu.vn/xay-dung-quy-che-hoat-dong-cua-trung-tam-tai-chinh-quoc-te-tai-viet-nam-102260116210336882.htm) - 21:05 16/01/2026
