@@ -4,12 +4,12 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man City mua được tuyển thủ Anh với giá hời](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
+- 🪜 [Man City mua được tuyển thủ Anh với &#39;giá hời&#39;](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
 - 🦩 [Quả đá luân lưu hiếm thấy ở tứ kết U23 châu Á 2026](https://vnexpress.net/qua-da-luan-luu-hiem-thay-o-tu-ket-u23-chau-a-2026-5006624.html) - 14:45 16/01/2026
-- 🧰 [Việt Nam 0-0 UAE &lpar;H1&rpar;: VAR hủy bàn](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
+- 🧰 [Việt Nam 2-2 UAE &lpar;H2&rpar;: Hai lần bị gỡ hòa](https://vnexpress.net/truc-tiep-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
 - 🤗 [LĐBĐ Malaysia tính thay toàn bộ ban chấp hành để tránh bị FIFA đình chỉ](https://vnexpress.net/ldbd-malaysia-tinh-thay-toan-bo-ban-chap-hanh-de-tranh-bi-fifa-dinh-chi-5006609.html) - 13:18 16/01/2026
 - 🥳 [HLV PSG muốn bóng đá dùng thẻ xanh như bóng bầu dục](https://vnexpress.net/hlv-psg-muon-bong-da-dung-the-xanh-nhu-bong-bau-duc-5006565.html) - 11:33 16/01/2026
-- 🦣 [Nhật Bản thắng Jordan ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
+- 🦣 [Nhật Bản thắng Jordan nhờ luân lưu ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
 - 🌜 [Việt Nam - UAE: Viết tiếp kỳ tích ở U23 châu Á 2026](https://vnexpress.net/viet-nam-uae-viet-tiep-ky-tich-o-u23-chau-a-2026-5006515.html) - 09:07 16/01/2026
 - 🫶 [Việt Nam làm khách trước Indonesia ở ASEAN Cup 2026](https://vnexpress.net/viet-nam-lam-khach-truoc-indonesia-o-asean-cup-2026-5006530.html) - 08:46 16/01/2026
 - 🌜 [vRace ra mắt giải chạy &#39;Hái lộc đầu Run 2026&#39;](https://vnexpress.net/vrace-hai-loc-dau-run-2026-5006286.html) - 08:00 16/01/2026
