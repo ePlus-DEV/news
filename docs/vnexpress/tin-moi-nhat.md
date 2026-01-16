@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [Báo Thái Lan: &#39;U23 Việt Nam có trái tim sư tử&#39;](https://vnexpress.net/bao-thai-lan-u23-viet-nam-co-trai-tim-su-tu-5006656.html) - 19:13 16/01/2026
 - 🏊 [HLV Kim: &#39;Trận thắng UAE tái khẳng định Việt Nam vươn tầm châu Á&#39;](https://vnexpress.net/hlv-kim-tran-thang-uae-tai-khang-dinh-viet-nam-vuon-tam-chau-a-5006634.html) - 19:05 16/01/2026
 - 🎊 [Người Alberta xếp hàng ký kiến nghị ly khai khỏi Canada](https://vnexpress.net/nguoi-alberta-xep-hang-ky-kien-nghi-ly-khai-khoi-canada-5006571.html) - 19:00 16/01/2026
-- 🎃 [Người dân đổ ra đường lúc rạng sáng mừng chiến thắng U23 Việt Nam](https://vnexpress.net/nguoi-dan-do-ra-duong-luc-rang-sang-mung-chien-thang-u23-viet-nam-5006658.html) - 18:58 16/01/2026
+- 🎃 [Người dân đổ ra đường lúc rạng sáng mừng U23 Việt Nam chiến thắng](https://vnexpress.net/nguoi-dan-do-ra-duong-luc-rang-sang-mung-u23-viet-nam-chien-thang-5006658.html) - 18:58 16/01/2026
 - 🧰 [HLV của UAE: &#39;Chúng tôi về nước trong thanh thản&#39;](https://vnexpress.net/hlv-cua-uae-chung-toi-ve-nuoc-trong-thanh-than-5006635.html) - 18:55 16/01/2026
 - 🔭 [Khách Tây: &#39;Người Việt cuồng nhiệt với bóng đá hơn Anh&#39;](https://vnexpress.net/khach-tay-nguoi-viet-cuong-nhiet-voi-bong-da-hon-anh-5006628.html) - 18:51 16/01/2026
 - 🫶 [Doanh nghiệp xăng dầu sắp được kê khai, tự quyết giá](https://vnexpress.net/doanh-nghiep-xang-dau-sap-duoc-ke-khai-tu-quyet-gia-5006625.html) - 18:44 16/01/2026
@@ -45,7 +45,7 @@ sidebar_position: 9
 - 😎 [Giám đốc CIA có thể đã gặp Tổng thống lâm thời Venezuela](https://vnexpress.net/giam-doc-cia-co-the-da-gap-tong-thong-lam-thoi-venezuela-5006616.html) - 14:34 16/01/2026
 - 🪄 [Thủ tướng yêu cầu ra mắt Trung tâm tài chính tại TP HCM trước 9/2](https://vnexpress.net/thu-tuong-yeu-cau-ra-mat-trung-tam-tai-chinh-tai-tp-hcm-truoc-9-2-5006614.html) - 14:26 16/01/2026
 - 🏊 [Quản lý điểm &#39;massage mại dâm&#39; ở khách sạn Samdi ra đầu thú](https://vnexpress.net/quan-ly-diem-massage-mai-dam-o-khach-san-samdi-ra-dau-thu-5006618.html) - 14:19 16/01/2026
-- 💃 [Việt Nam hạ UAE, vào bán kết U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
+- 💃 [Việt Nam hạ UAE, vào bán kết U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-uae-5006613-tong-thuat.html) - 14:13 16/01/2026
 - 🦆 [Sau ly hôn chồng, tôi lúng túng vì nhu cầu sinh lý cao](https://vnexpress.net/sau-ly-hon-chong-toi-lung-tung-vi-nhu-cau-sinh-ly-cao-5006552.html) - 14:00 16/01/2026
 - 🎊 [Làm việc 40 giờ một tuần, bắt đầu từ đâu?](https://vnexpress.net/lam-viec-40-gio-mot-tuan-nguoi-lao-dong-tang-ca-giam-gio-lam-viec-5006495.html) - 14:00 16/01/2026
 - 👺 [Nước nào có số mèo vượt quá số dân?](https://vnexpress.net/nuoc-nao-co-so-meo-vuot-qua-so-dan-5006587.html) - 13:51 16/01/2026
