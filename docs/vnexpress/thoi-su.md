@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông Trần Sỹ Thanh, ông Nguyễn Văn Thắng được giới thiệu ứng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/ong-tran-sy-thanh-ong-nguyen-van-thang-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5006537.html) - 09:48 16/01/2026
+- 🦒 [Ông Trần Sỹ Thanh và nhiều Bộ trưởng được giới thiệu ứng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/ong-tran-sy-thanh-va-nhieu-bo-truong-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5006537.html) - 09:48 16/01/2026
 - 🤓 [Tăng thời gian bay đêm tại 6 sân bay dịp Tết](https://vnexpress.net/tang-thoi-gian-bay-dem-tai-6-san-bay-dip-tet-5006445.html) - 09:42 16/01/2026
 - ⚗️ [Loạt trụ điện giữa đường mới mở rộng ở nội đô TP HCM](https://vnexpress.net/loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5006493.html) - 09:41 16/01/2026
 - 🌊 [Nhà máy ở Đồng Tháp thưởng 1.000 chỉ vàng cho công nhân](https://vnexpress.net/nha-may-o-dong-thap-thuong-1-000-chi-vang-cho-cong-nhan-5006419.html) - 08:50 16/01/2026
