@@ -8,10 +8,10 @@ sidebar_position: 5
 - 🦩 [HLV Kim: &#39;Trận thắng UAE tái khẳng định Việt Nam vươn tầm châu Á&#39;](https://vnexpress.net/hlv-kim-tran-thang-uae-tai-khang-dinh-viet-nam-vuon-tam-chau-a-5006634.html) - 19:05 16/01/2026
 - 🧰 [HLV của UAE: &#39;Chúng tôi về nước trong thanh thản&#39;](https://vnexpress.net/hlv-cua-uae-chung-toi-ve-nuoc-trong-thanh-than-5006635.html) - 18:55 16/01/2026
 - 🤗 [U23 Việt Nam thắng trận chính thức thứ 15 liên tiếp](https://vnexpress.net/u23-viet-nam-thang-tran-chinh-thuc-thu-15-lien-tiep-5006646.html) - 18:25 16/01/2026
-- 🥳 [Hậu vệ Việt Nam phá dớp &#39;áo số 21&#39; ở U23 châu Á](https://vnexpress.net/hau-ve-viet-nam-pha-dop-ao-so-21-o-u23-chau-a-5006655.html) - 18:24 16/01/2026
+- 🥳 [Hậu vệ Việt Nam phá dớp &#39;chiếc áo số 21&#39; ở U23 châu Á](https://vnexpress.net/hau-ve-viet-nam-pha-dop-chiec-ao-so-21-o-u23-chau-a-5006655.html) - 18:24 16/01/2026
 - 🦣 [Man City mua được tuyển thủ Anh với &#39;giá hời&#39;](https://vnexpress.net/man-city-mua-duoc-tuyen-thu-anh-voi-gia-hoi-5006623.html) - 15:13 16/01/2026
 - 🌜 [Quả đá luân lưu hiếm thấy ở tứ kết U23 châu Á 2026](https://vnexpress.net/qua-da-luan-luu-hiem-thay-o-tu-ket-u23-chau-a-2026-5006624.html) - 14:45 16/01/2026
-- 🫶 [Việt Nam hạ UAE, vào bán kết U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-uae-5006613.html) - 14:13 16/01/2026
+- 🫶 [Việt Nam hạ UAE, vào bán kết U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-uae-5006613-tong-thuat.html) - 14:13 16/01/2026
 - 🌜 [LĐBĐ Malaysia tính thay toàn bộ ban chấp hành để tránh bị FIFA đình chỉ](https://vnexpress.net/ldbd-malaysia-tinh-thay-toan-bo-ban-chap-hanh-de-tranh-bi-fifa-dinh-chi-5006609.html) - 13:18 16/01/2026
 - 😺 [HLV PSG muốn bóng đá dùng thẻ xanh như bóng bầu dục](https://vnexpress.net/hlv-psg-muon-bong-da-dung-the-xanh-nhu-bong-bau-duc-5006565.html) - 11:33 16/01/2026
 - 👍 [Nhật Bản thắng Jordan nhờ luân lưu ở tứ kết U23 châu Á](https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529-tong-thuat.html) - 11:00 16/01/2026
