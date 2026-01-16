@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Hàng nghìn cây phượng nhuộm vàng đường ở Bảo Lộc](https://vnexpress.net/hang-nghin-cay-phuong-nhuom-vang-duong-o-bao-loc-5005874.html) - 00:00 16/01/2026
 - 🪄 [Bí ẩn 400 năm ở quốc gia không có sông tự nhiên](https://vnexpress.net/bi-an-400-nam-o-quoc-gia-khong-co-song-tu-nhien-5005920.html) - 17:00 15/01/2026
 - 🦅 [Video hướng dẫn an toàn bay &#39;tình tay ba&#39; hút hàng triệu lượt xem](https://vnexpress.net/video-huong-dan-an-toan-bay-tinh-tay-ba-hut-hang-trieu-luot-xem-5006102.html) - 13:00 15/01/2026
-- 🕴 [Hộ chiếu Malaysia vào top 10 quyền lực thế giới](https://vnexpress.net/ho-chieu-malaysia-vao-top-10-quyen-luc-the-gioi-5005993.html) - 11:30 15/01/2026
+- 🕴 [Vì sao hộ chiếu Malaysia vào top 10 quyền lực thế giới?](https://vnexpress.net/vi-sao-ho-chieu-malaysia-vao-top-10-quyen-luc-the-gioi-5005993.html) - 11:30 15/01/2026
 - 👀 [Tranh cãi giá vé bảo tàng Louvre tăng gần gấp rưỡi](https://vnexpress.net/tranh-cai-gia-ve-bao-tang-louvre-tang-gan-gap-ruoi-5005899.html) - 09:07 15/01/2026
 - 🎭 [Khách Trung Quốc giảm &#39;vung tiền&#39; mua sắm ở nước ngoài](https://vnexpress.net/khach-trung-quoc-giam-vung-tien-mua-sam-o-nuoc-ngoai-5006003.html) - 07:25 15/01/2026
 - 🦒 [Tạp chí Mỹ ca ngợi cách biến tấu cà phê của người Việt](https://vnexpress.net/tap-chi-my-ca-ngoi-cach-bien-tau-ca-phe-cua-nguoi-viet-5005555.html) - 04:55 15/01/2026
