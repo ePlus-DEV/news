@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [6 dấu hiệu ung thư họng thường gặp](https://vnexpress.net/6-dau-hieu-ung-thu-hong-thuong-gap-5006755.html) - 08:00 17/01/2026
 - 🌝 [Tổng thống lâm thời Venezuela cải tổ nội các](https://vnexpress.net/tong-thong-lam-thoi-venezuela-cai-to-noi-cac-5006806.html) - 07:33 17/01/2026
 - 😺 [ChatGPT thử nghiệm hiển thị quảng cáo](https://vnexpress.net/chatgpt-thu-nghiem-hien-thi-quang-cao-5006777.html) - 07:30 17/01/2026
-- 🐎 [Đại tướng Trịnh Văn Quyết: Nói để dân hiểu, làm để dân tin](https://vnexpress.net/dai-tuong-trinh-van-quyet-noi-de-dan-hieu-lam-de-dan-tin-5006750.html) - 07:23 17/01/2026
+- 🐎 [Trưởng ban Tuyên giáo và Dân vận TƯ Trịnh Văn Quyết: Nói để dân hiểu, làm để dân tin](https://vnexpress.net/truong-ban-tuyen-giao-va-dan-van-tu-trinh-van-quyet-noi-de-dan-hieu-lam-de-dan-tin-5006750.html) - 07:23 17/01/2026
 - 🎡 [Gu mặc đời thường của hậu vệ Phạm Minh Phúc](https://vnexpress.net/gu-mac-doi-thuong-cua-hau-ve-pham-minh-phuc-5006756.html) - 07:07 17/01/2026
 - 👨‍🏫 [Bát canh măng đun đi đun lại cả Tết rồi đổ bỏ](https://vnexpress.net/bat-canh-mang-dun-di-dun-lai-ca-tet-roi-do-bo-5006764.html) - 07:00 17/01/2026
 - 🦆 [Di chuyển 1 que diêm để &#39;9 + 0 = 6&#39; đúng](https://vnexpress.net/di-chuyen-1-que-diem-de-9-0-6-dung-5003377.html) - 07:00 17/01/2026
