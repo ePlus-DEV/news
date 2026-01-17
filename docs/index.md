@@ -412,9 +412,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [U23 Việt Nam vào bán kết: Niềm tự hào Đông Nam Á trên mặt báo khu vực](https://baochinhphu.vn/u23-viet-nam-vao-ban-ket-niem-tu-hao-dong-nam-a-tren-mat-bao-khu-vuc-102260117064238356.htm) - 06:32 17/01/2026
-- 🌜 [Nguồn cung tăng, giá nhà chưa giảm](https://baochinhphu.vn/nguon-cung-tang-gia-nha-chua-giam-102260117005432583.htm) - 01:18 17/01/2026
-- 🦆 [Huy động thêm nhân lực, đưa sân bay Long Thành khai thác thương mại ngay tháng 6/2026](https://baochinhphu.vn/huy-dong-them-nhan-luc-dua-san-bay-long-thanh-khai-thac-thuong-mai-ngay-thang-6-2026-102260117010600297.htm) - 01:16 17/01/2026
-- 🌝 [Vượt qua U23 UAE, U23 Việt Nam vào bán kết](https://baochinhphu.vn/lich-thi-dau-tran-tu-ket-u23-viet-nam-u23-uae-102260114074424516.htm) - 00:59 17/01/2026
+- 🌜 [Chiến thắng nghẹt thở trước U23 UAE, U23 Việt Nam tiến vào bán kết](https://baochinhphu.vn/lich-thi-dau-tran-tu-ket-u23-viet-nam-u23-uae-102260114074424516.htm) - 02:59 17/01/2026
+- 🦆 [Nguồn cung tăng, giá nhà chưa giảm](https://baochinhphu.vn/nguon-cung-tang-gia-nha-chua-giam-102260117005432583.htm) - 01:18 17/01/2026
+- 🌝 [Huy động thêm nhân lực, đưa sân bay Long Thành khai thác thương mại ngay tháng 6/2026](https://baochinhphu.vn/huy-dong-them-nhan-luc-dua-san-bay-long-thanh-khai-thac-thuong-mai-ngay-thang-6-2026-102260117010600297.htm) - 01:16 17/01/2026
 - 🦣 [Đưa điện ảnh Việt Nam đến gần hơn với điện ảnh thế giới](https://baochinhphu.vn/dua-dien-anh-viet-nam-den-gan-hon-voi-dien-anh-the-gioi-10226011623513962.htm) - 23:51 16/01/2026
 - ⛽️ [Khai thác bay đêm tại 6 sân bay dịp Tết Nguyên đán Bính Ngọ 2026](https://baochinhphu.vn/khai-thac-bay-dem-tai-6-san-bay-dip-tet-nguyen-dan-binh-ngo-2026-10226011701125205.htm) - 22:15 16/01/2026
 - 🎓 [Tiếp nối hành trình Vì một Việt Nam xanh: OMO Trao tặng 20.000 banh hạt giống cho Vườn quốc gia Núi Chúa](https://baochinhphu.vn/tiep-noi-hanh-trinh-vi-mot-viet-nam-xanh-omo-trao-tang-20000-banh-hat-giong-cho-vuon-quoc-gia-nui-chua-102260116194853403.htm) - 21:34 16/01/2026
