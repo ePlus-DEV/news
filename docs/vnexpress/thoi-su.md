@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đại tướng Trịnh Văn Quyết: Nói để dân hiểu, làm để dân tin](https://vnexpress.net/dai-tuong-trinh-van-quyet-noi-de-dan-hieu-lam-de-dan-tin-5006750.html) - 07:23 17/01/2026
+- 🦒 [Trưởng ban Tuyên giáo và Dân vận TƯ Trịnh Văn Quyết: Nói để dân hiểu, làm để dân tin](https://vnexpress.net/truong-ban-tuyen-giao-va-dan-van-tu-trinh-van-quyet-noi-de-dan-hieu-lam-de-dan-tin-5006750.html) - 07:23 17/01/2026
 - 🤓 [Ôtô cháy ngùn ngụt trước hầm chui ở Hà Nội](https://vnexpress.net/oto-chay-ngun-ngut-truoc-ham-chui-o-ha-noi-5006791.html) - 06:41 17/01/2026
 - ⚗️ [Xây hồ điều hòa gần 600 tỷ đồng giảm ngập cho Nha Trang](https://vnexpress.net/xay-ho-dieu-hoa-gan-600-ty-dong-giam-ngap-cho-nha-trang-5006795.html) - 06:28 17/01/2026
 - 🌊 [Đề xuất luật hóa Ngày Văn hóa Việt Nam thành ngày nghỉ lễ](https://vnexpress.net/de-xuat-luat-hoa-ngay-van-hoa-viet-nam-thanh-ngay-nghi-le-5006749.html) - 04:49 17/01/2026
