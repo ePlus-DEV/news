@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Mộ gạch 2.000 năm tuổi ở Quảng Ninh](https://vnexpress.net/mo-gach-2-000-nam-tuoi-o-quang-ninh-5007006.html) - 11:34 18/01/2026
+- 🦒 [Phát hiện ngôi mộ gạch 2.000 năm tuổi ở Quảng Ninh](https://vnexpress.net/phat-hien-ngoi-mo-gach-2-000-nam-tuoi-o-quang-ninh-5007006.html) - 11:34 18/01/2026
 - 🤓 [Ngôi trường mới thay lớp gỗ cho học trò nghèo Điện Biên](https://vnexpress.net/ngoi-truong-moi-thay-lop-go-cho-hoc-tro-ngheo-dien-bien-5006894.html) - 06:56 18/01/2026
 - ⚗️ [Điểm trường biên giới Sơn La &#39;thay áo mới&#39; đón Tết](https://vnexpress.net/diem-truong-bien-gioi-son-la-thay-ao-moi-don-tet-5006810.html) - 06:56 18/01/2026
 - 🌊 [Chi tiết các tuyến đường cấm, hạn chế xe phục vụ Đại hội Đảng](https://vnexpress.net/chi-tiet-cac-tuyen-duong-cam-han-che-xe-phuc-vu-dai-hoi-dang-5007010.html) - 06:54 18/01/2026
