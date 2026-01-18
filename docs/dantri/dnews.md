@@ -4,10 +4,10 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Những bộ trưởng nào sẽ ứng cử đại biểu Quốc hội khóa mới?](https://dantri.com.vn/thoi-su/nhung-bo-truong-nao-se-ung-cu-dai-bieu-quoc-hoi-khoa-moi-20260118103612485.htm) - 03:45 18/01/2026
-- 🌈 [Đại hội lần thứ XIII của Đảng: Mở ra giai đoạn phồn vinh mới cho đất nước](https://dantri.com.vn/thoi-su/dai-hoi-lan-thu-xiii-cua-dang-mo-ra-giai-doan-phon-vinh-moi-cho-dat-nuoc-20260118084446319.htm) - 01:45 18/01/2026
-- 🐎 [“Xây dựng Bắc Ninh thành thành phố trực thuộc Trung ương trước 2030”](https://dantri.com.vn/thoi-su/xay-dung-bac-ninh-thanh-thanh-pho-truc-thuoc-trung-uong-truoc-2030-20260117234852554.htm) - 01:30 18/01/2026
-- 👹 [U23 Việt Nam vào bán kết: Biến hóa khôn lường, bản lĩnh đáng nể](https://dantri.com.vn/the-thao/u23-viet-nam-vao-ban-ket-bien-hoa-khon-luong-ban-linh-dang-ne-20260118024348631.htm) - 00:38 18/01/2026
+- 🤠 [U23 Việt Nam vào bán kết: Biến hóa khôn lường, bản lĩnh đáng nể](https://dantri.com.vn/the-thao/u23-viet-nam-vao-ban-ket-bien-hoa-khon-luong-ban-linh-dang-ne-20260118024348631.htm) - 04:38 18/01/2026
+- 🌈 [Những bộ trưởng nào sẽ ứng cử đại biểu Quốc hội khóa mới?](https://dantri.com.vn/thoi-su/nhung-bo-truong-nao-se-ung-cu-dai-bieu-quoc-hoi-khoa-moi-20260118103612485.htm) - 03:45 18/01/2026
+- 🐎 [Đại hội lần thứ XIII của Đảng: Mở ra giai đoạn phồn vinh mới cho đất nước](https://dantri.com.vn/thoi-su/dai-hoi-lan-thu-xiii-cua-dang-mo-ra-giai-doan-phon-vinh-moi-cho-dat-nuoc-20260118084446319.htm) - 01:45 18/01/2026
+- 👹 [“Xây dựng Bắc Ninh thành thành phố trực thuộc Trung ương trước 2030”](https://dantri.com.vn/thoi-su/xay-dung-bac-ninh-thanh-thanh-pho-truc-thuoc-trung-uong-truoc-2030-20260117234852554.htm) - 01:30 18/01/2026
 - 🫶 [&quot;Chìa khóa mở đường, nguồn lực nội sinh và bệ đỡ cho phát triển&quot;](https://dantri.com.vn/thoi-su/chia-khoa-mo-duong-nguon-luc-noi-sinh-va-be-do-cho-phat-trien-20260117230750285.htm) - 00:30 18/01/2026
 - ⛽️ [Đột phá từ khoa học công nghệ giúp Việt Nam nắm bắt vận hội lớn của lịch sử](https://dantri.com.vn/cong-nghe/dot-pha-tu-khoa-hoc-cong-nghe-giup-viet-nam-nam-bat-van-hoi-lon-cua-lich-su-20260114153044044.htm) - 00:21 18/01/2026
 - 🌜 [Lộ trình miễn viện phí đến năm 2030, chăm sóc sức khỏe toàn diện người dân](https://dantri.com.vn/suc-khoe/lo-trinh-mien-vien-phi-den-nam-2030-cham-soc-suc-khoe-toan-dien-nguoi-dan-20260112150516768.htm) - 00:17 18/01/2026
