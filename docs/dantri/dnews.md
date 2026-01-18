@@ -6,7 +6,7 @@ sidebar_position: 14
 <!-- dantri-dnews:START -->
 - 🤠 [Pháo đài chính trị - pháp lý, điểm tựa của thể chế, niềm tin của nhân dân](https://dantri.com.vn/thoi-su/phao-dai-chinh-tri-phap-ly-diem-tua-cua-the-che-niem-tin-cua-nhan-dan-20260118201024066.htm) - 13:22 18/01/2026
 - 🌈 [Xây dựng Đảng bộ Quân đội mẫu mực, tiêu biểu, ngang tầm nhiệm vụ](https://dantri.com.vn/thoi-su/xay-dung-dang-bo-quan-doi-mau-muc-tieu-bieu-ngang-tam-nhiem-vu-20260118195616786.htm) - 13:12 18/01/2026
-- 🐎 [U23 Việt Nam vào bán kết: Biến hóa khôn lường, bản lĩnh đáng nể](https://dantri.com.vn/the-thao/u23-viet-nam-vao-ban-ket-bien-hoa-khon-luong-ban-linh-dang-ne-20260118024348631.htm) - 04:38 18/01/2026
+- 🐎 [U23 Việt Nam vào bán kết: Biến hóa khôn lường, bản lĩnh đáng nể](https://dantri.com.vn/the-thao/u23-viet-nam-vao-ban-ket-bien-hoa-khon-luong-ban-linh-dang-ne-20260118024348631.htm) - 12:01 18/01/2026
 - 👹 [Những bộ trưởng nào sẽ ứng cử đại biểu Quốc hội khóa mới?](https://dantri.com.vn/thoi-su/nhung-bo-truong-nao-se-ung-cu-dai-bieu-quoc-hoi-khoa-moi-20260118103612485.htm) - 03:45 18/01/2026
 - 🫶 [Đại hội lần thứ XIII của Đảng: Mở ra giai đoạn phồn vinh mới cho đất nước](https://dantri.com.vn/thoi-su/dai-hoi-lan-thu-xiii-cua-dang-mo-ra-giai-doan-phon-vinh-moi-cho-dat-nuoc-20260118084446319.htm) - 01:45 18/01/2026
 - ⛽️ [“Xây dựng Bắc Ninh thành thành phố trực thuộc Trung ương trước 2030”](https://dantri.com.vn/thoi-su/xay-dung-bac-ninh-thanh-thanh-pho-truc-thuoc-trung-uong-truoc-2030-20260117234852554.htm) - 01:30 18/01/2026
