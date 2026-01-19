@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhóm bán hàng trăm tấn thực phẩm chức năng giả bị phát hiện](https://vnexpress.net/nhom-ban-hang-tram-tan-thuc-pham-chuc-nang-gia-bi-phat-hien-5007174.html) - 02:00 19/01/2026
+- 😎 [Nhà máy sản xuất thực phẩm chức năng giả quy mô lớn trong KCN ở Hà Nội](https://vnexpress.net/nha-may-san-xuat-thuc-pham-chuc-nang-gia-quy-mo-lon-trong-kcn-o-ha-noi-5007174.html) - 02:00 19/01/2026
 - 🥰 [Lập gia đình mới, tôi giao con gái cho chồng cũ nuôi được không?](https://vnexpress.net/lap-gia-dinh-moi-toi-giao-con-gai-cho-chong-cu-nuoi-duoc-khong-5006478.html) - 00:00 19/01/2026
 - 🎓 [Án trẻ vị thành niên phạm tội được ưu tiên xử lý nhanh gấp đôi vụ thông thường](https://vnexpress.net/an-tre-vi-thanh-nien-pham-toi-duoc-uu-tien-xu-ly-nhanh-gap-doi-vu-thong-thuong-5007002.html) - 17:00 18/01/2026
 - 🤓 [Trả giá sau nhiều năm thao túng con, giấu vụ giết vợ](https://vnexpress.net/tra-gia-sau-nhieu-nam-thao-tung-con-giau-vu-giet-vo-5007092.html) - 12:06 18/01/2026
