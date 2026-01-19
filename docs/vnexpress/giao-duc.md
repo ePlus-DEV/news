@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Tài chính trả lời về thưởng Tết cho giáo viên hợp đồng](https://vnexpress.net/bo-tai-chinh-tra-loi-viec-giao-vien-hop-dong-co-duoc-thuong-tet-theo-nghi-dinh-73-khong-5007193.html) - 03:49 19/01/2026
+- 🤓 [Bộ Tài chính: Hai nhóm giáo viên hợp đồng được thưởng](https://vnexpress.net/bo-tai-chinh-tra-loi-viec-giao-vien-hop-dong-co-duoc-thuong-tet-theo-nghi-dinh-73-khong-5007193.html) - 03:49 19/01/2026
 - 🦆 [Những thành tựu đầu tiên của câu lạc bộ Doanh nhân Bách khoa](https://vnexpress.net/nhung-thanh-tuu-dau-tien-cua-cau-lac-bo-doanh-nhan-bach-khoa-5006465.html) - 02:00 19/01/2026
 - 🦩 [Loạt đại học &#39;gộp&#39; nhiều đầu điểm để tuyển sinh](https://vnexpress.net/loat-dai-hoc-gop-nhieu-dau-diem-de-tuyen-sinh-5006281.html) - 23:00 18/01/2026
 - 🌮 [20 đại học Mỹ trợ cấp nhiều nhất cho du học sinh](https://vnexpress.net/20-dai-hoc-my-tro-cap-nhieu-nhat-cho-du-hoc-sinh-5006160.html) - 16:59 18/01/2026
