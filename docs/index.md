@@ -415,7 +415,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP trận bán kết U23 Việt Nam – U23 Trung Quốc &lpar;22h30, 20/1&rpar;: Kịch tính](https://baochinhphu.vn/truc-tiep-tran-ban-ket-u23-viet-nam-u23-trung-quoc-22h30-20-1-102260119151209831.htm) - 22:12 19/01/2026
+- 💻 [TRỰC TIẾP trận bán kết U23 Việt Nam – U23 Trung Quốc &lpar;22h30, 20/1&rpar;: Kịch tính](https://baochinhphu.vn/truc-tiep-tran-ban-ket-u23-viet-nam-u23-trung-quoc-22h30-20-1-102260119151209831.htm) - 06:12 20/01/2026
 - 🌜 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 19/1/2026 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-19-1-2026-2-102260119213520034.htm) - 21:36 19/01/2026
 - 🦆 [Từ 1/7, sử dụng số định danh cá nhân làm mã định danh hồ sơ điện tử cán bộ, công chức, viên chức](https://baochinhphu.vn/tu-1-7-su-dung-so-dinh-danh-ca-nhan-lam-ma-dinh-danh-ho-so-dien-tu-can-bo-cong-chuc-vien-chuc-1022601191847349.htm) - 20:59 19/01/2026
 - 🌝 [Điều kiện kinh doanh kết cấu hạ tầng đường sắt, kinh doanh vận tải đường sắt](https://baochinhphu.vn/dieu-kien-kinh-doanh-ket-cau-ha-tang-duong-sat-kinh-doanh-van-tai-duong-sat-102260119193149264.htm) - 20:48 19/01/2026
