@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Tập thể dục thế nào khi mắc ung thư phổi?](https://vnexpress.net/tap-the-duc-the-nao-khi-mac-ung-thu-phoi-5007816.html) - 11:00 20/01/2026
 - 🕯 [5 cách giảm triệu chứng bệnh xơ phổi](https://vnexpress.net/5-cach-giam-trieu-chung-benh-xo-phoi-5007802.html) - 11:00 20/01/2026
 - 💃 [Men vi sinh giúp runner phục hồi tốt hơn sau marathon](https://vnexpress.net/men-vi-sinh-giup-runner-phuc-hoi-tot-hon-sau-marathon-5006861.html) - 11:00 20/01/2026
-- 💂 [Hàn Quốc - Nhật Bản: Tranh vé chung kết U23 châu Á](https://vnexpress.net/han-quoc-nhat-ban-tranh-ve-chung-ket-u23-chau-a-5007701.html) - 10:45 20/01/2026
+- 💂 [Hàn Quốc - Nhật Bản: &#39;Oẳn tù tì cũng không được phép thua&#39;](https://vnexpress.net/han-quoc-nhat-ban-tranh-ve-chung-ket-u23-chau-a-5007701.html) - 10:45 20/01/2026
 - 🎊 [Đại học Kinh tế TP HCM chuyển sang xét tuyển kết hợp, nhân đôi điểm Toán](https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-dieu-chinh-phuong-thuc-xet-tuyen-2026-5007929.html) - 10:40 20/01/2026
 - 🤠 [&#39;U23 Việt Nam sẽ khoan thủng bê tông phòng ngự của Trung Quốc&#39;](https://vnexpress.net/u23-viet-nam-se-khoan-thung-be-tong-phong-ngu-cua-trung-quoc-5007837.html) - 10:36 20/01/2026
 - 🌈 [Carlsberg Việt Nam hợp tác Grab thúc đẩy thói quen uống có trách nhiệm](https://vnexpress.net/carlsberg-viet-nam-hop-tac-grab-thuc-day-thoi-quen-uong-co-trach-nhiem-5007943.html) - 10:30 20/01/2026
