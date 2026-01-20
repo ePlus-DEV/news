@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [U23 Nhật Bản 1-0 U23 Hàn Quốc &lpar;hiệp 2&rpar;: Dồn toàn lực tìm bàn thắng](https://dantri.com.vn/the-thao/u23-nhat-ban-1-0-u23-han-quoc-hiep-2-don-toan-luc-tim-ban-thang-20260120180613777.htm) - 11:06 20/01/2026
+- 🎭 [Đánh bại U23 Hàn Quốc, U23 Nhật Bản giành quyền vào chung kết](https://dantri.com.vn/the-thao/danh-bai-u23-han-quoc-u23-nhat-ban-gianh-quyen-vao-chung-ket-20260120180613777.htm) - 11:06 20/01/2026
 - 👨‍🏫 [Thủ tướng thăm Trung tâm Báo chí phục vụ Đại hội XIV của Đảng](https://dantri.com.vn/thoi-su/thu-tuong-tham-trung-tam-bao-chi-phuc-vu-dai-hoi-xiv-cua-dang-20260120165039000.htm) - 10:11 20/01/2026
 - 🌮 [Toàn cảnh phiên khai mạc Đại hội XIV của Đảng](https://dantri.com.vn/thoi-su/toan-canh-phien-khai-mac-dai-hoi-xiv-cua-dang-20260120145137996.htm) - 07:58 20/01/2026
 - 🕯 [Báo Indonesia dự đoán kết quả trận U23 Việt Nam gặp U23 Trung Quốc](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-ket-qua-tran-u23-viet-nam-gap-u23-trung-quoc-20260120140801989.htm) - 07:28 20/01/2026
