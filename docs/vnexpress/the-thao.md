@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam - Trung Quốc: Đình Bắc tiếp tục dự bị](https://vnexpress.net/truc-tiep-viet-nam-vs-trung-quoc-5007979.html) - 14:00 20/01/2026
+- 🪜 [Việt Nam 0-0 Trung Quốc &lpar;hết H1&rpar;: Hiểu Minh chấn thương nặng](https://vnexpress.net/truc-tiep-viet-nam-vs-trung-quoc-5007979.html) - 14:00 20/01/2026
 - 🦩 [Sinner chỉ tốn 70 phút để vào vòng hai Australia Mở rộng](https://vnexpress.net/sinner-chi-ton-70-phut-de-vao-vong-hai-australia-mo-rong-5007976.html) - 12:17 20/01/2026
 - 🧰 [Nhật Bản thắng Hàn Quốc, vào chung kết U23 châu Á](https://vnexpress.net/han-quoc-nhat-ban-tranh-ve-chung-ket-u23-chau-a-5007701-tong-thuat.html) - 10:45 20/01/2026
 - 🤗 [Truyền thông Trung Quốc: &#39;Trọng tài Australia bắt chính là tin tốt&#39;](https://vnexpress.net/truyen-thong-trung-quoc-trong-tai-australia-bat-chinh-la-tin-tot-5007928.html) - 10:06 20/01/2026
