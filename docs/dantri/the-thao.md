@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Đông Nam Á chỉ ra điểm mạnh có thể giúp U23 Việt Nam thắng Trung Quốc](https://dantri.com.vn/the-thao/bao-dong-nam-a-chi-ra-diem-manh-co-the-giup-u23-viet-nam-thang-trung-quoc-20260120140133372.htm) - 12:06 20/01/2026
-- 💯 [U23 Nhật Bản 1-0 U23 Hàn Quốc &lpar;hiệp 2&rpar;: Bóng chạm xà ngang U23 Nhật Bản](https://dantri.com.vn/the-thao/u23-nhat-ban-1-0-u23-han-quoc-hiep-2-bong-cham-xa-ngang-u23-nhat-ban-20260120180613777.htm) - 11:06 20/01/2026
+- 💯 [U23 Nhật Bản 1-0 U23 Hàn Quốc &lpar;hiệp 2&rpar;: Dồn toàn lực tìm bàn thắng](https://dantri.com.vn/the-thao/u23-nhat-ban-1-0-u23-han-quoc-hiep-2-don-toan-luc-tim-ban-thang-20260120180613777.htm) - 11:06 20/01/2026
 - ⛽️ [U23 Việt Nam mặc trang phục màu đỏ ở màn so tài với U23 Trung Quốc](https://dantri.com.vn/the-thao/u23-viet-nam-mac-trang-phuc-mau-do-o-man-so-tai-voi-u23-trung-quoc-20260120170719972.htm) - 10:12 20/01/2026
 - 💃 [Xem trực tiếp trận U23 Việt Nam gặp U23 Trung Quốc ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u23-viet-nam-gap-u23-trung-quoc-o-dau-20260120142646041.htm) - 09:27 20/01/2026
 - 🌈 [HLV Kim Sang Sik: &quot;Cả châu Á sẽ biết thực lực bóng đá Việt Nam thế nào&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-ca-chau-a-se-biet-thuc-luc-bong-da-viet-nam-the-nao-20260120152657940.htm) - 08:30 20/01/2026
