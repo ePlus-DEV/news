@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [TPHCM: Tết Bính Ngọ, cán bộ lãnh đạo chỉ dự lễ chùa, lễ hội khi được phân công](https://nld.com.vn/tphcm-tet-binh-ngo-can-bo-lanh-dao-chi-duoc-du-le-chua-le-hoi-khi-duoc-phan-cong-196260120212424841.htm) - 15:01 20/01/2026
 - 😺 [TPHCM: Phố đi bộ Nguyễn Huệ &quot;rực lửa&quot;, tiếp sức cho U23 Việt Nam](https://nld.com.vn/tphcm-pho-di-bo-nguyen-hue-ruc-lua-tiep-suc-cho-u23-viet-nam-1962601202109336.htm) - 14:50 20/01/2026
-- 👍 [U23 Việt Nam - U23 Trung Quốc: Đình Bắc tiếp tục dự bị](https://nld.com.vn/u23-viet-nam-u23-trung-quoc-dinh-bac-tiep-tuc-du-bi-196260120214614042.htm) - 14:47 20/01/2026
+- 👍 [U23 Việt Nam &lpar;0-0&rpar; U23 Trung Quốc: Hiểu Minh chấn thương, rời sân](https://nld.com.vn/u23-viet-nam-u23-trung-quoc-dinh-bac-tiep-tuc-du-bi-196260120214614042.htm) - 14:47 20/01/2026
 - 🥷 [Điều chỉnh phân luồng giao thông phục vụ Đại hội Đảng](https://nld.com.vn/dieu-chinh-phan-luong-giao-thong-phuc-vu-dai-hoi-dang-19626012021330061.htm) - 14:46 20/01/2026
 - 🤔 [Clip: Xem lại màn trình diễn để U23 Nhật Bản tiến vào chung kết](https://nld.com.vn/clip-xem-lai-man-trinh-dien-de-u23-nhat-ban-tien-vao-chung-ket-196260120212459247.htm) - 14:44 20/01/2026
 - 🌈 [Xử phạt 2 nam thanh niên xuyên tạc về lãnh đạo Đảng, Nhà nước trên mạng xã hội](https://nld.com.vn/xu-phat-2-nam-thanh-nien-xuyen-tac-ve-lanh-dao-dang-nha-nuoc-tren-mang-xa-hoi-196260120204244256.htm) - 14:32 20/01/2026
