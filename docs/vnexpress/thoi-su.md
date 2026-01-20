@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Thiết kế ngày và đêm của đường hoa Nguyễn Huệ Tết Bính Ngọ](https://vnexpress.net/thiet-ke-ngay-va-dem-cua-duong-hoa-nguyen-hue-tet-binh-ngo-5007619.html) - 02:55 20/01/2026
 - 🎉 [Tổng Bí thư: Khát vọng lớn, bước đi chắc](https://vnexpress.net/khai-mac-dai-hoi-dang-xiv-5007548.html) - 01:00 20/01/2026
 - 🦒 [&#39;Nghiên cứu giảm giờ làm gắn với tăng năng suất và sức cạnh tranh quốc gia&#39;](https://vnexpress.net/nghien-cuu-giam-gio-lam-gan-voi-tang-nang-suat-va-suc-canh-tranh-quoc-gia-5007565.html) - 00:30 20/01/2026
-- 🤗 [Ông Trần Lưu Quang: TP HCM chuyển mô hình tăng trưởng, đặt trọng tâm công nghệ số](https://vnexpress.net/ong-tran-luu-quang-tp-hcm-chuyen-mo-hinh-tang-truong-dat-trong-tam-cong-nghe-so-5007557.html) - 00:00 20/01/2026
+- 🤗 [Bí thư TP HCM: Làm đến cùng, chịu trách nhiệm đến cùng](https://vnexpress.net/bi-thu-tp-hcm-lam-den-cung-chiu-trach-nhiem-den-cung-5007557.html) - 00:00 20/01/2026
 - 💼 [Sáng nay khai mạc Đại hội Đảng toàn quốc lần thứ XIV](https://vnexpress.net/sang-nay-khai-mac-dai-hoi-dang-toan-quoc-lan-thu-xiv-5007545.html) - 17:00 19/01/2026
 - 🤩 [Diện mạo cao tốc Cần Thơ - Cà Mau sau khi thông xe đoạn cuối](https://vnexpress.net/dien-mao-cao-toc-can-tho-ca-mau-sau-khi-thong-xe-doan-cuoi-5007493.html) - 17:00 19/01/2026
 - 🤡 [Trụ sở UBND TP Huế cũ trở thành Bảo tàng Lịch sử](https://vnexpress.net/tru-so-ubnd-tp-hue-cu-tro-thanh-bao-tang-lich-su-5007491.html) - 13:30 19/01/2026
