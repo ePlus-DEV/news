@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Chuyên gia: &quot;Tai nạn trên cầu Thanh Trì đâu phải do dải phân cách?&quot;](https://dantri.com.vn/ban-doc/chuyen-gia-tai-nan-tren-cau-thanh-tri-dau-phai-do-dai-phan-cach-20260120125104181.htm) - 17:05 20/01/2026
-- 🌈 [Tan vỡ giấc mơ World Cup 2026, bóng đá Trung Quốc kỳ vọng vào thế hệ U23](https://dantri.com.vn/the-thao/tan-vo-giac-mo-world-cup-2026-bong-da-trung-quoc-ky-vong-vao-the-he-u23-20260120085806029.htm) - 08:15 20/01/2026
+- 🌈 [Tan vỡ giấc mơ World Cup 2026, bóng đá Trung Quốc kỳ vọng vào thế hệ U23](https://dantri.com.vn/the-thao/tan-vo-giac-mo-world-cup-2026-bong-da-trung-quoc-ky-vong-vao-the-he-u23-20260120085806029.htm) - 11:16 20/01/2026
 - 🐎 [Lần đầu tiên 100% bí thư, chủ tịch tỉnh thành không phải người địa phương](https://dantri.com.vn/thoi-su/lan-dau-tien-100-bi-thu-chu-tich-tinh-thanh-khong-phai-nguoi-dia-phuong-20260120121127617.htm) - 05:18 20/01/2026
 - 👹 [Tổng Bí thư Tô Lâm: &quot;Phải biết xấu hổ khi dân còn khó khăn, nghèo đói&quot;](https://dantri.com.vn/thoi-su/tong-bi-thu-to-lam-phai-biet-xau-ho-khi-dan-con-kho-khan-ngheo-doi-20260120100956982.htm) - 03:17 20/01/2026
 - 🫶 [Giá bạc tăng dựng đứng, lời nguyền bong bóng có đang quay trở lại?](https://dantri.com.vn/kinh-doanh/gia-bac-tang-dung-dung-loi-nguyen-bong-bong-co-dang-quay-tro-lai-20260119202246518.htm) - 02:45 20/01/2026
