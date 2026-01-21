@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Alcaraz tốn 78 phút cho set đầu Australia Mở rộng](https://vnexpress.net/alcaraz-ton-78-phut-cho-set-dau-australia-mo-rong-5008391.html) - 11:27 21/01/2026
 - 🤗 [Man City bị chê phòng ngự như đội U10](https://vnexpress.net/man-city-bi-che-phong-ngu-nhu-doi-u10-5008364.html) - 11:10 21/01/2026
 - 🥳 [Tiền đạo U23 Trung Quốc: &#39;Biết trước sẽ thắng Việt Nam&#39;](https://vnexpress.net/tien-dao-u23-trung-quoc-biet-truoc-se-thang-viet-nam-5008301.html) - 09:48 21/01/2026
-- 🦣 [Tượng Ronaldo bị phóng hỏa](https://vnexpress.net/tuong-ronaldo-bi-phong-hoa-5008335.html) - 09:37 21/01/2026
+- 🦣 [Tượng Ronaldo bị đốt](https://vnexpress.net/tuong-ronaldo-bi-dot-5008335.html) - 09:37 21/01/2026
 - 🌜 [Việt Nam thua vì &#39;không ngờ Trung Quốc chơi tấn công&#39;](https://vnexpress.net/viet-nam-thua-vi-khong-ngo-trung-quoc-choi-tan-cong-5008262.html) - 08:10 21/01/2026
 - 🫶 [Haaland xấu hổ vì thất bại của Man City](https://vnexpress.net/haaland-xau-ho-vi-that-bai-cua-man-city-5008220.html) - 06:48 21/01/2026
 - 🌜 [Vì sao trung vệ Lý Đức không được xóa thẻ đỏ?](https://vnexpress.net/vi-sao-trung-ve-ly-duc-khong-duoc-xoa-the-do-5008201.html) - 05:01 21/01/2026
