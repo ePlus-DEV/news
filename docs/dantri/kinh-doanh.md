@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Thực hư tin Thái Lan sắp chi hơn 19.300 tỷ đồng “mua” Mega Market Việt Nam](https://dantri.com.vn/kinh-doanh/thuc-hu-tin-thai-lan-sap-chi-hon-19300-ty-dong-mua-mega-market-viet-nam-20260121154040026.htm) - 09:03 21/01/2026
+- 🏊 [Thực hư tin Thái Lan sắp chi hơn 19.300 tỷ đồng mua Mega Market Việt Nam](https://dantri.com.vn/kinh-doanh/thuc-hu-tin-thai-lan-sap-chi-hon-19300-ty-dong-mua-mega-market-viet-nam-20260121154040026.htm) - 09:03 21/01/2026
 - 🦆 [Lộ diện những ngân hàng báo lãi kỷ lục trên 30.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/lo-dien-nhung-ngan-hang-bao-lai-ky-luc-tren-30000-ty-dong-20260121134803610.htm) - 08:56 21/01/2026
 - 🦄 [Giá vàng 170 triệu đồng/lượng, công ty &quot;nữ hoàng trang sức&quot; lời lãi ra sao?](https://dantri.com.vn/kinh-doanh/gia-vang-170-trieu-dongluong-cong-ty-nu-hoang-trang-suc-loi-lai-ra-sao-20260121141302512.htm) - 08:50 21/01/2026
 - 🌝 [Chứng khoán điều chỉnh mạnh, cổ phiếu liên quan bầu Thụy tăng trần](https://dantri.com.vn/kinh-doanh/chung-khoan-dieu-chinh-manh-co-phieu-lien-quan-bau-thuy-tang-tran-20260121151005981.htm) - 08:36 21/01/2026
