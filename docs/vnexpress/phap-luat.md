@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vô cớ đánh người đến &#39;tàn phế&#39; vì bị từ chối lời mời nhậu](https://vnexpress.net/vo-co-danh-nguoi-den-tan-phe-vi-bi-tu-choi-loi-moi-nhau-5007527.html) - 14:29 20/01/2026
+- 😎 [Vô cớ bị đánh tàn phế nhưng 5 lần giám định mới phát hiện thương tích](https://vnexpress.net/vo-co-bi-danh-tan-phe-nhung-5-lan-giam-dinh-moi-phat-hien-thuong-tich-5007527.html) - 14:29 20/01/2026
 - 🥰 [Tổng giám đốc Công ty Hoàng Gia bị cáo buộc chiếm đoạt hơn 37 tỷ đồng](https://vnexpress.net/tong-giam-doc-cong-ty-hoang-gia-bi-cao-buoc-chiem-doat-hon-37-ty-dong-5007978.html) - 12:56 20/01/2026
 - 🎓 [Loạt phụ huynh kiện Tik Tok vì con &#39;đu trend&#39; tự hại mình](https://vnexpress.net/loat-phu-huynh-kien-tik-tok-vi-con-du-trend-tu-hai-minh-5007783.html) - 09:50 20/01/2026
 - 🤓 [Nhiều học sinh mua hóa chất tự chế pháo &#39;chơi Tết&#39;](https://vnexpress.net/nhieu-hoc-sinh-mua-hoa-chat-tu-che-phao-choi-tet-5007784.html) - 09:30 20/01/2026
