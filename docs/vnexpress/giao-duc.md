@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa Vật lý quốc gia thích tự tạo bài tập mới](https://vnexpress.net/thu-khoa-vat-ly-quoc-gia-thich-tu-tao-bai-tap-moi-5008272.html) - 12:35 21/01/2026
+- 🤓 [Nam sinh chuyên Lam Sơn giành ngôi thủ khoa Vật lý quốc gia](https://vnexpress.net/nam-sinh-chuyen-lam-son-gianh-ngoi-thu-khoa-vat-ly-quoc-gia-5008272.html) - 12:35 21/01/2026
 - 🦆 [Giao quyền tuyển giáo viên ở tất cả cấp học cho giám đốc Sở Giáo dục](https://vnexpress.net/giao-quyen-tuyen-giao-vien-o-tat-ca-cap-hoc-cho-giam-doc-so-giao-duc-5008379.html) - 10:48 21/01/2026
 - 🦩 [Đại học Y Dược Huế mở rộng xét tuyển bằng IELTS](https://vnexpress.net/bang-quy-doi-diem-ielts-cua-dai-hoc-y-duoc-hue-2026-chinh-xac-nhat-5008263.html) - 08:44 21/01/2026
 - 🌮 [Đại học Y Dược TP HCM siết đầu vào bác sĩ nội trú](https://vnexpress.net/dai-hoc-y-duoc-tp-hcm-siet-dau-vao-bac-si-noi-tru-5008146.html) - 07:12 21/01/2026
