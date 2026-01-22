@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giới đầu tư gỡ được mối lo Greenland](https://vnexpress.net/gioi-dau-tu-go-duoc-moi-lo-greenland-5008676.html) - 09:17 22/01/2026
-- 🐲 [Zalo, TikTok bị phạt gần 1,7 tỷ đồng vì vi phạm bảo vệ người dùng](https://vnexpress.net/zalo-tiktok-bi-phat-gan-1-7-ty-dong-vi-vi-pham-bao-ve-nguoi-dung-5008752.html) - 09:04 22/01/2026
+- 🐲 [Zalo, TikTok bị phạt tiền vì vi phạm bảo vệ người dùng](https://vnexpress.net/zalo-tiktok-bi-phat-tien-vi-vi-pham-bao-ve-nguoi-dung-5008752.html) - 09:04 22/01/2026
 - 🔥 [Cổ phiếu Hóa chất Đức Giang nổi sóng](https://vnexpress.net/co-phieu-hoa-chat-duc-giang-noi-song-5008740.html) - 08:43 22/01/2026
 - 🐵 [Giao gần 64.000 ha biển cho EVN, PVN khảo sát làm điện gió ngoài khơi](https://vnexpress.net/giao-gan-64-000-ha-bien-cho-evn-pvn-khao-sat-lam-dien-gio-ngoai-khoi-5008702.html) - 07:50 22/01/2026
 - 🦅 [Giá xăng giảm, dầu tăng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-22-1-5008674.html) - 07:30 22/01/2026
