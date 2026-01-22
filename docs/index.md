@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Cô gái trẻ tử vong bất thường tại tiệm phun xăm](https://nld.com.vn/co-gai-tre-tu-vong-bat-thuong-tai-tiem-phun-xam-196260122125049363.htm) - 06:01 22/01/2026
-- 😺 [Giải mã &quot;Ẩnsố vàng&quot; tái định hình bản đồ bất động sản khu đông TPHCM](https://diaoc.nld.com.vn/giai-ma-anso-vang-tai-dinh-hinh-ban-do-bat-dong-san-khu-dong-tphcm-196260122093149488.htm) - 05:54 22/01/2026
+- 😺 [Giải mã &quot;Ẩn số vàng&quot; tái định hình bản đồ bất động sản khu đông TPHCM](https://diaoc.nld.com.vn/giai-ma-an-so-vang-tai-dinh-hinh-ban-do-bat-dong-san-khu-dong-tphcm-196260122093149488.htm) - 05:54 22/01/2026
 - 👍 [Phát hiện vụ mua bán pháo hoa nổ trái phép số lượng lớn tại Gia Lai](https://nld.com.vn/phat-hien-vu-mua-ban-phao-hoa-no-trai-phep-so-luong-lon-tai-gia-lai-196260122111729705.htm) - 05:44 22/01/2026
 - 🥷 [Nghi vấn về việc Mỹ điều động 1.500 quân chuyên hoạt động ở Bắc Cực](https://nld.com.vn/nghi-van-ve-viec-my-dieu-dong-1500-quan-chuyen-hoat-dong-o-bac-cuc-196260121181526361.htm) - 05:30 22/01/2026
 - 🤔 [Bảo vệ vững chắc độc lập, chủ quyền lãnh thổ, vị thế, uy tín quốc tế của đất nước được nâng cao](https://nld.com.vn/bao-ve-vung-chac-doc-lap-chu-quyen-lanh-tho-vi-the-uy-tin-quoc-te-cua-dat-nuoc-duoc-nang-cao-196260122122916584.htm) - 05:29 22/01/2026
