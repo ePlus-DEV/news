@@ -315,56 +315,56 @@ ngoài việc phải nâng cao đời sống nhân dân](https://nld.com.vn/tong
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Rực rỡ pháo hoa chào mừng thành công của Đại hội XIV](https://www.sggp.org.vn/ruc-ro-phao-hoa-chao-mung-thanh-cong-cua-dai-hoi-xiv-post834997.html) - 15:24 23/01/2026
-- 🌝 [Hội thi thuyết minh viên “Hành trình các di tích lịch sử, di sản văn hóa tại địa phương”](https://www.sggp.org.vn/hoi-thi-thuyet-minh-vien-hanh-trinh-cac-di-tich-lich-su-di-san-van-hoa-tai-dia-phuong-post834995.html) - 13:55 23/01/2026
-- 💃 [Tổng Bí thư Tô Lâm: Sự nghiệp đổi mới còn phải tiếp tục](https://www.sggp.org.vn/tong-bi-thu-to-lam-su-nghiep-doi-moi-con-phai-tiep-tuc-post834987.html) - 13:08 23/01/2026
-- 🧑‍💻 [Podcast bản tin tối 23-1: Từ ngày 24-1, miền Bắc ấm dần và duy trì đến hết tháng 1](https://www.sggp.org.vn/podcast-ban-tin-toi-23-1-tu-ngay-24-1-mien-bac-am-dan-va-duy-tri-den-het-thang-1-post834994.html) - 13:05 23/01/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith sắp thăm cấp Nhà nước tới Việt Nam](https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-lao-thongloun-sisoulith-sap-tham-cap-nha-nuoc-toi-viet-nam-post834992.html) - 13:01 23/01/2026
-- 🧑‍💻 [Bản tin tối 23-1: Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/ban-tin-toi-23-1-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834993.html) - 13:00 23/01/2026
-- ⛽️ [Sôi nổi Hội thi karaoke “Mừng Đảng - Mừng Xuân” ở phường Tân Sơn Hòa](https://www.sggp.org.vn/soi-noi-hoi-thi-karaoke-mung-dang-mung-xuan-o-phuong-tan-son-hoa-post834991.html) - 12:41 23/01/2026
-- 😎 [Kỳ vọng vào nhiệm kỳ mới](https://www.sggp.org.vn/ky-vong-vao-nhiem-ky-moi-post834972.html) - 12:20 23/01/2026
-- 🌜 [Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834990.html) - 12:11 23/01/2026
-- 💻 [Vĩnh Long: 2 kịch bản ứng phó hạn mặn trong mùa khô 2025 - 2026](https://www.sggp.org.vn/vinh-long-2-kich-ban-ung-pho-han-man-trong-mua-kho-2025-2026-post834988.html) - 11:57 23/01/2026
-- 👍 [Gia Lai: Trao tiền hỗ trợ đợt 2 cho anh Hồ Thanh Sĩ](https://www.sggp.org.vn/gia-lai-trao-tien-ho-tro-dot-2-cho-anh-ho-thanh-si-post834919.html) - 11:48 23/01/2026
-- 🦆 [Tiểu sử đồng chí Lương Tam Quang](https://www.sggp.org.vn/tieu-su-dong-chi-luong-tam-quang-post834743.html) - 11:15 23/01/2026
-- 🦩 [Tiếp lửa tình yêu biển, đảo cho hơn 2.700 học sinh](https://www.sggp.org.vn/tiep-lua-tinh-yeu-bien-dao-cho-hon-2700-hoc-sinh-post834984.html) - 11:14 23/01/2026
-- 🥰 [Tiểu sử đồng chí Đỗ Văn Chiến](https://www.sggp.org.vn/tieu-su-dong-chi-do-van-chien-post834703.html) - 11:05 23/01/2026
-- 🎬 [TPHCM đẩy nhanh chỉnh trang 9 khu đất phục vụ tết](https://www.sggp.org.vn/tphcm-day-nhanh-chinh-trang-9-khu-dat-phuc-vu-tet-post834978.html) - 11:05 23/01/2026
-- 🦩 [Tiểu sử đồng chí Bùi Thị Minh Hoài](https://www.sggp.org.vn/tieu-su-dong-chi-bui-thi-minh-hoai-post834726.html) - 11:02 23/01/2026
-- 🌮 [Cứu thành công 11 người dân thoát khỏi đám cháy khi đang ngủ](https://www.sggp.org.vn/cuu-thanh-cong-11-nguoi-dan-thoat-khoi-dam-chay-khi-dang-ngu-post834979.html) - 10:52 23/01/2026
-- 👍 [Tiểu sử đồng chí Lê Minh Trí](https://www.sggp.org.vn/tieu-su-dong-chi-le-minh-tri-post834778.html) - 10:50 23/01/2026
-- 🦒 [Tiểu sử đồng chí Trần Thanh Mẫn](https://www.sggp.org.vn/tieu-su-dong-chi-tran-thanh-man-post834714.html) - 10:45 23/01/2026
-- 🤡 [Tiểu sử đồng chí Phan Văn Giang](https://www.sggp.org.vn/tieu-su-dong-chi-phan-van-giang-post834740.html) - 10:37 23/01/2026
-- 🐎 [Tiểu sử đồng chí Trần Lưu Quang](https://www.sggp.org.vn/tieu-su-dong-chi-tran-luu-quang-post834775.html) - 10:36 23/01/2026
-- 🦆 [Tổng Bí thư Tô Lâm: Ban Chấp hành Trung ương Đảng khóa XIV sẽ làm việc bằng tinh thần nêu gương cao nhất](https://www.sggp.org.vn/tong-bi-thu-to-lam-ban-chap-hanh-trung-uong-dang-khoa-xiv-se-lam-viec-bang-tinh-than-neu-guong-cao-nhat-post834983.html) - 10:30 23/01/2026
-- 🦅 [Thái Lan và Mỹ sẽ tổ chức tập trận chung Hổ mang vàng 2026](https://www.sggp.org.vn/thai-lan-va-my-se-to-chuc-tap-tran-chung-ho-mang-vang-2026-post834973.html) - 10:29 23/01/2026
-- 🫣 [Thông qua Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng](https://www.sggp.org.vn/thong-qua-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post834971.html) - 10:28 23/01/2026
-- 🎭 [Giá vàng nhẫn 9999 chiều 23-1 “hạ nhiệt”](https://www.sggp.org.vn/gia-vang-nhan-9999-chieu-23-1-ha-nhiet-post834975.html) - 10:26 23/01/2026
-- 🫶 [Niềm tin từ cơ sở, mong chính sách sát thực tiễn](https://www.sggp.org.vn/niem-tin-tu-co-so-mong-chinh-sach-sat-thuc-tien-post834948.html) - 10:20 23/01/2026
-- 🎓 [Tiểu sử đồng chí Lê Minh Hưng](https://www.sggp.org.vn/tieu-su-dong-chi-le-minh-hung-post834733.html) - 10:15 23/01/2026
-- 🤡 [Tỉnh Đồng Nai tăng cường chăm lo tết cho người dân](https://www.sggp.org.vn/tinh-dong-nai-tang-cuong-cham-lo-tet-cho-nguoi-dan-post834902.html) - 10:07 23/01/2026
-- 🦅 [Tiểu sử đồng chí Lê Hoài Trung](https://www.sggp.org.vn/tieu-su-dong-chi-le-hoai-trung-post834777.html) - 10:06 23/01/2026
-- 🧑‍🏫 [Tiểu sử đồng chí Trần Cẩm Tú](https://www.sggp.org.vn/tieu-su-dong-chi-tran-cam-tu-post834704.html) - 10:03 23/01/2026
-- 🕴 [Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834967.html) - 10:01 23/01/2026
-- 🦆 [Bản tin 17 giờ 23-1: Đồng chí Tô Lâm giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIV](https://www.sggp.org.vn/ban-tin-17-gio-23-1-dong-chi-to-lam-giu-chuc-tong-bi-thu-ban-chap-hanh-trung-uong-dang-khoa-xiv-post834977.html) - 10:00 23/01/2026
-- 🎃 [Podcast bản tin 17 giờ 23-1: “Đại tiệc” nghệ thuật và pháo hoa đặc biệt mừng thành công Đại hội XIV của Đảng, sẽ diễn ra vào tối nay 23-1](https://www.sggp.org.vn/podcast-ban-tin-17-gio-23-1-dai-tiec-nghe-thuat-va-phao-hoa-dac-biet-mung-thanh-cong-dai-hoi-xiv-cua-dang-se-dien-ra-vao-toi-nay-23-1-post834981.html) - 10:00 23/01/2026
-- 🌮 [Tây Ninh: Giải quyết tình trạng thiếu nguồn nước sinh hoạt](https://www.sggp.org.vn/tay-ninh-giai-quyet-tinh-trang-thieu-nguon-nuoc-sinh-hoat-post834925.html) - 09:58 23/01/2026
-- 🥰 [Danh sách Ủy ban Kiểm tra Trung ương khóa XIV](https://www.sggp.org.vn/danh-sach-uy-ban-kiem-tra-trung-uong-khoa-xiv-post834957.html) - 09:58 23/01/2026
-- 🕯 [Trang bị phương tiện cấp cứu ngừng tim ở các nhà ga tuyến Metro số 1](https://www.sggp.org.vn/trang-bi-phuong-tien-cap-cuu-ngung-tim-o-cac-nha-ga-tuyen-metro-so-1-post834970.html) - 09:56 23/01/2026
-- 🙉 [Đề xuất bổ sung, sửa đổi Điều lệ Đảng tại Đại hội XV](https://www.sggp.org.vn/de-xuat-bo-sung-sua-doi-dieu-le-dang-tai-dai-hoi-xv-post834960.html) - 09:50 23/01/2026
-- 💡 [Số ca đột quỵ tăng cao khi thời tiết chuyển lạnh](https://www.sggp.org.vn/so-ca-dot-quy-tang-cao-khi-thoi-tiet-chuyen-lanh-post834969.html) - 09:46 23/01/2026
-- 💫 [Tiểu sử đồng chí Đoàn Minh Huấn](https://www.sggp.org.vn/tieu-su-dong-chi-doan-minh-huan-post834797.html) - 09:40 23/01/2026
-- 🧑‍💻 [Tiểu sử đồng chí Phạm Gia Túc](https://www.sggp.org.vn/tieu-su-dong-chi-pham-gia-tuc-post834801.html) - 09:39 23/01/2026
-- 🎊 [Tiểu sử đồng chí Nguyễn Duy Ngọc](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-duy-ngoc-post834772.html) - 09:39 23/01/2026
-- 🤖 [Tiểu sử đồng chí Nguyễn Trọng Nghĩa](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-trong-nghia-post834773.html) - 09:39 23/01/2026
-- 💫 [Tiểu sử đồng chí Trần Đức Thắng](https://www.sggp.org.vn/tieu-su-dong-chi-tran-duc-thang-post834793.html) - 09:38 23/01/2026
-- 👨‍🏫 [Mang xuân yêu thương đến với học sinh chuyên biệt](https://www.sggp.org.vn/mang-xuan-yeu-thuong-den-voi-hoc-sinh-chuyen-biet-post834962.html) - 09:36 23/01/2026
-- 🧰 [Bế mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng](https://www.sggp.org.vn/be-mac-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post834965.html) - 09:33 23/01/2026
-- 🥰 [Tiểu sử đồng chí Nguyễn Thanh Nghị](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-thanh-nghi-post834787.html) - 09:33 23/01/2026
-- 💼 [Tiểu sử đồng chí Trịnh Văn Quyết](https://www.sggp.org.vn/tieu-su-dong-chi-trinh-van-quyet-post834784.html) - 09:31 23/01/2026
-- 🤗 [Giá vàng nhẫn 9999 chiều 23-1 “hạ nhiệt”](https://www.sggp.org.vn/gia-vang-nhan-9999-chieu-23-1-ha-nhiet-post834963.html) - 09:20 23/01/2026
-- 🦩 [Nhạc sĩ Trần Tiến ra sách để “chuộc lỗi” với bản thân](https://www.sggp.org.vn/nhac-si-tran-tien-ra-sach-de-chuoc-loi-voi-ban-than-post834918.html) - 09:04 23/01/2026
-- 🫶 [Đồng Nai: Hơn 1.700 đơn vị công nợ tiền điện](https://www.sggp.org.vn/dong-nai-hon-1700-don-vi-cong-no-tien-dien-post834895.html) - 09:04 23/01/2026<!-- sggp:END -->
+- 🪜 [Thông báo về điện mừng Đại hội XIV của Đảng](https://www.sggp.org.vn/thong-bao-ve-dien-mung-dai-hoi-xiv-cua-dang-post835000.html) - 16:03 23/01/2026
+- 🌝 [Rực rỡ pháo hoa chào mừng thành công của Đại hội XIV](https://www.sggp.org.vn/ruc-ro-phao-hoa-chao-mung-thanh-cong-cua-dai-hoi-xiv-post834997.html) - 15:24 23/01/2026
+- 💃 [Hội thi thuyết minh viên “Hành trình các di tích lịch sử, di sản văn hóa tại địa phương”](https://www.sggp.org.vn/hoi-thi-thuyet-minh-vien-hanh-trinh-cac-di-tich-lich-su-di-san-van-hoa-tai-dia-phuong-post834995.html) - 13:55 23/01/2026
+- 🧑‍💻 [Tổng Bí thư Tô Lâm: Sự nghiệp đổi mới còn phải tiếp tục](https://www.sggp.org.vn/tong-bi-thu-to-lam-su-nghiep-doi-moi-con-phai-tiep-tuc-post834987.html) - 13:08 23/01/2026
+- 🌊 [Podcast bản tin tối 23-1: Từ ngày 24-1, miền Bắc ấm dần và duy trì đến hết tháng 1](https://www.sggp.org.vn/podcast-ban-tin-toi-23-1-tu-ngay-24-1-mien-bac-am-dan-va-duy-tri-den-het-thang-1-post834994.html) - 13:05 23/01/2026
+- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith sắp thăm cấp Nhà nước tới Việt Nam](https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-lao-thongloun-sisoulith-sap-tham-cap-nha-nuoc-toi-viet-nam-post834992.html) - 13:01 23/01/2026
+- ⛽️ [Bản tin tối 23-1: Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/ban-tin-toi-23-1-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834993.html) - 13:00 23/01/2026
+- 😎 [Sôi nổi Hội thi karaoke “Mừng Đảng - Mừng Xuân” ở phường Tân Sơn Hòa](https://www.sggp.org.vn/soi-noi-hoi-thi-karaoke-mung-dang-mung-xuan-o-phuong-tan-son-hoa-post834991.html) - 12:41 23/01/2026
+- 🌜 [Kỳ vọng vào nhiệm kỳ mới](https://www.sggp.org.vn/ky-vong-vao-nhiem-ky-moi-post834972.html) - 12:20 23/01/2026
+- 💻 [Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834990.html) - 12:11 23/01/2026
+- 👍 [Vĩnh Long: 2 kịch bản ứng phó hạn mặn trong mùa khô 2025 - 2026](https://www.sggp.org.vn/vinh-long-2-kich-ban-ung-pho-han-man-trong-mua-kho-2025-2026-post834988.html) - 11:57 23/01/2026
+- 🦆 [Gia Lai: Trao tiền hỗ trợ đợt 2 cho anh Hồ Thanh Sĩ](https://www.sggp.org.vn/gia-lai-trao-tien-ho-tro-dot-2-cho-anh-ho-thanh-si-post834919.html) - 11:48 23/01/2026
+- 🦩 [Tiểu sử đồng chí Lương Tam Quang](https://www.sggp.org.vn/tieu-su-dong-chi-luong-tam-quang-post834743.html) - 11:15 23/01/2026
+- 🥰 [Tiếp lửa tình yêu biển, đảo cho hơn 2.700 học sinh](https://www.sggp.org.vn/tiep-lua-tinh-yeu-bien-dao-cho-hon-2700-hoc-sinh-post834984.html) - 11:14 23/01/2026
+- 🎬 [Tiểu sử đồng chí Đỗ Văn Chiến](https://www.sggp.org.vn/tieu-su-dong-chi-do-van-chien-post834703.html) - 11:05 23/01/2026
+- 🦩 [TPHCM đẩy nhanh chỉnh trang 9 khu đất phục vụ tết](https://www.sggp.org.vn/tphcm-day-nhanh-chinh-trang-9-khu-dat-phuc-vu-tet-post834978.html) - 11:05 23/01/2026
+- 🌮 [Tiểu sử đồng chí Bùi Thị Minh Hoài](https://www.sggp.org.vn/tieu-su-dong-chi-bui-thi-minh-hoai-post834726.html) - 11:02 23/01/2026
+- 👍 [Cứu thành công 11 người dân thoát khỏi đám cháy khi đang ngủ](https://www.sggp.org.vn/cuu-thanh-cong-11-nguoi-dan-thoat-khoi-dam-chay-khi-dang-ngu-post834979.html) - 10:52 23/01/2026
+- 🦒 [Tiểu sử đồng chí Lê Minh Trí](https://www.sggp.org.vn/tieu-su-dong-chi-le-minh-tri-post834778.html) - 10:50 23/01/2026
+- 🤡 [Tiểu sử đồng chí Trần Thanh Mẫn](https://www.sggp.org.vn/tieu-su-dong-chi-tran-thanh-man-post834714.html) - 10:45 23/01/2026
+- 🐎 [Tiểu sử đồng chí Phan Văn Giang](https://www.sggp.org.vn/tieu-su-dong-chi-phan-van-giang-post834740.html) - 10:37 23/01/2026
+- 🦆 [Tiểu sử đồng chí Trần Lưu Quang](https://www.sggp.org.vn/tieu-su-dong-chi-tran-luu-quang-post834775.html) - 10:36 23/01/2026
+- 🦅 [Tổng Bí thư Tô Lâm: Ban Chấp hành Trung ương Đảng khóa XIV sẽ làm việc bằng tinh thần nêu gương cao nhất](https://www.sggp.org.vn/tong-bi-thu-to-lam-ban-chap-hanh-trung-uong-dang-khoa-xiv-se-lam-viec-bang-tinh-than-neu-guong-cao-nhat-post834983.html) - 10:30 23/01/2026
+- 🫣 [Thái Lan và Mỹ sẽ tổ chức tập trận chung Hổ mang vàng 2026](https://www.sggp.org.vn/thai-lan-va-my-se-to-chuc-tap-tran-chung-ho-mang-vang-2026-post834973.html) - 10:29 23/01/2026
+- 🎭 [Thông qua Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng](https://www.sggp.org.vn/thong-qua-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post834971.html) - 10:28 23/01/2026
+- 🫶 [Giá vàng nhẫn 9999 chiều 23-1 “hạ nhiệt”](https://www.sggp.org.vn/gia-vang-nhan-9999-chieu-23-1-ha-nhiet-post834975.html) - 10:26 23/01/2026
+- 🎓 [Niềm tin từ cơ sở, mong chính sách sát thực tiễn](https://www.sggp.org.vn/niem-tin-tu-co-so-mong-chinh-sach-sat-thuc-tien-post834948.html) - 10:20 23/01/2026
+- 🤡 [Tiểu sử đồng chí Lê Minh Hưng](https://www.sggp.org.vn/tieu-su-dong-chi-le-minh-hung-post834733.html) - 10:15 23/01/2026
+- 🦅 [Tỉnh Đồng Nai tăng cường chăm lo tết cho người dân](https://www.sggp.org.vn/tinh-dong-nai-tang-cuong-cham-lo-tet-cho-nguoi-dan-post834902.html) - 10:07 23/01/2026
+- 🧑‍🏫 [Tiểu sử đồng chí Lê Hoài Trung](https://www.sggp.org.vn/tieu-su-dong-chi-le-hoai-trung-post834777.html) - 10:06 23/01/2026
+- 🕴 [Tiểu sử đồng chí Trần Cẩm Tú](https://www.sggp.org.vn/tieu-su-dong-chi-tran-cam-tu-post834704.html) - 10:03 23/01/2026
+- 🦆 [Đại hội đại biểu toàn quốc lần thứ XIV của Đảng thành công rất tốt đẹp](https://www.sggp.org.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-thanh-cong-rat-tot-dep-post834967.html) - 10:01 23/01/2026
+- 🎃 [Bản tin 17 giờ 23-1: Đồng chí Tô Lâm giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIV](https://www.sggp.org.vn/ban-tin-17-gio-23-1-dong-chi-to-lam-giu-chuc-tong-bi-thu-ban-chap-hanh-trung-uong-dang-khoa-xiv-post834977.html) - 10:00 23/01/2026
+- 🌮 [Podcast bản tin 17 giờ 23-1: “Đại tiệc” nghệ thuật và pháo hoa đặc biệt mừng thành công Đại hội XIV của Đảng, sẽ diễn ra vào tối nay 23-1](https://www.sggp.org.vn/podcast-ban-tin-17-gio-23-1-dai-tiec-nghe-thuat-va-phao-hoa-dac-biet-mung-thanh-cong-dai-hoi-xiv-cua-dang-se-dien-ra-vao-toi-nay-23-1-post834981.html) - 10:00 23/01/2026
+- 🥰 [Tây Ninh: Giải quyết tình trạng thiếu nguồn nước sinh hoạt](https://www.sggp.org.vn/tay-ninh-giai-quyet-tinh-trang-thieu-nguon-nuoc-sinh-hoat-post834925.html) - 09:58 23/01/2026
+- 🕯 [Danh sách Ủy ban Kiểm tra Trung ương khóa XIV](https://www.sggp.org.vn/danh-sach-uy-ban-kiem-tra-trung-uong-khoa-xiv-post834957.html) - 09:58 23/01/2026
+- 🙉 [Trang bị phương tiện cấp cứu ngừng tim ở các nhà ga tuyến Metro số 1](https://www.sggp.org.vn/trang-bi-phuong-tien-cap-cuu-ngung-tim-o-cac-nha-ga-tuyen-metro-so-1-post834970.html) - 09:56 23/01/2026
+- 💡 [Đề xuất bổ sung, sửa đổi Điều lệ Đảng tại Đại hội XV](https://www.sggp.org.vn/de-xuat-bo-sung-sua-doi-dieu-le-dang-tai-dai-hoi-xv-post834960.html) - 09:50 23/01/2026
+- 💫 [Số ca đột quỵ tăng cao khi thời tiết chuyển lạnh](https://www.sggp.org.vn/so-ca-dot-quy-tang-cao-khi-thoi-tiet-chuyen-lanh-post834969.html) - 09:46 23/01/2026
+- 🧑‍💻 [Tiểu sử đồng chí Đoàn Minh Huấn](https://www.sggp.org.vn/tieu-su-dong-chi-doan-minh-huan-post834797.html) - 09:40 23/01/2026
+- 🎊 [Tiểu sử đồng chí Phạm Gia Túc](https://www.sggp.org.vn/tieu-su-dong-chi-pham-gia-tuc-post834801.html) - 09:39 23/01/2026
+- 🤖 [Tiểu sử đồng chí Nguyễn Duy Ngọc](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-duy-ngoc-post834772.html) - 09:39 23/01/2026
+- 💫 [Tiểu sử đồng chí Nguyễn Trọng Nghĩa](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-trong-nghia-post834773.html) - 09:39 23/01/2026
+- 👨‍🏫 [Tiểu sử đồng chí Trần Đức Thắng](https://www.sggp.org.vn/tieu-su-dong-chi-tran-duc-thang-post834793.html) - 09:38 23/01/2026
+- 🧰 [Mang xuân yêu thương đến với học sinh chuyên biệt](https://www.sggp.org.vn/mang-xuan-yeu-thuong-den-voi-hoc-sinh-chuyen-biet-post834962.html) - 09:36 23/01/2026
+- 🥰 [Bế mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng](https://www.sggp.org.vn/be-mac-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post834965.html) - 09:33 23/01/2026
+- 💼 [Tiểu sử đồng chí Nguyễn Thanh Nghị](https://www.sggp.org.vn/tieu-su-dong-chi-nguyen-thanh-nghi-post834787.html) - 09:33 23/01/2026
+- 🤗 [Tiểu sử đồng chí Trịnh Văn Quyết](https://www.sggp.org.vn/tieu-su-dong-chi-trinh-van-quyet-post834784.html) - 09:31 23/01/2026
+- 🦩 [Giá vàng nhẫn 9999 chiều 23-1 “hạ nhiệt”](https://www.sggp.org.vn/gia-vang-nhan-9999-chieu-23-1-ha-nhiet-post834963.html) - 09:20 23/01/2026
+- 🫶 [Nhạc sĩ Trần Tiến ra sách để “chuộc lỗi” với bản thân](https://www.sggp.org.vn/nhac-si-tran-tien-ra-sach-de-chuoc-loi-voi-ban-than-post834918.html) - 09:04 23/01/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
