@@ -4,11 +4,11 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Truy sát người tình vì níu kéo tình cảm bất thành](https://vnexpress.net/truy-sat-nguoi-tinh-vi-niu-keo-tinh-cam-bat-thanh-5009098.html) - 05:02 23/01/2026
-- 🥰 [Vu cáo cảnh sát Anh hiếp dâm, nữ sinh lộ nói dối vì không biết bị ghi âm](https://vnexpress.net/vu-cao-canh-sat-anh-hiep-dam-nu-sinh-lo-noi-doi-vi-khong-biet-bi-ghi-am-5009006.html) - 03:49 23/01/2026
-- 🎓 [Chủ mưu vụ cấp 218.000 phiếu thử nghiệm giả bị đề nghị 22-24 năm tù](https://vnexpress.net/chu-muu-vu-cap-218-000-phieu-thu-nghiem-gia-bi-de-nghi-22-24-nam-tu-5008980.html) - 03:20 23/01/2026
-- 🤓 [Gia chủ có quyền gì với phần vỉa hè, mặt đường trước cửa nhà?](https://vnexpress.net/gia-chu-co-quyen-gi-voi-phan-via-he-mat-duong-truoc-cua-nha-5008890.html) - 02:46 23/01/2026
-- 🎊 [Du khách quẹt nhầm thẻ 300 triệu đồng, được công an hỗ trợ nhận lại](https://vnexpress.net/du-khach-quet-nham-the-300-trieu-dong-duoc-cong-an-ho-tro-nhan-lai-5008939.html) - 01:58 23/01/2026
+- 😎 [Được minh oan sau 70 năm bị hành quyết vì tội giết người](https://vnexpress.net/duoc-minh-oan-sau-70-nam-bi-hanh-quyet-vi-toi-giet-nguoi-5009115.html) - 05:40 23/01/2026
+- 🥰 [Truy sát người tình vì níu kéo tình cảm bất thành](https://vnexpress.net/truy-sat-nguoi-tinh-vi-niu-keo-tinh-cam-bat-thanh-5009098.html) - 05:02 23/01/2026
+- 🎓 [Vu cáo cảnh sát Anh hiếp dâm, nữ sinh lộ nói dối vì không biết bị ghi âm](https://vnexpress.net/vu-cao-canh-sat-anh-hiep-dam-nu-sinh-lo-noi-doi-vi-khong-biet-bi-ghi-am-5009006.html) - 03:49 23/01/2026
+- 🤓 [Chủ mưu vụ cấp 218.000 phiếu thử nghiệm giả bị đề nghị 22-24 năm tù](https://vnexpress.net/chu-muu-vu-cap-218-000-phieu-thu-nghiem-gia-bi-de-nghi-22-24-nam-tu-5008980.html) - 03:20 23/01/2026
+- 🎊 [Gia chủ có quyền gì với phần vỉa hè, mặt đường trước cửa nhà?](https://vnexpress.net/gia-chu-co-quyen-gi-voi-phan-via-he-mat-duong-truoc-cua-nha-5008890.html) - 02:46 23/01/2026
 - 🙉 [Lịch sử 800 năm của áo choàng luật sư tại phiên tòa](https://vnexpress.net/lich-su-800-nam-cua-ao-choang-luat-su-tai-phien-toa-5008844.html) - 22:00 22/01/2026
 - 🤡 [Manh mối lạ giải mã vụ dàn dựng thi thể cháy đen kẹt dưới gầm ôtô](https://vnexpress.net/manh-moi-la-giai-ma-vu-dan-dung-thi-the-chay-den-ket-duoi-gam-oto-5008802.html) - 17:03 22/01/2026
 - 🗽 [Đoạt mạng cậu ruột vì mâu thuẫn bán đất hương hỏa](https://vnexpress.net/doat-mang-cau-ruot-vi-mau-thuan-ban-dat-huong-hoa-5008847.html) - 17:01 22/01/2026
