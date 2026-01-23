@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Đình Bắc đồng dẫn đầu cuộc đua Vua phá lưới U23 châu Á](https://vnexpress.net/dinh-bac-dong-dan-dau-cuoc-dua-vua-pha-luoi-u23-chau-a-5009342.html) - 18:54 23/01/2026
 - 🤗 [HLV Hàn Quốc chán nản khi thua Việt Nam](https://vnexpress.net/hlv-han-quoc-chan-nan-khi-thua-viet-nam-5009341.html) - 18:33 23/01/2026
 - 🥳 [Việt Nam lần đầu thắng Hàn Quốc ở cấp U23](https://vnexpress.net/viet-nam-lan-dau-thang-han-quoc-o-cap-u23-5009343.html) - 18:28 23/01/2026
-- 🦣 [Việt Nam thắng Hàn Quốc, giành giải ba U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-han-quoc-5009317.html) - 13:41 23/01/2026
+- 🦣 [Việt Nam thắng Hàn Quốc, giành giải ba U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-han-quoc-5009317-tong-thuat.html) - 13:41 23/01/2026
 - 🌜 [Alcaraz vượt &#39;Big 3&#39; ở Grand Slam](https://vnexpress.net/alcaraz-vuot-big-3-o-grand-slam-5009291.html) - 11:54 23/01/2026
 - 🫶 [Tien gặp lại Medvedev ở Australia Mở rộng](https://vnexpress.net/tien-gap-lai-medvedev-o-australia-mo-rong-5009304.html) - 11:53 23/01/2026
 - 🌜 [Báo Hàn Quốc: ‘Hậu quả lớn nếu thua Việt Nam ở U23 châu Á’](https://vnexpress.net/bao-han-quoc-hau-qua-lon-neu-thua-viet-nam-o-u23-chau-a-5009285.html) - 11:09 23/01/2026
