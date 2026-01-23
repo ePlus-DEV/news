@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [12 nhân sự lần đầu tham gia Bộ Chính trị, Ban Bí thư](https://vnexpress.net/12-nhan-su-lan-dau-tham-gia-bo-chinh-tri-ban-bi-thu-5009331.html) - 17:00 23/01/2026
 - 🤓 [Xây cầu vượt giảm kẹt xe đường vào cầu Rạch Miễu 2](https://vnexpress.net/xay-cau-vuot-giam-ket-xe-duong-vao-cau-rach-mieu-2-5009297.html) - 17:00 23/01/2026
 - ⚗️ [Lao động tăng di cư trong vùng, tìm việc làm gần nhà](https://vnexpress.net/lao-dong-tang-di-cu-trong-vung-tim-viec-lam-gan-nha-5009247.html) - 17:00 23/01/2026
-- 🌊 [Người hâm mộ tiếc nuối khi U23 Việt Nam &#39;đánh rơi&#39; chiến thắng](https://vnexpress.net/nguoi-ham-mo-tiec-nuoi-khi-u23-viet-nam-danh-roi-chien-thang-5009323.html) - 16:49 23/01/2026
+- 🌊 [Người hâm mộ vỡ oà U23 Việt Nam thắng Hàn Quốc ở loạt luân lưu](https://vnexpress.net/nguoi-ham-mo-vo-oa-u23-viet-nam-thang-han-quoc-o-loat-luan-luu-5009323.html) - 16:49 23/01/2026
 - 🎓 [10.000 quả pháo hoa thắp sáng bầu trời Hà Nội](https://vnexpress.net/10-000-qua-phao-hoa-thap-sang-bau-troi-ha-noi-5009306.html) - 16:03 23/01/2026
 - 🔥 [6 ôtô tông liên hoàn trên cao tốc TP HCM - Trung Lương](https://vnexpress.net/6-oto-tong-lien-hoan-tren-cao-toc-tp-hcm-trung-luong-5009316.html) - 13:10 23/01/2026
 - 🦏 [Chương trình nghệ thuật và pháo hoa chào mừng thành công Đại hội Đảng](https://vnexpress.net/chuong-trinh-nghe-thuat-va-phao-hoa-chao-mung-thanh-cong-dai-hoi-dang-5008989.html) - 11:52 23/01/2026
