@@ -412,7 +412,7 @@ ngoài việc phải nâng cao đời sống nhân dân](https://nld.com.vn/tong
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng gửi thư chúc mừng chiến thắng của Đội tuyển bóng đá nam U23 Quốc gia Việt Nam](https://baochinhphu.vn/thu-tuong-gui-thu-chuc-mung-chien-thang-cua-doi-tuyen-bong-da-nam-u23-quoc-gia-viet-nam-102260124033730887.htm) - 03:20 24/01/2026
+- 💻 [Thủ tướng gửi thư chúc mừng chiến thắng của Đội tuyển bóng đá nam U23 Việt Nam](https://baochinhphu.vn/thu-tuong-gui-thu-chuc-mung-chien-thang-cua-doi-tuyen-bong-da-nam-u23-quoc-gia-viet-nam-102260124033730887.htm) - 03:20 24/01/2026
 - 🌜 [Truyền thông các nước viết về chiến thắng của U23 Việt Nam trước U23 Hàn Quốc](https://baochinhphu.vn/truyen-thong-cac-nuoc-viet-ve-chien-thang-cua-u23-viet-nam-truoc-u23-han-quoc-102260124021841354.htm) - 02:18 24/01/2026
 - 🦆 [U23 Việt Nam thắng U23 Hàn Quốc ở loạt đá luân lưu, giành hạng ba châu Á](https://baochinhphu.vn/truc-tiep-tran-u23-viet-nam-u23-han-quoc-22h-23-1-so-sanh-can-can-luc-luong-102260122085452056.htm) - 00:30 24/01/2026
 - 🌝 [‘Dưới lá cờ vẻ vang của Đảng’ chào mừng thành công Đại hội XIV của Đảng](https://baochinhphu.vn/duoi-la-co-ve-vang-cua-dang-chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-102260123223857584.htm) - 22:30 23/01/2026
