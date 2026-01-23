@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [19 ủy viên Bộ Chính trị khóa XIV](https://vnexpress.net/19-uy-vien-bo-chinh-tri-khoa-xiv-5009091.html) - 07:22 23/01/2026
 - 🔥 [Trung ương nghe báo cáo phương án chức danh lãnh đạo chủ chốt Đảng, Nhà nước](https://vnexpress.net/trung-uong-nghe-bao-cao-phuong-an-chuc-danh-lanh-dao-chu-chot-dang-nha-nuoc-5009159.html) - 07:06 23/01/2026
 - 🦏 [Đề nghị nghiên cứu sửa Điều lệ Đảng ngay sau Đại hội XIV](https://vnexpress.net/be-mac-dai-hoi-dang-xiv-5009125-tong-thuat.html) - 07:00 23/01/2026
-- 👺 [Ông Tô Lâm tái đắc cử Tổng Bí thư](https://vnexpress.net/ong-to-lam-tai-dac-cu-tong-bi-thu-5009026.html) - 06:54 23/01/2026
+- 👺 [Tổng Bí thư Tô Lâm tái đắc cử](https://vnexpress.net/tong-bi-thu-to-lam-tai-dac-cu-5009026.html) - 06:54 23/01/2026
 - 🧑‍🏫 [Xe ben kéo sập cổng chào, hai người tử vong](https://vnexpress.net/xe-ben-keo-sap-cong-chao-hai-nguoi-tu-vong-5009130.html) - 06:00 23/01/2026
 - 🚦 [Nhiều chuyến bay từ TP HCM đi miền Trung dịp Tết kín chỗ](https://vnexpress.net/nhieu-chuyen-bay-tu-tp-hcm-di-mien-trung-dip-tet-kin-cho-5009112.html) - 05:53 23/01/2026
 - 🎉 [Cơ cấu Trung ương khóa XIV](https://vnexpress.net/co-cau-trung-uong-khoa-xiv-5008982.html) - 02:30 23/01/2026
