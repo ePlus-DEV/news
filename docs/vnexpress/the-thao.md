@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam 1-0 Hàn Quốc &lpar;H2&rpar;: Quốc Việt ghi bàn](https://vnexpress.net/truc-tiep-viet-nam-vs-han-quoc-5009317.html) - 13:41 23/01/2026
+- 🪜 [Việt Nam 2-2 Hàn Quốc &lpar;hết hiệp phụ&rpar;: Loạt sút luân lưu](https://vnexpress.net/truc-tiep-viet-nam-vs-han-quoc-5009317.html) - 13:41 23/01/2026
 - 🦩 [Alcaraz vượt &#39;Big 3&#39; ở Grand Slam](https://vnexpress.net/alcaraz-vuot-big-3-o-grand-slam-5009291.html) - 11:54 23/01/2026
 - 🧰 [Tien gặp lại Medvedev ở Australia Mở rộng](https://vnexpress.net/tien-gap-lai-medvedev-o-australia-mo-rong-5009304.html) - 11:53 23/01/2026
 - 🤗 [Báo Hàn Quốc: ‘Hậu quả lớn nếu thua Việt Nam ở U23 châu Á’](https://vnexpress.net/bao-han-quoc-hau-qua-lon-neu-thua-viet-nam-o-u23-chau-a-5009285.html) - 11:09 23/01/2026
