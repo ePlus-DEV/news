@@ -412,7 +412,7 @@ ngoài việc phải nâng cao đời sống nhân dân](https://nld.com.vn/tong
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TRỰC TIẾP trận U23 Việt Nam - U23 Hàn Quốc: 1-0](https://baochinhphu.vn/truc-tiep-tran-u23-viet-nam-u23-han-quoc-22h-23-1-so-sanh-can-can-luc-luong-102260122085452056.htm) - 22:47 23/01/2026
+- 💻 [U23 Việt Nam thắng U23 Hàn Quốc ở loạt đá luân lưu, giành hạng ba châu Á](https://baochinhphu.vn/truc-tiep-tran-u23-viet-nam-u23-han-quoc-22h-23-1-so-sanh-can-can-luc-luong-102260122085452056.htm) - 00:30 24/01/2026
 - 🌜 [‘Dưới lá cờ vẻ vang của Đảng’ chào mừng thành công Đại hội XIV của Đảng](https://baochinhphu.vn/duoi-la-co-ve-vang-cua-dang-chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-102260123223857584.htm) - 22:30 23/01/2026
 - 🦆 [Thành tích nổi bật của đoàn Thể thao Người khuyết tật Việt Nam tại ASEAN Para Games 13](https://baochinhphu.vn/thanh-tich-noi-bat-cua-doan-the-thao-nguoi-khuyet-tat-viet-nam-tai-asean-para-games-13-102260123220641693.htm) - 22:15 23/01/2026
 - 🌝 [Truyền thông quốc tế lan tỏa những thông điệp lớn của Đại hội XIV của Đảng](https://baochinhphu.vn/truyen-thong-quoc-te-lan-toa-nhung-thong-diep-lon-cua-dai-hoi-xiv-cua-dang-102260123212733585.htm) - 21:11 23/01/2026
