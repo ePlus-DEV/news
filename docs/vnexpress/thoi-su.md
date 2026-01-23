@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [6 ôtô tông liên hoàn trên cao tốc TP HCM - Trung Lương](https://vnexpress.net/6-oto-tong-lien-hoan-tren-cao-toc-tp-hcm-trung-luong-5009316.html) - 13:10 23/01/2026
-- 🤓 [Chương trình nghệ thuật đặc biệt và pháo hoa chào mừng thành công Đại hội Đảng](https://vnexpress.net/chuong-trinh-nghe-thuat-dac-biet-va-phao-hoa-chao-mung-thanh-cong-dai-hoi-dang-5008989.html) - 11:52 23/01/2026
+- 🤓 [Chương trình nghệ thuật và pháo hoa chào mừng thành công Đại hội Đảng](https://vnexpress.net/chuong-trinh-nghe-thuat-va-phao-hoa-chao-mung-thanh-cong-dai-hoi-dang-5008989.html) - 11:52 23/01/2026
 - ⚗️ [&#39;Ủy viên Trung ương khóa XIV hội tụ đủ phẩm chất để gánh vác trọng trách&#39;](https://vnexpress.net/tong-bi-thu-chu-tri-hop-bao-cong-bo-ket-qua-dai-hoi-xiv-5009126.html) - 08:53 23/01/2026
 - 🌊 [Phát hiện tượng nữ thần và sư tử của người Chăm ở Gia Lai](https://vnexpress.net/phat-hien-tuong-nu-than-va-su-tu-cua-nguoi-cham-o-gia-lai-5009141.html) - 07:56 23/01/2026
 - 🎓 [3 ủy viên Trung ương được bầu vào Ban Bí thư khóa XIV](https://vnexpress.net/3-uy-vien-trung-uong-duoc-bau-vao-ban-bi-thu-khoa-xiv-5009109.html) - 07:43 23/01/2026
