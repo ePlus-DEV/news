@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam 1-0 U23 Hàn Quốc &lpar;hiệp 1&rpar;: Siêu phẩm của Quốc Việt](https://dantri.com.vn/the-thao/u23-viet-nam-1-0-u23-han-quoc-hiep-1-sieu-pham-cua-quoc-viet-20260123204704439.htm) - 13:47 23/01/2026
+- 🎡 [U23 Việt Nam 2-2 U23 Hàn Quốc &lpar;hiệp 2&rpar;: Bàn thua ở phút cuối](https://dantri.com.vn/the-thao/u23-viet-nam-2-2-u23-han-quoc-hiep-2-ban-thua-o-phut-cuoi-20260123204704439.htm) - 13:47 23/01/2026
 - 💯 [HLV U23 Trung Quốc tuyên bố mạnh mẽ trước trận chung kết gặp Nhật Bản](https://dantri.com.vn/the-thao/hlv-u23-trung-quoc-tuyen-bo-manh-me-truoc-tran-chung-ket-gap-nhat-ban-20260123195906567.htm) - 12:59 23/01/2026
 - ⛽️ [Báo Hàn Quốc: “U23 Việt Nam vượt trình độ Đông Nam Á”](https://dantri.com.vn/the-thao/bao-han-quoc-u23-viet-nam-vuot-trinh-do-dong-nam-a-20260123184316311.htm) - 12:02 23/01/2026
 - 💃 [Báo Indonesia dự đoán kết quả trận U23 Việt Nam gặp U23 Hàn Quốc](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-ket-qua-tran-u23-viet-nam-gap-u23-han-quoc-20260123123630446.htm) - 09:50 23/01/2026
