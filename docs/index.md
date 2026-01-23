@@ -72,7 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Lãnh đạo các nước chúc mừng Tổng Bí thư Tô Lâm tái đắc cử](https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-tong-bi-thu-to-lam-tai-dac-cu-5009312.html) - 14:05 23/01/2026
 - 💪 [Tôi phải vay 30 triệu tiêu Tết vì chồng đem 250 triệu đi mua vàng](https://vnexpress.net/gia-vang-hom-nay-vay-30-trieu-tieu-tet-vi-chong-dem-250-trieu-di-mua-vang-5009252.html) - 14:00 23/01/2026
 - 🧑‍🏫 [Cơn sốt bánh quy kiểu Dubai ở Hàn Quốc](https://vnexpress.net/con-sot-banh-quy-kieu-dubai-o-han-quoc-5009240.html) - 13:47 23/01/2026
-- 🎓 [Việt Nam thắng Hàn Quốc, giành giải ba U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-han-quoc-5009317.html) - 13:41 23/01/2026
+- 🎓 [Việt Nam thắng Hàn Quốc, giành giải ba U23 châu Á](https://vnexpress.net/ket-qua-viet-nam-vs-han-quoc-5009317-tong-thuat.html) - 13:41 23/01/2026
 - 💫 [Bệnh viện Bạch Mai lo thiếu máu cấp cứu dịp Tết](https://vnexpress.net/benh-vien-bach-mai-lo-thieu-mau-cap-cuu-dip-tet-5009311.html) - 13:31 23/01/2026
 - 🤩 [5 bác sĩ, cán bộ y tế bị khởi tố](https://vnexpress.net/5-bac-si-can-bo-y-te-bi-khoi-to-5009315.html) - 13:21 23/01/2026
 - 🏊 [Cầu cao nhất thế giới nằm ở nước nào?](https://vnexpress.net/cau-cao-nhat-the-gioi-nam-o-nuoc-nao-5009300.html) - 13:20 23/01/2026
