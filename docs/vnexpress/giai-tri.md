@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nghệ sĩ biểu diễn chào mừng Đại hội XIV](https://vnexpress.net/nghe-si-bieu-dien-chao-mung-dai-hoi-xiv-5009332.html) - 17:36 23/01/2026
+- 🌏 [Nghệ sĩ biểu diễn chào mừng Đại hội Đảng](https://vnexpress.net/nghe-si-bieu-dien-chao-mung-dai-hoi-dang-5009332.html) - 17:36 23/01/2026
 - 💫 [Lối trang điểm &#39;kẹo ngọt&#39; của Á hậu Phương Nhi ở lễ cưới](https://vnexpress.net/loi-trang-diem-keo-ngot-cua-a-hau-phuong-nhi-o-le-cuoi-5009204.html) - 17:00 23/01/2026
 - 🌮 [Trương Mạn Ngọc sống gần thiên nhiên](https://vnexpress.net/truong-man-ngoc-song-gan-thien-nhien-5009209.html) - 12:00 23/01/2026
 - 🧠 [Hòa Minzy - từ định giải nghệ đến giấc mơ làm concert](https://vnexpress.net/hoa-minzy-tu-dinh-giai-nghe-den-giac-mo-lam-concert-5009295.html) - 12:00 23/01/2026
