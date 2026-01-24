@@ -72,7 +72,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Da tổn thương do &#39;nghiện corticoid&#39;](https://vnexpress.net/da-ton-thuong-do-nghien-corticoid-5009451.html) - 06:00 24/01/2026
 - 💪 [Ngưng thở khi ngủ có gây rối loạn lo âu không?](https://vnexpress.net/ngung-tho-khi-ngu-co-gay-roi-loan-lo-au-khong-5009363.html) - 06:00 24/01/2026
 - 🧑‍🏫 [USPS dự kiến mở rộng yêu cầu khai báo kích thước kiện hàng](https://vnexpress.net/usps-du-kien-mo-rong-yeu-cau-khai-bao-kich-thuoc-kien-hang-5007271.html) - 06:00 24/01/2026
-- 🎓 [Cụ ông 81 tuổi vượt trăm km mỗi ngày để được nắm tay vợ](https://vnexpress.net/cu-ong-81-tuoi-vuot-tram-km-moi-ngay-de-duoc-nam-tay-vo-5009433.html) - 05:58 24/01/2026<!-- vnexpress:END -->
+- 🎓 [Cụ ông 81 tuổi vượt trăm km mỗi ngày để được nắm tay vợ](https://vnexpress.net/cu-ong-81-tuoi-vuot-tram-km-moi-ngay-de-duoc-nam-tay-vo-5009433.html) - 05:58 24/01/2026
+- 💫 [Chi Bảo giao lưu ngôi sao pickleball Lý Hoàng Nam](https://vnexpress.net/chi-bao-giao-luu-ngoi-sao-pickleball-ly-hoang-nam-5009466.html) - 05:54 24/01/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
