@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy căn hộ chung cư ở TP HCM, ba mẹ con bỏng nặng](https://vnexpress.net/chay-can-ho-chung-cu-o-tp-hcm-ba-me-con-bong-nang-5009411.html) - 02:56 24/01/2026
-- 🤓 [Tiểu sử 19 Ủy viên Bộ Chính trị và 200 Ủy viên Trung ương khoá XIV](https://vnexpress.net/tieu-su-19-uy-vien-bo-chinh-tri-va-200-uy-vien-trung-uong-khoa-xiv-5008899.html) - 02:50 24/01/2026
+- 🦒 [Cháy căn hộ chung cư ở TP HCM, ba mẹ con nguy kịch](https://vnexpress.net/chay-can-ho-chung-cu-o-tp-hcm-ba-me-con-nguy-kich-5009411.html) - 02:56 24/01/2026
+- 🤓 [Tiểu sử Ủy viên Bộ Chính trị và Ủy viên Trung ương khoá XIV](https://vnexpress.net/tieu-su-uy-vien-bo-chinh-tri-va-uy-vien-trung-uong-khoa-xiv-5008899.html) - 02:50 24/01/2026
 - ⚗️ [Miền Bắc tăng nhiệt](https://vnexpress.net/mien-bac-tang-nhiet-5009378.html) - 02:06 24/01/2026
 - 🌊 [Tăng sức cạnh tranh của nền kinh tế bằng khoa học và công nghệ](https://vnexpress.net/tang-suc-canh-tranh-cua-nen-kinh-te-bang-khoa-hoc-va-cong-nghe-5009275.html) - 23:00 23/01/2026
 - 🎓 [Khu &#39;đất vàng&#39; bỏ hoang thành công viên ở trung tâm TP HCM](https://vnexpress.net/khu-dat-vang-bo-hoang-thanh-cong-vien-o-trung-tam-tp-hcm-5009189.html) - 23:00 23/01/2026
