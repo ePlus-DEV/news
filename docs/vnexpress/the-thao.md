@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chung kết U23 châu Á: Trung Quốc 0-0 Nhật Bản &lpar;H1&rpar;](https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html) - 14:19 24/01/2026
+- 🪜 [Trung Quốc 0-2 Nhật Bản &lpar;H1&rpar;: Liên tiếp đánh bại Li Hao](https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html) - 14:19 24/01/2026
 - 🦩 [Wawrinka giã từ Australia Mở rộng](https://vnexpress.net/wawrinka-gia-tu-australia-mo-rong-5009566.html) - 14:07 24/01/2026
 - 🧰 [Djokovic suýt bị truất quyền thi đấu ở Australia Mở rộng 2026](https://vnexpress.net/djokovic-suyt-bi-truat-quyen-thi-dau-o-australia-mo-rong-2026-5009558.html) - 12:38 24/01/2026
 - 🤗 [Mái che cứu Sinner ở Australia Mở rộng](https://vnexpress.net/mai-che-cuu-sinner-o-australia-mo-rong-5009542.html) - 10:28 24/01/2026
