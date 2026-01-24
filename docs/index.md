@@ -73,8 +73,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Mỹ công bố Chiến lược Quốc phòng mới](https://vnexpress.net/my-cong-bo-chien-luoc-quoc-phong-moi-5009423.html) - 05:10 24/01/2026
 - 🧑‍🏫 [TP HCM mở đường sách Tết Bính Ngọ ở 3 điểm](https://vnexpress.net/tp-hcm-mo-duong-sach-tet-binh-ngo-o-3-diem-5009455.html) - 05:09 24/01/2026
 - 🎓 [Quốc gia duy nhất Đông Nam Á có chữ trên quốc kỳ](https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-duy-nhat-dong-nam-a-co-chu-tren-quoc-ky-5008284.html) - 05:00 24/01/2026
-- 💫 [PNJ: Nữ trang dần thay thế vàng miếng dịp Tết](https://vnexpress.net/pnj-nu-trang-dan-thay-the-vang-mieng-dip-tet-5009459.html) - 05:00 24/01/2026
-- 🤩 [Dấu hiệu cảnh báo viêm khớp cùng chậu](https://vnexpress.net/dau-hieu-canh-bao-viem-khop-cung-chau-5009431.html) - 05:00 24/01/2026<!-- vnexpress:END -->
+- 💫 [PNJ: Nữ trang dần thay thế vàng miếng dịp Tết](https://vnexpress.net/pnj-nu-trang-dan-thay-the-vang-mieng-dip-tet-5009459.html) - 05:00 24/01/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
