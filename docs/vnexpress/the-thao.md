@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Mái che cứu Sinner ở Australia Mở rộng](https://vnexpress.net/mai-che-cuu-sinner-o-australia-mo-rong-5009542.html) - 10:28 24/01/2026
 - 🦩 [Mặc đúng cách khi chạy bộ dưới trời rét đậm](https://vnexpress.net/mac-dung-cach-khi-chay-bo-duoi-troi-ret-dam-5009522.html) - 09:08 24/01/2026
 - 🧰 [Báo Indonesia: &#39;U23 Việt Nam nỗ lực phi thường&#39;](https://vnexpress.net/bao-indonesia-u23-viet-nam-no-luc-phi-thuong-5009468.html) - 07:30 24/01/2026
-- 🤗 [Báo Hàn Quốc gọi trận thua Việt Nam là ‘thảm họa nhục nhã’](https://vnexpress.net/bao-han-quoc-goi-tran-thua-viet-nam-la-tham-hoa-nhuc-nha-5009479.html) - 06:48 24/01/2026
+- 🤗 [Báo Hàn Quốc gọi trận thua Việt Nam là &#39;thảm họa nhục nhã&#39;](https://vnexpress.net/bao-han-quoc-goi-tran-thua-viet-nam-la-tham-hoa-nhuc-nha-5009479.html) - 06:48 24/01/2026
 - 🥳 [Đình Bắc nguy cơ bị treo giò tại Asian Cup 2027](https://vnexpress.net/dinh-bac-nguy-co-bi-treo-gio-tai-asian-cup-2027-5009438.html) - 04:15 24/01/2026
 - 🦣 [Cầu thủ Việt Nam &#39;bắt bài&#39; Hàn Quốc ở lượt luân lưu quyết định](https://vnexpress.net/cau-thu-viet-nam-bat-bai-han-quoc-o-luot-luan-luu-quyet-dinh-5009398.html) - 02:26 24/01/2026
 - 🌜 [Arteta dè chừng Man Utd khó lường dưới thời Carrick](https://vnexpress.net/arteta-de-chung-man-utd-kho-luong-duoi-thoi-carrick-5009352.html) - 00:14 24/01/2026
