@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Trung Quốc 0-0 U23 Nhật Bản: Trận chung kết để đời](https://dantri.com.vn/the-thao/u23-trung-quoc-0-0-u23-nhat-ban-tran-chung-ket-de-doi-20260124210639749.htm) - 14:06 24/01/2026
+- 🎡 [U23 Trung Quốc 0-0 U23 Nhật Bản &lpar;hiệp 1&rpar;: Li Hao cứu bàn thua trông thấy](https://dantri.com.vn/the-thao/u23-trung-quoc-0-0-u23-nhat-ban-hiep-1-li-hao-cuu-ban-thua-trong-thay-20260124210639749.htm) - 14:16 24/01/2026
 - 💯 [Djokovic chạm mốc lịch sử 400 trận thắng tại Grand Slam](https://dantri.com.vn/the-thao/djokovic-cham-moc-lich-su-400-tran-thang-tai-grand-slam-20260124203440958.htm) - 13:35 24/01/2026
 - ⛽️ [Sinner thoát hiểm ngoạn mục nhờ mái che tại Australian Open](https://dantri.com.vn/the-thao/sinner-thoat-hiem-ngoan-muc-nho-mai-che-tai-australian-open-20260124201738322.htm) - 13:19 24/01/2026
 - 💃 [U23 Việt Nam về nước trong vòng tay ấm áp của người hâm mộ](https://dantri.com.vn/the-thao/u23-viet-nam-ve-nuoc-trong-vong-tay-am-ap-cua-nguoi-ham-mo-20260124194039906.htm) - 12:41 24/01/2026
