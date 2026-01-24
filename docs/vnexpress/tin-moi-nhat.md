@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [HLV Kim cùng CĐV hát &#39;Việt Nam, Hồ Chí Minh&#39;](https://vnexpress.net/hlv-kim-cung-cdv-hat-viet-nam-ho-chi-minh-5009583.html) - 15:30 24/01/2026
+- 🎬 [HLV Kim cùng CĐV hát &#39;Việt Nam Hồ Chí Minh&#39;](https://vnexpress.net/hlv-kim-cung-cdv-hat-viet-nam-ho-chi-minh-5009583.html) - 15:30 24/01/2026
 - 🐎 [Ông Trump dọa áp thuế 100% với Canada](https://vnexpress.net/ong-trump-doa-ap-thue-100-voi-canada-5009582.html) - 15:24 24/01/2026
 - 🦍 [Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm](https://vnexpress.net/tong-thong-putin-dien-dam-voi-tong-bi-thu-to-lam-5009584.html) - 15:19 24/01/2026
 - 🏊 [VinFast nhận cú đúp giải thưởng tại Ấn Độ](https://vnexpress.net/vinfast-nhan-cu-dup-giai-thuong-tai-an-do-5009568.html) - 15:00 24/01/2026
@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [6 nhà hàng Việt nổi tiếng ở nước ngoài đóng cửa gây tiếc nuối](https://vnexpress.net/6-nha-hang-viet-noi-tieng-o-nuoc-ngoai-dong-cua-gay-tiec-nuoi-5009511.html) - 14:46 24/01/2026
 - 🧰 [Dép Crocs hình viên gạch Lego](https://vnexpress.net/dep-crocs-hinh-vien-gach-lego-5009581.html) - 14:44 24/01/2026
 - 🔭 [U23 Việt Nam về nước trong vòng vây người hâm mộ](https://vnexpress.net/u23-viet-nam-ve-nuoc-trong-vong-vay-nguoi-ham-mo-5009579.html) - 14:21 24/01/2026
-- 🫶 [Trung Quốc 0-2 Nhật Bản &lpar;H1&rpar;: Liên tiếp đánh bại Li Hao](https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html) - 14:19 24/01/2026
+- 🫶 [Trung Quốc 0-4 Nhật Bản &lpar;H2&rpar;: Sato suýt vượt Đình Bắc](https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html) - 14:19 24/01/2026
 - 🪜 [Nhân viên ngân hàng &#39;rút lõi&#39; thẻ tín dụng của 39 khách](https://vnexpress.net/nhan-vien-ngan-hang-rut-loi-the-tin-dung-cua-39-khach-5009576.html) - 14:15 24/01/2026
 - 👨‍🏫 [Cảnh sát truy tìm kẻ giết hai mẹ con người tình](https://vnexpress.net/canh-sat-truy-tim-ke-giet-hai-me-con-nguoi-tinh-5009574.html) - 14:09 24/01/2026
 - 🎊 [Wawrinka giã từ Australia Mở rộng](https://vnexpress.net/wawrinka-gia-tu-australia-mo-rong-5009566.html) - 14:07 24/01/2026
@@ -35,9 +35,9 @@ sidebar_position: 9
 - 🦆 [Các ngân hàng 0 đồng bắt đầu có lãi](https://vnexpress.net/cac-ngan-hang-0-dong-bat-dau-co-lai-5007740.html) - 11:48 24/01/2026
 - 🚦 [Tiếng Anh gọi trận tranh hạng ba trong bóng đá là gì?](https://vnexpress.net/tieng-anh-goi-tran-tranh-hang-ba-trong-bong-da-la-gi-5009512.html) - 11:37 24/01/2026
 - 💫 [Nơi nào ở Việt Nam người chết dùng chung một quan tài](https://vnexpress.net/noi-nao-o-viet-nam-nguoi-chet-dung-chung-mot-quan-tai-5009497.html) - 11:30 24/01/2026
-- 🎉 [Những phụ huynh lệch lạc &#39;con tôi xí trước&#39; trong khu vui chơi trẻ em](https://vnexpress.net/nhung-phu-huynh-lech-lac-con-toi-xi-truoc-trong-khu-vui-choi-tre-em-5009524.html) - 11:00 24/01/2026
-- 🌋 [Vẻ bảnh bao của tiền đạo Nguyễn Thanh Nhàn](https://vnexpress.net/ve-banh-bao-cua-tien-dao-nguyen-thanh-nhan-5009516.html) - 11:00 24/01/2026
-- 🤖 [Mẹ chồng hỏi mượn 13 cây vàng của tôi nhưng không chịu viết giấy xác nhận](https://vnexpress.net/me-chong-hoi-muon-13-cay-vang-cua-toi-nhung-khong-chiu-viet-giay-xac-nhan-5009473.html) - 11:00 24/01/2026
+- 🎉 [Vẻ bảnh bao của tiền đạo Nguyễn Thanh Nhàn](https://vnexpress.net/ve-banh-bao-cua-tien-dao-nguyen-thanh-nhan-5009516.html) - 11:00 24/01/2026
+- 🌋 [Mẹ chồng hỏi mượn 13 cây vàng của tôi nhưng không chịu viết giấy xác nhận](https://vnexpress.net/me-chong-hoi-muon-13-cay-vang-cua-toi-nhung-khong-chiu-viet-giay-xac-nhan-5009473.html) - 11:00 24/01/2026
+- 🤖 [Những phụ huynh lệch lạc &#39;con tôi xí trước&#39; trong khu vui chơi trẻ em](https://vnexpress.net/nhung-phu-huynh-lech-lac-con-toi-xi-truoc-trong-khu-vui-choi-tre-em-5009524.html) - 11:00 24/01/2026
 - 🦏 [Màn pháo hoa mỗi đêm suốt hai năm tại Phú Quốc](https://vnexpress.net/man-phao-hoa-moi-dem-suot-hai-nam-tai-phu-quoc-5009504.html) - 11:00 24/01/2026
 - 🦩 [Bên trong xưởng thuốc trộn chất tạo cảm giác &#39;mau hết bệnh&#39;](https://vnexpress.net/ben-trong-xuong-thuoc-tron-chat-tao-cam-giac-mau-het-benh-5009543.html) - 10:48 24/01/2026
 - 👺 [Mái che cứu Sinner ở Australia Mở rộng](https://vnexpress.net/mai-che-cuu-sinner-o-australia-mo-rong-5009542.html) - 10:28 24/01/2026
@@ -50,7 +50,7 @@ sidebar_position: 9
 - 🎊 [Giây phút ép tim cứu bé gái trong vụ cháy chung cư ở TP HCM](https://vnexpress.net/giay-phut-ep-tim-cuu-be-gai-trong-vu-chay-chung-cu-o-tp-hcm-5009501.html) - 09:18 24/01/2026
 - 👺 [Mặc đúng cách khi chạy bộ dưới trời rét đậm](https://vnexpress.net/mac-dung-cach-khi-chay-bo-duoi-troi-ret-dam-5009522.html) - 09:08 24/01/2026
 - 🎡 [Thiếu tá công an bị đâm trọng thương khi làm nhiệm vụ](https://vnexpress.net/thieu-ta-cong-an-bi-dam-trong-thuong-khi-lam-nhiem-vu-5009467.html) - 09:06 24/01/2026
-- 👍 [Tôi lặng lẽ kẹp tờ giấy vào kính lại khi bị tài xế đỗ ôtô chắn trước cửa nhà](https://vnexpress.net/toi-lang-le-kep-to-giay-vao-kinh-lai-khi-bi-tai-xe-do-oto-chan-truoc-cua-nha-5009394.html) - 09:00 24/01/2026
-- 🐎 [Những nguyên tắc dâng hoa cúng cần biết](https://vnexpress.net/nhung-nguyen-tac-dang-hoa-cung-can-biet-5004391.html) - 09:00 24/01/2026
+- 👍 [Những nguyên tắc dâng hoa cúng cần biết](https://vnexpress.net/nhung-nguyen-tac-dang-hoa-cung-can-biet-5004391.html) - 09:00 24/01/2026
+- 🐎 [Tôi lặng lẽ kẹp tờ giấy vào kính lại khi bị tài xế đỗ ôtô chắn trước cửa nhà](https://vnexpress.net/toi-lang-le-kep-to-giay-vao-kinh-lai-khi-bi-tai-xe-do-oto-chan-truoc-cua-nha-5009394.html) - 09:00 24/01/2026
 - 🏊 [5 thay đổi lối sống phòng ung thư cổ tử cung](https://vnexpress.net/5-thay-doi-loi-song-phong-ung-thu-co-tu-cung-5009439.html) - 09:00 24/01/2026
 - 🦩 [Nhân viên ngân hàng chiếm đoạt tiền của 5 khách từ điện thoại](https://vnexpress.net/nhan-vien-ngan-hang-chiem-doat-tien-cua-5-khach-tu-dien-thoai-5009509.html) - 08:56 24/01/2026<!-- vnexpress-tin-moi-nhat:END -->
