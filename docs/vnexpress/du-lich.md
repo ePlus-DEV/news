@@ -8,7 +8,7 @@ sidebar_position: 11
 - 🪄 [Màn pháo hoa mỗi đêm suốt hai năm tại Phú Quốc](https://vnexpress.net/man-phao-hoa-moi-dem-suot-hai-nam-tai-phu-quoc-5009504.html) - 11:00 24/01/2026
 - 🦅 [&#39;Giường ngủ bí mật&#39; trong khoang phổ thông trên máy bay](https://vnexpress.net/giuong-ngu-bi-mat-trong-khoang-pho-thong-tren-may-bay-5008790.html) - 08:00 24/01/2026
 - 🕴 [Nhà leo núi Mỹ tay không trèo tòa tháp 101 tầng ở Đài Loan](https://vnexpress.net/nha-leo-nui-my-tay-khong-treo-toa-thap-101-tang-o-dai-loan-5009436.html) - 06:15 24/01/2026
-- 👀 [Triều Tiên mở cửa khu du lịch mới ở ven biển](https://vnexpress.net/trieu-tien-mo-cua-khu-du-lich-moi-o-ven-bien-5009348.html) - 04:49 24/01/2026
+- 👀 [Triều Tiên mở cửa khu du lịch ven biển mới](https://vnexpress.net/trieu-tien-mo-cua-khu-du-lich-ven-bien-moi-5009348.html) - 04:49 24/01/2026
 - 🎭 [Đầu bếp Michelin &#39;giải phẫu&#39; tô phở Việt thành 12 món](https://vnexpress.net/dau-bep-michelin-giai-phau-to-pho-viet-thanh-12-mon-5006417.html) - 02:00 24/01/2026
 - 🦒 [Du khách Việt săn đón &#39;Dì môi đỏ&#39; bán trà sữa tại Bangkok](https://vnexpress.net/du-khach-viet-san-don-di-moi-do-ban-tra-sua-tai-bangkok-5009313.html) - 00:00 24/01/2026
 - 👨‍🏫 [Cách người Nhật biến cửa hàng tiện lợi thành điểm du lịch](https://vnexpress.net/cach-nguoi-nhat-bien-cua-hang-tien-loi-thanh-diem-du-lich-5009263.html) - 20:30 23/01/2026
