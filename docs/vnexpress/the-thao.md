@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Man City cắt mạch không thắng trong ngày Haaland dự bị](https://vnexpress.net/man-city-cat-mach-khong-thang-trong-ngay-haaland-du-bi-5009599.html) - 17:17 24/01/2026
 - 🌜 [Đình Bắc độc chiếm giải &#39;Vua phá lưới&#39; U23 châu Á 2026](https://vnexpress.net/dinh-bac-doc-chiem-giai-vua-pha-luoi-u23-chau-a-2026-5009598.html) - 17:01 24/01/2026
 - 🫶 [HLV Kim cùng CĐV hát &#39;Việt Nam Hồ Chí Minh&#39;](https://vnexpress.net/hlv-kim-cung-cdv-hat-viet-nam-ho-chi-minh-5009583.html) - 15:30 24/01/2026
-- 🌜 [Nhật Bản hạ Trung Quốc, vô địch U23 châu Á](https://vnexpress.net/ket-qua-trung-quoc-vs-nhat-ban-5009567-tong-thuat.html) - 14:19 24/01/2026
+- 🌜 [Nhật Bản hạ Trung Quốc 4-0, vô địch U23 châu Á](https://vnexpress.net/ket-qua-trung-quoc-vs-nhat-ban-5009567-tong-thuat.html) - 14:19 24/01/2026
 - 😺 [Wawrinka giã từ Australia Mở rộng](https://vnexpress.net/wawrinka-gia-tu-australia-mo-rong-5009566.html) - 14:07 24/01/2026
 - 👍 [Djokovic suýt bị truất quyền thi đấu ở Australia Mở rộng 2026](https://vnexpress.net/djokovic-suyt-bi-truat-quyen-thi-dau-o-australia-mo-rong-2026-5009558.html) - 12:38 24/01/2026
 - 🐵 [Mái che cứu Sinner ở Australia Mở rộng](https://vnexpress.net/mai-che-cuu-sinner-o-australia-mo-rong-5009542.html) - 10:28 24/01/2026
