@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Công viên đầu tiên từ khu &#39;đất vàng&#39; của TP HCM mở cửa](https://vnexpress.net/cong-vien-dau-tien-tu-khu-dat-vang-cua-tp-hcm-mo-cua-5009749.html) - 10:23 25/01/2026
 - 🤓 [Miền Bắc sắp đón đợt không khí lạnh mới](https://vnexpress.net/mien-bac-sap-don-dot-khong-khi-lanh-moi-5009727.html) - 08:32 25/01/2026
-- ⚗️ [Tổng Bí thư: &#39;Chúng ta không có lựa chọn nào khác ngoài thành công&#39;](https://vnexpress.net/tong-bi-thu-chung-ta-khong-co-lua-chon-nao-khac-ngoai-thanh-cong-5009756.html) - 08:00 25/01/2026
+- ⚗️ [Tổng Bí thư: &#39;Tăng tốc toàn diện trong 5 năm tới&#39;](https://vnexpress.net/tong-bi-thu-tang-toc-toan-dien-trong-5-nam-toi-5009756.html) - 08:00 25/01/2026
 - 🌊 [Đề xuất thí điểm các tuyến phố cảnh quan trung tâm Hà Nội](https://vnexpress.net/de-xuat-thi-diem-cac-tuyen-pho-canh-quan-trung-tam-ha-noi-5009680.html) - 06:46 25/01/2026
 - 🎓 [Trạm dừng cao tốc Vĩnh Hảo – Phan Thiết khai thác ngày 26/1](https://vnexpress.net/tram-dung-cao-toc-vinh-hao-phan-thiet-khai-thac-ngay-26-1-5009651.html) - 04:04 25/01/2026
 - 🔥 [Ủy viên chính thức và dự khuyết trẻ nhất Trung ương khóa XIV](https://vnexpress.net/uy-vien-chinh-thuc-va-du-khuyet-tre-nhat-trung-uong-khoa-xiv-5009578.html) - 04:00 25/01/2026
