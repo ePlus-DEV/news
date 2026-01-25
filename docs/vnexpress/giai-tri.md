@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tranh luận quanh tác phẩm &#39;đạo thơ nước ngoài&#39; đoạt giải Hội Nhà văn](https://vnexpress.net/tranh-luan-quanh-tac-pham-dao-tho-nuoc-ngoai-doat-giai-hoi-nha-van-5008759.html) - 05:43 25/01/2026
+- 🌏 [Tranh luận quanh &#39;thơ đạo tác phẩm nước ngoài&#39; đoạt giải Hội Nhà văn](https://vnexpress.net/tranh-luan-quanh-tho-dao-tac-pham-nuoc-ngoai-doat-giai-hoi-nha-van-5008759.html) - 05:43 25/01/2026
 - 💫 [Người đẹp 18 tuổi đóng phim Tết của Trường Giang](https://vnexpress.net/nguoi-dep-18-tuoi-dong-phim-tet-cua-truong-giang-5009637.html) - 05:00 25/01/2026
 - 🌮 [Hoa hậu Mỹ chơi đập niêu, gói bánh chưng](https://vnexpress.net/hoa-hau-my-choi-dap-nieu-goi-banh-chung-5009644.html) - 04:27 25/01/2026
 - 🧠 [Xa Thi Mạn nói lý do không sinh con](https://vnexpress.net/xa-thi-man-noi-ly-do-khong-sinh-con-5009631.html) - 04:15 25/01/2026
