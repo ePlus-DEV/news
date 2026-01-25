@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🌮 [Ca khúc của Victoria Beckham được chú ý](https://vnexpress.net/ca-khuc-cua-victoria-beckham-duoc-chu-y-5009661.html) - 09:38 25/01/2026
 - 🧠 [Dương Bình Nguyên: Tác phẩm của tôi có sự bất an lẫn tỉnh thức](https://vnexpress.net/duong-binh-nguyen-tac-pham-cua-toi-co-su-bat-an-lan-tinh-thuc-5009687.html) - 07:58 25/01/2026
 - 👨‍🏫 [Trường Giang, Nhã Phương đón con thứ ba](https://vnexpress.net/truong-giang-nha-phuong-don-con-thu-ba-5009705.html) - 06:44 25/01/2026
-- ⚗️ [Tranh luận quanh &#39;thơ đạo tác phẩm nước ngoài, đoạt giải Hội Nhà văn&#39;](https://vnexpress.net/tranh-luan-quanh-tho-dao-tac-pham-nuoc-ngoai-doat-giai-hoi-nha-van-5008759.html) - 05:43 25/01/2026
+- ⚗️ [&#39;Thơ đạo tác phẩm&#39; đoạt giải Hội Nhà văn - niềm tin lung lay](https://vnexpress.net/tho-dao-tac-pham-doat-giai-hoi-nha-van-niem-tin-lung-lay-5008759.html) - 05:43 25/01/2026
 - 😎 [Người đẹp 18 tuổi đóng phim Tết của Trường Giang](https://vnexpress.net/nguoi-dep-18-tuoi-dong-phim-tet-cua-truong-giang-5009637.html) - 05:00 25/01/2026
 - 🫣 [Hoa hậu Mỹ chơi đập niêu, gói bánh chưng](https://vnexpress.net/hoa-hau-my-choi-dap-nieu-goi-banh-chung-5009644.html) - 04:27 25/01/2026
 - 🪄 [Xa Thi Mạn nói lý do không sinh con](https://vnexpress.net/xa-thi-man-noi-ly-do-khong-sinh-con-5009631.html) - 04:15 25/01/2026
