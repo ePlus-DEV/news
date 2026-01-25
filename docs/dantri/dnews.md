@@ -4,12 +4,12 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tiến lên! Toàn thắng ắt về ta!](https://dantri.com.vn/thoi-su/tien-len-toan-thang-at-ve-ta-20260125142837155.htm) - 07:39 25/01/2026
-- 🌈 [Giảng viên nhận gan từ người chưa từng gặp mặt: “Hãy tin tưởng bác sĩ Việt”](https://dantri.com.vn/suc-khoe/giang-vien-nhan-gan-tu-nguoi-chua-tung-gap-mat-hay-tin-tuong-bac-si-viet-20260124184658686.htm) - 06:53 25/01/2026
-- 🐎 [Dòng tiền đầu tư phía Bắc tăng tốc vào Nam](https://dantri.com.vn/bat-dong-san/dong-tien-dau-tu-phia-bac-tang-toc-vao-nam-20251219054821279.htm) - 06:12 25/01/2026
-- 👹 [Toàn cảnh nghi vấn trốn thuế gây chấn động làng giải trí Hàn Quốc](https://dantri.com.vn/giai-tri/toan-canh-nghi-van-tron-thue-gay-chan-dong-lang-giai-tri-han-quoc-20260124145233157.htm) - 05:45 25/01/2026
-- 🫶 [U23 Việt Nam: Chiến thắng gây chấn động và bài học khắc cốt ghi tâm](https://dantri.com.vn/the-thao/u23-viet-nam-chien-thang-gay-chan-dong-va-bai-hoc-khac-cot-ghi-tam-20260125005530196.htm) - 05:00 25/01/2026
-- ⛽️ [Chuyên gia: “U23 Việt Nam đánh giá đúng chính mình để thắng Hàn Quốc”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-danh-gia-dung-chinh-minh-de-thang-han-quoc-20260124182003210.htm) - 04:59 25/01/2026
+- 🤠 [U23 Việt Nam: Chiến thắng gây chấn động và bài học khắc cốt ghi tâm](https://dantri.com.vn/the-thao/u23-viet-nam-chien-thang-gay-chan-dong-va-bai-hoc-khac-cot-ghi-tam-20260125005530196.htm) - 12:20 25/01/2026
+- 🌈 [Chuyên gia: “U23 Việt Nam đánh giá đúng chính mình để thắng Hàn Quốc”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-danh-gia-dung-chinh-minh-de-thang-han-quoc-20260124182003210.htm) - 12:19 25/01/2026
+- 🐎 [Tiến lên! Toàn thắng ắt về ta!](https://dantri.com.vn/thoi-su/tien-len-toan-thang-at-ve-ta-20260125142837155.htm) - 07:39 25/01/2026
+- 👹 [Giảng viên nhận gan từ người chưa từng gặp mặt: “Hãy tin tưởng bác sĩ Việt”](https://dantri.com.vn/suc-khoe/giang-vien-nhan-gan-tu-nguoi-chua-tung-gap-mat-hay-tin-tuong-bac-si-viet-20260124184658686.htm) - 06:53 25/01/2026
+- 🫶 [Dòng tiền đầu tư phía Bắc tăng tốc vào Nam](https://dantri.com.vn/bat-dong-san/dong-tien-dau-tu-phia-bac-tang-toc-vao-nam-20251219054821279.htm) - 06:12 25/01/2026
+- ⛽️ [Toàn cảnh nghi vấn trốn thuế gây chấn động làng giải trí Hàn Quốc](https://dantri.com.vn/giai-tri/toan-canh-nghi-van-tron-thue-gay-chan-dong-lang-giai-tri-han-quoc-20260124145233157.htm) - 05:45 25/01/2026
 - 🌜 [&quot;Kinh tế nam châm&quot; trỗi dậy: Đất hiếm soán ngôi vương của dầu mỏ](https://dantri.com.vn/kinh-doanh/kinh-te-nam-cham-troi-day-dat-hiem-soan-ngoi-vuong-cua-dau-mo-20260125102523433.htm) - 03:54 25/01/2026
 - 💪 [Đã đến lúc nông nghiệp Việt Nam bán chất xám thay vì bán nông sản thô](https://dantri.com.vn/kinh-doanh/da-den-luc-nong-nghiep-viet-nam-ban-chat-xam-thay-vi-ban-nong-san-tho-20260114095238797.htm) - 01:48 25/01/2026
 - 🎊 [Lãi suất tăng cao, người mua nhà gồng mình chịu trận](https://dantri.com.vn/bat-dong-san/lai-suat-tang-cao-nguoi-mua-nha-gong-minh-chiu-tran-20260124164259848.htm) - 01:28 25/01/2026
