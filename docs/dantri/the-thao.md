@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam: Chiến thắng gây chấn động và bài học khắc cốt ghi tâm](https://dantri.com.vn/the-thao/u23-viet-nam-chien-thang-gay-chan-dong-va-bai-hoc-khac-cot-ghi-tam-20260125005530196.htm) - 12:20 25/01/2026
-- 💯 [Chuyên gia: “U23 Việt Nam đánh giá đúng chính mình để thắng Hàn Quốc”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-danh-gia-dung-chinh-minh-de-thang-han-quoc-20260124182003210.htm) - 12:19 25/01/2026
-- ⛽️ [HLV tuyển Thái Lan tuyên bố: “Cầu thủ của tôi tài năng hơn U23 Việt Nam”](https://dantri.com.vn/the-thao/hlv-tuyen-thai-lan-tuyen-bo-cau-thu-cua-toi-tai-nang-hon-u23-viet-nam-20260125184132850.htm) - 12:11 25/01/2026
+- 🎡 [HLV tuyển Thái Lan tuyên bố: “Cầu thủ của tôi tài năng hơn U23 Việt Nam”](https://dantri.com.vn/the-thao/hlv-tuyen-thai-lan-tuyen-bo-cau-thu-cua-toi-tai-nang-hon-u23-viet-nam-20260125184132850.htm) - 13:11 25/01/2026
+- 💯 [U23 Việt Nam: Chiến thắng gây chấn động và bài học khắc cốt ghi tâm](https://dantri.com.vn/the-thao/u23-viet-nam-chien-thang-gay-chan-dong-va-bai-hoc-khac-cot-ghi-tam-20260125005530196.htm) - 12:20 25/01/2026
+- ⛽️ [Chuyên gia: “U23 Việt Nam đánh giá đúng chính mình để thắng Hàn Quốc”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-danh-gia-dung-chinh-minh-de-thang-han-quoc-20260124182003210.htm) - 12:19 25/01/2026
 - 💃 [Cầu thủ U23 Việt Nam đứng đầu chỉ số đáng kinh ngạc ở giải U23 châu Á](https://dantri.com.vn/the-thao/cau-thu-u23-viet-nam-dung-dau-chi-so-dang-kinh-ngac-o-giai-u23-chau-a-20260125191002796.htm) - 12:10 25/01/2026
 - 🌈 [Thủ môn Li Hao trở thành hiện tượng mạng vì hành động khóc rưng rức](https://dantri.com.vn/the-thao/thu-mon-li-hao-tro-thanh-hien-tuong-mang-vi-hanh-dong-khoc-rung-ruc-20260125172146426.htm) - 10:22 25/01/2026
 - 🦅 [Báo Đông Nam Á: “U23 Việt Nam khép lại giải U23 châu Á đầy tự hào”](https://dantri.com.vn/the-thao/bao-dong-nam-a-u23-viet-nam-khep-lai-giai-u23-chau-a-day-tu-hao-20260125135813363.htm) - 09:00 25/01/2026
