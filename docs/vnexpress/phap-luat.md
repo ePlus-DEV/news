@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Tìm thấy xe máy của nghi phạm cướp ngân hàng ở Gia Lai](https://vnexpress.net/tim-thay-xe-may-cua-nghi-pham-cuop-ngan-hang-o-gia-lai-5009731.html) - 09:46 25/01/2026
 - 🥰 [Nghi phạm 70 tuổi sát hại hai mẹ con người tình bị bắt](https://vnexpress.net/nghi-pham-70-tuoi-sat-hai-hai-me-con-nguoi-tinh-bi-bat-5009736.html) - 09:35 25/01/2026
 - 🎓 [Triệu tập nhóm thanh niên nghi sàm sỡ, đánh người ở hầm Kim Liên](https://vnexpress.net/trieu-tap-nhom-thanh-nien-nghi-sam-so-danh-nguoi-o-ham-kim-lien-5009726.html) - 08:24 25/01/2026
-- 🤓 [Thủ đoạn &#39;thổi phồng quyền lực&#39; bằng dùng AI ghép ảnh lãnh đạo](https://vnexpress.net/thu-doan-thoi-phong-quyen-luc-bang-dung-ai-ghep-anh-lanh-dao-5009702.html) - 07:22 25/01/2026
+- 🤓 [Cú lừa &#39;chạy án&#39; 4 tỷ đồng bằng ảnh AI ghép với lãnh đạo cấp cao](https://vnexpress.net/cu-lua-chay-an-4-ty-dong-bang-anh-ai-ghep-voi-lanh-dao-cap-cao-5009702.html) - 07:22 25/01/2026
 - 🎊 [Danh ca Julio Iglesias thoát vụ án tấn công tình dục người giúp việc](https://vnexpress.net/danh-ca-julio-iglesias-thoat-vu-an-tan-cong-tinh-duc-nguoi-giup-viec-5009694.html) - 06:32 25/01/2026
 - 🙉 [Cựu cầu thủ Anh bị bắt cóc khi sập bẫy lừa tuyển huấn luyện viên](https://vnexpress.net/cuu-cau-thu-anh-bi-bat-coc-khi-sap-bay-lua-tuyen-huan-luyen-vien-5009648.html) - 04:23 25/01/2026
 - 🤡 [Phụ xe bị ba người tấn công trên ôtô khách](https://vnexpress.net/phu-xe-bi-ba-nguoi-tan-cong-tren-oto-khach-5009645.html) - 04:12 25/01/2026
