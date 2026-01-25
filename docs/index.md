@@ -208,46 +208,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Anh trai say hi công bố concert tại Hà Nội đúng ngày White Valentine](https://laodong.vn/van-hoa-giai-tri/anh-trai-say-hi-cong-bo-concert-tai-ha-noi-dung-ngay-white-valentine-1646236.ldo) - 07:07 25/01/2026
-- 📝 [Trao quà Tết cho đoàn viên, người lao động khó khăn tại xã Vũ Quang](https://laodong.vn/cong-doan/trao-qua-tet-cho-doan-vien-nguoi-lao-dong-kho-khan-tai-xa-vu-quang-1646225.ldo) - 07:05 25/01/2026
-- 🦏 [Thủ môn Cao Văn Bình được báo Hàn khen đẹp trai như nam thần](https://laodong.vn/giai-tri/thu-mon-cao-van-binh-duoc-bao-han-khen-dep-trai-nhu-nam-than-1646218.ldo) - 07:04 25/01/2026
-- 🦩 [Va chạm trực diện giữa xe ben và xe máy, 1 người tử vong](https://laodong.vn/xa-hoi/va-cham-truc-dien-giua-xe-ben-va-xe-may-1-nguoi-tu-vong-1646216.ldo) - 07:03 25/01/2026
-- 🦏 [5 lỗi thiết kế về chiếu sáng nhà cửa phổ biến](https://laodong.vn/bat-dong-san/5-loi-thiet-ke-ve-chieu-sang-nha-cua-pho-bien-1645649.ldo) - 07:00 25/01/2026
-- 🧰 [Giấy phép xây dựng được cấp từ tháng 7.2026 cần điều kiện gì?](https://laodong.vn/tu-van-phap-luat/giay-phep-xay-dung-duoc-cap-tu-thang-72026-can-dieu-kien-gi-1645728.ldo) - 07:00 25/01/2026
-- 🌊 [Bổ sung collagen từ da gà, da lợn giúp da và khớp khỏe hơn ngày lạnh](https://laodong.vn/ban-tin/bo-sung-collagen-tu-da-ga-da-lon-giup-da-va-khop-khoe-hon-ngay-lanh-1646182.ldo) - 07:00 25/01/2026
-- 🔥 [Chủ tịch Quốc hội Trần Thanh Mẫn tưởng nhớ cố Chủ tịch Quốc hội Nguyễn Hữu Thọ](https://laodong.vn/thoi-su/chu-tich-quoc-hoi-tran-thanh-man-tuong-nho-co-chu-tich-quoc-hoi-nguyen-huu-tho-1646222.ldo) - 06:58 25/01/2026
-- 🦒 [Công đoàn chăm lo cho 120 lao động với nhiều chính sách vượt trội](https://laodong.vn/ldld-lam-dong/cong-doan-cham-lo-cho-120-lao-dong-voi-nhieu-chinh-sach-vuot-troi-1646196.ldo) - 06:58 25/01/2026
-- 💼 [Người đàn ông tử vong trong rừng keo tràm ở Lâm Đồng](https://laodong.vn/phap-luat/nguoi-dan-ong-tu-vong-trong-rung-keo-tram-o-lam-dong-1646211.ldo) - 06:49 25/01/2026
-- 🤖 [Công an thông tin ban đầu vụ 3 người tử vong ở Quảng Trị](https://laodong.vn/xa-hoi/cong-an-thong-tin-ban-dau-vu-3-nguoi-tu-vong-o-quang-tri-1646238.ldo) - 06:44 25/01/2026
-- 💪 [Loại đồ uống nên dùng trước khi ngủ giúp giảm cân, eo thon](https://laodong.vn/ban-tin/loai-do-uong-nen-dung-truoc-khi-ngu-giup-giam-can-eo-thon-1645971.ldo) - 06:30 25/01/2026
-- 👍 [“Thời gian trong cõi tạm” và dòng chảy ký ức đa diện về Hà Nội](https://laodong.vn/lao-dong-cuoi-tuan/thoi-gian-trong-coi-tam-va-dong-chay-ky-uc-da-dien-ve-ha-noi-1645364.ldo) - 06:30 25/01/2026
-- 💂 [Giải bóng chuyền SEA V.League 2026 quyết định nước tổ chức ở tuần tới](https://laodong.vn/the-thao/giai-bong-chuyen-sea-vleague-2026-quyet-dinh-nuoc-to-chuc-o-tuan-toi-1646227.ldo) - 06:22 25/01/2026
-- 🧰 [Vũ Hà Minh Đức tiếp tục thi đấu giải ATP Challenger 50 tại Phan Thiết](https://laodong.vn/tennis/vu-ha-minh-duc-tiep-tuc-thi-dau-giai-atp-challenger-50-tai-phan-thiet-1646224.ldo) - 06:19 25/01/2026
-- 🥷 [Đại học Kinh tế Quốc dân công bố bộ nhận diện thương hiệu](https://laodong.vn/giao-duc/dai-hoc-kinh-te-quoc-dan-cong-bo-bo-nhan-dien-thuong-hieu-1646187.ldo) - 06:18 25/01/2026
-- 💫 [Công đoàn Đà Nẵng chi hơn 30 tỉ đồng tổ chức Tết sum vầy](https://laodong.vn/cong-doan/cong-doan-da-nang-chi-hon-30-ti-dong-to-chuc-tet-sum-vay-1645778.ldo) - 06:14 25/01/2026
-- 🎭 [Phiên chợ Áo dài yêu thương 10.000 đồng ấm áp ngày giáp Tết tại Đà Nẵng](https://laodong.vn/mat-tran/phien-cho-ao-dai-yeu-thuong-10000-dong-am-ap-ngay-giap-tet-tai-da-nang-1646209.ldo) - 06:09 25/01/2026
-- 😎 [Giá cà phê hôm nay 25.1: Trong nước tăng phi mã](https://laodong.vn/thi-truong/gia-ca-phe-hom-nay-251-trong-nuoc-tang-phi-ma-1646223.ldo) - 06:03 25/01/2026
-- 💄 [Mang Tết yêu thương đến thiếu nhi miền núi Đà Nẵng](https://laodong.vn/xa-hoi/mang-tet-yeu-thuong-den-thieu-nhi-mien-nui-da-nang-1646220.ldo) - 06:02 25/01/2026
-- 🫣 [Bắt giữ hơn 800 kg nầm lợn đông lạnh ở biên giới Móng Cái](https://laodong.vn/xa-hoi/bat-giu-hon-800-kg-nam-lon-dong-lanh-o-bien-gioi-mong-cai-1646231.ldo) - 06:01 25/01/2026
-- 🧑‍🏫 [Rét đậm kéo dài, làm ngay 3 việc này để tránh đột quỵ và cảm lạnh](https://laodong.vn/ban-tin/ret-dam-keo-dai-lam-ngay-3-viec-nay-de-tranh-dot-quy-va-cam-lanh-1645962.ldo) - 06:00 25/01/2026
-- 🦣 [Ông bà chăm cháu, cha mẹ trẻ căng thẳng](https://laodong.vn/gia-dinh-hon-nhan/ong-ba-cham-chau-cha-me-tre-cang-thang-1645925.ldo) - 05:53 25/01/2026
-- 💫 [Giấu ma túy trong lòng bàn tay, nam thanh niên bị CSGT bắt giữ](https://laodong.vn/phap-luat/giau-ma-tuy-trong-long-ban-tay-nam-thanh-nien-bi-csgt-bat-giu-1646226.ldo) - 05:48 25/01/2026
-- ⛽️ [Chào mừng thành công Đại hội XIV của Đảng bằng công trình thiết thực](https://laodong.vn/xa-hoi/chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-bang-cong-trinh-thiet-thuc-1646217.ldo) - 05:43 25/01/2026
-- 💫 [Lối đi tự mở giữa các thửa đất có sổ đỏ, liệu có đủ điều kiện tách thửa không?](https://laodong.vn/bat-dong-san/loi-di-tu-mo-giua-cac-thua-dat-co-so-do-lieu-co-du-dieu-kien-tach-thua-khong-1646194.ldo) - 05:41 25/01/2026
-- 🥸 [Bóc trần thủ đoạn giả mời chào tuyển dụng để lừa đảo](https://laodong.vn/phap-luat/boc-tran-thu-doan-gia-moi-chao-tuyen-dung-de-lua-dao-1646221.ldo) - 05:38 25/01/2026
-- 🐻 [Giá xăng dầu hôm nay 25.1: Tăng 2,7% trong tuần, dự báo xăng dầu tăng mạnh kỳ tới](https://laodong.vn/kinh-doanh/gia-xang-dau-hom-nay-251-tang-27-trong-tuan-du-bao-xang-dau-tang-manh-ky-toi-1646205.ldo) - 05:36 25/01/2026
-- 🪄 [Đối tượng bị truy nã vì lập công ty ở Phú Quốc rồi chiếm đoạt tài sản bỏ trốn](https://laodong.vn/phap-luat/doi-tuong-bi-truy-na-vi-lap-cong-ty-o-phu-quoc-roi-chiem-doat-tai-san-bo-tron-1646213.ldo) - 05:35 25/01/2026
-- 🧑‍🏫 [Tổng rà soát người nước ngoài tại địa bàn 2 KCN ở Bắc Ninh](https://laodong.vn/xa-hoi/tong-ra-soat-nguoi-nuoc-ngoai-tai-dia-ban-2-kcn-o-bac-ninh-1646210.ldo) - 05:32 25/01/2026
-- 🌊 [iPhone lập kỷ lục thị phần tại Ấn Độ, bất chấp thị trường chững lại](https://laodong.vn/cong-nghe/iphone-lap-ky-luc-thi-phan-tai-an-do-bat-chap-thi-truong-chung-lai-1646208.ldo) - 05:31 25/01/2026
-- 💻 [Mùa lạnh và 4 thói quen giúp thận khỏe mạnh](https://laodong.vn/video/mua-lanh-va-4-thoi-quen-giup-than-khoe-manh-1645970.ldo) - 05:30 25/01/2026
-- 👨‍🏫 [Công nghiệp văn hóa ở Nhật Bản và kinh nghiệm cho Việt Nam](https://laodong.vn/lao-dong-cuoi-tuan/cong-nghiep-van-hoa-o-nhat-ban-va-kinh-nghiem-cho-viet-nam-1645160.ldo) - 05:30 25/01/2026
-- 🌈 [Dự báo các tỉnh thành nguy cơ sắp mưa dông trong tuần tới](https://laodong.vn/video-xa-hoi/du-bao-cac-tinh-thanh-nguy-co-sap-mua-dong-trong-tuan-toi-1646161.ldo) - 05:21 25/01/2026
-- 🐲 [Khai quyết toán thuế thế nào nếu có thu nhập từ 2 nguồn trở lên](https://laodong.vn/ban-tin/khai-quyet-toan-thue-the-nao-neu-co-thu-nhap-tu-2-nguon-tro-len-1646124.ldo) - 05:19 25/01/2026
-- 🚀 [Ô nhiễm tại nhà máy sản xuất gạch quy mô lớn ở Huế](https://laodong.vn/ban-doc/o-nhiem-tai-nha-may-san-xuat-gach-quy-mo-lon-o-hue-1643949.ldo) - 05:14 25/01/2026
-- 😺 [Bí quyết ăn cá khô dành cho người đang giảm cân](https://laodong.vn/ban-tin/bi-quyet-an-ca-kho-danh-cho-nguoi-dang-giam-can-1646102.ldo) - 05:12 25/01/2026
-- 🕴 [Cứu hộ lao vào sóng biển hỗ trợ nạn nhân bị nước cuốn trôi](https://laodong.vn/ban-tin/cuu-ho-lao-vao-song-bien-ho-tro-nan-nhan-bi-nuoc-cuon-troi-1646162.ldo) - 05:10 25/01/2026
-- 🌋 [Vẫn chưa điều chỉnh tổ chức giao thông trên đường Cổ Linh](https://laodong.vn/xa-hoi/van-chua-dieu-chinh-to-chuc-giao-thong-tren-duong-co-linh-1646178.ldo) - 05:04 25/01/2026
-- 💄 [Công đoàn tỉnh Bắc Ninh trao 200 suất quà cho đoàn viên, người lao động khó khăn](https://laodong.vn/ldld-bac-ninh/cong-doan-tinh-bac-ninh-trao-200-suat-qua-cho-doan-vien-nguoi-lao-dong-kho-khan-1646188.ldo) - 05:01 25/01/2026<!-- laodong:END -->
+- 🗽 [Vùng Cảnh sát biển 4 tổ chức chuỗi hoạt động chào mừng thành công Đại hội Đảng](https://laodong.vn/xa-hoi/vung-canh-sat-bien-4-to-chuc-chuoi-hoat-dong-chao-mung-thanh-cong-dai-hoi-dang-1646454.ldo) - 14:36 25/01/2026
+- 📝 [Learner Tien khiến Daniil Medvedev tâm phục, khẩu phục](https://laodong.vn/the-thao/learner-tien-khien-daniil-medvedev-tam-phuc-khau-phuc-1646450.ldo) - 14:36 25/01/2026
+- 🦏 [Điện mừng, thư mừng Tổng Bí thư Tô Lâm](https://laodong.vn/thoi-su/dien-mung-thu-mung-tong-bi-thu-to-lam-1646429.ldo) - 14:33 25/01/2026
+- 🦩 [Hàng trăm nghệ sĩ tại TPHCM hát chào mừng Đại hội XIV của Đảng](https://laodong.vn/van-hoa-giai-tri/hang-tram-nghe-si-tai-tphcm-hat-chao-mung-dai-hoi-xiv-cua-dang-1646445.ldo) - 14:28 25/01/2026
+- 🦏 [U19 nữ TPHCM có chiến thắng quan trọng ở lượt 6 giải U19 nữ Quốc gia](https://laodong.vn/the-thao/u19-nu-tphcm-co-chien-thang-quan-trong-o-luot-6-giai-u19-nu-quoc-gia-1646437.ldo) - 14:27 25/01/2026
+- 🧰 [Cựu Thủ tướng Hàn Quốc Lee Hae Chan từ trần tại TPHCM](https://laodong.vn/thoi-su/cuu-thu-tuong-han-quoc-lee-hae-chan-tu-tran-tai-tphcm-1646453.ldo) - 14:24 25/01/2026
+- 🌊 [Tuyển futsal Việt Nam làm quen sân thi đấu giải châu Á](https://laodong.vn/the-thao/tuyen-futsal-viet-nam-lam-quen-san-thi-dau-giai-chau-a-1646449.ldo) - 14:17 25/01/2026
+- 🔥 [Thịt heo đổi màu suýt bị vào bếp ăn của một trường tiểu học ở TPHCM](https://laodong.vn/giao-duc/thit-heo-doi-mau-suyt-bi-vao-bep-an-cua-mot-truong-tieu-hoc-o-tphcm-1646440.ldo) - 14:13 25/01/2026
+- 🦒 [TPHCM dự kiến động thổ Metro Bến Thành - Thủ Thiêm ngày 9.2](https://laodong.vn/xa-hoi/tphcm-du-kien-dong-tho-metro-ben-thanh-thu-thiem-ngay-92-1646441.ldo) - 14:08 25/01/2026
+- 💼 [Cháy nhà dân ở đường Hoàng Mai, Hà Nội](https://laodong.vn/xa-hoi/chay-nha-dan-o-duong-hoang-mai-ha-noi-1646446.ldo) - 14:07 25/01/2026
+- 🤖 [Vụ 3 người tử vong trên đường tại Quảng Trị, khởi tố vụ án](https://laodong.vn/phap-luat/vu-3-nguoi-tu-vong-tren-duong-tai-quang-tri-khoi-to-vu-an-1646422.ldo) - 14:05 25/01/2026
+- 💪 [Công an TPHCM phá một ổ lừa đảo, phát hiện nhiều người nước ngoài cư trú trái phép](https://laodong.vn/phap-luat/cong-an-tphcm-pha-mot-o-lua-dao-phat-hien-nhieu-nguoi-nuoc-ngoai-cu-tru-trai-phep-1646430.ldo) - 13:26 25/01/2026
+- 👍 [U19 Sông Lam Nghệ An và U19 PVF-CAND vào chung kết U19 Quốc gia](https://laodong.vn/the-thao/u19-song-lam-nghe-an-va-u19-pvf-cand-vao-chung-ket-u19-quoc-gia-1646423.ldo) - 13:12 25/01/2026
+- 💂 [Đinh Vũ Hề mua vàng tặng người hâm mộ](https://laodong.vn/van-hoa-giai-tri/dinh-vu-he-mua-vang-tang-nguoi-ham-mo-1646414.ldo) - 13:11 25/01/2026
+- 🧰 [Biển số ngũ quý 2 siêu đẹp tại Hà Nội sẽ có trong phiên đấu giá ngày 26-27.1](https://laodong.vn/video/bien-so-ngu-quy-2-sieu-dep-tai-ha-noi-se-co-trong-phien-dau-gia-ngay-26-271-1646427.ldo) - 13:08 25/01/2026
+- 🥷 [5 cách chăm sóc làn da sáng mịn màng dành cho bà nội trợ đón Tết Nguyên đán](https://laodong.vn/gia-dinh-hon-nhan/5-cach-cham-soc-lan-da-sang-min-mang-danh-cho-ba-noi-tro-don-tet-nguyen-dan-1646413.ldo) - 13:08 25/01/2026
+- 💫 [Dung lượng lưu trữ bị cắt giảm có thể đẩy giá PC tăng cao](https://laodong.vn/cong-nghe/dung-luong-luu-tru-bi-cat-giam-co-the-day-gia-pc-tang-cao-1646402.ldo) - 13:07 25/01/2026
+- 🎭 [Sữa Aptamil bị cảnh báo nguy cơ nhiễm độc tố, Bộ Y tế yêu cầu rà soát trên toàn quốc](https://laodong.vn/suc-khoe/sua-aptamil-bi-canh-bao-nguy-co-nhiem-doc-to-bo-y-te-yeu-cau-ra-soat-tren-toan-quoc-1646428.ldo) - 13:04 25/01/2026
+- 😎 [Link xem trực tiếp Barcelona vs Real Oviedo tại La Liga](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-barcelona-vs-real-oviedo-tai-la-liga-1646421.ldo) - 13:01 25/01/2026
+- 💄 [Tin 20h: BHXH công bố lịch chi trả lương hưu gộp trước Tết Bính Ngọ](https://laodong.vn/video-xa-hoi/tin-20h-bhxh-cong-bo-lich-chi-tra-luong-huu-gop-truoc-tet-binh-ngo-1646380.ldo) - 13:00 25/01/2026
+- 🫣 [Trang trí ban công đẹp và tiện nghi cho không gian sống hiện đại](https://laodong.vn/bat-dong-san/trang-tri-ban-cong-dep-va-tien-nghi-cho-khong-gian-song-hien-dai-1646163.ldo) - 13:00 25/01/2026
+- 🧑‍🏫 [Mua nhà ở xã hội: Những điều cần biết về điều kiện, mức vay](https://laodong.vn/bat-dong-san/mua-nha-o-xa-hoi-nhung-dieu-can-biet-ve-dieu-kien-muc-vay-1646167.ldo) - 13:00 25/01/2026
+- 🦣 [Bài học khi yêu một người đàn ông qua ứng dụng hẹn hò - Phần 2](https://laodong.vn/gio-thu-9/bai-hoc-khi-yeu-mot-nguoi-dan-ong-qua-ung-dung-hen-ho-phan-2-1646259.ldo) - 13:00 25/01/2026
+- 💫 [Dự báo thời tiết ngày mai 26.1 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-261-tren-ca-nuoc-1646293.ldo) - 13:00 25/01/2026
+- ⛽️ [Lãi suất Agribank cao nhất, gửi 300 triệu đồng nhận về gần 32 triệu đồng](https://laodong.vn/tien-te-dau-tu/lai-suat-agribank-cao-nhat-gui-300-trieu-dong-nhan-ve-gan-32-trieu-dong-1646273.ldo) - 12:58 25/01/2026
+- 💫 [Điều tra làm rõ sự cố hồ chứa nước gần 500 tỉ đồng ở Lâm Đồng bị sạt trượt](https://laodong.vn/xa-hoi/dieu-tra-lam-ro-su-co-ho-chua-nuoc-gan-500-ti-dong-o-lam-dong-bi-sat-truot-1646424.ldo) - 12:38 25/01/2026
+- 🥸 [Bản tin dự báo thời tiết đêm nay và ngày mai 26.1](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-261-1646338.ldo) - 12:30 25/01/2026
+- 🐻 [TPHCM hôm nay: 3 phường có giá chung cư gần 280 triệu đồng/m²](https://laodong.vn/xa-hoi/tphcm-hom-nay-3-phuong-co-gia-chung-cu-gan-280-trieu-dongm-1646399.ldo) - 12:23 25/01/2026
+- 🪄 [Giá vàng lập đỉnh, nhiều cửa hàng dừng nhận khách](https://laodong.vn/tien-te-dau-tu/gia-vang-lap-dinh-nhieu-cua-hang-dung-nhan-khach-1646387.ldo) - 12:21 25/01/2026
+- 🧑‍🏫 [Cập nhật giá vàng chốt phiên 25.1: Lãi nhiều dù lướt sóng](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-251-lai-nhieu-du-luot-song-1646406.ldo) - 12:19 25/01/2026
+- 🌊 [Tăng phụ cấp nhân viên trường học, kiến nghị nâng lên tối đa 50%](https://laodong.vn/giao-duc/tang-phu-cap-nhan-vien-truong-hoc-kien-nghi-nang-len-toi-da-50-1646419.ldo) - 12:08 25/01/2026
+- 💻 [Loại tinh bột này phù hợp với người tăng axit uric nếu sử dụng đúng cách](https://laodong.vn/video/loai-tinh-bot-nay-phu-hop-voi-nguoi-tang-axit-uric-neu-su-dung-dung-cach-1646083.ldo) - 12:00 25/01/2026
+- 👨‍🏫 [Nóng Sài Gòn: TPHCM làm 3 tuyến đường giải cứu kẹt xe khu Đông](https://laodong.vn/video/nong-sai-gon-tphcm-lam-3-tuyen-duong-giai-cuu-ket-xe-khu-dong-1646303.ldo) - 12:00 25/01/2026
+- 🌈 [Thế giới 24h: Thông tin mới về xét xử nghi phạm vụ Nord Stream](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-thong-tin-moi-ve-xet-xu-nghi-pham-vu-nord-stream-1646330.ldo) - 12:00 25/01/2026
+- 🐲 [Triệu Lộ Tư đi bán hàng rong vì từng nghĩ sẽ phải giải nghệ](https://laodong.vn/van-hoa-giai-tri/trieu-lo-tu-di-ban-hang-rong-vi-tung-nghi-se-phai-giai-nghe-1646268.ldo) - 12:00 25/01/2026
+- 🚀 [Tottenham thực sự đã lâm vào cuộc chiến trụ hạng](https://laodong.vn/bong-da-quoc-te/tottenham-thuc-su-da-lam-vao-cuoc-chien-tru-hang-1646379.ldo) - 11:58 25/01/2026
+- 😺 [Man United cần đưa ra câu trả lời đanh thép trước Arsenal](https://laodong.vn/bong-da-quoc-te/man-united-can-dua-ra-cau-tra-loi-danh-thep-truoc-arsenal-1646412.ldo) - 11:57 25/01/2026
+- 🕴 [Liên đoàn bóng đá Malaysia có động thái mới sau vụ nhập tịch trái phép](https://laodong.vn/bong-da-quoc-te/lien-doan-bong-da-malaysia-co-dong-thai-moi-sau-vu-nhap-tich-trai-phep-1646415.ldo) - 11:55 25/01/2026
+- 🌋 [Cơn mưa biển số ngũ quý tiền tỉ sẽ có trong phiên đấu giá ngày 26-27.1](https://laodong.vn/video/con-mua-bien-so-ngu-quy-tien-ti-se-co-trong-phien-dau-gia-ngay-26-271-1646408.ldo) - 11:54 25/01/2026
+- 💄 [Cướp ngân hàng ở Gia Lai: Xe máy nghi vấn chôn cách hiện trường khoảng 7km](https://laodong.vn/phap-luat/cuop-ngan-hang-o-gia-lai-xe-may-nghi-van-chon-cach-hien-truong-khoang-7km-1646341.ldo) - 11:49 25/01/2026<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
