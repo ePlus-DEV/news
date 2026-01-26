@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cách Công an Trung Quốc kiểm soát vỉa hè bằng camera AI](https://vnexpress.net/cach-cong-an-trung-quoc-kiem-soat-via-he-bang-camera-ai-5010177.html) - 13:00 26/01/2026
+- 😎 [Cách công an Trung Quốc kiểm soát vỉa hè bằng camera AI](https://vnexpress.net/cach-cong-an-trung-quoc-kiem-soat-via-he-bang-camera-ai-5010177.html) - 13:00 26/01/2026
 - 🥰 [Cựu Chánh văn phòng Đoàn đại biểu Quốc hội Gia Lai chi sai tiền tiếp khách](https://vnexpress.net/cuu-chanh-van-phong-doan-dai-bieu-quoc-hoi-gia-lai-chi-sai-tien-tiep-khach-4998531.html) - 11:10 26/01/2026
 - 🎓 [Trộm thùng tiền mừng cưới để &#39;bao&#39; người yêu mua vàng](https://vnexpress.net/trom-thung-tien-mung-cuoi-de-bao-nguoi-yeu-mua-vang-5010203.html) - 10:55 26/01/2026
 - 🤓 [Công an Gia Lai phong tỏa căn nhà bắt kẻ tàng trữ ma túy](https://vnexpress.net/cong-an-gia-lai-phong-toa-can-nha-bat-ke-tang-tru-ma-tuy-5010196.html) - 10:41 26/01/2026
