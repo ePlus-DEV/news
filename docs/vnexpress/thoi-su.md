@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Đề xuất xây đường sắt TP HCM - Cần Thơ - Cà Mau dài 280 km](https://vnexpress.net/de-xuat-xay-duong-sat-tp-hcm-can-tho-ca-mau-dai-280-km-5010100.html) - 08:03 26/01/2026
 - ⚗️ [TP HCM giao Thaco nghiên cứu metro Bến Thành - Thủ Thiêm](https://vnexpress.net/tp-hcm-giao-thaco-nghien-cuu-metro-ben-thanh-thu-thiem-5010036.html) - 07:37 26/01/2026
 - 🌊 [Hà Nội mở rộng đường quanh Hồ Tây tối thiểu 3-4 làn](https://vnexpress.net/ha-noi-mo-rong-duong-quanh-ho-tay-toi-thieu-3-4-lan-5010030.html) - 07:07 26/01/2026
-- 🎓 [23 Thứ trưởng là Ủy viên Trung ương khóa XIV](https://vnexpress.net/23-thu-truong-la-uy-vien-trung-uong-khoa-xiv-5010023.html) - 07:00 26/01/2026
+- 🎓 [24 Thứ trưởng là Ủy viên Trung ương khóa XIV](https://vnexpress.net/24-thu-truong-la-uy-vien-trung-uong-khoa-xiv-5010023.html) - 07:00 26/01/2026
 - 🔥 [Linh vật ngựa khổng lồ trước khi ra đường hoa Nguyễn Huệ](https://vnexpress.net/linh-vat-ngua-khong-lo-truoc-khi-ra-duong-hoa-nguyen-hue-5010007.html) - 06:23 26/01/2026
 - 🦏 [14 thành viên Chính phủ tham gia Trung ương khóa XIV](https://vnexpress.net/14-thanh-vien-chinh-phu-tham-gia-trung-uong-khoa-xiv-5009944.html) - 04:00 26/01/2026
 - 👺 [Cháy dãy nhà ở chợ nội đô TP HCM](https://vnexpress.net/chay-day-nha-o-cho-noi-do-tp-hcm-5009865.html) - 02:12 26/01/2026
