@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Carrick: &#39;Không được phép tự mãn và nhìn quá xa&#39;](https://vnexpress.net/carrick-khong-duoc-phep-tu-man-va-nhin-qua-xa-5009946.html) - 03:41 26/01/2026
-- 🦩 [HLV Kim: &#39;Việt Nam thành công nhờ xác định yếu hơn ở U23 châu Á&#39;](https://vnexpress.net/hlv-kim-viet-nam-thanh-cong-nho-xac-dinh-yeu-hon-o-u23-chau-a-5009889.html) - 03:20 26/01/2026
+- 🦩 [HLV Kim: &#39;Việt Nam có thể đá sòng phẳng ở cấp độ châu lục&#39;](https://vnexpress.net/hlv-kim-viet-nam-co-the-da-song-phang-o-cap-do-chau-luc-5009889.html) - 03:20 26/01/2026
 - 🧰 [Báo Thái Lan giải mã sự thành công của HLV Hàn Quốc ở Việt Nam](https://vnexpress.net/bao-thai-lan-giai-ma-su-thanh-cong-cua-hlv-han-quoc-o-viet-nam-5009818.html) - 00:53 26/01/2026
 - 🤗 [Wenger: &#39;Carrick tạo ra điều gì đó đặc biệt ở Man Utd&#39;](https://vnexpress.net/wenger-carrick-tao-ra-dieu-gi-do-dac-biet-o-man-utd-5009813.html) - 00:46 26/01/2026
 - 🥳 [Keane: &#39;Carrick vẫn không phải HLV lâu dài dù Man Utd toàn thắng&#39;](https://vnexpress.net/keane-carrick-van-khong-phai-hlv-lau-dai-du-man-utd-toan-thang-5009809.html) - 23:13 25/01/2026
