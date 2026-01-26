@@ -320,56 +320,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Arteta thách thức Arsenal quật khởi sau trận thua Man.United](https://www.sggp.org.vn/arteta-thach-thuc-arsenal-quat-khoi-sau-tran-thua-manunited-post835290.html) - 02:42 26/01/2026
-- 🌝 [Triển lãm “Những con mắt của thời gian”: Ký ức đô thị trong không gian số](https://www.sggp.org.vn/trien-lam-nhung-con-mat-cua-thoi-gian-ky-uc-do-thi-trong-khong-gian-so-post835240.html) - 02:37 26/01/2026
-- 💃 [Running Man Việt Nam bùng nổ doanh thu](https://www.sggp.org.vn/running-man-viet-nam-bung-no-doanh-thu-post835281.html) - 02:33 26/01/2026
-- 🧑‍💻 [Giá vàng vượt mốc không tưởng 5.000 USD/ounce](https://www.sggp.org.vn/gia-vang-vuot-moc-khong-tuong-5000-usdounce-post835287.html) - 02:29 26/01/2026
-- 🌊 [Công ty Yến sào Khánh Hoà - Chi nhánh Đà Nẵng - Đóng góp tích cực vào sự phát triển chung của Công ty trong giao đoạn mới.](https://www.sggp.org.vn/cong-ty-yen-sao-khanh-hoa-chi-nhanh-da-nang-dong-gop-tich-cuc-vao-su-phat-trien-chung-cua-cong-ty-trong-giao-doan-moi-post835280.html) - 02:21 26/01/2026
-- 🧑‍💻 [Những vòng quay tử tế](https://www.sggp.org.vn/nhung-vong-quay-tu-te-post835274.html) - 02:16 26/01/2026
-- ⛽️ [Hy vọng tìm người thân từ ADN](https://www.sggp.org.vn/hy-vong-tim-nguoi-than-tu-adn-post835266.html) - 02:15 26/01/2026
-- 😎 [Xuân sẻ chia - tết đong đầy](https://www.sggp.org.vn/xuan-se-chia-tet-dong-day-post835273.html) - 02:15 26/01/2026
-- 🌜 [Những “chiến binh” bền bỉ](https://www.sggp.org.vn/nhung-chien-binh-ben-bi-post835277.html) - 02:15 26/01/2026
-- 💻 [Juventus nhấn chìm nhà vô địch, Roma và Milan níu chân nhau](https://www.sggp.org.vn/juventus-nhan-chim-nha-vo-dich-roma-va-milan-niu-chan-nhau-post835286.html) - 02:14 26/01/2026
-- 👍 [Siêu phẩm của Yamal giúp Barcelona giành lại ngôi đầu](https://www.sggp.org.vn/sieu-pham-cua-yamal-giup-barcelona-gianh-lai-ngoi-dau-post835278.html) - 00:44 26/01/2026
-- 🦆 [BIDV và KN Holdings tăng cường hợp tác toàn diện hướng tới phát triển bền vững](https://www.sggp.org.vn/bidv-va-kn-holdings-tang-cuong-hop-tac-toan-dien-huong-toi-phat-trien-ben-vung-post835121.html) - 00:35 26/01/2026
-- 🦩 [Thực tiễn đập tan mọi luận điệu thù địch, xuyên tạc](https://www.sggp.org.vn/thuc-tien-dap-tan-moi-luan-dieu-thu-dich-xuyen-tac-post835264.html) - 00:33 26/01/2026
-- 🥰 [Cha bị ung thư, 2 con có nguy cơ nghỉ học](https://www.sggp.org.vn/cha-bi-ung-thu-2-con-co-nguy-co-nghi-hoc-post835268.html) - 00:33 26/01/2026
-- 🎬 [Nâng cao năng lực số cho cán bộ quản lý giáo dục](https://www.sggp.org.vn/nang-cao-nang-luc-so-cho-can-bo-quan-ly-giao-duc-post835270.html) - 00:33 26/01/2026
-- 🦩 [Đa dạng hình thức học ngoại ngữ](https://www.sggp.org.vn/da-dang-hinh-thuc-hoc-ngoai-ngu-post835271.html) - 00:33 26/01/2026
-- 🌮 [Điện ảnh bắc cầu hy vọng](https://www.sggp.org.vn/dien-anh-bac-cau-hy-vong-post835275.html) - 00:33 26/01/2026
-- 👍 [TPHCM Tăng tốc phát triển nhà ở xã hội: Khơi thông điểm nghẽn, nhiều dự án khởi động](https://www.sggp.org.vn/tphcm-tang-toc-phat-trien-nha-o-xa-hoi-khoi-thong-diem-nghen-nhieu-du-an-khoi-dong-post835269.html) - 00:33 26/01/2026
-- 🦒 [Vòng chung kết giải bóng đá U23 châu Á 2026: Việt Nam “vẽ lại” bản đồ bóng đá trẻ](https://www.sggp.org.vn/vong-chung-ket-giai-bong-da-u23-chau-a-2026-viet-nam-ve-lai-ban-do-bong-da-tre-post835276.html) - 00:33 26/01/2026
-- 🤡 [Hạ tầng mở “bản đồ thời gian”, bất động sản Đông Bắc TPHCM vào chu kỳ tái định giá](https://www.sggp.org.vn/ha-tang-mo-ban-do-thoi-gian-bat-dong-san-dong-bac-tphcm-vao-chu-ky-tai-dinh-gia-post835084.html) - 00:30 26/01/2026
-- 🐎 [Cunha giúp Man.United nhấn chìm Arsenal ngay tại Emirates](https://www.sggp.org.vn/cunha-giup-manunited-nhan-chim-arsenal-ngay-tai-emirates-post835272.html) - 00:02 26/01/2026
-- 🦆 [Estevao tỏa sáng trận derby, Chelsea vươn lên thứ 5](https://www.sggp.org.vn/estevao-toa-sang-tran-derby-chelsea-vuon-len-thu-5-post835267.html) - 23:37 25/01/2026
-- 🦅 [Quật ngã Chích choè, Aston Villa hâm nóng cuộc đua vô địch](https://www.sggp.org.vn/quat-nga-chich-choe-aston-villa-ham-nong-cuoc-dua-vo-dich-post835265.html) - 23:37 25/01/2026
-- 🫣 [Báo Sài Gòn Giải Phóng ngày 26/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-2612026-post835261.html) - 23:16 25/01/2026
-- 🎭 [Đưa y tế cơ sở đến sát dân và phục vụ người dân tốt hơn](https://www.sggp.org.vn/dua-y-te-co-so-den-sat-dan-va-phuc-vu-nguoi-dan-tot-hon-post835263.html) - 23:16 25/01/2026
-- 🫶 [Hành động nhanh, kết quả cụ thể](https://www.sggp.org.vn/hanh-dong-nhanh-ket-qua-cu-the-post835262.html) - 23:03 25/01/2026
-- 🎓 [TPHCM: Chương trình nghệ thuật đặc biệt “Ánh sáng niềm tin và khát vọng”](https://www.sggp.org.vn/tphcm-chuong-trinh-nghe-thuat-dac-biet-anh-sang-niem-tin-va-khat-vong-post835258.html) - 16:10 25/01/2026
-- 🤡 [Một lịch sử nhìn từ danh tính người Việt nhân trường hợp &quot;Họ và tên&quot;](https://www.sggp.org.vn/mot-lich-su-nhin-tu-danh-tinh-nguoi-viet-nhan-truong-hop-ho-va-ten-post835247.html) - 15:46 25/01/2026
-- 🦅 [Công viên vườn hoa tại khu đất Nhà thi đấu Phan Đình Phùng “mở cửa” đón khách](https://www.sggp.org.vn/cong-vien-vuon-hoa-tai-khu-dat-nha-thi-dau-phan-dinh-phung-mo-cua-don-khach-post835255.html) - 15:10 25/01/2026
-- 🧑‍🏫 [Phường Hòa Hưng &lpar;TPHCM&rpar; tổng kết Hội thi TDTT cụm trường học](https://www.sggp.org.vn/phuong-hoa-hung-tphcm-tong-ket-hoi-thi-tdtt-cum-truong-hoc-post835252.html) - 14:58 25/01/2026
-- 🕴 [Sôi nổi giải bóng rổ tứ hùng phường Bình Phú](https://www.sggp.org.vn/soi-noi-giai-bong-ro-tu-hung-phuong-binh-phu-post835256.html) - 14:55 25/01/2026
-- 🦆 [Xúc động chương trình nghệ thuật đặc biệt “Oai hùng Vùng Bưng 6 xã”](https://www.sggp.org.vn/xuc-dong-chuong-trinh-nghe-thuat-dac-biet-oai-hung-vung-bung-6-xa-post835257.html) - 14:52 25/01/2026
-- 🎃 [Cựu Thủ tướng Hàn Quốc Lee Hae Chan qua đời tại TPHCM](https://www.sggp.org.vn/cuu-thu-tuong-han-quoc-lee-hae-chan-qua-doi-tai-tphcm-post835254.html) - 14:49 25/01/2026
-- 🌮 [Australian Open 2026: Learner Tien trở thành tay vợt trẻ nhất lọt vào tứ kết kể từ năm 2015](https://www.sggp.org.vn/australian-open-2026-learner-tien-tro-thanh-tay-vot-tre-nhat-lot-vao-tu-ket-ke-tu-nam-2015-post835249.html) - 14:19 25/01/2026
-- 🥰 [SLNA gặp PVF ở trận chung kết giải bóng đá U19 quốc gia 2026](https://www.sggp.org.vn/slna-gap-pvf-o-tran-chung-ket-giai-bong-da-u19-quoc-gia-2026-post835248.html) - 14:18 25/01/2026
-- 🕯 [Futsal Việt Nam nâng khối lượng tập luyện lên 2 buổi, làm quen địa điểm thi đấu](https://www.sggp.org.vn/futsal-viet-nam-nang-khoi-luong-tap-luyen-len-2-buoi-lam-quen-dia-diem-thi-dau-post835250.html) - 14:17 25/01/2026
-- 🙉 [Đội tuyển futsal Việt Nam sẵn sàng bước vào giải châu Á 2026](https://www.sggp.org.vn/doi-tuyen-futsal-viet-nam-san-sang-buoc-vao-giai-chau-a-2026-post835245.html) - 14:17 25/01/2026
-- 💡 [TPHCM triển khai phong trào Tết nhân ái – Xuân Bính Ngọ 2026](https://www.sggp.org.vn/tphcm-trien-khai-phong-trao-tet-nhan-ai-xuan-binh-ngo-2026-post835209.html) - 13:55 25/01/2026
-- 💫 [Podcast bản tin tối 25-1: Bắt nhóm đối tượng 6 lần cắt trộm dây cáp ngầm điện trung thế](https://www.sggp.org.vn/podcast-ban-tin-toi-25-1-bat-nhom-doi-tuong-6-lan-cat-trom-day-cap-ngam-dien-trung-the-post835253.html) - 13:54 25/01/2026
-- 🧑‍💻 [Vận chuyển cát không nguồn gốc, người điều khiển vi phạm nồng độ cồn](https://www.sggp.org.vn/van-chuyen-cat-khong-nguon-goc-nguoi-dieu-khien-vi-pham-nong-do-con-post835246.html) - 13:38 25/01/2026
-- 🎊 [Không gian nghệ thuật công cộng mới giữa trung tâm thành phố](https://www.sggp.org.vn/khong-gian-nghe-thuat-cong-cong-moi-giua-trung-tam-thanh-pho-post835239.html) - 13:35 25/01/2026
-- 🤖 [Phường Thủ Đức &lpar;TPHCM&rpar; khai mạc lễ hội Tết Việt năm 2026](https://www.sggp.org.vn/phuong-thu-duc-tphcm-khai-mac-le-hoi-tet-viet-nam-2026-post835244.html) - 13:21 25/01/2026
-- 💫 [&quot;Buffet chay nghĩa tình&quot; gây quỹ cho phiên chợ tết 0 đồng](https://www.sggp.org.vn/buffet-chay-nghia-tinh-gay-quy-cho-phien-cho-tet-0-dong-post835237.html) - 13:02 25/01/2026
-- 👨‍🏫 [Bản tin tối 25-1: Hé lộ thủ đoạn tổ chức dây cá độ bóng đá hàng trăm tỷ](https://www.sggp.org.vn/ban-tin-toi-25-1-he-lo-thu-doan-to-chuc-day-ca-do-bong-da-hang-tram-ty-post835251.html) - 13:00 25/01/2026
-- 🧰 [Đồng Tháp: Liên tiếp phát hiện 6 phương tiện vận chuyển cát trái phép](https://www.sggp.org.vn/dong-thap-lien-tiep-phat-hien-6-phuong-tien-van-chuyen-cat-trai-phep-post835233.html) - 12:51 25/01/2026
-- 🥰 [Lê Chúc An vô địch giải golf quốc tế AJGA International Pathway Series 2026](https://www.sggp.org.vn/le-chuc-an-vo-dich-giai-golf-quoc-te-ajga-international-pathway-series-2026-post835220.html) - 12:49 25/01/2026
-- 💼 [UFC 324: Justin Gaethje giành đai Interim hạng nhẹ sau trận thắng nảy lửa Pabby Pimblett](https://www.sggp.org.vn/ufc-324-justin-gaethje-gianh-dai-interim-hang-nhe-sau-tran-thang-nay-lua-pabby-pimblett-post835241.html) - 12:48 25/01/2026
-- 🤗 [TPHCM: Phường Hạnh Thông mang “Xuân Đoàn Kết - Tết Nghĩa Tình” đến Cần Thơ](https://www.sggp.org.vn/tphcm-phuong-hanh-thong-mang-xuan-doan-ket-tet-nghia-tinh-den-can-tho-post835238.html) - 12:44 25/01/2026
-- 🦩 [Bắt nhóm đối tượng 6 lần cắt trộm dây cáp ngầm điện trung thế](https://www.sggp.org.vn/bat-nhom-doi-tuong-6-lan-cat-trom-day-cap-ngam-dien-trung-the-post835242.html) - 12:43 25/01/2026
-- 🫶 [Lãnh đạo Hội Nông dân TPHCM thăm, động viên người trồng hoa tết xã Bình Chánh](https://www.sggp.org.vn/lanh-dao-hoi-nong-dan-tphcm-tham-dong-vien-nguoi-trong-hoa-tet-xa-binh-chanh-post835243.html) - 12:38 25/01/2026<!-- sggp:END -->
+- 🪜 [HLV của Oviedo: “Yamal đến từ một thiên hà khác”](https://www.sggp.org.vn/hlv-cua-oviedo-yamal-den-tu-mot-thien-ha-khac-post835323.html) - 04:41 26/01/2026
+- 🌝 [Thiết bị giám sát hành trình tàu cá phải lưu dữ liệu tối thiểu 36 tháng](https://www.sggp.org.vn/thiet-bi-giam-sat-hanh-trinh-tau-ca-phai-luu-du-lieu-toi-thieu-36-thang-post835305.html) - 04:41 26/01/2026
+- 💃 [Israel triển khai nhiều biện pháp an ninh trước nguy cơ bất ổn khu vực](https://www.sggp.org.vn/israel-trien-khai-nhieu-bien-phap-an-ninh-truoc-nguy-co-bat-on-khu-vuc-post835294.html) - 04:34 26/01/2026
+- 🧑‍💻 [Trạm dừng nghỉ đường cao tốc Vĩnh Hảo - Phan Thiết hoạt động trở lại](https://www.sggp.org.vn/tram-dung-nghi-duong-cao-toc-vinh-hao-phan-thiet-hoat-dong-tro-lai-post835291.html) - 04:06 26/01/2026
+- 🌊 [Cảnh sát giao thông hỗ trợ sản phụ chuyển dạ trên đường cao tốc](https://www.sggp.org.vn/canh-sat-giao-thong-ho-tro-san-phu-chuyen-da-tren-duong-cao-toc-post835303.html) - 04:02 26/01/2026
+- 🧑‍💻 [Thái Lan tăng cường kiểm soát sân bay ngăn dịch bệnh do virus Nipah](https://www.sggp.org.vn/thai-lan-tang-cuong-kiem-soat-san-bay-ngan-dich-benh-do-virus-nipah-post835299.html) - 03:52 26/01/2026
+- ⛽️ [Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith bắt đầu chuyến thăm cấp Nhà nước tới Việt Nam](https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-lao-thongloun-sisoulith-bat-dau-chuyen-tham-cap-nha-nuoc-toi-viet-nam-post835302.html) - 03:36 26/01/2026
+- 😎 [Vietravel đưa trải nghiệm World Cup 2026™ đến gần người Việt](https://www.sggp.org.vn/vietravel-dua-trai-nghiem-world-cup-2026-den-gan-nguoi-viet-post835292.html) - 03:34 26/01/2026
+- 🌜 [BIDV SCFast 2026: Giải pháp toàn diện hỗ trợ doanh nghiệp trong chuỗi cung ứng](https://www.sggp.org.vn/bidv-scfast-2026-giai-phap-toan-dien-ho-tro-doanh-nghiep-trong-chuoi-cung-ung-post835288.html) - 03:32 26/01/2026
+- 💻 [Rà soát sản phẩm sữa Aptamil Infant Formula có nguy cơ nhiễm độc tố](https://www.sggp.org.vn/ra-soat-san-pham-sua-aptamil-infant-formula-co-nguy-co-nhiem-doc-to-post835283.html) - 03:07 26/01/2026
+- 👍 [Giá vàng miếng SJC lên 176,5 triệu đồng/lượng](https://www.sggp.org.vn/gia-vang-mieng-sjc-len-1765-trieu-dongluong-post835285.html) - 03:02 26/01/2026
+- 🦆 [Lùng bùng lỗ tai](https://www.sggp.org.vn/lung-bung-lo-tai-post835293.html) - 03:01 26/01/2026
+- 🦩 [Arteta thách thức Arsenal quật khởi sau trận thua Man.United](https://www.sggp.org.vn/arteta-thach-thuc-arsenal-quat-khoi-sau-tran-thua-manunited-post835290.html) - 02:42 26/01/2026
+- 🥰 [Triển lãm “Những con mắt của thời gian”: Ký ức đô thị trong không gian số](https://www.sggp.org.vn/trien-lam-nhung-con-mat-cua-thoi-gian-ky-uc-do-thi-trong-khong-gian-so-post835240.html) - 02:37 26/01/2026
+- 🎬 [Running Man Việt Nam bùng nổ doanh thu](https://www.sggp.org.vn/running-man-viet-nam-bung-no-doanh-thu-post835281.html) - 02:33 26/01/2026
+- 🦩 [Giá vàng vượt mốc không tưởng 5.000 USD/ounce](https://www.sggp.org.vn/gia-vang-vuot-moc-khong-tuong-5000-usdounce-post835287.html) - 02:29 26/01/2026
+- 🌮 [Công ty Yến sào Khánh Hoà - Chi nhánh Đà Nẵng - Đóng góp tích cực vào sự phát triển chung của Công ty trong giao đoạn mới.](https://www.sggp.org.vn/cong-ty-yen-sao-khanh-hoa-chi-nhanh-da-nang-dong-gop-tich-cuc-vao-su-phat-trien-chung-cua-cong-ty-trong-giao-doan-moi-post835280.html) - 02:21 26/01/2026
+- 👍 [Những vòng quay tử tế](https://www.sggp.org.vn/nhung-vong-quay-tu-te-post835274.html) - 02:16 26/01/2026
+- 🦒 [Hy vọng tìm người thân từ ADN](https://www.sggp.org.vn/hy-vong-tim-nguoi-than-tu-adn-post835266.html) - 02:15 26/01/2026
+- 🤡 [Xuân sẻ chia - tết đong đầy](https://www.sggp.org.vn/xuan-se-chia-tet-dong-day-post835273.html) - 02:15 26/01/2026
+- 🐎 [Những “chiến binh” bền bỉ](https://www.sggp.org.vn/nhung-chien-binh-ben-bi-post835277.html) - 02:15 26/01/2026
+- 🦆 [Juventus nhấn chìm nhà vô địch, Roma và Milan níu chân nhau](https://www.sggp.org.vn/juventus-nhan-chim-nha-vo-dich-roma-va-milan-niu-chan-nhau-post835286.html) - 02:14 26/01/2026
+- 🦅 [Siêu phẩm của Yamal giúp Barcelona giành lại ngôi đầu](https://www.sggp.org.vn/sieu-pham-cua-yamal-giup-barcelona-gianh-lai-ngoi-dau-post835278.html) - 00:44 26/01/2026
+- 🫣 [BIDV và KN Holdings tăng cường hợp tác toàn diện hướng tới phát triển bền vững](https://www.sggp.org.vn/bidv-va-kn-holdings-tang-cuong-hop-tac-toan-dien-huong-toi-phat-trien-ben-vung-post835121.html) - 00:35 26/01/2026
+- 🎭 [Thực tiễn đập tan mọi luận điệu thù địch, xuyên tạc](https://www.sggp.org.vn/thuc-tien-dap-tan-moi-luan-dieu-thu-dich-xuyen-tac-post835264.html) - 00:33 26/01/2026
+- 🫶 [Cha bị ung thư, 2 con có nguy cơ nghỉ học](https://www.sggp.org.vn/cha-bi-ung-thu-2-con-co-nguy-co-nghi-hoc-post835268.html) - 00:33 26/01/2026
+- 🎓 [Nâng cao năng lực số cho cán bộ quản lý giáo dục](https://www.sggp.org.vn/nang-cao-nang-luc-so-cho-can-bo-quan-ly-giao-duc-post835270.html) - 00:33 26/01/2026
+- 🤡 [Đa dạng hình thức học ngoại ngữ](https://www.sggp.org.vn/da-dang-hinh-thuc-hoc-ngoai-ngu-post835271.html) - 00:33 26/01/2026
+- 🦅 [Điện ảnh bắc cầu hy vọng](https://www.sggp.org.vn/dien-anh-bac-cau-hy-vong-post835275.html) - 00:33 26/01/2026
+- 🧑‍🏫 [TPHCM Tăng tốc phát triển nhà ở xã hội: Khơi thông điểm nghẽn, nhiều dự án khởi động](https://www.sggp.org.vn/tphcm-tang-toc-phat-trien-nha-o-xa-hoi-khoi-thong-diem-nghen-nhieu-du-an-khoi-dong-post835269.html) - 00:33 26/01/2026
+- 🕴 [Vòng chung kết giải bóng đá U23 châu Á 2026: Việt Nam “vẽ lại” bản đồ bóng đá trẻ](https://www.sggp.org.vn/vong-chung-ket-giai-bong-da-u23-chau-a-2026-viet-nam-ve-lai-ban-do-bong-da-tre-post835276.html) - 00:33 26/01/2026
+- 🦆 [Hạ tầng mở “bản đồ thời gian”, bất động sản Đông Bắc TPHCM vào chu kỳ tái định giá](https://www.sggp.org.vn/ha-tang-mo-ban-do-thoi-gian-bat-dong-san-dong-bac-tphcm-vao-chu-ky-tai-dinh-gia-post835084.html) - 00:30 26/01/2026
+- 🎃 [Cunha giúp Man.United nhấn chìm Arsenal ngay tại Emirates](https://www.sggp.org.vn/cunha-giup-manunited-nhan-chim-arsenal-ngay-tai-emirates-post835272.html) - 00:02 26/01/2026
+- 🌮 [Estevao tỏa sáng trận derby, Chelsea vươn lên thứ 5](https://www.sggp.org.vn/estevao-toa-sang-tran-derby-chelsea-vuon-len-thu-5-post835267.html) - 23:37 25/01/2026
+- 🥰 [Quật ngã Chích choè, Aston Villa hâm nóng cuộc đua vô địch](https://www.sggp.org.vn/quat-nga-chich-choe-aston-villa-ham-nong-cuoc-dua-vo-dich-post835265.html) - 23:37 25/01/2026
+- 🕯 [Báo Sài Gòn Giải Phóng ngày 26/1/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-2612026-post835261.html) - 23:16 25/01/2026
+- 🙉 [Đưa y tế cơ sở đến sát dân và phục vụ người dân tốt hơn](https://www.sggp.org.vn/dua-y-te-co-so-den-sat-dan-va-phuc-vu-nguoi-dan-tot-hon-post835263.html) - 23:16 25/01/2026
+- 💡 [Hành động nhanh, kết quả cụ thể](https://www.sggp.org.vn/hanh-dong-nhanh-ket-qua-cu-the-post835262.html) - 23:03 25/01/2026
+- 💫 [TPHCM: Chương trình nghệ thuật đặc biệt “Ánh sáng niềm tin và khát vọng”](https://www.sggp.org.vn/tphcm-chuong-trinh-nghe-thuat-dac-biet-anh-sang-niem-tin-va-khat-vong-post835258.html) - 16:10 25/01/2026
+- 🧑‍💻 [Một lịch sử nhìn từ danh tính người Việt nhân trường hợp &quot;Họ và tên&quot;](https://www.sggp.org.vn/mot-lich-su-nhin-tu-danh-tinh-nguoi-viet-nhan-truong-hop-ho-va-ten-post835247.html) - 15:46 25/01/2026
+- 🎊 [Công viên vườn hoa tại khu đất Nhà thi đấu Phan Đình Phùng “mở cửa” đón khách](https://www.sggp.org.vn/cong-vien-vuon-hoa-tai-khu-dat-nha-thi-dau-phan-dinh-phung-mo-cua-don-khach-post835255.html) - 15:10 25/01/2026
+- 🤖 [Phường Hòa Hưng &lpar;TPHCM&rpar; tổng kết Hội thi TDTT cụm trường học](https://www.sggp.org.vn/phuong-hoa-hung-tphcm-tong-ket-hoi-thi-tdtt-cum-truong-hoc-post835252.html) - 14:58 25/01/2026
+- 💫 [Sôi nổi giải bóng rổ tứ hùng phường Bình Phú](https://www.sggp.org.vn/soi-noi-giai-bong-ro-tu-hung-phuong-binh-phu-post835256.html) - 14:55 25/01/2026
+- 👨‍🏫 [Xúc động chương trình nghệ thuật đặc biệt “Oai hùng Vùng Bưng 6 xã”](https://www.sggp.org.vn/xuc-dong-chuong-trinh-nghe-thuat-dac-biet-oai-hung-vung-bung-6-xa-post835257.html) - 14:52 25/01/2026
+- 🧰 [Cựu Thủ tướng Hàn Quốc Lee Hae Chan qua đời tại TPHCM](https://www.sggp.org.vn/cuu-thu-tuong-han-quoc-lee-hae-chan-qua-doi-tai-tphcm-post835254.html) - 14:49 25/01/2026
+- 🥰 [Australian Open 2026: Learner Tien trở thành tay vợt trẻ nhất lọt vào tứ kết kể từ năm 2015](https://www.sggp.org.vn/australian-open-2026-learner-tien-tro-thanh-tay-vot-tre-nhat-lot-vao-tu-ket-ke-tu-nam-2015-post835249.html) - 14:19 25/01/2026
+- 💼 [SLNA gặp PVF ở trận chung kết giải bóng đá U19 quốc gia 2026](https://www.sggp.org.vn/slna-gap-pvf-o-tran-chung-ket-giai-bong-da-u19-quoc-gia-2026-post835248.html) - 14:18 25/01/2026
+- 🤗 [Futsal Việt Nam nâng khối lượng tập luyện lên 2 buổi, làm quen địa điểm thi đấu](https://www.sggp.org.vn/futsal-viet-nam-nang-khoi-luong-tap-luyen-len-2-buoi-lam-quen-dia-diem-thi-dau-post835250.html) - 14:17 25/01/2026
+- 🦩 [Đội tuyển futsal Việt Nam sẵn sàng bước vào giải châu Á 2026](https://www.sggp.org.vn/doi-tuyen-futsal-viet-nam-san-sang-buoc-vao-giai-chau-a-2026-post835245.html) - 14:17 25/01/2026
+- 🫶 [TPHCM triển khai phong trào Tết nhân ái – Xuân Bính Ngọ 2026](https://www.sggp.org.vn/tphcm-trien-khai-phong-trao-tet-nhan-ai-xuan-binh-ngo-2026-post835209.html) - 13:55 25/01/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
