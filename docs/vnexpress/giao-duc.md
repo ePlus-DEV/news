@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thưởng &#39;cào bằng&#39; 3,5 triệu đồng cho học sinh giỏi quốc gia sau một năm chậm](https://vnexpress.net/thuong-cao-bang-3-5-trieu-dong-cho-hoc-sinh-gioi-quoc-gia-sau-mot-nam-cham-5010476.html) - 07:18 27/01/2026
+- 🤓 [Thưởng &#39;cào bằng&#39; 3,5 triệu đồng cho học sinh giỏi quốc gia](https://vnexpress.net/thuong-cao-bang-3-5-trieu-dong-cho-hoc-sinh-gioi-quoc-gia-5010476.html) - 07:18 27/01/2026
 - 🦆 [Nam sinh chuyên Toán giành suất học bổng hiếm với điểm 9,9](https://vnexpress.net/nam-sinh-chuyen-toan-gianh-suat-hoc-bong-hiem-voi-diem-9-9-5006178.html) - 23:35 26/01/2026
 - 🦩 [Tranh cãi sinh viên dùng tool &#39;cướp slot&#39; môn học](https://vnexpress.net/tranh-cai-sinh-vien-dung-tool-cuop-slot-mon-hoc-5006649.html) - 23:00 26/01/2026
 - 🌮 [Đề thi đánh giá năng lực ĐH Quốc gia Hà Nội có 40% kiến thức lớp 10, 11](https://vnexpress.net/cau-truc-de-thi-de-cuong-on-tap-thi-danh-gia-nang-luc-hsa-dai-hoc-quoc-gia-ha-noi-nam-2026-moi-nhat-5010216.html) - 15:24 26/01/2026
