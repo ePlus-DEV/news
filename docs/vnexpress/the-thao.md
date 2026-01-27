@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Việt Nam thắng ngược trận ra quân giải futsal châu Á](https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html) - 13:28 27/01/2026
-- 🦩 [Luật sư: &#39;Cầu thủ nhập tịch Malaysia chớ vội mừng khi được hoãn án phạt của FIFA’](https://vnexpress.net/luat-su-cau-thu-nhap-tich-malaysia-cho-voi-mung-khi-duoc-hoan-an-phat-cua-fifa-5010750.html) - 11:30 27/01/2026
+- 🦩 [Luật sư: &#39;Cầu thủ nhập tịch Malaysia chớ vội mừng khi được hoãn án phạt của FIFA&#39;](https://vnexpress.net/luat-su-cau-thu-nhap-tich-malaysia-cho-voi-mung-khi-duoc-hoan-an-phat-cua-fifa-5010750.html) - 11:30 27/01/2026
 - 🧰 [Neymar bênh cầu thủ bị phạt vì &#39;dẫm lên bóng&#39;](https://vnexpress.net/neymar-benh-cau-thu-bi-phat-vi-dam-len-bong-5010629.html) - 09:43 27/01/2026
 - 🤗 [Endrick xô đổ kỷ lục của Ronaldo De Lima](https://vnexpress.net/endrick-xo-do-ky-luc-cua-ronaldo-de-lima-5010548.html) - 07:03 27/01/2026
 - 🥳 [Tuyển thủ Malaysia mừng rỡ khi được tạm đình chỉ án phạt của FIFA](https://vnexpress.net/tuyen-thu-malaysia-mung-ro-khi-duoc-tam-dinh-chi-an-phat-cua-fifa-5010578.html) - 06:50 27/01/2026
