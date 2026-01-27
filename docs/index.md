@@ -78,7 +78,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Y tá bị đặc vụ Mỹ bắn chết từng nhận được thư tri ân](https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html) - 13:00 27/01/2026
 - 💂 [Anh chị em tôi chăm bố liệt giường ở tuổi 102](https://vnexpress.net/anh-chi-em-toi-cham-bo-liet-giuong-o-tuoi-102-5010664.html) - 13:00 27/01/2026
 - 🚀 [Chồng không về chịu tang ông tôi, cũng không gọi điện chia buồn](https://vnexpress.net/ong-toi-mat-nhung-chong-van-vui-ve-di-du-lich-va-khong-them-goi-mot-cu-dien-thoai-chia-buon-5010441.html) - 13:00 27/01/2026
-- 🕴 [Hyun Bin gây sốt với vai nửa chính nửa tà](https://vnexpress.net/hyun-bin-gay-sot-voi-vai-nua-chinh-nua-ta-5010012.html) - 13:00 27/01/2026<!-- vnexpress:END -->
+- 🕴 [Hyun Bin gây sốt với vai nửa chính nửa tà](https://vnexpress.net/hyun-bin-gay-sot-voi-vai-nua-chinh-nua-ta-5010012.html) - 13:00 27/01/2026
+- 🦆 [OCB khởi động chiến dịch thu gom pin giai đoạn 2](https://vnexpress.net/ocb-khoi-dong-chien-dich-thu-gom-pin-giai-doan-2-5010747.html) - 13:00 27/01/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
