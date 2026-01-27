@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh chuyên Toán giành suất học bổng hiếm](https://vnexpress.net/nam-sinh-chuyen-toan-gianh-suat-hoc-bong-hiem-5006178.html) - 23:35 26/01/2026
-- 🦆 [Tranh cãi sinh viên dùng công cụ &#39;cướp slot&#39; môn học](https://vnexpress.net/tranh-cai-sinh-vien-dung-cong-cu-cuop-slot-mon-hoc-5006649.html) - 23:00 26/01/2026
+- 🤓 [Nam sinh chuyên Toán giành suất học bổng hiếm với điểm 9,9](https://vnexpress.net/nam-sinh-chuyen-toan-gianh-suat-hoc-bong-hiem-voi-diem-9-9-5006178.html) - 23:35 26/01/2026
+- 🦆 [Tranh cãi sinh viên dùng tool &#39;cướp slot&#39; môn học](https://vnexpress.net/tranh-cai-sinh-vien-dung-tool-cuop-slot-mon-hoc-5006649.html) - 23:00 26/01/2026
 - 🦩 [Đề thi đánh giá năng lực ĐH Quốc gia Hà Nội có 40% kiến thức lớp 10, 11](https://vnexpress.net/cau-truc-de-thi-de-cuong-on-tap-thi-danh-gia-nang-luc-hsa-dai-hoc-quoc-gia-ha-noi-nam-2026-moi-nhat-5010216.html) - 15:24 26/01/2026
 - 🌮 [Nước nào có mật độ dân số thấp nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-mat-do-dan-so-thap-nhat-dong-nam-a-5010195.html) - 13:00 26/01/2026
 - 🔭 [Giáo sư Vũ Hà Văn gia nhập đại học số 1 châu Á](https://vnexpress.net/giao-su-vu-ha-van-gia-nhap-dai-hoc-so-1-chau-a-5010173.html) - 12:00 26/01/2026
