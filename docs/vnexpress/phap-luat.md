@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Một ca xử lý vi phạm vỉa hè bắt đầu từ camera AI sẽ như thế nào](https://vnexpress.net/mot-ca-xu-ly-vi-pham-via-he-bat-dau-tu-camera-ai-se-nhu-the-nao-5010974.html) - 05:04 28/01/2026
+- 😎 [Một ca xử lý lấn chiếm vỉa hè do camera AI phát hiện sẽ như thế nào](https://vnexpress.net/mot-ca-xu-ly-lan-chiem-via-he-do-camera-ai-phat-hien-se-nhu-the-nao-5010974.html) - 05:04 28/01/2026
 - 🥰 [Thái độ tại phiên tòa khiến kẻ ấu dâm khét tiếng mất cơ hội được tự do](https://vnexpress.net/thai-do-tai-phien-toa-khien-ke-au-dam-khet-tieng-mat-co-hoi-duoc-tu-do-5010931.html) - 04:21 28/01/2026
 - 🎓 [Ném bom xăng đốt nhà ông bà vì bị ngăn cản chơi game](https://vnexpress.net/nem-bom-xang-dot-nha-ong-ba-vi-bi-ngan-can-choi-game-5010929.html) - 03:57 28/01/2026
 - 🤓 [Lừa tiền người mua máy phát điện qua mạng xã hội](https://vnexpress.net/lua-tien-nguoi-mua-may-phat-dien-qua-mang-xa-hoi-5010878.html) - 02:48 28/01/2026
