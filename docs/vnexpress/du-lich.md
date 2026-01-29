@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Quán nhậu Tokyo gây tranh cãi vì từ chối khách trên 40 tuổi](https://vnexpress.net/quan-nhau-tokyo-gay-tranh-cai-vi-tu-choi-khach-tren-40-tuoi-5011343.html) - 09:52 29/01/2026
+- 💂 [Khách thử thách cơn đau chuyển dạ bằng máy mô phỏng](https://vnexpress.net/khach-thu-thach-con-dau-chuyen-da-bang-may-mo-phong-5011491.html) - 13:00 29/01/2026
 - 🪄 [Du khách trả giá vì du lịch không ngừng nghỉ](https://vnexpress.net/du-khach-tra-gia-vi-du-lich-khong-ngung-nghi-5011025.html) - 01:00 29/01/2026
 - 🦅 [Cách các nước láng giềng bảo tồn làng cổ như Lô Lô Chải](https://vnexpress.net/cach-cac-nuoc-lang-gieng-bao-ton-lang-co-nhu-lo-lo-chai-5008382.html) - 00:00 29/01/2026
 - 🕴 [Khách Việt &#39;nín thở&#39; chờ xuất ngoại dịp Tết vì lo virus Nipah](https://vnexpress.net/khach-viet-nin-tho-cho-xuat-ngoai-dip-tet-vi-lo-virus-nipah-5010606.html) - 17:00 28/01/2026
