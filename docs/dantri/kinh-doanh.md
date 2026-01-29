@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Vàng và sự thật trần trụi về niềm tin của thế giới tài chính](https://dantri.com.vn/kinh-doanh/vang-va-su-that-tran-trui-ve-niem-tin-cua-the-gioi-tai-chinh-20260126183835869.htm) - 04:35 29/01/2026
-- 🦆 [Du thuyền của bà Trương Mỹ Lan được rao bán giá gần 50 tỷ đồng](https://dantri.com.vn/kinh-doanh/du-thuyen-cua-ba-truong-my-lan-duoc-rao-ban-gia-gan-50-ty-dong-20260129094958593.htm) - 04:17 29/01/2026
-- 🦄 [Agribank chung tay vì người nghèo, đối tượng chính sách nhân dịp xuân Bính Ngọ](https://dantri.com.vn/kinh-doanh/agribank-chung-tay-vi-nguoi-ngheo-doi-tuong-chinh-sach-nhan-dip-xuan-binh-ngo-20260129090205629.htm) - 03:00 29/01/2026
-- 🌝 [Tài xế drone: Lời giải về nền kinh tế xanh tăng trưởng 2 con số Việt Nam](https://dantri.com.vn/kinh-doanh/tai-xe-drone-loi-giai-ve-nen-kinh-te-xanh-tang-truong-2-con-so-viet-nam-20251204171256807.htm) - 02:20 29/01/2026
-- 💃 [Nhiều doanh nghiệp bất động sản, tài chính hết thua lỗ](https://dantri.com.vn/kinh-doanh/nhieu-doanh-nghiep-bat-dong-san-tai-chinh-het-thua-lo-20260128075812426.htm) - 02:14 29/01/2026
-- 🦏 [Vàng miếng SJC vượt 190 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-vuot-190-trieu-dongluong-20260129070408437.htm) - 02:11 29/01/2026
-- 🦩 [Tiêu chuẩn làm công nghiệp đường sắt: Đo tiềm lực các ứng viên siêu dự án](https://dantri.com.vn/kinh-doanh/tieu-chuan-lam-cong-nghiep-duong-sat-do-tiem-luc-cac-ung-vien-sieu-du-an-20260126083557012.htm) - 00:09 29/01/2026
-- 💡 [Fed giữ nguyên lãi suất, thị trường tài chính toàn cầu vẫn rung chuyển](https://dantri.com.vn/kinh-doanh/fed-giu-nguyen-lai-suat-thi-truong-tai-chinh-toan-cau-van-rung-chuyen-20260128234801957.htm) - 23:44 28/01/2026
-- 🌊 [Việt Nam có bao nhiêu ngân hàng tài sản vượt 1 triệu tỷ đồng?](https://dantri.com.vn/kinh-doanh/viet-nam-co-bao-nhieu-ngan-hang-tai-san-vuot-1-trieu-ty-dong-20260128093353268.htm) - 23:16 28/01/2026
-- 🧑‍💻 [Một năm sau cú sốc DeepSeek:  Ai đang âm thầm thâu tóm tỷ USD?](https://dantri.com.vn/kinh-doanh/mot-nam-sau-cu-soc-deepseek-ai-dang-am-tham-thau-tom-ty-usd-20260128171214019.htm) - 17:08 28/01/2026
-- 🎓 [Bất ngờ về công ty có hãng sữa Aptamil vừa bị thu hồi](https://dantri.com.vn/kinh-doanh/bat-ngo-ve-cong-ty-co-hang-sua-aptamil-vua-bi-thu-hoi-20260127153841387.htm) - 13:49 28/01/2026
-- 🪄 [Thaco của tỷ phú Trần Bá Dương đăng ký bổ sung kinh doanh mảng đường sắt](https://dantri.com.vn/kinh-doanh/thaco-cua-ty-phu-tran-ba-duong-dang-ky-bo-sung-kinh-doanh-mang-duong-sat-20260127210544464.htm) - 13:46 28/01/2026
-- 🪜 [Puma đổi chủ: Canh bạc 1,8 tỷ USD của gã khổng lồ Trung Quốc](https://dantri.com.vn/kinh-doanh/puma-doi-chu-canh-bac-18-ty-usd-cua-ga-khong-lo-trung-quoc-20260128162337215.htm) - 11:28 28/01/2026
-- 🦄 [Fed họp giữa &quot;tâm bão&quot;, Chủ tịch Powell thành điểm nóng](https://dantri.com.vn/kinh-doanh/fed-hop-giua-tam-bao-chu-tich-powell-thanh-diem-nong-20260128132730053.htm) - 11:18 28/01/2026
-- 💯 [Đột xuất kiểm tra loạt hộ kinh doanh, có hộ bị phạt 175 triệu đồng](https://dantri.com.vn/kinh-doanh/dot-xuat-kiem-tra-loat-ho-kinh-doanh-co-ho-bi-phat-175-trieu-dong-20260128175854354.htm) - 11:16 28/01/2026
-- 💡 [Một cổ phiếu &quot;họ&quot; Gelex sắp niêm yết trên HoSE](https://dantri.com.vn/kinh-doanh/mot-co-phieu-ho-gelex-sap-niem-yet-tren-hose-20260128151707136.htm) - 10:17 28/01/2026
-- 🧰 [Cổ phiếu Vinaconex thoát sàn, ACV tăng trở lại](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-thoat-san-acv-tang-tro-lai-20260128152909410.htm) - 10:06 28/01/2026
-- 🎊 [Phải &quot;cai nghiện&quot; đường bộ, tách dòng giao thông để TPHCM cất cánh](https://dantri.com.vn/kinh-doanh/phai-cai-nghien-duong-bo-tach-dong-giao-thong-de-tphcm-cat-canh-20260128143828704.htm) - 08:11 28/01/2026
-- 🔭 [AMACCAO và dấu ấn gắn liền với Hà Nội trên hành trình phát triển đột phá](https://dantri.com.vn/kinh-doanh/amaccao-va-dau-an-gan-lien-voi-ha-noi-tren-hanh-trinh-phat-trien-dot-pha-20260128143536716.htm) - 08:07 28/01/2026
-- 💼 [Một công ty bất động sản kiếm đậm từ đầu tư chứng khoán](https://dantri.com.vn/kinh-doanh/mot-cong-ty-bat-dong-san-kiem-dam-tu-dau-tu-chung-khoan-20260128095916347.htm) - 07:47 28/01/2026
-- 🕯 [Lộ diện nhà đầu tư trúng thầu siêu dự án điện khí LNG Cà Ná hơn 57.000 tỷ](https://dantri.com.vn/kinh-doanh/lo-dien-nha-dau-tu-trung-thau-sieu-du-an-dien-khi-lng-ca-na-hon-57000-ty-20260128141023370.htm) - 07:37 28/01/2026
-- 🫣 [Lương duyên tỷ phú Việt: Bầu Đức, Trần Bá Dương và lá thư tay 2.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/luong-duyen-ty-phu-viet-bau-duc-tran-ba-duong-va-la-thu-tay-2000-ty-dong-20260122175000455.htm) - 07:15 28/01/2026
-- 🤠 [&quot;Ông trùm&quot; taxi Mai Linh kinh doanh ra sao?](https://dantri.com.vn/kinh-doanh/ong-trum-taxi-mai-linh-kinh-doanh-ra-sao-20260128111742025.htm) - 07:06 28/01/2026
-- 🌈 [Làm rõ việc lương trên 5 triệu đồng phải thanh toán chuyển khoản](https://dantri.com.vn/kinh-doanh/lam-ro-viec-luong-tren-5-trieu-dong-phai-thanh-toan-chuyen-khoan-20260128121058018.htm) - 06:58 28/01/2026
-- 🦅 [Giá xăng dầu ngày mai sẽ tăng đồng loạt?](https://dantri.com.vn/kinh-doanh/gia-xang-dau-ngay-mai-se-tang-dong-loat-20260128100645444.htm) - 03:36 28/01/2026
-- 🌁 [Vinaconex sắp bị thanh tra: Ai sở hữu, ai là chủ nợ?](https://dantri.com.vn/kinh-doanh/vinaconex-sap-bi-thanh-tra-ai-so-huu-ai-la-chu-no-20260128081605426.htm) - 02:48 28/01/2026
-- 🎓 [Trà sữa La Boong, bún riêu cô Hương béo, phở Hào bị phạt](https://dantri.com.vn/kinh-doanh/tra-sua-la-boong-bun-rieu-co-huong-beo-pho-hao-bi-phat-20260128090006249.htm) - 02:33 28/01/2026
-- 📝 [Ông Trịnh Văn Quyết tái xuất: Nhóm cổ phiếu hệ sinh thái FLC đang ra sao?](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-nhom-co-phieu-he-sinh-thai-flc-dang-ra-sao-20260127141202163.htm) - 00:54 28/01/2026
-- 🕴 [Lãi suất Fed 2026: Sức ép từ ông Trump và ẩn số ghế nóng Jerome Powell](https://dantri.com.vn/kinh-doanh/lai-suat-fed-2026-suc-ep-tu-ong-trump-va-an-so-ghe-nong-jerome-powell-20260127145424618.htm) - 23:59 27/01/2026
-- 🧰 [Giá vàng miếng vượt 182 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-vuot-182-trieu-dongluong-20260128014257387.htm) - 23:48 27/01/2026
-- 🤖 [Kinh tế Mỹ 2026: Giấc mơ tăng trưởng 5% và ẩn số mang tên AI](https://dantri.com.vn/kinh-doanh/kinh-te-my-2026-giac-mo-tang-truong-5-va-an-so-mang-ten-ai-20260127183245459.htm) - 13:02 27/01/2026
-- 🤠 [Thêm ngân hàng tăng lãi suất, gửi tiền ở đâu lời nhất?](https://dantri.com.vn/kinh-doanh/them-ngan-hang-tang-lai-suat-gui-tien-o-dau-loi-nhat-20260127150610059.htm) - 12:28 27/01/2026
-- 🌮 [Người có nhà cho thuê nộp thuế ra sao?](https://dantri.com.vn/kinh-doanh/nguoi-co-nha-cho-thue-nop-thue-ra-sao-20260127151845754.htm) - 10:52 27/01/2026
-- 🦄 [Xu hướng sắm Tết thiết thực: Tủ lạnh và máy giặt bền bỉ, tiết kiệm điện](https://dantri.com.vn/kinh-doanh/xu-huong-sam-tet-thiet-thuc-tu-lanh-va-may-giat-ben-bi-tiet-kiem-dien-20260127163644348.htm) - 09:56 27/01/2026
-- 👺 [&quot;Ngôi sao&quot; cổ phiếu dầu khí trong phiên thị trường giảm hơn 13 điểm](https://dantri.com.vn/kinh-doanh/ngoi-sao-co-phieu-dau-khi-trong-phien-thi-truong-giam-hon-13-diem-20260127162414346.htm) - 09:44 27/01/2026
-- 🤗 [Cổ phiếu Vinaconex giảm sàn phiên thứ 2, ACV &quot;bốc hơi&quot; hơn 6%](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-giam-san-phien-thu-2-acv-boc-hoi-hon-6-20260127152942891.htm) - 09:01 27/01/2026
-- 💪 [Ông Trịnh Văn Quyết tái xuất: Loạt động thái đáng chú ý của FLC](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-loat-dong-thai-dang-chu-y-cua-flc-20260127144008098.htm) - 08:47 27/01/2026
-- ⚗️ [Lộ diện đơn vị chi giá cao gấp 3 lần mua vốn hãng mì &quot;2 con tôm&quot;](https://dantri.com.vn/kinh-doanh/lo-dien-don-vi-chi-gia-cao-gap-3-lan-mua-von-hang-mi-2-con-tom-20260114081718226.htm) - 08:25 27/01/2026
-- 🧠 [Thưởng Tết trung bình của nhân viên Long Châu tăng 47%, cao nhất nhận 127 triệu đồng](https://dantri.com.vn/kinh-doanh/thuong-tet-trung-binh-cua-nhan-vien-long-chau-tang-47-cao-nhat-nhan-127-trieu-dong-20260127141815535.htm) - 08:00 27/01/2026
-- 🗽 [Tư duy chiến lược và lựa chọn thông minh trong tái định vị đầu tư](https://dantri.com.vn/kinh-doanh/tu-duy-chien-luoc-va-lua-chon-thong-minh-trong-tai-dinh-vi-dau-tu-20260127141037819.htm) - 07:50 27/01/2026
-- 🫣 [2.300 tỷ USD đổ vào công nghệ xanh](https://dantri.com.vn/kinh-doanh/2300-ty-usd-do-vao-cong-nghe-xanh-20260126222851343.htm) - 07:18 27/01/2026
-- 🫣 [Hội chợ Mùa Xuân 2026 chốt lịch diễn ra từ ngày 2/2](https://dantri.com.vn/kinh-doanh/hoi-cho-mua-xuan-2026-chot-lich-dien-ra-tu-ngay-22-20260127122913305.htm) - 06:08 27/01/2026
-- 🫣 [30 năm PVI: Từ dầu khí đến định chế bảo hiểm tài chính tỷ đô](https://dantri.com.vn/kinh-doanh/30-nam-pvi-tu-dau-khi-den-dinh-che-bao-hiem-tai-chinh-ty-do-20260126191403982.htm) - 05:00 27/01/2026
-- 💂 [Sân bay Nội Bài sương mù dày đặc, 13 chuyến bay bị ảnh hưởng](https://dantri.com.vn/kinh-doanh/san-bay-noi-bai-suong-mu-day-dac-13-chuyen-bay-bi-anh-huong-20260127113540408.htm) - 04:50 27/01/2026
-- 💫 [Virus Nipah bùng phát tại Ấn Độ: Loạt sân bay châu Á siết kiểm soát y tế](https://dantri.com.vn/kinh-doanh/virus-nipah-bung-phat-tai-an-do-loat-san-bay-chau-a-siet-kiem-soat-y-te-20260127105312948.htm) - 04:24 27/01/2026
-- 😺 [Cổ phiếu tăng trần 5 phiên liên tục, F88 giải thích thế nào?](https://dantri.com.vn/kinh-doanh/co-phieu-tang-tran-5-phien-lien-tuc-f88-giai-thich-the-nao-20260127071406449.htm) - 03:11 27/01/2026
-- 🦆 [Giá bạc tăng cao, chuyên gia nêu cảnh báo quan trọng](https://dantri.com.vn/kinh-doanh/gia-bac-tang-cao-chuyen-gia-neu-canh-bao-quan-trong-20260127092029149.htm) - 03:08 27/01/2026
-- 👀 [Cùng OMO mang “lộc xanh” đến Vườn quốc gia Núi Chúa - Phước Bình](https://dantri.com.vn/kinh-doanh/cung-omo-mang-loc-xanh-den-vuon-quoc-gia-nui-chua-phuoc-binh-20260126121432437.htm) - 03:00 27/01/2026
-- 🐵 [Lãi vay mua nhà tăng, khách khóc ròng, chuyên gia nêu hết thời &quot;lướt sóng”?](https://dantri.com.vn/kinh-doanh/lai-vay-mua-nha-tang-khach-khoc-rong-chuyen-gia-neu-het-thoi-luot-song-20260126093531524.htm) - 02:17 27/01/2026
-- 🤖 [Bitcoin rơi tự do, tỷ USD tháo chạy kỷ lục, đáy sâu ở đâu?](https://dantri.com.vn/kinh-doanh/bitcoin-roi-tu-do-ty-usd-thao-chay-ky-luc-day-sau-o-dau-20260126211814171.htm) - 01:36 27/01/2026
-- 💂 [Vàng miếng SJC tăng lên mức 177,3 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-len-muc-1773-trieu-dongluong-20260127070725322.htm) - 00:14 27/01/2026
-- 🦆 [Singapore cấp tiền hỗ trợ hãng đồ uống trước &quot;giờ G&quot; luật tái chế](https://dantri.com.vn/kinh-doanh/singapore-cap-tien-ho-tro-hang-do-uong-truoc-gio-g-luat-tai-che-20260126215744026.htm) - 00:09 27/01/2026
-- 🦅 [Bầu trời 1.000-5.000m ở Việt Nam đang tạo cơ hội &quot;hái ra tiền&quot; chưa từng có](https://dantri.com.vn/kinh-doanh/bau-troi-1000-5000m-o-viet-nam-dang-tao-co-hoi-hai-ra-tien-chua-tung-co-20251212133702973.htm) - 23:11 26/01/2026
-- 😎 [Vì sao bitcoin đang lép vế trước vàng với vai trò hầm trú ẩn?](https://dantri.com.vn/kinh-doanh/vi-sao-bitcoin-dang-lep-ve-truoc-vang-voi-vai-tro-ham-tru-an-20260126124717640.htm) - 22:17 26/01/2026
-- 🐎 [Ông Trịnh Văn Quyết tái xuất](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-20260126220936358.htm) - 15:34 26/01/2026
-- 👍 [Công xưởng bí mật và công nghệ làm giả túi hiệu lừa cả máy X-quang](https://dantri.com.vn/kinh-doanh/cong-xuong-bi-mat-va-cong-nghe-lam-gia-tui-hieu-lua-ca-may-x-quang-20260122143431151.htm) - 14:39 26/01/2026
-- 🦒 [Cổ phiếu Vinaconex &quot;có biến&quot;, dư bán sàn hơn 17 triệu đơn vị](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-co-bien-du-ban-san-hon-17-trieu-don-vi-20260126182329345.htm) - 12:20 26/01/2026
-- 💻 [Thủ tướng yêu cầu sớm vận hành sàn giao dịch vàng trong tháng 2](https://dantri.com.vn/kinh-doanh/thu-tuong-yeu-cau-som-van-hanh-san-giao-dich-vang-trong-thang-2-20260126190544985.htm) - 12:18 26/01/2026
-- 👺 [Bộ Công Thương yêu cầu các sàn gỡ ngay sữa Aptamil nghi vấn nhiễm độc](https://dantri.com.vn/kinh-doanh/bo-cong-thuong-yeu-cau-cac-san-go-ngay-sua-aptamil-nghi-van-nhiem-doc-20260126175409167.htm) - 11:02 26/01/2026
-- 🧐 [Lời khuyên để đời của Warren Buffett về cạm bẫy khiến bạn mãi nghèo](https://dantri.com.vn/kinh-doanh/loi-khuyen-de-doi-cua-warren-buffett-ve-cam-bay-khien-ban-mai-ngheo-20260126120836219.htm) - 10:39 26/01/2026<!-- dantri-kinh-doanh:END -->
+- 🏊 [SunGroup đến, Vietravel đi: Hàng không vào cuộc đua sàng lọc khốc liệt](https://dantri.com.vn/kinh-doanh/sungroup-den-vietravel-di-hang-khong-vao-cuoc-dua-sang-loc-khoc-liet-20260119105124121.htm) - 07:36 29/01/2026
+- 🦆 [Giá xăng dầu tăng, có loại tăng hơn 700 đồng/lít](https://dantri.com.vn/kinh-doanh/gia-xang-dau-tang-co-loai-tang-hon-700-donglit-20260129125504785.htm) - 07:31 29/01/2026
+- 🦄 [Phát hiện mỏ dầu lớn ngoài khơi Việt Nam: Bộ Công Thương thông tin](https://dantri.com.vn/kinh-doanh/phat-hien-mo-dau-lon-ngoai-khoi-viet-nam-bo-cong-thuong-thong-tin-20260129123751616.htm) - 07:22 29/01/2026
+- 🌝 [Vàng và sự thật trần trụi về niềm tin của thế giới tài chính](https://dantri.com.vn/kinh-doanh/vang-va-su-that-tran-trui-ve-niem-tin-cua-the-gioi-tai-chinh-20260126183835869.htm) - 04:35 29/01/2026
+- 💃 [Du thuyền của bà Trương Mỹ Lan được rao bán giá gần 50 tỷ đồng](https://dantri.com.vn/kinh-doanh/du-thuyen-cua-ba-truong-my-lan-duoc-rao-ban-gia-gan-50-ty-dong-20260129094958593.htm) - 04:17 29/01/2026
+- 🦏 [Agribank chung tay vì người nghèo, đối tượng chính sách nhân dịp xuân Bính Ngọ](https://dantri.com.vn/kinh-doanh/agribank-chung-tay-vi-nguoi-ngheo-doi-tuong-chinh-sach-nhan-dip-xuan-binh-ngo-20260129090205629.htm) - 03:00 29/01/2026
+- 🦩 [Tài xế drone: Lời giải về nền kinh tế xanh tăng trưởng 2 con số Việt Nam](https://dantri.com.vn/kinh-doanh/tai-xe-drone-loi-giai-ve-nen-kinh-te-xanh-tang-truong-2-con-so-viet-nam-20251204171256807.htm) - 02:20 29/01/2026
+- 💡 [Nhiều doanh nghiệp bất động sản, tài chính hết thua lỗ](https://dantri.com.vn/kinh-doanh/nhieu-doanh-nghiep-bat-dong-san-tai-chinh-het-thua-lo-20260128075812426.htm) - 02:14 29/01/2026
+- 🌊 [Vàng miếng SJC vượt 190 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-vuot-190-trieu-dongluong-20260129070408437.htm) - 02:11 29/01/2026
+- 🧑‍💻 [Tiêu chuẩn làm công nghiệp đường sắt: Đo tiềm lực các ứng viên siêu dự án](https://dantri.com.vn/kinh-doanh/tieu-chuan-lam-cong-nghiep-duong-sat-do-tiem-luc-cac-ung-vien-sieu-du-an-20260126083557012.htm) - 00:09 29/01/2026
+- 🎓 [Fed giữ nguyên lãi suất, thị trường tài chính toàn cầu vẫn rung chuyển](https://dantri.com.vn/kinh-doanh/fed-giu-nguyen-lai-suat-thi-truong-tai-chinh-toan-cau-van-rung-chuyen-20260128234801957.htm) - 23:44 28/01/2026
+- 🪄 [Việt Nam có bao nhiêu ngân hàng tài sản vượt 1 triệu tỷ đồng?](https://dantri.com.vn/kinh-doanh/viet-nam-co-bao-nhieu-ngan-hang-tai-san-vuot-1-trieu-ty-dong-20260128093353268.htm) - 23:16 28/01/2026
+- 🪜 [Một năm sau cú sốc DeepSeek:  Ai đang âm thầm thâu tóm tỷ USD?](https://dantri.com.vn/kinh-doanh/mot-nam-sau-cu-soc-deepseek-ai-dang-am-tham-thau-tom-ty-usd-20260128171214019.htm) - 17:08 28/01/2026
+- 🦄 [Bất ngờ về công ty có hãng sữa Aptamil vừa bị thu hồi](https://dantri.com.vn/kinh-doanh/bat-ngo-ve-cong-ty-co-hang-sua-aptamil-vua-bi-thu-hoi-20260127153841387.htm) - 13:49 28/01/2026
+- 💯 [Thaco của tỷ phú Trần Bá Dương đăng ký bổ sung kinh doanh mảng đường sắt](https://dantri.com.vn/kinh-doanh/thaco-cua-ty-phu-tran-ba-duong-dang-ky-bo-sung-kinh-doanh-mang-duong-sat-20260127210544464.htm) - 13:46 28/01/2026
+- 💡 [Puma đổi chủ: Canh bạc 1,8 tỷ USD của gã khổng lồ Trung Quốc](https://dantri.com.vn/kinh-doanh/puma-doi-chu-canh-bac-18-ty-usd-cua-ga-khong-lo-trung-quoc-20260128162337215.htm) - 11:28 28/01/2026
+- 🧰 [Fed họp giữa &quot;tâm bão&quot;, Chủ tịch Powell thành điểm nóng](https://dantri.com.vn/kinh-doanh/fed-hop-giua-tam-bao-chu-tich-powell-thanh-diem-nong-20260128132730053.htm) - 11:18 28/01/2026
+- 🎊 [Đột xuất kiểm tra loạt hộ kinh doanh, có hộ bị phạt 175 triệu đồng](https://dantri.com.vn/kinh-doanh/dot-xuat-kiem-tra-loat-ho-kinh-doanh-co-ho-bi-phat-175-trieu-dong-20260128175854354.htm) - 11:16 28/01/2026
+- 🔭 [Một cổ phiếu &quot;họ&quot; Gelex sắp niêm yết trên HoSE](https://dantri.com.vn/kinh-doanh/mot-co-phieu-ho-gelex-sap-niem-yet-tren-hose-20260128151707136.htm) - 10:17 28/01/2026
+- 💼 [Cổ phiếu Vinaconex thoát sàn, ACV tăng trở lại](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-thoat-san-acv-tang-tro-lai-20260128152909410.htm) - 10:06 28/01/2026
+- 🕯 [Phải &quot;cai nghiện&quot; đường bộ, tách dòng giao thông để TPHCM cất cánh](https://dantri.com.vn/kinh-doanh/phai-cai-nghien-duong-bo-tach-dong-giao-thong-de-tphcm-cat-canh-20260128143828704.htm) - 08:11 28/01/2026
+- 🫣 [AMACCAO và dấu ấn gắn liền với Hà Nội trên hành trình phát triển đột phá](https://dantri.com.vn/kinh-doanh/amaccao-va-dau-an-gan-lien-voi-ha-noi-tren-hanh-trinh-phat-trien-dot-pha-20260128143536716.htm) - 08:07 28/01/2026
+- 🤠 [Một công ty bất động sản kiếm đậm từ đầu tư chứng khoán](https://dantri.com.vn/kinh-doanh/mot-cong-ty-bat-dong-san-kiem-dam-tu-dau-tu-chung-khoan-20260128095916347.htm) - 07:47 28/01/2026
+- 🌈 [Lộ diện nhà đầu tư trúng thầu siêu dự án điện khí LNG Cà Ná hơn 57.000 tỷ](https://dantri.com.vn/kinh-doanh/lo-dien-nha-dau-tu-trung-thau-sieu-du-an-dien-khi-lng-ca-na-hon-57000-ty-20260128141023370.htm) - 07:37 28/01/2026
+- 🦅 [Lương duyên tỷ phú Việt: Bầu Đức, Trần Bá Dương và lá thư tay 2.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/luong-duyen-ty-phu-viet-bau-duc-tran-ba-duong-va-la-thu-tay-2000-ty-dong-20260122175000455.htm) - 07:15 28/01/2026
+- 🌁 [&quot;Ông trùm&quot; taxi Mai Linh kinh doanh ra sao?](https://dantri.com.vn/kinh-doanh/ong-trum-taxi-mai-linh-kinh-doanh-ra-sao-20260128111742025.htm) - 07:06 28/01/2026
+- 🎓 [Làm rõ việc lương trên 5 triệu đồng phải thanh toán chuyển khoản](https://dantri.com.vn/kinh-doanh/lam-ro-viec-luong-tren-5-trieu-dong-phai-thanh-toan-chuyen-khoan-20260128121058018.htm) - 06:58 28/01/2026
+- 📝 [Giá xăng dầu ngày mai sẽ tăng đồng loạt?](https://dantri.com.vn/kinh-doanh/gia-xang-dau-ngay-mai-se-tang-dong-loat-20260128100645444.htm) - 03:36 28/01/2026
+- 🕴 [Vinaconex sắp bị thanh tra: Ai sở hữu, ai là chủ nợ?](https://dantri.com.vn/kinh-doanh/vinaconex-sap-bi-thanh-tra-ai-so-huu-ai-la-chu-no-20260128081605426.htm) - 02:48 28/01/2026
+- 🧰 [Trà sữa La Boong, bún riêu cô Hương béo, phở Hào bị phạt](https://dantri.com.vn/kinh-doanh/tra-sua-la-boong-bun-rieu-co-huong-beo-pho-hao-bi-phat-20260128090006249.htm) - 02:33 28/01/2026
+- 🤖 [Ông Trịnh Văn Quyết tái xuất: Nhóm cổ phiếu hệ sinh thái FLC đang ra sao?](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-nhom-co-phieu-he-sinh-thai-flc-dang-ra-sao-20260127141202163.htm) - 00:54 28/01/2026
+- 🤠 [Lãi suất Fed 2026: Sức ép từ ông Trump và ẩn số ghế nóng Jerome Powell](https://dantri.com.vn/kinh-doanh/lai-suat-fed-2026-suc-ep-tu-ong-trump-va-an-so-ghe-nong-jerome-powell-20260127145424618.htm) - 23:59 27/01/2026
+- 🌮 [Giá vàng miếng vượt 182 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-vuot-182-trieu-dongluong-20260128014257387.htm) - 23:48 27/01/2026
+- 🦄 [Kinh tế Mỹ 2026: Giấc mơ tăng trưởng 5% và ẩn số mang tên AI](https://dantri.com.vn/kinh-doanh/kinh-te-my-2026-giac-mo-tang-truong-5-va-an-so-mang-ten-ai-20260127183245459.htm) - 13:02 27/01/2026
+- 👺 [Thêm ngân hàng tăng lãi suất, gửi tiền ở đâu lời nhất?](https://dantri.com.vn/kinh-doanh/them-ngan-hang-tang-lai-suat-gui-tien-o-dau-loi-nhat-20260127150610059.htm) - 12:28 27/01/2026
+- 🤗 [Người có nhà cho thuê nộp thuế ra sao?](https://dantri.com.vn/kinh-doanh/nguoi-co-nha-cho-thue-nop-thue-ra-sao-20260127151845754.htm) - 10:52 27/01/2026
+- 💪 [Xu hướng sắm Tết thiết thực: Tủ lạnh và máy giặt bền bỉ, tiết kiệm điện](https://dantri.com.vn/kinh-doanh/xu-huong-sam-tet-thiet-thuc-tu-lanh-va-may-giat-ben-bi-tiet-kiem-dien-20260127163644348.htm) - 09:56 27/01/2026
+- ⚗️ [&quot;Ngôi sao&quot; cổ phiếu dầu khí trong phiên thị trường giảm hơn 13 điểm](https://dantri.com.vn/kinh-doanh/ngoi-sao-co-phieu-dau-khi-trong-phien-thi-truong-giam-hon-13-diem-20260127162414346.htm) - 09:44 27/01/2026
+- 🧠 [Cổ phiếu Vinaconex giảm sàn phiên thứ 2, ACV &quot;bốc hơi&quot; hơn 6%](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-giam-san-phien-thu-2-acv-boc-hoi-hon-6-20260127152942891.htm) - 09:01 27/01/2026
+- 🗽 [Ông Trịnh Văn Quyết tái xuất: Loạt động thái đáng chú ý của FLC](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-loat-dong-thai-dang-chu-y-cua-flc-20260127144008098.htm) - 08:47 27/01/2026
+- 🫣 [Lộ diện đơn vị chi giá cao gấp 3 lần mua vốn hãng mì &quot;2 con tôm&quot;](https://dantri.com.vn/kinh-doanh/lo-dien-don-vi-chi-gia-cao-gap-3-lan-mua-von-hang-mi-2-con-tom-20260114081718226.htm) - 08:25 27/01/2026
+- 🫣 [Thưởng Tết trung bình của nhân viên Long Châu tăng 47%, cao nhất nhận 127 triệu đồng](https://dantri.com.vn/kinh-doanh/thuong-tet-trung-binh-cua-nhan-vien-long-chau-tang-47-cao-nhat-nhan-127-trieu-dong-20260127141815535.htm) - 08:00 27/01/2026
+- 🫣 [Tư duy chiến lược và lựa chọn thông minh trong tái định vị đầu tư](https://dantri.com.vn/kinh-doanh/tu-duy-chien-luoc-va-lua-chon-thong-minh-trong-tai-dinh-vi-dau-tu-20260127141037819.htm) - 07:50 27/01/2026
+- 💂 [2.300 tỷ USD đổ vào công nghệ xanh](https://dantri.com.vn/kinh-doanh/2300-ty-usd-do-vao-cong-nghe-xanh-20260126222851343.htm) - 07:18 27/01/2026
+- 💫 [Hội chợ Mùa Xuân 2026 chốt lịch diễn ra từ ngày 2/2](https://dantri.com.vn/kinh-doanh/hoi-cho-mua-xuan-2026-chot-lich-dien-ra-tu-ngay-22-20260127122913305.htm) - 06:08 27/01/2026
+- 😺 [30 năm PVI: Từ dầu khí đến định chế bảo hiểm tài chính tỷ đô](https://dantri.com.vn/kinh-doanh/30-nam-pvi-tu-dau-khi-den-dinh-che-bao-hiem-tai-chinh-ty-do-20260126191403982.htm) - 05:00 27/01/2026
+- 🦆 [Sân bay Nội Bài sương mù dày đặc, 13 chuyến bay bị ảnh hưởng](https://dantri.com.vn/kinh-doanh/san-bay-noi-bai-suong-mu-day-dac-13-chuyen-bay-bi-anh-huong-20260127113540408.htm) - 04:50 27/01/2026
+- 👀 [Virus Nipah bùng phát tại Ấn Độ: Loạt sân bay châu Á siết kiểm soát y tế](https://dantri.com.vn/kinh-doanh/virus-nipah-bung-phat-tai-an-do-loat-san-bay-chau-a-siet-kiem-soat-y-te-20260127105312948.htm) - 04:24 27/01/2026
+- 🐵 [Cổ phiếu tăng trần 5 phiên liên tục, F88 giải thích thế nào?](https://dantri.com.vn/kinh-doanh/co-phieu-tang-tran-5-phien-lien-tuc-f88-giai-thich-the-nao-20260127071406449.htm) - 03:11 27/01/2026
+- 🤖 [Giá bạc tăng cao, chuyên gia nêu cảnh báo quan trọng](https://dantri.com.vn/kinh-doanh/gia-bac-tang-cao-chuyen-gia-neu-canh-bao-quan-trong-20260127092029149.htm) - 03:08 27/01/2026
+- 💂 [Cùng OMO mang “lộc xanh” đến Vườn quốc gia Núi Chúa - Phước Bình](https://dantri.com.vn/kinh-doanh/cung-omo-mang-loc-xanh-den-vuon-quoc-gia-nui-chua-phuoc-binh-20260126121432437.htm) - 03:00 27/01/2026
+- 🦆 [Lãi vay mua nhà tăng, khách khóc ròng, chuyên gia nêu hết thời &quot;lướt sóng”?](https://dantri.com.vn/kinh-doanh/lai-vay-mua-nha-tang-khach-khoc-rong-chuyen-gia-neu-het-thoi-luot-song-20260126093531524.htm) - 02:17 27/01/2026
+- 🦅 [Bitcoin rơi tự do, tỷ USD tháo chạy kỷ lục, đáy sâu ở đâu?](https://dantri.com.vn/kinh-doanh/bitcoin-roi-tu-do-ty-usd-thao-chay-ky-luc-day-sau-o-dau-20260126211814171.htm) - 01:36 27/01/2026
+- 😎 [Vàng miếng SJC tăng lên mức 177,3 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-len-muc-1773-trieu-dongluong-20260127070725322.htm) - 00:14 27/01/2026
+- 🐎 [Singapore cấp tiền hỗ trợ hãng đồ uống trước &quot;giờ G&quot; luật tái chế](https://dantri.com.vn/kinh-doanh/singapore-cap-tien-ho-tro-hang-do-uong-truoc-gio-g-luat-tai-che-20260126215744026.htm) - 00:09 27/01/2026
+- 👍 [Bầu trời 1.000-5.000m ở Việt Nam đang tạo cơ hội &quot;hái ra tiền&quot; chưa từng có](https://dantri.com.vn/kinh-doanh/bau-troi-1000-5000m-o-viet-nam-dang-tao-co-hoi-hai-ra-tien-chua-tung-co-20251212133702973.htm) - 23:11 26/01/2026
+- 🦒 [Vì sao bitcoin đang lép vế trước vàng với vai trò hầm trú ẩn?](https://dantri.com.vn/kinh-doanh/vi-sao-bitcoin-dang-lep-ve-truoc-vang-voi-vai-tro-ham-tru-an-20260126124717640.htm) - 22:17 26/01/2026
+- 💻 [Ông Trịnh Văn Quyết tái xuất](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-20260126220936358.htm) - 15:34 26/01/2026
+- 👺 [Công xưởng bí mật và công nghệ làm giả túi hiệu lừa cả máy X-quang](https://dantri.com.vn/kinh-doanh/cong-xuong-bi-mat-va-cong-nghe-lam-gia-tui-hieu-lua-ca-may-x-quang-20260122143431151.htm) - 14:39 26/01/2026
+- 🧐 [Cổ phiếu Vinaconex &quot;có biến&quot;, dư bán sàn hơn 17 triệu đơn vị](https://dantri.com.vn/kinh-doanh/co-phieu-vinaconex-co-bien-du-ban-san-hon-17-trieu-don-vi-20260126182329345.htm) - 12:20 26/01/2026<!-- dantri-kinh-doanh:END -->
