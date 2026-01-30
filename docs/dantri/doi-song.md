@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Cơ hội nhận quà giá trị khi tham gia chuỗi tọa độ Tích lộc xuyên Việt 2026 cùng PNJ](https://dantri.com.vn/doi-song/co-hoi-nhan-qua-gia-tri-khi-tham-gia-chuoi-toa-do-tich-loc-xuyen-viet-2026-cung-pnj-20260130152812202.htm) - 12:00 30/01/2026
+- 🥳 [Cơ hội nhận quà hấp dẫn khi tham gia chuỗi tọa độ Tích lộc xuyên Việt 2026 cùng PNJ](https://dantri.com.vn/doi-song/co-hoi-nhan-qua-hap-dan-khi-tham-gia-chuoi-toa-do-tich-loc-xuyen-viet-2026-cung-pnj-20260130152812202.htm) - 12:00 30/01/2026
 - 🌁 [Nhà Văn hóa Thanh niên TPHCM thi công xuyên đêm trước Lễ hội Tết Việt 2026](https://dantri.com.vn/doi-song/nha-van-hoa-thanh-nien-tphcm-thi-cong-xuyen-dem-truoc-le-hoi-tet-viet-2026-20260130164020571.htm) - 11:58 30/01/2026
 - 👀 [Báo Trung Quốc nói gì về bữa tiệc 180 mâm của gia đình cầu thủ Đình Bắc?](https://dantri.com.vn/doi-song/bao-trung-quoc-noi-gi-ve-bua-tiec-180-mam-cua-gia-dinh-cau-thu-dinh-bac-20260130163948785.htm) - 10:45 30/01/2026
 - 🐻 [Đôi giày kỷ niệm và những bước chân đầu tiên trên sân cỏ của Đình Bắc](https://dantri.com.vn/doi-song/doi-giay-ky-niem-va-nhung-buoc-chan-dau-tien-tren-san-co-cua-dinh-bac-20260130133202790.htm) - 07:58 30/01/2026
