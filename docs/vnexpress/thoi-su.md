@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Trạm thu phí cầu cửa ngõ vào TP HCM bỏ không hơn 5 năm](https://vnexpress.net/tram-thu-phi-cau-cua-ngo-vao-tp-hcm-bo-khong-hon-5-nam-5011447.html) - 08:15 31/01/2026
+- 🦒 [Trạm thu phí cầu Đồng Nai nối TP HCM bỏ không hơn 5 năm](https://vnexpress.net/tram-thu-phi-cau-dong-nai-noi-tp-hcm-bo-khong-hon-5-nam-5011447.html) - 08:15 31/01/2026
 - 🤓 [Tổng Bí thư dự lễ khánh thành nhà tưởng niệm Chủ tịch Hồ Chí Minh](https://vnexpress.net/tong-bi-thu-du-le-khanh-thanh-nha-tuong-niem-chu-tich-ho-chi-minh-5012246.html) - 08:07 31/01/2026
 - ⚗️ [77% lao động đổi lương lấy môi trường làm việc lành mạnh](https://vnexpress.net/77-lao-dong-doi-luong-lay-moi-truong-lam-viec-lanh-manh-5012236.html) - 05:41 31/01/2026
 - 🌊 [Hàng trăm người tuốt lá 1.200 cây mai trên quốc lộ ở TP HCM](https://vnexpress.net/hang-tram-nguoi-tuot-la-hon-1200-cay-mai-duong-ky-luc-chau-duc-5012238.html) - 05:24 31/01/2026
