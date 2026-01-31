@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Ứng viên Chủ tịch Fed Kevin Warsh là ai?](https://vnexpress.net/ung-vien-chu-tich-fed-kevin-warsh-la-ai-5012223.html) - 08:36 31/01/2026
-- 🐲 [Xếp hàng mua vàng, bạc dù giá giảm sâu](https://vnexpress.net/gia-vang-hom-nay-31-1-5012249.html) - 06:40 31/01/2026
+- 🐲 [Xếp hàng mua vàng, bạc khi giá giảm sâu](https://vnexpress.net/gia-vang-hom-nay-31-1-5012249.html) - 06:40 31/01/2026
 - 🔥 [Doanh nghiệp bất động sản thoát lỗ nhờ đầu tư chứng khoán](https://vnexpress.net/doanh-nghiep-bat-dong-san-thoat-lo-nho-dau-tu-chung-khoan-5012079.html) - 06:21 31/01/2026
 - 🐵 [Nhập khẩu thực phẩm, nông sản đình trệ vì chờ hướng dẫn](https://vnexpress.net/nhap-khau-thuc-pham-nong-san-dinh-tre-vi-cho-huong-dan-5012142.html) - 05:28 31/01/2026
 - 🦅 [Doanh thu CC1 vượt 11.600 tỷ đồng, cao nhất từ khi thành lập](https://vnexpress.net/doanh-thu-cc1-vuot-11-600-ty-dong-cao-nhat-tu-khi-thanh-lap-5012239.html) - 05:00 31/01/2026
