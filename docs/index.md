@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Cuộc thi ảnh &quot;Thiêng liêng cờ Tổ quốc&quot;: Những con đường đặc biệt](https://nld.com.vn/cuoc-thi-anh-thieng-lieng-co-to-quoc-nhung-con-duong-dac-biet-19626013123294315.htm) - 17:00 31/01/2026
+- 🐎 [Báo in ngày 1-2: Có nên để doanh nghiệp tự quyết giá xăng dầu?](https://nld.com.vn/bao-in-ngay-1-2-co-nen-de-doanh-nghiep-tu-quyet-gia-xang-dau-196260131224630883.htm) - 17:04 31/01/2026
 - 😺 [Tổng thống Donald Trump chúc mừng, mong đón Tổng Bí thư Tô Lâm thăm Mỹ](https://nld.com.vn/tong-thong-donald-trump-chuc-mung-mong-don-tong-bi-thu-to-lam-tham-my-196260131232104851.htm) - 16:54 31/01/2026
 - 👍 [Công Phượng tái phát chấn thương khi vừa tái xuất](https://nld.com.vn/cong-phuong-tai-phat-chan-thuong-khi-vua-tai-xuat-196260131225719334.htm) - 16:06 31/01/2026
 - 🥷 [Công nhân vui Tết sớm](https://nld.com.vn/cong-nhan-vui-tet-som-196260131220823633.htm) - 15:25 31/01/2026
