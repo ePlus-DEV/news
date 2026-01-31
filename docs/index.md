@@ -405,9 +405,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chủ tịch Quốc hội Trần Thanh Mẫn làm việc với Ủy ban Bầu cử tỉnh Đồng Tháp](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-lam-viec-voi-uy-ban-bau-cu-tinh-dong-thap-102260131132145167.htm) - 13:27 31/01/2026
-- 🌜 [Tổng Bí thư Tô Lâm dự lễ khánh thành trường phổ thông nội trú liên cấp tại Điện Biên](https://baochinhphu.vn/tong-bi-thu-to-lam-du-le-khanh-thanh-truong-pho-thong-noi-tru-lien-cap-tai-dien-bien-102260131131146391.htm) - 13:25 31/01/2026
-- 🦆 [Thủ tướng: Xây dựng cơ chế giao việc lớn, việc khó, việc đột phá cho doanh nghiệp](https://baochinhphu.vn/thu-tuong-xay-dung-co-che-giao-viec-lon-viec-kho-viec-dot-pha-cho-doanh-nghiep-102260131124433527.htm) - 12:49 31/01/2026
+- 💻 [Thủ tướng: Xây dựng cơ chế giao việc lớn, việc khó, việc đột phá cho doanh nghiệp](https://baochinhphu.vn/thu-tuong-xay-dung-co-che-giao-viec-lon-viec-kho-viec-dot-pha-cho-doanh-nghiep-102260131124433527.htm) - 13:34 31/01/2026
+- 🌜 [Chủ tịch Quốc hội Trần Thanh Mẫn làm việc với Ủy ban Bầu cử tỉnh Đồng Tháp](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-lam-viec-voi-uy-ban-bau-cu-tinh-dong-thap-102260131132145167.htm) - 13:27 31/01/2026
+- 🦆 [Tổng Bí thư Tô Lâm dự lễ khánh thành trường phổ thông nội trú liên cấp tại Điện Biên](https://baochinhphu.vn/tong-bi-thu-to-lam-du-le-khanh-thanh-truong-pho-thong-noi-tru-lien-cap-tai-dien-bien-102260131131146391.htm) - 13:25 31/01/2026
 - 🌝 [Thúc đẩy kết nối Trung tâm tài chính quốc tế Việt Nam với thế giới](https://baochinhphu.vn/thuc-day-ket-noi-trung-tam-tai-chinh-quoc-te-viet-nam-voi-the-gioi-102260131114141255.htm) - 11:49 31/01/2026
 - 🦣 [Thủ tướng chủ trì phiên họp lần thứ 4 Ban Chỉ đạo về phát triển kinh tế tư nhân](https://baochinhphu.vn/thu-tuong-chu-tri-phien-hop-lan-thu-4-ban-chi-dao-ve-phat-trien-kinh-te-tu-nhan-102260131085247642.htm) - 11:10 31/01/2026
 - ⛽️ [Lực lượng Cảnh sát biển 2 lên đường trực Tết ở vùng biển Trường Sa](https://baochinhphu.vn/luc-luong-canh-sat-bien-2-len-duong-truc-tet-o-vung-bien-truong-sa-102260131104545008.htm) - 11:08 31/01/2026
