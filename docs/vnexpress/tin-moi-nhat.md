@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [5 món người bị viêm loét dạ dày nên hạn chế](https://vnexpress.net/5-mon-nguoi-bi-viem-loet-da-day-nen-han-che-5011888.html) - 07:00 31/01/2026
 - 🦩 [PepsiCo sử dụng mô hình kỹ thuật số thử nghiệm cải tiến nhà máy](https://vnexpress.net/pepsico-su-dung-mo-hinh-ky-thuat-so-thu-nghiem-cai-tien-nha-may-5008552.html) - 07:00 31/01/2026
 - 👺 [Cảnh sát đột kích hầm trú ẩn của băng ma túy ở Khu kinh tế Dung Quất](https://vnexpress.net/canh-sat-dot-kich-ham-tru-an-cua-bang-ma-tuy-o-khu-kinh-te-dung-quat-5012259.html) - 06:51 31/01/2026
-- 🧑‍🏫 [Xếp hàng mua vàng, bạc khi giá giảm sâu](https://vnexpress.net/gia-vang-hom-nay-31-1-5012249.html) - 06:40 31/01/2026
+- 🧑‍🏫 [Xếp hàng mua vàng, bạc dù giá giảm sâu](https://vnexpress.net/gia-vang-hom-nay-31-1-5012249.html) - 06:40 31/01/2026
 - 😎 [Thư ký TAND tỉnh An Giang bị bắt](https://vnexpress.net/thu-ky-tand-tinh-an-giang-bi-bat-5012245.html) - 06:32 31/01/2026
 - 🪄 [Dàn sao đóng bom tấn võ hiệp 100 triệu USD cùng Ngô Kinh](https://vnexpress.net/dan-sao-dong-bom-tan-vo-hiep-100-trieu-usd-cung-ngo-kinh-5012183.html) - 06:31 31/01/2026
 - 🏊 [Lao động tự do được tự kê khai thu nhập khi mua nhà ở xã hội](https://vnexpress.net/lao-dong-tu-do-duoc-tu-ke-khai-thu-nhap-khi-mua-nha-o-xa-hoi-5012242.html) - 06:29 31/01/2026
