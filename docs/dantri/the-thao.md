@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thủ môn Trung Kiên chơi chắc chắn, HAGL chiến thắng ở V-League](https://dantri.com.vn/the-thao/thu-mon-trung-kien-choi-chac-chan-hagl-chien-thang-o-v-league-20260201191549771.htm) - 13:19 01/02/2026
-- 💯 [Công an Hà Nội 3-2 Ninh Bình &lpar;hiệp 2&rpar;: Đình Bắc được tung vào sân](https://dantri.com.vn/the-thao/cong-an-ha-noi-3-2-ninh-binh-hiep-2-dinh-bac-duoc-tung-vao-san-20260201190654868.htm) - 12:07 01/02/2026
+- 💯 [Thắng nghẹt thở Ninh Bình, CLB Công an Hà Nội chiếm ngôi đầu bảng](https://dantri.com.vn/the-thao/thang-nghet-tho-ninh-binh-clb-cong-an-ha-noi-chiem-ngoi-dau-bang-20260201190654868.htm) - 12:07 01/02/2026
 - ⛽️ [HLV Indonesia cảnh báo tuyển futsal Việt Nam trước tứ kết giải châu Á](https://dantri.com.vn/the-thao/hlv-indonesia-canh-bao-tuyen-futsal-viet-nam-truoc-tu-ket-giai-chau-a-20260201144340247.htm) - 09:00 01/02/2026
 - 💃 [Alcaraz hạ Djokovic, lần đầu vô địch Australian Open](https://dantri.com.vn/the-thao/alcaraz-ha-djokovic-lan-dau-vo-dich-australian-open-20260201153854774.htm) - 08:39 01/02/2026
 - 🌈 [Báo Malaysia lo lắng khi Xuân Son trở lại ấn tượng](https://dantri.com.vn/the-thao/bao-malaysia-lo-lang-khi-xuan-son-tro-lai-an-tuong-20260201144034125.htm) - 07:40 01/02/2026
