@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Cụ ông 73 tuổi có kết quả siêu âm &#39;thai sớm trong tử cung&#39;](https://vnexpress.net/cu-ong-73-tuoi-co-ket-qua-sieu-am-thai-som-trong-tu-cung-5012375.html) - 08:00 01/02/2026
 - 🥰 [Nữ giới mắc ung thư niệu đạo tiên lượng sống thế nào?](https://vnexpress.net/nu-gioi-mac-ung-thu-nieu-dao-tien-luong-song-the-nao-5012367.html) - 08:00 01/02/2026
 - 💡 [Vợ tắc vòi trứng, chồng vô tinh có con được không?](https://vnexpress.net/vo-tac-voi-trung-chong-vo-tinh-co-con-duoc-khong-5012364.html) - 07:00 01/02/2026
-- 🤗 [Thu hồi 21 lô bánh ăn dặm Gerber của Nestlé](https://vnexpress.net/thu-hoi-21-lo-banh-an-dam-gerber-cua-nestle-5012464.html) - 06:57 01/02/2026
+- 🤗 [Thu hồi nhiều lô bánh ăn dặm Gerber của Nestlé](https://vnexpress.net/thu-hoi-21-lo-banh-an-dam-gerber-cua-nestle-5012464.html) - 06:57 01/02/2026
 - 🪜 [Hai người chết, ba người nhập viện sau khi uống rượu ngâm](https://vnexpress.net/hai-nguoi-chet-ba-nguoi-nhap-vien-sau-khi-uong-ruou-ngam-5012492.html) - 06:08 01/02/2026
 - 🕯 [Uống rượu trắng dễ say hơn rượu màu?](https://vnexpress.net/uong-ruou-trang-de-say-hon-ruou-mau-5011675.html) - 06:00 01/02/2026
 - 🤭 [Hạt nở &#39;lớn nhanh&#39; gấp 300 lần gây tắc ruột bé gái](https://vnexpress.net/hat-no-lon-nhanh-gap-300-lan-gay-tac-ruot-be-gai-5012449.html) - 03:24 01/02/2026
