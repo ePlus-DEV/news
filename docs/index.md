@@ -527,7 +527,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Trực tiếp Man United đấu với Fullham: Casemiro mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-man-united-dau-voi-fullham-101260201204827554.htm) - 14:01 01/02/2026
 - 🤖 [Đội hình ra sân Man United đấu Fulham: Cunha đá chính thay Patrick Dorgu](https://muctim.tuoitre.vn/doi-hinh-ra-san-man-united-dau-fulham-cunha-da-chinh-thay-patrick-dorgu-101260201204546551.htm) - 13:50 01/02/2026
 - 🤓 [Đội hình xuất phát của Aston Villa và Brentford](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-cua-aston-villa-va-brentford-101260201200032965.htm) - 13:18 01/02/2026
-- 🎉 [Trực tiếp Real Madrid đấu với Rayo Vallecano](https://muctim.tuoitre.vn/truc-tiep-real-madrid-dau-voi-rayo-vallecano-101260201200309859.htm) - 13:03 01/02/2026
+- 🎉 [Real Madrid suýt mất điểm trước Rayo Vallecano trong ngày Jude Bellingham gặp chấn thương kỳ lạ](https://muctim.tuoitre.vn/truc-tiep-real-madrid-dau-voi-rayo-vallecano-101260201200309859.htm) - 13:03 01/02/2026
 - 👨‍🏫 [Công An Hà Nội đấu Ninh Bình: Quang Hải, Hoàng Đức đá chính](https://muctim.tuoitre.vn/cong-an-ha-noi-dau-ninh-binh-quang-hai-hoang-duc-da-chinh-101260201190717656.htm) - 12:10 01/02/2026
 - 🚦 [Đội hình xuất phát của Real Madrid và Rayo Vallecano](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-cua-real-madrid-va-rayo-vallecano-101260201185648774.htm) - 12:07 01/02/2026
 - 🤭 [Tottenham đấu Man City: trận cầu khó đoán](https://muctim.tuoitre.vn/tottenham-dau-man-city-tran-cau-kho-doan-101260131213956116.htm) - 12:02 01/02/2026
