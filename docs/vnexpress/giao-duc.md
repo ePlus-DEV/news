@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa giành 5 giải Olympic, có công bố quốc tế Q1](https://vnexpress.net/thu-khoa-gianh-5-giai-olympic-co-cong-bo-quoc-te-q1-5011785.html) - 23:00 31/01/2026
+- 🤓 [Thủ khoa giành 5 giải Olympic Toán, Lý toàn quốc](https://vnexpress.net/thu-khoa-gianh-5-giai-olympic-toan-ly-toan-quoc-5011785.html) - 23:00 31/01/2026
 - 🦆 [Đại học Quốc gia Hà Nội mở cổng đăng ký thi đánh giá năng lực năm 2026](https://vnexpress.net/cach-dang-ky-thi-danh-gia-nang-luc-hsa-dai-hoc-quoc-gia-ha-noi-nam-2026-chi-tiet-nhat-5011851.html) - 17:00 31/01/2026
 - 🦩 [Nước nào có sân vận động lớn nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-san-van-dong-lon-nhat-dong-nam-a-5012308.html) - 14:15 31/01/2026
 - 🌮 [Chấm lại toàn bộ bài thi tiếng Anh vì giáo viên tự ý sửa của học sinh](https://vnexpress.net/cham-lai-toan-bo-bai-thi-tieng-anh-vi-giao-vien-tu-y-sua-cua-hoc-sinh-5012296.html) - 13:48 31/01/2026
