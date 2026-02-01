@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Alcaraz 2-6,6-2,6-3,2-1* Djokovic &lpar;set 4&rpar;: Sức trẻ lên tiếng](https://vnexpress.net/truc-tiep-alcaraz-vs-djokovic-5012515.html) - 08:15 01/02/2026
+- 🪜 [Alcaraz hạ Djokovic, lần đầu vô địch Australia Mở rộng](https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-5012515.html) - 08:15 01/02/2026
 - 🦩 [Alcaraz - Djokovic: Lịch sử vẫy gọi ở chung kết Australia Mở rộng](https://vnexpress.net/alcaraz-djokovic-lich-su-vay-goi-o-chung-ket-australia-mo-rong-5012408.html) - 03:07 01/02/2026
 - 🧰 [Ekitike được so sánh với Fernando Torres](https://vnexpress.net/ekitike-duoc-so-sanh-voi-fernando-torres-5012424.html) - 02:51 01/02/2026
 - 🤗 [Yamal, Rashford cùng ghi bàn cho Barca](https://vnexpress.net/yamal-rashford-cung-ghi-ban-cho-barca-5012415.html) - 01:28 01/02/2026
