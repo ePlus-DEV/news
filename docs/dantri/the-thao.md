@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Indonesia cảnh báo tuyển futsal Việt Nam trước tứ kết giải châu Á](https://dantri.com.vn/the-thao/hlv-indonesia-canh-bao-tuyen-futsal-viet-nam-truoc-tu-ket-giai-chau-a-20260201144340247.htm) - 09:00 01/02/2026
-- 💯 [Chung kết Australian Open 2026: Alcaraz 2-6, 6-2, &lpar;3-2&rpar; Djokovic](https://dantri.com.vn/the-thao/chung-ket-australian-open-2026-alcaraz-2-6-6-2-3-2-djokovic-20260201153854774.htm) - 08:39 01/02/2026
+- 💯 [Chung kết Australian Open 2026: Alcaraz 2-6, 6-2, 6-3, &lpar;4-3&rpar; Djokovic](https://dantri.com.vn/the-thao/chung-ket-australian-open-2026-alcaraz-2-6-6-2-6-3-4-3-djokovic-20260201153854774.htm) - 08:39 01/02/2026
 - ⛽️ [Báo Malaysia lo lắng khi Xuân Son trở lại ấn tượng](https://dantri.com.vn/the-thao/bao-malaysia-lo-lang-khi-xuan-son-tro-lai-an-tuong-20260201144034125.htm) - 07:40 01/02/2026
 - 💃 [CAS và AFC cảnh báo nóng Malaysia trước trận gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/cas-va-afc-canh-bao-nong-malaysia-truoc-tran-gap-tuyen-viet-nam-20260201093019179.htm) - 02:30 01/02/2026
 - 🌈 [Phản ứng của CĐV Đông Nam Á khi tuyển futsal Việt Nam thua Thái Lan](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-tuyen-futsal-viet-nam-thua-thai-lan-20260131225658700.htm) - 00:40 01/02/2026
