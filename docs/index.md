@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Nóng: Thái Sơn chốt ngày mổ ở Bệnh viện Vạn Hạnh, chờ tái xuất](https://thanhnien.vn/nong-thai-son-chot-ngay-mo-o-benh-vien-van-hanh-cho-tai-xuat-185260202214338223.htm) - 15:04 02/02/2026
+- 🤠 [Nóng: Thái Sơn chốt ngày mổ dây chằng ở Bệnh viện Vạn Hạnh, chờ tái xuất](https://thanhnien.vn/nong-thai-son-chot-ngay-mo-o-benh-vien-van-hanh-cho-tai-xuat-185260202214338223.htm) - 15:04 02/02/2026
 - 🥸 [Túi clutch cầm tay, chi tiết nhỏ thay đổi diện mạo tức thì](https://thanhnien.vn/thoi-trang-tre/tui-clutch-cam-tay-chi-tiet-nho-thay-doi-dien-mao-tuc-thi-185260202091000628.htm) - 15:00 02/02/2026
 - 🌁 [Xin đầu thú nhưng không hộ chiếu, đối tượng truy nã được công an đưa về nước](https://thanhnien.vn/xin-dau-thu-nhung-khong-ho-chieu-doi-tuong-truy-na-duoc-cong-an-dua-ve-nuoc-185260202204744916.htm) - 14:55 02/02/2026
 - 🤡 [Hà Lê, Đỗ Hoàng Hiệp… tái hợp trong đêm diễn hơn 3.000 khán giả](https://thanhnien.vn/ha-le-do-hoang-hiep-tai-hop-trong-dem-dien-hon-3000-khan-gia-18526020219191166.htm) - 14:23 02/02/2026
