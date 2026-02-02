@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trung Quốc đón &#39;làn gió mới&#39; từ phương Tây](https://vnexpress.net/trung-quoc-don-lan-gio-moi-tu-phuong-tay-5011545.html) - 22:00 01/02/2026
-- 🕴 [Siêu tàu sân bay 13 tỷ USD gặp nhiều trắc trở của Mỹ](https://vnexpress.net/sieu-tau-san-bay-13-ty-usd-gap-nhieu-trac-tro-cua-my-5011913.html) - 18:00 01/02/2026
-- 🤭 [Ông Medvedev ca ngợi ông Trump](https://vnexpress.net/ong-medvedev-ca-ngoi-ong-trump-5012568.html) - 13:24 01/02/2026
-- 🧑‍💻 [Lãnh tụ tối cao Iran cảnh báo nguy cơ chiến tranh khu vực](https://vnexpress.net/lanh-tu-toi-cao-iran-canh-bao-nguy-co-chien-tranh-khu-vuc-5012553.html) - 12:17 01/02/2026
-- 🦏 [Mỹ ủng hộ Trung Quốc đầu tư vào dầu mỏ Venezuela](https://vnexpress.net/my-ung-ho-trung-quoc-dau-tu-vao-dau-mo-venezuela-5012540.html) - 10:04 01/02/2026
-- 🦒 [Ông Trump hoan nghênh Việt Nam tham gia sáng kiến Hội đồng Hòa bình](https://vnexpress.net/ong-trump-hoan-nghenh-viet-nam-tham-gia-sang-kien-hoi-dong-hoa-binh-5012525.html) - 09:16 01/02/2026
-- 🌈 [Người Thượng Hải xếp hàng bán vàng cho máy thu mua tự động](https://vnexpress.net/nguoi-thuong-hai-xep-hang-ban-vang-cho-may-thu-mua-tu-dong-5012485.html) - 05:59 01/02/2026
+- 🎭 [Báo Trung Quốc: &#39;Điều tra Trương Hựu Hiệp để loại bỏ trở ngại với quân đội&#39;](https://vnexpress.net/bao-trung-quoc-dieu-tra-truong-huu-hiep-de-loai-bo-tro-ngai-voi-quan-doi-5013257.html) - 12:32 02/02/2026
+- 🕴 [Mẫu UAV dùng Starlink buộc Ukraine, SpaceX ứng phó khẩn cấp](https://vnexpress.net/mau-uav-dung-starlink-buoc-ukraine-spacex-ung-pho-khan-cap-5012718.html) - 12:00 02/02/2026
+- 🤭 [Mỹ - Iran muốn gì ở nhau?](https://vnexpress.net/my-iran-muon-gi-o-nhau-5012686.html) - 12:00 02/02/2026
+- 🧑‍💻 [Nga sắp đàm phán ba bên với Mỹ, Ukraine tại UAE](https://vnexpress.net/nga-sap-dam-phan-ba-ben-voi-my-ukraine-tai-uae-5013247.html) - 11:27 02/02/2026
+- 🦏 [Cặp ghế trong ảnh chung của nhà Biden - Carter được đấu giá 11.000 USD](https://vnexpress.net/cap-ghe-trong-anh-chung-cua-nha-biden-carter-duoc-dau-gia-11-000-usd-5012910.html) - 09:15 02/02/2026
+- 🦒 [Trung Quốc thi hành án tử hình với 4 trùm lừa đảo](https://vnexpress.net/trung-quoc-thi-hanh-an-tu-hinh-voi-4-trum-lua-dao-5012838.html) - 08:38 02/02/2026
+- 🌈 [Tướng hàng đầu Mỹ và Israel &#39;họp kín về vấn đề Iran&#39;](https://vnexpress.net/tuong-hang-dau-my-va-israel-hop-kin-ve-van-de-iran-5012850.html) - 08:17 02/02/2026
+- 🧑‍🏫 [Việt Nam quan ngại về việc Mỹ áp thuế bổ sung với các nước cung cấp dầu cho Cuba](https://vnexpress.net/viet-nam-quan-ngai-ve-viec-my-ap-thue-bo-sung-voi-cac-nuoc-cung-cap-dau-cho-cuba-5012868.html) - 08:11 02/02/2026
+- 🐲 [Thác Niagara đóng băng trong bão mùa đông](https://vnexpress.net/thac-niagara-dong-bang-trong-bao-mua-dong-5012727.html) - 07:35 02/02/2026
+- 🦒 [Nữ ca sĩ thiệt mạng vì bị rắn độc cắn trong phòng ngủ](https://vnexpress.net/nu-ca-si-thiet-mang-vi-bi-ran-doc-can-trong-phong-ngu-5012786.html) - 05:02 02/02/2026
+- 🐻 [Đạn pháo 20 cm kẹt trong trực tràng người đàn ông Pháp](https://vnexpress.net/dan-phao-20-cm-ket-trong-truc-trang-nguoi-dan-ong-phap-5012780.html) - 04:52 02/02/2026
+- 🚀 [Ông Trump thông báo đóng cửa Trung tâm Kennedy trong hai năm](https://vnexpress.net/ong-trump-thong-bao-dong-cua-trung-tam-kennedy-trong-hai-nam-5012777.html) - 04:47 02/02/2026
+- 🥰 [&#39;Bão bom&#39; càn quét miền đông nước Mỹ](https://vnexpress.net/bao-bom-can-quet-mien-dong-nuoc-my-5012684.html) - 04:38 02/02/2026
+- 🔥 [Ukraine nêu biện pháp đối phó UAV Nga dùng Starlink](https://vnexpress.net/ukraine-neu-bien-phap-doi-pho-uav-nga-dung-starlink-5012649.html) - 03:51 02/02/2026
+- 🥳 [Kỳ nhông đồng loạt rơi khỏi cây giữa giá rét bất thường ở Florida](https://vnexpress.net/ky-nhong-dong-loat-roi-khoi-cay-giua-gia-ret-bat-thuong-o-florida-5012747.html) - 03:51 02/02/2026
+- 💼 [Lý do &#39;gà quay quốc dân&#39; của Costco siêu rẻ](https://vnexpress.net/ly-do-ga-quay-quoc-dan-cua-costco-sieu-re-5012323.html) - 03:26 02/02/2026
+- 🤡 [Trung Quốc kêu gọi loại bỏ &#39;chuột béo&#39; gặm nhấm ngân sách quân sự](https://vnexpress.net/trung-quoc-keu-goi-loai-bo-chuot-beo-gam-nham-ngan-sach-quan-su-5012673.html) - 03:07 02/02/2026
+- 🌁 [Ông Tập muốn biến nhân dân tệ thành đồng tiền dự trữ toàn cầu](https://vnexpress.net/ong-tap-muon-bien-nhan-dan-te-thanh-dong-tien-du-tru-toan-cau-5012645.html) - 02:31 02/02/2026
+- 🤩 [Bộ Tư pháp Mỹ thu hồi loạt ảnh khỏa thân trong hồ sơ Epstein](https://vnexpress.net/bo-tu-phap-my-thu-hoi-loat-anh-khoa-than-trong-ho-so-epstein-5012666.html) - 02:15 02/02/2026
+- 🎉 [Nga phóng lượng tên lửa đạn đạo kỷ lục vào Ukraine trong một tháng](https://vnexpress.net/nga-phong-luong-ten-lua-dan-dao-ky-luc-vao-ukraine-trong-mot-thang-5012641.html) - 01:56 02/02/2026
+- 🎉 [Chủ tịch Hạ viện Mỹ hy vọng chính phủ sớm mở cửa trở lại](https://vnexpress.net/chu-tich-ha-vien-my-hy-vong-chinh-phu-som-mo-cua-tro-lai-5012629.html) - 00:42 02/02/2026
+- 🌁 [Mỹ trả tự do cho bé trai 5 tuổi bị ICE bắt giữ](https://vnexpress.net/my-tra-tu-do-cho-be-trai-5-tuoi-bi-ice-bat-giu-5012624.html) - 00:17 02/02/2026
+- 🌊 [Ông Trump muốn đạt thỏa thuận với Iran](https://vnexpress.net/ong-trump-muon-dat-thoa-thuan-voi-iran-5012619.html) - 23:59 01/02/2026
+- 🕴 [Trung Quốc đón &#39;làn gió mới&#39; từ phương Tây](https://vnexpress.net/trung-quoc-don-lan-gio-moi-tu-phuong-tay-5011545.html) - 22:00 01/02/2026
+- 🎓 [Siêu tàu sân bay 13 tỷ USD gặp nhiều trắc trở của Mỹ](https://vnexpress.net/sieu-tau-san-bay-13-ty-usd-gap-nhieu-trac-tro-cua-my-5011913.html) - 18:00 01/02/2026
+- 🦩 [Ông Medvedev ca ngợi ông Trump](https://vnexpress.net/ong-medvedev-ca-ngoi-ong-trump-5012568.html) - 13:24 01/02/2026
+- 🌏 [Lãnh tụ tối cao Iran cảnh báo nguy cơ chiến tranh khu vực](https://vnexpress.net/lanh-tu-toi-cao-iran-canh-bao-nguy-co-chien-tranh-khu-vuc-5012553.html) - 12:17 01/02/2026
+- 🌋 [Mỹ ủng hộ Trung Quốc đầu tư vào dầu mỏ Venezuela](https://vnexpress.net/my-ung-ho-trung-quoc-dau-tu-vao-dau-mo-venezuela-5012540.html) - 10:04 01/02/2026
+- 🪜 [Ông Trump hoan nghênh Việt Nam tham gia sáng kiến Hội đồng Hòa bình](https://vnexpress.net/ong-trump-hoan-nghenh-viet-nam-tham-gia-sang-kien-hoi-dong-hoa-binh-5012525.html) - 09:16 01/02/2026
+- 🕴 [Người Thượng Hải xếp hàng bán vàng cho máy thu mua tự động](https://vnexpress.net/nguoi-thuong-hai-xep-hang-ban-vang-cho-may-thu-mua-tu-dong-5012485.html) - 05:59 01/02/2026
 - 🧑‍🏫 [Bão tuyết càn quét miền nam nước Mỹ](https://vnexpress.net/bao-tuyet-can-quet-mien-nam-nuoc-my-5012461.html) - 04:17 01/02/2026
-- 🐲 [Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô](https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html) - 03:11 01/02/2026
-- 🦒 [SpaceX dùng &#39;biện pháp khẩn cấp&#39; để ngăn Nga lái UAV bằng Starlink](https://vnexpress.net/spacex-dung-bien-phap-khan-cap-de-ngan-nga-lai-uav-bang-starlink-5012416.html) - 02:19 01/02/2026
-- 🐻 [Ba Lan ký thỏa thuận xây dựng lưới chống drone hơn 4 tỷ USD](https://vnexpress.net/ba-lan-ky-thoa-thuan-xay-dung-luoi-chong-drone-hon-4-ty-usd-5012202.html) - 01:19 01/02/2026
-- 🚀 [Ông Trump: Iran đang đàm phán với Mỹ](https://vnexpress.net/ong-trump-iran-dang-dam-phan-voi-my-5012407.html) - 00:20 01/02/2026
-- 🥰 [Năng lực tập kích biển của bầy UAV Iran](https://vnexpress.net/nang-luc-tap-kich-bien-cua-bay-uav-iran-5010702.html) - 18:00 31/01/2026
-- 🔥 [Các nước Vùng Vịnh &#39;chưa được Mỹ chia sẻ kế hoạch về Iran&#39;](https://vnexpress.net/cac-nuoc-vung-vinh-chua-duoc-my-chia-se-ke-hoach-ve-iran-5012374.html) - 16:28 31/01/2026
-- 🥳 [Nổ lớn tại thành phố cảng Iran](https://vnexpress.net/no-lon-tai-thanh-pho-cang-iran-5012341.html) - 13:09 31/01/2026
-- 💼 [Chi phí khám chữa bệnh trở thành mối lo hàng đầu của người Mỹ](https://vnexpress.net/chi-phi-kham-chua-benh-tro-thanh-moi-lo-hang-dau-cua-nguoi-my-5012073.html) - 13:00 31/01/2026
-- 🤡 [Tổng Bí thư Tô Lâm sắp thăm Campuchia](https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-campuchia-5012339.html) - 12:41 31/01/2026
-- 🌁 [Thông điệp của Trung Quốc khi tử hình 11 thành viên gia tộc lừa đảo](https://vnexpress.net/thong-diep-cua-trung-quoc-khi-tu-hinh-11-thanh-vien-gia-toc-lua-dao-5011721.html) - 12:00 31/01/2026
-- 🤩 [Iran &#39;sẵn sàng chiến đấu tối đa&#39;, cảnh báo đáp trả nếu bị tấn công](https://vnexpress.net/iran-san-sang-chien-dau-toi-da-canh-bao-dap-tra-neu-bi-tan-cong-5012310.html) - 11:28 31/01/2026
-- 🎉 [Sập mỏ coltan lớn hàng đầu thế giới, hơn 200 người chết](https://vnexpress.net/sap-mo-coltan-lon-hang-dau-the-gioi-hon-200-nguoi-chet-5012286.html) - 09:43 31/01/2026
-- 🎉 [Ông Tập kể chuyện &#39;thầy bói xem voi&#39; với Thủ tướng Anh](https://vnexpress.net/ong-tap-ke-chuyen-thay-boi-xem-voi-voi-thu-tuong-anh-5012265.html) - 08:12 31/01/2026
+- 🌮 [Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô](https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html) - 03:11 01/02/2026
+- 🚦 [SpaceX dùng &#39;biện pháp khẩn cấp&#39; để ngăn Nga lái UAV bằng Starlink](https://vnexpress.net/spacex-dung-bien-phap-khan-cap-de-ngan-nga-lai-uav-bang-starlink-5012416.html) - 02:19 01/02/2026
+- 💫 [Ba Lan ký thỏa thuận xây dựng lưới chống drone hơn 4 tỷ USD](https://vnexpress.net/ba-lan-ky-thoa-thuan-xay-dung-luoi-chong-drone-hon-4-ty-usd-5012202.html) - 01:19 01/02/2026
+- 🤡 [Ông Trump: Iran đang đàm phán với Mỹ](https://vnexpress.net/ong-trump-iran-dang-dam-phan-voi-my-5012407.html) - 00:20 01/02/2026
+- 🦣 [Năng lực tập kích biển của bầy UAV Iran](https://vnexpress.net/nang-luc-tap-kich-bien-cua-bay-uav-iran-5010702.html) - 18:00 31/01/2026
+- 🎬 [Các nước Vùng Vịnh &#39;chưa được Mỹ chia sẻ kế hoạch về Iran&#39;](https://vnexpress.net/cac-nuoc-vung-vinh-chua-duoc-my-chia-se-ke-hoach-ve-iran-5012374.html) - 16:28 31/01/2026
+- 🎉 [Nổ lớn tại thành phố cảng Iran](https://vnexpress.net/no-lon-tai-thanh-pho-cang-iran-5012341.html) - 13:09 31/01/2026
+- 🎡 [Chi phí khám chữa bệnh trở thành mối lo hàng đầu của người Mỹ](https://vnexpress.net/chi-phi-kham-chua-benh-tro-thanh-moi-lo-hang-dau-cua-nguoi-my-5012073.html) - 13:00 31/01/2026
+- 🌜 [Tổng Bí thư Tô Lâm sắp thăm Campuchia](https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-campuchia-5012339.html) - 12:41 31/01/2026
+- 🎡 [Thông điệp của Trung Quốc khi tử hình 11 thành viên gia tộc lừa đảo](https://vnexpress.net/thong-diep-cua-trung-quoc-khi-tu-hinh-11-thanh-vien-gia-toc-lua-dao-5011721.html) - 12:00 31/01/2026
+- 🤗 [Iran &#39;sẵn sàng chiến đấu tối đa&#39;, cảnh báo đáp trả nếu bị tấn công](https://vnexpress.net/iran-san-sang-chien-dau-toi-da-canh-bao-dap-tra-neu-bi-tan-cong-5012310.html) - 11:28 31/01/2026
+- 🦩 [Sập mỏ coltan lớn hàng đầu thế giới, hơn 200 người chết](https://vnexpress.net/sap-mo-coltan-lon-hang-dau-the-gioi-hon-200-nguoi-chet-5012286.html) - 09:43 31/01/2026
+- 🎓 [Ông Tập kể chuyện &#39;thầy bói xem voi&#39; với Thủ tướng Anh](https://vnexpress.net/ong-tap-ke-chuyen-thay-boi-xem-voi-voi-thu-tuong-anh-5012265.html) - 08:12 31/01/2026
 - 🌁 [Thế giới trong tuần qua ảnh](https://vnexpress.net/the-gioi-trong-tuan-qua-anh-5012207.html) - 07:05 31/01/2026
-- 🌊 [Bên trong nơi giam giữ tù binh ngoại quốc chiến đấu cho Nga](https://vnexpress.net/ben-trong-noi-giam-giu-tu-binh-ngoai-quoc-chien-dau-cho-nga-5011988.html) - 05:22 31/01/2026
-- 🕴 [Toàn bộ tù nhân Mỹ ở Venezuela được trả tự do](https://vnexpress.net/toan-bo-tu-nhan-my-o-venezuela-duoc-tra-tu-do-5012194.html) - 04:33 31/01/2026
-- 🎓 [Khoảnh khắc UAV Nga tập kích &#39;chiến đấu cơ Su-27 Ukraine&#39;](https://vnexpress.net/khoanh-khac-uav-nga-tap-kich-chien-dau-co-su-27-ukraine-5012174.html) - 04:21 31/01/2026
-- 🦩 [Thủ tướng Tây Ban Nha đáp trả Elon Musk về nhập cư](https://vnexpress.net/thu-tuong-tay-ban-nha-dap-tra-elon-musk-ve-nhap-cu-5012168.html) - 03:40 31/01/2026
-- 🌏 [Mỹ duyệt bán lô tên lửa Patriot 9 tỷ USD cho Arab Saudi](https://vnexpress.net/my-duyet-ban-lo-ten-lua-patriot-9-ty-usd-cho-arab-saudi-5012151.html) - 03:24 31/01/2026
-- 🌋 [Thống đốc trẻ nhất Nhật Bản gây sốt vì ngoại hình điển trai](https://vnexpress.net/thong-doc-tre-nhat-nhat-ban-gay-sot-vi-ngoai-hinh-dien-trai-5012149.html) - 02:55 31/01/2026
-- 🪜 [Em trai Vua Charles III từng &#39;mời Epstein tới Cung điện Buckingham&#39;](https://vnexpress.net/em-trai-vua-charles-iii-tung-moi-epstein-toi-cung-dien-buckingham-5012144.html) - 02:37 31/01/2026
-- 🕴 [Chính phủ Mỹ lại đóng cửa từ cuối tuần này](https://vnexpress.net/chinh-phu-my-lai-dong-cua-tu-cuoi-tuan-nay-5012129.html) - 01:43 31/01/2026
-- 🧑‍🏫 [Ông Guterres cảnh báo Liên Hợp Quốc &#39;cận kề sụp đổ tài chính&#39;](https://vnexpress.net/ong-guterres-canh-bao-lien-hop-quoc-can-ke-sup-do-tai-chinh-5012125.html) - 01:00 31/01/2026
-- 🌮 [Ông Trump tin Iran muốn đạt thỏa thuận với Mỹ](https://vnexpress.net/ong-trump-tin-iran-muon-dat-thoa-thuan-voi-my-5012118.html) - 00:25 31/01/2026
-- 🚦 [Mỹ công bố 3 triệu trang tài liệu hồ sơ Epstein](https://vnexpress.net/my-cong-bo-3-trieu-trang-tai-lieu-ho-so-epstein-5012117.html) - 23:58 30/01/2026
-- 💫 [Canh bạc của nữ Thủ tướng Nhật khi tổ chức bầu cử sớm](https://vnexpress.net/canh-bac-cua-nu-thu-tuong-nhat-khi-to-chuc-bau-cu-som-5011732.html) - 22:00 30/01/2026
-- 🤡 [Hoài nghi về &#39;vũ khí bí mật&#39; của Mỹ trong chiến dịch bắt ông Maduro](https://vnexpress.net/hoai-nghi-ve-vu-khi-bi-mat-cua-my-trong-chien-dich-bat-ong-maduro-5010703.html) - 18:00 30/01/2026
-- 🦣 [Việt Nam mong muốn củng cố quan hệ với Venezuela](https://vnexpress.net/viet-nam-mong-muon-cung-co-quan-he-voi-venezuela-5012096.html) - 16:51 30/01/2026
-- 🎬 [Ảnh vệ tinh trận địa Patriot đặt gần Iran](https://vnexpress.net/anh-ve-tinh-tran-dia-patriot-dat-gan-iran-5012011.html) - 16:18 30/01/2026
-- 🎉 [Mỹ đối mặt hàng trăm cuộc biểu tình chống ICE trên toàn quốc](https://vnexpress.net/my-doi-mat-hang-tram-cuoc-bieu-tinh-chong-ice-tren-toan-quoc-5012029.html) - 15:52 30/01/2026
-- 🎡 [ASEAN - Trung Quốc nhất trí đẩy nhanh đàm phán Bộ Quy tắc ứng xử ở Biển Đông](https://vnexpress.net/asean-trung-quoc-nhat-tri-day-nhanh-dam-phan-bo-quy-tac-ung-xu-o-bien-dong-5012081.html) - 14:43 30/01/2026
-- 🌜 [Nga đồng ý dừng tập kích Kiev đến ngày 1/2](https://vnexpress.net/nga-dong-y-dung-tap-kich-kiev-den-ngay-1-2-5012048.html) - 14:03 30/01/2026
-- 🎡 [Tổng Bí thư Tô Lâm điện đàm với Tổng thống Hàn Quốc](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-tong-thong-han-quoc-5012068.html) - 13:39 30/01/2026
-- 🤗 [New York huy động máy đun khổng lồ nấu chảy tuyết trên đường phố](https://vnexpress.net/new-york-huy-dong-may-dun-khong-lo-nau-chay-tuyet-tren-duong-pho-5011918.html) - 13:00 30/01/2026
-- 🦩 [Tàu khu trục tên lửa Mỹ cập cảng Israel](https://vnexpress.net/tau-khu-truc-ten-lua-my-cap-cang-israel-5012057.html) - 12:24 30/01/2026
-- 🎓 [Tòa án bác quyền vận hành cảng của công ty Hong Kong ở kênh đào Panama](https://vnexpress.net/toa-an-bac-quyen-van-hanh-cang-cua-cong-ty-hong-kong-o-kenh-dao-panama-5011992.html) - 09:44 30/01/2026
-- 🌁 [Tổng Bí thư Tô Lâm sắp thăm Lào](https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-lao-5011979.html) - 09:40 30/01/2026
-- 🤩 [Người Australia chật vật xoay xở giữa sóng nhiệt gần 50ºC](https://vnexpress.net/nguoi-australia-chat-vat-xoay-xo-giua-song-nhiet-gan-50-c-5011847.html) - 08:43 30/01/2026
-- 👹 [Tổng Bí thư Tô Lâm tiếp Đặc phái viên của ông Tập Cận Bình](https://vnexpress.net/tong-bi-thu-to-lam-tiep-dac-phai-vien-cua-ong-tap-can-binh-5011898.html) - 07:58 30/01/2026
-- ⛽️ [Na Uy bỏ qua HIMARS, chi hai tỷ USD mua pháo Hàn Quốc](https://vnexpress.net/na-uy-bo-qua-himars-chi-hai-ty-usd-mua-phao-han-quoc-5011793.html) - 07:25 30/01/2026
-- 🚀 [Xịt hơi cay, cướp va ly tiền giữa trung tâm Tokyo](https://vnexpress.net/xit-hoi-cay-cuop-va-ly-tien-giua-trung-tam-tokyo-5011894.html) - 07:08 30/01/2026
-- 🎡 [Đóng giả đặc vụ FBI vì muốn cứu sát thủ Luigi Mangione](https://vnexpress.net/dong-gia-dac-vu-fbi-vi-muon-cuu-sat-thu-luigi-mangione-5011838.html) - 04:54 30/01/2026
-- 🕯 [Máy bay Thái Lan bỏ quên 23 hành khách](https://vnexpress.net/may-bay-thai-lan-bo-quen-23-hanh-khach-5011817.html) - 04:43 30/01/2026
-- 🐻 [Ukraine tìm cách ngăn Nga dùng Starlink điều khiển UAV](https://vnexpress.net/ukraine-tim-cach-ngan-nga-dung-starlink-dieu-khien-uav-5011811.html) - 04:31 30/01/2026
-- 🚦 [Nạn buôn bán trẻ sơ sinh ở Indonesia](https://vnexpress.net/nan-buon-ban-tre-so-sinh-o-indonesia-5011515.html) - 04:13 30/01/2026
-- 👍 [Costco bị kiện vì món &#39;gà quay quốc dân&#39; giá gần 5 USD](https://vnexpress.net/costco-bi-kien-vi-mon-ga-quay-quoc-dan-gia-gan-5-usd-5011753.html) - 03:32 30/01/2026
-- 🚀 [Nga, Ukraine lần đầu trao đổi thi thể binh sĩ trong năm nay](https://vnexpress.net/nga-ukraine-lan-dau-trao-doi-thi-the-binh-si-trong-nam-nay-5011739.html) - 03:22 30/01/2026
-- 🌮 [Bão thổi tung mái nhà, loạt F-16 Bồ Đào Nha hư hại](https://vnexpress.net/bao-thoi-tung-mai-nha-loat-f-16-bo-dao-nha-hu-hai-5011748.html) - 03:03 30/01/2026
-- 😎 [Ông Trump lạnh nhạt với &#39;bà trùm ICE&#39; sau hỗn loạn ở Minnesota](https://vnexpress.net/ong-trump-lanh-nhat-voi-ba-trum-ice-sau-hon-loan-o-minnesota-5011733.html) - 02:36 30/01/2026
-- 🐲 [Đài truyền hình Đức bị phạt vì trò đùa treo cờ Mỹ tại Greenland](https://vnexpress.net/dai-truyen-hinh-duc-bi-phat-vi-tro-dua-treo-co-my-tai-greenland-5011727.html) - 02:33 30/01/2026
-- 💫 [Nhóm hoạt động ly khai ở Canada bị cáo buộc liên hệ với quan chức Mỹ](https://vnexpress.net/nhom-hoat-dong-ly-khai-o-canada-bi-cao-buoc-lien-he-voi-quan-chuc-my-5011696.html) - 02:10 30/01/2026
-- 👀 [Lãnh đạo Ba Lan đấu khẩu với Elon Musk vì Starlink ở Ukraine](https://vnexpress.net/lanh-dao-ba-lan-dau-khau-voi-elon-musk-vi-starlink-o-ukraine-5011535.html) - 01:11 30/01/2026<!-- vnexpress-the-gioi:END -->
+- 🤩 [Bên trong nơi giam giữ tù binh ngoại quốc chiến đấu cho Nga](https://vnexpress.net/ben-trong-noi-giam-giu-tu-binh-ngoai-quoc-chien-dau-cho-nga-5011988.html) - 05:22 31/01/2026
+- 👹 [Toàn bộ tù nhân Mỹ ở Venezuela được trả tự do](https://vnexpress.net/toan-bo-tu-nhan-my-o-venezuela-duoc-tra-tu-do-5012194.html) - 04:33 31/01/2026
+- ⛽️ [Khoảnh khắc UAV Nga tập kích &#39;chiến đấu cơ Su-27 Ukraine&#39;](https://vnexpress.net/khoanh-khac-uav-nga-tap-kich-chien-dau-co-su-27-ukraine-5012174.html) - 04:21 31/01/2026
+- 🚀 [Thủ tướng Tây Ban Nha đáp trả Elon Musk về nhập cư](https://vnexpress.net/thu-tuong-tay-ban-nha-dap-tra-elon-musk-ve-nhap-cu-5012168.html) - 03:40 31/01/2026
+- 🎡 [Mỹ duyệt bán lô tên lửa Patriot 9 tỷ USD cho Arab Saudi](https://vnexpress.net/my-duyet-ban-lo-ten-lua-patriot-9-ty-usd-cho-arab-saudi-5012151.html) - 03:24 31/01/2026
+- 🕯 [Thống đốc trẻ nhất Nhật Bản gây sốt vì ngoại hình điển trai](https://vnexpress.net/thong-doc-tre-nhat-nhat-ban-gay-sot-vi-ngoai-hinh-dien-trai-5012149.html) - 02:55 31/01/2026
+- 🐻 [Em trai Vua Charles III từng &#39;mời Epstein tới Cung điện Buckingham&#39;](https://vnexpress.net/em-trai-vua-charles-iii-tung-moi-epstein-toi-cung-dien-buckingham-5012144.html) - 02:37 31/01/2026
+- 🚦 [Chính phủ Mỹ lại đóng cửa từ cuối tuần này](https://vnexpress.net/chinh-phu-my-lai-dong-cua-tu-cuoi-tuan-nay-5012129.html) - 01:43 31/01/2026
+- 👍 [Ông Guterres cảnh báo Liên Hợp Quốc &#39;cận kề sụp đổ tài chính&#39;](https://vnexpress.net/ong-guterres-canh-bao-lien-hop-quoc-can-ke-sup-do-tai-chinh-5012125.html) - 01:00 31/01/2026
+- 🚀 [Ông Trump tin Iran muốn đạt thỏa thuận với Mỹ](https://vnexpress.net/ong-trump-tin-iran-muon-dat-thoa-thuan-voi-my-5012118.html) - 00:25 31/01/2026
+- 🌮 [Mỹ công bố 3 triệu trang tài liệu hồ sơ Epstein](https://vnexpress.net/my-cong-bo-3-trieu-trang-tai-lieu-ho-so-epstein-5012117.html) - 23:58 30/01/2026
+- 😎 [Canh bạc của nữ Thủ tướng Nhật khi tổ chức bầu cử sớm](https://vnexpress.net/canh-bac-cua-nu-thu-tuong-nhat-khi-to-chuc-bau-cu-som-5011732.html) - 22:00 30/01/2026
+- 🐲 [Hoài nghi về &#39;vũ khí bí mật&#39; của Mỹ trong chiến dịch bắt ông Maduro](https://vnexpress.net/hoai-nghi-ve-vu-khi-bi-mat-cua-my-trong-chien-dich-bat-ong-maduro-5010703.html) - 18:00 30/01/2026
+- 💫 [Việt Nam mong muốn củng cố quan hệ với Venezuela](https://vnexpress.net/viet-nam-mong-muon-cung-co-quan-he-voi-venezuela-5012096.html) - 16:51 30/01/2026
+- 👀 [Ảnh vệ tinh trận địa Patriot đặt gần Iran](https://vnexpress.net/anh-ve-tinh-tran-dia-patriot-dat-gan-iran-5012011.html) - 16:18 30/01/2026<!-- vnexpress-the-gioi:END -->
