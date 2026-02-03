@@ -11,7 +11,7 @@ sidebar_position: 11
 - 👀 [Gia Lai được chọn là điểm đến thu hút khách năm Du lịch Quốc gia](https://vnexpress.net/gia-lai-duoc-chon-la-diem-den-thu-hut-khach-nam-du-lich-quoc-gia-5013387.html) - 06:43 03/02/2026
 - 🎭 [Lễ hội lớn nhất năm trên đỉnh núi Bà Đen](https://vnexpress.net/le-hoi-lon-nhat-nam-tren-dinh-nui-ba-den-5013328.html) - 03:45 03/02/2026
 - 🦒 [Du khách tử vong vì vướng ba lô vào cáp treo](https://vnexpress.net/du-khach-tu-vong-vi-vuong-ba-lo-vao-cap-treo-5013350.html) - 02:40 03/02/2026
-- 👨‍🏫 [Quán xôi hơn 40 năm giữ chân khách ở vỉa hè phố cổ Hà Nội](https://vnexpress.net/quan-xoi-hon-40-nam-giu-chan-khach-o-via-he-pho-co-ha-noi-5012299.html) - 01:00 03/02/2026
+- 👨‍🏫 [Quán xôi vỉa hè hơn 40 năm giữ chân khách ở phố cổ Hà Nội](https://vnexpress.net/quan-xoi-via-he-hon-40-nam-giu-chan-khach-o-pho-co-ha-noi-5012299.html) - 01:00 03/02/2026
 - ⚗️ [Chuyến tàu duy nhất khách tự lau cửa kính ở Trung Quốc](https://vnexpress.net/chuyen-tau-duy-nhat-khach-tu-lau-cua-kinh-o-trung-quoc-5013244.html) - 17:00 02/02/2026
 - 🥸 [Quốc gia Đông Nam Á nào có mỏ vàng lớn nhất thế giới?](https://vnexpress.net/quoc-gia-dong-nam-a-nao-co-mo-vang-lon-nhat-the-gioi-5012738.html) - 12:00 02/02/2026
 - 🤠 [Cần Giờ lần đầu có lễ hội xuân quy mô lớn](https://vnexpress.net/can-gio-lan-dau-co-le-hoi-xuan-quy-mo-lon-5013029.html) - 10:15 02/02/2026
