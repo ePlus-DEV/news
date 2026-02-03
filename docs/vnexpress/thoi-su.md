@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất cấm hút thuốc tại đền chùa, di tích](https://vnexpress.net/de-xuat-cam-hut-thuoc-tai-den-chua-di-tich-5013426.html) - 04:27 03/02/2026
+- 🦒 [Đề xuất cấm hút thuốc tại đền chùa, bến xe](https://vnexpress.net/de-xuat-cam-hut-thuoc-tai-den-chua-ben-xe-5013426.html) - 04:27 03/02/2026
 - 🤓 [Đồng Nai thông xe hai tuyến đường gần 3.000 tỷ đồng](https://vnexpress.net/dong-nai-thong-xe-hai-tuyen-duong-gan-3-000-ty-dong-5010967.html) - 03:10 03/02/2026
 - ⚗️ [Tàu chở 15 người bị chìm](https://vnexpress.net/tau-cho-15-nguoi-bi-chim-5013385.html) - 03:10 03/02/2026
 - 🌊 [Tượng cá voi 50 tỷ đồng ở Bãi Sau Vũng Tàu hoàn thiện](https://vnexpress.net/bieu-tuong-ca-ong-50-ty-dong-bai-sau-vung-tau-hoan-thien-5013394.html) - 02:58 03/02/2026
