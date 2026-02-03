@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [260 triệu đồng giúp tái thiết trường học vùng lũ](https://vnexpress.net/260-trieu-dong-giup-tai-thiet-truong-hoc-vung-lu-5013732.html) - 17:15 03/02/2026
 - 🤓 [Bộ Xây dựng quy hoạch gần 9.000 km đường cao tốc đến năm 2050](https://vnexpress.net/bo-xay-dung-quy-hoach-gan-9-000-km-duong-cao-toc-den-nam-2050-5013717.html) - 17:00 03/02/2026
-- ⚗️ [Trả lương nhân sự giỏi tiếng Trung 40 triệu đồng vẫn bị &#39;lật kèo&#39;](https://vnexpress.net/tra-luong-nhan-su-gioi-tieng-trung-40-trieu-dong-van-bi-lat-keo-5012773.html) - 17:00 03/02/2026
+- ⚗️ [Doanh nghiệp tìm mọi cách thu hút lao động thạo tiếng Trung](https://vnexpress.net/doanh-nghiep-tim-moi-cach-thu-hut-lao-dong-thao-tieng-trung-5012773.html) - 17:00 03/02/2026
 - 🌊 [Ôtô bẹp rúm khi rơi xuống vực, ba người sống sót](https://vnexpress.net/oto-bep-rum-khi-roi-xuong-vuc-ba-nguoi-song-sot-5013706.html) - 14:23 03/02/2026
 - 🎓 [Đồng Nai &#39;cầu cứu&#39; Bộ Công Thương vụ hai cây xăng trên cao tốc ngừng bán](https://vnexpress.net/dong-nai-cau-cuu-bo-cong-thuong-vu-hai-cay-xang-tren-cao-toc-ngung-ban-5013616.html) - 10:20 03/02/2026
 - 🔥 [Miền Bắc có thể đón không khí lạnh mạnh trước Tết](https://vnexpress.net/mien-bac-co-the-don-khong-khi-lanh-manh-truoc-tet-5013627.html) - 09:26 03/02/2026
