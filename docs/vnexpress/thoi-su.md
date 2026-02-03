@@ -61,5 +61,4 @@ sidebar_position: 1
 - 🗽 [Lửa thiêu rụi nhiều ki-ốt tại chợ ở Hưng Yên](https://vnexpress.net/lua-thieu-rui-nhieu-ki-ot-tai-cho-o-hung-yen-5012386.html) - 16:53 31/01/2026
 - 🔥 [Thủ tướng: Hoàn thành báo cáo nghiên cứu khả thi đường sắt tốc độ cao trong quý IV](https://vnexpress.net/thu-tuong-hoan-thanh-bao-cao-nghien-cuu-kha-thi-duong-sat-toc-do-cao-trong-quy-iv-5012356.html) - 14:24 31/01/2026
 - 💯 [Khỉ xuống khu dân cư cắn nhiều người ở Vũng Tàu](https://vnexpress.net/khi-xuong-khu-dan-cu-can-nhieu-nguoi-o-vung-tau-5012326.html) - 11:43 31/01/2026
-- 🦆 [Đề xuất khai thác tạm cao tốc Biên Hòa - Vũng Tàu trước Tết](https://vnexpress.net/de-xuat-khai-thac-tam-cao-toc-bien-hoa-vung-tau-truoc-tet-5012311.html) - 10:54 31/01/2026
-- 🫣 [Trạm thu phí cầu Đồng Nai nối TP HCM bỏ không hơn 5 năm](https://vnexpress.net/tram-thu-phi-cau-dong-nai-noi-tp-hcm-bo-khong-hon-5-nam-5011447.html) - 08:15 31/01/2026<!-- vnexpress-thoi-su:END -->
+- 🦆 [Đề xuất khai thác tạm cao tốc Biên Hòa - Vũng Tàu trước Tết](https://vnexpress.net/de-xuat-khai-thac-tam-cao-toc-bien-hoa-vung-tau-truoc-tet-5012311.html) - 10:54 31/01/2026<!-- vnexpress-thoi-su:END -->
