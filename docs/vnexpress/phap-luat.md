@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Kẻ sống kín tiếng bán ma túy qua khe cửa hẹp](https://vnexpress.net/ke-song-kin-tieng-ban-ma-tuy-qua-khe-cua-hep-5013697.html) - 17:09 03/02/2026
-- 🥰 [Toà án: Nếu xây tiếp tháp bỏ hoang của VICEM, hơn 100 năm mới thu hồi vốn](https://vnexpress.net/toa-an-xay-tiep-thap-bo-hoang-cua-vicem-hon-100-nam-moi-thu-hoi-von-5013688.html) - 17:06 03/02/2026
+- 🥰 [Toà án: Xây tiếp tháp bỏ hoang của VICEM, hơn 100 năm mới thu hồi vốn](https://vnexpress.net/toa-an-xay-tiep-thap-bo-hoang-cua-vicem-hon-100-nam-moi-thu-hoi-von-5013688.html) - 17:06 03/02/2026
 - 🎓 [Âm mưu trả thù hèn hạ của tử tù trẻ tuổi nhất Hàn Quốc](https://vnexpress.net/am-muu-tra-thu-hen-ha-cua-tu-tu-tre-tuoi-nhat-han-quoc-5013674.html) - 17:00 03/02/2026
 - 🤓 [Cựu Chi cục trưởng Thú Y vùng VI: &#39;Không biết tiền cấp dưới đưa là của doanh nghiệp&#39;](https://vnexpress.net/cuu-chi-cuc-truong-thu-y-vung-vi-khong-biet-tien-cap-duoi-dua-la-cua-doanh-nghiep-5013644.html) - 12:03 03/02/2026
 - 🎊 [Đường dây làm xăng giả A95 ở TP HCM](https://vnexpress.net/duong-day-lam-xang-gia-a95-o-tp-hcm-5013670.html) - 11:29 03/02/2026
