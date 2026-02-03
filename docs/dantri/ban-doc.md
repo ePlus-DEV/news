@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Rải tiền không hẳn là tập tục, mà là sự bày vẽ của những người giàu có](https://dantri.com.vn/ban-doc/rai-tien-khong-han-la-tap-tuc-ma-la-su-bay-ve-cua-nhung-nguoi-giau-co-20260203120326981.htm) - 05:36 03/02/2026
+- 🦒 [&quot;Rải tiền không hẳn là tập tục, mà là sự bày vẽ của những người giàu có&quot;](https://dantri.com.vn/ban-doc/rai-tien-khong-han-la-tap-tuc-ma-la-su-bay-ve-cua-nhung-nguoi-giau-co-20260203120326981.htm) - 05:36 03/02/2026
 - 🤓 [Gần Tết, dân khổ vì các quán cà phê “hát cho nhau nghe”](https://dantri.com.vn/ban-doc/gan-tet-dan-kho-vi-cac-quan-ca-phe-hat-cho-nhau-nghe-20260202150558078.htm) - 01:03 03/02/2026
 - 🐻 [Đất vườn chuyển sang đất ở, nộp tiền sử dụng đất thế nào?](https://dantri.com.vn/ban-doc/dat-vuon-chuyen-sang-dat-o-nop-tien-su-dung-dat-the-nao-20260202063020147.htm) - 04:55 02/02/2026
 - 🏊 [Dấu hiệu nhiều tội danh vụ tài xế đánh chết người sau va chạm giao thông](https://dantri.com.vn/ban-doc/dau-hieu-nhieu-toi-danh-vu-tai-xe-danh-chet-nguoi-sau-va-cham-giao-thong-20260201234735253.htm) - 00:06 02/02/2026
