@@ -6,7 +6,7 @@ sidebar_position: 14
 <!-- dantri-dnews:START -->
 - 🤠 [Tài xế bỡ ngỡ, đi vòng hơn 5km sau khi thông hầm chui An Phú ở TPHCM](https://dantri.com.vn/thoi-su/tai-xe-bo-ngo-di-vong-hon-5km-sau-khi-thong-ham-chui-an-phu-o-tphcm-20260203125112787.htm) - 06:22 03/02/2026
 - 🌈 [Vụ tài xế đánh chết người ở Tây Ninh dưới góc nhìn tâm lý bạo lực bộc phát](https://dantri.com.vn/thoi-su/vu-tai-xe-danh-chet-nguoi-o-tay-ninh-duoi-goc-nhin-tam-ly-bao-luc-boc-phat-20260203100103533.htm) - 05:58 03/02/2026
-- 🐎 [Rải tiền không hẳn là tập tục, mà là sự bày vẽ của những người giàu có](https://dantri.com.vn/ban-doc/rai-tien-khong-han-la-tap-tuc-ma-la-su-bay-ve-cua-nhung-nguoi-giau-co-20260203120326981.htm) - 05:36 03/02/2026
+- 🐎 [&quot;Rải tiền không hẳn là tập tục, mà là sự bày vẽ của những người giàu có&quot;](https://dantri.com.vn/ban-doc/rai-tien-khong-han-la-tap-tuc-ma-la-su-bay-ve-cua-nhung-nguoi-giau-co-20260203120326981.htm) - 05:36 03/02/2026
 - 👹 [Bảo dưỡng xe máy trước Tết, đừng chỉ thay mỗi dầu](https://dantri.com.vn/o-to-xe-may/bao-duong-xe-may-truoc-tet-dung-chi-thay-moi-dau-20260203110100740.htm) - 04:36 03/02/2026
 - 🫶 [Danh hài từng thi hoa hậu: &quot;Tôi không giàu có như mọi người nghĩ&quot;](https://dantri.com.vn/giai-tri/danh-hai-tung-thi-hoa-hau-toi-khong-giau-co-nhu-moi-nguoi-nghi-20260203013337566.htm) - 00:48 03/02/2026
 - ⛽️ [Cách giới đầu cơ Trung Quốc dọn đường cho cú sập của vàng và bạc](https://dantri.com.vn/kinh-doanh/cach-gioi-dau-co-trung-quoc-don-duong-cho-cu-sap-cua-vang-va-bac-20260202073538900.htm) - 00:00 03/02/2026
