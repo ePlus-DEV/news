@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tổng Bí thư: Ưu tiên chính sách phát triển con người](https://vnexpress.net/tong-bi-thu-uu-tien-chinh-sach-phat-trien-con-nguoi-5013978.html) - 07:42 04/02/2026
 - 🤓 [Ôtô 7 chỗ tông đuôi xe hút bụi trên cao tốc Hải Phòng - Móng Cái](https://vnexpress.net/oto-7-cho-tong-duoi-xe-hut-bui-tren-cao-toc-hai-phong-mong-cai-5013968.html) - 07:17 04/02/2026
-- ⚗️ [Đà Nẵng bắn pháo hoa tầm cao tại 6 điểm trong đêm Giao thừa](https://vnexpress.net/da-nang-ban-phao-hoa-tam-cao-tai-6-diem-trong-dem-giao-thua-5013974.html) - 07:16 04/02/2026
+- ⚗️ [Đà Nẵng bắn pháo hoa tầm cao tại 6 điểm trong đêm giao thừa](https://vnexpress.net/da-nang-ban-phao-hoa-tam-cao-tai-6-diem-trong-dem-giao-thua-5013974.html) - 07:16 04/02/2026
 - 🌊 [CSGT bị tông tử vong khi đang kiểm tra xe tải](https://vnexpress.net/csgt-bi-tong-tu-vong-khi-dang-kiem-tra-xe-tai-5013963.html) - 07:06 04/02/2026
 - 🎓 [Đơn vị chỉnh trang chợ Bến Thành, Hồ Con Rùa: Sẵn sàng đổi lại màu sơn](https://vnexpress.net/don-vi-chinh-trang-cho-ben-thanh-ho-con-rua-san-sang-doi-lai-mau-son-5013952.html) - 06:02 04/02/2026
 - 🔥 [TP HCM tính mở tuyến xe buýt đón khách đi sân bay Long Thành](https://vnexpress.net/tp-hcm-tinh-mo-tuyen-xe-buyt-don-khach-di-san-bay-long-thanh-5013936.html) - 05:30 04/02/2026
