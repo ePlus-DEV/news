@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Vé máy bay giá rẻ có thể &#39;phá hỏng&#39; kỳ nghỉ](https://vnexpress.net/ve-may-bay-gia-re-co-the-pha-hong-ky-nghi-5013914.html) - 07:11 04/02/2026
 - 🪄 [Loạt điểm đến nổi tiếng Việt Nam trong phim &#39;Người bất tử&#39;](https://vnexpress.net/loat-diem-den-noi-tieng-viet-nam-trong-phim-nguoi-bat-tu-5013442.html) - 05:25 04/02/2026
 - 🦅 [Du khách bị voi giẫm chết ở Thái Lan](https://vnexpress.net/du-khach-bi-voi-giam-chet-o-thai-lan-5013792.html) - 02:48 04/02/2026
-- 🕴 [Khách nước ngoài học cách bày mâm ngũ quả cúng Tết Việt](https://vnexpress.net/khach-nuoc-ngoai-hoc-cach-bay-mam-ngu-qua-cung-tet-viet-5012038.html) - 00:00 04/02/2026
+- 🕴 [Khách nước ngoài bày mâm ngũ quả, lên chùa cúng Tết Việt](https://vnexpress.net/khach-nuoc-ngoai-bay-mam-ngu-qua-len-chua-cung-tet-viet-5012038.html) - 00:00 04/02/2026
 - 👀 [Nhà thám hiểm Mỹ kể bạn đồng hành bị bộ lạc Amazon tấn công](https://vnexpress.net/nha-tham-hiem-my-ke-ban-dong-hanh-bi-bo-lac-amazon-tan-cong-5013735.html) - 18:50 03/02/2026
 - 🎭 [Nem Hà Nội và chả giò Sài Gòn khác nhau thế nào?](https://vnexpress.net/nem-ha-noi-va-cha-gio-sai-gon-khac-nhau-the-nao-5013629.html) - 13:09 03/02/2026
 - 🦒 [Bên trong khách sạn trên xe buýt ở Singapore](https://vnexpress.net/ben-trong-khach-san-tren-xe-buyt-o-singapore-5013496.html) - 12:00 03/02/2026
