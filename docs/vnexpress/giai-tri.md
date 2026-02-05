@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nghệ sĩ Trần Hiếu hồi phục sức khỏe](https://vnexpress.net/nghe-si-tran-hieu-hoi-phuc-suc-khoe-5013603.html) - 06:16 05/02/2026
-- 💫 [Tài tử Ha Jung Woo công khai người yêu](https://vnexpress.net/tai-tu-ha-jung-woo-cong-khai-nguoi-yeu-5014280.html) - 04:16 05/02/2026
-- 🌮 [Lý Tử Thất giảm quay video đồng quê](https://vnexpress.net/ly-tu-that-giam-quay-video-dong-que-5014227.html) - 02:55 05/02/2026
-- 🧠 [Nghệ sĩ Mai Tuyết Hoa hát xẩm cùng con trai Gen Z](https://vnexpress.net/nghe-si-mai-tuyet-hoa-hat-xam-cung-con-trai-gen-z-5013971.html) - 01:59 05/02/2026
-- 👨‍🏫 [Loạt đồng hồ, trang sức chủ đề tình yêu của Chopard](https://vnexpress.net/loat-dong-ho-trang-suc-chu-de-tinh-yeu-cua-chopard-5013902.html) - 01:00 05/02/2026
-- ⚗️ [Ngựa và hoa trong tranh danh họa Lê Bá Đảng](https://vnexpress.net/ngua-va-hoa-trong-tranh-danh-hoa-le-ba-dang-5012331.html) - 00:39 05/02/2026
-- 😎 [MC Hải Triều: &#39;Đọc sách giúp tôi rèn tính cách&#39;](https://vnexpress.net/mc-hai-trieu-doc-sach-giup-toi-ren-tinh-cach-5012354.html) - 17:05 04/02/2026
-- 🫣 [Bộ sưu tập đầm xuyên thấu của Hoa hậu Thanh Thủy](https://vnexpress.net/bo-suu-tap-dam-xuyen-thau-cua-hoa-hau-thanh-thuy-5013940.html) - 17:00 04/02/2026
-- 🪄 [Phim của Mỹ Tâm, Mai Tài Phến hé lộ cảnh hành động](https://vnexpress.net/phim-cua-my-tam-mai-tai-phen-he-lo-canh-hanh-dong-5013989.html) - 12:09 04/02/2026
-- 🤓 [Tranh vẽ ngựa bằng phấn màu của cô giáo mỹ thuật gây sốt](https://vnexpress.net/tranh-ve-ngua-bang-phan-mau-cua-co-giao-my-thuat-gay-sot-5013947.html) - 12:00 04/02/2026
-- 🫶 [Park Shin Hye tỏa sáng với vai diễn hai mặt](https://vnexpress.net/park-shin-hye-toa-sang-voi-vai-dien-hai-mat-5013845.html) - 09:07 04/02/2026
-- 🧑‍🏫 [&#39;Võ Tắc Thiên&#39; Lưu Hiểu Khánh bán chữ](https://vnexpress.net/vo-tac-thien-luu-hieu-khanh-ban-chu-5013912.html) - 08:58 04/02/2026
-- 🦄 [Màn đu dây của Hòa Minzy ở concert gây tranh luận](https://vnexpress.net/man-du-day-cua-hoa-minzy-o-concert-gay-tranh-luan-5013586.html) - 07:20 04/02/2026
-- 💫 [Tài tử &#39;Tiếng yêu này anh dịch được không?&#39; xin lỗi](https://vnexpress.net/tai-tu-tieng-yeu-nay-anh-dich-duoc-khong-xin-loi-5013920.html) - 07:07 04/02/2026
-- 🎊 [&#39;Điều kỳ diệu ở vương quốc Sách&#39;](https://vnexpress.net/dieu-ky-dieu-o-vuong-quoc-sach-5011786.html) - 03:52 04/02/2026
-- 👹 [Bố vợ Brooklyn Beckham: Con rể tôi tuyệt vời](https://vnexpress.net/bo-vo-brooklyn-beckham-con-re-toi-tuyet-voi-5013776.html) - 03:22 04/02/2026
-- 💻 [Nghệ sĩ Việt Anh: &#39;Tôi biết ơn vì hạnh phúc tuổi xế chiều&#39;](https://vnexpress.net/nghe-si-viet-anh-toi-biet-on-vi-hanh-phuc-tuoi-xe-chieu-5012293.html) - 02:16 04/02/2026
-- 🤡 [Phim về bà Melania Trump hút khán giả dù bị chê nội dung](https://vnexpress.net/phim-ve-ba-melania-trump-hut-khan-gia-du-bi-che-noi-dung-5013473.html) - 17:00 03/02/2026
-- 🥰 [Mỹ Tâm, Mai Tài Phến sánh đôi](https://vnexpress.net/my-tam-mai-tai-phen-sanh-doi-5013669.html) - 16:30 03/02/2026
-- 🚀 [Duyên Quỳnh xin lỗi sau khi lộ hát nhép](https://vnexpress.net/duyen-quynh-xin-loi-sau-khi-lo-hat-nhep-5013704.html) - 14:44 03/02/2026
-- 📝 [Olivia Dean - giọng ca Anh thắng Nghệ sĩ mới xuất sắc Grammy](https://vnexpress.net/olivia-dean-giong-ca-anh-thang-nghe-si-moi-xuat-sac-grammy-5013364.html) - 13:31 03/02/2026
-- 🐲 [Bí quyết giữ sắc vóc của bà Melania Trump](https://vnexpress.net/bi-quyet-giu-sac-voc-cua-ba-melania-trump-5013470.html) - 12:36 03/02/2026
-- 🎃 [Vũ Thắng Lợi sẽ biểu diễn cùng gần 100 nhạc công](https://vnexpress.net/vu-thang-loi-se-bieu-dien-cung-gan-100-nhac-cong-5012590.html) - 10:05 03/02/2026
-- 🤠 [Mai Tài Phến: &#39;Ở cạnh Mỹ Tâm, tôi luôn yên tâm&#39;](https://vnexpress.net/mai-tai-phen-o-canh-my-tam-toi-luon-yen-tam-5013502.html) - 09:48 03/02/2026
-- 🎭 [Tác phẩm audio book của Đức Đạt Lai Lạt Ma nhận giải Grammy](https://vnexpress.net/tac-pham-audio-book-cua-duc-dat-lai-lat-ma-nhan-giai-grammy-5013491.html) - 09:08 03/02/2026
-- 🧰 [Tài tử 76 tuổi chuyển nhà &#39;để quên bạn gái cũ&#39;](https://vnexpress.net/tai-tu-76-tuoi-chuyen-nha-de-quen-ban-gai-cu-5013533.html) - 07:46 03/02/2026
-- 🦍 [Đạo diễn Bảo Nguyễn làm phim tài liệu về nhóm nhạc BTS](https://vnexpress.net/dao-dien-bao-nguyen-lam-phim-tai-lieu-ve-nhom-nhac-bts-5013322.html) - 05:28 03/02/2026
-- 🌝 [Tiết mục của Tóc Tiên cùng dàn &#39;Em xinh&#39; được yêu thích](https://vnexpress.net/tiet-muc-cua-toc-tien-cung-dan-em-xinh-duoc-yeu-thich-5012827.html) - 05:07 03/02/2026
-- 🧑‍💻 [Trưng bày 60 tác phẩm về hình tượng ngựa](https://vnexpress.net/trung-bay-60-tac-pham-ve-hinh-tuong-ngua-5012016.html) - 03:35 03/02/2026
-- 🥸 [Chồng Từ Hy Viên: Một năm qua không biết là thực hay mơ](https://vnexpress.net/chong-tu-hy-vien-mot-nam-qua-khong-biet-la-thuc-hay-mo-5013370.html) - 02:57 03/02/2026
-- 🔥 [7 sao mặc đẹp nhất Grammy 2026](https://vnexpress.net/7-sao-mac-dep-nhat-grammy-2026-5012802.html) - 19:00 02/02/2026
-- 🐎 [Hôn nhân hơn 30 năm của &#39;Nữ hoàng ảnh lịch&#39; Diễm My](https://vnexpress.net/hon-nhan-hon-30-nam-cua-nu-hoang-anh-lich-diem-my-5008088.html) - 17:00 02/02/2026
-- 😎 [Tiềm năng diễn xuất ở người điếc](https://vnexpress.net/tiem-nang-dien-xuat-o-nguoi-diec-5009265.html) - 14:37 02/02/2026
-- 🦄 [Căn hộ 70 m2 của Thanh Thanh Huyền](https://vnexpress.net/can-ho-70-m2-cua-thanh-thanh-huyen-5011157.html) - 12:44 02/02/2026
-- 🌜 [Triển lãm ảnh về cuộc đời bà Nguyễn Thị Bình](https://vnexpress.net/trien-lam-anh-ve-cuoc-doi-ba-nguyen-thi-binh-5010620.html) - 12:00 02/02/2026
-- 🚦 [Diễn viên Vân Sơn đóng phim sau 25 năm](https://vnexpress.net/dien-vien-van-son-dong-phim-sau-25-nam-5013033.html) - 10:54 02/02/2026
-- 🧐 [7 màn trình diễn ấn tượng tại Grammy 2026](https://vnexpress.net/7-man-trinh-dien-an-tuong-tai-grammy-2026-5013021.html) - 09:33 02/02/2026
-- 🐵 [Chồng tạc tượng Từ Hy Viên](https://vnexpress.net/chong-tac-tuong-tu-hy-vien-5012866.html) - 07:49 02/02/2026
-- ⚗️ [Heidi Klum di chuyển khó khăn với váy giả khỏa thân](https://vnexpress.net/heidi-klum-di-chuyen-kho-khan-voi-vay-gia-khoa-than-5012688.html) - 05:25 02/02/2026
-- 👺 [Justin Bieber cởi trần, mặc quần đùi diễn Grammy](https://vnexpress.net/justin-bieber-coi-tran-mac-quan-dui-dien-grammy-5012698.html) - 02:56 02/02/2026
-- 🌊 [Ca sĩ Vu Văn Văn ngất xỉu khi đang biểu diễn](https://vnexpress.net/ca-si-vu-van-van-ngat-xiu-khi-dang-bieu-dien-5012648.html) - 02:43 02/02/2026
-- 🪜 [Hòa Minzy: &#39;Sau tổn thương, tôi vẫn tin tình yêu&#39;](https://vnexpress.net/hoa-minzy-sau-ton-thuong-toi-van-tin-tinh-yeu-5012625.html) - 02:04 02/02/2026
-- 🕴 [Hoa hậu, á hậu catwalk trong đêm nhạc của Hòa Minzy](https://vnexpress.net/hoa-hau-a-hau-catwalk-trong-dem-nhac-cua-hoa-minzy-5012618.html) - 00:23 02/02/2026
-- 💃 [Bad Bunny làm nên lịch sử ở Grammy 2026](https://vnexpress.net/le-trao-giai-grammy-2026-5012316-tong-thuat.html) - 00:00 02/02/2026
-- 🦄 [Dàn sao mặc hở bạo trên thảm đỏ Grammy](https://vnexpress.net/dan-sao-mac-ho-bao-tren-tham-do-grammy-5012621.html) - 23:31 01/02/2026
-- ⛽️ [Biệt phủ trên mảnh đất 10.000 m2 của Hoàng Mập](https://vnexpress.net/biet-phu-tren-manh-dat-10-000-m2-cua-hoang-map-5012420.html) - 17:00 01/02/2026
-- 😎 [Hòa Minzy đu dây trong concert](https://vnexpress.net/hoa-minzy-du-day-trong-concert-5012596.html) - 15:18 01/02/2026
-- 🌊 [Hàng nghìn fan cổ vũ concert của Hòa Minzy](https://vnexpress.net/hang-nghin-fan-co-vu-concert-cua-hoa-minzy-5012570.html) - 13:33 01/02/2026
-- 🐲 [&#39;Left-Handed Girl&#39; - áp lực của bàn tay khác biệt](https://vnexpress.net/giai-tri/phim/thu-vien-phim/left-handed-girl-870) - 13:00 01/02/2026
-- 💂 [Lý Á Bằng thu 23 triệu USD sau 6 tiếng livestream](https://vnexpress.net/ly-a-bang-thu-23-trieu-usd-sau-6-tieng-livestream-5012554.html) - 12:30 01/02/2026
-- 🙉 [5 nghệ sĩ đoạt nhiều giải Grammy nhất](https://vnexpress.net/5-nghe-si-doat-nhieu-giai-grammy-nhat-5012508.html) - 10:49 01/02/2026
+- 🌏 [Nhà văn Nguyễn Nhật Ánh giao lưu học sinh Trường Hy vọng](https://vnexpress.net/nha-van-nguyen-nhat-anh-giao-luu-hoc-sinh-truong-hy-vong-5014429.html) - 08:55 05/02/2026
+- 💫 [Nghệ sĩ Kim Cương tái xuất](https://vnexpress.net/nghe-si-kim-cuong-tai-xuat-5014380.html) - 08:20 05/02/2026
+- 🌮 [Nghệ sĩ Trần Hiếu hồi phục sức khỏe](https://vnexpress.net/nghe-si-tran-hieu-hoi-phuc-suc-khoe-5013603.html) - 06:16 05/02/2026
+- 🧠 [Tài tử Ha Jung Woo công khai người yêu](https://vnexpress.net/tai-tu-ha-jung-woo-cong-khai-nguoi-yeu-5014280.html) - 04:16 05/02/2026
+- 👨‍🏫 [Lý Tử Thất giảm quay video đồng quê](https://vnexpress.net/ly-tu-that-giam-quay-video-dong-que-5014227.html) - 02:55 05/02/2026
+- ⚗️ [Nghệ sĩ Mai Tuyết Hoa hát xẩm cùng con trai Gen Z](https://vnexpress.net/nghe-si-mai-tuyet-hoa-hat-xam-cung-con-trai-gen-z-5013971.html) - 01:59 05/02/2026
+- 😎 [Loạt đồng hồ, trang sức chủ đề tình yêu của Chopard](https://vnexpress.net/loat-dong-ho-trang-suc-chu-de-tinh-yeu-cua-chopard-5013902.html) - 01:00 05/02/2026
+- 🫣 [Ngựa và hoa trong tranh danh họa Lê Bá Đảng](https://vnexpress.net/ngua-va-hoa-trong-tranh-danh-hoa-le-ba-dang-5012331.html) - 00:39 05/02/2026
+- 🪄 [MC Hải Triều: &#39;Đọc sách giúp tôi rèn tính cách&#39;](https://vnexpress.net/mc-hai-trieu-doc-sach-giup-toi-ren-tinh-cach-5012354.html) - 17:05 04/02/2026
+- 🤓 [Bộ sưu tập đầm xuyên thấu của Hoa hậu Thanh Thủy](https://vnexpress.net/bo-suu-tap-dam-xuyen-thau-cua-hoa-hau-thanh-thuy-5013940.html) - 17:00 04/02/2026
+- 🫶 [Phim của Mỹ Tâm, Mai Tài Phến hé lộ cảnh hành động](https://vnexpress.net/phim-cua-my-tam-mai-tai-phen-he-lo-canh-hanh-dong-5013989.html) - 12:09 04/02/2026
+- 🧑‍🏫 [Tranh vẽ ngựa bằng phấn màu của cô giáo mỹ thuật gây sốt](https://vnexpress.net/tranh-ve-ngua-bang-phan-mau-cua-co-giao-my-thuat-gay-sot-5013947.html) - 12:00 04/02/2026
+- 🦄 [Park Shin Hye tỏa sáng với vai diễn hai mặt](https://vnexpress.net/park-shin-hye-toa-sang-voi-vai-dien-hai-mat-5013845.html) - 09:07 04/02/2026
+- 💫 [&#39;Võ Tắc Thiên&#39; Lưu Hiểu Khánh bán chữ](https://vnexpress.net/vo-tac-thien-luu-hieu-khanh-ban-chu-5013912.html) - 08:58 04/02/2026
+- 🎊 [Màn đu dây của Hòa Minzy ở concert gây tranh luận](https://vnexpress.net/man-du-day-cua-hoa-minzy-o-concert-gay-tranh-luan-5013586.html) - 07:20 04/02/2026
+- 👹 [Tài tử &#39;Tiếng yêu này anh dịch được không?&#39; xin lỗi](https://vnexpress.net/tai-tu-tieng-yeu-nay-anh-dich-duoc-khong-xin-loi-5013920.html) - 07:07 04/02/2026
+- 💻 [&#39;Điều kỳ diệu ở vương quốc Sách&#39;](https://vnexpress.net/dieu-ky-dieu-o-vuong-quoc-sach-5011786.html) - 03:52 04/02/2026
+- 🤡 [Bố vợ Brooklyn Beckham: Con rể tôi tuyệt vời](https://vnexpress.net/bo-vo-brooklyn-beckham-con-re-toi-tuyet-voi-5013776.html) - 03:22 04/02/2026
+- 🥰 [Nghệ sĩ Việt Anh: &#39;Tôi biết ơn vì hạnh phúc tuổi xế chiều&#39;](https://vnexpress.net/nghe-si-viet-anh-toi-biet-on-vi-hanh-phuc-tuoi-xe-chieu-5012293.html) - 02:16 04/02/2026
+- 🚀 [Phim về bà Melania Trump hút khán giả dù bị chê nội dung](https://vnexpress.net/phim-ve-ba-melania-trump-hut-khan-gia-du-bi-che-noi-dung-5013473.html) - 17:00 03/02/2026
+- 📝 [Mỹ Tâm, Mai Tài Phến sánh đôi](https://vnexpress.net/my-tam-mai-tai-phen-sanh-doi-5013669.html) - 16:30 03/02/2026
+- 🐲 [Duyên Quỳnh xin lỗi sau khi lộ hát nhép](https://vnexpress.net/duyen-quynh-xin-loi-sau-khi-lo-hat-nhep-5013704.html) - 14:44 03/02/2026
+- 🎃 [Olivia Dean - giọng ca Anh thắng Nghệ sĩ mới xuất sắc Grammy](https://vnexpress.net/olivia-dean-giong-ca-anh-thang-nghe-si-moi-xuat-sac-grammy-5013364.html) - 13:31 03/02/2026
+- 🤠 [Bí quyết giữ sắc vóc của bà Melania Trump](https://vnexpress.net/bi-quyet-giu-sac-voc-cua-ba-melania-trump-5013470.html) - 12:36 03/02/2026
+- 🎭 [Vũ Thắng Lợi sẽ biểu diễn cùng gần 100 nhạc công](https://vnexpress.net/vu-thang-loi-se-bieu-dien-cung-gan-100-nhac-cong-5012590.html) - 10:05 03/02/2026
+- 🧰 [Mai Tài Phến: &#39;Ở cạnh Mỹ Tâm, tôi luôn yên tâm&#39;](https://vnexpress.net/mai-tai-phen-o-canh-my-tam-toi-luon-yen-tam-5013502.html) - 09:48 03/02/2026
+- 🦍 [Tác phẩm audio book của Đức Đạt Lai Lạt Ma nhận giải Grammy](https://vnexpress.net/tac-pham-audio-book-cua-duc-dat-lai-lat-ma-nhan-giai-grammy-5013491.html) - 09:08 03/02/2026
+- 🌝 [Tài tử 76 tuổi chuyển nhà &#39;để quên bạn gái cũ&#39;](https://vnexpress.net/tai-tu-76-tuoi-chuyen-nha-de-quen-ban-gai-cu-5013533.html) - 07:46 03/02/2026
+- 🧑‍💻 [Đạo diễn Bảo Nguyễn làm phim tài liệu về nhóm nhạc BTS](https://vnexpress.net/dao-dien-bao-nguyen-lam-phim-tai-lieu-ve-nhom-nhac-bts-5013322.html) - 05:28 03/02/2026
+- 🥸 [Tiết mục của Tóc Tiên cùng dàn &#39;Em xinh&#39; được yêu thích](https://vnexpress.net/tiet-muc-cua-toc-tien-cung-dan-em-xinh-duoc-yeu-thich-5012827.html) - 05:07 03/02/2026
+- 🔥 [Trưng bày 60 tác phẩm về hình tượng ngựa](https://vnexpress.net/trung-bay-60-tac-pham-ve-hinh-tuong-ngua-5012016.html) - 03:35 03/02/2026
+- 🐎 [Chồng Từ Hy Viên: Một năm qua không biết là thực hay mơ](https://vnexpress.net/chong-tu-hy-vien-mot-nam-qua-khong-biet-la-thuc-hay-mo-5013370.html) - 02:57 03/02/2026
+- 😎 [7 sao mặc đẹp nhất Grammy 2026](https://vnexpress.net/7-sao-mac-dep-nhat-grammy-2026-5012802.html) - 19:00 02/02/2026
+- 🦄 [Hôn nhân hơn 30 năm của &#39;Nữ hoàng ảnh lịch&#39; Diễm My](https://vnexpress.net/hon-nhan-hon-30-nam-cua-nu-hoang-anh-lich-diem-my-5008088.html) - 17:00 02/02/2026
+- 🌜 [Tiềm năng diễn xuất ở người điếc](https://vnexpress.net/tiem-nang-dien-xuat-o-nguoi-diec-5009265.html) - 14:37 02/02/2026
+- 🚦 [Căn hộ 70 m2 của Thanh Thanh Huyền](https://vnexpress.net/can-ho-70-m2-cua-thanh-thanh-huyen-5011157.html) - 12:44 02/02/2026
+- 🧐 [Triển lãm ảnh về cuộc đời bà Nguyễn Thị Bình](https://vnexpress.net/trien-lam-anh-ve-cuoc-doi-ba-nguyen-thi-binh-5010620.html) - 12:00 02/02/2026
+- 🐵 [Diễn viên Vân Sơn đóng phim sau 25 năm](https://vnexpress.net/dien-vien-van-son-dong-phim-sau-25-nam-5013033.html) - 10:54 02/02/2026
+- ⚗️ [7 màn trình diễn ấn tượng tại Grammy 2026](https://vnexpress.net/7-man-trinh-dien-an-tuong-tai-grammy-2026-5013021.html) - 09:33 02/02/2026
+- 👺 [Chồng tạc tượng Từ Hy Viên](https://vnexpress.net/chong-tac-tuong-tu-hy-vien-5012866.html) - 07:49 02/02/2026
+- 🌊 [Heidi Klum di chuyển khó khăn với váy giả khỏa thân](https://vnexpress.net/heidi-klum-di-chuyen-kho-khan-voi-vay-gia-khoa-than-5012688.html) - 05:25 02/02/2026
+- 🪜 [Justin Bieber cởi trần, mặc quần đùi diễn Grammy](https://vnexpress.net/justin-bieber-coi-tran-mac-quan-dui-dien-grammy-5012698.html) - 02:56 02/02/2026
+- 🕴 [Ca sĩ Vu Văn Văn ngất xỉu khi đang biểu diễn](https://vnexpress.net/ca-si-vu-van-van-ngat-xiu-khi-dang-bieu-dien-5012648.html) - 02:43 02/02/2026
+- 💃 [Hòa Minzy: &#39;Sau tổn thương, tôi vẫn tin tình yêu&#39;](https://vnexpress.net/hoa-minzy-sau-ton-thuong-toi-van-tin-tinh-yeu-5012625.html) - 02:04 02/02/2026
+- 🦄 [Hoa hậu, á hậu catwalk trong đêm nhạc của Hòa Minzy](https://vnexpress.net/hoa-hau-a-hau-catwalk-trong-dem-nhac-cua-hoa-minzy-5012618.html) - 00:23 02/02/2026
+- ⛽️ [Bad Bunny làm nên lịch sử ở Grammy 2026](https://vnexpress.net/le-trao-giai-grammy-2026-5012316-tong-thuat.html) - 00:00 02/02/2026
+- 😎 [Dàn sao mặc hở bạo trên thảm đỏ Grammy](https://vnexpress.net/dan-sao-mac-ho-bao-tren-tham-do-grammy-5012621.html) - 23:31 01/02/2026
+- 🌊 [Biệt phủ trên mảnh đất 10.000 m2 của Hoàng Mập](https://vnexpress.net/biet-phu-tren-manh-dat-10-000-m2-cua-hoang-map-5012420.html) - 17:00 01/02/2026
+- 🐲 [Hòa Minzy đu dây trong concert](https://vnexpress.net/hoa-minzy-du-day-trong-concert-5012596.html) - 15:18 01/02/2026
+- 💂 [Hàng nghìn fan cổ vũ concert của Hòa Minzy](https://vnexpress.net/hang-nghin-fan-co-vu-concert-cua-hoa-minzy-5012570.html) - 13:33 01/02/2026
+- 🙉 [&#39;Left-Handed Girl&#39; - áp lực của bàn tay khác biệt](https://vnexpress.net/giai-tri/phim/thu-vien-phim/left-handed-girl-870) - 13:00 01/02/2026
+- 💪 [Lý Á Bằng thu 23 triệu USD sau 6 tiếng livestream](https://vnexpress.net/ly-a-bang-thu-23-trieu-usd-sau-6-tieng-livestream-5012554.html) - 12:30 01/02/2026
+- 👍 [5 nghệ sĩ đoạt nhiều giải Grammy nhất](https://vnexpress.net/5-nghe-si-doat-nhieu-giai-grammy-nhat-5012508.html) - 10:49 01/02/2026
 - 💪 [Diễn viên &#39;Tiếng yêu này anh dịch được không?&#39; bị nghi trốn thuế](https://vnexpress.net/dien-vien-tieng-yeu-nay-anh-dich-duoc-khong-bi-nghi-tron-thue-5012527.html) - 09:50 01/02/2026
-- 👍 [Hoa hậu Thanh Thủy theo mốt khoe nội y](https://vnexpress.net/hoa-hau-thanh-thuy-theo-mot-khoe-noi-y-5012519.html) - 09:19 01/02/2026
-- 💪 [Nghệ sĩ Kim Xuân: &#39;May mắn khi đóng cùng diễn viên trẻ&#39;](https://vnexpress.net/nghe-si-kim-xuan-may-man-khi-dong-cung-dien-vien-tre-5012453.html) - 07:11 01/02/2026
-- 💄 [Phương Mỹ Chi bị nói &#39;bắt chước Jennie nhóm Blackpink&#39;](https://vnexpress.net/phuong-my-chi-bi-noi-bat-chuoc-jennie-nhom-blackpink-5012380.html) - 06:48 01/02/2026
-- 🦩 [Duyên Quỳnh gây bàn tán khi lộ hát nhép](https://vnexpress.net/duyen-quynh-gay-ban-tan-khi-lo-hat-nhep-5012446.html) - 04:55 01/02/2026
-- 🥸 [Ngô Thanh Vân, Huy Trần quấn quýt con gái](https://vnexpress.net/ngo-thanh-van-huy-tran-quan-quyt-con-gai-5011934.html) - 04:27 01/02/2026
-- 🧰 [Những năm tháng cuối đời của minh tinh &#39;Ở nhà một mình&#39;](https://vnexpress.net/nhung-nam-thang-cuoi-doi-cua-minh-tinh-o-nha-mot-minh-5012451.html) - 04:08 01/02/2026
-- 💼 [Đồ xuyên thấu hút mắt của Dakota Johnson](https://vnexpress.net/do-xuyen-thau-hut-mat-cua-dakota-johnson-5011842.html) - 02:54 01/02/2026
-- 🧑‍💻 [Đời sống người Việt cổ qua các hiện vật đồng](https://vnexpress.net/doi-song-nguoi-viet-co-qua-cac-hien-vat-dong-5011039.html) - 01:54 01/02/2026<!-- vnexpress-giai-tri:END -->
+- 💄 [Hoa hậu Thanh Thủy theo mốt khoe nội y](https://vnexpress.net/hoa-hau-thanh-thuy-theo-mot-khoe-noi-y-5012519.html) - 09:19 01/02/2026
+- 🦩 [Nghệ sĩ Kim Xuân: &#39;May mắn khi đóng cùng diễn viên trẻ&#39;](https://vnexpress.net/nghe-si-kim-xuan-may-man-khi-dong-cung-dien-vien-tre-5012453.html) - 07:11 01/02/2026
+- 🥸 [Phương Mỹ Chi bị nói &#39;bắt chước Jennie nhóm Blackpink&#39;](https://vnexpress.net/phuong-my-chi-bi-noi-bat-chuoc-jennie-nhom-blackpink-5012380.html) - 06:48 01/02/2026
+- 🧰 [Duyên Quỳnh gây bàn tán khi lộ hát nhép](https://vnexpress.net/duyen-quynh-gay-ban-tan-khi-lo-hat-nhep-5012446.html) - 04:55 01/02/2026
+- 💼 [Ngô Thanh Vân, Huy Trần quấn quýt con gái](https://vnexpress.net/ngo-thanh-van-huy-tran-quan-quyt-con-gai-5011934.html) - 04:27 01/02/2026
+- 🧑‍💻 [Những năm tháng cuối đời của minh tinh &#39;Ở nhà một mình&#39;](https://vnexpress.net/nhung-nam-thang-cuoi-doi-cua-minh-tinh-o-nha-mot-minh-5012451.html) - 04:08 01/02/2026<!-- vnexpress-giai-tri:END -->
