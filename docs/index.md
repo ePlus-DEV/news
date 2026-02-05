@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Quảng trường chợ Bến Thành mở cửa, bạn trẻ nô nức đến check-in](https://muctim.tuoitre.vn/quang-truong-cho-ben-thanh-mo-cua-ban-tre-no-nuc-den-check-in-101260205185349854.htm) - 13:14 05/02/2026
 - 🤓 [Đội hình ra sân Thép Xanh Nam Định đấu Johor Darul Ta&#39;zim](https://muctim.tuoitre.vn/doi-hinh-ra-san-thep-xanh-nam-dinh-dau-johor-darul-tazim-101260205175156327.htm) - 12:04 05/02/2026
 - 🎉 [Cách nhận vé đi metro miễn phí dịp Tết Bính Ngọ 2026](https://muctim.tuoitre.vn/cach-nhan-ve-di-metro-mien-phi-dip-tet-binh-ngo-2026-101260205152627713.htm) - 11:26 05/02/2026
-- 👨‍🏫 [Trực tiếp Shopee Cup: Thép Xanh Nam Định - Johor Darul Ta&#39;zim](https://muctim.tuoitre.vn/truc-tiep-shopee-cup-thep-xanh-nam-dinh-johor-darul-tazim-101260205172629138.htm) - 10:35 05/02/2026
+- 👨‍🏫 [Hòa Johor Darul Ta&#39;zim, Thép Xanh Nam Định xếp đầu bảng B](https://muctim.tuoitre.vn/truc-tiep-shopee-cup-thep-xanh-nam-dinh-johor-darul-tazim-101260205172629138.htm) - 10:35 05/02/2026
 - 🚦 [Gặp gỡ cô bạn yêu thư pháp và khởi nghiệp kinh doanh với bánh mì](https://muctim.tuoitre.vn/gap-go-co-ban-yeu-thu-phap-va-khoi-nghiep-kinh-doanh-voi-banh-mi-101260202141610268.htm) - 07:30 05/02/2026
 - 🤭 [Nam Định đấu Johor Darul Ta&#39;zim: chờ Xuân Son tỏa sáng](https://muctim.tuoitre.vn/nam-dinh-dau-johor-darul-tazim-cho-xuan-son-toa-sang-10126020513354628.htm) - 07:28 05/02/2026
 - 😺 [Hôm nay 5-2, xem Nam Định đấu Johor Darul Ta&#39;zim trên kênh nào?](https://muctim.tuoitre.vn/hom-nay-5-2-xem-nam-dinh-dau-johor-darul-tazim-tren-kenh-nao-101260205112735241.htm) - 04:42 05/02/2026
