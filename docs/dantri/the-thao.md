@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Động thái của Malaysia để tránh án phạt từ FIFA](https://dantri.com.vn/the-thao/dong-thai-cua-malaysia-de-tranh-an-phat-tu-fifa-20260206184714759.htm) - 13:00 06/02/2026
-- 💯 [Bạn gái Vinicius ăn mặc táo bạo kiểu “miêu nữ”, CĐV trầm trồ khen ngợi](https://dantri.com.vn/the-thao/ban-gai-vinicius-an-mac-tao-bao-kieu-mieu-nu-cdv-tram-tro-khen-ngoi-20260206195123180.htm) - 12:51 06/02/2026
+- 🎡 [Bạn gái Vinicius ăn mặc táo bạo kiểu “miêu nữ”, CĐV trầm trồ khen ngợi](https://dantri.com.vn/the-thao/ban-gai-vinicius-an-mac-tao-bao-kieu-mieu-nu-cdv-tram-tro-khen-ngoi-20260206195123180.htm) - 12:51 06/02/2026
+- 💯 [Động thái của Malaysia để tránh án phạt của FIFA](https://dantri.com.vn/the-thao/dong-thai-cua-malaysia-de-tranh-an-phat-cua-fifa-20260206184714759.htm) - 11:47 06/02/2026
 - ⛽️ [Tình cảnh khắc nghiệt với nhiều cầu thủ U23 Việt Nam](https://dantri.com.vn/the-thao/tinh-canh-khac-nghiet-voi-nhieu-cau-thu-u23-viet-nam-20260206181954900.htm) - 11:31 06/02/2026
 - 💃 [HLV futsal Indonesia tuyên bố bất ngờ khi đội nhà tạo nên địa chấn châu Á](https://dantri.com.vn/the-thao/hlv-futsal-indonesia-tuyen-bo-bat-ngo-khi-doi-nha-tao-nen-dia-chan-chau-a-20260206141024547.htm) - 07:10 06/02/2026
 - 🌈 [Báo Đông Nam Á hết lời ca ngợi thành tích lịch sử của futsal Indonesia](https://dantri.com.vn/the-thao/bao-dong-nam-a-het-loi-ca-ngoi-thanh-tich-lich-su-cua-futsal-indonesia-20260206131433667.htm) - 07:09 06/02/2026
