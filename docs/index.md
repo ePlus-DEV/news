@@ -163,7 +163,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌋 [Cần Thơ: Lập công ty Ba Con Sư Tử để làm phân bón giả](https://thanhnien.vn/can-tho-lap-cong-ty-ba-con-su-tu-de-lam-phan-bon-gia-18526020717462143.htm) - 11:39 07/02/2026
 - 🐻 [Thành lập 22 đoàn kiểm tra do ủy viên Bộ Chính trị, Ban Bí thư làm trưởng đoàn](https://thanhnien.vn/thanh-lap-22-doan-kiem-tra-do-uy-vien-bo-chinh-tri-ban-bi-thu-lam-truong-doan-185260207144451291.htm) - 11:07 07/02/2026
 - 🧠 [Maestro - Ghi dấu thăng trầm, đồng hành cùng nhịp bước thành công](https://thanhnien.vn/maestro-ghi-dau-thang-tram-dong-hanh-cung-nhip-buoc-thanh-cong-185260207150632237.htm) - 11:00 07/02/2026
-- 🔥 [Indonesia 4-3 Iran, chung kết futsal châu Á 2026: Samuel Eko nâng tỷ số cho xứ vạn đảo](https://thanhnien.vn/indonesia-0-0-iran-chung-ket-futsal-chau-a-2026-doi-bong-xu-van-dao-lai-gay-soc-185260207122915482.htm) - 11:00 07/02/2026
+- 🔥 [Indonesia 4-4 Iran, chung kết futsal châu Á 2026: Karimi gỡ hòa](https://thanhnien.vn/indonesia-0-0-iran-chung-ket-futsal-chau-a-2026-doi-bong-xu-van-dao-lai-gay-soc-185260207122915482.htm) - 11:00 07/02/2026
 - 🌋 [350 hộ dân khó khăn ở xã Vân Canh nhận quà tết](https://thanhnien.vn/350-ho-dan-kho-khan-o-xa-van-canh-nhan-qua-tet-185260207074157762.htm) - 11:00 07/02/2026
 - 😎 [Ngày nào cũng đẹp khi diện quần jeans, sơ mi và blazer](https://thanhnien.vn/thoi-trang-tre/ngay-nao-cung-dep-khi-dien-quan-jeans-so-mi-va-blazer-18526020411485172.htm) - 11:00 07/02/2026
 - 🥰 [&#39;Bí ẩn&#39; chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt](https://thanhnien.vn/bi-an-chu-dau-tu-du-an-nha-o-xa-hoi-ly-thuong-kiet-185260207173605863.htm) - 10:54 07/02/2026
