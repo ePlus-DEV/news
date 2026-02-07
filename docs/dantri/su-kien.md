@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Phát hiện 8 trường hợp trẻ vùng biên giới giáp Lào nhiễm viêm gan B](https://dantri.com.vn/tam-long-nhan-ai/phat-hien-8-truong-hop-tre-vung-bien-gioi-giap-lao-nhiem-viem-gan-b-20260207133440969.htm) - 13:50 07/02/2026
-- 👨‍🏫 [Tottenham vỡ trận vì thẻ đỏ, Man Utd nối dài mạch chiến thắng](https://dantri.com.vn/the-thao/tottenham-vo-tran-vi-the-do-man-utd-noi-dai-mach-chien-thang-20260207191533917.htm) - 12:15 07/02/2026
+- 👨‍🏫 [Tottenham vỡ trận vì thẻ đỏ, Man Utd thắng 4 trận liên tiếp](https://dantri.com.vn/the-thao/tottenham-vo-tran-vi-the-do-man-utd-thang-4-tran-lien-tiep-20260207191533917.htm) - 12:15 07/02/2026
 - 🌮 [22 Ủy viên Bộ Chính trị, Ban Bí thư sẽ dẫn đoàn kiểm tra 40 tổ chức Đảng](https://dantri.com.vn/thoi-su/22-uy-vien-bo-chinh-tri-ban-bi-thu-se-dan-doan-kiem-tra-40-to-chuc-dang-20260207183825839.htm) - 12:02 07/02/2026
 - 🕯 [5 lãnh đạo chủ chốt làm Trưởng, Phó trưởng Ban Chỉ đạo của Bộ Chính trị](https://dantri.com.vn/thoi-su/5-lanh-dao-chu-chot-lam-truong-pho-truong-ban-chi-dao-cua-bo-chinh-tri-20260207170004364.htm) - 10:33 07/02/2026
 - 🪜 [Tổng Bí thư: “Cá nhân nào không đáp ứng nhiệm vụ phải tự biết rút lui”](https://dantri.com.vn/thoi-su/tong-bi-thu-ca-nhan-nao-khong-dap-ung-nhiem-vu-phai-tu-biet-rut-lui-20260207163341361.htm) - 09:41 07/02/2026
