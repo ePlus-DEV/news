@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ninh Bình lại thua giúp Công an Hà Nội sớm vô địch lượt đi V-League](https://vnexpress.net/ninh-binh-lai-thua-giup-cong-an-ha-noi-som-vo-dich-luot-di-v-league-5015518.html) - 13:04 07/02/2026
+- 🪜 [Ninh Bình lại thua, CAHN sớm vô địch lượt đi V-League](https://vnexpress.net/ninh-binh-lai-thua-cahn-som-vo-dich-luot-di-v-league-5015518.html) - 13:04 07/02/2026
 - 🦩 [Đằng sau sự bùng nổ của Endrick trên đất Pháp](https://vnexpress.net/dang-sau-su-bung-no-cua-endrick-tren-dat-phap-5015398.html) - 08:53 07/02/2026
 - 🧰 [Yamal đã không còn &#39;vội lao nhanh qua tuổi 18&#39;](https://vnexpress.net/yamal-da-khong-con-voi-lao-nhanh-qua-tuoi-18-5015401.html) - 08:12 07/02/2026
 - 🤗 [Làn sóng &#39;tháo chạy&#39; khỏi Saudi Pro League](https://vnexpress.net/lan-song-thao-chay-khoi-saudi-pro-league-5015404.html) - 05:13 07/02/2026
