@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Bưu điện TPHCM: Điểm hẹn di sản kết nối tình thân dịp Tết](https://nld.com.vn/buu-dien-tphcm-diem-hen-di-san-ket-noi-tinh-than-dip-tet-196260207193552381.htm) - 13:28 07/02/2026
 - 🧰 [Thị trường tiền số hôm nay, 7-2: Hé lộ &quot;ông lớn&quot; âm thầm gom Bitcoin giữa lúc giá lao dốc](https://nld.com.vn/thi-truong-tien-so-hom-nay-7-2-he-lo-ong-lon-am-tham-gom-bitcoin-giua-luc-gia-lao-doc-196260207191432563.htm) - 12:35 07/02/2026
 - 🤗 [Lễ hội xuyên Tết &quot;độc lạ&quot; lần đầu tiên xuất hiện tại Cần Giờ](https://nld.com.vn/le-hoi-xuyen-tet-doc-la-lan-dau-tien-xuat-hien-tai-can-gio-196260207131507293.htm) - 12:31 07/02/2026
-- 🦅 [Chung kết futsal châu Á Indonesia 4-4 Iran: Phân định bằng hai hiệp phụ](https://nld.com.vn/chung-ket-futsal-chau-a-2026-indonesia-iran-the-luc-moi-doi-dau-ong-ke-196260207182312027.htm) - 11:58 07/02/2026
+- 🦅 [Bị Iran cầm hòa 5-5, Indonesia thất bại vì trọng tài trên loạt 6 m](https://nld.com.vn/chung-ket-futsal-chau-a-2026-indonesia-iran-the-luc-moi-doi-dau-ong-ke-196260207182312027.htm) - 11:58 07/02/2026
 - 🤩 [Kiều bào tiêu biểu từ 32 quốc gia kết nối với tỉnh Ninh Bình](https://nld.com.vn/kieu-bao-tieu-bieu-tu-32-quoc-gia-ket-noi-voi-tinh-ninh-binh-196260207181923735.htm) - 11:54 07/02/2026
 - 🎭 [Cuối ngày 7-2, giá vàng miếng SJC cao hơn giá vàng thế giới 22 triệu đồng/lượng](https://nld.com.vn/cuoi-ngay-7-2-gia-vang-mieng-sjc-cao-hon-gia-vang-the-gioi-22-trieu-dong-luong-196260207182716843.htm) - 11:49 07/02/2026
 - 💄 [Bí thư phường ở TPHCM gói bánh chưng cùng người dân](https://nld.com.vn/bi-thu-phuong-o-tphcm-goi-banh-chung-cung-nguoi-dan-196260207181215308.htm) - 11:33 07/02/2026
