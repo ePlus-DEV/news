@@ -141,66 +141,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Mỗi sáng 1 ly trà gừng: Điều tuyệt vời gì xảy ra cho tim, gan của bạn?](https://thanhnien.vn/moi-sang-1-ly-tra-gung-dieu-tuyet-voi-gi-xay-ra-cho-tim-gan-cua-ban-185260209151346247.htm) - 08:13 09/02/2026
-- 🥸 [5 quy tắc vàng không nên bỏ qua khi mua điện thoại Android](https://thanhnien.vn/5-quy-tac-vang-khong-nen-bo-qua-khi-mua-dien-thoai-android-185260209134233313.htm) - 08:05 09/02/2026
-- 🌁 [Ngân hàng, ví điện tử, dịch vụ trông xe, chiếu phim… xuất hóa đơn như thế nào](https://thanhnien.vn/ngan-hang-vi-dien-tu-dich-vu-trong-xe-chieu-phim-xuat-hoa-don-nhu-the-nao-185260209140515796.htm) - 08:01 09/02/2026
-- 🤡 [Đài Loan bác bỏ đề nghị của Mỹ về bán dẫn](https://thanhnien.vn/dai-loan-bac-bo-de-nghi-cua-my-ve-ban-dan-185260209135136129.htm) - 08:01 09/02/2026
-- 🎉 [Cựu Hoàng tử Andrew &#39;không chốn dung thân&#39; sau quyết định thẳng tay của Vua Charles III](https://thanhnien.vn/cuu-hoang-tu-andrew-khong-chon-dung-than-sau-quyet-dinh-thang-tay-cua-vua-charles-iii-185260209125026576.htm) - 07:59 09/02/2026
-- 🎊 [Apexmed: ‘Tọa độ’ làm đẹp kín tiếng của doanh nhân và người nổi tiếng tại Hà Nội](https://thanhnien.vn/apexmed-toa-do-lam-dep-kin-tieng-cua-doanh-nhan-va-nguoi-noi-tieng-tai-ha-noi-185260209150808101.htm) - 07:47 09/02/2026
-- 🤠 [Vườn rau xanh mướt, rực rỡ sắc hoa trong lòng thành phố](https://thanhnien.vn/vuon-rau-xanh-muot-ruc-ro-sac-hoa-trong-long-thanh-pho-185250911165811806.htm) - 07:45 09/02/2026
-- 💼 [Diva Đài Loan Tiêu Á Hiên biến dạng gương mặt sau khi bị chó tấn công](https://thanhnien.vn/diva-dai-loan-tieu-a-hien-bien-dang-guong-mat-sau-khi-bi-cho-tan-cong-185260209142627854.htm) - 07:44 09/02/2026
-- 🐻 [&#39;Xuân biên phòng ấm lòng dân bản&#39;: Nghĩa tình sâu nặng nơi biên giới Việt - Lào](https://thanhnien.vn/xuan-bien-phong-am-long-dan-ban-nghia-tinh-sau-nang-noi-bien-gioi-viet-lao-185260209120222079.htm) - 07:39 09/02/2026
-- 🤔 [Thu Quỳnh tái xuất phim giờ vàng cùng hai diễn viên ‘Độc đạo’](https://thanhnien.vn/thu-quynh-tai-xuat-phim-gio-vang-cung-hai-dien-vien-doc-dao-185260209114353453.htm) - 07:32 09/02/2026
-- 📝 [Phú Quốc thu hút du khách dịp Tết Nguyên đán](https://thanhnien.vn/phu-quoc-thu-hut-du-khach-dip-tet-nguyen-dan-185260209132212657.htm) - 07:30 09/02/2026
+- 🤠 [Xét xử vụ thảm sát 3 người trong 1 gia đình ở Đồng Nai](https://thanhnien.vn/xet-xu-vu-tham-sat-3-nguoi-trong-1-gia-dinh-o-dong-nai-185260209160121832.htm) - 09:05 09/02/2026
+- 🥸 [TP.HCM: 100% giáo viên trường tiên tiến phải có khả năng sử dụng tiếng Anh giao tiếp](https://thanhnien.vn/tphcm-100-giao-vien-truong-tien-tien-phai-co-kha-nang-su-dung-tieng-anh-giao-tiep-185260209145535935.htm) - 09:04 09/02/2026
+- 🌁 [Loạt sản phẩm đầu năm của Apple có gì đáng mua?](https://thanhnien.vn/loat-san-pham-dau-nam-cua-apple-co-gi-dang-mua-185260209104341533.htm) - 09:04 09/02/2026
+- 🤡 [Xổ số miền Nam ngày 9 tháng 2 - Kết quả xổ số hôm nay thứ hai](https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-2-ket-qua-xo-so-hom-nay-thu-hai-185260209070612296.htm) - 09:00 09/02/2026
+- 🎉 [Áo khoác denim, kaki &#39;thống trị&#39; đường phố](https://thanhnien.vn/thoi-trang-tre/ao-khoac-denim-kaki-thong-tri-duong-pho-185260204103924539.htm) - 09:00 09/02/2026
+- 🎊 [22 giờ sau tai nạn: Bác sĩ nỗ lực giữ lại chân cho thầy giáo](https://thanhnien.vn/22-gio-sau-tai-nan-bac-si-no-luc-giu-lai-chan-cho-thay-giao-185260209110748821.htm) - 08:56 09/02/2026
+- 🤠 [Vụ thảm sát 3 người trong 1 gia đình ở Đồng Nai: Bị cáo Lê Sỹ Tùng không yêu cầu luật sư](https://thanhnien.vn/vu-tham-sat-3-nguoi-trong-1-gia-dinh-o-dong-nai-bi-cao-le-sy-tung-khong-yeu-cau-luat-su-185260209153320782.htm) - 08:54 09/02/2026
+- 💼 [Đi từ An Giang lên TP.HCM để tạt sơn đòi nợ thuê](https://thanhnien.vn/di-tu-an-giang-len-tphcm-de-tat-son-doi-no-thue-18526020914075097.htm) - 08:53 09/02/2026
+- 🐻 [Ra mắt sách Cẩm nang ứng dụng công nghệ Blockchain](https://thanhnien.vn/ra-mat-sach-cam-nang-ung-dung-cong-nghe-blockchain-185260209150755343.htm) - 08:47 09/02/2026
+- 🤔 [Đội tuyển Việt Nam sẽ lôi cuốn nhờ &#39;chất samba&#39;](https://thanhnien.vn/doi-tuyen-viet-nam-se-loi-cuon-nho-chat-samba-185260208194916158.htm) - 08:40 09/02/2026
+- 📝 [TTC Châu Thành đưa trạm dừng nghỉ Vĩnh Hảo - Phan Thiết đi vào hoạt động](https://thanhnien.vn/ttc-chau-thanh-dua-tram-dung-nghi-vinh-hao-phan-thiet-di-vao-hoat-dong-185260209154032258.htm) - 08:36 09/02/2026
+- 🥰 [Cá chép đỏ rớt giá, lái buôn chợ Yên Sở quyết không bán rẻ](https://thanhnien.vn/ca-chep-do-rot-gia-lai-buon-cho-yen-so-quyet-khong-ban-re-185260209152640009.htm) - 08:26 09/02/2026
+- 🐲 [Bác sĩ giành giật sự sống cho bé trai đột ngột ngưng tim](https://thanhnien.vn/bac-si-gianh-giat-su-song-cho-be-trai-dot-ngot-ngung-tim-185260209150639446.htm) - 08:22 09/02/2026
+- 🎃 [Mỗi sáng 1 ly trà gừng: Điều tuyệt vời gì xảy ra cho tim, gan của bạn?](https://thanhnien.vn/moi-sang-1-ly-tra-gung-dieu-tuyet-voi-gi-xay-ra-cho-tim-gan-cua-ban-185260209151346247.htm) - 08:13 09/02/2026
+- 🎬 [5 quy tắc vàng không nên bỏ qua khi mua điện thoại Android](https://thanhnien.vn/5-quy-tac-vang-khong-nen-bo-qua-khi-mua-dien-thoai-android-185260209134233313.htm) - 08:05 09/02/2026
+- 🌜 [Ngân hàng, ví điện tử, dịch vụ trông xe, chiếu phim… xuất hóa đơn như thế nào](https://thanhnien.vn/ngan-hang-vi-dien-tu-dich-vu-trong-xe-chieu-phim-xuat-hoa-don-nhu-the-nao-185260209140515796.htm) - 08:01 09/02/2026
+- 🦆 [Đài Loan bác bỏ đề nghị của Mỹ về bán dẫn](https://thanhnien.vn/dai-loan-bac-bo-de-nghi-cua-my-ve-ban-dan-185260209135136129.htm) - 08:01 09/02/2026
+- 🐵 [Cựu Hoàng tử Andrew &#39;không chốn dung thân&#39; sau quyết định thẳng tay của Vua Charles III](https://thanhnien.vn/cuu-hoang-tu-andrew-khong-chon-dung-than-sau-quyet-dinh-thang-tay-cua-vua-charles-iii-185260209125026576.htm) - 07:59 09/02/2026
+- 🙉 [Dàn hảo thủ góp mặt ở Phoenix Reborn Golf Tournament 2026](https://thanhnien.vn/dan-hao-thu-gop-mat-o-phoenix-reborn-golf-tournament-2026-185260209144917817.htm) - 07:50 09/02/2026
+- 🌋 [Apexmed: ‘Tọa độ’ làm đẹp kín tiếng của doanh nhân và người nổi tiếng tại Hà Nội](https://thanhnien.vn/apexmed-toa-do-lam-dep-kin-tieng-cua-doanh-nhan-va-nguoi-noi-tieng-tai-ha-noi-185260209150808101.htm) - 07:47 09/02/2026
+- 🐻 [Vườn rau xanh mướt, rực rỡ sắc hoa trong lòng thành phố](https://thanhnien.vn/vuon-rau-xanh-muot-ruc-ro-sac-hoa-trong-long-thanh-pho-185250911165811806.htm) - 07:45 09/02/2026
+- 🧠 [Diva Đài Loan Tiêu Á Hiên biến dạng gương mặt sau khi bị chó tấn công](https://thanhnien.vn/diva-dai-loan-tieu-a-hien-bien-dang-guong-mat-sau-khi-bi-cho-tan-cong-185260209142627854.htm) - 07:44 09/02/2026
+- 🔥 [&#39;Xuân biên phòng ấm lòng dân bản&#39;: Nghĩa tình sâu nặng nơi biên giới Việt - Lào](https://thanhnien.vn/xuan-bien-phong-am-long-dan-ban-nghia-tinh-sau-nang-noi-bien-gioi-viet-lao-185260209120222079.htm) - 07:39 09/02/2026
+- 🌋 [Thu Quỳnh tái xuất phim giờ vàng cùng hai diễn viên ‘Độc đạo’](https://thanhnien.vn/thu-quynh-tai-xuat-phim-gio-vang-cung-hai-dien-vien-doc-dao-185260209114353453.htm) - 07:32 09/02/2026
+- 😎 [Phú Quốc thu hút du khách dịp Tết Nguyên đán](https://thanhnien.vn/phu-quoc-thu-hut-du-khach-dip-tet-nguyen-dan-185260209132212657.htm) - 07:30 09/02/2026
 - 🥰 [Xạ thủ Nguyễn Thùy Trang đánh bại đương kim HCĐ Olympic, đoạt HCV bắn súng châu Á](https://thanhnien.vn/xa-thu-nguyen-thuy-trang-danh-bai-a-quan-olympic-doat-hcv-ban-sung-chau-a-185260209142023245.htm) - 07:22 09/02/2026
-- 🐲 [Xét xử vụ thảm sát 3 người trong 1 gia đình ở Đồng Nai gây chấn động cả nước](https://thanhnien.vn/ke-tham-sat-3-nguoi-trong-1-gia-dinh-o-dong-nai-xuat-hien-tai-toa-185260209135548408.htm) - 07:19 09/02/2026
-- 🎃 [Mỹ nam phim giờ vàng vẫn độc thân, quyết tâm có người yêu trước tuổi 35](https://thanhnien.vn/my-nam-phim-gio-vang-van-doc-than-quyet-tam-co-nguoi-yeu-truoc-tuoi-35-1852602091127097.htm) - 07:15 09/02/2026
-- 🎬 [Mỹ nhân U.50 ‘phủ sóng’ màn ảnh Việt là ai?](https://thanhnien.vn/my-nhan-u50-phu-song-man-anh-viet-la-ai-185260209111926255.htm) - 07:10 09/02/2026
-- 🌜 [Phúc Long Dragon 82 Hàng Điếu: Điểm hẹn thưởng trà giữa lòng phố cổ Hà Nội](https://thanhnien.vn/phuc-long-dragon-82-hang-dieu-diem-hen-thuong-tra-giua-long-pho-co-ha-noi-185260209142539135.htm) - 07:09 09/02/2026
-- 🦆 [Lộ giá pin iPhone 17 Pro Max](https://thanhnien.vn/lo-gia-pin-iphone-17-pro-max-185260209112954733.htm) - 07:09 09/02/2026
-- 🐵 [Để ai cũng được cảm nhận ‘vị Tết’ trọn vẹn, sum vầy và thuộc về](https://thanhnien.vn/de-ai-cung-duoc-cam-nhan-vi-tet-tron-ven-sum-vay-va-thuoc-ve-18526020913553335.htm) - 07:00 09/02/2026
-- 🙉 [Cuộc sống của ca sĩ Hoàng Bách ở tuổi U.50](https://thanhnien.vn/cuoc-song-cua-ca-si-hoang-bach-o-tuoi-u50-185260209124710609.htm) - 07:00 09/02/2026
-- 🌋 [Tôn lên sự trong trẻo ngày xuân với trang phục sắc trắng](https://thanhnien.vn/thoi-trang-tre/ton-len-su-trong-treo-ngay-xuan-voi-trang-phuc-sac-trang-185260208171522533.htm) - 07:00 09/02/2026
-- 🐻 [Hiện trường vụ sập nhà 3 mẹ con đang ở ven sông TP.HCM](https://thanhnien.vn/hien-truong-vu-sap-nha-3-me-con-dang-o-ven-song-tphcm-185260209135814571.htm) - 06:58 09/02/2026
-- 🧠 [Nguyễn Đình Bắc và món nợ ân tình của bóng đá Việt Nam](https://thanhnien.vn/nguyen-dinh-bac-va-mon-no-an-tinh-cua-bong-da-viet-nam-185260209140738485.htm) - 06:56 09/02/2026
-- 🔥 [Hoa hậu Lý Thu Thảo ra sao sau 37 năm đăng quang?](https://thanhnien.vn/hoa-hau-ly-thu-thao-ra-sao-sau-37-nam-dang-quang-185260209122519348.htm) - 06:54 09/02/2026
-- 🌋 [Cận cảnh linh vật ngựa khổng lồ cao 7 m vừa &#39;đổ bộ&#39; Đường hoa Nguyễn Huệ 2026](https://thanhnien.vn/can-canh-linh-vat-ngua-khong-lo-cao-7-m-vua-do-bo-duong-hoa-nguyen-hue-2026-185260209131654799.htm) - 06:50 09/02/2026
-- 😎 [Đưa thông tin bí mật cá nhân người khác lên mạng, 1 cô gái bị khởi tố](https://thanhnien.vn/dua-thong-tin-bi-mat-ca-nhan-nguoi-khac-len-mang-1-co-gai-bi-khoi-to-185260209124532704.htm) - 06:45 09/02/2026
-- 🥰 [TP.HCM: Va chạm xe bồn trên cầu, một phụ nữ tử vong](https://thanhnien.vn/tphcm-va-cham-xe-bon-tren-cau-mot-phu-nu-tu-vong-185260209130910688.htm) - 06:39 09/02/2026
-- 🧑‍🏫 [Mâm cúng ông Táo ngày 23 tháng chạp gồm những gì? Văn khấn đầy đủ, dễ đọc](https://thanhnien.vn/mam-cung-ong-tao-ngay-23-thang-chap-gom-nhung-gi-van-khan-day-du-de-doc-185260209131734907.htm) - 06:33 09/02/2026
-- 💄 [Mai tết đường Phạm Văn Đồng, TP.HCM: Thấp nhất 1 triệu, cao nhất trăm triệu đồng/cây](https://thanhnien.vn/mai-tet-duong-pham-van-dong-tphcm-thap-nhat-1-trieu-cao-nhat-tram-trieu-dong-cay-185260208124630249.htm) - 06:26 09/02/2026
-- 💯 [Cận cảnh dự án nhà ở xã hội 21 triệu/mét vuông tại TP.HCM](https://thanhnien.vn/can-canh-du-an-nha-o-xa-hoi-21-trieu-met-vuong-tai-tphcm-185260209132515358.htm) - 06:25 09/02/2026
-- 🚀 [Thưởng tết bằng vàng 5 năm liền, chủ quán bún bò TP.HCM năm nay còn &#39;chơi lớn&#39;?](https://thanhnien.vn/thuong-tet-bang-vang-5-nam-lien-chu-quan-bun-bo-tphcm-nam-nay-con-choi-lon-185260207174640304.htm) - 06:16 09/02/2026
-- 🦣 [Cần Thơ: Báo Thanh Niên tặng nhà đại đoàn kết cho người nghèo đón tết](https://thanhnien.vn/can-tho-bao-thanh-nien-tang-nha-dai-doan-ket-cho-nguoi-ngheo-don-tet-185260209094725948.htm) - 06:09 09/02/2026
-- 👹 [Chủ trọ chi 150 triệu đãi tất niên: Có 2 con dê, thực đơn 8 món](https://thanhnien.vn/chu-tro-chi-150-trieu-dai-tat-nien-co-2-con-de-thuc-don-8-mon-185260208162646592.htm) - 06:06 09/02/2026
-- 🦄 [Về An Nhơn Tây đi xuồng ba lá, thưởng thức 100 món ngon từ khoai mì](https://thanhnien.vn/ve-an-nhon-tay-di-xuong-ba-la-thuong-thuc-100-mon-ngon-tu-khoai-mi-185260209101523422.htm) - 06:03 09/02/2026
-- 🤔 [Gần tết, tiệm hớt tóc, tiệm nail... đông từ sáng đến tối, khách phải đặt lịch trước](https://thanhnien.vn/gan-tet-tiem-hot-toc-tiem-nail-dong-tu-sang-den-toi-khach-phai-dat-lich-truoc-185260209115059568.htm) - 06:02 09/02/2026
-- 🧰 [Khởi tố 9 người chiếm đoạt 318 tỉ đồng của 1 ngân hàng](https://thanhnien.vn/khoi-to-9-nguoi-chiem-doat-318-ti-dong-cua-1-ngan-hang-185260209121445067.htm) - 05:54 09/02/2026
-- 🌁 [Độc đáo đường hoa mai vàng Bình Lợi rực rỡ chào xuân Bính Ngọ 2026](https://thanhnien.vn/doc-dao-duong-hoa-mai-vang-binh-loi-ruc-ro-chao-xuan-binh-ngo-2026-185260209121731566.htm) - 05:51 09/02/2026
-- 🧐 [Gây mê chữa răng có phải là &#39;cho bệnh nhân ngủ để chữa cho nhanh&#39;?](https://thanhnien.vn/gay-me-chua-rang-co-phai-la-cho-benh-nhan-ngu-de-chua-cho-nhanh-185260209120207654.htm) - 05:50 09/02/2026
-- 🌏 [Cuộc sống ấm no, hạnh phúc nhờ làm miến gạo](https://thanhnien.vn/cuoc-song-am-no-hanh-phuc-nho-lam-mien-gao-185260209114113272.htm) - 05:49 09/02/2026
-- 🎬 [CLB Thanh Hóa &#39;kiệt sức&#39; vẫn thắng CLB Công an TP.HCM: Chuyện 2 chiếc áo của thủ môn Xuân Hoàng](https://thanhnien.vn/clb-thanh-hoa-kiet-suc-van-thang-clb-cong-an-tphcm-chuyen-2-chiec-ao-cua-thu-mon-xuan-hoang-185260209111957699.htm) - 05:48 09/02/2026
-- 🚀 [Check-in tết nơi đất vàng thương xá Tax cạnh đường hoa Nguyễn Huệ ở TP.HCM](https://thanhnien.vn/check-in-tet-noi-dat-vang-thuong-xa-tax-canh-duong-hoa-nguyen-hue-o-tphcm-185260209120408492.htm) - 05:44 09/02/2026
-- 🙉 [Các tổng lãnh sự quán ủng hộ mạnh mẽ Câu lạc bộ Lãnh sự năm 2026](https://thanhnien.vn/cac-tong-lanh-su-quan-ung-ho-manh-me-cau-lac-bo-lanh-su-nam-2026-18526020911583636.htm) - 05:38 09/02/2026
-- 🐵 [Đoàn rước dâu gặp sự cố thang máy, Công an TP.HCM cứu 6 người mắc kẹt](https://thanhnien.vn/doan-ruoc-dau-gap-su-co-thang-may-cong-an-tphcm-cuu-6-nguoi-mac-ket-185260209122143626.htm) - 05:33 09/02/2026
-- 🐎 [Sập nhà ven sông ở TP.HCM, 2 người bị thương](https://thanhnien.vn/sap-nha-ven-song-o-tphcm-2-nguoi-bi-thuong-185260209120351517.htm) - 05:30 09/02/2026
-- 🕯 [Thủ tướng Thái Lan tuyên bố xây tường biên giới với Campuchia sau chiến thắng bầu cử](https://thanhnien.vn/thu-tuong-thai-lan-tuyen-bo-xay-tuong-bien-gioi-voi-campuchia-sau-chien-thang-bau-cu-185260209114746954.htm) - 05:27 09/02/2026
-- 👀 [Đề xuất &#39;nhập khẩu&#39; phụ nữ Việt Nam, quan chức Hàn Quốc bị khai trừ đảng](https://thanhnien.vn/de-xuat-nhap-khau-phu-nu-viet-nam-quan-chuc-han-quoc-bi-khai-tru-dang-185260209113526202.htm) - 05:17 09/02/2026
-- 🦒 [Nghiên cứu về 36 loại ung thư: 3 yếu tố nguy cơ hàng đầu được hé lộ](https://thanhnien.vn/nghien-cuu-ve-36-loai-ung-thu-3-yeu-to-nguy-co-hang-dau-duoc-he-lo-185260209121539376.htm) - 05:15 09/02/2026
-- 🧐 [23 tháng chạp: Mâm cúng ông Táo được dân mạng chia sẻ rầm rộ](https://thanhnien.vn/23-thang-chap-mam-cung-ong-tao-duoc-dan-mang-chia-se-ram-ro-185260209092604423.htm) - 05:14 09/02/2026
-- 🌊 [Người lập cú đúp siêu phẩm giúp CLB Thanh Hóa thắng sốc tại V-League, là ai?](https://thanhnien.vn/nguoi-lap-cu-dup-sieu-pham-giup-clb-thanh-hoa-thang-soc-tai-v-league-la-ai-185260209110630496.htm) - 05:08 09/02/2026
-- 🧑‍🏫 [23 tháng chạp là ngày gì? Nguồn gốc cúng ông Táo, ý nghĩa cá chép về trời](https://thanhnien.vn/23-thang-chap-la-ngay-gi-nguon-goc-cung-ong-tao-y-nghia-ca-chep-ve-troi-185260209113814995.htm) - 05:07 09/02/2026
-- 🫣 [Giá cá chép đỏ giảm sâu, lái buôn đổ cá khách chọn lại chậu, quyết không bán rẻ](https://thanhnien.vn/gia-ca-chep-do-giam-sau-lai-buon-do-ca-khach-chon-lai-chau-quyet-khong-ban-re-185260209111652925.htm) - 05:00 09/02/2026
-- 👺 [Công thức vàng cho nàng hiện đại với áo không tay và chân váy midi](https://thanhnien.vn/thoi-trang-tre/cong-thuc-vang-cho-nang-hien-dai-voi-ao-khong-tay-va-chan-vay-midi-185260207144748263.htm) - 05:00 09/02/2026
-- 🧑‍🏫 [Cụ ông 91 tuổi tự tay chuẩn bị quà tết cho các cháu](https://thanhnien.vn/cu-ong-91-tuoi-tu-tay-chuan-bi-qua-tet-cho-cac-chau-185260208225254181.htm) - 04:59 09/02/2026
-- 🌊 [Tổng thống Trump hé lộ thời điểm Chủ tịch Tập Cận Bình sẽ thăm Mỹ](https://thanhnien.vn/tong-thong-trump-he-lo-thoi-diem-chu-tich-tap-can-binh-se-tham-my-185260209115003188.htm) - 04:58 09/02/2026
-- 🕯 [Nga triệt phá đường dây bán bộ phận thi thể từ nhà xác bệnh viện](https://thanhnien.vn/nga-triet-pha-duong-day-ban-bo-phan-thi-the-tu-nha-xac-benh-vien-185260209111111141.htm) - 04:54 09/02/2026
-- 🐲 [&#39;Bà đầm thép&#39; Nhật Bản Takaichi giành chiến thắng bầu cử vang dội](https://thanhnien.vn/ba-dam-thep-nhat-ban-takaichi-gianh-chien-thang-bau-cu-vang-doi-185260209103907673.htm) - 04:51 09/02/2026
-- ⛽️ [One UI 8.5 bất ngờ trễ hẹn, người dùng Samsung bắt đầu sốt ruột](https://thanhnien.vn/one-ui-85-bat-ngo-tre-hen-nguoi-dung-samsung-bat-dau-sot-ruot-185260209065418408.htm) - 04:37 09/02/2026
-- 🎉 [Tổng Bí thư: Quy hoạch TP.HCM cần tính tới tầm nhìn 100 năm](https://thanhnien.vn/tong-bi-thu-quy-hoach-tphcm-can-tinh-toi-tam-nhin-100-nam-185260209105238997.htm) - 04:35 09/02/2026
-- 🎊 [TP.HCM ban hành khẩn hướng dẫn điều trị ngạt khói sau nhiều vụ cháy chết người](https://thanhnien.vn/tphcm-ban-hanh-khan-huong-dan-dieu-tri-ngat-khoi-sau-nhieu-vu-chay-chet-nguoi-185260209105554489.htm) - 04:31 09/02/2026
-- 🥳 [Giá Bitcoin hôm nay 9.2.2026: BTC có thể chạm đáy 50.000 USD](https://thanhnien.vn/gia-bitcoin-hom-nay-922026-btc-co-the-cham-day-50000-usd-185260209080656269.htm) - 04:31 09/02/2026
-- 🤡 [Nhạc sĩ Tiến Long với những ca từ gợi nhớ quê hương](https://thanhnien.vn/nhac-si-tien-long-voi-nhung-ca-tu-goi-nho-que-huong-18526020910264129.htm) - 04:30 09/02/2026<!-- thanhnien:END -->
+- 🧑‍🏫 [Xét xử vụ thảm sát 3 người trong 1 gia đình ở Đồng Nai gây chấn động cả nước](https://thanhnien.vn/ke-tham-sat-3-nguoi-trong-1-gia-dinh-o-dong-nai-xuat-hien-tai-toa-185260209135548408.htm) - 07:19 09/02/2026
+- 💄 [Mỹ nam phim giờ vàng vẫn độc thân, quyết tâm có người yêu trước tuổi 35](https://thanhnien.vn/my-nam-phim-gio-vang-van-doc-than-quyet-tam-co-nguoi-yeu-truoc-tuoi-35-1852602091127097.htm) - 07:15 09/02/2026
+- 💯 [Mỹ nhân U.50 ‘phủ sóng’ màn ảnh Việt là ai?](https://thanhnien.vn/my-nhan-u50-phu-song-man-anh-viet-la-ai-185260209111926255.htm) - 07:10 09/02/2026
+- 🚀 [Phúc Long Dragon 82 Hàng Điếu: Điểm hẹn thưởng trà giữa lòng phố cổ Hà Nội](https://thanhnien.vn/phuc-long-dragon-82-hang-dieu-diem-hen-thuong-tra-giua-long-pho-co-ha-noi-185260209142539135.htm) - 07:09 09/02/2026
+- 🦣 [Lộ giá pin iPhone 17 Pro Max](https://thanhnien.vn/lo-gia-pin-iphone-17-pro-max-185260209112954733.htm) - 07:09 09/02/2026
+- 👹 [Để ai cũng được cảm nhận ‘vị Tết’ trọn vẹn, sum vầy và thuộc về](https://thanhnien.vn/de-ai-cung-duoc-cam-nhan-vi-tet-tron-ven-sum-vay-va-thuoc-ve-18526020913553335.htm) - 07:00 09/02/2026
+- 🦄 [Cuộc sống của ca sĩ Hoàng Bách ở tuổi U.50](https://thanhnien.vn/cuoc-song-cua-ca-si-hoang-bach-o-tuoi-u50-185260209124710609.htm) - 07:00 09/02/2026
+- 🤔 [Tôn lên sự trong trẻo ngày xuân với trang phục sắc trắng](https://thanhnien.vn/thoi-trang-tre/ton-len-su-trong-treo-ngay-xuan-voi-trang-phuc-sac-trang-185260208171522533.htm) - 07:00 09/02/2026
+- 🧰 [Hiện trường vụ sập nhà 3 mẹ con đang ở ven sông TP.HCM](https://thanhnien.vn/hien-truong-vu-sap-nha-3-me-con-dang-o-ven-song-tphcm-185260209135814571.htm) - 06:58 09/02/2026
+- 🌁 [Nguyễn Đình Bắc và món nợ ân tình của bóng đá Việt Nam](https://thanhnien.vn/nguyen-dinh-bac-va-mon-no-an-tinh-cua-bong-da-viet-nam-185260209140738485.htm) - 06:56 09/02/2026
+- 🧐 [Hoa hậu Lý Thu Thảo ra sao sau 37 năm đăng quang?](https://thanhnien.vn/hoa-hau-ly-thu-thao-ra-sao-sau-37-nam-dang-quang-185260209122519348.htm) - 06:54 09/02/2026
+- 🌏 [Cận cảnh linh vật ngựa khổng lồ cao 7 m vừa &#39;đổ bộ&#39; Đường hoa Nguyễn Huệ 2026](https://thanhnien.vn/can-canh-linh-vat-ngua-khong-lo-cao-7-m-vua-do-bo-duong-hoa-nguyen-hue-2026-185260209131654799.htm) - 06:50 09/02/2026
+- 🎬 [Đưa thông tin bí mật cá nhân người khác lên mạng, 1 cô gái bị khởi tố](https://thanhnien.vn/dua-thong-tin-bi-mat-ca-nhan-nguoi-khac-len-mang-1-co-gai-bi-khoi-to-185260209124532704.htm) - 06:45 09/02/2026
+- 🚀 [TP.HCM: Va chạm xe bồn trên cầu, một phụ nữ tử vong](https://thanhnien.vn/tphcm-va-cham-xe-bon-tren-cau-mot-phu-nu-tu-vong-185260209130910688.htm) - 06:39 09/02/2026
+- 🙉 [Mâm cúng ông Táo ngày 23 tháng chạp gồm những gì? Văn khấn đầy đủ, dễ đọc](https://thanhnien.vn/mam-cung-ong-tao-ngay-23-thang-chap-gom-nhung-gi-van-khan-day-du-de-doc-185260209131734907.htm) - 06:33 09/02/2026
+- 🐵 [Mai tết đường Phạm Văn Đồng, TP.HCM: Thấp nhất 1 triệu, cao nhất trăm triệu đồng/cây](https://thanhnien.vn/mai-tet-duong-pham-van-dong-tphcm-thap-nhat-1-trieu-cao-nhat-tram-trieu-dong-cay-185260208124630249.htm) - 06:26 09/02/2026
+- 🐎 [Cận cảnh dự án nhà ở xã hội 21 triệu/mét vuông tại TP.HCM](https://thanhnien.vn/can-canh-du-an-nha-o-xa-hoi-21-trieu-met-vuong-tai-tphcm-185260209132515358.htm) - 06:25 09/02/2026
+- 🕯 [Thưởng tết bằng vàng 5 năm liền, chủ quán bún bò TP.HCM năm nay còn &#39;chơi lớn&#39;?](https://thanhnien.vn/thuong-tet-bang-vang-5-nam-lien-chu-quan-bun-bo-tphcm-nam-nay-con-choi-lon-185260207174640304.htm) - 06:16 09/02/2026
+- 👀 [Cần Thơ: Báo Thanh Niên tặng nhà đại đoàn kết cho người nghèo đón tết](https://thanhnien.vn/can-tho-bao-thanh-nien-tang-nha-dai-doan-ket-cho-nguoi-ngheo-don-tet-185260209094725948.htm) - 06:09 09/02/2026
+- 🦒 [Chủ trọ chi 150 triệu đãi tất niên: Có 2 con dê, thực đơn 8 món](https://thanhnien.vn/chu-tro-chi-150-trieu-dai-tat-nien-co-2-con-de-thuc-don-8-mon-185260208162646592.htm) - 06:06 09/02/2026
+- 🧐 [Về An Nhơn Tây đi xuồng ba lá, thưởng thức 100 món ngon từ khoai mì](https://thanhnien.vn/ve-an-nhon-tay-di-xuong-ba-la-thuong-thuc-100-mon-ngon-tu-khoai-mi-185260209101523422.htm) - 06:03 09/02/2026
+- 🌊 [Gần tết, tiệm hớt tóc, tiệm nail... đông từ sáng đến tối, khách phải đặt lịch trước](https://thanhnien.vn/gan-tet-tiem-hot-toc-tiem-nail-dong-tu-sang-den-toi-khach-phai-dat-lich-truoc-185260209115059568.htm) - 06:02 09/02/2026
+- 🧑‍🏫 [Khởi tố 9 người chiếm đoạt 318 tỉ đồng của 1 ngân hàng](https://thanhnien.vn/khoi-to-9-nguoi-chiem-doat-318-ti-dong-cua-1-ngan-hang-185260209121445067.htm) - 05:54 09/02/2026
+- 🫣 [Độc đáo đường hoa mai vàng Bình Lợi rực rỡ chào xuân Bính Ngọ 2026](https://thanhnien.vn/doc-dao-duong-hoa-mai-vang-binh-loi-ruc-ro-chao-xuan-binh-ngo-2026-185260209121731566.htm) - 05:51 09/02/2026
+- 👺 [Gây mê chữa răng có phải là &#39;cho bệnh nhân ngủ để chữa cho nhanh&#39;?](https://thanhnien.vn/gay-me-chua-rang-co-phai-la-cho-benh-nhan-ngu-de-chua-cho-nhanh-185260209120207654.htm) - 05:50 09/02/2026
+- 🧑‍🏫 [Cuộc sống ấm no, hạnh phúc nhờ làm miến gạo](https://thanhnien.vn/cuoc-song-am-no-hanh-phuc-nho-lam-mien-gao-185260209114113272.htm) - 05:49 09/02/2026
+- 🌊 [CLB Thanh Hóa &#39;kiệt sức&#39; vẫn thắng CLB Công an TP.HCM: Chuyện 2 chiếc áo của thủ môn Xuân Hoàng](https://thanhnien.vn/clb-thanh-hoa-kiet-suc-van-thang-clb-cong-an-tphcm-chuyen-2-chiec-ao-cua-thu-mon-xuan-hoang-185260209111957699.htm) - 05:48 09/02/2026
+- 🕯 [Check-in tết nơi đất vàng thương xá Tax cạnh đường hoa Nguyễn Huệ ở TP.HCM](https://thanhnien.vn/check-in-tet-noi-dat-vang-thuong-xa-tax-canh-duong-hoa-nguyen-hue-o-tphcm-185260209120408492.htm) - 05:44 09/02/2026
+- 🐲 [Các tổng lãnh sự quán ủng hộ mạnh mẽ Câu lạc bộ Lãnh sự năm 2026](https://thanhnien.vn/cac-tong-lanh-su-quan-ung-ho-manh-me-cau-lac-bo-lanh-su-nam-2026-18526020911583636.htm) - 05:38 09/02/2026
+- ⛽️ [Đoàn rước dâu gặp sự cố thang máy, Công an TP.HCM cứu 6 người mắc kẹt](https://thanhnien.vn/doan-ruoc-dau-gap-su-co-thang-may-cong-an-tphcm-cuu-6-nguoi-mac-ket-185260209122143626.htm) - 05:33 09/02/2026
+- 🎉 [Sập nhà ven sông ở TP.HCM, 2 người bị thương](https://thanhnien.vn/sap-nha-ven-song-o-tphcm-2-nguoi-bi-thuong-185260209120351517.htm) - 05:30 09/02/2026
+- 🎊 [Thủ tướng Thái Lan tuyên bố xây tường biên giới với Campuchia sau chiến thắng bầu cử](https://thanhnien.vn/thu-tuong-thai-lan-tuyen-bo-xay-tuong-bien-gioi-voi-campuchia-sau-chien-thang-bau-cu-185260209114746954.htm) - 05:27 09/02/2026
+- 🥳 [Đề xuất &#39;nhập khẩu&#39; phụ nữ Việt Nam, quan chức Hàn Quốc bị khai trừ đảng](https://thanhnien.vn/de-xuat-nhap-khau-phu-nu-viet-nam-quan-chuc-han-quoc-bi-khai-tru-dang-185260209113526202.htm) - 05:17 09/02/2026
+- 🤡 [Nghiên cứu về 36 loại ung thư: 3 yếu tố nguy cơ hàng đầu được hé lộ](https://thanhnien.vn/nghien-cuu-ve-36-loai-ung-thu-3-yeu-to-nguy-co-hang-dau-duoc-he-lo-185260209121539376.htm) - 05:15 09/02/2026<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
