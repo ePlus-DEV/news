@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Bộ ảnh Tết thời bao cấp của nhóm Gen Z được yêu thích](https://vnexpress.net/bo-anh-tet-thoi-bao-cap-cua-nhom-gen-z-duoc-yeu-thich-5015714.html) - 17:00 08/02/2026
 - 💫 [Dung mạo mỹ nhân Pháp sau 10 năm đăng quang Miss Universe](https://vnexpress.net/dung-mao-my-nhan-phap-sau-10-nam-dang-quang-miss-universe-5015698.html) - 14:00 08/02/2026
-- 🌮 [Vương miện rúm ró sau vụ cướp ở bảo tàng Louvre](https://vnexpress.net/vuong-mien-rum-ro-sau-vu-cuop-o-bao-tang-louvre-5015723.html) - 12:15 08/02/2026
+- 🌮 [Vương miện biến dạng sau vụ cướp ở bảo tàng Louvre](https://vnexpress.net/vuong-mien-bien-dang-sau-vu-cuop-o-bao-tang-louvre-5015723.html) - 12:15 08/02/2026
 - 🧠 [Vợ tài tử George Clooney dạo phố như catwalk](https://vnexpress.net/vo-tai-tu-george-clooney-dao-pho-nhu-catwalk-5015686.html) - 12:00 08/02/2026
 - 👨‍🏫 [8 bộ đồng phục đẹp nhất Olympic 2026](https://vnexpress.net/8-bo-dong-phuc-dep-nhat-olympic-2026-5015635.html) - 09:22 08/02/2026
 - ⚗️ [Trường Giang khuyên cầu thủ Đình Bắc &#39;bớt đi sự kiện&#39;](https://vnexpress.net/truong-giang-khuyen-cau-thu-dinh-bac-bot-di-su-kien-5015658.html) - 06:31 08/02/2026
