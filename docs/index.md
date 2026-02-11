@@ -295,7 +295,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [Vụ trộm 5.200 con chó, thu lợi bất chính 2,6 tỉ đồng: Khởi tố, tạm giam 6 đối tượng](https://nld.com.vn/vu-trom-5200-con-cho-thu-loi-bat-chinh-26-ti-dong-khoi-to-tam-giam-6-doi-tuong-196260211153857271.htm) - 09:01 11/02/2026
 - 🎉 [Trường Giang gây ồn ào vì mời Jack hát nhạc phim Tết](https://nld.com.vn/truong-giang-gay-on-ao-vi-moi-jack-hat-nhac-phim-tet-196260211145540131.htm) - 08:46 11/02/2026
 - 🤔 [AFC tiết lộ Việt Nam là bên khiếu nại Malaysia lên FIFA](https://nld.com.vn/afc-tiet-lo-viet-nam-la-ben-khieu-nai-malaysia-len-fifa-196260211153236214.htm) - 08:45 11/02/2026
-- 🐘 [Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce](https://nld.com.vn/dang-sau-cu-sap-cua-vang-bac-xuat-hien-du-bao-tham-vong-gia-bac-dat-309-usd-ounce-196260204174612382.htm) - 08:43 11/02/2026
+- 🐘 [Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce](https://nld.com.vn/dang-sau-cu-sap-cua-vang-bac-xuat-hien-du-bao-tham-vong-gia-bac-vuot-300-usd-ounce-196260204174612382.htm) - 08:43 11/02/2026
 - 🙉 [Cắt toàn bộ dạ dày cứu sống người bệnh ung thư nguy kịch](https://nld.com.vn/cat-toan-bo-da-day-cuu-song-nguoi-benh-ung-thu-nguy-kich-196260211145411422.htm) - 08:15 11/02/2026
 - 🐵 [Kết quả xổ số hôm nay, 11-2: Xổ số miền Nam - Đồng Nai, Cần Thơ, Sóc Trăng](https://nld.com.vn/ket-qua-xo-so-hom-nay-11-2-xo-so-mien-nam-dong-nai-can-tho-soc-trang-196260211150617296.htm) - 08:14 11/02/2026
 - 🙉 [Sở GD-ĐT TPHCM yêu cầu không hình thức, đối phó khi khảo sát toàn học sinh lớp 5, 9, 11](https://nld.com.vn/so-gd-dt-tphcm-yeu-cau-khong-hinh-thuc-doi-pho-khi-khao-sat-toan-hoc-sinh-lop-5-9-11-196260211144715054.htm) - 08:08 11/02/2026
