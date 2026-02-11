@@ -316,7 +316,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪜 [Đình Bắc ghi bàn đưa CAHN đến gần với tứ kết Cúp châu Á](https://www.sggp.org.vn/dinh-bac-ghi-ban-dua-cahn-den-gan-voi-tu-ket-cup-chau-a-post838369.html) - 15:04 11/02/2026
 - 🌝 [Phường Xóm Chiếu: Chăm lo tết cho 430 thiếu nhi, người dân khó khăn](https://www.sggp.org.vn/phuong-xom-chieu-cham-lo-tet-cho-430-thieu-nhi-nguoi-dan-kho-khan-post838366.html) - 14:50 11/02/2026
 - 💃 [Chợ hoa Tết Bình Đông 2026 với nhiều cây trái độc đáo](https://www.sggp.org.vn/cho-hoa-tet-binh-dong-2026-voi-nhieu-cay-trai-doc-dao-post838362.html) - 14:44 11/02/2026
-- 🧑‍💻 [Ngày mai, 12-2, đưa vào vận hành đường cao tốc Quảng Ngãi - Hoài Nhơn](https://www.sggp.org.vn/ngay-mai-12-2-dua-vao-van-hanh-duong-cao-toc-quang-ngai-hoai-nhon-post838367.html) - 14:41 11/02/2026
+- 🧑‍💻 [Ngày 12-2, đưa vào vận hành đường cao tốc Quảng Ngãi - Hoài Nhơn](https://www.sggp.org.vn/ngay-12-2-dua-vao-van-hanh-duong-cao-toc-quang-ngai-hoai-nhon-post838367.html) - 14:41 11/02/2026
 - 🌊 [Bắt giữ 11 đối tượng trong đường dây mua bán 20kg ma túy đá](https://www.sggp.org.vn/bat-giu-11-doi-tuong-trong-duong-day-mua-ban-20kg-ma-tuy-da-post838360.html) - 14:33 11/02/2026
 - 🧑‍💻 [Phường Thủ Đức khai mạc Hội xuân - Chợ hoa Tết Bính Ngọ 2026](https://www.sggp.org.vn/phuong-thu-duc-khai-mac-hoi-xuan-cho-hoa-tet-binh-ngo-2026-post838363.html) - 14:27 11/02/2026
 - ⛽️ [2 phi công Indonesia bị bắn chết](https://www.sggp.org.vn/2-phi-cong-indonesia-bi-ban-chet-post838364.html) - 14:26 11/02/2026
