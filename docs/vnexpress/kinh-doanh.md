@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chuối xanh bày Tết cao nhất hơn triệu đồng một nải](https://vnexpress.net/chuoi-xanh-bay-tet-cao-nhat-hon-trieu-dong-mot-nai-5040459.html) - 17:00 12/02/2026
+- ⛽️ [Chuối xanh bày Tết giá lên tới hơn triệu đồng](https://vnexpress.net/chuoi-xanh-bay-tet-gia-len-toi-hon-trieu-dong-5040459.html) - 17:00 12/02/2026
 - 🐲 [Điện thoại &#39;bẻ khóa&#39; không thể mở ứng dụng ngân hàng từ 1/3](https://vnexpress.net/dien-thoai-be-khoa-khong-the-mo-ung-dung-ngan-hang-tu-1-3-5040604.html) - 15:22 12/02/2026
 - 🔥 [JPMorgan: Bitcoin hấp dẫn hơn vàng trong dài hạn](https://vnexpress.net/jpmorgan-bitcoin-hap-dan-hon-vang-trong-dai-han-5040532.html) - 11:18 12/02/2026
 - 🐵 [VNPAY và Napas tăng cường hợp tác thúc đẩy thanh toán số](https://vnexpress.net/vnpay-va-napas-tang-cuong-hop-tac-thuc-day-thanh-toan-so-5040153.html) - 10:00 12/02/2026
