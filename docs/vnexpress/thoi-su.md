@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Dịch vụ làm đẹp kín khách dịp cuối năm](https://vnexpress.net/dich-vu-lam-dep-kin-khach-dip-cuoi-nam-5040508.html) - 11:10 12/02/2026
 - ⚗️ [Kiểm định nhịp 18 cầu Long Biên sau sự cố](https://vnexpress.net/kiem-dinh-nhip-18-cau-long-bien-sau-su-co-5040548.html) - 10:49 12/02/2026
 - 🌊 [Cháy căn hộ tầng 16 chung cư ở Nha Trang, hai người chết](https://vnexpress.net/chay-can-ho-tang-16-chung-cu-o-nha-trang-hai-nguoi-chet-5040550.html) - 10:43 12/02/2026
-- 🎓 [Ôtô ùn ứ kéo dài trên quốc lộ, cao tốc miền Trung](https://vnexpress.net/oto-un-u-keo-dai-tren-quoc-lo-cao-toc-mien-trung-5040529.html) - 10:43 12/02/2026
+- 🎓 [Ôtô ùn ứ kéo dài trên quốc lộ, cao tốc qua miền Trung](https://vnexpress.net/oto-un-u-keo-dai-tren-quoc-lo-cao-toc-qua-mien-trung-5040529.html) - 10:43 12/02/2026
 - 🔥 [Cháy xe tải trên cao tốc Phan Thiết - Dầu Giây, giao thông ùn ứ](https://vnexpress.net/chay-xe-tai-tren-cao-toc-phan-thiet-dau-giay-giao-thong-un-u-5040543.html) - 10:22 12/02/2026
 - 🦏 [Hàng nghìn người chen lấn ở bến xe để về quê](https://vnexpress.net/hang-nghin-nguoi-chen-lan-o-ben-xe-de-ve-que-5040527.html) - 10:04 12/02/2026
 - 👺 [Ứng viên Quốc hội phải vận động công khai, bình đẳng](https://vnexpress.net/ung-vien-quoc-hoi-phai-van-dong-cong-khai-binh-dang-5040502.html) - 09:38 12/02/2026
