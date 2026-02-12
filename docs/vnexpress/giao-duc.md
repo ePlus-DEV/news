@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Người Việt mua bao nhiêu vàng trong năm 2025?](https://vnexpress.net/nguoi-viet-mua-bao-nhieu-vang-trong-nam-2025-5040546.html) - 13:49 12/02/2026
+- 🤓 [Việt Nam có bao nhiêu mỏ vàng?](https://vnexpress.net/viet-nam-co-bao-nhieu-mo-vang-5040546.html) - 13:49 12/02/2026
 - 🦆 [Tranh luận việc trẻ mầm non gói bánh chưng ngày Tết](https://vnexpress.net/tranh-luan-viec-tre-mam-non-goi-banh-chung-ngay-tet-5039566.html) - 13:07 12/02/2026
 - 🦩 [Trường đầu tiên ở TP HCM dự kiến chỉ tiêu tuyển lớp 10](https://vnexpress.net/truong-dau-tien-o-tp-hcm-du-kien-chi-tieu-tuyen-lop-10-5040337.html) - 09:24 12/02/2026
 - 🌮 [Hàn Quốc cắt giảm giáo viên, nguy cơ theo &#39;vết xe đổ&#39; của Nhật Bản](https://vnexpress.net/han-quoc-cat-giam-giao-vien-nguy-co-theo-vet-xe-do-cua-nhat-ban-5039323.html) - 04:21 12/02/2026
