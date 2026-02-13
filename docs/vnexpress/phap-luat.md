@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Sổ đỏ &#39;điện tử&#39; trên VNeID đã có hiệu lực](https://vnexpress.net/so-do-dien-tu-tren-vneid-da-co-hieu-luc-5040884.html) - 08:18 13/02/2026
+- 😎 [Sổ đỏ &#39;điện tử&#39; trên VNeID có hiệu lực](https://vnexpress.net/so-do-dien-tu-tren-vneid-co-hieu-luc-5040884.html) - 08:18 13/02/2026
 - 🥰 [Con dâu đánh mẹ chồng trọng thương lúc cúng bái &#39;nhập hồn&#39;](https://vnexpress.net/con-dau-danh-me-chong-trong-thuong-luc-cung-bai-nhap-hon-5040852.html) - 07:24 13/02/2026
 - 🎓 [Hai giám đốc kinh doanh xe điện lớn nhất Thanh Hóa bị khởi tố](https://vnexpress.net/hai-giam-doc-kinh-doanh-xe-dien-lon-nhat-thanh-hoa-bi-khoi-to-5040847.html) - 07:08 13/02/2026
 - 🤓 [Giấu xác vợ trong bể chứa phân bón hơn 3 năm](https://vnexpress.net/giau-xac-vo-trong-be-chua-phan-bon-hon-3-nam-5040812.html) - 05:52 13/02/2026
