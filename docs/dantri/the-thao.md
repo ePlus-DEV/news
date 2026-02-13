@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Phản ứng của CĐV châu Á khi U17 Việt Nam gặp Hàn Quốc, UAE và Yemen](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-chau-a-khi-u17-viet-nam-gap-han-quoc-uae-va-yemen-20260213002038092.htm) - 23:07 12/02/2026
-- 💯 [Báo Hàn Quốc bình luận khi đội nhà tranh vé dự World Cup với U17 Việt Nam](https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-khi-doi-nha-tranh-ve-du-world-cup-voi-u17-viet-nam-20260212235435576.htm) - 23:01 12/02/2026
-- ⛽️ [Nhật Bản đổi luật bóng đá: Loại bỏ tỷ số hòa, áp dụng cách tính điểm mới](https://dantri.com.vn/the-thao/nhat-ban-doi-luat-bong-da-loai-bo-ty-so-hoa-ap-dung-cach-tinh-diem-moi-20260212190340073.htm) - 12:26 12/02/2026
-- 💃 [Nữ CĐV Thái Lan xinh đẹp mê mẩn Đình Bắc gây sốt khi tới Việt Nam ăn Tết](https://dantri.com.vn/the-thao/nu-cdv-thai-lan-xinh-dep-me-man-dinh-bac-gay-sot-khi-toi-viet-nam-an-tet-20260212192312813.htm) - 12:23 12/02/2026
-- 🌈 [U23 Việt Nam sở hữu lực lượng mới, hướng tới kỳ tích ở Asiad 20](https://dantri.com.vn/the-thao/u23-viet-nam-so-huu-luc-luong-moi-huong-toi-ky-tich-o-asiad-20-20260212164710132.htm) - 11:00 12/02/2026
-- 🦅 [VĐV Trung Quốc bị tố phạm lỗi, cản trở đối thủ giành huy chương Olympic](https://dantri.com.vn/the-thao/vdv-trung-quoc-bi-to-pham-loi-can-tro-doi-thu-gianh-huy-chuong-olympic-20260212150700528.htm) - 08:09 12/02/2026
-- 🌝 [Malaysia, Indonesia tiếc nuối khi đánh rơi vé dự Asiad về tay U23 Việt Nam](https://dantri.com.vn/the-thao/malaysia-indonesia-tiec-nuoi-khi-danh-roi-ve-du-asiad-ve-tay-u23-viet-nam-20260212121218772.htm) - 08:00 12/02/2026
-- 🚀 [U17 Việt Nam đối đầu Hàn Quốc, rộng cửa dự World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-doi-dau-han-quoc-rong-cua-du-world-cup-20260212144902235.htm) - 07:49 12/02/2026
-- 🎉 [Báo Indonesia nói về việc LĐBĐ Việt Nam tố cáo Malaysia nhập tịch gian lận](https://dantri.com.vn/the-thao/bao-indonesia-noi-ve-viec-ldbd-viet-nam-to-cao-malaysia-nhap-tich-gian-lan-20260212121621518.htm) - 05:17 12/02/2026
-- 📝 [Real Madrid rút lui khỏi Super League, siêu dự án sụp đổ](https://dantri.com.vn/the-thao/real-madrid-rut-lui-khoi-super-league-sieu-du-an-sup-do-20260212092047895.htm) - 02:21 12/02/2026
-- 🦄 [Man City thắng đậm Fulham, tiếp tục bám đuổi Arsenal](https://dantri.com.vn/the-thao/man-city-thang-dam-fulham-tiep-tuc-bam-duoi-arsenal-20260212073039403.htm) - 00:31 12/02/2026
-- 🎉 [AFC giải thích lý do trao suất đặc cách dự Asiad 20 cho bóng đá Việt Nam](https://dantri.com.vn/the-thao/afc-giai-thich-ly-do-trao-suat-dac-cach-du-asiad-20-cho-bong-da-viet-nam-20260212001159480.htm) - 00:23 12/02/2026
-- 💼 [Hạ Sunderland, Liverpool áp sát Chelsea và Man Utd](https://dantri.com.vn/the-thao/ha-sunderland-liverpool-ap-sat-chelsea-va-man-utd-20260212071748869.htm) - 00:19 12/02/2026
-- 🤡 [Djokovic bị đánh giá thấp về cơ hội giành Grand Slam năm nay](https://dantri.com.vn/the-thao/djokovic-bi-danh-gia-thap-ve-co-hoi-gianh-grand-slam-nam-nay-20260212084308440.htm) - 00:17 12/02/2026
-- 🦆 [Tranh cãi về Đình Bắc và chuẩn mực trong thế giới bóng đá hiện đại](https://dantri.com.vn/the-thao/tranh-cai-ve-dinh-bac-va-chuan-muc-trong-the-gioi-bong-da-hien-dai-20260211140100074.htm) - 23:00 11/02/2026
-- 👍 [Pickleball ngày càng thu hút nhờ tà áo dài](https://dantri.com.vn/the-thao/pickleball-ngay-cang-thu-hut-nho-ta-ao-dai-20260211053959585.htm) - 22:00 11/02/2026
-- 💼 [HLV Polking: &quot;Đình Bắc còn rất nhiều điều cần phải học hỏi&quot;](https://dantri.com.vn/the-thao/hlv-polking-dinh-bac-con-rat-nhieu-dieu-can-phai-hoc-hoi-20260211230330007.htm) - 16:05 11/02/2026
-- 🦒 [Đình Bắc và Quang Hải tỏa sáng, CLB CAHN thắng đậm ở Cúp châu Á](https://dantri.com.vn/the-thao/dinh-bac-va-quang-hai-toa-sang-clb-cahn-thang-dam-o-cup-chau-a-20260211215825042.htm) - 14:32 11/02/2026
-- 🌜 [Chuyên gia: “Đình Bắc cần tự điều chỉnh trước hào quang của sự nổi tiếng”](https://dantri.com.vn/the-thao/chuyen-gia-dinh-bac-can-tu-dieu-chinh-truoc-hao-quang-cua-su-noi-tieng-20260211153648563.htm) - 08:47 11/02/2026
-- 🦆 [Hai VĐV Hàn Quốc bị truất quyền tham dự Olympic](https://dantri.com.vn/the-thao/hai-vdv-han-quoc-bi-truat-quyen-tham-du-olympic-20260211125201778.htm) - 05:52 11/02/2026
-- 💪 [AFC xác nhận LĐBĐ Việt Nam gửi đơn tố cáo Malaysia nhập tịch gian lận](https://dantri.com.vn/the-thao/afc-xac-nhan-ldbd-viet-nam-gui-don-to-cao-malaysia-nhap-tich-gian-lan-20260211115229102.htm) - 05:01 11/02/2026
-- 🧠 [Chủ tịch CLB Al Nassr sắp mất chức vì Ronaldo](https://dantri.com.vn/the-thao/chu-tich-clb-al-nassr-sap-mat-chuc-vi-ronaldo-20260211110157089.htm) - 04:18 11/02/2026
-- 🦄 [Phản ứng của HLV Carrick khi Man Utd hòa hú vía](https://dantri.com.vn/the-thao/phan-ung-cua-hlv-carrick-khi-man-utd-hoa-hu-via-20260211091057586.htm) - 02:11 11/02/2026
-- 🥸 [Man Utd chia điểm với West Ham, CĐV buồn bã vì không thể cắt tóc](https://dantri.com.vn/the-thao/man-utd-chia-diem-voi-west-ham-cdv-buon-ba-vi-khong-the-cat-toc-20260211081546485.htm) - 01:42 11/02/2026
-- 🤠 [Nadal nói về khả năng Djokovic giành Grand Slam thứ 25](https://dantri.com.vn/the-thao/nadal-noi-ve-kha-nang-djokovic-gianh-grand-slam-thu-25-20260211082920314.htm) - 01:37 11/02/2026
-- 👺 [Truyền thông Indonesia cảnh báo nguy cơ bóng đá Malaysia bị tăng án phạt](https://dantri.com.vn/the-thao/truyen-thong-indonesia-canh-bao-nguy-co-bong-da-malaysia-bi-tang-an-phat-20260210234009317.htm) - 23:27 10/02/2026
-- 📝 [Bóng đá Việt Nam có suất đặc cách dự Asiad 2026](https://dantri.com.vn/the-thao/bong-da-viet-nam-co-suat-dac-cach-du-asiad-2026-20260211005657041.htm) - 23:25 10/02/2026
-- 🦆 [Leeds gây sốc tại Stamford Bridge, cầm hòa Chelsea sau khi bị dẫn hai bàn](https://dantri.com.vn/the-thao/leeds-gay-soc-tai-stamford-bridge-cam-hoa-chelsea-sau-khi-bi-dan-hai-ban-20260211061805230.htm) - 23:18 10/02/2026
-- 🥳 [Sesko tỏa sáng phút bù giờ giúp Man Utd thoát thua West Ham](https://dantri.com.vn/the-thao/sesko-toa-sang-phut-bu-gio-giup-man-utd-thoat-thua-west-ham-20260211060025567.htm) - 23:00 10/02/2026
-- 🐵 [HLV futsal Indonesia nói lời thật lòng khi không thể vô địch châu Á](https://dantri.com.vn/the-thao/hlv-futsal-indonesia-noi-loi-that-long-khi-khong-the-vo-dich-chau-a-20260210192435622.htm) - 23:00 10/02/2026
-- 🤩 [Đội tuyển nữ Việt Nam thua Trung Quốc trước giải châu Á](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-thua-trung-quoc-truoc-giai-chau-a-20260210212532582.htm) - 14:27 10/02/2026
-- 🤠 [Báo chí quốc tế bình luận về việc Việt Nam xây SVĐ lớn nhất thế giới](https://dantri.com.vn/the-thao/bao-chi-quoc-te-binh-luan-ve-viec-viet-nam-xay-svd-lon-nhat-the-gioi-20260210193009364.htm) - 12:31 10/02/2026
-- 🏊 [Sự cố trớ trêu về huy chương Olympic, ban tổ chức vào cuộc điều tra](https://dantri.com.vn/the-thao/su-co-tro-treu-ve-huy-chuong-olympic-ban-to-chuc-vao-cuoc-dieu-tra-20260210191400749.htm) - 12:14 10/02/2026
-- 🗽 [AFC nói về cơ hội thắng kiện của Malaysia](https://dantri.com.vn/the-thao/afc-noi-ve-co-hoi-thang-kien-cua-malaysia-20260210183107669.htm) - 11:31 10/02/2026
-- 🚀 [HLV Polking: &quot;CLB Công an Hà Nội không dễ thắng đậm Tampines Rovers&quot;](https://dantri.com.vn/the-thao/hlv-polking-clb-cong-an-ha-noi-khong-de-thang-dam-tampines-rovers-20260210153911320.htm) - 08:39 10/02/2026
-- 🎉 [HLV Carrick phản ứng bất ngờ với CĐV “thề không cắt tóc” của Man Utd](https://dantri.com.vn/the-thao/hlv-carrick-phan-ung-bat-ngo-voi-cdv-the-khong-cat-toc-cua-man-utd-20260210125020063.htm) - 05:50 10/02/2026
-- 🔥 [VĐV thực hiện cú nhảy “thách thức quy luật vật lý”, Djokovic kinh ngạc](https://dantri.com.vn/the-thao/vdv-thuc-hien-cu-nhay-thach-thuc-quy-luat-vat-ly-djokovic-kinh-ngac-20260210113303781.htm) - 04:33 10/02/2026
-- 🎉 [Được đáp ứng hai yêu sách, C.Ronaldo ngừng đình công ở Saudi Arabia](https://dantri.com.vn/the-thao/duoc-dap-ung-hai-yeu-sach-cronaldo-ngung-dinh-cong-o-saudi-arabia-20260210092640703.htm) - 02:36 10/02/2026
-- 🎡 [Mất 500 điểm, Carlos Alcaraz vẫn đi vào lịch sử](https://dantri.com.vn/the-thao/mat-500-diem-carlos-alcaraz-van-di-vao-lich-su-20260210084809358.htm) - 01:48 10/02/2026
-- 🐻 [AFC ra án phạt với tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/afc-ra-an-phat-voi-tuyen-futsal-viet-nam-20260209231919901.htm) - 23:01 09/02/2026
-- 🌊 [Chủ tịch CLB Barcelona bất ngờ tuyên bố từ chức](https://dantri.com.vn/the-thao/chu-tich-clb-barcelona-bat-ngo-tuyen-bo-tu-chuc-20260209230128344.htm) - 17:10 09/02/2026
-- 💃 [Tay golf người Mỹ vô địch giải WM Phoenix Open 2026](https://dantri.com.vn/the-thao/tay-golf-nguoi-my-vo-dich-giai-wm-phoenix-open-2026-20260209112615987.htm) - 17:09 09/02/2026
-- 🤔 [Xuân Son bị từ chối bàn thắng, CLB Nam Định đánh rơi điểm ở V-League](https://dantri.com.vn/the-thao/xuan-son-bi-tu-choi-ban-thang-clb-nam-dinh-danh-roi-diem-o-v-league-20260209204408345.htm) - 14:26 09/02/2026
-- 🤭 [Một CLB Trung Quốc muốn chiêu mộ Đình Bắc](https://dantri.com.vn/the-thao/mot-clb-trung-quoc-muon-chieu-mo-dinh-bac-20260209180555700.htm) - 11:22 09/02/2026
-- 👹 [Võ sĩ suýt cắn đứt tai đối thủ trên võ đài MMA](https://dantri.com.vn/the-thao/vo-si-suyt-can-dut-tai-doi-thu-tren-vo-dai-mma-20260209182112662.htm) - 11:21 09/02/2026
-- 🗽 [Bắn súng Việt Nam xuất sắc giành huy chương vàng châu Á](https://dantri.com.vn/the-thao/ban-sung-viet-nam-xuat-sac-gianh-huy-chuong-vang-chau-a-20260209170225852.htm) - 11:21 09/02/2026
-- 🥳 [Futsal Đông Nam Á thắng lớn ở giải châu Á, giành hai danh hiệu cá nhân](https://dantri.com.vn/the-thao/futsal-dong-nam-a-thang-lon-o-giai-chau-a-gianh-hai-danh-hieu-ca-nhan-20260209121707039.htm) - 09:07 09/02/2026
-- 💃 [C.Ronaldo nổi loạn, giải Saudi Arabia tính chiêu mộ ngôi sao mới thay thế](https://dantri.com.vn/the-thao/cronaldo-noi-loan-giai-saudi-arabia-tinh-chieu-mo-ngoi-sao-moi-thay-the-20260209160004837.htm) - 09:00 09/02/2026
-- 🧰 [Cựu trọng tài Anh tiết lộ lý do Man City bị từ chối bàn thắng phút bù giờ](https://dantri.com.vn/the-thao/cuu-trong-tai-anh-tiet-lo-ly-do-man-city-bi-tu-choi-ban-thang-phut-bu-gio-20260209110628541.htm) - 05:00 09/02/2026
-- 💪 [Báo Anh nói về việc Việt Nam xây sân vận động gấp đôi Old Trafford](https://dantri.com.vn/the-thao/bao-anh-noi-ve-viec-viet-nam-xay-san-van-dong-gap-doi-old-trafford-20260209101357096.htm) - 03:14 09/02/2026
-- 🚀 [Tranh cãi gay gắt về bàn thắng bị từ chối của Man City](https://dantri.com.vn/the-thao/tranh-cai-gay-gat-ve-ban-thang-bi-tu-choi-cua-man-city-20260209090628019.htm) - 02:06 09/02/2026
-- 🤠 [Man City thắng ngược Liverpool phút bù giờ, tiếp tục gây áp lực lên Arsenal](https://dantri.com.vn/the-thao/man-city-thang-nguoc-liverpool-phut-bu-gio-tiep-tuc-gay-ap-luc-len-arsenal-20260209063740156.htm) - 23:38 08/02/2026
-- 🏊 [Mbappe lập công, Real Madrid đánh bại Valencia](https://dantri.com.vn/the-thao/mbappe-lap-cong-real-madrid-danh-bai-valencia-20260209062223785.htm) - 23:35 08/02/2026
-- 🦄 [Dembele tỏa sáng, Paris Saint Germain thắng đậm Marseille](https://dantri.com.vn/the-thao/dembele-toa-sang-paris-saint-germain-thang-dam-marseille-20260209051703753.htm) - 23:15 08/02/2026
-- ⚗️ [Cầu thủ Lào lập hai siêu phẩm bàn thắng tại V-League](https://dantri.com.vn/the-thao/cau-thu-lao-lap-hai-sieu-pham-ban-thang-tai-v-league-20260209000407751.htm) - 23:12 08/02/2026
-- 🥷 [Djokovic thể hiện khát khao góp mặt ở Olympic 2028](https://dantri.com.vn/the-thao/djokovic-the-hien-khat-khao-gop-mat-o-olympic-2028-20260208214849994.htm) - 17:57 08/02/2026
-- 🔥 [CLB Công an TPHCM thua Thanh Hóa, SLNA thắng đậm Thể Công Viettel](https://dantri.com.vn/the-thao/clb-cong-an-tphcm-thua-thanh-hoa-slna-thang-dam-the-cong-viettel-20260208214738353.htm) - 14:56 08/02/2026
-- 🦅 [Báo Malaysia lo ngại tuyển Việt Nam tung ra 5 cầu thủ nhập tịch](https://dantri.com.vn/the-thao/bao-malaysia-lo-ngai-tuyen-viet-nam-tung-ra-5-cau-thu-nhap-tich-20260208195118588.htm) - 12:51 08/02/2026
-- 🌝 [Futsal châu Á 2026: Cú xoay trục ngoạn mục từ Đông Nam Á](https://dantri.com.vn/the-thao/futsal-chau-a-2026-cu-xoay-truc-ngoan-muc-tu-dong-nam-a-20260208130217805.htm) - 10:00 08/02/2026
-- 🐵 [HLV Carrick làm được điều Amorim không thể làm được ở Man Utd](https://dantri.com.vn/the-thao/hlv-carrick-lam-duoc-dieu-amorim-khong-the-lam-duoc-o-man-utd-20260208130759775.htm) - 06:08 08/02/2026<!-- dantri-the-thao:END -->
+- 🎡 [Barcelona thua đậm 0-4 trước Atletico](https://dantri.com.vn/the-thao/barcelona-thua-dam-0-4-truoc-atletico-20260213061728253.htm) - 23:32 12/02/2026
+- 💯 [Phản ứng của CĐV châu Á khi U17 Việt Nam gặp Hàn Quốc, UAE và Yemen](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-chau-a-khi-u17-viet-nam-gap-han-quoc-uae-va-yemen-20260213002038092.htm) - 23:07 12/02/2026
+- ⛽️ [Báo Hàn Quốc bình luận khi đội nhà tranh vé dự World Cup với U17 Việt Nam](https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-khi-doi-nha-tranh-ve-du-world-cup-voi-u17-viet-nam-20260212235435576.htm) - 23:01 12/02/2026
+- 💃 [Nhật Bản đổi luật bóng đá: Loại bỏ tỷ số hòa, áp dụng cách tính điểm mới](https://dantri.com.vn/the-thao/nhat-ban-doi-luat-bong-da-loai-bo-ty-so-hoa-ap-dung-cach-tinh-diem-moi-20260212190340073.htm) - 12:26 12/02/2026
+- 🌈 [Nữ CĐV Thái Lan xinh đẹp mê mẩn Đình Bắc gây sốt khi tới Việt Nam ăn Tết](https://dantri.com.vn/the-thao/nu-cdv-thai-lan-xinh-dep-me-man-dinh-bac-gay-sot-khi-toi-viet-nam-an-tet-20260212192312813.htm) - 12:23 12/02/2026
+- 🦅 [U23 Việt Nam sở hữu lực lượng mới, hướng tới kỳ tích ở Asiad 20](https://dantri.com.vn/the-thao/u23-viet-nam-so-huu-luc-luong-moi-huong-toi-ky-tich-o-asiad-20-20260212164710132.htm) - 11:00 12/02/2026
+- 🌝 [VĐV Trung Quốc bị tố phạm lỗi, cản trở đối thủ giành huy chương Olympic](https://dantri.com.vn/the-thao/vdv-trung-quoc-bi-to-pham-loi-can-tro-doi-thu-gianh-huy-chuong-olympic-20260212150700528.htm) - 08:09 12/02/2026
+- 🚀 [Malaysia, Indonesia tiếc nuối khi đánh rơi vé dự Asiad về tay U23 Việt Nam](https://dantri.com.vn/the-thao/malaysia-indonesia-tiec-nuoi-khi-danh-roi-ve-du-asiad-ve-tay-u23-viet-nam-20260212121218772.htm) - 08:00 12/02/2026
+- 🎉 [U17 Việt Nam đối đầu Hàn Quốc, rộng cửa dự World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-doi-dau-han-quoc-rong-cua-du-world-cup-20260212144902235.htm) - 07:49 12/02/2026
+- 📝 [Báo Indonesia nói về việc LĐBĐ Việt Nam tố cáo Malaysia nhập tịch gian lận](https://dantri.com.vn/the-thao/bao-indonesia-noi-ve-viec-ldbd-viet-nam-to-cao-malaysia-nhap-tich-gian-lan-20260212121621518.htm) - 05:17 12/02/2026
+- 🦄 [Real Madrid rút lui khỏi Super League, siêu dự án sụp đổ](https://dantri.com.vn/the-thao/real-madrid-rut-lui-khoi-super-league-sieu-du-an-sup-do-20260212092047895.htm) - 02:21 12/02/2026
+- 🎉 [Man City thắng đậm Fulham, tiếp tục bám đuổi Arsenal](https://dantri.com.vn/the-thao/man-city-thang-dam-fulham-tiep-tuc-bam-duoi-arsenal-20260212073039403.htm) - 00:31 12/02/2026
+- 💼 [AFC giải thích lý do trao suất đặc cách dự Asiad 20 cho bóng đá Việt Nam](https://dantri.com.vn/the-thao/afc-giai-thich-ly-do-trao-suat-dac-cach-du-asiad-20-cho-bong-da-viet-nam-20260212001159480.htm) - 00:23 12/02/2026
+- 🤡 [Hạ Sunderland, Liverpool áp sát Chelsea và Man Utd](https://dantri.com.vn/the-thao/ha-sunderland-liverpool-ap-sat-chelsea-va-man-utd-20260212071748869.htm) - 00:19 12/02/2026
+- 🦆 [Djokovic bị đánh giá thấp về cơ hội giành Grand Slam năm nay](https://dantri.com.vn/the-thao/djokovic-bi-danh-gia-thap-ve-co-hoi-gianh-grand-slam-nam-nay-20260212084308440.htm) - 00:17 12/02/2026
+- 👍 [Tranh cãi về Đình Bắc và chuẩn mực trong thế giới bóng đá hiện đại](https://dantri.com.vn/the-thao/tranh-cai-ve-dinh-bac-va-chuan-muc-trong-the-gioi-bong-da-hien-dai-20260211140100074.htm) - 23:00 11/02/2026
+- 💼 [Pickleball ngày càng thu hút nhờ tà áo dài](https://dantri.com.vn/the-thao/pickleball-ngay-cang-thu-hut-nho-ta-ao-dai-20260211053959585.htm) - 22:00 11/02/2026
+- 🦒 [HLV Polking: &quot;Đình Bắc còn rất nhiều điều cần phải học hỏi&quot;](https://dantri.com.vn/the-thao/hlv-polking-dinh-bac-con-rat-nhieu-dieu-can-phai-hoc-hoi-20260211230330007.htm) - 16:05 11/02/2026
+- 🌜 [Đình Bắc và Quang Hải tỏa sáng, CLB CAHN thắng đậm ở Cúp châu Á](https://dantri.com.vn/the-thao/dinh-bac-va-quang-hai-toa-sang-clb-cahn-thang-dam-o-cup-chau-a-20260211215825042.htm) - 14:32 11/02/2026
+- 🦆 [Chuyên gia: “Đình Bắc cần tự điều chỉnh trước hào quang của sự nổi tiếng”](https://dantri.com.vn/the-thao/chuyen-gia-dinh-bac-can-tu-dieu-chinh-truoc-hao-quang-cua-su-noi-tieng-20260211153648563.htm) - 08:47 11/02/2026
+- 💪 [Hai VĐV Hàn Quốc bị truất quyền tham dự Olympic](https://dantri.com.vn/the-thao/hai-vdv-han-quoc-bi-truat-quyen-tham-du-olympic-20260211125201778.htm) - 05:52 11/02/2026
+- 🧠 [AFC xác nhận LĐBĐ Việt Nam gửi đơn tố cáo Malaysia nhập tịch gian lận](https://dantri.com.vn/the-thao/afc-xac-nhan-ldbd-viet-nam-gui-don-to-cao-malaysia-nhap-tich-gian-lan-20260211115229102.htm) - 05:01 11/02/2026
+- 🦄 [Chủ tịch CLB Al Nassr sắp mất chức vì Ronaldo](https://dantri.com.vn/the-thao/chu-tich-clb-al-nassr-sap-mat-chuc-vi-ronaldo-20260211110157089.htm) - 04:18 11/02/2026
+- 🥸 [Phản ứng của HLV Carrick khi Man Utd hòa hú vía](https://dantri.com.vn/the-thao/phan-ung-cua-hlv-carrick-khi-man-utd-hoa-hu-via-20260211091057586.htm) - 02:11 11/02/2026
+- 🤠 [Man Utd chia điểm với West Ham, CĐV buồn bã vì không thể cắt tóc](https://dantri.com.vn/the-thao/man-utd-chia-diem-voi-west-ham-cdv-buon-ba-vi-khong-the-cat-toc-20260211081546485.htm) - 01:42 11/02/2026
+- 👺 [Nadal nói về khả năng Djokovic giành Grand Slam thứ 25](https://dantri.com.vn/the-thao/nadal-noi-ve-kha-nang-djokovic-gianh-grand-slam-thu-25-20260211082920314.htm) - 01:37 11/02/2026
+- 📝 [Truyền thông Indonesia cảnh báo nguy cơ bóng đá Malaysia bị tăng án phạt](https://dantri.com.vn/the-thao/truyen-thong-indonesia-canh-bao-nguy-co-bong-da-malaysia-bi-tang-an-phat-20260210234009317.htm) - 23:27 10/02/2026
+- 🦆 [Bóng đá Việt Nam có suất đặc cách dự Asiad 2026](https://dantri.com.vn/the-thao/bong-da-viet-nam-co-suat-dac-cach-du-asiad-2026-20260211005657041.htm) - 23:25 10/02/2026
+- 🥳 [Leeds gây sốc tại Stamford Bridge, cầm hòa Chelsea sau khi bị dẫn hai bàn](https://dantri.com.vn/the-thao/leeds-gay-soc-tai-stamford-bridge-cam-hoa-chelsea-sau-khi-bi-dan-hai-ban-20260211061805230.htm) - 23:18 10/02/2026
+- 🐵 [Sesko tỏa sáng phút bù giờ giúp Man Utd thoát thua West Ham](https://dantri.com.vn/the-thao/sesko-toa-sang-phut-bu-gio-giup-man-utd-thoat-thua-west-ham-20260211060025567.htm) - 23:00 10/02/2026
+- 🤩 [HLV futsal Indonesia nói lời thật lòng khi không thể vô địch châu Á](https://dantri.com.vn/the-thao/hlv-futsal-indonesia-noi-loi-that-long-khi-khong-the-vo-dich-chau-a-20260210192435622.htm) - 23:00 10/02/2026
+- 🤠 [Đội tuyển nữ Việt Nam thua Trung Quốc trước giải châu Á](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-thua-trung-quoc-truoc-giai-chau-a-20260210212532582.htm) - 14:27 10/02/2026
+- 🏊 [Báo chí quốc tế bình luận về việc Việt Nam xây SVĐ lớn nhất thế giới](https://dantri.com.vn/the-thao/bao-chi-quoc-te-binh-luan-ve-viec-viet-nam-xay-svd-lon-nhat-the-gioi-20260210193009364.htm) - 12:31 10/02/2026
+- 🗽 [Sự cố trớ trêu về huy chương Olympic, ban tổ chức vào cuộc điều tra](https://dantri.com.vn/the-thao/su-co-tro-treu-ve-huy-chuong-olympic-ban-to-chuc-vao-cuoc-dieu-tra-20260210191400749.htm) - 12:14 10/02/2026
+- 🚀 [AFC nói về cơ hội thắng kiện của Malaysia](https://dantri.com.vn/the-thao/afc-noi-ve-co-hoi-thang-kien-cua-malaysia-20260210183107669.htm) - 11:31 10/02/2026
+- 🎉 [HLV Polking: &quot;CLB Công an Hà Nội không dễ thắng đậm Tampines Rovers&quot;](https://dantri.com.vn/the-thao/hlv-polking-clb-cong-an-ha-noi-khong-de-thang-dam-tampines-rovers-20260210153911320.htm) - 08:39 10/02/2026
+- 🔥 [HLV Carrick phản ứng bất ngờ với CĐV “thề không cắt tóc” của Man Utd](https://dantri.com.vn/the-thao/hlv-carrick-phan-ung-bat-ngo-voi-cdv-the-khong-cat-toc-cua-man-utd-20260210125020063.htm) - 05:50 10/02/2026
+- 🎉 [VĐV thực hiện cú nhảy “thách thức quy luật vật lý”, Djokovic kinh ngạc](https://dantri.com.vn/the-thao/vdv-thuc-hien-cu-nhay-thach-thuc-quy-luat-vat-ly-djokovic-kinh-ngac-20260210113303781.htm) - 04:33 10/02/2026
+- 🎡 [Được đáp ứng hai yêu sách, C.Ronaldo ngừng đình công ở Saudi Arabia](https://dantri.com.vn/the-thao/duoc-dap-ung-hai-yeu-sach-cronaldo-ngung-dinh-cong-o-saudi-arabia-20260210092640703.htm) - 02:36 10/02/2026
+- 🐻 [Mất 500 điểm, Carlos Alcaraz vẫn đi vào lịch sử](https://dantri.com.vn/the-thao/mat-500-diem-carlos-alcaraz-van-di-vao-lich-su-20260210084809358.htm) - 01:48 10/02/2026
+- 🌊 [AFC ra án phạt với tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/afc-ra-an-phat-voi-tuyen-futsal-viet-nam-20260209231919901.htm) - 23:01 09/02/2026
+- 💃 [Chủ tịch CLB Barcelona bất ngờ tuyên bố từ chức](https://dantri.com.vn/the-thao/chu-tich-clb-barcelona-bat-ngo-tuyen-bo-tu-chuc-20260209230128344.htm) - 17:10 09/02/2026
+- 🤔 [Tay golf người Mỹ vô địch giải WM Phoenix Open 2026](https://dantri.com.vn/the-thao/tay-golf-nguoi-my-vo-dich-giai-wm-phoenix-open-2026-20260209112615987.htm) - 17:09 09/02/2026
+- 🤭 [Xuân Son bị từ chối bàn thắng, CLB Nam Định đánh rơi điểm ở V-League](https://dantri.com.vn/the-thao/xuan-son-bi-tu-choi-ban-thang-clb-nam-dinh-danh-roi-diem-o-v-league-20260209204408345.htm) - 14:26 09/02/2026
+- 👹 [Một CLB Trung Quốc muốn chiêu mộ Đình Bắc](https://dantri.com.vn/the-thao/mot-clb-trung-quoc-muon-chieu-mo-dinh-bac-20260209180555700.htm) - 11:22 09/02/2026
+- 🗽 [Võ sĩ suýt cắn đứt tai đối thủ trên võ đài MMA](https://dantri.com.vn/the-thao/vo-si-suyt-can-dut-tai-doi-thu-tren-vo-dai-mma-20260209182112662.htm) - 11:21 09/02/2026
+- 🥳 [Bắn súng Việt Nam xuất sắc giành huy chương vàng châu Á](https://dantri.com.vn/the-thao/ban-sung-viet-nam-xuat-sac-gianh-huy-chuong-vang-chau-a-20260209170225852.htm) - 11:21 09/02/2026
+- 💃 [Futsal Đông Nam Á thắng lớn ở giải châu Á, giành hai danh hiệu cá nhân](https://dantri.com.vn/the-thao/futsal-dong-nam-a-thang-lon-o-giai-chau-a-gianh-hai-danh-hieu-ca-nhan-20260209121707039.htm) - 09:07 09/02/2026
+- 🧰 [C.Ronaldo nổi loạn, giải Saudi Arabia tính chiêu mộ ngôi sao mới thay thế](https://dantri.com.vn/the-thao/cronaldo-noi-loan-giai-saudi-arabia-tinh-chieu-mo-ngoi-sao-moi-thay-the-20260209160004837.htm) - 09:00 09/02/2026
+- 💪 [Cựu trọng tài Anh tiết lộ lý do Man City bị từ chối bàn thắng phút bù giờ](https://dantri.com.vn/the-thao/cuu-trong-tai-anh-tiet-lo-ly-do-man-city-bi-tu-choi-ban-thang-phut-bu-gio-20260209110628541.htm) - 05:00 09/02/2026
+- 🚀 [Báo Anh nói về việc Việt Nam xây sân vận động gấp đôi Old Trafford](https://dantri.com.vn/the-thao/bao-anh-noi-ve-viec-viet-nam-xay-san-van-dong-gap-doi-old-trafford-20260209101357096.htm) - 03:14 09/02/2026
+- 🤠 [Tranh cãi gay gắt về bàn thắng bị từ chối của Man City](https://dantri.com.vn/the-thao/tranh-cai-gay-gat-ve-ban-thang-bi-tu-choi-cua-man-city-20260209090628019.htm) - 02:06 09/02/2026
+- 🏊 [Man City thắng ngược Liverpool phút bù giờ, tiếp tục gây áp lực lên Arsenal](https://dantri.com.vn/the-thao/man-city-thang-nguoc-liverpool-phut-bu-gio-tiep-tuc-gay-ap-luc-len-arsenal-20260209063740156.htm) - 23:38 08/02/2026
+- 🦄 [Mbappe lập công, Real Madrid đánh bại Valencia](https://dantri.com.vn/the-thao/mbappe-lap-cong-real-madrid-danh-bai-valencia-20260209062223785.htm) - 23:35 08/02/2026
+- ⚗️ [Dembele tỏa sáng, Paris Saint Germain thắng đậm Marseille](https://dantri.com.vn/the-thao/dembele-toa-sang-paris-saint-germain-thang-dam-marseille-20260209051703753.htm) - 23:15 08/02/2026
+- 🥷 [Cầu thủ Lào lập hai siêu phẩm bàn thắng tại V-League](https://dantri.com.vn/the-thao/cau-thu-lao-lap-hai-sieu-pham-ban-thang-tai-v-league-20260209000407751.htm) - 23:12 08/02/2026
+- 🔥 [Djokovic thể hiện khát khao góp mặt ở Olympic 2028](https://dantri.com.vn/the-thao/djokovic-the-hien-khat-khao-gop-mat-o-olympic-2028-20260208214849994.htm) - 17:57 08/02/2026
+- 🦅 [CLB Công an TPHCM thua Thanh Hóa, SLNA thắng đậm Thể Công Viettel](https://dantri.com.vn/the-thao/clb-cong-an-tphcm-thua-thanh-hoa-slna-thang-dam-the-cong-viettel-20260208214738353.htm) - 14:56 08/02/2026
+- 🌝 [Báo Malaysia lo ngại tuyển Việt Nam tung ra 5 cầu thủ nhập tịch](https://dantri.com.vn/the-thao/bao-malaysia-lo-ngai-tuyen-viet-nam-tung-ra-5-cau-thu-nhap-tich-20260208195118588.htm) - 12:51 08/02/2026
+- 🐵 [Futsal châu Á 2026: Cú xoay trục ngoạn mục từ Đông Nam Á](https://dantri.com.vn/the-thao/futsal-chau-a-2026-cu-xoay-truc-ngoan-muc-tu-dong-nam-a-20260208130217805.htm) - 10:00 08/02/2026<!-- dantri-the-thao:END -->
