@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đại học Y Hà Nội bỏ C00, thêm loạt tổ hợp mới](https://vnexpress.net/dai-hoc-y-ha-noi-hmu-cong-bo-to-hop-xet-tuyen-sinh-dai-hoc-2026-moi-nhat-5041126.html) - 02:37 14/02/2026
-- 🦆 [Học viện Nông nghiệp Việt Nam cộng điểm với IELTS từ 4.0](https://vnexpress.net/hoc-vien-nong-nghiep-viet-nam-cong-diem-voi-ielts-tu-4-0-5040882.html) - 02:32 14/02/2026
+- 🦆 [Học viện Nông nghiệp Việt Nam công bố phương thức tuyển sinh](https://vnexpress.net/hoc-vien-nong-nghiep-viet-nam-cong-bo-phuong-thuc-tuyen-sinh-5040882.html) - 02:32 14/02/2026
 - 🦩 [ĐH Công nghệ Thông tin dự kiến áp sàn xét tuyển mức 20 điểm trở lên](https://vnexpress.net/phuong-thuc-cong-thuc-tinh-tuyen-sinh-dai-hoc-cong-nghe-thong-tin-2026-chi-tiet-5039876.html) - 01:23 14/02/2026
 - 🌮 [22 học sinh vào đội tuyển thi Olympic Toán châu Á - Thái Bình Dương](https://vnexpress.net/22-hoc-sinh-vao-doi-tuyen-thi-olympic-toan-chau-a-thai-binh-duong-5041000.html) - 15:40 13/02/2026
 - 🔭 [Tỉnh nào là thủ phủ tôm của cả nước?](https://vnexpress.net/tinh-nao-la-thu-phu-tom-cua-ca-nuoc-5040888.html) - 13:33 13/02/2026
