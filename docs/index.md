@@ -252,66 +252,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Điểm nóng xung đột ngày 14-12: Iran bít lối vào khu hạt nhân, triển khai hệ thống Tirada-2S](https://nld.com.vn/diem-nong-xung-dot-ngay-14-12-iran-bit-loi-vao-khu-hat-nhan-trien-khai-he-thong-tirada-2s-196260213110503142.htm) - 00:03 14/02/2026
-- 😺 [Chelsea bỏ lỡ 2 pha bóng “khó tin nhất mùa”](https://nld.com.vn/chelsea-bo-lo-2-pha-bong-kho-tin-nhat-mua-196260214064107052.htm) - 23:42 13/02/2026
-- 👍 [Lộ diện những con giáp thăng tiến rực rỡ nhất năm 2026](https://nld.com.vn/lo-dien-nhung-con-giap-thang-tien-ruc-ro-nhat-nam-2026-196260202210946742.htm) - 23:03 13/02/2026
-- 🥷 [Trấn Thành, Văn Mai Hương… an ủi khi Thu Trang thất bại doanh thu!](https://nld.com.vn/tran-thanh-van-mai-huong-an-ui-khi-thu-trang-that-bai-doanh-thu-196260213203533658.htm) - 17:05 13/02/2026
-- 🤔 [Thanh tra Chính phủ phát hiện một số vi phạm trong phát hành trái phiếu doanh nghiệp riêng lẻ](https://nld.com.vn/thanh-tra-chinh-phu-phat-hien-mot-so-vi-pham-trong-phat-hanh-trai-phieu-doanh-nghiep-rieng-le-196260213224120855.htm) - 15:57 13/02/2026
-- 🌈 [Một cựu Phó Trưởng phòng Tài nguyên và môi trường bị khởi tố](https://nld.com.vn/mot-cuu-pho-truong-phong-tai-nguyen-va-moi-truong-bi-khoi-to-196260213222607351.htm) - 15:39 13/02/2026
-- 🔥 [Nghị lực và tình yêu phi thường ở &quot;Trạm yêu thương&quot;](https://nld.com.vn/nghi-luc-va-tinh-yeu-phi-thuong-o-tram-yeu-thuong-196260213192351054.htm) - 15:36 13/02/2026
-- 🧰 [Ban Bí thư yêu cầu kiểm tra, đôn đốc việc trả lương, thưởng Tết kịp thời](https://nld.com.vn/ban-bi-thu-yeu-cau-kiem-tra-don-doc-viec-tra-luong-thuong-tet-kip-thoi-196260213222137814.htm) - 15:25 13/02/2026
-- 🤗 [Thắp ngọn lửa tri ân từ quê hương Đất Đỏ](https://nld.com.vn/thap-ngon-lua-tri-an-tu-que-huong-dat-do-196260213215603413.htm) - 15:18 13/02/2026
-- 🦅 [Trước Tết, 8 lãnh đạo Eximbank từ nhiệm](https://nld.com.vn/truoc-tet-8-lanh-dao-eximbank-tu-nhiem-196260213215945799.htm) - 15:09 13/02/2026
-- 🤩 [Thủ tướng: Biến những &quot;cơ hội mùa Xuân&quot; thành &quot;thắng lợi của cả năm&quot;](https://nld.com.vn/thu-tuong-bien-nhung-co-hoi-mua-xuan-thanh-thang-loi-cua-ca-nam-196260213213801386.htm) - 15:09 13/02/2026
-- 🎭 [VIDEO: Valentine vào sát Tết, nhiều sạp hoa ở TPHCM đìu hiu](https://nld.com.vn/video-valentine-vao-sat-tet-nhieu-sap-hoa-o-tphcm-diu-hiu-196260213205441537.htm) - 15:08 13/02/2026
-- 💄 [Ủy ban Thường vụ Quốc hội phê chuẩn nhân sự của TPHCM, Cao Bằng, Quảng Trị](https://nld.com.vn/uy-ban-thuong-vu-quoc-hoi-phe-chuan-nhan-su-cua-tphcm-cao-bang-quang-tri-196260213214033035.htm) - 15:06 13/02/2026
-- 🎊 [&quot;Biển người&quot; trở về miền Tây đón Tết](https://nld.com.vn/bien-nguoi-tro-ve-mien-tay-don-tet-196260213211555049.htm) - 15:01 13/02/2026
-- 🎡 [VietinBank và những công trình từ trái tim](https://thitruong.nld.com.vn/vietinbank-va-nhung-cong-trinh-tu-trai-tim-196260213185540417.htm) - 14:38 13/02/2026
-- 🎉 [Vinasun đồng hành cùng Hội hoa xuân Phú Mỹ Hưng Tết Bính Ngọ](https://thitruong.nld.com.vn/vinasun-dong-hanh-cung-hoi-hoa-xuan-phu-my-hung-tet-binh-ngo-196260213190331477.htm) - 14:37 13/02/2026
-- 😺 [Linh vật Ngựa cao 4,5m thu hút du khách tại Đường hoa Phú Mỹ Hưng](https://thitruong.nld.com.vn/linh-vat-ngua-cao-45m-thu-hut-du-khach-tai-duong-hoa-phu-my-hung-196260213192147363.htm) - 14:36 13/02/2026
-- 🐻 [Doanh nhân Ngô Thị Kim Chi: &quot;Bản lĩnh và giá trị nền móng để doanh nghiệp đi đường dài&quot;](https://diaoc.nld.com.vn/doanh-nhan-ngo-thi-kim-chi-ban-linh-va-gia-tri-nen-mong-de-doanh-nghiep-di-duong-dai-196260213161704818.htm) - 14:24 13/02/2026
-- 🤡 [Lý do nhiều nhân viên y tế tại Cà Mau đòi bỏ trực Tết](https://nld.com.vn/podcast/ly-do-nhieu-nhan-vien-y-te-tai-ca-mau-doi-bo-truc-tet-196260213111547172.htm) - 14:07 13/02/2026
-- 🚦 [Thị trường tiền số hôm nay, 13-2: Bitcoin có nguy cơ trượt sâu về 58.000 USD?](https://nld.com.vn/thi-truong-tien-so-hom-nay-13-2-bitcoin-co-nguy-co-truot-sau-ve-58000-usd-196260213203056543.htm) - 13:41 13/02/2026
-- 🪜 [Trường Giang &quot;đau đầu&quot; khi muốn có kỷ niệm với dàn anh em nổi tiếng](https://nld.com.vn/truong-giang-dau-dau-khi-muon-co-ky-niem-voi-dan-anh-em-noi-tieng-196260213194036119.htm) - 13:27 13/02/2026
-- 💫 [Phó Chủ tịch UBND TPHCM thị sát Đường hoa Nguyễn Huệ trước giờ G](https://nld.com.vn/pho-chu-tich-ubnd-tphcm-thi-sat-duong-hoa-nguyen-hue-truoc-gio-g-196260213200448653.htm) - 13:23 13/02/2026
-- 🔭 [Phía sau tin báo 2 mẹ con bị bắt cóc gửi Công an Gia Lai lúc rạng sáng](https://nld.com.vn/phia-sau-tin-bao-2-me-con-bi-bat-coc-gui-cong-an-gia-lai-luc-rang-sang-196260213200521955.htm) - 13:18 13/02/2026
-- 🌝 [Bảo vệ chặn đầu xe, đe dọa tài xế ô tô ở TPHCM đã đến trụ sở công an](https://nld.com.vn/bao-ve-chan-dau-xe-de-doa-tai-xe-o-to-o-tphcm-da-den-tru-so-cong-an-196260213191836396.htm) - 13:03 13/02/2026
-- 💪 [Virus Nipah tử vong tới 75%: Hướng dẫn điều trị mới nhất](https://nld.com.vn/virus-nipah-tu-vong-toi-75-huong-dan-dieu-tri-moi-nhat-196260213194255433.htm) - 13:02 13/02/2026
-- 🦍 [16 chuyến tàu rời Ga Sài Gòn trong ngày cao điểm phục vụ Tết Bính Ngọ 2026](https://nld.com.vn/16-chuyen-tau-roi-ga-sai-gon-trong-ngay-cao-diem-phuc-vu-tet-binh-ngo-2026-19626021318342926.htm) - 12:08 13/02/2026
-- 🥷 [Độc lạ: Đài truyền hình cắt sóng vì gọi VĐV là &quot;cô ấy&quot; tại Olympic mùa đông](https://nld.com.vn/doc-la-dai-truyen-hinh-cat-song-vi-goi-vdv-la-co-ay-tai-olympic-mua-dong-196260213174129218.htm) - 12:08 13/02/2026
-- 🫶 [Tàu hải quân Mexico chở hàng trăm tấn hàng viện trợ đến Cuba](https://nld.com.vn/tau-hai-quan-mexico-cho-hang-tram-tan-hang-vien-tro-den-cuba-196260212225034463.htm) - 12:03 13/02/2026
-- 🐻 [Bộ trưởng Nguyễn Mạnh Hùng gửi thư tới bố mẹ công chức, người lao động ngành KH-CN](https://nld.com.vn/bo-truong-nguyen-manh-hung-gui-thu-toi-bo-me-cong-chuc-nguoi-lao-dong-nganh-kh-cn-196260213185151465.htm) - 12:01 13/02/2026
-- 🐲 [Chưa khai thác tạm tuyến cao tốc Biên Hòa - Vũng Tàu dịp Tết Nguyên đán](https://nld.com.vn/chua-khai-thac-tam-tuyen-cao-toc-bien-hoa-vung-tau-dip-tet-nguyen-dan-196260213180622997.htm) - 11:41 13/02/2026
-- 🧑‍💻 [Dòng người ùn ùn rời Hà Nội về quê nghỉ Tết sau ngày làm việc cuối cùng của năm Ất Tỵ](https://nld.com.vn/dong-nguoi-un-un-roi-ha-noi-ve-que-nghi-tet-sau-ngay-lam-viec-cuoi-cung-cua-nam-at-ty-196260213182428967.htm) - 11:40 13/02/2026
-- 🎬 [Sở GD-ĐT TPHCM: Học kỳ II sẽ ban hành quy trình thực hiện chương trình nhà trường](https://nld.com.vn/so-gd-dt-tphcm-hoc-ky-ii-se-ban-hanh-quy-trinh-thuc-hien-chuong-trinh-nha-truong-19626021317420561.htm) - 11:38 13/02/2026
-- 👀 [Công an TPHCM ra thông báo quan trọng, người dân cần biết](https://nld.com.vn/cong-an-tphcm-ra-thong-bao-quan-trong-nguoi-dan-can-biet-196260213175210648.htm) - 11:35 13/02/2026
-- 👍 [Khởi tố đối tượng hành hung dã man nam sinh lớp 9 ở Tây Ninh](https://nld.com.vn/khoi-to-doi-tuong-hanh-hung-da-man-nam-sinh-lop-9-o-tay-ninh-196260213180050751.htm) - 11:33 13/02/2026
-- 🦅 [Tuyển thủ Thái Lan trả giá vì gian lận ở trận gặp Việt Nam tại SEA Games 33](https://nld.com.vn/tuyen-thu-thai-lan-tra-gia-vi-gian-lan-o-tran-gap-viet-nam-tai-sea-games-33-196260213180742355.htm) - 11:22 13/02/2026
-- 🦏 [HLV Carrick đã vực dậy Man United thế nào qua 5 trận đầu tiên?](https://nld.com.vn/hlv-carrick-da-vuc-day-man-united-the-nao-qua-5-tran-dau-tien-196260213175620346.htm) - 11:22 13/02/2026
-- 🗽 [Cận Tết, công nhân vẫn bám trụ thi công trên rạch Xuyên Tâm](https://nld.com.vn/can-tet-cong-nhan-van-bam-tru-thi-cong-tren-rach-xuyen-tam-19626021317375437.htm) - 10:56 13/02/2026
-- 🔭 [App TPBank và câu chuyện giao dịch số giàu cảm xúc mùa Tết](https://nld.com.vn/app-tpbank-va-cau-chuyen-giao-dich-so-giau-cam-xuc-mua-tet-196260213173542842.htm) - 10:50 13/02/2026
-- 👍 [TPHCM: Cùng một chuỗi chứng cứ, hai lần tòa xử trái ngược nhau](https://nld.com.vn/tphcm-cung-mot-chuoi-chung-cu-hai-lan-toa-xu-trai-nguoc-nhau-196260213173155056.htm) - 10:49 13/02/2026
-- ⛽️ [Bộ ảnh “Chở Tết về nhà” chụp trong một buổi chiều gây bão mạng](https://nld.com.vn/bo-anh-cho-tet-ve-nha-chup-trong-mot-buoi-chieu-gay-bao-mang-196260213172603951.htm) - 10:45 13/02/2026
-- 🥸 [Hàng ngàn người &quot;sập bẫy&quot; đường dây lừa đảo hơn 2.500 tỉ đồng](https://nld.com.vn/hang-ngan-nguoi-sap-bay-duong-day-lua-dao-hon-2500-ti-dong-196260213171703077.htm) - 10:35 13/02/2026
-- 🌁 [Con trai hiến gan, giành lại sự sống cho mẹ trong giờ phút nguy kịch](https://nld.com.vn/con-trai-hien-gan-gianh-lai-su-song-cho-me-trong-gio-phut-nguy-kich-196260213165553374.htm) - 10:19 13/02/2026
-- 🌮 [Kiểm tra khách sạn ở trung tâm TPHCM, phát hiện 5 người liên quan ma tuý](https://nld.com.vn/kiem-tra-khach-san-o-trung-tam-tphcm-phat-hien-5-nguoi-lien-quan-ma-tuy-196260213170356518.htm) - 10:15 13/02/2026
-- 🎉 [Cao điểm Tết Bính Ngọ: Bến xe Miền Tây đón lượng khách kỷ lục, Miền Đông mới &quot;cháy vé&quot; giờ vàng](https://nld.com.vn/cao-diem-tet-binh-ngo-ben-xe-mien-tay-don-luong-khach-ky-luc-mien-dong-moi-chay-ve-gio-vang-196260213165259086.htm) - 10:14 13/02/2026
-- 🤔 [Kết quả xổ số miền Bắc, xổ số miền Trung hôm nay, 13-2: Gia Lai, Ninh Thuận, Hải Phòng](https://nld.com.vn/ket-qua-xo-so-mien-bac-xo-so-mien-trung-hom-nay-13-2-gia-lai-ninh-thuan-hai-phong-196260213130334058.htm) - 10:00 13/02/2026
-- 🐘 [Một hội chợ Tết &quot;hút&quot; nửa triệu lượt khách, bán ra cả tấn giò chả](https://nld.com.vn/mot-hoi-cho-tet-hut-nua-trieu-luot-khach-ban-ra-ca-tan-gio-cha-196260213142351863.htm) - 09:45 13/02/2026
-- 🙉 [Người phụ nữ bị lừa 82 tỉ đồng khi mua vàng trực tuyến](https://nld.com.vn/nguoi-phu-nu-bi-lua-82-ti-dong-khi-mua-vang-truc-tuyen-196260213152331418.htm) - 09:44 13/02/2026
-- 🐵 [Doanh nhân Lê Thùy: &quot;Bền vững không chỉ là lợi nhuận, mà là giá trị để lại cho cộng đồng&quot;](https://phunu.nld.com.vn/doanh-nhan-le-thuy-ben-vung-khong-chi-la-loi-nhuan-ma-la-gia-tri-de-lai-cho-cong-dong-196260213142056286.htm) - 09:24 13/02/2026
-- 🙉 [EVNSPC đã chuẩn bị kỹ phương án bảo đảm điện dịp Tết Nguyên đán 2026](https://nld.com.vn/evnspc-da-chuan-bi-ky-phuong-an-bao-dam-dien-dip-tet-nguyen-dan-2026-196260213141423722.htm) - 09:16 13/02/2026
-- 💪 [Ấn Độ: Điều dưỡng tử vong sau khi nhiễm virus Nipah](https://nld.com.vn/an-do-dieu-duong-tu-vong-sau-khi-nhiem-virus-nipah-196260213155417726.htm) - 09:08 13/02/2026
-- ⛽️ [Vì sao một ngân hàng lớn thông báo tạm ngừng cho vay dự án bất động sản?](https://nld.com.vn/vi-sao-mot-ngan-hang-lon-thong-bao-tam-ngung-cho-vay-du-an-bat-dong-san-196260213150927156.htm) - 08:51 13/02/2026
-- 👺 [Xổ số miền Nam: Chiều 13-2, lộ diện người trúng độc đắc 2 đài](https://nld.com.vn/xo-so-mien-nam-chieu-13-2-lo-dien-nguoi-trung-doc-dac-2-dai-196260213153933618.htm) - 08:49 13/02/2026
-- 🧠 [Nhóm VSTAR tạo ấn tượng ở &quot;Rực rỡ bến ngọc thuyền hoa&quot;](https://nld.com.vn/nhom-vstar-tao-an-tuong-o-ruc-ro-ben-ngoc-thuyen-hoa-196260213150004057.htm) - 08:33 13/02/2026
-- 🔭 [Tưởng đau dạ dày, ngờ đâu khối u to bằng quả trứng ở vị trí hiểm](https://nld.com.vn/tuong-dau-da-day-ngo-dau-khoi-u-to-bang-qua-trung-o-vi-tri-hiem-196260213143506464.htm) - 08:25 13/02/2026
-- 🦣 [Sau khi đòi bỏ trực Tết, hàng trăm nhân viên y tế ở Cà Mau được chi trả tiền nợ lương](https://nld.com.vn/sau-khi-doi-bo-truc-tet-hang-tram-nhan-vien-y-te-o-ca-mau-duoc-chi-tra-tien-no-luong-196260213144941499.htm) - 08:11 13/02/2026
-- 🔥 [Lái xe sau khi ăn nhậu, tông tử vong chủ tịch xã, nữ tài xế lãnh án](https://nld.com.vn/lai-xe-sau-khi-an-nhau-tong-tu-vong-chu-tich-xa-nu-tai-xe-lanh-an-196260213142653666.htm) - 08:11 13/02/2026
-- 🌝 [Doanh nhân Nguyễn Thị Ngọc Trinh diện áo dài gửi lời chúc Tết Bính Ngọ](https://phunu.nld.com.vn/doanh-nhan-nguyen-thi-ngoc-trinh-dien-ao-dai-gui-loi-chuc-tet-binh-ngo-196260213141514786.htm) - 08:04 13/02/2026
-- 👍 [VIDEO: Ký ức Tết xưa ùa về ở chợ quê giữa phố](https://nld.com.vn/video-ky-uc-tet-xua-ua-ve-o-cho-que-giua-pho-19626021315000885.htm) - 08:02 13/02/2026
-- 💂 [Truyền thông Mỹ: Tàu sân bay lớn nhất thế giới nhận lệnh đến Trung Đông](https://nld.com.vn/truyen-thong-my-tau-san-bay-lon-nhat-the-gioi-nhan-lenh-den-trung-dong-196260213141144272.htm) - 08:00 13/02/2026
-- 🤖 [Bệnh viện miễn phí khám hiếm muộn, tặng voucher hỗ trợ IVF](https://phunu.nld.com.vn/benh-vien-mien-phi-kham-hiem-muon-tang-voucher-ho-tro-ivf-19626021314113783.htm) - 08:00 13/02/2026<!-- nld:END -->
+- 🐎 [Tiền không thể ngủ yên dịp Tết - Techcombank Sinh Lời Tự Động giúp tối ưu tới 5,5%/năm](https://nld.com.vn/tien-khong-the-ngu-yen-dip-tet-techcombank-sinh-loi-tu-dong-giup-toi-uu-toi-55-nam-196260213174310772.htm) - 02:51 14/02/2026
+- 😺 [Khởi tố người đàn ông sản xuất giò chả chứa hóa chất độc hại](https://nld.com.vn/khoi-to-nguoi-dan-ong-san-xuat-gio-cha-chua-hoa-chat-doc-hai-196260214073827461.htm) - 02:48 14/02/2026
+- 👍 [Các triển lãm mở cửa dịp Tết Bính Ngọ 2026](https://nld.com.vn/cac-trien-lam-mo-cua-dip-tet-binh-ngo-2026-196260213135937094.htm) - 02:48 14/02/2026
+- 🥷 [2 điểm du lịch nổi tiếng ở Thanh Hóa miễn phí vé tham quan Tết 2026](https://nld.com.vn/2-diem-du-lich-noi-tieng-o-thanh-hoa-mien-phi-ve-tham-quan-tet-2026-196260214090100295.htm) - 02:47 14/02/2026
+- 🤔 [Bộ trưởng Nguyễn Văn Thắng: Tiết kiệm chi từ đầu năm, dành nguồn lực đầu tư hạ tầng trọng điểm](https://nld.com.vn/bo-truong-nguyen-van-thang-tiet-kiem-chi-tu-dau-nam-danh-nguon-luc-dau-tu-ha-tang-trong-diem-19626021408362434.htm) - 02:46 14/02/2026
+- 🌈 [Cuộc thi &quot;Tết xanh&quot;: Trân trọng từng hạt gạo, ngọn rau](https://nld.com.vn/cuoc-thi-tet-xanh-tran-trong-tung-hat-gao-ngon-rau-196260214093325299.htm) - 02:33 14/02/2026
+- 🔥 [Tết hồi đó, 40 năm trước](https://nld.com.vn/tet-hoi-do-40-nam-truoc-196260210103416519.htm) - 02:32 14/02/2026
+- 🧰 [Đồng Nai công bố số điện thoại nhận phản ánh việc đi lại của người dân dịp Tết](https://nld.com.vn/dong-nai-cong-bo-so-dien-thoai-nhan-phan-anh-viec-di-lai-cua-nguoi-dan-dip-tet-196260214090545485.htm) - 02:31 14/02/2026
+- 🤗 [Ngân hàng cảnh báo thủ đoạn lừa đảo mới tinh vi dịp Tết](https://nld.com.vn/ngan-hang-canh-bao-thu-doan-lua-dao-moi-tinh-vi-dip-tet-196260214084111456.htm) - 02:30 14/02/2026
+- 🦅 [Còn hoài sân bóng tuổi thơ](https://nld.com.vn/con-hoai-san-bong-tuoi-tho-196260213101924348.htm) - 02:26 14/02/2026
+- 🤩 [Hoàng Hên: Cầu thủ ăn chay, chờ ngày tái hợp Xuân Son trên tuyển Việt Nam](https://nld.com.vn/hoang-hen-cau-thu-an-chay-cho-ngay-tai-hop-xuan-son-tren-tuyen-viet-nam-196260214013412421.htm) - 01:59 14/02/2026
+- 🎭 [Sterling được chào đón như “hoàng tử” tại Hà Lan](https://nld.com.vn/sterling-duoc-chao-don-nhu-hoang-tu-tai-ha-lan-196260214083240042.htm) - 01:46 14/02/2026
+- 💄 [Tết cẩn thận với “bà hoả”](https://nld.com.vn/tet-can-than-voi-ba-hoa-196260213160201196.htm) - 01:45 14/02/2026
+- 🎊 [Cận cảnh những “tuyệt tác bạc tỉ” hội tụ tại thủ phủ mai vàng miền Trung](https://nld.com.vn/can-canh-nhung-tuyet-tac-bac-ti-hoi-tu-tai-thu-phu-mai-vang-mien-trung-196260214040706337.htm) - 01:33 14/02/2026
+- 🎡 [Hình ảnh ấm áp những ngày cuối năm tại doanh nghiệp](https://nld.com.vn/hinh-anh-am-ap-nhung-ngay-cuoi-nam-tai-doanh-nghiep-196260213154551944.htm) - 01:30 14/02/2026
+- 🎉 [Ông Donald Trump lại bình luận nóng về Iran](https://nld.com.vn/ong-donald-trump-lai-binh-luan-nong-ve-iran-196260214072843653.htm) - 01:21 14/02/2026
+- 😺 [Sắc xuân rạng rỡ trong những hội chợ Tết Việt nơi xứ người](https://nld.com.vn/sac-xuan-rang-ro-trong-nhung-hoi-cho-tet-viet-noi-xu-nguoi-19626021222562071.htm) - 01:19 14/02/2026
+- 🐻 [Phát hiện gần 100 xe khách vi phạm tốc độ trên cao tốc từ TPHCM đến Nha Trang](https://nld.com.vn/phat-hien-gan-100-xe-khach-vi-pham-toc-do-tren-cao-toc-tu-tphcm-den-nha-trang-196260214054738517.htm) - 01:16 14/02/2026
+- 🤡 [Giá cà phê hôm nay 14-2: Chốt tuần tăng tiếp](https://nld.com.vn/gia-ca-phe-hom-nay-14-2-chot-tuan-tang-tiep-196260214075703833.htm) - 01:14 14/02/2026
+- 🚦 [Đổi mới sáng tạo là động lực trung tâm của chiến lược phát triển](https://nld.com.vn/doi-moi-sang-tao-la-dong-luc-trung-tam-cua-chien-luoc-phat-trien-196260214075509117.htm) - 01:14 14/02/2026
+- 🪜 [Hòa Minzy: 12 năm bền bỉ để chạm tới &quot;mùa vàng&quot; thành tích](https://nld.com.vn/hoa-minzy-12-nam-ben-bi-de-cham-toi-mua-vang-thanh-tich-196260214072842833.htm) - 01:13 14/02/2026
+- 💫 [Bỏ 2 tỉ đồng mua 2 con hổ về nấu cao](https://nld.com.vn/bo-2-ti-dong-mua-2-con-ho-ve-nau-cao-196260213231702579.htm) - 01:13 14/02/2026
+- 🔭 [Khởi tố vụ “phù phép” mật ong nuôi thành mật ong rừng để trục lợi](https://nld.com.vn/khoi-to-vu-phu-phep-mat-ong-nuoi-thanh-mat-ong-rung-de-truc-loi-196260214041506242.htm) - 01:12 14/02/2026
+- 🌝 [Đoàn Thiên Ân trao tình &quot;anh thợ điện&quot;](https://nld.com.vn/doan-thien-an-trao-tinh-anh-tho-dien-196260214074108635.htm) - 01:11 14/02/2026
+- 💪 [Xe khách 45 chỗ &quot;nhồi nhét&quot; 83 người](https://nld.com.vn/xe-khach-45-cho-nhoi-nhet-83-nguoi-196260214074752715.htm) - 01:09 14/02/2026
+- 🦍 [Tiếng cười ngày xuân: Chuyện đời nghệ sĩ hài là chất liệu sáng tạo thanh xuân](https://nld.com.vn/tieng-cuoi-ngay-xuan-chuyen-doi-nghe-si-hai-la-chat-lieu-sang-tao-thanh-xuan-196260214064326566.htm) - 01:09 14/02/2026
+- 🥷 [VIDEO: Siêu thị đông nghẹt, ngàn người đổ về sắm Tết](https://nld.com.vn/video-sieu-thi-dong-nghet-ngan-nguoi-do-ve-sam-tet-196260214074638506.htm) - 01:01 14/02/2026
+- 🫶 [HTV mang &quot;Mùa xuân của yêu thương&quot; đến từng mái nhà](https://nld.com.vn/htv-mang-mua-xuan-cua-yeu-thuong-den-tung-mai-nha-196260214071442291.htm) - 01:01 14/02/2026
+- 🐻 [Pedro Neto lập hat-trick, Chelsea vùi dập Hull City tại FA Cup](https://nld.com.vn/pedro-neto-lap-hat-trick-chelsea-vui-dap-hull-city-tai-fa-cup-196260214075223994.htm) - 00:53 14/02/2026
+- 🐲 [Grab là ứng dụng dẫn đầu thị trường gọi xe và giao đồ ăn trong quý IV/2025](https://phunu.nld.com.vn/grab-la-ung-dung-dan-dau-thi-truong-goi-xe-va-giao-do-an-trong-quy-iv-2025-196260213234835687.htm) - 00:45 14/02/2026
+- 🧑‍💻 [Trồng 346 cây thuốc phiện làm thuốc “chữa bệnh cho lợn, gà”](https://nld.com.vn/trong-346-cay-thuoc-phien-lam-thuoc-chua-benh-cho-lon-ga-196260214071829891.htm) - 00:38 14/02/2026
+- 🎬 [Trang hoàng Tết: Ít đồ, có gu](https://nld.com.vn/trang-hoang-tet-it-do-co-gu-196260212122137857.htm) - 00:34 14/02/2026
+- 👀 [Làng hoa Tết vào xuân](https://nld.com.vn/lang-hoa-tet-vao-xuan-196260211080320764.htm) - 00:09 14/02/2026
+- 👍 [Giá vàng hôm nay 14-2: Tăng mạnh trở lại](https://nld.com.vn/gia-vang-hom-nay-14-2-tang-manh-tro-lai-196260214063751335.htm) - 00:06 14/02/2026
+- 🦅 [Điểm nóng xung đột ngày 14-12: Iran bít lối vào khu hạt nhân, triển khai hệ thống Tirada-2S](https://nld.com.vn/diem-nong-xung-dot-ngay-14-12-iran-bit-loi-vao-khu-hat-nhan-trien-khai-he-thong-tirada-2s-196260213110503142.htm) - 00:03 14/02/2026
+- 🦏 [Chelsea bỏ lỡ 2 pha bóng “khó tin nhất mùa”](https://nld.com.vn/chelsea-bo-lo-2-pha-bong-kho-tin-nhat-mua-196260214064107052.htm) - 23:42 13/02/2026
+- 🗽 [Lộ diện những con giáp thăng tiến rực rỡ nhất năm 2026](https://nld.com.vn/lo-dien-nhung-con-giap-thang-tien-ruc-ro-nhat-nam-2026-196260202210946742.htm) - 23:03 13/02/2026
+- 🔭 [Tổng Bí thư Tô Lâm: Việt Nam luôn coi Mỹ là một trong những đối tác quan trọng hàng đầu](https://nld.com.vn/tong-bi-thu-to-lam-viet-nam-luon-coi-my-la-mot-trong-nhung-doi-tac-quan-trong-hang-dau-196260213231100781.htm) - 23:00 13/02/2026
+- 👍 [Trấn Thành, Văn Mai Hương… an ủi khi Thu Trang thất bại doanh thu!](https://nld.com.vn/tran-thanh-van-mai-huong-an-ui-khi-thu-trang-that-bai-doanh-thu-196260213203533658.htm) - 17:05 13/02/2026
+- ⛽️ [Thanh tra Chính phủ phát hiện một số vi phạm trong phát hành trái phiếu doanh nghiệp riêng lẻ](https://nld.com.vn/thanh-tra-chinh-phu-phat-hien-mot-so-vi-pham-trong-phat-hanh-trai-phieu-doanh-nghiep-rieng-le-196260213224120855.htm) - 15:57 13/02/2026
+- 🥸 [Một cựu Phó Trưởng phòng Tài nguyên và môi trường bị khởi tố](https://nld.com.vn/mot-cuu-pho-truong-phong-tai-nguyen-va-moi-truong-bi-khoi-to-196260213222607351.htm) - 15:39 13/02/2026
+- 🌁 [Nghị lực và tình yêu phi thường ở &quot;Trạm yêu thương&quot;](https://nld.com.vn/nghi-luc-va-tinh-yeu-phi-thuong-o-tram-yeu-thuong-196260213192351054.htm) - 15:36 13/02/2026
+- 🌮 [Ban Bí thư yêu cầu kiểm tra, đôn đốc việc trả lương, thưởng Tết kịp thời](https://nld.com.vn/ban-bi-thu-yeu-cau-kiem-tra-don-doc-viec-tra-luong-thuong-tet-kip-thoi-196260213222137814.htm) - 15:25 13/02/2026
+- 🎉 [Thắp ngọn lửa tri ân từ quê hương Đất Đỏ](https://nld.com.vn/thap-ngon-lua-tri-an-tu-que-huong-dat-do-196260213215603413.htm) - 15:18 13/02/2026
+- 🤔 [Trước Tết, 8 lãnh đạo Eximbank từ nhiệm](https://nld.com.vn/truoc-tet-8-lanh-dao-eximbank-tu-nhiem-196260213215945799.htm) - 15:09 13/02/2026
+- 🐘 [Thủ tướng: Biến những &quot;cơ hội mùa Xuân&quot; thành &quot;thắng lợi của cả năm&quot;](https://nld.com.vn/thu-tuong-bien-nhung-co-hoi-mua-xuan-thanh-thang-loi-cua-ca-nam-196260213213801386.htm) - 15:09 13/02/2026
+- 🙉 [VIDEO: Valentine vào sát Tết, nhiều sạp hoa ở TPHCM đìu hiu](https://nld.com.vn/video-valentine-vao-sat-tet-nhieu-sap-hoa-o-tphcm-diu-hiu-196260213205441537.htm) - 15:08 13/02/2026
+- 🐵 [Ủy ban Thường vụ Quốc hội phê chuẩn nhân sự của TPHCM, Cao Bằng, Quảng Trị](https://nld.com.vn/uy-ban-thuong-vu-quoc-hoi-phe-chuan-nhan-su-cua-tphcm-cao-bang-quang-tri-196260213214033035.htm) - 15:06 13/02/2026
+- 🙉 [&quot;Biển người&quot; trở về miền Tây đón Tết](https://nld.com.vn/bien-nguoi-tro-ve-mien-tay-don-tet-196260213211555049.htm) - 15:01 13/02/2026
+- 💪 [VietinBank và những công trình từ trái tim](https://thitruong.nld.com.vn/vietinbank-va-nhung-cong-trinh-tu-trai-tim-196260213185540417.htm) - 14:38 13/02/2026
+- ⛽️ [Vinasun đồng hành cùng Hội hoa xuân Phú Mỹ Hưng Tết Bính Ngọ](https://thitruong.nld.com.vn/vinasun-dong-hanh-cung-hoi-hoa-xuan-phu-my-hung-tet-binh-ngo-196260213190331477.htm) - 14:37 13/02/2026
+- 👺 [Linh vật Ngựa cao 4,5m thu hút du khách tại Đường hoa Phú Mỹ Hưng](https://thitruong.nld.com.vn/linh-vat-ngua-cao-45m-thu-hut-du-khach-tai-duong-hoa-phu-my-hung-196260213192147363.htm) - 14:36 13/02/2026
+- 🧠 [Doanh nhân Ngô Thị Kim Chi: &quot;Bản lĩnh và giá trị nền móng để doanh nghiệp đi đường dài&quot;](https://diaoc.nld.com.vn/doanh-nhan-ngo-thi-kim-chi-ban-linh-va-gia-tri-nen-mong-de-doanh-nghiep-di-duong-dai-196260213161704818.htm) - 14:24 13/02/2026
+- 🔭 [Lý do nhiều nhân viên y tế tại Cà Mau đòi bỏ trực Tết](https://nld.com.vn/podcast/ly-do-nhieu-nhan-vien-y-te-tai-ca-mau-doi-bo-truc-tet-196260213111547172.htm) - 14:07 13/02/2026
+- 🦣 [Thị trường tiền số hôm nay, 13-2: Bitcoin có nguy cơ trượt sâu về 58.000 USD?](https://nld.com.vn/thi-truong-tien-so-hom-nay-13-2-bitcoin-co-nguy-co-truot-sau-ve-58000-usd-196260213203056543.htm) - 13:41 13/02/2026
+- 🔥 [Trường Giang &quot;đau đầu&quot; khi muốn có kỷ niệm với dàn anh em nổi tiếng](https://nld.com.vn/truong-giang-dau-dau-khi-muon-co-ky-niem-voi-dan-anh-em-noi-tieng-196260213194036119.htm) - 13:27 13/02/2026
+- 🌝 [Phó Chủ tịch UBND TPHCM thị sát Đường hoa Nguyễn Huệ trước giờ G](https://nld.com.vn/pho-chu-tich-ubnd-tphcm-thi-sat-duong-hoa-nguyen-hue-truoc-gio-g-196260213200448653.htm) - 13:23 13/02/2026
+- 👍 [Phía sau tin báo 2 mẹ con bị bắt cóc gửi Công an Gia Lai lúc rạng sáng](https://nld.com.vn/phia-sau-tin-bao-2-me-con-bi-bat-coc-gui-cong-an-gia-lai-luc-rang-sang-196260213200521955.htm) - 13:18 13/02/2026
+- 💂 [Bảo vệ chặn đầu xe, đe dọa tài xế ô tô ở TPHCM đã đến trụ sở công an](https://nld.com.vn/bao-ve-chan-dau-xe-de-doa-tai-xe-o-to-o-tphcm-da-den-tru-so-cong-an-196260213191836396.htm) - 13:03 13/02/2026
+- 🤖 [Virus Nipah tử vong tới 75%: Hướng dẫn điều trị mới nhất](https://nld.com.vn/virus-nipah-tu-vong-toi-75-huong-dan-dieu-tri-moi-nhat-196260213194255433.htm) - 13:02 13/02/2026<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
