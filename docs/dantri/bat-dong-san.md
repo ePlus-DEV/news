@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Sau báo lãi kỷ lục, Vinaconex có tân Chủ tịch Hội đồng quản trị](https://dantri.com.vn/kinh-doanh/sau-bao-lai-ky-luc-vinaconex-co-tan-chu-tich-hoi-dong-quan-tri-20260214133400402.htm) - 07:46 14/02/2026
+- 🌏 [Sau báo lãi kỷ lục, Vinaconex có tân chủ tịch Hội đồng quản trị](https://dantri.com.vn/kinh-doanh/sau-bao-lai-ky-luc-vinaconex-co-tan-chu-tich-hoi-dong-quan-tri-20260214133400402.htm) - 07:46 14/02/2026
 - 👹 [Hà Nội di dời 860.000 dân: Đất khu nào tăng giá mạnh?](https://dantri.com.vn/bat-dong-san/ha-noi-di-doi-860000-dan-dat-khu-nao-tang-gia-manh-20260213075722794.htm) - 22:40 13/02/2026
 - 💡 [Villa khối đế: Phong cách sống sang cho giới tinh hoa](https://dantri.com.vn/bat-dong-san/villa-khoi-de-phong-cach-song-sang-cho-gioi-tinh-hoa-20260212185104470.htm) - 01:00 13/02/2026
 - 🌋 [Đề xuất ghi nợ tiền sử dụng đất trên sổ đỏ: Bộ Tài chính nói gì?](https://dantri.com.vn/bat-dong-san/de-xuat-ghi-no-tien-su-dung-dat-tren-so-do-bo-tai-chinh-noi-gi-20260212191928451.htm) - 00:00 13/02/2026
