@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦆 [Dân đổ xô đi mua vàng những ngày sát Tết, chấp nhận cầm giấy hẹn 3 tháng](https://dantri.com.vn/kinh-doanh/dan-do-xo-di-mua-vang-nhung-ngay-sat-tet-chap-nhan-cam-giay-hen-3-thang-20260214161244856.htm) - 10:02 14/02/2026
 - 🦄 [Người có thu nhập 2 nơi quyết toán thuế theo quy định mới từ hôm nay](https://dantri.com.vn/kinh-doanh/nguoi-co-thu-nhap-2-noi-quyet-toan-thue-theo-quy-dinh-moi-tu-hom-nay-20260214131046586.htm) - 09:02 14/02/2026
 - 🌝 [PNJ bị xử phạt, truy thu thuế hơn 5 tỷ đồng](https://dantri.com.vn/kinh-doanh/pnj-bi-xu-phat-truy-thu-thue-hon-5-ty-dong-20260214132501186.htm) - 08:08 14/02/2026
-- 💃 [Sau báo lãi kỷ lục, Vinaconex có tân chủ tịch Hội đồng quản trị](https://dantri.com.vn/kinh-doanh/sau-bao-lai-ky-luc-vinaconex-co-tan-chu-tich-hoi-dong-quan-tri-20260214133400402.htm) - 07:46 14/02/2026
+- 💃 [Sau báo lãi kỷ lục, Vinaconex có tân Chủ tịch Hội đồng quản trị](https://dantri.com.vn/kinh-doanh/sau-bao-lai-ky-luc-vinaconex-co-tan-chu-tich-hoi-dong-quan-tri-20260214133400402.htm) - 07:46 14/02/2026
 - 🦏 [Vàng trong nước tăng 2 triệu đồng/lượng, dự báo giá trong Tết ra sao?](https://dantri.com.vn/kinh-doanh/vang-trong-nuoc-tang-2-trieu-dongluong-du-bao-gia-trong-tet-ra-sao-20260214131458331.htm) - 07:12 14/02/2026
 - 🦩 [Ông Trịnh Văn Quyết tái xuất: Bamboo Airways muốn thuê loạt Boeing 737 Max](https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-tai-xuat-bamboo-airways-muon-thue-loat-boeing-737-max-20260214095944847.htm) - 05:08 14/02/2026
 - 💡 [Nửa thế kỷ dồn nén: Cơn địa chấn vàng và bạc lập đỉnh lịch sử 2026](https://dantri.com.vn/kinh-doanh/nua-the-ky-don-nen-con-dia-chan-vang-va-bac-lap-dinh-lich-su-2026-20260213085029209.htm) - 04:42 14/02/2026
