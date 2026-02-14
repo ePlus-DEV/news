@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Takashimaya sẽ mở trung tâm thương mại ở nơi giá đất đắt nhất Hà Nội](https://vnexpress.net/takashimaya-se-mo-trung-tam-thuong-mai-o-noi-gia-dat-dat-nhat-ha-noi-5041395.html) - 17:47 14/02/2026
 - 🐎 [Công ty liên quan ông Nguyễn Đức Thụy dự tính lãi kỷ lục](https://vnexpress.net/cong-ty-lien-quan-ong-nguyen-duc-thuy-du-tinh-lai-ky-luc-5041349.html) - 17:44 14/02/2026
 - 🦍 [Cặp du khách leo núi 12 tiếng để hẹn hò](https://vnexpress.net/cap-du-khach-leo-nui-12-tieng-de-hen-ho-5041204.html) - 17:22 14/02/2026
-- 🏊 [Sắc đỏ và hoa Tết rực rỡ trong nhà](https://vnexpress.net/sac-do-va-hoa-tet-ruc-ro-trong-nha-5040284.html) - 17:03 14/02/2026
+- 🏊 [Sắc đỏ và hoa Tết rực rỡ trong căn nhà Việt](https://vnexpress.net/sac-do-va-hoa-tet-ruc-ro-trong-can-nha-viet-5040284.html) - 17:03 14/02/2026
 - 🎊 [Có nên rửa trứng trước khi cất vào tủ lạnh?](https://vnexpress.net/co-nen-rua-trung-truoc-khi-cat-vao-tu-lanh-5014168.html) - 17:03 14/02/2026
 - 🎃 [Năm con giáp vượng tài từ trẻ đến già](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-nam-con-giap-vuong-tai-tu-tre-den-gia-5040971.html) - 17:02 14/02/2026
 - 🧰 [Ra đi sau bữa nhậu](https://vnexpress.net/ra-di-sau-bua-nhau-5041387.html) - 17:00 14/02/2026
@@ -56,5 +56,4 @@ sidebar_position: 9
 - 🦩 [Giải áp lực lì xì ngày Tết](https://vnexpress.net/giai-ap-luc-li-xi-ngay-tet-5041254.html) - 10:06 14/02/2026
 - 👍 [9 công ty Việt vào top 500 tốt nhất châu Á - Thái Bình Dương 2026](https://vnexpress.net/9-cong-ty-viet-vao-top-500-tot-nhat-chau-a-thai-binh-duong-2026-5041272.html) - 10:05 14/02/2026
 - 🔥 [Khu đô thị 12.000 tỷ đồng ở Tây Ninh tìm được chủ](https://vnexpress.net/khu-do-thi-12-000-ty-dong-o-tay-ninh-tim-duoc-chu-5041265.html) - 10:02 14/02/2026
-- 💄 [Valentine đắt đỏ hơn với các tình nhân Mỹ](https://vnexpress.net/valentine-dat-do-hon-voi-cac-tinh-nhan-my-5041255.html) - 10:01 14/02/2026
-- 🤡 [3 tiêu chuẩn chăm sóc răng của nha khoa Platinum Dental](https://vnexpress.net/3-tieu-chuan-cham-soc-rang-cua-nha-khoa-platinum-dental-5041270.html) - 10:00 14/02/2026<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Valentine đắt đỏ hơn với các tình nhân Mỹ](https://vnexpress.net/valentine-dat-do-hon-voi-cac-tinh-nhan-my-5041255.html) - 10:01 14/02/2026<!-- vnexpress-tin-moi-nhat:END -->
