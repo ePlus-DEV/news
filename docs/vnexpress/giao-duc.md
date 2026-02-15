@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Bộ Giáo dục chốt bỏ xét riêng học bạ, siết điểm cộng IELTS](https://vnexpress.net/quy-che-tuyen-sinh-dai-hoc-nam-2026-cua-bo-giao-duc-va-dao-tao-bo-xet-rieng-hoc-ba-siet-diem-cong-ielts-5041477.html) - 03:10 15/02/2026
-- 🦆 [Nam sinh thi vượt cấp, thành á khoa Tin học của Hà Nội](https://vnexpress.net/nam-sinh-thi-vuot-cap-thanh-a-khoa-tin-hoc-cua-ha-noi-5039738.html) - 01:46 15/02/2026
+- 🦆 [Nam sinh dùng AI học code, thành á khoa học sinh giỏi của Hà Nội](https://vnexpress.net/nam-sinh-dung-ai-hoc-code-thanh-a-khoa-hoc-sinh-gioi-cua-ha-noi-5039738.html) - 01:46 15/02/2026
 - 🦩 [Đại học Khoa học Tự nhiên TP HCM dự kiến xét kết hợp học bạ](https://vnexpress.net/dai-hoc-khoa-hoc-tu-nhien-tp-hcm-du-kien-xet-ket-hop-hoc-ba-5041143.html) - 23:46 14/02/2026
 - 🌮 [Lương gấp 2-4 lần, nhiều sinh viên không về quê đón Tết](https://vnexpress.net/luong-gap-2-4-lan-nhieu-sinh-vien-khong-ve-que-don-tet-5040025.html) - 23:23 14/02/2026
 - 🔭 [Hà Nội chi hơn 35 tỷ đồng &#39;ứng thưởng&#39; cho giáo viên ngày cận Tết](https://vnexpress.net/ha-noi-tam-ung-35-ty-dong-chi-thuong-nghi-dinh-73-cho-giao-vien-sat-tet-5041337.html) - 14:10 14/02/2026
