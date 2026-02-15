@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Săn đào nụ giá &#39;chát&#39; ngày cận Tết](https://vnexpress.net/san-dao-nu-gia-chat-ngay-can-tet-5041386.html) - 23:31 14/02/2026
-- 🎓 [Thần tượng nhầm nhân vật AI](https://vnexpress.net/than-tuong-nham-nhan-vat-ai-5040565.html) - 23:00 14/02/2026
+- 🚀 [&#39;Vỡ mộng&#39; vì thần tượng nhầm nhân vật AI](https://vnexpress.net/vo-mong-vi-than-tuong-nham-nhan-vat-ai-5040565.html) - 00:40 15/02/2026
+- 🎓 [Săn đào nụ giá &#39;chát&#39; ngày cận Tết](https://vnexpress.net/san-dao-nu-gia-chat-ngay-can-tet-5041386.html) - 23:31 14/02/2026
 - 🚦 [Bé gái 10 tuổi mua được 8 chỉ vàng từ tiền lì xì](https://vnexpress.net/be-gai-10-tuoi-mua-duoc-8-chi-vang-tu-tien-li-xi-5041396.html) - 22:32 14/02/2026
 - 🦣 [Long Châu chung tay hỗ trợ những hoàn cảnh khó khăn dịp Tết 2026](https://vnexpress.net/long-chau-chung-tay-ho-tro-nhung-hoan-canh-kho-khan-dip-tet-2026-5041314.html) - 12:00 14/02/2026
 - 🎓 [Valentine thời &#39;bão giá&#39;](https://vnexpress.net/valentine-thoi-bao-gia-5041212.html) - 11:50 14/02/2026
