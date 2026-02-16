@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Giao thừa giữa giá lạnh của du học sinh nghề ở Đức](https://vnexpress.net/giao-thua-giua-gia-lanh-cua-du-hoc-sinh-nghe-o-duc-5041890.html) - 17:15 16/02/2026
-- 🦆 [10 lời chúc Tết Bính Ngọ 2026 bằng tiếng Anh](https://vnexpress.net/nhung-loi-chuc-tet-binh-ngo-2026-bang-tieng-anh-y-nghia-5039711.html) - 15:00 16/02/2026
+- 🦆 [10 lời chúc Tết Bính Ngọ 2026 bằng tiếng Anh](https://vnexpress.net/nhung-loi-chuc-tet-2026-bang-tieng-anh-y-nghia-5039711.html) - 15:00 16/02/2026
 - 🦩 [Con rắn dài nhất thế giới dài bao nhiêu mét?](https://vnexpress.net/con-ran-dai-nhat-the-gioi-dai-bao-nhieu-met-5040518.html) - 13:00 16/02/2026
 - 🌮 [Đại học Ngoại ngữ giảm 18 tổ hợp, bỏ xét kết hợp IELTS](https://vnexpress.net/tuyen-sinh-dai-hoc-ngoai-ngu-ulis-2026-bo-xet-ket-hop-ielts-voi-hoc-ba-va-diem-thi-5041797.html) - 09:06 16/02/2026
 - 🔭 [Nữ sinh Việt nhận giải nghiên cứu xuất sắc về máy tính tại Mỹ](https://vnexpress.net/nu-sinh-viet-nhan-giai-nghien-cuu-xuat-sac-ve-may-tinh-tai-my-5041783.html) - 05:50 16/02/2026
