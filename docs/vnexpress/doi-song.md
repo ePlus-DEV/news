@@ -4,15 +4,15 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Mẹo bảo quản bánh chưng để 3 tháng vẫn ngon](https://vnexpress.net/meo-bao-quan-banh-chung-de-3-thang-van-ngon-5041568.html) - 09:00 16/02/2026
-- 🎓 [Đưa &#39;người yêu AI&#39; đi quán bar](https://vnexpress.net/dua-nguoi-yeu-ai-di-quan-bar-5041589.html) - 04:01 16/02/2026
-- 🚦 [&#39;Kiếp nạn&#39; từ những bộ móng diện Tết](https://vnexpress.net/kiep-nan-tu-nhung-bo-mong-dien-tet-5040957.html) - 02:00 16/02/2026
-- 🦣 [Làm mới ảnh kỷ niệm bằng công nghệ](https://vnexpress.net/lam-moi-anh-ky-niem-bang-cong-nghe-5041721.html) - 02:00 16/02/2026
-- 🎓 [Mâm cúng 30 món và &#39;cửa ải&#39; Tết Seollal của dâu Việt ở Hàn](https://vnexpress.net/mam-cung-30-mon-va-cua-ai-tet-seollal-cua-dau-viet-o-han-5010790.html) - 23:32 15/02/2026
-- 🎭 [Người trẻ Trung Quốc ăn &#39;Tết ảo&#39;](https://vnexpress.net/nguoi-tre-trung-quoc-an-tet-ao-5041572.html) - 23:15 15/02/2026
-- 🦅 [Ngày giờ tốt xuất hành, mở hàng năm Bính Ngọ 2026](https://vnexpress.net/ngay-gio-tot-xuat-hanh-mo-hang-nam-binh-ngo-2026-5009027.html) - 22:00 15/02/2026
-- 🎃 [Văn khấn và nghi thức cúng giao thừa năm Bính Ngọ 2026](https://vnexpress.net/van-khan-va-nghi-thuc-cung-giao-thua-nam-binh-ngo-2026-5008208.html) - 17:00 15/02/2026
-- 💪 [Tuổi đẹp xông đất năm Bính Ngọ 2026](https://vnexpress.net/tuoi-dep-xong-dat-nam-binh-ngo-2026-5008192.html) - 17:00 15/02/2026
+- 🚀 [Tuổi đẹp xông đất năm Bính Ngọ 2026](https://vnexpress.net/tuoi-dep-xong-dat-nam-binh-ngo-2026-5008192.html) - 10:56 16/02/2026
+- 🎓 [Văn khấn và nghi thức cúng giao thừa năm Bính Ngọ 2026](https://vnexpress.net/van-khan-va-nghi-thuc-cung-giao-thua-nam-binh-ngo-2026-5008208.html) - 10:56 16/02/2026
+- 🚦 [Mẹo bảo quản bánh chưng để 3 tháng vẫn ngon](https://vnexpress.net/meo-bao-quan-banh-chung-de-3-thang-van-ngon-5041568.html) - 09:00 16/02/2026
+- 🦣 [Đưa &#39;người yêu AI&#39; đi quán bar](https://vnexpress.net/dua-nguoi-yeu-ai-di-quan-bar-5041589.html) - 04:01 16/02/2026
+- 🎓 [&#39;Kiếp nạn&#39; từ những bộ móng diện Tết](https://vnexpress.net/kiep-nan-tu-nhung-bo-mong-dien-tet-5040957.html) - 02:00 16/02/2026
+- 🎭 [Làm mới ảnh kỷ niệm bằng công nghệ](https://vnexpress.net/lam-moi-anh-ky-niem-bang-cong-nghe-5041721.html) - 02:00 16/02/2026
+- 🦅 [Mâm cúng 30 món và &#39;cửa ải&#39; Tết Seollal của dâu Việt ở Hàn](https://vnexpress.net/mam-cung-30-mon-va-cua-ai-tet-seollal-cua-dau-viet-o-han-5010790.html) - 23:32 15/02/2026
+- 🎃 [Người trẻ Trung Quốc ăn &#39;Tết ảo&#39;](https://vnexpress.net/nguoi-tre-trung-quoc-an-tet-ao-5041572.html) - 23:15 15/02/2026
+- 💪 [Ngày giờ tốt xuất hành, mở hàng năm Bính Ngọ 2026](https://vnexpress.net/ngay-gio-tot-xuat-hanh-mo-hang-nam-binh-ngo-2026-5009027.html) - 22:00 15/02/2026
 - 🐻 [Nghệ thuật &#39;bán sơn, bán thủy&#39; trong cỗ Tết Hà Nội](https://vnexpress.net/nghe-thuat-ban-son-ban-thuy-trong-co-tet-ha-noi-5041564.html) - 08:49 15/02/2026
 - 🧠 [Xu hướng &#39;ông bà trực thăng&#39; của người Mỹ](https://vnexpress.net/xu-huong-ong-ba-truc-thang-cua-nguoi-my-5041288.html) - 08:39 15/02/2026
 - 🐘 [Giá hoa ly ngày giáp Tết tăng gấp 10](https://vnexpress.net/gia-hoa-ly-ngay-giap-tet-tang-gap-10-5041452.html) - 05:53 15/02/2026
