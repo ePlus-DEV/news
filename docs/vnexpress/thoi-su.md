@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Pháo hoa rực sáng chào xuân Bính Ngọ](https://vnexpress.net/phao-hoa-ruc-sang-chao-xuan-binh-ngo-5041871.html) - 18:38 16/02/2026
 - 🤓 [Chủ tịch nước Lương Cường chúc Tết Bính Ngọ 2026](https://vnexpress.net/chu-tich-nuoc-luong-cuong-chuc-tet-binh-ngo-2026-5041925.html) - 17:48 16/02/2026
 - ⚗️ [Thời tiết cả nước các ngày nghỉ Tết Bính Ngọ](https://vnexpress.net/thoi-tiet-ca-nuoc-cac-ngay-nghi-tet-binh-ngo-5041902.html) - 17:00 16/02/2026
-- 🌊 [22 Ủy viên Bộ Chính trị, Ban Bí thư ứng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/22-uy-vien-bo-chinh-tri-ban-bi-thu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5041643.html) - 17:00 16/02/2026
+- 🌊 [22 Ủy viên Bộ Chính trị, Ban Bí thư là ứng viên đại biểu Quốc hội khóa 16](https://vnexpress.net/22-uy-vien-bo-chinh-tri-ban-bi-thu-la-ung-vien-dai-bieu-quoc-hoi-khoa-16-5041643.html) - 17:00 16/02/2026
 - 🎓 [Nhà ba tầng ở TP HCM cháy ngùn ngụt đêm Giao thừa](https://vnexpress.net/nha-ba-tang-o-tp-hcm-chay-ngun-ngut-dem-giao-thua-5041909.html) - 15:42 16/02/2026
 - 🔥 [Ngư dân trúng đậm ruốc biển](https://vnexpress.net/ngu-dan-trung-dam-ruoc-bien-5041887.html) - 15:23 16/02/2026
 - 🦏 [Tổng Bí thư Tô Lâm thăm hỏi, mừng tuổi người dân Thủ đô](https://vnexpress.net/tong-bi-thu-to-lam-tham-hoi-mung-tuoi-nguoi-dan-thu-do-5041879.html) - 14:38 16/02/2026
