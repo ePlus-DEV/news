@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thế giới chuẩn bị đón Tết Bính Ngọ](https://vnexpress.net/the-gioi-chuan-bi-don-tet-binh-ngo-5041888.html) - 14:19 16/02/2026
+- 🎭 [Thế giới đón Tết Bính Ngọ](https://vnexpress.net/the-gioi-chuan-bi-don-tet-binh-ngo-5041888.html) - 14:19 16/02/2026
 - 🕴 [Ông Tập: Trung Quốc vượt nhiều khó khăn trong năm Ất Tỵ](https://vnexpress.net/ong-tap-trung-quoc-vuot-nhieu-kho-khan-trong-nam-at-ty-5041868.html) - 13:11 16/02/2026
 - 🤭 [Ông Obama đính chính tuyên bố &#39;người ngoài hành tinh có thật&#39;](https://vnexpress.net/ong-obama-dinh-chinh-tuyen-bo-nguoi-ngoai-hanh-tinh-co-that-5041853.html) - 12:39 16/02/2026
 - 🧑‍💻 [Cựu bộ trưởng năng lượng Ukraine bị điều tra rửa tiền](https://vnexpress.net/cuu-bo-truong-nang-luong-ukraine-bi-dieu-tra-rua-tien-5041837.html) - 10:41 16/02/2026
