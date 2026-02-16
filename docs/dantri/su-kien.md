@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Đêm giao thừa ngoài đường của chiến sĩ CSGT](https://dantri.com.vn/thoi-su/dem-giao-thua-ngoai-duong-cua-chien-si-csgt-20260216103616519.htm) - 11:00 16/02/2026
+- 🎭 [Dòng người ùn ùn đổ về trung tâm Hà Nội và TPHCM](https://dantri.com.vn/thoi-su/dong-nguoi-un-un-do-ve-trung-tam-ha-noi-va-tphcm-20260216103616519.htm) - 11:00 16/02/2026
 - 👨‍🏫 [Chiến sự Ukraine 16/2: Nga chính thức kiểm soát hoàn toàn Pokrovsk](https://dantri.com.vn/the-gioi/chien-su-ukraine-162-nga-chinh-thuc-kiem-soat-hoan-toan-pokrovsk-20260216105031324.htm) - 05:49 16/02/2026
 - 🌮 [Chơi bài ăn tiền cùng người thân dịp Tết có bị xử lý?](https://dantri.com.vn/ban-doc/choi-bai-an-tien-cung-nguoi-than-dip-tet-co-bi-xu-ly-20260215003723675.htm) - 05:04 16/02/2026
 - 🕯 [Những Ủy viên Bộ Chính trị ứng cử đại biểu Quốc hội khóa mới](https://dantri.com.vn/thoi-su/nhung-uy-vien-bo-chinh-tri-ung-cu-dai-bieu-quoc-hoi-khoa-moi-20260215234152572.htm) - 03:05 16/02/2026
