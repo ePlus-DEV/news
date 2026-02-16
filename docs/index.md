@@ -144,66 +144,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Nhà ba tầng ở TP.HCM cháy dữ dội đêm giao thừa](https://thanhnien.vn/nha-ba-tang-o-tphcm-chay-du-doi-dem-giao-thua-185260216231156554.htm) - 16:22 16/02/2026
-- 🥸 [Lãnh đạo tỉnh Lâm Đồng tặng quà tết công nhân vệ sinh trong đêm giao thừa](https://thanhnien.vn/lanh-dao-tinh-lam-dong-tang-qua-tet-cong-nhan-ve-sinh-trong-dem-giao-thua-185260216223052775.htm) - 16:05 16/02/2026
-- 🌁 [Chuyến tàu cuối cùng năm Ất Tỵ rời ga Hà Nội](https://thanhnien.vn/chuyen-tau-cuoi-cung-nam-at-ty-roi-ga-ha-noi-185260216221705572.htm) - 15:43 16/02/2026
-- 🤡 [Tổng Bí thư Tô Lâm: Hoan nghênh Hà Nội đã dám nhìn thẳng vào sự thật](https://thanhnien.vn/tong-bi-thu-to-lam-hoan-nghenh-ha-noi-da-dam-nhin-thang-vao-su-that-185260216221018642.htm) - 15:39 16/02/2026
-- 🎉 [Phó pháp chủ Giáo hội Phật giáo Việt Nam: An lạc, hòa hợp, đoàn kết để &#39;mã đáo thành công&#39;](https://thanhnien.vn/pho-phap-chu-giao-hoi-phat-giao-viet-nam-an-lac-hoa-hop-doan-ket-de-ma-dao-thanh-cong-185260216145359591.htm) - 15:25 16/02/2026
-- 🎊 [TP.HCM trước đêm giao thừa: Người dân gửi lời chào năm Bính Ngọ](https://thanhnien.vn/tphcm-truoc-dem-giao-thua-nguoi-dan-gui-loi-chao-nam-binh-ngo-185260216221231955.htm) - 15:19 16/02/2026
-- 🤠 [&#39;Biển người&#39; ở trung tâm TP.HCM chờ ngắm pháo hoa giao thừa Tết Bính Ngọ 2026](https://thanhnien.vn/bien-nguoi-o-trung-tam-tphcm-cho-ngam-phao-hoa-giao-thua-tet-binh-ngo-2026-185260216221136361.htm) - 15:14 16/02/2026
-- 💼 [Người dân đổ về hồ Hoàn Kiếm đợi pháo hoa đón giao thừa](https://thanhnien.vn/nguoi-dan-do-ve-ho-hoan-kiem-doi-phao-hoa-don-giao-thua-185260216215046591.htm) - 15:09 16/02/2026
-- 🐻 [Người dân xứ Huế du xuân sớm, rộn ràng sắc áo dài ngày cuối năm](https://thanhnien.vn/nguoi-dan-xu-hue-du-xuan-som-ron-rang-sac-ao-dai-ngay-cuoi-nam-185260216220647015.htm) - 15:08 16/02/2026
-- 🤔 [Tất niên đặc biệt ở nơi xa: Chờ ngày trở về đón tết đoàn viên](https://thanhnien.vn/tat-nien-dac-biet-o-noi-xa-cho-ngay-tro-ve-don-tet-doan-vien-185260216213839411.htm) - 15:01 16/02/2026
-- 📝 [Chợ hoa Mê Linh chiều 29 tết: 100 nghìn mua được 4 chậu hoa](https://thanhnien.vn/cho-hoa-me-linh-chieu-29-tet-100-nghin-mua-duoc-4-chau-hoa-185260216211301404.htm) - 14:48 16/02/2026
-- 🥰 [Bị bắt ngày 29 Tết vì tạt sơn nhà người yêu cũ](https://thanhnien.vn/bi-bat-ngay-29-tet-vi-tat-son-nha-nguoi-yeu-cu-185260216210820588.htm) - 14:48 16/02/2026
-- 🐲 [Tổng Bí thư Tô Lâm dâng hương tại tượng đài vua Lý Thái Tổ](https://thanhnien.vn/tong-bi-thu-to-lam-dang-huong-tai-tuong-dai-vua-ly-thai-to-185260216212219511.htm) - 14:46 16/02/2026
-- 🎃 [Nông dân Gia Lai hối hả tưới cà phê chạy tết trước mùa khô khắc nghiệt](https://thanhnien.vn/nong-dan-gia-lai-hoi-ha-tuoi-ca-phe-chay-tet-truoc-mua-kho-khac-nghiet-185260216150832664.htm) - 14:46 16/02/2026
-- 🎬 [Tết Việt giữa châu Phi khiến bạn bè quốc tế mê bánh chưng, thích hoa đào](https://thanhnien.vn/tet-viet-giua-chau-phi-khien-ban-be-quoc-te-me-banh-chung-thich-hoa-dao-185260216211014681.htm) - 14:43 16/02/2026
-- 🌜 [Đại tướng Phan Văn Giang: Sẵn sàng ứng phó thắng lợi các hình thái chiến tranh trong điều kiện mới](https://thanhnien.vn/dai-tuong-phan-van-giang-san-sang-ung-pho-thang-loi-cac-hinh-thai-chien-tranh-trong-dieu-kien-moi-185260216195745191.htm) - 14:36 16/02/2026
-- 🦆 [Phát hiện xác tàu hơi nước sau gần 60 năm tìm kiếm](https://thanhnien.vn/phat-hien-xac-tau-hoi-nuoc-sau-gan-60-nam-tim-kiem-185260216211144746.htm) - 14:32 16/02/2026
-- 🐵 [Những người lặng lẽ dọn rác trước giao thừa: &#39;Thấy phố sạch, chúng tôi ấm lòng&#39;](https://thanhnien.vn/nhung-nguoi-lang-le-don-rac-truoc-giao-thua-thay-pho-sach-chung-toi-am-long-185260216203857114.htm) - 14:25 16/02/2026
-- 🙉 [Đêm giao thừa, Binh đoàn 20 phát lệnh làm hàng đầu xuân Bính Ngọ tại Cảng Tân Cảng Cát Lái](https://thanhnien.vn/dem-giao-thua-binh-doan-20-phat-lenh-lam-hang-dau-xuan-binh-ngo-tai-cang-tan-cang-cat-lai-185260216173753293.htm) - 14:01 16/02/2026
-- 🌋 [Chọn trang phục chơi tết - phong cách Parisian chic là &#39;chuẩn bài&#39;](https://thanhnien.vn/thoi-trang-tre/chon-trang-phuc-choi-tet-phong-cach-parisian-chic-la-chuan-bai-185260216002339371.htm) - 14:00 16/02/2026
-- 🐻 [Xúc động câu chuyện nữ công nhân kể về nghề quét rác đường phố cuối năm](https://thanhnien.vn/xuc-dong-cau-chuyen-nu-cong-nhan-ke-ve-nghe-quet-rac-duong-pho-cuoi-nam-185260216203458894.htm) - 13:59 16/02/2026
-- 🧠 [Ngựa về với người từ khi nào?](https://thanhnien.vn/ngua-ve-voi-nguoi-tu-khi-nao-185260216170241994.htm) - 13:52 16/02/2026
-- 🔥 [Khách Tây đón giao thừa ở trung tâm TP.HCM, chúc mừng năm mới người Việt](https://thanhnien.vn/khach-tay-don-giao-thua-o-trung-tam-tphcm-chuc-mung-nam-moi-nguoi-viet-185260216204156488.htm) - 13:48 16/02/2026
-- 🌋 [Tháng cận Tết Nguyên đán 2026, vì sao thị trường ô tô vẫn sụt giảm?](https://thanhnien.vn/thang-can-tet-nguyen-dan-2026-vi-sao-thi-truong-o-to-van-sut-giam-18526021513452238.htm) - 13:45 16/02/2026
-- 😎 [Tháng đầu năm 2026, ô tô nhập từ Trung Quốc ồ ạt vào Việt Nam](https://thanhnien.vn/thang-dau-nam-2026-o-to-nhap-tu-trung-quoc-o-at-vao-viet-nam-185260214062722213.htm) - 13:43 16/02/2026
-- 🥰 [Sạp &#39;Minh Rau&#39; tặng rau miễn phí ngày cuối năm: &#39;Lấy nhiều về ăn tết cũng được&#39;](https://thanhnien.vn/sap-minh-rau-tang-rau-mien-phi-ngay-cuoi-nam-lay-nhieu-ve-an-tet-cung-duoc-185260216143946612.htm) - 13:30 16/02/2026
-- 🧑‍🏫 [Bất ngờ loại &#39;Wagyu thịt lợn&#39; lên ngôi tết này ở Trung Quốc](https://thanhnien.vn/bat-ngo-loai-wagyu-thit-lon-len-ngoi-tet-nay-o-trung-quoc-185260205231147323.htm) - 13:26 16/02/2026
-- 💄 [Mưu sinh ở Bến Bình Đông: Những chiếc ghe chở cả một cái tết](https://thanhnien.vn/muu-sinh-o-ben-binh-dong-nhung-chiec-ghe-cho-ca-mot-cai-tet-185260216202726922.htm) - 13:24 16/02/2026
-- 💯 [Bất ngờ những câu chuyện chân thành từ &#39;Tết cảm ơn&#39;](https://thanhnien.vn/bat-ngo-nhung-cau-chuyen-chan-thanh-tu-tet-cam-on-185260216202017019.htm) - 13:20 16/02/2026
-- 🚀 [TP.HCM giao thừa 29 tết: Đông nghẹt người dân, du khách đổ về đường hoa Nguyễn Huệ](https://thanhnien.vn/tphcm-giao-thua-29-tet-dong-nghet-nguoi-dan-du-khach-do-ve-duong-hoa-nguyen-hue-185260216194021816.htm) - 13:02 16/02/2026
-- 🦣 [Xem nhanh 20h 29 tết: Tiểu thương bán hoa quyết không để bị ép giá | Chuyến xe vội về giao thừa](https://thanhnien.vn/xem-nhanh-20h-29-tet-tieu-thuong-ban-hoa-quyet-khong-de-bi-ep-gia-chuyen-xe-voi-ve-giao-thua-185260216193802699.htm) - 13:00 16/02/2026
-- 👹 [Mùa xuân gõ cửa những căn nhà &#39;đặc biệt&#39; ở miền núi Quảng Trị](https://thanhnien.vn/mua-xuan-go-cua-nhung-can-nha-dac-biet-o-mien-nui-quang-tri-185260216173029497.htm) - 13:00 16/02/2026
-- 🦄 [Lời chào đầu năm qua những gam màu xuân nàng không thể thiếu](https://thanhnien.vn/thoi-trang-tre/loi-chao-dau-nam-qua-nhung-gam-mau-xuan-nang-khong-the-thieu-185260215143131601.htm) - 13:00 16/02/2026
-- 🤔 [T.Ư Đoàn thăm và động viên các đơn vị làm nhiệm vụ trực tết tại TP.HCM](https://thanhnien.vn/tu-doan-tham-va-dong-vien-cac-don-vi-lam-nhiem-vu-truc-tet-tai-tphcm-185260216194536997.htm) - 12:46 16/02/2026
-- 🧰 [29 tết: Mạng xã hội ngập cùng nhìn lại năm cũ, gửi gắm hy vọng năm mới](https://thanhnien.vn/29-tet-mang-xa-hoi-ngap-cung-nhin-lai-nam-cu-gui-gam-hy-vong-nam-moi-185260216173243095.htm) - 12:29 16/02/2026
-- 🌁 [Chuyện tử tế ngày 29 tết: Trả lại 80 triệu đồng cho người bán hoa](https://thanhnien.vn/chuyen-tu-te-ngay-29-tet-tra-lai-80-trieu-dong-cho-nguoi-ban-hoa-185260216183623706.htm) - 12:15 16/02/2026
-- 🧐 [Đào cổ Yên Bái “cháy hàng” giữa cao điểm chợ hoa Hà Nội](https://thanhnien.vn/dao-co-yen-bai-chay-hang-giua-cao-diem-cho-hoa-ha-noi-185260216185112244.htm) - 12:06 16/02/2026
-- 🌏 [Chiều 29 tết, cành đào tiền triệu thành củi khô, chất đống trên vỉa hè Hà Nội](https://thanhnien.vn/chieu-29-tet-canh-dao-tien-trieu-thanh-cui-kho-chat-dong-tren-via-he-ha-noi-185260216181303596.htm) - 12:02 16/02/2026
-- 🎬 [Vikki Bank trao giải 1 ký vàng và 10 giải thưởng khác trong chương trình tiết kiệm](https://thanhnien.vn/vikki-bank-trao-giai-1-ky-vang-va-10-giai-thuong-khac-trong-chuong-trinh-tiet-kiem-1852602161609434.htm) - 12:00 16/02/2026
-- 🚀 [Giải mã bí ẩn về &#39;hang ổ&#39; của những loài bọ cạp chết chóc](https://thanhnien.vn/giai-ma-bi-an-ve-hang-o-cua-nhung-loai-bo-cap-chet-choc-185260216101055764.htm) - 11:58 16/02/2026
-- 🙉 [Nóng: HLV Hứa Hiền Vinh cập bến CLB Becamex TP.HCM](https://thanhnien.vn/nong-hlv-hua-hien-vinh-cap-ben-clb-becamex-tphcm-185260216183450065.htm) - 11:48 16/02/2026
-- 🐵 [Công an TP.HCM bắt người tạt sơn nhà người yêu cũ trong đêm giao thừa](https://thanhnien.vn/cong-an-tphcm-bat-nguoi-tat-son-nha-nguoi-yeu-cu-trong-dem-giao-thua-185260216155208006.htm) - 11:45 16/02/2026
-- 🐎 [Chiều tối 29 tết: Ngay lúc này, dòng người đổ về trung tâm TP.HCM đón giao thừa](https://thanhnien.vn/chieu-toi-29-tet-ngay-luc-nay-dong-nguoi-do-ve-trung-tam-tphcm-don-giao-thua-185260216174812422.htm) - 11:24 16/02/2026
-- 🕯 [Chợ hoa ở Huế ngày 29 tết: &#39;Mừng quá, vừa hết để kịp về đón giao thừa&#39;](https://thanhnien.vn/cho-hoa-o-hue-ngay-29-tet-mung-qua-vua-het-de-kip-ve-don-giao-thua-185260216174348248.htm) - 11:23 16/02/2026
-- 👀 [Đón tết trên con đường ‘từng đau khổ’ Lò Lu: ‘Mừng lắm, ăn tết vui hơn’](https://thanhnien.vn/don-tet-tren-con-duong-tung-dau-kho-lo-lu-mung-lam-an-tet-vui-hon-185260216181234424.htm) - 11:17 16/02/2026
-- 🦒 [TP.HCM ngày 29 tết: Đi tìm bình yên sau những bộn bề, hối hả](https://thanhnien.vn/tphcm-ngay-29-tet-di-tim-binh-yen-sau-nhung-bon-be-hoi-ha-185260216154755036.htm) - 11:12 16/02/2026
-- 🧐 [Áo dài xanh dương và khả năng tôn da ấn tượng](https://thanhnien.vn/thoi-trang-tre/ao-dai-xanh-duong-va-kha-nang-ton-da-an-tuong-185260215141818578.htm) - 11:00 16/02/2026
-- 🌊 [Hoa hậu Yến Nhi sửa nhà cho ba mẹ ở quê](https://thanhnien.vn/hoa-hau-yen-nhi-sua-nha-cho-ba-me-o-que-18526021615405602.htm) - 10:59 16/02/2026
-- 🧑‍🏫 [Long Châu chân thành gửi trao tết ấm, tết khỏe mạnh đến bà con mọi miền](https://thanhnien.vn/long-chau-chan-thanh-gui-trao-tet-am-tet-khoe-manh-den-ba-con-moi-mien-185260216180927551.htm) - 10:53 16/02/2026
-- 🫣 [Chiều 29 tết, ngắm đường phố trung tâm TP.HCM trước thời khắc giao thừa Tết Bính Ngọ](https://thanhnien.vn/chieu-29-tet-ngam-duong-pho-trung-tam-tphcm-truoc-thoi-khac-giao-thua-tet-binh-ngo-185260216173015847.htm) - 10:43 16/02/2026
-- 👺 [Nhà đông người ngày tết, làm sao để mạng Wi-Fi không ì ạch?](https://thanhnien.vn/nha-dong-nguoi-ngay-tet-lam-sao-de-mang-wi-fi-khong-i-ach-185260216150558237.htm) - 10:30 16/02/2026
-- 🧑‍🏫 [Chiều muộn 29 tết, chợ hoa Gia Định xả lỗ: Nhiều khách vẫn chê giá cao](https://thanhnien.vn/chieu-muon-29-tet-cho-hoa-gia-dinh-xa-lo-nhieu-khach-van-che-gia-cao-185260216162559969.htm) - 10:28 16/02/2026
-- 🌊 [Tết nghĩa tình, xuân yêu thương trên khắp nẻo đường](https://thanhnien.vn/tet-nghia-tinh-xuan-yeu-thuong-tren-khap-neo-duong-185260216171023329.htm) - 10:25 16/02/2026
-- 🕯 [Mai nở sớm, nhà vườn buồn bã chờ xe đến chợ hoa tết Phú Quốc chở về](https://thanhnien.vn/mai-no-som-nha-vuon-buon-ba-cho-xe-den-cho-hoa-tet-phu-quoc-cho-ve-185260216151940312.htm) - 10:22 16/02/2026
-- 🐲 [Xổ số miền Nam ngày 16 tháng 2: Bất ngờ dãy số đài TP.HCM trúng 2 giải](https://thanhnien.vn/xo-so-mien-nam-ngay-16-thang-2-bat-ngo-day-so-dai-tphcm-trung-2-giai-185260216165855263.htm) - 10:20 16/02/2026
-- ⛽️ [Thủ tướng: Bệnh viện tuyến cuối phải là &#39;niềm hy vọng lớn nhất của người bệnh&#39;](https://thanhnien.vn/thu-tuong-benh-vien-tuyen-cuoi-phai-la-niem-hy-vong-lon-nhat-cua-nguoi-benh-185260216164701055.htm) - 10:17 16/02/2026
-- 🎉 [Nhóm 8 thanh thiếu niên chém, cướp tài sản của người đi đường khai gì?](https://thanhnien.vn/nhom-8-thanh-thieu-nien-chem-cuop-tai-san-cua-nguoi-di-duong-khai-gi-185260216163843348.htm) - 10:16 16/02/2026
-- 🎊 [Nhà ga T3 sân bay Tân Sơn Nhất thoáng đãng, khách thong thả lên máy bay trước giao thừa](https://thanhnien.vn/nha-ga-t3-san-bay-tan-son-nhat-thoang-dang-khach-thong-tha-len-may-bay-truoc-giao-thua-185260216165820475.htm) - 10:13 16/02/2026
-- 🥳 [Xe gầm cao nào bán chạy nhất Việt Nam tháng đầu năm 2026?](https://thanhnien.vn/xe-gam-cao-nao-ban-chay-nhat-viet-nam-thang-dau-nam-2026-185260214103851543.htm) - 10:10 16/02/2026
-- 🤡 [Khởi tố 10 bị can gây rối trật tự công cộng ở vùng nông thôn TP.Cần Thơ](https://thanhnien.vn/khoi-to-10-bi-can-gay-roi-trat-tu-cong-cong-o-vung-nong-thon-tpcan-tho-185260216155722394.htm) - 10:08 16/02/2026<!-- thanhnien:END -->
+- 🤠 [Chủ tịch và Tổng thư ký FIFA gửi quà đặc biệt đến Chủ tịch VFF Trần Quốc Tuấn: Chúc tết tài lộc…](https://thanhnien.vn/chu-tich-va-tong-thu-ky-fifa-gui-qua-dac-biet-den-chu-tich-vff-tran-quoc-tuan-chuc-tet-tai-loc-18526021614134943.htm) - 17:29 16/02/2026
+- 🥸 [Chủ tịch nước Lương Cường chúc tết Bính Ngọ 2026](https://thanhnien.vn/chu-tich-nuoc-luong-cuong-chuc-tet-binh-ngo-2026-185260216210456321.htm) - 17:28 16/02/2026
+- 🌁 [TP.HCM nhìn từ sông Sài Gòn - Kỳ 3: Cuộc đua của những tòa tháp chọc trời](https://thanhnien.vn/tphcm-nhin-tu-song-sai-gon-ky-3-cuoc-dua-cua-nhung-toa-thap-choc-troi-185260215100915483.htm) - 17:01 16/02/2026
+- 🤡 [HLV Kim Sang-sik và câu chuyện xúc động được kể trong ngày tết, nhớ vợ con và quê hương Hàn Quốc…](https://thanhnien.vn/hlv-kim-sang-sik-va-cau-chuyen-xuc-dong-duoc-ke-trong-ngay-tet-nho-vo-con-va-que-huong-han-quoc-185260215210044908.htm) - 17:00 16/02/2026
+- 🎉 [Đêm giao thừa 13 độ C, hàng ngàn người háo hức chờ pháo hoa ở Đà Lạt](https://thanhnien.vn/dem-giao-thua-13-do-c-hang-ngan-nguoi-hao-huc-cho-phao-hoa-o-da-lat-185260216232245562.htm) - 16:58 16/02/2026
+- 🎊 [Cà Mau giao thừa quảng trường chật kín người, pháo hoa thắp niềm tin năm mới](https://thanhnien.vn/ca-mau-giao-thua-quang-truong-chat-kin-nguoi-phao-hoa-thap-niem-tin-nam-moi-185260215151717462.htm) - 16:57 16/02/2026
+- 🤠 [Tranh luận chương trình thay thế &#39;Táo Quân&#39;: Kẻ chê nhạt, người kỳ vọng đổi mới](https://thanhnien.vn/tranh-luan-chuong-trinh-thay-the-tao-quan-ke-che-nhat-nguoi-ky-vong-doi-moi-185260216233045263.htm) - 16:51 16/02/2026
+- 💼 [Nhà ba tầng ở TP.HCM cháy dữ dội đêm giao thừa](https://thanhnien.vn/nha-ba-tang-o-tphcm-chay-du-doi-dem-giao-thua-185260216231156554.htm) - 16:22 16/02/2026
+- 🐻 [Lãnh đạo tỉnh Lâm Đồng tặng quà tết công nhân vệ sinh trong đêm giao thừa](https://thanhnien.vn/lanh-dao-tinh-lam-dong-tang-qua-tet-cong-nhan-ve-sinh-trong-dem-giao-thua-185260216223052775.htm) - 16:05 16/02/2026
+- 🤔 [Chuyến tàu cuối cùng năm Ất Tỵ rời ga Hà Nội](https://thanhnien.vn/chuyen-tau-cuoi-cung-nam-at-ty-roi-ga-ha-noi-185260216221705572.htm) - 15:43 16/02/2026
+- 📝 [Tổng Bí thư Tô Lâm: Hoan nghênh Hà Nội đã dám nhìn thẳng vào sự thật](https://thanhnien.vn/tong-bi-thu-to-lam-hoan-nghenh-ha-noi-da-dam-nhin-thang-vao-su-that-185260216221018642.htm) - 15:39 16/02/2026
+- 🥰 [Phó pháp chủ Giáo hội Phật giáo Việt Nam: An lạc, hòa hợp, đoàn kết để &#39;mã đáo thành công&#39;](https://thanhnien.vn/pho-phap-chu-giao-hoi-phat-giao-viet-nam-an-lac-hoa-hop-doan-ket-de-ma-dao-thanh-cong-185260216145359591.htm) - 15:25 16/02/2026
+- 🐲 [TP.HCM trước đêm giao thừa: Người dân gửi lời chào năm Bính Ngọ](https://thanhnien.vn/tphcm-truoc-dem-giao-thua-nguoi-dan-gui-loi-chao-nam-binh-ngo-185260216221231955.htm) - 15:19 16/02/2026
+- 🎃 [&#39;Biển người&#39; ở trung tâm TP.HCM chờ ngắm pháo hoa giao thừa Tết Bính Ngọ 2026](https://thanhnien.vn/bien-nguoi-o-trung-tam-tphcm-cho-ngam-phao-hoa-giao-thua-tet-binh-ngo-2026-185260216221136361.htm) - 15:14 16/02/2026
+- 🎬 [Người dân đổ về hồ Hoàn Kiếm đợi pháo hoa đón giao thừa](https://thanhnien.vn/nguoi-dan-do-ve-ho-hoan-kiem-doi-phao-hoa-don-giao-thua-185260216215046591.htm) - 15:09 16/02/2026
+- 🌜 [Người dân xứ Huế du xuân sớm, rộn ràng sắc áo dài ngày cuối năm](https://thanhnien.vn/nguoi-dan-xu-hue-du-xuan-som-ron-rang-sac-ao-dai-ngay-cuoi-nam-185260216220647015.htm) - 15:08 16/02/2026
+- 🦆 [Tất niên đặc biệt ở nơi xa: Chờ ngày trở về đón tết đoàn viên](https://thanhnien.vn/tat-nien-dac-biet-o-noi-xa-cho-ngay-tro-ve-don-tet-doan-vien-185260216213839411.htm) - 15:01 16/02/2026
+- 🐵 [Chợ hoa Mê Linh chiều 29 tết: 100 nghìn mua được 4 chậu hoa](https://thanhnien.vn/cho-hoa-me-linh-chieu-29-tet-100-nghin-mua-duoc-4-chau-hoa-185260216211301404.htm) - 14:48 16/02/2026
+- 🙉 [Bị bắt ngày 29 Tết vì tạt sơn nhà người yêu cũ](https://thanhnien.vn/bi-bat-ngay-29-tet-vi-tat-son-nha-nguoi-yeu-cu-185260216210820588.htm) - 14:48 16/02/2026
+- 🌋 [Tổng Bí thư Tô Lâm dâng hương tại tượng đài vua Lý Thái Tổ](https://thanhnien.vn/tong-bi-thu-to-lam-dang-huong-tai-tuong-dai-vua-ly-thai-to-185260216212219511.htm) - 14:46 16/02/2026
+- 🐻 [Nông dân Gia Lai hối hả tưới cà phê chạy tết trước mùa khô khắc nghiệt](https://thanhnien.vn/nong-dan-gia-lai-hoi-ha-tuoi-ca-phe-chay-tet-truoc-mua-kho-khac-nghiet-185260216150832664.htm) - 14:46 16/02/2026
+- 🧠 [Tết Việt giữa châu Phi khiến bạn bè quốc tế mê bánh chưng, thích hoa đào](https://thanhnien.vn/tet-viet-giua-chau-phi-khien-ban-be-quoc-te-me-banh-chung-thich-hoa-dao-185260216211014681.htm) - 14:43 16/02/2026
+- 🔥 [Đại tướng Phan Văn Giang: Sẵn sàng ứng phó thắng lợi các hình thái chiến tranh trong điều kiện mới](https://thanhnien.vn/dai-tuong-phan-van-giang-san-sang-ung-pho-thang-loi-cac-hinh-thai-chien-tranh-trong-dieu-kien-moi-185260216195745191.htm) - 14:36 16/02/2026
+- 🌋 [Phát hiện xác tàu hơi nước sau gần 60 năm tìm kiếm](https://thanhnien.vn/phat-hien-xac-tau-hoi-nuoc-sau-gan-60-nam-tim-kiem-185260216211144746.htm) - 14:32 16/02/2026
+- 😎 [Những người lặng lẽ dọn rác trước giao thừa: &#39;Thấy phố sạch, chúng tôi ấm lòng&#39;](https://thanhnien.vn/nhung-nguoi-lang-le-don-rac-truoc-giao-thua-thay-pho-sach-chung-toi-am-long-185260216203857114.htm) - 14:25 16/02/2026
+- 🥰 [Đêm giao thừa, Binh đoàn 20 phát lệnh làm hàng đầu xuân Bính Ngọ tại Cảng Tân Cảng Cát Lái](https://thanhnien.vn/dem-giao-thua-binh-doan-20-phat-lenh-lam-hang-dau-xuan-binh-ngo-tai-cang-tan-cang-cat-lai-185260216173753293.htm) - 14:01 16/02/2026
+- 🧑‍🏫 [Chọn trang phục chơi tết - phong cách Parisian chic là &#39;chuẩn bài&#39;](https://thanhnien.vn/thoi-trang-tre/chon-trang-phuc-choi-tet-phong-cach-parisian-chic-la-chuan-bai-185260216002339371.htm) - 14:00 16/02/2026
+- 💄 [Xúc động câu chuyện nữ công nhân kể về nghề quét rác đường phố cuối năm](https://thanhnien.vn/xuc-dong-cau-chuyen-nu-cong-nhan-ke-ve-nghe-quet-rac-duong-pho-cuoi-nam-185260216203458894.htm) - 13:59 16/02/2026
+- 💯 [Ngựa về với người từ khi nào?](https://thanhnien.vn/ngua-ve-voi-nguoi-tu-khi-nao-185260216170241994.htm) - 13:52 16/02/2026
+- 🚀 [Khách Tây đón giao thừa ở trung tâm TP.HCM, chúc mừng năm mới người Việt](https://thanhnien.vn/khach-tay-don-giao-thua-o-trung-tam-tphcm-chuc-mung-nam-moi-nguoi-viet-185260216204156488.htm) - 13:48 16/02/2026
+- 🦣 [Tháng cận Tết Nguyên đán 2026, vì sao thị trường ô tô vẫn sụt giảm?](https://thanhnien.vn/thang-can-tet-nguyen-dan-2026-vi-sao-thi-truong-o-to-van-sut-giam-18526021513452238.htm) - 13:45 16/02/2026
+- 👹 [Tháng đầu năm 2026, ô tô nhập từ Trung Quốc ồ ạt vào Việt Nam](https://thanhnien.vn/thang-dau-nam-2026-o-to-nhap-tu-trung-quoc-o-at-vao-viet-nam-185260214062722213.htm) - 13:43 16/02/2026
+- 🦄 [Sạp &#39;Minh Rau&#39; tặng rau miễn phí ngày cuối năm: &#39;Lấy nhiều về ăn tết cũng được&#39;](https://thanhnien.vn/sap-minh-rau-tang-rau-mien-phi-ngay-cuoi-nam-lay-nhieu-ve-an-tet-cung-duoc-185260216143946612.htm) - 13:30 16/02/2026
+- 🤔 [Bất ngờ loại &#39;Wagyu thịt lợn&#39; lên ngôi tết này ở Trung Quốc](https://thanhnien.vn/bat-ngo-loai-wagyu-thit-lon-len-ngoi-tet-nay-o-trung-quoc-185260205231147323.htm) - 13:26 16/02/2026
+- 🧰 [Mưu sinh ở Bến Bình Đông: Những chiếc ghe chở cả một cái tết](https://thanhnien.vn/muu-sinh-o-ben-binh-dong-nhung-chiec-ghe-cho-ca-mot-cai-tet-185260216202726922.htm) - 13:24 16/02/2026
+- 🌁 [Bất ngờ những câu chuyện chân thành từ &#39;Tết cảm ơn&#39;](https://thanhnien.vn/bat-ngo-nhung-cau-chuyen-chan-thanh-tu-tet-cam-on-185260216202017019.htm) - 13:20 16/02/2026
+- 🧐 [TP.HCM giao thừa 29 tết: Đông nghẹt người dân, du khách đổ về đường hoa Nguyễn Huệ](https://thanhnien.vn/tphcm-giao-thua-29-tet-dong-nghet-nguoi-dan-du-khach-do-ve-duong-hoa-nguyen-hue-185260216194021816.htm) - 13:02 16/02/2026
+- 🌏 [Xem nhanh 20h 29 tết: Tiểu thương bán hoa quyết không để bị ép giá | Chuyến xe vội về giao thừa](https://thanhnien.vn/xem-nhanh-20h-29-tet-tieu-thuong-ban-hoa-quyet-khong-de-bi-ep-gia-chuyen-xe-voi-ve-giao-thua-185260216193802699.htm) - 13:00 16/02/2026
+- 🎬 [Mùa xuân gõ cửa những căn nhà &#39;đặc biệt&#39; ở miền núi Quảng Trị](https://thanhnien.vn/mua-xuan-go-cua-nhung-can-nha-dac-biet-o-mien-nui-quang-tri-185260216173029497.htm) - 13:00 16/02/2026
+- 🚀 [Lời chào đầu năm qua những gam màu xuân nàng không thể thiếu](https://thanhnien.vn/thoi-trang-tre/loi-chao-dau-nam-qua-nhung-gam-mau-xuan-nang-khong-the-thieu-185260215143131601.htm) - 13:00 16/02/2026
+- 🙉 [T.Ư Đoàn thăm và động viên các đơn vị làm nhiệm vụ trực tết tại TP.HCM](https://thanhnien.vn/tu-doan-tham-va-dong-vien-cac-don-vi-lam-nhiem-vu-truc-tet-tai-tphcm-185260216194536997.htm) - 12:46 16/02/2026
+- 🐵 [29 tết: Mạng xã hội ngập cùng nhìn lại năm cũ, gửi gắm hy vọng năm mới](https://thanhnien.vn/29-tet-mang-xa-hoi-ngap-cung-nhin-lai-nam-cu-gui-gam-hy-vong-nam-moi-185260216173243095.htm) - 12:29 16/02/2026
+- 🐎 [Chuyện tử tế ngày 29 tết: Trả lại 80 triệu đồng cho người bán hoa](https://thanhnien.vn/chuyen-tu-te-ngay-29-tet-tra-lai-80-trieu-dong-cho-nguoi-ban-hoa-185260216183623706.htm) - 12:15 16/02/2026
+- 🕯 [Đào cổ Yên Bái “cháy hàng” giữa cao điểm chợ hoa Hà Nội](https://thanhnien.vn/dao-co-yen-bai-chay-hang-giua-cao-diem-cho-hoa-ha-noi-185260216185112244.htm) - 12:06 16/02/2026
+- 👀 [Chiều 29 tết, cành đào tiền triệu thành củi khô, chất đống trên vỉa hè Hà Nội](https://thanhnien.vn/chieu-29-tet-canh-dao-tien-trieu-thanh-cui-kho-chat-dong-tren-via-he-ha-noi-185260216181303596.htm) - 12:02 16/02/2026
+- 🦒 [Vikki Bank trao giải 1 ký vàng và 10 giải thưởng khác trong chương trình tiết kiệm](https://thanhnien.vn/vikki-bank-trao-giai-1-ky-vang-va-10-giai-thuong-khac-trong-chuong-trinh-tiet-kiem-1852602161609434.htm) - 12:00 16/02/2026
+- 🧐 [Giải mã bí ẩn về &#39;hang ổ&#39; của những loài bọ cạp chết chóc](https://thanhnien.vn/giai-ma-bi-an-ve-hang-o-cua-nhung-loai-bo-cap-chet-choc-185260216101055764.htm) - 11:58 16/02/2026
+- 🌊 [Nóng: HLV Hứa Hiền Vinh cập bến CLB Becamex TP.HCM](https://thanhnien.vn/nong-hlv-hua-hien-vinh-cap-ben-clb-becamex-tphcm-185260216183450065.htm) - 11:48 16/02/2026
+- 🧑‍🏫 [Công an TP.HCM bắt người tạt sơn nhà người yêu cũ trong đêm giao thừa](https://thanhnien.vn/cong-an-tphcm-bat-nguoi-tat-son-nha-nguoi-yeu-cu-trong-dem-giao-thua-185260216155208006.htm) - 11:45 16/02/2026
+- 🫣 [Chiều tối 29 tết: Ngay lúc này, dòng người đổ về trung tâm TP.HCM đón giao thừa](https://thanhnien.vn/chieu-toi-29-tet-ngay-luc-nay-dong-nguoi-do-ve-trung-tam-tphcm-don-giao-thua-185260216174812422.htm) - 11:24 16/02/2026
+- 👺 [Chợ hoa ở Huế ngày 29 tết: &#39;Mừng quá, vừa hết để kịp về đón giao thừa&#39;](https://thanhnien.vn/cho-hoa-o-hue-ngay-29-tet-mung-qua-vua-het-de-kip-ve-don-giao-thua-185260216174348248.htm) - 11:23 16/02/2026
+- 🧑‍🏫 [Đón tết trên con đường ‘từng đau khổ’ Lò Lu: ‘Mừng lắm, ăn tết vui hơn’](https://thanhnien.vn/don-tet-tren-con-duong-tung-dau-kho-lo-lu-mung-lam-an-tet-vui-hon-185260216181234424.htm) - 11:17 16/02/2026
+- 🌊 [TP.HCM ngày 29 tết: Đi tìm bình yên sau những bộn bề, hối hả](https://thanhnien.vn/tphcm-ngay-29-tet-di-tim-binh-yen-sau-nhung-bon-be-hoi-ha-185260216154755036.htm) - 11:12 16/02/2026
+- 🕯 [Áo dài xanh dương và khả năng tôn da ấn tượng](https://thanhnien.vn/thoi-trang-tre/ao-dai-xanh-duong-va-kha-nang-ton-da-an-tuong-185260215141818578.htm) - 11:00 16/02/2026
+- 🐲 [Hoa hậu Yến Nhi sửa nhà cho ba mẹ ở quê](https://thanhnien.vn/hoa-hau-yen-nhi-sua-nha-cho-ba-me-o-que-18526021615405602.htm) - 10:59 16/02/2026
+- ⛽️ [Long Châu chân thành gửi trao tết ấm, tết khỏe mạnh đến bà con mọi miền](https://thanhnien.vn/long-chau-chan-thanh-gui-trao-tet-am-tet-khoe-manh-den-ba-con-moi-mien-185260216180927551.htm) - 10:53 16/02/2026
+- 🎉 [Chiều 29 tết, ngắm đường phố trung tâm TP.HCM trước thời khắc giao thừa Tết Bính Ngọ](https://thanhnien.vn/chieu-29-tet-ngam-duong-pho-trung-tam-tphcm-truoc-thoi-khac-giao-thua-tet-binh-ngo-185260216173015847.htm) - 10:43 16/02/2026
+- 🎊 [Nhà đông người ngày tết, làm sao để mạng Wi-Fi không ì ạch?](https://thanhnien.vn/nha-dong-nguoi-ngay-tet-lam-sao-de-mang-wi-fi-khong-i-ach-185260216150558237.htm) - 10:30 16/02/2026
+- 🥳 [Chiều muộn 29 tết, chợ hoa Gia Định xả lỗ: Nhiều khách vẫn chê giá cao](https://thanhnien.vn/chieu-muon-29-tet-cho-hoa-gia-dinh-xa-lo-nhieu-khach-van-che-gia-cao-185260216162559969.htm) - 10:28 16/02/2026
+- 🤡 [Tết nghĩa tình, xuân yêu thương trên khắp nẻo đường](https://thanhnien.vn/tet-nghia-tinh-xuan-yeu-thuong-tren-khap-neo-duong-185260216171023329.htm) - 10:25 16/02/2026<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
