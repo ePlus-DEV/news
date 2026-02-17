@@ -350,7 +350,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [Lan tỏa không khí Tết Việt tại cửa ngõ du lịch quốc tế Đà Nẵng](https://www.sggp.org.vn/lan-toa-khong-khi-tet-viet-tai-cua-ngo-du-lich-quoc-te-da-nang-post839034.html) - 04:36 17/02/2026
 - 🥰 [Xuân số hóa an lành trên mọi nẻo](https://www.sggp.org.vn/xuan-so-hoa-an-lanh-tren-moi-neo-post837932.html) - 04:01 17/02/2026
 - 🕯 [Tết đặc biệt của các nữ võ sĩ quyền Anh Việt Nam](https://www.sggp.org.vn/tet-dac-biet-cua-cac-nu-vo-si-quyen-anh-viet-nam-post838953.html) - 03:18 17/02/2026
-- 🙉 [Tổng Bí thư Tô Lâm sắp có chuyến công tác tại Hoa Kỳ](https://www.sggp.org.vn/tong-bi-thu-to-lam-sap-co-chuyen-cong-tac-tai-hoa-ky-post839043.html) - 03:10 17/02/2026
+- 🙉 [Tổng Bí thư Tô Lâm sẽ dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-se-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-post839043.html) - 03:10 17/02/2026
 - 💡 [Hiện thực hóa khát vọng hùng cường, thịnh vượng](https://www.sggp.org.vn/hien-thuc-hoa-khat-vong-hung-cuong-thinh-vuong-post838007.html) - 03:05 17/02/2026
 - 💫 [PSG muốn giải quyết sớm Monaco tại play-off Champions League](https://www.sggp.org.vn/psg-muon-giai-quyet-som-monaco-tai-play-off-champions-league-post839045.html) - 02:31 17/02/2026
 - 🧑‍💻 [Nico Williams nghỉ thi đấu vô thời hạn vì chấn thương háng](https://www.sggp.org.vn/nico-williams-nghi-thi-dau-vo-thoi-han-vi-chan-thuong-hang-post839046.html) - 02:31 17/02/2026
