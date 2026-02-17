@@ -10,7 +10,7 @@ sidebar_position: 6
 - 🦣 [Người dân ngắm pháo hoa, đón giao thừa tại Mailand Hanoi City](https://vnexpress.net/nguoi-dan-ngam-phao-hoa-don-giao-thua-tai-mailand-hanoi-city-5040028.html) - 05:00 17/02/2026
 - 🎓 [Pháo hoa rực sáng từ tòa tháp 55 tầng tại TP HCM](https://vnexpress.net/phao-hoa-ruc-sang-tu-toa-thap-55-tang-tai-tp-hcm-5041462.html) - 01:15 17/02/2026
 - 🎭 [Lên núi làm nông dân xuyên Tết](https://vnexpress.net/len-nui-lam-nong-dan-xuyen-tet-5039521.html) - 00:15 17/02/2026
-- 🦅 [Ngựa cưỡi - thú chơi mới của người Việt](https://vnexpress.net/ngua-cuoi-thu-choi-moi-cua-nguoi-viet-5013830.html) - 23:00 16/02/2026
+- 🦅 [Ngựa cưỡi - thú chơi mới của nhà giàu Việt](https://vnexpress.net/ngua-cuoi-thu-choi-moi-cua-nha-giau-viet-5013830.html) - 23:00 16/02/2026
 - 🎃 [Trong lớp học &#39;chiều khách&#39; kiểu Nhật](https://vnexpress.net/trong-lop-hoc-chieu-khach-kieu-nhat-5041761.html) - 22:30 16/02/2026
 - 💪 [Dự báo vận khí năm Bính Ngọ 2026](https://vnexpress.net/du-bao-van-khi-nam-binh-ngo-2026-5008167.html) - 18:39 16/02/2026
 - 🐻 [Tuổi đẹp xông đất năm Bính Ngọ 2026](https://vnexpress.net/tuoi-dep-xong-dat-nam-binh-ngo-2026-5008192.html) - 10:56 16/02/2026
