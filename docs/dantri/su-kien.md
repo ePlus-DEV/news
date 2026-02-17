@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tổng Bí thư Tô Lâm chuẩn bị công du Mỹ](https://dantri.com.vn/thoi-su/tong-bi-thu-to-lam-chuan-bi-cong-du-my-20260217092506761.htm) - 02:39 17/02/2026
+- 🎭 [Tổng Bí thư Tô Lâm sắp đi Mỹ dự họp Hội đồng Hòa bình về Gaza](https://dantri.com.vn/thoi-su/tong-bi-thu-to-lam-sap-di-my-du-hop-hoi-dong-hoa-binh-ve-gaza-20260217092506761.htm) - 02:39 17/02/2026
 - 👨‍🏫 [Tổng Bí thư: &quot;Mục tiêu của Đảng là nâng cao đời sống Nhân dân&quot;](https://dantri.com.vn/thoi-su/tong-bi-thu-muc-tieu-cua-dang-la-nang-cao-doi-song-nhan-dan-20260217071328155.htm) - 00:13 17/02/2026
 - 🌮 [Thông điệp chúc Tết Bính Ngọ 2026 của Chủ tịch nước Lương Cường](https://dantri.com.vn/thoi-su/thong-diep-chuc-tet-binh-ngo-2026-cua-chu-tich-nuoc-luong-cuong-20260216195128149.htm) - 17:08 16/02/2026
 - 🕯 [Pháo hoa rực rỡ trên bầu trời, chào năm mới 2026](https://dantri.com.vn/thoi-su/phao-hoa-ruc-ro-tren-bau-troi-chao-nam-moi-2026-20260216103616519.htm) - 11:00 16/02/2026
