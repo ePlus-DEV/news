@@ -406,56 +406,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Từ thành tựu ấn tượng đến khát vọng dài hạn: Việt Nam kiên định đầu tư cho phát triển trẻ em](https://baochinhphu.vn/tu-thanh-tuu-an-tuong-den-khat-vong-dai-han-viet-nam-kien-dinh-dau-tu-cho-phat-trien-tre-em-102260212103625363.htm) - 14:35 17/02/2026
-- 🌜 [Lực lượng Công an nhân dân đi đầu thực hiện Nghị quyết Đại hội XIV của Đảng](https://baochinhphu.vn/luc-luong-cong-an-nhan-dan-di-dau-thuc-hien-nghi-quyet-dai-hoi-xiv-cua-dang-102260217134916087.htm) - 14:28 17/02/2026
-- 🦆 [Bài 2: Tạo môi trường đầu tư ngày càng hấp dẫn để hút dòng vốn chất lượng cao](https://baochinhphu.vn/bai-2-tao-moi-truong-dau-tu-ngay-cang-hap-dan-de-hut-dong-von-chat-luong-cao-102260210230816773.htm) - 13:52 17/02/2026
-- 🌝 [Khẳng định sự vươn tầm của du lịch Việt Nam với du lịch thế giới](https://baochinhphu.vn/khang-dinh-su-vuon-tam-cua-du-lich-viet-nam-voi-du-lich-the-gioi-102260126180807065.htm) - 13:45 17/02/2026
-- 🦣 [Ngoại giao mùa Xuân: Gắn kết niềm tin, mở rộng hợp tác vì tương lai chung](https://baochinhphu.vn/ngoai-giao-mua-xuan-gan-ket-niem-tin-mo-rong-hop-tac-vi-tuong-lai-chung-10226021010251456.htm) - 13:10 17/02/2026
-- ⛽️ [Làm tại trung tâm dịch vụ công là công chức hay viên chức?](https://baochinhphu.vn/lam-tai-trung-tam-dich-vu-cong-la-cong-chuc-hay-vien-chuc-102260211162327279.htm) - 13:06 17/02/2026
-- 🎓 [Mục tiêu, thông điệp trong chuyến công du Hoa Kỳ của Tổng Bí thư Tô Lâm](https://baochinhphu.vn/muc-tieu-thong-diep-trong-chuyen-cong-du-hoa-ky-cua-tong-bi-thu-to-lam-102260217110452442.htm) - 12:09 17/02/2026
-- 💡 [Khoa học – Công nghệ với sứ mệnh trụ cột tăng trưởng của đất nước](https://baochinhphu.vn/khoa-hoc-cong-nghe-voi-su-menh-tru-cot-tang-truong-cua-dat-nuoc-102260207150506071.htm) - 11:27 17/02/2026
-- 🌊 [Hướng dẫn xác định loại gói thầu](https://baochinhphu.vn/huong-dan-xac-dinh-loai-goi-thau-102260211154440867.htm) - 11:05 17/02/2026
-- 💯 [Tổng Bí thư Tô Lâm sẽ có chuyến công tác tại Hoa Kỳ, dự khai mạc Hội đồng Hòa bình về Gaza](https://baochinhphu.vn/tong-bi-thu-to-lam-se-co-chuyen-cong-tac-tai-hoa-ky-du-khai-mac-hoi-dong-hoa-binh-ve-gaza-102260217105558736.htm) - 11:00 17/02/2026
-- 🦣 [Thủ tục chứng minh di vật, cổ vật](https://baochinhphu.vn/thu-tuc-chung-minh-di-vat-co-vat-102260211161335064.htm) - 10:04 17/02/2026
-- 🥷 [Bộ trưởng Bộ Xây dựng: Áp lực càng lớn, quyết tâm &#39;đi trước mở đường&#39; càng cao](https://baochinhphu.vn/bo-truong-bo-xay-dung-ap-luc-cang-lon-quyet-tam-di-truoc-mo-duong-cang-cao-102260209154258093.htm) - 09:56 17/02/2026
-- 💻 [Văn hóa là sức mạnh, là nội lực, giúp đất nước vượt qua những thử thách hiểm nghèo](https://baochinhphu.vn/van-hoa-la-suc-manh-la-noi-luc-giup-dat-nuoc-vuot-qua-nhung-thu-thach-hiem-ngheo-102260205011522732.htm) - 09:46 17/02/2026
-- 🤭 [Trả nợ tiền sử dụng đất theo bảng giá nào?](https://baochinhphu.vn/tra-no-tien-su-dung-dat-theo-bang-gia-nao-102260211151729978.htm) - 09:03 17/02/2026
-- 🦆 [Rộn ràng không khí đón xuân trên mọi miền Tổ quốc](https://baochinhphu.vn/ron-rang-khong-khi-don-xuan-tren-moi-mien-to-quoc-102260217085659918.htm) - 09:00 17/02/2026
-- 🤖 [Phát lệnh làm hàng đầu xuân tại cảng Tân Cảng-Cát Lái](https://baochinhphu.vn/phat-lenh-lam-hang-dau-xuan-tai-cang-tan-cang-cat-lai-102260217021219254.htm) - 08:45 17/02/2026
-- 🌁 [ACB hướng tới mục tiêu ngân hàng tiên phong trong phát triển bền vững](https://baochinhphu.vn/acb-huong-toi-muc-tieu-ngan-hang-tien-phong-trong-phat-trien-ben-vung-102260205160759709.htm) - 08:05 17/02/2026
-- 💼 [Những công trình được miễn giấy phép xây dựng từ 2026](https://baochinhphu.vn/nhung-cong-trinh-duoc-mien-giay-phep-xay-dung-tu-2026-102260210145530845.htm) - 08:02 17/02/2026
-- 🧠 [Rộn ràng đón Xuân Bính Ngọ 2026 khắp châu Á](https://baochinhphu.vn/ron-rang-don-xuan-binh-ngo-2026-khap-chau-a-102260217080045416.htm) - 08:00 17/02/2026
-- 🌊 [Không chỉ là một vị khách: Đại sứ Saadi Salama và những mùa Tết Việt](https://baochinhphu.vn/khong-chi-la-mot-vi-khach-dai-su-saadi-salama-va-nhung-mua-tet-viet-102260210123908595.htm) - 07:10 17/02/2026
-- 🤭 [Làm việc tại khoa dinh dưỡng có được cấp giấy xác nhận thực hành?](https://baochinhphu.vn/lam-viec-tai-khoa-dinh-duong-co-duoc-cap-giay-xac-nhan-thuc-hanh-102260211083409659.htm) - 07:01 17/02/2026
-- 🥷 [CHÀO XUÂN MỚI Bính Ngọ: Thế và lực cho kỷ nguyên mới](https://baochinhphu.vn/chao-xuan-moi-binh-ngo-the-va-luc-cho-ky-nguyen-moi-102260217005309022.htm) - 00:52 17/02/2026
-- 🌁 [Thư chúc Tết Xuân Bính Ngọ 2026 của Chủ tịch nước Lương Cường](https://baochinhphu.vn/thu-chuc-tet-xuan-binh-ngo-2026-cua-chu-tich-nuoc-luong-cuong-102260213194003553.htm) - 00:09 17/02/2026
-- 🐵 [Thị trường ngày 29 Tết: Nguồn cung dồi dào, giá cả ổn định](https://baochinhphu.vn/thi-truong-ngay-29-tet-nguon-cung-doi-dao-gia-ca-on-dinh-102260216205541821.htm) - 22:15 16/02/2026
-- 💯 [Tổng Bí thư Tô Lâm thăm, chúc Tết Đảng bộ, chính quyền và nhân dân Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-tham-chuc-tet-dang-bo-chinh-quyen-va-nhan-dan-ha-noi-102260216215844085.htm) - 22:14 16/02/2026
-- 🔥 [Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-102260216220500219.htm) - 22:12 16/02/2026
-- 👍 [Vận tải an toàn, thông suốt trước thềm năm mới](https://baochinhphu.vn/van-tai-an-toan-thong-suot-truoc-them-nam-moi-10226021621474893.htm) - 22:09 16/02/2026
-- 🧰 [Kịp thời cứu nạn thuyền viên tàu nước ngoài trên vùng biển tỉnh Khánh Hòa](https://baochinhphu.vn/kip-thoi-cuu-nan-thuyen-vien-tau-nuoc-ngoai-tren-vung-bien-tinh-khanh-hoa-102260216232702666.htm) - 22:03 16/02/2026
-- 🦏 [Tạp vụ, bảo vệ của CT Group xúc động khi nhận thưởng Tết một lượng vàng 9999](https://baochinhphu.vn/tap-vu-bao-ve-cua-ct-group-xuc-dong-khi-nhan-thuong-tet-mot-luong-vang-9999-102260216161934597.htm) - 19:42 16/02/2026
-- 🕯 [Thủ tướng kiểm tra, động viên các lực lượng công an ứng trực dịp Tết](https://baochinhphu.vn/thu-tuong-kiem-tra-dong-vien-cac-luc-luong-cong-an-ung-truc-dip-tet-102260216192147282.htm) - 19:40 16/02/2026
-- 🤠 [Giá nhiều mặt hàng tăng nhẹ trong ngày 29 Tết Bính Ngọ](https://baochinhphu.vn/gia-nhieu-mat-hang-tang-nhe-trong-ngay-29-tet-binh-ngo-102260216182036408.htm) - 18:18 16/02/2026
-- 💂 [Thủ tướng khen các đơn vị &quot;thần tốc&quot; hoàn thành cầu phao bắc qua sông Lô, thông xe ngay trong sáng 29 Tết](https://baochinhphu.vn/thu-tuong-khen-cac-don-vi-than-toc-hoan-thanh-cau-phao-bac-qua-song-lo-thong-xe-ngay-trong-sang-29-tet-102260216181825017.htm) - 18:12 16/02/2026
-- 🐲 [Ngày 29 Tết: Hơn 2.500 trường hợp vi phạm nồng độ cồn](https://baochinhphu.vn/ngay-29-tet-hon-2500-truong-hop-vi-pham-nong-do-con-102260216173548288.htm) - 17:55 16/02/2026
-- 🦩 [Chỉ 15-20 phút, một ca cấp cứu được xử lý hoàn tất](https://baochinhphu.vn/chi-15-20-phut-mot-ca-cap-cuu-duoc-xu-ly-hoan-tat-102260216172541918.htm) - 17:43 16/02/2026
-- 💂 [Chính thức thông xe cầu phao sông Lô](https://baochinhphu.vn/chinh-thuc-thong-xe-cau-phao-song-lo-102260216144626198.htm) - 15:00 16/02/2026
-- 🌈 [Tết ấm lan tỏa nơi nẻo cao, biên giới](https://baochinhphu.vn/tet-am-lan-toa-noi-neo-cao-bien-gioi-102260208183322757.htm) - 14:54 16/02/2026
-- 🔥 [Tết quê hương trong trái tim kiều bào](https://baochinhphu.vn/tet-que-huong-trong-trai-tim-kieu-bao-1022602132313465.htm) - 14:43 16/02/2026
-- 🦄 [Ngày xuân thưởng thức những món ăn trong &#39;Hộ chiếu ẩm thực&#39; TPHCM](https://baochinhphu.vn/ngay-xuan-thuong-thuc-nhung-mon-an-trong-ho-chieu-am-thuc-tphcm-102260211160914343.htm) - 14:14 16/02/2026
-- 🚀 [Thủ tướng: Phát huy vai trò các bệnh viện tuyến cuối &#39;giành giật sự sống, là hy vọng lớn nhất của người bệnh&#39;](https://baochinhphu.vn/thu-tuong-phat-huy-vai-tro-cac-benh-vien-tuyen-cuoi-gianh-giat-su-song-la-hy-vong-lon-nhat-cua-nguoi-benh-102260216135047526.htm) - 14:03 16/02/2026
-- 🤖 [Phụ cấp nào được tính vào tiền lương dạy thêm giờ?](https://baochinhphu.vn/phu-cap-nao-duoc-tinh-vao-tien-luong-day-them-gio-102260209164558186.htm) - 13:06 16/02/2026
-- 🕴 [Tổng Bí thư Tô Lâm dâng hương tại Khu Di tích Hoàng thành Thăng Long và Di tích nhà 67](https://baochinhphu.vn/tong-bi-thu-to-lam-dang-huong-tai-khu-di-tich-hoang-thanh-thang-long-va-di-tich-nha-67-102260216114014604.htm) - 11:43 16/02/2026
-- 🤔 [Căn cứ xác định chủ đầu tư trong đấu thầu](https://baochinhphu.vn/can-cu-xac-dinh-chu-dau-tu-trong-dau-thau-10226021115362654.htm) - 11:05 16/02/2026
-- 💫 [Việt Nam sẽ tiếp tục phát triển mạnh mẽ trong năm 2026](https://baochinhphu.vn/viet-nam-thuc-day-cai-cach-voi-tam-voc-chua-tung-co-dai-su-nhat-ban-102260216092712073.htm) - 10:36 16/02/2026
-- 👺 [Đại sứ Helga Margarete Barth ví Tết Việt như một bản giao hưởng](https://baochinhphu.vn/khuyen-khich-thanh-nien-viet-nam-chinh-phuc-giac-mo-hoc-tap-tai-duc-102260212152002679.htm) - 10:05 16/02/2026
-- 🦍 [Hồ sơ đề nghị cộng nối thời gian công tác trong quân đội](https://baochinhphu.vn/ho-so-de-nghi-cong-noi-thoi-gian-cong-tac-trong-quan-doi-102260211164144369.htm) - 10:04 16/02/2026
-- 🦍 [Từ nâng hạng chứng khoán đến bài toán nâng chất thị trường vốn](https://baochinhphu.vn/tu-nang-hang-chung-khoan-den-bai-toan-nang-chat-thi-truong-von-10226021609253359.htm) - 09:22 16/02/2026
-- 🧐 [Chế độ nâng lương là một nội dung của hợp đồng lao động](https://baochinhphu.vn/che-do-nang-luong-la-mot-noi-dung-cua-hop-dong-lao-dong-102260211103355791.htm) - 09:03 16/02/2026
-- 🕴 [&#39;Rốn lũ&#39; Hòa Thịnh: Miền xanh hy vọng đã nảy mầm](https://baochinhphu.vn/ron-lu-hoa-thinh-mien-xanh-hy-vong-da-nay-mam-102260213074656762.htm) - 08:44 16/02/2026
-- 🌈 [TPHCM phát huy cơ chế đặc thù, nỗ lực cho mục tiêu tăng trưởng hai con số](https://baochinhphu.vn/tphcm-phat-huy-co-che-dac-thu-no-luc-cho-muc-tieu-tang-truong-hai-con-so-102260210225016559.htm) - 08:41 16/02/2026
-- 🔥 [Chợ hoa đêm Quảng Bá - &#39;Hồn Tết&#39; của đất Hà Thành](https://baochinhphu.vn/cho-hoa-dem-quang-ba-hon-tet-cua-dat-ha-thanh-102260216063339352.htm) - 08:27 16/02/2026<!-- baochinhphu:END -->
+- 💻 [Lộ trình hướng tới xếp hạng tín nhiệm mức đầu tư của Việt Nam](https://baochinhphu.vn/lo-trinh-huong-toi-xep-hang-tin-nhiem-muc-dau-tu-cua-viet-nam-102260211165224959.htm) - 17:06 17/02/2026
+- 🌜 [Thông điệp và lời chúc của lãnh đạo các nước dịp Tết Nguyên đán](https://baochinhphu.vn/thong-diep-va-loi-chuc-cua-lanh-dao-cac-nuoc-dip-tet-nguyen-dan-102260217152325238.htm) - 15:07 17/02/2026
+- 🦆 [Từ thành tựu ấn tượng đến khát vọng dài hạn: Việt Nam kiên định đầu tư cho phát triển trẻ em](https://baochinhphu.vn/tu-thanh-tuu-an-tuong-den-khat-vong-dai-han-viet-nam-kien-dinh-dau-tu-cho-phat-trien-tre-em-102260212103625363.htm) - 14:35 17/02/2026
+- 🌝 [Lực lượng Công an nhân dân đi đầu thực hiện Nghị quyết Đại hội XIV của Đảng](https://baochinhphu.vn/luc-luong-cong-an-nhan-dan-di-dau-thuc-hien-nghi-quyet-dai-hoi-xiv-cua-dang-102260217134916087.htm) - 14:28 17/02/2026
+- 🦣 [Bài 2: Tạo môi trường đầu tư ngày càng hấp dẫn để hút dòng vốn chất lượng cao](https://baochinhphu.vn/bai-2-tao-moi-truong-dau-tu-ngay-cang-hap-dan-de-hut-dong-von-chat-luong-cao-102260210230816773.htm) - 13:52 17/02/2026
+- ⛽️ [Khẳng định sự vươn tầm của du lịch Việt Nam với du lịch thế giới](https://baochinhphu.vn/khang-dinh-su-vuon-tam-cua-du-lich-viet-nam-voi-du-lich-the-gioi-102260126180807065.htm) - 13:45 17/02/2026
+- 🎓 [Ngoại giao mùa Xuân: Gắn kết niềm tin, mở rộng hợp tác vì tương lai chung](https://baochinhphu.vn/ngoai-giao-mua-xuan-gan-ket-niem-tin-mo-rong-hop-tac-vi-tuong-lai-chung-10226021010251456.htm) - 13:10 17/02/2026
+- 💡 [Làm tại trung tâm dịch vụ công là công chức hay viên chức?](https://baochinhphu.vn/lam-tai-trung-tam-dich-vu-cong-la-cong-chuc-hay-vien-chuc-102260211162327279.htm) - 13:06 17/02/2026
+- 🌊 [Mục tiêu, thông điệp trong chuyến công du Hoa Kỳ của Tổng Bí thư Tô Lâm](https://baochinhphu.vn/muc-tieu-thong-diep-trong-chuyen-cong-du-hoa-ky-cua-tong-bi-thu-to-lam-102260217110452442.htm) - 12:09 17/02/2026
+- 💯 [Khoa học – Công nghệ với sứ mệnh trụ cột tăng trưởng của đất nước](https://baochinhphu.vn/khoa-hoc-cong-nghe-voi-su-menh-tru-cot-tang-truong-cua-dat-nuoc-102260207150506071.htm) - 11:27 17/02/2026
+- 🦣 [Hướng dẫn xác định loại gói thầu](https://baochinhphu.vn/huong-dan-xac-dinh-loai-goi-thau-102260211154440867.htm) - 11:05 17/02/2026
+- 🥷 [Tổng Bí thư Tô Lâm sẽ có chuyến công tác tại Hoa Kỳ, dự khai mạc Hội đồng Hòa bình về Gaza](https://baochinhphu.vn/tong-bi-thu-to-lam-se-co-chuyen-cong-tac-tai-hoa-ky-du-khai-mac-hoi-dong-hoa-binh-ve-gaza-102260217105558736.htm) - 11:00 17/02/2026
+- 💻 [Thủ tục chứng minh di vật, cổ vật](https://baochinhphu.vn/thu-tuc-chung-minh-di-vat-co-vat-102260211161335064.htm) - 10:04 17/02/2026
+- 🤭 [Bộ trưởng Bộ Xây dựng: Áp lực càng lớn, quyết tâm &#39;đi trước mở đường&#39; càng cao](https://baochinhphu.vn/bo-truong-bo-xay-dung-ap-luc-cang-lon-quyet-tam-di-truoc-mo-duong-cang-cao-102260209154258093.htm) - 09:56 17/02/2026
+- 🦆 [Văn hóa là sức mạnh, là nội lực, giúp đất nước vượt qua những thử thách hiểm nghèo](https://baochinhphu.vn/van-hoa-la-suc-manh-la-noi-luc-giup-dat-nuoc-vuot-qua-nhung-thu-thach-hiem-ngheo-102260205011522732.htm) - 09:46 17/02/2026
+- 🤖 [Trả nợ tiền sử dụng đất theo bảng giá nào?](https://baochinhphu.vn/tra-no-tien-su-dung-dat-theo-bang-gia-nao-102260211151729978.htm) - 09:03 17/02/2026
+- 🌁 [Rộn ràng không khí đón xuân trên mọi miền Tổ quốc](https://baochinhphu.vn/ron-rang-khong-khi-don-xuan-tren-moi-mien-to-quoc-102260217085659918.htm) - 09:00 17/02/2026
+- 💼 [Phát lệnh làm hàng đầu xuân tại cảng Tân Cảng-Cát Lái](https://baochinhphu.vn/phat-lenh-lam-hang-dau-xuan-tai-cang-tan-cang-cat-lai-102260217021219254.htm) - 08:45 17/02/2026
+- 🧠 [ACB hướng tới mục tiêu ngân hàng tiên phong trong phát triển bền vững](https://baochinhphu.vn/acb-huong-toi-muc-tieu-ngan-hang-tien-phong-trong-phat-trien-ben-vung-102260205160759709.htm) - 08:05 17/02/2026
+- 🌊 [Những công trình được miễn giấy phép xây dựng từ 2026](https://baochinhphu.vn/nhung-cong-trinh-duoc-mien-giay-phep-xay-dung-tu-2026-102260210145530845.htm) - 08:02 17/02/2026
+- 🤭 [Rộn ràng đón Xuân Bính Ngọ 2026 khắp châu Á](https://baochinhphu.vn/ron-rang-don-xuan-binh-ngo-2026-khap-chau-a-102260217080045416.htm) - 08:00 17/02/2026
+- 🥷 [Không chỉ là một vị khách: Đại sứ Saadi Salama và những mùa Tết Việt](https://baochinhphu.vn/khong-chi-la-mot-vi-khach-dai-su-saadi-salama-va-nhung-mua-tet-viet-102260210123908595.htm) - 07:10 17/02/2026
+- 🌁 [Làm việc tại khoa dinh dưỡng có được cấp giấy xác nhận thực hành?](https://baochinhphu.vn/lam-viec-tai-khoa-dinh-duong-co-duoc-cap-giay-xac-nhan-thuc-hanh-102260211083409659.htm) - 07:01 17/02/2026
+- 🐵 [CHÀO XUÂN MỚI Bính Ngọ: Thế và lực cho kỷ nguyên mới](https://baochinhphu.vn/chao-xuan-moi-binh-ngo-the-va-luc-cho-ky-nguyen-moi-102260217005309022.htm) - 00:52 17/02/2026
+- 💯 [Thư chúc Tết Xuân Bính Ngọ 2026 của Chủ tịch nước Lương Cường](https://baochinhphu.vn/thu-chuc-tet-xuan-binh-ngo-2026-cua-chu-tich-nuoc-luong-cuong-102260213194003553.htm) - 00:09 17/02/2026
+- 🔥 [Thị trường ngày 29 Tết: Nguồn cung dồi dào, giá cả ổn định](https://baochinhphu.vn/thi-truong-ngay-29-tet-nguon-cung-doi-dao-gia-ca-on-dinh-102260216205541821.htm) - 22:15 16/02/2026
+- 👍 [Tổng Bí thư Tô Lâm thăm, chúc Tết Đảng bộ, chính quyền và nhân dân Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-tham-chuc-tet-dang-bo-chinh-quyen-va-nhan-dan-ha-noi-102260216215844085.htm) - 22:14 16/02/2026
+- 🧰 [Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-102260216220500219.htm) - 22:12 16/02/2026
+- 🦏 [Vận tải an toàn, thông suốt trước thềm năm mới](https://baochinhphu.vn/van-tai-an-toan-thong-suot-truoc-them-nam-moi-10226021621474893.htm) - 22:09 16/02/2026
+- 🕯 [Kịp thời cứu nạn thuyền viên tàu nước ngoài trên vùng biển tỉnh Khánh Hòa](https://baochinhphu.vn/kip-thoi-cuu-nan-thuyen-vien-tau-nuoc-ngoai-tren-vung-bien-tinh-khanh-hoa-102260216232702666.htm) - 22:03 16/02/2026
+- 🤠 [Tạp vụ, bảo vệ của CT Group xúc động khi nhận thưởng Tết một lượng vàng 9999](https://baochinhphu.vn/tap-vu-bao-ve-cua-ct-group-xuc-dong-khi-nhan-thuong-tet-mot-luong-vang-9999-102260216161934597.htm) - 19:42 16/02/2026
+- 💂 [Thủ tướng kiểm tra, động viên các lực lượng công an ứng trực dịp Tết](https://baochinhphu.vn/thu-tuong-kiem-tra-dong-vien-cac-luc-luong-cong-an-ung-truc-dip-tet-102260216192147282.htm) - 19:40 16/02/2026
+- 🐲 [Giá nhiều mặt hàng tăng nhẹ trong ngày 29 Tết Bính Ngọ](https://baochinhphu.vn/gia-nhieu-mat-hang-tang-nhe-trong-ngay-29-tet-binh-ngo-102260216182036408.htm) - 18:18 16/02/2026
+- 🦩 [Thủ tướng khen các đơn vị &quot;thần tốc&quot; hoàn thành cầu phao bắc qua sông Lô, thông xe ngay trong sáng 29 Tết](https://baochinhphu.vn/thu-tuong-khen-cac-don-vi-than-toc-hoan-thanh-cau-phao-bac-qua-song-lo-thong-xe-ngay-trong-sang-29-tet-102260216181825017.htm) - 18:12 16/02/2026
+- 💂 [Ngày 29 Tết: Hơn 2.500 trường hợp vi phạm nồng độ cồn](https://baochinhphu.vn/ngay-29-tet-hon-2500-truong-hop-vi-pham-nong-do-con-102260216173548288.htm) - 17:55 16/02/2026
+- 🌈 [Chỉ 15-20 phút, một ca cấp cứu được xử lý hoàn tất](https://baochinhphu.vn/chi-15-20-phut-mot-ca-cap-cuu-duoc-xu-ly-hoan-tat-102260216172541918.htm) - 17:43 16/02/2026
+- 🔥 [Chính thức thông xe cầu phao sông Lô](https://baochinhphu.vn/chinh-thuc-thong-xe-cau-phao-song-lo-102260216144626198.htm) - 15:00 16/02/2026
+- 🦄 [Tết ấm lan tỏa nơi nẻo cao, biên giới](https://baochinhphu.vn/tet-am-lan-toa-noi-neo-cao-bien-gioi-102260208183322757.htm) - 14:54 16/02/2026
+- 🚀 [Tết quê hương trong trái tim kiều bào](https://baochinhphu.vn/tet-que-huong-trong-trai-tim-kieu-bao-1022602132313465.htm) - 14:43 16/02/2026
+- 🤖 [Ngày xuân thưởng thức những món ăn trong &#39;Hộ chiếu ẩm thực&#39; TPHCM](https://baochinhphu.vn/ngay-xuan-thuong-thuc-nhung-mon-an-trong-ho-chieu-am-thuc-tphcm-102260211160914343.htm) - 14:14 16/02/2026
+- 🕴 [Thủ tướng: Phát huy vai trò các bệnh viện tuyến cuối &#39;giành giật sự sống, là hy vọng lớn nhất của người bệnh&#39;](https://baochinhphu.vn/thu-tuong-phat-huy-vai-tro-cac-benh-vien-tuyen-cuoi-gianh-giat-su-song-la-hy-vong-lon-nhat-cua-nguoi-benh-102260216135047526.htm) - 14:03 16/02/2026
+- 🤔 [Phụ cấp nào được tính vào tiền lương dạy thêm giờ?](https://baochinhphu.vn/phu-cap-nao-duoc-tinh-vao-tien-luong-day-them-gio-102260209164558186.htm) - 13:06 16/02/2026
+- 💫 [Tổng Bí thư Tô Lâm dâng hương tại Khu Di tích Hoàng thành Thăng Long và Di tích nhà 67](https://baochinhphu.vn/tong-bi-thu-to-lam-dang-huong-tai-khu-di-tich-hoang-thanh-thang-long-va-di-tich-nha-67-102260216114014604.htm) - 11:43 16/02/2026
+- 👺 [Căn cứ xác định chủ đầu tư trong đấu thầu](https://baochinhphu.vn/can-cu-xac-dinh-chu-dau-tu-trong-dau-thau-10226021115362654.htm) - 11:05 16/02/2026
+- 🦍 [Việt Nam sẽ tiếp tục phát triển mạnh mẽ trong năm 2026](https://baochinhphu.vn/viet-nam-thuc-day-cai-cach-voi-tam-voc-chua-tung-co-dai-su-nhat-ban-102260216092712073.htm) - 10:36 16/02/2026
+- 🦍 [Đại sứ Helga Margarete Barth ví Tết Việt như một bản giao hưởng](https://baochinhphu.vn/khuyen-khich-thanh-nien-viet-nam-chinh-phuc-giac-mo-hoc-tap-tai-duc-102260212152002679.htm) - 10:05 16/02/2026
+- 🧐 [Hồ sơ đề nghị cộng nối thời gian công tác trong quân đội](https://baochinhphu.vn/ho-so-de-nghi-cong-noi-thoi-gian-cong-tac-trong-quan-doi-102260211164144369.htm) - 10:04 16/02/2026
+- 🕴 [Từ nâng hạng chứng khoán đến bài toán nâng chất thị trường vốn](https://baochinhphu.vn/tu-nang-hang-chung-khoan-den-bai-toan-nang-chat-thi-truong-von-10226021609253359.htm) - 09:22 16/02/2026
+- 🌈 [Chế độ nâng lương là một nội dung của hợp đồng lao động](https://baochinhphu.vn/che-do-nang-luong-la-mot-noi-dung-cua-hop-dong-lao-dong-102260211103355791.htm) - 09:03 16/02/2026
+- 🔥 [&#39;Rốn lũ&#39; Hòa Thịnh: Miền xanh hy vọng đã nảy mầm](https://baochinhphu.vn/ron-lu-hoa-thinh-mien-xanh-hy-vong-da-nay-mam-102260213074656762.htm) - 08:44 16/02/2026<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
