@@ -205,46 +205,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Thời hạn, định hướng sắp xếp các đơn vị sự nghiệp, trường học](https://laodong.vn/giao-duc/thoi-han-dinh-huong-sap-xep-cac-don-vi-su-nghiep-truong-hoc-1656411.ldo) - 00:05 15/02/2026
-- 📝 [Đoàn viên ngành Công Thương được hỗ trợ &quot;Mái ấm Công đoàn&quot; trước Tết Nguyên đán](https://laodong.vn/cong-doan/doan-vien-nganh-cong-thuong-duoc-ho-tro-mai-am-cong-doan-truoc-tet-nguyen-dan-1656432.ldo) - 00:00 15/02/2026
-- 🦏 [Dịp Tết, đỗ xe cần lưu ý tránh xa nơi hóa vàng](https://laodong.vn/xe/dip-tet-do-xe-can-luu-y-tranh-xa-noi-hoa-vang-1656249.ldo) - 00:00 15/02/2026
-- 🦩 [Tin sáng 15.02: Hàng nghìn người dân An Giang được tặng quà trên đường về quê](https://laodong.vn/podcast-tin-tuc/tin-sang-1502-hang-nghin-nguoi-dan-an-giang-duoc-tang-qua-tren-duong-ve-que-1656336.ldo) - 00:00 15/02/2026
-- 🦏 [Cách thiết kế nhà bếp nhỏ trông rộng rãi và thoáng sáng hơn](https://laodong.vn/bat-dong-san/cach-thiet-ke-nha-bep-nho-trong-rong-rai-va-thoang-sang-hon-1656372.ldo) - 00:00 15/02/2026
-- 🧰 [Mỹ nhân &quot;Lằn ranh&quot;: Tôi thích nấu ăn dịp Tết, thích khoảnh khắc giao thừa](https://laodong.vn/video/my-nhan-lan-ranh-toi-thich-nau-an-dip-tet-thich-khoanh-khac-giao-thua-1652923.ldo) - 00:00 15/02/2026
-- 🌊 [3 bí quyết chọn lõi bò tươi ngon chế biến món ăn ngày Tết](https://laodong.vn/gia-dinh-hon-nhan/3-bi-quyet-chon-loi-bo-tuoi-ngon-che-bien-mon-an-ngay-tet-1652994.ldo) - 00:00 15/02/2026
-- 🔥 [Táo Quân và những lần bất ngờ dừng sản xuất](https://laodong.vn/giai-tri/tao-quan-va-nhung-lan-bat-ngo-dung-san-xuat-1653085.ldo) - 00:00 15/02/2026
-- 🦒 [Những “mắt trời” không ngủ giữa Trường Sa](https://laodong.vn/xa-hoi/nhung-mat-troi-khong-ngu-giua-truong-sa-1650682.ldo) - 00:00 15/02/2026
-- 💼 [Cán bộ Công đoàn cần có tư duy phân tích](https://laodong.vn/lao-dong-cuoi-tuan/can-bo-cong-doan-can-co-tu-duy-phan-tich-1654223.ldo) - 00:00 15/02/2026
-- 🤖 [Phố bánh kẹo Hà Nội ken đặc người mua ngày cận Tết](https://laodong.vn/kinh-doanh/pho-banh-keo-ha-noi-ken-dac-nguoi-mua-ngay-can-tet-1655614.ldo) - 00:00 15/02/2026
-- 💪 [Mặt trận tiếp tục hoàn thành sứ mệnh của mình, đóng góp vào hành trình đưa Việt Nam vươn mình mạnh mẽ](https://laodong.vn/emagazine/mat-tran-tiep-tuc-hoan-thanh-su-menh-cua-minh-dong-gop-vao-hanh-trinh-dua-viet-nam-vuon-minh-manh-me-1655881.ldo) - 00:00 15/02/2026
-- 👍 [Ngành Than - Khoáng sản chi 2.452 tỉ đồng chăm lo Tết cho người lao động](https://laodong.vn/cong-doan/nganh-than-khoang-san-chi-2452-ti-dong-cham-lo-tet-cho-nguoi-lao-dong-1656427.ldo) - 23:48 14/02/2026
-- 💂 [Giáo dục 24h: Hà Nội tạm cấp tiền thưởng, kịp thời động viên cho giáo viên](https://laodong.vn/giao-duc/giao-duc-24h-ha-noi-tam-cap-tien-thuong-kip-thoi-dong-vien-cho-giao-vien-1656404.ldo) - 23:43 14/02/2026
-- 🧰 [Tăng huyết áp ở trẻ em gia tăng và cách kiểm soát hiệu quả](https://laodong.vn/suc-khoe/tang-huyet-ap-o-tre-em-gia-tang-va-cach-kiem-soat-hieu-qua-1656130.ldo) - 23:36 14/02/2026
-- 🥷 [Tết Sum vầy ấm áp với đoàn viên, người lao động An Giang](https://laodong.vn/cong-doan/tet-sum-vay-am-ap-voi-doan-vien-nguoi-lao-dong-an-giang-1654160.ldo) - 23:36 14/02/2026
-- 💫 [15 năm mang Xuân yêu thương đến những mảnh đời khó khăn](https://laodong.vn/nguoi-viet-tu-te/15-nam-mang-xuan-yeu-thuong-den-nhung-manh-doi-kho-khan-1653816.ldo) - 23:36 14/02/2026
-- 🎭 [Việt Nam nổi lên như ứng cử viên con hổ châu Á mới](https://laodong.vn/the-gioi/viet-nam-noi-len-nhu-ung-cu-vien-con-ho-chau-a-moi-1653840.ldo) - 23:30 14/02/2026
-- 😎 [Công nhân bám công trường trọng điểm tại TPHCM xuyên Tết](https://laodong.vn/xa-hoi/cong-nhan-bam-cong-truong-trong-diem-tai-tphcm-xuyen-tet-1653885.ldo) - 23:30 14/02/2026
-- 💄 [Khách du lịch ấn tượng chợ hoa Hàng Lược ngày giáp Tết](https://laodong.vn/video/khach-du-lich-an-tuong-cho-hoa-hang-luoc-ngay-giap-tet-1654647.ldo) - 23:30 14/02/2026
-- 🫣 [Thời tiết hôm nay 15.2: Miền Bắc ấm áp trước khi đón không khí lạnh mới](https://laodong.vn/ban-tin/thoi-tiet-hom-nay-152-mien-bac-am-ap-truoc-khi-don-khong-khi-lanh-moi-1656326.ldo) - 23:30 14/02/2026
-- 🧑‍🏫 [Xông đất năm Bính Ngọ 2026 chọn tuổi hợp đón tài lộc và bình an](https://laodong.vn/van-hoa-giai-tri/xong-dat-nam-binh-ngo-2026-chon-tuoi-hop-don-tai-loc-va-binh-an-1656104.ldo) - 23:30 14/02/2026
-- 🦣 [Quyền lợi của giáo viên về lương, phụ cấp trong thời gian nghỉ hè](https://laodong.vn/giao-duc/quyen-loi-cua-giao-vien-ve-luong-phu-cap-trong-thoi-gian-nghi-he-1656410.ldo) - 23:30 14/02/2026
-- 💫 [Hạn chót thực hiện tăng lương hưu](https://laodong.vn/ban-doc/han-chot-thuc-hien-tang-luong-huu-1656417.ldo) - 23:27 14/02/2026
-- ⛽️ [Nghi ngờ ngộ độc sau ăn cá ủ chua, Bộ Y tế yêu cầu khẩn trương xử lý](https://laodong.vn/suc-khoe/nghi-ngo-ngo-doc-sau-an-ca-u-chua-bo-y-te-yeu-cau-khan-truong-xu-ly-1656409.ldo) - 23:26 14/02/2026
-- 💫 [Bài tập nhẹ nhàng giúp người cao tuổi tránh triệu chứng đầy bụng trong ngày Tết](https://laodong.vn/suc-khoe/bai-tap-nhe-nhang-giup-nguoi-cao-tuoi-tranh-trieu-chung-day-bung-trong-ngay-tet-1653848.ldo) - 23:26 14/02/2026
-- 🥸 [Không chỉ là lương cơ bản - những khoản thu nhập phải đóng BHXH bắt buộc](https://laodong.vn/cong-doan/khong-chi-la-luong-co-ban-nhung-khoan-thu-nhap-phai-dong-bhxh-bat-buoc-1656421.ldo) - 23:25 14/02/2026
-- 🐻 [NSƯT Thái Sơn bất ngờ xuất hiện với trang phục Táo Quân ở chương trình giao thừa](https://laodong.vn/van-hoa-giai-tri/nsut-thai-son-bat-ngo-xuat-hien-voi-trang-phuc-tao-quan-o-chuong-trinh-giao-thua-1656335.ldo) - 23:15 14/02/2026
-- 🪄 [Cảm nhận nhịp xuân từ chợ hoa lớn nhất Hà Nội đêm 27 Tết](https://laodong.vn/video-xa-hoi/cam-nhan-nhip-xuan-tu-cho-hoa-lon-nhat-ha-noi-dem-27-tet-1656413.ldo) - 23:12 14/02/2026
-- 🧑‍🏫 [Cập nhật giá vàng sáng 15.2: Khó bứt phá trong ngắn hạn](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-sang-152-kho-but-pha-trong-ngan-han-1656046.ldo) - 23:10 14/02/2026
-- 🌊 [Tăng huyết áp ngày Tết dễ nhầm với mệt mỏi](https://laodong.vn/ban-tin/tang-huyet-ap-ngay-tet-de-nham-voi-met-moi-1656047.ldo) - 23:09 14/02/2026
-- 💻 [Tết ấm tình quân dân ở vùng cao Đà Nẵng](https://laodong.vn/video/tet-am-tinh-quan-dan-o-vung-cao-da-nang-1656236.ldo) - 23:08 14/02/2026
-- 👨‍🏫 [Collagen được tăng cường bằng loại nước lá ít ai ngờ](https://laodong.vn/dinh-duong-am-thuc/collagen-duoc-tang-cuong-bang-loai-nuoc-la-it-ai-ngo-1656402.ldo) - 23:05 14/02/2026
-- 🌈 [Bổ sung canxi, làm da đẹp bằng loại canh quen thuộc trong mâm cơm ngày Tết](https://laodong.vn/chuyen-nha-minh/bo-sung-canxi-lam-da-dep-bang-loai-canh-quen-thuoc-trong-mam-com-ngay-tet-1656416.ldo) - 23:04 14/02/2026
-- 🐲 [Muốn giảm mỡ, trước khi đi ngủ người lao động nên ăn món nhẹ nào?](https://laodong.vn/suc-khoe/muon-giam-mo-truoc-khi-di-ngu-nguoi-lao-dong-nen-an-mon-nhe-nao-1656418.ldo) - 23:04 14/02/2026
-- 🚀 [Từ lì xì đầu năm đến bài học về tiết kiệm và sẻ chia](https://laodong.vn/video-xa-hoi/tu-li-xi-dau-nam-den-bai-hoc-ve-tiet-kiem-va-se-chia-1655946.ldo) - 23:00 14/02/2026
-- 😺 [Mua sắm tài sản công vượt tiêu chuẩn bị phạt đến 20 triệu đồng](https://laodong.vn/tu-van-phap-luat/mua-sam-tai-san-cong-vuot-tieu-chuan-bi-phat-den-20-trieu-dong-1655416.ldo) - 23:00 14/02/2026
-- 🕴 [Vườn ngựa dừng chân và những người không vội vã](https://laodong.vn/van-hoa-giai-tri/vuon-ngua-dung-chan-va-nhung-nguoi-khong-voi-va-1650837.ldo) - 23:00 14/02/2026
-- 🌋 [Công nhân môi trường trực xuyên Tết giữ phố phường sạch đẹp](https://laodong.vn/video-xa-hoi/cong-nhan-moi-truong-truc-xuyen-tet-giu-pho-phuong-sach-dep-1653601.ldo) - 23:00 14/02/2026
-- 💄 [Nghị quyết 57 và tư duy mới, nghĩ xa, làm lớn cho một Việt Nam hùng cường](https://laodong.vn/thoi-su/nghi-quyet-57-va-tu-duy-moi-nghi-xa-lam-lon-cho-mot-viet-nam-hung-cuong-1653758.ldo) - 23:00 14/02/2026<!-- laodong:END -->
+- 🗽 [Chùa Hương đón hơn 25.000 lượt khách trong 2 ngày đầu năm](https://laodong.vn/van-hoa/chua-huong-don-hon-25000-luot-khach-trong-2-ngay-dau-nam-1657578.ldo) - 11:24 18/02/2026
+- 📝 [Quán ăn mở cửa xuyên Tết, tăng giá nhẹ để trả lương nhân viên](https://laodong.vn/kinh-doanh/quan-an-mo-cua-xuyen-tet-tang-gia-nhe-de-tra-luong-nhan-vien-1657494.ldo) - 11:19 18/02/2026
+- 🦏 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 18.2.2026](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-1822026-1657584.ldo) - 11:05 18/02/2026
+- 🦩 [313 tài xế vi phạm nồng độ cồn ở Hải Phòng trong 5 ngày nghỉ Tết](https://laodong.vn/phap-luat/313-tai-xe-vi-pham-nong-do-con-o-hai-phong-trong-5-ngay-nghi-tet-1657572.ldo) - 11:02 18/02/2026
+- 🦏 [Quyền và nghĩa vụ của tổ chức tham gia bảo hiểm tiền gửi](https://laodong.vn/thoi-su/quyen-va-nghia-vu-cua-to-chuc-tham-gia-bao-hiem-tien-gui-1653869.ldo) - 11:00 18/02/2026
+- 🧰 [Bác sĩ chỉ cách bảo vệ trẻ khỏe mạnh suốt kỳ nghỉ Tết](https://laodong.vn/video/bac-si-chi-cach-bao-ve-tre-khoe-manh-suot-ky-nghi-tet-1656161.ldo) - 11:00 18/02/2026
+- 🌊 [Đón Tết giữa cánh rừng đặc dụng có nhiều gỗ trắc quý hiếm](https://laodong.vn/xa-hoi/don-tet-giua-canh-rung-dac-dung-co-nhieu-go-trac-quy-hiem-1657553.ldo) - 10:59 18/02/2026
+- 🔥 [Ùn tắc nghiêm trọng trên cao tốc Hà Nội – Thái Nguyên](https://laodong.vn/giao-thong/un-tac-nghiem-trong-tren-cao-toc-ha-noi--thai-nguyen-1657567.ldo) - 10:58 18/02/2026
+- 🦒 [Đà Nẵng tổ chức múa lân, lì xì cho du khách quốc tế đầu năm mới](https://laodong.vn/video/da-nang-to-chuc-mua-lan-li-xi-cho-du-khach-quoc-te-dau-nam-moi-1657559.ldo) - 10:58 18/02/2026
+- 💼 [CSGT Lào Cai sử dụng flycam giám sát quán nhậu, xử lý vi phạm nồng độ cồn](https://laodong.vn/xa-hoi/csgt-lao-cai-su-dung-flycam-giam-sat-quan-nhau-xu-ly-vi-pham-nong-do-con-1657547.ldo) - 10:56 18/02/2026
+- 🤖 [Giờ đẹp để tiến hành cúng hóa vàng mùng 3 Tết Bính Ngọ 2026](https://laodong.vn/gia-dinh-hon-nhan/gio-dep-de-tien-hanh-cung-hoa-vang-mung-3-tet-binh-ngo-2026-1657376.ldo) - 10:50 18/02/2026
+- 💪 [Người Nùng Lạng Sơn xếp gà thành hàng dài, làm lễ &quot;trình đất&quot; ngày đầu năm mới](https://laodong.vn/xa-hoi/nguoi-nung-lang-son-xep-ga-thanh-hang-dai-lam-le-trinh-dat-ngay-dau-nam-moi-1657554.ldo) - 10:48 18/02/2026
+- 👍 [Tai nạn giữa ô tô và xe máy ở Lâm Đồng, 3 người trong gia đình thương vong](https://laodong.vn/giao-thong/tai-nan-giua-o-to-va-xe-may-o-lam-dong-3-nguoi-trong-gia-dinh-thuong-vong-1657564.ldo) - 10:46 18/02/2026
+- 💂 [Chính sách mới sẽ tạo đột phá cho vận động viên thể thao Việt Nam](https://laodong.vn/the-thao/chinh-sach-moi-se-tao-dot-pha-cho-van-dong-vien-the-thao-viet-nam-1657530.ldo) - 10:41 18/02/2026
+- 🧰 [Chụp ảnh cùng thuyền buồm ven bờ vịnh Hạ Long đông như trẩy hội](https://laodong.vn/xa-hoi/chup-anh-cung-thuyen-buom-ven-bo-vinh-ha-long-dong-nhu-tray-hoi-1657569.ldo) - 10:39 18/02/2026
+- 🥷 [Tết của nhân viên y tế ở các bệnh viện ven biên giới An Giang](https://laodong.vn/suc-khoe/tet-cua-nhan-vien-y-te-o-cac-benh-vien-ven-bien-gioi-an-giang-1657555.ldo) - 10:36 18/02/2026
+- 💫 [Lee Joon Hyuk có xuất thân hoàng tộc](https://laodong.vn/van-hoa-giai-tri/lee-joon-hyuk-co-xuat-than-hoang-toc-1657527.ldo) - 10:32 18/02/2026
+- 🎭 [Giá vàng có thể giảm sâu nếu 2 rủi ro này xảy ra](https://laodong.vn/tien-te-dau-tu/gia-vang-co-the-giam-sau-neu-2-rui-ro-nay-xay-ra-1657410.ldo) - 10:31 18/02/2026
+- 😎 [Lý do vì sao trong tình yêu, cử chỉ nhỏ quan trọng hơn lời yêu](https://laodong.vn/gia-dinh-hon-nhan/ly-do-vi-sao-trong-tinh-yeu-cu-chi-nho-quan-trong-hon-loi-yeu-1657418.ldo) - 10:30 18/02/2026
+- 💄 [Giá dầu thế giới biến động lạ sau tín hiệu thỏa thuận hạt nhân Mỹ và Iran](https://laodong.vn/kinh-doanh/gia-dau-the-gioi-bien-dong-la-sau-tin-hieu-thoa-thuan-hat-nhan-my-va-iran-1657532.ldo) - 10:28 18/02/2026
+- 🫣 [Sắc màu lễ hội Tết Bính Ngọ 2026 giữa trung tâm Moskva](https://laodong.vn/van-hoa-giai-tri/sac-mau-le-hoi-tet-binh-ngo-2026-giua-trung-tam-moskva-1657539.ldo) - 10:26 18/02/2026
+- 🧑‍🏫 [Tuyển thủ rowing Hồ Thị Duy chờ cơ hội bứt phá năm 2026](https://laodong.vn/the-thao/tuyen-thu-rowing-ho-thi-duy-cho-co-hoi-but-pha-nam-2026-1657562.ldo) - 10:23 18/02/2026
+- 🦣 [Địa điểm du xuân ở Ninh Bình hút khách đầu năm mới](https://laodong.vn/xa-hoi/dia-diem-du-xuan-o-ninh-binh-hut-khach-dau-nam-moi-1657511.ldo) - 10:21 18/02/2026
+- 💫 [Mực nước các hồ thủy điện trong cả nước ngày 18.2](https://laodong.vn/xa-hoi/muc-nuoc-cac-ho-thuy-dien-trong-ca-nuoc-ngay-182-1657545.ldo) - 10:19 18/02/2026
+- ⛽️ [Tuyển sinh 2026: Tổ hợp D07 được nhiều trường đại học sử dụng](https://laodong.vn/tuyen-sinh/tuyen-sinh-2026-to-hop-d07-duoc-nhieu-truong-dai-hoc-su-dung-1657541.ldo) - 10:18 18/02/2026
+- 💫 [Đội tuyển golf miền Nam lựa chọn VĐV dự Giải đối kháng đồng đội 2026](https://laodong.vn/golf/doi-tuyen-golf-mien-nam-lua-chon-vdv-du-giai-doi-khang-dong-doi-2026-1657534.ldo) - 10:16 18/02/2026
+- 🥸 [Người dân du xuân Tây Yên Tử, lượng khách dự báo tăng vọt ngày chính hội](https://laodong.vn/video-xa-hoi/nguoi-dan-du-xuan-tay-yen-tu-luong-khach-du-bao-tang-vot-ngay-chinh-hoi-1657522.ldo) - 10:14 18/02/2026
+- 🐻 [Người dân đổ về đền Hùng dâng hương đầu năm mới](https://laodong.vn/xa-hoi/nguoi-dan-do-ve-den-hung-dang-huong-dau-nam-moi-1657464.ldo) - 10:13 18/02/2026
+- 🪄 [Nô nức đi xin lộc, cầu may tại đền thờ Thánh Gióng ngày đầu năm](https://laodong.vn/ban-doc/no-nuc-di-xin-loc-cau-may-tai-den-tho-thanh-giong-ngay-dau-nam-1657548.ldo) - 10:11 18/02/2026
+- 🧑‍🏫 [Tuyển nữ Việt Nam tập luyện trở lại trong mùng 2 Tết](https://laodong.vn/the-thao/tuyen-nu-viet-nam-tap-luyen-tro-lai-trong-mung-2-tet-1657542.ldo) - 10:03 18/02/2026
+- 🌊 [Bí quyết bảo quản các loại củ quả ngày Tết](https://laodong.vn/ban-tin/bi-quyet-bao-quan-cac-loai-cu-qua-ngay-tet-1657512.ldo) - 10:00 18/02/2026
+- 💻 [Thảo Cầm Viên Sài Gòn đông nghẹt khách du xuân mùng 2 Tết](https://laodong.vn/xa-hoi/thao-cam-vien-sai-gon-dong-nghet-khach-du-xuan-mung-2-tet-1657536.ldo) - 09:57 18/02/2026
+- 👨‍🏫 [Hơn 2.500 lao động làm việc xuyên Tết ở Đồng Nai](https://laodong.vn/cong-doan/hon-2500-lao-dong-lam-viec-xuyen-tet-o-dong-nai-1657550.ldo) - 09:54 18/02/2026
+- 🌈 [Rộn ràng hội xuân và màn đấu bò hấp dẫn ở Điện Biên](https://laodong.vn/van-hoa-giai-tri/ron-rang-hoi-xuan-va-man-dau-bo-hap-dan-o-dien-bien-1657478.ldo) - 09:53 18/02/2026
+- 🐲 [Trợ cấp thất nghiệp: Tháng hưởng được tính ra sao](https://laodong.vn/cong-doan/tro-cap-that-nghiep-thang-huong-duoc-tinh-ra-sao-1657544.ldo) - 09:52 18/02/2026
+- 🚀 [Mực nước của các hồ thủy điện ở miền Bắc ngày 18.2](https://laodong.vn/xa-hoi/muc-nuoc-cua-cac-ho-thuy-dien-o-mien-bac-ngay-182-1657546.ldo) - 09:51 18/02/2026
+- 😺 [Đua thuyền truyền thống trên sông Cà Ty mùng 2 Tết Bính Ngọ 2026](https://laodong.vn/van-hoa-giai-tri/dua-thuyen-truyen-thong-tren-song-ca-ty-mung-2-tet-binh-ngo-2026-1657533.ldo) - 09:51 18/02/2026
+- 🕴 [YouTube lên tiếng về sự cố toàn cầu](https://laodong.vn/cong-nghe/youtube-len-tieng-ve-su-co-toan-cau-1657529.ldo) - 09:40 18/02/2026
+- 🌋 [Lo ngại vi phạm nồng độ cồn, nhiều gia đình chọn thuê xe có lái dịp Tết 2026](https://laodong.vn/giao-thong/lo-ngai-vi-pham-nong-do-con-nhieu-gia-dinh-chon-thue-xe-co-lai-dip-tet-2026-1657520.ldo) - 09:39 18/02/2026
+- 💄 [Chi phí chuyển đổi đất vườn sang đất ở mới nhất 2026](https://laodong.vn/bat-dong-san/chi-phi-chuyen-doi-dat-vuon-sang-dat-o-moi-nhat-2026-1657458.ldo) - 09:35 18/02/2026<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
