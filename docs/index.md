@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Tản văn Mực Tím: Mùi Tết](https://muctim.tuoitre.vn/tan-van-muc-tim-mui-tet-101260204145701278.htm) - 12:40 18/02/2026
 - 🤓 [Đội hình ra sân Công An Hà Nội đấu Tampines Rovers ngày 18-2](https://muctim.tuoitre.vn/doi-hinh-ra-san-cong-an-ha-noi-dau-tampines-rovers-ngay-18-2-101260218182717075.htm) - 12:08 18/02/2026
 - 🎉 [Truyện ngắn Mực Tím Xuân: Bún xuân](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-xuan-bun-xuan-101260104101020141.htm) - 11:00 18/02/2026
-- 👨‍🏫 [Trực tiếp AFC Champions League Two: Công An Hà Nội - Tampines Rovers](https://muctim.tuoitre.vn/truc-tiep-afc-champions-league-two-cong-an-ha-noi-tampines-rovers-101260218165002735.htm) - 10:24 18/02/2026
+- 👨‍🏫 [Thua Tampines Rovers 1-3, Công An Hà Nội dừng bước tại Champions League Two](https://muctim.tuoitre.vn/truc-tiep-afc-champions-league-two-cong-an-ha-noi-tampines-rovers-101260218165002735.htm) - 10:24 18/02/2026
 - 🚦 [Lời chúc Tết ý nghĩa dành tặng thầy cô giáo dịp Tết Bính Ngọ 2026](https://muctim.tuoitre.vn/loi-chuc-tet-y-nghia-danh-tang-thay-co-giao-dip-tet-binh-ngo-2026-101260218154831447.htm) - 09:07 18/02/2026
 - 🤭 [Xem trực tiếp Al Nassr đấu Arkadag tại AFC Champions League Two trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-al-nassr-dau-arkadag-tai-afc-champions-league-two-tren-kenh-nao-101260218133845236.htm) - 09:05 18/02/2026
 - 😺 [Check-in linh vật ngựa chở đầy hoa tại phường Sa Đéc &lpar;Đồng Tháp&rpar;](https://muctim.tuoitre.vn/check-in-linh-vat-ngua-cho-day-hoa-tai-phuong-sa-dec-dong-thap-101260218114245934.htm) - 05:37 18/02/2026
