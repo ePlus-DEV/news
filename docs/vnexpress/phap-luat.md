@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ điều hành đường dây lừa đảo từ Camphuchia về đầu thú](https://vnexpress.net/ke-dieu-hanh-duong-day-lua-dao-tu-camphuchia-ve-dau-thu-5042099.html) - 01:46 18/02/2026
+- 😎 [Kẻ điều hành đường dây lừa đảo từ Campuchia về đầu thú](https://vnexpress.net/ke-dieu-hanh-duong-day-lua-dao-tu-campuchia-ve-dau-thu-5042099.html) - 01:46 18/02/2026
 - 🥰 [Gã đàn ông đốt hai ôtô và cửa chùa bị bắt](https://vnexpress.net/ga-dan-ong-dot-hai-oto-va-cua-chua-bi-bat-5042096.html) - 01:36 18/02/2026
 - 🎓 [Giật lắc tay, dây chuyền của chủ tiệm vàng trong đêm giao thừa](https://vnexpress.net/giat-lac-tay-day-chuyen-cua-chu-tiem-vang-trong-dem-giao-thua-5042089.html) - 00:34 18/02/2026
 - 🤓 [Ba tháng chuẩn bị cướp ngân hàng &#39;như phim hành động&#39; của giang hồ nhiều tiền án](https://vnexpress.net/ba-thang-chuan-bi-cuop-ngan-hang-nhu-phim-hanh-dong-cua-giang-ho-nhieu-tien-an-5040741.html) - 23:00 17/02/2026
