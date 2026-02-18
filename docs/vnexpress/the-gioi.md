@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Triều Tiên hoàn tất dự án xây 50.000 căn hộ ở Bình Nhưỡng](https://vnexpress.net/trieu-tien-hoan-tat-du-an-xay-50-000-can-ho-o-binh-nhuong-5042151.html) - 07:09 18/02/2026
+- 🎭 [Bà Takaichi tái đắc cử Thủ tướng Nhật](https://vnexpress.net/ba-takaichi-tai-dac-cu-thu-tuong-nhat-5042146.html) - 07:33 18/02/2026
 - 🕴 [Con gái ông Duterte thông báo tranh cử tổng thống](https://vnexpress.net/con-gai-ong-duterte-thong-bao-tranh-cu-tong-thong-5042125.html) - 04:50 18/02/2026
 - 🤭 [Campuchia hy vọng Hội đồng Hòa bình sẽ giúp giảm căng thẳng với Thái Lan](https://vnexpress.net/campuchia-hy-vong-hoi-dong-hoa-binh-se-giup-giam-cang-thang-voi-thai-lan-5042102.html) - 03:01 18/02/2026
 - 🧑‍💻 [California hứng mưa lớn, nguy cơ ngập lụt diện rộng](https://vnexpress.net/california-hung-mua-lon-nguy-co-ngap-lut-dien-rong-5042105.html) - 02:42 18/02/2026
