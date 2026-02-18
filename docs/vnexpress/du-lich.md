@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tết Hong Kong 66 năm trước qua góc nhìn của báo Tây](https://vnexpress.net/tet-hong-kong-66-nam-truoc-qua-goc-nhin-cua-bao-tay-5041824.html) - 02:00 18/02/2026
+- 💂 [Cảnh đốt pháo nổ trong Tết Hong Kong 66 năm trước](https://vnexpress.net/canh-dot-phao-no-trong-tet-hong-kong-66-nam-truoc-5041824.html) - 02:00 18/02/2026
 - 🪄 [Kỳ nghỉ Tết dài nhất lịch sử Trung Quốc tạo cú hích du lịch](https://vnexpress.net/ky-nghi-tet-dai-nhat-lich-su-trung-quoc-tao-cu-hich-du-lich-5041970.html) - 00:00 18/02/2026
 - 🦅 [5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm](https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html) - 17:00 17/02/2026
 - 🕴 [Hội An vào top điểm đến trải nghiệm Tết hàng đầu châu Á](https://vnexpress.net/hoi-an-vao-top-diem-den-trai-nghiem-tet-hang-dau-chau-a-5042002.html) - 12:49 17/02/2026
