@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [7 người Việt mất tích ở biên giới Campuchia - Thái Lan](https://vnexpress.net/7-nguoi-viet-mat-tich-o-bien-gioi-campuchia-thai-lan-5042381.html) - 17:04 19/02/2026
+- 🎭 [Thái Lan bắt giữ nhóm người Việt vượt biên từ Campuchia](https://vnexpress.net/thai-lan-bat-giu-nhom-nguoi-viet-vuot-bien-tu-campuchia-5042381.html) - 17:04 19/02/2026
 - 🕴 [Ông Trump: Mỹ sẽ góp 10 tỷ USD cho Hội đồng Hòa bình](https://vnexpress.net/ong-trump-my-se-gop-10-ty-usd-cho-hoi-dong-hoa-binh-5042380.html) - 16:38 19/02/2026
 - 🤭 [Ông Macron chỉ trích Thủ tướng Italy can dự chuyện của Pháp](https://vnexpress.net/ong-macron-chi-trich-thu-tuong-italy-can-du-chuyen-cua-phap-5042371.html) - 16:25 19/02/2026
 - 🧑‍💻 [Hungary dọa cắt điện, khí đốt sang Ukraine](https://vnexpress.net/hungary-doa-cat-dien-khi-dot-sang-ukraine-5042355.html) - 14:08 19/02/2026
