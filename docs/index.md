@@ -26,60 +26,60 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Arsenal hòa đội bét bảng Ngoại hạng Anh](https://vnexpress.net/arsenal-hoa-doi-bet-bang-ngoai-hang-anh-5042225.html) - 22:35 18/02/2026
-- 🧰 [Newcastle thắng 6-1 ở Champions League](https://vnexpress.net/newcastle-thang-6-1-o-champions-league-5042226.html) - 22:13 18/02/2026
-- 🥰 [Tranh tài đua thuyền trên sông Cà Ty mừng năm mới](https://vnexpress.net/tranh-tai-dua-thuyen-tren-song-ca-ty-mung-nam-moi-5042222.html) - 22:00 18/02/2026
-- 🌏 [Tổng đài viên 115 và những cuộc gọi hoảng loạn ngày Tết](https://vnexpress.net/tong-dai-vien-115-va-nhung-cuoc-goi-hoang-loan-ngay-tet-5040898.html) - 22:00 18/02/2026
-- 🧐 [Việc làm công nghệ sẽ thay đổi thế nào năm nay](https://vnexpress.net/viec-lam-cong-nghe-se-thay-doi-the-nao-nam-nay-5039351.html) - 22:00 18/02/2026
-- 💫 [Cách xế cổ đo nhiệt độ ngoài trời](https://vnexpress.net/cach-xe-co-do-nhiet-do-ngoai-troi-5039946.html) - 22:00 18/02/2026
-- 😺 [Loại quả &#39;quét&#39; sạch chất béo ngày Tết](https://vnexpress.net/loai-qua-quet-sach-chat-beo-ngay-tet-5042138.html) - 19:00 18/02/2026
-- 🕯 [Nên ăn gì trước khi uống rượu?](https://vnexpress.net/nen-an-gi-truoc-khi-uong-ruou-5040803.html) - 18:03 18/02/2026
-- 💃 [Nhát đâm bất hiếu lúc nửa đêm của &#39;con rể hờ&#39;](https://vnexpress.net/nhung-nhat-dam-bat-hieu-luc-nua-dem-cua-con-re-ho-5042218.html) - 17:37 18/02/2026
-- 💂 [Nhà băng phải báo trước khi dùng AI trò chuyện với khách hàng](https://vnexpress.net/nha-bang-phai-bao-truoc-khi-dung-ai-tro-chuyen-voi-khach-hang-5042210.html) - 17:10 18/02/2026
-- 🎊 [Đà Nẵng sắp mở bán gần 400 căn nhà xã hội hơn 20 triệu đồng một m2](https://vnexpress.net/da-nang-sap-mo-ban-gan-400-can-nha-xa-hoi-hon-20-trieu-dong-mot-m2-5042216.html) - 17:03 18/02/2026
-- 🤠 [Rượu bia là chất xúc tác hay &#39;kẻ phá bĩnh&#39; phòng the?](https://vnexpress.net/ruou-bia-la-chat-xuc-tac-hay-ke-pha-binh-phong-the-5041995.html) - 17:03 18/02/2026
-- 🌈 [Dựng 2.000 cây thông lễ hội bỏ đi thành lũy chắn sóng](https://vnexpress.net/dung-2-000-cay-thong-le-hoi-bo-di-thanh-luy-chan-song-5041822.html) - 17:02 18/02/2026
-- 🎬 [Ba con giáp nhận Tài lộc bất ngờ trong 10 ngày tới](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-3-con-giap-nhan-tai-loc-bat-ngo-trong-10-ngay-toi-5040760.html) - 17:02 18/02/2026
-- 🚀 [Tết ở chung cư](https://vnexpress.net/tet-o-chung-cu-5042215.html) - 17:00 18/02/2026
-- 🪄 [Bạn trai thú nhận đang dính án treo khi tôi thông báo có thai](https://vnexpress.net/ban-trai-thu-nhan-dang-dinh-an-treo-khi-toi-thong-bao-co-thai-5042148.html) - 17:00 18/02/2026
-- 😎 [Tôi thất bại vì lương 50 triệu nhưng không dám vay nợ mua nhà](https://vnexpress.net/toi-that-bai-vi-luong-50-trieu-nhung-khong-dam-vay-no-mua-nha-5042120.html) - 17:00 18/02/2026
-- 🎊 [&#39;Mùi phở&#39; - tiếng cười từ mâu thuẫn bố chồng, nàng dâu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mui-pho-879) - 17:00 18/02/2026
-- ⚗️ [Nam sinh lấy bằng sáng chế độc quyền với robot tự hành &#39;siêu nhỏ&#39;](https://vnexpress.net/nam-sinh-lay-bang-sang-che-doc-quyen-voi-robot-tu-hanh-sieu-nho-5040987.html) - 17:00 18/02/2026
-- 🫣 [Những đêm trắng trong rừng truy bắt hai kẻ cướp ngân hàng của cảnh sát hình sự](https://vnexpress.net/nhung-dem-trang-trong-rung-truy-bat-hai-ke-cuop-ngan-hang-cua-canh-sat-hinh-su-5040757.html) - 17:00 18/02/2026
-- 👨‍🏫 [Kiếm triệu USD từ kinh doanh nhà vệ sinh di động](https://vnexpress.net/kiem-trieu-usd-tu-kinh-doanh-nha-ve-sinh-di-dong-5039666.html) - 17:00 18/02/2026
-- 🐻 [Khám phá báu vật UNESCO sát vách Hà Nội](https://vnexpress.net/kham-pha-bau-vat-unesco-sat-vach-ha-noi-5005621.html) - 17:00 18/02/2026
-- 😺 [Ferrari tặng gần 18.000 USD cho mỗi nhân viên vì lãi lớn](https://vnexpress.net/ferrari-tang-gan-18-000-usd-cho-moi-nhan-vien-vi-lai-lon-5042055.html) - 17:00 18/02/2026
-- 🤔 [Nghệ sĩ đàn tỳ bà Diệu Thảo viết ca khúc về Tết bình an](https://vnexpress.net/nghe-si-dan-ty-ba-dieu-thao-viet-ca-khuc-ve-tet-binh-an-5041735.html) - 15:56 18/02/2026
-- 🌮 [20 người chết vì nổ pháo hoa ở Trung Quốc trong 4 ngày Tết](https://vnexpress.net/20-nguoi-chet-vi-no-phao-hoa-o-trung-quoc-trong-4-ngay-tet-5042203.html) - 15:22 18/02/2026
-- 🦩 [Slovakia dọa cắt nguồn cung cấp điện khẩn cấp cho Ukraine](https://vnexpress.net/slovakia-doa-cat-nguon-cung-cap-dien-khan-cap-cho-ukraine-5042205.html) - 15:15 18/02/2026
-- 📝 [Công an Hà Nội bị loại ở Cup C2 châu Á](https://vnexpress.net/cong-an-ha-noi-bi-loai-o-cup-c2-chau-a-5042201.html) - 14:26 18/02/2026
-- 🕴 [Hải quân Iran - Nga sắp diễn tập chung](https://vnexpress.net/hai-quan-iran-nga-sap-dien-tap-chung-5042193.html) - 14:21 18/02/2026
-- 🐲 [6 gương mặt sáng giá cho giải &#39;Nobel Toán học&#39; 2026](https://vnexpress.net/6-guong-mat-sang-gia-cho-giai-nobel-toan-hoc-2026-5041671.html) - 14:12 18/02/2026
-- 🌜 [Cưới xong tôi mới biết sự vô trách nhiệm và bạc bẽo của chồng](https://vnexpress.net/cuoi-xong-toi-moi-biet-su-vo-trach-nhiem-va-bac-beo-cua-chong-5042149.html) - 14:00 18/02/2026
-- 💄 [Hacker đặt phòng loạt khách sạn hạng sang với giá 1 xu](https://vnexpress.net/hacker-dat-phong-loat-khach-san-hang-sang-voi-gia-1-xu-5042192.html) - 13:31 18/02/2026
-- 🌁 [Du khách vui chơi tại Sun World Ha Long ngày đầu năm](https://vnexpress.net/du-khach-vui-choi-tai-sun-world-ha-long-ngay-dau-nam-5042195.html) - 13:15 18/02/2026
-- 🎬 [Điện Kremlin bác cáo buộc Nga, Trung bí mật thử hạt nhân](https://vnexpress.net/dien-kremlin-bac-cao-buoc-nga-trung-bi-mat-thu-hat-nhan-5042171.html) - 13:05 18/02/2026
-- 👨‍🏫 [Nước nào nghỉ Tết Nguyên đán 2026 dài nhất?](https://vnexpress.net/nuoc-nao-nghi-tet-nguyen-dan-2026-dai-nhat-5041736.html) - 13:00 18/02/2026
-- ⚗️ [Arteta tính thay đổi cách khởi động trước trận](https://vnexpress.net/arteta-tinh-thay-doi-cach-khoi-dong-truoc-tran-5042075.html) - 12:06 18/02/2026
-- 😺 [EU mở cuộc điều tra quy mô lớn với mạng xã hội X](https://vnexpress.net/eu-mo-cuoc-dieu-tra-quy-mo-lon-voi-mang-xa-hoi-x-5042177.html) - 12:00 18/02/2026
-- 🔥 [Dân số già mở ra cơ hội hợp tác cho Trung - Hàn](https://vnexpress.net/dan-so-gia-mo-ra-co-hoi-hop-tac-cho-trung-han-5042165.html) - 12:00 18/02/2026
-- 🧰 [Vàng cưới được chia thế nào sau ly hôn?](https://vnexpress.net/vang-cuoi-duoc-chia-the-nao-sau-ly-hon-5040777.html) - 12:00 18/02/2026
-- 🦒 [5 điểm thư giãn với khoáng nóng và onsen dịp Tết ở miền Bắc](https://vnexpress.net/5-diem-thu-gian-voi-khoang-nong-va-onsen-dip-tet-o-mien-bac-5013587.html) - 12:00 18/02/2026
-- ⛽️ [Đàm phán ba bên Mỹ - Nga - Ukraine &#39;rất khó khăn&#39;](https://vnexpress.net/dam-phan-ba-ben-my-nga-ukraine-rat-kho-khan-5042170.html) - 11:53 18/02/2026
-- 🚀 [Hai vợ chồng và con trai tử vong sau tai nạn với ôtô](https://vnexpress.net/hai-vo-chong-va-con-trai-tu-vong-sau-tai-nan-voi-oto-5042184.html) - 11:15 18/02/2026
-- 🪜 [15 món ăn đem lại may mắn và sung túc năm Bính Ngọ](https://vnexpress.net/15-mon-an-dem-lai-may-man-va-sung-tuc-nam-binh-ngo-5041997.html) - 11:00 18/02/2026
-- 🚦 [Tuyên Huyên đón Tết cùng người giúp việc 103 tuổi](https://vnexpress.net/tuyen-huyen-don-tet-cung-nguoi-giup-viec-103-tuoi-5042155.html) - 11:00 18/02/2026
-- 🕯 [Meta mua hàng triệu chip của Nvidia](https://vnexpress.net/meta-mua-hang-trieu-chip-cua-nvidia-5042161.html) - 10:51 18/02/2026
-- 💪 [Tàu hàng bốc cháy ngoài khơi Trung Quốc, hai thủy thủ thiệt mạng](https://vnexpress.net/tau-hang-boc-chay-ngoai-khoi-trung-quoc-hai-thuy-thu-thiet-mang-5042168.html) - 10:16 18/02/2026
-- 🧑‍🏫 [Uống nhiều nước để đào thải cồn nhanh?](https://vnexpress.net/uong-nhieu-nuoc-de-dao-thai-con-nhanh-5042135.html) - 10:00 18/02/2026
-- 🎓 [Điểm tin 17h: Giá vàng thế giới thấp nhất nửa tháng | El Nino có thể xuất hiện nửa cuối năm nay](https://vnexpress.net/diem-tin-17h-gia-vang-the-gioi-thap-nhat-nua-thang-el-nino-co-the-xuat-hien-nua-cuoi-nam-nay-5042169.html) - 09:57 18/02/2026
-- 💫 [Australia cấm công dân từ &#39;trại IS&#39; về nước](https://vnexpress.net/australia-cam-cong-dan-tu-trai-is-ve-nuoc-5042158.html) - 09:53 18/02/2026
-- 🤩 [Hàn Quốc tính khôi phục vùng cấm bay sát Triều Tiên để ngăn sự cố](https://vnexpress.net/han-quoc-tinh-khoi-phuc-vung-cam-bay-sat-trieu-tien-de-ngan-su-co-5042157.html) - 09:42 18/02/2026
-- 🏊 [Hãng sá xị hơn 70 năm tuổi muốn bán nhà máy để thoát lỗ](https://vnexpress.net/hang-sa-xi-hon-70-nam-tuoi-muon-ban-nha-may-de-thoat-lo-5042153.html) - 09:28 18/02/2026
-- 💂 [Con quấy anh không dỗ, vợ mệt anh không thương](https://vnexpress.net/con-quay-anh-khong-do-vo-met-anh-khong-thuong-5042147.html) - 09:22 18/02/2026
-- 🚀 [Làm nộm 20 phút từ thịt gà cúng](https://vnexpress.net/doi-song-cooking-lam-nom-20-phut-tu-thit-ga-cung-5042156.html) - 08:26 18/02/2026
-- 🕴 [Tục kiêng cắt tóc, gội đầu dịp Tết Nguyên đán](https://vnexpress.net/tuc-kieng-cat-toc-goi-dau-dip-tet-nguyen-dan-5042130.html) - 08:00 18/02/2026
-- 🦆 [Cổ vật 500 tuổi 5 lần bị trộm vẫn trở về làng](https://vnexpress.net/co-vat-500-tuoi-5-lan-bi-trom-van-tro-ve-lang-5040559.html) - 08:00 18/02/2026<!-- vnexpress:END -->
+- 🚀 [Cựu tổng thống Hàn Quốc Yoon Suk-yeol lãnh án tù chung thân](https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-lanh-an-tu-chung-than-5042304.html) - 07:17 19/02/2026
+- 🧰 [Xe tải cháy ngùn ngụt trên đèo Khánh Lê](https://vnexpress.net/xe-tai-chay-ngun-ngut-tren-deo-khanh-le-5042316.html) - 07:11 19/02/2026
+- 🥰 [Anh sống tình cảm, trách nhiệm và coi trọng gia đình](https://vnexpress.net/anh-song-tinh-cam-trach-nhiem-va-coi-trong-gia-dinh-5042181.html) - 07:00 19/02/2026
+- 🌏 [Tượng phật cao nhất Đông Nam Á trên núi Thiên Mã](https://vnexpress.net/tuong-phat-cao-nhat-dong-nam-a-tren-nui-thien-ma-5042162.html) - 07:00 19/02/2026
+- 🧐 [Khi công nghệ quyết định huy chương Olympic mùa Đông](https://vnexpress.net/khi-cong-nghe-quyet-dinh-huy-chuong-olympic-mua-dong-5041043.html) - 07:00 19/02/2026
+- 💫 [Vietjet ký các thỏa thuận trị giá 6,3 tỷ USD với đối tác Mỹ](https://vnexpress.net/vietjet-ky-cac-thoa-thuan-tri-gia-6-3-ty-usd-voi-doi-tac-my-5042315.html) - 07:00 19/02/2026
+- 😺 [Lật đò đi chúc Tết, 1 người chết, 2 người mất tích](https://vnexpress.net/lat-do-di-chuc-tet-1-nguoi-chet-2-nguoi-mat-tich-5042307.html) - 06:38 19/02/2026
+- 🕯 [Cảnh sát cứu thanh niên nhảy cầu Châu Đốc](https://vnexpress.net/canh-sat-cuu-thanh-nien-nhay-cau-chau-doc-5042296.html) - 06:21 19/02/2026
+- 💃 [Cách Musk và OpenAI thu hút nhân tài AI qua chiếc pizza](https://vnexpress.net/cach-musk-va-openai-thu-hut-nhan-tai-ai-qua-chiec-pizza-5042223.html) - 06:00 19/02/2026
+- 💂 [Không runner nào về đích 2 năm liên tiếp ở giải ultra trail khắc nghiệt nhất hành tinh](https://vnexpress.net/khong-runner-nao-ve-dich-2-nam-lien-tiep-o-giai-ultra-trail-khac-nghiet-nhat-hanh-tinh-5042051.html) - 06:00 19/02/2026
+- 🎊 [Bệnh viện Tâm Anh mua &#39;siêu máy&#39; điều trị ung thư gần 2.000 tỷ đồng](https://vnexpress.net/benh-vien-tam-anh-mua-sieu-may-dieu-tri-ung-thu-gan-2-000-ty-dong-5042300.html) - 06:00 19/02/2026
+- 🤠 [Amazon Air mở cơ sở hàng hóa tại sân bay JAX](https://vnexpress.net/amazon-air-mo-co-so-hang-hoa-tai-san-bay-jax-5040080.html) - 06:00 19/02/2026
+- 🌈 [&#39;Thỏ ơi&#39; của Trấn Thành vượt 100 tỷ đồng](https://vnexpress.net/tho-oi-cua-tran-thanh-vuot-100-ty-dong-5042271.html) - 05:38 19/02/2026
+- 🎬 [Thu hồi sữa rửa mặt chứa thành phần không công bố](https://vnexpress.net/thu-hoi-sua-rua-mat-chua-thanh-phan-khong-cong-bo-5042281.html) - 05:11 19/02/2026
+- 🚀 [Yến Nhi: &#39;Thành công là sửa nhà cho cha mẹ sau lũ&#39;](https://vnexpress.net/yen-nhi-thanh-cong-la-sua-nha-cho-cha-me-sau-lu-5042256.html) - 05:09 19/02/2026
+- 🪄 [Quán cà phê tạo &#39;rừng&#39; hoa tươi cho khách check in ở Hà Nội](https://vnexpress.net/quan-ca-phe-tao-rung-hoa-tuoi-cho-khach-check-in-o-ha-noi-5040279.html) - 05:07 19/02/2026
+- 😎 [Tôi ăn Tết nhưng quyết không để Tết &#39;ăn&#39; mình](https://vnexpress.net/toi-an-tet-nhung-quyet-khong-de-tet-an-minh-5042284.html) - 05:00 19/02/2026
+- 🎊 [Chồng có bạn gái vì tôi bệnh nặng, không đáp ứng được nhu cầu của anh](https://vnexpress.net/chong-co-ban-gai-vi-toi-benh-nang-khong-dap-ung-duoc-nhu-cau-cua-anh-5042242.html) - 05:00 19/02/2026
+- ⚗️ [Mong anh điềm đạm, có chính kiến và không gia trưởng](https://vnexpress.net/mong-anh-diem-dam-co-chinh-kien-va-khong-gia-truong-5042183.html) - 05:00 19/02/2026
+- 🫣 [Lương khởi điểm tối đa của 15 ngành nghề](https://vnexpress.net/luong-khoi-diem-toi-da-cua-15-nganh-nghe-5041327.html) - 05:00 19/02/2026
+- 👨‍🏫 [5 bảo vật quốc gia chôn trong mộ táng hơn 2.000 năm](https://vnexpress.net/5-bao-vat-quoc-gia-chon-trong-mo-tang-hon-2-000-nam-5040784.html) - 05:00 19/02/2026
+- 🐻 [Bạn có phải là bậc thầy sắp đặt que diêm?](https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-ban-co-phai-la-bac-thay-sap-dat-que-diem-5040523.html) - 05:00 19/02/2026
+- 😺 [Khoảnh khắc lộ áo ngực gây bão tại Olympic mùa Đông](https://vnexpress.net/khoanh-khac-lo-ao-nguc-gay-bao-tai-olympic-mua-dong-5042140.html) - 05:00 19/02/2026
+- 🤔 [Những món ăn ngày Tết khiến mỡ máu tăng nhanh](https://vnexpress.net/nhung-mon-an-ngay-tet-khien-mo-mau-tang-nhanh-5041311.html) - 05:00 19/02/2026
+- 🌮 [Chán ăn, đắng miệng có phải dấu hiệu viêm gan?](https://vnexpress.net/chan-an-dang-mieng-co-phai-dau-hieu-viem-gan-5041305.html) - 05:00 19/02/2026
+- 🦩 [5 thói quen làm tăng huyết áp ngày Tết](https://vnexpress.net/5-thoi-quen-lam-tang-huyet-ap-ngay-tet-5041300.html) - 05:00 19/02/2026
+- 📝 [Tổng Bí thư Tô Lâm điện đàm với các nghị sĩ Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-cac-nghi-si-my-5042282.html) - 04:52 19/02/2026
+- 🕴 [Tết đoàn viên của gia đình H&#39;Hen Niê](https://vnexpress.net/tet-doan-vien-cua-gia-dinh-h-hen-nie-5042237.html) - 04:44 19/02/2026
+- 🐲 [Hà Nội phân quyền cấp xã quản lý vận hành nhà chung cư](https://vnexpress.net/ha-noi-phan-quyen-cap-xa-quan-ly-van-hanh-nha-chung-cu-5042283.html) - 04:43 19/02/2026
+- 🌜 [Mỹ điều động 25% lực lượng &#39;máy bay mắt thần&#39; đến Trung Đông](https://vnexpress.net/my-dieu-dong-25-luc-luong-may-bay-mat-than-den-trung-dong-5042243.html) - 04:42 19/02/2026
+- 💄 [Vốn đầu tư bất động sản thương mại khu vực lên cao nhất 4 năm](https://vnexpress.net/von-dau-tu-bat-dong-san-thuong-mai-khu-vuc-len-cao-nhat-4-nam-5042263.html) - 04:03 19/02/2026
+- 🌁 [Loại bóng mới làm tăng siêu phẩm ở Ngoại hạng Anh?](https://vnexpress.net/loai-bong-moi-lam-tang-sieu-pham-o-ngoai-hang-anh-5042196.html) - 04:00 19/02/2026
+- 🎬 [Bị trào ngược có nên ăn bánh chưng chiên?](https://vnexpress.net/bi-trao-nguoc-co-nen-an-banh-chung-chien-5042136.html) - 04:00 19/02/2026
+- 👨‍🏫 [Ai có nguy cơ đột quỵ sau kỳ nghỉ dài ngày?](https://vnexpress.net/ai-co-nguy-co-dot-quy-sau-ky-nghi-dai-ngay-5041303.html) - 04:00 19/02/2026
+- ⚗️ [Tướng cấp cao Mỹ bất ngờ thăm Venezuela](https://vnexpress.net/tuong-cap-cao-my-bat-ngo-tham-venezuela-5042252.html) - 03:45 19/02/2026
+- 😺 [Người đàn ông sưu tập hơn 2.000 kỷ vật chiến tranh](https://vnexpress.net/nguoi-dan-ong-suu-tap-hon-2-000-ky-vat-chien-tranh-5041117.html) - 03:30 19/02/2026
+- 🔥 [Lách luật, khách thuê sống miễn phí 5 năm ở khách sạn nổi tiếng New York](https://vnexpress.net/lach-luat-khach-thue-song-mien-phi-5-nam-o-khach-san-noi-tieng-new-york-5042261.html) - 03:28 19/02/2026
+- 🧰 [Giá vàng trở lại mốc 5.000 USD](https://vnexpress.net/gia-vang-the-gioi-ngay-19-2-5042268.html) - 03:16 19/02/2026
+- 🦒 [Bí mật mối tình vụng trộm hơn 100 năm trước trong hộp giày cũ](https://vnexpress.net/bi-mat-moi-tinh-vung-trom-hon-100-nam-truoc-trong-hop-giay-cu-5042143.html) - 03:04 19/02/2026
+- ⛽️ [13 đại học ở TP HCM chuyển sang xét tuyển kết hợp](https://vnexpress.net/13-dai-hoc-o-tp-hcm-chuyen-sang-xet-tuyen-ket-hop-5041266.html) - 03:01 19/02/2026
+- 🚀 [Cách Trung Quốc huấn luyện robot hình người](https://vnexpress.net/cach-trung-quoc-huan-luyen-robot-hinh-nguoi-5042204.html) - 03:00 19/02/2026
+- 🪜 [Giá trị lớn nhất của Tết Nguyên Đán là gì?](https://vnexpress.net/crossword-giai-o-chu-o-chu-gia-tri-lon-nhat-cua-tet-nguyen-dan-la-gi-5041760.html) - 03:00 19/02/2026
+- 🚦 [Tìm em, ngoại lệ của anh](https://vnexpress.net/tim-em-ngoai-le-cua-anh-5040714.html) - 03:00 19/02/2026
+- 🕯 [Việt Nam xây sản phẩm &#39;đinh&#39; để hút 25 triệu khách quốc tế](https://vnexpress.net/viet-nam-xay-san-pham-dinh-de-hut-25-trieu-khach-quoc-te-5014045.html) - 03:00 19/02/2026
+- 💪 [Nuôi ngựa cỏ, cải tiến xe thổ mộ làm du lịch ở cồn Thới Sơn](https://vnexpress.net/nuoi-ngua-co-cai-tien-xe-tho-mo-lam-du-lich-o-con-thoi-son-5006280.html) - 03:00 19/02/2026
+- 🧑‍🏫 [Karofi đưa sản phẩm lên sóng truyền hình đêm Giao thừa](https://vnexpress.net/karofi-dua-san-pham-len-song-truyen-hinh-dem-giao-thua-5039955.html) - 03:00 19/02/2026
+- 🎓 [Dòng người đổ về núi Bà Đen chiêm bái đầu năm](https://vnexpress.net/dong-nguoi-do-ve-nui-ba-den-chiem-bai-dau-nam-5042257.html) - 02:57 19/02/2026
+- 💫 [Những thói quen tư duy kỳ lạ của người IQ cao](https://vnexpress.net/nhung-thoi-quen-tu-duy-ky-la-cua-nguoi-iq-cao-5042086.html) - 02:54 19/02/2026
+- 🤩 [Lính Israel nhận nhầm địch - ta, bắn chết đồng đội](https://vnexpress.net/linh-israel-nhan-nham-dich-ta-ban-chet-dong-doi-5042234.html) - 02:53 19/02/2026
+- 🏊 [Về quê vợ ăn Tết, tôi bất ngờ khi không ai mời vào phòng khách](https://vnexpress.net/ve-que-vo-an-tet-toi-bat-ngo-khi-khong-ai-moi-vao-phong-khach-5042250.html) - 02:49 19/02/2026
+- 💂 [Phương Anh Đào: &#39;Gia đình không giục tôi lấy chồng&#39;](https://vnexpress.net/phuong-anh-dao-gia-dinh-khong-giuc-toi-lay-chong-5039482.html) - 02:41 19/02/2026
+- 🚀 [Vietnam Airlines mua 50 máy bay Boeing 737-8](https://vnexpress.net/vietnam-airlines-mua-50-may-bay-boeing-737-8-5042159.html) - 02:25 19/02/2026
+- 🕴 [Ukraine cấm vận Tổng thống Belarus](https://vnexpress.net/ukraine-cam-van-tong-thong-belarus-5042233.html) - 02:24 19/02/2026
+- 🦆 [Arsenal có thể sụp đổ trong cuộc đua vô địch Ngoại hạng Anh](https://vnexpress.net/arsenal-co-the-sup-do-trong-cuoc-dua-vo-dich-ngoai-hang-anh-5042254.html) - 02:21 19/02/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
