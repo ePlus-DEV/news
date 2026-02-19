@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ba Lan kêu gọi công dân rời Iran ngay lập tức](https://vnexpress.net/ba-lan-keu-goi-cong-dan-roi-iran-ngay-lap-tuc-5042341.html) - 12:26 19/02/2026
-- 🕴 [Cựu tổng tư lệnh Ukraine lần đầu hé lộ về rạn nứt với ông Zelensky](https://vnexpress.net/cuu-tong-tu-lenh-ukraine-lan-dau-he-lo-ve-ran-nut-voi-ong-zelensky-5042270.html) - 12:00 19/02/2026
-- 🤭 [Cảnh sát Anh &#39;bắt giữ em trai Vua Charles&#39;](https://vnexpress.net/canh-sat-anh-bat-giu-em-trai-vua-charles-5042343.html) - 10:46 19/02/2026
-- 🧑‍💻 [Nga phát triển khí cầu 5G có thể thay thế Starlink](https://vnexpress.net/nga-phat-trien-khi-cau-5g-co-the-thay-the-starlink-5042335.html) - 10:37 19/02/2026
-- 🦏 [Peru có tổng thống thứ 8 trong 10 năm](https://vnexpress.net/peru-co-tong-thong-thu-8-trong-10-nam-5042321.html) - 08:24 19/02/2026
-- 🦒 [Cựu tổng thống Hàn Quốc Yoon Suk-yeol lĩnh án tù chung thân](https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-linh-an-tu-chung-than-5042304.html) - 07:17 19/02/2026
-- 🌈 [Tổng Bí thư Tô Lâm điện đàm với các nghị sĩ Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-cac-nghi-si-my-5042282.html) - 04:52 19/02/2026
-- 🧑‍🏫 [Mỹ điều động 25% lực lượng &#39;máy bay mắt thần&#39; đến Trung Đông](https://vnexpress.net/my-dieu-dong-25-luc-luong-may-bay-mat-than-den-trung-dong-5042243.html) - 04:42 19/02/2026
-- 🐲 [Tướng cấp cao Mỹ bất ngờ thăm Venezuela](https://vnexpress.net/tuong-cap-cao-my-bat-ngo-tham-venezuela-5042252.html) - 03:45 19/02/2026
-- 🦒 [Lính Israel nhận nhầm địch - ta, bắn chết đồng đội](https://vnexpress.net/linh-israel-nhan-nham-dich-ta-ban-chet-dong-doi-5042234.html) - 02:53 19/02/2026
-- 🐻 [Ukraine cấm vận Tổng thống Belarus](https://vnexpress.net/ukraine-cam-van-tong-thong-belarus-5042233.html) - 02:24 19/02/2026
-- 🚀 [Triều Tiên ra mắt pháo phản lực mang được đầu đạn hạt nhân](https://vnexpress.net/trieu-tien-ra-mat-phao-phan-luc-mang-duoc-dau-dan-hat-nhan-5042231.html) - 01:06 19/02/2026
-- 🥰 [Tổng Bí thư Tô Lâm đến Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-den-my-5042230.html) - 23:46 18/02/2026
-- 🔥 [20 người chết vì nổ pháo hoa ở Trung Quốc trong 4 ngày Tết](https://vnexpress.net/20-nguoi-chet-vi-no-phao-hoa-o-trung-quoc-trong-4-ngay-tet-5042203.html) - 15:22 18/02/2026
-- 🥳 [Slovakia dọa cắt nguồn cung cấp điện khẩn cấp cho Ukraine](https://vnexpress.net/slovakia-doa-cat-nguon-cung-cap-dien-khan-cap-cho-ukraine-5042205.html) - 15:15 18/02/2026
-- 💼 [Hải quân Iran - Nga sắp diễn tập chung](https://vnexpress.net/hai-quan-iran-nga-sap-dien-tap-chung-5042193.html) - 14:21 18/02/2026
-- 🤡 [Hacker đặt phòng loạt khách sạn hạng sang với giá 1 xu](https://vnexpress.net/hacker-dat-phong-loat-khach-san-hang-sang-voi-gia-1-xu-5042192.html) - 13:31 18/02/2026
-- 🌁 [Điện Kremlin bác cáo buộc Nga, Trung bí mật thử hạt nhân](https://vnexpress.net/dien-kremlin-bac-cao-buoc-nga-trung-bi-mat-thu-hat-nhan-5042171.html) - 13:05 18/02/2026
-- 🤩 [Dân số già mở ra cơ hội hợp tác cho Trung - Hàn](https://vnexpress.net/dan-so-gia-mo-ra-co-hoi-hop-tac-cho-trung-han-5042165.html) - 12:00 18/02/2026
-- 🎉 [Đàm phán ba bên Mỹ - Nga - Ukraine &#39;rất khó khăn&#39;](https://vnexpress.net/dam-phan-ba-ben-my-nga-ukraine-rat-kho-khan-5042170.html) - 11:53 18/02/2026
-- 🎉 [Tàu hàng bốc cháy ngoài khơi Trung Quốc, hai thủy thủ thiệt mạng](https://vnexpress.net/tau-hang-boc-chay-ngoai-khoi-trung-quoc-hai-thuy-thu-thiet-mang-5042168.html) - 10:16 18/02/2026
-- 🌁 [Australia cấm công dân từ &#39;trại IS&#39; về nước](https://vnexpress.net/australia-cam-cong-dan-tu-trai-is-ve-nuoc-5042158.html) - 09:53 18/02/2026
-- 🌊 [Hàn Quốc tính khôi phục vùng cấm bay sát Triều Tiên để ngăn sự cố](https://vnexpress.net/han-quoc-tinh-khoi-phuc-vung-cam-bay-sat-trieu-tien-de-ngan-su-co-5042157.html) - 09:42 18/02/2026
-- 🕴 [Bà Takaichi tái đắc cử Thủ tướng Nhật](https://vnexpress.net/ba-takaichi-tai-dac-cu-thu-tuong-nhat-5042146.html) - 07:33 18/02/2026
-- 🎓 [Con gái ông Duterte thông báo tranh cử tổng thống](https://vnexpress.net/con-gai-ong-duterte-thong-bao-tranh-cu-tong-thong-5042125.html) - 04:50 18/02/2026
-- 🦩 [Campuchia hy vọng Hội đồng Hòa bình sẽ giúp giảm căng thẳng với Thái Lan](https://vnexpress.net/campuchia-hy-vong-hoi-dong-hoa-binh-se-giup-giam-cang-thang-voi-thai-lan-5042102.html) - 03:01 18/02/2026
-- 🌏 [California hứng mưa lớn, nguy cơ ngập lụt diện rộng](https://vnexpress.net/california-hung-mua-lon-nguy-co-ngap-lut-dien-rong-5042105.html) - 02:42 18/02/2026
-- 🌋 [Mỹ thay đổi màu sơn cho chuyên cơ Không lực Một](https://vnexpress.net/my-thay-doi-mau-son-cho-chuyen-co-khong-luc-mot-5042083.html) - 01:07 18/02/2026
-- 🪜 [Tổng thống lâm thời Peru bị phế truất](https://vnexpress.net/tong-thong-lam-thoi-peru-bi-phe-truat-5042091.html) - 00:49 18/02/2026
-- 🕴 [Nổ lớn làm rung chuyển căn cứ Nga, ít nhất ba người chết](https://vnexpress.net/no-lon-lam-rung-chuyen-can-cu-nga-it-nhat-ba-nguoi-chet-5042085.html) - 23:57 17/02/2026
-- 🧑‍🏫 [Iran - Mỹ đạt được &#39;bộ nguyên tắc&#39; đàm phán](https://vnexpress.net/iran-my-dat-duoc-bo-nguyen-tac-dam-phan-5042058.html) - 16:40 17/02/2026
-- 🌮 [Nga cảnh báo dùng chiến hạm ngăn phương Tây bắt tàu chở dầu](https://vnexpress.net/nga-canh-bao-dung-chien-ham-ngan-phuong-tay-bat-tau-cho-dau-5042053.html) - 15:44 17/02/2026
-- 🚦 [Lãnh tụ tối cao Khamenei: Mỹ không thể hủy diệt Iran](https://vnexpress.net/lanh-tu-toi-cao-khamenei-my-khong-the-huy-diet-iran-5042052.html) - 15:00 17/02/2026
-- 💫 [Khỉ con ôm thú bông gây sốt ở Nhật Bản](https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html) - 13:54 17/02/2026
-- 🤡 [Những lãnh đạo, người nổi tiếng thế giới tuổi Ngọ](https://vnexpress.net/nhung-lanh-dao-nguoi-noi-tieng-the-gioi-tuoi-ngo-5005703.html) - 12:27 17/02/2026
-- 🦣 [Khách Trung Quốc xa lánh Nhật Bản mùa du xuân](https://vnexpress.net/khach-trung-quoc-xa-lanh-nhat-ban-mua-du-xuan-5042030.html) - 11:39 17/02/2026
-- 🎬 [Thế giới trong ngày đầu năm Bính Ngọ](https://vnexpress.net/the-gioi-trong-ngay-dau-nam-binh-ngo-5042028.html) - 10:48 17/02/2026
-- 🎉 [Ukraine để lọt loạt tên lửa đạn đạo Iskander-M Nga](https://vnexpress.net/ukraine-de-lot-loat-ten-lua-dan-dao-iskander-m-nga-5042022.html) - 09:25 17/02/2026
+- 🎭 [Hungary dọa cắt điện, khí đốt sang Ukraine](https://vnexpress.net/hungary-doa-cat-dien-khi-dot-sang-ukraine-5042355.html) - 14:08 19/02/2026
+- 🕴 [Cảnh sát đóng giả đoàn múa lân để bắt tội phạm](https://vnexpress.net/canh-sat-dong-gia-doan-mua-lan-de-bat-toi-pham-5042347.html) - 13:59 19/02/2026
+- 🤭 [Ba Lan kêu gọi công dân rời Iran ngay lập tức](https://vnexpress.net/ba-lan-keu-goi-cong-dan-roi-iran-ngay-lap-tuc-5042341.html) - 12:26 19/02/2026
+- 🧑‍💻 [Cựu tổng tư lệnh Ukraine lần đầu hé lộ về rạn nứt với ông Zelensky](https://vnexpress.net/cuu-tong-tu-lenh-ukraine-lan-dau-he-lo-ve-ran-nut-voi-ong-zelensky-5042270.html) - 12:00 19/02/2026
+- 🦏 [Cảnh sát Anh &#39;bắt giữ em trai Vua Charles&#39;](https://vnexpress.net/canh-sat-anh-bat-giu-em-trai-vua-charles-5042343.html) - 10:46 19/02/2026
+- 🦒 [Nga phát triển khí cầu 5G có thể thay thế Starlink](https://vnexpress.net/nga-phat-trien-khi-cau-5g-co-the-thay-the-starlink-5042335.html) - 10:37 19/02/2026
+- 🌈 [Peru có tổng thống thứ 8 trong 10 năm](https://vnexpress.net/peru-co-tong-thong-thu-8-trong-10-nam-5042321.html) - 08:24 19/02/2026
+- 🧑‍🏫 [Cựu tổng thống Hàn Quốc Yoon Suk-yeol lĩnh án tù chung thân](https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-linh-an-tu-chung-than-5042304.html) - 07:17 19/02/2026
+- 🐲 [Tổng Bí thư Tô Lâm điện đàm với các nghị sĩ Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-cac-nghi-si-my-5042282.html) - 04:52 19/02/2026
+- 🦒 [Mỹ điều động 25% lực lượng &#39;máy bay mắt thần&#39; đến Trung Đông](https://vnexpress.net/my-dieu-dong-25-luc-luong-may-bay-mat-than-den-trung-dong-5042243.html) - 04:42 19/02/2026
+- 🐻 [Tướng cấp cao Mỹ bất ngờ thăm Venezuela](https://vnexpress.net/tuong-cap-cao-my-bat-ngo-tham-venezuela-5042252.html) - 03:45 19/02/2026
+- 🚀 [Lính Israel nhận nhầm địch - ta, bắn chết đồng đội](https://vnexpress.net/linh-israel-nhan-nham-dich-ta-ban-chet-dong-doi-5042234.html) - 02:53 19/02/2026
+- 🥰 [Ukraine cấm vận Tổng thống Belarus](https://vnexpress.net/ukraine-cam-van-tong-thong-belarus-5042233.html) - 02:24 19/02/2026
+- 🔥 [Triều Tiên ra mắt pháo phản lực mang được đầu đạn hạt nhân](https://vnexpress.net/trieu-tien-ra-mat-phao-phan-luc-mang-duoc-dau-dan-hat-nhan-5042231.html) - 01:06 19/02/2026
+- 🥳 [Tổng Bí thư Tô Lâm đến Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-den-my-5042230.html) - 23:46 18/02/2026
+- 💼 [20 người chết vì nổ pháo hoa ở Trung Quốc trong 4 ngày Tết](https://vnexpress.net/20-nguoi-chet-vi-no-phao-hoa-o-trung-quoc-trong-4-ngay-tet-5042203.html) - 15:22 18/02/2026
+- 🤡 [Slovakia dọa cắt nguồn cung cấp điện khẩn cấp cho Ukraine](https://vnexpress.net/slovakia-doa-cat-nguon-cung-cap-dien-khan-cap-cho-ukraine-5042205.html) - 15:15 18/02/2026
+- 🌁 [Hải quân Iran - Nga sắp diễn tập chung](https://vnexpress.net/hai-quan-iran-nga-sap-dien-tap-chung-5042193.html) - 14:21 18/02/2026
+- 🤩 [Hacker đặt phòng loạt khách sạn hạng sang với giá 1 xu](https://vnexpress.net/hacker-dat-phong-loat-khach-san-hang-sang-voi-gia-1-xu-5042192.html) - 13:31 18/02/2026
+- 🎉 [Điện Kremlin bác cáo buộc Nga, Trung bí mật thử hạt nhân](https://vnexpress.net/dien-kremlin-bac-cao-buoc-nga-trung-bi-mat-thu-hat-nhan-5042171.html) - 13:05 18/02/2026
+- 🎉 [Dân số già mở ra cơ hội hợp tác cho Trung - Hàn](https://vnexpress.net/dan-so-gia-mo-ra-co-hoi-hop-tac-cho-trung-han-5042165.html) - 12:00 18/02/2026
+- 🌁 [Đàm phán ba bên Mỹ - Nga - Ukraine &#39;rất khó khăn&#39;](https://vnexpress.net/dam-phan-ba-ben-my-nga-ukraine-rat-kho-khan-5042170.html) - 11:53 18/02/2026
+- 🌊 [Tàu hàng bốc cháy ngoài khơi Trung Quốc, hai thủy thủ thiệt mạng](https://vnexpress.net/tau-hang-boc-chay-ngoai-khoi-trung-quoc-hai-thuy-thu-thiet-mang-5042168.html) - 10:16 18/02/2026
+- 🕴 [Australia cấm công dân từ &#39;trại IS&#39; về nước](https://vnexpress.net/australia-cam-cong-dan-tu-trai-is-ve-nuoc-5042158.html) - 09:53 18/02/2026
+- 🎓 [Hàn Quốc tính khôi phục vùng cấm bay sát Triều Tiên để ngăn sự cố](https://vnexpress.net/han-quoc-tinh-khoi-phuc-vung-cam-bay-sat-trieu-tien-de-ngan-su-co-5042157.html) - 09:42 18/02/2026
+- 🦩 [Bà Takaichi tái đắc cử Thủ tướng Nhật](https://vnexpress.net/ba-takaichi-tai-dac-cu-thu-tuong-nhat-5042146.html) - 07:33 18/02/2026
+- 🌏 [Con gái ông Duterte thông báo tranh cử tổng thống](https://vnexpress.net/con-gai-ong-duterte-thong-bao-tranh-cu-tong-thong-5042125.html) - 04:50 18/02/2026
+- 🌋 [Campuchia hy vọng Hội đồng Hòa bình sẽ giúp giảm căng thẳng với Thái Lan](https://vnexpress.net/campuchia-hy-vong-hoi-dong-hoa-binh-se-giup-giam-cang-thang-voi-thai-lan-5042102.html) - 03:01 18/02/2026
+- 🪜 [California hứng mưa lớn, nguy cơ ngập lụt diện rộng](https://vnexpress.net/california-hung-mua-lon-nguy-co-ngap-lut-dien-rong-5042105.html) - 02:42 18/02/2026
+- 🕴 [Mỹ thay đổi màu sơn cho chuyên cơ Không lực Một](https://vnexpress.net/my-thay-doi-mau-son-cho-chuyen-co-khong-luc-mot-5042083.html) - 01:07 18/02/2026
+- 🧑‍🏫 [Tổng thống lâm thời Peru bị phế truất](https://vnexpress.net/tong-thong-lam-thoi-peru-bi-phe-truat-5042091.html) - 00:49 18/02/2026
+- 🌮 [Nổ lớn làm rung chuyển căn cứ Nga, ít nhất ba người chết](https://vnexpress.net/no-lon-lam-rung-chuyen-can-cu-nga-it-nhat-ba-nguoi-chet-5042085.html) - 23:57 17/02/2026
+- 🚦 [Iran - Mỹ đạt được &#39;bộ nguyên tắc&#39; đàm phán](https://vnexpress.net/iran-my-dat-duoc-bo-nguyen-tac-dam-phan-5042058.html) - 16:40 17/02/2026
+- 💫 [Nga cảnh báo dùng chiến hạm ngăn phương Tây bắt tàu chở dầu](https://vnexpress.net/nga-canh-bao-dung-chien-ham-ngan-phuong-tay-bat-tau-cho-dau-5042053.html) - 15:44 17/02/2026
+- 🤡 [Lãnh tụ tối cao Khamenei: Mỹ không thể hủy diệt Iran](https://vnexpress.net/lanh-tu-toi-cao-khamenei-my-khong-the-huy-diet-iran-5042052.html) - 15:00 17/02/2026
+- 🦣 [Khỉ con ôm thú bông gây sốt ở Nhật Bản](https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html) - 13:54 17/02/2026
+- 🎬 [Những lãnh đạo, người nổi tiếng thế giới tuổi Ngọ](https://vnexpress.net/nhung-lanh-dao-nguoi-noi-tieng-the-gioi-tuoi-ngo-5005703.html) - 12:27 17/02/2026
+- 🎉 [Khách Trung Quốc xa lánh Nhật Bản mùa du xuân](https://vnexpress.net/khach-trung-quoc-xa-lanh-nhat-ban-mua-du-xuan-5042030.html) - 11:39 17/02/2026
+- 🎡 [Thế giới trong ngày đầu năm Bính Ngọ](https://vnexpress.net/the-gioi-trong-ngay-dau-nam-binh-ngo-5042028.html) - 10:48 17/02/2026
+- 🌜 [Ukraine để lọt loạt tên lửa đạn đạo Iskander-M Nga](https://vnexpress.net/ukraine-de-lot-loat-ten-lua-dan-dao-iskander-m-nga-5042022.html) - 09:25 17/02/2026
 - 🎡 [Ông Rubio: Quan hệ Mỹ - Hungary đang bước vào &#39;kỷ nguyên vàng&#39;](https://vnexpress.net/ong-rubio-quan-he-my-hungary-dang-buoc-vao-ky-nguyen-vang-5042009.html) - 08:17 17/02/2026
-- 🌜 [Ông Trump sẽ tham gia &#39;gián tiếp&#39; vào đàm phán Mỹ - Iran](https://vnexpress.net/ong-trump-se-tham-gia-gian-tiep-vao-dam-phan-my-iran-5041992.html) - 07:52 17/02/2026
-- 🎡 [Thẻ bài Pokemon được bán với giá hơn 16 triệu USD](https://vnexpress.net/the-bai-pokemon-duoc-ban-voi-gia-hon-16-trieu-usd-5041999.html) - 05:26 17/02/2026
-- 🤗 [Australia từ chối hỗ trợ hồi hương hàng chục phụ nữ, trẻ em liên quan IS](https://vnexpress.net/australia-tu-choi-ho-tro-hoi-huong-hang-chuc-phu-nu-tre-em-lien-quan-is-5041944.html) - 03:23 17/02/2026
-- 🦩 [Tổng Bí thư Tô Lâm sắp dự cuộc họp Hội đồng Hòa bình tại Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-sap-du-cuoc-hop-hoi-dong-hoa-binh-tai-my-5041955.html) - 01:56 17/02/2026
-- 🎓 [Ukraine &#39;tiến quân nhanh chưa từng thấy&#39; trong 2,5 năm](https://vnexpress.net/ukraine-tien-quan-nhanh-chua-tung-thay-trong-2-5-nam-5041936.html) - 01:43 17/02/2026
-- 🌁 [Mỹ công bố 300 người nổi tiếng xuất hiện trong hồ sơ Epstein](https://vnexpress.net/my-cong-bo-300-nguoi-noi-tieng-xuat-hien-trong-ho-so-epstein-5041845.html) - 01:23 17/02/2026
-- 🤩 [Iran diễn tập kiểm soát eo biển Hormuz](https://vnexpress.net/iran-dien-tap-kiem-soat-eo-bien-hormuz-5041934.html) - 00:25 17/02/2026
-- 👹 [Chuyên gia phong thủy đoán vận mệnh năm Bính Ngọ](https://vnexpress.net/chuyen-gia-phong-thuy-doan-van-menh-nam-binh-ngo-5040021.html) - 17:00 16/02/2026
-- ⛽️ [Tổng thống Ba Lan muốn phát triển vũ khí hạt nhân](https://vnexpress.net/tong-thong-ba-lan-muon-phat-trien-vu-khi-hat-nhan-5041897.html) - 15:56 16/02/2026
-- 🚀 [Thế giới đón Tết Bính Ngọ](https://vnexpress.net/the-gioi-chuan-bi-don-tet-binh-ngo-5041888.html) - 14:19 16/02/2026
-- 🎡 [Ông Tập: Trung Quốc vượt nhiều khó khăn trong năm Ất Tỵ](https://vnexpress.net/ong-tap-trung-quoc-vuot-nhieu-kho-khan-trong-nam-at-ty-5041868.html) - 13:11 16/02/2026
-- 🕯 [Ông Obama đính chính tuyên bố &#39;người ngoài hành tinh có thật&#39;](https://vnexpress.net/ong-obama-dinh-chinh-tuyen-bo-nguoi-ngoai-hanh-tinh-co-that-5041853.html) - 12:39 16/02/2026
-- 🐻 [Cựu bộ trưởng năng lượng Ukraine bị điều tra rửa tiền](https://vnexpress.net/cuu-bo-truong-nang-luong-ukraine-bi-dieu-tra-rua-tien-5041837.html) - 10:41 16/02/2026
-- 🚦 [Người Trung Quốc e dè với đồ chế biến sẵn dịp Tết](https://vnexpress.net/nguoi-trung-quoc-e-de-voi-do-che-bien-san-dip-tet-5041820.html) - 09:57 16/02/2026
-- 👍 [Chó cưng khuấy động lễ hội Rio Carnival](https://vnexpress.net/cho-cung-khuay-dong-le-hoi-rio-carnival-5041810.html) - 08:57 16/02/2026
-- 🚀 [Nổ cửa hàng pháo hoa ở Trung Quốc, 8 người thiệt mạng](https://vnexpress.net/no-cua-hang-phao-hoa-o-trung-quoc-8-nguoi-thiet-mang-5041801.html) - 07:59 16/02/2026
-- 🌮 [Không khí chuẩn bị đón Tết Bính Ngọ trên thế giới](https://vnexpress.net/khong-khi-chuan-bi-don-tet-binh-ngo-tren-the-gioi-5041737.html) - 07:10 16/02/2026
-- 😎 [Trung Quốc - Nhật Bản đấu khẩu về cáo buộc &#39;chủ nghĩa quân phiệt&#39;](https://vnexpress.net/trung-quoc-nhat-ban-dau-khau-ve-cao-buoc-chu-nghia-quan-phiet-5041752.html) - 04:46 16/02/2026
-- 🐲 [Trung Quốc dự kiến ghi nhận kỷ lục 9,5 tỷ chuyến đi dịp Xuân vận](https://vnexpress.net/trung-quoc-du-kien-ghi-nhan-ky-luc-9-5-ty-chuyen-di-dip-xuan-van-5041711.html) - 04:19 16/02/2026
-- 💫 [Bộ trưởng Hà Lan: Tiêm kích F-35 có thể bị bẻ khóa như iPhone](https://vnexpress.net/bo-truong-ha-lan-tiem-kich-f-35-co-the-bi-be-khoa-nhu-iphone-5041700.html) - 02:44 16/02/2026
-- 👀 [Nga sẵn sàng ngừng không kích vào ngày Ukraine tổ chức bầu cử](https://vnexpress.net/nga-san-sang-ngung-khong-kich-vao-ngay-ukraine-to-chuc-bau-cu-5041704.html) - 02:05 16/02/2026<!-- vnexpress-the-gioi:END -->
+- 🤗 [Ông Trump sẽ tham gia &#39;gián tiếp&#39; vào đàm phán Mỹ - Iran](https://vnexpress.net/ong-trump-se-tham-gia-gian-tiep-vao-dam-phan-my-iran-5041992.html) - 07:52 17/02/2026
+- 🦩 [Thẻ bài Pokemon được bán với giá hơn 16 triệu USD](https://vnexpress.net/the-bai-pokemon-duoc-ban-voi-gia-hon-16-trieu-usd-5041999.html) - 05:26 17/02/2026
+- 🎓 [Australia từ chối hỗ trợ hồi hương hàng chục phụ nữ, trẻ em liên quan IS](https://vnexpress.net/australia-tu-choi-ho-tro-hoi-huong-hang-chuc-phu-nu-tre-em-lien-quan-is-5041944.html) - 03:23 17/02/2026
+- 🌁 [Tổng Bí thư Tô Lâm sắp dự cuộc họp Hội đồng Hòa bình tại Mỹ](https://vnexpress.net/tong-bi-thu-to-lam-sap-du-cuoc-hop-hoi-dong-hoa-binh-tai-my-5041955.html) - 01:56 17/02/2026
+- 🤩 [Ukraine &#39;tiến quân nhanh chưa từng thấy&#39; trong 2,5 năm](https://vnexpress.net/ukraine-tien-quan-nhanh-chua-tung-thay-trong-2-5-nam-5041936.html) - 01:43 17/02/2026
+- 👹 [Mỹ công bố 300 người nổi tiếng xuất hiện trong hồ sơ Epstein](https://vnexpress.net/my-cong-bo-300-nguoi-noi-tieng-xuat-hien-trong-ho-so-epstein-5041845.html) - 01:23 17/02/2026
+- ⛽️ [Iran diễn tập kiểm soát eo biển Hormuz](https://vnexpress.net/iran-dien-tap-kiem-soat-eo-bien-hormuz-5041934.html) - 00:25 17/02/2026
+- 🚀 [Chuyên gia phong thủy đoán vận mệnh năm Bính Ngọ](https://vnexpress.net/chuyen-gia-phong-thuy-doan-van-menh-nam-binh-ngo-5040021.html) - 17:00 16/02/2026
+- 🎡 [Tổng thống Ba Lan muốn phát triển vũ khí hạt nhân](https://vnexpress.net/tong-thong-ba-lan-muon-phat-trien-vu-khi-hat-nhan-5041897.html) - 15:56 16/02/2026
+- 🕯 [Thế giới đón Tết Bính Ngọ](https://vnexpress.net/the-gioi-chuan-bi-don-tet-binh-ngo-5041888.html) - 14:19 16/02/2026
+- 🐻 [Ông Tập: Trung Quốc vượt nhiều khó khăn trong năm Ất Tỵ](https://vnexpress.net/ong-tap-trung-quoc-vuot-nhieu-kho-khan-trong-nam-at-ty-5041868.html) - 13:11 16/02/2026
+- 🚦 [Ông Obama đính chính tuyên bố &#39;người ngoài hành tinh có thật&#39;](https://vnexpress.net/ong-obama-dinh-chinh-tuyen-bo-nguoi-ngoai-hanh-tinh-co-that-5041853.html) - 12:39 16/02/2026
+- 👍 [Cựu bộ trưởng năng lượng Ukraine bị điều tra rửa tiền](https://vnexpress.net/cuu-bo-truong-nang-luong-ukraine-bi-dieu-tra-rua-tien-5041837.html) - 10:41 16/02/2026
+- 🚀 [Người Trung Quốc e dè với đồ chế biến sẵn dịp Tết](https://vnexpress.net/nguoi-trung-quoc-e-de-voi-do-che-bien-san-dip-tet-5041820.html) - 09:57 16/02/2026
+- 🌮 [Chó cưng khuấy động lễ hội Rio Carnival](https://vnexpress.net/cho-cung-khuay-dong-le-hoi-rio-carnival-5041810.html) - 08:57 16/02/2026
+- 😎 [Nổ cửa hàng pháo hoa ở Trung Quốc, 8 người thiệt mạng](https://vnexpress.net/no-cua-hang-phao-hoa-o-trung-quoc-8-nguoi-thiet-mang-5041801.html) - 07:59 16/02/2026
+- 🐲 [Không khí chuẩn bị đón Tết Bính Ngọ trên thế giới](https://vnexpress.net/khong-khi-chuan-bi-don-tet-binh-ngo-tren-the-gioi-5041737.html) - 07:10 16/02/2026
+- 💫 [Trung Quốc - Nhật Bản đấu khẩu về cáo buộc &#39;chủ nghĩa quân phiệt&#39;](https://vnexpress.net/trung-quoc-nhat-ban-dau-khau-ve-cao-buoc-chu-nghia-quan-phiet-5041752.html) - 04:46 16/02/2026
+- 👀 [Trung Quốc dự kiến ghi nhận kỷ lục 9,5 tỷ chuyến đi dịp Xuân vận](https://vnexpress.net/trung-quoc-du-kien-ghi-nhan-ky-luc-9-5-ty-chuyen-di-dip-xuan-van-5041711.html) - 04:19 16/02/2026<!-- vnexpress-the-gioi:END -->
