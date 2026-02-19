@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Hàng chục nghìn khách đổ về &#39;nóc nhà&#39; miền Tây đầu năm](https://vnexpress.net/hang-chuc-nghin-khach-do-ve-noc-nha-mien-tay-dau-nam-5042332.html) - 14:58 19/02/2026
 - 🪄 [Khách Trung Quốc xúc động nhận lì xì từ quân nhân Việt Nam](https://vnexpress.net/khach-trung-quoc-xuc-dong-nhan-li-xi-tu-quan-nhan-viet-nam-5042322.html) - 14:46 19/02/2026
 - 🦅 [Khách chen chân check-in cây mai 150 tuổi ở Cần Giờ](https://vnexpress.net/khach-chen-chan-check-in-cay-mai-150-tuoi-o-can-gio-5042360.html) - 14:15 19/02/2026
-- 🕴 [Cáp treo Hòn Thơm gặp sự cố, hàng nghìn khách phải về bờ bằng canô](https://vnexpress.net/cap-treo-hon-thom-gap-su-co-hang-nghin-khach-phai-ve-bo-bang-cano-5042352.html) - 12:45 19/02/2026
+- 🕴 [Cáp treo Hòn Thơm gặp sự cố, ảnh hưởng hàng nghìn khách](https://vnexpress.net/cap-treo-hon-thom-gap-su-co-anh-huong-hang-nghin-khach-5042352.html) - 12:45 19/02/2026
 - 👀 [Hàng nghìn du khách đổ về Hội xuân núi Bà Đen](https://vnexpress.net/hang-nghin-du-khach-do-ve-hoi-xuan-nui-ba-den-5042303.html) - 09:45 19/02/2026
 - 🎭 [Quán cà phê tạo &#39;rừng&#39; hoa tươi cho khách check in ở Hà Nội](https://vnexpress.net/quan-ca-phe-tao-rung-hoa-tuoi-cho-khach-check-in-o-ha-noi-5040279.html) - 05:07 19/02/2026
 - 🦒 [Việt Nam xây sản phẩm &#39;đinh&#39; để hút 25 triệu khách quốc tế](https://vnexpress.net/viet-nam-xay-san-pham-dinh-de-hut-25-trieu-khach-quoc-te-5014045.html) - 03:00 19/02/2026
