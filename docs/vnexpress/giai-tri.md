@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tết sum vầy của sao Việt đông con](https://vnexpress.net/tet-sum-vay-cua-sao-viet-dong-con-5042293.html) - 09:04 19/02/2026
+- 🌏 [Sao Việt đông con ăn Tết sum vầy](https://vnexpress.net/sao-viet-dong-con-an-tet-sum-vay-5042293.html) - 09:04 19/02/2026
 - 💫 [&#39;Thỏ ơi&#39; của Trấn Thành vượt 100 tỷ đồng](https://vnexpress.net/tho-oi-cua-tran-thanh-vuot-100-ty-dong-5042271.html) - 05:38 19/02/2026
 - 🌮 [Yến Nhi: &#39;Thành công là sửa nhà cho cha mẹ sau lũ&#39;](https://vnexpress.net/yen-nhi-thanh-cong-la-sua-nha-cho-cha-me-sau-lu-5042256.html) - 05:09 19/02/2026
 - 🧠 [Tết đoàn viên của gia đình H&#39;Hen Niê](https://vnexpress.net/tet-doan-vien-cua-gia-dinh-h-hen-nie-5042237.html) - 04:44 19/02/2026
