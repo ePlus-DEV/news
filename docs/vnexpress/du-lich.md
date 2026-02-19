@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [Khách chen chân check-in cây mai 150 tuổi ở Cần Giờ](https://vnexpress.net/khach-chen-chan-check-in-cay-mai-150-tuoi-o-can-gio-5042360.html) - 14:15 19/02/2026
 - 🕴 [Cáp treo Hòn Thơm gặp sự cố, ảnh hưởng hàng nghìn khách](https://vnexpress.net/cap-treo-hon-thom-gap-su-co-anh-huong-hang-nghin-khach-5042352.html) - 12:45 19/02/2026
 - 👀 [Hàng nghìn du khách đổ về Hội xuân núi Bà Đen](https://vnexpress.net/hang-nghin-du-khach-do-ve-hoi-xuan-nui-ba-den-5042303.html) - 09:45 19/02/2026
-- 🎭 [Quán cà phê tạo &#39;rừng&#39; hoa tươi cho khách check in ở Hà Nội](https://vnexpress.net/quan-ca-phe-tao-rung-hoa-tuoi-cho-khach-check-in-o-ha-noi-5040279.html) - 05:07 19/02/2026
+- 🎭 [Quán cà phê tạo &#39;rừng&#39; hoa tươi cho khách check in](https://vnexpress.net/quan-ca-phe-tao-rung-hoa-tuoi-cho-khach-check-in-5040279.html) - 05:07 19/02/2026
 - 🦒 [Việt Nam xây sản phẩm &#39;đinh&#39; để hút 25 triệu khách quốc tế](https://vnexpress.net/viet-nam-xay-san-pham-dinh-de-hut-25-trieu-khach-quoc-te-5014045.html) - 03:00 19/02/2026
 - 👨‍🏫 [Khách chen chân vui chơi ở Văn Miếu - Quốc Tử Giám ngày đầu năm](https://vnexpress.net/khach-chen-chan-vui-choi-o-van-mieu-quoc-tu-giam-ngay-dau-nam-5042185.html) - 00:00 19/02/2026
 - ⚗️ [Khám phá báu vật UNESCO sát vách Hà Nội](https://vnexpress.net/kham-pha-bau-vat-unesco-sat-vach-ha-noi-5005621.html) - 17:00 18/02/2026
