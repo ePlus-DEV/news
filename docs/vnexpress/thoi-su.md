@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Vết tích cổng thành hơn 150 năm gần cầu Ba Son](https://vnexpress.net/vet-tich-cong-thanh-hon-150-nam-gan-cau-ba-son-5041661.html) - 08:00 19/02/2026
 - 🤓 [Xe tải cháy ngùn ngụt trên đèo Khánh Lê](https://vnexpress.net/xe-tai-chay-ngun-ngut-tren-deo-khanh-le-5042316.html) - 07:11 19/02/2026
-- ⚗️ [Lật đò đi chúc Tết, 1 người chết, 2 người mất tích](https://vnexpress.net/lat-do-di-chuc-tet-1-nguoi-chet-2-nguoi-mat-tich-5042307.html) - 06:38 19/02/2026
+- ⚗️ [Lật đò đi chúc Tết, 2 người chết, 2 người mất tích](https://vnexpress.net/lat-do-di-chuc-tet-2-nguoi-chet-2-nguoi-mat-tich-5042307.html) - 06:38 19/02/2026
 - 🌊 [Lương khởi điểm tối đa của 15 ngành nghề](https://vnexpress.net/luong-khoi-diem-toi-da-cua-15-nganh-nghe-5041327.html) - 05:00 19/02/2026
 - 🎓 [5 bảo vật quốc gia chôn trong mộ táng hơn 2.000 năm](https://vnexpress.net/5-bao-vat-quoc-gia-chon-trong-mo-tang-hon-2-000-nam-5040784.html) - 05:00 19/02/2026
 - 🔥 [Người đàn ông sưu tập hơn 2.000 kỷ vật chiến tranh](https://vnexpress.net/nguoi-dan-ong-suu-tap-hon-2-000-ky-vat-chien-tranh-5041117.html) - 03:30 19/02/2026
