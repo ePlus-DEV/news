@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Hàng nghìn du khách đổ về Hội xuân núi Bà Đen](https://vnexpress.net/hang-nghin-du-khach-do-ve-hoi-xuan-nui-ba-den-5042303.html) - 09:45 19/02/2026
 - 🔥 [Robot hình người đầu tiên &#39;mở nguồn&#39; toàn bộ phần cứng, phần mềm](https://vnexpress.net/robot-hinh-nguoi-dau-tien-mo-nguon-toan-bo-phan-cung-phan-mem-5042331.html) - 09:38 19/02/2026
 - 💄 [Nhà thầu xây dựng giảm hơn nghìn tỷ doanh thu do &#39;sai sót in ấn&#39;](https://vnexpress.net/nha-thau-xay-dung-giam-hon-nghin-ty-doanh-thu-do-sai-sot-in-an-5042311.html) - 09:25 19/02/2026
-- 🤡 [Gã khổng lồ eBay &#39;đặt cược&#39; 1,2 tỷ USD vào thị trường quần áo cũ](https://vnexpress.net/ga-khong-lo-ebay-dat-cuoc-1-2-ty-usd-vao-thi-truong-quan-ao-cu-5042327.html) - 09:09 19/02/2026
-- ⛽️ [Vàng &#39;bay màu&#39; khiến gia chủ khóc thét](https://vnexpress.net/vang-bay-mau-khi-vua-qua-mung-2-tet-5041859.html) - 09:04 19/02/2026<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Gã khổng lồ eBay &#39;đặt cược&#39; 1,2 tỷ USD vào thị trường quần áo cũ](https://vnexpress.net/ga-khong-lo-ebay-dat-cuoc-1-2-ty-usd-vao-thi-truong-quan-ao-cu-5042327.html) - 09:09 19/02/2026<!-- vnexpress-tin-moi-nhat:END -->
