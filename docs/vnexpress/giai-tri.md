@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cherry An Nhiên - diễn viên nhí triển vọng](https://vnexpress.net/cherry-an-nhien-dien-vien-nhi-trien-vong-5042199.html) - 15:00 20/02/2026
-- 💫 [Matthew McConaughey dự đoán AI &#39;xâm nhập Oscar&#39;](https://vnexpress.net/matthew-mcconaughey-du-doan-ai-xam-nhap-oscar-5042453.html) - 13:30 20/02/2026
-- 🌮 [Bảo Trúc sắp cưới lần ba](https://vnexpress.net/bao-truc-sap-cuoi-lan-ba-5042532.html) - 12:00 20/02/2026
-- 🧠 [Khi nghịch cảnh là một món quà](https://vnexpress.net/khi-nghich-canh-la-mot-mon-qua-5040345.html) - 11:04 20/02/2026
-- 👨‍🏫 [Mỹ nhân &#39;Bạn trai tôi là hồ ly&#39; sinh con trai](https://vnexpress.net/my-nhan-ban-trai-toi-la-ho-ly-sinh-con-trai-5042508.html) - 11:02 20/02/2026
-- ⚗️ [Những thần tượng livestream kiếm hàng trăm nghìn USD](https://vnexpress.net/nhung-than-tuong-livestream-kiem-hang-tram-nghin-usd-5042399.html) - 09:33 20/02/2026
-- 😎 [Quách Ngọc Ngoan: &#39;Tôi biết ơn người cũ&#39;](https://vnexpress.net/quach-ngoc-ngoan-toi-biet-on-nguoi-cu-5042266.html) - 06:55 20/02/2026
-- 🫣 [Paris Hilton chụp ảnh nude đón tuổi 45](https://vnexpress.net/paris-hilton-chup-anh-nude-don-tuoi-45-5042403.html) - 05:24 20/02/2026
-- 🪄 [Vua Charles III đi xem show thời trang](https://vnexpress.net/vua-charles-iii-di-xem-show-thoi-trang-5042424.html) - 04:47 20/02/2026
-- 🤓 [Những minh tinh, tài tử tuổi Ngọ đình đám Hollywood](https://vnexpress.net/nhung-minh-tinh-tai-tu-tuoi-ngo-dinh-dam-hollywood-5041127.html) - 03:58 20/02/2026
-- 🫶 [Sao &#39;Euphoria&#39; qua đời](https://vnexpress.net/sao-euphoria-qua-doi-5042426.html) - 03:11 20/02/2026
-- 🧑‍🏫 [Tranh tái hiện Càn Long xem binh lính cưỡi ngựa](https://vnexpress.net/tranh-tai-hien-can-long-xem-binh-linh-cuoi-ngua-5042167.html) - 02:00 20/02/2026
-- 🦄 [Nhớ đêm giao thừa](https://vnexpress.net/nho-dem-giao-thua-5041717.html) - 01:44 20/02/2026
-- 💫 [Dung mạo vận động viên &#39;đẹp trai nhất Thế vận hội mùa đông&#39;](https://vnexpress.net/dung-mao-van-dong-vien-dep-trai-nhat-the-van-hoi-mua-dong-5042394.html) - 00:44 20/02/2026
-- 🎊 [&#39;Nhà ba tôi một phòng&#39; - Trường Giang tròn vai người cha](https://vnexpress.net/giai-tri/phim/thu-vien-phim/nha-ba-toi-mot-phong-880) - 22:00 19/02/2026
-- 👹 [Văn Mai Hương: &#39;Trấn Thành kiên nhẫn với tôi&#39;](https://vnexpress.net/van-mai-huong-tran-thanh-kien-nhan-voi-toi-5042292.html) - 17:00 19/02/2026
-- 💻 [Dương Tử Quỳnh nhận sao trên Đại lộ Danh vọng Hollywood](https://vnexpress.net/duong-tu-quynh-nhan-sao-tren-dai-lo-danh-vong-hollywood-5042356.html) - 13:40 19/02/2026
-- 🤡 [Hoa hậu Thanh Thủy: &#39;Tôi không tìm kiếm sự hoàn hảo&#39;](https://vnexpress.net/hoa-hau-thanh-thuy-toi-khong-tim-kiem-su-hoan-hao-5040511.html) - 12:20 19/02/2026
-- 🥰 [Sao Việt đông con ăn Tết sum vầy](https://vnexpress.net/sao-viet-dong-con-an-tet-sum-vay-5042293.html) - 09:04 19/02/2026
-- 🚀 [&#39;Thỏ ơi&#39; của Trấn Thành vượt 100 tỷ đồng](https://vnexpress.net/tho-oi-cua-tran-thanh-vuot-100-ty-dong-5042271.html) - 05:38 19/02/2026
-- 📝 [Yến Nhi: &#39;Thành công là sửa nhà cho cha mẹ sau lũ&#39;](https://vnexpress.net/yen-nhi-thanh-cong-la-sua-nha-cho-cha-me-sau-lu-5042256.html) - 05:09 19/02/2026
-- 🐲 [Tết đoàn viên của gia đình H&#39;Hen Niê](https://vnexpress.net/tet-doan-vien-cua-gia-dinh-h-hen-nie-5042237.html) - 04:44 19/02/2026
-- 🎃 [Phương Anh Đào: &#39;Gia đình không giục tôi lấy chồng&#39;](https://vnexpress.net/phuong-anh-dao-gia-dinh-khong-giuc-toi-lay-chong-5039482.html) - 02:41 19/02/2026
-- 🤠 [Tết Hà thành qua những trang văn](https://vnexpress.net/tet-ha-thanh-qua-nhung-trang-van-5040802.html) - 00:46 19/02/2026
-- 🎭 [&#39;Mùi phở&#39; - tiếng cười từ mâu thuẫn bố chồng, nàng dâu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mui-pho-879) - 17:00 18/02/2026
-- 🧰 [Nghệ sĩ đàn tỳ bà Diệu Thảo viết ca khúc về Tết bình an](https://vnexpress.net/nghe-si-dan-ty-ba-dieu-thao-viet-ca-khuc-ve-tet-binh-an-5041735.html) - 15:56 18/02/2026
-- 🦍 [Tuyên Huyên đón Tết cùng người giúp việc 103 tuổi](https://vnexpress.net/tuyen-huyen-don-tet-cung-nguoi-giup-viec-103-tuoi-5042155.html) - 11:00 18/02/2026
-- 🌝 [Lâm Thanh Hà - minh tinh tuổi Ngọ tài sắc vẹn toàn](https://vnexpress.net/lam-thanh-ha-minh-tinh-tuoi-ngo-tai-sac-ven-toan-5040266.html) - 08:00 18/02/2026
-- 🧑‍💻 [&#39;Đường xưa mây trắng&#39; - con đường Trung đạo](https://vnexpress.net/duong-xua-may-trang-con-duong-trung-dao-5042129.html) - 06:54 18/02/2026
-- 🥸 [Rhyder: &#39;Tôi tái sinh sau những năm chênh vênh&#39;](https://vnexpress.net/rhyder-toi-tai-sinh-sau-nhung-nam-chenh-venh-5039906.html) - 06:49 18/02/2026
-- 🔥 [Bom tấn 100 triệu USD của Ngô Kinh lép vế phòng vé](https://vnexpress.net/bom-tan-100-trieu-usd-cua-ngo-kinh-lep-ve-phong-ve-5042131.html) - 05:55 18/02/2026
-- 🐎 [Vợ chồng Khánh Vân vào bếp nấu món Tết](https://vnexpress.net/vo-chong-khanh-van-vao-bep-nau-mon-tet-5040948.html) - 04:54 18/02/2026
-- 😎 [Tết Hà Nội một thế kỷ trước qua ảnh màu](https://vnexpress.net/tet-ha-noi-mot-the-ky-truoc-qua-anh-mau-5042121.html) - 04:18 18/02/2026
-- 🦄 [&#39;Chàng trai đẹp nhất Trung Quốc&#39; cưỡi bạch mã khai xuân](https://vnexpress.net/chang-trai-dep-nhat-trung-quoc-cuoi-bach-ma-khai-xuan-5042097.html) - 03:39 18/02/2026
-- 🌜 [Dàn mỹ nữ hóa giọt mưa xuân trong vũ điệu](https://vnexpress.net/dan-my-nu-hoa-giot-mua-xuan-trong-vu-dieu-5042076.html) - 01:33 18/02/2026
-- 🚦 [Nhà văn Nguyễn Ngọc Tiến: &#39;Tết Nguyên đán giá trị ở sự đoàn viên&#39;](https://vnexpress.net/nha-van-nguyen-ngoc-tien-tet-nguyen-dan-gia-tri-o-su-doan-vien-5040522.html) - 22:00 17/02/2026
-- 🧐 [&#39;Thỏ ơi&#39; - góc khuất tình yêu qua lăng kính Trấn Thành](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tho-oi-878) - 17:36 17/02/2026
-- 🐵 [Nghệ sĩ Quốc Tuấn: &#39;Bôm đi được hơn nửa chặng đường tự lập&#39;](https://vnexpress.net/nghe-si-quoc-tuan-bom-di-duoc-hon-nua-chang-duong-tu-lap-5041816.html) - 17:00 17/02/2026
-- ⚗️ [Dàn sao sum họp gia đình ngày đầu năm Bính Ngọ](https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html) - 13:40 17/02/2026
-- 👺 [6 mỹ nhân tuổi Ngọ của showbiz Việt](https://vnexpress.net/6-my-nhan-tuoi-ngo-cua-showbiz-viet-5040440.html) - 12:00 17/02/2026
-- 🌊 [Hà Kiều Anh gợi ý áo dài, áo bà ba du xuân](https://vnexpress.net/ha-kieu-anh-goi-y-ao-dai-ao-ba-ba-du-xuan-5041818.html) - 08:42 17/02/2026
-- 🪜 [Mỹ Lệ đưa không khí đón Tết ở TP HCM vào MV](https://vnexpress.net/my-le-dua-khong-khi-don-tet-o-tp-hcm-vao-mv-5040801.html) - 05:58 17/02/2026
-- 🕴 [Thú vui cắm hoa ngày Tết của sao Việt](https://vnexpress.net/thu-vui-cam-hoa-ngay-tet-cua-sao-viet-5041182.html) - 04:58 17/02/2026
-- 💃 [Chương trình Quảng trường mùa xuân &#39;nhạt hơn Táo quân&#39;](https://vnexpress.net/chuong-trinh-quang-truong-mua-xuan-nhat-hon-tao-quan-5041881.html) - 04:47 17/02/2026
-- 🦄 [Tài tử &#39;Bố già&#39; qua đời](https://vnexpress.net/tai-tu-bo-gia-qua-doi-5041977.html) - 03:41 17/02/2026
-- ⛽️ [Trang phục thu hút may mắn tài lộc cho 12 con giáp](https://vnexpress.net/trang-phuc-thu-hut-may-man-tai-loc-cho-12-con-giap-5030538.html) - 03:29 17/02/2026
-- 😎 [Hình tượng ngựa - sức mạnh trong văn hóa Việt](https://vnexpress.net/hinh-tuong-ngua-suc-manh-trong-van-hoa-viet-5040828.html) - 03:17 17/02/2026
-- 🌊 [Robot &#39;gây bão&#39; trên sân khấu năm mới Trung Quốc](https://vnexpress.net/robot-gay-bao-tren-san-khau-nam-moi-trung-quoc-5041960.html) - 03:12 17/02/2026
-- 🐲 [Mỹ nữ Tân Cương hóa nàng tiên cá](https://vnexpress.net/my-nu-tan-cuong-hoa-nang-tien-ca-5041942.html) - 00:54 17/02/2026
-- 💂 [Mỹ Tâm: &#39;Tôi hạnh phúc vì biết đủ&#39;](https://vnexpress.net/my-tam-toi-hanh-phuc-vi-biet-du-5015521.html) - 00:39 17/02/2026
-- 🙉 [&#39;Mở cửa tương lai&#39; đón lấy cơ hội](https://vnexpress.net/mo-cua-tuong-lai-don-lay-co-hoi-5041903.html) - 17:00 16/02/2026
-- 💪 [Trấn Thành: &#39;Tôi muốn vượt qua thành công của mình&#39;](https://vnexpress.net/tran-thanh-toi-muon-vuot-qua-thanh-cong-cua-minh-5041540.html) - 17:00 16/02/2026
-- 👍 [&#39;Thỏ ơi&#39; phá kỷ lục phòng vé trước ngày phim ra rạp](https://vnexpress.net/tho-oi-pha-ky-luc-phong-ve-truoc-ngay-phim-ra-rap-5041880.html) - 14:18 16/02/2026
-- 💪 [Phương Thanh: &#39;Hạnh phúc khi kịp sửa nhà để mẹ đón Tết&#39;](https://vnexpress.net/phuong-thanh-hanh-phuc-khi-kip-sua-nha-de-me-don-tet-5041767.html) - 12:00 16/02/2026
-- 💄 [Ba bố con Trọng Tấn lần đầu chung sân khấu](https://vnexpress.net/ba-bo-con-trong-tan-lan-dau-chung-san-khau-5041848.html) - 10:40 16/02/2026
-- 🦩 [Hoa hậu Lý Thu Thảo dạo đường hoa TP HCM](https://vnexpress.net/hoa-hau-ly-thu-thao-dao-duong-hoa-tp-hcm-5041795.html) - 08:05 16/02/2026
-- 🥸 [Chợ hoa Tết ở Hà Nội thập niên 1980](https://vnexpress.net/cho-hoa-tet-o-ha-noi-thap-nien-1980-5041764.html) - 06:10 16/02/2026
-- 🧰 [Bé ba tuổi gây sốt màn ảnh Hàn](https://vnexpress.net/be-ba-tuoi-gay-sot-man-anh-han-5041595.html) - 01:57 16/02/2026
-- 💼 [Nghệ sĩ Xuân Hinh, Hòa Minzy hát nhạc phim &#39;Mùi phở&#39;](https://vnexpress.net/nghe-si-xuan-hinh-hoa-minzy-hat-nhac-phim-mui-pho-5041562.html) - 18:00 15/02/2026
-- 🧑‍💻 [Tác phẩm của Dave Pelzer - trưởng thành từ nỗi đau](https://vnexpress.net/tac-pham-cua-dave-pelzer-truong-thanh-tu-noi-dau-5041547.html) - 17:03 15/02/2026<!-- vnexpress-giai-tri:END -->
+- 🌏 [&#39;Báu vật trời cho&#39; - Tuấn Trần, Phương Anh Đào tái hợp ăn ý](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bau-vat-troi-cho-881) - 17:00 20/02/2026
+- 💫 [Cherry An Nhiên - diễn viên nhí triển vọng](https://vnexpress.net/cherry-an-nhien-dien-vien-nhi-trien-vong-5042199.html) - 15:00 20/02/2026
+- 🌮 [Matthew McConaughey dự đoán AI &#39;xâm nhập Oscar&#39;](https://vnexpress.net/matthew-mcconaughey-du-doan-ai-xam-nhap-oscar-5042453.html) - 13:30 20/02/2026
+- 🧠 [Bảo Trúc sắp cưới lần ba](https://vnexpress.net/bao-truc-sap-cuoi-lan-ba-5042532.html) - 12:00 20/02/2026
+- 👨‍🏫 [Khi nghịch cảnh là một món quà](https://vnexpress.net/khi-nghich-canh-la-mot-mon-qua-5040345.html) - 11:04 20/02/2026
+- ⚗️ [Mỹ nhân &#39;Bạn trai tôi là hồ ly&#39; sinh con trai](https://vnexpress.net/my-nhan-ban-trai-toi-la-ho-ly-sinh-con-trai-5042508.html) - 11:02 20/02/2026
+- 😎 [Những thần tượng livestream kiếm hàng trăm nghìn USD](https://vnexpress.net/nhung-than-tuong-livestream-kiem-hang-tram-nghin-usd-5042399.html) - 09:33 20/02/2026
+- 🫣 [Quách Ngọc Ngoan: &#39;Tôi biết ơn người cũ&#39;](https://vnexpress.net/quach-ngoc-ngoan-toi-biet-on-nguoi-cu-5042266.html) - 06:55 20/02/2026
+- 🪄 [Paris Hilton chụp ảnh nude đón tuổi 45](https://vnexpress.net/paris-hilton-chup-anh-nude-don-tuoi-45-5042403.html) - 05:24 20/02/2026
+- 🤓 [Vua Charles III đi xem show thời trang](https://vnexpress.net/vua-charles-iii-di-xem-show-thoi-trang-5042424.html) - 04:47 20/02/2026
+- 🫶 [Những minh tinh, tài tử tuổi Ngọ đình đám Hollywood](https://vnexpress.net/nhung-minh-tinh-tai-tu-tuoi-ngo-dinh-dam-hollywood-5041127.html) - 03:58 20/02/2026
+- 🧑‍🏫 [Sao &#39;Euphoria&#39; qua đời](https://vnexpress.net/sao-euphoria-qua-doi-5042426.html) - 03:11 20/02/2026
+- 🦄 [Tranh tái hiện Càn Long xem binh lính cưỡi ngựa](https://vnexpress.net/tranh-tai-hien-can-long-xem-binh-linh-cuoi-ngua-5042167.html) - 02:00 20/02/2026
+- 💫 [Nhớ đêm giao thừa](https://vnexpress.net/nho-dem-giao-thua-5041717.html) - 01:44 20/02/2026
+- 🎊 [Dung mạo vận động viên &#39;đẹp trai nhất Thế vận hội mùa đông&#39;](https://vnexpress.net/dung-mao-van-dong-vien-dep-trai-nhat-the-van-hoi-mua-dong-5042394.html) - 00:44 20/02/2026
+- 👹 [&#39;Nhà ba tôi một phòng&#39; - Trường Giang tròn vai người cha](https://vnexpress.net/giai-tri/phim/thu-vien-phim/nha-ba-toi-mot-phong-880) - 22:00 19/02/2026
+- 💻 [Văn Mai Hương: &#39;Trấn Thành kiên nhẫn với tôi&#39;](https://vnexpress.net/van-mai-huong-tran-thanh-kien-nhan-voi-toi-5042292.html) - 17:00 19/02/2026
+- 🤡 [Dương Tử Quỳnh nhận sao trên Đại lộ Danh vọng Hollywood](https://vnexpress.net/duong-tu-quynh-nhan-sao-tren-dai-lo-danh-vong-hollywood-5042356.html) - 13:40 19/02/2026
+- 🥰 [Hoa hậu Thanh Thủy: &#39;Tôi không tìm kiếm sự hoàn hảo&#39;](https://vnexpress.net/hoa-hau-thanh-thuy-toi-khong-tim-kiem-su-hoan-hao-5040511.html) - 12:20 19/02/2026
+- 🚀 [Sao Việt đông con ăn Tết sum vầy](https://vnexpress.net/sao-viet-dong-con-an-tet-sum-vay-5042293.html) - 09:04 19/02/2026
+- 📝 [&#39;Thỏ ơi&#39; của Trấn Thành vượt 100 tỷ đồng](https://vnexpress.net/tho-oi-cua-tran-thanh-vuot-100-ty-dong-5042271.html) - 05:38 19/02/2026
+- 🐲 [Yến Nhi: &#39;Thành công là sửa nhà cho cha mẹ sau lũ&#39;](https://vnexpress.net/yen-nhi-thanh-cong-la-sua-nha-cho-cha-me-sau-lu-5042256.html) - 05:09 19/02/2026
+- 🎃 [Tết đoàn viên của gia đình H&#39;Hen Niê](https://vnexpress.net/tet-doan-vien-cua-gia-dinh-h-hen-nie-5042237.html) - 04:44 19/02/2026
+- 🤠 [Phương Anh Đào: &#39;Gia đình không giục tôi lấy chồng&#39;](https://vnexpress.net/phuong-anh-dao-gia-dinh-khong-giuc-toi-lay-chong-5039482.html) - 02:41 19/02/2026
+- 🎭 [Tết Hà thành qua những trang văn](https://vnexpress.net/tet-ha-thanh-qua-nhung-trang-van-5040802.html) - 00:46 19/02/2026
+- 🧰 [&#39;Mùi phở&#39; - tiếng cười từ mâu thuẫn bố chồng, nàng dâu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mui-pho-879) - 17:00 18/02/2026
+- 🦍 [Nghệ sĩ đàn tỳ bà Diệu Thảo viết ca khúc về Tết bình an](https://vnexpress.net/nghe-si-dan-ty-ba-dieu-thao-viet-ca-khuc-ve-tet-binh-an-5041735.html) - 15:56 18/02/2026
+- 🌝 [Tuyên Huyên đón Tết cùng người giúp việc 103 tuổi](https://vnexpress.net/tuyen-huyen-don-tet-cung-nguoi-giup-viec-103-tuoi-5042155.html) - 11:00 18/02/2026
+- 🧑‍💻 [Lâm Thanh Hà - minh tinh tuổi Ngọ tài sắc vẹn toàn](https://vnexpress.net/lam-thanh-ha-minh-tinh-tuoi-ngo-tai-sac-ven-toan-5040266.html) - 08:00 18/02/2026
+- 🥸 [&#39;Đường xưa mây trắng&#39; - con đường Trung đạo](https://vnexpress.net/duong-xua-may-trang-con-duong-trung-dao-5042129.html) - 06:54 18/02/2026
+- 🔥 [Rhyder: &#39;Tôi tái sinh sau những năm chênh vênh&#39;](https://vnexpress.net/rhyder-toi-tai-sinh-sau-nhung-nam-chenh-venh-5039906.html) - 06:49 18/02/2026
+- 🐎 [Bom tấn 100 triệu USD của Ngô Kinh lép vế phòng vé](https://vnexpress.net/bom-tan-100-trieu-usd-cua-ngo-kinh-lep-ve-phong-ve-5042131.html) - 05:55 18/02/2026
+- 😎 [Vợ chồng Khánh Vân vào bếp nấu món Tết](https://vnexpress.net/vo-chong-khanh-van-vao-bep-nau-mon-tet-5040948.html) - 04:54 18/02/2026
+- 🦄 [Tết Hà Nội một thế kỷ trước qua ảnh màu](https://vnexpress.net/tet-ha-noi-mot-the-ky-truoc-qua-anh-mau-5042121.html) - 04:18 18/02/2026
+- 🌜 [&#39;Chàng trai đẹp nhất Trung Quốc&#39; cưỡi bạch mã khai xuân](https://vnexpress.net/chang-trai-dep-nhat-trung-quoc-cuoi-bach-ma-khai-xuan-5042097.html) - 03:39 18/02/2026
+- 🚦 [Dàn mỹ nữ hóa giọt mưa xuân trong vũ điệu](https://vnexpress.net/dan-my-nu-hoa-giot-mua-xuan-trong-vu-dieu-5042076.html) - 01:33 18/02/2026
+- 🧐 [Nhà văn Nguyễn Ngọc Tiến: &#39;Tết Nguyên đán giá trị ở sự đoàn viên&#39;](https://vnexpress.net/nha-van-nguyen-ngoc-tien-tet-nguyen-dan-gia-tri-o-su-doan-vien-5040522.html) - 22:00 17/02/2026
+- 🐵 [&#39;Thỏ ơi&#39; - góc khuất tình yêu qua lăng kính Trấn Thành](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tho-oi-878) - 17:36 17/02/2026
+- ⚗️ [Nghệ sĩ Quốc Tuấn: &#39;Bôm đi được hơn nửa chặng đường tự lập&#39;](https://vnexpress.net/nghe-si-quoc-tuan-bom-di-duoc-hon-nua-chang-duong-tu-lap-5041816.html) - 17:00 17/02/2026
+- 👺 [Dàn sao sum họp gia đình ngày đầu năm Bính Ngọ](https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html) - 13:40 17/02/2026
+- 🌊 [6 mỹ nhân tuổi Ngọ của showbiz Việt](https://vnexpress.net/6-my-nhan-tuoi-ngo-cua-showbiz-viet-5040440.html) - 12:00 17/02/2026
+- 🪜 [Hà Kiều Anh gợi ý áo dài, áo bà ba du xuân](https://vnexpress.net/ha-kieu-anh-goi-y-ao-dai-ao-ba-ba-du-xuan-5041818.html) - 08:42 17/02/2026
+- 🕴 [Mỹ Lệ đưa không khí đón Tết ở TP HCM vào MV](https://vnexpress.net/my-le-dua-khong-khi-don-tet-o-tp-hcm-vao-mv-5040801.html) - 05:58 17/02/2026
+- 💃 [Thú vui cắm hoa ngày Tết của sao Việt](https://vnexpress.net/thu-vui-cam-hoa-ngay-tet-cua-sao-viet-5041182.html) - 04:58 17/02/2026
+- 🦄 [Chương trình Quảng trường mùa xuân &#39;nhạt hơn Táo quân&#39;](https://vnexpress.net/chuong-trinh-quang-truong-mua-xuan-nhat-hon-tao-quan-5041881.html) - 04:47 17/02/2026
+- ⛽️ [Tài tử &#39;Bố già&#39; qua đời](https://vnexpress.net/tai-tu-bo-gia-qua-doi-5041977.html) - 03:41 17/02/2026
+- 😎 [Trang phục thu hút may mắn tài lộc cho 12 con giáp](https://vnexpress.net/trang-phuc-thu-hut-may-man-tai-loc-cho-12-con-giap-5030538.html) - 03:29 17/02/2026
+- 🌊 [Hình tượng ngựa - sức mạnh trong văn hóa Việt](https://vnexpress.net/hinh-tuong-ngua-suc-manh-trong-van-hoa-viet-5040828.html) - 03:17 17/02/2026
+- 🐲 [Robot &#39;gây bão&#39; trên sân khấu năm mới Trung Quốc](https://vnexpress.net/robot-gay-bao-tren-san-khau-nam-moi-trung-quoc-5041960.html) - 03:12 17/02/2026
+- 💂 [Mỹ nữ Tân Cương hóa nàng tiên cá](https://vnexpress.net/my-nu-tan-cuong-hoa-nang-tien-ca-5041942.html) - 00:54 17/02/2026
+- 🙉 [Mỹ Tâm: &#39;Tôi hạnh phúc vì biết đủ&#39;](https://vnexpress.net/my-tam-toi-hanh-phuc-vi-biet-du-5015521.html) - 00:39 17/02/2026
+- 💪 [&#39;Mở cửa tương lai&#39; đón lấy cơ hội](https://vnexpress.net/mo-cua-tuong-lai-don-lay-co-hoi-5041903.html) - 17:00 16/02/2026
+- 👍 [Trấn Thành: &#39;Tôi muốn vượt qua thành công của mình&#39;](https://vnexpress.net/tran-thanh-toi-muon-vuot-qua-thanh-cong-cua-minh-5041540.html) - 17:00 16/02/2026
+- 💪 [&#39;Thỏ ơi&#39; phá kỷ lục phòng vé trước ngày phim ra rạp](https://vnexpress.net/tho-oi-pha-ky-luc-phong-ve-truoc-ngay-phim-ra-rap-5041880.html) - 14:18 16/02/2026
+- 💄 [Phương Thanh: &#39;Hạnh phúc khi kịp sửa nhà để mẹ đón Tết&#39;](https://vnexpress.net/phuong-thanh-hanh-phuc-khi-kip-sua-nha-de-me-don-tet-5041767.html) - 12:00 16/02/2026
+- 🦩 [Ba bố con Trọng Tấn lần đầu chung sân khấu](https://vnexpress.net/ba-bo-con-trong-tan-lan-dau-chung-san-khau-5041848.html) - 10:40 16/02/2026
+- 🥸 [Hoa hậu Lý Thu Thảo dạo đường hoa TP HCM](https://vnexpress.net/hoa-hau-ly-thu-thao-dao-duong-hoa-tp-hcm-5041795.html) - 08:05 16/02/2026
+- 🧰 [Chợ hoa Tết ở Hà Nội thập niên 1980](https://vnexpress.net/cho-hoa-tet-o-ha-noi-thap-nien-1980-5041764.html) - 06:10 16/02/2026
+- 💼 [Bé ba tuổi gây sốt màn ảnh Hàn](https://vnexpress.net/be-ba-tuoi-gay-sot-man-anh-han-5041595.html) - 01:57 16/02/2026
+- 🧑‍💻 [Nghệ sĩ Xuân Hinh, Hòa Minzy hát nhạc phim &#39;Mùi phở&#39;](https://vnexpress.net/nghe-si-xuan-hinh-hoa-minzy-hat-nhac-phim-mui-pho-5041562.html) - 18:00 15/02/2026<!-- vnexpress-giai-tri:END -->
