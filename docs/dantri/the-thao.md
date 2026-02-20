@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam có thêm cơ hội tham dự World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-co-them-co-hoi-tham-du-world-cup-20260220124736550.htm) - 12:01 20/02/2026
+- 🎡 [U17 Việt Nam có thêm cơ hội tham dự World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-co-them-co-hoi-tham-du-world-cup-20260220124736550.htm) - 11:01 20/02/2026
 - 💯 [Cổ động viên Indonesia truy đuổi cầu thủ Thái Lan và trọng tài ở Cúp châu Á](https://dantri.com.vn/the-thao/co-dong-vien-indonesia-truy-duoi-cau-thu-thai-lan-va-trong-tai-o-cup-chau-a-20260220152102808.htm) - 08:33 20/02/2026
 - ⛽️ [AFC nói về khả năng 7 cầu thủ nhập tịch Malaysia ra sân gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/afc-noi-ve-kha-nang-7-cau-thu-nhap-tich-malaysia-ra-san-gap-tuyen-viet-nam-20260220114841956.htm) - 05:30 20/02/2026
 - 💃 [Cựu HLV Malaysia: “Bóng đá nước nhà cần Mourinho hoặc Wenger để tái thiết”](https://dantri.com.vn/the-thao/cuu-hlv-malaysia-bong-da-nuoc-nha-can-mourinho-hoac-wenger-de-tai-thiet-20260220121133213.htm) - 05:18 20/02/2026
