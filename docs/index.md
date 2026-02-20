@@ -312,56 +312,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Đà Nẵng, Huế hút khách dịp Tết Bính Ngọ 2026](https://www.sggp.org.vn/da-nang-hue-hut-khach-dip-tet-binh-ngo-2026-post839242.html) - 06:08 20/02/2026
-- 🌝 [Bản tin trưa 20-2: Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/ban-tin-trua-20-2-tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839246.html) - 06:00 20/02/2026
-- 💃 [Podcast bản tin trưa 20-2: Qua đỉnh nóng, TPHCM vẫn duy trì mức nhiệt cao](https://www.sggp.org.vn/podcast-ban-tin-trua-20-2-qua-dinh-nong-tphcm-van-duy-tri-muc-nhiet-cao-post839247.html) - 06:00 20/02/2026
+- 🪜 [Đại tướng Phan Văn Giang tiếp Thứ trưởng thứ nhất Bộ Chiến tranh Hoa Kỳ](https://www.sggp.org.vn/dai-tuong-phan-van-giang-tiep-thu-truong-thu-nhat-bo-chien-tranh-hoa-ky-post839267.html) - 07:25 20/02/2026
+- 🌝 [Mùng 4 tết: Siêu thị đồng loạt mở cửa trở lại](https://www.sggp.org.vn/mung-4-tet-sieu-thi-dong-loat-mo-cua-tro-lai-post839228.html) - 07:08 20/02/2026
+- 💃 [Đà Nẵng, Huế hút khách dịp Tết Bính Ngọ 2026](https://www.sggp.org.vn/da-nang-hue-hut-khach-dip-tet-binh-ngo-2026-post839242.html) - 06:08 20/02/2026
+- 🧑‍💻 [Bản tin trưa 20-2: Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/ban-tin-trua-20-2-tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839246.html) - 06:00 20/02/2026
+- 🌊 [Podcast bản tin trưa 20-2: Qua đỉnh nóng, TPHCM vẫn duy trì mức nhiệt cao](https://www.sggp.org.vn/podcast-ban-tin-trua-20-2-qua-dinh-nong-tphcm-van-duy-tri-muc-nhiet-cao-post839247.html) - 06:00 20/02/2026
 - 🧑‍💻 [Quảng Ngãi đón hơn 610.000 lượt khách du lịch trong 7 ngày nghỉ tết](https://www.sggp.org.vn/quang-ngai-don-hon-610000-luot-khach-du-lich-trong-7-ngay-nghi-tet-post839249.html) - 05:57 20/02/2026
-- 🌊 [Tổng Bí thư Tô Lâm gặp gỡ bà con cộng đồng và các cơ quan đại diện Việt Nam tại Hoa Kỳ](https://www.sggp.org.vn/tong-bi-thu-to-lam-gap-go-ba-con-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-hoa-ky-post839250.html) - 05:42 20/02/2026
-- 🧑‍💻 [Tổng Bí thư Tô Lâm gặp lãnh đạo các nước nhân dịp tham dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-gap-lanh-dao-cac-nuoc-nhan-dip-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-post839248.html) - 05:25 20/02/2026
-- ⛽️ [Hà Nội mở cửa miễn phí 17 danh thắng, di tích phục vụ nhân dân và du khách](https://www.sggp.org.vn/ha-noi-mo-cua-mien-phi-17-danh-thang-di-tich-phuc-vu-nhan-dan-va-du-khach-post839243.html) - 04:27 20/02/2026
-- 😎 [Lâm Đồng: Ô tô kéo lê xe máy khiến một người tử vong](https://www.sggp.org.vn/lam-dong-o-to-keo-le-xe-may-khien-mot-nguoi-tu-vong-post839229.html) - 04:19 20/02/2026
-- 🌜 [Sân bay Tân Sơn Nhất dự kiến đón lượng khách kỷ lục trong ngày mùng 4 tết](https://www.sggp.org.vn/san-bay-tan-son-nhat-du-kien-don-luong-khach-ky-luc-trong-ngay-mung-4-tet-post839244.html) - 04:16 20/02/2026
-- 💻 [Phim tết của Trấn Thành đang thắng thế phòng vé](https://www.sggp.org.vn/phim-tet-cua-tran-thanh-dang-thang-the-phong-ve-post839238.html) - 04:01 20/02/2026
-- 👍 [Cà Mau không… xa lắm!](https://www.sggp.org.vn/ca-mau-khong-xa-lam-post838057.html) - 04:00 20/02/2026
-- 🦆 [Chính thức điều hành giá xăng dầu trong hôm nay 20-2](https://www.sggp.org.vn/chinh-thuc-dieu-hanh-gia-xang-dau-trong-hom-nay-20-2-post839239.html) - 03:50 20/02/2026
-- 🦩 [Lâm Đồng: Hàng loạt trụ đèn đường “tắt ngúm” vì bị cắt trộm dây diện](https://www.sggp.org.vn/lam-dong-hang-loat-tru-den-duong-tat-ngum-vi-bi-cat-trom-day-dien-post839235.html) - 03:31 20/02/2026
-- 🥰 [Nhiệt độ tại TPHCM phổ biến từ 31-35 độ C, chiều tối có thể xuất hiện mưa dông cục bộ](https://www.sggp.org.vn/nhiet-do-tai-tphcm-pho-bien-tu-31-35-do-c-chieu-toi-co-the-xuat-hien-mua-dong-cuc-bo-post839219.html) - 03:26 20/02/2026
-- 🎬 [Hôm nay 20-2, điều hành giá xăng dầu](https://www.sggp.org.vn/hom-nay-20-2-dieu-hanh-gia-xang-dau-post839222.html) - 03:09 20/02/2026
-- 🦩 [Nhiều nước cam kết đóng góp cho nỗ lực gìn giữ hòa bình của Hội đồng Hòa bình về Gaza](https://www.sggp.org.vn/nhieu-nuoc-cam-ket-dong-gop-cho-no-luc-gin-giu-hoa-binh-cua-hoi-dong-hoa-binh-ve-gaza-post839232.html) - 03:08 20/02/2026
-- 🌮 [Triển vọng đồng USD trở thành mã code](https://www.sggp.org.vn/trien-vong-dong-usd-tro-thanh-ma-code-post838050.html) - 03:00 20/02/2026
-- 👍 [Kinh tế tư nhân: Bốn thập niên hội nhập](https://www.sggp.org.vn/kinh-te-tu-nhan-bon-thap-nien-hoi-nhap-post838053.html) - 03:00 20/02/2026
-- 🦒 [123 ca tử vong nghi do tai nạn giao thông trong 5 ngày nghỉ tết](https://www.sggp.org.vn/123-ca-tu-vong-nghi-do-tai-nan-giao-thong-trong-5-ngay-nghi-tet-post839234.html) - 02:58 20/02/2026
-- 🤡 [5 ngày nghỉ Tết Bính Ngọ 2026: Cấp cứu 57 trường hợp tai nạn nghi do vũ khí, vật liệu nổ tự chế](https://www.sggp.org.vn/5-ngay-nghi-tet-binh-ngo-2026-cap-cuu-57-truong-hop-tai-nan-nghi-do-vu-khi-vat-lieu-no-tu-che-post839223.html) - 02:55 20/02/2026
-- 🐎 [Tổng thống Donald Trump ra thời hạn để Iran đạt thỏa thuận với Mỹ](https://www.sggp.org.vn/tong-thong-donald-trump-ra-thoi-han-de-iran-dat-thoa-thuan-voi-my-post839227.html) - 02:39 20/02/2026
-- 🦆 [Qua đỉnh nóng, TPHCM vẫn duy trì mức nhiệt cao](https://www.sggp.org.vn/qua-dinh-nong-tphcm-van-duy-tri-muc-nhiet-cao-post839236.html) - 02:24 20/02/2026
-- 🦅 [Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839226.html) - 02:16 20/02/2026
-- 🫣 [Khai mạc Đại hội lần thứ IX Đảng Lao động Triều Tiên](https://www.sggp.org.vn/khai-mac-dai-hoi-lan-thu-ix-dang-lao-dong-trieu-tien-post839224.html) - 02:13 20/02/2026
-- 🎭 [Căn tính người thành phố](https://www.sggp.org.vn/can-tinh-nguoi-thanh-pho-post838049.html) - 02:00 20/02/2026
-- 🫶 [Thời tiết ngày 20-2 &lpar;mùng 4 Tết&rpar;: Bắc bộ sương mù rải rác, Nam bộ tiếp tục nắng nóng](https://www.sggp.org.vn/thoi-tiet-ngay-20-2-mung-4-tet-bac-bo-suong-mu-rai-rac-nam-bo-tiep-tuc-nang-nong-post839221.html) - 01:40 20/02/2026
-- 🎓 [Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839220.html) - 01:24 20/02/2026
-- 🤡 [Saka gia hạn hợp đồng với Arsenal đến năm 2031](https://www.sggp.org.vn/saka-gia-han-hop-dong-voi-arsenal-den-nam-2031-post839218.html) - 00:55 20/02/2026
-- 🦅 [HLV Arne Slot: Isak sẽ trở lại vào cuối tháng 3](https://www.sggp.org.vn/hlv-arne-slot-isak-se-tro-lai-vao-cuoi-thang-3-post839217.html) - 00:55 20/02/2026
-- 🧑‍🏫 [Carlos Alcaraz vs Karen Khachanov 6-7 &lpar;3-7&rpar;, 6-4, 6-3: Alcaraz ngược dòng đẳng cấp hạ Khachanov, gặp Rublev ở bán kết Qatar Open 2026](https://www.sggp.org.vn/carlos-alcaraz-vs-karen-khachanov-6-7-3-7-6-4-6-3-alcaraz-nguoc-dong-dang-cap-ha-khachanov-gap-rublev-o-ban-ket-qatar-open-2026-post839259.html) - 00:47 20/02/2026
-- 🕴 [Chủ tịch Liên đoàn bóng đá Argentina bị cấm xuất cảnh](https://www.sggp.org.vn/chu-tich-lien-doan-bong-da-argentina-bi-cam-xuat-canh-post839216.html) - 00:43 20/02/2026
-- 🦆 [UEFA Conference League: Crystal Palace tiếp tục gặp khó khăn với trận hòa Zrinski Mostar](https://www.sggp.org.vn/uefa-conference-league-crystal-palace-tiep-tuc-gap-kho-khan-voi-tran-hoa-zrinski-mostar-post839215.html) - 00:29 20/02/2026
-- 🎃 [Tuyển thủ điền kinh nghỉ Tết 2026 nhưng vẫn tự giữ gìn thể lực](https://www.sggp.org.vn/tuyen-thu-dien-kinh-nghi-tet-2026-nhung-van-tu-giu-gin-the-luc-post839125.html) - 00:16 20/02/2026
-- 🌮 [TPHCM: Kinh tế số, động cơ tăng tốc](https://www.sggp.org.vn/tphcm-kinh-te-so-dong-co-tang-toc-post837702.html) - 00:09 20/02/2026
-- 🥰 [Cẩn trọng loại tiền mã hóa là ... &quot;hàng mã&quot;](https://www.sggp.org.vn/can-trong-loai-tien-ma-hoa-la-hang-ma-post838087.html) - 00:00 20/02/2026
-- 🕯 [Tận hưởng đặc quyền ưu đãi thẻ tín dụng PVcomBank Premier](https://www.sggp.org.vn/tan-huong-dac-quyen-uu-dai-the-tin-dung-pvcombank-premier-post838492.html) - 00:00 20/02/2026
-- 🙉 [Vốn quý nhất của TPHCM](https://www.sggp.org.vn/von-quy-nhat-cua-tphcm-post838048.html) - 00:00 20/02/2026
-- 💡 [Khát vọng hạt gạo Việt trong kỷ nguyên xanh](https://www.sggp.org.vn/khat-vong-hat-gao-viet-trong-ky-nguyen-xanh-post838081.html) - 23:59 19/02/2026
-- 💫 [Tiếng &quot;ting&quot; khai mở](https://www.sggp.org.vn/tieng-ting-khai-mo-post838051.html) - 23:59 19/02/2026
-- 🧑‍💻 [Bản hòa tấu đất Chín Rồng](https://www.sggp.org.vn/ban-hoa-tau-dat-chin-rong-post838543.html) - 23:58 19/02/2026
-- 🎊 [Thành phố mùa xuân](https://www.sggp.org.vn/thanh-pho-mua-xuan-post838660.html) - 23:58 19/02/2026
-- 🤖 [Khúc hát bên sông Gianh](https://www.sggp.org.vn/khuc-hat-ben-song-gianh-post838659.html) - 23:58 19/02/2026
-- 💫 [Europa League: Pereira dẫn dắt Forest giành chiến thắng 3-0 trước Fenerbahce](https://www.sggp.org.vn/europa-league-pereira-dan-dat-forest-gianh-chien-thang-3-0-truoc-fenerbahce-post839214.html) - 23:57 19/02/2026
-- 👨‍🏫 [Zrinjski vs Crystal Palace 1-1: Ismaila Sarr tỉa góc điệu nghệ, Abramovic chớp thời cơ sút xa cứu thua, chờ lượt về Conference League](https://www.sggp.org.vn/zrinjski-vs-crystal-palace-1-1-ismaila-sarr-tia-goc-dieu-nghe-abramovic-chop-thoi-co-sut-xa-cuu-thua-cho-luot-ve-conference-league-post839253.html) - 23:57 19/02/2026
-- 🧰 [Hành trình kỷ lục của Newcastle: Từ St. James’ Park đến Baku](https://www.sggp.org.vn/hanh-trinh-ky-luc-cua-newcastle-tu-st-james-park-den-baku-post839213.html) - 23:57 19/02/2026
-- 🥰 [CAHN bị loại khoải AFC Champions League Two: Không chỉ là một thất bại](https://www.sggp.org.vn/cahn-bi-loai-khoai-afc-champions-league-two-khong-chi-la-mot-that-bai-post839190.html) - 23:57 19/02/2026
-- 💼 [Jakub Mensik vs Jannik Sinner 7-6 &lpar;3&rpar;, 2-6, 6-3: Giằng co 2 giờ 12 phút, Mensik gây địa chấn hạ Sinner, gặp Arthur Fils ở bán kết Qatar Open](https://www.sggp.org.vn/jakub-mensik-vs-jannik-sinner-7-6-3-2-6-6-3-giang-co-2-gio-12-phut-mensik-gay-dia-chan-ha-sinner-gap-arthur-fils-o-ban-ket-qatar-open-post839260.html) - 23:56 19/02/2026
-- 🤗 [Xuất khẩu qua kênh số cả doanh nghiệp Việt](https://www.sggp.org.vn/xuat-khau-qua-kenh-so-ca-doanh-nghiep-viet-post838093.html) - 23:56 19/02/2026
-- 🦩 [Hoa](https://www.sggp.org.vn/hoa-post838658.html) - 23:55 19/02/2026
-- 🫶 [Thành phố tôi](https://www.sggp.org.vn/thanh-pho-toi-post838544.html) - 23:55 19/02/2026<!-- sggp:END -->
+- ⛽️ [Tổng Bí thư Tô Lâm gặp gỡ bà con cộng đồng và các cơ quan đại diện Việt Nam tại Hoa Kỳ](https://www.sggp.org.vn/tong-bi-thu-to-lam-gap-go-ba-con-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-hoa-ky-post839250.html) - 05:42 20/02/2026
+- 😎 [Tổng Bí thư Tô Lâm gặp lãnh đạo các nước nhân dịp tham dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-gap-lanh-dao-cac-nuoc-nhan-dip-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-post839248.html) - 05:25 20/02/2026
+- 🌜 [Hà Nội mở cửa miễn phí 17 danh thắng, di tích phục vụ nhân dân và du khách](https://www.sggp.org.vn/ha-noi-mo-cua-mien-phi-17-danh-thang-di-tich-phuc-vu-nhan-dan-va-du-khach-post839243.html) - 04:27 20/02/2026
+- 💻 [Lâm Đồng: Ô tô kéo lê xe máy khiến một người tử vong](https://www.sggp.org.vn/lam-dong-o-to-keo-le-xe-may-khien-mot-nguoi-tu-vong-post839229.html) - 04:19 20/02/2026
+- 👍 [Sân bay Tân Sơn Nhất dự kiến đón lượng khách kỷ lục trong ngày mùng 4 tết](https://www.sggp.org.vn/san-bay-tan-son-nhat-du-kien-don-luong-khach-ky-luc-trong-ngay-mung-4-tet-post839244.html) - 04:16 20/02/2026
+- 🦆 [Phim tết của Trấn Thành đang thắng thế phòng vé](https://www.sggp.org.vn/phim-tet-cua-tran-thanh-dang-thang-the-phong-ve-post839238.html) - 04:01 20/02/2026
+- 🦩 [Cà Mau không… xa lắm!](https://www.sggp.org.vn/ca-mau-khong-xa-lam-post838057.html) - 04:00 20/02/2026
+- 🥰 [Chính thức điều hành giá xăng dầu trong hôm nay 20-2](https://www.sggp.org.vn/chinh-thuc-dieu-hanh-gia-xang-dau-trong-hom-nay-20-2-post839239.html) - 03:50 20/02/2026
+- 🎬 [Lâm Đồng: Hàng loạt trụ đèn đường “tắt ngúm” vì bị cắt trộm dây diện](https://www.sggp.org.vn/lam-dong-hang-loat-tru-den-duong-tat-ngum-vi-bi-cat-trom-day-dien-post839235.html) - 03:31 20/02/2026
+- 🦩 [Nhiệt độ tại TPHCM phổ biến từ 31-35 độ C, chiều tối có thể xuất hiện mưa dông cục bộ](https://www.sggp.org.vn/nhiet-do-tai-tphcm-pho-bien-tu-31-35-do-c-chieu-toi-co-the-xuat-hien-mua-dong-cuc-bo-post839219.html) - 03:26 20/02/2026
+- 🌮 [Hôm nay 20-2, điều hành giá xăng dầu](https://www.sggp.org.vn/hom-nay-20-2-dieu-hanh-gia-xang-dau-post839222.html) - 03:09 20/02/2026
+- 👍 [Nhiều nước cam kết đóng góp cho nỗ lực gìn giữ hòa bình của Hội đồng Hòa bình về Gaza](https://www.sggp.org.vn/nhieu-nuoc-cam-ket-dong-gop-cho-no-luc-gin-giu-hoa-binh-cua-hoi-dong-hoa-binh-ve-gaza-post839232.html) - 03:08 20/02/2026
+- 🦒 [Triển vọng đồng USD trở thành mã code](https://www.sggp.org.vn/trien-vong-dong-usd-tro-thanh-ma-code-post838050.html) - 03:00 20/02/2026
+- 🤡 [Kinh tế tư nhân: Bốn thập niên hội nhập](https://www.sggp.org.vn/kinh-te-tu-nhan-bon-thap-nien-hoi-nhap-post838053.html) - 03:00 20/02/2026
+- 🐎 [123 ca tử vong nghi do tai nạn giao thông trong 5 ngày nghỉ tết](https://www.sggp.org.vn/123-ca-tu-vong-nghi-do-tai-nan-giao-thong-trong-5-ngay-nghi-tet-post839234.html) - 02:58 20/02/2026
+- 🦆 [5 ngày nghỉ Tết Bính Ngọ 2026: Cấp cứu 57 trường hợp tai nạn nghi do vũ khí, vật liệu nổ tự chế](https://www.sggp.org.vn/5-ngay-nghi-tet-binh-ngo-2026-cap-cuu-57-truong-hop-tai-nan-nghi-do-vu-khi-vat-lieu-no-tu-che-post839223.html) - 02:55 20/02/2026
+- 🦅 [Tổng thống Donald Trump ra thời hạn để Iran đạt thỏa thuận với Mỹ](https://www.sggp.org.vn/tong-thong-donald-trump-ra-thoi-han-de-iran-dat-thoa-thuan-voi-my-post839227.html) - 02:39 20/02/2026
+- 🫣 [Qua đỉnh nóng, TPHCM vẫn duy trì mức nhiệt cao](https://www.sggp.org.vn/qua-dinh-nong-tphcm-van-duy-tri-muc-nhiet-cao-post839236.html) - 02:24 20/02/2026
+- 🎭 [Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839226.html) - 02:16 20/02/2026
+- 🫶 [Khai mạc Đại hội lần thứ IX Đảng Lao động Triều Tiên](https://www.sggp.org.vn/khai-mac-dai-hoi-lan-thu-ix-dang-lao-dong-trieu-tien-post839224.html) - 02:13 20/02/2026
+- 🎓 [Căn tính người thành phố](https://www.sggp.org.vn/can-tinh-nguoi-thanh-pho-post838049.html) - 02:00 20/02/2026
+- 🤡 [Thời tiết ngày 20-2 &lpar;mùng 4 Tết&rpar;: Bắc bộ sương mù rải rác, Nam bộ tiếp tục nắng nóng](https://www.sggp.org.vn/thoi-tiet-ngay-20-2-mung-4-tet-bac-bo-suong-mu-rai-rac-nam-bo-tiep-tuc-nang-nong-post839221.html) - 01:40 20/02/2026
+- 🦅 [Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza](https://www.sggp.org.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-post839220.html) - 01:24 20/02/2026
+- 🧑‍🏫 [Saka gia hạn hợp đồng với Arsenal đến năm 2031](https://www.sggp.org.vn/saka-gia-han-hop-dong-voi-arsenal-den-nam-2031-post839218.html) - 00:55 20/02/2026
+- 🕴 [HLV Arne Slot: Isak sẽ trở lại vào cuối tháng 3](https://www.sggp.org.vn/hlv-arne-slot-isak-se-tro-lai-vao-cuoi-thang-3-post839217.html) - 00:55 20/02/2026
+- 🦆 [Carlos Alcaraz vs Karen Khachanov 6-7 &lpar;3-7&rpar;, 6-4, 6-3: Alcaraz ngược dòng đẳng cấp hạ Khachanov, gặp Rublev ở bán kết Qatar Open 2026](https://www.sggp.org.vn/carlos-alcaraz-vs-karen-khachanov-6-7-3-7-6-4-6-3-alcaraz-nguoc-dong-dang-cap-ha-khachanov-gap-rublev-o-ban-ket-qatar-open-2026-post839259.html) - 00:47 20/02/2026
+- 🎃 [Chủ tịch Liên đoàn bóng đá Argentina bị cấm xuất cảnh](https://www.sggp.org.vn/chu-tich-lien-doan-bong-da-argentina-bi-cam-xuat-canh-post839216.html) - 00:43 20/02/2026
+- 🌮 [UEFA Conference League: Crystal Palace tiếp tục gặp khó khăn với trận hòa Zrinski Mostar](https://www.sggp.org.vn/uefa-conference-league-crystal-palace-tiep-tuc-gap-kho-khan-voi-tran-hoa-zrinski-mostar-post839215.html) - 00:29 20/02/2026
+- 🥰 [Tuyển thủ điền kinh nghỉ Tết 2026 nhưng vẫn tự giữ gìn thể lực](https://www.sggp.org.vn/tuyen-thu-dien-kinh-nghi-tet-2026-nhung-van-tu-giu-gin-the-luc-post839125.html) - 00:16 20/02/2026
+- 🕯 [TPHCM: Kinh tế số, động cơ tăng tốc](https://www.sggp.org.vn/tphcm-kinh-te-so-dong-co-tang-toc-post837702.html) - 00:09 20/02/2026
+- 🙉 [Cẩn trọng loại tiền mã hóa là ... &quot;hàng mã&quot;](https://www.sggp.org.vn/can-trong-loai-tien-ma-hoa-la-hang-ma-post838087.html) - 00:00 20/02/2026
+- 💡 [Tận hưởng đặc quyền ưu đãi thẻ tín dụng PVcomBank Premier](https://www.sggp.org.vn/tan-huong-dac-quyen-uu-dai-the-tin-dung-pvcombank-premier-post838492.html) - 00:00 20/02/2026
+- 💫 [Vốn quý nhất của TPHCM](https://www.sggp.org.vn/von-quy-nhat-cua-tphcm-post838048.html) - 00:00 20/02/2026
+- 🧑‍💻 [Khát vọng hạt gạo Việt trong kỷ nguyên xanh](https://www.sggp.org.vn/khat-vong-hat-gao-viet-trong-ky-nguyen-xanh-post838081.html) - 23:59 19/02/2026
+- 🎊 [Tiếng &quot;ting&quot; khai mở](https://www.sggp.org.vn/tieng-ting-khai-mo-post838051.html) - 23:59 19/02/2026
+- 🤖 [Bản hòa tấu đất Chín Rồng](https://www.sggp.org.vn/ban-hoa-tau-dat-chin-rong-post838543.html) - 23:58 19/02/2026
+- 💫 [Thành phố mùa xuân](https://www.sggp.org.vn/thanh-pho-mua-xuan-post838660.html) - 23:58 19/02/2026
+- 👨‍🏫 [Khúc hát bên sông Gianh](https://www.sggp.org.vn/khuc-hat-ben-song-gianh-post838659.html) - 23:58 19/02/2026
+- 🧰 [Europa League: Pereira dẫn dắt Forest giành chiến thắng 3-0 trước Fenerbahce](https://www.sggp.org.vn/europa-league-pereira-dan-dat-forest-gianh-chien-thang-3-0-truoc-fenerbahce-post839214.html) - 23:57 19/02/2026
+- 🥰 [Zrinjski vs Crystal Palace 1-1: Ismaila Sarr tỉa góc điệu nghệ, Abramovic chớp thời cơ sút xa cứu thua, chờ lượt về Conference League](https://www.sggp.org.vn/zrinjski-vs-crystal-palace-1-1-ismaila-sarr-tia-goc-dieu-nghe-abramovic-chop-thoi-co-sut-xa-cuu-thua-cho-luot-ve-conference-league-post839253.html) - 23:57 19/02/2026
+- 💼 [Hành trình kỷ lục của Newcastle: Từ St. James’ Park đến Baku](https://www.sggp.org.vn/hanh-trinh-ky-luc-cua-newcastle-tu-st-james-park-den-baku-post839213.html) - 23:57 19/02/2026
+- 🤗 [CAHN bị loại khoải AFC Champions League Two: Không chỉ là một thất bại](https://www.sggp.org.vn/cahn-bi-loai-khoai-afc-champions-league-two-khong-chi-la-mot-that-bai-post839190.html) - 23:57 19/02/2026
+- 🦩 [Jakub Mensik vs Jannik Sinner 7-6 &lpar;3&rpar;, 2-6, 6-3: Giằng co 2 giờ 12 phút, Mensik gây địa chấn hạ Sinner, gặp Arthur Fils ở bán kết Qatar Open](https://www.sggp.org.vn/jakub-mensik-vs-jannik-sinner-7-6-3-2-6-6-3-giang-co-2-gio-12-phut-mensik-gay-dia-chan-ha-sinner-gap-arthur-fils-o-ban-ket-qatar-open-post839260.html) - 23:56 19/02/2026
+- 🫶 [Xuất khẩu qua kênh số cả doanh nghiệp Việt](https://www.sggp.org.vn/xuat-khau-qua-kenh-so-ca-doanh-nghiep-viet-post838093.html) - 23:56 19/02/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
