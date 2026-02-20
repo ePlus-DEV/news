@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Ông Trump: Sẽ áp thuế nhập khẩu 10% sau phán quyết của Tòa Tối cao](https://vnexpress.net/ong-trump-se-ap-thue-nhap-khau-10-sau-phan-quyet-cua-toa-toi-cao-5042573.html) - 18:57 20/02/2026
+- 🚀 [Ông Trump: Sẽ áp thêm 10% thuế nhập khẩu sau phán quyết của Tòa Tối cao](https://vnexpress.net/ong-trump-se-ap-them-10-thue-nhap-khau-sau-phan-quyet-cua-toa-toi-cao-5042573.html) - 18:57 20/02/2026
 - 🧰 [Người Việt tử vong trên núi tuyết Nhật Bản](https://vnexpress.net/nguoi-viet-tu-vong-tren-nui-tuyet-nhat-ban-5042564.html) - 17:21 20/02/2026
 - 🥰 [Biển người đổ về núi Bà Đen hành hương dịp đầu năm](https://vnexpress.net/bien-nguoi-do-ve-nui-ba-den-hanh-huong-dip-dau-nam-5042547.html) - 17:18 20/02/2026
 - 🌏 [Top 10 cầu thủ lương cao ở Ngoại hạng Anh 2025-2026](https://vnexpress.net/top-10-cau-thu-luong-cao-o-ngoai-hang-anh-2025-2026-5042527.html) - 17:05 20/02/2026
@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Tỷ phú Mark Cuban nói về hai kiểu người dùng AI](https://vnexpress.net/ty-phu-mark-cuban-noi-ve-hai-kieu-nguoi-dung-ai-5042504.html) - 10:40 20/02/2026
 - 🚀 [Tìm thấy thi thể hai ông cháu bị lật đò](https://vnexpress.net/tim-thay-thi-the-hai-ong-chau-bi-lat-do-5042494.html) - 10:35 20/02/2026
 - 🕴 [&#39;Thiên thần băng&#39; gốc Trung Quốc đem về HC vàng cho Mỹ](https://vnexpress.net/thien-than-bang-goc-trung-quoc-dem-ve-hc-vang-cho-my-5042497.html) - 10:29 20/02/2026
-- 🦆 [Chủ hãng bia Sài Gòn có doanh số thấp nhất 10 năm](https://vnexpress.net/chu-hang-bia-sai-gon-co-doanh-so-thap-nhat-10-nam-5042490.html) - 10:17 20/02/2026
-- 💫 [Nghị viện Florida thông qua dự luật đặt tên ông Trump cho sân bay](https://vnexpress.net/nghi-vien-florida-thong-qua-du-luat-dat-ten-ong-trump-cho-san-bay-5042502.html) - 10:11 20/02/2026<!-- vnexpress:END -->
+- 🦆 [Chủ hãng bia Sài Gòn có doanh số thấp nhất 10 năm](https://vnexpress.net/chu-hang-bia-sai-gon-co-doanh-so-thap-nhat-10-nam-5042490.html) - 10:17 20/02/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
