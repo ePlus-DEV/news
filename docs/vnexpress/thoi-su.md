@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nghiên cứu tích hợp mạng xã hội với VNeID để định danh người dùng](https://vnexpress.net/nghien-cuu-tich-hop-mang-xa-hoi-voi-vneid-de-dinh-danh-nguoi-dung-5042737.html) - 15:01 21/02/2026
-- 🤓 [Lật thuyền trên hồ Thác Bà, 6 người mất tích](https://vnexpress.net/lat-thuyen-tren-ho-thac-ba-6-nguoi-mat-tich-5042748.html) - 14:55 21/02/2026
+- 🤓 [Lật tàu chở khách trên hồ Thác Bà, 6 người mất tích](https://vnexpress.net/lat-tau-cho-khach-tren-ho-thac-ba-6-nguoi-mat-tich-5042748.html) - 14:55 21/02/2026
 - ⚗️ [Bé gái 8 tuổi tử vong dưới hồ điều hòa](https://vnexpress.net/be-gai-8-tuoi-tu-vong-duoi-ho-dieu-hoa-5042724.html) - 12:11 21/02/2026
 - 🌊 [Giữ lại hai đại cảnh ngựa ở đường hoa Nguyễn Huệ thêm một tháng](https://vnexpress.net/giu-lai-hai-dai-canh-ngua-o-duong-hoa-nguyen-hue-them-mot-thang-5042722.html) - 10:29 21/02/2026
 - 🎓 [Ôtô tông 10 xe máy đang chờ đèn đỏ](https://vnexpress.net/oto-tong-10-xe-may-dang-cho-den-do-5042708.html) - 09:25 21/02/2026
