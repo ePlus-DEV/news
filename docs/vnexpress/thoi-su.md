@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Tìm thấy 6 nạn nhân vụ lật tàu trên hồ Thác Bà](https://vnexpress.net/tim-thay-6-nan-nhan-vu-lat-tau-tren-ho-thac-ba-5042913.html) - 10:35 22/02/2026
 - ⚗️ [7 ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây](https://vnexpress.net/7-oto-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5042904.html) - 09:16 22/02/2026
 - 🌊 [Dòng xe đông đúc đổ về TP HCM, Hà Nội sau kỳ nghỉ Tết](https://vnexpress.net/dong-xe-dong-duc-do-ve-tp-hcm-ha-noi-sau-ky-nghi-tet-5042898.html) - 09:09 22/02/2026
-- 🎓 [Hàng vạn người dự khai hội chùa Hương](https://vnexpress.net/hang-van-nguoi-du-khai-hoi-chua-huong-5042894.html) - 08:40 22/02/2026
+- 🎓 [Hàng chục nghìn người khai hội chùa Hương](https://vnexpress.net/hang-chuc-nghin-nguoi-khai-hoi-chua-huong-5042894.html) - 08:40 22/02/2026
 - 🔥 [Đặc công nước lặn tìm nạn nhân trên lòng hồ Thác Bà](https://vnexpress.net/dac-cong-nuoc-lan-tim-nan-nhan-tren-long-ho-thac-ba-5042877.html) - 07:53 22/02/2026
 - 🦏 [Thủ tướng kiểm tra công trường metro Nhổn - Ga Hà Nội](https://vnexpress.net/thu-tuong-kiem-tra-cong-truong-metro-nhon-ga-ha-noi-5042866.html) - 06:19 22/02/2026
 - 👺 [Tổng Bí thư Tô Lâm phát động Tết trồng cây xuân Bính Ngọ 2026](https://vnexpress.net/tong-bi-thu-to-lam-phat-dong-tet-trong-cay-xuan-binh-ngo-2026-5042870.html) - 06:07 22/02/2026
