@@ -319,56 +319,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Theo chân Bộ đội Biên phòng Hà Tĩnh tuần tra ở vùng biên](https://www.sggp.org.vn/theo-chan-bo-doi-bien-phong-ha-tinh-tuan-tra-o-vung-bien-post839455.html) - 08:03 22/02/2026
-- 🌝 [Săn mây giữa đại ngàn Măng Đen](https://www.sggp.org.vn/san-may-giua-dai-ngan-mang-den-post839472.html) - 08:01 22/02/2026
-- 💃 [Ùn ứ phương tiện ở cửa ngõ phía Tây TPHCM](https://www.sggp.org.vn/un-u-phuong-tien-o-cua-ngo-phia-tay-tphcm-post839467.html) - 08:00 22/02/2026
-- 🧑‍💻 [Liam Rosenior chỉ trích cách quản lý trận đấu của Chelsea](https://www.sggp.org.vn/liam-rosenior-chi-trich-cach-quan-ly-tran-dau-cua-chelsea-post839473.html) - 07:53 22/02/2026
-- 🌊 [Phim “Bước chân vào đời” lên sóng VTV](https://www.sggp.org.vn/phim-buoc-chan-vao-doi-len-song-vtv-post839462.html) - 07:41 22/02/2026
-- 🧑‍💻 [Tàu du lịch 5 sao cập cảng Phú Mỹ với gần 2.000 du khách đến TPHCM](https://www.sggp.org.vn/tau-du-lich-5-sao-cap-cang-phu-my-voi-gan-2000-du-khach-den-tphcm-post839466.html) - 07:37 22/02/2026
-- ⛽️ [Tìm thấy nạn nhân đầu tiên trong vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/tim-thay-nan-nhan-dau-tien-trong-vu-lat-tau-o-ho-thac-ba-post839468.html) - 07:30 22/02/2026
-- 😎 [Xúc động lễ tưởng niệm, cầu siêu đồng bào mất vì đại dịch Covid-19](https://www.sggp.org.vn/xuc-dong-le-tuong-niem-cau-sieu-dong-bao-mat-vi-dai-dich-covid-19-post839464.html) - 06:58 22/02/2026
-- 🌜 [Ngư dân Quảng Ngãi bội thu cá cơm đầu năm](https://www.sggp.org.vn/ngu-dan-quang-ngai-boi-thu-ca-com-dau-nam-post839454.html) - 06:49 22/02/2026
-- 💻 [Khánh Hòa: Điều tra vụ nhóm thanh niên đánh nhau giữa đường trong đêm](https://www.sggp.org.vn/khanh-hoa-dieu-tra-vu-nhom-thanh-nien-danh-nhau-giua-duong-trong-dem-post839445.html) - 06:46 22/02/2026
-- 👍 [Huy động tối đa nhân lực, phương tiện cứu nạn vụ lật tàu ở Lào Cai](https://www.sggp.org.vn/huy-dong-toi-da-nhan-luc-phuong-tien-cuu-nan-vu-lat-tau-o-lao-cai-post839463.html) - 06:43 22/02/2026
-- 🦆 [Lễ hội lớn nhất miền Bắc chính thức khai hội](https://www.sggp.org.vn/le-hoi-lon-nhat-mien-bac-chinh-thuc-khai-hoi-post839457.html) - 06:36 22/02/2026
-- 🦩 [Quảng Ngãi: Sôi nổi giải đua thuyền độc mộc trên sông Đăk Bla](https://www.sggp.org.vn/quang-ngai-soi-noi-giai-dua-thuyen-doc-moc-tren-song-dak-bla-post839441.html) - 06:34 22/02/2026
-- 🥰 [Los Angeles vs Inter Miami 3-0: Ngày Messi tịt ngòi, Son Heung Min thăng hoa, David Martinez, Bouanga, Ordaz lập công](https://www.sggp.org.vn/los-angeles-vs-inter-miami-3-0-ngay-messi-tit-ngoi-son-heung-min-thang-hoa-david-martinez-bouanga-ordaz-lap-cong-post839474.html) - 06:34 22/02/2026
-- 🎬 [Dâng hương tưởng niệm các Anh hùng liệt sĩ Biệt động Sài Gòn – Gia Định](https://www.sggp.org.vn/dang-huong-tuong-niem-cac-anh-hung-liet-si-biet-dong-sai-gon-gia-dinh-post839459.html) - 06:27 22/02/2026
-- 🦩 [Người dân đến Công viên số 1 Lý Thái Tổ tưởng nhớ đồng bào mất vì Covid-19](https://www.sggp.org.vn/nguoi-dan-den-cong-vien-so-1-ly-thai-to-tuong-nho-dong-bao-mat-vi-covid-19-post839451.html) - 06:26 22/02/2026
-- 🌮 [Tổng Bí thư Tô Lâm dự lễ phát động “Tết trồng cây đời đời nhớ ơn Bác Hồ”](https://www.sggp.org.vn/tong-bi-thu-to-lam-du-le-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-post839458.html) - 06:07 22/02/2026
-- 👍 [Bản tin trưa 22-2: Miền Nam xuất hiện nắng nóng cục bộ](https://www.sggp.org.vn/ban-tin-trua-22-2-mien-nam-xuat-hien-nang-nong-cuc-bo-post839453.html) - 06:00 22/02/2026
-- 🦒 [Podcast tin trưa 22-2: Mở màn mùa lễ hội lớn nhất miền Bắc](https://www.sggp.org.vn/podcast-tin-trua-22-2-mo-man-mua-le-hoi-lon-nhat-mien-bac-post839460.html) - 05:56 22/02/2026
-- 🤡 [Giữ hồn văn hóa Sán Chay qua Lễ hội Cầu mùa đầu xuân](https://www.sggp.org.vn/giu-hon-van-hoa-san-chay-qua-le-hoi-cau-mua-dau-xuan-post839449.html) - 05:54 22/02/2026
-- 🐎 [TPHCM: Hối hả thi công trên cụm 3 dự án y tế trọng điểm](https://www.sggp.org.vn/tphcm-hoi-ha-thi-cong-tren-cum-3-du-an-y-te-trong-diem-post839450.html) - 05:51 22/02/2026
-- 🦆 [Son Heung-Min đánh bại Messi trong trận mở màn MLS](https://www.sggp.org.vn/son-heung-min-danh-bai-messi-trong-tran-mo-man-mls-post839461.html) - 05:47 22/02/2026
-- 🦅 [Thị trường hàng hóa mùng 6 Tết trở lại bình thường](https://www.sggp.org.vn/thi-truong-hang-hoa-mung-6-tet-tro-lai-binh-thuong-post839446.html) - 05:47 22/02/2026
-- 🫣 [TPHCM đón 4,32 triệu lượt khách, doanh thu vượt 12.150 tỷ đồng](https://www.sggp.org.vn/tphcm-don-432-trieu-luot-khach-doanh-thu-vuot-12150-ty-dong-post839433.html) - 05:39 22/02/2026
-- 🎭 [Dự kiến đóng đường ra một số cao tốc để ưu tiên xe vào Hà Nội, TPHCM](https://www.sggp.org.vn/du-kien-dong-duong-ra-mot-so-cao-toc-de-uu-tien-xe-vao-ha-noi-tphcm-post839438.html) - 05:31 22/02/2026
-- 🫶 [Hơn 600 nữ cựu tù chính trị - tù binh TPHCM họp mặt mừng xuân](https://www.sggp.org.vn/hon-600-nu-cuu-tu-chinh-tri-tu-binh-tphcm-hop-mat-mung-xuan-post839448.html) - 05:30 22/02/2026
-- 🎓 [Không để xảy ra ùn tắc kéo dài trên các tuyến đường vào trung tâm Hà Nội và TPHCM](https://www.sggp.org.vn/khong-de-xay-ra-un-tac-keo-dai-tren-cac-tuyen-duong-vao-trung-tam-ha-noi-va-tphcm-post839434.html) - 05:30 22/02/2026
-- 🤡 [Ngày 22-2, sân bay Tân Sơn Nhất tiếp tục lập kỷ lục khi đón gần 178.000 lượt khách](https://www.sggp.org.vn/ngay-22-2-san-bay-tan-son-nhat-tiep-tuc-lap-ky-luc-khi-don-gan-178000-luot-khach-post839452.html) - 05:30 22/02/2026
-- 🦅 [TPHCM: Hơn 100 du khách được ứng cứu kịp thời trong 5 ngày tết](https://www.sggp.org.vn/tphcm-hon-100-du-khach-duoc-ung-cuu-kip-thoi-trong-5-ngay-tet-post839432.html) - 04:53 22/02/2026
-- 🧑‍🏫 [Triệu tập 3 người liên quan vụ đuổi đánh du khách ở Vũng Tàu](https://www.sggp.org.vn/trieu-tap-3-nguoi-lien-quan-vu-duoi-danh-du-khach-o-vung-tau-post839437.html) - 04:44 22/02/2026
-- 🕴 [Nhanh chóng điều tra nguyên nhân vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/nhanh-chong-dieu-tra-nguyen-nhan-vu-lat-tau-o-ho-thac-ba-post839435.html) - 04:43 22/02/2026
-- 🦆 [Đội tuyển futsal nữ Việt Nam lên đường bảo vệ ngôi vô địch Đông Nam Á](https://www.sggp.org.vn/doi-tuyen-futsal-nu-viet-nam-len-duong-bao-ve-ngoi-vo-dich-dong-nam-a-post839440.html) - 04:35 22/02/2026
-- 🎃 [Mỹ - Nhật Bản thảo luận về &quot;răn đe mở rộng&quot;](https://www.sggp.org.vn/my-nhat-ban-thao-luan-ve-ran-de-mo-rong-post839439.html) - 04:35 22/02/2026
-- 🌮 [Greenwood tìm đường rời khỏi Marseille đang khủng hoảng](https://www.sggp.org.vn/greenwood-tim-duong-roi-khoi-marseille-dang-khung-hoang-post839436.html) - 04:13 22/02/2026
-- 🥰 [Săn mây giữa đại ngàn Măng Đen](https://www.sggp.org.vn/san-may-giua-dai-ngan-mang-den-post839431.html) - 03:55 22/02/2026
-- 🕯 [Gần 93.000 lượt khách quốc tế đến Phú Quốc trong 9 ngày nghỉ tết](https://www.sggp.org.vn/gan-93000-luot-khach-quoc-te-den-phu-quoc-trong-9-ngay-nghi-tet-post839428.html) - 03:47 22/02/2026
-- 🙉 [Khánh Hòa đón hơn 1 triệu lượt khách du lịch dịp tết](https://www.sggp.org.vn/khanh-hoa-don-hon-1-trieu-luot-khach-du-lich-dip-tet-post839429.html) - 03:40 22/02/2026
-- 💡 [Hàng chục ngàn du khách đội mưa trẩy hội chùa Hương](https://www.sggp.org.vn/hang-chuc-ngan-du-khach-doi-mua-tray-hoi-chua-huong-post839430.html) - 03:34 22/02/2026
+- 🪜 [Sôi nổi giải đua thuyền rồng liên xã Hồ Tràm](https://www.sggp.org.vn/soi-noi-giai-dua-thuyen-rong-lien-xa-ho-tram-post839475.html) - 08:48 22/02/2026
+- 🌝 [23 đội đua hàng đầu tranh tài giải xe đạp nữ quốc tế TPHCM – Cúp Biwase 2026](https://www.sggp.org.vn/23-doi-dua-hang-dau-tranh-tai-giai-xe-dap-nu-quoc-te-tphcm-cup-biwase-2026-post839444.html) - 08:42 22/02/2026
+- 💃 [Bóng chuyền TPHCM tự tin trước mùa giải 2026](https://www.sggp.org.vn/bong-chuyen-tphcm-tu-tin-truoc-mua-giai-2026-post839447.html) - 08:42 22/02/2026
+- 🧑‍💻 [Thành viên đội tuyển bắn súng Việt Nam nhận khen thưởng lớn](https://www.sggp.org.vn/thanh-vien-doi-tuyen-ban-sung-viet-nam-nhan-khen-thuong-lon-post839469.html) - 08:41 22/02/2026
+- 🌊 [Theo chân Bộ đội Biên phòng Hà Tĩnh tuần tra ở vùng biên](https://www.sggp.org.vn/theo-chan-bo-doi-bien-phong-ha-tinh-tuan-tra-o-vung-bien-post839455.html) - 08:03 22/02/2026
+- 🧑‍💻 [Săn mây giữa đại ngàn Măng Đen](https://www.sggp.org.vn/san-may-giua-dai-ngan-mang-den-post839472.html) - 08:01 22/02/2026
+- ⛽️ [Ùn ứ phương tiện ở cửa ngõ phía Tây TPHCM](https://www.sggp.org.vn/un-u-phuong-tien-o-cua-ngo-phia-tay-tphcm-post839467.html) - 08:00 22/02/2026
+- 😎 [Liam Rosenior chỉ trích cách quản lý trận đấu của Chelsea](https://www.sggp.org.vn/liam-rosenior-chi-trich-cach-quan-ly-tran-dau-cua-chelsea-post839473.html) - 07:53 22/02/2026
+- 🌜 [Phim “Bước chân vào đời” lên sóng VTV](https://www.sggp.org.vn/phim-buoc-chan-vao-doi-len-song-vtv-post839462.html) - 07:41 22/02/2026
+- 💻 [Tàu du lịch 5 sao cập cảng Phú Mỹ với gần 2.000 du khách đến TPHCM](https://www.sggp.org.vn/tau-du-lich-5-sao-cap-cang-phu-my-voi-gan-2000-du-khach-den-tphcm-post839466.html) - 07:37 22/02/2026
+- 👍 [Tìm thấy nạn nhân đầu tiên trong vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/tim-thay-nan-nhan-dau-tien-trong-vu-lat-tau-o-ho-thac-ba-post839468.html) - 07:30 22/02/2026
+- 🦆 [Xúc động lễ tưởng niệm, cầu siêu đồng bào mất vì đại dịch Covid-19](https://www.sggp.org.vn/xuc-dong-le-tuong-niem-cau-sieu-dong-bao-mat-vi-dai-dich-covid-19-post839464.html) - 06:58 22/02/2026
+- 🦩 [Ngư dân Quảng Ngãi bội thu cá cơm đầu năm](https://www.sggp.org.vn/ngu-dan-quang-ngai-boi-thu-ca-com-dau-nam-post839454.html) - 06:49 22/02/2026
+- 🥰 [Khánh Hòa: Điều tra vụ nhóm thanh niên đánh nhau giữa đường trong đêm](https://www.sggp.org.vn/khanh-hoa-dieu-tra-vu-nhom-thanh-nien-danh-nhau-giua-duong-trong-dem-post839445.html) - 06:46 22/02/2026
+- 🎬 [Huy động tối đa nhân lực, phương tiện cứu nạn vụ lật tàu ở Lào Cai](https://www.sggp.org.vn/huy-dong-toi-da-nhan-luc-phuong-tien-cuu-nan-vu-lat-tau-o-lao-cai-post839463.html) - 06:43 22/02/2026
+- 🦩 [Lễ hội lớn nhất miền Bắc chính thức khai hội](https://www.sggp.org.vn/le-hoi-lon-nhat-mien-bac-chinh-thuc-khai-hoi-post839457.html) - 06:36 22/02/2026
+- 🌮 [Quảng Ngãi: Sôi nổi giải đua thuyền độc mộc trên sông Đăk Bla](https://www.sggp.org.vn/quang-ngai-soi-noi-giai-dua-thuyen-doc-moc-tren-song-dak-bla-post839441.html) - 06:34 22/02/2026
+- 👍 [Los Angeles vs Inter Miami 3-0: Ngày Messi tịt ngòi, Son Heung Min thăng hoa, David Martinez, Bouanga, Ordaz lập công](https://www.sggp.org.vn/los-angeles-vs-inter-miami-3-0-ngay-messi-tit-ngoi-son-heung-min-thang-hoa-david-martinez-bouanga-ordaz-lap-cong-post839474.html) - 06:34 22/02/2026
+- 🦒 [Dâng hương tưởng niệm các Anh hùng liệt sĩ Biệt động Sài Gòn – Gia Định](https://www.sggp.org.vn/dang-huong-tuong-niem-cac-anh-hung-liet-si-biet-dong-sai-gon-gia-dinh-post839459.html) - 06:27 22/02/2026
+- 🤡 [Người dân đến Công viên số 1 Lý Thái Tổ tưởng nhớ đồng bào mất vì Covid-19](https://www.sggp.org.vn/nguoi-dan-den-cong-vien-so-1-ly-thai-to-tuong-nho-dong-bao-mat-vi-covid-19-post839451.html) - 06:26 22/02/2026
+- 🐎 [Tổng Bí thư Tô Lâm dự lễ phát động “Tết trồng cây đời đời nhớ ơn Bác Hồ”](https://www.sggp.org.vn/tong-bi-thu-to-lam-du-le-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-post839458.html) - 06:07 22/02/2026
+- 🦆 [Bản tin trưa 22-2: Miền Nam xuất hiện nắng nóng cục bộ](https://www.sggp.org.vn/ban-tin-trua-22-2-mien-nam-xuat-hien-nang-nong-cuc-bo-post839453.html) - 06:00 22/02/2026
+- 🦅 [Podcast tin trưa 22-2: Mở màn mùa lễ hội lớn nhất miền Bắc](https://www.sggp.org.vn/podcast-tin-trua-22-2-mo-man-mua-le-hoi-lon-nhat-mien-bac-post839460.html) - 05:56 22/02/2026
+- 🫣 [Giữ hồn văn hóa Sán Chay qua Lễ hội Cầu mùa đầu xuân](https://www.sggp.org.vn/giu-hon-van-hoa-san-chay-qua-le-hoi-cau-mua-dau-xuan-post839449.html) - 05:54 22/02/2026
+- 🎭 [TPHCM: Hối hả thi công trên cụm 3 dự án y tế trọng điểm](https://www.sggp.org.vn/tphcm-hoi-ha-thi-cong-tren-cum-3-du-an-y-te-trong-diem-post839450.html) - 05:51 22/02/2026
+- 🫶 [Son Heung-Min đánh bại Messi trong trận mở màn MLS](https://www.sggp.org.vn/son-heung-min-danh-bai-messi-trong-tran-mo-man-mls-post839461.html) - 05:47 22/02/2026
+- 🎓 [Thị trường hàng hóa mùng 6 Tết trở lại bình thường](https://www.sggp.org.vn/thi-truong-hang-hoa-mung-6-tet-tro-lai-binh-thuong-post839446.html) - 05:47 22/02/2026
+- 🤡 [TPHCM đón 4,32 triệu lượt khách, doanh thu vượt 12.150 tỷ đồng](https://www.sggp.org.vn/tphcm-don-432-trieu-luot-khach-doanh-thu-vuot-12150-ty-dong-post839433.html) - 05:39 22/02/2026
+- 🦅 [Dự kiến đóng đường ra một số cao tốc để ưu tiên xe vào Hà Nội, TPHCM](https://www.sggp.org.vn/du-kien-dong-duong-ra-mot-so-cao-toc-de-uu-tien-xe-vao-ha-noi-tphcm-post839438.html) - 05:31 22/02/2026
+- 🧑‍🏫 [Hơn 600 nữ cựu tù chính trị - tù binh TPHCM họp mặt mừng xuân](https://www.sggp.org.vn/hon-600-nu-cuu-tu-chinh-tri-tu-binh-tphcm-hop-mat-mung-xuan-post839448.html) - 05:30 22/02/2026
+- 🕴 [Không để xảy ra ùn tắc kéo dài trên các tuyến đường vào trung tâm Hà Nội và TPHCM](https://www.sggp.org.vn/khong-de-xay-ra-un-tac-keo-dai-tren-cac-tuyen-duong-vao-trung-tam-ha-noi-va-tphcm-post839434.html) - 05:30 22/02/2026
+- 🦆 [Ngày 22-2, sân bay Tân Sơn Nhất tiếp tục lập kỷ lục khi đón gần 178.000 lượt khách](https://www.sggp.org.vn/ngay-22-2-san-bay-tan-son-nhat-tiep-tuc-lap-ky-luc-khi-don-gan-178000-luot-khach-post839452.html) - 05:30 22/02/2026
+- 🎃 [TPHCM: Hơn 100 du khách được ứng cứu kịp thời trong 5 ngày tết](https://www.sggp.org.vn/tphcm-hon-100-du-khach-duoc-ung-cuu-kip-thoi-trong-5-ngay-tet-post839432.html) - 04:53 22/02/2026
+- 🌮 [Triệu tập 3 người liên quan vụ đuổi đánh du khách ở Vũng Tàu](https://www.sggp.org.vn/trieu-tap-3-nguoi-lien-quan-vu-duoi-danh-du-khach-o-vung-tau-post839437.html) - 04:44 22/02/2026
+- 🥰 [Nhanh chóng điều tra nguyên nhân vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/nhanh-chong-dieu-tra-nguyen-nhan-vu-lat-tau-o-ho-thac-ba-post839435.html) - 04:43 22/02/2026
+- 🕯 [Đội tuyển futsal nữ Việt Nam lên đường bảo vệ ngôi vô địch Đông Nam Á](https://www.sggp.org.vn/doi-tuyen-futsal-nu-viet-nam-len-duong-bao-ve-ngoi-vo-dich-dong-nam-a-post839440.html) - 04:35 22/02/2026
+- 🙉 [Mỹ - Nhật Bản thảo luận về &quot;răn đe mở rộng&quot;](https://www.sggp.org.vn/my-nhat-ban-thao-luan-ve-ran-de-mo-rong-post839439.html) - 04:35 22/02/2026
+- 💡 [Greenwood tìm đường rời khỏi Marseille đang khủng hoảng](https://www.sggp.org.vn/greenwood-tim-duong-roi-khoi-marseille-dang-khung-hoang-post839436.html) - 04:13 22/02/2026
+- 💫 [Săn mây giữa đại ngàn Măng Đen](https://www.sggp.org.vn/san-may-giua-dai-ngan-mang-den-post839431.html) - 03:55 22/02/2026
+- 🧑‍💻 [Gần 93.000 lượt khách quốc tế đến Phú Quốc trong 9 ngày nghỉ tết](https://www.sggp.org.vn/gan-93000-luot-khach-quoc-te-den-phu-quoc-trong-9-ngay-nghi-tet-post839428.html) - 03:47 22/02/2026
+- 🎊 [Khánh Hòa đón hơn 1 triệu lượt khách du lịch dịp tết](https://www.sggp.org.vn/khanh-hoa-don-hon-1-trieu-luot-khach-du-lich-dip-tet-post839429.html) - 03:40 22/02/2026
+- 🤖 [Hàng chục ngàn du khách đội mưa trẩy hội chùa Hương](https://www.sggp.org.vn/hang-chuc-ngan-du-khach-doi-mua-tray-hoi-chua-huong-post839430.html) - 03:34 22/02/2026
 - 💫 [Liên hoan phim Berlin 2026: Tìm ra chủ nhân Gấu vàng mới](https://www.sggp.org.vn/lien-hoan-phim-berlin-2026-tim-ra-chu-nhan-gau-vang-moi-post839422.html) - 03:10 22/02/2026
-- 🧑‍💻 [Tìm thấy nạn nhân đầu tiên vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/tim-thay-nan-nhan-dau-tien-vu-lat-tau-o-ho-thac-ba-post839425.html) - 03:08 22/02/2026
-- 🎊 [Ngày 22-2, sân bay Tân Sơn Nhất tiếp tục lập kỷ lục khi đón gần 178.000 lượt khách](https://www.sggp.org.vn/ngay-22-2-san-bay-tan-son-nhat-tiep-tuc-lap-ky-luc-khi-don-gan-178000-luot-khach-post839426.html) - 03:05 22/02/2026
-- 🤖 [Bắc bộ tiếp tục lạnh về đêm và sáng sớm](https://www.sggp.org.vn/bac-bo-tiep-tuc-lanh-ve-dem-va-sang-som-post839427.html) - 02:51 22/02/2026
-- 💫 [Hàng chục ngàn du khách đội mưa trẩy hội chùa Hương](https://www.sggp.org.vn/hang-chuc-ngan-du-khach-doi-mua-tray-hoi-chua-huong-post839423.html) - 02:22 22/02/2026
-- 👨‍🏫 [James Milner ghi tên mình vào lịch sử Ngoại hạng Anh](https://www.sggp.org.vn/james-milner-ghi-ten-minh-vao-lich-su-ngoai-hang-anh-post839424.html) - 01:52 22/02/2026
-- 🧰 [Inter Milan gia tăng khoảng cách dẫn đầu lên 10 điểm](https://www.sggp.org.vn/inter-milan-gia-tang-khoang-cach-dan-dau-len-10-diem-post839421.html) - 01:35 22/02/2026
-- 🥰 [Không để xảy ra ùn tắc kéo dài trên các tuyến đường vào trung tâm Hà Nội và TPHCM](https://www.sggp.org.vn/khong-de-xay-ra-un-tac-keo-dai-tren-cac-tuyen-duong-vao-trung-tam-ha-noi-va-tphcm-post839418.html) - 01:23 22/02/2026
-- 💼 [Harry Kane lập cú đúp, Bayern nới rộng khoảng cách dẫn đầu](https://www.sggp.org.vn/harry-kane-lap-cu-dup-bayern-noi-rong-khoang-cach-dan-dau-post839419.html) - 01:05 22/02/2026
-- 🤗 [Tổng thống Mỹ tiếp tục nâng mức thuế toàn cầu lên 15%](https://www.sggp.org.vn/tong-thong-my-tiep-tuc-nang-muc-thue-toan-cau-len-15-post839416.html) - 00:52 22/02/2026
-- 🦩 [Bắc bộ sáng sớm có sương mù, Nam bộ nắng nóng cục bộ](https://www.sggp.org.vn/bac-bo-sang-som-co-suong-mu-nam-bo-nang-nong-cuc-bo-post839415.html) - 00:46 22/02/2026
-- 🫶 [Vinicius ghi bàn nhưng không thể ngăn Real Madrid thua Osasuna 1-2](https://www.sggp.org.vn/vinicius-ghi-ban-nhung-khong-the-ngan-real-madrid-thua-osasuna-1-2-post839417.html) - 00:45 22/02/2026<!-- sggp:END -->
+- 👨‍🏫 [Tìm thấy nạn nhân đầu tiên vụ lật tàu ở hồ Thác Bà](https://www.sggp.org.vn/tim-thay-nan-nhan-dau-tien-vu-lat-tau-o-ho-thac-ba-post839425.html) - 03:08 22/02/2026
+- 🧰 [Ngày 22-2, sân bay Tân Sơn Nhất tiếp tục lập kỷ lục khi đón gần 178.000 lượt khách](https://www.sggp.org.vn/ngay-22-2-san-bay-tan-son-nhat-tiep-tuc-lap-ky-luc-khi-don-gan-178000-luot-khach-post839426.html) - 03:05 22/02/2026
+- 🥰 [Bắc bộ tiếp tục lạnh về đêm và sáng sớm](https://www.sggp.org.vn/bac-bo-tiep-tuc-lanh-ve-dem-va-sang-som-post839427.html) - 02:51 22/02/2026
+- 💼 [Hàng chục ngàn du khách đội mưa trẩy hội chùa Hương](https://www.sggp.org.vn/hang-chuc-ngan-du-khach-doi-mua-tray-hoi-chua-huong-post839423.html) - 02:22 22/02/2026
+- 🤗 [James Milner ghi tên mình vào lịch sử Ngoại hạng Anh](https://www.sggp.org.vn/james-milner-ghi-ten-minh-vao-lich-su-ngoai-hang-anh-post839424.html) - 01:52 22/02/2026
+- 🦩 [Inter Milan gia tăng khoảng cách dẫn đầu lên 10 điểm](https://www.sggp.org.vn/inter-milan-gia-tang-khoang-cach-dan-dau-len-10-diem-post839421.html) - 01:35 22/02/2026
+- 🫶 [Không để xảy ra ùn tắc kéo dài trên các tuyến đường vào trung tâm Hà Nội và TPHCM](https://www.sggp.org.vn/khong-de-xay-ra-un-tac-keo-dai-tren-cac-tuyen-duong-vao-trung-tam-ha-noi-va-tphcm-post839418.html) - 01:23 22/02/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
