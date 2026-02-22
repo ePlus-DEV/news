@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa Kỹ thuật Mật mã theo đuổi nghề &#39;săn&#39; lỗ hổng bảo mật](https://vnexpress.net/thu-khoa-ky-thuat-mat-ma-theo-duoi-nghe-san-lo-hong-bao-mat-5040350.html) - 23:05 21/02/2026
+- 🤓 [Thủ khoa Kỹ thuật Mật mã muốn thành kỹ sư &#39;săn&#39; lỗ hổng bảo mật](https://vnexpress.net/thu-khoa-ky-thuat-mat-ma-muon-thanh-ky-su-san-lo-hong-bao-mat-5040350.html) - 23:05 21/02/2026
 - 🦆 [Những bằng MBA giúp sinh viên kiếm hơn 200.000 USD mỗi năm](https://vnexpress.net/nhung-bang-mba-giup-sinh-vien-kiem-hon-200-000-usd-moi-nam-5042762.html) - 17:06 21/02/2026
 - 🦩 [Đường thành phó giáo sư của người lính từng bỏ học lớp 7](https://vnexpress.net/duong-thanh-pho-giao-su-cua-nguoi-linh-tung-bo-hoc-lop-7-5041235.html) - 12:10 21/02/2026
 - 🌮 [Trường học Mỹ chuộng chữ viết tay trở lại](https://vnexpress.net/truong-hoc-my-chuong-chu-viet-tay-tro-lai-5015352.html) - 05:03 21/02/2026
