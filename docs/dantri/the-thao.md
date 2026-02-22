@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Không được dự Asiad 20 cùng U23 Việt Nam, Indonesia khiếu nại](https://dantri.com.vn/the-thao/khong-duoc-du-asiad-20-cung-u23-viet-nam-indonesia-khieu-nai-20260222171847249.htm) - 12:00 22/02/2026
-- 💯 [Malaysia tung đòn bất ngờ, bổ sung gấp cầu thủ nhập tịch gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-tung-don-bat-ngo-bo-sung-gap-cau-thu-nhap-tich-gap-tuyen-viet-nam-20260222183921345.htm) - 11:39 22/02/2026
+- 🎡 [Malaysia tung đòn bất ngờ, bổ sung gấp cầu thủ nhập tịch gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-tung-don-bat-ngo-bo-sung-gap-cau-thu-nhap-tich-gap-tuyen-viet-nam-20260222183921345.htm) - 13:39 22/02/2026
+- 💯 [Không được dự Asiad 20 cùng U23 Việt Nam, Indonesia khiếu nại](https://dantri.com.vn/the-thao/khong-duoc-du-asiad-20-cung-u23-viet-nam-indonesia-khieu-nai-20260222171847249.htm) - 12:00 22/02/2026
 - ⛽️ [Madam Pang chi đậm, dùng công nghệ VAR cho một giải bóng đá học sinh](https://dantri.com.vn/the-thao/madam-pang-chi-dam-dung-cong-nghe-var-cho-mot-giai-bong-da-hoc-sinh-20260222115643109.htm) - 10:09 22/02/2026
 - 💃 [AFC hé lộ bất ngờ, 7 cầu thủ nhập tịch không được khoác áo tuyển Malaysia](https://dantri.com.vn/the-thao/afc-he-lo-bat-ngo-7-cau-thu-nhap-tich-khong-duoc-khoac-ao-tuyen-malaysia-20260222104906557.htm) - 08:00 22/02/2026
 - 🌈 [C.Ronaldo chốt tương lai sau khi “nổi loạn” ở Saudi Arabia](https://dantri.com.vn/the-thao/cronaldo-chot-tuong-lai-sau-khi-noi-loan-o-saudi-arabia-20260222131806974.htm) - 06:18 22/02/2026
