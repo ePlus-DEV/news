@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thaco dự tính xây xong đường sắt từ Thủ Thiêm tới sân bay Long Thành vào 2030](https://vnexpress.net/thaco-du-tinh-xay-xong-duong-sat-tu-thu-thiem-toi-san-bay-long-thanh-vao-2030-5043243.html) - 10:24 23/02/2026
+- ⛽️ [Thaco tính xây xong đường sắt từ TP HCM tới sân bay Long Thành vào 2030](https://vnexpress.net/thaco-tinh-xay-xong-duong-sat-tu-tp-hcm-toi-san-bay-long-thanh-vao-2030-5043243.html) - 10:24 23/02/2026
 - 🐲 [Sầu riêng lên 155.000 đồng một kg, cao nhất 3 năm](https://vnexpress.net/sau-rieng-len-155-000-dong-mot-kg-cao-nhat-3-nam-5043194.html) - 09:30 23/02/2026
 - 🔥 [Mỹ dừng thu thuế đối ứng từ 24/2](https://vnexpress.net/my-dung-thu-thue-doi-ung-tu-24-2-5043150.html) - 08:44 23/02/2026
 - 🐵 [VN-Index tăng vọt sau Tết](https://vnexpress.net/vn-index-tang-vot-sau-tet-5043190.html) - 08:37 23/02/2026
