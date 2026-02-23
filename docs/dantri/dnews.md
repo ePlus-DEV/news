@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Đêm mùng 1 Tết, nữ cán bộ phường nhận điện thoại xin giấy chứng tử](https://dantri.com.vn/thoi-su/dem-mung-1-tet-nu-can-bo-phuong-nhan-dien-thoai-xin-giay-chung-tu-20260223163536306.htm) - 09:47 23/02/2026
+- 🤠 [Đêm mùng 1 Tết, nữ cán bộ phường ở Hà Nội hỗ trợ dân làm thủ tục hành chính](https://dantri.com.vn/thoi-su/dem-mung-1-tet-nu-can-bo-phuong-o-ha-noi-ho-tro-dan-lam-thu-tuc-hanh-chinh-20260223163536306.htm) - 09:47 23/02/2026
 - 🌈 [Người cứu hộ ô tô miễn phí trong gần 15 năm: “Chỉ sợ không giúp được gì”](https://dantri.com.vn/o-to-xe-may/nguoi-cuu-ho-o-to-mien-phi-trong-gan-15-nam-chi-so-khong-giup-duoc-gi-20260223161425617.htm) - 09:23 23/02/2026
 - 🐎 [Vàng bạc mùng 7 Tết: Có loại tăng 4 triệu đồng/lượng, không lo thiếu hàng](https://dantri.com.vn/kinh-doanh/vang-bac-mung-7-tet-co-loai-tang-4-trieu-dongluong-khong-lo-thieu-hang-20260223140155418.htm) - 07:54 23/02/2026
 - 👹 [Vàng rớt 1.000 USD rồi bật tăng: Đầu tư sao cho an toàn?](https://dantri.com.vn/kinh-doanh/vang-rot-1000-usd-roi-bat-tang-dau-tu-sao-cho-an-toan-20260223005248575.htm) - 04:40 23/02/2026
