@@ -4,8 +4,8 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Sáu người nhập viện khi tranh bùa thiêng trong lễ hội khỏa thân ở Nhật Bản](https://dantri.com.vn/doi-song/sau-nguoi-nhap-vien-khi-tranh-bua-thieng-trong-le-hoi-khoa-than-o-nhat-ban-20260223145845835.htm) - 08:18 23/02/2026
-- 🌁 [Người ẩn danh tặng 21kg vàng để sửa đường ống nước đã cũ tại Nhật Bản](https://dantri.com.vn/doi-song/nguoi-an-danh-tang-21kg-vang-de-sua-duong-ong-nuoc-da-cu-tai-nhat-ban-20260223092927767.htm) - 08:05 23/02/2026
+- 🥳 [Người ẩn danh tặng 21kg vàng để sửa đường ống nước đã cũ tại Nhật Bản](https://dantri.com.vn/doi-song/nguoi-an-danh-tang-21kg-vang-de-sua-duong-ong-nuoc-da-cu-tai-nhat-ban-20260223092927767.htm) - 10:05 23/02/2026
+- 🌁 [Sáu người nhập viện khi tranh bùa thiêng trong lễ hội khỏa thân ở Nhật Bản](https://dantri.com.vn/doi-song/sau-nguoi-nhap-vien-khi-tranh-bua-thieng-trong-le-hoi-khoa-than-o-nhat-ban-20260223145845835.htm) - 08:18 23/02/2026
 - 👀 [Khoảnh khắc chứng kiến dù lượn rơi trúng ô tô ở Tuyên Quang](https://dantri.com.vn/doi-song/khoanh-khac-chung-kien-du-luon-roi-trung-o-to-o-tuyen-quang-20260223133450474.htm) - 07:58 23/02/2026
 - 🐻 [Chủ nhà ở TPHCM bất ngờ được giúp việc mừng tuổi tiền triệu](https://dantri.com.vn/doi-song/chu-nha-o-tphcm-bat-ngo-duoc-giup-viec-mung-tuoi-tien-trieu-20260223083958843.htm) - 01:50 23/02/2026
 - 🦅 [Cô giáo Trung Quốc chuyển nghề bán quan tài, công ty thu về 6 triệu USD/năm](https://dantri.com.vn/doi-song/co-giao-trung-quoc-chuyen-nghe-ban-quan-tai-cong-ty-thu-ve-6-trieu-usdnam-20260221163055101.htm) - 00:05 23/02/2026
