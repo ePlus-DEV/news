@@ -11,7 +11,7 @@ sidebar_position: 12
 - 🎊 [Không phải xác minh điều kiện đăng ký thường trú cho trẻ dưới 6 tuổi](https://vnexpress.net/khong-phai-xac-minh-dieu-kien-dang-ky-thuong-tru-cho-tre-duoi-6-tuoi-5043577.html) - 08:35 24/02/2026
 - 🙉 [Người đàn ông ngoại quốc tranh chấp nhà đất vì vợ &#39;tự ý để người thân đứng tên&#39;](https://vnexpress.net/nguoi-dan-ong-ngoai-quoc-tranh-chap-nha-dat-vi-vo-tu-y-de-nguoi-than-dung-ten-5043199.html) - 04:45 24/02/2026
 - 🤡 [Cựu chủ tịch Sen Tài Thu bị cáo buộc gian dối để huy động hơn 1.700 tỷ đồng](https://vnexpress.net/cuu-chu-tich-sen-tai-thu-bi-cao-buoc-gian-doi-de-huy-dong-1-726-ty-dong-5043492.html) - 04:41 24/02/2026
-- 🗽 [Con 9 tuổi không được đặt tên vì cha mẹ bất đồng quan điểm](https://vnexpress.net/con-9-tuoi-khong-duoc-dat-ten-vi-cha-me-bat-dong-quan-diem-5043448.html) - 04:24 24/02/2026
+- 🗽 [Con không được đặt tên suốt 9 năm vì cha mẹ bất đồng quan điểm](https://vnexpress.net/con-9-tuoi-khong-duoc-dat-ten-vi-cha-me-bat-dong-quan-diem-5043448.html) - 04:24 24/02/2026
 - 🌋 [Con bị bắt cóc khi bố mẹ cho phụ nữ lạ ngủ nhờ qua đêm](https://vnexpress.net/con-bi-bat-coc-khi-bo-me-cho-phu-nu-la-o-nho-5043446.html) - 04:21 24/02/2026
 - 🎬 [Kéo kính ôtô làm kẹp tay cảnh sát giao thông kiểm tra nồng độ cồn](https://vnexpress.net/keo-kinh-oto-lam-kep-tay-canh-sat-giao-thong-kiem-tra-nong-do-con-5043438.html) - 04:15 24/02/2026
 - 💯 [Tỷ phú Đức mất triệu euro vì cuộc gọi lừa đảo báo con gái gây tai nạn](https://vnexpress.net/ty-phu-duc-mat-trieu-euro-vi-cuoc-goi-lua-dao-bao-con-gai-gay-tai-nan-5043381.html) - 02:51 24/02/2026
