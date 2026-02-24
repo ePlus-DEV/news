@@ -6,7 +6,7 @@ sidebar_position: 26
 <!-- dantri-ban-doc:START -->
 - 🦒 [Trách nhiệm pháp lý vụ lật tàu 6 người chết trên hồ Thác Bà](https://dantri.com.vn/ban-doc/trach-nhiem-phap-ly-vu-lat-tau-6-nguoi-chet-tren-ho-thac-ba-20260223222453464.htm) - 01:18 24/02/2026
 - 🤓 [Hết cảnh chèo kéo, thu tiền gửi xe người đi lễ chùa Phúc Khánh](https://dantri.com.vn/ban-doc/het-canh-cheo-keo-thu-tien-gui-xe-nguoi-di-le-chua-phuc-khanh-20260223202352971.htm) - 00:11 24/02/2026
-- 🐻 [Hà Nội: Chèo kéo, &quot;chặt chém&quot; tiền gửi xe trước cổng chùa Phúc Khánh](https://dantri.com.vn/ban-doc/ha-noi-cheo-keo-chat-chem-tien-gui-xe-truoc-cong-chua-phuc-khanh-20260223142653787.htm) - 07:59 23/02/2026
+- 🐻 [Đông khách lễ chùa, phát sinh bất cập khi gửi xe tại chùa Phúc Khánh](https://dantri.com.vn/ban-doc/dong-khach-le-chua-phat-sinh-bat-cap-khi-gui-xe-tai-chua-phuc-khanh-20260223142653787.htm) - 07:59 23/02/2026
 - 🏊 [Từ vụ thi thể trẻ sơ sinh nổi trên ao: Vứt bỏ con mới đẻ bị xử lý ra sao?](https://dantri.com.vn/ban-doc/tu-vu-thi-the-tre-so-sinh-noi-tren-ao-vut-bo-con-moi-de-bi-xu-ly-ra-sao-20260222225210281.htm) - 03:41 23/02/2026
 - 💄 [Hóa đơn gửi ô tô 6 ngày trong bệnh viện hơn 2,7 triệu gây tranh cãi](https://dantri.com.vn/ban-doc/hoa-don-gui-o-to-6-ngay-trong-benh-vien-hon-27-trieu-gay-tranh-cai-20260222215106099.htm) - 23:39 22/02/2026
 - 🫣 [Vụ đấm tài xế rồi xin lỗi khi thấy camera: Bị hành hung bởi lý do trời ơi](https://dantri.com.vn/ban-doc/vu-dam-tai-xe-roi-xin-loi-khi-thay-camera-bi-hanh-hung-boi-ly-do-troi-oi-20260222152021216.htm) - 23:25 22/02/2026
