@@ -6,7 +6,7 @@ sidebar_position: 19
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Gần 25ha dưa hấu phơi nắng, thối rữa ngoài ruộng, thiệt hại hàng tỷ đồng](https://dantri.com.vn/lao-dong-viec-lam/gan-25ha-dua-hau-phoi-nang-thoi-rua-ngoai-ruong-thiet-hai-hang-ty-dong-20260224180144253.htm) - 02:02 25/02/2026
 - 🙉 [Ngư dân trúng đậm đầu năm, &quot;lộc biển&quot; giá gấp đôi vẫn cháy hàng](https://dantri.com.vn/lao-dong-viec-lam/ngu-dan-trung-dam-dau-nam-loc-bien-gia-gap-doi-van-chay-hang-20260225080029313.htm) - 01:55 25/02/2026
-- 🕴 [Ngạc nhiên với &quot;số tiền không hề nhỏ&quot; từ bao lì xì của cô bảo vệ](https://dantri.com.vn/lao-dong-viec-lam/ngac-nhien-voi-so-tien-khong-he-nho-tu-bao-li-xi-cua-co-bao-ve-20260224214427592.htm) - 01:19 25/02/2026
+- 🕴 [Ngạc nhiên với số tiền không nhỏ từ bao lì xì của cô bảo vệ](https://dantri.com.vn/lao-dong-viec-lam/ngac-nhien-voi-so-tien-khong-nho-tu-bao-li-xi-cua-co-bao-ve-20260224214427592.htm) - 01:19 25/02/2026
 - 🧐 [Đến nhà người giúp việc chúc Tết, chủ bất ngờ vì cơ ngơi đồ sộ](https://dantri.com.vn/lao-dong-viec-lam/den-nha-nguoi-giup-viec-chuc-tet-chu-bat-ngo-vi-co-ngoi-do-so-20260224154622040.htm) - 23:27 24/02/2026
 - 🧑‍💻 [Giám đốc kể “cú sốc kinh tế” khi rời vị trí lãnh đạo trong cơ quan nhà nước](https://dantri.com.vn/lao-dong-viec-lam/giam-doc-ke-cu-soc-kinh-te-khi-roi-vi-tri-lanh-dao-trong-co-quan-nha-nuoc-20260214174015048.htm) - 23:00 24/02/2026
 - 🪄 [Công việc quá dễ dàng có thể khiến nhân tài Việt bỏ công ty](https://dantri.com.vn/lao-dong-viec-lam/cong-viec-qua-de-dang-co-the-khien-nhan-tai-viet-bo-cong-ty-20260223181130748.htm) - 05:30 24/02/2026
