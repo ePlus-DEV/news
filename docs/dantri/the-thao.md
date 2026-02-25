@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [VFF công bố đối thủ của tuyển Việt Nam trước đại chiến gặp Malaysia](https://dantri.com.vn/the-thao/vff-cong-bo-doi-thu-cua-tuyen-viet-nam-truoc-dai-chien-gap-malaysia-20260225185043945.htm) - 11:51 25/02/2026
+- 🎡 [Tuyển Việt Nam công bố đối thủ trước trận đại chiến gặp Malaysia](https://dantri.com.vn/the-thao/tuyen-viet-nam-cong-bo-doi-thu-truoc-tran-dai-chien-gap-malaysia-20260225185043945.htm) - 12:07 25/02/2026
 - 💯 [Tuyển Malaysia sắp nhận phán quyết, HLV trưởng tuyên bố bất ngờ](https://dantri.com.vn/the-thao/tuyen-malaysia-sap-nhan-phan-quyet-hlv-truong-tuyen-bo-bat-ngo-20260225181855791.htm) - 11:19 25/02/2026
 - ⛽️ [Đội tuyển futsal nữ Việt Nam thắng Philippines tại giải Đông Nam Á 2026](https://dantri.com.vn/the-thao/doi-tuyen-futsal-nu-viet-nam-thang-philippines-tai-giai-dong-nam-a-2026-20260225155326605.htm) - 09:15 25/02/2026
 - 💃 [HLV Kiatisuk nói lời tiễn biệt cố chuyên gia bóng đá Nguyễn Văn Vinh](https://dantri.com.vn/the-thao/hlv-kiatisuk-noi-loi-tien-biet-co-chuyen-gia-bong-da-nguyen-van-vinh-20260225145237223.htm) - 08:21 25/02/2026
