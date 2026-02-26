@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Thời gian nghỉ hè của giáo viên cơ sở giáo dục thường xuyên](https://dantri.com.vn/giao-duc/thoi-gian-nghi-he-cua-giao-vien-co-so-giao-duc-thuong-xuyen-20260224165224197.htm) - 12:07 25/02/2026
-- 🗽 [Hình ảnh bếp ăn, nhà vệ sinh trường quốc tế khiến phụ huynh phẫn nộ](https://dantri.com.vn/giao-duc/hinh-anh-bep-an-nha-ve-sinh-truong-quoc-te-khien-phu-huynh-phan-no-20260225121119713.htm) - 07:03 25/02/2026
+- 🤡 [Nắm 10 từ, cụm từ tiếng Anh quan trọng để theo dõi biến động giá vàng](https://dantri.com.vn/giao-duc/nam-10-tu-cum-tu-tieng-anh-quan-trong-de-theo-doi-bien-dong-gia-vang-20260225135410174.htm) - 09:00 26/02/2026
+- 🗽 [Sự thật bài tập Tết gây “náo loạn” mạng xã hội của sinh viên ĐH Quốc gia](https://dantri.com.vn/giao-duc/su-that-bai-tap-tet-gay-nao-loan-mang-xa-hoi-cua-sinh-vien-dh-quoc-gia-20260226144851502.htm) - 07:54 26/02/2026
+- 🚦 [Xác minh thông tin giáo viên bắt học sinh tiểu học liếm đất](https://dantri.com.vn/giao-duc/xac-minh-thong-tin-giao-vien-bat-hoc-sinh-tieu-hoc-liem-dat-20260226120958099.htm) - 05:15 26/02/2026
+- 🌋 [Vụ trường tạm thu 158 tỷ đồng: Còn bao nhiêu sinh viên chưa nhận lại tiền?](https://dantri.com.vn/giao-duc/vu-truong-tam-thu-158-ty-dong-con-bao-nhieu-sinh-vien-chua-nhan-lai-tien-20260226080154564.htm) - 02:21 26/02/2026
+- 🏊 [Cơ hội du học Phần Lan ở kỳ tuyển sinh riêng của Đại học Laurea](https://dantri.com.vn/giao-duc/co-hoi-du-hoc-phan-lan-o-ky-tuyen-sinh-rieng-cua-dai-hoc-laurea-20260226084402949.htm) - 02:00 26/02/2026
+- 🎃 [Chi tiết kế hoạch tuyển sinh lớp 10 một số trường THPT “hot” ở Hà Nội](https://dantri.com.vn/giao-duc/chi-tiet-ke-hoach-tuyen-sinh-lop-10-mot-so-truong-thpt-hot-o-ha-noi-20260210161259906.htm) - 23:00 25/02/2026
+- 💄 [Thời gian nghỉ hè của giáo viên cơ sở giáo dục thường xuyên](https://dantri.com.vn/giao-duc/thoi-gian-nghi-he-cua-giao-vien-co-so-giao-duc-thuong-xuyen-20260224165224197.htm) - 12:07 25/02/2026
+- 🦅 [Hình ảnh bếp ăn, nhà vệ sinh trường quốc tế khiến phụ huynh phẫn nộ](https://dantri.com.vn/giao-duc/hinh-anh-bep-an-nha-ve-sinh-truong-quoc-te-khien-phu-huynh-phan-no-20260225121119713.htm) - 07:03 25/02/2026
 - 🚦 [Giảm định mức tiết dạy cho giáo viên tập sự ở cơ sở giáo dục thường xuyên](https://dantri.com.vn/giao-duc/giam-dinh-muc-tiet-day-cho-giao-vien-tap-su-o-co-so-giao-duc-thuong-xuyen-20260224171043506.htm) - 07:00 25/02/2026
-- 🌋 [Người cao tuổi rủ nhau đi du học để “sống cho mình”](https://dantri.com.vn/giao-duc/nguoi-cao-tuoi-ru-nhau-di-du-hoc-de-song-cho-minh-20260224161346210.htm) - 05:00 25/02/2026
-- 🏊 [ĐH Bách Khoa Hà Nội điều chỉnh cách quy đổi điểm IELTS](https://dantri.com.vn/giao-duc/dh-bach-khoa-ha-noi-dieu-chinh-cach-quy-doi-diem-ielts-20260225091708209.htm) - 04:11 25/02/2026
-- 🎃 [Một kỳ thi đại học sớm thu hút gần 140.000 thí sinh, cao kỷ lục](https://dantri.com.vn/giao-duc/mot-ky-thi-dai-hoc-som-thu-hut-gan-140000-thi-sinh-cao-ky-luc-20260225104423224.htm) - 03:55 25/02/2026
-- 💄 [Thầy giáo hoá thân thành thần Zeus, loạt học sinh xin làm &quot;xác ướp&quot;](https://dantri.com.vn/giao-duc/thay-giao-hoa-than-thanh-than-zeus-loat-hoc-sinh-xin-lam-xac-uop-20260210174441136.htm) - 02:30 25/02/2026
-- 🦅 [Trường Đại học Sư phạm TPHCM thông báo “nóng” về kỳ thi riêng](https://dantri.com.vn/giao-duc/truong-dai-hoc-su-pham-tphcm-thong-bao-nong-ve-ky-thi-rieng-20260225071156534.htm) - 01:20 25/02/2026
-- 🚦 [Giáo viên hợp đồng có được hưởng phụ cấp ưu đãi nhà giáo?](https://dantri.com.vn/giao-duc/giao-vien-hop-dong-co-duoc-huong-phu-cap-uu-dai-nha-giao-20260225061940873.htm) - 23:33 24/02/2026
-- 🐵 [7 thay đổi trong chính sách tuyển sinh đại học năm 2026](https://dantri.com.vn/giao-duc/7-thay-doi-trong-chinh-sach-tuyen-sinh-dai-hoc-nam-2026-20260224232756379.htm) - 23:00 24/02/2026
-- 🐘 [Lịch thi riêng của 10 đại học năm 2026](https://dantri.com.vn/giao-duc/lich-thi-rieng-cua-10-dai-hoc-nam-2026-20260224123650141.htm) - 09:00 24/02/2026
-- 🦏 [Giáo viên nghỉ thai sản, có được thuê người thay thế?](https://dantri.com.vn/giao-duc/giao-vien-nghi-thai-san-co-duoc-thue-nguoi-thay-the-20260224065354821.htm) - 08:00 24/02/2026
-- 💼 [Năm 2026, Hà Nội có tuyển sinh lớp 10 theo nguyên tắc gần nhà?](https://dantri.com.vn/giao-duc/nam-2026-ha-noi-co-tuyen-sinh-lop-10-theo-nguyen-tac-gan-nha-20260224102840778.htm) - 06:00 24/02/2026
-- ⛽️ [Những ngành học &quot;vua điểm chuẩn&quot; 30/30 sẽ tuyển sinh thế nào?](https://dantri.com.vn/giao-duc/nhung-nganh-hoc-vua-diem-chuan-3030-se-tuyen-sinh-the-nao-20260224090057102.htm) - 05:00 24/02/2026
-- 🎭 [Hướng dẫn mới về tính phụ cấp thâm niên, lương nhà giáo: Lưu ý cộng dồn](https://dantri.com.vn/giao-duc/huong-dan-moi-ve-tinh-phu-cap-tham-nien-luong-nha-giao-luu-y-cong-don-20260224065330179.htm) - 03:00 24/02/2026
-- 🎃 [10 cụm từ tiếng Anh giúp &quot;tăng hưng phấn&quot; sau kỳ nghỉ Tết](https://dantri.com.vn/giao-duc/10-cum-tu-tieng-anh-giup-tang-hung-phan-sau-ky-nghi-tet-20260223140217168.htm) - 01:00 24/02/2026
-- 🚀 [Bùng nổ kỷ lục IELTS nhỏ tuổi: Tín hiệu vui hay cuộc đua lấy chứng chỉ?](https://dantri.com.vn/giao-duc/bung-no-ky-luc-ielts-nho-tuoi-tin-hieu-vui-hay-cuoc-dua-lay-chung-chi-20260224062943183.htm) - 23:45 23/02/2026
-- 👀 [Thủ khoa “trường nhà giàu” kể trải nghiệm khủng hoảng đời sinh viên](https://dantri.com.vn/giao-duc/thu-khoa-truong-nha-giau-ke-trai-nghiem-khung-hoang-doi-sinh-vien-20260222231246513.htm) - 23:00 23/02/2026
-- 🌝 [Á hậu Phương Anh tiết lộ chuyện đi dạy tại ngôi trường có học phí bạc tỷ](https://dantri.com.vn/giao-duc/a-hau-phuong-anh-tiet-lo-chuyen-di-day-tai-ngoi-truong-co-hoc-phi-bac-ty-20260223055320025.htm) - 09:11 23/02/2026
-- 🤗 [Giáo viên có phải nộp thuế khi nhận tiền dạy thêm giờ?](https://dantri.com.vn/giao-duc/giao-vien-co-phai-nop-thue-khi-nhan-tien-day-them-gio-20260223095856281.htm) - 08:00 23/02/2026
-- 🦄 [Mẫu câu chúc Tết bằng tiếng Anh để nhận lì xì đầu năm của sếp nước ngoài](https://dantri.com.vn/giao-duc/mau-cau-chuc-tet-bang-tieng-anh-de-nhan-li-xi-dau-nam-cua-sep-nuoc-ngoai-20260223102228869.htm) - 07:00 23/02/2026
-- 🦍 [Trường học ở TPHCM lì xì học trò, phụ huynh ngày đầu năm](https://dantri.com.vn/giao-duc/truong-hoc-o-tphcm-li-xi-hoc-tro-phu-huynh-ngay-dau-nam-20260223120619404.htm) - 05:31 23/02/2026
-- 🪄 [Hiệu trưởng quê Thanh Hóa nhận Huân chương Cành cọ hàn lâm](https://dantri.com.vn/giao-duc/hieu-truong-que-thanh-hoa-nhan-huan-chuong-canh-co-han-lam-20260223121739492.htm) - 05:26 23/02/2026
-- 🦆 [Trường Đại học Xây dựng Hà Nội xét học bạ, cộng điểm cho học sinh chuyên](https://dantri.com.vn/giao-duc/truong-dai-hoc-xay-dung-ha-noi-xet-hoc-ba-cong-diem-cho-hoc-sinh-chuyen-20260223103407719.htm) - 04:38 23/02/2026
-- 🚀 [Lưu ý khẩn ở kỳ thi đánh giá năng lực lớn nhất nước](https://dantri.com.vn/giao-duc/luu-y-khan-o-ky-thi-danh-gia-nang-luc-lon-nhat-nuoc-20260223094059904.htm) - 02:56 23/02/2026
-- 🦒 [Năm 2026: “Phép thử” lớn cho cải cách giáo dục ở Việt Nam](https://dantri.com.vn/giao-duc/nam-2026-phep-thu-lon-cho-cai-cach-giao-duc-o-viet-nam-20260222070848901.htm) - 02:00 23/02/2026
-- 🤡 [Tuyển sinh đại học năm 2026 thay đổi như thế nào?](https://dantri.com.vn/giao-duc/tuyen-sinh-dai-hoc-nam-2026-thay-doi-nhu-the-nao-20260205214024260.htm) - 23:00 22/02/2026
-- 🤔 [Vành đai tri thức trên những đỉnh trời biên giới](https://dantri.com.vn/giao-duc/vanh-dai-tri-thuc-tren-nhung-dinh-troi-bien-gioi-20260222162314535.htm) - 09:36 22/02/2026
-- 🧑‍💻 [Những câu chuyện sinh viên về tình mẹ cha rớt nước mắt](https://dantri.com.vn/giao-duc/nhung-cau-chuyen-sinh-vien-ve-tinh-me-cha-rot-nuoc-mat-20260215133251653.htm) - 07:57 22/02/2026
-- 🤡 [Nhiều cách hiểu về định mức tiết dạy, Bộ GD&amp;ĐT “chốt&quot; con số cuối cùng](https://dantri.com.vn/giao-duc/nhieu-cach-hieu-ve-dinh-muc-tiet-day-bo-gddt-chot-con-so-cuoi-cung-20260222073422769.htm) - 05:00 22/02/2026
-- 🧠 [Muốn học vượt lớp, học sinh phải trải qua quy trình xét duyệt như thế nào?](https://dantri.com.vn/giao-duc/muon-hoc-vuot-lop-hoc-sinh-phai-trai-qua-quy-trinh-xet-duyet-nhu-the-nao-20260210105217647.htm) - 02:00 22/02/2026
-- 🧑‍💻 [Đột phá trong chính sách: Cơ hội “vàng&quot; để giáo dục Việt Nam bứt tốc](https://dantri.com.vn/giao-duc/dot-pha-trong-chinh-sach-co-hoi-vang-de-giao-duc-viet-nam-but-toc-20260216101640044.htm) - 23:00 21/02/2026
-- 🧠 [10 từ tiếng anh về ngoại hình con người](https://dantri.com.vn/giao-duc/10-tu-tieng-anh-ve-ngoai-hinh-con-nguoi-20260210160511630.htm) - 11:00 21/02/2026
-- 😎 [Sinh viên tranh thủ khởi nghiệp ngày Tết, vốn ít, doanh thu cao](https://dantri.com.vn/giao-duc/sinh-vien-tranh-thu-khoi-nghiep-ngay-tet-von-it-doanh-thu-cao-20260215155632500.htm) - 08:00 21/02/2026
-- 🕴 [Sửa quy định cộng điểm ưu tiên khu vực khi xét tốt nghiệp THPT từ 2026](https://dantri.com.vn/giao-duc/sua-quy-dinh-cong-diem-uu-tien-khu-vuc-khi-xet-tot-nghiep-thpt-tu-2026-20260210155933307.htm) - 05:00 21/02/2026
-- 🧠 [13 đại học của Việt Nam và mục tiêu vươn ra thế giới](https://dantri.com.vn/giao-duc/13-dai-hoc-cua-viet-nam-va-muc-tieu-vuon-ra-the-gioi-20260212071154543.htm) - 02:00 21/02/2026
-- 🚀 [Bài thơ về lì xì ngày Tết gây sốt mạng xã hội](https://dantri.com.vn/giao-duc/bai-tho-ve-li-xi-ngay-tet-gay-sot-mang-xa-hoi-20260221074749042.htm) - 01:03 21/02/2026
-- 🕯 [4 phương thức xét tuyển, chỉ tiêu từng ngành của ĐH Sư phạm TPHCM](https://dantri.com.vn/giao-duc/4-phuong-thuc-xet-tuyen-chi-tieu-tung-nganh-cua-dh-su-pham-tphcm-20260220205144162.htm) - 23:54 20/02/2026
-- 🧰 [Giáo viên có được hưởng phụ cấp trong thời gian nghỉ hè?](https://dantri.com.vn/giao-duc/giao-vien-co-duoc-huong-phu-cap-trong-thoi-gian-nghi-he-20260212002902180.htm) - 23:00 20/02/2026
-- ⛽️ [Buổi diễn “nhảy lửa” của học sinh chuyên gây sốt mạng xã hội](https://dantri.com.vn/giao-duc/buoi-dien-nhay-lua-cua-hoc-sinh-chuyen-gay-sot-mang-xa-hoi-20260216192818758.htm) - 11:00 20/02/2026
-- 🤖 [Vừa chơi Tết, vừa “bỏ túi” 10 từ vựng tiếng Anh về trò chơi Tết quen thuộc](https://dantri.com.vn/giao-duc/vua-choi-tet-vua-bo-tui-10-tu-vung-tieng-anh-ve-tro-choi-tet-quen-thuoc-20260210171903458.htm) - 08:00 20/02/2026
-- 🦍 [3 tân giáo sư đặc biệt nhất nước](https://dantri.com.vn/giao-duc/3-tan-giao-su-dac-biet-nhat-nuoc-20260218134901486.htm) - 05:00 20/02/2026
-- 🐘 [&quot;Giấc mơ bay&quot; của cựu thí sinh Đường lên đỉnh Olympia tại Pháp](https://dantri.com.vn/giao-duc/giac-mo-bay-cua-cuu-thi-sinh-duong-len-dinh-olympia-tai-phap-20260212153953951.htm) - 02:00 20/02/2026
-- 🌊 [Những vị sư biểu đã dẫn dắt đời tôi](https://dantri.com.vn/giao-duc/nhung-vi-su-bieu-da-dan-dat-doi-toi-20260218220742731.htm) - 01:00 20/02/2026
-- 🕯 [Lịch trở lại trường sau Tết Bính Ngọ 2026 của học sinh cả nước](https://dantri.com.vn/giao-duc/lich-tro-lai-truong-sau-tet-binh-ngo-2026-cua-hoc-sinh-ca-nuoc-20260209142532907.htm) - 23:00 19/02/2026
-- 🐎 [Hòa mình với không khí du xuân đầu năm qua 10 cụm từ tiếng Anh](https://dantri.com.vn/giao-duc/hoa-minh-voi-khong-khi-du-xuan-dau-nam-qua-10-cum-tu-tieng-anh-20260211154342911.htm) - 07:00 19/02/2026
-- 🐻 [Khi trường học được chấm điểm Hạnh phúc](https://dantri.com.vn/giao-duc/khi-truong-hoc-duoc-cham-diem-hanh-phuc-20260216094247985.htm) - 05:00 19/02/2026
-- 🐎 [Từ Hoa hậu đến vị trí lãnh đạo khoa tuổi 30 và nỗi sợ &quot;quá sang chảnh&quot;](https://dantri.com.vn/giao-duc/tu-hoa-hau-den-vi-tri-lanh-dao-khoa-tuoi-30-va-noi-so-qua-sang-chanh-20260218180525960.htm) - 02:00 19/02/2026
-- 🫣 [Sinh viên phát quà Tết cho người vô gia cư](https://dantri.com.vn/thoi-su/sinh-vien-phat-qua-tet-cho-nguoi-vo-gia-cu-20260217002119589.htm) - 23:25 18/02/2026
-- 🤭 [Người thầy rời bỏ 20 năm trường chuyên lớp chọn đi dạy học sinh khuyết tật](https://dantri.com.vn/giao-duc/nguoi-thay-roi-bo-20-nam-truong-chuyen-lop-chon-di-day-hoc-sinh-khuyet-tat-20260212000624329.htm) - 23:00 18/02/2026
-- 🥳 [Học sinh cuối cấp ăn Tết cùng sách vở trước thay đổi tuyển sinh](https://dantri.com.vn/giao-duc/hoc-sinh-cuoi-cap-an-tet-cung-sach-vo-truoc-thay-doi-tuyen-sinh-20260215013653137.htm) - 11:00 18/02/2026
-- 🎭 [Nữ tiến sĩ “đi đến đâu rinh giải tới đó”](https://dantri.com.vn/giao-duc/nu-tien-si-di-den-dau-rinh-giai-toi-do-20260216092248704.htm) - 08:00 18/02/2026
-- 🥸 [Trường học &quot;không điện thoại” ở địa đầu Tổ quốc](https://dantri.com.vn/giao-duc/truong-hoc-khong-dien-thoai-o-dia-dau-to-quoc-20260216181634965.htm) - 07:00 18/02/2026
-- 🦣 [Thầy giáo dạy văn 30 năm đứng lớp chưa từng giao bài tập Tết cho học sinh](https://dantri.com.vn/giao-duc/thay-giao-day-van-30-nam-dung-lop-chua-tung-giao-bai-tap-tet-cho-hoc-sinh-20260215160333024.htm) - 05:00 18/02/2026
-- 🤔 [Hành trình từ nương rẫy trở thành nữ Phó Giáo sư đầu tiên của người Êđê](https://dantri.com.vn/giao-duc/hanh-trinh-tu-nuong-ray-tro-thanh-nu-pho-giao-su-dau-tien-cua-nguoi-ede-20260201101523552.htm) - 02:00 18/02/2026
-- 🦣 [Du học sinh Việt đón Tết xa nhà: Đi tìm câu trả lời &quot;Tôi là ai?&#39;](https://dantri.com.vn/giao-duc/du-hoc-sinh-viet-don-tet-xa-nha-di-tim-cau-tra-loi-toi-la-ai-20260214225647951.htm) - 23:00 17/02/2026
-- 🐲 [GS.TS Rick Bennett: “Người phương Tây cũng ghen tị với Tết Việt”!](https://dantri.com.vn/giao-duc/gsts-rick-bennett-nguoi-phuong-tay-cung-ghen-ti-voi-tet-viet-20260212160809093.htm) - 11:00 17/02/2026
-- 🔭 [Vì sao “mồng một Tết cha, mồng hai Tết mẹ, mồng ba Tết thầy”?](https://dantri.com.vn/giao-duc/vi-sao-mong-mot-tet-cha-mong-hai-tet-me-mong-ba-tet-thay-20260212141036708.htm) - 08:00 17/02/2026
-- 🥷 [Khát vọng giáo dục 2026: Khi &quot;Ngựa đỏ&quot; vươn mình ra biển lớn](https://dantri.com.vn/giao-duc/khat-vong-giao-duc-2026-khi-ngua-do-vuon-minh-ra-bien-lon-20260215043919682.htm) - 05:00 17/02/2026
-- 🎊 [Tết kể chuyện bán vàng: Cú đặt cược cuộc đời của Giáo sư Toán duy nhất 2025](https://dantri.com.vn/giao-duc/tet-ke-chuyen-ban-vang-cu-dat-cuoc-cuoc-doi-cua-giao-su-toan-duy-nhat-2025-20260215211057991.htm) - 03:00 17/02/2026<!-- dantri-giao-duc:END -->
+- 🐵 [Người cao tuổi rủ nhau đi du học để “sống cho mình”](https://dantri.com.vn/giao-duc/nguoi-cao-tuoi-ru-nhau-di-du-hoc-de-song-cho-minh-20260224161346210.htm) - 05:00 25/02/2026
+- 🐘 [ĐH Bách Khoa Hà Nội điều chỉnh cách quy đổi điểm IELTS](https://dantri.com.vn/giao-duc/dh-bach-khoa-ha-noi-dieu-chinh-cach-quy-doi-diem-ielts-20260225091708209.htm) - 04:11 25/02/2026
+- 🦏 [Một kỳ thi đại học sớm thu hút gần 140.000 thí sinh, cao kỷ lục](https://dantri.com.vn/giao-duc/mot-ky-thi-dai-hoc-som-thu-hut-gan-140000-thi-sinh-cao-ky-luc-20260225104423224.htm) - 03:55 25/02/2026
+- 💼 [Thầy giáo hoá thân thành thần Zeus, loạt học sinh xin làm &quot;xác ướp&quot;](https://dantri.com.vn/giao-duc/thay-giao-hoa-than-thanh-than-zeus-loat-hoc-sinh-xin-lam-xac-uop-20260210174441136.htm) - 02:30 25/02/2026
+- ⛽️ [Trường Đại học Sư phạm TPHCM thông báo “nóng” về kỳ thi riêng](https://dantri.com.vn/giao-duc/truong-dai-hoc-su-pham-tphcm-thong-bao-nong-ve-ky-thi-rieng-20260225071156534.htm) - 01:20 25/02/2026
+- 🎭 [Giáo viên hợp đồng có được hưởng phụ cấp ưu đãi nhà giáo?](https://dantri.com.vn/giao-duc/giao-vien-hop-dong-co-duoc-huong-phu-cap-uu-dai-nha-giao-20260225061940873.htm) - 23:33 24/02/2026
+- 🎃 [7 thay đổi trong chính sách tuyển sinh đại học năm 2026](https://dantri.com.vn/giao-duc/7-thay-doi-trong-chinh-sach-tuyen-sinh-dai-hoc-nam-2026-20260224232756379.htm) - 23:00 24/02/2026
+- 🚀 [Lịch thi riêng của 10 đại học năm 2026](https://dantri.com.vn/giao-duc/lich-thi-rieng-cua-10-dai-hoc-nam-2026-20260224123650141.htm) - 09:00 24/02/2026
+- 👀 [Giáo viên nghỉ thai sản, có được thuê người thay thế?](https://dantri.com.vn/giao-duc/giao-vien-nghi-thai-san-co-duoc-thue-nguoi-thay-the-20260224065354821.htm) - 08:00 24/02/2026
+- 🌝 [Năm 2026, Hà Nội có tuyển sinh lớp 10 theo nguyên tắc gần nhà?](https://dantri.com.vn/giao-duc/nam-2026-ha-noi-co-tuyen-sinh-lop-10-theo-nguyen-tac-gan-nha-20260224102840778.htm) - 06:00 24/02/2026
+- 🤗 [Những ngành học &quot;vua điểm chuẩn&quot; 30/30 sẽ tuyển sinh thế nào?](https://dantri.com.vn/giao-duc/nhung-nganh-hoc-vua-diem-chuan-3030-se-tuyen-sinh-the-nao-20260224090057102.htm) - 05:00 24/02/2026
+- 🦄 [Hướng dẫn mới về tính phụ cấp thâm niên, lương nhà giáo: Lưu ý cộng dồn](https://dantri.com.vn/giao-duc/huong-dan-moi-ve-tinh-phu-cap-tham-nien-luong-nha-giao-luu-y-cong-don-20260224065330179.htm) - 03:00 24/02/2026
+- 🦍 [10 cụm từ tiếng Anh giúp &quot;tăng hưng phấn&quot; sau kỳ nghỉ Tết](https://dantri.com.vn/giao-duc/10-cum-tu-tieng-anh-giup-tang-hung-phan-sau-ky-nghi-tet-20260223140217168.htm) - 01:00 24/02/2026
+- 🪄 [Bùng nổ kỷ lục IELTS nhỏ tuổi: Tín hiệu vui hay cuộc đua lấy chứng chỉ?](https://dantri.com.vn/giao-duc/bung-no-ky-luc-ielts-nho-tuoi-tin-hieu-vui-hay-cuoc-dua-lay-chung-chi-20260224062943183.htm) - 23:45 23/02/2026
+- 🦆 [Thủ khoa “trường nhà giàu” kể trải nghiệm khủng hoảng đời sinh viên](https://dantri.com.vn/giao-duc/thu-khoa-truong-nha-giau-ke-trai-nghiem-khung-hoang-doi-sinh-vien-20260222231246513.htm) - 23:00 23/02/2026
+- 🚀 [Á hậu Phương Anh tiết lộ chuyện đi dạy tại ngôi trường có học phí bạc tỷ](https://dantri.com.vn/giao-duc/a-hau-phuong-anh-tiet-lo-chuyen-di-day-tai-ngoi-truong-co-hoc-phi-bac-ty-20260223055320025.htm) - 09:11 23/02/2026
+- 🦒 [Giáo viên có phải nộp thuế khi nhận tiền dạy thêm giờ?](https://dantri.com.vn/giao-duc/giao-vien-co-phai-nop-thue-khi-nhan-tien-day-them-gio-20260223095856281.htm) - 08:00 23/02/2026
+- 🤡 [Mẫu câu chúc Tết bằng tiếng Anh để nhận lì xì đầu năm của sếp nước ngoài](https://dantri.com.vn/giao-duc/mau-cau-chuc-tet-bang-tieng-anh-de-nhan-li-xi-dau-nam-cua-sep-nuoc-ngoai-20260223102228869.htm) - 07:00 23/02/2026
+- 🤔 [Trường học ở TPHCM lì xì học trò, phụ huynh ngày đầu năm](https://dantri.com.vn/giao-duc/truong-hoc-o-tphcm-li-xi-hoc-tro-phu-huynh-ngay-dau-nam-20260223120619404.htm) - 05:31 23/02/2026
+- 🧑‍💻 [Hiệu trưởng quê Thanh Hóa nhận Huân chương Cành cọ hàn lâm](https://dantri.com.vn/giao-duc/hieu-truong-que-thanh-hoa-nhan-huan-chuong-canh-co-han-lam-20260223121739492.htm) - 05:26 23/02/2026
+- 🤡 [Trường Đại học Xây dựng Hà Nội xét học bạ, cộng điểm cho học sinh chuyên](https://dantri.com.vn/giao-duc/truong-dai-hoc-xay-dung-ha-noi-xet-hoc-ba-cong-diem-cho-hoc-sinh-chuyen-20260223103407719.htm) - 04:38 23/02/2026
+- 🧠 [Lưu ý khẩn ở kỳ thi đánh giá năng lực lớn nhất nước](https://dantri.com.vn/giao-duc/luu-y-khan-o-ky-thi-danh-gia-nang-luc-lon-nhat-nuoc-20260223094059904.htm) - 02:56 23/02/2026
+- 🧑‍💻 [Năm 2026: “Phép thử” lớn cho cải cách giáo dục ở Việt Nam](https://dantri.com.vn/giao-duc/nam-2026-phep-thu-lon-cho-cai-cach-giao-duc-o-viet-nam-20260222070848901.htm) - 02:00 23/02/2026
+- 🧠 [Tuyển sinh đại học năm 2026 thay đổi như thế nào?](https://dantri.com.vn/giao-duc/tuyen-sinh-dai-hoc-nam-2026-thay-doi-nhu-the-nao-20260205214024260.htm) - 23:00 22/02/2026
+- 😎 [Vành đai tri thức trên những đỉnh trời biên giới](https://dantri.com.vn/giao-duc/vanh-dai-tri-thuc-tren-nhung-dinh-troi-bien-gioi-20260222162314535.htm) - 09:36 22/02/2026
+- 🕴 [Những câu chuyện sinh viên về tình mẹ cha rớt nước mắt](https://dantri.com.vn/giao-duc/nhung-cau-chuyen-sinh-vien-ve-tinh-me-cha-rot-nuoc-mat-20260215133251653.htm) - 07:57 22/02/2026
+- 🧠 [Nhiều cách hiểu về định mức tiết dạy, Bộ GD&amp;ĐT “chốt&quot; con số cuối cùng](https://dantri.com.vn/giao-duc/nhieu-cach-hieu-ve-dinh-muc-tiet-day-bo-gddt-chot-con-so-cuoi-cung-20260222073422769.htm) - 05:00 22/02/2026
+- 🚀 [Muốn học vượt lớp, học sinh phải trải qua quy trình xét duyệt như thế nào?](https://dantri.com.vn/giao-duc/muon-hoc-vuot-lop-hoc-sinh-phai-trai-qua-quy-trinh-xet-duyet-nhu-the-nao-20260210105217647.htm) - 02:00 22/02/2026
+- 🕯 [Đột phá trong chính sách: Cơ hội “vàng&quot; để giáo dục Việt Nam bứt tốc](https://dantri.com.vn/giao-duc/dot-pha-trong-chinh-sach-co-hoi-vang-de-giao-duc-viet-nam-but-toc-20260216101640044.htm) - 23:00 21/02/2026
+- 🧰 [10 từ tiếng anh về ngoại hình con người](https://dantri.com.vn/giao-duc/10-tu-tieng-anh-ve-ngoai-hinh-con-nguoi-20260210160511630.htm) - 11:00 21/02/2026
+- ⛽️ [Sinh viên tranh thủ khởi nghiệp ngày Tết, vốn ít, doanh thu cao](https://dantri.com.vn/giao-duc/sinh-vien-tranh-thu-khoi-nghiep-ngay-tet-von-it-doanh-thu-cao-20260215155632500.htm) - 08:00 21/02/2026
+- 🤖 [Sửa quy định cộng điểm ưu tiên khu vực khi xét tốt nghiệp THPT từ 2026](https://dantri.com.vn/giao-duc/sua-quy-dinh-cong-diem-uu-tien-khu-vuc-khi-xet-tot-nghiep-thpt-tu-2026-20260210155933307.htm) - 05:00 21/02/2026
+- 🦍 [13 đại học của Việt Nam và mục tiêu vươn ra thế giới](https://dantri.com.vn/giao-duc/13-dai-hoc-cua-viet-nam-va-muc-tieu-vuon-ra-the-gioi-20260212071154543.htm) - 02:00 21/02/2026
+- 🐘 [Bài thơ về lì xì ngày Tết gây sốt mạng xã hội](https://dantri.com.vn/giao-duc/bai-tho-ve-li-xi-ngay-tet-gay-sot-mang-xa-hoi-20260221074749042.htm) - 01:03 21/02/2026
+- 🌊 [4 phương thức xét tuyển, chỉ tiêu từng ngành của ĐH Sư phạm TPHCM](https://dantri.com.vn/giao-duc/4-phuong-thuc-xet-tuyen-chi-tieu-tung-nganh-cua-dh-su-pham-tphcm-20260220205144162.htm) - 23:54 20/02/2026
+- 🕯 [Giáo viên có được hưởng phụ cấp trong thời gian nghỉ hè?](https://dantri.com.vn/giao-duc/giao-vien-co-duoc-huong-phu-cap-trong-thoi-gian-nghi-he-20260212002902180.htm) - 23:00 20/02/2026
+- 🐎 [Buổi diễn “nhảy lửa” của học sinh chuyên gây sốt mạng xã hội](https://dantri.com.vn/giao-duc/buoi-dien-nhay-lua-cua-hoc-sinh-chuyen-gay-sot-mang-xa-hoi-20260216192818758.htm) - 11:00 20/02/2026
+- 🐻 [Vừa chơi Tết, vừa “bỏ túi” 10 từ vựng tiếng Anh về trò chơi Tết quen thuộc](https://dantri.com.vn/giao-duc/vua-choi-tet-vua-bo-tui-10-tu-vung-tieng-anh-ve-tro-choi-tet-quen-thuoc-20260210171903458.htm) - 08:00 20/02/2026
+- 🐎 [3 tân giáo sư đặc biệt nhất nước](https://dantri.com.vn/giao-duc/3-tan-giao-su-dac-biet-nhat-nuoc-20260218134901486.htm) - 05:00 20/02/2026
+- 🫣 [&quot;Giấc mơ bay&quot; của cựu thí sinh Đường lên đỉnh Olympia tại Pháp](https://dantri.com.vn/giao-duc/giac-mo-bay-cua-cuu-thi-sinh-duong-len-dinh-olympia-tai-phap-20260212153953951.htm) - 02:00 20/02/2026
+- 🤭 [Những vị sư biểu đã dẫn dắt đời tôi](https://dantri.com.vn/giao-duc/nhung-vi-su-bieu-da-dan-dat-doi-toi-20260218220742731.htm) - 01:00 20/02/2026
+- 🥳 [Lịch trở lại trường sau Tết Bính Ngọ 2026 của học sinh cả nước](https://dantri.com.vn/giao-duc/lich-tro-lai-truong-sau-tet-binh-ngo-2026-cua-hoc-sinh-ca-nuoc-20260209142532907.htm) - 23:00 19/02/2026
+- 🎭 [Hòa mình với không khí du xuân đầu năm qua 10 cụm từ tiếng Anh](https://dantri.com.vn/giao-duc/hoa-minh-voi-khong-khi-du-xuan-dau-nam-qua-10-cum-tu-tieng-anh-20260211154342911.htm) - 07:00 19/02/2026
+- 🥸 [Khi trường học được chấm điểm Hạnh phúc](https://dantri.com.vn/giao-duc/khi-truong-hoc-duoc-cham-diem-hanh-phuc-20260216094247985.htm) - 05:00 19/02/2026
+- 🦣 [Từ Hoa hậu đến vị trí lãnh đạo khoa tuổi 30 và nỗi sợ &quot;quá sang chảnh&quot;](https://dantri.com.vn/giao-duc/tu-hoa-hau-den-vi-tri-lanh-dao-khoa-tuoi-30-va-noi-so-qua-sang-chanh-20260218180525960.htm) - 02:00 19/02/2026
+- 🤔 [Sinh viên phát quà Tết cho người vô gia cư](https://dantri.com.vn/thoi-su/sinh-vien-phat-qua-tet-cho-nguoi-vo-gia-cu-20260217002119589.htm) - 23:25 18/02/2026
+- 🦣 [Người thầy rời bỏ 20 năm trường chuyên lớp chọn đi dạy học sinh khuyết tật](https://dantri.com.vn/giao-duc/nguoi-thay-roi-bo-20-nam-truong-chuyen-lop-chon-di-day-hoc-sinh-khuyet-tat-20260212000624329.htm) - 23:00 18/02/2026
+- 🐲 [Học sinh cuối cấp ăn Tết cùng sách vở trước thay đổi tuyển sinh](https://dantri.com.vn/giao-duc/hoc-sinh-cuoi-cap-an-tet-cung-sach-vo-truoc-thay-doi-tuyen-sinh-20260215013653137.htm) - 11:00 18/02/2026
+- 🔭 [Nữ tiến sĩ “đi đến đâu rinh giải tới đó”](https://dantri.com.vn/giao-duc/nu-tien-si-di-den-dau-rinh-giai-toi-do-20260216092248704.htm) - 08:00 18/02/2026
+- 🥷 [Trường học &quot;không điện thoại” ở địa đầu Tổ quốc](https://dantri.com.vn/giao-duc/truong-hoc-khong-dien-thoai-o-dia-dau-to-quoc-20260216181634965.htm) - 07:00 18/02/2026
+- 🎊 [Thầy giáo dạy văn 30 năm đứng lớp chưa từng giao bài tập Tết cho học sinh](https://dantri.com.vn/giao-duc/thay-giao-day-van-30-nam-dung-lop-chua-tung-giao-bai-tap-tet-cho-hoc-sinh-20260215160333024.htm) - 05:00 18/02/2026<!-- dantri-giao-duc:END -->
