@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Cửa hàng bán 3.000 cá lóc nướng ngày vía Thần Tài ở TP HCM](https://vnexpress.net/cua-hang-ban-3-000-ca-loc-nuong-ngay-via-than-tai-o-tp-hcm-5044234.html) - 04:50 26/02/2026
-- 🐲 [Thủ tướng: Cần có chính sách nhà ở cho người thu nhập trung bình](https://vnexpress.net/thu-tuong-can-co-chinh-sach-nha-o-cho-nguoi-thu-nhap-trung-binh-5044253.html) - 04:16 26/02/2026
-- 🔥 [Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật](https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-doi-nguoi-dai-dien-phap-luat-5044226.html) - 03:00 26/02/2026
-- 🐵 [Xếp hàng từ mờ sáng mua vàng, bạc ngày Thần Tài](https://vnexpress.net/xep-hang-tu-mo-sang-mua-vang-bac-ngay-than-tai-5044207.html) - 02:28 26/02/2026
-- 🦅 [Giá vàng giảm nhẹ ngày vía Thần Tài](https://vnexpress.net/gia-vang-hom-nay-26-2-ngay-via-than-tai-5044187.html) - 01:33 26/02/2026
-- 😺 [Phó thủ tướng: Thí điểm thuê tổng giám đốc doanh nghiệp nhà nước](https://vnexpress.net/pho-thu-tuong-thi-diem-thue-tong-giam-doc-doanh-nghiep-nha-nuoc-5044142.html) - 01:11 26/02/2026
-- 🤩 [Trái đất nóng lên đe doạ Olympic mùa Đông như thế nào?](https://vnexpress.net/trai-dat-nong-len-de-doa-olympic-mua-dong-nhu-the-nao-5043859.html) - 17:19 25/02/2026
-- 🌮 [Giá vàng thường tăng hay giảm sau ngày vía Thần Tài?](https://vnexpress.net/gia-vang-thuong-tang-hay-giam-sau-ngay-via-than-tai-5044129.html) - 17:15 25/02/2026
-- 🧰 [Đức trước áp lực cạnh tranh ngày càng lớn từ Trung Quốc](https://vnexpress.net/duc-truoc-ap-luc-canh-tranh-ngay-cang-lon-tu-trung-quoc-5043991.html) - 17:02 25/02/2026
-- 🤔 [Mức trả bảo hiểm tiền gửi tối đa có thể lên 350 triệu đồng](https://vnexpress.net/muc-tra-bao-hiem-tien-gui-toi-da-co-the-len-350-trieu-dong-5044139.html) - 15:44 25/02/2026
-- 🧑‍💻 [Công ty mẹ TikTok được định giá 550 tỷ USD](https://vnexpress.net/cong-ty-me-tiktok-duoc-dinh-gia-550-ty-usd-5044033.html) - 10:00 25/02/2026
-- 🕴 [Công ty tài sản số liên quan VPBank sắp tăng vốn lên 10.000 tỷ đồng](https://vnexpress.net/cong-ty-tai-san-so-lien-quan-vpbank-sap-tang-von-len-10-000-ty-dong-5043996.html) - 09:38 25/02/2026
-- 🦩 [Vàng mini &#39;lên ngôi&#39; dịp vía Thần Tài năm nay](https://vnexpress.net/vang-mini-len-ngoi-dip-via-than-tai-nam-nay-5043980.html) - 09:30 25/02/2026
-- 👍 [Chứng khoán đứt chuỗi tăng 5 phiên liên tiếp](https://vnexpress.net/chung-khoan-dut-chuoi-tang-5-phien-lien-tiep-5044018.html) - 08:49 25/02/2026
-- 🏊 [Dragon Capital gom cổ phiếu PNJ trước ngày vía Thần Tài](https://vnexpress.net/dragon-capital-gom-co-phieu-pnj-truoc-ngay-via-than-tai-5043971.html) - 08:38 25/02/2026
-- 🤡 [Mâm cỗ tôm hùm, cua Cà Mau giá rẻ &#39;cháy hàng&#39; dịp vía Thần Tài](https://vnexpress.net/mam-co-tom-hum-cua-ca-mau-gia-re-chay-hang-dip-via-than-tai-5043930.html) - 07:38 25/02/2026
-- 👀 [Phán quyết của Tòa án Mỹ có thể giúp Ấn Độ tiếp tục mua dầu Nga](https://vnexpress.net/phan-quyet-cua-toa-an-my-co-the-giup-an-do-tiep-tuc-mua-dau-nga-5043847.html) - 06:05 25/02/2026
-- 😺 [Ông Nguyễn Thanh Nghị: Sẽ sửa Luật Đất đai trong năm nay](https://vnexpress.net/ong-nguyen-thanh-nghi-se-sua-luat-dat-dai-trong-nam-nay-5043876.html) - 05:24 25/02/2026
-- 🦣 [Giá vàng miếng vượt 185 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-25-2-5043881.html) - 04:32 25/02/2026
-- 😺 [Giá vàng thế giới tăng trở lại](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-5043775.html) - 01:23 25/02/2026
-- 💼 [Nhiều nước hưởng lợi khi Mỹ áp thuế nhập khẩu bổ sung 10%](https://vnexpress.net/nhieu-nuoc-huong-loi-khi-my-ap-thue-nhap-khau-bo-sung-10-5043601.html) - 17:30 24/02/2026
-- 🤗 [Hãng tương ớt Cholimex lãi bình quân mỗi ngày gần một tỷ đồng](https://vnexpress.net/hang-tuong-ot-cholimex-lai-binh-quan-moi-ngay-gan-mot-ty-dong-5043731.html) - 17:11 24/02/2026
-- 👀 [Một phần ba người Việt trưởng thành có tiền tiết kiệm tại ngân hàng](https://vnexpress.net/mot-phan-ba-nguoi-viet-truong-thanh-co-tien-tiet-kiem-tai-ngan-hang-5043736.html) - 16:59 24/02/2026
-- 🎓 [Thêm &#39;ông lớn&#39; tham gia thị trường bạc miếng](https://vnexpress.net/them-ong-lon-tham-gia-thi-truong-bac-mieng-5043650.html) - 11:00 24/02/2026
-- 🗽 [Bộ trưởng Tài chính: &#39;Thị trường chứng khoán sẽ sớm có thêm nhiều hàng hóa&#39;](https://vnexpress.net/bo-truong-tai-chinh-thi-truong-chung-khoan-se-som-co-them-nhieu-hang-hoa-5043473.html) - 10:18 24/02/2026
-- 🚀 [Phú Mỹ đồng hành phát triển nông nghiệp bền vững tại Lào](https://vnexpress.net/phu-my-dong-hanh-phat-trien-nong-nghiep-ben-vung-tai-lao-5043641.html) - 09:30 24/02/2026
-- 🤗 [VN-Index lên cao nhất một tháng](https://vnexpress.net/vn-index-len-cao-nhat-mot-thang-5043602.html) - 09:25 24/02/2026
-- 🌜 [Bò tót - linh vật biểu tượng mới của chứng khoán Việt có ý nghĩa gì?](https://vnexpress.net/bo-tot-linh-vat-bieu-tuong-moi-cua-chung-khoan-viet-co-y-nghia-gi-5043580.html) - 09:07 24/02/2026
-- 👍 [Đà tăng của vàng lần này khác gì các chu kỳ trước?](https://vnexpress.net/da-tang-cua-vang-lan-nay-khac-gi-cac-chu-ky-truoc-5041850.html) - 06:05 24/02/2026
-- 🤖 [TP HCM tìm cách hút nhà đầu tư đấu giá 3.790 căn hộ ở Thủ Thiêm](https://vnexpress.net/tp-hcm-tim-cach-hut-nha-dau-tu-dau-gia-3-790-can-ho-o-thu-thiem-5043525.html) - 05:36 24/02/2026
-- 🫣 [Mỹ bắt đầu thu thuế nhập khẩu bổ sung 10%](https://vnexpress.net/my-bat-dau-thu-thue-nhap-khau-bo-sung-10-5043495.html) - 05:09 24/02/2026
-- 🌏 [FedEx kiện chính phủ Mỹ đòi hoàn thuế](https://vnexpress.net/fedex-kien-chinh-phu-my-doi-hoan-thue-5043327.html) - 04:09 24/02/2026
-- ⚗️ [Châu Âu hoãn bỏ phiếu phê chuẩn thỏa thuận thương mại với Mỹ](https://vnexpress.net/chau-au-hoan-bo-phieu-phe-chuan-thoa-thuan-thuong-mai-voi-my-5043329.html) - 02:24 24/02/2026
-- 🕯 [Lối đi riêng của ABBank trong làn sóng chuyển đổi số](https://vnexpress.net/loi-di-rieng-cua-abbank-trong-lan-song-chuyen-doi-so-5043359.html) - 02:00 24/02/2026
-- 👍 [Giá vàng thế giới lên cao nhất 3 tuần, Wall Street giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-3-tuan-wall-street-giam-manh-5043318.html) - 00:49 24/02/2026
-- 🤠 [Bức họa Mona Lisa phiên bản Mỹ Latinh từ 100.000 nắp chai nhựa bỏ đi](https://vnexpress.net/buc-hoa-mona-lisa-phien-ban-my-latinh-tu-100-000-nap-chai-nhua-bo-di-5043246.html) - 17:03 23/02/2026
-- 🌊 [Cách nhà giàu Mỹ &#39;né&#39; thuế thừa kế](https://vnexpress.net/cach-nha-giau-my-ne-thue-thua-ke-5043182.html) - 17:03 23/02/2026
-- 🌈 [Sacombank lần đầu họp cổ đông ở Phú Thọ](https://vnexpress.net/sacombank-lan-dau-hop-co-dong-o-phu-tho-5043293.html) - 17:02 23/02/2026
-- 🥳 [Thaco tính xây xong đường sắt từ TP HCM tới sân bay Long Thành vào 2030](https://vnexpress.net/thaco-tinh-xay-xong-duong-sat-tu-tp-hcm-toi-san-bay-long-thanh-vao-2030-5043243.html) - 10:24 23/02/2026
-- 🐻 [Sầu riêng lên 155.000 đồng một kg, cao nhất 3 năm](https://vnexpress.net/sau-rieng-len-155-000-dong-mot-kg-cao-nhat-3-nam-5043194.html) - 09:30 23/02/2026
-- 💫 [Mỹ dừng thu thuế đối ứng từ 24/2](https://vnexpress.net/my-dung-thu-thue-doi-ung-tu-24-2-5043150.html) - 08:44 23/02/2026
-- 🤩 [VN-Index tăng vọt sau Tết](https://vnexpress.net/vn-index-tang-vot-sau-tet-5043190.html) - 08:37 23/02/2026
-- 💻 [Vì sao nâng hạng tín nhiệm tác động lớn hơn nâng hạng chứng khoán?](https://vnexpress.net/vi-sao-nang-hang-tin-nhiem-tac-dong-lon-hon-nang-hang-chung-khoan-5040771.html) - 07:14 23/02/2026
-- ⚗️ [Sân bay Phú Quốc đón lượng khách Tết cao nhất 14 năm](https://vnexpress.net/san-bay-phu-quoc-don-luong-khach-tet-cao-nhat-14-nam-5043136.html) - 06:00 23/02/2026
-- 🌈 [Châu Âu &#39;sẽ không chấp nhận thuế tăng&#39; sau phán quyết của Tòa án Mỹ](https://vnexpress.net/chau-au-se-khong-chap-nhan-thue-tang-sau-phan-quyet-cua-toa-an-my-5043016.html) - 04:41 23/02/2026
-- 🌝 [Cách Winmart và Bách Hóa Xanh tiến vào &#39;cứ điểm&#39; của nhau](https://vnexpress.net/cach-winmart-va-bach-hoa-xanh-tien-vao-cu-diem-cua-nhau-5040042.html) - 04:34 23/02/2026
-- 🥸 [Giá vàng miếng tăng hơn 3 triệu đồng](https://vnexpress.net/gia-vang-mieng-tang-hon-3-trieu-dong-5043071.html) - 03:39 23/02/2026
-- 🦆 [Công ty xây dựng của ông Nguyễn Bá Dương bị hủy tư cách đại chúng](https://vnexpress.net/cong-ty-xay-dung-cua-ong-nguyen-ba-duong-bi-huy-tu-cach-dai-chung-5043001.html) - 03:02 23/02/2026
-- 🌋 [&#39;Mỏ vàng&#39; từ xu hướng chi tiền mua cảm xúc của người Việt](https://vnexpress.net/mo-vang-tu-xu-huong-chi-tien-mua-cam-xuc-cua-nguoi-viet-5042023.html) - 01:09 23/02/2026
-- 🦍 [Lãi suất vay mua nhà tăng mạnh](https://vnexpress.net/lai-suat-vay-mua-nha-tang-manh-5013829.html) - 23:30 22/02/2026
-- 🤔 [Vì sao hộ kinh doanh nên chuyển thành doanh nghiệp?](https://vnexpress.net/vi-sao-ho-kinh-doanh-nen-chuyen-thanh-doanh-nghiep-5041227.html) - 23:00 22/02/2026
-- 🧰 [&#39;Chứng khoán khả năng cao sẽ tăng sau Tết&#39;](https://vnexpress.net/chung-khoan-kha-nang-cao-se-tang-sau-tet-5042875.html) - 19:10 22/02/2026
-- 🌝 [Nông sản năm nay thế nào sau cú bứt tốc kỷ lục?](https://vnexpress.net/nong-san-nam-nay-the-nao-sau-cu-but-toc-ky-luc-5039687.html) - 18:19 22/02/2026
-- 👍 [Giá vàng thế giới được kỳ vọng tăng tiếp](https://vnexpress.net/gia-vang-the-gioi-tuan-toi-duoc-ky-vong-tang-tiep-5042865.html) - 11:59 22/02/2026
-- 🗽 [Vì sao các cổ phiếu &#39;bom tấn&#39; mới lên sàn đều giảm giá?](https://vnexpress.net/vi-sao-cac-co-phieu-bom-tan-moi-len-san-deu-giam-gia-5041520.html) - 11:44 22/02/2026
-- 🐎 [&#39;Cháy&#39; vé máy bay đến TP HCM sau Tết](https://vnexpress.net/chay-ve-may-bay-den-tp-hcm-sau-tet-5042835.html) - 10:59 22/02/2026
-- 🪄 [Nhà khoa học &#39;tị nạn&#39; biến không khí sa mạc thành nước, tạo 1.000 lít mỗi ngày](https://vnexpress.net/nha-khoa-hoc-ti-nan-bien-khong-khi-sa-mac-thanh-nuoc-tao-1-000-lit-moi-ngay-5042895.html) - 10:36 22/02/2026
-- 🎊 [Giá thịt heo giảm sau Tết](https://vnexpress.net/gia-thit-heo-giam-sau-tet-5042786.html) - 06:32 22/02/2026
-- 🗽 [Quan chức Fed thêm đau đầu vì Tòa án bác thuế nhập khẩu](https://vnexpress.net/quan-chuc-fed-them-dau-dau-vi-toa-an-bac-thue-nhap-khau-5042798.html) - 06:31 22/02/2026
-- 🦩 [Xuất khẩu rau quả sang EU tăng gấp ba sau 4 năm](https://vnexpress.net/xuat-khau-rau-qua-sang-eu-tang-gap-ba-sau-4-nam-5042807.html) - 05:32 22/02/2026<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Đại gia Thái tính chi gần trăm tỷ đồng mua nhà máy Sá xị Chương Dương](https://vnexpress.net/dai-gia-thai-tinh-chi-gan-tram-ty-dong-mua-nha-may-sa-xi-chuong-duong-5044267.html) - 06:31 26/02/2026
+- 🐲 [Cửa hàng bán 3.000 cá lóc nướng ngày vía Thần Tài ở TP HCM](https://vnexpress.net/cua-hang-ban-3-000-ca-loc-nuong-ngay-via-than-tai-o-tp-hcm-5044234.html) - 04:50 26/02/2026
+- 🔥 [Thủ tướng: Cần có chính sách nhà ở cho người thu nhập trung bình](https://vnexpress.net/thu-tuong-can-co-chinh-sach-nha-o-cho-nguoi-thu-nhap-trung-binh-5044253.html) - 04:16 26/02/2026
+- 🐵 [Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật](https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-doi-nguoi-dai-dien-phap-luat-5044226.html) - 03:00 26/02/2026
+- 🦅 [Xếp hàng từ mờ sáng mua vàng, bạc ngày Thần Tài](https://vnexpress.net/xep-hang-tu-mo-sang-mua-vang-bac-ngay-than-tai-5044207.html) - 02:28 26/02/2026
+- 😺 [Giá vàng giảm nhẹ ngày vía Thần Tài](https://vnexpress.net/gia-vang-hom-nay-26-2-ngay-via-than-tai-5044187.html) - 01:33 26/02/2026
+- 🤩 [Phó thủ tướng: Thí điểm thuê tổng giám đốc doanh nghiệp nhà nước](https://vnexpress.net/pho-thu-tuong-thi-diem-thue-tong-giam-doc-doanh-nghiep-nha-nuoc-5044142.html) - 01:11 26/02/2026
+- 🌮 [Trái đất nóng lên đe doạ Olympic mùa Đông như thế nào?](https://vnexpress.net/trai-dat-nong-len-de-doa-olympic-mua-dong-nhu-the-nao-5043859.html) - 17:19 25/02/2026
+- 🧰 [Giá vàng thường tăng hay giảm sau ngày vía Thần Tài?](https://vnexpress.net/gia-vang-thuong-tang-hay-giam-sau-ngay-via-than-tai-5044129.html) - 17:15 25/02/2026
+- 🤔 [Đức trước áp lực cạnh tranh ngày càng lớn từ Trung Quốc](https://vnexpress.net/duc-truoc-ap-luc-canh-tranh-ngay-cang-lon-tu-trung-quoc-5043991.html) - 17:02 25/02/2026
+- 🧑‍💻 [Mức trả bảo hiểm tiền gửi tối đa có thể lên 350 triệu đồng](https://vnexpress.net/muc-tra-bao-hiem-tien-gui-toi-da-co-the-len-350-trieu-dong-5044139.html) - 15:44 25/02/2026
+- 🕴 [Công ty mẹ TikTok được định giá 550 tỷ USD](https://vnexpress.net/cong-ty-me-tiktok-duoc-dinh-gia-550-ty-usd-5044033.html) - 10:00 25/02/2026
+- 🦩 [Công ty tài sản số liên quan VPBank sắp tăng vốn lên 10.000 tỷ đồng](https://vnexpress.net/cong-ty-tai-san-so-lien-quan-vpbank-sap-tang-von-len-10-000-ty-dong-5043996.html) - 09:38 25/02/2026
+- 👍 [Vàng mini &#39;lên ngôi&#39; dịp vía Thần Tài năm nay](https://vnexpress.net/vang-mini-len-ngoi-dip-via-than-tai-nam-nay-5043980.html) - 09:30 25/02/2026
+- 🏊 [Chứng khoán đứt chuỗi tăng 5 phiên liên tiếp](https://vnexpress.net/chung-khoan-dut-chuoi-tang-5-phien-lien-tiep-5044018.html) - 08:49 25/02/2026
+- 🤡 [Dragon Capital gom cổ phiếu PNJ trước ngày vía Thần Tài](https://vnexpress.net/dragon-capital-gom-co-phieu-pnj-truoc-ngay-via-than-tai-5043971.html) - 08:38 25/02/2026
+- 👀 [Mâm cỗ tôm hùm, cua Cà Mau giá rẻ &#39;cháy hàng&#39; dịp vía Thần Tài](https://vnexpress.net/mam-co-tom-hum-cua-ca-mau-gia-re-chay-hang-dip-via-than-tai-5043930.html) - 07:38 25/02/2026
+- 😺 [Phán quyết của Tòa án Mỹ có thể giúp Ấn Độ tiếp tục mua dầu Nga](https://vnexpress.net/phan-quyet-cua-toa-an-my-co-the-giup-an-do-tiep-tuc-mua-dau-nga-5043847.html) - 06:05 25/02/2026
+- 🦣 [Ông Nguyễn Thanh Nghị: Sẽ sửa Luật Đất đai trong năm nay](https://vnexpress.net/ong-nguyen-thanh-nghi-se-sua-luat-dat-dai-trong-nam-nay-5043876.html) - 05:24 25/02/2026
+- 😺 [Giá vàng miếng vượt 185 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-25-2-5043881.html) - 04:32 25/02/2026
+- 💼 [Giá vàng thế giới tăng trở lại](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-5043775.html) - 01:23 25/02/2026
+- 🤗 [Nhiều nước hưởng lợi khi Mỹ áp thuế nhập khẩu bổ sung 10%](https://vnexpress.net/nhieu-nuoc-huong-loi-khi-my-ap-thue-nhap-khau-bo-sung-10-5043601.html) - 17:30 24/02/2026
+- 👀 [Hãng tương ớt Cholimex lãi bình quân mỗi ngày gần một tỷ đồng](https://vnexpress.net/hang-tuong-ot-cholimex-lai-binh-quan-moi-ngay-gan-mot-ty-dong-5043731.html) - 17:11 24/02/2026
+- 🎓 [Một phần ba người Việt trưởng thành có tiền tiết kiệm tại ngân hàng](https://vnexpress.net/mot-phan-ba-nguoi-viet-truong-thanh-co-tien-tiet-kiem-tai-ngan-hang-5043736.html) - 16:59 24/02/2026
+- 🗽 [Thêm &#39;ông lớn&#39; tham gia thị trường bạc miếng](https://vnexpress.net/them-ong-lon-tham-gia-thi-truong-bac-mieng-5043650.html) - 11:00 24/02/2026
+- 🚀 [Bộ trưởng Tài chính: &#39;Thị trường chứng khoán sẽ sớm có thêm nhiều hàng hóa&#39;](https://vnexpress.net/bo-truong-tai-chinh-thi-truong-chung-khoan-se-som-co-them-nhieu-hang-hoa-5043473.html) - 10:18 24/02/2026
+- 🤗 [Phú Mỹ đồng hành phát triển nông nghiệp bền vững tại Lào](https://vnexpress.net/phu-my-dong-hanh-phat-trien-nong-nghiep-ben-vung-tai-lao-5043641.html) - 09:30 24/02/2026
+- 🌜 [VN-Index lên cao nhất một tháng](https://vnexpress.net/vn-index-len-cao-nhat-mot-thang-5043602.html) - 09:25 24/02/2026
+- 👍 [Bò tót - linh vật biểu tượng mới của chứng khoán Việt có ý nghĩa gì?](https://vnexpress.net/bo-tot-linh-vat-bieu-tuong-moi-cua-chung-khoan-viet-co-y-nghia-gi-5043580.html) - 09:07 24/02/2026
+- 🤖 [Đà tăng của vàng lần này khác gì các chu kỳ trước?](https://vnexpress.net/da-tang-cua-vang-lan-nay-khac-gi-cac-chu-ky-truoc-5041850.html) - 06:05 24/02/2026
+- 🫣 [TP HCM tìm cách hút nhà đầu tư đấu giá 3.790 căn hộ ở Thủ Thiêm](https://vnexpress.net/tp-hcm-tim-cach-hut-nha-dau-tu-dau-gia-3-790-can-ho-o-thu-thiem-5043525.html) - 05:36 24/02/2026
+- 🌏 [Mỹ bắt đầu thu thuế nhập khẩu bổ sung 10%](https://vnexpress.net/my-bat-dau-thu-thue-nhap-khau-bo-sung-10-5043495.html) - 05:09 24/02/2026
+- ⚗️ [FedEx kiện chính phủ Mỹ đòi hoàn thuế](https://vnexpress.net/fedex-kien-chinh-phu-my-doi-hoan-thue-5043327.html) - 04:09 24/02/2026
+- 🕯 [Châu Âu hoãn bỏ phiếu phê chuẩn thỏa thuận thương mại với Mỹ](https://vnexpress.net/chau-au-hoan-bo-phieu-phe-chuan-thoa-thuan-thuong-mai-voi-my-5043329.html) - 02:24 24/02/2026
+- 👍 [Lối đi riêng của ABBank trong làn sóng chuyển đổi số](https://vnexpress.net/loi-di-rieng-cua-abbank-trong-lan-song-chuyen-doi-so-5043359.html) - 02:00 24/02/2026
+- 🤠 [Giá vàng thế giới lên cao nhất 3 tuần, Wall Street giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-3-tuan-wall-street-giam-manh-5043318.html) - 00:49 24/02/2026
+- 🌊 [Bức họa Mona Lisa phiên bản Mỹ Latinh từ 100.000 nắp chai nhựa bỏ đi](https://vnexpress.net/buc-hoa-mona-lisa-phien-ban-my-latinh-tu-100-000-nap-chai-nhua-bo-di-5043246.html) - 17:03 23/02/2026
+- 🌈 [Cách nhà giàu Mỹ &#39;né&#39; thuế thừa kế](https://vnexpress.net/cach-nha-giau-my-ne-thue-thua-ke-5043182.html) - 17:03 23/02/2026
+- 🥳 [Sacombank lần đầu họp cổ đông ở Phú Thọ](https://vnexpress.net/sacombank-lan-dau-hop-co-dong-o-phu-tho-5043293.html) - 17:02 23/02/2026
+- 🐻 [Thaco tính xây xong đường sắt từ TP HCM tới sân bay Long Thành vào 2030](https://vnexpress.net/thaco-tinh-xay-xong-duong-sat-tu-tp-hcm-toi-san-bay-long-thanh-vao-2030-5043243.html) - 10:24 23/02/2026
+- 💫 [Sầu riêng lên 155.000 đồng một kg, cao nhất 3 năm](https://vnexpress.net/sau-rieng-len-155-000-dong-mot-kg-cao-nhat-3-nam-5043194.html) - 09:30 23/02/2026
+- 🤩 [Mỹ dừng thu thuế đối ứng từ 24/2](https://vnexpress.net/my-dung-thu-thue-doi-ung-tu-24-2-5043150.html) - 08:44 23/02/2026
+- 💻 [VN-Index tăng vọt sau Tết](https://vnexpress.net/vn-index-tang-vot-sau-tet-5043190.html) - 08:37 23/02/2026
+- ⚗️ [Vì sao nâng hạng tín nhiệm tác động lớn hơn nâng hạng chứng khoán?](https://vnexpress.net/vi-sao-nang-hang-tin-nhiem-tac-dong-lon-hon-nang-hang-chung-khoan-5040771.html) - 07:14 23/02/2026
+- 🌈 [Sân bay Phú Quốc đón lượng khách Tết cao nhất 14 năm](https://vnexpress.net/san-bay-phu-quoc-don-luong-khach-tet-cao-nhat-14-nam-5043136.html) - 06:00 23/02/2026
+- 🌝 [Châu Âu &#39;sẽ không chấp nhận thuế tăng&#39; sau phán quyết của Tòa án Mỹ](https://vnexpress.net/chau-au-se-khong-chap-nhan-thue-tang-sau-phan-quyet-cua-toa-an-my-5043016.html) - 04:41 23/02/2026
+- 🥸 [Cách Winmart và Bách Hóa Xanh tiến vào &#39;cứ điểm&#39; của nhau](https://vnexpress.net/cach-winmart-va-bach-hoa-xanh-tien-vao-cu-diem-cua-nhau-5040042.html) - 04:34 23/02/2026
+- 🦆 [Giá vàng miếng tăng hơn 3 triệu đồng](https://vnexpress.net/gia-vang-mieng-tang-hon-3-trieu-dong-5043071.html) - 03:39 23/02/2026
+- 🌋 [Công ty xây dựng của ông Nguyễn Bá Dương bị hủy tư cách đại chúng](https://vnexpress.net/cong-ty-xay-dung-cua-ong-nguyen-ba-duong-bi-huy-tu-cach-dai-chung-5043001.html) - 03:02 23/02/2026
+- 🦍 [&#39;Mỏ vàng&#39; từ xu hướng chi tiền mua cảm xúc của người Việt](https://vnexpress.net/mo-vang-tu-xu-huong-chi-tien-mua-cam-xuc-cua-nguoi-viet-5042023.html) - 01:09 23/02/2026
+- 🤔 [Lãi suất vay mua nhà tăng mạnh](https://vnexpress.net/lai-suat-vay-mua-nha-tang-manh-5013829.html) - 23:30 22/02/2026
+- 🧰 [Vì sao hộ kinh doanh nên chuyển thành doanh nghiệp?](https://vnexpress.net/vi-sao-ho-kinh-doanh-nen-chuyen-thanh-doanh-nghiep-5041227.html) - 23:00 22/02/2026
+- 🌝 [&#39;Chứng khoán khả năng cao sẽ tăng sau Tết&#39;](https://vnexpress.net/chung-khoan-kha-nang-cao-se-tang-sau-tet-5042875.html) - 19:10 22/02/2026
+- 👍 [Nông sản năm nay thế nào sau cú bứt tốc kỷ lục?](https://vnexpress.net/nong-san-nam-nay-the-nao-sau-cu-but-toc-ky-luc-5039687.html) - 18:19 22/02/2026
+- 🗽 [Giá vàng thế giới được kỳ vọng tăng tiếp](https://vnexpress.net/gia-vang-the-gioi-tuan-toi-duoc-ky-vong-tang-tiep-5042865.html) - 11:59 22/02/2026
+- 🐎 [Vì sao các cổ phiếu &#39;bom tấn&#39; mới lên sàn đều giảm giá?](https://vnexpress.net/vi-sao-cac-co-phieu-bom-tan-moi-len-san-deu-giam-gia-5041520.html) - 11:44 22/02/2026
+- 🪄 [&#39;Cháy&#39; vé máy bay đến TP HCM sau Tết](https://vnexpress.net/chay-ve-may-bay-den-tp-hcm-sau-tet-5042835.html) - 10:59 22/02/2026
+- 🎊 [Nhà khoa học &#39;tị nạn&#39; biến không khí sa mạc thành nước, tạo 1.000 lít mỗi ngày](https://vnexpress.net/nha-khoa-hoc-ti-nan-bien-khong-khi-sa-mac-thanh-nuoc-tao-1-000-lit-moi-ngay-5042895.html) - 10:36 22/02/2026
+- 🗽 [Giá thịt heo giảm sau Tết](https://vnexpress.net/gia-thit-heo-giam-sau-tet-5042786.html) - 06:32 22/02/2026
+- 🦩 [Quan chức Fed thêm đau đầu vì Tòa án bác thuế nhập khẩu](https://vnexpress.net/quan-chuc-fed-them-dau-dau-vi-toa-an-bac-thue-nhap-khau-5042798.html) - 06:31 22/02/2026<!-- vnexpress-kinh-doanh:END -->
