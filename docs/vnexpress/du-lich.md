@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Chú khỉ &#39;cô đơn&#39; khiến khách xếp hàng đến vườn thú Nhật Bản](https://vnexpress.net/chu-khi-co-don-khien-khach-xep-hang-den-vuon-thu-nhat-ban-5044063.html) - 03:52 26/02/2026
+- 💂 [Chú khỉ &#39;cô đơn&#39; khiến khách đổ đến vườn thú Nhật Bản](https://vnexpress.net/chu-khi-co-don-khien-khach-do-den-vuon-thu-nhat-ban-5044063.html) - 03:52 26/02/2026
 - 🪄 [Tranh cãi Thung Ui có đáng trải nghiệm thời điểm này](https://vnexpress.net/tranh-cai-thung-ui-co-dang-trai-nghiem-thoi-diem-nay-5042749.html) - 00:00 26/02/2026
 - 🦅 [Khách sống trong khách sạn 5 sao suốt 67 năm](https://vnexpress.net/khach-song-trong-khach-san-5-sao-suot-67-nam-5043738.html) - 17:00 25/02/2026
 - 🕴 [Du khách bị cấm mang gì khi nhập cảnh Nhật Bản?](https://vnexpress.net/du-khach-bi-cam-mang-gi-khi-nhap-canh-nhat-ban-5015659.html) - 14:00 25/02/2026
