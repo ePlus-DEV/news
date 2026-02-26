@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Khoảnh khắc ca sĩ Isaac gặp David Beckham gây sốt, hé lộ cuộc trò chuyện](https://dantri.com.vn/giai-tri/khoanh-khac-ca-si-isaac-gap-david-beckham-gay-sot-he-lo-cuoc-tro-chuyen-20260226221815359.htm) - 15:49 26/02/2026
+- 🤩 [Ca sĩ Isaac gặp David Beckham: 11 giây gây sốt, nói gì danh thủ bật cười?](https://dantri.com.vn/giai-tri/ca-si-isaac-gap-david-beckham-11-giay-gay-sot-noi-gi-danh-thu-bat-cuoi-20260226221815359.htm) - 15:49 26/02/2026
 - 🔥 [Hot girl Lọ Lem khoe tài “cầm kỳ thi họa”, video 1 phút hút triệu lượt xem](https://dantri.com.vn/giai-tri/hot-girl-lo-lem-khoe-tai-cam-ky-thi-hoa-video-1-phut-hut-trieu-luot-xem-20260226165007966.htm) - 10:26 26/02/2026
 - 🚀 [Lưu Hiểu Khánh vào vai thiếu nữ 16 tuổi, khoá môi bạn diễn kém 30 tuổi](https://dantri.com.vn/giai-tri/luu-hieu-khanh-vao-vai-thieu-nu-16-tuoi-khoa-moi-ban-dien-kem-30-tuoi-20260226115319041.htm) - 09:32 26/02/2026
 - 🔥 [Nhóm nhạc nữ hàng đầu thế giới Blackpink ưu ái thời trang Việt đến mức nào?](https://dantri.com.vn/giai-tri/nhom-nhac-nu-hang-dau-the-gioi-blackpink-uu-ai-thoi-trang-viet-den-muc-nao-20260226123904357.htm) - 06:21 26/02/2026
