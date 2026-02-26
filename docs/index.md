@@ -403,56 +403,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Có bắt buộc thu hồi hết đất ở mới được hỗ trợ tái định cư?](https://baochinhphu.vn/co-bat-buoc-thu-hoi-het-dat-o-moi-duoc-ho-tro-tai-dinh-cu-102260226102805057.htm) - 13:06 26/02/2026
-- 🌜 [Thủ tướng: Bảo đảm mọi người dân được tiếp cận nhà ở phù hợp thu nhập](https://baochinhphu.vn/thu-tuong-bao-dam-moi-nguoi-dan-duoc-tiep-can-nha-o-phu-hop-thu-nhap-102260226120726263.htm) - 12:41 26/02/2026
-- 🦆 [Quy định mới về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng](https://baochinhphu.vn/quy-dinh-moi-ve-dau-gia-han-ngach-thue-quan-nhap-khau-o-to-da-qua-su-dung-102260226120050657.htm) - 12:00 26/02/2026
-- 🌝 [Đà Nẵng: Xử nghiêm UAV, chiếu laser uy hiếp an toàn bay](https://baochinhphu.vn/da-nang-xu-nghiem-uav-chieu-laser-uy-hiep-an-toan-bay-10226022611340957.htm) - 11:39 26/02/2026
-- 🦣 [Ngành Tòa án tập trung cao độ cho công tác bầu cử](https://baochinhphu.vn/nganh-toa-an-tap-trung-cao-do-cho-cong-tac-bau-cu-102260226110411799.htm) - 11:37 26/02/2026
-- ⛽️ [Kê khai, đánh giá, sử dụng nhà thầu phụ thế nào?](https://baochinhphu.vn/ke-khai-danh-gia-su-dung-nha-thau-phu-the-nao-102260225112033125.htm) - 11:05 26/02/2026
-- 🎓 [Hội nghị trực tuyến toàn quốc triển khai công tác bầu cử](https://baochinhphu.vn/hoi-nghi-truc-tuyen-toan-quoc-trien-khai-cong-tac-bau-cu-102260226104423829.htm) - 11:00 26/02/2026
-- 💡 [4 khu vực của TPHCM tiến hành bỏ phiếu bầu cử sớm](https://baochinhphu.vn/4-khu-vuc-cua-tphcm-tien-hanh-bo-phieu-bau-cu-som-102260226103904751.htm) - 10:48 26/02/2026
-- 🌊 [Thủ tục chuyển hưởng BHYT theo diện hộ cận nghèo](https://baochinhphu.vn/thu-tuc-chuyen-huong-bhyt-theo-dien-ho-can-ngheo-102260225155827332.htm) - 10:04 26/02/2026
-- 💯 [Điều kiện thành lập Sở giao dịch hàng hóa](https://baochinhphu.vn/dieu-kien-thanh-lap-so-giao-dich-hang-hoa-10226022516362343.htm) - 09:57 26/02/2026
-- 🦣 [Thủ tướng: Xây dựng chính sách phát triển nhà ở cho người có thu nhập trung bình](https://baochinhphu.vn/thu-tuong-xay-dung-chinh-sach-phat-trien-nha-o-cho-nguoi-co-thu-nhap-trung-binh-102260226093723845.htm) - 09:38 26/02/2026
-- 🥷 [Đối tượng được đăng ký sĩ quan dự bị](https://baochinhphu.vn/doi-tuong-duoc-dang-ky-si-quan-du-bi-102260224155651019.htm) - 09:03 26/02/2026
-- 💻 [Thẩm quyền xét thi đua đối với công chức biệt phái](https://baochinhphu.vn/tham-quyen-xet-thi-dua-doi-voi-cong-chuc-biet-phai-102260224145430999.htm) - 08:02 26/02/2026
+- 💻 [Giá xăng, dầu tăng mạnh](https://baochinhphu.vn/gia-xang-dau-tang-manh-102260226144417457.htm) - 14:59 26/02/2026
+- 🌜 [Xây dựng Nghị định quy định chi tiết một số điều của Luật Chuyển giao người đang chấp hành án phạt tù](https://baochinhphu.vn/xay-dung-nghi-dinh-quy-dinh-chi-tiet-mot-so-dieu-cua-luat-chuyen-giao-nguoi-dang-chap-hanh-an-phat-tu-102260226110218551.htm) - 14:57 26/02/2026
+- 🦆 [Thủ tướng Hun Manet: Campuchia quyết xóa sổ các trung tâm lừa đảo trực tuyến](https://baochinhphu.vn/thu-tuong-hun-manet-campuchia-quyet-xoa-so-cac-trung-tam-lua-dao-truc-tuyen-102260226144452202.htm) - 14:44 26/02/2026
+- 🌝 [Phát huy cao nhất tinh thần trách nhiệm, quyết tâm tổ chức thành công cuộc bầu cử ĐBQH khóa XVI, đại biểu HĐND các cấp](https://baochinhphu.vn/phat-huy-cao-nhat-tinh-than-trach-nhiem-quyet-tam-to-chuc-thanh-cong-cuoc-bau-cu-dbqh-khoa-xvi-dai-bieu-hdnd-cac-cap-102260226125256358.htm) - 14:44 26/02/2026
+- 🦣 [Thủ tướng: Bảo đảm mọi người dân được tiếp cận nhà ở phù hợp thu nhập](https://baochinhphu.vn/thu-tuong-bao-dam-moi-nguoi-dan-duoc-tiep-can-nha-o-phu-hop-thu-nhap-102260226120726263.htm) - 14:44 26/02/2026
+- ⛽️ [Giám sát chặt chẽ giá cả hàng hóa, dịch vụ thiết yếu; chủ động các biện pháp điều hành giá linh hoạt, hiệu quả](https://baochinhphu.vn/giam-sat-chat-che-gia-ca-hang-hoa-dich-vu-thiet-yeu-chu-dong-cac-bien-phap-dieu-hanh-gia-linh-hoat-hieu-qua-102260226143812464.htm) - 14:41 26/02/2026
+- 🎓 [Hỗ trợ học sinh, sinh viên khởi nghiệp](https://baochinhphu.vn/ho-tro-hoc-sinh-sinh-vien-khoi-nghiep-102260226102449441.htm) - 14:41 26/02/2026
+- 💡 [Tổng Bí thư Tô Lâm dự Hội nghị tiếp xúc giữa cử tri với người ứng cử đại biểu Quốc hội khóa XVI tại Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-du-hoi-nghi-tiep-xuc-giua-cu-tri-voi-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-tai-ha-noi-102260226135103404.htm) - 13:56 26/02/2026
+- 🌊 [Có bắt buộc thu hồi hết đất ở mới được hỗ trợ tái định cư?](https://baochinhphu.vn/co-bat-buoc-thu-hoi-het-dat-o-moi-duoc-ho-tro-tai-dinh-cu-102260226102805057.htm) - 13:06 26/02/2026
+- 💯 [Quy định mới về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng](https://baochinhphu.vn/quy-dinh-moi-ve-dau-gia-han-ngach-thue-quan-nhap-khau-o-to-da-qua-su-dung-102260226120050657.htm) - 12:00 26/02/2026
+- 🦣 [Đà Nẵng: Xử nghiêm UAV, chiếu laser uy hiếp an toàn bay](https://baochinhphu.vn/da-nang-xu-nghiem-uav-chieu-laser-uy-hiep-an-toan-bay-10226022611340957.htm) - 11:39 26/02/2026
+- 🥷 [Ngành Tòa án tập trung cao độ cho công tác bầu cử](https://baochinhphu.vn/nganh-toa-an-tap-trung-cao-do-cho-cong-tac-bau-cu-102260226110411799.htm) - 11:37 26/02/2026
+- 💻 [Kê khai, đánh giá, sử dụng nhà thầu phụ thế nào?](https://baochinhphu.vn/ke-khai-danh-gia-su-dung-nha-thau-phu-the-nao-102260225112033125.htm) - 11:05 26/02/2026
+- 🤭 [Hội nghị trực tuyến toàn quốc triển khai công tác bầu cử](https://baochinhphu.vn/hoi-nghi-truc-tuyen-toan-quoc-trien-khai-cong-tac-bau-cu-102260226104423829.htm) - 11:00 26/02/2026
+- 🦆 [4 khu vực của TPHCM tiến hành bỏ phiếu bầu cử sớm](https://baochinhphu.vn/4-khu-vuc-cua-tphcm-tien-hanh-bo-phieu-bau-cu-som-102260226103904751.htm) - 10:48 26/02/2026
+- 🤖 [Thủ tục chuyển hưởng BHYT theo diện hộ cận nghèo](https://baochinhphu.vn/thu-tuc-chuyen-huong-bhyt-theo-dien-ho-can-ngheo-102260225155827332.htm) - 10:04 26/02/2026
+- 🌁 [Điều kiện thành lập Sở giao dịch hàng hóa](https://baochinhphu.vn/dieu-kien-thanh-lap-so-giao-dich-hang-hoa-10226022516362343.htm) - 09:57 26/02/2026
+- 💼 [Thủ tướng: Xây dựng chính sách phát triển nhà ở cho người có thu nhập trung bình](https://baochinhphu.vn/thu-tuong-xay-dung-chinh-sach-phat-trien-nha-o-cho-nguoi-co-thu-nhap-trung-binh-102260226093723845.htm) - 09:38 26/02/2026
+- 🧠 [Đối tượng được đăng ký sĩ quan dự bị](https://baochinhphu.vn/doi-tuong-duoc-dang-ky-si-quan-du-bi-102260224155651019.htm) - 09:03 26/02/2026
+- 🌊 [Thẩm quyền xét thi đua đối với công chức biệt phái](https://baochinhphu.vn/tham-quyen-xet-thi-dua-doi-voi-cong-chuc-biet-phai-102260224145430999.htm) - 08:02 26/02/2026
 - 🤭 [TỪ QUÁN TRIỆT ĐẾN HÀNH ĐỘNG](https://baochinhphu.vn/tu-quan-triet-den-hanh-dong-102260226080727665.htm) - 07:35 26/02/2026
-- 🦆 [Đất có lối đi chung với cơ quan có được cấp sổ đỏ?](https://baochinhphu.vn/dat-co-loi-di-chung-voi-co-quan-co-duoc-cap-so-do-102260225162326615.htm) - 07:01 26/02/2026
-- 🤖 [Giữ vững nhịp xuất khẩu gạo bằng chiến lược chất lượng cao](https://baochinhphu.vn/giu-vung-nhip-xuat-khau-gao-bang-chien-luoc-chat-luong-cao-102260225193650298.htm) - 06:42 26/02/2026
-- 🌁 [Vụ va chạm giao thông đường sắt ở Ngọc Hồi: 1 người tử vong](https://baochinhphu.vn/vu-va-cham-giao-thong-duong-sat-o-ngoc-hoi-1-nguoi-tu-vong-102260226000507198.htm) - 06:40 26/02/2026
-- 💼 [Biến giấc mơ ghép tạng tại Việt Nam thành kỳ tích trong đời thực](https://baochinhphu.vn/bien-giac-mo-ghep-tang-tai-viet-nam-thanh-ky-tich-trong-doi-thuc-102260225134800989.htm) - 06:25 26/02/2026
-- 🧠 [NÓNG: Xe tải va chạm với tàu hỏa, nhiều người bị mắc kẹt](https://baochinhphu.vn/nong-xe-tai-va-cham-voi-tau-hoa-nhieu-nguoi-bi-mac-ket-102260225221807403.htm) - 22:26 25/02/2026
-- 🌊 [Longform: Những “màu đỏ không Tết” do sốt xuất huyết Dengue và cuộc chiến giành lại mùa xuân](https://baochinhphu.vn/longform-nhung-mau-do-khong-tet-do-sot-xuat-huyet-dengue-va-cuoc-chien-gianh-lai-mua-xuan-102260225210038497.htm) - 21:17 25/02/2026
-- 🤭 [Tăng cường nghiên cứu cơ bản làm nền tảng phát triển công nghệ chiến lược quốc gia](https://baochinhphu.vn/tang-cuong-nghien-cuu-co-ban-lam-nen-tang-phat-trien-cong-nghe-chien-luoc-quoc-gia-102260225192836955.htm) - 19:50 25/02/2026
-- 🥷 [Thủ tướng tiếp Tổng Giám đốc Hãng Thông tấn TASS của Liên bang Nga](https://baochinhphu.vn/thu-tuong-tiep-tong-giam-doc-hang-thong-tan-tass-cua-lien-bang-nga-102260225191105292.htm) - 19:26 25/02/2026
-- 🌁 [Gắn cải cách hành chính với tinh gọn tổ chức bộ máy](https://baochinhphu.vn/gan-cai-cach-hanh-chinh-voi-tinh-gon-to-chuc-bo-may-102260225185126206.htm) - 19:13 25/02/2026
-- 🐵 [Thủ tướng Phạm Minh Chính: 2026 là năm bứt phá kinh tế số](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-2026-la-nam-but-pha-kinh-te-so-102260225165842133.htm) - 18:15 25/02/2026
-- 💯 [Phó Thủ tướng Phạm Thị Thanh Trà: Thiết kế cơ chế quản lý người đại diện vốn nhà nước theo tinh thần Nghị quyết 79](https://baochinhphu.vn/pho-thu-tuong-pham-thi-thanh-tra-thiet-ke-co-che-quan-ly-nguoi-dai-dien-von-nha-nuoc-theo-tinh-than-nghi-quyet-79-102260225175205015.htm) - 18:04 25/02/2026
-- 🔥 [Đà Nẵng mở rộng hợp tác với các đối tác Dubai và nhà đầu tư quốc tế](https://baochinhphu.vn/da-nang-mo-rong-hop-tac-voi-cac-doi-tac-dubai-va-nha-dau-tu-quoc-te-102260225153816881.htm) - 18:01 25/02/2026
-- 👍 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 25/2/2026 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-25-2-2026-2-10226022517210606.htm) - 17:29 25/02/2026
-- 🧰 [Tôn vinh sự hy sinh thầm lặng của các thầy thuốc qua cuộc thi viết năm 2026](https://baochinhphu.vn/phat-dong-cuoc-thi-su-hy-sinh-tham-lang-lan-thu-vii-102260225162136417.htm) - 17:03 25/02/2026
-- 🦏 [Đề xuất mới chế độ tài chính của tổ chức bảo hiểm tiền gửi](https://baochinhphu.vn/de-xuat-moi-che-do-tai-chinh-cua-to-chuc-bao-hiem-tien-gui-102260225165831995.htm) - 16:58 25/02/2026
-- 🕯 [Kế hoạch thực hiện Công ước La Hay về miễn hợp pháp hóa giấy tờ công của nước ngoài](https://baochinhphu.vn/ke-hoach-thuc-hien-cong-uoc-la-hay-ve-mien-hop-phap-hoa-giay-to-cong-cua-nuoc-ngoai-102260225164242649.htm) - 16:49 25/02/2026
-- 🤠 [Nâng cao nhận thức về đào tạo nghề lao động nông thôn đối với phát triển kinh tế - xã hội](https://baochinhphu.vn/nang-cao-nhan-thuc-ve-dao-tao-nghe-lao-dong-nong-thon-doi-voi-phat-trien-kinh-te-xa-hoi-102260225155430047.htm) - 16:36 25/02/2026
-- 💂 [Kế hoạch triển khai thi hành Luật Báo chí](https://baochinhphu.vn/ke-hoach-trien-khai-thi-hanh-luat-bao-chi-102260225145206827.htm) - 16:27 25/02/2026
-- 🐲 [Đổi mới toàn diện, nâng cao chất lượng đào tạo nghề cho lao động nông thôn](https://baochinhphu.vn/doi-moi-toan-dien-nang-cao-chat-luong-dao-tao-nghe-cho-lao-dong-nong-thon-102260225142827899.htm) - 15:53 25/02/2026
-- 🦩 [Đề xuất quy định về nhà đầu tư tham gia giao dịch hàng hóa phái sinh](https://baochinhphu.vn/de-xuat-quy-dinh-ve-nha-dau-tu-tham-gia-giao-dich-hang-hoa-phai-sinh-102260225155156125.htm) - 15:51 25/02/2026
-- 💂 [Kế hoạch triển khai thi hành Luật Giáo dục nghề nghiệp](https://baochinhphu.vn/ke-hoach-trien-khai-thi-hanh-luat-giao-duc-nghe-nghiep-102260225114616268.htm) - 15:44 25/02/2026
-- 🌈 [Chế độ làm việc đối với nhà giáo giáo dục nghề nghiệp](https://baochinhphu.vn/che-do-lam-viec-doi-voi-nha-giao-giao-duc-nghe-nghiep-102260225144002057.htm) - 15:37 25/02/2026
-- 🔥 [Thủ tướng chủ trì Phiên họp Ban Chỉ đạo về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và Đề án 06](https://baochinhphu.vn/thu-tuong-chu-tri-phien-hop-ban-chi-dao-ve-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-chuyen-doi-so-va-de-an-06-102260225152951758.htm) - 15:31 25/02/2026
-- 🦄 [Truy tố cựu Chủ tịch Tập đoàn Sen Tài Thu và đồng phạm lừa đảo chiếm đoạt tài sản đặc biệt lớn](https://baochinhphu.vn/truy-to-cuu-chu-tich-tap-doan-sen-tai-thu-va-dong-pham-lua-dao-chiem-doat-tai-san-dac-biet-lon-102260225143544819.htm) - 15:12 25/02/2026
-- 🚀 [Đề xuất xây dựng Luật Giao dịch hàng hóa phái sinh](https://baochinhphu.vn/de-xuat-xay-dung-luat-giao-dich-hang-hoa-phai-sinh-102260225144614255.htm) - 14:45 25/02/2026
-- 🤖 [Ban hành Chương trình hành động thực hiện Nghị quyết 80-NQ/TW về phát triển văn hóa Việt Nam](https://baochinhphu.vn/ban-hanh-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-80-nq-tw-ve-phat-trien-van-hoa-viet-nam-10226022512292095.htm) - 14:35 25/02/2026
+- 🥷 [Đất có lối đi chung với cơ quan có được cấp sổ đỏ?](https://baochinhphu.vn/dat-co-loi-di-chung-voi-co-quan-co-duoc-cap-so-do-102260225162326615.htm) - 07:01 26/02/2026
+- 🌁 [Giữ vững nhịp xuất khẩu gạo bằng chiến lược chất lượng cao](https://baochinhphu.vn/giu-vung-nhip-xuat-khau-gao-bang-chien-luoc-chat-luong-cao-102260225193650298.htm) - 06:42 26/02/2026
+- 🐵 [Vụ va chạm giao thông đường sắt ở Ngọc Hồi: 1 người tử vong](https://baochinhphu.vn/vu-va-cham-giao-thong-duong-sat-o-ngoc-hoi-1-nguoi-tu-vong-102260226000507198.htm) - 06:40 26/02/2026
+- 💯 [Biến giấc mơ ghép tạng tại Việt Nam thành kỳ tích trong đời thực](https://baochinhphu.vn/bien-giac-mo-ghep-tang-tai-viet-nam-thanh-ky-tich-trong-doi-thuc-102260225134800989.htm) - 06:25 26/02/2026
+- 🔥 [NÓNG: Xe tải va chạm với tàu hỏa, nhiều người bị mắc kẹt](https://baochinhphu.vn/nong-xe-tai-va-cham-voi-tau-hoa-nhieu-nguoi-bi-mac-ket-102260225221807403.htm) - 22:26 25/02/2026
+- 👍 [Longform: Những “màu đỏ không Tết” do sốt xuất huyết Dengue và cuộc chiến giành lại mùa xuân](https://baochinhphu.vn/longform-nhung-mau-do-khong-tet-do-sot-xuat-huyet-dengue-va-cuoc-chien-gianh-lai-mua-xuan-102260225210038497.htm) - 21:17 25/02/2026
+- 🧰 [Tăng cường nghiên cứu cơ bản làm nền tảng phát triển công nghệ chiến lược quốc gia](https://baochinhphu.vn/tang-cuong-nghien-cuu-co-ban-lam-nen-tang-phat-trien-cong-nghe-chien-luoc-quoc-gia-102260225192836955.htm) - 19:50 25/02/2026
+- 🦏 [Thủ tướng tiếp Tổng Giám đốc Hãng Thông tấn TASS của Liên bang Nga](https://baochinhphu.vn/thu-tuong-tiep-tong-giam-doc-hang-thong-tan-tass-cua-lien-bang-nga-102260225191105292.htm) - 19:26 25/02/2026
+- 🕯 [Gắn cải cách hành chính với tinh gọn tổ chức bộ máy](https://baochinhphu.vn/gan-cai-cach-hanh-chinh-voi-tinh-gon-to-chuc-bo-may-102260225185126206.htm) - 19:13 25/02/2026
+- 🤠 [Thủ tướng Phạm Minh Chính: 2026 là năm bứt phá kinh tế số](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-2026-la-nam-but-pha-kinh-te-so-102260225165842133.htm) - 18:15 25/02/2026
+- 💂 [Phó Thủ tướng Phạm Thị Thanh Trà: Thiết kế cơ chế quản lý người đại diện vốn nhà nước theo tinh thần Nghị quyết 79](https://baochinhphu.vn/pho-thu-tuong-pham-thi-thanh-tra-thiet-ke-co-che-quan-ly-nguoi-dai-dien-von-nha-nuoc-theo-tinh-than-nghi-quyet-79-102260225175205015.htm) - 18:04 25/02/2026
+- 🐲 [Đà Nẵng mở rộng hợp tác với các đối tác Dubai và nhà đầu tư quốc tế](https://baochinhphu.vn/da-nang-mo-rong-hop-tac-voi-cac-doi-tac-dubai-va-nha-dau-tu-quoc-te-102260225153816881.htm) - 18:01 25/02/2026
+- 🦩 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 25/2/2026 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-25-2-2026-2-10226022517210606.htm) - 17:29 25/02/2026
+- 💂 [Tôn vinh sự hy sinh thầm lặng của các thầy thuốc qua cuộc thi viết năm 2026](https://baochinhphu.vn/phat-dong-cuoc-thi-su-hy-sinh-tham-lang-lan-thu-vii-102260225162136417.htm) - 17:03 25/02/2026
+- 🌈 [Đề xuất mới chế độ tài chính của tổ chức bảo hiểm tiền gửi](https://baochinhphu.vn/de-xuat-moi-che-do-tai-chinh-cua-to-chuc-bao-hiem-tien-gui-102260225165831995.htm) - 16:58 25/02/2026
+- 🔥 [Kế hoạch thực hiện Công ước La Hay về miễn hợp pháp hóa giấy tờ công của nước ngoài](https://baochinhphu.vn/ke-hoach-thuc-hien-cong-uoc-la-hay-ve-mien-hop-phap-hoa-giay-to-cong-cua-nuoc-ngoai-102260225164242649.htm) - 16:49 25/02/2026
+- 🦄 [Nâng cao nhận thức về đào tạo nghề lao động nông thôn đối với phát triển kinh tế - xã hội](https://baochinhphu.vn/nang-cao-nhan-thuc-ve-dao-tao-nghe-lao-dong-nong-thon-doi-voi-phat-trien-kinh-te-xa-hoi-102260225155430047.htm) - 16:36 25/02/2026
+- 🚀 [Kế hoạch triển khai thi hành Luật Báo chí](https://baochinhphu.vn/ke-hoach-trien-khai-thi-hanh-luat-bao-chi-102260225145206827.htm) - 16:27 25/02/2026
+- 🤖 [Đổi mới toàn diện, nâng cao chất lượng đào tạo nghề cho lao động nông thôn](https://baochinhphu.vn/doi-moi-toan-dien-nang-cao-chat-luong-dao-tao-nghe-cho-lao-dong-nong-thon-102260225142827899.htm) - 15:53 25/02/2026
+- 🕴 [Đề xuất quy định về nhà đầu tư tham gia giao dịch hàng hóa phái sinh](https://baochinhphu.vn/de-xuat-quy-dinh-ve-nha-dau-tu-tham-gia-giao-dich-hang-hoa-phai-sinh-102260225155156125.htm) - 15:51 25/02/2026
+- 🤔 [Kế hoạch triển khai thi hành Luật Giáo dục nghề nghiệp](https://baochinhphu.vn/ke-hoach-trien-khai-thi-hanh-luat-giao-duc-nghe-nghiep-102260225114616268.htm) - 15:44 25/02/2026
+- 💫 [Chế độ làm việc đối với nhà giáo giáo dục nghề nghiệp](https://baochinhphu.vn/che-do-lam-viec-doi-voi-nha-giao-giao-duc-nghe-nghiep-102260225144002057.htm) - 15:37 25/02/2026
+- 👺 [Thủ tướng chủ trì Phiên họp Ban Chỉ đạo về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và Đề án 06](https://baochinhphu.vn/thu-tuong-chu-tri-phien-hop-ban-chi-dao-ve-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-chuyen-doi-so-va-de-an-06-102260225152951758.htm) - 15:31 25/02/2026
+- 🦍 [Truy tố cựu Chủ tịch Tập đoàn Sen Tài Thu và đồng phạm lừa đảo chiếm đoạt tài sản đặc biệt lớn](https://baochinhphu.vn/truy-to-cuu-chu-tich-tap-doan-sen-tai-thu-va-dong-pham-lua-dao-chiem-doat-tai-san-dac-biet-lon-102260225143544819.htm) - 15:12 25/02/2026
+- 🦍 [Đề xuất xây dựng Luật Giao dịch hàng hóa phái sinh](https://baochinhphu.vn/de-xuat-xay-dung-luat-giao-dich-hang-hoa-phai-sinh-102260225144614255.htm) - 14:45 25/02/2026
+- 🧐 [Ban hành Chương trình hành động thực hiện Nghị quyết 80-NQ/TW về phát triển văn hóa Việt Nam](https://baochinhphu.vn/ban-hanh-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-80-nq-tw-ve-phat-trien-van-hoa-viet-nam-10226022512292095.htm) - 14:35 25/02/2026
 - 🕴 [Bài phát biểu dài kỷ lục của Tổng thống D. Trump và chính sách đối ngoại của nước Mỹ](https://baochinhphu.vn/bai-phat-bieu-dai-ky-luc-cua-tong-thong-d-trump-va-chinh-sach-doi-ngoai-cua-nuoc-my-102260225143135108.htm) - 14:31 25/02/2026
-- 🤔 [Đàm phán Mỹ-Iran thắp hy vọng, giá dầu quay đầu suy yếu](https://baochinhphu.vn/dam-phan-my-iran-thap-hy-vong-gia-dau-quay-dau-suy-yeu-102260225103446253.htm) - 14:19 25/02/2026
-- 💫 [Mở hội xuống đồng, đánh thức mùa xuân vùng cao](https://baochinhphu.vn/mo-hoi-xuong-dong-danh-thuc-mua-xuan-vung-cao-102260224151037264.htm) - 14:12 25/02/2026
-- 👺 [Tổng Bí thư Tô Lâm: Tăng cường &#39;nội lực vật chất&#39; và củng cố &#39;nội lực tinh thần&#39;](https://baochinhphu.vn/tong-bi-thu-to-lam-tang-cuong-noi-luc-vat-chat-va-cung-co-noi-luc-tinh-than-102260225133455068.htm) - 13:39 25/02/2026
-- 🦍 [ROX Share mang Tết ấm đến hơn 2.300 hộ gia đình khó khăn](https://baochinhphu.vn/rox-share-mang-tet-am-den-hon-2300-ho-gia-dinh-kho-khan-102260225152229929.htm) - 13:30 25/02/2026
-- 🦍 [Áp dụng bảo đảm cạnh tranh trong đấu thầu thế nào?](https://baochinhphu.vn/ap-dung-bao-dam-canh-tranh-trong-dau-thau-the-nao-1022602251107553.htm) - 13:06 25/02/2026
-- 🧐 [Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến Tổng thống LB Nga Putin](https://baochinhphu.vn/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-tong-thong-lb-nga-putin-102260225124320307.htm) - 12:44 25/02/2026
-- 🕴 [Bộ Xây dựng: Tăng tốc giải ngân, đẩy mạnh phân cấp phân quyền](https://baochinhphu.vn/bo-xay-dung-tang-toc-giai-ngan-day-manh-phan-cap-phan-quyen-102260225121925149.htm) - 12:29 25/02/2026
-- 🌈 [Đề nghị lực lượng chống khủng bố phối hợp ngăn chặn thiết bị bay không người lái tại sân bay](https://baochinhphu.vn/de-nghi-luc-luong-chong-khung-bo-phoi-hop-ngan-chan-thiet-bi-bay-khong-nguoi-lai-tai-san-bay-102260225120402498.htm) - 12:18 25/02/2026
-- 🔥 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 25/2/2026 &lpar;1&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-25-2-2026-10226022512211266.htm) - 11:42 25/02/2026<!-- baochinhphu:END -->
+- 🌈 [Đàm phán Mỹ-Iran thắp hy vọng, giá dầu quay đầu suy yếu](https://baochinhphu.vn/dam-phan-my-iran-thap-hy-vong-gia-dau-quay-dau-suy-yeu-102260225103446253.htm) - 14:19 25/02/2026
+- 🔥 [Mở hội xuống đồng, đánh thức mùa xuân vùng cao](https://baochinhphu.vn/mo-hoi-xuong-dong-danh-thuc-mua-xuan-vung-cao-102260224151037264.htm) - 14:12 25/02/2026<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
