@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Vận tải cơ đặc nhiệm Mỹ va chạm dải phân cách, 5 người bị thương](https://vnexpress.net/van-tai-co-dac-nhiem-my-va-cham-dai-phan-cach-5-nguoi-bi-thuong-5044286.html) - 08:38 26/02/2026
-- 🕴 [Đông Bắc Mỹ tê liệt trong &#39;sa mạc trắng&#39;](https://vnexpress.net/dong-bac-my-te-liet-trong-sa-mac-trang-5044230.html) - 08:09 26/02/2026
-- 🤭 [Cựu phi công F-35 Mỹ bị bắt vì &#39;đào tạo quân nhân Trung Quốc&#39;](https://vnexpress.net/cuu-phi-cong-f-35-my-bi-bat-vi-dao-tao-quan-nhan-trung-quoc-5044328.html) - 08:05 26/02/2026
-- 🧑‍💻 [Nga phát triển UAV chuyên diệt mục tiêu di động, bay xa 100 km](https://vnexpress.net/nga-phat-trien-uav-chuyen-diet-muc-tieu-di-dong-bay-xa-100-km-5044268.html) - 07:24 26/02/2026
-- 🦏 [Kỳ vọng và hoài nghi khi ông Trump ra lệnh công khai tài liệu về người ngoài hành tinh](https://vnexpress.net/ky-vong-va-hoai-nghi-khi-ong-trump-ra-lenh-cong-khai-tai-lieu-ve-nguoi-ngoai-hanh-tinh-5043209.html) - 04:34 26/02/2026
-- 🦒 [Mỹ mở đường cho dầu mỏ Venezuela tới Cuba](https://vnexpress.net/my-mo-duong-cho-dau-mo-venezuela-toi-cuba-5044182.html) - 04:11 26/02/2026
-- 🌈 [Khoảnh khắc tên lửa Flamingo tập kích nhà máy sản xuất Kinzhal, Iskander](https://vnexpress.net/khoanh-khac-ten-lua-flamingo-tap-kich-nha-may-san-xuat-kinzhal-iskander-5044180.html) - 03:25 26/02/2026
-- 🧑‍🏫 [Mỹ nói Iran đang phát triển tên lửa đạn đạo xuyên lục địa](https://vnexpress.net/my-noi-iran-dang-phat-trien-ten-lua-dan-dao-xuyen-luc-dia-5044194.html) - 02:43 26/02/2026
-- 🐲 [Nhật Bản ra mắt &#39;nhà sư robot&#39;](https://vnexpress.net/nhat-ban-ra-mat-nha-su-robot-5044186.html) - 01:46 26/02/2026
-- 🦒 [CIA đăng bài chiêu mộ nguồn tin bên trong Iran](https://vnexpress.net/cia-dang-bai-chieu-mo-nguon-tin-ben-trong-iran-5044169.html) - 01:15 26/02/2026
-- 🐻 [Biên phòng Cuba đấu súng, hạ 4 người trên xuồng xâm phạm lãnh hải](https://vnexpress.net/bien-phong-cuba-dau-sung-ha-4-nguoi-tren-xuong-xam-pham-lanh-hai-5044159.html) - 01:09 26/02/2026
-- 🚀 [Ông Hun Manet: Trung tâm lừa đảo hủy hoại kinh tế Campuchia](https://vnexpress.net/ong-hun-manet-trung-tam-lua-dao-huy-hoai-kinh-te-campuchia-5044164.html) - 00:27 26/02/2026
-- 🥰 [Ông Kim Jong-un: Triều Tiên sẽ tăng tốc sản xuất vũ khí hạt nhân](https://vnexpress.net/ong-kim-jong-un-trieu-tien-se-tang-toc-san-xuat-vu-khi-hat-nhan-5044162.html) - 00:04 26/02/2026
-- 🔥 [Những người Ukraine không muốn đổi Donetsk lấy hòa bình](https://vnexpress.net/nhung-nguoi-ukraine-khong-muon-doi-donetsk-lay-hoa-binh-5043777.html) - 22:00 25/02/2026
-- 🥳 [Bill Gates thừa nhận từng ngoại tình với hai phụ nữ Nga](https://vnexpress.net/bill-gates-thua-nhan-tung-ngoai-tinh-voi-hai-phu-nu-nga-5044143.html) - 16:48 25/02/2026
-- 💼 [Tiêm kích F-16 Hàn Quốc lao xuống núi, phi công nhảy dù thoát hiểm](https://vnexpress.net/tiem-kich-f-16-han-quoc-lao-xuong-nui-phi-cong-nhay-du-thoat-hiem-5044130.html) - 15:23 25/02/2026
-- 🤡 [Thân nhân chiến binh IS bỏ trốn hàng loạt khỏi trại giam ở Syria](https://vnexpress.net/than-nhan-chien-binh-is-bo-tron-hang-loat-khoi-trai-giam-o-syria-5044113.html) - 14:45 25/02/2026
-- 🌁 [Nghệ thuật tạo điểm nhấn của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/nghe-thuat-tao-diem-nhan-cua-ong-trump-trong-thong-diep-lien-bang-5044037.html) - 14:00 25/02/2026
-- 🤩 [Australia đề nghị thân nhân các nhà ngoại giao ở Trung Đông sơ tán](https://vnexpress.net/australia-de-nghi-than-nhan-cac-nha-ngoai-giao-o-trung-dong-so-tan-5044101.html) - 13:26 25/02/2026
-- 🎉 [Tuyên ngôn thời trang tại sự kiện Thông điệp Liên bang của ông Trump](https://vnexpress.net/tuyen-ngon-thoi-trang-tai-su-kien-thong-diep-lien-bang-cua-ong-trump-5044023.html) - 13:00 25/02/2026
-- 🎉 [Toàn văn Thông điệp Liên bang dài nhất lịch sử Mỹ của ông Trump](https://vnexpress.net/toan-van-thong-diep-lien-bang-dai-nhat-lich-su-my-cua-ong-trump-5043933.html) - 12:25 25/02/2026
-- 🌁 [Hành trình trỗi dậy của CJNG - băng đảng bạo lực nhất Mexico](https://vnexpress.net/hanh-trinh-troi-day-cua-cjng-bang-dang-bao-luc-nhat-mexico-5043559.html) - 12:00 25/02/2026
-- 🌊 [Mỹ hé lộ phiên bản tiêm kích tàng hình hiện đại hơn F-22](https://vnexpress.net/my-he-lo-phien-ban-tiem-kich-tang-hinh-hien-dai-hon-f-22-5044057.html) - 11:40 25/02/2026
+- 🎭 [Loạt tên lửa đạn đạo &#39;có thể đe dọa căn cứ Mỹ và châu Âu&#39; của Iran](https://vnexpress.net/loat-ten-lua-dan-dao-co-the-de-doa-can-cu-my-va-chau-au-cua-iran-5044272.html) - 13:00 26/02/2026
+- 🕴 [Người đàn ông bị kết án tù vì cho chim ưng uống đồ có cồn](https://vnexpress.net/nguoi-dan-ong-bi-ket-an-tu-vi-cho-chim-ung-uong-do-co-con-5044455.html) - 12:38 26/02/2026
+- 🤭 [Tỷ phú muốn ngăn cầu biên giới Mỹ - Canada bằng mọi giá](https://vnexpress.net/ty-phu-muon-ngan-cau-bien-gioi-my-canada-bang-moi-gia-5039846.html) - 12:17 26/02/2026
+- 🧑‍💻 [Ukraine tuyên bố hạ toàn bộ tên lửa siêu vượt âm, hành trình Nga](https://vnexpress.net/ukraine-tuyen-bo-ha-toan-bo-ten-lua-sieu-vuot-am-hanh-trinh-nga-5044382.html) - 10:48 26/02/2026
+- 🦏 [Mexico điều tàu hải quân chở hàng viện trợ tới Cuba](https://vnexpress.net/mexico-dieu-tau-hai-quan-cho-hang-vien-tro-toi-cuba-5044318.html) - 09:39 26/02/2026
+- 🦒 [Con gái ông Kim Jong-un gây chú ý vì mặc áo da giống cha](https://vnexpress.net/con-gai-ong-kim-jong-un-gay-chu-y-vi-mac-ao-da-giong-cha-5044311.html) - 09:04 26/02/2026
+- 🌈 [Vận tải cơ đặc nhiệm Mỹ va chạm dải phân cách, 5 người bị thương](https://vnexpress.net/van-tai-co-dac-nhiem-my-va-cham-dai-phan-cach-5-nguoi-bi-thuong-5044286.html) - 08:38 26/02/2026
+- 🧑‍🏫 [Đông Bắc Mỹ tê liệt trong &#39;sa mạc trắng&#39;](https://vnexpress.net/dong-bac-my-te-liet-trong-sa-mac-trang-5044230.html) - 08:09 26/02/2026
+- 🐲 [Cựu phi công F-35 Mỹ bị bắt vì &#39;đào tạo quân nhân Trung Quốc&#39;](https://vnexpress.net/cuu-phi-cong-f-35-my-bi-bat-vi-dao-tao-quan-nhan-trung-quoc-5044328.html) - 08:05 26/02/2026
+- 🦒 [Nga phát triển UAV chuyên diệt mục tiêu di động, bay xa 100 km](https://vnexpress.net/nga-phat-trien-uav-chuyen-diet-muc-tieu-di-dong-bay-xa-100-km-5044268.html) - 07:24 26/02/2026
+- 🐻 [Kỳ vọng và hoài nghi khi ông Trump ra lệnh công khai tài liệu về người ngoài hành tinh](https://vnexpress.net/ky-vong-va-hoai-nghi-khi-ong-trump-ra-lenh-cong-khai-tai-lieu-ve-nguoi-ngoai-hanh-tinh-5043209.html) - 04:34 26/02/2026
+- 🚀 [Mỹ mở đường cho dầu mỏ Venezuela tới Cuba](https://vnexpress.net/my-mo-duong-cho-dau-mo-venezuela-toi-cuba-5044182.html) - 04:11 26/02/2026
+- 🥰 [Khoảnh khắc tên lửa Flamingo tập kích nhà máy sản xuất Kinzhal, Iskander](https://vnexpress.net/khoanh-khac-ten-lua-flamingo-tap-kich-nha-may-san-xuat-kinzhal-iskander-5044180.html) - 03:25 26/02/2026
+- 🔥 [Mỹ nói Iran đang phát triển tên lửa đạn đạo xuyên lục địa](https://vnexpress.net/my-noi-iran-dang-phat-trien-ten-lua-dan-dao-xuyen-luc-dia-5044194.html) - 02:43 26/02/2026
+- 🥳 [Nhật Bản ra mắt &#39;nhà sư robot&#39;](https://vnexpress.net/nhat-ban-ra-mat-nha-su-robot-5044186.html) - 01:46 26/02/2026
+- 💼 [CIA đăng bài chiêu mộ nguồn tin bên trong Iran](https://vnexpress.net/cia-dang-bai-chieu-mo-nguon-tin-ben-trong-iran-5044169.html) - 01:15 26/02/2026
+- 🤡 [Biên phòng Cuba đấu súng, hạ 4 người trên xuồng xâm phạm lãnh hải](https://vnexpress.net/bien-phong-cuba-dau-sung-ha-4-nguoi-tren-xuong-xam-pham-lanh-hai-5044159.html) - 01:09 26/02/2026
+- 🌁 [Ông Hun Manet: Trung tâm lừa đảo hủy hoại kinh tế Campuchia](https://vnexpress.net/ong-hun-manet-trung-tam-lua-dao-huy-hoai-kinh-te-campuchia-5044164.html) - 00:27 26/02/2026
+- 🤩 [Ông Kim Jong-un: Triều Tiên sẽ tăng tốc sản xuất vũ khí hạt nhân](https://vnexpress.net/ong-kim-jong-un-trieu-tien-se-tang-toc-san-xuat-vu-khi-hat-nhan-5044162.html) - 00:04 26/02/2026
+- 🎉 [Những người Ukraine không muốn đổi Donetsk lấy hòa bình](https://vnexpress.net/nhung-nguoi-ukraine-khong-muon-doi-donetsk-lay-hoa-binh-5043777.html) - 22:00 25/02/2026
+- 🎉 [Bill Gates thừa nhận từng ngoại tình với hai phụ nữ Nga](https://vnexpress.net/bill-gates-thua-nhan-tung-ngoai-tinh-voi-hai-phu-nu-nga-5044143.html) - 16:48 25/02/2026
+- 🌁 [Tiêm kích F-16 Hàn Quốc lao xuống núi, phi công nhảy dù thoát hiểm](https://vnexpress.net/tiem-kich-f-16-han-quoc-lao-xuong-nui-phi-cong-nhay-du-thoat-hiem-5044130.html) - 15:23 25/02/2026
+- 🌊 [Thân nhân chiến binh IS bỏ trốn hàng loạt khỏi trại giam ở Syria](https://vnexpress.net/than-nhan-chien-binh-is-bo-tron-hang-loat-khoi-trai-giam-o-syria-5044113.html) - 14:45 25/02/2026
+- 🕴 [Nghệ thuật tạo điểm nhấn của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/nghe-thuat-tao-diem-nhan-cua-ong-trump-trong-thong-diep-lien-bang-5044037.html) - 14:00 25/02/2026
+- 🎓 [Australia đề nghị thân nhân các nhà ngoại giao ở Trung Đông sơ tán](https://vnexpress.net/australia-de-nghi-than-nhan-cac-nha-ngoai-giao-o-trung-dong-so-tan-5044101.html) - 13:26 25/02/2026
+- 🦩 [Tuyên ngôn thời trang tại sự kiện Thông điệp Liên bang của ông Trump](https://vnexpress.net/tuyen-ngon-thoi-trang-tai-su-kien-thong-diep-lien-bang-cua-ong-trump-5044023.html) - 13:00 25/02/2026
+- 🌏 [Toàn văn Thông điệp Liên bang dài nhất lịch sử Mỹ của ông Trump](https://vnexpress.net/toan-van-thong-diep-lien-bang-dai-nhat-lich-su-my-cua-ong-trump-5043933.html) - 12:25 25/02/2026
+- 🌋 [Hành trình trỗi dậy của CJNG - băng đảng bạo lực nhất Mexico](https://vnexpress.net/hanh-trinh-troi-day-cua-cjng-bang-dang-bao-luc-nhat-mexico-5043559.html) - 12:00 25/02/2026
+- 🪜 [Mỹ hé lộ phiên bản tiêm kích tàng hình hiện đại hơn F-22](https://vnexpress.net/my-he-lo-phien-ban-tiem-kich-tang-hinh-hien-dai-hon-f-22-5044057.html) - 11:40 25/02/2026
 - 🕴 [Iran bác cáo buộc của ông Trump về &#39;tên lửa vươn tới Mỹ&#39;](https://vnexpress.net/iran-bac-cao-buoc-cua-ong-trump-ve-ten-lua-vuon-toi-my-5044078.html) - 11:08 25/02/2026
-- 🎓 [F-16 Thổ Nhĩ Kỳ lao xuống cao tốc, phát nổ](https://vnexpress.net/f-16-tho-nhi-ky-lao-xuong-cao-toc-phat-no-5044028.html) - 09:35 25/02/2026
-- 🦩 [Những khoảnh khắc ấn tượng trong buổi đọc Thông điệp Liên bang của ông Trump](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-buoi-doc-thong-diep-lien-bang-cua-ong-trump-5043975.html) - 08:51 25/02/2026
-- 🌏 [Thủ tướng Nhật Bản vướng rắc rối vì tặng quà cho hơn 300 nghị sĩ](https://vnexpress.net/thu-tuong-nhat-ban-vuong-rac-roi-vi-tang-qua-cho-hon-300-nghi-si-5043960.html) - 08:43 25/02/2026
-- 🌋 [Chủ đề được ông Trump đề cập nhiều nhất trong Thông điệp Liên bang](https://vnexpress.net/chu-de-duoc-ong-trump-de-cap-nhieu-nhat-trong-thong-diep-lien-bang-5044000.html) - 08:32 25/02/2026
-- 🪜 [Chó chihuahua sống sót trong thảm kịch rơi trực thăng](https://vnexpress.net/cho-chihuahua-song-sot-trong-tham-kich-roi-truc-thang-5043988.html) - 08:19 25/02/2026
-- 🕴 [Quan điểm đối nội, đối ngoại của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/quan-diem-doi-noi-doi-ngoai-cua-ong-trump-trong-thong-diep-lien-bang-5043909.html) - 08:06 25/02/2026
-- 🧑‍🏫 [Những tuyên bố đáng chú ý của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/nhung-tuyen-bo-dang-chu-y-cua-ong-trump-trong-thong-diep-lien-bang-5043946.html) - 07:48 25/02/2026
-- 🌮 [Phi đội F-22 Mỹ tới Israel giữa căng thẳng với Iran](https://vnexpress.net/phi-doi-f-22-my-toi-israel-giua-cang-thang-voi-iran-5043967.html) - 07:48 25/02/2026
-- 🚦 [Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến Tổng thống Putin](https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-tong-thong-putin-5043963.html) - 07:16 25/02/2026
-- 💫 [Người Nhật tranh cãi sau vụ lễ hội khỏa thân khiến ba người hôn mê](https://vnexpress.net/nguoi-nhat-tranh-cai-sau-vu-le-hoi-khoa-than-khien-ba-nguoi-hon-me-5043869.html) - 07:11 25/02/2026
-- 🤡 [Công ty Mỹ muốn biến UAV tuần thám thành &#39;xe tải tên lửa&#39;](https://vnexpress.net/cong-ty-my-muon-bien-uav-tuan-tham-thanh-xe-tai-ten-lua-5043856.html) - 07:05 25/02/2026
-- 🦣 [Ông Trump: Iran đang phát triển tên lửa có thể đe dọa Mỹ](https://vnexpress.net/ong-trump-iran-dang-phat-trien-ten-lua-co-the-de-doa-my-5043902.html) - 06:49 25/02/2026
-- 🎬 [Đười ươi nhồi bông cháy hàng sau khi &#39;khỉ con cô đơn&#39; gây sốt](https://vnexpress.net/duoi-uoi-nhoi-bong-chay-hang-sau-khi-khi-con-co-don-gay-sot-5043925.html) - 04:56 25/02/2026
-- 🎉 [&#39;Chiến thuật nghìn vết cắt&#39; thay đổi chiến trường Nga - Ukraine](https://vnexpress.net/chien-thuat-nghin-vet-cat-thay-doi-chien-truong-nga-ukraine-5043598.html) - 04:17 25/02/2026
-- 🎡 [Bên trong hầm ngầm nơi ông Zelensky chỉ huy cuộc chiến chống Nga](https://vnexpress.net/ben-trong-ham-ngam-noi-ong-zelensky-chi-huy-cuoc-chien-chong-nga-5043669.html) - 03:53 25/02/2026
-- 🌜 [Đa số người Mỹ nói chính trị gia nước này &#39;quá cao tuổi&#39;](https://vnexpress.net/da-so-nguoi-my-noi-chinh-tri-gia-nuoc-nay-qua-cao-tuoi-5043800.html) - 03:42 25/02/2026
-- 🎡 [Ông chủ &#39;thích phát tiền nhất&#39; Trung Quốc](https://vnexpress.net/ong-chu-thich-phat-tien-nhat-trung-quoc-5043842.html) - 03:39 25/02/2026
-- 🤗 [Israel trưng bày Kinh thánh 2.100 năm](https://vnexpress.net/israel-trung-bay-kinh-thanh-2-100-nam-5043841.html) - 03:02 25/02/2026
-- 🦩 [Loạt nghị sĩ Dân chủ tẩy chay Thông điệp Liên bang của ông Trump](https://vnexpress.net/loat-nghi-si-dan-chu-tay-chay-thong-diep-lien-bang-cua-ong-trump-5043813.html) - 02:51 25/02/2026
-- 🎓 [Mexico xem xét kiện Elon Musk tội phỉ báng Tổng thống](https://vnexpress.net/mexico-xem-xet-kien-elon-musk-toi-phi-bang-tong-thong-5043783.html) - 02:49 25/02/2026
-- 🌁 [Biệt thự nơi trùm ma túy Mexico tử thủ](https://vnexpress.net/biet-thu-noi-trum-ma-tuy-mexico-tu-thu-5043784.html) - 02:37 25/02/2026
-- 🤩 [Khoảnh khắc tên lửa Nga tập kích Kiev nhìn từ không gian](https://vnexpress.net/khoanh-khac-ten-lua-nga-tap-kich-kiev-nhin-tu-khong-gian-5043759.html) - 01:40 25/02/2026
-- 👹 [Ông Trump ca ngợi nước Mỹ, chỉ trích đối thủ trong Thông điệp Liên bang](https://vnexpress.net/ong-trump-sap-doc-thong-diep-lien-bang-dau-tien-cua-nhiem-ky-hai-5043772-tong-thuat.html) - 01:23 25/02/2026
-- ⛽️ [Mexico cam kết đảm bảo an toàn cho World Cup giữa làn sóng bạo lực](https://vnexpress.net/mexico-cam-ket-dam-bao-an-toan-cho-world-cup-giua-lan-song-bao-luc-5043758.html) - 01:01 25/02/2026
+- 🧑‍🏫 [F-16 Thổ Nhĩ Kỳ lao xuống cao tốc, phát nổ](https://vnexpress.net/f-16-tho-nhi-ky-lao-xuong-cao-toc-phat-no-5044028.html) - 09:35 25/02/2026
+- 🌮 [Những khoảnh khắc ấn tượng trong buổi đọc Thông điệp Liên bang của ông Trump](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-buoi-doc-thong-diep-lien-bang-cua-ong-trump-5043975.html) - 08:51 25/02/2026
+- 🚦 [Thủ tướng Nhật Bản vướng rắc rối vì tặng quà cho hơn 300 nghị sĩ](https://vnexpress.net/thu-tuong-nhat-ban-vuong-rac-roi-vi-tang-qua-cho-hon-300-nghi-si-5043960.html) - 08:43 25/02/2026
+- 💫 [Chủ đề được ông Trump đề cập nhiều nhất trong Thông điệp Liên bang](https://vnexpress.net/chu-de-duoc-ong-trump-de-cap-nhieu-nhat-trong-thong-diep-lien-bang-5044000.html) - 08:32 25/02/2026
+- 🤡 [Chó chihuahua sống sót trong thảm kịch rơi trực thăng](https://vnexpress.net/cho-chihuahua-song-sot-trong-tham-kich-roi-truc-thang-5043988.html) - 08:19 25/02/2026
+- 🦣 [Quan điểm đối nội, đối ngoại của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/quan-diem-doi-noi-doi-ngoai-cua-ong-trump-trong-thong-diep-lien-bang-5043909.html) - 08:06 25/02/2026
+- 🎬 [Những tuyên bố đáng chú ý của ông Trump trong Thông điệp Liên bang](https://vnexpress.net/nhung-tuyen-bo-dang-chu-y-cua-ong-trump-trong-thong-diep-lien-bang-5043946.html) - 07:48 25/02/2026
+- 🎉 [Phi đội F-22 Mỹ tới Israel giữa căng thẳng với Iran](https://vnexpress.net/phi-doi-f-22-my-toi-israel-giua-cang-thang-voi-iran-5043967.html) - 07:48 25/02/2026
+- 🎡 [Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến Tổng thống Putin](https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-tong-thong-putin-5043963.html) - 07:16 25/02/2026
+- 🌜 [Người Nhật tranh cãi sau vụ lễ hội khỏa thân khiến ba người hôn mê](https://vnexpress.net/nguoi-nhat-tranh-cai-sau-vu-le-hoi-khoa-than-khien-ba-nguoi-hon-me-5043869.html) - 07:11 25/02/2026
+- 🎡 [Công ty Mỹ muốn biến UAV tuần thám thành &#39;xe tải tên lửa&#39;](https://vnexpress.net/cong-ty-my-muon-bien-uav-tuan-tham-thanh-xe-tai-ten-lua-5043856.html) - 07:05 25/02/2026
+- 🤗 [Ông Trump: Iran đang phát triển tên lửa có thể đe dọa Mỹ](https://vnexpress.net/ong-trump-iran-dang-phat-trien-ten-lua-co-the-de-doa-my-5043902.html) - 06:49 25/02/2026
+- 🦩 [Đười ươi nhồi bông cháy hàng sau khi &#39;khỉ con cô đơn&#39; gây sốt](https://vnexpress.net/duoi-uoi-nhoi-bong-chay-hang-sau-khi-khi-con-co-don-gay-sot-5043925.html) - 04:56 25/02/2026
+- 🎓 [&#39;Chiến thuật nghìn vết cắt&#39; thay đổi chiến trường Nga - Ukraine](https://vnexpress.net/chien-thuat-nghin-vet-cat-thay-doi-chien-truong-nga-ukraine-5043598.html) - 04:17 25/02/2026
+- 🌁 [Bên trong hầm ngầm nơi ông Zelensky chỉ huy cuộc chiến chống Nga](https://vnexpress.net/ben-trong-ham-ngam-noi-ong-zelensky-chi-huy-cuoc-chien-chong-nga-5043669.html) - 03:53 25/02/2026
+- 🤩 [Đa số người Mỹ nói chính trị gia nước này &#39;quá cao tuổi&#39;](https://vnexpress.net/da-so-nguoi-my-noi-chinh-tri-gia-nuoc-nay-qua-cao-tuoi-5043800.html) - 03:42 25/02/2026
+- 👹 [Ông chủ &#39;thích phát tiền nhất&#39; Trung Quốc](https://vnexpress.net/ong-chu-thich-phat-tien-nhat-trung-quoc-5043842.html) - 03:39 25/02/2026
+- ⛽️ [Israel trưng bày Kinh thánh 2.100 năm](https://vnexpress.net/israel-trung-bay-kinh-thanh-2-100-nam-5043841.html) - 03:02 25/02/2026
+- 🚀 [Loạt nghị sĩ Dân chủ tẩy chay Thông điệp Liên bang của ông Trump](https://vnexpress.net/loat-nghi-si-dan-chu-tay-chay-thong-diep-lien-bang-cua-ong-trump-5043813.html) - 02:51 25/02/2026
+- 🎡 [Mexico xem xét kiện Elon Musk tội phỉ báng Tổng thống](https://vnexpress.net/mexico-xem-xet-kien-elon-musk-toi-phi-bang-tong-thong-5043783.html) - 02:49 25/02/2026
+- 🕯 [Biệt thự nơi trùm ma túy Mexico tử thủ](https://vnexpress.net/biet-thu-noi-trum-ma-tuy-mexico-tu-thu-5043784.html) - 02:37 25/02/2026
+- 🐻 [Khoảnh khắc tên lửa Nga tập kích Kiev nhìn từ không gian](https://vnexpress.net/khoanh-khac-ten-lua-nga-tap-kich-kiev-nhin-tu-khong-gian-5043759.html) - 01:40 25/02/2026
+- 🚦 [Ông Trump ca ngợi nước Mỹ, chỉ trích đối thủ trong Thông điệp Liên bang](https://vnexpress.net/ong-trump-sap-doc-thong-diep-lien-bang-dau-tien-cua-nhiem-ky-hai-5043772-tong-thuat.html) - 01:23 25/02/2026
+- 👍 [Mexico cam kết đảm bảo an toàn cho World Cup giữa làn sóng bạo lực](https://vnexpress.net/mexico-cam-ket-dam-bao-an-toan-cho-world-cup-giua-lan-song-bao-luc-5043758.html) - 01:01 25/02/2026
 - 🚀 [Anh áp đặt gần 300 lệnh trừng phạt nhằm vào Nga](https://vnexpress.net/anh-ap-dat-gan-300-lenh-trung-phat-nham-vao-nga-5043729.html) - 00:39 25/02/2026
-- 🎡 [Đâm dao liên tiếp tại Mỹ, 5 người thiệt mạng](https://vnexpress.net/dam-dao-lien-tiep-tai-my-5-nguoi-thiet-mang-5043755.html) - 00:01 25/02/2026
-- 🕯 [Ông Medvedev cảnh báo Anh, Pháp về kịch bản tấn công hạt nhân](https://vnexpress.net/ong-medvedev-canh-bao-anh-phap-ve-kich-ban-tan-cong-hat-nhan-5043716.html) - 23:40 24/02/2026
-- 🐻 [Nỗ lực báo trước về cuộc chiến Ukraine của tình báo Mỹ](https://vnexpress.net/no-luc-bao-truoc-ve-cuoc-chien-ukraine-cua-tinh-bao-my-5043709.html) - 23:00 24/02/2026
-- 🚦 [Vòng xoáy bạo lực ở Mexico khi trùm ma túy El Mencho bị tiêu diệt](https://vnexpress.net/vong-xoay-bao-luc-o-mexico-khi-trum-ma-tuy-el-mencho-bi-tieu-diet-5043324.html) - 22:00 24/02/2026
-- 👍 [Lối sống &#39;nhà giàu không kéo rèm cửa&#39; ở Mỹ](https://vnexpress.net/loi-song-nha-giau-khong-keo-rem-cua-o-my-5043537.html) - 20:00 24/02/2026
-- 🚀 [Mẫu tên lửa có thể trở thành &#39;sát thủ tàu hậu cần&#39; của Trung Quốc](https://vnexpress.net/mau-ten-lua-co-the-tro-thanh-sat-thu-tau-hau-can-cua-trung-quoc-5013657.html) - 18:00 24/02/2026
-- 🌮 [Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến các lãnh đạo Nga](https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-cac-lanh-dao-nga-5043717.html) - 15:30 24/02/2026
-- 😎 [Iran cảnh báo sinh viên về &#39;lằn ranh đỏ&#39; khi biểu tình](https://vnexpress.net/iran-canh-bao-sinh-vien-ve-lan-ranh-do-khi-bieu-tinh-5043711.html) - 14:45 24/02/2026
-- 🐲 [Mỹ, Canada thu hồi hơn 1.530 tấn cơm chiên vì nguy cơ lẫn mảnh kính](https://vnexpress.net/my-canada-thu-hoi-hon-1-530-tan-com-chien-vi-nguy-co-lan-manh-kinh-5043533.html) - 14:00 24/02/2026
-- 💫 [Những lễ hội khỏa thân lớn nhất Nhật Bản vào năm mới](https://vnexpress.net/nhung-le-hoi-khoa-than-lon-nhat-nhat-ban-vao-nam-moi-5043220.html) - 14:00 24/02/2026
-- 👀 [Thay đổi chiến thuật đột kích bộ binh của Nga sau 4 năm xung đột](https://vnexpress.net/thay-doi-chien-thuat-dot-kich-bo-binh-cua-nga-sau-4-nam-xung-dot-5043468.html) - 13:00 24/02/2026<!-- vnexpress-the-gioi:END -->
+- 🌮 [Đâm dao liên tiếp tại Mỹ, 5 người thiệt mạng](https://vnexpress.net/dam-dao-lien-tiep-tai-my-5-nguoi-thiet-mang-5043755.html) - 00:01 25/02/2026
+- 😎 [Ông Medvedev cảnh báo Anh, Pháp về kịch bản tấn công hạt nhân](https://vnexpress.net/ong-medvedev-canh-bao-anh-phap-ve-kich-ban-tan-cong-hat-nhan-5043716.html) - 23:40 24/02/2026
+- 🐲 [Nỗ lực báo trước về cuộc chiến Ukraine của tình báo Mỹ](https://vnexpress.net/no-luc-bao-truoc-ve-cuoc-chien-ukraine-cua-tinh-bao-my-5043709.html) - 23:00 24/02/2026
+- 💫 [Vòng xoáy bạo lực ở Mexico khi trùm ma túy El Mencho bị tiêu diệt](https://vnexpress.net/vong-xoay-bao-luc-o-mexico-khi-trum-ma-tuy-el-mencho-bi-tieu-diet-5043324.html) - 22:00 24/02/2026
+- 👀 [Lối sống &#39;nhà giàu không kéo rèm cửa&#39; ở Mỹ](https://vnexpress.net/loi-song-nha-giau-khong-keo-rem-cua-o-my-5043537.html) - 20:00 24/02/2026<!-- vnexpress-the-gioi:END -->
