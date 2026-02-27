@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man City đấu Real Madrid ở vòng 1/8 Champions League](https://vnexpress.net/truc-tiep-boc-tham-vong-1-8-champions-league-5044784.html) - 10:30 27/02/2026
+- 🪜 [Man City đấu Real Madrid ở vòng 1/8 Champions League](https://vnexpress.net/truc-tiep-boc-tham-vong-1-8-champions-league-5044784-tong-thuat.html) - 10:30 27/02/2026
 - 🦩 [Tử vong sau khi thi đấu vật tại hội làng](https://vnexpress.net/tu-vong-sau-khi-thi-dau-vat-tai-hoi-lang-5044849.html) - 10:24 27/02/2026
 - 🧰 [Khán giả xông vào sân kéo ngã Messi](https://vnexpress.net/khan-gia-xong-vao-san-keo-nga-messi-5044783.html) - 09:52 27/02/2026
 - 🤗 [Người thân cầu thủ nhập tịch Malaysia có thể ra tòa làm chứng](https://vnexpress.net/nguoi-than-cau-thu-nhap-tich-malaysia-co-the-ra-toa-lam-chung-5044812.html) - 09:46 27/02/2026
