@@ -16,7 +16,7 @@ sidebar_position: 2
 - 🦒 [Con gái khuyên ông Thaksin thôi làm chính trị](https://vnexpress.net/con-gai-khuyen-ong-thaksin-thoi-lam-chinh-tri-5044615.html) - 03:59 27/02/2026
 - 🐻 [AI ưu tiên dùng vũ khí hạt nhân nếu được điều binh khiển tướng](https://vnexpress.net/ai-uu-tien-dung-vu-khi-hat-nhan-neu-duoc-dieu-binh-khien-tuong-5044533.html) - 03:26 27/02/2026
 - 🚀 [Cuộc tình ngoài luồng của Bill Gates với cô gái Nga](https://vnexpress.net/cuoc-tinh-ngoai-luong-cua-bill-gates-voi-co-gai-nga-5044553.html) - 03:24 27/02/2026
-- 🥰 [Cú hích quyền lực mềm Trung Quốc với giới trẻ Mỹ](https://vnexpress.net/cu-hich-quyen-luc-mem-trung-quoc-voi-gioi-tre-my-5044296.html) - 02:58 27/02/2026
+- 🥰 [Những thanh niên Mỹ mê &#39;sống kiểu Trung Quốc&#39;](https://vnexpress.net/nhung-thanh-nien-my-me-song-kieu-trung-quoc-5044296.html) - 02:58 27/02/2026
 - 🔥 [Chiến đấu cơ Pakistan ném bom thủ đô Afghanistan](https://vnexpress.net/chien-dau-co-pakistan-nem-bom-thu-do-afghanistan-5044565.html) - 02:56 27/02/2026
 - 🥳 [Đặc vụ ICE xông vào Đại học Columbia bắt sinh viên nhập cư](https://vnexpress.net/dac-vu-ice-xong-vao-dai-hoc-columbia-bat-sinh-vien-nhap-cu-5044540.html) - 02:44 27/02/2026
 - 💼 [Nga xem xét cung cấp dầu cho Cuba](https://vnexpress.net/nga-xem-xet-cung-cap-dau-cho-cuba-5044546.html) - 02:43 27/02/2026
