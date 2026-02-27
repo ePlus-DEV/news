@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường THPT công lập 300 tỷ ở nơi &#39;đông dân nhất&#39; Hà Nội](https://vnexpress.net/toan-canh-truong-thpt-do-muoi-duoc-xay-moi-o-hoang-mai-ha-noi-5043610.html) - 23:11 26/02/2026
+- 🤓 [Bên trong trường THPT công lập 300 tỷ ở nơi &#39;đông dân nhất&#39; Hà Nội](https://vnexpress.net/toan-canh-truong-thpt-do-muoi-duoc-xay-moi-o-hoang-mai-ha-noi-5043610.html) - 23:11 26/02/2026
 - 🦆 [Người dân nước nào mua vàng nhiều nhất Đông Nam Á?](https://vnexpress.net/gia-vang-gay-sot-vi-sao-nguoi-dan-viet-nam-mua-vang-giam-5044410.html) - 13:03 26/02/2026
 - 🦩 [Học viện Ngoại giao nâng điều kiện xét học bạ](https://vnexpress.net/4-phuong-thuc-tuyen-sinh-nam-2026-cua-hoc-vien-ngoai-giao-gom-dieu-kien-xet-hoc-ba-ielts-5044440.html) - 11:53 26/02/2026
 - 🌮 [Ngày hội IELTS lớn nhất của Hội đồng Anh trở lại](https://vnexpress.net/ngay-hoi-ielts-lon-nhat-cua-hoi-dong-anh-tro-lai-5044384.html) - 09:00 26/02/2026
