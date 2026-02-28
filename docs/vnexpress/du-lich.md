@@ -8,7 +8,7 @@ sidebar_position: 11
 - 🪄 [Hàng không toàn cầu hỗn loạn vì Trung Đông đóng cửa không phận](https://vnexpress.net/hang-khong-toan-cau-hon-loan-vi-trung-dong-dong-cua-khong-phan-5045148.html) - 15:44 28/02/2026
 - 🦅 [Chùa nào tại Việt Nam không thờ Phật?](https://vnexpress.net/chua-nao-tai-viet-nam-khong-tho-phat-5045046.html) - 12:00 28/02/2026
 - 🕴 [Cẩm nang du lịch Hội Lim](https://vnexpress.net/cam-nang-du-lich-hoi-lim-5044737.html) - 05:17 28/02/2026
-- 👀 [Cách các nước láng giềng đối phó nạn &#39;chặt chém&#39; du khách](https://vnexpress.net/cach-cac-nuoc-lang-gieng-doi-pho-nan-chat-chem-du-khach-5005729.html) - 04:00 28/02/2026
+- 👀 [Cách các nước đối phó nạn &#39;chặt chém&#39; du khách](https://vnexpress.net/cach-cac-nuoc-doi-pho-nan-chat-chem-du-khach-5005729.html) - 04:00 28/02/2026
 - 🎭 [Sân bay Mỹ muốn &#39;cấm đồ ngủ và dép Crocs&#39;](https://vnexpress.net/san-bay-my-muon-cam-do-ngu-va-dep-crocs-5044562.html) - 03:00 28/02/2026
 - 🦒 [Cuộc sống ở thị trấn đầu tiên cấm ôtô tại Mỹ](https://vnexpress.net/cuoc-song-o-thi-tran-dau-tien-cam-oto-tai-my-5044788.html) - 01:36 28/02/2026
 - 👨‍🏫 [Lý do khách sạn hạng sang luôn có điện thoại trong phòng vệ sinh](https://vnexpress.net/ly-do-khach-san-hang-sang-luon-co-dien-thoai-trong-phong-ve-sinh-5044699.html) - 17:00 27/02/2026
