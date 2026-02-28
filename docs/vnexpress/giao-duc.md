@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Lý do Đại học Y khoa Phạm Ngọc Thạch tăng học phí gần 50%](https://vnexpress.net/vi-sao-dai-hoc-y-khoa-pham-ngoc-thach-tang-hoc-phi-len-den-81-trieu-dong-mot-nam-5044492.html) - 23:05 27/02/2026
+- 🤓 [ĐH Y khoa Phạm Ngọc Thạch lý giải học phí tăng gần gấp rưỡi](https://vnexpress.net/vi-sao-dai-hoc-y-khoa-pham-ngoc-thach-tang-hoc-phi-len-den-81-trieu-dong-mot-nam-5044492.html) - 23:05 27/02/2026
 - 🦆 [Du học sinh đến Canada giảm 61% sau &#39;cơn lốc&#39; siết thị thực](https://vnexpress.net/du-hoc-sinh-den-canada-giam-61-sau-con-loc-siet-thi-thuc-5044444.html) - 17:02 27/02/2026
 - 🦩 [Nước Đông Nam Á nào có tỷ lệ béo phì cao nhất?](https://vnexpress.net/nuoc-dong-nam-a-nao-co-ty-le-beo-phi-cao-nhat-5044839.html) - 13:29 27/02/2026
 - 🌮 [Đại học Bách khoa TP HCM tăng học phí](https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-tang-hoc-phi-5044708.html) - 08:13 27/02/2026
