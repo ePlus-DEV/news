@@ -27,7 +27,7 @@ sidebar_position: 7
 - 🥰 [Nữ PGS Việt giành giải thưởng giảng dạy xuất sắc của Australia](https://vnexpress.net/nu-pgs-viet-gianh-giai-thuong-giang-day-xuat-sac-cua-australia-5043708.html) - 23:16 24/02/2026
 - 🎡 [Phường nào ở TP HCM có mật độ dân số hơn 10 lần Singapore?](https://vnexpress.net/phuong-nao-o-tp-hcm-co-mat-do-dan-so-hon-10-lan-singapore-5043688.html) - 13:01 24/02/2026
 - 🎊 [Cơn sốt đại học dạy nghề tại Trung Quốc](https://vnexpress.net/con-sot-dai-hoc-day-nghe-tai-trung-quoc-5043222.html) - 07:15 24/02/2026
-- 🌏 [Đại học Cảnh sát nhân dân giảm chỉ tiêu, bỏ tuyển thẳng giải quốc tế](https://vnexpress.net/tuyen-sinh-dai-hoc-canh-sat-nhan-dan-2026-chi-tieu-phuong-thuc-yeu-cau-chung-chi-ngoai-ngu-5043481.html) - 05:08 24/02/2026
+- 🌏 [Đại học Cảnh sát nhân dân giảm chỉ tiêu](https://vnexpress.net/tuyen-sinh-dai-hoc-canh-sat-nhan-dan-2026-chi-tieu-phuong-thuc-yeu-cau-chung-chi-ngoai-ngu-5043481.html) - 05:08 24/02/2026
 - 🥸 [Chiến lược xây &#39;hạ tầng mềm&#39; tại Việt Nam của Hội đồng Anh](https://vnexpress.net/chien-luoc-xay-ha-tang-mem-tai-viet-nam-cua-hoi-dong-anh-5043244.html) - 02:00 24/02/2026
 - 🕴 [Trường Y đầu tiên dự kiến bỏ xét riêng điểm thi tốt nghiệp](https://vnexpress.net/tuyen-sinh-dai-hoc-khoa-hoc-suc-khoe-2026-phuong-thuc-cong-thuc-tinh-diem-xet-ket-hop-va-diem-cong-ielts-5043271.html) - 01:59 24/02/2026
 - 💂 [6 thay đổi tuyển sinh đại học từ năm 2026](https://vnexpress.net/6-thay-doi-tuyen-sinh-dai-hoc-tu-nam-2026-5043079.html) - 23:05 23/02/2026
