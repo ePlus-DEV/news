@@ -5,7 +5,7 @@ sidebar_position: 18
 
 <!-- dantri-doi-song:START -->
 - 🥳 [Cuộc sống khác thường trong thị trấn đầu tiên cấm người dân mua ô tô ở Mỹ](https://dantri.com.vn/doi-song/cuoc-song-khac-thuong-trong-thi-tran-dau-tien-cam-nguoi-dan-mua-o-to-o-my-20260228141832926.htm) - 08:01 28/02/2026
-- 🌁 [Hai cặp anh em song sinh tình nguyện thực hiện nghĩa vụ tham gia tuyển quân](https://dantri.com.vn/doi-song/hai-cap-anh-em-song-sinh-tinh-nguyen-thuc-hien-nghia-vu-tham-gia-tuyen-quan-20260227233601867.htm) - 02:49 28/02/2026
+- 🌁 [Hai cặp anh em song sinh tình nguyện tham gia nghĩa vụ Công an nhân dân](https://dantri.com.vn/doi-song/hai-cap-anh-em-song-sinh-tinh-nguyen-tham-gia-nghia-vu-cong-an-nhan-dan-20260227233601867.htm) - 02:49 28/02/2026
 - 👀 [Dùng tiền lì xì của con mua bò, mẹ trẻ bất ngờ nhận lãi lớn](https://dantri.com.vn/doi-song/dung-tien-li-xi-cua-con-mua-bo-me-tre-bat-ngo-nhan-lai-lon-20260227113731659.htm) - 22:53 27/02/2026
 - 🐻 [Những con trăn lớn bơi trên phố ở Bali sau trận mưa, nhiều người sợ hãi](https://dantri.com.vn/doi-song/nhung-con-tran-lon-boi-tren-pho-o-bali-sau-tran-mua-nhieu-nguoi-so-hai-20260227160009625.htm) - 12:35 27/02/2026
 - 🦅 [Bill Gates: Từ người đàn ông rửa bát cho vợ đến thú nhận ngoại tình gây sốc](https://dantri.com.vn/doi-song/bill-gates-tu-nguoi-dan-ong-rua-bat-cho-vo-den-thu-nhan-ngoai-tinh-gay-soc-20260227152952050.htm) - 08:46 27/02/2026
