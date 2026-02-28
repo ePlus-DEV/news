@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Mắc bệnh tình dục sau chuyến dã ngoại](https://vnexpress.net/mac-benh-tinh-duc-sau-chuyen-da-ngoai-5045023.html) - 12:00 28/02/2026
 - 🥰 [Mẹo ăn uống giảm lở miệng khi chữa ung thư](https://vnexpress.net/meo-an-uong-giam-lo-mieng-khi-chua-ung-thu-5044964.html) - 12:00 28/02/2026
-- 💡 [Ca mang thai 5 tự nhiên và cuộc sinh mổ kỳ tích y khoa](https://vnexpress.net/ca-mang-thai-5-tu-nhien-va-cuoc-sinh-mo-ky-tich-y-khoa-5045037.html) - 11:00 28/02/2026
+- 💡 [Ca mang thai 5 tự nhiên và cuộc sinh mổ kỳ tích](https://vnexpress.net/ca-mang-thai-5-tu-nhien-va-cuoc-sinh-mo-ky-tich-5045037.html) - 11:00 28/02/2026
 - 🤗 [5 cách giúp não trẻ nhạy bén](https://vnexpress.net/5-cach-giup-nao-tre-nhay-ben-5045034.html) - 11:00 28/02/2026
 - 🪜 [Những tác dụng phụ ít biết khi ăn chuối](https://vnexpress.net/nhung-tac-dung-phu-it-biet-khi-an-chuoi-5044966.html) - 10:00 28/02/2026
 - 🕯 [6 triệu người Việt sống chung với bệnh hiếm](https://vnexpress.net/6-trieu-nguoi-viet-song-chung-voi-benh-hiem-5045076.html) - 09:43 28/02/2026
