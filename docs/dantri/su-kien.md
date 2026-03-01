@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Lãnh tụ Tối cao và Tư lệnh IRGC thiệt mạng, Iran quyết trả đũa dữ dội nhất](https://dantri.com.vn/the-gioi/lanh-tu-toi-cao-va-tu-lenh-irgc-thiet-mang-iran-quyet-tra-dua-du-doi-nhat-20260301111122510.htm) - 04:15 01/03/2026
+- 🎭 [Bộ trưởng Quốc phòng và Tổng tham mưu trưởng Iran thiệt mạng](https://dantri.com.vn/the-gioi/bo-truong-quoc-phong-va-tong-tham-muu-truong-iran-thiet-mang-20260301111122510.htm) - 04:15 01/03/2026
 - 👨‍🏫 [Người phụ nữ hỏng 1 mắt gồng mình nuôi chồng và con gái tâm thần](https://dantri.com.vn/tam-long-nhan-ai/nguoi-phu-nu-hong-1-mat-gong-minh-nuoi-chong-va-con-gai-tam-than-20260225151619716.htm) - 22:30 28/02/2026
 - 🌮 [Lãnh tụ Tối cao bị sát hại, Iran cảnh báo đáp trả dữ dội chưa từng có](https://dantri.com.vn/the-gioi/lanh-tu-toi-cao-bi-sat-hai-iran-canh-bao-dap-tra-du-doi-chua-tung-co-20260301050952577.htm) - 22:11 28/02/2026
 - 🕯 [Quốc tế lo ngại về xung đột quân sự giữa Mỹ - Israel và Iran](https://dantri.com.vn/the-gioi/quoc-te-lo-ngai-ve-xung-dot-quan-su-giua-my-israel-va-iran-20260228185914237.htm) - 12:35 28/02/2026
