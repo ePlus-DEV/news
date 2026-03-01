@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô lật khi ôm cua, hai người tử vong](https://vnexpress.net/oto-lat-khi-om-cua-hai-nguoi-tu-vong-5045309.html) - 08:13 01/03/2026
+- 🦒 [Ôtô lật khi ôm cua, hai bà cháu tử vong](https://vnexpress.net/oto-lat-khi-om-cua-hai-ba-chau-tu-vong-5045309.html) - 08:13 01/03/2026
 - 🤓 [83 chuyến bay bị ảnh hưởng bởi flycam trong một tuần](https://vnexpress.net/83-chuyen-bay-bi-anh-huong-boi-flycam-trong-mot-tuan-5045269.html) - 05:54 01/03/2026
 - ⚗️ [Gần 1.000 người Hoa hóa trang diễu hành ở TP HCM](https://vnexpress.net/gan-1-000-nguoi-hoa-hoa-trang-dieu-hanh-o-tp-hcm-5045250.html) - 05:43 01/03/2026
 - 🌊 [Kỷ niệm 120 năm ngày sinh cố Thủ tướng Phạm Văn Đồng](https://vnexpress.net/ky-niem-120-nam-ngay-sinh-co-thu-tuong-pham-van-dong-5045247.html) - 04:39 01/03/2026
