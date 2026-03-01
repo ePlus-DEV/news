@@ -531,7 +531,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤓 [Trực tiếp V-League 1: Công An TP.HCM đấu Becamex TP.HCM](https://muctim.tuoitre.vn/truc-tiep-v-league-1-cong-an-tphcm-dau-becamex-tphcm-101260301171223246.htm) - 10:56 01/03/2026
 - 🎉 [Trực tiếp V-League 1: Thể Công Viettel - CLB Hà Nội](https://muctim.tuoitre.vn/truc-tiep-v-league-1-the-cong-viettel-clb-ha-noi-101260301170233845.htm) - 10:55 01/03/2026
 - 👨‍🏫 [Trực tiếp V-League 1: Thép Xanh Nam Định - Ninh Bình](https://muctim.tuoitre.vn/truc-tiep-v-league-1-thep-xanh-nam-dinh-ninh-binh-101260301163227596.htm) - 09:41 01/03/2026
-- 🚦 [Trực tiếp V-League 1: Hải Phòng đấu Thanh Hoá](https://muctim.tuoitre.vn/truc-tiep-v-league-1-hai-phong-dau-thanh-hoa-101260301160644223.htm) - 09:23 01/03/2026
+- 🚦 [Hải Phòng hòa kịch tính với Đông Á Thanh Hóa trong trận cầu có 6 bàn thắng](https://muctim.tuoitre.vn/truc-tiep-v-league-1-hai-phong-dau-thanh-hoa-101260301160644223.htm) - 09:23 01/03/2026
 - 🤭 [Bài tham dự sân chơi viết Chuyến xe mùa xuân: &#39;Thanh nhàn&#39; trong suy nghĩ](https://muctim.tuoitre.vn/bai-tham-du-san-choi-viet-chuyen-xe-mua-xuan-thanh-nhan-trong-suy-nghi-101260227174656428.htm) - 08:47 01/03/2026
 - 😺 [Arsenal đấu Chelsea: siêu máy tính dự đoán đội chủ nhà thắng trận](https://muctim.tuoitre.vn/arsenal-dau-chelsea-sieu-may-tinh-du-doan-doi-chu-nha-thang-tran-101260301145805083.htm) - 08:43 01/03/2026
 - 😎 [Xem diễu hành lễ hội Nguyên tiêu ở đâu tại TP.HCM?](https://muctim.tuoitre.vn/xem-dieu-hanh-le-hoi-nguyen-tieu-o-dau-tai-tphcm-101260301142354256.htm) - 08:39 01/03/2026
