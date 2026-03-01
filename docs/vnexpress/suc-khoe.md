@@ -12,7 +12,7 @@ sidebar_position: 10
 - 🕯 [Những thực phẩm ăn sáng giàu sắt cho trẻ](https://vnexpress.net/nhung-thuc-pham-an-sang-giau-sat-cho-tre-5045050.html) - 04:00 01/03/2026
 - 🤭 [Có nên phẫu thuật thoát vị đĩa đệm lần hai?](https://vnexpress.net/co-nen-phau-thuat-thoat-vi-dia-dem-lan-hai-5045130.html) - 03:00 01/03/2026
 - 👀 [Dấu hiệu nào nhận biết khối u ở cổ lành hay ác tính?](https://vnexpress.net/dau-hieu-nao-nhan-biet-khoi-u-o-co-lanh-hay-ac-tinh-5045077.html) - 02:00 01/03/2026
-- 🌋 [11 người nghi ngộ độc sau ăn bánh mì heo quay ở TP HCM](https://vnexpress.net/11-nguoi-nghi-ngo-doc-sau-an-banh-mi-heo-quay-o-tp-hcm-5045193.html) - 01:41 01/03/2026
+- 🌋 [17 người nghi ngộ độc sau ăn bánh mì heo quay ở TP HCM](https://vnexpress.net/17-nguoi-nghi-ngo-doc-sau-an-banh-mi-heo-quay-o-tp-hcm-5045193.html) - 01:41 01/03/2026
 - 🫶 [Vì sao đánh răng mỗi ngày vẫn hôi miệng?](https://vnexpress.net/vi-sao-danh-rang-moi-ngay-van-hoi-mieng-5045071.html) - 01:00 01/03/2026
 - 🦆 [Trẻ nuốt phải hạt nở có bị tắc ruột?](https://vnexpress.net/tre-nuot-phai-hat-no-co-bi-tac-ruot-5045156.html) - 01:00 01/03/2026
 - 🚀 [Làm thế nào giảm da chảy xệ, nọng cằm sau sinh?](https://vnexpress.net/lam-the-nao-giam-da-chay-xe-nong-cam-sau-sinh-5045129.html) - 01:00 01/03/2026
