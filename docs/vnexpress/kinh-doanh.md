@@ -5,15 +5,15 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá dầu có thể lên 100 USD do xung đột ở Iran](https://vnexpress.net/gia-dau-co-the-len-100-usd-do-xung-dot-o-iran-5045404.html) - 19:10 01/03/2026
-- 🐲 [Hệ lụy của AI khi &#39;cha đẻ&#39; Twitter sa thải một nửa nhân sự](https://vnexpress.net/he-luy-cua-ai-khi-cha-de-twitter-sa-thai-mot-nua-nhan-su-5045340.html) - 17:05 01/03/2026
-- 🔥 [Nhiều thương hiệu báo hết vàng nhẫn](https://vnexpress.net/nhieu-thuong-hieu-bao-het-vang-nhan-5045350.html) - 13:01 01/03/2026
-- 🐵 [Bitcoin có thể về dưới 60.000 USD do xung đột ở Iran](https://vnexpress.net/bitcoin-co-the-ve-duoi-60-000-usd-do-xung-dot-o-iran-5045308.html) - 09:34 01/03/2026
-- 🦅 [Giá vàng có thể vượt 5.500 USD tuần tới sau khi Mỹ - Israel tấn công Iran](https://vnexpress.net/gia-vang-co-the-vuot-5-500-usd-tuan-toi-sau-khi-my-israel-tan-cong-iran-5045237.html) - 03:36 01/03/2026
-- 😺 [Nguy cơ khủng hoảng giá dầu khi eo biển Hormuz đóng cửa](https://vnexpress.net/nguy-co-khung-hoang-gia-dau-khi-eo-bien-hormuz-dong-cua-5045185.html) - 02:10 01/03/2026
-- 🤩 [Phép thử của Chủ tịch Burger King sau hai tuần trực điện thoại](https://vnexpress.net/phep-thu-cua-chu-tich-burger-king-sau-hai-tuan-truc-dien-thoai-5045106.html) - 22:03 28/02/2026
-- 🌮 [Người Nhật chi hơn 6.000 tỷ đồng mua rau quả Việt](https://vnexpress.net/nguoi-nhat-chi-hon-6-000-ty-dong-mua-rau-qua-viet-5044980.html) - 17:29 28/02/2026
-- 🧰 [Xung đột ở Iran có thể đẩy giá dầu, vàng, USD cùng tăng](https://vnexpress.net/xung-dot-o-iran-co-the-day-gia-dau-vang-usd-cung-tang-5045140.html) - 17:03 28/02/2026
-- 🤔 [Nhà phân phối Connecticut lỗ chục triệu USD vì nạn hoàn vỏ chai](https://vnexpress.net/nha-phan-phoi-connecticut-lo-chuc-trieu-usd-vi-nan-hoan-vo-chai-5045268.html) - 17:01 28/02/2026
+- 🐲 [Hệ lụy của AI khi &#39;cha đẻ&#39; Twitter sa thải một nửa nhân sự tại Block](https://vnexpress.net/he-luy-cua-ai-khi-cha-de-twitter-sa-thai-mot-nua-nhan-su-tai-block-5045340.html) - 17:05 01/03/2026
+- 🔥 [Nhà phân phối Connecticut lỗ chục triệu USD vì nạn hoàn vỏ chai](https://vnexpress.net/nha-phan-phoi-connecticut-lo-chuc-trieu-usd-vi-nan-hoan-vo-chai-5045268.html) - 17:01 01/03/2026
+- 🐵 [Nhiều thương hiệu báo hết vàng nhẫn](https://vnexpress.net/nhieu-thuong-hieu-bao-het-vang-nhan-5045350.html) - 13:01 01/03/2026
+- 🦅 [Bitcoin có thể về dưới 60.000 USD do xung đột ở Iran](https://vnexpress.net/bitcoin-co-the-ve-duoi-60-000-usd-do-xung-dot-o-iran-5045308.html) - 09:34 01/03/2026
+- 😺 [Giá vàng có thể vượt 5.500 USD tuần tới sau khi Mỹ - Israel tấn công Iran](https://vnexpress.net/gia-vang-co-the-vuot-5-500-usd-tuan-toi-sau-khi-my-israel-tan-cong-iran-5045237.html) - 03:36 01/03/2026
+- 🤩 [Nguy cơ khủng hoảng giá dầu khi eo biển Hormuz đóng cửa](https://vnexpress.net/nguy-co-khung-hoang-gia-dau-khi-eo-bien-hormuz-dong-cua-5045185.html) - 02:10 01/03/2026
+- 🌮 [Phép thử của Chủ tịch Burger King sau hai tuần trực điện thoại](https://vnexpress.net/phep-thu-cua-chu-tich-burger-king-sau-hai-tuan-truc-dien-thoai-5045106.html) - 22:03 28/02/2026
+- 🧰 [Người Nhật chi hơn 6.000 tỷ đồng mua rau quả Việt](https://vnexpress.net/nguoi-nhat-chi-hon-6-000-ty-dong-mua-rau-qua-viet-5044980.html) - 17:29 28/02/2026
+- 🤔 [Xung đột ở Iran có thể đẩy giá dầu, vàng, USD cùng tăng](https://vnexpress.net/xung-dot-o-iran-co-the-day-gia-dau-vang-usd-cung-tang-5045140.html) - 17:03 28/02/2026
 - 🧑‍💻 [T&amp;amp;T Group đề xuất loạt dự án ở Đắk Lắk](https://vnexpress.net/t-t-group-de-xuat-loat-du-an-o-dak-lak-5045097.html) - 12:00 28/02/2026
 - 🕴 [VinFast xây nhà máy xe điện hơn 13.000 tỷ đồng tại Hà Tĩnh](https://vnexpress.net/vinfast-xay-nha-may-xe-dien-hon-13-000-ty-dong-tai-ha-tinh-5045096.html) - 10:45 28/02/2026
 - 🦩 [Xuất khẩu dầu của Iran tăng vọt trước khi bị tấn công](https://vnexpress.net/xuat-khau-dau-cua-iran-tang-vot-truoc-khi-bi-tan-cong-5045093.html) - 10:04 28/02/2026
