@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt kể cảnh mắc kẹt tại Trung Đông vì chiến sự](https://vnexpress.net/khach-viet-ke-canh-mac-ket-tai-trung-dong-vi-chien-su-5045368.html) - 14:38 01/03/2026
+- 💂 [Khách Việt kể tình cảnh mắc kẹt tại Trung Đông vì chiến sự](https://vnexpress.net/khach-viet-ke-tinh-canh-mac-ket-tai-trung-dong-vi-chien-su-5045368.html) - 14:38 01/03/2026
 - 🪄 [UAE có bao nhiêu tiểu vương quốc?](https://vnexpress.net/uae-co-bao-nhieu-tieu-vuong-quoc-5045314.html) - 12:00 01/03/2026
 - 🦅 [Khách sạn biểu tượng của Dubai cháy do trúng mảnh vỡ từ drone Iran](https://vnexpress.net/khach-san-bieu-tuong-cua-dubai-chay-do-trung-manh-vo-tu-drone-iran-5045243.html) - 04:13 01/03/2026
 - 🕴 [Nhiều nước đồng loạt phát cảnh báo khách không đến Trung Đông](https://vnexpress.net/nhieu-nuoc-dong-loat-phat-canh-bao-khach-khong-den-trung-dong-5045222.html) - 03:53 01/03/2026
