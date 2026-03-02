@@ -4,63 +4,63 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Nộp phạt vi phạm giao thông trễ có sao không?](https://dantri.com.vn/ban-doc/nop-phat-vi-pham-giao-thong-tre-co-sao-khong-20260302070516175.htm) - 00:05 02/03/2026
-- 🤓 [Điểm tuần: Tranh cãi chuyện nghe nhạc, dùng điện thoại khi lái ô tô, xe máy](https://dantri.com.vn/ban-doc/diem-tuan-tranh-cai-chuyen-nghe-nhac-dung-dien-thoai-khi-lai-o-to-xe-may-20260301094030862.htm) - 03:53 01/03/2026
-- 🐻 [10 lý do nên tránh đi lễ ngay sau Tết](https://dantri.com.vn/ban-doc/10-ly-do-nen-tranh-di-le-ngay-sau-tet-20260301073855283.htm) - 01:30 01/03/2026
-- 🏊 [Đô vật tử vong tại hội làng Hà Nội: Vấn đề pháp lý mấu chốt là gì?](https://dantri.com.vn/ban-doc/do-vat-tu-vong-tai-hoi-lang-ha-noi-van-de-phap-ly-mau-chot-la-gi-20260228120442571.htm) - 10:48 28/02/2026
-- 💄 [Trên thế giới vẫn nghe nhạc khi lái xe, tại sao về Việt Nam lại phải cấm?](https://dantri.com.vn/ban-doc/tren-the-gioi-van-nghe-nhac-khi-lai-xe-tai-sao-ve-viet-nam-lai-phai-cam-20260226174509906.htm) - 03:37 28/02/2026
-- 🫣 [Vụ ăn bát phở ở sân bay giá 346.000 đồng: Tranh luận về niêm yết bằng USD](https://dantri.com.vn/ban-doc/vu-an-bat-pho-o-san-bay-gia-346000-dong-tranh-luan-ve-niem-yet-bang-usd-20260227132356735.htm) - 01:02 28/02/2026
-- 🎃 [Tài xế say xỉn gây gổ, lao xe vào đám đông có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/tai-xe-say-xin-gay-go-lao-xe-vao-dam-dong-co-the-bi-xu-ly-ra-sao-20260227183208967.htm) - 17:02 27/02/2026
-- 🦄 [Người chồng bạo hành vợ bầu, đánh con gái 13 tuổi có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/nguoi-chong-bao-hanh-vo-bau-danh-con-gai-13-tuoi-co-the-bi-xu-ly-ra-sao-20260226224105737.htm) - 01:19 27/02/2026
-- 💯 [Hà Nội: Gầm nhà ga Cầu Giấy bị trưng dụng làm bãi trông giữ ô tô, xe máy](https://dantri.com.vn/ban-doc/ha-noi-gam-nha-ga-cau-giay-bi-trung-dung-lam-bai-trong-giu-o-to-xe-may-20260226110941984.htm) - 23:15 26/02/2026
-- 🤓 [Luật sư nói về vụ cọc hơn 7 tỷ nhưng để 25ha dưa hấu thối ngoài ruộng](https://dantri.com.vn/ban-doc/luat-su-noi-ve-vu-coc-hon-7-ty-nhung-de-25ha-dua-hau-thoi-ngoai-ruong-20260226172505588.htm) - 22:30 26/02/2026
-- 🥷 [Từ vụ điều thêm ô tô chặn xe ngày Tết: Cái giá của sự ngông cuồng](https://dantri.com.vn/ban-doc/tu-vu-dieu-them-o-to-chan-xe-ngay-tet-cai-gia-cua-su-ngong-cuong-20260226144821457.htm) - 09:14 26/02/2026
-- 🐻 [Người điều thêm ô tô chặn xe ngày mùng 2 Tết đối diện khung hình phạt nào?](https://dantri.com.vn/ban-doc/nguoi-dieu-them-o-to-chan-xe-ngay-mung-2-tet-doi-dien-khung-hinh-phat-nao-20260226130333264.htm) - 06:13 26/02/2026
-- 🧑‍💻 [Nghe nhạc trên ô tô, khi nào có thể bị xử phạt?](https://dantri.com.vn/ban-doc/nghe-nhac-tren-o-to-khi-nao-co-the-bi-xu-phat-20260226093736462.htm) - 06:11 26/02/2026
-- 🏊 [Nhan nhản người sử dụng điện thoại, đeo tai nghe khi lái xe trên đường](https://dantri.com.vn/ban-doc/nhan-nhan-nguoi-su-dung-dien-thoai-deo-tai-nghe-khi-lai-xe-tren-duong-20260225185449708.htm) - 17:03 25/02/2026
-- 🦆 [Dùng tai nghe để tra Google Maps, vì sao lái xe máy vẫn bị xử phạt?](https://dantri.com.vn/ban-doc/dung-tai-nghe-de-tra-google-maps-vi-sao-lai-xe-may-van-bi-xu-phat-20260225143055477.htm) - 07:35 25/02/2026
-- 🕴 [Người phụ nữ chửi bới, ép tài xế nộp tiền có thể bị tăng nặng trách nhiệm?](https://dantri.com.vn/ban-doc/nguoi-phu-nu-chui-boi-ep-tai-xe-nop-tien-co-the-bi-tang-nang-trach-nhiem-20260225000422676.htm) - 02:43 25/02/2026
-- 🌈 [Cẩn thận khi mua vàng ngày vía Thần Tài](https://dantri.com.vn/ban-doc/can-than-khi-mua-vang-ngay-via-than-tai-20260225070016047.htm) - 01:22 25/02/2026
-- 💡 [Nghe nhạc trên ô tô không sao, đeo tai nghe khi đi xe máy lại bị phạt?](https://dantri.com.vn/ban-doc/nghe-nhac-tren-o-to-khong-sao-deo-tai-nghe-khi-di-xe-may-lai-bi-phat-20260224100500554.htm) - 23:10 24/02/2026
-- 🐻 [Trách nhiệm pháp lý vụ lật tàu 6 người chết trên hồ Thác Bà](https://dantri.com.vn/ban-doc/trach-nhiem-phap-ly-vu-lat-tau-6-nguoi-chet-tren-ho-thac-ba-20260223222453464.htm) - 01:18 24/02/2026
-- 💪 [Hết cảnh chèo kéo, thu tiền gửi xe người đi lễ chùa Phúc Khánh](https://dantri.com.vn/ban-doc/het-canh-cheo-keo-thu-tien-gui-xe-nguoi-di-le-chua-phuc-khanh-20260223202352971.htm) - 00:11 24/02/2026
-- ⛽️ [Đông khách lễ chùa, phát sinh bất cập khi gửi xe tại chùa Phúc Khánh](https://dantri.com.vn/ban-doc/dong-khach-le-chua-phat-sinh-bat-cap-khi-gui-xe-tai-chua-phuc-khanh-20260223142653787.htm) - 07:59 23/02/2026
-- 🦍 [Từ vụ thi thể trẻ sơ sinh nổi trên ao: Vứt bỏ con mới đẻ bị xử lý ra sao?](https://dantri.com.vn/ban-doc/tu-vu-thi-the-tre-so-sinh-noi-tren-ao-vut-bo-con-moi-de-bi-xu-ly-ra-sao-20260222225210281.htm) - 03:41 23/02/2026
-- 🤖 [Hóa đơn gửi ô tô 6 ngày trong bệnh viện hơn 2,7 triệu gây tranh cãi](https://dantri.com.vn/ban-doc/hoa-don-gui-o-to-6-ngay-trong-benh-vien-hon-27-trieu-gay-tranh-cai-20260222215106099.htm) - 23:39 22/02/2026
-- 🌈 [Vụ đấm tài xế rồi xin lỗi khi thấy camera: Bị hành hung bởi lý do trời ơi](https://dantri.com.vn/ban-doc/vu-dam-tai-xe-roi-xin-loi-khi-thay-camera-bi-hanh-hung-boi-ly-do-troi-oi-20260222152021216.htm) - 23:25 22/02/2026
-- 👨‍🏫 [Tạt xăng đốt, rượt chém người mùng 1 Tết: Hành vi côn đồ, tội chồng tội?](https://dantri.com.vn/ban-doc/tat-xang-dot-ruot-chem-nguoi-mung-1-tet-hanh-vi-con-do-toi-chong-toi-20260222100312463.htm) - 05:14 22/02/2026
-- 😺 [Nổ mìn mùng 2 Tết: Nghi phạm tử vong, vụ án có thể diễn biến ra sao?](https://dantri.com.vn/ban-doc/no-min-mung-2-tet-nghi-pham-tu-vong-vu-an-co-the-dien-bien-ra-sao-20260221232041550.htm) - 23:06 21/02/2026
-- 🎃 [Mua đất không giữ sổ đỏ, mất liên lạc với bên bán có sang tên được?](https://dantri.com.vn/ban-doc/mua-dat-khong-giu-so-do-mat-lien-lac-voi-ben-ban-co-sang-ten-duoc-20260221090148298.htm) - 13:54 21/02/2026
-- 🚀 [Cách gửi video và địa chỉ nhận thông tin tố giác hành vi vi phạm giao thông](https://dantri.com.vn/ban-doc/cach-gui-video-va-dia-chi-nhan-thong-tin-to-giac-hanh-vi-vi-pham-giao-thong-20260221082954609.htm) - 01:30 21/02/2026
-- 🧐 [Vụ điều ô tô chặn xe, khoe có quan hệ: &quot;Ý thức không thể mua bằng tiền&quot;](https://dantri.com.vn/ban-doc/vu-dieu-o-to-chan-xe-khoe-co-quan-he-y-thuc-khong-the-mua-bang-tien-20260219185803580.htm) - 01:39 20/02/2026
-- 🌋 [Vụ điều xe chặn đầu đuôi ô tô: Nghĩ mình có tiền nên là &quot;bố&quot; trong ngõ](https://dantri.com.vn/ban-doc/vu-dieu-xe-chan-dau-duoi-o-to-nghi-minh-co-tien-nen-la-bo-trong-ngo-20260219180750350.htm) - 12:16 19/02/2026
-- 🦏 [Nhận tiền lì xì sau Tết của sếp có phải đóng thuế TNCN?](https://dantri.com.vn/ban-doc/nhan-tien-li-xi-sau-tet-cua-sep-co-phai-dong-thue-tncn-20260218221954511.htm) - 01:13 19/02/2026
-- 🌏 [Đỗ ô tô chắn ngõ, điều thêm xe khóa đuôi còn khoe nhiều xe, công an là bạn](https://dantri.com.vn/ban-doc/do-o-to-chan-ngo-dieu-them-xe-khoa-duoi-con-khoe-nhieu-xe-cong-an-la-ban-20260218214139053.htm) - 01:00 19/02/2026
+- 🦒 [Hà Nội: Tài xế Fortuner cố tình chèn ép xe máy trên vành đai 2 gây phẫn nộ](https://dantri.com.vn/ban-doc/ha-noi-tai-xe-fortuner-co-tinh-chen-ep-xe-may-tren-vanh-dai-2-gay-phan-no-20260302104234220.htm) - 03:56 02/03/2026
+- 🤓 [Nộp phạt vi phạm giao thông trễ có sao không?](https://dantri.com.vn/ban-doc/nop-phat-vi-pham-giao-thong-tre-co-sao-khong-20260302070516175.htm) - 00:05 02/03/2026
+- 🐻 [Điểm tuần: Tranh cãi chuyện nghe nhạc, dùng điện thoại khi lái ô tô, xe máy](https://dantri.com.vn/ban-doc/diem-tuan-tranh-cai-chuyen-nghe-nhac-dung-dien-thoai-khi-lai-o-to-xe-may-20260301094030862.htm) - 03:53 01/03/2026
+- 🏊 [10 lý do nên tránh đi lễ ngay sau Tết](https://dantri.com.vn/ban-doc/10-ly-do-nen-tranh-di-le-ngay-sau-tet-20260301073855283.htm) - 01:30 01/03/2026
+- 💄 [Đô vật tử vong tại hội làng Hà Nội: Vấn đề pháp lý mấu chốt là gì?](https://dantri.com.vn/ban-doc/do-vat-tu-vong-tai-hoi-lang-ha-noi-van-de-phap-ly-mau-chot-la-gi-20260228120442571.htm) - 10:48 28/02/2026
+- 🫣 [Trên thế giới vẫn nghe nhạc khi lái xe, tại sao về Việt Nam lại phải cấm?](https://dantri.com.vn/ban-doc/tren-the-gioi-van-nghe-nhac-khi-lai-xe-tai-sao-ve-viet-nam-lai-phai-cam-20260226174509906.htm) - 03:37 28/02/2026
+- 🎃 [Vụ ăn bát phở ở sân bay giá 346.000 đồng: Tranh luận về niêm yết bằng USD](https://dantri.com.vn/ban-doc/vu-an-bat-pho-o-san-bay-gia-346000-dong-tranh-luan-ve-niem-yet-bang-usd-20260227132356735.htm) - 01:02 28/02/2026
+- 🦄 [Tài xế say xỉn gây gổ, lao xe vào đám đông có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/tai-xe-say-xin-gay-go-lao-xe-vao-dam-dong-co-the-bi-xu-ly-ra-sao-20260227183208967.htm) - 17:02 27/02/2026
+- 💯 [Người chồng bạo hành vợ bầu, đánh con gái 13 tuổi có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/nguoi-chong-bao-hanh-vo-bau-danh-con-gai-13-tuoi-co-the-bi-xu-ly-ra-sao-20260226224105737.htm) - 01:19 27/02/2026
+- 🤓 [Hà Nội: Gầm nhà ga Cầu Giấy bị trưng dụng làm bãi trông giữ ô tô, xe máy](https://dantri.com.vn/ban-doc/ha-noi-gam-nha-ga-cau-giay-bi-trung-dung-lam-bai-trong-giu-o-to-xe-may-20260226110941984.htm) - 23:15 26/02/2026
+- 🥷 [Luật sư nói về vụ cọc hơn 7 tỷ nhưng để 25ha dưa hấu thối ngoài ruộng](https://dantri.com.vn/ban-doc/luat-su-noi-ve-vu-coc-hon-7-ty-nhung-de-25ha-dua-hau-thoi-ngoai-ruong-20260226172505588.htm) - 22:30 26/02/2026
+- 🐻 [Từ vụ điều thêm ô tô chặn xe ngày Tết: Cái giá của sự ngông cuồng](https://dantri.com.vn/ban-doc/tu-vu-dieu-them-o-to-chan-xe-ngay-tet-cai-gia-cua-su-ngong-cuong-20260226144821457.htm) - 09:14 26/02/2026
+- 🧑‍💻 [Người điều thêm ô tô chặn xe ngày mùng 2 Tết đối diện khung hình phạt nào?](https://dantri.com.vn/ban-doc/nguoi-dieu-them-o-to-chan-xe-ngay-mung-2-tet-doi-dien-khung-hinh-phat-nao-20260226130333264.htm) - 06:13 26/02/2026
+- 🏊 [Nghe nhạc trên ô tô, khi nào có thể bị xử phạt?](https://dantri.com.vn/ban-doc/nghe-nhac-tren-o-to-khi-nao-co-the-bi-xu-phat-20260226093736462.htm) - 06:11 26/02/2026
+- 🦆 [Nhan nhản người sử dụng điện thoại, đeo tai nghe khi lái xe trên đường](https://dantri.com.vn/ban-doc/nhan-nhan-nguoi-su-dung-dien-thoai-deo-tai-nghe-khi-lai-xe-tren-duong-20260225185449708.htm) - 17:03 25/02/2026
+- 🕴 [Dùng tai nghe để tra Google Maps, vì sao lái xe máy vẫn bị xử phạt?](https://dantri.com.vn/ban-doc/dung-tai-nghe-de-tra-google-maps-vi-sao-lai-xe-may-van-bi-xu-phat-20260225143055477.htm) - 07:35 25/02/2026
+- 🌈 [Người phụ nữ chửi bới, ép tài xế nộp tiền có thể bị tăng nặng trách nhiệm?](https://dantri.com.vn/ban-doc/nguoi-phu-nu-chui-boi-ep-tai-xe-nop-tien-co-the-bi-tang-nang-trach-nhiem-20260225000422676.htm) - 02:43 25/02/2026
+- 💡 [Cẩn thận khi mua vàng ngày vía Thần Tài](https://dantri.com.vn/ban-doc/can-than-khi-mua-vang-ngay-via-than-tai-20260225070016047.htm) - 01:22 25/02/2026
+- 🐻 [Nghe nhạc trên ô tô không sao, đeo tai nghe khi đi xe máy lại bị phạt?](https://dantri.com.vn/ban-doc/nghe-nhac-tren-o-to-khong-sao-deo-tai-nghe-khi-di-xe-may-lai-bi-phat-20260224100500554.htm) - 23:10 24/02/2026
+- 💪 [Trách nhiệm pháp lý vụ lật tàu 6 người chết trên hồ Thác Bà](https://dantri.com.vn/ban-doc/trach-nhiem-phap-ly-vu-lat-tau-6-nguoi-chet-tren-ho-thac-ba-20260223222453464.htm) - 01:18 24/02/2026
+- ⛽️ [Hết cảnh chèo kéo, thu tiền gửi xe người đi lễ chùa Phúc Khánh](https://dantri.com.vn/ban-doc/het-canh-cheo-keo-thu-tien-gui-xe-nguoi-di-le-chua-phuc-khanh-20260223202352971.htm) - 00:11 24/02/2026
+- 🦍 [Đông khách lễ chùa, phát sinh bất cập khi gửi xe tại chùa Phúc Khánh](https://dantri.com.vn/ban-doc/dong-khach-le-chua-phat-sinh-bat-cap-khi-gui-xe-tai-chua-phuc-khanh-20260223142653787.htm) - 07:59 23/02/2026
+- 🤖 [Từ vụ thi thể trẻ sơ sinh nổi trên ao: Vứt bỏ con mới đẻ bị xử lý ra sao?](https://dantri.com.vn/ban-doc/tu-vu-thi-the-tre-so-sinh-noi-tren-ao-vut-bo-con-moi-de-bi-xu-ly-ra-sao-20260222225210281.htm) - 03:41 23/02/2026
+- 🌈 [Hóa đơn gửi ô tô 6 ngày trong bệnh viện hơn 2,7 triệu gây tranh cãi](https://dantri.com.vn/ban-doc/hoa-don-gui-o-to-6-ngay-trong-benh-vien-hon-27-trieu-gay-tranh-cai-20260222215106099.htm) - 23:39 22/02/2026
+- 👨‍🏫 [Vụ đấm tài xế rồi xin lỗi khi thấy camera: Bị hành hung bởi lý do trời ơi](https://dantri.com.vn/ban-doc/vu-dam-tai-xe-roi-xin-loi-khi-thay-camera-bi-hanh-hung-boi-ly-do-troi-oi-20260222152021216.htm) - 23:25 22/02/2026
+- 😺 [Tạt xăng đốt, rượt chém người mùng 1 Tết: Hành vi côn đồ, tội chồng tội?](https://dantri.com.vn/ban-doc/tat-xang-dot-ruot-chem-nguoi-mung-1-tet-hanh-vi-con-do-toi-chong-toi-20260222100312463.htm) - 05:14 22/02/2026
+- 🎃 [Nổ mìn mùng 2 Tết: Nghi phạm tử vong, vụ án có thể diễn biến ra sao?](https://dantri.com.vn/ban-doc/no-min-mung-2-tet-nghi-pham-tu-vong-vu-an-co-the-dien-bien-ra-sao-20260221232041550.htm) - 23:06 21/02/2026
+- 🚀 [Mua đất không giữ sổ đỏ, mất liên lạc với bên bán có sang tên được?](https://dantri.com.vn/ban-doc/mua-dat-khong-giu-so-do-mat-lien-lac-voi-ben-ban-co-sang-ten-duoc-20260221090148298.htm) - 13:54 21/02/2026
+- 🧐 [Cách gửi video và địa chỉ nhận thông tin tố giác hành vi vi phạm giao thông](https://dantri.com.vn/ban-doc/cach-gui-video-va-dia-chi-nhan-thong-tin-to-giac-hanh-vi-vi-pham-giao-thong-20260221082954609.htm) - 01:30 21/02/2026
+- 🌋 [Vụ điều ô tô chặn xe, khoe có quan hệ: &quot;Ý thức không thể mua bằng tiền&quot;](https://dantri.com.vn/ban-doc/vu-dieu-o-to-chan-xe-khoe-co-quan-he-y-thuc-khong-the-mua-bang-tien-20260219185803580.htm) - 01:39 20/02/2026
+- 🦏 [Vụ điều xe chặn đầu đuôi ô tô: Nghĩ mình có tiền nên là &quot;bố&quot; trong ngõ](https://dantri.com.vn/ban-doc/vu-dieu-xe-chan-dau-duoi-o-to-nghi-minh-co-tien-nen-la-bo-trong-ngo-20260219180750350.htm) - 12:16 19/02/2026
+- 🌏 [Nhận tiền lì xì sau Tết của sếp có phải đóng thuế TNCN?](https://dantri.com.vn/ban-doc/nhan-tien-li-xi-sau-tet-cua-sep-co-phai-dong-thue-tncn-20260218221954511.htm) - 01:13 19/02/2026
+- 🕴 [Đỗ ô tô chắn ngõ, điều thêm xe khóa đuôi còn khoe nhiều xe, công an là bạn](https://dantri.com.vn/ban-doc/do-o-to-chan-ngo-dieu-them-xe-khoa-duoi-con-khoe-nhieu-xe-cong-an-la-ban-20260218214139053.htm) - 01:00 19/02/2026
 - 🕴 [Ai được mừng thọ năm 2026?](https://dantri.com.vn/ban-doc/ai-duoc-mung-tho-nam-2026-20260218103421243.htm) - 03:48 18/02/2026
-- 🕴 [Hoan hỷ chuyện bát phở ngày Tết](https://dantri.com.vn/ban-doc/hoan-hy-chuyen-bat-pho-ngay-tet-20260216191855756.htm) - 14:13 17/02/2026
-- 🎉 [Nhớ chiếc máy casette và những bài nhạc xuân](https://dantri.com.vn/ban-doc/nho-chiec-may-casette-va-nhung-bai-nhac-xuan-20260216223743401.htm) - 17:03 16/02/2026
-- 🏊 [Chơi bài ăn tiền cùng người thân dịp Tết có bị xử lý?](https://dantri.com.vn/ban-doc/choi-bai-an-tien-cung-nguoi-than-dip-tet-co-bi-xu-ly-20260215003723675.htm) - 05:04 16/02/2026
-- 🦣 [Nữ tài xế say xỉn tông chủ tịch xã: Phía bị hại kháng cáo, vụ án sẽ ra sao?](https://dantri.com.vn/ban-doc/nu-tai-xe-say-xin-tong-chu-tich-xa-phia-bi-hai-khang-cao-vu-an-se-ra-sao-20260215220623079.htm) - 01:00 16/02/2026
-- 💫 [Ép người khác uống rượu bia dịp Tết có bị xử phạt?](https://dantri.com.vn/ban-doc/ep-nguoi-khac-uong-ruou-bia-dip-tet-co-bi-xu-phat-20260215011908144.htm) - 04:46 15/02/2026
-- 🌈 [Đừng biến Tết thành sự mệt mỏi](https://dantri.com.vn/ban-doc/dung-bien-tet-thanh-su-met-moi-20260215080953861.htm) - 01:10 15/02/2026
-- 🫣 [Khi công ty không phải sàn diễn nội y!](https://dantri.com.vn/ban-doc/khi-cong-ty-khong-phai-san-dien-noi-y-20260212110447286.htm) - 17:04 13/02/2026
-- 🎉 [Vụ cào xước Mercedes GLC200: Có được yêu cầu bồi thường cao hơn 56,3 triệu?](https://dantri.com.vn/ban-doc/vu-cao-xuoc-mercedes-glc200-co-duoc-yeu-cau-boi-thuong-cao-hon-563-trieu-20260213225347960.htm) - 17:02 13/02/2026
-- 🥸 [Chồng cấm cản không cho vợ về ngoại ăn Tết có thể bị phạt đến 10 triệu đồng](https://dantri.com.vn/ban-doc/chong-cam-can-khong-cho-vo-ve-ngoai-an-tet-co-the-bi-phat-den-10-trieu-dong-20260212005659091.htm) - 09:53 13/02/2026
-- 🦄 [Hà Nội cho đi một món quà đầu xuân: Miễn phí tàu điện, xuyên Tết lên phố](https://dantri.com.vn/ban-doc/ha-noi-cho-di-mot-mon-qua-dau-xuan-mien-phi-tau-dien-xuyen-tet-len-pho-20260213151632454.htm) - 08:17 13/02/2026
-- 🌜 [Nam sinh lớp 9 bị đánh tử vong và sự thờ ơ tới đau lòng của cộng đồng](https://dantri.com.vn/ban-doc/nam-sinh-lop-9-bi-danh-tu-vong-va-su-tho-o-toi-dau-long-cua-cong-dong-20260212134936775.htm) - 07:47 13/02/2026
-- 🎉 [Dấu hiệu hình sự vụ dọa giết mèo để đòi 7,5 triệu đồng tiền chuộc](https://dantri.com.vn/ban-doc/dau-hieu-hinh-su-vu-doa-giet-meo-de-doi-75-trieu-dong-tien-chuoc-20260212172654944.htm) - 01:58 13/02/2026
-- 🦄 [Thu gom rác bằng phương thức thủ công đã không còn phù hợp!](https://dantri.com.vn/ban-doc/thu-gom-rac-bang-phuong-thuc-thu-cong-da-khong-con-phu-hop-20260212092206582.htm) - 04:52 12/02/2026
-- 🧰 [&quot;Bỏ làn dừng khẩn cấp trên đường vành đai 3 sẽ giúp giảm ùn tắc&quot;](https://dantri.com.vn/ban-doc/bo-lan-dung-khan-cap-tren-duong-vanh-dai-3-se-giup-giam-un-tac-20260212002036651.htm) - 23:11 11/02/2026
-- 🤡 [Vụ đánh chết nam sinh lớp 9: Bị can dưới 18 tuổi, biện pháp xử lý ra sao?](https://dantri.com.vn/ban-doc/vu-danh-chet-nam-sinh-lop-9-bi-can-duoi-18-tuoi-bien-phap-xu-ly-ra-sao-20260210231355803.htm) - 23:44 10/02/2026
-- 💫 [Vụ đánh tử vong nam sinh lớp 9: Đối tượng là học sinh, xử lý ra sao?](https://dantri.com.vn/ban-doc/vu-danh-tu-vong-nam-sinh-lop-9-doi-tuong-la-hoc-sinh-xu-ly-ra-sao-20260210115511464.htm) - 07:43 10/02/2026
-- 🦏 [Hậu quả khôn lường từ việc phát tán tài liệu khiêu dâm để thu lợi](https://dantri.com.vn/ban-doc/hau-qua-khon-luong-tu-viec-phat-tan-tai-lieu-khieu-dam-de-thu-loi-20260210090315772.htm) - 02:11 10/02/2026
-- 🧠 [13 năm tôi không đốt vàng mã và những &quot;nghiệm sinh&quot; rất đời](https://dantri.com.vn/ban-doc/13-nam-toi-khong-dot-vang-ma-va-nhung-nghiem-sinh-rat-doi-20260209191333532.htm) - 23:14 09/02/2026
-- 🫶 [Bạn đọc tranh luận về lời khuyên của Trường Giang với Đình Bắc](https://dantri.com.vn/ban-doc/ban-doc-tranh-luan-ve-loi-khuyen-cua-truong-giang-voi-dinh-bac-20260209122641403.htm) - 05:41 09/02/2026
-- 💼 [Đốt vàng mã: Văn minh tâm linh hay sự mặc cả với thần linh?](https://dantri.com.vn/ban-doc/dot-vang-ma-van-minh-tam-linh-hay-su-mac-ca-voi-than-linh-20260209123655616.htm) - 05:37 09/02/2026
-- 👺 [Nuôi chim chào mào thế nào để không vi phạm pháp luật?](https://dantri.com.vn/ban-doc/nuoi-chim-chao-mao-the-nao-de-khong-vi-pham-phap-luat-20260207135614546.htm) - 23:51 08/02/2026
-- 🥳 [Điểm tuần: Hai kẻ cướp ngân hàng &quot;sa lưới&quot;](https://dantri.com.vn/ban-doc/diem-tuan-hai-ke-cuop-ngan-hang-sa-luoi-20260207172235413.htm) - 17:07 07/02/2026
-- 🦄 [Người dân kỳ vọng gì ở 5 tuyến phố cảnh quan Hà Nội?](https://dantri.com.vn/ban-doc/nguoi-dan-ky-vong-gi-o-5-tuyen-pho-canh-quan-ha-noi-20260207211429801.htm) - 17:06 07/02/2026
-- 🎡 [Chưa ly hôn xong đã cưới vợ mới, chồng có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/chua-ly-hon-xong-da-cuoi-vo-moi-chong-co-the-bi-xu-ly-ra-sao-20260207165347564.htm) - 17:03 07/02/2026
+- 🎉 [Hoan hỷ chuyện bát phở ngày Tết](https://dantri.com.vn/ban-doc/hoan-hy-chuyen-bat-pho-ngay-tet-20260216191855756.htm) - 14:13 17/02/2026
+- 🏊 [Nhớ chiếc máy casette và những bài nhạc xuân](https://dantri.com.vn/ban-doc/nho-chiec-may-casette-va-nhung-bai-nhac-xuan-20260216223743401.htm) - 17:03 16/02/2026
+- 🦣 [Chơi bài ăn tiền cùng người thân dịp Tết có bị xử lý?](https://dantri.com.vn/ban-doc/choi-bai-an-tien-cung-nguoi-than-dip-tet-co-bi-xu-ly-20260215003723675.htm) - 05:04 16/02/2026
+- 💫 [Nữ tài xế say xỉn tông chủ tịch xã: Phía bị hại kháng cáo, vụ án sẽ ra sao?](https://dantri.com.vn/ban-doc/nu-tai-xe-say-xin-tong-chu-tich-xa-phia-bi-hai-khang-cao-vu-an-se-ra-sao-20260215220623079.htm) - 01:00 16/02/2026
+- 🌈 [Ép người khác uống rượu bia dịp Tết có bị xử phạt?](https://dantri.com.vn/ban-doc/ep-nguoi-khac-uong-ruou-bia-dip-tet-co-bi-xu-phat-20260215011908144.htm) - 04:46 15/02/2026
+- 🫣 [Đừng biến Tết thành sự mệt mỏi](https://dantri.com.vn/ban-doc/dung-bien-tet-thanh-su-met-moi-20260215080953861.htm) - 01:10 15/02/2026
+- 🎉 [Khi công ty không phải sàn diễn nội y!](https://dantri.com.vn/ban-doc/khi-cong-ty-khong-phai-san-dien-noi-y-20260212110447286.htm) - 17:04 13/02/2026
+- 🥸 [Vụ cào xước Mercedes GLC200: Có được yêu cầu bồi thường cao hơn 56,3 triệu?](https://dantri.com.vn/ban-doc/vu-cao-xuoc-mercedes-glc200-co-duoc-yeu-cau-boi-thuong-cao-hon-563-trieu-20260213225347960.htm) - 17:02 13/02/2026
+- 🦄 [Chồng cấm cản không cho vợ về ngoại ăn Tết có thể bị phạt đến 10 triệu đồng](https://dantri.com.vn/ban-doc/chong-cam-can-khong-cho-vo-ve-ngoai-an-tet-co-the-bi-phat-den-10-trieu-dong-20260212005659091.htm) - 09:53 13/02/2026
+- 🌜 [Hà Nội cho đi một món quà đầu xuân: Miễn phí tàu điện, xuyên Tết lên phố](https://dantri.com.vn/ban-doc/ha-noi-cho-di-mot-mon-qua-dau-xuan-mien-phi-tau-dien-xuyen-tet-len-pho-20260213151632454.htm) - 08:17 13/02/2026
+- 🎉 [Nam sinh lớp 9 bị đánh tử vong và sự thờ ơ tới đau lòng của cộng đồng](https://dantri.com.vn/ban-doc/nam-sinh-lop-9-bi-danh-tu-vong-va-su-tho-o-toi-dau-long-cua-cong-dong-20260212134936775.htm) - 07:47 13/02/2026
+- 🦄 [Dấu hiệu hình sự vụ dọa giết mèo để đòi 7,5 triệu đồng tiền chuộc](https://dantri.com.vn/ban-doc/dau-hieu-hinh-su-vu-doa-giet-meo-de-doi-75-trieu-dong-tien-chuoc-20260212172654944.htm) - 01:58 13/02/2026
+- 🧰 [Thu gom rác bằng phương thức thủ công đã không còn phù hợp!](https://dantri.com.vn/ban-doc/thu-gom-rac-bang-phuong-thuc-thu-cong-da-khong-con-phu-hop-20260212092206582.htm) - 04:52 12/02/2026
+- 🤡 [&quot;Bỏ làn dừng khẩn cấp trên đường vành đai 3 sẽ giúp giảm ùn tắc&quot;](https://dantri.com.vn/ban-doc/bo-lan-dung-khan-cap-tren-duong-vanh-dai-3-se-giup-giam-un-tac-20260212002036651.htm) - 23:11 11/02/2026
+- 💫 [Vụ đánh chết nam sinh lớp 9: Bị can dưới 18 tuổi, biện pháp xử lý ra sao?](https://dantri.com.vn/ban-doc/vu-danh-chet-nam-sinh-lop-9-bi-can-duoi-18-tuoi-bien-phap-xu-ly-ra-sao-20260210231355803.htm) - 23:44 10/02/2026
+- 🦏 [Vụ đánh tử vong nam sinh lớp 9: Đối tượng là học sinh, xử lý ra sao?](https://dantri.com.vn/ban-doc/vu-danh-tu-vong-nam-sinh-lop-9-doi-tuong-la-hoc-sinh-xu-ly-ra-sao-20260210115511464.htm) - 07:43 10/02/2026
+- 🧠 [Hậu quả khôn lường từ việc phát tán tài liệu khiêu dâm để thu lợi](https://dantri.com.vn/ban-doc/hau-qua-khon-luong-tu-viec-phat-tan-tai-lieu-khieu-dam-de-thu-loi-20260210090315772.htm) - 02:11 10/02/2026
+- 🫶 [13 năm tôi không đốt vàng mã và những &quot;nghiệm sinh&quot; rất đời](https://dantri.com.vn/ban-doc/13-nam-toi-khong-dot-vang-ma-va-nhung-nghiem-sinh-rat-doi-20260209191333532.htm) - 23:14 09/02/2026
+- 💼 [Bạn đọc tranh luận về lời khuyên của Trường Giang với Đình Bắc](https://dantri.com.vn/ban-doc/ban-doc-tranh-luan-ve-loi-khuyen-cua-truong-giang-voi-dinh-bac-20260209122641403.htm) - 05:41 09/02/2026
+- 👺 [Đốt vàng mã: Văn minh tâm linh hay sự mặc cả với thần linh?](https://dantri.com.vn/ban-doc/dot-vang-ma-van-minh-tam-linh-hay-su-mac-ca-voi-than-linh-20260209123655616.htm) - 05:37 09/02/2026
+- 🥳 [Nuôi chim chào mào thế nào để không vi phạm pháp luật?](https://dantri.com.vn/ban-doc/nuoi-chim-chao-mao-the-nao-de-khong-vi-pham-phap-luat-20260207135614546.htm) - 23:51 08/02/2026
+- 🦄 [Điểm tuần: Hai kẻ cướp ngân hàng &quot;sa lưới&quot;](https://dantri.com.vn/ban-doc/diem-tuan-hai-ke-cuop-ngan-hang-sa-luoi-20260207172235413.htm) - 17:07 07/02/2026
+- 🎡 [Người dân kỳ vọng gì ở 5 tuyến phố cảnh quan Hà Nội?](https://dantri.com.vn/ban-doc/nguoi-dan-ky-vong-gi-o-5-tuyen-pho-canh-quan-ha-noi-20260207211429801.htm) - 17:06 07/02/2026
+- 💫 [Chưa ly hôn xong đã cưới vợ mới, chồng có thể bị xử lý ra sao?](https://dantri.com.vn/ban-doc/chua-ly-hon-xong-da-cuoi-vo-moi-chong-co-the-bi-xu-ly-ra-sao-20260207165347564.htm) - 17:03 07/02/2026
 - 💫 [Nhiều di tích ở phố cổ Hà Nội bị xâm lấn, chiếm dụng](https://dantri.com.vn/ban-doc/nhieu-di-tich-o-pho-co-ha-noi-bi-xam-lan-chiem-dung-20260207113731906.htm) - 06:04 07/02/2026
-- 💫 [Số phận pháp lý của hai kẻ cướp ngân hàng sẽ ra sao?](https://dantri.com.vn/ban-doc/so-phan-phap-ly-cua-hai-ke-cuop-ngan-hang-se-ra-sao-20260206175938355.htm) - 01:15 07/02/2026
-- 💪 [Trách nhiệm pháp lý của tài xế tông tử vong CSGT ở Thái Nguyên](https://dantri.com.vn/ban-doc/trach-nhiem-phap-ly-cua-tai-xe-tong-tu-vong-csgt-o-thai-nguyen-20260206115456122.htm) - 06:51 06/02/2026<!-- dantri-ban-doc:END -->
+- 💪 [Số phận pháp lý của hai kẻ cướp ngân hàng sẽ ra sao?](https://dantri.com.vn/ban-doc/so-phan-phap-ly-cua-hai-ke-cuop-ngan-hang-se-ra-sao-20260206175938355.htm) - 01:15 07/02/2026<!-- dantri-ban-doc:END -->
