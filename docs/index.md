@@ -199,18 +199,18 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [Michael Jackson tiếp tục bị cáo buộc thao túng và xâm hại trẻ em](https://thanhnien.vn/michael-jackson-tiep-tuc-bi-cao-buoc-thao-tung-va-xam-hai-tre-em-185260302154716272.htm) - 10:08 02/03/2026
 - 🧐 [Xổ số miền Nam ngày 2 tháng 3: Vé trúng độc đắc đài Cà Mau rinh thêm giải](https://thanhnien.vn/xo-so-mien-nam-ngay-2-thang-3-ve-trung-doc-dac-dai-ca-mau-rinh-them-giai-185260302165450543.htm) - 10:07 02/03/2026
 - 🌊 [Toàn cảnh 17h: Hoa hậu Gia Hân kể việc trốn hầm trú ẩn ở Dubai | Bịt kín mặt đi tạt sơn tiệm vàng](https://thanhnien.vn/toan-canh-17h-hoa-hau-gia-han-ke-viec-tron-ham-tru-an-o-dubai-bit-kin-mat-di-tat-son-tiem-vang-185260302160801549.htm) - 10:00 02/03/2026
-- 🧑‍🏫 [Diễn viên từ chối phim tết của Trấn Thành đóng chính phim mới](https://thanhnien.vn/dien-vien-tu-choi-phim-tet-cua-tran-thanh-dong-chinh-phim-moi-185260302155519847.htm) - 09:53 02/03/2026
-- 🫣 [TP.HCM tìm nhà đầu tư chiến lược cho siêu cảng tỉ USD Cần Giờ](https://thanhnien.vn/tphcm-tim-nha-dau-tu-chien-luoc-cho-sieu-cang-ti-usd-can-gio-185260302165005353.htm) - 09:52 02/03/2026
-- 👺 [22 tỉnh, thành phố chịu ảnh hưởng của không khí lạnh cực đoan](https://thanhnien.vn/22-tinh-thanh-pho-chiu-anh-huong-cua-khong-khi-lanh-cuc-doan-185260302163832818.htm) - 09:52 02/03/2026
-- 🧑‍🏫 [Angelababy đang hẹn hò bạn trai cũ của Phạm Băng Băng?](https://thanhnien.vn/angelababy-dang-hen-ho-ban-trai-cu-cua-pham-bang-bang-185260302132839738.htm) - 09:34 02/03/2026
-- 🌊 [Bầu cử Quốc hội: Kỳ vọng từ chương trình hành động của ứng cử viên Đà Nẵng](https://thanhnien.vn/bau-cu-quoc-hoi-ky-vong-tu-chuong-trinh-hanh-dong-cua-ung-cu-vien-da-nang-185260302124816626.htm) - 09:33 02/03/2026
-- 🕯 [Lịch cúp nước 9 phường ở TP.HCM từ tối nay đến ngày 5.3](https://thanhnien.vn/lich-cup-nuoc-9-phuong-o-tphcm-tu-toi-nay-den-ngay-53-185260302162014669.htm) - 09:29 02/03/2026
-- 🐲 [Học sinh 149 trường THPT xét vào ĐH Quốc gia TP.HCM được cộng tối đa 5 điểm](https://thanhnien.vn/hoc-sinh-149-truong-thpt-xet-vao-dh-quoc-gia-tphcm-duoc-cong-toi-da-5-diem-185260302160226414.htm) - 09:26 02/03/2026
-- ⛽️ [Dừng đưa lao động Việt sang Trung Đông](https://thanhnien.vn/dung-dua-lao-dong-viet-sang-trung-dong-185260302153155986.htm) - 09:26 02/03/2026
-- 🎉 [Rà soát toàn bộ tàu du lịch vịnh Hạ Long](https://thanhnien.vn/ra-soat-toan-bo-tau-du-lich-vinh-ha-long-185260302151606271.htm) - 09:25 02/03/2026
-- 🎊 [Việt Nam lần đầu dùng robot mổ điều trị phổi biệt lập thành công](https://thanhnien.vn/viet-nam-lan-dau-dung-robot-mo-dieu-tri-phoi-biet-lap-thanh-cong-185260302160749881.htm) - 09:23 02/03/2026
-- 🥳 [Bác sĩ ơi: Vì sao không nên sử dụng dịch vụ truyền trắng da?](https://thanhnien.vn/bac-si-oi-vi-sao-khong-nen-su-dung-dich-vu-truyen-trang-da-185260302133751629.htm) - 09:15 02/03/2026
-- 🤡 [Giá gạo ngon nhất thế giới bất ngờ giảm mạnh vì sao?](https://thanhnien.vn/gia-gao-ngon-nhat-the-gioi-bat-ngo-giam-manh-vi-sao-185260302155858762.htm) - 09:12 02/03/2026<!-- thanhnien:END -->
+- 🧑‍🏫 [TP.HCM tìm nhà đầu tư chiến lược cho siêu cảng tỉ USD Cần Giờ](https://thanhnien.vn/tphcm-tim-nha-dau-tu-chien-luoc-cho-sieu-cang-ti-usd-can-gio-185260302165005353.htm) - 09:52 02/03/2026
+- 🫣 [22 tỉnh, thành phố chịu ảnh hưởng của không khí lạnh cực đoan](https://thanhnien.vn/22-tinh-thanh-pho-chiu-anh-huong-cua-khong-khi-lanh-cuc-doan-185260302163832818.htm) - 09:52 02/03/2026
+- 👺 [Angelababy đang hẹn hò bạn trai cũ của Phạm Băng Băng?](https://thanhnien.vn/angelababy-dang-hen-ho-ban-trai-cu-cua-pham-bang-bang-185260302132839738.htm) - 09:34 02/03/2026
+- 🧑‍🏫 [Bầu cử Quốc hội: Kỳ vọng từ chương trình hành động của ứng cử viên Đà Nẵng](https://thanhnien.vn/bau-cu-quoc-hoi-ky-vong-tu-chuong-trinh-hanh-dong-cua-ung-cu-vien-da-nang-185260302124816626.htm) - 09:33 02/03/2026
+- 🌊 [Lịch cúp nước 9 phường ở TP.HCM từ tối nay đến ngày 5.3](https://thanhnien.vn/lich-cup-nuoc-9-phuong-o-tphcm-tu-toi-nay-den-ngay-53-185260302162014669.htm) - 09:29 02/03/2026
+- 🕯 [Học sinh 149 trường THPT xét vào ĐH Quốc gia TP.HCM được cộng tối đa 5 điểm](https://thanhnien.vn/hoc-sinh-149-truong-thpt-xet-vao-dh-quoc-gia-tphcm-duoc-cong-toi-da-5-diem-185260302160226414.htm) - 09:26 02/03/2026
+- 🐲 [Dừng đưa lao động Việt sang Trung Đông](https://thanhnien.vn/dung-dua-lao-dong-viet-sang-trung-dong-185260302153155986.htm) - 09:26 02/03/2026
+- ⛽️ [Rà soát toàn bộ tàu du lịch vịnh Hạ Long](https://thanhnien.vn/ra-soat-toan-bo-tau-du-lich-vinh-ha-long-185260302151606271.htm) - 09:25 02/03/2026
+- 🎉 [Việt Nam lần đầu dùng robot mổ điều trị phổi biệt lập thành công](https://thanhnien.vn/viet-nam-lan-dau-dung-robot-mo-dieu-tri-phoi-biet-lap-thanh-cong-185260302160749881.htm) - 09:23 02/03/2026
+- 🎊 [Bác sĩ ơi: Vì sao không nên sử dụng dịch vụ truyền trắng da?](https://thanhnien.vn/bac-si-oi-vi-sao-khong-nen-su-dung-dich-vu-truyen-trang-da-185260302133751629.htm) - 09:15 02/03/2026
+- 🥳 [Giá gạo ngon nhất thế giới bất ngờ giảm mạnh vì sao?](https://thanhnien.vn/gia-gao-ngon-nhat-the-gioi-bat-ngo-giam-manh-vi-sao-185260302155858762.htm) - 09:12 02/03/2026
+- 🤡 [Thí điểm phát triển nhà ở thương mại giá phù hợp](https://thanhnien.vn/thi-diem-phat-trien-nha-o-thuong-mai-gia-phu-hop-18526030215402336.htm) - 09:11 02/03/2026<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
