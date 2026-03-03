@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [VN-Index thường ra sao khi thế giới có chiến sự?](https://vnexpress.net/vn-index-thuong-ra-sao-khi-the-gioi-co-chien-su-5046078.html) - 07:00 03/03/2026
 - 🔥 [Anh nguy cơ lỡ mục tiêu Net Zero khi trung tâm dữ liệu quá ngốn điện](https://vnexpress.net/anh-nguy-co-lo-muc-tieu-net-zero-khi-trung-tam-du-lieu-qua-ngon-dien-5045889.html) - 05:30 03/03/2026
 - 🐵 [Vận tải toàn cầu gián đoạn vì hàng trăm tàu kẹt ở eo biển Hormuz](https://vnexpress.net/van-tai-toan-cau-gian-doan-vi-hang-tram-tau-ket-o-eo-bien-hormuz-5046014.html) - 04:38 03/03/2026
-- 🦅 [Giá vàng miếng giảm 1,5 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-3-5046010.html) - 03:21 03/03/2026
+- 🦅 [Giá vàng miếng giảm gần 3 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-3-5046010.html) - 03:21 03/03/2026
 - 😺 [Ông Nguyễn Đức Thụy làm Tổng giám đốc Sacombank](https://vnexpress.net/ong-nguyen-duc-thuy-lam-tong-giam-doc-sacombank-5045986.html) - 03:00 03/03/2026
 - 🤩 [Giá vàng thế giới bật tăng, chứng khoán châu Á đỏ lửa](https://vnexpress.net/gia-vang-the-gioi-bat-tang-chung-khoan-chau-a-do-lua-5045913.html) - 01:17 03/03/2026
 - 🌮 [Kinh tế Iran thiệt hại nặng vì chiến sự, lệnh trừng phạt](https://vnexpress.net/kinh-te-iran-thiet-hai-nang-vi-chien-su-lenh-trung-phat-5045626.html) - 23:00 02/03/2026
