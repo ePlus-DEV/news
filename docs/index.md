@@ -520,7 +520,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Mời bạn đón đọc Nhi Đồng TP.HCM 10, phát hành 6-3-2026: Khi lớp mình là thế giới diệu kỳ…](https://muctim.tuoitre.vn/moi-ban-don-doc-nhi-dong-tphcm-10-phat-hanh-6-3-2026-khi-lop-minh-la-the-gioi-dieu-ky-101260227203351349.htm) - 09:57 03/03/2026
-- 🥷 [Toàn cảnh nguyệt thực toàn phần tối 3-3](https://muctim.tuoitre.vn/toan-canh-nguyet-thuc-toan-phan-toi-3-3-101260303163518391.htm) - 09:56 03/03/2026
+- 🥷 [Trực tiếp nguyệt thực toàn phần tối 3-3: pha toàn phần bắt đầu](https://muctim.tuoitre.vn/toan-canh-nguyet-thuc-toan-phan-toi-3-3-101260303163518391.htm) - 09:56 03/03/2026
 - 🤖 [Thanh tân của anh trai Vương Bình lập thành tích ấn tượng trên mọi nền tảng](https://muctim.tuoitre.vn/thanh-tan-cua-anh-trai-vuong-binh-lap-thanh-tich-an-tuong-tren-moi-nen-tang-10126030316361271.htm) - 09:46 03/03/2026
 - 🤓 [AFC hoãn trận đấu của Al Nassr tại Champions League Two](https://muctim.tuoitre.vn/afc-hoan-tran-dau-cua-al-nassr-tai-champions-league-two-101260303161320469.htm) - 09:45 03/03/2026
 - 🎉 [Xem hiện tượng nguyệt thực toàn phần ở đâu tại TP.HCM?](https://muctim.tuoitre.vn/xem-hien-tuong-nguyet-thuc-toan-phan-o-dau-tai-tphcm-101260303161428485.htm) - 09:44 03/03/2026
