@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Bầu Đức muốn mua 5 triệu cổ phiếu HAG](https://vnexpress.net/bau-duc-muon-mua-5-trieu-co-phieu-hag-5046479.html) - 05:49 04/03/2026
 - 🐲 [Chứng khoán Hàn Quốc &#39;ngắt cầu dao&#39; khi giảm hơn 12%](https://vnexpress.net/chung-khoan-han-quoc-ngat-cau-dao-khi-giam-hon-12-5046480.html) - 04:33 04/03/2026
 - 🔥 [Ông Trump dọa cắt đứt quan hệ thương mại với Tây Ban Nha](https://vnexpress.net/ong-trump-doa-cat-dut-quan-he-thuong-mai-voi-tay-ban-nha-5046418.html) - 03:42 04/03/2026
-- 🐵 [Giá vàng miếng giảm 4 triệu đồng](https://vnexpress.net/gia-vang-mieng-giam-4-trieu-dong-5046407.html) - 02:36 04/03/2026
+- 🐵 [Giá vàng miếng giảm 4 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-4-3-5046407.html) - 02:36 04/03/2026
 - 🦅 [Doanh nghiệp lo thiếu nguồn cung xăng dầu vì bất ổn ở Trung Đông](https://vnexpress.net/doanh-nghiep-lo-thieu-nguon-cung-xang-dau-vi-bat-on-o-trung-dong-5046263.html) - 23:00 03/03/2026
 - 😺 [Căng thẳng eo biển Hormuz có nguy cơ đe dọa kinh tế châu Á](https://vnexpress.net/cang-thang-eo-bien-hormuz-co-nguy-co-de-doa-kinh-te-chau-a-5046102.html) - 22:00 03/03/2026
 - 🤩 [Nhiều chuyến bay thẳng Việt Nam sang châu Âu &#39;cháy vé&#39;](https://vnexpress.net/nhieu-chuyen-bay-thang-viet-nam-sang-chau-au-chay-ve-5046120.html) - 19:05 03/03/2026
