@@ -6,9 +6,9 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Phản ứng của Tổng thống Mỹ Donald Trump khi tuyển Iran dọa bỏ World Cup](https://dantri.com.vn/the-thao/phan-ung-cua-tong-thong-my-donald-trump-khi-tuyen-iran-doa-bo-world-cup-20260304190234560.htm) - 12:03 04/03/2026
 - 💯 [Vạn Sự tỏa sáng phút bù giờ, tuyển nữ Việt Nam hạ Ấn Độ nghẹt thở](https://dantri.com.vn/the-thao/van-su-toa-sang-phut-bu-gio-tuyen-nu-viet-nam-ha-an-do-nghet-tho-20260304174001750.htm) - 10:40 04/03/2026
-- ⛽️ [Báo Ấn Độ nhận xét về sức mạnh của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/bao-an-do-nhan-xet-ve-suc-manh-cua-tuyen-nu-viet-nam-20260304154921279.htm) - 08:49 04/03/2026
-- 💃 [Cựu tiền đạo đội tuyển Việt Nam qua đời ở tuổi 49](https://dantri.com.vn/the-thao/cuu-tien-dao-doi-tuyen-viet-nam-qua-doi-o-tuoi-49-20260304152742428.htm) - 08:33 04/03/2026
-- 🌈 [Nhật Bản giành chiến thắng nhọc nhằn ở bảng đấu của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/nhat-ban-gianh-chien-thang-nhoc-nhan-o-bang-dau-cua-tuyen-nu-viet-nam-20260304144502726.htm) - 07:45 04/03/2026
+- ⛽️ [Cựu tiền đạo đội tuyển Việt Nam qua đời ở tuổi 49](https://dantri.com.vn/the-thao/cuu-tien-dao-doi-tuyen-viet-nam-qua-doi-o-tuoi-49-20260304152742428.htm) - 08:33 04/03/2026
+- 💃 [Nhật Bản giành chiến thắng nhọc nhằn ở bảng đấu của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/nhat-ban-gianh-chien-thang-nhoc-nhan-o-bang-dau-cua-tuyen-nu-viet-nam-20260304144502726.htm) - 07:45 04/03/2026
+- 🌈 [Báo Ấn Độ nhận xét về sức mạnh của tuyển nữ Việt Nam](https://dantri.com.vn/the-thao/bao-an-do-nhan-xet-ve-suc-manh-cua-tuyen-nu-viet-nam-20260304154921279.htm) - 07:41 04/03/2026
 - 🦅 [Al Nassr ra thông báo đặc biệt về tình trạng của C.Ronaldo](https://dantri.com.vn/the-thao/al-nassr-ra-thong-bao-dac-biet-ve-tinh-trang-cua-cronaldo-20260304123811006.htm) - 05:40 04/03/2026
 - 🌝 [Xem trực tiếp trận tuyển nữ Việt Nam gặp Ấn Độ ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-an-do-o-dau-20260304113133022.htm) - 05:01 04/03/2026
 - 🚀 [Tuyển nữ Việt Nam - Ấn Độ &lpar;18h hôm nay&rpar;: Khởi đầu giấc mơ World Cup](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-an-do-18h-hom-nay-khoi-dau-giac-mo-world-cup-20260304094409191.htm) - 02:47 04/03/2026
