@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Iran tuyên bố &quot;kiểm soát hoàn toàn&quot; eo biển Hormuz](https://dantri.com.vn/the-gioi/iran-tuyen-bo-kiem-soat-hoan-toan-eo-bien-hormuz-20260304133353133.htm) - 06:36 04/03/2026
+- 🎭 [Israel tuyên bố lần đầu bắn hạ máy bay chiến đấu trên bầu trời Tehran](https://dantri.com.vn/the-gioi/israel-tuyen-bo-lan-dau-ban-ha-may-bay-chien-dau-tren-bau-troi-tehran-20260304133353133.htm) - 06:36 04/03/2026
 - 👨‍🏫 [Công trình điểm trường khởi động trở lại sau hơn 8 tháng bị mưa lũ chia cắt](https://dantri.com.vn/tam-long-nhan-ai/cong-trinh-diem-truong-khoi-dong-tro-lai-sau-hon-8-thang-bi-mua-lu-chia-cat-20260303163511764.htm) - 01:14 04/03/2026
 - 🌮 [Ông bà bệnh tật, cháu nội ốm đau không có tiền khám và điều trị](https://dantri.com.vn/tam-long-nhan-ai/ong-ba-benh-tat-chau-noi-om-dau-khong-co-tien-kham-va-dieu-tri-20260215191647643.htm) - 22:30 03/03/2026
 - 🕯 [Châu Âu khẩn trương sơ tán công dân khỏi Trung Đông](https://dantri.com.vn/the-gioi/chau-au-khan-truong-so-tan-cong-dan-khoi-trung-dong-20260304042801998.htm) - 21:33 03/03/2026
