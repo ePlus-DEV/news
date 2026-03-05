@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Đặc sản bánh cống Khmer bán ở ven quốc lộ](https://vnexpress.net/dac-san-banh-cong-khmer-ban-o-ven-quoc-lo-5046760.html) - 07:08 05/03/2026
+- 💂 [Lý do mang theo ruy băng đỏ khi nghỉ trong khách sạn](https://vnexpress.net/ly-do-mang-theo-ruy-bang-do-khi-nghi-trong-khach-san-5046683.html) - 08:08 05/03/2026
 - 🪄 [Vườn hoa lay ơn nở muộn hút khách check in](https://vnexpress.net/vuon-hoa-lay-on-no-muon-hut-khach-check-in-5046878.html) - 04:53 05/03/2026
 - 🦅 [Lý do Ba Na Hills hút khách miền Trung - Tây Nguyên dịp đầu năm](https://vnexpress.net/ly-do-ba-na-hills-hut-khach-mien-trung-tay-nguyen-dip-dau-nam-5046931.html) - 04:30 05/03/2026
 - 🕴 [Xuyên đêm dùng cây đập vỡ mặt trống](https://vnexpress.net/xuyen-dem-dung-cay-dap-vo-mat-trong-5046788.html) - 03:44 05/03/2026
