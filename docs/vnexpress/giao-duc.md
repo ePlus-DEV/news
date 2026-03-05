@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hơn 200 trường tiểu học &#39;trắng&#39; học sinh lớp 1](https://vnexpress.net/hon-200-truong-tieu-hoc-trang-hoc-sinh-lop-1-5046885.html) - 04:29 05/03/2026
+- 🤓 [Anh dừng visa du học ở bốn nước](https://vnexpress.net/anh-dung-visa-du-hoc-o-bon-nuoc-5046885.html) - 04:29 05/03/2026
 - 🦆 [Gần 40 trường xét điểm thi đánh giá năng lực ĐH Sư phạm Hà Nội](https://vnexpress.net/danh-sach-38-truong-dai-hoc-su-dung-diem-thi-danh-gia-nang-luc-cua-dai-hoc-su-pham-ha-noi-nam-2026-moi-nhat-5046843.html) - 03:29 05/03/2026
 - 🦩 [Thí sinh &#39;như bị đánh úp khi tuyển sinh thay đổi phút 89&#39;](https://vnexpress.net/thi-sinh-nhu-bi-danh-up-khi-tuyen-sinh-thay-doi-phut-89-5045787.html) - 01:09 05/03/2026
 - 🌮 [Đề Văn yêu cầu nhập mã captcha khiến thầy trò TP HCM bất ngờ](https://vnexpress.net/de-van-yeu-cau-nhap-ma-captcha-khien-thay-tro-tp-hcm-bat-ngo-5046710.html) - 14:21 04/03/2026
