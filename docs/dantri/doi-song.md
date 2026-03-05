@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Ấn Độ: Thang máy đột ngột vọt lên, người đàn ông bị ngã đập đầu suýt chết](https://dantri.com.vn/doi-song/an-do-thang-may-dot-ngot-vot-len-nguoi-dan-ong-bi-nga-dap-dau-suyt-chet-20260305155646562.htm) - 11:30 05/03/2026
+- 🥳 [Video về đồ vật cũ giúp nhóm sinh viên giành giải tại cuộc thi “Tết cảm ơn”](https://dantri.com.vn/doi-song/video-ve-do-vat-cu-giup-nhom-sinh-vien-gianh-giai-tai-cuoc-thi-tet-cam-on-20260305174004860.htm) - 10:51 05/03/2026
 - 🌁 [Người dân TPHCM “đút” thịt sống cho Ông Hổ cầu bình an](https://dantri.com.vn/doi-song/nguoi-dan-tphcm-dut-thit-song-cho-ong-ho-cau-binh-an-20260305171802039.htm) - 10:32 05/03/2026
 - 👀 [Tấm lòng thơm thảo của người đàn ông tật nguyền bán cà phê dạo gây xúc động](https://dantri.com.vn/doi-song/tam-long-thom-thao-cua-nguoi-dan-ong-tat-nguyen-ban-ca-phe-dao-gay-xuc-dong-20260305171337763.htm) - 10:25 05/03/2026
 - 🐻 [Lão nông Trung Quốc ví như &quot;Thần Nông&quot;, được cảnh sát bảo vệ 24/7](https://dantri.com.vn/doi-song/lao-nong-trung-quoc-vi-nhu-than-nong-duoc-canh-sat-bao-ve-247-20260305101920392.htm) - 07:16 05/03/2026
