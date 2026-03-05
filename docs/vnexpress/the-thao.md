@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [AFC &#39;nhanh chóng điều tra&#39; vụ Malaysia gian lận nhập tịch](https://vnexpress.net/afc-nhanh-chong-dieu-tra-vu-malaysia-gian-lan-nhap-tich-5047162.html) - 14:39 05/03/2026
+- 🪜 [AFC sẽ &#39;nhanh chóng điều tra&#39; vụ Malaysia gian lận nhập tịch](https://vnexpress.net/afc-se-nhanh-chong-dieu-tra-vu-malaysia-gian-lan-nhap-tich-5047162.html) - 14:39 05/03/2026
 - 🦩 [Tòa Trọng tài Thể thao bác bỏ hầu hết kháng cáo của Malaysia](https://vnexpress.net/toa-trong-tai-the-thao-bac-bo-hau-het-khang-cao-cua-malaysia-5047131.html) - 11:52 05/03/2026
 - 🧰 [Scholes xóa bài đăng ví Man Utd như &#39;đống phân&#39;](https://vnexpress.net/scholes-xoa-bai-dang-vi-man-utd-nhu-dong-phan-5047108.html) - 11:39 05/03/2026
 - 🤗 [Trung Quốc mời Việt Nam thay Iran dự giải U23](https://vnexpress.net/trung-quoc-moi-viet-nam-thay-iran-du-giai-u23-5047081.html) - 09:35 05/03/2026
