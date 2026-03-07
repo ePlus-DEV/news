@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ôtô cháy ngùn ngụt trước khu dân cư ở TP HCM](https://vnexpress.net/oto-chay-ngun-ngut-truoc-khu-dan-cu-o-tp-hcm-5047824.html) - 14:50 07/03/2026
 - 🤓 [Miền Bắc trải qua mùa đông ấm](https://vnexpress.net/mien-bac-trai-qua-mua-dong-am-5046651.html) - 12:41 07/03/2026
-- ⚗️ [Ôtô rơi xuống vực sâu 200 mét trên đèo Vi Ô Lắc](https://vnexpress.net/oto-roi-xuong-vuc-sau-200-met-tren-deo-vi-o-lac-5047803.html) - 12:28 07/03/2026
+- ⚗️ [Ôtô chở 3 người lao xuống vực sâu 200 m](https://vnexpress.net/oto-cho-3-nguoi-lao-xuong-vuc-sau-200-m-5047803.html) - 12:28 07/03/2026
 - 🌊 [Không khí lạnh đang tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-dang-tran-xuong-mien-bac-5047768.html) - 11:13 07/03/2026
 - 🎓 [Một người tử vong sau vụ tài xế say rượu tông xe liên hoàn ở Hà Nội](https://vnexpress.net/mot-nguoi-tu-vong-sau-vu-tai-xe-say-ruou-tong-xe-lien-hoan-o-ha-noi-5047772.html) - 10:57 07/03/2026
 - 🔥 [Hai phụ nữ bị xe đầu kéo tông tử vong](https://vnexpress.net/hai-phu-nu-bi-xe-dau-keo-tong-tu-vong-5047791.html) - 10:33 07/03/2026
