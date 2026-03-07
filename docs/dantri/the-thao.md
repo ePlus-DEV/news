@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [FIFA sẽ kích hoạt điều khoản đặc biệt nếu Iran rút khỏi World Cup](https://dantri.com.vn/the-thao/fifa-se-kich-hoat-dieu-khoan-dac-biet-neu-iran-rut-khoi-world-cup-20260307111444678.htm) - 05:00 07/03/2026
-- 💯 [Tuyển nữ Việt Nam thất bại trước Đài Loan, để ngỏ cơ hội vào tứ kết](https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-that-bai-truoc-dai-loan-de-ngo-co-hoi-vao-tu-ket-20260307112839320.htm) - 04:28 07/03/2026
+- 💯 [Đội tuyển nữ Việt Nam 0-1 Đài Loan &lpar;hiệp 2&rpar;: Bàn thua bất ngờ](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-0-1-dai-loan-hiep-2-ban-thua-bat-ngo-20260307112839320.htm) - 04:28 07/03/2026
 - ⛽️ [Ronaldo đến Tây Ban Nha điều trị chấn thương, có nguy cơ bỏ lỡ World Cup](https://dantri.com.vn/the-thao/ronaldo-den-tay-ban-nha-dieu-tri-chan-thuong-co-nguy-co-bo-lo-world-cup-20260307102634017.htm) - 04:06 07/03/2026
 - 💃 [Sinner, Zverev khởi đầu suôn sẻ tại Indian Wells Masters](https://dantri.com.vn/the-thao/sinner-zverev-khoi-dau-suon-se-tai-indian-wells-masters-20260307110032818.htm) - 04:02 07/03/2026
 - 🌈 [Xem trực tiếp trận tuyển nữ Việt Nam gặp Đài Loan ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-dai-loan-o-dau-20260307094807843.htm) - 03:01 07/03/2026
