@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nam bác sĩ &#39;vá&#39; lại thanh xuân cho phụ nữ ung thư vú](https://vnexpress.net/nam-bac-si-va-lai-thanh-xuan-cho-phu-nu-ung-thu-vu-5047684.html) - 23:00 07/03/2026
+- 🔥 [Nam bác sĩ phẫu thuật giúp phụ nữ ung thư vú bảo tồn bầu ngực](https://vnexpress.net/nam-bac-si-phau-thuat-giup-phu-nu-ung-thu-vu-bao-ton-bau-nguc-5047684.html) - 23:00 07/03/2026
 - 🥰 [Giành giật sự sống cho người phụ nữ suy đa tạng do &#39;sát thủ&#39; não mô cầu](https://vnexpress.net/gianh-giat-su-song-cho-nguoi-phu-nu-suy-da-tang-do-sat-thu-nao-mo-cau-5047508.html) - 13:43 07/03/2026
 - 💡 [Vì sao người mắc bệnh dại tiết nhiều nước bọt?](https://vnexpress.net/vi-sao-nguoi-mac-benh-dai-tiet-nhieu-nuoc-bot-5047764.html) - 12:00 07/03/2026
 - 🤗 [Đi tiểu thường xuyên khi uống bia có phải bị thận?](https://vnexpress.net/di-tieu-thuong-xuyen-khi-uong-bia-co-phai-bi-than-5047655.html) - 11:00 07/03/2026
