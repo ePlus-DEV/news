@@ -62,5 +62,4 @@ sidebar_position: 1
 - 🔥 [Thanh niên cả nước lên đường nhập ngũ](https://vnexpress.net/thanh-nien-ca-nuoc-len-duong-nhap-ngu-5046450.html) - 05:17 04/03/2026
 - 💯 [Hai xe máy tông nhau, bốn người chết](https://vnexpress.net/hai-xe-may-tong-nhau-bon-nguoi-chet-5046539.html) - 05:16 04/03/2026
 - 🦆 [Đề xuất dừng thi công đoạn đường khiến 8 nhà dân chênh vênh](https://vnexpress.net/de-xuat-dung-thi-cong-doan-duong-khien-8-nha-dan-chenh-venh-5046477.html) - 04:28 04/03/2026
-- 🫣 [Chìm tàu chở 7 ngư dân](https://vnexpress.net/chim-tau-cho-7-ngu-dan-5046471.html) - 04:22 04/03/2026
-- 🤡 [Hệ thống thu phí tự động trên hai cao tốc không nhận diện được biển số](https://vnexpress.net/he-thong-thu-phi-tu-dong-tren-hai-cao-toc-khong-nhan-dien-duoc-bien-so-5046410.html) - 03:55 04/03/2026<!-- vnexpress-thoi-su:END -->
+- 🫣 [Chìm tàu chở 7 ngư dân](https://vnexpress.net/chim-tau-cho-7-ngu-dan-5046471.html) - 04:22 04/03/2026<!-- vnexpress-thoi-su:END -->
