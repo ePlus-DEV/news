@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hoa hậu Lê Âu Ngân Anh: Khi đi dạy, thầy cô ở trường sợ tôi sang chảnh quá](https://dantri.com.vn/giao-duc/hoa-hau-le-au-ngan-anh-khi-di-day-thay-co-o-truong-so-toi-sang-chanh-qua-20260308175353526.htm) - 11:26 08/03/2026
+- 🤡 [Hoa hậu Lê Âu Ngân Anh: “Tôi hạnh phúc vì được chọn con đường giáo dục”](https://dantri.com.vn/giao-duc/hoa-hau-le-au-ngan-anh-toi-hanh-phuc-vi-duoc-chon-con-duong-giao-duc-20260308175353526.htm) - 11:26 08/03/2026
 - 🗽 [Báo động tình trạng &quot;nồi áp suất&quot; trong nghiên cứu khoa học](https://dantri.com.vn/giao-duc/bao-dong-tinh-trang-noi-ap-suat-trong-nghien-cuu-khoa-hoc-20260307124806616.htm) - 11:00 08/03/2026
 - 🚦 [Học sinh lớp 11 mô phỏng trường cấp 3 từ 6 triệu khối vuông Minecraft](https://dantri.com.vn/giao-duc/hoc-sinh-lop-11-mo-phong-truong-cap-3-tu-6-trieu-khoi-vuong-minecraft-20260307210345498.htm) - 08:00 08/03/2026
 - 🌋 [Vì sao sinh viên năm 2 đã được doanh nghiệp trả lương 30 triệu đồng/tháng?](https://dantri.com.vn/giao-duc/vi-sao-sinh-vien-nam-2-da-duoc-doanh-nghiep-tra-luong-30-trieu-dongthang-20260308101757140.htm) - 05:00 08/03/2026
