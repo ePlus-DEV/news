@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cách tra cứu người ứng cử và chọn nơi bỏ phiếu trên VNeID](https://vnexpress.net/cach-tra-cuu-nguoi-ung-cu-va-chon-noi-bo-phieu-tren-vneid-5047962.html) - 11:16 08/03/2026
 - 🥰 [Con gái cựu giám đốc tình báo Mỹ bị kết án 35 năm tù vì giết người](https://vnexpress.net/con-gai-cuu-giam-doc-tinh-bao-my-bi-ket-an-35-nam-tu-vi-giet-nguoi-5047917.html) - 04:47 08/03/2026
-- 🎓 [Chiêu lừa của &#39;bác sĩ tâm linh, trừ tà&#39;](https://vnexpress.net/chieu-lua-cua-bac-si-tam-linh-tru-ta-5047908.html) - 04:37 08/03/2026
+- 🎓 [Chiêu lừa &#39;trừ tà, bắt quỷ&#39; online](https://vnexpress.net/chieu-lua-tru-ta-bat-quy-online-5047908.html) - 04:37 08/03/2026
 - 🤓 [Ôtô bị cháy, đòi bảo hành hay bảo hiểm bồi thường?](https://vnexpress.net/oto-bi-chay-doi-bao-hanh-hay-bao-hiem-5047335.html) - 22:00 07/03/2026
 - 🎊 [Vinaconex thông báo &#39;cựu Chủ tịch HĐQT Nguyễn Hữu Tới bị bắt&#39;](https://vnexpress.net/vinaconex-thong-bao-cuu-chu-tich-hdqt-nguyen-huu-toi-bi-bat-5047796.html) - 11:26 07/03/2026
 - 🙉 [Shipper hầu tòa vì vứt cá rồng nghìn đô của khách vào thùng rác](https://vnexpress.net/shipper-hau-toa-vi-vut-ca-rong-nghin-do-cua-khach-vao-thung-rac-5047738.html) - 10:19 07/03/2026
