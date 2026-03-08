@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thí sinh không được chọn quy đổi hay điểm ưu tiên với IELTS](https://vnexpress.net/bo-giao-duc-tra-loi-nen-dung-ielts-de-quy-doi-hay-cong-diem-uu-tien-dai-hoc-5047918.html) - 06:51 08/03/2026
+- 🤓 [Quy đổi hay cộng điểm ưu tiên với IELTS do đại học quyết định](https://vnexpress.net/bo-giao-duc-tra-loi-nen-dung-ielts-de-quy-doi-hay-cong-diem-uu-tien-dai-hoc-5047918.html) - 06:51 08/03/2026
 - 🦆 [Lịch thi đánh giá của Bộ Công an dự kiến vào ngày 20-21/6](https://vnexpress.net/lich-tuyen-sinh-dai-hoc-2026-vao-8-truong-cong-an-cua-bo-cong-an-5047896.html) - 04:04 08/03/2026
 - 🦩 [Những câu bày tỏ tình cảm ngày 8/3 bằng tiếng Anh](https://vnexpress.net/nhung-cau-bay-to-tinh-cam-ngay-8-3-bang-tieng-anh-5047870.html) - 02:13 08/03/2026
 - 🌮 [Công thức tính điểm tổng hợp của 8 trường thuộc Đại học Quốc gia TP HCM](https://vnexpress.net/cong-thuc-tinh-diem-xet-tuyen-tong-hop-cua-8-truong-thuoc-dai-hoc-quoc-gia-tp-hcm-2026-5047798.html) - 02:09 08/03/2026
