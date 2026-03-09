@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hàng không đối mặt áp lực tăng chi phí do xung đột ở Trung Đông](https://vnexpress.net/hang-khong-doi-mat-ap-luc-tang-chi-phi-do-xung-dot-o-trung-dong-5048405.html) - 10:10 09/03/2026
-- 🤓 [Bộ trưởng Xây dựng: Sớm mở rộng trục nối TP HCM - Long Thành lên 12 làn](https://vnexpress.net/bo-truong-xay-dung-som-mo-rong-truc-noi-tp-hcm-long-thanh-len-12-lan-5048414.html) - 10:04 09/03/2026
+- 🤓 [Bộ trưởng Xây dựng: Cần sớm mở rộng trục nối TP HCM - Long Thành lên 12 làn](https://vnexpress.net/bo-truong-xay-dung-can-som-mo-rong-truc-noi-tp-hcm-long-thanh-len-12-lan-5048414.html) - 10:04 09/03/2026
 - ⚗️ [Ông Đỗ Văn Chiến cam kết góp sức đưa Bắc Ninh thành thành phố trực thuộc Trung ương](https://vnexpress.net/ong-do-van-chien-cam-ket-gop-suc-dua-bac-ninh-thanh-thanh-pho-truc-thuoc-trung-uong-5048338.html) - 09:00 09/03/2026
 - 🌊 [Người già, trẻ nhỏ hóa đại tướng, tiên nữ trong lễ hội Thổ Hà](https://vnexpress.net/nguoi-gia-tre-nho-hoa-dai-tuong-tien-nu-trong-le-hoi-tho-ha-5048308.html) - 08:42 09/03/2026
 - 🎓 [AstraZeneca tiếp sức giải chạy vì trẻ bệnh hiếm](https://vnexpress.net/astrazeneca-tiep-suc-giai-chay-vi-tre-benh-hiem-5048290.html) - 08:37 09/03/2026
