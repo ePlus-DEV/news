@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Tệp khách nước nào đang đến Việt Nam nhiều nhất?](https://vnexpress.net/tep-khach-nuoc-nao-dang-den-viet-nam-nhieu-nhat-5048255.html) - 14:54 09/03/2026
-- 🪄 [Blogger Mỹ sốc trước cảnh sống trong đường hầm ở Manila](https://vnexpress.net/blogger-my-soc-truoc-canh-song-trong-duong-ham-o-manila-5048247.html) - 13:00 09/03/2026
+- 🪄 [Blogger Mỹ sốc trước cảnh sống trong đường hầm ở thủ đô Manila](https://vnexpress.net/blogger-my-soc-truoc-canh-song-trong-duong-ham-o-thu-do-manila-5048247.html) - 13:00 09/03/2026
 - 🦅 [Khách đổ đến check in đường hoa kèn hồng đẹp nhất miền Tây](https://vnexpress.net/khach-do-den-check-in-duong-hoa-ken-hong-dep-nhat-mien-tay-5048056.html) - 11:00 09/03/2026
 - 🕴 [Khách kẹt ở Trung Đông lao đao vì chi phí tăng vọt](https://vnexpress.net/khach-ket-o-trung-dong-lao-dao-vi-chi-phi-tang-vot-5048223.html) - 06:15 09/03/2026
 - 👀 [Hoa anh đào Nhật Bản nở sớm](https://vnexpress.net/hoa-anh-dao-nhat-ban-no-som-5048136.html) - 04:37 09/03/2026
