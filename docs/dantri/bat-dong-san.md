@@ -4,9 +4,9 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Hé lộ thu nhập các lãnh đạo AVC, Vinaconex vừa bị bắt](https://dantri.com.vn/kinh-doanh/he-lo-thu-nhap-cac-lanh-dao-avc-vinaconex-vua-bi-bat-20260309154802664.htm) - 09:32 09/03/2026
-- 👹 [Phú Quốc: Du lịch tăng trưởng, tạo hấp lực cho kinh doanh lưu trú và bất động sản](https://dantri.com.vn/bat-dong-san/phu-quoc-du-lich-tang-truong-tao-hap-luc-cho-kinh-doanh-luu-tru-va-bat-dong-san-20260309141114138.htm) - 08:00 09/03/2026
-- 💡 [Chen nhau đấu giá đất vùng ven Hà Nội, có lô trúng giá gần 16 tỷ đồng](https://dantri.com.vn/bat-dong-san/chen-nhau-dau-gia-dat-vung-ven-ha-noi-co-lo-trung-gia-gan-16-ty-dong-20260309143550456.htm) - 07:57 09/03/2026
+- 🌏 [Thủ tướng có chỉ đạo mới về dự án sân bay Gia Bình](https://dantri.com.vn/bat-dong-san/thu-tuong-co-chi-dao-moi-ve-du-an-san-bay-gia-binh-20260309170731596.htm) - 10:50 09/03/2026
+- 👹 [Hé lộ thu nhập các lãnh đạo ACV, Vinaconex vừa bị bắt](https://dantri.com.vn/kinh-doanh/he-lo-thu-nhap-cac-lanh-dao-acv-vinaconex-vua-bi-bat-20260309154802664.htm) - 09:32 09/03/2026
+- 💡 [Phú Quốc: Du lịch tăng trưởng, tạo hấp lực cho kinh doanh lưu trú và bất động sản](https://dantri.com.vn/bat-dong-san/phu-quoc-du-lich-tang-truong-tao-hap-luc-cho-kinh-doanh-luu-tru-va-bat-dong-san-20260309141114138.htm) - 08:00 09/03/2026
 - 🌋 [Siêu dự án sông Hồng: Hà Nội đền bù đất cao gấp đôi bảng giá đất](https://dantri.com.vn/bat-dong-san/sieu-du-an-song-hong-ha-noi-den-bu-dat-cao-gap-doi-bang-gia-dat-20260309130843698.htm) - 07:14 09/03/2026
 - 🌜 [6 xu hướng bếp nhỏ được dự đoán “phủ sóng” năm 2026](https://dantri.com.vn/bat-dong-san/6-xu-huong-bep-nho-duoc-du-doan-phu-song-nam-2026-20260224231137588.htm) - 03:39 09/03/2026
 - 💃 [Bốn không gian hội tụ trong đô thị đảo: Lợi thế của Vinhomes Royal Island](https://dantri.com.vn/bat-dong-san/bon-khong-gian-hoi-tu-trong-do-thi-dao-loi-the-cua-vinhomes-royal-island-20260309102602609.htm) - 03:36 09/03/2026
