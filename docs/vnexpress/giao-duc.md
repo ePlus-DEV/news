@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [39 giáo viên sửa hàng nghìn đầu điểm của học sinh do &#39;nhầm&#39;](https://vnexpress.net/39-giao-vien-sua-hang-nghin-dau-diem-cua-hoc-sinh-do-nham-5048799.html) - 09:27 10/03/2026
-- 🦆 [Thí sinh thi lớp 10 công lập ở TP HCM tăng hơn 43.000](https://vnexpress.net/thi-sinh-thi-lop-10-cong-lap-o-tp-hcm-tang-hon-43-000-5048696.html) - 07:28 10/03/2026
+- 🤓 [39 giáo viên nâng, hạ điểm thi của học sinh do &#39;nhầm&#39;](https://vnexpress.net/39-giao-vien-nang-ha-diem-thi-cua-hoc-sinh-do-nham-5048799.html) - 09:27 10/03/2026
+- 🦆 [Thí sinh thi lớp 10 công lập ở TP HCM tăng gần 43.000](https://vnexpress.net/thi-sinh-thi-lop-10-cong-lap-o-tp-hcm-tang-gan-43-000-5048696.html) - 07:28 10/03/2026
 - 🦩 [UEF xét học bổng cử nhân quốc tế bằng điểm học bạ](https://vnexpress.net/uef-xet-hoc-bong-cu-nhan-quoc-te-bang-diem-hoc-ba-5048689.html) - 07:00 10/03/2026
 - 🌮 [Hà Nội dự kiến bỏ chia khu vực tuyển sinh lớp 10 công lập](https://vnexpress.net/ha-noi-du-kien-bo-chia-khu-vuc-tuyen-sinh-lop-10-cong-lap-5048570.html) - 01:55 10/03/2026
 - 🔭 [Hai trường công mới ở Hà Nội tuyển lớp 10 từ năm nay](https://vnexpress.net/hai-truong-cong-moi-o-ha-noi-tuyen-lop-10-tu-nam-nay-5048486.html) - 22:59 09/03/2026
