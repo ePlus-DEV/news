@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Video người miền Tây mời du khách về nhà ăn cơm &#39;gây sốt&#39;](https://vnexpress.net/video-nguoi-mien-tay-moi-du-khach-ve-nha-an-com-gay-sot-5048826.html) - 12:00 10/03/2026
+- 💂 [Video người dân mời khách Tây về ăn cơm nhà &#39;gây sốt&#39;](https://vnexpress.net/video-nguoi-dan-moi-khach-tay-ve-an-com-nha-gay-sot-5048826.html) - 12:00 10/03/2026
 - 🪄 [Khách Việt tìm tour sớm cho kỳ nghỉ Giỗ Tổ và 30/4](https://vnexpress.net/khach-viet-tim-tour-som-cho-ky-nghi-gio-to-va-30-4-5048370.html) - 06:30 10/03/2026
 - 🦅 [Cụ bà Hà Giang khiến khách Tây &#39;tan chảy&#39;](https://vnexpress.net/cu-ba-ha-giang-khien-khach-tay-tan-chay-5046867.html) - 03:18 10/03/2026
 - 🕴 [Hoa sơn tra nở trắng bản làng ở Sơn La](https://vnexpress.net/hoa-son-tra-no-trang-ban-lang-o-son-la-5048307.html) - 02:29 10/03/2026
