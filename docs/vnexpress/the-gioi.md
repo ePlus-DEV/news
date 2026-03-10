@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Pháp sẽ điều thêm 10 tàu chiến đến Trung Đông](https://vnexpress.net/phap-se-dieu-them-10-tau-chien-den-trung-dong-5048764.html) - 10:39 10/03/2026
+- 🎭 [Pháp sẽ điều thêm 10 chiến hạm hộ tống đến Trung Đông](https://vnexpress.net/phap-se-dieu-them-10-chien-ham-ho-tong-den-trung-dong-5048764.html) - 10:39 10/03/2026
 - 🕴 [Iran tuyên bố chuyển sang tập kích bằng tên lửa mang đầu đạn trên một tấn](https://vnexpress.net/iran-tuyen-bo-chuyen-sang-tap-kich-bang-ten-lua-mang-dau-dan-tren-mot-tan-5048791.html) - 10:17 10/03/2026
 - 🤭 [Khoảnh khắc UAV Geran tập kích khẩu đội HIMARS Ukraine](https://vnexpress.net/khoanh-khac-uav-geran-tap-kich-khau-doi-himars-ukraine-5048813.html) - 09:47 10/03/2026
 - 🧑‍💻 [Iran trưng bày mảnh vỡ &#39;tên lửa Mỹ&#39; lao xuống trường nữ sinh](https://vnexpress.net/iran-trung-bay-manh-vo-ten-lua-my-lao-xuong-truong-nu-sinh-5048762.html) - 09:16 10/03/2026
