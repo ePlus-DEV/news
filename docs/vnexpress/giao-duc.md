@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học Bách khoa TP HCM muốn &#39;giữ giá trị lịch sử&#39; gần 70 năm](https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-muon-giu-gia-tri-lich-su-gan-70-nam-5048898.html) - 13:49 10/03/2026
+- 🤓 [Đại học Bách khoa TP HCM muốn &#39;giữ giá trị lịch sử&#39; gần 70 năm](https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-len-tieng-ve-de-xuat-di-doi-cua-cong-ty-bat-dong-san-phat-dat-5048898.html) - 13:49 10/03/2026
 - 🦆 [Nước nào có tỷ lệ người đi xe máy cao nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-ty-le-nguoi-di-xe-may-cao-nhat-dong-nam-a-5048887.html) - 12:48 10/03/2026
 - 🦩 [39 giáo viên nâng, hạ điểm thi của học sinh do &#39;nhầm&#39;](https://vnexpress.net/39-giao-vien-nang-ha-diem-thi-cua-hoc-sinh-do-nham-5048799.html) - 09:27 10/03/2026
 - 🌮 [Thí sinh thi lớp 10 công lập ở TP HCM tăng gần 43.000](https://vnexpress.net/thi-sinh-thi-lop-10-cong-lap-o-tp-hcm-tang-gan-43-000-5048696.html) - 07:28 10/03/2026
