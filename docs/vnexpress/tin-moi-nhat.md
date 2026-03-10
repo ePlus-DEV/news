@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Khoảnh khắc tiêm kích &#39;đuổi bắt&#39; UAV trên bãi biển Dubai](https://vnexpress.net/khoanh-khac-tiem-kich-duoi-bat-uav-tren-bai-bien-dubai-5048843.html) - 15:02 10/03/2026
 - 🐎 [4 trường hợp phải thông báo địa điểm kinh doanh với cơ quan thuế](https://vnexpress.net/4-truong-hop-phai-thong-bao-dia-diem-kinh-doanh-voi-co-quan-thue-5048233.html) - 15:00 10/03/2026
-- 🦍 [Thủ đoạn &#39;vây người&#39; giật dây chuyền của nhóm trộm ở miền Tây](https://vnexpress.net/thu-doan-vay-nguoi-giat-day-chuyen-cua-nhom-trom-o-mien-tay-5048914.html) - 14:52 10/03/2026
+- 🦍 [Thủ đoạn &#39;vây người&#39; giật dây chuyền ở khu du lịch](https://vnexpress.net/thu-doan-vay-nguoi-giat-day-chuyen-o-khu-du-lich-5048914.html) - 14:52 10/03/2026
 - 🏊 [Mỹ dùng bom xuyên phá 900 kg tấn công bệ phóng tên lửa dưới lòng đất Iran](https://vnexpress.net/my-dung-bom-xuyen-pha-900-kg-tan-cong-be-phong-ten-lua-duoi-long-dat-iran-5048895.html) - 14:42 10/03/2026
 - 🎊 [Thủ tướng: Sử dụng ngay Quỹ bình ổn giá xăng dầu](https://vnexpress.net/thu-tuong-su-dung-ngay-quy-binh-on-gia-xang-dau-5048917.html) - 14:32 10/03/2026
 - 🎃 [HLV Mai Đức Chung: &#39;Tôi xin rút lui&#39;](https://vnexpress.net/hlv-mai-duc-chung-toi-xin-rut-lui-5048916.html) - 14:08 10/03/2026
@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Nhiều doanh nghiệp Quảng Trị nợ thuế gần 2.570 tỷ đồng](https://vnexpress.net/nhieu-doanh-nghiep-quang-tri-no-thue-gan-2-570-ty-dong-5048866.html) - 12:25 10/03/2026
 - 🧑‍💻 [Xác định 8 đội vào tứ kết Asian Cup nữ 2026](https://vnexpress.net/xac-dinh-8-doi-vao-tu-ket-asian-cup-nu-2026-5048886.html) - 12:08 10/03/2026
 - 🐲 [Tuyến đường sắt Trung Quốc - Triều Tiên tái hoạt động sau 6 năm](https://vnexpress.net/tuyen-duong-sat-trung-quoc-trieu-tien-tai-hoat-dong-sau-6-nam-5048867.html) - 12:07 10/03/2026
-- 🌝 [Video người miền Tây mời du khách về nhà ăn cơm &#39;gây sốt&#39;](https://vnexpress.net/video-nguoi-mien-tay-moi-du-khach-ve-nha-an-com-gay-sot-5048826.html) - 12:00 10/03/2026
+- 🌝 [Video người dân mời khách Tây về ăn cơm nhà &#39;gây sốt&#39;](https://vnexpress.net/video-nguoi-dan-moi-khach-tay-ve-an-com-nha-gay-sot-5048826.html) - 12:00 10/03/2026
 - 😺 [Bé 12 tuổi mắc ung thư ruột giai đoạn cuối](https://vnexpress.net/be-12-tuoi-mac-ung-thu-ruot-giai-doan-cuoi-5048717.html) - 12:00 10/03/2026
 - 🐎 [Tuyên bố trái ngược của ông Trump về kết thúc chiến sự Iran](https://vnexpress.net/tuyen-bo-trai-nguoc-cua-ong-trump-ve-ket-thuc-chien-su-iran-5048646.html) - 12:00 10/03/2026
 - 🎡 [VinFast bán gần 10.000 ôtô điện tháng 2](https://vnexpress.net/vinfast-ban-gan-10-000-oto-dien-thang-2-5048876.html) - 12:00 10/03/2026
