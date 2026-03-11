@@ -85,66 +85,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Dân Trí
 <!-- dantri:START -->
-- 🐻 [WHO cảnh báo rủi ro sức khỏe nghiêm trọng khi Iran hứng chịu &quot;mưa đen&quot;](https://dantri.com.vn/the-gioi/who-canh-bao-rui-ro-suc-khoe-nghiem-trong-khi-iran-hung-chiu-mua-den-20260310214609081.htm) - 14:58 10/03/2026
-- 🧠 [Việt Nam nổi lên như mắt xích quan trọng trong chuỗi bán dẫn toàn cầu](https://dantri.com.vn/kinh-doanh/viet-nam-noi-len-nhu-mat-xich-quan-trong-trong-chuoi-ban-dan-toan-cau-20260310211057118.htm) - 14:56 10/03/2026
-- 🤔 [Chế đèn gây chói mắt, tài xế ở TPHCM bị phạt tiền triệu](https://dantri.com.vn/thoi-su/che-den-gay-choi-mat-tai-xe-o-tphcm-bi-phat-tien-trieu-20260310203317203.htm) - 14:50 10/03/2026
-- 📝 [Hoa hậu Sinh Viên 2025 hé lộ cuộc sống tại Hà Nội, tăng 4kg sau đăng quang](https://dantri.com.vn/giai-tri/hoa-hau-sinh-vien-2025-he-lo-cuoc-song-tai-ha-noi-tang-4kg-sau-dang-quang-20260310214212494.htm) - 14:42 10/03/2026
-- 🤖 [Miền Bắc có nơi rét dưới 11 độ C](https://dantri.com.vn/thoi-su/mien-bac-co-noi-ret-duoi-11-do-c-20260310213321992.htm) - 14:39 10/03/2026
-- 🥰 [Hủy dấu &quot;Mật&quot; trong văn bản trả lời công dân](https://dantri.com.vn/thoi-su/huy-dau-mat-trong-van-ban-tra-loi-cong-dan-20260310211113474.htm) - 14:35 10/03/2026
-- 🚀 [Iran công bố mảnh vỡ tên lửa rơi xuống trường nữ sinh làm 175 người chết](https://dantri.com.vn/the-gioi/iran-cong-bo-manh-vo-ten-lua-roi-xuong-truong-nu-sinh-lam-175-nguoi-chet-20260310211009665.htm) - 14:21 10/03/2026
-- 🏊 [Bàn giao đất sớm ở TPHCM được thưởng đến 100 triệu đồng](https://dantri.com.vn/thoi-su/ban-giao-dat-som-o-tphcm-duoc-thuong-den-100-trieu-dong-20260310202253751.htm) - 14:18 10/03/2026
-- 🎃 [Hoa hậu Tô Diệp Hà khoe nhan sắc nổi bật bên dàn mỹ nhân Miss World Vietnam](https://dantri.com.vn/giai-tri/hoa-hau-to-diep-ha-khoe-nhan-sac-noi-bat-ben-dan-my-nhan-miss-world-vietnam-20260310202525943.htm) - 14:11 10/03/2026
-- 🎓 [Bí thư Lào Cai: Luôn giữ mối liên hệ chặt chẽ với ngành thanh tra](https://dantri.com.vn/thoi-su/bi-thu-lao-cai-luon-giu-moi-lien-he-chat-che-voi-nganh-thanh-tra-20260310203403663.htm) - 13:56 10/03/2026
-- 👹 [Vì sao ĐH Bách khoa TPHCM đồng ý rời “khu đất vàng” 268 Lý Thường Kiệt?](https://dantri.com.vn/giao-duc/vi-sao-dh-bach-khoa-tphcm-dong-y-roi-khu-dat-vang-268-ly-thuong-kiet-20260310205441143.htm) - 13:56 10/03/2026
-- 🔥 [Khởi tố vụ án sà lan tông cầu Ghềnh ở Đồng Nai](https://dantri.com.vn/phap-luat/khoi-to-vu-an-sa-lan-tong-cau-ghenh-o-dong-nai-20260310203920049.htm) - 13:53 10/03/2026
-- 🦏 [Bộ Công an khen Công an Đà Nẵng bắt 3 đối tượng trốn truy nã ở nước ngoài](https://dantri.com.vn/phap-luat/bo-cong-an-khen-cong-an-da-nang-bat-3-doi-tuong-tron-truy-na-o-nuoc-ngoai-20260310201700155.htm) - 13:53 10/03/2026
-- ⛽️ [AFC khen ngợi Khổng Thị Hằng dù tuyển nữ Việt Nam thua đậm Nhật Bản](https://dantri.com.vn/the-thao/afc-khen-ngoi-khong-thi-hang-du-tuyen-nu-viet-nam-thua-dam-nhat-ban-20260310203333396.htm) - 13:50 10/03/2026
-- 🕯 [Thủ tướng: Sử dụng ngay Quỹ bình ổn giá xăng dầu, không để thiếu năng lượng](https://dantri.com.vn/thoi-su/thu-tuong-su-dung-ngay-quy-binh-on-gia-xang-dau-khong-de-thieu-nang-luong-20260310203720859.htm) - 13:37 10/03/2026
-- 💫 [Mỹ cảnh báo không kích dữ dội nhất vào Iran hôm nay](https://dantri.com.vn/the-gioi/my-canh-bao-khong-kich-du-doi-nhat-vao-iran-hom-nay-20260310202428043.htm) - 13:27 10/03/2026
-- 🎭 [Việt Nam sắp có Tập đoàn Đường sắt Quốc gia, đón đầu các siêu dự án](https://dantri.com.vn/kinh-doanh/viet-nam-sap-co-tap-doan-duong-sat-quoc-gia-don-dau-cac-sieu-du-an-20260310202036419.htm) - 13:25 10/03/2026
-- 🪜 [4 lý do khiến loạt quốc gia châu Âu đưa thiết bị quân sự tới Trung Đông](https://dantri.com.vn/the-gioi/4-ly-do-khien-loat-quoc-gia-chau-au-dua-thiet-bi-quan-su-toi-trung-dong-20260310113820332.htm) - 13:23 10/03/2026
-- 🚀 [Đám đông tràn vào cướp lộc trong lễ hội độc đáo nhất Nghệ An](https://dantri.com.vn/doi-song/dam-dong-tran-vao-cuop-loc-trong-le-hoi-doc-dao-nhat-nghe-an-20260310180754492.htm) - 13:03 10/03/2026
-- 🎭 [Tàu hải quân lên đường ứng cứu tàu cá cùng 36 ngư dân đang trôi dạt](https://dantri.com.vn/thoi-su/tau-hai-quan-len-duong-ung-cuu-tau-ca-cung-36-ngu-dan-dang-troi-dat-20260310194756881.htm) - 13:01 10/03/2026
-- 👹 [Văn Hậu trở lại đội tuyển Việt Nam, Đình Bắc vắng mặt](https://dantri.com.vn/the-thao/van-hau-tro-lai-doi-tuyen-viet-nam-dinh-bac-vang-mat-20260310203929607.htm) - 13:00 10/03/2026
-- 🤔 [Hai Thành hợp tác loạt đối tác lớn, giới thiệu dự án quy mô 80ha ra thị trường](https://dantri.com.vn/bat-dong-san/hai-thanh-hop-tac-loat-doi-tac-lon-gioi-thieu-du-an-quy-mo-80ha-ra-thi-truong-20260310140632581.htm) - 13:00 10/03/2026
-- 🥳 [HLV Mai Đức Chung: “Các cầu thủ Việt Nam đã nỗ lực hết sức”](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-cac-cau-thu-viet-nam-da-no-luc-het-suc-20260310195923998.htm) - 12:59 10/03/2026
-- 🤗 [Con trai tỷ phú Nguyễn Thị Phương Thảo muốn mua 2 triệu cổ phiếu Vietjet](https://dantri.com.vn/kinh-doanh/con-trai-ty-phu-nguyen-thi-phuong-thao-muon-mua-2-trieu-co-phieu-vietjet-20260310180122187.htm) - 12:58 10/03/2026
-- 🔭 [Cháu lừa dì ruột gần 3,6 tỷ đồng bằng chiêu giả danh công an](https://dantri.com.vn/phap-luat/chau-lua-di-ruot-gan-36-ty-dong-bang-chieu-gia-danh-cong-an-20260310185410774.htm) - 12:58 10/03/2026
-- 🚀 [Người mẫu xinh đẹp lao đao vì nghi vấn ngoại tình chấn động Đài Loan](https://dantri.com.vn/giai-tri/nguoi-mau-xinh-dep-lao-dao-vi-nghi-van-ngoai-tinh-chan-dong-dai-loan-20260310164730449.htm) - 12:55 10/03/2026
-- 🥰 [Cần bao nhiêu người để vận hành đường sắt cao tốc Bắc - Nam?](https://dantri.com.vn/bat-dong-san/can-bao-nhieu-nguoi-de-van-hanh-duong-sat-cao-toc-bac-nam-20260310180600190.htm) - 12:51 10/03/2026
-- 🦅 [Trạm xăng dầu bị lập biên bản vì chỉ bán tối đa 300.000 đồng/lượt](https://dantri.com.vn/kinh-doanh/tram-xang-dau-bi-lap-bien-ban-vi-chi-ban-toi-da-300000-dongluot-20260310180955605.htm) - 12:48 10/03/2026
-- 🐻 [Lọc dầu Dung Quất sắp tiếp nhận 60.000 tấn nhiên liệu sinh học pha xăng E10](https://dantri.com.vn/kinh-doanh/loc-dau-dung-quat-sap-tiep-nhan-60000-tan-nhien-lieu-sinh-hoc-pha-xang-e10-20260310181509086.htm) - 12:47 10/03/2026
-- 🕴 [Bắt nghi phạm giật dây chuyền vàng của thiếu nữ ở TPHCM](https://dantri.com.vn/phap-luat/bat-nghi-pham-giat-day-chuyen-vang-cua-thieu-nu-o-tphcm-20260310183746107.htm) - 12:47 10/03/2026
-- 🐲 [35 bị cáo trong vụ án tại Cục An toàn thực phẩm xin giảm nhẹ hình phạt](https://dantri.com.vn/phap-luat/35-bi-cao-trong-vu-an-tai-cuc-an-toan-thuc-pham-xin-giam-nhe-hinh-phat-20260310191723937.htm) - 12:36 10/03/2026
-- 🌏 [Cựu giám đốc trung tâm dạy lái xe ở TPHCM khai lý do cấp khống chứng chỉ](https://dantri.com.vn/phap-luat/cuu-giam-doc-trung-tam-day-lai-xe-o-tphcm-khai-ly-do-cap-khong-chung-chi-20260310184843062.htm) - 12:35 10/03/2026
-- 🧑‍🏫 [Tăng tốc, phấn đấu hoàn thành cầu Dân trí thôn Thác Hùng trước mùa mưa](https://dantri.com.vn/tam-long-nhan-ai/tang-toc-phan-dau-hoan-thanh-cau-dan-tri-thon-thac-hung-truoc-mua-mua-20260310191631445.htm) - 12:32 10/03/2026
-- 🧠 [Công an thông báo tìm chủ nhân của 70 con chó nghi bị bắt trộm](https://dantri.com.vn/phap-luat/cong-an-thong-bao-tim-chu-nhan-cua-70-con-cho-nghi-bi-bat-trom-20260310190016698.htm) - 12:30 10/03/2026
-- 🌮 [Xôn xao biển báo giao thông kỳ lạ xuất hiện ở Trung Quốc](https://dantri.com.vn/doi-song/xon-xao-bien-bao-giao-thong-ky-la-xuat-hien-o-trung-quoc-20260310185847131.htm) - 12:27 10/03/2026
-- 🎡 [Hai thi thể nam giới dạt vào bờ biển](https://dantri.com.vn/thoi-su/hai-thi-the-nam-gioi-dat-vao-bo-bien-20260310185054514.htm) - 12:27 10/03/2026
-- 🌊 [Một phụ nữ ở TPHCM bị lừa hơn 600 triệu đồng khi &quot;chạy&quot; tại ngoại cho chồng](https://dantri.com.vn/phap-luat/mot-phu-nu-o-tphcm-bi-lua-hon-600-trieu-dong-khi-chay-tai-ngoai-cho-chong-20260310183902286.htm) - 12:20 10/03/2026
-- 📝 [Xác định 4 cặp tứ kết giải bóng đá nữ châu Á](https://dantri.com.vn/the-thao/xac-dinh-4-cap-tu-ket-giai-bong-da-nu-chau-a-20260310184041099.htm) - 12:01 10/03/2026
-- 🎉 [Công an Hà Nội khuyến cáo người dân không tích trữ xăng, dầu](https://dantri.com.vn/thoi-su/cong-an-ha-noi-khuyen-cao-nguoi-dan-khong-tich-tru-xang-dau-20260310184118293.htm) - 11:56 10/03/2026
-- 🕯 [Trang web trường cao đẳng bị giả mạo, quảng cáo vay tiền trực tuyến](https://dantri.com.vn/giao-duc/trang-web-truong-cao-dang-bi-gia-mao-quang-cao-vay-tien-truc-tuyen-20260310180701441.htm) - 11:45 10/03/2026
-- 💡 [Hai cụm đảo ở địa đầu cực Nam Tổ quốc chuẩn bị bầu cử sớm](https://dantri.com.vn/thoi-su/hai-cum-dao-o-dia-dau-cuc-nam-to-quoc-chuan-bi-bau-cu-som-20260310174315905.htm) - 11:44 10/03/2026
-- 🤠 [Iran tuyên bố phóng 10 tên lửa mang đầu đạn hơn 1 tấn về phía Israel](https://dantri.com.vn/the-gioi/iran-tuyen-bo-phong-10-ten-lua-mang-dau-dan-hon-1-tan-ve-phia-israel-20260310184131461.htm) - 11:43 10/03/2026
-- 🚦 [Tài xế taxi say rượu gây tai nạn, không chịu ký biên bản xử phạt](https://dantri.com.vn/thoi-su/tai-xe-taxi-say-ruou-gay-tai-nan-khong-chiu-ky-bien-ban-xu-phat-20260310182117539.htm) - 11:38 10/03/2026
-- 🕯 [Chốt phương án tận dụng 2 linh vật ngựa của Đà Nẵng](https://dantri.com.vn/thoi-su/chot-phuong-an-tan-dung-2-linh-vat-ngua-cua-da-nang-20260310181450433.htm) - 11:32 10/03/2026
-- 💪 [Cuộc sống đầy bất ngờ của chàng trai nhiều lông nhất thế giới](https://dantri.com.vn/doi-song/cuoc-song-day-bat-ngo-cua-chang-trai-nhieu-long-nhat-the-gioi-20260310150630734.htm) - 11:20 10/03/2026
-- 🥰 [Cục CSGT bắt đầu khảo sát xe giường nằm 2 tầng chạy trên cung đường đồi núi](https://dantri.com.vn/thoi-su/cuc-csgt-bat-dau-khao-sat-xe-giuong-nam-2-tang-chay-tren-cung-duong-doi-nui-20260310180326542.htm) - 11:15 10/03/2026
-- 🤔 [Mọi khiếu nại liên quan đến bầu cử phải giải quyết kịp thời, minh bạch](https://dantri.com.vn/thoi-su/moi-khieu-nai-lien-quan-den-bau-cu-phai-giai-quyet-kip-thoi-minh-bach-20260310174520935.htm) - 11:15 10/03/2026
-- 🔭 [Hòn đảo &quot;huyết mạch dầu mỏ&quot; của Iran vẫn an toàn trước sóng không kích](https://dantri.com.vn/the-gioi/hon-dao-huyet-mach-dau-mo-cua-iran-van-an-toan-truoc-song-khong-kich-20260310145240008.htm) - 11:12 10/03/2026
-- 🤖 [Người đàn ông Ukraine lái máy bay sang Romania để trốn nhập ngũ](https://dantri.com.vn/the-gioi/nguoi-dan-ong-ukraine-lai-may-bay-sang-romania-de-tron-nhap-ngu-20260310175221948.htm) - 11:11 10/03/2026
-- 🥷 [Công an truy xét nhóm người nghi dàn cảnh cướp của ở điểm du lịch nổi tiếng](https://dantri.com.vn/thoi-su/cong-an-truy-xet-nhom-nguoi-nghi-dan-canh-cuop-cua-o-diem-du-lich-noi-tieng-20260310170833819.htm) - 11:10 10/03/2026
-- 🦩 [Mẹ và vợ tôi cãi nhau suốt ngày chỉ vì... vàng](https://dantri.com.vn/tinh-yeu-gioi-tinh/me-va-vo-toi-cai-nhau-suot-ngay-chi-vi-vang-20260310144717858.htm) - 11:01 10/03/2026
-- 😎 [Đảo ở Hàn Quốc trả tiền trợ cấp cho ông bà giúp trông cháu](https://dantri.com.vn/the-gioi/dao-o-han-quoc-tra-tien-tro-cap-cho-ong-ba-giup-trong-chau-20260310174203014.htm) - 10:59 10/03/2026
-- 🥰 [Nam sinh bị nhóm 5 người đánh hội đồng trước cửa nhà văn hoá xã](https://dantri.com.vn/giao-duc/nam-sinh-bi-nhom-5-nguoi-danh-hoi-dong-truoc-cua-nha-van-hoa-xa-20260310164204630.htm) - 10:49 10/03/2026
-- 🏊 [Phú Quốc: Nơi thế giới gặp nhau qua kiến trúc](https://dantri.com.vn/du-lich/phu-quoc-noi-the-gioi-gap-nhau-qua-kien-truc-20260310172117363.htm) - 10:47 10/03/2026
-- 🕯 [Đâm chết chủ nợ ở Tây Ninh, nam thanh niên lĩnh 13 năm tù](https://dantri.com.vn/phap-luat/dam-chet-chu-no-o-tay-ninh-nam-thanh-nien-linh-13-nam-tu-20260310170045524.htm) - 10:39 10/03/2026
-- 🌈 [Vây bắt kẻ chém người rồi cố thủ trong nhà trọ ở TPHCM](https://dantri.com.vn/phap-luat/vay-bat-ke-chem-nguoi-roi-co-thu-trong-nha-tro-o-tphcm-20260310165255728.htm) - 10:31 10/03/2026
-- 🧑‍💻 [Jennie &lpar;Blackpink&rpar; hút mọi ánh nhìn với đầm “lưới đánh cá”](https://dantri.com.vn/giai-tri/jennie-blackpink-hut-moi-anh-nhin-voi-dam-luoi-danh-ca-20260310104516644.htm) - 10:30 10/03/2026
-- 💫 [Vụ nổ hộp bánh ở Bệnh viện Đa khoa Trà Vinh: Xác định thành phần vật nổ](https://dantri.com.vn/phap-luat/vu-no-hop-banh-o-benh-vien-da-khoa-tra-vinh-xac-dinh-thanh-phan-vat-no-20260310165956660.htm) - 10:18 10/03/2026
-- ⛽️ [VinFast bàn giao 9.903 ô tô điện trong tháng 2](https://dantri.com.vn/o-to-xe-may/vinfast-ban-giao-9903-o-to-dien-trong-thang-2-20260310171043537.htm) - 10:15 10/03/2026
-- 🌜 [Phát hiện bộ xương người ở bìa rừng](https://dantri.com.vn/thoi-su/phat-hien-bo-xuong-nguoi-o-bia-rung-20260310114056406.htm) - 10:13 10/03/2026<!-- dantri:END -->
+- 🐻 [Nữ kế toán ở TPHCM tham ô tiền tỷ](https://dantri.com.vn/phap-luat/nu-ke-toan-o-tphcm-tham-o-tien-ty-20260311113553592.htm) - 05:33 11/03/2026
+- 🧠 [Iran bắn tên lửa đầu đạn 2 tấn, ồ ạt tập kích Mỹ - Israel 3 giờ liên tục](https://dantri.com.vn/the-gioi/iran-ban-ten-lua-dau-dan-2-tan-o-at-tap-kich-my-israel-3-gio-lien-tuc-20260311111858086.htm) - 05:32 11/03/2026
+- 🤔 [Chiến sự Ukraine 11/3: Nga đang chuẩn bị những bất ngờ ở Sumy](https://dantri.com.vn/the-gioi/chien-su-ukraine-113-nga-dang-chuan-bi-nhung-bat-ngo-o-sumy-20260311115337609.htm) - 05:31 11/03/2026
+- 📝 [Một tập đoàn Trung Quốc hứa rót 3,5 tỷ USD vào tỉnh Bắc Ninh](https://dantri.com.vn/bat-dong-san/mot-tap-doan-trung-quoc-hua-rot-35-ty-usd-vao-tinh-bac-ninh-20260311111922815.htm) - 05:27 11/03/2026
+- 🤖 [Thêm ngân hàng lớn tăng lãi suất, cuộc đua hút tiền ngày càng sôi động](https://dantri.com.vn/kinh-doanh/them-ngan-hang-lon-tang-lai-suat-cuoc-dua-hut-tien-ngay-cang-soi-dong-20260311112206601.htm) - 05:24 11/03/2026
+- 🥰 [Bộ trưởng Nội vụ: Lạng Sơn không được để xảy ra sai sót trong bầu cử](https://dantri.com.vn/noi-vu/bo-truong-noi-vu-lang-son-khong-duoc-de-xay-ra-sai-sot-trong-bau-cu-20260311115437622.htm) - 05:20 11/03/2026
+- 🚀 [VN-Index lấy lại mốc 1.700 điểm, dòng tiền vẫn dè dặt &quot;bắt đáy&quot;](https://dantri.com.vn/kinh-doanh/vn-index-lay-lai-moc-1700-diem-dong-tien-van-de-dat-bat-day-20260311111647135.htm) - 05:20 11/03/2026
+- 🏊 [Ăn bánh hạnh nhân đậu phộng khi nằm võng, nam sinh bất ngờ nguy kịch](https://dantri.com.vn/suc-khoe/an-banh-hanh-nhan-dau-phong-khi-nam-vong-nam-sinh-bat-ngo-nguy-kich-20260311113017369.htm) - 05:18 11/03/2026
+- 🎃 [WHO hỗ trợ khẩn thuốc 8.000 USD/lọ cứu 3 trẻ ngộ độc cá ủ chua](https://dantri.com.vn/suc-khoe/who-ho-tro-khan-thuoc-8000-usdlo-cuu-3-tre-ngo-doc-ca-u-chua-20260311113515864.htm) - 05:11 11/03/2026
+- 🎓 [Chủ cũ vi phạm luật đất đai, người mua sau phải gánh hậu quả?](https://dantri.com.vn/ban-doc/chu-cu-vi-pham-luat-dat-dai-nguoi-mua-sau-phai-ganh-hau-qua-20260311063054453.htm) - 05:06 11/03/2026
+- 👹 [Cụ bà 97 tuổi ở Việt Nam nổi tiếng thế giới sau một câu chào với khách Tây](https://dantri.com.vn/du-lich/cu-ba-97-tuoi-o-viet-nam-noi-tieng-the-gioi-sau-mot-cau-chao-voi-khach-tay-20260311094706025.htm) - 05:06 11/03/2026
+- 🔥 [Giải mã cú sốc giá dầu qua góc nhìn lịch sử phố Wall](https://dantri.com.vn/kinh-doanh/giai-ma-cu-soc-gia-dau-qua-goc-nhin-lich-su-pho-wall-20260310142559532.htm) - 05:02 11/03/2026
+- 🦏 [36 ngư dân trôi dạt 2 ngày trên biển đã được tàu Hải quân ứng cứu](https://dantri.com.vn/thoi-su/36-ngu-dan-troi-dat-2-ngay-tren-bien-da-duoc-tau-hai-quan-ung-cuu-20260311114525729.htm) - 04:58 11/03/2026
+- ⛽️ [Diện mạo hành lang ven sông Sài Gòn được đề xuất làm đại lộ 8-10 làn xe](https://dantri.com.vn/thoi-su/dien-mao-hanh-lang-ven-song-sai-gon-duoc-de-xuat-lam-dai-lo-8-10-lan-xe-20260310222544752.htm) - 04:57 11/03/2026
+- 🕯 [Nghệ An: Sắp có thêm siêu dự án nhiệt điện gần 60.000 tỷ đồng](https://dantri.com.vn/thoi-su/nghe-an-sap-co-them-sieu-du-an-nhiet-dien-gan-60000-ty-dong-20260311113813544.htm) - 04:55 11/03/2026
+- 💫 [AI camera trên Galaxy S26 Ultra có gì khiến iPhone phải học hỏi?](https://dantri.com.vn/cong-nghe/ai-camera-tren-galaxy-s26-ultra-co-gi-khien-iphone-phai-hoc-hoi-20260311004956030.htm) - 04:55 11/03/2026
+- 🎭 [Bảo đảm tối đa công tác y tế phục vụ bầu cử](https://dantri.com.vn/suc-khoe/bao-dam-toi-da-cong-tac-y-te-phuc-vu-bau-cu-20260311114401765.htm) - 04:53 11/03/2026
+- 🪜 [Báo động hội chứng &quot;cháy não&quot; vì dùng quá nhiều công cụ AI](https://dantri.com.vn/kinh-doanh/bao-dong-hoi-chung-chay-nao-vi-dung-qua-nhieu-cong-cu-ai-20260311070523279.htm) - 04:52 11/03/2026
+- 🚀 [Kẻ đâm chết bảo vệ bệnh viện ở Vĩnh Long bị khởi tố thêm tội danh](https://dantri.com.vn/phap-luat/ke-dam-chet-bao-ve-benh-vien-o-vinh-long-bi-khoi-to-them-toi-danh-20260311113016665.htm) - 04:47 11/03/2026
+- 🎭 [GAC Việt Nam khởi động chương trình ưu đãi đặc biệt tháng 3](https://dantri.com.vn/o-to-xe-may/gac-viet-nam-khoi-dong-chuong-trinh-uu-dai-dac-biet-thang-3-20260311113053366.htm) - 04:46 11/03/2026
+- 👹 [Tài sản của ông Elon Musk tăng thêm 500 tỷ USD](https://dantri.com.vn/the-gioi/tai-san-cua-ong-elon-musk-tang-them-500-ty-usd-20260311113840744.htm) - 04:44 11/03/2026
+- 🤔 [Bóng đá Iran tuyên bố về khả năng rút khỏi World Cup 2026](https://dantri.com.vn/the-thao/bong-da-iran-tuyen-bo-ve-kha-nang-rut-khoi-world-cup-2026-20260311112216510.htm) - 04:40 11/03/2026
+- 🥳 [5 loài động vật sống thọ nhất hành tinh: Có loài &quot;cải lão hoàn đồng&quot;](https://dantri.com.vn/khoa-hoc/5-loai-dong-vat-song-tho-nhat-hanh-tinh-co-loai-cai-lao-hoan-dong-20260311081704148.htm) - 04:38 11/03/2026
+- 🤗 [Nếu không chi Quỹ bình ổn, giá xăng có thể tăng tới hơn 6.000 đồng/lít](https://dantri.com.vn/kinh-doanh/neu-khong-chi-quy-binh-on-gia-xang-co-the-tang-toi-hon-6000-donglit-20260311011734466.htm) - 04:36 11/03/2026
+- 🔭 [Tạm giam nhóm đối tượng dùng dao tự chế, gạch đá gây rối](https://dantri.com.vn/phap-luat/tam-giam-nhom-doi-tuong-dung-dao-tu-che-gach-da-gay-roi-20260311104426185.htm) - 04:32 11/03/2026
+- 🚀 [Hà Nội: Trường THCS chất lượng cao phải cam kết 90% học sinh đạt khá, giỏi](https://dantri.com.vn/giao-duc/ha-noi-truong-thcs-chat-luong-cao-phai-cam-ket-90-hoc-sinh-dat-kha-gioi-20260311112129794.htm) - 04:30 11/03/2026
+- 🥰 [Chỉ 10% những đứa trẻ xuất chúng trở thành “ngôi sao” khi trưởng thành](https://dantri.com.vn/giao-duc/chi-10-nhung-dua-tre-xuat-chung-tro-thanh-ngoi-sao-khi-truong-thanh-20260310112329255.htm) - 04:30 11/03/2026
+- 🦅 [Xâm nhập mặn ở Đồng bằng sông Cửu Long tương đương nhiều năm](https://dantri.com.vn/thoi-su/xam-nhap-man-o-dong-bang-song-cuu-long-tuong-duong-nhieu-nam-20260311110724376.htm) - 04:27 11/03/2026
+- 🐻 [Doanh nghiệp đề xuất mở rộng Quốc lộ 21A lên 80m, đổi lấy đô thị, sân golf](https://dantri.com.vn/bat-dong-san/doanh-nghiep-de-xuat-mo-rong-quoc-lo-21a-len-80m-doi-lay-do-thi-san-golf-20260311105654087.htm) - 04:26 11/03/2026
+- 🕴 [Bộ Y tế  cấm mọi hành vi mua bán mô, bộ phận cơ thể người](https://dantri.com.vn/suc-khoe/bo-y-te-cam-moi-hanh-vi-mua-ban-mo-bo-phan-co-the-nguoi-20260311105950530.htm) - 04:25 11/03/2026
+- 🐲 [Tổng giám đốc Masan muốn mua thêm 5 triệu cổ phiếu MSN](https://dantri.com.vn/kinh-doanh/tong-giam-doc-masan-muon-mua-them-5-trieu-co-phieu-msn-20260311090906175.htm) - 04:21 11/03/2026
+- 🌏 [Toàn cảnh xung đột Trung Đông: 140 binh sĩ Mỹ bị thương](https://dantri.com.vn/the-gioi/toan-canh-xung-dot-trung-dong-140-binh-si-my-bi-thuong-20260311105314820.htm) - 04:16 11/03/2026
+- 🧑‍🏫 [Ô tô tập lái lao bất chấp qua đường sắt khi barie đang hạ](https://dantri.com.vn/thoi-su/o-to-tap-lai-lao-bat-chap-qua-duong-sat-khi-barie-dang-ha-20260311104834085.htm) - 04:16 11/03/2026
+- 🧠 [Pep Guardiola nhắc nhở học trò, Arbeloa thừa nhận khó khăn](https://dantri.com.vn/the-thao/pep-guardiola-nhac-nho-hoc-tro-arbeloa-thua-nhan-kho-khan-20260311094121410.htm) - 04:15 11/03/2026
+- 🌮 [IEA đề xuất đợt xả dầu dự trữ lớn nhất trong lịch sử?](https://dantri.com.vn/the-gioi/iea-de-xuat-dot-xa-dau-du-tru-lon-nhat-trong-lich-su-20260311105321440.htm) - 04:14 11/03/2026
+- 🎡 [Thông tin mới nhất về vụ nổ trong nhà máy phốt pho vàng ở Lào Cai](https://dantri.com.vn/thoi-su/thong-tin-moi-nhat-ve-vu-no-trong-nha-may-phot-pho-vang-o-lao-cai-20260311105054150.htm) - 04:08 11/03/2026
+- 🌊 [Tìm thân nhân thi thể đeo thắt lưng chữ H bên sông Sài Gòn](https://dantri.com.vn/thoi-su/tim-than-nhan-thi-the-deo-that-lung-chu-h-ben-song-sai-gon-20260311101402126.htm) - 04:07 11/03/2026
+- 📝 [“Vua nhạc pop” Michael Jackson bị cáo buộc lạm dụng trẻ em](https://dantri.com.vn/giai-tri/vua-nhac-pop-michael-jackson-bi-cao-buoc-lam-dung-tre-em-20260311101032757.htm) - 04:03 11/03/2026
+- 🎉 [Collagen Vegan Peptide - Mỹ phẩm thuần chay từ Đức ra mắt người dùng Việt Nam](https://dantri.com.vn/suc-khoe/collagen-vegan-peptide-my-pham-thuan-chay-tu-duc-ra-mat-nguoi-dung-viet-nam-20260311104002020.htm) - 04:00 11/03/2026
+- 🕯 [Lương cơ sở dự kiến tăng, những khoản nào sẽ được điều chỉnh?](https://dantri.com.vn/noi-vu/luong-co-so-du-kien-tang-nhung-khoan-nao-se-duoc-dieu-chinh-20260311095022314.htm) - 03:54 11/03/2026
+- 💡 [AEMG nâng tầm công nghiệp hỗ trợ từ những giải pháp khí nén hiện đại](https://dantri.com.vn/kinh-doanh/aemg-nang-tam-cong-nghiep-ho-tro-tu-nhung-giai-phap-khi-nen-hien-dai-20260311105049346.htm) - 03:54 11/03/2026
+- 🤠 [Cách Iran tạo thế &quot;thắt nút cổ chai&quot; ở eo biển Hormuz](https://dantri.com.vn/the-gioi/cach-iran-tao-the-that-nut-co-chai-o-eo-bien-hormuz-20260311104752388.htm) - 03:54 11/03/2026
+- 🚦 [Ông Kim Jong-un và con gái giám sát vụ thử tên lửa từ tàu khu trục](https://dantri.com.vn/the-gioi/ong-kim-jong-un-va-con-gai-giam-sat-vu-thu-ten-lua-tu-tau-khu-truc-20260311090830804.htm) - 03:49 11/03/2026
+- 🕯 [Khởi tố vụ án nhóm &quot;quái xế&quot; lao xe vào rào chắn của cảnh sát](https://dantri.com.vn/phap-luat/khoi-to-vu-an-nhom-quai-xe-lao-xe-vao-rao-chan-cua-canh-sat-20260311104417938.htm) - 03:49 11/03/2026
+- 💪 [Vụ án Anh “Khàn” ở Sa Pa có xảy ra ở nơi công cộng?](https://dantri.com.vn/phap-luat/vu-an-anh-khan-o-sa-pa-co-xay-ra-o-noi-cong-cong-20260311094845020.htm) - 03:46 11/03/2026
+- 🥰 [Mỹ cảnh báo Nga không can thiệp vào cuộc chiến với Iran](https://dantri.com.vn/the-gioi/my-canh-bao-nga-khong-can-thiep-vao-cuoc-chien-voi-iran-20260311104353956.htm) - 03:45 11/03/2026
+- 🤔 [Nữ diễn viên “50 sắc thái” gây chú ý với loạt ảnh bán khỏa thân táo bạo](https://dantri.com.vn/giai-tri/nu-dien-vien-50-sac-thai-gay-chu-y-voi-loat-anh-ban-khoa-than-tao-bao-20260311103103110.htm) - 03:44 11/03/2026
+- 🔭 [TPHCM sẵn sàng phương án sơ cấp cứu trong suốt thời gian bầu cử](https://dantri.com.vn/thoi-su/tphcm-san-sang-phuong-an-so-cap-cuu-trong-suot-thoi-gian-bau-cu-20260311101532374.htm) - 03:37 11/03/2026
+- 🤖 [Nghệ sĩ Quốc Tuấn: Có ít tiền gửi tiết kiệm, lý do không dùng Facebook](https://dantri.com.vn/giai-tri/nghe-si-quoc-tuan-co-it-tien-gui-tiet-kiem-ly-do-khong-dung-facebook-20260311095605090.htm) - 03:35 11/03/2026
+- 🥷 [Bắt nguyên cán bộ địa chính phường chiếm đoạt hơn 28 tỷ đồng ở Đồng Nai](https://dantri.com.vn/phap-luat/bat-nguyen-can-bo-dia-chinh-phuong-chiem-doat-hon-28-ty-dong-o-dong-nai-20260311101501856.htm) - 03:28 11/03/2026
+- 🦩 [Thông tuyến đường sắt Hà Nội - TPHCM qua cầu Ghềnh với vận tốc 5km/h](https://dantri.com.vn/thoi-su/thong-tuyen-duong-sat-ha-noi-tphcm-qua-cau-ghenh-voi-van-toc-5kmh-20260311095046287.htm) - 03:19 11/03/2026
+- 😎 [De Heus và Hùng Nhơn thúc đẩy chuỗi nông nghiệp bền vững tại Việt Nam](https://dantri.com.vn/kinh-doanh/de-heus-va-hung-nhon-thuc-day-chuoi-nong-nghiep-ben-vung-tai-viet-nam-20260311100539544.htm) - 03:12 11/03/2026
+- 🥰 [Khách Tây thử món thịt chuột khổng lồ ở Hà Nội, giá hơn 2 triệu đồng/kg](https://dantri.com.vn/du-lich/khach-tay-thu-mon-thit-chuot-khong-lo-o-ha-noi-gia-hon-2-trieu-dongkg-20260311095543950.htm) - 03:01 11/03/2026
+- 🏊 [Chuyển biến từ học tập và làm theo sang thực hành tư tưởng, đạo đức, phong cách Hồ Chí Minh - Yêu cầu khách quan trong kỷ nguyên mới](https://dantri.com.vn/thoi-su/chuyen-bien-tu-hoc-tap-va-lam-theo-sang-thuc-hanh-tu-tuong-dao-duc-phong-cach-ho-chi-minh-yeu-cau-khach-quan-trong-ky-nguyen-moi-20260311100046896.htm) - 03:00 11/03/2026
+- 🕯 [Thêm nguồn cung căn hộ chuẩn sống WorldHotels Residences tại TPHCM](https://dantri.com.vn/bat-dong-san/them-nguon-cung-can-ho-chuan-song-worldhotels-residences-tai-tphcm-20260311094315291.htm) - 03:00 11/03/2026
+- 🌈 [Toyota Innova Cross 2.0G: Lựa chọn phù hợp cả doanh nghiệp và gia đình](https://dantri.com.vn/o-to-xe-may/toyota-innova-cross-20g-lua-chon-phu-hop-ca-doanh-nghiep-va-gia-dinh-20260311092354343.htm) - 03:00 11/03/2026
+- 🧑‍💻 [Bị con trai đuổi khỏi nhà, tôi xúc động vì chàng rể mà mình luôn coi thường](https://dantri.com.vn/tinh-yeu-gioi-tinh/bi-con-trai-duoi-khoi-nha-toi-xuc-dong-vi-chang-re-ma-minh-luon-coi-thuong-20260310154627431.htm) - 03:00 11/03/2026
+- 💫 [Úc siết visa đào tạo, chấn chỉnh tình trạng “nộp gộp&quot; để kéo dài cư trú](https://dantri.com.vn/giao-duc/uc-siet-visa-dao-tao-chan-chinh-tinh-trang-nop-gop-de-keo-dai-cu-tru-20260311093248230.htm) - 02:54 11/03/2026
+- ⛽️ [Chủ tịch Hà Nội lần thứ 2 chỉ đạo vụ 4,3ha đất nông nghiệp ở phường Đại Mỗ](https://dantri.com.vn/thoi-su/chu-tich-ha-noi-lan-thu-2-chi-dao-vu-43ha-dat-nong-nghiep-o-phuong-dai-mo-20260311093447055.htm) - 02:40 11/03/2026
+- 🌜 [Trường học ở TPHCM thu tiền giữ chỗ 55 triệu đồng, không học là mất](https://dantri.com.vn/giao-duc/truong-hoc-o-tphcm-thu-tien-giu-cho-55-trieu-dong-khong-hoc-la-mat-20260311091656683.htm) - 02:36 11/03/2026<!-- dantri:END -->
 
 
 ## Báo Thanh Niên
