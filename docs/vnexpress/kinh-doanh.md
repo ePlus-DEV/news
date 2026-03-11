@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [35 tỷ phú trẻ nhất thế giới](https://vnexpress.net/35-ty-phu-tre-nhat-the-gioi-5049165.html) - 17:33 11/03/2026
 - 🐲 [Người Việt chi gần 5.600 tỷ đồng xem phim chiếu rạp](https://vnexpress.net/nguoi-viet-chi-gan-5-600-ty-dong-xem-phim-chieu-rap-5049350.html) - 17:23 11/03/2026
-- 🔥 [Giá xăng giảm gần 4.000 đồng một lít](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html) - 14:59 11/03/2026
+- 🔥 [Giá xăng giảm gần 4.000 đồng một lít](https://vnexpress.net/gia-xang-giam-gan-4-000-dong-mot-lit-5049264.html) - 14:59 11/03/2026
 - 🐵 [Các nước IEA sẽ xả 400 triệu thùng dầu dự trữ](https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html) - 14:44 11/03/2026
 - 🦅 [Iran cảnh báo giá dầu có thể lên 200 USD](https://vnexpress.net/iran-canh-bao-gia-dau-co-the-len-200-usd-5049354.html) - 14:21 11/03/2026
 - 😺 [Sếp nhiều doanh nghiệp lớn chi hàng nghìn tỷ &#39;đỡ&#39; giá cổ phiếu](https://vnexpress.net/sep-nhieu-doanh-nghiep-lon-chi-hang-nghin-ty-do-gia-co-phieu-5049158.html) - 13:45 11/03/2026
