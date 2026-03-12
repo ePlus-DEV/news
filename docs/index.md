@@ -134,7 +134,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Giá xăng các nước châu Á biến động ra sao giữa sức nóng Trung Đông?](https://dantri.com.vn/kinh-doanh/gia-xang-cac-nuoc-chau-a-bien-dong-ra-sao-giua-suc-nong-trung-dong-20260311103819954.htm) - 08:12 12/03/2026
 - 🥷 [Đại học giữa lòng thành phố](https://dantri.com.vn/tam-diem/dai-hoc-giua-long-thanh-pho-20260312142710991.htm) - 08:10 12/03/2026
 - 🦩 [Một năm xử lý gần 9.000 vi phạm, phát lộ nhiều lỗ hổng quản lý đất đai](https://dantri.com.vn/thoi-su/mot-nam-xu-ly-gan-9000-vi-pham-phat-lo-nhieu-lo-hong-quan-ly-dat-dai-20260312144117139.htm) - 08:03 12/03/2026
-- 😎 [Đà Nẵng sẵn sàng cho &quot;ngày hội non sông&quot;](https://dantri.com.vn/thoi-su/da-nang-san-sang-cho-ngay-hoi-non-song-20260312141127631.htm) - 08:01 12/03/2026
+- 😎 [Đà Nẵng sẵn sàng cho ngày hội non sông](https://dantri.com.vn/thoi-su/da-nang-san-sang-cho-ngay-hoi-non-song-20260312141127631.htm) - 08:01 12/03/2026
 - 🥰 [Cao tốc Cần Thơ - Cà Mau lún mố cầu, chủ đầu tư lý giải như thế nào?](https://dantri.com.vn/thoi-su/cao-toc-can-tho-ca-mau-lun-mo-cau-chu-dau-tu-ly-giai-nhu-the-nao-20260312110628901.htm) - 08:00 12/03/2026
 - 🏊 [Môi trường sống tác động đến tuổi thọ con người như thế nào?](https://dantri.com.vn/bat-dong-san/moi-truong-song-tac-dong-den-tuoi-tho-con-nguoi-nhu-the-nao-20260312141044365.htm) - 08:00 12/03/2026
 - 🕯 [Khối dị vật thức ăn từ măng khô chiếm gần trọn dạ dày người đàn ông](https://dantri.com.vn/suc-khoe/khoi-di-vat-thuc-an-tu-mang-kho-chiem-gan-tron-da-day-nguoi-dan-ong-20260312135510887.htm) - 08:00 12/03/2026
