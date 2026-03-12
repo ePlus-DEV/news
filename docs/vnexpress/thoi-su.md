@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lương đại tướng công an dự kiến hơn 26 triệu đồng từ 1/7](https://vnexpress.net/luong-dai-tuong-cong-an-du-kien-hon-26-trieu-dong-tu-1-7-5049629.html) - 17:00 12/03/2026
+- 🦒 [Bảng lương công an dự kiến từ 1/7](https://vnexpress.net/bang-luong-cong-an-du-kien-tu-1-7-5049629.html) - 17:00 12/03/2026
 - 🤓 [Tìm thấy hài cốt liệt sĩ cùng bộ cờ tướng trong hang đá](https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-bo-co-tuong-trong-hang-da-5049836.html) - 15:19 12/03/2026
 - ⚗️ [Tổng Bí thư: Cần chính sách mạnh thu hút chuyên gia AI, bán dẫn](https://vnexpress.net/tong-bi-thu-can-chinh-sach-manh-thu-hut-chuyen-gia-ai-ban-dan-5049837.html) - 15:08 12/03/2026
 - 🌊 [Khuyến khích dùng tên thật, không lan truyền tin giả trên mạng xã hội](https://vnexpress.net/khuyen-khich-dung-ten-that-khong-lan-truyen-tin-gia-tren-mang-xa-hoi-5049791.html) - 10:54 12/03/2026
