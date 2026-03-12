@@ -9,7 +9,7 @@ sidebar_position: 6
 - 🚦 [Người dân châu Á chật vật vì giá gas, xăng dầu tăng vọt](https://vnexpress.net/nguoi-dan-chau-a-chat-vat-vi-gia-gas-xang-dau-tang-vot-5049533.html) - 04:32 12/03/2026
 - 🦣 [Cuộc đời &#39;em bé ống nghiệm&#39; đầu tiên ở nước Mỹ](https://vnexpress.net/cuoc-doi-em-be-ong-nghiem-dau-tien-o-nuoc-my-5049452.html) - 03:38 12/03/2026
 - 🎓 [Chồng tự đỡ đẻ cho vợ vì hộ sinh bỏ chạy](https://vnexpress.net/chong-tu-do-de-cho-vo-vi-ho-sinh-bo-chay-5049172.html) - 01:48 12/03/2026
-- 🎭 [Chi tiền vào phòng gym để ngủ](https://vnexpress.net/chi-tien-vao-phong-gym-de-ngu-5049360.html) - 01:34 12/03/2026
+- 🎭 [Tập gym bằng cách ngủ](https://vnexpress.net/tap-gym-bang-cach-ngu-5049360.html) - 01:34 12/03/2026
 - 🦅 [Bi hài cuộc sống của những người không thể phân biệt trái phải](https://vnexpress.net/bi-hai-cuoc-song-cua-nhung-nguoi-khong-the-phan-biet-trai-phai-5047581.html) - 23:00 11/03/2026
 - 🎃 [Anh em sinh ba cưới vợ cùng ngày](https://vnexpress.net/anh-em-sinh-ba-cuoi-vo-cung-ngay-5049227.html) - 12:00 11/03/2026
 - 💪 [Sai lầm khi nêm muối khiến rau xào mất ngon](https://vnexpress.net/sai-lam-khi-nem-muoi-khien-rau-xao-mat-ngon-5048842.html) - 08:31 11/03/2026
