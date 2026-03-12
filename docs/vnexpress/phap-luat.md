@@ -9,7 +9,7 @@ sidebar_position: 12
 - 🎓 [4 người trong băng mua bán 80 kg ma túy ở TP HCM lĩnh án tử hình](https://vnexpress.net/4-nguoi-trong-bang-mua-ban-80-kg-ma-tuy-o-tp-hcm-linh-an-tu-hinh-5049724.html) - 09:34 12/03/2026
 - 🤓 [&#39;Mồi nhử&#39; bán xe máy Honda giá rẻ hơn đại lý](https://vnexpress.net/moi-nhu-ban-xe-may-honda-gia-re-hon-dai-ly-5049672.html) - 08:18 12/03/2026
 - 🎊 [Người điều hành nhóm &#39;phế liệu chiến tranh BW&#39; bị phạt 6 năm tù](https://vnexpress.net/nguoi-dieu-hanh-nhom-phe-lieu-chien-tranh-bw-bi-phat-6-nam-tu-5049655.html) - 08:12 12/03/2026
-- 🙉 [Biển báo giao thông &#39;cấm đùa giỡn khi lái xe&#39; gây chú ý ở Trung Quốc](https://vnexpress.net/bien-bao-giao-thong-cam-dua-gion-khi-lai-xe-gay-chu-y-o-trung-quoc-5049598.html) - 05:16 12/03/2026
+- 🙉 [Biển báo giao thông &#39;cấm đùa giỡn khi lái xe&#39; gây chú ý](https://vnexpress.net/bien-bao-giao-thong-cam-dua-gion-khi-lai-xe-gay-chu-y-o-trung-quoc-5049598.html) - 05:16 12/03/2026
 - 🤡 [Cựu lãnh đạo Cao đẳng GTVT Trung ương III tự ý cấp phép đào tạo lái xe](https://vnexpress.net/cuu-lanh-dao-cao-dang-gtvt-trung-uong-iii-tu-y-cap-phep-dao-tao-lai-xe-5049145.html) - 05:12 12/03/2026
 - 🗽 [Đối mặt án tù vì nhét chì vào bụng cá để gian lận giành giải thưởng](https://vnexpress.net/doi-mat-an-tu-vi-nhet-chi-vao-bung-ca-de-gian-lan-gianh-giai-thuong-5049585.html) - 04:58 12/03/2026
 - 🌋 [Nghi án em trai làm giả kết hôn với chị quá cố để chiếm tài sản](https://vnexpress.net/nghi-an-em-trai-lam-gia-ket-hon-voi-chi-qua-co-de-chiem-tai-san-5049552.html) - 04:46 12/03/2026
