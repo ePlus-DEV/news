@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thiết lập hệ thống cập nhật kết quả bầu cử trên cả nước](https://vnexpress.net/thiet-lap-he-thong-cap-nhat-ket-qua-bau-cu-tren-ca-nuoc-5049607.html) - 05:31 12/03/2026
+- 🦒 [Cập nhật liên tục kết quả bầu cử trên cả nước](https://vnexpress.net/cap-nhat-lien-tuc-ket-qua-bau-cu-tren-ca-nuoc-5049607.html) - 05:31 12/03/2026
 - 🤓 [Nơi thờ xương cá voi suốt 200 năm ở Quy Nhơn](https://vnexpress.net/noi-tho-xuong-ca-voi-suot-200-nam-o-quy-nhon-5049178.html) - 05:22 12/03/2026
 - ⚗️ [5 người tự ứng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/5-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5049558.html) - 05:11 12/03/2026
 - 🌊 [Hà Nội còn gần 600 cơ sở giết mổ tiềm ẩn nguy cơ mất an toàn](https://vnexpress.net/ha-noi-con-gan-600-co-so-giet-mo-tiem-an-nguy-co-mat-an-toan-5049553.html) - 05:00 12/03/2026
