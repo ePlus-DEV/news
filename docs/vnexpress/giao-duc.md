@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hà Nội dự kiến cần thêm gần 1.000 trường học trong 20 năm tới](https://vnexpress.net/ha-noi-du-kien-can-them-gan-1-000-truong-hoc-trong-20-nam-toi-5050056.html) - 08:23 13/03/2026
+- 🤓 [33 phường ở Hà Nội được ưu tiên xây trường học](https://vnexpress.net/33-phuong-o-ha-noi-duoc-uu-tien-xay-truong-hoc-5050056.html) - 08:23 13/03/2026
 - 🦆 [VGU đào tạo nhân lực cho Trung tâm Tài chính quốc tế Việt Nam](https://vnexpress.net/vgu-dao-tao-nhan-luc-cho-trung-tam-tai-chinh-quoc-te-viet-nam-5050026.html) - 06:00 13/03/2026
 - 🦩 [Hà Nội lần đầu cho học sinh tạm trú thi lớp 10 công lập](https://vnexpress.net/ha-noi-lan-dau-cho-hoc-sinh-tam-tru-thi-lop-10-cong-lap-5049818.html) - 04:13 13/03/2026
 - 🌮 [8 trường THPT nhiều giải học sinh giỏi nhất TP HCM](https://vnexpress.net/8-truong-thpt-nhieu-giai-hoc-sinh-gioi-nhat-tp-hcm-5049982.html) - 03:57 13/03/2026
