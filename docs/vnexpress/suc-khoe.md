@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Vi khuẩn Salmonella khiến 97 người ăn bánh kem ở Rạch Giá ngộ độc](https://vnexpress.net/vi-khuan-salmonella-khien-97-nguoi-an-banh-kem-o-rach-gia-ngo-doc-5050202.html) - 12:34 13/03/2026
+- 🔥 [97 người ăn bánh kem ngộ độc là do vi khuẩn Salmonella](https://vnexpress.net/97-nguoi-an-banh-kem-ngo-doc-la-do-vi-khuan-salmonella-5050202.html) - 12:34 13/03/2026
 - 🥰 [5 bệnh truyền nhiễm cần lưu ý phòng ngừa cho trẻ nhỏ](https://vnexpress.net/5-benh-truyen-nhiem-can-luu-y-phong-ngua-cho-tre-nho-5050166.html) - 12:00 13/03/2026
 - 💡 [13 học sinh nghi ngộ độc sau uống trà sữa](https://vnexpress.net/13-hoc-sinh-nghi-ngo-doc-sau-uong-tra-sua-5050220.html) - 11:52 13/03/2026
 - 🤗 [Những thói quen trẻ nên hình thành sớm](https://vnexpress.net/nhung-thoi-quen-tre-nen-hinh-thanh-som-5050100.html) - 11:00 13/03/2026
