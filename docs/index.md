@@ -409,7 +409,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng](https://baochinhphu.vn/chuong-trinh-hanh-dong-cua-chinh-phu-thuc-hiennghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-102260313151348672.htm) - 16:34 13/03/2026
 - 🌝 [BIDV lập cú đúp giải thưởng ngân hàng bán lẻ và tiền gửi châu Á](https://baochinhphu.vn/bidv-lap-cu-dup-giai-thuong-ngan-hang-ban-le-va-tien-gui-chau-a-102260313154014667.htm) - 16:00 13/03/2026
 - 🦣 [Giá dầu thế giới vượt mốc 100 USD/thùng](https://baochinhphu.vn/gia-dau-the-gioi-vuot-moc-100-usd-thung-102260313102708781.htm) - 15:59 13/03/2026
-- ⛽️ [NovaGroup và Bệnh viện Đại học Y Dược TPHCM hợp tác phát triển dịch vụ y tế chất lượng cao](https://baochinhphu.vn/novagroup-va-benh-vien-dai-hoc-y-duoc-tphcm-hop-tac-phat-trien-dich-vu-y-te-chat-luong-cao-102260313160003658.htm) - 15:43 13/03/2026
+- ⛽️ [NovaGroup hợp tác với Bệnh viện Đại học Y Dược TPHCM hoàn thiện hệ sinh thái &quot;All-in-one&quot;](https://baochinhphu.vn/novagroup-va-benh-vien-dai-hoc-y-duoc-tphcm-hop-tac-phat-trien-dich-vu-y-te-chat-luong-cao-102260313160003658.htm) - 15:43 13/03/2026
 - 🎓 [Không để lợi dụng biến động giá xăng dầu tăng cước vận tải bất hợp lý](https://baochinhphu.vn/khong-de-loi-dung-bien-dong-gia-xang-dau-tang-cuoc-van-tai-bat-hop-ly-102260313153212145.htm) - 15:40 13/03/2026
 - 💡 [Chùm ảnh: Bản xa rộn ràng chuẩn bị &#39;Ngày hội non sông&#39;](https://baochinhphu.vn/chum-anh-ban-xa-ron-rang-chuan-bi-ngay-hoi-non-song-102260313151432997.htm) - 15:24 13/03/2026
 - 🌊 [Cử tri đảo Hòn Khoai, Hòn Chuối hoàn thành bầu cử sớm với tỉ lệ 100%](https://baochinhphu.vn/cu-tri-dao-hon-khoai-hon-chuoi-hoan-thanh-bau-cu-som-voi-ti-le-100-102260313150057469.htm) - 15:14 13/03/2026
