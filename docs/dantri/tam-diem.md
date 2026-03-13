@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Đại học giữa lòng thành phố](https://dantri.com.vn/tam-diem/dai-hoc-giua-long-thanh-pho-20260312142710991.htm) - 08:10 12/03/2026
-- 🫶 [Nhà ở giá phù hợp: Một năm có đủ để thử nghiệm?](https://dantri.com.vn/tam-diem/nha-o-gia-phu-hop-mot-nam-co-du-de-thu-nghiem-20260311150444897.htm) - 01:17 12/03/2026
-- 🦏 [Quản lý thuế với hộ kinh doanh: “Tháo” và “gỡ”](https://dantri.com.vn/tam-diem/quan-ly-thue-voi-ho-kinh-doanh-thao-va-go-20260311152751790.htm) - 09:24 11/03/2026
-- 🧰 [Lá phiếu và trọng trách của cử tri](https://dantri.com.vn/tam-diem/la-phieu-va-trong-trach-cua-cu-tri-20260310140321578.htm) - 01:03 11/03/2026
-- 🙉 [Khi chủ tịch phường “truy” người xả rác bừa bãi](https://dantri.com.vn/tam-diem/khi-chu-tich-phuong-truy-nguoi-xa-rac-bua-bai-20260310135350056.htm) - 08:13 10/03/2026
-- 🌜 [Lời giải cho bài toán “thư viện ở Việt Nam ít người lui tới”](https://dantri.com.vn/tam-diem/loi-giai-cho-bai-toan-thu-vien-o-viet-nam-it-nguoi-lui-toi-20260310071714050.htm) - 00:21 10/03/2026
-- 🤔 [Lương hơn 20 triệu đồng/tháng và sự “chơi vơi” về nhà ở](https://dantri.com.vn/tam-diem/luong-hon-20-trieu-dongthang-va-su-choi-voi-ve-nha-o-20260309150543394.htm) - 08:09 09/03/2026
-- 🤩 [Những chuyển mình của Hà Nội](https://dantri.com.vn/tam-diem/nhung-chuyen-minh-cua-ha-noi-20260309073520172.htm) - 00:35 09/03/2026
-- 🦅 [“Hãy sống như bà Nguyễn Thị Bình”](https://dantri.com.vn/tam-diem/hay-song-nhu-ba-nguyen-thi-binh-20260307205538668.htm) - 05:01 08/03/2026
-- 💫 [Ý nghĩa thật sự của ngày 8/3](https://dantri.com.vn/tam-diem/y-nghia-that-su-cua-ngay-83-20260307203646313.htm) - 17:08 07/03/2026
-- 🤗 [Nói không với “Xôi Lạc”](https://dantri.com.vn/tam-diem/noi-khong-voi-xoi-lac-20260307082901881.htm) - 01:45 07/03/2026
-- 🫶 [“Đạp kịch ga” kiểm định xe diesel: Có cách nào khác?](https://dantri.com.vn/tam-diem/dap-kich-ga-kiem-dinh-xe-diesel-co-cach-nao-khac-20260305142433902.htm) - 04:30 06/03/2026
-- 💡 [Từ lá phiếu gửi gắm đến trách nhiệm của người đại biểu dân cử](https://dantri.com.vn/tam-diem/tu-la-phieu-gui-gam-den-trach-nhiem-cua-nguoi-dai-bieu-dan-cu-20260306082948629.htm) - 01:39 06/03/2026
-- 🌮 [Quy chế tuyển sinh “phút bù giờ”](https://dantri.com.vn/tam-diem/quy-che-tuyen-sinh-phut-bu-gio-20260305144247552.htm) - 09:31 05/03/2026
-- 🌊 [Thiết kế “sân chơi” hợp tác công – tư như thế nào?](https://dantri.com.vn/tam-diem/thiet-ke-san-choi-hop-tac-cong-tu-nhu-the-nao-20260305064943425.htm) - 23:52 04/03/2026
-- 👹 [Chuyển mục đích sử dụng sang đất ở: Nên đơn giản hóa thủ tục](https://dantri.com.vn/tam-diem/chuyen-muc-dich-su-dung-sang-dat-o-nen-don-gian-hoa-thu-tuc-20260303223615191.htm) - 23:12 03/03/2026
-- 🤩 [Khi trẻ thơ vui, buồn với robot AI](https://dantri.com.vn/tam-diem/khi-tre-tho-vui-buon-voi-robot-ai-20260302215725250.htm) - 00:19 03/03/2026
-- 💄 [Từ vụ cô giáo bắt học sinh liếm đất, nghĩ về “quyền lực” trên bục giảng](https://dantri.com.vn/tam-diem/tu-vu-co-giao-bat-hoc-sinh-liem-dat-nghi-ve-quyen-luc-tren-buc-giang-20260302103427652.htm) - 07:05 02/03/2026
-- 🦣 [Chọi trâu, cướp phết, đấu vật và bài toán quản trị rủi ro](https://dantri.com.vn/tam-diem/choi-trau-cuop-phet-dau-vat-va-bai-toan-quan-tri-rui-ro-20260301155212513.htm) - 23:30 01/03/2026
-- ⛽️ [Sới vật hội làng: rất hấp dẫn, lắm lo ngại!](https://dantri.com.vn/tam-diem/soi-vat-hoi-lang-rat-hap-dan-lam-lo-ngai-20260228170052599.htm) - 23:12 28/02/2026
-- 🌁 [Giá nào cho bát phở sân bay?](https://dantri.com.vn/tam-diem/gia-nao-cho-bat-pho-san-bay-20260228065420225.htm) - 00:33 28/02/2026
-- 🥳 [Ước mơ của bác sĩ](https://dantri.com.vn/tam-diem/uoc-mo-cua-bac-si-20260227081351220.htm) - 02:18 27/02/2026
-- 🧐 [Bức bách gửi xe ở phố](https://dantri.com.vn/tam-diem/buc-bach-gui-xe-o-pho-20260226150721229.htm) - 11:49 26/02/2026
-- 🕴 [Động lực mạnh mẽ của công nghiệp văn hóa Việt Nam](https://dantri.com.vn/tam-diem/dong-luc-manh-me-cua-cong-nghiep-van-hoa-viet-nam-20260225173725991.htm) - 23:27 25/02/2026
-- 🥳 [Du lịch Tết lập kỷ lục, vui nhưng đừng chủ quan](https://dantri.com.vn/tam-diem/du-lich-tet-lap-ky-luc-vui-nhung-dung-chu-quan-20260225163625400.htm) - 09:41 25/02/2026
-- 💡 [“Hai làn đường” của giá đất](https://dantri.com.vn/tam-diem/hai-lan-duong-cua-gia-dat-20260224184612544.htm) - 23:42 24/02/2026
-- 🦣 [Phim Tết Việt bùng nổ: Thị hiếu đại chúng quyết định doanh thu phòng vé](https://dantri.com.vn/tam-diem/phim-tet-viet-bung-no-thi-hieu-dai-chung-quyet-dinh-doanh-thu-phong-ve-20260223204354971.htm) - 00:27 24/02/2026
-- 🤓 [“Quyền lực mềm” gala đêm giao thừa](https://dantri.com.vn/tam-diem/quyen-luc-mem-gala-dem-giao-thua-20260223113016134.htm) - 04:54 23/02/2026
-- 🤭 [Tầm cao mới của đối ngoại Việt Nam](https://dantri.com.vn/tam-diem/tam-cao-moi-cua-doi-ngoai-viet-nam-20260223071255477.htm) - 00:13 23/02/2026
-- 🌮 [Khi bảo tàng, di tích mở cửa miễn phí ngày xuân](https://dantri.com.vn/tam-diem/khi-bao-tang-di-tich-mo-cua-mien-phi-ngay-xuan-20260221180617967.htm) - 00:53 22/02/2026
-- 🗽 [Đưa Tết Việt thành thương hiệu du lịch văn hóa?](https://dantri.com.vn/tam-diem/dua-tet-viet-thanh-thuong-hieu-du-lich-van-hoa-20260220220527162.htm) - 11:49 21/02/2026
-- ⚗️ [Thăm Đài tưởng niệm nạn nhân Covid-19: Cúi mình để sống tiếp tử tế](https://dantri.com.vn/tam-diem/tham-dai-tuong-niem-nan-nhan-covid-19-cui-minh-de-song-tiep-tu-te-20260220221343943.htm) - 18:00 20/02/2026
-- 🥰 [Khi mùa xuân bắt đầu từ cải cách](https://dantri.com.vn/tam-diem/khi-mua-xuan-bat-dau-tu-cai-cach-20260219141155122.htm) - 01:15 20/02/2026
-- 🚀 [Nhàn nhã “Tết AI”](https://dantri.com.vn/tam-diem/nhan-nha-tet-ai-20260219145908475.htm) - 08:24 19/02/2026
-- 🎊 [Mùng 3 Tết thầy – khi sự tôn sư phải vượt qua điểm số](https://dantri.com.vn/tam-diem/mung-3-tet-thay-khi-su-ton-su-phai-vuot-qua-diem-so-20260218225803354.htm) - 01:09 19/02/2026
-- 🦣 [Tết của người già](https://dantri.com.vn/tam-diem/tet-cua-nguoi-gia-20260218191503007.htm) - 12:15 18/02/2026
-- 🎃 [Việt Nam 2026: Bản giao hưởng giữa khát vọng số và hạnh phúc bạc](https://dantri.com.vn/tam-diem/viet-nam-2026-ban-giao-huong-giua-khat-vong-so-va-hanh-phuc-bac-20260217213057474.htm) - 23:00 17/02/2026
-- 💂 [Hành động quyết liệt cho bước tiến mới của đất nước](https://dantri.com.vn/tam-diem/hanh-dong-quyet-liet-cho-buoc-tien-moi-cua-dat-nuoc-20260214163813150.htm) - 07:40 17/02/2026
-- 🦒 [Năm Ngọ – tiến nhanh, tiến vững trên con đường lớn đã mở](https://dantri.com.vn/tam-diem/nam-ngo-tien-nhanh-tien-vung-tren-con-duong-lon-da-mo-20260216082830440.htm) - 17:00 16/02/2026
-- 🎭 [Những nghĩ suy trước thềm năm mới](https://dantri.com.vn/tam-diem/nhung-nghi-suy-truoc-them-nam-moi-20260216075711064.htm) - 01:04 16/02/2026
-- 📝 [Loa phường ngày Tết](https://dantri.com.vn/tam-diem/loa-phuong-ngay-tet-20260215160105889.htm) - 09:01 15/02/2026
-- 🦄 [Xe buýt điện: Không chỉ xanh, mà phải thuận tiện và thông minh hơn](https://dantri.com.vn/tam-diem/xe-buyt-dien-khong-chi-xanh-ma-phai-thuan-tien-va-thong-minh-hon-20260215081805940.htm) - 01:18 15/02/2026
-- 🚀 [Chuyện tình yêu con trẻ](https://dantri.com.vn/tam-diem/chuyen-tinh-yeu-con-tre-20260214133422482.htm) - 06:42 14/02/2026
-- 💂 [Nhân chuyện “Trường Giang khuyên Đình Bắc”](https://dantri.com.vn/tam-diem/nhan-chuyen-truong-giang-khuyen-dinh-bac-20260214074255517.htm) - 00:50 14/02/2026
-- 👀 [Thay chiếc xe rác, thay bộ mặt đô thị](https://dantri.com.vn/tam-diem/thay-chiec-xe-rac-thay-bo-mat-do-thi-20260213075647837.htm) - 01:20 13/02/2026
-- 🚦 [Hiểu đúng về thời gian chụp X-quang ở bệnh viện](https://dantri.com.vn/tam-diem/hieu-dung-ve-thoi-gian-chup-x-quang-o-benh-vien-20260212151320364.htm) - 08:13 12/02/2026
-- 💃 [Bộn bề những nỗi niềm mùa “tiêu Tết”](https://dantri.com.vn/tam-diem/bon-be-nhung-noi-niem-mua-tieu-tet-20260211170643510.htm) - 23:25 11/02/2026
-- 🧑‍💻 [Tết nội hay Tết ngoại?](https://dantri.com.vn/tam-diem/tet-noi-hay-tet-ngoai-20260211083009767.htm) - 01:38 11/02/2026
-- 🥰 [Có nên đợi sát Tết mới mua hoa?](https://dantri.com.vn/tam-diem/co-nen-doi-sat-tet-moi-mua-hoa-20260210111047770.htm) - 10:39 10/02/2026
+- 🚦 [Quy hoạch Hà Nội tầm nhìn 100 năm: Lời cam kết với tương lai](https://dantri.com.vn/tam-diem/quy-hoach-ha-noi-tam-nhin-100-nam-loi-cam-ket-voi-tuong-lai-20260313075802422.htm) - 00:58 13/03/2026
+- 🫶 [Đại học giữa lòng thành phố](https://dantri.com.vn/tam-diem/dai-hoc-giua-long-thanh-pho-20260312142710991.htm) - 08:10 12/03/2026
+- 🦏 [Nhà ở giá phù hợp: Một năm có đủ để thử nghiệm?](https://dantri.com.vn/tam-diem/nha-o-gia-phu-hop-mot-nam-co-du-de-thu-nghiem-20260311150444897.htm) - 01:17 12/03/2026
+- 🧰 [Quản lý thuế với hộ kinh doanh: “Tháo” và “gỡ”](https://dantri.com.vn/tam-diem/quan-ly-thue-voi-ho-kinh-doanh-thao-va-go-20260311152751790.htm) - 09:24 11/03/2026
+- 🙉 [Lá phiếu và trọng trách của cử tri](https://dantri.com.vn/tam-diem/la-phieu-va-trong-trach-cua-cu-tri-20260310140321578.htm) - 01:03 11/03/2026
+- 🌜 [Khi chủ tịch phường “truy” người xả rác bừa bãi](https://dantri.com.vn/tam-diem/khi-chu-tich-phuong-truy-nguoi-xa-rac-bua-bai-20260310135350056.htm) - 08:13 10/03/2026
+- 🤔 [Lời giải cho bài toán “thư viện ở Việt Nam ít người lui tới”](https://dantri.com.vn/tam-diem/loi-giai-cho-bai-toan-thu-vien-o-viet-nam-it-nguoi-lui-toi-20260310071714050.htm) - 00:21 10/03/2026
+- 🤩 [Lương hơn 20 triệu đồng/tháng và sự “chơi vơi” về nhà ở](https://dantri.com.vn/tam-diem/luong-hon-20-trieu-dongthang-va-su-choi-voi-ve-nha-o-20260309150543394.htm) - 08:09 09/03/2026
+- 🦅 [Những chuyển mình của Hà Nội](https://dantri.com.vn/tam-diem/nhung-chuyen-minh-cua-ha-noi-20260309073520172.htm) - 00:35 09/03/2026
+- 💫 [“Hãy sống như bà Nguyễn Thị Bình”](https://dantri.com.vn/tam-diem/hay-song-nhu-ba-nguyen-thi-binh-20260307205538668.htm) - 05:01 08/03/2026
+- 🤗 [Ý nghĩa thật sự của ngày 8/3](https://dantri.com.vn/tam-diem/y-nghia-that-su-cua-ngay-83-20260307203646313.htm) - 17:08 07/03/2026
+- 🫶 [Nói không với “Xôi Lạc”](https://dantri.com.vn/tam-diem/noi-khong-voi-xoi-lac-20260307082901881.htm) - 01:45 07/03/2026
+- 💡 [“Đạp kịch ga” kiểm định xe diesel: Có cách nào khác?](https://dantri.com.vn/tam-diem/dap-kich-ga-kiem-dinh-xe-diesel-co-cach-nao-khac-20260305142433902.htm) - 04:30 06/03/2026
+- 🌮 [Từ lá phiếu gửi gắm đến trách nhiệm của người đại biểu dân cử](https://dantri.com.vn/tam-diem/tu-la-phieu-gui-gam-den-trach-nhiem-cua-nguoi-dai-bieu-dan-cu-20260306082948629.htm) - 01:39 06/03/2026
+- 🌊 [Quy chế tuyển sinh “phút bù giờ”](https://dantri.com.vn/tam-diem/quy-che-tuyen-sinh-phut-bu-gio-20260305144247552.htm) - 09:31 05/03/2026
+- 👹 [Thiết kế “sân chơi” hợp tác công – tư như thế nào?](https://dantri.com.vn/tam-diem/thiet-ke-san-choi-hop-tac-cong-tu-nhu-the-nao-20260305064943425.htm) - 23:52 04/03/2026
+- 🤩 [Chuyển mục đích sử dụng sang đất ở: Nên đơn giản hóa thủ tục](https://dantri.com.vn/tam-diem/chuyen-muc-dich-su-dung-sang-dat-o-nen-don-gian-hoa-thu-tuc-20260303223615191.htm) - 23:12 03/03/2026
+- 💄 [Khi trẻ thơ vui, buồn với robot AI](https://dantri.com.vn/tam-diem/khi-tre-tho-vui-buon-voi-robot-ai-20260302215725250.htm) - 00:19 03/03/2026
+- 🦣 [Từ vụ cô giáo bắt học sinh liếm đất, nghĩ về “quyền lực” trên bục giảng](https://dantri.com.vn/tam-diem/tu-vu-co-giao-bat-hoc-sinh-liem-dat-nghi-ve-quyen-luc-tren-buc-giang-20260302103427652.htm) - 07:05 02/03/2026
+- ⛽️ [Chọi trâu, cướp phết, đấu vật và bài toán quản trị rủi ro](https://dantri.com.vn/tam-diem/choi-trau-cuop-phet-dau-vat-va-bai-toan-quan-tri-rui-ro-20260301155212513.htm) - 23:30 01/03/2026
+- 🌁 [Sới vật hội làng: rất hấp dẫn, lắm lo ngại!](https://dantri.com.vn/tam-diem/soi-vat-hoi-lang-rat-hap-dan-lam-lo-ngai-20260228170052599.htm) - 23:12 28/02/2026
+- 🥳 [Giá nào cho bát phở sân bay?](https://dantri.com.vn/tam-diem/gia-nao-cho-bat-pho-san-bay-20260228065420225.htm) - 00:33 28/02/2026
+- 🧐 [Ước mơ của bác sĩ](https://dantri.com.vn/tam-diem/uoc-mo-cua-bac-si-20260227081351220.htm) - 02:18 27/02/2026
+- 🕴 [Bức bách gửi xe ở phố](https://dantri.com.vn/tam-diem/buc-bach-gui-xe-o-pho-20260226150721229.htm) - 11:49 26/02/2026
+- 🥳 [Động lực mạnh mẽ của công nghiệp văn hóa Việt Nam](https://dantri.com.vn/tam-diem/dong-luc-manh-me-cua-cong-nghiep-van-hoa-viet-nam-20260225173725991.htm) - 23:27 25/02/2026
+- 💡 [Du lịch Tết lập kỷ lục, vui nhưng đừng chủ quan](https://dantri.com.vn/tam-diem/du-lich-tet-lap-ky-luc-vui-nhung-dung-chu-quan-20260225163625400.htm) - 09:41 25/02/2026
+- 🦣 [“Hai làn đường” của giá đất](https://dantri.com.vn/tam-diem/hai-lan-duong-cua-gia-dat-20260224184612544.htm) - 23:42 24/02/2026
+- 🤓 [Phim Tết Việt bùng nổ: Thị hiếu đại chúng quyết định doanh thu phòng vé](https://dantri.com.vn/tam-diem/phim-tet-viet-bung-no-thi-hieu-dai-chung-quyet-dinh-doanh-thu-phong-ve-20260223204354971.htm) - 00:27 24/02/2026
+- 🤭 [“Quyền lực mềm” gala đêm giao thừa](https://dantri.com.vn/tam-diem/quyen-luc-mem-gala-dem-giao-thua-20260223113016134.htm) - 04:54 23/02/2026
+- 🌮 [Tầm cao mới của đối ngoại Việt Nam](https://dantri.com.vn/tam-diem/tam-cao-moi-cua-doi-ngoai-viet-nam-20260223071255477.htm) - 00:13 23/02/2026
+- 🗽 [Khi bảo tàng, di tích mở cửa miễn phí ngày xuân](https://dantri.com.vn/tam-diem/khi-bao-tang-di-tich-mo-cua-mien-phi-ngay-xuan-20260221180617967.htm) - 00:53 22/02/2026
+- ⚗️ [Đưa Tết Việt thành thương hiệu du lịch văn hóa?](https://dantri.com.vn/tam-diem/dua-tet-viet-thanh-thuong-hieu-du-lich-van-hoa-20260220220527162.htm) - 11:49 21/02/2026
+- 🥰 [Thăm Đài tưởng niệm nạn nhân Covid-19: Cúi mình để sống tiếp tử tế](https://dantri.com.vn/tam-diem/tham-dai-tuong-niem-nan-nhan-covid-19-cui-minh-de-song-tiep-tu-te-20260220221343943.htm) - 18:00 20/02/2026
+- 🚀 [Khi mùa xuân bắt đầu từ cải cách](https://dantri.com.vn/tam-diem/khi-mua-xuan-bat-dau-tu-cai-cach-20260219141155122.htm) - 01:15 20/02/2026
+- 🎊 [Nhàn nhã “Tết AI”](https://dantri.com.vn/tam-diem/nhan-nha-tet-ai-20260219145908475.htm) - 08:24 19/02/2026
+- 🦣 [Mùng 3 Tết thầy – khi sự tôn sư phải vượt qua điểm số](https://dantri.com.vn/tam-diem/mung-3-tet-thay-khi-su-ton-su-phai-vuot-qua-diem-so-20260218225803354.htm) - 01:09 19/02/2026
+- 🎃 [Tết của người già](https://dantri.com.vn/tam-diem/tet-cua-nguoi-gia-20260218191503007.htm) - 12:15 18/02/2026
+- 💂 [Việt Nam 2026: Bản giao hưởng giữa khát vọng số và hạnh phúc bạc](https://dantri.com.vn/tam-diem/viet-nam-2026-ban-giao-huong-giua-khat-vong-so-va-hanh-phuc-bac-20260217213057474.htm) - 23:00 17/02/2026
+- 🦒 [Hành động quyết liệt cho bước tiến mới của đất nước](https://dantri.com.vn/tam-diem/hanh-dong-quyet-liet-cho-buoc-tien-moi-cua-dat-nuoc-20260214163813150.htm) - 07:40 17/02/2026
+- 🎭 [Năm Ngọ – tiến nhanh, tiến vững trên con đường lớn đã mở](https://dantri.com.vn/tam-diem/nam-ngo-tien-nhanh-tien-vung-tren-con-duong-lon-da-mo-20260216082830440.htm) - 17:00 16/02/2026
+- 📝 [Những nghĩ suy trước thềm năm mới](https://dantri.com.vn/tam-diem/nhung-nghi-suy-truoc-them-nam-moi-20260216075711064.htm) - 01:04 16/02/2026
+- 🦄 [Loa phường ngày Tết](https://dantri.com.vn/tam-diem/loa-phuong-ngay-tet-20260215160105889.htm) - 09:01 15/02/2026
+- 🚀 [Xe buýt điện: Không chỉ xanh, mà phải thuận tiện và thông minh hơn](https://dantri.com.vn/tam-diem/xe-buyt-dien-khong-chi-xanh-ma-phai-thuan-tien-va-thong-minh-hon-20260215081805940.htm) - 01:18 15/02/2026
+- 💂 [Chuyện tình yêu con trẻ](https://dantri.com.vn/tam-diem/chuyen-tinh-yeu-con-tre-20260214133422482.htm) - 06:42 14/02/2026
+- 👀 [Nhân chuyện “Trường Giang khuyên Đình Bắc”](https://dantri.com.vn/tam-diem/nhan-chuyen-truong-giang-khuyen-dinh-bac-20260214074255517.htm) - 00:50 14/02/2026
+- 🚦 [Thay chiếc xe rác, thay bộ mặt đô thị](https://dantri.com.vn/tam-diem/thay-chiec-xe-rac-thay-bo-mat-do-thi-20260213075647837.htm) - 01:20 13/02/2026
+- 💃 [Hiểu đúng về thời gian chụp X-quang ở bệnh viện](https://dantri.com.vn/tam-diem/hieu-dung-ve-thoi-gian-chup-x-quang-o-benh-vien-20260212151320364.htm) - 08:13 12/02/2026
+- 🧑‍💻 [Bộn bề những nỗi niềm mùa “tiêu Tết”](https://dantri.com.vn/tam-diem/bon-be-nhung-noi-niem-mua-tieu-tet-20260211170643510.htm) - 23:25 11/02/2026
+- 🥰 [Tết nội hay Tết ngoại?](https://dantri.com.vn/tam-diem/tet-noi-hay-tet-ngoai-20260211083009767.htm) - 01:38 11/02/2026
+- 🥳 [Có nên đợi sát Tết mới mua hoa?](https://dantri.com.vn/tam-diem/co-nen-doi-sat-tet-moi-mua-hoa-20260210111047770.htm) - 10:39 10/02/2026
 - 🥳 [Mẹ tôi không thả cá chép ngày 23 Tết](https://dantri.com.vn/tam-diem/me-toi-khong-tha-ca-chep-ngay-23-tet-20260210082909732.htm) - 02:06 10/02/2026
-- 🥳 [Khi trường đại học “làm thuê” cho doanh nghiệp](https://dantri.com.vn/tam-diem/khi-truong-dai-hoc-lam-thue-cho-doanh-nghiep-20260209072744891.htm) - 10:27 09/02/2026
-- 🎉 [Bạo lực học đường và bạo lực của phụ huynh](https://dantri.com.vn/tam-diem/bao-luc-hoc-duong-va-bao-luc-cua-phu-huynh-20260209070710696.htm) - 00:07 09/02/2026
-- 🔥 [Bình đẳng trên vỉa hè](https://dantri.com.vn/tam-diem/binh-dang-tren-via-he-20260208091157538.htm) - 02:12 08/02/2026
-- 🥸 [“Hổ báo” trên đường](https://dantri.com.vn/tam-diem/ho-bao-tren-duong-20260207161650602.htm) - 09:28 07/02/2026
-- 💯 [Nặng gánh đường về quê ăn Tết](https://dantri.com.vn/tam-diem/nang-ganh-duong-ve-que-an-tet-20260207071252530.htm) - 02:59 07/02/2026
-- 🦏 [Điểm sàn xét tuyển bằng học bạ: Cần thiết nhưng không nên áp dụng đột ngột!](https://dantri.com.vn/tam-diem/diem-san-xet-tuyen-bang-hoc-ba-can-thiet-nhung-khong-nen-ap-dung-dot-ngot-20260206171519282.htm) - 10:20 06/02/2026
-- 👹 [Chống ngập đô thị tại Hà Nội, TPHCM: Cống to là chưa đủ](https://dantri.com.vn/tam-diem/chong-ngap-do-thi-tai-ha-noi-tphcm-cong-to-la-chua-du-20260206054856787.htm) - 23:46 05/02/2026
-- 💻 [Hà Nội của 100 năm sau](https://dantri.com.vn/tam-diem/ha-noi-cua-100-nam-sau-20260204154558201.htm) - 00:51 05/02/2026
-- 🎭 [Ứng xử với hồ Tây](https://dantri.com.vn/tam-diem/ung-xu-voi-ho-tay-20260204155800987.htm) - 09:30 04/02/2026
-- 🌏 [Khi giao thừa không còn Táo quân](https://dantri.com.vn/tam-diem/khi-giao-thua-khong-con-tao-quan-20260203225132764.htm) - 17:13 03/02/2026<!-- dantri-tam-diem:END -->
+- 🎉 [Khi trường đại học “làm thuê” cho doanh nghiệp](https://dantri.com.vn/tam-diem/khi-truong-dai-hoc-lam-thue-cho-doanh-nghiep-20260209072744891.htm) - 10:27 09/02/2026
+- 🔥 [Bạo lực học đường và bạo lực của phụ huynh](https://dantri.com.vn/tam-diem/bao-luc-hoc-duong-va-bao-luc-cua-phu-huynh-20260209070710696.htm) - 00:07 09/02/2026
+- 🥸 [Bình đẳng trên vỉa hè](https://dantri.com.vn/tam-diem/binh-dang-tren-via-he-20260208091157538.htm) - 02:12 08/02/2026
+- 💯 [“Hổ báo” trên đường](https://dantri.com.vn/tam-diem/ho-bao-tren-duong-20260207161650602.htm) - 09:28 07/02/2026
+- 🦏 [Nặng gánh đường về quê ăn Tết](https://dantri.com.vn/tam-diem/nang-ganh-duong-ve-que-an-tet-20260207071252530.htm) - 02:59 07/02/2026
+- 👹 [Điểm sàn xét tuyển bằng học bạ: Cần thiết nhưng không nên áp dụng đột ngột!](https://dantri.com.vn/tam-diem/diem-san-xet-tuyen-bang-hoc-ba-can-thiet-nhung-khong-nen-ap-dung-dot-ngot-20260206171519282.htm) - 10:20 06/02/2026
+- 💻 [Chống ngập đô thị tại Hà Nội, TPHCM: Cống to là chưa đủ](https://dantri.com.vn/tam-diem/chong-ngap-do-thi-tai-ha-noi-tphcm-cong-to-la-chua-du-20260206054856787.htm) - 23:46 05/02/2026
+- 🎭 [Hà Nội của 100 năm sau](https://dantri.com.vn/tam-diem/ha-noi-cua-100-nam-sau-20260204154558201.htm) - 00:51 05/02/2026
+- 🌏 [Ứng xử với hồ Tây](https://dantri.com.vn/tam-diem/ung-xu-voi-ho-tay-20260204155800987.htm) - 09:30 04/02/2026<!-- dantri-tam-diem:END -->
