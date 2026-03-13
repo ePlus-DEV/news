@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Cuba đã đối thoại với Mỹ](https://vnexpress.net/cuba-da-doi-thoai-voi-my-5050233.html) - 14:17 13/03/2026
-- 🕴 [4 lính Mỹ thiệt mạng trong vụ máy bay tiếp dầu rơi gần Iran](https://vnexpress.net/4-linh-my-thiet-mang-trong-vu-may-bay-tiep-dau-roi-gan-iran-5050230.html) - 12:45 13/03/2026
+- 🕴 [6 lính Mỹ thiệt mạng trong vụ máy bay tiếp dầu rơi gần Iran](https://vnexpress.net/6-linh-my-thiet-mang-trong-vu-may-bay-tiep-dau-roi-gan-iran-5050230.html) - 12:45 13/03/2026
 - 🤭 [Thông điệp &#39;chiến đến cùng&#39; trong phát biểu đầu tiên của tân Lãnh tụ Iran](https://vnexpress.net/thong-diep-chien-den-cung-trong-phat-bieu-dau-tien-cua-tan-lanh-tu-iran-5049898.html) - 12:00 13/03/2026
 - 🧑‍💻 [Cáo đỏ vượt 6.000 km, &#39;đi lậu vé&#39; từ Anh đến Mỹ](https://vnexpress.net/cao-do-vuot-6-000-km-di-lau-ve-tu-anh-den-my-5049950.html) - 08:43 13/03/2026
 - 🦏 [Tên lửa Iran lao xuống Israel, hơn 60 người bị thương](https://vnexpress.net/ten-lua-iran-lao-xuong-israel-hon-60-nguoi-bi-thuong-5050023.html) - 07:38 13/03/2026
