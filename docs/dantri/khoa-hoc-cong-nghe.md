@@ -4,63 +4,63 @@ sidebar_position: 25
 ---
 
 <!-- dantri-khoa-hoc-cong-nghe:START -->
-- 🪄 [Nổi bật tuần qua: Khoảnh khắc voi nổi điên, giẫm đạp người trong lễ hội](https://dantri.com.vn/khoa-hoc/noi-bat-tuan-qua-khoanh-khac-voi-noi-dien-giam-dap-nguoi-trong-le-hoi-20250216011912325.htm) - 23:17 15/02/2025
-- 🤭 [Màu đen có phải là một màu không?](https://dantri.com.vn/khoa-hoc/mau-den-co-phai-la-mot-mau-khong-20250213223207398.htm) - 00:37 15/02/2025
-- 🐻 [Máy tính lượng tử dự đoán vận mệnh gây &quot;sốc&quot; của vũ trụ](https://dantri.com.vn/khoa-hoc/may-tinh-luong-tu-du-doan-van-menh-gay-soc-cua-vu-tru-20250214115746090.htm) - 05:02 14/02/2025
-- 🥰 [Báo hoa mai bất ngờ xông vào lễ cưới, tấn công các khách mời](https://dantri.com.vn/khoa-hoc/bao-hoa-mai-bat-ngo-xong-vao-le-cuoi-tan-cong-cac-khach-moi-20250213160732216.htm) - 04:58 14/02/2025
-- 🥳 [Phát hiện hạt vũ trụ bí ẩn, lao xuống Trái Đất với tốc độ ánh sáng](https://dantri.com.vn/khoa-hoc/phat-hien-hat-vu-tru-bi-an-lao-xuong-trai-dat-voi-toc-do-anh-sang-20250213094149065.htm) - 00:59 14/02/2025
-- 😎 [Trí tuệ nhân tạo giúp phát minh ra vật liệu mới &quot;thần kỳ&quot;](https://dantri.com.vn/khoa-hoc/tri-tue-nhan-tao-giup-phat-minh-ra-vat-lieu-moi-than-ky-20250209113558034.htm) - 00:30 13/02/2025
-- 🎡 [Mặt Trăng còn sống hay đã chết?](https://dantri.com.vn/khoa-hoc/mat-trang-con-song-hay-da-chet-20250211014740168.htm) - 02:51 12/02/2025
-- 😺 [Bí mật đằng sau hồ nước có hình trái tim](https://dantri.com.vn/khoa-hoc/bi-mat-dang-sau-ho-nuoc-co-hinh-trai-tim-20250212072438367.htm) - 01:49 12/02/2025
-- 🌋 [Vì sao bạn có cảm giác đau khi bị tổn thương?](https://dantri.com.vn/khoa-hoc/vi-sao-ban-co-cam-giac-dau-khi-bi-ton-thuong-20250212005813952.htm) - 23:45 11/02/2025
-- 💯 [Khoảnh khắc gia đình đối mặt báo sư tử gợi nhớ về câu chuyện kinh hoàng](https://dantri.com.vn/khoa-hoc/khoanh-khac-gia-dinh-doi-mat-bao-su-tu-goi-nho-ve-cau-chuyen-kinh-hoang-20250211152601369.htm) - 08:35 11/02/2025
-- 🚦 [Sứ mệnh đưa người lên Mặt Trăng của NASA bị chỉ trích vì rủi ro cao](https://dantri.com.vn/khoa-hoc/su-menh-dua-nguoi-len-mat-trang-cua-nasa-bi-chi-trich-vi-rui-ro-cao-20250211084609530.htm) - 02:53 11/02/2025
-- 💼 [Loại vải có khả năng nóng lên hơn 50 độ để giữ ấm](https://dantri.com.vn/khoa-hoc/loai-vai-co-kha-nang-nong-len-hon-50-do-de-giu-am-20250209111256252.htm) - 00:03 11/02/2025
-- 🐘 [Hòn đảo hứng chịu hàng ngàn trận động đất trong vòng 2 tuần](https://dantri.com.vn/khoa-hoc/hon-dao-hung-chiu-hang-ngan-tran-dong-dat-trong-vong-2-tuan-20250210084052264.htm) - 01:57 10/02/2025
-- 🤗 [Xuất hiện vành đai bức xạ bí ẩn bao phủ Trái Đất](https://dantri.com.vn/khoa-hoc/xuat-hien-vanh-dai-buc-xa-bi-an-bao-phu-trai-dat-20250209115425087.htm) - 23:59 09/02/2025
-- 🎃 [Tàu thám hiểm khai quật &quot;kho báu độc nhất&quot; trên Sao Hỏa](https://dantri.com.vn/khoa-hoc/tau-tham-hiem-khai-quat-kho-bau-doc-nhat-tren-sao-hoa-20250208104148832.htm) - 02:10 09/02/2025
-- 🚀 [Thế giới động vật: Giải mã xác loài vật bí ẩn giống thủy quái trong đầm lầy](https://dantri.com.vn/khoa-hoc/the-gioi-dong-vat-giai-ma-xac-loai-vat-bi-an-giong-thuy-quai-trong-dam-lay-20250209053320928.htm) - 00:14 09/02/2025
-- 📝 [Bụi phóng xạ vẫn còn từ sau Chiến tranh Lạnh](https://dantri.com.vn/khoa-hoc/bui-phong-xa-van-con-tu-sau-chien-tranh-lanh-20250208040402192.htm) - 21:53 07/02/2025
-- 🐎 [Giám đốc cơ quan vũ trụ Nga bị sa thải](https://dantri.com.vn/khoa-hoc/giam-doc-co-quan-vu-tru-nga-bi-sa-thai-20250207075157002.htm) - 02:06 07/02/2025
-- 🌊 [Biển hồ lớn thứ tư thế giới hiện là sa mạc chết người](https://dantri.com.vn/khoa-hoc/bien-ho-lon-thu-tu-the-gioi-hien-la-sa-mac-chet-nguoi-20250207015033261.htm) - 00:13 07/02/2025
-- 🙉 [Bánh kẹo &quot;hậu Tết&quot;: Mối đe dọa tiềm ẩn cho sức khỏe và môi trường](https://dantri.com.vn/khoa-hoc/banh-keo-hau-tet-moi-de-doa-tiem-an-cho-suc-khoe-va-moi-truong-20250206113117069.htm) - 06:01 06/02/2025
-- 👨‍🏫 [5 chủ nhân giải VinFuture được vinh danh tại giải Nữ hoàng Elizabeth 2025](https://dantri.com.vn/khoa-hoc/5-chu-nhan-giai-vinfuture-duoc-vinh-danh-tai-giai-nu-hoang-elizabeth-2025-20250206102043065.htm) - 03:28 06/02/2025
-- 👀 [Vì sao đàn ông ngày càng cao và nặng hơn so với phụ nữ?](https://dantri.com.vn/khoa-hoc/vi-sao-dan-ong-ngay-cang-cao-va-nang-hon-so-voi-phu-nu-20250205161104085.htm) - 00:19 06/02/2025
-- 🐲 [Vi nhựa có thể làm tắc mạch máu não](https://dantri.com.vn/khoa-hoc/vi-nhua-co-the-lam-tac-mach-mau-nao-20250206005842040.htm) - 00:06 06/02/2025
-- 🐲 [Tiềm ẩn mối nguy từ thói quen nhiều người Việt vẫn làm mỗi ngày](https://dantri.com.vn/khoa-hoc/tiem-an-moi-nguy-tu-thoi-quen-nhieu-nguoi-viet-van-lam-moi-ngay-20250204112858770.htm) - 08:42 05/02/2025
-- 🦍 [Hóa chất vĩnh cửu trong nước uống liên quan đến ung thư](https://dantri.com.vn/khoa-hoc/hoa-chat-vinh-cuu-trong-nuoc-uong-lien-quan-den-ung-thu-20250205001130506.htm) - 04:38 05/02/2025
-- 🌊 [Hẻm đá khổng lồ dài 280 km được tạo thành trong chưa đầy 10 phút](https://dantri.com.vn/khoa-hoc/hem-da-khong-lo-dai-280-km-duoc-tao-thanh-trong-chua-day-10-phut-20250205074951300.htm) - 00:55 05/02/2025
-- 🤩 [Cảnh tượng hiếm thấy giữa báo hoa mai và bầy cá sấu trong thế giới tự nhiên](https://dantri.com.vn/khoa-hoc/canh-tuong-hiem-thay-giua-bao-hoa-mai-va-bay-ca-sau-trong-the-gioi-tu-nhien-20250203155645644.htm) - 08:47 04/02/2025
-- ⛽️ [Mặt Trăng &quot;chạm mặt&quot; Sao Hỏa vào cuối tuần này](https://dantri.com.vn/khoa-hoc/mat-trang-cham-mat-sao-hoa-vao-cuoi-tuan-nay-20250204094120260.htm) - 04:03 04/02/2025
-- 🫶 [Robot Báo Đen bốn chân chạy nhanh như nhà vô địch Usain Bolt](https://dantri.com.vn/khoa-hoc/robot-bao-den-bon-chan-chay-nhanh-nhu-nha-vo-dich-usain-bolt-20250204013514436.htm) - 00:25 04/02/2025
-- 🙉 [AI đã có thể dự đoán bão Mặt Trời](https://dantri.com.vn/khoa-hoc/ai-da-co-the-du-doan-bao-mat-troi-20250203071650311.htm) - 07:21 03/02/2025
-- 👨‍🏫 [Tìm thấy sự tồn tại của dạng từ tính thứ ba](https://dantri.com.vn/khoa-hoc/tim-thay-su-ton-tai-cua-dang-tu-tinh-thu-ba-20250203073737415.htm) - 01:33 03/02/2025
-- 🕯 [Khoa học tìm ra câu trả lời: Khủng long từ đâu đến?](https://dantri.com.vn/khoa-hoc/khoa-hoc-tim-ra-cau-tra-loi-khung-long-tu-dau-den-20250202234154427.htm) - 00:04 03/02/2025
-- 👍 [Kỳ lạ loài nhện &quot;ăn chay&quot; có một không hai trên thế giới](https://dantri.com.vn/khoa-hoc/ky-la-loai-nhen-an-chay-co-mot-khong-hai-tren-the-gioi-20250201214908485.htm) - 03:12 02/02/2025
-- 🧠 [Thế giới động vật: Đàn voi lảo đảo vì say xỉn sau khi ăn trái cây lên men](https://dantri.com.vn/khoa-hoc/the-gioi-dong-vat-dan-voi-lao-dao-vi-say-xin-sau-khi-an-trai-cay-len-men-20250202040030772.htm) - 00:35 02/02/2025
-- 🕴 [Những gia đình 3 thế hệ bám đảo nuôi đàn khỉ hiến thân cho y học](https://dantri.com.vn/suc-khoe/nhung-gia-dinh-3-the-he-bam-dao-nuoi-dan-khi-hien-than-cho-y-hoc-20250124084842927.htm) - 23:10 01/02/2025
-- 🌜 [Vì sao pin sạc dự phòng có thể xem là &quot;bom nổ chậm&quot; trên các chuyến bay?](https://dantri.com.vn/khoa-hoc/vi-sao-pin-sac-du-phong-co-the-xem-la-bom-no-cham-tren-cac-chuyen-bay-20250130174210321.htm) - 23:22 31/01/2025
-- 🪄 [Nhiệt độ toàn cầu năm 2024 vượt 1,5 độ C có phá vỡ thỏa thuận Paris?](https://dantri.com.vn/khoa-hoc/nhiet-do-toan-cau-nam-2024-vuot-15-do-c-co-pha-vo-thoa-thuan-paris-20250201061922982.htm) - 23:19 31/01/2025
-- 🎃 [&quot;Lá cờ bay&quot; trên Mặt Trăng của Trung Quốc có gì đặc biệt?](https://dantri.com.vn/khoa-hoc/la-co-bay-tren-mat-trang-cua-trung-quoc-co-gi-dac-biet-20250130194927527.htm) - 23:01 30/01/2025
-- 🏊 [Rã đông sai cách - Cánh cửa cho vi khuẩn xâm nhập](https://dantri.com.vn/khoa-hoc/ra-dong-sai-cach-canh-cua-cho-vi-khuan-xam-nhap-20250130103523315.htm) - 03:36 30/01/2025
-- 🔭 [AI mô phỏng 500 triệu năm tiến hóa](https://dantri.com.vn/khoa-hoc/ai-mo-phong-500-trieu-nam-tien-hoa-20250128095432442.htm) - 09:11 29/01/2025
-- 🤭 [Ngày đầu năm Ất Tỵ, ngắm nhìn những loài rắn đẹp nhất thế giới tự nhiên](https://dantri.com.vn/khoa-hoc/ngay-dau-nam-at-ty-ngam-nhin-nhung-loai-ran-dep-nhat-the-gioi-tu-nhien-20250129041128045.htm) - 23:54 28/01/2025
-- 📝 [Ấn Độ tự chế tạo thành công module tàu vũ trụ chở người](https://dantri.com.vn/khoa-hoc/an-do-tu-che-tao-thanh-cong-module-tau-vu-tru-cho-nguoi-20250128102535949.htm) - 08:34 28/01/2025
-- 🌋 [Vì sao bầu trời có màu xanh?](https://dantri.com.vn/khoa-hoc/vi-sao-bau-troi-co-mau-xanh-20250126232515291.htm) - 23:48 27/01/2025
-- 🧑‍🏫 [Kỳ lạ loài san hô biết đi](https://dantri.com.vn/khoa-hoc/ky-la-loai-san-ho-biet-di-20250126235834844.htm) - 21:01 26/01/2025
-- 👀 [Thế giới động vật: Hổ cái quyết chiến kịch liệt với con đực để cướp bữa ăn](https://dantri.com.vn/khoa-hoc/the-gioi-dong-vat-ho-cai-quyet-chien-kich-liet-voi-con-duc-de-cuop-bua-an-20250126034522646.htm) - 05:29 26/01/2025
-- 🗽 [Chỉ mất 45 ngày để con người bay đến sao Hỏa](https://dantri.com.vn/khoa-hoc/chi-mat-45-ngay-de-con-nguoi-bay-den-sao-hoa-20250124151150420.htm) - 03:59 26/01/2025
-- 🦩 [Trung tâm nghiên cứu hoa lan rực rỡ, nhộn nhịp đón Tết cận kề](https://dantri.com.vn/khoa-hoc/trung-tam-nghien-cuu-hoa-lan-ruc-ro-nhon-nhip-don-tet-can-ke-20250125101900399.htm) - 22:00 25/01/2025
-- 🦍 [Tương lai ngành khám phá không gian dưới thời Tổng thống Mỹ Donald Trump](https://dantri.com.vn/khoa-hoc/tuong-lai-nganh-kham-pha-khong-gian-duoi-thoi-tong-thong-my-donald-trump-20250124110123270.htm) - 23:57 24/01/2025
-- 🤖 [Cuộc chạy đua đến vùng cực của Mặt Trăng](https://dantri.com.vn/khoa-hoc/cuoc-chay-dua-den-vung-cuc-cua-mat-trang-20250124080132562.htm) - 01:01 24/01/2025
-- 🔭 [&quot;Mặt trời nhân tạo&quot; của Trung Quốc phá kỷ lục](https://dantri.com.vn/khoa-hoc/mat-troi-nhan-tao-cua-trung-quoc-pha-ky-luc-20250123072056178.htm) - 01:59 23/01/2025
-- 👺 [Tổng thống Donald Trump muốn cờ Mỹ được cắm trên Sao Hỏa](https://dantri.com.vn/khoa-hoc/tong-thong-donald-trump-muon-co-my-duoc-cam-tren-sao-hoa-20250121074630768.htm) - 03:28 22/01/2025
-- 🤖 [Bao lâu nên giặt khăn tắm một lần?](https://dantri.com.vn/khoa-hoc/bao-lau-nen-giat-khan-tam-mot-lan-20250122005024244.htm) - 01:38 22/01/2025
-- 🌮 [Giám đốc NASA từ chức](https://dantri.com.vn/khoa-hoc/giam-doc-nasa-tu-chuc-20250122075003468.htm) - 01:34 22/01/2025
-- 💼 [Bí mật của loài nhện nguy hiểm nhất thế giới](https://dantri.com.vn/khoa-hoc/bi-mat-cua-loai-nhen-nguy-hiem-nhat-the-gioi-20250121010957737.htm) - 00:14 21/01/2025
-- 🎃 [Grofarm Pro: giải pháp nuôi tôm bền vững năng suất cao, chi phí thấp](https://dantri.com.vn/khoa-hoc/grofarm-pro-giai-phap-nuoi-tom-ben-vung-nang-suat-cao-chi-phi-thap-20250120120632445.htm) - 08:00 20/01/2025
-- 💫 [Thế giới bước vào cuộc chiến công nghệ giữa các vì sao](https://dantri.com.vn/khoa-hoc/the-gioi-buoc-vao-cuoc-chien-cong-nghe-giua-cac-vi-sao-20250119065653036.htm) - 02:55 20/01/2025
-- ⛽️ [5 mối đe dọa lớn nhất mà thế giới phải đối mặt vào năm 2025](https://dantri.com.vn/khoa-hoc/5-moi-de-doa-lon-nhat-ma-the-gioi-phai-doi-mat-vao-nam-2025-20250120073037556.htm) - 01:25 20/01/2025
-- 💼 [Phát hiện thành phần trong lẩu có thể tăng hiệu suất của pin](https://dantri.com.vn/khoa-hoc/phat-hien-thanh-phan-trong-lau-co-the-tang-hieu-suat-cua-pin-20250119102058196.htm) - 09:49 19/01/2025
-- 🧑‍💻 [2024 là năm nóng kỷ lục, khoa học cảnh báo &quot;sẽ còn tồi tệ hơn&quot;](https://dantri.com.vn/khoa-hoc/2024-la-nam-nong-ky-luc-khoa-hoc-canh-bao-se-con-toi-te-hon-20250118025305677.htm) - 00:03 19/01/2025
-- 🧰 [Thế giới động vật: &quot;Thủy quái&quot; từ dưới nước lao lên tấn công cừu để ăn thịt](https://dantri.com.vn/khoa-hoc/the-gioi-dong-vat-thuy-quai-tu-duoi-nuoc-lao-len-tan-cong-cuu-de-an-thit-20250119022241585.htm) - 23:59 18/01/2025<!-- dantri-khoa-hoc-cong-nghe:END -->
+- 🪄 [Màu đen có phải là một màu không?](https://dantri.com.vn/khoa-hoc-cong-nghe/mau-den-co-phai-la-mot-mau-khong-20250213223207398.htm) - 00:37 15/02/2025
+- 🤭 [Máy tính lượng tử dự đoán vận mệnh gây &quot;sốc&quot; của vũ trụ](https://dantri.com.vn/khoa-hoc-cong-nghe/may-tinh-luong-tu-du-doan-van-menh-gay-soc-cua-vu-tru-20250214115746090.htm) - 05:02 14/02/2025
+- 🐻 [Báo hoa mai bất ngờ xông vào lễ cưới, tấn công các khách mời](https://dantri.com.vn/khoa-hoc-cong-nghe/bao-hoa-mai-bat-ngo-xong-vao-le-cuoi-tan-cong-cac-khach-moi-20250213160732216.htm) - 04:58 14/02/2025
+- 🥰 [Phát hiện hạt vũ trụ bí ẩn, lao xuống Trái Đất với tốc độ ánh sáng](https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-hat-vu-tru-bi-an-lao-xuong-trai-dat-voi-toc-do-anh-sang-20250213094149065.htm) - 00:59 14/02/2025
+- 🥳 [Trí tuệ nhân tạo giúp phát minh ra vật liệu mới &quot;thần kỳ&quot;](https://dantri.com.vn/khoa-hoc-cong-nghe/tri-tue-nhan-tao-giup-phat-minh-ra-vat-lieu-moi-than-ky-20250209113558034.htm) - 00:30 13/02/2025
+- 😎 [Mặt Trăng còn sống hay đã chết?](https://dantri.com.vn/khoa-hoc-cong-nghe/mat-trang-con-song-hay-da-chet-20250211014740168.htm) - 02:51 12/02/2025
+- 🎡 [Bí mật đằng sau hồ nước có hình trái tim](https://dantri.com.vn/khoa-hoc-cong-nghe/bi-mat-dang-sau-ho-nuoc-co-hinh-trai-tim-20250212072438367.htm) - 01:49 12/02/2025
+- 😺 [Vì sao bạn có cảm giác đau khi bị tổn thương?](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-ban-co-cam-giac-dau-khi-bi-ton-thuong-20250212005813952.htm) - 23:45 11/02/2025
+- 🌋 [Khoảnh khắc gia đình đối mặt báo sư tử gợi nhớ về câu chuyện kinh hoàng](https://dantri.com.vn/khoa-hoc-cong-nghe/khoanh-khac-gia-dinh-doi-mat-bao-su-tu-goi-nho-ve-cau-chuyen-kinh-hoang-20250211152601369.htm) - 08:35 11/02/2025
+- 💯 [Sứ mệnh đưa người lên Mặt Trăng của NASA bị chỉ trích vì rủi ro cao](https://dantri.com.vn/khoa-hoc-cong-nghe/su-menh-dua-nguoi-len-mat-trang-cua-nasa-bi-chi-trich-vi-rui-ro-cao-20250211084609530.htm) - 02:53 11/02/2025
+- 🚦 [Loại vải có khả năng nóng lên hơn 50 độ để giữ ấm](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-vai-co-kha-nang-nong-len-hon-50-do-de-giu-am-20250209111256252.htm) - 00:03 11/02/2025
+- 💼 [Hòn đảo hứng chịu hàng ngàn trận động đất trong vòng 2 tuần](https://dantri.com.vn/khoa-hoc-cong-nghe/hon-dao-hung-chiu-hang-ngan-tran-dong-dat-trong-vong-2-tuan-20250210084052264.htm) - 01:57 10/02/2025
+- 🐘 [Xuất hiện vành đai bức xạ bí ẩn bao phủ Trái Đất](https://dantri.com.vn/khoa-hoc-cong-nghe/xuat-hien-vanh-dai-buc-xa-bi-an-bao-phu-trai-dat-20250209115425087.htm) - 23:59 09/02/2025
+- 🤗 [Tàu thám hiểm khai quật &quot;kho báu độc nhất&quot; trên Sao Hỏa](https://dantri.com.vn/khoa-hoc-cong-nghe/tau-tham-hiem-khai-quat-kho-bau-doc-nhat-tren-sao-hoa-20250208104148832.htm) - 02:10 09/02/2025
+- 🎃 [Thế giới động vật: Giải mã xác loài vật bí ẩn giống thủy quái trong đầm lầy](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-giai-ma-xac-loai-vat-bi-an-giong-thuy-quai-trong-dam-lay-20250209053320928.htm) - 00:14 09/02/2025
+- 🚀 [Bụi phóng xạ vẫn còn từ sau Chiến tranh Lạnh](https://dantri.com.vn/khoa-hoc-cong-nghe/bui-phong-xa-van-con-tu-sau-chien-tranh-lanh-20250208040402192.htm) - 21:53 07/02/2025
+- 📝 [Giám đốc cơ quan vũ trụ Nga bị sa thải](https://dantri.com.vn/khoa-hoc-cong-nghe/giam-doc-co-quan-vu-tru-nga-bi-sa-thai-20250207075157002.htm) - 02:06 07/02/2025
+- 🐎 [Biển hồ lớn thứ tư thế giới hiện là sa mạc chết người](https://dantri.com.vn/khoa-hoc-cong-nghe/bien-ho-lon-thu-tu-the-gioi-hien-la-sa-mac-chet-nguoi-20250207015033261.htm) - 00:13 07/02/2025
+- 🌊 [Bánh kẹo &quot;hậu Tết&quot;: Mối đe dọa tiềm ẩn cho sức khỏe và môi trường](https://dantri.com.vn/khoa-hoc-cong-nghe/banh-keo-hau-tet-moi-de-doa-tiem-an-cho-suc-khoe-va-moi-truong-20250206113117069.htm) - 06:01 06/02/2025
+- 🙉 [5 chủ nhân giải VinFuture được vinh danh tại giải Nữ hoàng Elizabeth 2025](https://dantri.com.vn/khoa-hoc-cong-nghe/5-chu-nhan-giai-vinfuture-duoc-vinh-danh-tai-giai-nu-hoang-elizabeth-2025-20250206102043065.htm) - 03:28 06/02/2025
+- 👨‍🏫 [Vì sao đàn ông ngày càng cao và nặng hơn so với phụ nữ?](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-dan-ong-ngay-cang-cao-va-nang-hon-so-voi-phu-nu-20250205161104085.htm) - 00:19 06/02/2025
+- 👀 [Vi nhựa có thể làm tắc mạch máu não](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-nhua-co-the-lam-tac-mach-mau-nao-20250206005842040.htm) - 00:06 06/02/2025
+- 🐲 [Tiềm ẩn mối nguy từ thói quen nhiều người Việt vẫn làm mỗi ngày](https://dantri.com.vn/khoa-hoc-cong-nghe/tiem-an-moi-nguy-tu-thoi-quen-nhieu-nguoi-viet-van-lam-moi-ngay-20250204112858770.htm) - 08:42 05/02/2025
+- 🐲 [Hóa chất vĩnh cửu trong nước uống liên quan đến ung thư](https://dantri.com.vn/khoa-hoc-cong-nghe/hoa-chat-vinh-cuu-trong-nuoc-uong-lien-quan-den-ung-thu-20250205001130506.htm) - 04:38 05/02/2025
+- 🦍 [Hẻm đá khổng lồ dài 280 km được tạo thành trong chưa đầy 10 phút](https://dantri.com.vn/khoa-hoc-cong-nghe/hem-da-khong-lo-dai-280-km-duoc-tao-thanh-trong-chua-day-10-phut-20250205074951300.htm) - 00:55 05/02/2025
+- 🌊 [Cảnh tượng hiếm thấy giữa báo hoa mai và bầy cá sấu trong thế giới tự nhiên](https://dantri.com.vn/khoa-hoc-cong-nghe/canh-tuong-hiem-thay-giua-bao-hoa-mai-va-bay-ca-sau-trong-the-gioi-tu-nhien-20250203155645644.htm) - 08:47 04/02/2025
+- 🤩 [Mặt Trăng &quot;chạm mặt&quot; Sao Hỏa vào cuối tuần này](https://dantri.com.vn/khoa-hoc-cong-nghe/mat-trang-cham-mat-sao-hoa-vao-cuoi-tuan-nay-20250204094120260.htm) - 04:03 04/02/2025
+- ⛽️ [Robot Báo Đen bốn chân chạy nhanh như nhà vô địch Usain Bolt](https://dantri.com.vn/khoa-hoc-cong-nghe/robot-bao-den-bon-chan-chay-nhanh-nhu-nha-vo-dich-usain-bolt-20250204013514436.htm) - 00:25 04/02/2025
+- 🫶 [AI đã có thể dự đoán bão Mặt Trời](https://dantri.com.vn/khoa-hoc-cong-nghe/ai-da-co-the-du-doan-bao-mat-troi-20250203071650311.htm) - 07:21 03/02/2025
+- 🙉 [Tìm thấy sự tồn tại của dạng từ tính thứ ba](https://dantri.com.vn/khoa-hoc-cong-nghe/tim-thay-su-ton-tai-cua-dang-tu-tinh-thu-ba-20250203073737415.htm) - 01:33 03/02/2025
+- 👨‍🏫 [Khoa học tìm ra câu trả lời: Khủng long từ đâu đến?](https://dantri.com.vn/khoa-hoc-cong-nghe/khoa-hoc-tim-ra-cau-tra-loi-khung-long-tu-dau-den-20250202234154427.htm) - 00:04 03/02/2025
+- 🕯 [Kỳ lạ loài nhện &quot;ăn chay&quot; có một không hai trên thế giới](https://dantri.com.vn/khoa-hoc-cong-nghe/ky-la-loai-nhen-an-chay-co-mot-khong-hai-tren-the-gioi-20250201214908485.htm) - 03:12 02/02/2025
+- 👍 [Thế giới động vật: Đàn voi lảo đảo vì say xỉn sau khi ăn trái cây lên men](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-dan-voi-lao-dao-vi-say-xin-sau-khi-an-trai-cay-len-men-20250202040030772.htm) - 00:35 02/02/2025
+- 🧠 [Những gia đình 3 thế hệ bám đảo nuôi đàn khỉ hiến thân cho y học](https://dantri.com.vn/suc-khoe/nhung-gia-dinh-3-the-he-bam-dao-nuoi-dan-khi-hien-than-cho-y-hoc-20250124084842927.htm) - 23:10 01/02/2025
+- 🕴 [Vì sao pin sạc dự phòng có thể xem là &quot;bom nổ chậm&quot; trên các chuyến bay?](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-pin-sac-du-phong-co-the-xem-la-bom-no-cham-tren-cac-chuyen-bay-20250130174210321.htm) - 23:22 31/01/2025
+- 🌜 [Nhiệt độ toàn cầu năm 2024 vượt 1,5 độ C có phá vỡ thỏa thuận Paris?](https://dantri.com.vn/khoa-hoc-cong-nghe/nhiet-do-toan-cau-nam-2024-vuot-15-do-c-co-pha-vo-thoa-thuan-paris-20250201061922982.htm) - 23:19 31/01/2025
+- 🪄 [&quot;Lá cờ bay&quot; trên Mặt Trăng của Trung Quốc có gì đặc biệt?](https://dantri.com.vn/khoa-hoc-cong-nghe/la-co-bay-tren-mat-trang-cua-trung-quoc-co-gi-dac-biet-20250130194927527.htm) - 23:01 30/01/2025
+- 🎃 [Rã đông sai cách - Cánh cửa cho vi khuẩn xâm nhập](https://dantri.com.vn/khoa-hoc-cong-nghe/ra-dong-sai-cach-canh-cua-cho-vi-khuan-xam-nhap-20250130103523315.htm) - 03:36 30/01/2025
+- 🏊 [AI mô phỏng 500 triệu năm tiến hóa](https://dantri.com.vn/khoa-hoc-cong-nghe/ai-mo-phong-500-trieu-nam-tien-hoa-20250128095432442.htm) - 09:11 29/01/2025
+- 🔭 [Ngày đầu năm Ất Tỵ, ngắm nhìn những loài rắn đẹp nhất thế giới tự nhiên](https://dantri.com.vn/khoa-hoc-cong-nghe/ngay-dau-nam-at-ty-ngam-nhin-nhung-loai-ran-dep-nhat-the-gioi-tu-nhien-20250129041128045.htm) - 23:54 28/01/2025
+- 🤭 [Ấn Độ tự chế tạo thành công module tàu vũ trụ chở người](https://dantri.com.vn/khoa-hoc-cong-nghe/an-do-tu-che-tao-thanh-cong-module-tau-vu-tru-cho-nguoi-20250128102535949.htm) - 08:34 28/01/2025
+- 📝 [Vì sao bầu trời có màu xanh?](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-bau-troi-co-mau-xanh-20250126232515291.htm) - 23:48 27/01/2025
+- 🌋 [Kỳ lạ loài san hô biết đi](https://dantri.com.vn/khoa-hoc-cong-nghe/ky-la-loai-san-ho-biet-di-20250126235834844.htm) - 21:01 26/01/2025
+- 🧑‍🏫 [Thế giới động vật: Hổ cái quyết chiến kịch liệt với con đực để cướp bữa ăn](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-ho-cai-quyet-chien-kich-liet-voi-con-duc-de-cuop-bua-an-20250126034522646.htm) - 05:29 26/01/2025
+- 👀 [Chỉ mất 45 ngày để con người bay đến sao Hỏa](https://dantri.com.vn/khoa-hoc-cong-nghe/chi-mat-45-ngay-de-con-nguoi-bay-den-sao-hoa-20250124151150420.htm) - 03:59 26/01/2025
+- 🗽 [Trung tâm nghiên cứu hoa lan rực rỡ, nhộn nhịp đón Tết cận kề](https://dantri.com.vn/khoa-hoc-cong-nghe/trung-tam-nghien-cuu-hoa-lan-ruc-ro-nhon-nhip-don-tet-can-ke-20250125101900399.htm) - 22:00 25/01/2025
+- 🦩 [Tương lai ngành khám phá không gian dưới thời Tổng thống Mỹ Donald Trump](https://dantri.com.vn/khoa-hoc-cong-nghe/tuong-lai-nganh-kham-pha-khong-gian-duoi-thoi-tong-thong-my-donald-trump-20250124110123270.htm) - 23:57 24/01/2025
+- 🦍 [Cuộc chạy đua đến vùng cực của Mặt Trăng](https://dantri.com.vn/khoa-hoc-cong-nghe/cuoc-chay-dua-den-vung-cuc-cua-mat-trang-20250124080132562.htm) - 01:01 24/01/2025
+- 🤖 [&quot;Mặt trời nhân tạo&quot; của Trung Quốc phá kỷ lục](https://dantri.com.vn/khoa-hoc-cong-nghe/mat-troi-nhan-tao-cua-trung-quoc-pha-ky-luc-20250123072056178.htm) - 01:59 23/01/2025
+- 🔭 [Tổng thống Donald Trump muốn cờ Mỹ được cắm trên Sao Hỏa](https://dantri.com.vn/khoa-hoc-cong-nghe/tong-thong-donald-trump-muon-co-my-duoc-cam-tren-sao-hoa-20250121074630768.htm) - 03:28 22/01/2025
+- 👺 [Bao lâu nên giặt khăn tắm một lần?](https://dantri.com.vn/khoa-hoc-cong-nghe/bao-lau-nen-giat-khan-tam-mot-lan-20250122005024244.htm) - 01:38 22/01/2025
+- 🤖 [Giám đốc NASA từ chức](https://dantri.com.vn/khoa-hoc-cong-nghe/giam-doc-nasa-tu-chuc-20250122075003468.htm) - 01:34 22/01/2025
+- 🌮 [Bí mật của loài nhện nguy hiểm nhất thế giới](https://dantri.com.vn/khoa-hoc-cong-nghe/bi-mat-cua-loai-nhen-nguy-hiem-nhat-the-gioi-20250121010957737.htm) - 00:14 21/01/2025
+- 💼 [Grofarm Pro: giải pháp nuôi tôm bền vững năng suất cao, chi phí thấp](https://dantri.com.vn/khoa-hoc-cong-nghe/grofarm-pro-giai-phap-nuoi-tom-ben-vung-nang-suat-cao-chi-phi-thap-20250120120632445.htm) - 08:00 20/01/2025
+- 🎃 [Thế giới bước vào cuộc chiến công nghệ giữa các vì sao](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-buoc-vao-cuoc-chien-cong-nghe-giua-cac-vi-sao-20250119065653036.htm) - 02:55 20/01/2025
+- 💫 [5 mối đe dọa lớn nhất mà thế giới phải đối mặt vào năm 2025](https://dantri.com.vn/khoa-hoc-cong-nghe/5-moi-de-doa-lon-nhat-ma-the-gioi-phai-doi-mat-vao-nam-2025-20250120073037556.htm) - 01:25 20/01/2025
+- ⛽️ [Phát hiện thành phần trong lẩu có thể tăng hiệu suất của pin](https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-thanh-phan-trong-lau-co-the-tang-hieu-suat-cua-pin-20250119102058196.htm) - 09:49 19/01/2025
+- 💼 [2024 là năm nóng kỷ lục, khoa học cảnh báo &quot;sẽ còn tồi tệ hơn&quot;](https://dantri.com.vn/khoa-hoc-cong-nghe/2024-la-nam-nong-ky-luc-khoa-hoc-canh-bao-se-con-toi-te-hon-20250118025305677.htm) - 00:03 19/01/2025
+- 🧑‍💻 [Thế giới động vật: &quot;Thủy quái&quot; từ dưới nước lao lên tấn công cừu để ăn thịt](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-thuy-quai-tu-duoi-nuoc-lao-len-tan-cong-cuu-de-an-thit-20250119022241585.htm) - 23:59 18/01/2025
+- 🧰 [Thế hệ cửa sổ thông minh mới giúp điều hòa tối ưu nhiệt độ trong nhà](https://dantri.com.vn/khoa-hoc-cong-nghe/the-he-cua-so-thong-minh-moi-giup-dieu-hoa-toi-uu-nhiet-do-trong-nha-20250118030142601.htm) - 00:03 18/01/2025<!-- dantri-khoa-hoc-cong-nghe:END -->
