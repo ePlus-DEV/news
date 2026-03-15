@@ -315,56 +315,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [TPHCM: Đến 9 giờ sáng 15-3, đã có hơn 13% cử tri tham gia bầu cử](https://www.sggp.org.vn/tphcm-den-9-gio-sang-15-3-da-co-hon-13-cu-tri-tham-gia-bau-cu-post842965.html) - 03:21 15/03/2026
-- 🌝 [Nguyên Chủ tịch nước Trương Tấn Sang và Phó Bí thư Thường trực Thành ủy TPHCM Lê Quốc Phong bỏ phiếu bầu cử tại phường Tân Định](https://www.sggp.org.vn/nguyen-chu-tich-nuoc-truong-tan-sang-va-pho-bi-thu-thuong-truc-thanh-uy-tphcm-le-quoc-phong-bo-phieu-bau-cu-tai-phuong-tan-dinh-post842963.html) - 03:20 15/03/2026
-- 💃 [Đưa bệnh nhân nguy kịch từ đảo Cù Lao Chàm về đất liền cấp cứu ngay trong đêm](https://www.sggp.org.vn/dua-benh-nhan-nguy-kich-tu-dao-cu-lao-cham-ve-dat-lien-cap-cuu-ngay-trong-dem-post842960.html) - 02:49 15/03/2026
-- 🧑‍💻 [Xung đột leo thang tại Trung Đông: Áp lực đè nặng ngành hóa dầu, tài chính](https://www.sggp.org.vn/xung-dot-leo-thang-tai-trung-dong-ap-luc-de-nang-nganh-hoa-dau-tai-chinh-post842906.html) - 02:40 15/03/2026
-- 🌊 [Lòng dân và đại biểu dân cử](https://www.sggp.org.vn/long-dan-va-dai-bieu-dan-cu-post842912.html) - 02:40 15/03/2026
-- 🧑‍💻 [Bí thư Thành ủy TPHCM Trần Lưu Quang: Mong cử tri lựa chọn những đại biểu xứng đáng](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-tran-luu-quang-mong-cu-tri-lua-chon-nhung-dai-bieu-xung-dang-post842947.html) - 02:38 15/03/2026
-- ⛽️ [Theo dấu “Cây di sản” ở Đặc khu Côn Đảo](https://www.sggp.org.vn/theo-dau-cay-di-san-o-dac-khu-con-dao-post842953.html) - 02:38 15/03/2026
-- 😎 [Nỗ lực bình ổn giá hàng hóa, kéo sức mua](https://www.sggp.org.vn/no-luc-binh-on-gia-hang-hoa-keo-suc-mua-post842952.html) - 02:38 15/03/2026
-- 🌜 [Thông điệp của Mexico](https://www.sggp.org.vn/thong-diep-cua-mexico-post842907.html) - 02:38 15/03/2026
-- 💻 [Ấm tình đồng hương nơi đất khách](https://www.sggp.org.vn/am-tinh-dong-huong-noi-dat-khach-post842908.html) - 02:37 15/03/2026
-- 👍 [Xe đầu kéo bốc cháy, một người tử vong](https://www.sggp.org.vn/xe-dau-keo-boc-chay-mot-nguoi-tu-vong-post842955.html) - 02:35 15/03/2026
-- 🦆 [Tai nạn trên đường cao tốc Cam Lâm – Vĩnh Hảo, 3 người trong cùng một gia đình thương vong](https://www.sggp.org.vn/tai-nan-tren-duong-cao-toc-cam-lam-vinh-hao-3-nguoi-trong-cung-mot-gia-dinh-thuong-vong-post842959.html) - 02:35 15/03/2026
-- 🦩 [Cử tri miền Trung rộn ràng Ngày hội non sông](https://www.sggp.org.vn/cu-tri-mien-trung-ron-rang-ngay-hoi-non-song-post842931.html) - 02:09 15/03/2026
-- 🥰 [Công nghệ đồng hành cùng bầu cử](https://www.sggp.org.vn/cong-nghe-dong-hanh-cung-bau-cu-post842940.html) - 02:03 15/03/2026
-- 🎬 [Thời tiết thuận lợi trong ngày bầu cử, hôm nay 15-3](https://www.sggp.org.vn/thoi-tiet-thuan-loi-trong-ngay-bau-cu-hom-nay-15-3-post842944.html) - 01:55 15/03/2026
-- 🦩 [Thông tin về cuộc bầu cử sẽ được cập nhật 2 giờ/lần](https://www.sggp.org.vn/thong-tin-ve-cuoc-bau-cu-se-duoc-cap-nhat-2-giolan-post842935.html) - 01:53 15/03/2026
-- 🌮 [Xe đầu kéo bốc cháy, một người tử vong](https://www.sggp.org.vn/xe-dau-keo-boc-chay-mot-nguoi-tu-vong-post842902.html) - 01:48 15/03/2026
-- 👍 [Quảng Trị: Tìm kiếm một ngư dân bị mất tích trên biển](https://www.sggp.org.vn/quang-tri-tim-kiem-mot-ngu-dan-bi-mat-tich-tren-bien-post842942.html) - 01:48 15/03/2026
-- 🦒 [Nam sinh y dược cõng mẹ nhận bằng tốt nghiệp](https://www.sggp.org.vn/nam-sinh-y-duoc-cong-me-nhan-bang-tot-nghiep-post842640.html) - 01:47 15/03/2026
-- 🤡 [Chủ tịch Quốc hội Trần Thanh Mẫn: Tham gia bầu cử là quyền và trách nhiệm thiêng liêng của mỗi công dân](https://www.sggp.org.vn/chu-tich-quoc-hoi-tran-thanh-man-tham-gia-bau-cu-la-quyen-va-trach-nhiem-thieng-lieng-cua-moi-cong-dan-post842923.html) - 01:36 15/03/2026
-- 🐎 [Cứu 9 thuyền viên tàu chở cát bị chìm ở vùng biển Cần Thơ](https://www.sggp.org.vn/cuu-9-thuyen-vien-tau-cho-cat-bi-chim-o-vung-bien-can-tho-post842930.html) - 01:30 15/03/2026
-- 🦆 [Nguyên Thủ tướng Nguyễn Tấn Dũng và Chủ tịch UBND TPHCM Nguyễn Văn Được bỏ phiếu bầu cử tại phường Xuân Hòa](https://www.sggp.org.vn/nguyen-thu-tuong-nguyen-tan-dung-va-chu-tich-ubnd-tphcm-nguyen-van-duoc-bo-phieu-bau-cu-tai-phuong-xuan-hoa-post842925.html) - 01:24 15/03/2026
-- 🦅 [Guardiola: “Cuộc đua vô địch chưa kết thúc”](https://www.sggp.org.vn/guardiola-cuoc-dua-vo-dich-chua-ket-thuc-post842922.html) - 01:02 15/03/2026
-- 🫣 [Michael Carrick ngạc nhiên với phong độ của Morgan Rogers tại Aston Villa](https://www.sggp.org.vn/michael-carrick-ngac-nhien-voi-phong-do-cua-morgan-rogers-tai-aston-villa-post842927.html) - 01:01 15/03/2026
-- 🎭 [Arne Slot phải đoạt danh hiệu để cứu vãn mùa giải của Liverpool](https://www.sggp.org.vn/arne-slot-phai-doat-danh-hieu-de-cuu-van-mua-giai-cua-liverpool-post842924.html) - 01:01 15/03/2026
-- 🫶 [WHO: 14 nhân viên y tế thiệt mạng do không kích tại Lebanon](https://www.sggp.org.vn/who-14-nhan-vien-y-te-thiet-mang-do-khong-kich-tai-lebanon-post842919.html) - 00:58 15/03/2026
-- 🎓 [Cử tri Trường Sa cùng cả nước tham gia “Ngày hội non sông”](https://www.sggp.org.vn/cu-tri-truong-sa-cung-ca-nuoc-tham-gia-ngay-hoi-non-song-post842920.html) - 00:58 15/03/2026
-- 🤡 [Chủ tịch Quốc hội Trần Thanh Mẫn, Bí thư Thành ủy TPHCM Trần Lưu Quang bỏ phiếu bầu cử tại xã Hóc Môn](https://www.sggp.org.vn/chu-tich-quoc-hoi-tran-thanh-man-bi-thu-thanh-uy-tphcm-tran-luu-quang-bo-phieu-bau-cu-tai-xa-hoc-mon-post842899.html) - 00:50 15/03/2026
-- 🦅 [Tổng Bí thư Tô Lâm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp](https://www.sggp.org.vn/tong-bi-thu-to-lam-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-post842921.html) - 00:44 15/03/2026
-- 🧑‍🏫 [Tổng thống Mỹ kêu gọi quốc tế hỗ trợ bảo vệ eo biển Hormuz](https://www.sggp.org.vn/tong-thong-my-keu-goi-quoc-te-ho-tro-bao-ve-eo-bien-hormuz-post842917.html) - 00:25 15/03/2026
-- 🕴 [TPHCM đồng loạt khai mạc ngày bầu cử](https://www.sggp.org.vn/tphcm-dong-loat-khai-mac-ngay-bau-cu-post842916.html) - 00:05 15/03/2026
-- 🦆 [Arsenal chạm tay vào chức vô địch khi bỏ xa Man.City 9 điểm](https://www.sggp.org.vn/arsenal-cham-tay-vao-chuc-vo-dich-khi-bo-xa-mancity-9-diem-post842918.html) - 00:00 15/03/2026
-- 🎃 [Manchester United: Những quyết định lớn từ nay đến mùa giải mới](https://www.sggp.org.vn/manchester-united-nhung-quyet-dinh-lon-tu-nay-den-mua-giai-moi-post842856.html) - 00:00 15/03/2026
-- 🌮 [Real Madrid vs Elche 4-1: Rudiger, Valverde, Huijsen, Guler vùi dập đối thủ, Moran phản lưới nhà, Real còn thua Barca 1 điểm](https://www.sggp.org.vn/real-madrid-vs-elche-4-1-rudiger-valverde-huijsen-guler-vui-dap-doi-thu-moran-phan-luoi-nha-real-con-thua-barca-1-diem-post842926.html) - 23:46 14/03/2026
-- 🥰 [Cả nước vào ngày hội non sông](https://www.sggp.org.vn/ca-nuoc-vao-ngay-hoi-non-song-post842909.html) - 23:41 14/03/2026
-- 🕯 [Văn nghệ sĩ, vận động viên: Kỳ vọng lớn trong ngày bầu cử](https://www.sggp.org.vn/van-nghe-si-van-dong-vien-ky-vong-lon-trong-ngay-bau-cu-post842913.html) - 23:41 14/03/2026
-- 🙉 [Báo Sài Gòn Giải Phóng ngày 15/3/2026](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-1532026-post842915.html) - 23:41 14/03/2026
-- 💡 [Tổng thống Donald Trump bác tin 5 máy bay tiếp dầu Mỹ bị phá hủy](https://www.sggp.org.vn/tong-thong-donald-trump-bac-tin-5-may-bay-tiep-dau-my-bi-pha-huy-post842901.html) - 23:15 14/03/2026
-- 💫 [Hôm nay 15-3, gần 79 triệu cử tri thực hiện quyền công dân](https://www.sggp.org.vn/hom-nay-15-3-gan-79-trieu-cu-tri-thuc-hien-quyen-cong-dan-post842884.html) - 23:08 14/03/2026
-- 🧑‍💻 [Udinese vs Juventus 0-1: Kenan Yildiz kiến tạo, Jeremie Boga ghi bàn, VAR ngăn Conceicao ghi bàn, Juve vào tốp 4 Serie A](https://www.sggp.org.vn/udinese-vs-juventus-0-1-kenan-yildiz-kien-tao-jeremie-boga-ghi-ban-var-ngan-conceicao-ghi-ban-juve-vao-top-4-serie-a-post842936.html) - 22:36 14/03/2026
-- 🎊 [Công tác chuẩn bị bầu cử hoàn tất, sẵn sàng cho Ngày hội toàn dân](https://www.sggp.org.vn/cong-tac-chuan-bi-bau-cu-hoan-tat-san-sang-cho-ngay-hoi-toan-dan-post842903.html) - 22:18 14/03/2026
-- 🤖 [Kiều bào và cộng đồng quốc tế: Kỳ vọng đột phá thể chế nhiệm kỳ mới](https://www.sggp.org.vn/kieu-bao-va-cong-dong-quoc-te-ky-vong-dot-pha-the-che-nhiem-ky-moi-post842904.html) - 22:18 14/03/2026
-- 💫 [Gửi gắm niềm tin qua từng lá phiếu](https://www.sggp.org.vn/gui-gam-niem-tin-qua-tung-la-phieu-post842905.html) - 22:17 14/03/2026
-- 👨‍🏫 [Hân hoan ngày hội toàn dân](https://www.sggp.org.vn/han-hoan-ngay-hoi-toan-dan-post842910.html) - 22:17 14/03/2026
-- 🧰 [Sáng suốt lựa chọn người xứng đáng đại diện cho Nhân dân!](https://www.sggp.org.vn/sang-suot-lua-chon-nguoi-xung-dang-dai-dien-cho-nhan-dan-post842914.html) - 22:17 14/03/2026
-- 🥰 [Gửi trọn niềm tin vào lá phiếu](https://www.sggp.org.vn/gui-tron-niem-tin-vao-la-phieu-post842911.html) - 22:17 14/03/2026
-- 💼 [Hamburger vs Koln 1-1: Fabio Vieira chớp thời cơ tâng bóng góc xa mở bàn, Said El Mala đánh đầu chia điểm kịch tính](https://www.sggp.org.vn/hamburger-vs-koln-1-1-fabio-vieira-chop-thoi-co-tang-bong-goc-xa-mo-ban-said-el-mala-danh-dau-chia-diem-kich-tinh-post842948.html) - 22:13 14/03/2026
-- 🤗 [Angers vs Nice 0-2: Hiệp 2 bùng nổ, Melvin Bard mở bàn, Elye Wahi kịp góp công chốt hạ chiến thắng, bỏ túi 3 điểm](https://www.sggp.org.vn/angers-vs-nice-0-2-hiep-2-bung-no-melvin-bard-mo-ban-elye-wahi-kip-gop-cong-chot-ha-chien-thang-bo-tui-3-diem-post842957.html) - 19:57 14/03/2026
-- 🦩 [Inter Milan vs Atalanta 1-1: Barella kiến tạo, Esposito khai bàn, Krstovic gỡ hòa, HLV Aleksandar Kolarov và Djimsiti xô xát nảy lửa](https://www.sggp.org.vn/inter-milan-vs-atalanta-1-1-barella-kien-tao-esposito-khai-ban-krstovic-go-hoa-hlv-aleksandar-kolarov-va-djimsiti-xo-xat-nay-lua-post842934.html) - 19:52 14/03/2026
-- 🫶 [Napoli vs Lecce 2-1: Jamil Siebert sớm mở bàn phút thứ 3, Rasmus Hojlund, Matteo Politano ngược dòng giành chiến thắng](https://www.sggp.org.vn/napoli-vs-lecce-2-1-jamil-siebert-som-mo-ban-phut-thu-3-rasmus-hojlund-matteo-politano-nguoc-dong-gianh-chien-thang-post842933.html) - 19:22 14/03/2026<!-- sggp:END -->
+- 🪜 [Loa di động soundcore Boom Go 3i với thiết kế siêu di động và bền bỉ](https://www.sggp.org.vn/loa-di-dong-soundcore-boom-go-3i-voi-thiet-ke-sieu-di-dong-va-ben-bi-post842701.html) - 10:12 15/03/2026
+- 🌝 [Niềm hạnh phúc đi bầu cử của các cầu thủ nhập tịch, Việt kiều đang thi đấu tại V-League](https://www.sggp.org.vn/niem-hanh-phuc-di-bau-cu-cua-cac-cau-thu-nhap-tich-viet-kieu-dang-thi-dau-tai-v-league-post843026.html) - 10:09 15/03/2026
+- 💃 [Kỳ thủ Bành Gia Huy, Lương Phương Hạnh lên ngôi vô địch cờ tiêu chuẩn quốc gia 2026](https://www.sggp.org.vn/ky-thu-banh-gia-huy-luong-phuong-hanh-len-ngoi-vo-dich-co-tieu-chuan-quoc-gia-2026-post843009.html) - 10:08 15/03/2026
+- 🧑‍💻 [3 chị em tuyển thủ vật Mỹ Hạnh, Mỹ Trang, Mỹ Linh cùng giành HCV giải vô địch bãi biển quốc gia 2026](https://www.sggp.org.vn/3-chi-em-tuyen-thu-vat-my-hanh-my-trang-my-linh-cung-gianh-hcv-giai-vo-dich-bai-bien-quoc-gia-2026-post843012.html) - 10:07 15/03/2026
+- 🌊 [Những lá phiếu của niềm tin từ nơi địa đầu đất nước](https://www.sggp.org.vn/nhung-la-phieu-cua-niem-tin-tu-noi-dia-dau-dat-nuoc-post843004.html) - 09:50 15/03/2026
+- 🧑‍💻 [Triệt phá sới bạc, bắt giữ nhiều đối tượng có nhiều tiền án, tiền sự](https://www.sggp.org.vn/triet-pha-soi-bac-bat-giu-nhieu-doi-tuong-co-nhieu-tien-an-tien-su-post843021.html) - 09:41 15/03/2026
+- ⛽️ [Điều tra nguyên nhân đá lăn làm gãy đường ray, tàu hàng trật bánh tại đèo Hải Vân](https://www.sggp.org.vn/dieu-tra-nguyen-nhan-da-lan-lam-gay-duong-ray-tau-hang-trat-banh-tai-deo-hai-van-post843019.html) - 09:38 15/03/2026
+- 😎 [Vượt sóng dữ, đưa bệnh nhân nguy kịch về đất liền cấp cứu ngay trong đêm](https://www.sggp.org.vn/vuot-song-du-dua-benh-nhan-nguy-kich-ve-dat-lien-cap-cuu-ngay-trong-dem-post843020.html) - 09:24 15/03/2026
+- 🌜 [Nhiều đặc khu hoàn tất bầu cử sớm, 100% cử tri tham gia bỏ phiếu](https://www.sggp.org.vn/nhieu-dac-khu-hoan-tat-bau-cu-som-100-cu-tri-tham-gia-bo-phieu-post843017.html) - 09:18 15/03/2026
+- 💻 [Văn nghệ sĩ TPHCM rộn ràng tham gia ngày hội toàn dân](https://www.sggp.org.vn/van-nghe-si-tphcm-ron-rang-tham-gia-ngay-hoi-toan-dan-post843005.html) - 09:09 15/03/2026
+- 👍 [Phó Bí thư Thành ủy TPHCM Nguyễn Phước Lộc thăm, động viên các cử tri đặc biệt](https://www.sggp.org.vn/pho-bi-thu-thanh-uy-tphcm-nguyen-phuoc-loc-tham-dong-vien-cac-cu-tri-dac-biet-post843008.html) - 09:01 15/03/2026
+- 🦆 [TPHCM: Gần 78% cử tri đã đi bầu cử, nhiều địa phương đạt trên 90%](https://www.sggp.org.vn/tphcm-gan-78-cu-tri-da-di-bau-cu-nhieu-dia-phuong-dat-tren-90-post843015.html) - 08:48 15/03/2026
+- 🦩 [Nhiều tuyển thủ nữ Iran thay đổi quyết định tị nạn ở Australia](https://www.sggp.org.vn/nhieu-tuyen-thu-nu-iran-thay-doi-quyet-dinh-ti-nan-o-australia-post843014.html) - 08:26 15/03/2026
+- 🥰 [LA Lakers thắng kịch tính Denver Nuggets, San Antonio Spurs tiếp tục áp đảo](https://www.sggp.org.vn/la-lakers-thang-kich-tinh-denver-nuggets-san-antonio-spurs-tiep-tuc-ap-dao-post843003.html) - 08:25 15/03/2026
+- 🎬 [Trực thăng xuyên đêm đưa ngư dân bị đột quỵ từ Trường Sa về đất liền](https://www.sggp.org.vn/truc-thang-xuyen-dem-dua-ngu-dan-bi-dot-quy-tu-truong-sa-ve-dat-lien-post842993.html) - 08:16 15/03/2026
+- 🦩 [Đến 14 giờ 15 phút, 80,63% cử tri đã tham gia bỏ phiếu](https://www.sggp.org.vn/den-14-gio-15-phut-8063-cu-tri-da-tham-gia-bo-phieu-post843002.html) - 08:13 15/03/2026
+- 🌮 [Philippines tung đội hình B so tài với Nhật Bản](https://www.sggp.org.vn/philippines-tung-doi-hinh-b-so-tai-voi-nhat-ban-post843006.html) - 07:55 15/03/2026
+- 👍 [Tròn 1 năm, thủ môn Hồ Văn Ý trở lại đội tuyển futsal Việt Nam](https://www.sggp.org.vn/tron-1-nam-thu-mon-ho-van-y-tro-lai-doi-tuyen-futsal-viet-nam-post842994.html) - 07:52 15/03/2026
+- 🦒 [Tiền đạo nhập tịch Đỗ Hoàng Hên cùng các cầu thủ đi bầu cử](https://www.sggp.org.vn/tien-dao-nhap-tich-do-hoang-hen-cung-cac-cau-thu-di-bau-cu-post842999.html) - 07:51 15/03/2026
+- 🤡 [Lực lượng vũ trang tại TPHCM hòa chung ngày hội non sông](https://www.sggp.org.vn/luc-luong-vu-trang-tai-tphcm-hoa-chung-ngay-hoi-non-song-post842970.html) - 07:42 15/03/2026
+- 🐎 [Bản tin Bầu cử ngày 15-3: Cử tri TPHCM nô nức đi bầu cử](https://www.sggp.org.vn/ban-tin-bau-cu-ngay-15-3-cu-tri-tphcm-no-nuc-di-bau-cu-post843007.html) - 07:39 15/03/2026
+- 🦆 [Inter Milan sa sút khiến cuộc đua vô địch mở rộng trở lại](https://www.sggp.org.vn/inter-milan-sa-sut-khien-cuoc-dua-vo-dich-mo-rong-tro-lai-post843000.html) - 07:18 15/03/2026
+- 🦅 [TPHCM: Đến 11 giờ 30 phút ngày 15-3, đã có hơn 44% cử tri tham gia bầu cử](https://www.sggp.org.vn/tphcm-den-11-gio-30-phut-ngay-15-3-da-co-hon-44-cu-tri-tham-gia-bau-cu-post843001.html) - 07:07 15/03/2026
+- 🫣 [Báo chí vào cuộc quyết liệt, tạo được không khí hồ hởi, phấn khởi cho cuộc bầu cử](https://www.sggp.org.vn/bao-chi-vao-cuoc-quyet-liet-tao-duoc-khong-khi-ho-hoi-phan-khoi-cho-cuoc-bau-cu-post842985.html) - 07:03 15/03/2026
+- 🎭 [Cử tri TPHCM nô nức đi bầu cử](https://www.sggp.org.vn/cu-tri-tphcm-no-nuc-di-bau-cu-post842997.html) - 06:56 15/03/2026
+- 🫶 [Indian Wells 2026: Daniil Medvedev đã lật đổ Carlos Alcaraz, sẽ đấu Jannik Sinner ở chung kết](https://www.sggp.org.vn/indian-wells-2026-daniil-medvedev-da-lat-do-carlos-alcaraz-se-dau-jannik-sinner-o-chung-ket-post842995.html) - 06:51 15/03/2026
+- 🎓 [Gia đình nhiều thế hệ: Gửi gắm niềm tin qua từng lá phiếu](https://www.sggp.org.vn/gia-dinh-nhieu-the-he-gui-gam-niem-tin-qua-tung-la-phieu-post842996.html) - 06:46 15/03/2026
+- 🤡 [Những lá phiếu đến từ giường bệnh](https://www.sggp.org.vn/nhung-la-phieu-den-tu-giuong-benh-post842987.html) - 06:41 15/03/2026
+- 🦅 [Tính đến 11 giờ 30, hơn 44% cử tri TPHCM đã bỏ phiếu](https://www.sggp.org.vn/tinh-den-11-gio-30-hon-44-cu-tri-tphcm-da-bo-phieu-post842992.html) - 06:33 15/03/2026
+- 🧑‍🏫 [Liên đoàn bóng chuyền Việt Nam tìm giải pháp làm kinh tế thể thao từ giải vô địch quốc gia](https://www.sggp.org.vn/lien-doan-bong-chuyen-viet-nam-tim-giai-phap-lam-kinh-te-the-thao-tu-giai-vo-dich-quoc-gia-post842645.html) - 06:07 15/03/2026
+- 🕴 [Podcast tin trưa 15-3: Giới phân tích cho rằng giá vàng sẽ tiếp tục dao động trong biên độ rộng](https://www.sggp.org.vn/podcast-tin-trua-15-3-gioi-phan-tich-cho-rang-gia-vang-se-tiep-tuc-dao-dong-trong-bien-do-rong-post842991.html) - 06:03 15/03/2026
+- 🦆 [Bản tin trưa 15-3: Ngày bầu cử, thời tiết cả nước cơ bản thuận lợi](https://www.sggp.org.vn/ban-tin-trua-15-3-ngay-bau-cu-thoi-tiet-ca-nuoc-co-ban-thuan-loi-post842986.html) - 06:00 15/03/2026
+- 🎃 [Những cử tri đặc biệt trong ngày bầu cử](https://www.sggp.org.vn/nhung-cu-tri-dac-biet-trong-ngay-bau-cu-post842969.html) - 05:48 15/03/2026
+- 🌮 [Lãnh đạo Triều Tiên thị sát diễn tập bắn pháo tầm xa](https://www.sggp.org.vn/lanh-dao-trieu-tien-thi-sat-dien-tap-ban-phao-tam-xa-post842983.html) - 05:33 15/03/2026
+- 🥰 [Bayern bị cầm hòa 1-1 tại Leverkusen sau khi nhận 2 thẻ đỏ](https://www.sggp.org.vn/bayern-bi-cam-hoa-1-1-tai-leverkusen-sau-khi-nhan-2-the-do-post842988.html) - 05:33 15/03/2026
+- 🕯 [Kiến nghị tạm dừng khai thác đường cao tốc Hậu Giang – Cà Mau](https://www.sggp.org.vn/kien-nghi-tam-dung-khai-thac-duong-cao-toc-hau-giang-ca-mau-post842972.html) - 05:32 15/03/2026
+- 🙉 [Phó Chủ tịch Quốc hội Nguyễn Thị Thanh: Tính đến 10 giờ, khoảng 40% cử tri đã bỏ phiếu](https://www.sggp.org.vn/pho-chu-tich-quoc-hoi-nguyen-thi-thanh-tinh-den-10-gio-khoang-40-cu-tri-da-bo-phieu-post842973.html) - 05:22 15/03/2026
+- 💡 [Người trẻ đánh thức ký ức Hà Nội](https://www.sggp.org.vn/nguoi-tre-danh-thuc-ky-uc-ha-noi-post842956.html) - 05:10 15/03/2026
+- 💫 [Valverde lại ghi bàn giúp Real Madrid thắng dễ 4-1 trước Elche](https://www.sggp.org.vn/valverde-lai-ghi-ban-giup-real-madrid-thang-de-4-1-truoc-elche-post842984.html) - 04:55 15/03/2026
+- 🧑‍💻 [Cử tri Nam Trung bộ nô nức đi bầu cử](https://www.sggp.org.vn/cu-tri-nam-trung-bo-no-nuc-di-bau-cu-post842939.html) - 04:34 15/03/2026
+- 🎊 [Thủ tướng Phạm Minh Chính bỏ phiếu bầu cử đại biểu Quốc hội và HĐND](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-bo-phieu-bau-cu-dai-bieu-quoc-hoi-va-hdnd-post842982.html) - 04:32 15/03/2026
+- 🤖 [Cử tri ở cực Nam Tổ quốc đi bỏ phiếu bằng vỏ lãi](https://www.sggp.org.vn/cu-tri-o-cuc-nam-to-quoc-di-bo-phieu-bang-vo-lai-post842950.html) - 04:27 15/03/2026
+- 💫 [Chủ tịch nước Lương Cường bỏ phiếu tại phường Hoàn Kiếm, TP Hà Nội](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-bo-phieu-tai-phuong-hoan-kiem-tp-ha-noi-post842977.html) - 04:25 15/03/2026
+- 👨‍🏫 [Kịch tính giải đua bè mảng trên sông Kỳ Cùng](https://www.sggp.org.vn/kich-tinh-giai-dua-be-mang-tren-song-ky-cung-post842971.html) - 04:16 15/03/2026
+- 🧰 [Giá vàng sáng 15-3 tiếp tục xu hướng giảm](https://www.sggp.org.vn/gia-vang-sang-15-3-tiep-tuc-xu-huong-giam-post842975.html) - 04:15 15/03/2026
+- 🥰 [Sắc màu văn hóa trong ngày bầu cử ở các tỉnh Tây Nguyên](https://www.sggp.org.vn/sac-mau-van-hoa-trong-ngay-bau-cu-o-cac-tinh-tay-nguyen-post842961.html) - 04:10 15/03/2026
+- 💼 [Tổng Bí thư Tô Lâm bỏ phiếu tại phường Ba Đình, TP Hà Nội](https://www.sggp.org.vn/tong-bi-thu-to-lam-bo-phieu-tai-phuong-ba-dinh-tp-ha-noi-post842974.html) - 03:59 15/03/2026
+- 🤗 [Đội tuyển golf miền Bắc giành chiến thắng giải vô địch đồng đội VGA Union Cup 2026](https://www.sggp.org.vn/doi-tuyen-golf-mien-bac-gianh-chien-thang-giai-vo-dich-dong-doi-vga-union-cup-2026-post842937.html) - 03:49 15/03/2026
+- 🦩 [Giới thể thao chung niềm háo hức hướng về “Ngày hội non sông”](https://www.sggp.org.vn/gioi-the-thao-chung-niem-hao-huc-huong-ve-ngay-hoi-non-song-post842941.html) - 03:48 15/03/2026
+- 🫶 [Hà Nội: Không khí bầu cử trang trọng, phấn khởi](https://www.sggp.org.vn/ha-noi-khong-khi-bau-cu-trang-trong-phan-khoi-post842966.html) - 03:47 15/03/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
