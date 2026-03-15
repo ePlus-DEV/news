@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Đội hình xuất phát Barcelona đấu Sevilla: Lamine Yamal dự bị](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-barcelona-dau-sevilla-lamine-yamal-du-bi-101260315215759939.htm) - 14:58 15/03/2026
 - 🥷 [Dự báo thời tiết từ 15-3 đến 21-3: Bắc Bộ sương mù, Trung Bộ mưa, Nam Bộ oi bức](https://muctim.tuoitre.vn/du-bao-thoi-tiet-tu-15-3-den-21-3-bac-bo-suong-mu-trung-bo-mua-nam-bo-oi-buc-101260315205809701.htm) - 13:58 15/03/2026
-- 🤖 [Trực tiếp vòng 30 Ngoại hạng Anh: tâm điểm Man United đấu Aston Villa](https://muctim.tuoitre.vn/truc-tiep-vong-30-ngoai-hang-anh-tam-diem-man-united-dau-aston-villa-101260315205502267.htm) - 13:55 15/03/2026
+- 🤖 [Kết quả vòng 30 Ngoại hạng Anh: Man United hạ Aston Villa 3-1](https://muctim.tuoitre.vn/truc-tiep-vong-30-ngoai-hang-anh-tam-diem-man-united-dau-aston-villa-101260315205502267.htm) - 13:55 15/03/2026
 - 🤓 [Man United đấu Aston Villa bằng đội hình nào?](https://muctim.tuoitre.vn/man-united-dau-aston-villa-bang-doi-hinh-nao-101260315202658151.htm) - 13:27 15/03/2026
 - 🎉 [Đội hình Thể Công đấu Hải Phòng, Công An TP.HCM đấu PVF-CAND](https://muctim.tuoitre.vn/doi-hinh-the-cong-dau-hai-phong-cong-an-tphcm-dau-pvf-cand-101260315190525015.htm) - 12:06 15/03/2026
 - 👨‍🏫 [Đón đọc Nhi Đồng TP.HCM 12, phát hành 20-3: Gia đình mình là một team gắn bó](https://muctim.tuoitre.vn/don-doc-nhi-dong-tphcm-12-phat-hanh-20-3-gia-dinh-minh-la-mot-team-gan-bo-101260313215604695.htm) - 10:36 15/03/2026
