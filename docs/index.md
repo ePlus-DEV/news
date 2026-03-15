@@ -407,56 +407,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Hơn 93% cử tri cả nước đã đi bầu cử, 5 tỉnh đạt tỉ lệ gần tuyệt đối](https://baochinhphu.vn/hon-93-cu-tri-ca-nuoc-da-di-bau-cu-5-tinh-dat-ti-le-gan-tuyet-doi-102260315180642978.htm) - 18:58 15/03/2026
-- 🌜 [Nhiều hãng thông tấn quốc tế đưa tin về cuộc bầu cử tại Việt Nam](https://baochinhphu.vn/nhieu-hang-thong-tan-quoc-te-dua-tin-ve-cuoc-bau-cu-tai-viet-nam-102260315185753997.htm) - 18:42 15/03/2026
-- 🦆 [Tổ chức thẩm định điều chỉnh chủ trương đầu tư Dự án điện hạt nhân Ninh Thuận 1](https://baochinhphu.vn/to-chuc-tham-dinh-dieu-chinh-chu-truong-dau-tu-du-an-dien-hat-nhan-ninh-thuan-1-1022603151158375.htm) - 18:34 15/03/2026
-- 🌝 [Quy định việc quản lý, sử dụng, khai thác tài sản kết cấu hạ tầng thủy lợi](https://baochinhphu.vn/quy-dinh-viec-quan-ly-su-dung-khai-thac-tai-san-ket-cau-ha-tang-thuy-loi-102260315081226016.htm) - 18:26 15/03/2026
-- 🦣 [Xuyên đêm vượt sóng to, gió lớn, cứu nạn bệnh nhân nguy kịch từ Cù Lao Chàm](https://baochinhphu.vn/xuyen-dem-vuot-song-to-gio-lon-cuu-nan-benh-nhan-nguy-kich-tu-cu-lao-cham-102260315182200102.htm) - 18:00 15/03/2026
-- ⛽️ [Chùm ảnh: Nhân dân Thủ đô hân hoan thực hiện quyền, nghĩa vụ trong ngày bầu cử](https://baochinhphu.vn/chum-anh-nhan-dan-thu-do-han-hoan-thuc-hien-quyen-nghia-vu-trong-ngay-bau-cu-102260315141305894.htm) - 16:24 15/03/2026
-- 🎓 [Phê duyệt Đề án chuyển đổi số trong hoạt động tố tụng hình sự và thi hành án hình sự](https://baochinhphu.vn/phe-duyet-de-an-chuyen-doi-so-trong-hoat-dong-to-tung-hinh-su-va-thi-hanh-an-hinh-su-102260313165333362.htm) - 16:13 15/03/2026
-- 💡 [Hơn 61,7 triệu cử tri đã bỏ phiếu, nhiều địa phương đạt trên 90%](https://baochinhphu.vn/hon-617-trieu-cu-tri-da-bo-phieu-nhieu-dia-phuong-dat-tren-90-102260315150448913.htm) - 15:48 15/03/2026
-- 🌊 [Bầu cử để lựa chọn người xứng đáng đưa đất nước bước vào kỷ nguyên mới](https://baochinhphu.vn/bau-cu-de-lua-chon-nguoi-xung-dang-dua-dat-nuoc-buoc-vao-ky-nguyen-moi-10226031512293542.htm) - 12:51 15/03/2026
-- 💯 [Hơn 70% cử tri cả nước đã đi bỏ phiếu](https://baochinhphu.vn/hon-70-cu-tri-ca-nuoc-da-di-bo-phieu-102260315115919248.htm) - 12:17 15/03/2026
-- 🦣 [Tổng Bí thư Tô Lâm bỏ phiếu bầu cử đại biểu Quốc hội, HĐND các cấp tại phường Ba Đình, Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-bo-phieu-bau-cu-dai-bieu-quoc-hoi-hdnd-cac-cap-tai-phuong-ba-dinh-ha-noi-102260315084331347.htm) - 12:08 15/03/2026
-- 🥷 [Thủ tướng Phạm Minh Chính cùng cử tri bỏ phiếu bầu cử tại phường Tây Hồ, Hà Nội](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-cung-cu-tri-bo-phieu-bau-cu-tai-phuong-tay-ho-ha-noi-102260315075119003.htm) - 12:08 15/03/2026
-- 💻 [Chùm ảnh: Rộn ràng không khí ngày bầu cử tại các xã biên giới, hải đảo, vùng sâu, vùng xa](https://baochinhphu.vn/chum-anh-ron-rang-khong-khi-ngay-bau-cu-tai-cac-xa-bien-gioi-hai-dao-vung-sau-vung-xa-102260315095318431.htm) - 11:24 15/03/2026
-- 🤭 [Kịp thời khen thưởng mô hình hay, cách làm hiệu quả trong công tác bầu cử](https://baochinhphu.vn/kip-thoi-khen-thuong-mo-hinh-hay-cach-lam-hieu-qua-trong-cong-tac-bau-cu-102260315110017385.htm) - 11:19 15/03/2026
-- 🦆 [Chi phí lập báo cáo kinh tế - kỹ thuật dự án cải tạo dưới 20 tỷ](https://baochinhphu.vn/chi-phi-lap-bao-cao-kinh-te-ky-thuat-du-an-cai-tao-duoi-20-ty-102260315001507421.htm) - 11:04 15/03/2026
-- 🤖 [Công tác bầu cử được chuẩn bị chu đáo, đúng pháp luật và thống nhất trong cả nước](https://baochinhphu.vn/cong-tac-bau-cu-duoc-chuan-bi-chu-dao-dung-phap-luat-va-thong-nhat-trong-ca-nuoc-102260315094106716.htm) - 10:34 15/03/2026
-- 🌁 [Nhiều điểm bỏ phiếu ghi nhận số lượng cử tri đi bỏ phiếu đông từ giờ đầu tiên](https://baochinhphu.vn/nhieu-diem-bo-phieu-ghi-nhan-so-luong-cu-tri-di-bo-phieu-dong-tu-gio-dau-tien-102260315095200134.htm) - 10:32 15/03/2026
-- 💼 [Chùm ảnh: Cử tri cả nước nô nức tham gia &quot;Ngày hội non sông&quot;](https://baochinhphu.vn/chum-anh-cu-tri-ca-nuoc-no-nuc-tham-gia-ngay-hoi-non-song-102260315090321241.htm) - 10:24 15/03/2026
-- 🧠 [Đất khai hoang nằm trong quy hoạch rừng có được cấp Giấy chứng nhận?](https://baochinhphu.vn/dat-khai-hoang-nam-trong-quy-hoach-rung-co-duoc-cap-giay-chung-nhan-102260313154540815.htm) - 10:03 15/03/2026
-- 🌊 [Các đồng chí lãnh đạo Đảng, Nhà nước hòa cùng &#39;Ngày hội non sông&#39;](https://baochinhphu.vn/cac-dong-chi-lanh-dao-dang-nha-nuoc-hoa-cung-ngay-hoi-toan-dan-10226031509210014.htm) - 09:20 15/03/2026
-- 🤭 [Giáo viên sẽ được quản lý theo vị trí việc làm](https://baochinhphu.vn/giao-vien-se-duoc-quan-ly-theo-vi-tri-viec-lam-10226031315283502.htm) - 09:02 15/03/2026
-- 🥷 [&#39;Ngày hội non sông&#39; ở đặc khu Trường Sa](https://baochinhphu.vn/ngay-hoi-non-song-o-dac-khu-truong-sa-102260315073058691.htm) - 08:13 15/03/2026
-- 🌁 [Hướng dẫn bầu Ban Thanh tra nhân dân tại cơ quan, đơn vị](https://baochinhphu.vn/huong-dan-bau-ban-thanh-tra-nhan-dan-tai-co-quan-don-vi-102260313104120732.htm) - 08:01 15/03/2026
-- 🐵 [Chùm ảnh: Các đồng chí lãnh đạo Đảng, Nhà nước thực hiện quyền cử tri](https://baochinhphu.vn/chum-anh-cac-dong-chi-lanh-dao-dang-nha-nuoc-thuc-hien-quyen-cu-tri-102260315072335257.htm) - 07:23 15/03/2026
-- 💯 [Gần 79 triệu cử tri cả nước đi bầu cử](https://baochinhphu.vn/ngay-mai-15-3-gan-79-trieu-cu-tri-ca-nuoc-di-bau-cu-102260313155100993.htm) - 05:56 15/03/2026
-- 🔥 [Thường trực Chính phủ làm việc với Hà Nội về Quy hoạch tổng thể Thủ đô tầm nhìn 100 năm](https://baochinhphu.vn/thuong-truc-chinh-phu-lam-viec-voi-ha-noi-ve-quy-hoach-tong-the-thu-do-ha-noi-tam-nhin-100-nam-102260314192234676.htm) - 22:43 14/03/2026
-- 👍 [Ngày hội của dân chủ và trách nhiệm công dân](https://baochinhphu.vn/ngay-hoi-cua-dan-chu-va-trach-nhiem-cong-dan-102260314225623324.htm) - 22:31 14/03/2026
-- 🧰 [Giải cứu thành công thuyền viên tàu vận tải bị chìm trên biển](https://baochinhphu.vn/giai-cuu-thanh-cong-thuyen-vien-tau-van-tai-bi-chim-tren-bien-102260314220218458.htm) - 21:45 14/03/2026
-- 🦏 [Trưởng Đại diện UNDP: Bầu cử Quốc hội khóa XVI đánh dấu cột mốc quan trọng trong quá trình phát triển của Việt Nam](https://baochinhphu.vn/truong-dai-dien-undp-bau-cu-quoc-hoi-khoa-xvi-danh-dau-cot-moc-quan-trong-trong-qua-trinh-phat-trien-cua-viet-nam-102260314135738386.htm) - 19:08 14/03/2026
-- 🕯 [Lễ hội Văn hóa Việt Nam 2026 tại Nhật Bản: Tái hiện Giỗ Tổ Hùng Vương tại Osaka](https://baochinhphu.vn/le-hoi-van-hoa-viet-nam-2026-tai-nhat-ban-tai-hien-gio-to-hung-vuong-tai-osaka-102260314193453736.htm) - 18:32 14/03/2026
-- 🤠 [Công bố quyết định kiểm tra, giám sát đối với Ban Thường vụ Thành ủy TPHCM](https://baochinhphu.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-doi-voi-ban-thuong-vu-thanh-uy-tphcm-102260314180201174.htm) - 18:11 14/03/2026
-- 💂 [Mạnh dạn đưa cán bộ trẻ, có triển vọng từ cấp tỉnh về cơ sở](https://baochinhphu.vn/manh-dan-dua-can-bo-tre-co-trien-vong-tu-cap-tinh-ve-co-so-102260314160914327.htm) - 17:25 14/03/2026
-- 🐲 [TPHCM cần tạo mọi điều kiện để Trung tâm Trọng tài Quốc tế sớm vận hành](https://baochinhphu.vn/tphcm-can-tao-moi-dieu-kien-de-trung-tam-trong-tai-quoc-te-som-van-hanh-102260314163310629.htm) - 17:13 14/03/2026
-- 🦩 [Lá phiếu từ trái tim kiều bào: Niềm tự hào và trách nhiệm với Tổ quốc](https://baochinhphu.vn/la-phieu-tu-trai-tim-kieu-bao-niem-tu-hao-va-trach-nhiem-voi-to-quoc-102260314140739555.htm) - 14:47 14/03/2026
-- 💂 [Đắk Lắk, Gia Lai, Lâm Đồng tổ chức bầu cử sớm tại một số địa bàn đặc thù](https://baochinhphu.vn/dak-lak-gia-lai-lam-dong-to-chuc-bau-cu-som-tai-mot-so-dia-ban-dac-thu-102260314142646153.htm) - 14:44 14/03/2026
-- 🌈 [Căn cứ chuyển đất nông nghiệp trong khu dân cư thành đất ở](https://baochinhphu.vn/can-cu-chuyen-dat-nong-nghiep-trong-khu-dan-cu-thanh-dat-o-102260313095248966.htm) - 14:05 14/03/2026
-- 🔥 [Viettel đứng số 1 thế giới về sức mạnh thương hiệu viễn thông](https://baochinhphu.vn/viettel-dung-so-1-the-gioi-ve-suc-manh-thuong-hieu-vien-thong-10226031412521299.htm) - 13:54 14/03/2026
-- 🦄 [Thái Nguyên khai trương Trung tâm Dữ liệu phục vụ điều hành](https://baochinhphu.vn/thai-nguyen-khai-truong-trung-tam-du-lieu-phuc-vu-dieu-hanh-102260314133236116.htm) - 13:53 14/03/2026
-- 🚀 [Cử tri lực lượng vũ trang Cần Thơ bầu cử sớm trước ngày hội toàn dân](https://baochinhphu.vn/cu-tri-luc-luong-vu-trang-can-tho-bau-cu-som-truoc-ngay-hoi-toan-dan-10226031412410479.htm) - 13:51 14/03/2026
-- 🤖 [Thước đo của pháp luật là cuộc sống](https://baochinhphu.vn/thuoc-do-cua-phap-luat-la-cuoc-song-102260314063913248.htm) - 12:15 14/03/2026
-- 🕴 [Góc nhìn của các Đại sứ: Bầu cử Quốc hội mở ra kỳ vọng về giai đoạn phát triển mới của Việt Nam](https://baochinhphu.vn/goc-nhin-cua-cac-dai-su-bau-cu-quoc-hoi-mo-ra-ky-vong-ve-giai-doan-phat-trien-moi-cua-viet-nam-102260314114640562.htm) - 11:51 14/03/2026
-- 🤔 [Các địa phương sẵn sàng cho ngày bầu cử](https://baochinhphu.vn/cac-dia-phuong-san-sang-cho-ngay-bau-cu-102260313104743212.htm) - 11:50 14/03/2026
-- 💫 [Trước thềm bầu cử, cử tri kỳ vọng những quyết sách vì dân](https://baochinhphu.vn/truoc-them-bau-cu-cu-tri-ky-vong-nhung-quyet-sach-vi-dan-102260314114853961.htm) - 11:48 14/03/2026
-- 👺 [Ngày Toán học Quốc tế 2026: Lan tỏa giá trị toán học trong kỷ nguyên số](https://baochinhphu.vn/ngay-toan-hoc-quoc-te-2026-lan-toa-gia-tri-toan-hoc-trong-ky-nguyen-so-102260314110728267.htm) - 11:24 14/03/2026
+- 💻 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 15/3/2026](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-15-3-2026-102260315192315166.htm) - 19:17 15/03/2026
+- 🌜 [Hơn 93% cử tri cả nước đã đi bầu cử, 5 tỉnh đạt tỉ lệ gần tuyệt đối](https://baochinhphu.vn/hon-93-cu-tri-ca-nuoc-da-di-bau-cu-5-tinh-dat-ti-le-gan-tuyet-doi-102260315180642978.htm) - 18:58 15/03/2026
+- 🦆 [Nhiều hãng thông tấn quốc tế đưa tin về cuộc bầu cử tại Việt Nam](https://baochinhphu.vn/nhieu-hang-thong-tan-quoc-te-dua-tin-ve-cuoc-bau-cu-tai-viet-nam-102260315185753997.htm) - 18:42 15/03/2026
+- 🌝 [Tổ chức thẩm định điều chỉnh chủ trương đầu tư Dự án điện hạt nhân Ninh Thuận 1](https://baochinhphu.vn/to-chuc-tham-dinh-dieu-chinh-chu-truong-dau-tu-du-an-dien-hat-nhan-ninh-thuan-1-1022603151158375.htm) - 18:34 15/03/2026
+- 🦣 [Quy định việc quản lý, sử dụng, khai thác tài sản kết cấu hạ tầng thủy lợi](https://baochinhphu.vn/quy-dinh-viec-quan-ly-su-dung-khai-thac-tai-san-ket-cau-ha-tang-thuy-loi-102260315081226016.htm) - 18:26 15/03/2026
+- ⛽️ [Xuyên đêm vượt sóng to, gió lớn, cứu nạn bệnh nhân nguy kịch từ Cù Lao Chàm](https://baochinhphu.vn/xuyen-dem-vuot-song-to-gio-lon-cuu-nan-benh-nhan-nguy-kich-tu-cu-lao-cham-102260315182200102.htm) - 18:00 15/03/2026
+- 🎓 [Chùm ảnh: Nhân dân Thủ đô hân hoan thực hiện quyền, nghĩa vụ trong ngày bầu cử](https://baochinhphu.vn/chum-anh-nhan-dan-thu-do-han-hoan-thuc-hien-quyen-nghia-vu-trong-ngay-bau-cu-102260315141305894.htm) - 16:24 15/03/2026
+- 💡 [Phê duyệt Đề án chuyển đổi số trong hoạt động tố tụng hình sự và thi hành án hình sự](https://baochinhphu.vn/phe-duyet-de-an-chuyen-doi-so-trong-hoat-dong-to-tung-hinh-su-va-thi-hanh-an-hinh-su-102260313165333362.htm) - 16:13 15/03/2026
+- 🌊 [Hơn 61,7 triệu cử tri đã bỏ phiếu, nhiều địa phương đạt trên 90%](https://baochinhphu.vn/hon-617-trieu-cu-tri-da-bo-phieu-nhieu-dia-phuong-dat-tren-90-102260315150448913.htm) - 15:48 15/03/2026
+- 💯 [Bầu cử để lựa chọn người xứng đáng đưa đất nước bước vào kỷ nguyên mới](https://baochinhphu.vn/bau-cu-de-lua-chon-nguoi-xung-dang-dua-dat-nuoc-buoc-vao-ky-nguyen-moi-10226031512293542.htm) - 12:51 15/03/2026
+- 🦣 [Hơn 70% cử tri cả nước đã đi bỏ phiếu](https://baochinhphu.vn/hon-70-cu-tri-ca-nuoc-da-di-bo-phieu-102260315115919248.htm) - 12:17 15/03/2026
+- 🥷 [Tổng Bí thư Tô Lâm bỏ phiếu bầu cử đại biểu Quốc hội, HĐND các cấp tại phường Ba Đình, Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-bo-phieu-bau-cu-dai-bieu-quoc-hoi-hdnd-cac-cap-tai-phuong-ba-dinh-ha-noi-102260315084331347.htm) - 12:08 15/03/2026
+- 💻 [Thủ tướng Phạm Minh Chính cùng cử tri bỏ phiếu bầu cử tại phường Tây Hồ, Hà Nội](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-cung-cu-tri-bo-phieu-bau-cu-tai-phuong-tay-ho-ha-noi-102260315075119003.htm) - 12:08 15/03/2026
+- 🤭 [Chùm ảnh: Rộn ràng không khí ngày bầu cử tại các xã biên giới, hải đảo, vùng sâu, vùng xa](https://baochinhphu.vn/chum-anh-ron-rang-khong-khi-ngay-bau-cu-tai-cac-xa-bien-gioi-hai-dao-vung-sau-vung-xa-102260315095318431.htm) - 11:24 15/03/2026
+- 🦆 [Kịp thời khen thưởng mô hình hay, cách làm hiệu quả trong công tác bầu cử](https://baochinhphu.vn/kip-thoi-khen-thuong-mo-hinh-hay-cach-lam-hieu-qua-trong-cong-tac-bau-cu-102260315110017385.htm) - 11:19 15/03/2026
+- 🤖 [Chi phí lập báo cáo kinh tế - kỹ thuật dự án cải tạo dưới 20 tỷ](https://baochinhphu.vn/chi-phi-lap-bao-cao-kinh-te-ky-thuat-du-an-cai-tao-duoi-20-ty-102260315001507421.htm) - 11:04 15/03/2026
+- 🌁 [Công tác bầu cử được chuẩn bị chu đáo, đúng pháp luật và thống nhất trong cả nước](https://baochinhphu.vn/cong-tac-bau-cu-duoc-chuan-bi-chu-dao-dung-phap-luat-va-thong-nhat-trong-ca-nuoc-102260315094106716.htm) - 10:34 15/03/2026
+- 💼 [Nhiều điểm bỏ phiếu ghi nhận số lượng cử tri đi bỏ phiếu đông từ giờ đầu tiên](https://baochinhphu.vn/nhieu-diem-bo-phieu-ghi-nhan-so-luong-cu-tri-di-bo-phieu-dong-tu-gio-dau-tien-102260315095200134.htm) - 10:32 15/03/2026
+- 🧠 [Chùm ảnh: Cử tri cả nước nô nức tham gia &quot;Ngày hội non sông&quot;](https://baochinhphu.vn/chum-anh-cu-tri-ca-nuoc-no-nuc-tham-gia-ngay-hoi-non-song-102260315090321241.htm) - 10:24 15/03/2026
+- 🌊 [Đất khai hoang nằm trong quy hoạch rừng có được cấp Giấy chứng nhận?](https://baochinhphu.vn/dat-khai-hoang-nam-trong-quy-hoach-rung-co-duoc-cap-giay-chung-nhan-102260313154540815.htm) - 10:03 15/03/2026
+- 🤭 [Các đồng chí lãnh đạo Đảng, Nhà nước hòa cùng &#39;Ngày hội non sông&#39;](https://baochinhphu.vn/cac-dong-chi-lanh-dao-dang-nha-nuoc-hoa-cung-ngay-hoi-toan-dan-10226031509210014.htm) - 09:20 15/03/2026
+- 🥷 [Giáo viên sẽ được quản lý theo vị trí việc làm](https://baochinhphu.vn/giao-vien-se-duoc-quan-ly-theo-vi-tri-viec-lam-10226031315283502.htm) - 09:02 15/03/2026
+- 🌁 [&#39;Ngày hội non sông&#39; ở đặc khu Trường Sa](https://baochinhphu.vn/ngay-hoi-non-song-o-dac-khu-truong-sa-102260315073058691.htm) - 08:13 15/03/2026
+- 🐵 [Hướng dẫn bầu Ban Thanh tra nhân dân tại cơ quan, đơn vị](https://baochinhphu.vn/huong-dan-bau-ban-thanh-tra-nhan-dan-tai-co-quan-don-vi-102260313104120732.htm) - 08:01 15/03/2026
+- 💯 [Chùm ảnh: Các đồng chí lãnh đạo Đảng, Nhà nước thực hiện quyền cử tri](https://baochinhphu.vn/chum-anh-cac-dong-chi-lanh-dao-dang-nha-nuoc-thuc-hien-quyen-cu-tri-102260315072335257.htm) - 07:23 15/03/2026
+- 🔥 [Gần 79 triệu cử tri cả nước đi bầu cử](https://baochinhphu.vn/ngay-mai-15-3-gan-79-trieu-cu-tri-ca-nuoc-di-bau-cu-102260313155100993.htm) - 05:56 15/03/2026
+- 👍 [Thường trực Chính phủ làm việc với Hà Nội về Quy hoạch tổng thể Thủ đô tầm nhìn 100 năm](https://baochinhphu.vn/thuong-truc-chinh-phu-lam-viec-voi-ha-noi-ve-quy-hoach-tong-the-thu-do-ha-noi-tam-nhin-100-nam-102260314192234676.htm) - 22:43 14/03/2026
+- 🧰 [Ngày hội của dân chủ và trách nhiệm công dân](https://baochinhphu.vn/ngay-hoi-cua-dan-chu-va-trach-nhiem-cong-dan-102260314225623324.htm) - 22:31 14/03/2026
+- 🦏 [Giải cứu thành công thuyền viên tàu vận tải bị chìm trên biển](https://baochinhphu.vn/giai-cuu-thanh-cong-thuyen-vien-tau-van-tai-bi-chim-tren-bien-102260314220218458.htm) - 21:45 14/03/2026
+- 🕯 [Trưởng Đại diện UNDP: Bầu cử Quốc hội khóa XVI đánh dấu cột mốc quan trọng trong quá trình phát triển của Việt Nam](https://baochinhphu.vn/truong-dai-dien-undp-bau-cu-quoc-hoi-khoa-xvi-danh-dau-cot-moc-quan-trong-trong-qua-trinh-phat-trien-cua-viet-nam-102260314135738386.htm) - 19:08 14/03/2026
+- 🤠 [Lễ hội Văn hóa Việt Nam 2026 tại Nhật Bản: Tái hiện Giỗ Tổ Hùng Vương tại Osaka](https://baochinhphu.vn/le-hoi-van-hoa-viet-nam-2026-tai-nhat-ban-tai-hien-gio-to-hung-vuong-tai-osaka-102260314193453736.htm) - 18:32 14/03/2026
+- 💂 [Công bố quyết định kiểm tra, giám sát đối với Ban Thường vụ Thành ủy TPHCM](https://baochinhphu.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-doi-voi-ban-thuong-vu-thanh-uy-tphcm-102260314180201174.htm) - 18:11 14/03/2026
+- 🐲 [Mạnh dạn đưa cán bộ trẻ, có triển vọng từ cấp tỉnh về cơ sở](https://baochinhphu.vn/manh-dan-dua-can-bo-tre-co-trien-vong-tu-cap-tinh-ve-co-so-102260314160914327.htm) - 17:25 14/03/2026
+- 🦩 [TPHCM cần tạo mọi điều kiện để Trung tâm Trọng tài Quốc tế sớm vận hành](https://baochinhphu.vn/tphcm-can-tao-moi-dieu-kien-de-trung-tam-trong-tai-quoc-te-som-van-hanh-102260314163310629.htm) - 17:13 14/03/2026
+- 💂 [Lá phiếu từ trái tim kiều bào: Niềm tự hào và trách nhiệm với Tổ quốc](https://baochinhphu.vn/la-phieu-tu-trai-tim-kieu-bao-niem-tu-hao-va-trach-nhiem-voi-to-quoc-102260314140739555.htm) - 14:47 14/03/2026
+- 🌈 [Đắk Lắk, Gia Lai, Lâm Đồng tổ chức bầu cử sớm tại một số địa bàn đặc thù](https://baochinhphu.vn/dak-lak-gia-lai-lam-dong-to-chuc-bau-cu-som-tai-mot-so-dia-ban-dac-thu-102260314142646153.htm) - 14:44 14/03/2026
+- 🔥 [Căn cứ chuyển đất nông nghiệp trong khu dân cư thành đất ở](https://baochinhphu.vn/can-cu-chuyen-dat-nong-nghiep-trong-khu-dan-cu-thanh-dat-o-102260313095248966.htm) - 14:05 14/03/2026
+- 🦄 [Viettel đứng số 1 thế giới về sức mạnh thương hiệu viễn thông](https://baochinhphu.vn/viettel-dung-so-1-the-gioi-ve-suc-manh-thuong-hieu-vien-thong-10226031412521299.htm) - 13:54 14/03/2026
+- 🚀 [Thái Nguyên khai trương Trung tâm Dữ liệu phục vụ điều hành](https://baochinhphu.vn/thai-nguyen-khai-truong-trung-tam-du-lieu-phuc-vu-dieu-hanh-102260314133236116.htm) - 13:53 14/03/2026
+- 🤖 [Cử tri lực lượng vũ trang Cần Thơ bầu cử sớm trước ngày hội toàn dân](https://baochinhphu.vn/cu-tri-luc-luong-vu-trang-can-tho-bau-cu-som-truoc-ngay-hoi-toan-dan-10226031412410479.htm) - 13:51 14/03/2026
+- 🕴 [Thước đo của pháp luật là cuộc sống](https://baochinhphu.vn/thuoc-do-cua-phap-luat-la-cuoc-song-102260314063913248.htm) - 12:15 14/03/2026
+- 🤔 [Góc nhìn của các Đại sứ: Bầu cử Quốc hội mở ra kỳ vọng về giai đoạn phát triển mới của Việt Nam](https://baochinhphu.vn/goc-nhin-cua-cac-dai-su-bau-cu-quoc-hoi-mo-ra-ky-vong-ve-giai-doan-phat-trien-moi-cua-viet-nam-102260314114640562.htm) - 11:51 14/03/2026
+- 💫 [Các địa phương sẵn sàng cho ngày bầu cử](https://baochinhphu.vn/cac-dia-phuong-san-sang-cho-ngay-bau-cu-102260313104743212.htm) - 11:50 14/03/2026
+- 👺 [Trước thềm bầu cử, cử tri kỳ vọng những quyết sách vì dân](https://baochinhphu.vn/truoc-them-bau-cu-cu-tri-ky-vong-nhung-quyet-sach-vi-dan-102260314114853961.htm) - 11:48 14/03/2026
+- 🦍 [Ngày Toán học Quốc tế 2026: Lan tỏa giá trị toán học trong kỷ nguyên số](https://baochinhphu.vn/ngay-toan-hoc-quoc-te-2026-lan-toa-gia-tri-toan-hoc-trong-ky-nguyen-so-102260314110728267.htm) - 11:24 14/03/2026
 - 🦍 [Nghị quyết 80-NQ/TW: Mở ra cơ hội nâng cao chất lượng nguồn nhân lực văn hóa, nghệ thuật](https://baochinhphu.vn/nghi-quyet-80-nq-tw-mo-ra-co-hoi-nang-cao-chat-luong-nguon-nhan-luc-van-hoa-nghe-thuat-102260313132149041.htm) - 11:24 14/03/2026
-- 🦍 [Hiện vật bầu cử - Những kỷ vật kết tinh giá trị lịch sử dân tộc](https://baochinhphu.vn/hien-vat-bau-cu-nhung-ky-vat-ket-tinh-gia-tri-lich-su-dan-toc-102260314114652017.htm) - 11:18 14/03/2026
-- 🧐 [Cử tri đặc khu Bạch Long Vĩ &lpar;Hải Phòng&rpar; bầu cử sớm](https://baochinhphu.vn/cu-tri-dac-khu-bach-long-vi-hai-phong-bau-cu-som-102260314103940765.htm) - 11:18 14/03/2026
-- 🕴 [Chứng chỉ giám sát có được ký hồ sơ cấp thoát nước?](https://baochinhphu.vn/chung-chi-giam-sat-co-duoc-ky-ho-so-cap-thoat-nuoc-102260314135326097.htm) - 11:04 14/03/2026
-- 🌈 [Những câu chuyện nhân ái giữa nhịp sống thành phố mang tên Bác](https://baochinhphu.vn/nhung-cau-chuyen-nhan-ai-giua-nhip-song-thanh-pho-mang-ten-bac-102260314115532654.htm) - 11:00 14/03/2026
-- 🔥 [Hoàn thiện cấu trúc hệ thống pháp luật, đáp ứng yêu cầu phát triển nhanh, bền vững của đất nước](https://baochinhphu.vn/hoan-thien-cau-truc-he-thong-phap-luat-dap-ung-yeu-phat-trien-nhanh-ben-vung-cua-dat-nuoc-102260314100929246.htm) - 10:38 14/03/2026<!-- baochinhphu:END -->
+- 🧐 [Hiện vật bầu cử - Những kỷ vật kết tinh giá trị lịch sử dân tộc](https://baochinhphu.vn/hien-vat-bau-cu-nhung-ky-vat-ket-tinh-gia-tri-lich-su-dan-toc-102260314114652017.htm) - 11:18 14/03/2026
+- 🕴 [Cử tri đặc khu Bạch Long Vĩ &lpar;Hải Phòng&rpar; bầu cử sớm](https://baochinhphu.vn/cu-tri-dac-khu-bach-long-vi-hai-phong-bau-cu-som-102260314103940765.htm) - 11:18 14/03/2026
+- 🌈 [Chứng chỉ giám sát có được ký hồ sơ cấp thoát nước?](https://baochinhphu.vn/chung-chi-giam-sat-co-duoc-ky-ho-so-cap-thoat-nuoc-102260314135326097.htm) - 11:04 14/03/2026
+- 🔥 [Những câu chuyện nhân ái giữa nhịp sống thành phố mang tên Bác](https://baochinhphu.vn/nhung-cau-chuyen-nhan-ai-giua-nhip-song-thanh-pho-mang-ten-bac-102260314115532654.htm) - 11:00 14/03/2026<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
