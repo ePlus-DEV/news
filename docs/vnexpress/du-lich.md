@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [7 quốc gia có hệ thống giao thông công cộng tốt nhất thế giới](https://vnexpress.net/7-quoc-gia-co-he-thong-giao-thong-cong-cong-tot-nhat-the-gioi-5050450.html) - 11:00 16/03/2026
 - 🕴 [Từ lễ hội xuân đến tầm nhìn &#39;điểm đến quốc tế&#39; của Cần Giờ](https://vnexpress.net/tu-le-hoi-xuan-den-tam-nhin-diem-den-quoc-te-cua-can-gio-5050944.html) - 08:00 16/03/2026
 - 👀 [Bé gái Hàn Quốc bị xô đẩy trong hàng tiện lợi Nhật Bản](https://vnexpress.net/be-gai-han-quoc-bi-xo-day-trong-hang-tien-loi-nhat-ban-5050998.html) - 07:23 16/03/2026
-- 🎭 [Nam nhân viên đặt camera giữa đường ray ở phố đường tàu](https://vnexpress.net/nam-nhan-vien-dat-camera-giua-duong-ray-o-pho-duong-tau-5050963.html) - 06:30 16/03/2026
+- 🎭 [Phạt người đặt camera giữa đường ray ở phố đường tàu](https://vnexpress.net/phat-nguoi-dat-camera-giua-duong-ray-o-pho-duong-tau-5050963.html) - 06:30 16/03/2026
 - 🦒 [Hai du khách bị sụt nửa người xuống hố cát trên bãi biển](https://vnexpress.net/hai-du-khach-bi-sut-nua-nguoi-xuong-ho-cat-tren-bai-bien-5050954.html) - 05:58 16/03/2026
 - 👨‍🏫 [Hộ chiếu Việt Nam tăng 7 bậc so năm trước](https://vnexpress.net/ho-chieu-viet-nam-tang-7-bac-so-nam-truoc-5050871.html) - 03:59 16/03/2026
 - ⚗️ [&#39;Bảo tàng sống&#39; ở Fukushima nơi xảy ra động đất sóng thần 15 năm trước](https://vnexpress.net/bao-tang-song-o-fukushima-noi-xay-ra-dong-dat-song-than-15-nam-truoc-5049472.html) - 02:00 16/03/2026
