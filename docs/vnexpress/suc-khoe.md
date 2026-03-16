@@ -10,7 +10,7 @@ sidebar_position: 10
 - 🤗 [6 dấu hiệu cholesterol cao xuất hiện ở chân vào ban đêm](https://vnexpress.net/6-dau-hieu-cholesterol-cao-xuat-hien-o-chan-vao-ban-dem-5050978.html) - 11:00 16/03/2026
 - 🪜 [Mẹo tăng năng lượng trong 10 phút](https://vnexpress.net/meo-tang-nang-luong-trong-10-phut-5050942.html) - 11:00 16/03/2026
 - 🕯 [Bí quyết giảm 11 kg không cần tập luyện của người phụ nữ Nhật Bản](https://vnexpress.net/bi-quyet-giam-11-kg-khong-can-tap-luyen-cua-nguoi-phu-nu-nhat-ban-5050997.html) - 10:05 16/03/2026
-- 🤭 [Bác sĩ quỳ giữa đường ép tim cứu người tai nạn giao thông](https://vnexpress.net/bac-si-quy-giua-duong-ep-tim-cuu-nguoi-tai-nan-giao-thong-5051066.html) - 10:00 16/03/2026
+- 🤭 [Bác sĩ ép tim cứu người bị tai nạn giao thông](https://vnexpress.net/bac-si-quy-giua-duong-ep-tim-cuu-nguoi-tai-nan-giao-thong-5051066.html) - 10:00 16/03/2026
 - 👀 [Cắt xương thừa ở gót chân](https://vnexpress.net/cat-xuong-thua-o-got-chan-5051047.html) - 09:00 16/03/2026
 - 🌋 [Chữa áp xe hậu môn như thế nào?](https://vnexpress.net/chua-ap-xe-hau-mon-nhu-the-nao-5050967.html) - 09:00 16/03/2026
 - 🫶 [Gánh nặng kép khi chăm người thân chạy thận](https://vnexpress.net/ganh-nang-kep-khi-cham-nguoi-than-chay-than-5051080.html) - 08:30 16/03/2026
