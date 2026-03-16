@@ -243,66 +243,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Chọn VinFast Evo Grand, tài xế chạy hơn 200 km/ngày không lo hết điện](https://nld.com.vn/chon-vinfast-evo-grand-tai-xe-chay-hon-200-km-ngay-khong-lo-het-dien-196260316095017876.htm) - 03:16 16/03/2026
-- 😺 [Thắng Medvedev, Sinner sở hữu đủ 6 danh hiệu ATP 1000 mặt sân cứng, sánh vai Djokovic, Federer](https://nld.com.vn/thang-medvedev-sinner-so-huu-du-6-danh-hieu-atp-1000-mat-san-cung-sanh-vai-djokovic-federer-196260316085956197.htm) - 03:12 16/03/2026
-- 👍 [Cháy nhà 6 tầng ở trung tâm TPHCM, cứu được 5 người](https://nld.com.vn/chay-nha-6-tang-o-trung-tam-tphcm-cuu-duoc-5-nguoi-196260316094714589.htm) - 02:58 16/03/2026
-- 🥷 [Chuyển nơi đăng ký khám, chữa bệnh ban đầu BHYT mới nhất năm 2026](https://nld.com.vn/chuyen-noi-dang-ky-kham-chua-benh-ban-dau-bhyt-moi-nhat-nam-2026-196260316091856106.htm) - 02:53 16/03/2026
-- 🤔 [Tổng thống Donald Trump cảnh báo &quot;sốc&quot; NATO](https://nld.com.vn/tong-thong-donald-trump-canh-bao-soc-nato-196260316091337159.htm) - 02:40 16/03/2026
-- 🌈 [Sáng 16-3, vàng thế giới thủng mốc 5.000 USD/ounce, giá vàng miếng SJC vẫn neo cao](https://nld.com.vn/sang-16-3-vang-the-gioi-thung-moc-5000-usd-ounce-gia-vang-mieng-sjc-van-neo-cao-196260316091355335.htm) - 02:33 16/03/2026
-- 🔥 [Điều khiển xe trên đường an toàn trước camera AI](https://nld.com.vn/dieu-khien-xe-tren-duong-an-toan-truoc-camera-ai-196260316070222187.htm) - 02:32 16/03/2026
-- 🧰 [Thủ đoạn tinh vi của cặp vợ chồng 9X dưới vỏ bọc kinh doanh quần áo](https://nld.com.vn/thu-doan-tinh-vi-cua-cap-vo-chong-9x-duoi-vo-boc-kinh-doanh-quan-ao-19626031608163543.htm) - 02:27 16/03/2026
-- 🤗 [Nhượng quyền cà phê &quot;0 đồng&quot; của Napoly](https://nld.com.vn/nhuong-quyen-ca-phe-0-dong-cua-napoly-196260316071034974.htm) - 02:25 16/03/2026
-- 🦅 [Laporta tái đắc cử chủ tịch nhiệm kỳ thứ tư, Barcelona tham vọng trở lại đỉnh châu Âu](https://nld.com.vn/laporta-tai-dac-cu-chu-tich-nhiem-ky-thu-tu-barcelona-tham-vong-tro-lai-dinh-chau-au-196260316085433005.htm) - 01:57 16/03/2026
-- 🤩 [Cả nước có gần 76,2 triệu cử tri đi bầu cử, đạt tỉ lệ 99,68%](https://nld.com.vn/ca-nuoc-co-gan-762-trieu-cu-tri-di-bau-cu-dat-ti-le-9968-19626031608393988.htm) - 01:54 16/03/2026
-- 🎭 [Check-in vườn hoa cẩm tú cầu nở rộ ở Công viên số 1 Lý Thái Tổ](https://nld.com.vn/check-in-vuon-hoa-cam-tu-cau-no-ro-o-cong-vien-so-1-ly-thai-to-1962603160653418.htm) - 01:48 16/03/2026
-- 💄 [Iran lần đầu tiên phóng “tên lửa khiêu vũ” tấn công Mỹ - Israel](https://nld.com.vn/iran-lan-dau-tien-phong-ten-lua-khieu-vu-tan-cong-my-israel-196260316072040659.htm) - 01:38 16/03/2026
-- 🎊 [Giữ vững vị thế gạo Việt](https://nld.com.vn/giu-vung-vi-the-gao-viet-196260315213251507.htm) - 01:32 16/03/2026
-- 🎡 [Dàn vũ khí &quot;khủng&quot; làm rung chuyển Trung Đông: &quot;Phòng thí nghiệm&quot; của Mỹ đối đầu Iran](https://nld.com.vn/dan-vu-khi-khung-lam-rung-chuyen-trung-dong-phong-thi-nghiem-cua-my-doi-dau-iran-196260315194723853.htm) - 01:31 16/03/2026
-- 🎉 [Tăng cường thu mua, tạm trữ lúa gạo](https://nld.com.vn/tang-cuong-thu-mua-tam-tru-lua-gao-196260315213120204.htm) - 01:23 16/03/2026
-- 😺 [Điện ảnh Việt Nam: Nhiều dư địa bứt phá](https://nld.com.vn/dien-anh-viet-nam-nhieu-du-dia-but-pha-196260315201059574.htm) - 01:18 16/03/2026
-- 🐻 [Khi mỹ nhân gặp kẻ thù](https://nld.com.vn/khi-my-nhan-gap-ke-thu-196260316073023093.htm) - 01:01 16/03/2026
-- 🤡 [Hàng loạt công trình rút ngắn thời gian về đích](https://nld.com.vn/hang-loat-cong-trinh-rut-ngan-thoi-gian-ve-dich-196260315213716737.htm) - 00:59 16/03/2026
-- 🚦 [Cô gái khiếm thị chinh phục 7 đại học danh tiếng](https://nld.com.vn/co-gai-khiem-thi-chinh-phuc-7-dai-hoc-danh-tieng-196260315202125172.htm) - 00:59 16/03/2026
-- 🪜 [Tạo bệ phóng hạ tầng vững chắc](https://nld.com.vn/tao-be-phong-ha-tang-vung-chac-196260315194106133.htm) - 00:59 16/03/2026
-- 💫 [Sáng 16-3, bất ngờ nơi trúng 2 giải độc đắc và an ủi của xổ số miền Nam](https://nld.com.vn/sang-16-3-bat-ngo-noi-trung-2-giai-doc-dac-va-an-ui-cua-xo-so-mien-nam-19626031607520581.htm) - 00:58 16/03/2026
-- 🔭 [Siêu cúp Finalissima bị hủy bỏ, Tây Ban Nha không tranh ngôi số 1 thế giới với Argentina](https://nld.com.vn/sieu-cup-finalissima-bi-huy-bo-tay-ban-nha-khong-tranh-ngoi-so-1-the-gioi-voi-argentina-1962603160726203.htm) - 00:58 16/03/2026
-- 🌝 [Giá vàng hôm nay 16-3: Thủng mốc 5.000 USD/ounce ngay khi bắt đầu tuần mới](https://nld.com.vn/gia-vang-hom-nay-16-3-thung-moc-5000-usd-ounce-ngay-khi-bat-dau-tuan-moi-1962603160738531.htm) - 00:54 16/03/2026
-- 💪 [Ghi hình hàng chục ô tô không xi-nhan khi chạy trên cao tốc TPHCM - Dầu Giây](https://nld.com.vn/ghi-hinh-hang-chuc-o-to-khong-xi-nhan-khi-chay-tren-cao-toc-tphcm-dau-giay-196260316063831113.htm) - 00:54 16/03/2026
-- 🦍 [99% cử tri TPHCM đi bỏ phiếu bầu cử](https://nld.com.vn/99-cu-tri-tphcm-di-bo-phieu-bau-cu-19626031607370283.htm) - 00:53 16/03/2026
-- 🥷 [Đẩy nhanh tiến độ nhiều dự án trọng điểm](https://nld.com.vn/day-nhanh-tien-do-nhieu-du-an-trong-diem-196260315205936019.htm) - 00:43 16/03/2026
-- 🫶 [Bài toán khó với các ngân hàng trung ương](https://nld.com.vn/bai-toan-kho-voi-cac-ngan-hang-trung-uong-196260315203525704.htm) - 00:35 16/03/2026
-- 🐻 [Thủ tướng Israel đăng video bác tin đồn “đã chết”](https://nld.com.vn/thu-tuong-israel-dang-video-bac-tin-don-da-chet-196260316070828136.htm) - 00:33 16/03/2026
-- 🐲 [Giữ sạch đường phố từ kinh nghiệm quốc tế](https://nld.com.vn/giu-sach-duong-pho-tu-kinh-nghiem-quoc-te-19626031519414265.htm) - 00:28 16/03/2026
-- 🧑‍💻 [Lựa chọn những người tài đức](https://nld.com.vn/lua-chon-nhung-nguoi-tai-duc-196260315224412426.htm) - 00:20 16/03/2026
-- 🎬 [Giữ chân người lao động từ bữa ăn giữa ca](https://nld.com.vn/giu-chan-nguoi-lao-dong-tu-bua-an-giua-ca-19626031521105131.htm) - 00:00 16/03/2026
-- 👀 [Cà Mau khai thác lợi thế nuôi trồng thủy sản](https://nld.com.vn/ca-mau-khai-thac-loi-the-nuoi-trong-thuy-san-196260315210144621.htm) - 00:00 16/03/2026
-- 👍 [Bảo vệ ý nghĩa tốt đẹp của cuộc bầu cử](https://nld.com.vn/bao-ve-y-nghia-tot-dep-cua-cuoc-bau-cu-196260315210613767.htm) - 23:59 15/03/2026
-- 🦅 [Kẻ bịt mặt xông vào phòng tập thể dục cướp dây chuyền bị bắt](https://nld.com.vn/ke-bit-mat-xong-vao-phong-tap-the-duc-cuop-day-chuyen-bi-bat-196260316063957567.htm) - 23:57 15/03/2026
-- 🦏 [Đất nước rộn ràng trong ngày hội lớn](https://nld.com.vn/dat-nuoc-ron-rang-trong-ngay-hoi-lon-196260315224747442.htm) - 23:50 15/03/2026
-- 🗽 [Ly cà phê của má](https://nld.com.vn/ly-ca-phe-cua-ma-196260314163429387.htm) - 23:50 15/03/2026
-- 🔭 [Giá cà phê hôm nay 16-3: Có bật tăng trở lại?](https://nld.com.vn/gia-ca-phe-hom-nay-16-3-co-bat-tang-tro-lai-196260316061215882.htm) - 23:45 15/03/2026
+- 🐎 [AFC có động thái mới với FAM, vẫn “ nhùng nhằng” ra phán quyết](https://nld.com.vn/afc-co-dong-thai-moi-voi-fam-van-nhung-nhang-ra-phan-quyet-196260316121333937.htm) - 05:37 16/03/2026
+- 😺 [Làm giàu từ nông nghiệp sạch](https://nld.com.vn/lam-giau-tu-nong-nghiep-sach-196260316112920582.htm) - 05:04 16/03/2026
+- 👍 [Bất chấp chiến sự Trung Đông, một cổ phiếu tăng trần 18 phiên liên tục](https://nld.com.vn/bat-chap-chien-su-trung-dong-mot-co-phieu-tang-tran-18-phien-lien-tuc-19626031610550169.htm) - 05:04 16/03/2026
+- 🥷 [Nhiều đồng minh nói không với lời kêu gọi của ông Donald Trump](https://nld.com.vn/nhieu-dong-minh-noi-khong-voi-loi-keu-goi-cua-ong-donald-trump-196260316101647912.htm) - 04:57 16/03/2026
+- 🤔 [Chồng nổ súng rồi đâm vợ tử vong tại chỗ](https://nld.com.vn/podcast/chong-no-sung-roi-dam-vo-tu-vong-tai-cho-19626031610582749.htm) - 04:44 16/03/2026
+- 🌈 [PhuThoToplist - Nền tảng nội dung chọn lọc cho du khách và người dân Phú Thọ](https://phunu.nld.com.vn/phuthotoplist-nen-tang-noi-dung-chon-loc-cho-du-khach-va-nguoi-dan-phu-tho-196260313152914638.htm) - 04:24 16/03/2026
+- 🔥 [Một giám đốc khai thác cát thu lợi hơn 12 tỉ đồng bị tuyên phạt 6 năm tù](https://nld.com.vn/mot-giam-doc-khai-thac-cat-thu-loi-hon-12-ti-dong-bi-tuyen-phat-6-nam-tu-19626031610215047.htm) - 04:07 16/03/2026
+- 🧰 [HoREA gửi kiến nghị khẩn đến UBND TPHCM](https://nld.com.vn/horea-gui-kien-nghi-khan-den-ubnd-tphcm-196260315223221626.htm) - 04:07 16/03/2026
+- 🤗 [Những hình ảnh Tổng Bí thư Tô Lâm làm việc với Ban Chấp hành Đảng bộ TP Hải Phòng](https://nld.com.vn/nhung-hinh-anh-tong-bi-thu-to-lam-lam-viec-voi-ban-chap-hanh-dang-bo-tp-hai-phong-196260316110405295.htm) - 04:06 16/03/2026
+- 🦅 [Người phụ nữ bán đồ ăn vặt, thu gần 230 tỉ đồng chỉ trong 1 năm](https://nld.com.vn/nguoi-phu-nu-ban-do-an-vat-thu-gan-230-ti-dong-chi-trong-1-nam-196260316100527556.htm) - 04:02 16/03/2026
+- 🤩 [Ăn món vếch bò um cà đắng, 3 người bị bỏng hết khoang miệng](https://nld.com.vn/an-mon-vech-bo-um-ca-dang-3-nguoi-bi-bong-het-khoang-mieng-196260316104132706.htm) - 03:57 16/03/2026
+- 🎭 [Dễ tiểu đường, gan nhiễm mỡ vì điều bất ngờ này](https://nld.com.vn/de-tieu-duong-gan-nhiem-mo-vi-dieu-bat-ngo-nay-196260316103657789.htm) - 03:53 16/03/2026
+- 💄 [Nhà dân cheo leo bên mép vực: Sáng mai 17-3, Đồng Nai công khai một số hạn chế](https://nld.com.vn/nha-dan-cheo-leo-ben-mep-vuc-sang-mai-17-3-dong-nai-cong-khai-mot-so-han-che-196260316102248849.htm) - 03:37 16/03/2026
+- 🎊 [&quot;Cào số trúng tiền&quot; nhưng bay luôn 100 triệu đồng](https://nld.com.vn/cao-so-trung-tien-nhung-bay-luon-100-trieu-dong-19626031610184306.htm) - 03:37 16/03/2026
+- 🎡 [25 năm tìm chân tướng “quái thú Liêu Ninh”](https://nld.com.vn/25-nam-tim-chan-tuong-quai-thu-lieu-ninh-196260316100335105.htm) - 03:30 16/03/2026
+- 🎉 [Hai nam thanh niên lên kịch bản cướp 3.000 USD của nữ nhân viên ngân hàng](https://nld.com.vn/hai-nam-thanh-nien-len-kich-ban-cuop-3000-usd-cua-nu-nhan-vien-ngan-hang-196260316095328146.htm) - 03:25 16/03/2026
+- 😺 [Vụ giật dây chuyền ở Liên Hoa Bảo Tháp: Bạn đọc đề xuất phải xử lý thật nặng!](https://nld.com.vn/vu-giat-day-chuyen-o-lien-hoa-bao-thap-ban-doc-de-xuat-phai-xu-ly-that-nang-196260316091916715.htm) - 03:22 16/03/2026
+- 🐻 [Bị người dân phản ánh trên VNeTraffic, lái xe 7 chỗ ở Tây Ninh hết đường chối](https://nld.com.vn/bi-nguoi-dan-phan-anh-tren-vnetraffic-lai-xe-7-cho-o-tay-ninh-het-duong-choi-196260316100557172.htm) - 03:17 16/03/2026
+- 🤡 [Chọn VinFast Evo Grand, tài xế chạy hơn 200 km/ngày không lo hết điện](https://nld.com.vn/chon-vinfast-evo-grand-tai-xe-chay-hon-200-km-ngay-khong-lo-het-dien-196260316095017876.htm) - 03:16 16/03/2026
+- 🚦 [Thắng Medvedev, Sinner sở hữu đủ 6 danh hiệu ATP 1000 mặt sân cứng, sánh vai Djokovic, Federer](https://nld.com.vn/thang-medvedev-sinner-so-huu-du-6-danh-hieu-atp-1000-mat-san-cung-sanh-vai-djokovic-federer-196260316085956197.htm) - 03:12 16/03/2026
+- 🪜 [Cháy nhà 6 tầng ở trung tâm TPHCM, cứu được 5 người](https://nld.com.vn/chay-nha-6-tang-o-trung-tam-tphcm-cuu-duoc-5-nguoi-196260316094714589.htm) - 02:58 16/03/2026
+- 💫 [Chuyển nơi đăng ký khám, chữa bệnh ban đầu BHYT mới nhất năm 2026](https://nld.com.vn/chuyen-noi-dang-ky-kham-chua-benh-ban-dau-bhyt-moi-nhat-nam-2026-196260316091856106.htm) - 02:53 16/03/2026
+- 🔭 [Tổng thống Donald Trump cảnh báo &quot;sốc&quot; NATO](https://nld.com.vn/tong-thong-donald-trump-canh-bao-soc-nato-196260316091337159.htm) - 02:40 16/03/2026
+- 🌝 [Sáng 16-3, vàng thế giới thủng mốc 5.000 USD/ounce, giá vàng miếng SJC vẫn neo cao](https://nld.com.vn/sang-16-3-vang-the-gioi-thung-moc-5000-usd-ounce-gia-vang-mieng-sjc-van-neo-cao-196260316091355335.htm) - 02:33 16/03/2026
+- 💪 [Điều khiển xe trên đường an toàn trước camera AI](https://nld.com.vn/dieu-khien-xe-tren-duong-an-toan-truoc-camera-ai-196260316070222187.htm) - 02:32 16/03/2026
+- 🦍 [Thủ đoạn tinh vi của cặp vợ chồng 9X dưới vỏ bọc kinh doanh quần áo](https://nld.com.vn/thu-doan-tinh-vi-cua-cap-vo-chong-9x-duoi-vo-boc-kinh-doanh-quan-ao-19626031608163543.htm) - 02:27 16/03/2026
+- 🥷 [Nhượng quyền cà phê &quot;0 đồng&quot; của Napoly](https://nld.com.vn/nhuong-quyen-ca-phe-0-dong-cua-napoly-196260316071034974.htm) - 02:25 16/03/2026
+- 🫶 [Laporta tái đắc cử chủ tịch nhiệm kỳ thứ tư, Barcelona tham vọng trở lại đỉnh châu Âu](https://nld.com.vn/laporta-tai-dac-cu-chu-tich-nhiem-ky-thu-tu-barcelona-tham-vong-tro-lai-dinh-chau-au-196260316085433005.htm) - 01:57 16/03/2026
+- 🐻 [Cả nước có gần 76,2 triệu cử tri đi bầu cử, đạt tỉ lệ 99,68%](https://nld.com.vn/ca-nuoc-co-gan-762-trieu-cu-tri-di-bau-cu-dat-ti-le-9968-19626031608393988.htm) - 01:54 16/03/2026
+- 🐲 [Check-in vườn hoa cẩm tú cầu nở rộ ở Công viên số 1 Lý Thái Tổ](https://nld.com.vn/check-in-vuon-hoa-cam-tu-cau-no-ro-o-cong-vien-so-1-ly-thai-to-1962603160653418.htm) - 01:48 16/03/2026
+- 🧑‍💻 [Iran lần đầu tiên phóng “tên lửa khiêu vũ” tấn công Mỹ - Israel](https://nld.com.vn/iran-lan-dau-tien-phong-ten-lua-khieu-vu-tan-cong-my-israel-196260316072040659.htm) - 01:38 16/03/2026
+- 🎬 [Giữ vững vị thế gạo Việt](https://nld.com.vn/giu-vung-vi-the-gao-viet-196260315213251507.htm) - 01:32 16/03/2026
+- 👀 [Dàn vũ khí &quot;khủng&quot; làm rung chuyển Trung Đông: &quot;Phòng thí nghiệm&quot; của Mỹ đối đầu Iran](https://nld.com.vn/dan-vu-khi-khung-lam-rung-chuyen-trung-dong-phong-thi-nghiem-cua-my-doi-dau-iran-196260315194723853.htm) - 01:31 16/03/2026
+- 👍 [Cử tri đi bầu cử tại Ninh Bình đạt tỉ lệ 99,6%](https://nld.com.vn/cu-tri-di-bau-cu-tai-ninh-binh-dat-ti-le-996-196260316081932399.htm) - 01:23 16/03/2026
+- 🦅 [Tăng cường thu mua, tạm trữ lúa gạo](https://nld.com.vn/tang-cuong-thu-mua-tam-tru-lua-gao-196260315213120204.htm) - 01:23 16/03/2026
+- 🦏 [Điện ảnh Việt Nam: Nhiều dư địa bứt phá](https://nld.com.vn/dien-anh-viet-nam-nhieu-du-dia-but-pha-196260315201059574.htm) - 01:18 16/03/2026
+- 🗽 [Khi mỹ nhân gặp kẻ thù](https://nld.com.vn/khi-my-nhan-gap-ke-thu-196260316073023093.htm) - 01:01 16/03/2026
+- 🔭 [Hàng loạt công trình rút ngắn thời gian về đích](https://nld.com.vn/hang-loat-cong-trinh-rut-ngan-thoi-gian-ve-dich-196260315213716737.htm) - 00:59 16/03/2026
+- 👍 [Cô gái khiếm thị chinh phục 7 đại học danh tiếng](https://nld.com.vn/co-gai-khiem-thi-chinh-phuc-7-dai-hoc-danh-tieng-196260315202125172.htm) - 00:59 16/03/2026
+- ⛽️ [Tạo bệ phóng hạ tầng vững chắc](https://nld.com.vn/tao-be-phong-ha-tang-vung-chac-196260315194106133.htm) - 00:59 16/03/2026
+- 🥸 [Sáng 16-3, bất ngờ nơi trúng 2 giải độc đắc và an ủi của xổ số miền Nam](https://nld.com.vn/sang-16-3-bat-ngo-noi-trung-2-giai-doc-dac-va-an-ui-cua-xo-so-mien-nam-19626031607520581.htm) - 00:58 16/03/2026
+- 🌁 [Siêu cúp Finalissima bị hủy bỏ, Tây Ban Nha không tranh ngôi số 1 thế giới với Argentina](https://nld.com.vn/sieu-cup-finalissima-bi-huy-bo-tay-ban-nha-khong-tranh-ngoi-so-1-the-gioi-voi-argentina-1962603160726203.htm) - 00:58 16/03/2026
+- 🌮 [Giá vàng hôm nay 16-3: Thủng mốc 5.000 USD/ounce ngay khi bắt đầu tuần mới](https://nld.com.vn/gia-vang-hom-nay-16-3-thung-moc-5000-usd-ounce-ngay-khi-bat-dau-tuan-moi-1962603160738531.htm) - 00:54 16/03/2026
+- 🎉 [Ghi hình hàng chục ô tô không xi-nhan khi chạy trên cao tốc TPHCM - Dầu Giây](https://nld.com.vn/ghi-hinh-hang-chuc-o-to-khong-xi-nhan-khi-chay-tren-cao-toc-tphcm-dau-giay-196260316063831113.htm) - 00:54 16/03/2026
+- 🤔 [99% cử tri TPHCM đi bỏ phiếu bầu cử](https://nld.com.vn/99-cu-tri-tphcm-di-bo-phieu-bau-cu-19626031607370283.htm) - 00:53 16/03/2026
+- 🐘 [Đẩy nhanh tiến độ nhiều dự án trọng điểm](https://nld.com.vn/day-nhanh-tien-do-nhieu-du-an-trong-diem-196260315205936019.htm) - 00:43 16/03/2026
+- 🙉 [Bài toán khó với các ngân hàng trung ương](https://nld.com.vn/bai-toan-kho-voi-cac-ngan-hang-trung-uong-196260315203525704.htm) - 00:35 16/03/2026
+- 🐵 [Thủ tướng Israel đăng video bác tin đồn “đã chết”](https://nld.com.vn/thu-tuong-israel-dang-video-bac-tin-don-da-chet-196260316070828136.htm) - 00:33 16/03/2026
+- 🙉 [Giữ sạch đường phố từ kinh nghiệm quốc tế](https://nld.com.vn/giu-sach-duong-pho-tu-kinh-nghiem-quoc-te-19626031519414265.htm) - 00:28 16/03/2026
+- 💪 [Lựa chọn những người tài đức](https://nld.com.vn/lua-chon-nhung-nguoi-tai-duc-196260315224412426.htm) - 00:20 16/03/2026
+- ⛽️ [Giữ chân người lao động từ bữa ăn giữa ca](https://nld.com.vn/giu-chan-nguoi-lao-dong-tu-bua-an-giua-ca-19626031521105131.htm) - 00:00 16/03/2026
+- 👺 [Cà Mau khai thác lợi thế nuôi trồng thủy sản](https://nld.com.vn/ca-mau-khai-thac-loi-the-nuoi-trong-thuy-san-196260315210144621.htm) - 00:00 16/03/2026
+- 🧠 [Bảo vệ ý nghĩa tốt đẹp của cuộc bầu cử](https://nld.com.vn/bao-ve-y-nghia-tot-dep-cua-cuoc-bau-cu-196260315210613767.htm) - 23:59 15/03/2026
+- 🔭 [Kẻ bịt mặt xông vào phòng tập thể dục cướp dây chuyền bị bắt](https://nld.com.vn/ke-bit-mat-xong-vao-phong-tap-the-duc-cuop-day-chuyen-bi-bat-196260316063957567.htm) - 23:57 15/03/2026
+- 🦣 [Đất nước rộn ràng trong ngày hội lớn](https://nld.com.vn/dat-nuoc-ron-rang-trong-ngay-hoi-lon-196260315224747442.htm) - 23:50 15/03/2026
+- 🔥 [Ly cà phê của má](https://nld.com.vn/ly-ca-phe-cua-ma-196260314163429387.htm) - 23:50 15/03/2026
+- 🌝 [Giá cà phê hôm nay 16-3: Có bật tăng trở lại?](https://nld.com.vn/gia-ca-phe-hom-nay-16-3-co-bat-tang-tro-lai-196260316061215882.htm) - 23:45 15/03/2026
 - 👍 [Chung sức đồng lòng kiến tạo tương lai](https://nld.com.vn/chung-suc-dong-long-kien-tao-tuong-lai-196260315224035587.htm) - 23:45 15/03/2026
-- ⛽️ [Barcelona thắng &quot;5 sao&quot; Sevilla với hat-trick của Raphinha](https://nld.com.vn/barcelona-thang-5-sao-sevilla-voi-hat-trick-cua-raphinha-196260316063608891.htm) - 23:38 15/03/2026
-- 🥸 [Fernandes phá kỷ lục nhiều năm của huyền thoại Beckham](https://nld.com.vn/fernandes-pha-ky-luc-nhieu-nam-cua-huyen-thoai-beckham-196260316063522935.htm) - 23:37 15/03/2026
-- 🌁 [Cờ vua Việt Nam chào đón 2 nhà vô địch mới](https://nld.com.vn/co-vua-viet-nam-chao-don-2-nha-vo-dich-moi-196260315201518651.htm) - 23:28 15/03/2026
-- 🌮 [Richarlison ghi bàn phút 90, Tottenham chia điểm Liverpool tại Anfield](https://nld.com.vn/richarlison-ghi-ban-phut-90-tottenham-chia-diem-liverpool-tai-anfield-196260316060840326.htm) - 23:12 15/03/2026
-- 🎉 [Không dễ nối lại đàm phán Mỹ - Iran](https://nld.com.vn/khong-de-noi-lai-dam-phan-my-iran-196260315203636308.htm) - 23:03 15/03/2026
-- 🤔 [Phát huy vai trò &quot;hạt nhân chính trị&quot;](https://nld.com.vn/phat-huy-vai-tro-hat-nhan-chinh-tri-196260315210808765.htm) - 22:51 15/03/2026
-- 🐘 [Oscar 2026: Phim có Leonardo DiCaprio thắng đậm!](https://nld.com.vn/sang-mai-truc-tuyen-le-trao-giai-oscar-2026-196260315141831024.htm) - 22:30 15/03/2026
-- 🙉 [Bắt 1 người nước ngoài vận chuyển trái phép vàng vào Việt Nam](https://nld.com.vn/bat-1-nguoi-nuoc-ngoai-van-chuyen-trai-phep-vang-vao-viet-nam-196260315213707502.htm) - 22:29 15/03/2026
-- 🐵 [Hố ga nguy hiểm](https://nld.com.vn/ho-ga-nguy-hiem-19626031519425752.htm) - 22:12 15/03/2026
-- 🙉 [Điểm nóng xung đột ngày 16-3: Rộ tin cạn tên lửa đánh chặn, Israel hành động khẩn](https://nld.com.vn/diem-nong-xung-dot-ngay-16-3-ro-tin-can-ten-lua-danh-chan-israel-hanh-dong-khan-19626031520065448.htm) - 21:33 15/03/2026
-- 💪 [Fernandes chạm tay kỳ tích, Man United &quot;bắn hạ&quot; Aston Villa](https://nld.com.vn/fernandes-cham-tay-ky-tich-man-united-ban-ha-aston-villa-196260315232329649.htm) - 16:25 15/03/2026
-- ⛽️ [Báo in Người Lao Động 16-3: “Phòng thí nghiệm” của Mỹ đối đầu Iran](https://nld.com.vn/bao-in-nguoi-lao-dong-16-3-phong-thi-nghiem-cua-my-doi-dau-iran-196260315231330733.htm) - 16:16 15/03/2026
-- 👺 [Kết thúc bầu cử, cả nước có 99,38% cử tri đi bỏ phiếu](https://nld.com.vn/ket-thuc-bau-cu-ca-nuoc-co-9938-cu-tri-di-bo-phieu-196260315213601968.htm) - 15:38 15/03/2026
-- 🧠 [Khoa Ngô ghi bàn bàn duy nhất cho CA TP HCM trong ngày HLV Kim Sang-sik &quot;xem giò&quot;](https://nld.com.vn/khoa-ngo-ghi-ban-ban-duy-nhat-cho-ca-tp-hcm-trong-ngay-hlv-kim-sang-sik-xem-gio-196260315222933842.htm) - 15:31 15/03/2026
-- 🔭 [Nguyên Phó chủ tịch nước Nguyễn Thị Bình: Kỳ vọng chọn được đại biểu chất lượng](https://nld.com.vn/nguyen-pho-chu-tich-nuoc-nguyen-thi-binh-ky-vong-chon-duoc-dai-bieu-chat-luong-196260315221240413.htm) - 15:22 15/03/2026
-- 🦣 [VAR từ chối bàn thắng của PVF-CAND, Khoa Ngô tỏa sáng giúp Công an TP HCM thắng 1-0](https://nld.com.vn/var-tu-choi-ban-thang-cua-pvf-cand-khoa-ngo-toa-sang-giup-cong-an-tp-hcm-thang-1-0-196260315221334874.htm) - 15:15 15/03/2026
-- 🔥 [HLV Huỳnh Đức lý giải việc không thể đưa Tiến Linh lên ghế dự bị](https://nld.com.vn/hlv-huynh-duc-ly-giai-viec-khong-the-dua-tien-linh-len-ghe-du-bi-196260315220522308.htm) - 15:08 15/03/2026
-- 🌝 [Chồng nổ súng giết vợ, dùng dao đâm tử vong 1 người đàn ông rồi tự sát](https://nld.com.vn/chong-no-sung-giet-vo-dung-dao-dam-tu-vong-1-nguoi-dan-ong-roi-tu-sat-196260315212603634.htm) - 14:36 15/03/2026
-- 👍 [TP HCM: Tưng bừng &quot;Ngày hội non sông&quot;](https://nld.com.vn/tp-hcm-tung-bung-ngay-hoi-non-song-196260315211156452.htm) - 14:29 15/03/2026
-- 💂 [Thị trường tiền số hôm nay, 15-3: Tín hiệu đáng chú ý của Bitcoin giữa căng thẳng Mỹ - Iran](https://nld.com.vn/thi-truong-tien-so-hom-nay-15-3-tin-hieu-dang-chu-y-cua-bitcoin-giua-cang-thang-my-iran-196260315205606748.htm) - 14:16 15/03/2026
-- 🤖 [Bộ trưởng Bộ Ngoại giao hai nước Việt - Trung tiến hành trao đổi chiến lược](https://nld.com.vn/bo-truong-bo-ngoai-giao-hai-nuoc-viet-trung-tien-hanh-trao-doi-chien-luoc-196260315211031031.htm) - 14:14 15/03/2026<!-- nld:END -->
+- 💂 [Barcelona thắng &quot;5 sao&quot; Sevilla với hat-trick của Raphinha](https://nld.com.vn/barcelona-thang-5-sao-sevilla-voi-hat-trick-cua-raphinha-196260316063608891.htm) - 23:38 15/03/2026
+- 🤖 [Fernandes phá kỷ lục nhiều năm của huyền thoại Beckham](https://nld.com.vn/fernandes-pha-ky-luc-nhieu-nam-cua-huyen-thoai-beckham-196260316063522935.htm) - 23:37 15/03/2026<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
