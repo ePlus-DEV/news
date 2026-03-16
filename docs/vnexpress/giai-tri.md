@@ -11,7 +11,7 @@ sidebar_position: 5
 - 👨‍🏫 [Người thân tiễn biệt Kasim Hoàng Vũ](https://vnexpress.net/nguoi-than-tien-biet-kasim-hoang-vu-5050758.html) - 01:01 16/03/2026
 - ⚗️ [&#39;Đảo ngàn sao&#39; - một giấc mơ đẹp](https://vnexpress.net/dao-ngan-sao-mot-giac-mo-dep-5050716.html) - 00:12 16/03/2026
 - 😎 [Mỹ nhân Hollywood hội tụ trên thảm đỏ Oscar](https://vnexpress.net/my-nhan-hollywood-hoi-tu-tren-tham-do-oscar-5050761.html) - 23:06 15/03/2026
-- 🫣 [&#39;One Battle After Another&#39; của Leonardo Dicaprio - phim hay nhất Oscar 2026](https://vnexpress.net/le-trao-giai-oscar-2026-5050615.html) - 22:56 15/03/2026
+- 🫣 [&#39;One Battle After Another&#39; của Leonardo Dicaprio - phim hay nhất Oscar 2026](https://vnexpress.net/le-trao-giai-oscar-2026-5050615-tong-thuat.html) - 22:56 15/03/2026
 - 🪄 [Lan Phương: &#39;Tôi tự chữa lành sau ly hôn&#39;](https://vnexpress.net/lan-phuong-toi-tu-chua-lanh-sau-ly-hon-5050156.html) - 17:00 15/03/2026
 - 🤓 [Brooklyn Beckham dự sinh nhật mẹ vợ](https://vnexpress.net/brooklyn-beckham-du-sinh-nhat-me-vo-5050705.html) - 14:49 15/03/2026
 - 🫶 [Sao ngoại theo đuổi họa tiết da báo](https://vnexpress.net/sao-ngoai-theo-duoi-hoa-tiet-da-bao-5050665.html) - 14:00 15/03/2026
