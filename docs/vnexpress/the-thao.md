@@ -6,8 +6,8 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [CĐV Malaysia: &#39;Vụ gian lận nhập tịch là nỗi hổ thẹn quốc gia&#39;](https://vnexpress.net/cdv-malaysia-vu-gian-lan-nhap-tich-la-noi-ho-then-quoc-gia-5051556.html) - 17:00 17/03/2026
 - 🦩 [Iran muốn dời các trận World Cup 2026 từ Mỹ sang Mexico](https://vnexpress.net/iran-muon-doi-cac-tran-world-cup-2026-tu-my-sang-mexico-5051623.html) - 17:00 17/03/2026
-- 🧰 [Runner Trung Quốc bị chặn ngay trước vạch đích khi đang dẫn đầu](https://vnexpress.net/runner-trung-quoc-bi-chan-ngay-truoc-vach-dich-khi-dang-dan-dau-5051633.html) - 17:00 17/03/2026
-- 🤗 [Siêu sao bóng bàn Trung Quốc tạo cơn sốt chuyển nhượng tại Đức](https://vnexpress.net/sieu-sao-bong-ban-trung-quoc-tao-con-sot-chuyen-nhuong-tai-duc-5051388.html) - 17:00 17/03/2026
+- 🧰 [Siêu sao bóng bàn Trung Quốc tạo cơn sốt chuyển nhượng tại Đức](https://vnexpress.net/sieu-sao-bong-ban-trung-quoc-tao-con-sot-chuyen-nhuong-tai-duc-5051388.html) - 17:00 17/03/2026
+- 🤗 [Runner Trung Quốc bị chặn ngay trước vạch đích khi đang dẫn đầu](https://vnexpress.net/runner-trung-quoc-bi-chan-ngay-truoc-vach-dich-khi-dang-dan-dau-5051633.html) - 17:00 17/03/2026
 - 🥳 [Enrique: &#39;Câu đùa về Ngoại hạng Anh theo tôi khắp nơi&#39;](https://vnexpress.net/enrique-cau-dua-ve-ngoai-hang-anh-theo-toi-khap-noi-5051328.html) - 14:43 17/03/2026
 - 🦣 [Rudiger thích tranh chấp sức mạnh với Haaland](https://vnexpress.net/rudiger-thich-tranh-chap-suc-manh-voi-haaland-5051302.html) - 14:38 17/03/2026
 - 🌜 [Guardiola nói về &#39;văn hóa đón nhận thất bại&#39; trước thềm đại chiến Real](https://vnexpress.net/guardiola-noi-ve-van-hoa-don-nhan-that-bai-truoc-them-dai-chien-real-5051625.html) - 13:00 17/03/2026
