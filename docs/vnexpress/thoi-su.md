@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Phó chủ tịch Hà Nội được giới thiệu để bầu Chủ tịch Hưng Yên](https://vnexpress.net/pho-chu-tich-ha-noi-duoc-gioi-thieu-de-bau-chu-tich-hung-yen-5051349.html) - 04:13 17/03/2026
-- 🤓 [Ba người chết dưới hầm tàu neo ở cảng Cà Ná](https://vnexpress.net/ba-nguoi-chet-duoi-ham-tau-neo-o-cang-ca-na-5051339.html) - 03:53 17/03/2026
+- 🤓 [Ba người chết dưới hầm tàu ở biển Cà Ná](https://vnexpress.net/ba-nguoi-chet-duoi-ham-tau-o-bien-ca-na-5051339.html) - 03:53 17/03/2026
 - ⚗️ [Đồng Nai xin lỗi 8 hộ có nhà bị chênh vênh khi mở rộng đường](https://vnexpress.net/dong-nai-xin-loi-8-ho-co-nha-bi-chenh-venh-khi-mo-rong-duong-5051310.html) - 03:16 17/03/2026
 - 🌊 [Sân bay Cát Bi bị ảnh hưởng bởi diều sáo](https://vnexpress.net/san-bay-cat-bi-bi-anh-huong-boi-dieu-sao-5051303.html) - 03:09 17/03/2026
 - 🎓 [4 ôtô tông liên hoàn, một người chết](https://vnexpress.net/4-oto-tong-lien-hoan-mot-nguoi-chet-5051289.html) - 02:21 17/03/2026
