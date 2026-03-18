@@ -49,8 +49,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Bố mẹ Mr Pips gửi hàng trăm tỷ đồng, mua 314 lượng vàng khi con bị bắt](https://vnexpress.net/bo-me-mr-pips-gui-hang-tram-ty-dong-mua-314-luong-vang-khi-con-bi-bat-5052018.html) - 12:00 18/03/2026
 - 🐻 [Làng bánh cuốn Thanh Trì nằm ở đâu?](https://vnexpress.net/lang-banh-cuon-thanh-tri-nam-o-dau-5051986.html) - 12:00 18/03/2026
 - 😺 [Manh mối có thể giúp Israel hạ sát cố vấn an ninh Iran](https://vnexpress.net/manh-moi-co-the-giup-israel-ha-sat-co-van-an-ninh-iran-5051722.html) - 12:00 18/03/2026
-- 🤔 [Có nên trả tự do để vợ đi tìm hạnh phúc mới](https://vnexpress.net/co-nen-tra-tu-do-de-vo-di-tim-hanh-phuc-moi-5051041.html) - 12:00 18/03/2026
-- 🌮 [&#39;Golden&#39; - bản Kpop làm nên lịch sử ở Oscar](https://vnexpress.net/golden-ban-kpop-lam-nen-lich-su-o-oscar-5051156.html) - 12:00 18/03/2026
+- 🤔 [&#39;Golden&#39; - bản Kpop làm nên lịch sử ở Oscar](https://vnexpress.net/golden-ban-kpop-lam-nen-lich-su-o-oscar-5051156.html) - 12:00 18/03/2026
+- 🌮 [Có nên trả tự do để vợ đi tìm hạnh phúc mới](https://vnexpress.net/co-nen-tra-tu-do-de-vo-di-tim-hanh-phuc-moi-5051041.html) - 12:00 18/03/2026
 - 🦩 [SNA giới thiệu chương trình học bổng cho học sinh tiểu học](https://vnexpress.net/sna-gioi-thieu-chuong-trinh-hoc-bong-cho-hoc-sinh-tieu-hoc-5052104.html) - 12:00 18/03/2026
 - 📝 [Lý do Galaxy Buds4 bỏ qua thiết kế &#39;tai nghe chuẩn lab&#39;](https://vnexpress.net/ly-do-galaxy-buds4-bo-qua-thiet-ke-tai-nghe-chuan-lab-5052090.html) - 12:00 18/03/2026
 - 🕴 [Nam giới hay nữ giới khó đào thải virus HPV hơn?](https://vnexpress.net/nam-gioi-hay-nu-gioi-kho-dao-thai-virus-hpv-hon-5052078.html) - 12:00 18/03/2026
