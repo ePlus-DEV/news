@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khởi tố vụ án chiếm đoạt hơn 40 tỷ đồng liên quan dự án nhà ở xã hội](https://vnexpress.net/khoi-to-vu-an-chiem-doat-hon-40-ty-dong-lien-quan-du-an-nha-o-xa-hoi-5052081.html) - 11:05 18/03/2026
+- 😎 [Khởi tố vụ án chiếm đoạt 40 tỷ đồng liên quan dự án nhà ở xã hội tại Hà Nội](https://vnexpress.net/khoi-to-vu-an-chiem-doat-40-ty-dong-lien-quan-du-an-nha-o-xa-hoi-tai-ha-noi-5052081.html) - 11:05 18/03/2026
 - 🥰 [Bác sĩ hầu tòa vì cắt nhầm động mạch khiến bệnh nhân tử vong](https://vnexpress.net/bac-si-hau-toa-vi-cat-nham-dong-mach-khien-benh-nhan-tu-vong-5051987.html) - 09:47 18/03/2026
 - 🎓 [Vụ án tham nhũng tại ACV vào diện Ban Chỉ đạo Trung ương theo dõi](https://vnexpress.net/vu-an-tham-nhung-tai-acv-vao-dien-ban-chi-dao-trung-uong-theo-doi-5051968.html) - 08:40 18/03/2026
 - 🤓 [Bị bắt vì nhiều lần xâm hại bé gái](https://vnexpress.net/bi-bat-vi-nhieu-lan-xam-hai-be-gai-5051919.html) - 08:27 18/03/2026
