@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Grab phản hồi vụ khóa tài khoản với tài xế đăng clip bị khách đe dọa](https://dantri.com.vn/lao-dong-viec-lam/grab-phan-hoi-vu-khoa-tai-khoan-voi-tai-xe-dang-clip-bi-khach-de-doa-20260318163325303.htm) - 09:42 18/03/2026
+- ⚗️ [Vụ tài xế bị nhạc sĩ Minh Khang dọa đấm: Grab phản hồi việc khóa tài khoản](https://dantri.com.vn/lao-dong-viec-lam/vu-tai-xe-bi-nhac-si-minh-khang-doa-dam-grab-phan-hoi-viec-khoa-tai-khoan-20260318163325303.htm) - 09:42 18/03/2026
 - 🙉 [Doanh nghiệp chi hàng chục tỷ đồng cho an toàn lao động](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-chi-hang-chuc-ty-dong-cho-an-toan-lao-dong-20260318161950592.htm) - 09:37 18/03/2026
 - 🕴 [Cặp nhung hươu hiếm thấy hút người đến xem, chủ nuôi kiếm tiền tươi](https://dantri.com.vn/lao-dong-viec-lam/cap-nhung-huou-hiem-thay-hut-nguoi-den-xem-chu-nuoi-kiem-tien-tuoi-20260318091203631.htm) - 04:22 18/03/2026
 - 🧐 [Người trẻ miệt mài “cày” tiếng Trung mỗi tối, lương vọt lên gần gấp đôi](https://dantri.com.vn/lao-dong-viec-lam/nguoi-tre-miet-mai-cay-tieng-trung-moi-toi-luong-vot-len-gan-gap-doi-20260317115209198.htm) - 02:23 18/03/2026
