@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [FPT thay đổi cách hạch toán kết quả kinh doanh FPT Telecom](https://vnexpress.net/fpt-thay-doi-cach-hach-toan-ket-qua-kinh-doanh-fpt-telecom-5052022.html) - 14:17 18/03/2026
-- 🐲 [Giá vàng thế giới giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-giam-manh-5052110.html) - 13:15 18/03/2026
-- 🔥 [Lượng xăng dầu nhập khẩu tăng hơn 40% nửa đầu tháng 3](https://vnexpress.net/luong-xang-dau-nhap-khau-tang-hon-40-nua-dau-thang-3-5052050.html) - 11:17 18/03/2026
-- 🐵 [ACV bổ nhiệm quyền Chủ tịch Hội đồng quản trị](https://vnexpress.net/acv-bo-nhiem-quyen-chu-tich-hoi-dong-quan-tri-5052028.html) - 09:33 18/03/2026
-- 🦅 [Giá xăng tại Nhật Bản lên kỷ lục](https://vnexpress.net/gia-xang-tai-nhat-ban-len-ky-luc-5051993.html) - 09:27 18/03/2026
-- 😺 [Nhà đầu tư nước ngoài liên tục xả cổ phiếu](https://vnexpress.net/nha-dau-tu-nuoc-ngoai-lien-tuc-xa-co-phieu-5052025.html) - 09:21 18/03/2026
-- 🤩 [Nhật Bản cấp hơn 8.300 tỷ đồng vốn ODA giúp Việt Nam tăng trưởng xanh](https://vnexpress.net/nhat-ban-cap-hon-8-300-ty-dong-von-oda-giup-viet-nam-tang-truong-xanh-5051895.html) - 07:22 18/03/2026
-- 🌮 [Mua đúng &#39;đáy chứng khoán&#39; có lãi tốt hơn không?](https://vnexpress.net/mua-dung-day-chung-khoan-co-lai-tot-hon-khong-5051416.html) - 05:34 18/03/2026
-- 🧰 [Sacombank muốn đổi tên](https://vnexpress.net/sacombank-muon-doi-ten-5051887.html) - 05:34 18/03/2026
-- 🤔 [Tuyến vận chuyển dầu thay Hormuz đối mặt rủi ro bởi xung đột Trung Đông](https://vnexpress.net/tuyen-van-chuyen-dau-thay-hormuz-doi-mat-rui-ro-boi-xung-dot-trung-dong-5051756.html) - 05:00 18/03/2026
-- 🧑‍💻 [Citigroup hạ dự báo giá Bitcoin](https://vnexpress.net/citigroup-ha-du-bao-gia-bitcoin-5051790.html) - 03:33 18/03/2026
-- 🕴 [Quyền di trú trong chiến lược quản trị rủi ro của doanh nhân](https://vnexpress.net/quyen-di-tru-trong-chien-luoc-quan-tri-rui-ro-cua-doanh-nhan-5051733.html) - 03:00 18/03/2026
-- 🦩 [Nhiều nông sản rớt giá còn vài nghìn đồng một kg](https://vnexpress.net/nhieu-nong-san-rot-gia-con-vai-nghin-dong-mot-kg-5051493.html) - 17:06 17/03/2026
-- 👍 [CEO Nvidia dự báo doanh thu 1.000 tỷ USD từ đơn hàng chip năm nay](https://vnexpress.net/ceo-nvidia-du-bao-doanh-thu-1-000-ty-usd-tu-don-hang-chip-nam-nay-5051636.html) - 17:02 17/03/2026
-- 🏊 [Thủ tướng: Nguồn cung xăng dầu vẫn đảm bảo cho sản xuất, tiêu dùng](https://vnexpress.net/thu-tuong-nguon-cung-xang-dau-van-dam-bao-cho-san-xuat-tieu-dung-5051631.html) - 13:31 17/03/2026
-- 🤡 [Doanh nghiệp Mỹ bán được 1 tỷ USD lithium tái chế từ pin thải](https://vnexpress.net/doanh-nghiep-my-ban-duoc-1-ty-usd-lithium-tai-che-tu-pin-thai-5051612.html) - 12:16 17/03/2026
-- 👀 [Vingroup tuyển 25.000 nhân sự cho đơn vị thi công hạ tầng](https://vnexpress.net/vingroup-tuyen-25-000-nhan-su-cho-don-vi-thi-cong-ha-tang-5051552.html) - 12:00 17/03/2026
-- 😺 [Thị trường chuỗi đồ uống ở Việt Nam quy mô hơn 1,3 tỷ USD](https://vnexpress.net/thi-truong-chuoi-do-uong-o-viet-nam-quy-mo-hon-1-3-ty-usd-5051432.html) - 11:05 17/03/2026
-- 🦣 [Đại gia bán lẻ Việt muốn mở thêm 100 điểm bán năm nay](https://vnexpress.net/dai-gia-ban-le-viet-muon-mo-them-100-diem-ban-nam-nay-5051528.html) - 09:32 17/03/2026
-- 😺 [Thái Lan có thể mua dầu Nga](https://vnexpress.net/thai-lan-co-the-mua-dau-nga-5051481.html) - 09:00 17/03/2026
-- 💼 [Cổ phiếu Đức Giang bị bán tháo](https://vnexpress.net/co-phieu-duc-giang-bi-ban-thao-5051518.html) - 08:31 17/03/2026
-- 🤗 [Xem xét cấp tín dụng vượt giới hạn với các dự án lớn ở Hà Nội](https://vnexpress.net/xem-xet-cap-tin-dung-vuot-gioi-han-voi-cac-du-an-lon-o-ha-noi-5051394.html) - 06:02 17/03/2026
-- 👀 [Việt Nam muốn tiếp cận nguồn dầu xuất kho dự trữ của Nhật Bản](https://vnexpress.net/viet-nam-muon-tiep-can-nguon-dau-xuat-kho-du-tru-cua-nhat-ban-5051398.html) - 05:13 17/03/2026
-- 🎓 [Giá xăng tại Mỹ lên cao nhất gần 3 năm](https://vnexpress.net/gia-xang-tai-my-len-cao-nhat-gan-3-nam-5051369.html) - 04:32 17/03/2026
-- 🗽 [Đà Nẵng sắp bán 849 căn nhà ở xã hội giá gần 21 triệu đồng một m2](https://vnexpress.net/da-nang-sap-ban-849-can-nha-o-xa-hoi-gia-gan-21-trieu-dong-mot-m2-5051333.html) - 03:58 17/03/2026
-- 🚀 [F88 dự kiến chuyển cổ phiếu sang sàn HoSE](https://vnexpress.net/f88-du-kien-chuyen-co-phieu-sang-san-hose-5051248.html) - 01:00 17/03/2026
-- 🤗 [Nhiều hàng quán tăng giá](https://vnexpress.net/nhieu-hang-quan-tang-gia-5050405.html) - 23:32 16/03/2026
-- 🌜 [AmCham tại Việt Nam hợp nhất](https://vnexpress.net/amcham-tai-viet-nam-hop-nhat-5051223.html) - 23:22 16/03/2026
-- 👍 [Vì sao Bitcoin rớt giá nhanh nhưng cũng sớm phục hồi?](https://vnexpress.net/vi-sao-bitcoin-rot-gia-nhanh-nhung-cung-som-phuc-hoi-5051055.html) - 23:00 16/03/2026
-- 🤖 [VinFast thu hơn 90.000 tỷ đồng năm 2025](https://vnexpress.net/vinfast-thu-hon-90-000-ty-dong-nam-2025-5051209.html) - 14:55 16/03/2026
-- 🫣 [Thủ tướng: Xem xét bố trí ngân sách để bình ổn giá xăng dầu](https://vnexpress.net/thu-tuong-xem-xet-bo-tri-ngan-sach-de-binh-on-gia-xang-dau-5051196.html) - 13:34 16/03/2026
-- 🌏 [SCB chuẩn bị đấu giá nhà đất, quần áo liên quan bà Trương Mỹ Lan](https://vnexpress.net/scb-chuan-bi-dau-gia-nha-dat-quan-ao-lien-quan-ba-truong-my-lan-5051184.html) - 12:11 16/03/2026
-- ⚗️ [Trung Quốc tự tin vào nguồn cung năng lượng](https://vnexpress.net/trung-quoc-tu-tin-vao-nguon-cung-nang-luong-5051108.html) - 12:02 16/03/2026
-- 🕯 [MB đồng hành cùng Cục Thuế Hà Nội hỗ trợ hộ kinh doanh](https://vnexpress.net/mb-dong-hanh-cung-cuc-thue-ha-noi-ho-tro-ho-kinh-doanh-5051168.html) - 12:00 16/03/2026
-- 👍 [Sun Group lập sàn giao dịch tiền số](https://vnexpress.net/sun-group-lap-san-giao-dich-tien-so-5051174.html) - 11:02 16/03/2026
-- 🤠 [Liên danh Việt - Hà Lan đầu tư bến cảng container Liên Chiểu gần 1,8 tỷ USD](https://vnexpress.net/lien-danh-viet-ha-lan-dau-tu-ben-cang-container-lien-chieu-gan-1-8-ty-usd-5051132.html) - 10:50 16/03/2026
-- 🌊 [Vinaconex muốn bán 18% vốn công ty con](https://vnexpress.net/vinaconex-muon-ban-18-von-cong-ty-con-5051098.html) - 09:39 16/03/2026
-- 🌈 [Công ty bầu Đức dự kiến đầu tư 20.000 ha cà phê](https://vnexpress.net/cong-ty-bau-duc-du-kien-dau-tu-20-000-ha-ca-phe-5051049.html) - 09:19 16/03/2026
-- 🥳 [VN-Index giảm ba phiên liên tiếp](https://vnexpress.net/vn-index-giam-ba-phien-lien-tiep-5051087.html) - 08:34 16/03/2026
-- 🐻 [Việt Nam sản xuất và tiêu thụ xăng dầu thế nào?](https://vnexpress.net/viet-nam-san-xuat-va-tieu-thu-xang-dau-the-nao-5050737.html) - 08:18 16/03/2026
-- 💫 [Ngư dân sông Nile đổi sang &#39;săn&#39; rác nhựa bởi quá ít cá](https://vnexpress.net/ngu-dan-song-nile-doi-sang-san-rac-nhua-boi-qua-it-ca-5051000.html) - 07:31 16/03/2026
-- 🤩 [&#39;Iran nắm chìa khóa mở lại thị trường năng lượng toàn cầu&#39;](https://vnexpress.net/iran-nam-chia-khoa-mo-lai-thi-truong-nang-luong-toan-cau-5050790.html) - 05:05 16/03/2026
-- 💻 [&#39;Làm theo trực giác khiến nhiều nhà đầu tư thua lỗ&#39;](https://vnexpress.net/lam-theo-truc-giac-khien-nhieu-nha-dau-tu-thua-lo-5050834.html) - 05:01 16/03/2026
-- ⚗️ [Giá vàng thế giới giảm về dưới 5.000 USD, dầu thô tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-giam-ve-duoi-5-000-usd-dau-tho-tiep-tuc-tang-5050781.html) - 00:36 16/03/2026
-- 🌈 [Vì sao Đài Loan hình thành các &#39;chaebol&#39; tài chính từ bảo hiểm nhân thọ?](https://vnexpress.net/vi-sao-dai-loan-hinh-thanh-cac-chaebol-tai-chinh-tu-bao-hiem-nhan-tho-5046576.html) - 21:23 15/03/2026
-- 🌝 [Các chuyên gia dự báo trái chiều về giá vàng tuần này](https://vnexpress.net/cac-chuyen-gia-du-bao-trai-chieu-ve-gia-vang-tuan-nay-5050747.html) - 21:11 15/03/2026
-- 🥸 [Cơ cấu danh mục ra sao khi thị trường biến động mạnh?](https://vnexpress.net/co-cau-danh-muc-ra-sao-khi-thi-truong-bien-dong-manh-5049682.html) - 21:00 15/03/2026
-- 🦆 [Nhật Bản dự kiến xả kho dự trữ dầu kỷ lục](https://vnexpress.net/nhat-ban-du-kien-xa-kho-du-tru-dau-ky-luc-5050749.html) - 18:23 15/03/2026
-- 🌋 [Hà Nội dự kiến phát triển trung tâm tài chính ở Hoàn Kiếm, Nhật Tân](https://vnexpress.net/ha-noi-du-kien-phat-trien-trung-tam-tai-chinh-o-hoan-kiem-nhat-tan-5050616.html) - 17:01 15/03/2026
-- 🦍 [Đề xuất bán hàng trên sàn không phải lập hóa đơn điện tử](https://vnexpress.net/de-xuat-ban-hang-tren-san-khong-phai-lap-hoa-don-dien-tu-5050629.html) - 07:08 15/03/2026
-- 🤔 [Cảng dầu mỏ quan trọng của UAE ngưng hoạt động](https://vnexpress.net/cang-dau-mo-quan-trong-cua-uae-ngung-hoat-dong-5050617.html) - 04:48 15/03/2026
-- 🧰 [Cách điều hành giá xăng dầu lần này khác gì trước?](https://vnexpress.net/cach-dieu-hanh-gia-xang-dau-lan-nay-khac-gi-truoc-5049704.html) - 02:05 15/03/2026
-- 🌝 [ACB dự kiến trả cổ tức 20%](https://vnexpress.net/acb-du-kien-tra-co-tuc-20-5050546.html) - 01:41 15/03/2026
-- 👍 [Tiếp tục xả quỹ bình ổn giữ giá xăng dầu](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-14-3-5050498.html) - 12:46 14/03/2026
+- ⛽️ [Fed giữ nguyên lãi suất](https://vnexpress.net/fed-giu-nguyen-lai-suat-5052155.html) - 18:15 18/03/2026
+- 🐲 [Xuất khẩu tôm sang Mỹ giảm sâu](https://vnexpress.net/xuat-khau-tom-sang-my-giam-sau-5051990.html) - 17:30 18/03/2026
+- 🔥 [Giá xăng tăng có đủ sức kích cầu xe điện?](https://vnexpress.net/gia-xang-tang-co-du-suc-kich-cau-xe-dien-5051984.html) - 17:10 18/03/2026
+- 🐵 [Bài toán mang về 18,5 tỷ USD của gỗ nội thất Việt](https://vnexpress.net/bai-toan-mang-ve-18-5-ty-usd-cua-go-noi-that-viet-5051587.html) - 17:00 18/03/2026
+- 🦅 [FPT thay đổi cách hạch toán kết quả kinh doanh FPT Telecom](https://vnexpress.net/fpt-thay-doi-cach-hach-toan-ket-qua-kinh-doanh-fpt-telecom-5052022.html) - 14:17 18/03/2026
+- 😺 [Giá vàng thế giới giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-giam-manh-5052110.html) - 13:15 18/03/2026
+- 🤩 [Lượng xăng dầu nhập khẩu tăng hơn 40% nửa đầu tháng 3](https://vnexpress.net/luong-xang-dau-nhap-khau-tang-hon-40-nua-dau-thang-3-5052050.html) - 11:17 18/03/2026
+- 🌮 [ACV bổ nhiệm quyền Chủ tịch Hội đồng quản trị](https://vnexpress.net/acv-bo-nhiem-quyen-chu-tich-hoi-dong-quan-tri-5052028.html) - 09:33 18/03/2026
+- 🧰 [Giá xăng tại Nhật Bản lên kỷ lục](https://vnexpress.net/gia-xang-tai-nhat-ban-len-ky-luc-5051993.html) - 09:27 18/03/2026
+- 🤔 [Nhà đầu tư nước ngoài liên tục xả cổ phiếu](https://vnexpress.net/nha-dau-tu-nuoc-ngoai-lien-tuc-xa-co-phieu-5052025.html) - 09:21 18/03/2026
+- 🧑‍💻 [Nhật Bản cấp hơn 8.300 tỷ đồng vốn ODA giúp Việt Nam tăng trưởng xanh](https://vnexpress.net/nhat-ban-cap-hon-8-300-ty-dong-von-oda-giup-viet-nam-tang-truong-xanh-5051895.html) - 07:22 18/03/2026
+- 🕴 [Mua đúng &#39;đáy chứng khoán&#39; có lãi tốt hơn không?](https://vnexpress.net/mua-dung-day-chung-khoan-co-lai-tot-hon-khong-5051416.html) - 05:34 18/03/2026
+- 🦩 [Sacombank muốn đổi tên](https://vnexpress.net/sacombank-muon-doi-ten-5051887.html) - 05:34 18/03/2026
+- 👍 [Tuyến vận chuyển dầu thay Hormuz đối mặt rủi ro bởi xung đột Trung Đông](https://vnexpress.net/tuyen-van-chuyen-dau-thay-hormuz-doi-mat-rui-ro-boi-xung-dot-trung-dong-5051756.html) - 05:00 18/03/2026
+- 🏊 [Citigroup hạ dự báo giá Bitcoin](https://vnexpress.net/citigroup-ha-du-bao-gia-bitcoin-5051790.html) - 03:33 18/03/2026
+- 🤡 [Quyền di trú trong chiến lược quản trị rủi ro của doanh nhân](https://vnexpress.net/quyen-di-tru-trong-chien-luoc-quan-tri-rui-ro-cua-doanh-nhan-5051733.html) - 03:00 18/03/2026
+- 👀 [Nhiều nông sản rớt giá còn vài nghìn đồng một kg](https://vnexpress.net/nhieu-nong-san-rot-gia-con-vai-nghin-dong-mot-kg-5051493.html) - 17:06 17/03/2026
+- 😺 [CEO Nvidia dự báo doanh thu 1.000 tỷ USD từ đơn hàng chip năm nay](https://vnexpress.net/ceo-nvidia-du-bao-doanh-thu-1-000-ty-usd-tu-don-hang-chip-nam-nay-5051636.html) - 17:02 17/03/2026
+- 🦣 [Thủ tướng: Nguồn cung xăng dầu vẫn đảm bảo cho sản xuất, tiêu dùng](https://vnexpress.net/thu-tuong-nguon-cung-xang-dau-van-dam-bao-cho-san-xuat-tieu-dung-5051631.html) - 13:31 17/03/2026
+- 😺 [Doanh nghiệp Mỹ bán được 1 tỷ USD lithium tái chế từ pin thải](https://vnexpress.net/doanh-nghiep-my-ban-duoc-1-ty-usd-lithium-tai-che-tu-pin-thai-5051612.html) - 12:16 17/03/2026
+- 💼 [Vingroup tuyển 25.000 nhân sự cho đơn vị thi công hạ tầng](https://vnexpress.net/vingroup-tuyen-25-000-nhan-su-cho-don-vi-thi-cong-ha-tang-5051552.html) - 12:00 17/03/2026
+- 🤗 [Thị trường chuỗi đồ uống ở Việt Nam quy mô hơn 1,3 tỷ USD](https://vnexpress.net/thi-truong-chuoi-do-uong-o-viet-nam-quy-mo-hon-1-3-ty-usd-5051432.html) - 11:05 17/03/2026
+- 👀 [Đại gia bán lẻ Việt muốn mở thêm 100 điểm bán năm nay](https://vnexpress.net/dai-gia-ban-le-viet-muon-mo-them-100-diem-ban-nam-nay-5051528.html) - 09:32 17/03/2026
+- 🎓 [Thái Lan có thể mua dầu Nga](https://vnexpress.net/thai-lan-co-the-mua-dau-nga-5051481.html) - 09:00 17/03/2026
+- 🗽 [Cổ phiếu Đức Giang bị bán tháo](https://vnexpress.net/co-phieu-duc-giang-bi-ban-thao-5051518.html) - 08:31 17/03/2026
+- 🚀 [Xem xét cấp tín dụng vượt giới hạn với các dự án lớn ở Hà Nội](https://vnexpress.net/xem-xet-cap-tin-dung-vuot-gioi-han-voi-cac-du-an-lon-o-ha-noi-5051394.html) - 06:02 17/03/2026
+- 🤗 [Việt Nam muốn tiếp cận nguồn dầu xuất kho dự trữ của Nhật Bản](https://vnexpress.net/viet-nam-muon-tiep-can-nguon-dau-xuat-kho-du-tru-cua-nhat-ban-5051398.html) - 05:13 17/03/2026
+- 🌜 [Giá xăng tại Mỹ lên cao nhất gần 3 năm](https://vnexpress.net/gia-xang-tai-my-len-cao-nhat-gan-3-nam-5051369.html) - 04:32 17/03/2026
+- 👍 [Đà Nẵng sắp bán 849 căn nhà ở xã hội giá gần 21 triệu đồng một m2](https://vnexpress.net/da-nang-sap-ban-849-can-nha-o-xa-hoi-gia-gan-21-trieu-dong-mot-m2-5051333.html) - 03:58 17/03/2026
+- 🤖 [F88 dự kiến chuyển cổ phiếu sang sàn HoSE](https://vnexpress.net/f88-du-kien-chuyen-co-phieu-sang-san-hose-5051248.html) - 01:00 17/03/2026
+- 🫣 [Nhiều hàng quán tăng giá](https://vnexpress.net/nhieu-hang-quan-tang-gia-5050405.html) - 23:32 16/03/2026
+- 🌏 [AmCham tại Việt Nam hợp nhất](https://vnexpress.net/amcham-tai-viet-nam-hop-nhat-5051223.html) - 23:22 16/03/2026
+- ⚗️ [Vì sao Bitcoin rớt giá nhanh nhưng cũng sớm phục hồi?](https://vnexpress.net/vi-sao-bitcoin-rot-gia-nhanh-nhung-cung-som-phuc-hoi-5051055.html) - 23:00 16/03/2026
+- 🕯 [VinFast thu hơn 90.000 tỷ đồng năm 2025](https://vnexpress.net/vinfast-thu-hon-90-000-ty-dong-nam-2025-5051209.html) - 14:55 16/03/2026
+- 👍 [Thủ tướng: Xem xét bố trí ngân sách để bình ổn giá xăng dầu](https://vnexpress.net/thu-tuong-xem-xet-bo-tri-ngan-sach-de-binh-on-gia-xang-dau-5051196.html) - 13:34 16/03/2026
+- 🤠 [SCB chuẩn bị đấu giá nhà đất, quần áo liên quan bà Trương Mỹ Lan](https://vnexpress.net/scb-chuan-bi-dau-gia-nha-dat-quan-ao-lien-quan-ba-truong-my-lan-5051184.html) - 12:11 16/03/2026
+- 🌊 [Trung Quốc tự tin vào nguồn cung năng lượng](https://vnexpress.net/trung-quoc-tu-tin-vao-nguon-cung-nang-luong-5051108.html) - 12:02 16/03/2026
+- 🌈 [MB đồng hành cùng Cục Thuế Hà Nội hỗ trợ hộ kinh doanh](https://vnexpress.net/mb-dong-hanh-cung-cuc-thue-ha-noi-ho-tro-ho-kinh-doanh-5051168.html) - 12:00 16/03/2026
+- 🥳 [Sun Group lập sàn giao dịch tiền số](https://vnexpress.net/sun-group-lap-san-giao-dich-tien-so-5051174.html) - 11:02 16/03/2026
+- 🐻 [Liên danh Việt - Hà Lan đầu tư bến cảng container Liên Chiểu gần 1,8 tỷ USD](https://vnexpress.net/lien-danh-viet-ha-lan-dau-tu-ben-cang-container-lien-chieu-gan-1-8-ty-usd-5051132.html) - 10:50 16/03/2026
+- 💫 [Vinaconex muốn bán 18% vốn công ty con](https://vnexpress.net/vinaconex-muon-ban-18-von-cong-ty-con-5051098.html) - 09:39 16/03/2026
+- 🤩 [Công ty bầu Đức dự kiến đầu tư 20.000 ha cà phê](https://vnexpress.net/cong-ty-bau-duc-du-kien-dau-tu-20-000-ha-ca-phe-5051049.html) - 09:19 16/03/2026
+- 💻 [VN-Index giảm ba phiên liên tiếp](https://vnexpress.net/vn-index-giam-ba-phien-lien-tiep-5051087.html) - 08:34 16/03/2026
+- ⚗️ [Việt Nam sản xuất và tiêu thụ xăng dầu thế nào?](https://vnexpress.net/viet-nam-san-xuat-va-tieu-thu-xang-dau-the-nao-5050737.html) - 08:18 16/03/2026
+- 🌈 [Ngư dân sông Nile đổi sang &#39;săn&#39; rác nhựa bởi quá ít cá](https://vnexpress.net/ngu-dan-song-nile-doi-sang-san-rac-nhua-boi-qua-it-ca-5051000.html) - 07:31 16/03/2026
+- 🌝 [&#39;Iran nắm chìa khóa mở lại thị trường năng lượng toàn cầu&#39;](https://vnexpress.net/iran-nam-chia-khoa-mo-lai-thi-truong-nang-luong-toan-cau-5050790.html) - 05:05 16/03/2026
+- 🥸 [&#39;Làm theo trực giác khiến nhiều nhà đầu tư thua lỗ&#39;](https://vnexpress.net/lam-theo-truc-giac-khien-nhieu-nha-dau-tu-thua-lo-5050834.html) - 05:01 16/03/2026
+- 🦆 [Giá vàng thế giới giảm về dưới 5.000 USD, dầu thô tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-giam-ve-duoi-5-000-usd-dau-tho-tiep-tuc-tang-5050781.html) - 00:36 16/03/2026
+- 🌋 [Vì sao Đài Loan hình thành các &#39;chaebol&#39; tài chính từ bảo hiểm nhân thọ?](https://vnexpress.net/vi-sao-dai-loan-hinh-thanh-cac-chaebol-tai-chinh-tu-bao-hiem-nhan-tho-5046576.html) - 21:23 15/03/2026
+- 🦍 [Các chuyên gia dự báo trái chiều về giá vàng tuần này](https://vnexpress.net/cac-chuyen-gia-du-bao-trai-chieu-ve-gia-vang-tuan-nay-5050747.html) - 21:11 15/03/2026
+- 🤔 [Cơ cấu danh mục ra sao khi thị trường biến động mạnh?](https://vnexpress.net/co-cau-danh-muc-ra-sao-khi-thi-truong-bien-dong-manh-5049682.html) - 21:00 15/03/2026
+- 🧰 [Nhật Bản dự kiến xả kho dự trữ dầu kỷ lục](https://vnexpress.net/nhat-ban-du-kien-xa-kho-du-tru-dau-ky-luc-5050749.html) - 18:23 15/03/2026
+- 🌝 [Hà Nội dự kiến phát triển trung tâm tài chính ở Hoàn Kiếm, Nhật Tân](https://vnexpress.net/ha-noi-du-kien-phat-trien-trung-tam-tai-chinh-o-hoan-kiem-nhat-tan-5050616.html) - 17:01 15/03/2026
+- 👍 [Đề xuất bán hàng trên sàn không phải lập hóa đơn điện tử](https://vnexpress.net/de-xuat-ban-hang-tren-san-khong-phai-lap-hoa-don-dien-tu-5050629.html) - 07:08 15/03/2026
+- 🗽 [Cảng dầu mỏ quan trọng của UAE ngưng hoạt động](https://vnexpress.net/cang-dau-mo-quan-trong-cua-uae-ngung-hoat-dong-5050617.html) - 04:48 15/03/2026
+- 🐎 [Cách điều hành giá xăng dầu lần này khác gì trước?](https://vnexpress.net/cach-dieu-hanh-gia-xang-dau-lan-nay-khac-gi-truoc-5049704.html) - 02:05 15/03/2026
+- 🪄 [ACB dự kiến trả cổ tức 20%](https://vnexpress.net/acb-du-kien-tra-co-tuc-20-5050546.html) - 01:41 15/03/2026
+- 🎊 [Tiếp tục xả quỹ bình ổn giữ giá xăng dầu](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-14-3-5050498.html) - 12:46 14/03/2026
 - 🗽 [Doanh nghiệp kêu gọi ngăn xe Trung Quốc vào Mỹ trước cuộc gặp Trump - Tập](https://vnexpress.net/doanh-nghiep-keu-goi-ngan-xe-trung-quoc-vao-my-truoc-cuoc-gap-trump-tap-5050468.html) - 11:24 14/03/2026
-- 🐎 [Tàu hàng liều lĩnh đi qua eo biển Hormuz vì lợi nhuận cao](https://vnexpress.net/tau-hang-lieu-linh-di-qua-eo-bien-hormuz-vi-loi-nhuan-cao-5050364.html) - 04:54 14/03/2026
-- 🪄 [Hưng Yên thành lập Khu kinh tế tự do](https://vnexpress.net/hung-yen-thanh-lap-khu-kinh-te-tu-do-5050363.html) - 04:15 14/03/2026
-- 🎊 [Giá vàng miếng giảm hơn 2 triệu đồng](https://vnexpress.net/gia-vang-mieng-giam-hon-2-trieu-dong-5050340.html) - 03:12 14/03/2026
-- 🗽 [Chính quyền Trump nhận phí môi giới 10 tỷ USD thương vụ TikTok](https://vnexpress.net/chinh-quyen-trump-nhan-phi-moi-gioi-10-ty-usd-thuong-vu-tiktok-5050272.html) - 01:39 14/03/2026
-- 🦩 [Giá vàng thế giới về sát 5.000 USD, dầu thô tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-ve-sat-5-000-usd-dau-tho-tiep-tuc-tang-5050302.html) - 01:26 14/03/2026<!-- vnexpress-kinh-doanh:END -->
+- 🦩 [Tàu hàng liều lĩnh đi qua eo biển Hormuz vì lợi nhuận cao](https://vnexpress.net/tau-hang-lieu-linh-di-qua-eo-bien-hormuz-vi-loi-nhuan-cao-5050364.html) - 04:54 14/03/2026<!-- vnexpress-kinh-doanh:END -->
