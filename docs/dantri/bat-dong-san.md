@@ -13,7 +13,7 @@ sidebar_position: 21
 - 🎓 [Hà Nội muốn chỉnh quy hoạch “khu nhà giàu” Ciputra vì vướng đất nghĩa trang](https://dantri.com.vn/bat-dong-san/ha-noi-muon-chinh-quy-hoach-khu-nha-giau-ciputra-vi-vuong-dat-nghia-trang-20260318053254576.htm) - 23:37 17/03/2026
 - 🌝 [Mảng bất động sản ngàn tỷ đồng ít người biết của Hóa chất Đức Giang](https://dantri.com.vn/bat-dong-san/mang-bat-dong-san-ngan-ty-dong-it-nguoi-biet-cua-hoa-chat-duc-giang-20260317183908608.htm) - 14:02 17/03/2026
 - 🧐 [Người dưới 35 tuổi được ưu tiên vay mua nhà ở xã hội](https://dantri.com.vn/bat-dong-san/nguoi-duoi-35-tuoi-duoc-uu-tien-vay-mua-nha-o-xa-hoi-20260317173002889.htm) - 12:30 17/03/2026
-- 🌜 [34 đại lý chiến lược đồng hành cùng dự án Vinhomes Hải Vân Bay](https://dantri.com.vn/bat-dong-san/34-dai-ly-chien-luoc-dong-hanh-cung-du-an-vinhomes-hai-van-bay-20260317173940736.htm) - 10:53 17/03/2026
+- 🌜 [46 đại lý chiến lược đồng hành cùng dự án Vinhomes Hải Vân Bay](https://dantri.com.vn/bat-dong-san/46-dai-ly-chien-luoc-dong-hanh-cung-du-an-vinhomes-hai-van-bay-20260317173940736.htm) - 10:53 17/03/2026
 - ⚗️ [HoREA đề xuất sửa cách tính dân số để &quot;cứu&quot; nguồn cung căn hộ nhỏ](https://dantri.com.vn/bat-dong-san/horea-de-xuat-sua-cach-tinh-dan-so-de-cuu-nguon-cung-can-ho-nho-20260317170639723.htm) - 10:37 17/03/2026
 - 😎 [Vingroup tuyển 25.000 nhân sự cho các dự án hạ tầng do SGC triển khai](https://dantri.com.vn/bat-dong-san/vingroup-tuyen-25000-nhan-su-cho-cac-du-an-ha-tang-do-sgc-trien-khai-20260317164643605.htm) - 10:02 17/03/2026
 - 🧑‍🏫 [Khu Tây TPHCM có trở thành cực tăng trưởng mới?](https://dantri.com.vn/bat-dong-san/khu-tay-tphcm-co-tro-thanh-cuc-tang-truong-moi-20260317140528108.htm) - 07:30 17/03/2026
