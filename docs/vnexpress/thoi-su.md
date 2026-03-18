@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nổ mìn khai thác đá, nhiều nhà dân bị thủng mái](https://vnexpress.net/no-min-khai-thac-da-nhieu-nha-dan-bi-thung-mai-5052122.html) - 17:00 18/03/2026
-- 🤓 [Vì sao tăng lương hưu 4,5% và 200.000 đồng?](https://vnexpress.net/vi-sao-tang-luong-huu-4-5-va-200-000-dong-5052068.html) - 17:00 18/03/2026
-- ⚗️ [Hai bến phà lớn nhất TP HCM tăng giá vé](https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-5052075.html) - 12:47 18/03/2026
-- 🌊 [Khai thác 37 km cao tốc Biên Hòa - Vũng Tàu trước 31/3](https://vnexpress.net/khai-thac-37-km-cao-toc-bien-hoa-vung-tau-truoc-31-3-5052102.html) - 12:38 18/03/2026
-- 🎓 [Tổng Bí thư Tô Lâm: Nói ít làm nhiều, xử lý đến cùng tham nhũng, lãng phí](https://vnexpress.net/tong-bi-thu-to-lam-noi-it-lam-nhieu-xu-ly-den-cung-tham-nhung-lang-phi-5052084.html) - 11:58 18/03/2026
-- 🔥 [Chủ tịch TP HCM: &#39;Dự án vài km chia 8 gói thầu là quá nhiều&#39;](https://vnexpress.net/chu-tich-tp-hcm-du-an-vai-km-chia-8-goi-thau-la-qua-nhieu-5052034.html) - 09:43 18/03/2026
-- 🦏 [Bộ trưởng Quốc phòng Việt - Trung dự giao lưu tại Móng Cái](https://vnexpress.net/bo-truong-quoc-phong-viet-trung-du-giao-luu-tai-mong-cai-5051896.html) - 08:01 18/03/2026
-- 👺 [Cát vùi lấp công viên nghìn tỷ ở Vũng Tàu](https://vnexpress.net/cat-vui-lap-cong-vien-nghin-ty-o-vung-tau-5051898.html) - 07:56 18/03/2026
-- 🧑‍🏫 [Hai phương án tăng lương hưu từ 1/7](https://vnexpress.net/hai-phuong-an-tang-luong-huu-tu-1-7-5051867.html) - 05:01 18/03/2026
-- 🚦 [Ông Trần Lưu Quang làm Trưởng ban chỉ đạo nghiên cứu xây dựng Luật đô thị đặc biệt](https://vnexpress.net/ong-tran-luu-quang-lam-truong-ban-chi-dao-nghien-cuu-xay-dung-luat-do-thi-dac-biet-5051833.html) - 04:03 18/03/2026
-- 🎉 [Xe ben tông ôtô chở học sinh, đẩy xa 30 m](https://vnexpress.net/xe-ben-tong-oto-cho-hoc-sinh-day-xa-30-m-5051750.html) - 02:41 18/03/2026
-- 🦒 [Biệt thự gần 100 tuổi thành Nhà văn hóa thanh niên TP HCM](https://vnexpress.net/biet-thu-gan-100-tuoi-thanh-nha-van-hoa-thanh-nien-tp-hcm-5051628.html) - 02:11 18/03/2026
-- 🤗 [Kênh hơn 900 tỷ đồng dẫn nước từ sông Hồng về Tô Lịch](https://vnexpress.net/kenh-hon-900-ty-dong-dan-nuoc-tu-song-hong-ve-to-lich-5051227.html) - 17:00 17/03/2026
-- 💼 [Hoàn thiện đề án cơ cấu Chính phủ nhiệm kỳ mới trong tháng 3](https://vnexpress.net/hoan-thien-de-an-co-cau-chinh-phu-nhiem-ky-moi-trong-thang-3-5051621.html) - 14:18 17/03/2026
-- 🤩 [Cứu được người đuối nước khi livestream](https://vnexpress.net/cuu-duoc-nguoi-duoi-nuoc-khi-livestream-5051614.html) - 12:35 17/03/2026
-- 🤡 [Phó chủ nhiệm Ủy ban Kiểm tra Trung ương làm Phó bí thư Thành ủy Đà Nẵng](https://vnexpress.net/pho-chu-nhiem-uy-ban-kiem-tra-trung-uong-lam-pho-bi-thu-thanh-uy-da-nang-5051591.html) - 10:35 17/03/2026
-- 💯 [Lao động nghỉ phép, trường hoán đổi lịch học để nối dài kỳ nghỉ lễ 9 ngày](https://vnexpress.net/lao-dong-nghi-phep-truong-hoan-doi-lich-hoc-de-noi-dai-ky-nghi-le-9-ngay-5051579.html) - 10:34 17/03/2026
-- 👺 [TP HCM dự chi 1.800 tỷ đồng gỡ vướng mặt bằng nút giao An Phú](https://vnexpress.net/tp-hcm-du-chi-1-800-ty-dong-go-vuong-mat-bang-nut-giao-an-phu-5051577.html) - 10:16 17/03/2026
-- 🌮 [Cứu bé trai rơi xuống giếng sâu 20 m](https://vnexpress.net/cuu-be-trai-roi-xuong-gieng-sau-20-m-5051536.html) - 09:12 17/03/2026
-- 🥸 [Chủ tịch Đăk Lăk Tạ Anh Tuấn làm Thứ trưởng Tài chính](https://vnexpress.net/chu-tich-dak-lak-ta-anh-tuan-lam-thu-truong-tai-chinh-5051435.html) - 07:03 17/03/2026
-- 🐻 [Phó chủ tịch Hà Nội được giới thiệu để bầu Chủ tịch Hưng Yên](https://vnexpress.net/pho-chu-tich-ha-noi-duoc-gioi-thieu-de-bau-chu-tich-hung-yen-5051349.html) - 04:13 17/03/2026
-- 👀 [Ba người chết dưới hầm tàu ở biển Cà Ná](https://vnexpress.net/ba-nguoi-chet-duoi-ham-tau-o-bien-ca-na-5051339.html) - 03:53 17/03/2026
-- 🤔 [Đồng Nai xin lỗi 8 hộ có nhà bị chênh vênh khi mở rộng đường](https://vnexpress.net/dong-nai-xin-loi-8-ho-co-nha-bi-chenh-venh-khi-mo-rong-duong-5051310.html) - 03:16 17/03/2026
-- 🕯 [Sân bay Cát Bi bị ảnh hưởng bởi diều sáo](https://vnexpress.net/san-bay-cat-bi-bi-anh-huong-boi-dieu-sao-5051303.html) - 03:09 17/03/2026
-- 😺 [4 ôtô tông liên hoàn, một người chết](https://vnexpress.net/4-oto-tong-lien-hoan-mot-nguoi-chet-5051289.html) - 02:21 17/03/2026
-- 🦆 [Nơi an nghỉ của vị vua yểu mệnh nhất triều Nguyễn](https://vnexpress.net/noi-an-nghi-cua-vi-vua-yeu-menh-nhat-trieu-nguyen-5050429.html) - 02:12 17/03/2026
+- 🦒 [Hành trình nhọc nhằn trở lại châu Âu của lao động Việt](https://vnexpress.net/hanh-trinh-nhoc-nhan-tro-lai-chau-au-cua-lao-dong-viet-5051437.html) - 18:20 18/03/2026
+- 🤓 [Ngư dân thu tiền triệu mỗi ngày trong mùa cá trích](https://vnexpress.net/ngu-dan-thu-tien-trieu-moi-ngay-trong-mua-ca-trich-5052085.html) - 18:00 18/03/2026
+- ⚗️ [Nổ mìn khai thác đá, nhiều nhà dân bị thủng mái](https://vnexpress.net/no-min-khai-thac-da-nhieu-nha-dan-bi-thung-mai-5052122.html) - 17:00 18/03/2026
+- 🌊 [Vì sao tăng lương hưu 4,5% và 200.000 đồng?](https://vnexpress.net/vi-sao-tang-luong-huu-4-5-va-200-000-dong-5052068.html) - 17:00 18/03/2026
+- 🎓 [Hai bến phà lớn nhất TP HCM tăng giá vé](https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-5052075.html) - 12:47 18/03/2026
+- 🔥 [Khai thác 37 km cao tốc Biên Hòa - Vũng Tàu trước 31/3](https://vnexpress.net/khai-thac-37-km-cao-toc-bien-hoa-vung-tau-truoc-31-3-5052102.html) - 12:38 18/03/2026
+- 🦏 [Tổng Bí thư Tô Lâm: Nói ít làm nhiều, xử lý đến cùng tham nhũng, lãng phí](https://vnexpress.net/tong-bi-thu-to-lam-noi-it-lam-nhieu-xu-ly-den-cung-tham-nhung-lang-phi-5052084.html) - 11:58 18/03/2026
+- 👺 [Chủ tịch TP HCM: &#39;Dự án vài km chia 8 gói thầu là quá nhiều&#39;](https://vnexpress.net/chu-tich-tp-hcm-du-an-vai-km-chia-8-goi-thau-la-qua-nhieu-5052034.html) - 09:43 18/03/2026
+- 🧑‍🏫 [Bộ trưởng Quốc phòng Việt - Trung dự giao lưu tại Móng Cái](https://vnexpress.net/bo-truong-quoc-phong-viet-trung-du-giao-luu-tai-mong-cai-5051896.html) - 08:01 18/03/2026
+- 🚦 [Cát vùi lấp công viên nghìn tỷ ở Vũng Tàu](https://vnexpress.net/cat-vui-lap-cong-vien-nghin-ty-o-vung-tau-5051898.html) - 07:56 18/03/2026
+- 🎉 [Hai phương án tăng lương hưu từ 1/7](https://vnexpress.net/hai-phuong-an-tang-luong-huu-tu-1-7-5051867.html) - 05:01 18/03/2026
+- 🦒 [Ông Trần Lưu Quang làm Trưởng ban chỉ đạo nghiên cứu xây dựng Luật đô thị đặc biệt](https://vnexpress.net/ong-tran-luu-quang-lam-truong-ban-chi-dao-nghien-cuu-xay-dung-luat-do-thi-dac-biet-5051833.html) - 04:03 18/03/2026
+- 🤗 [Xe ben tông ôtô chở học sinh, đẩy xa 30 m](https://vnexpress.net/xe-ben-tong-oto-cho-hoc-sinh-day-xa-30-m-5051750.html) - 02:41 18/03/2026
+- 💼 [Biệt thự gần 100 tuổi thành Nhà văn hóa thanh niên TP HCM](https://vnexpress.net/biet-thu-gan-100-tuoi-thanh-nha-van-hoa-thanh-nien-tp-hcm-5051628.html) - 02:11 18/03/2026
+- 🤩 [Kênh hơn 900 tỷ đồng dẫn nước từ sông Hồng về Tô Lịch](https://vnexpress.net/kenh-hon-900-ty-dong-dan-nuoc-tu-song-hong-ve-to-lich-5051227.html) - 17:00 17/03/2026
+- 🤡 [Hoàn thiện đề án cơ cấu Chính phủ nhiệm kỳ mới trong tháng 3](https://vnexpress.net/hoan-thien-de-an-co-cau-chinh-phu-nhiem-ky-moi-trong-thang-3-5051621.html) - 14:18 17/03/2026
+- 💯 [Cứu được người đuối nước khi livestream](https://vnexpress.net/cuu-duoc-nguoi-duoi-nuoc-khi-livestream-5051614.html) - 12:35 17/03/2026
+- 👺 [Phó chủ nhiệm Ủy ban Kiểm tra Trung ương làm Phó bí thư Thành ủy Đà Nẵng](https://vnexpress.net/pho-chu-nhiem-uy-ban-kiem-tra-trung-uong-lam-pho-bi-thu-thanh-uy-da-nang-5051591.html) - 10:35 17/03/2026
+- 🌮 [Lao động nghỉ phép, trường hoán đổi lịch học để nối dài kỳ nghỉ lễ 9 ngày](https://vnexpress.net/lao-dong-nghi-phep-truong-hoan-doi-lich-hoc-de-noi-dai-ky-nghi-le-9-ngay-5051579.html) - 10:34 17/03/2026
+- 🥸 [TP HCM dự chi 1.800 tỷ đồng gỡ vướng mặt bằng nút giao An Phú](https://vnexpress.net/tp-hcm-du-chi-1-800-ty-dong-go-vuong-mat-bang-nut-giao-an-phu-5051577.html) - 10:16 17/03/2026
+- 🐻 [Cứu bé trai rơi xuống giếng sâu 20 m](https://vnexpress.net/cuu-be-trai-roi-xuong-gieng-sau-20-m-5051536.html) - 09:12 17/03/2026
+- 👀 [Chủ tịch Đăk Lăk Tạ Anh Tuấn làm Thứ trưởng Tài chính](https://vnexpress.net/chu-tich-dak-lak-ta-anh-tuan-lam-thu-truong-tai-chinh-5051435.html) - 07:03 17/03/2026
+- 🤔 [Phó chủ tịch Hà Nội được giới thiệu để bầu Chủ tịch Hưng Yên](https://vnexpress.net/pho-chu-tich-ha-noi-duoc-gioi-thieu-de-bau-chu-tich-hung-yen-5051349.html) - 04:13 17/03/2026
+- 🕯 [Ba người chết dưới hầm tàu ở biển Cà Ná](https://vnexpress.net/ba-nguoi-chet-duoi-ham-tau-o-bien-ca-na-5051339.html) - 03:53 17/03/2026
+- 😺 [Đồng Nai xin lỗi 8 hộ có nhà bị chênh vênh khi mở rộng đường](https://vnexpress.net/dong-nai-xin-loi-8-ho-co-nha-bi-chenh-venh-khi-mo-rong-duong-5051310.html) - 03:16 17/03/2026
+- 🦆 [Sân bay Cát Bi bị ảnh hưởng bởi diều sáo](https://vnexpress.net/san-bay-cat-bi-bi-anh-huong-boi-dieu-sao-5051303.html) - 03:09 17/03/2026
+- 🧰 [4 ôtô tông liên hoàn, một người chết](https://vnexpress.net/4-oto-tong-lien-hoan-mot-nguoi-chet-5051289.html) - 02:21 17/03/2026
+- 🦍 [Nơi an nghỉ của vị vua yểu mệnh nhất triều Nguyễn](https://vnexpress.net/noi-an-nghi-cua-vi-vua-yeu-menh-nhat-trieu-nguyen-5050429.html) - 02:12 17/03/2026
 - 🧰 [Thiết kế nhà ga VIP sân bay Phú Quốc tái hiện vẻ đẹp biển đảo](https://vnexpress.net/thiet-ke-nha-ga-vip-san-bay-phu-quoc-tai-hien-ve-dep-bien-dao-5051205.html) - 17:00 16/03/2026
-- 🦍 [Ông Trần Đăng Quỳnh làm Phó bí thư Tỉnh ủy Ninh Bình](https://vnexpress.net/ong-tran-dang-quynh-lam-pho-bi-thu-tinh-uy-ninh-binh-5051193.html) - 13:27 16/03/2026
+- 💃 [Ông Trần Đăng Quỳnh làm Phó bí thư Tỉnh ủy Ninh Bình](https://vnexpress.net/ong-tran-dang-quynh-lam-pho-bi-thu-tinh-uy-ninh-binh-5051193.html) - 13:27 16/03/2026
 - 🧰 [Thêm chuyến bay từ Việt Nam đến Trung Đông](https://vnexpress.net/them-chuyen-bay-tu-viet-nam-den-trung-dong-5051070.html) - 12:00 16/03/2026
-- 💃 [Đường sắt qua đèo Hải Vân hoạt động trở lại](https://vnexpress.net/duong-sat-qua-deo-hai-van-hoat-dong-tro-lai-5050916.html) - 11:56 16/03/2026
-- 🧰 [Chủ tịch Quốc hội: Không có địa phương nào phải bầu lại](https://vnexpress.net/chu-tich-quoc-hoi-khong-co-dia-phuong-nao-phai-bau-lai-5051181.html) - 11:35 16/03/2026
-- 🚀 [Hạ khối đá 15 tấn chênh vênh trên đèo Bảo Lộc](https://vnexpress.net/ha-khoi-da-15-tan-chenh-venh-tren-deo-bao-loc-5051173.html) - 11:06 16/03/2026
-- 🎊 [Bộ Chính trị yêu cầu tổng rà soát hệ thống văn bản quy phạm pháp luật](https://vnexpress.net/bo-chinh-tri-yeu-cau-tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-5051051.html) - 10:28 16/03/2026
-- 🤭 [Hải quân Việt Nam - Trung Quốc lần đầu tập bắn đạn thật chống cướp biển](https://vnexpress.net/hai-quan-viet-nam-trung-quoc-lan-dau-tap-ban-dan-that-chong-cuop-bien-5051120.html) - 10:16 16/03/2026
-- 🤗 [4 chuyến bay đến Cát Bi phải chuyển hướng hạ cánh do UAV](https://vnexpress.net/4-chuyen-bay-den-cat-bi-phai-chuyen-huong-ha-canh-do-uav-5051147.html) - 10:13 16/03/2026
-- 🌈 [Thứ trưởng Tài chính làm Phó bí thư Thành ủy Hải Phòng](https://vnexpress.net/thu-truong-tai-chinh-lam-pho-bi-thu-thanh-uy-hai-phong-5051084.html) - 09:37 16/03/2026
-- 🦣 [Hai người bị điện giật tử vong khi di dời giàn khoan](https://vnexpress.net/hai-nguoi-bi-dien-giat-tu-vong-khi-di-doi-gian-khoan-5051102.html) - 08:56 16/03/2026
-- 🎡 [Nam du khách Trung Quốc bay flycam trái phép ở Đà Nẵng](https://vnexpress.net/nam-du-khach-trung-quoc-bay-flycam-trai-phep-o-da-nang-5051090.html) - 08:42 16/03/2026
-- 🦏 [Nghệ An dự kiến xây trung tâm hành chính hơn 4.200 tỷ đồng](https://vnexpress.net/nghe-an-du-kien-xay-trung-tam-hanh-chinh-hon-4-200-ty-dong-5050972.html) - 08:35 16/03/2026
-- 🎊 [Ngã nhào vì bùn đất trên phố Hà Nội](https://vnexpress.net/nga-nhao-vi-bun-dat-tren-pho-ha-noi-5051005.html) - 07:41 16/03/2026
-- 🫶 [Đưa hai Thánh giá 400 kg mạ vàng lên đỉnh Nhà thờ Đức Bà](https://vnexpress.net/dua-hai-thanh-gia-400-kg-ma-vang-len-dinh-nha-tho-duc-ba-5050992.html) - 06:47 16/03/2026
-- 🤔 [Tổng Bí thư Tô Lâm: Hải Phòng phải hướng tới siêu đô thị biển tầm cỡ thế giới](https://vnexpress.net/tong-bi-thu-to-lam-hai-phong-phai-huong-toi-sieu-do-thi-bien-tam-co-the-gioi-5050983.html) - 05:30 16/03/2026
-- 🤠 [Căn hộ chung cư ở Hà Nội cháy lúc rạng sáng](https://vnexpress.net/can-ho-chung-cu-o-ha-noi-chay-luc-rang-sang-5050930.html) - 04:03 16/03/2026
-- 🌜 [Hoàn tất kiểm phiếu bầu cử trong 24 giờ](https://vnexpress.net/hoan-tat-kiem-phieu-bau-cu-trong-24-gio-5050748.html) - 03:57 16/03/2026
-- 🕯 [99,68% cử tri cả nước tham gia bỏ phiếu](https://vnexpress.net/99-68-cu-tri-ca-nuoc-tham-gia-bo-phieu-5050883.html) - 03:11 16/03/2026
-- 🤔 [Cứu 5 người kẹt trong nhà cháy ở trung tâm TP HCM](https://vnexpress.net/cuu-5-nguoi-ket-trong-nha-chay-o-trung-tam-tp-hcm-5050855.html) - 02:29 16/03/2026
-- 🏊 [Tỷ lệ cử tri đi bỏ phiếu đạt 99,38%](https://vnexpress.net/ty-le-cu-tri-di-bo-phieu-dat-99-38-5050731.html) - 15:25 15/03/2026
-- 🌮 [Nguyên Phó chủ tịch nước Nguyễn Thị Bình muốn chọn đại biểu chất lượng](https://vnexpress.net/nguyen-pho-chu-tich-nuoc-nguyen-thi-binh-muon-chon-dai-bieu-chat-luong-5050721.html) - 14:29 15/03/2026
-- 🫣 [Miền Bắc dứt mưa từ 17/3, trời chuyển nắng](https://vnexpress.net/mien-bac-dut-mua-tu-17-3-troi-chuyen-nang-5050709.html) - 13:22 15/03/2026
-- ⚗️ [Cụ bà 116 tuổi và nhiều cử tri trăm tuổi tham gia bầu cử](https://vnexpress.net/cu-ba-116-tuoi-va-nhieu-cu-tri-tram-tuoi-tham-gia-bau-cu-5050677.html) - 10:28 15/03/2026
-- 🌜 [Hơn 93% cử tri cả nước đã bỏ phiếu sau 9 giờ](https://vnexpress.net/hon-93-cu-tri-ca-nuoc-da-bo-phieu-sau-9-gio-5050652.html) - 07:59 15/03/2026
-- 🌁 [Cháy căn hộ chung cư 25 tầng ở TP HCM](https://vnexpress.net/chay-can-ho-chung-cu-25-tang-o-tp-hcm-5050638.html) - 06:00 15/03/2026
-- 🐲 [Những điểm bỏ phiếu đặc biệt](https://vnexpress.net/nhung-diem-bo-phieu-dac-biet-5050577.html) - 04:42 15/03/2026
-- ⛽️ [Nhiều nhân viên khối FDI nghỉ việc đi học tiếng Trung](https://vnexpress.net/nhieu-nhan-vien-khoi-fdi-nghi-viec-di-hoc-tieng-trung-5050190.html) - 04:21 15/03/2026
-- 🗽 [Cao tốc Hậu Giang - Cà Mau dự kiến dừng khai thác một tháng](https://vnexpress.net/cao-toc-hau-giang-ca-mau-du-kien-dung-khai-thac-mot-thang-5050592.html) - 03:04 15/03/2026
-- 🔥 [Lãnh đạo Đảng, Nhà nước đi bỏ phiếu](https://vnexpress.net/lanh-dao-dang-nha-nuoc-di-bo-phieu-5050583.html) - 02:59 15/03/2026
-- 💯 [Bố trí xe đưa đón và bữa sáng cho cử tri người Chứt](https://vnexpress.net/bo-tri-xe-dua-don-va-bua-sang-cho-cu-tri-nguoi-chut-5050587.html) - 02:42 15/03/2026
-- 🦆 [Tổng Bí thư: Bầu cử để chọn người quyết định các vấn đề quan trọng của đất nước](https://vnexpress.net/tong-bi-thu-bau-cu-de-chon-nguoi-quyet-dinh-cac-van-de-quan-trong-cua-dat-nuoc-5050572.html) - 01:37 15/03/2026
-- 🫣 [Nhiều nơi vượt 70% cử tri đi bầu trong buổi sáng](https://vnexpress.net/cu-tri-ca-nuoc-bo-phieu-bau-nguoi-dai-dien-5050485.html) - 23:30 14/03/2026
-- 🤡 [Hôm nay 79 triệu cử tri đi bầu cử](https://vnexpress.net/hom-nay-79-trieu-cu-tri-di-bau-cu-5050513.html) - 17:00 14/03/2026<!-- vnexpress-thoi-su:END -->
+- 🚀 [Đường sắt qua đèo Hải Vân hoạt động trở lại](https://vnexpress.net/duong-sat-qua-deo-hai-van-hoat-dong-tro-lai-5050916.html) - 11:56 16/03/2026
+- 🎊 [Chủ tịch Quốc hội: Không có địa phương nào phải bầu lại](https://vnexpress.net/chu-tich-quoc-hoi-khong-co-dia-phuong-nao-phai-bau-lai-5051181.html) - 11:35 16/03/2026
+- 🤭 [Hạ khối đá 15 tấn chênh vênh trên đèo Bảo Lộc](https://vnexpress.net/ha-khoi-da-15-tan-chenh-venh-tren-deo-bao-loc-5051173.html) - 11:06 16/03/2026
+- 🤗 [Bộ Chính trị yêu cầu tổng rà soát hệ thống văn bản quy phạm pháp luật](https://vnexpress.net/bo-chinh-tri-yeu-cau-tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-5051051.html) - 10:28 16/03/2026
+- 🌈 [Hải quân Việt Nam - Trung Quốc lần đầu tập bắn đạn thật chống cướp biển](https://vnexpress.net/hai-quan-viet-nam-trung-quoc-lan-dau-tap-ban-dan-that-chong-cuop-bien-5051120.html) - 10:16 16/03/2026
+- 🦣 [4 chuyến bay đến Cát Bi phải chuyển hướng hạ cánh do UAV](https://vnexpress.net/4-chuyen-bay-den-cat-bi-phai-chuyen-huong-ha-canh-do-uav-5051147.html) - 10:13 16/03/2026
+- 🎡 [Thứ trưởng Tài chính làm Phó bí thư Thành ủy Hải Phòng](https://vnexpress.net/thu-truong-tai-chinh-lam-pho-bi-thu-thanh-uy-hai-phong-5051084.html) - 09:37 16/03/2026
+- 🦏 [Hai người bị điện giật tử vong khi di dời giàn khoan](https://vnexpress.net/hai-nguoi-bi-dien-giat-tu-vong-khi-di-doi-gian-khoan-5051102.html) - 08:56 16/03/2026
+- 🎊 [Nam du khách Trung Quốc bay flycam trái phép ở Đà Nẵng](https://vnexpress.net/nam-du-khach-trung-quoc-bay-flycam-trai-phep-o-da-nang-5051090.html) - 08:42 16/03/2026
+- 🫶 [Nghệ An dự kiến xây trung tâm hành chính hơn 4.200 tỷ đồng](https://vnexpress.net/nghe-an-du-kien-xay-trung-tam-hanh-chinh-hon-4-200-ty-dong-5050972.html) - 08:35 16/03/2026
+- 🤔 [Ngã nhào vì bùn đất trên phố Hà Nội](https://vnexpress.net/nga-nhao-vi-bun-dat-tren-pho-ha-noi-5051005.html) - 07:41 16/03/2026
+- 🤠 [Đưa hai Thánh giá 400 kg mạ vàng lên đỉnh Nhà thờ Đức Bà](https://vnexpress.net/dua-hai-thanh-gia-400-kg-ma-vang-len-dinh-nha-tho-duc-ba-5050992.html) - 06:47 16/03/2026
+- 🌜 [Tổng Bí thư Tô Lâm: Hải Phòng phải hướng tới siêu đô thị biển tầm cỡ thế giới](https://vnexpress.net/tong-bi-thu-to-lam-hai-phong-phai-huong-toi-sieu-do-thi-bien-tam-co-the-gioi-5050983.html) - 05:30 16/03/2026
+- 🕯 [Căn hộ chung cư ở Hà Nội cháy lúc rạng sáng](https://vnexpress.net/can-ho-chung-cu-o-ha-noi-chay-luc-rang-sang-5050930.html) - 04:03 16/03/2026
+- 🤔 [Hoàn tất kiểm phiếu bầu cử trong 24 giờ](https://vnexpress.net/hoan-tat-kiem-phieu-bau-cu-trong-24-gio-5050748.html) - 03:57 16/03/2026
+- 🏊 [99,68% cử tri cả nước tham gia bỏ phiếu](https://vnexpress.net/99-68-cu-tri-ca-nuoc-tham-gia-bo-phieu-5050883.html) - 03:11 16/03/2026
+- 🌮 [Cứu 5 người kẹt trong nhà cháy ở trung tâm TP HCM](https://vnexpress.net/cuu-5-nguoi-ket-trong-nha-chay-o-trung-tam-tp-hcm-5050855.html) - 02:29 16/03/2026
+- 🫣 [Tỷ lệ cử tri đi bỏ phiếu đạt 99,38%](https://vnexpress.net/ty-le-cu-tri-di-bo-phieu-dat-99-38-5050731.html) - 15:25 15/03/2026
+- ⚗️ [Nguyên Phó chủ tịch nước Nguyễn Thị Bình muốn chọn đại biểu chất lượng](https://vnexpress.net/nguyen-pho-chu-tich-nuoc-nguyen-thi-binh-muon-chon-dai-bieu-chat-luong-5050721.html) - 14:29 15/03/2026
+- 🌜 [Miền Bắc dứt mưa từ 17/3, trời chuyển nắng](https://vnexpress.net/mien-bac-dut-mua-tu-17-3-troi-chuyen-nang-5050709.html) - 13:22 15/03/2026
+- 🌁 [Cụ bà 116 tuổi và nhiều cử tri trăm tuổi tham gia bầu cử](https://vnexpress.net/cu-ba-116-tuoi-va-nhieu-cu-tri-tram-tuoi-tham-gia-bau-cu-5050677.html) - 10:28 15/03/2026
+- 🐲 [Hơn 93% cử tri cả nước đã bỏ phiếu sau 9 giờ](https://vnexpress.net/hon-93-cu-tri-ca-nuoc-da-bo-phieu-sau-9-gio-5050652.html) - 07:59 15/03/2026
+- ⛽️ [Cháy căn hộ chung cư 25 tầng ở TP HCM](https://vnexpress.net/chay-can-ho-chung-cu-25-tang-o-tp-hcm-5050638.html) - 06:00 15/03/2026
+- 🗽 [Những điểm bỏ phiếu đặc biệt](https://vnexpress.net/nhung-diem-bo-phieu-dac-biet-5050577.html) - 04:42 15/03/2026
+- 🔥 [Nhiều nhân viên khối FDI nghỉ việc đi học tiếng Trung](https://vnexpress.net/nhieu-nhan-vien-khoi-fdi-nghi-viec-di-hoc-tieng-trung-5050190.html) - 04:21 15/03/2026
+- 💯 [Cao tốc Hậu Giang - Cà Mau dự kiến dừng khai thác một tháng](https://vnexpress.net/cao-toc-hau-giang-ca-mau-du-kien-dung-khai-thac-mot-thang-5050592.html) - 03:04 15/03/2026
+- 🦆 [Lãnh đạo Đảng, Nhà nước đi bỏ phiếu](https://vnexpress.net/lanh-dao-dang-nha-nuoc-di-bo-phieu-5050583.html) - 02:59 15/03/2026
+- 🫣 [Bố trí xe đưa đón và bữa sáng cho cử tri người Chứt](https://vnexpress.net/bo-tri-xe-dua-don-va-bua-sang-cho-cu-tri-nguoi-chut-5050587.html) - 02:42 15/03/2026
+- 🤡 [Tổng Bí thư: Bầu cử để chọn người quyết định các vấn đề quan trọng của đất nước](https://vnexpress.net/tong-bi-thu-bau-cu-de-chon-nguoi-quyet-dinh-cac-van-de-quan-trong-cua-dat-nuoc-5050572.html) - 01:37 15/03/2026<!-- vnexpress-thoi-su:END -->
