@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Elle Fanning thoát hình tượng &#39;bình hoa di động&#39;](https://vnexpress.net/elle-fanning-thoat-hinh-tuong-binh-hoa-di-dong-5050621.html) - 12:36 19/03/2026
-- 💫 [&#39;Bài học diệu kỳ từ chiếc xe rác&#39; - loại bỏ cảm xúc tiêu cực](https://vnexpress.net/bai-hoc-dieu-ky-tu-chiec-xe-rac-loai-bo-cam-xuc-tieu-cuc-5052544.html) - 11:59 19/03/2026
-- 🌮 [Kim Kardashian ngã vì giày &#39;cà kheo&#39;](https://vnexpress.net/kim-kardashian-nga-vi-giay-ca-kheo-5052520.html) - 11:22 19/03/2026
-- 🧠 [Tiết mục &#39;Tiếng trống Mê Linh&#39; của cháu gái Vũ Linh bị tuýt còi](https://vnexpress.net/tiet-muc-tieng-trong-me-linh-cua-chau-gai-vu-linh-bi-tuyt-coi-5052492.html) - 09:49 19/03/2026
-- 👨‍🏫 [Mốt đeo trang sức của Harper Beckham](https://vnexpress.net/mot-deo-trang-suc-cua-harper-beckham-5052305.html) - 08:59 19/03/2026
-- ⚗️ [Váy áo cắt xẻ, xuyên thấu của sao &#39;Squid Game&#39;](https://vnexpress.net/vay-ao-cat-xe-xuyen-thau-cua-sao-squid-game-5052195.html) - 04:45 19/03/2026
-- 😎 [AI tái tạo hình ảnh tài tử Val Kilmer](https://vnexpress.net/ai-tai-tao-hinh-anh-tai-tu-val-kilmer-5052197.html) - 04:20 19/03/2026
-- 🫣 [&#39;Doãn Chí Bình&#39; Trần Khải Thái: Vợ cứu tôi vượt trầm cảm](https://vnexpress.net/doan-chi-binh-tran-khai-thai-vo-cuu-toi-vuot-tram-cam-5052290.html) - 03:47 19/03/2026
-- 🪄 [Sức hút của Scarlett Johansson - nữ diễn viên kiếm tiền giỏi nhất 2025](https://vnexpress.net/suc-hut-cua-scarlett-johansson-nu-dien-vien-kiem-tien-gioi-nhat-2025-5051747.html) - 03:27 19/03/2026
-- 🤓 [Lý do &#39;One Battle After Another&#39; thắng Phim hay nhất Oscar](https://vnexpress.net/ly-do-one-battle-after-another-thang-phim-hay-nhat-oscar-5051595.html) - 03:20 19/03/2026
-- 🫶 [Tái diễn vở ballet đương đại &#39;Dó&#39;](https://vnexpress.net/tai-dien-vo-ballet-duong-dai-do-5051657.html) - 02:26 19/03/2026
-- 🧑‍🏫 [7 kiểu áo có thể khiến bạn trông già đi](https://vnexpress.net/7-kieu-ao-co-the-khien-ban-trong-gia-di-5052101.html) - 02:19 19/03/2026
-- 🦄 [Chuyện tình của Leonardo DiCaprio và siêu mẫu 28 tuổi](https://vnexpress.net/chuyen-tinh-cua-leonardo-dicaprio-va-sieu-mau-28-tuoi-5051730.html) - 17:00 18/03/2026
-- 💫 [&#39;Golden&#39; - bản Kpop làm nên lịch sử ở Oscar](https://vnexpress.net/golden-ban-kpop-lam-nen-lich-su-o-oscar-5051156.html) - 12:00 18/03/2026
-- 🎊 [Nhạc sĩ Minh Khang xin lỗi sau khi khiếm nhã với tài xế](https://vnexpress.net/nhac-si-minh-khang-xin-loi-sau-khi-khiem-nha-voi-tai-xe-5052006.html) - 10:02 18/03/2026
-- 👹 [Chồng diễn viên &#39;Bích huyết kiếm&#39; bị phạt tù vì tội hiếp dâm](https://vnexpress.net/chong-dien-vien-bich-huyet-kiem-bi-phat-tu-vi-toi-hiep-dam-5051977.html) - 09:01 18/03/2026
-- 💻 [Vĩnh Đam thừa nhận diễn đơ](https://vnexpress.net/vinh-dam-thua-nhan-dien-do-5051744.html) - 07:20 18/03/2026
-- 🤡 [Video AI mô phỏng biểu cảm Trương Mạn Ngọc gây chú ý](https://vnexpress.net/video-ai-mo-phong-bieu-cam-truong-man-ngoc-gay-chu-y-5051734.html) - 04:55 18/03/2026
-- 🥰 [Bức chân dung ngư dân Hội An thắng giải nhiếp ảnh của Anh](https://vnexpress.net/buc-chan-dung-ngu-dan-hoi-an-thang-giai-nhiep-anh-cua-anh-5051782.html) - 04:10 18/03/2026
-- 🚀 [Thái Hòa: &#39;Tôi kiệt sức vì cảnh hành động&#39;](https://vnexpress.net/thai-hoa-toi-kiet-suc-vi-canh-hanh-dong-5051165.html) - 03:37 18/03/2026
-- 📝 [&#39;Hãy chăm sóc mẹ&#39;](https://vnexpress.net/hay-cham-soc-me-5051655.html) - 00:44 18/03/2026
-- 🐲 [Giới làm phim ngắn trở tay không kịp vì &#39;cơn lốc&#39; AI](https://vnexpress.net/gioi-lam-phim-ngan-tro-tay-khong-kip-vi-con-loc-ai-5051280.html) - 17:00 17/03/2026
-- 🎃 [Gwyneth Paltrow gây tranh cãi khi diện váy xẻ cao](https://vnexpress.net/gwyneth-paltrow-gay-tranh-cai-khi-dien-vay-xe-cao-5051630.html) - 14:56 17/03/2026
-- 🤠 [Đạo diễn hoạt hình &#39;Doraemon&#39; qua đời](https://vnexpress.net/dao-dien-hoat-hinh-doraemon-qua-doi-5051624.html) - 13:24 17/03/2026
-- 🎭 [Thời trang cường điệu trong phim &#39;Đồi gió hú&#39;](https://vnexpress.net/thoi-trang-cuong-dieu-trong-phim-doi-gio-hu-5045740.html) - 12:00 17/03/2026
-- 🧰 [Trang phục dạo biển của mỹ nhân &#39;Bên nhau trọn đời&#39;](https://vnexpress.net/trang-phuc-dao-bien-cua-my-nhan-ben-nhau-tron-doi-5049924.html) - 09:46 17/03/2026
-- 🦍 [&#39;Gái nhảy&#39; Minh Thư tái xuất](https://vnexpress.net/gai-nhay-minh-thu-tai-xuat-5051427.html) - 07:30 17/03/2026
-- 🌝 [Khán giả bức xúc khi Oscar cắt phát biểu của êkíp &#39;Kpop Demon Hunters&#39;](https://vnexpress.net/khan-gia-buc-xuc-khi-oscar-cat-phat-bieu-cua-ekip-kpop-demon-hunters-5051308.html) - 06:09 17/03/2026
-- 🧑‍💻 [Váy của nhà thiết kế Đỗ Long lên sân khấu Oscar](https://vnexpress.net/vay-cua-nha-thiet-ke-do-long-len-san-khau-oscar-5051335.html) - 04:39 17/03/2026
-- 🥸 [Dàn &#39;anh trai, em xinh&#39; khuấy động concert](https://vnexpress.net/dan-anh-trai-em-xinh-khuay-dong-concert-5051337.html) - 03:52 17/03/2026
-- 🔥 [Chồng ca nương Kiều Anh đóng MV](https://vnexpress.net/chong-ca-nuong-kieu-anh-dong-mv-5049343.html) - 02:49 17/03/2026
-- 🐎 [Oscar 2026 nỗ lực trẻ hóa](https://vnexpress.net/oscar-2026-no-luc-tre-hoa-5051017.html) - 17:00 16/03/2026
-- 😎 [6 năm &#39;yêu không cần cưới&#39; của Lệ Quyên, Lâm Bảo Châu](https://vnexpress.net/6-nam-yeu-khong-can-cuoi-cua-le-quyen-lam-bao-chau-5050920.html) - 17:00 16/03/2026
-- 🦄 [Những ngôi sao mặc đẹp nhất Oscar 2026](https://vnexpress.net/nhung-ngoi-sao-mac-dep-nhat-oscar-2026-5051115.html) - 12:00 16/03/2026
-- 🌜 [Vợ tỷ phú Jeff Bezos mặc gợi cảm bên dàn sao ở tiệc hậu Oscar](https://vnexpress.net/vo-ty-phu-jeff-bezos-mac-goi-cam-ben-dan-sao-o-tiec-hau-oscar-5051011.html) - 09:25 16/03/2026
-- 🚦 [&#39;Nàng Bạch Tuyết&#39; bị trao hai giải Mâm Xôi Vàng](https://vnexpress.net/nang-bach-tuyet-bi-trao-hai-giai-mam-xoi-vang-5050958.html) - 08:49 16/03/2026
-- 🧐 [Vợ cũ nói &#39;tủi nhục&#39; trong hôn nhân với Mã Cảnh Đào](https://vnexpress.net/vo-cu-noi-tui-nhuc-trong-hon-nhan-voi-ma-canh-dao-5050813.html) - 08:19 16/03/2026
-- 🐵 [Fan mang chăn, chiếu ngủ qua đêm chờ xem &#39;Anh trai say hi&#39;](https://vnexpress.net/fan-mang-chan-chieu-ngu-qua-dem-cho-xem-anh-trai-say-hi-5050885.html) - 04:00 16/03/2026
-- ⚗️ [Những bộ cánh &#39;thảm họa&#39; ở Oscar 2026](https://vnexpress.net/nhung-bo-canh-tham-hoa-o-oscar-2026-5050833.html) - 03:28 16/03/2026
-- 👺 [Leonardo DiCaprio đưa bạn gái đến Oscar](https://vnexpress.net/leonardo-dicaprio-dua-ban-gai-den-oscar-5050830.html) - 02:19 16/03/2026
-- 🌊 [&#39;Kpop Demon Hunters&#39; ghi dấu ấn văn hóa Hàn ở Oscar](https://vnexpress.net/kpop-demon-hunters-ghi-dau-an-van-hoa-han-o-oscar-5050794.html) - 01:31 16/03/2026
-- 🪜 [Người thân tiễn biệt Kasim Hoàng Vũ](https://vnexpress.net/nguoi-than-tien-biet-kasim-hoang-vu-5050758.html) - 01:01 16/03/2026
-- 🕴 [Giấc mơ đẹp với &#39;Đảo ngàn sao&#39;](https://vnexpress.net/giac-mo-dep-voi-dao-ngan-sao-5050716.html) - 00:12 16/03/2026
-- 💃 [Mỹ nhân Hollywood hội tụ trên thảm đỏ Oscar](https://vnexpress.net/my-nhan-hollywood-hoi-tu-tren-tham-do-oscar-5050761.html) - 23:06 15/03/2026
-- 🦄 [&#39;One Battle After Another&#39; của Leonardo Dicaprio - phim hay nhất Oscar 2026](https://vnexpress.net/le-trao-giai-oscar-2026-5050615-tong-thuat.html) - 22:56 15/03/2026
-- ⛽️ [Lan Phương: &#39;Tôi tự chữa lành sau ly hôn&#39;](https://vnexpress.net/lan-phuong-toi-tu-chua-lanh-sau-ly-hon-5050156.html) - 17:00 15/03/2026
-- 😎 [Brooklyn Beckham dự sinh nhật mẹ vợ](https://vnexpress.net/brooklyn-beckham-du-sinh-nhat-me-vo-5050705.html) - 14:49 15/03/2026
-- 🌊 [Sao ngoại theo đuổi họa tiết da báo](https://vnexpress.net/sao-ngoai-theo-duoi-hoa-tiet-da-bao-5050665.html) - 14:00 15/03/2026
-- 🐲 [Cô gái Ê đê đóng MV của Hiếu Thứ Hai](https://vnexpress.net/co-gai-e-de-dong-mv-cua-hieu-thu-hai-5050676.html) - 12:00 15/03/2026
-- 💂 [Sách nghiên cứu về nam tính](https://vnexpress.net/sach-nghien-cuu-ve-nam-tinh-5050694.html) - 11:10 15/03/2026
-- 🙉 [Lan Phương tái xuất với vai lập dị](https://vnexpress.net/lan-phuong-tai-xuat-voi-vai-lap-di-5050647.html) - 10:29 15/03/2026
-- 💪 [Sức hút của người mẫu gốc Hàn cao 1,78 m](https://vnexpress.net/suc-hut-cua-nguoi-mau-goc-han-cao-1-78-m-5046321.html) - 08:37 15/03/2026
-- 👍 [Thảm đỏ Oscar - &#39;cỗ máy&#39; tiếp thị thời trang quyền lực](https://vnexpress.net/tham-do-oscar-co-may-tiep-thi-thoi-trang-quyen-luc-5050611.html) - 07:52 15/03/2026
-- 💪 [Dàn &#39;Anh trai say hi&#39; mùa hai hóa trang hài hước](https://vnexpress.net/dan-anh-trai-say-hi-mua-hai-hoa-trang-hai-huoc-5050612.html) - 06:59 15/03/2026
-- 💄 [Oscar 2026 siết chặt an ninh trước giờ G](https://vnexpress.net/oscar-2026-siet-chat-an-ninh-truoc-gio-g-5050596.html) - 05:05 15/03/2026
-- 🦩 [Nhóm Quả Dưa Hấu gợi ký ức âm nhạc thập niên 1990](https://vnexpress.net/nhom-qua-dua-hau-goi-ky-uc-am-nhac-thap-nien-1990-5050594.html) - 04:17 15/03/2026
-- 🥸 [&#39;Bugonia&#39; - hoài nghi về thế giới](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bugonia-886) - 02:57 15/03/2026
-- 🧰 [Người đẹp Gen Z gây chú ý trong phim 18+](https://vnexpress.net/nguoi-dep-gen-z-gay-chu-y-trong-phim-18-5050114.html) - 01:05 15/03/2026
-- 💼 [10 diễn viên có thu nhập cao nhất năm 2025](https://vnexpress.net/10-dien-vien-co-thu-nhap-cao-nhat-nam-2025-5050383.html) - 17:00 14/03/2026
-- 🧑‍💻 [Mỹ Tâm, Mai Tài Phến gây &#39;sốt&#39; khi thể hiện tình cảm](https://vnexpress.net/my-tam-mai-tai-phen-gay-sot-khi-the-hien-tinh-cam-5050495.html) - 14:17 14/03/2026<!-- vnexpress-giai-tri:END -->
+- 🌏 [Diện quần ngủ dạo phố theo phong cách nhà giàu](https://vnexpress.net/dien-quan-ngu-dao-pho-theo-phong-cach-nha-giau-5050693.html) - 14:31 19/03/2026
+- 💫 [Elle Fanning thoát hình tượng &#39;bình hoa di động&#39;](https://vnexpress.net/elle-fanning-thoat-hinh-tuong-binh-hoa-di-dong-5050621.html) - 12:36 19/03/2026
+- 🌮 [&#39;Bài học diệu kỳ từ chiếc xe rác&#39; - loại bỏ cảm xúc tiêu cực](https://vnexpress.net/bai-hoc-dieu-ky-tu-chiec-xe-rac-loai-bo-cam-xuc-tieu-cuc-5052544.html) - 11:59 19/03/2026
+- 🧠 [Kim Kardashian ngã vì giày &#39;cà kheo&#39;](https://vnexpress.net/kim-kardashian-nga-vi-giay-ca-kheo-5052520.html) - 11:22 19/03/2026
+- 👨‍🏫 [Tiết mục &#39;Tiếng trống Mê Linh&#39; của cháu gái Vũ Linh bị tuýt còi](https://vnexpress.net/tiet-muc-tieng-trong-me-linh-cua-chau-gai-vu-linh-bi-tuyt-coi-5052492.html) - 09:49 19/03/2026
+- ⚗️ [Mốt đeo trang sức của Harper Beckham](https://vnexpress.net/mot-deo-trang-suc-cua-harper-beckham-5052305.html) - 08:59 19/03/2026
+- 😎 [Váy áo cắt xẻ, xuyên thấu của sao &#39;Squid Game&#39;](https://vnexpress.net/vay-ao-cat-xe-xuyen-thau-cua-sao-squid-game-5052195.html) - 04:45 19/03/2026
+- 🫣 [AI tái tạo hình ảnh tài tử Val Kilmer](https://vnexpress.net/ai-tai-tao-hinh-anh-tai-tu-val-kilmer-5052197.html) - 04:20 19/03/2026
+- 🪄 [&#39;Doãn Chí Bình&#39; Trần Khải Thái: Vợ cứu tôi vượt trầm cảm](https://vnexpress.net/doan-chi-binh-tran-khai-thai-vo-cuu-toi-vuot-tram-cam-5052290.html) - 03:47 19/03/2026
+- 🤓 [Sức hút của Scarlett Johansson - nữ diễn viên kiếm tiền giỏi nhất 2025](https://vnexpress.net/suc-hut-cua-scarlett-johansson-nu-dien-vien-kiem-tien-gioi-nhat-2025-5051747.html) - 03:27 19/03/2026
+- 🫶 [Lý do &#39;One Battle After Another&#39; thắng Phim hay nhất Oscar](https://vnexpress.net/ly-do-one-battle-after-another-thang-phim-hay-nhat-oscar-5051595.html) - 03:20 19/03/2026
+- 🧑‍🏫 [Tái diễn vở ballet đương đại &#39;Dó&#39;](https://vnexpress.net/tai-dien-vo-ballet-duong-dai-do-5051657.html) - 02:26 19/03/2026
+- 🦄 [7 kiểu áo có thể khiến bạn trông già đi](https://vnexpress.net/7-kieu-ao-co-the-khien-ban-trong-gia-di-5052101.html) - 02:19 19/03/2026
+- 💫 [Chuyện tình của Leonardo DiCaprio và siêu mẫu 28 tuổi](https://vnexpress.net/chuyen-tinh-cua-leonardo-dicaprio-va-sieu-mau-28-tuoi-5051730.html) - 17:00 18/03/2026
+- 🎊 [&#39;Golden&#39; - bản Kpop làm nên lịch sử ở Oscar](https://vnexpress.net/golden-ban-kpop-lam-nen-lich-su-o-oscar-5051156.html) - 12:00 18/03/2026
+- 👹 [Nhạc sĩ Minh Khang xin lỗi sau khi khiếm nhã với tài xế](https://vnexpress.net/nhac-si-minh-khang-xin-loi-sau-khi-khiem-nha-voi-tai-xe-5052006.html) - 10:02 18/03/2026
+- 💻 [Chồng diễn viên &#39;Bích huyết kiếm&#39; bị phạt tù vì tội hiếp dâm](https://vnexpress.net/chong-dien-vien-bich-huyet-kiem-bi-phat-tu-vi-toi-hiep-dam-5051977.html) - 09:01 18/03/2026
+- 🤡 [Vĩnh Đam thừa nhận diễn đơ](https://vnexpress.net/vinh-dam-thua-nhan-dien-do-5051744.html) - 07:20 18/03/2026
+- 🥰 [Video AI mô phỏng biểu cảm Trương Mạn Ngọc gây chú ý](https://vnexpress.net/video-ai-mo-phong-bieu-cam-truong-man-ngoc-gay-chu-y-5051734.html) - 04:55 18/03/2026
+- 🚀 [Bức chân dung ngư dân Hội An thắng giải nhiếp ảnh của Anh](https://vnexpress.net/buc-chan-dung-ngu-dan-hoi-an-thang-giai-nhiep-anh-cua-anh-5051782.html) - 04:10 18/03/2026
+- 📝 [Thái Hòa: &#39;Tôi kiệt sức vì cảnh hành động&#39;](https://vnexpress.net/thai-hoa-toi-kiet-suc-vi-canh-hanh-dong-5051165.html) - 03:37 18/03/2026
+- 🐲 [&#39;Hãy chăm sóc mẹ&#39;](https://vnexpress.net/hay-cham-soc-me-5051655.html) - 00:44 18/03/2026
+- 🎃 [Giới làm phim ngắn trở tay không kịp vì &#39;cơn lốc&#39; AI](https://vnexpress.net/gioi-lam-phim-ngan-tro-tay-khong-kip-vi-con-loc-ai-5051280.html) - 17:00 17/03/2026
+- 🤠 [Gwyneth Paltrow gây tranh cãi khi diện váy xẻ cao](https://vnexpress.net/gwyneth-paltrow-gay-tranh-cai-khi-dien-vay-xe-cao-5051630.html) - 14:56 17/03/2026
+- 🎭 [Đạo diễn hoạt hình &#39;Doraemon&#39; qua đời](https://vnexpress.net/dao-dien-hoat-hinh-doraemon-qua-doi-5051624.html) - 13:24 17/03/2026
+- 🧰 [Thời trang cường điệu trong phim &#39;Đồi gió hú&#39;](https://vnexpress.net/thoi-trang-cuong-dieu-trong-phim-doi-gio-hu-5045740.html) - 12:00 17/03/2026
+- 🦍 [Trang phục dạo biển của mỹ nhân &#39;Bên nhau trọn đời&#39;](https://vnexpress.net/trang-phuc-dao-bien-cua-my-nhan-ben-nhau-tron-doi-5049924.html) - 09:46 17/03/2026
+- 🌝 [&#39;Gái nhảy&#39; Minh Thư tái xuất](https://vnexpress.net/gai-nhay-minh-thu-tai-xuat-5051427.html) - 07:30 17/03/2026
+- 🧑‍💻 [Khán giả bức xúc khi Oscar cắt phát biểu của êkíp &#39;Kpop Demon Hunters&#39;](https://vnexpress.net/khan-gia-buc-xuc-khi-oscar-cat-phat-bieu-cua-ekip-kpop-demon-hunters-5051308.html) - 06:09 17/03/2026
+- 🥸 [Váy của nhà thiết kế Đỗ Long lên sân khấu Oscar](https://vnexpress.net/vay-cua-nha-thiet-ke-do-long-len-san-khau-oscar-5051335.html) - 04:39 17/03/2026
+- 🔥 [Dàn &#39;anh trai, em xinh&#39; khuấy động concert](https://vnexpress.net/dan-anh-trai-em-xinh-khuay-dong-concert-5051337.html) - 03:52 17/03/2026
+- 🐎 [Chồng ca nương Kiều Anh đóng MV](https://vnexpress.net/chong-ca-nuong-kieu-anh-dong-mv-5049343.html) - 02:49 17/03/2026
+- 😎 [Oscar 2026 nỗ lực trẻ hóa](https://vnexpress.net/oscar-2026-no-luc-tre-hoa-5051017.html) - 17:00 16/03/2026
+- 🦄 [6 năm &#39;yêu không cần cưới&#39; của Lệ Quyên, Lâm Bảo Châu](https://vnexpress.net/6-nam-yeu-khong-can-cuoi-cua-le-quyen-lam-bao-chau-5050920.html) - 17:00 16/03/2026
+- 🌜 [Những ngôi sao mặc đẹp nhất Oscar 2026](https://vnexpress.net/nhung-ngoi-sao-mac-dep-nhat-oscar-2026-5051115.html) - 12:00 16/03/2026
+- 🚦 [Vợ tỷ phú Jeff Bezos mặc gợi cảm bên dàn sao ở tiệc hậu Oscar](https://vnexpress.net/vo-ty-phu-jeff-bezos-mac-goi-cam-ben-dan-sao-o-tiec-hau-oscar-5051011.html) - 09:25 16/03/2026
+- 🧐 [&#39;Nàng Bạch Tuyết&#39; bị trao hai giải Mâm Xôi Vàng](https://vnexpress.net/nang-bach-tuyet-bi-trao-hai-giai-mam-xoi-vang-5050958.html) - 08:49 16/03/2026
+- 🐵 [Vợ cũ nói &#39;tủi nhục&#39; trong hôn nhân với Mã Cảnh Đào](https://vnexpress.net/vo-cu-noi-tui-nhuc-trong-hon-nhan-voi-ma-canh-dao-5050813.html) - 08:19 16/03/2026
+- ⚗️ [Fan mang chăn, chiếu ngủ qua đêm chờ xem &#39;Anh trai say hi&#39;](https://vnexpress.net/fan-mang-chan-chieu-ngu-qua-dem-cho-xem-anh-trai-say-hi-5050885.html) - 04:00 16/03/2026
+- 👺 [Những bộ cánh &#39;thảm họa&#39; ở Oscar 2026](https://vnexpress.net/nhung-bo-canh-tham-hoa-o-oscar-2026-5050833.html) - 03:28 16/03/2026
+- 🌊 [Leonardo DiCaprio đưa bạn gái đến Oscar](https://vnexpress.net/leonardo-dicaprio-dua-ban-gai-den-oscar-5050830.html) - 02:19 16/03/2026
+- 🪜 [&#39;Kpop Demon Hunters&#39; ghi dấu ấn văn hóa Hàn ở Oscar](https://vnexpress.net/kpop-demon-hunters-ghi-dau-an-van-hoa-han-o-oscar-5050794.html) - 01:31 16/03/2026
+- 🕴 [Người thân tiễn biệt Kasim Hoàng Vũ](https://vnexpress.net/nguoi-than-tien-biet-kasim-hoang-vu-5050758.html) - 01:01 16/03/2026
+- 💃 [Giấc mơ đẹp với &#39;Đảo ngàn sao&#39;](https://vnexpress.net/giac-mo-dep-voi-dao-ngan-sao-5050716.html) - 00:12 16/03/2026
+- 🦄 [Mỹ nhân Hollywood hội tụ trên thảm đỏ Oscar](https://vnexpress.net/my-nhan-hollywood-hoi-tu-tren-tham-do-oscar-5050761.html) - 23:06 15/03/2026
+- ⛽️ [&#39;One Battle After Another&#39; của Leonardo Dicaprio - phim hay nhất Oscar 2026](https://vnexpress.net/le-trao-giai-oscar-2026-5050615-tong-thuat.html) - 22:56 15/03/2026
+- 😎 [Lan Phương: &#39;Tôi tự chữa lành sau ly hôn&#39;](https://vnexpress.net/lan-phuong-toi-tu-chua-lanh-sau-ly-hon-5050156.html) - 17:00 15/03/2026
+- 🌊 [Brooklyn Beckham dự sinh nhật mẹ vợ](https://vnexpress.net/brooklyn-beckham-du-sinh-nhat-me-vo-5050705.html) - 14:49 15/03/2026
+- 🐲 [Sao ngoại theo đuổi họa tiết da báo](https://vnexpress.net/sao-ngoai-theo-duoi-hoa-tiet-da-bao-5050665.html) - 14:00 15/03/2026
+- 💂 [Cô gái Ê đê đóng MV của Hiếu Thứ Hai](https://vnexpress.net/co-gai-e-de-dong-mv-cua-hieu-thu-hai-5050676.html) - 12:00 15/03/2026
+- 🙉 [Sách nghiên cứu về nam tính](https://vnexpress.net/sach-nghien-cuu-ve-nam-tinh-5050694.html) - 11:10 15/03/2026
+- 💪 [Lan Phương tái xuất với vai lập dị](https://vnexpress.net/lan-phuong-tai-xuat-voi-vai-lap-di-5050647.html) - 10:29 15/03/2026
+- 👍 [Sức hút của người mẫu gốc Hàn cao 1,78 m](https://vnexpress.net/suc-hut-cua-nguoi-mau-goc-han-cao-1-78-m-5046321.html) - 08:37 15/03/2026
+- 💪 [Thảm đỏ Oscar - &#39;cỗ máy&#39; tiếp thị thời trang quyền lực](https://vnexpress.net/tham-do-oscar-co-may-tiep-thi-thoi-trang-quyen-luc-5050611.html) - 07:52 15/03/2026
+- 💄 [Dàn &#39;Anh trai say hi&#39; mùa hai hóa trang hài hước](https://vnexpress.net/dan-anh-trai-say-hi-mua-hai-hoa-trang-hai-huoc-5050612.html) - 06:59 15/03/2026
+- 🦩 [Oscar 2026 siết chặt an ninh trước giờ G](https://vnexpress.net/oscar-2026-siet-chat-an-ninh-truoc-gio-g-5050596.html) - 05:05 15/03/2026
+- 🥸 [Nhóm Quả Dưa Hấu gợi ký ức âm nhạc thập niên 1990](https://vnexpress.net/nhom-qua-dua-hau-goi-ky-uc-am-nhac-thap-nien-1990-5050594.html) - 04:17 15/03/2026
+- 🧰 [&#39;Bugonia&#39; - hoài nghi về thế giới](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bugonia-886) - 02:57 15/03/2026
+- 💼 [Người đẹp Gen Z gây chú ý trong phim 18+](https://vnexpress.net/nguoi-dep-gen-z-gay-chu-y-trong-phim-18-5050114.html) - 01:05 15/03/2026
+- 🧑‍💻 [10 diễn viên có thu nhập cao nhất năm 2025](https://vnexpress.net/10-dien-vien-co-thu-nhap-cao-nhat-nam-2025-5050383.html) - 17:00 14/03/2026<!-- vnexpress-giai-tri:END -->
