@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tranh cãi vụ chủ nhà đâm chết &#39;tình địch&#39; gây rối giữa đêm](https://vnexpress.net/tranh-cai-vu-chu-nha-dam-chet-tinh-dich-gay-roi-giua-dem-5052564.html) - 17:00 19/03/2026
-- 🥰 [Chồng mất tích nhiều năm, tài sản vợ phân chia thế nào?](https://vnexpress.net/chong-mat-tich-nhieu-nam-tai-san-vo-chong-phan-chia-the-nao-5051653.html) - 17:00 19/03/2026
-- 🎓 [Công an thu hơn 500 miếng vàng, 41 siêu xe trong vụ án Mr Pips](https://vnexpress.net/cong-an-thu-hon-500-mieng-vang-41-sieu-xe-trong-vu-an-mr-pips-5052577.html) - 13:40 19/03/2026
-- 🤓 [Đâm chết người vì nghĩ bị xem thường &#39;không có tiền uống bia&#39;](https://vnexpress.net/dam-chet-nguoi-vi-nghi-bi-xem-thuong-khong-co-tien-uong-bia-5052522.html) - 10:09 19/03/2026
-- 🎊 [Bộ Công an đề xuất định danh chủ quản, siết trách nhiệm hội nhóm mạng xã hội](https://vnexpress.net/bo-cong-an-de-xuat-dinh-danh-chu-quan-siet-trach-nhiem-hoi-nhom-mang-xa-hoi-5052386.html) - 07:51 19/03/2026
-- 🙉 [Trưởng công an phường và cấp dưới bảo kê tội phạm ma túy](https://vnexpress.net/truong-cong-an-phuong-va-cap-duoi-bao-ke-toi-pham-ma-tuy-5052335.html) - 05:56 19/03/2026
-- 🤡 [Mr Pips &#39;chi lương tháng&#39; 350 triệu đồng cho hai cựu công an tư vấn pháp chế](https://vnexpress.net/mr-pips-chi-luong-thang-350-trieu-dong-cho-hai-cuu-cong-an-tu-van-phap-che-5052239.html) - 04:58 19/03/2026
-- 🗽 [Cựu phi công Hàn Quốc âm mưu trả thù 4 đồng nghiệp cũ](https://vnexpress.net/cuu-phi-cong-han-quoc-am-muu-tra-thu-4-dong-nghiep-cu-5052324.html) - 04:32 19/03/2026
-- 🌋 [Đốt ôtô, máy xúc của hàng xóm vì mâu thuẫn lối đi](https://vnexpress.net/dot-oto-may-xuc-cua-hang-xom-vi-mau-thuan-loi-di-5052280.html) - 03:20 19/03/2026
-- 🎬 [Thiếu tá công an bị người nước ngoài đâm trọng thương ở Mũi Né](https://vnexpress.net/thieu-ta-cong-an-bi-nguoi-nuoc-ngoai-dam-trong-thuong-o-mui-ne-5052261.html) - 03:00 19/03/2026
-- 💯 [Kẻ sát nhân &#39;tự chui đầu vào lưới&#39; sau 15 năm ngỡ thoát tội](https://vnexpress.net/ke-sat-nhan-tu-chui-dau-vao-luoi-sau-15-nam-ngo-thoat-toi-5052140.html) - 17:00 18/03/2026
-- 🌏 [Quên đóng phạt vi phạm giao thông 6 năm, giờ nộp được không?](https://vnexpress.net/quen-dong-phat-vi-pham-giao-thong-6-nam-gio-nop-duoc-khong-5051973.html) - 17:00 18/03/2026
-- 🌊 [Bố mẹ Mr Pips gửi hàng trăm tỷ đồng, mua 314 lượng vàng khi con bị bắt](https://vnexpress.net/bo-me-mr-pips-gui-hang-tram-ty-dong-mua-314-luong-vang-khi-con-bi-bat-5052018.html) - 12:00 18/03/2026
-- 💂 [Khởi tố vụ án chiếm đoạt 40 tỷ đồng liên quan dự án nhà ở xã hội tại Hà Nội](https://vnexpress.net/khoi-to-vu-an-chiem-doat-40-ty-dong-lien-quan-du-an-nha-o-xa-hoi-tai-ha-noi-5052081.html) - 11:05 18/03/2026
-- 🎡 [Bác sĩ hầu tòa vì cắt nhầm động mạch khiến bệnh nhân tử vong](https://vnexpress.net/bac-si-hau-toa-vi-cat-nham-dong-mach-khien-benh-nhan-tu-vong-5051987.html) - 09:47 18/03/2026
-- 🫶 [Vụ án tham nhũng tại ACV vào diện Ban Chỉ đạo Trung ương theo dõi](https://vnexpress.net/vu-an-tham-nhung-tai-acv-vao-dien-ban-chi-dao-trung-uong-theo-doi-5051968.html) - 08:40 18/03/2026
-- 🐲 [Bị bắt vì nhiều lần xâm hại bé gái](https://vnexpress.net/bi-bat-vi-nhieu-lan-xam-hai-be-gai-5051919.html) - 08:27 18/03/2026
-- 🚀 [Shark Bình bị cáo buộc rửa tiền cho Mr Pips qua ví Ngân lượng](https://vnexpress.net/shark-binh-bi-cao-buoc-rua-tien-cho-mr-pips-qua-vi-ngan-luong-5051943.html) - 07:53 18/03/2026
-- 🎊 [Nổ súng chống trả khi bị đối thủ tấn công](https://vnexpress.net/no-sung-chong-tra-khi-bi-doi-thu-tan-cong-5051899.html) - 06:18 18/03/2026
-- 🤗 [Ném đá gây bất tỉnh khi bị ngăn cản tình yêu tuổi trung niên](https://vnexpress.net/nem-da-gay-bat-tinh-khi-bi-ngan-can-tinh-yeu-tuoi-trung-nien-5051791.html) - 06:02 18/03/2026
-- 🗽 [Chém đối thủ tử vong rồi xin vào bệnh viện tâm thần](https://vnexpress.net/chem-doi-thu-tu-vong-roi-xin-vao-benh-vien-tam-than-5051894.html) - 06:02 18/03/2026
-- 🕴 [Cấp chứng chỉ đào tạo lái xe &#39;lụi&#39;, cựu giám đốc bị đề nghị 27-30 năm tù](https://vnexpress.net/cap-chung-chi-dao-tao-lai-xe-lui-cuu-giam-doc-bi-de-nghi-27-30-nam-tu-5051863.html) - 05:54 18/03/2026
-- 🌜 [Doanh nhân tố vợ ăn trộm mật khẩu, đánh cắp 240 triệu USD bitcoin](https://vnexpress.net/doanh-nhan-to-vo-an-trom-mat-khau-danh-cap-240-trieu-usd-bitcoin-5051846.html) - 05:53 18/03/2026
-- 🧑‍🏫 [TikToker Mr Pips bị đề nghị truy tố vì lừa hơn 1.300 tỷ đồng](https://vnexpress.net/tiktoker-mr-pips-bi-de-nghi-truy-to-vi-lua-hon-1-300-ty-dong-5051897.html) - 05:50 18/03/2026
-- 🦩 [Nữ shipper ở TP HCM bị khách đánh tới tấp](https://vnexpress.net/nu-shipper-o-tp-hcm-bi-khach-danh-toi-tap-5051795.html) - 03:35 18/03/2026
-- 💼 [Cựu CEO Quốc Cường Gia Lai Nguyễn Thị Như Loan sắp hầu tòa](https://vnexpress.net/cuu-ceo-quoc-cuong-gia-lai-nguyen-thi-nhu-loan-sap-hau-toa-5051757.html) - 03:01 18/03/2026
-- 💫 [Băng cướp liên tiếp dùng dao khống chế người đi đường](https://vnexpress.net/bang-cuop-lien-tiep-dung-dao-khong-che-nguoi-di-duong-5051669.html) - 01:05 18/03/2026
-- 🦅 [Giấy khai sinh ghi tên người không phải cha ruột, giờ đổi được không?](https://vnexpress.net/giay-khai-sinh-ghi-ten-nguoi-khong-phai-cha-ruot-gio-doi-duoc-khong-5051357.html) - 00:49 18/03/2026
-- 🧑‍💻 [Truy sát vợ khi bị dọa ly hôn](https://vnexpress.net/truy-sat-vo-khi-bi-doa-ly-hon-5051660.html) - 17:00 17/03/2026
-- 💻 [Nữ quan tham &#39;ngã ngựa&#39; vì mê biệt thự trăm tỷ](https://vnexpress.net/nu-quan-tham-nga-ngua-vi-me-biet-thu-tram-ty-5051611.html) - 17:00 17/03/2026
-- 🤠 [Chiêu bốc thăm khiến khách &#39;không bao giờ trúng thưởng&#39;](https://vnexpress.net/chieu-boc-tham-khien-khach-khong-bao-gio-trung-thuong-5051469.html) - 17:00 17/03/2026
-- 🧑‍🏫 [Tài xế xe tải dùng ma tuý, gây tai nạn liên hoàn](https://vnexpress.net/tai-xe-xe-tai-dung-ma-tuy-gay-tai-nan-lien-hoan-5051637.html) - 14:19 17/03/2026
-- 🌈 [Giả bác sĩ tư vấn, điều trị tóc cho hàng loạt khách hàng](https://vnexpress.net/gia-bac-si-tu-van-dieu-tri-toc-cho-hang-loat-khach-hang-5051635.html) - 14:01 17/03/2026
-- 🌮 [Bà lão cầm dao chống trả tên cướp ở ngoài đồng](https://vnexpress.net/ba-lao-cam-dao-chong-tra-ten-cuop-o-ngoai-dong-5051598.html) - 13:14 17/03/2026
-- 🐲 [Nhóm &#39;cò đất&#39; làm khống hồ sơ mua nhà ở xã hội cho khách hàng](https://vnexpress.net/nhom-co-dat-lam-khong-ho-so-mua-nha-o-xa-hoi-cho-khach-hang-5051603.html) - 12:18 17/03/2026
-- 🧰 [Trưởng thôn bị khởi tố vì tự ý bán 16 thửa đất](https://vnexpress.net/truong-thon-bi-khoi-to-vi-tu-y-ban-16-thua-dat-5051604.html) - 12:09 17/03/2026
-- 💄 [Bị tấn công, giám sát công trình đoạt mạng công nhân](https://vnexpress.net/bi-tan-cong-giam-sat-cong-trinh-doat-mang-cong-nhan-5051570.html) - 10:00 17/03/2026
+- 😎 [&#39;Thần y xương khớp&#39; rởm cầm đầu hệ thống đông y Hoàng Minh Đường](https://vnexpress.net/than-y-dom-cam-dau-he-thong-dong-y-hoang-minh-duong-5052559.html) - 23:00 19/03/2026
+- 🥰 [Tranh cãi vụ chủ nhà đâm chết &#39;tình địch&#39; gây rối giữa đêm](https://vnexpress.net/tranh-cai-vu-chu-nha-dam-chet-tinh-dich-gay-roi-giua-dem-5052564.html) - 17:00 19/03/2026
+- 🎓 [Chồng mất tích nhiều năm, tài sản vợ phân chia thế nào?](https://vnexpress.net/chong-mat-tich-nhieu-nam-tai-san-vo-chong-phan-chia-the-nao-5051653.html) - 17:00 19/03/2026
+- 🤓 [Công an thu hơn 500 miếng vàng, 41 siêu xe trong vụ án Mr Pips](https://vnexpress.net/cong-an-thu-hon-500-mieng-vang-41-sieu-xe-trong-vu-an-mr-pips-5052577.html) - 13:40 19/03/2026
+- 🎊 [Đâm chết người vì nghĩ bị xem thường &#39;không có tiền uống bia&#39;](https://vnexpress.net/dam-chet-nguoi-vi-nghi-bi-xem-thuong-khong-co-tien-uong-bia-5052522.html) - 10:09 19/03/2026
+- 🙉 [Bộ Công an đề xuất định danh chủ quản, siết trách nhiệm hội nhóm mạng xã hội](https://vnexpress.net/bo-cong-an-de-xuat-dinh-danh-chu-quan-siet-trach-nhiem-hoi-nhom-mang-xa-hoi-5052386.html) - 07:51 19/03/2026
+- 🤡 [Trưởng công an phường và cấp dưới bảo kê tội phạm ma túy](https://vnexpress.net/truong-cong-an-phuong-va-cap-duoi-bao-ke-toi-pham-ma-tuy-5052335.html) - 05:56 19/03/2026
+- 🗽 [Mr Pips &#39;chi lương tháng&#39; 350 triệu đồng cho hai cựu công an tư vấn pháp chế](https://vnexpress.net/mr-pips-chi-luong-thang-350-trieu-dong-cho-hai-cuu-cong-an-tu-van-phap-che-5052239.html) - 04:58 19/03/2026
+- 🌋 [Cựu phi công Hàn Quốc âm mưu trả thù 4 đồng nghiệp cũ](https://vnexpress.net/cuu-phi-cong-han-quoc-am-muu-tra-thu-4-dong-nghiep-cu-5052324.html) - 04:32 19/03/2026
+- 🎬 [Đốt ôtô, máy xúc của hàng xóm vì mâu thuẫn lối đi](https://vnexpress.net/dot-oto-may-xuc-cua-hang-xom-vi-mau-thuan-loi-di-5052280.html) - 03:20 19/03/2026
+- 💯 [Thiếu tá công an bị người nước ngoài đâm trọng thương ở Mũi Né](https://vnexpress.net/thieu-ta-cong-an-bi-nguoi-nuoc-ngoai-dam-trong-thuong-o-mui-ne-5052261.html) - 03:00 19/03/2026
+- 🌏 [Kẻ sát nhân &#39;tự chui đầu vào lưới&#39; sau 15 năm ngỡ thoát tội](https://vnexpress.net/ke-sat-nhan-tu-chui-dau-vao-luoi-sau-15-nam-ngo-thoat-toi-5052140.html) - 17:00 18/03/2026
+- 🌊 [Quên đóng phạt vi phạm giao thông 6 năm, giờ nộp được không?](https://vnexpress.net/quen-dong-phat-vi-pham-giao-thong-6-nam-gio-nop-duoc-khong-5051973.html) - 17:00 18/03/2026
+- 💂 [Bố mẹ Mr Pips gửi hàng trăm tỷ đồng, mua 314 lượng vàng khi con bị bắt](https://vnexpress.net/bo-me-mr-pips-gui-hang-tram-ty-dong-mua-314-luong-vang-khi-con-bi-bat-5052018.html) - 12:00 18/03/2026
+- 🎡 [Khởi tố vụ án chiếm đoạt 40 tỷ đồng liên quan dự án nhà ở xã hội tại Hà Nội](https://vnexpress.net/khoi-to-vu-an-chiem-doat-40-ty-dong-lien-quan-du-an-nha-o-xa-hoi-tai-ha-noi-5052081.html) - 11:05 18/03/2026
+- 🫶 [Bác sĩ hầu tòa vì cắt nhầm động mạch khiến bệnh nhân tử vong](https://vnexpress.net/bac-si-hau-toa-vi-cat-nham-dong-mach-khien-benh-nhan-tu-vong-5051987.html) - 09:47 18/03/2026
+- 🐲 [Vụ án tham nhũng tại ACV vào diện Ban Chỉ đạo Trung ương theo dõi](https://vnexpress.net/vu-an-tham-nhung-tai-acv-vao-dien-ban-chi-dao-trung-uong-theo-doi-5051968.html) - 08:40 18/03/2026
+- 🚀 [Bị bắt vì nhiều lần xâm hại bé gái](https://vnexpress.net/bi-bat-vi-nhieu-lan-xam-hai-be-gai-5051919.html) - 08:27 18/03/2026
+- 🎊 [Shark Bình bị cáo buộc rửa tiền cho Mr Pips qua ví Ngân lượng](https://vnexpress.net/shark-binh-bi-cao-buoc-rua-tien-cho-mr-pips-qua-vi-ngan-luong-5051943.html) - 07:53 18/03/2026
+- 🤗 [Nổ súng chống trả khi bị đối thủ tấn công](https://vnexpress.net/no-sung-chong-tra-khi-bi-doi-thu-tan-cong-5051899.html) - 06:18 18/03/2026
+- 🗽 [Ném đá gây bất tỉnh khi bị ngăn cản tình yêu tuổi trung niên](https://vnexpress.net/nem-da-gay-bat-tinh-khi-bi-ngan-can-tinh-yeu-tuoi-trung-nien-5051791.html) - 06:02 18/03/2026
+- 🕴 [Chém đối thủ tử vong rồi xin vào bệnh viện tâm thần](https://vnexpress.net/chem-doi-thu-tu-vong-roi-xin-vao-benh-vien-tam-than-5051894.html) - 06:02 18/03/2026
+- 🌜 [Cấp chứng chỉ đào tạo lái xe &#39;lụi&#39;, cựu giám đốc bị đề nghị 27-30 năm tù](https://vnexpress.net/cap-chung-chi-dao-tao-lai-xe-lui-cuu-giam-doc-bi-de-nghi-27-30-nam-tu-5051863.html) - 05:54 18/03/2026
+- 🧑‍🏫 [Doanh nhân tố vợ ăn trộm mật khẩu, đánh cắp 240 triệu USD bitcoin](https://vnexpress.net/doanh-nhan-to-vo-an-trom-mat-khau-danh-cap-240-trieu-usd-bitcoin-5051846.html) - 05:53 18/03/2026
+- 🦩 [TikToker Mr Pips bị đề nghị truy tố vì lừa hơn 1.300 tỷ đồng](https://vnexpress.net/tiktoker-mr-pips-bi-de-nghi-truy-to-vi-lua-hon-1-300-ty-dong-5051897.html) - 05:50 18/03/2026
+- 💼 [Nữ shipper ở TP HCM bị khách đánh tới tấp](https://vnexpress.net/nu-shipper-o-tp-hcm-bi-khach-danh-toi-tap-5051795.html) - 03:35 18/03/2026
+- 💫 [Cựu CEO Quốc Cường Gia Lai Nguyễn Thị Như Loan sắp hầu tòa](https://vnexpress.net/cuu-ceo-quoc-cuong-gia-lai-nguyen-thi-nhu-loan-sap-hau-toa-5051757.html) - 03:01 18/03/2026
+- 🦅 [Băng cướp liên tiếp dùng dao khống chế người đi đường](https://vnexpress.net/bang-cuop-lien-tiep-dung-dao-khong-che-nguoi-di-duong-5051669.html) - 01:05 18/03/2026
+- 🧑‍💻 [Giấy khai sinh ghi tên người không phải cha ruột, giờ đổi được không?](https://vnexpress.net/giay-khai-sinh-ghi-ten-nguoi-khong-phai-cha-ruot-gio-doi-duoc-khong-5051357.html) - 00:49 18/03/2026
+- 💻 [Truy sát vợ khi bị dọa ly hôn](https://vnexpress.net/truy-sat-vo-khi-bi-doa-ly-hon-5051660.html) - 17:00 17/03/2026
+- 🤠 [Nữ quan tham &#39;ngã ngựa&#39; vì mê biệt thự trăm tỷ](https://vnexpress.net/nu-quan-tham-nga-ngua-vi-me-biet-thu-tram-ty-5051611.html) - 17:00 17/03/2026
+- 🧑‍🏫 [Chiêu bốc thăm khiến khách &#39;không bao giờ trúng thưởng&#39;](https://vnexpress.net/chieu-boc-tham-khien-khach-khong-bao-gio-trung-thuong-5051469.html) - 17:00 17/03/2026
+- 🌈 [Tài xế xe tải dùng ma tuý, gây tai nạn liên hoàn](https://vnexpress.net/tai-xe-xe-tai-dung-ma-tuy-gay-tai-nan-lien-hoan-5051637.html) - 14:19 17/03/2026
+- 🌮 [Giả bác sĩ tư vấn, điều trị tóc cho hàng loạt khách hàng](https://vnexpress.net/gia-bac-si-tu-van-dieu-tri-toc-cho-hang-loat-khach-hang-5051635.html) - 14:01 17/03/2026
+- 🐲 [Bà lão cầm dao chống trả tên cướp ở ngoài đồng](https://vnexpress.net/ba-lao-cam-dao-chong-tra-ten-cuop-o-ngoai-dong-5051598.html) - 13:14 17/03/2026
+- 🧰 [Nhóm &#39;cò đất&#39; làm khống hồ sơ mua nhà ở xã hội cho khách hàng](https://vnexpress.net/nhom-co-dat-lam-khong-ho-so-mua-nha-o-xa-hoi-cho-khach-hang-5051603.html) - 12:18 17/03/2026
+- 💄 [Trưởng thôn bị khởi tố vì tự ý bán 16 thửa đất](https://vnexpress.net/truong-thon-bi-khoi-to-vi-tu-y-ban-16-thua-dat-5051604.html) - 12:09 17/03/2026
+- ⛽️ [Bị tấn công, giám sát công trình đoạt mạng công nhân](https://vnexpress.net/bi-tan-cong-giam-sat-cong-trinh-doat-mang-cong-nhan-5051570.html) - 10:00 17/03/2026
 - ⛽️ [Chém người để trả thù cho cha](https://vnexpress.net/chem-nguoi-de-tra-thu-cho-cha-5051546.html) - 09:52 17/03/2026
-- ⛽️ [Dựng chuyện bị cướp, người phụ nữ bị phạt](https://vnexpress.net/dung-chuyen-bi-cuop-nguoi-phu-nu-bi-phat-5051472.html) - 09:47 17/03/2026
-- 💂 [Bác sĩ chém đồng nghiệp vì &#39;bị nói xấu&#39;](https://vnexpress.net/bac-si-chem-dong-nghiep-vi-bi-noi-xau-5051555.html) - 09:43 17/03/2026
-- 🤔 [Giám đốc xin giảm nhẹ, xóa nợ cho trưởng phòng tham ô hơn 5 tỷ đồng](https://vnexpress.net/giam-doc-xin-giam-nhe-xoa-no-cho-truong-phong-tham-o-hon-5-ty-dong-5051430.html) - 08:35 17/03/2026
-- 🧐 [Chủ nhà tang lễ bỏ mặc 190 thi thể, nhận tiền nhưng không mai táng](https://vnexpress.net/chu-nha-tang-le-bo-mac-190-thi-the-nhan-tien-nhung-khong-mai-tang-5051453.html) - 07:37 17/03/2026
-- 🎃 [Ngồi tù oan 19 năm vì vụ cướp 543 USD](https://vnexpress.net/ngoi-tu-oan-19-nam-vi-vu-cuop-543-usd-5051410.html) - 07:19 17/03/2026
-- 🤓 [Hai bố con Chủ tịch Tập đoàn hóa chất Đức Giang bị bắt](https://vnexpress.net/chu-tich-tap-doan-hoa-chat-duc-giang-bi-bat-5051454.html) - 07:14 17/03/2026
-- 💃 [Phó bí thư Đoàn bán hàng trăm &#39;giấy xác nhận công tác xã hội&#39; khống](https://vnexpress.net/pho-bi-thu-doan-ban-hang-tram-giay-xac-nhan-cong-tac-xa-hoi-khong-5051431.html) - 06:44 17/03/2026
-- 🐵 [Thảm án của cô gái bị bắt cóc nhưng 911 không ứng cứu](https://vnexpress.net/tham-an-cua-co-gai-bi-bat-coc-nhung-911-khong-ung-cuu-5051215.html) - 05:00 17/03/2026
-- 🤖 [Đốt nhà người bán sau mâu thuẫn mua xe máy cũ không dùng được](https://vnexpress.net/dot-nha-nguoi-ban-sau-mau-thuan-mua-xe-may-cu-khong-dung-duoc-5051219.html) - 03:07 17/03/2026
-- ⚗️ [Nhiều người bị bắt vì &#39;bẫy&#39; hàng trăm nhà đầu tư đổ vốn vào sàn ảo FTXF](https://vnexpress.net/nhieu-nguoi-bi-bat-vi-bay-hang-tram-nha-dau-tu-do-von-vao-san-ao-ftxf-5051264.html) - 01:36 17/03/2026
-- 🌏 [Thủ đoạn dụ dỗ thiếu nữ đến trang trại biệt lập của &#39;tỷ phú ấu dâm&#39;](https://vnexpress.net/thu-doan-du-do-thieu-nu-den-trang-trai-biet-lap-cua-ty-phu-au-dam-5051212.html) - 17:24 16/03/2026
-- 🦆 [Đột nhập căn hộ của người quen trộm 5,3 cây vàng](https://vnexpress.net/dot-nhap-can-ho-cua-nguoi-quen-trom-5-3-cay-vang-5051199.html) - 17:00 16/03/2026
-- 🐎 [Chủ nhà tự ý mở cửa vào xem khách thuê &#39;ăn ở ra sao&#39;, có phạm luật không?](https://vnexpress.net/chu-nha-tu-y-mo-cua-vao-xem-khach-thue-an-o-ra-sao-co-pham-luat-khong-5051194.html) - 17:00 16/03/2026
-- 😎 [Đăng Facebook xuyên tạc bị CSGT &#39;cướp xe&#39;, người đàn ông bị xử phạt](https://vnexpress.net/dang-facebook-xuyen-tac-bi-csgt-cuop-xe-nguoi-dan-ong-bi-xu-phat-5051175.html) - 11:25 16/03/2026
-- 💪 [Cô dâu chú rể mất sạch tài sản trong đêm tân hôn](https://vnexpress.net/co-dau-chu-re-mat-sach-tai-san-trong-dem-tan-hon-5051169.html) - 10:46 16/03/2026
-- 🤡 [Chồng bỏ vợ lại cùng ma túy khi bị cảnh sát truy bắt](https://vnexpress.net/chong-bo-vo-lai-cung-ma-tuy-khi-bi-canh-sat-truy-bat-5051151.html) - 10:09 16/03/2026
-- 🌁 [Người chiếm đoạt trang sức của bạn khi đi cấp cứu lĩnh án](https://vnexpress.net/nguoi-chiem-doat-trang-suc-cua-ban-khi-di-cap-cuu-linh-an-5051139.html) - 09:53 16/03/2026
+- 💂 [Dựng chuyện bị cướp, người phụ nữ bị phạt](https://vnexpress.net/dung-chuyen-bi-cuop-nguoi-phu-nu-bi-phat-5051472.html) - 09:47 17/03/2026
+- 🤔 [Bác sĩ chém đồng nghiệp vì &#39;bị nói xấu&#39;](https://vnexpress.net/bac-si-chem-dong-nghiep-vi-bi-noi-xau-5051555.html) - 09:43 17/03/2026
+- 🧐 [Giám đốc xin giảm nhẹ, xóa nợ cho trưởng phòng tham ô hơn 5 tỷ đồng](https://vnexpress.net/giam-doc-xin-giam-nhe-xoa-no-cho-truong-phong-tham-o-hon-5-ty-dong-5051430.html) - 08:35 17/03/2026
+- 🎃 [Chủ nhà tang lễ bỏ mặc 190 thi thể, nhận tiền nhưng không mai táng](https://vnexpress.net/chu-nha-tang-le-bo-mac-190-thi-the-nhan-tien-nhung-khong-mai-tang-5051453.html) - 07:37 17/03/2026
+- 🤓 [Ngồi tù oan 19 năm vì vụ cướp 543 USD](https://vnexpress.net/ngoi-tu-oan-19-nam-vi-vu-cuop-543-usd-5051410.html) - 07:19 17/03/2026
+- 💃 [Hai bố con Chủ tịch Tập đoàn hóa chất Đức Giang bị bắt](https://vnexpress.net/chu-tich-tap-doan-hoa-chat-duc-giang-bi-bat-5051454.html) - 07:14 17/03/2026
+- 🐵 [Phó bí thư Đoàn bán hàng trăm &#39;giấy xác nhận công tác xã hội&#39; khống](https://vnexpress.net/pho-bi-thu-doan-ban-hang-tram-giay-xac-nhan-cong-tac-xa-hoi-khong-5051431.html) - 06:44 17/03/2026
+- 🤖 [Thảm án của cô gái bị bắt cóc nhưng 911 không ứng cứu](https://vnexpress.net/tham-an-cua-co-gai-bi-bat-coc-nhung-911-khong-ung-cuu-5051215.html) - 05:00 17/03/2026
+- ⚗️ [Đốt nhà người bán sau mâu thuẫn mua xe máy cũ không dùng được](https://vnexpress.net/dot-nha-nguoi-ban-sau-mau-thuan-mua-xe-may-cu-khong-dung-duoc-5051219.html) - 03:07 17/03/2026
+- 🌏 [Nhiều người bị bắt vì &#39;bẫy&#39; hàng trăm nhà đầu tư đổ vốn vào sàn ảo FTXF](https://vnexpress.net/nhieu-nguoi-bi-bat-vi-bay-hang-tram-nha-dau-tu-do-von-vao-san-ao-ftxf-5051264.html) - 01:36 17/03/2026
+- 🦆 [Thủ đoạn dụ dỗ thiếu nữ đến trang trại biệt lập của &#39;tỷ phú ấu dâm&#39;](https://vnexpress.net/thu-doan-du-do-thieu-nu-den-trang-trai-biet-lap-cua-ty-phu-au-dam-5051212.html) - 17:24 16/03/2026
+- 🐎 [Đột nhập căn hộ của người quen trộm 5,3 cây vàng](https://vnexpress.net/dot-nhap-can-ho-cua-nguoi-quen-trom-5-3-cay-vang-5051199.html) - 17:00 16/03/2026
+- 😎 [Chủ nhà tự ý mở cửa vào xem khách thuê &#39;ăn ở ra sao&#39;, có phạm luật không?](https://vnexpress.net/chu-nha-tu-y-mo-cua-vao-xem-khach-thue-an-o-ra-sao-co-pham-luat-khong-5051194.html) - 17:00 16/03/2026
+- 💪 [Đăng Facebook xuyên tạc bị CSGT &#39;cướp xe&#39;, người đàn ông bị xử phạt](https://vnexpress.net/dang-facebook-xuyen-tac-bi-csgt-cuop-xe-nguoi-dan-ong-bi-xu-phat-5051175.html) - 11:25 16/03/2026
+- 🤡 [Cô dâu chú rể mất sạch tài sản trong đêm tân hôn](https://vnexpress.net/co-dau-chu-re-mat-sach-tai-san-trong-dem-tan-hon-5051169.html) - 10:46 16/03/2026
+- 🌁 [Chồng bỏ vợ lại cùng ma túy khi bị cảnh sát truy bắt](https://vnexpress.net/chong-bo-vo-lai-cung-ma-tuy-khi-bi-canh-sat-truy-bat-5051151.html) - 10:09 16/03/2026
+- 🔥 [Người chiếm đoạt trang sức của bạn khi đi cấp cứu lĩnh án](https://vnexpress.net/nguoi-chiem-doat-trang-suc-cua-ban-khi-di-cap-cuu-linh-an-5051139.html) - 09:53 16/03/2026
 - 🔥 [Hãng pizza bị kiện vì chương trình &#39;xăm logo đổi bánh miễn phí trọn đời&#39;](https://vnexpress.net/hang-pizza-bi-kien-vi-chuong-trinh-xam-logo-doi-banh-mien-phi-tron-doi-5051114.html) - 09:41 16/03/2026
-- 🔥 [Mâu thuẫn tiền thuê nữ tiếp viên &#39;rót bia&#39;, 4 người lĩnh án tù](https://vnexpress.net/mau-thuan-tien-thue-nu-tiep-vien-rot-bia-4-nguoi-linh-an-tu-5051117.html) - 09:11 16/03/2026
-- 👺 [Lời kể của người mất 7 tỷ đồng vì sập bẫy &#39;hệ sinh thái công nghệ triệu đô Xintel&#39;](https://vnexpress.net/loi-ke-cua-nguoi-mat-7-ty-dong-vi-sap-bay-he-sinh-thai-cong-nghe-trieu-do-xintel-5051001.html) - 07:37 16/03/2026
-- 🎊 [Gã đàn ông đâm vợ cũ suýt chết vì ghen](https://vnexpress.net/ga-dan-ong-dam-vo-cu-suyt-chet-vi-ghen-5050973.html) - 05:12 16/03/2026
-- 🎊 [Ngồi tù oan 5 tháng vì AI nhận dạng nhầm khuôn mặt](https://vnexpress.net/ngoi-tu-oan-5-thang-vi-ai-nhan-dang-nham-khuon-mat-5050955.html) - 04:26 16/03/2026<!-- vnexpress-phap-luat:END -->
+- 👺 [Mâu thuẫn tiền thuê nữ tiếp viên &#39;rót bia&#39;, 4 người lĩnh án tù](https://vnexpress.net/mau-thuan-tien-thue-nu-tiep-vien-rot-bia-4-nguoi-linh-an-tu-5051117.html) - 09:11 16/03/2026
+- 🎊 [Lời kể của người mất 7 tỷ đồng vì sập bẫy &#39;hệ sinh thái công nghệ triệu đô Xintel&#39;](https://vnexpress.net/loi-ke-cua-nguoi-mat-7-ty-dong-vi-sap-bay-he-sinh-thai-cong-nghe-trieu-do-xintel-5051001.html) - 07:37 16/03/2026
+- 🎊 [Gã đàn ông đâm vợ cũ suýt chết vì ghen](https://vnexpress.net/ga-dan-ong-dam-vo-cu-suyt-chet-vi-ghen-5050973.html) - 05:12 16/03/2026<!-- vnexpress-phap-luat:END -->
