@@ -4,9 +4,9 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Từ vụ nhạc sĩ Minh Khang bị tố, tài xế taxi cần làm gì để bảo vệ bản thân?](https://dantri.com.vn/thoi-su/tu-vu-nhac-si-minh-khang-bi-to-tai-xe-taxi-can-lam-gi-de-bao-ve-ban-than-20260319155913851.htm) - 12:24 19/03/2026
-- 🌈 [Ngày hội non sông và trọng trách trước Nhân dân](https://dantri.com.vn/thoi-su/ngay-hoi-non-song-va-trong-trach-truoc-nhan-dan-20260319174431553.htm) - 11:02 19/03/2026
-- 🐎 [Tứ kết Champions League: Những màn đụng độ kinh điển](https://dantri.com.vn/the-thao/tu-ket-champions-league-nhung-man-dung-do-kinh-dien-20260319143017831.htm) - 07:36 19/03/2026
+- 🤠 [Tứ kết Champions League: Những màn đụng độ kinh điển](https://dantri.com.vn/the-thao/tu-ket-champions-league-nhung-man-dung-do-kinh-dien-20260319143017831.htm) - 12:36 19/03/2026
+- 🌈 [Từ vụ nhạc sĩ Minh Khang bị tố, tài xế taxi cần làm gì để bảo vệ bản thân?](https://dantri.com.vn/thoi-su/tu-vu-nhac-si-minh-khang-bi-to-tai-xe-taxi-can-lam-gi-de-bao-ve-ban-than-20260319155913851.htm) - 12:24 19/03/2026
+- 🐎 [Ngày hội non sông và trọng trách trước Nhân dân](https://dantri.com.vn/thoi-su/ngay-hoi-non-song-va-trong-trach-truoc-nhan-dan-20260319174431553.htm) - 11:02 19/03/2026
 - 👹 [Tham vọng của công ty đại gia Khoa &quot;Khàn&quot;, anh cả làm siêu dự án sông Hồng](https://dantri.com.vn/bat-dong-san/tham-vong-cua-cong-ty-dai-gia-khoa-khan-anh-ca-lam-sieu-du-an-song-hong-20260319115149138.htm) - 07:13 19/03/2026
 - 🫶 [Giá dầu dậy sóng, Nga thu “mỏ vàng” tỷ USD](https://dantri.com.vn/kinh-doanh/gia-dau-day-song-nga-thu-mo-vang-ty-usd-20260319095353574.htm) - 07:02 19/03/2026
 - ⛽️ [Ca ghép đa tạng domino đầu tiên tại Việt Nam: Lá gan &quot;lỗi&quot; cứu thêm người](https://dantri.com.vn/suc-khoe/ca-ghep-da-tang-domino-dau-tien-tai-viet-nam-la-gan-loi-cuu-them-nguoi-20260319101446553.htm) - 04:29 19/03/2026
