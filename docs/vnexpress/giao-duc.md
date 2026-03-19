@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [PGS người Việt gia nhập viện khoa học lớn nhất bang Connecticut](https://vnexpress.net/pgs-nguoi-viet-gia-nhap-vien-khoa-hoc-lon-nhat-bang-connecticut-5051362.html) - 07:03 19/03/2026
+- 🤓 [Nhà phát minh người Việt gia nhập viện khoa học danh giá Mỹ](https://vnexpress.net/nha-phat-minh-nguoi-viet-gia-nhap-vien-khoa-hoc-danh-gia-my-5051362.html) - 07:03 19/03/2026
 - 🦆 [Giáo sư đại học top đầu nhận 5.000 USD để &#39;chạy&#39; suất học thạc sĩ](https://vnexpress.net/giao-su-dai-hoc-top-dau-nhan-5-000-usd-de-chay-suat-hoc-thac-si-5052083.html) - 04:51 19/03/2026
 - 🦩 [Bộ Giáo dục chốt lịch thi tốt nghiệp THPT 2026](https://vnexpress.net/lich-dang-ky-lich-thi-tot-nghiep-thpt-nam-2026-chi-tiet-nhat-5049589.html) - 03:35 19/03/2026
 - 🌮 [Hủy kết quả nhiều phòng thi VioEdu tại Hà Nội do gian lận](https://vnexpress.net/phat-hien-gian-lan-o-cuoc-thi-vioedu-tai-ha-noi-huy-hang-loat-bai-thi-5052214.html) - 02:47 19/03/2026
