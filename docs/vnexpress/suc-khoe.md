@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Đề xuất từ 2026 khám sức khỏe định kỳ miễn phí cho người nghèo, mắc bệnh mạn tính](https://vnexpress.net/de-xuat-tu-2026-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-ngheo-mac-benh-man-tinh-5053029.html) - 13:01 20/03/2026
+- 🔥 [Đề xuất khám sức khỏe định kỳ miễn phí cho người nghèo, mắc bệnh mạn tính trong 2026](https://vnexpress.net/de-xuat-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-ngheo-mac-benh-man-tinh-trong-2026-5053029.html) - 13:01 20/03/2026
 - 🥰 [Bệnh viện Nhi đồng 1 lập kíp đặc biệt trị hội chứng Pierre Robin](https://vnexpress.net/benh-vien-nhi-dong-1-lap-kip-dac-biet-tri-hoi-chung-pierre-robin-5052687.html) - 13:00 20/03/2026
 - 💡 [Sợ sùi mào gà, nam giới U40 chủ động tiêm HPV](https://vnexpress.net/so-sui-mao-ga-nam-gioi-u40-chu-dong-tiem-hpv-5053015.html) - 13:00 20/03/2026
 - 🤗 [Mỹ thu hồi gần 90.000 chai thuốc hạ sốt trẻ em](https://vnexpress.net/my-thu-hoi-gan-90-000-chai-thuoc-ha-sot-tre-em-5052959.html) - 12:00 20/03/2026
