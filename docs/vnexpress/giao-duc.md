@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh lớp 11 bị bạn đánh gãy xương mũi](https://vnexpress.net/nam-sinh-lop-11-bi-ban-danh-gay-xuong-mui-5052747.html) - 05:23 20/03/2026
+- 🤓 [Nam sinh lớp 11 bị nhóm bạn đánh nhập viện](https://vnexpress.net/nam-sinh-lop-11-bi-nhom-ban-danh-nhap-vien-5052747.html) - 05:23 20/03/2026
 - 🦆 [Nhà toán học Đức nhận giải Abel nhờ chứng minh câu đố hóc búa suốt 60 năm](https://vnexpress.net/nha-toan-hoc-duc-nhan-giai-abel-nho-chung-minh-cau-do-hoc-bua-suot-60-nam-5052711.html) - 03:34 20/03/2026
 - 🦩 [Phụ huynh &#39;toát mồ hôi&#39; khi 60.000 học sinh không có suất vào lớp 10 công lập](https://vnexpress.net/phu-huynh-toat-mo-hoi-khi-60-000-hoc-sinh-khong-co-suat-vao-lop-10-cong-lap-5052117.html) - 23:15 19/03/2026
 - 🌮 [Nước nào có lạm phát cao nhất thế giới?](https://vnexpress.net/nuoc-nao-co-lam-phat-cao-nhat-the-gioi-5052461.html) - 13:48 19/03/2026
