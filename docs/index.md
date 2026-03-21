@@ -42,7 +42,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Tết của người Chăm theo đạo Hồi ở TP HCM](https://vnexpress.net/tet-cua-nguoi-cham-theo-dao-hoi-o-tp-hcm-5053178.html) - 17:00 21/03/2026
 - 🚀 [Ly hôn trước, sau này chia tài sản chung có được không?](https://vnexpress.net/ly-hon-truoc-sau-nay-chia-tai-san-chung-co-duoc-khong-5047518.html) - 17:00 21/03/2026
 - 🪄 [Tiếp tục lùi thực hiện Nghị định 46 về an toàn thực phẩm](https://vnexpress.net/tiep-tuc-lui-thuc-hien-nghi-dinh-46-ve-an-toan-thuc-pham-5053346.html) - 16:31 21/03/2026
-- 😎 [Cự ly 42km Giải chạy đêm TP HCM xuất phát](https://vnexpress.net/13-000-runner-tranh-tai-giai-chay-dem-tp-hcm-5053280.html) - 16:30 21/03/2026
+- 😎 [Nguyễn Văn Long đua cùng Khôi Huỳnh ở VM Ho Chi Minh City Midnight](https://vnexpress.net/13-000-runner-tranh-tai-giai-chay-dem-tp-hcm-5053280.html) - 16:30 21/03/2026
 - 🎊 [Liverpool thua Brighton, lỡ cơ hội vào top 4](https://vnexpress.net/liverpool-thua-brighton-lo-co-hoi-vao-top-4-5053349.html) - 16:12 21/03/2026
 - ⚗️ [Nghi phạm giết người nước ngoài bị bắt tại sân bay Tân Sơn Nhất](https://vnexpress.net/nghi-pham-giet-nguoi-nuoc-ngoai-bi-bat-tai-san-bay-tan-son-nhat-5053342.html) - 15:34 21/03/2026
 - 🫣 [Giám đốc Trung tâm Đăng kiểm tàu cá Lâm Đồng bị bắt](https://vnexpress.net/giam-doc-trung-tam-dang-kiem-tau-ca-lam-dong-bi-bat-5053332.html) - 15:31 21/03/2026
