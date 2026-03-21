@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Ô tô đỗ kín đường, cò đất tấp nập tại khu quy hoạch dân cư nông thôn](https://dantri.com.vn/bat-dong-san/o-to-do-kin-duong-co-dat-tap-nap-tai-khu-quy-hoach-dan-cu-nong-thon-20260321115930055.htm) - 07:03 21/03/2026
+- 🌏 [Ô tô đỗ kín đường, &quot;cò đất&quot; tấp nập tại khu quy hoạch dân cư nông thôn](https://dantri.com.vn/bat-dong-san/o-to-do-kin-duong-co-dat-tap-nap-tai-khu-quy-hoach-dan-cu-nong-thon-20260321115930055.htm) - 07:03 21/03/2026
 - 👹 [Đề xuất siết chuyện bán &quot;sang tay” nhà ở xã hội](https://dantri.com.vn/bat-dong-san/de-xuat-siet-chuyen-ban-sang-tay-nha-o-xa-hoi-20260321095533251.htm) - 02:57 21/03/2026
 - 💡 [Lãi tiết kiệm 8%, lãi vay thả nổi đa số 14-15%, có &quot;tiền tươi&quot; cũng ngại?](https://dantri.com.vn/kinh-doanh/lai-tiet-kiem-8-lai-vay-tha-noi-da-so-14-15-co-tien-tuoi-cung-ngai-20260319153800927.htm) - 23:13 20/03/2026
 - 🌋 [Chuyên gia chỉ ra sai lầm khiến bạn khó dù ngủ giường ấm nệm êm](https://dantri.com.vn/bat-dong-san/chuyen-gia-chi-ra-sai-lam-khien-ban-kho-du-ngu-giuong-am-nem-em-20260320174649028.htm) - 17:10 20/03/2026
