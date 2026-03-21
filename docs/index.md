@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Fulham đấu Burnley: nảy lửa tại sân Craven Cottage](https://muctim.tuoitre.vn/fulham-dau-burnley-nay-lua-tai-san-craven-cottage-101260321112010699.htm) - 09:12 21/03/2026
 - 🤖 [Tứ kết Cúp quốc gia: Ninh Bình đấu PVF CAND](https://muctim.tuoitre.vn/tu-ket-cup-quoc-gia-ninh-binh-dau-pvf-cand-101260321114548113.htm) - 09:00 21/03/2026
 - 🤓 [Tứ kết Cúp quốc gia: Thể Công Viettel tiếp Bắc Ninh](https://muctim.tuoitre.vn/tu-ket-cup-quoc-gia-the-cong-viettel-tiep-bac-ninh-101260321122741152.htm) - 08:16 21/03/2026
-- 🎉 [Trực tiếp chung kết Asian Cup nữ 2026: Nhật Bản - Úc](https://muctim.tuoitre.vn/truc-tiep-chung-ket-asian-cup-nu-2026-nhat-ban-uc-10126032115011367.htm) - 08:05 21/03/2026
+- 🎉 [Đánh bại Úc, tuyển nữ Nhật Bản lần thứ 3 vô địch châu Á](https://muctim.tuoitre.vn/truc-tiep-chung-ket-asian-cup-nu-2026-nhat-ban-uc-10126032115011367.htm) - 08:05 21/03/2026
 - 👨‍🏫 [Mời các bạn đón đọc Rùa Vàng 12, phát hành 23-3-2026: 
 Em tập viết bút mực](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-12-phat-hanh-23-3-2026-em-tap-viet-but-muc-101260319143044437.htm) - 07:17 21/03/2026
 - 🚦 [Chuỗi hoạt động đa sắc màu tại Ngày hội Sức trẻ Nhân văn 2026](https://muctim.tuoitre.vn/chuoi-hoat-dong-da-sac-mau-tai-ngay-hoi-suc-tre-nhan-van-2026-101260321110237135.htm) - 07:15 21/03/2026
