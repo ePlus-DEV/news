@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Chuỗi nhà hàng Mỹ cấm khách mặc đồ tập, đội mũ vào phòng ăn](https://vnexpress.net/chuoi-nha-hang-my-cam-khach-mac-do-tap-doi-mu-vao-phong-an-5051138.html) - 14:00 21/03/2026
 - 🪄 [Chợ nào là nơi gặp lại người yêu cũ?](https://vnexpress.net/cho-nao-la-noi-gap-lai-nguoi-yeu-cu-5051610.html) - 13:00 21/03/2026
-- 🦅 [Hãng hàng không dự kiến hủy chuyến vì thiếu nhiên liệu](https://vnexpress.net/hang-hang-khong-du-kien-huy-chuyen-vi-thieu-nhien-lieu-5053286.html) - 12:49 21/03/2026
+- 🦅 [Hãng hàng không hủy chuyến vì thiếu nhiên liệu](https://vnexpress.net/hang-hang-khong-huy-chuyen-vi-thieu-nhien-lieu-5053286.html) - 12:49 21/03/2026
 - 🕴 [10 sân bay có đồ ăn ngon nhất thế giới 2026](https://vnexpress.net/10-san-bay-co-do-an-ngon-nhat-the-gioi-2026-5052991.html) - 11:00 21/03/2026
 - 👀 [Khách Việt &#39;né&#39; đường bay, chọn đường bộ dịp Giỗ tổ và 30/4](https://vnexpress.net/khach-viet-ne-duong-bay-chon-duong-bo-dip-gio-to-va-30-4-5052435.html) - 07:53 21/03/2026
 - 🎭 [Hoa chuông nở vàng rực góc phố Vũng Tàu](https://vnexpress.net/hoa-chuong-no-vang-ruc-goc-pho-vung-tau-5052746.html) - 05:37 21/03/2026
