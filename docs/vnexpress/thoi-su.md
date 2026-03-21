@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông Vũ Hải Quân trúng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/ong-vu-hai-quan-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053333.html) - 14:25 21/03/2026
-- 🤓 [Tai nạn liên hoàn trên quốc lộ, một người chết](https://vnexpress.net/tai-nan-lien-hoan-tren-quoc-lo-mot-nguoi-chet-5053328.html) - 14:08 21/03/2026
-- ⚗️ [Động đất gây rung lắc nhiều nơi ở Quảng Ngãi](https://vnexpress.net/dong-dat-gay-rung-lac-nhieu-noi-o-quang-ngai-5053324.html) - 13:33 21/03/2026
-- 🌊 [Danh sách 500 đại biểu Quốc hội khóa 16 nhiệm kỳ 2026-2031](https://vnexpress.net/interactive/2026/danh-sach-dai-bieu-quoc-hoi-khoa-16) - 12:56 21/03/2026
+- 🦒 [Tai nạn liên hoàn trên quốc lộ, một người chết](https://vnexpress.net/tai-nan-lien-hoan-tren-quoc-lo-mot-nguoi-chet-5053328.html) - 14:08 21/03/2026
+- 🤓 [Động đất gây rung lắc nhiều nơi ở Quảng Ngãi](https://vnexpress.net/dong-dat-gay-rung-lac-nhieu-noi-o-quang-ngai-5053324.html) - 13:33 21/03/2026
+- ⚗️ [Danh sách 500 đại biểu Quốc hội khóa 16 nhiệm kỳ 2026-2031](https://vnexpress.net/interactive/2026/danh-sach-dai-bieu-quoc-hoi-khoa-16) - 12:56 21/03/2026
+- 🌊 [Thứ trưởng Vũ Hải Quân trúng cử đại biểu Quốc hội khóa 16](https://vnexpress.net/thu-truong-vu-hai-quan-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053333.html) - 12:45 21/03/2026
 - 🎓 [Tài xế mở cửa ôtô gây tai nạn bị phạt 5 triệu đồng](https://vnexpress.net/tai-xe-mo-cua-oto-gay-tai-nan-bi-phat-5-trieu-dong-5053292.html) - 11:18 21/03/2026
 - 🔥 [Số lượng đại biểu Quốc hội chuyên trách khóa 16 cao nhất lịch sử](https://vnexpress.net/so-luong-dai-bieu-quoc-hoi-chuyen-trach-khoa-16-cao-nhat-lich-su-5053301.html) - 11:14 21/03/2026
 - 🦏 [Hai chị em tử vong trong căn nhà cháy](https://vnexpress.net/hai-chi-em-tu-vong-trong-can-nha-chay-5053296.html) - 11:12 21/03/2026
