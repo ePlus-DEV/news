@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [20 lần bị từ chối và hành trình chinh phục Harvard, Oxford](https://vnexpress.net/20-lan-bi-tu-choi-va-hanh-trinh-chinh-phuc-harvard-oxford-5052893.html) - 23:05 21/03/2026
+- 🤓 [Hành trình chinh phục Harvard, Oxford của cô gái 25 tuổi](https://vnexpress.net/hanh-trinh-chinh-phuc-harvard-oxford-cua-co-gai-25-tuoi-5052893.html) - 23:05 21/03/2026
 - 🦆 [GS Lê Anh Vinh: Dạy STEM không khéo sẽ thành học thủ công](https://vnexpress.net/gs-le-anh-vinh-day-stem-khong-kheo-se-thanh-hoc-thu-cong-5053241.html) - 17:16 21/03/2026
 - 🦩 [Tỉnh, thành nào có nhiều xã, phường nhất cả nước?](https://vnexpress.net/tinh-thanh-nao-co-nhieu-xa-phuong-nhat-ca-nuoc-5053277.html) - 12:56 21/03/2026
 - 🌮 [Nam sinh đạt điểm Toán tiểu học cao nhất thế giới](https://vnexpress.net/nam-sinh-dat-diem-toan-tieu-hoc-cao-nhat-the-gioi-5053183.html) - 06:15 21/03/2026
