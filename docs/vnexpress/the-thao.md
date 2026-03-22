@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Tyson Fury rèn thể lực tại Thái Lan](https://vnexpress.net/tyson-fury-ren-the-luc-tai-thai-lan-5052974.html) - 18:54 22/03/2026
 - 🧰 [Nữ cầu thủ bóng rổ Mỹ gây sốt trước mùa WNBA 2026](https://vnexpress.net/nu-cau-thu-bong-ro-my-gay-sot-truoc-mua-wnba-2026-5053559.html) - 18:41 22/03/2026
 - 🤗 [Tottenham thua thảm Nottingham, rơi xuống vị trí 17](https://vnexpress.net/tottenham-thua-tham-nottingham-roi-xuong-vi-tri-17-5053545.html) - 16:12 22/03/2026
-- 🥳 [Man City hạ Arsenal, giành Cup Liên đoàn Anh](https://vnexpress.net/truc-tiep-arsenal-man-city-5053546.html) - 15:29 22/03/2026
+- 🥳 [Man City hạ Arsenal, giành Cup Liên đoàn Anh](https://vnexpress.net/truc-tiep-arsenal-man-city-5053546-tong-thuat.html) - 15:29 22/03/2026
 - 🦣 [HLV Polking nêu đích danh trọng tài không nên bắt trận đấu của CAHN](https://vnexpress.net/hlv-polking-neu-dich-danh-trong-tai-khong-nen-bat-tran-dau-cua-cahn-5053542.html) - 15:22 22/03/2026
 - 🌜 [Barca tái lập cách biệt 7 điểm với Real](https://vnexpress.net/barca-tai-lap-cach-biet-7-diem-voi-real-5053537.html) - 15:00 22/03/2026
 - 🫶 [Trợ lý HLV Công an Hà Nội choáng sau xô xát với cầu thủ Đà Nẵng](https://vnexpress.net/tro-ly-hlv-cong-an-ha-noi-choang-sau-xo-xat-voi-cau-thu-da-nang-5053517.html) - 13:32 22/03/2026
