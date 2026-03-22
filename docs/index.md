@@ -535,7 +535,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [New York City đấu Inter Miami: Messi đối mặt thử thách sân khách](https://muctim.tuoitre.vn/new-york-city-dau-inter-miami-messi-doi-mat-thu-thach-san-khach-101260322161426485.htm) - 11:15 22/03/2026
 - 🐎 [Lịch thi đấu MLS 2026: New York City đấu Inter Miami](https://muctim.tuoitre.vn/lich-thi-dau-mls-2026-new-york-city-dau-inter-miami-10126032215293821.htm) - 11:14 22/03/2026
 - 🎓 [Bất ngờ với Tiếng kèn Đội ta của khối tiểu học](https://muctim.tuoitre.vn/bat-ngo-voi-tieng-ken-doi-ta-cua-khoi-tieu-hoc-101260322140001926.htm) - 11:14 22/03/2026
-- 🐎 [Trực tiếp V-League 1: SHB Đà Nẵng - Công An Hà Nội](https://muctim.tuoitre.vn/truc-tiep-v-league-1-shb-da-nang-cong-an-ha-noi-101260322150117105.htm) - 09:00 22/03/2026
+- 🐎 [Đấu bù vòng 13 V-League 1: Công An Hà Nội thắng SHB Đà Nẵng 1-0](https://muctim.tuoitre.vn/truc-tiep-v-league-1-shb-da-nang-cong-an-ha-noi-101260322150117105.htm) - 09:00 22/03/2026
 - 💃 [Arsenal đấu Man City, tranh ngôi vô địch Carabao Cup](https://muctim.tuoitre.vn/arsenal-dau-man-city-chung-ket-carabao-cup-101260322144114811.htm) - 07:56 22/03/2026
 - 🪜 [Hành trình Em yêu Tổ quốc Việt Nam nhận Giải thưởng Hồ Hảo Hớn](https://muctim.tuoitre.vn/hanh-trinh-em-yeu-to-quoc-viet-nam-nhan-giai-thuong-ho-hao-hon-101260322003628871.htm) - 07:56 22/03/2026
 - 🎉 [Dự báo thời tiết từ 22-3 đến 28-3: Bắc Bộ nóng ẩm, Nam Bộ nắng nóng diện rộng](https://muctim.tuoitre.vn/du-bao-thoi-tiet-tu-22-3-den-28-3-bac-bo-nong-am-nam-bo-nang-nong-dien-rong-101260322144524771.htm) - 07:45 22/03/2026
