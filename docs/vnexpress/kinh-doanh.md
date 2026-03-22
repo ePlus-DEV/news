@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Những lãnh đạo doanh nghiệp trúng cử đại biểu Quốc hội](https://vnexpress.net/nhung-lanh-dao-doanh-nghiep-trung-cu-dai-bieu-quoc-hoi-5053384.html) - 04:05 22/03/2026
+- ⛽️ [Doanh nhân tăng hiện diện tại Quốc hội](https://vnexpress.net/doanh-nhan-tang-hien-dien-tai-quoc-hoi-5053384.html) - 04:05 22/03/2026
 - 🐲 [Cổ phiếu Đức Giang mất 25% từ khi lãnh đạo bị bắt](https://vnexpress.net/co-phieu-duc-giang-mat-25-tu-khi-lanh-dao-bi-bat-5053411.html) - 03:14 22/03/2026
 - 🔥 [Xung đột Trung Đông gửi &#39;lời cảnh tỉnh&#39; về năng lượng tái tạo](https://vnexpress.net/xung-dot-trung-dong-gui-loi-canh-tinh-ve-nang-luong-tai-tao-5053303.html) - 17:01 21/03/2026
 - 🐵 [Tiếp tục lùi thực hiện Nghị định 46 về an toàn thực phẩm](https://vnexpress.net/tiep-tuc-lui-thuc-hien-nghi-dinh-46-ve-an-toan-thuc-pham-5053346.html) - 16:31 21/03/2026
