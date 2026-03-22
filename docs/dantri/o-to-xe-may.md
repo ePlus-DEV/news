@@ -44,7 +44,7 @@ sidebar_position: 24
 - ⚗️ [Doanh số Xiaomi SU7 giảm hơn 99% tại Trung Quốc](https://dantri.com.vn/o-to-xe-may/doanh-so-xiaomi-su7-giam-hon-99-tai-trung-quoc-20260316113904622.htm) - 09:36 16/03/2026
 - 🧑‍🏫 [Thêm thương hiệu xe máy điện lên kế hoạch làm trạm sạc nhanh tại Việt Nam](https://dantri.com.vn/o-to-xe-may/them-thuong-hieu-xe-may-dien-len-ke-hoach-lam-tram-sac-nhanh-tai-viet-nam-20260315101634103.htm) - 09:33 16/03/2026
 - 🦒 [Nguyên tắc an toàn ít người chú ý khi dừng xe khẩn cấp trên đường cao tốc](https://dantri.com.vn/o-to-xe-may/nguyen-tac-an-toan-it-nguoi-chu-y-khi-dung-xe-khan-cap-tren-duong-cao-toc-20260316091321777.htm) - 06:20 16/03/2026
-- 🐘 [Hyundai dừng bán Palisade 2026 sau một tai nạn chết người](https://dantri.com.vn/o-to-xe-may/hyundai-dung-ban-palisade-2026-sau-mot-tai-nan-chet-nguoi-20260316124748106.htm) - 06:16 16/03/2026
+- 🐘 [Hyundai tạm dừng bán, triệu hồi Palisade 2026 vì lỗi ghế](https://dantri.com.vn/o-to-xe-may/hyundai-tam-dung-ban-trieu-hoi-palisade-2026-vi-loi-ghe-20260316124748106.htm) - 06:16 16/03/2026
 - 🧠 [Hyundai Stargazer 2026 lộ diện tại Việt Nam, giá dự kiến từ 489 triệu đồng](https://dantri.com.vn/o-to-xe-may/hyundai-stargazer-2026-lo-dien-tai-viet-nam-gia-du-kien-tu-489-trieu-dong-20260316105718081.htm) - 05:14 16/03/2026
 - 🐵 [&quot;Dở khóc dở cười&quot; các chiêu trò đối phó kiểm định khí thải](https://dantri.com.vn/o-to-xe-may/do-khoc-do-cuoi-cac-chieu-tro-doi-pho-kiem-dinh-khi-thai-20260316113326407.htm) - 05:11 16/03/2026
 - 🤭 [Mua VinFast VF 9 trong tháng 3 nhận ưu đãi lên tới 13% giá xe, miễn phí sạc 3 năm](https://dantri.com.vn/o-to-xe-may/mua-vinfast-vf-9-trong-thang-3-nhan-uu-dai-len-toi-13-gia-xe-mien-phi-sac-3-nam-20260316093944586.htm) - 02:54 16/03/2026
