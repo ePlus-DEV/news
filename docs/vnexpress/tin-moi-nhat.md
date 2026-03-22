@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Thủ tướng Phạm Minh Chính bắt đầu thăm Nga](https://vnexpress.net/thu-tuong-pham-minh-chinh-bat-dau-tham-nga-5053551.html) - 16:03 22/03/2026
 - 😺 [Quân nhân Israel bị nghi tuồn thông tin lá chắn Vòm Sắt cho Iran](https://vnexpress.net/quan-nhan-israel-bi-nghi-tuon-thong-tin-la-chan-vom-sat-cho-iran-5053544.html) - 15:55 22/03/2026
 - 🐘 [Cầu nổi lật nghiêng khiến hàng chục người rơi xuống sông ở Bangladesh](https://vnexpress.net/cau-noi-lat-nghieng-khien-hang-chuc-nguoi-roi-xuong-song-o-bangladesh-5053543.html) - 15:43 22/03/2026
-- 🌁 [Arsenal 0-1 Man City &lpar;H2&rpar;: Kepa sai lầm](https://vnexpress.net/truc-tiep-arsenal-man-city-5053546.html) - 15:29 22/03/2026
+- 🌁 [Man City hạ Arsenal, giành Cup Liên đoàn Anh](https://vnexpress.net/truc-tiep-arsenal-man-city-5053546.html) - 15:29 22/03/2026
 - 🐲 [Hai lần lùi nghị định](https://vnexpress.net/hai-lan-lui-nghi-dinh-5053476.html) - 15:26 22/03/2026
 - 🤓 [HLV Polking nêu đích danh trọng tài không nên bắt trận đấu của CAHN](https://vnexpress.net/hlv-polking-neu-dich-danh-trong-tai-khong-nen-bat-tran-dau-cua-cahn-5053542.html) - 15:22 22/03/2026
 - 💪 [Học sinh Hà Nội, chuyên Khoa học tự nhiên áp đảo giải nhất khoa học kỹ thuật](https://vnexpress.net/danh-sach-14-giai-nhat-cuoc-thi-khoa-hoc-ky-thuat-quoc-gia-2026-5053498.html) - 15:17 22/03/2026
