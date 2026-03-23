@@ -338,7 +338,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👍 [Miami Open 2026: Sebastian Korda trao chén đắng cho Carlos Alcaraz](https://www.sggp.org.vn/miami-open-2026-sebastian-korda-trao-chen-dang-cho-carlos-alcaraz-post844305.html) - 12:31 23/03/2026
 - 🦒 [Khuất Văn Khang cùng các đồng đội hướng đến mục tiêu thắng Malaysia vào ngày 31-3](https://www.sggp.org.vn/khuat-van-khang-cung-cac-dong-doi-huong-den-muc-tieu-thang-malaysia-vao-ngay-31-3-post844329.html) - 12:31 23/03/2026
 - 🤡 [Ban Tuyên giáo và Dân vận Thành ủy TPHCM chúc mừng lực lượng thể thao thành phố](https://www.sggp.org.vn/ban-tuyen-giao-va-dan-van-thanh-uy-tphcm-chuc-mung-luc-luong-the-thao-thanh-pho-post844321.html) - 12:31 23/03/2026
-- 🐎 [Đội tuyển Việt Nam chưa có đủ lượng](https://www.sggp.org.vn/doi-tuyen-viet-nam-chua-co-du-luong-post844326.html) - 12:31 23/03/2026
+- 🐎 [Đội tuyển Việt Nam chưa có đủ lực lượng](https://www.sggp.org.vn/doi-tuyen-viet-nam-chua-co-du-luc-luong-post844326.html) - 12:31 23/03/2026
 - 🦆 [Bệnh viêm não mô cầu gia tăng: giám sát chặt chẽ, hạn chế lây lan](https://www.sggp.org.vn/benh-viem-nao-mo-cau-gia-tang-giam-sat-chat-che-han-che-lay-lan-post844332.html) - 12:23 23/03/2026
 - 🦅 [Thông tin danh tính người Việt tử vong, mất tích tại Nhật Bản](https://www.sggp.org.vn/thong-tin-danh-tinh-nguoi-viet-tu-vong-mat-tich-tai-nhat-ban-post844320.html) - 12:23 23/03/2026
 - 🫣 [Báo SGGP trao tặng bản đồ Việt Nam tại TP Cần Thơ](https://www.sggp.org.vn/bao-sggp-trao-tang-ban-do-viet-nam-tai-tp-can-tho-post844325.html) - 12:17 23/03/2026
