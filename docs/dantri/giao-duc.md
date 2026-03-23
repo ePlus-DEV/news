@@ -39,7 +39,7 @@ sidebar_position: 2
 - 🧠 [Đề nghị xác minh việc rao bán tài liệu ôn thi viên chức giáo dục trên mạng](https://dantri.com.vn/giao-duc/de-nghi-xac-minh-viec-rao-ban-tai-lieu-on-thi-vien-chuc-giao-duc-tren-mang-20260320153129980.htm) - 00:27 21/03/2026
 - 😎 [Đối tượng nào được đăng ký thi đánh giá năng lực của Bộ Quốc phòng?](https://dantri.com.vn/giao-duc/doi-tuong-nao-duoc-dang-ky-thi-danh-gia-nang-luc-cua-bo-quoc-phong-20260320201336067.htm) - 00:00 21/03/2026
 - 🕴 [Sửa Thông tư 29: Đề thi còn khó, sao cấm được học thêm?](https://dantri.com.vn/giao-duc/sua-thong-tu-29-de-thi-con-kho-sao-cam-duoc-hoc-them-20260320222628826.htm) - 22:53 20/03/2026
-- 🧠 [Trường Công an bỏ tuyển thẳng thí sinh đạt giải cuộc thi khoa học, kỹ thuật](https://dantri.com.vn/giao-duc/truong-cong-an-bo-tuyen-thang-thi-sinh-dat-giai-cuoc-thi-khoa-hoc-ky-thuat-20260320192743868.htm) - 13:07 20/03/2026
+- 🧠 [Bộ Công an điều chỉnh tiêu chí xét tuyển thẳng vào các trường Công an 2026](https://dantri.com.vn/giao-duc/bo-cong-an-dieu-chinh-tieu-chi-xet-tuyen-thang-vao-cac-truong-cong-an-2026-20260320192743868.htm) - 13:07 20/03/2026
 - 🚀 [Chi tiết chỉ tiêu và tổ hợp xét tuyển vào 8 trường Công an năm 2026](https://dantri.com.vn/giao-duc/chi-tiet-chi-tieu-va-to-hop-xet-tuyen-vao-8-truong-cong-an-nam-2026-20260320194320726.htm) - 12:54 20/03/2026
 - 🕯 [12 trường thuộc Đại học Quốc gia Hà Nội công bố mức quy đổi IELTS](https://dantri.com.vn/giao-duc/12-truong-thuoc-dai-hoc-quoc-gia-ha-noi-cong-bo-muc-quy-doi-ielts-20260320172211117.htm) - 10:31 20/03/2026
 - 🧰 [Thông tin chi tiết về kỳ thi đánh giá năng lực Bộ Quốc phòng](https://dantri.com.vn/giao-duc/thong-tin-chi-tiet-ve-ky-thi-danh-gia-nang-luc-bo-quoc-phong-20260320154837006.htm) - 08:56 20/03/2026
