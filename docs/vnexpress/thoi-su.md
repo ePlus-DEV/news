@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Tìm thấy hài cốt liệt sĩ cùng cuộn dây thông tin](https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-cuon-day-thong-tin-5053927.html) - 10:29 23/03/2026
 - 🌊 [Trung ương giới thiệu nhân sự lãnh đạo Nhà nước nhiệm kỳ mới](https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-lanh-dao-nha-nuoc-nhiem-ky-moi-5053921.html) - 10:27 23/03/2026
 - 🎓 [Thánh lễ đưa chân Đức Hồng y Gioan Baotixita Phạm Minh Mẫn](https://vnexpress.net/thanh-le-dua-chan-duc-hong-y-gioan-baotixita-pham-minh-man-5053905.html) - 10:25 23/03/2026
-- 🔥 [Ba tàu muốn đổi sang quốc tịch Việt Nam để được an toàn ở Trung Đông](https://vnexpress.net/ba-tau-muon-doi-sang-quoc-tich-viet-nam-de-duoc-an-toan-o-trung-dong-5053871.html) - 10:01 23/03/2026
+- 🔥 [Ba tàu biển muốn đổi sang quốc tịch Việt Nam](https://vnexpress.net/ba-tau-bien-muon-doi-sang-quoc-tich-viet-nam-5053871.html) - 10:01 23/03/2026
 - 🦏 [Hai khách Nhật nguy kịch trên du thuyền được đưa vào TP HCM cấp cứu](https://vnexpress.net/hai-khach-nhat-nguy-kich-tren-du-thuyen-duoc-dua-vao-tp-hcm-cap-cuu-5053903.html) - 09:58 23/03/2026
 - 👺 [Đàn bò chạy trên cao tốc TP HCM - Long Thành](https://vnexpress.net/dan-bo-chay-tren-cao-toc-tp-hcm-long-thanh-5053913.html) - 09:50 23/03/2026
 - 🧑‍🏫 [Đề xuất làm tổ hợp nhiệt điện than - nhôm 5 tỷ USD ở Vĩnh Hảo](https://vnexpress.net/de-xuat-lam-to-hop-nhiet-dien-than-nhom-5-ty-usd-o-vinh-hao-5053865.html) - 09:39 23/03/2026
