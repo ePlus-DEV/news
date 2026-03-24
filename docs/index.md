@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Một học sinh lớp 12 ở Thanh Hóa dùng mã độc đánh cắp dữ liệu máy tính người dùng toàn cầu](https://nld.com.vn/mot-hoc-sinh-lop-12-o-thanh-hoa-dung-ma-doc-danh-cap-du-lieu-may-tinh-nguoi-dung-toan-cau-196260324215720573.htm) - 15:16 24/03/2026
-- 😺 [Cháy dữ dội kèm nổ lớn ở công ty sơn tại TPHCM](https://nld.com.vn/chay-du-doi-kem-no-lon-o-cong-ty-son-tai-tphcm-19626032421423005.htm) - 14:58 24/03/2026
+- 😺 [Cháy ngùn ngụt kèm nổ lớn ở công ty sơn tại TPHCM](https://nld.com.vn/chay-du-doi-kem-no-lon-o-cong-ty-son-tai-tphcm-19626032421423005.htm) - 14:58 24/03/2026
 - 👍 [Lấy ý kiến nhân dân về đề án thành lập thành phố Đồng Nai trực thuộc Trung ương](https://nld.com.vn/lay-y-kien-nhan-dan-ve-de-an-thanh-lap-thanh-pho-dong-nai-truc-thuoc-trung-uong-196260324210524374.htm) - 14:16 24/03/2026
 - 🥷 [Cháy dữ dội nhà 7 tầng, phá mái nhà đưa thang xuống cứu người](https://nld.com.vn/chay-du-doi-nha-7-tang-pha-mai-nha-dua-thang-xuong-cuu-nguoi-196260324205001062.htm) - 14:04 24/03/2026
 - 🤔 [Giá lúa gạo giảm, không để xảy ra cảnh thương lái ép giá nông dân](https://nld.com.vn/gia-lua-gao-giam-khong-de-xay-ra-canh-thuong-lai-ep-gia-nong-dan-196260324195549885.htm) - 13:29 24/03/2026
