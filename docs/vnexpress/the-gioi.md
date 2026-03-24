@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Philippines ban bố tình trạng khẩn cấp về năng lượng](https://vnexpress.net/philippines-ban-bo-tinh-trang-khan-cap-ve-nang-luong-5054410.html) - 15:54 24/03/2026
+- 🎭 [Israel muốn kiểm soát khu vực rộng lớn ở miền nam Lebanon](https://vnexpress.net/israel-muon-kiem-soat-khu-vuc-rong-lon-o-mien-nam-lebanon-5054401.html) - 16:37 24/03/2026
 - 🕴 [Iran tuyên bố sẽ chiến đấu đến khi &#39;hoàn toàn chiến thắng&#39;](https://vnexpress.net/iran-tuyen-bo-se-chien-dau-den-khi-hoan-toan-chien-thang-5054387.html) - 14:21 24/03/2026
 - 🤭 [Ba phút dẫn đến vụ máy bay Canada nát mũi ở New York](https://vnexpress.net/ba-phut-dan-den-vu-may-bay-canada-nat-mui-o-new-york-5054264.html) - 13:19 24/03/2026
 - 🧑‍💻 [Cú đạp phanh của ông Trump giúp Trung Đông thoát bờ vực thẳm](https://vnexpress.net/cu-dap-phanh-cua-ong-trump-giup-trung-dong-thoat-bo-vuc-tham-5054041.html) - 12:00 24/03/2026
