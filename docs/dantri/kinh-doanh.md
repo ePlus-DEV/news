@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Doanh nghiệp cần có có kế hoạch xuất khẩu gạo phù hợp với từng giai đoạn](https://dantri.com.vn/kinh-doanh/doanh-nghiep-can-co-co-ke-hoach-xuat-khau-gao-phu-hop-voi-tung-giai-doan-20260324205129867.htm) - 14:36 24/03/2026
-- 🦆 [Sàn tiền số lớn nhất thế giới Binance tuyển tổng giám đốc tại Việt Nam](https://dantri.com.vn/kinh-doanh/san-tien-so-lon-nhat-the-gioi-binance-tuyen-tong-giam-doc-tai-viet-nam-20260324210756980.htm) - 14:34 24/03/2026
-- 🦄 [Kéo dài thời hạn tạm ngưng Nghị định 46: Doanh nghiệp “thở phào”](https://dantri.com.vn/kinh-doanh/keo-dai-thoi-han-tam-ngung-nghi-dinh-46-doanh-nghiep-tho-phao-20260324174908541.htm) - 10:49 24/03/2026
-- 🌝 [Tín dụng xanh tăng tốc, đạt 780.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/tin-dung-xanh-tang-toc-dat-780000-ty-dong-20260324160642566.htm) - 10:01 24/03/2026
-- 💃 [Thao túng mã ST8: Cá nhân bị phạt 1,5 tỷ đồng, cấm “chơi” chứng khoán 2 năm](https://dantri.com.vn/kinh-doanh/thao-tung-ma-st8-ca-nhan-bi-phat-15-ty-dong-cam-choi-chung-khoan-2-nam-20260324161519441.htm) - 09:52 24/03/2026
-- 🦏 [Cổ phiếu Hóa chất Đức Giang thoát cảnh &quot;nằm sàn&quot;](https://dantri.com.vn/kinh-doanh/co-phieu-hoa-chat-duc-giang-thoat-canh-nam-san-20260324160541016.htm) - 09:16 24/03/2026
-- 🦩 [Khảo sát mới: 86% khách hàng sẵn sàng chi thêm tiền cho sản phẩm xanh](https://dantri.com.vn/kinh-doanh/khao-sat-moi-86-khach-hang-san-sang-chi-them-tien-cho-san-pham-xanh-20260324113253475.htm) - 07:47 24/03/2026
-- 💡 [Eximbank khai trương trụ sở chính tại Hà Nội](https://dantri.com.vn/kinh-doanh/eximbank-khai-truong-tru-so-chinh-tai-ha-noi-20260324142934776.htm) - 07:37 24/03/2026
-- 🌊 [Khủng hoảng xăng dầu toàn cầu và cách các quốc gia ứng phó](https://dantri.com.vn/kinh-doanh/khung-hoang-xang-dau-toan-cau-va-cach-cac-quoc-gia-ung-pho-20260323165330824.htm) - 07:35 24/03/2026
-- 🧑‍💻 [Lộ diện các tàu hàng hiếm hoi vượt qua eo biển Hormuz](https://dantri.com.vn/kinh-doanh/lo-dien-cac-tau-hang-hiem-hoi-vuot-qua-eo-bien-hormuz-20260324111955254.htm) - 07:05 24/03/2026
-- 🎓 [Đề xuất giảm một nửa thuế môi trường với xăng, dầu](https://dantri.com.vn/kinh-doanh/de-xuat-giam-mot-nua-thue-moi-truong-voi-xang-dau-20260324132641008.htm) - 06:36 24/03/2026
-- 🪄 [Thêm “ông lớn” Big 4 tăng lãi suất: Có tiền gửi ngân hàng nào lời nhất?](https://dantri.com.vn/kinh-doanh/them-ong-lon-big-4-tang-lai-suat-co-tien-gui-ngan-hang-nao-loi-nhat-20260324112416223.htm) - 04:31 24/03/2026
-- 🪜 [9 doanh nghiệp kinh doanh vàng tại Đồng Tháp bị phạt](https://dantri.com.vn/kinh-doanh/9-doanh-nghiep-kinh-doanh-vang-tai-dong-thap-bi-phat-20260324111514845.htm) - 04:24 24/03/2026
-- 🦄 [Giao dịch dè dặt, chứng khoán tăng 23,6 điểm](https://dantri.com.vn/kinh-doanh/giao-dich-de-dat-chung-khoan-tang-236-diem-20260324111218841.htm) - 04:22 24/03/2026
-- 💯 [Bí ẩn cú cược 800 triệu USD trước phút Tổng thống Trump đưa thông điệp](https://dantri.com.vn/kinh-doanh/bi-an-cu-cuoc-800-trieu-usd-truoc-phut-tong-thong-trump-dua-thong-diep-20260324092854484.htm) - 03:55 24/03/2026
-- 💡 [Vàng miếng SJC tăng 4,2 triệu đồng, lấy lại mốc 170 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-42-trieu-dong-lay-lai-moc-170-trieu-dongluong-20260324080903218.htm) - 01:37 24/03/2026
-- 🧰 [Nam A Bank và Proparco hợp tác thúc đẩy nguồn lực tài chính xanh tại Việt Nam](https://dantri.com.vn/kinh-doanh/nam-a-bank-va-proparco-hop-tac-thuc-day-nguon-luc-tai-chinh-xanh-tai-viet-nam-20260323223917124.htm) - 01:00 24/03/2026
-- 🎊 [Dầu, vàng đồng loạt đảo chiều gắt sau động thái từ Mỹ](https://dantri.com.vn/kinh-doanh/dau-vang-dong-loat-dao-chieu-gat-sau-dong-thai-tu-my-20260324073111127.htm) - 00:58 24/03/2026
-- 🔭 [Khi giá vàng lên xuống như tàu lượn, nhà đầu tư nên làm gì?](https://dantri.com.vn/kinh-doanh/khi-gia-vang-len-xuong-nhu-tau-luon-nha-dau-tu-nen-lam-gi-20260323150404199.htm) - 00:25 24/03/2026
-- 💼 [Lý giải phiên giá vàng giảm 9 triệu đồng/lượng, chuyên gia cảnh báo rủi ro](https://dantri.com.vn/kinh-doanh/ly-giai-phien-gia-vang-giam-9-trieu-dongluong-chuyen-gia-canh-bao-rui-ro-20260323171658076.htm) - 00:22 24/03/2026
-- 🕯 [Cuộc đua hút tiền của ngân hàng thêm &quot;nóng&quot;, lãi suất vọt lên 9%/năm](https://dantri.com.vn/kinh-doanh/cuoc-dua-hut-tien-cua-ngan-hang-them-nong-lai-suat-vot-len-9nam-20260323162429925.htm) - 23:10 23/03/2026
-- 🫣 [Giá vàng thế giới đảo chiều tăng lên 4.500 USD/ounce](https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-dao-chieu-tang-len-4500-usdounce-20260323214727751.htm) - 14:56 23/03/2026
-- 🤠 [Một người trúng Vietlott 114 tỷ đồng](https://dantri.com.vn/kinh-doanh/mot-nguoi-trung-vietlott-114-ty-dong-20260323184056438.htm) - 13:45 23/03/2026
-- 🌈 [Giá dầu giảm mạnh xuống còn 90 USD/thùng](https://dantri.com.vn/kinh-doanh/gia-dau-giam-manh-xuong-con-90-usdthung-20260323201145504.htm) - 13:42 23/03/2026
-- 🦅 [Lãnh đạo công ty thép, dầu khí bán ra lượng lớn cổ phiếu](https://dantri.com.vn/kinh-doanh/lanh-dao-cong-ty-thep-dau-khi-ban-ra-luong-lon-co-phieu-20260323111513479.htm) - 12:51 23/03/2026
-- 🌁 [Thủ tướng thăm tập đoàn khí đốt hàng đầu của Nga, kêu gọi đầu tư khí LNG](https://dantri.com.vn/kinh-doanh/thu-tuong-tham-tap-doan-khi-dot-hang-dau-cua-nga-keu-goi-dau-tu-khi-lng-20260323194548901.htm) - 12:48 23/03/2026
-- 🎓 [Vingroup và Tổng Công ty Cảng Hàng không Việt Nam hợp tác thúc đẩy chuyển đổi xanh](https://dantri.com.vn/kinh-doanh/vingroup-va-tong-cong-ty-cang-hang-khong-viet-nam-hop-tac-thuc-day-chuyen-doi-xanh-20260323180910598.htm) - 11:33 23/03/2026
-- 📝 [Thanh Hóa mời gọi đầu tư 173 dự án với tổng vốn khoảng 24 tỷ USD](https://dantri.com.vn/kinh-doanh/thanh-hoa-moi-goi-dau-tu-173-du-an-voi-tong-von-khoang-24-ty-usd-20260323155031435.htm) - 08:58 23/03/2026
-- 🕴 [Thu phí 2 triệu USD/tàu qua eo Hormuz: “Luật chơi” mới lộ diện?](https://dantri.com.vn/kinh-doanh/thu-phi-2-trieu-usdtau-qua-eo-hormuz-luat-choi-moi-lo-dien-20260323105826981.htm) - 08:41 23/03/2026
-- 🧰 [Chanh leo, thanh long đối diện nguy cơ bị EU siết kiểm soát](https://dantri.com.vn/kinh-doanh/chanh-leo-thanh-long-doi-dien-nguy-co-bi-eu-siet-kiem-soat-20260323150426465.htm) - 08:36 23/03/2026
-- 🤖 [Chứng khoán mất mốc 1.600 điểm, nhiều cổ phiếu ông lớn giảm sàn](https://dantri.com.vn/kinh-doanh/chung-khoan-mat-moc-1600-diem-nhieu-co-phieu-ong-lon-giam-san-20260323151029282.htm) - 08:15 23/03/2026
-- 🤠 [Đặt mục tiêu 20 doanh nghiệp lớn Việt Nam tham gia chuỗi giá trị toàn cầu](https://dantri.com.vn/kinh-doanh/dat-muc-tieu-20-doanh-nghiep-lon-viet-nam-tham-gia-chuoi-gia-tri-toan-cau-20260323145429502.htm) - 08:15 23/03/2026
-- 🌮 [Hé lộ hồ sơ HVA, công ty có quan hệ với sàn ONUS vừa bị đóng băng](https://dantri.com.vn/kinh-doanh/he-lo-ho-so-hva-cong-ty-co-quan-he-voi-san-onus-vua-bi-dong-bang-20260323094231628.htm) - 07:54 23/03/2026
-- 🦄 [Giá bạc lao dốc không phanh, Trung Quốc âm thầm gom gần 800 tấn](https://dantri.com.vn/kinh-doanh/gia-bac-lao-doc-khong-phanh-trung-quoc-am-tham-gom-gan-800-tan-20260322222222655.htm) - 07:05 23/03/2026
-- 👺 [Giá vàng miếng giảm về 165 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-ve-165-trieu-dongluong-20260323102717804.htm) - 07:02 23/03/2026
-- 🤗 [Canh bạc mới nhất của tỷ phú Elon Musk: Siêu nhà máy chip 25 tỷ USD](https://dantri.com.vn/kinh-doanh/canh-bac-moi-nhat-cua-ty-phu-elon-musk-sieu-nha-may-chip-25-ty-usd-20260323134334247.htm) - 07:00 23/03/2026
-- 💪 [MSB và hành trình 35 năm kiến tạo “Di sản tâm thức” cùng khách hàng](https://dantri.com.vn/kinh-doanh/msb-va-hanh-trinh-35-nam-kien-tao-di-san-tam-thuc-cung-khach-hang-20260323115405582.htm) - 07:00 23/03/2026
-- ⚗️ [Chiến sự Iran đang định hình lại “kênh trú ẩn” của giới đầu tư](https://dantri.com.vn/kinh-doanh/chien-su-iran-dang-dinh-hinh-lai-kenh-tru-an-cua-gioi-dau-tu-20260323095020177.htm) - 04:22 23/03/2026
-- 🧠 [Nhiều công ty chốt ngày “chia tiền” cho cổ đông](https://dantri.com.vn/kinh-doanh/nhieu-cong-ty-chot-ngay-chia-tien-cho-co-dong-20260323103619364.htm) - 04:17 23/03/2026
-- 🗽 [Biến động Trung Đông thúc đẩy làn sóng năng lượng tái tạo](https://dantri.com.vn/kinh-doanh/bien-dong-trung-dong-thuc-day-lan-song-nang-luong-tai-tao-20260322181023949.htm) - 02:53 23/03/2026
-- 🫣 [Giá vàng bốc hơi 11%, kịch bản nào cho nhà đầu tư tuần này?](https://dantri.com.vn/kinh-doanh/gia-vang-boc-hoi-11-kich-ban-nao-cho-nha-dau-tu-tuan-nay-20260323060536207.htm) - 01:36 23/03/2026
-- 🫣 [Thu nhập sếp lớn bất động sản: Có người nhận hơn 19 tỷ đồng](https://dantri.com.vn/kinh-doanh/thu-nhap-sep-lon-bat-dong-san-co-nguoi-nhan-hon-19-ty-dong-20260323055442128.htm) - 00:58 23/03/2026
-- 🫣 [Ngân hàng đua nhau lập công ty bảo hiểm](https://dantri.com.vn/kinh-doanh/ngan-hang-dua-nhau-lap-cong-ty-bao-hiem-20260322155418191.htm) - 00:42 23/03/2026
-- 💂 [Thị trường năng lượng toàn cầu xoay xở trước diễn biến mới tại Hormuz](https://dantri.com.vn/kinh-doanh/thi-truong-nang-luong-toan-cau-xoay-xo-truoc-dien-bien-moi-tai-hormuz-20260323054520868.htm) - 00:03 23/03/2026
-- 💫 [Người mua vàng lỗ gần 23 triệu đồng/lượng nếu lỡ “đu đỉnh”](https://dantri.com.vn/kinh-doanh/nguoi-mua-vang-lo-gan-23-trieu-dongluong-neu-lo-du-dinh-20260323000941582.htm) - 23:27 22/03/2026
-- 😺 [Phó Thủ tướng Thường trực sang Mỹ giới thiệu Trung tâm Tài chính quốc tế](https://dantri.com.vn/kinh-doanh/pho-thu-tuong-thuong-truc-sang-my-gioi-thieu-trung-tam-tai-chinh-quoc-te-20260322170712271.htm) - 11:14 22/03/2026
-- 🦆 [Ngân hàng tham vọng về lợi nhuận năm nay, có bên đặt mục tiêu tăng gần 40%](https://dantri.com.vn/kinh-doanh/ngan-hang-tham-vong-ve-loi-nhuan-nam-nay-co-ben-dat-muc-tieu-tang-gan-40-20260322153419084.htm) - 09:42 22/03/2026
-- 👀 [Loạt doanh nhân trúng cử đại biểu Quốc hội](https://dantri.com.vn/kinh-doanh/loat-doanh-nhan-trung-cu-dai-bieu-quoc-hoi-20260322151308400.htm) - 09:32 22/03/2026
-- 🐵 [Hơn 15 ngày Việt Nam nỗ lực kìm giá, bảo đảm nguồn cung xăng dầu](https://dantri.com.vn/kinh-doanh/hon-15-ngay-viet-nam-no-luc-kim-gia-bao-dam-nguon-cung-xang-dau-20260322103224049.htm) - 05:21 22/03/2026
-- 🤖 [Toàn cảnh siêu dự án sân bay Long Thành](https://dantri.com.vn/kinh-doanh/toan-canh-sieu-du-an-san-bay-long-thanh-20260318190307488.htm) - 04:39 22/03/2026
-- 💂 [Loạt biến động tại Hóa chất Đức Giang sau khi cha con chủ tịch bị bắt](https://dantri.com.vn/kinh-doanh/loat-bien-dong-tai-hoa-chat-duc-giang-sau-khi-cha-con-chu-tich-bi-bat-20260322091037794.htm) - 02:22 22/03/2026
-- 🦆 [CBAM và luật chơi ESG mới năm 2026: Doanh nghiệp Việt cần chuẩn bị gì?](https://dantri.com.vn/kinh-doanh/cbam-va-luat-choi-esg-moi-nam-2026-doanh-nghiep-viet-can-chuan-bi-gi-20260311195937737.htm) - 02:20 22/03/2026
-- 🦅 [F2 nhà Biti&#39;s, Bảo Tín Mạnh Hải kể khó khi kế thừa gia sản, làm cha mẹ dỗi](https://dantri.com.vn/kinh-doanh/f2-nha-bitis-bao-tin-manh-hai-ke-kho-khi-ke-thua-gia-san-lam-cha-me-doi-20260320181903046.htm) - 02:14 22/03/2026
-- 😎 [Ông Phạm Huy Thông làm Cục trưởng Công nghệ thông tin, Kiểm toán Nhà nước](https://dantri.com.vn/kinh-doanh/ong-pham-huy-thong-lam-cuc-truong-cong-nghe-thong-tin-kiem-toan-nha-nuoc-20260320195811246.htm) - 02:04 22/03/2026
-- 🐎 [Tiếp tục ngưng thực hiện Nghị định 46 về an toàn thực phẩm](https://dantri.com.vn/kinh-doanh/tiep-tuc-ngung-thuc-hien-nghi-dinh-46-ve-an-toan-thuc-pham-20260322081607714.htm) - 01:56 22/03/2026
-- 👍 [Giá vàng miếng giảm gần 21 triệu đồng/lượng từ đỉnh](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-gan-21-trieu-dongluong-tu-dinh-20260322080026335.htm) - 01:17 22/03/2026
-- 🦒 [Dầu Nga đại hạ giá, Trung Quốc bỏ túi hàng tỷ USD giữa tâm bão cấm vận](https://dantri.com.vn/kinh-doanh/dau-nga-dai-ha-gia-trung-quoc-bo-tui-hang-ty-usd-giua-tam-bao-cam-van-20260322051544117.htm) - 00:57 22/03/2026
-- 💻 [Bảo đảm nguồn cung, giá nhiên liệu ổn định trong tình hình mới](https://dantri.com.vn/kinh-doanh/bao-dam-nguon-cung-gia-nhien-lieu-on-dinh-trong-tinh-hinh-moi-20260321211637732.htm) - 14:20 21/03/2026
-- 👺 [Thủ tướng: Dứt khoát không để thiếu xăng dầu trong mọi tình huống](https://dantri.com.vn/kinh-doanh/thu-tuong-dut-khoat-khong-de-thieu-xang-dau-trong-moi-tinh-huong-20260321200750600.htm) - 13:33 21/03/2026
-- 🧐 [Bạc thỏi rớt giá mạnh, bốc hơi 30 triệu đồng sau một tháng](https://dantri.com.vn/kinh-doanh/bac-thoi-rot-gia-manh-boc-hoi-30-trieu-dong-sau-mot-thang-20260321182202376.htm) - 13:30 21/03/2026<!-- dantri-kinh-doanh:END -->
+- 🏊 [Doanh nghiệp Việt cần khẩn trương với chính sách thuế 150 ngày của Mỹ](https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-can-khan-truong-voi-chinh-sach-thue-150-ngay-cua-my-20260325125431928.htm) - 05:54 25/03/2026
+- 🦆 [Giá bạc trong nước tăng vượt đà phục hồi của vàng](https://dantri.com.vn/kinh-doanh/gia-bac-trong-nuoc-tang-vuot-da-phuc-hoi-cua-vang-20260325105823998.htm) - 05:35 25/03/2026
+- 🦄 [Giới đầu tư &quot;ôm&quot; tiền mặt kỷ lục từ thời Covid: Chuyện gì đang xảy ra?](https://dantri.com.vn/kinh-doanh/gioi-dau-tu-om-tien-mat-ky-luc-tu-thoi-covid-chuyen-gi-dang-xay-ra-20260325101259738.htm) - 05:07 25/03/2026
+- 🌝 [Quỹ tỷ USD Warburg Pincus muốn tham gia Trung tâm tài chính Việt Nam](https://dantri.com.vn/kinh-doanh/quy-ty-usd-warburg-pincus-muon-tham-gia-trung-tam-tai-chinh-viet-nam-20260325095658058.htm) - 04:46 25/03/2026
+- 💃 [Ngân hàng nhóm Big 4 đồng loạt tăng lãi suất tiết kiệm](https://dantri.com.vn/kinh-doanh/ngan-hang-nhom-big-4-dong-loat-tang-lai-suat-tiet-kiem-20260325102656353.htm) - 04:30 25/03/2026
+- 🦏 [Nam A Bank gia nhập mạng lưới tài trợ thương mại toàn cầu](https://dantri.com.vn/kinh-doanh/nam-a-bank-gia-nhap-mang-luoi-tai-tro-thuong-mai-toan-cau-20260325103936139.htm) - 03:55 25/03/2026
+- 🦩 [Dầu thô mất mốc 100 USD, thị trường tài chính đảo chiều](https://dantri.com.vn/kinh-doanh/dau-tho-mat-moc-100-usd-thi-truong-tai-chinh-dao-chieu-20260325065238525.htm) - 03:34 25/03/2026
+- 💡 [Vàng bốc hơi 21%, giới đầu cơ ôm lỗ nhưng vẫn chờ mốc 10.000 USD?](https://dantri.com.vn/kinh-doanh/vang-boc-hoi-21-gioi-dau-co-om-lo-nhung-van-cho-moc-10000-usd-20260325074843088.htm) - 03:17 25/03/2026
+- 🌊 [Chuyên gia lý giải việc giá vàng biến động chưa từng có](https://dantri.com.vn/kinh-doanh/chuyen-gia-ly-giai-viec-gia-vang-bien-dong-chua-tung-co-20260325013427881.htm) - 01:28 25/03/2026
+- 🧑‍💻 [5 cách người giàu quản lý tiền chúng ta có thể học ngay](https://dantri.com.vn/kinh-doanh/5-cach-nguoi-giau-quan-ly-tien-chung-ta-co-the-hoc-ngay-20260324223650736.htm) - 00:57 25/03/2026
+- 🎓 [Bộ Công Thương: Sẽ đề xuất thêm chính sách thuế ổn định giá xăng dầu](https://dantri.com.vn/kinh-doanh/bo-cong-thuong-se-de-xuat-them-chinh-sach-thue-on-dinh-gia-xang-dau-20260325012012513.htm) - 23:59 24/03/2026
+- 🪄 [Giá vàng miếng lên mức 175 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-len-muc-175-trieu-dongluong-20260325011816105.htm) - 23:56 24/03/2026
+- 🪜 [Doanh nghiệp cần có kế hoạch xuất khẩu gạo phù hợp với từng giai đoạn](https://dantri.com.vn/kinh-doanh/doanh-nghiep-can-co-ke-hoach-xuat-khau-gao-phu-hop-voi-tung-giai-doan-20260324205129867.htm) - 14:36 24/03/2026
+- 🦄 [Sàn tiền số lớn nhất thế giới Binance tuyển tổng giám đốc tại Việt Nam](https://dantri.com.vn/kinh-doanh/san-tien-so-lon-nhat-the-gioi-binance-tuyen-tong-giam-doc-tai-viet-nam-20260324210756980.htm) - 14:34 24/03/2026
+- 💯 [Kéo dài thời hạn tạm ngưng Nghị định 46: Doanh nghiệp “thở phào”](https://dantri.com.vn/kinh-doanh/keo-dai-thoi-han-tam-ngung-nghi-dinh-46-doanh-nghiep-tho-phao-20260324174908541.htm) - 10:49 24/03/2026
+- 💡 [Tín dụng xanh tăng tốc, đạt 780.000 tỷ đồng](https://dantri.com.vn/kinh-doanh/tin-dung-xanh-tang-toc-dat-780000-ty-dong-20260324160642566.htm) - 10:01 24/03/2026
+- 🧰 [Thao túng mã ST8: Cá nhân bị phạt 1,5 tỷ đồng, cấm “chơi” chứng khoán 2 năm](https://dantri.com.vn/kinh-doanh/thao-tung-ma-st8-ca-nhan-bi-phat-15-ty-dong-cam-choi-chung-khoan-2-nam-20260324161519441.htm) - 09:52 24/03/2026
+- 🎊 [Cổ phiếu Hóa chất Đức Giang thoát cảnh &quot;nằm sàn&quot;](https://dantri.com.vn/kinh-doanh/co-phieu-hoa-chat-duc-giang-thoat-canh-nam-san-20260324160541016.htm) - 09:16 24/03/2026
+- 🔭 [Khảo sát mới: 86% khách hàng sẵn sàng chi thêm tiền cho sản phẩm xanh](https://dantri.com.vn/kinh-doanh/khao-sat-moi-86-khach-hang-san-sang-chi-them-tien-cho-san-pham-xanh-20260324113253475.htm) - 07:47 24/03/2026
+- 💼 [Eximbank khai trương trụ sở chính tại Hà Nội](https://dantri.com.vn/kinh-doanh/eximbank-khai-truong-tru-so-chinh-tai-ha-noi-20260324142934776.htm) - 07:37 24/03/2026
+- 🕯 [Khủng hoảng xăng dầu toàn cầu và cách các quốc gia ứng phó](https://dantri.com.vn/kinh-doanh/khung-hoang-xang-dau-toan-cau-va-cach-cac-quoc-gia-ung-pho-20260323165330824.htm) - 07:35 24/03/2026
+- 🫣 [Lộ diện các tàu hàng hiếm hoi vượt qua eo biển Hormuz](https://dantri.com.vn/kinh-doanh/lo-dien-cac-tau-hang-hiem-hoi-vuot-qua-eo-bien-hormuz-20260324111955254.htm) - 07:05 24/03/2026
+- 🤠 [Đề xuất giảm một nửa thuế môi trường với xăng, dầu](https://dantri.com.vn/kinh-doanh/de-xuat-giam-mot-nua-thue-moi-truong-voi-xang-dau-20260324132641008.htm) - 06:36 24/03/2026
+- 🌈 [Thêm “ông lớn” Big 4 tăng lãi suất: Có tiền gửi ngân hàng nào lời nhất?](https://dantri.com.vn/kinh-doanh/them-ong-lon-big-4-tang-lai-suat-co-tien-gui-ngan-hang-nao-loi-nhat-20260324112416223.htm) - 04:31 24/03/2026
+- 🦅 [9 doanh nghiệp kinh doanh vàng tại Đồng Tháp bị phạt](https://dantri.com.vn/kinh-doanh/9-doanh-nghiep-kinh-doanh-vang-tai-dong-thap-bi-phat-20260324111514845.htm) - 04:24 24/03/2026
+- 🌁 [Giao dịch dè dặt, chứng khoán tăng 23,6 điểm](https://dantri.com.vn/kinh-doanh/giao-dich-de-dat-chung-khoan-tang-236-diem-20260324111218841.htm) - 04:22 24/03/2026
+- 🎓 [Bí ẩn cú cược 800 triệu USD trước phút Tổng thống Trump đưa thông điệp](https://dantri.com.vn/kinh-doanh/bi-an-cu-cuoc-800-trieu-usd-truoc-phut-tong-thong-trump-dua-thong-diep-20260324092854484.htm) - 03:55 24/03/2026
+- 📝 [Vàng miếng SJC tăng 4,2 triệu đồng, lấy lại mốc 170 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-42-trieu-dong-lay-lai-moc-170-trieu-dongluong-20260324080903218.htm) - 01:37 24/03/2026
+- 🕴 [Nam A Bank và Proparco hợp tác thúc đẩy nguồn lực tài chính xanh tại Việt Nam](https://dantri.com.vn/kinh-doanh/nam-a-bank-va-proparco-hop-tac-thuc-day-nguon-luc-tai-chinh-xanh-tai-viet-nam-20260323223917124.htm) - 01:00 24/03/2026
+- 🧰 [Dầu, vàng đồng loạt đảo chiều gắt sau động thái từ Mỹ](https://dantri.com.vn/kinh-doanh/dau-vang-dong-loat-dao-chieu-gat-sau-dong-thai-tu-my-20260324073111127.htm) - 00:58 24/03/2026
+- 🤖 [Khi giá vàng lên xuống như tàu lượn, nhà đầu tư nên làm gì?](https://dantri.com.vn/kinh-doanh/khi-gia-vang-len-xuong-nhu-tau-luon-nha-dau-tu-nen-lam-gi-20260323150404199.htm) - 00:25 24/03/2026
+- 🤠 [Lý giải phiên giá vàng giảm 9 triệu đồng/lượng, chuyên gia cảnh báo rủi ro](https://dantri.com.vn/kinh-doanh/ly-giai-phien-gia-vang-giam-9-trieu-dongluong-chuyen-gia-canh-bao-rui-ro-20260323171658076.htm) - 00:22 24/03/2026
+- 🌮 [Cuộc đua hút tiền của ngân hàng thêm &quot;nóng&quot;, lãi suất vọt lên 9%/năm](https://dantri.com.vn/kinh-doanh/cuoc-dua-hut-tien-cua-ngan-hang-them-nong-lai-suat-vot-len-9nam-20260323162429925.htm) - 23:10 23/03/2026
+- 🦄 [Giá vàng thế giới đảo chiều tăng lên 4.500 USD/ounce](https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-dao-chieu-tang-len-4500-usdounce-20260323214727751.htm) - 14:56 23/03/2026
+- 👺 [Một người trúng Vietlott 114 tỷ đồng](https://dantri.com.vn/kinh-doanh/mot-nguoi-trung-vietlott-114-ty-dong-20260323184056438.htm) - 13:45 23/03/2026
+- 🤗 [Giá dầu giảm mạnh xuống còn 90 USD/thùng](https://dantri.com.vn/kinh-doanh/gia-dau-giam-manh-xuong-con-90-usdthung-20260323201145504.htm) - 13:42 23/03/2026
+- 💪 [Lãnh đạo công ty thép, dầu khí bán ra lượng lớn cổ phiếu](https://dantri.com.vn/kinh-doanh/lanh-dao-cong-ty-thep-dau-khi-ban-ra-luong-lon-co-phieu-20260323111513479.htm) - 12:51 23/03/2026
+- ⚗️ [Thủ tướng thăm tập đoàn khí đốt hàng đầu của Nga, kêu gọi đầu tư khí LNG](https://dantri.com.vn/kinh-doanh/thu-tuong-tham-tap-doan-khi-dot-hang-dau-cua-nga-keu-goi-dau-tu-khi-lng-20260323194548901.htm) - 12:48 23/03/2026
+- 🧠 [Vingroup và Tổng Công ty Cảng Hàng không Việt Nam hợp tác thúc đẩy chuyển đổi xanh](https://dantri.com.vn/kinh-doanh/vingroup-va-tong-cong-ty-cang-hang-khong-viet-nam-hop-tac-thuc-day-chuyen-doi-xanh-20260323180910598.htm) - 11:33 23/03/2026
+- 🗽 [Thanh Hóa mời gọi đầu tư 173 dự án với tổng vốn khoảng 24 tỷ USD](https://dantri.com.vn/kinh-doanh/thanh-hoa-moi-goi-dau-tu-173-du-an-voi-tong-von-khoang-24-ty-usd-20260323155031435.htm) - 08:58 23/03/2026
+- 🫣 [Thu phí 2 triệu USD/tàu qua eo Hormuz: “Luật chơi” mới lộ diện?](https://dantri.com.vn/kinh-doanh/thu-phi-2-trieu-usdtau-qua-eo-hormuz-luat-choi-moi-lo-dien-20260323105826981.htm) - 08:41 23/03/2026
+- 🫣 [Chanh leo, thanh long đối diện nguy cơ bị EU siết kiểm soát](https://dantri.com.vn/kinh-doanh/chanh-leo-thanh-long-doi-dien-nguy-co-bi-eu-siet-kiem-soat-20260323150426465.htm) - 08:36 23/03/2026
+- 🫣 [Chứng khoán mất mốc 1.600 điểm, nhiều cổ phiếu ông lớn giảm sàn](https://dantri.com.vn/kinh-doanh/chung-khoan-mat-moc-1600-diem-nhieu-co-phieu-ong-lon-giam-san-20260323151029282.htm) - 08:15 23/03/2026
+- 💂 [Đặt mục tiêu 20 doanh nghiệp lớn Việt Nam tham gia chuỗi giá trị toàn cầu](https://dantri.com.vn/kinh-doanh/dat-muc-tieu-20-doanh-nghiep-lon-viet-nam-tham-gia-chuoi-gia-tri-toan-cau-20260323145429502.htm) - 08:15 23/03/2026
+- 💫 [Hé lộ hồ sơ HVA, công ty có quan hệ với sàn ONUS vừa bị đóng băng](https://dantri.com.vn/kinh-doanh/he-lo-ho-so-hva-cong-ty-co-quan-he-voi-san-onus-vua-bi-dong-bang-20260323094231628.htm) - 07:54 23/03/2026
+- 😺 [Giá bạc lao dốc không phanh, Trung Quốc âm thầm gom gần 800 tấn](https://dantri.com.vn/kinh-doanh/gia-bac-lao-doc-khong-phanh-trung-quoc-am-tham-gom-gan-800-tan-20260322222222655.htm) - 07:05 23/03/2026
+- 🦆 [Giá vàng miếng giảm về 165 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-ve-165-trieu-dongluong-20260323102717804.htm) - 07:02 23/03/2026
+- 👀 [Canh bạc mới nhất của tỷ phú Elon Musk: Siêu nhà máy chip 25 tỷ USD](https://dantri.com.vn/kinh-doanh/canh-bac-moi-nhat-cua-ty-phu-elon-musk-sieu-nha-may-chip-25-ty-usd-20260323134334247.htm) - 07:00 23/03/2026
+- 🐵 [MSB và hành trình 35 năm kiến tạo “Di sản tâm thức” cùng khách hàng](https://dantri.com.vn/kinh-doanh/msb-va-hanh-trinh-35-nam-kien-tao-di-san-tam-thuc-cung-khach-hang-20260323115405582.htm) - 07:00 23/03/2026
+- 🤖 [Chiến sự Iran đang định hình lại “kênh trú ẩn” của giới đầu tư](https://dantri.com.vn/kinh-doanh/chien-su-iran-dang-dinh-hinh-lai-kenh-tru-an-cua-gioi-dau-tu-20260323095020177.htm) - 04:22 23/03/2026
+- 💂 [Nhiều công ty chốt ngày “chia tiền” cho cổ đông](https://dantri.com.vn/kinh-doanh/nhieu-cong-ty-chot-ngay-chia-tien-cho-co-dong-20260323103619364.htm) - 04:17 23/03/2026
+- 🦆 [Biến động Trung Đông thúc đẩy làn sóng năng lượng tái tạo](https://dantri.com.vn/kinh-doanh/bien-dong-trung-dong-thuc-day-lan-song-nang-luong-tai-tao-20260322181023949.htm) - 02:53 23/03/2026
+- 🦅 [Giá vàng bốc hơi 11%, kịch bản nào cho nhà đầu tư tuần này?](https://dantri.com.vn/kinh-doanh/gia-vang-boc-hoi-11-kich-ban-nao-cho-nha-dau-tu-tuan-nay-20260323060536207.htm) - 01:36 23/03/2026
+- 😎 [Thu nhập sếp lớn bất động sản: Có người nhận hơn 19 tỷ đồng](https://dantri.com.vn/kinh-doanh/thu-nhap-sep-lon-bat-dong-san-co-nguoi-nhan-hon-19-ty-dong-20260323055442128.htm) - 00:58 23/03/2026
+- 🐎 [Ngân hàng đua nhau lập công ty bảo hiểm](https://dantri.com.vn/kinh-doanh/ngan-hang-dua-nhau-lap-cong-ty-bao-hiem-20260322155418191.htm) - 00:42 23/03/2026
+- 👍 [Thị trường năng lượng toàn cầu xoay xở trước diễn biến mới tại Hormuz](https://dantri.com.vn/kinh-doanh/thi-truong-nang-luong-toan-cau-xoay-xo-truoc-dien-bien-moi-tai-hormuz-20260323054520868.htm) - 00:03 23/03/2026
+- 🦒 [Người mua vàng lỗ gần 23 triệu đồng/lượng nếu lỡ “đu đỉnh”](https://dantri.com.vn/kinh-doanh/nguoi-mua-vang-lo-gan-23-trieu-dongluong-neu-lo-du-dinh-20260323000941582.htm) - 23:27 22/03/2026
+- 💻 [Phó Thủ tướng Thường trực sang Mỹ giới thiệu Trung tâm Tài chính quốc tế](https://dantri.com.vn/kinh-doanh/pho-thu-tuong-thuong-truc-sang-my-gioi-thieu-trung-tam-tai-chinh-quoc-te-20260322170712271.htm) - 11:14 22/03/2026
+- 👺 [Ngân hàng tham vọng về lợi nhuận năm nay, có bên đặt mục tiêu tăng gần 40%](https://dantri.com.vn/kinh-doanh/ngan-hang-tham-vong-ve-loi-nhuan-nam-nay-co-ben-dat-muc-tieu-tang-gan-40-20260322153419084.htm) - 09:42 22/03/2026
+- 🧐 [Loạt doanh nhân trúng cử đại biểu Quốc hội](https://dantri.com.vn/kinh-doanh/loat-doanh-nhan-trung-cu-dai-bieu-quoc-hoi-20260322151308400.htm) - 09:32 22/03/2026<!-- dantri-kinh-doanh:END -->
