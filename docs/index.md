@@ -150,7 +150,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Ngày mới với tin tức sức khỏe: Thanh lọc cơ thể, cảnh báo đường huyết và giá trị dinh dưỡng của trứng](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-thanh-loc-co-the-canh-bao-duong-huyet-va-gia-tri-dinh-duong-cua-trung-185260326023450865.htm) - 19:34 25/03/2026
+- 🤠 [Ngày mới với tin tức sức khỏe: Thanh lọc, cảnh báo đường huyết, dinh dưỡng từ trứng](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-thanh-loc-co-the-canh-bao-duong-huyet-va-gia-tri-dinh-duong-cua-trung-185260326023450865.htm) - 19:34 25/03/2026
 - 🥸 [Bí quyết thanh lọc cơ thể tự nhiên, không cần nhịn ăn](https://thanhnien.vn/bi-quyet-thanh-loc-co-the-tu-nhien-khong-can-nhin-an-185260326021151852.htm) - 19:11 25/03/2026
 - 🌁 [Đường huyết cao âm thầm gây ra điều gì cho mạch máu, tim?](https://thanhnien.vn/duong-huyet-cao-am-tham-gay-ra-dieu-gi-cho-mach-mau-tim-185260326020058703.htm) - 19:01 25/03/2026
 - 🤡 [Trứng vịt, trứng gà và trứng cút: loại nào bổ dưỡng hơn?](https://thanhnien.vn/trung-vit-trung-ga-va-trung-cut-loai-nao-bo-duong-hon-185260325201050842.htm) - 18:51 25/03/2026
