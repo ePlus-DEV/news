@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam - Bangladesh 3-0 &lpar;H2&rpar;: Văn Khang bỏ qua Hoàng Hên](https://vnexpress.net/viet-nam-bangladesh-5055115.html) - 11:00 26/03/2026
+- 🪜 [Việt Nam thắng đậm trong trận ra mắt của Hoàng Hên](https://vnexpress.net/viet-nam-bangladesh-5055115.html) - 11:00 26/03/2026
 - 🦩 [Hoãn bốc thăm Asian Cup 2027](https://vnexpress.net/hoan-boc-tham-asian-cup-2027-5055151.html) - 08:05 26/03/2026
 - 🧰 [Mercedes bị tố lách luật để tạo lợi thế trên đường đua F1](https://vnexpress.net/mercedes-bi-to-lach-luat-de-tao-loi-the-tren-duong-dua-f1-5054770.html) - 07:16 26/03/2026
 - 🤗 [Giấc mơ trên giường bệnh của HLV Mircea Lucescu](https://vnexpress.net/giac-mo-tren-giuong-benh-cua-hlv-mircea-lucescu-5054918.html) - 06:51 26/03/2026
