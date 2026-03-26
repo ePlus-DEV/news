@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam - Bangladesh: Hoàng Hên đá chính](https://vnexpress.net/viet-nam-bangladesh-5055115.html) - 11:00 26/03/2026
+- 🪜 [Việt Nam - Bangladesh 3-0 &lpar;H2&rpar;: Văn Khang bỏ qua Hoàng Hên](https://vnexpress.net/viet-nam-bangladesh-5055115.html) - 11:00 26/03/2026
 - 🦩 [Hoãn bốc thăm Asian Cup 2027](https://vnexpress.net/hoan-boc-tham-asian-cup-2027-5055151.html) - 08:05 26/03/2026
 - 🧰 [Mercedes bị tố lách luật để tạo lợi thế trên đường đua F1](https://vnexpress.net/mercedes-bi-to-lach-luat-de-tao-loi-the-tren-duong-dua-f1-5054770.html) - 07:16 26/03/2026
 - 🤗 [Giấc mơ trên giường bệnh của HLV Mircea Lucescu](https://vnexpress.net/giac-mo-tren-giuong-benh-cua-hlv-mircea-lucescu-5054918.html) - 06:51 26/03/2026
@@ -17,8 +17,8 @@ sidebar_position: 5
 - 👍 [LĐBĐ châu Phi có nhiều khuất tất khi tước danh hiệu của Senegal](https://vnexpress.net/ldbd-chau-phi-co-nhieu-khuat-tat-khi-tuoc-danh-hieu-cua-senegal-5054886.html) - 00:36 26/03/2026
 - 🐵 [Con trai Ronaldo thử việc ở đội trẻ Real Madrid](https://vnexpress.net/con-trai-ronaldo-thu-viec-o-doi-tre-real-madrid-5054865.html) - 23:06 25/03/2026
 - 💫 [Đội của Ronaldo, Messi nhắm tới Salah](https://vnexpress.net/doi-cua-ronaldo-messi-nham-toi-salah-5054881.html) - 22:57 25/03/2026
-- 🦆 [Tiền vệ Malaysia: &#39;Phải chứng tỏ lòng tự tôn khi gặp Việt Nam&#39;](https://vnexpress.net/tien-ve-malaysia-phai-chung-to-long-tu-ton-khi-gap-viet-nam-5054811.html) - 17:00 25/03/2026
-- 🙉 [Nghi vấn nữ VĐV marathon Mỹ bị cắt tài trợ vì mang thai](https://vnexpress.net/nghi-van-nu-vdv-marathon-my-bi-cat-tai-tro-vi-mang-thai-5054829.html) - 17:00 25/03/2026
+- 🦆 [Nghi vấn nữ VĐV marathon Mỹ bị cắt tài trợ vì mang thai](https://vnexpress.net/nghi-van-nu-vdv-marathon-my-bi-cat-tai-tro-vi-mang-thai-5054829.html) - 17:00 25/03/2026
+- 🙉 [Tiền vệ Malaysia: &#39;Phải chứng tỏ lòng tự tôn khi gặp Việt Nam&#39;](https://vnexpress.net/tien-ve-malaysia-phai-chung-to-long-tu-ton-khi-gap-viet-nam-5054811.html) - 17:00 25/03/2026
 - 📝 [Tonali - từ án cá độ đến thủ lĩnh tuyển Italy](https://vnexpress.net/tonali-tu-an-ca-do-den-thu-linh-tuyen-italy-5054820.html) - 17:00 25/03/2026
 - 💯 [Những địa danh biểu tượng trên đường Giải chạy đêm TP HCM](https://vnexpress.net/dia-danh-bieu-tuong-tphcm-5054789.html) - 13:00 25/03/2026
 - 🌈 [Cựu cầu thủ Ngoại hạng Anh tập thử sân Hàng Đẫy để đấu Việt Nam](https://vnexpress.net/cuu-cau-thu-ngoai-hang-anh-tap-thu-san-hang-day-de-dau-viet-nam-5054819.html) - 12:25 25/03/2026
