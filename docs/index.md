@@ -527,7 +527,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Hoàng Hên ra sân trận giao hữu tuyển Việt Nam đấu Bangladesh](https://muctim.tuoitre.vn/hoang-hen-ra-san-tran-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326182810501.htm) - 11:33 26/03/2026
-- 🥷 [Trực tiếp giao hữu: tuyển Việt Nam đấu Bangladesh](https://muctim.tuoitre.vn/truc-tiep-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326104850322.htm) - 10:00 26/03/2026
+- 🥷 [Trực tiếp giao hữu: Tuyển Việt Nam 2-0 Bangladesh](https://muctim.tuoitre.vn/truc-tiep-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326104850322.htm) - 10:00 26/03/2026
 - 🤖 [10 manga biểu tượng trong 100 năm qua: Jujutsu Kaisen trở thành “tượng đài” thế hệ mới](https://muctim.tuoitre.vn/10-manga-bieu-tuong-trong-100-nam-qua-jujutsu-kaisen-tro-thanh-tuong-dai-the-he-moi-101260326145814196.htm) - 08:09 26/03/2026
 - 🤓 [10 điều Trường THPT Marie Curie khiến học sinh thích mê](https://muctim.tuoitre.vn/10-dieu-truong-thpt-marie-curie-khien-hoc-sinh-thich-me-101260326140348876.htm) - 08:07 26/03/2026
 - 🎉 [Học sinh Trường Trung học Thực hành Đại học Sư phạm ‘in dấu giờ xanh’ hưởng ứng Giờ Trái Đất](https://muctim.tuoitre.vn/hoc-sinh-truong-trung-hoc-thuc-hanh-dai-hoc-su-pham-in-dau-gio-xanh-huong-ung-gio-trai-dat-101260326111932607.htm) - 08:05 26/03/2026
