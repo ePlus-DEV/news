@@ -4,13 +4,13 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ba phương thức, hai bảng quy đổi IELTS vào 8 trường công an](https://vnexpress.net/toan-canh-tuyen-sinh-8-truong-cong-an-nam-2026-phuong-thuc-chi-tieu-bang-quy-doi-ielts-5055031.html) - 07:33 26/03/2026
-- 🦆 [Vượt hàng trăm km về TP HCM &#39;săn&#39; suất học trường Sư phạm](https://vnexpress.net/vuot-hang-tram-km-ve-tp-hcm-san-suat-hoc-truong-su-pham-5054904.html) - 03:53 26/03/2026
-- 🦩 [Hà Nội dự kiến giảm 35 trường công lập](https://vnexpress.net/ha-noi-du-kien-xoa-so-35-truong-mam-non-tieu-hoc-thcs-cong-lap-ngay-nam-hoc-2026-2027-5054914.html) - 02:41 26/03/2026
-- 🌮 [13 đại học Việt Nam vào bảng xếp hạng thế giới theo ngành](https://vnexpress.net/13-dai-hoc-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-theo-nganh-cua-qs-2026-5054863.html) - 23:50 25/03/2026
-- 🔭 [Thủ khoa Ngoại thương đạt điểm tuyệt đối 4.0 ở tất cả môn học](https://vnexpress.net/thu-khoa-ngoai-thuong-dat-diem-tuyet-doi-4-0-o-tat-ca-mon-hoc-5054417.html) - 17:10 25/03/2026
-- 💡 [Thần đồng 8 tuổi học tương đương 14 tuổi](https://vnexpress.net/than-dong-8-tuoi-hoc-tuong-duong-14-tuoi-5054855.html) - 14:48 25/03/2026
-- 🥰 [Bách khoa Hà Nội khen thưởng nam sinh lao vào đám cháy cứu người](https://vnexpress.net/bach-khoa-ha-noi-khen-thuong-nam-sinh-lao-vao-dam-chay-cuu-nguoi-5054781.html) - 12:10 25/03/2026
+- 🤓 [Quyền Bộ trưởng Giáo dục tặng bằng khen cho nam sinh lao vào đám cháy cứu người](https://vnexpress.net/quyen-bo-truong-giao-duc-tang-bang-khen-cho-nam-sinh-lao-vao-dam-chay-cuu-nguoi-5054781.html) - 11:25 26/03/2026
+- 🦆 [Ba phương thức, hai bảng quy đổi IELTS vào 8 trường công an](https://vnexpress.net/toan-canh-tuyen-sinh-8-truong-cong-an-nam-2026-phuong-thuc-chi-tieu-bang-quy-doi-ielts-5055031.html) - 07:33 26/03/2026
+- 🦩 [Vượt hàng trăm km về TP HCM &#39;săn&#39; suất học trường Sư phạm](https://vnexpress.net/vuot-hang-tram-km-ve-tp-hcm-san-suat-hoc-truong-su-pham-5054904.html) - 03:53 26/03/2026
+- 🌮 [Hà Nội dự kiến giảm 35 trường công lập](https://vnexpress.net/ha-noi-du-kien-xoa-so-35-truong-mam-non-tieu-hoc-thcs-cong-lap-ngay-nam-hoc-2026-2027-5054914.html) - 02:41 26/03/2026
+- 🔭 [13 đại học Việt Nam vào bảng xếp hạng thế giới theo ngành](https://vnexpress.net/13-dai-hoc-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-theo-nganh-cua-qs-2026-5054863.html) - 23:50 25/03/2026
+- 💡 [Thủ khoa Ngoại thương đạt điểm tuyệt đối 4.0 ở tất cả môn học](https://vnexpress.net/thu-khoa-ngoai-thuong-dat-diem-tuyet-doi-4-0-o-tat-ca-mon-hoc-5054417.html) - 17:10 25/03/2026
+- 🥰 [Thần đồng 8 tuổi học tương đương 14 tuổi](https://vnexpress.net/than-dong-8-tuoi-hoc-tuong-duong-14-tuoi-5054855.html) - 14:48 25/03/2026
 - 🐲 [Vì sao thủ khoa thi TSA sai 9 câu vẫn đạt 98,98 điểm?](https://vnexpress.net/bach-khoa-ha-noi-ly-giai-cach-tinh-diem-thi-tsa-khi-thu-khoa-sai-9-cau-van-dat-diem-gan-tuyet-doi-5054552.html) - 08:08 25/03/2026
 - 🦒 [10 đại học được khát khao nhất nước Mỹ](https://vnexpress.net/10-dai-hoc-duoc-khat-khao-nhat-nuoc-my-5054384.html) - 06:29 25/03/2026
 - 🦆 [Cách Hà Nội xét nguyện vọng lớp 10 công lập](https://vnexpress.net/cac-moc-thoi-gian-quan-trong-nguyen-tac-xet-nguyen-vong-lop-10-cong-lap-o-ha-noi-5054501.html) - 03:23 25/03/2026
