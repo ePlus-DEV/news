@@ -26,64 +26,65 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Cảnh khó khăn của nhân viên sân bay Mỹ khi không có lương](https://vnexpress.net/canh-kho-khan-cua-nhan-vien-san-bay-my-khi-khong-co-luong-5054978.html) - 19:00 26/03/2026
-- 🧰 [TP HCM kiến nghị ưu tiên cung cấp điện mùa khô](https://vnexpress.net/tp-hcm-kien-nghi-uu-tien-cung-cap-dien-mua-kho-5055285.html) - 19:00 26/03/2026
-- 🥰 [Giới đầu tư tin cú sốc giá dầu chỉ tạm thời](https://vnexpress.net/gioi-dau-tu-tin-cu-soc-gia-dau-chi-tam-thoi-5055131.html) - 18:37 26/03/2026
-- 🌏 [Cải tạo biệt thự 370 m2 bằng cách xây thêm &#39;khối bê tông cong&#39;](https://vnexpress.net/cai-tao-biet-thu-370-m2-bang-cach-xay-them-khoi-be-tong-cong-5055139.html) - 18:32 26/03/2026
-- 🧐 [Giấc mơ kỳ lạ có thể dự báo bệnh hiểm nghèo](https://vnexpress.net/giac-mo-ky-la-co-the-du-bao-benh-hiem-ngheo-5054838.html) - 18:00 26/03/2026
-- 💫 [Sỏi amidan](https://vnexpress.net/suc-khoe/cam-nang/soi-amidan-413) - 18:00 26/03/2026
-- 😺 [Giảm thuế môi trường, VAT, tiêu thụ đặc biệt với xăng dầu](https://vnexpress.net/giam-thue-moi-truong-vat-tieu-thu-dac-biet-voi-xang-dau-5055326.html) - 17:50 26/03/2026
-- 🕯 [&#39;Chuyện với Thanh&#39; - lịch sử giữa thế giới biến động](https://vnexpress.net/chuyen-voi-thanh-lich-su-giua-the-gioi-bien-dong-5054991.html) - 17:10 26/03/2026
-- 💃 [Ông Trump để ngỏ phương án &#39;kiểm soát nguồn dầu Iran&#39;](https://vnexpress.net/ong-trump-de-ngo-phuong-an-kiem-soat-nguon-dau-iran-5055324.html) - 17:10 26/03/2026
-- 💂 [Phẫu thuật cấp cứu ca gãy dương vật, bảo tồn chức năng sinh lý](https://vnexpress.net/phau-thuat-cap-cuu-ca-gay-duong-vat-bao-ton-chuc-nang-sinh-ly-5054778.html) - 17:04 26/03/2026
-- 🎊 [Bàn thờ Phật bằng đá chùa Hương Trai](https://vnexpress.net/ban-tho-phat-bang-da-chua-huong-trai-5054637.html) - 17:03 26/03/2026
-- 🤠 [Những con giáp đón lộc đầu tháng 4, tiền vào như nước](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-nhung-con-giap-don-loc-dau-thang-4-tien-vao-nhu-nuoc-5055245.html) - 17:02 26/03/2026
-- 🌈 [Nỗi lo Pop Mart quá phụ thuộc vào Labubu](https://vnexpress.net/noi-lo-pop-mart-qua-phu-thuoc-vao-labubu-5055183.html) - 17:02 26/03/2026
-- 🎬 [9 thói quen duy trì mỗi ngày giúp giảm huyết áp](https://vnexpress.net/9-thoi-quen-duy-tri-moi-ngay-giup-giam-huyet-ap-5054182.html) - 17:01 26/03/2026
-- 🚀 [Tuổi già, ví mỏng](https://vnexpress.net/tuoi-gia-vi-mong-5055315.html) - 17:00 26/03/2026
-- 🪄 [Pha ăn mừng hài hước của Xuân Mạnh và Duy Mạnh](https://vnexpress.net/pha-an-mung-hai-huoc-cua-xuan-manh-va-duy-manh-5055322.html) - 17:00 26/03/2026
-- 😎 [Hai pha bóng Hoàng Hên ôm đầu tiếc nuối bàn thắng cho Việt Nam](https://vnexpress.net/hai-pha-bong-hoang-hen-om-dau-tiec-nuoi-ban-thang-cho-viet-nam-5055316.html) - 17:00 26/03/2026
-- 🎊 [Ruộng cạnh cao tốc Chí Thạnh - Vân Phong ngập dầu nhớt](https://vnexpress.net/ruong-canh-cao-toc-chi-thanh-van-phong-ngap-dau-nhot-5055275.html) - 17:00 26/03/2026
-- ⚗️ [Vụ mất tích bí ẩn của nữ sinh sau tai nạn xe hơi](https://vnexpress.net/vu-mat-tich-bi-an-cua-nu-sinh-sau-tai-nan-xe-hoi-5055253.html) - 17:00 26/03/2026
-- 🫣 [45 tuổi nghỉ hưu sớm, sống nhờ lãi tiết kiệm tháng 25 triệu đồng](https://vnexpress.net/45-tuoi-nghi-huu-som-song-nho-lai-tiet-kiem-thang-25-trieu-dong-5055210.html) - 17:00 26/03/2026
-- 👨‍🏫 [Ba tháng chưa quên được cảnh em và người quen của bố trong khách sạn](https://vnexpress.net/ba-thang-chua-quen-duoc-canh-em-va-nguoi-quen-cua-bo-trong-khach-san-5055207.html) - 17:00 26/03/2026
-- 🐻 [Bốn kẻ giả công an dùng 15 tiếng mỗi ngày để dẫn dụ, lừa tiền hàng loạt người](https://vnexpress.net/bon-ke-mao-danh-dung-15-tieng-moi-ngay-de-dan-du-lua-tien-hang-loat-nguoi-5055155.html) - 17:00 26/03/2026
-- 😺 [Bắt cá mòi dưới đập thủy lợi Rào Nan](https://vnexpress.net/bat-ca-moi-duoi-dap-thuy-loi-rao-nan-5054840.html) - 17:00 26/03/2026
-- 🤔 [Thu nhập từ bán hàng online đến mức nào sẽ phải nộp thuế?](https://vnexpress.net/thu-nhap-tu-ban-hang-online-den-muc-nao-se-phai-nop-thue-5053629.html) - 17:00 26/03/2026
-- 🌮 [VĐV marathon Olympic bị cấm thi đấu 10 năm vì dương tính doping](https://vnexpress.net/vdv-marathon-olympic-bi-cam-thi-dau-10-nam-vi-duong-tinh-doping-5054985.html) - 17:00 26/03/2026
-- 🦩 [Runner nữ Trung Quốc bị phạt vì xoạc chân trên đường chạy](https://vnexpress.net/runner-nu-trung-quoc-bi-phat-vi-xoac-chan-tren-duong-chay-5054977.html) - 17:00 26/03/2026
-- 📝 [Giá xăng giảm hơn 5.600 đồng một lít](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-3-5055083.html) - 16:59 26/03/2026
-- 🕴 [Huế khởi công hai dự án nhà ở xã hội](https://vnexpress.net/hue-khoi-cong-hai-du-an-nha-o-xa-hoi-5055286.html) - 16:13 26/03/2026
-- 🐲 [Hà Nội giao gần 1 ha đất mặt đường Nguyễn Xiển để xây nhà xã hội](https://vnexpress.net/ha-noi-giao-gan-1-ha-dat-mat-duong-nguyen-xien-de-xay-nha-xa-hoi-5054897.html) - 15:49 26/03/2026
-- 🌜 [Nông nghiệp chịu áp lực thế nào trước xung đột Trung Đông?](https://vnexpress.net/nong-nghiep-chiu-ap-luc-the-nao-truoc-xung-dot-trung-dong-5055176.html) - 15:26 26/03/2026
-- 💄 [Mỹ có thể chuyển vũ khí dành cho Ukraine sang Trung Đông](https://vnexpress.net/my-co-the-chuyen-vu-khi-danh-cho-ukraine-sang-trung-dong-5055295.html) - 15:19 26/03/2026
-- 🌁 [HLV Bangladesh dự đoán Việt Nam thắng Malaysia](https://vnexpress.net/hlv-bangladesh-du-doan-viet-nam-thang-malaysia-5055307.html) - 15:14 26/03/2026
-- 🎬 [FDI vào TP HCM tăng hơn 200%](https://vnexpress.net/fdi-vao-tp-hcm-tang-hon-200-5055290.html) - 15:09 26/03/2026
-- 👨‍🏫 [HLV Kim: &#39;Tôi chưa có phương án nếu thiếu cả Quang Hải, Hoàng Đức&#39;](https://vnexpress.net/hlv-kim-toi-chua-co-phuong-an-neu-thieu-ca-quang-hai-hoang-duc-5055293.html) - 15:09 26/03/2026
-- ⚗️ [Giá vé máy bay thế giới tăng từ tháng 4](https://vnexpress.net/gia-ve-may-bay-the-gioi-tang-tu-thang-4-5055260.html) - 14:55 26/03/2026
-- 😺 [Có em, đời mới đẹp như mơ](https://vnexpress.net/co-em-doi-moi-dep-nhu-mo-5055170.html) - 14:24 26/03/2026
-- 🔥 [Bị vợ quát vì tính ngày tốt để gần gũi, mong có con](https://vnexpress.net/bi-vo-quat-vi-tinh-ngay-tot-de-gan-gui-mong-co-con-5055164.html) - 14:15 26/03/2026
-- 🧰 [Chủ tịch Khoáng sản Hưng Thịnh bị truy tố trong vụ khai thác lậu quặng titan 1.500 tỷ đồng](https://vnexpress.net/chu-tich-khoang-san-hung-thinh-bi-truy-to-khai-thac-lau-so-quang-titan-1-500-ty-dong-5055284.html) - 14:09 26/03/2026
-- 🦒 [Mô hình tiện ích &#39;all in one&#39; tại Vinhomes Grand Park](https://vnexpress.net/mo-hinh-tien-ich-all-in-one-tai-vinhomes-grand-park-5055259.html) - 14:00 26/03/2026
-- ⛽️ [Hai nữ sinh lớp 9 tử vong khi lội suối ở Đà Nẵng](https://vnexpress.net/hai-nu-sinh-lop-9-tu-vong-khi-loi-suoi-o-da-nang-5055280.html) - 13:47 26/03/2026
-- 🚀 [DNSE sẽ đầu tư vào công ty tài sản số của Sun Group](https://vnexpress.net/dnse-se-dau-tu-vao-cong-ty-tai-san-so-cua-sun-group-5055171.html) - 13:33 26/03/2026
-- 🪜 [Bệnh viện K trang bị máy nội soi phóng đại 150 lần phát hiện ung thư sớm](https://vnexpress.net/benh-vien-k-trang-bi-may-noi-soi-phong-dai-150-lan-phat-hien-ung-thu-som-5055278.html) - 13:29 26/03/2026
-- 🚦 [Nguyên phó viện trưởng VKSND TP Huế bị khai trừ khỏi Đảng](https://vnexpress.net/nguyen-pho-vien-truong-vksnd-tp-hue-bi-khai-tru-khoi-dang-5055273.html) - 13:22 26/03/2026
-- 🕯 [Thủ tướng: Thanh niên cần thực hiện &#39;6 tiên phong&#39;](https://vnexpress.net/thu-tuong-thanh-nien-can-thuc-hien-6-tien-phong-5055281.html) - 13:13 26/03/2026
-- 💪 [Khởi công nhà máy điện LNG Hiệp Phước 1.200 MW](https://vnexpress.net/khoi-cong-nha-may-dien-lng-hiep-phuoc-1-200-mw-5055277.html) - 13:10 26/03/2026
-- 🧑‍🏫 [Đà Nẵng đấu giá 62 lô đất, giá khởi điểm cao nhất 74,8 triệu đồng/m2](https://vnexpress.net/da-nang-dau-gia-62-lo-dat-gia-khoi-diem-cao-nhat-74-8-trieu-dong-m2-5055274.html) - 13:08 26/03/2026
-- 🎓 [Người dân nước nào tiêu thụ xăng nhiều nhất Đông Nam Á?](https://vnexpress.net/nguoi-dan-nuoc-nao-tieu-thu-xang-nhieu-nhat-dong-nam-a-5055249.html) - 13:02 26/03/2026
-- 💫 [Vietnam Land là đại lý phân phối Vinhomes Hải Vân Bay Đà Nẵng](https://vnexpress.net/vietnam-land-la-dai-ly-phan-phoi-vinhomes-hai-van-bay-da-nang-5055268.html) - 13:00 26/03/2026
-- 🤩 [TTE áp dụng phương pháp tư duy 80/20 trong giảng dạy](https://vnexpress.net/tte-ap-dung-phuong-phap-tu-duy-80-20-trong-giang-day-5055264.html) - 13:00 26/03/2026
-- 🏊 [Dấu ấn Agribank tại công trình, dự án trọng điểm gần bốn thập niên](https://vnexpress.net/dau-an-agribank-tai-cong-trinh-du-an-trong-diem-gan-bon-thap-nien-5055254.html) - 13:00 26/03/2026
-- 💂 [Medlog mở rộng dịch vụ kho lạnh tại Trung Quốc](https://vnexpress.net/medlog-mo-rong-dich-vu-kho-lanh-tai-trung-quoc-5054108.html) - 13:00 26/03/2026
-- 🚀 [Khen thưởng 7 cá nhân cứu người trong vụ cháy tại Lĩnh Nam](https://vnexpress.net/khen-thuong-7-ca-nhan-cuu-nguoi-trong-vu-chay-tai-linh-nam-5055269.html) - 12:58 26/03/2026
-- 🕴 [Cảnh 7 người thoát nạn bằng thang bắc qua hai nhà trong vụ cháy ở Lĩnh Nam](https://vnexpress.net/canh-7-nguoi-thoat-nan-bang-thang-bac-qua-hai-nha-trong-vu-chay-o-linh-nam-5055217.html) - 12:58 26/03/2026
-- 🦆 [Iran công bố 5 &#39;nước thân thiện&#39; được sử dụng eo biển Hormuz](https://vnexpress.net/iran-cong-bo-5-nuoc-than-thien-duoc-su-dung-eo-bien-hormuz-5055272.html) - 12:57 26/03/2026
-- 💫 [Nỗ lực cứu bé gái ngưng tim do ngã vào thùng nước](https://vnexpress.net/no-luc-cuu-be-gai-ngung-tim-do-nga-vao-thung-nuoc-5055087.html) - 12:57 26/03/2026
-- 🤓 [Cụ ông tử vong trong ngôi nhà bị cháy](https://vnexpress.net/cu-ong-tu-vong-trong-ngoi-nha-bi-chay-5055271.html) - 12:56 26/03/2026
-- 🤡 [Đỗ Hoàng Hên hát Quốc ca, ra mắt đội tuyển Việt Nam](https://vnexpress.net/do-hoang-hen-hat-quoc-ca-ra-mat-doi-tuyen-viet-nam-5055276.html) - 12:46 26/03/2026
-- 🧐 [Thủy thủ tàu sân bay Mỹ bị thương khi làm nhiệm vụ gần Iran](https://vnexpress.net/thuy-thu-tau-san-bay-my-bi-thuong-khi-lam-nhiem-vu-gan-iran-5055255.html) - 12:35 26/03/2026<!-- vnexpress:END -->
+- 🚀 [Mở cửa ôtô xô ngã người đi xe máy](https://vnexpress.net/mo-cua-oto-xo-nga-nguoi-di-xe-may-5055126.html) - 21:00 26/03/2026
+- 🧰 [Chật vật trả nợ vay mua nhà](https://vnexpress.net/chat-vat-tra-no-vay-mua-nha-5054593.html) - 21:00 26/03/2026
+- 🥰 [Cảnh khó khăn của nhân viên sân bay Mỹ khi không có lương](https://vnexpress.net/canh-kho-khan-cua-nhan-vien-san-bay-my-khi-khong-co-luong-5054978.html) - 19:00 26/03/2026
+- 🌏 [TP HCM kiến nghị ưu tiên cung cấp điện mùa khô](https://vnexpress.net/tp-hcm-kien-nghi-uu-tien-cung-cap-dien-mua-kho-5055285.html) - 19:00 26/03/2026
+- 🧐 [Giới đầu tư tin cú sốc giá dầu chỉ tạm thời](https://vnexpress.net/gioi-dau-tu-tin-cu-soc-gia-dau-chi-tam-thoi-5055131.html) - 18:37 26/03/2026
+- 💫 [Cải tạo biệt thự 370 m2 bằng cách xây thêm &#39;khối bê tông cong&#39;](https://vnexpress.net/cai-tao-biet-thu-370-m2-bang-cach-xay-them-khoi-be-tong-cong-5055139.html) - 18:32 26/03/2026
+- 😺 [Giấc mơ kỳ lạ có thể dự báo bệnh hiểm nghèo](https://vnexpress.net/giac-mo-ky-la-co-the-du-bao-benh-hiem-ngheo-5054838.html) - 18:00 26/03/2026
+- 🕯 [Sỏi amidan](https://vnexpress.net/suc-khoe/cam-nang/soi-amidan-413) - 18:00 26/03/2026
+- 💃 [Giảm thuế môi trường, VAT, tiêu thụ đặc biệt với xăng dầu](https://vnexpress.net/giam-thue-moi-truong-vat-tieu-thu-dac-biet-voi-xang-dau-5055326.html) - 17:50 26/03/2026
+- 💂 [&#39;Chuyện với Thanh&#39; - lịch sử giữa thế giới biến động](https://vnexpress.net/chuyen-voi-thanh-lich-su-giua-the-gioi-bien-dong-5054991.html) - 17:10 26/03/2026
+- 🎊 [Ông Trump để ngỏ phương án &#39;kiểm soát nguồn dầu Iran&#39;](https://vnexpress.net/ong-trump-de-ngo-phuong-an-kiem-soat-nguon-dau-iran-5055324.html) - 17:10 26/03/2026
+- 🤠 [Phẫu thuật cấp cứu ca gãy dương vật, bảo tồn chức năng sinh lý](https://vnexpress.net/phau-thuat-cap-cuu-ca-gay-duong-vat-bao-ton-chuc-nang-sinh-ly-5054778.html) - 17:04 26/03/2026
+- 🌈 [Bàn thờ Phật bằng đá chùa Hương Trai](https://vnexpress.net/ban-tho-phat-bang-da-chua-huong-trai-5054637.html) - 17:03 26/03/2026
+- 🎬 [Những con giáp đón lộc đầu tháng 4, tiền vào như nước](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-nhung-con-giap-don-loc-dau-thang-4-tien-vao-nhu-nuoc-5055245.html) - 17:02 26/03/2026
+- 🚀 [Nỗi lo Pop Mart quá phụ thuộc vào Labubu](https://vnexpress.net/noi-lo-pop-mart-qua-phu-thuoc-vao-labubu-5055183.html) - 17:02 26/03/2026
+- 🪄 [9 thói quen duy trì mỗi ngày giúp giảm huyết áp](https://vnexpress.net/9-thoi-quen-duy-tri-moi-ngay-giup-giam-huyet-ap-5054182.html) - 17:01 26/03/2026
+- 😎 [Tuổi già, ví mỏng](https://vnexpress.net/tuoi-gia-vi-mong-5055315.html) - 17:00 26/03/2026
+- 🎊 [Pha ăn mừng hài hước của Xuân Mạnh và Duy Mạnh](https://vnexpress.net/pha-an-mung-hai-huoc-cua-xuan-manh-va-duy-manh-5055322.html) - 17:00 26/03/2026
+- ⚗️ [Hai pha bóng Hoàng Hên ôm đầu tiếc nuối bàn thắng cho Việt Nam](https://vnexpress.net/hai-pha-bong-hoang-hen-om-dau-tiec-nuoi-ban-thang-cho-viet-nam-5055316.html) - 17:00 26/03/2026
+- 🫣 [Ruộng cạnh cao tốc Chí Thạnh - Vân Phong ngập dầu nhớt](https://vnexpress.net/ruong-canh-cao-toc-chi-thanh-van-phong-ngap-dau-nhot-5055275.html) - 17:00 26/03/2026
+- 👨‍🏫 [Vụ mất tích bí ẩn của nữ sinh sau tai nạn xe hơi](https://vnexpress.net/vu-mat-tich-bi-an-cua-nu-sinh-sau-tai-nan-xe-hoi-5055253.html) - 17:00 26/03/2026
+- 🐻 [45 tuổi nghỉ hưu sớm, sống nhờ lãi tiết kiệm tháng 25 triệu đồng](https://vnexpress.net/45-tuoi-nghi-huu-som-song-nho-lai-tiet-kiem-thang-25-trieu-dong-5055210.html) - 17:00 26/03/2026
+- 😺 [Ba tháng chưa quên được cảnh em và người quen của bố trong khách sạn](https://vnexpress.net/ba-thang-chua-quen-duoc-canh-em-va-nguoi-quen-cua-bo-trong-khach-san-5055207.html) - 17:00 26/03/2026
+- 🤔 [Bốn kẻ giả công an dùng 15 tiếng mỗi ngày để dẫn dụ, lừa tiền hàng loạt người](https://vnexpress.net/bon-ke-mao-danh-dung-15-tieng-moi-ngay-de-dan-du-lua-tien-hang-loat-nguoi-5055155.html) - 17:00 26/03/2026
+- 🌮 [Bắt cá mòi dưới đập thủy lợi Rào Nan](https://vnexpress.net/bat-ca-moi-duoi-dap-thuy-loi-rao-nan-5054840.html) - 17:00 26/03/2026
+- 🦩 [Thu nhập từ bán hàng online đến mức nào sẽ phải nộp thuế?](https://vnexpress.net/thu-nhap-tu-ban-hang-online-den-muc-nao-se-phai-nop-thue-5053629.html) - 17:00 26/03/2026
+- 📝 [VĐV marathon Olympic bị cấm thi đấu 10 năm vì dương tính doping](https://vnexpress.net/vdv-marathon-olympic-bi-cam-thi-dau-10-nam-vi-duong-tinh-doping-5054985.html) - 17:00 26/03/2026
+- 🕴 [Runner nữ Trung Quốc bị phạt vì xoạc chân trên đường chạy](https://vnexpress.net/runner-nu-trung-quoc-bi-phat-vi-xoac-chan-tren-duong-chay-5054977.html) - 17:00 26/03/2026
+- 🐲 [Giá xăng giảm hơn 5.600 đồng một lít](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-3-5055083.html) - 16:59 26/03/2026
+- 🌜 [Huế khởi công hai dự án nhà ở xã hội](https://vnexpress.net/hue-khoi-cong-hai-du-an-nha-o-xa-hoi-5055286.html) - 16:13 26/03/2026
+- 💄 [Hà Nội giao gần 1 ha đất mặt đường Nguyễn Xiển để xây nhà xã hội](https://vnexpress.net/ha-noi-giao-gan-1-ha-dat-mat-duong-nguyen-xien-de-xay-nha-xa-hoi-5054897.html) - 15:49 26/03/2026
+- 🌁 [Nông nghiệp chịu áp lực thế nào trước xung đột Trung Đông?](https://vnexpress.net/nong-nghiep-chiu-ap-luc-the-nao-truoc-xung-dot-trung-dong-5055176.html) - 15:26 26/03/2026
+- 🎬 [Mỹ có thể chuyển vũ khí dành cho Ukraine sang Trung Đông](https://vnexpress.net/my-co-the-chuyen-vu-khi-danh-cho-ukraine-sang-trung-dong-5055295.html) - 15:19 26/03/2026
+- 👨‍🏫 [HLV Bangladesh dự đoán Việt Nam thắng Malaysia](https://vnexpress.net/hlv-bangladesh-du-doan-viet-nam-thang-malaysia-5055307.html) - 15:14 26/03/2026
+- ⚗️ [FDI vào TP HCM tăng hơn 200%](https://vnexpress.net/fdi-vao-tp-hcm-tang-hon-200-5055290.html) - 15:09 26/03/2026
+- 😺 [HLV Kim: &#39;Tôi chưa có phương án nếu thiếu cả Quang Hải, Hoàng Đức&#39;](https://vnexpress.net/hlv-kim-toi-chua-co-phuong-an-neu-thieu-ca-quang-hai-hoang-duc-5055293.html) - 15:09 26/03/2026
+- 🔥 [Giá vé máy bay thế giới tăng từ tháng 4](https://vnexpress.net/gia-ve-may-bay-the-gioi-tang-tu-thang-4-5055260.html) - 14:55 26/03/2026
+- 🧰 [Có em, đời mới đẹp như mơ](https://vnexpress.net/co-em-doi-moi-dep-nhu-mo-5055170.html) - 14:24 26/03/2026
+- 🦒 [Bị vợ quát vì tính ngày tốt để gần gũi, mong có con](https://vnexpress.net/bi-vo-quat-vi-tinh-ngay-tot-de-gan-gui-mong-co-con-5055164.html) - 14:15 26/03/2026
+- ⛽️ [Chủ tịch Khoáng sản Hưng Thịnh bị truy tố trong vụ khai thác lậu quặng titan 1.500 tỷ đồng](https://vnexpress.net/chu-tich-khoang-san-hung-thinh-bi-truy-to-khai-thac-lau-so-quang-titan-1-500-ty-dong-5055284.html) - 14:09 26/03/2026
+- 🚀 [Mô hình tiện ích &#39;all in one&#39; tại Vinhomes Grand Park](https://vnexpress.net/mo-hinh-tien-ich-all-in-one-tai-vinhomes-grand-park-5055259.html) - 14:00 26/03/2026
+- 🪜 [Hai nữ sinh lớp 9 tử vong khi lội suối ở Đà Nẵng](https://vnexpress.net/hai-nu-sinh-lop-9-tu-vong-khi-loi-suoi-o-da-nang-5055280.html) - 13:47 26/03/2026
+- 🚦 [DNSE sẽ đầu tư vào công ty tài sản số của Sun Group](https://vnexpress.net/dnse-se-dau-tu-vao-cong-ty-tai-san-so-cua-sun-group-5055171.html) - 13:33 26/03/2026
+- 🕯 [Bệnh viện K trang bị máy nội soi phóng đại 150 lần phát hiện ung thư sớm](https://vnexpress.net/benh-vien-k-trang-bi-may-noi-soi-phong-dai-150-lan-phat-hien-ung-thu-som-5055278.html) - 13:29 26/03/2026
+- 💪 [Nguyên phó viện trưởng VKSND TP Huế bị khai trừ khỏi Đảng](https://vnexpress.net/nguyen-pho-vien-truong-vksnd-tp-hue-bi-khai-tru-khoi-dang-5055273.html) - 13:22 26/03/2026
+- 🧑‍🏫 [Thủ tướng: Thanh niên cần thực hiện &#39;6 tiên phong&#39;](https://vnexpress.net/thu-tuong-thanh-nien-can-thuc-hien-6-tien-phong-5055281.html) - 13:13 26/03/2026
+- 🎓 [Khởi công nhà máy điện LNG Hiệp Phước 1.200 MW](https://vnexpress.net/khoi-cong-nha-may-dien-lng-hiep-phuoc-1-200-mw-5055277.html) - 13:10 26/03/2026
+- 💫 [Đà Nẵng đấu giá 62 lô đất, giá khởi điểm cao nhất 74,8 triệu đồng/m2](https://vnexpress.net/da-nang-dau-gia-62-lo-dat-gia-khoi-diem-cao-nhat-74-8-trieu-dong-m2-5055274.html) - 13:08 26/03/2026
+- 🤩 [Người dân nước nào tiêu thụ xăng nhiều nhất Đông Nam Á?](https://vnexpress.net/nguoi-dan-nuoc-nao-tieu-thu-xang-nhieu-nhat-dong-nam-a-5055249.html) - 13:02 26/03/2026
+- 🏊 [Vietnam Land là đại lý phân phối Vinhomes Hải Vân Bay Đà Nẵng](https://vnexpress.net/vietnam-land-la-dai-ly-phan-phoi-vinhomes-hai-van-bay-da-nang-5055268.html) - 13:00 26/03/2026
+- 💂 [TTE áp dụng phương pháp tư duy 80/20 trong giảng dạy](https://vnexpress.net/tte-ap-dung-phuong-phap-tu-duy-80-20-trong-giang-day-5055264.html) - 13:00 26/03/2026
+- 🚀 [Dấu ấn Agribank tại công trình, dự án trọng điểm gần bốn thập niên](https://vnexpress.net/dau-an-agribank-tai-cong-trinh-du-an-trong-diem-gan-bon-thap-nien-5055254.html) - 13:00 26/03/2026
+- 🕴 [Medlog mở rộng dịch vụ kho lạnh tại Trung Quốc](https://vnexpress.net/medlog-mo-rong-dich-vu-kho-lanh-tai-trung-quoc-5054108.html) - 13:00 26/03/2026
+- 🦆 [Khen thưởng 7 cá nhân cứu người trong vụ cháy tại Lĩnh Nam](https://vnexpress.net/khen-thuong-7-ca-nhan-cuu-nguoi-trong-vu-chay-tai-linh-nam-5055269.html) - 12:58 26/03/2026
+- 💫 [Cảnh 7 người thoát nạn bằng thang bắc qua hai nhà trong vụ cháy ở Lĩnh Nam](https://vnexpress.net/canh-7-nguoi-thoat-nan-bang-thang-bac-qua-hai-nha-trong-vu-chay-o-linh-nam-5055217.html) - 12:58 26/03/2026
+- 🤓 [Iran công bố 5 &#39;nước thân thiện&#39; được sử dụng eo biển Hormuz](https://vnexpress.net/iran-cong-bo-5-nuoc-than-thien-duoc-su-dung-eo-bien-hormuz-5055272.html) - 12:57 26/03/2026
+- 🤡 [Nỗ lực cứu bé gái ngưng tim do ngã vào thùng nước](https://vnexpress.net/no-luc-cuu-be-gai-ngung-tim-do-nga-vao-thung-nuoc-5055087.html) - 12:57 26/03/2026
+- 🧐 [Cụ ông tử vong trong ngôi nhà bị cháy](https://vnexpress.net/cu-ong-tu-vong-trong-ngoi-nha-bi-chay-5055271.html) - 12:56 26/03/2026
+- 🤓 [Đỗ Hoàng Hên hát Quốc ca, ra mắt đội tuyển Việt Nam](https://vnexpress.net/do-hoang-hen-hat-quoc-ca-ra-mat-doi-tuyen-viet-nam-5055276.html) - 12:46 26/03/2026<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
