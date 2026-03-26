@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Giá vé máy bay thế giới tăng vọt từ tháng 4](https://vnexpress.net/gia-ve-may-bay-the-gioi-tang-vot-tu-thang-4-5055260.html) - 14:55 26/03/2026
+- 💂 [Giá vé máy bay thế giới tăng từ tháng 4](https://vnexpress.net/gia-ve-may-bay-the-gioi-tang-tu-thang-4-5055260.html) - 14:55 26/03/2026
 - 🪄 [Khách Việt kể cảm giác ôm &#39;cây thần&#39; hơn 1.000 tuổi](https://vnexpress.net/khach-viet-ke-cam-giac-om-cay-than-hon-1-000-tuoi-5052898.html) - 12:00 26/03/2026
 - 🦅 [Nền tảng để Vinhomes Green Paradise đặt mục tiêu hút 40 triệu khách](https://vnexpress.net/nen-tang-de-vinhomes-green-paradise-dat-muc-tieu-hut-40-trieu-khach-5055107.html) - 07:30 26/03/2026
 - 🕴 [Quán bún riêu phố cổ &#39;nâng cấp&#39; sau vụ khách Trung Quốc chê bẩn](https://vnexpress.net/quan-bun-rieu-pho-co-nang-cap-sau-vu-khach-trung-quoc-che-ban-5054786.html) - 04:52 26/03/2026
