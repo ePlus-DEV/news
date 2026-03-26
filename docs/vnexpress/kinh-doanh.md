@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Ông lớn&#39; Indonesia chi gần 1.700 tỷ đồng mua hãng bánh kẹo Bibica](https://vnexpress.net/ong-lon-indonesia-chi-gan-1-700-ty-dong-mua-hang-banh-keo-bibica-5055222.html) - 10:50 26/03/2026
+- ⛽️ [&#39;Ông lớn&#39; Indonesia chi hơn 1.700 tỷ đồng mua hãng bánh kẹo Bibica](https://vnexpress.net/ong-lon-indonesia-chi-hon-1-700-ty-dong-mua-hang-banh-keo-bibica-5055222.html) - 10:50 26/03/2026
 - 🐲 [Thủ tướng: Sớm xây dựng kho dự trữ chiến lược xăng dầu tại Nghi Sơn](https://vnexpress.net/thu-tuong-som-xay-dung-kho-du-tru-chien-luoc-xang-dau-tai-nghi-son-5055230.html) - 10:47 26/03/2026
 - 🔥 [Novaland được hoàn nhập hơn 3.300 tỷ đồng tiền sử dụng đất dự án Lakeview City](https://vnexpress.net/novaland-duoc-hoan-nhap-hon-3-300-ty-dong-tien-su-dung-dat-du-an-lakeview-city-5055195.html) - 10:46 26/03/2026
 - 🐵 [Châu Âu sẵn sàng tăng lãi suất để ghìm lạm phát do chiến sự](https://vnexpress.net/chau-au-san-sang-tang-lai-suat-de-ghim-lam-phat-do-chien-su-5055041.html) - 10:05 26/03/2026
