@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vì sao 10 người đưa 100 tỷ đồng trong vụ án cựu Bộ trưởng Kim Tiến được miễn tội](https://vnexpress.net/vi-sao-10-nguoi-dua-100-ty-dong-trong-vu-an-cuu-bo-truong-kim-tien-duoc-mien-toi-5055605.html) - 09:16 27/03/2026
+- 😎 [Vì sao 10 người đưa 100 tỷ đồng trong vụ án cựu Bộ trưởng Kim Tiến được miễn tội?](https://vnexpress.net/vi-sao-10-nguoi-dua-100-ty-dong-trong-vu-an-cuu-bo-truong-kim-tien-duoc-mien-toi-5055605.html) - 09:16 27/03/2026
 - 🥰 [CEO MediUSA kiếm 264 tỷ đồng khi sản xuất 88 loại thực phẩm chức năng giả](https://vnexpress.net/ceo-mediusa-kiem-264-ty-dong-khi-san-xuat-88-loai-thuc-pham-chuc-nang-gia-5055561.html) - 07:28 27/03/2026
 - 🎓 [Tài xế tông chết người, bỏ chạy 150 km không thoát](https://vnexpress.net/tai-xe-tong-chet-nguoi-bo-chay-150-km-khong-thoat-5055488.html) - 06:09 27/03/2026
 - 🤓 [Chiêu bỏ tiền tỷ ngoài sổ sách của Chủ tịch Tập đoàn Rạng Đông](https://vnexpress.net/chieu-bo-tien-ty-ngoai-so-sach-cua-chu-tich-tap-doan-rang-dong-5055500.html) - 05:57 27/03/2026
