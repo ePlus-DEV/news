@@ -516,66 +516,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Dàn cast Goblin tái hợp trong chương trình kỷ niệm 10 năm](https://muctim.tuoitre.vn/dan-cast-goblin-tai-hop-trong-chuong-trinh-ky-niem-10-nam-101260327102435825.htm) - 03:58 27/03/2026
-- 🥷 [Check-in Trường THPT Hoàng Hoa Thám trước thềm Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/check-in-truong-thpt-hoang-hoa-tham-truoc-them-ngay-hoi-tu-tin-vao-lop-10-101260325191146466.htm) - 03:56 27/03/2026
-- 🤖 [3 tác phẩm được yêu thích tại sân chơi Chuyến xe mùa xuân](https://muctim.tuoitre.vn/3-tac-pham-duoc-yeu-thich-tai-san-choi-chuyen-xe-mua-xuan-101260313015550164.htm) - 02:07 27/03/2026
-- 🤓 [Quiz: Bạn có đang gồng mình trong tình bạn?](https://muctim.tuoitre.vn/quiz-ban-co-dang-gong-minh-trong-tinh-ban-101260324112632008.htm) - 02:01 27/03/2026
-- 🎉 [Bất ngờ với bộ sưu tập hơn 700 kỷ vật chiến tranh của nam sinh An Giang](https://muctim.tuoitre.vn/bat-ngo-voi-bo-suu-tap-hon-700-ky-vat-chien-tranh-cua-nam-sinh-an-giang-101260324094317955.htm) - 02:00 27/03/2026
-- 👨‍🏫 [Sân chơi Kỷ yếu 2026: Bộ ảnh Chúng ta của năm tháng ấy](https://muctim.tuoitre.vn/san-choi-ky-yeu-2026-bo-anh-chung-ta-cua-nam-thang-ay-101260324092809378.htm) - 01:59 27/03/2026
-- 🚦 [Ý, Ba Lan tiến gần hơn đến tấm vé dự World Cup 2026](https://muctim.tuoitre.vn/y-ba-lan-tien-gan-hon-den-tam-ve-du-world-cup-2026-1012603270640491.htm) - 00:16 27/03/2026
-- 🤭 [Nguyễn Duyên Quỳnh thực hiện Thanh niên Việt trong 8 ngày mừng sinh nhật Đoàn](https://muctim.tuoitre.vn/nguyen-duyen-quynh-thuc-hien-thanh-nien-viet-trong-8-ngay-mung-sinh-nhat-doan-101260325190911059.htm) - 14:39 26/03/2026
-- 😺 [Tận mắt khám phá đô thị thông minh, thiếu nhi TP.HCM nảy ra loạt ý tưởng mới](https://muctim.tuoitre.vn/tan-mat-kham-pha-do-thi-thong-minh-thieu-nhi-tphcm-nay-ra-loat-y-tuong-moi-101260324151255779.htm) - 14:16 26/03/2026
-- 😎 [Trường THPT Trần Khai Nguyên huy động cựu học sinh cùng đến Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/truong-thpt-tran-khai-nguyen-huy-dong-cuu-hoc-sinh-cung-den-ngay-hoi-tu-tin-vao-lop-10-101260326151751733.htm) - 14:13 26/03/2026
+- 🤔 [Xác định 2 cặp đấu chung kết play-off liên lục địa World Cup 2026](https://muctim.tuoitre.vn/xac-dinh-2-cap-dau-chung-ket-play-off-lien-luc-dia-world-cup-2026-101260327125626553.htm) - 07:31 27/03/2026
+- 🥷 [3 lý do khiến U15 rần rần &#39;chuyển nhà&#39; sang Locket?](https://muctim.tuoitre.vn/3-ly-do-khien-u15-ran-ran-chuyen-nha-sang-locket-101260324154822655.htm) - 07:00 27/03/2026
+- 🤖 [Dàn cast Goblin tái hợp trong chương trình kỷ niệm 10 năm](https://muctim.tuoitre.vn/dan-cast-goblin-tai-hop-trong-chuong-trinh-ky-niem-10-nam-101260327102435825.htm) - 03:58 27/03/2026
+- 🤓 [Check-in Trường THPT Hoàng Hoa Thám trước thềm Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/check-in-truong-thpt-hoang-hoa-tham-truoc-them-ngay-hoi-tu-tin-vao-lop-10-101260325191146466.htm) - 03:56 27/03/2026
+- 🎉 [3 tác phẩm được yêu thích tại sân chơi Chuyến xe mùa xuân](https://muctim.tuoitre.vn/3-tac-pham-duoc-yeu-thich-tai-san-choi-chuyen-xe-mua-xuan-101260313015550164.htm) - 02:07 27/03/2026
+- 👨‍🏫 [Quiz: Bạn có đang gồng mình trong tình bạn?](https://muctim.tuoitre.vn/quiz-ban-co-dang-gong-minh-trong-tinh-ban-101260324112632008.htm) - 02:01 27/03/2026
+- 🚦 [Bất ngờ với bộ sưu tập hơn 700 kỷ vật chiến tranh của nam sinh An Giang](https://muctim.tuoitre.vn/bat-ngo-voi-bo-suu-tap-hon-700-ky-vat-chien-tranh-cua-nam-sinh-an-giang-101260324094317955.htm) - 02:00 27/03/2026
+- 🤭 [Sân chơi Kỷ yếu 2026: Bộ ảnh Chúng ta của năm tháng ấy](https://muctim.tuoitre.vn/san-choi-ky-yeu-2026-bo-anh-chung-ta-cua-nam-thang-ay-101260324092809378.htm) - 01:59 27/03/2026
+- 😺 [Ý, Ba Lan tiến gần hơn đến tấm vé dự World Cup 2026](https://muctim.tuoitre.vn/y-ba-lan-tien-gan-hon-den-tam-ve-du-world-cup-2026-1012603270640491.htm) - 00:16 27/03/2026
+- 😎 [Nguyễn Duyên Quỳnh thực hiện Thanh niên Việt trong 8 ngày mừng sinh nhật Đoàn](https://muctim.tuoitre.vn/nguyen-duyen-quynh-thuc-hien-thanh-nien-viet-trong-8-ngay-mung-sinh-nhat-doan-101260325190911059.htm) - 14:39 26/03/2026
+- 🐎 [Tận mắt khám phá đô thị thông minh, thiếu nhi TP.HCM nảy ra loạt ý tưởng mới](https://muctim.tuoitre.vn/tan-mat-kham-pha-do-thi-thong-minh-thieu-nhi-tphcm-nay-ra-loat-y-tuong-moi-101260324151255779.htm) - 14:16 26/03/2026
+- 🎓 [Trường THPT Trần Khai Nguyên huy động cựu học sinh cùng đến Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/truong-thpt-tran-khai-nguyen-huy-dong-cuu-hoc-sinh-cung-den-ngay-hoi-tu-tin-vao-lop-10-101260326151751733.htm) - 14:13 26/03/2026
 - 🐎 [Trường THPT Năng khiếu TDTT mang gì đến gian tư vấn tại Ngày hội Tự tin vào lớp 10?](https://muctim.tuoitre.vn/truong-thpt-nang-khieu-tdtt-mang-gi-den-gian-tu-van-tai-ngay-hoi-tu-tin-vao-lop-10-101260326163344539.htm) - 14:07 26/03/2026
-- 🎓 [Tìm hiểu lộ trình du học Mỹ từ bậc trung học cùng Van Houston Academy](https://muctim.tuoitre.vn/tim-hieu-lo-trinh-du-hoc-my-tu-bac-trung-hoc-cung-van-houston-academy-101260326164118827.htm) - 14:05 26/03/2026
-- 🐎 [Những chi tiết có thể bạn đã bỏ sót trong trailer Harry Potter](https://muctim.tuoitre.vn/nhung-chi-tiet-co-the-ban-da-bo-sot-trong-trailer-harry-potter-101260326154152848.htm) - 14:03 26/03/2026
-- 💃 [Hoàng Hên ra sân trận giao hữu tuyển Việt Nam đấu Bangladesh](https://muctim.tuoitre.vn/hoang-hen-ra-san-tran-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326182810501.htm) - 11:33 26/03/2026
-- 🪜 [Tuấn Hải, Xuân Mạnh, Hai Long lập công, tuyển Việt Nam thắng Bangladesh 3-0](https://muctim.tuoitre.vn/truc-tiep-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326104850322.htm) - 10:00 26/03/2026
-- 🎉 [10 manga biểu tượng trong 100 năm qua: Jujutsu Kaisen trở thành “tượng đài” thế hệ mới](https://muctim.tuoitre.vn/10-manga-bieu-tuong-trong-100-nam-qua-jujutsu-kaisen-tro-thanh-tuong-dai-the-he-moi-101260326145814196.htm) - 08:09 26/03/2026
-- 🥳 [10 điều Trường THPT Marie Curie khiến học sinh thích mê](https://muctim.tuoitre.vn/10-dieu-truong-thpt-marie-curie-khien-hoc-sinh-thich-me-101260326140348876.htm) - 08:07 26/03/2026
-- 🤓 [Học sinh Trường Trung học Thực hành Đại học Sư phạm ‘in dấu giờ xanh’ hưởng ứng Giờ Trái Đất](https://muctim.tuoitre.vn/hoc-sinh-truong-trung-hoc-thuc-hanh-dai-hoc-su-pham-in-dau-gio-xanh-huong-ung-gio-trai-dat-101260326111932607.htm) - 08:05 26/03/2026
-- 🎉 [Trưởng thành hơn nhờ hoạt động Đoàn](https://muctim.tuoitre.vn/truong-thanh-hon-nho-hoat-dong-doan-101260326093438948.htm) - 05:38 26/03/2026
-- 🥳 [Kết quả sân chơi Chữ đẹp Nhi Đồng số 11](https://muctim.tuoitre.vn/ket-qua-san-choi-chu-dep-nhi-dong-so-11-101260326092338646.htm) - 05:29 26/03/2026
-- 🎡 [Hồ sơ một thế hệ: Sự lựa chọn ở tuổi 16](https://muctim.tuoitre.vn/ho-so-mot-the-he-su-lua-chon-o-tuoi-16-101260323102222527.htm) - 03:11 26/03/2026
-- 👨‍🏫 [Tình yêu chiếc khăn quàng đỏ của nữ cán bộ Đoàn](https://muctim.tuoitre.vn/tinh-yeu-chiec-khan-quang-do-cua-nu-can-bo-doan-101260323112357939.htm) - 02:56 26/03/2026
-- 🧠 [Nhiều công trình ý nghĩa của tuổi trẻ phường Chợ Lớn trong Tháng thanh niên](https://muctim.tuoitre.vn/nhieu-cong-trinh-y-nghia-cua-tuoi-tre-phuong-cho-lon-trong-thang-thanh-nien-101260323105111681.htm) - 02:42 26/03/2026
-- 🥷 [Bảo Ngọc, Minh Kiên cùng thí sinh Miss World Vietnam tôn vinh văn hoá Việt qua thời trang và vũ điệu](https://muctim.tuoitre.vn/bao-ngoc-minh-kien-cung-thi-sinh-miss-world-vietnam-ton-vinh-van-hoa-viet-qua-thoi-trang-va-vu-dieu-101260326072610194.htm) - 02:30 26/03/2026
-- 🤔 [Lý do Jin &lpar;BTS&rpar; không có tên trong phần credit của album Arirang](https://muctim.tuoitre.vn/ly-do-jin-bts-khong-co-ten-trong-phan-credit-cua-album-arirang-101260325201738577.htm) - 02:23 26/03/2026
-- 🐎 [Đoàn Thiên Ân có thật sự bị dìm nhan sắc trong Hẹn em ngày nhật thực?](https://muctim.tuoitre.vn/doan-thien-an-co-that-su-bi-dim-nhan-sac-trong-hen-em-ngay-nhat-thuc-101260325233741472.htm) - 02:22 26/03/2026
-- ⛽️ [Xem trực tiếp play-off World Cup 2026 khu vực châu Âu trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-play-off-world-cup-2026-khu-vuc-chau-au-tren-kenh-nao-101260326024827368.htm) - 02:18 26/03/2026
-- 🤡 [4 loại trái cây giúp hệ tiêu hóa khỏe mạnh](https://muctim.tuoitre.vn/4-loai-trai-cay-giup-he-tieu-hoa-khoe-manh-10126032423233392.htm) - 01:49 26/03/2026
-- 🌁 [Bán kết play-off World Cup 2026: xem trực tiếp Ba Lan đấu Albania trên kênh nào?](https://muctim.tuoitre.vn/ban-ket-play-off-world-cup-2026-xem-truc-tiep-ba-lan-dau-albania-tren-kenh-nao-101260326022831595.htm) - 01:44 26/03/2026
-- 🎓 [2h45 ngày 27-3, Ba Lan đấu Albania: Lewandowski lĩnh xướng hàng công](https://muctim.tuoitre.vn/2h45-ngay-27-3-ba-lan-dau-albania-lewandowski-linh-xuong-hang-cong-101260326021211945.htm) - 01:44 26/03/2026
-- 🦍 [Hamza Choudhury và những cái tên đáng chú ý của Bangladesh](https://muctim.tuoitre.vn/hamza-choudhury-va-nhung-cai-ten-dang-chu-y-cua-bangladesh-101260326004912416.htm) - 01:44 26/03/2026
-- 🤠 [Khai mạc lễ hội thanh niên Thủ Đức Youth Fest 2026](https://muctim.tuoitre.vn/khai-mac-le-hoi-thanh-nien-thu-duc-youth-fest-2026-10126032522573055.htm) - 01:38 26/03/2026
-- 🎬 [Tổng Bí thư Tô Lâm: Đổi mới sáng tạo của thanh niên bao trùm nhiều mặt đời sống quốc gia](https://muctim.tuoitre.vn/tong-bi-thu-to-lam-doi-moi-sang-tao-cua-thanh-nien-bao-trum-nhieu-mat-doi-song-quoc-gia-101260326064213727.htm) - 23:42 25/03/2026
-- 🌮 [Xem trực tiếp tuyển Ý đấu Bắc Ireland trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-tuyen-y-dau-bac-ireland-tren-kenh-nao-1012603260021195.htm) - 23:34 25/03/2026
-- 👹 [Xem play-off liên lục địa tranh vé dự World Cup 2026 trên kênh nào?](https://muctim.tuoitre.vn/xem-play-off-lien-luc-dia-tranh-ve-du-world-cup-2026-tren-kenh-nao-101260324173121343.htm) - 23:33 25/03/2026
-- 🤔 [4 cung hoàng đạo nào sở hữu tố chất thông minh và nhạy bén?](https://muctim.tuoitre.vn/4-cung-hoang-dao-nao-so-huu-to-chat-thong-minh-va-nhay-ben-101260325181231392.htm) - 23:32 25/03/2026
-- 🏊 [Hơn 260 cán bộ Đội dự triển khai phong trào “Đọc và làm theo báo Đội”](https://muctim.tuoitre.vn/hon-260-can-bo-doi-du-trien-khai-phong-trao-doc-va-lam-theo-bao-doi-101260325210824826.htm) - 15:22 25/03/2026
-- 📝 [IU, Go Youn Jung và Kim Go Eun khuấy động màn ảnh Hàn tháng 4](https://muctim.tuoitre.vn/iu-go-youn-jung-va-kim-go-eun-khuay-dong-man-anh-han-thang-4-101260325162027873.htm) - 13:35 25/03/2026
-- 👺 [Ngày hội Tự tin vào lớp 10 lần đầu đến với học sinh Vũng Tàu](https://muctim.tuoitre.vn/ngay-hoi-tu-tin-vao-lop-10-lan-dau-den-voi-hoc-sinh-vung-tau-101260325123904637.htm) - 13:34 25/03/2026
+- 💃 [Tìm hiểu lộ trình du học Mỹ từ bậc trung học cùng Van Houston Academy](https://muctim.tuoitre.vn/tim-hieu-lo-trinh-du-hoc-my-tu-bac-trung-hoc-cung-van-houston-academy-101260326164118827.htm) - 14:05 26/03/2026
+- 🪜 [Những chi tiết có thể bạn đã bỏ sót trong trailer Harry Potter](https://muctim.tuoitre.vn/nhung-chi-tiet-co-the-ban-da-bo-sot-trong-trailer-harry-potter-101260326154152848.htm) - 14:03 26/03/2026
+- 🎉 [Hoàng Hên ra sân trận giao hữu tuyển Việt Nam đấu Bangladesh](https://muctim.tuoitre.vn/hoang-hen-ra-san-tran-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326182810501.htm) - 11:33 26/03/2026
+- 🥳 [Tuấn Hải, Xuân Mạnh, Hai Long lập công, tuyển Việt Nam thắng Bangladesh 3-0](https://muctim.tuoitre.vn/truc-tiep-giao-huu-tuyen-viet-nam-dau-bangladesh-101260326104850322.htm) - 10:00 26/03/2026
+- 🤓 [10 manga biểu tượng trong 100 năm qua: Jujutsu Kaisen trở thành “tượng đài” thế hệ mới](https://muctim.tuoitre.vn/10-manga-bieu-tuong-trong-100-nam-qua-jujutsu-kaisen-tro-thanh-tuong-dai-the-he-moi-101260326145814196.htm) - 08:09 26/03/2026
+- 🎉 [10 điều Trường THPT Marie Curie khiến học sinh thích mê](https://muctim.tuoitre.vn/10-dieu-truong-thpt-marie-curie-khien-hoc-sinh-thich-me-101260326140348876.htm) - 08:07 26/03/2026
+- 🥳 [Học sinh Trường Trung học Thực hành Đại học Sư phạm ‘in dấu giờ xanh’ hưởng ứng Giờ Trái Đất](https://muctim.tuoitre.vn/hoc-sinh-truong-trung-hoc-thuc-hanh-dai-hoc-su-pham-in-dau-gio-xanh-huong-ung-gio-trai-dat-101260326111932607.htm) - 08:05 26/03/2026
+- 🎡 [Trưởng thành hơn nhờ hoạt động Đoàn](https://muctim.tuoitre.vn/truong-thanh-hon-nho-hoat-dong-doan-101260326093438948.htm) - 05:38 26/03/2026
+- 👨‍🏫 [Kết quả sân chơi Chữ đẹp Nhi Đồng số 11](https://muctim.tuoitre.vn/ket-qua-san-choi-chu-dep-nhi-dong-so-11-101260326092338646.htm) - 05:29 26/03/2026
+- 🧠 [Hồ sơ một thế hệ: Sự lựa chọn ở tuổi 16](https://muctim.tuoitre.vn/ho-so-mot-the-he-su-lua-chon-o-tuoi-16-101260323102222527.htm) - 03:11 26/03/2026
+- 🥷 [Tình yêu chiếc khăn quàng đỏ của nữ cán bộ Đoàn](https://muctim.tuoitre.vn/tinh-yeu-chiec-khan-quang-do-cua-nu-can-bo-doan-101260323112357939.htm) - 02:56 26/03/2026
+- 🤔 [Nhiều công trình ý nghĩa của tuổi trẻ phường Chợ Lớn trong Tháng thanh niên](https://muctim.tuoitre.vn/nhieu-cong-trinh-y-nghia-cua-tuoi-tre-phuong-cho-lon-trong-thang-thanh-nien-101260323105111681.htm) - 02:42 26/03/2026
+- 🐎 [Bảo Ngọc, Minh Kiên cùng thí sinh Miss World Vietnam tôn vinh văn hoá Việt qua thời trang và vũ điệu](https://muctim.tuoitre.vn/bao-ngoc-minh-kien-cung-thi-sinh-miss-world-vietnam-ton-vinh-van-hoa-viet-qua-thoi-trang-va-vu-dieu-101260326072610194.htm) - 02:30 26/03/2026
+- ⛽️ [Lý do Jin &lpar;BTS&rpar; không có tên trong phần credit của album Arirang](https://muctim.tuoitre.vn/ly-do-jin-bts-khong-co-ten-trong-phan-credit-cua-album-arirang-101260325201738577.htm) - 02:23 26/03/2026
+- 🤡 [Đoàn Thiên Ân có thật sự bị dìm nhan sắc trong Hẹn em ngày nhật thực?](https://muctim.tuoitre.vn/doan-thien-an-co-that-su-bi-dim-nhan-sac-trong-hen-em-ngay-nhat-thuc-101260325233741472.htm) - 02:22 26/03/2026
+- 🌁 [Xem trực tiếp play-off World Cup 2026 khu vực châu Âu trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-play-off-world-cup-2026-khu-vuc-chau-au-tren-kenh-nao-101260326024827368.htm) - 02:18 26/03/2026
+- 🎓 [4 loại trái cây giúp hệ tiêu hóa khỏe mạnh](https://muctim.tuoitre.vn/4-loai-trai-cay-giup-he-tieu-hoa-khoe-manh-10126032423233392.htm) - 01:49 26/03/2026
+- 🦍 [Bán kết play-off World Cup 2026: xem trực tiếp Ba Lan đấu Albania trên kênh nào?](https://muctim.tuoitre.vn/ban-ket-play-off-world-cup-2026-xem-truc-tiep-ba-lan-dau-albania-tren-kenh-nao-101260326022831595.htm) - 01:44 26/03/2026
+- 🤠 [2h45 ngày 27-3, Ba Lan đấu Albania: Lewandowski lĩnh xướng hàng công](https://muctim.tuoitre.vn/2h45-ngay-27-3-ba-lan-dau-albania-lewandowski-linh-xuong-hang-cong-101260326021211945.htm) - 01:44 26/03/2026
+- 🎬 [Hamza Choudhury và những cái tên đáng chú ý của Bangladesh](https://muctim.tuoitre.vn/hamza-choudhury-va-nhung-cai-ten-dang-chu-y-cua-bangladesh-101260326004912416.htm) - 01:44 26/03/2026
+- 🌮 [Khai mạc lễ hội thanh niên Thủ Đức Youth Fest 2026](https://muctim.tuoitre.vn/khai-mac-le-hoi-thanh-nien-thu-duc-youth-fest-2026-10126032522573055.htm) - 01:38 26/03/2026
+- 👹 [Tổng Bí thư Tô Lâm: Đổi mới sáng tạo của thanh niên bao trùm nhiều mặt đời sống quốc gia](https://muctim.tuoitre.vn/tong-bi-thu-to-lam-doi-moi-sang-tao-cua-thanh-nien-bao-trum-nhieu-mat-doi-song-quoc-gia-101260326064213727.htm) - 23:42 25/03/2026
+- 🤔 [Xem trực tiếp tuyển Ý đấu Bắc Ireland trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-tuyen-y-dau-bac-ireland-tren-kenh-nao-1012603260021195.htm) - 23:34 25/03/2026
+- 🏊 [Xem play-off liên lục địa tranh vé dự World Cup 2026 trên kênh nào?](https://muctim.tuoitre.vn/xem-play-off-lien-luc-dia-tranh-ve-du-world-cup-2026-tren-kenh-nao-101260324173121343.htm) - 23:33 25/03/2026
+- 📝 [4 cung hoàng đạo nào sở hữu tố chất thông minh và nhạy bén?](https://muctim.tuoitre.vn/4-cung-hoang-dao-nao-so-huu-to-chat-thong-minh-va-nhay-ben-101260325181231392.htm) - 23:32 25/03/2026
+- 👺 [Hơn 260 cán bộ Đội dự triển khai phong trào “Đọc và làm theo báo Đội”](https://muctim.tuoitre.vn/hon-260-can-bo-doi-du-trien-khai-phong-trao-doc-va-lam-theo-bao-doi-101260325210824826.htm) - 15:22 25/03/2026
+- 👹 [IU, Go Youn Jung và Kim Go Eun khuấy động màn ảnh Hàn tháng 4](https://muctim.tuoitre.vn/iu-go-youn-jung-va-kim-go-eun-khuay-dong-man-anh-han-thang-4-101260325162027873.htm) - 13:35 25/03/2026
+- 🎊 [Ngày hội Tự tin vào lớp 10 lần đầu đến với học sinh Vũng Tàu](https://muctim.tuoitre.vn/ngay-hoi-tu-tin-vao-lop-10-lan-dau-den-voi-hoc-sinh-vung-tau-101260325123904637.htm) - 13:34 25/03/2026
 - 👹 [Lịch thi đấu của tuyển Tây Ban Nha trong dịp FIFA Days tháng 3](https://muctim.tuoitre.vn/lich-thi-dau-cua-tuyen-tay-ban-nha-trong-dip-fifa-days-thang-3-101260325164804612.htm) - 12:54 25/03/2026
-- 🎊 [Lịch thi đấu của tuyển Anh trong dịp FIFA Days tháng 3](https://muctim.tuoitre.vn/lich-thi-dau-cua-tuyen-anh-trong-dip-fifa-days-thang-3-101260325161227361.htm) - 12:52 25/03/2026
-- 👹 [Những trận đấu đáng xem nhất FIFA Days tháng 3](https://muctim.tuoitre.vn/nhung-tran-dau-dang-xem-nhat-fifa-days-thang-3-101260325154245869.htm) - 12:51 25/03/2026
-- 🎃 [Lịch thi đấu của tuyển Pháp trong dịp FIFA Days tháng 3](https://muctim.tuoitre.vn/lich-thi-dau-cua-tuyen-phap-trong-dip-fifa-days-thang-3-101260325153851963.htm) - 12:51 25/03/2026
-- 🧑‍🏫 [Đường đua vào lớp 10 ngày càng nóng](https://muctim.tuoitre.vn/duong-dua-vao-lop-10-ngay-cang-nong-101260324100336317.htm) - 12:48 25/03/2026
-- 🎊 [Những điều có thể bạn chưa biết về Trường THPT Năng khiếu Thể dục Thể thao](https://muctim.tuoitre.vn/nhung-dieu-co-the-ban-chua-biet-ve-truong-thpt-nang-khieu-the-duc-the-thao-101260325175157149.htm) - 12:43 25/03/2026
-- 📝 [Khám phá bản thân qua bài trắc nghiệm tính cách DISC](https://muctim.tuoitre.vn/kham-pha-ban-than-qua-bai-trac-nghiem-tinh-cach-disc-101260325160331048.htm) - 10:37 25/03/2026
-- 🥳 [Học trò Trường THCS Phước Lộc đến trường với những chuyến xe miễn phí](https://muctim.tuoitre.vn/hoc-tro-truong-thcs-phuoc-loc-den-truong-voi-nhung-chuyen-xe-mien-phi-1012603241411562.htm) - 10:16 25/03/2026
-- 💻 [200 đội viên phường Bà Rịa rèn kỹ năng Đội](https://muctim.tuoitre.vn/200-doi-vien-phuong-ba-ria-ren-ky-nang-doi-101260323113208123.htm) - 10:04 25/03/2026
-- 😎 [Góc khuất tính cách khi chỉ có một mình của 12 cung hoàng đạo](https://muctim.tuoitre.vn/goc-khuat-tinh-cach-khi-chi-co-mot-minh-cua-12-cung-hoang-dao-101260316155422723.htm) - 10:02 25/03/2026
-- 🤭 [Jungkook giận dỗi, tức mình với V vì lý do này](https://muctim.tuoitre.vn/jungkook-gian-doi-tuc-minh-voi-v-vi-ly-do-nay-101260325130008832.htm) - 08:30 25/03/2026
-- 🤩 [Brazil đấu Pháp: siêu kinh điển trước thềm World Cup 2026](https://muctim.tuoitre.vn/brazil-dau-phap-sieu-kinh-dien-truoc-them-world-cup-2026-101260325150602132.htm) - 08:28 25/03/2026
-- 🚀 [Nhận định Ý đấu Bắc Ireland tại vòng play-off World Cup 2026](https://muctim.tuoitre.vn/nhan-dinh-y-dau-bac-ireland-tai-vong-play-off-world-cup-2026-101260325143205517.htm) - 08:28 25/03/2026
-- 🕴 [Những trường hợp được tuyển thẳng vào lớp 10 THPT tại TP.HCM](https://muctim.tuoitre.vn/nhung-truong-hop-duoc-tuyen-thang-vao-lop-10-thpt-tai-tphcm-101260325131630589.htm) - 08:06 25/03/2026
-- ⛽️ [3 Ngày hội Tự tin vào lớp 10 đang chờ đón bạn!](https://muctim.tuoitre.vn/3-ngay-hoi-tu-tin-vao-lop-10-dang-cho-don-ban-101260325010416434.htm) - 06:17 25/03/2026
-- 🧐 [Bí quyết đạt 9.0 IELTS của nữ sinh Trường THPT chuyên Trần Đại Nghĩa](https://muctim.tuoitre.vn/bi-quyet-dat-90-ielts-cua-nu-sinh-truong-thpt-chuyen-tran-dai-nghia-101260324233530289.htm) - 04:43 25/03/2026
-- 🦆 [Tuyển sinh lớp 6 TP.HCM 2026: xét tuyển trực tuyến, ưu tiên học gần nhà](https://muctim.tuoitre.vn/tuyen-sinh-lop-6-tphcm-2026-xet-tuyen-truc-tuyen-uu-tien-hoc-gan-nha-101260325112157076.htm) - 04:40 25/03/2026
-- 🤖 [Tuyển sinh lớp 10 TP.HCM 2026: nhiều điểm mới cần lưu ý, đặc biệt quy định về nhập học](https://muctim.tuoitre.vn/tuyen-sinh-lop-10-tphcm-2026-nhieu-diem-moi-can-luu-y-dac-biet-quy-dinh-ve-nhap-hoc-101260305161006442.htm) - 04:00 25/03/2026
-- 💃 [CFA Team China - Tây An 2026: U23 Việt Nam hòa U23 Triều Tiên 1-1](https://muctim.tuoitre.vn/14h-hom-nay-u23-viet-nam-u23-trieu-tien-cfa-team-china-tay-an-2026-101260325095559801.htm) - 03:57 25/03/2026
-- 🚀 [Hà Nhuận Đông bất ngờ viral trở lại vì lý do không thể ngờ đến](https://muctim.tuoitre.vn/ha-nhuan-dong-bat-ngo-viral-tro-lai-vi-ly-do-khong-the-ngo-den-101260324205950131.htm) - 01:39 25/03/2026
-- 🦍 [Công viên Thống Nhất, Hà Nội có gì mà thu hút giới trẻ thời gian gần đây?](https://muctim.tuoitre.vn/cong-vien-thong-nhat-ha-noi-co-gi-ma-thu-hut-gioi-tre-thoi-gian-gan-day-101260324131953667.htm) - 01:34 25/03/2026<!-- muctim:END -->
+- 🎃 [Lịch thi đấu của tuyển Anh trong dịp FIFA Days tháng 3](https://muctim.tuoitre.vn/lich-thi-dau-cua-tuyen-anh-trong-dip-fifa-days-thang-3-101260325161227361.htm) - 12:52 25/03/2026
+- 🧑‍🏫 [Những trận đấu đáng xem nhất FIFA Days tháng 3](https://muctim.tuoitre.vn/nhung-tran-dau-dang-xem-nhat-fifa-days-thang-3-101260325154245869.htm) - 12:51 25/03/2026
+- 🎊 [Lịch thi đấu của tuyển Pháp trong dịp FIFA Days tháng 3](https://muctim.tuoitre.vn/lich-thi-dau-cua-tuyen-phap-trong-dip-fifa-days-thang-3-101260325153851963.htm) - 12:51 25/03/2026
+- 📝 [Đường đua vào lớp 10 ngày càng nóng](https://muctim.tuoitre.vn/duong-dua-vao-lop-10-ngay-cang-nong-101260324100336317.htm) - 12:48 25/03/2026
+- 🥳 [Những điều có thể bạn chưa biết về Trường THPT Năng khiếu Thể dục Thể thao](https://muctim.tuoitre.vn/nhung-dieu-co-the-ban-chua-biet-ve-truong-thpt-nang-khieu-the-duc-the-thao-101260325175157149.htm) - 12:43 25/03/2026
+- 💻 [Khám phá bản thân qua bài trắc nghiệm tính cách DISC](https://muctim.tuoitre.vn/kham-pha-ban-than-qua-bai-trac-nghiem-tinh-cach-disc-101260325160331048.htm) - 10:37 25/03/2026
+- 😎 [Học trò Trường THCS Phước Lộc đến trường với những chuyến xe miễn phí](https://muctim.tuoitre.vn/hoc-tro-truong-thcs-phuoc-loc-den-truong-voi-nhung-chuyen-xe-mien-phi-1012603241411562.htm) - 10:16 25/03/2026
+- 🤭 [200 đội viên phường Bà Rịa rèn kỹ năng Đội](https://muctim.tuoitre.vn/200-doi-vien-phuong-ba-ria-ren-ky-nang-doi-101260323113208123.htm) - 10:04 25/03/2026
+- 🤩 [Góc khuất tính cách khi chỉ có một mình của 12 cung hoàng đạo](https://muctim.tuoitre.vn/goc-khuat-tinh-cach-khi-chi-co-mot-minh-cua-12-cung-hoang-dao-101260316155422723.htm) - 10:02 25/03/2026
+- 🚀 [Jungkook giận dỗi, tức mình với V vì lý do này](https://muctim.tuoitre.vn/jungkook-gian-doi-tuc-minh-voi-v-vi-ly-do-nay-101260325130008832.htm) - 08:30 25/03/2026
+- 🕴 [Brazil đấu Pháp: siêu kinh điển trước thềm World Cup 2026](https://muctim.tuoitre.vn/brazil-dau-phap-sieu-kinh-dien-truoc-them-world-cup-2026-101260325150602132.htm) - 08:28 25/03/2026
+- ⛽️ [Nhận định Ý đấu Bắc Ireland tại vòng play-off World Cup 2026](https://muctim.tuoitre.vn/nhan-dinh-y-dau-bac-ireland-tai-vong-play-off-world-cup-2026-101260325143205517.htm) - 08:28 25/03/2026
+- 🧐 [Những trường hợp được tuyển thẳng vào lớp 10 THPT tại TP.HCM](https://muctim.tuoitre.vn/nhung-truong-hop-duoc-tuyen-thang-vao-lop-10-thpt-tai-tphcm-101260325131630589.htm) - 08:06 25/03/2026
+- 🦆 [3 Ngày hội Tự tin vào lớp 10 đang chờ đón bạn!](https://muctim.tuoitre.vn/3-ngay-hoi-tu-tin-vao-lop-10-dang-cho-don-ban-101260325010416434.htm) - 06:17 25/03/2026
+- 🤖 [Bí quyết đạt 9.0 IELTS của nữ sinh Trường THPT chuyên Trần Đại Nghĩa](https://muctim.tuoitre.vn/bi-quyet-dat-90-ielts-cua-nu-sinh-truong-thpt-chuyen-tran-dai-nghia-101260324233530289.htm) - 04:43 25/03/2026
+- 💃 [Tuyển sinh lớp 6 TP.HCM 2026: xét tuyển trực tuyến, ưu tiên học gần nhà](https://muctim.tuoitre.vn/tuyen-sinh-lop-6-tphcm-2026-xet-tuyen-truc-tuyen-uu-tien-hoc-gan-nha-101260325112157076.htm) - 04:40 25/03/2026
+- 🚀 [Tuyển sinh lớp 10 TP.HCM 2026: nhiều điểm mới cần lưu ý, đặc biệt quy định về nhập học](https://muctim.tuoitre.vn/tuyen-sinh-lop-10-tphcm-2026-nhieu-diem-moi-can-luu-y-dac-biet-quy-dinh-ve-nhap-hoc-101260305161006442.htm) - 04:00 25/03/2026
+- 🦍 [CFA Team China - Tây An 2026: U23 Việt Nam hòa U23 Triều Tiên 1-1](https://muctim.tuoitre.vn/14h-hom-nay-u23-viet-nam-u23-trieu-tien-cfa-team-china-tay-an-2026-101260325095559801.htm) - 03:57 25/03/2026<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
