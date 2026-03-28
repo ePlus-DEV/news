@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Phản ứng của CĐV Thái Lan khi đội nhà đánh bại U23 Việt Nam](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-thai-lan-khi-doi-nha-danh-bai-u23-viet-nam-20260328191849242.htm) - 12:30 28/03/2026
-- 💯 [HLV U23 Thái Lan không hài lòng dù đội nhà thắng U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-thai-lan-khong-hai-long-du-doi-nha-thang-u23-viet-nam-20260328182432304.htm) - 11:51 28/03/2026
+- 🎡 [HLV U23 Thái Lan không hài lòng dù đội nhà thắng U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-thai-lan-khong-hai-long-du-doi-nha-thang-u23-viet-nam-20260328182432304.htm) - 12:45 28/03/2026
+- 💯 [Phản ứng của CĐV Thái Lan khi đội nhà đánh bại U23 Việt Nam](https://dantri.com.vn/the-thao/phan-ung-cua-cdv-thai-lan-khi-doi-nha-danh-bai-u23-viet-nam-20260328191849242.htm) - 12:30 28/03/2026
 - ⛽️ [Xuân Son lên tiếng về chuyện tăng cân, muốn ghi bàn vào lưới Malaysia](https://dantri.com.vn/the-thao/xuan-son-len-tieng-ve-chuyen-tang-can-muon-ghi-ban-vao-luoi-malaysia-20260328172403794.htm) - 10:25 28/03/2026
 - 💃 [Giành chiến thắng đậm, Indonesia tiếp tục tăng hạng FIFA](https://dantri.com.vn/the-thao/gianh-chien-thang-dam-indonesia-tiep-tuc-tang-hang-fifa-20260328122813477.htm) - 08:07 28/03/2026
 - 🌈 [Quyết định lạ lùng: Ngôi sao Man Utd lĩnh 2 thẻ vàng nhưng không bị đuổi](https://dantri.com.vn/the-thao/quyet-dinh-la-lung-ngoi-sao-man-utd-linh-2-the-vang-nhung-khong-bi-duoi-20260328125053498.htm) - 07:05 28/03/2026
