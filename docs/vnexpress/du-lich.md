@@ -4,8 +4,8 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Lý do không nên mặc jumpsuit đi máy bay](https://vnexpress.net/ly-do-khong-nen-mac-jumpsuit-di-may-bay-5055714.html) - 05:00 28/03/2026
-- 🪄 [Du khách bị sát hại bằng kiếm samurai giữa phố ở Bali](https://vnexpress.net/du-khach-bi-sat-hai-bang-kiem-samurai-giua-pho-o-bali-5055805.html) - 03:43 28/03/2026
+- 💂 [Khách Việt kể hai lần bị móc túi hụt ở châu Âu](https://vnexpress.net/khach-viet-ke-hai-lan-bi-moc-tui-hut-o-chau-au-5054718.html) - 08:27 28/03/2026
+- 🪄 [Lý do không nên mặc jumpsuit đi máy bay](https://vnexpress.net/ly-do-khong-nen-mac-jumpsuit-di-may-bay-5055714.html) - 05:00 28/03/2026
 - 🦅 [Món đá xào tỏi ớt gây sốt tại Trung Quốc](https://vnexpress.net/mon-da-xao-toi-ot-gay-sot-tai-trung-quoc-5055654.html) - 03:30 28/03/2026
 - 🕴 [Du khách thấp thỏm sợ bị hủy vé máy bay](https://vnexpress.net/du-khach-thap-thom-so-bi-huy-ve-may-bay-5055065.html) - 02:13 28/03/2026
 - 👀 [Đưa Quy Nhơn thành &#39;Việt Nam mới&#39; trong mắt khách Hàn](https://vnexpress.net/dua-quy-nhon-thanh-viet-nam-moi-trong-mat-khach-han-5055601.html) - 00:00 28/03/2026
