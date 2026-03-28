@@ -315,56 +315,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Kịp thời dập tắt vụ cháy tàu cá tại khu neo đậu Bến Lội - Bình Châu](https://www.sggp.org.vn/kip-thoi-dap-tat-vu-chay-tau-ca-tai-khu-neo-dau-ben-loi-binh-chau-post845122.html) - 08:27 28/03/2026
-- 🌝 [Hội thảo khoa học Sâm Ngọc Linh: Nâng tầm thương hiệu sản phẩm quốc gia](https://www.sggp.org.vn/hoi-thao-khoa-hoc-sam-ngoc-linh-nang-tam-thuong-hieu-san-pham-quoc-gia-post845131.html) - 07:56 28/03/2026
-- 💃 [Thái Lan đạt thỏa thuận cho tàu dầu qua eo biển Hormuz](https://www.sggp.org.vn/thai-lan-dat-thoa-thuan-cho-tau-dau-qua-eo-bien-hormuz-post845125.html) - 07:52 28/03/2026
-- 🧑‍💻 [Khoa học và công nghệ là động lực cốt lõi mang tính đột phá của ngành chăn nuôi](https://www.sggp.org.vn/khoa-hoc-va-cong-nghe-la-dong-luc-cot-loi-mang-tinh-dot-pha-cua-nganh-chan-nuoi-post845073.html) - 07:49 28/03/2026
-- 🌊 [Sebastian Fundora quyết nối lại mạch thắng sau năm 2025 ấn tượng](https://www.sggp.org.vn/sebastian-fundora-quyet-noi-lai-mach-thang-sau-nam-2025-an-tuong-post845113.html) - 07:47 28/03/2026
-- 🧑‍💻 [Đồng chí Vũ Đại Thắng được bầu giữ chức Chủ tịch UBND TP Hà Nội khóa XVII](https://www.sggp.org.vn/dong-chi-vu-dai-thang-duoc-bau-giu-chuc-chu-tich-ubnd-tp-ha-noi-khoa-xvii-post845121.html) - 07:45 28/03/2026
-- ⛽️ [Xử lý tài xế xe tải vượt đường sắt, làm gãy barie](https://www.sggp.org.vn/xu-ly-tai-xe-xe-tai-vuot-duong-sat-lam-gay-barie-post845119.html) - 07:41 28/03/2026
-- 😎 [Sôi nổi hoạt động chào mừng 80 năm ngành thể dục thể thao](https://www.sggp.org.vn/soi-noi-hoat-dong-chao-mung-80-nam-nganh-the-duc-the-thao-post845123.html) - 07:40 28/03/2026
-- 🌜 [Biển nhân tạo Đại Nam: Điểm hẹn giải nhiệt hấp dẫn giữa lòng đô thị](https://www.sggp.org.vn/bien-nhan-tao-dai-nam-diem-hen-giai-nhiet-hap-dan-giua-long-do-thi-post845128.html) - 07:40 28/03/2026
-- 💻 [Pochettino tuyên bố tuyển Mỹ có thể vô địch World Cup](https://www.sggp.org.vn/pochettino-tuyen-bo-tuyen-my-co-the-vo-dich-world-cup-post845127.html) - 07:39 28/03/2026
-- 👍 [Đội TPHCM giành giải nhất cuộc thi “Em yêu biển, đảo quê hương”](https://www.sggp.org.vn/doi-tphcm-gianh-giai-nhat-cuoc-thi-em-yeu-bien-dao-que-huong-post845117.html) - 07:36 28/03/2026
-- 🦆 [Sắp có phim điện ảnh về đặc công rừng Sác](https://www.sggp.org.vn/sap-co-phim-dien-anh-ve-dac-cong-rung-sac-post845111.html) - 07:31 28/03/2026
-- 🦩 [Xã Long Hải: Khám bệnh, trao quà cho người dân có hoàn cảnh khó khăn](https://www.sggp.org.vn/xa-long-hai-kham-benh-trao-qua-cho-nguoi-dan-co-hoan-canh-kho-khan-post845116.html) - 07:30 28/03/2026
-- 🥰 [Đà Nẵng: Quân đội hỗ trợ tăng tốc xây dựng trường học vùng biên](https://www.sggp.org.vn/da-nang-quan-doi-ho-tro-tang-toc-xay-dung-truong-hoc-vung-bien-post845115.html) - 07:29 28/03/2026
-- 🎬 [Vĩnh Long: Mặn xâm nhập sâu 53km, cảnh báo rủi ro cấp 2](https://www.sggp.org.vn/vinh-long-man-xam-nhap-sau-53km-canh-bao-rui-ro-cap-2-post845120.html) - 07:28 28/03/2026
-- 🦩 [&quot;Vì thế giới này cần bạn&quot; gợi nhắc nhiều thông điệp ý nghĩa](https://www.sggp.org.vn/vi-the-gioi-nay-can-ban-goi-nhac-nhieu-thong-diep-y-nghia-post845112.html) - 07:28 28/03/2026
-- 🌮 [Gia Lai đẩy mạnh phát triển nông nghiệp công nghệ cao](https://www.sggp.org.vn/gia-lai-day-manh-phat-trien-nong-nghiep-cong-nghe-cao-post845107.html) - 07:13 28/03/2026
-- 👍 [Đồng chí Tôn Ngọc Hạnh tiếp tục giữ chức Chủ tịch HĐND tỉnh Đồng Nai khóa XI](https://www.sggp.org.vn/dong-chi-ton-ngoc-hanh-tiep-tuc-giu-chuc-chu-tich-hdnd-tinh-dong-nai-khoa-xi-post845102.html) - 06:56 28/03/2026
-- 🦒 [Kho phim và người đứng sau ánh sáng](https://www.sggp.org.vn/kho-phim-va-nguoi-dung-sau-anh-sang-post845072.html) - 06:16 28/03/2026
-- 🤡 [Đà Nẵng khởi động dự án bến container 45.000 tỷ đồng](https://www.sggp.org.vn/da-nang-khoi-dong-du-an-ben-container-45000-ty-dong-post845095.html) - 06:16 28/03/2026
-- 🐎 [Lan tỏa &quot;Vì một Việt Nam xanh&quot; tại phường Dĩ An &lpar;TPHCM&rpar;](https://www.sggp.org.vn/lan-toa-vi-mot-viet-nam-xanh-tai-phuong-di-an-tphcm-post845101.html) - 06:16 28/03/2026
-- 🦆 [Lực lượng Houthi chính thức tham chiến](https://www.sggp.org.vn/luc-luong-houthi-chinh-thuc-tham-chien-post845110.html) - 06:16 28/03/2026
-- 🦅 [Thể dục thể thao góp phần kết nối, lan tỏa các giá trị tốt đẹp của văn hóa Việt Nam](https://www.sggp.org.vn/the-duc-the-thao-gop-phan-ket-noi-lan-toa-cac-gia-tri-tot-dep-cua-van-hoa-viet-nam-post845106.html) - 05:49 28/03/2026
-- 🫣 [Triển lãm ảnh Kỷ niệm 50 năm xây dựng và phát triển Lực lượng Thanh niên xung phong TPHCM](https://www.sggp.org.vn/trien-lam-anh-ky-niem-50-nam-xay-dung-va-phat-trien-luc-luong-thanh-nien-xung-phong-tphcm-post845079.html) - 05:48 28/03/2026
-- 🎭 [Nguyễn Thị Oanh hướng đến lần thứ 10 liên tiếp vô địch tại giải quốc gia Marathon](https://www.sggp.org.vn/nguyen-thi-oanh-huong-den-lan-thu-10-lien-tiep-vo-dich-tai-giai-quoc-gia-marathon-post845092.html) - 05:43 28/03/2026
-- 🫶 [Ban tổ chức vòng 1 giải vô địch bóng chuyền quốc gia 2026 bắt đầu bán vé vào cửa](https://www.sggp.org.vn/ban-to-chuc-vong-1-giai-vo-dich-bong-chuyen-quoc-gia-2026-bat-dau-ban-ve-vao-cua-post845089.html) - 05:42 28/03/2026
-- 🎓 [Messi nhận thông điệp xúc động từ người hâm mộ](https://www.sggp.org.vn/messi-nhan-thong-diep-xuc-dong-tu-nguoi-ham-mo-post845109.html) - 05:41 28/03/2026
-- 🤡 [An Giang: Diễn tập phòng, chống cướp tài sản tại ngân hàng](https://www.sggp.org.vn/an-giang-dien-tap-phong-chong-cuop-tai-san-tai-ngan-hang-post845104.html) - 05:23 28/03/2026
-- 🦅 [Toàn văn bài phát biểu của Tổng Bí thư Tô Lâm tại Lễ kỷ niệm 80 năm ngành Thể dục thể thao](https://www.sggp.org.vn/toan-van-bai-phat-bieu-cua-tong-bi-thu-to-lam-tai-le-ky-niem-80-nam-nganh-the-duc-the-thao-post845108.html) - 05:16 28/03/2026
-- 🧑‍🏫 [Cận cảnh ngôi nhà cổ 320 năm tuổi bên dòng sông Kôn](https://www.sggp.org.vn/can-canh-ngoi-nha-co-320-nam-tuoi-ben-dong-song-kon-post844464.html) - 05:07 28/03/2026
-- 🕴 [Sôi động ngày chạy Olympic vì sức khỏe toàn dân](https://www.sggp.org.vn/soi-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-post845099.html) - 04:52 28/03/2026
-- 🦆 [Hà Nội hưởng ứng chiến dịch Giờ Trái đất](https://www.sggp.org.vn/ha-noi-huong-ung-chien-dich-gio-trai-dat-post845100.html) - 04:39 28/03/2026
-- 🎃 [Khánh Hòa: Bắt 2 đối tượng trong vụ cán bộ công an xã hy sinh](https://www.sggp.org.vn/khanh-hoa-bat-2-doi-tuong-trong-vu-can-bo-cong-an-xa-hy-sinh-post845097.html) - 04:23 28/03/2026
-- 🌮 [Ấn Độ tăng tốc hiện đại hóa quân đội](https://www.sggp.org.vn/an-do-tang-toc-hien-dai-hoa-quan-doi-post845098.html) - 04:23 28/03/2026
-- 🥰 [Lễ hội Dinh Cô 2026: “Long Hải mùa biển gọi” rực rỡ sắc màu văn hóa biển](https://www.sggp.org.vn/le-hoi-dinh-co-2026-long-hai-mua-bien-goi-ruc-ro-sac-mau-van-hoa-bien-post845091.html) - 04:08 28/03/2026
-- 🕯 [Đưa người trẻ chạm vào nếp nhà xưa](https://www.sggp.org.vn/dua-nguoi-tre-cham-vao-nep-nha-xua-post845076.html) - 04:04 28/03/2026
-- 🙉 [Kỳ họp thứ nhất HĐND TP Hà Nội khóa XVII: Quyết sách nhân sự và quy hoạch Thủ đô 100 năm](https://www.sggp.org.vn/ky-hop-thu-nhat-hdnd-tp-ha-noi-khoa-xvii-quyet-sach-nhan-su-va-quy-hoach-thu-do-100-nam-post845094.html) - 04:02 28/03/2026
-- 💡 [Võ sĩ wushu Việt Nam giành 2 HCV tại giải vô địch trẻ thế giới 2026](https://www.sggp.org.vn/vo-si-wushu-viet-nam-gianh-2-hcv-tai-giai-vo-dich-tre-the-gioi-2026-post845096.html) - 03:53 28/03/2026
-- 💫 [Nguyễn Hoàng Phi Vũ và đội bắn cung Việt Nam xuất sắc giành 3 huy chương Cúp châu Á 2026](https://www.sggp.org.vn/nguyen-hoang-phi-vu-va-doi-ban-cung-viet-nam-xuat-sac-gianh-3-huy-chuong-cup-chau-a-2026-post845087.html) - 03:53 28/03/2026
-- 🧑‍💻 [Các ông lớn thể hiện sức mạnh, tuyển Anh bị cầm hòa](https://www.sggp.org.vn/cac-ong-lon-the-hien-suc-manh-tuyen-anh-bi-cam-hoa-post845068.html) - 03:52 28/03/2026
-- 🎊 [Barcelona sốc khi mất Raphinha trong 7 trận cầu quyết định](https://www.sggp.org.vn/barcelona-soc-khi-mat-raphinha-trong-7-tran-cau-quyet-dinh-post845070.html) - 03:52 28/03/2026
-- 🤖 [Roy Hodgson bất ngờ nối lại sự nghiệp huấn luyện ở tuổi 78](https://www.sggp.org.vn/roy-hodgson-bat-ngo-noi-lai-su-nghiep-huan-luyen-o-tuoi-78-post845074.html) - 03:51 28/03/2026
-- 💫 [Phát huy vai trò khoa học xã hội và nhân văn trong kỷ nguyên mới](https://www.sggp.org.vn/phat-huy-vai-tro-khoa-hoc-xa-hoi-va-nhan-van-trong-ky-nguyen-moi-post845083.html) - 03:40 28/03/2026
-- 👨‍🏫 [Giá vàng lên sát 173 triệu đồng/lượng sáng cuối tuần](https://www.sggp.org.vn/gia-vang-len-sat-173-trieu-dongluong-sang-cuoi-tuan-post845082.html) - 03:36 28/03/2026
-- 🧰 [Casemiro xác nhận không thay đổi quyết định rời Man.United](https://www.sggp.org.vn/casemiro-xac-nhan-khong-thay-doi-quyet-dinh-roi-manunited-post845090.html) - 03:30 28/03/2026
-- 🥰 [Vinmec thắng lớn tại Healthcare Asia Awards 2026, khẳng định vị thế y tế Việt trên bản đồ khu vực](https://www.sggp.org.vn/vinmec-thang-lon-tai-healthcare-asia-awards-2026-khang-dinh-vi-the-y-te-viet-tren-ban-do-khu-vuc-post845086.html) - 03:24 28/03/2026
-- 💼 [HDBank trao giải “Tiết kiệm Tỷ phú”: Nhân bội niềm vui từ những giá trị tích lũy](https://www.sggp.org.vn/hdbank-trao-giai-tiet-kiem-ty-phu-nhan-boi-niem-vui-tu-nhung-gia-tri-tich-luy-post845085.html) - 03:21 28/03/2026
-- 🤗 [Bản lĩnh và khát vọng](https://www.sggp.org.vn/ban-linh-va-khat-vong-post845069.html) - 02:50 28/03/2026
-- 🦩 [Alexander Zverev vs Jannik Sinner 3-6, 6-7 &lpar;4-7&rpar;: Tiếp tục hạ Zverev, Sinner nối dài 16 trận thắng liên tiếp Masters 1000, gặp Jiri Lehecka ở chúng kết Miami Open](https://www.sggp.org.vn/alexander-zverev-vs-jannik-sinner-3-6-6-7-4-7-tiep-tuc-ha-zverev-sinner-noi-dai-16-tran-thang-lien-tiep-masters-1000-gap-jiri-lehecka-o-chung-ket-miami-open-post845142.html) - 02:43 28/03/2026
-- 🫶 [Giao hữu, Argentina vs Mauritania 2-1: Messi mờ nhạt, đàn em Enzo Fernandez, Nico Paz tỏa sáng, Jordan Lefort ghi bàn danh dự](https://www.sggp.org.vn/giao-huu-argentina-vs-mauritania-2-1-messi-mo-nhat-dan-em-enzo-fernandez-nico-paz-toa-sang-jordan-lefort-ghi-ban-danh-du-post845130.html) - 02:41 28/03/2026<!-- sggp:END -->
+- 🪜 [Vì sao giá dầu cao hơn giá xăng?](https://www.sggp.org.vn/vi-sao-gia-dau-cao-hon-gia-xang-post845155.html) - 09:21 28/03/2026
+- 🌝 [Vĩnh Long: Mặn xâm nhập sâu 53km, cảnh báo rủi ro cấp 2](https://www.sggp.org.vn/vinh-long-man-xam-nhap-sau-53km-canh-bao-rui-ro-cap-2-post845154.html) - 09:17 28/03/2026
+- 💃 [Kosovo: Một trận đấu nữa để viết nên câu chuyện cổ tích World Cup](https://www.sggp.org.vn/kosovo-mot-tran-dau-nua-de-viet-nen-cau-chuyen-co-tich-world-cup-post845150.html) - 09:14 28/03/2026
+- 🧑‍💻 [Kịp thời dập tắt vụ cháy tàu cá tại khu neo đậu Bến Lội - Bình Châu](https://www.sggp.org.vn/kip-thoi-dap-tat-vu-chay-tau-ca-tai-khu-neo-dau-ben-loi-binh-chau-post845152.html) - 09:13 28/03/2026
+- 🌊 [Khánh Hòa: Bắt 2 đối tượng trong vụ cán bộ công an xã hy sinh](https://www.sggp.org.vn/khanh-hoa-bat-2-doi-tuong-trong-vu-can-bo-cong-an-xa-hy-sinh-post845147.html) - 09:10 28/03/2026
+- 🧑‍💻 [Xử lý tài xế xe tải vượt đường sắt, làm gãy barie](https://www.sggp.org.vn/xu-ly-tai-xe-xe-tai-vuot-duong-sat-lam-gay-barie-post845143.html) - 09:06 28/03/2026
+- ⛽️ [Đội tuyển Anh và thử nghiệm đáng quên trước thềm World Cup 2026](https://www.sggp.org.vn/doi-tuyen-anh-va-thu-nghiem-dang-quen-truoc-them-world-cup-2026-post845141.html) - 09:05 28/03/2026
+- 😎 [Phó chủ tịch VFF Trần Anh Tú đến thăm và động viên đội tuyển U20 nữ Việt Nam](https://www.sggp.org.vn/pho-chu-tich-vff-tran-anh-tu-den-tham-va-dong-vien-doi-tuyen-u20-nu-viet-nam-post845145.html) - 09:04 28/03/2026
+- 🌜 [Cuối tuần, nền nhiệt tạm giảm trước khi nắng nóng diện rộng](https://www.sggp.org.vn/cuoi-tuan-nen-nhiet-tam-giam-truoc-khi-nang-nong-dien-rong-post845139.html) - 09:04 28/03/2026
+- 💻 [Thủ tướng khen các đơn vị Bộ Công an triệt phá sàn tiền ảo ONUS](https://www.sggp.org.vn/thu-tuong-khen-cac-don-vi-bo-cong-an-triet-pha-san-tien-ao-onus-post845140.html) - 08:57 28/03/2026
+- 👍 [Chi tạm ứng 8.000 tỷ đồng từ nguồn tăng thu ngân sách Trung ương cho Quỹ bình ổn giá xăng dầu](https://www.sggp.org.vn/chi-tam-ung-8000-ty-dong-tu-nguon-tang-thu-ngan-sach-trung-uong-cho-quy-binh-on-gia-xang-dau-post845136.html) - 08:47 28/03/2026
+- 🦆 [Thành lập Trường Thiếu sinh quân miền Nam](https://www.sggp.org.vn/thanh-lap-truong-thieu-sinh-quan-mien-nam-post845124.html) - 08:47 28/03/2026
+- 🦩 [Kịp thời dập tắt vụ cháy tàu cá tại khu neo đậu Bến Lội - Bình Châu](https://www.sggp.org.vn/kip-thoi-dap-tat-vu-chay-tau-ca-tai-khu-neo-dau-ben-loi-binh-chau-post845122.html) - 08:27 28/03/2026
+- 🥰 [Hội thảo khoa học Sâm Ngọc Linh: Nâng tầm thương hiệu sản phẩm quốc gia](https://www.sggp.org.vn/hoi-thao-khoa-hoc-sam-ngoc-linh-nang-tam-thuong-hieu-san-pham-quoc-gia-post845131.html) - 07:56 28/03/2026
+- 🎬 [Thái Lan đạt thỏa thuận cho tàu dầu qua eo biển Hormuz](https://www.sggp.org.vn/thai-lan-dat-thoa-thuan-cho-tau-dau-qua-eo-bien-hormuz-post845125.html) - 07:52 28/03/2026
+- 🦩 [Khoa học và công nghệ là động lực cốt lõi mang tính đột phá của ngành chăn nuôi](https://www.sggp.org.vn/khoa-hoc-va-cong-nghe-la-dong-luc-cot-loi-mang-tinh-dot-pha-cua-nganh-chan-nuoi-post845073.html) - 07:49 28/03/2026
+- 🌮 [Sebastian Fundora quyết nối lại mạch thắng sau năm 2025 ấn tượng](https://www.sggp.org.vn/sebastian-fundora-quyet-noi-lai-mach-thang-sau-nam-2025-an-tuong-post845113.html) - 07:47 28/03/2026
+- 👍 [Đồng chí Vũ Đại Thắng được bầu giữ chức Chủ tịch UBND TP Hà Nội khóa XVII](https://www.sggp.org.vn/dong-chi-vu-dai-thang-duoc-bau-giu-chuc-chu-tich-ubnd-tp-ha-noi-khoa-xvii-post845121.html) - 07:45 28/03/2026
+- 🦒 [Xử lý tài xế xe tải vượt đường sắt, làm gãy barie](https://www.sggp.org.vn/xu-ly-tai-xe-xe-tai-vuot-duong-sat-lam-gay-barie-post845119.html) - 07:41 28/03/2026
+- 🤡 [Sôi nổi hoạt động chào mừng 80 năm ngành thể dục thể thao](https://www.sggp.org.vn/soi-noi-hoat-dong-chao-mung-80-nam-nganh-the-duc-the-thao-post845123.html) - 07:40 28/03/2026
+- 🐎 [Biển nhân tạo Đại Nam: Điểm hẹn giải nhiệt hấp dẫn giữa lòng đô thị](https://www.sggp.org.vn/bien-nhan-tao-dai-nam-diem-hen-giai-nhiet-hap-dan-giua-long-do-thi-post845128.html) - 07:40 28/03/2026
+- 🦆 [Pochettino tuyên bố tuyển Mỹ có thể vô địch World Cup](https://www.sggp.org.vn/pochettino-tuyen-bo-tuyen-my-co-the-vo-dich-world-cup-post845127.html) - 07:39 28/03/2026
+- 🦅 [Đội TPHCM giành giải nhất cuộc thi “Em yêu biển, đảo quê hương”](https://www.sggp.org.vn/doi-tphcm-gianh-giai-nhat-cuoc-thi-em-yeu-bien-dao-que-huong-post845117.html) - 07:36 28/03/2026
+- 🫣 [Sắp có phim điện ảnh về đặc công rừng Sác](https://www.sggp.org.vn/sap-co-phim-dien-anh-ve-dac-cong-rung-sac-post845111.html) - 07:31 28/03/2026
+- 🎭 [Xã Long Hải: Khám bệnh, trao quà cho người dân có hoàn cảnh khó khăn](https://www.sggp.org.vn/xa-long-hai-kham-benh-trao-qua-cho-nguoi-dan-co-hoan-canh-kho-khan-post845116.html) - 07:30 28/03/2026
+- 🫶 [Đà Nẵng: Quân đội hỗ trợ tăng tốc xây dựng trường học vùng biên](https://www.sggp.org.vn/da-nang-quan-doi-ho-tro-tang-toc-xay-dung-truong-hoc-vung-bien-post845115.html) - 07:29 28/03/2026
+- 🎓 [Vĩnh Long: Mặn xâm nhập sâu 53km, cảnh báo rủi ro cấp 2](https://www.sggp.org.vn/vinh-long-man-xam-nhap-sau-53km-canh-bao-rui-ro-cap-2-post845120.html) - 07:28 28/03/2026
+- 🤡 [&quot;Vì thế giới này cần bạn&quot; gợi nhắc nhiều thông điệp ý nghĩa](https://www.sggp.org.vn/vi-the-gioi-nay-can-ban-goi-nhac-nhieu-thong-diep-y-nghia-post845112.html) - 07:28 28/03/2026
+- 🦅 [Gia Lai đẩy mạnh phát triển nông nghiệp công nghệ cao](https://www.sggp.org.vn/gia-lai-day-manh-phat-trien-nong-nghiep-cong-nghe-cao-post845107.html) - 07:13 28/03/2026
+- 🧑‍🏫 [Đồng chí Tôn Ngọc Hạnh tiếp tục giữ chức Chủ tịch HĐND tỉnh Đồng Nai khóa XI](https://www.sggp.org.vn/dong-chi-ton-ngoc-hanh-tiep-tuc-giu-chuc-chu-tich-hdnd-tinh-dong-nai-khoa-xi-post845102.html) - 06:56 28/03/2026
+- 🕴 [Kho phim và người đứng sau ánh sáng](https://www.sggp.org.vn/kho-phim-va-nguoi-dung-sau-anh-sang-post845072.html) - 06:16 28/03/2026
+- 🦆 [Đà Nẵng khởi động dự án bến container 45.000 tỷ đồng](https://www.sggp.org.vn/da-nang-khoi-dong-du-an-ben-container-45000-ty-dong-post845095.html) - 06:16 28/03/2026
+- 🎃 [Lan tỏa &quot;Vì một Việt Nam xanh&quot; tại phường Dĩ An &lpar;TPHCM&rpar;](https://www.sggp.org.vn/lan-toa-vi-mot-viet-nam-xanh-tai-phuong-di-an-tphcm-post845101.html) - 06:16 28/03/2026
+- 🌮 [Lực lượng Houthi chính thức tham chiến](https://www.sggp.org.vn/luc-luong-houthi-chinh-thuc-tham-chien-post845110.html) - 06:16 28/03/2026
+- 🥰 [Thể dục thể thao góp phần kết nối, lan tỏa các giá trị tốt đẹp của văn hóa Việt Nam](https://www.sggp.org.vn/the-duc-the-thao-gop-phan-ket-noi-lan-toa-cac-gia-tri-tot-dep-cua-van-hoa-viet-nam-post845106.html) - 05:49 28/03/2026
+- 🕯 [Triển lãm ảnh Kỷ niệm 50 năm xây dựng và phát triển Lực lượng Thanh niên xung phong TPHCM](https://www.sggp.org.vn/trien-lam-anh-ky-niem-50-nam-xay-dung-va-phat-trien-luc-luong-thanh-nien-xung-phong-tphcm-post845079.html) - 05:48 28/03/2026
+- 🙉 [Nguyễn Thị Oanh hướng đến lần thứ 10 liên tiếp vô địch tại giải quốc gia Marathon](https://www.sggp.org.vn/nguyen-thi-oanh-huong-den-lan-thu-10-lien-tiep-vo-dich-tai-giai-quoc-gia-marathon-post845092.html) - 05:43 28/03/2026
+- 💡 [Ban tổ chức vòng 1 giải vô địch bóng chuyền quốc gia 2026 bắt đầu bán vé vào cửa](https://www.sggp.org.vn/ban-to-chuc-vong-1-giai-vo-dich-bong-chuyen-quoc-gia-2026-bat-dau-ban-ve-vao-cua-post845089.html) - 05:42 28/03/2026
+- 💫 [Messi nhận thông điệp xúc động từ người hâm mộ](https://www.sggp.org.vn/messi-nhan-thong-diep-xuc-dong-tu-nguoi-ham-mo-post845109.html) - 05:41 28/03/2026
+- 🧑‍💻 [An Giang: Diễn tập phòng, chống cướp tài sản tại ngân hàng](https://www.sggp.org.vn/an-giang-dien-tap-phong-chong-cuop-tai-san-tai-ngan-hang-post845104.html) - 05:23 28/03/2026
+- 🎊 [Toàn văn bài phát biểu của Tổng Bí thư Tô Lâm tại Lễ kỷ niệm 80 năm ngành Thể dục thể thao](https://www.sggp.org.vn/toan-van-bai-phat-bieu-cua-tong-bi-thu-to-lam-tai-le-ky-niem-80-nam-nganh-the-duc-the-thao-post845108.html) - 05:16 28/03/2026
+- 🤖 [Cận cảnh ngôi nhà cổ 320 năm tuổi bên dòng sông Kôn](https://www.sggp.org.vn/can-canh-ngoi-nha-co-320-nam-tuoi-ben-dong-song-kon-post844464.html) - 05:07 28/03/2026
+- 💫 [Sôi động ngày chạy Olympic vì sức khỏe toàn dân](https://www.sggp.org.vn/soi-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-post845099.html) - 04:52 28/03/2026
+- 👨‍🏫 [Hà Nội hưởng ứng chiến dịch Giờ Trái đất](https://www.sggp.org.vn/ha-noi-huong-ung-chien-dich-gio-trai-dat-post845100.html) - 04:39 28/03/2026
+- 🧰 [Khánh Hòa: Bắt 2 đối tượng trong vụ cán bộ công an xã hy sinh](https://www.sggp.org.vn/khanh-hoa-bat-2-doi-tuong-trong-vu-can-bo-cong-an-xa-hy-sinh-post845097.html) - 04:23 28/03/2026
+- 🥰 [Ấn Độ tăng tốc hiện đại hóa quân đội](https://www.sggp.org.vn/an-do-tang-toc-hien-dai-hoa-quan-doi-post845098.html) - 04:23 28/03/2026
+- 💼 [Lễ hội Dinh Cô 2026: “Long Hải mùa biển gọi” rực rỡ sắc màu văn hóa biển](https://www.sggp.org.vn/le-hoi-dinh-co-2026-long-hai-mua-bien-goi-ruc-ro-sac-mau-van-hoa-bien-post845091.html) - 04:08 28/03/2026
+- 🤗 [Đưa người trẻ chạm vào nếp nhà xưa](https://www.sggp.org.vn/dua-nguoi-tre-cham-vao-nep-nha-xua-post845076.html) - 04:04 28/03/2026
+- 🦩 [Kỳ họp thứ nhất HĐND TP Hà Nội khóa XVII: Quyết sách nhân sự và quy hoạch Thủ đô 100 năm](https://www.sggp.org.vn/ky-hop-thu-nhat-hdnd-tp-ha-noi-khoa-xvii-quyet-sach-nhan-su-va-quy-hoach-thu-do-100-nam-post845094.html) - 04:02 28/03/2026
+- 🫶 [Võ sĩ wushu Việt Nam giành 2 HCV tại giải vô địch trẻ thế giới 2026](https://www.sggp.org.vn/vo-si-wushu-viet-nam-gianh-2-hcv-tai-giai-vo-dich-tre-the-gioi-2026-post845096.html) - 03:53 28/03/2026<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
