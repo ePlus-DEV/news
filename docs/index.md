@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Đa dạng hoạt động giải trí buổi đêm hấp dẫn tại Đường sách TP.HCM](https://muctim.tuoitre.vn/da-dang-hoat-dong-giai-tri-buoi-dem-hap-dan-tai-duong-sach-tphcm-10126032803164798.htm) - 04:41 28/03/2026
-- 🥷 [14h hôm nay 28-3, U23 Việt Nam chạm trán U23 Thái Lan](https://muctim.tuoitre.vn/14h-hom-nay-28-3-u23-viet-nam-cham-tran-u23-thai-lan-101260328113148794.htm) - 04:39 28/03/2026
+- 🥷 [Cập nhật: U23 Việt Nam chạm trán U23 Thái Lan](https://muctim.tuoitre.vn/14h-hom-nay-28-3-u23-viet-nam-cham-tran-u23-thai-lan-101260328113148794.htm) - 04:39 28/03/2026
 - 🤖 [Teen Trường THPT Nguyễn Thái Bình hẹn gặp bạn tại Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/teen-truong-thpt-nguyen-thai-binh-hen-gap-ban-tai-ngay-hoi-tu-tin-vao-lop-10-10126032810261623.htm) - 04:27 28/03/2026
 - 🤓 [Phim tài liệu BTS: The return hé lộ điều gì sau quãng nghỉ 4 năm?](https://muctim.tuoitre.vn/phim-tai-lieu-bts-the-return-he-lo-dieu-gi-sau-quang-nghi-4-nam-10126032803010616.htm) - 02:04 28/03/2026
 - 🎉 [Khám phá Gemini 3.1 Flash Live phiên bản nâng cấp](https://muctim.tuoitre.vn/kham-pha-gemini-31-flash-live-phien-ban-nang-cap-101260327235707377.htm) - 02:00 28/03/2026
