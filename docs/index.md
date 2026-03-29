@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Phá đường dây giết mổ, tiêu thụ 3.600 con heo bệnh, khởi tố 8 bị can](https://nld.com.vn/pha-duong-day-giet-mo-tieu-thu-3600-con-heo-benh-khoi-to-8-bi-can-196260329215133309.htm) - 14:51 29/03/2026
+- 🐎 [Đường dây giết mổ, tiêu thụ 3.600 con heo bệnh](https://nld.com.vn/pha-duong-day-giet-mo-tieu-thu-3600-con-heo-benh-khoi-to-8-bi-can-196260329215133309.htm) - 14:51 29/03/2026
 - 😺 [BIDV trao 1 tỉ đồng cho chương trình an sinh xã hội trên địa bàn tỉnh Khánh Hòa](https://nld.com.vn/bidv-trao-1-ti-dong-cho-chuong-trinh-an-sinh-xa-hoi-tren-dia-ban-tinh-khanh-hoa-19626032920514945.htm) - 14:46 29/03/2026
 - 👍 [VIDEO: Mưa đá kèm dông lốc xuất hiện khiến người dân bất ngờ](https://nld.com.vn/video-mua-da-kem-dong-loc-xuat-hien-khien-nguoi-dan-bat-ngo-196260329212722212.htm) - 14:39 29/03/2026
 - 🥷 [Gần 90% sinh viên ngành khoa học xã hội và nhân văn có việc làm sau khi tốt nghiệp](https://nld.com.vn/gan-90-sinh-vien-nganh-khoa-hoc-xa-hoi-va-nhan-van-co-viec-lam-sau-khi-tot-nghiep-196260329191039041.htm) - 13:34 29/03/2026
