@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sân bay Long Thành khai thác thương mại cuối 2026](https://vnexpress.net/san-bay-long-thanh-khai-thac-thuong-mai-cuoi-2026-5056192.html) - 17:20 29/03/2026
+- 🦒 [Thủ tướng: Sân bay Long Thành khai thác thương mại cuối năm 2026](https://vnexpress.net/thu-tuong-san-bay-long-thanh-khai-thac-thuong-mai-cuoi-nam-2026-5056192.html) - 17:20 29/03/2026
 - 🤓 [Đóng BHXH thấp và nỗi lo lương hưu không đủ sống](https://vnexpress.net/dong-bhxh-thap-va-noi-lo-luong-huu-khong-du-song-5055960.html) - 17:00 29/03/2026
 - ⚗️ [Xây thêm 38 cầu Hy Vọng ở đồng bằng sông Cửu Long](https://vnexpress.net/xay-them-38-cau-hy-vong-o-dong-bang-song-cuu-long-5056143.html) - 15:45 29/03/2026
 - 🌊 [Xe đầu kéo tông sập tường trường mầm non](https://vnexpress.net/xe-dau-keo-tong-sap-tuong-truong-mam-non-5056135.html) - 15:14 29/03/2026
