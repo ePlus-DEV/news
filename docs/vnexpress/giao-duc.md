@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giải nhất khoa học kỹ thuật của học sinh bị tố &#39;giống hệt&#39; đề tài tiến sĩ](https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-het-de-tai-tien-si-5056164.html) - 13:56 29/03/2026
+- 🤓 [Giải nhất khoa học kỹ thuật của học sinh bị tố giống luận án tiến sĩ](https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-luan-an-tien-si-5056164.html) - 13:56 29/03/2026
 - 🦆 [Nước nào có internet đầu tiên ở châu Á?](https://vnexpress.net/nuoc-nao-co-internet-dau-tien-o-chau-a-5056158.html) - 13:07 29/03/2026
 - 🦩 [Đại học Australia đồng loạt thăng hạng, áp sát Mỹ và Anh](https://vnexpress.net/dai-hoc-australia-dong-loat-thang-hang-ap-sat-my-va-anh-5055946.html) - 03:57 29/03/2026
 - 🌮 [Nam sinh chuyên Toán đạt điểm SAT cao nhất thế giới, 8.0 IELTS](https://vnexpress.net/nam-sinh-chuyen-toan-dat-diem-sat-cao-nhat-the-gioi-8-0-ielts-5055965.html) - 23:12 28/03/2026
