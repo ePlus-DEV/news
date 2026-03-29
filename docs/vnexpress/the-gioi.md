@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Nhóm tác chiến đổ bộ đầu tiên của Mỹ có mặt tại Trung Đông](https://vnexpress.net/nhom-tac-chien-do-bo-dau-tien-cua-my-co-mat-tai-trung-dong-5056035.html) - 05:24 29/03/2026
 - 🧑‍💻 [Iran cho phép 20 tàu Pakistan qua eo biển Hormuz](https://vnexpress.net/iran-cho-phep-20-tau-pakistan-qua-eo-bien-hormuz-5056009.html) - 04:07 29/03/2026
 - 🦏 [Hai thuyền cứu trợ tới Cuba sau thời gian mất liên lạc](https://vnexpress.net/hai-thuyen-cuu-tro-toi-cuba-sau-thoi-gian-mat-lien-lac-5055993.html) - 03:01 29/03/2026
-- 🦒 [Iran tố Mỹ - Israel tấn công đại học ở Tehran](https://vnexpress.net/iran-to-my-israel-tan-cong-dai-hoc-o-tehran-5055981.html) - 01:39 29/03/2026
+- 🦒 [Iran ra tối hậu thư cho Mỹ sau vụ tập kích trường đại học](https://vnexpress.net/iran-ra-toi-hau-thu-cho-my-sau-vu-tap-kich-truong-dai-hoc-5055981.html) - 01:39 29/03/2026
 - 🌈 [Iran có thể đã đánh hỏng &#39;máy bay mắt thần&#39; Mỹ](https://vnexpress.net/iran-co-the-da-danh-hong-may-bay-mat-than-my-5055977.html) - 00:23 29/03/2026
 - 🧑‍🏫 [Loạt đảo chiến lược của Iran có thể bị nhắm đến trong chiến sự](https://vnexpress.net/loat-dao-chien-luoc-cua-iran-co-the-bi-nham-den-trong-chien-su-5055768.html) - 23:00 28/03/2026
 - 🐲 [Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người](https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html) - 20:00 28/03/2026
