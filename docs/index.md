@@ -542,7 +542,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Tìm hiểu lộ trình du học tại Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/tim-hieu-lo-trinh-du-hoc-tai-ngay-hoi-tu-tin-vao-lop-10-101260329181636355.htm) - 12:08 29/03/2026
 - 💃 [Check-in Trường THPT Nguyễn Du, THPT Marie Curie, teen bất ngờ với loạt trải nghiệm khoa học, công nghệ](https://muctim.tuoitre.vn/check-in-truong-thpt-nguyen-du-thpt-marie-curie-teen-bat-ngo-voi-loat-trai-nghiem-khoa-hoc-cong-nghe-101260329170132081.htm) - 10:26 29/03/2026
 - 🪜 [Tối nay Táo quân đặc biệt phát sóng trên kênh nào, mấy giờ?](https://muctim.tuoitre.vn/toi-nay-tao-quan-dac-biet-phat-song-tren-kenh-nao-may-gio-101260329164933341.htm) - 10:02 29/03/2026
-- 🎉 [19h tối nay 29-3, chung kết Miss World Vietnam: Ai sẽ đăng quang?](https://muctim.tuoitre.vn/19h-toi-nay-29-3-chung-ket-miss-world-vietnam-ai-se-dang-quang-101260328224002752.htm) - 10:00 29/03/2026
+- 🎉 [Người đẹp Hà Nội Phan Phương Oanh đăng quang Miss World Vietnam 2025](https://muctim.tuoitre.vn/19h-toi-nay-29-3-chung-ket-miss-world-vietnam-ai-se-dang-quang-101260328224002752.htm) - 10:00 29/03/2026
 - 🥳 [Khám phá Trường THPT Nguyễn An Ninh tại Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/kham-pha-truong-thpt-nguyen-an-ninh-tai-ngay-hoi-tu-tin-vao-lop-10-10126032915550161.htm) - 09:03 29/03/2026
 - 🤓 [Khám phá Ngày hội tư vấn tuyển sinh lớp 10 tại Trường THPT Vũng Tàu](https://muctim.tuoitre.vn/kham-pha-ngay-hoi-tu-van-tuyen-sinh-lop-10-tai-truong-thpt-vung-tau-101260329023648574.htm) - 09:00 29/03/2026
 - 🎉 [SWAN: Hãy tin vào bản thân mình khi bước vào kỳ thi](https://muctim.tuoitre.vn/swan-hay-tin-vao-ban-than-minh-khi-buoc-vao-ky-thi-101260329151150539.htm) - 08:41 29/03/2026
