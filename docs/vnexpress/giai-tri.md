@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Chung kết Miss World Vietnam: Công bố Top 6](https://vnexpress.net/chung-ket-miss-world-vietnam-2025-5056125.html) - 12:20 29/03/2026
+- 🌏 [Chung kết Miss World Vietnam: Công bố Top 3](https://vnexpress.net/chung-ket-miss-world-vietnam-2025-5056125.html) - 12:20 29/03/2026
 - 💫 [Hoa hậu Thế giới cùng dàn mỹ nhân dự thảm xanh Miss World Vietnam](https://vnexpress.net/hoa-hau-the-gioi-cung-dan-my-nhan-du-tham-xanh-miss-world-vietnam-5056137.html) - 12:14 29/03/2026
 - 🌮 [Ánh Tuyết làm đêm nhạc tưởng nhớ Trịnh Công Sơn](https://vnexpress.net/anh-tuyet-lam-dem-nhac-tuong-nho-trinh-cong-son-5055442.html) - 09:17 29/03/2026
 - 🧠 [Katy Perry và cựu Thủ tướng Canada đùa về chuyện tuổi tác](https://vnexpress.net/katy-perry-va-cuu-thu-tuong-canada-dua-ve-chuyen-tuoi-tac-5056090.html) - 08:44 29/03/2026
