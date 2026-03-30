@@ -528,7 +528,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Em xinh Ánh Sáng AZA là ngoại lệ của Tiên Tiên?](https://muctim.tuoitre.vn/em-xinh-anh-sang-aza-la-ngoai-le-cua-tien-tien-101260328231318698.htm) - 23:23 29/03/2026
 - 🤭 [Tuần mới của 12 cung hoàng đạo: Cự Giải xông xáo](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-cu-giai-xong-xao-10126032923504576.htm) - 23:22 29/03/2026
 - 😺 [Môi trường năng động của Trường THPT Năng khiếu TDTT thu hút học sinh lớp 9](https://muctim.tuoitre.vn/moi-truong-nang-dong-cua-truong-thpt-nang-khieu-tdtt-thu-hut-hoc-sinh-lop-9-101260329182202068.htm) - 15:39 29/03/2026
-- 😎 [Đội Ok Roi Do đoạt giải nhất Hackathon Logistics Nhân đạo 2026 – HumanLog 2026](https://muctim.tuoitre.vn/doi-ok-roi-do-doat-giai-nhat-hackathon-logistics-nhan-dao-2026-humanlog-2026-101260329200204974.htm) - 15:37 29/03/2026
+- 😎 [Đội Ok Roi Do đoạt giải nhất Hackathon Logistics Nhân đạo 2026 - HumanLog 2026](https://muctim.tuoitre.vn/doi-ok-roi-do-doat-giai-nhat-hackathon-logistics-nhan-dao-2026-humanlog-2026-101260329200204974.htm) - 15:37 29/03/2026
 - 🐎 [Lịch thi đấu của U20 nữ Việt Nam tại VCK U20 nữ châu Á 2026](https://muctim.tuoitre.vn/lich-thi-dau-cua-u20-nu-viet-nam-tai-vck-u20-nu-chau-a-2026-10126032920072997.htm) - 15:14 29/03/2026
 - 🎓 [Teen lớp 9 chốt nguyện vọng sau khi ghé gian tư vấn Trường THPT Bùi Thị Xuân, Trưng Vương](https://muctim.tuoitre.vn/teen-lop-9-chot-nguyen-vong-sau-khi-ghe-gian-tu-van-truong-thpt-bui-thi-xuan-trung-vuong-101260329204834649.htm) - 15:00 29/03/2026
 - 🐎 [Nhộn nhịp gian tư vấn Trường THCS - THPT Hồng Hà tại Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/nhon-nhip-gian-tu-van-truong-thcs-thpt-hong-ha-tai-ngay-hoi-tu-tin-vao-lop-10-101260329191611257.htm) - 14:58 29/03/2026
