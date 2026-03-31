@@ -519,9 +519,9 @@ kV Pleiku](https://baochinhphu.vn/dong-dien-thanh-cong-khang-bu-ngang-tai-tba-50
 <!-- muctim:START -->
 - 🤔 [Đội hình tuyển Việt Nam đấu Malaysia: Xuân Son, Hoàng Hên đá chính](https://muctim.tuoitre.vn/doi-hinh-tuyen-viet-nam-dau-malaysia-xuan-son-hoang-hen-da-chinh-101260331173329923.htm) - 10:44 31/03/2026
 - 🥷 [Các đội châu Á nào từng dự World Cup qua vòng play-off liên lục địa?](https://muctim.tuoitre.vn/cac-doi-chau-a-nao-tung-du-world-cup-qua-vong-play-off-lien-luc-dia-101260331141219448.htm) - 10:09 31/03/2026
-- 🤖 [Trực tiếp: U23 Việt Nam 0-1 U23 Trung Quốc &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-trung-quoc-101260331145523671.htm) - 10:08 31/03/2026
+- 🤖 [CFA Team China - Tây An 2026: U23 Việt Nam 0-1 U23 Trung Quốc](https://muctim.tuoitre.vn/truc-tiep-u23-viet-nam-dau-u23-trung-quoc-101260331145523671.htm) - 10:08 31/03/2026
 - 🤓 [Chi tiết 3 diện xét tuyển tài năng vào Đại học Bách khoa Hà Nội năm 2026](https://muctim.tuoitre.vn/chi-tiet-3-dien-xet-tuyen-tai-nang-vao-dai-hoc-bach-khoa-ha-noi-nam-2026-101260331143147625.htm) - 10:08 31/03/2026
-- 🎉 [Trực tiếp vòng loại Asian Cup 2027: Việt Nam 1-0 Malaysia &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-2027-viet-nam-dau-malaysia-luc-19h-hom-nay-31-3-101260331153605762.htm) - 10:01 31/03/2026
+- 🎉 [Xuân Son lập cú đúp, tuyển Việt Nam thắng Malaysia 3-1](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-2027-viet-nam-dau-malaysia-luc-19h-hom-nay-31-3-101260331153605762.htm) - 10:01 31/03/2026
 - 👨‍🏫 [Thêm lựa chọn du học từ cấp THPT cho học sinh lớp 9](https://muctim.tuoitre.vn/them-lua-chon-du-hoc-tu-cap-thpt-cho-hoc-sinh-lop-9-101260331121440998.htm) - 09:19 31/03/2026
 - 🚦 [Bài tham dự Hội thi Sáng tác văn học: Trái tim sắt](https://muctim.tuoitre.vn/bai-tham-du-hoi-thi-sang-tac-van-hoc-trai-tim-sat-101260324163821839.htm) - 09:00 31/03/2026
 - 🤭 [Khán giả Việt Nam có thể xem trực tiếp U23 Việt Nam đấu U23 Trung Quốc](https://muctim.tuoitre.vn/khan-gia-viet-nam-co-the-xem-truc-tiep-u23-viet-nam-dau-u23-trung-quoc-10126033112313776.htm) - 06:39 31/03/2026
