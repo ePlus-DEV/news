@@ -400,8 +400,8 @@ bị động, bất ngờ về mặt chiến lược](https://nld.com.vn/tong-bi
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tổng Bí thư Tô Lâm: Không để nợ thể chế trở thành điểm nghẽn của phát triển](https://baochinhphu.vn/tong-bi-thu-to-lam-khong-de-no-the-che-tro-thanh-diem-nghen-cua-phat-trien-102260331201841304.htm) - 20:26 31/03/2026
-- 🌜 [Thông qua Báo cáo kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư đối với Ban Thường vụ Đảng ủy Chính phủ](https://baochinhphu.vn/thong-qua-bao-cao-kiem-tra-giam-sat-cua-bo-chinh-tri-ban-bi-thu-doi-voi-ban-thuong-vu-dang-uy-chinh-phu-102260331193959926.htm) - 20:12 31/03/2026
+- 💻 [Thông qua Báo cáo kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư đối với Ban Thường vụ Đảng ủy Chính phủ](https://baochinhphu.vn/thong-qua-bao-cao-kiem-tra-giam-sat-cua-bo-chinh-tri-ban-bi-thu-doi-voi-ban-thuong-vu-dang-uy-chinh-phu-102260331193959926.htm) - 21:58 31/03/2026
+- 🌜 [Tổng Bí thư Tô Lâm: Không để nợ thể chế trở thành điểm nghẽn của phát triển](https://baochinhphu.vn/tong-bi-thu-to-lam-khong-de-no-the-che-tro-thanh-diem-nghen-cua-phat-trien-102260331201841304.htm) - 20:26 31/03/2026
 - 🦆 [Quy định mới về thu phí, lệ phí xuất nhập cảnh](https://baochinhphu.vn/quy-dinh-moi-ve-thu-phi-le-phi-xuat-nhap-canh-102260331184313162.htm) - 18:42 31/03/2026
 - 🌝 [Quy định xử phạt vi phạm hành chính về kinh doanh và sử dụng sản phẩm dinh dưỡng dùng cho trẻ nhỏ](https://baochinhphu.vn/quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-kinh-doanh-va-su-dung-san-pham-dinh-duong-dung-cho-tre-nho-102260331180814777.htm) - 18:21 31/03/2026
 - 🦣 [Đẩy mạnh xã hội hóa: Động lực đưa tiếng Anh trở thành ngôn ngữ thứ hai trong trường học](https://baochinhphu.vn/day-manh-xa-hoi-hoa-dong-luc-dua-tieng-anh-tro-thanh-ngon-ngu-thu-hai-trong-truong-hoc-102260331170103604.htm) - 17:09 31/03/2026
