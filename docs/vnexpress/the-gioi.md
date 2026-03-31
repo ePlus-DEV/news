@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Lính dù Mỹ &#39;bắt đầu triển khai ở Trung Đông&#39;](https://vnexpress.net/linh-du-my-bat-dau-trien-khai-o-trung-dong-5056860.html) - 10:16 31/03/2026
-- 🕴 [Nổ lớn tại Iran, nghi kho đạn trúng bom xuyên hầm của Mỹ](https://vnexpress.net/no-lon-tai-iran-nghi-kho-dan-trung-bom-xuyen-ham-cua-my-5056748.html) - 07:13 31/03/2026
-- 🤭 [Ông Trump tiếp tục dọa &#39;xóa sổ toàn bộ&#39; nhà máy điện của Iran](https://vnexpress.net/ong-trump-tiep-tuc-doa-xoa-so-toan-bo-nha-may-dien-cua-iran-5056687.html) - 04:20 31/03/2026
-- 🧑‍💻 [Những đường dây súng lậu từ Mỹ thỏa &#39;cơn khát&#39; của băng đảng Mexico](https://vnexpress.net/nhung-duong-day-sung-lau-tu-my-thoa-con-khat-cua-bang-dang-mexico-5051958.html) - 04:00 31/03/2026
-- 🦏 [Bang Florida đặt tên ông Trump cho sân bay](https://vnexpress.net/bang-florida-dat-ten-ong-trump-cho-san-bay-5056662.html) - 03:40 31/03/2026
-- 🦒 [CEO Air Canada từ chức sau tranh cãi về thông điệp chia buồn](https://vnexpress.net/ceo-air-canada-tu-chuc-sau-tranh-cai-ve-thong-diep-chia-buon-5056670.html) - 03:26 31/03/2026
-- 🌈 [Ông Trump có thể cân nhắc ngừng chiến mà không cần mở lại Hormuz](https://vnexpress.net/ong-trump-co-the-can-nhac-ngung-chien-ma-khong-can-mo-lai-hormuz-5056617.html) - 02:20 31/03/2026
-- 🧑‍🏫 [Tây Ban Nha đóng không phận với máy bay Mỹ tham gia tấn công Iran](https://vnexpress.net/tay-ban-nha-dong-khong-phan-voi-may-bay-my-tham-gia-tan-cong-iran-5056612.html) - 01:46 31/03/2026
-- 🐲 [Kuwait cáo buộc Iran tập kích, gây cháy tàu dầu 320.000 tấn](https://vnexpress.net/kuwait-cao-buoc-iran-tap-kich-gay-chay-tau-dau-320-000-tan-5056600.html) - 00:41 31/03/2026
-- 🦒 [Iran &#39;duyệt kế hoạch thu phí tàu trên eo biển Hormuz&#39;](https://vnexpress.net/iran-duyet-ke-hoach-thu-phi-tau-tren-eo-bien-hormuz-5056601.html) - 00:32 31/03/2026
-- 🐻 [Cuộc đua ghế xoay ở Nhật Bản](https://vnexpress.net/cuoc-dua-ghe-xoay-o-nhat-ban-5056497.html) - 23:00 30/03/2026
-- 🚀 [Năng lực đáp trả khó bị xóa sổ của Iran](https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html) - 22:00 30/03/2026
-- 🥰 [Cuộc chạy đua của Mỹ nhằm bảo vệ lực lượng ở Trung Đông](https://vnexpress.net/cuoc-chay-dua-cua-my-nham-bao-ve-luc-luong-o-trung-dong-5055852.html) - 18:00 30/03/2026
-- 🔥 [Người đàn ông Thụy Điển bị truy tố vì tội &#39;bán vợ&#39;](https://vnexpress.net/nguoi-dan-ong-thuy-dien-bi-truy-to-vi-toi-ban-vo-5056557.html) - 15:24 30/03/2026
-- 🥳 [Những nhân viên an ninh sân bay Mỹ sống lay lắt bằng tiền vay](https://vnexpress.net/nhung-nhan-vien-an-ninh-san-bay-my-song-lay-lat-bang-tien-vay-5056383.html) - 14:00 30/03/2026
-- 💼 [Ukraine nêu ý tưởng dùng xuồng không người lái để mở cửa eo biển Hormuz](https://vnexpress.net/ukraine-neu-y-tuong-dung-xuong-khong-nguoi-lai-de-mo-cua-eo-bien-hormuz-5056550.html) - 13:22 30/03/2026
-- 🤡 [Người Iran vật lộn sinh tồn giữa chiến sự](https://vnexpress.net/nguoi-iran-vat-lon-sinh-ton-giua-chien-su-5056252.html) - 12:00 30/03/2026
-- 🌁 [Iran bác tuyên bố của ông Trump về &#39;chấp thuận hầu hết đề xuất ngừng bắn&#39;](https://vnexpress.net/iran-bac-tuyen-bo-cua-ong-trump-ve-chap-thuan-hau-het-de-xuat-ngung-ban-5056526.html) - 11:24 30/03/2026
-- 🤩 [Giáo hoàng Leo XIV: Chúa khước từ lời cầu nguyện của kẻ &#39;tay vấy máu&#39;](https://vnexpress.net/giao-hoang-leo-xiv-chua-khuoc-tu-loi-cau-nguyen-cua-ke-tay-vay-mau-5056353.html) - 10:42 30/03/2026
-- 🎉 [Iran xác nhận tướng phụ trách phong tỏa Hormuz đã thiệt mạng](https://vnexpress.net/iran-xac-nhan-tuong-phu-trach-phong-toa-hormuz-da-thiet-mang-5056474.html) - 09:33 30/03/2026
-- 🎉 [Iran hé lộ vũ khí đánh trúng &#39;máy bay mắt thần&#39; Mỹ](https://vnexpress.net/iran-he-lo-vu-khi-danh-trung-may-bay-mat-than-my-5056457.html) - 08:55 30/03/2026
-- 🌁 [&#39;Bão sắt&#39; nhuộm đỏ bầu trời Tây Australia](https://vnexpress.net/bao-sat-nhuom-do-bau-troi-tay-australia-5056446.html) - 08:45 30/03/2026
-- 🌊 [Kuwait cáo buộc Iran tập kích trúng nhà máy lọc nước biển](https://vnexpress.net/kuwait-cao-buoc-iran-tap-kich-trung-nha-may-loc-nuoc-bien-5056455.html) - 08:44 30/03/2026
-- 🕴 [Mỹ xây tổ hợp quân sự ngầm dưới phòng khiêu vũ Nhà Trắng](https://vnexpress.net/my-xay-to-hop-quan-su-ngam-duoi-phong-khieu-vu-nha-trang-5056413.html) - 08:03 30/03/2026
-- 🎓 [Tính năng tàu ngầm hạt nhân 2,8 tỷ USD mới biên chế của Mỹ](https://vnexpress.net/tinh-nang-tau-ngam-hat-nhan-2-8-ty-usd-moi-bien-che-cua-my-5056318.html) - 06:55 30/03/2026
-- 🦩 [Mỹ nói Iran chấp thuận &#39;hầu hết&#39; kế hoạch ngừng bắn 15 điểm](https://vnexpress.net/my-noi-iran-chap-thuan-hau-het-ke-hoach-ngung-ban-15-diem-5056386.html) - 05:52 30/03/2026
-- 🌏 [Cảnh sát Mỹ bắt nhầm người vì tin vào AI](https://vnexpress.net/canh-sat-my-bat-nham-nguoi-vi-tin-vao-ai-5056275.html) - 04:56 30/03/2026
-- 🌋 [Ông Trump muốn Mỹ lấy dầu ở Iran](https://vnexpress.net/ong-trump-muon-my-lay-dau-o-iran-5056292.html) - 04:33 30/03/2026
-- 🪜 [Lính Mỹ bị cáo buộc trộm tên lửa chống tăng mang đi bán](https://vnexpress.net/linh-my-bi-cao-buoc-trom-ten-lua-chong-tang-mang-di-ban-5056250.html) - 03:45 30/03/2026
-- 🕴 [Bé gái 7 tuổi người Canada bị ICE bắt giam cùng mẹ](https://vnexpress.net/be-gai-7-tuoi-nguoi-canada-bi-ice-bat-giam-cung-me-5055771.html) - 03:00 30/03/2026
-- 🧑‍🏫 [Các trường Mỹ ở Trung Đông chuyển học trực tuyến sau tối hậu thư của Iran](https://vnexpress.net/cac-truong-my-o-trung-dong-chuyen-hoc-truc-tuyen-sau-toi-hau-thu-cua-iran-5056273.html) - 02:53 30/03/2026
-- 🌮 [Triệu phú từng trúng độc đắc bị bắt vì trộm 12.000 USD](https://vnexpress.net/trieu-phu-tung-trung-doc-dac-bi-bat-vi-trom-12-000-usd-5056283.html) - 02:49 30/03/2026
-- 🚦 [Cựu tư lệnh Mỹ nêu lợi thế nếu chiếm đảo Kharg](https://vnexpress.net/cuu-tu-lenh-my-neu-loi-the-neu-chiem-dao-kharg-5056269.html) - 02:42 30/03/2026
-- 💫 [Ông Trump không phản đối tàu chở dầu Nga tới Cuba](https://vnexpress.net/ong-trump-khong-phan-doi-tau-cho-dau-nga-toi-cuba-5056228.html) - 02:22 30/03/2026
-- 🤡 [Mỹ thu hồi 10 triệu bàn chải vỉ nướng vì nguy cơ hóc sợi kim loại](https://vnexpress.net/my-thu-hoi-10-trieu-ban-chai-vi-nuong-vi-nguy-co-hoc-soi-kim-loai-5056257.html) - 01:58 30/03/2026
-- 🦣 [Iran đăng ảnh vệ tinh &#39;máy bay mắt thần&#39; Mỹ sau đòn tập kích](https://vnexpress.net/iran-dang-anh-ve-tinh-may-bay-mat-than-my-sau-don-tap-kich-5056240.html) - 01:15 30/03/2026
-- 🎬 [Tân Lãnh tụ Tối cao Iran gửi thư cảm ơn Iraq](https://vnexpress.net/tan-lanh-tu-toi-cao-iran-gui-thu-cam-on-iraq-5056224.html) - 23:32 29/03/2026
-- 🎉 [Thế khó với lính Mỹ nếu đổ bộ vào Iran](https://vnexpress.net/the-kho-voi-linh-my-neu-do-bo-vao-iran-5055745.html) - 22:00 29/03/2026
-- 🎡 [San Francisco khôi phục môn đại số sau 12 năm giảm tải](https://vnexpress.net/san-francisco-khoi-phuc-mon-dai-so-sau-12-nam-giam-tai-5055767.html) - 19:00 29/03/2026
-- 🌜 [Tổn thất với Mỹ nếu mất &#39;máy bay mắt thần&#39; ở Trung Đông](https://vnexpress.net/ton-that-voi-my-neu-mat-may-bay-mat-than-o-trung-dong-5056136.html) - 18:00 29/03/2026
-- 🎡 [Những người Ukraine phải nhập ngũ sau khi bị Mỹ trục xuất](https://vnexpress.net/nhung-nguoi-ukraine-phai-nhap-ngu-sau-khi-bi-my-truc-xuat-5055777.html) - 17:00 29/03/2026
-- 🤗 [Quan chức UAE yêu cầu Iran bồi thường](https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html) - 15:14 29/03/2026
-- 🦩 [Bahrain áp lệnh giới nghiêm hàng hải](https://vnexpress.net/bahrain-ap-lenh-gioi-nghiem-hang-hai-5056159.html) - 13:55 29/03/2026
-- 🎓 [Chủ tịch Quốc hội Iran: Chúng tôi đang chờ lính Mỹ đổ bộ](https://vnexpress.net/chu-tich-quoc-hoi-iran-chung-toi-dang-cho-linh-my-do-bo-5056120.html) - 11:16 29/03/2026
-- 🌁 [Tài khoản của ông Maduro lần đầu đăng bài sau nhiều tháng](https://vnexpress.net/tai-khoan-cua-ong-maduro-lan-dau-dang-bai-sau-nhieu-thang-5056079.html) - 09:51 29/03/2026
-- 🤩 [Xuất hiện ảnh &#39;máy bay mắt thần Mỹ hư hại&#39; sau đòn đánh của Iran](https://vnexpress.net/xuat-hien-anh-may-bay-mat-than-my-hu-hai-sau-don-danh-cua-iran-5056069.html) - 07:26 29/03/2026
-- 👹 [Nhóm tác chiến đổ bộ đầu tiên của Mỹ có mặt tại Trung Đông](https://vnexpress.net/nhom-tac-chien-do-bo-dau-tien-cua-my-co-mat-tai-trung-dong-5056035.html) - 05:24 29/03/2026
-- ⛽️ [Iran cho phép 20 tàu Pakistan qua eo biển Hormuz](https://vnexpress.net/iran-cho-phep-20-tau-pakistan-qua-eo-bien-hormuz-5056009.html) - 04:07 29/03/2026
-- 🚀 [Hai thuyền cứu trợ tới Cuba sau thời gian mất liên lạc](https://vnexpress.net/hai-thuyen-cuu-tro-toi-cuba-sau-thoi-gian-mat-lien-lac-5055993.html) - 03:01 29/03/2026
-- 🎡 [Iran ra tối hậu thư cho Mỹ sau vụ tập kích trường đại học](https://vnexpress.net/iran-ra-toi-hau-thu-cho-my-sau-vu-tap-kich-truong-dai-hoc-5055981.html) - 01:39 29/03/2026
-- 🕯 [Iran có thể đã đánh hỏng &#39;máy bay mắt thần&#39; Mỹ](https://vnexpress.net/iran-co-the-da-danh-hong-may-bay-mat-than-my-5055977.html) - 00:23 29/03/2026
-- 🐻 [Loạt đảo chiến lược của Iran có thể bị nhắm đến trong chiến sự](https://vnexpress.net/loat-dao-chien-luoc-cua-iran-co-the-bi-nham-den-trong-chien-su-5055768.html) - 23:00 28/03/2026
-- 🚦 [Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người](https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html) - 20:00 28/03/2026
-- 👍 [Loài rầy &#39;ma cà rồng&#39; đe dọa các vườn nho ở Virginia](https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html) - 19:00 28/03/2026
-- 🚀 [Những lực lượng bộ binh Mỹ đang đến vùng Vịnh](https://vnexpress.net/nhung-luc-luong-bo-binh-my-dang-den-vung-vinh-5055573.html) - 18:00 28/03/2026
-- 🌮 [Vùng Vịnh chia rẽ trước bài toán Iran](https://vnexpress.net/vung-vinh-chia-re-truoc-bai-toan-iran-5055763.html) - 17:00 28/03/2026
-- 😎 [Cảnh sát Nepal bắt cựu thủ tướng bị lật đổ trong phong trào biểu tình](https://vnexpress.net/canh-sat-nepal-bat-cuu-thu-tuong-bi-lat-do-trong-phong-trao-bieu-tinh-5055954.html) - 15:07 28/03/2026
-- 🐲 [Ukraine ký thỏa thuận giúp ba nước vùng Vịnh đối phó UAV Iran](https://vnexpress.net/ukraine-ky-thoa-thuan-giup-ba-nuoc-vung-vinh-doi-pho-uav-iran-5055936.html) - 13:10 28/03/2026
-- 💫 [Tình thế đảo ngược sau một tháng chiến sự Iran](https://vnexpress.net/tinh-the-dao-nguoc-sau-mot-thang-chien-su-iran-5055358.html) - 12:23 28/03/2026
-- 👀 [Những khí tài đắt nhất của Mỹ bị hư hại sau một tháng xung đột](https://vnexpress.net/nhung-khi-tai-dat-nhat-cua-my-bi-hu-hai-sau-mot-thang-xung-dot-5055795.html) - 12:00 28/03/2026<!-- vnexpress-the-gioi:END -->
+- 🎭 [Lưới phòng không vùng Vịnh đối mặt nguy cơ cạn sạch tên lửa](https://vnexpress.net/luoi-phong-khong-vung-vinh-doi-mat-nguy-co-can-sach-ten-lua-5056787.html) - 18:00 31/03/2026
+- 🕴 [Bộ trưởng Hegseth: Ưu tiên của Mỹ là tìm kiếm thỏa thuận với Iran](https://vnexpress.net/bo-truong-hegseth-uu-tien-cua-my-la-tim-kiem-thoa-thuan-voi-iran-5056927.html) - 15:58 31/03/2026
+- 🤭 [Iran có thể đã đánh trúng hai &#39;máy bay mắt thần&#39; của Mỹ](https://vnexpress.net/iran-co-the-da-danh-trung-hai-may-bay-mat-than-cua-my-5056901.html) - 14:44 31/03/2026
+- 🧑‍💻 [Lính dù Mỹ &#39;bắt đầu triển khai ở Trung Đông&#39;](https://vnexpress.net/linh-du-my-bat-dau-trien-khai-o-trung-dong-5056860.html) - 10:16 31/03/2026
+- 🦏 [Nổ lớn tại Iran, nghi kho đạn trúng bom xuyên hầm của Mỹ](https://vnexpress.net/no-lon-tai-iran-nghi-kho-dan-trung-bom-xuyen-ham-cua-my-5056748.html) - 07:13 31/03/2026
+- 🦒 [Ông Trump tiếp tục dọa &#39;xóa sổ toàn bộ&#39; nhà máy điện của Iran](https://vnexpress.net/ong-trump-tiep-tuc-doa-xoa-so-toan-bo-nha-may-dien-cua-iran-5056687.html) - 04:20 31/03/2026
+- 🌈 [Những đường dây súng lậu từ Mỹ thỏa &#39;cơn khát&#39; của băng đảng Mexico](https://vnexpress.net/nhung-duong-day-sung-lau-tu-my-thoa-con-khat-cua-bang-dang-mexico-5051958.html) - 04:00 31/03/2026
+- 🧑‍🏫 [Bang Florida đặt tên ông Trump cho sân bay](https://vnexpress.net/bang-florida-dat-ten-ong-trump-cho-san-bay-5056662.html) - 03:40 31/03/2026
+- 🐲 [CEO Air Canada từ chức sau tranh cãi về thông điệp chia buồn](https://vnexpress.net/ceo-air-canada-tu-chuc-sau-tranh-cai-ve-thong-diep-chia-buon-5056670.html) - 03:26 31/03/2026
+- 🦒 [Ông Trump có thể cân nhắc ngừng chiến mà không cần mở lại Hormuz](https://vnexpress.net/ong-trump-co-the-can-nhac-ngung-chien-ma-khong-can-mo-lai-hormuz-5056617.html) - 02:20 31/03/2026
+- 🐻 [Tây Ban Nha đóng không phận với máy bay Mỹ tham gia tấn công Iran](https://vnexpress.net/tay-ban-nha-dong-khong-phan-voi-may-bay-my-tham-gia-tan-cong-iran-5056612.html) - 01:46 31/03/2026
+- 🚀 [Kuwait cáo buộc Iran tập kích, gây cháy tàu dầu 320.000 tấn](https://vnexpress.net/kuwait-cao-buoc-iran-tap-kich-gay-chay-tau-dau-320-000-tan-5056600.html) - 00:41 31/03/2026
+- 🥰 [Iran &#39;duyệt kế hoạch thu phí tàu trên eo biển Hormuz&#39;](https://vnexpress.net/iran-duyet-ke-hoach-thu-phi-tau-tren-eo-bien-hormuz-5056601.html) - 00:32 31/03/2026
+- 🔥 [Cuộc đua ghế xoay ở Nhật Bản](https://vnexpress.net/cuoc-dua-ghe-xoay-o-nhat-ban-5056497.html) - 23:00 30/03/2026
+- 🥳 [Năng lực đáp trả khó bị xóa sổ của Iran](https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html) - 22:00 30/03/2026
+- 💼 [Cuộc chạy đua của Mỹ nhằm bảo vệ lực lượng ở Trung Đông](https://vnexpress.net/cuoc-chay-dua-cua-my-nham-bao-ve-luc-luong-o-trung-dong-5055852.html) - 18:00 30/03/2026
+- 🤡 [Người đàn ông Thụy Điển bị truy tố vì tội &#39;bán vợ&#39;](https://vnexpress.net/nguoi-dan-ong-thuy-dien-bi-truy-to-vi-toi-ban-vo-5056557.html) - 15:24 30/03/2026
+- 🌁 [Những nhân viên an ninh sân bay Mỹ sống lay lắt bằng tiền vay](https://vnexpress.net/nhung-nhan-vien-an-ninh-san-bay-my-song-lay-lat-bang-tien-vay-5056383.html) - 14:00 30/03/2026
+- 🤩 [Ukraine nêu ý tưởng dùng xuồng không người lái để mở cửa eo biển Hormuz](https://vnexpress.net/ukraine-neu-y-tuong-dung-xuong-khong-nguoi-lai-de-mo-cua-eo-bien-hormuz-5056550.html) - 13:22 30/03/2026
+- 🎉 [Người Iran vật lộn sinh tồn giữa chiến sự](https://vnexpress.net/nguoi-iran-vat-lon-sinh-ton-giua-chien-su-5056252.html) - 12:00 30/03/2026
+- 🎉 [Iran bác tuyên bố của ông Trump về &#39;chấp thuận hầu hết đề xuất ngừng bắn&#39;](https://vnexpress.net/iran-bac-tuyen-bo-cua-ong-trump-ve-chap-thuan-hau-het-de-xuat-ngung-ban-5056526.html) - 11:24 30/03/2026
+- 🌁 [Giáo hoàng Leo XIV: Chúa khước từ lời cầu nguyện của kẻ &#39;tay vấy máu&#39;](https://vnexpress.net/giao-hoang-leo-xiv-chua-khuoc-tu-loi-cau-nguyen-cua-ke-tay-vay-mau-5056353.html) - 10:42 30/03/2026
+- 🌊 [Iran xác nhận tướng phụ trách phong tỏa Hormuz đã thiệt mạng](https://vnexpress.net/iran-xac-nhan-tuong-phu-trach-phong-toa-hormuz-da-thiet-mang-5056474.html) - 09:33 30/03/2026
+- 🕴 [Iran hé lộ vũ khí đánh trúng &#39;máy bay mắt thần&#39; Mỹ](https://vnexpress.net/iran-he-lo-vu-khi-danh-trung-may-bay-mat-than-my-5056457.html) - 08:55 30/03/2026
+- 🎓 [&#39;Bão sắt&#39; nhuộm đỏ bầu trời Tây Australia](https://vnexpress.net/bao-sat-nhuom-do-bau-troi-tay-australia-5056446.html) - 08:45 30/03/2026
+- 🦩 [Kuwait cáo buộc Iran tập kích trúng nhà máy lọc nước biển](https://vnexpress.net/kuwait-cao-buoc-iran-tap-kich-trung-nha-may-loc-nuoc-bien-5056455.html) - 08:44 30/03/2026
+- 🌏 [Mỹ xây tổ hợp quân sự ngầm dưới phòng khiêu vũ Nhà Trắng](https://vnexpress.net/my-xay-to-hop-quan-su-ngam-duoi-phong-khieu-vu-nha-trang-5056413.html) - 08:03 30/03/2026
+- 🌋 [Tính năng tàu ngầm hạt nhân 2,8 tỷ USD mới biên chế của Mỹ](https://vnexpress.net/tinh-nang-tau-ngam-hat-nhan-2-8-ty-usd-moi-bien-che-cua-my-5056318.html) - 06:55 30/03/2026
+- 🪜 [Mỹ nói Iran chấp thuận &#39;hầu hết&#39; kế hoạch ngừng bắn 15 điểm](https://vnexpress.net/my-noi-iran-chap-thuan-hau-het-ke-hoach-ngung-ban-15-diem-5056386.html) - 05:52 30/03/2026
+- 🕴 [Cảnh sát Mỹ bắt nhầm người vì tin vào AI](https://vnexpress.net/canh-sat-my-bat-nham-nguoi-vi-tin-vao-ai-5056275.html) - 04:56 30/03/2026
+- 🧑‍🏫 [Ông Trump muốn Mỹ lấy dầu ở Iran](https://vnexpress.net/ong-trump-muon-my-lay-dau-o-iran-5056292.html) - 04:33 30/03/2026
+- 🌮 [Lính Mỹ bị cáo buộc trộm tên lửa chống tăng mang đi bán](https://vnexpress.net/linh-my-bi-cao-buoc-trom-ten-lua-chong-tang-mang-di-ban-5056250.html) - 03:45 30/03/2026
+- 🚦 [Bé gái 7 tuổi người Canada bị ICE bắt giam cùng mẹ](https://vnexpress.net/be-gai-7-tuoi-nguoi-canada-bi-ice-bat-giam-cung-me-5055771.html) - 03:00 30/03/2026
+- 💫 [Các trường Mỹ ở Trung Đông chuyển học trực tuyến sau tối hậu thư của Iran](https://vnexpress.net/cac-truong-my-o-trung-dong-chuyen-hoc-truc-tuyen-sau-toi-hau-thu-cua-iran-5056273.html) - 02:53 30/03/2026
+- 🤡 [Triệu phú từng trúng độc đắc bị bắt vì trộm 12.000 USD](https://vnexpress.net/trieu-phu-tung-trung-doc-dac-bi-bat-vi-trom-12-000-usd-5056283.html) - 02:49 30/03/2026
+- 🦣 [Cựu tư lệnh Mỹ nêu lợi thế nếu chiếm đảo Kharg](https://vnexpress.net/cuu-tu-lenh-my-neu-loi-the-neu-chiem-dao-kharg-5056269.html) - 02:42 30/03/2026
+- 🎬 [Ông Trump không phản đối tàu chở dầu Nga tới Cuba](https://vnexpress.net/ong-trump-khong-phan-doi-tau-cho-dau-nga-toi-cuba-5056228.html) - 02:22 30/03/2026
+- 🎉 [Mỹ thu hồi 10 triệu bàn chải vỉ nướng vì nguy cơ hóc sợi kim loại](https://vnexpress.net/my-thu-hoi-10-trieu-ban-chai-vi-nuong-vi-nguy-co-hoc-soi-kim-loai-5056257.html) - 01:58 30/03/2026
+- 🎡 [Iran đăng ảnh vệ tinh &#39;máy bay mắt thần&#39; Mỹ sau đòn tập kích](https://vnexpress.net/iran-dang-anh-ve-tinh-may-bay-mat-than-my-sau-don-tap-kich-5056240.html) - 01:15 30/03/2026
+- 🌜 [Tân Lãnh tụ Tối cao Iran gửi thư cảm ơn Iraq](https://vnexpress.net/tan-lanh-tu-toi-cao-iran-gui-thu-cam-on-iraq-5056224.html) - 23:32 29/03/2026
+- 🎡 [Thế khó với lính Mỹ nếu đổ bộ vào Iran](https://vnexpress.net/the-kho-voi-linh-my-neu-do-bo-vao-iran-5055745.html) - 22:00 29/03/2026
+- 🤗 [San Francisco khôi phục môn đại số sau 12 năm giảm tải](https://vnexpress.net/san-francisco-khoi-phuc-mon-dai-so-sau-12-nam-giam-tai-5055767.html) - 19:00 29/03/2026
+- 🦩 [Tổn thất với Mỹ nếu mất &#39;máy bay mắt thần&#39; ở Trung Đông](https://vnexpress.net/ton-that-voi-my-neu-mat-may-bay-mat-than-o-trung-dong-5056136.html) - 18:00 29/03/2026
+- 🎓 [Những người Ukraine phải nhập ngũ sau khi bị Mỹ trục xuất](https://vnexpress.net/nhung-nguoi-ukraine-phai-nhap-ngu-sau-khi-bi-my-truc-xuat-5055777.html) - 17:00 29/03/2026
+- 🌁 [Quan chức UAE yêu cầu Iran bồi thường](https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html) - 15:14 29/03/2026
+- 🤩 [Bahrain áp lệnh giới nghiêm hàng hải](https://vnexpress.net/bahrain-ap-lenh-gioi-nghiem-hang-hai-5056159.html) - 13:55 29/03/2026
+- 👹 [Chủ tịch Quốc hội Iran: Chúng tôi đang chờ lính Mỹ đổ bộ](https://vnexpress.net/chu-tich-quoc-hoi-iran-chung-toi-dang-cho-linh-my-do-bo-5056120.html) - 11:16 29/03/2026
+- ⛽️ [Tài khoản của ông Maduro lần đầu đăng bài sau nhiều tháng](https://vnexpress.net/tai-khoan-cua-ong-maduro-lan-dau-dang-bai-sau-nhieu-thang-5056079.html) - 09:51 29/03/2026
+- 🚀 [Xuất hiện ảnh &#39;máy bay mắt thần Mỹ hư hại&#39; sau đòn đánh của Iran](https://vnexpress.net/xuat-hien-anh-may-bay-mat-than-my-hu-hai-sau-don-danh-cua-iran-5056069.html) - 07:26 29/03/2026
+- 🎡 [Nhóm tác chiến đổ bộ đầu tiên của Mỹ có mặt tại Trung Đông](https://vnexpress.net/nhom-tac-chien-do-bo-dau-tien-cua-my-co-mat-tai-trung-dong-5056035.html) - 05:24 29/03/2026
+- 🕯 [Iran cho phép 20 tàu Pakistan qua eo biển Hormuz](https://vnexpress.net/iran-cho-phep-20-tau-pakistan-qua-eo-bien-hormuz-5056009.html) - 04:07 29/03/2026
+- 🐻 [Hai thuyền cứu trợ tới Cuba sau thời gian mất liên lạc](https://vnexpress.net/hai-thuyen-cuu-tro-toi-cuba-sau-thoi-gian-mat-lien-lac-5055993.html) - 03:01 29/03/2026
+- 🚦 [Iran ra tối hậu thư cho Mỹ sau vụ tập kích trường đại học](https://vnexpress.net/iran-ra-toi-hau-thu-cho-my-sau-vu-tap-kich-truong-dai-hoc-5055981.html) - 01:39 29/03/2026
+- 👍 [Iran có thể đã đánh hỏng &#39;máy bay mắt thần&#39; Mỹ](https://vnexpress.net/iran-co-the-da-danh-hong-may-bay-mat-than-my-5055977.html) - 00:23 29/03/2026
+- 🚀 [Loạt đảo chiến lược của Iran có thể bị nhắm đến trong chiến sự](https://vnexpress.net/loat-dao-chien-luoc-cua-iran-co-the-bi-nham-den-trong-chien-su-5055768.html) - 23:00 28/03/2026
+- 🌮 [Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người](https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html) - 20:00 28/03/2026
+- 😎 [Loài rầy &#39;ma cà rồng&#39; đe dọa các vườn nho ở Virginia](https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html) - 19:00 28/03/2026
+- 🐲 [Những lực lượng bộ binh Mỹ đang đến vùng Vịnh](https://vnexpress.net/nhung-luc-luong-bo-binh-my-dang-den-vung-vinh-5055573.html) - 18:00 28/03/2026
+- 💫 [Vùng Vịnh chia rẽ trước bài toán Iran](https://vnexpress.net/vung-vinh-chia-re-truoc-bai-toan-iran-5055763.html) - 17:00 28/03/2026
+- 👀 [Cảnh sát Nepal bắt cựu thủ tướng bị lật đổ trong phong trào biểu tình](https://vnexpress.net/canh-sat-nepal-bat-cuu-thu-tuong-bi-lat-do-trong-phong-trao-bieu-tinh-5055954.html) - 15:07 28/03/2026<!-- vnexpress-the-gioi:END -->
