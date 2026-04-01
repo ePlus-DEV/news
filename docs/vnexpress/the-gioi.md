@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Mỹ nói Iran đề nghị ngừng bắn](https://vnexpress.net/tong-thong-my-noi-iran-de-nghi-ngung-ban-5057377.html) - 13:40 01/04/2026
+- 🎭 [Tổng thống Mỹ nói Iran đề nghị ngừng bắn, Tehran bác bỏ](https://vnexpress.net/tong-thong-my-noi-iran-de-nghi-ngung-ban-tehran-bac-bo-5057377.html) - 13:40 01/04/2026
 - 🕴 [Lãnh tụ Tối cao Iran đăng thông điệp ca ngợi Hezbollah](https://vnexpress.net/lanh-tu-toi-cao-iran-dang-thong-diep-ca-ngoi-hezbollah-5057362.html) - 13:20 01/04/2026
 - 🤭 [Người dân Tehran níu giữ bình yên giữa vòng vây bom đạn](https://vnexpress.net/nguoi-dan-tehran-niu-giu-binh-yen-giua-vong-vay-bom-dan-5057092.html) - 13:00 01/04/2026
 - 🧑‍💻 [Trung Quốc, Pakistan nêu đề xuất 5 điểm để chấm dứt chiến sự Iran](https://vnexpress.net/trung-quoc-pakistan-neu-de-xuat-5-diem-de-cham-dut-chien-su-iran-5057352.html) - 12:08 01/04/2026
