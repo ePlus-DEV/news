@@ -4,8 +4,8 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Quảng Ninh và Hải Phòng khai thông 4 tuyến du lịch liên vịnh](https://vnexpress.net/quang-ninh-va-hai-phong-khai-thong-4-tuyen-du-lich-lien-vinh-5057390.html) - 16:14 01/04/2026
-- 🪄 [Quán mì Michelin giá 50.000 đồng khiến khách xếp hàng ở Bangkok](https://vnexpress.net/quan-mi-michelin-gia-50-000-dong-khien-khach-xep-hang-o-bangkok-5055463.html) - 13:00 01/04/2026
+- 💂 [10 điểm đến đẹp nhất thế giới 2026](https://vnexpress.net/10-diem-den-dep-nhat-the-gioi-2026-5057219.html) - 23:55 01/04/2026
+- 🪄 [Quảng Ninh và Hải Phòng khai thông 4 tuyến du lịch liên vịnh](https://vnexpress.net/quang-ninh-va-hai-phong-khai-thong-4-tuyen-du-lich-lien-vinh-5057390.html) - 16:14 01/04/2026
 - 🦅 [Hang Sơn Đoòng tiếp tục làm dậy sóng quốc tế](https://vnexpress.net/hang-son-doong-tiep-tuc-lam-day-song-quoc-te-5057158.html) - 12:00 01/04/2026
 - 🕴 [Khách Việt vào nhóm mê ẩm thực nhất châu Á](https://vnexpress.net/khach-viet-vao-nhom-me-am-thuc-nhat-chau-a-5057185.html) - 09:43 01/04/2026
 - 👀 [Trải nghiệm náo nhiệt cả ngày lẫn đêm tại Vui-Fest Cát Bà](https://vnexpress.net/trai-nghiem-nao-nhiet-ca-ngay-lan-dem-tai-vui-fest-cat-ba-5057289.html) - 09:30 01/04/2026
