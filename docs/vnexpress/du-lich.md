@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Bầu trời Hy Lạp chuyển màu đỏ cam do bụi sa mạc](https://vnexpress.net/bau-troi-hy-lap-chuyen-mau-do-cam-do-bui-sa-mac-5058301.html) - 12:53 03/04/2026
+- 💂 [Bầu trời Hy Lạp rực màu đỏ cam do bụi sa mạc](https://vnexpress.net/bau-troi-hy-lap-ruc-mau-do-cam-do-bui-sa-mac-5058301.html) - 12:53 03/04/2026
 - 🪄 [Khách Tây cầu xin hỗ trợ khi lạc trong rừng Lạng Sơn](https://vnexpress.net/khach-tay-cau-xin-ho-tro-khi-lac-trong-rung-lang-son-5058218.html) - 10:02 03/04/2026
 - 🦅 [Food tour Huế với 200.000 đồng](https://vnexpress.net/food-tour-hue-200-000-dong-an-duoc-gi-5058166.html) - 10:00 03/04/2026
 - 🕴 [VUI-Fest Ha Long phong cách thương cảng sắp khai trương](https://vnexpress.net/vui-fest-ha-long-phong-cach-thuong-cang-sap-khai-truong-5057740.html) - 08:30 03/04/2026
