@@ -537,7 +537,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Ngày hội Tự tin vào lớp 10 lần đầu diễn ra tại Trường THPT chuyên Lê Quý Đôn, TP.HCM](https://muctim.tuoitre.vn/ngay-hoi-tu-tin-vao-lop-10-lan-dau-dien-ra-tai-truong-thpt-chuyen-le-quy-don-tphcm-101260404170930816.htm) - 10:36 04/04/2026
 - 🐎 [Lịch trực tiếp, đội hình dự kiến: Inter Miami - Austin](https://muctim.tuoitre.vn/lich-truc-tiep-doi-hinh-du-kien-inter-miami-austin-101260404163832276.htm) - 10:12 04/04/2026
 - 🎓 [Trường THCS Huỳnh Khương Ninh giành trọn 3 giải nhất tại Hội thi Chỉ huy Đội giỏi phường Tân Định](https://muctim.tuoitre.vn/truong-thcs-huynh-khuong-ninh-gianh-tron-3-giai-nhat-tai-hoi-thi-chi-huy-doi-gioi-phuong-tan-dinh-101260404161221041.htm) - 10:10 04/04/2026
-- 🐎 [Trực tiếp vòng 17 V-League 1: Công An Hà Nội - SHB Đà Nẵng](https://muctim.tuoitre.vn/truc-tiep-vong-17-v-league-1-cong-an-ha-noi-shb-da-nang-101260404135041865.htm) - 09:21 04/04/2026
+- 🐎 [Đình Bắc lập cú đúp, Công An Hà Nội thắng đậm SHB Đà Nẵng 5-1](https://muctim.tuoitre.vn/truc-tiep-vong-17-v-league-1-cong-an-ha-noi-shb-da-nang-101260404135041865.htm) - 09:21 04/04/2026
 - 💃 [Vòng 17 V-League 1: PVF-CAND tiếp Becamex TP.HCM](https://muctim.tuoitre.vn/vong-17-v-league-1-pvf-cand-tiep-becamex-tphcm-101260404131701209.htm) - 09:21 04/04/2026
 - 🪜 [Sôi nổi không gian giao lưu tại Liên hoan truyện tranh Pháp ngữ lần thứ nhất](https://muctim.tuoitre.vn/soi-noi-khong-gian-giao-luu-tai-lien-hoan-truyen-tranh-phap-ngu-lan-thu-nhat-101260404154649072.htm) - 09:03 04/04/2026
 - 🎉 [800 teen lớp 9 &#39;lên tàu&#39;, làm học sinh Trường THPT Võ Văn Kiệt](https://muctim.tuoitre.vn/800-teen-lop-9-len-tau-lam-hoc-sinh-truong-thpt-vo-van-kiet-101260404153202975.htm) - 09:01 04/04/2026
