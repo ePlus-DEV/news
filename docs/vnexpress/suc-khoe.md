@@ -4,60 +4,60 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Người Nhật sống khỏe nhờ tắm suối khoáng nóng mỗi ngày](https://vnexpress.net/nguoi-nhat-song-khoe-nho-tam-suoi-khoang-nong-moi-ngay-5058125.html) - 13:00 04/04/2026
-- 🥰 [Bệnh thủy đậu có dễ lây không?](https://vnexpress.net/benh-thuy-dau-co-de-lay-khong-5058520.html) - 12:00 04/04/2026
-- 💡 [Long Châu ra mắt ứng dụng tích điểm thưởng cho gia đình](https://vnexpress.net/long-chau-ra-mat-ung-dung-tich-diem-thuong-cho-gia-dinh-5058573.html) - 10:00 04/04/2026
-- 🤗 [6 lầm tưởng thường gặp về lao phổi](https://vnexpress.net/6-lam-tuong-thuong-gap-ve-lao-phoi-5058471.html) - 10:00 04/04/2026
-- 🪜 [Nguyên tắc ăn &#39;3 ít, 2 nhiều&#39; giúp ổn định huyết áp](https://vnexpress.net/nguyen-tac-an-3-it-2-nhieu-giup-on-dinh-huyet-ap-5058102.html) - 09:19 04/04/2026
-- 🕯 [7 dưỡng chất tốt cho xương khớp phái đẹp tuổi 30](https://vnexpress.net/7-duong-chat-tot-cho-xuong-khop-phai-dep-tuoi-30-5058489.html) - 09:00 04/04/2026
-- 🤭 [8 thói quen lành mạnh vào buổi tối giúp ngủ ngon](https://vnexpress.net/8-thoi-quen-lanh-manh-vao-buoi-toi-giup-ngu-ngon-5058271.html) - 08:00 04/04/2026
-- 👀 [Hơn 500.000 người Việt cần ghép giác mạc](https://vnexpress.net/hon-500-000-nguoi-viet-can-ghep-giac-mac-5058518.html) - 06:30 04/04/2026
-- 🌋 [Bí quyết &#39;trẻ mãi không già&#39; của minh tinh Lâm Thanh Hà](https://vnexpress.net/bi-quyet-tre-mai-khong-gia-cua-minh-tinh-lam-thanh-ha-5058122.html) - 06:00 04/04/2026
-- 🫶 [Dấu hiệu cảnh báo biến chứng não ở trẻ mắc tay chân miệng](https://vnexpress.net/dau-hieu-canh-bao-bien-chung-nao-o-tre-mac-tay-chan-mieng-5058490.html) - 06:00 04/04/2026
-- 🦆 [5 bài tập giúp thư giãn, giảm mỏi mắt](https://vnexpress.net/5-bai-tap-giup-thu-gian-giam-moi-mat-5058452.html) - 06:00 04/04/2026
-- 🚀 [Ai có thể cấy máy tạo nhịp không dây?](https://vnexpress.net/ai-co-the-cay-may-tao-nhip-khong-day-5058411.html) - 05:00 04/04/2026
-- 🌜 [Vì sao viêm gan D nguy hiểm?](https://vnexpress.net/vi-sao-viem-gan-d-nguy-hiem-5058292.html) - 04:00 04/04/2026
-- 🧰 [Bệnh Ménière có chữa khỏi không?](https://vnexpress.net/benh-meniere-co-chua-khoi-khong-5058280.html) - 04:00 04/04/2026
-- 💫 [Nhóm bác sĩ Hàn Quốc cứu sống hành khách nguy kịch trên máy bay](https://vnexpress.net/nhom-bac-si-han-quoc-cuu-song-hanh-khach-nguy-kich-tren-may-bay-5058100.html) - 03:00 04/04/2026
-- 🌝 [Cách giảm đau khớp ở người lớn tuổi](https://vnexpress.net/cach-giam-dau-khop-o-nguoi-lon-tuoi-5058369.html) - 03:00 04/04/2026
-- 🗽 [Bộ ba chăm sóc da mụn Farmona Dermacos từ thiên nhiên](https://vnexpress.net/bo-ba-cham-soc-da-mun-farmona-dermacos-tu-thien-nhien-5058325.html) - 02:00 04/04/2026
-- 🕯 [Sửa mũi lần thứ 5 để giống thần tượng](https://vnexpress.net/sua-mui-lan-thu-5-de-giong-than-tuong-5057865.html) - 01:00 04/04/2026
-- 🦅 [Sai lầm trong bữa sáng làm tăng nguy cơ rối loạn mỡ máu](https://vnexpress.net/sai-lam-trong-bua-sang-lam-tang-nguy-co-roi-loan-mo-mau-5058406.html) - 01:00 04/04/2026
-- 🦆 [4 thói quen tốt cho thận trong mùa hè](https://vnexpress.net/4-thoi-quen-tot-cho-than-trong-mua-he-5058366.html) - 01:00 04/04/2026
-- 🎊 [5 dấu hiệu cho thấy triệt lông sai cách](https://vnexpress.net/5-dau-hieu-cho-thay-triet-long-sai-cach-5058364.html) - 01:00 04/04/2026
-- 🏊 [Kết hợp thuốc đích, miễn dịch chữa ung thư gan kháng trị](https://vnexpress.net/ket-hop-thuoc-dich-mien-dich-chua-ung-thu-gan-khang-tri-5058290.html) - 01:00 04/04/2026
-- 📝 [Người giảm cân nên ăn thực phẩm chế biến sẵn thế nào](https://vnexpress.net/nguoi-giam-can-nen-an-thuc-pham-che-bien-san-the-nao-5058283.html) - 01:00 04/04/2026
-- 💯 [Vì sao trẻ tái mắc tay chân miệng nhiều lần?](https://vnexpress.net/vi-sao-tre-tai-mac-tay-chan-mieng-nhieu-lan-5058275.html) - 01:00 04/04/2026
-- 🌊 [Cô gái giảm 15 kg để tìm lại &#39;đặc quyền công chúa&#39;](https://vnexpress.net/co-gai-giam-15-kg-de-tim-lai-dac-quyen-cong-chua-5057503.html) - 23:00 03/04/2026
-- 🚀 [Chi phí điều trị bệnh hiếm cao gấp 5-10 lần bệnh thông thường](https://vnexpress.net/chi-phi-dieu-tri-benh-hiem-cao-gap-5-10-lan-benh-thong-thuong-5050413.html) - 22:00 03/04/2026
-- 🕴 [Ba người ngộ độc sau khi ăn rau lạ](https://vnexpress.net/ba-nguoi-ngo-doc-sau-khi-an-rau-la-5058346.html) - 20:19 03/04/2026
-- 🗽 [Điều gì xảy ra khi ăn dừa thường xuyên?](https://vnexpress.net/dieu-gi-xay-ra-khi-an-dua-thuong-xuyen-5057717.html) - 18:00 03/04/2026
-- 🎡 [Nên ăn bao nhiêu chuối mỗi ngày?](https://vnexpress.net/nen-an-bao-nhieu-chuoi-moi-ngay-5057270.html) - 17:02 03/04/2026
-- ⛽️ [Xác ong kẹt 24 giờ trong mắt người phụ nữ](https://vnexpress.net/xac-ong-ket-24-gio-trong-mat-nguoi-phu-nu-5057608.html) - 13:00 03/04/2026
-- 🦆 [Phục hồi vết thương lớn sau mổ bằng đa công nghệ](https://vnexpress.net/phuc-hoi-vet-thuong-lon-sau-mo-bang-da-cong-nghe-5058330.html) - 13:00 03/04/2026
-- 🤩 [Suýt hỏng thận vì thuốc tan sỏi cấp tốc mua trên mạng](https://vnexpress.net/suyt-hong-than-vi-thuoc-tan-soi-cap-toc-mua-tren-mang-5058077.html) - 12:00 03/04/2026
-- 🦒 [Khám dạ dày bất ngờ phát hiện u thận](https://vnexpress.net/kham-da-day-bat-ngo-phat-hien-u-than-5058265.html) - 12:00 03/04/2026
-- 💫 [Bé 8 tuổi được nối mạch máu não ngăn đột quỵ tái phát](https://vnexpress.net/be-8-tuoi-duoc-noi-mach-mau-nao-ngan-dot-quy-tai-phat-5058248.html) - 11:01 03/04/2026
-- 🐘 [5 thói quen buổi chiều giúp kiểm soát cholesterol](https://vnexpress.net/5-thoi-quen-buoi-chieu-giup-kiem-soat-cholesterol-5058054.html) - 10:00 03/04/2026
-- 🚀 [Mang thai lần 7, sản phụ đẻ rơi con tại nhà](https://vnexpress.net/mang-thai-lan-7-san-phu-de-roi-con-tai-nha-5058192.html) - 08:00 03/04/2026
-- 🕯 [Bệnh nhân Nga đầu tiên được tiêm vaccine ung thư](https://vnexpress.net/benh-nhan-nga-dau-tien-duoc-tiem-vaccine-ung-thu-5058169.html) - 08:00 03/04/2026
-- 🦏 [5 món ăn nhẹ giàu protein giúp no lâu, giảm cân](https://vnexpress.net/5-mon-an-nhe-giau-protein-giup-no-lau-giam-can-5058085.html) - 08:00 03/04/2026
-- 🦄 [Bạn có nguy cơ mắc bệnh glôcôm không?](https://vnexpress.net/ban-co-nguy-co-mac-benh-glocom-khong-5057945.html) - 08:00 03/04/2026
-- 🦒 [Abbott thúc đẩy chăm sóc sức khỏe người Việt bằng công nghệ](https://vnexpress.net/abbott-thuc-day-cham-soc-suc-khoe-nguoi-viet-bang-cong-nghe-5055563.html) - 08:00 03/04/2026
-- 👨‍🏫 [Giới trẻ Trung Quốc chuộng mốt đi bar bắt mạch bốc thuốc](https://vnexpress.net/gioi-tre-trung-quoc-chuong-mot-di-bar-bat-mach-boc-thuoc-5057901.html) - 07:48 03/04/2026
-- 🌜 [Cô gái 24 tuổi ung thư gan](https://vnexpress.net/co-gai-24-tuoi-ung-thu-gan-5057282.html) - 07:07 03/04/2026
-- 🚀 [Bác sĩ tiết lộ nguyên tắc ăn giúp hạ mỡ máu tự nhiên sau 3 tháng](https://vnexpress.net/bac-si-tiet-lo-nguyen-tac-an-giup-ha-mo-mau-tu-nhien-sau-3-thang-5058117.html) - 07:06 03/04/2026
-- 💃 [Những biến chứng thần kinh do tay chân miệng](https://vnexpress.net/nhung-bien-chung-than-kinh-do-tay-chan-mieng-5058042.html) - 07:00 03/04/2026
-- 💯 [Dị ứng phấn hoa và cảm cúm khác nhau thế nào](https://vnexpress.net/di-ung-phan-hoa-va-cam-cum-khac-nhau-the-nao-5058094.html) - 06:00 03/04/2026
-- 🤔 [Mỹ thu hồi hơn 700.000 chảo xào do nguy cơ gây bỏng cho người dùng](https://vnexpress.net/my-thu-hoi-hon-700-000-chao-xao-do-nguy-co-gay-bong-cho-nguoi-dung-5058067.html) - 05:39 03/04/2026
-- 🎬 [7 thực phẩm hỗ trợ xương gãy nhanh lành](https://vnexpress.net/7-thuc-pham-ho-tro-xuong-gay-nhanh-lanh-5058071.html) - 05:00 03/04/2026
-- 🪜 [Ngộ độc sau uống thuốc giảm cân không rõ nguồn gốc](https://vnexpress.net/ngo-doc-sau-uong-thuoc-giam-can-khong-ro-nguon-goc-5057906.html) - 05:00 03/04/2026
-- 🦣 [Tại sao cơ thể cần kali mỗi ngày?](https://vnexpress.net/tai-sao-co-the-can-kali-moi-ngay-5057566.html) - 05:00 03/04/2026
-- 🧐 [Thịt lợn bệnh có an toàn khi nấu chín?](https://vnexpress.net/thit-lon-benh-co-an-toan-khi-nau-chin-5057730.html) - 04:31 03/04/2026
-- 🤡 [Gần ba tháng nuôi sống cặp sinh non 27 tuần](https://vnexpress.net/gan-ba-thang-nuoi-song-cap-sinh-non-27-tuan-5057786.html) - 04:00 03/04/2026
-- 👍 [Thiếu nữ viêm cơ tim cấp biến chứng sốc tim](https://vnexpress.net/thieu-nu-viem-co-tim-cap-bien-chung-soc-tim-5057917.html) - 04:00 03/04/2026
-- 💡 [Biến chứng của hoại tử chỏm xương đùi](https://vnexpress.net/bien-chung-cua-hoai-tu-chom-xuong-dui-5057980.html) - 03:30 03/04/2026
-- 💯 [Người bệnh viêm loét đại tràng nên ăn rau thế nào](https://vnexpress.net/nguoi-benh-viem-loet-dai-trang-nen-an-rau-the-nao-5057622.html) - 03:00 03/04/2026
+- 🔥 [Thực hư quan niệm &#39;nội soi ca đầu ngày là sạch nhất&#39;](https://vnexpress.net/thuc-hu-quan-niem-noi-soi-ca-dau-ngay-la-sach-nhat-5056047.html) - 17:03 04/04/2026
+- 🥰 [Ăn gì để xương chắc khỏe?](https://vnexpress.net/an-gi-de-xuong-chac-khoe-5057734.html) - 17:02 04/04/2026
+- 💡 [Người Nhật sống khỏe nhờ tắm suối khoáng nóng mỗi ngày](https://vnexpress.net/nguoi-nhat-song-khoe-nho-tam-suoi-khoang-nong-moi-ngay-5058125.html) - 13:00 04/04/2026
+- 🤗 [Bệnh thủy đậu có dễ lây không?](https://vnexpress.net/benh-thuy-dau-co-de-lay-khong-5058520.html) - 12:00 04/04/2026
+- 🪜 [Long Châu ra mắt ứng dụng tích điểm thưởng cho gia đình](https://vnexpress.net/long-chau-ra-mat-ung-dung-tich-diem-thuong-cho-gia-dinh-5058573.html) - 10:00 04/04/2026
+- 🕯 [6 lầm tưởng thường gặp về lao phổi](https://vnexpress.net/6-lam-tuong-thuong-gap-ve-lao-phoi-5058471.html) - 10:00 04/04/2026
+- 🤭 [Nguyên tắc ăn &#39;3 ít, 2 nhiều&#39; giúp ổn định huyết áp](https://vnexpress.net/nguyen-tac-an-3-it-2-nhieu-giup-on-dinh-huyet-ap-5058102.html) - 09:19 04/04/2026
+- 👀 [7 dưỡng chất tốt cho xương khớp phái đẹp tuổi 30](https://vnexpress.net/7-duong-chat-tot-cho-xuong-khop-phai-dep-tuoi-30-5058489.html) - 09:00 04/04/2026
+- 🌋 [8 thói quen lành mạnh vào buổi tối giúp ngủ ngon](https://vnexpress.net/8-thoi-quen-lanh-manh-vao-buoi-toi-giup-ngu-ngon-5058271.html) - 08:00 04/04/2026
+- 🫶 [Hơn 500.000 người Việt cần ghép giác mạc](https://vnexpress.net/hon-500-000-nguoi-viet-can-ghep-giac-mac-5058518.html) - 06:30 04/04/2026
+- 🦆 [Bí quyết &#39;trẻ mãi không già&#39; của minh tinh Lâm Thanh Hà](https://vnexpress.net/bi-quyet-tre-mai-khong-gia-cua-minh-tinh-lam-thanh-ha-5058122.html) - 06:00 04/04/2026
+- 🚀 [Dấu hiệu cảnh báo biến chứng não ở trẻ mắc tay chân miệng](https://vnexpress.net/dau-hieu-canh-bao-bien-chung-nao-o-tre-mac-tay-chan-mieng-5058490.html) - 06:00 04/04/2026
+- 🌜 [5 bài tập giúp thư giãn, giảm mỏi mắt](https://vnexpress.net/5-bai-tap-giup-thu-gian-giam-moi-mat-5058452.html) - 06:00 04/04/2026
+- 🧰 [Ai có thể cấy máy tạo nhịp không dây?](https://vnexpress.net/ai-co-the-cay-may-tao-nhip-khong-day-5058411.html) - 05:00 04/04/2026
+- 💫 [Vì sao viêm gan D nguy hiểm?](https://vnexpress.net/vi-sao-viem-gan-d-nguy-hiem-5058292.html) - 04:00 04/04/2026
+- 🌝 [Bệnh Ménière có chữa khỏi không?](https://vnexpress.net/benh-meniere-co-chua-khoi-khong-5058280.html) - 04:00 04/04/2026
+- 🗽 [Nhóm bác sĩ Hàn Quốc cứu sống hành khách nguy kịch trên máy bay](https://vnexpress.net/nhom-bac-si-han-quoc-cuu-song-hanh-khach-nguy-kich-tren-may-bay-5058100.html) - 03:00 04/04/2026
+- 🕯 [Cách giảm đau khớp ở người lớn tuổi](https://vnexpress.net/cach-giam-dau-khop-o-nguoi-lon-tuoi-5058369.html) - 03:00 04/04/2026
+- 🦅 [Bộ ba chăm sóc da mụn Farmona Dermacos từ thiên nhiên](https://vnexpress.net/bo-ba-cham-soc-da-mun-farmona-dermacos-tu-thien-nhien-5058325.html) - 02:00 04/04/2026
+- 🦆 [Sửa mũi lần thứ 5 để giống thần tượng](https://vnexpress.net/sua-mui-lan-thu-5-de-giong-than-tuong-5057865.html) - 01:00 04/04/2026
+- 🎊 [Sai lầm trong bữa sáng làm tăng nguy cơ rối loạn mỡ máu](https://vnexpress.net/sai-lam-trong-bua-sang-lam-tang-nguy-co-roi-loan-mo-mau-5058406.html) - 01:00 04/04/2026
+- 🏊 [4 thói quen tốt cho thận trong mùa hè](https://vnexpress.net/4-thoi-quen-tot-cho-than-trong-mua-he-5058366.html) - 01:00 04/04/2026
+- 📝 [5 dấu hiệu cho thấy triệt lông sai cách](https://vnexpress.net/5-dau-hieu-cho-thay-triet-long-sai-cach-5058364.html) - 01:00 04/04/2026
+- 💯 [Kết hợp thuốc đích, miễn dịch chữa ung thư gan kháng trị](https://vnexpress.net/ket-hop-thuoc-dich-mien-dich-chua-ung-thu-gan-khang-tri-5058290.html) - 01:00 04/04/2026
+- 🌊 [Người giảm cân nên ăn thực phẩm chế biến sẵn thế nào](https://vnexpress.net/nguoi-giam-can-nen-an-thuc-pham-che-bien-san-the-nao-5058283.html) - 01:00 04/04/2026
+- 🚀 [Vì sao trẻ tái mắc tay chân miệng nhiều lần?](https://vnexpress.net/vi-sao-tre-tai-mac-tay-chan-mieng-nhieu-lan-5058275.html) - 01:00 04/04/2026
+- 🕴 [Cô gái giảm 15 kg để tìm lại &#39;đặc quyền công chúa&#39;](https://vnexpress.net/co-gai-giam-15-kg-de-tim-lai-dac-quyen-cong-chua-5057503.html) - 23:00 03/04/2026
+- 🗽 [Chi phí điều trị bệnh hiếm cao gấp 5-10 lần bệnh thông thường](https://vnexpress.net/chi-phi-dieu-tri-benh-hiem-cao-gap-5-10-lan-benh-thong-thuong-5050413.html) - 22:00 03/04/2026
+- 🎡 [Ba người ngộ độc sau khi ăn rau lạ](https://vnexpress.net/ba-nguoi-ngo-doc-sau-khi-an-rau-la-5058346.html) - 20:19 03/04/2026
+- ⛽️ [Điều gì xảy ra khi ăn dừa thường xuyên?](https://vnexpress.net/dieu-gi-xay-ra-khi-an-dua-thuong-xuyen-5057717.html) - 18:00 03/04/2026
+- 🦆 [Nên ăn bao nhiêu chuối mỗi ngày?](https://vnexpress.net/nen-an-bao-nhieu-chuoi-moi-ngay-5057270.html) - 17:02 03/04/2026
+- 🤩 [Xác ong kẹt 24 giờ trong mắt người phụ nữ](https://vnexpress.net/xac-ong-ket-24-gio-trong-mat-nguoi-phu-nu-5057608.html) - 13:00 03/04/2026
+- 🦒 [Phục hồi vết thương lớn sau mổ bằng đa công nghệ](https://vnexpress.net/phuc-hoi-vet-thuong-lon-sau-mo-bang-da-cong-nghe-5058330.html) - 13:00 03/04/2026
+- 💫 [Suýt hỏng thận vì thuốc tan sỏi cấp tốc mua trên mạng](https://vnexpress.net/suyt-hong-than-vi-thuoc-tan-soi-cap-toc-mua-tren-mang-5058077.html) - 12:00 03/04/2026
+- 🐘 [Khám dạ dày bất ngờ phát hiện u thận](https://vnexpress.net/kham-da-day-bat-ngo-phat-hien-u-than-5058265.html) - 12:00 03/04/2026
+- 🚀 [Bé 8 tuổi được nối mạch máu não ngăn đột quỵ tái phát](https://vnexpress.net/be-8-tuoi-duoc-noi-mach-mau-nao-ngan-dot-quy-tai-phat-5058248.html) - 11:01 03/04/2026
+- 🕯 [5 thói quen buổi chiều giúp kiểm soát cholesterol](https://vnexpress.net/5-thoi-quen-buoi-chieu-giup-kiem-soat-cholesterol-5058054.html) - 10:00 03/04/2026
+- 🦏 [Mang thai lần 7, sản phụ đẻ rơi con tại nhà](https://vnexpress.net/mang-thai-lan-7-san-phu-de-roi-con-tai-nha-5058192.html) - 08:00 03/04/2026
+- 🦄 [Bệnh nhân Nga đầu tiên được tiêm vaccine ung thư](https://vnexpress.net/benh-nhan-nga-dau-tien-duoc-tiem-vaccine-ung-thu-5058169.html) - 08:00 03/04/2026
+- 🦒 [5 món ăn nhẹ giàu protein giúp no lâu, giảm cân](https://vnexpress.net/5-mon-an-nhe-giau-protein-giup-no-lau-giam-can-5058085.html) - 08:00 03/04/2026
+- 👨‍🏫 [Bạn có nguy cơ mắc bệnh glôcôm không?](https://vnexpress.net/ban-co-nguy-co-mac-benh-glocom-khong-5057945.html) - 08:00 03/04/2026
+- 🌜 [Abbott thúc đẩy chăm sóc sức khỏe người Việt bằng công nghệ](https://vnexpress.net/abbott-thuc-day-cham-soc-suc-khoe-nguoi-viet-bang-cong-nghe-5055563.html) - 08:00 03/04/2026
+- 🚀 [Giới trẻ Trung Quốc chuộng mốt đi bar bắt mạch bốc thuốc](https://vnexpress.net/gioi-tre-trung-quoc-chuong-mot-di-bar-bat-mach-boc-thuoc-5057901.html) - 07:48 03/04/2026
+- 💃 [Cô gái 24 tuổi ung thư gan](https://vnexpress.net/co-gai-24-tuoi-ung-thu-gan-5057282.html) - 07:07 03/04/2026
+- 💯 [Bác sĩ tiết lộ nguyên tắc ăn giúp hạ mỡ máu tự nhiên sau 3 tháng](https://vnexpress.net/bac-si-tiet-lo-nguyen-tac-an-giup-ha-mo-mau-tu-nhien-sau-3-thang-5058117.html) - 07:06 03/04/2026
+- 🤔 [Những biến chứng thần kinh do tay chân miệng](https://vnexpress.net/nhung-bien-chung-than-kinh-do-tay-chan-mieng-5058042.html) - 07:00 03/04/2026
+- 🎬 [Dị ứng phấn hoa và cảm cúm khác nhau thế nào](https://vnexpress.net/di-ung-phan-hoa-va-cam-cum-khac-nhau-the-nao-5058094.html) - 06:00 03/04/2026
+- 🪜 [Mỹ thu hồi hơn 700.000 chảo xào do nguy cơ gây bỏng cho người dùng](https://vnexpress.net/my-thu-hoi-hon-700-000-chao-xao-do-nguy-co-gay-bong-cho-nguoi-dung-5058067.html) - 05:39 03/04/2026
+- 🦣 [7 thực phẩm hỗ trợ xương gãy nhanh lành](https://vnexpress.net/7-thuc-pham-ho-tro-xuong-gay-nhanh-lanh-5058071.html) - 05:00 03/04/2026
+- 🧐 [Ngộ độc sau uống thuốc giảm cân không rõ nguồn gốc](https://vnexpress.net/ngo-doc-sau-uong-thuoc-giam-can-khong-ro-nguon-goc-5057906.html) - 05:00 03/04/2026
+- 🤡 [Tại sao cơ thể cần kali mỗi ngày?](https://vnexpress.net/tai-sao-co-the-can-kali-moi-ngay-5057566.html) - 05:00 03/04/2026
+- 👍 [Thịt lợn bệnh có an toàn khi nấu chín?](https://vnexpress.net/thit-lon-benh-co-an-toan-khi-nau-chin-5057730.html) - 04:31 03/04/2026
+- 💡 [Gần ba tháng nuôi sống cặp sinh non 27 tuần](https://vnexpress.net/gan-ba-thang-nuoi-song-cap-sinh-non-27-tuan-5057786.html) - 04:00 03/04/2026
+- 💯 [Thiếu nữ viêm cơ tim cấp biến chứng sốc tim](https://vnexpress.net/thieu-nu-viem-co-tim-cap-bien-chung-soc-tim-5057917.html) - 04:00 03/04/2026
 - 🧠 [Bác sĩ TP HCM sẽ mang túi y tế thông minh đến tận nhà khám bệnh](https://vnexpress.net/bac-si-tp-hcm-se-mang-tui-y-te-thong-minh-den-tan-nha-kham-benh-5057710.html) - 02:38 03/04/2026
 - 🎡 [Nữ diễn viên Thái Lan có hai tử cung, một quả thận](https://vnexpress.net/nu-dien-vien-thai-lan-co-hai-tu-cung-mot-qua-than-5057851.html) - 00:08 03/04/2026
 - 🌏 [Sự sống mong manh sau &#39;cửa&#39; ghép tế bào gốc](https://vnexpress.net/su-song-mong-manh-sau-cua-ghep-te-bao-goc-5054677.html) - 00:00 03/04/2026
