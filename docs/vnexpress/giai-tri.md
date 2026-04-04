@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hai tranh chưa từng xuất hiện 100 năm qua của Claude Monet](https://vnexpress.net/hai-tranh-chua-tung-xuat-hien-100-nam-qua-cua-claude-monet-5058439.html) - 19:00 04/04/2026
+- 🌏 [Hai bức tranh chưa từng xuất hiện 100 năm qua của Claude Monet](https://vnexpress.net/hai-buc-tranh-chua-tung-xuat-hien-100-nam-qua-cua-claude-monet-5058439.html) - 19:00 04/04/2026
 - 💫 [Nhạc phim &#39;Hẹn em ngày nhật thực&#39; lấy nước mắt khán giả](https://vnexpress.net/nhac-phim-hen-em-ngay-nhat-thuc-lay-nuoc-mat-khan-gia-5057714.html) - 17:00 04/04/2026
 - 🌮 [LyLy: Tôi đắt show nhờ đóng &#39;Thỏ ơi&#39;](https://vnexpress.net/lyly-toi-dat-show-nho-dong-tho-oi-5057238.html) - 15:00 04/04/2026
 - 🧠 [Thời trang sánh đôi của Ý Nhi và bạn trai](https://vnexpress.net/thoi-trang-sanh-doi-cua-y-nhi-va-ban-trai-5057609.html) - 13:30 04/04/2026
