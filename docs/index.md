@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Du khách Hàn trả ơn cô gái Việt sau hai năm gặp nạn ở Đà Nẵng](https://vnexpress.net/du-khach-han-tra-on-co-gai-viet-sau-hai-nam-gap-nan-o-da-nang-5057334.html) - 15:35 05/04/2026
-- 🧰 [Người phụ nữ Trung Quốc bị nạn khi leo núi Dinh](https://vnexpress.net/nguoi-phu-nu-trung-quoc-bi-nan-khi-leo-nui-dinh-5058836.html) - 15:03 05/04/2026
+- 🧰 [Cảnh sát giải cứu người phụ nữ Trung Quốc gặp nạn khi leo núi Dinh](https://vnexpress.net/canh-sat-giai-cuu-nguoi-phu-nu-trung-quoc-gap-nan-khi-leo-nui-dinh-5058836.html) - 15:03 05/04/2026
 - 🥰 [HLV Popov gọi trọng tài là ‘sát thủ chuyên nghiệp’](https://vnexpress.net/hlv-popov-goi-trong-tai-la-sat-thu-chuyen-nghiep-5058838.html) - 14:50 05/04/2026
 - 🌏 [Hiện trường ba máy bay Mỹ bốc cháy tại Iran](https://vnexpress.net/hien-truong-ba-may-bay-my-boc-chay-tai-iran-5058819.html) - 14:37 05/04/2026
 - 🧐 [Ông Trump: Mỹ đã thực hiện chiến dịch hiếm có để giải cứu phi công](https://vnexpress.net/ong-trump-my-da-thuc-hien-chien-dich-hiem-co-de-giai-cuu-phi-cong-5058817.html) - 14:05 05/04/2026
