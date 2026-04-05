@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hình ảnh Mỹ hủy vận tải cơ 66 triệu USD khi giải cứu phi công](https://vnexpress.net/hinh-anh-my-huy-van-tai-co-66-trieu-usd-khi-giai-cuu-phi-cong-5058741.html) - 07:38 05/04/2026
-- 🕴 [Mỹ giải cứu thành công phi công trên tiêm kích F-15 bị bắn hạ](https://vnexpress.net/my-giai-cuu-thanh-cong-phi-cong-tren-tiem-kich-f-15-bi-ban-ha-5058722.html) - 04:00 05/04/2026
+- 🎭 [Hình ảnh vận tải cơ Mỹ bốc cháy trong cuộc giải cứu phi công](https://vnexpress.net/hinh-anh-van-tai-co-my-boc-chay-trong-cuoc-giai-cuu-phi-cong-5058741.html) - 07:38 05/04/2026
+- 🕴 [Mỹ &#39;giải cứu thành công&#39; phi công trên tiêm kích F-15 bị bắn hạ](https://vnexpress.net/my-giai-cuu-thanh-cong-phi-cong-tren-tiem-kich-f-15-bi-ban-ha-5058722.html) - 04:00 05/04/2026
 - 🤭 [Mỹ tuyên bố bắt người thân của tướng Iran](https://vnexpress.net/my-tuyen-bo-bat-nguoi-than-cua-tuong-iran-5058691.html) - 02:40 05/04/2026
 - 🧑‍💻 [Iran dọa &#39;mở cổng địa ngục&#39; với Mỹ, Israel](https://vnexpress.net/iran-doa-mo-cong-dia-nguc-voi-my-israel-5058666.html) - 00:34 05/04/2026
 - 🦏 [Lý do Iran tin vào khả năng thắng Mỹ](https://vnexpress.net/ly-do-iran-tin-vao-kha-nang-thang-my-5058424.html) - 00:15 05/04/2026
