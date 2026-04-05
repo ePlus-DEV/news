@@ -526,9 +526,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Nam sinh Sơn La thắng áp đảo tại Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-son-la-thang-ap-dao-tai-duong-len-dinh-olympia-101260405142252793.htm) - 07:59 05/04/2026
 - 🥷 [Xem futsal Việt Nam đấu Myanmar trên kênh nào?](https://muctim.tuoitre.vn/xem-futsal-viet-nam-dau-myanmar-tren-kenh-nao-10126040512263409.htm) - 07:25 05/04/2026
-- 🤖 [Trực tiếp V-League 1: Đông Á Thanh Hóa 2-0 Công An TP.HCM &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-v-league-1-dong-a-thanh-hoa-tiep-cong-an-tphcm-101260405095809251.htm) - 06:05 05/04/2026
+- 🤖 [Trực tiếp V-League 1: Đông Á Thanh Hóa 2-0 Công An TP.HCM &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-v-league-1-dong-a-thanh-hoa-tiep-cong-an-tphcm-101260405095809251.htm) - 06:05 05/04/2026
 - 🤓 [Cập nhật kết quả V-League 1: Hà Tĩnh - Nam Định, Nghệ An - Thể Công Viettel](https://muctim.tuoitre.vn/hai-cap-dau-v-league-1-cung-dien-ra-18h-hom-nay-5-4-ha-tinh-nam-dinh-nghe-an-the-cong-viettel-101260405102703022.htm) - 06:04 05/04/2026
-- 🎉 [Trực tiếp V-League 1: Hoàng Anh Gia Lai mở tỉ số trước Ninh Bình &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/vong-17-v-league-1-hoang-anh-gia-lai-gap-ninh-binh-luc-17h-ngay-5-4-101260405092951422.htm) - 05:15 05/04/2026
+- 🎉 [Ninh Bình lội ngược dòng, thắng Hoàng Anh Gia Lai 2-1](https://muctim.tuoitre.vn/vong-17-v-league-1-hoang-anh-gia-lai-gap-ninh-binh-luc-17h-ngay-5-4-101260405092951422.htm) - 05:15 05/04/2026
 - 👨‍🏫 [Dự báo thời tiết từ 5-4 đến 11-4: Cả nước nắng nóng khó chịu, nhiệt độ rất cao](https://muctim.tuoitre.vn/du-bao-thoi-tiet-tu-5-4-den-11-4-ca-nuoc-nang-nong-kho-chiu-nhiet-do-rat-cao-101260405120715382.htm) - 05:07 05/04/2026
 - 🚦 [Trường đại học Tiền Giang năm đầu tuyển sinh ngành bác sĩ thú y](https://muctim.tuoitre.vn/truong-dai-hoc-tien-giang-nam-dau-tuyen-sinh-nganh-bac-si-thu-y-101260403154520866.htm) - 05:02 05/04/2026
 - 🤭 [Ngày hội Tự tin vào lớp 10 tại Trường THPT chuyên Lê Quý Đôn: gỡ rối nhiều thắc mắc cho học sinh](https://muctim.tuoitre.vn/13h-hom-nay-5-4-ngay-hoi-tu-tin-vao-lop-10-dien-ra-tai-truong-thpt-chuyen-le-quy-don-101260405083642558.htm) - 04:44 05/04/2026
