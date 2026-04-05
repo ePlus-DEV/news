@@ -531,7 +531,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Khi nào có điểm thi đánh giá năng lực Đại học Quốc gia TP.HCM đợt 1 năm 2026?](https://muctim.tuoitre.vn/khi-nao-co-diem-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-tphcm-dot-1-nam-2026-101260405001036215.htm) - 04:41 05/04/2026
 - 🐎 [Bài tham dự Hội thi Sáng tác văn học: Những nốt nhạc bên ngoài trái đất](https://muctim.tuoitre.vn/bai-tham-du-hoi-thi-sang-tac-van-hoc-nhung-not-nhac-ben-ngoai-trai-dat-101260401100841524.htm) - 02:00 05/04/2026
 - 🎓 [Khám phá các gian tư vấn Ngày hội Tự tin vào lớp 10 tại Trường THPT chuyên Lê Quý Đôn](https://muctim.tuoitre.vn/kham-pha-cac-gian-tu-van-ngay-hoi-tu-tin-vao-lop-10-tai-truong-thpt-chuyen-le-quy-don-10126040422093863.htm) - 01:46 05/04/2026
-- 🐎 [Son Heung Min rực sáng, LAFC đại thắng 6-0 tại MLS](https://muctim.tuoitre.vn/truc-tiep-mls-2026-lafc-orlando-city-101260405081743038.htm) - 01:18 05/04/2026
+- 🐎 [Son Heung Min rực sáng, LA FC đại thắng 6-0 tại MLS](https://muctim.tuoitre.vn/truc-tiep-mls-2026-lafc-orlando-city-101260405081743038.htm) - 01:18 05/04/2026
 - 💃 [Đội hình ra sân Inter Miami đấu Austin: Messi đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-inter-miami-dau-austin-messi-da-chinh-101260405062025569.htm) - 23:32 04/04/2026
 - 🪜 [Thắng Atletico, Barcelona hơn Real Madrid 7 điểm tại La Liga](https://muctim.tuoitre.vn/thang-atletico-barcelona-hon-real-madrid-7-diem-tai-la-liga-101260405053104513.htm) - 23:02 04/04/2026
 - 🎉 [Arsenal bị Southampton loại khỏi FA Cup](https://muctim.tuoitre.vn/arsenal-bi-southampton-loai-khoi-fa-cup-101260405051408202.htm) - 23:01 04/04/2026
