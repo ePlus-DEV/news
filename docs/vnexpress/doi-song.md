@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Ô nhiễm kỷ lục bủa vây miền bắc Thái Lan](https://vnexpress.net/o-nhiem-ky-luc-bua-vay-mien-bac-thai-lan-5058736.html) - 09:03 06/04/2026
+- 🚀 [Ô nhiễm không khí kỷ lục ở miền bắc Thái Lan](https://vnexpress.net/o-nhiem-khong-khi-ky-luc-o-mien-bac-thai-lan-5058736.html) - 09:03 06/04/2026
 - 🎓 [Gánh nặng nợ nần của gia đình Ấn Độ có con gái đi lấy chồng](https://vnexpress.net/ganh-nang-no-nan-cua-gia-dinh-an-do-co-con-gai-di-lay-chong-5058581.html) - 04:24 06/04/2026
 - 🚦 [Vì sao nhiều người mắc kẹt trong mối quan hệ mập mờ?](https://vnexpress.net/vi-sao-nhieu-nguoi-mac-ket-trong-moi-quan-he-map-mo-5058643.html) - 01:59 06/04/2026
 - 🦣 [Làn sóng chuyển sang xe máy điện ở Hà Nội](https://vnexpress.net/lan-song-chuyen-sang-xe-may-dien-o-ha-noi-5057765.html) - 23:29 05/04/2026
