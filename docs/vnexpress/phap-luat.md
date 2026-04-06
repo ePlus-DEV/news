@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Giám đốc công an Hà Nội yêu cầu làm rõ trách nhiệm của bếp ăn trường học nhập lợn bệnh](https://vnexpress.net/giam-doc-cong-an-ha-noi-yeu-cau-lam-ro-trach-nhiem-cua-bep-an-truong-hoc-nhap-lon-benh-5059274.html) - 15:02 06/04/2026
+- 😎 [Điều tra trách nhiệm 26 bếp ăn trường học nhập lợn bệnh từ Công ty Cường Phát](https://vnexpress.net/dieu-tra-trach-nhiem-26-bep-an-truong-hoc-nhap-lon-benh-tu-cong-ty-cuong-phat-5059274.html) - 15:02 06/04/2026
 - 🥰 [Trùm ma túy đứng sau đường dây liên quan 4 tiếp viên hàng không](https://vnexpress.net/trum-ma-tuy-dung-sau-duong-day-lien-quan-4-tiep-vien-hang-khong-5059153.html) - 12:38 06/04/2026
-- 🎓 [Công an: Bảo Tín Minh Châu tiếp tục giao vàng theo giấy hẹn](https://vnexpress.net/cong-an-bao-tin-minh-chau-tiep-tuc-giao-vang-theo-giay-hen-5059220.html) - 11:45 06/04/2026
+- 🎓 [Công an: Sẽ mở rộng điều tra vụ án tại Bảo Tín Minh Châu](https://vnexpress.net/tiep-tuc-dieu-tra-nguon-goc-vang-cua-bao-tin-minh-chau-5059220.html) - 11:45 06/04/2026
 - 🤓 [Điều hành đường dây ma túy dưới vỏ bọc bệnh nhân tâm thần](https://vnexpress.net/dieu-hanh-duong-day-ma-tuy-duoi-vo-boc-benh-nhan-tam-than-5059238.html) - 11:16 06/04/2026
 - 🎊 [Bốn cựu lãnh đạo Viện Pháp y tâm thần Trung ương bị bắt](https://vnexpress.net/bon-cuu-lanh-dao-vien-phap-y-tam-than-trung-uong-bi-bat-5059019.html) - 11:03 06/04/2026
 - 🙉 [Thanh niên ngoại quốc bị truy tìm vì liên quan án mạng tại TP HCM](https://vnexpress.net/thanh-nien-ngoai-quoc-bi-truy-tim-vi-lien-quan-an-mang-tai-tp-hcm-5059203.html) - 10:05 06/04/2026
