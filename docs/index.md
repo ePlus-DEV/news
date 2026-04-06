@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Ông Donald Trump tổ chức họp báo về chiến sự với Iran](https://nld.com.vn/ong-donald-trump-to-chuc-hop-bao-ve-chien-su-voi-iran-19626040622073667.htm) - 17:11 06/04/2026
+- 🐎 [Ông Donald Trump họp báo, nói về chiến dịch giải cứu &quot;lịch sử&quot;](https://nld.com.vn/ong-donald-trump-to-chuc-hop-bao-ve-chien-su-voi-iran-19626040622073667.htm) - 17:11 06/04/2026
 - 😺 [Báo in ngày 7-4: Cách đóng BHXH cho lao động bán thời gian](https://nld.com.vn/bao-in-ngay-7-4-cach-dong-bhxh-cho-lao-dong-ban-thoi-gian-196260406222201061.htm) - 15:47 06/04/2026
 - 👍 [Đại sứ và Tổng Lãnh sự Pháp thăm nạn nhân chất độc da cam/dioxin tại TPHCM](https://nld.com.vn/dai-su-va-tong-lanh-su-phap-tham-nan-nhan-chat-doc-da-cam-dioxin-tai-tphcm-196260406215409913.htm) - 15:18 06/04/2026
 - 🥷 [Iran nghi ngờ Mỹ dàn dựng vụ cứu phi công để &quot;trộm uranium làm giàu&quot;](https://nld.com.vn/iran-nghi-ngo-my-dan-dung-vu-cuu-phi-cong-de-trom-uranium-lam-giau-196260406204759094.htm) - 14:31 06/04/2026
