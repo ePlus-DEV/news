@@ -517,7 +517,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Nghe học sinh Trường THPT chuyên Lê Quý Đôn chia sẻ về môi trường học tập](https://muctim.tuoitre.vn/nghe-hoc-sinh-truong-thpt-chuyen-le-quy-don-chia-se-ve-moi-truong-hoc-tap-101260406134548492.htm) - 08:50 06/04/2026
-- 🥷 [Trực tiếp Giải vô địch futsal Đông Nam Á 2026: Việt Nam - Myanmar](https://muctim.tuoitre.vn/truc-tiep-giai-vo-dich-futsal-dong-nam-a-2026-viet-nam-myanmar-101260406133204608.htm) - 08:33 06/04/2026
+- 🥷 [Trực tiếp Giải vô địch futsal Đông Nam Á 2026: Việt Nam 1-0 Myanmar](https://muctim.tuoitre.vn/truc-tiep-giai-vo-dich-futsal-dong-nam-a-2026-viet-nam-myanmar-101260406133204608.htm) - 08:33 06/04/2026
 - 🤖 [T.O.P thống trị các bảng xếp hạng toàn cầu với album solo đầu tay](https://muctim.tuoitre.vn/top-thong-tri-cac-bang-xep-hang-toan-cau-voi-album-solo-dau-tay-101260406134942305.htm) - 08:00 06/04/2026
 - 🤓 [Trải nghiệm không gian khoa học đầy màu sắc tại Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/trai-nghiem-khong-gian-khoa-hoc-day-mau-sac-tai-ngay-hoi-tu-tin-vao-lop-10-101260406113351977.htm) - 05:58 06/04/2026
 - 🎉 [Đón đọc Khăn Quàng Đỏ 14, phát hành 8-4: Giải đáp nóng về tuyển sinh lớp 10](https://muctim.tuoitre.vn/don-doc-khan-quang-do-14-phat-hanh-8-4-giai-dap-nong-ve-tuyen-sinh-lop-10-10126040309134242.htm) - 05:44 06/04/2026
