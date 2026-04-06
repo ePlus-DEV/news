@@ -90,7 +90,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- dantri:START -->
 - 🐻 [Bộ Nông nghiệp và Môi trường kết nối 12 cơ sở dữ liệu với hệ thống quốc gia](https://dantri.com.vn/thoi-su/bo-nong-nghiep-va-moi-truong-ket-noi-12-co-so-du-lieu-voi-he-thong-quoc-gia-20260406210547439.htm) - 14:54 06/04/2026
 - 🧠 [Đề xuất cấm trường tư xếp hạng, so sánh học lực trẻ nhỏ](https://dantri.com.vn/giao-duc/de-xuat-cam-truong-tu-xep-hang-so-sanh-hoc-luc-tre-nho-20260406113906903.htm) - 14:42 06/04/2026
-- 🤔 [Tham ô công quỹ, cựu ban quản trị chung cư Miếu Nổi lĩnh án](https://dantri.com.vn/phap-luat/tham-o-cong-quy-cuu-ban-quan-tri-chung-cu-mieu-noi-linh-an-20260406194550791.htm) - 14:28 06/04/2026
+- 🤔 [Tham ô công quỹ, cựu Ban quản trị chung cư Miếu Nổi lĩnh án](https://dantri.com.vn/phap-luat/tham-o-cong-quy-cuu-ban-quan-tri-chung-cu-mieu-noi-linh-an-20260406194550791.htm) - 14:28 06/04/2026
 - 📝 [Lãnh đạo nghị viện các nước chúc mừng Chủ tịch Quốc hội Trần Thanh Mẫn](https://dantri.com.vn/thoi-su/lanh-dao-nghi-vien-cac-nuoc-chuc-mung-chu-tich-quoc-hoi-tran-thanh-man-20260406210847607.htm) - 14:24 06/04/2026
 - 🤖 [Doanh nghiệp bảo hiểm phải có vốn tối thiểu 400 tỷ đồng](https://dantri.com.vn/kinh-doanh/doanh-nghiep-bao-hiem-phai-co-von-toi-thieu-400-ty-dong-20260406210513175.htm) - 14:15 06/04/2026
 - 🥰 [Alcaraz giữ sự điềm tĩnh trước áp lực soán ngôi của Sinner](https://dantri.com.vn/the-thao/alcaraz-giu-su-diem-tinh-truoc-ap-luc-soan-ngoi-cua-sinner-20260406210938157.htm) - 14:10 06/04/2026
