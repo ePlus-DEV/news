@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiện trường xe khách 28 chỗ rơi xuống vực khiến 4 người chết](https://vnexpress.net/hien-truong-xe-khach-28-cho-roi-xuong-vuc-khien-4-nguoi-chet-5059212.html) - 12:55 06/04/2026
+- 🦒 [Hiện trường xe khách chở 16 thợ lặn lao xuống vực](https://vnexpress.net/hien-truong-xe-khach-cho-16-tho-lan-lao-xuong-vuc-5059212.html) - 12:55 06/04/2026
 - 🤓 [Chất lượng không khí Hà Nội ở mức xấu](https://vnexpress.net/chat-luong-khong-khi-ha-noi-o-muc-xau-5059253.html) - 12:38 06/04/2026
 - ⚗️ [Lãnh đạo Quốc hội và các Ủy ban nhiệm kỳ 2026-2031](https://vnexpress.net/lanh-dao-quoc-hoi-va-cac-uy-ban-nhiem-ky-2026-2031-5049612.html) - 11:52 06/04/2026
 - 🌊 [Bí thư Hưng Yên làm Tổng kiểm toán Nhà nước](https://vnexpress.net/bi-thu-hung-yen-lam-tong-kiem-toan-nha-nuoc-5059236.html) - 11:11 06/04/2026
