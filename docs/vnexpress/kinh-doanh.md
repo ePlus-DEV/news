@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Công ty chủ quản cáp treo Fansipan Sa Pa lãi gần 29 tỷ đồng](https://vnexpress.net/cong-ty-chu-quan-cap-treo-fansipan-sa-pa-lai-gan-29-ty-dong-5059750.html) - 17:01 07/04/2026
-- 🐲 [Khảo sát tình hình kinh doanh 6 tháng đầu năm 2026](https://vnexpress.net/khao-sat-tinh-hinh-kinh-doanh-6-thang-dau-nam-2026-5059318.html) - 17:00 07/04/2026
-- 🔥 [Đề xuất mở rộng diện ngân hàng được nhận tiền gửi Quỹ Bảo hiểm xã hội](https://vnexpress.net/de-xuat-mo-rong-dien-ngan-hang-duoc-nhan-tien-gui-quy-bao-hiem-xa-hoi-5059666.html) - 15:02 07/04/2026
+- ⛽️ [Đề xuất mở rộng diện ngân hàng được nhận tiền gửi Quỹ Bảo hiểm xã hội](https://vnexpress.net/de-xuat-mo-rong-dien-ngan-hang-duoc-nhan-tien-gui-quy-bao-hiem-xa-hoi-5059666.html) - 17:02 07/04/2026
+- 🐲 [Công ty chủ quản cáp treo Fansipan Sa Pa lãi gần 29 tỷ đồng](https://vnexpress.net/cong-ty-chu-quan-cap-treo-fansipan-sa-pa-lai-gan-29-ty-dong-5059750.html) - 17:01 07/04/2026
+- 🔥 [Khảo sát tình hình kinh doanh 6 tháng đầu năm 2026](https://vnexpress.net/khao-sat-tinh-hinh-kinh-doanh-6-thang-dau-nam-2026-5059318.html) - 17:00 07/04/2026
 - 🐵 [Xe máy điện đắt hàng ở Pakistan vì giá xăng tăng](https://vnexpress.net/xe-may-dien-dat-hang-o-pakistan-vi-gia-xang-tang-5059599.html) - 09:44 07/04/2026
 - 🦅 [Nhân viên thu hồi nợ không được phun sơn, bôi nhọ khách vay](https://vnexpress.net/nhan-vien-thu-hoi-no-khong-duoc-phun-son-boi-nho-khach-vay-5059611.html) - 09:38 07/04/2026
 - 😺 [Chủ đầu tư &#39;siêu dự án&#39; tại khu tứ giác Bến Thành lãi nghìn tỷ](https://vnexpress.net/chu-dau-tu-sieu-du-an-tai-khu-tu-giac-ben-thanh-lai-nghin-ty-5059572.html) - 09:27 07/04/2026
