@@ -412,13 +412,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chính thức xác nhận lộ trình nâng hạng thị trường chứng khoán Việt Nam](https://baochinhphu.vn/chinh-thuc-xac-nhan-lo-trinh-nang-hang-thi-truong-chung-khoan-viet-nam-102260407214555354.htm) - 03:06 08/04/2026
-- 🌜 [Liên minh Du lịch – Y tế Việt Nam, mở hướng liên kết, đóng góp tăng trưởng](https://baochinhphu.vn/lien-minh-du-lich-y-te-viet-nam-mo-huong-lien-ket-dong-gop-tang-truong-102260408000456809.htm) - 23:00 07/04/2026
-- 🦆 [Bộ Công an yêu cầu hai bị can vụ Ngân hàng Đông Á ra đầu thú](https://baochinhphu.vn/bo-cong-an-yeu-cau-hai-bi-can-vu-ngan-hang-dong-a-ra-dau-thu-102260407202211734.htm) - 20:47 07/04/2026
-- 🌝 [Lãnh đạo các nước gửi điện, thư và thông điệp chúc mừng các đồng chí lãnh đạo chủ chốt của Việt Nam](https://baochinhphu.vn/lanh-dao-cac-nuoc-gui-dien-thu-va-thong-diep-chuc-mung-cac-dong-chi-lanh-dao-chu-chot-cua-viet-nam-102260407203449315.htm) - 20:42 07/04/2026
-- 🦣 [Đề xuất cơ chế đặc biệt phát triển kinh tế nhà nước theo hướng đột phá, hiệu quả](https://baochinhphu.vn/de-xuat-co-che-dac-biet-phat-trien-kinh-te-nha-nuoc-theo-huong-dot-pha-hieu-qua-102260407210611684.htm) - 20:17 07/04/2026
-- ⛽️ [Chủ tịch Quốc hội trao Nghị quyết của Quốc hội bầu Tổng Kiểm toán Nhà nước](https://baochinhphu.vn/chu-tich-quoc-hoi-trao-nghi-quyet-cua-quoc-hoi-bau-tong-kiem-toan-nha-nuoc-102260407203218956.htm) - 20:00 07/04/2026
-- 🎓 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt cán bộ Văn phòng Chủ tịch nước](https://baochinhphu.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-can-bo-van-phong-chu-tich-nuoc-102260407191804845.htm) - 19:23 07/04/2026
+- 💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt cán bộ Văn phòng Chủ tịch nước](https://baochinhphu.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-can-bo-van-phong-chu-tich-nuoc-102260407191804845.htm) - 03:27 08/04/2026
+- 🌜 [Chính thức xác nhận lộ trình nâng hạng thị trường chứng khoán Việt Nam](https://baochinhphu.vn/chinh-thuc-xac-nhan-lo-trinh-nang-hang-thi-truong-chung-khoan-viet-nam-102260407214555354.htm) - 03:06 08/04/2026
+- 🦆 [Liên minh Du lịch – Y tế Việt Nam, mở hướng liên kết, đóng góp tăng trưởng](https://baochinhphu.vn/lien-minh-du-lich-y-te-viet-nam-mo-huong-lien-ket-dong-gop-tang-truong-102260408000456809.htm) - 23:00 07/04/2026
+- 🌝 [Bộ Công an yêu cầu hai bị can vụ Ngân hàng Đông Á ra đầu thú](https://baochinhphu.vn/bo-cong-an-yeu-cau-hai-bi-can-vu-ngan-hang-dong-a-ra-dau-thu-102260407202211734.htm) - 20:47 07/04/2026
+- 🦣 [Lãnh đạo các nước gửi điện, thư và thông điệp chúc mừng các đồng chí lãnh đạo chủ chốt của Việt Nam](https://baochinhphu.vn/lanh-dao-cac-nuoc-gui-dien-thu-va-thong-diep-chuc-mung-cac-dong-chi-lanh-dao-chu-chot-cua-viet-nam-102260407203449315.htm) - 20:42 07/04/2026
+- ⛽️ [Đề xuất cơ chế đặc biệt phát triển kinh tế nhà nước theo hướng đột phá, hiệu quả](https://baochinhphu.vn/de-xuat-co-che-dac-biet-phat-trien-kinh-te-nha-nuoc-theo-huong-dot-pha-hieu-qua-102260407210611684.htm) - 20:17 07/04/2026
+- 🎓 [Chủ tịch Quốc hội trao Nghị quyết của Quốc hội bầu Tổng Kiểm toán Nhà nước](https://baochinhphu.vn/chu-tich-quoc-hoi-trao-nghi-quyet-cua-quoc-hoi-bau-tong-kiem-toan-nha-nuoc-102260407203218956.htm) - 20:00 07/04/2026
 - 💡 [Thông cáo báo chí ngày làm việc thứ hai Kỳ họp thứ Nhất, Quốc hội khóa XVI](https://baochinhphu.vn/thong-cao-bao-chi-ngay-lam-viec-thu-hai-ky-hop-thu-nhat-quoc-hoi-khoa-xvi-102260407190352446.htm) - 19:20 07/04/2026
 - 🌊 [Toàn văn phát biểu nhậm chức của Thủ tướng Chính phủ Lê Minh Hưng](https://baochinhphu.vn/toan-van-phat-bieu-nham-chuc-cua-thu-tuong-chinh-phu-le-minh-hung-102260407161735938.htm) - 18:59 07/04/2026
 - 💯 [Hải quan phát hiện hơn 4,8 nghìn vụ buôn lậu, gian lận trị giá 4.766 tỷ đồng](https://baochinhphu.vn/hai-quan-phat-hien-hon-48-nghin-vu-buon-lau-gian-lan-tri-gia-4766-ty-dong-102260407184312125.htm) - 18:40 07/04/2026
