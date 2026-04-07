@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Cách kết nối và sử dụng Canva, Photoshop, Spotify... trên ChatGPT](https://muctim.tuoitre.vn/cach-ket-noi-va-su-dung-canva-photoshop-spotify-tren-chatgpt-101260407141401659.htm) - 10:58 07/04/2026
 - 🤖 [Ông Lê Minh Hưng được bầu giữ chức Thủ tướng Chính phủ](https://muctim.tuoitre.vn/ong-le-minh-hung-duoc-bau-giu-chuc-thu-tuong-chinh-phu-101260407155511022.htm) - 09:22 07/04/2026
 - 🤓 [Tổng Bí thư Tô Lâm được bầu giữ chức Chủ tịch nước](https://muctim.tuoitre.vn/tong-bi-thu-to-lam-duoc-bau-giu-chuc-chu-tich-nuoc-101260407154528766.htm) - 08:48 07/04/2026
-- 🎉 [Trực tiếp Giải futsal Đông Nam Á 2026: Việt Nam 5-0 Timor Leste &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-giai-futsal-dong-nam-a-2026-viet-nam-timor-leste-101260407011416319.htm) - 08:20 07/04/2026
+- 🎉 [Giải futsal Đông Nam Á 2026: Việt Nam 7-1 Timor Leste](https://muctim.tuoitre.vn/truc-tiep-giai-futsal-dong-nam-a-2026-viet-nam-timor-leste-101260407011416319.htm) - 08:20 07/04/2026
 - 👨‍🏫 [Từng ‘lỡ hẹn’, nam sinh Tây Ninh trở thành thủ khoa môn lịch sử khối 11 Kỳ thi Olympic truyền thống 30-4](https://muctim.tuoitre.vn/tung-lo-hen-nam-sinh-tay-ninh-tro-thanh-thu-khoa-mon-lich-su-khoi-11-ky-thi-olympic-truyen-thong-30-4-101260407114324922.htm) - 06:41 07/04/2026
 - 🚦 [Hyeri trở lại TP.HCM tổ chức fan meeting](https://muctim.tuoitre.vn/hyeri-tro-lai-tphcm-to-chuc-fan-meeting-101260407123707966.htm) - 06:36 07/04/2026
 - 🤭 [Trường THPT Hùng Vương có thêm định hướng học tập kết hợp nghệ thuật](https://muctim.tuoitre.vn/truong-thpt-hung-vuong-co-them-dinh-huong-hoc-tap-ket-hop-nghe-thuat-101260407111058133.htm) - 06:34 07/04/2026
