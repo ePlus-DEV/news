@@ -10,7 +10,7 @@ sidebar_position: 11
 - 🕴 [Sun World Ha Nam ưu đãi giá vé hè từ 150.000 đồng](https://vnexpress.net/sun-world-ha-nam-uu-dai-gia-ve-he-tu-150-000-dong-5059337.html) - 02:00 07/04/2026
 - 👀 [Lễ hội ngắn nhất Nhật Bản diễn ra khoảng 20 giây](https://vnexpress.net/le-hoi-ngan-nhat-nhat-ban-dien-ra-khoang-20-giay-5059273.html) - 01:30 07/04/2026
 - 🎭 [Khách Nga đến Việt Nam trong quý I nhiều nhất lịch sử](https://vnexpress.net/khach-nga-den-viet-nam-trong-quy-i-nhieu-nhat-lich-su-5059000.html) - 01:00 07/04/2026
-- 🦒 [Ngôi nhà cổ 320 tuổi được 13 thế hệ giữ gìn](https://vnexpress.net/ngoi-nha-co-320-tuoi-duoc-13-the-he-giu-gin-5058667.html) - 00:00 07/04/2026
+- 🦒 [Ngôi nhà cổ 115 tuổi được cả dòng họ giữ gìn](https://vnexpress.net/ngoi-nha-co-115-tuoi-duoc-ca-dong-ho-giu-gin-5058667.html) - 00:00 07/04/2026
 - 👨‍🏫 [Cà phê hầu gái ở Nhật Bản](https://vnexpress.net/ca-phe-hau-gai-o-nhat-ban-5059230.html) - 14:00 06/04/2026
 - ⚗️ [Thành phố nào từng là thủ đô của nước Mỹ?](https://vnexpress.net/thanh-pho-nao-tung-la-thu-do-cua-nuoc-my-5059062.html) - 13:30 06/04/2026
 - 🥸 [Loài cá leo vách đá 10 tiếng để vượt thác](https://vnexpress.net/loai-ca-leo-vach-da-10-tieng-de-vuot-thac-5059215.html) - 11:00 06/04/2026
