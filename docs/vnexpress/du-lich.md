@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [&#39;Biển Gò Vấp&#39; nhếch nhác vì khách xả rác](https://vnexpress.net/bien-go-vap-nhech-nhac-vi-khach-xa-rac-5059590.html) - 06:30 09/04/2026
+- 💂 [&#39;Biển Gò Vấp&#39; nhếch nhác vì rác thải](https://vnexpress.net/bien-go-vap-nhech-nhac-vi-rac-thai-5059590.html) - 06:30 09/04/2026
 - 🪄 [Ngắm công viên đá nghìn hình thù ở ven biển Ninh Thuận](https://vnexpress.net/ngam-cong-vien-da-nghin-hinh-thu-o-ven-bien-ninh-thuan-5059058.html) - 05:04 09/04/2026
 - 🦅 [Khách vây kín quầy bán trứng cút ủ muối kiểu Trung Quốc](https://vnexpress.net/khach-vay-kin-quay-ban-trung-cut-u-muoi-kieu-trung-quoc-5059669.html) - 02:06 09/04/2026
 - 🕴 [10 món bánh mì kẹp ngon nhất thế giới](https://vnexpress.net/10-mon-banh-mi-kep-ngon-nhat-the-gioi-5059087.html) - 01:30 09/04/2026
