@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Gần 40 đại học được cấp chứng chỉ tiếng Anh](https://vnexpress.net/danh-sach-dai-hoc-to-chuc-thi-va-cap-chung-chi-vstep-cap-nhat-nhat-5059930.html) - 07:37 10/04/2026
-- 🦆 [tpPhụ huynh chật vật đưa đón sau vụ ngộ độc ở trường Bình Quới Tây](https://vnexpress.net/hon-200-hoc-sinh-nghi-hoc-sau-vu-nghi-ngo-doc-o-tieu-hoc-binh-quoi-tay-5060841.html) - 07:21 10/04/2026
+- 🤓 [Xã đầu tiên miễn phí sách giáo khoa từ lớp 1 đến 12](https://vnexpress.net/xa-dau-tien-mien-phi-sach-giao-khoa-tu-lop-1-den-12-5060839.html) - 08:22 10/04/2026
+- 🦆 [Phụ huynh chật vật đưa đón sau vụ ngộ độc ở trường Bình Quới Tây](https://vnexpress.net/hon-200-hoc-sinh-nghi-hoc-sau-vu-nghi-ngo-doc-o-tieu-hoc-binh-quoi-tay-5060841.html) - 07:21 10/04/2026
 - 🦩 [Nghĩa khác của &#39;moon&#39; trong thành ngữ tiếng Anh](https://vnexpress.net/nghia-khac-cua-moon-trong-thanh-ngu-tieng-anh-5060397.html) - 04:42 10/04/2026
 - 🌮 [PTIT sẽ đào tạo nhân tài về UAV và robot tự hành](https://vnexpress.net/ptit-se-dao-tao-nhan-tai-ve-uav-va-robot-tu-hanh-5060399.html) - 04:08 10/04/2026
 - 🔭 [Bắt đầu thử nghiệm thi tốt nghiệp THPT trên máy tính](https://vnexpress.net/bat-dau-thu-nghiem-thi-tot-nghiep-thpt-tren-may-tinh-5060716.html) - 03:12 10/04/2026
