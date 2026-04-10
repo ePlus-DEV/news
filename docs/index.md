@@ -532,7 +532,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Trực tiếp V-League 1: Thể Công Viettel tiếp Đông Á Thanh Hóa](https://muctim.tuoitre.vn/truc-tiep-v-league-1-the-cong-viettel-tiep-dong-a-thanh-hoa-101260410141718135.htm) - 10:09 10/04/2026
 - 🥷 [5 nhóm đối tượng được tuyển thẳng vào lớp 10 công lập](https://muctim.tuoitre.vn/5-nhom-doi-tuong-duoc-tuyen-thang-vao-lop-10-cong-lap-101260410151313483.htm) - 08:48 10/04/2026
-- 🤖 [Trực tiếp bán kết futsal Đông Nam Á: Indonesia mở tỉ số trước Việt Nam](https://muctim.tuoitre.vn/truc-tiep-ban-ket-futsal-dong-nam-a-viet-nam-indonesia-101260410134401113.htm) - 08:00 10/04/2026
+- 🤖 [Trực tiếp bán kết futsal Đông Nam Á: Indonesia dẫn Việt Nam 3-2 &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-ban-ket-futsal-dong-nam-a-viet-nam-indonesia-101260410134401113.htm) - 08:00 10/04/2026
 - 🤓 [Mời các bạn đón đọc Rùa Vàng 15, phát hành 13-4-2026: 
 Chơi cùng… Rô bốt!](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-15-phat-hanh-13-4-2026-choi-cung-ro-bot-10126040910212443.htm) - 08:00 10/04/2026
 - 🎉 [Liverpool đấu Fulham: Áp lực bủa vây](https://muctim.tuoitre.vn/liverpool-dau-fulham-ap-luc-bua-vay-101260410125921309.htm) - 07:25 10/04/2026
