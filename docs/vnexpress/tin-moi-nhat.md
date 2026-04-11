@@ -32,7 +32,7 @@ sidebar_position: 9
 - 🐎 [Hàng chục nghìn nhân sự công nghệ &#39;bị sa thải vì AI&#39;](https://vnexpress.net/hang-chuc-nghin-nhan-su-cong-nghe-bi-sa-thai-vi-ai-5060956.html) - 11:00 11/04/2026
 - 🎡 [Xuất khẩu thanh long sang Thái Lan, Trung Đông tăng mạnh](https://vnexpress.net/xuat-khau-thanh-long-sang-thai-lan-trung-dong-tang-manh-5061211.html) - 10:43 11/04/2026
 - 👨‍🏫 [Rory McIlroy bứt phá ở Masters 2026](https://vnexpress.net/rory-mcilroy-but-pha-o-masters-2026-5061269.html) - 10:39 11/04/2026
-- 🦆 [Điểm tin 17h: Nhà mạng khuyến khích xác thực thông tin thuê bao trước ngày quy định | Đề xuất bỏ xác nhận độc thân khi đăng ký hộ tịch](https://vnexpress.net/diem-tin-17h-nha-mang-khuyen-khich-xac-thuc-thong-tin-thue-bao-truoc-ngay-quy-dinh-de-xuat-bo-xac-nhan-doc-than-khi-dang-ky-ho-tich-5061270.html) - 10:33 11/04/2026
+- 🦆 [Điểm tin 21h: Hàng chục nghìn nhân sự công nghệ &#39;bị sa thải vì AI&#39; | Mỹ - Israel bắt đầu đàm phán tại Islamabad](https://vnexpress.net/diem-tin-21h-hang-chuc-nghin-nhan-su-cong-nghe-bi-sa-thai-vi-ai-my-israel-bat-dau-dam-phan-tai-islamabad-5061270.html) - 10:33 11/04/2026
 - 🚦 [Nga - Ukraine tập kích nhau trước giờ ngừng bắn](https://vnexpress.net/nga-ukraine-tap-kich-nhau-truoc-gio-ngung-ban-5061263.html) - 10:22 11/04/2026
 - 💫 [Vợ rảnh đến mức stress khiến tôi không dám nghỉ hưu sớm](https://vnexpress.net/vo-ranh-den-muc-stress-khien-toi-khong-dam-nghi-huu-som-5061224.html) - 10:14 11/04/2026
 - 🎉 [Garnacho tiếc nuối vì rời Man Utd](https://vnexpress.net/garnacho-tiec-nuoi-vi-roi-man-utd-5061254.html) - 10:08 11/04/2026
