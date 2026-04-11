@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cháy kho đông lạnh ở Hà Nội, nhiều xe máy bị thiêu rụi](https://vnexpress.net/chay-kho-dong-lanh-o-ha-noi-nhieu-xe-may-bi-thieu-rui-5061182.html) - 04:32 11/04/2026
-- 🤓 [Cục CSGT mạnh tay xử lý xe ben](https://vnexpress.net/cuc-csgt-manh-tay-xu-ly-xe-ben-5060959.html) - 03:44 11/04/2026
+- 🤓 [Cục CSGT mạnh tay xử lý &#39;hung thần&#39; xe ben](https://vnexpress.net/cuc-csgt-manh-tay-xu-ly-hung-than-xe-ben-5060959.html) - 03:44 11/04/2026
 - ⚗️ [Đề xuất bỏ xác nhận độc thân khi đăng ký hộ tịch](https://vnexpress.net/de-xuat-bo-xac-nhan-doc-than-khi-dang-ky-ho-tich-5061149.html) - 03:32 11/04/2026
 - 🌊 [&#39;Không nên đưa hợp đồng đặt cọc bất động sản vào diện bắt buộc công chứng&#39;](https://vnexpress.net/khong-nen-dua-hop-dong-dat-coc-bat-dong-san-vao-dien-bat-buoc-cong-chung-5061155.html) - 03:15 11/04/2026
 - 🎓 [Người TP HCM dỡ nhà mở rộng quốc lộ 13 sau 25 năm chờ đợi](https://vnexpress.net/nguoi-tp-hcm-do-nha-mo-rong-quoc-lo-13-sau-25-nam-cho-doi-5060896.html) - 23:00 10/04/2026
