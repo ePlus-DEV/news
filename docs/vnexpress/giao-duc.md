@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [5 loại học bổng chính phủ Đức cho du học sinh Việt](https://vnexpress.net/danh-sach-5-loai-hoc-bong-chinh-phu-duc-danh-cho-du-hoc-sinh-viet-nam-moi-nhat-5060856.html) - 03:33 11/04/2026
 - 🦆 [Gần 40 đại học được cấp chứng chỉ tiếng Anh](https://vnexpress.net/danh-sach-dai-hoc-to-chuc-thi-va-cap-chung-chi-vstep-cap-nhat-nhat-5059930.html) - 03:01 11/04/2026
-- 🦩 [Trường quốc tế rộng 9,2 ha giữa thủ đô](https://vnexpress.net/truong-quoc-te-rong-9-2-ha-giua-thu-do-5058370.html) - 23:05 10/04/2026
+- 🦩 [Bên trong trường quốc tế rộng nhất thủ đô](https://vnexpress.net/ben-trong-truong-quoc-te-rong-nhat-thu-do-5058370.html) - 23:05 10/04/2026
 - 🌮 [Du học sinh Canada có thể đi làm không cần giấy phép](https://vnexpress.net/du-hoc-sinh-canada-co-the-di-lam-khong-can-giay-phep-5061037.html) - 17:02 10/04/2026
 - 🔭 [Nước nào có đèn giao thông đầu tiên trên thế giới?](https://vnexpress.net/nuoc-nao-co-den-giao-thong-dau-tien-tren-the-gioi-5061065.html) - 13:00 10/04/2026
 - 💡 [Ngành Quản trị Kinh doanh theo hướng quốc tế tại trường Đại học Thăng Long](https://vnexpress.net/nganh-quan-tri-kinh-doanh-theo-huong-quoc-te-tai-truong-dai-hoc-thang-long-5060087.html) - 12:00 10/04/2026
