@@ -523,10 +523,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Màn kết đôi của hai mảnh ghép trái ngược trong Perfect crown](https://muctim.tuoitre.vn/man-ket-doi-cua-hai-manh-ghep-trai-nguoc-trong-perfect-crown-101260411112007889.htm) - 13:01 12/04/2026
 - 🥷 [Đội hình xuất phát của Aston Villa và Nottingham Forest](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-cua-aston-villa-va-nottingham-forest-101260412192325067.htm) - 12:59 12/04/2026
 - 🤖 [Ngựa lùn Cacao Thảo cầm viên ra mắt, “khai hoa bắt miếng” tại tiệc đầy tháng](https://muctim.tuoitre.vn/ngua-lun-cacao-thao-cam-vien-ra-mat-khai-hoa-bat-mieng-tai-tiec-day-thang-101260412191136389.htm) - 12:59 12/04/2026
-- 🤓 [Cập nhật V-League 1: CLB Hà Nội 3-0 Hồng Lĩnh Hà Tĩnh &lpar;H2&rpar;](https://muctim.tuoitre.vn/cap-nhat-v-league-1-clb-ha-noi-tiep-hong-linh-ha-tinh-10126041213445703.htm) - 11:00 12/04/2026
+- 🤓 [CLB Hà Nội đánh bại Hồng Lĩnh Hà Tĩnh 3-0 trên sân nhà](https://muctim.tuoitre.vn/cap-nhat-v-league-1-clb-ha-noi-tiep-hong-linh-ha-tinh-10126041213445703.htm) - 11:00 12/04/2026
 - 🎉 [Vòng 18 V-League 1, Ninh Bình thắng kịch tính Becamex TP.HCM 2-1](https://muctim.tuoitre.vn/cap-nhat-v-league-1-becamex-tphcm-tiep-ninh-binh-101260412124923865.htm) - 10:00 12/04/2026
 - 👨‍🏫 [V-League 1 vòng 18, Công An Hà Nội chia điểm trên sân PVF-CAND](https://muctim.tuoitre.vn/truc-tiep-v-league-1-pvf-cand-tiep-doi-dau-bang-cong-an-ha-noi-101260412115909846.htm) - 10:00 12/04/2026
-- 🚦 [Trực tiếp chung kết futsal Đông Nam Á: Thái Lan 1-1 Indonesia &lpar;hết H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-chung-ket-futsal-dong-nam-a-thai-lan-indonesia-101260412150205854.htm) - 09:45 12/04/2026
+- 🚦 [Trực tiếp chung kết futsal Đông Nam Á: Thái Lan 2-1 Indonesia &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-chung-ket-futsal-dong-nam-a-thai-lan-indonesia-101260412150205854.htm) - 09:45 12/04/2026
 - 🤭 [Thắng Úc 4-0, Việt Nam xếp hạng 3 Giải vô địch futsal Đông Nam Á 2026](https://muctim.tuoitre.vn/truc-tiep-viet-nam-va-uc-tranh-hang-3-giai-futsal-dong-nam-a-101260412113451868.htm) - 08:00 12/04/2026
 - 😺 [Nam sinh Hà Tĩnh giành vé vào cuộc thi tháng Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-ha-tinh-gianh-ve-vao-cuoc-thi-thang-duong-len-dinh-olympia-101260412111045153.htm) - 07:35 12/04/2026
 - 😎 [Học sinh dự thi vào Trường THPT chuyên Lê Hồng Phong cần lưu ý gì?](https://muctim.tuoitre.vn/hoc-sinh-du-thi-vao-truong-thpt-chuyen-le-hong-phong-can-luu-y-gi-101260412114810589.htm) - 07:32 12/04/2026
