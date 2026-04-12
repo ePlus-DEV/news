@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [TP HCM đề xuất miễn giảm thu phí đường bộ đối với xe khách](https://vnexpress.net/tp-hcm-de-xuat-mien-giam-thu-phi-duong-bo-doi-voi-xe-khach-5061485.html) - 09:30 12/04/2026
 - 🌊 [Chủ tiệm bánh mì ở Vũng Tàu bị phạt sau vụ 108 người ngộ độc](https://vnexpress.net/chu-tiem-banh-mi-o-vung-tau-bi-phat-sau-vu-108-nguoi-ngo-doc-5061473.html) - 08:47 12/04/2026
 - 🎓 [Sạt lở cắt đôi đường, ảnh hưởng 1.000 hộ dân miền Tây](https://vnexpress.net/sat-lo-cat-doi-duong-anh-huong-1-000-ho-dan-mien-tay-5061463.html) - 08:27 12/04/2026
-- 🔥 [Tổng Bí thư, Chủ tịch nước: Cán bộ hiện nay phải có bản lĩnh thực thi](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-can-bo-hien-nay-phai-co-ban-linh-thuc-thi-5061455.html) - 08:00 12/04/2026
+- 🔥 [Tổng Bí thư: Không để lãng phí 5-10 năm quyết định của đất nước](https://vnexpress.net/tong-bi-thu-khong-de-lang-phi-5-10-nam-quyet-dinh-cua-dat-nuoc-5061455.html) - 08:00 12/04/2026
 - 🦏 [Công ty gỗ ở Hà Tĩnh cháy lớn](https://vnexpress.net/cong-ty-go-o-ha-tinh-chay-lon-5061447.html) - 07:27 12/04/2026
 - 👺 [Cả nước chấm dứt nắng nóng vào cuối tuần sau](https://vnexpress.net/ca-nuoc-cham-dut-nang-nong-vao-cuoi-tuan-sau-5061405.html) - 04:16 12/04/2026
 - 🧑‍🏫 [&#39;Giãn dân, di dời cơ sở mới xử lý tận gốc ô nhiễm Hà Nội&#39;](https://vnexpress.net/gian-dan-di-doi-co-so-moi-xu-ly-tan-goc-o-nhiem-ha-noi-5061378.html) - 04:08 12/04/2026
