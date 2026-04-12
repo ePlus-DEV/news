@@ -520,9 +520,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Cập nhật V-League 1: CLB Hà Nội tiếp Hồng Lĩnh Hà Tĩnh](https://muctim.tuoitre.vn/cap-nhat-v-league-1-clb-ha-noi-tiep-hong-linh-ha-tinh-10126041213445703.htm) - 11:00 12/04/2026
-- 🥷 [Cập nhật V-League 1: Becamex TP.HCM 0-1 Ninh Bình &lpar;hết H1&rpar;](https://muctim.tuoitre.vn/cap-nhat-v-league-1-becamex-tphcm-tiep-ninh-binh-101260412124923865.htm) - 10:00 12/04/2026
-- 🤖 [Trực tiếp V-League 1: PVF-CAND 0-1 Công An Hà Nội &lpar;hết H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-v-league-1-pvf-cand-tiep-doi-dau-bang-cong-an-ha-noi-101260412115909846.htm) - 10:00 12/04/2026
+- 🤔 [Cập nhật V-League 1: CLB Hà Nội 1-0 Hồng Lĩnh Hà Tĩnh &lpar;H1&rpar;](https://muctim.tuoitre.vn/cap-nhat-v-league-1-clb-ha-noi-tiep-hong-linh-ha-tinh-10126041213445703.htm) - 11:00 12/04/2026
+- 🥷 [Cập nhật V-League 1: Becamex TP.HCM 1-1 Ninh Bình &lpar;H2&rpar;](https://muctim.tuoitre.vn/cap-nhat-v-league-1-becamex-tphcm-tiep-ninh-binh-101260412124923865.htm) - 10:00 12/04/2026
+- 🤖 [Trực tiếp V-League 1: PVF-CAND 1-1 Công An Hà Nội &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-v-league-1-pvf-cand-tiep-doi-dau-bang-cong-an-ha-noi-101260412115909846.htm) - 10:00 12/04/2026
 - 🤓 [Trực tiếp chung kết futsal Đông Nam Á: Thái Lan - Indonesia](https://muctim.tuoitre.vn/truc-tiep-chung-ket-futsal-dong-nam-a-thai-lan-indonesia-101260412150205854.htm) - 09:45 12/04/2026
 - 🎉 [Thắng Úc 4-0, Việt Nam xếp hạng 3 Giải vô địch futsal Đông Nam Á 2026](https://muctim.tuoitre.vn/truc-tiep-viet-nam-va-uc-tranh-hang-3-giai-futsal-dong-nam-a-101260412113451868.htm) - 08:00 12/04/2026
 - 👨‍🏫 [Nam sinh Hà Tĩnh giành vé vào cuộc thi tháng Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-ha-tinh-gianh-ve-vao-cuoc-thi-thang-duong-len-dinh-olympia-101260412111045153.htm) - 07:35 12/04/2026
