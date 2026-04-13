@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nước châu Á nào có quốc ca ngắn nhất thế giới?](https://vnexpress.net/nuoc-chau-a-nao-co-quoc-ca-ngan-nhat-the-gioi-5061940.html) - 13:02 13/04/2026
+- 🤓 [Quốc ca nước châu Á nào ngắn nhất thế giới?](https://vnexpress.net/quoc-ca-nuoc-chau-a-nao-ngan-nhat-the-gioi-5061940.html) - 13:02 13/04/2026
 - 🦆 [Nữ sinh lớp 7 bị đánh hội đồng trước cổng trường](https://vnexpress.net/nu-sinh-lop-7-bi-danh-hoi-dong-truoc-cong-truong-5061855.html) - 12:01 13/04/2026
 - 🦩 [Thêm 3 trường ở TP HCM dừng bữa ăn bán trú](https://vnexpress.net/them-3-truong-o-tp-hcm-dung-bua-an-ban-tru-5061841.html) - 09:11 13/04/2026
 - 🌮 [GS Vũ Hà Văn: Phần lớn sinh viên học Toán để đối phó](https://vnexpress.net/gs-vu-ha-van-phan-lon-sinh-vien-hoc-toan-de-doi-pho-5061658.html) - 06:31 13/04/2026
