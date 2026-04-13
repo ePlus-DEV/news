@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd thua Leeds ngay tại Old Trafford](https://vnexpress.net/man-utd-thua-leeds-ngay-tai-old-trafford-5062006.html) - 20:55 13/04/2026
+- 🪜 [Man Utd thua sốc Leeds ngay tại Old Trafford](https://vnexpress.net/man-utd-thua-soc-leeds-ngay-tai-old-trafford-5062006.html) - 20:55 13/04/2026
 - 🦩 [Cầu thủ 20 tuổi bị bắn chết trên xe chở đội bóng](https://vnexpress.net/cau-thu-20-tuoi-bi-ban-chet-tren-xe-cho-doi-bong-5061960.html) - 17:00 13/04/2026
 - 🧰 [Lineker: &#39;Arsenal sa sút vì giáo áo kỳ quặc của Arteta&#39;](https://vnexpress.net/lineker-arsenal-sa-sut-vi-giao-ao-ky-quac-cua-arteta-5061953.html) - 17:00 13/04/2026
 - 🤗 [Thêm ba kỳ vương cờ tướng Trung Quốc bị cấm trọn đời](https://vnexpress.net/them-ba-ky-vuong-co-tuong-trung-quoc-bi-cam-tron-doi-5061964.html) - 13:16 13/04/2026
