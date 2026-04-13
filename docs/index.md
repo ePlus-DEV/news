@@ -532,7 +532,7 @@ chính trị, tư tưởng trong Đảng](https://nld.com.vn/nhung-noi-dung-co-b
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Học trò Trường tiểu học Lê Đức Thọ khám phá văn chương: từ ống heo cảm xúc đến bài văn hay](https://muctim.tuoitre.vn/hoc-tro-truong-tieu-hoc-le-duc-tho-kham-pha-van-chuong-tu-ong-heo-cam-xuc-den-bai-van-hay-101260413162242363.htm) - 09:56 13/04/2026
-- 🥷 [Trực tiếp bóng chuyền nữ: Binh chủng Thông tin gặp Geleximco Hưng Yên](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-binh-chung-thong-tin-gap-geleximco-hung-yen-101260413151452394.htm) - 09:52 13/04/2026
+- 🥷 [Bóng chuyền nữ Binh chủng Thông tin thắng dễ Geleximco Hưng Yên 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-binh-chung-thong-tin-gap-geleximco-hung-yen-101260413151452394.htm) - 09:52 13/04/2026
 - 🤖 [Teen Trường THPT Nguyễn Đình Chiểu &#39;bung ý tưởng&#39; với 75 sản phẩm STEAM độc đáo](https://muctim.tuoitre.vn/teen-truong-thpt-nguyen-dinh-chieu-bung-y-tuong-voi-75-san-pham-steam-doc-dao-101260413143153538.htm) - 08:42 13/04/2026
 - 🤓 [Thắng U17 Malaysia 4-0, U17 Việt Nam khởi đầu suôn sẻ tại Giải U17 Đông Nam Á 2026](https://muctim.tuoitre.vn/truc-tiep-giai-u17-dong-nam-a-u17-viet-nam-gap-u17-malaysia-101260413152659574.htm) - 08:29 13/04/2026
 - 🎉 [Tiết chào cờ đặc biệt của teen Trường THPT Thanh Đa cùng nhạc sĩ Nguyễn Văn Chung](https://muctim.tuoitre.vn/tiet-chao-co-dac-biet-cua-teen-truong-thpt-thanh-da-cung-nhac-si-nguyen-van-chung-101260413103711175.htm) - 08:18 13/04/2026
