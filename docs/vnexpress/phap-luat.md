@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Mẹ bị bắt vì pha sữa cho con bằng nước rửa kim tiêm ma túy](https://vnexpress.net/me-bi-bat-vi-pha-sua-cho-con-bang-nuoc-rua-kim-tiem-ma-tuy-5062328.html) - 13:39 14/04/2026
-- 🥰 [Xử phúc thẩm vụ hai cựu cục trưởng &#39;nhận hối lộ 52 tỷ đồng&#39; trong 3 ngày](https://vnexpress.net/xu-phuc-tham-vu-hai-cuu-cuc-truong-nhan-hoi-lo-52-ty-dong-trong-3-ngay-5062357.html) - 10:49 14/04/2026
+- 🥰 [Hai cựu cục trưởng &#39;nhận hối lộ 52 tỷ đồng&#39; sắp được tòa xét đơn giảm án](https://vnexpress.net/hai-cuu-cuc-truong-nhan-hoi-lo-52-ty-dong-sap-duoc-toa-xet-don-giam-an-5062357.html) - 10:49 14/04/2026
 - 🎓 [Ngược đãi mèo sau khi bị bạn gái chia tay, thanh niên lĩnh án nặng](https://vnexpress.net/nguoc-dai-meo-sau-khi-bi-ban-gai-chia-tay-thanh-nien-linh-an-nang-5062193.html) - 08:14 14/04/2026
 - 🤓 [Truy sát hàng xóm vì lời khiêu khích](https://vnexpress.net/truy-sat-hang-xom-vi-loi-khieu-khich-5062203.html) - 06:34 14/04/2026
 - 🎊 [12 cựu cảnh sát &#39;giải cứu người nghiện&#39; lĩnh án](https://vnexpress.net/12-cuu-canh-sat-giai-cuu-nguoi-nghien-linh-an-5062204.html) - 06:25 14/04/2026
