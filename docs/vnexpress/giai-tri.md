@@ -5,62 +5,62 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Sắc vóc Hoa hậu Phạm Hương ở tuổi 35](https://vnexpress.net/sac-voc-hoa-hau-pham-huong-o-tuoi-35-5062300.html) - 17:00 14/04/2026
-- 💫 [&#39;Conan 29&#39; lập kỷ lục hút fan](https://vnexpress.net/conan-29-lap-ky-luc-hut-fan-5062333.html) - 13:46 14/04/2026
-- 🌮 [Chàng trai gốc Việt bị loại khỏi The Face Men Thái Lan](https://vnexpress.net/chang-trai-goc-viet-bi-loai-khoi-the-face-men-thai-lan-5062334.html) - 12:15 14/04/2026
-- 🧠 [Đoàn Văn Hậu, Doãn Hải My diện đồ ăn ý](https://vnexpress.net/doan-van-hau-doan-hai-my-dien-do-an-y-5062335.html) - 12:00 14/04/2026
-- 👨‍🏫 [Tiểu thuyết về hoàng hậu cuối cùng của nhà Lý](https://vnexpress.net/tieu-thuyet-ve-hoang-hau-cuoi-cung-cua-nha-ly-5061820.html) - 10:30 14/04/2026
-- ⚗️ [&#39;Ngôi nhà nhỏ trên thảo nguyên&#39; bản mới tung teaser](https://vnexpress.net/ngoi-nha-nho-tren-thao-nguyen-ban-moi-tung-teaser-5062314.html) - 09:53 14/04/2026
-- 😎 [&#39;Hai con trai giúp Britney Spears đi cai nghiện&#39;](https://vnexpress.net/hai-con-trai-giup-britney-spears-di-cai-nghien-5062125.html) - 08:20 14/04/2026
-- 🫣 [Chiếc đồng hồ đầu tiên dành cho thám hiểm vũ trụ](https://vnexpress.net/chiec-dong-ho-dau-tien-danh-cho-tham-hiem-vu-tru-5062205.html) - 07:37 14/04/2026
-- 🪄 [Xổ số trúng thưởng tranh Picasso triệu USD](https://vnexpress.net/xo-so-trung-thuong-tranh-picasso-trieu-usd-5062195.html) - 07:14 14/04/2026
-- 🤓 [Phim &#39;Bóng ma hạnh phúc&#39; gây tranh luận](https://vnexpress.net/phim-bong-ma-hanh-phuc-gay-tranh-luan-5061668.html) - 05:48 14/04/2026
-- 🫶 [Lễ hội Nhật Bản dành cho fan manga](https://vnexpress.net/le-hoi-nhat-ban-danh-cho-fan-manga-5061992.html) - 05:40 14/04/2026
-- 🧑‍🏫 [Vẻ điển trai của diễn viên Bình An](https://vnexpress.net/ve-dien-trai-cua-dien-vien-binh-an-5061822.html) - 04:39 14/04/2026
-- 🦄 [Sao theo đuổi mốt xuyên thấu](https://vnexpress.net/sao-theo-duoi-mot-xuyen-thau-5059195.html) - 04:29 14/04/2026
-- 💫 [Katy Perry bị tố cáo &#39;tấn công tình dục&#39;](https://vnexpress.net/katy-perry-bi-to-cao-tan-cong-tinh-duc-5062066.html) - 04:02 14/04/2026
-- 🎊 [Con gái rocker Uông Phong không nhận mẹ](https://vnexpress.net/con-gai-rocker-uong-phong-khong-nhan-me-5062061.html) - 03:20 14/04/2026
-- 👹 [Đoàn Thiên Ân - cô gái nghèo thành diễn viên phim trăm tỷ](https://vnexpress.net/doan-thien-an-co-gai-ngheo-thanh-dien-vien-phim-tram-ty-5060471.html) - 03:03 14/04/2026
-- 💻 [Cuộc sống của ca sĩ Thiện Nhân ở tuổi 25](https://vnexpress.net/cuoc-song-cua-ca-si-thien-nhan-o-tuoi-25-5058975.html) - 02:12 14/04/2026
-- 🤡 [Việt Trinh vui thú điền viên, du lịch](https://vnexpress.net/viet-trinh-vui-thu-dien-vien-du-lich-5061829.html) - 00:54 14/04/2026
-- 🥰 [Sách đồng ghi chiến tích đánh giặc của vua Lê Thánh Tông](https://vnexpress.net/sach-dong-ghi-chien-tich-danh-giac-cua-vua-le-thanh-tong-5061733.html) - 17:00 13/04/2026
-- 🚀 [Dung mạo người đẹp Hàn lấn sân làng nhạc Việt](https://vnexpress.net/dung-mao-nguoi-dep-han-lan-san-lang-nhac-viet-5061854.html) - 13:35 13/04/2026
-- 📝 [Big Bang gợi hoài niệm tại Coachella](https://vnexpress.net/big-bang-goi-hoai-niem-tai-coachella-5061857.html) - 12:07 13/04/2026
-- 🐲 [Justin Bieber mặc trang phục của NTK gốc Việt](https://vnexpress.net/justin-bieber-mac-trang-phuc-cua-ntk-goc-viet-5061875.html) - 12:05 13/04/2026
-- 🎃 [Lưu Diệc Phi diện đầm cắt xẻ của Lê Thanh Hòa](https://vnexpress.net/luu-diec-phi-dien-dam-cat-xe-cua-le-thanh-hoa-5061895.html) - 09:47 13/04/2026
-- 🤠 [Mỹ nhân &#39;Itaewon Class&#39; dạo chơi Hội An](https://vnexpress.net/my-nhan-itaewon-class-dao-choi-hoi-an-5061849.html) - 08:45 13/04/2026
-- 🎭 [Chiếc đồng hồ thép đắt hơn vàng của Patek Philippe](https://vnexpress.net/chiec-dong-ho-thep-dat-hon-vang-cua-patek-philippe-5060484.html) - 07:00 13/04/2026
-- 🧰 [Vợ tỷ phú Jeff Bezos mong muốn sinh con](https://vnexpress.net/vo-ty-phu-jeff-bezos-mong-muon-sinh-con-5061659.html) - 05:40 13/04/2026
-- 🦍 [Sao mặc hở dự lễ hội âm nhạc lớn nhất thế giới](https://vnexpress.net/sao-mac-ho-du-le-hoi-am-nhac-lon-nhat-the-gioi-5061696.html) - 05:24 13/04/2026
-- 🌝 [Phim điện ảnh &#39;Đất Đỏ&#39; tái hiện cuộc đời anh hùng Võ Thị Sáu](https://vnexpress.net/phim-dien-anh-dat-do-tai-hien-cuoc-doi-anh-hung-vo-thi-sau-5061700.html) - 05:17 13/04/2026
-- 🧑‍💻 [Giáo sư Phan Văn Trường: Đọc sách để tìm thấy chính mình](https://vnexpress.net/giao-su-phan-van-truong-doc-sach-de-tim-thay-chinh-minh-5061478.html) - 04:39 13/04/2026
-- 🥸 [Phong cách ngẫu hứng của Harry Styles, Zoë Kravitz](https://vnexpress.net/phong-cach-ngau-hung-cua-harry-styles-zo-kravitz-5052759.html) - 03:55 13/04/2026
-- 🔥 [Katy Perry và cựu Thủ tướng Canada tận hưởng Coachella](https://vnexpress.net/katy-perry-va-cuu-thu-tuong-canada-tan-huong-coachella-5061601.html) - 03:36 13/04/2026
-- 🐎 [Tài tử &#39;Thần điêu đại hiệp 1995&#39; qua đời](https://vnexpress.net/tai-tu-than-dieu-dai-hiep-1995-qua-doi-5061598.html) - 02:43 13/04/2026
-- 😎 [Hai á hậu Miss World Vietnam về quê](https://vnexpress.net/hai-a-hau-miss-world-vietnam-ve-que-5061495.html) - 00:35 13/04/2026
-- 🦄 [Ký ức đời sống bình dân ở Sài Gòn](https://vnexpress.net/ky-uc-doi-song-binh-dan-o-sai-gon-5061509.html) - 00:26 13/04/2026
-- 🌜 [Lê Phương: &#39;Biết ơn chồng vì thương con riêng như ruột thịt&#39;](https://vnexpress.net/le-phuong-biet-on-chong-vi-thuong-con-rieng-nhu-ruot-thit-5060858.html) - 17:00 12/04/2026
-- 🚦 [Justin Bieber gây chú ý tại lễ hội âm nhạc Coachella](https://vnexpress.net/justin-bieber-gay-chu-y-tai-le-hoi-am-nhac-coachella-5061534.html) - 15:39 12/04/2026
-- 🧐 [Các phim nổi bật về phiêu lưu vũ trụ](https://vnexpress.net/cac-phim-noi-bat-ve-phieu-luu-vu-tru-5061382.html) - 14:55 12/04/2026
-- 🐵 [Bi Rain &#39;kiệt sức&#39; khi đóng phản diện](https://vnexpress.net/bi-rain-kiet-suc-khi-dong-phan-dien-5061480.html) - 12:00 12/04/2026
-- ⚗️ [Chi hơn 1.000 USD để &#39;đọc sách cùng người lạ&#39;](https://vnexpress.net/chi-hon-1-000-usd-de-doc-sach-cung-nguoi-la-5061394.html) - 08:47 12/04/2026
-- 👺 [Tình yêu vượt giông tố của tài tử Doãn Thiên Chiếu](https://vnexpress.net/tinh-yeu-vuot-giong-to-cua-tai-tu-doan-thien-chieu-5061445.html) - 08:37 12/04/2026
-- 🌊 [Katy Perry dự sự kiện cùng cựu Thủ tướng Canada](https://vnexpress.net/katy-perry-du-su-kien-cung-cuu-thu-tuong-canada-5061434.html) - 06:43 12/04/2026
-- 🪜 [Con trai 16 tuổi của Hồ Ngọc Hà dự sự kiện cùng loạt sao](https://vnexpress.net/con-trai-16-tuoi-cua-ho-ngoc-ha-du-su-kien-cung-loat-sao-5061428.html) - 05:31 12/04/2026
-- 🕴 [&#39;Ngọc nữ Nhật Bản&#39; Yuko Araki kết hôn](https://vnexpress.net/ngoc-nu-nhat-ban-yuko-araki-ket-hon-5061399.html) - 05:30 12/04/2026
-- 💃 [Hai năm yêu của Tăng Duy Tân, Bích Phương](https://vnexpress.net/hai-nam-yeu-cua-tang-duy-tan-bich-phuong-5061374.html) - 04:40 12/04/2026
-- 🦄 [Trang Pháp gây chú ý khi song ca mỹ nhân &#39;Tiểu Lý phi đao&#39;](https://vnexpress.net/trang-phap-gay-chu-y-khi-song-ca-my-nhan-tieu-ly-phi-dao-5061361.html) - 04:30 12/04/2026
-- ⛽️ [buitruonglinh: Giấc mơ concert đầu tay thành hiện thực](https://vnexpress.net/buitruonglinh-giac-mo-concert-dau-tay-thanh-hien-thuc-5061345.html) - 03:47 12/04/2026
-- 😎 [Đội Trang Pháp thua ở công diễn đầu &#39;Đạp gió&#39; Trung Quốc](https://vnexpress.net/doi-trang-phap-thua-o-cong-dien-dau-dap-gio-trung-quoc-5061315.html) - 02:18 12/04/2026
-- 🌊 [Hôn nhân của tài tử &#39;Ước mơ vươn tới một ngôi sao&#39;](https://vnexpress.net/hon-nhan-cua-tai-tu-uoc-mo-vuon-toi-mot-ngoi-sao-5061329.html) - 00:39 12/04/2026
-- 🐲 [Bảo Trâm Idol: &#39;Chồng bao bọc, cho tôi cảm giác vững chãi&#39;](https://vnexpress.net/bao-tram-idol-chong-bao-boc-cho-toi-cam-giac-vung-chai-5059892.html) - 17:00 11/04/2026
-- 💂 [Những bộ cánh xuyên thấu của Jennie](https://vnexpress.net/nhung-bo-canh-xuyen-thau-cua-jennie-5061188.html) - 13:18 11/04/2026
-- 🙉 [Tăng Duy Tân, Bích Phương công khai hẹn hò](https://vnexpress.net/tang-duy-tan-bich-phuong-cong-khai-hen-ho-5061273.html) - 11:24 11/04/2026
-- 💪 [Con trai út Michael Jackson hiếm hoi đi thảm đỏ](https://vnexpress.net/con-trai-ut-michael-jackson-hiem-hoi-di-tham-do-5061203.html) - 07:55 11/04/2026
-- 👍 [Gen Z theo đuổi mốt bodysuit khoét hông](https://vnexpress.net/gen-z-theo-duoi-mot-bodysuit-khoet-hong-5060375.html) - 06:06 11/04/2026
-- 💪 [Phim của IU hút khán giả ngày đầu lên sóng](https://vnexpress.net/phim-cua-iu-hut-khan-gia-ngay-dau-len-song-5061167.html) - 05:29 11/04/2026
-- 💄 [Mariah Carey bán nhà 27 triệu USD](https://vnexpress.net/mariah-carey-ban-nha-27-trieu-usd-5061141.html) - 04:34 11/04/2026
-- 🦩 [Mỹ nhân &#39;Tiểu Lý phi đao&#39; sống tự tại](https://vnexpress.net/my-nhan-tieu-ly-phi-dao-song-tu-tai-5061163.html) - 03:18 11/04/2026
-- 🥸 [Gu mặc đồng điệu của chị em Yến Trang, Yến Nhi](https://vnexpress.net/gu-mac-dong-dieu-cua-chi-em-yen-trang-yen-nhi-5056379.html) - 01:47 11/04/2026
-- 🧰 [Ca khúc &#39;Chỉ chừng đó thôi&#39; của Phạm Duy gây sốt trở lại](https://vnexpress.net/ca-khuc-chi-chung-do-thoi-cua-pham-duy-gay-sot-tro-lai-5061011.html) - 01:14 11/04/2026
-- 💼 [&#39;Tạng thư sinh tử&#39; &lpar;kỳ cuối&rpar;: Hiểu về lẽ vô thường](https://vnexpress.net/tang-thu-sinh-tu-ky-cuoi-hieu-ve-le-vo-thuong-5060719.html) - 17:05 10/04/2026
+- 💫 [Shipper làm thơ](https://vnexpress.net/shipper-lam-tho-5062134.html) - 17:00 14/04/2026
+- 🌮 [&#39;Conan 29&#39; lập kỷ lục hút fan](https://vnexpress.net/conan-29-lap-ky-luc-hut-fan-5062333.html) - 13:46 14/04/2026
+- 🧠 [Chàng trai gốc Việt bị loại khỏi The Face Men Thái Lan](https://vnexpress.net/chang-trai-goc-viet-bi-loai-khoi-the-face-men-thai-lan-5062334.html) - 12:15 14/04/2026
+- 👨‍🏫 [Đoàn Văn Hậu, Doãn Hải My diện đồ ăn ý](https://vnexpress.net/doan-van-hau-doan-hai-my-dien-do-an-y-5062335.html) - 12:00 14/04/2026
+- ⚗️ [Tiểu thuyết về hoàng hậu cuối cùng của nhà Lý](https://vnexpress.net/tieu-thuyet-ve-hoang-hau-cuoi-cung-cua-nha-ly-5061820.html) - 10:30 14/04/2026
+- 😎 [&#39;Ngôi nhà nhỏ trên thảo nguyên&#39; bản mới tung teaser](https://vnexpress.net/ngoi-nha-nho-tren-thao-nguyen-ban-moi-tung-teaser-5062314.html) - 09:53 14/04/2026
+- 🫣 [&#39;Hai con trai giúp Britney Spears đi cai nghiện&#39;](https://vnexpress.net/hai-con-trai-giup-britney-spears-di-cai-nghien-5062125.html) - 08:20 14/04/2026
+- 🪄 [Chiếc đồng hồ đầu tiên dành cho thám hiểm vũ trụ](https://vnexpress.net/chiec-dong-ho-dau-tien-danh-cho-tham-hiem-vu-tru-5062205.html) - 07:37 14/04/2026
+- 🤓 [Xổ số trúng thưởng tranh Picasso triệu USD](https://vnexpress.net/xo-so-trung-thuong-tranh-picasso-trieu-usd-5062195.html) - 07:14 14/04/2026
+- 🫶 [Phim &#39;Bóng ma hạnh phúc&#39; gây tranh luận](https://vnexpress.net/phim-bong-ma-hanh-phuc-gay-tranh-luan-5061668.html) - 05:48 14/04/2026
+- 🧑‍🏫 [Lễ hội Nhật Bản dành cho fan manga](https://vnexpress.net/le-hoi-nhat-ban-danh-cho-fan-manga-5061992.html) - 05:40 14/04/2026
+- 🦄 [Vẻ điển trai của diễn viên Bình An](https://vnexpress.net/ve-dien-trai-cua-dien-vien-binh-an-5061822.html) - 04:39 14/04/2026
+- 💫 [Sao theo đuổi mốt xuyên thấu](https://vnexpress.net/sao-theo-duoi-mot-xuyen-thau-5059195.html) - 04:29 14/04/2026
+- 🎊 [Katy Perry bị tố cáo &#39;tấn công tình dục&#39;](https://vnexpress.net/katy-perry-bi-to-cao-tan-cong-tinh-duc-5062066.html) - 04:02 14/04/2026
+- 👹 [Con gái rocker Uông Phong không nhận mẹ](https://vnexpress.net/con-gai-rocker-uong-phong-khong-nhan-me-5062061.html) - 03:20 14/04/2026
+- 💻 [Đoàn Thiên Ân - cô gái nghèo thành diễn viên phim trăm tỷ](https://vnexpress.net/doan-thien-an-co-gai-ngheo-thanh-dien-vien-phim-tram-ty-5060471.html) - 03:03 14/04/2026
+- 🤡 [Cuộc sống của ca sĩ Thiện Nhân ở tuổi 25](https://vnexpress.net/cuoc-song-cua-ca-si-thien-nhan-o-tuoi-25-5058975.html) - 02:12 14/04/2026
+- 🥰 [Việt Trinh vui thú điền viên, du lịch](https://vnexpress.net/viet-trinh-vui-thu-dien-vien-du-lich-5061829.html) - 00:54 14/04/2026
+- 🚀 [Sách đồng ghi chiến tích đánh giặc của vua Lê Thánh Tông](https://vnexpress.net/sach-dong-ghi-chien-tich-danh-giac-cua-vua-le-thanh-tong-5061733.html) - 17:00 13/04/2026
+- 📝 [Dung mạo người đẹp Hàn lấn sân làng nhạc Việt](https://vnexpress.net/dung-mao-nguoi-dep-han-lan-san-lang-nhac-viet-5061854.html) - 13:35 13/04/2026
+- 🐲 [Big Bang gợi hoài niệm tại Coachella](https://vnexpress.net/big-bang-goi-hoai-niem-tai-coachella-5061857.html) - 12:07 13/04/2026
+- 🎃 [Justin Bieber mặc trang phục của NTK gốc Việt](https://vnexpress.net/justin-bieber-mac-trang-phuc-cua-ntk-goc-viet-5061875.html) - 12:05 13/04/2026
+- 🤠 [Lưu Diệc Phi diện đầm cắt xẻ của Lê Thanh Hòa](https://vnexpress.net/luu-diec-phi-dien-dam-cat-xe-cua-le-thanh-hoa-5061895.html) - 09:47 13/04/2026
+- 🎭 [Mỹ nhân &#39;Itaewon Class&#39; dạo chơi Hội An](https://vnexpress.net/my-nhan-itaewon-class-dao-choi-hoi-an-5061849.html) - 08:45 13/04/2026
+- 🧰 [Chiếc đồng hồ thép đắt hơn vàng của Patek Philippe](https://vnexpress.net/chiec-dong-ho-thep-dat-hon-vang-cua-patek-philippe-5060484.html) - 07:00 13/04/2026
+- 🦍 [Vợ tỷ phú Jeff Bezos mong muốn sinh con](https://vnexpress.net/vo-ty-phu-jeff-bezos-mong-muon-sinh-con-5061659.html) - 05:40 13/04/2026
+- 🌝 [Sao mặc hở dự lễ hội âm nhạc lớn nhất thế giới](https://vnexpress.net/sao-mac-ho-du-le-hoi-am-nhac-lon-nhat-the-gioi-5061696.html) - 05:24 13/04/2026
+- 🧑‍💻 [Phim điện ảnh &#39;Đất Đỏ&#39; tái hiện cuộc đời anh hùng Võ Thị Sáu](https://vnexpress.net/phim-dien-anh-dat-do-tai-hien-cuoc-doi-anh-hung-vo-thi-sau-5061700.html) - 05:17 13/04/2026
+- 🥸 [Giáo sư Phan Văn Trường: Đọc sách để tìm thấy chính mình](https://vnexpress.net/giao-su-phan-van-truong-doc-sach-de-tim-thay-chinh-minh-5061478.html) - 04:39 13/04/2026
+- 🔥 [Phong cách ngẫu hứng của Harry Styles, Zoë Kravitz](https://vnexpress.net/phong-cach-ngau-hung-cua-harry-styles-zo-kravitz-5052759.html) - 03:55 13/04/2026
+- 🐎 [Katy Perry và cựu Thủ tướng Canada tận hưởng Coachella](https://vnexpress.net/katy-perry-va-cuu-thu-tuong-canada-tan-huong-coachella-5061601.html) - 03:36 13/04/2026
+- 😎 [Tài tử &#39;Thần điêu đại hiệp 1995&#39; qua đời](https://vnexpress.net/tai-tu-than-dieu-dai-hiep-1995-qua-doi-5061598.html) - 02:43 13/04/2026
+- 🦄 [Hai á hậu Miss World Vietnam về quê](https://vnexpress.net/hai-a-hau-miss-world-vietnam-ve-que-5061495.html) - 00:35 13/04/2026
+- 🌜 [Ký ức đời sống bình dân ở Sài Gòn](https://vnexpress.net/ky-uc-doi-song-binh-dan-o-sai-gon-5061509.html) - 00:26 13/04/2026
+- 🚦 [Lê Phương: &#39;Biết ơn chồng vì thương con riêng như ruột thịt&#39;](https://vnexpress.net/le-phuong-biet-on-chong-vi-thuong-con-rieng-nhu-ruot-thit-5060858.html) - 17:00 12/04/2026
+- 🧐 [Justin Bieber gây chú ý tại lễ hội âm nhạc Coachella](https://vnexpress.net/justin-bieber-gay-chu-y-tai-le-hoi-am-nhac-coachella-5061534.html) - 15:39 12/04/2026
+- 🐵 [Các phim nổi bật về phiêu lưu vũ trụ](https://vnexpress.net/cac-phim-noi-bat-ve-phieu-luu-vu-tru-5061382.html) - 14:55 12/04/2026
+- ⚗️ [Bi Rain &#39;kiệt sức&#39; khi đóng phản diện](https://vnexpress.net/bi-rain-kiet-suc-khi-dong-phan-dien-5061480.html) - 12:00 12/04/2026
+- 👺 [Chi hơn 1.000 USD để &#39;đọc sách cùng người lạ&#39;](https://vnexpress.net/chi-hon-1-000-usd-de-doc-sach-cung-nguoi-la-5061394.html) - 08:47 12/04/2026
+- 🌊 [Tình yêu vượt giông tố của tài tử Doãn Thiên Chiếu](https://vnexpress.net/tinh-yeu-vuot-giong-to-cua-tai-tu-doan-thien-chieu-5061445.html) - 08:37 12/04/2026
+- 🪜 [Katy Perry dự sự kiện cùng cựu Thủ tướng Canada](https://vnexpress.net/katy-perry-du-su-kien-cung-cuu-thu-tuong-canada-5061434.html) - 06:43 12/04/2026
+- 🕴 [Con trai 16 tuổi của Hồ Ngọc Hà dự sự kiện cùng loạt sao](https://vnexpress.net/con-trai-16-tuoi-cua-ho-ngoc-ha-du-su-kien-cung-loat-sao-5061428.html) - 05:31 12/04/2026
+- 💃 [&#39;Ngọc nữ Nhật Bản&#39; Yuko Araki kết hôn](https://vnexpress.net/ngoc-nu-nhat-ban-yuko-araki-ket-hon-5061399.html) - 05:30 12/04/2026
+- 🦄 [Hai năm yêu của Tăng Duy Tân, Bích Phương](https://vnexpress.net/hai-nam-yeu-cua-tang-duy-tan-bich-phuong-5061374.html) - 04:40 12/04/2026
+- ⛽️ [Trang Pháp gây chú ý khi song ca mỹ nhân &#39;Tiểu Lý phi đao&#39;](https://vnexpress.net/trang-phap-gay-chu-y-khi-song-ca-my-nhan-tieu-ly-phi-dao-5061361.html) - 04:30 12/04/2026
+- 😎 [buitruonglinh: Giấc mơ concert đầu tay thành hiện thực](https://vnexpress.net/buitruonglinh-giac-mo-concert-dau-tay-thanh-hien-thuc-5061345.html) - 03:47 12/04/2026
+- 🌊 [Đội Trang Pháp thua ở công diễn đầu &#39;Đạp gió&#39; Trung Quốc](https://vnexpress.net/doi-trang-phap-thua-o-cong-dien-dau-dap-gio-trung-quoc-5061315.html) - 02:18 12/04/2026
+- 🐲 [Hôn nhân của tài tử &#39;Ước mơ vươn tới một ngôi sao&#39;](https://vnexpress.net/hon-nhan-cua-tai-tu-uoc-mo-vuon-toi-mot-ngoi-sao-5061329.html) - 00:39 12/04/2026
+- 💂 [Bảo Trâm Idol: &#39;Chồng bao bọc, cho tôi cảm giác vững chãi&#39;](https://vnexpress.net/bao-tram-idol-chong-bao-boc-cho-toi-cam-giac-vung-chai-5059892.html) - 17:00 11/04/2026
+- 🙉 [Những bộ cánh xuyên thấu của Jennie](https://vnexpress.net/nhung-bo-canh-xuyen-thau-cua-jennie-5061188.html) - 13:18 11/04/2026
+- 💪 [Tăng Duy Tân, Bích Phương công khai hẹn hò](https://vnexpress.net/tang-duy-tan-bich-phuong-cong-khai-hen-ho-5061273.html) - 11:24 11/04/2026
+- 👍 [Con trai út Michael Jackson hiếm hoi đi thảm đỏ](https://vnexpress.net/con-trai-ut-michael-jackson-hiem-hoi-di-tham-do-5061203.html) - 07:55 11/04/2026
+- 💪 [Gen Z theo đuổi mốt bodysuit khoét hông](https://vnexpress.net/gen-z-theo-duoi-mot-bodysuit-khoet-hong-5060375.html) - 06:06 11/04/2026
+- 💄 [Phim của IU hút khán giả ngày đầu lên sóng](https://vnexpress.net/phim-cua-iu-hut-khan-gia-ngay-dau-len-song-5061167.html) - 05:29 11/04/2026
+- 🦩 [Mariah Carey bán nhà 27 triệu USD](https://vnexpress.net/mariah-carey-ban-nha-27-trieu-usd-5061141.html) - 04:34 11/04/2026
+- 🥸 [Mỹ nhân &#39;Tiểu Lý phi đao&#39; sống tự tại](https://vnexpress.net/my-nhan-tieu-ly-phi-dao-song-tu-tai-5061163.html) - 03:18 11/04/2026
+- 🧰 [Gu mặc đồng điệu của chị em Yến Trang, Yến Nhi](https://vnexpress.net/gu-mac-dong-dieu-cua-chi-em-yen-trang-yen-nhi-5056379.html) - 01:47 11/04/2026
+- 💼 [Ca khúc &#39;Chỉ chừng đó thôi&#39; của Phạm Duy gây sốt trở lại](https://vnexpress.net/ca-khuc-chi-chung-do-thoi-cua-pham-duy-gay-sot-tro-lai-5061011.html) - 01:14 11/04/2026
 - 🧑‍💻 [Á hậu Trương Tâm Như: &#39;Muốn thành công để đỡ đần cha mẹ&#39;](https://vnexpress.net/a-hau-truong-tam-nhu-muon-thanh-cong-de-do-dan-cha-me-5057507.html) - 17:00 10/04/2026<!-- vnexpress-giai-tri:END -->
