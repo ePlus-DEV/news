@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Chiêu đổi sim điện thoại chiếm quyền tài khoản, rút 23 tỷ đồng](https://vnexpress.net/chieu-doi-sim-dien-thoai-chiem-quyen-tai-khoan-rut-23-ty-dong-5061905.html) - 10:48 13/04/2026
 - 🎊 [Cảnh sát đột kích sòng Poker trong khách sạn 5 sao ở Đà Nẵng](https://vnexpress.net/canh-sat-dot-kich-song-poker-trong-khach-san-5-sao-o-da-nang-5061914.html) - 10:30 13/04/2026
 - 🙉 [Vợ chồng cựu chủ tịch đậu phộng Tân Tân lĩnh án](https://vnexpress.net/vo-chong-cuu-chu-tich-dau-phong-tan-tan-linh-an-5061816.html) - 07:47 13/04/2026
-- 🤡 [Dự kiến phạt tới 12 triệu đồng với ôtô khách không có camera trong khoang](https://vnexpress.net/du-kien-phat-toi-12-trieu-dong-voi-oto-khach-khong-co-camera-trong-khoang-5061753.html) - 07:35 13/04/2026
+- 🤡 [Dự kiến phạt đến 12 triệu đồng với ôtô khách không có camera trong khoang](https://vnexpress.net/du-kien-phat-den-12-trieu-dong-voi-oto-khach-khong-co-camera-trong-khoang-5061753.html) - 07:35 13/04/2026
 - 🗽 [Bất ngờ bị nợ ngân hàng 1,7 tỷ đồng](https://vnexpress.net/lua-dao-vay-von-ngan-hang-5061785.html) - 07:08 13/04/2026
 - 🌋 [Bị công an mời làm việc vì câu &#39;Đố anh bắt được em&#39;](https://vnexpress.net/bi-cong-an-moi-lam-viec-vi-cau-do-anh-bat-duoc-em-5061763.html) - 05:38 13/04/2026
 - 🎬 [Thẩm phán Trung Quốc lộ ghi âm quấy rối tình dục trong văn phòng](https://vnexpress.net/tham-phan-trung-quoc-lo-ghi-am-quay-roi-tinh-duc-trong-van-phong-5061764.html) - 05:35 13/04/2026
