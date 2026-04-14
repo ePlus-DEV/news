@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [30 nghề triển vọng, không cần bằng đại học ở Mỹ](https://vnexpress.net/30-nghe-trien-vong-khong-can-bang-dai-hoc-o-my-5060167.html) - 03:02 14/04/2026
 - 🦆 [Viện LQT cùng Đại học Western Sydney mở chương trình Cử nhân kinh doanh](https://vnexpress.net/vien-lqt-cung-dai-hoc-western-sydney-mo-chuong-trinh-cu-nhan-kinh-doanh-5062058.html) - 02:25 14/04/2026
-- 🦩 [Từ &#39;con nhà nòi&#39; đến nữ giáo sư ngành Xây dựng](https://vnexpress.net/tu-con-nha-noi-den-nu-giao-su-nganh-xay-dung-5048044.html) - 23:29 13/04/2026
+- 🦩 [Từ &#39;con nhà nòi&#39; đến nữ giáo sư hiếm có của ngành Xây dựng](https://vnexpress.net/tu-con-nha-noi-den-nu-giao-su-hiem-co-cua-nganh-xay-dung-5048044.html) - 23:29 13/04/2026
 - 🌮 [Cựu kỹ sư Grok 3: Nên chú trọng Toán hơn mở lớp chuyên AI](https://vnexpress.net/cuu-ky-su-grok-3-nen-chu-trong-toan-hon-mo-lop-chuyen-ai-5061819.html) - 15:25 13/04/2026
 - 🔭 [Quốc ca nước châu Á nào ngắn nhất thế giới?](https://vnexpress.net/quoc-ca-nuoc-chau-a-nao-ngan-nhat-the-gioi-5061940.html) - 13:02 13/04/2026
 - 💡 [Nữ sinh lớp 7 bị đánh hội đồng trước cổng trường](https://vnexpress.net/nu-sinh-lop-7-bi-danh-hoi-dong-truoc-cong-truong-5061855.html) - 12:01 13/04/2026
