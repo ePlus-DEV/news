@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chủ tịch Vinhomes: Thị trường bất động sản bước vào giai đoạn phục hồi có chọn lọc](https://vnexpress.net/chu-tich-vinhomes-thi-truong-bat-dong-san-buoc-vao-giai-doan-phuc-hoi-co-chon-loc-5061981.html) - 17:08 13/04/2026
+- ⛽️ [Làm thế nào để tính được giá trị thực của cổ phiếu?](https://vnexpress.net/lam-the-nao-de-tinh-duoc-gia-tri-thuc-cua-co-phieu-5060715.html) - 00:44 14/04/2026
 - 🐲 [Hàng xa xỉ thất thu ở Trung Đông vì chiến sự](https://vnexpress.net/hang-xa-xi-that-thu-o-trung-dong-vi-chien-su-5061794.html) - 17:02 13/04/2026
 - 🔥 [Các bộ trình phương án cắt giảm thủ tục kinh doanh trước 20/4](https://vnexpress.net/cac-bo-trinh-phuong-an-cat-giam-thu-tuc-kinh-doanh-truoc-20-4-5061966.html) - 13:30 13/04/2026
 - 🐵 [Xung đột Trung Đông củng cố vị thế công nghiệp xanh Trung Quốc](https://vnexpress.net/xung-dot-trung-dong-cung-co-vi-the-cong-nghiep-xanh-trung-quoc-5061827.html) - 10:45 13/04/2026
