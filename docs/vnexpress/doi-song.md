@@ -4,63 +4,63 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Góc khuất phía sau đạo luật trợ tử ở Canada](https://vnexpress.net/goc-khuat-phia-sau-dao-luat-tro-tu-o-canada-5061194.html) - 03:50 14/04/2026
-- 🎓 [Cuộc sống về già của thế hệ đầu tiên chọn &#39;không con cái&#39;](https://vnexpress.net/cuoc-song-ve-gia-cua-the-he-dau-tien-chon-khong-con-cai-5061999.html) - 01:47 14/04/2026
-- 🚦 [Ông thông gia người Mỹ mê cuộc sống ở Việt Nam](https://vnexpress.net/ong-thong-gia-nguoi-my-me-cuoc-song-o-viet-nam-5061305.html) - 23:00 13/04/2026
-- 🦣 [Giải mã 52.000 doanh nghiệp trăm tuổi tại Nhật Bản](https://vnexpress.net/giai-ma-52-000-doanh-nghiep-tram-tuoi-tai-nhat-ban-5061442.html) - 22:49 13/04/2026
-- 🎓 [Vì sao thêm chút đường làm món mặn ngon hơn?](https://vnexpress.net/vi-sao-them-chut-duong-lam-mon-man-ngon-hon-5061892.html) - 09:23 13/04/2026
-- 🎭 [Người châu Âu ồ ạt đổi ôtô điện để né giá xăng](https://vnexpress.net/nguoi-chau-au-o-at-doi-oto-dien-de-ne-gia-xang-5061737.html) - 06:51 13/04/2026
-- 🦅 [Mặt trái khi sống chung với gia tộc tỷ phú](https://vnexpress.net/mat-trai-khi-song-chung-voi-gia-toc-ty-phu-5061419.html) - 03:49 13/04/2026
-- 🎃 [Gánh nặng &#39;thuế đen&#39; của lao động xa quê](https://vnexpress.net/ganh-nang-thue-den-cua-lao-dong-xa-que-5061449.html) - 01:50 13/04/2026
-- 💪 [Cuộc sống của những người chạy trốn sóng di động](https://vnexpress.net/cuoc-song-cua-nhung-nguoi-chay-tron-song-di-dong-5061461.html) - 00:46 13/04/2026
-- 🐻 [Ba vấn đề của xe máy điện với hầm chung cư](https://vnexpress.net/ba-van-de-cua-xe-may-dien-voi-ham-chung-cu-5060089.html) - 23:00 12/04/2026
-- 🧠 [Tài sản cuối cùng của người mẹ đơn thân](https://vnexpress.net/tai-san-cuoi-cung-cua-nguoi-me-don-than-5061247.html) - 17:00 12/04/2026
-- 🐘 [Cách làm măng tươi hết đắng trong 10 phút](https://vnexpress.net/cach-lam-mang-tuoi-het-dang-trong-10-phut-5061197.html) - 08:00 12/04/2026
-- 👹 [Kỹ thuật &#39;chỉ và gọi&#39; giúp chữa bệnh &#39;não cá vàng&#39;](https://vnexpress.net/ky-thuat-chi-va-goi-giup-chua-benh-nao-ca-vang-5061384.html) - 03:33 12/04/2026
-- 💂 [Quốc gia thưởng 25.000 euro cho người trẻ bỏ bằng lái](https://vnexpress.net/quoc-gia-thuong-25-000-euro-cho-nguoi-tre-bo-bang-lai-5061364.html) - 03:22 12/04/2026
-- 🦍 [TCL nâng cấp giải pháp điều hòa cấp khí tươi](https://vnexpress.net/tcl-nang-cap-giai-phap-dieu-hoa-cap-khi-tuoi-5061365.html) - 02:30 12/04/2026
-- 🧑‍🏫 [Thuê người nấu cơm nhà](https://vnexpress.net/thue-nguoi-nau-com-nha-5060720.html) - 23:15 11/04/2026
-- 🧰 [Mẹo dọn nhà theo chiều kim đồng hồ của người Nhật](https://vnexpress.net/meo-don-nha-theo-chieu-kim-dong-ho-cua-nguoi-nhat-5061301.html) - 23:00 11/04/2026
-- 🪄 [Sự lột xác của &#39;người phụ nữ xấu nhất thế giới&#39;](https://vnexpress.net/su-lot-xac-cua-nguoi-phu-nu-xau-nhat-the-gioi-5061136.html) - 17:00 11/04/2026
-- 🐲 [&#39;Vũ khí bí mật&#39; giúp heo quay giòn bì](https://vnexpress.net/vu-khi-bi-mat-giup-heo-quay-gion-bi-5061198.html) - 08:31 11/04/2026
-- 💻 [Vì sao phụ nữ muốn ngủ nhiều hơn nam giới?](https://vnexpress.net/vi-sao-phu-nu-muon-ngu-nhieu-hon-nam-gioi-5061082.html) - 07:13 11/04/2026
-- 🐘 [Bi kịch nợ nần của tiến sĩ 200 lần xin việc thất bại](https://vnexpress.net/bi-kich-no-nan-cua-tien-si-200-lan-xin-viec-that-bai-5061110.html) - 06:05 11/04/2026
-- 🎬 [Giới trẻ Mỹ rủ nhau sắm &#39;túi lo âu&#39;](https://vnexpress.net/gioi-tre-my-ru-nhau-sam-tui-lo-au-5061106.html) - 03:20 11/04/2026
-- 💻 [Áp lực kép của lao động Trung Quốc thời AI](https://vnexpress.net/ap-luc-kep-cua-lao-dong-trung-quoc-thoi-ai-5061089.html) - 02:49 11/04/2026
-- 🧰 [Lời hứa của chàng trai chăm người yêu mắc bệnh hiếm](https://vnexpress.net/loi-hua-cua-chang-trai-cham-nguoi-yeu-mac-benh-hiem-5060225.html) - 23:00 10/04/2026
-- 🫣 [Cuộc sống chật vật của &#39;nữ thần thanh xuân&#39; Hàn Quốc](https://vnexpress.net/cuoc-song-chat-vat-cua-nu-than-thanh-xuan-han-quoc-5061054.html) - 17:32 10/04/2026
-- ⚗️ [Trường Giang lần thứ tư liên tiếp đồng hành Kun runners Huế](https://vnexpress.net/truong-giang-lan-thu-tu-lien-tiep-dong-hanh-kun-runners-hue-5060805.html) - 09:00 10/04/2026
-- 🌊 [Nữ nghị sĩ bị khai trừ đảng vì dùng ảnh AI tranh cử](https://vnexpress.net/nu-nghi-si-bi-khai-tru-dang-vi-dung-anh-ai-tranh-cu-5060882.html) - 08:24 10/04/2026
-- 💃 [Bỏ nghề lừa đảo sau lời khuyên của &#39;con mồi&#39;](https://vnexpress.net/bo-nghe-lua-dao-sau-loi-khuyen-cua-con-moi-5060844.html) - 07:18 10/04/2026
-- 🦆 [Giải mã hiện tượng &#39;nhân viên ngồi bên cửa sổ&#39; ở công sở Nhật](https://vnexpress.net/giai-ma-hien-tuong-nhan-vien-ngoi-ben-cua-so-o-cong-so-nhat-5060647.html) - 01:44 10/04/2026
-- 🎓 [Cuộc đoàn tụ sau 39 năm của gia đình có 3 người lưu lạc](https://vnexpress.net/cuoc-doan-tu-sau-39-nam-cua-gia-dinh-co-3-nguoi-luu-lac-5059889.html) - 23:00 09/04/2026
-- 💪 [Hành trình xây dựng đế chế tỷ USD của &#39;vợ Đường Tăng&#39;](https://vnexpress.net/hanh-trinh-xay-dung-de-che-ty-usd-cua-vo-duong-tang-5060406.html) - 17:28 09/04/2026
-- 🤔 [Chủ quán lẩu tự chê đồ ăn dở để &#39;đuổi&#39; khách](https://vnexpress.net/chu-quan-lau-tu-che-do-an-do-de-duoi-khach-5060467.html) - 08:24 09/04/2026
-- 🧰 [Cuộc sống của 1.800 người trên hòn đảo bằng nửa sân bóng đá](https://vnexpress.net/cuoc-song-cua-1-800-nguoi-tren-hon-dao-bang-nua-san-bong-da-5060190.html) - 23:26 08/04/2026
-- 😎 [Cuộc sống người Trung Quốc thời AI](https://vnexpress.net/cuoc-song-nguoi-trung-quoc-thoi-ai-5059891.html) - 23:00 08/04/2026
-- 🌮 [Phút cuối đời của tài xế cứu 45 người trên cao tốc](https://vnexpress.net/phut-cuoi-doi-cua-tai-xe-cuu-45-nguoi-tren-cao-toc-5060203.html) - 17:15 08/04/2026
-- 🧠 [Những món dễ làm trong mâm cơm ngày hè](https://vnexpress.net/nhung-mon-de-lam-trong-mam-com-ngay-he-5060136.html) - 09:43 08/04/2026
+- 🚀 [Thanh niên Thái Lan nhập ngũ né thất nghiệp](https://vnexpress.net/thanh-nien-thai-lan-nhap-ngu-ne-that-nghiep-5062122.html) - 07:13 14/04/2026
+- 🎓 [Bị gạt khỏi quyết định an tử của người thân](https://vnexpress.net/bi-gat-khoi-quyet-dinh-an-tu-cua-nguoi-than-5061194.html) - 03:50 14/04/2026
+- 🚦 [Cuộc sống về già của thế hệ đầu tiên chọn &#39;không con cái&#39;](https://vnexpress.net/cuoc-song-ve-gia-cua-the-he-dau-tien-chon-khong-con-cai-5061999.html) - 01:47 14/04/2026
+- 🦣 [Ông thông gia người Mỹ mê cuộc sống ở Việt Nam](https://vnexpress.net/ong-thong-gia-nguoi-my-me-cuoc-song-o-viet-nam-5061305.html) - 23:00 13/04/2026
+- 🎓 [Giải mã 52.000 doanh nghiệp trăm tuổi tại Nhật Bản](https://vnexpress.net/giai-ma-52-000-doanh-nghiep-tram-tuoi-tai-nhat-ban-5061442.html) - 22:49 13/04/2026
+- 🎭 [Vì sao thêm chút đường làm món mặn ngon hơn?](https://vnexpress.net/vi-sao-them-chut-duong-lam-mon-man-ngon-hon-5061892.html) - 09:23 13/04/2026
+- 🦅 [Người châu Âu ồ ạt đổi ôtô điện để né giá xăng](https://vnexpress.net/nguoi-chau-au-o-at-doi-oto-dien-de-ne-gia-xang-5061737.html) - 06:51 13/04/2026
+- 🎃 [Mặt trái khi sống chung với gia tộc tỷ phú](https://vnexpress.net/mat-trai-khi-song-chung-voi-gia-toc-ty-phu-5061419.html) - 03:49 13/04/2026
+- 💪 [Gánh nặng &#39;thuế đen&#39; của lao động xa quê](https://vnexpress.net/ganh-nang-thue-den-cua-lao-dong-xa-que-5061449.html) - 01:50 13/04/2026
+- 🐻 [Cuộc sống của những người chạy trốn sóng di động](https://vnexpress.net/cuoc-song-cua-nhung-nguoi-chay-tron-song-di-dong-5061461.html) - 00:46 13/04/2026
+- 🧠 [Ba vấn đề của xe máy điện với hầm chung cư](https://vnexpress.net/ba-van-de-cua-xe-may-dien-voi-ham-chung-cu-5060089.html) - 23:00 12/04/2026
+- 🐘 [Tài sản cuối cùng của người mẹ đơn thân](https://vnexpress.net/tai-san-cuoi-cung-cua-nguoi-me-don-than-5061247.html) - 17:00 12/04/2026
+- 👹 [Cách làm măng tươi hết đắng trong 10 phút](https://vnexpress.net/cach-lam-mang-tuoi-het-dang-trong-10-phut-5061197.html) - 08:00 12/04/2026
+- 💂 [Kỹ thuật &#39;chỉ và gọi&#39; giúp chữa bệnh &#39;não cá vàng&#39;](https://vnexpress.net/ky-thuat-chi-va-goi-giup-chua-benh-nao-ca-vang-5061384.html) - 03:33 12/04/2026
+- 🦍 [Quốc gia thưởng 25.000 euro cho người trẻ bỏ bằng lái](https://vnexpress.net/quoc-gia-thuong-25-000-euro-cho-nguoi-tre-bo-bang-lai-5061364.html) - 03:22 12/04/2026
+- 🧑‍🏫 [TCL nâng cấp giải pháp điều hòa cấp khí tươi](https://vnexpress.net/tcl-nang-cap-giai-phap-dieu-hoa-cap-khi-tuoi-5061365.html) - 02:30 12/04/2026
+- 🧰 [Thuê người nấu cơm nhà](https://vnexpress.net/thue-nguoi-nau-com-nha-5060720.html) - 23:15 11/04/2026
+- 🪄 [Mẹo dọn nhà theo chiều kim đồng hồ của người Nhật](https://vnexpress.net/meo-don-nha-theo-chieu-kim-dong-ho-cua-nguoi-nhat-5061301.html) - 23:00 11/04/2026
+- 🐲 [Sự lột xác của &#39;người phụ nữ xấu nhất thế giới&#39;](https://vnexpress.net/su-lot-xac-cua-nguoi-phu-nu-xau-nhat-the-gioi-5061136.html) - 17:00 11/04/2026
+- 💻 [&#39;Vũ khí bí mật&#39; giúp heo quay giòn bì](https://vnexpress.net/vu-khi-bi-mat-giup-heo-quay-gion-bi-5061198.html) - 08:31 11/04/2026
+- 🐘 [Vì sao phụ nữ muốn ngủ nhiều hơn nam giới?](https://vnexpress.net/vi-sao-phu-nu-muon-ngu-nhieu-hon-nam-gioi-5061082.html) - 07:13 11/04/2026
+- 🎬 [Bi kịch nợ nần của tiến sĩ 200 lần xin việc thất bại](https://vnexpress.net/bi-kich-no-nan-cua-tien-si-200-lan-xin-viec-that-bai-5061110.html) - 06:05 11/04/2026
+- 💻 [Giới trẻ Mỹ rủ nhau sắm &#39;túi lo âu&#39;](https://vnexpress.net/gioi-tre-my-ru-nhau-sam-tui-lo-au-5061106.html) - 03:20 11/04/2026
+- 🧰 [Áp lực kép của lao động Trung Quốc thời AI](https://vnexpress.net/ap-luc-kep-cua-lao-dong-trung-quoc-thoi-ai-5061089.html) - 02:49 11/04/2026
+- 🫣 [Lời hứa của chàng trai chăm người yêu mắc bệnh hiếm](https://vnexpress.net/loi-hua-cua-chang-trai-cham-nguoi-yeu-mac-benh-hiem-5060225.html) - 23:00 10/04/2026
+- ⚗️ [Cuộc sống chật vật của &#39;nữ thần thanh xuân&#39; Hàn Quốc](https://vnexpress.net/cuoc-song-chat-vat-cua-nu-than-thanh-xuan-han-quoc-5061054.html) - 17:32 10/04/2026
+- 🌊 [Trường Giang lần thứ tư liên tiếp đồng hành Kun runners Huế](https://vnexpress.net/truong-giang-lan-thu-tu-lien-tiep-dong-hanh-kun-runners-hue-5060805.html) - 09:00 10/04/2026
+- 💃 [Nữ nghị sĩ bị khai trừ đảng vì dùng ảnh AI tranh cử](https://vnexpress.net/nu-nghi-si-bi-khai-tru-dang-vi-dung-anh-ai-tranh-cu-5060882.html) - 08:24 10/04/2026
+- 🦆 [Bỏ nghề lừa đảo sau lời khuyên của &#39;con mồi&#39;](https://vnexpress.net/bo-nghe-lua-dao-sau-loi-khuyen-cua-con-moi-5060844.html) - 07:18 10/04/2026
+- 🎓 [Giải mã hiện tượng &#39;nhân viên ngồi bên cửa sổ&#39; ở công sở Nhật](https://vnexpress.net/giai-ma-hien-tuong-nhan-vien-ngoi-ben-cua-so-o-cong-so-nhat-5060647.html) - 01:44 10/04/2026
+- 💪 [Cuộc đoàn tụ sau 39 năm của gia đình có 3 người lưu lạc](https://vnexpress.net/cuoc-doan-tu-sau-39-nam-cua-gia-dinh-co-3-nguoi-luu-lac-5059889.html) - 23:00 09/04/2026
+- 🤔 [Hành trình xây dựng đế chế tỷ USD của &#39;vợ Đường Tăng&#39;](https://vnexpress.net/hanh-trinh-xay-dung-de-che-ty-usd-cua-vo-duong-tang-5060406.html) - 17:28 09/04/2026
+- 🧰 [Chủ quán lẩu tự chê đồ ăn dở để &#39;đuổi&#39; khách](https://vnexpress.net/chu-quan-lau-tu-che-do-an-do-de-duoi-khach-5060467.html) - 08:24 09/04/2026
+- 😎 [Cuộc sống của 1.800 người trên hòn đảo bằng nửa sân bóng đá](https://vnexpress.net/cuoc-song-cua-1-800-nguoi-tren-hon-dao-bang-nua-san-bong-da-5060190.html) - 23:26 08/04/2026
+- 🌮 [Cuộc sống người Trung Quốc thời AI](https://vnexpress.net/cuoc-song-nguoi-trung-quoc-thoi-ai-5059891.html) - 23:00 08/04/2026
+- 🧠 [Phút cuối đời của tài xế cứu 45 người trên cao tốc](https://vnexpress.net/phut-cuoi-doi-cua-tai-xe-cuu-45-nguoi-tren-cao-toc-5060203.html) - 17:15 08/04/2026
+- 🎡 [Những món dễ làm trong mâm cơm ngày hè](https://vnexpress.net/nhung-mon-de-lam-trong-mam-com-ngay-he-5060136.html) - 09:43 08/04/2026
 - 🎡 [Thị trấn không cho trẻ em dùng smartphone](https://vnexpress.net/thi-tran-khong-cho-tre-em-dung-smartphone-5059975.html) - 08:54 08/04/2026
-- 🎡 [Cựu chủ tịch Tesla tiết lộ cách làm việc với Elon Musk](https://vnexpress.net/cuu-chu-tich-tesla-tiet-lo-cach-lam-viec-voi-elon-musk-5059748.html) - 06:30 08/04/2026
-- 🌏 [6 hối tiếc lớn nhất của đời người](https://vnexpress.net/6-hoi-tiec-lon-nhat-cua-doi-nguoi-5059502.html) - 03:44 08/04/2026
-- 🐻 [60 quán ăn tại TP HCM được GrabFood trao giải &#39;trứ danh&#39;](https://vnexpress.net/60-quan-an-tai-tp-hcm-duoc-grabfood-trao-giai-tru-danh-5059743.html) - 03:00 08/04/2026
-- 💂 [Sự nguy hại của hộp nhựa cũ](https://vnexpress.net/su-nguy-hai-cua-hop-nhua-cu-5059760.html) - 02:54 08/04/2026
-- 🥸 [Bão giá gas buộc lao động Ấn Độ &#39;bỏ phố về quê&#39;](https://vnexpress.net/bao-gia-gas-buoc-lao-dong-an-do-bo-pho-ve-que-5059753.html) - 01:31 08/04/2026
-- 🌋 [Chàng trai chụp 10.000 ảnh kỷ yếu cho trẻ vùng cao](https://vnexpress.net/chang-trai-chup-10-000-anh-ky-yeu-cho-tre-vung-cao-5059700.html) - 18:21 07/04/2026
-- 🦩 [Cách làm cơm rang giòn rụm bằng nồi chiên không dầu](https://vnexpress.net/cach-lam-com-rang-gion-rum-bang-noi-chien-khong-dau-5059308.html) - 09:00 07/04/2026
-- 😺 [Thợ sửa xe quê thành ông chủ hãng môtô vô địch thế giới](https://vnexpress.net/tho-sua-xe-que-thanh-ong-chu-hang-moto-vo-dich-the-gioi-5058564.html) - 04:41 07/04/2026
-- 🐻 [Sợ AI &#39;cướp&#39; việc, người trẻ chọn làm thợ](https://vnexpress.net/so-ai-cuop-viec-nguoi-tre-chon-lam-tho-5059389.html) - 03:49 07/04/2026
-- 🎬 [Nhiều người Mỹ giàu lên mà không biết](https://vnexpress.net/nhieu-nguoi-my-giau-len-ma-khong-biet-5059162.html) - 01:34 07/04/2026
-- 🎊 [Chàng trai Việt cưới sếp Nhật sau khi mắc kẹt vì Covid](https://vnexpress.net/chang-trai-viet-cuoi-sep-nhat-sau-khi-mac-ket-vi-covid-5058596.html) - 23:00 06/04/2026
-- 💄 [Ô nhiễm không khí kỷ lục ở miền bắc Thái Lan](https://vnexpress.net/o-nhiem-khong-khi-ky-luc-o-mien-bac-thai-lan-5058736.html) - 09:03 06/04/2026
-- 🏊 [Gánh nặng nợ nần của gia đình Ấn Độ có con gái đi lấy chồng](https://vnexpress.net/ganh-nang-no-nan-cua-gia-dinh-an-do-co-con-gai-di-lay-chong-5058581.html) - 04:24 06/04/2026
-- 🌜 [Vì sao nhiều người mắc kẹt trong mối quan hệ mập mờ?](https://vnexpress.net/vi-sao-nhieu-nguoi-mac-ket-trong-moi-quan-he-map-mo-5058643.html) - 01:59 06/04/2026
-- 🤡 [Làn sóng chuyển sang xe máy điện ở Hà Nội](https://vnexpress.net/lan-song-chuyen-sang-xe-may-dien-o-ha-noi-5057765.html) - 23:29 05/04/2026
-- 🥰 [Lý do giới trung lưu Trung Quốc đi thuê thay vì mua nhà](https://vnexpress.net/ly-do-gioi-trung-luu-trung-quoc-di-thue-thay-vi-mua-nha-5058574.html) - 23:00 05/04/2026
-- 🦍 [8 dấu hiệu bạn đã tìm đúng &#39;nửa kia&#39; của đời mình](https://vnexpress.net/8-dau-hieu-ban-da-tim-dung-nua-kia-cua-doi-minh-5058547.html) - 08:02 05/04/2026
-- 🫣 [Khủng hoảng chi phí viện dưỡng lão ở Anh](https://vnexpress.net/khung-hoang-chi-phi-vien-duong-lao-o-anh-5058715.html) - 05:20 05/04/2026
-- 🚦 [Sự thật vụ bé gái Mỹ mất tích 32 năm trước](https://vnexpress.net/su-that-vu-be-gai-my-mat-tich-32-nam-truoc-5057331.html) - 04:32 05/04/2026
-- 🐘 [Lớp học &#39;nhập gia tùy tục&#39; cho người nước ngoài ở Hà Nội](https://vnexpress.net/lop-hoc-nhap-gia-tuy-tuc-cho-nguoi-nuoc-ngoai-o-ha-noi-5058607.html) - 23:00 04/04/2026
-- 🔥 [Tài xế ứng viện phí giúp khách lạ giữa đêm](https://vnexpress.net/tai-xe-ung-vien-phi-giup-khach-la-giua-dem-5058624.html) - 17:21 04/04/2026
-- 🎃 [Rủi ro khi coi hàng hiệu là kênh đầu tư](https://vnexpress.net/rui-ro-khi-coi-hang-hieu-la-kenh-dau-tu-5058487.html) - 05:09 04/04/2026
-- 🥳 [Trả lại tiền cho 7.000 người lạ sau 7 năm](https://vnexpress.net/tra-lai-tien-cho-7-000-nguoi-la-sau-7-nam-5058398.html) - 02:58 04/04/2026<!-- vnexpress-doi-song:END -->
+- 🌏 [Cựu chủ tịch Tesla tiết lộ cách làm việc với Elon Musk](https://vnexpress.net/cuu-chu-tich-tesla-tiet-lo-cach-lam-viec-voi-elon-musk-5059748.html) - 06:30 08/04/2026
+- 🐻 [6 hối tiếc lớn nhất của đời người](https://vnexpress.net/6-hoi-tiec-lon-nhat-cua-doi-nguoi-5059502.html) - 03:44 08/04/2026
+- 💂 [60 quán ăn tại TP HCM được GrabFood trao giải &#39;trứ danh&#39;](https://vnexpress.net/60-quan-an-tai-tp-hcm-duoc-grabfood-trao-giai-tru-danh-5059743.html) - 03:00 08/04/2026
+- 🥸 [Sự nguy hại của hộp nhựa cũ](https://vnexpress.net/su-nguy-hai-cua-hop-nhua-cu-5059760.html) - 02:54 08/04/2026
+- 🌋 [Bão giá gas buộc lao động Ấn Độ &#39;bỏ phố về quê&#39;](https://vnexpress.net/bao-gia-gas-buoc-lao-dong-an-do-bo-pho-ve-que-5059753.html) - 01:31 08/04/2026
+- 🦩 [Chàng trai chụp 10.000 ảnh kỷ yếu cho trẻ vùng cao](https://vnexpress.net/chang-trai-chup-10-000-anh-ky-yeu-cho-tre-vung-cao-5059700.html) - 18:21 07/04/2026
+- 😺 [Cách làm cơm rang giòn rụm bằng nồi chiên không dầu](https://vnexpress.net/cach-lam-com-rang-gion-rum-bang-noi-chien-khong-dau-5059308.html) - 09:00 07/04/2026
+- 🐻 [Thợ sửa xe quê thành ông chủ hãng môtô vô địch thế giới](https://vnexpress.net/tho-sua-xe-que-thanh-ong-chu-hang-moto-vo-dich-the-gioi-5058564.html) - 04:41 07/04/2026
+- 🎬 [Sợ AI &#39;cướp&#39; việc, người trẻ chọn làm thợ](https://vnexpress.net/so-ai-cuop-viec-nguoi-tre-chon-lam-tho-5059389.html) - 03:49 07/04/2026
+- 🎊 [Nhiều người Mỹ giàu lên mà không biết](https://vnexpress.net/nhieu-nguoi-my-giau-len-ma-khong-biet-5059162.html) - 01:34 07/04/2026
+- 💄 [Chàng trai Việt cưới sếp Nhật sau khi mắc kẹt vì Covid](https://vnexpress.net/chang-trai-viet-cuoi-sep-nhat-sau-khi-mac-ket-vi-covid-5058596.html) - 23:00 06/04/2026
+- 🏊 [Ô nhiễm không khí kỷ lục ở miền bắc Thái Lan](https://vnexpress.net/o-nhiem-khong-khi-ky-luc-o-mien-bac-thai-lan-5058736.html) - 09:03 06/04/2026
+- 🌜 [Gánh nặng nợ nần của gia đình Ấn Độ có con gái đi lấy chồng](https://vnexpress.net/ganh-nang-no-nan-cua-gia-dinh-an-do-co-con-gai-di-lay-chong-5058581.html) - 04:24 06/04/2026
+- 🤡 [Vì sao nhiều người mắc kẹt trong mối quan hệ mập mờ?](https://vnexpress.net/vi-sao-nhieu-nguoi-mac-ket-trong-moi-quan-he-map-mo-5058643.html) - 01:59 06/04/2026
+- 🥰 [Làn sóng chuyển sang xe máy điện ở Hà Nội](https://vnexpress.net/lan-song-chuyen-sang-xe-may-dien-o-ha-noi-5057765.html) - 23:29 05/04/2026
+- 🦍 [Lý do giới trung lưu Trung Quốc đi thuê thay vì mua nhà](https://vnexpress.net/ly-do-gioi-trung-luu-trung-quoc-di-thue-thay-vi-mua-nha-5058574.html) - 23:00 05/04/2026
+- 🫣 [8 dấu hiệu bạn đã tìm đúng &#39;nửa kia&#39; của đời mình](https://vnexpress.net/8-dau-hieu-ban-da-tim-dung-nua-kia-cua-doi-minh-5058547.html) - 08:02 05/04/2026
+- 🚦 [Khủng hoảng chi phí viện dưỡng lão ở Anh](https://vnexpress.net/khung-hoang-chi-phi-vien-duong-lao-o-anh-5058715.html) - 05:20 05/04/2026
+- 🐘 [Sự thật vụ bé gái Mỹ mất tích 32 năm trước](https://vnexpress.net/su-that-vu-be-gai-my-mat-tich-32-nam-truoc-5057331.html) - 04:32 05/04/2026
+- 🔥 [Lớp học &#39;nhập gia tùy tục&#39; cho người nước ngoài ở Hà Nội](https://vnexpress.net/lop-hoc-nhap-gia-tuy-tuc-cho-nguoi-nuoc-ngoai-o-ha-noi-5058607.html) - 23:00 04/04/2026
+- 🎃 [Tài xế ứng viện phí giúp khách lạ giữa đêm](https://vnexpress.net/tai-xe-ung-vien-phi-giup-khach-la-giua-dem-5058624.html) - 17:21 04/04/2026
+- 🥳 [Rủi ro khi coi hàng hiệu là kênh đầu tư](https://vnexpress.net/rui-ro-khi-coi-hang-hieu-la-kenh-dau-tu-5058487.html) - 05:09 04/04/2026<!-- vnexpress-doi-song:END -->
