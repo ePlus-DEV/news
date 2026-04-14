@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.10.0",
+    "@docusaurus/faster": "^3.10.0",
     "@docusaurus/preset-classic": "3.10.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
@@ -40,5 +41,8 @@
   },
   "engines": {
     "node": ">=20.0"
+  },
+  "resolutions": {
+    "webpackbar@npm:^6.0.1": "patch:webpackbar@npm%3A6.0.1#~/.yarn/patches/webpackbar-npm-6.0.1-a1c3e074a3.patch"
   }
 }
