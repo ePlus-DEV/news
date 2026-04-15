@@ -4,4 +4,53 @@ sidebar_position: 21
 ---
 
 <!-- thanhnien-dien-dan:START -->
-<!-- thanhnien-dien-dan:END -->
+- 🕴 [Grab tăng gi&amp;aacute;: T&amp;agrave;i xế thở ph&amp;agrave;o, người d&amp;ugrave;ng đắn đo](https://thanhnien.vn/grab-tang-gia-tai-xe-tho-phao-nguoi-dung-dan-do-1851437166.htm) - 03:40 10/03/2022
+- 💻 [B&amp;aacute;o Thanh Ni&amp;ecirc;n kh&amp;eacute;p lại &amp;#039;Diễn đ&amp;agrave;n văn h&amp;oacute;a giao th&amp;ocirc;ng&amp;#039;](https://thanhnien.vn/bao-thanh-nien-khep-lai-dien-dan-van-hoa-giao-thong-1851433988.htm) - 02:03 04/03/2022
+- 🦅 [Tuy&amp;ecirc;n truyền văn h&amp;oacute;a giao th&amp;ocirc;ng tr&amp;ecirc;n những chuyến ph&amp;agrave;](https://thanhnien.vn/tuyen-truyen-van-hoa-giao-thong-tren-nhung-chuyen-pha-1851435173.htm) - 00:02 04/03/2022
+- 🐵 [X&amp;acirc;y dựng văn h&amp;oacute;a an to&amp;agrave;n giao th&amp;ocirc;ng nh&amp;igrave;n từ một số nước tr&amp;ecirc;n thế giới](https://thanhnien.vn/xay-dung-van-hoa-an-toan-giao-thong-nhin-tu-cac-nuoc-1851435045.htm) - 08:36 03/03/2022
+- 💼 [C&amp;acirc;u chuyện giao th&amp;ocirc;ng ng&amp;agrave;y mưa ng&amp;agrave;y nắng](https://thanhnien.vn/cau-chuyen-giao-thong-ngay-mua-ngay-nang-1851434710.htm) - 00:51 03/03/2022
+- 🧑‍💻 [C&amp;acirc;u chuyện đẹp tr&amp;ecirc;n xe bu&amp;yacute;t](https://thanhnien.vn/cau-chuyen-dep-tren-xe-buyt-1851434410.htm) - 00:03 02/03/2022
+- 🤔 [Cố vượt đ&amp;egrave;n đỏ, hậu quả kh&amp;ocirc;n lường](https://thanhnien.vn/co-vuot-den-do-hau-qua-khon-luong-1851432711.htm) - 00:01 02/03/2022
+- 🎊 [B&amp;agrave;n về t&amp;iacute;nh cộng đồng trong văn h&amp;oacute;a giao th&amp;ocirc;ng](https://thanhnien.vn/ban-ve-tinh-cong-dong-trong-van-hoa-giao-thong-1851433869.htm) - 00:24 01/03/2022
+- 🤩 [Đ&amp;ocirc;i lời g&amp;oacute;p &amp;yacute; về &amp;acirc;m nhạc tr&amp;ecirc;n xe bu&amp;yacute;t](https://thanhnien.vn/doi-loi-gop-y-ve-am-nhac-tren-xe-buyt-1851432956.htm) - 01:30 28/02/2022
+- 💯 [X&amp;acirc;y dựng nếp sống văn h&amp;oacute;a giao th&amp;ocirc;ng ở n&amp;ocirc;ng th&amp;ocirc;n](https://thanhnien.vn/xay-dung-nep-song-van-hoa-giao-thong-o-nong-thon-1851432696.htm) - 02:35 25/02/2022
+- 🧰 [Đinh tai bởi tiếng c&amp;ograve;i xe](https://thanhnien.vn/dinh-tai-boi-tieng-coi-xe-1851431903.htm) - 06:46 22/02/2022
+- 🪜 [Nh&amp;acirc;n l&amp;ecirc;n c&amp;aacute;i đẹp, dẹp c&amp;aacute;i xấu](https://thanhnien.vn/nhan-len-cai-dep-dep-cai-xau-1851431655.htm) - 09:49 21/02/2022
+- 🎓 [X&amp;acirc;y dựng văn h&amp;oacute;a giao th&amp;ocirc;ng từ đội ngũ t&amp;agrave;i xế](https://thanhnien.vn/xay-dung-van-hoa-giao-thong-tu-doi-ngu-tai-xe-1851430868.htm) - 02:07 21/02/2022
+- 👍 [Hiểm nguy r&amp;igrave;nh rập khi v&amp;ocirc; số thứ lấn chiếm l&amp;ograve;ng đường](https://thanhnien.vn/hiem-nguy-rinh-rap-khi-vo-so-thu-lan-chiem-long-duong-1851430549.htm) - 01:15 18/02/2022
+- 🦅 [C&amp;ograve;n đ&amp;acirc;u h&amp;igrave;nh ảnh người lớn l&amp;agrave;m gương cho trẻ em?](https://thanhnien.vn/con-dau-hinh-anh-nguoi-lon-lam-guong-cho-tre-em-1851430252.htm) - 01:48 17/02/2022
+- 🤩 [T&amp;ocirc;i c&amp;oacute; 10 th&amp;oacute;i quen khi sử dụng xe m&amp;aacute;y](https://thanhnien.vn/toi-co-10-thoi-quen-khi-su-dung-xe-may-1851429885.htm) - 02:04 16/02/2022
+- 🔭 [Dạy học sinh đi xe đạp an to&amp;agrave;n](https://thanhnien.vn/day-hoc-sinh-di-xe-dap-an-toan-1851428332.htm) - 01:17 11/02/2022
+- 🦍 [L&amp;agrave;m g&amp;igrave; để khắc phục chuyện lấn chiếm vỉa h&amp;egrave;, l&amp;ograve;ng lề đường?](https://thanhnien.vn/lam-gi-de-khac-phuc-chuyen-lan-chiem-via-he-long-le-duong-1851425247.htm) - 23:28 09/02/2022
+- 🧑‍🏫 [Vun bồi văn h&amp;oacute;a giao th&amp;ocirc;ng từ trường học](https://thanhnien.vn/vun-boi-van-hoa-giao-thong-tu-truong-hoc-1851427402.htm) - 07:36 07/02/2022
+- 😎 [Nhiều trẻ chỉ &amp;ocirc;m hờ khi ngồi tr&amp;ecirc;n xe m&amp;aacute;y](https://thanhnien.vn/nhieu-tre-chi-om-ho-khi-ngoi-tren-xe-may-1851425226.htm) - 00:33 28/01/2022
+- 👀 [&amp;#039;Tại sao ba lại vượt đ&amp;egrave;n đỏ?&amp;#039;](https://thanhnien.vn/tai-sao-ba-lai-vuot-den-do-1851424274.htm) - 10:42 25/01/2022
+- 🚀 [T&amp;ocirc;i chọn vướng v&amp;iacute;u, t&amp;ocirc;i chọn an to&amp;agrave;n, c&amp;ograve;n bạn th&amp;igrave; sao?](https://thanhnien.vn/toi-chon-vuong-viu-toi-chon-an-toan-con-ban-thi-sao-1851424244.htm) - 08:37 24/01/2022
+- 🥸 [Xe chạy qu&amp;aacute; tốc độ giảm mạnh, TP.HCM tiếp tục &amp;#039;b&amp;ecirc;u t&amp;ecirc;n&amp;#039; xe qu&amp;aacute; tải](https://thanhnien.vn/xe-chay-qua-toc-do-giam-manh-tp-hcm-tiep-tuc-beu-ten-xe-qua-tai-1851424140.htm) - 03:03 24/01/2022
+- 🧑‍🏫 [Giật m&amp;igrave;nh khi b&amp;aacute;c t&amp;agrave;i đột ngột mở cửa xe &amp;ocirc; t&amp;ocirc;](https://thanhnien.vn/giat-minh-khi-bac-tai-dot-ngot-mo-cua-xe-o-to-1851423371.htm) - 08:10 21/01/2022
+- 🧑‍💻 [&amp;Ocirc; t&amp;ocirc; chạy qu&amp;aacute; tốc độ sẽ bị &amp;#039;b&amp;ecirc;u t&amp;ecirc;n&amp;#039; tr&amp;ecirc;n đường](https://thanhnien.vn/o-to-chay-qua-toc-do-se-bi-beu-ten-tren-duong-1851423078.htm) - 09:11 20/01/2022
+- 🧐 [Sao kh&amp;ocirc;ng dừng xe lại để nghe điện thoại?](https://thanhnien.vn/sao-khong-dung-xe-lai-de-nghe-dien-thoai-1851422757.htm) - 02:56 20/01/2022
+- 🌁 [Th&amp;agrave;nh phố đầu ti&amp;ecirc;n ở Việt Nam ph&amp;aacute;t triển giao th&amp;ocirc;ng điện](https://thanhnien.vn/thanh-pho-dau-tien-o-viet-nam-phat-trien-giao-thong-dien-1851422504.htm) - 23:46 18/01/2022
+- 🌋 [Th&amp;agrave;nh phố đầu ti&amp;ecirc;n ph&amp;aacute;t triển giao th&amp;ocirc;ng điện](https://thanhnien.vn/tp-hcm-se-la-thanh-pho-dau-tien-o-viet-nam-phat-trien-giao-thong-dien-1851422386.htm) - 10:32 18/01/2022
+- 🌏 [Tai nạn giao th&amp;ocirc;ng tại TP.HCM giảm mạnh nhất lịch sử](https://thanhnien.vn/tai-nan-giao-thong-tai-tp-hcm-giam-manh-nhat-lich-su-1851422239.htm) - 03:28 18/01/2022
+- 🤡 [Biển b&amp;aacute;o giao th&amp;ocirc;ng t&amp;ugrave;y tiện đủ kiểu](https://thanhnien.vn/bien-bao-giao-thong-tuy-tien-du-kieu-1851422049.htm) - 02:54 18/01/2022
+- 👹 [Lần sau h&amp;atilde;y đội 2 c&amp;aacute;i mũ bảo hiểm!](https://thanhnien.vn/lan-sau-hay-doi-2-cai-mu-bao-hiem-1851422024.htm) - 08:48 17/01/2022
+- 🤓 [Ph&amp;aacute;t hiện h&amp;agrave;nh vi ăn cắp xe đạp c&amp;ocirc;ng cộng sau 1 th&amp;aacute;ng th&amp;iacute; điểm](https://thanhnien.vn/phat-hien-hanh-vi-an-cap-xe-dap-cong-cong-sau-1-thang-thi-diem-1851421917.htm) - 04:37 17/01/2022
+- 🙉 [Văn h&amp;oacute;a giao th&amp;ocirc;ng nh&amp;igrave;n từ đại dịch Covid-19](https://thanhnien.vn/van-hoa-giao-thong-nhin-tu-dai-dich-covid-19-1851421517.htm) - 02:17 17/01/2022
+- 💪 [Chỗ đ&amp;acirc;u cho người đi bộ?](https://thanhnien.vn/cho-dau-cho-nguoi-di-bo-1851421055.htm) - 03:59 14/01/2022
+- 🏊 [Đi bộ qua đường : &amp;#039;mạnh ai nấy đi&amp;#039;](https://thanhnien.vn/di-bo-qua-duong-manh-ai-nay-di-1851420694.htm) - 01:05 14/01/2022
+- 💼 [&amp;#039;Đau đầu&amp;#039; với r&amp;aacute;c ngập đường](https://thanhnien.vn/dau-dau-voi-rac-ngap-duong-1851420524.htm) - 02:05 13/01/2022
+- 🦣 [X&amp;acirc;y dựng văn h&amp;oacute;a giao th&amp;ocirc;ng từ những việc nhỏ](https://thanhnien.vn/xay-dung-van-hoa-giao-thong-tu-nhung-viec-nho-1851420193.htm) - 08:02 12/01/2022
+- 🤖 [Khi t&amp;agrave;i xế h&amp;oacute;a... con nghiện](https://thanhnien.vn/khi-tai-xe-hoa-con-nghien-1851419300.htm) - 02:10 12/01/2022
+- 🦄 [Tranh c&amp;atilde;i khi xử l&amp;yacute; vi phạm giao th&amp;ocirc;ng, v&amp;igrave; sao? &lpar;kỳ 2&rpar;](https://thanhnien.vn/tranh-cai-khi-xu-ly-vi-pham-giao-thong-vi-sao-ky-2-1851419828.htm) - 02:10 12/01/2022
+- 🌁 [Tranh c&amp;atilde;i khi xử l&amp;yacute; vi phạm giao th&amp;ocirc;ng, v&amp;igrave; sao?](https://thanhnien.vn/tranh-cai-khi-xu-ly-vi-pham-giao-thong-vi-sao-1851419798.htm) - 01:33 11/01/2022
+- 🏊 [Kinh nghiệm &amp;#039;đ&amp;aacute;nh bại&amp;#039; cơn buồn ngủ khi l&amp;aacute;i xe](https://thanhnien.vn/kinh-nghiem-danh-bai-con-buon-ngu-khi-lai-xe-1851419772.htm) - 01:31 11/01/2022
+- 😺 [Chuyện bấm c&amp;ograve;i xe](https://thanhnien.vn/chuyen-bam-coi-xe-1851419613.htm) - 07:01 10/01/2022
+- 🥸 [X&amp;acirc;y dựng văn h&amp;oacute;a giao th&amp;ocirc;ng: Kh&amp;oacute; nhưng phải l&amp;agrave;m!](https://thanhnien.vn/xay-dung-van-hoa-giao-thong-kho-nhung-phai-lam-1851418873.htm) - 02:14 10/01/2022
+- 🥳 [&amp;#039;G&amp;oacute;c năn nỉ&amp;#039; dưới những tầng hầm để xe](https://thanhnien.vn/goc-nan-ni-duoi-nhung-tang-ham-de-xe-1851419491.htm) - 02:08 10/01/2022
+- 📝 [Rủi ro từ xe chở h&amp;agrave;ng cồng kềnh](https://thanhnien.vn/rui-ro-tu-xe-cho-hang-cong-kenh-1851418538.htm) - 01:29 07/01/2022
+- 🐻 [T&amp;agrave;i xế kh&amp;ocirc;ng phải l&amp;agrave; lựa chọn nghề nghiệp &amp;#039;đường c&amp;ugrave;ng&amp;#039;!](https://thanhnien.vn/tai-xe-khong-phai-la-lua-chon-nghe-nghiep-duong-cung-1851418536.htm) - 05:44 06/01/2022
+- 🧑‍💻 [20 năm nữa văn h&amp;oacute;a giao th&amp;ocirc;ng Việt Nam đạt ngưỡng &amp;#039;trưởng th&amp;agrave;nh&amp;#039;](https://thanhnien.vn/20-nam-nua-van-hoa-giao-thong-viet-nam-dat-nguong-truong-thanh-1851417832.htm) - 23:27 04/01/2022
+- 🎊 [B&amp;aacute;o Thanh Ni&amp;ecirc;n mở &amp;#039;Diễn đ&amp;agrave;n văn h&amp;oacute;a giao th&amp;ocirc;ng&amp;#039;](https://thanhnien.vn/bao-thanh-nien-mo-dien-dan-van-hoa-giao-thong-1851418003.htm) - 23:19 04/01/2022
+- 🐲 [2 ng&amp;agrave;y đầu năm, hơn 12.000 t&amp;agrave;i xế vi phạm bị xử l&amp;yacute;](https://thanhnien.vn/2-ngay-dau-nam-hon-12-000-tai-xe-vi-pham-bi-xu-ly-1851417497.htm) - 08:22 02/01/2022
+- 🔥 [B&amp;igrave;nh Định: Khởi tố t&amp;agrave;i xế g&amp;acirc;y tai nạn l&amp;agrave;m 2 người chết, 16 người bị thương](https://thanhnien.vn/binh-dinh-khoi-to-tai-xe-gay-tai-nan-lam-2-nguoi-chet-16-nguoi-bi-thuong-1851417271.htm) - 09:05 01/01/2022<!-- thanhnien-dien-dan:END -->
