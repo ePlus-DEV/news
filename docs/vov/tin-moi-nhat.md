@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Ông Trump nói gì sau thất bại của Thủ tướng Hungary Viktor Orbán](https://vov.vn/the-gioi/ong-trump-noi-gi-sau-that-bai-cua-thu-tuong-hungary-viktor-orban-post1284160.vov) - 08:30 15/04/2026
-- 🦍 [Doanh thu dưới 500 triệu đồng, hộ kinh doanh xuất hóa đơn điện tử có bị phạt?](https://vov.vn/kinh-te/doanh-thu-duoi-500-trieu-dong-ho-kinh-doanh-xuat-hoa-don-dien-tu-co-bi-phat-post1284122.vov) - 08:00 15/04/2026
-- 🦏 [Dự án MIC Tower 54 Tố Hữu: Xuất hiện tình trạng huy động vốn trái phép?](https://vov.vn/kinh-te/du-an-mic-tower-54-to-huu-xuat-hien-tinh-trang-huy-dong-von-trai-phep-post1284119.vov) - 07:48 15/04/2026
-- 😎 [Toàn cảnh quốc tế trưa 15/4: Mỹ ‘quay xe’ nối lại đàm phán, ép Iran chốt ‘thỏa thuận lớn’ trong 48h](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-154-my-quay-xe-noi-lai-dam-phan-ep-iran-chot-thoa-thuan-lon-trong-48h-post1284145.vov) - 07:47 15/04/2026
-- 💯 [Lễ ký kết một số văn kiện hợp tác tiêu biểu giữa Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/le-ky-ket-mot-so-van-kien-hop-tac-tieu-bieu-giua-viet-nam-trung-quoc-post1284128.vov) - 07:35 15/04/2026
-- 🦩 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng Bí thư, Chủ tịch nước Tập Cận Bình](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-bi-thu-chu-tich-nuoc-tap-can-binh-post1284135.vov) - 07:30 15/04/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng Bí thư, Chủ tịch nước Tập Cận Bình](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-bi-thu-chu-tich-nuoc-tap-can-binh-post1284135.vov) - 07:30 15/04/2026
-- 🦣 [Dầu tràm THERAPY 3M bị thu hồi do sai công thức nhưng vẫn bán tràn lan trên Shopee](https://vov.vn/thi-truong/dau-tram-therapy-3m-bi-thu-hoi-do-sai-cong-thuc-nhung-van-ban-tran-lan-tren-shopee-post1284086.vov) - 05:02 15/04/2026
-- 👹 [Người làm phát thanh tìm lối đi riêng trong kỷ nguyên số](https://vov.vn/xa-hoi/nguoi-lam-phat-thanh-tim-loi-di-rieng-trong-ky-nguyen-so-post1283704.vov) - 04:08 15/04/2026
-- 🫶 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước đến Trung Quốc](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-den-trung-quoc-post1284065.vov) - 03:44 15/04/2026
-- 😺 [Thủ tướng: Phấn đấu hoàn thành mục tiêu tăng trưởng bền vững 2 con số](https://vov.vn/chinh-tri/thu-tuong-phan-dau-hoan-thanh-muc-tieu-tang-truong-ben-vung-2-con-so-post1284031.vov) - 01:56 15/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Hiện thực hóa 5.000km cao tốc: Xung lực cho “kỷ nguyên vươn mình” của Việt Nam](https://vov.vn/xa-hoi/hien-thuc-hoa-5000km-cao-toc-xung-luc-cho-ky-nguyen-vuon-minh-cua-viet-nam-post1283394.vov) - 23:06 15/04/2026
+- 🦍 [Cận cảnh điểm nghẽn Phạm Tu - đường 70 được giải tỏa sau gần 10 năm trì trệ](https://vov.vn/xa-hoi/can-canh-diem-nghen-pham-tu-duong-70-duoc-giai-toa-sau-gan-10-nam-tri-tre-post1284022.vov) - 23:06 15/04/2026
+- 🦏 [Phong tỏa Hormuz: Đòn siết kinh tế của Mỹ và bài toán sinh tồn của Iran](https://vov.vn/the-gioi/quan-sat/phong-toa-hormuz-don-siet-kinh-te-cua-my-va-bai-toan-sinh-ton-cua-iran-post1284209.vov) - 23:00 15/04/2026
+- 😎 [Vì sao cần sửa đổi Luật Bảo vệ môi trường sau hơn 3 năm triển khai?](https://vov.vn/xa-hoi/vi-sao-can-sua-doi-luat-bao-ve-moi-truong-sau-hon-3-nam-trien-khai-post1284077.vov) - 23:00 15/04/2026
+- 💯 [Nghệ thuật số và di sản: Ranh giới mong manh giữa tái hiện và tái tạo](https://vov.vn/van-hoa/nghe-thuat-so-va-di-san-ranh-gioi-mong-manh-giua-tai-hien-va-tai-tao-post1284169.vov) - 23:00 15/04/2026
+- 🦩 [Chủ tịch Quốc hội Trần Thanh Mẫn dự Lễ khai mạc IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-du-le-khai-mac-ipu-152-post1284305.vov) - 22:38 15/04/2026
+- 💃 [Nóng thế giới ngày 16/4: Mỹ điều hơn 1 vạn binh sĩ phong tỏa cảng Iran](https://vov.vn/the-gioi/nong-the-gioi-ngay-164-my-dieu-hon-1-van-binh-si-phong-toa-cang-iran-post1284218.vov) - 22:30 15/04/2026
+- 🦣 [Ông Nguyễn Minh Triết: Tạo đột phá nhân lực trẻ trong chuyển đổi số](https://vov.vn/chinh-tri/ong-nguyen-minh-triet-tao-dot-pha-nhan-luc-tre-trong-chuyen-doi-so-post1283226.vov) - 22:00 15/04/2026
+- 👹 [Giá dầu hôm nay 16/4: Giá dầu thế giới tăng lên 96,09 USD USD/thùng](https://vov.vn/thi-truong/gia-dau-hom-nay-164-gia-dau-the-gioi-tang-len-9609-usd-usdthung-post1284247.vov) - 22:00 15/04/2026
+- 🫶 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 16/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-164-post1284219.vov) - 22:00 15/04/2026
+- 😺 [Phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại buổi Gặp gỡ hữu nghị thế hệ trẻ Việt-Trung](https://vov.vn/chinh-tri/phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-buoi-gap-go-huu-nghi-the-he-tre-viet-trung-post1284289.vov) - 16:02 15/04/2026<!-- vov-tin-moi-nhat:END -->
