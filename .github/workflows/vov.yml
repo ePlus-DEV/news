@@ -2,6 +2,10 @@ name: "Cronjob VOV"
 on:
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   vov_job:
     name: VOV - ${{ matrix.rand_seed }}
