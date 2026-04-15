@@ -4,4 +4,53 @@ sidebar_position: 19
 ---
 
 <!-- nld-thi-truong:START -->
-<!-- nld-thi-truong:END -->
+- 🐵 [Chủ tịch Haxaco chia sẻ bí quyết thành công khi mở đại lý VinFast](https://nld.com.vn/chu-tich-haxaco-chia-se-bi-quyet-thanh-cong-khi-mo-dai-ly-vinfast-196260415120954055.htm) - 06:38 15/04/2026
+- 👹 [Boulevard Prime - Siêu phẩm nhà phố đón dòng tiền 24/7 từ “vũ trụ không ngủ” Cosmo Bay](https://nld.com.vn/boulevard-prime-sieu-pham-nha-pho-don-dong-tien-24-7-tu-vu-tru-khong-ngu-cosmo-bay-196260415115550824.htm) - 06:37 15/04/2026
+- 🚀 [Mondelez Kinh Đô nâng cao nhận thức rác thải nhựa cho học sinh tiểu học](https://thitruong.nld.com.vn/mondelez-kinh-do-nang-cao-nhan-thuc-rac-thai-nhua-cho-hoc-sinh-tieu-hoc-196260415105212092.htm) - 06:37 15/04/2026
+- 🌈 [Techcombank và Hệ sinh thái đồng hành cùng VTV đưa FIFA World Cup 2026™ về Việt Nam](https://nld.com.vn/techcombank-va-he-sinh-thai-dong-hanh-cung-vtv-dua-fifa-world-cup-2026-ve-viet-nam-196260414204657054.htm) - 03:25 15/04/2026
+- 🦣 [Hàng nghìn người lao động lựa chọn Mì 3 Miền Gold tại “Chương trình Tiêu Dùng Xanh”](https://nld.com.vn/hang-nghin-nguoi-lao-dong-lua-chon-mi-3-mien-gold-tai-chuong-trinh-tieu-dung-xanh-19626041415431202.htm) - 09:59 14/04/2026
+- 🤓 [Đột phá trong công nghệ ghép tạng động vật cho người](https://nld.com.vn/dot-pha-trong-cong-nghe-ghep-tang-dong-vat-cho-nguoi-196260414160937722.htm) - 09:58 14/04/2026
+- 👨‍🏫 [100 doanh nghiệp tại TP HCM chậm đóng BHXH](https://thitruong.nld.com.vn/100-doanh-nghiep-tai-tp-hcm-cham-dong-bhxh-196260413144855151.htm) - 08:12 13/04/2026
+- 🧰 [VIB Privilege Banking - Chuẩn mực mới cho Ngân hàng ưu tiên](https://nld.com.vn/vib-privilege-banking-chuan-muc-moi-cho-ngan-hang-uu-tien-19626041314222915.htm) - 08:12 13/04/2026
+- 🎓 [Agribank hạ lãi suất, khẳng định vai trò ngân hàng chủ lực](https://thitruong.nld.com.vn/agribank-ha-lai-suat-khang-dinh-vai-tro-ngan-hang-chu-luc-196260411210442946.htm) - 14:13 11/04/2026
+- 🌊 [&quot;Lá chắn&quot; kép chống nóng và chống thấm: Giải pháp tối ưu cho mái nhà xưởng](https://thitruong.nld.com.vn/la-chan-kep-chong-nong-va-chong-tham-giai-phap-toi-uu-cho-mai-nha-xuong-196260411112538736.htm) - 05:22 11/04/2026
+- 💫 [Chăm sóc trẻ mắc tay chân miệng: những sai lầm cần tránh khi chăm sóc trẻ tại nhà](https://thitruong.nld.com.vn/cham-soc-tre-mac-tay-chan-mieng-nhung-sai-lam-can-tranh-khi-cham-soc-tre-tai-nha-196260411110506567.htm) - 05:21 11/04/2026
+- 🧐 [Nam A Bank bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng giám đốc](https://nld.com.vn/nam-a-bank-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-196260410173802574.htm) - 10:40 10/04/2026
+- 🧐 [HDBank tung combo tài chính trọng điểm](https://nld.com.vn/hdbank-tung-combo-tai-chinh-trong-diem-196260410173528472.htm) - 10:39 10/04/2026
+- 🪜 [Từ thói quen nhỏ đến niềm vui lớn của khách hàng FE CREDIT](https://thitruong.nld.com.vn/tu-thoi-quen-nho-den-niem-vui-lon-cua-khach-hang-fe-credit-196260410144040899.htm) - 09:30 10/04/2026
+- 📝 [Sức hút của “Đất dụng võ cho nhân tài - NovaGroup” trong chu kỳ tăng tốc mới](https://thitruong.nld.com.vn/suc-hut-cua-dat-dung-vo-cho-nhan-tai-novagroup-trong-chu-ky-tang-toc-moi-196260410155653387.htm) - 09:08 10/04/2026
+- 💃 [SHB ký kết thỏa thuận phát hành riêng lẻ với hàng loạt quỹ đầu tư lớn](https://thitruong.nld.com.vn/shb-ky-ket-thoa-thuan-phat-hanh-rieng-le-voi-hang-loat-quy-dau-tu-lon-196260410144510549.htm) - 07:59 10/04/2026
+- 🎊 [Hưởng ứng Ngày Hợp tác xã Việt Nam, Saigon Co.op đẩy mạnh tiêu thụ hàng OCOP](https://thitruong.nld.com.vn/huong-ung-ngay-hop-tac-xa-viet-nam-saigon-coop-day-manh-tieu-thu-hang-ocop-196260410081115959.htm) - 01:19 10/04/2026
+- 💼 [Techcombank – đối tác tài chính hàng đầu đồng hành cùng SME kiến tạo “Việt Nam mới”](https://thitruong.nld.com.vn/techcombank-doi-tac-tai-chinh-hang-dau-dong-hanh-cung-sme-kien-tao-viet-nam-moi-196260409221747575.htm) - 15:34 09/04/2026
+- 🪄 [PVOIL giữ vững “mạch nguồn” xăng dầu trong quý I-2026](https://thitruong.nld.com.vn/pvoil-giu-vung-mach-nguon-xang-dau-trong-quy-i-2026-19626040915013047.htm) - 08:03 09/04/2026
+- 🔭 [VietinBank ghi dấu ấn quốc tế với hai giải thưởng ngân hàng doanh nghiệp](https://thitruong.nld.com.vn/vietinbank-ghi-dau-an-quoc-te-voi-hai-giai-thuong-ngan-hang-doanh-nghiep-196260409095456085.htm) - 02:57 09/04/2026
+- 🧠 [Chứng khoán Việt Nam nâng hạng, chính thức vào rổ chỉ số toàn cầu FTSE Global All Cap](https://thitruong.nld.com.vn/chung-khoan-viet-nam-nang-hang-chinh-thuc-vao-ro-chi-so-toan-cau-ftse-global-all-cap-196260408225051073.htm) - 01:53 09/04/2026
+- 🤓 [Gen Z bất ngờ khi mục sở thị nhà máy sản xuất Trà Mật Ong BONCHA](https://nld.com.vn/gen-z-bat-ngo-khi-muc-so-thi-nha-may-san-xuat-tra-mat-ong-boncha-196260408180508934.htm) - 01:00 09/04/2026
+- 🔭 [ABB ra mắt máy cắt không khí đạt chuẩn an ninh mạng đầu tiên trên thế giới](https://thitruong.nld.com.vn/abb-ra-mat-may-cat-khong-khi-dat-chuan-an-ninh-mang-dau-tien-tren-the-gioi-196260408210843891.htm) - 14:17 08/04/2026
+- 🦒 [Thương hiệu Phân bón Đầu Trâu: Khẳng định vị thế từ niềm tin người tiêu dùng](https://nld.com.vn/thuong-hieu-phan-bon-dau-trau-khang-dinh-vi-the-tu-niem-tin-nguoi-tieu-dung-19626040815410829.htm) - 10:30 08/04/2026
+- 🤭 [HDBank công bố tài liệu ĐHĐCĐ 2026: Lợi nhuận vượt 30 ngàn tỉ đồng, quy mô tiến sát 1,2 triệu tỉ](https://nld.com.vn/hdbank-cong-bo-tai-lieu-dhdcd-2026-loi-nhuan-vuot-30-ngan-ti-dong-quy-mo-tien-sat-12-trieu-ti-196260408152424201.htm) - 10:29 08/04/2026
+- 🧑‍🏫 [Giải đi bộ ba thế hệ Green Family Walk: Tuổi vàng, tuổi trẻ và tuổi thơ chung nhịp bước](https://nld.com.vn/giai-di-bo-ba-the-he-green-family-walk-tuoi-vang-tuoi-tre-va-tuoi-tho-chung-nhip-buoc-196260408145430299.htm) - 10:28 08/04/2026
+- 🧠 [CMES Việt Nam 2026: Triển lãm sản xuất miền Bắc tháng 8 này](https://nld.com.vn/cmes-viet-nam-2026-trien-lam-san-xuat-mien-bac-thang-8-nay-196260408111226034.htm) - 05:26 08/04/2026
+- 🎭 [Giải chạy đêm TP HCM lần 5 trở lại, dự kiến hút 6.000 vận động viên](https://thitruong.nld.com.vn/giai-chay-dem-tp-hcm-lan-5-tro-lai-du-kien-hut-6000-van-dong-vien-196260408101446095.htm) - 03:55 08/04/2026
+- 🧐 [Viettel Construction triển khai mục tiêu phủ 3.321 công trình trên toàn quốc](https://thitruong.nld.com.vn/viettel-construction-trien-khai-muc-tieu-phu-3321-cong-trinh-tren-toan-quoc-196260408100848905.htm) - 03:54 08/04/2026
+- 🤔 [Vietjet tăng cường khai thác 832.000 chỗ phục vụ cao điểm Lễ 30-4 và 1-5](https://thitruong.nld.com.vn/vietjet-tang-cuong-khai-thac-832000-cho-phuc-vu-cao-diem-le-30-4-va-1-5-196260408075714734.htm) - 01:08 08/04/2026
+- 🏊 [AEON giữ giá ổn định, san sẻ áp lực chi phí cùng khách hàng](https://thitruong.nld.com.vn/aeon-giu-gia-on-dinh-san-se-ap-luc-chi-phi-cung-khach-hang-196260407175229534.htm) - 10:59 07/04/2026
+- 🦣 [Vinhomes Green Paradise tiếp tục “đánh thức” Cần Giờ bằng giải chạy xanh](https://nld.com.vn/vinhomes-green-paradise-tiep-tuc-danh-thuc-can-gio-bang-giai-chay-xanh-196260406173338196.htm) - 02:46 07/04/2026
+- 🦣 [Giải pháp chăm sóc sức khỏe tự nhiên được nhiều người tin chọn](https://thitruong.nld.com.vn/giai-phap-cham-soc-suc-khoe-tu-nhien-duoc-nhieu-nguoi-tin-chon-196260406170935866.htm) - 01:00 07/04/2026
+- 🐵 [Điện mặt trời tại Cảng quốc tế Chu Lai](https://thitruong.nld.com.vn/dien-mat-troi-tai-cang-quoc-te-chu-lai-196260406172825162.htm) - 10:32 06/04/2026
+- 🌋 [Lần đầu tiên đăng ký hồ sơ giải bóng đá U9, U11 vào hệ thống FIFA Connect Việt Nam](https://nld.com.vn/lan-dau-tien-dang-ky-ho-so-giai-bong-da-u9-u11-vao-he-thong-fifa-connect-viet-nam-19626040617272716.htm) - 10:31 06/04/2026
+- 🐻 [Yến sào Khánh Hòa: 700 năm xây dựng, trao truyền và phát triển](https://thitruong.nld.com.vn/yen-sao-khanh-hoa-700-nam-xay-dung-trao-truyen-va-phat-trien-196260406152118482.htm) - 08:37 06/04/2026
+- 💃 [TTC Education khánh thành Trường Tiểu học Yersin Biên Hòa](https://thitruong.nld.com.vn/ttc-education-khanh-thanh-truong-tieu-hoc-yersin-bien-hoa-196260406110242155.htm) - 04:19 06/04/2026
+- 💃 [Bình Điền vượt 10.000 tỉ đồng doanh thu, khẳng định vị thế dẫn đầu ngành phân bón](https://nld.com.vn/binh-dien-vuot-10000-ti-dong-doanh-thu-khang-dinh-vi-the-dan-dau-nganh-phan-bon-196260405085302796.htm) - 01:52 05/04/2026
+- 📝 [Đại học Quản lý Singapore &lpar;SMU&rpar; tiếp tục thăng hạng trong xếp hạng ngành học QS](https://nld.com.vn/dai-hoc-quan-ly-singapore-smu-tiep-tuc-thang-hang-trong-xep-hang-nganh-hoc-qs-196260403191819324.htm) - 12:18 03/04/2026
+- 🌈 [Vietjet giảm 100% giá vé mừng ngày đôi 4-4](https://thitruong.nld.com.vn/vietjet-giam-100-gia-ve-mung-ngay-doi-4-4-196260403173107854.htm) - 10:35 03/04/2026
+- 🤖 [Công ty Thủy điện Buôn Kuốp sẵn sàng cho mùa khô 2026](https://thitruong.nld.com.vn/cong-ty-thuy-dien-buon-kuop-san-sang-cho-mua-kho-2026-196260403172707134.htm) - 10:34 03/04/2026
+- 🎓 [Mùa khô 2026: Nhiệt điện Vĩnh Tân chủ động nhiều phương án](https://thitruong.nld.com.vn/mua-kho-2026-nhiet-dien-vinh-tan-chu-dong-nhieu-phuong-an-196260403172407882.htm) - 10:34 03/04/2026
+- 👺 [Môi trường sống và bài toán tương lai con trẻ: Vì sao Hội An được quan tâm?](https://thitruong.nld.com.vn/moi-truong-song-va-bai-toan-tuong-lai-con-tre-vi-sao-hoi-an-duoc-quan-tam-196260403170755623.htm) - 10:25 03/04/2026
+- 🐻 [Nam A Bank Quý I-2026: Tối ưu hóa hiệu suất vốn và kiểm soát rủi ro toàn diện](https://nld.com.vn/nam-a-bank-quy-i-2026-toi-uu-hoa-hieu-suat-von-va-kiem-soat-rui-ro-toan-dien-196260403164940847.htm) - 10:23 03/04/2026
+- 🙉 [Vinhomes Green City: Tiện ích sắp về đích, 5 năm không lo lãi suất](https://thitruong.nld.com.vn/vinhomes-green-city-tien-ich-sap-ve-dich-5-nam-khong-lo-lai-suat-196260403171721301.htm) - 10:22 03/04/2026
+- 🧰 [Vinhomes Green Paradise khởi động giải đi bộ “Green Family Walk”](https://thitruong.nld.com.vn/vinhomes-green-paradise-khoi-dong-giai-di-bo-green-family-walk-196260403170807892.htm) - 10:22 03/04/2026
+- 💼 [“Việc làm như ý - Lì xì hết ý”: Niềm tin khơi thông thị trường lao động 2026](https://nld.com.vn/viec-lam-nhu-y-li-xi-het-y-niem-tin-khoi-thong-thi-truong-lao-dong-2026-196260402093602693.htm) - 01:00 03/04/2026
+- 🕴 [Thợ Điện máy XANH: Khi dịch vụ tại gia mang &quot;DNA&quot; chính quy của những tập đoàn điện lạnh](https://nld.com.vn/tho-dien-may-xanh-khi-dich-vu-tai-gia-mang-dna-chinh-quy-cua-nhung-tap-doan-dien-lanh-196260402162819428.htm) - 12:30 02/04/2026
+- 🐎 [Bảo hiểm số OPES chi trả gần 1 tỉ đồng cho gia đình khách mua bảo hiểm](https://nld.com.vn/bao-hiem-so-opes-chi-tra-gan-1-ti-dong-cho-gia-dinh-khach-mua-bao-hiem-196260402151222949.htm) - 08:18 02/04/2026
+- 🥸 [Techcombank và Masterise Group mang “Tinh hoa Pháp” về Việt Nam, tôn vinh di sản nghệ thuật độc bản](https://nld.com.vn/techcombank-va-masterise-group-mang-tinh-hoa-phap-ve-viet-nam-ton-vinh-di-san-nghe-thuat-doc-ban-19626040214434131.htm) - 07:48 02/04/2026<!-- nld-thi-truong:END -->
