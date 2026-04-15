@@ -23,8 +23,8 @@ sidebar_position: 4
 - 💫 [Tạo &amp;quot;cú hích&amp;quot; từ thể chế để hướng tới mục tiêu tăng trưởng hai con số](https://vov.vn/kinh-te/tao-cu-hich-tu-the-che-de-huong-toi-muc-tieu-tang-truong-hai-con-so-post1283659.vov) - 00:30 14/04/2026
 - 🥷 [Giá vật liệu tăng, lao động “nhảy việc”, doanh nghiệp xây dựng khó giữ tiến độ](https://vov.vn/thi-truong/gia-vat-lieu-tang-lao-dong-nhay-viec-doanh-nghiep-xay-dung-kho-giu-tien-do-post1283629.vov) - 00:00 14/04/2026
 - 🧑‍💻 [IEA, IMF và Ngân hàng Thế giới cảnh báo cú sốc năng lượng và kinh tế toàn cầu](https://vov.vn/kinh-te/iea-imf-va-ngan-hang-the-gioi-canh-bao-cu-soc-nang-luong-va-kinh-te-toan-cau-post1283714.vov) - 23:00 13/04/2026
-- 🌏 [Loại quả vỏ vàng, vị ngọt thơm mùi ổi “hút khách”](https://vov.vn/kinh-te/loai-qua-vo-vang-vi-ngot-thom-mui-oi-hut-khach-post1283618.vov) - 23:00 13/04/2026
-- 🧑‍🏫 [Dự án &amp;quot;siêu hồ&amp;quot; nghìn tỷ giảm ngập cho khu vực phía Đông Hà Nội tiến độ đến đâu?](https://vov.vn/kinh-te/du-an-sieu-ho-nghin-ty-giam-ngap-cho-khu-vuc-phia-dong-ha-noi-tien-do-den-dau-post1283552.vov) - 23:00 13/04/2026
+- 🌏 [Dự án &amp;quot;siêu hồ&amp;quot; nghìn tỷ giảm ngập cho khu vực phía Đông Hà Nội tiến độ đến đâu?](https://vov.vn/kinh-te/du-an-sieu-ho-nghin-ty-giam-ngap-cho-khu-vuc-phia-dong-ha-noi-tien-do-den-dau-post1283552.vov) - 23:00 13/04/2026
+- 🧑‍🏫 [Loại quả vỏ vàng, vị ngọt thơm mùi ổi “hút khách”](https://vov.vn/kinh-te/loai-qua-vo-vang-vi-ngot-thom-mui-oi-hut-khach-post1283618.vov) - 23:00 13/04/2026
 - 🎭 [Ninh Bình lập tổ công tác liên ngành chống khai thác thủy sản bất hợp pháp](https://vov.vn/kinh-te/ninh-binh-lap-to-cong-tac-lien-nganh-chong-khai-thac-thuy-san-bat-hop-phap-post1283666.vov) - 14:54 13/04/2026
 - 🌏 [40 năm đổi mới: Doanh nghiệp Nhà nước thể hiện vai trò chủ đạo của nền kinh tế](https://vov.vn/kinh-te/40-nam-doi-moi-doanh-nghiep-nha-nuoc-the-hien-vai-tro-chu-dao-cua-nen-kinh-te-post1283643.vov) - 10:34 13/04/2026
 - 🤖 [Cá bớp nuôi lồng ở Lý Sơn chết hơn 90 tấn, thiệt hại hơn 16 tỷ đồng](https://vov.vn/kinh-te/ca-bop-nuoi-long-o-ly-son-chet-hon-90-tan-thiet-hai-hon-16-ty-dong-post1283600.vov) - 09:50 13/04/2026
@@ -35,8 +35,8 @@ sidebar_position: 4
 - 🗽 [Hộ kinh doanh mới, doanh thu dưới 500 triệu không phải báo tài khoản trước 20/4](https://vov.vn/kinh-te/ho-kinh-doanh-moi-doanh-thu-duoi-500-trieu-khong-phai-bao-tai-khoan-truoc-204-post1283522.vov) - 04:32 13/04/2026
 - 🌈 [Nông dân Cần Thơ chuyển từ lúa vụ 3 sang trồng cây màu, tăng thu nhập mùa khô](https://vov.vn/kinh-te/nong-dan-can-tho-chuyen-tu-lua-vu-3-sang-trong-cay-mau-tang-thu-nhap-mua-kho-post1283515.vov) - 04:27 13/04/2026
 - 👍 [&amp;quot;Nước rút&amp;quot; mở rộng cao tốc TP.HCM - Long Thành, nhiều nhà thầu chậm tiến độ](https://vov.vn/kinh-te/nuoc-rut-mo-rong-cao-toc-tphcm-long-thanh-nhieu-nha-thau-cham-tien-do-post1283200.vov) - 02:37 13/04/2026
-- 🤩 [Chiến lược tăng trưởng xuất khẩu 2026 chuyển dịch từ lượng đến chất](https://vov.vn/kinh-te/chien-luoc-tang-truong-xuat-khau-2026-chuyen-dich-tu-luong-den-chat-post1283364.vov) - 01:00 13/04/2026
-- 🥸 [BIM Land giới thiệu tòa tháp The Sea: Dấu ấn kiêu hãnh bên vịnh du thuyền](https://vov.vn/kinh-te/bat-dong-san/bim-land-gioi-thieu-toa-thap-the-sea-dau-an-kieu-hanh-ben-vinh-du-thuyen-post1282984.vov) - 01:00 13/04/2026
+- 🤩 [BIM Land giới thiệu tòa tháp The Sea: Dấu ấn kiêu hãnh bên vịnh du thuyền](https://vov.vn/kinh-te/bat-dong-san/bim-land-gioi-thieu-toa-thap-the-sea-dau-an-kieu-hanh-ben-vinh-du-thuyen-post1282984.vov) - 01:00 13/04/2026
+- 🥸 [Chiến lược tăng trưởng xuất khẩu 2026 chuyển dịch từ lượng đến chất](https://vov.vn/kinh-te/chien-luoc-tang-truong-xuat-khau-2026-chuyen-dich-tu-luong-den-chat-post1283364.vov) - 01:00 13/04/2026
 - 🦍 [Mở lối để doanh nghiệp tư nhân có thể “đi đường dài&amp;quot;](https://vov.vn/kinh-te/mo-loi-de-doanh-nghiep-tu-nhan-co-the-di-duong-dai-post1283354.vov) - 00:10 13/04/2026
 - 🌏 [Lùng mua đặc sản “chỉ lùi không tiến” ở Phú Quốc](https://vov.vn/kinh-te/lung-mua-dac-san-chi-lui-khong-tien-o-phu-quoc-post1283404.vov) - 23:00 12/04/2026
 - 🧐 [Doanh nghiệp New Zealand lo ngại về tình hình kinh tế](https://vov.vn/kinh-te/doanh-nghiep-new-zealand-lo-ngai-ve-tinh-hinh-kinh-te-post1283426.vov) - 12:36 12/04/2026
