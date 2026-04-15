@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull in VietnamPlus news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.2
+        uses: ePlus-DEV/blog-post-workflow@v1
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}
