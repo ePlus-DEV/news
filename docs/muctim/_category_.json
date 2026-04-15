@@ -1,0 +1,9 @@
+{
+  "label": "Báo Mực Tím",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo Mực Tím.",
+    "slug": "muctim"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Báo Lao Động",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo Lao Động.",
+    "slug": "laodong"
+  }
+}

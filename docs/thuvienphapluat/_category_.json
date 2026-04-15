@@ -1,0 +1,9 @@
+{
+  "label": "Thư Viện Pháp Luật",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Thư Viện Pháp Luật.",
+    "slug": "thuvienphapluat"
+  }
+}

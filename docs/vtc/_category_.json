@@ -1,0 +1,9 @@
+{
+  "label": "Báo VTC",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo VTC.",
+    "slug": "vtc"
+  }
+}

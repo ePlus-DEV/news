@@ -1,0 +1,9 @@
+{
+  "label": "Báo Hoa Học Trò",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo Hoa Học Trò.",
+    "slug": "hoahoctro"
+  }
+}
