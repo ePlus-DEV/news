@@ -1,0 +1,9 @@
+{
+  "label": "Báo SGGP",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo SGGP.",
+    "slug": "sggp"
+  }
+}
