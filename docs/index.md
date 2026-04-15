@@ -653,10 +653,6 @@ nhưng xử lý chậm](https://thanhnien.vn/giam-sat-den-cung-khong-de-kien-ngh
 - 🦏 [Ai cản đường Phương Mỹ Chi?](https://tienphong.vn/ai-can-duong-phuong-my-chi-post1759238.tpo) - 16:47 11/07/2025
 - 🤩 [Bắt nghi can giết tài xế xe ôm, cướp tài sản ở Đồng Nai](https://tienphong.vn/bat-nghi-can-giet-tai-xe-xe-om-cuop-tai-san-o-dong-nai-post1759368.tpo) - 16:38 11/07/2025<!-- hoahoctro:END -->
 
-<div align="right">
-    Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
-</div>
-
 ## Báo Nhân Dân
 <!-- nhandan:START -->
 - Đang cập nhật dữ liệu...
@@ -677,3 +673,6 @@ nhưng xử lý chậm](https://thanhnien.vn/giam-sat-den-cung-khong-de-kien-ngh
 - Đang cập nhật dữ liệu...
 <!-- vov:END -->
 
+<div align="right">
+    Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
+</div>
