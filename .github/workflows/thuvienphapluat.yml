@@ -12,7 +12,7 @@ jobs:
     name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 1
+      fail-fast: false
       matrix:
         include:
           - feed_list: "https://thuvienphapluat.vn/rss.xml"
@@ -26,7 +26,9 @@ jobs:
       - name: Pull in Thư Viện Pháp Luật news
         uses: ePlus-DEV/blog-post-workflow@v1
         with:
-          retry_count: 5
+          retry_count: 1
+          request_timeout: 15
+          push_retry_count: 10
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
