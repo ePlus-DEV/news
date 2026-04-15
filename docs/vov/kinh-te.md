@@ -24,8 +24,8 @@ sidebar_position: 4
 - 🥷 [Tạo &amp;quot;cú hích&amp;quot; từ thể chế để hướng tới mục tiêu tăng trưởng hai con số](https://vov.vn/kinh-te/tao-cu-hich-tu-the-che-de-huong-toi-muc-tieu-tang-truong-hai-con-so-post1283659.vov) - 00:30 14/04/2026
 - 🧑‍💻 [Giá vật liệu tăng, lao động “nhảy việc”, doanh nghiệp xây dựng khó giữ tiến độ](https://vov.vn/thi-truong/gia-vat-lieu-tang-lao-dong-nhay-viec-doanh-nghiep-xay-dung-kho-giu-tien-do-post1283629.vov) - 00:00 14/04/2026
 - 🌏 [IEA, IMF và Ngân hàng Thế giới cảnh báo cú sốc năng lượng và kinh tế toàn cầu](https://vov.vn/kinh-te/iea-imf-va-ngan-hang-the-gioi-canh-bao-cu-soc-nang-luong-va-kinh-te-toan-cau-post1283714.vov) - 23:00 13/04/2026
-- 🧑‍🏫 [Dự án &amp;quot;siêu hồ&amp;quot; nghìn tỷ giảm ngập cho khu vực phía Đông Hà Nội tiến độ đến đâu?](https://vov.vn/kinh-te/du-an-sieu-ho-nghin-ty-giam-ngap-cho-khu-vuc-phia-dong-ha-noi-tien-do-den-dau-post1283552.vov) - 23:00 13/04/2026
-- 🎭 [Loại quả vỏ vàng, vị ngọt thơm mùi ổi “hút khách”](https://vov.vn/kinh-te/loai-qua-vo-vang-vi-ngot-thom-mui-oi-hut-khach-post1283618.vov) - 23:00 13/04/2026
+- 🧑‍🏫 [Loại quả vỏ vàng, vị ngọt thơm mùi ổi “hút khách”](https://vov.vn/kinh-te/loai-qua-vo-vang-vi-ngot-thom-mui-oi-hut-khach-post1283618.vov) - 23:00 13/04/2026
+- 🎭 [Dự án &amp;quot;siêu hồ&amp;quot; nghìn tỷ giảm ngập cho khu vực phía Đông Hà Nội tiến độ đến đâu?](https://vov.vn/kinh-te/du-an-sieu-ho-nghin-ty-giam-ngap-cho-khu-vuc-phia-dong-ha-noi-tien-do-den-dau-post1283552.vov) - 23:00 13/04/2026
 - 🌏 [Ninh Bình lập tổ công tác liên ngành chống khai thác thủy sản bất hợp pháp](https://vov.vn/kinh-te/ninh-binh-lap-to-cong-tac-lien-nganh-chong-khai-thac-thuy-san-bat-hop-phap-post1283666.vov) - 14:54 13/04/2026
 - 🤖 [40 năm đổi mới: Doanh nghiệp Nhà nước thể hiện vai trò chủ đạo của nền kinh tế](https://vov.vn/kinh-te/40-nam-doi-moi-doanh-nghiep-nha-nuoc-the-hien-vai-tro-chu-dao-cua-nen-kinh-te-post1283643.vov) - 10:34 13/04/2026
 - ⛽️ [Cá bớp nuôi lồng ở Lý Sơn chết hơn 90 tấn, thiệt hại hơn 16 tỷ đồng](https://vov.vn/kinh-te/ca-bop-nuoi-long-o-ly-son-chet-hon-90-tan-thiet-hai-hon-16-ty-dong-post1283600.vov) - 09:50 13/04/2026
