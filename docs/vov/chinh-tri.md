@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Nâng cao kỹ năng sáng tác tác phẩm chính luận bảo vệ nền tảng tư tưởng của Đảng](https://vov.vn/chinh-tri/nang-cao-ky-nang-sang-tac-tac-pham-chinh-luan-bao-ve-nen-tang-tu-tuong-cua-dang-post1284087.vov) - 04:38 15/04/2026
-- 💃 [Ông Nguyễn Hoàng Long được giao quyền Chánh Văn phòng UBND TP Hải Phòng](https://vov.vn/chinh-tri/ong-nguyen-hoang-long-duoc-giao-quyen-chanh-van-phong-ubnd-tp-hai-phong-post1284078.vov) - 04:19 15/04/2026
-- 🫶 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước đến Trung Quốc](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-den-trung-quoc-post1284065.vov) - 03:44 15/04/2026
-- 👨‍🏫 [Thủ tướng: Phấn đấu hoàn thành mục tiêu tăng trưởng bền vững 2 con số](https://vov.vn/chinh-tri/thu-tuong-phan-dau-hoan-thanh-muc-tieu-tang-truong-ben-vung-2-con-so-post1284031.vov) - 01:56 15/04/2026
-- 🪜 [Cà Mau chỉ đạo rà soát, xử lý tình trạng thiếu biên chế ở xã Tân Thuận](https://vov.vn/chinh-tri/ca-mau-chi-dao-ra-soat-xu-ly-tinh-trang-thieu-bien-che-o-xa-tan-thuan-post1283746.vov) - 23:28 14/04/2026
-- 🌋 [Chủ tịch Quốc hội Trần Thanh Mẫn tham dự IPU-152, nâng tầm vị thế Việt Nam](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tham-du-ipu-152-nang-tam-vi-the-viet-nam-post1284002.vov) - 22:59 14/04/2026
-- 🎉 [Khơi dậy sức mạnh văn hóa, con người Việt Nam trong thời đại mới](https://vov.vn/chinh-tri/khoi-day-suc-manh-van-hoa-con-nguoi-viet-nam-trong-thoi-dai-moi-post1283605.vov) - 22:30 14/04/2026
-- 🌝 [Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm Chủ tịch Hạ viện Italia Lorenzo Fontana](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-dam-chu-tich-ha-vien-italia-lorenzo-fontana-post1283998.vov) - 22:14 14/04/2026
-- 🏊 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Tổng thống Italia Sergio Mattarella](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-tong-thong-italia-sergio-mattarella-post1283997.vov) - 22:09 14/04/2026
-- 🧑‍💻 [Sửa luật để tháo điểm nghẽn, khơi thông nguồn lực quốc gia](https://vov.vn/chinh-tri/sua-luat-de-thao-diem-nghen-khoi-thong-nguon-luc-quoc-gia-post1283826.vov) - 22:00 14/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt nhân sỹ hữu nghị Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-nhan-sy-huu-nghi-viet-nam-trung-quoc-post1284280.vov) - 14:35 15/04/2026
+- 💃 [Thường trực Ban Bí thư hội đàm với Chánh Văn phòng TƯ Đảng Cộng sản Trung Quốc](https://vov.vn/chinh-tri/thuong-truc-ban-bi-thu-hoi-dam-voi-chanh-van-phong-tu-dang-cong-san-trung-quoc-post1284260.vov) - 13:14 15/04/2026
+- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Bảo tàng Lịch sử Đảng Cộng sản Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-bao-tang-lich-su-dang-cong-san-trung-quoc-post1284271.vov) - 13:09 15/04/2026
+- 👨‍🏫 [Phó Thủ tướng Chính phủ Hồ Quốc Dũng làm việc với Bộ Dân tộc và Tôn giáo](https://vov.vn/chinh-tri/pho-thu-tuong-chinh-phu-ho-quoc-dung-lam-viec-voi-bo-dan-toc-va-ton-giao-post1284256.vov) - 12:50 15/04/2026
+- 🪜 [Chủ tịch Quốc hội Trần Thanh Mẫn đến Istanbul, Thổ Nhĩ Kỳ dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-den-istanbul-tho-nhi-ky-du-ipu-152-post1284255.vov) - 12:18 15/04/2026
+- 🌋 [Đăng cai APEC 2027: Khẳng định vị thế Việt Nam trong kỷ nguyên phát triển mới](https://vov.vn/chinh-tri/dang-cai-apec-2027-khang-dinh-vi-the-viet-nam-trong-ky-nguyen-phat-trien-moi-post1284208.vov) - 11:35 15/04/2026
+- 🎉 [Phó Thủ tướng Lê Tiến Châu: Bảo đảm hoạt động thanh tra khách quan, công tâm](https://vov.vn/chinh-tri/pho-thu-tuong-le-tien-chau-bao-dam-hoat-dong-thanh-tra-khach-quan-cong-tam-post1284242.vov) - 11:07 15/04/2026
+- 🌝 [Tăng cường hợp tác giữa Bộ Công an và các cơ quan thực thi pháp luật Trung Quốc](https://vov.vn/chinh-tri/tang-cuong-hop-tac-giua-bo-cong-an-va-cac-co-quan-thuc-thi-phap-luat-trung-quoc-post1284217.vov) - 10:24 15/04/2026
+- 🏊 [Thủ tướng đề xuất 3 định hướng hợp tác tại hội nghị thượng đỉnh AZEC mở rộng](https://vov.vn/chinh-tri/thu-tuong-de-xuat-3-dinh-huong-hop-tac-tai-hoi-nghi-thuong-dinh-azec-mo-rong-post1284206.vov) - 09:56 15/04/2026
+- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Trung Quốc Lý Cường](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-trung-quoc-ly-cuong-post1284201.vov) - 09:44 15/04/2026<!-- vov-chinh-tri:END -->
