@@ -1,30 +1,42 @@
-name: "Cronjob HoaHocTro"
+name: "Cronjob NhanDan"
 on:
   workflow_dispatch:
 
 jobs:
-  hoahoctro_job:
-    name: HoaHocTro - ${{ matrix.rand_seed }}
+  nhandan_job:
+    name: Nhân Dân - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
-          - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
+          - feed_list: "https://nhandan.vn/rss/home.rss"
             readme_path: "./docs/index.md"
-            rand_seed: "hoahoctro"
+            rand_seed: "nhandan"
+          - feed_list: "https://nhandan.vn/rss/home.rss"
+            readme_path: "./docs/nhandan/tin-moi-nhat.md"
+            rand_seed: "nhandan-tin-moi-nhat"
+          - feed_list: "https://nhandan.vn/rss/thoi-su.rss"
+            readme_path: "./docs/nhandan/thoi-su.md"
+            rand_seed: "nhandan-thoi-su"
+          - feed_list: "https://nhandan.vn/rss/the-gioi.rss"
+            readme_path: "./docs/nhandan/the-gioi.md"
+            rand_seed: "nhandan-the-gioi"
+          - feed_list: "https://nhandan.vn/rss/kinh-te.rss"
+            readme_path: "./docs/nhandan/kinh-te.md"
+            rand_seed: "nhandan-kinh-te"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in HoaHocTro news
+      - name: Pull in NhanDan news
         uses: ePlus-DEV/blog-post-workflow@v1.0.2
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: "Get HoaHocTro news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
+          commit_message: "Get NhanDan news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: "HH:MM dd/mm/yyyy"
@@ -39,6 +51,6 @@ jobs:
             github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'nhandan.yml',
+              workflow_id: 'tuoitre.yml',
               ref: 'main',
             })

@@ -1,0 +1,9 @@
+{
+  "label": "Báo VOV",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Tin tức từ Báo VOV.",
+    "slug": "vov"
+  }
+}

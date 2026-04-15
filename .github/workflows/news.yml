@@ -46,6 +46,18 @@ jobs:
           - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
             rand_seed: "hoahoctro"
             needs: "muctim"
+          - feed_list: "https://nhandan.vn/rss/home.rss"
+            rand_seed: "nhandan"
+            needs: "hoahoctro"
+          - feed_list: "https://tuoitre.vn/rss/tin-moi-nhat.rss"
+            rand_seed: "tuoitre"
+            needs: "nhandan"
+          - feed_list: "https://www.vietnamplus.vn/rss/tin-moi.rss"
+            rand_seed: "vietnamplus"
+            needs: "tuoitre"
+          - feed_list: "https://vov.vn/rss/home.rss"
+            rand_seed: "vov"
+            needs: "vietnamplus"
     steps:
       - name: Checkout
         uses: actions/checkout@v4

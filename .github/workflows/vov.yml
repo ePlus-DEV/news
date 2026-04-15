@@ -1,37 +1,49 @@
-name: "Cronjob HoaHocTro"
+name: "Cronjob VOV"
 on:
   workflow_dispatch:
 
 jobs:
-  hoahoctro_job:
-    name: HoaHocTro - ${{ matrix.rand_seed }}
+  vov_job:
+    name: VOV - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
-          - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
+          - feed_list: "https://vov.vn/rss/home.rss"
             readme_path: "./docs/index.md"
-            rand_seed: "hoahoctro"
+            rand_seed: "vov"
+          - feed_list: "https://vov.vn/rss/home.rss"
+            readme_path: "./docs/vov/tin-moi-nhat.md"
+            rand_seed: "vov-tin-moi-nhat"
+          - feed_list: "https://vov.vn/rss/chinh-tri.rss"
+            readme_path: "./docs/vov/chinh-tri.md"
+            rand_seed: "vov-chinh-tri"
+          - feed_list: "https://vov.vn/rss/xa-hoi.rss"
+            readme_path: "./docs/vov/xa-hoi.md"
+            rand_seed: "vov-xa-hoi"
+          - feed_list: "https://vov.vn/rss/kinh-te.rss"
+            readme_path: "./docs/vov/kinh-te.md"
+            rand_seed: "vov-kinh-te"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in HoaHocTro news
+      - name: Pull in VOV news
         uses: ePlus-DEV/blog-post-workflow@v1.0.2
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: "Get HoaHocTro news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
+          commit_message: "Get VOV news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 60
 
-      - name: Force Run Workflow
+      - name: Deploy to GitHub Pages
         if: always()
         uses: actions/github-script@v7
         with:
@@ -39,6 +51,6 @@ jobs:
             github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'nhandan.yml',
+              workflow_id: 'deploy.yml',
               ref: 'main',
             })
