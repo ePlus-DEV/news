@@ -70,7 +70,7 @@ jobs:
       - name: Pull changes from the remote repository
         run: git pull origin main
       - name: Pull in news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        uses: ePlus-DEV/blog-post-workflow@v1
         with:
           retry_count: 5
           readme_path: ./docs/index.md
