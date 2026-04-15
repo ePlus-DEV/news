@@ -1,0 +1,46 @@
+name: Sync README from docs index
+
+on:
+  workflow_run:
+    workflows:
+      - Deploy to GitHub Pages
+    types:
+      - completed
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Build README.md from docs/index.md
+        run: |
+          awk 'BEGIN{skip=0}
+            NR==1 && $0=="---" {skip=1; next}
+            skip==1 && $0=="---" {skip=0; next}
+            skip==0 {print}
+          ' docs/index.md > README.md
+
+      - name: Commit and push README.md
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README.md is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Sync README from docs/index.md"
+          git push
