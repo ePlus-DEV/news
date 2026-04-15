@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- nld-lao-dong:START -->
-- 🔥 [Vượt loạt “ông lớn”, Vingroup trở thành doanh nghiệp đông nhân sự nhất Việt Nam](https://nld.com.vn/vuot-loat-ong-lon-vingroup-tro-thanh-doanh-nghiep-dong-nhan-su-nhat-viet-nam-196260415122349238.htm) - 05:48 15/04/2026
-- 📝 [Không hoán đổi ngày nghỉ, doanh nghiệp tổ chức nghỉ lễ Giỗ Tổ Hùng Vương, 30-4, 1-5 thế nào?](https://nld.com.vn/khong-hoan-doi-ngay-nghi-doanh-nghiep-to-chuc-nghi-le-gio-to-hung-vuong-30-4-1-5-the-nao-196260415114237939.htm) - 04:48 15/04/2026
-- ⚗️ [Nghỉ hưu trước năm 1995, &quot;ngưỡng sàn&quot; mới là 3,8 triệu đồng/tháng](https://nld.com.vn/nghi-huu-truoc-nam-1995-nguong-san-moi-la-38-trieu-dong-thang-196260415104059688.htm) - 04:03 15/04/2026
-- 🦅 [Lưu ý quan trọng của BHXH TPHCM đối với người hưởng lương hưu](https://nld.com.vn/luu-y-quan-trong-cua-bhxh-tphcm-doi-voi-nguoi-huong-luong-huu-196260415085122932.htm) - 02:02 15/04/2026
-- 🧐 [XUẤT KHẨU LAO ĐỘNG NỖ LỰC TÁI ĐỊNH VỊ &lpar;*&rpar;: Đầu tư kỹ năng cho tương lai](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-dau-tu-ky-nang-cho-tuong-lai-196260414212916082.htm) - 00:00 15/04/2026
-- 🧑‍💻 [Kết nối việc làm trên nền tảng số](https://nld.com.vn/ket-noi-viec-lam-tren-nen-tang-so-196260414214658811.htm) - 22:00 14/04/2026
-- 🧑‍🏫 [TPHCM đẩy mạnh đào tạo nghề nông nghiệp cho 1.680 lao động năm 2026](https://nld.com.vn/tphcm-day-manh-dao-tao-nghe-nong-nghiep-cho-1680-lao-dong-nam-2026-196260414164745545.htm) - 09:57 14/04/2026
-- 💯 [Kiểm tra công tác vệ sinh lao động tại 410 đơn vị, doanh nghiệp](https://nld.com.vn/kiem-tra-cong-tac-ve-sinh-lao-dong-tai-410-don-vi-doanh-nghiep-196260414093624425.htm) - 02:44 14/04/2026
-- ⚗️ [Khai trương Sàn giao dịch việc làm quốc gia, kết nối cung - cầu trên môi trường số](https://nld.com.vn/khai-truong-san-giao-dich-viec-lam-quoc-gia-ket-noi-cung-cau-tren-moi-truong-so-196260414091459053.htm) - 02:24 14/04/2026
-- 🦅 [Đừng để người lao động thiệt quyền lợi](https://nld.com.vn/dung-de-nguoi-lao-dong-thiet-quyen-loi-196260413223813603.htm) - 00:38 14/04/2026
-- 🔭 [XUẤT KHẨU LAO ĐỘNG NỖ LỰC TÁI ĐỊNH VỊ &lpar;*&rpar;: Phải nâng chuẩn từ gốc](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-phai-nang-chuan-tu-goc-196260413223306116.htm) - 23:00 13/04/2026
-- 🤗 [Bệnh nghề nghiệp cần được quan tâm đúng mức](https://nld.com.vn/benh-nghe-nghiep-can-duoc-quan-tam-dung-muc-196260413192337687.htm) - 13:42 13/04/2026
-- 🌋 [TPHCM: Công khai 100 doanh nghiệp nợ BHXH từ 6 tháng trở lên với số nợ tiền tỉ](https://nld.com.vn/tphcm-cong-khai-100-doanh-nghiep-no-bhxh-tu-6-thang-tro-len-voi-so-no-tien-ti-196260413153201454.htm) - 08:48 13/04/2026
-- 🪄 [Tài xế xe ôm vui mừng vì được khám sức khỏe miễn phí](https://nld.com.vn/tai-xe-xe-om-vui-mung-vi-duoc-kham-suc-khoe-mien-phi-196260413114926521.htm) - 07:11 13/04/2026
-- 🪄 [Xuất khẩu lao động nỗ lực tái định vị](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-19626041220284719.htm) - 22:30 12/04/2026
-- 💼 [Mang lại lợi ích thiết thực cho đoàn viên - lao động](https://nld.com.vn/mang-lai-loi-ich-thiet-thuc-cho-doan-vien-lao-dong-196260412203212558.htm) - 21:30 12/04/2026
-- 🤔 [Thành lập nghiệp đoàn bán vé số dạo ở Tây Ninh](https://nld.com.vn/thanh-lap-nghiep-doan-ban-ve-so-dao-o-tay-ninh-196260412134726684.htm) - 06:55 12/04/2026
-- 🌝 [Đề xuất bổ sung loạt công việc vào danh mục an toàn lao động nghiêm ngặt](https://nld.com.vn/de-xuat-bo-sung-loat-cong-viec-vao-danh-muc-an-toan-lao-dong-nghiem-ngat-196260412103904555.htm) - 04:05 12/04/2026
-- 🌮 [Muốn lương hưu 7 triệu đồng, cần đóng BHXH tự nguyện bao nhiêu?](https://nld.com.vn/muon-luong-huu-7-trieu-dong-can-dong-bhxh-tu-nguyen-bao-nhieu-196260412082925655.htm) - 02:42 12/04/2026
-- 👍 [Bịt lỗ hổng nợ BHXH](https://nld.com.vn/bit-lo-hong-no-bhxh-196260411181415941.htm) - 23:01 11/04/2026
-- 🏊 [Hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương, 30-4 sao mới đúng quy định?](https://nld.com.vn/hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-30-4-sao-moi-dung-quy-dinh-196260411125539505.htm) - 06:25 11/04/2026
-- 💂 [Giữ người bằng sự tử tế](https://nld.com.vn/giu-nguoi-bang-su-tu-te-196260410210230165.htm) - 00:00 11/04/2026
-- 👀 [Đòn bẩy tăng trưởng của TP HCM](https://nld.com.vn/don-bay-tang-truong-cua-tp-hcm-196260410210851449.htm) - 23:31 10/04/2026
-- 🌁 [Bộ Nội vụ: Không hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương và 30-4, 1-5](https://nld.com.vn/bo-noi-vu-khong-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-va-30-4-1-5-196260410225000156.htm) - 16:34 10/04/2026
-- 💫 [Người lao động đề xuất hoán đổi lịch làm việc để nghỉ liền 4 ngày dịp Ngày Văn hóa Việt Nam 24-11](https://nld.com.vn/nguoi-lao-dong-de-xuat-hoan-doi-lich-lam-viec-de-nghi-lien-4-ngay-dip-ngay-van-hoa-viet-nam-24-11-196260410120009576.htm) - 05:23 10/04/2026
-- ⛽️ [Phát huy hiệu quả bảo hiểm thất nghiệp](https://nld.com.vn/phat-huy-hieu-qua-bao-hiem-that-nghiep-196260409214311172.htm) - 01:15 10/04/2026
-- 🎭 [Thu nhập tăng, áp lực chi tiêu lớn](https://nld.com.vn/thu-nhap-tang-ap-luc-chi-tieu-lon-196260409214924308.htm) - 00:14 10/04/2026
-- 🎊 [Thị trường lao động TPHCM khởi sắc, hàng chục ngàn người có việc làm mới](https://nld.com.vn/thi-truong-lao-dong-tphcm-khoi-sac-hang-chuc-ngan-nguoi-co-viec-lam-moi-196260409181320757.htm) - 11:52 09/04/2026
-- 🦣 [Kết quả lấy ý kiến người lao động về hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương](https://nld.com.vn/ket-qua-lay-y-kien-nguoi-lao-dong-ve-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-196260409091913675.htm) - 11:10 09/04/2026
-- 🧠 [Công đoàn Đà Nẵng dự kiến mở “phiên chợ online” cho công nhân](https://nld.com.vn/cong-doan-da-nang-du-kien-mo-phien-cho-online-cho-cong-nhan-196260409171252203.htm) - 10:29 09/04/2026
-- 🙉 [Các bước tìm việc dành cho người đang hưởng trợ cấp thất nghiệp](https://nld.com.vn/cac-buoc-tim-viec-danh-cho-nguoi-dang-huong-tro-cap-that-nghiep-19626040915181155.htm) - 08:53 09/04/2026
-- 💃 [Dành nguồn lực để tổ chức các hoạt động Tháng Công nhân 2026](https://nld.com.vn/danh-nguon-luc-de-to-chuc-cac-hoat-dong-thang-cong-nhan-2026-196260409151737887.htm) - 08:29 09/04/2026
-- 🔭 [Ra mắt bản đồ số quản lý Công đoàn cơ sở](https://nld.com.vn/ra-mat-ban-do-so-quan-ly-cong-doan-co-so-196260409114759844.htm) - 04:59 09/04/2026
-- 🚀 [Chính sách tiếp nhận lao động mới của Nhật Bản có gì lạ?](https://nld.com.vn/chinh-sach-tiep-nhan-lao-dong-moi-cua-nhat-ban-co-gi-la-196260409111015892.htm) - 04:34 09/04/2026
-- 🎃 [Trợ cấp hưu trí xã hội: Có nơi chi tới 700.000 đồng/tháng](https://nld.com.vn/tro-cap-huu-tri-xa-hoi-co-noi-chi-toi-700000-dong-thang-196260409074706447.htm) - 02:27 09/04/2026
+- 🔥 [TPHCM: 11 công nhân ngộ độc thực phẩm sau bữa trưa](https://nld.com.vn/tphcm-11-cong-nhan-ngo-doc-thuc-pham-sau-bua-trua-196260415194947379.htm) - 13:09 15/04/2026
+- 📝 [Người lao động được hưởng nhiều phúc lợi trong tháng 5 - Tháng Công nhân](https://nld.com.vn/nguoi-lao-dong-duoc-huong-nhieu-phuc-loi-trong-thang-5-thang-cong-nhan-196260415172516778.htm) - 10:33 15/04/2026
+- ⚗️ [Lan tỏa không gian xanh từ phong trào “Thành phố muôn sắc hoa”](https://nld.com.vn/lan-toa-khong-gian-xanh-tu-phong-trao-thanh-pho-muon-sac-hoa-196260415140522761.htm) - 07:58 15/04/2026
+- 🦅 [Vượt loạt “ông lớn”, Vingroup trở thành doanh nghiệp đông nhân sự nhất Việt Nam](https://nld.com.vn/vuot-loat-ong-lon-vingroup-tro-thanh-doanh-nghiep-dong-nhan-su-nhat-viet-nam-196260415122349238.htm) - 05:48 15/04/2026
+- 🧐 [Không hoán đổi ngày nghỉ, doanh nghiệp tổ chức nghỉ lễ Giỗ Tổ Hùng Vương, 30-4, 1-5 thế nào?](https://nld.com.vn/khong-hoan-doi-ngay-nghi-doanh-nghiep-to-chuc-nghi-le-gio-to-hung-vuong-30-4-1-5-the-nao-196260415114237939.htm) - 04:48 15/04/2026
+- 🧑‍💻 [Nghỉ hưu trước năm 1995, &quot;ngưỡng sàn&quot; mới là 3,8 triệu đồng/tháng](https://nld.com.vn/nghi-huu-truoc-nam-1995-nguong-san-moi-la-38-trieu-dong-thang-196260415104059688.htm) - 04:03 15/04/2026
+- 🧑‍🏫 [Lưu ý quan trọng của BHXH TPHCM đối với người hưởng lương hưu](https://nld.com.vn/luu-y-quan-trong-cua-bhxh-tphcm-doi-voi-nguoi-huong-luong-huu-196260415085122932.htm) - 02:02 15/04/2026
+- 💯 [XUẤT KHẨU LAO ĐỘNG NỖ LỰC TÁI ĐỊNH VỊ &lpar;*&rpar;: Đầu tư kỹ năng cho tương lai](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-dau-tu-ky-nang-cho-tuong-lai-196260414212916082.htm) - 00:00 15/04/2026
+- ⚗️ [Kết nối việc làm trên nền tảng số](https://nld.com.vn/ket-noi-viec-lam-tren-nen-tang-so-196260414214658811.htm) - 22:00 14/04/2026
+- 🦅 [TPHCM đẩy mạnh đào tạo nghề nông nghiệp cho 1.680 lao động năm 2026](https://nld.com.vn/tphcm-day-manh-dao-tao-nghe-nong-nghiep-cho-1680-lao-dong-nam-2026-196260414164745545.htm) - 09:57 14/04/2026
+- 🔭 [Kiểm tra công tác vệ sinh lao động tại 410 đơn vị, doanh nghiệp](https://nld.com.vn/kiem-tra-cong-tac-ve-sinh-lao-dong-tai-410-don-vi-doanh-nghiep-196260414093624425.htm) - 02:44 14/04/2026
+- 🤗 [Khai trương Sàn giao dịch việc làm quốc gia, kết nối cung - cầu trên môi trường số](https://nld.com.vn/khai-truong-san-giao-dich-viec-lam-quoc-gia-ket-noi-cung-cau-tren-moi-truong-so-196260414091459053.htm) - 02:24 14/04/2026
+- 🌋 [Đừng để người lao động thiệt quyền lợi](https://nld.com.vn/dung-de-nguoi-lao-dong-thiet-quyen-loi-196260413223813603.htm) - 00:38 14/04/2026
+- 🪄 [XUẤT KHẨU LAO ĐỘNG NỖ LỰC TÁI ĐỊNH VỊ &lpar;*&rpar;: Phải nâng chuẩn từ gốc](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-phai-nang-chuan-tu-goc-196260413223306116.htm) - 23:00 13/04/2026
+- 🪄 [Bệnh nghề nghiệp cần được quan tâm đúng mức](https://nld.com.vn/benh-nghe-nghiep-can-duoc-quan-tam-dung-muc-196260413192337687.htm) - 13:42 13/04/2026
+- 💼 [TPHCM: Công khai 100 doanh nghiệp nợ BHXH từ 6 tháng trở lên với số nợ tiền tỉ](https://nld.com.vn/tphcm-cong-khai-100-doanh-nghiep-no-bhxh-tu-6-thang-tro-len-voi-so-no-tien-ti-196260413153201454.htm) - 08:48 13/04/2026
+- 🤔 [Tài xế xe ôm vui mừng vì được khám sức khỏe miễn phí](https://nld.com.vn/tai-xe-xe-om-vui-mung-vi-duoc-kham-suc-khoe-mien-phi-196260413114926521.htm) - 07:11 13/04/2026
+- 🌝 [Xuất khẩu lao động nỗ lực tái định vị](https://nld.com.vn/xuat-khau-lao-dong-no-luc-tai-dinh-vi-19626041220284719.htm) - 22:30 12/04/2026
+- 🌮 [Mang lại lợi ích thiết thực cho đoàn viên - lao động](https://nld.com.vn/mang-lai-loi-ich-thiet-thuc-cho-doan-vien-lao-dong-196260412203212558.htm) - 21:30 12/04/2026
+- 👍 [Thành lập nghiệp đoàn bán vé số dạo ở Tây Ninh](https://nld.com.vn/thanh-lap-nghiep-doan-ban-ve-so-dao-o-tay-ninh-196260412134726684.htm) - 06:55 12/04/2026
+- 🏊 [Đề xuất bổ sung loạt công việc vào danh mục an toàn lao động nghiêm ngặt](https://nld.com.vn/de-xuat-bo-sung-loat-cong-viec-vao-danh-muc-an-toan-lao-dong-nghiem-ngat-196260412103904555.htm) - 04:05 12/04/2026
+- 💂 [Muốn lương hưu 7 triệu đồng, cần đóng BHXH tự nguyện bao nhiêu?](https://nld.com.vn/muon-luong-huu-7-trieu-dong-can-dong-bhxh-tu-nguyen-bao-nhieu-196260412082925655.htm) - 02:42 12/04/2026
+- 👀 [Bịt lỗ hổng nợ BHXH](https://nld.com.vn/bit-lo-hong-no-bhxh-196260411181415941.htm) - 23:01 11/04/2026
+- 🌁 [Hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương, 30-4 sao mới đúng quy định?](https://nld.com.vn/hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-30-4-sao-moi-dung-quy-dinh-196260411125539505.htm) - 06:25 11/04/2026
+- 💫 [Giữ người bằng sự tử tế](https://nld.com.vn/giu-nguoi-bang-su-tu-te-196260410210230165.htm) - 00:00 11/04/2026
+- ⛽️ [Đòn bẩy tăng trưởng của TP HCM](https://nld.com.vn/don-bay-tang-truong-cua-tp-hcm-196260410210851449.htm) - 23:31 10/04/2026
+- 🎭 [Bộ Nội vụ: Không hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương và 30-4, 1-5](https://nld.com.vn/bo-noi-vu-khong-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-va-30-4-1-5-196260410225000156.htm) - 16:34 10/04/2026
+- 🎊 [Người lao động đề xuất hoán đổi lịch làm việc để nghỉ liền 4 ngày dịp Ngày Văn hóa Việt Nam 24-11](https://nld.com.vn/nguoi-lao-dong-de-xuat-hoan-doi-lich-lam-viec-de-nghi-lien-4-ngay-dip-ngay-van-hoa-viet-nam-24-11-196260410120009576.htm) - 05:23 10/04/2026
+- 🦣 [Phát huy hiệu quả bảo hiểm thất nghiệp](https://nld.com.vn/phat-huy-hieu-qua-bao-hiem-that-nghiep-196260409214311172.htm) - 01:15 10/04/2026
+- 🧠 [Thu nhập tăng, áp lực chi tiêu lớn](https://nld.com.vn/thu-nhap-tang-ap-luc-chi-tieu-lon-196260409214924308.htm) - 00:14 10/04/2026
+- 🙉 [Thị trường lao động TPHCM khởi sắc, hàng chục ngàn người có việc làm mới](https://nld.com.vn/thi-truong-lao-dong-tphcm-khoi-sac-hang-chuc-ngan-nguoi-co-viec-lam-moi-196260409181320757.htm) - 11:52 09/04/2026
+- 💃 [Kết quả lấy ý kiến người lao động về hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương](https://nld.com.vn/ket-qua-lay-y-kien-nguoi-lao-dong-ve-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-196260409091913675.htm) - 11:10 09/04/2026
+- 🔭 [Công đoàn Đà Nẵng dự kiến mở “phiên chợ online” cho công nhân](https://nld.com.vn/cong-doan-da-nang-du-kien-mo-phien-cho-online-cho-cong-nhan-196260409171252203.htm) - 10:29 09/04/2026
+- 🚀 [Các bước tìm việc dành cho người đang hưởng trợ cấp thất nghiệp](https://nld.com.vn/cac-buoc-tim-viec-danh-cho-nguoi-dang-huong-tro-cap-that-nghiep-19626040915181155.htm) - 08:53 09/04/2026
+- 🎃 [Dành nguồn lực để tổ chức các hoạt động Tháng Công nhân 2026](https://nld.com.vn/danh-nguon-luc-de-to-chuc-cac-hoat-dong-thang-cong-nhan-2026-196260409151737887.htm) - 08:29 09/04/2026
+- 🪄 [Ra mắt bản đồ số quản lý Công đoàn cơ sở](https://nld.com.vn/ra-mat-ban-do-so-quan-ly-cong-doan-co-so-196260409114759844.htm) - 04:59 09/04/2026
+- 🦍 [Chính sách tiếp nhận lao động mới của Nhật Bản có gì lạ?](https://nld.com.vn/chinh-sach-tiep-nhan-lao-dong-moi-cua-nhat-ban-co-gi-la-196260409111015892.htm) - 04:34 09/04/2026
+- 🧑‍💻 [Trợ cấp hưu trí xã hội: Có nơi chi tới 700.000 đồng/tháng](https://nld.com.vn/tro-cap-huu-tri-xa-hoi-co-noi-chi-toi-700000-dong-thang-196260409074706447.htm) - 02:27 09/04/2026
 - 🪄 [Đề xuất 5 bậc nghề nghiệp viên chức](https://nld.com.vn/de-xuat-5-bac-nghe-nghiep-vien-chuc-196260409074006548.htm) - 01:40 09/04/2026
-- 🦍 [Lấy ý kiến việc hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương, 30-4 và 1-5](https://nld.com.vn/lay-y-kien-viec-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-30-4-va-1-5-196260408091613274.htm) - 00:45 09/04/2026
-- 🧑‍💻 [NÂNG CHUẨN TRỢ CẤP XÃ HỘI: Thêm điểm tựa cho người yếu thế](https://nld.com.vn/nang-chuan-tro-cap-xa-hoi-them-diem-tua-cho-nguoi-yeu-the-196260408193818302.htm) - 22:59 08/04/2026
-- 🪄 [Kế hoạch lớn của Công đoàn TP HCM](https://nld.com.vn/ke-hoach-lon-cua-cong-doan-tp-hcm-196260408192240945.htm) - 21:36 08/04/2026
-- 🤠 [Người thất nghiệp tại TPHCM có thể học nghề gì, ở đâu?](https://nld.com.vn/nguoi-that-nghiep-tai-tphcm-co-the-hoc-nghe-gi-o-dau-196260408162630962.htm) - 09:42 08/04/2026
-- 🦩 [Nhật Bản siết yêu cầu trình độ tiếng Nhật với lao động nước ngoài](https://nld.com.vn/nhat-ban-siet-yeu-cau-trinh-do-tieng-nhat-voi-lao-dong-nuoc-ngoai-196260408152227401.htm) - 09:09 08/04/2026
-- 🙉 [Nghỉ lễ liền mạch: Doanh nghiệp chủ động hoán đổi và tăng thêm ngày nghỉ cho người lao động](https://nld.com.vn/nghi-le-lien-mach-doanh-nghiep-chu-dong-hoan-doi-va-tang-them-ngay-nghi-cho-nguoi-lao-dong-196260408144505339.htm) - 08:11 08/04/2026
-- 🥰 [SỔ TAY: Xây chắc nền móng an sinh](https://nld.com.vn/so-tay-xay-chac-nen-mong-an-sinh-196260407202600428.htm) - 01:00 08/04/2026
-- 👺 [Vượt khó, giữ việc cho người lao động](https://nld.com.vn/vuot-kho-giu-viec-cho-nguoi-lao-dong-19626040720223058.htm) - 00:42 08/04/2026
-- 🤡 [DỰ THẢO SỬA LUẬT BHXH: Siết trách nhiệm, bảo vệ người lao động](https://nld.com.vn/du-thao-sua-luat-bhxh-siet-trach-nhiem-bao-ve-nguoi-lao-dong-196260407202450425.htm) - 23:00 07/04/2026
-- 🌁 [Công đoàn sẽ lấy ý kiến việc hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương và 30-4, 1-5](https://nld.com.vn/cong-doan-se-lay-y-kien-viec-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-va-30-4-1-5-196260407213107152.htm) - 15:11 07/04/2026
-- 🌝 [Công đoàn Trường ĐH Y khoa Phạm Ngọc Thạch: Chăm lo chu đáo cho đoàn viên, lao động](https://nld.com.vn/cong-doan-truong-dh-y-khoa-pham-ngoc-thach-cham-lo-chu-dao-cho-doan-vien-lao-dong-196260407175000556.htm) - 11:23 07/04/2026
-- 👺 [Đề xuất tăng 20% trợ cấp xã hội, mở rộng diện hỗ trợ](https://nld.com.vn/de-xuat-tang-20-tro-cap-xa-hoi-mo-rong-dien-ho-tro-196260407160125306.htm) - 09:36 07/04/2026
-- 🦅 [Nhiều doanh nghiệp thông báo sớm lịch nghỉ lễ Giỗ Tổ Hùng Vương và 30-4](https://nld.com.vn/nhieu-doanh-nghiep-thong-bao-som-lich-nghi-le-gio-to-hung-vuong-va-30-4-196260407143415083.htm) - 08:12 07/04/2026
-- 👺 [Đề xuất quỹ dự phòng bảo vệ người lao động khi bị nợ BHXH](https://nld.com.vn/de-xuat-quy-du-phong-bao-ve-nguoi-lao-dong-khi-bi-no-bhxh-196260407140240103.htm) - 07:23 07/04/2026<!-- nld-lao-dong:END -->
+- 🤠 [Lấy ý kiến việc hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương, 30-4 và 1-5](https://nld.com.vn/lay-y-kien-viec-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-30-4-va-1-5-196260408091613274.htm) - 00:45 09/04/2026
+- 🦩 [NÂNG CHUẨN TRỢ CẤP XÃ HỘI: Thêm điểm tựa cho người yếu thế](https://nld.com.vn/nang-chuan-tro-cap-xa-hoi-them-diem-tua-cho-nguoi-yeu-the-196260408193818302.htm) - 22:59 08/04/2026
+- 🙉 [Kế hoạch lớn của Công đoàn TP HCM](https://nld.com.vn/ke-hoach-lon-cua-cong-doan-tp-hcm-196260408192240945.htm) - 21:36 08/04/2026
+- 🥰 [Người thất nghiệp tại TPHCM có thể học nghề gì, ở đâu?](https://nld.com.vn/nguoi-that-nghiep-tai-tphcm-co-the-hoc-nghe-gi-o-dau-196260408162630962.htm) - 09:42 08/04/2026
+- 👺 [Nhật Bản siết yêu cầu trình độ tiếng Nhật với lao động nước ngoài](https://nld.com.vn/nhat-ban-siet-yeu-cau-trinh-do-tieng-nhat-voi-lao-dong-nuoc-ngoai-196260408152227401.htm) - 09:09 08/04/2026
+- 🤡 [Nghỉ lễ liền mạch: Doanh nghiệp chủ động hoán đổi và tăng thêm ngày nghỉ cho người lao động](https://nld.com.vn/nghi-le-lien-mach-doanh-nghiep-chu-dong-hoan-doi-va-tang-them-ngay-nghi-cho-nguoi-lao-dong-196260408144505339.htm) - 08:11 08/04/2026
+- 🌁 [SỔ TAY: Xây chắc nền móng an sinh](https://nld.com.vn/so-tay-xay-chac-nen-mong-an-sinh-196260407202600428.htm) - 01:00 08/04/2026
+- 🌝 [Vượt khó, giữ việc cho người lao động](https://nld.com.vn/vuot-kho-giu-viec-cho-nguoi-lao-dong-19626040720223058.htm) - 00:42 08/04/2026
+- 👺 [DỰ THẢO SỬA LUẬT BHXH: Siết trách nhiệm, bảo vệ người lao động](https://nld.com.vn/du-thao-sua-luat-bhxh-siet-trach-nhiem-bao-ve-nguoi-lao-dong-196260407202450425.htm) - 23:00 07/04/2026
+- 🦅 [Công đoàn sẽ lấy ý kiến việc hoán đổi ngày nghỉ dịp Giỗ Tổ Hùng Vương và 30-4, 1-5](https://nld.com.vn/cong-doan-se-lay-y-kien-viec-hoan-doi-ngay-nghi-dip-gio-to-hung-vuong-va-30-4-1-5-196260407213107152.htm) - 15:11 07/04/2026
+- 👺 [Công đoàn Trường ĐH Y khoa Phạm Ngọc Thạch: Chăm lo chu đáo cho đoàn viên, lao động](https://nld.com.vn/cong-doan-truong-dh-y-khoa-pham-ngoc-thach-cham-lo-chu-dao-cho-doan-vien-lao-dong-196260407175000556.htm) - 11:23 07/04/2026<!-- nld-lao-dong:END -->
