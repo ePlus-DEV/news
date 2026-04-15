@@ -2,11 +2,17 @@ name: "Cronjob LaoDong"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   laodong_job:
     name: Lao Động - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://laodong.vn/rss/home.rss"

@@ -2,11 +2,17 @@ name: "Cronjob SGGP"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   sggp_job:
     name: SGGP - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://www.sggp.org.vn/rss/home.rss"

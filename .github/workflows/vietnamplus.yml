@@ -11,6 +11,7 @@ jobs:
     name: VietnamPlus - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://www.vietnamplus.vn/rss/tin-moi.rss"

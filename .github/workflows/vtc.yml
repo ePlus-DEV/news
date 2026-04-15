@@ -2,11 +2,17 @@ name: "Cronjob VTC"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   vnexpress:
     name: VTC - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://vtc.vn/rss/feed.rss"

@@ -4,11 +4,17 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   vnexpress_job:
     name: VnExpress - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"

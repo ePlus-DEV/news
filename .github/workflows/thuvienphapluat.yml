@@ -2,11 +2,17 @@ name: "Cronjob ThuVienPhapLuat"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   thuvienphapluat_job:
     name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://thuvienphapluat.vn/rss.xml"

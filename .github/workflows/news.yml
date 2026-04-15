@@ -6,11 +6,17 @@ on:
   #   branches:
   #     - "main"
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-homepages:
     name: Get ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"

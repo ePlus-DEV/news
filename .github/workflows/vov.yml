@@ -11,6 +11,7 @@ jobs:
     name: VOV - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://vov.vn/rss/home.rss"
