@@ -2,11 +2,17 @@ name: "Cronjob MucTim"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   muctim_job:
     name: MucTim - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://muctim.tuoitre.vn/rss/home.rss"

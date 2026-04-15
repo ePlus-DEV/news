@@ -2,11 +2,17 @@ name: "Cronjob BaoChinhPhu"
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   baochinhphu_job:
     name: BaoChinhPhu - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - feed_list: "https://baochinhphu.vn/home.rss"
