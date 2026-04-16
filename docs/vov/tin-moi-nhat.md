@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Phố Hà Nội đẹp dịu dàng mùa sấu rụng lá](https://vov.vn/van-hoa/pho-ha-noi-dep-diu-dang-mua-sau-rung-la-post1284417.vov) - 06:07 16/04/2026
-- 🦍 [Mỹ bắt đầu chiến dịch “dội bom kinh tế”, Iran đối mặt sức ép lớn](https://vov.vn/the-gioi/quan-sat/my-bat-dau-chien-dich-doi-bom-kinh-te-iran-doi-mat-suc-ep-lon-post1284415.vov) - 05:55 16/04/2026
-- 🦏 [Truyền thông Trung Quốc: Cuộc gặp “mùa Xuân” làm sâu sắc hơn quan hệ chiến lược](https://vov.vn/chinh-tri/truyen-thong-trung-quoc-cuoc-gap-mua-xuan-lam-sau-sac-hon-quan-he-chien-luoc-post1284391.vov) - 03:59 16/04/2026
-- 😎 [Thu hồi hơn 6.500 tỷ đồng từ các vụ án tham nhũng, kinh tế trong quý 1](https://vov.vn/chinh-tri/thu-hoi-hon-6500-ty-dong-tu-cac-vu-an-tham-nhung-kinh-te-trong-quy-1-post1284382.vov) - 03:59 16/04/2026
-- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm thành phố Nam Ninh, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-thanh-pho-nam-ninh-trung-quoc-post1284380.vov) - 03:40 16/04/2026
-- 🦩 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm thành phố Nam Ninh, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-thanh-pho-nam-ninh-trung-quoc-post1284380.vov) - 03:40 16/04/2026
-- 💃 [Truyền thông quốc tế đánh giá tích cực chuyến thăm Trung Quốc của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/the-gioi/truyen-thong-quoc-te-danh-gia-tich-cuc-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1284361.vov) - 03:14 16/04/2026
-- 🦣 [Truyền thông quốc tế đánh giá tích cực chuyến thăm Trung Quốc của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/the-gioi/truyen-thong-quoc-te-danh-gia-tich-cuc-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1284361.vov) - 03:14 16/04/2026
-- 👹 [Sửa Nghị định 168 để xe dù không thể vi phạm](https://vov.vn/xa-hoi/sua-nghi-dinh-168-de-xe-du-khong-the-vi-pham-post1284354.vov) - 02:53 16/04/2026
-- 🫶 [Lễ hội Đền Hùng 2026: Hé lộ đại cảnh nghệ thuật hoành tráng](https://vov.vn/van-hoa/le-hoi-den-hung-2026-he-lo-dai-canh-nghe-thuat-hoanh-trang-post1284337.vov) - 02:24 16/04/2026
-- 😺 [Toàn cảnh quốc tế sáng 16/4: Iran tuyên bố có chiến thuật mới đối phó Mỹ-Israel](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-164-iran-tuyen-bo-co-chien-thuat-moi-doi-pho-my-israel-post1284327.vov) - 01:50 16/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bí thư Quảng Tây, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bi-thu-quang-tay-trung-quoc-post1284575.vov) - 15:12 16/04/2026
+- 🦍 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bí thư Quảng Tây, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bi-thu-quang-tay-trung-quoc-post1284575.vov) - 15:12 16/04/2026
+- 🦏 [Chủ tịch Quốc hội: Tăng cường ngoại giao nghị viện và đẩy mạnh đối thoại](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tang-cuong-ngoai-giao-nghi-vien-va-day-manh-doi-thoai-post1284570.vov) - 14:49 16/04/2026
+- 😎 [Giải thể Ủy ban An toàn giao thông Quốc gia và Ban ATGT các địa phương từ 1/6](https://vov.vn/xa-hoi/giai-the-uy-ban-an-toan-giao-thong-quoc-gia-va-ban-atgt-cac-dia-phuong-tu-16-post1284544.vov) - 13:00 16/04/2026
+- 💯 [Thủ tướng Lê Minh Hưng tiếp đoàn 52 doanh nghiệp lớn, hàng đầu của Hoa Kỳ](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-doan-52-doanh-nghiep-lon-hang-dau-cua-hoa-ky-post1284551.vov) - 12:42 16/04/2026
+- 🦩 [Hợp tác Việt Nam - Thổ Nhĩ Kỳ tạo xung lực cho sự phát triển của mỗi nước](https://vov.vn/chinh-tri/hop-tac-viet-nam-tho-nhi-ky-tao-xung-luc-cho-su-phat-trien-cua-moi-nuoc-post1284543.vov) - 11:58 16/04/2026
+- 💃 [Nâng ngưỡng thu nhập người phụ thuộc lên 3 triệu đồng: Chưa áp dụng đã lo lạc hậu](https://vov.vn/kinh-te/nang-nguong-thu-nhap-nguoi-phu-thuoc-len-3-trieu-dong-chua-ap-dung-da-lo-lac-hau-post1284511.vov) - 11:40 16/04/2026
+- 🦣 [Gỡ “thẻ vàng” IUU: Gia Lai xử phạt trên 9,5 tỷ đồng về vi phạm trên biển](https://vov.vn/kinh-te/go-the-vang-iuu-gia-lai-xu-phat-tren-95-ty-dong-ve-vi-pham-tren-bien-post1284467.vov) - 08:59 16/04/2026
+- 👹 [Nga và Ukraine leo thang không kích, nhiều hạ tầng năng lượng hư hại](https://vov.vn/the-gioi/nga-va-ukraine-leo-thang-khong-kich-nhieu-ha-tang-nang-luong-hu-hai-post1284468.vov) - 08:53 16/04/2026
+- 🫶 [Trưởng Ban Tổ chức TW làm việc với Ban quản lý Khu công nghệ cao Trung Quan Thôn](https://vov.vn/chinh-tri/truong-ban-to-chuc-tw-lam-viec-voi-ban-quan-ly-khu-cong-nghe-cao-trung-quan-thon-post1284461.vov) - 08:35 16/04/2026
+- 😺 [Thủ tướng Chính phủ Lê Minh Hưng điện đàm với Thủ tướng Singapore Lawrence Wong](https://vov.vn/chinh-tri/thu-tuong-chinh-phu-le-minh-hung-dien-dam-voi-thu-tuong-singapore-lawrence-wong-post1284443.vov) - 07:25 16/04/2026<!-- vov-tin-moi-nhat:END -->
