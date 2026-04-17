@@ -707,17 +707,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Giảm hình phạt tù với người không vụ lợi: Cần những tiêu chí rõ ràng để xác định](https://vov.vn/phap-luat/giam-hinh-phat-tu-voi-nguoi-khong-vu-loi-can-nhung-tieu-chi-ro-rang-de-xac-dinh-post1284504.vov) - 22:32 16/04/2026
-- 🕯 [Giá vàng hôm nay 17/4: Giá vàng SJC giảm còn 167,7 –  171,2 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-174-gia-vang-sjc-giam-con-1677-1712-trieu-dongluong-post1284482.vov) - 22:10 16/04/2026
-- 🌊 [Danh sách 34 Bí thư Tỉnh ủy, Thành ủy nhiệm kỳ 2025 - 2030](https://vov.vn/chinh-tri/danh-sach-34-bi-thu-tinh-uy-thanh-uy-nhiem-ky-2025-2030-post1284560.vov) - 22:00 16/04/2026
-- 🥷 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 17/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-174-post1284465.vov) - 22:00 16/04/2026
-- 🎡 [Giá xăng dầu hôm nay 17/4: Giá dầu tăng trước đàm phán hòa bình giữa Mỹ và Iran](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-174-gia-dau-tang-truoc-dam-phan-hoa-binh-giua-my-va-iran-post1284494.vov) - 22:00 16/04/2026
-- 🚀 [Tổng thống Trump công bố lệnh ngừng bắn 10 ngày giữa Israel và Lebanon](https://vov.vn/the-gioi/tong-thong-trump-cong-bo-lenh-ngung-ban-10-ngay-giua-israel-va-lebanon-post1284586.vov) - 16:32 16/04/2026
-- 🔥 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bí thư Quảng Tây, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bi-thu-quang-tay-trung-quoc-post1284575.vov) - 15:12 16/04/2026
-- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bí thư Quảng Tây, Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bi-thu-quang-tay-trung-quoc-post1284575.vov) - 15:12 16/04/2026
-- 🕴 [Chủ tịch Quốc hội: Tăng cường ngoại giao nghị viện và đẩy mạnh đối thoại](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tang-cuong-ngoai-giao-nghi-vien-va-day-manh-doi-thoai-post1284570.vov) - 14:49 16/04/2026
-- 🥰 [Giải thể Ủy ban An toàn giao thông Quốc gia và Ban ATGT các địa phương từ 1/6](https://vov.vn/xa-hoi/giai-the-uy-ban-an-toan-giao-thong-quoc-gia-va-ban-atgt-cac-dia-phuong-tu-16-post1284544.vov) - 13:00 16/04/2026
-- 🧐 [Thủ tướng Lê Minh Hưng tiếp đoàn 52 doanh nghiệp lớn, hàng đầu của Hoa Kỳ](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-doan-52-doanh-nghiep-lon-hang-dau-cua-hoa-ky-post1284551.vov) - 12:42 16/04/2026<!-- vov:END -->
+- 🌜 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp Lãnh sự danh dự Việt Nam tại Istanbul](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-lanh-su-danh-du-viet-nam-tai-istanbul-post1284889.vov) - 16:10 17/04/2026
+- 🕯 [Chuyến thăm Trung Quốc của Tổng Bí thư, Chủ tịch nước Tô Lâm đạt kết quả đặc biệt quan trọng, nâng tầm kết nối chiến lược hai nước](https://vov.vn/chinh-tri/chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-dat-ket-qua-dac-biet-quan-trong-nang-tam-ket-noi-chien-luoc-hai-nuoc-post1284866.vov) - 14:26 17/04/2026
+- 🌊 [Thái Nguyên: Phanh phui đường dây “bôi trơn” suất ăn học đường, 3 người bị bắt](https://vov.vn/phap-luat/thai-nguyen-phanh-phui-duong-day-boi-tron-suat-an-hoc-duong-3-nguoi-bi-bat-post1284867.vov) - 14:09 17/04/2026
+- 🥷 [Phó Thủ tướng Phạm Thị Thanh Trà giao nhiệm vụ cho ngành y tế](https://vov.vn/chinh-tri/pho-thu-tuong-pham-thi-thanh-tra-giao-nhiem-vu-cho-nganh-y-te-post1284863.vov) - 13:52 17/04/2026
+- 🎡 [Bí thư Thành ủy Hà Nội hội kiến Bí thư Khu ủy Khu tự trị dân tộc Choang Quảng Tây](https://vov.vn/chinh-tri/bi-thu-thanh-uy-ha-noi-hoi-kien-bi-thu-khu-uy-khu-tu-tri-dan-toc-choang-quang-tay-post1284859.vov) - 13:23 17/04/2026
+- 🚀 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Chủ tịch Quốc hội Thổ Nhĩ Kỳ](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-chu-tich-quoc-hoi-tho-nhi-ky-post1284851.vov) - 12:07 17/04/2026
+- 🔥 [Sửa Luật Bảo vệ môi trường: Thích ứng “luật chơi” toàn cầu, giúp tăng trưởng xanh](https://vov.vn/xa-hoi/sua-luat-bao-ve-moi-truong-thich-ung-luat-choi-toan-cau-giup-tang-truong-xanh-post1284822.vov) - 11:58 17/04/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước và Phu nhân kết thúc tốt đẹp chuyến thăm Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-ket-thuc-tot-dep-chuyen-tham-trung-quoc-post1284848.vov) - 11:57 17/04/2026
+- 🕴 [Chủ tịch Quốc hội Trần Thanh Mẫn gặp Chủ tịch Hội đồng Liên bang Nga](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-gap-chu-tich-hoi-dong-lien-bang-nga-post1284847.vov) - 11:41 17/04/2026
+- 🥰 [Các quốc gia Thái Bình Dương ban bố tình trạng khẩn cấp về nhiên liệu](https://vov.vn/the-gioi/cac-quoc-gia-thai-binh-duong-ban-bo-tinh-trang-khan-cap-ve-nhien-lieu-post1284792.vov) - 10:00 17/04/2026
+- 🧐 [Thủ tướng: Bộ Nội vụ tham mưu việc sắp xếp thôn, tổ dân phố trong cả nước](https://vov.vn/chinh-tri/thu-tuong-bo-noi-vu-tham-muu-viec-sap-xep-thon-to-dan-pho-trong-ca-nuoc-post1284733.vov) - 07:47 17/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
