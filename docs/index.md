@@ -708,15 +708,15 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
-- 🕯 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
-- 🌊 [Iran tái áp đặt hạn chế với eo biển Hormuz](https://vov.vn/the-gioi/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-post1285002.vov) - 09:01 18/04/2026
-- 🥷 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
-- 🎡 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
+- 🌜 [Kết quả bóng đá Việt Nam hôm nay 18/4: Ninh Bình thắng đậm trước PVF-CAND](https://vov.vn/the-thao/ket-qua-bong-da-viet-nam-hom-nay-184-ninh-binh-thang-dam-truoc-pvf-cand-post1284949.vov) - 13:00 18/04/2026
+- 🕯 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
+- 🌊 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
+- 🥷 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
+- 🎡 [Iran tái áp đặt hạn chế với eo biển Hormuz](https://vov.vn/the-gioi/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-post1285002.vov) - 09:01 18/04/2026
 - 🚀 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
-- 🔥 [Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn: &amp;quot;Đừng chỉ học để cầm tấm bằng đi tìm việc&amp;quot;](https://vov.vn/xa-hoi/bo-truong-bo-gd-dt-hoang-minh-son-dung-chi-hoc-de-cam-tam-bang-di-tim-viec-post1284973.vov) - 07:54 18/04/2026
-- 🌋 [“Vàng tặc” đào núi, mở đường, lắp camera ngang nhiên hoạt động ở miền núi Đà Nẵng](https://vov.vn/xa-hoi/vang-tac-dao-nui-mo-duong-lap-camera-ngang-nhien-hoat-dong-o-mien-nui-da-nang-post1284974.vov) - 07:41 18/04/2026
-- 🕴 [Thủ tướng: Kiên quyết không để bị động, bất ngờ trước mọi loại hình tội phạm](https://vov.vn/chinh-tri/thu-tuong-kien-quyet-khong-de-bi-dong-bat-ngo-truoc-moi-loai-hinh-toi-pham-post1284953.vov) - 03:52 18/04/2026
+- 🔥 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
+- 🌋 [Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn: &amp;quot;Đừng chỉ học để cầm tấm bằng đi tìm việc&amp;quot;](https://vov.vn/xa-hoi/bo-truong-bo-gd-dt-hoang-minh-son-dung-chi-hoc-de-cam-tam-bang-di-tim-viec-post1284973.vov) - 07:54 18/04/2026
+- 🕴 [“Vàng tặc” đào núi, mở đường, lắp camera ngang nhiên hoạt động ở miền núi Đà Nẵng](https://vov.vn/xa-hoi/vang-tac-dao-nui-mo-duong-lap-camera-ngang-nhien-hoat-dong-o-mien-nui-da-nang-post1284974.vov) - 07:41 18/04/2026
 - 🥰 [Chuyên gia Trung Quốc: Chuyến thăm lịch sử của kết nối chiến lược và hợp tác thực chất](https://vov.vn/chinh-tri/chuyen-gia-trung-quoc-chuyen-tham-lich-su-cua-ket-noi-chien-luoc-va-hop-tac-thuc-chat-post1284940.vov) - 03:04 18/04/2026
 - 🧐 [Ông Trump tiết lộ cách Mỹ sẽ thu hồi urani ở Iran](https://vov.vn/the-gioi/ong-trump-tiet-lo-cach-my-se-thu-hoi-urani-o-iran-post1284916.vov) - 02:24 18/04/2026<!-- vov:END -->
 
