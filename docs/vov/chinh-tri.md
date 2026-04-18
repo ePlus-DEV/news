@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Chủ tịch Quốc hội Trần Thanh Mẫn gặp cộng đồng người Việt Nam tại Thổ Nhĩ Kỳ](https://vov.vn/nguoi-viet/kieu-bao/chu-tich-quoc-hoi-tran-thanh-man-gap-cong-dong-nguoi-viet-nam-tai-tho-nhi-ky-post1284895.vov) - 22:56 17/04/2026
-- 💃 [Khi robot và AI trở thành “đồng nghiệp” của cán bộ phường](https://vov.vn/chinh-tri/khi-robot-va-ai-tro-thanh-dong-nghiep-cua-can-bo-phuong-post1284672.vov) - 22:00 17/04/2026
-- 🫶 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp Lãnh sự danh dự Việt Nam tại Istanbul](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-lanh-su-danh-du-viet-nam-tai-istanbul-post1284889.vov) - 16:10 17/04/2026
-- 👨‍🏫 [Chuyến thăm Trung Quốc của Tổng Bí thư, Chủ tịch nước Tô Lâm đạt kết quả đặc biệt quan trọng, nâng tầm kết nối chiến lược hai nước](https://vov.vn/chinh-tri/chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-dat-ket-qua-dac-biet-quan-trong-nang-tam-ket-noi-chien-luoc-hai-nuoc-post1284866.vov) - 14:26 17/04/2026
-- 🪜 [Phó Chủ tịch nước Võ Thị Ánh Xuân dự Ngày hội Văn hóa các dân tộc tại Vĩnh Long](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-vo-thi-anh-xuan-du-ngay-hoi-van-hoa-cac-dan-toc-tai-vinh-long-post1284743.vov) - 07:57 17/04/2026
-- 🌋 [Thủ tướng: Bộ Nội vụ tham mưu việc sắp xếp thôn, tổ dân phố trong cả nước](https://vov.vn/chinh-tri/thu-tuong-bo-noi-vu-tham-muu-viec-sap-xep-thon-to-dan-pho-trong-ca-nuoc-post1284733.vov) - 07:47 17/04/2026
-- 🎉 [Trưởng Ban Tuyên giáo và Dân vận TW làm việc với 5 cơ quan báo chí chủ lực quốc gia](https://vov.vn/chinh-tri/truong-ban-tuyen-giao-va-dan-van-tw-lam-viec-voi-5-co-quan-bao-chi-chu-luc-quoc-gia-post1284710.vov) - 05:32 17/04/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm di tích trường Dục Tài Nam Ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-di-tich-truong-duc-tai-nam-ninh-post1284705.vov) - 05:02 17/04/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Láng giềng càng đi lại thì càng thân thiết](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-lang-gieng-cang-di-lai-thi-cang-than-thiet-post1284671.vov) - 03:54 17/04/2026
-- 🧑‍💻 [Tuyên bố chung giữa Việt Nam và Trung Quốc](https://vov.vn/chinh-tri/tuyen-bo-chung-giua-viet-nam-va-trung-quoc-post1284650.vov) - 03:03 17/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Chủ tịch Quốc hội Trần Thanh Mẫn kết thúc tốt đẹp chuyến công tác dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-ket-thuc-tot-dep-chuyen-cong-tac-du-ipu-152-post1285062.vov) - 14:33 18/04/2026
+- 💃 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
+- 🫶 [Đại tướng Nguyễn Trọng Nghĩa gặp mặt già làng, chức sắc tôn giáo khu vực Nam Bộ](https://vov.vn/chinh-tri/dai-tuong-nguyen-trong-nghia-gap-mat-gia-lang-chuc-sac-ton-giao-khu-vuc-nam-bo-post1285034.vov) - 11:28 18/04/2026
+- 👨‍🏫 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
+- 🪜 [Hợp tác đào tạo nguồn nhân lực chất lượng cao Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/hop-tac-dao-tao-nguon-nhan-luc-chat-luong-cao-viet-nam-trung-quoc-post1284991.vov) - 08:17 18/04/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt đại biểu dân tộc tiêu biểu](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-dai-bieu-dan-toc-tieu-bieu-post1284966.vov) - 04:29 18/04/2026
+- 🎉 [Giám đốc Công an Hà Nội được phong danh hiệu Anh hùng lực lượng vũ trang nhân dân](https://vov.vn/chinh-tri/giam-doc-cong-an-ha-noi-duoc-phong-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-post1284943.vov) - 03:59 18/04/2026
+- 🌝 [Thủ tướng: Kiên quyết không để bị động, bất ngờ trước mọi loại hình tội phạm](https://vov.vn/chinh-tri/thu-tuong-kien-quyet-khong-de-bi-dong-bat-ngo-truoc-moi-loai-hinh-toi-pham-post1284953.vov) - 03:52 18/04/2026
+- 🏊 [Phu nhân Ngô Phương Ly thăm Bảo tàng Âm nhạc dân tộc Quảng Tây](https://vov.vn/chinh-tri/phu-nhan-ngo-phuong-ly-tham-bao-tang-am-nhac-dan-toc-quang-tay-post1284947.vov) - 03:24 18/04/2026
+- 🧑‍💻 [Chuyên gia Trung Quốc: Chuyến thăm lịch sử của kết nối chiến lược và hợp tác thực chất](https://vov.vn/chinh-tri/chuyen-gia-trung-quoc-chuyen-tham-lich-su-cua-ket-noi-chien-luoc-va-hop-tac-thuc-chat-post1284940.vov) - 03:04 18/04/2026<!-- vov-chinh-tri:END -->
