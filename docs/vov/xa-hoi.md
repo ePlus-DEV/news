@@ -4,12 +4,12 @@ sidebar_position: 3
 ---
 
 <!-- vov-xa-hoi:START -->
-- 👀 [Đại học Việt Đức thắng lớn tại Liên hoan sinh viên Kiến trúc toàn quốc](https://vov.vn/xa-hoi/dai-hoc-viet-duc-thang-lon-tai-lien-hoan-sinh-vien-kien-truc-toan-quoc-post1285065.vov) - 16:01 18/04/2026
-- 🚀 [Cố vượt qua đường ray, ô tô bị tàu hỏa tông tại Đại Xuyên, Hà Nội](https://vov.vn/xa-hoi/co-vuot-qua-duong-ray-o-to-bi-tau-hoa-tong-tai-dai-xuyen-ha-noi-post1285066.vov) - 15:16 18/04/2026
-- 👀 [Miễn nhiệm Chủ tịch UBND xã ở Nghệ An vì lý do sức khỏe](https://vov.vn/xa-hoi/mien-nhiem-chu-tich-ubnd-xa-o-nghe-an-vi-ly-do-suc-khoe-post1285054.vov) - 14:36 18/04/2026
-- 🦍 [Cháy nhà kho công ty sản xuất ghế sofa sát vách cây xăng ở TP.HCM](https://vov.vn/xa-hoi/chay-nha-kho-cong-ty-san-xuat-ghe-sofa-sat-vach-cay-xang-o-tphcm-post1285057.vov) - 14:11 18/04/2026
-- 🚀 [Đồng Tháp triển khai số hóa trong quản lý tàu cá để phòng chống vi phạm IUU](https://vov.vn/xa-hoi/dong-thap-trien-khai-so-hoa-trong-quan-ly-tau-ca-de-phong-chong-vi-pham-iuu-post1285058.vov) - 14:08 18/04/2026
-- 💫 [Thời tiết ngày 19/4: Hà Nội có mưa nhẹ, Bắc Bộ nhiều nơi có dông](https://vov.vn/xa-hoi/thoi-tiet-ngay-194-ha-noi-co-mua-nhe-bac-bo-nhieu-noi-co-dong-post1285032.vov) - 14:00 18/04/2026
+- 👀 [Thời tiết hôm nay 19/4: Hà Nội có mưa nhẹ, Bắc Bộ nhiều nơi có dông](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-194-ha-noi-co-mua-nhe-bac-bo-nhieu-noi-co-dong-post1285032.vov) - 22:20 18/04/2026
+- 🚀 [Đại học Việt Đức thắng lớn tại Liên hoan sinh viên Kiến trúc toàn quốc](https://vov.vn/xa-hoi/dai-hoc-viet-duc-thang-lon-tai-lien-hoan-sinh-vien-kien-truc-toan-quoc-post1285065.vov) - 16:01 18/04/2026
+- 👀 [Cố vượt qua đường ray, ô tô bị tàu hỏa tông tại Đại Xuyên, Hà Nội](https://vov.vn/xa-hoi/co-vuot-qua-duong-ray-o-to-bi-tau-hoa-tong-tai-dai-xuyen-ha-noi-post1285066.vov) - 15:16 18/04/2026
+- 🦍 [Miễn nhiệm Chủ tịch UBND xã ở Nghệ An vì lý do sức khỏe](https://vov.vn/xa-hoi/mien-nhiem-chu-tich-ubnd-xa-o-nghe-an-vi-ly-do-suc-khoe-post1285054.vov) - 14:36 18/04/2026
+- 🚀 [Cháy nhà kho công ty sản xuất ghế sofa sát vách cây xăng ở TP.HCM](https://vov.vn/xa-hoi/chay-nha-kho-cong-ty-san-xuat-ghe-sofa-sat-vach-cay-xang-o-tphcm-post1285057.vov) - 14:11 18/04/2026
+- 💫 [Đồng Tháp triển khai số hóa trong quản lý tàu cá để phòng chống vi phạm IUU](https://vov.vn/xa-hoi/dong-thap-trien-khai-so-hoa-trong-quan-ly-tau-ca-de-phong-chong-vi-pham-iuu-post1285058.vov) - 14:08 18/04/2026
 - 🗽 [Mưa đá rơi trắng xóa tại xã Phiêng Cằm, Sơn La](https://vov.vn/xa-hoi/mua-da-roi-trang-xoa-tai-xa-phieng-cam-son-la-post1285048.vov) - 12:18 18/04/2026
 - 🕯 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
 - 🏊 [28 người nhập viện nghi ngộ độc sau khi ăn bánh mì ở Nghệ An](https://vov.vn/xa-hoi/28-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-o-nghe-an-post1285031.vov) - 10:46 18/04/2026
