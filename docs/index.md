@@ -708,17 +708,17 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Chủ tịch Quốc hội Trần Thanh Mẫn kết thúc tốt đẹp chuyến công tác dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-ket-thuc-tot-dep-chuyen-cong-tac-du-ipu-152-post1285062.vov) - 14:33 18/04/2026
-- 🕯 [Kết quả bóng đá Việt Nam hôm nay 18/4: Ninh Bình thắng đậm trước PVF-CAND](https://vov.vn/the-thao/ket-qua-bong-da-viet-nam-hom-nay-184-ninh-binh-thang-dam-truoc-pvf-cand-post1284949.vov) - 13:00 18/04/2026
-- 🌊 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
-- 🥷 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
-- 🎡 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
-- 🚀 [Iran tái áp đặt hạn chế với eo biển Hormuz](https://vov.vn/the-gioi/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-post1285002.vov) - 09:01 18/04/2026
-- 🔥 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026
-- 🌋 [Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn: &amp;quot;Đừng chỉ học để cầm tấm bằng đi tìm việc&amp;quot;](https://vov.vn/xa-hoi/bo-truong-bo-gd-dt-hoang-minh-son-dung-chi-hoc-de-cam-tam-bang-di-tim-viec-post1284973.vov) - 07:54 18/04/2026
-- 🕴 [“Vàng tặc” đào núi, mở đường, lắp camera ngang nhiên hoạt động ở miền núi Đà Nẵng](https://vov.vn/xa-hoi/vang-tac-dao-nui-mo-duong-lap-camera-ngang-nhien-hoat-dong-o-mien-nui-da-nang-post1284974.vov) - 07:41 18/04/2026
-- 🥰 [Chuyên gia Trung Quốc: Chuyến thăm lịch sử của kết nối chiến lược và hợp tác thực chất](https://vov.vn/chinh-tri/chuyen-gia-trung-quoc-chuyen-tham-lich-su-cua-ket-noi-chien-luoc-va-hop-tac-thuc-chat-post1284940.vov) - 03:04 18/04/2026
-- 🧐 [Ông Trump tiết lộ cách Mỹ sẽ thu hồi urani ở Iran](https://vov.vn/the-gioi/ong-trump-tiet-lo-cach-my-se-thu-hoi-urani-o-iran-post1284916.vov) - 02:24 18/04/2026<!-- vov:END -->
+- 🌜 [Nóng thế giới ngày 19/4: Iran tái áp đặt hạn chế eo biển Hormuz, cảnh báo cứng rắn](https://vov.vn/the-gioi/nong-the-gioi-ngay-194-iran-tai-ap-dat-han-che-eo-bien-hormuz-canh-bao-cung-ran-post1285018.vov) - 22:30 18/04/2026
+- 🕯 [Vì sao Tết Hàn thực 3/3 Âm lịch nhất thiết phải có bánh trôi, bánh chay?](https://vov.vn/doi-song/vi-sao-tet-han-thuc-33-am-lich-nhat-thiet-phai-co-banh-troi-banh-chay-post1285056.vov) - 22:26 18/04/2026
+- 🌊 [Nóng 24h ngày 19/4: Bữa ăn của học sinh bị rút ruột như thế nào?](https://vov.vn/phap-luat/nong-24h-ngay-194-bua-an-cua-hoc-sinh-bi-rut-ruot-nhu-the-nao-post1285053.vov) - 22:23 18/04/2026
+- 🥷 [80 năm Cảnh sát hình sự Hà Nội: Thép giữa lòng Thủ đô](https://vov.vn/phap-luat/80-nam-canh-sat-hinh-su-ha-noi-thep-giua-long-thu-do-post1285026.vov) - 22:00 18/04/2026
+- 🎡 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 19/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-194-post1285006.vov) - 22:00 18/04/2026
+- 🚀 [Giá xăng dầu ngày 19/4: Giá dầu thế giới giảm mạnh](https://vov.vn/thi-truong/gia-xang-dau-ngay-194-gia-dau-the-gioi-giam-manh-post1285014.vov) - 22:00 18/04/2026
+- 🔥 [Chủ tịch Quốc hội Trần Thanh Mẫn kết thúc tốt đẹp chuyến công tác dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-ket-thuc-tot-dep-chuyen-cong-tac-du-ipu-152-post1285062.vov) - 14:33 18/04/2026
+- 🌋 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
+- 🕴 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
+- 🥰 [Iran tái áp đặt hạn chế với eo biển Hormuz](https://vov.vn/the-gioi/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-post1285002.vov) - 09:01 18/04/2026
+- 🧐 [“Vàng tặc” đào núi, mở đường, lắp camera ngang nhiên hoạt động ở miền núi Đà Nẵng](https://vov.vn/xa-hoi/vang-tac-dao-nui-mo-duong-lap-camera-ngang-nhien-hoat-dong-o-mien-nui-da-nang-post1284974.vov) - 07:41 18/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
