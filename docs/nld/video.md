@@ -4,18 +4,18 @@ sidebar_position: 23
 ---
 
 <!-- nld-video:START -->
-- 🪄 [CLIP: CSGT đường thủy đưa bệnh nhân đột quỵ đi cấp cứu kịp “giờ vàng”](https://nld.com.vn/clip-csgt-duong-thuy-dua-benh-nhan-dot-quy-di-cap-cuu-kip-gio-vang-196260417103705181.htm) - 03:53 17/04/2026
-- 🕯 [Thí điểm giáo dục AI cho học sinh phổ thông sao cho phù hợp?](https://nld.com.vn/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-sao-cho-phu-hop-196260416223932313.htm) - 17:19 16/04/2026
-- 🧠 [Báo in ngày 17-4: TP HCM đồng loạt khám sức khỏe miễn phí](https://nld.com.vn/bao-in-ngay-17-4-tp-hcm-dong-loat-kham-suc-khoe-mien-phi-19626041622391618.htm) - 17:00 16/04/2026
-- 🫣 [Gần 1 năm mới kiểm tra két sắt, chủ cơ sở tá hỏa phát hiện mất 30 lượng vàng 9999](https://nld.com.vn/gan-1-nam-moi-kiem-tra-ket-sat-chu-co-so-ta-hoa-phat-hien-mat-30-luong-vang-9999-196260416074821802.htm) - 02:05 16/04/2026
-- 🧑‍💻 [Thí điểm giáo dục AI cho học sinh phổ thông: Góc nhìn từ thực tiễn](https://nld.com.vn/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-goc-nhin-tu-thuc-tien-196260416072709896.htm) - 00:26 16/04/2026
-- 🦄 [Audio: Diễn biến vụ trẻ mầm non nghi bị “tác động vào đầu”](https://nld.com.vn/audio-dien-bien-vu-tre-mam-non-nghi-bi-tac-dong-vao-dau-196260415154537816.htm) - 00:00 16/04/2026
-- 🦩 [Báo in ngày 16-4: Bất ngờ với thông báo ngừng sử dụng hóa đơn điện tử](https://nld.com.vn/bao-in-ngay-16-4-bat-ngo-voi-thong-bao-ngung-su-dung-hoa-don-dien-tu-196260415223716255.htm) - 17:00 15/04/2026
-- 🏊 [CLIP: Cháy quán Ếch 62 ở Tây Ninh, nhiều người hốt hoảng](https://nld.com.vn/clip-chay-quan-ech-62-o-tay-ninh-nhieu-nguoi-hot-hoang-196260415132644046.htm) - 06:32 15/04/2026
-- 🪄 [Giây phút nghẹt thở: Hiệu trưởng trúng đạn vẫn lao vào chặn tay súng ở Mỹ](https://nld.com.vn/giay-phut-nghet-tho-hieu-truong-trung-dan-van-lao-vao-chan-tay-sung-o-my-196260415101428722.htm) - 03:56 15/04/2026
-- 💄 [Báo in ngày 15-4: Giải pháp cho bữa ăn bán trú an toàn](https://nld.com.vn/bao-in-ngay-15-4-giai-phap-cho-bua-an-ban-tru-an-toan-19626041421185903.htm) - 16:59 14/04/2026
-- 🕯 [Xe buýt tại TP HCM: Ngoài miễn phí, người dân còn kỳ vọng điều gì?](https://nld.com.vn/xe-buyt-tai-tp-hcm-ngoai-mien-phi-nguoi-dan-con-ky-vong-dieu-gi-196260414004327247.htm) - 06:15 14/04/2026
-- 🏊 [VIDEO: Ông Donald Trump và cú “order” gây bão mạng](https://nld.com.vn/video-ong-donald-trump-va-cu-order-gay-bao-mang-196260414121414172.htm) - 05:31 14/04/2026
-- 🥰 [Báo in ngày 14-4: Đừng để người lao động thiệt quyền lợi](https://nld.com.vn/bao-in-ngay-14-4-dung-de-nguoi-lao-dong-thiet-quyen-loi-196260413233010701.htm) - 16:59 13/04/2026
-- 🧑‍🏫 [Công an Đồng Tháp và TPHCM bắt giữ 3 đối tượng nổ súng vào nhóm người đang nhậu](https://nld.com.vn/cong-an-dong-thap-va-tphcm-bat-giu-3-doi-tuong-no-sung-vao-nhom-nguoi-dang-nhau-196260412104554316.htm) - 04:09 12/04/2026
-- 💯 [Báo in ngày 12-4: Bịt lỗ hổng nợ BHXH](https://nld.com.vn/bao-in-ngay-12-4-bit-lo-hong-no-bhxh-196260411220739491.htm) - 17:03 11/04/2026<!-- nld-video:END -->
+- 🪄 [Báo Người Lao Động trao tặng 200 lá cờ Tổ quốc cho người dân xã An Nhơn Tây](https://nld.com.vn/bao-nguoi-lao-dong-trao-tang-200-la-co-to-quoc-cho-nguoi-dan-xa-an-nhon-tay-196260418221621909.htm) - 15:29 18/04/2026
+- 🕯 [Audio AI: Gỡ nút thắt những điểm gây tranh luận vụ 42 gốc mai vàng “không giấy tờ” ở Côn Đảo](https://nld.com.vn/audio-ai-go-nut-that-nhung-diem-gay-tranh-luan-vu-42-goc-mai-vang-khong-giay-to-o-con-dao-196260418183804099.htm) - 11:49 18/04/2026
+- 🧠 [VIDEO: Người dân TPHCM thích thú trải nghiệm rạp xiếc và biểu diễn đa năng hiện đại](https://nld.com.vn/video-nguoi-dan-tphcm-thich-thu-trai-nghiem-rap-xiec-va-bieu-dien-da-nang-hien-dai-196260418154842551.htm) - 09:26 18/04/2026
+- 🫣 [Hơn 1.300 người tham gia Ngày Người khuyết tật Việt Nam tại phố đi bộ Nguyễn Huệ](https://nld.com.vn/hon-1300-nguoi-tham-gia-ngay-nguoi-khuyet-tat-viet-nam-tai-pho-di-bo-nguyen-hue-196260418134157876.htm) - 07:48 18/04/2026
+- 🧑‍💻 [Báo in ngày 18-4: Cảnh giác lừa đảo đặt phòng, vé du lịch dịp lễ](https://nld.com.vn/bao-in-ngay-18-4-canh-giac-lua-dao-dat-phong-ve-du-lich-dip-le-196260417222149601.htm) - 17:00 17/04/2026
+- 🦄 [VIDEO: &quot;Tích xanh trách nhiệm&quot; được thí điểm trong suất ăn học đường tại TPHCM](https://nld.com.vn/video-tich-xanh-trach-nhiem-tren-suat-an-hoc-sinh-duoc-thi-diem-trong-suat-an-hoc-duong-tai-tphcm-196260417164935211.htm) - 10:43 17/04/2026
+- 🦩 [Robot hình người Edward đuổi lợn rừng: Chạy hết pin vẫn không đuổi kịp](https://nld.com.vn/robot-edward-duoi-lon-rung-chay-het-pin-van-khong-duoi-kip-196260416123144664.htm) - 10:24 17/04/2026
+- 🏊 [CLIP: CSGT đường thủy đưa bệnh nhân đột quỵ đi cấp cứu kịp “giờ vàng”](https://nld.com.vn/clip-csgt-duong-thuy-dua-benh-nhan-dot-quy-di-cap-cuu-kip-gio-vang-196260417103705181.htm) - 03:53 17/04/2026
+- 🪄 [Thí điểm giáo dục AI cho học sinh phổ thông sao cho phù hợp?](https://nld.com.vn/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-sao-cho-phu-hop-196260416223932313.htm) - 17:19 16/04/2026
+- 💄 [Báo in ngày 17-4: TP HCM đồng loạt khám sức khỏe miễn phí](https://nld.com.vn/bao-in-ngay-17-4-tp-hcm-dong-loat-kham-suc-khoe-mien-phi-19626041622391618.htm) - 17:00 16/04/2026
+- 🕯 [Gần 1 năm mới kiểm tra két sắt, chủ cơ sở tá hỏa phát hiện mất 30 lượng vàng 9999](https://nld.com.vn/gan-1-nam-moi-kiem-tra-ket-sat-chu-co-so-ta-hoa-phat-hien-mat-30-luong-vang-9999-196260416074821802.htm) - 02:05 16/04/2026
+- 🏊 [Thí điểm giáo dục AI cho học sinh phổ thông: Góc nhìn từ thực tiễn](https://nld.com.vn/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-goc-nhin-tu-thuc-tien-196260416072709896.htm) - 00:26 16/04/2026
+- 🥰 [Audio: Diễn biến vụ trẻ mầm non nghi bị “tác động vào đầu”](https://nld.com.vn/audio-dien-bien-vu-tre-mam-non-nghi-bi-tac-dong-vao-dau-196260415154537816.htm) - 00:00 16/04/2026
+- 🧑‍🏫 [Báo in ngày 16-4: Bất ngờ với thông báo ngừng sử dụng hóa đơn điện tử](https://nld.com.vn/bao-in-ngay-16-4-bat-ngo-voi-thong-bao-ngung-su-dung-hoa-don-dien-tu-196260415223716255.htm) - 17:00 15/04/2026
+- 💯 [CLIP: Cháy quán Ếch 62 ở Tây Ninh, nhiều người hốt hoảng](https://nld.com.vn/clip-chay-quan-ech-62-o-tay-ninh-nhieu-nguoi-hot-hoang-196260415132644046.htm) - 06:32 15/04/2026<!-- nld-video:END -->
