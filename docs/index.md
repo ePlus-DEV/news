@@ -707,17 +707,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp Lãnh sự danh dự Việt Nam tại Istanbul](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-lanh-su-danh-du-viet-nam-tai-istanbul-post1284889.vov) - 16:10 17/04/2026
-- 🕯 [Chuyến thăm Trung Quốc của Tổng Bí thư, Chủ tịch nước Tô Lâm đạt kết quả đặc biệt quan trọng, nâng tầm kết nối chiến lược hai nước](https://vov.vn/chinh-tri/chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-dat-ket-qua-dac-biet-quan-trong-nang-tam-ket-noi-chien-luoc-hai-nuoc-post1284866.vov) - 14:26 17/04/2026
-- 🌊 [Thái Nguyên: Phanh phui đường dây “bôi trơn” suất ăn học đường, 3 người bị bắt](https://vov.vn/phap-luat/thai-nguyen-phanh-phui-duong-day-boi-tron-suat-an-hoc-duong-3-nguoi-bi-bat-post1284867.vov) - 14:09 17/04/2026
-- 🥷 [Phó Thủ tướng Phạm Thị Thanh Trà giao nhiệm vụ cho ngành y tế](https://vov.vn/chinh-tri/pho-thu-tuong-pham-thi-thanh-tra-giao-nhiem-vu-cho-nganh-y-te-post1284863.vov) - 13:52 17/04/2026
-- 🎡 [Bí thư Thành ủy Hà Nội hội kiến Bí thư Khu ủy Khu tự trị dân tộc Choang Quảng Tây](https://vov.vn/chinh-tri/bi-thu-thanh-uy-ha-noi-hoi-kien-bi-thu-khu-uy-khu-tu-tri-dan-toc-choang-quang-tay-post1284859.vov) - 13:23 17/04/2026
-- 🚀 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Chủ tịch Quốc hội Thổ Nhĩ Kỳ](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-chu-tich-quoc-hoi-tho-nhi-ky-post1284851.vov) - 12:07 17/04/2026
-- 🔥 [Sửa Luật Bảo vệ môi trường: Thích ứng “luật chơi” toàn cầu, giúp tăng trưởng xanh](https://vov.vn/xa-hoi/sua-luat-bao-ve-moi-truong-thich-ung-luat-choi-toan-cau-giup-tang-truong-xanh-post1284822.vov) - 11:58 17/04/2026
-- 🌋 [Tổng Bí thư, Chủ tịch nước và Phu nhân kết thúc tốt đẹp chuyến thăm Trung Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-ket-thuc-tot-dep-chuyen-tham-trung-quoc-post1284848.vov) - 11:57 17/04/2026
-- 🕴 [Chủ tịch Quốc hội Trần Thanh Mẫn gặp Chủ tịch Hội đồng Liên bang Nga](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-gap-chu-tich-hoi-dong-lien-bang-nga-post1284847.vov) - 11:41 17/04/2026
-- 🥰 [Các quốc gia Thái Bình Dương ban bố tình trạng khẩn cấp về nhiên liệu](https://vov.vn/the-gioi/cac-quoc-gia-thai-binh-duong-ban-bo-tinh-trang-khan-cap-ve-nhien-lieu-post1284792.vov) - 10:00 17/04/2026
-- 🧐 [Thủ tướng: Bộ Nội vụ tham mưu việc sắp xếp thôn, tổ dân phố trong cả nước](https://vov.vn/chinh-tri/thu-tuong-bo-noi-vu-tham-muu-viec-sap-xep-thon-to-dan-pho-trong-ca-nuoc-post1284733.vov) - 07:47 17/04/2026<!-- vov:END -->
+- 🌜 [Thủ tướng: Kiên quyết không để bị động, bất ngờ trước mọi loại hình tội phạm](https://vov.vn/chinh-tri/thu-tuong-kien-quyet-khong-de-bi-dong-bat-ngo-truoc-moi-loai-hinh-toi-pham-post1284953.vov) - 03:52 18/04/2026
+- 🕯 [Thủ tướng: Kiên quyết không để bị động, bất ngờ trước mọi loại hình tội phạm](https://vov.vn/chinh-tri/thu-tuong-kien-quyet-khong-de-bi-dong-bat-ngo-truoc-moi-loai-hinh-toi-pham-post1284953.vov) - 03:52 18/04/2026
+- 🌊 [Chuyên gia Trung Quốc: Chuyến thăm lịch sử của kết nối chiến lược và hợp tác](https://vov.vn/chinh-tri/chuyen-gia-trung-quoc-chuyen-tham-lich-su-cua-ket-noi-chien-luoc-va-hop-tac-post1284940.vov) - 03:04 18/04/2026
+- 🥷 [Ông Trump tiết lộ cách Mỹ sẽ thu hồi urani ở Iran](https://vov.vn/the-gioi/ong-trump-tiet-lo-cach-my-se-thu-hoi-urani-o-iran-post1284916.vov) - 02:24 18/04/2026
+- 🎡 [Ông Trump tiết lộ cách Mỹ sẽ thu hồi urani ở Iran](https://vov.vn/the-gioi/ong-trump-tiet-lo-cach-my-se-thu-hoi-urani-o-iran-post1284916.vov) - 02:24 18/04/2026
+- 🚀 [Việt Nam là đối tác tích cực, có trách nhiệm trong thúc đẩy hợp tác nghị viện](https://vov.vn/chinh-tri/viet-nam-la-doi-tac-tich-cuc-co-trach-nhiem-trong-thuc-day-hop-tac-nghi-vien-post1284906.vov) - 23:58 17/04/2026
+- 🔥 [Giảm trừ chi phí y tế, giáo dục khi tính thuế: Cần rộng tay hơn](https://vov.vn/kinh-te/giam-tru-chi-phi-y-te-giao-duc-khi-tinh-thue-can-rong-tay-hon-post1284810.vov) - 23:36 17/04/2026
+- 🌋 [Hà Nội cấm trường THPT tư thục thi riêng vào lớp 10: Giảm áp lực hay thu hẹp cơ hội?](https://vov.vn/xa-hoi/ha-noi-cam-truong-thpt-tu-thuc-thi-rieng-vao-lop-10-giam-ap-luc-hay-thu-hep-co-hoi-post1284502.vov) - 23:32 17/04/2026
+- 🕴 [Ông Trump nói Iran “đồng ý với mọi điều” trong đàm phán và phản hồi của Tehran](https://vov.vn/the-gioi/ong-trump-noi-iran-dong-y-voi-moi-dieu-trong-dam-phan-va-phan-hoi-cua-tehran-post1284896.vov) - 22:57 17/04/2026
+- 🥰 [Chủ tịch Quốc hội Trần Thanh Mẫn gặp cộng đồng người Việt Nam tại Thổ Nhĩ Kỳ](https://vov.vn/nguoi-viet/kieu-bao/chu-tich-quoc-hoi-tran-thanh-man-gap-cong-dong-nguoi-viet-nam-tai-tho-nhi-ky-post1284895.vov) - 22:56 17/04/2026
+- 🧐 [Eo biển Hormuz sẽ không còn là “điểm nghẽn”?](https://vov.vn/the-gioi/eo-bien-hormuz-se-khong-con-la-diem-nghen-post1284886.vov) - 16:13 17/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
