@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- nld-quoc-te:START -->
-- 💡 [NÓNG: Iran tuyên bố tái đóng cửa eo biển Hormuz](https://nld.com.vn/nong-iran-tuyen-bo-tai-dong-cua-eo-bien-hormuz-196260418154625187.htm) - 08:54 18/04/2026
-- 🎬 [Ghi nhận hiện tượng vũ trụ chưa từng có tiền lệ](https://nld.com.vn/ghi-nhan-hien-tuong-vu-tru-chua-tung-co-tien-le-196260418101333633.htm) - 04:58 18/04/2026
-- 😺 [Mỹ bất ngờ mang tin vui cho Nga, đẩy châu Âu vào thế khó](https://nld.com.vn/my-bat-ngo-mang-tin-vui-cho-nga-day-chau-au-vao-the-kho-196260418102158988.htm) - 03:28 18/04/2026
-- 🚦 [Mỹ phát triển xét nghiệm ung thư giá rẻ](https://nld.com.vn/my-phat-trien-xet-nghiem-ung-thu-gia-re-196260417151257938.htm) - 03:17 18/04/2026
-- 🚦 [&quot;Gã khổng lồ vàng&quot; xuất hiện trên bầu trời Trái Đất, sắp nổ](https://nld.com.vn/ga-khong-lo-vang-xuat-hien-tren-bau-troi-trai-dat-sap-no-196260417122019682.htm) - 02:46 18/04/2026
-- 💡 [Iran phản bác tuyên bố của ông Donald Trump, nhấn mạnh 4 yêu cầu ở Hormuz](https://nld.com.vn/iran-phan-bac-tuyen-bo-cua-ong-donald-trump-nhan-manh-4-yeu-cau-o-hormuz-196260418083635044.htm) - 02:07 18/04/2026
-- 🤓 [Trung Quốc &quot;sẵn sàng tiếp nhận uranium&quot;, ông Donald Trump nói Mỹ sẽ vào Iran để lấy](https://nld.com.vn/trung-quoc-san-sang-tiep-nhan-uranium-ong-donald-trump-noi-my-se-vao-iran-de-lay-196260418065953932.htm) - 00:16 18/04/2026
-- 🎃 [Nguy cơ thiếu nhiên liệu máy bay toàn cầu](https://nld.com.vn/nguy-co-thieu-nhien-lieu-may-bay-toan-cau-196260417203740464.htm) - 23:36 17/04/2026
-- 🧑‍💻 [Điểm nóng xung đột ngày 18-4: &quot;Xương sống&quot; của lực lượng Mỹ phong tỏa cảng Iran](https://nld.com.vn/diem-nong-xung-dot-ngay-18-4-xuong-song-cua-luc-luong-my-phong-toa-cang-iran-196260417192548013.htm) - 20:21 17/04/2026
-- 💄 [Singapore tăng cường chống bắt nạt học đường](https://nld.com.vn/singapore-tang-cuong-chong-bat-nat-hoc-duong-196260417204059239.htm) - 20:00 17/04/2026
-- 👀 [Ông Donald Trump nói Israel &quot;bị cấm&quot; ném bom ở Lebanon, Iran &quot;hứa không bao giờ đóng Hormuz&quot;](https://nld.com.vn/ong-donald-trump-noi-israel-bi-cam-nem-bom-o-lebanon-iran-hua-khong-bao-gio-dong-hormuz-196260417223351206.htm) - 16:01 17/04/2026
-- 🤩 [Iran thông báo &quot;mở cửa hoàn toàn&quot; eo biển Hormuz, ông Donald Trump &quot;cảm ơn&quot;](https://nld.com.vn/iran-thong-bao-mo-cua-hoan-toan-eo-bien-hormuz-ong-donald-trump-cam-on-196260417204708055.htm) - 14:09 17/04/2026
-- 🤖 [Xung đột Trung Đông 17-4: Iran tuyên bố &quot;vẫn sẵn sàng bóp cò&quot;, tín hiệu tích cực xuất hiện](https://nld.com.vn/xung-dot-trung-dong-17-4-iran-tuyen-bo-van-san-sang-bop-co-tin-hieu-tich-cuc-xuat-hien-196260417155702941.htm) - 12:06 17/04/2026
-- 👨‍🏫 [Iran lại &quot;lắc đầu&quot; trước tuyên bố hạt nhân của ông Donald Trump](https://nld.com.vn/iran-lai-lac-dau-truoc-tuyen-bo-hat-nhan-cua-ong-donald-trump-196260417170342044.htm) - 10:27 17/04/2026
-- 🥳 [Mỹ gấp rút điều lực lượng, quyết xử lý thủy lôi tử thần ở Hormuz?](https://nld.com.vn/my-gap-rut-dieu-luc-luong-quyet-xu-ly-thuy-loi-tu-than-o-hormuz-196260413225720913.htm) - 09:06 17/04/2026
-- 🎭 [Sinh vật lạ ẩn mình trong hang động nồng nặc mùi tử khí](https://nld.com.vn/sinh-vat-la-an-minh-trong-hang-dong-nong-nac-mui-tu-khi-196260417112243874.htm) - 06:25 17/04/2026
+- 💡 [Thừa nhận cay đắng của cựu quan chức Mỹ về “lực lượng bóng tối” của Iran](https://nld.com.vn/thua-nhan-cay-dang-cua-cuu-quan-chuc-my-ve-luc-luong-bong-toi-cua-iran-196260419102834034.htm) - 08:24 19/04/2026
+- 🎬 [Hỏa lực Iran vẫn đáng gờm dù bị Mỹ - Israel dội bom ác liệt](https://nld.com.vn/hoa-luc-iran-van-dang-gom-du-bi-my-israel-doi-bom-ac-liet-196260419094629404.htm) - 03:22 19/04/2026
+- 😺 [Cuộc họp “giờ G” của ông Donald Trump về khủng hoảng eo biển Hormuz](https://nld.com.vn/cuoc-hop-gio-g-cua-ong-donald-trump-ve-khung-hoang-eo-bien-hormuz-196260419092851361.htm) - 03:01 19/04/2026
+- 🚦 [“Thế giới sự sống” gây sốc bên dưới nghĩa trang New York](https://nld.com.vn/the-gioi-su-song-gay-soc-ben-duoi-nghia-trang-new-york-196260418112812143.htm) - 02:27 19/04/2026
+- 🚦 [Mỹ tuyên bố sẽ bắt giữ tàu liên quan đến Iran](https://nld.com.vn/my-tuyen-bo-se-bat-giu-tau-lien-quan-den-iran-196260419072104821.htm) - 01:01 19/04/2026
+- 💡 [Mơ hồ bao trùm eo biển Hormuz](https://nld.com.vn/mo-ho-bao-trum-eo-bien-hormuz-196260418201825044.htm) - 22:20 18/04/2026
+- 🤓 [Ván cờ phụ trong trận cờ chính](https://nld.com.vn/van-co-phu-trong-tran-co-chinh-196260418202331813.htm) - 22:11 18/04/2026
+- 🎃 [Điểm nóng xung đột ngày 19-4: Nội bộ Iran lủng củng về eo biển Hormuz?](https://nld.com.vn/diem-nong-xung-dot-ngay-19-4-noi-bo-iran-lung-cung-ve-eo-bien-hormuz-196260418210935255.htm) - 20:27 18/04/2026
+- 🧑‍💻 [Hệ thống hải lưu quan trọng trên bờ vực sụp đổ](https://nld.com.vn/he-thong-hai-luu-quan-trong-tren-bo-vuc-sup-do-196260418201717293.htm) - 18:08 18/04/2026
+- 💄 [Xả súng ở thủ đô Ukraine, 15 người thương vong](https://nld.com.vn/xa-sung-o-thu-do-ukraine-15-nguoi-thuong-vong-19626041823571769.htm) - 17:05 18/04/2026
+- 👀 [Tàu sân bay và tàu đổ bộ Mỹ ở Trung Đông đang thiếu thực phẩm?](https://nld.com.vn/tau-san-bay-va-tau-do-bo-my-o-trung-dong-dang-thieu-thuc-pham-196260418153244473.htm) - 14:23 18/04/2026
+- 🤩 [TPHCM mở rộng cơ hội hợp tác với Úc](https://nld.com.vn/tphcm-mo-rong-co-hoi-hop-tac-voi-uc-196260418200329909.htm) - 13:35 18/04/2026
+- 🤖 [Hải quân Iran nổ súng ở eo biển Hormuz](https://nld.com.vn/hai-quan-iran-no-sung-o-eo-bien-hormuz-196260418184541154.htm) - 12:00 18/04/2026
+- 👨‍🏫 [Chiến sự Trung Đông ngày 18-4: Iran muốn &quot;bước ngoặt&quot; về Hormuz; tổng thống Mỹ đe dọa tấn công](https://nld.com.vn/chien-su-trung-dong-ngay-18-4-iran-muon-buoc-ngoat-ve-hormuz-tong-thong-my-de-doa-tan-cong-196260418160318185.htm) - 11:55 18/04/2026
+- 🥳 [Nghi vấn lớn trong vụ 11 nhà khoa học Mỹ tử vong và mất tích bí ẩn](https://nld.com.vn/nghi-van-lon-trong-vu-11-nha-khoa-hoc-my-tu-vong-va-mat-tich-bi-an-196260418160752948.htm) - 10:57 18/04/2026
+- 🎭 [Iran tuyên bố tái đóng cửa eo biển Hormuz](https://nld.com.vn/nong-iran-tuyen-bo-tai-dong-cua-eo-bien-hormuz-196260418154625187.htm) - 08:54 18/04/2026
+- 🚀 [Ghi nhận hiện tượng vũ trụ chưa từng có tiền lệ](https://nld.com.vn/ghi-nhan-hien-tuong-vu-tru-chua-tung-co-tien-le-196260418101333633.htm) - 04:58 18/04/2026
+- 🪜 [Mỹ bất ngờ mang tin vui cho Nga, đẩy châu Âu vào thế khó](https://nld.com.vn/my-bat-ngo-mang-tin-vui-cho-nga-day-chau-au-vao-the-kho-196260418102158988.htm) - 03:28 18/04/2026
+- 🌋 [Mỹ phát triển xét nghiệm ung thư giá rẻ](https://nld.com.vn/my-phat-trien-xet-nghiem-ung-thu-gia-re-196260417151257938.htm) - 03:17 18/04/2026
+- 🤔 [&quot;Gã khổng lồ vàng&quot; xuất hiện trên bầu trời Trái Đất, sắp nổ](https://nld.com.vn/ga-khong-lo-vang-xuat-hien-tren-bau-troi-trai-dat-sap-no-196260417122019682.htm) - 02:46 18/04/2026
+- 🥳 [Iran phản bác tuyên bố của ông Donald Trump, nhấn mạnh 4 yêu cầu ở Hormuz](https://nld.com.vn/iran-phan-bac-tuyen-bo-cua-ong-donald-trump-nhan-manh-4-yeu-cau-o-hormuz-196260418083635044.htm) - 02:07 18/04/2026
+- 👺 [Trung Quốc &quot;sẵn sàng tiếp nhận uranium&quot;, ông Donald Trump nói Mỹ sẽ vào Iran để lấy](https://nld.com.vn/trung-quoc-san-sang-tiep-nhan-uranium-ong-donald-trump-noi-my-se-vao-iran-de-lay-196260418065953932.htm) - 00:16 18/04/2026
+- ⛽️ [Nguy cơ thiếu nhiên liệu máy bay toàn cầu](https://nld.com.vn/nguy-co-thieu-nhien-lieu-may-bay-toan-cau-196260417203740464.htm) - 23:36 17/04/2026
+- 🎉 [Điểm nóng xung đột ngày 18-4: &quot;Xương sống&quot; của lực lượng Mỹ phong tỏa cảng Iran](https://nld.com.vn/diem-nong-xung-dot-ngay-18-4-xuong-song-cua-luc-luong-my-phong-toa-cang-iran-196260417192548013.htm) - 20:21 17/04/2026
+- ⚗️ [Singapore tăng cường chống bắt nạt học đường](https://nld.com.vn/singapore-tang-cuong-chong-bat-nat-hoc-duong-196260417204059239.htm) - 20:00 17/04/2026
+- 🎡 [Ông Donald Trump nói Israel &quot;bị cấm&quot; ném bom ở Lebanon, Iran &quot;hứa không bao giờ đóng Hormuz&quot;](https://nld.com.vn/ong-donald-trump-noi-israel-bi-cam-nem-bom-o-lebanon-iran-hua-khong-bao-gio-dong-hormuz-196260417223351206.htm) - 16:01 17/04/2026
+- 🪜 [Iran thông báo &quot;mở cửa hoàn toàn&quot; eo biển Hormuz, ông Donald Trump &quot;cảm ơn&quot;](https://nld.com.vn/iran-thong-bao-mo-cua-hoan-toan-eo-bien-hormuz-ong-donald-trump-cam-on-196260417204708055.htm) - 14:09 17/04/2026
+- 🐘 [Xung đột Trung Đông 17-4: Iran tuyên bố &quot;vẫn sẵn sàng bóp cò&quot;, tín hiệu tích cực xuất hiện](https://nld.com.vn/xung-dot-trung-dong-17-4-iran-tuyen-bo-van-san-sang-bop-co-tin-hieu-tich-cuc-xuat-hien-196260417155702941.htm) - 12:06 17/04/2026
+- 🦣 [Iran lại &quot;lắc đầu&quot; trước tuyên bố hạt nhân của ông Donald Trump](https://nld.com.vn/iran-lai-lac-dau-truoc-tuyen-bo-hat-nhan-cua-ong-donald-trump-196260417170342044.htm) - 10:27 17/04/2026
+- 📝 [Mỹ gấp rút điều lực lượng, quyết xử lý thủy lôi tử thần ở Hormuz?](https://nld.com.vn/my-gap-rut-dieu-luc-luong-quyet-xu-ly-thuy-loi-tu-than-o-hormuz-196260413225720913.htm) - 09:06 17/04/2026
+- 🙉 [Sinh vật lạ ẩn mình trong hang động nồng nặc mùi tử khí](https://nld.com.vn/sinh-vat-la-an-minh-trong-hang-dong-nong-nac-mui-tu-khi-196260417112243874.htm) - 06:25 17/04/2026
 - 🚀 [Quân đội Lebanon cáo buộc Israel vi phạm lệnh ngừng bắn](https://nld.com.vn/quan-doi-lebanon-cao-buoc-israel-vi-pham-lenh-ngung-ban-196260417092913955.htm) - 03:13 17/04/2026
-- 🪜 [Máy bay ném bom tàng hình mới của Mỹ lần đầu “tung cánh”](https://nld.com.vn/may-bay-nem-bom-tang-hinh-moi-cua-my-lan-dau-tung-canh-19626041709241794.htm) - 02:46 17/04/2026
-- 🌋 [Vỏ Trái Đất chìm xuống, kho báu vô song xuất hiện](https://nld.com.vn/vo-trai-dat-chim-xuong-kho-bau-vo-song-xuat-hien-196260416121712477.htm) - 02:20 17/04/2026
-- 🤔 [Ông Donald Trump tuyên bố Iran đồng ý giao uranium làm giàu; giải quyết &quot;cuộc chiến thứ 10&quot;](https://nld.com.vn/ong-donald-trump-tuyen-bo-iran-dong-y-giao-uranium-lam-giau-giai-quyet-cuoc-chien-thu-10-196260417071302326.htm) - 00:25 17/04/2026
-- 🥳 [EU ra mắt ứng dụng xác minh độ tuổi](https://nld.com.vn/eu-ra-mat-ung-dung-xac-minh-do-tuoi-196260416212134372.htm) - 00:17 17/04/2026
-- 👺 [Mỹ chuyển hướng chiến lược đối với Iran](https://nld.com.vn/my-chuyen-huong-chien-luoc-doi-voi-iran-196260416212026692.htm) - 23:30 16/04/2026
-- ⛽️ [Điểm nóng xung đột ngày 17-4: NATO ra sao nếu không còn Mỹ?](https://nld.com.vn/diem-nong-xung-dot-ngay-17-4-nato-ra-sao-neu-khong-con-my-196260411114611724.htm) - 23:12 16/04/2026
-- 🎉 [Việt Nam - Thổ Nhĩ Kỳ thúc đẩy hợp tác](https://nld.com.vn/viet-nam-tho-nhi-ky-thuc-day-hop-tac-196260416211911456.htm) - 22:30 16/04/2026
-- ⚗️ [Iran buông lời dứt khoát; ông Donald Trump báo tin lạc quan](https://nld.com.vn/iran-buong-loi-dut-khoat-ong-donald-trump-bao-tin-lac-quan-196260416164315376.htm) - 14:17 16/04/2026
-- 🎡 [Chiến sự Trung Đông 16-4: Mỹ tuyên bố chặn 10 tàu ở Hormuz, Israel gây bất ngờ](https://nld.com.vn/chien-su-trung-dong-16-4-my-tuyen-bo-chan-10-tau-o-hormuz-israel-gay-bat-ngo-196260416164300306.htm) - 11:17 16/04/2026
-- 🪜 [Quyết ép đến cùng, Mỹ có giải được &quot;ẩn số&quot; của Iran?](https://nld.com.vn/quyet-ep-den-cung-my-co-giai-duoc-an-so-cua-iran-19626041612381702.htm) - 07:15 16/04/2026
-- 🐘 [&quot;Di tích&quot; của một vũ trụ khác đang bao vây chúng ta?](https://nld.com.vn/di-tich-cua-mot-vu-tru-khac-dang-bao-vay-chung-ta-19626041611075768.htm) - 05:31 16/04/2026
-- 🦣 [Mỹ muốn tăng áp lực kinh tế để buộc Iran khuất phục](https://nld.com.vn/my-muon-tang-ap-luc-kinh-te-de-buoc-iran-khuat-phuc-196260416093049918.htm) - 03:09 16/04/2026
-- 📝 [Úc: Nổ lớn và hỏa hoạn tại nhà máy lọc dầu, lực lượng cứu hỏa bất lực](https://nld.com.vn/uc-no-lon-va-hoa-hoan-tai-nha-may-loc-dau-luc-luong-cuu-hoa-bat-luc-196260416090538824.htm) - 02:36 16/04/2026
-- 🙉 [Cố vấn Lãnh tụ tối cao Iran: “Sẽ đánh chìm tàu Mỹ ngay đợt tên lửa đầu tiên”](https://nld.com.vn/co-van-lanh-tu-toi-cao-iran-se-danh-chim-tau-my-ngay-dot-ten-lua-dau-tien-196260416073530214.htm) - 00:51 16/04/2026
-- 🚀 [Điểm nóng xung đột ngày 16-4: Tình hình tàu qua eo biển Hormuz như thế nào?](https://nld.com.vn/diem-nong-xung-dot-ngay-16-4-tinh-hinh-tau-qua-eo-bien-hormuz-nhu-the-nao-196260415001816521.htm) - 21:35 15/04/2026
-- 💻 [Đêm mai, chờ đón “cầu lửa” Thiên Cầm rực sáng dưới trăng non](https://nld.com.vn/dem-mai-cho-don-cau-lua-thien-cam-ruc-sang-duoi-trang-non-196260415223417289.htm) - 21:00 15/04/2026
-- 🧑‍💻 [Việt Nam ủng hộ mạnh mẽ hợp tác đa phương](https://nld.com.vn/viet-nam-ung-ho-manh-me-hop-tac-da-phuong-196260415202730411.htm) - 19:31 15/04/2026
-- 💃 [Gia tăng hy vọng Mỹ - Iran nối lại đàm phán](https://nld.com.vn/gia-tang-hy-vong-my-iran-noi-lai-dam-phan-196260415202835516.htm) - 18:34 15/04/2026
-- 💡 [Báo Mỹ: Mỹ gửi thêm 10.000 quân đến Trung Đông](https://nld.com.vn/bao-my-my-gui-them-10000-quan-den-trung-dong-196260415182940.htm) - 15:03 15/04/2026
-- 🤖 [Ukraine nói lần đầu dùng “robot sát thủ” chiếm trận địa Nga, không cần tới bộ binh](https://nld.com.vn/ukraine-noi-lan-dau-dung-robot-sat-thu-chiem-tran-dia-nga-khong-can-toi-bo-binh-19626041518172535.htm) - 12:31 15/04/2026
-- 💂 [Chiến sự Trung Đông 15-4: Nhiều tàu từ Iran &quot;thoát ải&quot; Hormuz, tổng thống Iran ra cảnh báo mới](https://nld.com.vn/chien-su-trung-dong-15-4-nhieu-tau-tu-iran-thoat-ai-hormuz-tong-thong-iran-ra-canh-bao-moi-196260415162051479.htm) - 11:27 15/04/2026
-- 🔭 [Ảnh vệ tinh hé lộ tàn tích máy bay Mỹ tại đường băng hẻo lánh ở Iran](https://nld.com.vn/anh-ve-tinh-he-lo-tan-tich-may-bay-my-tai-duong-bang-heo-lanh-o-iran-196260415144107199.htm) - 09:50 15/04/2026
-- 🚀 [Quân đội Mỹ thiết lập phong tỏa tại vịnh Oman để chặn tàu ra vào Iran](https://nld.com.vn/quan-doi-my-thiet-lap-phong-toa-tai-vinh-oman-de-chan-tau-ra-vao-iran-196260415085735441.htm) - 07:53 15/04/2026
-- 🦄 [Tự tin về Hormuz, Mỹ chuẩn bị tung chiến dịch &quot;Cơn thịnh nộ kinh tế&quot; nhắm vào Iran](https://nld.com.vn/tu-tin-ve-hormuz-my-chuan-bi-tung-chien-dich-con-thinh-no-kinh-te-nham-vao-iran-196260415085556566.htm) - 05:59 15/04/2026
-- 🧑‍🏫 [Tin xấu từ thế giới 7 hành tinh &quot;gần giống Trái Đất&quot;](https://nld.com.vn/tin-xau-tu-the-gioi-7-hanh-tinh-gan-giong-trai-dat-196260415114334928.htm) - 05:56 15/04/2026
-- 🦍 [Hải quân Mỹ tuyên bố buộc 8 tàu chở dầu &quot;liên quan Iran&quot; phải quay đầu ở Hormuz](https://nld.com.vn/hai-quan-my-tuyen-bo-buoc-8-tau-cho-dau-lien-quan-iran-phai-quay-dau-o-hormuz-196260415103818391.htm) - 04:02 15/04/2026
-- ⛽️ [Giây phút nghẹt thở: Hiệu trưởng trúng đạn vẫn lao vào chặn tay súng ở Mỹ](https://nld.com.vn/giay-phut-nghet-tho-hieu-truong-trung-dan-van-lao-vao-chan-tay-sung-o-my-196260415101428722.htm) - 03:56 15/04/2026
-- 🤓 [Quái vật thế giới chưa từng biết &quot;trỗi dậy&quot; từ khối đá trong bảo tàng](https://nld.com.vn/quai-vat-the-gioi-chua-tung-biet-troi-day-tu-khoi-da-trong-bao-tang-196260415100151202.htm) - 03:13 15/04/2026
-- 🌋 [Tổng thống Donald Trump: Chiến sự ở Iran &quot;sắp kết thúc&quot;](https://nld.com.vn/tong-thong-donald-trump-chien-su-o-iran-sap-ket-thuc-196260415091421411.htm) - 03:03 15/04/2026
-- 📝 [Sợ Iran &quot;giáng đòn chí tử&quot;, Ả Rập Saudi &quot;gây sức ép&quot; với Mỹ](https://nld.com.vn/so-iran-giang-don-chi-tu-a-rap-saudi-gay-suc-ep-voi-my-196260414180933393.htm) - 01:58 15/04/2026
-- 🦍 [Ông Donald Trump ám chỉ đàm phán với Iran diễn ra trong 2 ngày tới](https://nld.com.vn/ong-donald-trump-am-chi-dam-phan-voi-iran-dien-ra-trong-2-ngay-toi-196260415070042406.htm) - 00:13 15/04/2026
-- 👨‍🏫 [Thúc đẩy quan hệ Đối tác chiến lược Việt Nam - Ý](https://nld.com.vn/thuc-day-quan-he-doi-tac-chien-luoc-viet-nam-y-196260414221258366.htm) - 00:00 15/04/2026
-- 🎬 [Nỗ lực tạo vòng đàm phán mới Mỹ - Iran](https://nld.com.vn/no-luc-tao-vong-dam-phan-moi-my-iran-196260414221424392.htm) - 22:17 14/04/2026<!-- nld-quoc-te:END -->
+- 💻 [Máy bay ném bom tàng hình mới của Mỹ lần đầu “tung cánh”](https://nld.com.vn/may-bay-nem-bom-tang-hinh-moi-cua-my-lan-dau-tung-canh-19626041709241794.htm) - 02:46 17/04/2026
+- 🧑‍💻 [Vỏ Trái Đất chìm xuống, kho báu vô song xuất hiện](https://nld.com.vn/vo-trai-dat-chim-xuong-kho-bau-vo-song-xuat-hien-196260416121712477.htm) - 02:20 17/04/2026
+- 💃 [Ông Donald Trump tuyên bố Iran đồng ý giao uranium làm giàu; giải quyết &quot;cuộc chiến thứ 10&quot;](https://nld.com.vn/ong-donald-trump-tuyen-bo-iran-dong-y-giao-uranium-lam-giau-giai-quyet-cuoc-chien-thu-10-196260417071302326.htm) - 00:25 17/04/2026
+- 💡 [EU ra mắt ứng dụng xác minh độ tuổi](https://nld.com.vn/eu-ra-mat-ung-dung-xac-minh-do-tuoi-196260416212134372.htm) - 00:17 17/04/2026
+- 🤖 [Mỹ chuyển hướng chiến lược đối với Iran](https://nld.com.vn/my-chuyen-huong-chien-luoc-doi-voi-iran-196260416212026692.htm) - 23:30 16/04/2026
+- 💂 [Điểm nóng xung đột ngày 17-4: NATO ra sao nếu không còn Mỹ?](https://nld.com.vn/diem-nong-xung-dot-ngay-17-4-nato-ra-sao-neu-khong-con-my-196260411114611724.htm) - 23:12 16/04/2026
+- 🔭 [Việt Nam - Thổ Nhĩ Kỳ thúc đẩy hợp tác](https://nld.com.vn/viet-nam-tho-nhi-ky-thuc-day-hop-tac-196260416211911456.htm) - 22:30 16/04/2026
+- 🚀 [Iran buông lời dứt khoát; ông Donald Trump báo tin lạc quan](https://nld.com.vn/iran-buong-loi-dut-khoat-ong-donald-trump-bao-tin-lac-quan-196260416164315376.htm) - 14:17 16/04/2026
+- 🦄 [Chiến sự Trung Đông 16-4: Mỹ tuyên bố chặn 10 tàu ở Hormuz, Israel gây bất ngờ](https://nld.com.vn/chien-su-trung-dong-16-4-my-tuyen-bo-chan-10-tau-o-hormuz-israel-gay-bat-ngo-196260416164300306.htm) - 11:17 16/04/2026
+- 🧑‍🏫 [Quyết ép đến cùng, Mỹ có giải được &quot;ẩn số&quot; của Iran?](https://nld.com.vn/quyet-ep-den-cung-my-co-giai-duoc-an-so-cua-iran-19626041612381702.htm) - 07:15 16/04/2026
+- 🦍 [&quot;Di tích&quot; của một vũ trụ khác đang bao vây chúng ta?](https://nld.com.vn/di-tich-cua-mot-vu-tru-khac-dang-bao-vay-chung-ta-19626041611075768.htm) - 05:31 16/04/2026
+- ⛽️ [Mỹ muốn tăng áp lực kinh tế để buộc Iran khuất phục](https://nld.com.vn/my-muon-tang-ap-luc-kinh-te-de-buoc-iran-khuat-phuc-196260416093049918.htm) - 03:09 16/04/2026
+- 🤓 [Úc: Nổ lớn và hỏa hoạn tại nhà máy lọc dầu, lực lượng cứu hỏa bất lực](https://nld.com.vn/uc-no-lon-va-hoa-hoan-tai-nha-may-loc-dau-luc-luong-cuu-hoa-bat-luc-196260416090538824.htm) - 02:36 16/04/2026
+- 🌋 [Cố vấn Lãnh tụ tối cao Iran: “Sẽ đánh chìm tàu Mỹ ngay đợt tên lửa đầu tiên”](https://nld.com.vn/co-van-lanh-tu-toi-cao-iran-se-danh-chim-tau-my-ngay-dot-ten-lua-dau-tien-196260416073530214.htm) - 00:51 16/04/2026
+- 📝 [Điểm nóng xung đột ngày 16-4: Tình hình tàu qua eo biển Hormuz như thế nào?](https://nld.com.vn/diem-nong-xung-dot-ngay-16-4-tinh-hinh-tau-qua-eo-bien-hormuz-nhu-the-nao-196260415001816521.htm) - 21:35 15/04/2026
+- 🦍 [Đêm mai, chờ đón “cầu lửa” Thiên Cầm rực sáng dưới trăng non](https://nld.com.vn/dem-mai-cho-don-cau-lua-thien-cam-ruc-sang-duoi-trang-non-196260415223417289.htm) - 21:00 15/04/2026
+- 👨‍🏫 [Việt Nam ủng hộ mạnh mẽ hợp tác đa phương](https://nld.com.vn/viet-nam-ung-ho-manh-me-hop-tac-da-phuong-196260415202730411.htm) - 19:31 15/04/2026
+- 🎬 [Gia tăng hy vọng Mỹ - Iran nối lại đàm phán](https://nld.com.vn/gia-tang-hy-vong-my-iran-noi-lai-dam-phan-196260415202835516.htm) - 18:34 15/04/2026<!-- nld-quoc-te:END -->
