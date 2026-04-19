@@ -708,17 +708,17 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Nóng thế giới ngày 19/4: Iran tái áp đặt hạn chế eo biển Hormuz, cảnh báo cứng rắn](https://vov.vn/the-gioi/nong-the-gioi-ngay-194-iran-tai-ap-dat-han-che-eo-bien-hormuz-canh-bao-cung-ran-post1285018.vov) - 22:30 18/04/2026
-- 🕯 [Vì sao Tết Hàn thực 3/3 Âm lịch nhất thiết phải có bánh trôi, bánh chay?](https://vov.vn/doi-song/vi-sao-tet-han-thuc-33-am-lich-nhat-thiet-phai-co-banh-troi-banh-chay-post1285056.vov) - 22:26 18/04/2026
-- 🌊 [Nóng 24h ngày 19/4: Bữa ăn của học sinh bị rút ruột như thế nào?](https://vov.vn/phap-luat/nong-24h-ngay-194-bua-an-cua-hoc-sinh-bi-rut-ruot-nhu-the-nao-post1285053.vov) - 22:23 18/04/2026
-- 🥷 [80 năm Cảnh sát hình sự Hà Nội: Thép giữa lòng Thủ đô](https://vov.vn/phap-luat/80-nam-canh-sat-hinh-su-ha-noi-thep-giua-long-thu-do-post1285026.vov) - 22:00 18/04/2026
-- 🎡 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 19/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-194-post1285006.vov) - 22:00 18/04/2026
-- 🚀 [Giá xăng dầu ngày 19/4: Giá dầu thế giới giảm mạnh](https://vov.vn/thi-truong/gia-xang-dau-ngay-194-gia-dau-the-gioi-giam-manh-post1285014.vov) - 22:00 18/04/2026
-- 🔥 [Chủ tịch Quốc hội Trần Thanh Mẫn kết thúc tốt đẹp chuyến công tác dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-ket-thuc-tot-dep-chuyen-cong-tac-du-ipu-152-post1285062.vov) - 14:33 18/04/2026
-- 🌋 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
-- 🕴 [Phó Thủ tướng Lê Tiến Châu động viên, khuyến khích học sinh, sinh viên khởi nghiệp](https://vov.vn/xa-hoi/pho-thu-tuong-le-tien-chau-dong-vien-khuyen-khich-hoc-sinh-sinh-vien-khoi-nghiep-post1285009.vov) - 10:54 18/04/2026
-- 🥰 [Iran tái áp đặt hạn chế với eo biển Hormuz](https://vov.vn/the-gioi/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-post1285002.vov) - 09:01 18/04/2026
-- 🧐 [“Vàng tặc” đào núi, mở đường, lắp camera ngang nhiên hoạt động ở miền núi Đà Nẵng](https://vov.vn/xa-hoi/vang-tac-dao-nui-mo-duong-lap-camera-ngang-nhien-hoat-dong-o-mien-nui-da-nang-post1284974.vov) - 07:41 18/04/2026<!-- vov:END -->
+- 🌜 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
+- 🕯 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
+- 🌊 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
+- 🥷 [Cảnh sát hình sự: 80 năm ‘quả đấm thép’ trấn áp tội phạm](https://vov.vn/phap-luat/canh-sat-hinh-su-80-nam-qua-dam-thep-tran-ap-toi-pham-post1285001.vov) - 04:00 19/04/2026
+- 🎡 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
+- 🚀 [Tết Hàn thực: Hương vị bánh truyền thống vẫn “lên ngôi”](https://vov.vn/xa-hoi/tet-han-thuc-huong-vi-banh-truyen-thong-van-len-ngoi-post1285114.vov) - 03:14 19/04/2026
+- 🔥 [Toàn cảnh quốc tế sáng 19/4: Iran &amp;quot;thiết quân luật&amp;quot; Hormuz, cảnh báo đáp trả](https://vov.vn/multimedia/toan-canh-quoc-te-sang-194-iran-thiet-quan-luat-hormuz-canh-bao-dap-tra-post1285097.vov) - 01:34 19/04/2026
+- 🌋 [Đột phá lập pháp bắt đầu từ đâu: Gỡ “nút thắt” hay thay đổi tư duy?](https://vov.vn/chinh-tri/dot-pha-lap-phap-bat-dau-tu-dau-go-nut-that-hay-thay-doi-tu-duy-post1285013.vov) - 23:30 18/04/2026
+- 🕴 [Bán hàng online: Doanh thu trên 500 triệu đồng phải nộp thuế](https://vov.vn/kinh-te/ban-hang-online-doanh-thu-tren-500-trieu-dong-phai-nop-thue-post1284842.vov) - 23:30 18/04/2026
+- 🥰 [Ba &amp;quot;chiếc đồng hồ&amp;quot; trong cuộc chiến Iran](https://vov.vn/the-gioi/quan-sat/ba-chiec-dong-ho-trong-cuoc-chien-iran-post1285000.vov) - 23:11 18/04/2026
+- 🧐 [Bữa ăn học đường: Đừng để “mất bò mới lo làm chuồng”](https://vov.vn/xa-hoi/bua-an-hoc-duong-dung-de-mat-bo-moi-lo-lam-chuong-post1285019.vov) - 23:00 18/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
