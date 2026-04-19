@@ -712,17 +712,17 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
-- 🕯 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
-- 🌊 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
-- 🥷 [Cảnh sát hình sự: 80 năm ‘quả đấm thép’ trấn áp tội phạm](https://vov.vn/phap-luat/canh-sat-hinh-su-80-nam-qua-dam-thep-tran-ap-toi-pham-post1285001.vov) - 04:00 19/04/2026
-- 🎡 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
-- 🚀 [Tết Hàn thực: Hương vị bánh truyền thống vẫn “lên ngôi”](https://vov.vn/xa-hoi/tet-han-thuc-huong-vi-banh-truyen-thong-van-len-ngoi-post1285114.vov) - 03:14 19/04/2026
-- 🔥 [Toàn cảnh quốc tế sáng 19/4: Iran &amp;quot;thiết quân luật&amp;quot; Hormuz, cảnh báo đáp trả](https://vov.vn/multimedia/toan-canh-quoc-te-sang-194-iran-thiet-quan-luat-hormuz-canh-bao-dap-tra-post1285097.vov) - 01:34 19/04/2026
-- 🌋 [Đột phá lập pháp bắt đầu từ đâu: Gỡ “nút thắt” hay thay đổi tư duy?](https://vov.vn/chinh-tri/dot-pha-lap-phap-bat-dau-tu-dau-go-nut-that-hay-thay-doi-tu-duy-post1285013.vov) - 23:30 18/04/2026
-- 🕴 [Bán hàng online: Doanh thu trên 500 triệu đồng phải nộp thuế](https://vov.vn/kinh-te/ban-hang-online-doanh-thu-tren-500-trieu-dong-phai-nop-thue-post1284842.vov) - 23:30 18/04/2026
-- 🥰 [Ba &amp;quot;chiếc đồng hồ&amp;quot; trong cuộc chiến Iran](https://vov.vn/the-gioi/quan-sat/ba-chiec-dong-ho-trong-cuoc-chien-iran-post1285000.vov) - 23:11 18/04/2026
-- 🧐 [Bữa ăn học đường: Đừng để “mất bò mới lo làm chuồng”](https://vov.vn/xa-hoi/bua-an-hoc-duong-dung-de-mat-bo-moi-lo-lam-chuong-post1285019.vov) - 23:00 18/04/2026<!-- vov:END -->
+- 🌜 [Làm gì để không bị gián đoạn nhận lương hưu, trợ cấp BHXH tại Hà Nội?](https://vov.vn/xa-hoi/lam-gi-de-khong-bi-gian-doan-nhan-luong-huu-tro-cap-bhxh-tai-ha-noi-post1285162.vov) - 08:12 19/04/2026
+- 🕯 [Điều tra bổ sung vụ án Mr Pips lừa đảo](https://vov.vn/phap-luat/dieu-tra-bo-sung-vu-an-mr-pips-lua-dao-post1285144.vov) - 07:24 19/04/2026
+- 🌊 [Rộn ràng không gian giao lưu hát Then, đàn Tính của dân tộc Tày tại Hà Nội](https://vov.vn/van-hoa/ron-rang-khong-gian-giao-luu-hat-then-dan-tinh-cua-dan-toc-tay-tai-ha-noi-post1285152.vov) - 07:23 19/04/2026
+- 🥷 [Lễ mừng lúa mới của người Chu Ru sống động giữa lòng Hà Nội](https://vov.vn/van-hoa/le-mung-lua-moi-cua-nguoi-chu-ru-song-dong-giua-long-ha-noi-post1285147.vov) - 07:20 19/04/2026
+- 🎡 [Sóng gió mới: Iran đổi ý về việc mở cửa hoàn toàn eo biển Hormuz](https://vov.vn/the-gioi/quan-sat/song-gio-moi-iran-doi-y-ve-viec-mo-cua-hoan-toan-eo-bien-hormuz-post1285133.vov) - 04:46 19/04/2026
+- 🚀 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
+- 🔥 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
+- 🌋 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
+- 🕴 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
+- 🥰 [Cảnh sát hình sự: 80 năm ‘quả đấm thép’ trấn áp tội phạm](https://vov.vn/phap-luat/canh-sat-hinh-su-80-nam-qua-dam-thep-tran-ap-toi-pham-post1285001.vov) - 04:00 19/04/2026
+- 🧐 [Đột phá lập pháp bắt đầu từ đâu: Gỡ “nút thắt” hay thay đổi tư duy?](https://vov.vn/chinh-tri/dot-pha-lap-phap-bat-dau-tu-dau-go-nut-that-hay-thay-doi-tu-duy-post1285013.vov) - 23:30 18/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
