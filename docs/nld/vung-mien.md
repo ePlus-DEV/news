@@ -4,53 +4,53 @@ sidebar_position: 22
 ---
 
 <!-- nld-vung-mien:START -->
-- 🐎 [Kỹ năng thương lượng và xây dựng điều khoản tiền lương trong thỏa ước lao động tập thể](https://nld.com.vn/ky-nang-thuong-luong-va-xay-dung-dieu-khoan-tien-luong-trong-thoa-uoc-lao-dong-tap-the-196260416162143696.htm) - 11:25 16/04/2026
-- 🦆 [&quot;Xót lòng gia cảnh nam sinh lớp 9 bệnh tật, đi bán vé số dạo ở Cần Thơ&quot;: Lay động nhiều người](https://nld.com.vn/xot-long-gia-canh-nam-sinh-lop-9-benh-tat-di-ban-ve-so-dao-o-can-tho-lay-dong-nhieu-nguoi-196260416170336089.htm) - 10:47 16/04/2026
-- 🐵 [TPHCM: Phường Phước Thắng nói gì về tình trạng lấn chiếm đất công, xây dựng trái phép?](https://nld.com.vn/tphcm-phuong-phuoc-thang-noi-gi-ve-tinh-trang-lan-chiem-dat-cong-xay-dung-trai-phep-19626041616475592.htm) - 10:15 16/04/2026
-- 🐎 [Chính thức công nhận tỉnh Đồng Nai đạt đô thị loại I](https://nld.com.vn/chinh-thuc-cong-nhan-tinh-dong-nai-dat-do-thi-loai-i-196260416163014486.htm) - 09:55 16/04/2026
-- 🦆 [Dã tâm của cô gái 26 tuổi ở Cà Mau](https://nld.com.vn/da-tam-cua-co-gai-26-tuoi-o-ca-mau-196260416152529064.htm) - 09:54 16/04/2026
-- 🦆 [Một phường ở Cần Thơ hỗ trợ &quot;gỡ rối&quot; pháp lý cho người dân](https://nld.com.vn/mot-phuong-o-can-tho-ho-tro-go-roi-phap-ly-cho-nguoi-dan-196260416102429601.htm) - 09:49 16/04/2026
-- 🌝 [Vụ cô giáo dùng kim tiêm xử phạt học sinh ở TPHCM: Đã có kết quả kiểm tra sức khỏe](https://nld.com.vn/vu-co-giao-dung-kim-tiem-xu-phat-hoc-sinh-o-tphcm-da-co-ket-qua-kiem-tra-suc-khoe-196260416154700595.htm) - 09:05 16/04/2026
-- 🦣 [Khám xét, bắt tạm giam giám đốc Công ty TNHH Châu Kiệt An](https://nld.com.vn/kham-xet-bat-tam-giam-giam-doc-cong-ty-tnhh-chau-kiet-an-196260416153719033.htm) - 08:51 16/04/2026
-- 🌁 [Phẫn nộ clip người cha lôi con nhỏ ra đánh tới tấp giữa khu dân cư TPHCM](https://nld.com.vn/phan-no-clip-nguoi-cha-loi-con-nho-ra-danh-toi-tap-giua-khu-dan-cu-tphcm-196260416151220837.htm) - 08:40 16/04/2026
-- 🎓 [Chiều 16-4, nhiều người ở TPHCM, Tây Ninh và An Giang trúng xổ số miền Nam](https://nld.com.vn/chieu-16-4-nhieu-nguoi-o-tphcm-tay-ninh-va-an-giang-trung-xo-so-mien-nam-196260416152934325.htm) - 08:30 16/04/2026
-- 🦩 [Công bố các quyết định về công tác cán bộ ở Đồng Nai](https://nld.com.vn/cong-bo-cac-quyet-dinh-ve-cong-tac-can-bo-o-dong-nai-196260416150927608.htm) - 08:27 16/04/2026
-- 💡 [Hình ảnh hạ giải bảo tàng trên thành cổ 200 tuổi ở Đà Nẵng](https://nld.com.vn/canh-ha-giai-bao-tang-tren-thanh-co-200-tuoi-o-da-nang-19626041614544542.htm) - 08:23 16/04/2026
-- 🎊 [Kết luận nguyên nhân nước biển Bãi Sau Vũng Tàu đổi màu đỏ, xanh](https://nld.com.vn/ket-luan-nguyen-nhan-nuoc-bien-bai-sau-vung-tau-doi-mau-do-xanh-196260416143825064.htm) - 07:56 16/04/2026
-- 🌁 [Lốc xoáy quật sập cổng nhà văn hoá, nhiều nhà dân tốc mái](https://nld.com.vn/loc-xoay-quat-sap-cong-nha-van-hoa-nhieu-nha-dan-toc-mai-196260416142021125.htm) - 07:30 16/04/2026
-- 🦏 [Người miền Tây ùn ùn đưa con đi tiêm vắc-xin phòng viêm não mô cầu](https://nld.com.vn/nguoi-mien-tay-un-un-dua-con-di-tiem-vac-xin-phong-viem-nao-mo-cau-196260416134437674.htm) - 07:00 16/04/2026
-- 💼 [Hình ảnh ngày sách và văn hóa đọc Việt Nam tại Đồng Nai](https://nld.com.vn/hinh-anh-ngay-sach-va-van-hoa-doc-viet-nam-tai-dong-nai-196260416120657913.htm) - 06:59 16/04/2026
-- 🦆 [Công an TPHCM bắt tạm giam ông Lê Văn Hoàng trong vụ xây hàng chục căn nhà trên đất người khác](https://nld.com.vn/cong-an-tphcm-bat-tam-giam-ong-le-van-hoang-trong-vu-xay-hang-chuc-can-nha-tren-dat-nguoi-khac-196260416134127065.htm) - 06:58 16/04/2026
-- 🦄 [Phát hiện bé sơ sinh còn nguyên dây rốn bị bỏ trong túi xách ở TPHCM](https://nld.com.vn/phat-hien-be-so-sinh-con-nguyen-day-ron-bi-bo-trong-tui-xach-o-tphcm-196260416114946855.htm) - 05:25 16/04/2026
-- 🌏 [Phát hiện, xử lý hơn 5.500 đối tượng vi phạm dọc tuyến biên giới Tây Ninh](https://nld.com.vn/phat-hien-xu-ly-hon-5500-doi-tuong-vi-pham-doc-tuyen-bien-gioi-tay-ninh-19626041610405046.htm) - 04:16 16/04/2026
-- ⛽️ [Clip 49 giây ghi lại cảnh cứu và sơ cứu 2 vợ chồng du khách ngay trên bãi biển Vũng Tàu](https://nld.com.vn/clip-cuu-va-so-cuu-2-vo-chong-du-khach-ngay-tren-bai-bien-vung-tau-196260416102653828.htm) - 04:02 16/04/2026
-- 🥰 [Trưởng Công an, Phó trưởng Công an phường Cửa Nam và 14 cán bộ không hoàn thành nhiệm vụ](https://nld.com.vn/truong-cong-an-pho-truong-cong-an-phuong-cua-nam-va-14-can-bo-khong-hoan-thanh-nhiem-vu-196260416101737749.htm) - 03:32 16/04/2026
-- 🥰 [Vụ cô giáo dùng kim tiêm xử phạt học sinh ở TPHCM: Bác sĩ cảnh báo điều này](https://nld.com.vn/vu-co-giao-dung-kim-tiem-xu-phat-hoc-sinh-o-tphcm-bac-si-canh-bao-dieu-nay-19626041608573036.htm) - 03:07 16/04/2026
-- 🦍 [Gần 1 năm mới kiểm tra két sắt, chủ cơ sở tá hỏa phát hiện mất 30 lượng vàng 9999](https://nld.com.vn/gan-1-nam-moi-kiem-tra-ket-sat-chu-co-so-ta-hoa-phat-hien-mat-30-luong-vang-9999-196260416074821802.htm) - 02:05 16/04/2026
-- 🫶 [Bé gái 12 tuổi bị khống chế, hiếp dâm trong quán cà phê chòi](https://nld.com.vn/be-gai-12-tuoi-bi-khong-che-hiep-dam-trong-quan-ca-phe-choi-196260416081201514.htm) - 01:44 16/04/2026
-- 💫 [Phú Quý không một mình](https://nld.com.vn/phu-quy-khong-mot-minh-196260415211325985.htm) - 22:32 15/04/2026
-- 🌋 [Sáng 16-4, tiếp tục xuất hiện 160 vé xổ số miền Nam trúng độc đắc và an ủi](https://nld.com.vn/sang-16-4-tiep-tuc-xuat-hien-160-ve-xo-so-mien-nam-trung-doc-dac-va-an-ui-196260415173932861.htm) - 22:00 15/04/2026
-- 📝 [Băn khoăn cách chi tiền hỗ trợ](https://nld.com.vn/ban-khoan-cach-chi-tien-ho-tro-196260415211209888.htm) - 21:30 15/04/2026
-- 💼 [Tạm đình chỉ giáo viên liên quan phản ánh dùng kim tiêm “răn đe” học sinh ở TPHCM](https://nld.com.vn/tam-dinh-chi-giao-vien-lien-quan-phan-anh-dung-kim-tiem-ran-de-hoc-sinh-o-tphcm-19626041519555642.htm) - 13:09 15/04/2026
-- 🧑‍💻 [Xót lòng gia cảnh nam sinh lớp 9 bệnh tật, đi bán vé số dạo ở Cần Thơ](https://nld.com.vn/xot-long-gia-canh-nam-sinh-lop-9-benh-tat-di-ban-ve-so-dao-o-can-tho-196260415162335139.htm) - 09:55 15/04/2026
-- ⚗️ [Bắt đối tượng chém anh vợ ở Đồng Nai](https://nld.com.vn/bat-doi-tuong-chem-anh-vo-o-dong-nai-196260415160342576.htm) - 09:53 15/04/2026
-- 🦅 [Vụ sạt lở nghiêm trọng ở Tây Ninh: Công trình mới hoàn thành, chưa nghiệm thu](https://nld.com.vn/vu-sat-lo-nghiem-trong-o-tay-ninh-cong-trinh-moi-hoan-thanh-chua-nghiem-thu-196260415160303649.htm) - 09:04 15/04/2026
-- 🦅 [Người mẹ nghèo xúc động cảm ơn bệnh viện cứu sống con gái mình](https://nld.com.vn/nguoi-me-ngheo-xuc-dong-cam-on-benh-vien-cuu-song-con-gai-minh-196260415152143718.htm) - 08:26 15/04/2026
-- 🧠 [Chiều 15-4, xổ số miền Nam tìm ra nơi trúng 2 giải độc đắc](https://nld.com.vn/chieu-15-4-xo-so-mien-nam-tim-ra-noi-trung-2-giai-doc-dac-196260415140527707.htm) - 08:11 15/04/2026
-- 🦣 [Đồng Nai mở rộng 3 tuyến đường đi qua đô thị Biên Hòa](https://nld.com.vn/dong-nai-mo-rong-3-tuyen-duong-di-qua-do-thi-bien-hoa-19626041514012649.htm) - 07:53 15/04/2026
-- 👀 [Mô hình hình nộm CSGT “bắn tốc độ” ở Tây Ninh nhận lời khen từ cộng đồng mạng](https://nld.com.vn/mo-hinh-hinh-nom-csgt-ban-toc-do-o-tay-ninh-nhan-loi-khen-tu-cong-dong-mang-19626041514112885.htm) - 07:52 15/04/2026
-- 🚀 [Đà Nẵng Times Square - FUTA Residence sẵn sàng ký hợp đồng mua bán, tiến gần ngày bàn giao](https://nld.com.vn/da-nang-times-square-futa-residence-san-sang-ky-hop-dong-mua-ban-tien-gan-ngay-ban-giao-196260414183830653.htm) - 06:38 15/04/2026
-- 🌮 [CLIP: Cháy quán Ếch 62 ở Tây Ninh, nhiều người hốt hoảng](https://nld.com.vn/clip-chay-quan-ech-62-o-tay-ninh-nhieu-nguoi-hot-hoang-196260415132644046.htm) - 06:32 15/04/2026
-- 🤗 [Cưỡng chế 9 trường hợp, bàn giao mặt bằng dự án đường trục chính Vũng Tàu](https://nld.com.vn/cuong-che-9-truong-hop-ban-giao-mat-bang-du-an-duong-truc-chinh-vung-tau-196260415124355343.htm) - 06:28 15/04/2026
-- 🤖 [Hình ảnh lổn ngổn sâu biển dạt vào bờ biển Bãi Sau Vũng Tàu](https://nld.com.vn/hinh-anh-lon-ngon-sau-bien-dat-vao-bo-bien-bai-sau-vung-tau-196260415112225146.htm) - 05:37 15/04/2026
-- 🌝 [Lộ diện 8 người trúng giải độc đắc vé số cào Cần Thơ](https://nld.com.vn/lo-dien-8-nguoi-trung-giai-doc-dac-ve-so-cao-can-tho-196260415101922481.htm) - 04:55 15/04/2026
-- 👀 [Đà Nẵng siết an toàn thực phẩm, mục tiêu quản lý 100% hàng quán đường phố](https://nld.com.vn/da-nang-siet-an-toan-thuc-pham-muc-tieu-quan-ly-100-hang-quan-duong-pho-196260415093745926.htm) - 03:18 15/04/2026
-- 🌜 [Đường cao tốc Hồ Tràm - sân bay Long Thành dài hơn 42 km, tổng vốn đầu tư hơn 51.500 tỉ đồng](https://nld.com.vn/duong-cao-toc-ho-tram-san-bay-long-thanh-dai-hon-42-km-tong-von-dau-tu-hon-51500-ti-dong-196260415082054786.htm) - 02:21 15/04/2026
-- 👨‍🏫 [Từ tin báo của người dân, CSGT Đồng Nai xử phạt nhiều tài xế ô tô](https://nld.com.vn/tu-tin-bao-cua-nguoi-dan-csgt-dong-nai-xu-phat-nhieu-tai-xe-o-to-196260415085028877.htm) - 02:18 15/04/2026
-- 🐵 [Cận cảnh đại lộ ở TPHCM sắp được rót 3.500 tỉ đồng nâng cấp](https://nld.com.vn/can-canh-dai-lo-o-tphcm-sap-duoc-rot-3500-ti-dong-nang-cap-196260414180410519.htm) - 02:16 15/04/2026
-- 🚀 [Sớm lập quỹ bảo tồn di sản Hội An, Mỹ Sơn](https://nld.com.vn/som-lap-quy-bao-ton-di-san-hoi-an-my-son-196260414215336248.htm) - 00:00 15/04/2026
-- 🦒 [Sáng 15-4, xuất hiện 160 vé xổ số miền Nam trúng độc đắc và an ủi](https://nld.com.vn/sang-15-4-xuat-hien-160-ve-xo-so-mien-nam-trung-doc-dac-va-an-ui-196260414191933209.htm) - 00:00 15/04/2026
-- 🥳 [Nhiều dự án trọng điểm ở Quảng Ngãi thi công cầm chừng](https://nld.com.vn/nhieu-du-an-trong-diem-o-quang-ngai-thi-cong-cam-chung-196260414215730748.htm) - 23:00 14/04/2026
-- 💡 [Đà Nẵng: Xe dịch vụ “chiếm” vỉa hè phố du lịch](https://nld.com.vn/da-nang-xe-dich-vu-chiem-via-he-pho-du-lich-196260414193356519.htm) - 13:09 14/04/2026
-- 🤭 [Cần Thơ phát hiện dịch tả heo châu Phi tại 4 xã, phường](https://nld.com.vn/can-tho-phat-hien-dich-ta-heo-chau-phi-tai-4-xa-phuong-19626041415560324.htm) - 09:13 14/04/2026
-- 🚀 [Ngư dân Mũi Né trúng mùa cá cơm](https://nld.com.vn/ngu-dan-mui-ne-trung-mua-ca-com-196260414153803491.htm) - 09:11 14/04/2026<!-- nld-vung-mien:END -->
+- 🐎 [Cảnh báo chiêu lừa đổi thưởng bằng vé số giả](https://nld.com.vn/canh-bao-chieu-lua-doi-thuong-bang-ve-so-gia-196260419110931277.htm) - 07:25 19/04/2026
+- 🦆 [Điều tra vụ tài xế xe ôm công nghệ tử vong trong tư thế nằm úp mặt ở phòng trọ](https://nld.com.vn/dieu-tra-vu-tai-xe-xe-om-cong-nghe-tu-vong-trong-tu-the-nam-up-mat-o-phong-tro-196260419135601619.htm) - 07:13 19/04/2026
+- 🐵 [&quot;Ký ức vàng&quot; về cầu Mỹ Thuận sau 26 năm khiến cộng đồng mạng xúc động](https://nld.com.vn/ky-uc-vang-ve-cau-my-thuan-sau-26-nam-khien-cong-dong-mang-xuc-dong-196260419103330741.htm) - 06:42 19/04/2026
+- 🐎 [Cháy lớn ở TPHCM, khói đen cuồn cuộn kèm tiếng nổ](https://nld.com.vn/chay-lon-o-tphcm-khoi-den-cuon-cuon-kem-tieng-no-196260419121139572.htm) - 05:35 19/04/2026
+- 🦆 [Kẹt xe kinh hoàng trên Quốc lộ 51 đoạn qua Đồng Nai, nhiều tài xế hết kiên nhẫn](https://nld.com.vn/ket-xe-kinh-hoang-tren-quoc-lo-51-doan-qua-dong-nai-nhieu-tai-xe-het-kien-nhan-196260419105751568.htm) - 04:28 19/04/2026
+- 🦆 [Cháy cửa hàng xe máy ở TPHCM, công an đang phong tỏa hiện trường](https://nld.com.vn/chay-cua-hang-xe-may-o-tphcm-cong-an-dang-phong-toa-hien-truong-196260419105108268.htm) - 04:03 19/04/2026
+- 🌝 [Bắt tại trận người đàn ông trộm... 950 trái dừa lúc rạng sáng ở miền Tây](https://nld.com.vn/bat-tai-tran-nguoi-dan-ong-trom-950-trai-dua-luc-rang-sang-o-mien-tay-196260419095231067.htm) - 03:12 19/04/2026
+- 🦣 [Chủ doanh nghiệp thoát bẫy lừa đảo nhờ sự tinh ý của thượng úy công an](https://nld.com.vn/chu-doanh-nghiep-thoat-bay-lua-dao-nho-su-tinh-y-cua-thuong-uy-cong-an-196260419092427155.htm) - 02:52 19/04/2026
+- 🌁 [Đồng Nai: Bắt tạm giam 1 nguyên cán bộ phường lừa đảo hơn 28 tỉ đồng](https://nld.com.vn/dong-nai-bat-tam-giam-1-nguyen-can-bo-phuong-lua-dao-hon-28-ti-dong-196260419090555259.htm) - 02:51 19/04/2026
+- 🎓 [Đảm bảo nguồn điện cho chương trình “Đưa trường học đến thí sinh” với 1.700 học sinh tham dự](https://nld.com.vn/dam-bao-nguon-dien-cho-chuong-trinh-dua-truong-hoc-den-thi-sinh-voi-1700-hoc-sinh-tham-du-196260419093337614.htm) - 02:39 19/04/2026
+- 🦩 [Sáng 19-4, nhiều người ở TPHCM, Vĩnh Long và Cà Mau trúng xổ số miền Nam](https://nld.com.vn/sang-19-4-nhieu-nguoi-o-tphcm-vinh-long-va-ca-mau-trung-xo-so-mien-nam-196260419060216716.htm) - 23:14 18/04/2026
+- 💡 [Hệ thống phản ánh hiện trường Khanhhoa-S: Cầu nối gần dân, sát dân](https://nld.com.vn/he-thong-phan-anh-hien-truong-khanhhoa-s-cau-noi-gan-dan-sat-dan-196260418132214668.htm) - 08:41 18/04/2026
+- 🎊 [Công an Đồng Nai trục xuất 47 người nước ngoài](https://nld.com.vn/cong-an-dong-nai-truc-xuat-47-nguoi-nuoc-ngoai-196260418140621946.htm) - 07:27 18/04/2026
+- 🌁 [Bắt 2 đối tượng đổ hơn 500 tấn da bò hôi thối xuống đất gây ô nhiễm môi trường](https://nld.com.vn/bat-2-doi-tuong-do-hon-500-tan-da-bo-hoi-thoi-xuong-dat-gay-o-nhiem-moi-truong-196260418135652332.htm) - 07:13 18/04/2026
+- 🦏 [Sôi động ngày hội việc làm của Trường Đại học Thủ Dầu Một](https://nld.com.vn/soi-dong-ngay-hoi-viec-lam-cua-truong-dai-hoc-thu-dau-mot-196260418132804055.htm) - 07:13 18/04/2026
+- 💼 [Cận cảnh tháo dỡ 2 trạm phí &quot;bỏ hoang&quot; trên Quốc lộ 51 sau nhiều năm tranh cãi](https://nld.com.vn/can-canh-thao-do-2-tram-phi-bo-hoang-tren-quoc-lo-51-sau-nhieu-nam-tranh-cai-196260418114831806.htm) - 05:45 18/04/2026
+- 🦆 [Bắt giữ đối tượng hiếp dâm, cướp tài sản ở Đà Nẵng](https://nld.com.vn/bat-giu-doi-tuong-hiep-dam-cuop-tai-san-o-da-nang-196260418123251633.htm) - 05:43 18/04/2026
+- 🦄 [Xổ số miền Nam: Trưa 18-4, lộ diện khách hàng ở TPHCM trúng độc đắc vé số Bình Dương](https://nld.com.vn/xo-so-mien-nam-trua-18-4-lo-dien-khach-hang-o-tphcm-trung-doc-dac-ve-so-binh-duong-196260418123533033.htm) - 05:40 18/04/2026
+- 🌏 [Toàn cảnh vụ xử phạt và tịch thu 42 gốc mai vàng ở Côn Đảo](https://nld.com.vn/toan-canh-vu-xu-phat-va-tich-thu-42-goc-mai-vang-o-con-dao-196260418113427271.htm) - 05:00 18/04/2026
+- ⛽️ [Sôi nổi ngày hội đạp xe vì hoà bình tại Quảng Trị](https://nld.com.vn/soi-noi-ngay-hoi-dap-xe-vi-hoa-binh-tai-quang-tri-196260418113535643.htm) - 04:55 18/04/2026
+- 🥰 [Tây Ninh sẽ đón hàng chục ngàn lao động đến 3 “siêu dự án” hàng ngàn tỉ đồng](https://nld.com.vn/tay-ninh-se-don-hang-chuc-ngan-lao-dong-den-3-sieu-du-an-hang-ngan-ti-dong-196260418103449171.htm) - 03:37 18/04/2026
+- 🥰 [Một trường đại học ở Nhật Bản “bắt tay” với Trường Đại học Cửu Long](https://nld.com.vn/mot-truong-dai-hoc-o-nhat-ban-bat-tay-voi-truong-dai-hoc-cuu-long-196260418095739017.htm) - 03:10 18/04/2026
+- 🦍 [Bạn đọc hỗ trợ hơn 160 triệu đồng cho nam sinh lớp 9 bệnh tật, bán vé số ở Cần Thơ](https://nld.com.vn/ban-doc-ho-tro-hon-160-trieu-dong-cho-nam-sinh-lop-9-benh-tat-ban-ve-so-o-can-tho-196260418062053141.htm) - 02:20 18/04/2026
+- 🫶 [Toàn cảnh vụ 48 căn nhà xây trái phép trên khu đất hơn 6.400 m² ở TPHCM](https://nld.com.vn/toan-canh-vu-48-can-nha-xay-trai-phep-tren-khu-dat-hon-6400-m-o-tphcm-196260417161447796.htm) - 01:21 18/04/2026
+- 💫 [Sáng 18-4, nhiều người ở TPHCM và An Giang trúng thưởng xổ số miền Nam](https://nld.com.vn/sang-18-4-nhieu-nguoi-o-tphcm-va-an-giang-trung-thuong-xo-so-mien-nam-196260417191815953.htm) - 23:10 17/04/2026
+- 🌋 [Thành công đến từ đồng thuận](https://nld.com.vn/thanh-cong-den-tu-dong-thuan-196260417204837501.htm) - 23:00 17/04/2026
+- 📝 [Một thai phụ gặp biến chứng nguy hiểm, phải triệt sản để giữ tính mạng](https://nld.com.vn/mot-thai-phu-gap-bien-chung-nguy-hiem-phai-triet-san-de-giu-tinh-mang-19626041719531773.htm) - 13:12 17/04/2026
+- 💼 [Chiều 17-4, lộ diện nhiều người trúng xổ số miền Nam](https://nld.com.vn/chieu-17-4-lo-dien-nhieu-nguoi-trung-xo-so-mien-nam-196260417180117934.htm) - 11:09 17/04/2026
+- 🧑‍💻 [Điện lực Quảng Trị hỗ trợ 70 triệu đồng xây nhà tình nghĩa cho hộ khó khăn](https://nld.com.vn/dien-luc-quang-tri-ho-tro-70-trieu-dong-xay-nha-tinh-nghia-cho-ho-kho-khan-196260417162422496.htm) - 10:05 17/04/2026
+- ⚗️ [Đồng Nai thu hồi gần 200 ha đất làm metro nối sân bay Long Thành](https://nld.com.vn/dong-nai-thu-hoi-gan-200-ha-dat-lam-metro-noi-san-bay-long-thanh-196260417152846432.htm) - 09:10 17/04/2026
+- 🦅 [EVNSPC đóng điện, vận hành trạm biến áp 110kV Lại Sơn](https://nld.com.vn/evnspc-dong-dien-van-hanh-tram-bien-ap-110kv-lai-son-196260417153850184.htm) - 08:50 17/04/2026
+- 🦅 [TPHCM triển khai chiến dịch nâng cao chất lượng dân số tại 168 phường, xã](https://nld.com.vn/tphcm-trien-khai-chien-dich-nang-cao-chat-luong-dan-so-tai-168-phuong-xa-196260417150014456.htm) - 08:50 17/04/2026
+- 🧠 [Hơn 250 nữ công nhân, viên chức được tư vấn, khám sức khỏe sinh sản miễn phí](https://nld.com.vn/hon-250-nu-cong-nhan-vien-chuc-duoc-tu-van-kham-suc-khoe-sinh-san-mien-phi-196260417142837032.htm) - 08:02 17/04/2026
+- 🦣 [Thông tin liên quan ca dương tính viêm não mô cầu ở Cà Mau](https://nld.com.vn/thong-tin-lien-quan-ca-duong-tinh-viem-nao-mo-cau-o-ca-mau-196260417121224462.htm) - 07:41 17/04/2026
+- 👀 [Cận cảnh giao thông hỗn loạn tại trạm thu phí Lái Thiêu, TPHCM](https://nld.com.vn/can-canh-giao-thong-hon-loan-tai-tram-thu-phi-lai-thieu-tphcm-196260417115520821.htm) - 06:07 17/04/2026
+- 🚀 [Vụ dùng kim tiêm xử phạt học sinh ở TPHCM: Giáo viên khai mục đích nhằm răn đe các em vi phạm](https://nld.com.vn/vu-dung-kim-tiem-xu-phat-hoc-sinh-o-tphcm-giao-vien-khai-muc-dich-nham-ran-de-cac-em-vi-pham-196260417123902142.htm) - 06:04 17/04/2026
+- 🌮 [Tạm dừng mọi giao dịch liên quan Tập đoàn Khang Thông và công ty con](https://nld.com.vn/tam-dung-moi-giao-dich-lien-quan-tap-doan-khang-thong-va-cong-ty-con-196260417121949601.htm) - 05:23 17/04/2026
+- 🤗 [Giả danh đại tá công an đi lại suốt thời gian dài ở Tây Ninh](https://nld.com.vn/gia-danh-dai-ta-cong-an-di-lai-suot-thoi-gian-dai-o-tay-ninh-196260417110801714.htm) - 04:20 17/04/2026
+- 🤖 [Hơn 500 thương hiệu nổi tiếng sắp &quot;đổ bộ&quot; về Cần Thơ, giảm giá lên đến 80%](https://nld.com.vn/hon-500-thuong-hieu-noi-tieng-sap-do-bo-ve-can-tho-giam-gia-len-den-80-196260417102313123.htm) - 03:57 17/04/2026
+- 🌝 [CLIP: CSGT đường thủy đưa bệnh nhân đột quỵ đi cấp cứu kịp “giờ vàng”](https://nld.com.vn/clip-csgt-duong-thuy-dua-benh-nhan-dot-quy-di-cap-cuu-kip-gio-vang-196260417103705181.htm) - 03:53 17/04/2026
+- 👀 [TPHCM: Lý do Khu vui chơi Thỏ Trắng bị yêu cầu ngừng hoạt động](https://nld.com.vn/tphcm-ly-do-khu-vui-choi-tho-trang-bi-yeu-cau-ngung-hoat-dong-196260417075947225.htm) - 01:28 17/04/2026
+- 🌜 [Cận cảnh hàng chục căn nhà “mọc” trên đất người khác ở TPHCM và nỗi lòng người lỡ mua](https://nld.com.vn/can-canh-hang-chuc-can-nha-moc-tren-dat-nguoi-khac-o-tphcm-va-noi-long-nguoi-lo-mua-196260416220136802.htm) - 01:26 17/04/2026
+- 👨‍🏫 [Hình ảnh ấn tượng không khí Tết Chôl Chnăm Thmây nơi vùng biên Tây Ninh](https://nld.com.vn/hinh-anh-an-tuong-khong-khi-tet-chol-chnam-thmay-noi-vung-bientay-ninh-196260416231320232.htm) - 00:46 17/04/2026
+- 🐵 [Sáng 17-4, tìm ra nơi trúng 3 giải độc đắc xổ số miền Nam](https://nld.com.vn/sang-17-4-tim-ra-noi-trung-3-giai-doc-dac-xo-so-mien-nam-196260416211751922.htm) - 23:14 16/04/2026
+- 🚀 [Kỹ năng thương lượng và xây dựng điều khoản tiền lương trong thỏa ước lao động tập thể](https://nld.com.vn/ky-nang-thuong-luong-va-xay-dung-dieu-khoan-tien-luong-trong-thoa-uoc-lao-dong-tap-the-196260416162143696.htm) - 11:25 16/04/2026
+- 🦒 [&quot;Xót lòng gia cảnh nam sinh lớp 9 bệnh tật, đi bán vé số dạo ở Cần Thơ&quot;: Lay động nhiều người](https://nld.com.vn/xot-long-gia-canh-nam-sinh-lop-9-benh-tat-di-ban-ve-so-dao-o-can-tho-lay-dong-nhieu-nguoi-196260416170336089.htm) - 10:47 16/04/2026
+- 🥳 [TPHCM: Phường Phước Thắng nói gì về tình trạng lấn chiếm đất công, xây dựng trái phép?](https://nld.com.vn/tphcm-phuong-phuoc-thang-noi-gi-ve-tinh-trang-lan-chiem-dat-cong-xay-dung-trai-phep-19626041616475592.htm) - 10:15 16/04/2026
+- 💡 [Chính thức công nhận tỉnh Đồng Nai đạt đô thị loại I](https://nld.com.vn/chinh-thuc-cong-nhan-tinh-dong-nai-dat-do-thi-loai-i-196260416163014486.htm) - 09:55 16/04/2026
+- 🤭 [Dã tâm của cô gái 26 tuổi ở Cà Mau](https://nld.com.vn/da-tam-cua-co-gai-26-tuoi-o-ca-mau-196260416152529064.htm) - 09:54 16/04/2026
+- 🚀 [Một phường ở Cần Thơ hỗ trợ &quot;gỡ rối&quot; pháp lý cho người dân](https://nld.com.vn/mot-phuong-o-can-tho-ho-tro-go-roi-phap-ly-cho-nguoi-dan-196260416102429601.htm) - 09:49 16/04/2026<!-- nld-vung-mien:END -->
