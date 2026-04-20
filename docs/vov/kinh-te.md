@@ -13,8 +13,8 @@ sidebar_position: 4
 - 💂 [Hạn chót hộ kinh doanh phải thông báo tài khoản](https://vov.vn/kinh-te/han-chot-ho-kinh-doanh-phai-thong-bao-tai-khoan-post1285303.vov) - 02:19 20/04/2026
 - 🚀 [Đồng Tháp tháo gỡ “điểm nghẽn” để ngành hàng sen phát triển bền vững](https://vov.vn/kinh-te/dong-thap-thao-go-diem-nghen-de-nganh-hang-sen-phat-trien-ben-vung-post1283164.vov) - 00:32 20/04/2026
 - 👺 [Quyết toán thuế thu nhập cá nhân: Người lao động cần làm gì để tránh bị phạt?](https://vov.vn/kinh-te/quyet-toan-thue-thu-nhap-ca-nhan-nguoi-lao-dong-can-lam-gi-de-tranh-bi-phat-post1284844.vov) - 00:00 20/04/2026
-- 🦆 [Đổ xô vào rừng đêm khuya săn &amp;#039;lộc trời&amp;#039; thu bạc triệu mỗi ngày](https://vov.vn/kinh-te/do-xo-vao-rung-dem-khuya-san-loc-troi-thu-bac-trieu-moi-ngay-post1285175.vov) - 23:00 19/04/2026
-- 🤗 [Bờ Bắc kênh Đôi &amp;quot;lột xác&amp;quot; chậm vì “nút thắt” mặt bằng](https://vov.vn/kinh-te/bo-bac-kenh-doi-lot-xac-cham-vi-nut-that-mat-bang-post1285078.vov) - 23:00 19/04/2026
+- 🦆 [Bờ Bắc kênh Đôi &amp;quot;lột xác&amp;quot; chậm vì “nút thắt” mặt bằng](https://vov.vn/kinh-te/bo-bac-kenh-doi-lot-xac-cham-vi-nut-that-mat-bang-post1285078.vov) - 23:00 19/04/2026
+- 🤗 [Đổ xô vào rừng đêm khuya săn &amp;#039;lộc trời&amp;#039; thu bạc triệu mỗi ngày](https://vov.vn/kinh-te/do-xo-vao-rung-dem-khuya-san-loc-troi-thu-bac-trieu-moi-ngay-post1285175.vov) - 23:00 19/04/2026
 - 🔥 [Tạm dừng Nghị định 46, doanh nghiệp chờ sửa luật theo hướng nào?](https://vov.vn/kinh-te/tam-dung-nghi-dinh-46-doanh-nghiep-cho-sua-luat-theo-huong-nao-post1285199.vov) - 11:37 19/04/2026
 - 🎓 [Việt Nam nhập khẩu hơn 56.000 ô tô trong quý I/2026](https://vov.vn/kinh-te/viet-nam-nhap-khau-hon-56000-o-to-trong-quy-i2026-post1285165.vov) - 09:22 19/04/2026
 - 🌊 [Hiện tượng “cắt lỗ” chung cư, nhất thời hay xu hướng phổ biến?](https://vov.vn/kinh-te/hien-tuong-cat-lo-chung-cu-nhat-thoi-hay-xu-huong-pho-bien-post1284434.vov) - 04:00 19/04/2026
@@ -56,8 +56,8 @@ sidebar_position: 4
 - 👍 [Cà Mau đôn đốc nhà thầu, không vì giá vật liệu cao mà chậm tiến độ](https://vov.vn/kinh-te/ca-mau-don-doc-nha-thau-khong-vi-gia-vat-lieu-cao-ma-cham-tien-do-post1284633.vov) - 02:24 17/04/2026
 - 🎊 [Vườn thanh long tại Đồng Tháp xanh tốt, năng suất cao trong mùa khô hạn](https://vov.vn/kinh-te/vuon-thanh-long-tai-dong-thap-xanh-tot-nang-suat-cao-trong-mua-kho-han-post1284615.vov) - 01:32 17/04/2026
 - 💃 [Thị trường bất động sản phân hóa mạnh, hướng về nhu cầu thực](https://vov.vn/kinh-te/thi-truong-bat-dong-san-phan-hoa-manh-huong-ve-nhu-cau-thuc-post1284518.vov) - 23:27 16/04/2026
-- ⚗️ [Bắc Ninh không để xảy ra tình trạng găm hàng, đầu cơ, thổi giá](https://vov.vn/kinh-te/bac-ninh-khong-de-xay-ra-tinh-trang-gam-hang-dau-co-thoi-gia-post1284458.vov) - 23:00 16/04/2026
-- 🕴 [Mận hậu đầu mùa giá “chát” vẫn hút khách](https://vov.vn/kinh-te/man-hau-dau-mua-gia-chat-van-hut-khach-post1284517.vov) - 23:00 16/04/2026
+- ⚗️ [Mận hậu đầu mùa giá “chát” vẫn hút khách](https://vov.vn/kinh-te/man-hau-dau-mua-gia-chat-van-hut-khach-post1284517.vov) - 23:00 16/04/2026
+- 🕴 [Bắc Ninh không để xảy ra tình trạng găm hàng, đầu cơ, thổi giá](https://vov.vn/kinh-te/bac-ninh-khong-de-xay-ra-tinh-trang-gam-hang-dau-co-thoi-gia-post1284458.vov) - 23:00 16/04/2026
 - 🦒 [Trung Quốc vượt Mỹ, trở lại là đối tác thương mại lớn nhất của Ấn Độ](https://vov.vn/kinh-te/trung-quoc-vuot-my-tro-lai-la-doi-tac-thuong-mai-lon-nhat-cua-an-do-post1284596.vov) - 22:20 16/04/2026
 - 🕴 [Giải ngân vốn đầu tư công đạt thấp: Quảng Ngãi gấp rút gỡ vướng](https://vov.vn/kinh-te/giai-ngan-von-dau-tu-cong-dat-thap-quang-ngai-gap-rut-go-vuong-post1284578.vov) - 15:27 16/04/2026
 - 🤗 [Gia tăng giá trị sản phẩm mang thương hiệu “Made in Đà Nẵng”](https://vov.vn/kinh-te/gia-tang-gia-tri-san-pham-mang-thuong-hieu-made-in-da-nang-post1284564.vov) - 14:28 16/04/2026
