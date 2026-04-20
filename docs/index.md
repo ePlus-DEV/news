@@ -718,17 +718,17 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Trực tiếp Man City 1-1 Arsenal: Xứng danh &amp;quot;chung kết&amp;quot; Ngoại hạng Anh](https://vov.vn/the-thao/truc-tiep-man-city-1-1-arsenal-xung-danh-chung-ket-ngoai-hang-anh-post1285157.vov) - 16:17 19/04/2026
-- 🕯 [Trực tiếp Man City 1-1 Arsenal: Xứng danh &amp;quot;chung kết&amp;quot; Ngoại hạng Anh](https://vov.vn/the-thao/truc-tiep-man-city-1-1-arsenal-xung-danh-chung-ket-ngoai-hang-anh-post1285157.vov) - 16:17 19/04/2026
-- 🌊 [Kết quả bóng đá vòng 19 V-League tối 19-4: Thể Công Viettel thắng nhọc HAGL](https://vov.vn/the-thao/ket-qua-bong-da-vong-19-v-league-toi-19-4-the-cong-viettel-thang-nhoc-hagl-post1285154.vov) - 14:17 19/04/2026
-- 🥷 [Ông Trump thông báo Mỹ và Iran sẽ đàm phán ở Islamabad, Pakistan vào ngày mai](https://vov.vn/the-gioi/ong-trump-thong-bao-my-va-iran-se-dam-phan-o-islamabad-pakistan-vao-ngay-mai-post1285240.vov) - 13:37 19/04/2026
-- 🎡 [Ông Trump thông báo Mỹ và Iran sẽ đàm phán ở Islamabad, Pakistan vào ngày mai](https://vov.vn/the-gioi/ong-trump-thong-bao-my-va-iran-se-dam-phan-o-islamabad-pakistan-vao-ngay-mai-post1285240.vov) - 13:37 19/04/2026
-- 🚀 [Tạm dừng Nghị định 46, doanh nghiệp chờ sửa luật theo hướng nào?](https://vov.vn/kinh-te/tam-dung-nghi-dinh-46-doanh-nghiep-cho-sua-luat-theo-huong-nao-post1285199.vov) - 11:37 19/04/2026
-- 🔥 [Cần có cơ chế đặc thù để văn hóa Việt Nam “cất cánh”](https://vov.vn/van-hoa/can-co-co-che-dac-thu-de-van-hoa-viet-nam-cat-canh-post1285211.vov) - 11:04 19/04/2026
-- 🌋 [Làm gì để không bị gián đoạn nhận lương hưu, trợ cấp BHXH tại Hà Nội?](https://vov.vn/xa-hoi/lam-gi-de-khong-bi-gian-doan-nhan-luong-huu-tro-cap-bhxh-tai-ha-noi-post1285162.vov) - 08:12 19/04/2026
-- 🕴 [Điều tra bổ sung vụ án Mr Pips lừa đảo](https://vov.vn/phap-luat/dieu-tra-bo-sung-vu-an-mr-pips-lua-dao-post1285144.vov) - 07:24 19/04/2026
-- 🥰 [Lễ mừng lúa mới của người Chu Ru sống động giữa lòng Hà Nội](https://vov.vn/van-hoa/le-mung-lua-moi-cua-nguoi-chu-ru-song-dong-giua-long-ha-noi-post1285147.vov) - 07:20 19/04/2026
-- 🧐 [Sóng gió mới: Iran đổi ý về việc mở cửa hoàn toàn eo biển Hormuz](https://vov.vn/the-gioi/quan-sat/song-gio-moi-iran-doi-y-ve-viec-mo-cua-hoan-toan-eo-bien-hormuz-post1285133.vov) - 04:46 19/04/2026<!-- vov:END -->
+- 🌜 [ĐBQH: Nguồn cung bất động sản ách tắc, giá bị “thổi” bất hợp lý](https://vov.vn/kinh-te/dbqh-nguon-cung-bat-dong-san-ach-tac-gia-bi-thoi-bat-hop-ly-post1285421.vov) - 09:31 20/04/2026
+- 🕯 [Đã có 62 người nhập viện nghi ngộ độc thực phẩm tại Nghệ An](https://vov.vn/xa-hoi/da-co-62-nguoi-nhap-vien-nghi-ngo-doc-thuc-pham-tai-nghe-an-post1285422.vov) - 09:27 20/04/2026
+- 🌊 [Triển khai 4 thủ tục hành chính của Đảng trên môi trường điện tử](https://vov.vn/chinh-tri/trien-khai-4-thu-tuc-hanh-chinh-cua-dang-tren-moi-truong-dien-tu-post1285390.vov) - 08:59 20/04/2026
+- 🥷 [ĐBQH kiến nghị ưu tiên nguồn lực cho hạ tầng giao thông, công trình chống ngập](https://vov.vn/chinh-tri/dbqh-kien-nghi-uu-tien-nguon-luc-cho-ha-tang-giao-thong-cong-trinh-chong-ngap-post1285402.vov) - 08:56 20/04/2026
+- 🎡 [Mỹ vội vã cố đạt một thỏa thuận hời hợt, nhiều rủi ro với Iran?](https://vov.vn/the-gioi/quan-sat/my-voi-va-co-dat-mot-thoa-thuan-hoi-hot-nhieu-rui-ro-voi-iran-post1285401.vov) - 08:44 20/04/2026
+- 🚀 [Đại biểu Quốc hội &amp;quot;hiến kế&amp;quot; tạo đột phá phát triển văn hóa Việt Nam](https://vov.vn/chinh-tri/dai-bieu-quoc-hoi-hien-ke-tao-dot-pha-phat-trien-van-hoa-viet-nam-post1285370.vov) - 08:05 20/04/2026
+- 🔥 [“Gác cổng” an ninh, “mở cửa” đầu tư: Bài toán cân bằng phát triển văn hóa](https://vov.vn/van-hoa/gac-cong-an-ninh-mo-cua-dau-tu-bai-toan-can-bang-phat-trien-van-hoa-post1285364.vov) - 07:03 20/04/2026
+- 🌋 [Danh sách 34 Chủ tịch UBND tỉnh, thành phố nhiệm kỳ 2026 - 2031](https://vov.vn/multimedia/danh-sach-34-chu-tich-ubnd-tinh-thanh-pho-nhiem-ky-2026-2031-post1283853.vov) - 06:00 20/04/2026
+- 🕴 [Đề xuất dành 1% vốn của công trình công, nhà ở xã hội cho nghệ thuật khi xây dựng](https://vov.vn/chinh-tri/de-xuat-danh-1-von-cua-cong-trinh-cong-nha-o-xa-hoi-cho-nghe-thuat-khi-xay-dung-post1285362.vov) - 05:21 20/04/2026
+- 🥰 [Giá bạc hôm nay 20/4: Giá bạc trong nước và thế giới tăng nhẹ ngày đầu tuần](https://vov.vn/thi-truong/gia-bac-hom-nay-204-gia-bac-trong-nuoc-va-the-gioi-tang-nhe-ngay-dau-tuan-post1285348.vov) - 05:11 20/04/2026
+- 🧐 [Ông Đỗ Thành Trung giữ chức Chủ tịch UBND thành phố Hải Phòng](https://vov.vn/chinh-tri/ong-do-thanh-trung-giu-chuc-chu-tich-ubnd-thanh-pho-hai-phong-post1285352.vov) - 04:41 20/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
