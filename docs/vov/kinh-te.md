@@ -56,8 +56,8 @@ sidebar_position: 4
 - 👍 [Cà Mau đôn đốc nhà thầu, không vì giá vật liệu cao mà chậm tiến độ](https://vov.vn/kinh-te/ca-mau-don-doc-nha-thau-khong-vi-gia-vat-lieu-cao-ma-cham-tien-do-post1284633.vov) - 02:24 17/04/2026
 - 🎊 [Vườn thanh long tại Đồng Tháp xanh tốt, năng suất cao trong mùa khô hạn](https://vov.vn/kinh-te/vuon-thanh-long-tai-dong-thap-xanh-tot-nang-suat-cao-trong-mua-kho-han-post1284615.vov) - 01:32 17/04/2026
 - 💃 [Thị trường bất động sản phân hóa mạnh, hướng về nhu cầu thực](https://vov.vn/kinh-te/thi-truong-bat-dong-san-phan-hoa-manh-huong-ve-nhu-cau-thuc-post1284518.vov) - 23:27 16/04/2026
-- ⚗️ [Mận hậu đầu mùa giá “chát” vẫn hút khách](https://vov.vn/kinh-te/man-hau-dau-mua-gia-chat-van-hut-khach-post1284517.vov) - 23:00 16/04/2026
-- 🕴 [Bắc Ninh không để xảy ra tình trạng găm hàng, đầu cơ, thổi giá](https://vov.vn/kinh-te/bac-ninh-khong-de-xay-ra-tinh-trang-gam-hang-dau-co-thoi-gia-post1284458.vov) - 23:00 16/04/2026
+- ⚗️ [Bắc Ninh không để xảy ra tình trạng găm hàng, đầu cơ, thổi giá](https://vov.vn/kinh-te/bac-ninh-khong-de-xay-ra-tinh-trang-gam-hang-dau-co-thoi-gia-post1284458.vov) - 23:00 16/04/2026
+- 🕴 [Mận hậu đầu mùa giá “chát” vẫn hút khách](https://vov.vn/kinh-te/man-hau-dau-mua-gia-chat-van-hut-khach-post1284517.vov) - 23:00 16/04/2026
 - 🦒 [Trung Quốc vượt Mỹ, trở lại là đối tác thương mại lớn nhất của Ấn Độ](https://vov.vn/kinh-te/trung-quoc-vuot-my-tro-lai-la-doi-tac-thuong-mai-lon-nhat-cua-an-do-post1284596.vov) - 22:20 16/04/2026
 - 🕴 [Giải ngân vốn đầu tư công đạt thấp: Quảng Ngãi gấp rút gỡ vướng](https://vov.vn/kinh-te/giai-ngan-von-dau-tu-cong-dat-thap-quang-ngai-gap-rut-go-vuong-post1284578.vov) - 15:27 16/04/2026
 - 🤗 [Gia tăng giá trị sản phẩm mang thương hiệu “Made in Đà Nẵng”](https://vov.vn/kinh-te/gia-tang-gia-tri-san-pham-mang-thuong-hieu-made-in-da-nang-post1284564.vov) - 14:28 16/04/2026
