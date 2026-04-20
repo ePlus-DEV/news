@@ -718,17 +718,17 @@ Con rồng cháu tiên](https://muctim.tuoitre.vn/moi-cac-ban-don-doc-rua-vang-1
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [ĐBQH: Nguồn cung bất động sản ách tắc, giá bị “thổi” bất hợp lý](https://vov.vn/kinh-te/dbqh-nguon-cung-bat-dong-san-ach-tac-gia-bi-thoi-bat-hop-ly-post1285421.vov) - 09:31 20/04/2026
-- 🕯 [Đã có 62 người nhập viện nghi ngộ độc thực phẩm tại Nghệ An](https://vov.vn/xa-hoi/da-co-62-nguoi-nhap-vien-nghi-ngo-doc-thuc-pham-tai-nghe-an-post1285422.vov) - 09:27 20/04/2026
-- 🌊 [Triển khai 4 thủ tục hành chính của Đảng trên môi trường điện tử](https://vov.vn/chinh-tri/trien-khai-4-thu-tuc-hanh-chinh-cua-dang-tren-moi-truong-dien-tu-post1285390.vov) - 08:59 20/04/2026
-- 🥷 [ĐBQH kiến nghị ưu tiên nguồn lực cho hạ tầng giao thông, công trình chống ngập](https://vov.vn/chinh-tri/dbqh-kien-nghi-uu-tien-nguon-luc-cho-ha-tang-giao-thong-cong-trinh-chong-ngap-post1285402.vov) - 08:56 20/04/2026
-- 🎡 [Mỹ vội vã cố đạt một thỏa thuận hời hợt, nhiều rủi ro với Iran?](https://vov.vn/the-gioi/quan-sat/my-voi-va-co-dat-mot-thoa-thuan-hoi-hot-nhieu-rui-ro-voi-iran-post1285401.vov) - 08:44 20/04/2026
-- 🚀 [Đại biểu Quốc hội &amp;quot;hiến kế&amp;quot; tạo đột phá phát triển văn hóa Việt Nam](https://vov.vn/chinh-tri/dai-bieu-quoc-hoi-hien-ke-tao-dot-pha-phat-trien-van-hoa-viet-nam-post1285370.vov) - 08:05 20/04/2026
-- 🔥 [“Gác cổng” an ninh, “mở cửa” đầu tư: Bài toán cân bằng phát triển văn hóa](https://vov.vn/van-hoa/gac-cong-an-ninh-mo-cua-dau-tu-bai-toan-can-bang-phat-trien-van-hoa-post1285364.vov) - 07:03 20/04/2026
-- 🌋 [Danh sách 34 Chủ tịch UBND tỉnh, thành phố nhiệm kỳ 2026 - 2031](https://vov.vn/multimedia/danh-sach-34-chu-tich-ubnd-tinh-thanh-pho-nhiem-ky-2026-2031-post1283853.vov) - 06:00 20/04/2026
-- 🕴 [Đề xuất dành 1% vốn của công trình công, nhà ở xã hội cho nghệ thuật khi xây dựng](https://vov.vn/chinh-tri/de-xuat-danh-1-von-cua-cong-trinh-cong-nha-o-xa-hoi-cho-nghe-thuat-khi-xay-dung-post1285362.vov) - 05:21 20/04/2026
-- 🥰 [Giá bạc hôm nay 20/4: Giá bạc trong nước và thế giới tăng nhẹ ngày đầu tuần](https://vov.vn/thi-truong/gia-bac-hom-nay-204-gia-bac-trong-nuoc-va-the-gioi-tang-nhe-ngay-dau-tuan-post1285348.vov) - 05:11 20/04/2026
-- 🧐 [Ông Đỗ Thành Trung giữ chức Chủ tịch UBND thành phố Hải Phòng](https://vov.vn/chinh-tri/ong-do-thanh-trung-giu-chuc-chu-tich-ubnd-thanh-pho-hai-phong-post1285352.vov) - 04:41 20/04/2026<!-- vov:END -->
+- 🌜 [Phát triển KHCN: Không đào tạo đại trà, tập trung làm chủ công nghệ lõi](https://vov.vn/chinh-tri/phat-trien-khcn-khong-dao-tao-dai-tra-tap-trung-lam-chu-cong-nghe-loi-post1285490.vov) - 12:57 20/04/2026
+- 🕯 [Hạ tầng giao thông được xác định là động lực tăng trưởng](https://vov.vn/chinh-tri/ha-tang-giao-thong-duoc-xac-dinh-la-dong-luc-tang-truong-post1285478.vov) - 12:51 20/04/2026
+- 🌊 [Trung Quốc quan ngại việc Mỹ chặn giữ tàu hàng Iran xuất phát từ Trung Quốc](https://vov.vn/the-gioi/trung-quoc-quan-ngai-viec-my-chan-giu-tau-hang-iran-xuat-phat-tu-trung-quoc-post1285489.vov) - 12:48 20/04/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt các ĐBQH người dân tộc thiểu số](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-cac-dbqh-nguoi-dan-toc-thieu-so-post1285487.vov) - 12:41 20/04/2026
+- 🎡 [VOV tặng bằng khen cho Sở Văn hóa, Thể thao và Du lịch Quảng Ninh](https://vov.vn/xa-hoi/vov-tang-bang-khen-cho-so-van-hoa-the-thao-va-du-lich-quang-ninh-post1285488.vov) - 12:34 20/04/2026
+- 🚀 [Động đất tại Nhật Bản: Đại sứ quán Việt Nam sẵn sàng triển khai bảo hộ công dân](https://vov.vn/nguoi-viet/dong-dat-tai-nhat-ban-dai-su-quan-viet-nam-san-sang-trien-khai-bao-ho-cong-dan-post1285475.vov) - 11:24 20/04/2026
+- 🔥 [Nhà phân phối HiPP nói gì về nghi vấn sản phẩm ăn dặm HiPP dính thuốc chuột?](https://vov.vn/thi-truong/nha-phan-phoi-hipp-noi-gi-ve-nghi-van-san-pham-an-dam-hipp-dinh-thuoc-chuot-post1285428.vov) - 10:25 20/04/2026
+- 🌋 [Cháy siêu thị trên đường Lê Duẩn, Hà Nội](https://vov.vn/xa-hoi/chay-sieu-thi-tren-duong-le-duan-ha-noi-post1285452.vov) - 10:24 20/04/2026
+- 🕴 [Thí điểm chế định luật sư công: Quy định đủ rõ để triển khai ngay](https://vov.vn/chinh-tri/thi-diem-che-dinh-luat-su-cong-quy-dinh-du-ro-de-trien-khai-ngay-post1285368.vov) - 09:45 20/04/2026
+- 🥰 [Tổng kết chiến lược phát triển bền vững kinh tế biển Việt Nam](https://vov.vn/chinh-tri/tong-ket-chien-luoc-phat-trien-ben-vung-kinh-te-bien-viet-nam-post1285432.vov) - 09:39 20/04/2026
+- 🧐 [ĐBQH: Nguồn cung bất động sản ách tắc, giá bị “thổi” bất hợp lý](https://vov.vn/kinh-te/dbqh-nguon-cung-bat-dong-san-ach-tac-gia-bi-thoi-bat-hop-ly-post1285421.vov) - 09:31 20/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
