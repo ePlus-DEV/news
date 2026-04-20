@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Kỷ luật nghiêm, thể chế mở: Động lực cho tăng trưởng mới](https://vov.vn/chinh-tri/ky-luat-nghiem-the-che-mo-dong-luc-cho-tang-truong-moi-post1284079.vov) - 22:40 19/04/2026
-- 💃 [Thanh niên Việt-Trung ấn tượng về phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/thanh-nien-viet-trung-an-tuong-ve-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1285141.vov) - 22:30 19/04/2026
-- 🫶 [Hôm nay, Quốc hội xem xét việc thành lập TP Đồng Nai trực thuộc Trung ương](https://vov.vn/chinh-tri/hom-nay-quoc-hoi-xem-xet-viec-thanh-lap-tp-dong-nai-truc-thuoc-trung-uong-post1284773.vov) - 22:22 19/04/2026
-- 👨‍🏫 [Chuyến công tác của Chủ tịch Quốc hội tạo xung lực, thúc đẩy hợp tác](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-chu-tich-quoc-hoi-tao-xung-luc-thuc-day-hop-tac-post1285120.vov) - 04:15 19/04/2026
-- 🪜 [Hà Nội: Trên 2.000 thủ tục hành chính thực hiện phi địa giới hành chính](https://vov.vn/chinh-tri/ha-noi-tren-2000-thu-tuc-hanh-chinh-thuc-hien-phi-dia-gioi-hanh-chinh-post1285037.vov) - 00:00 19/04/2026
-- 🌋 [Đột phá lập pháp bắt đầu từ đâu: Gỡ “nút thắt” hay thay đổi tư duy?](https://vov.vn/chinh-tri/dot-pha-lap-phap-bat-dau-tu-dau-go-nut-that-hay-thay-doi-tu-duy-post1285013.vov) - 23:30 18/04/2026
-- 🎉 [Chủ tịch Quốc hội Trần Thanh Mẫn kết thúc tốt đẹp chuyến công tác dự IPU-152](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-ket-thuc-tot-dep-chuyen-cong-tac-du-ipu-152-post1285062.vov) - 14:33 18/04/2026
-- 🌝 [Thủ tướng: Quân khu 4 đặc biệt coi trọng xây dựng khu vực phòng thủ vững chắc](https://vov.vn/chinh-tri/thu-tuong-quan-khu-4-dac-biet-coi-trong-xay-dung-khu-vuc-phong-thu-vung-chac-post1285033.vov) - 11:30 18/04/2026
-- 🏊 [Đại tướng Nguyễn Trọng Nghĩa gặp mặt già làng, chức sắc tôn giáo khu vực Nam Bộ](https://vov.vn/chinh-tri/dai-tuong-nguyen-trong-nghia-gap-mat-gia-lang-chuc-sac-ton-giao-khu-vuc-nam-bo-post1285034.vov) - 11:28 18/04/2026
-- 🧑‍💻 [Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng tầm kết nối chiến lược hai nước Việt Nam - Trung Quốc](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-nang-tam-ket-noi-chien-luoc-hai-nuoc-viet-nam-trung-quoc-post1284987.vov) - 08:32 18/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Kiểm soát quyền lực, nâng cao chất lượng lãnh đạo ở địa phương](https://vov.vn/chinh-tri/kiem-soat-quyen-luc-nang-cao-chat-luong-lanh-dao-o-dia-phuong-post1285117.vov) - 22:30 20/04/2026
+- 💃 [Quốc hội thảo luận kinh tế - xã hội, nâng hiệu quả sử dụng nguồn lực quốc gia](https://vov.vn/chinh-tri/quoc-hoi-thao-luan-kinh-te-xa-hoi-nang-hieu-qua-su-dung-nguon-luc-quoc-gia-post1285495.vov) - 22:00 20/04/2026
+- 🫶 [Kéo dài thời gian giữ chức vụ đối với 2 cán bộ thuộc Bộ Quốc phòng](https://vov.vn/chinh-tri/keo-dai-thoi-gian-giu-chuc-vu-doi-voi-2-can-bo-thuoc-bo-quoc-phong-post1285502.vov) - 14:29 20/04/2026
+- 👨‍🏫 [Phát triển KHCN: Không đào tạo đại trà, tập trung làm chủ công nghệ lõi](https://vov.vn/chinh-tri/phat-trien-khcn-khong-dao-tao-dai-tra-tap-trung-lam-chu-cong-nghe-loi-post1285490.vov) - 12:57 20/04/2026
+- 🪜 [Hạ tầng giao thông được xác định là động lực tăng trưởng](https://vov.vn/chinh-tri/ha-tang-giao-thong-duoc-xac-dinh-la-dong-luc-tang-truong-post1285478.vov) - 12:51 20/04/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt các ĐBQH người dân tộc thiểu số](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-cac-dbqh-nguoi-dan-toc-thieu-so-post1285487.vov) - 12:41 20/04/2026
+- 🎉 [Cắt giảm thủ tục hành chính để “mở khóa” tăng trưởng bền vững](https://vov.vn/chinh-tri/cat-giam-thu-tuc-hanh-chinh-de-mo-khoa-tang-truong-ben-vung-post1285449.vov) - 10:43 20/04/2026
+- 🌝 [Thí điểm chế định luật sư công: Quy định đủ rõ để triển khai ngay](https://vov.vn/chinh-tri/thi-diem-che-dinh-luat-su-cong-quy-dinh-du-ro-de-trien-khai-ngay-post1285368.vov) - 09:45 20/04/2026
+- 🏊 [Tổng kết chiến lược phát triển bền vững kinh tế biển Việt Nam](https://vov.vn/chinh-tri/tong-ket-chien-luoc-phat-trien-ben-vung-kinh-te-bien-viet-nam-post1285432.vov) - 09:39 20/04/2026
+- 🧑‍💻 [Sự hòa hợp hoàn hảo mở ra chân trời mới cho hợp tác tương lai Việt Nam - Hàn Quốc](https://vov.vn/chinh-tri/su-hoa-hop-hoan-hao-mo-ra-chan-troi-moi-cho-hop-tac-tuong-lai-viet-nam-han-quoc-post1285371.vov) - 09:38 20/04/2026<!-- vov-chinh-tri:END -->
