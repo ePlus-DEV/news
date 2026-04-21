@@ -4,53 +4,53 @@ sidebar_position: 24
 ---
 
 <!-- nld-podcast:START -->
-- 🫣 [Sản phẩm ăn dặm HiPP nghi nhiễm chất độc trong thuốc diệt chuột](https://nld.com.vn/podcast/san-pham-an-dam-hipp-nghi-nhiem-chat-doc-trong-thuoc-diet-chuot-196260420112451748.htm) - 04:40 20/04/2026
-- 💄 [Gỡ nút thắt những điểm gây tranh luận vụ 42 gốc mai vàng “không giấy tờ” ở Côn Đảo](https://nld.com.vn/podcast/go-nut-that-nhung-diem-gay-tranh-luan-vu-42-goc-mai-vang-khong-giay-to-o-con-dao-196260419101359623.htm) - 06:41 19/04/2026
-- 💡 [Công an cảnh báo loan tin thất thiệt vụ nam sinh 12 tuổi mất tích bí ẩn](https://nld.com.vn/podcast/cong-an-canh-bao-loan-tin-that-thiet-vu-nam-sinh-12-tuoi-mat-tich-bi-an-19626041910554891.htm) - 04:19 19/04/2026
-- 🦒 [1.700 học sinh Đà Nẵng tham gia “Đưa trường học đến thí sinh”](https://nld.com.vn/podcast/1700-hoc-sinh-da-nang-tham-gia-dua-truong-hoc-den-thi-sinh-196260418112335014.htm) - 04:52 18/04/2026
-- 🤭 [Giá vàng giảm sâu, người mua lỗ nặng](https://nld.com.vn/podcast/gia-vang-giam-sau-nguoi-mua-lo-nang-196260417105004619.htm) - 04:15 17/04/2026
-- 🥳 [Thí điểm giáo dục AI cho học sinh phổ thông](https://nld.com.vn/podcast/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-196260416110946523.htm) - 04:30 16/04/2026
-- 🌝 [Xét xử phúc thẩm Youtuber Đinh Lan, vợ chồng bà Nguyễn Phương Hằng vắng mặt](https://nld.com.vn/podcast/xet-xu-phuc-tham-youtuber-dinh-lan-vo-chong-ba-nguyen-phuong-hang-vang-mat-196260415112722.htm) - 04:34 15/04/2026
-- 🙉 [Kết quả kiểm tra nữ tài xế có biểu hiện lạ gây tai nạn giao thông liên hoàn](https://nld.com.vn/podcast/ket-qua-kiem-tra-nu-tai-xe-co-bieu-hien-la-gay-tai-nan-giao-thong-lien-hoan-196260414111613358.htm) - 04:34 14/04/2026
-- 🏊 [Nữ sinh lớp 7 bị đánh phải nhập viện](https://nld.com.vn/podcast/nu-sinh-lop-7-bi-danh-phai-nhap-vien-19626041310495173.htm) - 04:31 13/04/2026
-- 🌊 [Mỹ báo tin xấu sau 21 giờ đàm phán với Iran](https://nld.com.vn/podcast/my-bao-tin-xau-sau-21-gio-dam-phan-voi-iran-196260412112948097.htm) - 04:55 12/04/2026
-- 🦅 [Sôi nổi “Đưa trường học đến thí sinh” tại Vũng Tàu](https://nld.com.vn/podcast/soi-noi-dua-truong-hoc-den-thi-sinh-tai-vung-tau-196260411111540172.htm) - 04:30 11/04/2026
-- 💻 [Giá vàng hôm nay bật tăng](https://nld.com.vn/podcast/gia-vang-hom-nay-bat-tang-196260410105757921.htm) - 04:14 10/04/2026
-- 🫶 [Thông tin đáng chú ý từ talkshow “Nâng hạng thị trường chứng khoán”](https://nld.com.vn/podcast/thong-tin-dang-chu-y-tu-talkshow-nang-hang-thi-truong-chung-khoan-196260409110656496.htm) - 04:25 09/04/2026
-- 🤭 [Công an làm rõ sự thật về clip &quot;CSGT chạy mô tô cầm gậy đuổi theo đánh người vi phạm”](https://nld.com.vn/podcast/cong-an-lam-ro-su-that-ve-clip-csgt-chay-mo-to-cam-gay-duoi-theo-danh-nguoi-vi-pham-196260408111541228.htm) - 04:39 08/04/2026
-- 🌈 [Phát ngôn gây tranh cãi của người sáng lập &quot;Bảo Tín Minh Châu&quot;](https://nld.com.vn/podcast/phat-ngon-gay-tranh-cai-cua-nguoi-sang-lap-bao-tin-minh-chau-196260407110739358.htm) - 04:32 07/04/2026
-- 💄 [Thông tin mới về vụ án tại Bảo Tín Minh Châu](https://nld.com.vn/podcast/thong-tin-moi-ve-vu-an-tai-bao-tin-minh-chau-196260406111341409.htm) - 04:36 06/04/2026
-- 📝 [Ngày thứ 2 Lễ hội &quot;Tôn vinh cà phê - trà Việt&quot; lần 4 có gì đặc biệt?](https://nld.com.vn/podcast/ngay-thu-2-le-hoi-ton-vinh-ca-phe-tra-viet-lan-4-co-gi-dac-biet-196260405112244784.htm) - 04:48 05/04/2026
-- 🦣 [Triệt phá đường dây sản xuất, buôn bán 22 loại thực phẩm chức năng giả](https://nld.com.vn/podcast/triet-pha-duong-day-san-xuat-buon-ban-22-loai-thuc-pham-chuc-nang-gia-196260404115041512.htm) - 04:39 04/04/2026
-- 🥰 [Diễn biến vụ việc tại Liên Hoa Bảo Tháp](https://nld.com.vn/podcast/dien-bien-vu-viec-tai-lien-hoa-bao-thap-19626040310534353.htm) - 04:22 03/04/2026
-- 🤩 [Người cha ở Đồng Nai rong ruổi tìm kiếm con gái mất liên lạc gần 1 tháng](https://nld.com.vn/podcast/nguoi-cha-o-dong-nai-rong-ruoi-tim-kiem-con-gai-mat-lien-lac-gan-1-thang-196260402105750411.htm) - 04:32 02/04/2026
-- 🙉 [Điểm trùng hợp thú vị của 2 vụ trúng vé số Bến Tre gây “sốt”](https://nld.com.vn/podcast/diem-trung-hop-thu-vi-cua-2-vu-trung-ve-so-ben-tre-gay-sot-196260401110706462.htm) - 04:24 01/04/2026
-- 🔭 [Nhận 200.000 USD, cựu Thứ trưởng Hoàng Văn Thắng khai gì?](https://nld.com.vn/podcast/nhan-200000-usd-cuu-thu-truong-hoang-van-thang-khai-gi-196260331111122952.htm) - 04:30 31/03/2026
-- 🐲 [Chú rể tử vong trước ngày cưới](https://nld.com.vn/podcast/chu-re-tu-vong-truoc-ngay-cuoi-196260330110212604.htm) - 04:17 30/03/2026
-- 🎬 [Đồng bộ các giải pháp phòng chống bệnh tay chân miệng](https://nld.com.vn/podcast/dong-bo-cac-giai-phap-phong-chong-benh-tay-chan-mieng-196260329102702731.htm) - 04:09 29/03/2026
-- 💫 [&quot;Đưa trường học đến thí sinh&quot;: Ngành kinh tế có “lép vế” trước công nghệ thông tin?](https://nld.com.vn/podcast/dua-truong-hoc-den-thi-sinh-nganh-kinh-te-co-lep-ve-truoc-cong-nghe-thong-tin-19626032811080892.htm) - 04:30 28/03/2026
-- 🐲 [Hé lộ lý do người đàn ông về quê bắn chết mẹ vợ và tài xế taxi](https://nld.com.vn/podcast/he-lo-ly-do-nguoi-dan-ong-ve-que-ban-chet-me-vo-va-tai-xe-taxi-196260327111341262.htm) - 04:31 27/03/2026
-- 🤗 [5 khuyến nghị đáng lưu ý từ Thương vụ Việt Nam tại Ả Rập Saudi](https://nld.com.vn/podcast/5-khuyen-nghi-dang-luu-y-tu-thuong-vu-viet-nam-tai-a-rap-saudi-196260326110622189.htm) - 04:16 26/03/2026
-- 🧑‍🏫 [Tổng thống Donald Trump: Iran trao cho Mỹ một &quot;món quà&quot;](https://nld.com.vn/podcast/tong-thong-donald-trump-iran-trao-cho-my-mot-mon-qua-196260325111738411.htm) - 04:34 25/03/2026
+- 🫣 [Báo Người Lao Động và Liên đoàn Lao động TPHCM ký kết hợp tác liên tịch](https://nld.com.vn/podcast/bao-nguoi-lao-dong-va-lien-doan-lao-dong-tphcm-ky-ket-hop-tac-lien-tich-196260421113755969.htm) - 04:39 21/04/2026
+- 💄 [Sản phẩm ăn dặm HiPP nghi nhiễm chất độc trong thuốc diệt chuột](https://nld.com.vn/podcast/san-pham-an-dam-hipp-nghi-nhiem-chat-doc-trong-thuoc-diet-chuot-196260420112451748.htm) - 04:40 20/04/2026
+- 💡 [Gỡ nút thắt những điểm gây tranh luận vụ 42 gốc mai vàng “không giấy tờ” ở Côn Đảo](https://nld.com.vn/podcast/go-nut-that-nhung-diem-gay-tranh-luan-vu-42-goc-mai-vang-khong-giay-to-o-con-dao-196260419101359623.htm) - 06:41 19/04/2026
+- 🦒 [Công an cảnh báo loan tin thất thiệt vụ nam sinh 12 tuổi mất tích bí ẩn](https://nld.com.vn/podcast/cong-an-canh-bao-loan-tin-that-thiet-vu-nam-sinh-12-tuoi-mat-tich-bi-an-19626041910554891.htm) - 04:19 19/04/2026
+- 🤭 [1.700 học sinh Đà Nẵng tham gia “Đưa trường học đến thí sinh”](https://nld.com.vn/podcast/1700-hoc-sinh-da-nang-tham-gia-dua-truong-hoc-den-thi-sinh-196260418112335014.htm) - 04:52 18/04/2026
+- 🥳 [Giá vàng giảm sâu, người mua lỗ nặng](https://nld.com.vn/podcast/gia-vang-giam-sau-nguoi-mua-lo-nang-196260417105004619.htm) - 04:15 17/04/2026
+- 🌝 [Thí điểm giáo dục AI cho học sinh phổ thông](https://nld.com.vn/podcast/thi-diem-giao-duc-ai-cho-hoc-sinh-pho-thong-196260416110946523.htm) - 04:30 16/04/2026
+- 🙉 [Xét xử phúc thẩm Youtuber Đinh Lan, vợ chồng bà Nguyễn Phương Hằng vắng mặt](https://nld.com.vn/podcast/xet-xu-phuc-tham-youtuber-dinh-lan-vo-chong-ba-nguyen-phuong-hang-vang-mat-196260415112722.htm) - 04:34 15/04/2026
+- 🏊 [Kết quả kiểm tra nữ tài xế có biểu hiện lạ gây tai nạn giao thông liên hoàn](https://nld.com.vn/podcast/ket-qua-kiem-tra-nu-tai-xe-co-bieu-hien-la-gay-tai-nan-giao-thong-lien-hoan-196260414111613358.htm) - 04:34 14/04/2026
+- 🌊 [Nữ sinh lớp 7 bị đánh phải nhập viện](https://nld.com.vn/podcast/nu-sinh-lop-7-bi-danh-phai-nhap-vien-19626041310495173.htm) - 04:31 13/04/2026
+- 🦅 [Mỹ báo tin xấu sau 21 giờ đàm phán với Iran](https://nld.com.vn/podcast/my-bao-tin-xau-sau-21-gio-dam-phan-voi-iran-196260412112948097.htm) - 04:55 12/04/2026
+- 💻 [Sôi nổi “Đưa trường học đến thí sinh” tại Vũng Tàu](https://nld.com.vn/podcast/soi-noi-dua-truong-hoc-den-thi-sinh-tai-vung-tau-196260411111540172.htm) - 04:30 11/04/2026
+- 🫶 [Giá vàng hôm nay bật tăng](https://nld.com.vn/podcast/gia-vang-hom-nay-bat-tang-196260410105757921.htm) - 04:14 10/04/2026
+- 🤭 [Thông tin đáng chú ý từ talkshow “Nâng hạng thị trường chứng khoán”](https://nld.com.vn/podcast/thong-tin-dang-chu-y-tu-talkshow-nang-hang-thi-truong-chung-khoan-196260409110656496.htm) - 04:25 09/04/2026
+- 🌈 [Công an làm rõ sự thật về clip &quot;CSGT chạy mô tô cầm gậy đuổi theo đánh người vi phạm”](https://nld.com.vn/podcast/cong-an-lam-ro-su-that-ve-clip-csgt-chay-mo-to-cam-gay-duoi-theo-danh-nguoi-vi-pham-196260408111541228.htm) - 04:39 08/04/2026
+- 💄 [Phát ngôn gây tranh cãi của người sáng lập &quot;Bảo Tín Minh Châu&quot;](https://nld.com.vn/podcast/phat-ngon-gay-tranh-cai-cua-nguoi-sang-lap-bao-tin-minh-chau-196260407110739358.htm) - 04:32 07/04/2026
+- 📝 [Thông tin mới về vụ án tại Bảo Tín Minh Châu](https://nld.com.vn/podcast/thong-tin-moi-ve-vu-an-tai-bao-tin-minh-chau-196260406111341409.htm) - 04:36 06/04/2026
+- 🦣 [Ngày thứ 2 Lễ hội &quot;Tôn vinh cà phê - trà Việt&quot; lần 4 có gì đặc biệt?](https://nld.com.vn/podcast/ngay-thu-2-le-hoi-ton-vinh-ca-phe-tra-viet-lan-4-co-gi-dac-biet-196260405112244784.htm) - 04:48 05/04/2026
+- 🥰 [Triệt phá đường dây sản xuất, buôn bán 22 loại thực phẩm chức năng giả](https://nld.com.vn/podcast/triet-pha-duong-day-san-xuat-buon-ban-22-loai-thuc-pham-chuc-nang-gia-196260404115041512.htm) - 04:39 04/04/2026
+- 🤩 [Diễn biến vụ việc tại Liên Hoa Bảo Tháp](https://nld.com.vn/podcast/dien-bien-vu-viec-tai-lien-hoa-bao-thap-19626040310534353.htm) - 04:22 03/04/2026
+- 🙉 [Người cha ở Đồng Nai rong ruổi tìm kiếm con gái mất liên lạc gần 1 tháng](https://nld.com.vn/podcast/nguoi-cha-o-dong-nai-rong-ruoi-tim-kiem-con-gai-mat-lien-lac-gan-1-thang-196260402105750411.htm) - 04:32 02/04/2026
+- 🔭 [Điểm trùng hợp thú vị của 2 vụ trúng vé số Bến Tre gây “sốt”](https://nld.com.vn/podcast/diem-trung-hop-thu-vi-cua-2-vu-trung-ve-so-ben-tre-gay-sot-196260401110706462.htm) - 04:24 01/04/2026
+- 🐲 [Nhận 200.000 USD, cựu Thứ trưởng Hoàng Văn Thắng khai gì?](https://nld.com.vn/podcast/nhan-200000-usd-cuu-thu-truong-hoang-van-thang-khai-gi-196260331111122952.htm) - 04:30 31/03/2026
+- 🎬 [Chú rể tử vong trước ngày cưới](https://nld.com.vn/podcast/chu-re-tu-vong-truoc-ngay-cuoi-196260330110212604.htm) - 04:17 30/03/2026
+- 💫 [Đồng bộ các giải pháp phòng chống bệnh tay chân miệng](https://nld.com.vn/podcast/dong-bo-cac-giai-phap-phong-chong-benh-tay-chan-mieng-196260329102702731.htm) - 04:09 29/03/2026
+- 🐲 [&quot;Đưa trường học đến thí sinh&quot;: Ngành kinh tế có “lép vế” trước công nghệ thông tin?](https://nld.com.vn/podcast/dua-truong-hoc-den-thi-sinh-nganh-kinh-te-co-lep-ve-truoc-cong-nghe-thong-tin-19626032811080892.htm) - 04:30 28/03/2026
+- 🤗 [Hé lộ lý do người đàn ông về quê bắn chết mẹ vợ và tài xế taxi](https://nld.com.vn/podcast/he-lo-ly-do-nguoi-dan-ong-ve-que-ban-chet-me-vo-va-tai-xe-taxi-196260327111341262.htm) - 04:31 27/03/2026
+- 🧑‍🏫 [5 khuyến nghị đáng lưu ý từ Thương vụ Việt Nam tại Ả Rập Saudi](https://nld.com.vn/podcast/5-khuyen-nghi-dang-luu-y-tu-thuong-vu-viet-nam-tai-a-rap-saudi-196260326110622189.htm) - 04:16 26/03/2026
+- 🎓 [Tổng thống Donald Trump: Iran trao cho Mỹ một &quot;món quà&quot;](https://nld.com.vn/podcast/tong-thong-donald-trump-iran-trao-cho-my-mot-mon-qua-196260325111738411.htm) - 04:34 25/03/2026
 - 🎓 [Phát biểu mới nhất của Tổng thống Mỹ Donald Trump về  eo biển Hormuz](https://nld.com.vn/podcast/phat-bieu-moi-nhat-cua-tong-thong-my-donald-trump-ve-eo-bien-hormuz-196260324104220671.htm) - 04:35 24/03/2026
-- 🎓 [Nữ sinh mang 114 chỉ vàng đi bán để chuyển cho đối tượng lừa đảo](https://nld.com.vn/podcast/nu-sinh-mang-114-chi-vang-di-ban-de-chuyen-cho-doi-tuong-lua-dao-196260323104658362.htm) - 04:47 23/03/2026
-- 🧐 [Bắt giữ nghi phạm giết người ở khách sạn, giấu hung khí ở sân bay](https://nld.com.vn/podcast/bat-giu-nghi-pham-giet-nguoi-o-khach-san-giau-hung-khi-o-san-bay-196260322111553857.htm) - 04:33 22/03/2026
-- 🧑‍🏫 [Đế chế lừa đảo của Mr Pips lộ diện và chiêu “giả điên” chạy tội](https://nld.com.vn/podcast/de-che-lua-dao-nghin-ti-cua-mr-pips-lo-dien-va-chieu-gia-dien-chay-toi-19626032116030006.htm) - 04:09 22/03/2026
-- 🚀 [&quot;Đưa trường học đến thí sinh&quot; tại Tây Ninh: Chọn ngành nào cho đúng?](https://nld.com.vn/podcast/dua-truong-hoc-den-thi-sinh-tai-tay-ninh-chon-nganh-nao-cho-dung-196260321110016733.htm) - 04:31 21/03/2026
-- 🦍 [Quỹ Bình ổn giá xăng dầu số dư còn bao nhiêu?](https://nld.com.vn/podcast/quy-binh-on-gia-xang-dau-so-du-con-bao-nhieu-196260320112046116.htm) - 04:31 20/03/2026
-- 🌈 [Chi tiết quy trình shark Bình dùng Ngân Lượng rửa tiền cho đường dây lừa đảo của Mr Pips](https://nld.com.vn/podcast/chi-tiet-quy-trinh-shark-binh-dung-ngan-luong-rua-tien-cho-duong-day-lua-dao-cua-mr-pips-196260319213749967.htm) - 01:17 20/03/2026
-- 💻 [Yêu cầu đối tượng trong vụ án gây xôn xao ở Đắk Lắk ra đầu thú để được hưởng khoan hồng](https://nld.com.vn/podcast/yeu-cau-doi-tuong-trong-vu-an-gay-xon-xao-o-dak-lak-ra-dau-thu-de-duoc-huong-khoan-hong-196260319111506593.htm) - 04:43 19/03/2026
-- 🎭 [Nhóm cướp dùng dao khống chế người đi đường khai gì?](https://nld.com.vn/podcast/nhom-cuop-dung-dao-khong-che-nguoi-di-duong-khai-gi-196260318110239426.htm) - 04:24 18/03/2026
-- 😎 [Trao giải cho 14 tác phẩm cuộc thi &quot;Người Thầy thuốc trong tôi&quot; và &quot;Tết xanh&quot;](https://nld.com.vn/podcast/trao-14-giai-thuong-cuoc-thi-nguoi-thay-thuoc-trong-toi-va-tet-xanh-196260317120031379.htm) - 05:14 17/03/2026
-- 🎃 [Chồng nổ súng rồi đâm vợ tử vong tại chỗ](https://nld.com.vn/podcast/chong-no-sung-roi-dam-vo-tu-vong-tai-cho-19626031610582749.htm) - 04:44 16/03/2026
-- 🤡 [Cử tri cả nước hân hoan đi bầu cử](https://nld.com.vn/podcast/cu-tri-ca-nuoc-han-hoan-di-bau-cu-19626031511125475.htm) - 04:28 15/03/2026
-- 🌋 [Bị lừa khi mua vàng trên mạng với giá rẻ bất ngờ](https://nld.com.vn/podcast/bi-lua-khi-mua-vang-tren-mang-voi-gia-re-bat-ngo-196260314104930014.htm) - 04:30 14/03/2026
-- 🤖 [&quot;Thần y&quot; dỏm với &quot;bài thuốc gia truyền 3 đời&quot; thu lợi bất chính gần 230 tỉ đồng](https://nld.com.vn/podcast/than-y-dom-voi-bai-thuoc-gia-truyen-3-doi-thu-loi-bat-chinh-gan-230-ti-dong-196260313110655447.htm) - 04:29 13/03/2026
-- ⛽️ [Liên tiếp xuất hiện clip nghi dàn cảnh cướp giật được cho là ở Liên Hoa Bảo Tháp](https://nld.com.vn/podcast/lien-tiep-xuat-hien-clip-nghi-dan-canh-cuop-giat-duoc-cho-la-o-lien-hoa-bao-thap-19626031218110594.htm) - 02:19 13/03/2026
-- 💄 [Công an vào cuộc làm rõ vụ linh vật ngựa bị đập phá &quot;không thương tiếc&quot; ở Quảng Trị](https://nld.com.vn/podcast/cong-an-vao-cuoc-lam-ro-vu-linh-vat-ngua-bi-dap-pha-khong-thuong-tiec-o-quang-tri-196260312111118806.htm) - 04:28 12/03/2026
-- 🌈 [Vì sao giá xăng dầu trong nước chưa “hạ nhiệt”?](https://nld.com.vn/podcast/vi-sao-gia-xang-dau-trong-nuoc-chua-ha-nhiet-196260311110840412.htm) - 04:33 11/03/2026
-- 💄 [Tài sản số Việt Nam trước cơ hội phát triển mới](https://nld.com.vn/podcast/tai-san-so-viet-nam-truoc-co-hoi-phat-trien-moi-196260310110614009.htm) - 04:35 10/03/2026
-- 🪄 [Thông tin đáng chú ý về tuyển sinh lớp 10](https://nld.com.vn/podcast/thong-tin-dang-chu-y-ve-tuyen-sinh-lop-10-19626030911145982.htm) - 04:30 09/03/2026
-- 💻 [Mời tham gia cuộc thi &quot;Cảm tưởng về cà phê - trà Việt&quot; do Báo Người Lao Động tổ chức](https://nld.com.vn/podcast/moi-tham-gia-cuoc-thi-cam-tuong-ve-ca-phe-tra-viet-do-bao-nguoi-lao-dong-to-chuc-196260308105856078.htm) - 04:32 08/03/2026
-- 🦄 [2.000  học sinh tham gia &quot;Đưa trường học đến thí sinh&quot;](https://nld.com.vn/podcast/2000-hoc-sinh-tham-gia-dua-truong-hoc-den-thi-sinh-196260307111442478.htm) - 04:28 07/03/2026
-- 🦆 [Vụ “thầy” và Tym: Giáo hội Phật giáo Việt Nam lên tiếng](https://nld.com.vn/podcast/vu-thay-va-tym-giao-hoi-phat-giao-viet-nam-len-tieng-196260306105620966.htm) - 04:13 06/03/2026<!-- nld-podcast:END -->
+- 🧐 [Nữ sinh mang 114 chỉ vàng đi bán để chuyển cho đối tượng lừa đảo](https://nld.com.vn/podcast/nu-sinh-mang-114-chi-vang-di-ban-de-chuyen-cho-doi-tuong-lua-dao-196260323104658362.htm) - 04:47 23/03/2026
+- 🧑‍🏫 [Bắt giữ nghi phạm giết người ở khách sạn, giấu hung khí ở sân bay](https://nld.com.vn/podcast/bat-giu-nghi-pham-giet-nguoi-o-khach-san-giau-hung-khi-o-san-bay-196260322111553857.htm) - 04:33 22/03/2026
+- 🚀 [Đế chế lừa đảo của Mr Pips lộ diện và chiêu “giả điên” chạy tội](https://nld.com.vn/podcast/de-che-lua-dao-nghin-ti-cua-mr-pips-lo-dien-va-chieu-gia-dien-chay-toi-19626032116030006.htm) - 04:09 22/03/2026
+- 🦍 [&quot;Đưa trường học đến thí sinh&quot; tại Tây Ninh: Chọn ngành nào cho đúng?](https://nld.com.vn/podcast/dua-truong-hoc-den-thi-sinh-tai-tay-ninh-chon-nganh-nao-cho-dung-196260321110016733.htm) - 04:31 21/03/2026
+- 🌈 [Quỹ Bình ổn giá xăng dầu số dư còn bao nhiêu?](https://nld.com.vn/podcast/quy-binh-on-gia-xang-dau-so-du-con-bao-nhieu-196260320112046116.htm) - 04:31 20/03/2026
+- 💻 [Chi tiết quy trình shark Bình dùng Ngân Lượng rửa tiền cho đường dây lừa đảo của Mr Pips](https://nld.com.vn/podcast/chi-tiet-quy-trinh-shark-binh-dung-ngan-luong-rua-tien-cho-duong-day-lua-dao-cua-mr-pips-196260319213749967.htm) - 01:17 20/03/2026
+- 🎭 [Yêu cầu đối tượng trong vụ án gây xôn xao ở Đắk Lắk ra đầu thú để được hưởng khoan hồng](https://nld.com.vn/podcast/yeu-cau-doi-tuong-trong-vu-an-gay-xon-xao-o-dak-lak-ra-dau-thu-de-duoc-huong-khoan-hong-196260319111506593.htm) - 04:43 19/03/2026
+- 😎 [Nhóm cướp dùng dao khống chế người đi đường khai gì?](https://nld.com.vn/podcast/nhom-cuop-dung-dao-khong-che-nguoi-di-duong-khai-gi-196260318110239426.htm) - 04:24 18/03/2026
+- 🎃 [Trao giải cho 14 tác phẩm cuộc thi &quot;Người Thầy thuốc trong tôi&quot; và &quot;Tết xanh&quot;](https://nld.com.vn/podcast/trao-14-giai-thuong-cuoc-thi-nguoi-thay-thuoc-trong-toi-va-tet-xanh-196260317120031379.htm) - 05:14 17/03/2026
+- 🤡 [Chồng nổ súng rồi đâm vợ tử vong tại chỗ](https://nld.com.vn/podcast/chong-no-sung-roi-dam-vo-tu-vong-tai-cho-19626031610582749.htm) - 04:44 16/03/2026
+- 🌋 [Cử tri cả nước hân hoan đi bầu cử](https://nld.com.vn/podcast/cu-tri-ca-nuoc-han-hoan-di-bau-cu-19626031511125475.htm) - 04:28 15/03/2026
+- 🤖 [Bị lừa khi mua vàng trên mạng với giá rẻ bất ngờ](https://nld.com.vn/podcast/bi-lua-khi-mua-vang-tren-mang-voi-gia-re-bat-ngo-196260314104930014.htm) - 04:30 14/03/2026
+- ⛽️ [&quot;Thần y&quot; dỏm với &quot;bài thuốc gia truyền 3 đời&quot; thu lợi bất chính gần 230 tỉ đồng](https://nld.com.vn/podcast/than-y-dom-voi-bai-thuoc-gia-truyen-3-doi-thu-loi-bat-chinh-gan-230-ti-dong-196260313110655447.htm) - 04:29 13/03/2026
+- 💄 [Liên tiếp xuất hiện clip nghi dàn cảnh cướp giật được cho là ở Liên Hoa Bảo Tháp](https://nld.com.vn/podcast/lien-tiep-xuat-hien-clip-nghi-dan-canh-cuop-giat-duoc-cho-la-o-lien-hoa-bao-thap-19626031218110594.htm) - 02:19 13/03/2026
+- 🌈 [Công an vào cuộc làm rõ vụ linh vật ngựa bị đập phá &quot;không thương tiếc&quot; ở Quảng Trị](https://nld.com.vn/podcast/cong-an-vao-cuoc-lam-ro-vu-linh-vat-ngua-bi-dap-pha-khong-thuong-tiec-o-quang-tri-196260312111118806.htm) - 04:28 12/03/2026
+- 💄 [Vì sao giá xăng dầu trong nước chưa “hạ nhiệt”?](https://nld.com.vn/podcast/vi-sao-gia-xang-dau-trong-nuoc-chua-ha-nhiet-196260311110840412.htm) - 04:33 11/03/2026
+- 🪄 [Tài sản số Việt Nam trước cơ hội phát triển mới](https://nld.com.vn/podcast/tai-san-so-viet-nam-truoc-co-hoi-phat-trien-moi-196260310110614009.htm) - 04:35 10/03/2026
+- 💻 [Thông tin đáng chú ý về tuyển sinh lớp 10](https://nld.com.vn/podcast/thong-tin-dang-chu-y-ve-tuyen-sinh-lop-10-19626030911145982.htm) - 04:30 09/03/2026
+- 🦄 [Mời tham gia cuộc thi &quot;Cảm tưởng về cà phê - trà Việt&quot; do Báo Người Lao Động tổ chức](https://nld.com.vn/podcast/moi-tham-gia-cuoc-thi-cam-tuong-ve-ca-phe-tra-viet-do-bao-nguoi-lao-dong-to-chuc-196260308105856078.htm) - 04:32 08/03/2026
+- 🦆 [2.000  học sinh tham gia &quot;Đưa trường học đến thí sinh&quot;](https://nld.com.vn/podcast/2000-hoc-sinh-tham-gia-dua-truong-hoc-den-thi-sinh-196260307111442478.htm) - 04:28 07/03/2026<!-- nld-podcast:END -->
