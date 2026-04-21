@@ -19,7 +19,7 @@ sidebar_position: 15
 - 🗽 [Đ&amp;igrave;nh Bắc &amp;lsquo;đối đầu&amp;rsquo; Việt Cường, cuộc cạnh tranh kỳ th&amp;uacute; v&amp;agrave; khốc liệt ở đội tuyển Việt Nam](https://thanhnien.vn/dinh-bac-doi-dau-viet-cuong-cuoc-canh-tranh-ky-thu-va-khoc-liet-o-doi-tuyen-viet-nam-185260420161130025.htm) - 02:40 21/04/2026
 - 🎭 [Th&amp;aacute;i Lan giấu k&amp;iacute;n đội U.17 &amp;lsquo;h&amp;agrave;ng xịn&amp;rsquo;, kh&amp;ocirc;ng muốn thua Việt Nam suất dự World Cup](https://thanhnien.vn/thai-lan-giau-kin-doi-u17-hang-xin-khong-muon-thua-viet-nam-suat-du-world-cup-185260421091239255.htm) - 02:13 21/04/2026
 - 👺 [Arsenal c&amp;ograve;n hay mất khả năng v&amp;ocirc; địch?](https://thanhnien.vn/arsenal-con-hay-mat-kha-nang-vo-dich-185260420214614947.htm) - 23:45 20/04/2026
-- ⚗️ [Arsenal vẫn c&amp;ograve;n cửa v&amp;ocirc; địch Ngoại hạng Anh nếu&amp;hellip;](https://thanhnien.vn/arsenal-van-con-cua-vo-dich-ngoai-hang-anh-neu-185260421055443019.htm) - 22:58 20/04/2026
+- ⚗️ [Arsenal vẫn c&amp;ograve;n cửa v&amp;ocirc; địch Ngoại hạng Anh&amp;hellip;](https://thanhnien.vn/arsenal-van-con-cua-vo-dich-ngoai-hang-anh-neu-185260421055443019.htm) - 22:58 20/04/2026
 - 🐵 [Lịch thi đấu C&amp;uacute;p b&amp;oacute;ng chuyền H&amp;ugrave;ng Vương 2026 mới nhất: Sẽ rất bất ngờ, kịch t&amp;iacute;nh](https://thanhnien.vn/lich-thi-dau-cup-bong-chuyen-hung-vuong-2026-moi-nhat-se-rat-bat-ngo-kich-tinh-185260421055255133.htm) - 22:57 20/04/2026
 - 🧑‍🏫 [Nh&amp;agrave; v&amp;ocirc; địch sắp lộ diện](https://thanhnien.vn/nha-vo-dich-sap-lo-dien-185260420203947927.htm) - 22:44 20/04/2026
 - 🦒 [Sức h&amp;uacute;t đặc biệt của U.17 Việt Nam](https://thanhnien.vn/suc-hut-dac-biet-cua-u17-viet-nam-185260420215058185.htm) - 17:00 20/04/2026
