@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Iran nêu điều kiện nối lại đàm phán với Mỹ](https://vnexpress.net/iran-neu-dieu-kien-noi-lai-dam-phan-voi-my-5065447.html) - 02:17 22/04/2026
-- 🕴 [Ukraine sửa xong đường ống Druzhba, sẵn sàng nối lại chuyển dầu Nga](https://vnexpress.net/ukraine-sua-xong-duong-ong-druzhba-san-sang-noi-lai-chuyen-dau-nga-5065436.html) - 02:10 22/04/2026
-- 🤭 [Hezbollah phóng loạt rocket, cáo buộc Israel phá lệnh ngừng bắn](https://vnexpress.net/hezbollah-phong-loat-rocket-cao-buoc-israel-pha-lenh-ngung-ban-5065437.html) - 01:22 22/04/2026
-- 🧑‍💻 [Israel phạt giam hai binh sĩ liên quan vụ đập phá tượng Chúa](https://vnexpress.net/israel-phat-giam-hai-binh-si-lien-quan-vu-dap-pha-tuong-chua-5065428.html) - 00:20 22/04/2026
-- 🦏 [Mỹ gia hạn lệnh ngừng bắn với Iran](https://vnexpress.net/my-gia-han-lenh-ngung-ban-voi-iran-5065429.html) - 23:14 21/04/2026
-- 🦒 [Cách Pakistan chinh phục ông Trump để trở thành &#39;sứ giả hòa bình&#39;](https://vnexpress.net/cach-pakistan-chinh-phuc-ong-trump-de-tro-thanh-su-gia-hoa-binh-5064939.html) - 18:35 21/04/2026
-- 🌈 [Ông Trump kêu gọi Iran thả &#39;8 phụ nữ sắp bị treo cổ&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-tha-8-phu-nu-sap-bi-treo-co-5065405.html) - 17:05 21/04/2026
-- 🧑‍🏫 [Lực lượng Mỹ đổ bộ lên tàu dầu có liên hệ với Iran](https://vnexpress.net/luc-luong-my-do-bo-len-tau-dau-co-lien-he-voi-iran-5065389.html) - 15:18 21/04/2026
-- 🐲 [Hải quân Iran &#39;giúp tàu dầu vượt qua vòng phong tỏa của Mỹ&#39;](https://vnexpress.net/hai-quan-iran-giup-tau-dau-vuot-qua-vong-phong-toa-cua-my-5065353.html) - 13:36 21/04/2026
-- 🦒 [Tổng thống Hàn Quốc đến Việt Nam](https://vnexpress.net/tong-thong-han-quoc-den-viet-nam-5065340.html) - 12:54 21/04/2026
-- 🐻 [Trung Quốc tìm cách đổi thực đơn cho lợn để giảm phụ thuộc đậu nành Mỹ](https://vnexpress.net/trung-quoc-tim-cach-doi-thuc-don-cho-lon-de-giam-phu-thuoc-dau-nanh-my-5059961.html) - 12:31 21/04/2026
-- 🚀 [Những tuyên bố liên tục thay đổi của Mỹ về đàm phán với Iran](https://vnexpress.net/nhung-tuyen-bo-lien-tuc-thay-doi-cua-my-ve-dam-phan-voi-iran-5064936.html) - 12:00 21/04/2026
-- 🥰 [Nổ súng tại Malaysia, một người Việt thiệt mạng](https://vnexpress.net/no-sung-tai-malaysia-mot-nguoi-viet-thiet-mang-5065247.html) - 11:40 21/04/2026
-- 🔥 [Mỹ thử nghiệm bom lượn bay xa 370 km](https://vnexpress.net/my-thu-nghiem-bom-luon-bay-xa-370-km-5065096.html) - 09:23 21/04/2026
-- 🥳 [Tương lai bất định của tàu hàng Iran bị Mỹ bắt](https://vnexpress.net/tuong-lai-bat-dinh-cua-tau-hang-iran-bi-my-bat-5065019.html) - 08:27 21/04/2026
-- 💼 [Nhật gỡ bỏ rào cản xuất khẩu vũ khí sát thương](https://vnexpress.net/nhat-go-bo-rao-can-xuat-khau-vu-khi-sat-thuong-5065014.html) - 08:19 21/04/2026
-- 🤡 [Tàu Iran có thể đang chở &#39;hàng lưỡng dụng&#39; khi bị Mỹ bắt](https://vnexpress.net/tau-iran-co-the-dang-cho-hang-luong-dung-khi-bi-my-bat-5065085.html) - 07:49 21/04/2026
-- 🌁 [Mỹ huy động tàu sân bay tham gia phong tỏa cảng Iran](https://vnexpress.net/my-huy-dong-tau-san-bay-tham-gia-phong-toa-cang-iran-5065001.html) - 07:17 21/04/2026
-- 🤩 [Toàn bộ hành khách chuyến bay viết thư chúc mừng cậu bé khỏi ung thư](https://vnexpress.net/toan-bo-hanh-khach-chuyen-bay-viet-thu-chuc-mung-cau-be-khoi-ung-thu-5065050.html) - 07:14 21/04/2026
-- 🎉 [Đạn pháo kích nổ trong xe tăng tối tân của Nhật, 3 người chết](https://vnexpress.net/dan-phao-kich-no-trong-xe-tang-toi-tan-cua-nhat-3-nguoi-chet-5065102.html) - 05:31 21/04/2026
-- 🎉 [Đức triệu đại sứ Nga vì &#39;mối đe dọa trực tiếp&#39;](https://vnexpress.net/duc-trieu-dai-su-nga-vi-moi-de-doa-truc-tiep-5064912.html) - 04:36 21/04/2026
-- 🌁 [Mỹ hoãn kế hoạch loại biên cường kích &#39;sát thủ diệt tăng&#39;](https://vnexpress.net/my-hoan-ke-hoach-loai-bien-cuong-kich-sat-thu-diet-tang-5064932.html) - 04:16 21/04/2026
-- 🌊 [Cuba xác nhận đã đàm phán với Mỹ tại thủ đô Havana](https://vnexpress.net/cuba-xac-nhan-da-dam-phan-voi-my-tai-thu-do-havana-5064962.html) - 03:50 21/04/2026
-- 🕴 [Thủ tướng đắc cử Hungary sẵn sàng thực thi lệnh bắt của ICC với ông Netanyahu](https://vnexpress.net/thu-tuong-dac-cu-hungary-san-sang-thuc-thi-lenh-bat-cua-icc-voi-ong-netanyahu-5064930.html) - 03:02 21/04/2026
-- 🎓 [Iran sẵn sàng &#39;tung quân bài mới trên chiến trường&#39;](https://vnexpress.net/iran-san-sang-tung-quan-bai-moi-tren-chien-truong-5064904.html) - 00:11 21/04/2026
-- 🦩 [Bộ trưởng Lao động Mỹ từ chức](https://vnexpress.net/bo-truong-lao-dong-my-tu-chuc-5064901.html) - 23:48 20/04/2026
-- 🌏 [Mỹ có thể rà phá thủy lôi ở eo biển Hormuz thế nào](https://vnexpress.net/my-co-the-ra-pha-thuy-loi-o-eo-bien-hormuz-the-nao-5064662.html) - 22:00 20/04/2026
-- 🌋 [Ông Trump tuyên bố sắp &#39;ký thỏa thuận với Iran&#39;](https://vnexpress.net/ong-trump-tuyen-bo-sap-ky-thoa-thuan-voi-iran-5064877.html) - 16:34 20/04/2026
-- 🪜 [Iran mở lại các sân bay ở Tehran](https://vnexpress.net/iran-mo-lai-cac-san-bay-o-tehran-5064853.html) - 14:34 20/04/2026
-- 🕴 [Nhật Bản cảnh báo nguy cơ xảy ra động đất &#39;cực mạnh&#39;](https://vnexpress.net/nhat-ban-canh-bao-nguy-co-xay-ra-dong-dat-cuc-manh-5064828.html) - 12:28 20/04/2026
-- 🧑‍🏫 [Ahmad Vahidi - &#39;Cánh tay sắt&#39; quyền lực hàng đầu Iran](https://vnexpress.net/ahmad-vahidi-canh-tay-sat-quyen-luc-hang-dau-iran-5059808.html) - 12:02 20/04/2026
-- 🌮 [Ukraine đăng video tập kích tàu đổ bộ Nga tại Crimea](https://vnexpress.net/ukraine-dang-video-tap-kich-tau-do-bo-nga-tai-crimea-5064717.html) - 11:23 20/04/2026
+- 🎭 [Đường dây hoang báo bị cướp để được cấp visa ở lại Mỹ](https://vnexpress.net/duong-day-hoang-bao-bi-cuop-de-duoc-cap-visa-o-lai-my-5065571.html) - 19:00 22/04/2026
+- 🕴 [Hệ thống giúp tàu sân bay Mỹ tạo ra 1,5 triệu lít nước ngọt mỗi ngày](https://vnexpress.net/he-thong-giup-tau-san-bay-my-tao-ra-1-5-trieu-lit-nuoc-ngot-moi-ngay-5065602.html) - 18:00 22/04/2026
+- 🤭 [Ông Trump: Đàm phán Mỹ - Iran &#39;có thể diễn ra trong 3 ngày tới&#39;](https://vnexpress.net/ong-trump-dam-phan-my-iran-co-the-dien-ra-trong-3-ngay-toi-5065909.html) - 15:58 22/04/2026
+- 🧑‍💻 [Việt - Hàn nỗ lực đạt kim ngạch thương mại 150 tỷ USD](https://vnexpress.net/viet-han-no-luc-dat-kim-ngach-thuong-mai-150-ty-usd-5065902.html) - 14:40 22/04/2026
+- 🦏 [ICE bắt giam vợ lính Mỹ](https://vnexpress.net/ice-bat-giam-vo-linh-my-5065636.html) - 14:00 22/04/2026
+- 🦒 [Loạt nhà khoa học Mỹ chết, mất tích, FBI vào cuộc điều tra](https://vnexpress.net/loat-nha-khoa-hoc-my-chet-mat-tich-fbi-vao-cuoc-dieu-tra-5065887.html) - 13:56 22/04/2026
+- 🌈 [Thế bế tắc trong đàm phán Mỹ - Iran](https://vnexpress.net/the-be-tac-trong-dam-phan-my-iran-5065446.html) - 12:00 22/04/2026
+- 🧑‍🏫 [Iran tuyên bố bắt giữ hai tàu hàng tìm cách qua eo biển Hormuz](https://vnexpress.net/iran-tuyen-bo-bat-giu-hai-tau-hang-tim-cach-qua-eo-bien-hormuz-5065867.html) - 11:31 22/04/2026
+- 🐲 [Việt Nam bắn 21 loạt đại bác chào mừng Tổng thống Hàn Quốc](https://vnexpress.net/viet-nam-ban-21-loat-dai-bac-chao-mung-tong-thong-han-quoc-5065505.html) - 10:17 22/04/2026
+- 🦒 [Cuộc sống trên &#39;quả cầu lửa&#39; gần eo biển Hormuz](https://vnexpress.net/cuoc-song-tren-qua-cau-lua-gan-eo-bien-hormuz-5064996.html) - 09:29 22/04/2026
+- 🐻 [Iran cảnh báo láng giềng &#39;chuẩn bị vĩnh biệt sản xuất dầu&#39;](https://vnexpress.net/iran-canh-bao-lang-gieng-chuan-bi-vinh-biet-san-xuat-dau-5065688.html) - 09:27 22/04/2026
+- 🚀 [Xuồng Iran &#39;nã đạn vào tàu container&#39; gần eo biển Hormuz](https://vnexpress.net/xuong-iran-na-dan-vao-tau-container-gan-eo-bien-hormuz-5065670.html) - 07:47 22/04/2026
+- 🥰 [Một tháng cai điện thoại thông minh của nhóm thanh niên Mỹ](https://vnexpress.net/mot-thang-cai-dien-thoai-thong-minh-cua-nhom-thanh-nien-my-5065544.html) - 07:33 22/04/2026
+- 🔥 [MC bảo thủ nổi tiếng ở Mỹ hối hận vì từng ủng hộ ông Trump](https://vnexpress.net/mc-bao-thu-noi-tieng-o-my-hoi-han-vi-tung-ung-ho-ong-trump-5065635.html) - 07:32 22/04/2026
+- 🥳 [Nga tuyên bố sẵn sàng bảo vệ công dân ở vùng ly khai Moldova](https://vnexpress.net/nga-tuyen-bo-san-sang-bao-ve-cong-dan-o-vung-ly-khai-moldova-5065608.html) - 07:12 22/04/2026
+- 💼 [Động lực thúc đẩy ông Trump gia hạn lệnh ngừng bắn với Iran](https://vnexpress.net/dong-luc-thuc-day-ong-trump-gia-han-lenh-ngung-ban-voi-iran-5065456.html) - 06:52 22/04/2026
+- 🤡 [Mỹ &#39;dùng cạn nửa kho Patriot, THAAD&#39; trong xung đột với Iran](https://vnexpress.net/my-dung-can-nua-kho-patriot-thaad-trong-xung-dot-voi-iran-5065525.html) - 04:23 22/04/2026
+- 🌁 [Đội xuồng Iran có thể thách thức hải quân Mỹ ở eo biển Hormuz](https://vnexpress.net/doi-xuong-iran-co-the-thach-thuc-hai-quan-my-o-eo-bien-hormuz-5064432.html) - 03:30 22/04/2026
+- 🤩 [Campuchia chỉ trích báo Mỹ vì tên gọi &#39;Scambodia&#39;](https://vnexpress.net/campuchia-chi-trich-bao-my-vi-ten-goi-scambodia-5065486.html) - 03:24 22/04/2026
+- 🎉 [Nghi phạm &#39;dọa hiến tế&#39; khi xả súng trên kim tự tháp Mexico](https://vnexpress.net/nghi-pham-doa-hien-te-khi-xa-sung-tren-kim-tu-thap-mexico-5065492.html) - 02:44 22/04/2026
+- 🎉 [Iran nêu điều kiện nối lại đàm phán với Mỹ](https://vnexpress.net/iran-neu-dieu-kien-noi-lai-dam-phan-voi-my-5065447.html) - 02:17 22/04/2026
+- 🌁 [Ukraine sửa xong đường ống Druzhba, sẵn sàng nối lại chuyển dầu Nga](https://vnexpress.net/ukraine-sua-xong-duong-ong-druzhba-san-sang-noi-lai-chuyen-dau-nga-5065436.html) - 02:10 22/04/2026
+- 🌊 [Hezbollah phóng loạt rocket, cáo buộc Israel phá lệnh ngừng bắn](https://vnexpress.net/hezbollah-phong-loat-rocket-cao-buoc-israel-pha-lenh-ngung-ban-5065437.html) - 01:22 22/04/2026
+- 🕴 [Israel giam hai binh sĩ liên quan vụ đập phá tượng Chúa](https://vnexpress.net/israel-giam-hai-binh-si-lien-quan-vu-dap-pha-tuong-chua-5065428.html) - 00:20 22/04/2026
+- 🎓 [Mỹ gia hạn lệnh ngừng bắn với Iran](https://vnexpress.net/my-gia-han-lenh-ngung-ban-voi-iran-5065429.html) - 23:14 21/04/2026
+- 🦩 [Cách Pakistan chinh phục ông Trump để trở thành &#39;sứ giả hòa bình&#39;](https://vnexpress.net/cach-pakistan-chinh-phuc-ong-trump-de-tro-thanh-su-gia-hoa-binh-5064939.html) - 18:35 21/04/2026
+- 🌏 [Ông Trump kêu gọi Iran thả &#39;8 phụ nữ sắp bị treo cổ&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-tha-8-phu-nu-sap-bi-treo-co-5065405.html) - 17:05 21/04/2026
+- 🌋 [Lực lượng Mỹ đổ bộ lên tàu dầu có liên hệ với Iran](https://vnexpress.net/luc-luong-my-do-bo-len-tau-dau-co-lien-he-voi-iran-5065389.html) - 15:18 21/04/2026
+- 🪜 [Hải quân Iran &#39;giúp tàu dầu vượt qua vòng phong tỏa của Mỹ&#39;](https://vnexpress.net/hai-quan-iran-giup-tau-dau-vuot-qua-vong-phong-toa-cua-my-5065353.html) - 13:36 21/04/2026
+- 🕴 [Tổng thống Hàn Quốc đến Việt Nam](https://vnexpress.net/tong-thong-han-quoc-den-viet-nam-5065340.html) - 12:54 21/04/2026
+- 🧑‍🏫 [Trung Quốc tìm cách đổi thực đơn cho lợn để giảm phụ thuộc đậu nành Mỹ](https://vnexpress.net/trung-quoc-tim-cach-doi-thuc-don-cho-lon-de-giam-phu-thuoc-dau-nanh-my-5059961.html) - 12:31 21/04/2026
+- 🌮 [Những tuyên bố liên tục thay đổi của Mỹ về đàm phán với Iran](https://vnexpress.net/nhung-tuyen-bo-lien-tuc-thay-doi-cua-my-ve-dam-phan-voi-iran-5064936.html) - 12:00 21/04/2026
+- 🚦 [Nổ súng tại Malaysia, một người Việt thiệt mạng](https://vnexpress.net/no-sung-tai-malaysia-mot-nguoi-viet-thiet-mang-5065247.html) - 11:40 21/04/2026
+- 💫 [Mỹ thử nghiệm bom lượn bay xa 370 km](https://vnexpress.net/my-thu-nghiem-bom-luon-bay-xa-370-km-5065096.html) - 09:23 21/04/2026
+- 🤡 [Tương lai bất định của tàu hàng Iran bị Mỹ bắt](https://vnexpress.net/tuong-lai-bat-dinh-cua-tau-hang-iran-bi-my-bat-5065019.html) - 08:27 21/04/2026
+- 🦣 [Nhật gỡ bỏ rào cản xuất khẩu vũ khí sát thương](https://vnexpress.net/nhat-go-bo-rao-can-xuat-khau-vu-khi-sat-thuong-5065014.html) - 08:19 21/04/2026
+- 🎬 [Tàu Iran có thể đang chở &#39;hàng lưỡng dụng&#39; khi bị Mỹ bắt](https://vnexpress.net/tau-iran-co-the-dang-cho-hang-luong-dung-khi-bi-my-bat-5065085.html) - 07:49 21/04/2026
+- 🎉 [Mỹ huy động tàu sân bay tham gia phong tỏa cảng Iran](https://vnexpress.net/my-huy-dong-tau-san-bay-tham-gia-phong-toa-cang-iran-5065001.html) - 07:17 21/04/2026
+- 🎡 [Toàn bộ hành khách chuyến bay viết thư chúc mừng cậu bé khỏi ung thư](https://vnexpress.net/toan-bo-hanh-khach-chuyen-bay-viet-thu-chuc-mung-cau-be-khoi-ung-thu-5065050.html) - 07:14 21/04/2026
+- 🌜 [Đạn pháo kích nổ trong xe tăng tối tân của Nhật, 3 người chết](https://vnexpress.net/dan-phao-kich-no-trong-xe-tang-toi-tan-cua-nhat-3-nguoi-chet-5065102.html) - 05:31 21/04/2026
+- 🎡 [Đức triệu đại sứ Nga vì &#39;mối đe dọa trực tiếp&#39;](https://vnexpress.net/duc-trieu-dai-su-nga-vi-moi-de-doa-truc-tiep-5064912.html) - 04:36 21/04/2026
+- 🤗 [Mỹ hoãn kế hoạch loại biên cường kích &#39;sát thủ diệt tăng&#39;](https://vnexpress.net/my-hoan-ke-hoach-loai-bien-cuong-kich-sat-thu-diet-tang-5064932.html) - 04:16 21/04/2026
+- 🦩 [Cuba xác nhận đã đàm phán với Mỹ tại thủ đô Havana](https://vnexpress.net/cuba-xac-nhan-da-dam-phan-voi-my-tai-thu-do-havana-5064962.html) - 03:50 21/04/2026
+- 🎓 [Thủ tướng đắc cử Hungary sẵn sàng thực thi lệnh bắt của ICC với ông Netanyahu](https://vnexpress.net/thu-tuong-dac-cu-hungary-san-sang-thuc-thi-lenh-bat-cua-icc-voi-ong-netanyahu-5064930.html) - 03:02 21/04/2026
+- 🌁 [Iran sẵn sàng &#39;tung quân bài mới trên chiến trường&#39;](https://vnexpress.net/iran-san-sang-tung-quan-bai-moi-tren-chien-truong-5064904.html) - 00:11 21/04/2026
+- 🤩 [Bộ trưởng Lao động Mỹ từ chức](https://vnexpress.net/bo-truong-lao-dong-my-tu-chuc-5064901.html) - 23:48 20/04/2026
+- 👹 [Mỹ có thể rà phá thủy lôi ở eo biển Hormuz thế nào](https://vnexpress.net/my-co-the-ra-pha-thuy-loi-o-eo-bien-hormuz-the-nao-5064662.html) - 22:00 20/04/2026
+- ⛽️ [Ông Trump tuyên bố sắp &#39;ký thỏa thuận với Iran&#39;](https://vnexpress.net/ong-trump-tuyen-bo-sap-ky-thoa-thuan-voi-iran-5064877.html) - 16:34 20/04/2026
+- 🚀 [Iran mở lại các sân bay ở Tehran](https://vnexpress.net/iran-mo-lai-cac-san-bay-o-tehran-5064853.html) - 14:34 20/04/2026
+- 🎡 [Nhật Bản cảnh báo nguy cơ xảy ra động đất &#39;cực mạnh&#39;](https://vnexpress.net/nhat-ban-canh-bao-nguy-co-xay-ra-dong-dat-cuc-manh-5064828.html) - 12:28 20/04/2026
+- 🕯 [Ahmad Vahidi - &#39;Cánh tay sắt&#39; quyền lực hàng đầu Iran](https://vnexpress.net/ahmad-vahidi-canh-tay-sat-quyen-luc-hang-dau-iran-5059808.html) - 12:02 20/04/2026
+- 🐻 [Ukraine đăng video tập kích tàu đổ bộ Nga tại Crimea](https://vnexpress.net/ukraine-dang-video-tap-kich-tau-do-bo-nga-tai-crimea-5064717.html) - 11:23 20/04/2026
 - 🚦 [Thái Lan có nguy cơ &#39;chạm ngưỡng nhiệt như Sahara&#39; vào năm 2070](https://vnexpress.net/thai-lan-co-nguy-co-cham-nguong-nhiet-nhu-sahara-vao-nam-2070-5064706.html) - 10:46 20/04/2026
-- 💫 [Iran chỉ trích Mỹ &#39;không nghiêm túc&#39; trong nỗ lực ngoại giao](https://vnexpress.net/iran-chi-trich-my-khong-nghiem-tuc-trong-no-luc-ngoai-giao-5064697.html) - 10:14 20/04/2026
-- 🤡 [Quốc vương Campuchia phẫu thuật ung thư tại Trung Quốc](https://vnexpress.net/quoc-vuong-campuchia-phau-thuat-ung-thu-tai-trung-quoc-5064721.html) - 09:32 20/04/2026
-- 🦣 [Iran tử hình hai người bị cáo buộc làm gián điệp cho Mossad](https://vnexpress.net/iran-tu-hinh-hai-nguoi-bi-cao-buoc-lam-gian-diep-cho-mossad-5064742.html) - 09:07 20/04/2026
-- 🎬 [Giây phút lính Mỹ đổ bộ, bắt giữ tàu hàng Iran](https://vnexpress.net/giay-phut-linh-my-do-bo-bat-giu-tau-hang-iran-5064667.html) - 08:55 20/04/2026
-- 🎉 [Động đất 7,5 độ gây cảnh báo sóng thần tại Nhật Bản](https://vnexpress.net/dong-dat-7-5-do-gay-canh-bao-song-than-tai-nhat-ban-5064703.html) - 08:20 20/04/2026
-- 🎡 [Chạm mặt gấu khi huấn luyện, hai lính Mỹ bị thương nặng](https://vnexpress.net/cham-mat-gau-khi-huan-luyen-hai-linh-my-bi-thuong-nang-5064594.html) - 08:07 20/04/2026
-- 🌜 [Pháp triệu tập Elon Musk](https://vnexpress.net/phap-trieu-tap-elon-musk-5064547.html) - 08:05 20/04/2026
-- 🎡 [Iran tuyên bố phóng UAV tập kích tàu chiến Mỹ](https://vnexpress.net/iran-tuyen-bo-phong-uav-tap-kich-tau-chien-my-5064562.html) - 07:17 20/04/2026
-- 🤗 [Cú xoay chuyển của phe cứng rắn Iran tại eo biển Hormuz](https://vnexpress.net/cu-xoay-chuyen-cua-phe-cung-ran-iran-tai-eo-bien-hormuz-5064431.html) - 05:06 20/04/2026
-- 🦩 [Thủ tướng Canada: Quan hệ gần gũi với Mỹ đã trở thành điểm yếu](https://vnexpress.net/thu-tuong-canada-quan-he-gan-gui-voi-my-da-tro-thanh-diem-yeu-5064458.html) - 04:23 20/04/2026
-- 🎓 [Israel cảnh báo &#39;dốc toàn lực&#39; tại Lebanon](https://vnexpress.net/israel-canh-bao-doc-toan-luc-tai-lebanon-5064441.html) - 03:30 20/04/2026
-- 🌁 [Israel điều tra vụ binh sĩ đập phá tượng Chúa ở Lebanon](https://vnexpress.net/israel-dieu-tra-vu-binh-si-dap-pha-tuong-chua-o-lebanon-5064423.html) - 03:12 20/04/2026
-- 🤩 [Ông Kim cùng con gái giám sát phóng tên lửa mang đầu đạn chùm](https://vnexpress.net/ong-kim-cung-con-gai-giam-sat-phong-ten-lua-mang-dau-dan-chum-5064437.html) - 02:20 20/04/2026
-- 👹 [Hai sĩ quan Ukraine bỏ chạy khỏi hiện trường xả súng](https://vnexpress.net/hai-si-quan-ukraine-bo-chay-khoi-hien-truong-xa-sung-5064429.html) - 01:49 20/04/2026
-- ⛽️ [Iran &#39;không có kế hoạch tiếp tục đàm phán với Mỹ&#39;](https://vnexpress.net/iran-khong-co-ke-hoach-tiep-tuc-dam-phan-voi-my-5064420.html) - 00:23 20/04/2026
-- 🚀 [Xả súng tại Mỹ, 8 trẻ em thiệt mạng](https://vnexpress.net/xa-sung-tai-my-8-tre-em-thiet-mang-5064406.html) - 23:58 19/04/2026
-- 🎡 [Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran](https://vnexpress.net/chien-ham-my-na-phao-bat-tau-hang-iran-5064408.html) - 23:14 19/04/2026
-- 🕯 [Nỗi bất an của đảng Cộng hòa về chiến sự Iran](https://vnexpress.net/noi-bat-an-cua-dang-cong-hoa-ve-chien-su-iran-5063948.html) - 22:00 19/04/2026
-- 🐻 [Tình trạng đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng](https://vnexpress.net/tinh-trang-duc-trom-binh-xang-o-my-khi-gia-nhien-lieu-tang-5064260.html) - 19:00 19/04/2026
-- 🚦 [Ông Trump tiếp tục dọa &#39;phá hủy mọi cây cầu, nhà máy điện&#39; ở Iran](https://vnexpress.net/ong-trump-tiep-tuc-doa-pha-huy-moi-cay-cau-nha-may-dien-o-iran-5064376.html) - 14:45 19/04/2026
-- 👍 [Cháy làng ven biển ở Malaysia, hơn 1.000 ngôi nhà bị thiêu rụi](https://vnexpress.net/chay-lang-ven-bien-o-malaysia-hon-1-000-ngoi-nha-bi-thieu-rui-5064366.html) - 13:13 19/04/2026
-- 🚀 [Iran bổ sung bệ phóng tên lửa &#39;nhanh hơn trước chiến sự&#39;](https://vnexpress.net/iran-bo-sung-be-phong-ten-lua-nhanh-hon-truoc-chien-su-5064349.html) - 12:12 19/04/2026
-- 🌮 [Ngày hỗn loạn ở eo biển Hormuz](https://vnexpress.net/ngay-hon-loan-o-eo-bien-hormuz-5064312.html) - 12:00 19/04/2026
-- 😎 [Lãnh tụ Iran cảnh báo Mỹ, Israel về &#39;thất bại cay đắng&#39;](https://vnexpress.net/lanh-tu-iran-canh-bao-my-israel-ve-that-bai-cay-dang-5064305.html) - 08:10 19/04/2026
-- 🐲 [Áo phao hành khách Titanic được đấu giá hơn 900.000 USD](https://vnexpress.net/ao-phao-hanh-khach-titanic-duoc-dau-gia-hon-900-000-usd-5064252.html) - 04:03 19/04/2026
-- 💫 [Cố sinh con ở Mỹ dù đã bị trục xuất](https://vnexpress.net/co-sinh-con-o-my-du-da-bi-truc-xuat-5064041.html) - 03:47 19/04/2026
-- 👀 [Xả súng, bắt con tin ở Ukraine, 6 người chết](https://vnexpress.net/xa-sung-bat-con-tin-o-ukraine-6-nguoi-chet-5064219.html) - 02:07 19/04/2026<!-- vnexpress-the-gioi:END -->
+- 👍 [Iran chỉ trích Mỹ &#39;không nghiêm túc&#39; trong nỗ lực ngoại giao](https://vnexpress.net/iran-chi-trich-my-khong-nghiem-tuc-trong-no-luc-ngoai-giao-5064697.html) - 10:14 20/04/2026
+- 🚀 [Quốc vương Campuchia phẫu thuật ung thư tại Trung Quốc](https://vnexpress.net/quoc-vuong-campuchia-phau-thuat-ung-thu-tai-trung-quoc-5064721.html) - 09:32 20/04/2026
+- 🌮 [Iran tử hình hai người bị cáo buộc làm gián điệp cho Mossad](https://vnexpress.net/iran-tu-hinh-hai-nguoi-bi-cao-buoc-lam-gian-diep-cho-mossad-5064742.html) - 09:07 20/04/2026
+- 😎 [Giây phút lính Mỹ đổ bộ, bắt giữ tàu hàng Iran](https://vnexpress.net/giay-phut-linh-my-do-bo-bat-giu-tau-hang-iran-5064667.html) - 08:55 20/04/2026
+- 🐲 [Động đất 7,5 độ gây cảnh báo sóng thần tại Nhật Bản](https://vnexpress.net/dong-dat-7-5-do-gay-canh-bao-song-than-tai-nhat-ban-5064703.html) - 08:20 20/04/2026
+- 💫 [Chạm mặt gấu khi huấn luyện, hai lính Mỹ bị thương nặng](https://vnexpress.net/cham-mat-gau-khi-huan-luyen-hai-linh-my-bi-thuong-nang-5064594.html) - 08:07 20/04/2026
+- 👀 [Pháp triệu tập Elon Musk](https://vnexpress.net/phap-trieu-tap-elon-musk-5064547.html) - 08:05 20/04/2026<!-- vnexpress-the-gioi:END -->
