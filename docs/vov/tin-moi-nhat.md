@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Tổng thống Mỹ Trump dọa ném bom Iran nếu 2 bên không đạt được thỏa thuận](https://vov.vn/the-gioi/tong-thong-my-trump-doa-nem-bom-iran-neu-2-ben-khong-dat-duoc-thoa-thuan-post1285759.vov) - 13:55 21/04/2026
-- 🦍 [&amp;quot;Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm là mốc son trong quan hệ Việt - Trung&amp;quot;](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-la-moc-son-trong-quan-he-viet-trung-post1285734.vov) - 12:07 21/04/2026
-- 🦏 [Đấu thầu “giá thấp” giảm hiệu quả đầu tư, đại biểu Quốc hội đề nghị sớm sửa luật](https://vov.vn/chinh-tri/dau-thau-gia-thap-giam-hieu-qua-dau-tu-dai-bieu-quoc-hoi-de-nghi-som-sua-luat-post1285708.vov) - 11:02 21/04/2026
-- 😎 [Tổng Bí thư, Chủ tịch nước: Hà Tĩnh phấn đấu thành đầu mối giao thương khu vực](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-ha-tinh-phan-dau-thanh-dau-moi-giao-thuong-khu-vuc-post1285714.vov) - 10:00 21/04/2026
-- 💯 [Tổng Bí thư, Chủ tịch nước: Hà Tĩnh phấn đấu thành đầu mối giao thương khu vực](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-ha-tinh-phan-dau-thanh-dau-moi-giao-thuong-khu-vuc-post1285714.vov) - 10:00 21/04/2026
-- 🦩 [Vietcombank mang đến trải nghiệm thanh toán đa quốc gia ngay trên VCB Digibank](https://vov.vn/doanh-nghiep/vietcombank-mang-den-trai-nghiem-thanh-toan-da-quoc-gia-ngay-tren-vcb-digibank-post1285679.vov) - 09:23 21/04/2026
-- 💃 [Giá xăng dầu tiếp tục giảm, dầu diesel giảm 3.190 đồng/lít từ 16h hôm nay &lpar;21/4&rpar;](https://vov.vn/thi-truong/gia-xang-dau-tiep-tuc-giam-dau-diesel-giam-3190-donglit-tu-16h-hom-nay-214-post1285686.vov) - 09:01 21/04/2026
-- 🦣 [ĐBQH: Dự án đầu tư công không phải là “chùm khế ngọt”](https://vov.vn/kinh-te/dbqh-du-an-dau-tu-cong-khong-phai-la-chum-khe-ngot-post1285663.vov) - 08:58 21/04/2026
-- 👹 [VOV ký kết hợp tác với KBS &lpar;Hàn Quốc&rpar;](https://vov.vn/xa-hoi/dau-an-vov/vov-ky-ket-hop-tac-voi-kbs-han-quoc-post1285672.vov) - 08:43 21/04/2026
-- 🫶 [Quốc hội làm việc thêm 0,5 ngày để xem xét, thông qua các luật thuế](https://vov.vn/chinh-tri/quoc-hoi-lam-viec-them-05-ngay-de-xem-xet-thong-qua-cac-luat-thue-post1285657.vov) - 08:19 21/04/2026
-- 😺 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự kỷ niệm 120 năm Ngày sinh Tổng Bí thư Hà Huy Tập](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-ky-niem-120-nam-ngay-sinh-tong-bi-thu-ha-huy-tap-post1285600.vov) - 04:41 21/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Ông Trump đặt “hạn chót” buộc Iran đưa đề xuất, gây sức ép trước giờ G](https://vov.vn/the-gioi/ong-trump-dat-han-chot-buoc-iran-dua-de-xuat-gay-suc-ep-truoc-gio-g-post1286050.vov) - 16:18 22/04/2026
+- 🦍 [Bắc Bộ và Bắc Trung Bộ đón không khí lạnh, có mưa dông diện rộng](https://vov.vn/xa-hoi/bac-bo-va-bac-trung-bo-don-khong-khi-lanh-co-mua-dong-dien-rong-post1286049.vov) - 15:02 22/04/2026
+- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
+- 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
+- 💯 [Công bố Quyết định kiểm tra, giám sát với Ban Thường vụ Đảng ủy Công an Trung ương](https://vov.vn/chinh-tri/cong-bo-quyet-dinh-kiem-tra-giam-sat-voi-ban-thuong-vu-dang-uy-cong-an-trung-uong-post1286041.vov) - 13:55 22/04/2026
+- 🦩 [Sửa Luật Thủ đô: Đại biểu kiến nghị &amp;quot;đưa văn hóa lên trước kinh tế&amp;quot;](https://vov.vn/chinh-tri/sua-luat-thu-do-dai-bieu-kien-nghi-dua-van-hoa-len-truoc-kinh-te-post1286035.vov) - 13:53 22/04/2026
+- 💃 [Việt Nam - Hàn Quốc hướng tới mục tiêu 150 tỷ USD thương mại song phương](https://vov.vn/chinh-tri/viet-nam-han-quoc-huong-toi-muc-tieu-150-ty-usd-thuong-mai-song-phuong-post1286040.vov) - 13:41 22/04/2026
+- 🦣 [TP.HCM khẩn trương lập đề án chuyển xã lên phường gồm 9 bước cụ thể](https://vov.vn/xa-hoi/tphcm-khan-truong-lap-de-an-chuyen-xa-len-phuong-gom-9-buoc-cu-the-post1286016.vov) - 11:32 22/04/2026
+- 👹 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-han-quoc-lee-jae-myung-post1285979.vov) - 10:30 22/04/2026
+- 🫶 [Nâng ngưỡng doanh thu chịu thuế: Hộ kinh doanh vẫn lo “doanh thu lớn, lãi mỏng”](https://vov.vn/kinh-te/nang-nguong-doanh-thu-chiu-thue-ho-kinh-doanh-van-lo-doanh-thu-lon-lai-mong-post1285931.vov) - 08:34 22/04/2026
+- 😺 [Thủ tướng: Ngành công thương chịu trách nhiệm không để thiếu điện, xăng dầu](https://vov.vn/chinh-tri/thu-tuong-nganh-cong-thuong-chiu-trach-nhiem-khong-de-thieu-dien-xang-dau-post1285913.vov) - 07:19 22/04/2026<!-- vov-tin-moi-nhat:END -->
