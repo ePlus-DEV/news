@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Công bố quyết định thành viên Ban Thư ký khoa học Hội đồng Lý luận Trung ương](https://vov.vn/chinh-tri/cong-bo-quyet-dinh-thanh-vien-ban-thu-ky-khoa-hoc-hoi-dong-ly-luan-trung-uong-post1285975.vov) - 10:40 22/04/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-han-quoc-lee-jae-myung-post1285979.vov) - 10:30 22/04/2026
-- 🫶 [Tránh cào bằng mức bồi dưỡng để thu hút nhân tài làm luật sư công](https://vov.vn/chinh-tri/tranh-cao-bang-muc-boi-duong-de-thu-hut-nhan-tai-lam-luat-su-cong-post1285978.vov) - 10:28 22/04/2026
-- 👨‍🏫 [Toàn cảnh lễ đón chính thức Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/toan-canh-le-don-chinh-thuc-tong-thong-han-quoc-lee-jae-myung-post1285977.vov) - 10:20 22/04/2026
-- 🪜 [Bí thư Tỉnh ủy Cao Bằng: Không để &amp;quot;biết vướng nhưng không ai tháo gỡ&amp;quot;](https://vov.vn/chinh-tri/bi-thu-tinh-uy-cao-bang-khong-de-biet-vuong-nhung-khong-ai-thao-go-post1285938.vov) - 08:36 22/04/2026
-- 🌋 [Đề xuất tuyển đặc cách vận động viên, nghệ sĩ tài năng đặc biệt vào khu vực công](https://vov.vn/chinh-tri/de-xuat-tuyen-dac-cach-van-dong-vien-nghe-si-tai-nang-dac-biet-vao-khu-vuc-cong-post1285886.vov) - 07:43 22/04/2026
-- 🎉 [Miễn 100% thuế để cổ vật Việt hồi hương](https://vov.vn/chinh-tri/quoc-hoi/mien-100-thue-de-co-vat-viet-hoi-huong-post1285883.vov) - 07:38 22/04/2026
-- 🌝 [Thủ tướng: Ngành công thương chịu trách nhiệm không để thiếu điện, xăng dầu](https://vov.vn/chinh-tri/thu-tuong-nganh-cong-thuong-chiu-trach-nhiem-khong-de-thieu-dien-xang-dau-post1285913.vov) - 07:19 22/04/2026
-- 🏊 [Đại biểu Quốc hội ủng hộ việc thành lập thành phố Đồng Nai](https://vov.vn/chinh-tri/dai-bieu-quoc-hoi-ung-ho-viec-thanh-lap-thanh-pho-dong-nai-post1285896.vov) - 06:14 22/04/2026
-- 🧑‍💻 [Quán triệt các văn kiện, nghị quyết về kiểm tra, giám sát, kỷ luật của Đảng](https://vov.vn/chinh-tri/quan-triet-cac-van-kien-nghi-quyet-ve-kiem-tra-giam-sat-ky-luat-cua-dang-post1285901.vov) - 05:48 22/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Báo chí Hàn Quốc đổ dồn sự chú ý chuyến thăm Việt Nam của Tổng thống Lee Jae Myung](https://vov.vn/chinh-tri/bao-chi-han-quoc-do-don-su-chu-y-chuyen-tham-viet-nam-cua-tong-thong-lee-jae-myung-post1286259.vov) - 08:58 23/04/2026
+- 💃 [Hỗ trợ tối đa không quá 300% lương cho cán bộ xử lý tranh chấp đầu tư quốc tế](https://vov.vn/chinh-tri/ho-tro-toi-da-khong-qua-300-luong-cho-can-bo-xu-ly-tranh-chap-dau-tu-quoc-te-post1286249.vov) - 08:50 23/04/2026
+- 🫶 [Ông Trần Cẩm Tú: Khẩn trương hoàn thiện sắp xếp tổ dân phố, thôn, xóm](https://vov.vn/chinh-tri/ong-tran-cam-tu-khan-truong-hoan-thien-sap-xep-to-dan-pho-thon-xom-post1286250.vov) - 08:43 23/04/2026
+- 👨‍🏫 [Việt Nam - Lào tăng cường hợp tác trong công tác dân tộc và tôn giáo](https://vov.vn/chinh-tri/viet-nam-lao-tang-cuong-hop-tac-trong-cong-tac-dan-toc-va-ton-giao-post1286247.vov) - 08:33 23/04/2026
+- 🪜 [Thông qua Luật Thủ đô, Quốc hội trao 199 thẩm quyền đặc thù, vượt trội cho Hà Nội](https://vov.vn/chinh-tri/thong-qua-luat-thu-do-quoc-hoi-trao-199-tham-quyen-dac-thu-vuot-troi-cho-ha-noi-post1286233.vov) - 08:20 23/04/2026
+- 🌋 [Quốc hội chính thức thông qua Luật Hộ tịch &lpar;sửa đổi&rpar;, có hiệu lực từ 1/3/2027](https://vov.vn/chinh-tri/quoc-hoi-chinh-thuc-thong-qua-luat-ho-tich-sua-doi-co-hieu-luc-tu-132027-post1286227.vov) - 08:06 23/04/2026
+- 🎉 [Sẽ có lộ trình bỏ giới hạn địa giới hành chính trong công chứng bất động sản](https://vov.vn/chinh-tri/se-co-lo-trinh-bo-gioi-han-dia-gioi-hanh-chinh-trong-cong-chung-bat-dong-san-post1286221.vov) - 07:51 23/04/2026
+- 🌝 [Quốc hội quyết định mở rộng phạm vi thông tin phải công khai](https://vov.vn/chinh-tri/quoc-hoi-quyet-dinh-mo-rong-pham-vi-thong-tin-phai-cong-khai-post1286216.vov) - 07:41 23/04/2026
+- 🏊 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-tong-thong-han-quoc-lee-jae-myung-post1286218.vov) - 07:22 23/04/2026
+- 🧑‍💻 [Đề xuất ngưỡng miễn thuế lên 1 tỷ đồng, thu ngân sách giảm 7.000 tỷ đồng](https://vov.vn/chinh-tri/de-xuat-nguong-mien-thue-len-1-ty-dong-thu-ngan-sach-giam-7000-ty-dong-post1286153.vov) - 04:50 23/04/2026<!-- vov-chinh-tri:END -->
