@@ -531,7 +531,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Taylor Swift và Travis Kelce gây chú ý với tin đồn đám cưới bí mật vào mùa hè năm nay](https://muctim.tuoitre.vn/taylor-swift-va-travis-kelce-gay-chu-y-voi-tin-don-dam-cuoi-bi-mat-vao-mua-he-nam-nay-10126042315465218.htm) - 10:16 23/04/2026
 - 👨‍🏫 [Đa dạng hoạt động vui chơi, giải trí tại Cần Thơ dịp lễ Giỗ Tổ Hùng Vương, 30-4 và 1-5](https://muctim.tuoitre.vn/da-dang-hoat-dong-vui-choi-giai-tri-tai-can-tho-dip-le-gio-to-hung-vuong-30-4-va-1-5-101260423104433125.htm) - 10:15 23/04/2026
 - 🚦 [Trực tiếp bóng chuyền Cúp Hùng Vương: Biên Phòng MB - Hà Nội](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-cup-hung-vuong-bien-phong-mb-ha-noi-10126042315521058.htm) - 10:13 23/04/2026
-- 🤭 [Trực tiếp bóng chuyền Cúp Hùng Vương: Hà Nội Tasco Auto - Binh chủng Thông tin](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-cup-hung-vuong-ha-noi-tasco-auto-binh-chung-thong-tin-101260423151633939.htm) - 10:11 23/04/2026
+- 🤭 [Bán kết Cúp Hùng Vương: Hà Nội Tasco Auto hạ Binh chủng Thông tin 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-cup-hung-vuong-ha-noi-tasco-auto-binh-chung-thong-tin-101260423151633939.htm) - 10:11 23/04/2026
 - 😺 [Cùng teen khám phá cách đọc sách phù hợp trong thời đại số](https://muctim.tuoitre.vn/cung-teen-kham-pha-cach-doc-sach-phu-hop-trong-thoi-dai-so-101260422133852118.htm) - 07:13 23/04/2026
 - 😎 [Từ 20h ngày 23-4 bắt đầu đăng ký vé Carnaval Hạ Long, Quảng Ninh 2026](https://muctim.tuoitre.vn/tu-20h-ngay-23-4-bat-dau-dang-ky-ve-carnaval-ha-long-quang-ninh-2026-101260423115835741.htm) - 07:11 23/04/2026
 - 🐎 [Miu Lê: Tôi không bị hội chứng fomo](https://muctim.tuoitre.vn/miu-le-toi-khong-bi-hoi-chung-fomo-101260421104008462.htm) - 07:00 23/04/2026
