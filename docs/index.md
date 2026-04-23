@@ -713,17 +713,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Giá vàng hôm nay 23/4: Vàng trong nước tăng, lấy lại mốc 170 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-234-vang-trong-nuoc-tang-lay-lai-moc-170-trieu-dongluong-post1286025.vov) - 22:10 22/04/2026
-- 🕯 [Từ 3.000 đồng “câu mồi” đến cú đánh sập đường dây lừa đảo xuyên biên giới](https://vov.vn/phap-luat/tu-3000-dong-cau-moi-den-cu-danh-sap-duong-day-lua-dao-xuyen-bien-gioi-post1285919.vov) - 22:00 22/04/2026
-- 🌊 [Giá dầu hôm nay 23/4: Giá dầu vượt 100 USD/thùng sau diễn biến tại Hormuz](https://vov.vn/thi-truong/gia-dau-hom-nay-234-gia-dau-vuot-100-usdthung-sau-dien-bien-tai-hormuz-post1286015.vov) - 22:00 22/04/2026
-- 🥷 [Nóng 24h ngày 23/4: Điều tra nghi án vợ dùng búa đánh chồng tử vong](https://vov.vn/phap-luat/nong-24h-ngay-234-dieu-tra-nghi-an-vo-dung-bua-danh-chong-tu-vong-post1286026.vov) - 22:00 22/04/2026
-- 🎡 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 23/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-234-post1285958.vov) - 22:00 22/04/2026
-- 🚀 [Ông Trump đặt “hạn chót” buộc Iran đưa đề xuất, gây sức ép trước giờ G](https://vov.vn/the-gioi/ong-trump-dat-han-chot-buoc-iran-dua-de-xuat-gay-suc-ep-truoc-gio-g-post1286050.vov) - 16:18 22/04/2026
-- 🔥 [Bắc Bộ và Bắc Trung Bộ đón không khí lạnh, có mưa dông diện rộng](https://vov.vn/xa-hoi/bac-bo-va-bac-trung-bo-don-khong-khi-lanh-co-mua-dong-dien-rong-post1286049.vov) - 15:02 22/04/2026
-- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
-- 🕴 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
-- 🥰 [Việt Nam - Hàn Quốc hướng tới mục tiêu 150 tỷ USD thương mại song phương](https://vov.vn/chinh-tri/viet-nam-han-quoc-huong-toi-muc-tieu-150-ty-usd-thuong-mai-song-phuong-post1286040.vov) - 13:41 22/04/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-han-quoc-lee-jae-myung-post1285979.vov) - 10:30 22/04/2026<!-- vov:END -->
+- 🌜 [Việt Nam hoan nghênh nỗ lực thúc đẩy đối thoại giữa Israel và Lebanon](https://vov.vn/the-gioi/viet-nam-hoan-nghenh-no-luc-thuc-day-doi-thoai-giua-israel-va-lebanon-post1286299.vov) - 11:08 23/04/2026
+- 🕯 [Hormuz tê liệt, Malacca bị cuốn vào tâm bão năng lượng toàn cầu](https://vov.vn/the-gioi/hormuz-te-liet-malacca-bi-cuon-vao-tam-bao-nang-luong-toan-cau-post1286312.vov) - 11:08 23/04/2026
+- 🌊 [Thông qua Luật Thi đua, khen thưởng &lpar;sửa đổi&rpar;: Tránh “phổ thông hóa” khen thưởng](https://vov.vn/chinh-tri/thong-qua-luat-thi-dua-khen-thuong-sua-doi-tranh-pho-thong-hoa-khen-thuong-post1286273.vov) - 11:07 23/04/2026
+- 🥷 [ĐBQH đề xuất giáo viên dạy thêm chính học sinh của mình nếu có ngân hàng đề thi](https://vov.vn/chinh-tri/dbqh-de-xuat-giao-vien-day-them-chinh-hoc-sinh-cua-minh-neu-co-ngan-hang-de-thi-post1286328.vov) - 11:03 23/04/2026
+- 🎡 [Thủ tướng Lê Minh Hưng hội kiến Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-hoi-kien-tong-thong-han-quoc-lee-jae-myung-post1286338.vov) - 10:54 23/04/2026
+- 🚀 [Ông Trần Cẩm Tú: Khẩn trương hoàn thiện sắp xếp tổ dân phố, thôn, xóm](https://vov.vn/chinh-tri/ong-tran-cam-tu-khan-truong-hoan-thien-sap-xep-to-dan-pho-thon-xom-post1286250.vov) - 08:43 23/04/2026
+- 🔥 [Thông qua Luật Thủ đô, Quốc hội trao 199 thẩm quyền đặc thù, vượt trội cho Hà Nội](https://vov.vn/chinh-tri/thong-qua-luat-thu-do-quoc-hoi-trao-199-tham-quyen-dac-thu-vuot-troi-cho-ha-noi-post1286233.vov) - 08:20 23/04/2026
+- 🌋 [Thông qua Luật Thủ đô, Quốc hội trao 199 thẩm quyền đặc thù, vượt trội cho Hà Nội](https://vov.vn/chinh-tri/thong-qua-luat-thu-do-quoc-hoi-trao-199-tham-quyen-dac-thu-vuot-troi-cho-ha-noi-post1286233.vov) - 08:20 23/04/2026
+- 🕴 [Quốc hội chính thức thông qua Luật Hộ tịch &lpar;sửa đổi&rpar;, có hiệu lực từ 1/3/2027](https://vov.vn/chinh-tri/quoc-hoi-chinh-thuc-thong-qua-luat-ho-tich-sua-doi-co-hieu-luc-tu-132027-post1286227.vov) - 08:06 23/04/2026
+- 🥰 [Giá xăng dầu tiếp tục giảm, RON95-III còn 22.880 đồng/lít từ 15h00 chiều nay 23/4](https://vov.vn/thi-truong/gia-xang-dau-tiep-tuc-giam-ron95-iii-con-22880-donglit-tu-15h00-chieu-nay-234-post1286234.vov) - 07:52 23/04/2026
+- 🧐 [Chi tiết các giai đoạn thực hiện Vùng phát thải thấp tại Thủ đô Hà Nội](https://vov.vn/xa-hoi/chi-tiet-cac-giai-doan-thuc-hien-vung-phat-thai-thap-tai-thu-do-ha-noi-post1286217.vov) - 07:19 23/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
