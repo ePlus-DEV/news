@@ -713,17 +713,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Việt Nam hoan nghênh nỗ lực thúc đẩy đối thoại giữa Israel và Lebanon](https://vov.vn/the-gioi/viet-nam-hoan-nghenh-no-luc-thuc-day-doi-thoai-giua-israel-va-lebanon-post1286299.vov) - 11:08 23/04/2026
-- 🕯 [Hormuz tê liệt, Malacca bị cuốn vào tâm bão năng lượng toàn cầu](https://vov.vn/the-gioi/hormuz-te-liet-malacca-bi-cuon-vao-tam-bao-nang-luong-toan-cau-post1286312.vov) - 11:08 23/04/2026
-- 🌊 [Thông qua Luật Thi đua, khen thưởng &lpar;sửa đổi&rpar;: Tránh “phổ thông hóa” khen thưởng](https://vov.vn/chinh-tri/thong-qua-luat-thi-dua-khen-thuong-sua-doi-tranh-pho-thong-hoa-khen-thuong-post1286273.vov) - 11:07 23/04/2026
-- 🥷 [ĐBQH đề xuất giáo viên dạy thêm chính học sinh của mình nếu có ngân hàng đề thi](https://vov.vn/chinh-tri/dbqh-de-xuat-giao-vien-day-them-chinh-hoc-sinh-cua-minh-neu-co-ngan-hang-de-thi-post1286328.vov) - 11:03 23/04/2026
-- 🎡 [Thủ tướng Lê Minh Hưng hội kiến Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-hoi-kien-tong-thong-han-quoc-lee-jae-myung-post1286338.vov) - 10:54 23/04/2026
-- 🚀 [Ông Trần Cẩm Tú: Khẩn trương hoàn thiện sắp xếp tổ dân phố, thôn, xóm](https://vov.vn/chinh-tri/ong-tran-cam-tu-khan-truong-hoan-thien-sap-xep-to-dan-pho-thon-xom-post1286250.vov) - 08:43 23/04/2026
-- 🔥 [Thông qua Luật Thủ đô, Quốc hội trao 199 thẩm quyền đặc thù, vượt trội cho Hà Nội](https://vov.vn/chinh-tri/thong-qua-luat-thu-do-quoc-hoi-trao-199-tham-quyen-dac-thu-vuot-troi-cho-ha-noi-post1286233.vov) - 08:20 23/04/2026
-- 🌋 [Thông qua Luật Thủ đô, Quốc hội trao 199 thẩm quyền đặc thù, vượt trội cho Hà Nội](https://vov.vn/chinh-tri/thong-qua-luat-thu-do-quoc-hoi-trao-199-tham-quyen-dac-thu-vuot-troi-cho-ha-noi-post1286233.vov) - 08:20 23/04/2026
-- 🕴 [Quốc hội chính thức thông qua Luật Hộ tịch &lpar;sửa đổi&rpar;, có hiệu lực từ 1/3/2027](https://vov.vn/chinh-tri/quoc-hoi-chinh-thuc-thong-qua-luat-ho-tich-sua-doi-co-hieu-luc-tu-132027-post1286227.vov) - 08:06 23/04/2026
-- 🥰 [Giá xăng dầu tiếp tục giảm, RON95-III còn 22.880 đồng/lít từ 15h00 chiều nay 23/4](https://vov.vn/thi-truong/gia-xang-dau-tiep-tuc-giam-ron95-iii-con-22880-donglit-tu-15h00-chieu-nay-234-post1286234.vov) - 07:52 23/04/2026
-- 🧐 [Chi tiết các giai đoạn thực hiện Vùng phát thải thấp tại Thủ đô Hà Nội](https://vov.vn/xa-hoi/chi-tiet-cac-giai-doan-thuc-hien-vung-phat-thai-thap-tai-thu-do-ha-noi-post1286217.vov) - 07:19 23/04/2026<!-- vov:END -->
+- 🌜 [Hôm nay, Quốc hội họp thông qua các chính sách mới về thuế, bế mạc kỳ họp thứ Nhất](https://vov.vn/chinh-tri/hom-nay-quoc-hoi-hop-thong-qua-cac-chinh-sach-moi-ve-thue-be-mac-ky-hop-thu-nhat-post1286400.vov) - 22:32 23/04/2026
+- 🕯 [Hôm nay, Quốc hội họp thông qua các chính sách mới về thuế, bế mạc kỳ họp thứ Nhất](https://vov.vn/chinh-tri/hom-nay-quoc-hoi-hop-thong-qua-cac-chinh-sach-moi-ve-thue-be-mac-ky-hop-thu-nhat-post1286400.vov) - 22:32 23/04/2026
+- 🌊 [Không chỉ chủ trương, cần “6 rõ” để KH-CN tạo đột phá](https://vov.vn/chinh-tri/khong-chi-chu-truong-can-6-ro-de-kh-cn-tao-dot-pha-post1286271.vov) - 22:30 23/04/2026
+- 🥷 [Nóng thế giới ngày 24/4: Mỹ nói các biện pháp phong tỏa bóp nghẹt nền kinh tế Iran](https://vov.vn/the-gioi/nong-the-gioi-ngay-244-my-noi-cac-bien-phap-phong-toa-bop-nghet-nen-kinh-te-iran-post1286188.vov) - 22:30 23/04/2026
+- 🎡 [Chính phủ mới vận hành chính quyền 2 cấp: Tinh gọn để phục vụ tốt hơn](https://vov.vn/chinh-tri/chinh-phu-moi-van-hanh-chinh-quyen-2-cap-tinh-gon-de-phuc-vu-tot-hon-post1286252.vov) - 22:20 23/04/2026
+- 🚀 [Chính phủ mới vận hành chính quyền 2 cấp: Tinh gọn để phục vụ tốt hơn](https://vov.vn/chinh-tri/chinh-phu-moi-van-hanh-chinh-quyen-2-cap-tinh-gon-de-phuc-vu-tot-hon-post1286252.vov) - 22:20 23/04/2026
+- 🔥 [Giá xăng dầu hôm nay 24/4: Giá dầu thế giới tiếp tục tăng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-244-gia-dau-the-gioi-tiep-tuc-tang-post1286318.vov) - 22:00 23/04/2026
+- 🌋 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 24/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-244-post1286191.vov) - 22:00 23/04/2026
+- 🕴 [Thủ tướng Lê Minh Hưng và Tổng thống Hàn Quốc dự Diễn đàn Kinh tế Việt-Hàn](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-va-tong-thong-han-quoc-du-dien-dan-kinh-te-viet-han-post1286377.vov) - 13:06 23/04/2026
+- 🥰 [Chủ tịch Hà Nội: Luật Thủ đô &lpar;sửa đổi&rpar; có cơ chế bảo vệ cán bộ &amp;quot;dám nghĩ, dám làm&amp;quot;](https://vov.vn/xa-hoi/chu-tich-ha-noi-luat-thu-do-sua-doi-co-co-che-bao-ve-can-bo-dam-nghi-dam-lam-post1286355.vov) - 11:47 23/04/2026
+- 🧐 [Thông qua Luật Thi đua, khen thưởng &lpar;sửa đổi&rpar;: Tránh “phổ thông hóa” khen thưởng](https://vov.vn/chinh-tri/thong-qua-luat-thi-dua-khen-thuong-sua-doi-tranh-pho-thong-hoa-khen-thuong-post1286273.vov) - 11:07 23/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
