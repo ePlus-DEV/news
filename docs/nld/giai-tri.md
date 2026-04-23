@@ -4,53 +4,53 @@ sidebar_position: 12
 ---
 
 <!-- nld-giai-tri:START -->
-- 🦣 [Thái Hòa &quot;đỉnh thôi rồi&quot; trong Anh Hùng](https://nld.com.vn/thai-hoa-dinh-thoi-roi-trong-anh-hung-196260423074509303.htm) - 01:28 23/04/2026
-- 🥷 [Tổng thống Hàn Quốc chúc mừng Han Sara](https://nld.com.vn/tong-thong-han-quoc-chuc-mung-han-sara-196260423071457489.htm) - 01:23 23/04/2026
-- ⚗️ [3 phim Việt &quot;hot&quot; nhất mạng xã hội: Càng bị chê càng hút khán giả](https://nld.com.vn/3-phim-viet-hot-nhat-mang-xa-hoi-cang-bi-che-cang-hut-khan-gia-196260423012229222.htm) - 23:08 22/04/2026
-- 🕴 [Võ Tấn Phát mừng &quot;thời đến&quot;, Trần Ngọc Vàng không có hình tượng để… mất!](https://nld.com.vn/vo-tan-phat-mung-thoi-den-tran-ngoc-vang-khong-co-hinh-tuong-de-mat-196260422203505292.htm) - 14:04 22/04/2026
-- 💡 [Ca sĩ Trung Quân Idol bị tố hành hung phụ nữ: Cúi đầu xin lỗi, ồn ào có lắng xuống?](https://nld.com.vn/ca-si-trung-quan-idol-bi-to-hanh-hung-phu-nu-cui-dau-xin-loi-on-ao-co-lang-xuong-196260422165727628.htm) - 10:25 22/04/2026
-- 🐲 [Vì sao ca sĩ Trung Quân Idol đăng lời xin lỗi rồi lại xóa sau 10 phút?](https://nld.com.vn/vi-sao-ca-si-trung-quan-idol-dang-loi-xin-loi-roi-lai-xoa-sau-10-phut-196260422152738955.htm) - 08:39 22/04/2026
-- 🚀 [Phan Bá Huy: Mang &quot;giọt nhớ không màu&quot; trở về từ những năm tháng xa xứ](https://nld.com.vn/phan-ba-huy-mang-giot-nho-khong-mau-tro-ve-tu-nhung-nam-thang-xa-xu-196260422080146485.htm) - 01:48 22/04/2026
-- 🌋 [&quot;Thầy trò&quot; SOOBIN &amp; UPRIZE cùng đổ bộ đại nhạc hội quy mô 25.000 khán giả](https://nld.com.vn/thay-tro-soobin-uprize-cung-do-bo-dai-nhac-hoi-quy-mo-25000-khan-gia-196260422074931165.htm) - 01:36 22/04/2026
+- 🦣 [Song Hye-kyo khoe nhan sắc xinh đẹp như &quot;nữ thần&quot;](https://nld.com.vn/song-hye-kyo-khoe-nhan-sac-xinh-dep-nhu-nu-than-19626042315282669.htm) - 08:44 23/04/2026
+- 🥷 [Cơ quan chức năng nói gì về MV gây tranh cãi của Jun Phạm?](https://nld.com.vn/co-quan-chuc-nang-noi-gi-ve-mv-gay-tranh-cai-cua-jun-pham-196260423152307978.htm) - 08:27 23/04/2026
+- ⚗️ [Phim có Kiều Minh Tuấn, sao &quot;nhí&quot; Nina chạm mốc 100 tỉ đồng](https://nld.com.vn/phim-co-kieu-minh-tuan-sao-nhi-nina-cham-moc-100-ti-dong-196260423145037648.htm) - 08:07 23/04/2026
+- 🕴 [100 món muối độc đáo cùng áo dài Việt được vinh danh](https://nld.com.vn/100-mon-muoi-doc-dao-cung-ao-dai-viet-duoc-vinh-danh-196260423113233829.htm) - 05:48 23/04/2026
+- 💡 [Thái Hòa &quot;đỉnh thôi rồi&quot; trong Anh Hùng](https://nld.com.vn/thai-hoa-dinh-thoi-roi-trong-anh-hung-196260423074509303.htm) - 01:28 23/04/2026
+- 🐲 [Tổng thống Hàn Quốc chúc mừng Han Sara](https://nld.com.vn/tong-thong-han-quoc-chuc-mung-han-sara-196260423071457489.htm) - 01:23 23/04/2026
+- 🚀 [3 phim Việt &quot;hot&quot; nhất mạng xã hội: Càng bị chê càng hút khán giả](https://nld.com.vn/3-phim-viet-hot-nhat-mang-xa-hoi-cang-bi-che-cang-hut-khan-gia-196260423012229222.htm) - 23:08 22/04/2026
+- 🌋 [Võ Tấn Phát mừng &quot;thời đến&quot;, Trần Ngọc Vàng không có hình tượng để… mất!](https://nld.com.vn/vo-tan-phat-mung-thoi-den-tran-ngoc-vang-khong-co-hinh-tuong-de-mat-196260422203505292.htm) - 14:04 22/04/2026
+- 🧰 [Ca sĩ Trung Quân Idol bị tố hành hung phụ nữ: Cúi đầu xin lỗi, ồn ào có lắng xuống?](https://nld.com.vn/ca-si-trung-quan-idol-bi-to-hanh-hung-phu-nu-cui-dau-xin-loi-on-ao-co-lang-xuong-196260422165727628.htm) - 10:25 22/04/2026
+- 🦄 [Vì sao ca sĩ Trung Quân Idol đăng lời xin lỗi rồi lại xóa sau 10 phút?](https://nld.com.vn/vi-sao-ca-si-trung-quan-idol-dang-loi-xin-loi-roi-lai-xoa-sau-10-phut-196260422152738955.htm) - 08:39 22/04/2026
+- 🦄 [Phan Bá Huy: Mang &quot;giọt nhớ không màu&quot; trở về từ những năm tháng xa xứ](https://nld.com.vn/phan-ba-huy-mang-giot-nho-khong-mau-tro-ve-tu-nhung-nam-thang-xa-xu-196260422080146485.htm) - 01:48 22/04/2026
+- 🦍 [&quot;Thầy trò&quot; SOOBIN &amp; UPRIZE cùng đổ bộ đại nhạc hội quy mô 25.000 khán giả](https://nld.com.vn/thay-tro-soobin-uprize-cung-do-bo-dai-nhac-hoi-quy-mo-25000-khan-gia-196260422074931165.htm) - 01:36 22/04/2026
 - 🧰 [Đại sứ Giải Pickleball Người Lao Động 2026 - S.T Sơn Thạch: &quot;Dễ chơi, trendy...&quot;](https://nld.com.vn/dai-su-giai-pickleball-nguoi-lao-dong-2026-st-son-thach-de-choi-trendy-196260420105657838.htm) - 01:30 22/04/2026
-- 🦄 [Hành trình &quot;rực rỡ&quot; của Bảo Anh](https://nld.com.vn/hanh-trinh-ruc-ro-cua-bao-anh-196260422073030037.htm) - 01:05 22/04/2026
-- 🦄 [NSƯT Lê Thiện bật mí tai nạn &quot;nhạy cảm&quot; của Thái Hòa](https://nld.com.vn/nsut-le-thien-bat-mi-tai-nan-nhay-cam-cua-thai-hoa-196260421203437402.htm) - 17:18 21/04/2026
-- 🦍 [Ca sĩ Trung Quân Idol xin lỗi sau vụ bị tố &quot;đánh phụ nữ&quot;, tạm dừng hoạt động](https://nld.com.vn/ca-si-trung-quan-idol-xin-loi-sau-vu-bi-to-danh-phu-nu-tam-dung-hoat-dong-196260421174338495.htm) - 10:57 21/04/2026
-- 🧰 [Chất lượng như hội bạn thân của Thảo Nhi Lê](https://nld.com.vn/chat-luong-nhu-hoi-ban-than-cua-thao-nhi-le-196260421144202082.htm) - 08:12 21/04/2026
-- 🌝 [Tín Nguyễn căng thẳng, ám ảnh nỗi lo mất con](https://nld.com.vn/tin-nguyen-cang-thang-am-anh-noi-lo-mat-con-196260421112740506.htm) - 04:50 21/04/2026
-- 🐘 [Thúy Ngân - Đại sứ Giải Pickleball Báo Người Lao Động năm 2026: &quot;Pickleball rất cuốn hút!&quot;](https://nld.com.vn/thuy-ngan-dai-su-giai-pickleball-bao-nguoi-lao-dong-nam-2026-pickleball-rat-cuon-hut-196260420134433997.htm) - 01:51 21/04/2026
-- 💼 [Con gái ưu việt của NSND Trịnh Kim Chi](https://nld.com.vn/con-gai-uu-viet-cua-nsut-trinh-kim-chi-196260421070145802.htm) - 01:23 21/04/2026
-- 🫣 [Phim kinh dị học đường &quot;Nhất quỷ nhì ma&quot; của đạo diễn Đoàn Quang](https://nld.com.vn/phim-kinh-di-hoc-duong-nhat-quy-nhi-ma-cua-dao-dien-doan-quang-196260421071454647.htm) - 01:22 21/04/2026
-- 🤩 [Tranh cãi về Isaac: Visual quá nổi bật đến mức bị quên mất vocal thực lực?](https://nld.com.vn/tranh-cai-ve-isaac-visual-qua-noi-bat-den-muc-bi-quen-mat-vocal-thuc-luc-196260421072526995.htm) - 01:17 21/04/2026
-- 🤠 [Thanh Thúy - Đức Thịnh mời Dược Sĩ Tiến và Xesi hát nhạc phim](https://nld.com.vn/thanh-thuy-duc-thinh-moi-duoc-si-tien-va-xesi-hat-nhac-phim-196260420155708073.htm) - 09:21 20/04/2026
-- ⛽️ [Vũ Thảo My kết hợp cùng &quot;anh trai Philippines&quot; Gelo Rivera](https://nld.com.vn/vu-thao-my-ket-hop-cung-anh-trai-philippines-gelo-rivera-196260420140218288.htm) - 07:27 20/04/2026
-- 📝 [Bộ sưu tập Xuân hè 2026 lấy ý tưởng từ &quot;đá băng mát lạnh&quot;](https://nld.com.vn/bo-suu-tap-xuan-he-2026-lay-y-tuong-tu-da-bang-mat-lanh-196260420131252769.htm) - 06:52 20/04/2026
-- 🐻 [Xuân Lan &quot;lừa&quot; Ngọc Trinh, Rima Thanh Vy, Phương Linh xuống cõi âm](https://nld.com.vn/xuan-lan-lua-ngoc-trinh-rima-thanh-vy-phuong-linh-xuong-coi-am-196260420124447039.htm) - 06:15 20/04/2026
-- 🥷 [Tài tử Lương Gia Huy khóc khi đăng quang &quot;ảnh đế&quot; Kim Tượng lần 5](https://nld.com.vn/tai-tu-luong-gia-huy-khoc-khi-dang-quang-anh-de-kim-tuong-lan-5-196260420113556842.htm) - 06:15 20/04/2026
-- 🤗 [Giải mã hiện tượng &quot;sầu ca&quot; Quang Nhi gây sốt mạng xã hội](https://nld.com.vn/giai-ma-hien-tuong-sau-ca-quang-nhi-gay-sot-mang-xa-hoi-19626042006533351.htm) - 23:57 19/04/2026
-- 🧠 [Chính thức khởi động cuộc thi “Thiên Thần Quảng Cáo Việt Nam 2026”](https://nld.com.vn/chinh-thuc-khoi-dong-cuoc-thi-thien-than-quang-cao-viet-nam-2026-196260419071404542.htm) - 03:12 19/04/2026
-- 🌊 [Cầm - ái nữ nhà Duy Mạnh - gây thương nhớ](https://nld.com.vn/cam-ai-nu-nha-duy-manh-gay-thuong-nho-196260419064215439.htm) - 23:55 18/04/2026
-- 👨‍🏫 [Thư Kỳ: &quot;Không trang điểm, tôi cũng giống phụ nữ 50 tuổi&quot;](https://nld.com.vn/thu-ky-khong-trang-diem-toi-cung-giong-phu-nu-50-tuoi-196260418125220929.htm) - 06:02 18/04/2026
-- 🕴 [Mặt trời cô độc của Đông Nhi](https://nld.com.vn/mat-troi-co-doc-cua-dong-nhi-196260418122445758.htm) - 05:58 18/04/2026
-- 🤩 [Vân Sơn tái xuất vì Charlie Nguyễn, Miu Lê áp lực bật khóc](https://nld.com.vn/van-son-tai-xuat-vi-charlie-nguyen-miu-le-ap-luc-bat-khoc-196260418090338545.htm) - 02:21 18/04/2026
-- 🌁 [Ca sĩ Ngọc Khuê &quot;rủ&quot; nhiều nghệ sĩ danh tiếng vào &quot;Thị phi&quot;](https://nld.com.vn/ca-si-ngoc-khue-ru-nhieu-nghe-si-danh-tieng-vao-thi-phi-196260418082528121.htm) - 01:47 18/04/2026
-- 🎉 [buitruonglinh lập &quot;liên hoàn thành tích&quot;](https://nld.com.vn/buitruonglinh-lap-lien-hoan-thanh-tich-196260418072531406.htm) - 01:02 18/04/2026
-- 👍 [Khi công nghệ bắt tay với nhà sản xuất giải trí](https://nld.com.vn/khi-cong-nghe-bat-tay-voi-nha-san-xuat-giai-tri-196260418070541077.htm) - 01:00 18/04/2026
-- 🤖 [Vợ Dương Ngọc Thái tái xuất sau khi sinh con](https://nld.com.vn/vo-duong-ngoc-thai-tai-xuat-sau-khi-sinh-con-196260418071301722.htm) - 00:22 18/04/2026
-- 💫 [&quot;Dương Khang&quot; Phan Hoành Bân, từng bị đồn yêu đồng giới với Lưu Đức Hoa qua đời](https://nld.com.vn/duong-khang-phan-hoanh-ban-tung-bi-don-yeu-dong-gioi-voi-luu-duc-hoa-qua-doi-196260417153710839.htm) - 10:01 17/04/2026
-- 🚀 [Tình trạng mẹ ca sĩ Kasim Hoàng Vũ hiện tại](https://nld.com.vn/tinh-trang-me-ca-si-kasim-hoang-vu-hien-tai-196260417154140576.htm) - 10:00 17/04/2026
-- 🫣 [&quot;Picker Band&quot; không chọn con đường giải trí mang tính trình diễn](https://nld.com.vn/picker-band-khong-chon-con-duong-giai-tri-mang-tinh-trinh-dien-196260416205022652.htm) - 20:32 16/04/2026
-- 👹 [Tân binh khủng long gọi tên CONGB](https://nld.com.vn/tan-binh-khung-long-goi-ten-congb-196260416145843373.htm) - 08:26 16/04/2026
-- 🥸 [Minh Hằng &quot;đọ dáng&quot; Ngọc Trinh, &quot;Chị chị em em 2&quot; hội ngộ](https://nld.com.vn/minh-hang-do-dang-ngoc-trinh-chi-chi-em-em-2-hoi-ngo-196260416143142466.htm) - 08:18 16/04/2026
-- 🎬 [Chất lượng tốt, phim mới của Kiều Minh Tuấn, Diệp Bảo Ngọc &quot;lên ngôi&quot;](https://nld.com.vn/chat-luong-tot-phim-moi-cua-kieu-minh-tuan-diep-bao-ngoc-len-ngoi-196260416134728411.htm) - 08:16 16/04/2026
-- 🔥 [Việt Nam xác nhận tham gia Eurovision Song Contest Asia 2026](https://nld.com.vn/viet-nam-xac-nhan-tham-gia-eurovision-song-contest-asia-2026-196260416070030402.htm) - 00:47 16/04/2026
-- 🚦 [Phim đề tài góc khuất hoa hậu lên sóng VTV](https://nld.com.vn/phim-de-tai-goc-khuat-hoa-hau-len-song-vtv-1962604151257004.htm) - 06:42 15/04/2026
-- 🌝 [&quot;Tình tay ba&quot; giữa Quốc Trường, Quốc Huy và Quỳnh Thy](https://nld.com.vn/tinh-tay-ba-giua-quoc-truong-quoc-huy-va-quynh-thy-19626041512132039.htm) - 06:41 15/04/2026
-- 👨‍🏫 [Đinh Tiến Đạt kể chuyện tình](https://nld.com.vn/dinh-tien-dat-ke-chuyen-tinh-196260415071505739.htm) - 00:47 15/04/2026
-- 🤠 [Lê Nguyên Bảo và cách diễn &quot;ít mà đủ&quot; trong &quot;Bóng ma hạnh phúc&quot;](https://nld.com.vn/le-nguyen-bao-va-cach-dien-it-ma-du-trong-bong-ma-hanh-phuc-196260415064431545.htm) - 00:47 15/04/2026
-- 💡 [Lương Thế Thành - Thúy Diễm kỷ niệm 10 năm ngày cưới](https://nld.com.vn/luong-the-thanh-thuy-diem-ky-niem-10-nam-ngay-cuoi-196260414153549223.htm) - 08:38 14/04/2026
-- 👀 [Ngọc Phước bất ngờ gây sốt tại Trung Quốc](https://nld.com.vn/ngoc-phuoc-bat-ngo-gay-sot-tai-trung-quoc-196260414120339741.htm) - 05:22 14/04/2026
-- 🚦 [5 cặp nghệ sĩ - cầu thủ Việt: Người hạnh phúc viên mãn, kẻ tan vỡ](https://nld.com.vn/5-cap-nghe-si-cau-thu-viet-nguoi-hanh-phuc-vien-man-ke-tan-vo-19626041410103022.htm) - 03:37 14/04/2026
-- 👍 [Ca sĩ Katy Perry phủ nhận tấn công tình dục nữ diễn viên](https://nld.com.vn/ca-si-katy-perry-phu-nhan-tan-cong-tinh-duc-nu-dien-vien-196260414091249335.htm) - 02:34 14/04/2026
-- 🌋 [Mai Ngô lại đi thi gây tranh cãi](https://nld.com.vn/mai-ngo-lai-di-thi-gay-tranh-cai-19626041408042895.htm) - 01:57 14/04/2026
-- 💼 [&quot;Thắng đời&quot; như fan Đăng Khôi](https://nld.com.vn/thang-doi-nhu-fan-dang-khoi-196260414073918349.htm) - 01:57 14/04/2026<!-- nld-giai-tri:END -->
+- 🌝 [Hành trình &quot;rực rỡ&quot; của Bảo Anh](https://nld.com.vn/hanh-trinh-ruc-ro-cua-bao-anh-196260422073030037.htm) - 01:05 22/04/2026
+- 🐘 [NSƯT Lê Thiện bật mí tai nạn &quot;nhạy cảm&quot; của Thái Hòa](https://nld.com.vn/nsut-le-thien-bat-mi-tai-nan-nhay-cam-cua-thai-hoa-196260421203437402.htm) - 17:18 21/04/2026
+- 💼 [Ca sĩ Trung Quân Idol xin lỗi sau vụ bị tố &quot;đánh phụ nữ&quot;, tạm dừng hoạt động](https://nld.com.vn/ca-si-trung-quan-idol-xin-loi-sau-vu-bi-to-danh-phu-nu-tam-dung-hoat-dong-196260421174338495.htm) - 10:57 21/04/2026
+- 🫣 [Chất lượng như hội bạn thân của Thảo Nhi Lê](https://nld.com.vn/chat-luong-nhu-hoi-ban-than-cua-thao-nhi-le-196260421144202082.htm) - 08:12 21/04/2026
+- 🤩 [Tín Nguyễn căng thẳng, ám ảnh nỗi lo mất con](https://nld.com.vn/tin-nguyen-cang-thang-am-anh-noi-lo-mat-con-196260421112740506.htm) - 04:50 21/04/2026
+- 🤠 [Thúy Ngân - Đại sứ Giải Pickleball Báo Người Lao Động năm 2026: &quot;Pickleball rất cuốn hút!&quot;](https://nld.com.vn/thuy-ngan-dai-su-giai-pickleball-bao-nguoi-lao-dong-nam-2026-pickleball-rat-cuon-hut-196260420134433997.htm) - 01:51 21/04/2026
+- ⛽️ [Con gái ưu việt của NSND Trịnh Kim Chi](https://nld.com.vn/con-gai-uu-viet-cua-nsut-trinh-kim-chi-196260421070145802.htm) - 01:23 21/04/2026
+- 📝 [Phim kinh dị học đường &quot;Nhất quỷ nhì ma&quot; của đạo diễn Đoàn Quang](https://nld.com.vn/phim-kinh-di-hoc-duong-nhat-quy-nhi-ma-cua-dao-dien-doan-quang-196260421071454647.htm) - 01:22 21/04/2026
+- 🐻 [Tranh cãi về Isaac: Visual quá nổi bật đến mức bị quên mất vocal thực lực?](https://nld.com.vn/tranh-cai-ve-isaac-visual-qua-noi-bat-den-muc-bi-quen-mat-vocal-thuc-luc-196260421072526995.htm) - 01:17 21/04/2026
+- 🥷 [Thanh Thúy - Đức Thịnh mời Dược Sĩ Tiến và Xesi hát nhạc phim](https://nld.com.vn/thanh-thuy-duc-thinh-moi-duoc-si-tien-va-xesi-hat-nhac-phim-196260420155708073.htm) - 09:21 20/04/2026
+- 🤗 [Vũ Thảo My kết hợp cùng &quot;anh trai Philippines&quot; Gelo Rivera](https://nld.com.vn/vu-thao-my-ket-hop-cung-anh-trai-philippines-gelo-rivera-196260420140218288.htm) - 07:27 20/04/2026
+- 🧠 [Bộ sưu tập Xuân hè 2026 lấy ý tưởng từ &quot;đá băng mát lạnh&quot;](https://nld.com.vn/bo-suu-tap-xuan-he-2026-lay-y-tuong-tu-da-bang-mat-lanh-196260420131252769.htm) - 06:52 20/04/2026
+- 🌊 [Xuân Lan &quot;lừa&quot; Ngọc Trinh, Rima Thanh Vy, Phương Linh xuống cõi âm](https://nld.com.vn/xuan-lan-lua-ngoc-trinh-rima-thanh-vy-phuong-linh-xuong-coi-am-196260420124447039.htm) - 06:15 20/04/2026
+- 👨‍🏫 [Tài tử Lương Gia Huy khóc khi đăng quang &quot;ảnh đế&quot; Kim Tượng lần 5](https://nld.com.vn/tai-tu-luong-gia-huy-khoc-khi-dang-quang-anh-de-kim-tuong-lan-5-196260420113556842.htm) - 06:15 20/04/2026
+- 🕴 [Giải mã hiện tượng &quot;sầu ca&quot; Quang Nhi gây sốt mạng xã hội](https://nld.com.vn/giai-ma-hien-tuong-sau-ca-quang-nhi-gay-sot-mang-xa-hoi-19626042006533351.htm) - 23:57 19/04/2026
+- 🤩 [Chính thức khởi động cuộc thi “Thiên Thần Quảng Cáo Việt Nam 2026”](https://nld.com.vn/chinh-thuc-khoi-dong-cuoc-thi-thien-than-quang-cao-viet-nam-2026-196260419071404542.htm) - 03:12 19/04/2026
+- 🌁 [Cầm - ái nữ nhà Duy Mạnh - gây thương nhớ](https://nld.com.vn/cam-ai-nu-nha-duy-manh-gay-thuong-nho-196260419064215439.htm) - 23:55 18/04/2026
+- 🎉 [Thư Kỳ: &quot;Không trang điểm, tôi cũng giống phụ nữ 50 tuổi&quot;](https://nld.com.vn/thu-ky-khong-trang-diem-toi-cung-giong-phu-nu-50-tuoi-196260418125220929.htm) - 06:02 18/04/2026
+- 👍 [Mặt trời cô độc của Đông Nhi](https://nld.com.vn/mat-troi-co-doc-cua-dong-nhi-196260418122445758.htm) - 05:58 18/04/2026
+- 🤖 [Vân Sơn tái xuất vì Charlie Nguyễn, Miu Lê áp lực bật khóc](https://nld.com.vn/van-son-tai-xuat-vi-charlie-nguyen-miu-le-ap-luc-bat-khoc-196260418090338545.htm) - 02:21 18/04/2026
+- 💫 [Ca sĩ Ngọc Khuê &quot;rủ&quot; nhiều nghệ sĩ danh tiếng vào &quot;Thị phi&quot;](https://nld.com.vn/ca-si-ngoc-khue-ru-nhieu-nghe-si-danh-tieng-vao-thi-phi-196260418082528121.htm) - 01:47 18/04/2026
+- 🚀 [buitruonglinh lập &quot;liên hoàn thành tích&quot;](https://nld.com.vn/buitruonglinh-lap-lien-hoan-thanh-tich-196260418072531406.htm) - 01:02 18/04/2026
+- 🫣 [Khi công nghệ bắt tay với nhà sản xuất giải trí](https://nld.com.vn/khi-cong-nghe-bat-tay-voi-nha-san-xuat-giai-tri-196260418070541077.htm) - 01:00 18/04/2026
+- 👹 [Vợ Dương Ngọc Thái tái xuất sau khi sinh con](https://nld.com.vn/vo-duong-ngoc-thai-tai-xuat-sau-khi-sinh-con-196260418071301722.htm) - 00:22 18/04/2026
+- 🥸 [&quot;Dương Khang&quot; Phan Hoành Bân, từng bị đồn yêu đồng giới với Lưu Đức Hoa qua đời](https://nld.com.vn/duong-khang-phan-hoanh-ban-tung-bi-don-yeu-dong-gioi-voi-luu-duc-hoa-qua-doi-196260417153710839.htm) - 10:01 17/04/2026
+- 🎬 [Tình trạng mẹ ca sĩ Kasim Hoàng Vũ hiện tại](https://nld.com.vn/tinh-trang-me-ca-si-kasim-hoang-vu-hien-tai-196260417154140576.htm) - 10:00 17/04/2026
+- 🔥 [&quot;Picker Band&quot; không chọn con đường giải trí mang tính trình diễn](https://nld.com.vn/picker-band-khong-chon-con-duong-giai-tri-mang-tinh-trinh-dien-196260416205022652.htm) - 20:32 16/04/2026
+- 🚦 [Tân binh khủng long gọi tên CONGB](https://nld.com.vn/tan-binh-khung-long-goi-ten-congb-196260416145843373.htm) - 08:26 16/04/2026
+- 🌝 [Minh Hằng &quot;đọ dáng&quot; Ngọc Trinh, &quot;Chị chị em em 2&quot; hội ngộ](https://nld.com.vn/minh-hang-do-dang-ngoc-trinh-chi-chi-em-em-2-hoi-ngo-196260416143142466.htm) - 08:18 16/04/2026
+- 👨‍🏫 [Chất lượng tốt, phim mới của Kiều Minh Tuấn, Diệp Bảo Ngọc &quot;lên ngôi&quot;](https://nld.com.vn/chat-luong-tot-phim-moi-cua-kieu-minh-tuan-diep-bao-ngoc-len-ngoi-196260416134728411.htm) - 08:16 16/04/2026
+- 🤠 [Việt Nam xác nhận tham gia Eurovision Song Contest Asia 2026](https://nld.com.vn/viet-nam-xac-nhan-tham-gia-eurovision-song-contest-asia-2026-196260416070030402.htm) - 00:47 16/04/2026
+- 💡 [Phim đề tài góc khuất hoa hậu lên sóng VTV](https://nld.com.vn/phim-de-tai-goc-khuat-hoa-hau-len-song-vtv-1962604151257004.htm) - 06:42 15/04/2026
+- 👀 [&quot;Tình tay ba&quot; giữa Quốc Trường, Quốc Huy và Quỳnh Thy](https://nld.com.vn/tinh-tay-ba-giua-quoc-truong-quoc-huy-va-quynh-thy-19626041512132039.htm) - 06:41 15/04/2026
+- 🚦 [Đinh Tiến Đạt kể chuyện tình](https://nld.com.vn/dinh-tien-dat-ke-chuyen-tinh-196260415071505739.htm) - 00:47 15/04/2026
+- 👍 [Lê Nguyên Bảo và cách diễn &quot;ít mà đủ&quot; trong &quot;Bóng ma hạnh phúc&quot;](https://nld.com.vn/le-nguyen-bao-va-cach-dien-it-ma-du-trong-bong-ma-hanh-phuc-196260415064431545.htm) - 00:47 15/04/2026
+- 🌋 [Lương Thế Thành - Thúy Diễm kỷ niệm 10 năm ngày cưới](https://nld.com.vn/luong-the-thanh-thuy-diem-ky-niem-10-nam-ngay-cuoi-196260414153549223.htm) - 08:38 14/04/2026
+- 💼 [Ngọc Phước bất ngờ gây sốt tại Trung Quốc](https://nld.com.vn/ngoc-phuoc-bat-ngo-gay-sot-tai-trung-quoc-196260414120339741.htm) - 05:22 14/04/2026<!-- nld-giai-tri:END -->
