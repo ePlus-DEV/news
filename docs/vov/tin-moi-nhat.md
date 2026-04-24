@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Ông Trump đặt “hạn chót” buộc Iran đưa đề xuất, gây sức ép trước giờ G](https://vov.vn/the-gioi/ong-trump-dat-han-chot-buoc-iran-dua-de-xuat-gay-suc-ep-truoc-gio-g-post1286050.vov) - 16:18 22/04/2026
-- 🦍 [Bắc Bộ và Bắc Trung Bộ đón không khí lạnh, có mưa dông diện rộng](https://vov.vn/xa-hoi/bac-bo-va-bac-trung-bo-don-khong-khi-lanh-co-mua-dong-dien-rong-post1286049.vov) - 15:02 22/04/2026
-- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
-- 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Hàn Quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-han-quoc-post1286045.vov) - 14:48 22/04/2026
-- 💯 [Công bố Quyết định kiểm tra, giám sát với Ban Thường vụ Đảng ủy Công an Trung ương](https://vov.vn/chinh-tri/cong-bo-quyet-dinh-kiem-tra-giam-sat-voi-ban-thuong-vu-dang-uy-cong-an-trung-uong-post1286041.vov) - 13:55 22/04/2026
-- 🦩 [Sửa Luật Thủ đô: Đại biểu kiến nghị &amp;quot;đưa văn hóa lên trước kinh tế&amp;quot;](https://vov.vn/chinh-tri/sua-luat-thu-do-dai-bieu-kien-nghi-dua-van-hoa-len-truoc-kinh-te-post1286035.vov) - 13:53 22/04/2026
-- 💃 [Việt Nam - Hàn Quốc hướng tới mục tiêu 150 tỷ USD thương mại song phương](https://vov.vn/chinh-tri/viet-nam-han-quoc-huong-toi-muc-tieu-150-ty-usd-thuong-mai-song-phuong-post1286040.vov) - 13:41 22/04/2026
-- 🦣 [TP.HCM khẩn trương lập đề án chuyển xã lên phường gồm 9 bước cụ thể](https://vov.vn/xa-hoi/tphcm-khan-truong-lap-de-an-chuyen-xa-len-phuong-gom-9-buoc-cu-the-post1286016.vov) - 11:32 22/04/2026
-- 👹 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Hàn Quốc Lee Jae Myung](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-han-quoc-lee-jae-myung-post1285979.vov) - 10:30 22/04/2026
-- 🫶 [Nâng ngưỡng doanh thu chịu thuế: Hộ kinh doanh vẫn lo “doanh thu lớn, lãi mỏng”](https://vov.vn/kinh-te/nang-nguong-doanh-thu-chiu-thue-ho-kinh-doanh-van-lo-doanh-thu-lon-lai-mong-post1285931.vov) - 08:34 22/04/2026
-- 😺 [Thủ tướng: Ngành công thương chịu trách nhiệm không để thiếu điện, xăng dầu](https://vov.vn/chinh-tri/thu-tuong-nganh-cong-thuong-chiu-trach-nhiem-khong-de-thieu-dien-xang-dau-post1285913.vov) - 07:19 22/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Đồng Nai chính thức là thành phố trực thuộc Trung ương](https://vov.vn/chinh-tri/dong-nai-chinh-thuc-la-thanh-pho-truc-thuoc-trung-uong-post1286486.vov) - 03:33 24/04/2026
+- 🦍 [Huy động vàng trong dân: Cơ hội đánh thức “mỏ vốn” khổng lồ](https://vov.vn/kinh-te/huy-dong-vang-trong-dan-co-hoi-danh-thuc-mo-von-khong-lo-post1286488.vov) - 03:21 24/04/2026
+- 🦏 [Quốc hội họp phiên bế mạc, biểu quyết thông qua nhiều Nghị quyết quan trọng](https://vov.vn/chinh-tri/quoc-hoi-hop-phien-be-mac-bieu-quyet-thong-qua-nhieu-nghi-quyet-quan-trong-post1286475.vov) - 03:20 24/04/2026
+- 😎 [Quốc hội “chốt” giám sát tối cao về quản lý trụ sở làm việc sau sắp xếp](https://vov.vn/chinh-tri/quoc-hoi-chot-giam-sat-toi-cao-ve-quan-ly-tru-so-lam-viec-sau-sap-xep-post1286481.vov) - 02:42 24/04/2026
+- 💯 [Toàn cảnh quốc tế sáng 24/4: Đặc nhiệm Iran đột kích, bắt tàu ở Hormuz](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-244-dac-nhiem-iran-dot-kich-bat-tau-o-hormuz-post1286465.vov) - 02:05 24/04/2026
+- 🦩 [Tổng Bí thư Hà Huy Tập - Nhà lý luận xuất sắc của Đảng và cách mạng Việt Nam](https://vov.vn/chinh-tri/tong-bi-thu-ha-huy-tap-nha-ly-luan-xuat-sac-cua-dang-va-cach-mang-viet-nam-post1286454.vov) - 01:23 24/04/2026
+- 💃 [Tổng thống Trump nỗ lực tìm lối đi mới sau những bước lùi ngoại giao](https://vov.vn/the-gioi/quan-sat/tong-thong-trump-no-luc-tim-loi-di-moi-sau-nhung-buoc-lui-ngoai-giao-post1286201.vov) - 23:19 23/04/2026
+- 🦣 [Các biện pháp hạn chế sẽ được Hà Nội áp dụng trong Vùng phát thải thấp từ 1/7/2026](https://vov.vn/xa-hoi/cac-bien-phap-han-che-se-duoc-ha-noi-ap-dung-trong-vung-phat-thai-thap-tu-172026-post1286365.vov) - 23:14 23/04/2026
+- 👹 [&amp;quot;Một bữa ăn của người dân 4-5 cơ quan cùng quản lý, có sự cố ai chịu trách nhiệm&amp;quot;?](https://vov.vn/chinh-tri/mot-bua-an-cua-nguoi-dan-4-5-co-quan-cung-quan-ly-co-su-co-ai-chiu-trach-nhiem-post1286425.vov) - 23:00 23/04/2026
+- 🫶 [Người trẻ có thực sự thờ ơ với các vấn đề chính trị?](https://vov.vn/chinh-tri/nguoi-tre-co-thuc-su-tho-o-voi-cac-van-de-chinh-tri-post1286369.vov) - 23:00 23/04/2026
+- 😺 [Không chỉ chủ trương, cần “6 rõ” để KH-CN tạo đột phá](https://vov.vn/chinh-tri/khong-chi-chu-truong-can-6-ro-de-kh-cn-tao-dot-pha-post1286271.vov) - 22:30 23/04/2026<!-- vov-tin-moi-nhat:END -->
