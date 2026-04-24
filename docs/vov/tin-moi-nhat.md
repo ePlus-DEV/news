@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Đồng Nai chính thức là thành phố trực thuộc Trung ương](https://vov.vn/chinh-tri/dong-nai-chinh-thuc-la-thanh-pho-truc-thuoc-trung-uong-post1286486.vov) - 03:33 24/04/2026
-- 🦍 [Huy động vàng trong dân: Cơ hội đánh thức “mỏ vốn” khổng lồ](https://vov.vn/kinh-te/huy-dong-vang-trong-dan-co-hoi-danh-thuc-mo-von-khong-lo-post1286488.vov) - 03:21 24/04/2026
-- 🦏 [Quốc hội họp phiên bế mạc, biểu quyết thông qua nhiều Nghị quyết quan trọng](https://vov.vn/chinh-tri/quoc-hoi-hop-phien-be-mac-bieu-quyet-thong-qua-nhieu-nghi-quyet-quan-trong-post1286475.vov) - 03:20 24/04/2026
-- 😎 [Quốc hội “chốt” giám sát tối cao về quản lý trụ sở làm việc sau sắp xếp](https://vov.vn/chinh-tri/quoc-hoi-chot-giam-sat-toi-cao-ve-quan-ly-tru-so-lam-viec-sau-sap-xep-post1286481.vov) - 02:42 24/04/2026
-- 💯 [Toàn cảnh quốc tế sáng 24/4: Đặc nhiệm Iran đột kích, bắt tàu ở Hormuz](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-244-dac-nhiem-iran-dot-kich-bat-tau-o-hormuz-post1286465.vov) - 02:05 24/04/2026
-- 🦩 [Tổng Bí thư Hà Huy Tập - Nhà lý luận xuất sắc của Đảng và cách mạng Việt Nam](https://vov.vn/chinh-tri/tong-bi-thu-ha-huy-tap-nha-ly-luan-xuat-sac-cua-dang-va-cach-mang-viet-nam-post1286454.vov) - 01:23 24/04/2026
-- 💃 [Tổng thống Trump nỗ lực tìm lối đi mới sau những bước lùi ngoại giao](https://vov.vn/the-gioi/quan-sat/tong-thong-trump-no-luc-tim-loi-di-moi-sau-nhung-buoc-lui-ngoai-giao-post1286201.vov) - 23:19 23/04/2026
-- 🦣 [Các biện pháp hạn chế sẽ được Hà Nội áp dụng trong Vùng phát thải thấp từ 1/7/2026](https://vov.vn/xa-hoi/cac-bien-phap-han-che-se-duoc-ha-noi-ap-dung-trong-vung-phat-thai-thap-tu-172026-post1286365.vov) - 23:14 23/04/2026
-- 👹 [&amp;quot;Một bữa ăn của người dân 4-5 cơ quan cùng quản lý, có sự cố ai chịu trách nhiệm&amp;quot;?](https://vov.vn/chinh-tri/mot-bua-an-cua-nguoi-dan-4-5-co-quan-cung-quan-ly-co-su-co-ai-chiu-trach-nhiem-post1286425.vov) - 23:00 23/04/2026
-- 🫶 [Người trẻ có thực sự thờ ơ với các vấn đề chính trị?](https://vov.vn/chinh-tri/nguoi-tre-co-thuc-su-tho-o-voi-cac-van-de-chinh-tri-post1286369.vov) - 23:00 23/04/2026
-- 😺 [Không chỉ chủ trương, cần “6 rõ” để KH-CN tạo đột phá](https://vov.vn/chinh-tri/khong-chi-chu-truong-can-6-ro-de-kh-cn-tao-dot-pha-post1286271.vov) - 22:30 23/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Trực tiếp U17 Lào 0-3 U17 Australia: Trả giá đắt vì sai lầm](https://vov.vn/the-thao/truc-tiep-u17-lao-0-3-u17-australia-tra-gia-dat-vi-sai-lam-post1286544.vov) - 09:02 24/04/2026
+- 🦍 [Người dân lũ lượt rời Thủ đô về nghỉ lễ, cửa ngõ phía Nam Hà Nội ùn tắc cục bộ](https://vov.vn/xa-hoi/nguoi-dan-lu-luot-roi-thu-do-ve-nghi-le-cua-ngo-phia-nam-ha-noi-un-tac-cuc-bo-post1286601.vov) - 08:55 24/04/2026
+- 🦏 [Cơn sốt vàng hạ nhiệt, “phố vàng” Trần Nhân Tông vắng vẻ](https://vov.vn/thi-truong/con-sot-vang-ha-nhiet-pho-vang-tran-nhan-tong-vang-ve-post1286590.vov) - 08:39 24/04/2026
+- 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì chương trình hữu nghị tại Hoàng thành](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-chuong-trinh-huu-nghi-tai-hoang-thanh-post1286576.vov) - 08:08 24/04/2026
+- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì chương trình hữu nghị tại Hoàng thành](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-chuong-trinh-huu-nghi-tai-hoang-thanh-post1286576.vov) - 08:08 24/04/2026
+- 🦩 [Quốc hội thông qua nhiều quyết sách lớn, nền tảng mạnh cho nhiệm kỳ mới](https://vov.vn/chinh-tri/quoc-hoi-thong-qua-nhieu-quyet-sach-lon-nen-tang-manh-cho-nhiem-ky-moi-post1286563.vov) - 07:49 24/04/2026
+- 💃 [Quốc hội thông qua nhiều quyết sách lớn, nền tảng mạnh cho nhiệm kỳ mới](https://vov.vn/chinh-tri/quoc-hoi-thong-qua-nhieu-quyet-sach-lon-nen-tang-manh-cho-nhiem-ky-moi-post1286563.vov) - 07:49 24/04/2026
+- 🦣 [Toàn cảnh quốc tế trưa 24/4: Tổng thống Mỹ Trump ra lệnh bắn tàu rải thủy lôi Iran](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-244-tong-thong-my-trump-ra-lenh-ban-tau-rai-thuy-loi-iran-post1286579.vov) - 07:47 24/04/2026
+- 👹 [Chủ tịch Quốc hội: Các chính sách ban hành tại Kỳ họp có tinh thần đổi mới](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-cac-chinh-sach-ban-hanh-tai-ky-hop-co-tinh-than-doi-moi-post1286547.vov) - 05:29 24/04/2026
+- 🫶 [Quốc hội kịp thời quyết việc &amp;quot;nóng&amp;quot;, mở đường tăng trưởng hai con số](https://vov.vn/kinh-te/quoc-hoi-kip-thoi-quyet-viec-nong-mo-duong-tang-truong-hai-con-so-post1286449.vov) - 05:24 24/04/2026
+- 😺 [Tổng Bí thư, Chủ tịch nước và Tổng thống Hàn Quốc tham quan Hoàng thành Thăng Long](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-tong-thong-han-quoc-tham-quan-hoang-thanh-thang-long-post1286521.vov) - 04:48 24/04/2026<!-- vov-tin-moi-nhat:END -->
