@@ -713,17 +713,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Hôm nay, Quốc hội họp thông qua các chính sách mới về thuế, bế mạc kỳ họp thứ Nhất](https://vov.vn/chinh-tri/hom-nay-quoc-hoi-hop-thong-qua-cac-chinh-sach-moi-ve-thue-be-mac-ky-hop-thu-nhat-post1286400.vov) - 22:32 23/04/2026
-- 🕯 [Hôm nay, Quốc hội họp thông qua các chính sách mới về thuế, bế mạc kỳ họp thứ Nhất](https://vov.vn/chinh-tri/hom-nay-quoc-hoi-hop-thong-qua-cac-chinh-sach-moi-ve-thue-be-mac-ky-hop-thu-nhat-post1286400.vov) - 22:32 23/04/2026
-- 🌊 [Không chỉ chủ trương, cần “6 rõ” để KH-CN tạo đột phá](https://vov.vn/chinh-tri/khong-chi-chu-truong-can-6-ro-de-kh-cn-tao-dot-pha-post1286271.vov) - 22:30 23/04/2026
-- 🥷 [Nóng thế giới ngày 24/4: Mỹ nói các biện pháp phong tỏa bóp nghẹt nền kinh tế Iran](https://vov.vn/the-gioi/nong-the-gioi-ngay-244-my-noi-cac-bien-phap-phong-toa-bop-nghet-nen-kinh-te-iran-post1286188.vov) - 22:30 23/04/2026
-- 🎡 [Chính phủ mới vận hành chính quyền 2 cấp: Tinh gọn để phục vụ tốt hơn](https://vov.vn/chinh-tri/chinh-phu-moi-van-hanh-chinh-quyen-2-cap-tinh-gon-de-phuc-vu-tot-hon-post1286252.vov) - 22:20 23/04/2026
-- 🚀 [Chính phủ mới vận hành chính quyền 2 cấp: Tinh gọn để phục vụ tốt hơn](https://vov.vn/chinh-tri/chinh-phu-moi-van-hanh-chinh-quyen-2-cap-tinh-gon-de-phuc-vu-tot-hon-post1286252.vov) - 22:20 23/04/2026
-- 🔥 [Giá xăng dầu hôm nay 24/4: Giá dầu thế giới tiếp tục tăng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-244-gia-dau-the-gioi-tiep-tuc-tang-post1286318.vov) - 22:00 23/04/2026
-- 🌋 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 24/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-244-post1286191.vov) - 22:00 23/04/2026
-- 🕴 [Thủ tướng Lê Minh Hưng và Tổng thống Hàn Quốc dự Diễn đàn Kinh tế Việt-Hàn](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-va-tong-thong-han-quoc-du-dien-dan-kinh-te-viet-han-post1286377.vov) - 13:06 23/04/2026
-- 🥰 [Chủ tịch Hà Nội: Luật Thủ đô &lpar;sửa đổi&rpar; có cơ chế bảo vệ cán bộ &amp;quot;dám nghĩ, dám làm&amp;quot;](https://vov.vn/xa-hoi/chu-tich-ha-noi-luat-thu-do-sua-doi-co-co-che-bao-ve-can-bo-dam-nghi-dam-lam-post1286355.vov) - 11:47 23/04/2026
-- 🧐 [Thông qua Luật Thi đua, khen thưởng &lpar;sửa đổi&rpar;: Tránh “phổ thông hóa” khen thưởng](https://vov.vn/chinh-tri/thong-qua-luat-thi-dua-khen-thuong-sua-doi-tranh-pho-thong-hoa-khen-thuong-post1286273.vov) - 11:07 23/04/2026<!-- vov:END -->
+- 🌜 [Trực tiếp U17 Lào 0-5 U17 Australia: Cơn mưa bàn thắng](https://vov.vn/the-thao/truc-tiep-u17-lao-0-5-u17-australia-con-mua-ban-thang-post1286544.vov) - 09:15 24/04/2026
+- 🕯 [Người dân lũ lượt rời Thủ đô về nghỉ lễ, cửa ngõ phía Nam Hà Nội ùn tắc cục bộ](https://vov.vn/xa-hoi/nguoi-dan-lu-luot-roi-thu-do-ve-nghi-le-cua-ngo-phia-nam-ha-noi-un-tac-cuc-bo-post1286601.vov) - 08:55 24/04/2026
+- 🌊 [Cơn sốt vàng hạ nhiệt, “phố vàng” Trần Nhân Tông vắng vẻ](https://vov.vn/thi-truong/con-sot-vang-ha-nhiet-pho-vang-tran-nhan-tong-vang-ve-post1286590.vov) - 08:39 24/04/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì chương trình hữu nghị tại Hoàng thành](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-chuong-trinh-huu-nghi-tai-hoang-thanh-post1286576.vov) - 08:08 24/04/2026
+- 🎡 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì chương trình hữu nghị tại Hoàng thành](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-chuong-trinh-huu-nghi-tai-hoang-thanh-post1286576.vov) - 08:08 24/04/2026
+- 🚀 [Quốc hội thông qua nhiều quyết sách lớn, nền tảng mạnh cho nhiệm kỳ mới](https://vov.vn/chinh-tri/quoc-hoi-thong-qua-nhieu-quyet-sach-lon-nen-tang-manh-cho-nhiem-ky-moi-post1286563.vov) - 07:49 24/04/2026
+- 🔥 [Quốc hội thông qua nhiều quyết sách lớn, nền tảng mạnh cho nhiệm kỳ mới](https://vov.vn/chinh-tri/quoc-hoi-thong-qua-nhieu-quyet-sach-lon-nen-tang-manh-cho-nhiem-ky-moi-post1286563.vov) - 07:49 24/04/2026
+- 🌋 [Toàn cảnh quốc tế trưa 24/4: Tổng thống Mỹ Trump ra lệnh bắn tàu rải thủy lôi Iran](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-244-tong-thong-my-trump-ra-lenh-ban-tau-rai-thuy-loi-iran-post1286579.vov) - 07:47 24/04/2026
+- 🕴 [Chủ tịch Quốc hội: Các chính sách ban hành tại Kỳ họp có tinh thần đổi mới](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-cac-chinh-sach-ban-hanh-tai-ky-hop-co-tinh-than-doi-moi-post1286547.vov) - 05:29 24/04/2026
+- 🥰 [Quốc hội kịp thời quyết việc &amp;quot;nóng&amp;quot;, mở đường tăng trưởng hai con số](https://vov.vn/kinh-te/quoc-hoi-kip-thoi-quyet-viec-nong-mo-duong-tang-truong-hai-con-so-post1286449.vov) - 05:24 24/04/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước và Tổng thống Hàn Quốc tham quan Hoàng thành Thăng Long](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-tong-thong-han-quoc-tham-quan-hoang-thanh-thang-long-post1286521.vov) - 04:48 24/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
