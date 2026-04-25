@@ -9,9 +9,9 @@ sidebar_position: 4
 - 🧰 [Hải quan chỉ đạo thông quan 24/7, siết chống buôn lậu dịp nghỉ lễ 30/4-1/5](https://vov.vn/kinh-te/hai-quan-chi-dao-thong-quan-247-siet-chong-buon-lau-dip-nghi-le-304-15-post1286799.vov) - 02:44 25/04/2026
 - 🥳 [Giá chung cư Hà Nội đạt 128 triệu đồng/m², thanh khoản giảm](https://vov.vn/kinh-te/bat-dong-san/gia-chung-cu-ha-noi-dat-128-trieu-dongm2-thanh-khoan-giam-post1286795.vov) - 02:37 25/04/2026
 - 🥰 [Thị trường BĐS Hà Nội: Giá căn hộ tăng tới 288%, nguồn cung chỉ tăng 2,9 lần](https://vov.vn/kinh-te/thi-truong-bds-ha-noi-gia-can-ho-tang-toi-288-nguon-cung-chi-tang-29-lan-post1286693.vov) - 23:30 24/04/2026
-- 🤠 [Quả ăn vặt đặc sản khoái khẩu có giá tới 180.000 đồng/kg](https://vov.vn/kinh-te/qua-an-vat-dac-san-khoai-khau-co-gia-toi-180000-dongkg-post1286710.vov) - 23:00 24/04/2026
-- 💂 [Nghịch lý 6,1 triệu hộ kinh doanh: Hơn 84% vẫn “sợ” lớn, vì sao?](https://vov.vn/kinh-te/nghich-ly-61-trieu-ho-kinh-doanh-hon-84-van-so-lon-vi-sao-post1286495.vov) - 23:00 24/04/2026
-- 🚀 [Người dân vùng lòng hồ Cấm Sơn, Bắc Ninh mong ước về một cây cầu kiên cố](https://vov.vn/kinh-te/nguoi-dan-vung-long-ho-cam-son-bac-ninh-mong-uoc-ve-mot-cay-cau-kien-co-post1286546.vov) - 23:00 24/04/2026
+- 🤠 [Người dân vùng lòng hồ Cấm Sơn, Bắc Ninh mong ước về một cây cầu kiên cố](https://vov.vn/kinh-te/nguoi-dan-vung-long-ho-cam-son-bac-ninh-mong-uoc-ve-mot-cay-cau-kien-co-post1286546.vov) - 23:00 24/04/2026
+- 💂 [Quả ăn vặt đặc sản khoái khẩu có giá tới 180.000 đồng/kg](https://vov.vn/kinh-te/qua-an-vat-dac-san-khoai-khau-co-gia-toi-180000-dongkg-post1286710.vov) - 23:00 24/04/2026
+- 🚀 [Nghịch lý 6,1 triệu hộ kinh doanh: Hơn 84% vẫn “sợ” lớn, vì sao?](https://vov.vn/kinh-te/nghich-ly-61-trieu-ho-kinh-doanh-hon-84-van-so-lon-vi-sao-post1286495.vov) - 23:00 24/04/2026
 - 👺 [Đà Nẵng gỡ vướng đập thời vụ giữ ngọt, ngăn mặn trên sông Vĩnh Điện](https://vov.vn/kinh-te/da-nang-go-vuong-dap-thoi-vu-giu-ngot-ngan-man-tren-song-vinh-dien-post1286732.vov) - 16:05 24/04/2026
 - 🦆 [Nông sản OCOP Gia Lai hút khách tham quan](https://vov.vn/kinh-te/nong-san-ocop-gia-lai-hut-khach-tham-quan-post1286709.vov) - 15:56 24/04/2026
 - 🤗 [Gia Lai yêu cầu rút ngắn ít nhất 25% thời gian thực hiện các dự án đầu tư](https://vov.vn/kinh-te/gia-lai-yeu-cau-rut-ngan-it-nhat-25-thoi-gian-thuc-hien-cac-du-an-dau-tu-post1286711.vov) - 14:11 24/04/2026
@@ -38,9 +38,9 @@ sidebar_position: 4
 - 🤩 [Huy động vàng trong dân: Đánh thức “mỏ vốn” khổng lồ](https://vov.vn/kinh-te/huy-dong-vang-trong-dan-danh-thuc-mo-von-khong-lo-post1286488.vov) - 03:21 24/04/2026
 - 🥸 [Chậm hoàn thành giải phóng mặt bằng dự án, Quảng Ngãi không đổ lỗi cơ chế](https://vov.vn/kinh-te/cham-hoan-thanh-giai-phong-mat-bang-du-an-quang-ngai-khong-do-loi-co-che-post1286461.vov) - 02:55 24/04/2026
 - 🦍 [&amp;quot;Đánh thức&amp;quot; tiềm năng kinh tế xanh từ cây tre ở vùng đất khô cằn Đắk Lắk](https://vov.vn/kinh-te/danh-thuc-tiem-nang-kinh-te-xanh-tu-cay-tre-o-vung-dat-kho-can-dak-lak-post1286175.vov) - 00:00 24/04/2026
-- 🌏 [Người nông dân làm nên thương hiệu gạo Ba Cao](https://vov.vn/kinh-te/nguoi-nong-dan-lam-nen-thuong-hieu-gao-ba-cao-post1286080.vov) - 23:00 23/04/2026
-- 🧐 [Cá mini 7 màu hoá “mỏ vàng” trong giới sinh vật cảnh](https://vov.vn/kinh-te/ca-mini-7-mau-hoa-mo-vang-trong-gioi-sinh-vat-canh-post1286339.vov) - 23:00 23/04/2026
-- 🤗 [Gỡ “nút thắt” đầu ra cho nông sản vùng cao Lai Châu](https://vov.vn/kinh-te/go-nut-that-dau-ra-cho-nong-san-vung-cao-lai-chau-post1285951.vov) - 23:00 23/04/2026
+- 🌏 [Gỡ “nút thắt” đầu ra cho nông sản vùng cao Lai Châu](https://vov.vn/kinh-te/go-nut-that-dau-ra-cho-nong-san-vung-cao-lai-chau-post1285951.vov) - 23:00 23/04/2026
+- 🧐 [Người nông dân làm nên thương hiệu gạo Ba Cao](https://vov.vn/kinh-te/nguoi-nong-dan-lam-nen-thuong-hieu-gao-ba-cao-post1286080.vov) - 23:00 23/04/2026
+- 🤗 [Cá mini 7 màu hoá “mỏ vàng” trong giới sinh vật cảnh](https://vov.vn/kinh-te/ca-mini-7-mau-hoa-mo-vang-trong-gioi-sinh-vat-canh-post1286339.vov) - 23:00 23/04/2026
 - 🎡 [Bước ngoặt của hơn 1.100 lao động tại Nhà máy gang thép Lào Cai](https://vov.vn/doanh-nghiep/buoc-ngoat-cua-hon-1100-lao-dong-tai-nha-may-gang-thep-lao-cai-post1286385.vov) - 13:42 23/04/2026
 - 🧰 [Gia Lai chi hơn 212 tỷ hỗ trợ ngư dân xả bản tàu, chuyển đổi nghề](https://vov.vn/kinh-te/gia-lai-chi-hon-212-ty-ho-tro-ngu-dan-xa-ban-tau-chuyen-doi-nghe-post1286382.vov) - 13:40 23/04/2026
 - 🦏 [Nguồn lực tài chính hỗ trợ các dự án xanh chưa đáp ứng yêu cầu](https://vov.vn/kinh-te/nguon-luc-tai-chinh-ho-tro-cac-du-an-xanh-chua-dap-ung-yeu-cau-post1286363.vov) - 12:42 23/04/2026
