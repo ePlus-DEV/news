@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Giá chung cư Hà Nội đạt 128 triệu đồng/m², thanh khoản giảm](https://vov.vn/kinh-te/bat-dong-san/gia-chung-cu-ha-noi-dat-128-trieu-dongm2-thanh-khoan-giam-post1286795.vov) - 02:37 25/04/2026
-- 🕯 [Tướng Lê Văn Cương: Ông Trump tính sai nước cờ, bế tắc khi người Iran đoàn kết](https://vov.vn/the-gioi/quan-sat/tuong-le-van-cuong-ong-trump-tinh-sai-nuoc-co-be-tac-khi-nguoi-iran-doan-ket-post1286803.vov) - 02:29 25/04/2026
-- 🌊 [Tướng Lê Văn Cương: Ông Trump tính sai nước cờ, bế tắc khi người Iran đoàn kết](https://vov.vn/the-gioi/quan-sat/tuong-le-van-cuong-ong-trump-tinh-sai-nuoc-co-be-tac-khi-nguoi-iran-doan-ket-post1286803.vov) - 02:29 25/04/2026
-- 🥷 [Các giải pháp căn cơ đẩy lùi ùn tắc giao thông](https://vov.vn/xa-hoi/cac-giai-phap-can-co-day-lui-un-tac-giao-thong-post1286785.vov) - 01:32 25/04/2026
-- 🎡 [Ông Trump: Iran chuẩn bị đưa ra đề xuất nhằm đáp ứng yêu cầu của Mỹ](https://vov.vn/the-gioi/ong-trump-iran-chuan-bi-dua-ra-de-xuat-nham-dap-ung-yeu-cau-cua-my-post1286778.vov) - 01:23 25/04/2026
-- 🚀 [Thị trường BĐS Hà Nội: Giá căn hộ tăng tới 288%, nguồn cung chỉ tăng 2,9 lần](https://vov.vn/kinh-te/thi-truong-bds-ha-noi-gia-can-ho-tang-toi-288-nguon-cung-chi-tang-29-lan-post1286693.vov) - 23:30 24/04/2026
-- 🔥 [Hà Nội sắp có thêm công viên sinh thái hơn 1 ha bên Hồ Tây](https://vov.vn/xa-hoi/ha-noi-sap-co-them-cong-vien-sinh-thai-hon-1-ha-ben-ho-tay-post1286585.vov) - 23:15 24/04/2026
-- 🌋 [Tăng tốc về đích, bến xe Yên Sở định hình đầu mối giao thông phía Nam Hà Nội](https://vov.vn/xa-hoi/tang-toc-ve-dich-ben-xe-yen-so-dinh-hinh-dau-moi-giao-thong-phia-nam-ha-noi-post1285633.vov) - 23:00 24/04/2026
-- 🕴 [Nghịch lý 6,1 triệu hộ kinh doanh: Hơn 84% vẫn “sợ” lớn, vì sao?](https://vov.vn/kinh-te/nghich-ly-61-trieu-ho-kinh-doanh-hon-84-van-so-lon-vi-sao-post1286495.vov) - 23:00 24/04/2026
-- 🥰 [Đường Nguyễn Tuân, Hà Nội gấp rút &amp;quot;về đích” sau thời gian dài vướng mắc](https://vov.vn/xa-hoi/duong-nguyen-tuan-ha-noi-gap-rut-ve-dich-sau-thoi-gian-dai-vuong-mac-post1286501.vov) - 23:00 24/04/2026
-- 🧐 [Thủ tướng: Phấn đấu giải ngân 100% kế hoạch vốn năm 2026](https://vov.vn/chinh-tri/thu-tuong-phan-dau-giai-ngan-100-ke-hoach-von-nam-2026-post1286612.vov) - 09:04 24/04/2026<!-- vov:END -->
+- 🌜 [Trực tiếp CLB TP.HCM 0-0 Nam Định vòng 20 V-League: Khó cản Xuân Son?](https://vov.vn/the-thao/truc-tiep-clb-tphcm-0-0-nam-dinh-vong-20-v-league-kho-can-xuan-son-post1286812.vov) - 08:24 25/04/2026
+- 🕯 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
+- 🌊 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
+- 🥷 [Thí điểm siết xe máy vào lõi phố cổ: Người dân nói gì?](https://vov.vn/xa-hoi/thi-diem-siet-xe-may-vao-loi-pho-co-nguoi-dan-noi-gi-post1286831.vov) - 05:08 25/04/2026
+- 🎡 [Đường phố Hà Nội thông thoáng trong ngày đầu nghỉ lễ Giỗ Tổ Hùng Vương](https://vov.vn/xa-hoi/duong-pho-ha-noi-thong-thoang-trong-ngay-dau-nghi-le-gio-to-hung-vuong-post1286832.vov) - 05:07 25/04/2026
+- 🚀 [Tổng Bí thư, Chủ tịch nước: Sức mạnh lớn nhất, bền vững nhất là lòng dân](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-suc-manh-lon-nhat-ben-vung-nhat-la-long-dan-post1286839.vov) - 05:07 25/04/2026
+- 🔥 [Thủ tướng: Bộ GD&amp;amp;ĐT hoàn thiện Nghị định về việc miễn phí sách giáo khoa phổ thông](https://vov.vn/chinh-tri/thu-tuong-bo-gddt-hoan-thien-nghi-dinh-ve-viec-mien-phi-sach-giao-khoa-pho-thong-post1286837.vov) - 04:53 25/04/2026
+- 🌋 [Dấu ấn kỳ họp đầu tiên của Quốc hội khóa XVI: Làm ngay, làm bài bản](https://vov.vn/chinh-tri/dau-an-ky-hop-dau-tien-cua-quoc-hoi-khoa-xvi-lam-ngay-lam-bai-ban-post1286830.vov) - 04:32 25/04/2026
+- 🕴 [Hoa loa kèn cuối tháng Tư: Khi Hà Nội lặng lẽ bước sang mùa nắng](https://vov.vn/van-hoa/hoa-loa-ken-cuoi-thang-tu-khi-ha-noi-lang-le-buoc-sang-mua-nang-post1286800.vov) - 02:37 25/04/2026
+- 🥰 [Tướng Lê Văn Cương: Ông Trump tính sai nước cờ, bế tắc khi người Iran đoàn kết](https://vov.vn/the-gioi/quan-sat/tuong-le-van-cuong-ong-trump-tinh-sai-nuoc-co-be-tac-khi-nguoi-iran-doan-ket-post1286803.vov) - 02:29 25/04/2026
+- 🧐 [Các giải pháp căn cơ đẩy lùi ùn tắc giao thông](https://vov.vn/xa-hoi/cac-giai-phap-can-co-day-lui-un-tac-giao-thong-post1286785.vov) - 01:32 25/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
