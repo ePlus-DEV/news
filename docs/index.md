@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Trực tiếp CLB TP.HCM 0-0 Nam Định vòng 20 V-League: Khó cản Xuân Son?](https://vov.vn/the-thao/truc-tiep-clb-tphcm-0-0-nam-dinh-vong-20-v-league-kho-can-xuan-son-post1286812.vov) - 08:24 25/04/2026
-- 🕯 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
-- 🌊 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
-- 🥷 [Thí điểm siết xe máy vào lõi phố cổ: Người dân nói gì?](https://vov.vn/xa-hoi/thi-diem-siet-xe-may-vao-loi-pho-co-nguoi-dan-noi-gi-post1286831.vov) - 05:08 25/04/2026
-- 🎡 [Đường phố Hà Nội thông thoáng trong ngày đầu nghỉ lễ Giỗ Tổ Hùng Vương](https://vov.vn/xa-hoi/duong-pho-ha-noi-thong-thoang-trong-ngay-dau-nghi-le-gio-to-hung-vuong-post1286832.vov) - 05:07 25/04/2026
-- 🚀 [Tổng Bí thư, Chủ tịch nước: Sức mạnh lớn nhất, bền vững nhất là lòng dân](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-suc-manh-lon-nhat-ben-vung-nhat-la-long-dan-post1286839.vov) - 05:07 25/04/2026
-- 🔥 [Thủ tướng: Bộ GD&amp;amp;ĐT hoàn thiện Nghị định về việc miễn phí sách giáo khoa phổ thông](https://vov.vn/chinh-tri/thu-tuong-bo-gddt-hoan-thien-nghi-dinh-ve-viec-mien-phi-sach-giao-khoa-pho-thong-post1286837.vov) - 04:53 25/04/2026
-- 🌋 [Dấu ấn kỳ họp đầu tiên của Quốc hội khóa XVI: Làm ngay, làm bài bản](https://vov.vn/chinh-tri/dau-an-ky-hop-dau-tien-cua-quoc-hoi-khoa-xvi-lam-ngay-lam-bai-ban-post1286830.vov) - 04:32 25/04/2026
-- 🕴 [Hoa loa kèn cuối tháng Tư: Khi Hà Nội lặng lẽ bước sang mùa nắng](https://vov.vn/van-hoa/hoa-loa-ken-cuoi-thang-tu-khi-ha-noi-lang-le-buoc-sang-mua-nang-post1286800.vov) - 02:37 25/04/2026
-- 🥰 [Tướng Lê Văn Cương: Ông Trump tính sai nước cờ, bế tắc khi người Iran đoàn kết](https://vov.vn/the-gioi/quan-sat/tuong-le-van-cuong-ong-trump-tinh-sai-nuoc-co-be-tac-khi-nguoi-iran-doan-ket-post1286803.vov) - 02:29 25/04/2026
-- 🧐 [Các giải pháp căn cơ đẩy lùi ùn tắc giao thông](https://vov.vn/xa-hoi/cac-giai-phap-can-co-day-lui-un-tac-giao-thong-post1286785.vov) - 01:32 25/04/2026<!-- vov:END -->
+- 🌜 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
+- 🕯 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
+- 🌊 [Ngoại trưởng Iran rời Pakistan, không đàm phán với Mỹ](https://vov.vn/the-gioi/ngoai-truong-iran-roi-pakistan-khong-dam-phan-voi-my-post1286995.vov) - 14:38 25/04/2026
+- 🥷 [Cháy lớn tại kho xưởng chứa sơn ở Đông Anh &lpar;Hà Nội&rpar;, khói cuộn cao hàng chục mét](https://vov.vn/xa-hoi/chay-lon-tai-kho-xuong-chua-son-o-dong-anh-ha-noi-khoi-cuon-cao-hang-chuc-met-post1286986.vov) - 14:03 25/04/2026
+- 🎡 [Học không chỉ để xin việc](https://vov.vn/xa-hoi/hoc-khong-chi-de-xin-viec-post1286973.vov) - 12:09 25/04/2026
+- 🚀 [Tổng Bí thư, Chủ tịch nước: Đà Nẵng phải đổi mới tư duy, mô hình tăng trưởng](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-da-nang-phai-doi-moi-tu-duy-mo-hinh-tang-truong-post1286928.vov) - 09:31 25/04/2026
+- 🔥 [Cựu quan chức Mỹ: Iran “rất yếu”, Washington cần cứng rắn trong đàm phán](https://vov.vn/the-gioi/cuu-quan-chuc-my-iran-rat-yeu-washington-can-cung-ran-trong-dam-phan-post1286921.vov) - 09:28 25/04/2026
+- 🌋 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
+- 🕴 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
+- 🥰 [Thí điểm siết xe máy vào lõi phố cổ: Người dân nói gì?](https://vov.vn/xa-hoi/thi-diem-siet-xe-may-vao-loi-pho-co-nguoi-dan-noi-gi-post1286831.vov) - 05:08 25/04/2026
+- 🧐 [Đường phố Hà Nội thông thoáng trong ngày đầu nghỉ lễ Giỗ Tổ Hùng Vương](https://vov.vn/xa-hoi/duong-pho-ha-noi-thong-thoang-trong-ngay-dau-nghi-le-gio-to-hung-vuong-post1286832.vov) - 05:07 25/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
