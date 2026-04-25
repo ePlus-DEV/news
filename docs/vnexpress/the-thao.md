@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [200 nhân sự Carlsberg Việt Nam chinh phục VnExpress Marathon Huế 2026](https://vnexpress.net/200-nhan-su-carlsberg-viet-nam-chinh-phuc-vnexpress-marathon-hue-2026-5066860.html) - 12:30 24/04/2026
-- 🦩 [Việt Nam 1-0 Malaysia &lpar;H1&rpar;: Bàn thắng sớm](https://vnexpress.net/viet-nam-malaysia-di-vao-lich-su-dong-nam-a-5066862.html) - 11:51 24/04/2026
-- 🧰 [&#39;Bóng hồng&#39; nhảy xa giành HC vàng châu Á](https://vnexpress.net/bong-hong-nhay-xa-gianh-hc-vang-chau-a-5066633.html) - 07:02 24/04/2026
-- 🤗 [Nỗ lực bất thành của các cua-rơ Công an TP HCM](https://vnexpress.net/no-luc-bat-thanh-cua-cac-cua-ro-cong-an-tp-hcm-5066648.html) - 06:58 24/04/2026
-- 🥳 [Malaysia quyết &#39;phục thù&#39; Việt Nam ở chung kết U17 Đông Nam Á](https://vnexpress.net/malaysia-quyet-phuc-thu-viet-nam-o-chung-ket-u17-dong-nam-a-5066658.html) - 05:49 24/04/2026
-- 🦣 [Vì sao Chelsea sớm sa thải Rosenior?](https://vnexpress.net/vi-sao-chelsea-som-sa-thai-rosenior-5066041.html) - 05:00 24/04/2026
-- 🌜 [Những nỗi niềm bóng đá Italy trong mắt Buffon](https://vnexpress.net/nhung-noi-niem-bong-da-italy-trong-mat-buffon-5066111.html) - 04:32 24/04/2026
-- 🫶 [Axelsen và hành trình thay đổi định kiến trong cầu lông](https://vnexpress.net/axelsen-va-hanh-trinh-thay-doi-dinh-kien-trong-cau-long-5066047.html) - 03:25 24/04/2026
-- 🌜 [Vé xem chung kết World Cup 2026 được rao giá 2,3 triệu USD](https://vnexpress.net/ve-xem-chung-ket-world-cup-2026-duoc-rao-gia-2-3-trieu-usd-5066462.html) - 02:25 24/04/2026
-- 😺 [Mbappe &#39;thích&#39; tin đồn Mourinho trở lại Real](https://vnexpress.net/mbappe-thich-tin-don-mourinho-tro-lai-real-5066442.html) - 23:49 23/04/2026
+- 🪜 [HLV Flick: &#39;Yamal cần rút ra bài học từ chấn thương&#39;](https://vnexpress.net/hlv-flick-yamal-can-rut-ra-bai-hoc-tu-chan-thuong-5066937.html) - 06:26 25/04/2026
+- 🦩 [Cầu thủ kỳ thị Vinicius nguy cơ nghỉ World Cup 2026](https://vnexpress.net/cau-thu-ky-thi-vinicius-nguy-co-nghi-world-cup-2026-5066955.html) - 06:12 25/04/2026
+- 🧰 [HLV 33 tuổi có thể chặn đứng giấc mơ ăn ba của Man City](https://vnexpress.net/hlv-33-tuoi-co-the-chan-dung-giac-mo-an-ba-cua-man-city-5066884.html) - 06:00 25/04/2026
+- 🤗 [Doku: &#39;Cải thiện khâu ghi bàn, tôi sẽ là tiền đạo cánh hay nhất&#39;](https://vnexpress.net/doku-cai-thien-khau-ghi-ban-toi-se-la-tien-dao-canh-hay-nhat-5066875.html) - 05:00 25/04/2026
+- 🥳 [Mbappe dính chấn thương trước World Cup](https://vnexpress.net/mbappe-dinh-chan-thuong-truoc-world-cup-5066935.html) - 04:09 25/04/2026
+- 🦣 [Báo AS: &#39;Real giờ cứ như gánh xiếc rong&#39;](https://vnexpress.net/bao-as-real-gio-cu-nhu-ganh-xiec-rong-5066943.html) - 03:58 25/04/2026
+- 🌜 [Toàn đội Barca ăn mừng khi xem trận Real bị cầm hòa](https://vnexpress.net/toan-doi-barca-an-mung-khi-xem-tran-real-bi-cam-hoa-5066950.html) - 03:24 25/04/2026
+- 🫶 [Roy Keane khơi lại mối thù với bố Haaland](https://vnexpress.net/roy-keane-khoi-lai-moi-thu-voi-bo-haaland-5066923.html) - 01:07 25/04/2026
+- 🌜 [HLV Real chê trọng tài không hiểu gì về bóng đá](https://vnexpress.net/hlv-real-che-trong-tai-khong-hieu-gi-ve-bong-da-5066924.html) - 00:47 25/04/2026
+- 😺 [Arteta: &#39;Tâm lý quan trọng hơn chiến thuật ở 5 vòng cuối&#39;](https://vnexpress.net/arteta-tam-ly-quan-trong-hon-chien-thuat-o-5-vong-cuoi-5066918.html) - 23:39 24/04/2026
+- 👍 [Bị cầm hòa, Real gần hết hy vọng đua La Liga](https://vnexpress.net/bi-cam-hoa-real-gan-het-hy-vong-dua-la-liga-5066917.html) - 23:33 24/04/2026
+- 🐵 [Alcaraz không dự Roland Garros 2026](https://vnexpress.net/alcaraz-khong-du-roland-garros-2026-5066913.html) - 20:56 24/04/2026
+- 💫 [HLV Roland: &#39;U17 Việt Nam tạo ra bản sắc riêng&#39;](https://vnexpress.net/hlv-roland-u17-viet-nam-tao-ra-ban-sac-rieng-5066907.html) - 17:11 24/04/2026
+- 🦆 [Chế độ ăn uống của Ronaldo đặc biệt thế nào](https://vnexpress.net/che-do-an-uong-cua-ronaldo-dac-biet-the-nao-5066871.html) - 17:00 24/04/2026
+- 🙉 [Báo Malaysia: &#39;Việt Nam quá mạnh&#39;](https://vnexpress.net/bao-malaysia-viet-nam-qua-manh-5066906.html) - 16:20 24/04/2026
+- 📝 [Văn Quyết: &#39;Ninh Bình có 3 Hoàng Đức cũng vậy thôi&#39;](https://vnexpress.net/van-quyet-ninh-binh-co-3-hoang-duc-cung-vay-thoi-5066885.html) - 14:14 24/04/2026
+- 💯 [Hà Nội FC hạ Ninh Bình để áp sát top 3 V-League](https://vnexpress.net/ha-noi-fc-ha-ninh-binh-de-ap-sat-top-3-v-league-5066867.html) - 13:39 24/04/2026
+- 🌈 [200 nhân sự Carlsberg Việt Nam chinh phục VnExpress Marathon Huế 2026](https://vnexpress.net/200-nhan-su-carlsberg-viet-nam-chinh-phuc-vnexpress-marathon-hue-2026-5066860.html) - 12:30 24/04/2026
+- 🦩 [Việt Nam hạ Malaysia, lập kỷ lục vô địch U17 Đông Nam Á](https://vnexpress.net/ket-qua-u17-viet-nam-vs-malaysia-5066862-tong-thuat.html) - 11:51 24/04/2026
+- 🐲 [&#39;Bóng hồng&#39; nhảy xa giành HC vàng châu Á](https://vnexpress.net/bong-hong-nhay-xa-gianh-hc-vang-chau-a-5066633.html) - 07:02 24/04/2026
+- 🌁 [Nỗ lực bất thành của các cua-rơ Công an TP HCM](https://vnexpress.net/no-luc-bat-thanh-cua-cac-cua-ro-cong-an-tp-hcm-5066648.html) - 06:58 24/04/2026
+- 💯 [Malaysia quyết &#39;phục thù&#39; Việt Nam ở chung kết U17 Đông Nam Á](https://vnexpress.net/malaysia-quyet-phuc-thu-viet-nam-o-chung-ket-u17-dong-nam-a-5066658.html) - 05:49 24/04/2026
+- 🌝 [Vì sao Chelsea sớm sa thải Rosenior?](https://vnexpress.net/vi-sao-chelsea-som-sa-thai-rosenior-5066041.html) - 05:00 24/04/2026
+- 🤖 [Những nỗi niềm bóng đá Italy trong mắt Buffon](https://vnexpress.net/nhung-noi-niem-bong-da-italy-trong-mat-buffon-5066111.html) - 04:32 24/04/2026
+- 🕯 [Axelsen và hành trình thay đổi định kiến trong cầu lông](https://vnexpress.net/axelsen-va-hanh-trinh-thay-doi-dinh-kien-trong-cau-long-5066047.html) - 03:25 24/04/2026
+- 🧰 [Vé xem chung kết World Cup 2026 được rao giá 2,3 triệu USD](https://vnexpress.net/ve-xem-chung-ket-world-cup-2026-duoc-rao-gia-2-3-trieu-usd-5066462.html) - 02:25 24/04/2026
+- 🥳 [Mbappe &#39;thích&#39; tin đồn Mourinho trở lại Real](https://vnexpress.net/mbappe-thich-tin-don-mourinho-tro-lai-real-5066442.html) - 23:49 23/04/2026
 - 👍 [&#39;Bão chấn thương&#39; đe dọa World Cup](https://vnexpress.net/bao-chan-thuong-de-doa-world-cup-5066443.html) - 23:16 23/04/2026
-- 🐵 [Cựu tuyển thủ Italy mưu sinh với nghề tài xế Uber](https://vnexpress.net/cuu-tuyen-thu-italy-muu-sinh-voi-nghe-tai-xe-uber-5066446.html) - 23:12 23/04/2026
-- 💫 [Italy bị &#39;xúc phạm&#39; bởi đề xuất thay Iran dự World Cup 2026](https://vnexpress.net/italy-bi-xuc-pham-boi-de-xuat-thay-iran-du-world-cup-2026-5066405.html) - 17:00 23/04/2026
-- 🦆 [Sawe - từ 25 lần thử doping đến tham vọng kỷ lục thế giới](https://vnexpress.net/sawe-tu-25-lan-thu-doping-den-tham-vong-ky-luc-the-gioi-5066397.html) - 17:00 23/04/2026
-- 🙉 [Neville: &#39;Arsenal hưởng lợi từ chiến thắng tối thiểu của Man City&#39;](https://vnexpress.net/neville-arsenal-huong-loi-tu-chien-thang-toi-thieu-cua-man-city-5066048.html) - 17:00 23/04/2026
-- 📝 [Yamal nghỉ hết mùa giải](https://vnexpress.net/yamal-nghi-het-mua-giai-5066316.html) - 13:11 23/04/2026
-- 💯 [Ancelotti dự đoán nhà vô địch Champions League 2026](https://vnexpress.net/ancelotti-du-doan-nha-vo-dich-champions-league-2026-5065663.html) - 12:00 23/04/2026
-- 🌈 [HLV U17 Malaysia: &#39;Cầu thủ mạnh mẽ hơn sau khi thua Việt Nam 0-4&#39;](https://vnexpress.net/hlv-u17-malaysia-cau-thu-manh-me-hon-sau-khi-thua-viet-nam-0-4-5066313.html) - 09:32 23/04/2026
-- 🦩 [Thợ tóc làm lộ tin mật của Chelsea](https://vnexpress.net/tho-toc-lam-lo-tin-mat-cua-chelsea-5065625.html) - 07:44 23/04/2026
-- 🐲 [Kỳ thủ Khương Duy trước cơ hội bắt kịp Quang Liêm](https://vnexpress.net/ky-thu-khuong-duy-truoc-co-hoi-bat-kip-quang-liem-5066125.html) - 07:04 23/04/2026
-- 🌁 [Alcaraz: &#39;Tôi muốn đứng dậy mạnh mẽ hơn bao giờ hết&#39;](https://vnexpress.net/alcaraz-toi-muon-dung-day-manh-me-hon-bao-gio-het-5065982.html) - 06:00 23/04/2026
-- 💯 [Độ giàu có của trùm hệ thống web lậu bóng đá](https://vnexpress.net/do-giau-co-cua-trum-he-thong-web-lau-bong-da-5065990.html) - 05:13 23/04/2026
-- 🌝 [Chelsea gây khó hiểu khi sa thải HLV Rosenior sau 3 tháng](https://vnexpress.net/chelsea-gay-kho-hieu-khi-sa-thai-hlv-rosenior-sau-3-thang-5066081.html) - 04:50 23/04/2026
-- 🤖 [Pogba: &#39;Fernandes có thể tranh Quả bóng Vàng nếu khoác áo Man City&#39;](https://vnexpress.net/pogba-fernandes-co-the-tranh-qua-bong-vang-neu-khoac-ao-man-city-5065993.html) - 04:23 23/04/2026
-- 🕯 [Australia &#39;choáng váng&#39; khi thua Việt Nam ở U17 Đông Nam Á](https://vnexpress.net/australia-choang-vang-khi-thua-viet-nam-o-u17-dong-nam-a-5066076.html) - 03:42 23/04/2026
-- 🧰 [Trụ cột tuyển Đức lỡ hẹn World Cup 2026](https://vnexpress.net/tru-cot-tuyen-duc-lo-hen-world-cup-2026-5065975.html) - 02:47 23/04/2026
-- 🥳 [Đặc phái viên Mỹ muốn Italy thay Iran dự World Cup 2026](https://vnexpress.net/dac-phai-vien-my-muon-italy-thay-iran-du-world-cup-2026-5065988.html) - 01:56 23/04/2026
-- 👍 [Yamal chấn thương khi Barca tiến gần ngôi vương La Liga](https://vnexpress.net/yamal-chan-thuong-khi-barca-tien-gan-ngoi-vuong-la-liga-5065966.html) - 01:01 23/04/2026
-- 💪 [Australia thua Việt Nam nhiều nhất ở U17 Đông Nam Á](https://vnexpress.net/australia-thua-viet-nam-nhieu-nhat-o-u17-dong-nam-a-5065929.html) - 01:00 23/04/2026
-- 👹 [Guardiola hướng tới kết thúc hoàn hảo ở Ngoại hạng Anh](https://vnexpress.net/guardiola-huong-toi-ket-thuc-hoan-hao-o-ngoai-hang-anh-5065953.html) - 23:56 22/04/2026
-- 🧰 [Kane tiến sát danh hiệu thứ 4 cùng Bayern](https://vnexpress.net/kane-tien-sat-danh-hieu-thu-4-cung-bayern-5065946.html) - 23:03 22/04/2026
-- 🚀 [Man City chiếm đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/man-city-chiem-dinh-bang-ngoai-hang-anh-5065945.html) - 22:33 22/04/2026
-- 🎃 [Ronaldo im tiếng, Al Nassr vẫn vào chung kết Cup C2 châu Á](https://vnexpress.net/ronaldo-im-tieng-al-nassr-van-vao-chung-ket-cup-c2-chau-a-5065940.html) - 18:01 22/04/2026
-- 🧰 [HLV Roland: &#39;Sự kiên nhẫn giúp Việt Nam thắng ngược Australia&#39;](https://vnexpress.net/hlv-roland-su-kien-nhan-giup-viet-nam-thang-nguoc-australia-5065923.html) - 17:16 22/04/2026
-- 👀 [Bỏ mục tiêu cá nhân, dìu đối thủ kiệt sức về đích ở Boston Marathon](https://vnexpress.net/bo-muc-tieu-ca-nhan-diu-doi-thu-kiet-suc-ve-dich-o-boston-marathon-5065875.html) - 17:00 22/04/2026
-- 🌜 [Chelsea sa thải HLV Rosenior chỉ sau ba tháng](https://vnexpress.net/chelsea-sa-thai-hlv-rosenior-chi-sau-ba-thang-5065935.html) - 16:41 22/04/2026
-- 🫶 [Việt Nam thắng ngược Australia để vào chung kết U17 Đông Nam Á](https://vnexpress.net/viet-nam-thang-nguoc-australia-de-vao-chung-ket-u17-dong-nam-a-5065893.html) - 14:32 22/04/2026
-- 🦄 [Đường dây mại dâm phục vụ gần 50 cầu thủ Serie A](https://vnexpress.net/duong-day-mai-dam-phuc-vu-gan-50-cau-thu-serie-a-5065880.html) - 12:09 22/04/2026
-- 🥳 [Ninh Bình chi lót tay khủng mời HLV Chu Đình Nghiêm](https://vnexpress.net/ninh-binh-chi-lot-tay-khung-moi-hlv-chu-dinh-nghiem-5065821.html) - 09:36 22/04/2026
-- 🐲 [Hamilton và Kardashian tình tứ trên biển](https://vnexpress.net/hamilton-va-kardashian-tinh-tu-tren-bien-5065771.html) - 09:00 22/04/2026
-- 🧑‍🏫 [VnExpress Marathon Green Paradise Cần Giờ bắn pháo hoa đón 5.000 runner](https://vnexpress.net/vnexpress-marathon-can-gio-ban-phao-hoa-don-runner-5058362.html) - 09:00 22/04/2026
-- 🤔 [Liệu Tottenham sẽ xuống hạng?](https://vnexpress.net/lieu-tottenham-se-xuong-hang-5065420.html) - 08:14 22/04/2026
-- 😺 [Lão tướng Trịnh Đức Tâm thắng chặng ở giải xe đạp xuyên Việt](https://vnexpress.net/lao-tuong-trinh-duc-tam-thang-chang-o-giai-xe-dap-xuyen-viet-5065702.html) - 07:50 22/04/2026
-- 💪 [Guardiola đáp trả Rooney, bảo vệ màn ăn mừng của Man City](https://vnexpress.net/guardiola-dap-tra-rooney-bao-ve-man-an-mung-cua-man-city-5065655.html) - 07:22 22/04/2026
-- 💼 [Sai phạm hy hữu khiến cuộc đua đảo chiều ở giải Qatar](https://vnexpress.net/sai-pham-hy-huu-khien-cuoc-dua-dao-chieu-o-giai-qatar-5065566.html) - 05:07 22/04/2026
-- 🕴 [LIV Golf trước ngã rẽ sinh tử](https://vnexpress.net/liv-golf-truoc-nga-re-sinh-tu-5065272.html) - 05:00 22/04/2026
-- 🕯 [Những cách gian lận kỳ quặc trong cờ vua](https://vnexpress.net/nhung-cach-gian-lan-ky-quac-trong-co-vua-5065309.html) - 04:00 22/04/2026
-- 📝 [HLV Rosenior không còn bênh vực cầu thủ Chelsea](https://vnexpress.net/hlv-rosenior-khong-con-benh-vuc-cau-thu-chelsea-5065495.html) - 03:43 22/04/2026
-- 🧐 [Con gái cựu Tổng thống Mỹ Clinton đạt sub3:41 tại Boston Marathon](https://vnexpress.net/con-gai-cuu-tong-thong-my-clinton-dat-sub3-41-tai-boston-marathon-5065537.html) - 03:36 22/04/2026
-- 🙉 [Giải chạy trực tuyến NAB Vietnam Virtual Race ra mắt trên vRace](https://vnexpress.net/giai-chay-truc-tuyen-nab-vietnam-virtual-race-ra-mat-tren-vrace-5065458.html) - 03:00 22/04/2026
-- 🏊 [Bi kịch của Leicester sau 10 năm vô địch Ngoại hạng Anh](https://vnexpress.net/bi-kich-cua-leicester-sau-10-nam-vo-dich-ngoai-hang-anh-5065465.html) - 02:10 22/04/2026
-- 🌊 [Tử huyệt của tuyển Anh trước thềm World Cup 2026](https://vnexpress.net/tu-huyet-cua-tuyen-anh-truoc-them-world-cup-2026-5065425.html) - 00:47 22/04/2026
-- 👨‍🏫 [Al Nassr cân nhắc cho con trai Ronaldo lên đội một](https://vnexpress.net/al-nassr-can-nhac-cho-con-trai-ronaldo-len-doi-mot-5065422.html) - 22:33 21/04/2026
-- 🥷 [Mbappe, Vinicius giúp Real tìm lại nụ cười](https://vnexpress.net/mbappe-vinicius-giup-real-tim-lai-nu-cuoi-5065424.html) - 22:25 21/04/2026
-- ⚗️ [Chelsea thảm bại dưới tay Brighton](https://vnexpress.net/chelsea-tham-bai-duoi-tay-brighton-5065423.html) - 20:53 21/04/2026
-- 🌮 [7 cuộc đua vô địch sít sao nhất lịch sử Ngoại hạng Anh](https://vnexpress.net/7-cuoc-dua-vo-dich-sit-sao-nhat-lich-su-ngoai-hang-anh-5065248.html) - 17:00 21/04/2026
-- 🤩 [VĐV marathon bị vượt qua khi mừng sớm trước vạch đích](https://vnexpress.net/vdv-marathon-bi-vuot-qua-khi-mung-som-truoc-vach-dich-5065366.html) - 17:00 21/04/2026
-- 🏊 [Nike hứng chỉ trích vì coi nhẹ người đi bộ trước Boston Marathon](https://vnexpress.net/nike-hung-chi-trich-vi-coi-nhe-nguoi-di-bo-truoc-boston-marathon-5065357.html) - 17:00 21/04/2026
-- 🐎 [HLV Australia đề cao Việt Nam trước bán kết U17 Đông Nam Á](https://vnexpress.net/hlv-australia-de-cao-viet-nam-truoc-ban-ket-u17-dong-nam-a-5065275.html) - 09:05 21/04/2026
-- 💫 [Valdano: &#39;Real như lốp xe bị đâm thủng&#39;](https://vnexpress.net/valdano-real-nhu-lop-xe-bi-dam-thung-5065218.html) - 08:09 21/04/2026<!-- vnexpress-the-thao:END -->
+- 💪 [Cựu tuyển thủ Italy mưu sinh với nghề tài xế Uber](https://vnexpress.net/cuu-tuyen-thu-italy-muu-sinh-voi-nghe-tai-xe-uber-5066446.html) - 23:12 23/04/2026
+- 👹 [Italy bị &#39;xúc phạm&#39; bởi đề xuất thay Iran dự World Cup 2026](https://vnexpress.net/italy-bi-xuc-pham-boi-de-xuat-thay-iran-du-world-cup-2026-5066405.html) - 17:00 23/04/2026
+- 🧰 [Sawe - từ 25 lần thử doping đến tham vọng kỷ lục thế giới](https://vnexpress.net/sawe-tu-25-lan-thu-doping-den-tham-vong-ky-luc-the-gioi-5066397.html) - 17:00 23/04/2026
+- 🚀 [Neville: &#39;Arsenal hưởng lợi từ chiến thắng tối thiểu của Man City&#39;](https://vnexpress.net/neville-arsenal-huong-loi-tu-chien-thang-toi-thieu-cua-man-city-5066048.html) - 17:00 23/04/2026
+- 🎃 [Yamal nghỉ hết mùa giải](https://vnexpress.net/yamal-nghi-het-mua-giai-5066316.html) - 13:11 23/04/2026
+- 🧰 [Ancelotti dự đoán nhà vô địch Champions League 2026](https://vnexpress.net/ancelotti-du-doan-nha-vo-dich-champions-league-2026-5065663.html) - 12:00 23/04/2026
+- 👀 [HLV U17 Malaysia: &#39;Cầu thủ mạnh mẽ hơn sau khi thua Việt Nam 0-4&#39;](https://vnexpress.net/hlv-u17-malaysia-cau-thu-manh-me-hon-sau-khi-thua-viet-nam-0-4-5066313.html) - 09:32 23/04/2026
+- 🌜 [Thợ tóc làm lộ tin mật của Chelsea](https://vnexpress.net/tho-toc-lam-lo-tin-mat-cua-chelsea-5065625.html) - 07:44 23/04/2026
+- 🫶 [Kỳ thủ Khương Duy trước cơ hội bắt kịp Quang Liêm](https://vnexpress.net/ky-thu-khuong-duy-truoc-co-hoi-bat-kip-quang-liem-5066125.html) - 07:04 23/04/2026
+- 🦄 [Alcaraz: &#39;Tôi muốn đứng dậy mạnh mẽ hơn bao giờ hết&#39;](https://vnexpress.net/alcaraz-toi-muon-dung-day-manh-me-hon-bao-gio-het-5065982.html) - 06:00 23/04/2026
+- 🥳 [Độ giàu có của trùm hệ thống web lậu bóng đá](https://vnexpress.net/do-giau-co-cua-trum-he-thong-web-lau-bong-da-5065990.html) - 05:13 23/04/2026
+- 🐲 [Chelsea gây khó hiểu khi sa thải HLV Rosenior sau 3 tháng](https://vnexpress.net/chelsea-gay-kho-hieu-khi-sa-thai-hlv-rosenior-sau-3-thang-5066081.html) - 04:50 23/04/2026
+- 🧑‍🏫 [Pogba: &#39;Fernandes có thể tranh Quả bóng Vàng nếu khoác áo Man City&#39;](https://vnexpress.net/pogba-fernandes-co-the-tranh-qua-bong-vang-neu-khoac-ao-man-city-5065993.html) - 04:23 23/04/2026
+- 🤔 [Australia &#39;choáng váng&#39; khi thua Việt Nam ở U17 Đông Nam Á](https://vnexpress.net/australia-choang-vang-khi-thua-viet-nam-o-u17-dong-nam-a-5066076.html) - 03:42 23/04/2026
+- 😺 [Trụ cột tuyển Đức lỡ hẹn World Cup 2026](https://vnexpress.net/tru-cot-tuyen-duc-lo-hen-world-cup-2026-5065975.html) - 02:47 23/04/2026
+- 💪 [Đặc phái viên Mỹ muốn Italy thay Iran dự World Cup 2026](https://vnexpress.net/dac-phai-vien-my-muon-italy-thay-iran-du-world-cup-2026-5065988.html) - 01:56 23/04/2026
+- 💼 [Yamal chấn thương khi Barca tiến gần ngôi vương La Liga](https://vnexpress.net/yamal-chan-thuong-khi-barca-tien-gan-ngoi-vuong-la-liga-5065966.html) - 01:01 23/04/2026
+- 🕴 [Australia thua Việt Nam nhiều nhất ở U17 Đông Nam Á](https://vnexpress.net/australia-thua-viet-nam-nhieu-nhat-o-u17-dong-nam-a-5065929.html) - 01:00 23/04/2026
+- 🕯 [Guardiola hướng tới kết thúc hoàn hảo ở Ngoại hạng Anh](https://vnexpress.net/guardiola-huong-toi-ket-thuc-hoan-hao-o-ngoai-hang-anh-5065953.html) - 23:56 22/04/2026
+- 📝 [Kane tiến sát danh hiệu thứ 4 cùng Bayern](https://vnexpress.net/kane-tien-sat-danh-hieu-thu-4-cung-bayern-5065946.html) - 23:03 22/04/2026
+- 🧐 [Man City chiếm đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/man-city-chiem-dinh-bang-ngoai-hang-anh-5065945.html) - 22:33 22/04/2026
+- 🙉 [Ronaldo im tiếng, Al Nassr vẫn vào chung kết Cup C2 châu Á](https://vnexpress.net/ronaldo-im-tieng-al-nassr-van-vao-chung-ket-cup-c2-chau-a-5065940.html) - 18:01 22/04/2026
+- 🏊 [HLV Roland: &#39;Sự kiên nhẫn giúp Việt Nam thắng ngược Australia&#39;](https://vnexpress.net/hlv-roland-su-kien-nhan-giup-viet-nam-thang-nguoc-australia-5065923.html) - 17:16 22/04/2026
+- 🌊 [Bỏ mục tiêu cá nhân, dìu đối thủ kiệt sức về đích ở Boston Marathon](https://vnexpress.net/bo-muc-tieu-ca-nhan-diu-doi-thu-kiet-suc-ve-dich-o-boston-marathon-5065875.html) - 17:00 22/04/2026
+- 👨‍🏫 [Chelsea sa thải HLV Rosenior chỉ sau ba tháng](https://vnexpress.net/chelsea-sa-thai-hlv-rosenior-chi-sau-ba-thang-5065935.html) - 16:41 22/04/2026
+- 🥷 [Việt Nam thắng ngược Australia để vào chung kết U17 Đông Nam Á](https://vnexpress.net/viet-nam-thang-nguoc-australia-de-vao-chung-ket-u17-dong-nam-a-5065893.html) - 14:32 22/04/2026
+- ⚗️ [Đường dây mại dâm phục vụ gần 50 cầu thủ Serie A](https://vnexpress.net/duong-day-mai-dam-phuc-vu-gan-50-cau-thu-serie-a-5065880.html) - 12:09 22/04/2026
+- 🌮 [Ninh Bình chi lót tay khủng mời HLV Chu Đình Nghiêm](https://vnexpress.net/ninh-binh-chi-lot-tay-khung-moi-hlv-chu-dinh-nghiem-5065821.html) - 09:36 22/04/2026
+- 🤩 [Hamilton và Kardashian tình tứ trên biển](https://vnexpress.net/hamilton-va-kardashian-tinh-tu-tren-bien-5065771.html) - 09:00 22/04/2026
+- 🏊 [Liệu Tottenham sẽ xuống hạng?](https://vnexpress.net/lieu-tottenham-se-xuong-hang-5065420.html) - 08:14 22/04/2026
+- 🐎 [LIV Golf trước ngã rẽ sinh tử](https://vnexpress.net/liv-golf-truoc-nga-re-sinh-tu-5065272.html) - 05:00 22/04/2026
+- 💫 [Những cách gian lận kỳ quặc trong cờ vua](https://vnexpress.net/nhung-cach-gian-lan-ky-quac-trong-co-vua-5065309.html) - 04:00 22/04/2026<!-- vnexpress-the-thao:END -->
