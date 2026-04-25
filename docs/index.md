@@ -721,17 +721,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
-- 🕯 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
-- 🌊 [Ngoại trưởng Iran rời Pakistan, không đàm phán với Mỹ](https://vov.vn/the-gioi/ngoai-truong-iran-roi-pakistan-khong-dam-phan-voi-my-post1286995.vov) - 14:38 25/04/2026
-- 🥷 [Cháy lớn tại kho xưởng chứa sơn ở Đông Anh &lpar;Hà Nội&rpar;, khói cuộn cao hàng chục mét](https://vov.vn/xa-hoi/chay-lon-tai-kho-xuong-chua-son-o-dong-anh-ha-noi-khoi-cuon-cao-hang-chuc-met-post1286986.vov) - 14:03 25/04/2026
-- 🎡 [Học không chỉ để xin việc](https://vov.vn/xa-hoi/hoc-khong-chi-de-xin-viec-post1286973.vov) - 12:09 25/04/2026
-- 🚀 [Tổng Bí thư, Chủ tịch nước: Đà Nẵng phải đổi mới tư duy, mô hình tăng trưởng](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-da-nang-phai-doi-moi-tu-duy-mo-hinh-tang-truong-post1286928.vov) - 09:31 25/04/2026
-- 🔥 [Cựu quan chức Mỹ: Iran “rất yếu”, Washington cần cứng rắn trong đàm phán](https://vov.vn/the-gioi/cuu-quan-chuc-my-iran-rat-yeu-washington-can-cung-ran-trong-dam-phan-post1286921.vov) - 09:28 25/04/2026
-- 🌋 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
-- 🕴 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026
-- 🥰 [Thí điểm siết xe máy vào lõi phố cổ: Người dân nói gì?](https://vov.vn/xa-hoi/thi-diem-siet-xe-may-vao-loi-pho-co-nguoi-dan-noi-gi-post1286831.vov) - 05:08 25/04/2026
-- 🧐 [Đường phố Hà Nội thông thoáng trong ngày đầu nghỉ lễ Giỗ Tổ Hùng Vương](https://vov.vn/xa-hoi/duong-pho-ha-noi-thong-thoang-trong-ngay-dau-nghi-le-gio-to-hung-vuong-post1286832.vov) - 05:07 25/04/2026<!-- vov:END -->
+- 🌜 [Công an Hà Nội thông tin chính thức vụ cháy bãi chứa dầu thải ở xã Đông Anh](https://vov.vn/xa-hoi/cong-an-ha-noi-thong-tin-chinh-thuc-vu-chay-bai-chua-dau-thai-o-xa-dong-anh-post1287010.vov) - 22:20 25/04/2026
+- 🕯 [Giá xăng dầu hôm nay 26/4: Giá dầu Brent tăng vượt 105,33 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-264-gia-dau-brent-tang-vuot-10533-usdthung-post1286953.vov) - 22:00 25/04/2026
+- 🌊 [Giá vàng hôm nay 26/4: Vàng thế giới 4.708,8USD/oz, SJC tăng 800 nghìn đồng](https://vov.vn/thi-truong/gia-vang-hom-nay-264-vang-the-gioi-47088usdoz-sjc-tang-800-nghin-dong-post1286961.vov) - 22:00 25/04/2026
+- 🥷 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 26/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-264-post1286933.vov) - 22:00 25/04/2026
+- 🎡 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
+- 🚀 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
+- 🔥 [Ngoại trưởng Iran rời Pakistan, không đàm phán với Mỹ](https://vov.vn/the-gioi/ngoai-truong-iran-roi-pakistan-khong-dam-phan-voi-my-post1286995.vov) - 14:38 25/04/2026
+- 🌋 [Cháy lớn tại kho xưởng chứa sơn ở Đông Anh &lpar;Hà Nội&rpar;, khói cuộn cao hàng chục mét](https://vov.vn/xa-hoi/chay-lon-tai-kho-xuong-chua-son-o-dong-anh-ha-noi-khoi-cuon-cao-hang-chuc-met-post1286986.vov) - 14:03 25/04/2026
+- 🕴 [Học không chỉ để xin việc](https://vov.vn/xa-hoi/hoc-khong-chi-de-xin-viec-post1286973.vov) - 12:09 25/04/2026
+- 🥰 [Tổng Bí thư, Chủ tịch nước: Đà Nẵng phải đổi mới tư duy, mô hình tăng trưởng](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-da-nang-phai-doi-moi-tu-duy-mo-hinh-tang-truong-post1286928.vov) - 09:31 25/04/2026
+- 🧐 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
