@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 27/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-274-post1287124.vov) - 22:00 26/04/2026
-- 🦍 [Hạ gục Leeds, Chelsea vào chung kết FA Cup gặp Man City](https://vov.vn/the-thao/ha-guc-leeds-chelsea-vao-chung-ket-fa-cup-gap-man-city-post1287071.vov) - 16:03 26/04/2026
+- 👍 [Ông Trump nói Iran có thể gọi điện nếu muốn đàm phán chấm dứt chiến tranh](https://vov.vn/the-gioi/ong-trump-noi-iran-co-the-goi-dien-neu-muon-dam-phan-cham-dut-chien-tranh-post1287203.vov) - 22:53 26/04/2026
+- 🦍 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 27/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-274-post1287124.vov) - 22:00 26/04/2026
 - 🦏 [Chấn động tiệc Nhà Trắng: Thế giới lên án vụ nổ súng, cảnh báo bạo lực chính trị](https://vov.vn/the-gioi/chan-dong-tiec-nha-trang-the-gioi-len-an-vu-no-sung-canh-bao-bao-luc-chinh-tri-post1287171.vov) - 14:54 26/04/2026
 - 😎 [Xe chở đoàn du khách lao xuống vực sâu 100m ở Sơn La: Thêm một nạn nhân tử vong](https://vov.vn/xa-hoi/xe-cho-doan-du-khach-lao-xuong-vuc-sau-100m-o-son-la-them-mot-nan-nhan-tu-vong-post1287174.vov) - 14:22 26/04/2026
 - 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm thắp hương tưởng nhớ các lãnh đạo tiền bối](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-thap-huong-tuong-nho-cac-lanh-dao-tien-boi-post1287170.vov) - 14:12 26/04/2026
