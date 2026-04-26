@@ -711,17 +711,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Công an Hà Nội thông tin chính thức vụ cháy bãi chứa dầu thải ở xã Đông Anh](https://vov.vn/xa-hoi/cong-an-ha-noi-thong-tin-chinh-thuc-vu-chay-bai-chua-dau-thai-o-xa-dong-anh-post1287010.vov) - 22:20 25/04/2026
-- 🕯 [Giá xăng dầu hôm nay 26/4: Giá dầu Brent tăng vượt 105,33 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-264-gia-dau-brent-tang-vuot-10533-usdthung-post1286953.vov) - 22:00 25/04/2026
-- 🌊 [Giá vàng hôm nay 26/4: Vàng thế giới 4.708,8USD/oz, SJC tăng 800 nghìn đồng](https://vov.vn/thi-truong/gia-vang-hom-nay-264-vang-the-gioi-47088usdoz-sjc-tang-800-nghin-dong-post1286961.vov) - 22:00 25/04/2026
-- 🥷 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 26/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-264-post1286933.vov) - 22:00 25/04/2026
-- 🎡 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
-- 🚀 [Kết quả vòng 34 Ngoại hạng Anh 2025/2026: Arsenal trở lại ngôi đầu](https://vov.vn/the-thao/ket-qua-vong-34-ngoai-hang-anh-20252026-arsenal-tro-lai-ngoi-dau-post1286848.vov) - 18:32 25/04/2026
-- 🔥 [Ngoại trưởng Iran rời Pakistan, không đàm phán với Mỹ](https://vov.vn/the-gioi/ngoai-truong-iran-roi-pakistan-khong-dam-phan-voi-my-post1286995.vov) - 14:38 25/04/2026
-- 🌋 [Cháy lớn tại kho xưởng chứa sơn ở Đông Anh &lpar;Hà Nội&rpar;, khói cuộn cao hàng chục mét](https://vov.vn/xa-hoi/chay-lon-tai-kho-xuong-chua-son-o-dong-anh-ha-noi-khoi-cuon-cao-hang-chuc-met-post1286986.vov) - 14:03 25/04/2026
-- 🕴 [Học không chỉ để xin việc](https://vov.vn/xa-hoi/hoc-khong-chi-de-xin-viec-post1286973.vov) - 12:09 25/04/2026
-- 🥰 [Tổng Bí thư, Chủ tịch nước: Đà Nẵng phải đổi mới tư duy, mô hình tăng trưởng](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-da-nang-phai-doi-moi-tu-duy-mo-hinh-tang-truong-post1286928.vov) - 09:31 25/04/2026
-- 🧐 [Thủ tướng: Thúc đẩy văn hóa thực sự là &amp;quot;nền tảng tinh thần&amp;quot;, &amp;quot;nguồn lực nội sinh&amp;quot;](https://vov.vn/chinh-tri/thu-tuong-thuc-day-van-hoa-thuc-su-la-nen-tang-tinh-than-nguon-luc-noi-sinh-post1286903.vov) - 08:21 25/04/2026<!-- vov:END -->
+- 🌜 [Toàn cảnh vụ nổ súng ở tiệc báo giới Nhà Trắng nơi ông Trump tham dự](https://vov.vn/the-gioi/toan-canh-vu-no-sung-o-tiec-bao-gioi-nha-trang-noi-ong-trump-tham-du-post1287100.vov) - 09:46 26/04/2026
+- 🕯 [Tổng Bí thư, Chủ tịch nước Tô Lâm gửi điện mừng Quốc khánh Tanzania](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gui-dien-mung-quoc-khanh-tanzania-post1287112.vov) - 09:25 26/04/2026
+- 🌊 [Hội nghị cấp cao ASEAN 48 tập trung vào năng lượng, lương thực và bảo vệ người dân](https://vov.vn/the-gioi/hoi-nghi-cap-cao-asean-48-tap-trung-vao-nang-luong-luong-thuc-va-bao-ve-nguoi-dan-post1287111.vov) - 08:56 26/04/2026
+- 🥷 [Xe khách lao xuống ta luy âm ở Sơn La làm 9 người thương vong](https://vov.vn/xa-hoi/xe-khach-lao-xuong-ta-luy-am-o-son-la-lam-9-nguoi-thuong-vong-post1287103.vov) - 08:46 26/04/2026
+- 🎡 [Nghi phạm vụ nổ súng tại tiệc của Hiệp hội Phóng viên Nhà Trắng là ai?](https://vov.vn/the-gioi/nghi-pham-vu-no-sung-tai-tiec-cua-hiep-hoi-phong-vien-nha-trang-la-ai-post1287109.vov) - 08:44 26/04/2026
+- 🚀 [Cháy nhà trong đêm ở Lai Châu, 3 trẻ nhỏ tử vong thương tâm](https://vov.vn/xa-hoi/chay-nha-trong-dem-o-lai-chau-3-tre-nho-tu-vong-thuong-tam-post1287107.vov) - 08:44 26/04/2026
+- 🔥 [Hà Nội tìm ra “lời giải cho bài toán” cải tạo chung cư cũ?](https://vov.vn/kinh-te/ha-noi-tim-ra-loi-giai-cho-bai-toan-cai-tao-chung-cu-cu-post1287064.vov) - 06:51 26/04/2026
+- 🌋 [Hàng vạn người dân thành kính dâng hương trong ngày Giỗ Tổ Hùng Vương](https://vov.vn/van-hoa/hang-van-nguoi-dan-thanh-kinh-dang-huong-trong-ngay-gio-to-hung-vuong-post1287082.vov) - 06:36 26/04/2026
+- 🕴 [Kịp thời khống chế vụ cháy lớn tại Khu kinh tế Nhơn Hội, Gia Lai](https://vov.vn/xa-hoi/kip-thoi-khong-che-vu-chay-lon-tai-khu-kinh-te-nhon-hoi-gia-lai-post1287076.vov) - 05:26 26/04/2026
+- 🥰 [Toàn cảnh quốc tế sáng 26/4: Mỹ “bày binh bố trận” khắp Trung Đông](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-264-my-bay-binh-bo-tran-khap-trung-dong-post1287037.vov) - 02:08 26/04/2026
+- 🧐 [Khoảnh khắc Tổng thống Trump cùng phu nhân được mật vụ Mỹ đưa đến nơi an toàn](https://vov.vn/the-gioi/khoanh-khac-tong-thong-trump-cung-phu-nhan-duoc-mat-vu-my-dua-den-noi-an-toan-post1287036.vov) - 02:08 26/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
