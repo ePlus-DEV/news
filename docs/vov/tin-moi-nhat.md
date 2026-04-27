@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Ông Trump nói Iran có thể gọi điện nếu muốn đàm phán chấm dứt chiến tranh](https://vov.vn/the-gioi/ong-trump-noi-iran-co-the-goi-dien-neu-muon-dam-phan-cham-dut-chien-tranh-post1287203.vov) - 22:53 26/04/2026
-- 🦍 [Diễn biến chính tình hình chiến sự Nga - Ukraine ngày 27/4](https://vov.vn/the-gioi/dien-bien-chinh-tinh-hinh-chien-su-nga-ukraine-ngay-274-post1287124.vov) - 22:00 26/04/2026
-- 🦏 [Chấn động tiệc Nhà Trắng: Thế giới lên án vụ nổ súng, cảnh báo bạo lực chính trị](https://vov.vn/the-gioi/chan-dong-tiec-nha-trang-the-gioi-len-an-vu-no-sung-canh-bao-bao-luc-chinh-tri-post1287171.vov) - 14:54 26/04/2026
-- 😎 [Xe chở đoàn du khách lao xuống vực sâu 100m ở Sơn La: Thêm một nạn nhân tử vong](https://vov.vn/xa-hoi/xe-cho-doan-du-khach-lao-xuong-vuc-sau-100m-o-son-la-them-mot-nan-nhan-tu-vong-post1287174.vov) - 14:22 26/04/2026
-- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm thắp hương tưởng nhớ các lãnh đạo tiền bối](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-thap-huong-tuong-nho-cac-lanh-dao-tien-boi-post1287170.vov) - 14:12 26/04/2026
-- 🦩 [Thanh Hóa gỡ “nút thắt” nhân sự để vận hành hiệu quả chính quyền hai cấp](https://vov.vn/chinh-tri/thanh-hoa-go-nut-that-nhan-su-de-van-hanh-hieu-qua-chinh-quyen-hai-cap-post1286820.vov) - 13:03 26/04/2026
-- 💃 [Nguyên Chủ tịch nước Nguyễn Minh Triết dâng hương tưởng niệm các vua Hùng](https://vov.vn/xa-hoi/nguyen-chu-tich-nuoc-nguyen-minh-triet-dang-huong-tuong-niem-cac-vua-hung-post1287104.vov) - 11:27 26/04/2026
-- 🦣 [Bộ Công an đề xuất bổ sung hành vi &amp;quot;phát tán deepfake&amp;quot; vào tội Hình sự](https://vov.vn/phap-luat/bo-cong-an-de-xuat-bo-sung-hanh-vi-phat-tan-deepfake-vao-toi-hinh-su-post1287130.vov) - 10:53 26/04/2026
-- 👹 [Toàn cảnh vụ nổ súng ở tiệc báo giới Nhà Trắng nơi ông Trump tham dự](https://vov.vn/the-gioi/toan-canh-vu-no-sung-o-tiec-bao-gioi-nha-trang-noi-ong-trump-tham-du-post1287100.vov) - 09:46 26/04/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm gửi điện mừng Quốc khánh Tanzania](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gui-dien-mung-quoc-khanh-tanzania-post1287112.vov) - 09:25 26/04/2026
-- 😺 [Hội nghị cấp cao ASEAN 48 tập trung vào năng lượng, lương thực và bảo vệ người dân](https://vov.vn/the-gioi/hoi-nghi-cap-cao-asean-48-tap-trung-vao-nang-luong-luong-thuc-va-bao-ve-nguoi-dan-post1287111.vov) - 08:56 26/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Nắng nóng còn kéo dài, mùa mưa đến trễ ở Nam Bộ](https://vov.vn/xa-hoi/nang-nong-con-keo-dai-mua-mua-den-tre-o-nam-bo-post1287370.vov) - 15:25 27/04/2026
+- 🦍 [Tổng thống Lebanon đáp trả Hezbollah: Đưa đất nước vào chiến tranh là phản quốc](https://vov.vn/the-gioi/tong-thong-lebanon-dap-tra-hezbollah-dua-dat-nuoc-vao-chien-tranh-la-phan-quoc-post1287361.vov) - 14:23 27/04/2026
+- 🦏 [Nga cấm tự ý điều chuyển quân nhân lực lượng UAV](https://vov.vn/the-gioi/nga-cam-tu-y-dieu-chuyen-quan-nhan-luc-luong-uav-post1287346.vov) - 12:22 27/04/2026
+- 😎 [Người dân trở lại Hà Nội sau kỳ nghỉ Giỗ Tổ, nhiều cửa ngõ giao thông thuận lợi](https://vov.vn/xa-hoi/nguoi-dan-tro-lai-ha-noi-sau-ky-nghi-gio-to-nhieu-cua-ngo-giao-thong-thuan-loi-post1287320.vov) - 10:41 27/04/2026
+- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Không để vốn, đất đai, dự án, cơ hội bị ách tắc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-khong-de-von-dat-dai-du-an-co-hoi-bi-ach-tac-post1287302.vov) - 10:04 27/04/2026
+- 🦩 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Không để vốn, đất đai, dự án, cơ hội bị ách tắc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-khong-de-von-dat-dai-du-an-co-hoi-bi-ach-tac-post1287302.vov) - 10:04 27/04/2026
+- 💃 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm với công nhân ở TP. HCM](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-voi-cong-nhan-o-tp-hcm-post1287288.vov) - 08:49 27/04/2026
+- 🦣 [Cao điểm không có ngày lễ, Hà Nội tăng tốc giải phóng mặt bằng đường Vành đai 2,5](https://vov.vn/xa-hoi/cao-diem-khong-co-ngay-le-ha-noi-tang-toc-giai-phong-mat-bang-duong-vanh-dai-25-post1287273.vov) - 08:13 27/04/2026
+- 👹 [Toàn cảnh quốc tế trưa 27/4: Ông Trump hé lộ góc khuất tôn giáo trong vụ nổ súng](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-274-ong-trump-he-lo-goc-khuat-ton-giao-trong-vu-no-sung-post1287274.vov) - 07:22 27/04/2026
+- 🫶 [Tổng Bí thư, Chủ tịch nước lắng nghe tâm tư, nguyện vọng của công nhân lao động](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-lang-nghe-tam-tu-nguyen-vong-cua-cong-nhan-lao-dong-post1287266.vov) - 05:58 27/04/2026
+- 😺 [Tổng Bí thư, Chủ tịch nước Tô Lâm dâng hương tại Nghĩa trang Liệt sĩ ở Tây Ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-dang-huong-tai-nghia-trang-liet-si-o-tay-ninh-post1287249.vov) - 05:36 27/04/2026<!-- vov-tin-moi-nhat:END -->
