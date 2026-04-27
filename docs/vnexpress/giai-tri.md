@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hương Giang và dàn mỹ nhân ứng viên vương miện Miss Grand](https://vnexpress.net/huong-giang-va-dan-my-nhan-ung-vien-vuong-mien-miss-grand-5067360.html) - 12:19 26/04/2026
-- 💫 [Nhà sách Cá Chép dừng hoạt động](https://vnexpress.net/nha-sach-ca-chep-dung-hoat-dong-5067318.html) - 11:06 26/04/2026
-- 🌮 [Fan mặc áo dài, trang phục tốt nghiệp dự concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/fan-mac-ao-dai-trang-phuc-tot-nghiep-du-concert-anh-trai-vuot-ngan-chong-gai-5067379.html) - 10:37 26/04/2026
-- 🧠 [Lý Nhược Đồng gây sốt khi khoe thể lực](https://vnexpress.net/ly-nhuoc-dong-gay-sot-khi-khoe-the-luc-5067136.html) - 07:30 26/04/2026
-- 👨‍🏫 [&#39;Khó có Nguyễn Huy Thiệp thứ hai&#39;](https://vnexpress.net/kho-co-nguyen-huy-thiep-thu-hai-5067048.html) - 04:33 26/04/2026
-- ⚗️ [Dung mạo &#39;Hoa hậu đẹp nhất thế giới&#39; khi tái xuất](https://vnexpress.net/dung-mao-hoa-hau-dep-nhat-the-gioi-khi-tai-xuat-5067288.html) - 03:53 26/04/2026
-- 😎 [Thành Long từ chối &#39;Rush Hour 4&#39; vì cát-xê chỉ 8 triệu USD](https://vnexpress.net/thanh-long-tu-choi-rush-hour-4-vi-cat-xe-chi-8-trieu-usd-5067263.html) - 03:20 26/04/2026
-- 🫣 [Dàn ca sĩ gen Z khuấy động &#39;Sao concert&#39;](https://vnexpress.net/dan-ca-si-gen-z-khuay-dong-sao-concert-5067214.html) - 03:03 26/04/2026
-- 🪄 [Hậu trường Trang Pháp thi &#39;Đạp gió&#39; Trung Quốc](https://vnexpress.net/hau-truong-trang-phap-thi-dap-gio-trung-quoc-5067240.html) - 02:48 26/04/2026
-- 🤓 [Con gái 24 tuổi của diễn viên Trịnh Kim Chi](https://vnexpress.net/con-gai-24-tuoi-cua-dien-vien-trinh-kim-chi-5064964.html) - 01:24 26/04/2026
-- 🫶 [Hương Tràm: &#39;Sống chậm để học cách thấu hiểu&#39;](https://vnexpress.net/huong-tram-song-cham-de-hoc-cach-thau-hieu-5064758.html) - 17:00 25/04/2026
-- 🧑‍🏫 [Gu thời trang của &#39;Mỹ nhân đẹp nhất thế giới&#39;](https://vnexpress.net/gu-thoi-trang-cua-my-nhan-dep-nhat-the-gioi-5067053.html) - 14:00 25/04/2026
-- 🦄 [&#39;Michael&#39; - ông hoàng cô đơn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/michael-898) - 12:30 25/04/2026
-- 💫 [Kim Huyền ở thuê, sống một mình](https://vnexpress.net/kim-huyen-o-thue-song-mot-minh-5066994.html) - 09:04 25/04/2026
-- 🎊 [Bốn anh em nói bị Michael Jackson &#39;lạm dụng, tẩy não&#39;](https://vnexpress.net/bon-anh-em-noi-bi-michael-jackson-lam-dung-tay-nao-5066957.html) - 07:15 25/04/2026
-- 👹 [&#39;100 cái chân&#39; - sống là sự cho đi](https://vnexpress.net/100-cai-chan-song-la-su-cho-di-5067045.html) - 06:23 25/04/2026
-- 💻 [20 tranh vua Hàm Nghi vẽ lần đầu trưng bày ở Hà Nội](https://vnexpress.net/20-tranh-vua-ham-nghi-ve-lan-dau-trung-bay-o-ha-noi-5066990.html) - 06:10 25/04/2026
-- 🤡 [Hôn nhân &#39;thiên vương&#39; Quách Phú Thành và vợ kém 22 tuổi](https://vnexpress.net/hon-nhan-thien-vuong-quach-phu-thanh-va-vo-kem-22-tuoi-5066963.html) - 05:00 25/04/2026
-- 🥰 [Thanh Thảo, Quang Dũng - từ yêu thành bạn](https://vnexpress.net/thanh-thao-quang-dung-tu-yeu-thanh-ban-5066805.html) - 03:02 25/04/2026
-- 🚀 [9 kiểu váy mùa hè tôn dáng](https://vnexpress.net/9-kieu-vay-mua-he-ton-dang-5065316.html) - 02:05 25/04/2026
-- 📝 [Đời sống tình cảm của chị em nhà Kardashian](https://vnexpress.net/doi-song-tinh-cam-cua-chi-em-nha-kardashian-5065984.html) - 01:49 25/04/2026
-- 🐲 [Hoa khôi Thể thao Thu Hương làm mẫu áo dài](https://vnexpress.net/hoa-khoi-the-thao-thu-huong-lam-mau-ao-dai-5064811.html) - 01:41 25/04/2026
-- 🎃 [&#39;Địa đạo&#39; mở màn Đợt phim Kỷ niệm các ngày lễ lớn năm 2026](https://vnexpress.net/dia-dao-mo-man-dot-phim-ky-niem-cac-ngay-le-lon-nam-2026-5066898.html) - 17:07 24/04/2026
-- 🤠 [Trang phục của phu nhân Tổng thống Hàn Quốc khi ở Việt Nam](https://vnexpress.net/trang-phuc-cua-phu-nhan-tong-thong-han-quoc-khi-o-viet-nam-5066803.html) - 17:00 24/04/2026
-- 🎭 [Hòa Minzy, Cẩm Ly lần đầu song ca](https://vnexpress.net/hoa-minzy-cam-ly-lan-dau-song-ca-5066877.html) - 15:02 24/04/2026
-- 🧰 [Thời trang sánh đôi của hậu vệ Vũ Văn Thanh và bạn gái](https://vnexpress.net/thoi-trang-sanh-doi-cua-hau-ve-vu-van-thanh-va-ban-gai-5065410.html) - 12:00 24/04/2026
-- 🦍 [Vợ Bằng Cường viết ca khúc tặng chồng](https://vnexpress.net/vo-bang-cuong-viet-ca-khuc-tang-chong-5066669.html) - 09:48 24/04/2026
-- 🌝 [&#39;Bán khuôn mặt&#39; cho AI](https://vnexpress.net/ban-khuon-mat-cho-ai-5066674.html) - 09:07 24/04/2026
-- 🧑‍💻 [Video &#39;Trư Bát Giới&#39; Mã Đức Hoa chào khán giả Việt gây chú ý](https://vnexpress.net/video-tru-bat-gioi-ma-duc-hoa-chao-khan-gia-viet-gay-chu-y-5066593.html) - 07:58 24/04/2026
-- 🥸 [Phim về Michael Jackson &#39;thiếu chiều sâu&#39;](https://vnexpress.net/phim-ve-michael-jackson-thieu-chieu-sau-5066121.html) - 06:06 24/04/2026
-- 🔥 [Jennie diện đầm siêu thực bên dàn sao](https://vnexpress.net/jennie-dien-dam-sieu-thuc-ben-dan-sao-5066540.html) - 05:36 24/04/2026
-- 🐎 [Thủ tướng Singapore Lawrence Wong mê đọc sách](https://vnexpress.net/thu-tuong-singapore-lawrence-wong-me-doc-sach-5066483.html) - 05:34 24/04/2026
+- 🌏 [Lời ca khúc &#39;Người Việt mình thương nhau&#39; gây tranh luận](https://vnexpress.net/loi-ca-khuc-nguoi-viet-minh-thuong-nhau-gay-tranh-luan-5067620.html) - 17:00 27/04/2026
+- 💫 [Jennifer Lopez giữ dáng nhờ sự kỷ luật](https://vnexpress.net/jennifer-lopez-giu-dang-nho-su-ky-luat-5067611.html) - 14:42 27/04/2026
+- 🌮 [Bức Tường làm mới bài dân ca &#39;Inh lả ơi&#39;](https://vnexpress.net/buc-tuong-lam-moi-bai-dan-ca-inh-la-oi-5067572.html) - 09:30 27/04/2026
+- 🧠 [&#39;Bốn mùa Việt Nam&#39; - khơi nguồn yêu thương](https://vnexpress.net/bon-mua-viet-nam-khoi-nguon-yeu-thuong-5067207.html) - 07:38 27/04/2026
+- 👨‍🏫 [Sao nhí Thái Lan giao lưu khán giả phim &#39;Phí Phông&#39;](https://vnexpress.net/sao-nhi-thai-lan-giao-luu-khan-gia-phim-phi-phong-5067522.html) - 07:03 27/04/2026
+- ⚗️ [Bùi Lan Hương lần đầu làm concert giao lưu fan](https://vnexpress.net/bui-lan-huong-lan-dau-lam-concert-giao-luu-fan-5067486.html) - 06:13 27/04/2026
+- 😎 [Sao Hàn gây sốt với bộ ảnh &#39;Ngày hè Đà Nẵng&#39;](https://vnexpress.net/sao-han-gay-sot-voi-bo-anh-ngay-he-da-nang-5067500.html) - 05:06 27/04/2026
+- 🫣 [Khán giả xúc động xem concert cuối &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/khan-gia-xuc-dong-xem-concert-cuoi-anh-trai-vuot-ngan-chong-gai-5067487.html) - 03:36 27/04/2026
+- 🪄 [Phim về Michael Jackson thu hút khán giả quốc tế](https://vnexpress.net/phim-ve-michael-jackson-thu-hut-khan-gia-quoc-te-5067464.html) - 03:13 27/04/2026
+- 🤓 [Song Hye Kyo - ngôi sao quảng cáo](https://vnexpress.net/song-hye-kyo-ngoi-sao-quang-cao-5067469.html) - 03:09 27/04/2026
+- 🫶 [&#39;Bông hồng lai đẹp nhất Thái Lan&#39; dạo chơi TP HCM](https://vnexpress.net/bong-hong-lai-dep-nhat-thai-lan-dao-choi-tp-hcm-5067457.html) - 01:42 27/04/2026
+- 🧑‍🏫 [&#39;Đừng xem nhẹ những cuốn sách cổ tích&#39;](https://vnexpress.net/dung-xem-nhe-nhung-cuon-sach-co-tich-5067368.html) - 17:00 26/04/2026
+- 🦄 [Ốc Thanh Vân: &#39;Tôi từng stress vì một mình làm nội trợ ở Australia&#39;](https://vnexpress.net/oc-thanh-van-toi-tung-stress-vi-mot-minh-lam-noi-tro-o-australia-5066650.html) - 17:00 26/04/2026
+- 💫 [Liên Bỉnh Phát hát, nhảy cùng bạn gái](https://vnexpress.net/lien-binh-phat-hat-nhay-cung-ban-gai-5067437.html) - 16:38 26/04/2026
+- 🎊 [Hương Giang và dàn mỹ nhân ứng viên vương miện Miss Grand](https://vnexpress.net/huong-giang-va-dan-my-nhan-ung-vien-vuong-mien-miss-grand-5067360.html) - 12:19 26/04/2026
+- 👹 [Nhà sách Cá Chép dừng hoạt động](https://vnexpress.net/nha-sach-ca-chep-dung-hoat-dong-5067318.html) - 11:06 26/04/2026
+- 💻 [Fan mặc áo dài, trang phục tốt nghiệp dự concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/fan-mac-ao-dai-trang-phuc-tot-nghiep-du-concert-anh-trai-vuot-ngan-chong-gai-5067379.html) - 10:37 26/04/2026
+- 🤡 [Lý Nhược Đồng gây sốt khi khoe thể lực](https://vnexpress.net/ly-nhuoc-dong-gay-sot-khi-khoe-the-luc-5067136.html) - 07:30 26/04/2026
+- 🥰 [&#39;Khó có Nguyễn Huy Thiệp thứ hai&#39;](https://vnexpress.net/kho-co-nguyen-huy-thiep-thu-hai-5067048.html) - 04:33 26/04/2026
+- 🚀 [Dung mạo &#39;Hoa hậu đẹp nhất thế giới&#39; khi tái xuất](https://vnexpress.net/dung-mao-hoa-hau-dep-nhat-the-gioi-khi-tai-xuat-5067288.html) - 03:53 26/04/2026
+- 📝 [Thành Long từ chối &#39;Rush Hour 4&#39; vì cát-xê chỉ 8 triệu USD](https://vnexpress.net/thanh-long-tu-choi-rush-hour-4-vi-cat-xe-chi-8-trieu-usd-5067263.html) - 03:20 26/04/2026
+- 🐲 [Dàn ca sĩ gen Z khuấy động &#39;Sao concert&#39;](https://vnexpress.net/dan-ca-si-gen-z-khuay-dong-sao-concert-5067214.html) - 03:03 26/04/2026
+- 🎃 [Hậu trường Trang Pháp thi &#39;Đạp gió&#39; Trung Quốc](https://vnexpress.net/hau-truong-trang-phap-thi-dap-gio-trung-quoc-5067240.html) - 02:48 26/04/2026
+- 🤠 [Con gái 24 tuổi của diễn viên Trịnh Kim Chi](https://vnexpress.net/con-gai-24-tuoi-cua-dien-vien-trinh-kim-chi-5064964.html) - 01:24 26/04/2026
+- 🎭 [Hương Tràm: &#39;Sống chậm để học cách thấu hiểu&#39;](https://vnexpress.net/huong-tram-song-cham-de-hoc-cach-thau-hieu-5064758.html) - 17:00 25/04/2026
+- 🧰 [Gu thời trang của &#39;Mỹ nhân đẹp nhất thế giới&#39;](https://vnexpress.net/gu-thoi-trang-cua-my-nhan-dep-nhat-the-gioi-5067053.html) - 14:00 25/04/2026
+- 🦍 [&#39;Michael&#39; - ông hoàng cô đơn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/michael-898) - 12:30 25/04/2026
+- 🌝 [Kim Huyền ở thuê, sống một mình](https://vnexpress.net/kim-huyen-o-thue-song-mot-minh-5066994.html) - 09:04 25/04/2026
+- 🧑‍💻 [Bốn anh em nói bị Michael Jackson &#39;lạm dụng, tẩy não&#39;](https://vnexpress.net/bon-anh-em-noi-bi-michael-jackson-lam-dung-tay-nao-5066957.html) - 07:15 25/04/2026
+- 🥸 [&#39;100 cái chân&#39; - sống là sự cho đi](https://vnexpress.net/100-cai-chan-song-la-su-cho-di-5067045.html) - 06:23 25/04/2026
+- 🔥 [20 tranh vua Hàm Nghi vẽ lần đầu trưng bày ở Hà Nội](https://vnexpress.net/20-tranh-vua-ham-nghi-ve-lan-dau-trung-bay-o-ha-noi-5066990.html) - 06:10 25/04/2026
+- 🐎 [Hôn nhân &#39;thiên vương&#39; Quách Phú Thành và vợ kém 22 tuổi](https://vnexpress.net/hon-nhan-thien-vuong-quach-phu-thanh-va-vo-kem-22-tuoi-5066963.html) - 05:00 25/04/2026
+- 😎 [Thanh Thảo, Quang Dũng - từ yêu thành bạn](https://vnexpress.net/thanh-thao-quang-dung-tu-yeu-thanh-ban-5066805.html) - 03:02 25/04/2026
+- 🦄 [9 kiểu váy mùa hè tôn dáng](https://vnexpress.net/9-kieu-vay-mua-he-ton-dang-5065316.html) - 02:05 25/04/2026
+- 🌜 [Đời sống tình cảm của chị em nhà Kardashian](https://vnexpress.net/doi-song-tinh-cam-cua-chi-em-nha-kardashian-5065984.html) - 01:49 25/04/2026
+- 🚦 [Hoa khôi Thể thao Thu Hương làm mẫu áo dài](https://vnexpress.net/hoa-khoi-the-thao-thu-huong-lam-mau-ao-dai-5064811.html) - 01:41 25/04/2026
+- 🧐 [&#39;Địa đạo&#39; mở màn Đợt phim Kỷ niệm các ngày lễ lớn năm 2026](https://vnexpress.net/dia-dao-mo-man-dot-phim-ky-niem-cac-ngay-le-lon-nam-2026-5066898.html) - 17:07 24/04/2026
+- 🐵 [Trang phục của phu nhân Tổng thống Hàn Quốc khi ở Việt Nam](https://vnexpress.net/trang-phuc-cua-phu-nhan-tong-thong-han-quoc-khi-o-viet-nam-5066803.html) - 17:00 24/04/2026
+- ⚗️ [Hòa Minzy, Cẩm Ly lần đầu song ca](https://vnexpress.net/hoa-minzy-cam-ly-lan-dau-song-ca-5066877.html) - 15:02 24/04/2026
+- 👺 [Thời trang sánh đôi của hậu vệ Vũ Văn Thanh và bạn gái](https://vnexpress.net/thoi-trang-sanh-doi-cua-hau-ve-vu-van-thanh-va-ban-gai-5065410.html) - 12:00 24/04/2026
+- 🌊 [Vợ Bằng Cường viết ca khúc tặng chồng](https://vnexpress.net/vo-bang-cuong-viet-ca-khuc-tang-chong-5066669.html) - 09:48 24/04/2026
+- 🪜 [&#39;Bán khuôn mặt&#39; cho AI](https://vnexpress.net/ban-khuon-mat-cho-ai-5066674.html) - 09:07 24/04/2026
+- 🕴 [Video &#39;Trư Bát Giới&#39; Mã Đức Hoa chào khán giả Việt gây chú ý](https://vnexpress.net/video-tru-bat-gioi-ma-duc-hoa-chao-khan-gia-viet-gay-chu-y-5066593.html) - 07:58 24/04/2026
+- 💃 [Phim về Michael Jackson &#39;thiếu chiều sâu&#39;](https://vnexpress.net/phim-ve-michael-jackson-thieu-chieu-sau-5066121.html) - 06:06 24/04/2026
+- 🦄 [Jennie diện đầm siêu thực bên dàn sao](https://vnexpress.net/jennie-dien-dam-sieu-thuc-ben-dan-sao-5066540.html) - 05:36 24/04/2026
+- ⛽️ [Thủ tướng Singapore Lawrence Wong mê đọc sách](https://vnexpress.net/thu-tuong-singapore-lawrence-wong-me-doc-sach-5066483.html) - 05:34 24/04/2026
 - 😎 [buitruonglinh hòa giọng Double2T](https://vnexpress.net/buitruonglinh-hoa-giong-double2t-5066477.html) - 03:51 24/04/2026
-- 🦄 [Những &#39;Mỹ nhân đẹp nhất thế giới&#39; 10 năm qua](https://vnexpress.net/nhung-my-nhan-dep-nhat-the-gioi-10-nam-qua-5066156.html) - 03:47 24/04/2026
-- 🌜 [Hòa Minzy cùng bạn trai nghỉ dưỡng](https://vnexpress.net/hoa-minzy-cung-ban-trai-nghi-duong-5066480.html) - 03:19 24/04/2026
-- 🚦 [Harry Styles đính hôn](https://vnexpress.net/harry-styles-dinh-hon-5066469.html) - 02:25 24/04/2026
-- 🧐 [Sắc vóc Á hậu Trúc Diễm](https://vnexpress.net/sac-voc-a-hau-truc-diem-5066361.html) - 02:03 24/04/2026
-- 🐵 [Bản sắc thể thao quý tộc trên đồng hồ Piaget Polo Signature](https://vnexpress.net/ban-sac-the-thao-quy-toc-tren-dong-ho-piaget-polo-signature-5066435.html) - 02:00 24/04/2026
-- ⚗️ [Jaeger-LeCoultre ra mắt dòng đồng hồ Master Control Chronomètre](https://vnexpress.net/jaeger-lecoultre-ra-mat-dong-dong-ho-master-control-chronometre-5066432.html) - 01:00 24/04/2026
-- 👺 [Quang Minh: &#39;Tôi và bạn gái không cần đám cưới&#39;](https://vnexpress.net/quang-minh-toi-va-ban-gai-khong-can-dam-cuoi-5062931.html) - 17:00 23/04/2026
-- 🌊 [Khán giả Trung Quốc chỉ trích phim &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/khan-gia-trung-quoc-chi-trich-phim-the-devil-wears-prada-2-5066371.html) - 14:56 23/04/2026
-- 🪜 [Mỹ nam Philippines đóng MV cùng Vũ Thảo My](https://vnexpress.net/my-nam-philippines-dong-mv-cung-vu-thao-my-5065863.html) - 14:00 23/04/2026
-- 🕴 [Phu nhân Tổng thống Hàn Quốc tái hiện ẩm thực trong phim](https://vnexpress.net/phu-nhan-tong-thong-han-quoc-tai-hien-am-thuc-trong-phim-5066363.html) - 12:28 23/04/2026
-- 💃 [Phu nhân Tổng thống Hàn Quốc khen áo dài Việt](https://vnexpress.net/phu-nhan-tong-thong-han-quoc-khen-ao-dai-viet-5066367.html) - 11:56 23/04/2026
-- 🦄 [Kêu gọi hiến tặng sách, tư liệu về Côn Đảo](https://vnexpress.net/keu-goi-hien-tang-sach-tu-lieu-ve-con-dao-5066167.html) - 11:12 23/04/2026
-- ⛽️ [Trương Tri Trúc Diễm casting Victoria&#39;s Secret](https://vnexpress.net/truong-tri-truc-diem-casting-victoria-s-secret-5066259.html) - 09:11 23/04/2026
-- 😎 [Sở Văn hóa, Thể thao TP HCM: MV Jun Phạm có yếu tố phản cảm](https://vnexpress.net/so-van-hoa-the-thao-tp-hcm-mv-jun-pham-co-yeu-to-phan-cam-5066260.html) - 08:48 23/04/2026
-- 🌊 [Song Hye Kyo khoe sắc bên Lý Băng Băng](https://vnexpress.net/song-hye-kyo-khoe-sac-ben-ly-bang-bang-5066208.html) - 08:16 23/04/2026
-- 🐲 [7 nghệ sĩ khuấy đảo Coachella 2026](https://vnexpress.net/7-nghe-si-khuay-dao-coachella-2026-5064679.html) - 07:24 23/04/2026
-- 💂 [Anh Quân Idol ra mắt MV &#39;Việt Nam khúc kiêu hùng&#39;](https://vnexpress.net/anh-quan-idol-ra-mat-mv-viet-nam-khuc-kieu-hung-5066055.html) - 05:27 23/04/2026
-- 🙉 [Diễn viên &#39;phim tổng tài&#39; thất nghiệp hàng loạt](https://vnexpress.net/dien-vien-phim-tong-tai-that-nghiep-hang-loat-5065995.html) - 04:23 23/04/2026
-- 💪 [Vai người thứ ba trong &#39;Bóng ma hạnh phúc&#39; gây phản ứng](https://vnexpress.net/vai-nguoi-thu-ba-trong-bong-ma-hanh-phuc-gay-phan-ung-5065107.html) - 03:53 23/04/2026
-- 👍 [AI tạo MV từ tranh &#39;Đám cưới chuột&#39;](https://vnexpress.net/ai-tao-mv-tu-tranh-dam-cuoi-chuot-5065724.html) - 02:00 23/04/2026
-- 💪 [Cuộc đua chưa từng có của 5 phim Việt](https://vnexpress.net/cuoc-dua-chua-tung-co-cua-5-phim-viet-5059833.html) - 17:00 22/04/2026
-- 💄 [Cuộc đời Tổng thống Hàn Quốc Lee Jae Myung qua sách](https://vnexpress.net/cuoc-doi-tong-thong-han-quoc-lee-jae-myung-qua-sach-5064384.html) - 17:00 22/04/2026
-- 🦩 [Á hậu Khánh Như thi Miss International 2026](https://vnexpress.net/a-hau-khanh-nhu-thi-miss-international-2026-5065917.html) - 15:47 22/04/2026
-- 🥸 [Tam Triều Dâng tạo sức hút với váy áo cắt xẻ](https://vnexpress.net/tam-trieu-dang-tao-suc-hut-voi-vay-ao-cat-xe-5065780.html) - 14:30 22/04/2026
-- 🧰 [Trung Quân Idol xin lỗi sau khi bị tố cáo hành hung phụ nữ](https://vnexpress.net/trung-quan-idol-xin-loi-sau-khi-bi-to-cao-hanh-hung-phu-nu-5065361.html) - 08:58 22/04/2026
-- 💼 [Harper Beckham mặc hở eo dạo phố cùng bố](https://vnexpress.net/harper-beckham-mac-ho-eo-dao-pho-cung-bo-5065589.html) - 06:00 22/04/2026
-- 🧑‍💻 [Cuộc sống nghỉ hưu của nghệ sĩ hài Minh Vượng](https://vnexpress.net/cuoc-song-nghi-huu-cua-nghe-si-hai-minh-vuong-5065241.html) - 03:38 22/04/2026<!-- vnexpress-giai-tri:END -->
+- 🌊 [Những &#39;Mỹ nhân đẹp nhất thế giới&#39; 10 năm qua](https://vnexpress.net/nhung-my-nhan-dep-nhat-the-gioi-10-nam-qua-5066156.html) - 03:47 24/04/2026
+- 🐲 [Hòa Minzy cùng bạn trai nghỉ dưỡng](https://vnexpress.net/hoa-minzy-cung-ban-trai-nghi-duong-5066480.html) - 03:19 24/04/2026
+- 💂 [Harry Styles đính hôn](https://vnexpress.net/harry-styles-dinh-hon-5066469.html) - 02:25 24/04/2026
+- 🙉 [Sắc vóc Á hậu Trúc Diễm](https://vnexpress.net/sac-voc-a-hau-truc-diem-5066361.html) - 02:03 24/04/2026
+- 💪 [Bản sắc thể thao quý tộc trên đồng hồ Piaget Polo Signature](https://vnexpress.net/ban-sac-the-thao-quy-toc-tren-dong-ho-piaget-polo-signature-5066435.html) - 02:00 24/04/2026
+- 👍 [Jaeger-LeCoultre ra mắt dòng đồng hồ Master Control Chronomètre](https://vnexpress.net/jaeger-lecoultre-ra-mat-dong-dong-ho-master-control-chronometre-5066432.html) - 01:00 24/04/2026
+- 💪 [Quang Minh: &#39;Tôi và bạn gái không cần đám cưới&#39;](https://vnexpress.net/quang-minh-toi-va-ban-gai-khong-can-dam-cuoi-5062931.html) - 17:00 23/04/2026
+- 💄 [Khán giả Trung Quốc chỉ trích phim &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/khan-gia-trung-quoc-chi-trich-phim-the-devil-wears-prada-2-5066371.html) - 14:56 23/04/2026
+- 🦩 [Phu nhân Tổng thống Hàn Quốc tái hiện ẩm thực trong phim](https://vnexpress.net/phu-nhan-tong-thong-han-quoc-tai-hien-am-thuc-trong-phim-5066363.html) - 12:28 23/04/2026
+- 🥸 [Sở Văn hóa, Thể thao TP HCM: MV Jun Phạm có yếu tố phản cảm](https://vnexpress.net/so-van-hoa-the-thao-tp-hcm-mv-jun-pham-co-yeu-to-phan-cam-5066260.html) - 08:48 23/04/2026
+- 🧰 [Song Hye Kyo khoe sắc bên Lý Băng Băng](https://vnexpress.net/song-hye-kyo-khoe-sac-ben-ly-bang-bang-5066208.html) - 08:16 23/04/2026
+- 💼 [Diễn viên &#39;phim tổng tài&#39; thất nghiệp hàng loạt](https://vnexpress.net/dien-vien-phim-tong-tai-that-nghiep-hang-loat-5065995.html) - 04:23 23/04/2026
+- 🧑‍💻 [Vai người thứ ba trong &#39;Bóng ma hạnh phúc&#39; gây phản ứng](https://vnexpress.net/vai-nguoi-thu-ba-trong-bong-ma-hanh-phuc-gay-phan-ung-5065107.html) - 03:53 23/04/2026<!-- vnexpress-giai-tri:END -->
