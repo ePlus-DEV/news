@@ -711,17 +711,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm với công nhân ở TP. HCM](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-voi-cong-nhan-o-tp-hcm-post1287288.vov) - 08:49 27/04/2026
-- 🕯 [Cao điểm không có ngày lễ, Hà Nội tăng tốc giải phóng mặt bằng đường Vành đai 2,5](https://vov.vn/xa-hoi/cao-diem-khong-co-ngay-le-ha-noi-tang-toc-giai-phong-mat-bang-duong-vanh-dai-25-post1287273.vov) - 08:13 27/04/2026
-- 🌊 [Toàn cảnh quốc tế trưa 27/4: Ông Trump hé lộ góc khuất tôn giáo trong vụ nổ súng](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-274-ong-trump-he-lo-goc-khuat-ton-giao-trong-vu-no-sung-post1287274.vov) - 07:22 27/04/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước lắng nghe tâm tư, nguyện vọng của công nhân lao động](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-lang-nghe-tam-tu-nguyen-vong-cua-cong-nhan-lao-dong-post1287266.vov) - 05:58 27/04/2026
-- 🎡 [Tổng Bí thư, Chủ tịch nước lắng nghe tâm tư, nguyện vọng của công nhân lao động](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-lang-nghe-tam-tu-nguyen-vong-cua-cong-nhan-lao-dong-post1287266.vov) - 05:58 27/04/2026
-- 🚀 [Tổng Bí thư, Chủ tịch nước Tô Lâm dâng hương tại Nghĩa trang Liệt sĩ ở Tây Ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-dang-huong-tai-nghia-trang-liet-si-o-tay-ninh-post1287249.vov) - 05:36 27/04/2026
-- 🔥 [Lãnh đạo châu Âu đồng loạt lên án vụ nổ súng nhằm vào Tổng thống Mỹ Donald Trump](https://vov.vn/the-gioi/lanh-dao-chau-au-dong-loat-len-an-vu-no-sung-nham-vao-tong-thong-my-donald-trump-post1287255.vov) - 04:21 27/04/2026
-- 🌋 [Miễn thuế TNCN với nhiều khoản thu nhập từ 01/7/2026](https://vov.vn/kinh-te/mien-thue-tncn-voi-nhieu-khoan-thu-nhap-tu-0172026-post1287242.vov) - 03:23 27/04/2026
-- 🕴 [Kênh La Khê trước áp lực tiến độ: Cách nào gỡ các “nút thắt” tồn đọng?](https://vov.vn/xa-hoi/kenh-la-khe-truoc-ap-luc-tien-do-cach-nao-go-cac-nut-that-ton-dong-post1287144.vov) - 02:00 27/04/2026
-- 🥰 [Mãn nhãn chương trình nghệ thuật &amp;quot;Hương vị đất trời&amp;quot; - Lễ hội Bánh dân gian Nam Bộ](https://vov.vn/van-hoa/man-nhan-chuong-trinh-nghe-thuat-huong-vi-dat-troi-le-hoi-banh-dan-gian-nam-bo-post1287227.vov) - 01:59 27/04/2026
-- 🧐 [Cần có cơ chế thu hút đầu tư, xây dựng nhà ở xã hội](https://vov.vn/kinh-te/can-co-co-che-thu-hut-dau-tu-xay-dung-nha-o-xa-hoi-post1286720.vov) - 01:00 27/04/2026<!-- vov:END -->
+- 🌜 [Người dân trở lại Hà Nội sau kỳ nghỉ Giỗ Tổ, nhiều cửa ngõ giao thông thuận lợi](https://vov.vn/xa-hoi/nguoi-dan-tro-lai-ha-noi-sau-ky-nghi-gio-to-nhieu-cua-ngo-giao-thong-thuan-loi-post1287320.vov) - 10:41 27/04/2026
+- 🕯 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Không để vốn, đất đai, dự án, cơ hội bị ách tắc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-khong-de-von-dat-dai-du-an-co-hoi-bi-ach-tac-post1287302.vov) - 10:04 27/04/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Không để vốn, đất đai, dự án, cơ hội bị ách tắc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-khong-de-von-dat-dai-du-an-co-hoi-bi-ach-tac-post1287302.vov) - 10:04 27/04/2026
+- 🥷 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm với công nhân ở TP. HCM](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-voi-cong-nhan-o-tp-hcm-post1287288.vov) - 08:49 27/04/2026
+- 🎡 [Cao điểm không có ngày lễ, Hà Nội tăng tốc giải phóng mặt bằng đường Vành đai 2,5](https://vov.vn/xa-hoi/cao-diem-khong-co-ngay-le-ha-noi-tang-toc-giai-phong-mat-bang-duong-vanh-dai-25-post1287273.vov) - 08:13 27/04/2026
+- 🚀 [Toàn cảnh quốc tế trưa 27/4: Ông Trump hé lộ góc khuất tôn giáo trong vụ nổ súng](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-274-ong-trump-he-lo-goc-khuat-ton-giao-trong-vu-no-sung-post1287274.vov) - 07:22 27/04/2026
+- 🔥 [Tổng Bí thư, Chủ tịch nước lắng nghe tâm tư, nguyện vọng của công nhân lao động](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-lang-nghe-tam-tu-nguyen-vong-cua-cong-nhan-lao-dong-post1287266.vov) - 05:58 27/04/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm dâng hương tại Nghĩa trang Liệt sĩ ở Tây Ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-dang-huong-tai-nghia-trang-liet-si-o-tay-ninh-post1287249.vov) - 05:36 27/04/2026
+- 🕴 [Lãnh đạo châu Âu đồng loạt lên án vụ nổ súng nhằm vào Tổng thống Mỹ Donald Trump](https://vov.vn/the-gioi/lanh-dao-chau-au-dong-loat-len-an-vu-no-sung-nham-vao-tong-thong-my-donald-trump-post1287255.vov) - 04:21 27/04/2026
+- 🥰 [Miễn thuế TNCN với nhiều khoản thu nhập từ 01/7/2026](https://vov.vn/kinh-te/mien-thue-tncn-voi-nhieu-khoan-thu-nhap-tu-0172026-post1287242.vov) - 03:23 27/04/2026
+- 🧐 [Mãn nhãn chương trình nghệ thuật &amp;quot;Hương vị đất trời&amp;quot; - Lễ hội Bánh dân gian Nam Bộ](https://vov.vn/van-hoa/man-nhan-chuong-trinh-nghe-thuat-huong-vi-dat-troi-le-hoi-banh-dan-gian-nam-bo-post1287227.vov) - 01:59 27/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
