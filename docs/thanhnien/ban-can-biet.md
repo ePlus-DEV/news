@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- thanhnien-ban-can-biet:START -->
-- 🔥 [Regal Group kiến tạo biểu tượng sống Wellness Luxury to&amp;agrave;n cầu tại Sky Garden](https://thanhnien.vn/regal-group-kien-tao-bieu-tuong-song-wellness-luxury-toan-cau-tai-sky-garden-185260426112238847.htm) - 04:08 26/04/2026
+- 🔥 [Regal Group kiến tạo biểu tượng sống Wellness Luxury to&amp;agrave;n cầu tại Regal Comlex](https://thanhnien.vn/regal-group-kien-tao-bieu-tuong-song-wellness-luxury-toan-cau-tai-regal-comlex-185260426112238847.htm) - 04:08 26/04/2026
 - 💫 [Trải nghiệm bất động sản đa gi&amp;aacute;c quan với c&amp;ocirc;ng nghệ thực tế ảo của FUTA Land](https://thanhnien.vn/trai-nghiem-bat-dong-san-da-giac-quan-voi-cong-nghe-thuc-te-ao-cua-futa-land-185260426090901968.htm) - 02:02 26/04/2026
 - 👹 [18 năm Dr.Hải L&amp;ecirc; Med Group: Ki&amp;ecirc;n tr&amp;igrave; với chuẩn mực y khoa trong ng&amp;agrave;nh thẩm mỹ](https://thanhnien.vn/18-nam-drhai-le-med-group-kien-tri-voi-chuan-muc-y-khoa-trong-nganh-tham-my-185260425111557444.htm) - 04:04 25/04/2026
 - 👍 [HDBank khơi th&amp;ocirc;ng d&amp;ograve;ng vốn hệ sinh thai, t&amp;iacute;n chấp l&amp;ecirc;n đến 5 tỉ đồng](https://thanhnien.vn/hdbank-khoi-thong-dong-von-he-sinh-thai-tin-chap-len-den-5-ti-dong-185260423160015389.htm) - 00:00 24/04/2026
