@@ -4,53 +4,53 @@ sidebar_position: 7
 ---
 
 <!-- nld-kinh-te:START -->
-- 💡 [Chủ tịch TCBS hé lộ chiến lược với tài sản mã hóa và  sàn vàng](https://nld.com.vn/chu-tich-tcbs-he-lo-chien-luoc-voi-tai-san-ma-hoa-va-san-vang-196260425181045853.htm) - 21:30 25/04/2026
-- 🗽 [Ô tô con nhập khẩu từ Trung Quốc sụt giảm](https://nld.com.vn/o-to-con-nhap-khau-tu-trung-quoc-sut-giam-196260425203041619.htm) - 18:00 25/04/2026
-- 🎊 [Kiểm tra hàng loạt tiệm vàng ở TPHCM, nhiều cơ sở bị xử phạt](https://nld.com.vn/kiem-tra-hang-loat-tiem-vang-o-tphcm-nhieu-co-so-bi-xu-phat-196260425204521918.htm) - 14:05 25/04/2026
-- 🦩 [Giá điện buổi tối sẽ rất cao, người dùng điện nào cần chú ý?](https://nld.com.vn/gia-dien-buoi-toi-se-rat-cao-nguoi-dung-dien-nao-can-chu-y-19626042514462724.htm) - 08:07 25/04/2026
-- 🤓 [TPHCM trao giấy chứng nhận đầu tư cho 4 dự án công nghệ cao chiến lược](https://nld.com.vn/tphcm-trao-giay-chung-nhan-dau-tu-cho-4-du-an-cong-nghe-cao-chien-luoc-196260425123608585.htm) - 06:35 25/04/2026
-- 🐎 [U17 Việt Nam vô địch: Dấu ấn HLV Roland và “hệ sinh thái” CLB Hà Nội](https://nld.com.vn/u17-viet-nam-vo-dich-dau-an-hlv-roland-va-he-sinh-thai-clb-ha-noi-196260425115231813.htm) - 06:01 25/04/2026
-- 🧠 [Thể thao CAND đón lực đẩy mới từ hợp tác với T&amp;T Group](https://nld.com.vn/the-thao-cand-don-luc-day-moi-tu-hop-tac-voi-tt-group-196260425114147811.htm) - 06:01 25/04/2026
-- 🦣 [Giá sầu riêng có nơi chỉ còn 25.000 đồng/kg](https://nld.com.vn/gia-sau-rieng-co-noi-chi-con-25000-dong-kg-196260425093025486.htm) - 03:42 25/04/2026
-- 👨‍🏫 [Quảng Trị ký kết hợp tác với Tập đoàn Thái Bình Dương của Trung Quốc](https://nld.com.vn/quang-tri-ky-ket-hop-tac-voi-tap-doan-thai-binh-duong-cua-trung-quoc-196260425093003419.htm) - 02:34 25/04/2026
-- 🥰 [Người mua vàng dịp Thần Tài đang lỗ nặng](https://nld.com.vn/nguoi-mua-vang-dip-than-tai-dang-lo-nang-196260425091754483.htm) - 02:32 25/04/2026
-- 🌊 [Thông báo về thời điểm tính giá điện theo khung giờ mới](https://nld.com.vn/thong-bao-ve-thoi-diem-tinh-gia-dien-theo-khung-gio-moi-196260425084834218.htm) - 02:22 25/04/2026
-- 🧐 [Sân bay Tân Sơn Nhất phát thông báo quan trọng](https://nld.com.vn/san-bay-tan-son-nhat-phat-thong-bao-quan-trong-196260425083113553.htm) - 01:42 25/04/2026
-- 👍 [Giá heo hơi hôm nay, 25-4: Chợ đầu mối có giá mới](https://nld.com.vn/gia-heo-hoi-hom-nay-25-4-cho-dau-moi-co-gia-moi-196260425074821667.htm) - 01:29 25/04/2026
-- 🤗 [Napoly đưa cà phê Việt sang châu Âu, đặt mục tiêu 100 cửa hàng](https://nld.com.vn/napoly-dua-ca-phe-viet-sang-chau-au-dat-muc-tieu-100-cua-hang-196260424193949661.htm) - 00:52 25/04/2026
-- 🤖 [Đưa dịch vụ cho thuê căn hộ ngắn hạn vào khuôn khổ](https://nld.com.vn/dua-dich-vu-cho-thue-can-ho-ngan-han-vao-khuon-kho-196260424210641985.htm) - 00:32 25/04/2026
-- 💂 [Từ vụ trứng Ba Huân nợ bảo hiểm xã hội kéo dài: Thấy gì từ những &quot;thương hiệu quốc dân&quot;?](https://nld.com.vn/tu-vu-trung-ba-huan-no-bao-hiem-xa-hoi-keo-dai-thay-gi-tu-nhung-thuong-hieu-quoc-dan-19626042506213639.htm) - 00:22 25/04/2026
-- 🧰 [Giá cà phê hôm nay 25-4: Giảm nhẹ, một thương hiệu cà phê Việt mở chuỗi tại châu Âu](https://nld.com.vn/gia-ca-phe-hom-nay-25-4-giam-nhe-mot-thuong-hieu-ca-phe-viet-mo-chuoi-tai-chau-au-196260425065318184.htm) - 00:04 25/04/2026
-- 🌮 [Xổ số miền Nam: Sự trùng hợp “kỳ lạ” của 2 giải độc đắc vé số Vĩnh Long](https://nld.com.vn/xo-so-mien-nam-su-trung-hop-ky-la-cua-2-giai-doc-dac-ve-so-vinh-long-196260425062617476.htm) - 23:50 24/04/2026
-- 🦆 [Tiếc cho thương hiệu trứng sạch Ba Huân](https://nld.com.vn/tiec-cho-thuong-hieu-trung-sach-ba-huan-196260424210207674.htm) - 23:31 24/04/2026
-- 💫 [Chuyển 90% chuyến bay quốc tế từ sân bay Tân Sơn Nhất về Long Thành: Không để du khách phải tự xoay](https://nld.com.vn/chuyen-90-chuyen-bay-quoc-te-tu-san-bay-tan-son-nhat-ve-long-thanh-khong-de-du-khach-phai-tu-xoay-196260425060012171.htm) - 23:28 24/04/2026
-- 🎓 [Giá vàng hôm nay, 25-4: Bật tăng trở lại](https://nld.com.vn/gia-vang-hom-nay-25-4-bat-tang-tro-lai-196260425061749945.htm) - 23:26 24/04/2026
-- 🎡 [Đi một chuyến xe công nghệ, người dùng phải trả bao nhiêu loại phí?](https://nld.com.vn/di-mot-chuyen-xe-cong-nghe-nguoi-dung-phai-tra-bao-nhieu-loai-phi-196260424173320169.htm) - 22:30 24/04/2026
-- 💄 [Giá vé máy bay dịp lễ tăng từng ngày](https://nld.com.vn/gia-ve-may-bay-dip-le-tang-tung-ngay-196260424210400843.htm) - 21:30 24/04/2026
-- 🤔 [Phố đêm Chợ Lớn có gì hấp dẫn?](https://nld.com.vn/pho-dem-cho-lon-co-gi-hap-dan-196260424213408982.htm) - 15:01 24/04/2026
-- 💫 [Giá vàng miếng SJC và vàng nhẫn tiếp tục lao dốc](https://nld.com.vn/gia-vang-mieng-sjc-va-vang-nhan-tiep-tuc-lao-doc-196260424191053686.htm) - 12:51 24/04/2026
-- 🧰 [Xổ số Vietlott lại có vé Mega 6/45 trúng giải Jackpot](https://nld.com.vn/xo-so-vietlott-lai-co-ve-mega-6-45-trung-giai-jackpot-196260424192156205.htm) - 12:40 24/04/2026
-- 🦍 [V-Green và Mediamart triển khai 1.000 tủ đổi pin xe máy điện](https://nld.com.vn/v-green-va-mediamart-trien-khai-1000-tu-doi-pin-xe-may-dien-196260424151419083.htm) - 11:50 24/04/2026
-- 🤡 [Nông nghiệp số, nông nghiệp xanh vẫn &quot;khát&quot; dòng tiền](https://nld.com.vn/nong-nghiep-so-nong-nghiep-xanh-van-khat-dong-tien-196260424165432847.htm) - 11:06 24/04/2026
-- 😎 [TPBank đặt mục tiêu lợi nhuận 10.300 tỉ đồng, tăng vốn điều lệ lên hơn 32.000 tỉ đồng](https://nld.com.vn/tpbank-dat-muc-tieu-loi-nhuan-10300-ti-dong-tang-von-dieu-le-len-hon-32000-ti-dong-1962604241649597.htm) - 10:31 24/04/2026
-- ⚗️ [Vĩnh Long tháo gỡ khó khăn cho 4 dự án gần 6.000 tỉ đồng của ông Trầm Bê](https://nld.com.vn/vinh-long-thao-go-kho-khan-cho-4-du-an-gan-6000-ti-dong-cua-ong-tram-be-196260424163344033.htm) - 10:12 24/04/2026
-- 🎬 [Một ngân hàng lớn vừa giảm lãi suất cho vay mua nhà](https://nld.com.vn/mot-ngan-hang-lon-vua-giam-lai-suat-cho-vay-mua-nha-196260424161535368.htm) - 09:54 24/04/2026
-- 🧰 [T&amp;T Group và chiến lược bất động sản khác biệt: Chuẩn bị kỹ, thực hiện nhanh và tăng tốc hiệu quả](https://nld.com.vn/tt-group-va-chien-luoc-bat-dong-san-khac-biet-chuan-bi-ky-thuc-hien-nhanh-va-tang-toc-hieu-qua-196260424155822043.htm) - 09:04 24/04/2026
-- 🤗 [Chứng khoán 24-4: Điều gì xảy ra với cổ phiếu PC1?](https://nld.com.vn/chung-khoan-24-4-dieu-gi-xay-ra-voi-co-phieu-pc1-196260424152913785.htm) - 08:38 24/04/2026
-- 🎬 [Giá vé máy bay dịp 30-4 tăng từng ngày, có chặng vượt 5 triệu đồng](https://nld.com.vn/gia-ve-may-bay-dip-30-4-tang-tung-ngay-co-chang-vuot-5-trieu-dong-196260424143622976.htm) - 08:29 24/04/2026
-- 📝 [Bỏ ngưỡng doanh thu miễn thuế 500 triệu đồng: Giảm bớt gánh nặng về thuế cho 5 triệu hộ kinh doanh](https://nld.com.vn/bo-nguong-doanh-thu-mien-thue-500-trieu-dong-giam-bot-ganh-nang-ve-thue-cho-5-trieu-ho-kinh-doanh-196260424145431272.htm) - 08:27 24/04/2026
-- 🚦 [Tỉ phú Nguyễn Thị Phương Thảo giải thích vì sao HDBank không chia cổ tức bằng tiền mặt](https://nld.com.vn/ti-phu-nguyen-thi-phuong-thao-giai-thich-vi-sao-hdbank-khong-chia-co-tuc-bang-tien-mat-19626042414260985.htm) - 07:59 24/04/2026
-- 🧑‍💻 [Người bán hàng trên Shopee vừa nhận thông báo quan trọng](https://nld.com.vn/nguoi-ban-hang-tren-shopee-vua-nhan-thong-bao-quan-trong-19626042414065608.htm) - 07:25 24/04/2026
-- 👨‍🏫 [Chiều 24-4, nhiều người ở TPHCM và Vĩnh Long trúng xổ số miền Nam](https://nld.com.vn/chieu-24-4-nhieu-nguoi-o-tphcm-va-vinh-long-trung-xo-so-mien-nam-196260424133024592.htm) - 07:23 24/04/2026
-- 🤩 [Chủ tịch Masan kể về hành trình 7 năm tiếp quản hệ thống siêu thị Winmart](https://nld.com.vn/chu-tich-masan-ke-ve-hanh-trinh-7-nam-tiep-quan-he-thong-sieu-thi-winmart-196260424122032462.htm) - 05:50 24/04/2026
-- 🫣 [Ngân hàng thu giữ loạt xe ô tô điện của Mai Linh Lào Cai](https://nld.com.vn/ngan-hang-thu-giu-loat-xe-o-to-dien-cua-mai-linh-lao-cai-196260424114100912.htm) - 05:48 24/04/2026
-- 👀 [Đột kích điểm giết mổ vịt ở TPHCM lúc rạng sáng](https://nld.com.vn/dot-kich-diem-giet-mo-vit-o-tphcm-luc-rang-sang-196260424120121744.htm) - 05:40 24/04/2026
-- 🪄 [Đà Nẵng tìm được nhà thầu tháo dỡ Sân vận động Chi Lăng](https://nld.com.vn/da-nang-tim-duoc-nha-thau-thao-do-san-van-dong-chi-lang-196260424113549346.htm) - 05:18 24/04/2026
-- 🐲 [Giá bạc hôm nay 24 - 4: Trung Quốc nhập khẩu bạc cao nhất lịch sử](https://nld.com.vn/gia-bac-hom-nay-24-4-trung-quoc-nhap-khau-bac-cao-nhat-lich-su-196260424111133356.htm) - 04:29 24/04/2026
-- 🌝 [Chính thức bỏ ngưỡng doanh thu miễn thuế 500 triệu đồng với hộ kinh doanh](https://nld.com.vn/chinh-thuc-bo-nguong-doanh-thu-mien-thue-500-trieu-dong-voi-ho-kinh-doanh-196260424092719553.htm) - 03:47 24/04/2026
-- 🥸 [Quý I-2026, lợi nhuận ACB phục hồi mạnh, tăng trưởng bền vững](https://nld.com.vn/quy-i-2026-loi-nhuan-acb-phuc-hoi-manh-tang-truong-ben-vung-196260424101855289.htm) - 03:36 24/04/2026
-- 🦅 [Sáng 24-4, giá vàng giảm hơn 20 triệu đồng/lượng từ đỉnh](https://nld.com.vn/sang-24-4-gia-vang-giam-hon-20-trieu-dong-luong-tu-dinh-196260424094155644.htm) - 02:56 24/04/2026
-- 🐵 [Chứng khoán HD có Chủ tịch HĐQT mới, tăng tốc kế hoạch IPO](https://nld.com.vn/chung-khoan-hd-co-chu-tich-hdqt-moi-tang-toc-ke-hoach-ipo-196260424072557212.htm) - 01:57 24/04/2026
-- 🌏 [Acecook Việt Nam xây dự án Trung tâm nghiên cứu và phát triển mới](https://nld.com.vn/acecook-viet-nam-xay-du-an-trung-tam-nghien-cuu-va-phat-trien-moi-19626042408395752.htm) - 01:40 24/04/2026
-- 🎓 [Giá cà phê hôm nay 24-4: Đồng loạt tăng 3 con số](https://nld.com.vn/gia-ca-phe-hom-nay-24-4-dong-loat-tang-3-con-so-196260424074344519.htm) - 00:57 24/04/2026
-- 🤗 [Người dùng chú ý quy định mới về khung giờ tính giá điện](https://nld.com.vn/nguoi-dung-chu-y-quy-dinh-moi-ve-khung-gio-tinh-gia-dien-196260423212406458.htm) - 00:04 24/04/2026<!-- nld-kinh-te:END -->
+- 💡 [Giá vàng trong nước liên tục sụt giảm, vẫn cao hơn thế giới gần 20 triệu đồng/lượng](https://nld.com.vn/gia-vang-trong-nuoc-lien-tuc-sut-giam-van-cao-hon-the-gioi-gan-20-trieu-dong-luong-196260428091337569.htm) - 02:39 28/04/2026
+- 🗽 [Giá cà phê hôm nay 28-4: Đồng loạt giảm, cà phê đặc sản gây bất ngờ](https://nld.com.vn/gia-ca-phe-hom-nay-28-4-dong-loat-giam-ca-phe-dac-san-gay-bat-ngo-19626042807444777.htm) - 01:17 28/04/2026
+- 🎊 [TPHCM nâng tầm thu hút vốn đầu tư &lpar;*&rpar;: Cải cách mạnh mẽ, chủ động thử nghiệm chính sách mới](https://nld.com.vn/tp-hcm-nang-tam-thu-hut-von-dau-tu-cai-cach-manh-me-chu-dong-thu-nghiem-chinh-sach-moi-196260427204313306.htm) - 00:00 28/04/2026
+- 🦩 [Để không bị thiệt với thu nhập vãng lai chịu thuế](https://nld.com.vn/de-khong-bi-thiet-voi-thu-nhap-vang-lai-chiu-thue-196260427201711031.htm) - 00:00 28/04/2026
+- 🤓 [Giá vàng hôm nay, 28-4: Tiếp tục lao dốc](https://nld.com.vn/gia-vang-hom-nay-28-4-tiep-tuc-lao-doc-196260428055737668.htm) - 23:07 27/04/2026
+- 🐎 [Lãnh đạo Hòa Phát, FPT, Masan, HAGL... nói gì khi cổ đông chất vấn về giá cổ phiếu?](https://nld.com.vn/lanh-dao-hoa-phat-fpt-masan-hagl-noi-gi-khi-co-dong-chat-van-ve-gia-co-phieu-196260427133626052.htm) - 23:03 27/04/2026
+- 🧠 [Bán lẻ xăng dầu muốn cộng đủ chi phí vào giá bán](https://nld.com.vn/ban-le-xang-dau-muon-cong-du-chi-phi-vao-gia-ban-196260427201940041.htm) - 23:00 27/04/2026
+- 🦣 [Tăng ngưỡng thu nhập vãng lai chịu thuế lên 5 triệu đồng, vẫn chưa giảm áp lực cho lao động tự do?](https://nld.com.vn/tang-nguong-thu-nhap-vang-lai-chiu-thue-len-5-trieu-dong-van-chua-giam-ap-luc-cho-lao-dong-tu-do-196260427122151144.htm) - 07:14 27/04/2026
+- 👨‍🏫 [Bỏ 1,5 tỉ đồng mở quán decor đẹp, sai lầm này khiến chủ quán lỗ nặng](https://nld.com.vn/bo-15-ti-dong-mo-quan-decor-dep-sai-lam-nay-khien-chu-quan-lo-nang-196260427082047981.htm) - 01:34 27/04/2026
+- 🥰 [Giá heo hơi hôm nay, 27-4: Các vùng miền đều tăng](https://nld.com.vn/gia-heo-hoi-hom-nay-27-4-cac-vung-mien-deu-tang-196260427072646416.htm) - 00:51 27/04/2026
+- 🌊 [Giá vàng hôm nay 27-4: Đảo chiều sụt giảm](https://nld.com.vn/gia-vang-hom-nay-27-4-dao-chieu-sut-giam-196260427073133277.htm) - 00:45 27/04/2026
+- 🧐 [Giá cà phê hôm nay 27-4: Thái Lan tăng chi cho cà phê Việt](https://nld.com.vn/gia-ca-phe-hom-nay-27-4-thai-lan-tang-chi-cho-ca-phe-viet-196260427063651183.htm) - 00:40 27/04/2026
+- 👍 [TP HCM nâng tầm thu hút vốn đầu tư](https://nld.com.vn/tp-hcm-nang-tam-thu-hut-von-dau-tu-196260426205932168.htm) - 23:30 26/04/2026
+- 🤗 [&quot;Tin mừng&quot; về nhà ở xã hội](https://nld.com.vn/tin-mung-ve-nha-o-xa-hoi-196260426215339339.htm) - 23:21 26/04/2026
+- 🤖 [Gỡ rào cản cho điện mặt trời mái nhà tự dùng](https://nld.com.vn/go-rao-can-cho-dien-mat-troi-mai-nha-tu-dung-196260426193344959.htm) - 20:00 26/04/2026
+- 💂 [16 vé xổ số miền Nam trúng độc đắc đang được đại lý tìm kiếm](https://nld.com.vn/16-ve-xo-so-mien-nam-trung-doc-dac-dang-duoc-dai-ly-tim-kiem-196260426175023694.htm) - 10:55 26/04/2026
+- 🧰 [Nắng nóng đỉnh điểm, người có nhu cầu lắp điện mặt trời đừng bỏ qua điều này kẻo “tiền mất tật mang”](https://nld.com.vn/nang-nong-dinh-diem-nguoi-co-nhu-cau-lap-dien-mat-troi-dung-bo-qua-dieu-nay-keo-tien-mat-tat-mang-19626042617291191.htm) - 10:55 26/04/2026
+- 🌮 [Nâng tổng công suất cung cấp điện phục vụ các khu công nghiệp trọng điểm ở Đồng Nai](https://nld.com.vn/nang-tong-cong-suat-cung-cap-dien-phuc-vu-cac-khu-cong-nghiep-trong-diem-o-dong-nai-196260426170503829.htm) - 10:43 26/04/2026
+- 🦆 [Bất ngờ với diễn biến mới của thương hiệu đồ ăn vặt “Ăn Cùng Bà Tuyết”](https://nld.com.vn/bat-ngo-voi-dien-bien-moi-cua-thuong-hieu-do-an-vat-an-cung-ba-tuyet-196260426164422794.htm) - 09:59 26/04/2026
+- 💫 [Đại lý tiếc nuối vì bán trúng cùng lúc 2 giải khuyến khích xổ số miền Nam](https://nld.com.vn/dai-ly-tiec-nuoi-vi-ban-trung-cung-luc-2-giai-khuyen-khich-xo-so-mien-nam-196260426152127187.htm) - 08:22 26/04/2026
+- 🎓 [VIDEO: Tỉ phú Nguyễn Thị Phương Thảo kể chuyện hồi sinh ngân hàng Đông Á thành Vikki Bank](https://nld.com.vn/video-ti-phu-nguyen-thi-phuong-thao-ke-chuyen-hoi-sinh-ngan-hang-dong-a-thanh-vikki-bank-196260426144418544.htm) - 08:02 26/04/2026
+- 🎡 [Một công ty xổ số kiến thiết có thông báo “nóng” gửi các đại lý vé số](https://nld.com.vn/mot-cong-ty-xo-so-kien-thiet-co-thong-bao-nong-gui-cac-dai-ly-ve-so-196260426134038244.htm) - 06:48 26/04/2026
+- 💄 [Quán ăn không có nhà vệ sinh, khu rửa tay có thể bị phạt đến 10 triệu đồng: Nhiều chủ quán lo lắng](https://nld.com.vn/quan-an-khong-co-nha-ve-sinh-khu-rua-tay-co-the-bi-phat-den-10-trieu-dong-nhieu-chu-quan-lo-lang-196260426102509262.htm) - 05:10 26/04/2026
+- 🤔 [Giá bạc hôm nay 26-4: Thêm một &quot;ông lớn&quot; vàng lấn sân bán bạc giữa lúc thị trường ảm đạm](https://nld.com.vn/gia-bac-hom-nay-26-4-them-mot-ong-lon-vang-lan-san-ban-bac-giua-luc-thi-truong-am-dam-196260426105220658.htm) - 04:31 26/04/2026
+- 💫 [Lãnh đạo Công ty XSKT Vĩnh Long lên tiếng về sự trùng hợp của 2 giải độc đắc](https://nld.com.vn/lanh-dao-cong-ty-xskt-vinh-long-len-tieng-ve-su-trung-hop-cua-2-giai-doc-dac-196260426094314667.htm) - 02:54 26/04/2026
+- 🧰 [Giá vàng hôm nay 26-4: Khó đoán hơn bao giờ hết!](https://nld.com.vn/gia-vang-hom-nay-26-4-kho-doan-hon-bao-gio-het-196260426085702382.htm) - 02:07 26/04/2026
+- 🦍 [Giá căn hộ cho thuê ở TPHCM bất ngờ tăng mạnh](https://nld.com.vn/gia-can-ho-cho-thue-o-tphcm-bat-ngo-tang-manh-196260425223153773.htm) - 01:31 26/04/2026
+- 🤡 [Giá cà phê hôm nay 26-4: Khó chốt thời điểm mua bán](https://nld.com.vn/gia-ca-phe-hom-nay-26-4-kho-chot-thoi-diem-mua-ban-196260426070600868.htm) - 00:57 26/04/2026
+- 😎 [Quản lý chặt hơn chất lượng xe máy điện](https://nld.com.vn/quan-ly-chat-hon-chat-luong-xe-may-dien-196260425202916936.htm) - 00:49 26/04/2026
+- ⚗️ [Sáng 26-4, lộ diện nơi trúng 3 giải độc đắc xổ số miền Nam](https://nld.com.vn/sang-26-4-lo-dien-noi-trung-3-giai-doc-dac-xo-so-mien-nam-196260426071221838.htm) - 00:22 26/04/2026
+- 🎬 [Chủ tịch TCBS hé lộ chiến lược với tài sản mã hóa và  sàn vàng](https://nld.com.vn/chu-tich-tcbs-he-lo-chien-luoc-voi-tai-san-ma-hoa-va-san-vang-196260425181045853.htm) - 21:30 25/04/2026
+- 🧰 [Ô tô con nhập khẩu từ Trung Quốc sụt giảm](https://nld.com.vn/o-to-con-nhap-khau-tu-trung-quoc-sut-giam-196260425203041619.htm) - 18:00 25/04/2026
+- 🤗 [Kiểm tra hàng loạt tiệm vàng ở TPHCM, nhiều cơ sở bị xử phạt](https://nld.com.vn/kiem-tra-hang-loat-tiem-vang-o-tphcm-nhieu-co-so-bi-xu-phat-196260425204521918.htm) - 14:05 25/04/2026
+- 🎬 [Giá điện buổi tối sẽ rất cao, người dùng điện nào cần chú ý?](https://nld.com.vn/gia-dien-buoi-toi-se-rat-cao-nguoi-dung-dien-nao-can-chu-y-19626042514462724.htm) - 08:07 25/04/2026
+- 📝 [TPHCM trao giấy chứng nhận đầu tư cho 4 dự án công nghệ cao chiến lược](https://nld.com.vn/tphcm-trao-giay-chung-nhan-dau-tu-cho-4-du-an-cong-nghe-cao-chien-luoc-196260425123608585.htm) - 06:35 25/04/2026
+- 🚦 [U17 Việt Nam vô địch: Dấu ấn HLV Roland và “hệ sinh thái” CLB Hà Nội](https://nld.com.vn/u17-viet-nam-vo-dich-dau-an-hlv-roland-va-he-sinh-thai-clb-ha-noi-196260425115231813.htm) - 06:01 25/04/2026
+- 🧑‍💻 [Thể thao CAND đón lực đẩy mới từ hợp tác với T&amp;T Group](https://nld.com.vn/the-thao-cand-don-luc-day-moi-tu-hop-tac-voi-tt-group-196260425114147811.htm) - 06:01 25/04/2026
+- 👨‍🏫 [Giá sầu riêng có nơi chỉ còn 25.000 đồng/kg](https://nld.com.vn/gia-sau-rieng-co-noi-chi-con-25000-dong-kg-196260425093025486.htm) - 03:42 25/04/2026
+- 🤩 [Quảng Trị ký kết hợp tác với Tập đoàn Thái Bình Dương của Trung Quốc](https://nld.com.vn/quang-tri-ky-ket-hop-tac-voi-tap-doan-thai-binh-duong-cua-trung-quoc-196260425093003419.htm) - 02:34 25/04/2026
+- 🫣 [Người mua vàng dịp Thần Tài đang lỗ nặng](https://nld.com.vn/nguoi-mua-vang-dip-than-tai-dang-lo-nang-196260425091754483.htm) - 02:32 25/04/2026
+- 👀 [Thông báo về thời điểm tính giá điện theo khung giờ mới](https://nld.com.vn/thong-bao-ve-thoi-diem-tinh-gia-dien-theo-khung-gio-moi-196260425084834218.htm) - 02:22 25/04/2026
+- 🪄 [Sân bay Tân Sơn Nhất phát thông báo quan trọng](https://nld.com.vn/san-bay-tan-son-nhat-phat-thong-bao-quan-trong-196260425083113553.htm) - 01:42 25/04/2026
+- 🐲 [Giá heo hơi hôm nay, 25-4: Chợ đầu mối có giá mới](https://nld.com.vn/gia-heo-hoi-hom-nay-25-4-cho-dau-moi-co-gia-moi-196260425074821667.htm) - 01:29 25/04/2026
+- 🌝 [Napoly đưa cà phê Việt sang châu Âu, đặt mục tiêu 100 cửa hàng](https://nld.com.vn/napoly-dua-ca-phe-viet-sang-chau-au-dat-muc-tieu-100-cua-hang-196260424193949661.htm) - 00:52 25/04/2026
+- 🥸 [Đưa dịch vụ cho thuê căn hộ ngắn hạn vào khuôn khổ](https://nld.com.vn/dua-dich-vu-cho-thue-can-ho-ngan-han-vao-khuon-kho-196260424210641985.htm) - 00:32 25/04/2026
+- 🦅 [Từ vụ trứng Ba Huân nợ bảo hiểm xã hội kéo dài: Thấy gì từ những &quot;thương hiệu quốc dân&quot;?](https://nld.com.vn/tu-vu-trung-ba-huan-no-bao-hiem-xa-hoi-keo-dai-thay-gi-tu-nhung-thuong-hieu-quoc-dan-19626042506213639.htm) - 00:22 25/04/2026
+- 🐵 [Giá cà phê hôm nay 25-4: Giảm nhẹ, một thương hiệu cà phê Việt mở chuỗi tại châu Âu](https://nld.com.vn/gia-ca-phe-hom-nay-25-4-giam-nhe-mot-thuong-hieu-ca-phe-viet-mo-chuoi-tai-chau-au-196260425065318184.htm) - 00:04 25/04/2026
+- 🌏 [Xổ số miền Nam: Sự trùng hợp “kỳ lạ” của 2 giải độc đắc vé số Vĩnh Long](https://nld.com.vn/xo-so-mien-nam-su-trung-hop-ky-la-cua-2-giai-doc-dac-ve-so-vinh-long-196260425062617476.htm) - 23:50 24/04/2026
+- 🎓 [Tiếc cho thương hiệu trứng sạch Ba Huân](https://nld.com.vn/tiec-cho-thuong-hieu-trung-sach-ba-huan-196260424210207674.htm) - 23:31 24/04/2026
+- 🤗 [Chuyển 90% chuyến bay quốc tế từ sân bay Tân Sơn Nhất về Long Thành: Không để du khách phải tự xoay](https://nld.com.vn/chuyen-90-chuyen-bay-quoc-te-tu-san-bay-tan-son-nhat-ve-long-thanh-khong-de-du-khach-phai-tu-xoay-196260425060012171.htm) - 23:28 24/04/2026<!-- nld-kinh-te:END -->
