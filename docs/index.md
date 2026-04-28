@@ -714,15 +714,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Mỹ phong tỏa hải cảng, Iran trụ được bao lâu và duy trì nguồn thu dầu mỏ ra sao?](https://vov.vn/the-gioi/quan-sat/my-phong-toa-hai-cang-iran-tru-duoc-bao-lau-va-duy-tri-nguon-thu-dau-mo-ra-sao-post1287674.vov) - 22:45 28/04/2026
-- 🕯 [Nóng 24h: Diễn biến mới vụ việc liên quan dự án “Nuôi em”](https://vov.vn/phap-luat/nong-24h-dien-bien-moi-vu-viec-lien-quan-du-an-nuoi-em-post1287728.vov) - 22:31 28/04/2026
-- 🌊 [Đường tới toàn thắng 30/4/1975: Khởi nghĩa từng phần - bước mở đầu sáng tạo](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-khoi-nghia-tung-phan-buoc-mo-dau-sang-tao-post1287505.vov) - 22:20 28/04/2026
-- 🥷 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
-- 🎡 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
-- 🚀 [Việt Nam thúc đẩy hợp tác chiến lược với các đối tác ASEAN và EU](https://vov.vn/chinh-tri/viet-nam-thuc-day-hop-tac-chien-luoc-voi-cac-doi-tac-asean-va-eu-post1287746.vov) - 22:17 28/04/2026
-- 🔥 [Giá vàng hôm nay 29/4: Vàng SJC giảm về mức 167,5 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-294-vang-sjc-giam-ve-muc-1675-trieu-dongluong-post1287641.vov) - 22:10 28/04/2026
-- 🌋 [Giá xăng dầu hôm nay 29/4: Giá dầu tiếp tục tăng mạnh, vượt 110 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-294-gia-dau-tiep-tuc-tang-manh-vuot-110-usdthung-post1287694.vov) - 22:00 28/04/2026
-- 🕴 [Ông Trump sa thải toàn bộ Hội đồng Khoa học Quốc gia](https://vov.vn/the-gioi/ong-trump-sa-thai-toan-bo-hoi-dong-khoa-hoc-quoc-gia-post1287731.vov) - 15:12 28/04/2026
+- 🌜 [Tổng Bí thư, Chủ tịch nước gửi điện chia buồn vụ tai nạn đường sắt ở Indonesia](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gui-dien-chia-buon-vu-tai-nan-duong-sat-o-indonesia-post1287751.vov) - 23:02 28/04/2026
+- 🕯 [&amp;quot;Đếm ngược ngày về đích&amp;quot; trên công trường dự án hạ tầng thoát nước ngầm ở Hà Nội](https://vov.vn/xa-hoi/dem-nguoc-ngay-ve-dich-tren-cong-truong-du-an-ha-tang-thoat-nuoc-ngam-o-ha-noi-post1287614.vov) - 23:00 28/04/2026
+- 🌊 [Quảng trường công viên phía Đông hồ Hoàn Kiếm mặt bằng 2,14ha dần lộ diện](https://vov.vn/xa-hoi/quang-truong-cong-vien-phia-dong-ho-hoan-kiem-mat-bang-214ha-dan-lo-dien-post1287321.vov) - 23:00 28/04/2026
+- 🥷 [Ngưỡng doanh thu miễn thuế với hộ kinh doanh nên nâng lên 1 - 2 tỉ đồng](https://vov.vn/kinh-te/nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-nen-nang-len-1-2-ti-dong-post1287377.vov) - 23:00 28/04/2026
+- 🎡 [Mỹ phong tỏa hải cảng, Iran trụ được bao lâu và duy trì nguồn thu dầu mỏ ra sao?](https://vov.vn/the-gioi/quan-sat/my-phong-toa-hai-cang-iran-tru-duoc-bao-lau-va-duy-tri-nguon-thu-dau-mo-ra-sao-post1287674.vov) - 22:45 28/04/2026
+- 🚀 [Nóng 24h: Diễn biến mới vụ việc liên quan dự án “Nuôi em”](https://vov.vn/phap-luat/nong-24h-dien-bien-moi-vu-viec-lien-quan-du-an-nuoi-em-post1287728.vov) - 22:31 28/04/2026
+- 🔥 [Đường tới toàn thắng 30/4/1975: Khởi nghĩa từng phần - bước mở đầu sáng tạo](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-khoi-nghia-tung-phan-buoc-mo-dau-sang-tao-post1287505.vov) - 22:20 28/04/2026
+- 🌋 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
+- 🕴 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
 - 🥰 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
 - 🧐 [Chương trình nghệ thuật chính luận đặc biệt “Âm vang Tổ quốc”](https://vov.vn/van-hoa/am-nhac/chuong-trinh-nghe-thuat-chinh-luan-dac-biet-am-vang-to-quoc-post1287612.vov) - 12:57 28/04/2026<!-- vov:END -->
 
