@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Pháo hải quân Mỹ Mark 45 Mod 4 lợi hại thế nào trong vô hiệu hóa tàu Iran?](https://vov.vn/quan-su-quoc-phong/vu-khi/phao-hai-quan-my-mark-45-mod-4-loi-hai-the-nao-trong-vo-hieu-hoa-tau-iran-post1287579.vov) - 08:04 28/04/2026
-- 🦍 [Toàn cảnh quốc tế trưa 28/4: Iran đề xuất mở lại Hormuz sau cảnh báo từ ông Trump](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-284-iran-de-xuat-mo-lai-hormuz-sau-canh-bao-tu-ong-trump-post1287577.vov) - 07:44 28/04/2026
-- 🦏 [Chi cả chục triệu mỗi tháng, phụ huynh &amp;quot;chạy đua&amp;quot; suất vào lớp 10 công lập cho con](https://vov.vn/xa-hoi/chi-ca-chuc-trieu-moi-thang-phu-huynh-chay-dua-suat-vao-lop-10-cong-lap-cho-con-post1287531.vov) - 04:47 28/04/2026
-- 😎 [Hà Nội ưu tiên đẩy nhanh tiến độ cấp phép lao động cho chuyên gia nước ngoài](https://vov.vn/xa-hoi/ha-noi-uu-tien-day-nhanh-tien-do-cap-phep-lao-dong-cho-chuyen-gia-nuoc-ngoai-post1287524.vov) - 04:29 28/04/2026
-- 💯 [Điều hành chính sách tiền tệ linh hoạt, thúc đẩy mục tiêu tăng trưởng 2 con số](https://vov.vn/kinh-te/dieu-hanh-chinh-sach-tien-te-linh-hoat-thuc-day-muc-tieu-tang-truong-2-con-so-post1287500.vov) - 04:07 28/04/2026
-- 🦩 [Chủ tịch Quốc hội Trần Thanh Mẫn dự Lễ kỷ niệm 140 năm Ngày Quốc tế Lao động](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-du-le-ky-niem-140-nam-ngay-quoc-te-lao-dong-post1287514.vov) - 04:05 28/04/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì phiên họp Hội đồng Quốc phòng và An ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-phien-hop-hoi-dong-quoc-phong-va-an-ninh-post1287506.vov) - 03:56 28/04/2026
-- 🦣 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì phiên họp Hội đồng Quốc phòng và An ninh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-phien-hop-hoi-dong-quoc-phong-va-an-ninh-post1287506.vov) - 03:56 28/04/2026
-- 👹 [Đường phố Hà Nội “dễ thở” nhưng tái diễn leo vỉa hè sáng ngày đầu đi làm sau lễ](https://vov.vn/xa-hoi/duong-pho-ha-noi-de-tho-nhung-tai-dien-leo-via-he-sang-ngay-dau-di-lam-sau-le-post1287490.vov) - 03:22 28/04/2026
-- 🫶 [Kiểm soát lạm phát năm 2026: Thách thức từ giá năng lượng và chi phí đầu vào](https://vov.vn/kinh-te/kiem-soat-lam-phat-nam-2026-thach-thuc-tu-gia-nang-luong-va-chi-phi-dau-vao-post1287153.vov) - 00:00 28/04/2026
-- 😺 [Quy định của Đảng là &amp;quot;thể chế bản lề&amp;quot; bảo đảm vận hành thông suốt](https://vov.vn/chinh-tri/quy-dinh-cua-dang-la-the-che-ban-le-bao-dam-van-hanh-thong-suot-post1287328.vov) - 22:30 27/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Ông Trump sa thải toàn bộ Hội đồng Khoa học Quốc gia](https://vov.vn/the-gioi/ong-trump-sa-thai-toan-bo-hoi-dong-khoa-hoc-quoc-gia-post1287731.vov) - 15:12 28/04/2026
+- 🦍 [Các trạm y tế ở Cà Mau thiếu hơn 400 biên chế, trong đó có 14 giám đốc](https://vov.vn/xa-hoi/cac-tram-y-te-o-ca-mau-thieu-hon-400-bien-che-trong-do-co-14-giam-doc-post1287729.vov) - 14:56 28/04/2026
+- 🦏 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
+- 😎 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
+- 💯 [TP.HCM tiếp tục giữ 11 công viên tạm trên đất “vàng” chưa triển khai](https://vov.vn/xa-hoi/tphcm-tiep-tuc-giu-11-cong-vien-tam-tren-dat-vang-chua-trien-khai-post1287721.vov) - 14:11 28/04/2026
+- 🦩 [Nhật Bản thúc đẩy lợi ích chiến lược trong hợp tác với Việt Nam](https://vov.vn/chinh-tri/nhat-ban-thuc-day-loi-ich-chien-luoc-trong-hop-tac-voi-viet-nam-post1287710.vov) - 13:54 28/04/2026
+- 💃 [UAE rút khỏi OPEC, giáng đòn mạnh vào liên minh dầu mỏ và Saudi Arabia](https://vov.vn/the-gioi/uae-rut-khoi-opec-giang-don-manh-vao-lien-minh-dau-mo-va-saudi-arabia-post1287713.vov) - 13:43 28/04/2026
+- 🦣 [Chương trình nghệ thuật chính luận đặc biệt “Âm vang Tổ quốc”](https://vov.vn/van-hoa/am-nhac/chuong-trinh-nghe-thuat-chinh-luan-dac-biet-am-vang-to-quoc-post1287612.vov) - 12:57 28/04/2026
+- 👹 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Đối ngoại phải mở đường cho phát triển](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-doi-ngoai-phai-mo-duong-cho-phat-trien-post1287656.vov) - 10:14 28/04/2026
+- 🫶 [Thủ tướng: Trong tuần này, đề xuất nâng ngưỡng chịu thuế hộ kinh doanh](https://vov.vn/chinh-tri/thu-tuong-trong-tuan-nay-de-xuat-nang-nguong-chiu-thue-ho-kinh-doanh-post1287646.vov) - 10:07 28/04/2026
+- 😺 [Bộ Nội vụ: Rà soát, bố trí đội ngũ cán bộ công chức cấp xã phù hợp hơn](https://vov.vn/chinh-tri/bo-noi-vu-ra-soat-bo-tri-doi-ngu-can-bo-cong-chuc-cap-xa-phu-hop-hon-post1287672.vov) - 09:38 28/04/2026<!-- vov-tin-moi-nhat:END -->
