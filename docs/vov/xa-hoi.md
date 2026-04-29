@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vov-xa-hoi:START -->
-- 👀 [Vành đai 3 ùn tắc gần 10km, hàng nghìn phương tiện &amp;quot;chôn chân&amp;quot; nhiều giờ](https://vov.vn/xa-hoi/vanh-dai-3-un-tac-gan-10km-hang-nghin-phuong-tien-chon-chan-nhieu-gio-post1288036.vov) - 16:08 29/04/2026
+- 👀 [Đường Đồng Tàu biến thành bãi rác tự phát sau giải phóng mặt bằng](https://vov.vn/xa-hoi/duong-dong-tau-bien-thanh-bai-rac-tu-phat-sau-giai-phong-mat-bang-post1287910.vov) - 23:11 29/04/2026
+- 🚀 [Hà Nội cải thiện hạ tầng thoát nước: Lời giải cho bài toán chống ngập?](https://vov.vn/xa-hoi/ha-noi-cai-thien-ha-tang-thoat-nuoc-loi-giai-cho-bai-toan-chong-ngap-post1287929.vov) - 23:00 29/04/2026
+- 👀 [Thời tiết hôm nay 30/4: Hà Nội dịu mát, thời tiết thuận lợi cho dịp nghỉ lễ](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-304-ha-noi-diu-mat-thoi-tiet-thuan-loi-cho-dip-nghi-le-post1287930.vov) - 22:26 29/04/2026
+- 🦍 [Vành đai 3 ùn tắc gần 10km, hàng nghìn phương tiện &amp;quot;chôn chân&amp;quot; nhiều giờ](https://vov.vn/xa-hoi/vanh-dai-3-un-tac-gan-10km-hang-nghin-phuong-tien-chon-chan-nhieu-gio-post1288036.vov) - 16:08 29/04/2026
 - 🚀 [Xuyên lễ trên công trường cao tốc miền Tây](https://vov.vn/xa-hoi/xuyen-le-tren-cong-truong-cao-toc-mien-tay-post1288035.vov) - 16:06 29/04/2026
-- 👀 [Phát hiện thi thể nam thanh niên trôi dạt vào bờ biển Hà Tĩnh](https://vov.vn/xa-hoi/phat-hien-thi-the-nam-thanh-nien-troi-dat-vao-bo-bien-ha-tinh-post1288021.vov) - 14:32 29/04/2026
-- 🦍 [Quảng Ninh tập trung đảm bảo an ninh cho đêm hội Carnaval Hạ Long 2026](https://vov.vn/xa-hoi/quang-ninh-tap-trung-dam-bao-an-ninh-cho-dem-hoi-carnaval-ha-long-2026-post1288022.vov) - 14:12 29/04/2026
-- 🚀 [Ngày 30/4: Hà Nội nắng nhẹ, không mưa, thời tiết thuận lợi cho dịp nghỉ lễ](https://vov.vn/xa-hoi/ngay-304-ha-noi-nang-nhe-khong-mua-thoi-tiet-thuan-loi-cho-dip-nghi-le-post1287930.vov) - 14:00 29/04/2026
-- 💫 [VOV sẽ phát sóng chương trình an ninh tiếng Mông “Bình yên cho bản làng&amp;quot;](https://vov.vn/xa-hoi/vov-se-phat-song-chuong-trinh-an-ninh-tieng-mong-binh-yen-cho-ban-lang-post1288018.vov) - 13:56 29/04/2026
-- 🗽 [TP.HCM công bố chỉ tiêu vào lớp 10 công lập](https://vov.vn/xa-hoi/tphcm-cong-bo-chi-tieu-vao-lop-10-cong-lap-post1288013.vov) - 13:51 29/04/2026
-- 🕯 [Chuyển giao Làng Văn hóa - Du lịch các dân tộc Việt Nam về Hà Nội quản lý](https://vov.vn/xa-hoi/chuyen-giao-lang-van-hoa-du-lich-cac-dan-toc-viet-nam-ve-ha-noi-quan-ly-post1288015.vov) - 13:49 29/04/2026
-- 🏊 [Thái Nguyên chăm lo người lao động bằng những việc làm thiết thực](https://vov.vn/xa-hoi/thai-nguyen-cham-lo-nguoi-lao-dong-bang-nhung-viec-lam-thiet-thuc-post1288029.vov) - 13:00 29/04/2026
-- 👍 [Ô tô bốc cháy dữ dội ở Vành đai 3 trên cao, giao thông ùn ứ](https://vov.vn/xa-hoi/o-to-boc-chay-du-doi-o-vanh-dai-3-tren-cao-giao-thong-un-u-post1288001.vov) - 12:13 29/04/2026
-- 😺 [Gần 113.000 khách đổ về Nội Bài ngày cao điểm trước kỳ nghỉ lễ 30/4](https://vov.vn/xa-hoi/gan-113000-khach-do-ve-noi-bai-ngay-cao-diem-truoc-ky-nghi-le-304-post1287977.vov) - 12:00 29/04/2026
-- 🧑‍💻 [Dòng xe cộ nối đuôi nhau rời Thủ đô đi nghỉ lễ 30/4, áp lực giao thông tăng cao](https://vov.vn/xa-hoi/dong-xe-co-noi-duoi-nhau-roi-thu-do-di-nghi-le-304-ap-luc-giao-thong-tang-cao-post1287987.vov) - 11:55 29/04/2026
-- 🥰 [Cao tốc Bắc - Nam từ Hà Nội đến Cà Mau có 21 trạm dừng nghỉ phục vụ dịp lễ 30/4](https://vov.vn/xa-hoi/cao-toc-bac-nam-tu-ha-noi-den-ca-mau-co-21-tram-dung-nghi-phuc-vu-dip-le-304-post1287983.vov) - 11:39 29/04/2026
-- 💃 [Giao thông TP.HCM dịp lễ 30/4: Cửa ngõ ổn định, cao tốc ùn ứ nhẹ](https://vov.vn/xa-hoi/giao-thong-tphcm-dip-le-304-cua-ngo-on-dinh-cao-toc-un-u-nhe-post1287982.vov) - 11:09 29/04/2026
-- 🐵 [Thu phí gửi xe 200.000 đồng, bị xử phạt 15 triệu đồng](https://vov.vn/xa-hoi/thu-phi-gui-xe-200000-dong-bi-xu-phat-15-trieu-dong-post1287984.vov) - 11:07 29/04/2026
-- 🔥 [Công nhân Sơn La giữ nhịp sản xuất trong kỳ nghỉ lễ](https://vov.vn/xa-hoi/cong-nhan-son-la-giu-nhip-san-xuat-trong-ky-nghi-le-post1287979.vov) - 11:05 29/04/2026
-- 👹 [Gần 3.000 trụ tiêu gãy đổ sau cơn mưa lớn kéo dài 3 giờ tại Đồng Nai](https://vov.vn/xa-hoi/gan-3000-tru-tieu-gay-do-sau-con-mua-lon-keo-dai-3-gio-tai-dong-nai-post1287964.vov) - 10:36 29/04/2026
-- 📝 [Công trình trường nội trú liên cấp Sơn La: Kỳ nghỉ lễ nhưng không nghỉ việc](https://vov.vn/xa-hoi/cong-trinh-truong-noi-tru-lien-cap-son-la-ky-nghi-le-nhung-khong-nghi-viec-post1287955.vov) - 10:24 29/04/2026
-- 🪜 [Tìm ra “thủ phạm” khiến hàng chục người ngộ độc tại Diễn Châu, Nghệ An](https://vov.vn/xa-hoi/tim-ra-thu-pham-khien-hang-chuc-nguoi-ngo-doc-tai-dien-chau-nghe-an-post1287962.vov) - 10:23 29/04/2026
-- 🎃 [Đoàn công tác Quân khu 5 dâng hương tưởng niệm các Anh hùng Liệt sĩ](https://vov.vn/xa-hoi/doan-cong-tac-quan-khu-5-dang-huong-tuong-niem-cac-anh-hung-liet-si-post1287940.vov) - 10:14 29/04/2026
-- 🐲 [Hỏa hoạn thiêu rụi diện tích lớn xưởng sản xuất gỗ tại TP.HCM](https://vov.vn/xa-hoi/hoa-hoan-thieu-rui-dien-tich-lon-xuong-san-xuat-go-tai-tphcm-post1287950.vov) - 10:08 29/04/2026
-- 👹 [Thi lớp 10 ở Hà Nội: Tỷ lệ chọi giữa nội thành và ngoại thành ngày càng phân hóa](https://vov.vn/xa-hoi/thi-lop-10-o-ha-noi-ty-le-choi-giua-noi-thanh-va-ngoai-thanh-ngay-cang-phan-hoa-post1287886.vov) - 09:15 29/04/2026
-- 🐘 [Vẫn còn 34 triệu số thuê bao di động chưa xác nhận chính chủ](https://vov.vn/xa-hoi/van-con-34-trieu-so-thue-bao-di-dong-chua-xac-nhan-chinh-chu-post1287917.vov) - 08:53 29/04/2026
-- 🏊 [Chính thức thông tuyến cao tốc Quảng Ngãi - Hoài Nhơn](https://vov.vn/xa-hoi/chinh-thuc-thong-tuyen-cao-toc-quang-ngai-hoai-nhon-post1287902.vov) - 08:11 29/04/2026
-- 💃 [Cháy tàu chở dầu ở vùng biển Liên Hương: 2 người bỏng nặng, 1 người mất tích](https://vov.vn/xa-hoi/chay-tau-cho-dau-o-vung-bien-lien-huong-2-nguoi-bong-nang-1-nguoi-mat-tich-post1287892.vov) - 07:46 29/04/2026
-- 🎭 [Kỳ nghỉ lễ: Bến xe truyền thống ế khách, xe limousine, xe ghép kín chỗ](https://vov.vn/xa-hoi/ky-nghi-le-ben-xe-truyen-thong-e-khach-xe-limousine-xe-ghep-kin-cho-post1287877.vov) - 07:21 29/04/2026
-- 🕯 [Số ca nghi ngộ độc tại Trường Tiểu học Đặng Thùy Trâm tăng lên 46 ca](https://vov.vn/xa-hoi/so-ca-nghi-ngo-doc-tai-truong-tieu-hoc-dang-thuy-tram-tang-len-46-ca-post1287879.vov) - 07:19 29/04/2026
-- 📝 [Tỷ lệ chọi &amp;quot;khủng&amp;quot; vào lớp 10: Hà Nội bao giờ hết căng thẳng?](https://vov.vn/xa-hoi/ty-le-choi-khung-vao-lop-10-ha-noi-bao-gio-het-cang-thang-post1287873.vov) - 07:13 29/04/2026
-- 🤓 [2 phương tiện thủy va chạm, một người tử vong tại Đồng Tháp](https://vov.vn/xa-hoi/2-phuong-tien-thuy-va-cham-mot-nguoi-tu-vong-tai-dong-thap-post1287862.vov) - 07:12 29/04/2026
-- 💄 [Xe ben va chạm xe máy tại ngã tư Phạm Hùng-Trần Duy Hưng, 1 người bị thương](https://vov.vn/xa-hoi/xe-ben-va-cham-xe-may-tai-nga-tu-pham-hung-tran-duy-hung-1-nguoi-bi-thuong-post1287872.vov) - 06:05 29/04/2026
-- 👨‍🏫 [Hà Nội lập Quy hoạch cải tạo, xây dựng lại chung cư cũ, hoàn thành trong Quý II/2026](https://vov.vn/xa-hoi/ha-noi-lap-quy-hoach-cai-tao-xay-dung-lai-chung-cu-cu-hoan-thanh-trong-quy-ii2026-post1287852.vov) - 05:09 29/04/2026
-- 🤔 [20 km đầu tiên cao tốc Khánh Hòa - Buôn Ma Thuột dự kiến khai thác đầu tháng 5](https://vov.vn/xa-hoi/20-km-dau-tien-cao-toc-khanh-hoa-buon-ma-thuot-du-kien-khai-thac-dau-thang-5-post1287858.vov) - 05:05 29/04/2026
-- 🐘 [Đắk Lắk dâng hương tưởng nhớ các Anh hùng liệt sĩ](https://vov.vn/xa-hoi/dak-lak-dang-huong-tuong-nho-cac-anh-hung-liet-si-post1287822.vov) - 04:54 29/04/2026
-- 🎃 [Cháy tàu chở dầu ở Lâm Đồng, 1 người mất tích](https://vov.vn/xa-hoi/chay-tau-cho-dau-o-lam-dong-1-nguoi-mat-tich-post1287835.vov) - 04:54 29/04/2026
-- 🌋 [Dông lốc kèm theo mưa lớn gây thiệt hại tài sản người dân ở Thanh Hoá](https://vov.vn/xa-hoi/dong-loc-kem-theo-mua-lon-gay-thiet-hai-tai-san-nguoi-dan-o-thanh-hoa-post1287848.vov) - 04:53 29/04/2026
-- 🔥 [Hà Nội cho phép người đã có nhà nhưng đi làm xa hơn 20km được mua nhà ở xã hội](https://vov.vn/xa-hoi/ha-noi-cho-phep-nguoi-da-co-nha-nhung-di-lam-xa-hon-20km-duoc-mua-nha-o-xa-hoi-post1287843.vov) - 04:39 29/04/2026
-- 💂 [Sẽ xây dựng ngân hàng đề thi đủ lớn phục vụ thi tốt nghiệp THPT trên máy tính](https://vov.vn/xa-hoi/se-xay-dung-ngan-hang-de-thi-du-lon-phuc-vu-thi-tot-nghiep-thpt-tren-may-tinh-post1287807.vov) - 04:00 29/04/2026
-- 🧐 [Chi tiết tỷ lệ &amp;quot;chọi&amp;quot; vào lớp 10 tại 122 trường THPT công lập Hà Nội năm 2026](https://vov.vn/xa-hoi/chi-tiet-ty-le-choi-vao-lop-10-tai-122-truong-thpt-cong-lap-ha-noi-nam-2026-post1287806.vov) - 03:31 29/04/2026
-- 🔭 [Những trường THPT có tỷ lệ &amp;quot;chọi&amp;quot; khủng 2026 năm ngoái lấy điểm chuẩn thế nào?](https://vov.vn/xa-hoi/nhung-truong-thpt-co-ty-le-choi-khung-2026-nam-ngoai-lay-diem-chuan-the-nao-post1287798.vov) - 03:20 29/04/2026
-- 📝 [Trạm sạc xe điện tại chung cư: Phân vùng không gian và cô lập rủi ro](https://vov.vn/xa-hoi/tram-sac-xe-dien-tai-chung-cu-phan-vung-khong-gian-va-co-lap-rui-ro-post1287789.vov) - 02:30 29/04/2026
-- 🌈 [Hà Nội: Tỷ lệ chọi vào lớp 10 công lập là 1/3,35, cuộc đua ngày càng &amp;quot;nóng&amp;quot;](https://vov.vn/xa-hoi/ha-noi-ty-le-choi-vao-lop-10-cong-lap-la-1335-cuoc-dua-ngay-cang-nong-post1287773.vov) - 02:04 29/04/2026
-- 🚦 [Ngôi trường có tỷ lệ chọi lớp 10 &amp;#039;thấp hiếm thấy&amp;quot;, chỉ 24 em đăng ký nguyện vọng 1](https://vov.vn/xa-hoi/ngoi-truong-co-ty-le-choi-lop-10-thap-hiem-thay-chi-24-em-dang-ky-nguyen-vong-1-post1287776.vov) - 02:02 29/04/2026
-- 🤗 [Xử phạt 90 triệu đồng, đình chỉ hoạt động cơ sở sản xuất bánh mì gây ngộ độc](https://vov.vn/xa-hoi/xu-phat-90-trieu-dong-dinh-chi-hoat-dong-co-so-san-xuat-banh-mi-gay-ngo-doc-post1287765.vov) - 01:39 29/04/2026
-- 🐎 [Hai vụ tai nạn liên tiếp trong đêm mưa dông ở Hà Nội, 2 người tử vong tại chỗ](https://vov.vn/xa-hoi/hai-vu-tai-nan-lien-tiep-trong-dem-mua-dong-o-ha-noi-2-nguoi-tu-vong-tai-cho-post1287762.vov) - 01:33 29/04/2026
-- 🥸 [Mưa đá kèm dông lốc gây thiệt hại tại tỉnh Điện Biên](https://vov.vn/xa-hoi/mua-da-kem-dong-loc-gay-thiet-hai-tai-tinh-dien-bien-post1287763.vov) - 01:22 29/04/2026
-- ⚗️ [Thời tiết hôm nay 29/4: Hà Nội và Bắc Bộ mưa dông, cục bộ có nơi mưa to](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-294-ha-noi-va-bac-bo-mua-dong-cuc-bo-co-noi-mua-to-post1287629.vov) - 00:07 29/04/2026
-- 🌈 [Thi lớp 10: Bí quyết nước rút ôn Văn hiệu quả, tránh học tủ vẫn đạt điểm cao](https://vov.vn/xa-hoi/thi-lop-10-bi-quyet-nuoc-rut-on-van-hieu-qua-tranh-hoc-tu-van-dat-diem-cao-post1287650.vov) - 23:20 28/04/2026
-- 🎬 [Quảng trường công viên phía Đông hồ Hoàn Kiếm mặt bằng 2,14ha dần lộ diện](https://vov.vn/xa-hoi/quang-truong-cong-vien-phia-dong-ho-hoan-kiem-mat-bang-214ha-dan-lo-dien-post1287321.vov) - 23:00 28/04/2026
-- 👺 [&amp;quot;Đếm ngược ngày về đích&amp;quot; trên công trường dự án hạ tầng thoát nước ngầm ở Hà Nội](https://vov.vn/xa-hoi/dem-nguoc-ngay-ve-dich-tren-cong-truong-du-an-ha-tang-thoat-nuoc-ngam-o-ha-noi-post1287614.vov) - 23:00 28/04/2026
-- 🕴 [Tuổi trẻ Tịnh Biên &lpar;An Giang&rpar; tưởng niệm, tri ân các Anh hùng liệt sĩ](https://vov.vn/xa-hoi/tuoi-tre-tinh-bien-an-giang-tuong-niem-tri-an-cac-anh-hung-liet-si-post1287735.vov) - 15:55 28/04/2026
-- ⛽️ [Bộ Y tế vào cuộc vụ 25 học sinh và bảo mẫu ở TP.HCM nghi ngộ độc](https://vov.vn/xa-hoi/bo-y-te-vao-cuoc-vu-25-hoc-sinh-va-bao-mau-o-tphcm-nghi-ngo-doc-post1287732.vov) - 15:12 28/04/2026
-- 🦍 [Các trạm y tế ở Cà Mau thiếu hơn 400 biên chế, trong đó có 14 giám đốc](https://vov.vn/xa-hoi/cac-tram-y-te-o-ca-mau-thieu-hon-400-bien-che-trong-do-co-14-giam-doc-post1287729.vov) - 14:56 28/04/2026
-- 🎉 [Đổi mới sáng tạo và Đối thoại tháng 5 - điểm nhấn của Tháng Công nhân tại TP.HCM](https://vov.vn/xa-hoi/doi-moi-sang-tao-va-doi-thoai-thang-5-diem-nhan-cua-thang-cong-nhan-tai-tphcm-post1287727.vov) - 14:46 28/04/2026
-- 😎 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
-- 🪄 [Nghệ An kỷ niệm 60 năm ngày hy sinh của 33 liệt sĩ TNXP tại hang Hỏa Tiễn](https://vov.vn/xa-hoi/nghe-an-ky-niem-60-nam-ngay-hy-sinh-cua-33-liet-si-tnxp-tai-hang-hoa-tien-post1287719.vov) - 14:16 28/04/2026
-- 🎊 [TP.HCM tiếp tục giữ 11 công viên tạm trên đất “vàng” chưa triển khai](https://vov.vn/xa-hoi/tphcm-tiep-tuc-giu-11-cong-vien-tam-tren-dat-vang-chua-trien-khai-post1287721.vov) - 14:11 28/04/2026
-- 🦄 [Giá thu rác sinh hoạt tại TP.HCM: Xả ít hay xả nhiều vẫn đóng tiền như nhau?](https://vov.vn/xa-hoi/gia-thu-rac-sinh-hoat-tai-tphcm-xa-it-hay-xa-nhieu-van-dong-tien-nhu-nhau-post1287718.vov) - 13:56 28/04/2026
-- 🐻 [Bảo đảm an toàn khai thác cao tốc Quảng Ngãi - Hoài Nhơn](https://vov.vn/xa-hoi/bao-dam-an-toan-khai-thac-cao-toc-quang-ngai-hoai-nhon-post1287711.vov) - 13:21 28/04/2026
-- 🤡 [Người đàn ông ở Quảng Ngãi bị sét đánh tử vong khi trú mưa ngoài đồng](https://vov.vn/xa-hoi/nguoi-dan-ong-o-quang-ngai-bi-set-danh-tu-vong-khi-tru-mua-ngoai-dong-post1287705.vov) - 12:40 28/04/2026
-- 🧑‍🏫 [Khen thưởng 2 nam sinh dũng cảm cứu nữ sinh nhảy cầu ở Nghệ An](https://vov.vn/xa-hoi/khen-thuong-2-nam-sinh-dung-cam-cuu-nu-sinh-nhay-cau-o-nghe-an-post1287697.vov) - 11:52 28/04/2026<!-- vov-xa-hoi:END -->
+- 💫 [Phát hiện thi thể nam thanh niên trôi dạt vào bờ biển Hà Tĩnh](https://vov.vn/xa-hoi/phat-hien-thi-the-nam-thanh-nien-troi-dat-vao-bo-bien-ha-tinh-post1288021.vov) - 14:32 29/04/2026
+- 🗽 [Quảng Ninh tập trung đảm bảo an ninh cho đêm hội Carnaval Hạ Long 2026](https://vov.vn/xa-hoi/quang-ninh-tap-trung-dam-bao-an-ninh-cho-dem-hoi-carnaval-ha-long-2026-post1288022.vov) - 14:12 29/04/2026
+- 🕯 [VOV sẽ phát sóng chương trình an ninh tiếng Mông “Bình yên cho bản làng&amp;quot;](https://vov.vn/xa-hoi/vov-se-phat-song-chuong-trinh-an-ninh-tieng-mong-binh-yen-cho-ban-lang-post1288018.vov) - 13:56 29/04/2026
+- 🏊 [TP.HCM công bố chỉ tiêu vào lớp 10 công lập](https://vov.vn/xa-hoi/tphcm-cong-bo-chi-tieu-vao-lop-10-cong-lap-post1288013.vov) - 13:51 29/04/2026
+- 👍 [Chuyển giao Làng Văn hóa - Du lịch các dân tộc Việt Nam về Hà Nội quản lý](https://vov.vn/xa-hoi/chuyen-giao-lang-van-hoa-du-lich-cac-dan-toc-viet-nam-ve-ha-noi-quan-ly-post1288015.vov) - 13:49 29/04/2026
+- 😺 [Thái Nguyên chăm lo người lao động bằng những việc làm thiết thực](https://vov.vn/xa-hoi/thai-nguyen-cham-lo-nguoi-lao-dong-bang-nhung-viec-lam-thiet-thuc-post1288029.vov) - 13:00 29/04/2026
+- 🧑‍💻 [Ô tô bốc cháy dữ dội ở Vành đai 3 trên cao, giao thông ùn ứ](https://vov.vn/xa-hoi/o-to-boc-chay-du-doi-o-vanh-dai-3-tren-cao-giao-thong-un-u-post1288001.vov) - 12:13 29/04/2026
+- 🥰 [Gần 113.000 khách đổ về Nội Bài ngày cao điểm trước kỳ nghỉ lễ 30/4](https://vov.vn/xa-hoi/gan-113000-khach-do-ve-noi-bai-ngay-cao-diem-truoc-ky-nghi-le-304-post1287977.vov) - 12:00 29/04/2026
+- 💃 [Dòng xe cộ nối đuôi nhau rời Thủ đô đi nghỉ lễ 30/4, áp lực giao thông tăng cao](https://vov.vn/xa-hoi/dong-xe-co-noi-duoi-nhau-roi-thu-do-di-nghi-le-304-ap-luc-giao-thong-tang-cao-post1287987.vov) - 11:55 29/04/2026
+- 🐵 [Cao tốc Bắc - Nam từ Hà Nội đến Cà Mau có 21 trạm dừng nghỉ phục vụ dịp lễ 30/4](https://vov.vn/xa-hoi/cao-toc-bac-nam-tu-ha-noi-den-ca-mau-co-21-tram-dung-nghi-phuc-vu-dip-le-304-post1287983.vov) - 11:39 29/04/2026
+- 🔥 [Giao thông TP.HCM dịp lễ 30/4: Cửa ngõ ổn định, cao tốc ùn ứ nhẹ](https://vov.vn/xa-hoi/giao-thong-tphcm-dip-le-304-cua-ngo-on-dinh-cao-toc-un-u-nhe-post1287982.vov) - 11:09 29/04/2026
+- 👹 [Thu phí gửi xe 200.000 đồng, bị xử phạt 15 triệu đồng](https://vov.vn/xa-hoi/thu-phi-gui-xe-200000-dong-bi-xu-phat-15-trieu-dong-post1287984.vov) - 11:07 29/04/2026
+- 📝 [Công nhân Sơn La giữ nhịp sản xuất trong kỳ nghỉ lễ](https://vov.vn/xa-hoi/cong-nhan-son-la-giu-nhip-san-xuat-trong-ky-nghi-le-post1287979.vov) - 11:05 29/04/2026
+- 🪜 [Gần 3.000 trụ tiêu gãy đổ sau cơn mưa lớn kéo dài 3 giờ tại Đồng Nai](https://vov.vn/xa-hoi/gan-3000-tru-tieu-gay-do-sau-con-mua-lon-keo-dai-3-gio-tai-dong-nai-post1287964.vov) - 10:36 29/04/2026
+- 🎃 [Công trình trường nội trú liên cấp Sơn La: Kỳ nghỉ lễ nhưng không nghỉ việc](https://vov.vn/xa-hoi/cong-trinh-truong-noi-tru-lien-cap-son-la-ky-nghi-le-nhung-khong-nghi-viec-post1287955.vov) - 10:24 29/04/2026
+- 🐲 [Tìm ra “thủ phạm” khiến hàng chục người ngộ độc tại Diễn Châu, Nghệ An](https://vov.vn/xa-hoi/tim-ra-thu-pham-khien-hang-chuc-nguoi-ngo-doc-tai-dien-chau-nghe-an-post1287962.vov) - 10:23 29/04/2026
+- 👹 [Đoàn công tác Quân khu 5 dâng hương tưởng niệm các Anh hùng Liệt sĩ](https://vov.vn/xa-hoi/doan-cong-tac-quan-khu-5-dang-huong-tuong-niem-cac-anh-hung-liet-si-post1287940.vov) - 10:14 29/04/2026
+- 🐘 [Hỏa hoạn thiêu rụi diện tích lớn xưởng sản xuất gỗ tại TP.HCM](https://vov.vn/xa-hoi/hoa-hoan-thieu-rui-dien-tich-lon-xuong-san-xuat-go-tai-tphcm-post1287950.vov) - 10:08 29/04/2026
+- 🏊 [Thi lớp 10 ở Hà Nội: Tỷ lệ chọi giữa nội thành và ngoại thành ngày càng phân hóa](https://vov.vn/xa-hoi/thi-lop-10-o-ha-noi-ty-le-choi-giua-noi-thanh-va-ngoai-thanh-ngay-cang-phan-hoa-post1287886.vov) - 09:15 29/04/2026
+- 💃 [Vẫn còn 34 triệu số thuê bao di động chưa xác nhận chính chủ](https://vov.vn/xa-hoi/van-con-34-trieu-so-thue-bao-di-dong-chua-xac-nhan-chinh-chu-post1287917.vov) - 08:53 29/04/2026
+- 🎭 [Chính thức thông tuyến cao tốc Quảng Ngãi - Hoài Nhơn](https://vov.vn/xa-hoi/chinh-thuc-thong-tuyen-cao-toc-quang-ngai-hoai-nhon-post1287902.vov) - 08:11 29/04/2026
+- 🕯 [Cháy tàu chở dầu ở vùng biển Liên Hương: 2 người bỏng nặng, 1 người mất tích](https://vov.vn/xa-hoi/chay-tau-cho-dau-o-vung-bien-lien-huong-2-nguoi-bong-nang-1-nguoi-mat-tich-post1287892.vov) - 07:46 29/04/2026
+- 📝 [Kỳ nghỉ lễ: Bến xe truyền thống ế khách, xe limousine, xe ghép kín chỗ](https://vov.vn/xa-hoi/ky-nghi-le-ben-xe-truyen-thong-e-khach-xe-limousine-xe-ghep-kin-cho-post1287877.vov) - 07:21 29/04/2026
+- 🤓 [Số ca nghi ngộ độc tại Trường Tiểu học Đặng Thùy Trâm tăng lên 46 ca](https://vov.vn/xa-hoi/so-ca-nghi-ngo-doc-tai-truong-tieu-hoc-dang-thuy-tram-tang-len-46-ca-post1287879.vov) - 07:19 29/04/2026
+- 💄 [Tỷ lệ chọi &amp;quot;khủng&amp;quot; vào lớp 10: Hà Nội bao giờ hết căng thẳng?](https://vov.vn/xa-hoi/ty-le-choi-khung-vao-lop-10-ha-noi-bao-gio-het-cang-thang-post1287873.vov) - 07:13 29/04/2026
+- 👨‍🏫 [2 phương tiện thủy va chạm, một người tử vong tại Đồng Tháp](https://vov.vn/xa-hoi/2-phuong-tien-thuy-va-cham-mot-nguoi-tu-vong-tai-dong-thap-post1287862.vov) - 07:12 29/04/2026
+- 🤔 [Xe ben va chạm xe máy tại ngã tư Phạm Hùng-Trần Duy Hưng, 1 người bị thương](https://vov.vn/xa-hoi/xe-ben-va-cham-xe-may-tai-nga-tu-pham-hung-tran-duy-hung-1-nguoi-bi-thuong-post1287872.vov) - 06:05 29/04/2026
+- 🐘 [Hà Nội lập Quy hoạch cải tạo, xây dựng lại chung cư cũ, hoàn thành trong Quý II/2026](https://vov.vn/xa-hoi/ha-noi-lap-quy-hoach-cai-tao-xay-dung-lai-chung-cu-cu-hoan-thanh-trong-quy-ii2026-post1287852.vov) - 05:09 29/04/2026
+- 🎃 [20 km đầu tiên cao tốc Khánh Hòa - Buôn Ma Thuột dự kiến khai thác đầu tháng 5](https://vov.vn/xa-hoi/20-km-dau-tien-cao-toc-khanh-hoa-buon-ma-thuot-du-kien-khai-thac-dau-thang-5-post1287858.vov) - 05:05 29/04/2026
+- 🌋 [Đắk Lắk dâng hương tưởng nhớ các Anh hùng liệt sĩ](https://vov.vn/xa-hoi/dak-lak-dang-huong-tuong-nho-cac-anh-hung-liet-si-post1287822.vov) - 04:54 29/04/2026
+- 🔥 [Cháy tàu chở dầu ở Lâm Đồng, 1 người mất tích](https://vov.vn/xa-hoi/chay-tau-cho-dau-o-lam-dong-1-nguoi-mat-tich-post1287835.vov) - 04:54 29/04/2026
+- 💂 [Dông lốc kèm theo mưa lớn gây thiệt hại tài sản người dân ở Thanh Hoá](https://vov.vn/xa-hoi/dong-loc-kem-theo-mua-lon-gay-thiet-hai-tai-san-nguoi-dan-o-thanh-hoa-post1287848.vov) - 04:53 29/04/2026
+- 🧐 [Hà Nội cho phép người đã có nhà nhưng đi làm xa hơn 20km được mua nhà ở xã hội](https://vov.vn/xa-hoi/ha-noi-cho-phep-nguoi-da-co-nha-nhung-di-lam-xa-hon-20km-duoc-mua-nha-o-xa-hoi-post1287843.vov) - 04:39 29/04/2026
+- 🔭 [Sẽ xây dựng ngân hàng đề thi đủ lớn phục vụ thi tốt nghiệp THPT trên máy tính](https://vov.vn/xa-hoi/se-xay-dung-ngan-hang-de-thi-du-lon-phuc-vu-thi-tot-nghiep-thpt-tren-may-tinh-post1287807.vov) - 04:00 29/04/2026
+- 📝 [Chi tiết tỷ lệ &amp;quot;chọi&amp;quot; vào lớp 10 tại 122 trường THPT công lập Hà Nội năm 2026](https://vov.vn/xa-hoi/chi-tiet-ty-le-choi-vao-lop-10-tai-122-truong-thpt-cong-lap-ha-noi-nam-2026-post1287806.vov) - 03:31 29/04/2026
+- 🌈 [Những trường THPT có tỷ lệ &amp;quot;chọi&amp;quot; khủng 2026 năm ngoái lấy điểm chuẩn thế nào?](https://vov.vn/xa-hoi/nhung-truong-thpt-co-ty-le-choi-khung-2026-nam-ngoai-lay-diem-chuan-the-nao-post1287798.vov) - 03:20 29/04/2026
+- 🚦 [Trạm sạc xe điện tại chung cư: Phân vùng không gian và cô lập rủi ro](https://vov.vn/xa-hoi/tram-sac-xe-dien-tai-chung-cu-phan-vung-khong-gian-va-co-lap-rui-ro-post1287789.vov) - 02:30 29/04/2026
+- 🤗 [Hà Nội: Tỷ lệ chọi vào lớp 10 công lập là 1/3,35, cuộc đua ngày càng &amp;quot;nóng&amp;quot;](https://vov.vn/xa-hoi/ha-noi-ty-le-choi-vao-lop-10-cong-lap-la-1335-cuoc-dua-ngay-cang-nong-post1287773.vov) - 02:04 29/04/2026
+- 🐎 [Ngôi trường có tỷ lệ chọi lớp 10 &amp;#039;thấp hiếm thấy&amp;quot;, chỉ 24 em đăng ký nguyện vọng 1](https://vov.vn/xa-hoi/ngoi-truong-co-ty-le-choi-lop-10-thap-hiem-thay-chi-24-em-dang-ky-nguyen-vong-1-post1287776.vov) - 02:02 29/04/2026
+- 🥸 [Xử phạt 90 triệu đồng, đình chỉ hoạt động cơ sở sản xuất bánh mì gây ngộ độc](https://vov.vn/xa-hoi/xu-phat-90-trieu-dong-dinh-chi-hoat-dong-co-so-san-xuat-banh-mi-gay-ngo-doc-post1287765.vov) - 01:39 29/04/2026
+- ⚗️ [Hai vụ tai nạn liên tiếp trong đêm mưa dông ở Hà Nội, 2 người tử vong tại chỗ](https://vov.vn/xa-hoi/hai-vu-tai-nan-lien-tiep-trong-dem-mua-dong-o-ha-noi-2-nguoi-tu-vong-tai-cho-post1287762.vov) - 01:33 29/04/2026
+- 🌈 [Mưa đá kèm dông lốc gây thiệt hại tại tỉnh Điện Biên](https://vov.vn/xa-hoi/mua-da-kem-dong-loc-gay-thiet-hai-tai-tinh-dien-bien-post1287763.vov) - 01:22 29/04/2026
+- 🎬 [Thời tiết hôm nay 29/4: Hà Nội và Bắc Bộ mưa dông, cục bộ có nơi mưa to](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-294-ha-noi-va-bac-bo-mua-dong-cuc-bo-co-noi-mua-to-post1287629.vov) - 00:07 29/04/2026
+- 👺 [Thi lớp 10: Bí quyết nước rút ôn Văn hiệu quả, tránh học tủ vẫn đạt điểm cao](https://vov.vn/xa-hoi/thi-lop-10-bi-quyet-nuoc-rut-on-van-hieu-qua-tranh-hoc-tu-van-dat-diem-cao-post1287650.vov) - 23:20 28/04/2026
+- 🕴 [&amp;quot;Đếm ngược ngày về đích&amp;quot; trên công trường dự án hạ tầng thoát nước ngầm ở Hà Nội](https://vov.vn/xa-hoi/dem-nguoc-ngay-ve-dich-tren-cong-truong-du-an-ha-tang-thoat-nuoc-ngam-o-ha-noi-post1287614.vov) - 23:00 28/04/2026
+- ⛽️ [Quảng trường công viên phía Đông hồ Hoàn Kiếm mặt bằng 2,14ha dần lộ diện](https://vov.vn/xa-hoi/quang-truong-cong-vien-phia-dong-ho-hoan-kiem-mat-bang-214ha-dan-lo-dien-post1287321.vov) - 23:00 28/04/2026
+- 🦍 [Tuổi trẻ Tịnh Biên &lpar;An Giang&rpar; tưởng niệm, tri ân các Anh hùng liệt sĩ](https://vov.vn/xa-hoi/tuoi-tre-tinh-bien-an-giang-tuong-niem-tri-an-cac-anh-hung-liet-si-post1287735.vov) - 15:55 28/04/2026
+- 🎉 [Bộ Y tế vào cuộc vụ 25 học sinh và bảo mẫu ở TP.HCM nghi ngộ độc](https://vov.vn/xa-hoi/bo-y-te-vao-cuoc-vu-25-hoc-sinh-va-bao-mau-o-tphcm-nghi-ngo-doc-post1287732.vov) - 15:12 28/04/2026
+- 😎 [Các trạm y tế ở Cà Mau thiếu hơn 400 biên chế, trong đó có 14 giám đốc](https://vov.vn/xa-hoi/cac-tram-y-te-o-ca-mau-thieu-hon-400-bien-che-trong-do-co-14-giam-doc-post1287729.vov) - 14:56 28/04/2026
+- 🪄 [Đổi mới sáng tạo và Đối thoại tháng 5 - điểm nhấn của Tháng Công nhân tại TP.HCM](https://vov.vn/xa-hoi/doi-moi-sang-tao-va-doi-thoai-thang-5-diem-nhan-cua-thang-cong-nhan-tai-tphcm-post1287727.vov) - 14:46 28/04/2026
+- 🎊 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
+- 🦄 [Nghệ An kỷ niệm 60 năm ngày hy sinh của 33 liệt sĩ TNXP tại hang Hỏa Tiễn](https://vov.vn/xa-hoi/nghe-an-ky-niem-60-nam-ngay-hy-sinh-cua-33-liet-si-tnxp-tai-hang-hoa-tien-post1287719.vov) - 14:16 28/04/2026
+- 🐻 [TP.HCM tiếp tục giữ 11 công viên tạm trên đất “vàng” chưa triển khai](https://vov.vn/xa-hoi/tphcm-tiep-tuc-giu-11-cong-vien-tam-tren-dat-vang-chua-trien-khai-post1287721.vov) - 14:11 28/04/2026
+- 🤡 [Giá thu rác sinh hoạt tại TP.HCM: Xả ít hay xả nhiều vẫn đóng tiền như nhau?](https://vov.vn/xa-hoi/gia-thu-rac-sinh-hoat-tai-tphcm-xa-it-hay-xa-nhieu-van-dong-tien-nhu-nhau-post1287718.vov) - 13:56 28/04/2026
+- 🧑‍🏫 [Bảo đảm an toàn khai thác cao tốc Quảng Ngãi - Hoài Nhơn](https://vov.vn/xa-hoi/bao-dam-an-toan-khai-thac-cao-toc-quang-ngai-hoai-nhon-post1287711.vov) - 13:21 28/04/2026<!-- vov-xa-hoi:END -->
