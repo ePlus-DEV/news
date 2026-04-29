@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Việt Nam thúc đẩy tầm nhìn chiến lược tại Hội nghị AEMM 25](https://vov.vn/chinh-tri/viet-nam-thuc-day-tam-nhin-chien-luoc-tai-hoi-nghi-aemm-25-post1287739.vov) - 16:21 28/04/2026
-- 💃 [Việt Nam đề cao UNCLOS tại phiên thảo luận cấp cao của Hội đồng Bảo an](https://vov.vn/chinh-tri/viet-nam-de-cao-unclos-tai-phien-thao-luan-cap-cao-cua-hoi-dong-bao-an-post1287734.vov) - 15:42 28/04/2026
-- 🫶 [Bộ trưởng Bộ Công an Lương Tam Quang tiếp xúc cử tri tại tỉnh Hưng Yên](https://vov.vn/chinh-tri/bo-truong-bo-cong-an-luong-tam-quang-tiep-xuc-cu-tri-tai-tinh-hung-yen-post1287730.vov) - 14:59 28/04/2026
-- 👨‍🏫 [Thông qua Đề án công nhận tỉnh Quảng Ninh đạt tiêu chí đô thị loại I](https://vov.vn/chinh-tri/thong-qua-de-an-cong-nhan-tinh-quang-ninh-dat-tieu-chi-do-thi-loai-i-post1287722.vov) - 14:10 28/04/2026
-- 🪜 [Nhật Bản thúc đẩy lợi ích chiến lược trong hợp tác với Việt Nam](https://vov.vn/chinh-tri/nhat-ban-thuc-day-loi-ich-chien-luoc-trong-hop-tac-voi-viet-nam-post1287710.vov) - 13:54 28/04/2026
-- 🌋 [Đại tướng Phan Văn Giang tiếp xúc cử tri Thái Nguyên sau Kỳ họp thứ Nhất](https://vov.vn/chinh-tri/dai-tuong-phan-van-giang-tiep-xuc-cu-tri-thai-nguyen-sau-ky-hop-thu-nhat-post1287716.vov) - 13:46 28/04/2026
-- 🎉 [Phó Chủ tịch Quốc hội Nguyễn Thị Thanh tiếp xúc cử tri tỉnh Ninh Bình](https://vov.vn/chinh-tri/pho-chu-tich-quoc-hoi-nguyen-thi-thanh-tiep-xuc-cu-tri-tinh-ninh-binh-post1287708.vov) - 13:05 28/04/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Đại sứ Mông Cổ đến chào từ biệt](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-dai-su-mong-co-den-chao-tu-biet-post1287707.vov) - 12:54 28/04/2026
-- 🏊 [Thủ tướng Lê Minh Hưng dâng hương, tặng quà tại thành phố Hải Phòng](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-dang-huong-tang-qua-tai-thanh-pho-hai-phong-post1287706.vov) - 12:46 28/04/2026
-- 🧑‍💻 [Các xã, phường của Buôn Ma Thuột &lpar;cũ&rpar; tiếp tục được hưởng cơ chế đặc thù](https://vov.vn/chinh-tri/cac-xa-phuong-cua-buon-ma-thuot-cu-tiep-tuc-duoc-huong-co-che-dac-thu-post1287701.vov) - 12:23 28/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Công an TP Đà Nẵng công bố thăng cấp hàm cho 23 Đại tá và 89 Thượng tá](https://vov.vn/chinh-tri/cong-an-tp-da-nang-cong-bo-thang-cap-ham-cho-23-dai-ta-va-89-thuong-ta-post1287927.vov) - 09:16 29/04/2026
+- 💃 [Thủ tướng: Kiên định mục tiêu tăng trưởng 2 con số trên nền tảng giữ vững ổn định](https://vov.vn/chinh-tri/thu-tuong-kien-dinh-muc-tieu-tang-truong-2-con-so-tren-nen-tang-giu-vung-on-dinh-post1287903.vov) - 08:09 29/04/2026
+- 🫶 [TP.HCM mong muốn các tướng lĩnh, nhân chứng lịch sử góp ý, hiến kế phát triển](https://vov.vn/chinh-tri/tphcm-mong-muon-cac-tuong-linh-nhan-chung-lich-su-gop-y-hien-ke-phat-trien-post1287888.vov) - 08:01 29/04/2026
+- 👨‍🏫 [Thái Nguyên kiện toàn bộ máy, điều động 39 cán bộ chủ chốt](https://vov.vn/chinh-tri/thai-nguyen-kien-toan-bo-may-dieu-dong-39-can-bo-chu-chot-post1287896.vov) - 07:51 29/04/2026
+- 🪜 [Tiến sĩ Phạm Minh Thế: Giải phóng quần đảo Trường Sa là chiến công xuất sắc](https://vov.vn/chinh-tri/tien-si-pham-minh-the-giai-phong-quan-dao-truong-sa-la-chien-cong-xuat-sac-post1287481.vov) - 07:30 29/04/2026
+- 🌋 [Ông Nguyễn Thanh Nghị thăm, tặng quà gia đình chính sách tại Lâm Đồng](https://vov.vn/chinh-tri/ong-nguyen-thanh-nghi-tham-tang-qua-gia-dinh-chinh-sach-tai-lam-dong-post1287887.vov) - 07:29 29/04/2026
+- 🎉 [Phó Chủ tịch nước trao Huân chương Lao động hạng Nhất cho Saigontourist](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-trao-huan-chuong-lao-dong-hang-nhat-cho-saigontourist-post1287881.vov) - 07:27 29/04/2026
+- 🌝 [Phó Chủ tịch Quốc hội Nguyễn Thị Hồng tiếp xúc cử tri tại Sơn La](https://vov.vn/chinh-tri/pho-chu-tich-quoc-hoi-nguyen-thi-hong-tiep-xuc-cu-tri-tai-son-la-post1287882.vov) - 07:25 29/04/2026
+- 🏊 [“Quan hệ Việt - Nhật đang dần tiến đến mức là đối tác không thể thiếu của nhau”](https://vov.vn/chinh-tri/quan-he-viet-nhat-dang-dan-tien-den-muc-la-doi-tac-khong-the-thieu-cua-nhau-post1287771.vov) - 07:00 29/04/2026
+- 🧑‍💻 [Chủ tịch Quốc hội thăm, tặng quà gia đình chính sách, công nhân tại tỉnh An Giang](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tham-tang-qua-gia-dinh-chinh-sach-cong-nhan-tai-tinh-an-giang-post1287863.vov) - 05:24 29/04/2026<!-- vov-chinh-tri:END -->
