@@ -714,17 +714,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Tổng Bí thư, Chủ tịch nước gửi điện chia buồn vụ tai nạn đường sắt ở Indonesia](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gui-dien-chia-buon-vu-tai-nan-duong-sat-o-indonesia-post1287751.vov) - 23:02 28/04/2026
-- 🕯 [&amp;quot;Đếm ngược ngày về đích&amp;quot; trên công trường dự án hạ tầng thoát nước ngầm ở Hà Nội](https://vov.vn/xa-hoi/dem-nguoc-ngay-ve-dich-tren-cong-truong-du-an-ha-tang-thoat-nuoc-ngam-o-ha-noi-post1287614.vov) - 23:00 28/04/2026
-- 🌊 [Quảng trường công viên phía Đông hồ Hoàn Kiếm mặt bằng 2,14ha dần lộ diện](https://vov.vn/xa-hoi/quang-truong-cong-vien-phia-dong-ho-hoan-kiem-mat-bang-214ha-dan-lo-dien-post1287321.vov) - 23:00 28/04/2026
-- 🥷 [Ngưỡng doanh thu miễn thuế với hộ kinh doanh nên nâng lên 1 - 2 tỉ đồng](https://vov.vn/kinh-te/nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-nen-nang-len-1-2-ti-dong-post1287377.vov) - 23:00 28/04/2026
-- 🎡 [Mỹ phong tỏa hải cảng, Iran trụ được bao lâu và duy trì nguồn thu dầu mỏ ra sao?](https://vov.vn/the-gioi/quan-sat/my-phong-toa-hai-cang-iran-tru-duoc-bao-lau-va-duy-tri-nguon-thu-dau-mo-ra-sao-post1287674.vov) - 22:45 28/04/2026
-- 🚀 [Nóng 24h: Diễn biến mới vụ việc liên quan dự án “Nuôi em”](https://vov.vn/phap-luat/nong-24h-dien-bien-moi-vu-viec-lien-quan-du-an-nuoi-em-post1287728.vov) - 22:31 28/04/2026
-- 🔥 [Đường tới toàn thắng 30/4/1975: Khởi nghĩa từng phần - bước mở đầu sáng tạo](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-khoi-nghia-tung-phan-buoc-mo-dau-sang-tao-post1287505.vov) - 22:20 28/04/2026
-- 🌋 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
-- 🕴 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026
-- 🥰 [Tuyển sinh lớp 10 tại Hà Nội: Chi tiết số lượng nguyện vọng vào từng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-tai-ha-noi-chi-tiet-so-luong-nguyen-vong-vao-tung-truong-post1287724.vov) - 14:24 28/04/2026
-- 🧐 [Chương trình nghệ thuật chính luận đặc biệt “Âm vang Tổ quốc”](https://vov.vn/van-hoa/am-nhac/chuong-trinh-nghe-thuat-chinh-luan-dac-biet-am-vang-to-quoc-post1287612.vov) - 12:57 28/04/2026<!-- vov:END -->
+- 🌜 [Hà Nội cho phép người đã có nhà nhưng đi làm xa hơn 20km được mua nhà ở xã hội](https://vov.vn/xa-hoi/ha-noi-cho-phep-nguoi-da-co-nha-nhung-di-lam-xa-hon-20km-duoc-mua-nha-o-xa-hoi-post1287843.vov) - 04:39 29/04/2026
+- 🕯 [Chi tiết tỷ lệ &amp;quot;chọi&amp;quot; vào lớp 10 tại 122 trường THPT công lập Hà Nội năm 2026](https://vov.vn/xa-hoi/chi-tiet-ty-le-choi-vao-lop-10-tai-122-truong-thpt-cong-lap-ha-noi-nam-2026-post1287806.vov) - 03:31 29/04/2026
+- 🌊 [Chi tiết tỷ lệ &amp;quot;chọi&amp;quot; vào lớp 10 tại 122 trường THPT công lập Hà Nội năm 2026](https://vov.vn/xa-hoi/chi-tiet-ty-le-choi-vao-lop-10-tai-122-truong-thpt-cong-lap-ha-noi-nam-2026-post1287806.vov) - 03:31 29/04/2026
+- 🥷 [Kênh 20 tỷ bỏ hoang, Đắk Lắk xin thêm 50 tỷ để khắc phục](https://vov.vn/kinh-te/kenh-20-ty-bo-hoang-dak-lak-xin-them-50-ty-de-khac-phuc-post1287797.vov) - 03:24 29/04/2026
+- 🎡 [Chủ tịch Quốc hội tri ân các Anh hùng liệt sỹ, người có công tại tỉnh An Giang](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tri-an-cac-anh-hung-liet-sy-nguoi-co-cong-tai-tinh-an-giang-post1287804.vov) - 03:24 29/04/2026
+- 🚀 [Những trường THPT có tỷ lệ &amp;quot;chọi&amp;quot; khủng 2026 năm ngoái lấy điểm chuẩn thế nào?](https://vov.vn/xa-hoi/nhung-truong-thpt-co-ty-le-choi-khung-2026-nam-ngoai-lay-diem-chuan-the-nao-post1287798.vov) - 03:20 29/04/2026
+- 🔥 [ĐT Indonesia gây bất ngờ trước ngày chạm trán ĐT Việt Nam](https://vov.vn/the-thao/dt-indonesia-gay-bat-ngo-truoc-ngay-cham-tran-dt-viet-nam-post1287778.vov) - 03:00 29/04/2026
+- 🌋 [Hà Nội: Tỷ lệ chọi vào lớp 10 công lập là 1/3,35, cuộc đua ngày càng &amp;quot;nóng&amp;quot;](https://vov.vn/xa-hoi/ha-noi-ty-le-choi-vao-lop-10-cong-lap-la-1335-cuoc-dua-ngay-cang-nong-post1287773.vov) - 02:04 29/04/2026
+- 🕴 [Toàn cảnh quốc tế sáng 29/4: Chiến hạm Mỹ dồn ép, đuổi tàu dầu đang đến cảng Iran](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-294-chien-ham-my-don-ep-duoi-tau-dau-dang-den-cang-iran-post1287767.vov) - 01:51 29/04/2026
+- 🥰 [Ngưỡng doanh thu miễn thuế với hộ kinh doanh nên nâng lên 1 - 2 tỉ đồng](https://vov.vn/kinh-te/nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-nen-nang-len-1-2-ti-dong-post1287377.vov) - 23:00 28/04/2026
+- 🧐 [Hàng nghìn khán giả đội mưa xem concert quốc gia “Âm vang Tổ quốc”](https://vov.vn/van-hoa/hang-nghin-khan-gia-doi-mua-xem-concert-quoc-gia-am-vang-to-quoc-post1287743.vov) - 22:19 28/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
