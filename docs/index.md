@@ -714,8 +714,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Chính thức nâng ngưỡng doanh thu miễn thuế với hộ kinh doanh lên 1 tỷ đồng](https://vov.vn/kinh-te/chinh-thuc-nang-nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-len-1-ty-dong-post1287993.vov) - 11:55 29/04/2026
-- 🕯 [Dòng xe cộ nối đuôi nhau rời Thủ đô đi nghỉ lễ 30/4, áp lực giao thông tăng cao](https://vov.vn/xa-hoi/dong-xe-co-noi-duoi-nhau-roi-thu-do-di-nghi-le-304-ap-luc-giao-thong-tang-cao-post1287987.vov) - 11:55 29/04/2026
+- 🌜 [Chủ tịch Quốc hội ký ban hành Nghị quyết thành lập thành phố Đồng Nai](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-ky-ban-hanh-nghi-quyet-thanh-lap-thanh-pho-dong-nai-post1288007.vov) - 12:58 29/04/2026
+- 🕯 [Chính thức nâng ngưỡng doanh thu miễn thuế với hộ kinh doanh lên 1 tỷ đồng](https://vov.vn/kinh-te/chinh-thuc-nang-nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-len-1-ty-dong-post1287993.vov) - 11:55 29/04/2026
 - 🌊 [Thủ tướng: Chuyển đổi mô hình sản xuất để không bị mất lợi thế cạnh tranh](https://vov.vn/chinh-tri/thu-tuong-chuyen-doi-mo-hinh-san-xuat-de-khong-bi-mat-loi-the-canh-tranh-post1287978.vov) - 10:53 29/04/2026
 - 🥷 [Lễ Thượng cờ - Biểu tượng của khát vọng thống nhất non sông](https://vov.vn/chinh-tri/le-thuong-co-bieu-tuong-cua-khat-vong-thong-nhat-non-song-post1287921.vov) - 10:29 29/04/2026
 - 🎡 [Vì sao việc UAE rời OPEC là một vấn đề lớn?](https://vov.vn/the-gioi/quan-sat/vi-sao-viec-uae-roi-opec-la-mot-van-de-lon-post1287954.vov) - 10:28 29/04/2026
