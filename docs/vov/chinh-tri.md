@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Công an TP Đà Nẵng công bố thăng cấp hàm cho 23 Đại tá và 89 Thượng tá](https://vov.vn/chinh-tri/cong-an-tp-da-nang-cong-bo-thang-cap-ham-cho-23-dai-ta-va-89-thuong-ta-post1287927.vov) - 09:16 29/04/2026
-- 💃 [Thủ tướng: Kiên định mục tiêu tăng trưởng 2 con số trên nền tảng giữ vững ổn định](https://vov.vn/chinh-tri/thu-tuong-kien-dinh-muc-tieu-tang-truong-2-con-so-tren-nen-tang-giu-vung-on-dinh-post1287903.vov) - 08:09 29/04/2026
-- 🫶 [TP.HCM mong muốn các tướng lĩnh, nhân chứng lịch sử góp ý, hiến kế phát triển](https://vov.vn/chinh-tri/tphcm-mong-muon-cac-tuong-linh-nhan-chung-lich-su-gop-y-hien-ke-phat-trien-post1287888.vov) - 08:01 29/04/2026
-- 👨‍🏫 [Thái Nguyên kiện toàn bộ máy, điều động 39 cán bộ chủ chốt](https://vov.vn/chinh-tri/thai-nguyen-kien-toan-bo-may-dieu-dong-39-can-bo-chu-chot-post1287896.vov) - 07:51 29/04/2026
-- 🪜 [Tiến sĩ Phạm Minh Thế: Giải phóng quần đảo Trường Sa là chiến công xuất sắc](https://vov.vn/chinh-tri/tien-si-pham-minh-the-giai-phong-quan-dao-truong-sa-la-chien-cong-xuat-sac-post1287481.vov) - 07:30 29/04/2026
-- 🌋 [Ông Nguyễn Thanh Nghị thăm, tặng quà gia đình chính sách tại Lâm Đồng](https://vov.vn/chinh-tri/ong-nguyen-thanh-nghi-tham-tang-qua-gia-dinh-chinh-sach-tai-lam-dong-post1287887.vov) - 07:29 29/04/2026
-- 🎉 [Phó Chủ tịch nước trao Huân chương Lao động hạng Nhất cho Saigontourist](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-trao-huan-chuong-lao-dong-hang-nhat-cho-saigontourist-post1287881.vov) - 07:27 29/04/2026
-- 🌝 [Phó Chủ tịch Quốc hội Nguyễn Thị Hồng tiếp xúc cử tri tại Sơn La](https://vov.vn/chinh-tri/pho-chu-tich-quoc-hoi-nguyen-thi-hong-tiep-xuc-cu-tri-tai-son-la-post1287882.vov) - 07:25 29/04/2026
-- 🏊 [“Quan hệ Việt - Nhật đang dần tiến đến mức là đối tác không thể thiếu của nhau”](https://vov.vn/chinh-tri/quan-he-viet-nhat-dang-dan-tien-den-muc-la-doi-tac-khong-the-thieu-cua-nhau-post1287771.vov) - 07:00 29/04/2026
-- 🧑‍💻 [Chủ tịch Quốc hội thăm, tặng quà gia đình chính sách, công nhân tại tỉnh An Giang](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tham-tang-qua-gia-dinh-chinh-sach-cong-nhan-tai-tinh-an-giang-post1287863.vov) - 05:24 29/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Phó Chủ tịch Thường trực Quốc hội Đỗ Văn Chiến tiếp xúc cử tri tại Bắc Ninh](https://vov.vn/chinh-tri/pho-chu-tich-thuong-truc-quoc-hoi-do-van-chien-tiep-xuc-cu-tri-tai-bac-ninh-post1288033.vov) - 15:04 29/04/2026
+- 💃 [Thủ tướng: Khẩn trương điều chỉnh tổng thể quy hoạch hệ thống đô thị và nông thôn](https://vov.vn/chinh-tri/thu-tuong-khan-truong-dieu-chinh-tong-the-quy-hoach-he-thong-do-thi-va-nong-thon-post1288010.vov) - 13:16 29/04/2026
+- 🫶 [Chủ tịch Quốc hội ký ban hành Nghị quyết thành lập thành phố Đồng Nai](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-ky-ban-hanh-nghi-quyet-thanh-lap-thanh-pho-dong-nai-post1288007.vov) - 12:58 29/04/2026
+- 👨‍🏫 [Thủ tướng Lê Minh Hưng gặp mặt chúc mừng đội tuyển bóng đá nam U17 Quốc gia](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-gap-mat-chuc-mung-doi-tuyen-bong-da-nam-u17-quoc-gia-post1288005.vov) - 12:57 29/04/2026
+- 🪜 [Phó Chủ tịch nước Võ Thị Ánh Xuân thăm và tặng quà tại Đồng Tháp](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-vo-thi-anh-xuan-tham-va-tang-qua-tai-dong-thap-post1288000.vov) - 12:11 29/04/2026
+- 🌋 [Thủ tướng Nhật Bản sẽ thăm chính thức Việt Nam: Tăng cường hợp tác song phương](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-se-tham-chinh-thuc-viet-nam-tang-cuong-hop-tac-song-phuong-post1287996.vov) - 12:04 29/04/2026
+- 🎉 [Thủ tướng: Chuyển đổi mô hình sản xuất để không bị mất lợi thế cạnh tranh](https://vov.vn/chinh-tri/thu-tuong-chuyen-doi-mo-hinh-san-xuat-de-khong-bi-mat-loi-the-canh-tranh-post1287978.vov) - 10:53 29/04/2026
+- 🌝 [Lễ Thượng cờ - Biểu tượng của khát vọng thống nhất non sông](https://vov.vn/chinh-tri/le-thuong-co-bieu-tuong-cua-khat-vong-thong-nhat-non-song-post1287921.vov) - 10:29 29/04/2026
+- 🏊 [Ông Nguyễn Thanh Nghị thăm, tặng quà gia đình chính sách tại Quảng Ngãi](https://vov.vn/chinh-tri/ong-nguyen-thanh-nghi-tham-tang-qua-gia-dinh-chinh-sach-tai-quang-ngai-post1287963.vov) - 10:27 29/04/2026
+- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Tái định vị không gian phát triển Quảng Trị với chiến lược “vươn Đông, tỏa Tây&amp;quot;](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tai-dinh-vi-khong-gian-phat-trien-quang-tri-voi-chien-luoc-vuon-dong-toa-tay-post1287959.vov) - 10:22 29/04/2026<!-- vov-chinh-tri:END -->
