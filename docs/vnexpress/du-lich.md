@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách đổ đến xem nghi lễ triều Nguyễn tái hiện trong Đại Nội Huế](https://vnexpress.net/du-khach-do-den-xem-nghi-le-trieu-nguyen-tai-hien-trong-dai-noi-hue-5067212.html) - 07:10 26/04/2026
-- 🪄 [Lần đầu thám hiểm hang Sơn Đoòng bằng công nghệ thực tế ảo](https://vnexpress.net/lan-dau-tham-hiem-hang-son-doong-bang-cong-nghe-thuc-te-ao-5065651.html) - 01:52 26/04/2026
-- 🦅 [Khách đổ về vườn thú ở Quy Nhơn xem ba hổ con Bengal mới sinh](https://vnexpress.net/khach-do-ve-vuon-thu-o-quy-nhon-xem-ba-ho-con-bengal-moi-sinh-5067069.html) - 00:00 26/04/2026
-- 🕴 [Bãi Cháy lần đầu tiên có phố đêm phục vụ khách du lịch](https://vnexpress.net/bai-chay-lan-dau-tien-co-pho-dem-phuc-vu-khach-du-lich-5067197.html) - 17:55 25/04/2026
-- 👀 [Pháo hoa thắp sáng bầu trời Việt Trì trước ngày Giỗ Tổ](https://vnexpress.net/phao-hoa-thap-sang-bau-troi-viet-tri-truoc-ngay-gio-to-5067192.html) - 17:24 25/04/2026
-- 🎭 [Hà Giang, Phú Quý &#39;cháy phòng&#39; ngày đầu kỳ nghỉ Giỗ Tổ](https://vnexpress.net/ha-giang-phu-quy-chay-phong-ngay-dau-ky-nghi-gio-to-5067158.html) - 14:09 25/04/2026
-- 🦒 [Tạo &#39;tấm hộ chiếu&#39; cho bánh mì Việt vươn ra thế giới](https://vnexpress.net/tao-tam-ho-chieu-cho-banh-mi-viet-vuon-ra-the-gioi-5067075.html) - 12:00 25/04/2026
-- 👨‍🏫 [Biển người xếp hàng ở cửa khẩu chờ đi du lịch Trung Quốc](https://vnexpress.net/bien-nguoi-xep-hang-o-cua-khau-cho-di-du-lich-trung-quoc-5067100.html) - 10:54 25/04/2026
-- ⚗️ [Giới trẻ mặc giáp binh thời Lý - Trần diễu hành tại Thảo Cầm Viên](https://vnexpress.net/gioi-tre-mac-giap-binh-thoi-ly-tran-dieu-hanh-tai-thao-cam-vien-5067031.html) - 07:16 25/04/2026
-- 🥸 [Chợ Cồn - điểm &#39;phải đến&#39; của du khách ở Đà Nẵng](https://vnexpress.net/cho-con-diem-phai-den-cua-du-khach-o-da-nang-5066568.html) - 04:27 25/04/2026
-- 🤠 [Bên trong quán lẩu lớn nhất thế giới](https://vnexpress.net/ben-trong-quan-lau-lon-nhat-the-gioi-5066715.html) - 00:00 25/04/2026
-- 🚀 [Lỡ chuyến bay vì những khoản phí xuất cảnh bất ngờ](https://vnexpress.net/lo-chuyen-bay-vi-nhung-khoan-phi-xuat-canh-bat-ngo-5066411.html) - 17:00 24/04/2026
-- 💻 [Khối băng khổng lồ phong toả đường lên đỉnh Everest](https://vnexpress.net/khoi-bang-khong-lo-phong-toa-duong-len-dinh-everest-5066840.html) - 13:01 24/04/2026
-- 💼 [Quán phở Hà Nội Tổng thống Hàn Quốc chọn ăn tối](https://vnexpress.net/quan-pho-ha-noi-tong-thong-han-quoc-chon-an-toi-5066661.html) - 09:11 24/04/2026
-- 🤡 [Nhà hàng ở TP HCM vào top 10 tốt nhất thế giới](https://vnexpress.net/nha-hang-o-tp-hcm-vao-top-10-tot-nhat-the-gioi-5066513.html) - 07:43 24/04/2026
-- 🐵 [Đông nghịt người &#39;đổ bộ&#39; lễ hội bánh mì ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-do-bo-le-hoi-banh-mi-o-tp-hcm-5066394.html) - 02:34 24/04/2026
-- 😺 [Khách Tây bất ngờ khi nhận quần áo may &#39;siêu tốc&#39; ở Hội An](https://vnexpress.net/khach-tay-bat-ngo-khi-nhan-quan-ao-may-sieu-toc-o-hoi-an-5065149.html) - 00:00 24/04/2026
-- 🌈 [Giải mã &#39;cỗ máy&#39; đưa Changi thành sân bay tốt nhất thế giới](https://vnexpress.net/giai-ma-co-may-dua-changi-thanh-san-bay-tot-nhat-the-gioi-5066330.html) - 17:14 23/04/2026
-- ⚗️ [Đền thờ Ấn Độ buộc khách hành hương dùng đồ uống có nước tiểu bò](https://vnexpress.net/den-tho-an-do-buoc-khach-hanh-huong-dung-do-uong-co-nuoc-tieu-bo-5066337.html) - 13:30 23/04/2026
-- 👀 [Một ngày ở thành phố lớn nhất thế giới](https://vnexpress.net/mot-ngay-o-thanh-pho-lon-nhat-the-gioi-5066141.html) - 12:00 23/04/2026
-- 👍 [Hàng không Đông Nam Á hưởng lợi nhờ dòng khách né chiến sự Trung Đông](https://vnexpress.net/hang-khong-dong-nam-a-huong-loi-nho-dong-khach-ne-chien-su-trung-dong-5066324.html) - 11:00 23/04/2026
-- 💄 [100 món muối hình bản đồ Việt Nam lập kỷ lục ẩm thực](https://vnexpress.net/100-mon-muoi-hinh-ban-do-viet-nam-lap-ky-luc-am-thuc-5066175.html) - 09:22 23/04/2026
-- 🥷 [Chuyến bay chậm hơn một giờ vì hành khách quát tiếp viên](https://vnexpress.net/chuyen-bay-cham-hon-mot-gio-vi-hanh-khach-quat-tiep-vien-5066177.html) - 09:06 23/04/2026
-- 📝 [Tour Nhật Bản - Trung Quốc đắt khách dịp nghỉ lễ Giỗ Tổ](https://vnexpress.net/tour-nhat-ban-trung-quoc-dat-khach-dip-nghi-le-gio-to-5065776.html) - 05:33 23/04/2026
-- 🌜 [Hổ châu Á sinh 3 con trong vườn thú ở Gia Lai](https://vnexpress.net/ho-chau-a-sinh-3-con-trong-vuon-thu-o-gia-lai-5065952.html) - 03:00 23/04/2026
-- 📝 [Người trẻ ở bộ lạc biệt lập trong rừng Amazon học cách dùng mạng xã hội](https://vnexpress.net/nguoi-tre-o-bo-lac-biet-lap-trong-rung-amazon-hoc-cach-dung-mang-xa-hoi-5065936.html) - 02:18 23/04/2026
-- 🧰 [Tuyến đường hoa giấy nở rộ tại làng chài Nha Trang](https://vnexpress.net/tuyen-duong-hoa-giay-no-ro-tai-lang-chai-nha-trang-5065551.html) - 01:42 23/04/2026
-- 🎬 [Khách quốc tế e ngại đến Mỹ xem World Cup 2026](https://vnexpress.net/khach-quoc-te-e-ngai-den-my-xem-world-cup-2026-5065879.html) - 15:53 22/04/2026
-- 🧐 [Đà Nẵng, Sa Pa &#39;cháy&#39; phòng dịp Giỗ Tổ, 30/4](https://vnexpress.net/da-nang-sa-pa-chay-phong-dip-gio-to-30-4-5065818.html) - 12:30 22/04/2026
-- 👨‍🏫 [Khách sạn nào lâu đời nhất Đà Lạt?](https://vnexpress.net/khach-san-nao-lau-doi-nhat-da-lat-5065737.html) - 12:00 22/04/2026
-- 🦣 [Hilton Quang Hanh Onsen Resort khai trương](https://vnexpress.net/hilton-quang-hanh-onsen-resort-khai-truong-5065453.html) - 10:15 22/04/2026
-- 🌋 [Bốn phiên chợ lá diễn ra xuyên lễ 30/4 trên núi Bà Đen](https://vnexpress.net/bon-phien-cho-la-dien-ra-xuyen-le-30-4-tren-nui-ba-den-5065594.html) - 07:00 22/04/2026
-- 🦄 [Đà Nẵng được khách Việt tìm kiếm nhiều nhất dịp Giỗ Tổ và 30/4](https://vnexpress.net/da-nang-duoc-khach-viet-tim-kiem-nhieu-nhat-dip-gio-to-va-30-4-5065282.html) - 05:36 22/04/2026
-- 💡 [Chinh phục đỉnh Tam Đảo Bắc &#39;không dành cho người mới leo núi&#39;](https://vnexpress.net/chinh-phuc-dinh-tam-dao-bac-khong-danh-cho-nguoi-moi-leo-nui-5065226.html) - 03:40 22/04/2026
-- 🌏 [Huế tái hiện yến tiệc cung đình tại nhà hát Duyệt Thị Đường](https://vnexpress.net/hue-tai-hien-yen-tiec-cung-dinh-tai-nha-hat-duyet-thi-duong-5065469.html) - 02:17 22/04/2026
-- 💂 [Ba điểm săn đồ cổ, mô hình giới hạn ở Singapore](https://vnexpress.net/ba-diem-san-do-co-mo-hinh-gioi-han-o-singapore-5063335.html) - 02:00 22/04/2026
-- 🤩 [8 nhà hàng cho gia đình ở TP HCM dịp nghỉ lễ giổ Tổ và 30/4](https://vnexpress.net/8-nha-hang-cho-gia-dinh-o-tp-hcm-dip-nghi-le-gio-to-va-30-4-5065233.html) - 01:30 22/04/2026
-- 💪 [Lý do khách Việt chuộng du lịch Trung Quốc](https://vnexpress.net/ly-do-khach-viet-chuong-du-lich-trung-quoc-5062555.html) - 00:00 22/04/2026
-- 💻 [Côn Đảo vào top điểm đến trải nghiệm rùa biển hàng đầu thế giới](https://vnexpress.net/con-dao-vao-top-diem-den-trai-nghiem-rua-bien-hang-dau-the-gioi-5065118.html) - 10:06 21/04/2026
-- 🧑‍💻 [Quán bánh xèo Đà Nẵng hơn 30 năm giữ chân thực khách](https://vnexpress.net/quan-banh-xeo-da-nang-hon-30-nam-giu-chan-thuc-khach-5064818.html) - 08:39 21/04/2026
-- 🎭 [Lý do tổ hợp nghỉ dưỡng - giải trí bắc đảo Phú Quốc duy trì sức hút](https://vnexpress.net/ly-do-to-hop-nghi-duong-giai-tri-bac-dao-phu-quoc-duy-tri-suc-hut-5065190.html) - 08:30 21/04/2026
-- 🧐 [Đi đâu, chơi gì tại Hà Nội dịp Giỗ Tổ và 30/4](https://vnexpress.net/di-dau-choi-gi-tai-ha-noi-dip-gio-to-va-30-4-5064957.html) - 05:24 21/04/2026
-- 💡 [Món súp khiến hai nước cùng nhận làm &#39;cha đẻ&#39;](https://vnexpress.net/mon-sup-khien-hai-nuoc-cung-nhan-lam-cha-de-5064816.html) - 00:06 21/04/2026
-- 🌊 [Lý do giới trẻ Hàn &#39;mê mẩn&#39; ẩm thực Trung Quốc](https://vnexpress.net/ly-do-gioi-tre-han-me-man-am-thuc-trung-quoc-5064654.html) - 23:54 20/04/2026
-- 🎃 [Khách 521 lần bay hạng thương gia tiết lộ những thứ đáng tiền nhất](https://vnexpress.net/khach-521-lan-bay-hang-thuong-gia-tiet-lo-nhung-thu-dang-tien-nhat-5064682.html) - 13:00 20/04/2026
-- 🧠 [Bên trong khách sạn con nhộng &#39;bùng nổ&#39; ở London](https://vnexpress.net/ben-trong-khach-san-con-nhong-bung-no-o-london-5064632.html) - 09:00 20/04/2026
-- 💄 [Sân bay tốt nhất thế giới đón khách cao kỷ lục giữa xung đột Trung Đông](https://vnexpress.net/san-bay-tot-nhat-the-gioi-don-khach-cao-ky-luc-giua-xung-dot-trung-dong-5064664.html) - 07:44 20/04/2026
-- 🎬 [&#39;Bình thường mới&#39; ở Dubai hai tháng sau xung đột Trung Đông](https://vnexpress.net/binh-thuong-moi-o-dubai-hai-thang-sau-xung-dot-trung-dong-5064544.html) - 06:47 20/04/2026
-- 🐻 [Nhà hàng không thực đơn, khách đến &#39;ăn bằng niềm tin&#39;](https://vnexpress.net/nha-hang-khong-thuc-don-khach-den-an-bang-niem-tin-5060530.html) - 02:50 20/04/2026
-- 🌝 [Ba food tour kết hợp tham quan dịp Giỗ Tổ](https://vnexpress.net/ba-food-tour-ket-hop-tham-quan-dip-gio-to-5058208.html) - 00:00 20/04/2026
-- 🤩 [Hãng bay Thái Lan cắt giảm hàng loạt chuyến trong tháng 5](https://vnexpress.net/hang-bay-thai-lan-cat-giam-hang-loat-chuyen-trong-thang-5-5064356.html) - 17:00 19/04/2026
-- 🎬 [Khách có phải trả thêm tiền nếu hãng bay điều chỉnh phụ phí xăng dầu?](https://vnexpress.net/khach-co-phai-tra-them-tien-neu-hang-bay-dieu-chinh-phu-phi-xang-dau-5057406.html) - 11:56 19/04/2026
-- 🦩 [Quán xôi Hà Nội khiến khách xếp hàng vào ăn](https://vnexpress.net/quan-xoi-ha-noi-khien-khach-xep-hang-vao-an-5061651.html) - 08:00 19/04/2026
-- 🦍 [Cơ trưởng yêu cầu hành khách rời máy bay vì quá tải](https://vnexpress.net/co-truong-yeu-cau-hanh-khach-roi-may-bay-vi-qua-tai-5064256.html) - 06:31 19/04/2026
-- 👀 [Chùa có &#39;chuông thần, giếng Phật&#39; nằm ở tỉnh nào?](https://vnexpress.net/chua-co-chuong-than-gieng-phat-nam-o-tinh-nao-5064193.html) - 02:08 19/04/2026
-- 🧰 [Phố cổ Hội An 35 năm trước trong ảnh khách Đức](https://vnexpress.net/pho-co-hoi-an-35-nam-truoc-trong-anh-khach-duc-5063754.html) - 00:00 19/04/2026
-- 🕯 [Hàng nghìn người đổ về công viên nước Hồ Tây ngày đầu mở cửa](https://vnexpress.net/hang-nghin-nguoi-do-ve-cong-vien-nuoc-ho-tay-ngay-dau-mo-cua-5064152.html) - 14:59 18/04/2026
-- 👍 [Ném phân bò vào nhau lấy may tại Ấn Độ](https://vnexpress.net/nem-phan-bo-vao-nhau-lay-may-tai-an-do-5064101.html) - 12:09 18/04/2026
-- 😎 [Khách Tây so sánh ba hạng ghế tàu cao tốc Trung Quốc](https://vnexpress.net/khach-tay-so-sanh-ba-hang-ghe-tau-cao-toc-trung-quoc-5062804.html) - 07:44 18/04/2026
-- 🐘 [Khách Mỹ tìm thấy &#39;vùng đất hứa&#39; khi chuyển đến Italy](https://vnexpress.net/khach-my-tim-thay-vung-dat-hua-khi-chuyen-den-italy-5062772.html) - 04:52 18/04/2026<!-- vnexpress-du-lich:END -->
+- 💂 [Du khách chen chân ngắm pháo hoa ven biển Cần Giờ](https://vnexpress.net/du-khach-chen-chan-ngam-phao-hoa-ven-bien-can-gio-5068769.html) - 17:25 30/04/2026
+- 🪄 [48 giờ &#39;trốn nóng&#39; ở Phú Quốc dịp nghỉ lễ 1/5](https://vnexpress.net/48-gio-tron-nong-o-phu-quoc-dip-nghi-le-1-5-5065830.html) - 17:00 30/04/2026
+- 🦅 [Chuỗi lễ hội hút hàng nghìn người đến Vinhomes Green Paradise đêm 30/4](https://vnexpress.net/chuoi-le-hoi-hut-hang-nghin-nguoi-den-vinhomes-green-paradise-dem-30-4-5068768.html) - 16:00 30/04/2026
+- 🕴 [Khách đổ xô du lịch biển ngày đầu nghỉ lễ 30/4](https://vnexpress.net/khach-do-xo-du-lich-bien-ngay-dau-nghi-le-30-4-5068753.html) - 15:30 30/04/2026
+- 👀 [Bãi biển Vũng Tàu ken đặc người ngày đầu nghỉ lễ](https://vnexpress.net/bai-bien-vung-tau-ken-dac-nguoi-ngay-dau-nghi-le-5068739.html) - 13:17 30/04/2026
+- 🎭 [Ý tưởng ghế máy bay hai tầng &#39;gây bão&#39;](https://vnexpress.net/y-tuong-ghe-may-bay-hai-tang-gay-bao-5065228.html) - 13:00 30/04/2026
+- 🦒 [12 kinh nghiệm tránh đông đúc khi du lịch dịp cao điểm](https://vnexpress.net/12-kinh-nghiem-tranh-dong-duc-khi-du-lich-dip-cao-diem-5068311.html) - 12:00 30/04/2026
+- 👨‍🏫 [Khách đổ đến đám cưới cặp hươu cao cổ đầu tiên ở Thảo Cầm Viên](https://vnexpress.net/khach-do-den-dam-cuoi-cap-huou-cao-co-dau-tien-o-thao-cam-vien-5068642.html) - 10:24 30/04/2026
+- ⚗️ [Bến cảng ra đảo Phú Quý, Nam Du chật kín khách](https://vnexpress.net/ben-cang-ra-dao-phu-quy-nam-du-chat-kin-khach-5068637.html) - 09:50 30/04/2026
+- 🥸 [Khách đông nghịt ở cửa khẩu Lào Cai chờ du lịch Trung Quốc](https://vnexpress.net/khach-dong-nghit-o-cua-khau-lao-cai-cho-du-lich-trung-quoc-5068652.html) - 07:58 30/04/2026
+- 🤠 [Bên trong đêm &#39;Dạ yến Hoàng cung&#39; giá 1,7 triệu đồng mỗi khách](https://vnexpress.net/ben-trong-dem-da-yen-hoang-cung-gia-1-7-trieu-dong-moi-khach-5068603.html) - 06:31 30/04/2026
+- 🚀 [Du khách bị khỉ hoang cắn khi du lịch Phú Yên](https://vnexpress.net/du-khach-bi-khi-hoang-can-khi-du-lich-phu-yen-5068602.html) - 04:57 30/04/2026
+- 💻 [Chọn điểm ngắm pháo hoa tránh chen chúc tại TP HCM dịp 30/4](https://vnexpress.net/chon-diem-ngam-phao-hoa-tranh-chen-chuc-tai-tp-hcm-dip-30-4-5067530.html) - 02:37 30/04/2026
+- 💼 [7 điểm đến lịch sử không thể bỏ qua tại TP HCM dịp 30/4](https://vnexpress.net/cam-nang-du-lich-cac-diem-den-lich-su-o-tp-hcm-5068174.html) - 01:33 30/04/2026
+- 🤡 [Nhật Bản triển khai robot bốc xếp hành lý sân bay](https://vnexpress.net/nhat-ban-trien-khai-robot-boc-xep-hanh-ly-san-bay-5068352.html) - 17:00 29/04/2026
+- 🐵 [Loạt trải nghiệm tại Cần Giờ dịp 30/4](https://vnexpress.net/loat-trai-nghiem-tai-can-gio-dip-30-4-5068300.html) - 11:00 29/04/2026
+- 😺 [Gợi ý lịch trình tránh tắc ở Hà Giang dịp 30/4](https://vnexpress.net/goi-y-lich-trinh-tranh-tac-o-ha-giang-dip-30-4-5068276.html) - 08:20 29/04/2026
+- 🌈 [Người &#39;quan trọng hàng đầu&#39; trong một hãng bay](https://vnexpress.net/nguoi-quan-trong-hang-dau-trong-mot-hang-bay-5067902.html) - 06:35 29/04/2026
+- ⚗️ [Vì sao hang có hố sụt hiếm ở Quảng Trị không dành cho khách du lịch?](https://vnexpress.net/vi-sao-hang-co-ho-sut-hiem-o-quang-tri-khong-danh-cho-khach-du-lich-5067534.html) - 00:19 29/04/2026
+- 👀 [Ghi hình xử lý nạn chèo kéo khách du lịch ở Phong Nha](https://vnexpress.net/ghi-hinh-xu-ly-nan-cheo-keo-khach-du-lich-o-phong-nha-5068031.html) - 00:17 29/04/2026
+- 👍 [Tắm thác giải nhiệt, hái mận đầu mùa ở Mộc Châu dịp 30/4](https://vnexpress.net/tam-thac-giai-nhiet-hai-man-dau-mua-o-moc-chau-dip-30-4-5061772.html) - 00:00 29/04/2026
+- 💄 [Taxi bay điện lần đầu cất cánh tại New York](https://vnexpress.net/taxi-bay-dien-lan-dau-cat-canh-tai-new-york-5067884.html) - 11:02 28/04/2026
+- 🥷 [Nhiều quán ăn, chuỗi trà sữa tại Hà Nội bị xử phạt](https://vnexpress.net/nhieu-quan-an-chuoi-tra-sua-tai-ha-noi-bi-xu-phat-5067833.html) - 08:23 28/04/2026
+- 📝 [Thái Lan dự kiến huỷ miễn visa du lịch 60 ngày](https://vnexpress.net/thai-lan-du-kien-huy-mien-visa-du-lich-60-ngay-5067738.html) - 05:01 28/04/2026
+- 🌜 [Giá vé máy bay tăng, chuyến đi mùa hè ngày càng xa vời](https://vnexpress.net/gia-ve-may-bay-tang-chuyen-di-mua-he-ngay-cang-xa-voi-5067745.html) - 04:49 28/04/2026
+- 📝 [Khám phá 5 khu vui chơi sát Hà Nội cho trẻ em dịp 30/4](https://vnexpress.net/kham-pha-5-khu-vui-choi-sat-ha-noi-cho-tre-em-dip-30-4-5064779.html) - 04:30 28/04/2026
+- 🧰 [Chọn vị trí đẹp xem pháo hoa ở Hà Nội tối 28/4](https://vnexpress.net/chon-vi-tri-dep-xem-phao-hoa-o-ha-noi-toi-28-4-5067426.html) - 03:38 28/04/2026
+- 🎬 [10 tác phẩm vào chung kết cuộc thi &#39;Sắc màu Việt - Nhật&#39;](https://vnexpress.net/10-tac-pham-vao-chung-ket-cuoc-thi-sac-mau-viet-nhat-5065806.html) - 01:15 28/04/2026
+- 🧐 [Phối cảnh sân bay lớn nhất châu Phi](https://vnexpress.net/phoi-canh-san-bay-lon-nhat-chau-phi-5067518.html) - 00:00 28/04/2026
+- 👨‍🏫 [Biển người chèo SUP đón bình minh ở Đà Nẵng](https://vnexpress.net/bien-nguoi-cheo-sup-don-binh-minh-o-da-nang-5067472.html) - 23:57 27/04/2026
+- 🦣 [Những nơi tận cùng thế giới nên ghé một lần trong đời](https://vnexpress.net/nhung-noi-tan-cung-the-gioi-nen-ghe-mot-lan-trong-doi-5067528.html) - 17:00 27/04/2026
+- 🌋 [Đền thờ Vua Hùng ở Phú Thọ nằm trên núi nào?](https://vnexpress.net/den-tho-vua-hung-o-phu-tho-nam-tren-nui-nao-5067510.html) - 13:07 27/04/2026
+- 🦄 [Tổ hợp Vui-Fest Cát Bà và Sun Bavaria đi vào hoạt động](https://vnexpress.net/to-hop-vui-fest-cat-ba-va-sun-bavaria-di-vao-hoat-dong-5067606.html) - 11:30 27/04/2026
+- 💡 [Khách đổ về Đại nội Huế kỳ nghỉ lễ, nhiều tuyến đường ùn tắc](https://vnexpress.net/khach-do-ve-dai-noi-hue-ky-nghi-le-nhieu-tuyen-duong-un-tac-5067589.html) - 10:23 27/04/2026
+- 🌏 [Hơn 10.000 du khách dự lễ hội du lịch biển Sầm Sơn 2026](https://vnexpress.net/hon-10-000-du-khach-du-le-hoi-du-lich-bien-sam-son-2026-5067553.html) - 07:30 27/04/2026
+- 💂 [Đám cưới ở nơi lạnh nhất thế giới](https://vnexpress.net/dam-cuoi-o-noi-lanh-nhat-the-gioi-5066574.html) - 05:30 27/04/2026
+- 🤩 [Săn ảnh voọc chà vá giữa mùa hoa tím trên đỉnh Sơn Trà](https://vnexpress.net/san-anh-vooc-cha-va-giua-mua-hoa-tim-tren-dinh-son-tra-5066438.html) - 04:00 27/04/2026
+- 💪 [Food tour Hà Nội như Tổng thống Hàn Quốc và phu nhân](https://vnexpress.net/food-tour-ha-noi-nhu-tong-thong-han-quoc-va-phu-nhan-5067297.html) - 01:00 27/04/2026
+- 💻 [Gen Z viết lại &#39;luật chơi&#39; của ngành lưu trú giá rẻ](https://vnexpress.net/gen-z-viet-lai-luat-choi-cua-nganh-luu-tru-gia-re-5066774.html) - 17:00 26/04/2026
+- 🧑‍💻 [6 điểm đến nhộn nhịp dịp 30/4 trên cả nước](https://vnexpress.net/6-diem-den-nhon-nhip-dip-30-4-tren-ca-nuoc-5067409.html) - 14:00 26/04/2026
+- 🎭 [Nhiều điểm du lịch &#39;thất thủ&#39; ngày thứ hai nghỉ lễ Giỗ Tổ](https://vnexpress.net/nhieu-diem-du-lich-that-thu-ngay-thu-hai-nghi-le-gio-to-5067293.html) - 13:33 26/04/2026
+- 🧐 [Ý nghĩa trong tên Lebanon liên quan đến màu sắc nào?](https://vnexpress.net/y-nghia-trong-ten-lebanon-lien-quan-den-mau-sac-nao-5065575.html) - 12:52 26/04/2026
+- 💡 [Du khách đổ đến Đại nội Huế xem tái hiện nghi lễ triều Nguyễn](https://vnexpress.net/du-khach-do-den-dai-noi-hue-xem-tai-hien-nghi-le-trieu-nguyen-5067212.html) - 07:10 26/04/2026
+- 🌊 [Lần đầu thám hiểm hang Sơn Đoòng bằng công nghệ thực tế ảo](https://vnexpress.net/lan-dau-tham-hiem-hang-son-doong-bang-cong-nghe-thuc-te-ao-5065651.html) - 01:52 26/04/2026
+- 🎃 [Ba hổ con Bengal mới sinh ở vườn thú Quy Nhơn hút khách tham quan](https://vnexpress.net/ba-ho-con-bengal-moi-sinh-o-vuon-thu-quy-nhon-hut-khach-tham-quan-5067069.html) - 00:00 26/04/2026
+- 🧠 [Bãi Cháy lần đầu tiên có phố đêm phục vụ khách du lịch](https://vnexpress.net/bai-chay-lan-dau-tien-co-pho-dem-phuc-vu-khach-du-lich-5067197.html) - 17:55 25/04/2026
+- 💄 [Pháo hoa thắp sáng bầu trời Việt Trì trước ngày Giỗ Tổ](https://vnexpress.net/phao-hoa-thap-sang-bau-troi-viet-tri-truoc-ngay-gio-to-5067192.html) - 17:24 25/04/2026
+- 🎬 [Hà Giang, Phú Quý &#39;cháy phòng&#39; ngày đầu kỳ nghỉ Giỗ Tổ](https://vnexpress.net/ha-giang-phu-quy-chay-phong-ngay-dau-ky-nghi-gio-to-5067158.html) - 14:09 25/04/2026
+- 🐻 [Tạo &#39;tấm hộ chiếu&#39; cho bánh mì Việt vươn ra thế giới](https://vnexpress.net/tao-tam-ho-chieu-cho-banh-mi-viet-vuon-ra-the-gioi-5067075.html) - 12:00 25/04/2026
+- 🌝 [Biển người xếp hàng ở cửa khẩu chờ đi du lịch Trung Quốc](https://vnexpress.net/bien-nguoi-xep-hang-o-cua-khau-cho-di-du-lich-trung-quoc-5067100.html) - 10:54 25/04/2026
+- 🤩 [Giới trẻ mặc giáp binh thời Lý - Trần diễu hành tại Thảo Cầm Viên](https://vnexpress.net/gioi-tre-mac-giap-binh-thoi-ly-tran-dieu-hanh-tai-thao-cam-vien-5067031.html) - 07:16 25/04/2026
+- 🎬 [Chợ Cồn - điểm &#39;phải đến&#39; của du khách ở Đà Nẵng](https://vnexpress.net/cho-con-diem-phai-den-cua-du-khach-o-da-nang-5066568.html) - 04:27 25/04/2026
+- 🦩 [Bên trong quán lẩu lớn nhất thế giới](https://vnexpress.net/ben-trong-quan-lau-lon-nhat-the-gioi-5066715.html) - 00:00 25/04/2026
+- 🦍 [Lỡ chuyến bay vì những khoản phí xuất cảnh bất ngờ](https://vnexpress.net/lo-chuyen-bay-vi-nhung-khoan-phi-xuat-canh-bat-ngo-5066411.html) - 17:00 24/04/2026
+- 👀 [Khối băng khổng lồ phong toả đường lên đỉnh Everest](https://vnexpress.net/khoi-bang-khong-lo-phong-toa-duong-len-dinh-everest-5066840.html) - 13:01 24/04/2026
+- 🧰 [Quán phở Hà Nội Tổng thống Hàn Quốc chọn ăn tối](https://vnexpress.net/quan-pho-ha-noi-tong-thong-han-quoc-chon-an-toi-5066661.html) - 09:11 24/04/2026
+- 🕯 [Nhà hàng ở TP HCM vào top 10 tốt nhất thế giới](https://vnexpress.net/nha-hang-o-tp-hcm-vao-top-10-tot-nhat-the-gioi-5066513.html) - 07:43 24/04/2026
+- 👍 [Đông nghịt người &#39;đổ bộ&#39; lễ hội bánh mì ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-do-bo-le-hoi-banh-mi-o-tp-hcm-5066394.html) - 02:34 24/04/2026
+- 😎 [Khách Tây bất ngờ khi nhận quần áo may &#39;siêu tốc&#39; ở Hội An](https://vnexpress.net/khach-tay-bat-ngo-khi-nhan-quan-ao-may-sieu-toc-o-hoi-an-5065149.html) - 00:00 24/04/2026
+- 🐘 [Giải mã &#39;cỗ máy&#39; đưa Changi thành sân bay tốt nhất thế giới](https://vnexpress.net/giai-ma-co-may-dua-changi-thanh-san-bay-tot-nhat-the-gioi-5066330.html) - 17:14 23/04/2026<!-- vnexpress-du-lich:END -->
