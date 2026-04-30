@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Việt Nam chủ trì Tọa đàm về sử dụng hòa bình năng lượng hạt nhân](https://vov.vn/chinh-tri/viet-nam-chu-tri-toa-dam-ve-su-dung-hoa-binh-nang-luong-hat-nhan-post1288059.vov) - 23:09 29/04/2026
-- 💃 [Kỷ niệm 51 năm thống nhất: Nhìn từ góc độ lịch sử quân sự và chiến lược quốc phòng](https://vov.vn/chinh-tri/ky-niem-51-nam-thong-nhat-nhin-tu-goc-do-lich-su-quan-su-va-chien-luoc-quoc-phong-post1287837.vov) - 22:00 29/04/2026
-- 🫶 [Phó Chủ tịch Thường trực Quốc hội Đỗ Văn Chiến tiếp xúc cử tri tại Bắc Ninh](https://vov.vn/chinh-tri/pho-chu-tich-thuong-truc-quoc-hoi-do-van-chien-tiep-xuc-cu-tri-tai-bac-ninh-post1288033.vov) - 15:04 29/04/2026
-- 👨‍🏫 [Thủ tướng: Khẩn trương điều chỉnh tổng thể quy hoạch hệ thống đô thị và nông thôn](https://vov.vn/chinh-tri/thu-tuong-khan-truong-dieu-chinh-tong-the-quy-hoach-he-thong-do-thi-va-nong-thon-post1288010.vov) - 13:16 29/04/2026
-- 🪜 [Chủ tịch Quốc hội ký ban hành Nghị quyết thành lập thành phố Đồng Nai](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-ky-ban-hanh-nghi-quyet-thanh-lap-thanh-pho-dong-nai-post1288007.vov) - 12:58 29/04/2026
-- 🌋 [Thủ tướng Lê Minh Hưng gặp mặt chúc mừng đội tuyển bóng đá nam U17 Quốc gia](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-gap-mat-chuc-mung-doi-tuyen-bong-da-nam-u17-quoc-gia-post1288005.vov) - 12:57 29/04/2026
-- 🎉 [Phó Chủ tịch nước Võ Thị Ánh Xuân thăm và tặng quà tại Đồng Tháp](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-vo-thi-anh-xuan-tham-va-tang-qua-tai-dong-thap-post1288000.vov) - 12:11 29/04/2026
-- 🌝 [Thủ tướng Nhật Bản sẽ thăm chính thức Việt Nam: Tăng cường hợp tác song phương](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-se-tham-chinh-thuc-viet-nam-tang-cuong-hop-tac-song-phuong-post1287996.vov) - 12:04 29/04/2026
-- 🏊 [Thủ tướng: Chuyển đổi mô hình sản xuất để không bị mất lợi thế cạnh tranh](https://vov.vn/chinh-tri/thu-tuong-chuyen-doi-mo-hinh-san-xuat-de-khong-bi-mat-loi-the-canh-tranh-post1287978.vov) - 10:53 29/04/2026
-- 🧑‍💻 [Lễ Thượng cờ - Biểu tượng của khát vọng thống nhất non sông](https://vov.vn/chinh-tri/le-thuong-co-bieu-tuong-cua-khat-vong-thong-nhat-non-song-post1287921.vov) - 10:29 29/04/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Đoàn công tác của Đảng, Nhà nước thăm, tặng 200 suất quà cho người dân Lai Châu](https://vov.vn/chinh-tri/doan-cong-tac-cua-dang-nha-nuoc-tham-tang-200-suat-qua-cho-nguoi-dan-lai-chau-post1288156.vov) - 08:31 30/04/2026
+- 💃 [Khẳng định bản lĩnh Việt Nam trong “kỷ nguyên mới”](https://vov.vn/chinh-tri/khang-dinh-ban-linh-viet-nam-trong-ky-nguyen-moi-post1288150.vov) - 08:00 30/04/2026
+- 🫶 [Nhà báo, nghệ sỹ nhiếp ảnh Ngô Minh Đạo kể chuyện lịch sử bằng những bức ảnh](https://vov.vn/chinh-tri/nha-bao-nghe-sy-nhiep-anh-ngo-minh-dao-ke-chuyen-lich-su-bang-nhung-buc-anh-post1288146.vov) - 07:48 30/04/2026
+- 👨‍🏫 [&amp;quot;Thần tốc&amp;quot; giải phóng miền Nam - &amp;quot;Thần tốc&amp;quot; cắt giảm, đơn giản thủ tục hành chính](https://vov.vn/chinh-tri/than-toc-giai-phong-mien-nam-than-toc-cat-giam-don-gian-thu-tuc-hanh-chinh-post1288122.vov) - 05:08 30/04/2026
+- 🪜 [Đường tới toàn thắng 30/4/1975: Quyết sách chiến lược, chuyển thế tiến công](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-quyet-sach-chien-luoc-chuyen-the-tien-cong-post1287521.vov) - 05:00 30/04/2026
+- 🌋 [Ngày 30/4 và hành trình viết tiếp bản lĩnh Việt Nam](https://vov.vn/chinh-tri/ngay-304-va-hanh-trinh-viet-tiep-ban-linh-viet-nam-post1288119.vov) - 04:50 30/04/2026
+- 🎉 [Từ Pác Bó đến Đại thắng mùa xuân 1975](https://vov.vn/chinh-tri/tu-pac-bo-den-dai-thang-mua-xuan-1975-post1287919.vov) - 04:48 30/04/2026
+- 🌝 [Đồng Tháp thành lập 11 phường trên địa bàn tỉnh](https://vov.vn/chinh-tri/dong-thap-thanh-lap-11-phuong-tren-dia-ban-tinh-post1288110.vov) - 03:49 30/04/2026
+- 🏊 [Ký ức Việt Bắc trong ngày hội thống nhất non sông](https://vov.vn/chinh-tri/ky-uc-viet-bac-trong-ngay-hoi-thong-nhat-non-song-post1287924.vov) - 03:16 30/04/2026
+- 🧑‍💻 [Đồng Nai chính thức lên thành phố trực thuộc Trung ương thứ 7 của Việt Nam](https://vov.vn/chinh-tri/dong-nai-chinh-thuc-len-thanh-pho-truc-thuoc-trung-uong-thu-7-cua-viet-nam-post1288104.vov) - 03:05 30/04/2026<!-- vov-chinh-tri:END -->
