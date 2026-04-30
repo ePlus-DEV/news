@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Điểm chuẩn lớp 10 trường top trên tại Hà Nội sẽ tiến sát mốc 9 điểm/môn?](https://vov.vn/xa-hoi/diem-chuan-lop-10-truong-top-tren-tai-ha-noi-se-tien-sat-moc-9-diemmon-post1288062.vov) - 04:00 30/04/2026
-- 🕯 [Đóng lối vào cao tốc Nội Bài - Lào Cai vì phương tiện tăng đột biến](https://vov.vn/xa-hoi/dong-loi-vao-cao-toc-noi-bai-lao-cai-vi-phuong-tien-tang-dot-bien-post1288102.vov) - 03:09 30/04/2026
-- 🌊 [Những &amp;quot;Bông hồng thép&amp;quot; trên vùng đất lửa Thủ Dầu Một](https://vov.vn/chinh-tri/nhung-bong-hong-thep-tren-vung-dat-lua-thu-dau-mot-post1288101.vov) - 02:59 30/04/2026
-- 🥷 [Ngày 30/4, nghĩ về tinh thần độc lập, tự chủ của người Việt](https://vov.vn/chinh-tri/ngay-304-nghi-ve-tinh-than-doc-lap-tu-chu-cua-nguoi-viet-post1288061.vov) - 02:30 30/04/2026
-- 🎡 [Ông Ngọ Duy Hiểu: Chăm lo đời sống công nhân, người lao động phải dài hạn, ổn định](https://vov.vn/xa-hoi/ong-ngo-duy-hieu-cham-lo-doi-song-cong-nhan-nguoi-lao-dong-phai-dai-han-on-dinh-post1288088.vov) - 01:55 30/04/2026
-- 🚀 [Toàn cảnh quốc tế sáng 30/4: Ông Trump gây sức ép với Iran về vấn đề hạt nhân](https://vov.vn/the-gioi/toan-canh-quoc-te-sang-304-ong-trump-gay-suc-ep-voi-iran-ve-van-de-hat-nhan-post1288076.vov) - 01:28 30/04/2026
-- 🔥 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ từ 5-7/5](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-tu-5-75-post1288078.vov) - 01:27 30/04/2026
-- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ từ 5-7/5](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-tu-5-75-post1288078.vov) - 01:27 30/04/2026
-- 🕴 [Kỷ niệm 51 năm thống nhất: Nhìn từ góc độ lịch sử quân sự và chiến lược quốc phòng](https://vov.vn/chinh-tri/ky-niem-51-nam-thong-nhat-nhin-tu-goc-do-lich-su-quan-su-va-chien-luoc-quoc-phong-post1287837.vov) - 22:00 29/04/2026
-- 🥰 [Kỷ niệm 51 năm thống nhất: Nhìn từ góc độ lịch sử quân sự và chiến lược quốc phòng](https://vov.vn/chinh-tri/ky-niem-51-nam-thong-nhat-nhin-tu-goc-do-lich-su-quan-su-va-chien-luoc-quoc-phong-post1287837.vov) - 22:00 29/04/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Tái định vị không gian phát triển Quảng Trị với chiến lược “vươn Đông, tỏa Tây&amp;quot;](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tai-dinh-vi-khong-gian-phat-trien-quang-tri-voi-chien-luoc-vuon-dong-toa-tay-post1287959.vov) - 10:22 29/04/2026<!-- vov:END -->
+- 🌜 [TP.HCM rực rỡ đêm 30/4, người dân nô nức xem pháo hoa](https://vov.vn/van-hoa/tphcm-ruc-ro-dem-304-nguoi-dan-no-nuc-xem-phao-hoa-post1288242.vov) - 17:03 30/04/2026
+- 🕯 [Chính phủ ban hành 8 Nghị quyết cắt giảm, đơn giản hóa thủ tục hành chính](https://vov.vn/chinh-tri/chinh-phu-ban-hanh-8-nghi-quyet-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-post1288229.vov) - 14:20 30/04/2026
+- 🌊 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
+- 🥷 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
+- 🎡 [Bóc gỡ nhiều nhóm “quái xế nhí” lên mạng câu view, mang hung khí gây náo loạn phố](https://vov.vn/phap-luat/boc-go-nhieu-nhom-quai-xe-nhi-len-mang-cau-view-mang-hung-khi-gay-nao-loan-pho-post1288217.vov) - 12:48 30/04/2026
+- 🚀 [Nghỉ lễ 30/4 - 1/5, nhiều người ở Hà Nội chọn du lịch nội đô](https://vov.vn/xa-hoi/nghi-le-304-15-nhieu-nguoi-o-ha-noi-chon-du-lich-noi-do-post1288201.vov) - 12:32 30/04/2026
+- 🔥 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
+- 🌋 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
+- 🕴 [Ngày đầu nghỉ lễ 30/4 - 1/5: Tai nạn giảm sâu, xử lý hơn 13.000 trường hợp vi phạm](https://vov.vn/xa-hoi/ngay-dau-nghi-le-304-15-tai-nan-giam-sau-xu-ly-hon-13000-truong-hop-vi-pham-post1288198.vov) - 11:02 30/04/2026
+- 🥰 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
+- 🧐 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
