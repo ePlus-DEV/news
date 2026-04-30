@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Ngày đầu nghỉ lễ 30/4 - 1/5: Tai nạn giảm sâu, xử lý hơn 13.000 trường hợp vi phạm](https://vov.vn/xa-hoi/ngay-dau-nghi-le-304-15-tai-nan-giam-sau-xu-ly-hon-13000-truong-hop-vi-pham-post1288198.vov) - 11:02 30/04/2026
-- 🦍 [Ký ức Hoàng Sa và tiếng gọi cha ông](https://vov.vn/xa-hoi/ky-uc-hoang-sa-va-tieng-goi-cha-ong-post1288182.vov) - 10:05 30/04/2026
-- 🦏 [Tìm thấy thi thể nạn nhân vụ cháy tàu dầu ở Lâm Đồng](https://vov.vn/xa-hoi/tim-thay-thi-the-nan-nhan-vu-chay-tau-dau-o-lam-dong-post1288184.vov) - 09:46 30/04/2026
-- 😎 [Chặt chém du lịch, dẹp sao cho hết?](https://vov.vn/du-lich/tu-van/chat-chem-du-lich-dep-sao-cho-het-post1288164.vov) - 08:50 30/04/2026
-- 💯 [Già hóa dân số mở ra cơ hội lớn cho “kinh tế bạc” tại Việt Nam](https://vov.vn/xa-hoi/gia-hoa-dan-so-mo-ra-co-hoi-lon-cho-kinh-te-bac-tai-viet-nam-post1288157.vov) - 08:35 30/04/2026
-- 🦩 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
-- 💃 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
-- 🦣 [Khẳng định bản lĩnh Việt Nam trong “kỷ nguyên mới”](https://vov.vn/chinh-tri/khang-dinh-ban-linh-viet-nam-trong-ky-nguyen-moi-post1288150.vov) - 08:00 30/04/2026
-- 👹 [&amp;quot;Thần tốc&amp;quot; giải phóng miền Nam - &amp;quot;Thần tốc&amp;quot; cắt giảm, đơn giản thủ tục hành chính](https://vov.vn/chinh-tri/than-toc-giai-phong-mien-nam-than-toc-cat-giam-don-gian-thu-tuc-hanh-chinh-post1288122.vov) - 05:08 30/04/2026
-- 🫶 [&amp;quot;Thần tốc&amp;quot; giải phóng miền Nam - &amp;quot;Thần tốc&amp;quot; cắt giảm, đơn giản thủ tục hành chính](https://vov.vn/chinh-tri/than-toc-giai-phong-mien-nam-than-toc-cat-giam-don-gian-thu-tuc-hanh-chinh-post1288122.vov) - 05:08 30/04/2026
-- 😺 [Nhân tài công nghệ: Đào tạo tăng tốc, vẫn thiếu lời giải giữ người tài](https://vov.vn/xa-hoi/nhan-tai-cong-nghe-dao-tao-tang-toc-van-thieu-loi-giai-giu-nguoi-tai-post1286635.vov) - 05:00 30/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [TP.HCM rực rỡ đêm 30/4, người dân nô nức xem pháo hoa](https://vov.vn/van-hoa/tphcm-ruc-ro-dem-304-nguoi-dan-no-nuc-xem-phao-hoa-post1288242.vov) - 17:03 30/04/2026
+- 🦍 [Chính phủ ban hành 8 Nghị quyết cắt giảm, đơn giản hóa thủ tục hành chính](https://vov.vn/chinh-tri/chinh-phu-ban-hanh-8-nghi-quyet-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-post1288229.vov) - 14:20 30/04/2026
+- 🦏 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
+- 😎 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
+- 💯 [Bóc gỡ nhiều nhóm “quái xế nhí” lên mạng câu view, mang hung khí gây náo loạn phố](https://vov.vn/phap-luat/boc-go-nhieu-nhom-quai-xe-nhi-len-mang-cau-view-mang-hung-khi-gay-nao-loan-pho-post1288217.vov) - 12:48 30/04/2026
+- 🦩 [Nghỉ lễ 30/4 - 1/5, nhiều người ở Hà Nội chọn du lịch nội đô](https://vov.vn/xa-hoi/nghi-le-304-15-nhieu-nguoi-o-ha-noi-chon-du-lich-noi-do-post1288201.vov) - 12:32 30/04/2026
+- 💃 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
+- 🦣 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
+- 👹 [Ngày đầu nghỉ lễ 30/4 - 1/5: Tai nạn giảm sâu, xử lý hơn 13.000 trường hợp vi phạm](https://vov.vn/xa-hoi/ngay-dau-nghi-le-304-15-tai-nan-giam-sau-xu-ly-hon-13000-truong-hop-vi-pham-post1288198.vov) - 11:02 30/04/2026
+- 🫶 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
+- 😺 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026<!-- vov-tin-moi-nhat:END -->
