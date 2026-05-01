@@ -4,53 +4,53 @@ sidebar_position: 2
 ---
 
 <!-- tuoitre-thoi-su:START -->
-- 🎡 [Hai anh em ở TP.HCM bị đuối nước khi tắm biển Mũi Né](https://tuoitre.vn/hai-anh-em-o-tp-hcm-bi-duoi-nuoc-khi-tam-bien-mui-ne-2026050119390187.htm) - 12:45 01/05/2026
-- 🌈 [Điểm tắm nước ngọt ở biển Cửa Lò quá tải, du khách chen chúc](https://tuoitre.vn/diem-tam-nuoc-ngot-o-bien-cua-lo-qua-tai-du-khach-chen-chuc-20260501190515087.htm) - 12:44 01/05/2026
-- 🌏 [Trống 14 vị trí giám đốc, thiếu hơn 400 biên chế tại các trạm y tế Cà Mau](https://tuoitre.vn/trong-14-vi-tri-giam-doc-thieu-hon-400-bien-che-tai-cac-tram-y-te-ca-mau-20260501180126012.htm) - 12:19 01/05/2026
-- 🦏 [Đà Nẵng: ô tô bốc cháy dữ dội tại cây xăng, 2 người chết](https://tuoitre.vn/da-nang-o-to-boc-chay-du-doi-tai-cay-xang-2-nguoi-chet-20260501182402198.htm) - 11:33 01/05/2026
-- 🔥 [&#39;Ông lớn&#39; 40.000 cửa hàng tiện lợi Trung Quốc đặt chân vào Việt Nam](https://tuoitre.vn/ong-lon-40-000-cua-hang-tien-loi-trung-quoc-dat-chan-vao-viet-nam-20260501171346276.htm) - 10:24 01/05/2026
-- 🧰 [Từ Hà Nội vào Quảng Trị tắm biển, cha cứu con bị sóng cuốn rồi mất tích](https://tuoitre.vn/tu-ha-noi-vao-quang-tri-tam-bien-cha-cuu-con-bi-song-cuon-roi-mat-tich-20260501165139193.htm) - 10:01 01/05/2026
-- 🏊 [Ca ngộ độc bánh mì ở Quảng Trị tăng lên 64 người, đình chỉ cơ sở](https://tuoitre.vn/ca-ngo-doc-banh-mi-o-quang-tri-tang-len-64-nguoi-dinh-chi-co-so-20260501162439715.htm) - 09:51 01/05/2026
-- 🕯 [Ngày đầu khai thác 58km cao tốc Bắc - Nam qua Đắk Lắk](https://tuoitre.vn/ngay-dau-khai-thac-58km-cao-toc-bac-nam-qua-dak-lak-20260501153450667.htm) - 08:58 01/05/2026
-- 🌜 [40 phút vật lộn cứu 4 du khách Hà Nội bị sóng cuốn tại bãi tắm Cửa Tùng](https://tuoitre.vn/40-phut-vat-lon-cuu-4-du-khach-ha-noi-bi-song-cuon-tai-bai-tam-cua-tung-20260501154218699.htm) - 08:56 01/05/2026
-- 🐲 [Công nhân thi công xuyên lễ trên công trường cao tốc Cao Lãnh - An Hữu](https://tuoitre.vn/cong-nhan-thi-cong-xuyen-le-tren-cong-truong-cao-toc-cao-lanh-an-huu-20260501131557076.htm) - 08:24 01/05/2026
-- 🦅 [Tổng Bí thư, Chủ tịch nước Tô Lâm viết lời tri ân trong sổ vàng di tích Bến phà Gianh](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-viet-loi-tri-an-trong-so-vang-di-tich-ben-pha-gianh-2026050113523368.htm) - 07:52 01/05/2026
-- 🧰 [Tìm thấy thi thể người đàn ông &#39;nhậu rồi xuống đập tắm&#39;](https://tuoitre.vn/tim-thay-thi-the-nguoi-dan-ong-nhau-roi-xuong-dap-tam-20260501120409997.htm) - 06:59 01/05/2026
-- 🎭 [Lâm Đồng điều tra vụ tàu hỏa tông tử vong nhân viên tuần đường](https://tuoitre.vn/lam-dong-dieu-tra-vu-tau-hoa-tong-tu-vong-nhan-vien-tuan-duong-20260501123547511.htm) - 06:42 01/05/2026
-- 🎬 [Thông xe nhánh cầu vượt N3 thuộc nút giao An Phú](https://tuoitre.vn/thong-xe-nhanh-cau-vuot-n3-thuoc-nut-giao-an-phu-20260501132024211.htm) - 06:38 01/05/2026
-- 🚀 [Kịp cứu 4 người khỏi cháy nhà trên đường Trần Hưng Đạo, sát vách quán bún ốc bị cháy năm 2025](https://tuoitre.vn/kip-cuu-4-nguoi-khoi-chay-nha-tren-duong-tran-hung-dao-sat-vach-quan-bun-oc-bi-chay-nam-2025-20260501113516442.htm) - 04:42 01/05/2026
-- 🎃 [Đề xuất loạt cơ chế đặc thù mới xử lý nhà, đất dôi dư do sáp nhập](https://tuoitre.vn/de-xuat-loat-co-che-dac-thu-moi-xu-ly-nha-dat-doi-du-do-sap-nhap-20260501101226078.htm) - 03:59 01/05/2026
-- ⚗️ [Công ty tri ân người lao động: Tặng vàng, thưởng tiền, dầu ăn, sữa...](https://tuoitre.vn/cong-ty-nha-nguoi-ta-tri-an-nguoi-lao-dong-tang-vang-thuong-tien-dau-an-sua-20260501092835587.htm) - 03:55 01/05/2026
-- 💫 [Bàn giao 2 cơ sở mới cho Bệnh viện Mắt TP.HCM, sắp hết cảnh quá tải](https://tuoitre.vn/ban-giao-2-co-so-moi-cho-benh-vien-mat-tp-hcm-sap-het-canh-qua-tai-20260501081059068.htm) - 02:30 01/05/2026
-- 💻 [3 xã đông dân nhất TP.HCM: Bà Điểm, Đông Thạnh, Bình Hưng đủ tiêu chí lên phường](https://tuoitre.vn/3-xa-dong-dan-nhat-tp-hcm-ba-diem-dong-thanh-binh-hung-du-tieu-chi-len-phuong-20260427112237838.htm) - 02:03 01/05/2026
-- 🫶 [Thời tiết hôm nay 1-5: Nam Bộ vẫn nắng gắt nhưng đợt nắng nóng sắp kết thúc](https://tuoitre.vn/thoi-tiet-hom-nay-1-5-nam-bo-van-nang-gat-nhung-dot-nang-nong-sap-ket-thuc-202604301622515.htm) - 22:07 30/04/2026
-- 🦍 [Rực rỡ pháo hoa đêm nghệ thuật &#39;Đồng Nai dòng chảy lịch sử - khát vọng tương lai&#39;](https://tuoitre.vn/ruc-ro-phao-hoa-dem-nghe-thuat-dong-nai-dong-chay-lich-su-khat-vong-tuong-lai-20260430234911442.htm) - 17:53 30/04/2026
-- 💼 [Hà Nội chính thức cho xe bán tải đi lại 24/24h trong nội đô](https://tuoitre.vn/ha-noi-chinh-thuc-cho-xe-ban-tai-di-lai-24-24h-trong-noi-do-20260430224618817.htm) - 16:00 30/04/2026
-- 🌝 [Ban Bí thư yêu cầu khẩn trương hoàn thành việc sắp xếp thôn, tổ dân phố](https://tuoitre.vn/ban-bi-thu-yeu-cau-khan-truong-hoan-thanh-viec-sap-xep-thon-to-dan-pho-20260430221834658.htm) - 15:40 30/04/2026
-- 😎 [Bóp còi xin vượt gây ồn ào, hai người đàn ông đánh nhau trên đường bị Công an TP.HCM bắt tạm giam](https://tuoitre.vn/bop-coi-xin-vuot-gay-on-ao-hai-nguoi-dan-ong-danh-nhau-tren-duong-bi-cong-an-tp-hcm-bat-tam-giam-20260430210240576.htm) - 14:25 30/04/2026
-- 🦍 [Gỡ vướng vật liệu cho dự án sân bay Cà Mau 2.400 tỉ](https://tuoitre.vn/go-vuong-vat-lieu-cho-du-an-san-bay-ca-mau-2-400-ti-2026043020092756.htm) - 14:06 30/04/2026
-- 🪜 [Nhìn lại Nghị quyết 188 sau một năm mở đường tăng tốc cho metro TP.HCM](https://tuoitre.vn/nhin-lai-nghi-quyet-188-sau-mot-nam-mo-duong-tang-toc-cho-metro-tp-hcm-20260430191605526.htm) - 13:00 30/04/2026
-- 🌏 [Xe khách 42 chỗ chở tới 63 người, bị phạt 157 triệu đồng](https://tuoitre.vn/cho-vuot-qua-21-nguoi-so-voi-quy-dinh-xe-khach-bi-phat-157-trieu-dong-20260430182251475.htm) - 12:41 30/04/2026
-- 🎡 [Hang Mo So ở An Giang vừa huyền bí vừa thơ mộng](https://tuoitre.vn/hang-mo-so-o-an-giang-vua-huyen-bi-vua-tho-mong-20260430182318167.htm) - 11:49 30/04/2026
-- 🤖 [Đang nhậu, người đàn ông xuống đập tắm thì đuối nước, mất tích](https://tuoitre.vn/dang-nhau-nguoi-dan-ong-xuong-dap-tam-thi-duoi-nuoc-mat-tich-20260430180936104.htm) - 11:32 30/04/2026
-- 💯 [Ngày đầu nghỉ lễ, tai nạn giảm mạnh so với cùng kỳ](https://tuoitre.vn/ngay-dau-nghi-le-tai-nan-giam-manh-so-voi-cung-ky-20260430175137272.htm) - 11:28 30/04/2026
-- 🤗 [Thủ tướng phê duyệt nhiệm vụ quy hoạch chung đô thị tỉnh Khánh Hòa đến 2050](https://tuoitre.vn/thu-tuong-phe-duyet-nhiem-vu-quy-hoach-chung-do-thi-tinh-khanh-hoa-den-2050-20260430173840696.htm) - 10:57 30/04/2026
-- 🕯 [Nhà mạng tăng điểm hỗ trợ xác thực thông tin thuê bao di động xuyên lễ](https://tuoitre.vn/nha-mang-tang-diem-ho-tro-xac-thuc-thong-tin-thue-bao-di-dong-xuyen-le-202604301704566.htm) - 10:21 30/04/2026
-- 🏊 [Đồng Nai làm lễ công bố thành lập 10 phường mới, chính thức hoạt động từ ngày 30-4](https://tuoitre.vn/dong-nai-lam-le-cong-bo-thanh-lap-10-phuong-moi-chinh-thuc-hoat-dong-tu-ngay-30-4-20260430170147558.htm) - 10:20 30/04/2026
-- 🤔 [Rưng rưng ngày thống nhất đất nước ở nơi hai miền Bắc Nam chia cắt 21 năm ròng rã](https://tuoitre.vn/rung-rung-ngay-thong-nhat-dat-nuoc-o-noi-hai-mien-bac-nam-chia-cat-21-nam-rong-ra-20260430160135479.htm) - 09:15 30/04/2026
-- 🤓 [Vì sao hàng trăm tấn ngao bất ngờ chết trắng bãi nuôi](https://tuoitre.vn/vi-sao-hang-tram-tan-ngao-bat-ngo-chet-trang-bai-nuoi-20260430150803781.htm) - 08:45 30/04/2026
-- ⛽️ [Bộ Công an đề xuất quyền lợi mới cho người bị tạm giữ, tạm giam](https://tuoitre.vn/bo-cong-an-de-xuat-quyen-loi-moi-cho-nguoi-bi-tam-giu-tam-giam-20260430142617977.htm) - 08:27 30/04/2026
-- 🗽 [Đại lộ Phạm Văn Đồng TP.HCM 12 làn xe, một biểu tượng phát triển đô thị](https://tuoitre.vn/dai-lo-pham-van-dong-tp-hcm-12-lan-xe-mot-bieu-tuong-phat-trien-do-thi-20260430144926375.htm) - 08:15 30/04/2026
-- 🚀 [Nhiều người Hà Nội chọn du lịch tại chỗ trong ngày đầu nghỉ lễ 30-4 và 1-5](https://tuoitre.vn/nhieu-nguoi-ha-noi-chon-du-lich-tai-cho-trong-ngay-dau-nghi-le-30-4-va-1-5-20260430142544206.htm) - 08:11 30/04/2026
-- 🐵 [Đại tướng Phan Văn Giang chỉ đạo về kế hoạch tác chiến ‘vòm phòng không bền vững’](https://tuoitre.vn/dai-tuong-phan-van-giang-chi-dao-ve-ke-hoach-tac-chien-vom-phong-khong-ben-vung-20260430143615404.htm) - 08:10 30/04/2026
-- 🦩 [Vì sao 2 đoạn cao tốc Bắc - Nam qua Phú Yên lại lỗi hẹn?](https://tuoitre.vn/vi-sao-2-doan-cao-toc-bac-nam-qua-phu-yen-lai-loi-hen-2026042918060202.htm) - 07:50 30/04/2026
-- 🧐 [Phú Quốc triển khai mã QR để hỗ trợ du khách](https://tuoitre.vn/phu-quoc-trien-khai-ma-qr-de-ho-tro-du-khach-20260430142906756.htm) - 07:49 30/04/2026
-- 😺 [Cảnh báo du khách không leo trèo lên Cổng Tò Vò ở Lý Sơn để chụp ảnh](https://tuoitre.vn/canh-bao-du-khach-khong-leo-treo-len-cong-to-vo-o-ly-son-de-chup-anh-20260430131626452.htm) - 07:36 30/04/2026
-- 🐲 [Ùn ứ giao thông sau va chạm liên hoàn trên quốc lộ 26, 12 ô tô hư hỏng](https://tuoitre.vn/un-u-giao-thong-sau-va-cham-lien-hoan-tren-quoc-lo-26-12-o-to-hu-hong-20260430124933497.htm) - 07:34 30/04/2026
-- 🤔 [2 người chết trong vụ cháy nhà ở kết hợp sản xuất bánh mì, bánh bao](https://tuoitre.vn/2-nguoi-chet-trong-vu-chay-nha-o-ket-hop-san-xuat-banh-my-banh-bao-20260430132815009.htm) - 07:20 30/04/2026
-- 💄 [Những bông hoa 30-4 ở Rạch Chiếc](https://tuoitre.vn/nhung-bong-hoa-30-4-o-rach-chiec-20260430130002306.htm) - 06:16 30/04/2026
-- 🤗 [Du khách thích thú xem UAV, chơi giải mã vụ án tại triển lãm &#39;80 năm An ninh nhân dân&#39;](https://tuoitre.vn/du-khach-thich-thu-xem-uav-choi-giai-ma-vu-an-tai-trien-lam-80-nam-an-ninh-nhan-dan-20260430124306974.htm) - 06:01 30/04/2026
-- 🦏 [‘Đô thị vệ tinh’ sân bay Long Thành tại thành phố Đồng Nai nằm ở đâu?](https://tuoitre.vn/do-thi-ve-tinh-san-bay-long-thanh-tai-thanh-pho-dong-nai-nam-o-dau-20260430120234114.htm) - 05:13 30/04/2026
-- 😎 [Kỷ niệm 80 năm trận Giồng Bốm lớn nhất lịch sử vùng Tây Nam Bộ](https://tuoitre.vn/ky-niem-80-nam-tran-giong-bom-lon-nhat-lich-su-vung-tay-nam-bo-20260430111448612.htm) - 04:46 30/04/2026
-- 🪜 [Người dân tiếp tục rời TP.HCM đi du lịch, cửa ngõ phía tây ùn tắc](https://tuoitre.vn/nguoi-dan-tiep-tuc-roi-tp-hcm-di-du-lich-cua-ngo-phia-tay-un-tac-20260430110053012.htm) - 04:20 30/04/2026
-- 🎉 [Thả gà lôi trắng cùng 18 loài động vật rừng về Vườn quốc gia U Minh Thượng](https://tuoitre.vn/tha-ga-loi-trang-cung-18-loai-dong-vat-rung-ve-vuon-quoc-gia-u-minh-thuong-20260430111239756.htm) - 04:19 30/04/2026<!-- tuoitre-thoi-su:END -->
+- 🎡 [Vụ ô tô bốc cháy ở cây xăng: xác định danh tính 2 người chết](https://tuoitre.vn/vu-o-to-boc-chay-o-cay-xang-xac-dinh-danh-tinh-2-nguoi-chet-2026050121114521.htm) - 14:39 01/05/2026
+- 🌈 [Ô tô va chạm với xe máy, 1 người chết, 3 người bị thương](https://tuoitre.vn/o-to-va-cham-voi-xe-may-1-nguoi-chet-3-nguoi-bi-thuong-2026050120563713.htm) - 14:21 01/05/2026
+- 🌏 [Hai anh em ở TP.HCM bị đuối nước khi tắm biển Mũi Né](https://tuoitre.vn/hai-anh-em-o-tp-hcm-bi-duoi-nuoc-khi-tam-bien-mui-ne-2026050119390187.htm) - 12:45 01/05/2026
+- 🦏 [Điểm tắm nước ngọt ở biển Cửa Lò quá tải, du khách chen chúc](https://tuoitre.vn/diem-tam-nuoc-ngot-o-bien-cua-lo-qua-tai-du-khach-chen-chuc-20260501190515087.htm) - 12:44 01/05/2026
+- 🔥 [Trống 14 vị trí giám đốc, thiếu hơn 400 biên chế tại các trạm y tế Cà Mau](https://tuoitre.vn/trong-14-vi-tri-giam-doc-thieu-hon-400-bien-che-tai-cac-tram-y-te-ca-mau-20260501180126012.htm) - 12:19 01/05/2026
+- 🧰 [Đà Nẵng: ô tô bốc cháy dữ dội tại cây xăng, 2 người chết](https://tuoitre.vn/da-nang-o-to-boc-chay-du-doi-tai-cay-xang-2-nguoi-chet-20260501182402198.htm) - 11:33 01/05/2026
+- 🏊 [&#39;Ông lớn&#39; 40.000 cửa hàng tiện lợi Trung Quốc đặt chân vào Việt Nam](https://tuoitre.vn/ong-lon-40-000-cua-hang-tien-loi-trung-quoc-dat-chan-vao-viet-nam-20260501171346276.htm) - 10:24 01/05/2026
+- 🕯 [Đã tìm thấy thi thể người cha cứu con bị sóng cuốn ở Quảng Trị](https://tuoitre.vn/da-tim-thay-thi-the-nguoi-cha-cuu-con-bi-song-cuon-o-quang-tri-20260501165139193.htm) - 10:01 01/05/2026
+- 🌜 [Ca ngộ độc bánh mì ở Quảng Trị tăng lên 64 người, đình chỉ cơ sở](https://tuoitre.vn/ca-ngo-doc-banh-mi-o-quang-tri-tang-len-64-nguoi-dinh-chi-co-so-20260501162439715.htm) - 09:51 01/05/2026
+- 🐲 [Ngày đầu khai thác 58km cao tốc Bắc - Nam qua Đắk Lắk](https://tuoitre.vn/ngay-dau-khai-thac-58km-cao-toc-bac-nam-qua-dak-lak-20260501153450667.htm) - 08:58 01/05/2026
+- 🦅 [40 phút vật lộn cứu 4 du khách Hà Nội bị sóng cuốn tại bãi tắm Cửa Tùng](https://tuoitre.vn/40-phut-vat-lon-cuu-4-du-khach-ha-noi-bi-song-cuon-tai-bai-tam-cua-tung-20260501154218699.htm) - 08:56 01/05/2026
+- 🧰 [Công nhân thi công xuyên lễ trên công trường cao tốc Cao Lãnh - An Hữu](https://tuoitre.vn/cong-nhan-thi-cong-xuyen-le-tren-cong-truong-cao-toc-cao-lanh-an-huu-20260501131557076.htm) - 08:24 01/05/2026
+- 🎭 [Tổng Bí thư, Chủ tịch nước Tô Lâm viết lời tri ân trong sổ vàng di tích Bến phà Gianh](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-viet-loi-tri-an-trong-so-vang-di-tich-ben-pha-gianh-2026050113523368.htm) - 07:52 01/05/2026
+- 🎬 [Tìm thấy thi thể người đàn ông &#39;nhậu rồi xuống đập tắm&#39;](https://tuoitre.vn/tim-thay-thi-the-nguoi-dan-ong-nhau-roi-xuong-dap-tam-20260501120409997.htm) - 06:59 01/05/2026
+- 🚀 [Lâm Đồng điều tra vụ tàu hỏa tông tử vong nhân viên tuần đường](https://tuoitre.vn/lam-dong-dieu-tra-vu-tau-hoa-tong-tu-vong-nhan-vien-tuan-duong-20260501123547511.htm) - 06:42 01/05/2026
+- 🎃 [Thông xe nhánh cầu vượt N3 thuộc nút giao An Phú](https://tuoitre.vn/thong-xe-nhanh-cau-vuot-n3-thuoc-nut-giao-an-phu-20260501132024211.htm) - 06:38 01/05/2026
+- ⚗️ [Kịp cứu 4 người khỏi cháy nhà trên đường Trần Hưng Đạo, sát vách quán bún ốc bị cháy năm 2025](https://tuoitre.vn/kip-cuu-4-nguoi-khoi-chay-nha-tren-duong-tran-hung-dao-sat-vach-quan-bun-oc-bi-chay-nam-2025-20260501113516442.htm) - 04:42 01/05/2026
+- 💫 [Đề xuất loạt cơ chế đặc thù mới xử lý nhà, đất dôi dư do sáp nhập](https://tuoitre.vn/de-xuat-loat-co-che-dac-thu-moi-xu-ly-nha-dat-doi-du-do-sap-nhap-20260501101226078.htm) - 03:59 01/05/2026
+- 💻 [Công ty tri ân người lao động: Tặng vàng, thưởng tiền, dầu ăn, sữa...](https://tuoitre.vn/cong-ty-nha-nguoi-ta-tri-an-nguoi-lao-dong-tang-vang-thuong-tien-dau-an-sua-20260501092835587.htm) - 03:55 01/05/2026
+- 🫶 [Bàn giao 2 cơ sở mới cho Bệnh viện Mắt TP.HCM, sắp hết cảnh quá tải](https://tuoitre.vn/ban-giao-2-co-so-moi-cho-benh-vien-mat-tp-hcm-sap-het-canh-qua-tai-20260501081059068.htm) - 02:30 01/05/2026
+- 🦍 [3 xã đông dân nhất TP.HCM: Bà Điểm, Đông Thạnh, Bình Hưng đủ tiêu chí lên phường](https://tuoitre.vn/3-xa-dong-dan-nhat-tp-hcm-ba-diem-dong-thanh-binh-hung-du-tieu-chi-len-phuong-20260427112237838.htm) - 02:03 01/05/2026
+- 💼 [Thời tiết hôm nay 1-5: Nam Bộ vẫn nắng gắt nhưng đợt nắng nóng sắp kết thúc](https://tuoitre.vn/thoi-tiet-hom-nay-1-5-nam-bo-van-nang-gat-nhung-dot-nang-nong-sap-ket-thuc-202604301622515.htm) - 22:07 30/04/2026
+- 🌝 [Rực rỡ pháo hoa đêm nghệ thuật &#39;Đồng Nai dòng chảy lịch sử - khát vọng tương lai&#39;](https://tuoitre.vn/ruc-ro-phao-hoa-dem-nghe-thuat-dong-nai-dong-chay-lich-su-khat-vong-tuong-lai-20260430234911442.htm) - 17:53 30/04/2026
+- 😎 [Hà Nội chính thức cho xe bán tải đi lại 24/24h trong nội đô](https://tuoitre.vn/ha-noi-chinh-thuc-cho-xe-ban-tai-di-lai-24-24h-trong-noi-do-20260430224618817.htm) - 16:00 30/04/2026
+- 🦍 [Ban Bí thư yêu cầu khẩn trương hoàn thành việc sắp xếp thôn, tổ dân phố](https://tuoitre.vn/ban-bi-thu-yeu-cau-khan-truong-hoan-thanh-viec-sap-xep-thon-to-dan-pho-20260430221834658.htm) - 15:40 30/04/2026
+- 🪜 [Bóp còi xin vượt gây ồn ào, hai người đàn ông đánh nhau trên đường bị Công an TP.HCM bắt tạm giam](https://tuoitre.vn/bop-coi-xin-vuot-gay-on-ao-hai-nguoi-dan-ong-danh-nhau-tren-duong-bi-cong-an-tp-hcm-bat-tam-giam-20260430210240576.htm) - 14:25 30/04/2026
+- 🌏 [Gỡ vướng vật liệu cho dự án sân bay Cà Mau 2.400 tỉ](https://tuoitre.vn/go-vuong-vat-lieu-cho-du-an-san-bay-ca-mau-2-400-ti-2026043020092756.htm) - 14:06 30/04/2026
+- 🎡 [Nhìn lại Nghị quyết 188 sau một năm mở đường tăng tốc cho metro TP.HCM](https://tuoitre.vn/nhin-lai-nghi-quyet-188-sau-mot-nam-mo-duong-tang-toc-cho-metro-tp-hcm-20260430191605526.htm) - 13:00 30/04/2026
+- 🤖 [Xe khách 42 chỗ chở tới 63 người, bị phạt 157 triệu đồng](https://tuoitre.vn/cho-vuot-qua-21-nguoi-so-voi-quy-dinh-xe-khach-bi-phat-157-trieu-dong-20260430182251475.htm) - 12:41 30/04/2026
+- 💯 [Hang Mo So ở An Giang vừa huyền bí vừa thơ mộng](https://tuoitre.vn/hang-mo-so-o-an-giang-vua-huyen-bi-vua-tho-mong-20260430182318167.htm) - 11:49 30/04/2026
+- 🤗 [Đang nhậu, người đàn ông xuống đập tắm thì đuối nước, mất tích](https://tuoitre.vn/dang-nhau-nguoi-dan-ong-xuong-dap-tam-thi-duoi-nuoc-mat-tich-20260430180936104.htm) - 11:32 30/04/2026
+- 🕯 [Ngày đầu nghỉ lễ, tai nạn giảm mạnh so với cùng kỳ](https://tuoitre.vn/ngay-dau-nghi-le-tai-nan-giam-manh-so-voi-cung-ky-20260430175137272.htm) - 11:28 30/04/2026
+- 🏊 [Thủ tướng phê duyệt nhiệm vụ quy hoạch chung đô thị tỉnh Khánh Hòa đến 2050](https://tuoitre.vn/thu-tuong-phe-duyet-nhiem-vu-quy-hoach-chung-do-thi-tinh-khanh-hoa-den-2050-20260430173840696.htm) - 10:57 30/04/2026
+- 🤔 [Nhà mạng tăng điểm hỗ trợ xác thực thông tin thuê bao di động xuyên lễ](https://tuoitre.vn/nha-mang-tang-diem-ho-tro-xac-thuc-thong-tin-thue-bao-di-dong-xuyen-le-202604301704566.htm) - 10:21 30/04/2026
+- 🤓 [Đồng Nai làm lễ công bố thành lập 10 phường mới, chính thức hoạt động từ ngày 30-4](https://tuoitre.vn/dong-nai-lam-le-cong-bo-thanh-lap-10-phuong-moi-chinh-thuc-hoat-dong-tu-ngay-30-4-20260430170147558.htm) - 10:20 30/04/2026
+- ⛽️ [Rưng rưng ngày thống nhất đất nước ở nơi hai miền Bắc Nam chia cắt 21 năm ròng rã](https://tuoitre.vn/rung-rung-ngay-thong-nhat-dat-nuoc-o-noi-hai-mien-bac-nam-chia-cat-21-nam-rong-ra-20260430160135479.htm) - 09:15 30/04/2026
+- 🗽 [Vì sao hàng trăm tấn ngao bất ngờ chết trắng bãi nuôi](https://tuoitre.vn/vi-sao-hang-tram-tan-ngao-bat-ngo-chet-trang-bai-nuoi-20260430150803781.htm) - 08:45 30/04/2026
+- 🚀 [Bộ Công an đề xuất quyền lợi mới cho người bị tạm giữ, tạm giam](https://tuoitre.vn/bo-cong-an-de-xuat-quyen-loi-moi-cho-nguoi-bi-tam-giu-tam-giam-20260430142617977.htm) - 08:27 30/04/2026
+- 🐵 [Đại lộ Phạm Văn Đồng TP.HCM 12 làn xe, một biểu tượng phát triển đô thị](https://tuoitre.vn/dai-lo-pham-van-dong-tp-hcm-12-lan-xe-mot-bieu-tuong-phat-trien-do-thi-20260430144926375.htm) - 08:15 30/04/2026
+- 🦩 [Nhiều người Hà Nội chọn du lịch tại chỗ trong ngày đầu nghỉ lễ 30-4 và 1-5](https://tuoitre.vn/nhieu-nguoi-ha-noi-chon-du-lich-tai-cho-trong-ngay-dau-nghi-le-30-4-va-1-5-20260430142544206.htm) - 08:11 30/04/2026
+- 🧐 [Đại tướng Phan Văn Giang chỉ đạo về kế hoạch tác chiến ‘vòm phòng không bền vững’](https://tuoitre.vn/dai-tuong-phan-van-giang-chi-dao-ve-ke-hoach-tac-chien-vom-phong-khong-ben-vung-20260430143615404.htm) - 08:10 30/04/2026
+- 😺 [Vì sao 2 đoạn cao tốc Bắc - Nam qua Phú Yên lại lỗi hẹn?](https://tuoitre.vn/vi-sao-2-doan-cao-toc-bac-nam-qua-phu-yen-lai-loi-hen-2026042918060202.htm) - 07:50 30/04/2026
+- 🐲 [Phú Quốc triển khai mã QR để hỗ trợ du khách](https://tuoitre.vn/phu-quoc-trien-khai-ma-qr-de-ho-tro-du-khach-20260430142906756.htm) - 07:49 30/04/2026
+- 🤔 [Cảnh báo du khách không leo trèo lên Cổng Tò Vò ở Lý Sơn để chụp ảnh](https://tuoitre.vn/canh-bao-du-khach-khong-leo-treo-len-cong-to-vo-o-ly-son-de-chup-anh-20260430131626452.htm) - 07:36 30/04/2026
+- 💄 [Ùn ứ giao thông sau va chạm liên hoàn trên quốc lộ 26, 12 ô tô hư hỏng](https://tuoitre.vn/un-u-giao-thong-sau-va-cham-lien-hoan-tren-quoc-lo-26-12-o-to-hu-hong-20260430124933497.htm) - 07:34 30/04/2026
+- 🤗 [2 người chết trong vụ cháy nhà ở kết hợp sản xuất bánh mì, bánh bao](https://tuoitre.vn/2-nguoi-chet-trong-vu-chay-nha-o-ket-hop-san-xuat-banh-my-banh-bao-20260430132815009.htm) - 07:20 30/04/2026
+- 🦏 [Những bông hoa 30-4 ở Rạch Chiếc](https://tuoitre.vn/nhung-bong-hoa-30-4-o-rach-chiec-20260430130002306.htm) - 06:16 30/04/2026
+- 😎 [Du khách thích thú xem UAV, chơi giải mã vụ án tại triển lãm &#39;80 năm An ninh nhân dân&#39;](https://tuoitre.vn/du-khach-thich-thu-xem-uav-choi-giai-ma-vu-an-tai-trien-lam-80-nam-an-ninh-nhan-dan-20260430124306974.htm) - 06:01 30/04/2026
+- 🪜 [‘Đô thị vệ tinh’ sân bay Long Thành tại thành phố Đồng Nai nằm ở đâu?](https://tuoitre.vn/do-thi-ve-tinh-san-bay-long-thanh-tai-thanh-pho-dong-nai-nam-o-dau-20260430120234114.htm) - 05:13 30/04/2026
+- 🎉 [Kỷ niệm 80 năm trận Giồng Bốm lớn nhất lịch sử vùng Tây Nam Bộ](https://tuoitre.vn/ky-niem-80-nam-tran-giong-bom-lon-nhat-lich-su-vung-tay-nam-bo-20260430111448612.htm) - 04:46 30/04/2026<!-- tuoitre-thoi-su:END -->
