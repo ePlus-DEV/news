@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Người trẻ tiếp nối ý chí “chân trần, chí thép” trong kỷ nguyên khoa học-công nghệ](https://vov.vn/chinh-tri/nguoi-tre-tiep-noi-y-chi-chan-tran-chi-thep-trong-ky-nguyen-khoa-hoc-cong-nghe-post1287624.vov) - 23:00 30/04/2026
-- 💃 [Đường tới toàn thắng 30/4/1975: Đoàn kết chống kẻ thù chung, giáng đòn quyết định](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-doan-ket-chong-ke-thu-chung-giang-don-quyet-dinh-post1287660.vov) - 23:00 30/04/2026
+- 🧑‍🏫 [Đường tới toàn thắng 30/4/1975: Đoàn kết chống kẻ thù chung, giáng đòn quyết định](https://vov.vn/chinh-tri/duong-toi-toan-thang-3041975-doan-ket-chong-ke-thu-chung-giang-don-quyet-dinh-post1287660.vov) - 23:00 30/04/2026
+- 💃 [Người trẻ tiếp nối ý chí “chân trần, chí thép” trong kỷ nguyên khoa học-công nghệ](https://vov.vn/chinh-tri/nguoi-tre-tiep-noi-y-chi-chan-tran-chi-thep-trong-ky-nguyen-khoa-hoc-cong-nghe-post1287624.vov) - 23:00 30/04/2026
 - 🫶 [Xử lý 3 điểm bất cập để pháp luật từ &amp;quot;cồng kềnh&amp;quot; sang tinh gọn, hiện đại](https://vov.vn/chinh-tri/xu-ly-3-diem-bat-cap-de-phap-luat-tu-cong-kenh-sang-tinh-gon-hien-dai-post1287262.vov) - 22:00 30/04/2026
 - 👨‍🏫 [Khẩn trương cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh](https://vov.vn/chinh-tri/khan-truong-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-dieu-kien-kinh-doanh-post1288235.vov) - 14:35 30/04/2026
 - 🪜 [Chính phủ ban hành 8 nghị quyết cắt giảm, đơn giản hóa thủ tục hành chính](https://vov.vn/chinh-tri/chinh-phu-ban-hanh-8-nghi-quyet-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-post1288229.vov) - 14:20 30/04/2026
