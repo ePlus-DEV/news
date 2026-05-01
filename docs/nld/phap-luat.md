@@ -4,53 +4,53 @@ sidebar_position: 10
 ---
 
 <!-- nld-phap-luat:START -->
-- 🤖 [Đặt mua hơn 100 chỉ vàng giả qua zalo, mang tới tiệm vàng cầm cố hơn 1,7 tỉ đồng](https://nld.com.vn/dat-mua-hon-100-chi-vang-gia-qua-zalo-mang-toi-tiem-vang-cam-co-hon-17-ti-dong-196260427184056124.htm) - 12:53 27/04/2026
-- 🌈 [Nam thanh niên bất ngờ bị đâm chết khi vừa trở về phòng trọ](https://nld.com.vn/nam-thanh-nien-bat-ngo-bi-dam-chet-khi-vua-tro-ve-phong-tro-196260427180914105.htm) - 12:11 27/04/2026
-- 🕯 [Cảnh báo chiêu lừa &quot;phạt nguội 50.000 VND&quot; qua website giả dịch vụ công](https://nld.com.vn/canh-bao-chieu-lua-phat-nguoi-50000-vnd-qua-website-gia-dich-vu-cong-196260427172736312.htm) - 10:33 27/04/2026
-- 👀 [Khởi tố đối tượng xuất hóa đơn hơn 20.000 con heo cho C.P. Việt Nam](https://nld.com.vn/khoi-to-doi-tuong-xuat-hoa-don-hon-20000-con-heo-cho-cp-viet-nam-196260427152503602.htm) - 08:40 27/04/2026
-- 💼 [Con trai chở mẹ đi cướp giật gây phẫn nộ](https://nld.com.vn/con-trai-cho-me-di-cuop-giat-gay-phan-no-196260427113318956.htm) - 07:07 27/04/2026
-- 🦍 [Công an TPHCM tiếp nhận 13 công dân bị trục xuất](https://nld.com.vn/cong-an-tphcm-tiep-nhan-13-cong-dan-bi-truc-xuat-196260427133313569.htm) - 06:52 27/04/2026
-- 🦣 [Sự thật phía sau trình báo của cha một nam shipper ở TPHCM](https://nld.com.vn/su-that-phia-sau-trinh-bao-cua-cha-mot-nam-shipper-o-tphcm-196260427121700849.htm) - 05:36 27/04/2026
-- 🤠 [Chặn nhóm thiếu niên mang hung khí giữa đêm](https://nld.com.vn/chan-nhom-thieu-nien-mang-hung-khi-giua-dem-196260427102131241.htm) - 05:22 27/04/2026
-- 🥷 [Kẻ &quot;lừa&quot; hai cửa hàng điện thoại ở TPHCM bị bắt](https://nld.com.vn/ke-lua-hai-cua-hang-dien-thoai-o-tphcm-bi-bat-196260427115941888.htm) - 05:17 27/04/2026
-- 👹 [CLIP: Bắt giữ 2 người Lào vận chuyển 2.000 viên ma túy tại biên giới Quảng Trị](https://nld.com.vn/clip-bat-giu-2-nguoi-lao-van-chuyen-2000-vien-ma-tuy-tai-bien-gioi-quang-tri-196260427111542908.htm) - 04:59 27/04/2026
-- 💃 [Triệu tập nhóm nam sinh hành hung bạn khác trường nhập viện](https://nld.com.vn/trieu-tap-nhom-nam-sinh-hanh-hung-ban-khac-truong-nhap-vien-196260427110136119.htm) - 04:55 27/04/2026
-- 🤩 [Chia sẻ thông tin sai sự thật của đối tượng phản động, người đàn ông bị xử phạt](https://nld.com.vn/chia-se-thong-tin-sai-su-that-cua-doi-tuong-phan-dong-nguoi-dan-ong-bi-xu-phat-196260427100844376.htm) - 04:22 27/04/2026
-- 🗽 [Chân dung đối tượng đột nhập nhà dân lúc rạng sáng ở Đồng Nai](https://nld.com.vn/chan-dung-doi-tuong-dot-nhap-nha-dan-luc-rang-sang-o-dong-nai-196260427105317765.htm) - 04:19 27/04/2026
-- 🐵 [Phát hiện nhóm người đào vàng trái phép, công an thu giữ 26,725 g vàng](https://nld.com.vn/phat-hien-nhom-nguoi-dao-vang-trai-phep-cong-an-thu-giu-26725-g-vang-196260427101627081.htm) - 03:32 27/04/2026
-- 🚦 [CLIP: Người đàn ông đang tại ngoại lái xe Jeep ngược chiều, đe dọa tài xế ở Đắk Lắk](https://nld.com.vn/clip-nguoi-dan-ong-dang-tai-ngoai-lai-xe-jeep-nguoc-chieu-de-doa-tai-xe-o-dak-lak-196260427091252229.htm) - 02:31 27/04/2026
-- 💃 [Vụ ép người yêu cũ quan hệ tình dục với 9 người lạ để thu tiền: Người lạ có liên quan?](https://nld.com.vn/vu-ep-nguoi-yeu-cu-quan-he-tinh-duc-voi-9-nguoi-la-de-thu-tien-nguoi-la-co-lien-quan-196260426163601195.htm) - 01:56 27/04/2026
-- 🌊 [Bộ Công an đề xuất cơ chế &quot;tạm hoãn truy cứu hình sự&quot; để khắc phục hậu quả](https://nld.com.vn/bo-cong-an-de-xuat-co-che-tam-hoan-truy-cuu-hinh-su-de-khac-phuc-hau-qua-196260427070424614.htm) - 00:52 27/04/2026
-- 👍 [Phá án lúc 2 giờ sáng, công an bắt kẻ gây án nguy hiểm](https://nld.com.vn/pha-an-luc-2-gio-sang-cong-an-bat-ke-gay-an-nguy-hiem-196260427070541912.htm) - 00:46 27/04/2026
-- 🪜 [Lại xảy ra cướp tài sản tại cổng của Tân Huê Viên](https://nld.com.vn/lai-xay-ra-cuop-tai-san-tai-cong-cua-tan-hue-vien-196260427061313048.htm) - 23:35 26/04/2026
-- 💃 [Khởi tố giám đốc một công ty](https://nld.com.vn/khoi-to-giam-doc-mot-cong-ty-196260426193849487.htm) - 13:03 26/04/2026
-- 🤓 [Phá đường dây ghi số đề gần 10 tỉ đồng ở Đà Nẵng](https://nld.com.vn/pha-duong-day-ghi-so-de-gan-10-ti-dong-o-da-nang-196260426175554071.htm) - 11:15 26/04/2026
-- 🤠 [Khởi tố tài xế taxi nhiều lần quan hệ tình dục với nữ nhân viên quán karaoke 14 tuổi](https://nld.com.vn/khoi-to-tai-xe-taxi-nhieu-lan-quan-he-tinh-duc-voi-nu-nhan-vien-quan-karaoke-14-tuoi-196260426163428298.htm) - 10:53 26/04/2026
-- 💃 [Sự thật bất ngờ vụ cụ bà báo mất vàng ở Quảng Trị](https://nld.com.vn/su-that-bat-ngo-vu-cu-ba-bao-mat-vang-o-quang-tri-196260426171930812.htm) - 10:45 26/04/2026
-- 🌊 [Vừa bị phạt 50 triệu, người đàn ông lại &quot;làm liều&quot;](https://nld.com.vn/vua-bi-phat-50-trieu-nguoi-dan-ong-lai-lam-lieu-19626042617200683.htm) - 10:33 26/04/2026
-- 🌮 [Phát hiện đối tượng truy nã đặc biệt nguy hiểm xin việc làm, người dân Gia Lai báo công an](https://nld.com.vn/phat-hien-doi-tuong-truy-na-dac-biet-nguy-hiem-xin-viec-lam-nguoi-dan-gia-lai-bao-cong-an-196260426154639316.htm) - 09:28 26/04/2026
-- 🧠 [Chủ thương hiệu đậu phộng Tân Tân kháng cáo kêu oan](https://nld.com.vn/chu-thuong-hieu-dau-phong-tan-tan-khang-cao-keu-oan-196260426155016516.htm) - 09:11 26/04/2026
-- 🦆 [Công an đang truy tìm 7 đối tượng trong vụ cướp giật tài sản tại Liên Hoa Bảo Tháp](https://nld.com.vn/video-truy-tim-7-doi-tuong-trong-vu-cuop-giat-tai-san-tai-lien-hoa-bao-thap-196260426143644898.htm) - 08:12 26/04/2026
-- 🤗 [Công an TPHCM bắt vợ chồng bà chủ Công ty Nông sản Mai Xuân Thành](https://nld.com.vn/cong-an-tphcm-bat-vo-chong-ba-chu-cong-ty-nong-san-mai-xuan-thanh-196260426110900862.htm) - 04:21 26/04/2026
-- 🕯 [Công an TPHCM bắt vợ chồng chủ hộ kinh doanh Mỹ Phụng](https://nld.com.vn/cong-an-tphcm-bat-vo-chong-chu-ho-kinh-doanh-my-phung-196260426084333815.htm) - 02:00 26/04/2026
-- 💫 [Nhanh chóng sa lưới &quot;mắt thần&quot; ở TPHCM](https://nld.com.vn/nhanh-chong-sa-luoi-mat-than-o-tphcm-196260426080626981.htm) - 01:43 26/04/2026
-- 💃 [LẰN RANH: Vé số ảo, trắng tay thật](https://nld.com.vn/lan-ranh-ve-so-ao-trang-tay-that-196260425204802997.htm) - 23:58 25/04/2026
-- 💄 [Toàn cảnh các vụ án đáng chú ý trong tuần](https://nld.com.vn/toan-canh-cac-vu-an-dang-chu-y-trong-tuan-196260425230744049.htm) - 22:32 25/04/2026
-- 😺 [Phía sau xe gian là nước mắt người nghèo](https://nld.com.vn/phia-sau-xe-gian-la-nuoc-mat-nguoi-ngheo-196260425204653587.htm) - 21:30 25/04/2026
-- 🦏 [Người phụ nữ bán thịt heo bị người tình chém tử vong](https://nld.com.vn/nguoi-phu-nu-ban-thit-heo-bi-nguoi-tinh-chem-tu-vong-196260425222102701.htm) - 21:11 25/04/2026
-- 🐎 [Công an TPHCM bắt giữ nghi phạm xông vào nhà dân cướp xe trong đêm](https://nld.com.vn/cong-an-tphcm-bat-giu-nghi-pham-xong-vao-nha-dan-cuop-xe-trong-dem-196260425200310197.htm) - 13:14 25/04/2026
-- 🥷 [Xuất hiện thêm clip giật dây chuyền ở Tân Huê Viên, Công an Cần Thơ tìm bị hại](https://nld.com.vn/xuat-hien-them-clip-giat-day-chuyen-o-tan-hue-vien-cong-an-can-tho-tim-bi-hai-196260425195719563.htm) - 13:11 25/04/2026
-- 🌝 [Khởi tố Chủ tịch HĐQT Công ty QUABICO](https://nld.com.vn/khoi-to-chu-tich-hdqt-cong-ty-quabico-196260425185740477.htm) - 12:11 25/04/2026
-- 🎓 [Bắt giữ người phụ nữ lừa đảo hơn 42 tỉ đồng của nhiều người](https://nld.com.vn/bat-nguoi-phu-nu-lua-dao-hon-42-ti-dong-cua-nhieu-nguoi-19626042515440575.htm) - 10:04 25/04/2026
-- 🌋 [TPHCM: Xử phạt 2 người đốt rác gây ô nhiễm](https://nld.com.vn/tphcm-xu-phat-2-nguoi-dot-rac-gay-o-nhiem-19626042516191424.htm) - 09:56 25/04/2026
-- 💡 [Say rượu, người đàn ông châm lửa đốt cháy xưởng gỗ](https://nld.com.vn/say-ruou-nguoi-dan-ong-cham-lua-dot-chay-xuong-go-196260425160401613.htm) - 09:16 25/04/2026
-- 💂 [Công an TPHCM bắt kẻ lừa đảo lấy vé số của người già, tàn tật](https://nld.com.vn/cong-an-tphcm-bat-ke-lua-dao-lay-ve-so-cua-nguoi-gia-tan-tat-196260425131301439.htm) - 06:47 25/04/2026
-- 🤩 [Bắt giữ nam thanh niên dùng clip nhạy cảm, ép người yêu cũ bán dâm](https://nld.com.vn/bat-giu-nam-thanh-nien-dung-clip-nhay-cam-ep-nguoi-yeu-cu-ban-dam-196260425121538835.htm) - 05:24 25/04/2026
-- 🔭 [Người phụ nữ tử vong bất thường trên đường, cơ thể có nhiều vết thương](https://nld.com.vn/nguoi-phu-nu-tu-vong-bat-thuong-tren-duong-co-the-co-nhieu-vet-thuong-196260425110625189.htm) - 04:42 25/04/2026
-- 💼 [Khẩn trương ổn định trường học sau án mạng đau lòng ở Mũi Né](https://nld.com.vn/khan-truong-on-dinh-truong-hoc-sau-an-mang-dau-long-o-mui-ne-196260425103956329.htm) - 04:24 25/04/2026
-- 🥸 [VIDEO: Phá trường gà xuyên quốc gia, giao dịch hơn 1.200 tỉ đồng](https://nld.com.vn/video-pha-truong-ga-xuyen-quoc-gia-giao-dich-hon-1200-ti-dong-196260425102046536.htm) - 03:39 25/04/2026
-- 👨‍🏫 [Liên tục xảy ra sụt hố trên đường, ai phải chịu trách nhiệm?](https://nld.com.vn/lien-tuc-xay-ra-sut-ho-tren-duong-ai-phai-chiu-trach-nhiem-196260425074601002.htm) - 02:33 25/04/2026
-- 🌝 [Vụ nam sinh tử nạn ở Đắk Lắk: Xử phạt chủ xe nếu xác định đã độ pô xe](https://nld.com.vn/vu-nam-sinh-tu-nan-o-dak-lak-xu-phat-chu-xe-neu-xac-dinh-da-do-po-xe-196260425073633035.htm) - 01:04 25/04/2026
-- 🥳 [Bắt giữ 3 đối tượng lợi dụng &quot;kẽ hở&quot; của công ty để trộm cắp tài sản](https://nld.com.vn/bat-giu-3-doi-tuong-loi-dung-ke-ho-cua-cong-ty-de-trom-cap-tai-san-196260425073519543.htm) - 01:03 25/04/2026
-- 🥰 [Đốt rác, gây tiếng ồn vượt chuẩn: Xử hình sự?](https://nld.com.vn/dot-rac-gay-tieng-on-vuot-chuan-xu-hinh-su-196260424202707429.htm) - 22:40 24/04/2026
-- ⛽️ [Nhờ mua vé số rồi bị chiếm đoạt: Đòi lại cách nào?](https://nld.com.vn/nho-mua-ve-so-roi-bi-chiem-doat-doi-lai-cach-nao-196260424202259308.htm) - 20:06 24/04/2026<!-- nld-phap-luat:END -->
+- 🤖 [Cản người nhà đi làm, thiên vị giới tính: Phạt tới 10 triệu đồng](https://nld.com.vn/can-nguoi-nha-di-lam-thien-vi-gioi-tinh-phat-toi-10-trieu-dong-19626050114162612.htm) - 08:32 01/05/2026
+- 🌈 [Công an Thành phố Đồng Nai khởi tố đối tượng Trần Thanh Phương](https://nld.com.vn/cong-an-thanh-pho-dong-nai-khoi-to-doi-tuong-tran-thanh-phuong-196260501101336689.htm) - 03:33 01/05/2026
+- 🕯 [Phát hiện thi thể 1 người đàn ông khoảng 50 tuổi tại ụ Ba Thám](https://nld.com.vn/phat-hien-thi-the-1-nguoi-dan-ong-khoang-50-tuoi-tai-u-ba-tham-196260501091720511.htm) - 02:35 01/05/2026
+- 👀 [Vụ khởi tố cựu thiếu tá CSGT: Xe 50 cc của nam sinh bị “độ” lên gấp 3 lần, luật sư nói về mức phạt](https://nld.com.vn/vu-khoi-to-cuu-csgt-xe-50-cc-cua-nam-sinh-bi-do-len-gap-3-lan-luat-su-noi-ve-muc-phat-196260430233914885.htm) - 22:00 30/04/2026
+- 💼 [Công an TPHCM bắt giam 2 người đánh nhau vì tiếng còi xe](https://nld.com.vn/cong-an-tphcm-bat-giam-2-nguoi-danh-nhau-vi-tieng-coi-xe-19626043022571215.htm) - 16:27 30/04/2026
+- 🦍 [Tên cướp ở TPHCM thấy hối hận sau khi ra tay với cô gái lúc rạng sáng](https://nld.com.vn/ten-cuop-o-tphcm-thay-hoi-han-sau-khi-ra-tay-voi-co-gai-luc-rang-sang-196260430202545922.htm) - 14:20 30/04/2026
+- 🦣 [Người phụ nữ làm giả gần 50 giấy chứng nhận quyền sử dụng đất, lừa gần 200 tỉ đồng](https://nld.com.vn/nguoi-phu-nu-lam-gia-gan-50-giay-chung-nhan-quyen-su-dung-dat-lua-gan-200-ti-dong-196260430172635423.htm) - 11:03 30/04/2026
+- 🤠 [Bắt “nóng” thanh niên cướp tài sản người đi đường ở Đà Nẵng](https://nld.com.vn/bat-nong-thanh-nien-cuop-tai-san-nguoi-di-duong-o-da-nang-196260430174551467.htm) - 11:00 30/04/2026
+- 🥷 [Bị đánh gãy xương hàm vì lên Facebook xúc phạm vợ người khác](https://nld.com.vn/bi-danh-gay-xuong-ham-vi-len-facebook-xuc-pham-vo-nguoi-khac-196260430161544182.htm) - 10:27 30/04/2026
+- 👹 [Liều lĩnh leo rào ăn trộm giữa ban ngày, chưa kịp nổ máy xe SH đã bị bắt](https://nld.com.vn/lieu-linh-leo-rao-an-trom-giua-ban-ngay-chua-kip-no-may-xe-sh-da-bi-bat-196260430164603103.htm) - 10:23 30/04/2026
+- 💃 [Bắt nhóm đối tượng gây náo loạn ở Tây Ninh trong đêm 23-4](https://nld.com.vn/bat-nhom-doi-tuong-gay-nao-loan-o-tay-ninh-trong-dem-23-4-196260430162041761.htm) - 09:32 30/04/2026
+- 🤩 [Vụ tông tử vong nữ công nhân môi trường: Điều khiển xe bỏ trốn, xóa dấu vết](https://nld.com.vn/vu-tong-tu-vong-nu-cong-nhan-moi-truong-dieu-khien-xe-bo-tron-xoa-dau-vet-196260430151952378.htm) - 08:49 30/04/2026
+- 🗽 [Hai đối tượng bị bắt khi đang lẩn trốn tại các khu vực giáp ranh ở TPHCM và Đồng Nai](https://nld.com.vn/hai-doi-tuong-bi-bat-khi-dang-lan-tron-tai-cac-khu-vuc-giap-ranh-o-tphcm-va-dong-nai-196260430133726535.htm) - 07:11 30/04/2026
+- 🐵 [Đột kích nhà người phụ nữ, bắt quả tang 25 người đang chơi xóc đĩa](https://nld.com.vn/dot-kich-nha-nguoi-phu-nu-bat-qua-tang-25-nguoi-dang-choi-xoc-dia-196260430111003899.htm) - 05:22 30/04/2026
+- 🚦 [Một giám đốc công ty bị khởi tố](https://nld.com.vn/mot-giam-doc-cong-ty-bi-khoi-to-196260430112349764.htm) - 04:50 30/04/2026
+- 💃 [Bắt tạm giam người đàn ông vận chuyển trái phép động vật quý hiếm về Việt Nam](https://nld.com.vn/bat-tam-giam-nguoi-dan-ong-van-chuyen-trai-phep-dong-vat-quy-hiem-ve-viet-nam-19626043006465347.htm) - 04:47 30/04/2026
+- 🌊 [Xôn xao thanh niên đốt tiền rồi quay clip, luật quy định ra sao?](https://nld.com.vn/xon-xao-thanh-nien-dot-tien-roi-quay-clip-luat-quy-dinh-ra-sao-196260430112220491.htm) - 04:46 30/04/2026
+- 👍 [Công an TPHCM khám xét nhiều nơi, bắt 12 người](https://nld.com.vn/cong-an-tphcm-kham-xet-nhieu-noi-bat-12-nguoi-196260430113753351.htm) - 04:45 30/04/2026
+- 🪜 [Khởi tố 3 người đàn ông mua bán heo dịch](https://nld.com.vn/khoi-to-3-nguoi-dan-ong-mua-ban-heo-dich-196260429220806708.htm) - 00:54 30/04/2026
+- 💃 [Một giám đốc công ty bị khởi tố](https://nld.com.vn/mot-giam-doc-cong-ty-bi-khoi-to-19626042921450608.htm) - 14:54 29/04/2026
+- 🤓 [Gã bạn trai tù tội hẹn bạn gái ở TPHCM vào khách sạn để trộm cắp](https://nld.com.vn/ga-ban-trai-tu-toi-hen-ban-gai-o-tphcm-vao-khach-san-de-trom-cap-196260429212428883.htm) - 14:47 29/04/2026
+- 🤠 [Biết rõ vi phạm nhưng vẫn giao xe, vợ lĩnh án treo, chồng ngồi tù](https://nld.com.vn/biet-ro-vi-pham-nhung-van-giao-xe-vo-linh-an-treo-chong-ngoi-tu-196260429154342226.htm) - 08:57 29/04/2026
+- 💃 [TPHCM: Nữ luật sư bị cáo buộc &quot;mượn danh&quot; thẩm phán để vòi tiền](https://nld.com.vn/tphcm-nu-luat-su-bi-cao-buoc-muon-danh-tham-phan-de-voi-tien-196260429153556922.htm) - 08:53 29/04/2026
+- 🌊 [Công an TPHCM bắt nhanh thanh niên gây án ở tiệm vàng](https://nld.com.vn/cong-an-tphcm-bat-nhanh-thanh-nien-gay-an-o-tiem-vang-196260429141131432.htm) - 07:21 29/04/2026
+- 🌮 [Khởi tố 8 đối tượng trong ổ nhóm tiếp tay đường dây lừa đảo, rửa tiền tại Campuchia](https://nld.com.vn/khoi-to-8-doi-tuong-trong-o-nhom-tiep-tay-duong-day-lua-dao-rua-tien-tai-campuchia-196260429104127958.htm) - 04:47 29/04/2026
+- 🧠 [Khởi tố nữ bác sĩ lừa đảo chiếm đoạt tài sản](https://nld.com.vn/khoi-to-nu-bac-si-lua-dao-chiem-doat-tai-san-19626042910445285.htm) - 04:42 29/04/2026
+- 🦆 [Khởi tố 6 thanh niên tham gia hỗn chiến tại quán nước](https://nld.com.vn/khoi-to-6-thanh-nien-tham-gia-hon-chien-tai-quan-nuoc-196260429105901851.htm) - 04:31 29/04/2026
+- 🤗 [Nam thanh niên trộm 5 cây vàng của em bạn gái](https://nld.com.vn/nam-thanh-nien-trom-5-cay-vang-cua-em-ban-gai-19626042909322459.htm) - 02:57 29/04/2026
+- 🕯 [Tài xế điều khiển ô tô bỏ trốn sau khi tông tử vong nữ công nhân môi trường](https://nld.com.vn/tai-xe-dieu-khien-o-to-bo-tron-sau-khi-tong-tu-vong-nu-cong-nhan-moi-truong-196260428221944638.htm) - 15:37 28/04/2026
+- 💫 [Vụ gây rối trật tự công cộng nghiêm trọng ở Quảng Trị: Khởi tố 11 bị can](https://nld.com.vn/vu-gay-roi-trat-tu-cong-cong-nghiem-trong-o-quang-tri-khoi-to-11-bi-can-196260428215005789.htm) - 15:06 28/04/2026
+- 💃 [Phát hiện nhiều bất thường khi đồng loạt kiểm tra đột xuất 2 doanh nghiệp ở Khánh Hoà](https://nld.com.vn/phat-hien-nhieu-bat-thuong-khi-dong-loat-kiem-tra-dot-xuat-2-doanh-nghiep-o-khanh-hoa-196260428162823844.htm) - 10:20 28/04/2026
+- 💄 [Cảnh sát Kinh tế TPHCM liên tiếp lập chiến công, nhiều gian thương khiếp sợ](https://nld.com.vn/canh-sat-kinh-te-tphcm-lien-tiep-lap-chien-cong-nhieu-gian-thuong-khiep-so-196260428160748009.htm) - 09:28 28/04/2026
+- 😺 [Khởi tố một kế toán trung tâm giáo dục nghề nghiệp](https://nld.com.vn/khoi-to-mot-ke-toan-trung-tam-giao-duc-nghe-nghiep-196260428152454459.htm) - 08:57 28/04/2026
+- 🦏 [Cựu Giám đốc CDC Huế chủ mưu &quot;lợi dụng chức vụ&quot; trong vụ án tiêm chủng](https://nld.com.vn/cuu-giam-doc-cdc-hue-chu-muu-loi-dung-chuc-vu-trong-vu-an-tiem-chung-196260428135146493.htm) - 07:53 28/04/2026
+- 🐎 [Bộ Công an thông tin quan trọng liên quan đến dự án &quot;Nuôi em&quot;](https://nld.com.vn/bo-cong-an-thong-tin-quan-trong-lien-quan-den-du-an-nuoi-em-196260428125326469.htm) - 06:20 28/04/2026
+- 🥷 [Xét xử vắng mặt bị cáo Nguyễn Đình Thắng về tội &quot;Khủng bố&quot;](https://nld.com.vn/xet-xu-vang-mat-bi-cao-nguyen-dinh-thang-ve-toi-khung-bo-196260428120841025.htm) - 05:44 28/04/2026
+- 🌝 [CSGT sẽ cẩu xe về nơi tạm giữ nếu tài xế dừng, đỗ sai quy định và không có mặt](https://nld.com.vn/csgt-se-cau-xe-ve-noi-tam-giu-neu-tai-xe-dung-do-sai-quy-dinh-va-khong-co-mat-19626042809225994.htm) - 04:46 28/04/2026
+- 🎓 [Pháp lý vụ người đàn ông vung dao dọa thợ sửa khoá ở TPHCM](https://nld.com.vn/phap-ly-vu-nguoi-dan-ong-vung-dao-doa-tho-sua-khoa-o-tphcm-196260428104219922.htm) - 04:42 28/04/2026
+- 🌋 [Truy tìm nghi phạm liên quan vụ người phụ nữ tử vong tại nhà riêng ở Hà Tĩnh](https://nld.com.vn/truy-tim-nghi-pham-lien-quan-vu-nguoi-phu-nu-tu-vong-tai-nha-rieng-o-ha-tinh-19626042809292316.htm) - 03:16 28/04/2026
+- 💡 [Điều tra nguyên nhân người phụ nữ tử vong tại nhà riêng với nhiều vết thương](https://nld.com.vn/dieu-tra-nguyen-nhan-nguoi-phu-nu-tu-vong-tai-nha-rieng-voi-nhieu-vet-thuong-196260428065926066.htm) - 01:22 28/04/2026
+- 💂 [Đặt mua hơn 100 chỉ vàng giả qua zalo, mang tới tiệm vàng cầm cố hơn 1,7 tỉ đồng](https://nld.com.vn/dat-mua-hon-100-chi-vang-gia-qua-zalo-mang-toi-tiem-vang-cam-co-hon-17-ti-dong-196260427184056124.htm) - 12:53 27/04/2026
+- 🤩 [Nam thanh niên bất ngờ bị đâm chết khi vừa trở về phòng trọ](https://nld.com.vn/nam-thanh-nien-bat-ngo-bi-dam-chet-khi-vua-tro-ve-phong-tro-196260427180914105.htm) - 12:11 27/04/2026
+- 🔭 [Cảnh báo chiêu lừa &quot;phạt nguội 50.000 VND&quot; qua website giả dịch vụ công](https://nld.com.vn/canh-bao-chieu-lua-phat-nguoi-50000-vnd-qua-website-gia-dich-vu-cong-196260427172736312.htm) - 10:33 27/04/2026
+- 💼 [Khởi tố đối tượng xuất hóa đơn hơn 20.000 con heo cho C.P. Việt Nam](https://nld.com.vn/khoi-to-doi-tuong-xuat-hoa-don-hon-20000-con-heo-cho-cp-viet-nam-196260427152503602.htm) - 08:40 27/04/2026
+- 🥸 [Con trai chở mẹ đi cướp giật gây phẫn nộ](https://nld.com.vn/con-trai-cho-me-di-cuop-giat-gay-phan-no-196260427113318956.htm) - 07:07 27/04/2026
+- 👨‍🏫 [Công an TPHCM tiếp nhận 13 công dân bị trục xuất](https://nld.com.vn/cong-an-tphcm-tiep-nhan-13-cong-dan-bi-truc-xuat-196260427133313569.htm) - 06:52 27/04/2026
+- 🌝 [Sự thật phía sau trình báo của cha một nam shipper ở TPHCM](https://nld.com.vn/su-that-phia-sau-trinh-bao-cua-cha-mot-nam-shipper-o-tphcm-196260427121700849.htm) - 05:36 27/04/2026
+- 🥳 [Chặn nhóm thiếu niên mang hung khí giữa đêm](https://nld.com.vn/chan-nhom-thieu-nien-mang-hung-khi-giua-dem-196260427102131241.htm) - 05:22 27/04/2026
+- 🥰 [Kẻ &quot;lừa&quot; hai cửa hàng điện thoại ở TPHCM bị bắt](https://nld.com.vn/ke-lua-hai-cua-hang-dien-thoai-o-tphcm-bi-bat-196260427115941888.htm) - 05:17 27/04/2026
+- ⛽️ [CLIP: Bắt giữ 2 người Lào vận chuyển 2.000 viên ma túy tại biên giới Quảng Trị](https://nld.com.vn/clip-bat-giu-2-nguoi-lao-van-chuyen-2000-vien-ma-tuy-tai-bien-gioi-quang-tri-196260427111542908.htm) - 04:59 27/04/2026<!-- nld-phap-luat:END -->
