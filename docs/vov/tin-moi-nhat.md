@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Hiện thực hóa những cơ chế đặc biệt phát triển kinh tế tư nhân](https://vov.vn/kinh-te/hien-thuc-hoa-nhung-co-che-dac-biet-phat-trien-kinh-te-tu-nhan-post1288319.vov) - 04:38 01/05/2026
-- 🦍 [Hiện thực hóa những cơ chế đặc biệt phát triển kinh tế tư nhân](https://vov.vn/kinh-te/hien-thuc-hoa-nhung-co-che-dac-biet-phat-trien-kinh-te-tu-nhan-post1288319.vov) - 04:38 01/05/2026
-- 🦏 [Canh bạc tỷ USD của Hải quân Mỹ: A-12 Avenger II sụp đổ ngay trước vạch đích](https://vov.vn/quan-su-quoc-phong/canh-bac-ty-usd-cua-hai-quan-my-a-12-avenger-ii-sup-do-ngay-truoc-vach-dich-post1288321.vov) - 04:32 01/05/2026
-- 😎 [30 ngân hàng thương mại trong nước công bố giảm lãi suất huy động](https://vov.vn/kinh-te/30-ngan-hang-thuong-mai-trong-nuoc-cong-bo-giam-lai-suat-huy-dong-post1288291.vov) - 03:42 01/05/2026
-- 💯 [Tiền lương, tiền công đi làm dịp lễ 30/4 - 1/5 có thể gấp 5 lần](https://vov.vn/xa-hoi/tien-luong-tien-cong-di-lam-dip-le-304-15-co-the-gap-5-lan-post1288296.vov) - 03:19 01/05/2026
-- 🦩 [Chính quyền ông Trump tuyên bố chiến dịch tại Iran đã “kết thúc” trước hạn chót](https://vov.vn/the-gioi/chinh-quyen-ong-trump-tuyen-bo-chien-dich-tai-iran-da-ket-thuc-truoc-han-chot-post1288265.vov) - 01:48 01/05/2026
-- 💃 [Hà Nội tổ chức lấy ý kiến việc sử dụng xe máy hoạt động kinh doanh, vận tải](https://vov.vn/xa-hoi/ha-noi-to-chuc-lay-y-kien-viec-su-dung-xe-may-hoat-dong-kinh-doanh-van-tai-post1288273.vov) - 01:47 01/05/2026
-- 🦣 [Gỡ điểm nghẽn tín dụng, giải “cơn khát” vốn cho doanh nghiệp nhỏ và vừa](https://vov.vn/kinh-te/go-diem-nghen-tin-dung-giai-con-khat-von-cho-doanh-nghiep-nho-va-vua-post1287988.vov) - 00:16 01/05/2026
-- 👹 [WB phê duyệt 300 triệu USD giúp Campuchia bứt phá hạ tầng giao thông và logistics](https://vov.vn/the-gioi/wb-phe-duyet-300-trieu-usd-giup-campuchia-but-pha-ha-tang-giao-thong-va-logistics-post1288257.vov) - 23:32 30/04/2026
-- 🫶 [Người trẻ tiếp nối ý chí “chân trần, chí thép” trong kỷ nguyên khoa học-công nghệ](https://vov.vn/chinh-tri/nguoi-tre-tiep-noi-y-chi-chan-tran-chi-thep-trong-ky-nguyen-khoa-hoc-cong-nghe-post1287624.vov) - 23:00 30/04/2026
-- 😺 [Xử lý 3 điểm bất cập để pháp luật từ &amp;quot;cồng kềnh&amp;quot; sang tinh gọn, hiện đại](https://vov.vn/chinh-tri/xu-ly-3-diem-bat-cap-de-phap-luat-tu-cong-kenh-sang-tinh-gon-hien-dai-post1287262.vov) - 22:00 30/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Giải bài toán sạc xe điện tại chung cư: Phân vùng không gian, cô lập nguy cơ cháy](https://vov.vn/xa-hoi/giai-bai-toan-sac-xe-dien-tai-chung-cu-phan-vung-khong-gian-co-lap-nguy-co-chay-post1288299.vov) - 23:10 01/05/2026
+- 🦍 [Thức ăn đường phố quản lý thế nào?](https://vov.vn/xa-hoi/thuc-an-duong-pho-quan-ly-the-nao-post1286185.vov) - 23:07 01/05/2026
+- 🦏 [Góc nhìn từ phiên tòa: Khi quán karaoke trở thành nơi phát sinh tội phạm](https://vov.vn/phap-luat/goc-nhin-tu-phien-toa-khi-quan-karaoke-tro-thanh-noi-phat-sinh-toi-pham-post1287942.vov) - 23:05 01/05/2026
+- 😎 [Quy hoạch Thủ đô: Gỡ nút thắt ngập, tắc, ô nhiễm trong tương lai](https://vov.vn/xa-hoi/quy-hoach-thu-do-go-nut-that-ngap-tac-o-nhiem-trong-tuong-lai-post1287595.vov) - 23:00 01/05/2026
+- 💯 [Quy hoạch Thủ đô: Gỡ nút thắt ngập, tắc, ô nhiễm trong tương lai](https://vov.vn/xa-hoi/quy-hoach-thu-do-go-nut-that-ngap-tac-o-nhiem-trong-tuong-lai-post1287595.vov) - 23:00 01/05/2026
+- 🦩 [Triển khai đặc xá 2026: Bảo đảm công khai, minh bạch, đúng đối tượng](https://vov.vn/phap-luat/trien-khai-dac-xa-2026-bao-dam-cong-khai-minh-bach-dung-doi-tuong-post1287934.vov) - 23:00 01/05/2026
+- 💃 [Sử dụng xăng sinh học E10 trước giờ “G”: Lo tỷ lệ Ethanol hao hụt khi lưu trữ](https://vov.vn/thi-truong/su-dung-xang-sinh-hoc-e10-truoc-gio-g-lo-ty-le-ethanol-hao-hut-khi-luu-tru-post1287936.vov) - 23:00 01/05/2026
+- 🦣 [Nóng 24h ngày 2/5: Bắt giữ người phụ nữ trốn trại, bị truy nã đặc biệt](https://vov.vn/phap-luat/nong-24h-ngay-25-bat-giu-nguoi-phu-nu-tron-trai-bi-truy-na-dac-biet-post1288387.vov) - 22:30 01/05/2026
+- 👹 [Giá vàng hôm nay 2/5: Vàng SJC giữ mức 166 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-25-vang-sjc-giu-muc-166-trieu-dongluong-post1288362.vov) - 22:10 01/05/2026
+- 🫶 [Kết quả V-League hôm nay 1/5: Nam Định thắng dễ CLB CA TP.HCM](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-nam-dinh-thang-de-clb-ca-tphcm-post1288295.vov) - 12:53 01/05/2026
+- 😺 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026<!-- vov-tin-moi-nhat:END -->
