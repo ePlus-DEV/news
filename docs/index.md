@@ -717,9 +717,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Việt Nam đề nghị Mỹ có đánh giá khách quan về bảo hộ sở hữu trí tuệ](https://vov.vn/chinh-tri/viet-nam-de-nghi-my-co-danh-gia-khach-quan-ve-bao-ho-so-huu-tri-tue-post1288410.vov) - 14:27 01/05/2026
-- 🕯 [Hóa đơn gần 18 triệu ở Sầm Sơn gây “bão mạng”: Sự thật không phải “chặt chém”](https://vov.vn/xa-hoi/hoa-don-gan-18-trieu-o-sam-son-gay-bao-mang-su-that-khong-phai-chat-chem-post1288411.vov) - 14:25 01/05/2026
-- 🌊 [Kết quả V-League hôm nay 1/5: Hà Nội FC thắng kịch tính Đà Nẵng](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-ha-noi-fc-thang-kich-tinh-da-nang-post1288323.vov) - 14:25 01/05/2026
+- 🌜 [Tín hiệu mới cho thấy ngoại giao giữa Mỹ và Iran chưa hoàn toàn đóng băng](https://vov.vn/the-gioi/tin-hieu-moi-cho-thay-ngoai-giao-giua-my-va-iran-chua-hoan-toan-dong-bang-post1288419.vov) - 15:39 01/05/2026
+- 🕯 [Việt Nam đề nghị Mỹ có đánh giá khách quan về bảo hộ sở hữu trí tuệ](https://vov.vn/chinh-tri/viet-nam-de-nghi-my-co-danh-gia-khach-quan-ve-bao-ho-so-huu-tri-tue-post1288410.vov) - 14:27 01/05/2026
+- 🌊 [Hóa đơn gần 18 triệu ở Sầm Sơn gây “bão mạng”: Sự thật không phải “chặt chém”](https://vov.vn/xa-hoi/hoa-don-gan-18-trieu-o-sam-son-gay-bao-mang-su-that-khong-phai-chat-chem-post1288411.vov) - 14:25 01/05/2026
 - 🥷 [Thêm vụ nghi ngộ độc tập thể do bánh mì, Bộ Y tế yêu cầu điều tra nguyên nhân](https://vov.vn/xa-hoi/them-vu-nghi-ngo-doc-tap-the-do-banh-mi-bo-y-te-yeu-cau-dieu-tra-nguyen-nhan-post1288405.vov) - 13:28 01/05/2026
 - 🎡 [Kết quả V-League hôm nay 1/5: Nam Định thắng dễ CLB CA TP.HCM](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-nam-dinh-thang-de-clb-ca-tphcm-post1288295.vov) - 12:53 01/05/2026
 - 🚀 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026
