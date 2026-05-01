@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [TP.HCM rực rỡ đêm 30/4, người dân nô nức xem pháo hoa](https://vov.vn/van-hoa/tphcm-ruc-ro-dem-304-nguoi-dan-no-nuc-xem-phao-hoa-post1288242.vov) - 17:03 30/04/2026
-- 🦍 [Chính phủ ban hành 8 Nghị quyết cắt giảm, đơn giản hóa thủ tục hành chính](https://vov.vn/chinh-tri/chinh-phu-ban-hanh-8-nghi-quyet-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-post1288229.vov) - 14:20 30/04/2026
-- 🦏 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
-- 😎 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
-- 💯 [Bóc gỡ nhiều nhóm “quái xế nhí” lên mạng câu view, mang hung khí gây náo loạn phố](https://vov.vn/phap-luat/boc-go-nhieu-nhom-quai-xe-nhi-len-mang-cau-view-mang-hung-khi-gay-nao-loan-pho-post1288217.vov) - 12:48 30/04/2026
-- 🦩 [Nghỉ lễ 30/4 - 1/5, nhiều người ở Hà Nội chọn du lịch nội đô](https://vov.vn/xa-hoi/nghi-le-304-15-nhieu-nguoi-o-ha-noi-chon-du-lich-noi-do-post1288201.vov) - 12:32 30/04/2026
-- 💃 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
-- 🦣 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
-- 👹 [Ngày đầu nghỉ lễ 30/4 - 1/5: Tai nạn giảm sâu, xử lý hơn 13.000 trường hợp vi phạm](https://vov.vn/xa-hoi/ngay-dau-nghi-le-304-15-tai-nan-giam-sau-xu-ly-hon-13000-truong-hop-vi-pham-post1288198.vov) - 11:02 30/04/2026
-- 🫶 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
-- 😺 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Hiện thực hóa những cơ chế đặc biệt phát triển kinh tế tư nhân](https://vov.vn/kinh-te/hien-thuc-hoa-nhung-co-che-dac-biet-phat-trien-kinh-te-tu-nhan-post1288319.vov) - 04:38 01/05/2026
+- 🦍 [Hiện thực hóa những cơ chế đặc biệt phát triển kinh tế tư nhân](https://vov.vn/kinh-te/hien-thuc-hoa-nhung-co-che-dac-biet-phat-trien-kinh-te-tu-nhan-post1288319.vov) - 04:38 01/05/2026
+- 🦏 [Canh bạc tỷ USD của Hải quân Mỹ: A-12 Avenger II sụp đổ ngay trước vạch đích](https://vov.vn/quan-su-quoc-phong/canh-bac-ty-usd-cua-hai-quan-my-a-12-avenger-ii-sup-do-ngay-truoc-vach-dich-post1288321.vov) - 04:32 01/05/2026
+- 😎 [30 ngân hàng thương mại trong nước công bố giảm lãi suất huy động](https://vov.vn/kinh-te/30-ngan-hang-thuong-mai-trong-nuoc-cong-bo-giam-lai-suat-huy-dong-post1288291.vov) - 03:42 01/05/2026
+- 💯 [Tiền lương, tiền công đi làm dịp lễ 30/4 - 1/5 có thể gấp 5 lần](https://vov.vn/xa-hoi/tien-luong-tien-cong-di-lam-dip-le-304-15-co-the-gap-5-lan-post1288296.vov) - 03:19 01/05/2026
+- 🦩 [Chính quyền ông Trump tuyên bố chiến dịch tại Iran đã “kết thúc” trước hạn chót](https://vov.vn/the-gioi/chinh-quyen-ong-trump-tuyen-bo-chien-dich-tai-iran-da-ket-thuc-truoc-han-chot-post1288265.vov) - 01:48 01/05/2026
+- 💃 [Hà Nội tổ chức lấy ý kiến việc sử dụng xe máy hoạt động kinh doanh, vận tải](https://vov.vn/xa-hoi/ha-noi-to-chuc-lay-y-kien-viec-su-dung-xe-may-hoat-dong-kinh-doanh-van-tai-post1288273.vov) - 01:47 01/05/2026
+- 🦣 [Gỡ điểm nghẽn tín dụng, giải “cơn khát” vốn cho doanh nghiệp nhỏ và vừa](https://vov.vn/kinh-te/go-diem-nghen-tin-dung-giai-con-khat-von-cho-doanh-nghiep-nho-va-vua-post1287988.vov) - 00:16 01/05/2026
+- 👹 [WB phê duyệt 300 triệu USD giúp Campuchia bứt phá hạ tầng giao thông và logistics](https://vov.vn/the-gioi/wb-phe-duyet-300-trieu-usd-giup-campuchia-but-pha-ha-tang-giao-thong-va-logistics-post1288257.vov) - 23:32 30/04/2026
+- 🫶 [Người trẻ tiếp nối ý chí “chân trần, chí thép” trong kỷ nguyên khoa học-công nghệ](https://vov.vn/chinh-tri/nguoi-tre-tiep-noi-y-chi-chan-tran-chi-thep-trong-ky-nguyen-khoa-hoc-cong-nghe-post1287624.vov) - 23:00 30/04/2026
+- 😺 [Xử lý 3 điểm bất cập để pháp luật từ &amp;quot;cồng kềnh&amp;quot; sang tinh gọn, hiện đại](https://vov.vn/chinh-tri/xu-ly-3-diem-bat-cap-de-phap-luat-tu-cong-kenh-sang-tinh-gon-hien-dai-post1287262.vov) - 22:00 30/04/2026<!-- vov-tin-moi-nhat:END -->
