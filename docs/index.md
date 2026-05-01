@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [TP.HCM rực rỡ đêm 30/4, người dân nô nức xem pháo hoa](https://vov.vn/van-hoa/tphcm-ruc-ro-dem-304-nguoi-dan-no-nuc-xem-phao-hoa-post1288242.vov) - 17:03 30/04/2026
-- 🕯 [Chính phủ ban hành 8 Nghị quyết cắt giảm, đơn giản hóa thủ tục hành chính](https://vov.vn/chinh-tri/chinh-phu-ban-hanh-8-nghi-quyet-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-post1288229.vov) - 14:20 30/04/2026
-- 🌊 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
-- 🥷 [Việt Nam-Ấn Độ trước bước ngoặt mới từ chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/viet-nam-an-do-truoc-buoc-ngoat-moi-tu-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1288223.vov) - 13:18 30/04/2026
-- 🎡 [Bóc gỡ nhiều nhóm “quái xế nhí” lên mạng câu view, mang hung khí gây náo loạn phố](https://vov.vn/phap-luat/boc-go-nhieu-nhom-quai-xe-nhi-len-mang-cau-view-mang-hung-khi-gay-nao-loan-pho-post1288217.vov) - 12:48 30/04/2026
-- 🚀 [Nghỉ lễ 30/4 - 1/5, nhiều người ở Hà Nội chọn du lịch nội đô](https://vov.vn/xa-hoi/nghi-le-304-15-nhieu-nguoi-o-ha-noi-chon-du-lich-noi-do-post1288201.vov) - 12:32 30/04/2026
-- 🔥 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
-- 🌋 [Nhiều kỳ vọng trong chuyến thăm của Thủ tướng Nhật Bản Takaichi Sanae đến Việt Nam](https://vov.vn/the-gioi/nhieu-ky-vong-trong-chuyen-tham-cua-thu-tuong-nhat-ban-takaichi-sanae-den-viet-nam-post1288215.vov) - 12:23 30/04/2026
-- 🕴 [Ngày đầu nghỉ lễ 30/4 - 1/5: Tai nạn giảm sâu, xử lý hơn 13.000 trường hợp vi phạm](https://vov.vn/xa-hoi/ngay-dau-nghi-le-304-15-tai-nan-giam-sau-xu-ly-hon-13000-truong-hop-vi-pham-post1288198.vov) - 11:02 30/04/2026
-- 🥰 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026
-- 🧐 [Camera AI: Xử phạt thế nào khi “tình ngay lý gian”?](https://vov.vn/xa-hoi/camera-ai-xu-phat-the-nao-khi-tinh-ngay-ly-gian-post1288159.vov) - 08:27 30/04/2026<!-- vov:END -->
+- 🌜 [Việt Nam đề nghị Mỹ có đánh giá khách quan về bảo hộ sở hữu trí tuệ](https://vov.vn/chinh-tri/viet-nam-de-nghi-my-co-danh-gia-khach-quan-ve-bao-ho-so-huu-tri-tue-post1288410.vov) - 14:27 01/05/2026
+- 🕯 [Hóa đơn gần 18 triệu ở Sầm Sơn gây “bão mạng”: Sự thật không phải “chặt chém”](https://vov.vn/xa-hoi/hoa-don-gan-18-trieu-o-sam-son-gay-bao-mang-su-that-khong-phai-chat-chem-post1288411.vov) - 14:25 01/05/2026
+- 🌊 [Kết quả V-League hôm nay 1/5: Hà Nội FC thắng kịch tính Đà Nẵng](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-ha-noi-fc-thang-kich-tinh-da-nang-post1288323.vov) - 14:25 01/05/2026
+- 🥷 [Thêm vụ nghi ngộ độc tập thể do bánh mì, Bộ Y tế yêu cầu điều tra nguyên nhân](https://vov.vn/xa-hoi/them-vu-nghi-ngo-doc-tap-the-do-banh-mi-bo-y-te-yeu-cau-dieu-tra-nguyen-nhan-post1288405.vov) - 13:28 01/05/2026
+- 🎡 [Kết quả V-League hôm nay 1/5: Nam Định thắng dễ CLB CA TP.HCM](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-nam-dinh-thang-de-clb-ca-tphcm-post1288295.vov) - 12:53 01/05/2026
+- 🚀 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026
+- 🔥 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026
+- 🌋 [Bức thư Bác gửi năm 1946 và hành trình 80 năm xây dựng khối đại đoàn kết ở Gia Lai](https://vov.vn/chinh-tri/buc-thu-bac-gui-nam-1946-va-hanh-trinh-80-nam-xay-dung-khoi-dai-doan-ket-o-gia-lai-post1288392.vov) - 11:46 01/05/2026
+- 🕴 [Giao thông Hà Nội ngày 1/5 “dễ thở” hiếm thấy, nội đô vắng vẻ](https://vov.vn/xa-hoi/giao-thong-ha-noi-ngay-15-de-tho-hiem-thay-noi-do-vang-ve-post1288375.vov) - 11:21 01/05/2026
+- 🥰 [Luật Thủ đô &lpar;sửa đổi&rpar;: Hướng Hà Nội trở thành đô thị quản trị hiện đại](https://vov.vn/chinh-tri/luat-thu-do-sua-doi-huong-ha-noi-tro-thanh-do-thi-quan-tri-hien-dai-post1288357.vov) - 09:21 01/05/2026
+- 🧐 [Nhìn lại những sự kiện quốc tế đáng chú ý tháng 4/2026](https://vov.vn/the-gioi/nhin-lai-nhung-su-kien-quoc-te-dang-chu-y-thang-42026-post1288341.vov) - 08:37 01/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
