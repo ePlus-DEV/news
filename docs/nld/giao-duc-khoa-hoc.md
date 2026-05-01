@@ -4,53 +4,53 @@ sidebar_position: 9
 ---
 
 <!-- nld-giao-duc-khoa-hoc:START -->
-- 💯 [Hé lộ quy trình thi tuyển 415 viên chức giáo dục ở Quảng Trị](https://nld.com.vn/he-lo-quy-trinh-thi-tuyen-415-vien-chuc-giao-duc-o-quang-tri-196260427103446395.htm) - 08:58 27/04/2026
-- 🌮 [Tốt nghiệp ĐH điểm tuyệt đối, tân khoa khởi nghiệp với mô hình nhà hàng độc đáo](https://nld.com.vn/tot-nghiep-dh-diem-tuyet-doi-tan-khoa-khoi-nghiep-voi-mo-hinh-nha-hang-doc-dao-196260427122401093.htm) - 06:30 27/04/2026
-- 🐎 [Vượt qua rào cản, làm chủ môi trường số](https://nld.com.vn/vuot-qua-rao-can-lam-chu-moi-truong-so-196260426201450415.htm) - 21:00 26/04/2026
-- 🔥 [Trường Đại học Cửu Long khai giảng lớp đào tạo Tiếng Việt cho người nước ngoài](https://nld.com.vn/truong-dai-hoc-cuu-long-khai-giang-lop-dao-tao-tieng-viet-cho-nguoi-nuoc-ngoai-196260426154728162.htm) - 14:02 26/04/2026
-- 🥳 [Thí sinh thi đánh giá năng lực đợt 2 tăng đột biến](https://nld.com.vn/thi-sinh-thi-danh-gia-nang-luc-dot-2-tang-dot-bien-196260426131516779.htm) - 06:56 26/04/2026
-- 🤔 [Một trường đại học ở TPHCM ứng dụng hệ thống mô phỏng nha khoa vào đào tạo](https://nld.com.vn/mot-truong-dai-hoc-o-tphcm-ung-dung-he-thong-mo-phong-nha-khoa-vao-dao-tao-196260425192707213.htm) - 12:37 25/04/2026
-- 🌏 [VIDEO: Sinh viên Fulbright Việt Nam tranh tài tại cuộc thi sáng kiến bền vững toàn cầu ở Đức](https://nld.com.vn/video-sinh-vien-fulbright-viet-nam-tranh-tai-tai-cuoc-thi-sang-kien-ben-vung-toan-cau-o-duc-196260425152049772.htm) - 08:33 25/04/2026
-- 💃 [Nâng chuẩn giảng viên đại học: Tránh chạy theo học vị](https://nld.com.vn/nang-chuan-giang-vien-dai-hoc-tranh-chay-theo-hoc-vi-19626042513121652.htm) - 07:06 25/04/2026
-- 😎 [Ngôi trường ươm mầm tri thức cho học sinh dân tộc thiểu số kỷ niệm 50 năm thành lập](https://nld.com.vn/ngoi-truong-uom-mam-tri-thuc-cho-hoc-sinh-dan-toc-thieu-so-ky-niem-50-nam-thanh-lap-196260425112702731.htm) - 04:41 25/04/2026
-- 🧑‍💻 [Vụ cô giáo dùng kim tiêm phạt học sinh ở TPHCM: Xem xét trách nhiệm người đứng đầu](https://nld.com.vn/vu-co-giao-dung-kim-tiem-phat-hoc-sinh-o-tphcm-xem-xet-trach-nhiem-nguoi-dung-dau-196260424175808287.htm) - 23:50 24/04/2026
-- 🧠 [Nguyên tắc &quot;vàng&quot; khi chọn nguyện vọng vào lớp 10](https://nld.com.vn/nguyen-tac-vang-khi-chon-nguyen-vong-vao-lop-10-196260424205843456.htm) - 23:41 24/04/2026
-- 🪄 [Hoàn thiện cơ chế hỗ trợ nghiên cứu sinh xuất sắc](https://nld.com.vn/hoan-thien-co-che-ho-tro-nghien-cuu-sinh-xuat-sac-196260424190723002.htm) - 13:27 24/04/2026
-- ⛽️ [ĐHQG TPHCM mở rộng địa bàn thi đánh giá năng lực đợt 2](https://nld.com.vn/dhqg-tphcm-mo-rong-dia-ban-thi-danh-gia-nang-luc-dot-2-196260424181405755.htm) - 12:12 24/04/2026
-- 🤗 [Siết liêm chính khoa học, quy định rõ sử dụng AI](https://nld.com.vn/siet-liem-chinh-khoa-hoc-quy-dinh-ro-su-dung-ai-196260424173610512.htm) - 11:24 24/04/2026
-- 👍 [Kỷ luật cô giáo dùng kim tiêm phạt học sinh ở TPHCM](https://nld.com.vn/ky-luat-co-giao-dung-kim-tiem-phat-hoc-sinh-o-tphcm-196260424170427283.htm) - 10:36 24/04/2026
-- 💻 [TPHCM chính thức &quot;chốt&quot; những quy định quan trọng đối với kỳ thi lớp 10](https://nld.com.vn/tphcm-chinh-thuc-chot-nhung-quy-dinh-quan-trong-doi-voi-ky-thi-lop-10-196260424154214431.htm) - 10:26 24/04/2026
-- 🎊 [Hợp tác khoa học - công nghệ: Đòn bẩy cho đào tạo thực tiễn khu vực phía Nam](https://nld.com.vn/hop-tac-khoa-hoc-cong-nghe-don-bay-cho-dao-tao-thuc-tien-khu-vuc-phia-nam-196260424160526008.htm) - 09:34 24/04/2026
-- 🌁 [Chiến lược đăng ký nguyện vọng vào lớp 10 phù hợp](https://nld.com.vn/chien-luoc-dang-ky-nguyen-vong-vao-lop-10-phu-hop-196260424143706709.htm) - 07:57 24/04/2026
-- 👹 [Gắn kết đào tạo với thực tiễn từ sân chơi Solar Car Challenge 2026](https://nld.com.vn/gan-ket-dao-tao-voi-thuc-tien-tu-san-choi-solar-car-challenge-2026-196260424135858059.htm) - 07:12 24/04/2026
-- 🌋 [ĐH Kinh tế TPHCM ra mắt không gian học tập đắm chìm](https://nld.com.vn/dh-kinh-te-tphcm-ra-mat-khong-gian-hoc-tap-dam-chim-196260424124206491.htm) - 06:34 24/04/2026
-- 💼 [Bước tiến công nghệ mới trong phẫu thuật tạo hình](https://nld.com.vn/buoc-tien-cong-nghe-moi-trong-phau-thuat-tao-hinh-196260424120952536.htm) - 06:31 24/04/2026
-- 🌊 [Đặt nguyện vọng thế nào để trúng tuyển vào lớp 10?](https://nld.com.vn/sang-mai-24-4-bao-nguoi-lao-dong-to-chuc-talkshow-chon-dung-nguyen-vong-vao-lop-10-196260423154524561.htm) - 00:41 24/04/2026
-- 🌮 [Thi lớp 10 tại TP HCM: Dự kiến giao đề trước một ngày](https://nld.com.vn/thi-lop-10-tai-tp-hcm-du-kien-giao-de-truoc-mot-ngay-196260423202454662.htm) - 00:15 24/04/2026
-- 👺 [Bất ngờ với thành tích thí sinh tại Hội thi &quot;Học sinh, sinh viên giỏi nghề thành phố năm 2026&quot;](https://nld.com.vn/bat-ngo-voi-thanh-tich-thi-sinh-tai-hoi-thi-hoc-sinh-sinh-vien-gioi-nghe-thanh-pho-nam-2026-196260423202657106.htm) - 13:44 23/04/2026
-- 🌈 [Phenikaa School đạt chứng nhận toàn cầu về giáo dục STEM](https://nld.com.vn/phenikaa-school-dat-chung-nhan-toan-cau-ve-giao-duc-stem-196260423183519497.htm) - 12:56 23/04/2026
-- 🫶 [Trường ĐH CMC hợp tác với ĐH Thanh Hoa phát triển nguồn nhân lực chất lượng cao](https://nld.com.vn/truong-dh-cmc-hop-tac-voi-dh-thanh-hoa-phat-trien-nguon-nhan-luc-chat-luong-cao-196260423174923993.htm) - 11:33 23/04/2026
-- 🎡 [Nguyên Phó Chủ tịch nước Trương Mỹ Hoa dự lễ kết nạp Đảng viên mới cho 2 học sinh ở TPHCM](https://nld.com.vn/nguyen-pho-chu-tich-nuoc-truong-my-hoa-du-le-ket-nap-dang-vien-moi-cho-2-hoc-sinh-o-tphcm-196260423160939717.htm) - 10:18 23/04/2026
-- 🦅 [Lễ tốt nghiệp “đặc biệt” ở Trường ĐH Bách khoa TPHCM](https://nld.com.vn/tphcm-hon-1100-tan-khoa-truong-dh-bach-khoa-tot-nghiep-196260423151247746.htm) - 09:03 23/04/2026
-- 🫶 [Đề nghị Bộ GD-ĐT làm rõ căn cứ của việc lựa chọn bộ sách giáo khoa sử dụng thống nhất trên toàn quốc](https://nld.com.vn/de-nghi-bo-gd-dt-lam-ro-can-cu-cua-viec-lua-chon-bo-sach-giao-khoa-su-dung-thong-nhat-tren-toan-quoc-196260423121142992.htm) - 06:38 23/04/2026
-- 🏊 [Trường học có hoán đổi ngày học để học sinh được nghỉ liên tục 9 ngày?](https://nld.com.vn/truong-hoc-co-hoan-doi-ngay-hoc-de-hoc-sinh-duoc-nghi-lien-tuc-9-ngay-196260423112043401.htm) - 05:09 23/04/2026
-- 🪜 [Rẽ hướng học nghề, nữ sinh 18 tuổi nhận &quot;quả ngọt&quot; xứng đáng](https://nld.com.vn/re-huong-hoc-nghe-nu-sinh-18-tuoi-nhan-qua-ngot-xung-dang-196260423071350322.htm) - 00:59 23/04/2026
-- 🦣 [Hóa thân thành nhân vật lịch sử, học sinh lớp 1 &quot;bùng nổ&quot; với hành trình theo dấu chân anh hùng](https://nld.com.vn/hoa-than-thanh-nhan-vat-lich-su-hoc-sinh-lop-1-bung-no-voi-hanh-trinh-theo-dau-chan-anh-hung-196260422131857052.htm) - 08:25 22/04/2026
-- 🎉 [Gần 170.000 học sinh TPHCM đăng ký nguyện vọng thi lớp 10: Chi tiết hướng dẫn đăng ký](https://nld.com.vn/gan-170000-hoc-sinh-tphcm-dang-ky-nguyen-vong-thi-lop-10-chi-tiet-huong-dan-dang-ky-196260422084852288.htm) - 02:11 22/04/2026
-- 🎓 [Nhân lực công nghệ bắt đầu cuộc sàng lọc lớn](https://nld.com.vn/nhan-luc-cong-nghe-bat-dau-cuoc-sang-loc-lon-196260421200741495.htm) - 00:50 22/04/2026
-- 🚀 [Doanh nghiệp Việt chuyển hướng thế nào trong kinh tế tuần hoàn?](https://nld.com.vn/doanh-nghiep-viet-chuyen-huong-the-nao-trong-kinh-te-tuan-hoan-196260421154534985.htm) - 09:52 21/04/2026
-- 🌈 [8 học sinh tiểu học ở TPHCM lập nhóm nói xấu, vu khống bạn cùng lớp: Nhà trường báo cáo gì?](https://nld.com.vn/8-hoc-sinh-tieu-hoc-o-tphcm-lap-nhom-noi-xau-vu-khong-ban-cung-lop-nha-truong-bao-cao-gi-196260421154817342.htm) - 09:37 21/04/2026
-- 🌁 [TPHCM: Áp lực đè nặng ở những trường có 100 lớp học](https://nld.com.vn/tphcm-ap-luc-de-nang-o-nhung-truong-co-100-lop-hoc-196260421124739327.htm) - 07:18 21/04/2026
-- 😎 [Khám phá nghề từ những trải nghiệm thực tế](https://nld.com.vn/kham-pha-nghe-tu-nhung-trai-nghiem-thuc-te-19626042019464105.htm) - 13:00 20/04/2026
-- 🦆 [17 học sinh đồng loạt &quot;tố&quot; bị giáo viên... tác động vật lý](https://nld.com.vn/17-hoc-sinh-dong-loat-to-bi-giao-vien-tac-dong-vat-ly-196260420144350777.htm) - 08:12 20/04/2026
-- 🌝 [VIDEO: Khoảnh khắc đặc biệt tại sân Trường THPT Sào Nam](https://nld.com.vn/video-khoanh-khac-dac-biet-tai-san-truong-thpt-sao-nam-196260420144020585.htm) - 08:08 20/04/2026
-- 🫣 [Tuyển sinh ĐH 2026: Nhiều thay đổi quan trọng](https://nld.com.vn/tuyen-sinh-dh-2026-nhieu-thay-doi-quan-trong-196260420130143789.htm) - 06:27 20/04/2026
-- 🤩 [Chung kết cuộc thi VBIC 2026: Thúc đẩy tư duy, nuôi dưỡng tinh thần khởi nghiệp cho bạn trẻ](https://nld.com.vn/chung-ket-cuoc-thi-vbic-2026-thuc-day-tu-duy-nuoi-duong-tinh-than-khoi-nghiep-cho-ban-tre-196260419230443699.htm) - 03:36 20/04/2026
-- 🎓 [NÓNG: Nhiều trường học TPHCM cảnh báo khẩn lừa đảo suất &quot;bao đậu&quot;, &quot;tuyển thẳng&quot; mùa tuyển sinh](https://nld.com.vn/nong-nhieu-truong-hoc-tphcm-canh-bao-khan-lua-dao-suat-bao-dau-tuyen-thang-mua-tuyen-sinh-196260420095108422.htm) - 03:25 20/04/2026
-- ⛽️ [1.700 học sinh Đà Nẵng tham gia chương trình “Đưa trường học đến thí sinh”](https://nld.com.vn/1700-hoc-sinh-da-nang-tham-gia-chuong-trinh-dua-truong-hoc-den-thi-sinh-196260420092220894.htm) - 02:54 20/04/2026
-- 🎡 [Lần đầu tiên có 400 chỉ tiêu ngành luật ở khu vực miền Trung](https://nld.com.vn/lan-dau-tien-co-400-chi-tieu-nganh-luat-o-khu-vuc-mien-trung-19626042008095012.htm) - 02:16 20/04/2026
-- 🚀 [Bài dự thi cuộc thi viết &quot;Người thầy kính yêu&quot;: Người gieo hạt giống niềm tin](https://nld.com.vn/bai-du-thi-cuoc-thi-viet-nguoi-thay-kinh-yeu-nguoi-gieo-hat-giong-niem-tin-196260419211448325.htm) - 01:27 20/04/2026
-- 👺 [15 dự án được trao giải Nhất cuộc thi ý tưởng khởi nghiệp](https://nld.com.vn/15-du-an-duoc-trao-giai-nhat-cuoc-thi-y-tuong-khoi-nghiep-196260419193123156.htm) - 13:50 19/04/2026
-- 🦄 [3.000 sinh viên &quot;cháy&quot; hết mình ở Trường ĐH Sư phạm TPHCM](https://nld.com.vn/3000-sinh-vien-chay-het-minh-o-truong-dh-su-pham-tphcm-196260419163714784.htm) - 10:58 19/04/2026
-- 🤭 [PGS-TS Bùi Quang Hùng: Giáo dục không thể phát triển một mình](https://nld.com.vn/pgs-ts-bui-quang-hung-giao-duc-khong-the-phat-trien-mot-minh-196260419151454852.htm) - 09:41 19/04/2026
-- 🚀 [Chạm vào giấc mơ nghề nghiệp](https://nld.com.vn/cham-vao-giac-mo-nghe-nghiep-196260419155136711.htm) - 09:33 19/04/2026<!-- nld-giao-duc-khoa-hoc:END -->
+- 💯 [Biến động chỉ tiêu, điểm chuẩn lớp 10 ở TPHCM những năm gần đây ra sao?](https://nld.com.vn/bien-dong-chi-tieu-diem-chuan-lop-10-o-tphcm-nhung-nam-gan-day-ra-sao-196260501142823183.htm) - 08:26 01/05/2026
+- 🌮 [Trường ĐH Công nghệ thông tin công bố lộ trình tăng học phí đến 2030](https://nld.com.vn/truong-dh-cong-nghe-thong-tin-cong-bo-lo-trinh-tang-hoc-phi-den-2030-196260501094646933.htm) - 03:10 01/05/2026
+- 🐎 [Nhà xuất bản Giáo dục Việt Nam cam kết giảm giá sách giáo khoa](https://nld.com.vn/nha-xuat-ban-giao-duc-viet-nam-cam-ket-giam-gia-sach-giao-khoa-196260430160946616.htm) - 10:42 30/04/2026
+- 🔥 [NÓNG: Chỉ tiêu tuyển sinh lớp 10 ở Cần Thơ, Tây Ninh, Đồng Tháp, Vĩnh Long, Cà Mau, An Giang](https://nld.com.vn/nong-chi-tieu-tuyen-sinh-lop-10-o-can-tho-tay-ninh-dong-thap-vinh-long-ca-mau-an-giang-196260430161207323.htm) - 09:22 30/04/2026
+- 🥳 [Học phí của ĐH Kinh tế TPHCM lên tới 80 triệu đồng](https://nld.com.vn/hoc-phi-cua-dh-kinh-te-tphcm-len-toi-80-trieu-dong-196260430105000887.htm) - 04:55 30/04/2026
+- 🤔 [Cụ thể hóa khái niệm &quot;chấp nhận rủi ro&quot; khi hợp tác nhiều bên](https://nld.com.vn/cu-the-hoa-khai-niem-chap-nhan-rui-ro-khi-hop-tac-nhieu-ben-196260430101655761.htm) - 04:32 30/04/2026
+- 🌏 [Trường Đại học Quốc tế: Mở rộng cơ hội, giữ vững chuẩn mực tuyển sinh 2026](https://nld.com.vn/truong-dai-hoc-quoc-te-mo-rong-co-hoi-giu-vung-chuan-muc-tuyen-sinh-2026-196260429143359075.htm) - 02:13 30/04/2026
+- 💃 [Đại học Trà Vinh: Phát triển kỹ thuật nuôi cấy mô, mở lối cho ngành dừa](https://nld.com.vn/dai-hoc-tra-vinh-phat-trien-ky-thuat-nuoi-cay-mo-mo-loi-cho-nganh-dua-196260429150417459.htm) - 02:00 30/04/2026
+- 😎 [Giữ ổn định học phí, giảm gánh nặng cho phụ huynh](https://nld.com.vn/giu-on-dinh-hoc-phi-giam-ganh-nang-cho-phu-huynh-196260429145821114.htm) - 01:16 30/04/2026
+- 🧑‍💻 [Định hình giáo dục và đào tạo xứng tầm siêu đô thị](https://nld.com.vn/dinh-hinh-giao-duc-va-dao-tao-xung-tam-sieu-do-thi-196260429183223411.htm) - 00:25 30/04/2026
+- 🧠 [Những trường tuyển hơn 1.000 học sinh vào lớp 10 công lập ở TPHCM](https://nld.com.vn/nhung-truong-tuyen-hon-1000-hoc-sinh-vao-lop-10-cong-lap-o-tphcm-196260429191621934.htm) - 13:37 29/04/2026
+- 🪄 [TPHCM công bố chỉ tiêu tuyển sinh lớp 10 các trường THPT toàn thành](https://nld.com.vn/nong-tphcm-cong-bo-chi-tieu-tuyen-sinh-lop-10-cac-truong-thpt-toan-thanh-196260427182242533.htm) - 11:21 29/04/2026
+- ⛽️ [TPHCM có thêm 5 trường THPT tuyển sinh lớp 10, học sinh có thể điều chỉnh nguyện vọng](https://nld.com.vn/tphcm-co-them-5-truong-thpt-tuyen-sinh-lop-10-hoc-sinh-co-the-dieu-chinh-nguyen-vong-196260429171124171.htm) - 10:41 29/04/2026
+- 🤗 [VIDEO: Tập đoàn Vingroup khởi công dự án Khu đô thị Đại học Quốc tế tại TPHCM, quy mô 880 ha](https://nld.com.vn/video-tap-doan-vingroup-khoi-cong-du-an-khu-do-thi-dai-hoc-quoc-te-tai-tphcm-quy-mo-880-ha-196260429143233393.htm) - 07:53 29/04/2026
+- 👍 [Chiều nay, TPHCM công bố chỉ tiêu tuyển sinh lớp 10 công lập](https://nld.com.vn/chieu-nay-tphcm-cong-bo-chi-tieu-tuyen-sinh-lop-10-cong-lap-xem-chi-tiet-tai-day-196260429115711191.htm) - 05:15 29/04/2026
+- 💻 [Lưu ý quan trọng với thí sinh tự do](https://nld.com.vn/luu-y-quan-trong-voi-thi-sinh-tu-do-1962604282129275.htm) - 00:45 29/04/2026
+- 🎊 [Học sinh đăng ký thi lớp 10 tăng kỷ lục](https://nld.com.vn/hoc-sinh-dang-ky-thi-lop-10-tang-ky-luc-196260428212740599.htm) - 21:16 28/04/2026
+- 🌁 [90 chương trình STEM tham gia đề án nhân lực công nghệ cao](https://nld.com.vn/90-chuong-trinh-stem-tham-gia-de-an-nhan-luc-cong-nghe-cao-196260428154134878.htm) - 09:21 28/04/2026
+- 👹 [Ngày cuối đăng ký nguyện vọng thi lớp 10 ở TPHCM: Có nên điều chỉnh nguyện vọng?](https://nld.com.vn/ngay-cuoi-dang-ky-nguyen-vong-thi-lop-10-o-tphcm-co-nen-dieu-chinh-nguyen-vong-196260428093707115.htm) - 03:05 28/04/2026
+- 🌋 [SV Duy Tân đạt nhiều giải Cao tại Liên hoan SV Kiến trúc Toàn quốc 2026](https://nld.com.vn/sv-duy-tan-dat-nhieu-giai-cao-tai-lien-hoan-sv-kien-truc-toan-quoc-2026-196260428092548011.htm) - 02:28 28/04/2026
+- 💼 [Hé lộ quy trình thi tuyển 415 viên chức giáo dục ở Quảng Trị](https://nld.com.vn/he-lo-quy-trinh-thi-tuyen-415-vien-chuc-giao-duc-o-quang-tri-196260427103446395.htm) - 08:58 27/04/2026
+- 🌊 [Tốt nghiệp ĐH điểm tuyệt đối, tân khoa khởi nghiệp với mô hình nhà hàng độc đáo](https://nld.com.vn/tot-nghiep-dh-diem-tuyet-doi-tan-khoa-khoi-nghiep-voi-mo-hinh-nha-hang-doc-dao-196260427122401093.htm) - 06:30 27/04/2026
+- 🌮 [Vượt qua rào cản, làm chủ môi trường số](https://nld.com.vn/vuot-qua-rao-can-lam-chu-moi-truong-so-196260426201450415.htm) - 21:00 26/04/2026
+- 👺 [Trường Đại học Cửu Long khai giảng lớp đào tạo Tiếng Việt cho người nước ngoài](https://nld.com.vn/truong-dai-hoc-cuu-long-khai-giang-lop-dao-tao-tieng-viet-cho-nguoi-nuoc-ngoai-196260426154728162.htm) - 14:02 26/04/2026
+- 🌈 [Thí sinh thi đánh giá năng lực đợt 2 tăng đột biến](https://nld.com.vn/thi-sinh-thi-danh-gia-nang-luc-dot-2-tang-dot-bien-196260426131516779.htm) - 06:56 26/04/2026
+- 🫶 [Một trường đại học ở TPHCM ứng dụng hệ thống mô phỏng nha khoa vào đào tạo](https://nld.com.vn/mot-truong-dai-hoc-o-tphcm-ung-dung-he-thong-mo-phong-nha-khoa-vao-dao-tao-196260425192707213.htm) - 12:37 25/04/2026
+- 🎡 [VIDEO: Sinh viên Fulbright Việt Nam tranh tài tại cuộc thi sáng kiến bền vững toàn cầu ở Đức](https://nld.com.vn/video-sinh-vien-fulbright-viet-nam-tranh-tai-tai-cuoc-thi-sang-kien-ben-vung-toan-cau-o-duc-196260425152049772.htm) - 08:33 25/04/2026
+- 🦅 [Nâng chuẩn giảng viên đại học: Tránh chạy theo học vị](https://nld.com.vn/nang-chuan-giang-vien-dai-hoc-tranh-chay-theo-hoc-vi-19626042513121652.htm) - 07:06 25/04/2026
+- 🫶 [Ngôi trường ươm mầm tri thức cho học sinh dân tộc thiểu số kỷ niệm 50 năm thành lập](https://nld.com.vn/ngoi-truong-uom-mam-tri-thuc-cho-hoc-sinh-dan-toc-thieu-so-ky-niem-50-nam-thanh-lap-196260425112702731.htm) - 04:41 25/04/2026
+- 🏊 [Vụ cô giáo dùng kim tiêm phạt học sinh ở TPHCM: Xem xét trách nhiệm người đứng đầu](https://nld.com.vn/vu-co-giao-dung-kim-tiem-phat-hoc-sinh-o-tphcm-xem-xet-trach-nhiem-nguoi-dung-dau-196260424175808287.htm) - 23:50 24/04/2026
+- 🪜 [Nguyên tắc &quot;vàng&quot; khi chọn nguyện vọng vào lớp 10](https://nld.com.vn/nguyen-tac-vang-khi-chon-nguyen-vong-vao-lop-10-196260424205843456.htm) - 23:41 24/04/2026
+- 🦣 [Hoàn thiện cơ chế hỗ trợ nghiên cứu sinh xuất sắc](https://nld.com.vn/hoan-thien-co-che-ho-tro-nghien-cuu-sinh-xuat-sac-196260424190723002.htm) - 13:27 24/04/2026
+- 🎉 [ĐHQG TPHCM mở rộng địa bàn thi đánh giá năng lực đợt 2](https://nld.com.vn/dhqg-tphcm-mo-rong-dia-ban-thi-danh-gia-nang-luc-dot-2-196260424181405755.htm) - 12:12 24/04/2026
+- 🎓 [Siết liêm chính khoa học, quy định rõ sử dụng AI](https://nld.com.vn/siet-liem-chinh-khoa-hoc-quy-dinh-ro-su-dung-ai-196260424173610512.htm) - 11:24 24/04/2026
+- 🚀 [Kỷ luật cô giáo dùng kim tiêm phạt học sinh ở TPHCM](https://nld.com.vn/ky-luat-co-giao-dung-kim-tiem-phat-hoc-sinh-o-tphcm-196260424170427283.htm) - 10:36 24/04/2026
+- 🌈 [TPHCM chính thức &quot;chốt&quot; những quy định quan trọng đối với kỳ thi lớp 10](https://nld.com.vn/tphcm-chinh-thuc-chot-nhung-quy-dinh-quan-trong-doi-voi-ky-thi-lop-10-196260424154214431.htm) - 10:26 24/04/2026
+- 🌁 [Hợp tác khoa học - công nghệ: Đòn bẩy cho đào tạo thực tiễn khu vực phía Nam](https://nld.com.vn/hop-tac-khoa-hoc-cong-nghe-don-bay-cho-dao-tao-thuc-tien-khu-vuc-phia-nam-196260424160526008.htm) - 09:34 24/04/2026
+- 😎 [Chiến lược đăng ký nguyện vọng vào lớp 10 phù hợp](https://nld.com.vn/chien-luoc-dang-ky-nguyen-vong-vao-lop-10-phu-hop-196260424143706709.htm) - 07:57 24/04/2026
+- 🦆 [Gắn kết đào tạo với thực tiễn từ sân chơi Solar Car Challenge 2026](https://nld.com.vn/gan-ket-dao-tao-voi-thuc-tien-tu-san-choi-solar-car-challenge-2026-196260424135858059.htm) - 07:12 24/04/2026
+- 🌝 [ĐH Kinh tế TPHCM ra mắt không gian học tập đắm chìm](https://nld.com.vn/dh-kinh-te-tphcm-ra-mat-khong-gian-hoc-tap-dam-chim-196260424124206491.htm) - 06:34 24/04/2026
+- 🫣 [Bước tiến công nghệ mới trong phẫu thuật tạo hình](https://nld.com.vn/buoc-tien-cong-nghe-moi-trong-phau-thuat-tao-hinh-196260424120952536.htm) - 06:31 24/04/2026
+- 🤩 [Đặt nguyện vọng thế nào để trúng tuyển vào lớp 10?](https://nld.com.vn/sang-mai-24-4-bao-nguoi-lao-dong-to-chuc-talkshow-chon-dung-nguyen-vong-vao-lop-10-196260423154524561.htm) - 00:41 24/04/2026
+- 🎓 [Thi lớp 10 tại TP HCM: Dự kiến giao đề trước một ngày](https://nld.com.vn/thi-lop-10-tai-tp-hcm-du-kien-giao-de-truoc-mot-ngay-196260423202454662.htm) - 00:15 24/04/2026
+- ⛽️ [Bất ngờ với thành tích thí sinh tại Hội thi &quot;Học sinh, sinh viên giỏi nghề thành phố năm 2026&quot;](https://nld.com.vn/bat-ngo-voi-thanh-tich-thi-sinh-tai-hoi-thi-hoc-sinh-sinh-vien-gioi-nghe-thanh-pho-nam-2026-196260423202657106.htm) - 13:44 23/04/2026
+- 🎡 [Phenikaa School đạt chứng nhận toàn cầu về giáo dục STEM](https://nld.com.vn/phenikaa-school-dat-chung-nhan-toan-cau-ve-giao-duc-stem-196260423183519497.htm) - 12:56 23/04/2026
+- 🚀 [Trường ĐH CMC hợp tác với ĐH Thanh Hoa phát triển nguồn nhân lực chất lượng cao](https://nld.com.vn/truong-dh-cmc-hop-tac-voi-dh-thanh-hoa-phat-trien-nguon-nhan-luc-chat-luong-cao-196260423174923993.htm) - 11:33 23/04/2026
+- 👺 [Nguyên Phó Chủ tịch nước Trương Mỹ Hoa dự lễ kết nạp Đảng viên mới cho 2 học sinh ở TPHCM](https://nld.com.vn/nguyen-pho-chu-tich-nuoc-truong-my-hoa-du-le-ket-nap-dang-vien-moi-cho-2-hoc-sinh-o-tphcm-196260423160939717.htm) - 10:18 23/04/2026
+- 🦄 [Lễ tốt nghiệp “đặc biệt” ở Trường ĐH Bách khoa TPHCM](https://nld.com.vn/tphcm-hon-1100-tan-khoa-truong-dh-bach-khoa-tot-nghiep-196260423151247746.htm) - 09:03 23/04/2026
+- 🤭 [Đề nghị Bộ GD-ĐT làm rõ căn cứ của việc lựa chọn bộ sách giáo khoa sử dụng thống nhất trên toàn quốc](https://nld.com.vn/de-nghi-bo-gd-dt-lam-ro-can-cu-cua-viec-lua-chon-bo-sach-giao-khoa-su-dung-thong-nhat-tren-toan-quoc-196260423121142992.htm) - 06:38 23/04/2026
+- 🚀 [Trường học có hoán đổi ngày học để học sinh được nghỉ liên tục 9 ngày?](https://nld.com.vn/truong-hoc-co-hoan-doi-ngay-hoc-de-hoc-sinh-duoc-nghi-lien-tuc-9-ngay-196260423112043401.htm) - 05:09 23/04/2026<!-- nld-giao-duc-khoa-hoc:END -->
