@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Tín hiệu mới cho thấy ngoại giao giữa Mỹ và Iran chưa hoàn toàn đóng băng](https://vov.vn/the-gioi/tin-hieu-moi-cho-thay-ngoai-giao-giua-my-va-iran-chua-hoan-toan-dong-bang-post1288419.vov) - 15:39 01/05/2026
-- 🕯 [Việt Nam đề nghị Mỹ có đánh giá khách quan về bảo hộ sở hữu trí tuệ](https://vov.vn/chinh-tri/viet-nam-de-nghi-my-co-danh-gia-khach-quan-ve-bao-ho-so-huu-tri-tue-post1288410.vov) - 14:27 01/05/2026
-- 🌊 [Hóa đơn gần 18 triệu ở Sầm Sơn gây “bão mạng”: Sự thật không phải “chặt chém”](https://vov.vn/xa-hoi/hoa-don-gan-18-trieu-o-sam-son-gay-bao-mang-su-that-khong-phai-chat-chem-post1288411.vov) - 14:25 01/05/2026
-- 🥷 [Thêm vụ nghi ngộ độc tập thể do bánh mì, Bộ Y tế yêu cầu điều tra nguyên nhân](https://vov.vn/xa-hoi/them-vu-nghi-ngo-doc-tap-the-do-banh-mi-bo-y-te-yeu-cau-dieu-tra-nguyen-nhan-post1288405.vov) - 13:28 01/05/2026
-- 🎡 [Kết quả V-League hôm nay 1/5: Nam Định thắng dễ CLB CA TP.HCM](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-15-nam-dinh-thang-de-clb-ca-tphcm-post1288295.vov) - 12:53 01/05/2026
-- 🚀 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026
-- 🔥 [Thủ tướng Nhật Bản đến Hà Nội, bắt đầu thăm chính thức Việt Nam](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1288404.vov) - 12:38 01/05/2026
-- 🌋 [Bức thư Bác gửi năm 1946 và hành trình 80 năm xây dựng khối đại đoàn kết ở Gia Lai](https://vov.vn/chinh-tri/buc-thu-bac-gui-nam-1946-va-hanh-trinh-80-nam-xay-dung-khoi-dai-doan-ket-o-gia-lai-post1288392.vov) - 11:46 01/05/2026
-- 🕴 [Giao thông Hà Nội ngày 1/5 “dễ thở” hiếm thấy, nội đô vắng vẻ](https://vov.vn/xa-hoi/giao-thong-ha-noi-ngay-15-de-tho-hiem-thay-noi-do-vang-ve-post1288375.vov) - 11:21 01/05/2026
-- 🥰 [Luật Thủ đô &lpar;sửa đổi&rpar;: Hướng Hà Nội trở thành đô thị quản trị hiện đại](https://vov.vn/chinh-tri/luat-thu-do-sua-doi-huong-ha-noi-tro-thanh-do-thi-quan-tri-hien-dai-post1288357.vov) - 09:21 01/05/2026
-- 🧐 [Nhìn lại những sự kiện quốc tế đáng chú ý tháng 4/2026](https://vov.vn/the-gioi/nhin-lai-nhung-su-kien-quoc-te-dang-chu-y-thang-42026-post1288341.vov) - 08:37 01/05/2026<!-- vov:END -->
+- 🌜 [Cháy lớn ở Hải Phòng, thiêu rụi nhiều cửa hàng trong 30 phút](https://vov.vn/xa-hoi/chay-lon-o-hai-phong-thieu-rui-nhieu-cua-hang-trong-30-phut-post1288517.vov) - 06:26 02/05/2026
+- 🕯 [Thủ tướng Lê Minh Hưng và Thủ tướng Takaichi Sanae gặp gỡ báo chí](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-va-thu-tuong-takaichi-sanae-gap-go-bao-chi-post1288513.vov) - 05:58 02/05/2026
+- 🌊 [Xác định nguyên nhân ban đầu vụ cháy xe ô tô tại cây xăng khiến 2 người tử vong](https://vov.vn/xa-hoi/xac-dinh-nguyen-nhan-ban-dau-vu-chay-xe-o-to-tai-cay-xang-khien-2-nguoi-tu-vong-post1288509.vov) - 05:35 02/05/2026
+- 🥷 [Bán xe rồi dùng chìa khóa dự phòng trộm lại đem cầm cố, đối tượng bị khởi tố](https://vov.vn/phap-luat/ban-xe-roi-dung-chia-khoa-du-phong-trom-lai-dem-cam-co-doi-tuong-bi-khoi-to-post1288507.vov) - 04:36 02/05/2026
+- 🎡 [Vụ cháy ô tô làm 2 người tử vong tại cây xăng: Đà Nẵng thăm hỏi gia đình nạn nhân](https://vov.vn/xa-hoi/vu-chay-o-to-lam-2-nguoi-tu-vong-tai-cay-xang-da-nang-tham-hoi-gia-dinh-nan-nhan-post1288496.vov) - 04:11 02/05/2026
+- 🚀 [Căng thẳng Mỹ - Đức: Ông Trump rút 5.000 quân, dọa bỏ rơi cả Italy và Tây Ban Nha](https://vov.vn/the-gioi/quan-sat/cang-thang-my-duc-ong-trump-rut-5000-quan-doa-bo-roi-ca-italy-va-tay-ban-nha-post1288486.vov) - 04:01 02/05/2026
+- 🔥 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ: Kiến tạo xung lực mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-kien-tao-xung-luc-moi-post1288495.vov) - 04:00 02/05/2026
+- 🌋 [Xe chở khách du lịch ở Mexico gặp tai nạn khiến hơn 40 người thương vong](https://vov.vn/the-gioi/xe-cho-khach-du-lich-o-mexico-gap-tai-nan-khien-hon-40-nguoi-thuong-vong-post1288494.vov) - 03:45 02/05/2026
+- 🕴 [Chợ Cái Bè &lpar;Đồng Tháp&rpar;: Nỗi lo mất an toàn giao thông và cháy nổ](https://vov.vn/xa-hoi/cho-cai-be-dong-thap-noi-lo-mat-an-toan-giao-thong-va-chay-no-post1288472.vov) - 03:30 02/05/2026
+- 🥰 [Gỡ vướng cho hộ, cá nhân kinh doanh khi đăng ký, kê khai và nộp thuế](https://vov.vn/kinh-te/go-vuong-cho-ho-ca-nhan-kinh-doanh-khi-dang-ky-ke-khai-va-nop-thue-post1288475.vov) - 03:24 02/05/2026
+- 🧐 [Chính quyền địa phương 2 cấp: Tiếp tục hoàn thiện thể chế để vận hành hiệu quả hơn](https://vov.vn/chinh-tri/chinh-quyen-dia-phuong-2-cap-tiep-tuc-hoan-thien-the-che-de-van-hanh-hieu-qua-hon-post1287651.vov) - 22:30 01/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
