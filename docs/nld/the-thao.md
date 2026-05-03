@@ -4,53 +4,53 @@ sidebar_position: 13
 ---
 
 <!-- nld-the-thao:START -->
-- 💻 [Minh Vương nổ súng, Đồng Nai thắng đậm nhất mùa](https://nld.com.vn/minh-vuong-no-sung-dong-nai-thang-dam-nhat-mua-19626050221555797.htm) - 15:32 02/05/2026
-- 🦒 [Sân Bình Phước được NHM phủ kín xem trình diễn drone và Minh Vương, Xuân Trường thi đấu](https://nld.com.vn/san-binh-phuoc-duoc-nhm-phu-kin-xem-trinh-dien-drone-va-minh-vuong-xuan-truong-thi-dau-196260502204819657.htm) - 15:31 02/05/2026
-- 👹 [Soi tỉ số trận Arsenal - Fulham: Bùng nổ bàn thắng ở Emirates](https://nld.com.vn/soi-ti-so-tran-arsenal-fulham-bung-no-ban-thang-o-emirates-196260502153039422.htm) - 08:59 02/05/2026
-- 🤓 [Sinner thẳng tiến chung kết Madrid Open, lập kỷ lục mới](https://nld.com.vn/sinner-thang-tien-chung-ket-madrid-open-lap-ky-luc-moi-196260502121104542.htm) - 05:14 02/05/2026
-- 🙉 [Rơi máy bay, 4 VĐV pickleball và phi công tử nạn](https://nld.com.vn/roi-may-bay-4-vdv-pickleball-va-phi-cong-tu-nan-196260502110727.htm) - 04:10 02/05/2026
-- 🐵 [Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng](https://nld.com.vn/gigaversal-bowling-cup-2026-chinh-thuc-khoi-tranh-tai-gigamall-tong-giai-thuong-den-60-trieu-dong-196260502101455098.htm) - 03:24 02/05/2026
-- 🕯 [Bi kịch &quot;đại gia&quot; London: Arsenal về nhì, Tottenham sắp rớt hạng](https://nld.com.vn/bi-kich-dai-gia-london-arsenal-ve-nhi-tottenham-sap-rot-hang-196260502075651523.htm) - 01:00 02/05/2026
-- 🕴 [Xuân Mạnh tỏa sáng, Hà Nội FC lọt tốp 3 V-League](https://nld.com.vn/xuan-manh-toa-sang-ha-noi-fc-lot-top-3-v-league-196260501215648047.htm) - 14:57 01/05/2026
-- 🤠 [CLB Công an TP HCM &quot;trắng tay&quot; ở Thiên Trường](https://nld.com.vn/clb-cong-an-tp-hcm-trang-tay-o-thien-truong-196260501203451861.htm) - 13:37 01/05/2026
-- 🪜 [U17 Việt Nam buộc U17 Thái Lan chia điểm](https://nld.com.vn/u17-viet-nam-buoc-u17-thai-lan-chia-diem-196260501174812298.htm) - 10:56 01/05/2026
-- 🧠 [Cần Thơ thông tin về vụ tay đua tử vong khi gặp tai nạn tại giải vô địch quốc gia](https://nld.com.vn/can-tho-thong-tin-ve-vu-tay-dua-tu-vong-khi-gap-tai-nan-tai-giai-vo-dich-quoc-gia-196260501160913212.htm) - 09:21 01/05/2026
-- 🙉 [CLB Công an TPHCM khó thắng &quot;cựu vương&quot; V-League](https://nld.com.vn/clb-cong-an-tphcm-kho-thang-cuu-vuong-v-league-1962605010931204.htm) - 02:56 01/05/2026
-- 👺 [U17 Việt Nam chốt danh sách săn vé dự World Cup](https://nld.com.vn/u17-viet-nam-chot-danh-sach-san-ve-du-world-cup-196260501092658799.htm) - 02:35 01/05/2026
-- 🦄 [Kobbie Mainoo gia hạn 5 năm với Man United, lương tăng gấp 8 lần](https://nld.com.vn/kobbie-mainoo-gia-han-5-nam-voi-man-united-luong-tang-gap-8-lan-196260501065918204.htm) - 01:13 01/05/2026
-- 👀 [V-League: Từ nửa suất C1 châu Á đến vị trí thứ 8 khu vực](https://nld.com.vn/v-league-tu-nua-suat-c1-chau-a-den-vi-tri-thu-8-khu-vuc-196260501065424352.htm) - 00:22 01/05/2026
-- 🐵 [U17 nữ Việt Nam khởi động giấc mơ World Cup](https://nld.com.vn/u17-nu-viet-nam-khoi-dong-giac-mo-world-cup-196260501055624156.htm) - 23:28 30/04/2026
-- 💂 [Nottingham Forest hạ Aston Villa, mơ chung kết Europa League sau 46 năm](https://nld.com.vn/nottingham-forest-ha-aston-villa-mo-chung-ket-europa-league-sau-46-nam-196260501062025791.htm) - 23:26 30/04/2026
-- 👍 [Trông chờ màn trình diễn của Hà Nội FC](https://nld.com.vn/trong-cho-man-trinh-dien-cua-ha-noi-fc-196260430213747684.htm) - 22:59 30/04/2026
-- 🔥 [Vòng 21 V-League: Trọng tài Hàn Quốc cầm còi trận đại chiến Thể Công Viettel - Ninh Bình](https://nld.com.vn/vong-21-v-league-trong-tai-han-quoc-cam-coi-tran-dai-chien-the-cong-viettel-ninh-binh-1962604301923117.htm) - 12:52 30/04/2026
-- 🎉 [Hàng ngàn người cổ vũ tại đích đến Cúp xe đạp truyền hình TP HCM](https://nld.com.vn/hang-ngan-nguoi-dan-co-vu-tai-dich-den-cup-xe-dap-truyen-hinh-tp-hcm-19626043017183221.htm) - 10:55 30/04/2026
-- 🪄 [Ronaldo chỉ trích cầu thủ Saudi Pro League khi giúp Al-Nassr thắng lợi](https://nld.com.vn/ronaldo-chi-trich-cau-thu-saudi-pro-league-khi-giup-al-nassr-thang-loi-196260430160236039.htm) - 10:48 30/04/2026
-- 🌊 [Marchuk Dzianis thắng chặng cuối Cúp truyền hình 2026, xe đạp TPHCM &quot;ẵm&quot; cú ăn ba](https://nld.com.vn/marchuk-dzianis-thang-chang-cuoi-cup-truyen-hinh-2026-xe-dap-tphcm-am-cu-an-ba-196260430132404281.htm) - 06:42 30/04/2026
-- 🌮 [Trọng tài UEFA có thể điều hành giải đấu của U17 Việt Nam](https://nld.com.vn/trong-tai-uefa-co-the-dieu-hanh-giai-dau-cua-u17-viet-nam-19626043011062234.htm) - 05:08 30/04/2026
-- 🧠 [Sau bán kết lượt đi Champions League: Không thua để vô địch](https://nld.com.vn/sau-ban-ket-luot-di-champions-league-khong-thua-de-vo-dich-196260430105751365.htm) - 04:04 30/04/2026
-- 🌮 [Án phạt có thể huỷ hoại sự nghiệp tiền vệ Chelsea](https://nld.com.vn/an-phat-co-the-huy-hoai-su-nghiep-tien-ve-chelsea-19626043009062698.htm) - 02:07 30/04/2026
-- 🫣 [Cầu thủ nhập tịch Nguyễn Tài Lộc có thể đóng góp gì cho tuyển Việt Nam?](https://nld.com.vn/cau-thu-nhap-tich-nguyen-tai-loc-co-the-dong-gop-gi-cho-tuyen-viet-nam-196260430084943906.htm) - 01:50 30/04/2026
-- 🎡 [Thể thao TPHCM hướng tới tầm nhìn Olympic](https://nld.com.vn/the-thao-tp-hcm-huong-toi-tam-nhin-olympic-196260429210249367.htm) - 01:37 30/04/2026
-- 🦄 [VAR gây tranh cãi, Arsenal bị xử ép trắng trợn trước Atletico Madrid](https://nld.com.vn/var-gay-tranh-cai-arsenal-bi-xu-ep-trang-tron-truoc-atletico-madrid-196260430065041417.htm) - 00:11 30/04/2026
-- 🚀 [Arsenal cầm hòa Atletico Madrid, rộng cửa vào chung kết Champions League](https://nld.com.vn/arsenal-cam-hoa-atletico-madrid-rong-cua-vao-chung-ket-champions-league-196260430055721069.htm) - 23:07 29/04/2026
-- 🕯 [Liên đoàn Cờ TPHCM đổi tên, thêm mục tiêu nhiệm vụ](https://nld.com.vn/lien-doan-co-tphcm-doi-ten-them-muc-tieu-nhiem-vu-196260429205649458.htm) - 14:07 29/04/2026
-- 🦏 [Thủ tướng Lê Minh Hưng gặp mặt, chúc mừng đội tuyển bóng đá nam U17 Việt Nam](https://nld.com.vn/thu-tuong-le-minh-hung-gap-mat-chuc-mung-doi-tuyen-bong-da-nam-u17-viet-nam-196260429200432808.htm) - 13:28 29/04/2026
-- 🦄 [Hồ Văn Ý và Chánh Hưng Thái Sơn Nam vô địch Đại hội TDTT TP HCM](https://nld.com.vn/ho-van-y-va-chanh-hung-thai-son-nam-vo-dich-dai-hoi-tdtt-tp-hcm-196260429190836117.htm) - 12:18 29/04/2026
-- 🦅 [Chân sút Geovane chính thức trở thành công dân Việt Nam](https://nld.com.vn/chan-sut-geovane-chinh-thuc-tro-thanh-cong-dan-viet-nam-196260429163337244.htm) - 09:40 29/04/2026
-- 🤭 [Bản quyền World Cup 2026 tại Việt Nam: Tăng 395 tỉ đồng so với 4 năm trước](https://nld.com.vn/ban-quyen-world-cup-2026-tai-viet-nam-tang-395-ti-dong-so-voi-4-nam-truoc-196260429160905687.htm) - 09:20 29/04/2026
-- 🦣 [IFAB thông qua quy định mới, World Cup 2026 tăng án phạt](https://nld.com.vn/ifab-thong-qua-quy-dinh-moi-world-cup-2026-tang-an-phat-196260429123638267.htm) - 06:27 29/04/2026
-- 🎊 [Cúp truyền hình TPHCM 2026: Chờ đợi ai sẽ cán đích đầu tiên tại Hội trường Thống Nhất?](https://nld.com.vn/cup-truyen-hinh-tphcm-2026-cho-doi-ai-se-can-dich-dau-tien-tai-hoi-truong-thong-nhat-196260429131250667.htm) - 06:26 29/04/2026
-- 🦅 [PSG - Bayern 5-4: Không có “cái chết” của kiểm soát](https://nld.com.vn/psg-bayern-5-4-khong-co-cai-chet-cua-kiem-soat-196260429124525966.htm) - 05:58 29/04/2026
-- 🎬 [U17 Triều Tiên chính thức rút khỏi giải châu Á, U17 Việt Nam bị ảnh hưởng](https://nld.com.vn/u17-trieu-tien-chinh-thuc-rut-khoi-giai-chau-a-u17-viet-nam-bi-anh-huong-196260429103153126.htm) - 03:57 29/04/2026
-- 🎡 [Premier League từ chối ủng hộ, Man City đối mặt lịch đấu nghẹt thở](https://nld.com.vn/premier-league-tu-choi-ung-ho-man-city-doi-mat-lich-dau-nghet-tho-196260429082832008.htm) - 01:38 29/04/2026
-- 🤖 [Phản ứng của PSG và BayernMunich sau &quot;trận cầu thế kỷ&quot; ở Champions League](https://nld.com.vn/phan-ung-cua-psg-va-bayernmunich-sau-tran-cau-the-ky-o-champions-league-196260429072803703.htm) - 00:40 29/04/2026
-- 🐎 [PSG hạ Bayern Munich ở trận bán kết Champions League lịch sử có 9 bàn](https://nld.com.vn/psg-ha-bayern-munich-o-tran-ban-ket-champions-league-lich-su-co-9-ban-196260429061713043.htm) - 23:21 28/04/2026
-- 🪜 [World Cup 2026: FIFA chọn giữ ngôi sao và chấp nhận tranh luận](https://nld.com.vn/world-cup-2026-fifa-chon-giu-ngoi-sao-va-chap-nhan-tranh-luan-19626042903555451.htm) - 22:18 28/04/2026
-- 🤠 [Cúp truyền hình TP HCM 2026: &quot;Sàn diễn&quot; của công nghệ](https://nld.com.vn/cup-truyen-hinh-tp-hcm-2026-san-dien-cua-cong-nghe-196260428213435955.htm) - 20:40 28/04/2026
-- 🎉 [Arsenal gặp lại rào cản khó chịu](https://nld.com.vn/arsenal-gap-lai-rao-can-kho-chiu-196260428213556817.htm) - 18:22 28/04/2026
-- 🏊 [&quot;Viên ngọc&quot; Đình Bắc vẫn cần được mài giũa](https://nld.com.vn/vien-ngoc-dinh-bac-van-can-duoc-mai-giua-19626042812452312.htm) - 05:58 28/04/2026
-- 💫 [Bước ngoặt cho mục tiêu “ăn 4” của Bayern Munich](https://nld.com.vn/buoc-ngoat-cho-muc-tieu-an-4-cua-bayern-munich-196260428123943565.htm) - 05:43 28/04/2026
-- 🎃 [Cúp truyền hình 2026: Patrick Patterson thắng chặng kịch tính tại Mỹ Tho](https://nld.com.vn/cup-truyen-hinh-2026-patrick-patterson-thang-chang-kich-tinh-tai-my-tho-196260428121548404.htm) - 05:42 28/04/2026
-- 🧑‍💻 [V-League 2025-2026: Hấp dẫn cuộc đua &quot;song mã&quot; về đích](https://nld.com.vn/v-league-2025-2026-hap-dan-cuoc-dua-song-ma-ve-dich-196260428115627303.htm) - 05:42 28/04/2026
-- 🤡 [Khán giả Việt Nam vẫn được xem truyền hình trực tiếp U17 Việt Nam đá giải châu Á](https://nld.com.vn/khan-gia-viet-nam-van-duoc-xem-truyen-hinh-truc-tiep-u17-viet-nam-da-giai-chau-a-196260428113239239.htm) - 04:38 28/04/2026
-- 🗽 [Trọng tài UEFA được phân công ở World Cup bị cáo buộc xâm hại thiếu niên tại Anh](https://nld.com.vn/trong-tai-uefa-duoc-phan-cong-o-world-cup-bi-cao-buoc-xam-hai-thieu-nien-tai-anh-196260428112242856.htm) - 04:29 28/04/2026<!-- nld-the-thao:END -->
+- 💻 [Soi tỉ số trận Manchester United - Liverpool: Cơn mưa bàn thắng ở Old Trafford](https://nld.com.vn/soi-ti-so-tran-manchester-united-liverpool-con-mua-ban-thang-o-old-trafford-196260502222322313.htm) - 09:03 03/05/2026
+- 🦒 [Messi &quot;nổ súng&quot; đưa Inter Miami dẫn 3 bàn nhưng vẫn thua đau](https://nld.com.vn/messi-no-sung-dua-inter-miami-dan-3-ban-nhung-van-thua-dau-196260503100922537.htm) - 03:18 03/05/2026
+- 👹 [Thua sốc Lyon, Arsenal bị phế truất ở UEFA Champions League nữ](https://nld.com.vn/thua-soc-lyon-arsenal-bi-phe-truat-o-uefa-champions-league-nu-19626050307072481.htm) - 00:11 03/05/2026
+- 🤓 [Lewandowski ghi bàn quyết định, Barcelona tiến sát ngôi vô địch La Liga](https://nld.com.vn/lewandowski-ghi-ban-quyet-dinh-barcelona-tien-sat-ngoi-vo-dich-la-liga-196260503064127717.htm) - 00:07 03/05/2026
+- 🙉 [Bukayo Saka bùng nổ trận derby, Arsenal đè bẹp Fulham ở London](https://nld.com.vn/bukayo-saka-bung-no-tran-derby-arsenal-de-bep-fulham-o-london-196260503060232958.htm) - 23:22 02/05/2026
+- 🐵 [Chấm điểm Arsenal: Saka, Gyokeres cùng 9 điểm; Ben White gây thất vọng](https://nld.com.vn/cham-diem-arsenal-saka-gyokeres-cung-9-diem-ben-white-gay-that-vong-19626050305514899.htm) - 22:54 02/05/2026
+- 🕯 [Minh Vương &quot;nổ súng&quot;, Đồng Nai thắng đậm nhất mùa](https://nld.com.vn/minh-vuong-no-sung-dong-nai-thang-dam-nhat-mua-19626050221555797.htm) - 15:32 02/05/2026
+- 🕴 [Sân Bình Phước được NHM phủ kín xem trình diễn drone và Minh Vương, Xuân Trường thi đấu](https://nld.com.vn/san-binh-phuoc-duoc-nhm-phu-kin-xem-trinh-dien-drone-va-minh-vuong-xuan-truong-thi-dau-196260502204819657.htm) - 15:31 02/05/2026
+- 🤠 [Soi tỉ số trận Arsenal - Fulham: Bùng nổ bàn thắng ở Emirates](https://nld.com.vn/soi-ti-so-tran-arsenal-fulham-bung-no-ban-thang-o-emirates-196260502153039422.htm) - 08:59 02/05/2026
+- 🪜 [Sinner thẳng tiến chung kết Madrid Open, lập kỷ lục mới](https://nld.com.vn/sinner-thang-tien-chung-ket-madrid-open-lap-ky-luc-moi-196260502121104542.htm) - 05:14 02/05/2026
+- 🧠 [Rơi máy bay, 4 VĐV pickleball và phi công tử nạn](https://nld.com.vn/roi-may-bay-4-vdv-pickleball-va-phi-cong-tu-nan-196260502110727.htm) - 04:10 02/05/2026
+- 🙉 [Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng](https://nld.com.vn/gigaversal-bowling-cup-2026-chinh-thuc-khoi-tranh-tai-gigamall-tong-giai-thuong-den-60-trieu-dong-196260502101455098.htm) - 03:24 02/05/2026
+- 👺 [Bi kịch &quot;đại gia&quot; London: Arsenal về nhì, Tottenham sắp rớt hạng](https://nld.com.vn/bi-kich-dai-gia-london-arsenal-ve-nhi-tottenham-sap-rot-hang-196260502075651523.htm) - 01:00 02/05/2026
+- 🦄 [Xuân Mạnh tỏa sáng, Hà Nội FC lọt tốp 3 V-League](https://nld.com.vn/xuan-manh-toa-sang-ha-noi-fc-lot-top-3-v-league-196260501215648047.htm) - 14:57 01/05/2026
+- 👀 [CLB Công an TP HCM &quot;trắng tay&quot; ở Thiên Trường](https://nld.com.vn/clb-cong-an-tp-hcm-trang-tay-o-thien-truong-196260501203451861.htm) - 13:37 01/05/2026
+- 🐵 [U17 Việt Nam buộc U17 Thái Lan chia điểm](https://nld.com.vn/u17-viet-nam-buoc-u17-thai-lan-chia-diem-196260501174812298.htm) - 10:56 01/05/2026
+- 💂 [Cần Thơ thông tin về vụ tay đua tử vong khi gặp tai nạn tại giải vô địch quốc gia](https://nld.com.vn/can-tho-thong-tin-ve-vu-tay-dua-tu-vong-khi-gap-tai-nan-tai-giai-vo-dich-quoc-gia-196260501160913212.htm) - 09:21 01/05/2026
+- 👍 [CLB Công an TPHCM khó thắng &quot;cựu vương&quot; V-League](https://nld.com.vn/clb-cong-an-tphcm-kho-thang-cuu-vuong-v-league-1962605010931204.htm) - 02:56 01/05/2026
+- 🔥 [U17 Việt Nam chốt danh sách săn vé dự World Cup](https://nld.com.vn/u17-viet-nam-chot-danh-sach-san-ve-du-world-cup-196260501092658799.htm) - 02:35 01/05/2026
+- 🎉 [Kobbie Mainoo gia hạn 5 năm với Man United, lương tăng gấp 8 lần](https://nld.com.vn/kobbie-mainoo-gia-han-5-nam-voi-man-united-luong-tang-gap-8-lan-196260501065918204.htm) - 01:13 01/05/2026
+- 🪄 [V-League: Từ nửa suất C1 châu Á đến vị trí thứ 8 khu vực](https://nld.com.vn/v-league-tu-nua-suat-c1-chau-a-den-vi-tri-thu-8-khu-vuc-196260501065424352.htm) - 00:22 01/05/2026
+- 🌊 [U17 nữ Việt Nam khởi động giấc mơ World Cup](https://nld.com.vn/u17-nu-viet-nam-khoi-dong-giac-mo-world-cup-196260501055624156.htm) - 23:28 30/04/2026
+- 🌮 [Nottingham Forest hạ Aston Villa, mơ chung kết Europa League sau 46 năm](https://nld.com.vn/nottingham-forest-ha-aston-villa-mo-chung-ket-europa-league-sau-46-nam-196260501062025791.htm) - 23:26 30/04/2026
+- 🧠 [Trông chờ màn trình diễn của Hà Nội FC](https://nld.com.vn/trong-cho-man-trinh-dien-cua-ha-noi-fc-196260430213747684.htm) - 22:59 30/04/2026
+- 🌮 [Vòng 21 V-League: Trọng tài Hàn Quốc cầm còi trận đại chiến Thể Công Viettel - Ninh Bình](https://nld.com.vn/vong-21-v-league-trong-tai-han-quoc-cam-coi-tran-dai-chien-the-cong-viettel-ninh-binh-1962604301923117.htm) - 12:52 30/04/2026
+- 🫣 [Hàng ngàn người cổ vũ tại đích đến Cúp xe đạp truyền hình TP HCM](https://nld.com.vn/hang-ngan-nguoi-dan-co-vu-tai-dich-den-cup-xe-dap-truyen-hinh-tp-hcm-19626043017183221.htm) - 10:55 30/04/2026
+- 🎡 [Ronaldo chỉ trích cầu thủ Saudi Pro League khi giúp Al-Nassr thắng lợi](https://nld.com.vn/ronaldo-chi-trich-cau-thu-saudi-pro-league-khi-giup-al-nassr-thang-loi-196260430160236039.htm) - 10:48 30/04/2026
+- 🦄 [Marchuk Dzianis thắng chặng cuối Cúp truyền hình 2026, xe đạp TPHCM &quot;ẵm&quot; cú ăn ba](https://nld.com.vn/marchuk-dzianis-thang-chang-cuoi-cup-truyen-hinh-2026-xe-dap-tphcm-am-cu-an-ba-196260430132404281.htm) - 06:42 30/04/2026
+- 🚀 [Trọng tài UEFA có thể điều hành giải đấu của U17 Việt Nam](https://nld.com.vn/trong-tai-uefa-co-the-dieu-hanh-giai-dau-cua-u17-viet-nam-19626043011062234.htm) - 05:08 30/04/2026
+- 🕯 [Sau bán kết lượt đi Champions League: Không thua để vô địch](https://nld.com.vn/sau-ban-ket-luot-di-champions-league-khong-thua-de-vo-dich-196260430105751365.htm) - 04:04 30/04/2026
+- 🦏 [Án phạt có thể huỷ hoại sự nghiệp tiền vệ Chelsea](https://nld.com.vn/an-phat-co-the-huy-hoai-su-nghiep-tien-ve-chelsea-19626043009062698.htm) - 02:07 30/04/2026
+- 🦄 [Cầu thủ nhập tịch Nguyễn Tài Lộc có thể đóng góp gì cho tuyển Việt Nam?](https://nld.com.vn/cau-thu-nhap-tich-nguyen-tai-loc-co-the-dong-gop-gi-cho-tuyen-viet-nam-196260430084943906.htm) - 01:50 30/04/2026
+- 🦅 [Thể thao TPHCM hướng tới tầm nhìn Olympic](https://nld.com.vn/the-thao-tp-hcm-huong-toi-tam-nhin-olympic-196260429210249367.htm) - 01:37 30/04/2026
+- 🤭 [VAR gây tranh cãi, Arsenal bị xử ép trắng trợn trước Atletico Madrid](https://nld.com.vn/var-gay-tranh-cai-arsenal-bi-xu-ep-trang-tron-truoc-atletico-madrid-196260430065041417.htm) - 00:11 30/04/2026
+- 🦣 [Arsenal cầm hòa Atletico Madrid, rộng cửa vào chung kết Champions League](https://nld.com.vn/arsenal-cam-hoa-atletico-madrid-rong-cua-vao-chung-ket-champions-league-196260430055721069.htm) - 23:07 29/04/2026
+- 🎊 [Liên đoàn Cờ TPHCM đổi tên, thêm mục tiêu nhiệm vụ](https://nld.com.vn/lien-doan-co-tphcm-doi-ten-them-muc-tieu-nhiem-vu-196260429205649458.htm) - 14:07 29/04/2026
+- 🦅 [Thủ tướng Lê Minh Hưng gặp mặt, chúc mừng đội tuyển bóng đá nam U17 Việt Nam](https://nld.com.vn/thu-tuong-le-minh-hung-gap-mat-chuc-mung-doi-tuyen-bong-da-nam-u17-viet-nam-196260429200432808.htm) - 13:28 29/04/2026
+- 🎬 [Hồ Văn Ý và Chánh Hưng Thái Sơn Nam vô địch Đại hội TDTT TP HCM](https://nld.com.vn/ho-van-y-va-chanh-hung-thai-son-nam-vo-dich-dai-hoi-tdtt-tp-hcm-196260429190836117.htm) - 12:18 29/04/2026
+- 🎡 [Chân sút Geovane chính thức trở thành công dân Việt Nam](https://nld.com.vn/chan-sut-geovane-chinh-thuc-tro-thanh-cong-dan-viet-nam-196260429163337244.htm) - 09:40 29/04/2026
+- 🤖 [Bản quyền World Cup 2026 tại Việt Nam: Tăng 395 tỉ đồng so với 4 năm trước](https://nld.com.vn/ban-quyen-world-cup-2026-tai-viet-nam-tang-395-ti-dong-so-voi-4-nam-truoc-196260429160905687.htm) - 09:20 29/04/2026
+- 🐎 [IFAB thông qua quy định mới, World Cup 2026 tăng án phạt](https://nld.com.vn/ifab-thong-qua-quy-dinh-moi-world-cup-2026-tang-an-phat-196260429123638267.htm) - 06:27 29/04/2026
+- 🪜 [Cúp truyền hình TPHCM 2026: Chờ đợi ai sẽ cán đích đầu tiên tại Hội trường Thống Nhất?](https://nld.com.vn/cup-truyen-hinh-tphcm-2026-cho-doi-ai-se-can-dich-dau-tien-tai-hoi-truong-thong-nhat-196260429131250667.htm) - 06:26 29/04/2026
+- 🤠 [PSG - Bayern 5-4: Không có “cái chết” của kiểm soát](https://nld.com.vn/psg-bayern-5-4-khong-co-cai-chet-cua-kiem-soat-196260429124525966.htm) - 05:58 29/04/2026
+- 🎉 [U17 Triều Tiên chính thức rút khỏi giải châu Á, U17 Việt Nam bị ảnh hưởng](https://nld.com.vn/u17-trieu-tien-chinh-thuc-rut-khoi-giai-chau-a-u17-viet-nam-bi-anh-huong-196260429103153126.htm) - 03:57 29/04/2026
+- 🏊 [Premier League từ chối ủng hộ, Man City đối mặt lịch đấu nghẹt thở](https://nld.com.vn/premier-league-tu-choi-ung-ho-man-city-doi-mat-lich-dau-nghet-tho-196260429082832008.htm) - 01:38 29/04/2026
+- 💫 [Phản ứng của PSG và BayernMunich sau &quot;trận cầu thế kỷ&quot; ở Champions League](https://nld.com.vn/phan-ung-cua-psg-va-bayernmunich-sau-tran-cau-the-ky-o-champions-league-196260429072803703.htm) - 00:40 29/04/2026
+- 🎃 [PSG hạ Bayern Munich ở trận bán kết Champions League lịch sử có 9 bàn](https://nld.com.vn/psg-ha-bayern-munich-o-tran-ban-ket-champions-league-lich-su-co-9-ban-196260429061713043.htm) - 23:21 28/04/2026
+- 🧑‍💻 [World Cup 2026: FIFA chọn giữ ngôi sao và chấp nhận tranh luận](https://nld.com.vn/world-cup-2026-fifa-chon-giu-ngoi-sao-va-chap-nhan-tranh-luan-19626042903555451.htm) - 22:18 28/04/2026
+- 🤡 [Cúp truyền hình TP HCM 2026: &quot;Sàn diễn&quot; của công nghệ](https://nld.com.vn/cup-truyen-hinh-tp-hcm-2026-san-dien-cua-cong-nghe-196260428213435955.htm) - 20:40 28/04/2026
+- 🗽 [Arsenal gặp lại rào cản khó chịu](https://nld.com.vn/arsenal-gap-lai-rao-can-kho-chiu-196260428213556817.htm) - 18:22 28/04/2026<!-- nld-the-thao:END -->
