@@ -4,53 +4,53 @@ sidebar_position: 16
 ---
 
 <!-- thanhnien-cong-nghe:START -->
-- 🦆 [Những hiểu lầm thường gặp về ổ SSD](https://thanhnien.vn/nhung-hieu-lam-thuong-gap-ve-o-ssd-185260427133437564.htm) - 13:12 02/05/2026
-- 🥳 [Trải nghiệm chụp ảnh với camera ZEISS tr&amp;ecirc;n vivo V70](https://thanhnien.vn/trai-nghiem-chup-anh-voi-camera-zeiss-tren-vivo-v70-185260502113325489.htm) - 12:01 02/05/2026
-- 🥰 [Meta mất 20 triệu người d&amp;ugrave;ng trong qu&amp;yacute; đầu năm 2026](https://thanhnien.vn/meta-mat-20-trieu-nguoi-dung-trong-quy-dau-nam-2026-185260502155756249.htm) - 11:39 02/05/2026
-- 🌜 [AI khiến cơn kh&amp;aacute;t chip ng&amp;agrave;y c&amp;agrave;ng tồi tệ hơn](https://thanhnien.vn/ai-khien-con-khat-chip-ngay-cang-toi-te-hon-185260501155202137.htm) - 08:47 02/05/2026
-- 🔭 [GPS tr&amp;ecirc;n smartwatch liệu c&amp;oacute; cần thiết?](https://thanhnien.vn/gps-tren-smartwatch-lieu-co-can-thiet-185260502103332072.htm) - 08:08 02/05/2026
-- 💫 [Pin sắt rẻ hơn lithium tới 80 lần, sử dụng tới 16 năm](https://thanhnien.vn/pin-sat-re-hon-lithium-toi-80-lan-su-dung-toi-16-nam-185260502111440373.htm) - 07:02 02/05/2026
-- 💄 [Những m&amp;oacute;n đồ từng bị bỏ qu&amp;ecirc;n đang &amp;#039;hồi sinh&amp;#039; mạnh mẽ](https://thanhnien.vn/nhung-mon-do-tung-bi-bo-quen-dang-hoi-sinh-manh-me-185260424133743303.htm) - 04:28 02/05/2026
-- 🎊 [Thiết bị tương lai c&amp;oacute; thể kh&amp;ocirc;ng cần thay pin nhờ đột ph&amp;aacute; mới](https://thanhnien.vn/thiet-bi-tuong-lai-co-the-khong-can-thay-pin-nho-dot-pha-moi-18526050118493914.htm) - 04:08 02/05/2026
-- 💫 [Sạc nam ch&amp;acirc;m MagSafe sắp biến mất tr&amp;ecirc;n iPhone?](https://thanhnien.vn/sac-nam-cham-magsafe-sap-bien-mat-tren-iphone-185260501224300951.htm) - 03:18 02/05/2026
-- 🥳 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 2.5.2026: Hướng đến mục ti&amp;ecirc;u 80.000 USD](https://thanhnien.vn/gia-bitcoin-hom-nay-252026-huong-den-muc-tieu-80000-usd-185260502082805511.htm) - 01:59 02/05/2026
-- 🗽 [Roblox kết hợp AI v&amp;agrave; DLSS để cải thiện đồ họa](https://thanhnien.vn/roblox-ket-hop-ai-va-dlss-de-cai-thien-do-hoa-185260501215046041.htm) - 00:08 02/05/2026
-- 🫣 [Doanh nghiệp &amp;#039;m&amp;ugrave; mờ&amp;#039; trước dữ liệu nh&amp;acirc;n vi&amp;ecirc;n nhập v&amp;agrave;o AI](https://thanhnien.vn/doanh-nghiep-mu-mo-truoc-du-lieu-nhan-vien-nhap-vao-ai-18526050121091183.htm) - 14:39 01/05/2026
-- 🧑‍🏫 [Apple đạt doanh số kỷ lục nhờ b&amp;aacute;n iPhone 17 ở Trung Quốc](https://thanhnien.vn/apple-dat-doanh-so-ky-luc-nho-ban-iphone-17-o-trung-quoc-185260501145506121.htm) - 14:10 01/05/2026
-- 💻 [Mỹ tiếp tục siết chặt cấm vận c&amp;ocirc;ng nghệ Trung Quốc](https://thanhnien.vn/my-tiep-tuc-siet-chat-cam-van-cong-nghe-trung-quoc-185260501170022074.htm) - 13:17 01/05/2026
-- 🌏 [Mỹ đổ 700 tỉ USD v&amp;agrave;o AI g&amp;acirc;y &amp;aacute;p lực lớn l&amp;ecirc;n Trung Quốc](https://thanhnien.vn/my-do-700-ti-usd-vao-ai-gay-ap-luc-lon-len-trung-quoc-185260501162712998.htm) - 09:52 01/05/2026
-- 🫶 [Sự thật đằng sau việc Bluetooth l&amp;uacute;c được l&amp;uacute;c kh&amp;ocirc;ng](https://thanhnien.vn/su-that-dang-sau-viec-bluetooth-luc-duoc-luc-khong-185260430003906543.htm) - 08:08 01/05/2026
-- 🐲 [Tham vọng AI của Trung Quốc được ươm mầm từ học sinh tiểu học](https://thanhnien.vn/tham-vong-ai-cua-trung-quoc-duoc-uom-mam-tu-hoc-sinh-tieu-hoc-185260430123726686.htm) - 07:04 01/05/2026
-- 😎 [Chi ph&amp;iacute; AI kh&amp;ocirc;ng c&amp;ograve;n rẻ như lời hứa ban đầu](https://thanhnien.vn/chi-phi-ai-khong-con-re-nhu-loi-hua-ban-dau-185260427153301634.htm) - 04:21 01/05/2026
-- 🪜 [Apple c&amp;oacute; thể thất bại với iPhone Ultra d&amp;ugrave; cấu h&amp;igrave;nh ho&amp;agrave;n hảo](https://thanhnien.vn/apple-co-the-that-bai-voi-iphone-ultra-du-cau-hinh-hoan-hao-185260430151909841.htm) - 03:08 01/05/2026
-- 🐘 [YouTube miễn ph&amp;iacute; t&amp;iacute;nh năng xem video cửa sổ nhỏ](https://thanhnien.vn/youtube-mien-phi-tinh-nang-xem-video-cua-so-nho-185260501075346604.htm) - 03:04 01/05/2026
-- ⚗️ [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 1.5.2026: Mỹ tịch thu gần 500 triệu USD tiền số của Iran](https://thanhnien.vn/gia-bitcoin-hom-nay-152026-my-tich-thu-gan-500-trieu-usd-tien-so-cua-iran-185260501074722641.htm) - 01:35 01/05/2026
-- 🧑‍💻 [OnePlus sắp biến mất, dấu chấm hết cho thương hiệu &amp;#039;flagship killer&amp;#039;](https://thanhnien.vn/oneplus-sap-bien-mat-dau-cham-het-cho-thuong-hieu-flagship-killer-185260501070329141.htm) - 00:31 01/05/2026
-- 🦏 [Nguồn gốc bất ngờ của m&amp;atilde; QR](https://thanhnien.vn/nguon-goc-bat-ngo-cua-ma-qr-185260429231859985.htm) - 14:33 30/04/2026
-- 🧰 [Kh&amp;aacute;m ph&amp;aacute; những t&amp;iacute;nh năng tiện lợi của USB-C](https://thanhnien.vn/kham-pha-nhung-tinh-nang-tien-loi-cua-usb-c-185260424175152971.htm) - 14:00 30/04/2026
-- 🤡 [Kh&amp;ocirc;ng ai c&amp;oacute; thể sa thải Elon Musk tại SpaceX ngo&amp;agrave;i ch&amp;iacute;nh &amp;ocirc;ng](https://thanhnien.vn/khong-ai-co-the-sa-thai-elon-musk-tai-spacex-ngoai-chinh-ong-185260423170144743.htm) - 13:47 30/04/2026
-- 🧰 [OpenAI &amp;acirc;m thầm rời xa Microsoft, ngả về ph&amp;iacute;a Amazon](https://thanhnien.vn/openai-am-tham-roi-xa-microsoft-nga-ve-phia-amazon-185260430180427044.htm) - 12:34 30/04/2026
-- 🐻 [Apple đứng trước lựa chọn kh&amp;oacute; sau th&amp;agrave;nh c&amp;ocirc;ng của MacBook Neo](https://thanhnien.vn/apple-dung-truoc-lua-chon-kho-sau-thanh-cong-cua-macbook-neo-185260430163749739.htm) - 09:42 30/04/2026
-- 🎬 [R&amp;ograve; rỉ dự &amp;aacute;n &amp;#039;Phone-AI&amp;#039; của OpenAI với tham vọng so&amp;aacute;n ng&amp;ocirc;i Apple v&amp;agrave; Google](https://thanhnien.vn/ro-ri-du-an-phone-ai-cua-openai-voi-tham-vong-soan-ngoi-apple-va-google-185260430140611569.htm) - 07:19 30/04/2026
-- 💡 [C&amp;aacute;ch nh&amp;agrave; sản xuất bồn vệ sinh Toto kiếm bộn tiền từ chip v&amp;agrave; AI?](https://thanhnien.vn/cach-nha-san-xuat-bon-ve-sinh-toto-kiem-bon-tien-tu-chip-va-ai-185260430111444583.htm) - 06:18 30/04/2026
-- 🤠 [Gi&amp;aacute; iPhone năm 2027 c&amp;oacute; nguy cơ tăng đột biến](https://thanhnien.vn/gia-iphone-nam-2027-co-nguy-co-tang-dot-bien-185260430001556095.htm) - 03:29 30/04/2026
-- 👨‍🏫 [Samsung sắp thiết kế lại cụm camera Galaxy S?](https://thanhnien.vn/samsung-sap-thiet-ke-lai-cum-camera-galaxy-s-185260430005829663.htm) - 03:23 30/04/2026
-- 🧐 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 30.4.2026: Giảm sau khi Fed giữ nguy&amp;ecirc;n l&amp;atilde;i suất](https://thanhnien.vn/gia-bitcoin-hom-nay-3042026-giam-sau-khi-fed-giu-nguyen-lai-suat-185260430084505533.htm) - 02:31 30/04/2026
-- 🎬 [Laptop v&amp;agrave; notebook kh&amp;aacute;c nhau ở điểm n&amp;agrave;o?](https://thanhnien.vn/laptop-va-notebook-khac-nhau-o-diem-nao-185260429224302732.htm) - 00:33 30/04/2026
-- 💪 [Google Translate th&amp;ecirc;m t&amp;iacute;nh năng luyện ph&amp;aacute;t &amp;acirc;m](https://thanhnien.vn/google-translate-them-tinh-nang-luyen-phat-am-185260429161031455.htm) - 11:41 29/04/2026
-- 🪄 [Những dấu hiệu cho thấy điều h&amp;ograve;a đến l&amp;uacute;c &amp;#039;nghỉ hưu&amp;#039;](https://thanhnien.vn/nhung-dau-hieu-cho-thay-dieu-hoa-den-luc-nghi-huu-185260429145147935.htm) - 08:51 29/04/2026
-- 🎓 [Samsung sắp mang cả &amp;#039;d&amp;agrave;n audio huyền thoại&amp;#039; l&amp;ecirc;n smartphone](https://thanhnien.vn/samsung-sap-mang-ca-dan-audio-huyen-thoai-len-smartphone-185260429113748149.htm) - 07:27 29/04/2026
-- 🦣 [CPU tưởng bỏ đi của Intel vẫn được b&amp;aacute;n ra thị trường](https://thanhnien.vn/cpu-tuong-bo-di-cua-intel-van-duoc-ban-ra-thi-truong-185260429102532653.htm) - 07:00 29/04/2026
-- 💼 [Sony tăng gi&amp;aacute; PlayStation 5](https://thanhnien.vn/sony-tang-gia-playstation-5-185260429111458261.htm) - 05:57 29/04/2026
-- ⚗️ [Loạt t&amp;iacute;nh năng đ&amp;aacute;ng mong chờ tr&amp;ecirc;n One UI 9](https://thanhnien.vn/loat-tinh-nang-dang-mong-cho-tren-one-ui-9-185260428131135497.htm) - 03:23 29/04/2026
-- 🙉 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 29.4.2026: Nỗ lực chạm mốc 80.000 USD bất th&amp;agrave;nh](https://thanhnien.vn/gia-bitcoin-hom-nay-2942026-no-luc-cham-moc-80000-usd-bat-thanh-185260429081424282.htm) - 02:26 29/04/2026
-- 🙉 [Tại sao điện thoại Android th&amp;iacute;ch hợp với người lớn tuổi?](https://thanhnien.vn/tai-sao-dien-thoai-android-thich-hop-voi-nguoi-lon-tuoi-185260428210647134.htm) - 01:30 29/04/2026
-- 🤭 [Top 3 ứng dụng gi&amp;uacute;p &amp;lsquo;qu&amp;eacute;t sạch&amp;rsquo; quảng c&amp;aacute;o tr&amp;ecirc;n Android](https://thanhnien.vn/top-3-ung-dung-giup-quet-sach-quang-cao-tren-android-185260428215200431.htm) - 01:03 29/04/2026
-- 🎃 [C&amp;aacute;ch khắc phục iPhone 17 v&amp;agrave; Air bỗng th&amp;agrave;nh &amp;#039;cục gạch&amp;#039; khi cạn pin](https://thanhnien.vn/cach-khac-phuc-iphone-17-va-air-bong-thanh-cuc-gach-khi-can-pin-18526042813304914.htm) - 13:22 28/04/2026
-- 💂 [Apple sắp &amp;#039;hồi sinh&amp;#039; iPhone m&amp;agrave;n h&amp;igrave;nh cong?](https://thanhnien.vn/apple-sap-hoi-sinh-iphone-man-hinh-cong-185260428153356463.htm) - 12:16 28/04/2026
-- 🐲 [Apple bước v&amp;agrave;o cuộc chơi iPhone v&amp;agrave; MacBook cho giới si&amp;ecirc;u gi&amp;agrave;u](https://thanhnien.vn/apple-buoc-vao-cuoc-choi-iphone-va-macbook-cho-gioi-sieu-giau-18526042816070053.htm) - 10:34 28/04/2026
-- 🌜 [Thị trường iPhone 17 hạ nhiệt sau nửa năm](https://thanhnien.vn/thi-truong-iphone-17-ha-nhiet-sau-nua-nam-185260428153617984.htm) - 08:50 28/04/2026
-- 💫 [Google ra mắt t&amp;iacute;nh năng đăng k&amp;yacute; ứng dụng chỉ trong v&amp;agrave;i gi&amp;acirc;y](https://thanhnien.vn/google-ra-mat-tinh-nang-dang-ky-ung-dung-chi-trong-vai-giay-18526042813533256.htm) - 07:07 28/04/2026
-- 🎃 [Motorola Razr 2026 sắp ra mắt với gi&amp;aacute; khởi điểm 800 USD](https://thanhnien.vn/motorola-razr-2026-sap-ra-mat-voi-gia-khoi-diem-800-usd-185260428083129317.htm) - 06:07 28/04/2026
-- 👍 [B&amp;aacute;n nh&amp;agrave; triệu đ&amp;ocirc; để đầu tư v&amp;agrave;o Claude v&amp;agrave; cổ phiếu Anthropic](https://thanhnien.vn/ban-nha-trieu-do-de-dau-tu-vao-claude-va-co-phieu-anthropic-185260428100924836.htm) - 04:11 28/04/2026
-- 🤓 [Chiếc điện thoại đầu ti&amp;ecirc;n đặt nền m&amp;oacute;ng cho Samsung ng&amp;agrave;y nay](https://thanhnien.vn/chiec-dien-thoai-dau-tien-dat-nen-mong-cho-samsung-ngay-nay-185260427200417483.htm) - 03:04 28/04/2026<!-- thanhnien-cong-nghe:END -->
+- 🦆 [5 t&amp;iacute;nh năng dễ đ&amp;aacute;nh lừa bạn khi mua m&amp;agrave;n h&amp;igrave;nh mới](https://thanhnien.vn/5-tinh-nang-de-danh-lua-ban-khi-mua-man-hinh-moi-185260428112342885.htm) - 13:12 03/05/2026
+- 🥳 [N&amp;ecirc;n lựa chọn pin mặt trời m&amp;agrave;u xanh hay m&amp;agrave;u đen?](https://thanhnien.vn/nen-lua-chon-pin-mat-troi-mau-xanh-hay-mau-den-185260430231110814.htm) - 10:46 03/05/2026
+- 🥰 [Nhật Bản tạo c&amp;uacute; h&amp;iacute;ch mới cho pin mặt trời si&amp;ecirc;u hiệu quả](https://thanhnien.vn/nhat-ban-tao-cu-hich-moi-cho-pin-mat-troi-sieu-hieu-qua-185260503153443446.htm) - 09:42 03/05/2026
+- 🌜 [T&amp;iacute;nh năng giấu k&amp;iacute;n tr&amp;ecirc;n iPhone gi&amp;uacute;p tiết kiệm pin tới 20%](https://thanhnien.vn/tinh-nang-giau-kin-tren-iphone-giup-tiet-kiem-pin-toi-20-185260503113539549.htm) - 07:22 03/05/2026
+- 🔭 [4 sai lầm về Bluetooth đang đ&amp;aacute;nh lừa người d&amp;ugrave;ng c&amp;ocirc;ng nghệ](https://thanhnien.vn/4-sai-lam-ve-bluetooth-dang-danh-lua-nguoi-dung-cong-nghe-185260503131357559.htm) - 07:18 03/05/2026
+- 💫 [Chọn vỏ nhựa hay kim loại để gi&amp;uacute;p laptop m&amp;aacute;t hơn?](https://thanhnien.vn/chon-vo-nhua-hay-kim-loai-de-giup-laptop-mat-hon-185260503084246903.htm) - 03:01 03/05/2026
+- 💄 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 3.5.2026: Kết th&amp;uacute;c tuần giao dịch nhiều s&amp;oacute;ng gi&amp;oacute;](https://thanhnien.vn/gia-bitcoin-hom-nay-352026-ket-thuc-tuan-giao-dich-nhieu-song-gio-185260503085608479.htm) - 02:56 03/05/2026
+- 🎊 [Trước khi bật điều h&amp;ograve;a, đừng qu&amp;ecirc;n kiểm tra những điều n&amp;agrave;y](https://thanhnien.vn/truoc-khi-bat-dieu-hoa-dung-quen-kiem-tra-nhung-dieu-nay-185260501225014984.htm) - 01:41 03/05/2026
+- 💫 [C&amp;oacute; n&amp;ecirc;n chi th&amp;ecirc;m tiền cho tủ lạnh th&amp;ocirc;ng minh?](https://thanhnien.vn/co-nen-chi-them-tien-cho-tu-lanh-thong-minh-185260428094419097.htm) - 00:31 03/05/2026
+- 🥳 [AI agent tham gia s&amp;acirc;u v&amp;agrave;o quy tr&amp;igrave;nh thiết kế v&amp;agrave; kiểm thử chip](https://thanhnien.vn/ai-agent-tham-gia-sau-vao-quy-trinh-thiet-ke-va-kiem-thu-chip-185260502110612733.htm) - 23:21 02/05/2026
+- 🗽 [Những hiểu lầm thường gặp về ổ SSD](https://thanhnien.vn/nhung-hieu-lam-thuong-gap-ve-o-ssd-185260427133437564.htm) - 13:12 02/05/2026
+- 🫣 [Trải nghiệm chụp ảnh với camera ZEISS tr&amp;ecirc;n vivo V70](https://thanhnien.vn/trai-nghiem-chup-anh-voi-camera-zeiss-tren-vivo-v70-185260502113325489.htm) - 12:01 02/05/2026
+- 🧑‍🏫 [Meta mất 20 triệu người d&amp;ugrave;ng trong qu&amp;yacute; đầu năm 2026](https://thanhnien.vn/meta-mat-20-trieu-nguoi-dung-trong-quy-dau-nam-2026-185260502155756249.htm) - 11:39 02/05/2026
+- 💻 [AI khiến cơn kh&amp;aacute;t chip ng&amp;agrave;y c&amp;agrave;ng tồi tệ hơn](https://thanhnien.vn/ai-khien-con-khat-chip-ngay-cang-toi-te-hon-185260501155202137.htm) - 08:47 02/05/2026
+- 🌏 [GPS tr&amp;ecirc;n smartwatch liệu c&amp;oacute; cần thiết?](https://thanhnien.vn/gps-tren-smartwatch-lieu-co-can-thiet-185260502103332072.htm) - 08:08 02/05/2026
+- 🫶 [Pin sắt rẻ hơn lithium tới 80 lần, sử dụng tới 16 năm](https://thanhnien.vn/pin-sat-re-hon-lithium-toi-80-lan-su-dung-toi-16-nam-185260502111440373.htm) - 07:02 02/05/2026
+- 🐲 [Những m&amp;oacute;n đồ từng bị bỏ qu&amp;ecirc;n đang &amp;#039;hồi sinh&amp;#039; mạnh mẽ](https://thanhnien.vn/nhung-mon-do-tung-bi-bo-quen-dang-hoi-sinh-manh-me-185260424133743303.htm) - 04:28 02/05/2026
+- 😎 [Thiết bị tương lai c&amp;oacute; thể kh&amp;ocirc;ng cần thay pin nhờ đột ph&amp;aacute; mới](https://thanhnien.vn/thiet-bi-tuong-lai-co-the-khong-can-thay-pin-nho-dot-pha-moi-18526050118493914.htm) - 04:08 02/05/2026
+- 🪜 [Sạc nam ch&amp;acirc;m MagSafe sắp biến mất tr&amp;ecirc;n iPhone?](https://thanhnien.vn/sac-nam-cham-magsafe-sap-bien-mat-tren-iphone-185260501224300951.htm) - 03:18 02/05/2026
+- 🐘 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 2.5.2026: Hướng đến mục ti&amp;ecirc;u 80.000 USD](https://thanhnien.vn/gia-bitcoin-hom-nay-252026-huong-den-muc-tieu-80000-usd-185260502082805511.htm) - 01:59 02/05/2026
+- ⚗️ [Roblox kết hợp AI v&amp;agrave; DLSS để cải thiện đồ họa](https://thanhnien.vn/roblox-ket-hop-ai-va-dlss-de-cai-thien-do-hoa-185260501215046041.htm) - 00:08 02/05/2026
+- 🧑‍💻 [Doanh nghiệp &amp;#039;m&amp;ugrave; mờ&amp;#039; trước dữ liệu nh&amp;acirc;n vi&amp;ecirc;n nhập v&amp;agrave;o AI](https://thanhnien.vn/doanh-nghiep-mu-mo-truoc-du-lieu-nhan-vien-nhap-vao-ai-18526050121091183.htm) - 14:39 01/05/2026
+- 🦏 [Apple đạt doanh số kỷ lục nhờ b&amp;aacute;n iPhone 17 ở Trung Quốc](https://thanhnien.vn/apple-dat-doanh-so-ky-luc-nho-ban-iphone-17-o-trung-quoc-185260501145506121.htm) - 14:10 01/05/2026
+- 🧰 [Mỹ tiếp tục siết chặt cấm vận c&amp;ocirc;ng nghệ Trung Quốc](https://thanhnien.vn/my-tiep-tuc-siet-chat-cam-van-cong-nghe-trung-quoc-185260501170022074.htm) - 13:17 01/05/2026
+- 🤡 [Mỹ đổ 700 tỉ USD v&amp;agrave;o AI g&amp;acirc;y &amp;aacute;p lực lớn l&amp;ecirc;n Trung Quốc](https://thanhnien.vn/my-do-700-ti-usd-vao-ai-gay-ap-luc-lon-len-trung-quoc-185260501162712998.htm) - 09:52 01/05/2026
+- 🧰 [Sự thật đằng sau việc Bluetooth l&amp;uacute;c được l&amp;uacute;c kh&amp;ocirc;ng](https://thanhnien.vn/su-that-dang-sau-viec-bluetooth-luc-duoc-luc-khong-185260430003906543.htm) - 08:08 01/05/2026
+- 🐻 [Tham vọng AI của Trung Quốc được ươm mầm từ học sinh tiểu học](https://thanhnien.vn/tham-vong-ai-cua-trung-quoc-duoc-uom-mam-tu-hoc-sinh-tieu-hoc-185260430123726686.htm) - 07:04 01/05/2026
+- 🎬 [Chi ph&amp;iacute; AI kh&amp;ocirc;ng c&amp;ograve;n rẻ như lời hứa ban đầu](https://thanhnien.vn/chi-phi-ai-khong-con-re-nhu-loi-hua-ban-dau-185260427153301634.htm) - 04:21 01/05/2026
+- 💡 [Apple c&amp;oacute; thể thất bại với iPhone Ultra d&amp;ugrave; cấu h&amp;igrave;nh ho&amp;agrave;n hảo](https://thanhnien.vn/apple-co-the-that-bai-voi-iphone-ultra-du-cau-hinh-hoan-hao-185260430151909841.htm) - 03:08 01/05/2026
+- 🤠 [YouTube miễn ph&amp;iacute; t&amp;iacute;nh năng xem video cửa sổ nhỏ](https://thanhnien.vn/youtube-mien-phi-tinh-nang-xem-video-cua-so-nho-185260501075346604.htm) - 03:04 01/05/2026
+- 👨‍🏫 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 1.5.2026: Mỹ tịch thu gần 500 triệu USD tiền số của Iran](https://thanhnien.vn/gia-bitcoin-hom-nay-152026-my-tich-thu-gan-500-trieu-usd-tien-so-cua-iran-185260501074722641.htm) - 01:35 01/05/2026
+- 🧐 [OnePlus sắp biến mất, dấu chấm hết cho thương hiệu &amp;#039;flagship killer&amp;#039;](https://thanhnien.vn/oneplus-sap-bien-mat-dau-cham-het-cho-thuong-hieu-flagship-killer-185260501070329141.htm) - 00:31 01/05/2026
+- 🎬 [Nguồn gốc bất ngờ của m&amp;atilde; QR](https://thanhnien.vn/nguon-goc-bat-ngo-cua-ma-qr-185260429231859985.htm) - 14:33 30/04/2026
+- 💪 [Kh&amp;aacute;m ph&amp;aacute; những t&amp;iacute;nh năng tiện lợi của USB-C](https://thanhnien.vn/kham-pha-nhung-tinh-nang-tien-loi-cua-usb-c-185260424175152971.htm) - 14:00 30/04/2026
+- 🪄 [Kh&amp;ocirc;ng ai c&amp;oacute; thể sa thải Elon Musk tại SpaceX ngo&amp;agrave;i ch&amp;iacute;nh &amp;ocirc;ng](https://thanhnien.vn/khong-ai-co-the-sa-thai-elon-musk-tai-spacex-ngoai-chinh-ong-185260423170144743.htm) - 13:47 30/04/2026
+- 🎓 [OpenAI &amp;acirc;m thầm rời xa Microsoft, ngả về ph&amp;iacute;a Amazon](https://thanhnien.vn/openai-am-tham-roi-xa-microsoft-nga-ve-phia-amazon-185260430180427044.htm) - 12:34 30/04/2026
+- 🦣 [Apple đứng trước lựa chọn kh&amp;oacute; sau th&amp;agrave;nh c&amp;ocirc;ng của MacBook Neo](https://thanhnien.vn/apple-dung-truoc-lua-chon-kho-sau-thanh-cong-cua-macbook-neo-185260430163749739.htm) - 09:42 30/04/2026
+- 💼 [R&amp;ograve; rỉ dự &amp;aacute;n &amp;#039;Phone-AI&amp;#039; của OpenAI với tham vọng so&amp;aacute;n ng&amp;ocirc;i Apple v&amp;agrave; Google](https://thanhnien.vn/ro-ri-du-an-phone-ai-cua-openai-voi-tham-vong-soan-ngoi-apple-va-google-185260430140611569.htm) - 07:19 30/04/2026
+- ⚗️ [C&amp;aacute;ch nh&amp;agrave; sản xuất bồn vệ sinh Toto kiếm bộn tiền từ chip v&amp;agrave; AI?](https://thanhnien.vn/cach-nha-san-xuat-bon-ve-sinh-toto-kiem-bon-tien-tu-chip-va-ai-185260430111444583.htm) - 06:18 30/04/2026
+- 🙉 [Gi&amp;aacute; iPhone năm 2027 c&amp;oacute; nguy cơ tăng đột biến](https://thanhnien.vn/gia-iphone-nam-2027-co-nguy-co-tang-dot-bien-185260430001556095.htm) - 03:29 30/04/2026
+- 🙉 [Samsung sắp thiết kế lại cụm camera Galaxy S?](https://thanhnien.vn/samsung-sap-thiet-ke-lai-cum-camera-galaxy-s-185260430005829663.htm) - 03:23 30/04/2026
+- 🤭 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 30.4.2026: Giảm sau khi Fed giữ nguy&amp;ecirc;n l&amp;atilde;i suất](https://thanhnien.vn/gia-bitcoin-hom-nay-3042026-giam-sau-khi-fed-giu-nguyen-lai-suat-185260430084505533.htm) - 02:31 30/04/2026
+- 🎃 [Laptop v&amp;agrave; notebook kh&amp;aacute;c nhau ở điểm n&amp;agrave;o?](https://thanhnien.vn/laptop-va-notebook-khac-nhau-o-diem-nao-185260429224302732.htm) - 00:33 30/04/2026
+- 💂 [Google Translate th&amp;ecirc;m t&amp;iacute;nh năng luyện ph&amp;aacute;t &amp;acirc;m](https://thanhnien.vn/google-translate-them-tinh-nang-luyen-phat-am-185260429161031455.htm) - 11:41 29/04/2026
+- 🐲 [Những dấu hiệu cho thấy điều h&amp;ograve;a đến l&amp;uacute;c &amp;#039;nghỉ hưu&amp;#039;](https://thanhnien.vn/nhung-dau-hieu-cho-thay-dieu-hoa-den-luc-nghi-huu-185260429145147935.htm) - 08:51 29/04/2026
+- 🌜 [Samsung sắp mang cả &amp;#039;d&amp;agrave;n audio huyền thoại&amp;#039; l&amp;ecirc;n smartphone](https://thanhnien.vn/samsung-sap-mang-ca-dan-audio-huyen-thoai-len-smartphone-185260429113748149.htm) - 07:27 29/04/2026
+- 💫 [CPU tưởng bỏ đi của Intel vẫn được b&amp;aacute;n ra thị trường](https://thanhnien.vn/cpu-tuong-bo-di-cua-intel-van-duoc-ban-ra-thi-truong-185260429102532653.htm) - 07:00 29/04/2026
+- 🎃 [Sony tăng gi&amp;aacute; PlayStation 5](https://thanhnien.vn/sony-tang-gia-playstation-5-185260429111458261.htm) - 05:57 29/04/2026
+- 👍 [Loạt t&amp;iacute;nh năng đ&amp;aacute;ng mong chờ tr&amp;ecirc;n One UI 9](https://thanhnien.vn/loat-tinh-nang-dang-mong-cho-tren-one-ui-9-185260428131135497.htm) - 03:23 29/04/2026
+- 🤓 [Gi&amp;aacute; Bitcoin h&amp;ocirc;m nay 29.4.2026: Nỗ lực chạm mốc 80.000 USD bất th&amp;agrave;nh](https://thanhnien.vn/gia-bitcoin-hom-nay-2942026-no-luc-cham-moc-80000-usd-bat-thanh-185260429081424282.htm) - 02:26 29/04/2026<!-- thanhnien-cong-nghe:END -->
