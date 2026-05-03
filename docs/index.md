@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Nhập khẩu tăng mạnh, Việt Nam nhập siêu 7,11 tỷ USD trong 4 tháng đầu năm 2026](https://vov.vn/kinh-te/nhap-khau-tang-manh-viet-nam-nhap-sieu-711-ty-usd-trong-4-thang-dau-nam-2026-post1288642.vov) - 03:11 03/05/2026
-- 🕯 [Nhập khẩu tăng mạnh, Việt Nam nhập siêu 7,11 tỷ USD trong 4 tháng đầu năm 2026](https://vov.vn/kinh-te/nhap-khau-tang-manh-viet-nam-nhap-sieu-711-ty-usd-trong-4-thang-dau-nam-2026-post1288642.vov) - 03:11 03/05/2026
-- 🌊 [Iran tung phản hồi 14 điểm, buộc Mỹ lựa chọn ngoại giao hay đối đầu](https://vov.vn/the-gioi/iran-tung-phan-hoi-14-diem-buoc-my-lua-chon-ngoai-giao-hay-doi-dau-post1288624.vov) - 02:17 03/05/2026
-- 🥷 [Thương hiệu Việt giảm 14%: Nội lực có, vì sao chưa bứt phá?](https://vov.vn/kinh-te/thuong-hieu-viet-giam-14-noi-luc-co-vi-sao-chua-but-pha-post1287619.vov) - 23:30 02/05/2026
-- 🎡 [Chạy đua tiến độ thi công cầu Vân Phúc, Hà Nội trước mùa lũ](https://vov.vn/xa-hoi/chay-dua-tien-do-thi-cong-cau-van-phuc-ha-noi-truoc-mua-lu-post1285684.vov) - 23:16 02/05/2026
-- 🚀 [Bệnh thành tích phải chăng cái gốc là quan liêu và háo danh?](https://vov.vn/xa-hoi/benh-thanh-tich-phai-chang-cai-goc-la-quan-lieu-va-hao-danh-post1288589.vov) - 23:00 02/05/2026
-- 🔥 [60 ngày xung đột giữa Mỹ và Israel với Iran - hậu quả và thách thức nặng nề](https://vov.vn/the-gioi/ho-so/60-ngay-xung-dot-giua-my-va-israel-voi-iran-hau-qua-va-thach-thuc-nang-ne-post1288564.vov) - 22:45 02/05/2026
-- 🌋 [Số người chết tại Gaza gần chạm ngưỡng 73.000](https://vov.vn/the-gioi/so-nguoi-chet-tai-gaza-gan-cham-nguong-73000-post1288610.vov) - 22:44 02/05/2026
-- 🕴 [“4 kiên định” - Giữ nguyên tắc, mở đường cho đổi mới](https://vov.vn/chinh-tri/4-kien-dinh-giu-nguyen-tac-mo-duong-cho-doi-moi-post1287844.vov) - 22:10 02/05/2026
-- 🥰 [“4 kiên định” - Giữ nguyên tắc, mở đường cho đổi mới](https://vov.vn/chinh-tri/4-kien-dinh-giu-nguyen-tac-mo-duong-cho-doi-moi-post1287844.vov) - 22:10 02/05/2026
-- 🧐 [Saka và Gyokeres rực sáng, Arsenal thắng đậm Fulham](https://vov.vn/the-thao/saka-va-gyokeres-ruc-sang-arsenal-thang-dam-fulham-post1288515.vov) - 18:36 02/05/2026<!-- vov:END -->
+- 🌜 [Phân quyền như thế nào để bộ máy hoạt động hiệu quả, cán bộ dám quyết?](https://vov.vn/chinh-tri/phan-quyen-nhu-the-nao-de-bo-may-hoat-dong-hieu-qua-can-bo-dam-quyet-post1288620.vov) - 22:10 03/05/2026
+- 🕯 [Phân quyền như thế nào để bộ máy hoạt động hiệu quả, cán bộ dám quyết?](https://vov.vn/chinh-tri/phan-quyen-nhu-the-nao-de-bo-may-hoat-dong-hieu-qua-can-bo-dam-quyet-post1288620.vov) - 22:10 03/05/2026
+- 🌊 [Giá xăng dầu hôm nay 4/5: Giá dầu thế giới vẫn trên mốc 100 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-45-gia-dau-the-gioi-van-tren-moc-100-usdthung-post1288706.vov) - 22:00 03/05/2026
+- 🥷 [Nóng thế giới ngày 4/5: Iran đưa ra đề xuất mới 14 điểm, Mỹ nói &amp;quot;khó chấp nhận&amp;quot;](https://vov.vn/the-gioi/nong-the-gioi-ngay-45-iran-dua-ra-de-xuat-moi-14-diem-my-noi-kho-chap-nhan-post1288722.vov) - 22:00 03/05/2026
+- 🎡 [Kết quả Ngoại hạng Anh hôm nay 3/5: MU thắng Liverpool, có vé dự Cúp C1 châu Âu](https://vov.vn/the-thao/ket-qua-ngoai-hang-anh-hom-nay-35-mu-thang-liverpool-co-ve-du-cup-c1-chau-au-post1288656.vov) - 16:28 03/05/2026
+- 🚀 [Hơn 1,2 triệu thí sinh đăng ký thi tốt nghiệp THPT 2026, lập kỷ lục mới](https://vov.vn/xa-hoi/hon-12-trieu-thi-sinh-dang-ky-thi-tot-nghiep-thpt-2026-lap-ky-luc-moi-post1288761.vov) - 12:42 03/05/2026
+- 🔥 [Tiêu dùng 4 tháng năm 2026: Người Việt đang chi tiêu mạnh hơn?](https://vov.vn/kinh-te/tieu-dung-4-thang-nam-2026-nguoi-viet-dang-chi-tieu-manh-hon-post1288759.vov) - 12:41 03/05/2026
+- 🌋 [Thu ngân sách nhà nước vượt 1,1 triệu tỷ đồng sau 4 tháng](https://vov.vn/kinh-te/thu-ngan-sach-nha-nuoc-vuot-11-trieu-ty-dong-sau-4-thang-post1288758.vov) - 12:41 03/05/2026
+- 🕴 [Thu ngân sách nhà nước vượt 1,1 triệu tỷ đồng sau 4 tháng](https://vov.vn/kinh-te/thu-ngan-sach-nha-nuoc-vuot-11-trieu-ty-dong-sau-4-thang-post1288758.vov) - 12:41 03/05/2026
+- 🥰 [95 người tử vong do tai nạn giao thông trong 4 ngày nghỉ lễ 30/4-1/5](https://vov.vn/xa-hoi/95-nguoi-tu-vong-do-tai-nan-giao-thong-trong-4-ngay-nghi-le-304-15-post1288751.vov) - 11:32 03/05/2026
+- 🧐 [Vụ cháy ô tô tại cây xăng khiến 2 người tử vong: Tạm giữ tài xế và chủ phương tiện](https://vov.vn/phap-luat/vu-chay-o-to-tai-cay-xang-khien-2-nguoi-tu-vong-tam-giu-tai-xe-va-chu-phuong-tien-post1288673.vov) - 06:29 03/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
