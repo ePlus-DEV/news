@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Saka và Gyokeres rực sáng, Arsenal thắng đậm Fulham](https://vov.vn/the-thao/saka-va-gyokeres-ruc-sang-arsenal-thang-dam-fulham-post1288515.vov) - 18:36 02/05/2026
-- 🦍 [Thủ tướng Nhật Bản Takaichi Sanae thăm và phát biểu tại Đại học Quốc gia Hà Nội](https://vov.vn/chinh-tri/thu-tuong-nhat-ban-takaichi-sanae-tham-va-phat-bieu-tai-dai-hoc-quoc-gia-ha-noi-post1288594.vov) - 15:20 02/05/2026
-- 🦏 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Thủ tướng Nhật Bản Takaichi Sanae](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-thu-tuong-nhat-ban-takaichi-sanae-post1288580.vov) - 12:58 02/05/2026
-- 😎 [Vụ cháy tại Hải Phòng: Xuất phát từ quán cà phê, thiêu rụi 6 cửa hàng liền kề](https://vov.vn/xa-hoi/vu-chay-tai-hai-phong-xuat-phat-tu-quan-ca-phe-thieu-rui-6-cua-hang-lien-ke-post1288565.vov) - 11:05 02/05/2026
-- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Nhật Bản](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-nhat-ban-post1288556.vov) - 10:48 02/05/2026
-- 🦩 [Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Thủ tướng Nhật Bản Takaichi Sanae](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-thu-tuong-nhat-ban-takaichi-sanae-post1288555.vov) - 09:55 02/05/2026
-- 💃 [Báo chí Nhật Bản đánh giá cao kết quả hội đàm Việt Nam - Nhật Bản](https://vov.vn/chinh-tri/bao-chi-nhat-ban-danh-gia-cao-ket-qua-hoi-dam-viet-nam-nhat-ban-post1288548.vov) - 09:45 02/05/2026
-- 🦣 [Người dân phá cửa ô tô bốc khói, kịp thời cứu tài xế mắc kẹt](https://vov.vn/xa-hoi/nguoi-dan-pha-cua-o-to-boc-khoi-kip-thoi-cuu-tai-xe-mac-ket-post1288549.vov) - 09:45 02/05/2026
-- 👹 [Giá vàng liên tục lao dốc, có nên đầu tư?](https://vov.vn/thi-truong/gia-vang-lien-tuc-lao-doc-co-nen-dau-tu-post1288540.vov) - 08:37 02/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Nhật Bản Takaichi Sanae](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-nhat-ban-takaichi-sanae-post1288521.vov) - 06:51 02/05/2026
-- 😺 [Thủ tướng Lê Minh Hưng và Thủ tướng Takaichi Sanae gặp gỡ báo chí](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-va-thu-tuong-takaichi-sanae-gap-go-bao-chi-post1288513.vov) - 05:58 02/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Tai nạn liên tiếp, cao tốc TP.HCM - Long Thành kẹt cứng phương tiện ngày cuối lễ](https://vov.vn/xa-hoi/tai-nan-lien-tiep-cao-toc-tphcm-long-thanh-ket-cung-phuong-tien-ngay-cuoi-le-post1288729.vov) - 10:30 03/05/2026
+- 🦍 [Dòng người trở lại Thủ đô tăng vọt, nhiều tuyến cửa ngõ quá tải](https://vov.vn/xa-hoi/dong-nguoi-tro-lai-thu-do-tang-vot-nhieu-tuyen-cua-ngo-qua-tai-post1288719.vov) - 10:19 03/05/2026
+- 🦏 [Vụ cháy ô tô tại cây xăng khiến 2 người tử vong: Tạm giữ tài xế và chủ phương tiện](https://vov.vn/phap-luat/vu-chay-o-to-tai-cay-xang-khien-2-nguoi-tu-vong-tam-giu-tai-xe-va-chu-phuong-tien-post1288673.vov) - 06:29 03/05/2026
+- 😎 [Vụ cháy ô tô tại cây xăng khiến 2 người tử vong: Tạm giữ tài xế và chủ phương tiện](https://vov.vn/phap-luat/vu-chay-o-to-tai-cay-xang-khien-2-nguoi-tu-vong-tam-giu-tai-xe-va-chu-phuong-tien-post1288673.vov) - 06:29 03/05/2026
+- 💯 [Dòng tiền ngoại bùng nổ, vốn FDI đăng ký vào Việt Nam tăng 32%](https://vov.vn/kinh-te/dong-tien-ngoai-bung-no-von-fdi-dang-ky-vao-viet-nam-tang-32-post1288665.vov) - 05:49 03/05/2026
+- 🦩 [Nhập khẩu tăng mạnh, Việt Nam nhập siêu 7,11 tỷ USD trong 4 tháng đầu năm 2026](https://vov.vn/kinh-te/nhap-khau-tang-manh-viet-nam-nhap-sieu-711-ty-usd-trong-4-thang-dau-nam-2026-post1288642.vov) - 03:11 03/05/2026
+- 💃 [Iran tung phản hồi 14 điểm, buộc Mỹ lựa chọn ngoại giao hay đối đầu](https://vov.vn/the-gioi/iran-tung-phan-hoi-14-diem-buoc-my-lua-chon-ngoai-giao-hay-doi-dau-post1288624.vov) - 02:17 03/05/2026
+- 🦣 [Bệnh thành tích phải chăng cái gốc là quan liêu và háo danh?](https://vov.vn/xa-hoi/benh-thanh-tich-phai-chang-cai-goc-la-quan-lieu-va-hao-danh-post1288589.vov) - 23:00 02/05/2026
+- 👹 [60 ngày xung đột giữa Mỹ và Israel với Iran - hậu quả và thách thức nặng nề](https://vov.vn/the-gioi/ho-so/60-ngay-xung-dot-giua-my-va-israel-voi-iran-hau-qua-va-thach-thuc-nang-ne-post1288564.vov) - 22:45 02/05/2026
+- 🫶 [“4 kiên định” - Giữ nguyên tắc, mở đường cho đổi mới](https://vov.vn/chinh-tri/4-kien-dinh-giu-nguyen-tac-mo-duong-cho-doi-moi-post1287844.vov) - 22:10 02/05/2026
+- 😺 [“4 kiên định” - Giữ nguyên tắc, mở đường cho đổi mới](https://vov.vn/chinh-tri/4-kien-dinh-giu-nguyen-tac-mo-duong-cho-doi-moi-post1287844.vov) - 22:10 02/05/2026<!-- vov-tin-moi-nhat:END -->
