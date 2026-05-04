@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Moody’s nâng triển vọng tín nhiệm Việt Nam lên Tích cực, ghi nhận cải cách thể chế](https://vov.vn/kinh-te/moodys-nang-trien-vong-tin-nhiem-viet-nam-len-tich-cuc-ghi-nhan-cai-cach-the-che-post1289000.vov) - 11:49 04/05/2026
-- 🕯 [Mưa đá, dông lốc gây thiệt miền Bắc và Bắc Trung Bộ,  hơn 3.000 nhà tốc mái](https://vov.vn/xa-hoi/mua-da-dong-loc-gay-thiet-mien-bac-va-bac-trung-bo-hon-3000-nha-toc-mai-post1288992.vov) - 11:06 04/05/2026
-- 🌊 [Đại tướng Lương Tam Quang: Tập trung các giải pháp kéo giảm tội phạm](https://vov.vn/phap-luat/dai-tuong-luong-tam-quang-tap-trung-cac-giai-phap-keo-giam-toi-pham-post1288938.vov) - 11:04 04/05/2026
-- 🥷 [Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm mở ra triển vọng hợp tác mới](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-mo-ra-trien-vong-hop-tac-moi-post1288849.vov) - 11:00 04/05/2026
-- 🎡 [Đại hội MTTQ Việt Nam lần thứ XI: Đại biểu cao tuổi nhất 97 tuổi](https://vov.vn/chinh-tri/dai-hoi-mttq-viet-nam-lan-thu-xi-dai-bieu-cao-tuoi-nhat-97-tuoi-post1288983.vov) - 10:55 04/05/2026
-- 🚀 [Lại xảy ra động đất ở Kon Plông, Quảng Ngãi gây rung chấn liên tiếp](https://vov.vn/xa-hoi/lai-xay-ra-dong-dat-o-kon-plong-quang-ngai-gay-rung-chan-lien-tiep-post1288989.vov) - 10:54 04/05/2026
-- 🔥 [Thủ tướng: Triển khai đồng bộ các giải pháp để thúc đẩy tăng trưởng](https://vov.vn/chinh-tri/thu-tuong-trien-khai-dong-bo-cac-giai-phap-de-thuc-day-tang-truong-post1288987.vov) - 10:43 04/05/2026
-- 🌋 [Thủ tướng: Triển khai đồng bộ các giải pháp để thúc đẩy tăng trưởng](https://vov.vn/chinh-tri/thu-tuong-trien-khai-dong-bo-cac-giai-phap-de-thuc-day-tang-truong-post1288987.vov) - 10:43 04/05/2026
-- 🕴 [Thu tiền điện sai quy định, chủ nhà trọ có thể bị phạt tới 30 triệu đồng](https://vov.vn/thi-truong/thu-tien-dien-sai-quy-dinh-chu-nha-tro-co-the-bi-phat-toi-30-trieu-dong-post1288884.vov) - 07:29 04/05/2026
-- 🥰 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp xúc cử tri tại TP Hồ Chí Minh](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-xuc-cu-tri-tai-tp-ho-chi-minh-post1288871.vov) - 04:42 04/05/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ: Mở ra các cơ hội hợp tác mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-mo-ra-cac-co-hoi-hop-tac-moi-post1288703.vov) - 03:00 04/05/2026<!-- vov:END -->
+- 🌜 [Bộ Tài chính nêu giải pháp giữ vững ổn định kinh tế vĩ mô](https://vov.vn/kinh-te/bo-tai-chinh-neu-giai-phap-giu-vung-on-dinh-kinh-te-vi-mo-post1289031.vov) - 14:16 04/05/2026
+- 🕯 [Thống nhất dùng một bộ SGK “Kết nối tri thức với cuộc sống” từ năm học 2026-2027](https://vov.vn/xa-hoi/thong-nhat-dung-mot-bo-sgk-ket-noi-tri-thuc-voi-cuoc-song-tu-nam-hoc-2026-2027-post1289028.vov) - 13:45 04/05/2026
+- 🌊 [Phấn đấu đưa Bệnh viện Bạch Mai, Việt Đức cơ sở 2 vào hoạt động trong quý II/2026](https://vov.vn/xa-hoi/phan-dau-dua-benh-vien-bach-mai-viet-duc-co-so-2-vao-hoat-dong-trong-quy-ii2026-post1289024.vov) - 13:44 04/05/2026
+- 🥷 [Phấn đấu đưa Bệnh viện Bạch Mai, Việt Đức cơ sở 2 vào hoạt động trong quý II/2026](https://vov.vn/xa-hoi/phan-dau-dua-benh-vien-bach-mai-viet-duc-co-so-2-vao-hoat-dong-trong-quy-ii2026-post1289024.vov) - 13:44 04/05/2026
+- 🎡 [Dự kiến giảm 23.000 tỷ đồng chi phí mỗi năm từ cải cách thủ tục hành chính](https://vov.vn/chinh-tri/du-kien-giam-23000-ty-dong-chi-phi-moi-nam-tu-cai-cach-thu-tuc-hanh-chinh-post1288994.vov) - 13:01 04/05/2026
+- 🚀 [Mưa đá dồn dập ở Bắc bộ nguy cơ còn tiếp diễn](https://vov.vn/xa-hoi/mua-da-don-dap-o-bac-bo-nguy-co-con-tiep-dien-post1289017.vov) - 12:56 04/05/2026
+- 🔥 [Đại hội MTTQ Việt Nam lần XI: Thông tin về nhân sự khóa mới](https://vov.vn/chinh-tri/dai-hoi-mttq-viet-nam-lan-xi-thong-tin-ve-nhan-su-khoa-moi-post1289009.vov) - 12:16 04/05/2026
+- 🌋 [Thủ tướng Lê Minh Hưng sẽ dự Hội nghị Cấp cao ASEAN lần thứ 48](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-se-du-hoi-nghi-cap-cao-asean-lan-thu-48-post1289004.vov) - 12:00 04/05/2026
+- 🕴 [Moody’s nâng triển vọng tín nhiệm Việt Nam lên Tích cực, ghi nhận cải cách thể chế](https://vov.vn/kinh-te/moodys-nang-trien-vong-tin-nhiem-viet-nam-len-tich-cuc-ghi-nhan-cai-cach-the-che-post1289000.vov) - 11:49 04/05/2026
+- 🥰 [Thủ tướng: Triển khai đồng bộ các giải pháp để thúc đẩy tăng trưởng](https://vov.vn/chinh-tri/thu-tuong-trien-khai-dong-bo-cac-giai-phap-de-thuc-day-tang-truong-post1288987.vov) - 10:43 04/05/2026
+- 🧐 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp xúc cử tri tại TP Hồ Chí Minh](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-xuc-cu-tri-tai-tp-ho-chi-minh-post1288871.vov) - 04:42 04/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
