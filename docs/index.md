@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Phân quyền như thế nào để bộ máy hoạt động hiệu quả, cán bộ dám quyết?](https://vov.vn/chinh-tri/phan-quyen-nhu-the-nao-de-bo-may-hoat-dong-hieu-qua-can-bo-dam-quyet-post1288620.vov) - 22:10 03/05/2026
-- 🕯 [Phân quyền như thế nào để bộ máy hoạt động hiệu quả, cán bộ dám quyết?](https://vov.vn/chinh-tri/phan-quyen-nhu-the-nao-de-bo-may-hoat-dong-hieu-qua-can-bo-dam-quyet-post1288620.vov) - 22:10 03/05/2026
-- 🌊 [Giá xăng dầu hôm nay 4/5: Giá dầu thế giới vẫn trên mốc 100 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-45-gia-dau-the-gioi-van-tren-moc-100-usdthung-post1288706.vov) - 22:00 03/05/2026
-- 🥷 [Nóng thế giới ngày 4/5: Iran đưa ra đề xuất mới 14 điểm, Mỹ nói &amp;quot;khó chấp nhận&amp;quot;](https://vov.vn/the-gioi/nong-the-gioi-ngay-45-iran-dua-ra-de-xuat-moi-14-diem-my-noi-kho-chap-nhan-post1288722.vov) - 22:00 03/05/2026
-- 🎡 [Kết quả Ngoại hạng Anh hôm nay 3/5: MU thắng Liverpool, có vé dự Cúp C1 châu Âu](https://vov.vn/the-thao/ket-qua-ngoai-hang-anh-hom-nay-35-mu-thang-liverpool-co-ve-du-cup-c1-chau-au-post1288656.vov) - 16:28 03/05/2026
-- 🚀 [Hơn 1,2 triệu thí sinh đăng ký thi tốt nghiệp THPT 2026, lập kỷ lục mới](https://vov.vn/xa-hoi/hon-12-trieu-thi-sinh-dang-ky-thi-tot-nghiep-thpt-2026-lap-ky-luc-moi-post1288761.vov) - 12:42 03/05/2026
-- 🔥 [Tiêu dùng 4 tháng năm 2026: Người Việt đang chi tiêu mạnh hơn?](https://vov.vn/kinh-te/tieu-dung-4-thang-nam-2026-nguoi-viet-dang-chi-tieu-manh-hon-post1288759.vov) - 12:41 03/05/2026
-- 🌋 [Thu ngân sách nhà nước vượt 1,1 triệu tỷ đồng sau 4 tháng](https://vov.vn/kinh-te/thu-ngan-sach-nha-nuoc-vuot-11-trieu-ty-dong-sau-4-thang-post1288758.vov) - 12:41 03/05/2026
-- 🕴 [Thu ngân sách nhà nước vượt 1,1 triệu tỷ đồng sau 4 tháng](https://vov.vn/kinh-te/thu-ngan-sach-nha-nuoc-vuot-11-trieu-ty-dong-sau-4-thang-post1288758.vov) - 12:41 03/05/2026
-- 🥰 [95 người tử vong do tai nạn giao thông trong 4 ngày nghỉ lễ 30/4-1/5](https://vov.vn/xa-hoi/95-nguoi-tu-vong-do-tai-nan-giao-thong-trong-4-ngay-nghi-le-304-15-post1288751.vov) - 11:32 03/05/2026
-- 🧐 [Vụ cháy ô tô tại cây xăng khiến 2 người tử vong: Tạm giữ tài xế và chủ phương tiện](https://vov.vn/phap-luat/vu-chay-o-to-tai-cay-xang-khien-2-nguoi-tu-vong-tam-giu-tai-xe-va-chu-phuong-tien-post1288673.vov) - 06:29 03/05/2026<!-- vov:END -->
+- 🌜 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp xúc cử tri tại TP Hồ Chí Minh](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-xuc-cu-tri-tai-tp-ho-chi-minh-post1288871.vov) - 04:42 04/05/2026
+- 🕯 [Chủ tịch Quốc hội Trần Thanh Mẫn tiếp xúc cử tri tại TP Hồ Chí Minh](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-tiep-xuc-cu-tri-tai-tp-ho-chi-minh-post1288871.vov) - 04:42 04/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ: Mở ra các cơ hội hợp tác mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-mo-ra-cac-co-hoi-hop-tac-moi-post1288703.vov) - 03:00 04/05/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ: Mở ra các cơ hội hợp tác mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-mo-ra-cac-co-hoi-hop-tac-moi-post1288703.vov) - 03:00 04/05/2026
+- 🎡 [Người dân đổ về TP.HCM sau nghỉ lễ, giao thông ngày đầu đi làm đông đúc](https://vov.vn/xa-hoi/nguoi-dan-do-ve-tphcm-sau-nghi-le-giao-thong-ngay-dau-di-lam-dong-duc-post1288831.vov) - 02:50 04/05/2026
+- 🚀 [Ông Donald Trump “lách” quy định về quyền hạn chiến tranh](https://vov.vn/the-gioi/quan-sat/ong-donald-trump-lach-quy-dinh-ve-quyen-han-chien-tranh-post1288827.vov) - 02:41 04/05/2026
+- 🔥 [Toàn cảnh Quốc tế sáng 4/5: NATO rạn nứt khi Mỹ quyết định rút quân tại Đức](https://vov.vn/multimedia/toan-canh-quoc-te-sang-45-nato-ran-nut-khi-my-quyet-dinh-rut-quan-tai-duc-post1288814.vov) - 01:55 04/05/2026
+- 🌋 [Camera AI phát hiện gần 1.000 trường hợp vi phạm tại Hà Nội trong 4 ngày nghỉ lễ](https://vov.vn/xa-hoi/camera-ai-phat-hien-gan-1000-truong-hop-vi-pham-tai-ha-noi-trong-4-ngay-nghi-le-post1288813.vov) - 01:52 04/05/2026
+- 🕴 [Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương tại Di tích lịch sử Dinh quận Hóc Môn](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-tai-di-tich-lich-su-dinh-quan-hoc-mon-post1288810.vov) - 01:44 04/05/2026
+- 🥰 [Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ thăm cấp Nhà nước tới Sri Lanka từ 7-8/5/2026](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-se-tham-cap-nha-nuoc-toi-sri-lanka-tu-7-852026-post1288802.vov) - 01:00 04/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm và dấu ấn lịch sử trong quan hệ Việt Nam - Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-dau-an-lich-su-trong-quan-he-viet-nam-an-do-post1288800.vov) - 23:14 03/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
