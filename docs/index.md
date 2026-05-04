@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [U17 nữ Thái Lan thắng 1-0 Myanmar, đẩy U17 nữ Việt Nam xuống hạng 3](https://muctim.tuoitre.vn/u17-nu-thai-lan-thang-1-0-myanmar-day-u17-nu-viet-nam-xuong-hang-3-10126050418071364.htm) - 11:45 04/05/2026
-- 🥷 [Trực tiếp U17 nữ châu Á: U17 nữ Việt Nam 0-1 U17 nữ Trung Quốc &lpar;H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-u17-nu-chau-a-u17-nu-viet-nam-u17-nu-trung-quoc-101260504164639808.htm) - 10:02 04/05/2026
+- 🥷 [Trực tiếp U17 nữ châu Á: U17 nữ Việt Nam 0-2 U17 nữ Trung Quốc &lpar;H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-u17-nu-chau-a-u17-nu-viet-nam-u17-nu-trung-quoc-101260504164639808.htm) - 10:02 04/05/2026
 - 🤖 [Tỉ lệ chọi lớp 10 TP.HCM năm 2026: THPT Bùi Thị Xuân cao nhất](https://muctim.tuoitre.vn/ti-le-choi-lop-10-tphcm-nam-2026-thpt-bui-thi-xuan-cao-nhat-101260504164606502.htm) - 10:00 04/05/2026
 - 🤓 [TP.HCM công bố số liệu thí sinh đăng ký nguyện vọng 1 lớp 10](https://muctim.tuoitre.vn/tphcm-cong-bo-so-lieu-thi-sinh-dang-ky-nguyen-vong-1-lop-10-101260504141726843.htm) - 07:23 04/05/2026
 - 🎉 [Bảng xếp hạng V-League 1 vòng 21: Công An Hà Nội tiến sát ngôi vương](https://muctim.tuoitre.vn/bang-xep-hang-v-league-1-vong-21-cong-an-ha-noi-tien-sat-ngoi-vuong-101260504121216905.htm) - 05:58 04/05/2026
