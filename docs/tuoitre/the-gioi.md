@@ -7,7 +7,7 @@ sidebar_position: 3
 - 💪 [Áo trục xuất 3 nhà ngoại giao Nga vì &#39;rừng ăng ten&#39; nghi do thám](https://tuoitre.vn/ao-truc-xuat-3-nha-ngoai-giao-nga-vi-rung-ang-ten-nghi-do-tham-20260504195546111.htm) - 13:26 04/05/2026
 - 📝 [Iran treo cổ 3 người bị cáo buộc là điệp viên Mossad kích động biểu tình](https://tuoitre.vn/iran-treo-co-3-nguoi-bi-cao-buoc-la-diep-vien-mossad-kich-dong-bieu-tinh-20260504182801674.htm) - 11:54 04/05/2026
 - 🕴 [Thủ tướng Lê Minh Hưng tham dự Hội nghị cấp cao ASEAN lần thứ 48](https://tuoitre.vn/thu-tuong-le-minh-hung-tham-du-hoi-nghi-cap-cao-asean-lan-thu-48-20260504182859051.htm) - 11:50 04/05/2026
-- 🌏 [Iran tuyên bố bắn trúng chiến hạm Mỹ cố vượt eo biển Hormuz, Mỹ bác bỏ](https://tuoitre.vn/iran-tuyen-bo-ban-trung-chien-ham-my-co-vuot-eo-bien-hormuz-my-bac-bo-20260504180603034.htm) - 11:19 04/05/2026
+- 🌏 [Iran tuyên bố bắn trúng chiến hạm Mỹ, Mỹ nói &#39;phá hủy&#39; 6 tàu hải quân Iran](https://tuoitre.vn/iran-tuyen-bo-ban-trung-chien-ham-my-my-noi-pha-huy-6-tau-hai-quan-iran-20260504180603034.htm) - 11:19 04/05/2026
 - 🚦 [Mỹ rút quân, châu Âu tăng tốc tự chủ quốc phòng](https://tuoitre.vn/my-rut-quan-chau-au-tang-toc-tu-chu-quoc-phong-20260504165030167.htm) - 10:17 04/05/2026
 - 🙉 [Hàng loạt sở thú Mỹ đóng cửa vì bị đe dọa đánh bom, xả súng](https://tuoitre.vn/hang-loat-so-thu-my-dong-cua-vi-bi-de-doa-danh-bom-xa-sung-20260504165235217.htm) - 10:11 04/05/2026
 - 🦒 [Công chúa, hoàng tử thi ngủ trưa tại một trong những nước thiếu ngủ nhất thế giới](https://tuoitre.vn/cuoc-thi-ngu-trua-tai-mot-trong-nhung-nuoc-thieu-ngu-nhat-the-gioi-20260504162638667.htm) - 09:30 04/05/2026
