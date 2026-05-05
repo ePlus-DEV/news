@@ -717,17 +717,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Kết quả Ngoại hạng Anh hôm nay 4/5: Chelsea thua bạc nhược Nottingham Forest](https://vov.vn/the-thao/ket-qua-ngoai-hang-anh-hom-nay-45-chelsea-thua-bac-nhuoc-nottingham-forest-post1288858.vov) - 16:17 04/05/2026
-- 🕯 [Công bố 151 học sinh được miễn thi tốt nghiệp, tuyển thẳng đại học](https://vov.vn/xa-hoi/cong-bo-151-hoc-sinh-duoc-mien-thi-tot-nghiep-tuyen-thang-dai-hoc-post1289056.vov) - 16:00 04/05/2026
-- 🌊 [Bộ Tài chính nêu giải pháp giữ vững ổn định kinh tế vĩ mô](https://vov.vn/kinh-te/bo-tai-chinh-neu-giai-phap-giu-vung-on-dinh-kinh-te-vi-mo-post1289031.vov) - 14:16 04/05/2026
-- 🥷 [Thống nhất dùng một bộ SGK “Kết nối tri thức với cuộc sống” từ năm học 2026-2027](https://vov.vn/xa-hoi/thong-nhat-dung-mot-bo-sgk-ket-noi-tri-thuc-voi-cuoc-song-tu-nam-hoc-2026-2027-post1289028.vov) - 13:45 04/05/2026
-- 🎡 [Dự kiến giảm 23.000 tỷ đồng chi phí mỗi năm từ cải cách thủ tục hành chính](https://vov.vn/chinh-tri/du-kien-giam-23000-ty-dong-chi-phi-moi-nam-tu-cai-cach-thu-tuc-hanh-chinh-post1288994.vov) - 13:01 04/05/2026
-- 🚀 [Mưa đá dồn dập ở Bắc bộ nguy cơ còn tiếp diễn](https://vov.vn/xa-hoi/mua-da-don-dap-o-bac-bo-nguy-co-con-tiep-dien-post1289017.vov) - 12:56 04/05/2026
-- 🔥 [Đại hội MTTQ Việt Nam lần XI: Thông tin về nhân sự khóa mới](https://vov.vn/chinh-tri/dai-hoi-mttq-viet-nam-lan-xi-thong-tin-ve-nhan-su-khoa-moi-post1289009.vov) - 12:16 04/05/2026
-- 🌋 [Thủ tướng Lê Minh Hưng sẽ dự Hội nghị Cấp cao ASEAN lần thứ 48](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-se-du-hoi-nghi-cap-cao-asean-lan-thu-48-post1289004.vov) - 12:00 04/05/2026
-- 🕴 [Moody’s nâng triển vọng tín nhiệm Việt Nam lên Tích cực, ghi nhận cải cách thể chế](https://vov.vn/kinh-te/moodys-nang-trien-vong-tin-nhiem-viet-nam-len-tich-cuc-ghi-nhan-cai-cach-the-che-post1289000.vov) - 11:49 04/05/2026
-- 🥰 [Đại tướng Lương Tam Quang: Tập trung các giải pháp kéo giảm tội phạm](https://vov.vn/phap-luat/dai-tuong-luong-tam-quang-tap-trung-cac-giai-phap-keo-giam-toi-pham-post1288938.vov) - 11:04 04/05/2026
-- 🧐 [Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm mở ra triển vọng hợp tác mới](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-mo-ra-trien-vong-hop-tac-moi-post1288849.vov) - 11:00 04/05/2026<!-- vov:END -->
+- 🌜 [Bộ Xây dựng yêu cầu kiểm soát chặt thi công, tiến độ cao tốc Cao Bồ - Mai Sơn](https://vov.vn/xa-hoi/bo-xay-dung-yeu-cau-kiem-soat-chat-thi-cong-tien-do-cao-toc-cao-bo-mai-son-post1289101.vov) - 04:03 05/05/2026
+- 🕯 [Tình báo Mỹ tiết lộ đánh giá bất ngờ về chương trình hạt nhân Iran](https://vov.vn/the-gioi/quan-sat/tinh-bao-my-tiet-lo-danh-gia-bat-ngo-ve-chuong-trinh-hat-nhan-iran-post1289135.vov) - 03:47 05/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường thăm cấp Nhà nước tới Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-cap-nha-nuoc-toi-an-do-post1289062.vov) - 02:00 05/05/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường thăm cấp Nhà nước tới Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-cap-nha-nuoc-toi-an-do-post1289062.vov) - 02:00 05/05/2026
+- 🎡 [Giải ngân vốn đầu tư công hơn 1 triệu tỷ: Vì sao vẫn chậm tiến độ?](https://vov.vn/kinh-te/giai-ngan-von-dau-tu-cong-hon-1-trieu-ty-vi-sao-van-cham-tien-do-post1288985.vov) - 23:25 04/05/2026
+- 🚀 [Ông Trump nói Mỹ “bắn hạ” 7 tàu nhỏ của Iran tại eo biển Hormuz](https://vov.vn/the-gioi/ong-trump-noi-my-ban-ha-7-tau-nho-cua-iran-tai-eo-bien-hormuz-post1289072.vov) - 23:16 04/05/2026
+- 🔥 [Dông lốc, mưa đá gây thiệt hại diện rộng, chuyên gia cảnh báo thời tiết phức tạp](https://vov.vn/xa-hoi/dong-loc-mua-da-gay-thiet-hai-dien-rong-chuyen-gia-canh-bao-thoi-tiet-phuc-tap-post1288958.vov) - 23:00 04/05/2026
+- 🌋 [Đưa quan hệ Việt Nam - Ấn Độ bước sang một giai đoạn phát triển mới](https://vov.vn/chinh-tri/dua-quan-he-viet-nam-an-do-buoc-sang-mot-giai-doan-phat-trien-moi-post1288941.vov) - 23:00 04/05/2026
+- 🕴 [Bộ Y tế yêu cầu rà soát, thu hồi 3 lô sữa a2 Platinum Premium cho trẻ nhỏ](https://vov.vn/xa-hoi/bo-y-te-yeu-cau-ra-soat-thu-hoi-3-lo-sua-a2-platinum-premium-cho-tre-nho-post1289070.vov) - 22:53 04/05/2026
+- 🥰 [Nga tuyên bố ngừng bắn dịp kỷ niệm Ngày Chiến thắng 9/5](https://vov.vn/the-gioi/nga-tuyen-bo-ngung-ban-dip-ky-niem-ngay-chien-thang-95-post1289066.vov) - 22:40 04/05/2026
+- 🧐 [Chuyến thăm Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ mở ra giai đoạn phát triển mới cho quan hệ hai nước](https://vov.vn/chinh-tri/chuyen-tham-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-se-mo-ra-giai-doan-phat-trien-moi-cho-quan-he-hai-nuoc-post1289064.vov) - 22:37 04/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
