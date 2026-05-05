@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- nld-net-zero:START -->
-- 🤩 [Sáng 5-5: Hội thảo bàn giải pháp cung ứng điện, cập nhật nhiều thông tin đáng chú ý về điện mặt trời](https://nld.com.vn/sang-5-5-hoi-thao-ban-giai-phap-cung-ung-dien-cap-nhat-nhieu-thong-tin-dang-chu-y-ve-dien-mat-troi-196260504180250472.htm) - 11:45 04/05/2026
+- 🤩 [Dư địa phát triển điện mặt trời mái nhà của TPHCM còn rất lớn](https://nld.com.vn/sang-5-5-hoi-thao-ban-giai-phap-cung-ung-dien-cap-nhat-nhieu-thong-tin-dang-chu-y-ve-dien-mat-troi-196260504180250472.htm) - 00:59 05/05/2026
 - 🧑‍💻 [Dễ dàng lắp đặt điện mặt trời mái nhà](https://nld.com.vn/de-dang-lap-dat-dien-mat-troi-mai-nha-196260503201952496.htm) - 23:41 03/05/2026
 - 🎊 [Những bữa ăn được giữ trọn sinh khí](https://nld.com.vn/nhung-bua-an-duoc-giu-tron-sinh-khi-196260503201753409.htm) - 22:40 03/05/2026
 - 🦍 [[Infographic] - Xe ôm chạy xăng ở Hà Nội sắp tới cần chú ý gì?](https://nld.com.vn/infogaphic-xe-om-chay-xang-o-ha-noi-sap-toi-can-chu-y-gi-196260503181707687.htm) - 22:00 03/05/2026
