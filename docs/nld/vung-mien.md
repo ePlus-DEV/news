@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- nld-vung-mien:START -->
-- 🐎 [Nam thiếu niên rủ bạn đột nhập phòng ngủ của mẹ mình](https://nld.com.vn/nam-thieu-nien-ru-ban-dot-nhap-phong-ngu-cua-me-minh-196260506181203665.htm) - 11:25 06/05/2026
+- 🐎 [Nam thiếu niên rủ bạn trộm tiền, vàng của gia đình](https://nld.com.vn/nam-thieu-nien-ru-ban-dot-nhap-phong-ngu-cua-me-minh-196260506181203665.htm) - 11:25 06/05/2026
 - 🦆 [Phát hiện một tử thi trong rừng đặc dụng bán đảo Sơn Trà](https://nld.com.vn/phat-hien-mot-tu-thi-trong-rung-dac-dung-ban-dao-son-tra-19626050617442533.htm) - 11:01 06/05/2026
 - 🐵 [Vụ cháu bé 2 tuổi bị mẹ và người tình bạo hành ở TPHCM: Hàng xóm kể lại sự việc](https://nld.com.vn/vu-chau-be-2-tuoi-bi-me-va-nguoi-tinh-bao-hanh-o-tphcm-hang-xom-ke-lai-su-viec-196260506163501139.htm) - 09:58 06/05/2026
 - 🐎 [TPHCM nghiên cứu mua lại 2 trạm thu phí ở địa bàn Bình Dương cũ](https://nld.com.vn/tphcm-nghien-cuu-mua-lai-2-tram-thu-phi-o-dia-ban-binh-duong-cu-19626050615172013.htm) - 09:32 06/05/2026
