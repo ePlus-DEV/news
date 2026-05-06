@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Dự kiến tới 2030, xây dựng mạng lưới ít nhất 1.000 KOL có ảnh hưởng tích cực](https://vov.vn/chinh-tri/du-kien-toi-2030-xay-dung-mang-luoi-it-nhat-1000-kol-co-anh-huong-tich-cuc-post1289415.vov) - 03:55 06/05/2026
-- 💃 [Nâng tầm mối quan hệ đối tác nhiều mặt giữa Việt Nam - Sri Lanka](https://vov.vn/chinh-tri/nang-tam-moi-quan-he-doi-tac-nhieu-mat-giua-viet-nam-sri-lanka-post1289419.vov) - 03:52 06/05/2026
-- 🫶 [Thủ tướng yêu cầu triệt phá website phim lậu, kiểm tra bản quyền truyền hình](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-triet-pha-website-phim-lau-kiem-tra-ban-quyen-truyen-hinh-post1289411.vov) - 03:25 06/05/2026
-- 👨‍🏫 [Diễn đàn An ninh mạng Áo - Việt Nam: Hợp tác chiến lược trong kỷ nguyên số](https://vov.vn/chinh-tri/dien-dan-an-ninh-mang-ao-viet-nam-hop-tac-chien-luoc-trong-ky-nguyen-so-post1289400.vov) - 03:06 06/05/2026
-- 🪜 [72 năm Điện Biên Phủ: Góc nhìn quân sự và chiến lược quốc phòng](https://vov.vn/chinh-tri/72-nam-dien-bien-phu-goc-nhin-quan-su-va-chien-luoc-quoc-phong-post1289220.vov) - 02:36 06/05/2026
-- 🌋 [Mặt trận Tổ quốc Việt Nam qua các kỳ đại hội](https://vov.vn/chinh-tri/mat-tran-to-quoc-viet-nam-qua-cac-ky-dai-hoi-post1289394.vov) - 02:22 06/05/2026
-- 🎉 [Phối hợp công - tư để nâng cao hiệu quả chính sách công](https://vov.vn/chinh-tri/phoi-hop-cong-tu-de-nang-cao-hieu-qua-chinh-sach-cong-post1288912.vov) - 22:30 05/05/2026
-- 🌝 [Vận hành mô hình chính quyền địa phương 2 cấp ở Đặc khu Phú Quý vẫn còn lúng túng](https://vov.vn/chinh-tri/van-hanh-mo-hinh-chinh-quyen-dia-phuong-2-cap-o-dac-khu-phu-quy-van-con-lung-tung-post1289209.vov) - 22:20 05/05/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Cố vấn An ninh Quốc gia Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-co-van-an-ninh-quoc-gia-an-do-post1289341.vov) - 16:36 05/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Người Việt tại Ấn Độ là “Đại sứ nhân dân”](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-nguoi-viet-tai-an-do-la-dai-su-nhan-dan-post1289334.vov) - 15:33 05/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước phát biểu tại Hội đồng các vấn đề thế giới của Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-phat-bieu-tai-hoi-dong-cac-van-de-the-gioi-cua-an-do-post1289615.vov) - 12:26 06/05/2026
+- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Ấn Độ Narendra Modi](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-an-do-narendra-modi-post1289606.vov) - 11:35 06/05/2026
+- 🫶 [Cán bộ cơ sở &amp;quot;gánh&amp;quot; thêm việc: Cử tri Quảng Ninh kiến nghị tăng hỗ trợ](https://vov.vn/chinh-tri/can-bo-co-so-ganh-them-viec-cu-tri-quang-ninh-kien-nghi-tang-ho-tro-post1289552.vov) - 11:19 06/05/2026
+- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước và Thủ tướng Ấn Độ chứng kiến lễ trao văn kiện hợp tác](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-thu-tuong-an-do-chung-kien-le-trao-van-kien-hop-tac-post1289600.vov) - 11:09 06/05/2026
+- 🪜 [Tuyên bố chung về quan hệ Đối tác chiến lược toàn diện tăng cường Việt Nam-Ấn Độ](https://vov.vn/chinh-tri/tuyen-bo-chung-ve-quan-he-doi-tac-chien-luoc-toan-dien-tang-cuong-viet-nam-an-do-post1289590.vov) - 10:47 06/05/2026
+- 🌋 [Chủ tịch HĐND TP.HCM: Quyết liệt giám sát việc giải quyết kiến nghị của cử tri](https://vov.vn/chinh-tri/chu-tich-hdnd-tphcm-quyet-liet-giam-sat-viec-giai-quyet-kien-nghi-cua-cu-tri-post1289578.vov) - 10:42 06/05/2026
+- 🎉 [Phó Chủ tịch nước: Gắn trách nhiệm địa phương với giải quyết kiến nghị của cử tri](https://vov.vn/chinh-tri/pho-chu-tich-nuoc-gan-trach-nhiem-dia-phuong-voi-giai-quyet-kien-nghi-cua-cu-tri-post1289579.vov) - 10:37 06/05/2026
+- 🌝 [An Giang: 3 lãnh đạo tại UBND xếp loại “hoàn thành nhiệm vụ”](https://vov.vn/chinh-tri/an-giang-3-lanh-dao-tai-ubnd-xep-loai-hoan-thanh-nhiem-vu-post1289567.vov) - 10:14 06/05/2026
+- 🏊 [Cần có chính sách thu hút doanh nghiệp đầu tư vào khu vực nông thôn, miền núi](https://vov.vn/chinh-tri/can-co-chinh-sach-thu-hut-doanh-nghiep-dau-tu-vao-khu-vuc-nong-thon-mien-nui-post1289535.vov) - 09:10 06/05/2026
+- 🧑‍💻 [Tái hiện chiến thắng Điện Biên Phủ “lừng lẫy năm châu, chấn động địa cầu”](https://vov.vn/chinh-tri/tai-hien-chien-thang-dien-bien-phu-lung-lay-nam-chau-chan-dong-dia-cau-post1289526.vov) - 08:57 06/05/2026<!-- vov-chinh-tri:END -->
