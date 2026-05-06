@@ -4,63 +4,63 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Bị đứt rời cẳng tay, người đàn ông có nhóm máu hiếm được nối lại thành công](https://dantri.com.vn/suc-khoe/bi-dut-roi-cang-tay-nguoi-dan-ong-co-nhom-mau-hiem-duoc-noi-lai-thanh-cong-20260504142422100.htm) - 09:03 04/05/2026
-- 🚦 [Người phụ nữ mắc kẹt dưới gầm xe buýt bị gãy xương](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-mac-ket-duoi-gam-xe-buyt-bi-gay-xuong-20260504143543782.htm) - 07:44 04/05/2026
-- 🤖 [Từ 1/7, Bộ Y tế không còn cấp chứng chỉ hành nghề khám bệnh, chữa bệnh](https://dantri.com.vn/suc-khoe/tu-17-bo-y-te-khong-con-cap-chung-chi-hanh-nghe-kham-benh-chua-benh-20260504141728848.htm) - 07:22 04/05/2026
-- 🐻 [Bước tiến mới giúp nam giới vô sinh có thêm hy vọng làm cha](https://dantri.com.vn/suc-khoe/buoc-tien-moi-giup-nam-gioi-vo-sinh-co-them-hy-vong-lam-cha-20260504134541939.htm) - 07:20 04/05/2026
-- 🌏 [Hơn 63.000 hộp sữa công thức bị thu hồi tại Mỹ do nghi nhiễm độc tố](https://dantri.com.vn/suc-khoe/hon-63000-hop-sua-cong-thuc-bi-thu-hoi-tai-my-do-nghi-nhiem-doc-to-20260504122403230.htm) - 07:10 04/05/2026
-- 👺 [Bé trai 5 tuổi tử vong nghi do bệnh dại, từng bị mèo cào, chó cắn](https://dantri.com.vn/suc-khoe/be-trai-5-tuoi-tu-vong-nghi-do-benh-dai-tung-bi-meo-cao-cho-can-20260504131558930.htm) - 07:01 04/05/2026
-- 🎬 [Liên tiếp 3 trẻ ngạt nước ngưng tim khi du lịch, tắm hồ bơi cùng cha mẹ](https://dantri.com.vn/suc-khoe/lien-tiep-3-tre-ngat-nuoc-ngung-tim-khi-du-lich-tam-ho-boi-cung-cha-me-20260504104619510.htm) - 04:25 04/05/2026
-- 🌏 [Người đàn ông tử vong sau khi đổ gục trước khung thành trận bóng giao hữu](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-tu-vong-sau-khi-do-guc-truoc-khung-thanh-tran-bong-giao-huu-20260504105451358.htm) - 04:23 04/05/2026
-- 🐵 [Bán bánh mì khiến 86 người nhập viện, chủ tiệm bị phạt 80 triệu đồng](https://dantri.com.vn/suc-khoe/ban-banh-mi-khien-86-nguoi-nhap-vien-chu-tiem-bi-phat-80-trieu-dong-20260504092518251.htm) - 03:04 04/05/2026
-- 👨‍🏫 [Bệnh viện Chợ Rẫy cấp cứu hàng chục ca ngộ độc, bị đả thương dịp lễ](https://dantri.com.vn/suc-khoe/benh-vien-cho-ray-cap-cuu-hang-chuc-ca-ngo-doc-bi-da-thuong-dip-le-20260504095031990.htm) - 03:01 04/05/2026
-- 🤗 [Bé gái 22 tháng tuổi tổn thương nghiêm trọng vùng mặt do chó cắn](https://dantri.com.vn/suc-khoe/be-gai-22-thang-tuoi-ton-thuong-nghiem-trong-vung-mat-do-cho-can-20260504083435380.htm) - 01:38 04/05/2026
-- 🫶 [7 thói quen gây hại thận mỗi ngày, nhiều người đang làm mà không biết](https://dantri.com.vn/suc-khoe/7-thoi-quen-gay-hai-than-moi-ngay-nhieu-nguoi-dang-lam-ma-khong-biet-20260503223309489.htm) - 00:49 04/05/2026
-- 🙉 [Khám, cấp cứu hơn 317.000 lượt người bệnh trong kỳ nghỉ lễ](https://dantri.com.vn/suc-khoe/kham-cap-cuu-hon-317000-luot-nguoi-benh-trong-ky-nghi-le-20260503171353974.htm) - 14:12 03/05/2026
-- 🦅 [Bác sĩ kịp thời cứu sống bé trai ngừng tim do điện giật ở bãi biển](https://dantri.com.vn/suc-khoe/bac-si-kip-thoi-cuu-song-be-trai-ngung-tim-do-dien-giat-o-bai-bien-20260503112443760.htm) - 09:34 03/05/2026
-- 🐘 [Người đàn ông ở TPHCM nguy kịch khi đi câu cá](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-o-tphcm-nguy-kich-khi-di-cau-ca-20260503100924192.htm) - 09:33 03/05/2026
-- ⛽️ [Người đàn ông vô tình nuốt nắp chai bia vào bụng khi đang nhậu](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-vo-tinh-nuot-nap-chai-bia-vao-bung-khi-dang-nhau-20260503094213740.htm) - 09:31 03/05/2026
-- 🤡 [Nhiều người nước ngoài mắc bệnh hiểm nghèo được bác sĩ Việt Nam cứu mạng](https://dantri.com.vn/suc-khoe/nhieu-nguoi-nuoc-ngoai-mac-benh-hiem-ngheo-duoc-bac-si-viet-nam-cuu-mang-20260502121705161.htm) - 00:31 03/05/2026
-- 💼 [Nghiên cứu mới chỉ ra một lợi ích bất ngờ của cà phê](https://dantri.com.vn/suc-khoe/nghien-cuu-moi-chi-ra-mot-loi-ich-bat-ngo-cua-ca-phe-20260502223502684.htm) - 00:27 03/05/2026
-- 🤔 [Liên tiếp 4 trẻ cấp cứu vì đuối nước trong kỳ nghỉ lễ](https://dantri.com.vn/suc-khoe/lien-tiep-4-tre-cap-cuu-vi-duoi-nuoc-trong-ky-nghi-le-20260502123231986.htm) - 05:37 02/05/2026
-- 🪜 [&quot;Cao thủ&quot; hạ axit uric rẻ bèo ở chợ Việt](https://dantri.com.vn/suc-khoe/cao-thu-ha-axit-uric-re-beo-o-cho-viet-20260428074721924.htm) - 01:00 02/05/2026
-- 📝 [Một thói quen khi đi vệ sinh làm tăng nguy cơ mắc bệnh trĩ 46%](https://dantri.com.vn/suc-khoe/mot-thoi-quen-khi-di-ve-sinh-lam-tang-nguy-co-mac-benh-tri-46-20260501232547647.htm) - 23:56 01/05/2026
-- 🌏 [Những nguy cơ trong kỳ nghỉ dài với trẻ tự kỷ, khuyết tật và cách xử lý](https://dantri.com.vn/suc-khoe/nhung-nguy-co-trong-ky-nghi-dai-voi-tre-tu-ky-khuyet-tat-va-cach-xu-ly-20260501104236143.htm) - 22:50 01/05/2026
-- 🕯 [Vụ 64 người nghi bị ngộ độc: Tạm ngừng hoạt động cơ sở bánh mì](https://dantri.com.vn/suc-khoe/vu-64-nguoi-nghi-bi-ngo-doc-tam-ngung-hoat-dong-co-so-banh-mi-20260501172550132.htm) - 12:06 01/05/2026
-- 🦍 [Ghi nhận ca nhiễm Whitmore ở Gia Lai](https://dantri.com.vn/suc-khoe/ghi-nhan-ca-nhiem-whitmore-o-gia-lai-20260501154703160.htm) - 12:05 01/05/2026
-- 🌈 [46 người nhập viện sau khi ăn bánh mì](https://dantri.com.vn/suc-khoe/46-nguoi-nhap-vien-sau-khi-an-banh-mi-20260501095411473.htm) - 05:12 01/05/2026
-- 🔥 [Thêm một bệnh viện tuyến cuối ở TPHCM sắp thoát cảnh &quot;quá tải nghiêm trọng&quot;](https://dantri.com.vn/suc-khoe/them-mot-benh-vien-tuyen-cuoi-o-tphcm-sap-thoat-canh-qua-tai-nghiem-trong-20260501115805556.htm) - 05:11 01/05/2026
+- 🤔 [Sai lầm có thể gây hại sức khỏe khi hâm cơm trữ trong tủ lạnh](https://dantri.com.vn/suc-khoe/sai-lam-co-the-gay-hai-suc-khoe-khi-ham-com-tru-trong-tu-lanh-20260505070938706.htm) - 10:02 05/05/2026
+- 🚦 [Mẹ đột ngột bỏ rơi, em bé bệnh nặng được y bác sĩ ở TPHCM níu mạng, đặt tên](https://dantri.com.vn/suc-khoe/me-dot-ngot-bo-roi-em-be-benh-nang-duoc-y-bac-si-o-tphcm-niu-mang-dat-ten-20260505160819834.htm) - 09:56 05/05/2026
+- 🤖 [Bắt ve sầu để ăn, 9 người nhập viện vì ngộ độc](https://dantri.com.vn/suc-khoe/bat-ve-sau-de-an-9-nguoi-nhap-vien-vi-ngo-doc-20260505160145202.htm) - 09:35 05/05/2026
+- 🐻 [Công an hiến máu cứu người phụ nữ qua cơn nguy kịch](https://dantri.com.vn/suc-khoe/cong-an-hien-mau-cuu-nguoi-phu-nu-qua-con-nguy-kich-20260505144338174.htm) - 09:28 05/05/2026
+- 🌏 [Bác sĩ Bệnh viện Bạch Mai cấp cứu hành khách trên chuyến bay Hà Nội - Paris](https://dantri.com.vn/suc-khoe/bac-si-benh-vien-bach-mai-cap-cuu-hanh-khach-tren-chuyen-bay-ha-noi-paris-20260505143945965.htm) - 07:46 05/05/2026
+- 👺 [Chi triệu đồng mua sữa “xịn” cho con, mẹ bỉm Việt nhận về nỗi lo nhiễm độc](https://dantri.com.vn/suc-khoe/chi-trieu-dong-mua-sua-xin-cho-con-me-bim-viet-nhan-ve-noi-lo-nhiem-doc-20260505104623700.htm) - 07:43 05/05/2026
+- 🎬 [Mũi tiêm 1 phút thay thế truyền hóa chất hàng giờ tại Anh](https://dantri.com.vn/suc-khoe/mui-tiem-1-phut-thay-the-truyen-hoa-chat-hang-gio-tai-anh-20260505121007326.htm) - 06:05 05/05/2026
+- 🌏 [Người đàn ông ở TPHCM bị đồng nghiệp cùng cơ quan đâm thủng tim](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-o-tphcm-bi-dong-nghiep-cung-co-quan-dam-thung-tim-20260505120737570.htm) - 05:56 05/05/2026
+- 🐵 [Bộ Y tế phát thông tin khẩn về virus Hanta khiến 3 người tử vong](https://dantri.com.vn/suc-khoe/bo-y-te-phat-thong-tin-khan-ve-virus-hanta-khien-3-nguoi-tu-vong-20260505104049901.htm) - 04:07 05/05/2026
+- 👨‍🏫 [Ngừng tim hơn 30 phút, bệnh nhân được cứu sống ngoạn mục](https://dantri.com.vn/suc-khoe/ngung-tim-hon-30-phut-benh-nhan-duoc-cuu-song-ngoan-muc-20260505075546557.htm) - 03:54 05/05/2026
+- 🤗 [Ứng dụng công nghệ in 3D trong nha khoa](https://dantri.com.vn/suc-khoe/ung-dung-cong-nghe-in-3d-trong-nha-khoa-20260504222249154.htm) - 02:55 05/05/2026
+- 🫶 [Hà Nội: Bé trai đứt lìa 2 ngón tay khi chơi xe điện tự chế](https://dantri.com.vn/suc-khoe/ha-noi-be-trai-dut-lia-2-ngon-tay-khi-choi-xe-dien-tu-che-20260505065038734.htm) - 00:12 05/05/2026
+- 🙉 [Nuốt nghẹn kéo dài, người đàn ông phát hiện ung thư thực quản](https://dantri.com.vn/suc-khoe/nuot-nghen-keo-dai-nguoi-dan-ong-phat-hien-ung-thu-thuc-quan-20260505070325177.htm) - 00:10 05/05/2026
+- 🦅 [Bộ Y tế: Thu hồi ngay sữa công thức a2 Platinum Premium USA nghi nhiễm độc](https://dantri.com.vn/suc-khoe/bo-y-te-thu-hoi-ngay-sua-cong-thuc-a2-platinum-premium-usa-nghi-nhiem-doc-20260505063247592.htm) - 23:36 04/05/2026
+- 🐘 [Bác sĩ Bạch Mai lưu ý quan trọng với gia đình có người mắc ung thư dạ dày](https://dantri.com.vn/suc-khoe/bac-si-bach-mai-luu-y-quan-trong-voi-gia-dinh-co-nguoi-mac-ung-thu-da-day-20260429113536299.htm) - 23:15 04/05/2026
+- ⛽️ [55 bệnh nhân trong vụ nghi ngộ độc thực phẩm đã xuất viện](https://dantri.com.vn/suc-khoe/55-benh-nhan-trong-vu-nghi-ngo-doc-thuc-pham-da-xuat-vien-20260504174318300.htm) - 23:13 04/05/2026
+- 🤡 [12 người ở Lâm Đồng nghi bị chó dại cắn](https://dantri.com.vn/suc-khoe/12-nguoi-o-lam-dong-nghi-bi-cho-dai-can-20260504222504181.htm) - 16:07 04/05/2026
+- 💼 [Bé trai ở TPHCM mắc não mô cầu biến chứng nguy hiểm, bạch cầu tăng 8 lần](https://dantri.com.vn/suc-khoe/be-trai-o-tphcm-mac-nao-mo-cau-bien-chung-nguy-hiem-bach-cau-tang-8-lan-20260504170703424.htm) - 11:29 04/05/2026
+- 🤔 [Người phụ nữ phải tháo mủ, rút nhiều chỉ nâng cơ ở má sau làm đẹp tại spa](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-phai-thao-mu-rut-nhieu-chi-nang-co-o-ma-sau-lam-dep-tai-spa-20260504142807823.htm) - 11:19 04/05/2026
+- 🪜 [Bị đứt rời cẳng tay, người đàn ông có nhóm máu hiếm được nối lại thành công](https://dantri.com.vn/suc-khoe/bi-dut-roi-cang-tay-nguoi-dan-ong-co-nhom-mau-hiem-duoc-noi-lai-thanh-cong-20260504142422100.htm) - 09:03 04/05/2026
+- 📝 [Người phụ nữ mắc kẹt dưới gầm xe buýt bị gãy xương](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-mac-ket-duoi-gam-xe-buyt-bi-gay-xuong-20260504143543782.htm) - 07:44 04/05/2026
+- 🌏 [Từ 1/7, Bộ Y tế không còn cấp chứng chỉ hành nghề khám bệnh, chữa bệnh](https://dantri.com.vn/suc-khoe/tu-17-bo-y-te-khong-con-cap-chung-chi-hanh-nghe-kham-benh-chua-benh-20260504141728848.htm) - 07:22 04/05/2026
+- 🕯 [Bước tiến mới giúp nam giới vô sinh có thêm hy vọng làm cha](https://dantri.com.vn/suc-khoe/buoc-tien-moi-giup-nam-gioi-vo-sinh-co-them-hy-vong-lam-cha-20260504134541939.htm) - 07:20 04/05/2026
+- 🦍 [Hơn 63.000 hộp sữa công thức bị thu hồi tại Mỹ do nghi nhiễm độc tố](https://dantri.com.vn/suc-khoe/hon-63000-hop-sua-cong-thuc-bi-thu-hoi-tai-my-do-nghi-nhiem-doc-to-20260504122403230.htm) - 07:10 04/05/2026
+- 🌈 [Bé trai 5 tuổi tử vong nghi do bệnh dại, từng bị mèo cào, chó cắn](https://dantri.com.vn/suc-khoe/be-trai-5-tuoi-tu-vong-nghi-do-benh-dai-tung-bi-meo-cao-cho-can-20260504131558930.htm) - 07:01 04/05/2026
+- 🔥 [Liên tiếp 3 trẻ ngạt nước ngưng tim khi du lịch, tắm hồ bơi cùng cha mẹ](https://dantri.com.vn/suc-khoe/lien-tiep-3-tre-ngat-nuoc-ngung-tim-khi-du-lich-tam-ho-boi-cung-cha-me-20260504104619510.htm) - 04:25 04/05/2026
+- 🌊 [Người đàn ông tử vong sau khi đổ gục trước khung thành trận bóng giao hữu](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-tu-vong-sau-khi-do-guc-truoc-khung-thanh-tran-bong-giao-huu-20260504105451358.htm) - 04:23 04/05/2026
+- 🚦 [Bán bánh mì khiến 86 người nhập viện, chủ tiệm bị phạt 80 triệu đồng](https://dantri.com.vn/suc-khoe/ban-banh-mi-khien-86-nguoi-nhap-vien-chu-tiem-bi-phat-80-trieu-dong-20260504092518251.htm) - 03:04 04/05/2026
+- 🤖 [Bệnh viện Chợ Rẫy cấp cứu hàng chục ca ngộ độc, bị đả thương dịp lễ](https://dantri.com.vn/suc-khoe/benh-vien-cho-ray-cap-cuu-hang-chuc-ca-ngo-doc-bi-da-thuong-dip-le-20260504095031990.htm) - 03:01 04/05/2026
+- 🤡 [Bé gái 22 tháng tuổi tổn thương nghiêm trọng vùng mặt do chó cắn](https://dantri.com.vn/suc-khoe/be-gai-22-thang-tuoi-ton-thuong-nghiem-trong-vung-mat-do-cho-can-20260504083435380.htm) - 01:38 04/05/2026
+- 💂 [7 thói quen gây hại thận mỗi ngày, nhiều người đang làm mà không biết](https://dantri.com.vn/suc-khoe/7-thoi-quen-gay-hai-than-moi-ngay-nhieu-nguoi-dang-lam-ma-khong-biet-20260503223309489.htm) - 00:49 04/05/2026
+- 🦄 [Khám, cấp cứu hơn 317.000 lượt người bệnh trong kỳ nghỉ lễ](https://dantri.com.vn/suc-khoe/kham-cap-cuu-hon-317000-luot-nguoi-benh-trong-ky-nghi-le-20260503171353974.htm) - 14:12 03/05/2026
+- 🧠 [Bác sĩ kịp thời cứu sống bé trai ngừng tim do điện giật ở bãi biển](https://dantri.com.vn/suc-khoe/bac-si-kip-thoi-cuu-song-be-trai-ngung-tim-do-dien-giat-o-bai-bien-20260503112443760.htm) - 09:34 03/05/2026
+- 🤖 [Người đàn ông ở TPHCM nguy kịch khi đi câu cá](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-o-tphcm-nguy-kich-khi-di-cau-ca-20260503100924192.htm) - 09:33 03/05/2026
+- 💼 [Người đàn ông vô tình nuốt nắp chai bia vào bụng khi đang nhậu](https://dantri.com.vn/suc-khoe/nguoi-dan-ong-vo-tinh-nuot-nap-chai-bia-vao-bung-khi-dang-nhau-20260503094213740.htm) - 09:31 03/05/2026
+- 🧰 [Nhiều người nước ngoài mắc bệnh hiểm nghèo được bác sĩ Việt Nam cứu mạng](https://dantri.com.vn/suc-khoe/nhieu-nguoi-nuoc-ngoai-mac-benh-hiem-ngheo-duoc-bac-si-viet-nam-cuu-mang-20260502121705161.htm) - 00:31 03/05/2026
+- 🎉 [Nghiên cứu mới chỉ ra một lợi ích bất ngờ của cà phê](https://dantri.com.vn/suc-khoe/nghien-cuu-moi-chi-ra-mot-loi-ich-bat-ngo-cua-ca-phe-20260502223502684.htm) - 00:27 03/05/2026
+- 🌏 [Liên tiếp 4 trẻ cấp cứu vì đuối nước trong kỳ nghỉ lễ](https://dantri.com.vn/suc-khoe/lien-tiep-4-tre-cap-cuu-vi-duoi-nuoc-trong-ky-nghi-le-20260502123231986.htm) - 05:37 02/05/2026
+- 📝 [&quot;Cao thủ&quot; hạ axit uric rẻ bèo ở chợ Việt](https://dantri.com.vn/suc-khoe/cao-thu-ha-axit-uric-re-beo-o-cho-viet-20260428074721924.htm) - 01:00 02/05/2026
+- 🧠 [Một thói quen khi đi vệ sinh làm tăng nguy cơ mắc bệnh trĩ 46%](https://dantri.com.vn/suc-khoe/mot-thoi-quen-khi-di-ve-sinh-lam-tang-nguy-co-mac-benh-tri-46-20260501232547647.htm) - 23:56 01/05/2026
+- 🚀 [Những nguy cơ trong kỳ nghỉ dài với trẻ tự kỷ, khuyết tật và cách xử lý](https://dantri.com.vn/suc-khoe/nhung-nguy-co-trong-ky-nghi-dai-voi-tre-tu-ky-khuyet-tat-va-cach-xu-ly-20260501104236143.htm) - 22:50 01/05/2026
+- 💯 [Vụ 64 người nghi bị ngộ độc: Tạm ngừng hoạt động cơ sở bánh mì](https://dantri.com.vn/suc-khoe/vu-64-nguoi-nghi-bi-ngo-doc-tam-ngung-hoat-dong-co-so-banh-mi-20260501172550132.htm) - 12:06 01/05/2026
+- 🫶 [Ghi nhận ca nhiễm Whitmore ở Gia Lai](https://dantri.com.vn/suc-khoe/ghi-nhan-ca-nhiem-whitmore-o-gia-lai-20260501154703160.htm) - 12:05 01/05/2026
+- 👹 [46 người nhập viện sau khi ăn bánh mì](https://dantri.com.vn/suc-khoe/46-nguoi-nhap-vien-sau-khi-an-banh-mi-20260501095411473.htm) - 05:12 01/05/2026
+- 🤩 [Thêm một bệnh viện tuyến cuối ở TPHCM sắp thoát cảnh &quot;quá tải nghiêm trọng&quot;](https://dantri.com.vn/suc-khoe/them-mot-benh-vien-tuyen-cuoi-o-tphcm-sap-thoat-canh-qua-tai-nghiem-trong-20260501115805556.htm) - 05:11 01/05/2026
 - 🌊 [Trẻ suýt mất mạng vì căn bệnh nguy hiểm có biểu hiện giống cảm cúm](https://dantri.com.vn/suc-khoe/tre-suyt-mat-mang-vi-can-benh-nguy-hiem-co-bieu-hien-giong-cam-cum-20260430232712637.htm) - 03:41 01/05/2026
-- 🚦 [Ngày non sông liền một dải trong ký ức nữ quân y từng vào sinh ra tử](https://dantri.com.vn/suc-khoe/ngay-non-song-lien-mot-dai-trong-ky-uc-nu-quan-y-tung-vao-sinh-ra-tu-20260501081044808.htm) - 02:30 01/05/2026
-- 🤖 [Gia tăng ca mắc Covid-19, não mô cầu, sốt xuất huyết](https://dantri.com.vn/suc-khoe/gia-tang-ca-mac-covid-19-nao-mo-cau-sot-xuat-huyet-20260430225120962.htm) - 23:16 30/04/2026
-- 🤡 [Mất bao lâu để ung thư cổ tử cung hình thành?](https://dantri.com.vn/suc-khoe/mat-bao-lau-de-ung-thu-co-tu-cung-hinh-thanh-20260430220646769.htm) - 23:14 30/04/2026
-- 💂 [Người thích uống cà phê đón thêm tin vui từ nghiên cứu quốc tế](https://dantri.com.vn/suc-khoe/nguoi-thich-uong-ca-phe-don-them-tin-vui-tu-nghien-cuu-quoc-te-20260428071446451.htm) - 23:11 30/04/2026
-- 🦄 [Nhiều phụ nữ ở TPHCM bị nạn bất ngờ vì thói quen ôm nựng thú cưng](https://dantri.com.vn/suc-khoe/nhieu-phu-nu-o-tphcm-bi-nan-bat-ngo-vi-thoi-quen-om-nung-thu-cung-20260428174803920.htm) - 06:03 30/04/2026
-- 🧠 [Bị khỉ hoang tấn công, 5 du khách nhập viện](https://dantri.com.vn/suc-khoe/bi-khi-hoang-tan-cong-5-du-khach-nhap-vien-20260430095745252.htm) - 03:56 30/04/2026
-- 🤖 [Giáo sư Đặng Văn Chung - bậc thầy dùng ống nghe khiến máy móc “chào thua&quot;](https://dantri.com.vn/suc-khoe/giao-su-dang-van-chung-bac-thay-dung-ong-nghe-khien-may-moc-chao-thua-20260428214053601.htm) - 00:33 30/04/2026
-- 💼 [Cấp cứu sau sáp nhập: Nơi “không sáng đèn”, chỗ cần cánh tay nối dài](https://dantri.com.vn/suc-khoe/cap-cuu-sau-sap-nhap-noi-khong-sang-den-cho-can-canh-tay-noi-dai-20260424130030989.htm) - 23:32 29/04/2026
-- 🧰 [Những kiểu chóng mặt cảnh báo đột quỵ](https://dantri.com.vn/suc-khoe/nhung-kieu-chong-mat-canh-bao-dot-quy-20260429075715243.htm) - 23:14 29/04/2026
-- 🎉 [Xác định nguyên nhân vụ 64 người bị ngộ độc ở Nghệ An](https://dantri.com.vn/suc-khoe/xac-dinh-nguyen-nhan-vu-64-nguoi-bi-ngo-doc-o-nghe-an-20260429165403016.htm) - 10:38 29/04/2026
-- 🌏 [Nga vừa tạo thứ “không tồn tại trong tự nhiên” có thể diệt tế bào ung thư](https://dantri.com.vn/suc-khoe/nga-vua-tao-thu-khong-ton-tai-trong-tu-nhien-co-the-diet-te-bao-ung-thu-20260429081007961.htm) - 09:08 29/04/2026
-- 📝 [Gần 200 y bác sĩ tham gia ghép tạng, cứu 6 người bệnh](https://dantri.com.vn/suc-khoe/gan-200-y-bac-si-tham-gia-ghep-tang-cuu-6-nguoi-benh-20260429114957964.htm) - 07:38 29/04/2026
-- 🧠 [Hai bệnh viện tuyến cuối ở TPHCM có cơ sở mới](https://dantri.com.vn/suc-khoe/hai-benh-vien-tuyen-cuoi-o-tphcm-co-co-so-moi-20260429104441402.htm) - 04:09 29/04/2026
-- 🚀 [Vụ nghi ngộ độc thực phẩm ở Trường Tiểu học Đặng Thùy Trâm: Sở ATTP nói gì?](https://dantri.com.vn/suc-khoe/vu-nghi-ngo-doc-thuc-pham-o-truong-tieu-hoc-dang-thuy-tram-so-attp-noi-gi-20260429093358956.htm) - 03:52 29/04/2026
-- 💯 [Xử phạt 103 triệu đồng người tiêm filler &quot;chui&quot; trong căn hộ ở TPHCM](https://dantri.com.vn/suc-khoe/xu-phat-103-trieu-dong-nguoi-tiem-filler-chui-trong-can-ho-o-tphcm-20260428122025934.htm) - 03:51 29/04/2026
-- 🫶 [Nghi điện thoại phát nổ, bé trai 9 tuổi nhập viện với bàn tay dập nát](https://dantri.com.vn/suc-khoe/nghi-dien-thoai-phat-no-be-trai-9-tuoi-nhap-vien-voi-ban-tay-dap-nat-20260428152013477.htm) - 02:05 29/04/2026
-- 👹 [Endocyto 520x: Vai trò trong chẩn đoán và định hướng phát triển nội soi tiêu hóa](https://dantri.com.vn/suc-khoe/endocyto-520x-vai-tro-trong-chan-doan-va-dinh-huong-phat-trien-noi-soi-tieu-hoa-20260429083513418.htm) - 02:00 29/04/2026
-- 🤩 [Nhiệm vụ tuyệt mật của vị tướng quân y gỡ thế khó ngoại giao bằng khoa học](https://dantri.com.vn/khoa-hoc/nhiem-vu-tuyet-mat-cua-vi-tuong-quan-y-go-the-kho-ngoai-giao-bang-khoa-hoc-20260428200310480.htm) - 01:07 29/04/2026
-- 🌊 [Cơ sở bánh mì khiến 86 người ngộ độc ở Đồng Tháp bị phạt 90 triệu đồng](https://dantri.com.vn/suc-khoe/co-so-banh-mi-khien-86-nguoi-ngo-doc-o-dong-thap-bi-phat-90-trieu-dong-20260428203644306.htm) - 23:49 28/04/2026
-- 🤓 [Kích hoạt báo động đỏ, cứu sống mẹ con sản phụ](https://dantri.com.vn/suc-khoe/kich-hoat-bao-dong-do-cuu-song-me-con-san-phu-20260428175205382.htm) - 23:45 28/04/2026
-- 🌝 [Nhiều học sinh, bảo mẫu trường học ở TPHCM đi cấp cứu: Bộ Y tế chỉ đạo khẩn](https://dantri.com.vn/suc-khoe/nhieu-hoc-sinh-bao-mau-truong-hoc-o-tphcm-di-cap-cuu-bo-y-te-chi-dao-khan-20260428194542959.htm) - 13:08 28/04/2026
-- 🕯 [Thui thịt chó, 2 người đàn ông bị bỏng khí gas](https://dantri.com.vn/suc-khoe/thui-thit-cho-2-nguoi-dan-ong-bi-bong-khi-gas-20260428151612302.htm) - 09:38 28/04/2026
-- 🎓 [Viêm não mô cầu: Từ sốt nhẹ đến tử vong chỉ trong vài giờ](https://dantri.com.vn/suc-khoe/viem-nao-mo-cau-tu-sot-nhe-den-tu-vong-chi-trong-vai-gio-20260428135708504.htm) - 09:35 28/04/2026
-- 🌏 [TPHCM: Uống trà giảm cân, cô gái 19 tuổi suy thận cấp](https://dantri.com.vn/suc-khoe/tphcm-uong-tra-giam-can-co-gai-19-tuoi-suy-than-cap-20260428155321436.htm) - 09:29 28/04/2026
-- 🔥 [Hy hữu: Bác sĩ lấy chìa khóa và vòng sắt từ dạ dày bệnh nhi 14 tuổi](https://dantri.com.vn/suc-khoe/hy-huu-bac-si-lay-chia-khoa-va-vong-sat-tu-da-day-benh-nhi-14-tuoi-20260428104725024.htm) - 06:30 28/04/2026
-- 📝 [TPHCM: Cấp cứu hàng chục học sinh và bảo mẫu nghi ngộ độc ở trường tiểu học](https://dantri.com.vn/suc-khoe/tphcm-cap-cuu-hang-chuc-hoc-sinh-va-bao-mau-nghi-ngo-doc-o-truong-tieu-hoc-20260428103349518.htm) - 03:47 28/04/2026
-- 🧠 [Ngưng tim khi chơi pickleball: Dấu hiệu tưởng xuống sức là &quot;cảnh báo đỏ&quot;](https://dantri.com.vn/suc-khoe/ngung-tim-khi-choi-pickleball-dau-hieu-tuong-xuong-suc-la-canh-bao-do-20260428070100908.htm) - 03:12 28/04/2026
-- 🦅 [Đơn vị đặc biệt của những người lính &quot;đóng băng ký ức&quot; ở chiến trường](https://dantri.com.vn/suc-khoe/don-vi-dac-biet-cua-nhung-nguoi-linh-dong-bang-ky-uc-o-chien-truong-20260417143403867.htm) - 01:50 28/04/2026
-- 😎 [Nam sinh 12 tuổi cấp cứu vì trò đùa dại của bạn, để bút bi dưới ghế ngồi](https://dantri.com.vn/suc-khoe/nam-sinh-12-tuoi-cap-cuu-vi-tro-dua-dai-cua-ban-de-but-bi-duoi-ghe-ngoi-20260428083329715.htm) - 01:37 28/04/2026
-- 🎉 [Cô gái 27 tuổi dọn vào viện dưỡng lão ở cùng bà ngoại](https://dantri.com.vn/suc-khoe/co-gai-27-tuoi-don-vao-vien-duong-lao-o-cung-ba-ngoai-20260425170749987.htm) - 23:22 27/04/2026
-- 🫣 [Có nên ăn cơm nguội thay cơm nóng để kiểm soát đường huyết?](https://dantri.com.vn/suc-khoe/co-nen-an-com-nguoi-thay-com-nong-de-kiem-soat-duong-huyet-20260427205633575.htm) - 23:16 27/04/2026
-- 🧑‍🏫 [Bé gái 14 tuổi mang khối u buồng trứng hơn 4kg, gia đình tưởng tăng cân](https://dantri.com.vn/suc-khoe/be-gai-14-tuoi-mang-khoi-u-buong-trung-hon-4kg-gia-dinh-tuong-tang-can-20260427211105006.htm) - 14:15 27/04/2026
-- 🥷 [Bé 2 tuổi tử vong do viêm não mô cầu, người thân phải cách ly y tế](https://dantri.com.vn/suc-khoe/be-2-tuoi-tu-vong-do-viem-nao-mo-cau-nguoi-than-phai-cach-ly-y-te-20260427142014355.htm) - 08:40 27/04/2026<!-- dantri-suc-khoe:END -->
+- 🤓 [Ngày non sông liền một dải trong ký ức nữ quân y từng vào sinh ra tử](https://dantri.com.vn/suc-khoe/ngay-non-song-lien-mot-dai-trong-ky-uc-nu-quan-y-tung-vao-sinh-ra-tu-20260501081044808.htm) - 02:30 01/05/2026
+- 🌝 [Gia tăng ca mắc Covid-19, não mô cầu, sốt xuất huyết](https://dantri.com.vn/suc-khoe/gia-tang-ca-mac-covid-19-nao-mo-cau-sot-xuat-huyet-20260430225120962.htm) - 23:16 30/04/2026
+- 🕯 [Mất bao lâu để ung thư cổ tử cung hình thành?](https://dantri.com.vn/suc-khoe/mat-bao-lau-de-ung-thu-co-tu-cung-hinh-thanh-20260430220646769.htm) - 23:14 30/04/2026
+- 🎓 [Người thích uống cà phê đón thêm tin vui từ nghiên cứu quốc tế](https://dantri.com.vn/suc-khoe/nguoi-thich-uong-ca-phe-don-them-tin-vui-tu-nghien-cuu-quoc-te-20260428071446451.htm) - 23:11 30/04/2026
+- 🌏 [Nhiều phụ nữ ở TPHCM bị nạn bất ngờ vì thói quen ôm nựng thú cưng](https://dantri.com.vn/suc-khoe/nhieu-phu-nu-o-tphcm-bi-nan-bat-ngo-vi-thoi-quen-om-nung-thu-cung-20260428174803920.htm) - 06:03 30/04/2026
+- 🔥 [Bị khỉ hoang tấn công, 5 du khách nhập viện](https://dantri.com.vn/suc-khoe/bi-khi-hoang-tan-cong-5-du-khach-nhap-vien-20260430095745252.htm) - 03:56 30/04/2026
+- 📝 [Giáo sư Đặng Văn Chung - bậc thầy dùng ống nghe khiến máy móc “chào thua&quot;](https://dantri.com.vn/suc-khoe/giao-su-dang-van-chung-bac-thay-dung-ong-nghe-khien-may-moc-chao-thua-20260428214053601.htm) - 00:33 30/04/2026
+- 🧠 [Cấp cứu sau sáp nhập: Nơi “không sáng đèn”, chỗ cần cánh tay nối dài](https://dantri.com.vn/suc-khoe/cap-cuu-sau-sap-nhap-noi-khong-sang-den-cho-can-canh-tay-noi-dai-20260424130030989.htm) - 23:32 29/04/2026
+- 🦅 [Những kiểu chóng mặt cảnh báo đột quỵ](https://dantri.com.vn/suc-khoe/nhung-kieu-chong-mat-canh-bao-dot-quy-20260429075715243.htm) - 23:14 29/04/2026
+- 😎 [Xác định nguyên nhân vụ 64 người bị ngộ độc ở Nghệ An](https://dantri.com.vn/suc-khoe/xac-dinh-nguyen-nhan-vu-64-nguoi-bi-ngo-doc-o-nghe-an-20260429165403016.htm) - 10:38 29/04/2026
+- 🎉 [Nga vừa tạo thứ “không tồn tại trong tự nhiên” có thể diệt tế bào ung thư](https://dantri.com.vn/suc-khoe/nga-vua-tao-thu-khong-ton-tai-trong-tu-nhien-co-the-diet-te-bao-ung-thu-20260429081007961.htm) - 09:08 29/04/2026
+- 🫣 [Gần 200 y bác sĩ tham gia ghép tạng, cứu 6 người bệnh](https://dantri.com.vn/suc-khoe/gan-200-y-bac-si-tham-gia-ghep-tang-cuu-6-nguoi-benh-20260429114957964.htm) - 07:38 29/04/2026
+- 🧑‍🏫 [Hai bệnh viện tuyến cuối ở TPHCM có cơ sở mới](https://dantri.com.vn/suc-khoe/hai-benh-vien-tuyen-cuoi-o-tphcm-co-co-so-moi-20260429104441402.htm) - 04:09 29/04/2026
+- 🥷 [Vụ nghi ngộ độc thực phẩm ở Trường Tiểu học Đặng Thùy Trâm: Sở ATTP nói gì?](https://dantri.com.vn/suc-khoe/vu-nghi-ngo-doc-thuc-pham-o-truong-tieu-hoc-dang-thuy-tram-so-attp-noi-gi-20260429093358956.htm) - 03:52 29/04/2026<!-- dantri-suc-khoe:END -->
