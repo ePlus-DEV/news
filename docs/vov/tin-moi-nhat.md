@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Trực tiếp Bayern Munich - PSG: Lộ diện đội hình xuất phát](https://vov.vn/the-thao/truc-tiep-bayern-munich-psg-lo-dien-doi-hinh-xuat-phat-post1289514.vov) - 18:08 06/05/2026
+- 👍 [Trực tiếp Bayern Munich 1-1 PSG: Harry Kane ghi bàn ở phút bù giờ](https://vov.vn/the-thao/truc-tiep-bayern-munich-1-1-psg-harry-kane-ghi-ban-o-phut-bu-gio-post1289514.vov) - 20:57 06/05/2026
 - 🦍 [Iran tuyên bố đảm bảo lưu thông an toàn qua eo biển Hormuz](https://vov.vn/the-gioi/iran-tuyen-bo-dam-bao-luu-thong-an-toan-qua-eo-bien-hormuz-post1289645.vov) - 15:26 06/05/2026
 - 🦏 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Hội đồng các vấn đề thế giới của Ấn Độ](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-hoi-dong-cac-van-de-the-gioi-cua-an-do-post1289644.vov) - 15:11 06/05/2026
 - 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng các không gian hợp tác mới về KHCN](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-cac-khong-gian-hop-tac-moi-ve-khcn-post1289636.vov) - 14:14 06/05/2026
