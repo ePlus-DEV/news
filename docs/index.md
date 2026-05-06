@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Kết quả Chữ đẹp Nhi Đồng số 17](https://muctim.tuoitre.vn/ket-qua-chu-dep-nhi-dong-so-17-101260506205836128.htm) - 14:52 06/05/2026
 - 🥷 [BTS chạm mốc bạch kim 3 lần tại Nhật](https://muctim.tuoitre.vn/bts-cham-moc-bach-kim-3-lan-tai-nhat-10126050616124316.htm) - 14:49 06/05/2026
-- 🤖 [Trực tiếp U17 châu Á: U17 Việt Nam - U17 Yemen](https://muctim.tuoitre.vn/truc-tiep-u17-chau-a-u17-viet-nam-u17-yemen-101260506163557318.htm) - 12:35 06/05/2026
+- 🤖 [Trực tiếp U17 châu Á: U17 Việt Nam 0-0 U17 Yemen &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u17-chau-a-u17-viet-nam-u17-yemen-101260506163557318.htm) - 12:35 06/05/2026
 - 🤓 [9 điều Bộ Giáo dục và Đào tạo dặn thí sinh trước khi đăng ký xét tuyển đại học](https://muctim.tuoitre.vn/9-dieu-bo-giao-duc-va-dao-tao-dan-thi-sinh-truoc-khi-dang-ky-xet-tuyen-dai-hoc-101260506181500968.htm) - 12:29 06/05/2026
 - 🎉 [Lịch sử là môn thi tốt nghiệp THPT có số thí sinh đăng ký nhiều nhất](https://muctim.tuoitre.vn/lich-su-la-mon-thi-tot-nghiep-thpt-co-so-thi-sinh-dang-ky-nhieu-nhat-101260506181757008.htm) - 12:24 06/05/2026
 - 👨‍🏫 [5 trường ở TP.HCM dự kiến tổ chức khảo sát vào lớp 6](https://muctim.tuoitre.vn/5-truong-o-tphcm-du-kien-to-chuc-khao-sat-vao-lop-6-101260506181409746.htm) - 12:19 06/05/2026
