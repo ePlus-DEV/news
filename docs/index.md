@@ -528,66 +528,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [9 điều Bộ Giáo dục và Đào tạo dặn thí sinh trước khi đăng ký xét tuyển đại học](https://muctim.tuoitre.vn/9-dieu-bo-giao-duc-va-dao-tao-dan-thi-sinh-truoc-khi-dang-ky-xet-tuyen-dai-hoc-101260506181500968.htm) - 12:29 06/05/2026
-- 🥷 [Lịch sử là môn thi tốt nghiệp THPT có số thí sinh đăng ký nhiều nhất](https://muctim.tuoitre.vn/lich-su-la-mon-thi-tot-nghiep-thpt-co-so-thi-sinh-dang-ky-nhieu-nhat-101260506181757008.htm) - 12:24 06/05/2026
-- 🤖 [5 trường ở TP.HCM dự kiến tổ chức khảo sát vào lớp 6](https://muctim.tuoitre.vn/5-truong-o-tphcm-du-kien-to-chuc-khao-sat-vao-lop-6-101260506181409746.htm) - 12:19 06/05/2026
-- 🤓 [Anne Hathaway là lựa chọn thứ 9 cho vai chính trong Devil wears Prada](https://muctim.tuoitre.vn/anne-hathaway-la-lua-chon-thu-9-cho-vai-chinh-trong-devil-wears-prada-101260506144515299.htm) - 12:14 06/05/2026
-- 🎉 [U17 Việt Nam nhỉnh hơn U17 Yemen về thể hình và kinh nghiệm](https://muctim.tuoitre.vn/u17-viet-nam-nhinh-hon-u17-yemen-ve-the-hinh-va-kinh-nghiem-101260506142438761.htm) - 11:11 06/05/2026
-- 👨‍🏫 [Trực tiếp bán kết Shopee Cup: Selangor - Thép Xanh Nam Định](https://muctim.tuoitre.vn/truc-tiep-ban-ket-shopee-cup-selangor-thep-xanh-nam-dinh-101260506144804529.htm) - 11:08 06/05/2026
-- 🚦 [Siêu máy tính dự báo gì về trận lượt về giữa Bayern Munich và PSG?](https://muctim.tuoitre.vn/sieu-may-tinh-du-bao-gi-ve-tran-luot-ve-giua-bayern-munich-va-psg-101260506145354328.htm) - 11:00 06/05/2026
-- 🤭 [Những trường được khen thưởng đợt 2 Giải Lê Quý Đôn trên ấn phẩm Khăn Quàng Đỏ năm học 2025 - 2026](https://muctim.tuoitre.vn/nhung-truong-duoc-khen-thuong-dot-2-giai-le-quy-don-tren-an-pham-khan-quang-do-nam-hoc-2025-2026-1012605061759064.htm) - 10:59 06/05/2026
-- 😺 [Netflix ấn định lịch chiếu series One Piece mới, kỷ niệm 25 năm ra mắt bộ truyện](https://muctim.tuoitre.vn/netflix-an-dinh-lich-chieu-series-one-piece-moi-ky-niem-25-nam-ra-mat-bo-truyen-101260506114743036.htm) - 08:28 06/05/2026
-- 😎 [Go Youn Jung, Shin Hye Sun biến hóa ra sao chỉ trong nửa đầu năm 2026?](https://muctim.tuoitre.vn/go-youn-jung-shin-hye-sun-bien-hoa-ra-sao-chi-trong-nua-dau-nam-2026-101260506104410951.htm) - 08:22 06/05/2026
-- 🐎 [20h hôm nay 6-5, xem Thép Xanh Nam Định đấu Selangor trên kênh nào?](https://muctim.tuoitre.vn/20h-hom-nay-6-5-xem-thep-xanh-nam-dinh-dau-selangor-tren-kenh-nao-101260506113155566.htm) - 08:19 06/05/2026
-- 🎓 [Lịch trực tiếp U17 châu Á 2026: Việt Nam đấu Yemen](https://muctim.tuoitre.vn/lich-truc-tiep-u17-chau-a-2026-viet-nam-dau-yemen-101260506111932025.htm) - 04:19 06/05/2026
-- 🐎 [Đón đọc Nhi Đồng TP.HCM 19, phát hành 8-5: Bông hoa nhỏ giàu lòng nhân ái](https://muctim.tuoitre.vn/don-doc-nhi-dong-tphcm-19-phat-hanh-8-5-bong-hoa-nho-giau-long-nhan-ai-101260428114608182.htm) - 04:14 06/05/2026
-- 💃 [Sổ tay Công tác Đội: Truyền tin Morse và những điều cần biết](https://muctim.tuoitre.vn/so-tay-cong-tac-doi-truyen-tin-morse-va-nhung-dieu-can-biet-101260506093429772.htm) - 02:34 06/05/2026
-- 🪜 [Bukayo Saka đưa Arsenal vào chung kết Champions League](https://muctim.tuoitre.vn/bukayo-saka-dua-arsenal-vao-chung-ket-champions-league-101260506052034886.htm) - 22:33 05/05/2026
+- 🤔 [Kết quả Chữ đẹp Nhi Đồng số 17](https://muctim.tuoitre.vn/ket-qua-chu-dep-nhi-dong-so-17-101260506205836128.htm) - 14:52 06/05/2026
+- 🥷 [BTS chạm mốc bạch kim 3 lần tại Nhật](https://muctim.tuoitre.vn/bts-cham-moc-bach-kim-3-lan-tai-nhat-10126050616124316.htm) - 14:49 06/05/2026
+- 🤖 [Trực tiếp U17 châu Á: U17 Việt Nam - U17 Yemen](https://muctim.tuoitre.vn/truc-tiep-u17-chau-a-u17-viet-nam-u17-yemen-101260506163557318.htm) - 12:35 06/05/2026
+- 🤓 [9 điều Bộ Giáo dục và Đào tạo dặn thí sinh trước khi đăng ký xét tuyển đại học](https://muctim.tuoitre.vn/9-dieu-bo-giao-duc-va-dao-tao-dan-thi-sinh-truoc-khi-dang-ky-xet-tuyen-dai-hoc-101260506181500968.htm) - 12:29 06/05/2026
+- 🎉 [Lịch sử là môn thi tốt nghiệp THPT có số thí sinh đăng ký nhiều nhất](https://muctim.tuoitre.vn/lich-su-la-mon-thi-tot-nghiep-thpt-co-so-thi-sinh-dang-ky-nhieu-nhat-101260506181757008.htm) - 12:24 06/05/2026
+- 👨‍🏫 [5 trường ở TP.HCM dự kiến tổ chức khảo sát vào lớp 6](https://muctim.tuoitre.vn/5-truong-o-tphcm-du-kien-to-chuc-khao-sat-vao-lop-6-101260506181409746.htm) - 12:19 06/05/2026
+- 🚦 [Anne Hathaway là lựa chọn thứ 9 cho vai chính trong Devil wears Prada](https://muctim.tuoitre.vn/anne-hathaway-la-lua-chon-thu-9-cho-vai-chinh-trong-devil-wears-prada-101260506144515299.htm) - 12:14 06/05/2026
+- 🤭 [U17 Việt Nam nhỉnh hơn U17 Yemen về thể hình và kinh nghiệm](https://muctim.tuoitre.vn/u17-viet-nam-nhinh-hon-u17-yemen-ve-the-hinh-va-kinh-nghiem-101260506142438761.htm) - 11:11 06/05/2026
+- 😺 [Bán kết lượt đi Shopee Cup, Thép Xanh Nam Định thua 1-2 trước Selangor](https://muctim.tuoitre.vn/truc-tiep-ban-ket-shopee-cup-selangor-thep-xanh-nam-dinh-101260506144804529.htm) - 11:08 06/05/2026
+- 😎 [Siêu máy tính dự báo gì về trận lượt về giữa Bayern Munich và PSG?](https://muctim.tuoitre.vn/sieu-may-tinh-du-bao-gi-ve-tran-luot-ve-giua-bayern-munich-va-psg-101260506145354328.htm) - 11:00 06/05/2026
+- 🐎 [Những trường được khen thưởng đợt 2 Giải Lê Quý Đôn trên ấn phẩm Khăn Quàng Đỏ năm học 2025 - 2026](https://muctim.tuoitre.vn/nhung-truong-duoc-khen-thuong-dot-2-giai-le-quy-don-tren-an-pham-khan-quang-do-nam-hoc-2025-2026-1012605061759064.htm) - 10:59 06/05/2026
+- 🎓 [Netflix ấn định lịch chiếu series One Piece mới, kỷ niệm 25 năm ra mắt bộ truyện](https://muctim.tuoitre.vn/netflix-an-dinh-lich-chieu-series-one-piece-moi-ky-niem-25-nam-ra-mat-bo-truyen-101260506114743036.htm) - 08:28 06/05/2026
+- 🐎 [Go Youn Jung, Shin Hye Sun biến hóa ra sao chỉ trong nửa đầu năm 2026?](https://muctim.tuoitre.vn/go-youn-jung-shin-hye-sun-bien-hoa-ra-sao-chi-trong-nua-dau-nam-2026-101260506104410951.htm) - 08:22 06/05/2026
+- 💃 [20h hôm nay 6-5, xem Thép Xanh Nam Định đấu Selangor trên kênh nào?](https://muctim.tuoitre.vn/20h-hom-nay-6-5-xem-thep-xanh-nam-dinh-dau-selangor-tren-kenh-nao-101260506113155566.htm) - 08:19 06/05/2026
+- 🪜 [Lịch trực tiếp U17 châu Á 2026: Việt Nam đấu Yemen](https://muctim.tuoitre.vn/lich-truc-tiep-u17-chau-a-2026-viet-nam-dau-yemen-101260506111932025.htm) - 04:19 06/05/2026
+- 🎉 [Đón đọc Nhi Đồng TP.HCM 19, phát hành 8-5: Bông hoa nhỏ giàu lòng nhân ái](https://muctim.tuoitre.vn/don-doc-nhi-dong-tphcm-19-phat-hanh-8-5-bong-hoa-nho-giau-long-nhan-ai-101260428114608182.htm) - 04:14 06/05/2026
+- 🥳 [Sổ tay Công tác Đội: Truyền tin Morse và những điều cần biết](https://muctim.tuoitre.vn/so-tay-cong-tac-doi-truyen-tin-morse-va-nhung-dieu-can-biet-101260506093429772.htm) - 02:34 06/05/2026
+- 🤓 [Bukayo Saka đưa Arsenal vào chung kết Champions League](https://muctim.tuoitre.vn/bukayo-saka-dua-arsenal-vao-chung-ket-champions-league-101260506052034886.htm) - 22:33 05/05/2026
 - 🎉 [Quỳnh Lý nói gì về vai diễn mang tên nửa kia trong phim Đại tiệc trăng máu 8?](https://muctim.tuoitre.vn/quynh-ly-noi-gi-ve-vai-dien-mang-ten-nua-kia-trong-phim-dai-tiec-trang-mau-8-101260505211532471.htm) - 15:52 05/05/2026
 - 🥳 [Lộ diện 5 anh tài đầu tiên của Anh trai vượt ngàn chông gai mùa 2, có cả hot boy làng xiếc](https://muctim.tuoitre.vn/lo-dien-5-anh-tai-dau-tien-cua-anh-trai-vuot-ngan-chong-gai-mua-2-co-ca-hot-boy-lang-xiec-101260505221131924.htm) - 15:33 05/05/2026
-- 🤓 [Siêu máy tính đoán Arsenal có gần 90% khả năng vô địch Ngoại hạng](https://muctim.tuoitre.vn/sieu-may-tinh-doan-arsenal-co-gan-90-kha-nang-vo-dich-ngoai-hang-101260505191233636.htm) - 13:56 05/05/2026
-- 🎉 [4.500 đoàn viên, thanh niên được tập huấn nâng cao năng lực số, ứng dụng trí tuệ nhân tạo](https://muctim.tuoitre.vn/4500-doan-vien-thanh-nien-duoc-tap-huan-nang-cao-nang-luc-so-ung-dung-tri-tue-nhan-tao-101260505163427849.htm) - 10:11 05/05/2026
-- 🥳 [Năm học cuối cấp, bạn chọn cách nào để không quên nhau?](https://muctim.tuoitre.vn/nam-hoc-cuoi-cap-ban-chon-cach-nao-de-khong-quen-nhau-101260429112254573.htm) - 09:54 05/05/2026
-- 🎡 [Phản ứng của 12 cung hoàng đạo khi bất ngờ nghe gọi tên lên bảng](https://muctim.tuoitre.vn/phan-ung-cua-12-cung-hoang-dao-khi-bat-ngo-nghe-goi-ten-len-bang-10126042815363562.htm) - 09:52 05/05/2026
-- 👨‍🏫 [Sân chơi Kỷ yếu 2026: Chụp ảnh với cối xay gió](https://muctim.tuoitre.vn/san-choi-ky-yeu-2026-chup-anh-voi-coi-xay-gio-101260428152158564.htm) - 09:51 05/05/2026
-- 🧠 [Hướng dẫn hô biến ảnh cá nhân thành ảnh nàng thơ](https://muctim.tuoitre.vn/huong-dan-ho-bien-anh-ca-nhan-thanh-anh-nang-tho-101260505140701642.htm) - 08:21 05/05/2026
-- 🥷 [Hôm nay 5-5, giải U17 châu Á khởi tranh: Thái Lan và  Indonesia ra quân](https://muctim.tuoitre.vn/hom-nay-5-5-giai-u17-chau-a-khoi-tranh-thai-lan-va-indonesia-ra-quan-101260505143140613.htm) - 08:08 05/05/2026
-- 🤔 [Lịch trực tiếp bán kết lượt về Champions League](https://muctim.tuoitre.vn/lich-truc-tiep-ban-ket-luot-ve-champions-league-101260505141009778.htm) - 08:04 05/05/2026
-- 🐎 [Lịch thi đấu bóng chuyền nữ Cúp VTV9 - Bình Điền 2026](https://muctim.tuoitre.vn/lich-thi-dau-bong-chuyen-nu-cup-vtv9-binh-dien-2026-101260505142107351.htm) - 07:57 05/05/2026
-- ⛽️ [U17 nữ Việt Nam đang xếp thứ mấy ở giải U17 châu Á?](https://muctim.tuoitre.vn/u17-nu-viet-nam-dang-xep-thu-may-o-giai-u17-chau-a-101260505115415976.htm) - 07:55 05/05/2026
-- 🤡 [Cặp bài trùng đình đám tái hợp trong Anh trai vượt ngàn chông gai mùa 2](https://muctim.tuoitre.vn/cap-bai-trung-dinh-dam-tai-hop-trong-anh-trai-vuot-ngan-chong-gai-mua-2-101260505122809892.htm) - 07:53 05/05/2026
-- 🌁 [85 mùa hoa: cùng Đội vươn xa, tự tin tỏa sáng](https://muctim.tuoitre.vn/85-mua-hoa-cung-doi-vuon-xa-tu-tin-toa-sang-101260505095134629.htm) - 05:05 05/05/2026
-- 🎓 [3 tác giả bộ sách Tiếng Việt giàu đẹp gợi ý cách dùng  teencode sao cho chuẩn?](https://muctim.tuoitre.vn/3-tac-gia-bo-sach-tieng-viet-giau-dep-goi-y-cach-dung-teencode-sao-cho-chuan-101260504110715173.htm) - 04:58 05/05/2026
-- 🦍 [Những kép phụ của Perfect crown quen mặt thế nào?](https://muctim.tuoitre.vn/nhung-kep-phu-cua-perfect-crown-quen-mat-the-nao-101260505105427667.htm) - 04:56 05/05/2026
-- 🤠 [5 điều cần biết về Lễ hội pháo hoa quốc tế Đà Nẵng - DIFF 2026](https://muctim.tuoitre.vn/5-dieu-can-biet-ve-le-hoi-phao-hoa-quoc-te-da-nang-diff-2026-101260505113128994.htm) - 04:51 05/05/2026
-- 🎬 [Met Gala 2026: Rihanna giữ chuỗi, Lisa xứng đáng vị trí ban tổ chức](https://muctim.tuoitre.vn/met-gala-2026-rihanna-giu-chuoi-lisa-xung-dang-vi-tri-ban-to-chuc-101260505100748788.htm) - 04:50 05/05/2026
-- 🌮 [Bảng xếp hạng Ngoại hạng Anh vòng 35: Arsenal hơn Man City 5 điểm](https://muctim.tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-35-arsenal-hon-man-city-5-diem-101260505091749419.htm) - 02:17 05/05/2026
-- 👹 [Arsenal đấu Atletico Madrid: Tấm vé đến Budapest gọi tên ai?](https://muctim.tuoitre.vn/arsenal-dau-atletico-madrid-tam-ve-den-budapest-goi-ten-ai-101260504222148671.htm) - 01:13 05/05/2026
-- 🤔 [Kỷ lục buồn của Chelsea tại giải Ngoại hạng Anh](https://muctim.tuoitre.vn/ky-luc-buon-cua-chelsea-tai-giai-ngoai-hang-anh-101260504235709427.htm) - 00:34 05/05/2026
-- 🏊 [3 nữ sinh Trường THPT Nguyễn Văn Tăng được kết nạp Đảng ở tuổi 18](https://muctim.tuoitre.vn/3-nu-sinh-truong-thpt-nguyen-van-tang-duoc-ket-nap-dang-o-tuoi-18-101260504225228952.htm) - 16:10 04/05/2026
-- 📝 [Lịch thi đấu chung kết bóng đá Hội thi Thể dục Thể thao học sinh TP.HCM năm học 2025 - 2026](https://muctim.tuoitre.vn/lich-thi-dau-chung-ket-bong-da-hoi-thi-the-duc-the-thao-hoc-sinh-tphcm-nam-hoc-2025-2026-101260504192529636.htm) - 13:44 04/05/2026
-- 👺 [Hội đồng Đội Trung ương công bố Giải thưởng Cánh én hồng và Kim Đồng năm 2026](https://muctim.tuoitre.vn/hoi-dong-doi-trung-uong-cong-bo-giai-thuong-canh-en-hong-va-kim-dong-nam-2026-101260504192810082.htm) - 13:30 04/05/2026
-- 👹 [Danh sách 320 học sinh được khen thưởng đợt 2 Giải Lê Quý Đôn trên ấn phẩm Nhi Đồng TP.HCM](https://muctim.tuoitre.vn/danh-sach-320-hoc-sinh-duoc-khen-thuong-dot-2-giai-le-quy-don-tren-an-pham-nhi-dong-tphcm-101260504194419061.htm) - 12:44 04/05/2026
-- 🎊 [Hàng loạt nhóm nữ K-pop đình đám cùng tái xuất trong tháng 5](https://muctim.tuoitre.vn/hang-loat-nhom-nu-k-pop-dinh-dam-cung-tai-xuat-trong-thang-5-101260504171505914.htm) - 12:13 04/05/2026
-- 👹 [Sổ tay Công tác Đội: Dấu đường là gì, cách đặt dấu đường ra sao](https://muctim.tuoitre.vn/so-tay-cong-tac-doi-dau-duong-la-gi-cach-dat-dau-duong-ra-sao-101260504191132003.htm) - 12:11 04/05/2026
-- 🎃 [U17 nữ Thái Lan thắng 1-0 Myanmar, đẩy U17 nữ Việt Nam xuống hạng 3](https://muctim.tuoitre.vn/u17-nu-thai-lan-thang-1-0-myanmar-day-u17-nu-viet-nam-xuong-hang-3-10126050418071364.htm) - 11:45 04/05/2026
-- 🧑‍🏫 [U17 nữ Trung Quốc chơi áp đảo, thắng U17 nữ Việt Nam 3-0](https://muctim.tuoitre.vn/truc-tiep-u17-nu-chau-a-u17-nu-viet-nam-u17-nu-trung-quoc-101260504164639808.htm) - 10:02 04/05/2026
-- 🎊 [Tỉ lệ chọi lớp 10 TP.HCM năm 2026: THPT Bùi Thị Xuân cao nhất](https://muctim.tuoitre.vn/ti-le-choi-lop-10-tphcm-nam-2026-thpt-bui-thi-xuan-cao-nhat-101260504164606502.htm) - 10:00 04/05/2026
-- 📝 [TP.HCM công bố số liệu thí sinh đăng ký nguyện vọng 1 lớp 10](https://muctim.tuoitre.vn/tphcm-cong-bo-so-lieu-thi-sinh-dang-ky-nguyen-vong-1-lop-10-101260504141726843.htm) - 07:23 04/05/2026
-- 🥳 [Bảng xếp hạng V-League 1 vòng 21: Công An Hà Nội tiến sát ngôi vương](https://muctim.tuoitre.vn/bang-xep-hang-v-league-1-vong-21-cong-an-ha-noi-tien-sat-ngoi-vuong-101260504121216905.htm) - 05:58 04/05/2026
-- 💻 [Bạn đã biết cách tạo ảnh bước ra từ Facebook bằng ChatGPT chưa?](https://muctim.tuoitre.vn/ban-da-biet-cach-tao-anh-buoc-ra-tu-facebook-bang-chatgpt-chua-101260504103806445.htm) - 05:09 04/05/2026
-- 😎 [Khám phá nghệ thuật tranh kiếng Nam Bộ tại triển lãm ‘Nam Sử Họa Kiếng’](https://muctim.tuoitre.vn/kham-pha-nghe-thuat-tranh-kieng-nam-bo-tai-trien-lam-nam-su-hoa-kieng-101260504100801611.htm) - 04:26 04/05/2026
-- 🤭 [Gương mặt Con ngoan trò giỏi: Cô bạn lớp trưởng siêu nhân](https://muctim.tuoitre.vn/guong-mat-con-ngoan-tro-gioi-co-ban-lop-truong-sieu-nhan-10126042810525567.htm) - 03:20 04/05/2026
-- 🤩 [Tỉ lệ chọi lớp 10 ảnh hưởng thế nào đến điểm chuẩn?](https://muctim.tuoitre.vn/ti-le-choi-lop-10-anh-huong-the-nao-den-diem-chuan-101260503222845505.htm) - 03:19 04/05/2026
-- 🚀 [Park Bo Young tươi sáng gây sốc khi trở lại với Gold land](https://muctim.tuoitre.vn/park-bo-young-tuoi-sang-gay-soc-khi-tro-lai-voi-gold-land-101260503161826778.htm) - 03:08 04/05/2026
-- 🕴 [Chelsea đấu Nottingham Forest: Chiến đấu vì tấm vé dự Champions League](https://muctim.tuoitre.vn/chelsea-dau-nottingham-forest-chien-dau-vi-tam-ve-du-champions-league-101260503203816934.htm) - 02:54 04/05/2026
-- ⛽️ [Man City đấu Everton: Ai có thể ngăn cản Man City?](https://muctim.tuoitre.vn/man-city-dau-everton-ai-co-the-ngan-can-man-city-101260503213953788.htm) - 02:51 04/05/2026
-- 🧐 [Cách đăng ký thi và xét tuyển vào Trường Phổ thông Năng khiếu](https://muctim.tuoitre.vn/cach-dang-ky-thi-va-xet-tuyen-vao-truong-pho-thong-nang-khieu-101260504092135712.htm) - 02:48 04/05/2026
-- 🦆 [Đón đọc Khăn Quàng Đỏ 18, phát hành 6-5: Những vườn ươm đặc biệt của thiếu nhi thành phố](https://muctim.tuoitre.vn/don-doc-khan-quang-do-18-phat-hanh-6-5-nhung-vuon-uom-dac-biet-cua-thieu-nhi-thanh-pho-101260428113207042.htm) - 01:20 04/05/2026
-- 🤖 [Real Madrid vẫn chưa để Barcelona vô địch La Liga](https://muctim.tuoitre.vn/real-madrid-van-chua-de-barcelona-vo-dich-la-liga-101260504042949369.htm) - 00:42 04/05/2026
-- 💃 [18h30 hôm nay 4-5, U17 nữ Việt Nam đấu U17 nữ Trung Quốc](https://muctim.tuoitre.vn/18h30-hom-nay-4-5-u17-nu-viet-nam-dau-u17-nu-trung-quoc-101260503224056601.htm) - 00:40 04/05/2026
-- 🚀 [Kết quả vòng 35 Serie A: Inter Milan vô địch, AC Milan thua sốc, Juventus chia điểm](https://muctim.tuoitre.vn/ket-qua-vong-35-serie-a-inter-milan-vo-dich-ac-milan-thua-soc-juventus-chia-diem-101260504023748229.htm) - 00:36 04/05/2026
-- 🦍 [Tottenham thoát khỏi nhóm xuống hạng sau trận thắng Aston Villa](https://muctim.tuoitre.vn/tottenham-thoat-khoi-nhom-xuong-hang-sau-tran-thang-aston-villa-101260504064932833.htm) - 00:35 04/05/2026<!-- muctim:END -->
+- 🎡 [Siêu máy tính đoán Arsenal có gần 90% khả năng vô địch Ngoại hạng](https://muctim.tuoitre.vn/sieu-may-tinh-doan-arsenal-co-gan-90-kha-nang-vo-dich-ngoai-hang-101260505191233636.htm) - 13:56 05/05/2026
+- 👨‍🏫 [4.500 đoàn viên, thanh niên được tập huấn nâng cao năng lực số, ứng dụng trí tuệ nhân tạo](https://muctim.tuoitre.vn/4500-doan-vien-thanh-nien-duoc-tap-huan-nang-cao-nang-luc-so-ung-dung-tri-tue-nhan-tao-101260505163427849.htm) - 10:11 05/05/2026
+- 🧠 [Năm học cuối cấp, bạn chọn cách nào để không quên nhau?](https://muctim.tuoitre.vn/nam-hoc-cuoi-cap-ban-chon-cach-nao-de-khong-quen-nhau-101260429112254573.htm) - 09:54 05/05/2026
+- 🥷 [Phản ứng của 12 cung hoàng đạo khi bất ngờ nghe gọi tên lên bảng](https://muctim.tuoitre.vn/phan-ung-cua-12-cung-hoang-dao-khi-bat-ngo-nghe-goi-ten-len-bang-10126042815363562.htm) - 09:52 05/05/2026
+- 🤔 [Sân chơi Kỷ yếu 2026: Chụp ảnh với cối xay gió](https://muctim.tuoitre.vn/san-choi-ky-yeu-2026-chup-anh-voi-coi-xay-gio-101260428152158564.htm) - 09:51 05/05/2026
+- 🐎 [Hướng dẫn hô biến ảnh cá nhân thành ảnh nàng thơ](https://muctim.tuoitre.vn/huong-dan-ho-bien-anh-ca-nhan-thanh-anh-nang-tho-101260505140701642.htm) - 08:21 05/05/2026
+- ⛽️ [Hôm nay 5-5, giải U17 châu Á khởi tranh: Thái Lan và  Indonesia ra quân](https://muctim.tuoitre.vn/hom-nay-5-5-giai-u17-chau-a-khoi-tranh-thai-lan-va-indonesia-ra-quan-101260505143140613.htm) - 08:08 05/05/2026
+- 🤡 [Lịch trực tiếp bán kết lượt về Champions League](https://muctim.tuoitre.vn/lich-truc-tiep-ban-ket-luot-ve-champions-league-101260505141009778.htm) - 08:04 05/05/2026
+- 🌁 [Lịch thi đấu bóng chuyền nữ Cúp VTV9 - Bình Điền 2026](https://muctim.tuoitre.vn/lich-thi-dau-bong-chuyen-nu-cup-vtv9-binh-dien-2026-101260505142107351.htm) - 07:57 05/05/2026
+- 🎓 [U17 nữ Việt Nam đang xếp thứ mấy ở giải U17 châu Á?](https://muctim.tuoitre.vn/u17-nu-viet-nam-dang-xep-thu-may-o-giai-u17-chau-a-101260505115415976.htm) - 07:55 05/05/2026
+- 🦍 [Cặp bài trùng đình đám tái hợp trong Anh trai vượt ngàn chông gai mùa 2](https://muctim.tuoitre.vn/cap-bai-trung-dinh-dam-tai-hop-trong-anh-trai-vuot-ngan-chong-gai-mua-2-101260505122809892.htm) - 07:53 05/05/2026
+- 🤠 [85 mùa hoa: cùng Đội vươn xa, tự tin tỏa sáng](https://muctim.tuoitre.vn/85-mua-hoa-cung-doi-vuon-xa-tu-tin-toa-sang-101260505095134629.htm) - 05:05 05/05/2026
+- 🎬 [3 tác giả bộ sách Tiếng Việt giàu đẹp gợi ý cách dùng  teencode sao cho chuẩn?](https://muctim.tuoitre.vn/3-tac-gia-bo-sach-tieng-viet-giau-dep-goi-y-cach-dung-teencode-sao-cho-chuan-101260504110715173.htm) - 04:58 05/05/2026
+- 🌮 [Những kép phụ của Perfect crown quen mặt thế nào?](https://muctim.tuoitre.vn/nhung-kep-phu-cua-perfect-crown-quen-mat-the-nao-101260505105427667.htm) - 04:56 05/05/2026
+- 👹 [5 điều cần biết về Lễ hội pháo hoa quốc tế Đà Nẵng - DIFF 2026](https://muctim.tuoitre.vn/5-dieu-can-biet-ve-le-hoi-phao-hoa-quoc-te-da-nang-diff-2026-101260505113128994.htm) - 04:51 05/05/2026
+- 🤔 [Met Gala 2026: Rihanna giữ chuỗi, Lisa xứng đáng vị trí ban tổ chức](https://muctim.tuoitre.vn/met-gala-2026-rihanna-giu-chuoi-lisa-xung-dang-vi-tri-ban-to-chuc-101260505100748788.htm) - 04:50 05/05/2026
+- 🏊 [Bảng xếp hạng Ngoại hạng Anh vòng 35: Arsenal hơn Man City 5 điểm](https://muctim.tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-35-arsenal-hon-man-city-5-diem-101260505091749419.htm) - 02:17 05/05/2026
+- 📝 [Arsenal đấu Atletico Madrid: Tấm vé đến Budapest gọi tên ai?](https://muctim.tuoitre.vn/arsenal-dau-atletico-madrid-tam-ve-den-budapest-goi-ten-ai-101260504222148671.htm) - 01:13 05/05/2026
+- 👺 [Kỷ lục buồn của Chelsea tại giải Ngoại hạng Anh](https://muctim.tuoitre.vn/ky-luc-buon-cua-chelsea-tai-giai-ngoai-hang-anh-101260504235709427.htm) - 00:34 05/05/2026
+- 👹 [3 nữ sinh Trường THPT Nguyễn Văn Tăng được kết nạp Đảng ở tuổi 18](https://muctim.tuoitre.vn/3-nu-sinh-truong-thpt-nguyen-van-tang-duoc-ket-nap-dang-o-tuoi-18-101260504225228952.htm) - 16:10 04/05/2026
+- 🎊 [Lịch thi đấu chung kết bóng đá Hội thi Thể dục Thể thao học sinh TP.HCM năm học 2025 - 2026](https://muctim.tuoitre.vn/lich-thi-dau-chung-ket-bong-da-hoi-thi-the-duc-the-thao-hoc-sinh-tphcm-nam-hoc-2025-2026-101260504192529636.htm) - 13:44 04/05/2026
+- 👹 [Hội đồng Đội Trung ương công bố Giải thưởng Cánh én hồng và Kim Đồng năm 2026](https://muctim.tuoitre.vn/hoi-dong-doi-trung-uong-cong-bo-giai-thuong-canh-en-hong-va-kim-dong-nam-2026-101260504192810082.htm) - 13:30 04/05/2026
+- 🎃 [Danh sách 320 học sinh được khen thưởng đợt 2 Giải Lê Quý Đôn trên ấn phẩm Nhi Đồng TP.HCM](https://muctim.tuoitre.vn/danh-sach-320-hoc-sinh-duoc-khen-thuong-dot-2-giai-le-quy-don-tren-an-pham-nhi-dong-tphcm-101260504194419061.htm) - 12:44 04/05/2026
+- 🧑‍🏫 [Hàng loạt nhóm nữ K-pop đình đám cùng tái xuất trong tháng 5](https://muctim.tuoitre.vn/hang-loat-nhom-nu-k-pop-dinh-dam-cung-tai-xuat-trong-thang-5-101260504171505914.htm) - 12:13 04/05/2026
+- 🎊 [Sổ tay Công tác Đội: Dấu đường là gì, cách đặt dấu đường ra sao](https://muctim.tuoitre.vn/so-tay-cong-tac-doi-dau-duong-la-gi-cach-dat-dau-duong-ra-sao-101260504191132003.htm) - 12:11 04/05/2026
+- 📝 [U17 nữ Thái Lan thắng 1-0 Myanmar, đẩy U17 nữ Việt Nam xuống hạng 3](https://muctim.tuoitre.vn/u17-nu-thai-lan-thang-1-0-myanmar-day-u17-nu-viet-nam-xuong-hang-3-10126050418071364.htm) - 11:45 04/05/2026
+- 🥳 [U17 nữ Trung Quốc chơi áp đảo, thắng U17 nữ Việt Nam 3-0](https://muctim.tuoitre.vn/truc-tiep-u17-nu-chau-a-u17-nu-viet-nam-u17-nu-trung-quoc-101260504164639808.htm) - 10:02 04/05/2026
+- 💻 [Tỉ lệ chọi lớp 10 TP.HCM năm 2026: THPT Bùi Thị Xuân cao nhất](https://muctim.tuoitre.vn/ti-le-choi-lop-10-tphcm-nam-2026-thpt-bui-thi-xuan-cao-nhat-101260504164606502.htm) - 10:00 04/05/2026
+- 😎 [TP.HCM công bố số liệu thí sinh đăng ký nguyện vọng 1 lớp 10](https://muctim.tuoitre.vn/tphcm-cong-bo-so-lieu-thi-sinh-dang-ky-nguyen-vong-1-lop-10-101260504141726843.htm) - 07:23 04/05/2026
+- 🤭 [Bảng xếp hạng V-League 1 vòng 21: Công An Hà Nội tiến sát ngôi vương](https://muctim.tuoitre.vn/bang-xep-hang-v-league-1-vong-21-cong-an-ha-noi-tien-sat-ngoi-vuong-101260504121216905.htm) - 05:58 04/05/2026
+- 🤩 [Bạn đã biết cách tạo ảnh bước ra từ Facebook bằng ChatGPT chưa?](https://muctim.tuoitre.vn/ban-da-biet-cach-tao-anh-buoc-ra-tu-facebook-bang-chatgpt-chua-101260504103806445.htm) - 05:09 04/05/2026
+- 🚀 [Khám phá nghệ thuật tranh kiếng Nam Bộ tại triển lãm ‘Nam Sử Họa Kiếng’](https://muctim.tuoitre.vn/kham-pha-nghe-thuat-tranh-kieng-nam-bo-tai-trien-lam-nam-su-hoa-kieng-101260504100801611.htm) - 04:26 04/05/2026
+- 🕴 [Gương mặt Con ngoan trò giỏi: Cô bạn lớp trưởng siêu nhân](https://muctim.tuoitre.vn/guong-mat-con-ngoan-tro-gioi-co-ban-lop-truong-sieu-nhan-10126042810525567.htm) - 03:20 04/05/2026
+- ⛽️ [Tỉ lệ chọi lớp 10 ảnh hưởng thế nào đến điểm chuẩn?](https://muctim.tuoitre.vn/ti-le-choi-lop-10-anh-huong-the-nao-den-diem-chuan-101260503222845505.htm) - 03:19 04/05/2026
+- 🧐 [Park Bo Young tươi sáng gây sốc khi trở lại với Gold land](https://muctim.tuoitre.vn/park-bo-young-tuoi-sang-gay-soc-khi-tro-lai-voi-gold-land-101260503161826778.htm) - 03:08 04/05/2026
+- 🦆 [Chelsea đấu Nottingham Forest: Chiến đấu vì tấm vé dự Champions League](https://muctim.tuoitre.vn/chelsea-dau-nottingham-forest-chien-dau-vi-tam-ve-du-champions-league-101260503203816934.htm) - 02:54 04/05/2026
+- 🤖 [Man City đấu Everton: Ai có thể ngăn cản Man City?](https://muctim.tuoitre.vn/man-city-dau-everton-ai-co-the-ngan-can-man-city-101260503213953788.htm) - 02:51 04/05/2026
+- 💃 [Cách đăng ký thi và xét tuyển vào Trường Phổ thông Năng khiếu](https://muctim.tuoitre.vn/cach-dang-ky-thi-va-xet-tuyen-vao-truong-pho-thong-nang-khieu-101260504092135712.htm) - 02:48 04/05/2026
+- 🚀 [Đón đọc Khăn Quàng Đỏ 18, phát hành 6-5: Những vườn ươm đặc biệt của thiếu nhi thành phố](https://muctim.tuoitre.vn/don-doc-khan-quang-do-18-phat-hanh-6-5-nhung-vuon-uom-dac-biet-cua-thieu-nhi-thanh-pho-101260428113207042.htm) - 01:20 04/05/2026
+- 🦍 [Real Madrid vẫn chưa để Barcelona vô địch La Liga](https://muctim.tuoitre.vn/real-madrid-van-chua-de-barcelona-vo-dich-la-liga-101260504042949369.htm) - 00:42 04/05/2026<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
