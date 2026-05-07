@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Lâm Đồng sơ kết mô hình chính quyền 2 cấp: Nêu rõ khó khăn, vướng mắc](https://vov.vn/chinh-tri/lam-dong-so-ket-mo-hinh-chinh-quyen-2-cap-neu-ro-kho-khan-vuong-mac-post1289443.vov) - 23:00 06/05/2026
-- 💃 [Đưa quan hệ Việt Nam - Sri Lanka phát triển thực chất hơn trong giai đoạn mới](https://vov.vn/chinh-tri/dua-quan-he-viet-nam-sri-lanka-phat-trien-thuc-chat-hon-trong-giai-doan-moi-post1289541.vov) - 23:00 06/05/2026
-- 🫶 [“Chính phủ linh hoạt” - chìa khóa để thích ứng bối cảnh biến động](https://vov.vn/chinh-tri/chinh-phu-linh-hoat-chia-khoa-de-thich-ung-boi-canh-bien-dong-post1289498.vov) - 23:00 06/05/2026
-- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo Hội Hữu nghị Ấn Độ - Việt Nam](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-hoi-huu-nghi-an-do-viet-nam-post1289678.vov) - 22:44 06/05/2026
-- 🪜 [Ông Nguyễn Duy Ngọc làm việc với cơ quan định danh số UIDAI của Ấn Độ](https://vov.vn/chinh-tri/ong-nguyen-duy-ngoc-lam-viec-voi-co-quan-dinh-danh-so-uidai-cua-an-do-post1289670.vov) - 22:30 06/05/2026
-- 🌋 [Ngã ba Cò Nòi - từ “yết hầu” tuyến lửa đến địa chỉ đỏ truyền thống cách mạng](https://vov.vn/chinh-tri/nga-ba-co-noi-tu-yet-hau-tuyen-lua-den-dia-chi-do-truyen-thong-cach-mang-post1289425.vov) - 22:20 06/05/2026
-- 🎉 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Tổng thống Ấn Độ Murmu](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-tong-thong-an-do-murmu-post1289669.vov) - 22:12 06/05/2026
-- 🌝 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Hội đồng các vấn đề thế giới của Ấn Độ](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-hoi-dong-cac-van-de-the-gioi-cua-an-do-post1289644.vov) - 15:11 06/05/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng các không gian hợp tác mới về KHCN](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-cac-khong-gian-hop-tac-moi-ve-khcn-post1289636.vov) - 14:14 06/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm chứng kiến Lễ trao các văn kiện hợp tác Việt Nam - Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chung-kien-le-trao-cac-van-kien-hop-tac-viet-nam-an-do-post1289621.vov) - 13:00 06/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Điện Biên Phủ - ký ức hào hùng còn mãi](https://vov.vn/chinh-tri/dien-bien-phu-ky-uc-hao-hung-con-mai-post1289773.vov) - 04:43 07/05/2026
+- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm rời New Delhi đi thăm Mumbai](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-roi-new-delhi-di-tham-mumbai-post1289734.vov) - 03:54 07/05/2026
+- 🫶 [Đoàn kiểm tra, giám sát của Bộ Chính trị làm việc với Viện KSND tối cao](https://vov.vn/chinh-tri/doan-kiem-tra-giam-sat-cua-bo-chinh-tri-lam-viec-voi-vien-ksnd-toi-cao-post1289747.vov) - 03:47 07/05/2026
+- 👨‍🏫 [&amp;quot;Chuyến công tác của Thủ tướng Lê Minh Hưng có ý nghĩa đặc biệt quan trọng&amp;quot;](https://vov.vn/chinh-tri/chuyen-cong-tac-cua-thu-tuong-le-minh-hung-co-y-nghia-dac-biet-quan-trong-post1289727.vov) - 03:31 07/05/2026
+- 🪜 [Ban Bí thư chỉ định bổ sung 2 nhân sự Ban Chấp hành Đảng bộ tỉnh Điện Biên](https://vov.vn/chinh-tri/ban-bi-thu-chi-dinh-bo-sung-2-nhan-su-ban-chap-hanh-dang-bo-tinh-dien-bien-post1289709.vov) - 02:05 07/05/2026
+- 🌋 [Tổng thống Ấn Độ chủ trì tiệc chiêu đãi Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/tong-thong-an-do-chu-tri-tiec-chieu-dai-tong-bi-thu-chu-tich-nuoc-to-lam-post1289703.vov) - 01:46 07/05/2026
+- 🎉 [Thủ tướng Lê Minh Hưng lên đường dự Hội nghị Cấp cao ASEAN tại Philippines](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-len-duong-du-hoi-nghi-cap-cao-asean-tai-philippines-post1289700.vov) - 01:34 07/05/2026
+- 🌝 [Việt Nam - Sri Lanka: Xây đắp mối quan hệ hữu nghị trên nền tảng giá trị chung](https://vov.vn/chinh-tri/viet-nam-sri-lanka-xay-dap-moi-quan-he-huu-nghi-tren-nen-tang-gia-tri-chung-post1289612.vov) - 01:10 07/05/2026
+- 🏊 [TP.HCM triển khai Đề án 700 nâng cao năng lực cán bộ cấp xã](https://vov.vn/chinh-tri/tphcm-trien-khai-de-an-700-nang-cao-nang-luc-can-bo-cap-xa-post1289520.vov) - 23:40 06/05/2026
+- 🧑‍💻 [Hưng Yên nhận diện &amp;quot;rào cản&amp;quot; để người dân tiếp cận chuyển đổi số hiệu quả](https://vov.vn/chinh-tri/hung-yen-nhan-dien-rao-can-de-nguoi-dan-tiep-can-chuyen-doi-so-hieu-qua-post1289542.vov) - 23:30 06/05/2026<!-- vov-chinh-tri:END -->
