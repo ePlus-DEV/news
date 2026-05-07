@@ -717,17 +717,17 @@ tại Sàn Giao dịch Chứng khoán Quốc gia Ấn Độ](https://nld.com.vn/
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Kỳ thi tốt nghiệp THPT 2026: Hơn 1,22 triệu thí sinh, 98,45% đăng ký trực tuyến](https://vov.vn/xa-hoi/ky-thi-tot-nghiep-thpt-2026-hon-122-trieu-thi-sinh-9845-dang-ky-truc-tuyen-post1289343.vov) - 22:31 05/05/2026
-- 🕯 [Nóng 24h ngày 6/5: Ông chủ Lounge Gas Remix bị tạm giữ vì buôn bán bóng cười](https://vov.vn/phap-luat/nong-24h-ngay-65-ong-chu-lounge-gas-remix-bi-tam-giu-vi-buon-ban-bong-cuoi-post1289271.vov) - 22:30 05/05/2026
-- 🌊 [Phối hợp công - tư để nâng cao hiệu quả chính sách công](https://vov.vn/chinh-tri/phoi-hop-cong-tu-de-nang-cao-hieu-qua-chinh-sach-cong-post1288912.vov) - 22:30 05/05/2026
-- 🥷 [Vận hành mô hình chính quyền địa phương 2 cấp ở Đặc khu Phú Quý vẫn còn lúng túng](https://vov.vn/chinh-tri/van-hanh-mo-hinh-chinh-quyen-dia-phuong-2-cap-o-dac-khu-phu-quy-van-con-lung-tung-post1289209.vov) - 22:20 05/05/2026
-- 🎡 [Mỹ bác bỏ cáo buộc đang phong tỏa dầu với Cuba](https://vov.vn/the-gioi/my-bac-bo-cao-buoc-dang-phong-toa-dau-voi-cuba-post1289355.vov) - 22:19 05/05/2026
-- 🚀 [Giá vàng hôm nay 6/5: Vàng SJC ổn định ở mức 165 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-65-vang-sjc-on-dinh-o-muc-165-trieu-dongluong-post1289257.vov) - 22:10 05/05/2026
-- 🔥 [Giá xăng dầu hôm nay 6/5: Giá dầu vẫn neo cao khi Mỹ – Iran đối đầu ở Hormuz](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-65-gia-dau-van-neo-cao-khi-my-iran-doi-dau-o-hormuz-post1289263.vov) - 22:00 05/05/2026
-- 🌋 [Kết quả bóng đá hôm nay 6/5: Arsenal thắng Atletico, vào chung kết Cúp C1 châu Âu](https://vov.vn/the-thao/ket-qua-bong-da-hom-nay-65-arsenal-thang-atletico-vao-chung-ket-cup-c1-chau-au-post1289198.vov) - 20:55 05/05/2026
-- 🕴 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Cố vấn An ninh Quốc gia Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-co-van-an-ninh-quoc-gia-an-do-post1289341.vov) - 16:36 05/05/2026
-- 🥰 [Bộ trưởng Quốc phòng Mỹ: Mọi mối đe dọa từ Iran đều được theo dõi, xử lý kịp thời](https://vov.vn/the-gioi/bo-truong-quoc-phong-my-moi-moi-de-doa-tu-iran-deu-duoc-theo-doi-xu-ly-kip-thoi-post1289340.vov) - 16:20 05/05/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Người Việt tại Ấn Độ là “Đại sứ nhân dân”](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-nguoi-viet-tai-an-do-la-dai-su-nhan-dan-post1289334.vov) - 15:33 05/05/2026<!-- vov:END -->
+- 🌜 [Iran đưa ra quy định mới đối với tàu thuyền qua eo biển Hormuz](https://vov.vn/the-gioi/iran-dua-ra-quy-dinh-moi-doi-voi-tau-thuyen-qua-eo-bien-hormuz-post1289973.vov) - 14:46 07/05/2026
+- 🕯 [“Tổ quốc ơi, ta mãi yêu người”: Khúc hát về Trường Sa từ trái tim người lính](https://vov.vn/van-hoa/am-nhac/to-quoc-oi-ta-mai-yeu-nguoi-khuc-hat-ve-truong-sa-tu-trai-tim-nguoi-linh-post1289962.vov) - 14:04 07/05/2026
+- 🌊 [Kết quả U17 nữ châu Á 2026 hôm nay 7/5: U17 Việt Nam vào tứ kết](https://vov.vn/the-thao/ket-qua-u17-nu-chau-a-2026-hom-nay-75-u17-viet-nam-vao-tu-ket-post1289757.vov) - 13:25 07/05/2026
+- 🥷 [Kết quả U17 nữ châu Á 2026 hôm nay 7/5: U17 Việt Nam vào tứ kết](https://vov.vn/the-thao/ket-qua-u17-nu-chau-a-2026-hom-nay-75-u17-viet-nam-vao-tu-ket-post1289757.vov) - 13:25 07/05/2026
+- 🎡 [Thủ tướng Lê Minh Hưng gặp lãnh đạo các nước, tổ chức quốc tế](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-gap-lanh-dao-cac-nuoc-to-chuc-quoc-te-post1289960.vov) - 13:21 07/05/2026
+- 🚀 [Tổng Bí thư, Chủ tịch nước chứng kiến lễ trao thỏa thuận hợp tác Việt Nam - Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chung-kien-le-trao-thoa-thuan-hop-tac-viet-nam-an-do-post1289956.vov) - 12:58 07/05/2026
+- 🔥 [Tổng Bí thư, Chủ tịch nước chứng kiến lễ trao thỏa thuận hợp tác Việt Nam - Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chung-kien-le-trao-thoa-thuan-hop-tac-viet-nam-an-do-post1289956.vov) - 12:58 07/05/2026
+- 🌋 [TP.HCM tính toán chỗ buôn bán cho người dân khi dẹp vỉa hè](https://vov.vn/kinh-te/tphcm-tinh-toan-cho-buon-ban-cho-nguoi-dan-khi-dep-via-he-post1289952.vov) - 12:23 07/05/2026
+- 🕴 [Phẫn nộ clip người phụ nữ ở biển Thịnh Long gom nước dừa khách uống thừa bán lại](https://vov.vn/xa-hoi/phan-no-clip-nguoi-phu-nu-o-bien-thinh-long-gom-nuoc-dua-khach-uong-thua-ban-lai-post1289898.vov) - 12:21 07/05/2026
+- 🥰 [Cử tri phản ánh tình trạng doanh nghiệp thiếu năng lực nhưng cố tình &amp;quot;ôm&amp;quot; đất](https://vov.vn/chinh-tri/cu-tri-phan-anh-tinh-trang-doanh-nghiep-thieu-nang-luc-nhung-co-tinh-om-dat-post1289827.vov) - 12:21 07/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước: Hợp tác Việt Nam - Ấn Độ cần nâng lên tầm cao mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-hop-tac-viet-nam-an-do-can-nang-len-tam-cao-moi-post1289941.vov) - 11:59 07/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
