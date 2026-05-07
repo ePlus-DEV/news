@@ -4,53 +4,53 @@ sidebar_position: 8
 ---
 
 <!-- nld-suc-khoe:START -->
-- 🥷 [Mở rộng dư địa khám, chữa bệnh](https://nld.com.vn/mo-rong-du-dia-kham-chua-benh-196260505191951532.htm) - 18:00 05/05/2026
-- 🧐 [Cách nấu những món ăn thực dưỡng giúp bật &quot;công tắc sinh học&quot;](https://nld.com.vn/cach-nau-nhung-mon-an-thuc-duong-giup-bat-cong-tac-sinh-hoc-196260505194056582.htm) - 15:37 05/05/2026
-- 🧑‍💻 [Người dân TPHCM sắp có “hồ sơ sức khỏe số” riêng có thể tra cứu bệnh án trong vài giây](https://nld.com.vn/nguoi-dan-tphcm-sap-co-ho-so-suc-khoe-so-rieng-co-the-tra-cuu-benh-an-trong-vai-giay-196260505162334125.htm) - 11:18 05/05/2026
-- 😺 [Cân não cứu người đàn ông thủng tim, từng bị bỏng nặng 60% cơ thể](https://nld.com.vn/can-nao-cuu-nguoi-dan-ong-thung-tim-tung-bi-bong-nang-60-co-the-196260505154237721.htm) - 11:16 05/05/2026
-- 😎 [Bé trai 2 tuổi bị mẹ và người tình bạo hành đã qua cơn nguy kịch nhưng tiên lượng vẫn dè dặt](https://nld.com.vn/be-trai-2-tuoi-bi-me-va-nguoi-tinh-bao-hanh-da-qua-con-nguy-kich-nhung-tien-luong-van-de-dat-196260505174300401.htm) - 11:03 05/05/2026
-- 🐻 [Bữa ăn thực dưỡng “3 không” vẫn khiến người ăn “wow”](https://nld.com.vn/bua-an-thuc-duong-3-khong-van-khien-nguoi-an-wow-196260505163100129.htm) - 10:24 05/05/2026
-- 🤖 [Chàng trai 18 tuổi ngưng tim khi chơi thể thao, xuất viện sau 86 ngày &quot;chiến đấu&quot;](https://nld.com.vn/chang-trai-18-tuoi-ngung-tim-khi-choi-the-thao-xuat-vien-sau-86-ngay-chien-dau-196260505161521815.htm) - 10:12 05/05/2026
-- 🦅 [Ghép tế bào gốc cứu người mẹ trẻ mắc ung thư hiếm](https://nld.com.vn/ghep-te-bao-goc-cuu-nguoi-me-tre-mac-ung-thu-hiem-196260505160842861.htm) - 09:44 05/05/2026
-- 🏊 [Bác sĩ tại Cần Thơ dùng máy cắt cứu người đàn ông ở An Giang gặp nạn vì “nâng cấp dương vật&quot;](https://nld.com.vn/bac-si-tai-can-tho-dung-may-cat-cuu-nguoi-dan-ong-o-an-giang-gap-nan-vi-nang-cap-duong-vat-196260505162122251.htm) - 09:25 05/05/2026
-- 🌮 [Quyết định chính xác của bác sĩ giúp chuyến bay Hà Nội - Paris không phải hạ cánh khẩn cấp](https://nld.com.vn/quyet-dinh-chinh-xac-cua-bac-si-giup-chuyen-bay-ha-noi-paris-khong-phai-ha-canh-khan-cap-196260505150323149.htm) - 09:04 05/05/2026
-- 💃 [Ăn ve sầu, nhiều người nhập viện](https://nld.com.vn/an-ve-sau-nhieu-nguoi-nhap-vien-196260505151437087.htm) - 08:30 05/05/2026
-- 🤔 [Lý do 63 học sinh ở Cà Mau nhập viện sau khi dùng suất ăn miễn phí](https://nld.com.vn/ly-do-63-hoc-sinh-o-ca-mau-nhap-vien-sau-khi-dung-suat-an-mien-phi-196260505121259844.htm) - 06:44 05/05/2026
-- 👍 [Bộ Y tế cảnh báo virus Hanta sau chùm ca tử vong trên tàu du lịch ở Nam Đại Tây Dương](https://nld.com.vn/bo-y-te-canh-bao-virus-hanta-sau-chum-ca-tu-vong-tren-tau-du-lich-o-nam-dai-tay-duong-19626050511230185.htm) - 05:07 05/05/2026
-- 🧰 [Tìm thân nhân người đàn ông 50 tuổi đang nguy kịch tại bệnh viện](https://nld.com.vn/tim-than-nhan-nguoi-dan-ong-50-tuoi-dang-nguy-kich-tai-benh-vien-196260505112430979.htm) - 04:48 05/05/2026
-- 🌝 [Đi bộ xuống cầu thang mang lại hiệu quả bất ngờ](https://nld.com.vn/di-bo-xuong-cau-thang-mang-lai-hieu-qua-bat-ngo-196260505105701334.htm) - 04:04 05/05/2026
-- 💄 [Từ 15-5, trốn đóng BHYT có thể bị phạt đến 70 triệu đồng](https://nld.com.vn/tu-15-5-tron-dong-bhyt-co-the-bi-phat-den-70-trieu-dong-196260505082516617.htm) - 01:51 05/05/2026
-- 💃 [Rà soát, thu hồi 3 lô sữa a2 Platinum Premium cho trẻ nhỏ](https://nld.com.vn/ra-soat-thu-hoi-3-lo-sua-a2-platinum-premium-cho-tre-nho-196260504231730902.htm) - 22:24 04/05/2026
-- 🌋 [Lãnh đạo Bộ Y tế nói về thời điểm Bệnh viện Bạch Mai và Việt Đức cơ sở 2 đi vào hoạt động](https://nld.com.vn/lanh-dao-bo-y-te-noi-ve-thoi-diem-benh-vien-bach-mai-va-viet-duc-co-so-2-di-vao-hoat-dong-196260504195924029.htm) - 13:20 04/05/2026
-- 💯 [Thông tin từ bệnh viện về sức khỏe người phụ nữ sau khi được gần 20 người nâng xe buýt cứu](https://nld.com.vn/thong-tin-tu-benh-vien-ve-suc-khoe-nguoi-phu-nu-sau-khi-duoc-gan-20-nguoi-nang-xe-buyt-cuu-196260504155056577.htm) - 09:12 04/05/2026
-- 🕯 [Não mô cầu tấn công trẻ nhỏ, cảnh báo nguy cơ tử vong nhanh](https://nld.com.vn/nao-mo-cau-tan-cong-tre-nho-canh-bao-nguy-co-tu-vong-nhanh-196260504152720451.htm) - 08:48 04/05/2026
-- 📝 [Từ 1-7, Bộ Y tế dừng cấp giấy phép, chứng chỉ hành nghề khám chữa bệnh](https://nld.com.vn/tu-1-7-bo-y-te-dung-cap-giay-phep-chung-chi-hanh-nghe-kham-chua-benh-196260504153212344.htm) - 08:41 04/05/2026
-- ⚗️ [Căng chỉ làm đẹp, cô gái phải lấy dị vật dưới da](https://nld.com.vn/cang-chi-lam-dep-co-gai-phai-lay-di-vat-duoi-da-19626050410205266.htm) - 06:00 04/05/2026
-- 💄 [TPHCM: Số người mắc bệnh giang mai tăng đột biến](https://nld.com.vn/tphcm-so-nguoi-mac-benh-giang-mai-tang-dot-bien-196260504100148479.htm) - 04:36 04/05/2026
-- 💪 [Làm điều này, sức bền khi tập thể dục tăng gần 20%](https://nld.com.vn/lam-dieu-nay-suc-ben-khi-tap-the-duc-tang-gan-20-196260504103905767.htm) - 04:16 04/05/2026
-- 👍 [Uống thuốc bổ vô tội vạ, thói quen bào mòn lá gan của người Việt](https://nld.com.vn/uong-thuoc-bo-vo-toi-va-thoi-quen-bao-mon-la-gan-cua-nguoi-viet-196260504091600741.htm) - 03:27 04/05/2026
-- 🧠 [Bất ngờ tại Bệnh viện Chợ Rẫy: Một loại tai nạn tăng hơn 42% trong 4 ngày nghỉ lễ](https://nld.com.vn/bat-ngo-tai-benh-vien-cho-ray-mot-loai-tai-nan-tang-hon-42-trong-4-ngay-nghi-le-196260504094820606.htm) - 03:18 04/05/2026
-- 💯 [&quot;Mở khóa&quot; khớp vai bằng bài tập đơn giản](https://nld.com.vn/mo-khoa-khop-vai-bang-bai-tap-don-gian-196260503205951868.htm) - 02:19 04/05/2026
-- 🔥 [NGƯỜI THẦY THUỐC TRONG TÔI: Lặng thầm níu giữ sự sống](https://nld.com.vn/nguoi-thay-thuoc-trong-toi-lang-tham-niu-giu-su-song-196260503211708669.htm) - 23:00 03/05/2026
-- 🐻 [Tiếp tục bãi bỏ hạn chế sinh con thứ ba nhằm duy trì mức sinh thay thế](https://nld.com.vn/tiep-tuc-bai-bo-han-che-sinh-con-thu-ba-nham-duy-tri-muc-sinh-thay-the-196260503220922099.htm) - 22:26 03/05/2026
-- 🦍 [Dùng chất cấm sản xuất giò chả heo, bị xử phạt 62,5 triệu đồng](https://nld.com.vn/dung-chat-cam-san-xuat-gio-cha-heo-bi-xu-phat-625-trieu-dong-196260503121419867.htm) - 07:27 03/05/2026
-- 🕴 [Uống cạn ly bia, người đàn ông nuốt luôn nắp chai bia vào bụng](https://nld.com.vn/uong-can-ly-bia-nguoi-dan-ong-nuot-luon-nap-chai-bia-vao-bung-196260503125423847.htm) - 05:59 03/05/2026
-- 🥳 [Trực thăng đưa 2 bệnh nhân từ Trường Sa Lớn về đất liền cấp cứu](https://nld.com.vn/truc-thang-dua-2-benh-nhan-tu-truong-sa-lon-ve-dat-lien-cap-cuu-196260503110847499.htm) - 04:20 03/05/2026
-- ⛽️ [Đột phá: Thiết bị in 3D phát tín hiệu giống hệt tế bào não người](https://nld.com.vn/dot-pha-thiet-bi-in-3d-phat-tin-hieu-giong-het-te-bao-nao-nguoi-196260503100707201.htm) - 03:29 03/05/2026
-- 🐲 [Hành trình trực thăng EC225 bay cấp cứu 2 bệnh nhân ở Trường Sa](https://nld.com.vn/hanh-trinh-truc-thang-ec225-bay-cap-cuu-2-benh-nhan-o-truong-sa-196260503094444736.htm) - 02:49 03/05/2026
-- 🎉 [Bé 3 tuổi đuối nước ở bể bơi khi đi du lịch](https://nld.com.vn/be-3-tuoi-duoi-nuoc-o-be-boi-khi-di-du-lich-196260503082304375.htm) - 01:30 03/05/2026
-- 🤡 [Bệnh viện Mắt TPHCM tiếp nhận cơ sở mới, giảm quá tải](https://nld.com.vn/benh-vien-mat-tphcm-tiep-nhan-co-so-moi-giam-qua-tai-196260503064932776.htm) - 01:22 03/05/2026
-- 🚀 [Khám, cấp cứu hơn 171.500 lượt người bệnh trong kỳ nghỉ lễ](https://nld.com.vn/kham-cap-cuu-hon-171500-luot-nguoi-benh-trong-ky-nghi-le-196260502232209684.htm) - 00:03 03/05/2026
-- 💄 [Người phụ nữ quê Đồng Tháp &quot;thả like&quot; sau khi được cứu sống tại Cần Thơ](https://nld.com.vn/nguoi-phu-nu-que-dong-thap-tha-like-sau-khi-duoc-cuu-song-tai-can-tho-196260502114526685.htm) - 04:46 02/05/2026
-- 🌊 [Hai phút làm điều này, bệnh tiểu đường - tim mạch lui bước](https://nld.com.vn/hai-phut-lam-dieu-nay-benh-tieu-duong-tim-mach-lui-buoc-196260502094206944.htm) - 02:50 02/05/2026
-- 🌁 [Bị mèo nhà cắn, người phụ nữ nguy kịch](https://nld.com.vn/bi-meo-nha-can-nguoi-phu-nu-nguy-kich-19626050208505148.htm) - 02:08 02/05/2026
-- 🐲 [Siết quản lý bệnh nhân tâm thần: Đề xuất cửa 3 lớp, camera giám sát 24/7](https://nld.com.vn/siet-quan-ly-benh-nhan-tam-than-de-xuat-cua-3-lop-camera-giam-sat-24-7-196260501175740876.htm) - 23:00 01/05/2026
-- 🥰 [46 người nhập viện nghi ngộ độc sau khi ăn bánh mì](https://nld.com.vn/46-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-19626050118171842.htm) - 11:42 01/05/2026
-- 🏊 [Gia Lai ghi nhận ca mắc “vi khuẩn ăn thịt người” đầu tiên năm 2026](https://nld.com.vn/gia-lai-ghi-nhan-ca-mac-vi-khuan-an-thit-nguoi-dau-tien-nam-2026-19626050118220585.htm) - 11:28 01/05/2026
-- 🌊 [Phương pháp mới giúp cơ thể tự diệt được ung thư](https://nld.com.vn/phuong-phap-moi-giup-co-the-tu-diet-duoc-ung-thu-196260501104555336.htm) - 04:58 01/05/2026
-- 🤗 [Vui lễ quá đà, nguy cơ viêm gan cận kề](https://nld.com.vn/vui-le-qua-da-nguy-co-viem-gan-can-ke-196260501101546791.htm) - 04:06 01/05/2026
-- 🤡 [Nhổ răng khôn có được BHYT chi trả?](https://nld.com.vn/nho-rang-khon-co-duoc-bhyt-chi-tra-196260501094752203.htm) - 03:04 01/05/2026
-- 💯 [Phút sinh tử: Bác sĩ níu lại sự sống cho bé trai 10 tuổi](https://nld.com.vn/phut-sinh-tu-bac-si-niu-lai-su-song-cho-be-trai-10-tuoi-196260501093838332.htm) - 03:02 01/05/2026
-- 🪜 [Cô gái thoát cơn tim đập dồn dập nhờ sóng cao tần](https://nld.com.vn/co-gai-thoat-con-tim-dap-don-dap-nho-song-cao-tan-196260501094932121.htm) - 02:55 01/05/2026
-- 🦏 [Sốt xuất huyết, tay chân miệng tăng trong tháng 4](https://nld.com.vn/sot-xuat-huyet-tay-chan-mieng-tang-trong-thang-4-196260430215450911.htm) - 00:22 01/05/2026
-- 🚦 [Bỏ qua dấu hiệu cảnh báo, người đàn ông 33 tuổi phải cắt bỏ tinh hoàn](https://nld.com.vn/bo-qua-dau-hieu-canh-bao-nguoi-dan-ong-33-tuoi-phai-cat-bo-tinh-hoan-196260430094236915.htm) - 04:51 30/04/2026<!-- nld-suc-khoe:END -->
+- 🥷 [Ngại nói &quot;vùng kín&quot;, bé trai 14 suýt hoại tử tinh hoàn sau 7 giờ chịu đau](https://nld.com.vn/ngai-noi-vung-kin-be-trai-14-suyt-hoai-tu-tinh-hoan-sau-7-gio-chiu-dau-196260507103148666.htm) - 03:49 07/05/2026
+- 🧐 [Thiền nắng, tắm trăng: Những liệu pháp chữa lành không nằm trong tủ thuốc](https://nld.com.vn/thien-nang-tam-trang-nhung-lieu-phap-chua-lanh-khong-nam-trong-tu-thuoc-196260506162116183.htm) - 03:48 07/05/2026
+- 🧑‍💻 [Tìm thân nhân một phụ nữ bị ngất xỉu, được người đi đường đưa vào bệnh viện cấp cứu](https://nld.com.vn/tim-than-nhan-mot-phu-nu-bi-ngat-xiu-duoc-nguoi-di-duong-dua-vao-benh-vien-cap-cuu-196260507102529877.htm) - 03:37 07/05/2026
+- 😺 [Người đàn ông ở An Giang gặp nạn vì “nâng cấp” dương vật, bác sĩ chỉ ra những nguy cơ](https://nld.com.vn/nguoi-dan-ong-o-an-giang-gap-nan-vi-nang-cap-duong-vat-bac-si-chi-ra-nhung-nguy-co-196260507100011445.htm) - 03:20 07/05/2026
+- 😎 [Bất ngờ với hình ảnh trước cổng Bệnh viện Đa khoa Thủ Đức TPHCM](https://nld.com.vn/bat-ngo-voi-hinh-anh-truoc-cong-benh-vien-da-khoa-thu-duc-tphcm-196260507095011266.htm) - 03:02 07/05/2026
+- 🐻 [Bác sĩ kê đơn thuốc khó đọc, thiếu thông tin có thể bị phạt](https://nld.com.vn/bac-si-ke-don-thuoc-kho-doc-thieu-thong-tin-co-the-bi-phat-196260506222235739.htm) - 01:23 07/05/2026
+- 🤖 [Đừng để hè vui qua mau, nỗi đau ở lại](https://nld.com.vn/dung-de-he-vui-qua-mau-noi-dau-o-lai-196260506194829701.htm) - 00:00 07/05/2026
+- 🦅 [Nhiều loại thuốc đắt sắp được BHYT chi trả](https://nld.com.vn/nhieu-loai-thuoc-dat-sap-duoc-bhyt-chi-tra-196260506194651448.htm) - 23:54 06/05/2026
+- 🏊 [Bộ Y tế vào cuộc vụ bé trai 2 tuổi bị bạo hành ở TPHCM](https://nld.com.vn/bo-y-te-vao-cuoc-vu-be-trai-2-tuoi-bi-bao-hanh-o-tphcm-196260506192612976.htm) - 12:39 06/05/2026
+- 🌮 [Chính thức triển khai khám sức khỏe miễn phí toàn dân](https://nld.com.vn/chinh-thuc-trien-khai-kham-suc-khoe-mien-phi-toan-dan-196260506181924006.htm) - 11:54 06/05/2026
+- 💃 [Bổ sung nhiều thuốc ung thư vào danh mục BHYT](https://nld.com.vn/bo-sung-nhieu-thuoc-ung-thu-vao-danh-muc-bhyt-196260506172320311.htm) - 10:30 06/05/2026
+- 🤔 [Bán thuốc không đơn, kinh doanh mỹ phẩm sai quy định: Hàng loạt cơ sở bị xử phạt](https://nld.com.vn/ban-thuoc-khong-don-kinh-doanh-my-pham-sai-quy-dinh-hang-loat-co-so-bi-xu-phat-196260506155612998.htm) - 09:14 06/05/2026
+- 👍 [CLIP: Người đàn ông gặp nạn vì “nâng cấp dương vật” đã xuất viện](https://nld.com.vn/clip-nguoi-dan-ong-gap-nan-vi-nang-cap-duong-vat-da-xuat-vien-196260506123607674.htm) - 08:24 06/05/2026
+- 🧰 [Thông tin mới nhất về sức khỏe bé trai 2 tuổi bị mẹ và người tình bạo hành](https://nld.com.vn/thong-tin-moi-nhat-ve-suc-khoe-be-trai-2-tuoi-bi-me-va-nguoi-tinh-bao-hanh-196260506120125878.htm) - 06:17 06/05/2026
+- 🌝 [Lỡ ăn nhiều tinh bột, hãy làm điều này 2 phút](https://nld.com.vn/lo-an-nhieu-tinh-bot-hay-lam-dieu-nay-2-phut-196260506102153725.htm) - 03:38 06/05/2026
+- 💄 [Bệnh nhân người Nga tự đi lại sau mổ u não 7 ngày](https://nld.com.vn/benh-nhan-nguoi-nga-tu-di-lai-sau-mo-u-nao-7-ngay-19626050518392682.htm) - 00:30 06/05/2026
+- 💃 [Mở rộng dư địa khám, chữa bệnh](https://nld.com.vn/mo-rong-du-dia-kham-chua-benh-196260505191951532.htm) - 18:00 05/05/2026
+- 🌋 [Cách nấu những món ăn thực dưỡng giúp bật &quot;công tắc sinh học&quot;](https://nld.com.vn/cach-nau-nhung-mon-an-thuc-duong-giup-bat-cong-tac-sinh-hoc-196260505194056582.htm) - 15:37 05/05/2026
+- 💯 [Người dân TPHCM sắp có “hồ sơ sức khỏe số” riêng có thể tra cứu bệnh án trong vài giây](https://nld.com.vn/nguoi-dan-tphcm-sap-co-ho-so-suc-khoe-so-rieng-co-the-tra-cuu-benh-an-trong-vai-giay-196260505162334125.htm) - 11:18 05/05/2026
+- 🕯 [Cân não cứu người đàn ông thủng tim, từng bị bỏng nặng 60% cơ thể](https://nld.com.vn/can-nao-cuu-nguoi-dan-ong-thung-tim-tung-bi-bong-nang-60-co-the-196260505154237721.htm) - 11:16 05/05/2026
+- 📝 [Bé trai 2 tuổi bị mẹ và người tình bạo hành đã qua cơn nguy kịch nhưng tiên lượng vẫn dè dặt](https://nld.com.vn/be-trai-2-tuoi-bi-me-va-nguoi-tinh-bao-hanh-da-qua-con-nguy-kich-nhung-tien-luong-van-de-dat-196260505174300401.htm) - 11:03 05/05/2026
+- ⚗️ [Bữa ăn thực dưỡng “3 không” vẫn khiến người ăn “wow”](https://nld.com.vn/bua-an-thuc-duong-3-khong-van-khien-nguoi-an-wow-196260505163100129.htm) - 10:24 05/05/2026
+- 💄 [Chàng trai 18 tuổi ngưng tim khi chơi thể thao, xuất viện sau 86 ngày &quot;chiến đấu&quot;](https://nld.com.vn/chang-trai-18-tuoi-ngung-tim-khi-choi-the-thao-xuat-vien-sau-86-ngay-chien-dau-196260505161521815.htm) - 10:12 05/05/2026
+- 💪 [Ghép tế bào gốc cứu người mẹ trẻ mắc ung thư hiếm](https://nld.com.vn/ghep-te-bao-goc-cuu-nguoi-me-tre-mac-ung-thu-hiem-196260505160842861.htm) - 09:44 05/05/2026
+- 👍 [Bác sĩ tại Cần Thơ dùng máy cắt cứu người đàn ông ở An Giang gặp nạn vì “nâng cấp dương vật&quot;](https://nld.com.vn/bac-si-tai-can-tho-dung-may-cat-cuu-nguoi-dan-ong-o-an-giang-gap-nan-vi-nang-cap-duong-vat-196260505162122251.htm) - 09:25 05/05/2026
+- 🧠 [Quyết định chính xác của bác sĩ giúp chuyến bay Hà Nội - Paris không phải hạ cánh khẩn cấp](https://nld.com.vn/quyet-dinh-chinh-xac-cua-bac-si-giup-chuyen-bay-ha-noi-paris-khong-phai-ha-canh-khan-cap-196260505150323149.htm) - 09:04 05/05/2026
+- 💯 [Ăn ve sầu, nhiều người nhập viện](https://nld.com.vn/an-ve-sau-nhieu-nguoi-nhap-vien-196260505151437087.htm) - 08:30 05/05/2026
+- 🔥 [Lý do 63 học sinh ở Cà Mau nhập viện sau khi dùng suất ăn miễn phí](https://nld.com.vn/ly-do-63-hoc-sinh-o-ca-mau-nhap-vien-sau-khi-dung-suat-an-mien-phi-196260505121259844.htm) - 06:44 05/05/2026
+- 🐻 [Bộ Y tế cảnh báo virus Hanta sau chùm ca tử vong trên tàu du lịch ở Nam Đại Tây Dương](https://nld.com.vn/bo-y-te-canh-bao-virus-hanta-sau-chum-ca-tu-vong-tren-tau-du-lich-o-nam-dai-tay-duong-19626050511230185.htm) - 05:07 05/05/2026
+- 🦍 [Tìm thân nhân người đàn ông 50 tuổi đang nguy kịch tại bệnh viện](https://nld.com.vn/tim-than-nhan-nguoi-dan-ong-50-tuoi-dang-nguy-kich-tai-benh-vien-196260505112430979.htm) - 04:48 05/05/2026
+- 🕴 [Đi bộ xuống cầu thang mang lại hiệu quả bất ngờ](https://nld.com.vn/di-bo-xuong-cau-thang-mang-lai-hieu-qua-bat-ngo-196260505105701334.htm) - 04:04 05/05/2026
+- 🥳 [Từ 15-5, trốn đóng BHYT có thể bị phạt đến 70 triệu đồng](https://nld.com.vn/tu-15-5-tron-dong-bhyt-co-the-bi-phat-den-70-trieu-dong-196260505082516617.htm) - 01:51 05/05/2026
+- ⛽️ [Rà soát, thu hồi 3 lô sữa a2 Platinum Premium cho trẻ nhỏ](https://nld.com.vn/ra-soat-thu-hoi-3-lo-sua-a2-platinum-premium-cho-tre-nho-196260504231730902.htm) - 22:24 04/05/2026
+- 🐲 [Lãnh đạo Bộ Y tế nói về thời điểm Bệnh viện Bạch Mai và Việt Đức cơ sở 2 đi vào hoạt động](https://nld.com.vn/lanh-dao-bo-y-te-noi-ve-thoi-diem-benh-vien-bach-mai-va-viet-duc-co-so-2-di-vao-hoat-dong-196260504195924029.htm) - 13:20 04/05/2026
+- 🎉 [Thông tin từ bệnh viện về sức khỏe người phụ nữ sau khi được gần 20 người nâng xe buýt cứu](https://nld.com.vn/thong-tin-tu-benh-vien-ve-suc-khoe-nguoi-phu-nu-sau-khi-duoc-gan-20-nguoi-nang-xe-buyt-cuu-196260504155056577.htm) - 09:12 04/05/2026
+- 🤡 [Não mô cầu tấn công trẻ nhỏ, cảnh báo nguy cơ tử vong nhanh](https://nld.com.vn/nao-mo-cau-tan-cong-tre-nho-canh-bao-nguy-co-tu-vong-nhanh-196260504152720451.htm) - 08:48 04/05/2026
+- 🚀 [Từ 1-7, Bộ Y tế dừng cấp giấy phép, chứng chỉ hành nghề khám chữa bệnh](https://nld.com.vn/tu-1-7-bo-y-te-dung-cap-giay-phep-chung-chi-hanh-nghe-kham-chua-benh-196260504153212344.htm) - 08:41 04/05/2026
+- 💄 [Căng chỉ làm đẹp, cô gái phải lấy dị vật dưới da](https://nld.com.vn/cang-chi-lam-dep-co-gai-phai-lay-di-vat-duoi-da-19626050410205266.htm) - 06:00 04/05/2026
+- 🌊 [TPHCM: Số người mắc bệnh giang mai tăng đột biến](https://nld.com.vn/tphcm-so-nguoi-mac-benh-giang-mai-tang-dot-bien-196260504100148479.htm) - 04:36 04/05/2026
+- 🌁 [Làm điều này, sức bền khi tập thể dục tăng gần 20%](https://nld.com.vn/lam-dieu-nay-suc-ben-khi-tap-the-duc-tang-gan-20-196260504103905767.htm) - 04:16 04/05/2026
+- 🐲 [Uống thuốc bổ vô tội vạ, thói quen bào mòn lá gan của người Việt](https://nld.com.vn/uong-thuoc-bo-vo-toi-va-thoi-quen-bao-mon-la-gan-cua-nguoi-viet-196260504091600741.htm) - 03:27 04/05/2026
+- 🥰 [Bất ngờ tại Bệnh viện Chợ Rẫy: Một loại tai nạn tăng hơn 42% trong 4 ngày nghỉ lễ](https://nld.com.vn/bat-ngo-tai-benh-vien-cho-ray-mot-loai-tai-nan-tang-hon-42-trong-4-ngay-nghi-le-196260504094820606.htm) - 03:18 04/05/2026
+- 🏊 [&quot;Mở khóa&quot; khớp vai bằng bài tập đơn giản](https://nld.com.vn/mo-khoa-khop-vai-bang-bai-tap-don-gian-196260503205951868.htm) - 02:19 04/05/2026
+- 🌊 [NGƯỜI THẦY THUỐC TRONG TÔI: Lặng thầm níu giữ sự sống](https://nld.com.vn/nguoi-thay-thuoc-trong-toi-lang-tham-niu-giu-su-song-196260503211708669.htm) - 23:00 03/05/2026
+- 🤗 [Tiếp tục bãi bỏ hạn chế sinh con thứ ba nhằm duy trì mức sinh thay thế](https://nld.com.vn/tiep-tuc-bai-bo-han-che-sinh-con-thu-ba-nham-duy-tri-muc-sinh-thay-the-196260503220922099.htm) - 22:26 03/05/2026
+- 🤡 [Dùng chất cấm sản xuất giò chả heo, bị xử phạt 62,5 triệu đồng](https://nld.com.vn/dung-chat-cam-san-xuat-gio-cha-heo-bi-xu-phat-625-trieu-dong-196260503121419867.htm) - 07:27 03/05/2026
+- 💯 [Uống cạn ly bia, người đàn ông nuốt luôn nắp chai bia vào bụng](https://nld.com.vn/uong-can-ly-bia-nguoi-dan-ong-nuot-luon-nap-chai-bia-vao-bung-196260503125423847.htm) - 05:59 03/05/2026
+- 🪜 [Trực thăng đưa 2 bệnh nhân từ Trường Sa Lớn về đất liền cấp cứu](https://nld.com.vn/truc-thang-dua-2-benh-nhan-tu-truong-sa-lon-ve-dat-lien-cap-cuu-196260503110847499.htm) - 04:20 03/05/2026
+- 🦏 [Đột phá: Thiết bị in 3D phát tín hiệu giống hệt tế bào não người](https://nld.com.vn/dot-pha-thiet-bi-in-3d-phat-tin-hieu-giong-het-te-bao-nao-nguoi-196260503100707201.htm) - 03:29 03/05/2026
+- 🚦 [Hành trình trực thăng EC225 bay cấp cứu 2 bệnh nhân ở Trường Sa](https://nld.com.vn/hanh-trinh-truc-thang-ec225-bay-cap-cuu-2-benh-nhan-o-truong-sa-196260503094444736.htm) - 02:49 03/05/2026<!-- nld-suc-khoe:END -->
