@@ -4,53 +4,53 @@ sidebar_position: 15
 ---
 
 <!-- nld-du-lich-xanh:START -->
-- 💻 [Rác thải, dầu hắc ở bãi biển Vũng Tàu, Sở Du lịch TPHCM nói gì?](https://nld.com.vn/rac-thai-dau-hac-o-bai-bien-vung-tau-so-du-lich-tphcm-noi-gi-196260504215615217.htm) - 15:00 04/05/2026
-- 🌊 [Tây Ninh bùng nổ du lịch dịp lễ, doanh thu gần 170 tỉ đồng](https://nld.com.vn/tay-ninh-bung-no-du-lich-dip-le-doanh-thu-gan-170-ti-dong-196260504103443842.htm) - 03:53 04/05/2026
-- 👹 [Du lịch bội thu dịp nghỉ lễ](https://nld.com.vn/du-lich-boi-thu-dip-nghi-le-196260503214115125.htm) - 21:10 03/05/2026
-- 🚀 [Ninh Bình đón hơn 2,7 triệu lượt khách dịp nghỉ Giỗ Tổ Hùng Vương, 30-4 và 1-5](https://nld.com.vn/ninh-binh-don-hon-27-trieu-luot-khach-dip-nghi-gio-to-hung-vuong-30-4-va-1-5-196260503160103833.htm) - 13:14 03/05/2026
-- 👀 [Đà Nẵng “bội thu” 5.700 tỉ đồng, đón hơn 1,46 triệu lượt khách dịp lễ](https://nld.com.vn/da-nang-boi-thu-5700-ti-dong-don-hon-146-trieu-luot-khach-dip-le-196260503173430575.htm) - 11:11 03/05/2026
-- 💫 [Khách đổ về TPHCM dịp lễ, doanh thu du lịch chạm 8.700 tỉ đồng](https://nld.com.vn/khach-do-ve-tphcm-dip-le-doanh-thu-du-lich-cham-8700-ti-dong-196260503172037643.htm) - 10:39 03/05/2026
-- 🥷 [Một phường ở Thanh Hóa đón hơn 1 triệu khách du lịch trong kỳ nghỉ lễ](https://nld.com.vn/mot-phuong-o-thanh-hoa-don-hon-1-trieu-khach-du-lich-trong-ky-nghi-le-196260503163850107.htm) - 10:15 03/05/2026
-- 🌝 [Du lịch Khánh Hòa đón 1,5 triệu khách tham quan, nghỉ dưỡng](https://nld.com.vn/du-lich-khanh-hoa-don-15-trieu-khach-tham-quan-nghi-duong-196260503152853565.htm) - 09:33 03/05/2026
-- 🚀 [Người dân ùn ùn trở lại TPHCM sau lễ, giá vé máy bay từ Hà Nội vào Nam cao ngang dịp Tết](https://nld.com.vn/nguoi-dan-un-un-tro-lai-tphcm-sau-le-gia-ve-may-bay-tu-ha-noi-vao-nam-cao-ngang-dip-tet-196260503113656181.htm) - 05:27 03/05/2026
-- 💪 [Xác minh thông tin khách sạn “chặt chém” du khách, bia Heineken 900.000 đồng/thùng](https://nld.com.vn/xac-minh-thong-tin-khach-san-chat-chem-du-khach-bia-heineken-900000-dong-thung-196260503100403013.htm) - 03:35 03/05/2026
-- 🌁 [VIDEO: TPHCM đánh thức tiềm năng du lịch qua chương trình thực cảnh độc đáo](https://nld.com.vn/video-tphcm-danh-thuc-tiem-nang-du-lich-qua-chuong-trinh-thuc-canh-doc-dao-196260502231358755.htm) - 00:49 03/05/2026
-- 🪄 [Núi Bà Đen rực sáng đêm dâng đăng, hút hàng ngàn du khách dịp Lễ 30-4 và 1-5](https://nld.com.vn/nui-ba-den-ruc-sang-dem-dang-dang-hut-hang-ngan-du-khach-dip-le-30-4-va-1-5-196260502205905722.htm) - 00:41 03/05/2026
-- 🚀 [Nha Trang làm việc với người bán kem 100.000 đồng/cây cho du khách Thái Lan](https://nld.com.vn/nha-trang-lam-viec-voi-nguoi-ban-kem-100000-dong-cay-cho-du-khach-thai-lan-196260502153942555.htm) - 08:53 02/05/2026
-- 🎃 [Tây Ninh đón hơn 300.000 lượt khách dịp lễ, Núi Bà Đen tiếp tục “hút khách”](https://nld.com.vn/tay-ninh-don-hon-300000-luot-khach-dip-lenui-ba-dentiep-tuc-hut-khach-196260502134538828.htm) - 07:13 02/05/2026
-- 🤗 [VIDEO: Thưởng thức miễn phí nho hữu cơ giữa lòng làng hoa Sa Đéc](https://nld.com.vn/video-thuong-thuc-mien-phi-nho-huu-co-giua-long-lang-hoa-sa-dec-196260502130344493.htm) - 06:53 02/05/2026
-- 💼 [VIDEO: Hấp dẫn “vòng quay bánh xèo” không dùng dầu mỡ ở Cà Mau](https://nld.com.vn/video-hap-dan-vong-quay-banh-xeo-khong-dung-dau-mo-o-ca-mau-196260502123622985.htm) - 05:38 02/05/2026
-- 🔥 [CLIP: Từ sân bay trực thăng lên đỉnh Bàn Cờ, gần 300 người đi bộ vì Sơn Trà](https://nld.com.vn/clip-tu-san-bay-truc-thang-len-dinh-ban-co-gan-300-nguoi-di-bo-vi-son-tra-196260502103724739.htm) - 05:15 02/05/2026
-- 🔭 [Dịp lễ 30-4, 1-5: Gigamall kín khách, giới trẻ đổ xô &quot;check-in&quot; khu giải trí công nghệ Gigaversal](https://nld.com.vn/dip-le-30-4-1-5-gigamall-kin-khach-gioi-tre-do-xo-check-in-khu-giai-tri-cong-nghe-gigaversal-196260501205444631.htm) - 01:03 02/05/2026
-- 🚦 [VIDEO: Độc đáo hình ảnh 300 vận động viên tham gia giải leo ruộng bậc thang](https://nld.com.vn/video-doc-dao-hinh-anh-300-van-dong-vien-tham-gia-giai-leo-ruong-bac-thang-196260501213729422.htm) - 21:22 01/05/2026
-- 🌊 [2 ngày đầu kỳ nghỉ lễ, du lịch Quảng Ninh đạt doanh thu 1.860 tỉ đồng](https://nld.com.vn/2-ngay-dau-ky-nghi-le-du-lich-quang-ninh-dat-doanh-thu-1860-ti-dong-19626050121321905.htm) - 21:21 01/05/2026
-- 🤔 [Công an thông tin về vụ việc hóa đơn bữa ăn gần 18 triệu đồng ở Sầm Sơn](https://nld.com.vn/cong-an-thong-tin-ve-vu-viec-hoa-don-bua-an-gan-18-trieu-dong-o-sam-son-196260501201013115.htm) - 13:19 01/05/2026
-- 🤠 [VIDEO: Hàng ngàn khán giả phủ kín Rạp Xiếc và Biểu diễn đa năng Phú Thọ dịp lễ 30-4 và 1-5](https://nld.com.vn/video-hang-ngan-khan-gia-phu-kin-rap-xiec-phu-tho-dip-le-30-4-va-1-5-196260501154641885.htm) - 11:00 01/05/2026
-- 🐘 [Khám phá Địa đạo An Thới - “thành trì trong lòng đất” ở Tây Ninh](https://nld.com.vn/kham-phadia-dao-an-thoi-thanh-tri-trong-long-dat-o-tay-ninh-196260501164301607.htm) - 10:37 01/05/2026
-- 🦒 [Đặc sản níu chân du khách, chợ Cồn kín lối đi](https://nld.com.vn/dac-san-niu-chan-du-khach-cho-con-kin-loi-di-196260501125705952.htm) - 07:12 01/05/2026
-- 👺 [Carnaval Hạ Long 2026: Vũ hội đường phố bên bờ di sản](https://nld.com.vn/carnaval-ha-long-2026-vu-hoi-duong-pho-ben-bo-di-san-196260430230931785.htm) - 22:11 30/04/2026
-- 🎉 [VIDEO: Biển Sầm Sơn ken đặc khách ngày đầu nghỉ lễ 30-4, 1-5](https://nld.com.vn/video-bien-sam-son-ken-dac-khach-ngay-dau-nghi-le-30-4-1-5-196260430192851877.htm) - 12:55 30/04/2026
-- 🌁 [Mới 18 giờ, nhiều khách sạn, du thuyền ở TPHCM đã kín chỗ xem pháo hoa](https://nld.com.vn/moi-18-gio-nhieu-khach-san-du-thuyen-o-tphcm-da-kin-cho-xem-phao-hoa-196260430181149608.htm) - 11:48 30/04/2026
-- 🤗 [Hình ảnh chen chân chinh phục Núi Bà Đen](https://nld.com.vn/hinh-anh-chen-chan-chinh-phuc-nui-ba-den-19626043017385264.htm) - 11:13 30/04/2026
-- 🧑‍💻 [Ô tô, xe máy xếp hàng dài cả cây số chờ qua phà ra Cát Bà](https://nld.com.vn/o-to-xe-may-xep-hang-dai-ca-cay-so-cho-qua-pha-ra-cat-ba-196260430165755256.htm) - 10:17 30/04/2026
-- 🐵 [Núi Bà Đen ra thông báo quan trọng, du khách cần hết sức lưu ý](https://nld.com.vn/nui-ba-den-ra-thong-bao-quan-trong-du-khach-can-het-suc-luu-y-196260430161033998.htm) - 09:45 30/04/2026
-- 😺 [CLIP: Cứu hộ biển Đà Nẵng so tài cùng lực lượng quốc tế](https://nld.com.vn/clip-cuu-ho-bien-da-nang-so-tai-cung-luc-luong-quoc-te-196260430132810064.htm) - 07:55 30/04/2026
-- 🌝 [Có gì trong &quot;bữa tiệc vua&quot; với giá 1,7 triệu đồng/người?](https://nld.com.vn/co-gi-trong-bua-tiec-vua-voi-gia-17-trieu-dong-nguoi-196260430102259362.htm) - 05:47 30/04/2026
-- 🔭 [Khai trương khu nghỉ dưỡng quy mô lớn chuẩn quốc tế tại TPHCM](https://nld.com.vn/khai-truong-khu-nghi-duong-chuan-quoc-te-tai-tphcm-196260430112406459.htm) - 04:48 30/04/2026
-- 💼 [Foodtour Hà Nội kỳ nghỉ lễ, thưởng thức 5 món phở &quot;phiên bản lạ&quot; ngon miệng](https://nld.com.vn/foodtour-ha-noi-ky-nghi-le-thuong-thuc-5-mon-pho-phien-ban-la-ngon-mieng-196260430091539162.htm) - 02:15 30/04/2026
-- 💯 [Gần 1.500 chuyến bay đến Đà Nẵng trong 9 ngày dịp lễ](https://nld.com.vn/gan-1500-chuyen-bay-den-da-nang-trong-9-ngay-dip-le-196260429144953985.htm) - 08:08 29/04/2026
-- 🥰 [Saigontourist Group nhận Huân chương Lao động hạng Nhất](https://nld.com.vn/saigontourist-group-nhan-huan-chuong-lao-dong-hang-nhat-196260429142730574.htm) - 08:02 29/04/2026
-- 🤡 [Trong 3 ngày, du lịch Lâm Đồng thu về 768 tỉ đồng](https://nld.com.vn/trong-3-ngay-du-lich-lam-dong-thu-ve-768-ti-dong-196260428145952291.htm) - 08:28 28/04/2026
-- 🚀 [Khách Tây thử món mát lạnh, giòn sần sật ở vỉa hè Hà Nội, khen ngon khó tin](https://nld.com.vn/khach-tay-thu-mon-mat-lanh-gion-san-sat-o-via-he-ha-noi-khen-ngon-kho-tin-196260428143607478.htm) - 07:35 28/04/2026
-- 🕯 [&quot;Nín thở&quot; với hành trình bay xuyên &quot;ngôi nhà ma ám&quot; 12D+ lần đầu xuất hiện tại TP HCM](https://nld.com.vn/nin-tho-voi-hanh-trinh-bay-xuyen-ngoi-nha-ma-am-12d-lan-dau-xuat-hien-tai-tp-hcm-196260428095208267.htm) - 03:32 28/04/2026
-- 🦏 [CLIP: Thưởng thức hàng trăm loại bánh dân gian Nam Bộ tại Cần Thơ](https://nld.com.vn/clip-thuong-thuc-hang-tram-loai-banh-dan-gian-nam-bo-tai-can-tho-196260427073948334.htm) - 04:38 27/04/2026
-- 🌜 [“Nóng hầm hập” tại Lễ hội Bánh dân gian Nam Bộ ngay trong ngày đầu khai mạc, 26-4](https://nld.com.vn/nong-ham-hap-tai-le-hoi-banh-dan-gian-nam-bo-ngay-trong-ngay-dau-khai-mac-26-4-19626042621031616.htm) - 14:18 26/04/2026
-- 😎 [Hàng ngàn người đổ xô lên Núi Bà Đen trong ngày 26-4, không khí lễ hội đang sôi động](https://nld.com.vn/hang-ngan-nguoi-do-xo-lennui-ba-den-trong-ngay-26-4-khong-khi-le-hoi-dang-soi-dong-196260426194334316.htm) - 13:04 26/04/2026
-- 💼 [Lần đầu &quot;mở cửa&quot; khám phá Sơn Đoòng mà không cần vào hang](https://nld.com.vn/lan-dau-mo-cua-kham-pha-son-doong-ma-khong-can-vao-hang-196260426170650827.htm) - 10:21 26/04/2026
-- 🧠 [Kế hoạch lớn của Đồng Nai phát triển du lịch sinh thái, nghỉ dưỡng trên diện tích hơn 42.000 ha](https://nld.com.vn/ke-hoach-lon-cua-dong-nai-phat-trien-du-lich-sinh-thai-nghi-duong-tren-dien-tich-hon-42000-ha-196260426152114773.htm) - 08:53 26/04/2026
-- 🎭 [CLIP: Bản đồ Việt Nam bằng xôi và nước cốt dừa tại Cần Thơ](https://nld.com.vn/clip-ban-do-viet-nam-bang-xoi-va-nuoc-cot-dua-tai-can-tho-196260426134010963.htm) - 07:02 26/04/2026
-- 💼 [Khai trương tổ hợp giải trí ẩm thực bên bờ di sản](https://nld.com.vn/khai-truong-to-hop-giai-tri-am-thuc-ben-bo-di-san-196260426105431173.htm) - 06:33 26/04/2026
-- 🧠 [Đại Nội Huế sáng đèn miễn phí, bên trong “Hoàng cung huyền ảo” có gì đặc biệt?](https://nld.com.vn/dai-noi-hue-sang-den-mien-phi-ben-trong-hoang-cung-huyen-ao-co-gi-dac-biet-196260426073319359.htm) - 01:14 26/04/2026
-- 🗽 [Biển người đổ về Sầm Sơn thưởng thức ca nhạc, xem bắn pháo hoa](https://nld.com.vn/bien-nguoi-do-ve-sam-son-thuong-thuc-ca-nhac-xem-ban-phao-hoa-196260425214044692.htm) - 21:08 25/04/2026
-- 🎃 [CLIP: Màn trình diễn flyboard ấn tượng mở màn mùa du lịch biển Đà Nẵng](https://nld.com.vn/clip-man-trinh-dien-flyboard-an-tuong-mo-man-mua-du-lich-bien-da-nang-196260425191623839.htm) - 12:32 25/04/2026
-- 🧰 [VIDEO: Người dân khắp nơi đổ về Thánh đường Tắc Sậy để dâng hương Cha Diệp](https://nld.com.vn/video-nguoi-dan-khap-noi-do-ve-thanh-duong-tac-say-de-dang-huong-cha-diep-196260425101708637.htm) - 04:05 25/04/2026<!-- nld-du-lich-xanh:END -->
+- 💻 [Đà Nẵng mở &quot;đại tiệc&quot; ẩm thực xứ Quảng bên bờ biển](https://nld.com.vn/da-nang-mo-dai-tiec-am-thuc-xu-quang-ben-bo-bien-196260507202125156.htm) - 14:06 07/05/2026
+- 🌊 [Cần Giờ đang viết lại bản đồ du lịch TPHCM](https://nld.com.vn/can-gio-dang-viet-lai-ban-do-du-lich-tphcm-196260507151911156.htm) - 09:45 07/05/2026
+- 👹 [Sầm Sơn lắp cân đối chứng ở khu hải sản để chống &quot;buôn gian bán lận&quot;](https://nld.com.vn/sam-son-lap-can-doi-chung-o-khu-hai-san-de-chong-buon-gian-ban-lan-196260507153117694.htm) - 09:03 07/05/2026
+- 🚀 [VIDEO: Cần Giờ - Cực tăng trưởng mới của TPHCM](https://nld.com.vn/video-can-gio-cuc-tang-truong-moi-cua-tphcm-19626050710543099.htm) - 04:02 07/05/2026
+- 👀 [&quot;Bãi chông&quot; ở bãi biển nổi tiếng Thanh Hóa đang được dọn dẹp](https://nld.com.vn/bai-chong-o-bai-bien-noi-tieng-thanh-hoa-dang-duoc-don-dep-196260507093545294.htm) - 03:18 07/05/2026
+- 💫 [Đầm Sen đang bị lãng quên giữa lúc thị trường vui chơi, giải trí bùng nổ?](https://nld.com.vn/dam-sen-dang-bi-lang-quen-giua-luc-thi-truong-vui-choi-giai-tri-bung-no-196260507090413643.htm) - 02:34 07/05/2026
+- 🥷 [Bãi biển nổi tiếng ở Thanh Hóa ngập cành cây, trông như bãi chông](https://nld.com.vn/bai-bien-noi-tieng-o-thanh-hoa-ngap-canh-cay-trong-nhu-bai-chong-196260506121332881.htm) - 07:30 06/05/2026
+- 🌝 [Một thương hiệu bánh mì Việt Nam vừa làm điều đặc biệt tại Singapore](https://nld.com.vn/mot-thuong-hieu-banh-mi-viet-nam-vua-lam-dieu-dac-biet-tai-singapore-196260506084003659.htm) - 01:43 06/05/2026
+- 🚀 [Cách nấu những món ăn thực dưỡng giúp bật &quot;công tắc sinh học&quot;](https://nld.com.vn/cach-nau-nhung-mon-an-thuc-duong-giup-bat-cong-tac-sinh-hoc-196260505194056582.htm) - 15:37 05/05/2026
+- 💪 [DU LỊCH BỘI THU DỊP NGHỈ LỄ &lpar;*&rpar;: Kinh nghiệm từ cơ cấu ngày nghỉ](https://nld.com.vn/du-lich-boi-thu-dip-nghi-le-kinh-nghiem-tu-co-cau-ngay-nghi-196260504204656588.htm) - 00:00 05/05/2026
+- 🌁 [Rác thải, dầu hắc ở bãi biển Vũng Tàu, Sở Du lịch TPHCM nói gì?](https://nld.com.vn/rac-thai-dau-hac-o-bai-bien-vung-tau-so-du-lich-tphcm-noi-gi-196260504215615217.htm) - 15:00 04/05/2026
+- 🪄 [Tây Ninh bùng nổ du lịch dịp lễ, doanh thu gần 170 tỉ đồng](https://nld.com.vn/tay-ninh-bung-no-du-lich-dip-le-doanh-thu-gan-170-ti-dong-196260504103443842.htm) - 03:53 04/05/2026
+- 🚀 [Du lịch bội thu dịp nghỉ lễ](https://nld.com.vn/du-lich-boi-thu-dip-nghi-le-196260503214115125.htm) - 21:10 03/05/2026
+- 🎃 [Ninh Bình đón hơn 2,7 triệu lượt khách dịp nghỉ Giỗ Tổ Hùng Vương, 30-4 và 1-5](https://nld.com.vn/ninh-binh-don-hon-27-trieu-luot-khach-dip-nghi-gio-to-hung-vuong-30-4-va-1-5-196260503160103833.htm) - 13:14 03/05/2026
+- 🤗 [Đà Nẵng “bội thu” 5.700 tỉ đồng, đón hơn 1,46 triệu lượt khách dịp lễ](https://nld.com.vn/da-nang-boi-thu-5700-ti-dong-don-hon-146-trieu-luot-khach-dip-le-196260503173430575.htm) - 11:11 03/05/2026
+- 💼 [Khách đổ về TPHCM dịp lễ, doanh thu du lịch chạm 8.700 tỉ đồng](https://nld.com.vn/khach-do-ve-tphcm-dip-le-doanh-thu-du-lich-cham-8700-ti-dong-196260503172037643.htm) - 10:39 03/05/2026
+- 🔥 [Một phường ở Thanh Hóa đón hơn 1 triệu khách du lịch trong kỳ nghỉ lễ](https://nld.com.vn/mot-phuong-o-thanh-hoa-don-hon-1-trieu-khach-du-lich-trong-ky-nghi-le-196260503163850107.htm) - 10:15 03/05/2026
+- 🔭 [Du lịch Khánh Hòa đón 1,5 triệu khách tham quan, nghỉ dưỡng](https://nld.com.vn/du-lich-khanh-hoa-don-15-trieu-khach-tham-quan-nghi-duong-196260503152853565.htm) - 09:33 03/05/2026
+- 🚦 [Người dân ùn ùn trở lại TPHCM sau lễ, giá vé máy bay từ Hà Nội vào Nam cao ngang dịp Tết](https://nld.com.vn/nguoi-dan-un-un-tro-lai-tphcm-sau-le-gia-ve-may-bay-tu-ha-noi-vao-nam-cao-ngang-dip-tet-196260503113656181.htm) - 05:27 03/05/2026
+- 🌊 [Xác minh thông tin khách sạn “chặt chém” du khách, bia Heineken 900.000 đồng/thùng](https://nld.com.vn/xac-minh-thong-tin-khach-san-chat-chem-du-khach-bia-heineken-900000-dong-thung-196260503100403013.htm) - 03:35 03/05/2026
+- 🤔 [VIDEO: TPHCM đánh thức tiềm năng du lịch qua chương trình thực cảnh độc đáo](https://nld.com.vn/video-tphcm-danh-thuc-tiem-nang-du-lich-qua-chuong-trinh-thuc-canh-doc-dao-196260502231358755.htm) - 00:49 03/05/2026
+- 🤠 [Núi Bà Đen rực sáng đêm dâng đăng, hút hàng ngàn du khách dịp Lễ 30-4 và 1-5](https://nld.com.vn/nui-ba-den-ruc-sang-dem-dang-dang-hut-hang-ngan-du-khach-dip-le-30-4-va-1-5-196260502205905722.htm) - 00:41 03/05/2026
+- 🐘 [Nha Trang làm việc với người bán kem 100.000 đồng/cây cho du khách Thái Lan](https://nld.com.vn/nha-trang-lam-viec-voi-nguoi-ban-kem-100000-dong-cay-cho-du-khach-thai-lan-196260502153942555.htm) - 08:53 02/05/2026
+- 🦒 [Tây Ninh đón hơn 300.000 lượt khách dịp lễ, Núi Bà Đen tiếp tục “hút khách”](https://nld.com.vn/tay-ninh-don-hon-300000-luot-khach-dip-lenui-ba-dentiep-tuc-hut-khach-196260502134538828.htm) - 07:13 02/05/2026
+- 👺 [VIDEO: Thưởng thức miễn phí nho hữu cơ giữa lòng làng hoa Sa Đéc](https://nld.com.vn/video-thuong-thuc-mien-phi-nho-huu-co-giua-long-lang-hoa-sa-dec-196260502130344493.htm) - 06:53 02/05/2026
+- 🎉 [VIDEO: Hấp dẫn “vòng quay bánh xèo” không dùng dầu mỡ ở Cà Mau](https://nld.com.vn/video-hap-dan-vong-quay-banh-xeo-khong-dung-dau-mo-o-ca-mau-196260502123622985.htm) - 05:38 02/05/2026
+- 🌁 [CLIP: Từ sân bay trực thăng lên đỉnh Bàn Cờ, gần 300 người đi bộ vì Sơn Trà](https://nld.com.vn/clip-tu-san-bay-truc-thang-len-dinh-ban-co-gan-300-nguoi-di-bo-vi-son-tra-196260502103724739.htm) - 05:15 02/05/2026
+- 🤗 [Dịp lễ 30-4, 1-5: Gigamall kín khách, giới trẻ đổ xô &quot;check-in&quot; khu giải trí công nghệ Gigaversal](https://nld.com.vn/dip-le-30-4-1-5-gigamall-kin-khach-gioi-tre-do-xo-check-in-khu-giai-tri-cong-nghe-gigaversal-196260501205444631.htm) - 01:03 02/05/2026
+- 🧑‍💻 [VIDEO: Độc đáo hình ảnh 300 vận động viên tham gia giải leo ruộng bậc thang](https://nld.com.vn/video-doc-dao-hinh-anh-300-van-dong-vien-tham-gia-giai-leo-ruong-bac-thang-196260501213729422.htm) - 21:22 01/05/2026
+- 🐵 [2 ngày đầu kỳ nghỉ lễ, du lịch Quảng Ninh đạt doanh thu 1.860 tỉ đồng](https://nld.com.vn/2-ngay-dau-ky-nghi-le-du-lich-quang-ninh-dat-doanh-thu-1860-ti-dong-19626050121321905.htm) - 21:21 01/05/2026
+- 😺 [Công an thông tin về vụ việc hóa đơn bữa ăn gần 18 triệu đồng ở Sầm Sơn](https://nld.com.vn/cong-an-thong-tin-ve-vu-viec-hoa-don-bua-an-gan-18-trieu-dong-o-sam-son-196260501201013115.htm) - 13:19 01/05/2026
+- 🌝 [VIDEO: Hàng ngàn khán giả phủ kín Rạp Xiếc và Biểu diễn đa năng Phú Thọ dịp lễ 30-4 và 1-5](https://nld.com.vn/video-hang-ngan-khan-gia-phu-kin-rap-xiec-phu-tho-dip-le-30-4-va-1-5-196260501154641885.htm) - 11:00 01/05/2026
+- 🔭 [Khám phá Địa đạo An Thới - “thành trì trong lòng đất” ở Tây Ninh](https://nld.com.vn/kham-phadia-dao-an-thoi-thanh-tri-trong-long-dat-o-tay-ninh-196260501164301607.htm) - 10:37 01/05/2026
+- 💼 [Đặc sản níu chân du khách, chợ Cồn kín lối đi](https://nld.com.vn/dac-san-niu-chan-du-khach-cho-con-kin-loi-di-196260501125705952.htm) - 07:12 01/05/2026
+- 💯 [Carnaval Hạ Long 2026: Vũ hội đường phố bên bờ di sản](https://nld.com.vn/carnaval-ha-long-2026-vu-hoi-duong-pho-ben-bo-di-san-196260430230931785.htm) - 22:11 30/04/2026
+- 🥰 [VIDEO: Biển Sầm Sơn ken đặc khách ngày đầu nghỉ lễ 30-4, 1-5](https://nld.com.vn/video-bien-sam-son-ken-dac-khach-ngay-dau-nghi-le-30-4-1-5-196260430192851877.htm) - 12:55 30/04/2026
+- 🤡 [Mới 18 giờ, nhiều khách sạn, du thuyền ở TPHCM đã kín chỗ xem pháo hoa](https://nld.com.vn/moi-18-gio-nhieu-khach-san-du-thuyen-o-tphcm-da-kin-cho-xem-phao-hoa-196260430181149608.htm) - 11:48 30/04/2026
+- 🚀 [Hình ảnh chen chân chinh phục Núi Bà Đen](https://nld.com.vn/hinh-anh-chen-chan-chinh-phuc-nui-ba-den-19626043017385264.htm) - 11:13 30/04/2026
+- 🕯 [Ô tô, xe máy xếp hàng dài cả cây số chờ qua phà ra Cát Bà](https://nld.com.vn/o-to-xe-may-xep-hang-dai-ca-cay-so-cho-qua-pha-ra-cat-ba-196260430165755256.htm) - 10:17 30/04/2026
+- 🦏 [Núi Bà Đen ra thông báo quan trọng, du khách cần hết sức lưu ý](https://nld.com.vn/nui-ba-den-ra-thong-bao-quan-trong-du-khach-can-het-suc-luu-y-196260430161033998.htm) - 09:45 30/04/2026
+- 🌜 [CLIP: Cứu hộ biển Đà Nẵng so tài cùng lực lượng quốc tế](https://nld.com.vn/clip-cuu-ho-bien-da-nang-so-tai-cung-luc-luong-quoc-te-196260430132810064.htm) - 07:55 30/04/2026
+- 😎 [Có gì trong &quot;bữa tiệc vua&quot; với giá 1,7 triệu đồng/người?](https://nld.com.vn/co-gi-trong-bua-tiec-vua-voi-gia-17-trieu-dong-nguoi-196260430102259362.htm) - 05:47 30/04/2026
+- 💼 [Khai trương khu nghỉ dưỡng quy mô lớn chuẩn quốc tế tại TPHCM](https://nld.com.vn/khai-truong-khu-nghi-duong-chuan-quoc-te-tai-tphcm-196260430112406459.htm) - 04:48 30/04/2026
+- 🧠 [Foodtour Hà Nội kỳ nghỉ lễ, thưởng thức 5 món phở &quot;phiên bản lạ&quot; ngon miệng](https://nld.com.vn/foodtour-ha-noi-ky-nghi-le-thuong-thuc-5-mon-pho-phien-ban-la-ngon-mieng-196260430091539162.htm) - 02:15 30/04/2026
+- 🎭 [Gần 1.500 chuyến bay đến Đà Nẵng trong 9 ngày dịp lễ](https://nld.com.vn/gan-1500-chuyen-bay-den-da-nang-trong-9-ngay-dip-le-196260429144953985.htm) - 08:08 29/04/2026
+- 💼 [Saigontourist Group nhận Huân chương Lao động hạng Nhất](https://nld.com.vn/saigontourist-group-nhan-huan-chuong-lao-dong-hang-nhat-196260429142730574.htm) - 08:02 29/04/2026
+- 🧠 [Trong 3 ngày, du lịch Lâm Đồng thu về 768 tỉ đồng](https://nld.com.vn/trong-3-ngay-du-lich-lam-dong-thu-ve-768-ti-dong-196260428145952291.htm) - 08:28 28/04/2026
+- 🗽 [Khách Tây thử món mát lạnh, giòn sần sật ở vỉa hè Hà Nội, khen ngon khó tin](https://nld.com.vn/khach-tay-thu-mon-mat-lanh-gion-san-sat-o-via-he-ha-noi-khen-ngon-kho-tin-196260428143607478.htm) - 07:35 28/04/2026
+- 🎃 [&quot;Nín thở&quot; với hành trình bay xuyên &quot;ngôi nhà ma ám&quot; 12D+ lần đầu xuất hiện tại TP HCM](https://nld.com.vn/nin-tho-voi-hanh-trinh-bay-xuyen-ngoi-nha-ma-am-12d-lan-dau-xuat-hien-tai-tp-hcm-196260428095208267.htm) - 03:32 28/04/2026
+- 🧰 [CLIP: Thưởng thức hàng trăm loại bánh dân gian Nam Bộ tại Cần Thơ](https://nld.com.vn/clip-thuong-thuc-hang-tram-loai-banh-dan-gian-nam-bo-tai-can-tho-196260427073948334.htm) - 04:38 27/04/2026<!-- nld-du-lich-xanh:END -->
