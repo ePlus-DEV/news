@@ -36,8 +36,8 @@ sidebar_position: 4
 - 🌈 [Australia đầu tư 10 tỷ AUD mở rộng năng lực dự trữ nhiên liệu và phân bón](https://vov.vn/kinh-te/australia-dau-tu-10-ty-aud-mo-rong-nang-luc-du-tru-nhien-lieu-va-phan-bon-post1289420.vov) - 03:49 06/05/2026
 - 👍 [Nhật Bản thúc đẩy tìm kiếm nguồn cung khoáng sản và năng lượng tại châu Phi](https://vov.vn/kinh-te/nhat-ban-thuc-day-tim-kiem-nguon-cung-khoang-san-va-nang-luong-tai-chau-phi-post1289417.vov) - 03:43 06/05/2026
 - 🤩 [Aria Bay: Tâm điểm đón đầu kỷ nguyên phát triển mới của Quảng Ninh](https://vov.vn/kinh-te/bat-dong-san/aria-bay-tam-diem-don-dau-ky-nguyen-phat-trien-moi-cua-quang-ninh-post1289301.vov) - 01:02 06/05/2026
-- 🥸 [Tăng năng lực đầu tư và chuyển đổi số ngành xây dựng, phát triển hạ tầng](https://vov.vn/kinh-te/tang-nang-luc-dau-tu-va-chuyen-doi-so-nganh-xay-dung-phat-trien-ha-tang-post1288957.vov) - 01:00 06/05/2026
-- 🦍 [Minh bạch hóa thị trường bất động sản Việt dưới góc nhìn của nhà ngoại giao Mỹ](https://vov.vn/kinh-te/bat-dong-san/minh-bach-hoa-thi-truong-bat-dong-san-viet-duoi-goc-nhin-cua-nha-ngoai-giao-my-post1289295.vov) - 01:00 06/05/2026
+- 🥸 [Minh bạch hóa thị trường bất động sản Việt dưới góc nhìn của nhà ngoại giao Mỹ](https://vov.vn/kinh-te/bat-dong-san/minh-bach-hoa-thi-truong-bat-dong-san-viet-duoi-goc-nhin-cua-nha-ngoai-giao-my-post1289295.vov) - 01:00 06/05/2026
+- 🦍 [Tăng năng lực đầu tư và chuyển đổi số ngành xây dựng, phát triển hạ tầng](https://vov.vn/kinh-te/tang-nang-luc-dau-tu-va-chuyen-doi-so-nganh-xay-dung-phat-trien-ha-tang-post1288957.vov) - 01:00 06/05/2026
 - 🌏 [Mặt bằng &amp;quot;đất vàng&amp;quot; Hà Nội ế khách thuê](https://vov.vn/kinh-te/mat-bang-dat-vang-ha-noi-e-khach-thue-post1289216.vov) - 00:07 06/05/2026
 - 🧐 [Khu kinh tế kênh đào Suez của Ai Cập thu hút 7,1 tỷ USD đầu tư](https://vov.vn/kinh-te/khu-kinh-te-kenh-dao-suez-cua-ai-cap-thu-hut-71-ty-usd-dau-tu-post1289365.vov) - 23:15 05/05/2026
 - 🤗 [Vải u đầu mùa vừa lên kệ đã “sốt giá”, dân buôn hét tới 150.000 đồng/kg](https://vov.vn/kinh-te/vai-u-dau-mua-vua-len-ke-da-sot-gia-dan-buon-het-toi-150000-dongkg-post1289238.vov) - 23:00 05/05/2026
