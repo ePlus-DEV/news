@@ -63,4 +63,4 @@ sidebar_position: 4
 - 🤗 [TP.HCM chi gần 1.000 tỷ đồng mở rộng đường cạnh Công viên số 1 Lý Thái Tổ](https://vov.vn/kinh-te/tphcm-chi-gan-1000-ty-dong-mo-rong-duong-canh-cong-vien-so-1-ly-thai-to-post1288880.vov) - 07:23 04/05/2026
 - 🦄 [Hà Nội yêu cầu doanh nghiệp đẩy nhanh triển khai xăng sinh học E10 trước 1/6/2026](https://vov.vn/kinh-te/ha-noi-yeu-cau-doanh-nghiep-day-nhanh-trien-khai-xang-sinh-hoc-e10-truoc-162026-post1288866.vov) - 04:40 04/05/2026
 - 🥳 [Lúa được mùa, giá xuống thấp, nông dân Hà Tĩnh chật vật tìm đầu ra](https://vov.vn/kinh-te/lua-duoc-mua-gia-xuong-thap-nong-dan-ha-tinh-chat-vat-tim-dau-ra-post1288857.vov) - 04:09 04/05/2026
-- 🎓 [Thưởng thức cuộc sống tại The Grand Island – biểu tượng của Ecopark tại Nghệ An](https://vov.vn/kinh-te/bat-dong-san/thuong-thuc-cuoc-song-tai-the-grand-island-bieu-tuong-cua-ecopark-tai-nghe-an-post1288542.vov) - 01:00 04/05/2026<!-- vov-kinh-te:END -->
+- 🎓 [Giảm loạt thuế, phí năm 2026: Doanh nghiệp, người dân thêm “khoảng đệm&amp;quot; chi phí](https://vov.vn/kinh-te/giam-loat-thue-phi-nam-2026-doanh-nghiep-nguoi-dan-them-khoang-dem-chi-phi-post1288993.vov) - 01:00 04/05/2026<!-- vov-kinh-te:END -->
