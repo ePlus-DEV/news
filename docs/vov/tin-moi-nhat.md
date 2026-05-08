@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Trực tiếp Bayern Munich 1-1 PSG: Harry Kane ghi bàn ở phút bù giờ](https://vov.vn/the-thao/truc-tiep-bayern-munich-1-1-psg-harry-kane-ghi-ban-o-phut-bu-gio-post1289514.vov) - 20:57 06/05/2026
-- 🦍 [Iran tuyên bố đảm bảo lưu thông an toàn qua eo biển Hormuz](https://vov.vn/the-gioi/iran-tuyen-bo-dam-bao-luu-thong-an-toan-qua-eo-bien-hormuz-post1289645.vov) - 15:26 06/05/2026
-- 🦏 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Hội đồng các vấn đề thế giới của Ấn Độ](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-hoi-dong-cac-van-de-the-gioi-cua-an-do-post1289644.vov) - 15:11 06/05/2026
-- 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng các không gian hợp tác mới về KHCN](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-cac-khong-gian-hop-tac-moi-ve-khcn-post1289636.vov) - 14:14 06/05/2026
-- 💯 [Nga khẳng định sẵn sàng đàm phán thực chất với Ukraine](https://vov.vn/the-gioi/nga-khang-dinh-san-sang-dam-phan-thuc-chat-voi-ukraine-post1289629.vov) - 13:34 06/05/2026
-- 🦩 [Chính thức từ năm 2026 người dân được khám sức khỏe định kỳ miễn phí](https://vov.vn/xa-hoi/chinh-thuc-tu-nam-2026-nguoi-dan-duoc-kham-suc-khoe-dinh-ky-mien-phi-post1289616.vov) - 13:05 06/05/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước phát biểu tại Hội đồng các vấn đề thế giới của Ấn Độ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-phat-bieu-tai-hoi-dong-cac-van-de-the-gioi-cua-an-do-post1289615.vov) - 12:26 06/05/2026
-- 🦣 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Ấn Độ Narendra Modi](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-an-do-narendra-modi-post1289606.vov) - 11:35 06/05/2026
-- 👹 [Tổng Bí thư, Chủ tịch nước và Thủ tướng Ấn Độ chứng kiến lễ trao văn kiện hợp tác](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-va-thu-tuong-an-do-chung-kien-le-trao-van-kien-hop-tac-post1289600.vov) - 11:09 06/05/2026
-- 🫶 [Bộ Công an đề xuất xử lý hành vi chia sẻ, bình luận tin sai sự thật](https://vov.vn/phap-luat/bo-cong-an-de-xuat-xu-ly-hanh-vi-chia-se-binh-luan-tin-sai-su-that-post1289576.vov) - 10:35 06/05/2026
-- 😺 [Việt Nam bị Hoa Kỳ đưa vào diện theo dõi cao nhất về sở hữu trí tuệ](https://vov.vn/kinh-te/viet-nam-bi-hoa-ky-dua-vao-dien-theo-doi-cao-nhat-ve-so-huu-tri-tue-post1289566.vov) - 10:27 06/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Vietcombank và VTV hợp tác toàn diện, mở ra không gian hội tụ trong kỷ nguyên số](https://vov.vn/doanh-nghiep/doanh-nghiep-24h/vietcombank-va-vtv-hop-tac-toan-dien-mo-ra-khong-gian-hoi-tu-trong-ky-nguyen-so-post1290170.vov) - 08:36 08/05/2026
+- 🦍 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026
+- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026
+- 😎 [Thủ tướng: ASEAN cần bảo đảm an ninh năng lượng, lương thực và con người](https://vov.vn/chinh-tri/thu-tuong-asean-can-bao-dam-an-ninh-nang-luong-luong-thuc-va-con-nguoi-post1290160.vov) - 07:56 08/05/2026
+- 💯 [Báo cáo mật của CIA hé lộ khả năng chống chịu đáng gờm của Iran](https://vov.vn/the-gioi/quan-sat/bao-cao-mat-cua-cia-he-lo-kha-nang-chong-chiu-dang-gom-cua-iran-post1290109.vov) - 05:05 08/05/2026
+- 🦩 [Ukraine biến chiến tuyến thành “mê cung phòng thủ” đối phó Nga](https://vov.vn/the-gioi/quan-sat/ukraine-bien-chien-tuyen-thanh-me-cung-phong-thu-doi-pho-nga-post1290116.vov) - 04:54 08/05/2026
+- 💃 [Chủ tịch Quốc hội: Tòa án là “người cầm lái” bảo đảm công bằng, minh bạch](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-toa-an-la-nguoi-cam-lai-bao-dam-cong-bang-minh-bach-post1290080.vov) - 03:22 08/05/2026
+- 🦣 [Căng thẳng Mỹ - Iran vẫn trong tầm kiểm soát sau loạt đòn &amp;quot;ăn miếng trả miếng&amp;quot;](https://vov.vn/the-gioi/cang-thang-my-iran-van-trong-tam-kiem-soat-sau-loat-don-an-mieng-tra-mieng-post1290014.vov) - 02:35 08/05/2026
+- 👹 [Vụ bạo hành bé gái 4 tuổi tử vong: Bàn Thị Tâm đang mang thai sẽ bị xử lý thế nào?](https://vov.vn/phap-luat/vu-bao-hanh-be-gai-4-tuoi-tu-vong-ban-thi-tam-dang-mang-thai-se-bi-xu-ly-the-nao-post1290022.vov) - 01:59 08/05/2026
+- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm cấp Nhà nước tới Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-bat-dau-tham-cap-nha-nuoc-toi-sri-lanka-post1290007.vov) - 23:14 07/05/2026
+- 😺 [“Xã, phường xã hội chủ nghĩa”: Nỗ lực cụ thể hóa lý tưởng phát triển](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-no-luc-cu-the-hoa-ly-tuong-phat-trien-post1289767.vov) - 22:00 07/05/2026<!-- vov-tin-moi-nhat:END -->
