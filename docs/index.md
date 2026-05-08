@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Khai mạc Lễ hội Hoa Phượng Đỏ 2026: “Hải Phòng - Hội tụ - Toả sáng”](https://vov.vn/van-hoa/khai-mac-le-hoi-hoa-phuong-do-2026-hai-phong-hoi-tu-toa-sang-post1290308.vov) - 16:08 08/05/2026
-- 🕯 [Hoàn thiện pháp luật về ban hành quyết định hành chính](https://vov.vn/chinh-tri/hoan-thien-phap-luat-ve-ban-hanh-quyet-dinh-hanh-chinh-post1290206.vov) - 14:56 08/05/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-sri-lanka-post1290292.vov) - 14:26 08/05/2026
-- 🥷 [Thủ tướng Lê Minh Hưng kết thúc tốt đẹp các hoạt động tại Hội nghị Cấp cao ASEAN](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-ket-thuc-tot-dep-cac-hoat-dong-tai-hoi-nghi-cap-cao-asean-post1290289.vov) - 14:21 08/05/2026
-- 🎡 [Tuyên bố chung Việt Nam - Sri Lanka](https://vov.vn/chinh-tri/tuyen-bo-chung-viet-nam-sri-lanka-post1290288.vov) - 14:14 08/05/2026
-- 🚀 [Tháng Năm nhớ Bác: Hà Nội tổ chức nhiều đêm diễn nghệ thuật phục vụ nhân dân](https://vov.vn/van-hoa/thang-nam-nho-bac-ha-noi-to-chuc-nhieu-dem-dien-nghe-thuat-phuc-vu-nhan-dan-post1290275.vov) - 13:48 08/05/2026
-- 🔥 [Thủ tướng Lê Minh Hưng: Việt Nam dành ưu tiên cao nhất cho hợp tác với Lào](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-viet-nam-danh-uu-tien-cao-nhat-cho-hop-tac-voi-lao-post1290278.vov) - 13:46 08/05/2026
-- 🌋 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
-- 🕴 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
-- 🥰 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Sri Lanka](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-sri-lanka-post1290190.vov) - 09:18 08/05/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026<!-- vov:END -->
+- 🌜 [Bài phát biểu lịch sử của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Quốc hội Sri Lanka](https://vov.vn/chinh-tri/bai-phat-bieu-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-quoc-hoi-sri-lanka-post1290326.vov) - 22:45 08/05/2026
+- 🕯 [Bài phát biểu lịch sử của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Quốc hội Sri Lanka](https://vov.vn/chinh-tri/bai-phat-bieu-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-quoc-hoi-sri-lanka-post1290326.vov) - 22:45 08/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước gặp gỡ cộng đồng người Việt Nam tại Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gap-go-cong-dong-nguoi-viet-nam-tai-sri-lanka-post1290324.vov) - 22:29 08/05/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước gặp gỡ cộng đồng người Việt Nam tại Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gap-go-cong-dong-nguoi-viet-nam-tai-sri-lanka-post1290324.vov) - 22:29 08/05/2026
+- 🎡 [Toàn cảnh chuyến công tác dự Hội nghị cấp cao ASEAN 48 của Thủ tướng Lê Minh Hưng](https://vov.vn/chinh-tri/toan-canh-chuyen-cong-tac-du-hoi-nghi-cap-cao-asean-48-cua-thu-tuong-le-minh-hung-post1290120.vov) - 22:20 08/05/2026
+- 🚀 [Sắp xếp lại thôn, tổ dân phố cần hết sức thận trọng khi đặt tên mới](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-can-het-suc-than-trong-khi-dat-ten-moi-post1290033.vov) - 22:00 08/05/2026
+- 🔥 [Sắp xếp lại thôn, tổ dân phố cần hết sức thận trọng khi đặt tên mới](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-can-het-suc-than-trong-khi-dat-ten-moi-post1290033.vov) - 22:00 08/05/2026
+- 🌋 [Nóng thế giới ngày 9/5: Ông Trump cảnh báo đáp trả &amp;quot;mạnh mẽ và dữ dội&amp;quot;](https://vov.vn/the-gioi/nong-the-gioi-ngay-95-ong-trump-canh-bao-dap-tra-manh-me-va-du-doi-post1290105.vov) - 22:00 08/05/2026
+- 🕴 [Giá xăng dầu hôm nay 9/5: Biến động tăng khi giao tranh giữa Mỹ và Iran tái diễn](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-95-bien-dong-tang-khi-giao-tranh-giua-my-va-iran-tai-dien-post1290241.vov) - 22:00 08/05/2026
+- 🥰 [Khai mạc Lễ hội Hoa Phượng Đỏ 2026: “Hải Phòng - Hội tụ - Toả sáng”](https://vov.vn/van-hoa/khai-mac-le-hoi-hoa-phuong-do-2026-hai-phong-hoi-tu-toa-sang-post1290308.vov) - 16:08 08/05/2026
+- 🧐 [Hoàn thiện pháp luật về ban hành quyết định hành chính](https://vov.vn/chinh-tri/hoan-thien-phap-luat-ve-ban-hanh-quyet-dinh-hanh-chinh-post1290206.vov) - 14:56 08/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
