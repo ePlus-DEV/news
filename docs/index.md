@@ -717,17 +717,17 @@ tại Sàn Giao dịch Chứng khoán Quốc gia Ấn Độ](https://nld.com.vn/
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Gỡ điểm nghẽn xuất khẩu nông sản: Chính phủ vào cuộc cùng doanh nghiệp](https://vov.vn/kinh-te/go-diem-nghen-xuat-khau-nong-san-chinh-phu-vao-cuoc-cung-doanh-nghiep-post1290216.vov) - 11:07 08/05/2026
-- 🕯 [Bồi dưỡng kỹ năng xử lý vấn đề nóng, khó, mới cho cán bộ xã](https://vov.vn/chinh-tri/boi-duong-ky-nang-xu-ly-van-de-nong-kho-moi-cho-can-bo-xa-post1290220.vov) - 10:56 08/05/2026
-- 🌊 [Thủ tướng Lê Minh Hưng gặp lãnh đạo Singapore, Thái Lan, Indonesia](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-gap-lanh-dao-singapore-thai-lan-indonesia-post1290234.vov) - 10:43 08/05/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Quốc hội Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-quoc-hoi-sri-lanka-post1290221.vov) - 10:20 08/05/2026
-- 🎡 [Thủ tướng: ASEAN cần tiên phong giữ vững luật lệ, củng cố niềm tin quan hệ quốc tế](https://vov.vn/chinh-tri/thu-tuong-asean-can-tien-phong-giu-vung-luat-le-cung-co-niem-tin-quan-he-quoc-te-post1290214.vov) - 10:15 08/05/2026
-- 🚀 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
-- 🔥 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
-- 🌋 [Đảng bộ các cơ quan Đảng TƯ: Chuyển đổi số, hướng tới &amp;quot;kiểm tra trên dữ liệu&amp;quot;](https://vov.vn/chinh-tri/dang-bo-cac-co-quan-dang-tu-chuyen-doi-so-huong-toi-kiem-tra-tren-du-lieu-post1290119.vov) - 09:28 08/05/2026
-- 🕴 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Sri Lanka](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-sri-lanka-post1290190.vov) - 09:18 08/05/2026
-- 🥰 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026
-- 🧐 [Thủ tướng: ASEAN cần bảo đảm an ninh năng lượng, lương thực và con người](https://vov.vn/chinh-tri/thu-tuong-asean-can-bao-dam-an-ninh-nang-luong-luong-thuc-va-con-nguoi-post1290160.vov) - 07:56 08/05/2026<!-- vov:END -->
+- 🌜 [Hoàn thiện pháp luật về ban hành quyết định hành chính](https://vov.vn/chinh-tri/hoan-thien-phap-luat-ve-ban-hanh-quyet-dinh-hanh-chinh-post1290206.vov) - 14:56 08/05/2026
+- 🕯 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-sri-lanka-post1290292.vov) - 14:26 08/05/2026
+- 🌊 [Thủ tướng Lê Minh Hưng kết thúc tốt đẹp các hoạt động tại Hội nghị Cấp cao ASEAN](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-ket-thuc-tot-dep-cac-hoat-dong-tai-hoi-nghi-cap-cao-asean-post1290289.vov) - 14:21 08/05/2026
+- 🥷 [Tuyên bố chung Việt Nam - Sri Lanka](https://vov.vn/chinh-tri/tuyen-bo-chung-viet-nam-sri-lanka-post1290288.vov) - 14:14 08/05/2026
+- 🎡 [Tháng Năm nhớ Bác: Hà Nội tổ chức nhiều đêm diễn nghệ thuật phục vụ nhân dân](https://vov.vn/van-hoa/thang-nam-nho-bac-ha-noi-to-chuc-nhieu-dem-dien-nghe-thuat-phuc-vu-nhan-dan-post1290275.vov) - 13:48 08/05/2026
+- 🚀 [Thủ tướng Lê Minh Hưng: Việt Nam dành ưu tiên cao nhất cho hợp tác với Lào](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-viet-nam-danh-uu-tien-cao-nhat-cho-hop-tac-voi-lao-post1290278.vov) - 13:46 08/05/2026
+- 🔥 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự diễn đàn doanh nghiệp Việt Nam-Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-dien-dan-doanh-nghiep-viet-nam-sri-lanka-post1290252.vov) - 12:05 08/05/2026
+- 🌋 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
+- 🕴 [Thiếu vắng thương hiệu quốc gia trong ngành công nghiệp văn hóa Việt Nam](https://vov.vn/van-hoa/thieu-vang-thuong-hieu-quoc-gia-trong-nganh-cong-nghiep-van-hoa-viet-nam-post1290195.vov) - 10:11 08/05/2026
+- 🥰 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Sri Lanka](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-sri-lanka-post1290190.vov) - 09:18 08/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
