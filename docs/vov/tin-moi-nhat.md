@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Vietcombank và VTV hợp tác toàn diện, mở ra không gian hội tụ trong kỷ nguyên số](https://vov.vn/doanh-nghiep/doanh-nghiep-24h/vietcombank-va-vtv-hop-tac-toan-dien-mo-ra-khong-gian-hoi-tu-trong-ky-nguyen-so-post1290170.vov) - 08:36 08/05/2026
-- 🦍 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026
-- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026
-- 😎 [Thủ tướng: ASEAN cần bảo đảm an ninh năng lượng, lương thực và con người](https://vov.vn/chinh-tri/thu-tuong-asean-can-bao-dam-an-ninh-nang-luong-luong-thuc-va-con-nguoi-post1290160.vov) - 07:56 08/05/2026
-- 💯 [Báo cáo mật của CIA hé lộ khả năng chống chịu đáng gờm của Iran](https://vov.vn/the-gioi/quan-sat/bao-cao-mat-cua-cia-he-lo-kha-nang-chong-chiu-dang-gom-cua-iran-post1290109.vov) - 05:05 08/05/2026
-- 🦩 [Ukraine biến chiến tuyến thành “mê cung phòng thủ” đối phó Nga](https://vov.vn/the-gioi/quan-sat/ukraine-bien-chien-tuyen-thanh-me-cung-phong-thu-doi-pho-nga-post1290116.vov) - 04:54 08/05/2026
-- 💃 [Chủ tịch Quốc hội: Tòa án là “người cầm lái” bảo đảm công bằng, minh bạch](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-toa-an-la-nguoi-cam-lai-bao-dam-cong-bang-minh-bach-post1290080.vov) - 03:22 08/05/2026
-- 🦣 [Căng thẳng Mỹ - Iran vẫn trong tầm kiểm soát sau loạt đòn &amp;quot;ăn miếng trả miếng&amp;quot;](https://vov.vn/the-gioi/cang-thang-my-iran-van-trong-tam-kiem-soat-sau-loat-don-an-mieng-tra-mieng-post1290014.vov) - 02:35 08/05/2026
-- 👹 [Vụ bạo hành bé gái 4 tuổi tử vong: Bàn Thị Tâm đang mang thai sẽ bị xử lý thế nào?](https://vov.vn/phap-luat/vu-bao-hanh-be-gai-4-tuoi-tu-vong-ban-thi-tam-dang-mang-thai-se-bi-xu-ly-the-nao-post1290022.vov) - 01:59 08/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm cấp Nhà nước tới Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-bat-dau-tham-cap-nha-nuoc-toi-sri-lanka-post1290007.vov) - 23:14 07/05/2026
-- 😺 [“Xã, phường xã hội chủ nghĩa”: Nỗ lực cụ thể hóa lý tưởng phát triển](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-no-luc-cu-the-hoa-ly-tuong-phat-trien-post1289767.vov) - 22:00 07/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Dự án kênh Thụy Phương gấp rút về đích, kỳ vọng “giải cứu” sông Tô Lịch](https://vov.vn/xa-hoi/du-an-kenh-thuy-phuong-gap-rut-ve-dich-ky-vong-giai-cuu-song-to-lich-post1289992.vov) - 04:19 09/05/2026
+- 🦍 [Vì sao đồng minh vùng Vịnh lo ngại “Dự án Tự do” của Mỹ ở Hormuz?](https://vov.vn/the-gioi/quan-sat/vi-sao-dong-minh-vung-vinh-lo-ngai-du-an-tu-do-cua-my-o-hormuz-post1290386.vov) - 04:14 09/05/2026
+- 🦏 [Cán bộ yếu kém, thiếu trách nhiệm sẽ bị tinh giản biên chế](https://vov.vn/chinh-tri/can-bo-yeu-kem-thieu-trach-nhiem-se-bi-tinh-gian-bien-che-post1290372.vov) - 03:57 09/05/2026
+- 😎 [Cuộc chiến với Nga biến Ukraine thành “xưởng sáng tạo vũ khí” của châu Âu](https://vov.vn/the-gioi/quan-sat/cuoc-chien-voi-nga-bien-ukraine-thanh-xuong-sang-tao-vu-khi-cua-chau-au-post1290375.vov) - 03:56 09/05/2026
+- 💯 [Hà Nội vào mùa bằng lăng tím: Góc phố nào cũng thấy mùa hè đã về](https://vov.vn/van-hoa/ha-noi-vao-mua-bang-lang-tim-goc-pho-nao-cung-thay-mua-he-da-ve-post1290365.vov) - 03:04 09/05/2026
+- 🦩 [Toàn cảnh chuyến thăm tới Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-toi-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290091.vov) - 03:00 09/05/2026
+- 💃 [Toàn cảnh chuyến thăm tới Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-toi-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290091.vov) - 03:00 09/05/2026
+- 🦣 [Ai sẽ cứu những đứa trẻ sau cánh cửa đóng kín?](https://vov.vn/xa-hoi/ai-se-cuu-nhung-dua-tre-sau-canh-cua-dong-kin-post1290364.vov) - 02:41 09/05/2026
+- 👹 [Lần đầu tiên có cổng truy cập tài nguyên giáo dục mở quốc gia](https://vov.vn/xa-hoi/lan-dau-tien-co-cong-truy-cap-tai-nguyen-giao-duc-mo-quoc-gia-post1290362.vov) - 02:40 09/05/2026
+- 🫶 [Truyền thông Sri Lanka đưa đậm nét về chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/truyen-thong-sri-lanka-dua-dam-net-ve-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290330.vov) - 23:24 08/05/2026
+- 😺 [Bài phát biểu lịch sử của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Quốc hội Sri Lanka](https://vov.vn/chinh-tri/bai-phat-bieu-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-quoc-hoi-sri-lanka-post1290326.vov) - 22:45 08/05/2026<!-- vov-tin-moi-nhat:END -->
