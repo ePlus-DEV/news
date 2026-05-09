@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Bài phát biểu lịch sử của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Quốc hội Sri Lanka](https://vov.vn/chinh-tri/bai-phat-bieu-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-quoc-hoi-sri-lanka-post1290326.vov) - 22:45 08/05/2026
-- 🕯 [Bài phát biểu lịch sử của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Quốc hội Sri Lanka](https://vov.vn/chinh-tri/bai-phat-bieu-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-quoc-hoi-sri-lanka-post1290326.vov) - 22:45 08/05/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước gặp gỡ cộng đồng người Việt Nam tại Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gap-go-cong-dong-nguoi-viet-nam-tai-sri-lanka-post1290324.vov) - 22:29 08/05/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước gặp gỡ cộng đồng người Việt Nam tại Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-gap-go-cong-dong-nguoi-viet-nam-tai-sri-lanka-post1290324.vov) - 22:29 08/05/2026
-- 🎡 [Toàn cảnh chuyến công tác dự Hội nghị cấp cao ASEAN 48 của Thủ tướng Lê Minh Hưng](https://vov.vn/chinh-tri/toan-canh-chuyen-cong-tac-du-hoi-nghi-cap-cao-asean-48-cua-thu-tuong-le-minh-hung-post1290120.vov) - 22:20 08/05/2026
-- 🚀 [Sắp xếp lại thôn, tổ dân phố cần hết sức thận trọng khi đặt tên mới](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-can-het-suc-than-trong-khi-dat-ten-moi-post1290033.vov) - 22:00 08/05/2026
-- 🔥 [Sắp xếp lại thôn, tổ dân phố cần hết sức thận trọng khi đặt tên mới](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-can-het-suc-than-trong-khi-dat-ten-moi-post1290033.vov) - 22:00 08/05/2026
-- 🌋 [Nóng thế giới ngày 9/5: Ông Trump cảnh báo đáp trả &amp;quot;mạnh mẽ và dữ dội&amp;quot;](https://vov.vn/the-gioi/nong-the-gioi-ngay-95-ong-trump-canh-bao-dap-tra-manh-me-va-du-doi-post1290105.vov) - 22:00 08/05/2026
-- 🕴 [Giá xăng dầu hôm nay 9/5: Biến động tăng khi giao tranh giữa Mỹ và Iran tái diễn](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-95-bien-dong-tang-khi-giao-tranh-giua-my-va-iran-tai-dien-post1290241.vov) - 22:00 08/05/2026
-- 🥰 [Khai mạc Lễ hội Hoa Phượng Đỏ 2026: “Hải Phòng - Hội tụ - Toả sáng”](https://vov.vn/van-hoa/khai-mac-le-hoi-hoa-phuong-do-2026-hai-phong-hoi-tu-toa-sang-post1290308.vov) - 16:08 08/05/2026
-- 🧐 [Hoàn thiện pháp luật về ban hành quyết định hành chính](https://vov.vn/chinh-tri/hoan-thien-phap-luat-ve-ban-hanh-quyet-dinh-hanh-chinh-post1290206.vov) - 14:56 08/05/2026<!-- vov:END -->
+- 🌜 [Thông điệp đáng chú ý của Tổng thống Putin tại lễ duyệt binh Ngày Chiến thắng](https://vov.vn/the-gioi/thong-diep-dang-chu-y-cua-tong-thong-putin-tai-le-duyet-binh-ngay-chien-thang-post1290434.vov) - 09:48 09/05/2026
+- 🕯 [Những hình ảnh ấn tượng tại lễ duyệt binh kỷ niệm 81 năm Ngày Chiến thắng tại Nga](https://vov.vn/the-gioi/nhung-hinh-anh-an-tuong-tai-le-duyet-binh-ky-niem-81-nam-ngay-chien-thang-tai-nga-post1290429.vov) - 09:21 09/05/2026
+- 🌊 [Giải pháp nào để &amp;quot;hạ nhiệt&amp;quot; kỳ thi tuyển sinh lớp 10 tại Hà Nội?](https://vov.vn/xa-hoi/giai-phap-nao-de-ha-nhiet-ky-thi-tuyen-sinh-lop-10-tai-ha-noi-post1290426.vov) - 09:16 09/05/2026
+- 🥷 [Giải pháp nào để &amp;quot;hạ nhiệt&amp;quot; kỳ thi tuyển sinh lớp 10 tại Hà Nội?](https://vov.vn/xa-hoi/giai-phap-nao-de-ha-nhiet-ky-thi-tuyen-sinh-lop-10-tai-ha-noi-post1290426.vov) - 09:16 09/05/2026
+- 🎡 [Toàn cảnh quốc tế trưa 9/5: Mỹ-Iran vào thế đối đầu mới ở eo biển Hormuz?](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-95-my-iran-vao-the-doi-dau-moi-o-eo-bien-hormuz-post1290406.vov) - 07:42 09/05/2026
+- 🚀 [Chuyến thăm Ấn Độ, Sri Lanka mở ra giai đoạn hợp tác mới cho Việt Nam](https://vov.vn/chinh-tri/chuyen-tham-an-do-sri-lanka-mo-ra-giai-doan-hop-tac-moi-cho-viet-nam-post1290412.vov) - 07:32 09/05/2026
+- 🔥 [ASEAN đoàn kết, chủ động ứng phó với tác động đa chiều](https://vov.vn/chinh-tri/asean-doan-ket-chu-dong-ung-pho-voi-tac-dong-da-chieu-post1290407.vov) - 07:26 09/05/2026
+- 🌋 [Nga duyệt binh kỷ niệm 81 năm Ngày Chiến thắng 9/5](https://vov.vn/the-gioi/nga-duyet-binh-ky-niem-81-nam-ngay-chien-thang-95-post1290391.vov) - 05:30 09/05/2026
+- 🕴 [Nga duyệt binh kỷ niệm 81 năm Ngày Chiến thắng 9/5](https://vov.vn/the-gioi/nga-duyet-binh-ky-niem-81-nam-ngay-chien-thang-95-post1290391.vov) - 05:30 09/05/2026
+- 🥰 [Toàn cảnh chuyến thăm tới Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-toi-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290091.vov) - 03:00 09/05/2026
+- 🧐 [Toàn cảnh chuyến thăm tới Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-toi-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290091.vov) - 03:00 09/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
