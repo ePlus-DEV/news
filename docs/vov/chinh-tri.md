@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Bồi dưỡng kỹ năng xử lý vấn đề nóng, khó, mới cho cán bộ xã](https://vov.vn/chinh-tri/boi-duong-ky-nang-xu-ly-van-de-nong-kho-moi-cho-can-bo-xa-post1290220.vov) - 10:56 08/05/2026
-- 💃 [Thủ tướng Lê Minh Hưng gặp lãnh đạo Singapore, Thái Lan, Indonesia](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-gap-lanh-dao-singapore-thai-lan-indonesia-post1290234.vov) - 10:43 08/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Quốc hội Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-quoc-hoi-sri-lanka-post1290221.vov) - 10:20 08/05/2026
-- 👨‍🏫 [Thủ tướng: ASEAN cần tiên phong giữ vững luật lệ, củng cố niềm tin quan hệ quốc tế](https://vov.vn/chinh-tri/thu-tuong-asean-can-tien-phong-giu-vung-luat-le-cung-co-niem-tin-quan-he-quoc-te-post1290214.vov) - 10:15 08/05/2026
-- 🪜 [Phấn đấu quy tập 500 hài cốt liệt sĩ trước 27/7/2026](https://vov.vn/chinh-tri/phan-dau-quy-tap-500-hai-cot-liet-si-truoc-2772026-post1290211.vov) - 09:56 08/05/2026
-- 🌋 [Xây dựng Luật Đô thị đặc biệt cho TP.HCM với tinh thần “đột phá của đột phá”](https://vov.vn/chinh-tri/xay-dung-luat-do-thi-dac-biet-cho-tphcm-voi-tinh-than-dot-pha-cua-dot-pha-post1290145.vov) - 09:47 08/05/2026
-- 🎉 [Đảng bộ các cơ quan Đảng TƯ: Chuyển đổi số, hướng tới &amp;quot;kiểm tra trên dữ liệu&amp;quot;](https://vov.vn/chinh-tri/dang-bo-cac-co-quan-dang-tu-chuyen-doi-so-huong-toi-kiem-tra-tren-du-lieu-post1290119.vov) - 09:28 08/05/2026
-- 🌝 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Sri Lanka](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-sri-lanka-post1290190.vov) - 09:18 08/05/2026
-- 🏊 [Lâm Đồng giảm hơn 60% đầu mối sau 1 năm vận hành chính quyền 2 cấp](https://vov.vn/chinh-tri/lam-dong-giam-hon-60-dau-moi-sau-1-nam-van-hanh-chinh-quyen-2-cap-post1290159.vov) - 08:43 08/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Sri Lanka](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-sri-lanka-post1290162.vov) - 08:02 08/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Việt Nam - Sri Lanka thúc đẩy hợp tác và trao đổi kinh nghiệm xây dựng Đảng](https://vov.vn/chinh-tri/viet-nam-sri-lanka-thuc-day-hop-tac-va-trao-doi-kinh-nghiem-xay-dung-dang-post1290419.vov) - 08:00 09/05/2026
+- 💃 [Chuyến thăm Ấn Độ, Sri Lanka mở ra giai đoạn hợp tác mới cho Việt Nam](https://vov.vn/chinh-tri/chuyen-tham-an-do-sri-lanka-mo-ra-giai-doan-hop-tac-moi-cho-viet-nam-post1290412.vov) - 07:32 09/05/2026
+- 🫶 [ASEAN đoàn kết, chủ động ứng phó với tác động đa chiều](https://vov.vn/chinh-tri/asean-doan-ket-chu-dong-ung-pho-voi-tac-dong-da-chieu-post1290407.vov) - 07:26 09/05/2026
+- 👨‍🏫 [Nghị quyết 04 được ví như “tuyên ngôn” chống tham nhũng thời kỳ mới](https://vov.vn/chinh-tri/nghi-quyet-04-duoc-vi-nhu-tuyen-ngon-chong-tham-nhung-thoi-ky-moi-post1290174.vov) - 05:00 09/05/2026
+- 🪜 [Khánh Hòa điều động Giám đốc Báo và PT-TH làm Giám đốc Sở VH, TT và DL](https://vov.vn/chinh-tri/khanh-hoa-dieu-dong-giam-doc-bao-va-pt-th-lam-giam-doc-so-vh-tt-va-dl-post1290388.vov) - 04:11 09/05/2026
+- 🌋 [Cán bộ yếu kém, thiếu trách nhiệm sẽ bị tinh giản biên chế](https://vov.vn/chinh-tri/can-bo-yeu-kem-thieu-trach-nhiem-se-bi-tinh-gian-bien-che-post1290372.vov) - 03:57 09/05/2026
+- 🎉 [Toàn cảnh chuyến thăm tới Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-toi-sri-lanka-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290091.vov) - 03:00 09/05/2026
+- 🌝 [Hải trình Trường Sa của Đoàn công tác số 14 kết nối tình yêu biển đảo](https://vov.vn/chinh-tri/hai-trinh-truong-sa-cua-doan-cong-tac-so-14-ket-noi-tinh-yeu-bien-dao-post1290347.vov) - 01:55 09/05/2026
+- 🏊 [Cử tri Gia Lai mong phân quyền mạnh cho cấp xã để phục vụ dân tốt hơn](https://vov.vn/chinh-tri/cu-tri-gia-lai-mong-phan-quyen-manh-cho-cap-xa-de-phuc-vu-dan-tot-hon-post1290030.vov) - 23:34 08/05/2026
+- 🧑‍💻 [Truyền thông Sri Lanka đưa đậm nét về chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/truyen-thong-sri-lanka-dua-dam-net-ve-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1290330.vov) - 23:24 08/05/2026<!-- vov-chinh-tri:END -->
