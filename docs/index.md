@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Trực tiếp Barca 0-0 Real Madrid: Đại chiến ở Nou Camp](https://vov.vn/the-thao/truc-tiep-barca-0-0-real-madrid-dai-chien-o-nou-camp-post1290552.vov) - 17:17 10/05/2026
-- 🕯 [Trực tiếp U17 Việt Nam 1-0 U17 Hàn Quốc: Sỹ Bách ghi bàn tạo địa chấn](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-1-0-u17-han-quoc-sy-bach-ghi-ban-tao-dia-chan-post1290569.vov) - 16:44 10/05/2026
-- 🌊 [Ông Trump tới Bắc Kinh để tìm kiếm sự hỗ trợ của Trung Quốc về vấn đề Iran](https://vov.vn/the-gioi/ong-trump-toi-bac-kinh-de-tim-kiem-su-ho-tro-cua-trung-quoc-ve-van-de-iran-post1290676.vov) - 15:37 10/05/2026
-- 🥷 [Iran phản hồi đề xuất của Mỹ, tình hình eo biển Hormuz có hạ nhiệt?](https://vov.vn/the-gioi/iran-phan-hoi-de-xuat-cua-my-tinh-hinh-eo-bien-hormuz-co-ha-nhiet-post1290667.vov) - 14:17 10/05/2026
-- 🎡 [6 thông điệp &amp;quot;bất biến&amp;quot; của ông Trump giữa tâm điểm xung đột với Iran](https://vov.vn/the-gioi/quan-sat/6-thong-diep-bat-bien-cua-ong-trump-giua-tam-diem-xung-dot-voi-iran-post1290613.vov) - 10:03 10/05/2026
-- 🚀 [Cháy nhà xưởng ở khu công nghiệp tại TP.HCM, cột khói đen cao hàng chục mét](https://vov.vn/xa-hoi/chay-nha-xuong-o-khu-cong-nghiep-tai-tphcm-cot-khoi-den-cao-hang-chuc-met-post1290621.vov) - 09:54 10/05/2026
-- 🔥 [Hà Nội tăng phí vỉa hè, lòng đường: Cần thiết nhằm hạn chế xe cá nhân vào vùng lõi](https://vov.vn/xa-hoi/ha-noi-tang-phi-via-he-long-duong-can-thiet-nham-han-che-xe-ca-nhan-vao-vung-loi-post1290603.vov) - 08:36 10/05/2026
-- 🌋 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
-- 🕴 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
-- 🥰 [Ngôi trường 3 tầng ở TP.HCM bị bỏ hoang, cỏ mọc um tùm](https://vov.vn/xa-hoi/ngoi-truong-3-tang-o-tphcm-bi-bo-hoang-co-moc-um-tum-post1290533.vov) - 02:05 10/05/2026
-- 🧐 [Bảo vệ trẻ em trên không gian mạng: Cần chế tài nghiêm khắc, mạnh mẽ](https://vov.vn/xa-hoi/bao-ve-tre-em-tren-khong-gian-mang-can-che-tai-nghiem-khac-manh-me-post1290532.vov) - 01:38 10/05/2026<!-- vov:END -->
+- 🌜 [Quảng Ngãi: Tai nạn liên hoàn trên Quốc lộ 1A khiến 1 cháu bé tử vong](https://vov.vn/xa-hoi/tin-24h/quang-ngai-tai-nan-lien-hoan-tren-quoc-lo-1a-khien-1-chau-be-tu-vong-post1290693.vov) - 23:06 10/05/2026
+- 🕯 [Bạo hành trẻ em: “Vì sao không ai cứu những đứa trẻ ấy sớm hơn?”](https://vov.vn/xa-hoi/bao-hanh-tre-em-vi-sao-khong-ai-cuu-nhung-dua-tre-ay-som-hon-post1290526.vov) - 23:00 10/05/2026
+- 🌊 [Người Việt đang đánh đổi sức khỏe cho &amp;quot;xiên bẩn&amp;quot; đường phố đến mức nào?](https://vov.vn/xa-hoi/nguoi-viet-dang-danh-doi-suc-khoe-cho-xien-ban-duong-pho-den-muc-nao-post1290627.vov) - 23:00 10/05/2026
+- 🥷 [Xã, phường XHCN - không gian thử nghiệm cho phương pháp quản trị tiến bộ](https://vov.vn/chinh-tri/xa-phuong-xhcn-khong-gian-thu-nghiem-cho-phuong-phap-quan-tri-tien-bo-post1290577.vov) - 22:30 10/05/2026
+- 🎡 [Giá vàng hôm nay 11/5: Vàng SJC giữ mức giá 164,5 - 167,5 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-115-vang-sjc-giu-muc-gia-1645-1675-trieu-dongluong-post1290614.vov) - 22:10 10/05/2026
+- 🚀 [Mức xử phạt vi phạm hành chính lĩnh vực y tế có hiệu lực từ 15/5](https://vov.vn/phap-luat/muc-xu-phat-vi-pham-hanh-chinh-linh-vuc-y-te-co-hieu-luc-tu-155-post1290152.vov) - 22:05 10/05/2026
+- 🔥 [Đại hội đại biểu toàn quốc MTTQ Việt Nam lần thứ XI diễn ra từ hôm nay 11/5](https://vov.vn/chinh-tri/dai-hoi-dai-bieu-toan-quoc-mttq-viet-nam-lan-thu-xi-dien-ra-tu-hom-nay-115-post1290650.vov) - 22:00 10/05/2026
+- 🌋 [Nóng thế giới ngày 11/5: Iran cảnh báo tấn công dữ dội nếu tàu thuyền bị nhắm tới](https://vov.vn/the-gioi/nong-the-gioi-ngay-115-iran-canh-bao-tan-cong-du-doi-neu-tau-thuyen-bi-nham-toi-post1290578.vov) - 22:00 10/05/2026
+- 🕴 [Nhức nhối khai thác vàng trái phép ở A Lưới, TP Huế](https://vov.vn/phap-luat/nhuc-nhoi-khai-thac-vang-trai-phep-o-a-luoi-tp-hue-post1290611.vov) - 22:00 10/05/2026
+- 🥰 [Thi hành pháp luật: Nhận diện điểm nghẽn và giải pháp khắc phục](https://vov.vn/chinh-tri/thi-hanh-phap-luat-nhan-dien-diem-nghen-va-giai-phap-khac-phuc-post1290155.vov) - 22:00 10/05/2026
+- 🧐 [Giá xăng dầu hôm nay 11/5: Dầu Brent giao dịch ở mức 101,29 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-115-dau-brent-giao-dich-o-muc-10129-usdthung-post1290636.vov) - 22:00 10/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
