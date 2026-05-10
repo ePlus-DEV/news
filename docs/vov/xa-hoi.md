@@ -57,8 +57,8 @@ sidebar_position: 3
 - ⛽️ [Lần đầu tiên có cổng truy cập tài nguyên giáo dục mở quốc gia](https://vov.vn/xa-hoi/lan-dau-tien-co-cong-truy-cap-tai-nguyen-giao-duc-mo-quoc-gia-post1290362.vov) - 02:40 09/05/2026
 - 🦍 [Hà Nội đề xuất điều chỉnh đầu tư tuyến Vành đai 3 vốn tăng lên hơn 11.700 tỷ đồng](https://vov.vn/xa-hoi/ha-noi-de-xuat-dieu-chinh-dau-tu-tuyen-vanh-dai-3-von-tang-len-hon-11700-ty-dong-post1290338.vov) - 01:33 09/05/2026
 - 🎉 [Hơn 50.500ha rừng khô hạn ở Cà Mau có nguy cơ xảy ra cháy](https://vov.vn/xa-hoi/hon-50500ha-rung-kho-han-o-ca-mau-co-nguy-co-xay-ra-chay-post1290339.vov) - 01:25 09/05/2026
-- 😎 [Bãi rác Long Chánh &lpar;Đồng Tháp&rpar; ô nhiễm, người dân mòn mỏi chờ giải pháp](https://vov.vn/xa-hoi/bai-rac-long-chanh-dong-thap-o-nhiem-nguoi-dan-mon-moi-cho-giai-phap-post1290150.vov) - 00:00 09/05/2026
-- 🪄 [Hà Nội: Trạm bơm Yên Sở duy trì trực 24/7, sẵn sàng tiêu thoát nước mùa mưa 2026](https://vov.vn/xa-hoi/ha-noi-tram-bom-yen-so-duy-tri-truc-247-san-sang-tieu-thoat-nuoc-mua-mua-2026-post1290209.vov) - 00:00 09/05/2026
+- 😎 [Hà Nội: Trạm bơm Yên Sở duy trì trực 24/7, sẵn sàng tiêu thoát nước mùa mưa 2026](https://vov.vn/xa-hoi/ha-noi-tram-bom-yen-so-duy-tri-truc-247-san-sang-tieu-thoat-nuoc-mua-mua-2026-post1290209.vov) - 00:00 09/05/2026
+- 🪄 [Bãi rác Long Chánh &lpar;Đồng Tháp&rpar; ô nhiễm, người dân mòn mỏi chờ giải pháp](https://vov.vn/xa-hoi/bai-rac-long-chanh-dong-thap-o-nhiem-nguoi-dan-mon-moi-cho-giai-phap-post1290150.vov) - 00:00 09/05/2026
 - 🎊 [Chủ tịch IEMS bị bắt vì tổ chức thi chứng chỉ chui: Hiệp hội từng cảnh báo](https://vov.vn/xa-hoi/chu-tich-iems-bi-bat-vi-to-chuc-thi-chung-chi-chui-hiep-hoi-tung-canh-bao-post1289979.vov) - 23:08 08/05/2026
 - 🦄 [Người dân đồng loạt nhận tiền, bàn giao mặt bằng cho dự án đường Vành đai 2,5](https://vov.vn/xa-hoi/nguoi-dan-dong-loat-nhan-tien-ban-giao-mat-bang-cho-du-an-duong-vanh-dai-25-post1290243.vov) - 23:00 08/05/2026
 - 🐻 [Thời tiết hôm nay 9/5: Hà Nội và Bắc Bộ nhiều mây, mưa dông rải rác, có nơi mưa to](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-95-ha-noi-va-bac-bo-nhieu-may-mua-dong-rai-rac-co-noi-mua-to-post1290192.vov) - 22:27 08/05/2026
