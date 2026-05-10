@@ -25,8 +25,8 @@ sidebar_position: 4
 - 🧑‍💻 [Kiến nghị điều tra thất thoát hơn 26 tỷ đồng tại Công ty TNHH MTV Cà phê Gia Lai](https://vov.vn/kinh-te/kien-nghi-dieu-tra-that-thoat-hon-26-ty-dong-tai-cong-ty-tnhh-mtv-ca-phe-gia-lai-post1290370.vov) - 03:59 09/05/2026
 - 🌏 [Loạt lô sầu riêng đang đối mặt nguy cơ chậm thông quan do ùn ứ kiểm nghiệm](https://vov.vn/kinh-te/loat-lo-sau-rieng-dang-doi-mat-nguy-co-cham-thong-quan-do-un-u-kiem-nghiem-post1290265.vov) - 02:28 09/05/2026
 - 🧑‍🏫 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://vov.vn/kinh-te/bat-dong-san/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-post1290281.vov) - 01:00 09/05/2026
-- 🎭 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
-- 🌏 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
+- 🎭 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
+- 🌏 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
 - 🤖 [Chuối cô đơn bổ dưỡng cỡ nào mà được nhiều người lùng mua?](https://vov.vn/kinh-te/chuoi-co-don-bo-duong-co-nao-ma-duoc-nhieu-nguoi-lung-mua-post1290201.vov) - 23:00 08/05/2026
 - ⛽️ [Nhiều lễ hội quả sẽ diễn ra tại Sơn La trong tháng 5](https://vov.vn/kinh-te/nhieu-le-hoi-qua-se-dien-ra-tai-son-la-trong-thang-5-post1290304.vov) - 15:34 08/05/2026
 - 🎓 [Giải ngân đầu tư công: Đắk Lắk tập trung tháo “điểm nghẽn” để giữ đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-dak-lak-tap-trung-thao-diem-nghen-de-giu-da-tang-truong-post1290219.vov) - 14:57 08/05/2026
@@ -51,8 +51,8 @@ sidebar_position: 4
 - 🦄 [Xã Đoài Phương: Hàng loạt khu đất xây hạ tầng rao bán như dự án phân lô bán nền?](https://vov.vn/kinh-te/bat-dong-san/xa-doai-phuong-hang-loat-khu-dat-xay-ha-tang-rao-ban-nhu-du-an-phan-lo-ban-nen-post1289738.vov) - 01:00 08/05/2026
 - 🌏 [Động lực mới đưa Việt Nam tham gia sâu hơn vào chuỗi cung ứng khu vực và thế giới](https://vov.vn/kinh-te/dong-luc-moi-dua-viet-nam-tham-gia-sau-hon-vao-chuoi-cung-ung-khu-vuc-va-the-gioi-post1289863.vov) - 00:10 08/05/2026
 - 🌁 [4 thay đổi lớn về thuế giá trị gia tăng doanh nghiệp cần lưu ý từ ngày 20/6](https://vov.vn/kinh-te/4-thay-doi-lon-ve-thue-gia-tri-gia-tang-doanh-nghiep-can-luu-y-tu-ngay-206-post1289925.vov) - 00:00 08/05/2026
-- 💄 [Vì sao mặt bằng tại các tuyến phố trung tâm Hà Nội bị bỏ trống kéo dài?](https://vov.vn/kinh-te/bat-dong-san/vi-sao-mat-bang-tai-cac-tuyen-pho-trung-tam-ha-noi-bi-bo-trong-keo-dai-post1289790.vov) - 23:00 07/05/2026
-- 🌈 [Nghề lạ giữa TP.HCM: Nuôi “khỉ biển” bán cho dân chơi cá cảnh, thu tiền tỷ mỗi năm](https://vov.vn/kinh-te/nghe-la-giua-tphcm-nuoi-khi-bien-ban-cho-dan-choi-ca-canh-thu-tien-ty-moi-nam-post1289854.vov) - 23:00 07/05/2026
+- 💄 [Nghề lạ giữa TP.HCM: Nuôi “khỉ biển” bán cho dân chơi cá cảnh, thu tiền tỷ mỗi năm](https://vov.vn/kinh-te/nghe-la-giua-tphcm-nuoi-khi-bien-ban-cho-dan-choi-ca-canh-thu-tien-ty-moi-nam-post1289854.vov) - 23:00 07/05/2026
+- 🌈 [Vì sao mặt bằng tại các tuyến phố trung tâm Hà Nội bị bỏ trống kéo dài?](https://vov.vn/kinh-te/bat-dong-san/vi-sao-mat-bang-tai-cac-tuyen-pho-trung-tam-ha-noi-bi-bo-trong-keo-dai-post1289790.vov) - 23:00 07/05/2026
 - 👍 [Thái Lan tăng hơn 50% phí dịch vụ hành khách quốc tế tại các sân bay](https://vov.vn/kinh-te/thai-lan-tang-hon-50-phi-dich-vu-hanh-khach-quoc-te-tai-cac-san-bay-post1289963.vov) - 13:43 07/05/2026
 - 🎊 [Đà Nẵng thúc đẩy hợp tác quốc tế về nhiên liệu hàng không bền vững](https://vov.vn/kinh-te/da-nang-thuc-day-hop-tac-quoc-te-ve-nhien-lieu-hang-khong-ben-vung-post1289880.vov) - 13:30 07/05/2026
 - 💃 [TP.HCM tính toán chỗ buôn bán cho người dân khi dẹp vỉa hè](https://vov.vn/kinh-te/tphcm-tinh-toan-cho-buon-ban-cho-nguoi-dan-khi-dep-via-he-post1289952.vov) - 12:23 07/05/2026
