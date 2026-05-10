@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Kết quả V-League tối 10-5: CAHN thắng ngược Nam Định nhờ quả phạt đền tranh cãi](https://vov.vn/the-thao/ket-qua-v-league-toi-10-5-cahn-thang-nguoc-nam-dinh-nho-qua-phat-den-tranh-cai-post1290555.vov) - 14:22 10/05/2026
-- 🕯 [Kết quả V-League tối 10-5: CAHN thắng ngược Nam Định nhờ quả phạt đền tranh cãi](https://vov.vn/the-thao/ket-qua-v-league-toi-10-5-cahn-thang-nguoc-nam-dinh-nho-qua-phat-den-tranh-cai-post1290555.vov) - 14:22 10/05/2026
-- 🌊 [6 thông điệp &amp;quot;bất biến&amp;quot; của ông Trump giữa tâm điểm xung đột với Iran](https://vov.vn/the-gioi/quan-sat/6-thong-diep-bat-bien-cua-ong-trump-giua-tam-diem-xung-dot-voi-iran-post1290613.vov) - 10:03 10/05/2026
-- 🥷 [Cháy nhà xưởng ở khu công nghiệp tại TP.HCM, cột khói đen cao hàng chục mét](https://vov.vn/xa-hoi/chay-nha-xuong-o-khu-cong-nghiep-tai-tphcm-cot-khoi-den-cao-hang-chuc-met-post1290621.vov) - 09:54 10/05/2026
-- 🎡 [Hà Nội tăng phí vỉa hè, lòng đường: Cần thiết nhằm hạn chế xe cá nhân vào vùng lõi](https://vov.vn/xa-hoi/ha-noi-tang-phi-via-he-long-duong-can-thiet-nham-han-che-xe-ca-nhan-vao-vung-loi-post1290603.vov) - 08:36 10/05/2026
-- 🚀 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
-- 🔥 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
-- 🌋 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
-- 🕴 [Ngôi trường 3 tầng ở TP.HCM bị bỏ hoang, cỏ mọc um tùm](https://vov.vn/xa-hoi/ngoi-truong-3-tang-o-tphcm-bi-bo-hoang-co-moc-um-tum-post1290533.vov) - 02:05 10/05/2026
-- 🥰 [Bảo vệ trẻ em trên không gian mạng: Cần chế tài nghiêm khắc, mạnh mẽ](https://vov.vn/xa-hoi/bao-ve-tre-em-tren-khong-gian-mang-can-che-tai-nghiem-khac-manh-me-post1290532.vov) - 01:38 10/05/2026
-- 🧐 [Sắp xếp thôn, tổ dân phố: &amp;quot;Khó vạn lần dân liệu cũng xong&amp;quot;](https://vov.vn/chinh-tri/sap-xep-thon-to-dan-pho-kho-van-lan-dan-lieu-cung-xong-post1290045.vov) - 22:00 09/05/2026<!-- vov:END -->
+- 🌜 [Trực tiếp Barca 0-0 Real Madrid: Đại chiến ở Nou Camp](https://vov.vn/the-thao/truc-tiep-barca-0-0-real-madrid-dai-chien-o-nou-camp-post1290552.vov) - 17:17 10/05/2026
+- 🕯 [Trực tiếp U17 Việt Nam 1-0 U17 Hàn Quốc: Sỹ Bách ghi bàn tạo địa chấn](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-1-0-u17-han-quoc-sy-bach-ghi-ban-tao-dia-chan-post1290569.vov) - 16:44 10/05/2026
+- 🌊 [Ông Trump tới Bắc Kinh để tìm kiếm sự hỗ trợ của Trung Quốc về vấn đề Iran](https://vov.vn/the-gioi/ong-trump-toi-bac-kinh-de-tim-kiem-su-ho-tro-cua-trung-quoc-ve-van-de-iran-post1290676.vov) - 15:37 10/05/2026
+- 🥷 [Iran phản hồi đề xuất của Mỹ, tình hình eo biển Hormuz có hạ nhiệt?](https://vov.vn/the-gioi/iran-phan-hoi-de-xuat-cua-my-tinh-hinh-eo-bien-hormuz-co-ha-nhiet-post1290667.vov) - 14:17 10/05/2026
+- 🎡 [6 thông điệp &amp;quot;bất biến&amp;quot; của ông Trump giữa tâm điểm xung đột với Iran](https://vov.vn/the-gioi/quan-sat/6-thong-diep-bat-bien-cua-ong-trump-giua-tam-diem-xung-dot-voi-iran-post1290613.vov) - 10:03 10/05/2026
+- 🚀 [Cháy nhà xưởng ở khu công nghiệp tại TP.HCM, cột khói đen cao hàng chục mét](https://vov.vn/xa-hoi/chay-nha-xuong-o-khu-cong-nghiep-tai-tphcm-cot-khoi-den-cao-hang-chuc-met-post1290621.vov) - 09:54 10/05/2026
+- 🔥 [Hà Nội tăng phí vỉa hè, lòng đường: Cần thiết nhằm hạn chế xe cá nhân vào vùng lõi](https://vov.vn/xa-hoi/ha-noi-tang-phi-via-he-long-duong-can-thiet-nham-han-che-xe-ca-nhan-vao-vung-loi-post1290603.vov) - 08:36 10/05/2026
+- 🌋 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
+- 🕴 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
+- 🥰 [Ngôi trường 3 tầng ở TP.HCM bị bỏ hoang, cỏ mọc um tùm](https://vov.vn/xa-hoi/ngoi-truong-3-tang-o-tphcm-bi-bo-hoang-co-moc-um-tum-post1290533.vov) - 02:05 10/05/2026
+- 🧐 [Bảo vệ trẻ em trên không gian mạng: Cần chế tài nghiêm khắc, mạnh mẽ](https://vov.vn/xa-hoi/bao-ve-tre-em-tren-khong-gian-mang-can-che-tai-nghiem-khac-manh-me-post1290532.vov) - 01:38 10/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
