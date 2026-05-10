@@ -25,8 +25,8 @@ sidebar_position: 4
 - 🧑‍💻 [Kiến nghị điều tra thất thoát hơn 26 tỷ đồng tại Công ty TNHH MTV Cà phê Gia Lai](https://vov.vn/kinh-te/kien-nghi-dieu-tra-that-thoat-hon-26-ty-dong-tai-cong-ty-tnhh-mtv-ca-phe-gia-lai-post1290370.vov) - 03:59 09/05/2026
 - 🌏 [Loạt lô sầu riêng đang đối mặt nguy cơ chậm thông quan do ùn ứ kiểm nghiệm](https://vov.vn/kinh-te/loat-lo-sau-rieng-dang-doi-mat-nguy-co-cham-thong-quan-do-un-u-kiem-nghiem-post1290265.vov) - 02:28 09/05/2026
 - 🧑‍🏫 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://vov.vn/kinh-te/bat-dong-san/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-post1290281.vov) - 01:00 09/05/2026
-- 🎭 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
-- 🌏 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
+- 🎭 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
+- 🌏 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
 - 🤖 [Chuối cô đơn bổ dưỡng cỡ nào mà được nhiều người lùng mua?](https://vov.vn/kinh-te/chuoi-co-don-bo-duong-co-nao-ma-duoc-nhieu-nguoi-lung-mua-post1290201.vov) - 23:00 08/05/2026
 - ⛽️ [Nhiều lễ hội quả sẽ diễn ra tại Sơn La trong tháng 5](https://vov.vn/kinh-te/nhieu-le-hoi-qua-se-dien-ra-tai-son-la-trong-thang-5-post1290304.vov) - 15:34 08/05/2026
 - 🎓 [Giải ngân đầu tư công: Đắk Lắk tập trung tháo “điểm nghẽn” để giữ đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-dak-lak-tap-trung-thao-diem-nghen-de-giu-da-tang-truong-post1290219.vov) - 14:57 08/05/2026
