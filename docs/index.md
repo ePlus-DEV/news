@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [PSG chạm trán Brest: Chủ nhà khẳng định sức mạnh](https://muctim.tuoitre.vn/psg-cham-tran-brest-chu-nha-khang-dinh-suc-manh-101260509212650895.htm) - 16:23 10/05/2026
 - 🥷 [Arsenal và West Ham ra sân với đội hình nào?](https://muctim.tuoitre.vn/arsenal-va-west-ham-ra-san-voi-doi-hinh-nao-101260510214434555.htm) - 14:48 10/05/2026
 - 🤖 [Á hậu 2 Miss Earth 2025 Trịnh Mỹ Anh nói gì về tin đồn thi Miss Universe?](https://muctim.tuoitre.vn/a-hau-2-miss-earth-2025-trinh-my-anh-noi-gi-ve-tin-don-thi-miss-universe-101260510211040389.htm) - 14:18 10/05/2026
-- 🤓 [Trực tiếp U17 châu Á: U17 Việt Nam dẫn U17 Hàn Quốc 1-0 &lpar;hết H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-u17-chau-a-u17-viet-nam-u17-han-quoc-10126051016085559.htm) - 14:10 10/05/2026
+- 🤓 [Ghi 4 bàn trong 10 phút, U17 Hàn Quốc thắng ngược U17 Việt Nam 4-1](https://muctim.tuoitre.vn/truc-tiep-u17-chau-a-u17-viet-nam-u17-han-quoc-10126051016085559.htm) - 14:10 10/05/2026
 - 🎉 [Học sinh TP.HCM kể về mẹ nuôi trong lễ trưởng thành, nhiều người bật khóc](https://muctim.tuoitre.vn/hoc-sinh-tphcm-ke-ve-me-nuoi-trong-le-truong-thanh-nhieu-nguoi-bat-khoc-101260510172130291.htm) - 14:09 10/05/2026
 - 👨‍🏫 [AC Milan đấu Atalanta: quyết thắng để dự Champions League](https://muctim.tuoitre.vn/ac-milan-dau-atalanta-quyet-thang-de-du-champions-league-101260510192110406.htm) - 14:04 10/05/2026
 - 🚦 [Teen cuối cấp trải nghiệm làm sinh viên tại Trường đại học Luật TP.HCM](https://muctim.tuoitre.vn/teen-cuoi-cap-trai-nghiem-lam-sinh-vien-tai-truong-dai-hoc-luat-tphcm-101260510183611352.htm) - 13:53 10/05/2026
