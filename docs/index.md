@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Trực tiếp Man City 0-0 Brentford: Haaland dứt điểm chệch mục tiêu](https://vov.vn/the-thao/truc-tiep-man-city-0-0-brentford-haaland-dut-diem-chech-muc-tieu-post1290401.vov) - 17:06 09/05/2026
-- 🕯 [Trực tiếp Man City 0-0 Brentford: Haaland dứt điểm chệch mục tiêu](https://vov.vn/the-thao/truc-tiep-man-city-0-0-brentford-haaland-dut-diem-chech-muc-tieu-post1290401.vov) - 17:06 09/05/2026
-- 🌊 [Kết quả vòng 36 Ngoại hạng Anh tối 9-5: MU hòa hú vía trên sân Sunderland](https://vov.vn/the-thao/ket-qua-vong-36-ngoai-hang-anh-toi-9-5-mu-hoa-hu-via-tren-san-sunderland-post1290420.vov) - 15:58 09/05/2026
-- 🥷 [Kết quả vòng 36 Ngoại hạng Anh tối 9-5: MU hòa hú vía trên sân Sunderland](https://vov.vn/the-thao/ket-qua-vong-36-ngoai-hang-anh-toi-9-5-mu-hoa-hu-via-tren-san-sunderland-post1290420.vov) - 15:58 09/05/2026
-- 🎡 [Kết quả V-League hôm nay 9/5: Hà Nội FC thua Thanh Hóa, Ninh Bình thắng Hải Phòng](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-95-ha-noi-fc-thua-thanh-hoa-ninh-binh-thang-hai-phong-post1290361.vov) - 13:07 09/05/2026
-- 🚀 [Kết quả V-League hôm nay 9/5: Hà Nội FC thua Thanh Hóa, Ninh Bình thắng Hải Phòng](https://vov.vn/the-thao/ket-qua-v-league-hom-nay-95-ha-noi-fc-thua-thanh-hoa-ninh-binh-thang-hai-phong-post1290361.vov) - 13:07 09/05/2026
-- 🔥 [Thông điệp đáng chú ý của Tổng thống Putin tại lễ duyệt binh Ngày Chiến thắng](https://vov.vn/the-gioi/thong-diep-dang-chu-y-cua-tong-thong-putin-tai-le-duyet-binh-ngay-chien-thang-post1290434.vov) - 09:48 09/05/2026
-- 🌋 [Những hình ảnh ấn tượng tại lễ duyệt binh kỷ niệm 81 năm Ngày Chiến thắng tại Nga](https://vov.vn/the-gioi/nhung-hinh-anh-an-tuong-tai-le-duyet-binh-ky-niem-81-nam-ngay-chien-thang-tai-nga-post1290429.vov) - 09:21 09/05/2026
-- 🕴 [Giải pháp nào để &amp;quot;hạ nhiệt&amp;quot; kỳ thi tuyển sinh lớp 10 tại Hà Nội?](https://vov.vn/xa-hoi/giai-phap-nao-de-ha-nhiet-ky-thi-tuyen-sinh-lop-10-tai-ha-noi-post1290426.vov) - 09:16 09/05/2026
-- 🥰 [Toàn cảnh quốc tế trưa 9/5: Mỹ-Iran vào thế đối đầu mới ở eo biển Hormuz?](https://vov.vn/the-gioi/toan-canh-quoc-te-trua-95-my-iran-vao-the-doi-dau-moi-o-eo-bien-hormuz-post1290406.vov) - 07:42 09/05/2026
-- 🧐 [Chuyến thăm Ấn Độ, Sri Lanka mở ra giai đoạn hợp tác mới cho Việt Nam](https://vov.vn/chinh-tri/chuyen-tham-an-do-sri-lanka-mo-ra-giai-doan-hop-tac-moi-cho-viet-nam-post1290412.vov) - 07:32 09/05/2026<!-- vov:END -->
+- 🌜 [Hà Nội tăng phí vỉa hè, lòng đường: Cần thiết nhằm hạn chế xe cá nhân vào vùng lõi](https://vov.vn/xa-hoi/ha-noi-tang-phi-via-he-long-duong-can-thiet-nham-han-che-xe-ca-nhan-vao-vung-loi-post1290603.vov) - 08:36 10/05/2026
+- 🕯 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
+- 🌊 [TRỰC TIẾP CAHN vs Nam Định: Thượng đỉnh V-League, ngôi vương vẫy gọi](https://vov.vn/the-thao/truc-tiep-cahn-vs-nam-dinh-thuong-dinh-v-league-ngoi-vuong-vay-goi-post1290555.vov) - 05:00 10/05/2026
+- 🥷 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
+- 🎡 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
+- 🚀 [Ngôi trường 3 tầng ở TP.HCM bị bỏ hoang, cỏ mọc um tùm](https://vov.vn/xa-hoi/ngoi-truong-3-tang-o-tphcm-bi-bo-hoang-co-moc-um-tum-post1290533.vov) - 02:05 10/05/2026
+- 🔥 [Bảo vệ trẻ em trên không gian mạng: Cần chế tài nghiêm khắc, mạnh mẽ](https://vov.vn/xa-hoi/bao-ve-tre-em-tren-khong-gian-mang-can-che-tai-nghiem-khac-manh-me-post1290532.vov) - 01:38 10/05/2026
+- 🌋 [Chuyên gia chỉ rõ những &amp;quot;lỗ hổng&amp;quot; làm khó phát hiện các vụ bạo hành trẻ em từ sớm](https://vov.vn/xa-hoi/chuyen-gia-chi-ro-nhung-lo-hong-lam-kho-phat-hien-cac-vu-bao-hanh-tre-em-tu-som-post1290237.vov) - 23:21 09/05/2026
+- 🕴 [Ban Bí thư: Tổ chức đánh giá, sơ kết 1 năm vận hành chính quyền 3 cấp](https://vov.vn/chinh-tri/ban-bi-thu-to-chuc-danh-gia-so-ket-1-nam-van-hanh-chinh-quyen-3-cap-post1290491.vov) - 22:25 09/05/2026
+- 🥰 [Sắp xếp thôn, tổ dân phố: &amp;quot;Khó vạn lần dân liệu cũng xong&amp;quot;](https://vov.vn/chinh-tri/sap-xep-thon-to-dan-pho-kho-van-lan-dan-lieu-cung-xong-post1290045.vov) - 22:00 09/05/2026
+- 🧐 [Haaland vừa ghi bàn vừa kiến tạo, Man City thắng đậm Brentford](https://vov.vn/the-thao/haaland-vua-ghi-ban-vua-kien-tao-man-city-thang-dam-brentford-post1290401.vov) - 18:39 09/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
