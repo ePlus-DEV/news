@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Cháy dữ dội tại quán karaoke Volume Club ở Phú Mỹ, Hà Nội](https://vov.vn/xa-hoi/chay-du-doi-tai-quan-karaoke-volume-club-o-phu-my-ha-noi-post1290787.vov) - 04:30 11/05/2026
-- 🦍 [Hà Nội bầu thêm 2 Phó Chủ tịch UBND là ông Đỗ Anh Tuấn và ông Bùi Duy Cường](https://vov.vn/chinh-tri/ha-noi-bau-them-2-pho-chu-tich-ubnd-la-ong-do-anh-tuan-va-ong-bui-duy-cuong-post1290784.vov) - 04:30 11/05/2026
-- 🦏 [Cái gì cũng đến cấp xã, cần chính sách cho cán bộ phù hợp hơn](https://vov.vn/chinh-tri/cai-gi-cung-den-cap-xa-can-chinh-sach-cho-can-bo-phu-hop-hon-post1290781.vov) - 04:26 11/05/2026
-- 😎 [Kiều bào kỳ vọng MTTQ “cầu nối số” gắn kết người Việt toàn cầu](https://vov.vn/chinh-tri/kieu-bao-ky-vong-mttq-cau-noi-so-gan-ket-nguoi-viet-toan-cau-post1290778.vov) - 04:19 11/05/2026
-- 💯 [&amp;quot;Phụ huynh và học sinh còn băn khoăn về lựa chọn tổ hợp môn từ lớp 10&amp;quot;](https://vov.vn/chinh-tri/phu-huynh-va-hoc-sinh-con-ban-khoan-ve-lua-chon-to-hop-mon-tu-lop-10-post1290758.vov) - 04:14 11/05/2026
-- 🦩 [Đoàn đại biểu dự Đại hội XI của MTTQ Việt Nam vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vov.vn/chinh-tri/doan-dai-bieu-du-dai-hoi-xi-cua-mttq-viet-nam-vao-lang-vieng-chu-tich-ho-chi-minh-post1290749.vov) - 03:29 11/05/2026
-- 💃 [Danh sách gần 10.000 cơ sở, từ nhà trọ đến công ty sắp bị công an Hà Nội kiểm tra](https://vov.vn/xa-hoi/danh-sach-gan-10000-co-so-tu-nha-tro-den-cong-ty-sap-bi-cong-an-ha-noi-kiem-tra-post1290746.vov) - 03:28 11/05/2026
-- 🦣 [Mở rộng phạm vi hợp nhất văn bản quy phạm pháp luật](https://vov.vn/chinh-tri/mo-rong-pham-vi-hop-nhat-van-ban-quy-pham-phap-luat-post1290741.vov) - 03:04 11/05/2026
-- 👹 [HĐND Thành phố Hà Nội chưa thông qua Nghị quyết về &amp;quot;Đề án Vùng phát thải thấp&amp;quot;](https://vov.vn/xa-hoi/hdnd-thanh-pho-ha-noi-chua-thong-qua-nghi-quyet-ve-de-an-vung-phat-thai-thap-post1290743.vov) - 03:01 11/05/2026
-- 🫶 [Thủ tướng Lê Minh Hưng làm việc với Bộ Ngoại giao](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-lam-viec-voi-bo-ngoai-giao-post1290734.vov) - 02:52 11/05/2026
-- 😺 [Những thay đổi cơ bản trong dự án &amp;quot;Trục đại lộ cảnh quan sông Hồng&amp;quot;](https://vov.vn/xa-hoi/nhung-thay-doi-co-ban-trong-du-an-truc-dai-lo-canh-quan-song-hong-post1290740.vov) - 02:50 11/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Chủ tịch Quốc hội: Không để “nước đến chân mới nhảy” trong làm luật](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-khong-de-nuoc-den-chan-moi-nhay-trong-lam-luat-post1290876.vov) - 09:16 11/05/2026
+- 🦍 [&amp;quot;Không thể trả lời cử tri về chuyển đổi số nếu kết nối còn trục trặc&amp;quot;](https://vov.vn/chinh-tri/khong-the-tra-loi-cu-tri-ve-chuyen-doi-so-neu-ket-noi-con-truc-trac-post1290854.vov) - 08:56 11/05/2026
+- 🦏 [Thủ tướng: Xây dựng, hoàn thiện thể chế phù hợp để xác lập mô hình tăng trưởng mới](https://vov.vn/chinh-tri/thu-tuong-xay-dung-hoan-thien-the-che-phu-hop-de-xac-lap-mo-hinh-tang-truong-moi-post1290849.vov) - 08:35 11/05/2026
+- 😎 [Thủ tướng: Xây dựng, hoàn thiện thể chế phù hợp để xác lập mô hình tăng trưởng mới](https://vov.vn/chinh-tri/thu-tuong-xay-dung-hoan-thien-the-che-phu-hop-de-xac-lap-mo-hinh-tang-truong-moi-post1290849.vov) - 08:35 11/05/2026
+- 💯 [Căng mình dập lửa suốt nhiều giờ ở quán Volume Club, nhiều chiến sĩ PCCC kiệt sức](https://vov.vn/xa-hoi/cang-minh-dap-lua-suot-nhieu-gio-o-quan-volume-club-nhieu-chien-si-pccc-kiet-suc-post1290851.vov) - 08:30 11/05/2026
+- 🦩 [Thi tốt nghiệp THPT: Nguy cơ tăng gian lận công nghệ cao, AI giải đề siêu tốc](https://vov.vn/xa-hoi/thi-tot-nghiep-thpt-nguy-co-tang-gian-lan-cong-nghe-cao-ai-giai-de-sieu-toc-post1290798.vov) - 08:05 11/05/2026
+- 💃 [Hà Nội thông qua chủ trương đầu tư dự án &amp;quot;Trục đại lộ cảnh quan sông Hồng&amp;quot;](https://vov.vn/xa-hoi/ha-noi-thong-qua-chu-truong-dau-tu-du-an-truc-dai-lo-canh-quan-song-hong-post1290813.vov) - 05:27 11/05/2026
+- 🦣 [Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Văn phòng Chủ tịch nước](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-lam-viec-voi-van-phong-chu-tich-nuoc-post1290809.vov) - 05:15 11/05/2026
+- 👹 [Kỳ họp thứ 2, Quốc hội khóa XVI dự kiến diễn ra trong gần 30 ngày](https://vov.vn/chinh-tri/ky-hop-thu-2-quoc-hoi-khoa-xvi-du-kien-dien-ra-trong-gan-30-ngay-post1290800.vov) - 05:00 11/05/2026
+- 🫶 [Chưa thông qua &amp;quot;Đề án Vùng phát thải thấp&amp;quot; vì chưa có sự đồng bộ các chính sách](https://vov.vn/xa-hoi/chua-thong-qua-de-an-vung-phat-thai-thap-vi-chua-co-su-dong-bo-cac-chinh-sach-post1290795.vov) - 04:59 11/05/2026
+- 😺 [&amp;quot;Phụ huynh và học sinh còn băn khoăn về lựa chọn tổ hợp môn từ lớp 10&amp;quot;](https://vov.vn/chinh-tri/phu-huynh-va-hoc-sinh-con-ban-khoan-ve-lua-chon-to-hop-mon-tu-lop-10-post1290758.vov) - 04:14 11/05/2026<!-- vov-tin-moi-nhat:END -->
