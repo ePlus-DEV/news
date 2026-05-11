@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Cơ cấu, thành phần đại biểu dự Đại hội XI của Mặt trận Tổ quốc Việt Nam](https://vov.vn/chinh-tri/co-cau-thanh-phan-dai-bieu-du-dai-hoi-xi-cua-mat-tran-to-quoc-viet-nam-post1290566.vov) - 07:23 10/05/2026
-- 💃 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
-- 🫶 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026
-- 👨‍🏫 [Ban Bí thư: Tổ chức đánh giá, sơ kết 1 năm vận hành chính quyền 3 cấp](https://vov.vn/chinh-tri/ban-bi-thu-to-chuc-danh-gia-so-ket-1-nam-van-hanh-chinh-quyen-3-cap-post1290491.vov) - 22:25 09/05/2026
-- 🪜 [Sắp xếp thôn, tổ dân phố: &amp;quot;Khó vạn lần dân liệu cũng xong&amp;quot;](https://vov.vn/chinh-tri/sap-xep-thon-to-dan-pho-kho-van-lan-dan-lieu-cung-xong-post1290045.vov) - 22:00 09/05/2026
-- 🌋 [Cục 16 &lpar;Tổng cục II&rpar; đón nhận danh hiệu Anh hùng lực lượng vũ trang nhân](https://vov.vn/chinh-tri/cuc-16-tong-cuc-ii-don-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-post1290493.vov) - 14:55 09/05/2026
-- 🎉 [65 năm ngày Bác Hồ ra thăm đảo Cô Tô: Đặc khu vững vàng nơi phên dậu Đông Bắc](https://vov.vn/chinh-tri/65-nam-ngay-bac-ho-ra-tham-dao-co-to-dac-khu-vung-vang-noi-phen-dau-dong-bac-post1290482.vov) - 13:17 09/05/2026
-- 🌝 [Việt Nam - Sri Lanka thúc đẩy hợp tác và trao đổi kinh nghiệm xây dựng Đảng](https://vov.vn/chinh-tri/viet-nam-sri-lanka-thuc-day-hop-tac-va-trao-doi-kinh-nghiem-xay-dung-dang-post1290419.vov) - 08:00 09/05/2026
-- 🏊 [Chuyến thăm Ấn Độ, Sri Lanka mở ra giai đoạn hợp tác mới cho Việt Nam](https://vov.vn/chinh-tri/chuyen-tham-an-do-sri-lanka-mo-ra-giai-doan-hop-tac-moi-cho-viet-nam-post1290412.vov) - 07:32 09/05/2026
-- 🧑‍💻 [ASEAN đoàn kết, chủ động ứng phó với tác động đa chiều](https://vov.vn/chinh-tri/asean-doan-ket-chu-dong-ung-pho-voi-tac-dong-da-chieu-post1290407.vov) - 07:26 09/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Hà Nội bầu thêm 2 Phó Chủ tịch UBND là ông Đỗ Anh Tuấn và ông Bùi Duy Cường](https://vov.vn/chinh-tri/ha-noi-bau-them-2-pho-chu-tich-ubnd-la-ong-do-anh-tuan-va-ong-bui-duy-cuong-post1290784.vov) - 04:30 11/05/2026
+- 💃 [Cái gì cũng đến cấp xã, cần chính sách cho cán bộ phù hợp hơn](https://vov.vn/chinh-tri/cai-gi-cung-den-cap-xa-can-chinh-sach-cho-can-bo-phu-hop-hon-post1290781.vov) - 04:26 11/05/2026
+- 🫶 [Kiều bào kỳ vọng MTTQ “cầu nối số” gắn kết người Việt toàn cầu](https://vov.vn/chinh-tri/kieu-bao-ky-vong-mttq-cau-noi-so-gan-ket-nguoi-viet-toan-cau-post1290778.vov) - 04:19 11/05/2026
+- 👨‍🏫 [&amp;quot;Phụ huynh và học sinh còn băn khoăn về lựa chọn tổ hợp môn từ lớp 10&amp;quot;](https://vov.vn/chinh-tri/phu-huynh-va-hoc-sinh-con-ban-khoan-ve-lua-chon-to-hop-mon-tu-lop-10-post1290758.vov) - 04:14 11/05/2026
+- 🪜 [Thủ tướng Lê Minh Hưng làm việc với Bộ Ngoại giao](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-lam-viec-voi-bo-ngoai-giao-post1290734.vov) - 02:52 11/05/2026
+- 🌋 [Xã, phường XHCN - không gian thử nghiệm cho phương pháp quản trị tiến bộ](https://vov.vn/chinh-tri/xa-phuong-xhcn-khong-gian-thu-nghiem-cho-phuong-phap-quan-tri-tien-bo-post1290577.vov) - 22:30 10/05/2026
+- 🎉 [Đại hội đại biểu toàn quốc MTTQ Việt Nam lần thứ XI diễn ra từ hôm nay 11/5](https://vov.vn/chinh-tri/dai-hoi-dai-bieu-toan-quoc-mttq-viet-nam-lan-thu-xi-dien-ra-tu-hom-nay-115-post1290650.vov) - 22:00 10/05/2026
+- 🌝 [Thi hành pháp luật: Nhận diện điểm nghẽn và giải pháp khắc phục](https://vov.vn/chinh-tri/thi-hanh-phap-luat-nhan-dien-diem-nghen-va-giai-phap-khac-phuc-post1290155.vov) - 22:00 10/05/2026
+- 🏊 [Ủy ban Thường vụ Quốc hội cho ý kiến về chuẩn bị Kỳ họp thứ 2, Quốc hội khóa XVI](https://vov.vn/chinh-tri/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-chuan-bi-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1290576.vov) - 05:40 10/05/2026
+- 🧑‍💻 [Nhân sự MTTQ phải thật sự tiêu biểu về uy tín, phẩm chất, tinh thần phụng sự](https://vov.vn/chinh-tri/nhan-su-mttq-phai-that-su-tieu-bieu-ve-uy-tin-pham-chat-tinh-than-phung-su-post1290553.vov) - 03:36 10/05/2026<!-- vov-chinh-tri:END -->
