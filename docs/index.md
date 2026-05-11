@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Quảng Ngãi: Tai nạn liên hoàn trên Quốc lộ 1A khiến 1 cháu bé tử vong](https://vov.vn/xa-hoi/tin-24h/quang-ngai-tai-nan-lien-hoan-tren-quoc-lo-1a-khien-1-chau-be-tu-vong-post1290693.vov) - 23:06 10/05/2026
-- 🕯 [Bạo hành trẻ em: “Vì sao không ai cứu những đứa trẻ ấy sớm hơn?”](https://vov.vn/xa-hoi/bao-hanh-tre-em-vi-sao-khong-ai-cuu-nhung-dua-tre-ay-som-hon-post1290526.vov) - 23:00 10/05/2026
-- 🌊 [Người Việt đang đánh đổi sức khỏe cho &amp;quot;xiên bẩn&amp;quot; đường phố đến mức nào?](https://vov.vn/xa-hoi/nguoi-viet-dang-danh-doi-suc-khoe-cho-xien-ban-duong-pho-den-muc-nao-post1290627.vov) - 23:00 10/05/2026
-- 🥷 [Xã, phường XHCN - không gian thử nghiệm cho phương pháp quản trị tiến bộ](https://vov.vn/chinh-tri/xa-phuong-xhcn-khong-gian-thu-nghiem-cho-phuong-phap-quan-tri-tien-bo-post1290577.vov) - 22:30 10/05/2026
-- 🎡 [Giá vàng hôm nay 11/5: Vàng SJC giữ mức giá 164,5 - 167,5 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-115-vang-sjc-giu-muc-gia-1645-1675-trieu-dongluong-post1290614.vov) - 22:10 10/05/2026
-- 🚀 [Mức xử phạt vi phạm hành chính lĩnh vực y tế có hiệu lực từ 15/5](https://vov.vn/phap-luat/muc-xu-phat-vi-pham-hanh-chinh-linh-vuc-y-te-co-hieu-luc-tu-155-post1290152.vov) - 22:05 10/05/2026
-- 🔥 [Đại hội đại biểu toàn quốc MTTQ Việt Nam lần thứ XI diễn ra từ hôm nay 11/5](https://vov.vn/chinh-tri/dai-hoi-dai-bieu-toan-quoc-mttq-viet-nam-lan-thu-xi-dien-ra-tu-hom-nay-115-post1290650.vov) - 22:00 10/05/2026
-- 🌋 [Nóng thế giới ngày 11/5: Iran cảnh báo tấn công dữ dội nếu tàu thuyền bị nhắm tới](https://vov.vn/the-gioi/nong-the-gioi-ngay-115-iran-canh-bao-tan-cong-du-doi-neu-tau-thuyen-bi-nham-toi-post1290578.vov) - 22:00 10/05/2026
-- 🕴 [Nhức nhối khai thác vàng trái phép ở A Lưới, TP Huế](https://vov.vn/phap-luat/nhuc-nhoi-khai-thac-vang-trai-phep-o-a-luoi-tp-hue-post1290611.vov) - 22:00 10/05/2026
-- 🥰 [Thi hành pháp luật: Nhận diện điểm nghẽn và giải pháp khắc phục](https://vov.vn/chinh-tri/thi-hanh-phap-luat-nhan-dien-diem-nghen-va-giai-phap-khac-phuc-post1290155.vov) - 22:00 10/05/2026
-- 🧐 [Giá xăng dầu hôm nay 11/5: Dầu Brent giao dịch ở mức 101,29 USD/thùng](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-115-dau-brent-giao-dich-o-muc-10129-usdthung-post1290636.vov) - 22:00 10/05/2026<!-- vov:END -->
+- 🌜 [Sáng nay, khai mạc Đại hội đại biểu toàn quốc MTTQ Việt Nam lần thứ XI](https://vov.vn/chinh-tri/sang-nay-khai-mac-dai-hoi-dai-bieu-toan-quoc-mttq-viet-nam-lan-thu-xi-post1290968.vov) - 22:20 11/05/2026
+- 🕯 [Thí điểm xây dựng xã, phường XHCN - Chủ trương đúng đắn và sáng tạo của Đảng ta](https://vov.vn/chinh-tri/thi-diem-xay-dung-xa-phuong-xhcn-chu-truong-dung-dan-va-sang-tao-cua-dang-ta-post1290659.vov) - 22:10 11/05/2026
+- 🌊 [Thí điểm xây dựng xã, phường XHCN - Chủ trương đúng đắn và sáng tạo của Đảng ta](https://vov.vn/chinh-tri/thi-diem-xay-dung-xa-phuong-xhcn-chu-truong-dung-dan-va-sang-tao-cua-dang-ta-post1290659.vov) - 22:10 11/05/2026
+- 🥷 [Giá xăng dầu hôm nay 12/5: Giá dầu thế giới tiếp tục tăng nhẹ](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-125-gia-dau-the-gioi-tiep-tuc-tang-nhe-post1290893.vov) - 22:00 11/05/2026
+- 🎡 [Nóng thế giới ngày 12/5: Thượng đỉnh Mỹ - Trung Quốc sắp diễn ra, bàn vấn đề lớn](https://vov.vn/the-gioi/nong-the-gioi-ngay-125-thuong-dinh-my-trung-quoc-sap-dien-ra-ban-van-de-lon-post1290925.vov) - 22:00 11/05/2026
+- 🚀 [Nóng 24h ngày 12/5: Công an Hải Phòng thông tin vụ Miu Lê sử dụng ma túy](https://vov.vn/phap-luat/nong-24h-ngay-125-cong-an-hai-phong-thong-tin-vu-miu-le-su-dung-ma-tuy-post1290972.vov) - 22:00 11/05/2026
+- 🔥 [Thủ tướng: Xác định bài toán lớn, công nghệ chiến lược theo tiềm năng, lợi thế](https://vov.vn/chinh-tri/thu-tuong-xac-dinh-bai-toan-lon-cong-nghe-chien-luoc-theo-tiem-nang-loi-the-post1290969.vov) - 14:54 11/05/2026
+- 🌋 [Bí thư Thành ủy TP.HCM: Mục tiêu cuối cùng là người dân có cuộc sống tốt hơn](https://vov.vn/chinh-tri/bi-thu-thanh-uy-tphcm-muc-tieu-cuoi-cung-la-nguoi-dan-co-cuoc-song-tot-hon-post1290963.vov) - 14:15 11/05/2026
+- 🕴 [Iran nói đề xuất gửi Mỹ là “hợp lý”, bác tuyên bố của Tổng thống Trump](https://vov.vn/the-gioi/iran-noi-de-xuat-gui-my-la-hop-ly-bac-tuyen-bo-cua-tong-thong-trump-post1290967.vov) - 14:00 11/05/2026
+- 🥰 [Mặt trận lắng nghe nhân dân để nâng cao hiệu quả giám sát, phản biện xã hội](https://vov.vn/chinh-tri/mat-tran-lang-nghe-nhan-dan-de-nang-cao-hieu-qua-giam-sat-phan-bien-xa-hoi-post1290919.vov) - 11:16 11/05/2026
+- 🧐 [Chủ tịch Quốc hội: Không để “nước đến chân mới nhảy” trong làm luật](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-khong-de-nuoc-den-chan-moi-nhay-trong-lam-luat-post1290876.vov) - 09:16 11/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
