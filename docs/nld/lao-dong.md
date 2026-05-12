@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- nld-lao-dong:START -->
-- 🔥 [Đóng đủ BHXH nhưng nghỉ trước tuổi có được nhận lương hưu?](https://nld.com.vn/dong-du-bhxh-nhung-nghi-truoc-tuoi-co-duoc-nhan-luong-huu-196260511210304811.htm) - 02:25 12/05/2026
-- 📝 [DỒN SỨC CHĂM LO NGƯỜI LAO ĐỘNG &lpar;*&rpar;: Nâng chất đời sống công nhân](https://nld.com.vn/don-suc-cham-lo-nguoi-lao-dong-nang-chat-doi-song-cong-nhan-196260511205747172.htm) - 00:00 12/05/2026
-- ⚗️ [Đơn hàng tăng, cơ hội việc làm rộng mở](https://nld.com.vn/don-hang-tang-co-hoi-viec-lam-rong-mo-196260511210017162.htm) - 22:34 11/05/2026
-- 🦅 [Thực hiện &quot;1.000 công trình chăm lo người lao động và an sinh vì cộng đồng&quot;](https://nld.com.vn/thuc-hien-1000-cong-trinh-cham-lo-nguoi-lao-dong-va-an-sinh-vi-cong-dong-196260511162211261.htm) - 09:24 11/05/2026
-- 🧐 [Chuỗi hoạt động ý nghĩa của Công đoàn xã Nhà Bè trong Tháng Công nhân](https://nld.com.vn/chuoi-hoat-dong-y-nghia-cua-cong-doan-xa-nha-be-trong-thang-cong-nhan-196260511144035927.htm) - 08:00 11/05/2026
-- 🧑‍💻 [Doanh nghiệp được &quot;bật đèn xanh&quot; lập quỹ đào tạo nhân lực](https://nld.com.vn/doanh-nghiep-duoc-bat-den-xanh-lap-quy-dao-tao-nhan-luc-196260511090446895.htm) - 02:40 11/05/2026
-- 🧑‍🏫 [Lao động nam đầu tiên ở Bắc Ninh nhận trợ cấp thai sản từ BHXH tự nguyện](https://nld.com.vn/lao-dong-nam-dau-tien-o-bac-ninh-nhan-tro-cap-thai-san-tu-bhxh-tu-nguyen-196260511062733236.htm) - 00:06 11/05/2026
-- 💯 [Dồn sức chăm lo người lao động](https://nld.com.vn/don-suc-cham-lo-nguoi-lao-dong-1962605102102241.htm) - 00:00 11/05/2026
-- ⚗️ [Các hoạt động hỗ trợ thiết thực trong Tháng Công nhân](https://nld.com.vn/cac-hoat-dong-ho-tro-thiet-thuc-trong-thang-cong-nhan-196260510145912936.htm) - 08:32 10/05/2026
-- 🦅 [TPHCM: Nhiều hoạt động chăm lo cho người lao động của Công đoàn xã Nhuận Đức](https://nld.com.vn/tphcm-nhieu-hoat-dong-cham-lo-cho-nguoi-lao-dong-cua-cong-doan-xa-nhuan-duc-196260510132309478.htm) - 06:44 10/05/2026
-- 🔭 [Công đoàn phường Đông Hưng Thuận: Đẩy mạnh phong trào &quot;Mỗi đoàn viên - Một sáng kiến&quot;](https://nld.com.vn/cong-doan-phuong-dong-hung-thuan-day-manh-phong-trao-moi-doan-vien-mot-sang-kien-196260510121651611.htm) - 05:29 10/05/2026
-- 🤗 [Hàng trăm VĐV dự giải chạy Công đoàn dưới chân đèo Hải Vân](https://nld.com.vn/hang-tram-vdv-du-giai-chay-cong-doan-duoi-chan-deo-hai-van-196260510114858142.htm) - 05:21 10/05/2026
-- 🌋 [Công đoàn xã Bình Mỹ: Phát huy vai trò Công đoàn trong Tháng Công nhân](https://nld.com.vn/cong-doan-xa-binh-my-phat-huy-vai-tro-cong-doan-trong-thang-cong-nhan-196260510112628698.htm) - 04:56 10/05/2026
-- 🪄 [Tập huấn sơ cứu đột quỵ cho đoàn viên Công đoàn Đà Nẵng](https://nld.com.vn/tap-huan-so-cuu-dot-quy-cho-doan-vien-cong-doan-da-nang-196260510112057157.htm) - 04:43 10/05/2026
-- 🪄 [Vừa nhận lương hưu, đi làm thêm có phải đóng BHXH?](https://nld.com.vn/vua-nhan-luong-huu-di-lam-them-co-phai-dong-bhxh-196260509205333312.htm) - 03:29 10/05/2026
-- 💼 [AI tái định hình việc làm trong ngành logistics](https://nld.com.vn/ai-tai-dinh-hinh-viec-lam-trong-nganh-logistics-196260510065739626.htm) - 01:30 10/05/2026
-- 🤔 [Để không &quot;lạc lối&quot; trên thị trường lao động](https://nld.com.vn/de-khong-lac-loi-tren-thi-truong-lao-dong-19626050919203723.htm) - 00:00 10/05/2026
-- 🌝 [Từ hôm nay, thêm chính sách giúp người lao động cải thiện lương hưu](https://nld.com.vn/tu-hom-nay-them-chinh-sach-giup-nguoi-lao-dong-cai-thien-luong-huu-196260509215638535.htm) - 23:07 09/05/2026
-- 🌮 [Công đoàn phường An Hội Đông lan tỏa phong trào &quot;Thành phố muôn sắc hoa&quot;](https://nld.com.vn/cong-doan-phuong-an-hoi-dong-lan-toa-phong-trao-thanh-pho-muon-sac-hoa-196260509192140542.htm) - 12:52 09/05/2026
-- 👍 [Thủ tướng chỉ đạo về nhà ở xã hội cho cán bộ, công chức, viên chức](https://nld.com.vn/thu-tuong-chi-dao-ve-nha-o-xa-hoi-cho-can-bo-cong-chuc-vien-chuc-196260509151603966.htm) - 11:24 09/05/2026
-- 🏊 [Công nhân Đà Nẵng muốn thẻ đoàn viên thành “tấm thẻ quyền lực”](https://nld.com.vn/cong-nhan-da-nang-muon-the-doan-vien-thanh-tam-the-quyen-luc-196260509145310651.htm) - 09:33 09/05/2026
-- 💂 [Kỳ vọng của BHXH TPHCM từ hoạt động diễn ra trong ngày 9-5](https://nld.com.vn/ky-vong-cua-bhxh-tphcm-tu-hoat-dong-dien-ra-trong-ngay-9-5-196260509150838566.htm) - 08:34 09/05/2026
-- 👀 [Chi tiết 4 dự án nhà ở xã hội dành cho công nhân Đà Nẵng](https://nld.com.vn/chi-tiet-4-du-an-nha-o-xa-hoi-danh-cho-cong-nhan-da-nang-196260509135110566.htm) - 08:30 09/05/2026
-- 🌁 [Tháng Công nhân ở phường Tân Thới Hiệp: Hướng đến chăm lo thực chất](https://nld.com.vn/thang-cong-nhan-o-phuong-tan-thoi-hiep-huong-den-cham-lo-thuc-chat-196260509144900543.htm) - 08:22 09/05/2026
-- 💫 [Phường Chợ Lớn phát động Tháng Công nhân, tiếp nhận hơn 1,3 tỉ đồng cho Quỹ “Vì người nghèo”](https://nld.com.vn/phuong-cho-lon-phat-dong-thang-cong-nhan-tiep-nhan-hon-13-ti-dong-cho-quy-vi-nguoi-ngheo-196260509143325894.htm) - 08:19 09/05/2026
-- ⛽️ [Trao 100 suất quà, hỗ trợ “Mái ấm Công đoàn” cho người lao động Đà Nẵng](https://nld.com.vn/trao-100-suat-qua-ho-tro-mai-am-cong-doan-cho-nguoi-lao-dong-da-nang-196260509082205422.htm) - 07:05 09/05/2026
-- 🎭 [Nữ công nhân lần đầu tiên được tầm soát ung thư cổ tử cung bằng AI](https://nld.com.vn/nu-cong-nhan-lan-dau-tien-duoc-tam-soat-ung-thu-co-tu-cung-bang-ai-196260509095059365.htm) - 04:58 09/05/2026
-- 🎊 [Chăm sóc sức khỏe, tặng quà, tạo sân chơi cho người lao động trong Tháng Công nhân](https://nld.com.vn/cham-soc-suc-khoe-tang-qua-tao-san-choi-cho-nguoi-lao-dong-trong-thang-cong-nhan-196260509111733656.htm) - 04:54 09/05/2026
-- 🦣 [Những trường hợp nhân tài sẽ được hưởng phụ cấp lên tới 300%?](https://nld.com.vn/nhung-truong-hop-nhan-tai-se-duoc-thuong-phu-cap-len-toi-300-196260509090039539.htm) - 03:02 09/05/2026
-- 🧠 [Diện hưởng lương hưu, trợ cấp BHXH tiếp tục mở rộng](https://nld.com.vn/dien-huong-luong-huu-tro-cap-bhxh-tiep-tuc-mo-rong-196260508213826702.htm) - 02:10 09/05/2026
-- 🙉 [Doanh nghiệp tham gia đào tạo nghề được hưởng những ưu đãi nào?](https://nld.com.vn/doanh-nghiep-tham-gia-dao-tao-nghe-duoc-huong-nhung-uu-dai-nao-196260509084435906.htm) - 02:02 09/05/2026
-- 💃 [Hồ sơ hưởng trợ cấp thất nghiệp: Gồm những gì, nộp ở đâu?](https://nld.com.vn/ho-so-huong-tro-cap-that-nghiep-gom-nhung-gi-nop-o-dau-196260508225114758.htm) - 01:43 09/05/2026
-- 🔭 [An toàn lao động không thể quản lý kiểu cũ](https://nld.com.vn/an-toan-lao-dong-khong-the-quan-ly-kieu-cu-196260508203200927.htm) - 23:01 08/05/2026
-- 🚀 [Bồi dưỡng lý tưởng cách mạng cho cán bộ, đoàn viên - lao động](https://nld.com.vn/boi-duong-ly-tuong-cach-mang-cho-can-bo-doan-vien-lao-dong-196260508185657093.htm) - 12:36 08/05/2026
-- 🎃 [Chương trình bình chọn và vinh danh “Doanh nghiệp vì người lao động - Chuẩn mực vàng” năm 2026](https://nld.com.vn/chuong-trinh-binh-chon-va-vinh-danh-doanh-nghiep-vi-nguoi-lao-dong-chuan-muc-vang-nam-2026-196260508172456139.htm) - 10:51 08/05/2026
-- 🪄 [Sôi nổi tranh tài tại Hội thao CITENCO năm 2026](https://nld.com.vn/soi-noi-tranh-tai-tai-hoi-thao-citenco-nam-2026-19626050817034346.htm) - 10:40 08/05/2026
-- 🦍 [TPHCM: Nâng cao nhận thức an toàn lao động cho cán bộ Công đoàn, CNVC-LĐ](https://nld.com.vn/tphcm-nang-cao-nhan-thuc-an-toan-lao-dong-cho-can-bo-cong-doan-cnvc-ld-196260508163512927.htm) - 10:36 08/05/2026
-- 🧑‍💻 [Người lao động ngành Công nghiệp - Năng lượng được tiếp thêm động lực](https://nld.com.vn/nguoi-lao-dong-nganh-cong-nghiep-nang-luong-duoc-tiep-them-dong-luc-196260508161755386.htm) - 09:59 08/05/2026
-- 🪄 [Cung đường tuyệt đẹp tổ chức giải “Tháng Công nhân, bước chạy đoàn kết” ở Đà Nẵng](https://nld.com.vn/cung-duong-tuyet-dep-to-chuc-giai-thang-cong-nhan-buoc-chay-doan-ket-o-da-nang-196260508151215241.htm) - 09:11 08/05/2026
-- 🤠 [Đoàn viên, cán bộ Công đoàn tiêu biểu dâng hương tưởng nhớ các anh hùng liệt sĩ tại Côn Đảo](https://nld.com.vn/doan-vien-can-bo-cong-doan-tieu-bieu-dang-huong-tuong-nho-cac-anh-hung-liet-si-tai-con-dao-196260508152422089.htm) - 09:01 08/05/2026
-- 🦩 [Rà soát ủy quyền nhận lương hưu để tránh gián đoạn chi trả](https://nld.com.vn/ra-soat-uy-quyen-nhan-luong-huu-de-tranh-gian-doan-chi-tra-19626050815235314.htm) - 09:01 08/05/2026
-- 🙉 [Từ sự vào cuộc của LĐLĐ TPHCM, Công ty Vinh Thông đã trả gần 3,1 tỉ đồng tiền nợ lương](https://nld.com.vn/tu-su-vao-cuoc-cua-ldld-tphcm-cong-ty-vinh-thong-da-tra-gan-31-ti-dong-tien-no-luong-196260508153255117.htm) - 08:59 08/05/2026
-- 🥰 [Hàng trăm phần quà tiếp sức công nhân nghèo ở Cà Mau](https://nld.com.vn/hang-tram-phan-qua-tiep-suc-cong-nhan-ngheo-o-ca-mau-196260508121946435.htm) - 08:09 08/05/2026
-- 👺 [Rút BHXH một lần tại TPHCM: Hệ thống thông suốt, nhiều tiện ích, không lo chờ đợi](https://nld.com.vn/rut-bhxh-mot-lan-tai-tphcm-he-thong-thong-suot-nhieu-tien-ich-khong-lo-cho-doi-196260508135718974.htm) - 07:00 08/05/2026
-- 🤡 [Nâng cao hiệu quả công tác an toàn, vệ sinh lao động trong kỷ nguyên số](https://nld.com.vn/nang-cao-hieu-qua-cong-tac-an-toan-ve-sinh-lao-dong-trong-ky-nguyen-so-196260508130243583.htm) - 06:53 08/05/2026
-- 🌁 [Cục Quản lý lao động ngoài nước có tân Cục trưởng](https://nld.com.vn/cuc-quan-ly-lao-dong-ngoai-nuoc-co-tan-cuc-truong-196260508123129239.htm) - 05:51 08/05/2026
-- 🌝 [Học Bác về tinh thần trách nhiệm, sẻ chia](https://nld.com.vn/hoc-bac-ve-tinh-than-trach-nhiem-se-chia-196260507213635377.htm) - 21:42 07/05/2026
-- 👺 [Hưu trí bổ sung: Đừng đợi già mới lo](https://nld.com.vn/huu-tri-bo-sung-dung-doi-gia-moi-lo-196260507165230152.htm) - 21:30 07/05/2026
-- 🦅 [Linh hoạt thích ứng với thị trường lao động](https://nld.com.vn/linh-hoat-thich-ung-voi-thi-truong-lao-dong-196260507213206802.htm) - 19:33 07/05/2026
-- 👺 [LĐLĐ tỉnh Nghệ An và Công đoàn phường Phú Thuận chia sẻ kinh nghiệm chuyển đổi số](https://nld.com.vn/ldld-tinh-nghe-an-va-cong-doan-phuong-phu-thuan-chia-se-kinh-nghiem-chuyen-doi-so-196260507193340926.htm) - 13:10 07/05/2026<!-- nld-lao-dong:END -->
+- 🔥 [DỒN SỨC CHĂM LO NGƯỜI LAO ĐỘNG &lpar;*&rpar;: Công nhân là nền tảng của tăng trưởng bền vững](https://nld.com.vn/don-suc-cham-lo-nguoi-lao-dong-cong-nhan-la-nen-tang-cua-tang-truong-ben-vung-196260512194110219.htm) - 22:00 12/05/2026
+- 📝 [Ngăn chặn quấy rối nơi làm việc](https://nld.com.vn/ngan-chan-quay-roi-noi-lam-viec-196260512193814203.htm) - 21:00 12/05/2026
+- ⚗️ [Đổi mới hoạt động Công đoàn](https://nld.com.vn/doi-moi-hoat-dong-cong-doan-196260512194240992.htm) - 19:00 12/05/2026
+- 🦅 [Xã Tân Nhựt, TPHCM: Đổi mới hoạt động Công đoàn, nâng cao phúc lợi đoàn viên](https://nld.com.vn/xa-tan-nhut-tphcm-doi-moi-hoat-dong-cong-doan-nang-cao-phuc-loi-doan-vien-196260512150534222.htm) - 08:18 12/05/2026
+- 🧐 [Các phong trào thi đua do Công đoàn tổ chức để lại dấu ấn trong mỗi thành tựu của đất nước](https://nld.com.vn/cac-phong-trao-thi-dua-do-cong-doan-to-chuc-de-lai-dau-an-trong-moi-thanh-tuu-cua-dat-nuoc-196260512144143835.htm) - 08:16 12/05/2026
+- 🧑‍💻 [Lắng nghe nguyện vọng người lao động](https://nld.com.vn/lang-nghe-nguyen-vong-nguoi-lao-dong-196260512141442989.htm) - 07:27 12/05/2026
+- 🧑‍🏫 [Chương trình nghệ thuật &#39;Vòng tay yêu thương&quot;: Hướng đến người lao động khó khăn](https://nld.com.vn/chuong-trinh-nghe-thuat-vong-tay-yeu-thuong-huong-den-nguoi-lao-dong-kho-khan-196260512135738486.htm) - 07:21 12/05/2026
+- 💯 [Đóng đủ BHXH nhưng nghỉ trước tuổi có được nhận lương hưu?](https://nld.com.vn/dong-du-bhxh-nhung-nghi-truoc-tuoi-co-duoc-nhan-luong-huu-196260511210304811.htm) - 02:25 12/05/2026
+- ⚗️ [DỒN SỨC CHĂM LO NGƯỜI LAO ĐỘNG &lpar;*&rpar;: Nâng chất đời sống công nhân](https://nld.com.vn/don-suc-cham-lo-nguoi-lao-dong-nang-chat-doi-song-cong-nhan-196260511205747172.htm) - 00:00 12/05/2026
+- 🦅 [Đơn hàng tăng, cơ hội việc làm rộng mở](https://nld.com.vn/don-hang-tang-co-hoi-viec-lam-rong-mo-196260511210017162.htm) - 22:34 11/05/2026
+- 🔭 [Thực hiện &quot;1.000 công trình chăm lo người lao động và an sinh vì cộng đồng&quot;](https://nld.com.vn/thuc-hien-1000-cong-trinh-cham-lo-nguoi-lao-dong-va-an-sinh-vi-cong-dong-196260511162211261.htm) - 09:24 11/05/2026
+- 🤗 [Chuỗi hoạt động ý nghĩa của Công đoàn xã Nhà Bè trong Tháng Công nhân](https://nld.com.vn/chuoi-hoat-dong-y-nghia-cua-cong-doan-xa-nha-be-trong-thang-cong-nhan-196260511144035927.htm) - 08:00 11/05/2026
+- 🌋 [Doanh nghiệp được &quot;bật đèn xanh&quot; lập quỹ đào tạo nhân lực](https://nld.com.vn/doanh-nghiep-duoc-bat-den-xanh-lap-quy-dao-tao-nhan-luc-196260511090446895.htm) - 02:40 11/05/2026
+- 🪄 [Lao động nam đầu tiên ở Bắc Ninh nhận trợ cấp thai sản từ BHXH tự nguyện](https://nld.com.vn/lao-dong-nam-dau-tien-o-bac-ninh-nhan-tro-cap-thai-san-tu-bhxh-tu-nguyen-196260511062733236.htm) - 00:06 11/05/2026
+- 🪄 [Dồn sức chăm lo người lao động](https://nld.com.vn/don-suc-cham-lo-nguoi-lao-dong-1962605102102241.htm) - 00:00 11/05/2026
+- 💼 [Các hoạt động hỗ trợ thiết thực trong Tháng Công nhân](https://nld.com.vn/cac-hoat-dong-ho-tro-thiet-thuc-trong-thang-cong-nhan-196260510145912936.htm) - 08:32 10/05/2026
+- 🤔 [TPHCM: Nhiều hoạt động chăm lo cho người lao động của Công đoàn xã Nhuận Đức](https://nld.com.vn/tphcm-nhieu-hoat-dong-cham-lo-cho-nguoi-lao-dong-cua-cong-doan-xa-nhuan-duc-196260510132309478.htm) - 06:44 10/05/2026
+- 🌝 [Công đoàn phường Đông Hưng Thuận: Đẩy mạnh phong trào &quot;Mỗi đoàn viên - Một sáng kiến&quot;](https://nld.com.vn/cong-doan-phuong-dong-hung-thuan-day-manh-phong-trao-moi-doan-vien-mot-sang-kien-196260510121651611.htm) - 05:29 10/05/2026
+- 🌮 [Hàng trăm VĐV dự giải chạy Công đoàn dưới chân đèo Hải Vân](https://nld.com.vn/hang-tram-vdv-du-giai-chay-cong-doan-duoi-chan-deo-hai-van-196260510114858142.htm) - 05:21 10/05/2026
+- 👍 [Công đoàn xã Bình Mỹ: Phát huy vai trò Công đoàn trong Tháng Công nhân](https://nld.com.vn/cong-doan-xa-binh-my-phat-huy-vai-tro-cong-doan-trong-thang-cong-nhan-196260510112628698.htm) - 04:56 10/05/2026
+- 🏊 [Tập huấn sơ cứu đột quỵ cho đoàn viên Công đoàn Đà Nẵng](https://nld.com.vn/tap-huan-so-cuu-dot-quy-cho-doan-vien-cong-doan-da-nang-196260510112057157.htm) - 04:43 10/05/2026
+- 💂 [Vừa nhận lương hưu, đi làm thêm có phải đóng BHXH?](https://nld.com.vn/vua-nhan-luong-huu-di-lam-them-co-phai-dong-bhxh-196260509205333312.htm) - 03:29 10/05/2026
+- 👀 [AI tái định hình việc làm trong ngành logistics](https://nld.com.vn/ai-tai-dinh-hinh-viec-lam-trong-nganh-logistics-196260510065739626.htm) - 01:30 10/05/2026
+- 🌁 [Để không &quot;lạc lối&quot; trên thị trường lao động](https://nld.com.vn/de-khong-lac-loi-tren-thi-truong-lao-dong-19626050919203723.htm) - 00:00 10/05/2026
+- 💫 [Từ hôm nay, thêm chính sách giúp người lao động cải thiện lương hưu](https://nld.com.vn/tu-hom-nay-them-chinh-sach-giup-nguoi-lao-dong-cai-thien-luong-huu-196260509215638535.htm) - 23:07 09/05/2026
+- ⛽️ [Công đoàn phường An Hội Đông lan tỏa phong trào &quot;Thành phố muôn sắc hoa&quot;](https://nld.com.vn/cong-doan-phuong-an-hoi-dong-lan-toa-phong-trao-thanh-pho-muon-sac-hoa-196260509192140542.htm) - 12:52 09/05/2026
+- 🎭 [Thủ tướng chỉ đạo về nhà ở xã hội cho cán bộ, công chức, viên chức](https://nld.com.vn/thu-tuong-chi-dao-ve-nha-o-xa-hoi-cho-can-bo-cong-chuc-vien-chuc-196260509151603966.htm) - 11:24 09/05/2026
+- 🎊 [Công nhân Đà Nẵng muốn thẻ đoàn viên thành “tấm thẻ quyền lực”](https://nld.com.vn/cong-nhan-da-nang-muon-the-doan-vien-thanh-tam-the-quyen-luc-196260509145310651.htm) - 09:33 09/05/2026
+- 🦣 [Kỳ vọng của BHXH TPHCM từ hoạt động diễn ra trong ngày 9-5](https://nld.com.vn/ky-vong-cua-bhxh-tphcm-tu-hoat-dong-dien-ra-trong-ngay-9-5-196260509150838566.htm) - 08:34 09/05/2026
+- 🧠 [Chi tiết 4 dự án nhà ở xã hội dành cho công nhân Đà Nẵng](https://nld.com.vn/chi-tiet-4-du-an-nha-o-xa-hoi-danh-cho-cong-nhan-da-nang-196260509135110566.htm) - 08:30 09/05/2026
+- 🙉 [Tháng Công nhân ở phường Tân Thới Hiệp: Hướng đến chăm lo thực chất](https://nld.com.vn/thang-cong-nhan-o-phuong-tan-thoi-hiep-huong-den-cham-lo-thuc-chat-196260509144900543.htm) - 08:22 09/05/2026
+- 💃 [Phường Chợ Lớn phát động Tháng Công nhân, tiếp nhận hơn 1,3 tỉ đồng cho Quỹ “Vì người nghèo”](https://nld.com.vn/phuong-cho-lon-phat-dong-thang-cong-nhan-tiep-nhan-hon-13-ti-dong-cho-quy-vi-nguoi-ngheo-196260509143325894.htm) - 08:19 09/05/2026
+- 🔭 [Trao 100 suất quà, hỗ trợ “Mái ấm Công đoàn” cho người lao động Đà Nẵng](https://nld.com.vn/trao-100-suat-qua-ho-tro-mai-am-cong-doan-cho-nguoi-lao-dong-da-nang-196260509082205422.htm) - 07:05 09/05/2026
+- 🚀 [Nữ công nhân lần đầu tiên được tầm soát ung thư cổ tử cung bằng AI](https://nld.com.vn/nu-cong-nhan-lan-dau-tien-duoc-tam-soat-ung-thu-co-tu-cung-bang-ai-196260509095059365.htm) - 04:58 09/05/2026
+- 🎃 [Chăm sóc sức khỏe, tặng quà, tạo sân chơi cho người lao động trong Tháng Công nhân](https://nld.com.vn/cham-soc-suc-khoe-tang-qua-tao-san-choi-cho-nguoi-lao-dong-trong-thang-cong-nhan-196260509111733656.htm) - 04:54 09/05/2026
+- 🪄 [Những trường hợp nhân tài sẽ được hưởng phụ cấp lên tới 300%?](https://nld.com.vn/nhung-truong-hop-nhan-tai-se-duoc-thuong-phu-cap-len-toi-300-196260509090039539.htm) - 03:02 09/05/2026
+- 🦍 [Diện hưởng lương hưu, trợ cấp BHXH tiếp tục mở rộng](https://nld.com.vn/dien-huong-luong-huu-tro-cap-bhxh-tiep-tuc-mo-rong-196260508213826702.htm) - 02:10 09/05/2026
+- 🧑‍💻 [Doanh nghiệp tham gia đào tạo nghề được hưởng những ưu đãi nào?](https://nld.com.vn/doanh-nghiep-tham-gia-dao-tao-nghe-duoc-huong-nhung-uu-dai-nao-196260509084435906.htm) - 02:02 09/05/2026
+- 🪄 [Hồ sơ hưởng trợ cấp thất nghiệp: Gồm những gì, nộp ở đâu?](https://nld.com.vn/ho-so-huong-tro-cap-that-nghiep-gom-nhung-gi-nop-o-dau-196260508225114758.htm) - 01:43 09/05/2026
+- 🤠 [An toàn lao động không thể quản lý kiểu cũ](https://nld.com.vn/an-toan-lao-dong-khong-the-quan-ly-kieu-cu-196260508203200927.htm) - 23:01 08/05/2026
+- 🦩 [Bồi dưỡng lý tưởng cách mạng cho cán bộ, đoàn viên - lao động](https://nld.com.vn/boi-duong-ly-tuong-cach-mang-cho-can-bo-doan-vien-lao-dong-196260508185657093.htm) - 12:36 08/05/2026
+- 🙉 [Chương trình bình chọn và vinh danh “Doanh nghiệp vì người lao động - Chuẩn mực vàng” năm 2026](https://nld.com.vn/chuong-trinh-binh-chon-va-vinh-danh-doanh-nghiep-vi-nguoi-lao-dong-chuan-muc-vang-nam-2026-196260508172456139.htm) - 10:51 08/05/2026
+- 🥰 [Sôi nổi tranh tài tại Hội thao CITENCO năm 2026](https://nld.com.vn/soi-noi-tranh-tai-tai-hoi-thao-citenco-nam-2026-19626050817034346.htm) - 10:40 08/05/2026
+- 👺 [TPHCM: Nâng cao nhận thức an toàn lao động cho cán bộ Công đoàn, CNVC-LĐ](https://nld.com.vn/tphcm-nang-cao-nhan-thuc-an-toan-lao-dong-cho-can-bo-cong-doan-cnvc-ld-196260508163512927.htm) - 10:36 08/05/2026
+- 🤡 [Người lao động ngành Công nghiệp - Năng lượng được tiếp thêm động lực](https://nld.com.vn/nguoi-lao-dong-nganh-cong-nghiep-nang-luong-duoc-tiep-them-dong-luc-196260508161755386.htm) - 09:59 08/05/2026
+- 🌁 [Cung đường tuyệt đẹp tổ chức giải “Tháng Công nhân, bước chạy đoàn kết” ở Đà Nẵng](https://nld.com.vn/cung-duong-tuyet-dep-to-chuc-giai-thang-cong-nhan-buoc-chay-doan-ket-o-da-nang-196260508151215241.htm) - 09:11 08/05/2026
+- 🌝 [Đoàn viên, cán bộ Công đoàn tiêu biểu dâng hương tưởng nhớ các anh hùng liệt sĩ tại Côn Đảo](https://nld.com.vn/doan-vien-can-bo-cong-doan-tieu-bieu-dang-huong-tuong-nho-cac-anh-hung-liet-si-tai-con-dao-196260508152422089.htm) - 09:01 08/05/2026
+- 👺 [Rà soát ủy quyền nhận lương hưu để tránh gián đoạn chi trả](https://nld.com.vn/ra-soat-uy-quyen-nhan-luong-huu-de-tranh-gian-doan-chi-tra-19626050815235314.htm) - 09:01 08/05/2026
+- 🦅 [Từ sự vào cuộc của LĐLĐ TPHCM, Công ty Vinh Thông đã trả gần 3,1 tỉ đồng tiền nợ lương](https://nld.com.vn/tu-su-vao-cuoc-cua-ldld-tphcm-cong-ty-vinh-thong-da-tra-gan-31-ti-dong-tien-no-luong-196260508153255117.htm) - 08:59 08/05/2026
+- 👺 [Hàng trăm phần quà tiếp sức công nhân nghèo ở Cà Mau](https://nld.com.vn/hang-tram-phan-qua-tiep-suc-cong-nhan-ngheo-o-ca-mau-196260508121946435.htm) - 08:09 08/05/2026<!-- nld-lao-dong:END -->
