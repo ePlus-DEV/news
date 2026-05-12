@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Giông lốc khiến 47 căn nhà ở Đồng Tháp bị sập, tốc mái](https://vnexpress.net/giong-loc-khien-47-can-nha-o-dong-thap-bi-sap-toc-mai-5072222.html) - 13:13 10/05/2026
-- 🤓 [Ruộng dưa hấu sắp thu hoạch bị phá hoại](https://vnexpress.net/ruong-dua-hau-sap-thu-hoach-bi-pha-hoai-5072185.html) - 11:00 10/05/2026
-- ⚗️ [Hơn 200 người tìm kiếm người đàn ông mất tích ở Tuyên Quang](https://vnexpress.net/hon-200-nguoi-tim-kiem-nguoi-dan-ong-mat-tich-o-tuyen-quang-5072158.html) - 09:39 10/05/2026
-- 🌊 [Doanh nghiệp, cá nhân bị cấm dùng phần mềm lậu](https://vnexpress.net/doanh-nghiep-ca-nhan-bi-cam-dung-phan-mem-lau-5072164.html) - 09:30 10/05/2026
-- 🎓 [Bị phạt vì vứt cả trăm vỏ chai bia xuống sông Kẻ Vạn](https://vnexpress.net/bi-phat-vi-vut-ca-tram-vo-chai-bia-xuong-song-ke-van-5072120.html) - 09:24 10/05/2026
-- 🔥 [Miền Bắc và Trung tuần tới nắng nóng](https://vnexpress.net/mien-bac-va-trung-tuan-toi-nang-nong-5072139.html) - 08:10 10/05/2026
-- 🦏 [Tộc người bí ẩn nhất Việt Nam thu hoạch lúa nước](https://vnexpress.net/toc-nguoi-bi-an-nhat-viet-nam-thu-hoach-lua-nuoc-5072102.html) - 07:42 10/05/2026
-- 👺 [Cháy lớn công ty dệt may ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-det-may-o-dong-nai-5072131.html) - 06:25 10/05/2026
-- 🧑‍🏫 [7 người mắc kẹt trong thang máy thẩm mỹ viện ở TP HCM](https://vnexpress.net/7-nguoi-mac-ket-trong-thang-may-tham-my-vien-o-tp-hcm-5072115.html) - 04:58 10/05/2026
-- 🚦 [Nông dân miền Tây điêu đứng vì giá sầu riêng lao dốc](https://vnexpress.net/nong-dan-mien-tay-dieu-dung-vi-gia-sau-rieng-lao-doc-5071630.html) - 03:48 10/05/2026
-- 🎉 [Người đàn ông quy tập hàng trăm mộ vô danh](https://vnexpress.net/nguoi-dan-ong-quy-tap-hang-tram-mo-vo-danh-5070770.html) - 23:00 09/05/2026
-- 🦒 [Bảo vật &#39;Phật lồi&#39; hơn 500 năm ở làng chài ven đầm Thị Nại](https://vnexpress.net/bao-vat-phat-loi-hon-500-nam-o-lang-chai-ven-dam-thi-nai-5071018.html) - 22:00 09/05/2026
-- 🤗 [Thôn, tổ dân phố Hà Nội dự kiến quy mô 500-700 hộ](https://vnexpress.net/thon-to-dan-pho-ha-noi-du-kien-quy-mo-500-700-ho-5071972.html) - 17:00 09/05/2026
-- 💼 [ĐH Nông Lâm muốn thu hồi bến xe buýt, sinh viên lo xáo trộn đi lại](https://vnexpress.net/dh-nong-lam-muon-thu-hoi-ben-xe-buyt-sinh-vien-lo-xao-tron-di-lai-5071706.html) - 17:00 09/05/2026
-- 🤩 [6 người đi đường bị chó tấn công](https://vnexpress.net/6-nguoi-di-duong-bi-cho-tan-cong-5071986.html) - 16:36 09/05/2026
-- 🤡 [Hà Nội cấm nhiều tuyến đường theo khung giờ trong 3 ngày](https://vnexpress.net/ha-noi-cam-nhieu-tuyen-duong-theo-khung-gio-trong-3-ngay-5071993.html) - 16:14 09/05/2026
-- 💯 [Bí thư, Chủ tịch Hà Nội kiểm tra vận hành metro Nhổn - Cầu Giấy](https://vnexpress.net/bi-thu-chu-tich-ha-noi-kiem-tra-van-hanh-metro-nhon-cau-giay-5071977.html) - 15:51 09/05/2026
-- 👺 [Học sinh lớp 6 bị điện giật tử vong khi trèo mái nhà lấy bóng](https://vnexpress.net/hoc-sinh-lop-6-bi-dien-giat-tu-vong-khi-treo-mai-nha-lay-bong-5071978.html) - 14:09 09/05/2026
-- 🌮 [Huế xây cầu vượt đường sắt](https://vnexpress.net/hue-xay-cau-vuot-duong-sat-5071910.html) - 13:33 09/05/2026
-- 🥸 [Đề nghị điều tra người xóa số điện thoại khẩn cấp trên cao tốc](https://vnexpress.net/de-nghi-dieu-tra-nguoi-xoa-so-dien-thoai-khan-cap-tren-cao-toc-5071939.html) - 12:32 09/05/2026
-- 🐻 [Người chăn bò giúp tìm thấy 24 liệt sĩ được nhận bằng khen](https://vnexpress.net/nguoi-chan-bo-giup-tim-thay-24-liet-si-duoc-nhan-bang-khen-5071958.html) - 11:52 09/05/2026
-- 👀 [Hai di tích cấp quốc gia xuống cấp giữa kinh thành Huế](https://vnexpress.net/hai-di-tich-cap-quoc-gia-xuong-cap-giua-kinh-thanh-hue-5070953.html) - 10:17 09/05/2026
-- 🤔 [Quảng Ngãi phê bình chủ tịch phường để hồ sơ đất đai bị đôn đốc tới 13 lần](https://vnexpress.net/quang-ngai-phe-binh-chu-tich-phuong-de-ho-so-dat-dai-bi-don-doc-toi-13-lan-5071877.html) - 07:33 09/05/2026
-- 🕯 [Nhà chờ xe buýt mới ở TP HCM sẽ có camera an ninh, cổng sạc](https://vnexpress.net/nha-cho-xe-buyt-moi-o-tp-hcm-se-co-camera-an-ninh-cong-sac-5071834.html) - 04:33 09/05/2026
-- 😺 [Phương án phân làn đường đảo chiều đầu tiên ở TP HCM](https://vnexpress.net/phuong-an-phan-lan-duong-dao-chieu-dau-tien-o-tp-hcm-5071807.html) - 03:19 09/05/2026
-- 🦆 [Người nhận lương hưu cần gia hạn giấy ủy quyền trước 1/7](https://vnexpress.net/nguoi-nhan-luong-huu-can-gia-han-giay-uy-quyen-truoc-1-7-5071780.html) - 02:30 09/05/2026
-- 🧰 [Thanh niên tử vong sau tai nạn trên cao tốc Biên Hòa - Vũng Tàu đang thi công](https://vnexpress.net/thanh-nien-tu-vong-sau-tai-nan-tren-cao-toc-bien-hoa-vung-tau-dang-thi-cong-5071763.html) - 01:44 09/05/2026
-- 🦍 [Trụ ATM bốc cháy dữ dội ở Cà Mau](https://vnexpress.net/tru-atm-boc-chay-du-doi-o-ca-mau-5071761.html) - 00:46 09/05/2026
-- 🧰 [34 tỉnh, thành đặt mục tiêu gì cho năm 2030](https://vnexpress.net/34-tinh-thanh-dat-muc-tieu-gi-cho-nam-2030-5071688.html) - 00:30 09/05/2026
-- 💃 [Con đường sự nghiệp từ ngành học đến ngành nghề](https://vnexpress.net/con-duong-su-nghiep-tu-nganh-hoc-den-nganh-nghe-5071511.html) - 23:00 08/05/2026
-- 🧰 [Cuộc sống đảo lộn vì sạt lở ở miền Tây](https://vnexpress.net/cuoc-song-dao-lon-vi-sat-lo-o-mien-tay-5070663.html) - 22:00 08/05/2026
-- 🚀 [Nỗi lo sinh kế của xe ôm trong vành đai 1 Hà Nội](https://vnexpress.net/noi-lo-sinh-ke-cua-xe-om-trong-vanh-dai-1-ha-noi-5071704.html) - 17:00 08/05/2026
-- 🎊 [Đồng Nai xây cầu 6 làn xe nối TP HCM](https://vnexpress.net/dong-nai-xay-cau-6-lan-xe-noi-tp-hcm-5071657.html) - 17:00 08/05/2026
-- 🤭 [Bụi nhà máy xay xát lúa gạo bủa vây khu dân cư ở Cần Thơ](https://vnexpress.net/bui-nha-may-xay-xat-lua-gao-bua-vay-khu-dan-cu-o-can-tho-5071355.html) - 17:00 08/05/2026
-- 🤗 [Thủ tướng yêu cầu điều động cấp phó dôi dư từ tỉnh về xã](https://vnexpress.net/thu-tuong-yeu-cau-dieu-dong-cap-pho-doi-du-tu-tinh-ve-xa-5071694.html) - 13:30 08/05/2026
-- 🌈 [Xe cháy trên cầu Bình Lợi, ùn tắc hơn một km](https://vnexpress.net/xe-chay-tren-cau-binh-loi-un-tac-hon-mot-km-5071660.html) - 11:07 08/05/2026
-- 🦣 [23 xã TP HCM rà soát đủ tiêu chí lên phường](https://vnexpress.net/23-xa-tp-hcm-ra-soat-du-tieu-chi-len-phuong-5071645.html) - 10:36 08/05/2026
-- 🎡 [Tìm thấy nữ hành khách đi lạc hai ngày ở núi Hải Vân](https://vnexpress.net/tim-thay-nu-hanh-khach-di-lac-hai-ngay-o-nui-hai-van-5071610.html) - 10:02 08/05/2026
-- 🦏 [Nhiều người khiêng ôtô cứu nữ sinh mắc kẹt dưới gầm](https://vnexpress.net/nhieu-nguoi-khieng-oto-cuu-nu-sinh-mac-ket-duoi-gam-5071507.html) - 06:47 08/05/2026
-- 🎊 [Phó thủ tướng: Không thể tỉnh nào cũng làm sân bay](https://vnexpress.net/pho-thu-tuong-khong-the-tinh-nao-cung-lam-san-bay-5071499.html) - 06:11 08/05/2026
-- 🫶 [Chuyên gia: Đừng để TP HCM tiếp tục &#39;đi xin&#39; khi có Luật đô thị đặc biệt](https://vnexpress.net/chuyen-gia-dung-de-tp-hcm-tiep-tuc-di-xin-khi-co-luat-do-thi-dac-biet-5071497.html) - 06:10 08/05/2026
-- 🤔 [Chim hồng hoàng quý hiếm xuất hiện ở trung tâm TP HCM](https://vnexpress.net/chim-hong-hoang-quy-hiem-xuat-hien-o-trung-tam-tp-hcm-5071500.html) - 05:55 08/05/2026
-- 🤠 [Quốc hội kiện toàn nhân sự nhiều ủy ban chuyên môn](https://vnexpress.net/quoc-hoi-kien-toan-nhan-su-nhieu-uy-ban-chuyen-mon-5071465.html) - 04:41 08/05/2026
-- 🌜 [&#39;Nữ hoàng&#39; muội hồng chết hàng loạt sau khi bị thu giữ](https://vnexpress.net/nu-hoang-muoi-hong-chet-hang-loat-sau-khi-bi-thu-giu-5071346.html) - 03:19 08/05/2026
-- 🕯 [Bộ Y tế: Sẽ quản lý thực phẩm từ trang trại tới bàn ăn](https://vnexpress.net/bo-y-te-se-quan-ly-thuc-pham-tu-trang-trai-toi-ban-an-5070463.html) - 03:13 08/05/2026
-- 🤔 [Hiện trạng 53 km vành đai 3,5 Hà Nội](https://vnexpress.net/hien-trang-53-km-vanh-dai-3-5-ha-noi-5070516.html) - 02:57 08/05/2026
-- 🏊 [Xe khách lật trên đèo ở Gia Lai, 3 người chết](https://vnexpress.net/xe-khach-lat-tren-deo-o-gia-lai-3-nguoi-chet-5071379.html) - 02:40 08/05/2026
-- 🌮 [Người dân tháo dỡ nhà phục vụ cải tạo rạch Xuyên Tâm](https://vnexpress.net/nguoi-dan-thao-do-nha-phuc-vu-cai-tao-rach-xuyen-tam-5071296.html) - 02:23 08/05/2026
-- 🫣 [Nam công nhân bị máy xay mủ cao su cuốn tử vong](https://vnexpress.net/nam-cong-nhan-bi-may-xay-mu-cao-su-cuon-tu-vong-5071330.html) - 01:18 08/05/2026
-- ⚗️ [Quy mô 4 tỉnh được định hướng là thành phố trực thuộc Trung ương trước 2030](https://vnexpress.net/quy-mo-4-tinh-duoc-dinh-huong-la-thanh-pho-truc-thuoc-trung-uong-truoc-2030-5071256.html) - 00:00 08/05/2026
-- 🌜 [Phục dựng đồng phục nhân viên hỏa xa năm 1946](https://vnexpress.net/phuc-dung-dong-phuc-nhan-vien-hoa-xa-nam-1946-5071244.html) - 00:00 08/05/2026
-- 🌁 [Hà Nội dự kiến tăng phí sử dụng tạm thời vỉa hè lòng đường](https://vnexpress.net/ha-noi-du-kien-tang-phi-su-dung-tam-thoi-via-he-long-duong-5071270.html) - 23:00 07/05/2026
-- 🐲 [Cà Mau yêu cầu bồi thường vụ cá chết do thi công sân bay](https://vnexpress.net/ca-mau-yeu-cau-boi-thuong-vu-ca-chet-do-thi-cong-san-bay-5071207.html) - 17:00 07/05/2026
-- ⛽️ [Lữ đoàn bảo vệ Trường Sa lần thứ hai nhận danh hiệu Anh hùng](https://vnexpress.net/lu-doan-bao-ve-truong-sa-lan-thu-hai-nhan-danh-hieu-anh-hung-5071260.html) - 16:00 07/05/2026
-- 🗽 [Bổ sung sân bay Thổ Chu vào quy hoạch cảng hàng không quốc gia](https://vnexpress.net/bo-sung-san-bay-tho-chu-vao-quy-hoach-cang-hang-khong-quoc-gia-5071120.html) - 14:45 07/05/2026
-- 🔥 [&#39;Hố tử thần&#39; xuất hiện giữa khu dân cư ở Phú Thọ](https://vnexpress.net/ho-tu-than-xuat-hien-giua-khu-dan-cu-o-phu-tho-5071108.html) - 13:12 07/05/2026
-- 💯 [Bò chạy vào cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/bo-chay-vao-cao-toc-bien-hoa-vung-tau-5071235.html) - 11:37 07/05/2026
-- 🦆 [Nha Trang sẽ xây hầm ở vòng xoay trung tâm giảm ùn tắc](https://vnexpress.net/nha-trang-se-xay-ham-o-vong-xoay-trung-tam-giam-un-tac-5071232.html) - 11:23 07/05/2026
-- 🫣 [Xe đầu kéo kẹt trên đường ray khi tàu sắp đến](https://vnexpress.net/xe-dau-keo-ket-tren-duong-ray-khi-tau-sap-den-5071220.html) - 10:59 07/05/2026
-- 🤡 [Người dân dỡ nhà bàn giao mặt bằng thi công đường vành đai 3](https://vnexpress.net/nguoi-dan-do-nha-ban-giao-mat-bang-thi-cong-duong-vanh-dai-3-5070823.html) - 09:56 07/05/2026<!-- vnexpress-thoi-su:END -->
+- 🦒 [Hai mẹ con tử vong sau va chạm với xe tải](https://vnexpress.net/hai-me-con-tu-vong-sau-va-cham-voi-xe-tai-5073192.html) - 13:03 12/05/2026
+- 🤓 [11% người dân gặp công chức phiền hà khi làm thủ tục hành chính](https://vnexpress.net/11-nguoi-dan-gap-cong-chuc-phien-ha-khi-lam-thu-tuc-hanh-chinh-5073077.html) - 12:59 12/05/2026
+- ⚗️ [Cựu chánh án TAND Cấp cao tại Đà Nẵng bị khai trừ Đảng](https://vnexpress.net/cuu-chanh-an-tand-cap-cao-tai-da-nang-bi-khai-tru-dang-5073189.html) - 12:49 12/05/2026
+- 🌊 [Chủ tịch ACV Vũ Thế Phiệt bị khai trừ Đảng](https://vnexpress.net/chu-tich-acv-vu-the-phiet-bi-khai-tru-dang-5073184.html) - 12:46 12/05/2026
+- 🎓 [Nguy cơ chồng lấn đường sắt, metro ở sân bay Long Thành](https://vnexpress.net/nguy-co-chong-lan-duong-sat-metro-o-san-bay-long-thanh-5073154.html) - 10:40 12/05/2026
+- 🔥 [Hơn 1.300 công nhân bị ảnh hưởng sau vụ cháy nhà máy ở Đồng Nai](https://vnexpress.net/hon-1-300-cong-nhan-bi-anh-huong-sau-vu-chay-nha-may-o-dong-nai-5073103.html) - 09:54 12/05/2026
+- 🦏 [Người dân gửi kiến nghị đến lãnh đạo Hà Nội chỉ qua vài thao tác](https://vnexpress.net/nguoi-dan-gui-kien-nghi-den-lanh-dao-ha-noi-chi-qua-vai-thao-tac-5072975.html) - 05:51 12/05/2026
+- 👺 [Lập đoàn kiểm tra doanh nghiệp dùng phần mềm lậu](https://vnexpress.net/lap-doan-kiem-tra-doanh-nghiep-dung-phan-mem-lau-5072958.html) - 05:09 12/05/2026
+- 🧑‍🏫 [&#39;Không để ý kiến chính đáng của người dân rơi vào im lặng&#39;](https://vnexpress.net/khong-de-y-kien-chinh-dang-cua-nguoi-dan-roi-vao-im-lang-5072949.html) - 04:52 12/05/2026
+- 🚦 [Ôtô chở nhà trai ra mắt nhà gái gặp tai nạn liên hoàn](https://vnexpress.net/oto-cho-nha-trai-ra-mat-nha-gai-gap-tai-nan-lien-hoan-5072986.html) - 04:51 12/05/2026
+- 🎉 [Lãnh đạo Đảng, Nhà nước dự Đại hội Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/lanh-dao-dang-nha-nuoc-du-dai-hoi-mat-tran-to-quoc-viet-nam-5072917.html) - 03:41 12/05/2026
+- 🦒 [Khánh thành nhà vệ sinh cộng đồng tại xã Sông Kôn](https://vnexpress.net/khanh-thanh-nha-ve-sinh-cong-dong-tai-xa-song-kon-5072776.html) - 00:56 12/05/2026
+- 🤗 [Thủ tướng: Phát triển công nghệ chiến lược không chạy theo phong trào](https://vnexpress.net/thu-tuong-phat-trien-cong-nghe-chien-luoc-khong-chay-theo-phong-trao-5072796.html) - 17:05 11/05/2026
+- 💼 [Nạn nhân vụ ôtô rơi đèo An Khê: &#39;Xe lộn nhiều vòng, hất tôi văng xa 5 m&#39;](https://vnexpress.net/nan-nhan-vu-oto-roi-deo-an-khe-xe-lon-nhieu-vong-hat-toi-vang-xa-5-m-5072757.html) - 17:00 11/05/2026
+- 🤩 [TP HCM đề nghị nâng công suất chôn lấp bãi rác Đa Phước lên gấp đôi](https://vnexpress.net/tp-hcm-de-nghi-nang-cong-suat-chon-lap-bai-rac-da-phuoc-len-gap-doi-5072732.html) - 17:00 11/05/2026
+- 🤡 [Nhà máy 9.000 m2 ở Đồng Nai tan hoang sau hỏa hoạn](https://vnexpress.net/nha-may-9-000-m2-o-dong-nai-tan-hoang-sau-hoa-hoan-5072724.html) - 17:00 11/05/2026
+- 💯 [Voọc mông trắng chỉ có ở Việt Nam đối diện nguy cơ suy giảm](https://vnexpress.net/vooc-mong-trang-chi-co-o-viet-nam-doi-dien-nguy-co-suy-giam-5072389.html) - 17:00 11/05/2026
+- 👺 [Người dân sẽ làm mọi thủ tục hành chính online từ 2035](https://vnexpress.net/nguoi-dan-se-lam-moi-thu-tuc-hanh-chinh-online-tu-2035-5072782.html) - 16:13 11/05/2026
+- 🌮 [Lai dắt vòm thép cầu đi bộ từ Vũng Tàu đến Bến Bạch Đằng vào tháng 8](https://vnexpress.net/lai-dat-vom-thep-cau-di-bo-tu-vung-tau-den-ben-bach-dang-vao-thang-8-5072748.html) - 12:51 11/05/2026
+- 🥸 [Tìm thấy người đàn ông lạc trong rừng sau 4 ngày](https://vnexpress.net/tim-thay-nguoi-dan-ong-lac-trong-rung-sau-4-ngay-5072731.html) - 11:37 11/05/2026
+- 🐻 [Đồng Tháp nghiên cứu quy hoạch trung tâm hành chính mới tại Cái Bè - Cai Lậy](https://vnexpress.net/dong-thap-nghien-cuu-quy-hoach-trung-tam-hanh-chinh-moi-tai-cai-be-cai-lay-5072727.html) - 11:07 11/05/2026
+- 👀 [Ông Trần Lưu Quang: Không xây mới chung cư cao tầng ở trung tâm TP HCM](https://vnexpress.net/ong-tran-luu-quang-khong-xay-moi-chung-cu-cao-tang-o-trung-tam-tp-hcm-5072713.html) - 10:49 11/05/2026
+- 🤔 [Dự kiến 7 mức phụ cấp khu vực đi kèm lương cơ sở](https://vnexpress.net/du-kien-7-muc-phu-cap-khu-vuc-di-kem-luong-co-so-5072644.html) - 09:50 11/05/2026
+- 🕯 [Xe khách biến dạng dưới vực sâu 40 m sau tai nạn ở đèo An Khê](https://vnexpress.net/xe-khach-bien-dang-duoi-vuc-sau-40-m-sau-tai-nan-o-deo-an-khe-5072423.html) - 09:15 11/05/2026
+- 😺 [Cục Tuyên huấn nhận Huân chương Bảo vệ Tổ quốc hạng Nhất](https://vnexpress.net/cuc-tuyen-huan-nhan-huan-chuong-bao-ve-to-quoc-hang-nhat-5072564.html) - 09:05 11/05/2026
+- 🦆 [Sẽ nghiên cứu chi tiết tác động xây đập sông Hồng tới an toàn thoát lũ](https://vnexpress.net/se-nghien-cuu-chi-tiet-tac-dong-xay-dap-song-hong-toi-an-toan-thoat-lu-5072221.html) - 09:02 11/05/2026
+- 🧰 [Đề nghị siết cơ sở độ xe đạp điện học sinh chạy gần 50 km/h](https://vnexpress.net/de-nghi-siet-co-so-do-xe-dap-dien-hoc-sinh-chay-gan-50-km-h-5072476.html) - 08:42 11/05/2026
+- 🦍 [Lắp lưới thép ngăn người nhảy cầu Bến Thủy](https://vnexpress.net/lap-luoi-thep-ngan-nguoi-nhay-cau-ben-thuy-5072482.html) - 08:19 11/05/2026
+- 🧰 [Trưởng ban Tổ chức Thành ủy Hà Nội làm Phó ban Tổ chức Trung ương](https://vnexpress.net/truong-ban-to-chuc-thanh-uy-ha-noi-lam-pho-ban-to-chuc-trung-uong-5072573.html) - 08:00 11/05/2026
+- 💃 [Quốc hội sẽ sửa toàn diện Luật Đất đai](https://vnexpress.net/quoc-hoi-se-sua-toan-dien-luat-dat-dai-5072500.html) - 07:43 11/05/2026
+- 🧰 [Hà Nội tăng phí sử dụng tạm thời vỉa hè lòng đường](https://vnexpress.net/ha-noi-tang-phi-su-dung-tam-thoi-via-he-long-duong-5072494.html) - 05:46 11/05/2026
+- 🚀 [Trục đại lộ cảnh quan sông Hồng được đầu tư xây dựng thế nào?](https://vnexpress.net/truc-dai-lo-canh-quan-song-hong-duoc-dau-tu-xay-dung-the-nao-5072488.html) - 05:43 11/05/2026
+- 🎊 [Cháy quán bar tại Hà Nội, một người tử vong](https://vnexpress.net/chay-quan-bar-tai-ha-noi-mot-nguoi-tu-vong-5072491.html) - 05:01 11/05/2026
+- 🤭 [Quốc hội lo cán bộ cơ sở quá tải, khó giữ nhiệt huyết](https://vnexpress.net/quoc-hoi-lo-can-bo-co-so-qua-tai-kho-giu-nhiet-huyet-5072100.html) - 04:37 11/05/2026
+- 🤗 [Trợ cấp người có công dự kiến hơn 3 triệu đồng từ 1/7](https://vnexpress.net/tro-cap-nguoi-co-cong-du-kien-hon-3-trieu-dong-tu-1-7-5072418.html) - 04:23 11/05/2026
+- 🌈 [Hà Nội có thêm 2 Phó chủ tịch UBND thành phố](https://vnexpress.net/ha-noi-co-them-2-pho-chu-tich-ubnd-thanh-pho-5072403.html) - 03:58 11/05/2026
+- 🦣 [Bộ Xây dựng: Bảo hành công trình giao thông 10 năm chưa phù hợp](https://vnexpress.net/bo-xay-dung-bao-hanh-cong-trinh-giao-thong-10-nam-chua-phu-hop-5072366.html) - 03:20 11/05/2026
+- 🎡 [Hà Nội chưa xem xét đề án vùng phát thải thấp](https://vnexpress.net/ha-noi-chua-xem-xet-de-an-vung-phat-thai-thap-5072349.html) - 02:54 11/05/2026
+- 🦏 [Xe khách chở 12 người rơi xuống vực sâu 40 m ở đèo An Khê](https://vnexpress.net/xe-khach-cho-12-nguoi-roi-xuong-vuc-sau-40-m-o-deo-an-khe-5072306.html) - 01:37 11/05/2026
+- 🎊 [Ẩn họa từ những mỏ đá sâu 100 m không rào chắn ở Đồng Nai](https://vnexpress.net/an-hoa-tu-nhung-mo-da-sau-100-m-khong-rao-chan-o-dong-nai-5071711.html) - 23:00 10/05/2026
+- 🫶 [7 điểm mới trong đào tạo lái xe](https://vnexpress.net/7-diem-moi-trong-dao-tao-lai-xe-5072235.html) - 17:00 10/05/2026
+- 🤔 [Động đất 4 độ ở Sơn La](https://vnexpress.net/dong-dat-4-do-o-son-la-5072226.html) - 14:09 10/05/2026
+- 🤠 [CSGT truy đuổi hơn 2 km bắt tài xế vi phạm nồng độ cồn và tốc độ](https://vnexpress.net/csgt-truy-duoi-hon-2-km-bat-tai-xe-vi-pham-nong-do-con-va-toc-do-5072223.html) - 13:51 10/05/2026
+- 🌜 [Giông lốc khiến 47 căn nhà ở Đồng Tháp bị sập, tốc mái](https://vnexpress.net/giong-loc-khien-47-can-nha-o-dong-thap-bi-sap-toc-mai-5072222.html) - 13:13 10/05/2026
+- 🕯 [Ruộng dưa hấu sắp thu hoạch bị phá hoại](https://vnexpress.net/ruong-dua-hau-sap-thu-hoach-bi-pha-hoai-5072185.html) - 11:00 10/05/2026
+- 🤔 [Hơn 200 người tìm kiếm người đàn ông mất tích ở Tuyên Quang](https://vnexpress.net/hon-200-nguoi-tim-kiem-nguoi-dan-ong-mat-tich-o-tuyen-quang-5072158.html) - 09:39 10/05/2026
+- 🏊 [Doanh nghiệp, cá nhân bị cấm dùng phần mềm lậu](https://vnexpress.net/doanh-nghiep-ca-nhan-bi-cam-dung-phan-mem-lau-5072164.html) - 09:30 10/05/2026
+- 🌮 [Bị phạt vì vứt cả trăm vỏ chai bia xuống sông Kẻ Vạn](https://vnexpress.net/bi-phat-vi-vut-ca-tram-vo-chai-bia-xuong-song-ke-van-5072120.html) - 09:24 10/05/2026
+- 🫣 [Miền Bắc và Trung tuần tới nắng nóng](https://vnexpress.net/mien-bac-va-trung-tuan-toi-nang-nong-5072139.html) - 08:10 10/05/2026
+- ⚗️ [Tộc người bí ẩn nhất Việt Nam thu hoạch lúa nước](https://vnexpress.net/toc-nguoi-bi-an-nhat-viet-nam-thu-hoach-lua-nuoc-5072102.html) - 07:42 10/05/2026
+- 🌜 [Cháy lớn công ty dệt may ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-det-may-o-dong-nai-5072131.html) - 06:25 10/05/2026
+- 🌁 [7 người mắc kẹt trong thang máy thẩm mỹ viện ở TP HCM](https://vnexpress.net/7-nguoi-mac-ket-trong-thang-may-tham-my-vien-o-tp-hcm-5072115.html) - 04:58 10/05/2026
+- 🐲 [Nông dân miền Tây điêu đứng vì giá sầu riêng lao dốc](https://vnexpress.net/nong-dan-mien-tay-dieu-dung-vi-gia-sau-rieng-lao-doc-5071630.html) - 03:48 10/05/2026
+- ⛽️ [Người đàn ông quy tập hàng trăm mộ vô danh](https://vnexpress.net/nguoi-dan-ong-quy-tap-hang-tram-mo-vo-danh-5070770.html) - 23:00 09/05/2026
+- 🗽 [Bảo vật &#39;Phật lồi&#39; hơn 500 năm ở làng chài ven đầm Thị Nại](https://vnexpress.net/bao-vat-phat-loi-hon-500-nam-o-lang-chai-ven-dam-thi-nai-5071018.html) - 22:00 09/05/2026
+- 🔥 [Thôn, tổ dân phố Hà Nội dự kiến quy mô 500-700 hộ](https://vnexpress.net/thon-to-dan-pho-ha-noi-du-kien-quy-mo-500-700-ho-5071972.html) - 17:00 09/05/2026
+- 💯 [ĐH Nông Lâm muốn thu hồi bến xe buýt, sinh viên lo xáo trộn đi lại](https://vnexpress.net/dh-nong-lam-muon-thu-hoi-ben-xe-buyt-sinh-vien-lo-xao-tron-di-lai-5071706.html) - 17:00 09/05/2026
+- 🦆 [6 người đi đường bị chó tấn công](https://vnexpress.net/6-nguoi-di-duong-bi-cho-tan-cong-5071986.html) - 16:36 09/05/2026
+- 🫣 [Hà Nội cấm nhiều tuyến đường theo khung giờ trong 3 ngày](https://vnexpress.net/ha-noi-cam-nhieu-tuyen-duong-theo-khung-gio-trong-3-ngay-5071993.html) - 16:14 09/05/2026
+- 🤡 [Bí thư, Chủ tịch Hà Nội kiểm tra vận hành metro Nhổn - Cầu Giấy](https://vnexpress.net/bi-thu-chu-tich-ha-noi-kiem-tra-van-hanh-metro-nhon-cau-giay-5071977.html) - 15:51 09/05/2026<!-- vnexpress-thoi-su:END -->
