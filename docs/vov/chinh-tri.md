@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Mô hình xã, phường XHCN là phép thử thực tiễn cho tư duy đổi mới quản trị](https://vov.vn/chinh-tri/mo-hinh-xa-phuong-xhcn-la-phep-thu-thuc-tien-cho-tu-duy-doi-moi-quan-tri-post1290868.vov) - 23:00 11/05/2026
-- 💃 [Sáng nay, khai mạc Đại hội đại biểu toàn quốc MTTQ Việt Nam lần thứ XI](https://vov.vn/chinh-tri/sang-nay-khai-mac-dai-hoi-dai-bieu-toan-quoc-mttq-viet-nam-lan-thu-xi-post1290968.vov) - 22:20 11/05/2026
-- 🫶 [Thí điểm xây dựng xã, phường XHCN - Chủ trương đúng đắn và sáng tạo của Đảng ta](https://vov.vn/chinh-tri/thi-diem-xay-dung-xa-phuong-xhcn-chu-truong-dung-dan-va-sang-tao-cua-dang-ta-post1290659.vov) - 22:10 11/05/2026
-- 👨‍🏫 [Thủ tướng: Xác định bài toán lớn, công nghệ chiến lược theo tiềm năng, lợi thế](https://vov.vn/chinh-tri/thu-tuong-xac-dinh-bai-toan-lon-cong-nghe-chien-luoc-theo-tiem-nang-loi-the-post1290969.vov) - 14:54 11/05/2026
-- 🪜 [Bí thư Thành ủy TP.HCM: Mục tiêu cuối cùng là người dân có cuộc sống tốt hơn](https://vov.vn/chinh-tri/bi-thu-thanh-uy-tphcm-muc-tieu-cuoi-cung-la-nguoi-dan-co-cuoc-song-tot-hon-post1290963.vov) - 14:15 11/05/2026
-- 🌋 [Quảng Ngãi đánh giá cán bộ bằng chỉ số KPI](https://vov.vn/chinh-tri/quang-ngai-danh-gia-can-bo-bang-chi-so-kpi-post1290959.vov) - 13:54 11/05/2026
-- 🎉 [Thủ tướng Lê Minh Hưng tiếp Thống đốc tỉnh Yamanashi, Nhật Bản](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-thong-doc-tinh-yamanashi-nhat-ban-post1290948.vov) - 12:54 11/05/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước Tô Lâm điện đàm trực tuyến với Tổng thống Thụy Sĩ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-dien-dam-truc-tuyen-voi-tong-thong-thuy-si-post1290937.vov) - 12:04 11/05/2026
-- 🏊 [Mặt trận Tổ quốc “lắng nghe nhân dân theo thời gian thực”](https://vov.vn/chinh-tri/mat-tran-to-quoc-lang-nghe-nhan-dan-theo-thoi-gian-thuc-post1290934.vov) - 11:51 11/05/2026
-- 🧑‍💻 [Mặt trận lắng nghe nhân dân để nâng cao hiệu quả giám sát, phản biện xã hội](https://vov.vn/chinh-tri/mat-tran-lang-nghe-nhan-dan-de-nang-cao-hieu-qua-giam-sat-phan-bien-xa-hoi-post1290919.vov) - 11:16 11/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Bộ Chính trị điều chỉnh phân cấp quản lý cán bộ và danh mục chức danh lãnh đạo một số cơ quan Trung ương](https://vov.vn/chinh-tri/bo-chinh-tri-dieu-chinh-phan-cap-quan-ly-can-bo-va-danh-muc-chuc-danh-lanh-dao-mot-so-co-quan-trung-uong-post1291252.vov) - 14:31 12/05/2026
+- 💃 [Bộ trưởng Lương Tam Quang dự gặp mặt truyền thống lực lượng An ninh kinh tế](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-du-gap-mat-truyen-thong-luc-luong-an-ninh-kinh-te-post1291246.vov) - 13:55 12/05/2026
+- 🫶 [Thúc đẩy hợp tác Hà Nội - Vientiane đi vào chiều sâu](https://vov.vn/chinh-tri/thuc-day-hop-tac-ha-noi-vientiane-di-vao-chieu-sau-post1291243.vov) - 13:27 12/05/2026
+- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước tiếp Bí thư Thành ủy, Chủ tịch HĐND Vientiane &lpar;Lào&rpar;](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-tiep-bi-thu-thanh-uy-chu-tich-hdnd-vientiane-lao-post1291237.vov) - 12:53 12/05/2026
+- 🪜 [Điều động, bổ nhiệm Chánh án TAND tỉnh Thái Nguyên](https://vov.vn/chinh-tri/to-chuc-nhan-su/dieu-dong-bo-nhiem-chanh-an-tand-tinh-thai-nguyen-post1291225.vov) - 11:57 12/05/2026
+- 🌋 [Ban Bí thư xem xét, thi hành kỷ luật đảng viên vi phạm](https://vov.vn/chinh-tri/xay-dung-chinh-don-dang/ban-bi-thu-xem-xet-thi-hanh-ky-luat-dang-vien-vi-pham-post1291231.vov) - 11:51 12/05/2026
+- 🎉 [Thủ tướng Lê Minh Hưng tiếp Đại sứ Trung Quốc tại Việt Nam](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-dai-su-trung-quoc-tai-viet-nam-post1291230.vov) - 11:47 12/05/2026
+- 🌝 [Hiệp thương cử 397 nhân sự tham gia Ủy ban Trung ương MTTQ Việt Nam khóa XI](https://vov.vn/chinh-tri/hiep-thuong-cu-397-nhan-su-tham-gia-uy-ban-trung-uong-mttq-viet-nam-khoa-xi-post1291203.vov) - 10:31 12/05/2026
+- 🏊 [Hà Nội xây dựng “hạ tầng niềm tin” trên môi trường số](https://vov.vn/chinh-tri/ha-noi-xay-dung-ha-tang-niem-tin-tren-moi-truong-so-post1291136.vov) - 08:55 12/05/2026
+- 🧑‍💻 [Điện Biên nhận diện áp lực mới ở cơ sở, tập trung tháo gỡ các bất cập](https://vov.vn/chinh-tri/dien-bien-nhan-dien-ap-luc-moi-o-co-so-tap-trung-thao-go-cac-bat-cap-post1291090.vov) - 07:00 12/05/2026<!-- vov-chinh-tri:END -->
