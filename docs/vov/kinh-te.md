@@ -4,63 +4,63 @@ sidebar_position: 4
 ---
 
 <!-- vov-kinh-te:START -->
-- 🪄 [Đồng Tháp kiến nghị lấy mẫu xét nghiệm sầu riêng, mít](https://vov.vn/kinh-te/dong-thap-kien-nghi-lay-mau-xet-nghiem-sau-rieng-mit-post1290575.vov) - 05:17 10/05/2026
-- 🎉 [Môi giới bất động sản đổ bộ TikTok &amp;quot;săn&amp;quot; khách](https://vov.vn/kinh-te/moi-gioi-bat-dong-san-do-bo-tiktok-san-khach-post1290548.vov) - 03:14 10/05/2026
-- 🧰 [Huế tìm nhà thầu mới cho dự án đô thị xanh chậm tiến độ](https://vov.vn/kinh-te/hue-tim-nha-thau-moi-cho-du-an-do-thi-xanh-cham-tien-do-post1290525.vov) - 01:36 10/05/2026
-- 🥳 [Du lịch biển Thịnh Long hồi sinh: Hiệu ứng từ kích cầu và làm mới điểm đến](https://vov.vn/kinh-te/du-lich-bien-thinh-long-hoi-sinh-hieu-ung-tu-kich-cau-va-lam-moi-diem-den-post1290459.vov) - 01:00 10/05/2026
-- 🥰 [Việt Nam duy trì vị thế là điểm đến hấp dẫn của các nhà đầu tư nước ngoài](https://vov.vn/kinh-te/viet-nam-duy-tri-vi-the-la-diem-den-hap-dan-cua-cac-nha-dau-tu-nuoc-ngoai-post1290471.vov) - 00:00 10/05/2026
-- 🤠 [Cơ chế, chính sách đặc thù tháo gỡ vướng mắc cho các dự án tồn đọng, kéo dài](https://vov.vn/kinh-te/co-che-chinh-sach-dac-thu-thao-go-vuong-mac-cho-cac-du-an-ton-dong-keo-dai-post1290498.vov) - 15:21 09/05/2026
-- 💂 [Tạm dừng trao đổi dữ liệu xuất xứ Việt Nam - Hàn Quốc trong tháng 5](https://vov.vn/kinh-te/tam-dung-trao-doi-du-lieu-xuat-xu-viet-nam-han-quoc-trong-thang-5-post1290484.vov) - 13:18 09/05/2026
-- 🚀 [Gần 10.000 ha rừng vầu ở Thanh Hóa bị chết, người dân gặp khó khăn](https://vov.vn/kinh-te/gan-10000-ha-rung-vau-o-thanh-hoa-bi-chet-nguoi-dan-gap-kho-khan-post1290462.vov) - 12:12 09/05/2026
-- 👺 [Đà Nẵng sẽ khởi công nhà ở xã hội cho công nhân trong năm nay](https://vov.vn/kinh-te/da-nang-se-khoi-cong-nha-o-xa-hoi-cho-cong-nhan-trong-nam-nay-post1290433.vov) - 11:27 09/05/2026
-- 🦆 [Quảng Ngãi chấn chỉnh chậm trễ hồ sơ đất đai ở phường Nghĩa Lộ](https://vov.vn/kinh-te/quang-ngai-chan-chinh-cham-tre-ho-so-dat-dai-o-phuong-nghia-lo-post1290435.vov) - 11:25 09/05/2026
+- 🪄 [Giá vật liệu tăng phi mã: Doanh nghiệp cần ứng phó ra sao?](https://vov.vn/kinh-te/gia-vat-lieu-tang-phi-ma-doanh-nghiep-can-ung-pho-ra-sao-post1291075.vov) - 04:07 12/05/2026
+- 🎉 [Tây Ninh trình đầu tư hơn 20.700 tỷ đồng làm trục kết nối Long An – Tân Ninh](https://vov.vn/kinh-te/tay-ninh-trinh-dau-tu-hon-20700-ty-dong-lam-truc-ket-noi-long-an-tan-ninh-post1291061.vov) - 03:51 12/05/2026
+- 🧰 [Không khai báo tài khoản ngân hàng, hộ kinh doanh sẽ bị phạt bao nhiêu?](https://vov.vn/kinh-te/khong-khai-bao-tai-khoan-ngan-hang-ho-kinh-doanh-se-bi-phat-bao-nhieu-post1290797.vov) - 03:28 12/05/2026
+- 🥳 [Đã có nhà Hà Nội vẫn được mua nhà ở xã hội: Nguồn cung ít, có dễ thực hiện?](https://vov.vn/kinh-te/da-co-nha-ha-noi-van-duoc-mua-nha-o-xa-hoi-nguon-cung-it-co-de-thuc-hien-post1291046.vov) - 03:01 12/05/2026
+- 🥰 [Hà Nội sẽ hình thành 6 - 8 khu kinh tế đêm trọng điểm](https://vov.vn/kinh-te/ha-noi-se-hinh-thanh-6-8-khu-kinh-te-dem-trong-diem-post1291004.vov) - 01:33 12/05/2026
+- 🤠 [Đồng Tháp chế biến sâu để mở rộng thị trường và gia tăng giá trị nông sản](https://vov.vn/kinh-te/dong-thap-che-bien-sau-de-mo-rong-thi-truong-va-gia-tang-gia-tri-nong-san-post1290880.vov) - 01:28 12/05/2026
+- 💂 [Đầu năm 2026, vốn FDI thực hiện cao nhất so với cùng kỳ 5 năm qua](https://vov.vn/kinh-te/dau-nam-2026-von-fdi-thuc-hien-cao-nhat-so-voi-cung-ky-5-nam-qua-post1290888.vov) - 00:35 12/05/2026
+- 🚀 [Mùa mận Sơn La đến sớm, giá rẻ bất ngờ](https://vov.vn/kinh-te/mua-man-son-la-den-som-gia-re-bat-ngo-post1290912.vov) - 00:00 12/05/2026
+- 👺 [Mỹ triển khai các biện pháp hạ nhiệt giá nhiên liệu](https://vov.vn/kinh-te/my-trien-khai-cac-bien-phap-ha-nhiet-gia-nhien-lieu-post1290993.vov) - 23:20 11/05/2026
+- 🦆 [Rao bán cắt lỗ, bất động sản Hà Nội vẫn vắng người mua](https://vov.vn/kinh-te/rao-ban-cat-lo-bat-dong-san-ha-noi-van-vang-nguoi-mua-post1290865.vov) - 23:00 11/05/2026
+- 🤗 [Lý Sơn khuyến cáo không khai thác cá kình non](https://vov.vn/kinh-te/ly-son-khuyen-cao-khong-khai-thac-ca-kinh-non-post1290977.vov) - 16:02 11/05/2026
+- 🔥 [ACV lo nguy cơ chồng lấn hạ tầng đường sắt quanh sân bay Long Thành](https://vov.vn/kinh-te/acv-lo-nguy-co-chong-lan-ha-tang-duong-sat-quanh-san-bay-long-thanh-post1290936.vov) - 15:49 11/05/2026
+- 🎓 [Cầu đi bộ qua sông Sài Gòn đổ mẻ bê tông đầu tiên, dự kiến về đích dịp 2/9](https://vov.vn/kinh-te/cau-di-bo-qua-song-sai-gon-do-me-be-tong-dau-tien-du-kien-ve-dich-dip-29-post1290943.vov) - 15:40 11/05/2026
+- 🌊 [Phê duyệt quy hoạch chung Khu kinh tế ven biển Quảng Yên ở Quảng Ninh](https://vov.vn/kinh-te/phe-duyet-quy-hoach-chung-khu-kinh-te-ven-bien-quang-yen-o-quang-ninh-post1290952.vov) - 13:03 11/05/2026
+- 🧑‍💻 [TP.HCM đẩy mạnh phát triển nhà ở, gỡ vướng cho thị trường bất động sản](https://vov.vn/multimedia/tphcm-day-manh-phat-trien-nha-o-go-vuong-cho-thi-truong-bat-dong-san-post1290579.vov) - 12:15 11/05/2026
+- 🏊 [Không dự trữ xăng dầu bắt buộc, 2 doanh nghiệp đầu mối bị xử phạt 320 triệu đồng](https://vov.vn/kinh-te/khong-du-tru-xang-dau-bat-buoc-2-doanh-nghiep-dau-moi-bi-xu-phat-320-trieu-dong-post1290847.vov) - 11:38 11/05/2026
+- 💫 [Bảo đảm nguồn thu thuế xuất nhập khẩu qua Lạng Sơn](https://vov.vn/kinh-te/bao-dam-nguon-thu-thue-xuat-nhap-khau-qua-lang-son-post1290831.vov) - 11:31 11/05/2026
+- 🥷 [Hàn Quốc và sự tái phát của “cơn sốt” tìm vàng sa khoáng](https://vov.vn/kinh-te/han-quoc-va-su-tai-phat-cua-con-sot-tim-vang-sa-khoang-post1290846.vov) - 10:12 11/05/2026
+- 🧑‍💻 [Đắk Lắk đẩy mạnh thu hút đầu tư nông nghiệp gắn với tăng trưởng hai con số](https://vov.vn/kinh-te/dak-lak-day-manh-thu-hut-dau-tu-nong-nghiep-gan-voi-tang-truong-hai-con-so-post1290867.vov) - 09:24 11/05/2026
+- 🌏 [Nông dân Cần Thơ trồng lục bình cho thu nhập cao](https://vov.vn/kinh-te/nong-dan-can-tho-trong-luc-binh-cho-thu-nhap-cao-post1290791.vov) - 05:32 11/05/2026
+- 🧑‍🏫 [Xuất khẩu gạo của Campuchia tăng đột biến](https://vov.vn/kinh-te/xuat-khau-gao-cua-campuchia-tang-dot-bien-post1290786.vov) - 05:27 11/05/2026
+- 🎭 [Sổ đỏ cấp sai có hiệu lực pháp lý, doanh nghiệp phải nộp thêm tiền đất](https://vov.vn/kinh-te/so-do-cap-sai-co-hieu-luc-phap-ly-doanh-nghiep-phai-nop-them-tien-dat-post1290751.vov) - 03:29 11/05/2026
+- 🌏 [Thị trường căn hộ TP.HCM chật vật với bài toán dòng tiền](https://vov.vn/kinh-te/thi-truong-can-ho-tphcm-chat-vat-voi-bai-toan-dong-tien-post1290680.vov) - 03:05 11/05/2026
+- 🤖 [Nông dân ở thủ phủ sầu riêng Đồng Nai mòn mỏi chờ trung tâm kiểm nghiệm](https://vov.vn/kinh-te/nong-dan-o-thu-phu-sau-rieng-dong-nai-mon-moi-cho-trung-tam-kiem-nghiem-post1290630.vov) - 00:07 11/05/2026
+- ⛽️ [Thủ phủ vải thiều Bắc Ninh công nhận 143 nhà vườn đẹp](https://vov.vn/kinh-te/thu-phu-vai-thieu-bac-ninh-cong-nhan-143-nha-vuon-dep-post1290610.vov) - 00:00 11/05/2026
+- 🎓 [Đặc sản vùi mình trong cát trông “đáng sợ” nhưng rất hút thực khách](https://vov.vn/kinh-te/dac-san-vui-minh-trong-cat-trong-dang-so-nhung-rat-hut-thuc-khach-post1290625.vov) - 23:00 10/05/2026
+- 🦄 [Đồng Tháp kiến nghị lấy mẫu xét nghiệm sầu riêng, mít](https://vov.vn/kinh-te/dong-thap-kien-nghi-lay-mau-xet-nghiem-sau-rieng-mit-post1290575.vov) - 05:17 10/05/2026
+- 🏊 [Môi giới bất động sản đổ bộ TikTok &amp;quot;săn&amp;quot; khách](https://vov.vn/kinh-te/moi-gioi-bat-dong-san-do-bo-tiktok-san-khach-post1290548.vov) - 03:14 10/05/2026
+- 🗽 [Huế tìm nhà thầu mới cho dự án đô thị xanh chậm tiến độ](https://vov.vn/kinh-te/hue-tim-nha-thau-moi-cho-du-an-do-thi-xanh-cham-tien-do-post1290525.vov) - 01:36 10/05/2026
+- 🌈 [Du lịch biển Thịnh Long hồi sinh: Hiệu ứng từ kích cầu và làm mới điểm đến](https://vov.vn/kinh-te/du-lich-bien-thinh-long-hoi-sinh-hieu-ung-tu-kich-cau-va-lam-moi-diem-den-post1290459.vov) - 01:00 10/05/2026
+- 👍 [Việt Nam duy trì vị thế là điểm đến hấp dẫn của các nhà đầu tư nước ngoài](https://vov.vn/kinh-te/viet-nam-duy-tri-vi-the-la-diem-den-hap-dan-cua-cac-nha-dau-tu-nuoc-ngoai-post1290471.vov) - 00:00 10/05/2026
+- 🤩 [Cơ chế, chính sách đặc thù tháo gỡ vướng mắc cho các dự án tồn đọng, kéo dài](https://vov.vn/kinh-te/co-che-chinh-sach-dac-thu-thao-go-vuong-mac-cho-cac-du-an-ton-dong-keo-dai-post1290498.vov) - 15:21 09/05/2026
+- 🥸 [Tạm dừng trao đổi dữ liệu xuất xứ Việt Nam - Hàn Quốc trong tháng 5](https://vov.vn/kinh-te/tam-dung-trao-doi-du-lieu-xuat-xu-viet-nam-han-quoc-trong-thang-5-post1290484.vov) - 13:18 09/05/2026
+- 🦍 [Gần 10.000 ha rừng vầu ở Thanh Hóa bị chết, người dân gặp khó khăn](https://vov.vn/kinh-te/gan-10000-ha-rung-vau-o-thanh-hoa-bi-chet-nguoi-dan-gap-kho-khan-post1290462.vov) - 12:12 09/05/2026
+- 🌏 [Đà Nẵng sẽ khởi công nhà ở xã hội cho công nhân trong năm nay](https://vov.vn/kinh-te/da-nang-se-khoi-cong-nha-o-xa-hoi-cho-cong-nhan-trong-nam-nay-post1290433.vov) - 11:27 09/05/2026
+- 🧐 [Quảng Ngãi chấn chỉnh chậm trễ hồ sơ đất đai ở phường Nghĩa Lộ](https://vov.vn/kinh-te/quang-ngai-chan-chinh-cham-tre-ho-so-dat-dai-o-phuong-nghia-lo-post1290435.vov) - 11:25 09/05/2026
 - 🤗 [Cà Mau yêu cầu khắc phục tình trạng sản xuất bị ảnh hưởng tại dự án sân bay](https://vov.vn/kinh-te/ca-mau-yeu-cau-khac-phuc-tinh-trang-san-xuat-bi-anh-huong-tai-du-an-san-bay-post1290470.vov) - 11:23 09/05/2026
-- 🔥 [“30 ngày đêm” tháo điểm nghẽn mặt bằng dự án ven biển Đắk Lắk](https://vov.vn/kinh-te/30-ngay-dem-thao-diem-nghen-mat-bang-du-an-ven-bien-dak-lak-post1290456.vov) - 10:32 09/05/2026
-- 🎓 [TP.HCM tìm động lực mới và khơi thông “điểm nghẽn” để giải áp lực tăng trưởng](https://vov.vn/kinh-te/tphcm-tim-dong-luc-moi-va-khoi-thong-diem-nghen-de-giai-ap-luc-tang-truong-post1290411.vov) - 08:14 09/05/2026
-- 🌊 [Gia Lai kiến nghị Trung ương sớm bố trí vốn Dự án cao tốc Quy Nhơn – Pleiku](https://vov.vn/kinh-te/gia-lai-kien-nghi-trung-uong-som-bo-tri-von-du-an-cao-toc-quy-nhon-pleiku-post1290400.vov) - 08:12 09/05/2026
-- 🧑‍💻 [AI – lợi thế cạnh tranh mới của doanh nghiệp ngành logistics](https://vov.vn/kinh-te/ai-loi-the-canh-tranh-moi-cua-doanh-nghiep-nganh-logistics-post1290403.vov) - 07:27 09/05/2026
-- 🏊 [Bất chấp thị trường chững, chung cư cao cấp vẫn ồ ạt mở bán](https://vov.vn/kinh-te/bat-chap-thi-truong-chung-chung-cu-cao-cap-van-o-at-mo-ban-post1290169.vov) - 05:00 09/05/2026
-- 💫 [Quảng Ninh đặt mục tiêu tăng trưởng kinh tế 12,58% trong quý II/2026](https://vov.vn/kinh-te/quang-ninh-dat-muc-tieu-tang-truong-kinh-te-1258-trong-quy-ii2026-post1290385.vov) - 04:18 09/05/2026
-- 🥷 [Hộ kinh doanh, hợp tác xã được hỗ trợ tới 100% chi phí chuyển đổi số](https://vov.vn/kinh-te/ho-kinh-doanh-hop-tac-xa-duoc-ho-tro-toi-100-chi-phi-chuyen-doi-so-post1290376.vov) - 04:03 09/05/2026
-- 🧑‍💻 [Kiến nghị điều tra thất thoát hơn 26 tỷ đồng tại Công ty TNHH MTV Cà phê Gia Lai](https://vov.vn/kinh-te/kien-nghi-dieu-tra-that-thoat-hon-26-ty-dong-tai-cong-ty-tnhh-mtv-ca-phe-gia-lai-post1290370.vov) - 03:59 09/05/2026
+- 🎡 [“30 ngày đêm” tháo điểm nghẽn mặt bằng dự án ven biển Đắk Lắk](https://vov.vn/kinh-te/30-ngay-dem-thao-diem-nghen-mat-bang-du-an-ven-bien-dak-lak-post1290456.vov) - 10:32 09/05/2026
+- 🧰 [TP.HCM tìm động lực mới và khơi thông “điểm nghẽn” để giải áp lực tăng trưởng](https://vov.vn/kinh-te/tphcm-tim-dong-luc-moi-va-khoi-thong-diem-nghen-de-giai-ap-luc-tang-truong-post1290411.vov) - 08:14 09/05/2026
+- 🦏 [Gia Lai kiến nghị Trung ương sớm bố trí vốn Dự án cao tốc Quy Nhơn – Pleiku](https://vov.vn/kinh-te/gia-lai-kien-nghi-trung-uong-som-bo-tri-von-du-an-cao-toc-quy-nhon-pleiku-post1290400.vov) - 08:12 09/05/2026
+- 😺 [AI – lợi thế cạnh tranh mới của doanh nghiệp ngành logistics](https://vov.vn/kinh-te/ai-loi-the-canh-tranh-moi-cua-doanh-nghiep-nganh-logistics-post1290403.vov) - 07:27 09/05/2026
+- 💪 [Bất chấp thị trường chững, chung cư cao cấp vẫn ồ ạt mở bán](https://vov.vn/kinh-te/bat-chap-thi-truong-chung-chung-cu-cao-cap-van-o-at-mo-ban-post1290169.vov) - 05:00 09/05/2026
+- 🥷 [Quảng Ninh đặt mục tiêu tăng trưởng kinh tế 12,58% trong quý II/2026](https://vov.vn/kinh-te/quang-ninh-dat-muc-tieu-tang-truong-kinh-te-1258-trong-quy-ii2026-post1290385.vov) - 04:18 09/05/2026
+- 🚦 [Hộ kinh doanh, hợp tác xã được hỗ trợ tới 100% chi phí chuyển đổi số](https://vov.vn/kinh-te/ho-kinh-doanh-hop-tac-xa-duoc-ho-tro-toi-100-chi-phi-chuyen-doi-so-post1290376.vov) - 04:03 09/05/2026
+- 🦄 [Kiến nghị điều tra thất thoát hơn 26 tỷ đồng tại Công ty TNHH MTV Cà phê Gia Lai](https://vov.vn/kinh-te/kien-nghi-dieu-tra-that-thoat-hon-26-ty-dong-tai-cong-ty-tnhh-mtv-ca-phe-gia-lai-post1290370.vov) - 03:59 09/05/2026
 - 🌏 [Loạt lô sầu riêng đang đối mặt nguy cơ chậm thông quan do ùn ứ kiểm nghiệm](https://vov.vn/kinh-te/loat-lo-sau-rieng-dang-doi-mat-nguy-co-cham-thong-quan-do-un-u-kiem-nghiem-post1290265.vov) - 02:28 09/05/2026
-- 🧑‍🏫 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://vov.vn/kinh-te/bat-dong-san/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-post1290281.vov) - 01:00 09/05/2026
-- 🎭 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
-- 🌏 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
-- 🤖 [Chuối cô đơn bổ dưỡng cỡ nào mà được nhiều người lùng mua?](https://vov.vn/kinh-te/chuoi-co-don-bo-duong-co-nao-ma-duoc-nhieu-nguoi-lung-mua-post1290201.vov) - 23:00 08/05/2026
-- ⛽️ [Nhiều lễ hội quả sẽ diễn ra tại Sơn La trong tháng 5](https://vov.vn/kinh-te/nhieu-le-hoi-qua-se-dien-ra-tai-son-la-trong-thang-5-post1290304.vov) - 15:34 08/05/2026
-- 🎓 [Giải ngân đầu tư công: Đắk Lắk tập trung tháo “điểm nghẽn” để giữ đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-dak-lak-tap-trung-thao-diem-nghen-de-giu-da-tang-truong-post1290219.vov) - 14:57 08/05/2026
-- 🦄 [TP.HCM sẽ điều hành xăng dầu theo kịch bản mới](https://vov.vn/kinh-te/tphcm-se-dieu-hanh-xang-dau-theo-kich-ban-moi-post1290293.vov) - 14:47 08/05/2026
-- 🏊 [TP.HCM tăng tốc phát triển metro, hướng tới 187km đường sắt đô thị vào năm 2030](https://vov.vn/kinh-te/tphcm-tang-toc-phat-trien-metro-huong-toi-187km-duong-sat-do-thi-vao-nam-2030-post1290283.vov) - 14:40 08/05/2026
-- 🗽 [TP.HCM đẩy nhanh giải phóng mặt bằng để triển khai các dự án đầu tư công](https://vov.vn/kinh-te/tphcm-day-nhanh-giai-phong-mat-bang-de-trien-khai-cac-du-an-dau-tu-cong-post1290276.vov) - 13:37 08/05/2026
-- 🌈 [Việt Nam xuất khẩu 1,1 triệu liều vaccine viêm da nổi cục sang Hàn Quốc](https://vov.vn/kinh-te/viet-nam-xuat-khau-11-trieu-lieu-vaccine-viem-da-noi-cuc-sang-han-quoc-post1290197.vov) - 13:03 08/05/2026
-- 👍 [TP.HCM tìm giải pháp để thúc đẩy đầu tư công, hoàn thành tăng trưởng hai con số](https://vov.vn/kinh-te/tphcm-tim-giai-phap-de-thuc-day-dau-tu-cong-hoan-thanh-tang-truong-hai-con-so-post1290269.vov) - 12:39 08/05/2026
-- 🤩 [Gỡ điểm nghẽn xuất khẩu nông sản: Chính phủ vào cuộc cùng doanh nghiệp](https://vov.vn/kinh-te/go-diem-nghen-xuat-khau-nong-san-chinh-phu-vao-cuoc-cung-doanh-nghiep-post1290216.vov) - 11:07 08/05/2026
-- 🥸 [Doanh nghiệp bắt tay cơ cấu lại sản phẩm, linh hoạt trong kinh doanh để vượt khó](https://vov.vn/kinh-te/doanh-nghiep-bat-tay-co-cau-lai-san-pham-linh-hoat-trong-kinh-doanh-de-vuot-kho-post1290129.vov) - 09:54 08/05/2026
-- 🦍 [Giải ngân vốn đầu tư công: Sơn La từ vị trí 33 lên thứ 11 cả nước](https://vov.vn/kinh-te/giai-ngan-von-dau-tu-cong-son-la-tu-vi-tri-33-len-thu-11-ca-nuoc-post1290165.vov) - 09:17 08/05/2026
-- 🌏 [Hà Nội đề xuất dự án nâng cấp trục Quốc lộ 1A gần 162.000 tỷ đồng](https://vov.vn/kinh-te/ha-noi-de-xuat-du-an-nang-cap-truc-quoc-lo-1a-gan-162000-ty-dong-post1290167.vov) - 09:07 08/05/2026
-- 🧐 [Giá cá tra ổn định ở mức cao, doanh nghiệp và ngư dân Đồng Tháp có lãi](https://vov.vn/kinh-te/gia-ca-tra-on-dinh-o-muc-cao-doanh-nghiep-va-ngu-dan-dong-thap-co-lai-post1290176.vov) - 08:54 08/05/2026
-- 🤗 [Hà Nội đề xuất thông qua 5.822 dự án thu hồi đất giai đoạn 2026–2030](https://vov.vn/kinh-te/ha-noi-de-xuat-thong-qua-5822-du-an-thu-hoi-dat-giai-doan-2026-2030-post1290117.vov) - 07:19 08/05/2026
-- 🎡 [Hạt dẻ Trùng Khánh: Từ sản vật đặc hữu đến sinh kế vùng cao](https://vov.vn/kinh-te/hat-de-trung-khanh-tu-san-vat-dac-huu-den-sinh-ke-vung-cao-post1290073.vov) - 06:08 08/05/2026
-- 🧰 [Masterise Homes 2 năm liên tiếp được vinh danh tại APPA](https://vov.vn/kinh-te/bat-dong-san/masterise-homes-2-nam-lien-tiep-duoc-vinh-danh-tai-appa-post1290111.vov) - 05:04 08/05/2026
-- 🦏 [Điều chỉnh các chỉ tiêu xăng sinh học E5, E10](https://vov.vn/kinh-te/dieu-chinh-cac-chi-tieu-xang-sinh-hoc-e5-e10-post1290076.vov) - 04:32 08/05/2026
-- 😺 [Xuất khẩu thủy sản 4 tháng đầu năm thu về khoảng 3,7 tỷ USD](https://vov.vn/kinh-te/xuat-khau-thuy-san-4-thang-dau-nam-thu-ve-khoang-37-ty-usd-post1290079.vov) - 03:42 08/05/2026
-- 💪 [Tây Bắc TP.HCM: Cơ hội cho những nhà đầu tư từng bỏ lỡ](https://vov.vn/kinh-te/tay-bac-tphcm-co-hoi-cho-nhung-nha-dau-tu-tung-bo-lo-post1290023.vov) - 02:18 08/05/2026
-- 🥷 [Vinpearl hợp tác với 3 doanh nghiệp lữ hành Ấn Độ, khai mở thị trường 1,4 tỷ dân](https://vov.vn/kinh-te/vinpearl-hop-tac-voi-3-doanh-nghiep-lu-hanh-an-do-khai-mo-thi-truong-14-ty-dan-post1290024.vov) - 02:08 08/05/2026
-- 🚦 [Hạ tầng dần định hình giá trị bất động sản Bến Lức](https://vov.vn/kinh-te/bat-dong-san/ha-tang-dan-dinh-hinh-gia-tri-bat-dong-san-ben-luc-post1289940.vov) - 01:00 08/05/2026
-- 🦄 [Xã Đoài Phương: Hàng loạt khu đất xây hạ tầng rao bán như dự án phân lô bán nền?](https://vov.vn/kinh-te/bat-dong-san/xa-doai-phuong-hang-loat-khu-dat-xay-ha-tang-rao-ban-nhu-du-an-phan-lo-ban-nen-post1289738.vov) - 01:00 08/05/2026
-- 🌏 [Động lực mới đưa Việt Nam tham gia sâu hơn vào chuỗi cung ứng khu vực và thế giới](https://vov.vn/kinh-te/dong-luc-moi-dua-viet-nam-tham-gia-sau-hon-vao-chuoi-cung-ung-khu-vuc-va-the-gioi-post1289863.vov) - 00:10 08/05/2026
-- 🌁 [4 thay đổi lớn về thuế giá trị gia tăng doanh nghiệp cần lưu ý từ ngày 20/6](https://vov.vn/kinh-te/4-thay-doi-lon-ve-thue-gia-tri-gia-tang-doanh-nghiep-can-luu-y-tu-ngay-206-post1289925.vov) - 00:00 08/05/2026
-- 💄 [Nghề lạ giữa TP.HCM: Nuôi “khỉ biển” bán cho dân chơi cá cảnh, thu tiền tỷ mỗi năm](https://vov.vn/kinh-te/nghe-la-giua-tphcm-nuoi-khi-bien-ban-cho-dan-choi-ca-canh-thu-tien-ty-moi-nam-post1289854.vov) - 23:00 07/05/2026
-- 🌈 [Vì sao mặt bằng tại các tuyến phố trung tâm Hà Nội bị bỏ trống kéo dài?](https://vov.vn/kinh-te/bat-dong-san/vi-sao-mat-bang-tai-cac-tuyen-pho-trung-tam-ha-noi-bi-bo-trong-keo-dai-post1289790.vov) - 23:00 07/05/2026
-- 👍 [Thái Lan tăng hơn 50% phí dịch vụ hành khách quốc tế tại các sân bay](https://vov.vn/kinh-te/thai-lan-tang-hon-50-phi-dich-vu-hanh-khach-quoc-te-tai-cac-san-bay-post1289963.vov) - 13:43 07/05/2026
-- 🎊 [Đà Nẵng thúc đẩy hợp tác quốc tế về nhiên liệu hàng không bền vững](https://vov.vn/kinh-te/da-nang-thuc-day-hop-tac-quoc-te-ve-nhien-lieu-hang-khong-ben-vung-post1289880.vov) - 13:30 07/05/2026
-- 💃 [TP.HCM tính toán chỗ buôn bán cho người dân khi dẹp vỉa hè](https://vov.vn/kinh-te/tphcm-tinh-toan-cho-buon-ban-cho-nguoi-dan-khi-dep-via-he-post1289952.vov) - 12:23 07/05/2026
-- ⚗️ [Đề xuất nợ thuế từ 1 triệu bị tạm hoãn xuất cảnh, Cục Thuế nói gì?](https://vov.vn/kinh-te/de-xuat-no-thue-tu-1-trieu-bi-tam-hoan-xuat-canh-cuc-thue-noi-gi-post1289922.vov) - 12:07 07/05/2026
-- 🕴 [Bắc Ninh chạy đua hoàn thành gần 20.000 căn nhà ở xã hội năm 2026](https://vov.vn/kinh-te/bac-ninh-chay-dua-hoan-thanh-gan-20000-can-nha-o-xa-hoi-nam-2026-post1289852.vov) - 10:53 07/05/2026
-- 🦒 [Đà Nẵng thu ngân sách tăng 71% sau 4 tháng nhưng còn nhiều áp lực từ nguồn thu](https://vov.vn/kinh-te/da-nang-thu-ngan-sach-tang-71-sau-4-thang-nhung-con-nhieu-ap-luc-tu-nguon-thu-post1289886.vov) - 10:10 07/05/2026
-- 🕴 [Đắk Lắk ra mắt Hiệp hội Logistics và Cảng biển, kết nối cao nguyên ra biển](https://vov.vn/kinh-te/dak-lak-ra-mat-hiep-hoi-logistics-va-cang-bien-ket-noi-cao-nguyen-ra-bien-post1289927.vov) - 10:00 07/05/2026
-- 🤗 [Thông xe tạm tuyến cao tốc Biên Hoà - Vũng Tàu &lpar;đoạn qua Đồng Nai&rpar; vào ngày 18/5](https://vov.vn/kinh-te/thong-xe-tam-tuyen-cao-toc-bien-hoa-vung-tau-doan-qua-dong-nai-vao-ngay-185-post1289849.vov) - 09:27 07/05/2026
-- 🦄 [Phát động cuộc thi khởi nghiệp đổi mới sáng tạo trong lĩnh vực nông nghiệp](https://vov.vn/kinh-te/khoi-nghiep/phat-dong-cuoc-thi-khoi-nghiep-doi-moi-sang-tao-trong-linh-vuc-nong-nghiep-post1289810.vov) - 09:00 07/05/2026
-- 🥳 [Năm Quốc tế Nữ nông dân 2026: Tiếp sức cho phụ nữ làm chủ nông nghiệp và HTX](https://vov.vn/kinh-te/nam-quoc-te-nu-nong-dan-2026-tiep-suc-cho-phu-nu-lam-chu-nong-nghiep-va-htx-post1289782.vov) - 05:05 07/05/2026
-- 🎓 [Thủ phủ vải thiều sớm ở Bắc Ninh trước vụ thu hoạch: Kẻ cười, người khóc](https://vov.vn/kinh-te/thu-phu-vai-thieu-som-o-bac-ninh-truoc-vu-thu-hoach-ke-cuoi-nguoi-khoc-post1289722.vov) - 04:47 07/05/2026<!-- vov-kinh-te:END -->
+- 🌁 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://vov.vn/kinh-te/bat-dong-san/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-post1290281.vov) - 01:00 09/05/2026
+- 💄 [Hỗ trợ khuyến công - “đòn bẩy” thúc đẩy công nghiệp nông thôn phát triển](https://vov.vn/kinh-te/ho-tro-khuyen-cong-don-bay-thuc-day-cong-nghiep-nong-thon-phat-trien-post1289911.vov) - 00:00 09/05/2026
+- 🌈 [Lực đẩy nào giúp Hưng Yên tăng trưởng hai con số ấn tượng?](https://vov.vn/kinh-te/luc-day-nao-giup-hung-yen-tang-truong-hai-con-so-an-tuong-post1290142.vov) - 00:00 09/05/2026
+- 👍 [Chuối cô đơn bổ dưỡng cỡ nào mà được nhiều người lùng mua?](https://vov.vn/kinh-te/chuoi-co-don-bo-duong-co-nao-ma-duoc-nhieu-nguoi-lung-mua-post1290201.vov) - 23:00 08/05/2026
+- 🎊 [Nhiều lễ hội quả sẽ diễn ra tại Sơn La trong tháng 5](https://vov.vn/kinh-te/nhieu-le-hoi-qua-se-dien-ra-tai-son-la-trong-thang-5-post1290304.vov) - 15:34 08/05/2026
+- 💃 [Giải ngân đầu tư công: Đắk Lắk tập trung tháo “điểm nghẽn” để giữ đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-dak-lak-tap-trung-thao-diem-nghen-de-giu-da-tang-truong-post1290219.vov) - 14:57 08/05/2026
+- ⚗️ [TP.HCM sẽ điều hành xăng dầu theo kịch bản mới](https://vov.vn/kinh-te/tphcm-se-dieu-hanh-xang-dau-theo-kich-ban-moi-post1290293.vov) - 14:47 08/05/2026
+- 🕴 [TP.HCM tăng tốc phát triển metro, hướng tới 187km đường sắt đô thị vào năm 2030](https://vov.vn/kinh-te/tphcm-tang-toc-phat-trien-metro-huong-toi-187km-duong-sat-do-thi-vao-nam-2030-post1290283.vov) - 14:40 08/05/2026
+- 🦒 [TP.HCM đẩy nhanh giải phóng mặt bằng để triển khai các dự án đầu tư công](https://vov.vn/kinh-te/tphcm-day-nhanh-giai-phong-mat-bang-de-trien-khai-cac-du-an-dau-tu-cong-post1290276.vov) - 13:37 08/05/2026
+- 🕴 [Việt Nam xuất khẩu 1,1 triệu liều vaccine viêm da nổi cục sang Hàn Quốc](https://vov.vn/kinh-te/viet-nam-xuat-khau-11-trieu-lieu-vaccine-viem-da-noi-cuc-sang-han-quoc-post1290197.vov) - 13:03 08/05/2026
+- 🤗 [TP.HCM tìm giải pháp để thúc đẩy đầu tư công, hoàn thành tăng trưởng hai con số](https://vov.vn/kinh-te/tphcm-tim-giai-phap-de-thuc-day-dau-tu-cong-hoan-thanh-tang-truong-hai-con-so-post1290269.vov) - 12:39 08/05/2026
+- 🦄 [Gỡ điểm nghẽn xuất khẩu nông sản: Chính phủ vào cuộc cùng doanh nghiệp](https://vov.vn/kinh-te/go-diem-nghen-xuat-khau-nong-san-chinh-phu-vao-cuoc-cung-doanh-nghiep-post1290216.vov) - 11:07 08/05/2026
+- 🥳 [Doanh nghiệp bắt tay cơ cấu lại sản phẩm, linh hoạt trong kinh doanh để vượt khó](https://vov.vn/kinh-te/doanh-nghiep-bat-tay-co-cau-lai-san-pham-linh-hoat-trong-kinh-doanh-de-vuot-kho-post1290129.vov) - 09:54 08/05/2026
+- 🎓 [Giải ngân vốn đầu tư công: Sơn La từ vị trí 33 lên thứ 11 cả nước](https://vov.vn/kinh-te/giai-ngan-von-dau-tu-cong-son-la-tu-vi-tri-33-len-thu-11-ca-nuoc-post1290165.vov) - 09:17 08/05/2026<!-- vov-kinh-te:END -->
