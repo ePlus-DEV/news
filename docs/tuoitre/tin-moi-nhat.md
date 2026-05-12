@@ -4,53 +4,53 @@ sidebar_position: 1
 ---
 
 <!-- tuoitre-tin-moi-nhat:START -->
-- 🦄 [Bờ kè dọc kênh Tham Lương không rào chắn, địa phương nói sẽ lắp rào và nhắc nhở](https://tuoitre.vn/bo-ke-doc-kenh-tham-luong-khong-rao-chan-dia-phuong-noi-se-lap-rao-va-nhac-nho-20260510104359284.htm) - 03:30 12/05/2026
-- 🫶 [Đơn vị quản lý đòi kiện doanh nghiệp chây ì nợ thuê mặt bằng tiền tỉ](https://tuoitre.vn/don-vi-quan-ly-doi-kien-doanh-nghiep-chay-i-no-thue-mat-bang-tien-ti-2026051112021882.htm) - 03:29 12/05/2026
-- 🤭 [Báo Mỹ: Không chỉ Israel và Mỹ, cả UAE đã bí mật tấn công Iran](https://tuoitre.vn/bao-my-khong-chi-israel-va-my-ca-uae-da-bi-mat-tan-cong-iran-20260512102050616.htm) - 03:28 12/05/2026
-- 🎃 [Giờ không vô địch thì chờ khi nào Arsenal?](https://tuoitre.vn/gio-khong-vo-dich-thi-cho-khi-nao-arsenal-2026051210110641.htm) - 03:26 12/05/2026
-- 🌋 [Đã có 1 đội chốt danh sách dự World Cup 2026, ngôi sao 40 tuổi góp mặt](https://tuoitre.vn/da-co-1-doi-chot-danh-sach-du-world-cup-2026-ngoi-sao-40-tuoi-gop-mat-20260512100801222.htm) - 03:26 12/05/2026
-- ⚗️ [Thua nhưng U17 Việt Nam vẫn đáng khen](https://tuoitre.vn/thua-nhung-u17-viet-nam-van-dang-khen-2026051210054441.htm) - 03:25 12/05/2026
-- 🎊 [Không hợp thức hóa các công trình vi phạm trên đại lộ ở Đắk Lắk](https://tuoitre.vn/khong-hop-thuc-hoa-cac-cong-trinh-vi-pham-tren-dai-lo-o-dak-lak-20260511145430172.htm) - 03:19 12/05/2026
-- 🤔 [Iran triển khai tàu ngầm mini, lập &#39;lá chắn vô hình&#39; bảo vệ eo biển Hormuz](https://tuoitre.vn/iran-trien-khai-tau-ngam-mini-lap-la-chan-vo-hinh-bao-ve-eo-bien-hormuz-2026051210001085.htm) - 03:09 12/05/2026
-- 🦄 [Báo Hollywood đưa tin về phim Picturehouse - Chớp bóng của đạo diễn Nguyễn Võ Nghiêm Minh](https://tuoitre.vn/bao-hollywood-dua-tin-ve-phim-picturehouse-chop-bong-cua-dao-dien-nguyen-vo-nghiem-minh-20260512093300788.htm) - 03:01 12/05/2026
-- 🐲 [Anderson .Paak tái hợp DEAN sau hơn một thập kỷ với Aftertaste](https://tuoitre.vn/anderson-paak-tai-hop-dean-sau-hon-mot-thap-ky-voi-aftertaste-202605120955003.htm) - 03:00 12/05/2026
-- 🥷 [Phát hiện nhiều loài rùa quý hiếm giữa rừng Trường Sơn](https://tuoitre.vn/phat-hien-nhieu-loai-rua-quy-hiem-giua-rung-truong-son-20260512075735952.htm) - 03:00 12/05/2026
-- 🐎 [Omoda &amp; Jaecoo bán hơn 1 triệu xe, chuẩn bị vận hành nhà máy tại Việt Nam](https://tuoitre.vn/omoda-jaecoo-ban-hon-1-trieu-xe-chuan-bi-van-hanh-nha-may-tai-viet-nam-20260511225224255.htm) - 03:00 12/05/2026
-- 🧠 [Quí Đức và điểm tuyệt đối học sinh giỏi tin học TP.HCM](https://tuoitre.vn/qui-duc-va-diem-tuyet-doi-hoc-sinh-gioi-tin-hoc-tp-hcm-20260512091306699.htm) - 02:47 12/05/2026
-- 🧰 [Mỹ áp trừng phạt lên các chuyến dầu từ Iran sang Trung Quốc; Giá dầu thế giới lại tăng](https://tuoitre.vn/my-ap-trung-phat-len-cac-chuyen-dau-tu-iran-sang-trung-quoc-gia-dau-the-gioi-lai-tang-20260512092800066.htm) - 02:46 12/05/2026
-- 🦒 [Người trẻ đi chữa lành](https://tuoitre.vn/nguoi-tre-di-chua-lanh-20260511180650354.htm) - 02:46 12/05/2026
-- 🦣 [Công nhân làm cống thoát nước bị tường nhà đổ sập gây tử vong ở Đà Nẵng](https://tuoitre.vn/cong-nhan-lam-cong-thoat-nuoc-bi-tuong-nha-do-sap-gay-tu-vong-o-da-nang-20260512075755499.htm) - 02:44 12/05/2026
-- 🤗 [Người vợ bị đâm tử vong trên giường, chồng cũ là nghi phạm hiện đang bỏ trốn](https://tuoitre.vn/nguoi-vo-bi-dam-tu-vong-tren-giuong-chong-cu-la-nghi-pham-hien-dang-bo-tron-20260512093437118.htm) - 02:40 12/05/2026
-- 👹 [Làn sóng cấm trẻ em dùng mạng xã hội - Kỳ 4: Lục địa già thức tỉnh](https://tuoitre.vn/lan-song-cam-tre-em-dung-mang-xa-hoi-ky-4-luc-dia-gia-thuc-tinh-20260512004109762.htm) - 02:34 12/05/2026
-- 🤓 [Giữ động lực sáng tạo cho nền kinh tế](https://tuoitre.vn/giu-dong-luc-sang-tao-cho-nen-kinh-te-20260512080425952.htm) - 02:21 12/05/2026
-- 💂 [Giữa tháng 5 mà Nam Bộ còn nóng ‘đổ lửa’, bao giờ mới có mưa lớn?](https://tuoitre.vn/giua-thang-5-ma-nam-bo-con-nong-do-lua-bao-gio-moi-co-mua-lon-20260512085317868.htm) - 02:21 12/05/2026
-- 🎊 [Đại hội Mặt trận Tổ quốc Việt Nam lần thứ XI: Khẳng định vị thế, phương thức hoạt động mới](https://tuoitre.vn/dai-hoi-mat-tran-to-quoc-viet-nam-lan-thu-xi-khang-dinh-vi-the-phuong-thuc-hoat-dong-moi-2026051209094003.htm) - 02:17 12/05/2026
-- 😎 [10 khoảnh khắc thảm đỏ đẹp nhất lịch sử Liên hoan phim Cannes](https://tuoitre.vn/10-khoanh-khac-tham-do-dep-nhat-lich-su-lien-hoan-phim-cannes-20260510204121564.htm) - 02:10 12/05/2026
-- 💯 [Sơ tán sau 3 ca tử vong vì vi rút Hanta, tàu MV Hondius lên đường về Hà Lan](https://tuoitre.vn/so-tan-sau-3-ca-tu-vong-vi-vi-rut-hanta-tau-mv-hondius-len-duong-ve-ha-lan-20260512084833355.htm) - 02:09 12/05/2026
-- 🗽 [26 năm lặng thầm trong phòng mổ của nữ điều dưỡng trưởng](https://tuoitre.vn/26-nam-lang-tham-trong-phong-mo-cua-nu-dieu-duong-truong-20260512085827996.htm) - 02:08 12/05/2026
-- 🌊 [Từ các vụ bạo hành trẻ em mà thủ phạm là đấng sinh thành: Xóa những khoảng tối của sự vô tâm với trẻ](https://tuoitre.vn/tu-cac-vu-bao-hanh-tre-em-ma-thu-pham-la-dang-sinh-thanh-xoa-nhung-khoang-toi-cua-su-vo-tam-voi-tre-20260512084106445.htm) - 01:56 12/05/2026
-- 🦣 [Đọc nhanh 12-5: Giá dầu bật tăng trở lại, vàng trong nước lao dốc hơn 2,3 triệu đồng/lượng](https://tuoitre.vn/doc-nhanh-12-5-gia-dau-bat-tang-tro-lai-vang-trong-nuoc-lao-doc-hon-2-3-trieu-dong-luong-20260512084832356.htm) - 01:51 12/05/2026
-- 💃 [Trồng xoài Nhật trên đất thép Củ Chi: Hành trình nhiều năm đưa ‘trứng mặt trời’ bén rễ ở TP.HCM](https://tuoitre.vn/trong-xoai-nhat-tren-dat-thep-cu-chi-hanh-trinh-nhieu-nam-dua-trung-mat-troi-ben-re-o-tp-hcm-20260512003541381.htm) - 01:49 12/05/2026
-- 🤭 [Ma túy tấn công não bộ: Cuộc chiếm đoạt thầm lặng mà nhiều bạn trẻ đang &#39;quên&#39;](https://tuoitre.vn/ma-tuy-tan-cong-nao-bo-cuoc-chiem-doat-tham-lang-ma-nhieu-ban-tre-dang-quen-20260512084442037.htm) - 01:45 12/05/2026
-- 🙉 [Mỹ - Iran đối đầu quanh uranium làm giàu cao](https://tuoitre.vn/my-iran-doi-dau-quanh-uranium-lam-giau-cao-20260512002403327.htm) - 01:42 12/05/2026
-- 🧰 [Vingroup đầu tư đại đô thị và năng lượng xanh tại Điện Biên](https://tuoitre.vn/vingroup-dau-tu-dai-do-thi-va-nang-luong-xanh-tai-dien-bien-20260512081241643.htm) - 01:38 12/05/2026
-- 🤠 [Vì sao Phê La, bún bò Huế Ngự Uyển, mì cay Bosan... bị xử phạt vi phạm an toàn vệ sinh thực phẩm?](https://tuoitre.vn/phe-la-bun-bo-hue-ngu-uyen-mi-cay-bosan-bi-xu-phat-vi-vi-pham-an-toan-ve-sinh-thuc-pham-20260512082754088.htm) - 01:38 12/05/2026
-- 📝 [Đề xuất nâng công suất bãi rác Đa Phước: Bạn đọc mong đưa bãi rác ra xa, đẩy nhanh đốt rác phát điện](https://tuoitre.vn/de-xuat-nang-cong-suat-bai-rac-da-phuoc-ban-doc-mong-dua-bai-rac-ra-xa-day-nhanh-dot-rac-phat-dien-20260512070035677.htm) - 01:31 12/05/2026
-- 🤗 [Phát hiện AI có thể tự nhân bản và ‘di cư’ qua máy chủ khác](https://tuoitre.vn/phat-hien-ai-co-the-tu-nhan-ban-va-di-cu-qua-may-chu-khac-20260511142051169.htm) - 01:31 12/05/2026
-- 🐻 [EU thúc đẩy xây dựng các khu dân cư bền vững và bao trùm](https://tuoitre.vn/eu-thuc-day-xay-dung-cac-khu-dan-cu-ben-vung-va-bao-trum-20260511232056794.htm) - 01:30 12/05/2026
-- 🦣 [Người Việt đổi cách dùng Internet, nhà mạng vào cuộc đua mới](https://tuoitre.vn/nguoi-viet-doi-cach-dung-internet-nha-mang-vao-cuoc-dua-moi-20260512062155126.htm) - 01:30 12/05/2026
-- 🤔 [Xét học bạ nhận học bổng 100% tại Trường đại học Văn Hiến](https://tuoitre.vn/xet-hoc-ba-nhan-hoc-bong-100-tai-truong-dai-hoc-van-hien-20260511192424045.htm) - 01:30 12/05/2026
-- 🫣 [Cơ hội &#39;làm mới&#39; chính sách ngành ô tô](https://tuoitre.vn/co-hoi-lam-moi-chinh-sach-nganh-o-to-20260512081850147.htm) - 01:29 12/05/2026
-- 🌁 [Chạy bộ chậm hay nhanh mới mang lại lợi ích cho sức khỏe?](https://tuoitre.vn/chay-bo-cham-hay-nhanh-moi-mang-lai-loi-ich-cho-suc-khoe-20260512081743425.htm) - 01:22 12/05/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm và nhiều lãnh đạo dự khai mạc Đại hội MTTQ Việt Nam lần thứ XI](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-nhieu-lanh-dao-du-khai-mac-dai-hoi-mttq-viet-nam-lan-thu-xi-20260512081549155.htm) - 01:19 12/05/2026
-- 📝 [Bảng xếp hạng Ngoại hạng Anh vòng 36: Arsenal vẫn hơn Man City 5 điểm](https://tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-36-arsenal-van-hon-man-city-5-diem-20260512080510365.htm) - 01:18 12/05/2026
-- ⚗️ [U17 Việt Nam trở lại tập luyện, quyết tâm thắng UAE và giành vé World Cup](https://tuoitre.vn/u17-viet-nam-tro-lai-tap-luyen-quyet-tam-thang-uae-va-gianh-ve-world-cup-20260512073830894.htm) - 01:18 12/05/2026
-- 💄 [Đài Loan hút sinh viên Việt bằng mô hình học gắn doanh nghiệp](https://tuoitre.vn/dai-loan-hut-sinh-vien-viet-bang-mo-hinh-hoc-gan-doanh-nghiep-2026051200474151.htm) - 01:16 12/05/2026
-- 🥸 [Từ Bình Triệu đến Vĩnh Bình, mặt bằng mở rộng quốc lộ 13 vẫn hẹp giữa hai dãy nhà](https://tuoitre.vn/tu-binh-trieu-den-vinh-binh-mat-bang-mo-rong-quoc-lo-13-van-hep-giua-hai-day-nha-20260511133145947.htm) - 01:02 12/05/2026
-- 🎬 [Công ty Điện lực Khánh Hòa huấn luyện định kỳ an toàn điện](https://tuoitre.vn/cong-ty-dien-luc-khanh-hoa-huan-luyen-dinh-ky-an-toan-dien-20260511151412248.htm) - 01:00 12/05/2026
-- 🚦 [Thương hiệu vận hành quốc tế: Quyết định giá trị bất động sản nghỉ dưỡng](https://tuoitre.vn/thuong-hieu-van-hanh-quoc-te-quyet-dinh-gia-tri-bat-dong-san-nghi-duong-20260511132120916.htm) - 01:00 12/05/2026
-- 🎭 [Tập đoàn Ngọc Diệp: Hành trình 30 năm với đội ngũ nhân sự vững mạnh](https://tuoitre.vn/tap-doan-ngoc-diep-hanh-trinh-30-nam-voi-doi-ngu-nhan-su-vung-manh-2026050812574908.htm) - 01:00 12/05/2026
-- 🎊 [Bất ngờ phát hiện nợ thuế hàng trăm triệu đồng sau khi cài eTax Mobile](https://tuoitre.vn/bat-ngo-phat-hien-no-thue-hang-tram-trieu-dong-sau-khi-cai-etax-mobile-20260512003001456.htm) - 00:58 12/05/2026
-- 🌁 [Cuộc thi nam vương quốc tế mới của người Việt có gì khác biệt?](https://tuoitre.vn/cuoc-thi-nam-vuong-quoc-te-moi-cua-nguoi-viet-co-gi-khac-biet-20260512062742305.htm) - 00:53 12/05/2026
-- 🤗 [Qua sông bằng bè tự chế, học sinh vùng cao thấp thỏm trước mùa lũ](https://tuoitre.vn/qua-song-bang-be-tu-che-hoc-sinh-vung-cao-thap-thom-truoc-mua-lu-20260511215527225.htm) - 00:46 12/05/2026
-- 🤖 [Xe máy điện rẻ hơn Honda Vision, chạy 180km/sạc, nhiều cảnh báo như ô tô, cảm giác quen như xe xăng](https://tuoitre.vn/xe-may-dien-re-hon-honda-vision-chay-180km-sac-nhieu-canh-bao-nhu-o-to-cam-giac-quen-nhu-xe-xang-20260512011916102.htm) - 00:45 12/05/2026<!-- tuoitre-tin-moi-nhat:END -->
+- 🦄 [Giá vàng giảm mạnh vì nỗi lo Fed tăng lãi suất](https://tuoitre.vn/gia-vang-giam-manh-vi-noi-lo-fed-tang-lai-suat-20260513002849434.htm) - 17:32 12/05/2026
+- 🫶 [Lặn đêm dưới nước xiết, tìm nạn nhân đuối nước ở thác Cooi Rửa, Măng Đen](https://tuoitre.vn/lan-dem-duoi-nuoc-xiet-tim-nan-nhan-duoi-nuoc-o-thac-cooi-rua-mang-den-20260512233917161.htm) - 17:02 12/05/2026
+- 🤭 [Nga tự tin công bố clip thử thành công siêu tên lửa mạnh nhất thế giới](https://tuoitre.vn/nga-tu-tin-cong-bo-clip-thu-thanh-cong-sieu-ten-lua-manh-nhat-the-gioi-20260512233940015.htm) - 16:47 12/05/2026
+- 🎃 [Lầu Năm Góc cập nhật chi phí cuộc chiến với Iran: gần 29 tỉ USD](https://tuoitre.vn/lau-nam-goc-cap-nhat-chi-phi-cuoc-chien-voi-iran-gan-29-ti-usd-20260512230112116.htm) - 16:13 12/05/2026
+- 🌋 [20 con gà lôi lam mào trắng đang bay từ Đức về nhà Việt Nam](https://tuoitre.vn/20-con-ga-loi-lam-mao-trang-dang-bay-tu-duc-ve-nha-viet-nam-20260512221111669.htm) - 15:59 12/05/2026
+- ⚗️ [Livestream xúc phạm cán bộ, một chủ tài khoản Facebook ở TP Huế bị bắt](https://tuoitre.vn/livestream-xuc-pham-can-bo-mot-chu-tai-khoan-facebook-o-tp-hue-bi-bat-20260512224214499.htm) - 15:55 12/05/2026
+- 🎊 [Iran tập trận quy mô lớn &#39;tử vì đạo&#39;](https://tuoitre.vn/iran-tap-tran-quy-mo-lon-tu-vi-dao-20260512221428588.htm) - 15:27 12/05/2026
+- 🤔 [Khởi tố 3 người cho vay nặng lãi qua hình thức hụi online ở TP.HCM](https://tuoitre.vn/khoi-to-3-nguoi-cho-vay-nang-lai-qua-hinh-thuc-hui-online-o-tp-hcm-2026051221443173.htm) - 15:24 12/05/2026
+- 🦄 [Sinh thêm em để hồi sinh chị](https://tuoitre.vn/sinh-them-em-de-hoi-sinh-chi-20260512203906311.htm) - 14:44 12/05/2026
+- 🐲 [Bất ngờ từ những &#39;nhà máy không đèn&#39; của Trung Quốc](https://tuoitre.vn/bat-ngo-tu-nhung-nha-may-khong-den-cua-trung-quoc-20260512205817577.htm) - 14:41 12/05/2026
+- 🥷 [Lãnh đạo Đài Loan cảm ơn Mỹ, tuyên bố không khuất phục trước Trung Quốc](https://tuoitre.vn/lanh-dao-dai-loan-cam-on-my-tuyen-bo-khong-khuat-phuc-truoc-trung-quoc-20260512205850571.htm) - 14:38 12/05/2026
+- 🐎 [Ma Xó hé lộ nghi thức nuôi vong và cái giá của niềm tin mù quáng](https://tuoitre.vn/ma-xo-he-lo-nghi-thuc-nuoi-vong-va-cai-gia-cua-niem-tin-mu-quang-20260512195620512.htm) - 13:45 12/05/2026
+- 🧠 [Nâng tầm bóng rổ, pickleball trong thể thao Công an nhân dân](https://tuoitre.vn/nang-tam-bong-ro-pickleball-trong-the-thao-cong-an-nhan-dan-20260512202528105.htm) - 13:42 12/05/2026
+- 🧰 [Doanh nghiệp công nghệ Việt muốn tồn tại phải cạnh tranh với hãng lớn](https://tuoitre.vn/doanh-nghiep-cong-nghe-viet-muon-ton-tai-phai-canh-tranh-voi-hang-lon-20260512194704464.htm) - 13:41 12/05/2026
+- 🦒 [Ukraine tự tin chào bán công nghệ drone cho Mỹ, mong kiếm nguồn tiền mạnh](https://tuoitre.vn/ukraine-tu-tin-chao-ban-cong-nghe-drone-cho-my-mong-kiem-nguon-tien-manh-20260512200301276.htm) - 13:39 12/05/2026
+- 🦣 [Bất ngờ với dự đoán của &#39;siêu máy tính&#39; về trận U17 Việt Nam - U17 UAE](https://tuoitre.vn/bat-ngo-voi-du-doan-cua-sieu-may-tinh-ve-tran-u17-viet-nam-u17-uae-20260512200258297.htm) - 13:31 12/05/2026
+- 🤗 [Lý do hoãn phiên tòa phúc thẩm vụ án Phúc Sơn tại sân bay Nha Trang cũ](https://tuoitre.vn/ly-do-hoan-phien-toa-phuc-tham-vu-an-phuc-son-tai-san-bay-nha-trang-cu-20260512194154741.htm) - 13:30 12/05/2026
+- 👹 [Iran tuyên bố ngày càng cứng rắn, nêu mức làm giàu uranium](https://tuoitre.vn/iran-tuyen-bo-ngay-cang-cung-ran-neu-muc-lam-giau-uranium-20260512194400743.htm) - 13:24 12/05/2026
+- 🤓 [Việt Nam dành ưu tiên cao nhất cho quan hệ với Lào](https://tuoitre.vn/viet-nam-danh-uu-tien-cao-nhat-cho-quan-he-voi-lao-20260512200220514.htm) - 13:21 12/05/2026
+- 💂 [Công an TP.HCM xử lý người vẽ bậy lên rào chắn công trình cầu đi bộ qua sông Sài Gòn](https://tuoitre.vn/cong-an-tp-hcm-xu-ly-nguoi-ve-bay-len-rao-chan-cong-trinh-cau-di-bo-qua-song-sai-gon-20260512200749081.htm) - 13:18 12/05/2026
+- 🎊 [2 tay vợt Việt Nam đánh bại chủ nhà Thái Lan ở giải cầu lông danh giá](https://tuoitre.vn/2-tay-vot-viet-nam-danh-bai-chu-nha-thai-lan-o-giai-cau-long-danh-gia-20260512150107632.htm) - 13:12 12/05/2026
+- 😎 [Thị trường ô tô giảm tốc, nhiều mẫu xe ế ẩm dù giảm giá sâu](https://tuoitre.vn/thi-truong-o-to-giam-toc-nhieu-mau-xe-e-am-du-giam-gia-sau-20260512192609567.htm) - 13:01 12/05/2026
+- 💯 [Đến năm 2045, chiều cao thanh niên Việt Nam lên tốp đầu Đông Nam Á được không?](https://tuoitre.vn/den-nam-2045-chieu-cao-thanh-nien-viet-nam-len-top-dau-dong-nam-a-duoc-khong-20260512185552101.htm) - 13:00 12/05/2026
+- 🗽 [Thanh tra phát hiện gì tại dự án An Phú và Phước An của Công ty hạ tầng Quảng Nam?](https://tuoitre.vn/thanh-tra-phat-hien-gi-tai-du-an-an-phu-va-phuoc-an-cua-cong-ty-ha-tang-quang-nam-20260512182359569.htm) - 12:57 12/05/2026
+- 🌊 [Ấn tượng với &#39;robot biến hình&#39; của Trung Quốc giá hơn nửa triệu USD](https://tuoitre.vn/an-tuong-voi-robot-bien-hinh-cua-trung-quoc-gia-hon-nua-trieu-usd-20260512184936016.htm) - 12:49 12/05/2026
+- 🦣 [Thiếu phòng điều trị, bệnh viện tỉnh Khánh Hòa tính cách khắc phục 3 tháng chưa thông](https://tuoitre.vn/thieu-phong-dieu-tri-benh-vien-tinh-khanh-hoa-tinh-cach-khac-phuc-3-thang-chua-thong-20260512180604821.htm) - 12:47 12/05/2026
+- 💃 [Điều tra của CNN: Tàu Nga nổ rồi chìm bí ẩn, nghi chở lò phản ứng hạt nhân](https://tuoitre.vn/dieu-tra-cua-cnn-tau-nga-no-roi-chim-bi-an-nghi-cho-lo-phan-ung-hat-nhan-20260512185810084.htm) - 12:38 12/05/2026
+- 🤭 [Hoàn tất di dời chung cư Trúc Giang, Vĩnh Hội và 5 chung cư hư hỏng ở TP.HCM trước ngày 30-5](https://tuoitre.vn/hoan-tat-di-doi-chung-cu-truc-giang-vinh-hoi-va-5-chung-cu-hu-hong-o-tp-hcm-truoc-ngay-30-5-20260512190730374.htm) - 12:30 12/05/2026
+- 🙉 [Dòng tiền tìm đến tài sản có giá trị khai thác bền vững](https://tuoitre.vn/dong-tien-tim-den-tai-san-co-gia-tri-khai-thac-ben-vung-20260512130529411.htm) - 12:30 12/05/2026
+- 🧰 [Đón 158 hài cốt liệt sĩ quân tình nguyện, chuyên gia Việt Nam hy sinh tại Campuchia về nước](https://tuoitre.vn/don-158-hai-cot-liet-si-quan-tinh-nguyen-chuyen-gia-viet-nam-hy-sinh-tai-campuchia-ve-nuoc-20260512191823407.htm) - 12:21 12/05/2026
+- 🤠 [Hiệu trưởng Trường đại học Quốc tế Hồng Bàng kiêm giám đốc bệnh viện](https://tuoitre.vn/hieu-truong-truong-dai-hoc-quoc-te-hong-bang-kiem-giam-doc-benh-vien-20260512185119912.htm) - 12:20 12/05/2026
+- 📝 [Ghẹ đã thông đường sang Mỹ, Việt Nam tập trung tiếp cho cá ngừ](https://tuoitre.vn/ghe-da-thong-duong-sang-my-viet-nam-tap-trung-tiep-cho-ca-ngu-20260512183542366.htm) - 12:19 12/05/2026
+- 🤗 [Lãnh đạo Đồng Nai - TP.HCM khảo sát vị trí làm metro kết nối vào sân bay Long Thành](https://tuoitre.vn/lanh-dao-dong-nai-tp-hcm-khao-sat-vi-tri-lam-metro-ket-noi-vao-san-bay-long-thanh-20260512183337223.htm) - 12:15 12/05/2026
+- 🐻 [Vietcombank mở rộng hệ sinh thái trải nghiệm khách hàng qua chương trình giải trí](https://tuoitre.vn/vietcombank-mo-rong-he-sinh-thai-trai-nghiem-khach-hang-qua-chuong-trinh-giai-tri-20260512184023541.htm) - 12:10 12/05/2026
+- 🦣 [Ban Bí thư khai trừ Đảng các ông Nguyễn Văn Bường, Vũ Thế Phiệt, Lê Văn Hà](https://tuoitre.vn/ban-bi-thu-khai-tru-dang-cac-ong-nguyen-van-buong-vu-the-phiet-le-van-ha-20260512185854934.htm) - 12:04 12/05/2026
+- 🤔 [Hezbollah tuyên bố sẵn sàng chiến tiếp với Israel](https://tuoitre.vn/hezbollah-tuyen-bo-san-sang-chien-tiep-voi-israel-2026051218432227.htm) - 12:03 12/05/2026
+- 🫣 [Bắt quả tang người trộm tài sản du khách ở bờ biển Nha Trang](https://tuoitre.vn/bat-qua-tang-nguoi-trom-tai-san-du-khach-o-bo-bien-nha-trang-20260512182345514.htm) - 11:59 12/05/2026
+- 🌁 [Trung Quốc thúc đẩy hợp tác thực chất với Việt Nam](https://tuoitre.vn/trung-quoc-thuc-day-hop-tac-thuc-chat-voi-viet-nam-20260512184611749.htm) - 11:56 12/05/2026
+- 🏊 [Tạm giữ người cầm vật giống súng uy hiếp nữ nhân viên Circle K cướp tiền](https://tuoitre.vn/tam-giu-nguoi-cam-vat-giong-sung-uy-hiep-nu-nhan-vien-circle-k-cuop-tien-20260512182358852.htm) - 11:54 12/05/2026
+- 📝 [Dự án nhà tang lễ ở nội đô Hà Nội: phía chủ đầu tư lên tiếng](https://tuoitre.vn/du-an-nha-tang-le-o-noi-do-ha-noi-phia-chu-dau-tu-len-tieng-2026051218035063.htm) - 11:53 12/05/2026
+- ⚗️ [Cạnh tranh giờ không chỉ là giá, là chất lượng mà còn phải xanh](https://tuoitre.vn/canh-tranh-gio-khong-chi-la-gia-la-chat-luong-ma-con-phai-xanh-2026051217251961.htm) - 11:44 12/05/2026
+- 💄 [Chiều cao người Việt vẫn thuộc nhóm thấp nhất thế giới, làm sao để cải thiện?](https://tuoitre.vn/chieu-cao-nguoi-viet-van-thuoc-nhom-thap-nhat-the-gioi-lam-sao-de-cai-thien-20260512172309662.htm) - 11:38 12/05/2026
+- 🥸 [Bắt đầu xử lý dầu nhớt tràn đồng ruộng sát cao tốc Chí Thạnh - Vân Phong](https://tuoitre.vn/bat-dau-xu-ly-dau-nhot-tran-dong-ruong-sat-cao-toc-chi-thanh-van-phong-20260512151740512.htm) - 11:34 12/05/2026
+- 🎬 [Nhiều tàu cá ra khơi nhưng không đánh bắt, đợi đủ ngày để về nhận hỗ trợ tiền dầu](https://tuoitre.vn/nhieu-tau-ca-ra-khoi-nhung-khong-danh-bat-doi-du-ngay-de-ve-nhan-ho-tro-tien-dau-2026051217222397.htm) - 11:30 12/05/2026
+- 🚦 [TP.HCM đôn đốc các dự án đốt rác phát điện và cải tạo bãi rác đóng cửa](https://tuoitre.vn/tp-hcm-don-doc-cac-du-an-dot-rac-phat-dien-va-cai-tao-bai-rac-dong-cua-20260512171435501.htm) - 11:29 12/05/2026
+- 🎭 [Liên tiếp ký kết đối tác lớn, D-Joy khẳng định năng lực vận hành và tầm nhìn dài hạn](https://tuoitre.vn/lien-tiep-ky-ket-doi-tac-lon-d-joy-khang-dinh-nang-luc-van-hanh-va-tam-nhin-dai-han-20260512172210756.htm) - 11:26 12/05/2026
+- 🎊 [Xuân Son quyết giúp Nam Định phục thù đội bóng Malaysia](https://tuoitre.vn/xuan-son-quyet-giup-nam-dinh-phuc-thu-doi-bong-malaysia-20260512181637854.htm) - 11:25 12/05/2026
+- 🌁 [An Giang phê duyệt đề án xây dựng phát triển 8 đô thị động lực](https://tuoitre.vn/an-giang-phe-duyet-de-an-xay-dung-phat-trien-8-do-thi-dong-luc-20260512171328811.htm) - 11:22 12/05/2026
+- 🤗 [Thứ trưởng Bộ Y tế: Sẽ tham mưu hoàn thiện chế độ đãi ngộ đặc thù cho y bác sĩ biển đảo](https://tuoitre.vn/thu-truong-bo-y-te-se-tham-muu-hoan-thien-che-do-dai-ngo-dac-thu-cho-y-bac-si-bien-dao-2026051217510094.htm) - 11:19 12/05/2026
+- 🤖 [&#39;Nhập vai&#39; người mua hải sản để trốn truy nã đặc biệt của Công an TP.HCM gần 8 năm](https://tuoitre.vn/nhap-vai-nguoi-mua-hai-san-de-tron-truy-na-dac-biet-cua-cong-an-tp-hcm-gan-8-nam-20260512165744104.htm) - 11:17 12/05/2026<!-- tuoitre-tin-moi-nhat:END -->
