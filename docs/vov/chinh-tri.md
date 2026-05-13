@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Bộ Chính trị điều chỉnh phân cấp quản lý cán bộ và danh mục chức danh lãnh đạo một số cơ quan Trung ương](https://vov.vn/chinh-tri/bo-chinh-tri-dieu-chinh-phan-cap-quan-ly-can-bo-va-danh-muc-chuc-danh-lanh-dao-mot-so-co-quan-trung-uong-post1291252.vov) - 14:31 12/05/2026
-- 💃 [Bộ trưởng Lương Tam Quang dự gặp mặt truyền thống lực lượng An ninh kinh tế](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-du-gap-mat-truyen-thong-luc-luong-an-ninh-kinh-te-post1291246.vov) - 13:55 12/05/2026
-- 🫶 [Thúc đẩy hợp tác Hà Nội - Vientiane đi vào chiều sâu](https://vov.vn/chinh-tri/thuc-day-hop-tac-ha-noi-vientiane-di-vao-chieu-sau-post1291243.vov) - 13:27 12/05/2026
-- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước tiếp Bí thư Thành ủy, Chủ tịch HĐND Vientiane &lpar;Lào&rpar;](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-tiep-bi-thu-thanh-uy-chu-tich-hdnd-vientiane-lao-post1291237.vov) - 12:53 12/05/2026
-- 🪜 [Điều động, bổ nhiệm Chánh án TAND tỉnh Thái Nguyên](https://vov.vn/chinh-tri/to-chuc-nhan-su/dieu-dong-bo-nhiem-chanh-an-tand-tinh-thai-nguyen-post1291225.vov) - 11:57 12/05/2026
-- 🌋 [Ban Bí thư xem xét, thi hành kỷ luật đảng viên vi phạm](https://vov.vn/chinh-tri/xay-dung-chinh-don-dang/ban-bi-thu-xem-xet-thi-hanh-ky-luat-dang-vien-vi-pham-post1291231.vov) - 11:51 12/05/2026
-- 🎉 [Thủ tướng Lê Minh Hưng tiếp Đại sứ Trung Quốc tại Việt Nam](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-dai-su-trung-quoc-tai-viet-nam-post1291230.vov) - 11:47 12/05/2026
-- 🌝 [Hiệp thương cử 397 nhân sự tham gia Ủy ban Trung ương MTTQ Việt Nam khóa XI](https://vov.vn/chinh-tri/hiep-thuong-cu-397-nhan-su-tham-gia-uy-ban-trung-uong-mttq-viet-nam-khoa-xi-post1291203.vov) - 10:31 12/05/2026
-- 🏊 [Hà Nội xây dựng “hạ tầng niềm tin” trên môi trường số](https://vov.vn/chinh-tri/ha-noi-xay-dung-ha-tang-niem-tin-tren-moi-truong-so-post1291136.vov) - 08:55 12/05/2026
-- 🧑‍💻 [Điện Biên nhận diện áp lực mới ở cơ sở, tập trung tháo gỡ các bất cập](https://vov.vn/chinh-tri/dien-bien-nhan-dien-ap-luc-moi-o-co-so-tap-trung-thao-go-cac-bat-cap-post1291090.vov) - 07:00 12/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [MTTQ Việt Nam sẽ chấm dứt các phong trào thi đua hình thức, kém hiệu quả](https://vov.vn/chinh-tri/mttq-viet-nam-se-cham-dut-cac-phong-trao-thi-dua-hinh-thuc-kem-hieu-qua-post1291401.vov) - 04:25 13/05/2026
+- 💃 [8 Phó Chủ tịch không chuyên trách Ủy ban Trung ương MTTQ Việt Nam khóa XI](https://vov.vn/chinh-tri/8-pho-chu-tich-khong-chuyen-trach-uy-ban-trung-uong-mttq-viet-nam-khoa-xi-post1291393.vov) - 04:23 13/05/2026
+- 🫶 [Đề xuất Bộ Chính trị, Ban Bí thư sửa đổi, làm rõ chức năng các tổ chức thuộc MTTQ](https://vov.vn/chinh-tri/de-xuat-bo-chinh-tri-ban-bi-thu-sua-doi-lam-ro-chuc-nang-cac-to-chuc-thuoc-mttq-post1291389.vov) - 04:20 13/05/2026
+- 👨‍🏫 [Đoàn kiểm tra của Ban Bí thư làm việc với Ban Thường vụ Tỉnh ủy Quảng Ngãi](https://vov.vn/chinh-tri/doan-kiem-tra-cua-ban-bi-thu-lam-viec-voi-ban-thuong-vu-tinh-uy-quang-ngai-post1291357.vov) - 04:01 13/05/2026
+- 🪜 [Danh sách Ban Thường trực Ủy ban Trung ương MTTQ Việt Nam khóa XI](https://vov.vn/chinh-tri/danh-sach-ban-thuong-truc-uy-ban-trung-uong-mttq-viet-nam-khoa-xi-post1291386.vov) - 03:59 13/05/2026
+- 🌋 [Danh sách 11 Phó Chủ tịch Ủy ban Trung ương MTTQ Việt Nam khóa XI](https://vov.vn/chinh-tri/danh-sach-11-pho-chu-tich-uy-ban-trung-uong-mttq-viet-nam-khoa-xi-post1291378.vov) - 03:56 13/05/2026
+- 🎉 [Bà Bùi Thị Minh Hoài tái đắc cử Chủ tịch Ủy ban Trung ương MTTQ Việt Nam khóa mới](https://vov.vn/chinh-tri/ba-bui-thi-minh-hoai-tai-dac-cu-chu-tich-uy-ban-trung-uong-mttq-viet-nam-khoa-moi-post1291352.vov) - 03:40 13/05/2026
+- 🌝 [Người dân Đắk Lắk mong Mặt trận tăng giám sát, phản biện và chăm lo dân sinh](https://vov.vn/chinh-tri/nguoi-dan-dak-lak-mong-mat-tran-tang-giam-sat-phan-bien-va-cham-lo-dan-sinh-post1291338.vov) - 03:40 13/05/2026
+- 🏊 [Âm hưởng ngày 30/4 từ người trong cuộc](https://vov.vn/chinh-tri/am-huong-ngay-304-tu-nguoi-trong-cuoc-post1291363.vov) - 03:38 13/05/2026
+- 🧑‍💻 [Chủ tịch Quốc hội: Chuyển đổi số nâng cao chất lượng hoạt động của Quốc hội](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-chuyen-doi-so-nang-cao-chat-luong-hoat-dong-cua-quoc-hoi-post1291351.vov) - 03:36 13/05/2026<!-- vov-chinh-tri:END -->
