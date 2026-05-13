@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Học sinh Trường THPT Bình Chánh kết nạp Đảng ở tuổi 18](https://muctim.tuoitre.vn/hoc-sinh-truong-thpt-binh-chanh-ket-nap-dang-o-tuoi-18-101260513133435431.htm) - 15:02 13/05/2026
 - 🤖 [Hướng dẫn tạo ảnh đi xem bóng chày Hàn Quốc bằng ChatGPT](https://muctim.tuoitre.vn/huong-dan-tao-anh-di-xem-bong-chay-han-quoc-bang-chatgpt-101260513165105495.htm) - 14:01 13/05/2026
 - 🤓 [PSG chạm trán Lens: Chào đón tân vương Ligue 1?](https://muctim.tuoitre.vn/psg-cham-tran-lens-chao-don-tan-vuong-ligue-1-101260512223303288.htm) - 14:01 13/05/2026
-- 🎉 [Trực tiếp U17 Việt Nam - U17 UAE: Quyết giành vé dự World Cup](https://muctim.tuoitre.vn/truc-tiep-u17-viet-nam-u17-uae-quyet-gianh-ve-du-world-cup-101260513145956187.htm) - 13:50 13/05/2026
+- 🎉 [Trực tiếp U17 Việt Nam 3-2 U17 UAE: Mạnh Cường đánh đầu ghi bàn &lpar;H2&rpar;](https://muctim.tuoitre.vn/truc-tiep-u17-viet-nam-u17-uae-quyet-gianh-ve-du-world-cup-101260513145956187.htm) - 13:50 13/05/2026
 - 👨‍🏫 [Lịch trực tiếp, đội hình dự kiến Cincinnati đấu Inter Miami](https://muctim.tuoitre.vn/lich-truc-tiep-doi-hinh-du-kien-cincinnati-dau-inter-miami-101260513162133238.htm) - 11:14 13/05/2026
 - 🚦 [Inter Milan đấu Lazio: hướng tới cú đúp danh hiệu](https://muctim.tuoitre.vn/inter-milan-dau-lazio-huong-toi-cu-dup-danh-hieu-101260513180001967.htm) - 11:12 13/05/2026
 - 🤭 [Truyền tin Semaphore và những bí mật hấp dẫn sau lá cờ](https://muctim.tuoitre.vn/truyen-tin-semaphore-va-nhung-bi-mat-hap-dan-sau-la-co-10126051316284227.htm) - 09:28 13/05/2026
