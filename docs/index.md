@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [MTTQ Việt Nam sẽ chấm dứt các phong trào thi đua hình thức, kém hiệu quả](https://vov.vn/chinh-tri/mttq-viet-nam-se-cham-dut-cac-phong-trao-thi-dua-hinh-thuc-kem-hieu-qua-post1291401.vov) - 04:25 13/05/2026
-- 🕯 [Bê bối tham nhũng tiếp tục là “hòn đá tảng” trong nỗ lực gia nhập EU của Ukraine](https://vov.vn/the-gioi/quan-sat/be-boi-tham-nhung-tiep-tuc-la-hon-da-tang-trong-no-luc-gia-nhap-eu-cua-ukraine-post1291388.vov) - 04:08 13/05/2026
-- 🌊 [VOV giành giải phát thanh xuất sắc nhất tại Hội nghị cấp cao Báo chí châu Á 2026](https://vov.vn/xa-hoi/vov-gianh-giai-phat-thanh-xuat-sac-nhat-tai-hoi-nghi-cap-cao-bao-chi-chau-a-2026-post1291379.vov) - 03:51 13/05/2026
-- 🥷 [Bà Bùi Thị Minh Hoài tái đắc cử Chủ tịch Ủy ban Trung ương MTTQ Việt Nam khóa mới](https://vov.vn/chinh-tri/ba-bui-thi-minh-hoai-tai-dac-cu-chu-tich-uy-ban-trung-uong-mttq-viet-nam-khoa-moi-post1291352.vov) - 03:40 13/05/2026
-- 🎡 [Chủ tịch Quốc hội: Chuyển đổi số nâng cao chất lượng hoạt động của Quốc hội](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-chuyen-doi-so-nang-cao-chat-luong-hoat-dong-cua-quoc-hoi-post1291351.vov) - 03:36 13/05/2026
-- 🚀 [Hà Nội lên tiếng về việc &amp;quot;biến mất&amp;quot; tuyến Metro 45km trong siêu dự án sông Hồng?](https://vov.vn/xa-hoi/ha-noi-len-tieng-ve-viec-bien-mat-tuyen-metro-45km-trong-sieu-du-an-song-hong-post1291361.vov) - 03:33 13/05/2026
-- 🔥 [Những công trình nào được Hà Nội xây dựng trước ở trục đại lộ cảnh quan sông Hồng?](https://vov.vn/xa-hoi/nhung-cong-trinh-nao-duoc-ha-noi-xay-dung-truoc-o-truc-dai-lo-canh-quan-song-hong-post1291344.vov) - 03:13 13/05/2026
-- 🌋 [Những công trình nào được Hà Nội xây dựng trước ở trục đại lộ cảnh quan sông Hồng?](https://vov.vn/xa-hoi/nhung-cong-trinh-nao-duoc-ha-noi-xay-dung-truoc-o-truc-dai-lo-canh-quan-song-hong-post1291344.vov) - 03:13 13/05/2026
-- 🕴 [Bạo hành trẻ em: Lỗ hổng hệ thống hay sự vô cảm của cộng đồng?](https://vov.vn/xa-hoi/bao-hanh-tre-em-lo-hong-he-thong-hay-su-vo-cam-cua-cong-dong-post1291345.vov) - 03:03 13/05/2026
-- 🥰 [Xã, phường xã hội chủ nghĩa: Đột phá quản trị cơ sở từ Luật Thủ đô](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-dot-pha-quan-tri-co-so-tu-luat-thu-do-post1290928.vov) - 22:00 12/05/2026
-- 🧐 [Thu ngân sách tăng vọt, ngành Thuế bước vào “kỷ nguyên quản lý bằng AI”](https://vov.vn/kinh-te/thu-ngan-sach-tang-vot-nganh-thue-buoc-vao-ky-nguyen-quan-ly-bang-ai-post1291233.vov) - 12:26 12/05/2026<!-- vov:END -->
+- 🌜 [Trực tiếp U17 Việt Nam 0-0 U17 UAE: Quyết đấu tranh vé World Cup 2026](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-0-0-u17-uae-quyet-dau-tranh-ve-world-cup-2026-post1291398.vov) - 14:22 13/05/2026
+- 🕯 [Trực tiếp U17 Việt Nam 0-0 U17 UAE: Quyết đấu tranh vé World Cup 2026](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-0-0-u17-uae-quyet-dau-tranh-ve-world-cup-2026-post1291398.vov) - 14:22 13/05/2026
+- 🌊 [Cục TDTT nói gì về lùm xùm chốt danh sách ĐT cờ vua Việt Nam dự Olympiad qua... nhóm chat?](https://vov.vn/the-thao/cuc-tdtt-noi-gi-ve-lum-xum-chot-danh-sach-dt-co-vua-viet-nam-du-olympiad-qua-nhom-chat-post1291615.vov) - 14:19 13/05/2026
+- 🥷 [Tổng thống Mỹ Donald Trump đến Bắc Kinh, bắt đầu thăm Trung Quốc](https://vov.vn/the-gioi/tong-thong-my-donald-trump-den-bac-kinh-bat-dau-tham-trung-quoc-post1291602.vov) - 12:56 13/05/2026
+- 🎡 [Hàng chục trụ điện 110kV chưa dùng đã &amp;quot;lung lay&amp;quot;, người dân Đồng Nai nơm nớp lo sợ](https://vov.vn/xa-hoi/hang-chuc-tru-dien-110kv-chua-dung-da-lung-lay-nguoi-dan-dong-nai-nom-nop-lo-so-post1291566.vov) - 12:15 13/05/2026
+- 🚀 [Công bố Lệnh của Chủ tịch nước về 9 luật được Quốc hội thông qua](https://vov.vn/chinh-tri/cong-bo-lenh-cua-chu-tich-nuoc-ve-9-luat-duoc-quoc-hoi-thong-qua-post1291562.vov) - 11:18 13/05/2026
+- 🔥 [TP.HCM siết hậu kiểm giữa nguy cơ thực phẩm bẩn](https://vov.vn/thi-truong/tphcm-siet-hau-kiem-giua-nguy-co-thuc-pham-ban-post1291503.vov) - 11:09 13/05/2026
+- 🌋 [Kiện toàn các ban chỉ đạo về hoàn thiện thể chế, pháp luật và cải cách tư pháp](https://vov.vn/chinh-tri/kien-toan-cac-ban-chi-dao-ve-hoan-thien-the-che-phap-luat-va-cai-cach-tu-phap-post1291526.vov) - 09:53 13/05/2026
+- 🕴 [Nơi ở mới của người dân di dời từ cầu Tứ Liên và Trần Hưng Đạo đang thế nào?](https://vov.vn/kinh-te/noi-o-moi-cua-nguoi-dan-di-doi-tu-cau-tu-lien-va-tran-hung-dao-dang-the-nao-post1291513.vov) - 09:41 13/05/2026
+- 🥰 [Hà Nội chạm ngưỡng 36 độ, miền Bắc và Trung Bộ bước vào đợt nắng nóng mới](https://vov.vn/xa-hoi/ha-noi-cham-nguong-36-do-mien-bac-va-trung-bo-buoc-vao-dot-nang-nong-moi-post1291479.vov) - 07:56 13/05/2026
+- 🧐 [Giá vàng giảm, cửa hàng vắng khách, chuyên gia dự đoán vàng sẽ đạt 5.000 USD/oz](https://vov.vn/thi-truong/gia-vang-giam-cua-hang-vang-khach-chuyen-gia-du-doan-vang-se-dat-5000-usdoz-post1291433.vov) - 07:47 13/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
