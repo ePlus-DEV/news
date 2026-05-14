@@ -12,7 +12,7 @@ sidebar_position: 1
 - ⚗️ [Phó thủ tướng chỉ đạo quan tâm, bảo vệ trẻ em trên môi trường mạng](https://tuoitre.vn/pho-thu-tuong-chi-dao-quan-tam-bao-ve-tre-em-tren-moi-truong-mang-20260514220434248.htm) - 16:47 14/05/2026
 - 🎊 [Khởi tố 3 bị can trong vụ ca sĩ Miu Lê sử dụng ma túy ở Cát Bà](https://tuoitre.vn/khoi-to-3-bi-can-trong-vu-ca-si-miu-le-su-dung-ma-tuy-o-cat-ba-20260514230349573.htm) - 16:18 14/05/2026
 - 🤔 [Ngoại trưởng Mỹ nói quân đội Trung Quốc mạnh thứ hai thế giới](https://tuoitre.vn/ngoai-truong-my-noi-quan-doi-trung-quoc-manh-thu-hai-the-gioi-20260514223125513.htm) - 15:55 14/05/2026
-- 🦄 [Xử lý cụ ông 76 tuổi thường xuyên chia sẻ, đăng tải bài viết xúc phạm Cảnh sát giao thông](https://tuoitre.vn/xu-ly-cu-ong-76-tuoi-thuong-xuyen-chia-se-dang-tai-bai-viet-xuc-pham-canh-sat-giao-thong-20260514215038695.htm) - 15:16 14/05/2026
+- 🦄 [Xử lý cụ ông 76 tuổi thường xuyên chia sẻ, đăng tải bài viết xúc phạm cảnh sát giao thông](https://tuoitre.vn/xu-ly-cu-ong-76-tuoi-thuong-xuyen-chia-se-dang-tai-bai-viet-xuc-pham-canh-sat-giao-thong-20260514215038695.htm) - 15:16 14/05/2026
 - 🐲 [Điều tra vụ lừa bán thiên thạch 400 triệu đồng tại Gia Lai](https://tuoitre.vn/dieu-tra-vu-lua-ban-thien-thach-400-trieu-dong-tai-gia-lai-20260514210521841.htm) - 15:14 14/05/2026
 - 🥷 [Ông Putin sẽ sớm thăm Trung Quốc](https://tuoitre.vn/ong-putin-se-som-tham-trung-quoc-20260514220130886.htm) - 15:13 14/05/2026
 - 🐎 [Chủ tịch VFF nhắn nhủ U17 Việt Nam trước &#39;cơn mưa lời khen&#39; trên mạng xã hội](https://tuoitre.vn/chu-tich-vff-nhan-nhu-u17-viet-nam-truoc-con-mua-loi-khen-tren-mang-xa-hoi-20260514220316732.htm) - 15:11 14/05/2026
