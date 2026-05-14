@@ -716,17 +716,17 @@ hè thêm cuốn hút](https://thanhnien.vn/thoi-trang-tre/vay-mau-xanh-duong-bu
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Trực tiếp U17 Việt Nam 0-0 U17 UAE: Quyết đấu tranh vé World Cup 2026](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-0-0-u17-uae-quyet-dau-tranh-ve-world-cup-2026-post1291398.vov) - 14:22 13/05/2026
-- 🕯 [Trực tiếp U17 Việt Nam 0-0 U17 UAE: Quyết đấu tranh vé World Cup 2026](https://vov.vn/the-thao/truc-tiep-u17-viet-nam-0-0-u17-uae-quyet-dau-tranh-ve-world-cup-2026-post1291398.vov) - 14:22 13/05/2026
-- 🌊 [Cục TDTT nói gì về lùm xùm chốt danh sách ĐT cờ vua Việt Nam dự Olympiad qua... nhóm chat?](https://vov.vn/the-thao/cuc-tdtt-noi-gi-ve-lum-xum-chot-danh-sach-dt-co-vua-viet-nam-du-olympiad-qua-nhom-chat-post1291615.vov) - 14:19 13/05/2026
-- 🥷 [Tổng thống Mỹ Donald Trump đến Bắc Kinh, bắt đầu thăm Trung Quốc](https://vov.vn/the-gioi/tong-thong-my-donald-trump-den-bac-kinh-bat-dau-tham-trung-quoc-post1291602.vov) - 12:56 13/05/2026
-- 🎡 [Hàng chục trụ điện 110kV chưa dùng đã &amp;quot;lung lay&amp;quot;, người dân Đồng Nai nơm nớp lo sợ](https://vov.vn/xa-hoi/hang-chuc-tru-dien-110kv-chua-dung-da-lung-lay-nguoi-dan-dong-nai-nom-nop-lo-so-post1291566.vov) - 12:15 13/05/2026
-- 🚀 [Công bố Lệnh của Chủ tịch nước về 9 luật được Quốc hội thông qua](https://vov.vn/chinh-tri/cong-bo-lenh-cua-chu-tich-nuoc-ve-9-luat-duoc-quoc-hoi-thong-qua-post1291562.vov) - 11:18 13/05/2026
-- 🔥 [TP.HCM siết hậu kiểm giữa nguy cơ thực phẩm bẩn](https://vov.vn/thi-truong/tphcm-siet-hau-kiem-giua-nguy-co-thuc-pham-ban-post1291503.vov) - 11:09 13/05/2026
-- 🌋 [Kiện toàn các ban chỉ đạo về hoàn thiện thể chế, pháp luật và cải cách tư pháp](https://vov.vn/chinh-tri/kien-toan-cac-ban-chi-dao-ve-hoan-thien-the-che-phap-luat-va-cai-cach-tu-phap-post1291526.vov) - 09:53 13/05/2026
-- 🕴 [Nơi ở mới của người dân di dời từ cầu Tứ Liên và Trần Hưng Đạo đang thế nào?](https://vov.vn/kinh-te/noi-o-moi-cua-nguoi-dan-di-doi-tu-cau-tu-lien-va-tran-hung-dao-dang-the-nao-post1291513.vov) - 09:41 13/05/2026
-- 🥰 [Hà Nội chạm ngưỡng 36 độ, miền Bắc và Trung Bộ bước vào đợt nắng nóng mới](https://vov.vn/xa-hoi/ha-noi-cham-nguong-36-do-mien-bac-va-trung-bo-buoc-vao-dot-nang-nong-moi-post1291479.vov) - 07:56 13/05/2026
-- 🧐 [Giá vàng giảm, cửa hàng vắng khách, chuyên gia dự đoán vàng sẽ đạt 5.000 USD/oz](https://vov.vn/thi-truong/gia-vang-giam-cua-hang-vang-khach-chuyen-gia-du-doan-vang-se-dat-5000-usdoz-post1291433.vov) - 07:47 13/05/2026<!-- vov:END -->
+- 🌜 [Mỹ tìm kiếm gì khi 16 &amp;quot;gã khổng lồ&amp;quot; kinh tế tháp tùng ông Trump tới Trung Quốc](https://vov.vn/the-gioi/quan-sat/my-tim-kiem-gi-khi-16-ga-khong-lo-kinh-te-thap-tung-ong-trump-toi-trung-quoc-post1291844.vov) - 12:04 14/05/2026
+- 🕯 [Mỹ tìm kiếm gì khi 16 &amp;quot;gã khổng lồ&amp;quot; kinh tế tháp tùng ông Trump tới Trung Quốc](https://vov.vn/the-gioi/quan-sat/my-tim-kiem-gi-khi-16-ga-khong-lo-kinh-te-thap-tung-ong-trump-toi-trung-quoc-post1291844.vov) - 12:04 14/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt 85 đội viên tiêu biểu toàn quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-85-doi-vien-tieu-bieu-toan-quoc-post1291876.vov) - 11:45 14/05/2026
+- 🥷 [Ông Trump mời ông Tập Cận Bình và Phu nhân thăm Mỹ vào ngày 24/9](https://vov.vn/the-gioi/ong-trump-moi-ong-tap-can-binh-va-phu-nhan-tham-my-vao-ngay-249-post1291896.vov) - 11:37 14/05/2026
+- 🎡 [Trưởng Ban Tuyên giáo và Dân vận Trung ương làm việc tại tỉnh Siem Reap, Campuchia](https://vov.vn/chinh-tri/truong-ban-tuyen-giao-va-dan-van-trung-uong-lam-viec-tai-tinh-siem-reap-campuchia-post1291845.vov) - 11:14 14/05/2026
+- 🚀 [Thủ tướng: Công an Hải Phòng bảo vệ vững chắc không gian phát triển chiến lược](https://vov.vn/chinh-tri/thu-tuong-cong-an-hai-phong-bao-ve-vung-chac-khong-gian-phat-trien-chien-luoc-post1291867.vov) - 10:54 14/05/2026
+- 🔥 [Bất động sản Khang Điền sử dụng vốn huy động trái phiếu sai mục đích](https://vov.vn/kinh-te/bat-dong-san-khang-dien-su-dung-von-huy-dong-trai-phieu-sai-muc-dich-post1291790.vov) - 10:53 14/05/2026
+- 🌋 [Việt Nam lên tiếng về hoạt động tại đá Hoài Ân thuộc quần đảo Trường Sa](https://vov.vn/chinh-tri/viet-nam-len-tieng-ve-hoat-dong-tai-da-hoai-an-thuoc-quan-dao-truong-sa-post1291827.vov) - 10:07 14/05/2026
+- 🕴 [Phơi thóc lúa tràn lan trên đường ở Nghệ An, Hà Tĩnh tiềm ẩn nguy cơ tai nạn giao thông](https://vov.vn/xa-hoi/phoi-thoc-lua-tran-lan-tren-duong-o-nghe-an-ha-tinh-tiem-an-nguy-co-tai-nan-giao-thong-post1291800.vov) - 09:31 14/05/2026
+- 🥰 [Tổng Bí thư, Chủ tịch nước: Phải làm rõ hơn mô hình phát triển của Việt Nam](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-phai-lam-ro-hon-mo-hinh-phat-trien-cua-viet-nam-post1291737.vov) - 05:26 14/05/2026
+- 🧐 [Thông điệp từ thượng đỉnh Mỹ - Trung](https://vov.vn/the-gioi/thong-diep-tu-thuong-dinh-my-trung-post1291689.vov) - 03:23 14/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
