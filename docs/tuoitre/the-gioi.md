@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- tuoitre-the-gioi:START -->
-- 💪 [Nga - Ukraine trao đổi hàng trăm tù binh và thi hài](https://tuoitre.vn/nga-ukraine-trao-doi-hang-tram-tu-binh-va-thi-hai-20260515181523768.htm) - 11:28 15/05/2026
-- 📝 [Iran nói &#39;không tin Mỹ&#39;, hoan nghênh Trung Quốc giúp đỡ](https://tuoitre.vn/iran-noi-khong-tin-my-hoan-nghenh-trung-quoc-giup-do-2026051517560938.htm) - 11:12 15/05/2026
-- 🕴 [Ông Lê Hoài Trung chuyển thông điệp của Tổng Bí thư, Chủ tịch nước Tô Lâm đến ông Kim Jong Un](https://tuoitre.vn/ong-le-hoai-trung-chuyen-thong-diep-cua-tong-bi-thu-chu-tich-nuoc-to-lam-den-ong-kim-jong-un-20260515165855379.htm) - 10:25 15/05/2026
-- 🌏 [TP.HCM - Vientiane ký kết hợp tác giai đoạn 2026 - 2030](https://tuoitre.vn/tp-hcm-vientiane-ky-ket-hop-tac-giai-doan-2026-2030-20260515164259147.htm) - 10:04 15/05/2026
+- 💪 [Lý do Chủ tịch Tập Cận Bình mời ông Trump tới khu vườn tuyệt mật của Trung Quốc](https://tuoitre.vn/ly-do-chu-tich-tap-can-binh-moi-ong-trump-toi-khu-vuon-tuyet-mat-cua-trung-quoc-20260515202909379.htm) - 13:47 15/05/2026
+- 📝 [Trung Đông tối 15-5: Ông Trump nói ông Tập không muốn Iran có bom hạt nhân; Diễn biến mới ở Hormuz](https://tuoitre.vn/trung-dong-toi-15-5-ong-trump-noi-ong-tap-khong-muon-iran-co-bom-hat-nhan-dien-bien-moi-o-hormuz-20260515185410902.htm) - 12:53 15/05/2026
+- 🕴 [CEO Nvidia gây sốt mạng xã hội với khoảnh khắc ăn mì trên đường phố Bắc Kinh](https://tuoitre.vn/ceo-nvidia-gay-sot-mang-xa-hoi-voi-khoanh-khac-an-mi-tren-duong-pho-bac-kinh-20260515191131151.htm) - 12:45 15/05/2026
+- 🌏 [Nga - Ukraine trao đổi hàng trăm tù binh và thi hài](https://tuoitre.vn/nga-ukraine-trao-doi-hang-tram-tu-binh-va-thi-hai-20260515181523768.htm) - 11:28 15/05/2026
+- 🚦 [Iran nói &#39;không tin Mỹ&#39;, hoan nghênh Trung Quốc giúp đỡ](https://tuoitre.vn/iran-noi-khong-tin-my-hoan-nghenh-trung-quoc-giup-do-2026051517560938.htm) - 11:12 15/05/2026
+- 🙉 [Ông Lê Hoài Trung chuyển thông điệp của Tổng Bí thư, Chủ tịch nước Tô Lâm đến ông Kim Jong Un](https://tuoitre.vn/ong-le-hoai-trung-chuyen-thong-diep-cua-tong-bi-thu-chu-tich-nuoc-to-lam-den-ong-kim-jong-un-20260515165855379.htm) - 10:25 15/05/2026
+- 🦒 [TP.HCM - Vientiane ký kết hợp tác giai đoạn 2026 - 2030](https://tuoitre.vn/tp-hcm-vientiane-ky-ket-hop-tac-giai-doan-2026-2030-20260515164259147.htm) - 10:04 15/05/2026
 - 🚦 [Những hình ảnh đáng nhớ trong chuyến thăm Trung Quốc của ông Trump](https://tuoitre.vn/nhung-hinh-anh-dang-nho-trong-chuyen-tham-trung-quoc-cua-ong-trump-20260515132310331.htm) - 09:41 15/05/2026
-- 🙉 [UAE tăng tốc xây đường ống dầu để né eo Hormuz](https://tuoitre.vn/uae-tang-toc-xay-duong-ong-dau-de-ne-eo-hormuz-20260515161139404.htm) - 09:25 15/05/2026
-- 🦒 [Con trai Elon Musk xách túi đầu rồng, doanh nghiệp Trung tăng 10 lần doanh số](https://tuoitre.vn/con-trai-elon-musk-xach-tui-dau-rong-doanh-nghiep-trung-tang-10-lan-doanh-so-20260515150836222.htm) - 08:57 15/05/2026
-- 🚦 [Ông Trump giơ nắm tay thể hiện quyết tâm khi lên chuyên cơ rời Trung Quốc](https://tuoitre.vn/ong-trump-gio-nam-tay-the-hien-quyet-tam-khi-len-chuyen-co-roi-trung-quoc-20260515150259988.htm) - 08:32 15/05/2026
-- 🧑‍🏫 [Nữ tỉ phú Trung Quốc ngồi cạnh Elon Musk và Tim Cook từng là công nhân lương 1 USD/ngày](https://tuoitre.vn/nu-ti-phu-trung-quoc-ngoi-canh-elon-musk-va-tim-cook-tung-la-cong-nhan-luong-1-usd-ngay-20260515132552477.htm) - 07:53 15/05/2026
-- 🧑‍🏫 [Phát hiện đường hầm cổ bí ẩn dưới Jerusalem](https://tuoitre.vn/phat-hien-duong-ham-co-bi-an-duoi-jerusalem-20260515105145702.htm) - 07:28 15/05/2026
-- 🦣 [Ông Trump và ông Tập trước bài toán Hormuz](https://tuoitre.vn/ong-trump-va-ong-tap-truoc-bai-toan-hormuz-20260515093626623.htm) - 06:49 15/05/2026
-- 🐲 [Siêu sóng thần cao gần 500 mét suýt gây thảm họa ở Alaska](https://tuoitre.vn/sieu-song-than-cao-gan-500-met-suyt-gay-tham-hoa-o-alaska-2026051512064776.htm) - 05:59 15/05/2026
-- 🐲 [Sứ mệnh kinh tế trên khoang hạng nhất Không lực Một](https://tuoitre.vn/su-menh-kinh-te-tren-khoang-hang-nhat-khong-luc-mot-20260515090515119.htm) - 05:48 15/05/2026
-- 🌝 [Ông Trump nói lại về động cơ truy tìm uranium trong chiến sự với Iran](https://tuoitre.vn/ong-trump-noi-lai-ve-dong-co-truy-tim-uranium-trong-chien-su-voi-iran-20260515115221116.htm) - 05:45 15/05/2026
-- 🏊 [Ông Trump báo tin vui cho Boeing, giá cổ phiếu lại bất ngờ giảm](https://tuoitre.vn/ong-trump-bao-tin-vui-cho-boeing-gia-co-phieu-lai-bat-ngo-giam-20260515112144416.htm) - 05:26 15/05/2026
-- 🎉 [Thượng đỉnh Trung - Mỹ: Quản trị rủi ro hơn là giải quyết dứt điểm](https://tuoitre.vn/thuong-dinh-trung-my-quan-tri-rui-ro-hon-la-giai-quyet-dut-diem-20260515092519207.htm) - 04:47 15/05/2026
-- 🙉 [Mỹ - Trung đạt loạt đồng thuận mới, ông Trump khen ông Tập &#39;ấm áp&#39; và &#39;rất nghiêm túc&#39;](https://tuoitre.vn/my-trung-dat-loat-dong-thuan-moi-ong-trump-khen-ong-tap-am-ap-va-rat-nghiem-tuc-20260515110029707.htm) - 04:22 15/05/2026
-- 🙉 [Đề xuất của Việt Nam tại Hội nghị Ngoại trưởng BRICS mở rộng](https://tuoitre.vn/de-xuat-cua-viet-nam-tai-hoi-nghi-ngoai-truong-brics-mo-rong-20260515092924627.htm) - 03:23 15/05/2026
-- 🤭 [Phát hiện dấu hiệu &#39;khai sinh&#39; mảng kiến tạo mới dưới châu Phi](https://tuoitre.vn/phat-hien-dau-hieu-khai-sinh-mang-kien-tao-moi-duoi-chau-phi-20260515094412705.htm) - 03:08 15/05/2026
+- 🧑‍🏫 [UAE tăng tốc xây đường ống dầu để né eo Hormuz](https://tuoitre.vn/uae-tang-toc-xay-duong-ong-dau-de-ne-eo-hormuz-20260515161139404.htm) - 09:25 15/05/2026
+- 🧑‍🏫 [Con trai Elon Musk xách túi đầu rồng, doanh nghiệp Trung tăng 10 lần doanh số](https://tuoitre.vn/con-trai-elon-musk-xach-tui-dau-rong-doanh-nghiep-trung-tang-10-lan-doanh-so-20260515150836222.htm) - 08:57 15/05/2026
+- 🦣 [Ông Trump giơ nắm tay thể hiện quyết tâm khi lên chuyên cơ rời Trung Quốc](https://tuoitre.vn/ong-trump-gio-nam-tay-the-hien-quyet-tam-khi-len-chuyen-co-roi-trung-quoc-20260515150259988.htm) - 08:32 15/05/2026
+- 🐲 [Nữ tỉ phú Trung Quốc ngồi cạnh Elon Musk và Tim Cook từng là công nhân lương 1 USD/ngày](https://tuoitre.vn/nu-ti-phu-trung-quoc-ngoi-canh-elon-musk-va-tim-cook-tung-la-cong-nhan-luong-1-usd-ngay-20260515132552477.htm) - 07:53 15/05/2026
+- 🐲 [Phát hiện đường hầm cổ bí ẩn dưới Jerusalem](https://tuoitre.vn/phat-hien-duong-ham-co-bi-an-duoi-jerusalem-20260515105145702.htm) - 07:28 15/05/2026
+- 🌝 [Ông Trump và ông Tập trước bài toán Hormuz](https://tuoitre.vn/ong-trump-va-ong-tap-truoc-bai-toan-hormuz-20260515093626623.htm) - 06:49 15/05/2026
+- 🏊 [Siêu sóng thần cao gần 500 mét suýt gây thảm họa ở Alaska](https://tuoitre.vn/sieu-song-than-cao-gan-500-met-suyt-gay-tham-hoa-o-alaska-2026051512064776.htm) - 05:59 15/05/2026
+- 🎉 [Sứ mệnh kinh tế trên khoang hạng nhất Không lực Một](https://tuoitre.vn/su-menh-kinh-te-tren-khoang-hang-nhat-khong-luc-mot-20260515090515119.htm) - 05:48 15/05/2026
+- 🙉 [Ông Trump nói lại về động cơ truy tìm uranium trong chiến sự với Iran](https://tuoitre.vn/ong-trump-noi-lai-ve-dong-co-truy-tim-uranium-trong-chien-su-voi-iran-20260515115221116.htm) - 05:45 15/05/2026
+- 🙉 [Ông Trump báo tin vui cho Boeing, giá cổ phiếu lại bất ngờ giảm](https://tuoitre.vn/ong-trump-bao-tin-vui-cho-boeing-gia-co-phieu-lai-bat-ngo-giam-20260515112144416.htm) - 05:26 15/05/2026
+- 🤭 [Thượng đỉnh Trung - Mỹ: Quản trị rủi ro hơn là giải quyết dứt điểm](https://tuoitre.vn/thuong-dinh-trung-my-quan-tri-rui-ro-hon-la-giai-quyet-dut-diem-20260515092519207.htm) - 04:47 15/05/2026
+- 😎 [Mỹ - Trung đạt loạt đồng thuận mới, ông Trump khen ông Tập &#39;ấm áp&#39; và &#39;rất nghiêm túc&#39;](https://tuoitre.vn/my-trung-dat-loat-dong-thuan-moi-ong-trump-khen-ong-tap-am-ap-va-rat-nghiem-tuc-20260515110029707.htm) - 04:22 15/05/2026
+- ⚗️ [Đề xuất của Việt Nam tại Hội nghị Ngoại trưởng BRICS mở rộng](https://tuoitre.vn/de-xuat-cua-viet-nam-tai-hoi-nghi-ngoai-truong-brics-mo-rong-20260515092924627.htm) - 03:23 15/05/2026
+- 🔥 [Phát hiện dấu hiệu &#39;khai sinh&#39; mảng kiến tạo mới dưới châu Phi](https://tuoitre.vn/phat-hien-dau-hieu-khai-sinh-mang-kien-tao-moi-duoi-chau-phi-20260515094412705.htm) - 03:08 15/05/2026
 - 😎 [Có AI, cần học ngoại ngữ nữa không?](https://tuoitre.vn/co-ai-can-hoc-ngoai-ngu-nua-khong-20260514225339846.htm) - 02:06 15/05/2026
-- ⚗️ [Chủ tịch Cuba: Mỹ nên dỡ bỏ phong tỏa thay vì đề nghị viện trợ](https://tuoitre.vn/chu-tich-cuba-my-nen-do-bo-phong-toa-thay-vi-de-nghi-vien-tro-20260515073509273.htm) - 02:05 15/05/2026
-- 🔥 [Tổng thống Brazil muốn siết AI trước bầu cử vì lo tin giả](https://tuoitre.vn/tong-thong-brazil-muon-siet-ai-truoc-bau-cu-vi-lo-tin-gia-20260515080742802.htm) - 01:10 15/05/2026
-- 😎 [Trung Đông sáng 15-5: Mỹ nói Iran chỉ còn năng lực tấn công hạn chế; Tehran kêu gọi BRICS lên án Mỹ](https://tuoitre.vn/trung-dong-sang-15-5-my-noi-iran-chi-con-nang-luc-tan-cong-han-che-tehran-keu-goi-brics-len-an-my-20260515065857983.htm) - 00:09 15/05/2026
-- 🤭 [Tin tức thế giới 15-5: Ông Trump nói về quan hệ Mỹ - Trung; Iran cho nhiều tàu Trung Quốc qua Hormuz](https://tuoitre.vn/tin-tuc-the-gioi-15-5-ong-trump-noi-ve-quan-he-my-trung-iran-cho-nhieu-tau-trung-quoc-qua-hormuz-20260515062014655.htm) - 23:28 14/05/2026
-- 😎 [Ông Trump nói ông Tập đề nghị giúp mở eo biển Hormuz](https://tuoitre.vn/ong-trump-noi-ong-tap-de-nghi-giup-mo-eo-bien-hormuz-20260514234045978.htm) - 16:48 14/05/2026
-- 🧑‍💻 [Tiết lộ những món ăn ông Trump được chiêu đãi trong quốc yến tại Bắc Kinh](https://tuoitre.vn/tiet-lo-nhung-mon-an-ong-trump-duoc-chieu-dai-trong-quoc-yen-tai-bac-kinh-20260514233832441.htm) - 16:48 14/05/2026
-- 🌏 [Ngoại trưởng Mỹ nói quân đội Trung Quốc mạnh thứ hai thế giới](https://tuoitre.vn/ngoai-truong-my-noi-quan-doi-trung-quoc-manh-thu-hai-the-gioi-20260514223125513.htm) - 15:55 14/05/2026
-- 🐎 [Ông Putin sẽ sớm thăm Trung Quốc](https://tuoitre.vn/ong-putin-se-som-tham-trung-quoc-20260514220130886.htm) - 15:13 14/05/2026
-- 🐎 [TP.HCM và thủ đô Vientiane sẽ ký kết hợp tác giai đoạn 2026 - 2030](https://tuoitre.vn/tp-hcm-va-thu-do-vientiane-se-ky-ket-hop-tac-giai-doan-2026-2030-2026051420345993.htm) - 13:56 14/05/2026
-- 🎬 [Ông Anutin phủ nhận đoạn ghi âm nói sớm mở lại cửa khẩu với Campuchia](https://tuoitre.vn/ong-anutin-phu-nhan-doan-ghi-am-noi-som-mo-lai-cua-khau-voi-campuchia-20260514181944437.htm) - 13:25 14/05/2026
-- 💼 [Tỉ phú Elon Musk phấn khích xoay 360 độ ghi lại toàn cảnh Đại lễ đường Nhân dân Trung Quốc](https://tuoitre.vn/ti-phu-elon-musk-phan-khich-xoay-360-do-ghi-lai-toan-canh-dai-le-duong-nhan-dan-trung-quoc-20260514191839808.htm) - 12:28 14/05/2026
-- ⛽️ [Ông Tập nói với ông Trump: Phục hưng Trung Hoa sẽ song hành Làm cho nước Mỹ vĩ đại trở lại](https://tuoitre.vn/ong-tap-noi-voi-ong-trump-phuc-hung-trung-hoa-se-song-hanh-lam-cho-nuoc-my-vi-dai-tro-lai-20260514190616966.htm) - 12:25 14/05/2026
-- 💡 [5 điểm đáng chú ý trong cuộc gặp Mỹ - Trung tại Bắc Kinh](https://tuoitre.vn/5-diem-dang-chu-y-trong-cuoc-gap-my-trung-tai-bac-kinh-20260514182118333.htm) - 11:37 14/05/2026
-- 🥰 [Ê kíp Đài Fox News sang Trung Quốc chưa kịp tác nghiệp đã bị phạt 40 USD lỗi đỗ xe sai quy định](https://tuoitre.vn/e-kip-dai-fox-news-sang-trung-quoc-chua-kip-tac-nghiep-da-bi-phat-40-usd-loi-do-xe-sai-quy-dinh-20260514180733014.htm) - 11:32 14/05/2026
-- 🧑‍💻 [&#39;Việt Nam kiên quyết xử lý nghiêm mọi hành vi xâm phạm quyền sở hữu trí tuệ&#39;](https://tuoitre.vn/viet-nam-kien-quyet-xu-ly-nghiem-moi-hanh-vi-xam-pham-quyen-so-huu-tri-tue-20260514173705377.htm) - 11:10 14/05/2026
-- 🧠 [&#39;Sự phát triển của Campuchia và tỉnh Siem Reap không tách rời sự giúp đỡ của Việt Nam&#39;](https://tuoitre.vn/su-phat-trien-cua-campuchia-va-tinh-siem-reap-khong-tach-roi-su-giup-do-cua-viet-nam-20260514175257915.htm) - 11:08 14/05/2026
-- 🤩 [Ông Tập Cận Bình: &#39;Cánh cửa vào Trung Quốc sẽ ngày một rộng mở&#39;](https://tuoitre.vn/ong-tap-can-binh-canh-cua-vao-trung-quoc-se-ngay-mot-rong-mo-20260514174532565.htm) - 11:02 14/05/2026
-- 🤗 [Thái Lan đưa các đền tranh chấp vào danh mục di sản, Campuchia phản đối](https://tuoitre.vn/thai-lan-dua-cac-den-tranh-chap-vao-danh-muc-di-san-campuchia-phan-doi-20260514172852525.htm) - 10:59 14/05/2026
-- 🐲 [Cuba bác tin Mỹ đề nghị viện trợ 100 triệu USD](https://tuoitre.vn/cuba-bac-tin-my-de-nghi-vien-tro-100-trieu-usd-20260514140305603.htm) - 10:57 14/05/2026
-- 🌮 [Thượng đỉnh Mỹ - Trung: Hai bên đồng thuận về Hormuz, nhắc nhở nhau về Đài Loan](https://tuoitre.vn/thuong-dinh-my-trung-hai-ben-dong-thuan-ve-hormuz-nhac-nho-nhau-ve-dai-loan-20260514172144242.htm) - 10:33 14/05/2026
-- 🎃 [Bộ Ngoại giao lên tiếng về các công dân Việt Nam bị bắt tại Indonesia và Campuchia](https://tuoitre.vn/bo-ngoai-giao-len-tieng-ve-cac-cong-dan-viet-nam-bi-bat-tai-indonesia-va-campuchia-20260514171634628.htm) - 10:28 14/05/2026
-- 🎊 [Myanmar đề xuất tử hình tội phạm lừa đảo trực tuyến](https://tuoitre.vn/myanmar-de-xuat-tu-hinh-toi-pham-lua-dao-truc-tuyen-20260514163251219.htm) - 10:18 14/05/2026
-- 🚀 [Phản đối hành vi xâm phạm chủ quyền tại thực thể ở quần đảo Trường Sa](https://tuoitre.vn/phan-doi-hanh-vi-xam-pham-chu-quyen-tai-thuc-the-o-quan-dao-truong-sa-20260514164331522.htm) - 10:10 14/05/2026
-- 🧐 [Giết chồng rồi viết sách thương tiếc, người phụ nữ Mỹ lãnh án chung thân](https://tuoitre.vn/giet-chong-roi-viet-sach-thuong-tiec-nguoi-phu-nu-my-lanh-an-chung-than-20260514164223006.htm) - 10:01 14/05/2026
-- 🕯 [Phái đoàn tháp tùng trị giá &#39;nghìn tỉ USD&#39; của ông Trump tham gia Thượng đỉnh Mỹ - Trung](https://tuoitre.vn/phai-doan-thap-tung-tri-gia-nghin-ti-usd-cua-ong-trump-tham-gia-thuong-dinh-my-trung-20260514162104834.htm) - 09:59 14/05/2026
-- 💂 [Dân mạng Trung Quốc phát sốt vì chuyên cơ Không lực Một, ví von &#39;Nhà Trắng bay&#39;](https://tuoitre.vn/dan-mang-trung-quoc-phat-sot-vi-chuyen-co-khong-luc-mot-vi-von-nha-trang-bay-20260514163120036.htm) - 09:54 14/05/2026
-- 🦒 [Thủ tướng Latvia từ chức vì... drone Ukraine](https://tuoitre.vn/thu-tuong-latvia-tu-chuc-vi-drone-ukraine-20260514161951498.htm) - 09:26 14/05/2026
-- 🔭 [Lần đầu tiên người nước ngoài bị kết tội phản quốc tại Hàn Quốc](https://tuoitre.vn/lan-dau-tien-nguoi-nuoc-ngoai-bi-ket-toi-phan-quoc-tai-han-quoc-2026051415302314.htm) - 08:35 14/05/2026
-- 👨‍🏫 [Người Trung Quốc lạc quan về quan hệ hai nước giữa chuyến thăm của ông Trump](https://tuoitre.vn/nguoi-trung-quoc-lac-quan-ve-quan-he-hai-nuoc-giua-chuyen-tham-cua-ong-trump-20260514142647545.htm) - 07:51 14/05/2026
-- 🦆 [Ông Trump hết lời ca ngợi ông Tập, nói vinh dự khi được làm bạn cùng](https://tuoitre.vn/ong-trump-het-loi-ca-ngoi-ong-tap-noi-vinh-du-khi-duoc-lam-ban-cung-20260514140805077.htm) - 07:17 14/05/2026<!-- tuoitre-the-gioi:END -->
+- 🤭 [Chủ tịch Cuba: Mỹ nên dỡ bỏ phong tỏa thay vì đề nghị viện trợ](https://tuoitre.vn/chu-tich-cuba-my-nen-do-bo-phong-toa-thay-vi-de-nghi-vien-tro-20260515073509273.htm) - 02:05 15/05/2026
+- 😎 [Tổng thống Brazil muốn siết AI trước bầu cử vì lo tin giả](https://tuoitre.vn/tong-thong-brazil-muon-siet-ai-truoc-bau-cu-vi-lo-tin-gia-20260515080742802.htm) - 01:10 15/05/2026
+- 🧑‍💻 [Trung Đông sáng 15-5: Mỹ nói Iran chỉ còn năng lực tấn công hạn chế; Tehran kêu gọi BRICS lên án Mỹ](https://tuoitre.vn/trung-dong-sang-15-5-my-noi-iran-chi-con-nang-luc-tan-cong-han-che-tehran-keu-goi-brics-len-an-my-20260515065857983.htm) - 00:09 15/05/2026
+- 🌏 [Tin tức thế giới 15-5: Ông Trump nói về quan hệ Mỹ - Trung; Iran cho nhiều tàu Trung Quốc qua Hormuz](https://tuoitre.vn/tin-tuc-the-gioi-15-5-ong-trump-noi-ve-quan-he-my-trung-iran-cho-nhieu-tau-trung-quoc-qua-hormuz-20260515062014655.htm) - 23:28 14/05/2026
+- 🐎 [Ông Trump nói ông Tập đề nghị giúp mở eo biển Hormuz](https://tuoitre.vn/ong-trump-noi-ong-tap-de-nghi-giup-mo-eo-bien-hormuz-20260514234045978.htm) - 16:48 14/05/2026
+- 🐎 [Tiết lộ những món ăn ông Trump được chiêu đãi trong quốc yến tại Bắc Kinh](https://tuoitre.vn/tiet-lo-nhung-mon-an-ong-trump-duoc-chieu-dai-trong-quoc-yen-tai-bac-kinh-20260514233832441.htm) - 16:48 14/05/2026
+- 🎬 [Ngoại trưởng Mỹ nói quân đội Trung Quốc mạnh thứ hai thế giới](https://tuoitre.vn/ngoai-truong-my-noi-quan-doi-trung-quoc-manh-thu-hai-the-gioi-20260514223125513.htm) - 15:55 14/05/2026
+- 💼 [Ông Putin sẽ sớm thăm Trung Quốc](https://tuoitre.vn/ong-putin-se-som-tham-trung-quoc-20260514220130886.htm) - 15:13 14/05/2026
+- ⛽️ [TP.HCM và thủ đô Vientiane sẽ ký kết hợp tác giai đoạn 2026 - 2030](https://tuoitre.vn/tp-hcm-va-thu-do-vientiane-se-ky-ket-hop-tac-giai-doan-2026-2030-2026051420345993.htm) - 13:56 14/05/2026
+- 💡 [Ông Anutin phủ nhận đoạn ghi âm nói sớm mở lại cửa khẩu với Campuchia](https://tuoitre.vn/ong-anutin-phu-nhan-doan-ghi-am-noi-som-mo-lai-cua-khau-voi-campuchia-20260514181944437.htm) - 13:25 14/05/2026
+- 🥰 [Tỉ phú Elon Musk phấn khích xoay 360 độ ghi lại toàn cảnh Đại lễ đường Nhân dân Trung Quốc](https://tuoitre.vn/ti-phu-elon-musk-phan-khich-xoay-360-do-ghi-lai-toan-canh-dai-le-duong-nhan-dan-trung-quoc-20260514191839808.htm) - 12:28 14/05/2026
+- 🧑‍💻 [Ông Tập nói với ông Trump: Phục hưng Trung Hoa sẽ song hành Làm cho nước Mỹ vĩ đại trở lại](https://tuoitre.vn/ong-tap-noi-voi-ong-trump-phuc-hung-trung-hoa-se-song-hanh-lam-cho-nuoc-my-vi-dai-tro-lai-20260514190616966.htm) - 12:25 14/05/2026
+- 🧠 [5 điểm đáng chú ý trong cuộc gặp Mỹ - Trung tại Bắc Kinh](https://tuoitre.vn/5-diem-dang-chu-y-trong-cuoc-gap-my-trung-tai-bac-kinh-20260514182118333.htm) - 11:37 14/05/2026
+- 🤩 [Ê kíp Đài Fox News sang Trung Quốc chưa kịp tác nghiệp đã bị phạt 40 USD lỗi đỗ xe sai quy định](https://tuoitre.vn/e-kip-dai-fox-news-sang-trung-quoc-chua-kip-tac-nghiep-da-bi-phat-40-usd-loi-do-xe-sai-quy-dinh-20260514180733014.htm) - 11:32 14/05/2026
+- 🤗 [&#39;Việt Nam kiên quyết xử lý nghiêm mọi hành vi xâm phạm quyền sở hữu trí tuệ&#39;](https://tuoitre.vn/viet-nam-kien-quyet-xu-ly-nghiem-moi-hanh-vi-xam-pham-quyen-so-huu-tri-tue-20260514173705377.htm) - 11:10 14/05/2026
+- 🐲 [&#39;Sự phát triển của Campuchia và tỉnh Siem Reap không tách rời sự giúp đỡ của Việt Nam&#39;](https://tuoitre.vn/su-phat-trien-cua-campuchia-va-tinh-siem-reap-khong-tach-roi-su-giup-do-cua-viet-nam-20260514175257915.htm) - 11:08 14/05/2026
+- 🌮 [Ông Tập Cận Bình: &#39;Cánh cửa vào Trung Quốc sẽ ngày một rộng mở&#39;](https://tuoitre.vn/ong-tap-can-binh-canh-cua-vao-trung-quoc-se-ngay-mot-rong-mo-20260514174532565.htm) - 11:02 14/05/2026
+- 🎃 [Thái Lan đưa các đền tranh chấp vào danh mục di sản, Campuchia phản đối](https://tuoitre.vn/thai-lan-dua-cac-den-tranh-chap-vao-danh-muc-di-san-campuchia-phan-doi-20260514172852525.htm) - 10:59 14/05/2026
+- 🎊 [Cuba bác tin Mỹ đề nghị viện trợ 100 triệu USD](https://tuoitre.vn/cuba-bac-tin-my-de-nghi-vien-tro-100-trieu-usd-20260514140305603.htm) - 10:57 14/05/2026
+- 🚀 [Thượng đỉnh Mỹ - Trung: Hai bên đồng thuận về Hormuz, nhắc nhở nhau về Đài Loan](https://tuoitre.vn/thuong-dinh-my-trung-hai-ben-dong-thuan-ve-hormuz-nhac-nho-nhau-ve-dai-loan-20260514172144242.htm) - 10:33 14/05/2026
+- 🧐 [Bộ Ngoại giao lên tiếng về các công dân Việt Nam bị bắt tại Indonesia và Campuchia](https://tuoitre.vn/bo-ngoai-giao-len-tieng-ve-cac-cong-dan-viet-nam-bi-bat-tai-indonesia-va-campuchia-20260514171634628.htm) - 10:28 14/05/2026
+- 🕯 [Myanmar đề xuất tử hình tội phạm lừa đảo trực tuyến](https://tuoitre.vn/myanmar-de-xuat-tu-hinh-toi-pham-lua-dao-truc-tuyen-20260514163251219.htm) - 10:18 14/05/2026
+- 💂 [Phản đối hành vi xâm phạm chủ quyền tại thực thể ở quần đảo Trường Sa](https://tuoitre.vn/phan-doi-hanh-vi-xam-pham-chu-quyen-tai-thuc-the-o-quan-dao-truong-sa-20260514164331522.htm) - 10:10 14/05/2026
+- 🦒 [Giết chồng rồi viết sách thương tiếc, người phụ nữ Mỹ lãnh án chung thân](https://tuoitre.vn/giet-chong-roi-viet-sach-thuong-tiec-nguoi-phu-nu-my-lanh-an-chung-than-20260514164223006.htm) - 10:01 14/05/2026
+- 🔭 [Phái đoàn tháp tùng trị giá &#39;nghìn tỉ USD&#39; của ông Trump tham gia Thượng đỉnh Mỹ - Trung](https://tuoitre.vn/phai-doan-thap-tung-tri-gia-nghin-ti-usd-cua-ong-trump-tham-gia-thuong-dinh-my-trung-20260514162104834.htm) - 09:59 14/05/2026
+- 👨‍🏫 [Dân mạng Trung Quốc phát sốt vì chuyên cơ Không lực Một, ví von &#39;Nhà Trắng bay&#39;](https://tuoitre.vn/dan-mang-trung-quoc-phat-sot-vi-chuyen-co-khong-luc-mot-vi-von-nha-trang-bay-20260514163120036.htm) - 09:54 14/05/2026
+- 🦆 [Thủ tướng Latvia từ chức vì... drone Ukraine](https://tuoitre.vn/thu-tuong-latvia-tu-chuc-vi-drone-ukraine-20260514161951498.htm) - 09:26 14/05/2026<!-- tuoitre-the-gioi:END -->
