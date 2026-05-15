@@ -715,17 +715,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Xây dựng xã, phường XHCN để phù hợp với quy luật phát triển mới](https://vov.vn/chinh-tri/xay-dung-xa-phuong-xhcn-de-phu-hop-voi-quy-luat-phat-trien-moi-post1291414.vov) - 22:20 14/05/2026
-- 🕯 [Xây dựng xã, phường XHCN để phù hợp với quy luật phát triển mới](https://vov.vn/chinh-tri/xay-dung-xa-phuong-xhcn-de-phu-hop-voi-quy-luat-phat-trien-moi-post1291414.vov) - 22:20 14/05/2026
-- 🌊 [Giá vàng hôm nay 15/5: SJC và DOJI cùng giữ mức 165,5 triệu đồng/lượng](https://vov.vn/thi-truong/gia-vang-hom-nay-155-sjc-va-doji-cung-giu-muc-1655-trieu-dongluong-post1291866.vov) - 22:10 14/05/2026
-- 🥷 [Xây dựng &amp;quot;lá chắn&amp;quot; bảo vệ nền tảng tư tưởng của Đảng  trên không gian số](https://vov.vn/chinh-tri/xay-dung-la-chan-bao-ve-nen-tang-tu-tuong-cua-dang-tren-khong-gian-so-post1291692.vov) - 22:10 14/05/2026
-- 🎡 [Mỹ tìm kiếm gì khi 16 &amp;quot;gã khổng lồ&amp;quot; kinh tế tháp tùng ông Trump tới Trung Quốc](https://vov.vn/the-gioi/quan-sat/my-tim-kiem-gi-khi-16-ga-khong-lo-kinh-te-thap-tung-ong-trump-toi-trung-quoc-post1291844.vov) - 12:04 14/05/2026
-- 🚀 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt 85 đội viên tiêu biểu toàn quốc](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-mat-85-doi-vien-tieu-bieu-toan-quoc-post1291876.vov) - 11:45 14/05/2026
-- 🔥 [Ông Trump mời ông Tập Cận Bình và Phu nhân thăm Mỹ vào ngày 24/9](https://vov.vn/the-gioi/ong-trump-moi-ong-tap-can-binh-va-phu-nhan-tham-my-vao-ngay-249-post1291896.vov) - 11:37 14/05/2026
-- 🌋 [Trưởng Ban Tuyên giáo và Dân vận Trung ương làm việc tại tỉnh Siem Reap, Campuchia](https://vov.vn/chinh-tri/truong-ban-tuyen-giao-va-dan-van-trung-uong-lam-viec-tai-tinh-siem-reap-campuchia-post1291845.vov) - 11:14 14/05/2026
-- 🕴 [Thủ tướng: Công an Hải Phòng bảo vệ vững chắc không gian phát triển chiến lược](https://vov.vn/chinh-tri/thu-tuong-cong-an-hai-phong-bao-ve-vung-chac-khong-gian-phat-trien-chien-luoc-post1291867.vov) - 10:54 14/05/2026
-- 🥰 [Việt Nam lên tiếng về hoạt động tại đá Hoài Ân thuộc quần đảo Trường Sa](https://vov.vn/chinh-tri/viet-nam-len-tieng-ve-hoat-dong-tai-da-hoai-an-thuoc-quan-dao-truong-sa-post1291827.vov) - 10:07 14/05/2026
-- 🧐 [Tổng Bí thư, Chủ tịch nước: Phải làm rõ hơn mô hình phát triển của Việt Nam](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-phai-lam-ro-hon-mo-hinh-phat-trien-cua-viet-nam-post1291737.vov) - 05:26 14/05/2026<!-- vov:END -->
+- 🌜 [Quân chủng vũ trụ Mỹ đang theo dõi Iran sát sao như thế nào?](https://vov.vn/the-gioi/quan-sat/quan-chung-vu-tru-my-dang-theo-doi-iran-sat-sao-nhu-the-nao-post1292173.vov) - 09:08 15/05/2026
+- 🕯 [Hà Nội nắng nóng gay gắt, người lao động che chắn kín mít làm việc ngoài trời](https://vov.vn/xa-hoi/ha-noi-nang-nong-gay-gat-nguoi-lao-dong-che-chan-kin-mit-lam-viec-ngoai-troi-post1292134.vov) - 08:18 15/05/2026
+- 🌊 [Thủ tướng yêu cầu hoàn thành xử lý các cơ sở nhà, đất dôi dư trong Quý II/2026](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-hoan-thanh-xu-ly-cac-co-so-nha-dat-doi-du-trong-quy-ii2026-post1292114.vov) - 07:42 15/05/2026
+- 🥷 [Hiệu trưởng xin thôi chức sau vụ giáo viên phạt học sinh tự đâm kim tiêm vào tay](https://vov.vn/xa-hoi/hieu-truong-xin-thoi-chuc-sau-vu-giao-vien-phat-hoc-sinh-tu-dam-kim-tiem-vao-tay-post1292118.vov) - 07:40 15/05/2026
+- 🎡 [VCCI công bố PCI 2025: Khu vực tư nhân sẵn sàng bứt phá](https://vov.vn/kinh-te/vcci-cong-bo-pci-2025-khu-vuc-tu-nhan-san-sang-but-pha-post1292052.vov) - 04:55 15/05/2026
+- 🚀 [Đề xuất cho thuê vỉa hè Hà Nội: Lo lắng giữa mưu sinh và tái diễn việc lấn chiếm?](https://vov.vn/xa-hoi/de-xuat-cho-thue-via-he-ha-noi-lo-lang-giua-muu-sinh-va-tai-dien-viec-lan-chiem-post1292055.vov) - 04:52 15/05/2026
+- 🔥 [Đề xuất cho thuê vỉa hè Hà Nội: Lo lắng giữa mưu sinh và tái diễn việc lấn chiếm?](https://vov.vn/xa-hoi/de-xuat-cho-thue-via-he-ha-noi-lo-lang-giua-muu-sinh-va-tai-dien-viec-lan-chiem-post1292055.vov) - 04:52 15/05/2026
+- 🌋 [TP.HCM tính mở rộng xét tuyển, tiến tới bỏ thi vào lớp 10](https://vov.vn/xa-hoi/tphcm-tinh-mo-rong-xet-tuyen-tien-toi-bo-thi-vao-lop-10-post1292053.vov) - 04:07 15/05/2026
+- 🕴 [Định hướng phát triển không gian ngầm trong Quy hoạch Thủ đô tầm nhìn 100 năm](https://vov.vn/xa-hoi/dinh-huong-phat-trien-khong-gian-ngam-trong-quy-hoach-thu-do-tam-nhin-100-nam-post1292019.vov) - 02:43 15/05/2026
+- 🥰 [Định hướng phát triển không gian ngầm trong Quy hoạch Thủ đô tầm nhìn 100 năm](https://vov.vn/xa-hoi/dinh-huong-phat-trien-khong-gian-ngam-trong-quy-hoach-thu-do-tam-nhin-100-nam-post1292019.vov) - 02:43 15/05/2026
+- 🧐 [Xây dựng xã, phường XHCN để phù hợp với quy luật phát triển mới](https://vov.vn/chinh-tri/xay-dung-xa-phuong-xhcn-de-phu-hop-voi-quy-luat-phat-trien-moi-post1291414.vov) - 22:20 14/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
