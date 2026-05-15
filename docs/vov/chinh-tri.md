@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Đồng chí Trịnh Văn Quyết thăm và làm việc tại Campuchia](https://vov.vn/chinh-tri/dong-chi-trinh-van-quyet-tham-va-lam-viec-tai-campuchia-post1291647.vov) - 23:23 13/05/2026
-- 💃 [Địa phương chủ động để chính quyền hai cấp vận hành hiệu quả](https://vov.vn/chinh-tri/dia-phuong-chu-dong-de-chinh-quyen-hai-cap-van-hanh-hieu-qua-post1291537.vov) - 22:30 13/05/2026
-- 🫶 [Phát triển con người Việt Nam trong kỷ nguyên số](https://vov.vn/chinh-tri/phat-trien-con-nguoi-viet-nam-trong-ky-nguyen-so-post1291485.vov) - 22:03 13/05/2026
-- 👨‍🏫 [Bộ trưởng Bộ Ngoại giao Lê Hoài Trung thăm và làm việc tại Triều Tiên](https://vov.vn/chinh-tri/bo-truong-bo-ngoai-giao-le-hoai-trung-tham-va-lam-viec-tai-trieu-tien-post1291616.vov) - 14:19 13/05/2026
-- 🪜 [Phát triển trí tuệ nhân tạo &lpar;AI&rpar; chuyên ngành tư pháp](https://vov.vn/chinh-tri/phat-trien-tri-tue-nhan-tao-ai-chuyen-nganh-tu-phap-post1291614.vov) - 14:07 13/05/2026
-- 🌋 [Bộ trưởng Lương Tam Quang dự lễ ra mắt Tổng công ty GTEL trực thuộc Bộ Công an](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-du-le-ra-mat-tong-cong-ty-gtel-truc-thuoc-bo-cong-an-post1291611.vov) - 13:46 13/05/2026
-- 🎉 [Bộ trưởng Lương Tam Quang tiếp Đại sứ đặc mệnh toàn quyền Vương quốc Saudi Arabia](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-tiep-dai-su-dac-menh-toan-quyen-vuong-quoc-saudi-arabia-post1291610.vov) - 13:39 13/05/2026
-- 🌝 [Việt Nam và Lào tăng cường hợp tác trong lĩnh vực văn hoá, du lịch và thông tin](https://vov.vn/chinh-tri/viet-nam-va-lao-tang-cuong-hop-tac-trong-linh-vuc-van-hoa-du-lich-va-thong-tin-post1291597.vov) - 12:51 13/05/2026
-- 🏊 [Công bố Lệnh của Chủ tịch nước về 9 luật được Quốc hội thông qua](https://vov.vn/chinh-tri/cong-bo-lenh-cua-chu-tich-nuoc-ve-9-luat-duoc-quoc-hoi-thong-qua-post1291562.vov) - 11:18 13/05/2026
-- 🧑‍💻 [Việt Nam thúc đẩy môi trường đầu tư minh bạch, cạnh tranh để thu hút FDI](https://vov.vn/chinh-tri/viet-nam-thuc-day-moi-truong-dau-tu-minh-bach-canh-tranh-de-thu-hut-fdi-post1291546.vov) - 10:25 13/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Hội thi tuyên truyền viên giỏi đưa Nghị quyết XIV vào cuộc sống](https://vov.vn/chinh-tri/hoi-thi-tuyen-truyen-vien-gioi-dua-nghi-quyet-xiv-vao-cuoc-song-post1292059.vov) - 04:12 15/05/2026
+- 💃 [Cần Thơ tăng tốc xử lý trụ sở, nhà đất dôi dư sau sáp nhập](https://vov.vn/chinh-tri/can-tho-tang-toc-xu-ly-tru-so-nha-dat-doi-du-sau-sap-nhap-post1292018.vov) - 02:49 15/05/2026
+- 🫶 [Bộ Chính trị kiểm tra, giám sát việc thực hiện nhiệm vụ chính trị tại Lai Châu](https://vov.vn/chinh-tri/bo-chinh-tri-kiem-tra-giam-sat-viec-thuc-hien-nhiem-vu-chinh-tri-tai-lai-chau-post1292001.vov) - 02:16 15/05/2026
+- 👨‍🏫 [Đồng Tháp điều động, chỉ định nhiều cán bộ cấp tỉnh, cấp xã](https://vov.vn/chinh-tri/dong-thap-dieu-dong-chi-dinh-nhieu-can-bo-cap-tinh-cap-xa-post1291995.vov) - 02:08 15/05/2026
+- 🪜 [Đại sứ Đặng Minh Khôi: Quan hệ Việt Nam - Nga đang phát triển bền chặt](https://vov.vn/chinh-tri/dai-su-dang-minh-khoi-quan-he-viet-nam-nga-dang-phat-trien-ben-chat-post1291971.vov) - 23:23 14/05/2026
+- 🌋 [Thứ trưởng Ngoại giao Việt Nam dự hội nghị Ngoại trưởng BRICS mở rộng tại Ấn Độ](https://vov.vn/chinh-tri/thu-truong-ngoai-giao-viet-nam-du-hoi-nghi-ngoai-truong-brics-mo-rong-tai-an-do-post1291969.vov) - 22:55 14/05/2026
+- 🎉 [Xây dựng xã, phường XHCN để phù hợp với quy luật phát triển mới](https://vov.vn/chinh-tri/xay-dung-xa-phuong-xhcn-de-phu-hop-voi-quy-luat-phat-trien-moi-post1291414.vov) - 22:20 14/05/2026
+- 🌝 [Xây dựng &amp;quot;lá chắn&amp;quot; bảo vệ nền tảng tư tưởng của Đảng trên không gian số](https://vov.vn/chinh-tri/xay-dung-la-chan-bao-ve-nen-tang-tu-tuong-cua-dang-tren-khong-gian-so-post1291692.vov) - 22:10 14/05/2026
+- 🏊 [Diễn đàn Tương lai ASEAN 2026 sẽ diễn ra tại Hà Nội vào tháng 6](https://vov.vn/chinh-tri/dien-dan-tuong-lai-asean-2026-se-dien-ra-tai-ha-noi-vao-thang-6-post1291857.vov) - 14:18 14/05/2026
+- 🧑‍💻 [Quân khu 2 sau một năm thực hiện mô hình chính quyền địa phương hai cấp](https://vov.vn/chinh-tri/quan-khu-2-sau-mot-nam-thuc-hien-mo-hinh-chinh-quyen-dia-phuong-hai-cap-post1291915.vov) - 12:26 14/05/2026<!-- vov-chinh-tri:END -->
