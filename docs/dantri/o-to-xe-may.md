@@ -4,63 +4,63 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [VinFast mở rộng mạng lưới tủ đổi pin cho xe điện](https://dantri.com.vn/o-to-xe-may/vinfast-mo-rong-mang-luoi-tu-doi-pin-cho-xe-dien-20260516163702050.htm) - 10:00 16/05/2026
+- 🤡 [Toyota Wigo “trắng” doanh số, phân khúc xe hạng A lao dốc trong tháng 4](https://dantri.com.vn/o-to-xe-may/toyota-wigo-trang-doanh-so-phan-khuc-xe-hang-a-lao-doc-trong-thang-4-20260516111426382.htm) - 11:14 16/05/2026
+- 🧑‍💻 [VinFast mở rộng mạng lưới tủ đổi pin cho xe điện](https://dantri.com.vn/o-to-xe-may/vinfast-mo-rong-mang-luoi-tu-doi-pin-cho-xe-dien-20260516163702050.htm) - 10:00 16/05/2026
 - 🧑‍💻 [Honda City sắp có phiên bản nâng cấp, bổ sung nhiều công nghệ](https://dantri.com.vn/o-to-xe-may/honda-city-sap-co-phien-ban-nang-cap-bo-sung-nhieu-cong-nghe-20260515233813888.htm) - 00:26 16/05/2026
-- 🧑‍💻 [Suzuki Fronx giảm gần 100 triệu tại đại lý, giá khởi điểm rẻ nhất phân khúc](https://dantri.com.vn/o-to-xe-may/suzuki-fronx-giam-gan-100-trieu-tai-dai-ly-gia-khoi-diem-re-nhat-phan-khuc-20260515154728153.htm) - 00:24 16/05/2026
-- 🎓 [Honda tái cấu trúc sau năm tài chính thua lỗ lịch sử](https://dantri.com.vn/o-to-xe-may/honda-tai-cau-truc-sau-nam-tai-chinh-thua-lo-lich-su-20260515145156370.htm) - 00:18 16/05/2026
-- 🌊 [Green SM hợp tác 75 doanh nghiệp Philippines, hướng tới triển khai 18.497 ô tô điện VinFast](https://dantri.com.vn/o-to-xe-may/green-sm-hop-tac-75-doanh-nghiep-philippines-huong-toi-trien-khai-18497-o-to-dien-vinfast-20260515183459507.htm) - 11:46 15/05/2026
-- 🥷 [Những lầm tưởng về sạc xe điện qua đêm](https://dantri.com.vn/o-to-xe-may/nhung-lam-tuong-ve-sac-xe-dien-qua-dem-20260515154954058.htm) - 10:10 15/05/2026
-- 🤩 [Thaco Auto sẽ phân phối các thương hiệu ô tô mới nào?](https://dantri.com.vn/o-to-xe-may/thaco-auto-se-phan-phoi-cac-thuong-hieu-o-to-moi-nao-20260515132254885.htm) - 07:42 15/05/2026
-- 🫶 [BYD và Huawei phô diễn công nghệ ô tô đi bằng 3 bánh](https://dantri.com.vn/o-to-xe-may/byd-va-huawei-pho-dien-cong-nghe-o-to-di-bang-3-banh-20260515115032624.htm) - 07:32 15/05/2026
-- 🎭 [New Sorento - Mẫu SUV cao cấp 7 chỗ có doanh số dẫn đầu tại Hàn Quốc và toàn cầu](https://dantri.com.vn/o-to-xe-may/new-sorento-mau-suv-cao-cap-7-cho-co-doanh-so-dan-dau-tai-han-quoc-va-toan-cau-20260515141339987.htm) - 07:30 15/05/2026
-- 🌁 [VinFast mở rộng mạng lưới dịch vụ và đối tác quốc tế](https://dantri.com.vn/o-to-xe-may/vinfast-mo-rong-mang-luoi-dich-vu-va-doi-tac-quoc-te-20260515103447289.htm) - 03:49 15/05/2026
-- 🦩 [Trì hoãn làm xe điện, Mazda tập trung vào xe hybrid](https://dantri.com.vn/o-to-xe-may/tri-hoan-lam-xe-dien-mazda-tap-trung-vao-xe-hybrid-20260514235612185.htm) - 03:44 15/05/2026
-- 🕴 [Xe sang nội địa Trung Quốc đẩy lùi Maybach, Porsche](https://dantri.com.vn/o-to-xe-may/xe-sang-noi-dia-trung-quoc-day-lui-maybach-porsche-20260514122518897.htm) - 23:38 14/05/2026
-- 🎡 [Cách để Malaysia phát triển ngành ô tô điện trong nước](https://dantri.com.vn/o-to-xe-may/cach-de-malaysia-phat-trien-nganh-o-to-dien-trong-nuoc-20260514150104253.htm) - 23:37 14/05/2026
-- 📝 [Ô tô quay đầu bất cẩn, đè bẹp xe máy](https://dantri.com.vn/o-to-xe-may/o-to-quay-dau-bat-can-de-bep-xe-may-20260513161042231.htm) - 23:36 14/05/2026
-- 🧐 [Học sinh Bắc Ninh thử xe điện VinFast tại sự kiện “Phủ xanh trường học 2026”](https://dantri.com.vn/o-to-xe-may/hoc-sinh-bac-ninh-thu-xe-dien-vinfast-tai-su-kien-phu-xanh-truong-hoc-2026-20260514153401985.htm) - 09:09 14/05/2026
-- 🪄 [&quot;Luật đã cấm quay đầu trên vạch đi bộ bao lâu nay, sao giờ còn tranh cãi?&quot;](https://dantri.com.vn/o-to-xe-may/luat-da-cam-quay-dau-tren-vach-di-bo-bao-lau-nay-sao-gio-con-tranh-cai-20260514124401594.htm) - 07:42 14/05/2026
-- 🧰 [Honda CB350C: Mô tô dáng cổ điển nhập từ Ấn Độ, giá 185 triệu đồng](https://dantri.com.vn/o-to-xe-may/honda-cb350c-mo-to-dang-co-dien-nhap-tu-an-do-gia-185-trieu-dong-20260513234558666.htm) - 06:51 14/05/2026
-- 🚀 [Tháng thứ hai mở bán, Omoda C5 hybrid vẫn được giảm giá hàng chục triệu](https://dantri.com.vn/o-to-xe-may/thang-thu-hai-mo-ban-omoda-c5-hybrid-van-duoc-giam-gia-hang-chuc-trieu-20260514115626682.htm) - 06:50 14/05/2026
-- 💪 [Malaysia siết quy định, hạn chế nhập khẩu ô tô điện giá rẻ](https://dantri.com.vn/o-to-xe-may/malaysia-siet-quy-dinh-han-che-nhap-khau-o-to-dien-gia-re-20260513143305889.htm) - 06:00 14/05/2026
-- 🔥 [Toyota Hilux ngược dòng tăng doanh số nhưng vẫn thua Ford Ranger](https://dantri.com.vn/o-to-xe-may/toyota-hilux-nguoc-dong-tang-doanh-so-nhung-van-thua-ford-ranger-20260513123841562.htm) - 03:07 14/05/2026
-- 🐲 [Audi Q9 được trang bị cửa đóng, mở điện như xe Rolls-Royce](https://dantri.com.vn/o-to-xe-may/audi-q9-duoc-trang-bi-cua-dong-mo-dien-nhu-xe-rolls-royce-20260513105956137.htm) - 01:34 14/05/2026
-- 🌋 [Loạt ô tô xăng dầu bán chạy trong tháng 4: Seltos và CR-V trở lại](https://dantri.com.vn/o-to-xe-may/loat-o-to-xang-dau-ban-chay-trong-thang-4-seltos-va-cr-v-tro-lai-20260513114036306.htm) - 01:34 14/05/2026
-- 🤩 [Xe điện Toyota bán chạy tại Trung Quốc](https://dantri.com.vn/o-to-xe-may/xe-dien-toyota-ban-chay-tai-trung-quoc-20260512161501848.htm) - 01:33 14/05/2026
-- 😺 [Những lỗi giao thông phổ biến nhưng nhiều người ngỡ ngàng khi bị phạt](https://dantri.com.vn/o-to-xe-may/nhung-loi-giao-thong-pho-bien-nhung-nhieu-nguoi-ngo-ngang-khi-bi-phat-20260513192245738.htm) - 23:58 13/05/2026
-- 👍 [Lãnh đạo VinFast nói gì về nghi vấn từ bỏ ngành ô tô?](https://dantri.com.vn/o-to-xe-may/lanh-dao-vinfast-noi-gi-ve-nghi-van-tu-bo-nganh-o-to-20260513203658767.htm) - 13:41 13/05/2026
-- 🎃 [Hành vi nào là vượt ẩu trên cao tốc và bị đề xuất phạt tới 6 triệu đồng?](https://dantri.com.vn/o-to-xe-may/hanh-vi-nao-la-vuot-au-tren-cao-toc-va-bi-de-xuat-phat-toi-6-trieu-dong-20260513160613012.htm) - 10:29 13/05/2026
-- ⚗️ [Veloz Cross ghi nhận doanh số kỷ lục nhưng chưa phải mẫu MPV hút khách nhất](https://dantri.com.vn/o-to-xe-may/veloz-cross-ghi-nhan-doanh-so-ky-luc-nhung-chua-phai-mau-mpv-hut-khach-nhat-20260513103200690.htm) - 08:00 13/05/2026
-- 🦄 [10 ô tô bán chạy tháng 4: xe điện giảm hiện diện, Veloz Cross tạo bất ngờ](https://dantri.com.vn/o-to-xe-may/10-o-to-ban-chay-thang-4-xe-dien-giam-hien-dien-veloz-cross-tao-bat-ngo-20260513094104306.htm) - 07:59 13/05/2026
-- 😺 [Thói quen bám làn trái trên cao tốc và những tiềm ẩn nguy cơ mất an toàn](https://dantri.com.vn/o-to-xe-may/thoi-quen-bam-lan-trai-tren-cao-toc-va-nhung-tiem-an-nguy-co-mat-an-toan-20260511112110442.htm) - 06:52 13/05/2026
-- 💼 [Ford Everest 2026 có cần sử dụng phụ gia để giảm khí thải?](https://dantri.com.vn/o-to-xe-may/ford-everest-2026-co-can-su-dung-phu-gia-de-giam-khi-thai-20260512140217237.htm) - 04:37 13/05/2026
-- 💃 [VinFast VF 9 ghi điểm nhờ không gian rộng và nhiều tiện nghi](https://dantri.com.vn/o-to-xe-may/vinfast-vf-9-ghi-diem-nho-khong-gian-rong-va-nhieu-tien-nghi-20260513103632680.htm) - 03:44 13/05/2026
-- 🚀 [Đối tác Trung Quốc giúp Audi làm được SUV điện lớn hơn Q7 nhưng rẻ hơn Q3](https://dantri.com.vn/o-to-xe-may/doi-tac-trung-quoc-giup-audi-lam-duoc-suv-dien-lon-hon-q7-nhung-re-hon-q3-20260513003311946.htm) - 00:50 13/05/2026
-- 🤩 [Loạt ô tô bán chậm trong tháng 4: Xe giảm giá hàng trăm triệu vẫn kén khách](https://dantri.com.vn/o-to-xe-may/loat-o-to-ban-cham-trong-thang-4-xe-giam-gia-hang-tram-trieu-van-ken-khach-20260512132452812.htm) - 00:15 13/05/2026
-- 💪 [VinFast bán 24.774 ô tô điện trong tháng 4](https://dantri.com.vn/o-to-xe-may/vinfast-ban-24774-o-to-dien-trong-thang-4-20260512190615536.htm) - 12:57 12/05/2026
-- 🏊 [Xe phân khối lớn mắc kẹt trên cột đèn giao thông sau va chạm với ô tô](https://dantri.com.vn/o-to-xe-may/xe-phan-khoi-lon-mac-ket-tren-cot-den-giao-thong-sau-va-cham-voi-o-to-20260512110435682.htm) - 11:42 12/05/2026
-- 💄 [Hyundai đề xuất triệu hồi hơn 3.700 chiếc Tucson](https://dantri.com.vn/o-to-xe-may/hyundai-de-xuat-trieu-hoi-hon-3700-chiec-tucson-20260512145836201.htm) - 11:38 12/05/2026
-- 👺 [Học sinh TPHCM trải nghiệm xe máy điện mới Amio của VinFast](https://dantri.com.vn/o-to-xe-may/hoc-sinh-tphcm-trai-nghiem-xe-may-dien-moi-amio-cua-vinfast-20260512154425957.htm) - 08:49 12/05/2026
-- ⚗️ [Toyota Corolla Cross có gói độ nội thất như xe Rolls-Royce](https://dantri.com.vn/o-to-xe-may/toyota-corolla-cross-co-goi-do-noi-that-nhu-xe-rolls-royce-20260512144241580.htm) - 08:24 12/05/2026
-- 🧑‍🏫 [Audi S6 Sportback e-tron ra mắt khách Việt, giá từ 4,2 tỷ đồng](https://dantri.com.vn/o-to-xe-may/audi-s6-sportback-e-tron-ra-mat-khach-viet-gia-tu-42-ty-dong-20260512125026990.htm) - 07:03 12/05/2026
-- 🦒 [Đạt doanh số kỷ lục, Mustang Mach-E vẫn trong top 10 xe bán chậm tháng 4](https://dantri.com.vn/o-to-xe-may/dat-doanh-so-ky-luc-mustang-mach-e-van-trong-top-10-xe-ban-cham-thang-4-20260512124825923.htm) - 06:09 12/05/2026
-- 🐘 [Xe giá rẻ Trung Quốc có trang bị mà BMW và Mercedes phải bỏ vì đắt](https://dantri.com.vn/o-to-xe-may/xe-gia-re-trung-quoc-co-trang-bi-ma-bmw-va-mercedes-phai-bo-vi-dat-20260512102447843.htm) - 04:43 12/05/2026
-- 🧠 [BYD dọa kiện nhiều tài khoản mạng xã hội](https://dantri.com.vn/o-to-xe-may/byd-doa-kien-nhieu-tai-khoan-mang-xa-hoi-20260511084357147.htm) - 00:55 12/05/2026
-- 🐵 [Xe bán tải Ram 1500 mất nửa giá sau 4 năm sử dụng](https://dantri.com.vn/o-to-xe-may/xe-ban-tai-ram-1500-mat-nua-gia-sau-4-nam-su-dung-20260511005759294.htm) - 00:51 12/05/2026
-- 🤭 [Xe điện ở Trung Quốc giảm một nửa tầm hoạt động sau khi cập nhật phần mềm?](https://dantri.com.vn/o-to-xe-may/xe-dien-o-trung-quoc-giam-mot-nua-tam-hoat-dong-sau-khi-cap-nhat-phan-mem-20260511234712596.htm) - 00:49 12/05/2026
-- 🤠 [VinFast được vinh danh “Nhà sản xuất xe điện của năm”](https://dantri.com.vn/o-to-xe-may/vinfast-duoc-vinh-danh-nha-san-xuat-xe-dien-cua-nam-20260511171450450.htm) - 10:30 11/05/2026
-- 🫶 [SUV lạ xuất hiện trên đường, có thể là VinFast VF 8 hoàn toàn mới](https://dantri.com.vn/o-to-xe-may/suv-la-xuat-hien-tren-duong-co-the-la-vinfast-vf-8-hoan-toan-moi-20260511142416577.htm) - 09:53 11/05/2026
-- 🚀 [Chiếc Tesla chạy hơn 610.000km cho thấy cả ưu và nhược điểm của ô tô điện](https://dantri.com.vn/o-to-xe-may/chiec-tesla-chay-hon-610000km-cho-thay-ca-uu-va-nhuoc-diem-cua-o-to-dien-20260511102620113.htm) - 09:40 11/05/2026
-- 🎊 [Subaru bị kiện ở Mỹ vì xe hút cạn ắc quy ngay cả khi đỗ](https://dantri.com.vn/o-to-xe-may/subaru-bi-kien-o-my-vi-xe-hut-can-ac-quy-ngay-ca-khi-do-20260510231851478.htm) - 06:44 11/05/2026
-- 🦄 [Mercedes C-Class số sàn rao 180 triệu đồng, người bán lưu ý &quot;xe đời sâu&quot;](https://dantri.com.vn/o-to-xe-may/mercedes-c-class-so-san-rao-180-trieu-dong-nguoi-ban-luu-y-xe-doi-sau-20260430231352263.htm) - 06:36 11/05/2026
-- 🥷 [Những điểm mới trong đào tạo lái xe có hiệu lực từ ngày 1/7](https://dantri.com.vn/o-to-xe-may/nhung-diem-moi-trong-dao-tao-lai-xe-co-hieu-luc-tu-ngay-17-20260511121359034.htm) - 06:35 11/05/2026
-- 🦏 [Mazda Việt Nam giới thiệu Mazda3 1.5 Deluxe giá 569 triệu đồng và ưu đãi cho CX-30](https://dantri.com.vn/o-to-xe-may/mazda-viet-nam-gioi-thieu-mazda3-15-deluxe-gia-569-trieu-dong-va-uu-dai-cho-cx-30-20260511105559740.htm) - 04:30 11/05/2026
-- 🤗 [Mitsubishi Xforce 2026 ra mắt, tăng nhẹ giá bán](https://dantri.com.vn/o-to-xe-may/mitsubishi-xforce-2026-ra-mat-tang-nhe-gia-ban-20260511101953431.htm) - 04:19 11/05/2026
-- 🐲 [Xe điện Trung Quốc tạo áp lực mới lên ngành ô tô toàn cầu](https://dantri.com.vn/o-to-xe-may/xe-dien-trung-quoc-tao-ap-luc-moi-len-nganh-o-to-toan-cau-20260506153150255.htm) - 03:25 11/05/2026
-- 🤭 [Người dùng đánh giá VinFast VF 9: Trải nghiệm sang trọng, chi phí vận hành tối ưu](https://dantri.com.vn/o-to-xe-may/nguoi-dung-danh-gia-vinfast-vf-9-trai-nghiem-sang-trong-chi-phi-van-hanh-toi-uu-20260511095756694.htm) - 03:08 11/05/2026
-- 🐻 [Ô tô bất ngờ rơi bánh khi đang chạy giữa đường](https://dantri.com.vn/o-to-xe-may/o-to-bat-ngo-roi-banh-khi-dang-chay-giua-duong-20260509142803304.htm) - 00:21 11/05/2026
-- ⛽️ [Giá Mazda CX-5 tiếp tục &quot;dò đáy&quot;, khởi điểm 678 triệu đồng](https://dantri.com.vn/o-to-xe-may/gia-mazda-cx-5-tiep-tuc-do-day-khoi-diem-678-trieu-dong-20260505055602590.htm) - 00:13 11/05/2026
-- 🫣 [Xe điện Wuling Bingo bốc cháy khi đang đỗ](https://dantri.com.vn/o-to-xe-may/xe-dien-wuling-bingo-boc-chay-khi-dang-do-20260509135812137.htm) - 09:07 10/05/2026
-- 💡 [Người dân Cần Thơ trải nghiệm xe điện đổi pin VinFast](https://dantri.com.vn/o-to-xe-may/nguoi-dan-can-tho-trai-nghiem-xe-dien-doi-pin-vinfast-20260510152331319.htm) - 09:04 10/05/2026
-- 💪 [Stargazer cải thiện sức tiêu thụ](https://dantri.com.vn/o-to-xe-may/stargazer-cai-thien-suc-tieu-thu-20260510142237386.htm) - 09:03 10/05/2026
-- 🎬 [Audi Việt Nam cuốn vào cuộc đua giảm giá xe](https://dantri.com.vn/o-to-xe-may/audi-viet-nam-cuon-vao-cuoc-dua-giam-gia-xe-20260509213615178.htm) - 02:01 10/05/2026<!-- dantri-o-to-xe-may:END -->
+- 🎓 [Suzuki Fronx giảm gần 100 triệu tại đại lý, giá khởi điểm rẻ nhất phân khúc](https://dantri.com.vn/o-to-xe-may/suzuki-fronx-giam-gan-100-trieu-tai-dai-ly-gia-khoi-diem-re-nhat-phan-khuc-20260515154728153.htm) - 00:24 16/05/2026
+- 🌊 [Honda tái cấu trúc sau năm tài chính thua lỗ lịch sử](https://dantri.com.vn/o-to-xe-may/honda-tai-cau-truc-sau-nam-tai-chinh-thua-lo-lich-su-20260515145156370.htm) - 00:18 16/05/2026
+- 🥷 [Green SM hợp tác 75 doanh nghiệp Philippines, hướng tới triển khai 18.497 ô tô điện VinFast](https://dantri.com.vn/o-to-xe-may/green-sm-hop-tac-75-doanh-nghiep-philippines-huong-toi-trien-khai-18497-o-to-dien-vinfast-20260515183459507.htm) - 11:46 15/05/2026
+- 🤩 [Những lầm tưởng về sạc xe điện qua đêm](https://dantri.com.vn/o-to-xe-may/nhung-lam-tuong-ve-sac-xe-dien-qua-dem-20260515154954058.htm) - 10:10 15/05/2026
+- 🫶 [Thaco Auto sẽ phân phối các thương hiệu ô tô mới nào?](https://dantri.com.vn/o-to-xe-may/thaco-auto-se-phan-phoi-cac-thuong-hieu-o-to-moi-nao-20260515132254885.htm) - 07:42 15/05/2026
+- 🎭 [BYD và Huawei phô diễn công nghệ ô tô đi bằng 3 bánh](https://dantri.com.vn/o-to-xe-may/byd-va-huawei-pho-dien-cong-nghe-o-to-di-bang-3-banh-20260515115032624.htm) - 07:32 15/05/2026
+- 🌁 [New Sorento - Mẫu SUV cao cấp 7 chỗ có doanh số dẫn đầu tại Hàn Quốc và toàn cầu](https://dantri.com.vn/o-to-xe-may/new-sorento-mau-suv-cao-cap-7-cho-co-doanh-so-dan-dau-tai-han-quoc-va-toan-cau-20260515141339987.htm) - 07:30 15/05/2026
+- 🦩 [VinFast mở rộng mạng lưới dịch vụ và đối tác quốc tế](https://dantri.com.vn/o-to-xe-may/vinfast-mo-rong-mang-luoi-dich-vu-va-doi-tac-quoc-te-20260515103447289.htm) - 03:49 15/05/2026
+- 🕴 [Trì hoãn làm xe điện, Mazda tập trung vào xe hybrid](https://dantri.com.vn/o-to-xe-may/tri-hoan-lam-xe-dien-mazda-tap-trung-vao-xe-hybrid-20260514235612185.htm) - 03:44 15/05/2026
+- 🎡 [Xe sang nội địa Trung Quốc đẩy lùi Maybach, Porsche](https://dantri.com.vn/o-to-xe-may/xe-sang-noi-dia-trung-quoc-day-lui-maybach-porsche-20260514122518897.htm) - 23:38 14/05/2026
+- 📝 [Cách để Malaysia phát triển ngành ô tô điện trong nước](https://dantri.com.vn/o-to-xe-may/cach-de-malaysia-phat-trien-nganh-o-to-dien-trong-nuoc-20260514150104253.htm) - 23:37 14/05/2026
+- 🧐 [Ô tô quay đầu bất cẩn, đè bẹp xe máy](https://dantri.com.vn/o-to-xe-may/o-to-quay-dau-bat-can-de-bep-xe-may-20260513161042231.htm) - 23:36 14/05/2026
+- 🪄 [Học sinh Bắc Ninh thử xe điện VinFast tại sự kiện “Phủ xanh trường học 2026”](https://dantri.com.vn/o-to-xe-may/hoc-sinh-bac-ninh-thu-xe-dien-vinfast-tai-su-kien-phu-xanh-truong-hoc-2026-20260514153401985.htm) - 09:09 14/05/2026
+- 🧰 [&quot;Luật đã cấm quay đầu trên vạch đi bộ bao lâu nay, sao giờ còn tranh cãi?&quot;](https://dantri.com.vn/o-to-xe-may/luat-da-cam-quay-dau-tren-vach-di-bo-bao-lau-nay-sao-gio-con-tranh-cai-20260514124401594.htm) - 07:42 14/05/2026
+- 🚀 [Honda CB350C: Mô tô dáng cổ điển nhập từ Ấn Độ, giá 185 triệu đồng](https://dantri.com.vn/o-to-xe-may/honda-cb350c-mo-to-dang-co-dien-nhap-tu-an-do-gia-185-trieu-dong-20260513234558666.htm) - 06:51 14/05/2026
+- 💪 [Tháng thứ hai mở bán, Omoda C5 hybrid vẫn được giảm giá hàng chục triệu](https://dantri.com.vn/o-to-xe-may/thang-thu-hai-mo-ban-omoda-c5-hybrid-van-duoc-giam-gia-hang-chuc-trieu-20260514115626682.htm) - 06:50 14/05/2026
+- 🔥 [Malaysia siết quy định, hạn chế nhập khẩu ô tô điện giá rẻ](https://dantri.com.vn/o-to-xe-may/malaysia-siet-quy-dinh-han-che-nhap-khau-o-to-dien-gia-re-20260513143305889.htm) - 06:00 14/05/2026
+- 🐲 [Toyota Hilux ngược dòng tăng doanh số nhưng vẫn thua Ford Ranger](https://dantri.com.vn/o-to-xe-may/toyota-hilux-nguoc-dong-tang-doanh-so-nhung-van-thua-ford-ranger-20260513123841562.htm) - 03:07 14/05/2026
+- 🌋 [Audi Q9 được trang bị cửa đóng, mở điện như xe Rolls-Royce](https://dantri.com.vn/o-to-xe-may/audi-q9-duoc-trang-bi-cua-dong-mo-dien-nhu-xe-rolls-royce-20260513105956137.htm) - 01:34 14/05/2026
+- 🤩 [Loạt ô tô xăng dầu bán chạy trong tháng 4: Seltos và CR-V trở lại](https://dantri.com.vn/o-to-xe-may/loat-o-to-xang-dau-ban-chay-trong-thang-4-seltos-va-cr-v-tro-lai-20260513114036306.htm) - 01:34 14/05/2026
+- 😺 [Xe điện Toyota bán chạy tại Trung Quốc](https://dantri.com.vn/o-to-xe-may/xe-dien-toyota-ban-chay-tai-trung-quoc-20260512161501848.htm) - 01:33 14/05/2026
+- 👍 [Những lỗi giao thông phổ biến nhưng nhiều người ngỡ ngàng khi bị phạt](https://dantri.com.vn/o-to-xe-may/nhung-loi-giao-thong-pho-bien-nhung-nhieu-nguoi-ngo-ngang-khi-bi-phat-20260513192245738.htm) - 23:58 13/05/2026
+- 🎃 [Lãnh đạo VinFast nói gì về nghi vấn từ bỏ ngành ô tô?](https://dantri.com.vn/o-to-xe-may/lanh-dao-vinfast-noi-gi-ve-nghi-van-tu-bo-nganh-o-to-20260513203658767.htm) - 13:41 13/05/2026
+- ⚗️ [Hành vi nào là vượt ẩu trên cao tốc và bị đề xuất phạt tới 6 triệu đồng?](https://dantri.com.vn/o-to-xe-may/hanh-vi-nao-la-vuot-au-tren-cao-toc-va-bi-de-xuat-phat-toi-6-trieu-dong-20260513160613012.htm) - 10:29 13/05/2026
+- 🦄 [Veloz Cross ghi nhận doanh số kỷ lục nhưng chưa phải mẫu MPV hút khách nhất](https://dantri.com.vn/o-to-xe-may/veloz-cross-ghi-nhan-doanh-so-ky-luc-nhung-chua-phai-mau-mpv-hut-khach-nhat-20260513103200690.htm) - 08:00 13/05/2026
+- 😺 [10 ô tô bán chạy tháng 4: xe điện giảm hiện diện, Veloz Cross tạo bất ngờ](https://dantri.com.vn/o-to-xe-may/10-o-to-ban-chay-thang-4-xe-dien-giam-hien-dien-veloz-cross-tao-bat-ngo-20260513094104306.htm) - 07:59 13/05/2026
+- 💼 [Thói quen bám làn trái trên cao tốc và những tiềm ẩn nguy cơ mất an toàn](https://dantri.com.vn/o-to-xe-may/thoi-quen-bam-lan-trai-tren-cao-toc-va-nhung-tiem-an-nguy-co-mat-an-toan-20260511112110442.htm) - 06:52 13/05/2026
+- 💃 [Ford Everest 2026 có cần sử dụng phụ gia để giảm khí thải?](https://dantri.com.vn/o-to-xe-may/ford-everest-2026-co-can-su-dung-phu-gia-de-giam-khi-thai-20260512140217237.htm) - 04:37 13/05/2026
+- 🚀 [VinFast VF 9 ghi điểm nhờ không gian rộng và nhiều tiện nghi](https://dantri.com.vn/o-to-xe-may/vinfast-vf-9-ghi-diem-nho-khong-gian-rong-va-nhieu-tien-nghi-20260513103632680.htm) - 03:44 13/05/2026
+- 🤩 [Đối tác Trung Quốc giúp Audi làm được SUV điện lớn hơn Q7 nhưng rẻ hơn Q3](https://dantri.com.vn/o-to-xe-may/doi-tac-trung-quoc-giup-audi-lam-duoc-suv-dien-lon-hon-q7-nhung-re-hon-q3-20260513003311946.htm) - 00:50 13/05/2026
+- 💪 [Loạt ô tô bán chậm trong tháng 4: Xe giảm giá hàng trăm triệu vẫn kén khách](https://dantri.com.vn/o-to-xe-may/loat-o-to-ban-cham-trong-thang-4-xe-giam-gia-hang-tram-trieu-van-ken-khach-20260512132452812.htm) - 00:15 13/05/2026
+- 🏊 [VinFast bán 24.774 ô tô điện trong tháng 4](https://dantri.com.vn/o-to-xe-may/vinfast-ban-24774-o-to-dien-trong-thang-4-20260512190615536.htm) - 12:57 12/05/2026
+- 💄 [Xe phân khối lớn mắc kẹt trên cột đèn giao thông sau va chạm với ô tô](https://dantri.com.vn/o-to-xe-may/xe-phan-khoi-lon-mac-ket-tren-cot-den-giao-thong-sau-va-cham-voi-o-to-20260512110435682.htm) - 11:42 12/05/2026
+- 👺 [Hyundai đề xuất triệu hồi hơn 3.700 chiếc Tucson](https://dantri.com.vn/o-to-xe-may/hyundai-de-xuat-trieu-hoi-hon-3700-chiec-tucson-20260512145836201.htm) - 11:38 12/05/2026
+- ⚗️ [Học sinh TPHCM trải nghiệm xe máy điện mới Amio của VinFast](https://dantri.com.vn/o-to-xe-may/hoc-sinh-tphcm-trai-nghiem-xe-may-dien-moi-amio-cua-vinfast-20260512154425957.htm) - 08:49 12/05/2026
+- 🧑‍🏫 [Toyota Corolla Cross có gói độ nội thất như xe Rolls-Royce](https://dantri.com.vn/o-to-xe-may/toyota-corolla-cross-co-goi-do-noi-that-nhu-xe-rolls-royce-20260512144241580.htm) - 08:24 12/05/2026
+- 🦒 [Audi S6 Sportback e-tron ra mắt khách Việt, giá từ 4,2 tỷ đồng](https://dantri.com.vn/o-to-xe-may/audi-s6-sportback-e-tron-ra-mat-khach-viet-gia-tu-42-ty-dong-20260512125026990.htm) - 07:03 12/05/2026
+- 🐘 [Đạt doanh số kỷ lục, Mustang Mach-E vẫn trong top 10 xe bán chậm tháng 4](https://dantri.com.vn/o-to-xe-may/dat-doanh-so-ky-luc-mustang-mach-e-van-trong-top-10-xe-ban-cham-thang-4-20260512124825923.htm) - 06:09 12/05/2026
+- 🧠 [Xe giá rẻ Trung Quốc có trang bị mà BMW và Mercedes phải bỏ vì đắt](https://dantri.com.vn/o-to-xe-may/xe-gia-re-trung-quoc-co-trang-bi-ma-bmw-va-mercedes-phai-bo-vi-dat-20260512102447843.htm) - 04:43 12/05/2026
+- 🐵 [BYD dọa kiện nhiều tài khoản mạng xã hội](https://dantri.com.vn/o-to-xe-may/byd-doa-kien-nhieu-tai-khoan-mang-xa-hoi-20260511084357147.htm) - 00:55 12/05/2026
+- 🤭 [Xe bán tải Ram 1500 mất nửa giá sau 4 năm sử dụng](https://dantri.com.vn/o-to-xe-may/xe-ban-tai-ram-1500-mat-nua-gia-sau-4-nam-su-dung-20260511005759294.htm) - 00:51 12/05/2026
+- 🤠 [Xe điện ở Trung Quốc giảm một nửa tầm hoạt động sau khi cập nhật phần mềm?](https://dantri.com.vn/o-to-xe-may/xe-dien-o-trung-quoc-giam-mot-nua-tam-hoat-dong-sau-khi-cap-nhat-phan-mem-20260511234712596.htm) - 00:49 12/05/2026
+- 🫶 [VinFast được vinh danh “Nhà sản xuất xe điện của năm”](https://dantri.com.vn/o-to-xe-may/vinfast-duoc-vinh-danh-nha-san-xuat-xe-dien-cua-nam-20260511171450450.htm) - 10:30 11/05/2026
+- 🚀 [SUV lạ xuất hiện trên đường, có thể là VinFast VF 8 hoàn toàn mới](https://dantri.com.vn/o-to-xe-may/suv-la-xuat-hien-tren-duong-co-the-la-vinfast-vf-8-hoan-toan-moi-20260511142416577.htm) - 09:53 11/05/2026
+- 🎊 [Chiếc Tesla chạy hơn 610.000km cho thấy cả ưu và nhược điểm của ô tô điện](https://dantri.com.vn/o-to-xe-may/chiec-tesla-chay-hon-610000km-cho-thay-ca-uu-va-nhuoc-diem-cua-o-to-dien-20260511102620113.htm) - 09:40 11/05/2026
+- 🦄 [Subaru bị kiện ở Mỹ vì xe hút cạn ắc quy ngay cả khi đỗ](https://dantri.com.vn/o-to-xe-may/subaru-bi-kien-o-my-vi-xe-hut-can-ac-quy-ngay-ca-khi-do-20260510231851478.htm) - 06:44 11/05/2026
+- 🥷 [Mercedes C-Class số sàn rao 180 triệu đồng, người bán lưu ý &quot;xe đời sâu&quot;](https://dantri.com.vn/o-to-xe-may/mercedes-c-class-so-san-rao-180-trieu-dong-nguoi-ban-luu-y-xe-doi-sau-20260430231352263.htm) - 06:36 11/05/2026
+- 🦏 [Những điểm mới trong đào tạo lái xe có hiệu lực từ ngày 1/7](https://dantri.com.vn/o-to-xe-may/nhung-diem-moi-trong-dao-tao-lai-xe-co-hieu-luc-tu-ngay-17-20260511121359034.htm) - 06:35 11/05/2026
+- 🤗 [Mazda Việt Nam giới thiệu Mazda3 1.5 Deluxe giá 569 triệu đồng và ưu đãi cho CX-30](https://dantri.com.vn/o-to-xe-may/mazda-viet-nam-gioi-thieu-mazda3-15-deluxe-gia-569-trieu-dong-va-uu-dai-cho-cx-30-20260511105559740.htm) - 04:30 11/05/2026
+- 🐲 [Mitsubishi Xforce 2026 ra mắt, tăng nhẹ giá bán](https://dantri.com.vn/o-to-xe-may/mitsubishi-xforce-2026-ra-mat-tang-nhe-gia-ban-20260511101953431.htm) - 04:19 11/05/2026
+- 🤭 [Xe điện Trung Quốc tạo áp lực mới lên ngành ô tô toàn cầu](https://dantri.com.vn/o-to-xe-may/xe-dien-trung-quoc-tao-ap-luc-moi-len-nganh-o-to-toan-cau-20260506153150255.htm) - 03:25 11/05/2026
+- 🐻 [Người dùng đánh giá VinFast VF 9: Trải nghiệm sang trọng, chi phí vận hành tối ưu](https://dantri.com.vn/o-to-xe-may/nguoi-dung-danh-gia-vinfast-vf-9-trai-nghiem-sang-trong-chi-phi-van-hanh-toi-uu-20260511095756694.htm) - 03:08 11/05/2026
+- ⛽️ [Ô tô bất ngờ rơi bánh khi đang chạy giữa đường](https://dantri.com.vn/o-to-xe-may/o-to-bat-ngo-roi-banh-khi-dang-chay-giua-duong-20260509142803304.htm) - 00:21 11/05/2026
+- 🫣 [Giá Mazda CX-5 tiếp tục &quot;dò đáy&quot;, khởi điểm 678 triệu đồng](https://dantri.com.vn/o-to-xe-may/gia-mazda-cx-5-tiep-tuc-do-day-khoi-diem-678-trieu-dong-20260505055602590.htm) - 00:13 11/05/2026
+- 💡 [Xe điện Wuling Bingo bốc cháy khi đang đỗ](https://dantri.com.vn/o-to-xe-may/xe-dien-wuling-bingo-boc-chay-khi-dang-do-20260509135812137.htm) - 09:07 10/05/2026
+- 💪 [Người dân Cần Thơ trải nghiệm xe điện đổi pin VinFast](https://dantri.com.vn/o-to-xe-may/nguoi-dan-can-tho-trai-nghiem-xe-dien-doi-pin-vinfast-20260510152331319.htm) - 09:04 10/05/2026
+- 🎬 [Stargazer cải thiện sức tiêu thụ](https://dantri.com.vn/o-to-xe-may/stargazer-cai-thien-suc-tieu-thu-20260510142237386.htm) - 09:03 10/05/2026<!-- dantri-o-to-xe-may:END -->
