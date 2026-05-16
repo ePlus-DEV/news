@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Ca sĩ Miu Lê bị khởi tố, bắt tạm giam](https://vov.vn/phap-luat/ca-si-miu-le-bi-khoi-to-bat-tam-giam-post1292465.vov) - 14:35 16/05/2026
-- 🕯 [Trực tiếp Chelsea 0-0 Man City: Haaland bị từ chối bàn thắng](https://vov.vn/the-thao/truc-tiep-chelsea-0-0-man-city-haaland-bi-tu-choi-ban-thang-post1292350.vov) - 14:29 16/05/2026
-- 🌊 [Trực tiếp Chelsea 0-0 Man City: Haaland bị từ chối bàn thắng](https://vov.vn/the-thao/truc-tiep-chelsea-0-0-man-city-haaland-bi-tu-choi-ban-thang-post1292350.vov) - 14:29 16/05/2026
-- 🥷 [Kết quả vòng 23 V-League: Ninh Bình thắng ngược SLNA, Hải Phòng hạ gục CLB TP.HCM](https://vov.vn/the-thao/ket-qua-vong-23-v-league-ninh-binh-thang-nguoc-slna-hai-phong-ha-guc-clb-tphcm-post1292347.vov) - 12:57 16/05/2026
-- 🎡 [Tai nạn liên tiếp giữa 3 xe tải, quốc lộ 14 qua Đồng Nai ùn tắc gần 5km](https://vov.vn/xa-hoi/tai-nan-lien-tiep-giua-3-xe-tai-quoc-lo-14-qua-dong-nai-un-tac-gan-5km-post1292407.vov) - 09:56 16/05/2026
-- 🚀 [Cận cảnh dông lốc cực mạnh làm hàng loạt cây xanh ngã đổ tại xã Ea Kar, Đắk Lắk](https://vov.vn/xa-hoi/can-canh-dong-loc-cuc-manh-lam-hang-loat-cay-xanh-nga-do-tai-xa-ea-kar-dak-lak-post1292369.vov) - 07:09 16/05/2026
-- 🔥 [Nga “đánh chậm, ép lâu”, siết chặt Ukraine trên mọi mặt trận](https://vov.vn/the-gioi/quan-sat/nga-danh-cham-ep-lau-siet-chat-ukraine-tren-moi-mat-tran-post1292355.vov) - 07:04 16/05/2026
-- 🌋 [Khởi tố, bắt giam cán bộ công ty dầu khí Cửu Long tham ô hơn 5 tỷ đồng](https://vov.vn/phap-luat/khoi-to-bat-giam-can-bo-cong-ty-dau-khi-cuu-long-tham-o-hon-5-ty-dong-post1292367.vov) - 06:41 16/05/2026
-- 🕴 [Gỡ vướng mắc trong ban hành quyết định hành chính](https://vov.vn/chinh-tri/go-vuong-mac-trong-ban-hanh-quyet-dinh-hanh-chinh-post1291798.vov) - 06:30 16/05/2026
-- 🥰 [Từ giáo dục Israel nghĩ về cách dạy lòng yêu nước](https://vov.vn/xa-hoi/tu-giao-duc-israel-nghi-ve-cach-day-long-yeu-nuoc-post1292348.vov) - 05:51 16/05/2026
-- 🧐 [Khởi tố ca sĩ Bolero Quang Lập và Tổng giám đốc Công ty BH Media](https://vov.vn/phap-luat/khoi-to-ca-si-bolero-quang-lap-va-tong-giam-doc-cong-ty-bh-media-post1292358.vov) - 05:50 16/05/2026<!-- vov:END -->
+- 🌜 [Để thua U17 Australia, U17 Việt Nam dừng bước tại tứ kết U17 châu Á 2026](https://vov.vn/the-thao/de-thua-u17-australia-u17-viet-nam-dung-buoc-tai-tu-ket-u17-chau-a-2026-post1292360.vov) - 18:55 16/05/2026
+- 🕯 [Ca sĩ Miu Lê bị khởi tố, bắt tạm giam](https://vov.vn/phap-luat/ca-si-miu-le-bi-khoi-to-bat-tam-giam-post1292465.vov) - 14:35 16/05/2026
+- 🌊 [Cận cảnh dông lốc cực mạnh làm hàng loạt cây xanh ngã đổ tại xã Ea Kar, Đắk Lắk](https://vov.vn/xa-hoi/can-canh-dong-loc-cuc-manh-lam-hang-loat-cay-xanh-nga-do-tai-xa-ea-kar-dak-lak-post1292369.vov) - 07:09 16/05/2026
+- 🥷 [Nga “đánh chậm, ép lâu”, siết chặt Ukraine trên mọi mặt trận](https://vov.vn/the-gioi/quan-sat/nga-danh-cham-ep-lau-siet-chat-ukraine-tren-moi-mat-tran-post1292355.vov) - 07:04 16/05/2026
+- 🎡 [Khởi tố, bắt giam cán bộ công ty dầu khí Cửu Long tham ô hơn 5 tỷ đồng](https://vov.vn/phap-luat/khoi-to-bat-giam-can-bo-cong-ty-dau-khi-cuu-long-tham-o-hon-5-ty-dong-post1292367.vov) - 06:41 16/05/2026
+- 🚀 [Gỡ vướng mắc trong ban hành quyết định hành chính](https://vov.vn/chinh-tri/go-vuong-mac-trong-ban-hanh-quyet-dinh-hanh-chinh-post1291798.vov) - 06:30 16/05/2026
+- 🔥 [Từ giáo dục Israel nghĩ về cách dạy lòng yêu nước](https://vov.vn/xa-hoi/tu-giao-duc-israel-nghi-ve-cach-day-long-yeu-nuoc-post1292348.vov) - 05:51 16/05/2026
+- 🌋 [Khởi tố ca sĩ Bolero Quang Lập và Tổng giám đốc Công ty BH Media](https://vov.vn/phap-luat/khoi-to-ca-si-bolero-quang-lap-va-tong-giam-doc-cong-ty-bh-media-post1292358.vov) - 05:50 16/05/2026
+- 🕴 [Hà Nội: Xe buýt bốc cháy gần Trường THPT Việt Đức, hành khách kịp thời thoát nạn](https://vov.vn/xa-hoi/ha-noi-xe-buyt-boc-chay-gan-truong-thpt-viet-duc-hanh-khach-kip-thoi-thoat-nan-post1292341.vov) - 04:09 16/05/2026
+- 🥰 [Nhiều điểm nghẽn sau 1 năm chính quyền địa phương hai cấp tại Đắk Lắk](https://vov.vn/chinh-tri/nhieu-diem-nghen-sau-1-nam-chinh-quyen-dia-phuong-hai-cap-tai-dak-lak-post1292311.vov) - 02:21 16/05/2026
+- 🧐 [Tuyển sinh theo bản đồ số: Nỗi lo phân tuyến, phụ huynh đứng ngồi không yên](https://vov.vn/xa-hoi/tuyen-sinh-theo-ban-do-so-noi-lo-phan-tuyen-phu-huynh-dung-ngoi-khong-yen-post1292022.vov) - 00:00 16/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
