@@ -537,7 +537,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Bài tham gia Hội thi Sáng tác văn học: học sinh Trường THCS Tùng Thiện Vương mơ gì về tương lai?](https://muctim.tuoitre.vn/bai-tham-gia-hoi-thi-sang-tac-van-hoc-hoc-sinh-truong-thcs-tung-thien-vuong-mo-gi-ve-tuong-lai-101260505140632735.htm) - 14:07 16/05/2026
 - 👨‍🏫 [Lạ đời với dàn siêu anh hùng &#39;báo thủ&#39; của The wonderfools](https://muctim.tuoitre.vn/la-doi-voi-dan-sieu-anh-hung-bao-thu-cua-the-wonderfools-101260516102217773.htm) - 14:06 16/05/2026
 - 🚦 [Cuối tuần này đến Đường sách TP.HCM check-in với Doraemon](https://muctim.tuoitre.vn/cuoi-tuan-nay-den-duong-sach-tphcm-check-in-voi-doraemon-101260516194631314.htm) - 14:05 16/05/2026
-- 🤭 [Trực tiếp tứ kết U17 châu Á: U17 Việt Nam 0-0 U17 Úc &lpar;H1&rpar;](https://muctim.tuoitre.vn/truc-tiep-tu-ket-u17-chau-a-u17-viet-nam-u17-uc-101260516152152414.htm) - 13:59 16/05/2026
+- 🤭 [Thất bại 0-3 trước U17 Úc, U17 Việt Nam dừng bước ở tứ kết U17 châu Á](https://muctim.tuoitre.vn/truc-tiep-tu-ket-u17-chau-a-u17-viet-nam-u17-uc-101260516152152414.htm) - 13:59 16/05/2026
 - 😺 [Học sinh Trường THPT Nguyễn Thị Minh Khai hát nhạc tự sáng tác trong lễ trưởng thành](https://muctim.tuoitre.vn/hoc-sinh-truong-thpt-nguyen-thi-minh-khai-hat-nhac-tu-sang-tac-trong-le-truong-thanh-101260516192821121.htm) - 13:39 16/05/2026
 - 😎 [Truyện ngắn Mực Tím: Một tin nhắn chưa kịp trả lời](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-mot-tin-nhan-chua-kip-tra-loi-101260512071420716.htm) - 13:00 16/05/2026
 - 🐎 [Al Nassr - Gamba Osaka: Ronaldo và đồng đội vô địch AFC Champions League Two?](https://muctim.tuoitre.vn/al-nassr-gamba-osaka-ronaldo-va-dong-doi-vo-dich-afc-champions-league-two-10126051617134212.htm) - 12:43 16/05/2026
