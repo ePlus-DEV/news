@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ghẹ Việt tiếp tục được bán vào Mỹ](https://vnexpress.net/ghe-viet-tiep-tuc-duoc-ban-vao-my-5073260.html) - 02:22 13/05/2026
-- 🐲 [Rắc rối vì nợ thuế &#39;trên trời rơi xuống&#39;](https://vnexpress.net/rac-roi-vi-no-thue-tren-troi-roi-xuong-5073185.html) - 00:00 13/05/2026
-- 🔥 [Vì sao nhà đầu tư &#39;chưa về bờ&#39; dù VN-Index vượt đỉnh?](https://vnexpress.net/vi-sao-nha-dau-tu-chua-ve-bo-du-vn-index-vuot-dinh-5072532.html) - 23:08 12/05/2026
-- 🐵 [Giới đầu tư kỳ vọng gì vào thượng đỉnh Mỹ - Trung?](https://vnexpress.net/gioi-dau-tu-ky-vong-gi-vao-thuong-dinh-my-trung-5073144.html) - 17:08 12/05/2026
-- 🦅 [Cơ hội hồi sinh xuất khẩu năng lượng của Mỹ sang Trung Quốc](https://vnexpress.net/co-hoi-hoi-sinh-xuat-khau-nang-luong-cua-my-sang-trung-quoc-5073052.html) - 17:05 12/05/2026
-- 😺 [Doanh nghiệp Trung Quốc thâu tóm &#39;ông lớn&#39; thuốc kháng sinh Imexpharm](https://vnexpress.net/doanh-nghiep-trung-quoc-thau-tom-ong-lon-thuoc-khang-sinh-imexpharm-5073089.html) - 09:21 12/05/2026
-- 🤩 [VN-Index quay lại mốc 1.900 điểm](https://vnexpress.net/vn-index-quay-lai-moc-1-900-diem-5073096.html) - 09:10 12/05/2026
-- 🌮 [Liên danh CII - IMIC được giao nghiên cứu cải tạo trục hạ tầng Hàng Xanh - Bình Triệu](https://vnexpress.net/lien-danh-cii-imic-duoc-giao-nghien-cuu-cai-tao-truc-ha-tang-hang-xanh-binh-trieu-5073064.html) - 08:42 12/05/2026
-- 🧰 [SJC lãi kỷ lục dù doanh thu thấp nhất 10 năm](https://vnexpress.net/sjc-lai-ky-luc-du-doanh-thu-thap-nhat-10-nam-5072912.html) - 05:13 12/05/2026
-- 🤔 [EU rót hơn 230 tỷ USD vào pin, xe điện để giảm phụ thuộc Trung Quốc](https://vnexpress.net/eu-rot-hon-230-ty-usd-vao-pin-xe-dien-de-giam-phu-thuoc-trung-quoc-5072856.html) - 05:05 12/05/2026
-- 🧑‍💻 [Giá vàng miếng quay đầu giảm](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-5-5072929.html) - 04:22 12/05/2026
-- 🕴 [Nguy cơ xảy ra cú sốc năng lượng lần hai của châu Á](https://vnexpress.net/nguy-co-xay-ra-cu-soc-nang-luong-lan-hai-cua-chau-a-5072560.html) - 22:42 11/05/2026
-- 🦩 [Lãi suất tiết kiệm ngân hàng nào cao nhất?](https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5072646.html) - 22:33 11/05/2026
-- 👍 [&#39;Cá voi&#39; Bitcoin trị giá 40 triệu USD thức giấc](https://vnexpress.net/ca-voi-bitcoin-tri-gia-40-trieu-usd-thuc-giac-5072749.html) - 14:19 11/05/2026
-- 🏊 [Hãng taxi mua 1.500 ôtô điện VinFast](https://vnexpress.net/hang-taxi-mua-1-500-oto-dien-vinfast-5072736.html) - 12:00 11/05/2026
-- 🤡 [Việt Nam chi hơn 2,6 tỷ USD nhập ngô, lúa mì, đậu tương](https://vnexpress.net/viet-nam-chi-hon-2-6-ty-usd-nhap-ngo-lua-mi-dau-tuong-5072566.html) - 09:02 11/05/2026
-- 👀 [VN-Index giảm gần 20 điểm phiên đầu tuần](https://vnexpress.net/vn-index-giam-gan-20-diem-phien-dau-tuan-5072618.html) - 08:49 11/05/2026
-- 😺 [Ấn Độ không tăng thuế nhập khẩu vàng, bạc](https://vnexpress.net/an-do-khong-tang-thue-nhap-khau-vang-bac-5072607.html) - 08:47 11/05/2026
-- 🦣 [Australia điều tra bán phá giá hai công ty thép Việt Nam](https://vnexpress.net/australia-dieu-tra-ban-pha-gia-hai-cong-ty-thep-viet-nam-5072568.html) - 08:02 11/05/2026
-- 😺 [Mỹ để ngỏ mọi phương án hạ giá xăng](https://vnexpress.net/my-de-ngo-moi-phuong-an-ha-gia-xang-5072425.html) - 07:05 11/05/2026
-- 💼 [Tiểu thương co kéo từng cm khi dẹp vỉa hè](https://vnexpress.net/tieu-thuong-co-keo-tung-cm-khi-dep-via-he-5071913.html) - 05:16 11/05/2026
-- 🤗 [MSR đạt doanh thu gần 3.000 tỷ trong quý I](https://vnexpress.net/msr-dat-doanh-thu-gan-3-000-ty-trong-quy-i-5072256.html) - 02:00 11/05/2026
-- 👀 [Giá dầu thô tăng khi Mỹ - Iran bất đồng về đề xuất hòa bình](https://vnexpress.net/gia-dau-tho-tang-khi-my-iran-bat-dong-ve-de-xuat-hoa-binh-5072295.html) - 00:57 11/05/2026
-- 🎓 [VN-Index được dự đoán sớm vượt 2.000 điểm](https://vnexpress.net/vn-index-duoc-du-doan-som-vuot-2-000-diem-5072145.html) - 17:05 10/05/2026
-- 🗽 [Chuỗi nhà thuốc của Thế Giới Di Động sắp hết lỗ](https://vnexpress.net/chuoi-nha-thuoc-cua-the-gioi-di-dong-sap-het-lo-5072234.html) - 17:02 10/05/2026
-- 🚀 [Giá vàng tuần này có thể tăng](https://vnexpress.net/gia-vang-tuan-nay-co-the-tang-5072198.html) - 17:00 10/05/2026
-- 🤗 [Sổ đỏ cấp sai quy định được xem xét điều chỉnh, nộp bổ sung thuế](https://vnexpress.net/so-do-cap-sai-quy-dinh-duoc-xem-xet-dieu-chinh-nop-bo-sung-thue-5072135.html) - 10:40 10/05/2026
-- 🌜 [Trung Quốc tăng mạnh xuất nhập khẩu](https://vnexpress.net/trung-quoc-tang-manh-xuat-nhap-khau-5072090.html) - 08:05 10/05/2026
-- 👍 [Ông Trump: Nghỉ hưu ở Mỹ với 465.000 USD là &#39;giàu có&#39;](https://vnexpress.net/ong-trump-nghi-huu-o-my-voi-465-000-usd-la-giau-co-5072109.html) - 06:15 10/05/2026
-- 🤖 [Đề xuất doanh nghiệp nộp thuế thay người gom ve chai, phế liệu](https://vnexpress.net/de-xuat-doanh-nghiep-nop-thue-thay-nguoi-gom-ve-chai-phe-lieu-5072084.html) - 05:48 10/05/2026
-- 🫣 [Em trai ông Đào Hữu Huyền làm chủ tịch Hóa chất Đức Giang](https://vnexpress.net/em-trai-ong-dao-huu-huyen-lam-chu-tich-hoa-chat-duc-giang-5072082.html) - 02:57 10/05/2026
-- 🌏 [Kinh tế Việt - Ấn: Rộng cửa đón tỷ USD](https://vnexpress.net/kinh-te-viet-an-rong-cua-don-ty-usd-5072031.html) - 00:00 10/05/2026
-- ⚗️ [MSCI và FTSE khác nhau thế nào trong nâng hạng thị trường chứng khoán?](https://vnexpress.net/msci-va-ftse-khac-nhau-the-nao-trong-nang-hang-thi-truong-chung-khoan-5070886.html) - 17:02 09/05/2026
-- 🕯 [Việt Nam chi gần tỷ USD nhập hạt điều trong một tháng](https://vnexpress.net/viet-nam-chi-gan-ty-usd-nhap-hat-dieu-trong-mot-thang-5071916.html) - 12:58 09/05/2026
-- 👍 [Cuộc thi UOB Painting of the Year 2026 chính thức khởi động](https://vnexpress.net/cuoc-thi-uob-painting-of-the-year-2026-chinh-thuc-khoi-dong-5071581.html) - 12:00 09/05/2026
-- 🤠 [Đa dạng hoạt động tại gian hàng FPT Shop ở Vietnam GameVerse 2026](https://vnexpress.net/da-dang-hoat-dong-tai-gian-hang-fpt-shop-o-vietnam-gameverse-2026-5071890.html) - 08:00 09/05/2026
-- 🌊 [Có nên bán nhà Hà Nội khi giá đã giảm 1 tỷ đồng?](https://vnexpress.net/co-nen-ban-nha-ha-noi-khi-gia-da-giam-1-ty-dong-5071849.html) - 06:00 09/05/2026
-- 🌈 [Niềm tin tiêu dùng của người Mỹ thấp kỷ lục](https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-ky-luc-5071760.html) - 02:01 09/05/2026
-- 🥳 [ACB hỗ trợ hộ kinh doanh chuyển đổi số](https://vnexpress.net/acb-ho-tro-ho-kinh-doanh-chuyen-doi-so-5071715.html) - 01:00 09/05/2026
-- 🐻 [Nhiều chủ trọ lo lỗ nếu thu tiền điện đúng giá quy định](https://vnexpress.net/nhieu-chu-tro-lo-lo-neu-thu-tien-dien-dung-gia-quy-dinh-5071123.html) - 22:00 08/05/2026
-- 💫 [CEO Nvidia, Apple sẽ cùng ông Trump đến Trung Quốc](https://vnexpress.net/ceo-nvidia-apple-se-cung-ong-trump-den-trung-quoc-5071620.html) - 17:00 08/05/2026
-- 🤩 [Thủ tướng Sri Lanka muốn doanh nghiệp Việt tăng hợp tác thương mại, hàng không](https://vnexpress.net/thu-tuong-sri-lanka-muon-doanh-nghiep-viet-tang-hop-tac-thuong-mai-hang-khong-5071709.html) - 14:48 08/05/2026
-- 💻 [Sắp có đường bay thẳng giữa Việt Nam và Sri Lanka](https://vnexpress.net/sap-co-duong-bay-thang-giua-viet-nam-va-sri-lanka-5071681.html) - 12:38 08/05/2026
-- ⚗️ [Ông Trump ra hạn chót để EU thực hiện thỏa thuận thương mại](https://vnexpress.net/ong-trump-ra-han-chot-de-eu-thuc-hien-thoa-thuan-thuong-mai-5071561.html) - 12:00 08/05/2026
-- 🌈 [Giá gạo xuất khẩu tăng sau thời gian dài lao dốc](https://vnexpress.net/gia-gao-xuat-khau-tang-sau-thoi-gian-dai-lao-doc-5071551.html) - 09:18 08/05/2026
-- 🌝 [VN-Index lên 1.915 điểm](https://vnexpress.net/vn-index-len-1-915-diem-5071587.html) - 08:54 08/05/2026
-- 🥸 [Cổ phiếu PC1 giảm mạnh](https://vnexpress.net/co-phieu-pc1-giam-manh-5071548.html) - 08:21 08/05/2026
-- 🦆 [Hai túi Hermes bạch tạng của bà Trương Mỹ Lan được bán khởi điểm hơn 4 tỷ đồng](https://vnexpress.net/hai-tui-hermes-bach-tang-cua-ba-truong-my-lan-duoc-ban-khoi-diem-hon-4-ty-dong-5071522.html) - 07:34 08/05/2026
-- 🌋 [CEO Hóa chất Đức Giang: Sẽ kế thừa ý chí, tầm nhìn của ông Đào Hữu Huyền](https://vnexpress.net/ceo-hoa-chat-duc-giang-se-ke-thua-y-chi-tam-nhin-cua-ong-dao-huu-huyen-5071498.html) - 06:09 08/05/2026
-- 🦍 [Công ty điện mặt trời của Trung Nam lỗ gần 1.000 tỷ đồng](https://vnexpress.net/cong-ty-dien-mat-troi-cua-trung-nam-lo-gan-1-000-ty-dong-5071456.html) - 05:32 08/05/2026
-- 🤔 [V-Green hợp tác PVOil triển khai hơn 3.000 tủ đổi pin](https://vnexpress.net/v-green-hop-tac-pvoil-trien-khai-hon-3-000-tu-doi-pin-5071452.html) - 05:00 08/05/2026
-- 🧰 [Hãng máy lạnh duy nhất trên sàn lãi kỷ lục](https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5071398.html) - 04:57 08/05/2026
-- 🌝 [Nhật Bản có thể đã chi hơn 60 tỷ USD cứu đồng yen](https://vnexpress.net/nhat-ban-co-the-da-chi-hon-60-ty-usd-cuu-dong-yen-5071431.html) - 04:32 08/05/2026
-- 👍 [Vinpearl hợp tác với ba &#39;ông lớn&#39; lữ hành Ấn Độ](https://vnexpress.net/vinpearl-hop-tac-voi-ba-ong-lon-lu-hanh-an-do-5071401.html) - 03:00 08/05/2026
-- 🗽 [Tòa án Mỹ bác bỏ thuế 10% của ông Trump](https://vnexpress.net/toa-an-my-bac-bo-thue-10-cua-ong-trump-5071311.html) - 00:36 08/05/2026
-- 🐎 [&#39;Cần nâng nợ thuế cấm xuất cảnh người bỏ địa chỉ kinh doanh lên 5 triệu đồng&#39;](https://vnexpress.net/can-nang-no-thue-cam-xuat-canh-nguoi-bo-dia-chi-kinh-doanh-len-5-trieu-dong-5070760.html) - 23:00 07/05/2026
-- 🪄 [Hai tháng &#39;sóng gió&#39; của các hãng tàu vì xung đột Trung Đông](https://vnexpress.net/hai-thang-song-gio-cua-cac-hang-tau-vi-xung-dot-trung-dong-5071195.html) - 22:52 07/05/2026
-- 🎊 [Doanh nghiệp Trung Quốc &#39;chai lì&#39; với sự đe dọa của Mỹ](https://vnexpress.net/doanh-nghiep-trung-quoc-chai-li-voi-su-de-doa-cua-my-5070924.html) - 19:00 07/05/2026
-- 🗽 [Hãng bay Mỹ &#39;gục ngã&#39; vì giá nhiên liệu tăng](https://vnexpress.net/hang-bay-my-guc-nga-vi-gia-nhien-lieu-tang-5069787.html) - 17:00 07/05/2026
-- 🦩 [Phó thủ tướng: Sớm giao chỉ tiêu tăng trưởng cho các địa phương, doanh nghiệp Nhà nước](https://vnexpress.net/pho-thu-tuong-som-giao-chi-tieu-tang-truong-cho-cac-dia-phuong-doanh-nghiep-nha-nuoc-5071240.html) - 13:26 07/05/2026<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Giá vàng được dự báo giảm tiếp tuần sau](https://vnexpress.net/gia-vang-duoc-du-bao-giam-tiep-tuan-sau-5074909.html) - 10:22 17/05/2026
+- 🐲 [Kim ngạch xuất, nhập khẩu tăng mạnh](https://vnexpress.net/kim-ngach-xuat-nhap-khau-tang-manh-5074869.html) - 05:49 17/05/2026
+- 🔥 [Bhutan có thể đã bán 1 tỷ USD Bitcoin](https://vnexpress.net/bhutan-co-the-da-ban-1-ty-usd-bitcoin-5074822.html) - 02:48 17/05/2026
+- 🐵 [UAE gấp rút xây đường ống dẫn dầu, tránh eo biển Hormuz](https://vnexpress.net/uae-gap-rut-xay-duong-ong-dan-dau-tranh-eo-bien-hormuz-5074710.html) - 10:04 16/05/2026
+- 🦅 [TP HCM chặn 8 tấn thịt heo, gia cầm không kiểm dịch](https://vnexpress.net/tp-hcm-chan-8-tan-thit-heo-gia-cam-khong-kiem-dich-5074708.html) - 09:54 16/05/2026
+- 😺 [Sẽ tạo điều kiện để doanh nghiệp chuyển đổi xanh dễ tiếp cận vốn](https://vnexpress.net/se-tao-dieu-kien-de-doanh-nghiep-chuyen-doi-xanh-de-tiep-can-von-5074672.html) - 06:50 16/05/2026
+- 🤩 [Tình bạn giữa Elon Musk và Jensen Huang](https://vnexpress.net/tinh-ban-giua-elon-musk-va-jensen-huang-5074616.html) - 05:33 16/05/2026
+- 🌮 [Trung tâm Dịch vụ số MobiFone hợp tác VTV Digital phát triển hệ sinh thái VTVgo](https://vnexpress.net/trung-tam-dich-vu-so-mobifone-hop-tac-vtv-digital-phat-trien-he-sinh-thai-vtvgo-5074635.html) - 04:30 16/05/2026
+- 🧰 [Ông Trump: Trung Quốc có thể mua 750 máy bay Boeing](https://vnexpress.net/ong-trump-trung-quoc-co-the-mua-750-may-bay-boeing-5074571.html) - 03:42 16/05/2026
+- 🤔 [Dragon Capital: Cổ phiếu nhóm Vingroup tăng mạnh không vô lý](https://vnexpress.net/dragon-capital-co-phieu-nhom-vingroup-tang-manh-khong-vo-ly-5074576.html) - 02:41 16/05/2026
+- 🧑‍💻 [Giá vàng thế giới xuống thấp nhất gần 2 tuần](https://vnexpress.net/gia-vang-the-gioi-xuong-thap-nhat-gan-2-tuan-5074551.html) - 00:13 16/05/2026
+- 🕴 [Bà Nguyễn Thị Mai Thanh từ chức Chủ tịch HĐQT REE](https://vnexpress.net/ba-nguyen-thi-mai-thanh-tu-chuc-chu-tich-hdqt-ree-5074522.html) - 17:05 15/05/2026
+- 🦩 [Cổ phiếu trụ tác động đến VN-Index ra sao?](https://vnexpress.net/co-phieu-tru-tac-dong-den-vn-index-ra-sao-5072361.html) - 17:02 15/05/2026
+- 👍 [Shopee bị phạt 200 triệu đồng vì cạnh tranh không lành mạnh](https://vnexpress.net/shopee-bi-phat-200-trieu-dong-vi-canh-tranh-khong-lanh-manh-5074500.html) - 14:22 15/05/2026
+- 🏊 [Chuyên gia: Pin lưu trữ giúp doanh nghiệp giảm tiền điện giờ cao điểm](https://vnexpress.net/chuyen-gia-pin-luu-tru-giup-doanh-nghiep-giam-tien-dien-gio-cao-diem-5074379.html) - 13:00 15/05/2026
+- 🤡 [Green SM hợp tác 75 doanh nghiệp, triển khai gần 18.500 xe VinFast](https://vnexpress.net/green-sm-hop-tac-75-doanh-nghiep-trien-khai-gan-18-500-xe-vinfast-5074490.html) - 13:00 15/05/2026
+- 👀 [Ngân hàng Nhà nước gỡ khó thanh khoản cho nhà băng quốc doanh](https://vnexpress.net/ngan-hang-nha-nuoc-go-kho-thanh-khoan-cho-nha-bang-quoc-doanh-5074479.html) - 12:15 15/05/2026
+- 😺 [&#39;Doanh nghiệp cần luật chơi rõ ràng để phát triển&#39;](https://vnexpress.net/doanh-nghiep-can-luat-choi-ro-rang-de-phat-trien-5074487.html) - 12:00 15/05/2026
+- 🦣 [Chủ tịch FPT Telecom làm sếp GTEL](https://vnexpress.net/chu-tich-fpt-telecom-lam-sep-gtel-5074476.html) - 11:58 15/05/2026
+- 😺 [ACV bổ nhiệm Quyền Tổng giám đốc](https://vnexpress.net/acv-bo-nhiem-quyen-tong-giam-doc-5074468.html) - 11:14 15/05/2026
+- 💼 [Công ty điện của ông Phạm Nhật Vượng tăng vốn lên gần 80.000 tỷ đồng](https://vnexpress.net/cong-ty-dien-cua-ong-pham-nhat-vuong-tang-von-len-gan-80-000-ty-dong-5074427.html) - 10:04 15/05/2026
+- 🤗 [Người tiêu dùng dần cởi mở với xăng sinh học E10](https://vnexpress.net/nguoi-tieu-dung-dan-coi-mo-voi-xang-sinh-hoc-e10-5074369.html) - 10:04 15/05/2026
+- 👀 [Trung Quốc có thể mua thêm &#39;hàng chục tỷ USD&#39; nông sản Mỹ](https://vnexpress.net/trung-quoc-co-the-mua-them-hang-chuc-ty-usd-nong-san-my-5074335.html) - 09:57 15/05/2026
+- 🎓 [Chứng khoán giảm điểm phiên cuối tuần](https://vnexpress.net/chung-khoan-giam-diem-phien-cuoi-tuan-5074389.html) - 09:38 15/05/2026
+- 🗽 [Hãng hàng không giảm lương lãnh đạo, siết chi phí vận hành](https://vnexpress.net/hang-hang-khong-giam-luong-lanh-dao-siet-chi-phi-van-hanh-5074317.html) - 08:15 15/05/2026
+- 🚀 [Vingroup tuyển 20.000 lao động cho dự án khu đô thị thể thao](https://vnexpress.net/vingroup-tuyen-20-000-lao-dong-cho-du-an-khu-do-thi-the-thao-5074359.html) - 08:00 15/05/2026
+- 🤗 [Grohe Spa giới thiệu không gian phòng tắm kết hợp nghệ thuật sắp đặt](https://vnexpress.net/grohe-spa-gioi-thieu-khong-gian-phong-tam-ket-hop-nghe-thuat-sap-dat-5074322.html) - 07:30 15/05/2026
+- 🌜 [Saigon Co.op kích cầu tiêu dùng với loạt ưu đãi thực phẩm](https://vnexpress.net/saigon-co-op-kich-cau-tieu-dung-voi-loat-uu-dai-thuc-pham-5074246.html) - 07:00 15/05/2026
+- 👍 [TP HCM, Hà Nội tiếp tục không thuộc top đầu năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/tp-hcm-ha-noi-tiep-tuc-khong-thuoc-top-dau-nang-luc-canh-tranh-cap-tinh-5074295.html) - 05:52 15/05/2026
+- 🤖 [Vietnam Airlines có thể lỗ trở lại vì giá nhiên liệu bay neo cao](https://vnexpress.net/vietnam-airlines-co-the-lo-tro-lai-vi-gia-nhien-lieu-bay-neo-cao-5074266.html) - 05:03 15/05/2026
+- 🫣 [CC1 lựa chọn đơn vị kiểm toán mới cho báo cáo tài chính](https://vnexpress.net/cc1-lua-chon-don-vi-kiem-toan-moi-cho-bao-cao-tai-chinh-5074291.html) - 05:00 15/05/2026
+- 🌏 [Cổ phiếu Boeing mất giá khi Trung Quốc có thể chỉ mua 200 máy bay](https://vnexpress.net/co-phieu-boeing-mat-gia-khi-trung-quoc-co-the-chi-mua-200-may-bay-5074242.html) - 04:55 15/05/2026
+- ⚗️ [Mô hình &#39;kiềng ba chân&#39; giúp Masan bứt tốc trong mảng bán lẻ](https://vnexpress.net/mo-hinh-kieng-ba-chan-giup-masan-but-toc-trong-mang-ban-le-5074018.html) - 04:00 15/05/2026
+- 🕯 [&#39;Cựu vương&#39; ngành thép chưa hết lỗ](https://vnexpress.net/cuu-vuong-nganh-thep-chua-het-lo-5074229.html) - 03:58 15/05/2026
+- 👍 [Vị thế đặc biệt của Elon Musk tại Trung Quốc](https://vnexpress.net/vi-the-dac-biet-cua-elon-musk-tai-trung-quoc-5073851.html) - 17:00 14/05/2026
+- 🤠 [Thu giữ loạt hàng giả ở Saigon Square, chợ Bến Thành](https://vnexpress.net/thu-giu-loat-hang-gia-o-saigon-square-cho-ben-thanh-5074046.html) - 14:42 14/05/2026
+- 🌊 [Uỷ ban Chứng khoán: Đẩy mạnh niêm yết cổ phiếu doanh nghiệp nhà nước](https://vnexpress.net/uy-ban-chung-khoan-day-manh-niem-yet-co-phieu-doanh-nghiep-nha-nuoc-5074010.html) - 11:32 14/05/2026
+- 🌈 [Nhà Trắng: Trung Quốc muốn mua thêm dầu Mỹ](https://vnexpress.net/nha-trang-trung-quoc-muon-mua-them-dau-my-5073987.html) - 10:35 14/05/2026
+- 🥳 [Vinhomes khởi công dự án khu công nghiệp Nam Tràng Cát](https://vnexpress.net/vinhomes-khoi-cong-du-an-khu-cong-nghiep-nam-trang-cat-5073967.html) - 10:00 14/05/2026
+- 🐻 [Hàn Quốc sắp có thêm công ty vốn hóa nghìn tỷ USD](https://vnexpress.net/han-quoc-sap-co-them-cong-ty-von-hoa-nghin-ty-usd-5073929.html) - 09:29 14/05/2026
+- 💫 [Chứng khoán tiếp tục lập kỷ lục mới](https://vnexpress.net/chung-khoan-tiep-tuc-lap-ky-luc-moi-5073931.html) - 09:06 14/05/2026
+- 🤩 [Thứ trưởng Hoàng Trung: Doanh nghiệp muốn đầu tư phòng kiểm nghiệm phải chờ 6 tháng duyệt hồ sơ](https://vnexpress.net/thu-truong-hoang-trung-doanh-nghiep-muon-dau-tu-phong-kiem-nghiem-phai-cho-6-thang-duyet-ho-so-5073902.html) - 08:48 14/05/2026
+- 💻 [Giá xăng, dầu cùng giảm](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-144-5-5073823.html) - 07:34 14/05/2026
+- ⚗️ [Kế hoạch cải tổ Fed của tân chủ tịch](https://vnexpress.net/ke-hoach-cai-to-fed-cua-tan-chu-tich-5073630.html) - 06:00 14/05/2026
+- 🌈 [Highlands Coffee lãi kỷ lục quý đầu năm](https://vnexpress.net/highlands-coffee-lai-ky-luc-quy-dau-nam-5073741.html) - 04:12 14/05/2026
+- 🌝 [VinFast sẽ thế nào khi tách mảng sản xuất](https://vnexpress.net/vinfast-se-the-nao-khi-tach-mang-san-xuat-5073669.html) - 02:40 14/05/2026
+- 🥸 [Fed sắp có chủ tịch mới](https://vnexpress.net/fed-sap-co-chu-tich-moi-5073625.html) - 23:25 13/05/2026
+- 🦆 [Hà Nội có thể cho thuê vỉa hè 45.000 đồng một m2 mỗi tháng để kinh doanh](https://vnexpress.net/ha-noi-co-the-cho-thue-via-he-45-000-dong-mot-m2-moi-thang-de-kinh-doanh-5073615.html) - 22:00 13/05/2026
+- 🌋 [Cú hích tái cấu trúc kinh tế toàn cầu từ xung đột Trung Đông](https://vnexpress.net/cu-hich-tai-cau-truc-kinh-te-toan-cau-tu-xung-dot-trung-dong-5073241.html) - 17:05 13/05/2026
+- 🦍 [Đề xuất phân bổ dần khoản lỗ của EVN vào giá điện](https://vnexpress.net/de-xuat-phan-bo-dan-khoan-lo-cua-evn-vao-gia-dien-5073607.html) - 17:00 13/05/2026
+- 🤔 [Phó thủ tướng: FDI thế hệ mới phải tạo giá trị cho Việt Nam](https://vnexpress.net/pho-thu-tuong-fdi-the-he-moi-phai-tao-gia-tri-cho-viet-nam-5073553.html) - 12:00 13/05/2026
+- 🧰 [Khách bị hủy chuyến bay có thể nhận bồi thường bằng voucher, điểm thưởng](https://vnexpress.net/khach-bi-huy-chuyen-bay-co-the-nhan-boi-thuong-bang-voucher-diem-thuong-5073505.html) - 11:37 13/05/2026
+- 🌝 [Gia Lai đề xuất xây trung tâm đấu giá cá ngừ đầu tiên Đông Nam Á](https://vnexpress.net/gia-lai-de-xuat-xay-trung-tam-dau-gia-ca-ngu-dau-tien-dong-nam-a-5073426.html) - 11:30 13/05/2026
+- 👍 [Đơn vị vận hành HoSE và HNX lên kế hoạch lãi kỷ lục](https://vnexpress.net/don-vi-van-hanh-hose-va-hnx-len-ke-hoach-lai-ky-luc-5073472.html) - 09:35 13/05/2026
+- 🗽 [Cổ phiếu dầu khí hút tiền nhà đầu tư trong nước](https://vnexpress.net/co-phieu-dau-khi-hut-tien-nha-dau-tu-trong-nuoc-5073515.html) - 09:25 13/05/2026
+- 🐎 [Ngân hàng tiếp tục rao bán nhà máy nông sản hơn 1.200 tỷ liên quan bà Trương Mỹ Lan](https://vnexpress.net/ngan-hang-tiep-tuc-rao-ban-nha-may-nong-san-hon-1-200-ty-lien-quan-ba-truong-my-lan-5073438.html) - 08:47 13/05/2026
+- 🪄 [Bốn người trong gia đình Samsung nắm giữ top 4 giàu nhất Hàn Quốc](https://vnexpress.net/bon-nguoi-trong-gia-dinh-samsung-nam-giu-top-4-giau-nhat-han-quoc-5073417.html) - 08:02 13/05/2026
+- 🎊 [Phát hiện giá Bitcoin tương quan với thị trường cá cược thể thao](https://vnexpress.net/phat-hien-gia-bitcoin-tuong-quan-voi-thi-truong-ca-cuoc-the-thao-5073356.html) - 07:35 13/05/2026
+- 🗽 [Doanh nghiệp Mỹ hưởng lợi gì khi cùng ông Trump tới Trung Quốc?](https://vnexpress.net/doanh-nghiep-my-huong-loi-gi-khi-cung-ong-trump-toi-trung-quoc-5073296.html) - 04:18 13/05/2026
+- 🦩 [VinFast sẽ tách mảng sản xuất tại Việt Nam](https://vnexpress.net/vinfast-se-tach-mang-san-xuat-tai-viet-nam-5073349.html) - 03:46 13/05/2026<!-- vnexpress-kinh-doanh:END -->
