@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Tai nạn liên tiếp giữa 3 xe tải, quốc lộ 14 qua Đồng Nai ùn tắc gần 5km](https://vov.vn/xa-hoi/tai-nan-lien-tiep-giua-3-xe-tai-quoc-lo-14-qua-dong-nai-un-tac-gan-5km-post1292407.vov) - 09:56 16/05/2026
-- 🦍 [Tai nạn liên tiếp giữa 3 xe tải, quốc lộ 14 qua Đồng Nai ùn tắc gần 5km](https://vov.vn/xa-hoi/tai-nan-lien-tiep-giua-3-xe-tai-quoc-lo-14-qua-dong-nai-un-tac-gan-5km-post1292407.vov) - 09:56 16/05/2026
-- 🦏 [Cận cảnh dông lốc cực mạnh làm hàng loạt cây xanh ngã đổ tại xã Ea Kar, Đắk Lắk](https://vov.vn/xa-hoi/can-canh-dong-loc-cuc-manh-lam-hang-loat-cay-xanh-nga-do-tai-xa-ea-kar-dak-lak-post1292369.vov) - 07:09 16/05/2026
-- 😎 [Nga “đánh chậm, ép lâu”, siết chặt Ukraine trên mọi mặt trận](https://vov.vn/the-gioi/quan-sat/nga-danh-cham-ep-lau-siet-chat-ukraine-tren-moi-mat-tran-post1292355.vov) - 07:04 16/05/2026
-- 💯 [Khởi tố, bắt giam cán bộ công ty dầu khí Cửu Long tham ô hơn 5 tỷ đồng](https://vov.vn/phap-luat/khoi-to-bat-giam-can-bo-cong-ty-dau-khi-cuu-long-tham-o-hon-5-ty-dong-post1292367.vov) - 06:41 16/05/2026
-- 🦩 [Gỡ vướng mắc trong ban hành quyết định hành chính](https://vov.vn/chinh-tri/go-vuong-mac-trong-ban-hanh-quyet-dinh-hanh-chinh-post1291798.vov) - 06:30 16/05/2026
-- 💃 [Từ giáo dục Israel nghĩ về cách dạy lòng yêu nước](https://vov.vn/xa-hoi/tu-giao-duc-israel-nghi-ve-cach-day-long-yeu-nuoc-post1292348.vov) - 05:51 16/05/2026
-- 🦣 [Khởi tố ca sĩ Bolero Quang Lập và Tổng giám đốc Công ty BH Media](https://vov.vn/phap-luat/khoi-to-ca-si-bolero-quang-lap-va-tong-giam-doc-cong-ty-bh-media-post1292358.vov) - 05:50 16/05/2026
-- 👹 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Đại học Quốc gia Hà Nội phải là nơi hội tụ trí tuệ quốc gia](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-dai-hoc-quoc-gia-ha-noi-phai-la-noi-hoi-tu-tri-tue-quoc-gia-post1292349.vov) - 05:03 16/05/2026
-- 🫶 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước tại Đại học Quốc gia Hà Nội](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-tai-dai-hoc-quoc-gia-ha-noi-post1292340.vov) - 04:25 16/05/2026
-- 😺 [Hà Nội: Xe buýt bốc cháy gần Trường THPT Việt Đức, hành khách kịp thời thoát nạn](https://vov.vn/xa-hoi/ha-noi-xe-buyt-boc-chay-gan-truong-thpt-viet-duc-hanh-khach-kip-thoi-thoat-nan-post1292341.vov) - 04:09 16/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Nghị định mới trong giải quyết khiếu nại: Siết chặt trách nhiệm cán bộ](https://vov.vn/chinh-tri/nghi-dinh-moi-trong-giai-quyet-khieu-nai-siet-chat-trach-nhiem-can-bo-post1292560.vov) - 08:10 17/05/2026
+- 🦍 [Phó Thủ tướng Phạm Gia Túc: Doanh nghiệp tránh cam kết lớn, triển khai chậm](https://vov.vn/chinh-tri/pho-thu-tuong-pham-gia-tuc-doanh-nghiep-tranh-cam-ket-lon-trien-khai-cham-post1292558.vov) - 07:50 17/05/2026
+- 🦏 [Ánh sáng Hồ Chí Minh soi đường cho chúng ta đi](https://vov.vn/chinh-tri/anh-sang-ho-chi-minh-soi-duong-cho-chung-ta-di-post1292525.vov) - 07:00 17/05/2026
+- 😎 [Ánh sáng Hồ Chí Minh soi đường cho chúng ta đi](https://vov.vn/chinh-tri/anh-sang-ho-chi-minh-soi-duong-cho-chung-ta-di-post1292525.vov) - 07:00 17/05/2026
+- 💯 [Hàng triệu người được tăng lương hưu, trợ cấp 8% từ 1/7/2026](https://vov.vn/xa-hoi/hang-trieu-nguoi-duoc-tang-luong-huu-tro-cap-8-tu-172026-post1292522.vov) - 02:12 17/05/2026
+- 🦩 [Đưa Nghị quyết 80 vào cuộc sống: Bắt đầu từ thể chế và con người](https://vov.vn/van-hoa/dua-nghi-quyet-80-vao-cuoc-song-bat-dau-tu-the-che-va-con-nguoi-post1292520.vov) - 01:53 17/05/2026
+- 💃 [Tăng lương cơ sở lên 2,53 triệu đồng/tháng từ 1/7/2026](https://vov.vn/xa-hoi/tang-luong-co-so-len-253-trieu-dongthang-tu-172026-post1292509.vov) - 01:04 17/05/2026
+- 🦣 [Nguy cơ ông Trump phát động cuộc tấn công mới nhằm vào Iran vẫn hiện hữu](https://vov.vn/the-gioi/nguy-co-ong-trump-phat-dong-cuoc-tan-cong-moi-nham-vao-iran-van-hien-huu-post1292446.vov) - 23:45 16/05/2026
+- 👹 [Hà Nội đề xuất cho thuê vỉa hè, người dân đồng tình và mong cơ chế minh bạch](https://vov.vn/xa-hoi/ha-noi-de-xuat-cho-thue-via-he-nguoi-dan-dong-tinh-va-mong-co-che-minh-bach-post1292079.vov) - 23:30 16/05/2026
+- 🫶 [Mặt trận Tổ quốc chuyển mình: Giải quyết việc dân quan tâm, không dừng ở khẩu hiệu](https://vov.vn/chinh-tri/mat-tran-to-quoc-chuyen-minh-giai-quyet-viec-dan-quan-tam-khong-dung-o-khau-hieu-post1292402.vov) - 22:10 16/05/2026
+- 😺 [Xã, phường xã hội chủ nghĩa: Thủ đô càng phải tiên phong](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-thu-do-cang-phai-tien-phong-post1291263.vov) - 22:00 16/05/2026<!-- vov-tin-moi-nhat:END -->
