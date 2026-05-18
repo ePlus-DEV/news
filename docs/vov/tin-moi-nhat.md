@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [UAV tấn công gần nhà máy điện hạt nhân UAE, nguy cơ chiến sự Iran tái bùng phát](https://vov.vn/the-gioi/uav-tan-cong-gan-nha-may-dien-hat-nhan-uae-nguy-co-chien-su-iran-tai-bung-phat-post1292653.vov) - 14:31 17/05/2026
-- 🦍 [UAV tấn công gần nhà máy điện hạt nhân UAE, nguy cơ chiến sự Iran tái bùng phát](https://vov.vn/the-gioi/uav-tan-cong-gan-nha-may-dien-hat-nhan-uae-nguy-co-chien-su-iran-tai-bung-phat-post1292653.vov) - 14:31 17/05/2026
-- 🦏 [Kết quả bóng đá hôm nay 17/5: CLB CAHN chính thức vô địch V-League](https://vov.vn/the-thao/ket-qua-bong-da-hom-nay-175-clb-cahn-chinh-thuc-vo-dich-v-league-post1292545.vov) - 14:19 17/05/2026
-- 😎 [Kết quả Ngoại hạng Anh tối 17-5: Bruno cán mốc 20 kiến tạo, MU có 3 điểm nghẹt thở](https://vov.vn/the-thao/ket-qua-ngoai-hang-anh-toi-17-5-bruno-can-moc-20-kien-tao-mu-co-3-diem-nghet-tho-post1292564.vov) - 13:31 17/05/2026
-- 💯 [Nghị định mới trong giải quyết khiếu nại: Siết chặt trách nhiệm cán bộ](https://vov.vn/chinh-tri/nghi-dinh-moi-trong-giai-quyet-khieu-nai-siet-chat-trach-nhiem-can-bo-post1292560.vov) - 08:10 17/05/2026
-- 🦩 [Phó Thủ tướng Phạm Gia Túc: Doanh nghiệp tránh cam kết lớn, triển khai chậm](https://vov.vn/chinh-tri/pho-thu-tuong-pham-gia-tuc-doanh-nghiep-tranh-cam-ket-lon-trien-khai-cham-post1292558.vov) - 07:50 17/05/2026
-- 💃 [Ánh sáng Hồ Chí Minh soi đường cho chúng ta đi](https://vov.vn/chinh-tri/anh-sang-ho-chi-minh-soi-duong-cho-chung-ta-di-post1292525.vov) - 07:00 17/05/2026
-- 🦣 [Hàng triệu người được tăng lương hưu, trợ cấp 8% từ 1/7/2026](https://vov.vn/xa-hoi/hang-trieu-nguoi-duoc-tang-luong-huu-tro-cap-8-tu-172026-post1292522.vov) - 02:12 17/05/2026
-- 👹 [Đưa Nghị quyết 80 vào cuộc sống: Bắt đầu từ thể chế và con người](https://vov.vn/van-hoa/dua-nghi-quyet-80-vao-cuoc-song-bat-dau-tu-the-che-va-con-nguoi-post1292520.vov) - 01:53 17/05/2026
-- 🫶 [Nguy cơ ông Trump phát động cuộc tấn công mới nhằm vào Iran vẫn hiện hữu](https://vov.vn/the-gioi/nguy-co-ong-trump-phat-dong-cuoc-tan-cong-moi-nham-vao-iran-van-hien-huu-post1292446.vov) - 23:45 16/05/2026
-- 😺 [Mặt trận Tổ quốc chuyển mình: Giải quyết việc dân quan tâm, không dừng ở khẩu hiệu](https://vov.vn/chinh-tri/mat-tran-to-quoc-chuyen-minh-giai-quyet-viec-dan-quan-tam-khong-dung-o-khau-hieu-post1292402.vov) - 22:10 16/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Xúc động chương trình nghệ thuật kỷ niệm ngày sinh Bác Hồ tại Cao Bằng](https://vov.vn/van-hoa/xuc-dong-chuong-trinh-nghe-thuat-ky-niem-ngay-sinh-bac-ho-tai-cao-bang-post1292975.vov) - 16:19 18/05/2026
+- 🦍 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ công bố thành lập Thành phố Đồng Nai](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-cong-bo-thanh-lap-thanh-pho-dong-nai-post1292974.vov) - 16:12 18/05/2026
+- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ công bố thành lập Thành phố Đồng Nai](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-cong-bo-thanh-lap-thanh-pho-dong-nai-post1292974.vov) - 16:12 18/05/2026
+- 😎 [Khai mạc Lễ hội Làng Sen năm 2026](https://vov.vn/van-hoa/khai-mac-le-hoi-lang-sen-nam-2026-post1292971.vov) - 16:04 18/05/2026
+- 💯 [Chính phủ thông qua 3 chính sách Luật chống phổ biến vũ khí hủy diệt hàng loạt](https://vov.vn/chinh-tri/chinh-phu-thong-qua-3-chinh-sach-luat-chong-pho-bien-vu-khi-huy-diet-hang-loat-post1292969.vov) - 15:36 18/05/2026
+- 🦩 [Nguyên nhân nào khiến Hà Nội rung lắc như động đất tối nay 18/5?](https://vov.vn/xa-hoi/nguyen-nhan-nao-khien-ha-noi-rung-lac-nhu-dong-dat-toi-nay-185-post1292964.vov) - 15:02 18/05/2026
+- 💃 [Nhà Trắng ra thông báo chính thức về kết quả chuyến thăm Trung Quốc của ông Trump](https://vov.vn/the-gioi/nha-trang-ra-thong-bao-chinh-thuc-ve-ket-qua-chuyen-tham-trung-quoc-cua-ong-trump-post1292965.vov) - 15:01 18/05/2026
+- 🦣 [Thủ tướng Chính phủ Lê Minh Hưng tiếp Đại sứ Liên bang Nga](https://vov.vn/chinh-tri/thu-tuong-chinh-phu-le-minh-hung-tiep-dai-su-lien-bang-nga-post1292960.vov) - 14:28 18/05/2026
+- 👹 [Đuối nước đặc biệt nghiêm trọng trên sông Lô ở Phú Thọ, 5 học sinh tử vong](https://vov.vn/xa-hoi/duoi-nuoc-dac-biet-nghiem-trong-tren-song-lo-o-phu-tho-5-hoc-sinh-tu-vong-post1292944.vov) - 12:01 18/05/2026
+- 🫶 [Đề xuất lập Quỹ nhà ở Trung ương quy mô 10.000 tỷ đồng](https://vov.vn/kinh-te/de-xuat-lap-quy-nha-o-trung-uong-quy-mo-10000-ty-dong-post1292918.vov) - 11:24 18/05/2026
+- 😺 [Sản xuất công nghiệp: Chậm chân là lỡ cơ hội trên chính sân nhà](https://vov.vn/kinh-te/san-xuat-cong-nghiep-cham-chan-la-lo-co-hoi-tren-chinh-san-nha-post1292882.vov) - 10:51 18/05/2026<!-- vov-tin-moi-nhat:END -->
