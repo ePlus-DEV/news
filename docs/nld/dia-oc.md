@@ -4,53 +4,53 @@ sidebar_position: 18
 ---
 
 <!-- nld-dia-oc:START -->
-- 💫 [Hạ tầng ngàn tỉ khai mở tâm điểm sống mới khu Đông Hà Nội](https://diaoc.nld.com.vn/ha-tang-ngan-ti-khai-mo-tam-diem-song-moi-khu-dong-ha-noi-196260514164715318.htm) - 10:23 14/05/2026
-- 🦆 [LG Electronics Việt Nam ra mắt dải sản phẩm TV AI và loa thanh 2026](https://diaoc.nld.com.vn/lg-electronics-viet-nam-ra-mat-dai-san-pham-tv-ai-va-loa-thanh-2026-196260514163955851.htm) - 09:51 14/05/2026
-- 🤠 [UOB Việt Nam được vinh danh “Ngân hàng tốt nhất cho doanh nghiệp FDI”](https://diaoc.nld.com.vn/uob-viet-nam-duoc-vinh-danh-ngan-hang-tot-nhat-cho-doanh-nghiep-fdi-196260514164330835.htm) - 09:50 14/05/2026
-- 🎬 [AIG động thổ Nhà máy chế biến dừa công nghệ hiện đại hàng đầu thế giới](https://diaoc.nld.com.vn/aig-dong-tho-nha-may-che-bien-dua-cong-nghe-hien-dai-hang-dau-the-gioi-196260512212921132.htm) - 07:35 13/05/2026
-- 🌋 [The Gió Riverside tung &quot;suất cuối&quot; đẹp nhất tháp Gió Đông](https://diaoc.nld.com.vn/the-gio-riverside-tung-suat-cuoi-dep-nhat-thap-gio-dong-196260512211704198.htm) - 07:34 13/05/2026
-- 🎡 [vivo và UNESCO triển khai dự án toàn cầu &quot;Capture the Future&quot;](https://diaoc.nld.com.vn/vivo-va-unesco-trien-khai-du-an-toan-cau-capture-the-future-196260512155628478.htm) - 09:03 12/05/2026
-- 🦒 [Những địa chỉ hàng hiệu góp phần định hình diện mạo mới của Việt Nam trong góc nhìn quốc tế](https://diaoc.nld.com.vn/nhung-dia-chi-hang-hieu-gop-phan-dinh-hinh-dien-mao-moi-cua-viet-nam-trong-goc-nhin-quoc-te-196260511181022761.htm) - 02:41 12/05/2026
-- 🌝 [Mastercard và MDP hợp tác chiến lược thúc đẩy nền kinh tế số](https://diaoc.nld.com.vn/mastercard-va-mdp-hop-tac-chien-luoc-thuc-day-nen-kinh-te-so-196260510144630422.htm) - 07:52 10/05/2026
-- 🧑‍💻 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://diaoc.nld.com.vn/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-196260507113049595.htm) - 09:48 08/05/2026
-- 💄 [Masterise Homes 2 năm liên tiếp được vinh danh tại APPA](https://diaoc.nld.com.vn/masterise-homes-2-nam-lien-tiep-duoc-vinh-danh-tai-appa-196260508154109863.htm) - 08:57 08/05/2026
-- 🤠 [Gỡ vướng nhiều thắc mắc về nhà ở xã hội](https://diaoc.nld.com.vn/go-vuong-nhieu-thac-mac-ve-nha-o-xa-hoi-196260311093240078.htm) - 08:41 08/05/2026
-- 💯 [Chung cư cao cấp: Từ lựa chọn thay thế thành chuẩn sống mới của cư dân Hải Phòng](https://diaoc.nld.com.vn/chung-cu-cao-cap-tu-lua-chon-thay-the-thanh-chuan-song-moi-cua-cu-dan-hai-phong-19626050809493287.htm) - 08:38 08/05/2026
-- 🎓 [Signify kiến tạo tương lai xanh cùng “Brighter Lives, Better World 2030”](https://diaoc.nld.com.vn/signify-kien-tao-tuong-lai-xanh-cung-brighter-lives-better-world-2030-196260506181917355.htm) - 15:16 06/05/2026
-- 🦏 [Ant International kết nối hơn 150 triệu nhà bán hàng với hơn 2 tỉ người tiêu dùng](https://diaoc.nld.com.vn/ant-international-ket-noi-hon-150-trieu-nha-ban-hang-voi-hon-2-ti-nguoi-tieu-dung-19626050508414663.htm) - 01:51 05/05/2026
-- 🎬 [Core tự chủ chuẩn Hàn Quốc: Nhà đầu tư hưởng lợi gì?](https://diaoc.nld.com.vn/core-tu-chu-chuan-han-quoc-nha-dau-tu-huong-loi-gi-196260505084747528.htm) - 01:50 05/05/2026
-- 🧐 [“Hàng hiệu” đã được “định chuẩn”: Bước tiến mới của bất động sản cao cấp Việt Nam](https://diaoc.nld.com.vn/hang-hieu-da-duoc-dinh-chuan-buoc-tien-moi-cua-bat-dong-san-cao-cap-viet-nam-196260504102803899.htm) - 03:33 04/05/2026
-- 🏊 [Chọn gạch cho nhà của bạn](https://diaoc.nld.com.vn/chon-gach-cho-nha-cua-ban-196260410110002162.htm) - 03:15 04/05/2026
-- 🎉 [Lãi suất hạ nhiệt, nhà đầu tư rời “sóng ngắn” chuyển sang săn giá trị dài hạn](https://diaoc.nld.com.vn/lai-suat-ha-nhiet-nha-dau-tu-roi-song-ngan-chuyen-sang-san-gia-tri-dai-han-196260428115420086.htm) - 09:55 28/04/2026
-- 💄 [Chuẩn sống đẳng cấp giữa lòng di sản cùng phân khu biệt thự Vinhomes Hạ Long Xanh](https://diaoc.nld.com.vn/chuan-song-dang-cap-giua-long-di-san-cung-phan-khu-biet-thu-vinhomes-ha-long-xanh-196260425130024166.htm) - 02:32 28/04/2026
-- 🎡 [Có nên mua nhà phố liền kề Vinhomes Làng Vân?](https://diaoc.nld.com.vn/co-nen-mua-nha-pho-lien-ke-vinhomes-lang-van-196260425125023867.htm) - 13:42 26/04/2026
-- 🤔 [Đại hội cổ đông VBI: Đẩy mạnh chuyển đổi số, gia tăng độ phủ kênh phân phối](https://diaoc.nld.com.vn/dai-hoi-co-dong-vbi-day-manh-chuyen-doi-so-gia-tang-do-phu-kenh-phan-phoi-196260426090059366.htm) - 13:40 26/04/2026
-- 🎡 [Đặc quyền lãi suất cho khách hàng - Dấu ấn đồng hành thiết thực từ Masterise Homes](https://diaoc.nld.com.vn/dac-quyen-lai-suat-cho-khach-hang-dau-an-dong-hanh-thiet-thuc-tu-masterise-homes-196260425120419399.htm) - 08:00 25/04/2026
-- 🚦 [Masterise Homes – “Người định chuẩn” cho bất động sản cao cấp](https://diaoc.nld.com.vn/masterise-homes-nguoi-dinh-chuan-cho-bat-dong-san-cao-cap-196260425115704591.htm) - 07:59 25/04/2026
-- 🦣 [PGBank hợp tác với Sân Golf Hoàng Gia ưu đãi đặc quyền cho chủ thẻ visa](https://diaoc.nld.com.vn/pgbank-hop-tac-voi-san-golf-hoang-gia-uu-dai-dac-quyen-cho-chu-the-visa-196260425105412704.htm) - 07:37 25/04/2026
-- 🐘 [Thêm cơ hội cho thịt gà chế biến Việt Nam tại thị trường Hàn Quốc](https://diaoc.nld.com.vn/them-co-hoi-cho-thit-ga-che-bien-viet-nam-tai-thi-truong-han-quoc-196260425114254945.htm) - 07:35 25/04/2026
-- 🦍 [Cát Bà: Từ miền di sản nguyên bản đến tâm điểm nghỉ dưỡng phía Bắc](https://diaoc.nld.com.vn/cat-ba-tu-mien-di-san-nguyen-ban-den-tam-diem-nghi-duong-phia-bac-196260424161916804.htm) - 09:54 24/04/2026
-- 🦍 [J&amp;T Express thích ứng linh hoạt để tăng trưởng bền vững](https://diaoc.nld.com.vn/jt-express-thich-ung-linh-hoat-de-tang-truong-ben-vung-196260424103813273.htm) - 07:02 24/04/2026
-- 🎬 [Sống giữa tầng không tại LUMIÈRE Essence Peak](https://diaoc.nld.com.vn/song-giua-tang-khong-tai-lumiere-essence-peak-196260423140536128.htm) - 09:55 23/04/2026
-- 🌮 [EZTax đồng hành cùng Thuế TPHCM hỗ trợ hộ kinh doanh kê khai và nộp thuế](https://diaoc.nld.com.vn/eztax-dong-hanh-cung-thue-tphcm-ho-tro-ho-kinh-doanh-ke-khai-va-nop-thue-196260423143942551.htm) - 09:54 23/04/2026
-- 🧑‍💻 [Orchard Collection: Dẫn lối trải nghiệm tinh mỹ](https://diaoc.nld.com.vn/orchard-collection-dan-loi-trai-nghiem-tinh-my-196260423114204291.htm) - 07:59 23/04/2026
-- 🌮 [Dẫn dắt chuỗi cung ứng bền vững với lợi thế ERP trong kỷ nguyên chuyển đổi số tiếp theo của Việt Nam](https://diaoc.nld.com.vn/dan-dat-chuoi-cung-ung-ben-vung-voi-loi-the-erp-trong-ky-nguyen-chuyen-doi-so-tiep-theo-cua-viet-nam-196260422160539155.htm) - 02:07 23/04/2026
-- 🧰 [Rakuten Viber hợp tác chiến lược với nền tảng Pharaon](https://diaoc.nld.com.vn/rakuten-viber-hop-tac-chien-luoc-voi-nen-tang-pharaon-196260421175942866.htm) - 11:50 21/04/2026
-- 👍 [PGBank đặt mục tiêu lợi nhuận 1.438 tỉ đồng năm 2026](https://diaoc.nld.com.vn/pgbank-dat-muc-tieu-loi-nhuan-1438-ti-dong-nam-2026-196260421180227029.htm) - 11:34 21/04/2026
-- 🫣 [Gửi tiết kiệm, mua vàng, cổ phiếu hay nhà đất...?](https://diaoc.nld.com.vn/gui-tiet-kiem-mua-vang-co-phieu-hay-nha-dat-196260321092013431.htm) - 08:16 20/04/2026
-- 🐲 [Bosch Việt Nam đẩy nhanh tốc độ tăng trưởng, củng cố sự hiện diện thương hiệu](https://diaoc.nld.com.vn/bosch-viet-nam-day-nhanh-toc-do-tang-truong-cung-co-su-hien-dien-thuong-hieu-196260419085919979.htm) - 13:40 19/04/2026
-- 🦅 [Imperia: Khi chuẩn sống cao cấp được nâng tầm thành hệ tiêu chuẩn](https://diaoc.nld.com.vn/imperia-khi-chuan-song-cao-cap-duoc-nang-tam-thanh-he-tieu-chuan-196260417110111073.htm) - 07:08 17/04/2026
-- 📝 [Mastercard thúc đẩy thương mại ứng dụng AI tại Việt Nam](https://diaoc.nld.com.vn/mastercard-thuc-day-thuong-mai-ung-dung-ai-tai-viet-nam-196260416164458412.htm) - 02:57 17/04/2026
-- 🤖 [Khu Đông: Khi dòng vốn, doanh nghiệp và nhân tài cùng hội tụ](https://diaoc.nld.com.vn/khu-dong-khi-dong-von-doanh-nghiep-va-nhan-tai-cung-hoi-tu-196260416142444535.htm) - 07:28 16/04/2026
-- 🪄 [Khát vọng tỉ đô của Gremsy: Từ &quot;vườn ươm&quot; SHTP đến tham vọng kỳ lân vào năm 2030](https://diaoc.nld.com.vn/khat-vong-ti-do-cua-gremsy-tu-vuon-uom-shtp-den-tham-vong-ky-lan-vao-nam-2030-196260415155054867.htm) - 08:56 15/04/2026
-- 💄 [The Magnolia và câu chuyện về sự chuyển dịch của bất động sản hạng sang](https://diaoc.nld.com.vn/the-magnolia-va-cau-chuyen-ve-su-chuyen-dich-cua-bat-dong-san-hang-sang-196260415155346463.htm) - 08:55 15/04/2026
-- 💼 [VSOL hợp tác với Workday kết nối chuẩn quản trị nguồn nhân lực toàn cầu](https://diaoc.nld.com.vn/vsol-hop-tac-voi-workday-ket-noi-chuan-quan-tri-nguon-nhan-luc-toan-cau-196260414191305843.htm) - 01:50 15/04/2026
-- 🤔 [Tài chính tiêu dùng không chỉ là vốn, mà là sự bao trùm](https://diaoc.nld.com.vn/tai-chinh-tieu-dung-khong-chi-la-von-ma-la-su-bao-trum-196260414190301069.htm) - 01:49 15/04/2026
-- 🦣 [HIEA PICKLEBALL 2026: Khi doanh nhân &quot;cháy&quot; hết mình trên sân đấu!](https://diaoc.nld.com.vn/hiea-pickleball-2026-khi-doanh-nhan-chay-het-minh-tren-san-dau-196260414111728196.htm) - 05:34 14/04/2026
-- ⚗️ [Bất động sản thấp tầng nội đô: “Điểm tựa” của dòng tiền trong dài hạn](https://diaoc.nld.com.vn/bat-dong-san-thap-tang-noi-do-diem-tua-cua-dong-tien-trong-dai-han-196260413140941767.htm) - 03:51 14/04/2026
-- ⛽️ [Những ngôi nhà... nhất thế giới!](https://diaoc.nld.com.vn/nhung-ngoi-nha-nhat-the-gioi-196260313093935721.htm) - 02:18 13/04/2026
-- 👹 [The Aspira cất nóc vượt tiến độ: Khẳng định uy tín và năng lực triển khai](https://diaoc.nld.com.vn/the-aspira-cat-noc-vuot-tien-do-khang-dinh-uy-tin-va-nang-luc-trien-khai-196260412102537782.htm) - 01:51 13/04/2026
-- 👨‍🏫 [Chất lượng trải nghiệm sống: Chuẩn tham chiếu mới của BĐS cao cấp](https://diaoc.nld.com.vn/chat-luong-trai-nghiem-song-chuan-tham-chieu-moi-cua-bds-cao-cap-196260411162912932.htm) - 12:48 12/04/2026
-- 🚀 [Dịch vụ viết bài PR đăng báo DanaSEO - Tối ưu nội dung, tăng độ tin cậy thương hiệu](https://diaoc.nld.com.vn/dich-vu-viet-bai-pr-dang-bao-danaseo-toi-uu-noi-dung-tang-do-tin-cay-thuong-hieu-196260409205537579.htm) - 08:36 11/04/2026
-- 🌊 [Saint-Gobain Việt Nam công bố nhà máy đạt Zero Carbon đầu tiên trong ngành sản xuất tấm xi măng](https://diaoc.nld.com.vn/saint-gobain-viet-nam-cong-bo-nha-may-dat-zero-carbon-dau-tien-trong-nganh-san-xuat-tam-xi-mang-196260411085552429.htm) - 07:00 11/04/2026
-- 🎃 [Dịch vụ đánh giá Google Maps tại DanaSEO làm tăng độ uy tín của doanh nghiệp](https://diaoc.nld.com.vn/dich-vu-danh-gia-google-maps-tai-danaseo-lam-tang-do-uy-tin-cua-doanh-nghiep-196260409210656917.htm) - 09:59 10/04/2026<!-- nld-dia-oc:END -->
+- 💫 [“Những nhà phát triển có khả năng duy trì tiêu chuẩn mới là những người định hình thị trường&quot;](https://diaoc.nld.com.vn/nhung-nha-phat-trien-co-kha-nang-duy-tri-tieu-chuan-moi-la-nhung-nguoi-dinh-hinh-thi-truong-196260516122524657.htm) - 07:59 16/05/2026
+- 🦆 [Ant International thúc đẩy phổ cập AI](https://diaoc.nld.com.vn/ant-international-thuc-day-pho-cap-ai-196260516075318173.htm) - 07:02 16/05/2026
+- 🤠 [Xu hướng “nhà hộp rỗng” đang thu hút các chủ đầu tư sống xanh](https://diaoc.nld.com.vn/xu-huong-nha-hop-rong-dang-thu-hut-cac-chu-dau-tu-song-xanh-196260515203222215.htm) - 01:08 15/05/2026
+- 🎬 [Hạ tầng ngàn tỉ khai mở tâm điểm sống mới khu Đông Hà Nội](https://diaoc.nld.com.vn/ha-tang-ngan-ti-khai-mo-tam-diem-song-moi-khu-dong-ha-noi-196260514164715318.htm) - 10:23 14/05/2026
+- 🌋 [LG Electronics Việt Nam ra mắt dải sản phẩm TV AI và loa thanh 2026](https://diaoc.nld.com.vn/lg-electronics-viet-nam-ra-mat-dai-san-pham-tv-ai-va-loa-thanh-2026-196260514163955851.htm) - 09:51 14/05/2026
+- 🎡 [UOB Việt Nam được vinh danh “Ngân hàng tốt nhất cho doanh nghiệp FDI”](https://diaoc.nld.com.vn/uob-viet-nam-duoc-vinh-danh-ngan-hang-tot-nhat-cho-doanh-nghiep-fdi-196260514164330835.htm) - 09:50 14/05/2026
+- 🦒 [AIG động thổ Nhà máy chế biến dừa công nghệ hiện đại hàng đầu thế giới](https://diaoc.nld.com.vn/aig-dong-tho-nha-may-che-bien-dua-cong-nghe-hien-dai-hang-dau-the-gioi-196260512212921132.htm) - 07:35 13/05/2026
+- 🌝 [The Gió Riverside tung &quot;suất cuối&quot; đẹp nhất tháp Gió Đông](https://diaoc.nld.com.vn/the-gio-riverside-tung-suat-cuoi-dep-nhat-thap-gio-dong-196260512211704198.htm) - 07:34 13/05/2026
+- 🧑‍💻 [vivo và UNESCO triển khai dự án toàn cầu &quot;Capture the Future&quot;](https://diaoc.nld.com.vn/vivo-va-unesco-trien-khai-du-an-toan-cau-capture-the-future-196260512155628478.htm) - 09:03 12/05/2026
+- 💄 [Những địa chỉ hàng hiệu góp phần định hình diện mạo mới của Việt Nam trong góc nhìn quốc tế](https://diaoc.nld.com.vn/nhung-dia-chi-hang-hieu-gop-phan-dinh-hinh-dien-mao-moi-cua-viet-nam-trong-goc-nhin-quoc-te-196260511181022761.htm) - 02:41 12/05/2026
+- 🤠 [Mastercard và MDP hợp tác chiến lược thúc đẩy nền kinh tế số](https://diaoc.nld.com.vn/mastercard-va-mdp-hop-tac-chien-luoc-thuc-day-nen-kinh-te-so-196260510144630422.htm) - 07:52 10/05/2026
+- 💯 [Masterise Homes giới thiệu ấn phẩm Branded Living Magazine](https://diaoc.nld.com.vn/masterise-homes-gioi-thieu-an-pham-branded-living-magazine-196260507113049595.htm) - 09:48 08/05/2026
+- 🎓 [Masterise Homes 2 năm liên tiếp được vinh danh tại APPA](https://diaoc.nld.com.vn/masterise-homes-2-nam-lien-tiep-duoc-vinh-danh-tai-appa-196260508154109863.htm) - 08:57 08/05/2026
+- 🦏 [Gỡ vướng nhiều thắc mắc về nhà ở xã hội](https://diaoc.nld.com.vn/go-vuong-nhieu-thac-mac-ve-nha-o-xa-hoi-196260311093240078.htm) - 08:41 08/05/2026
+- 🎬 [Chung cư cao cấp: Từ lựa chọn thay thế thành chuẩn sống mới của cư dân Hải Phòng](https://diaoc.nld.com.vn/chung-cu-cao-cap-tu-lua-chon-thay-the-thanh-chuan-song-moi-cua-cu-dan-hai-phong-19626050809493287.htm) - 08:38 08/05/2026
+- 🧐 [Signify kiến tạo tương lai xanh cùng “Brighter Lives, Better World 2030”](https://diaoc.nld.com.vn/signify-kien-tao-tuong-lai-xanh-cung-brighter-lives-better-world-2030-196260506181917355.htm) - 15:16 06/05/2026
+- 🏊 [Ant International kết nối hơn 150 triệu nhà bán hàng với hơn 2 tỉ người tiêu dùng](https://diaoc.nld.com.vn/ant-international-ket-noi-hon-150-trieu-nha-ban-hang-voi-hon-2-ti-nguoi-tieu-dung-19626050508414663.htm) - 01:51 05/05/2026
+- 🎉 [Core tự chủ chuẩn Hàn Quốc: Nhà đầu tư hưởng lợi gì?](https://diaoc.nld.com.vn/core-tu-chu-chuan-han-quoc-nha-dau-tu-huong-loi-gi-196260505084747528.htm) - 01:50 05/05/2026
+- 💄 [“Hàng hiệu” đã được “định chuẩn”: Bước tiến mới của bất động sản cao cấp Việt Nam](https://diaoc.nld.com.vn/hang-hieu-da-duoc-dinh-chuan-buoc-tien-moi-cua-bat-dong-san-cao-cap-viet-nam-196260504102803899.htm) - 03:33 04/05/2026
+- 🎡 [Chọn gạch cho nhà của bạn](https://diaoc.nld.com.vn/chon-gach-cho-nha-cua-ban-196260410110002162.htm) - 03:15 04/05/2026
+- 🤔 [Lãi suất hạ nhiệt, nhà đầu tư rời “sóng ngắn” chuyển sang săn giá trị dài hạn](https://diaoc.nld.com.vn/lai-suat-ha-nhiet-nha-dau-tu-roi-song-ngan-chuyen-sang-san-gia-tri-dai-han-196260428115420086.htm) - 09:55 28/04/2026
+- 🎡 [Chuẩn sống đẳng cấp giữa lòng di sản cùng phân khu biệt thự Vinhomes Hạ Long Xanh](https://diaoc.nld.com.vn/chuan-song-dang-cap-giua-long-di-san-cung-phan-khu-biet-thu-vinhomes-ha-long-xanh-196260425130024166.htm) - 02:32 28/04/2026
+- 🚦 [Có nên mua nhà phố liền kề Vinhomes Làng Vân?](https://diaoc.nld.com.vn/co-nen-mua-nha-pho-lien-ke-vinhomes-lang-van-196260425125023867.htm) - 13:42 26/04/2026
+- 🦣 [Đại hội cổ đông VBI: Đẩy mạnh chuyển đổi số, gia tăng độ phủ kênh phân phối](https://diaoc.nld.com.vn/dai-hoi-co-dong-vbi-day-manh-chuyen-doi-so-gia-tang-do-phu-kenh-phan-phoi-196260426090059366.htm) - 13:40 26/04/2026
+- 🐘 [Đặc quyền lãi suất cho khách hàng - Dấu ấn đồng hành thiết thực từ Masterise Homes](https://diaoc.nld.com.vn/dac-quyen-lai-suat-cho-khach-hang-dau-an-dong-hanh-thiet-thuc-tu-masterise-homes-196260425120419399.htm) - 08:00 25/04/2026
+- 🦍 [Masterise Homes – “Người định chuẩn” cho bất động sản cao cấp](https://diaoc.nld.com.vn/masterise-homes-nguoi-dinh-chuan-cho-bat-dong-san-cao-cap-196260425115704591.htm) - 07:59 25/04/2026
+- 🦍 [PGBank hợp tác với Sân Golf Hoàng Gia ưu đãi đặc quyền cho chủ thẻ visa](https://diaoc.nld.com.vn/pgbank-hop-tac-voi-san-golf-hoang-gia-uu-dai-dac-quyen-cho-chu-the-visa-196260425105412704.htm) - 07:37 25/04/2026
+- 🎬 [Thêm cơ hội cho thịt gà chế biến Việt Nam tại thị trường Hàn Quốc](https://diaoc.nld.com.vn/them-co-hoi-cho-thit-ga-che-bien-viet-nam-tai-thi-truong-han-quoc-196260425114254945.htm) - 07:35 25/04/2026
+- 🌮 [Cát Bà: Từ miền di sản nguyên bản đến tâm điểm nghỉ dưỡng phía Bắc](https://diaoc.nld.com.vn/cat-ba-tu-mien-di-san-nguyen-ban-den-tam-diem-nghi-duong-phia-bac-196260424161916804.htm) - 09:54 24/04/2026
+- 🧑‍💻 [J&amp;T Express thích ứng linh hoạt để tăng trưởng bền vững](https://diaoc.nld.com.vn/jt-express-thich-ung-linh-hoat-de-tang-truong-ben-vung-196260424103813273.htm) - 07:02 24/04/2026
+- 🌮 [Sống giữa tầng không tại LUMIÈRE Essence Peak](https://diaoc.nld.com.vn/song-giua-tang-khong-tai-lumiere-essence-peak-196260423140536128.htm) - 09:55 23/04/2026
+- 🧰 [EZTax đồng hành cùng Thuế TPHCM hỗ trợ hộ kinh doanh kê khai và nộp thuế](https://diaoc.nld.com.vn/eztax-dong-hanh-cung-thue-tphcm-ho-tro-ho-kinh-doanh-ke-khai-va-nop-thue-196260423143942551.htm) - 09:54 23/04/2026
+- 👍 [Orchard Collection: Dẫn lối trải nghiệm tinh mỹ](https://diaoc.nld.com.vn/orchard-collection-dan-loi-trai-nghiem-tinh-my-196260423114204291.htm) - 07:59 23/04/2026
+- 🫣 [Dẫn dắt chuỗi cung ứng bền vững với lợi thế ERP trong kỷ nguyên chuyển đổi số tiếp theo của Việt Nam](https://diaoc.nld.com.vn/dan-dat-chuoi-cung-ung-ben-vung-voi-loi-the-erp-trong-ky-nguyen-chuyen-doi-so-tiep-theo-cua-viet-nam-196260422160539155.htm) - 02:07 23/04/2026
+- 🐲 [Rakuten Viber hợp tác chiến lược với nền tảng Pharaon](https://diaoc.nld.com.vn/rakuten-viber-hop-tac-chien-luoc-voi-nen-tang-pharaon-196260421175942866.htm) - 11:50 21/04/2026
+- 🦅 [PGBank đặt mục tiêu lợi nhuận 1.438 tỉ đồng năm 2026](https://diaoc.nld.com.vn/pgbank-dat-muc-tieu-loi-nhuan-1438-ti-dong-nam-2026-196260421180227029.htm) - 11:34 21/04/2026
+- 📝 [Gửi tiết kiệm, mua vàng, cổ phiếu hay nhà đất...?](https://diaoc.nld.com.vn/gui-tiet-kiem-mua-vang-co-phieu-hay-nha-dat-196260321092013431.htm) - 08:16 20/04/2026
+- 🤖 [Bosch Việt Nam đẩy nhanh tốc độ tăng trưởng, củng cố sự hiện diện thương hiệu](https://diaoc.nld.com.vn/bosch-viet-nam-day-nhanh-toc-do-tang-truong-cung-co-su-hien-dien-thuong-hieu-196260419085919979.htm) - 13:40 19/04/2026
+- 🪄 [Imperia: Khi chuẩn sống cao cấp được nâng tầm thành hệ tiêu chuẩn](https://diaoc.nld.com.vn/imperia-khi-chuan-song-cao-cap-duoc-nang-tam-thanh-he-tieu-chuan-196260417110111073.htm) - 07:08 17/04/2026
+- 💄 [Mastercard thúc đẩy thương mại ứng dụng AI tại Việt Nam](https://diaoc.nld.com.vn/mastercard-thuc-day-thuong-mai-ung-dung-ai-tai-viet-nam-196260416164458412.htm) - 02:57 17/04/2026
+- 💼 [Khu Đông: Khi dòng vốn, doanh nghiệp và nhân tài cùng hội tụ](https://diaoc.nld.com.vn/khu-dong-khi-dong-von-doanh-nghiep-va-nhan-tai-cung-hoi-tu-196260416142444535.htm) - 07:28 16/04/2026
+- 🤔 [Khát vọng tỉ đô của Gremsy: Từ &quot;vườn ươm&quot; SHTP đến tham vọng kỳ lân vào năm 2030](https://diaoc.nld.com.vn/khat-vong-ti-do-cua-gremsy-tu-vuon-uom-shtp-den-tham-vong-ky-lan-vao-nam-2030-196260415155054867.htm) - 08:56 15/04/2026
+- 🦣 [The Magnolia và câu chuyện về sự chuyển dịch của bất động sản hạng sang](https://diaoc.nld.com.vn/the-magnolia-va-cau-chuyen-ve-su-chuyen-dich-cua-bat-dong-san-hang-sang-196260415155346463.htm) - 08:55 15/04/2026
+- ⚗️ [VSOL hợp tác với Workday kết nối chuẩn quản trị nguồn nhân lực toàn cầu](https://diaoc.nld.com.vn/vsol-hop-tac-voi-workday-ket-noi-chuan-quan-tri-nguon-nhan-luc-toan-cau-196260414191305843.htm) - 01:50 15/04/2026
+- ⛽️ [Tài chính tiêu dùng không chỉ là vốn, mà là sự bao trùm](https://diaoc.nld.com.vn/tai-chinh-tieu-dung-khong-chi-la-von-ma-la-su-bao-trum-196260414190301069.htm) - 01:49 15/04/2026
+- 👹 [HIEA PICKLEBALL 2026: Khi doanh nhân &quot;cháy&quot; hết mình trên sân đấu!](https://diaoc.nld.com.vn/hiea-pickleball-2026-khi-doanh-nhan-chay-het-minh-tren-san-dau-196260414111728196.htm) - 05:34 14/04/2026
+- 👨‍🏫 [Bất động sản thấp tầng nội đô: “Điểm tựa” của dòng tiền trong dài hạn](https://diaoc.nld.com.vn/bat-dong-san-thap-tang-noi-do-diem-tua-cua-dong-tien-trong-dai-han-196260413140941767.htm) - 03:51 14/04/2026
+- 🚀 [Những ngôi nhà... nhất thế giới!](https://diaoc.nld.com.vn/nhung-ngoi-nha-nhat-the-gioi-196260313093935721.htm) - 02:18 13/04/2026
+- 🌊 [The Aspira cất nóc vượt tiến độ: Khẳng định uy tín và năng lực triển khai](https://diaoc.nld.com.vn/the-aspira-cat-noc-vuot-tien-do-khang-dinh-uy-tin-va-nang-luc-trien-khai-196260412102537782.htm) - 01:51 13/04/2026
+- 🎃 [Chất lượng trải nghiệm sống: Chuẩn tham chiếu mới của BĐS cao cấp](https://diaoc.nld.com.vn/chat-luong-trai-nghiem-song-chuan-tham-chieu-moi-cua-bds-cao-cap-196260411162912932.htm) - 12:48 12/04/2026<!-- nld-dia-oc:END -->
