@@ -4,53 +4,53 @@ sidebar_position: 2
 ---
 
 <!-- tuoitre-thoi-su:START -->
-- 🎡 [Thời tiết hôm nay 18-5: Cả nước có mưa, đề phòng sạt lở, ngập nước](https://tuoitre.vn/thoi-tiet-hom-nay-18-5-ca-nuoc-co-mua-de-phong-sat-lo-ngap-nuoc-20260517170934056.htm) - 22:07 17/05/2026
-- 🌈 [Công an Đồng Nai khởi tố 4 người ném ‘bom xăng’ vào nhà người khác trong đêm](https://tuoitre.vn/cong-an-dong-nai-khoi-to-4-nguoi-nem-bom-xang-vao-nha-nguoi-khac-trong-dem-20260517220022225.htm) - 15:11 17/05/2026
-- 🌏 [Đồng Nai làm lễ lên thành phố, học sinh ở 10 phường được nghỉ học](https://tuoitre.vn/dong-nai-lam-le-len-thanh-pho-hoc-sinh-o-10-phuong-duoc-nghi-hoc-20260517215553732.htm) - 15:06 17/05/2026
-- 🦏 [Thanh niên 6 lần cướp giật dây chuyền, kiềng vàng tại Gia Lai ra đầu thú](https://tuoitre.vn/thanh-nien-6-lan-cuop-giat-day-chuyen-kieng-vang-tai-gia-lai-ra-dau-thu-20260517211940129.htm) - 15:05 17/05/2026
-- 🔥 [Nguyên Phó chủ tịch Quốc hội: Báo chí nâng đỡ &#39;mầm xanh&#39; nông nghiệp, thúc đẩy thành xu hướng](https://tuoitre.vn/nguyen-pho-chu-tich-quoc-hoi-bao-chi-nang-do-mam-xanh-nong-nghiep-thuc-day-thanh-xu-huong-20260517205521071.htm) - 14:29 17/05/2026
-- 🧰 [WHO cảnh báo khẩn cấp vì bùng dịch Ebola: Bộ Y tế khuyến cáo gì?](https://tuoitre.vn/who-canh-bao-khan-cap-vi-bung-dich-ebola-bo-y-te-khuyen-cao-gi-20260517203320906.htm) - 13:53 17/05/2026
-- 🏊 [Thầy hiệu trưởng nhận đỡ đầu bé trai nghi bị cha và mẹ kế bạo hành](https://tuoitre.vn/thay-hieu-truong-nhan-do-dau-be-trai-nghi-bi-cha-va-me-ke-bao-hanh-20260517202050297.htm) - 13:47 17/05/2026
-- 🕯 [Sau mưa lớn ở Phú Yên, sạt lở nghiêm trọng trên tuyến đường đang thi công](https://tuoitre.vn/sau-mua-lon-o-phu-yen-sat-lo-nghiem-trong-tren-tuyen-duong-dang-thi-cong-20260517195644918.htm) - 13:35 17/05/2026
-- 🌜 [Chủ tịch Trịnh Văn Tuấn bị khởi tố: Tài sản chục nghìn tỉ, PC1 ra sao sau thời tăng trưởng mạnh?](https://tuoitre.vn/chu-tich-trinh-van-tuan-bi-khoi-to-tai-san-chuc-nghin-ti-pc1-ra-sao-sau-thoi-tang-truong-manh-20260517193750108.htm) - 12:55 17/05/2026
-- 🐲 [&#39;Chảo lửa&#39; ở Khánh Hòa đón ‘mưa vàng’ giữa cao điểm khô hạn](https://tuoitre.vn/chao-lua-o-khanh-hoa-don-mua-vang-giua-cao-diem-kho-han-2026051718402241.htm) - 12:23 17/05/2026
-- 🦅 [Xuất khẩu sầu riêng vào Mỹ, Hàn… tăng mạnh nhưng vẫn còn nhiều nỗi lo](https://tuoitre.vn/xuat-khau-sau-rieng-vao-my-han-tang-manh-nhung-van-con-nhieu-noi-lo-20260517182346146.htm) - 11:39 17/05/2026
-- 🧰 [Gia Lai tăng trưởng quý 1 dẫn đầu vùng Nam Trung Bộ và Tây Nguyên](https://tuoitre.vn/gia-lai-tang-truong-quy-i-dat-8-51-dan-dau-vung-nam-trung-bo-tay-nguyen-20260517173545407.htm) - 10:54 17/05/2026
-- 🎭 [Bắt tạm giam một người ở An Giang sử dụng vũ khí quân dụng](https://tuoitre.vn/bat-tam-giam-mot-nguoi-o-an-giang-su-dung-vu-khi-quan-dung-20260517174052322.htm) - 10:52 17/05/2026
-- 🎬 [Chiều mai, khai thác toàn tuyến cao tốc Biên Hòa - Vũng Tàu, tốc độ không quá 80km/h](https://tuoitre.vn/chieu-mai-khai-thac-toan-tuyen-cao-toc-bien-hoa-vung-tau-toc-do-khong-qua-80km-h-2026051716411978.htm) - 10:06 17/05/2026
-- 🚀 [Cục Bà mẹ và Trẻ em đề nghị Đắk Lắk báo cáo vụ 4 trẻ em chết đuối](https://tuoitre.vn/cuc-ba-me-va-tre-em-yeu-cau-tinh-dak-lak-bao-cao-vu-4-tre-em-chet-duoi-o-xa-hoa-my-20260517163341068.htm) - 10:03 17/05/2026
-- 🎃 [Đà Nẵng soạn bộ quy chế quản lý phố cổ Hội An, nhiều ngành nghề sẽ bị hạn chế](https://tuoitre.vn/da-nang-soan-bo-quy-che-quan-ly-pho-co-hoi-an-nhieu-nganh-nghe-se-bi-han-che-20260517163203817.htm) - 09:54 17/05/2026
-- ⚗️ [TP.HCM mưa dông mạnh, gió giật ầm ầm](https://tuoitre.vn/tp-hcm-mua-dong-manh-gio-giat-am-am-20260517161358728.htm) - 09:37 17/05/2026
-- 💫 [Thêm một cây xanh bị &#39;lột da&#39; ở Quảng Ngãi](https://tuoitre.vn/them-mot-cay-xanh-bi-lot-da-o-quang-ngai-20260517143748138.htm) - 08:16 17/05/2026
-- 💻 [Chợ tự phát hoạt động náo nhiệt giữa khuya ở Hà Nội](https://tuoitre.vn/cho-tu-phat-hoat-dong-nao-nhiet-giua-khuya-o-ha-noi-20260517120114725.htm) - 08:11 17/05/2026
-- 🫶 [Vĩnh Long đầu tư hơn 3.500 tỉ đồng xây cầu Cổ Chiên 2](https://tuoitre.vn/vinh-long-dau-tu-hon-3-500-ti-dong-xay-cau-co-chien-2-20260517142024668.htm) - 07:51 17/05/2026
-- 🦍 [Nghĩ về Bác để sống đẹp hơn, cống hiến nhiều hơn](https://tuoitre.vn/nghi-ve-bac-de-song-dep-hon-cong-hien-nhieu-hon-20260517141825141.htm) - 07:49 17/05/2026
-- 💼 [Công an TP.HCM thực hiện cao điểm chuyển hóa địa bàn phức tạp an ninh trật tự](https://tuoitre.vn/cong-an-tp-hcm-thuc-hien-cao-diem-chuyen-hoa-dia-ban-phuc-tap-an-ninh-trat-tu-20260517133713343.htm) - 07:04 17/05/2026
-- 🌝 [Ánh sáng Hồ Chí Minh soi đường cho chúng ta đi](https://tuoitre.vn/anh-sang-ho-chi-minh-soi-duong-cho-chung-ta-di-20260517084509245.htm) - 06:53 17/05/2026
-- 😎 [4 học sinh chết đuối: Nỗi đau xé lòng bên dòng sông Bánh Lái](https://tuoitre.vn/4-hoc-sinh-chet-duoi-noi-dau-xe-long-ben-dong-song-banh-lai-20260517122314411.htm) - 06:52 17/05/2026
-- 🦍 [Người cho thuê nhà đất nộp thuế thu nhập cá nhân ra sao theo quy định mới?](https://tuoitre.vn/nguoi-cho-thue-nha-dat-nop-thue-thu-nhap-ca-nhan-ra-sao-theo-quy-dinh-moi-2026051211542193.htm) - 06:24 17/05/2026
-- 🪜 [Hàng loạt gốc phi lao đại thụ bị đốn hạ, cơ quan chức năng &#39;nhập nhằng&#39; trách nhiệm quản lý](https://tuoitre.vn/hang-loat-goc-phi-lao-dai-thu-bi-don-ha-co-quan-chuc-nang-nhap-nhang-trach-nhiem-quan-ly-20260517121555134.htm) - 05:49 17/05/2026
-- 🌏 [Chở xác ve sầu cần lưu ý nguồn gốc; Lý do thu hồi lô thuốc nhỏ mắt Natri clorid 0,9% của Pharmedic](https://tuoitre.vn/cho-xac-ve-sau-can-luu-y-nguon-goc-ly-do-thu-hoi-lo-thuoc-nho-mat-natri-clorid-0-9-cua-pharmedic-20260515174831517.htm) - 05:29 17/05/2026
-- 🎡 [Định hình lại tương lai An Giang, 19 dự án vốn 66.000 tỉ đồng chuẩn bị vào cuộc](https://tuoitre.vn/dinh-hinh-lai-tuong-lai-an-giang-19-du-an-von-66-000-ti-dong-chuan-bi-vao-cuoc-20260517105354724.htm) - 05:16 17/05/2026
-- 🤖 [Hơn 7.000 tỉ đồng trong 141 dự án ở Đắk Lắk &#39;tắc&#39; giải phóng mặt bằng](https://tuoitre.vn/hon-7-000-ti-dong-trong-141-du-an-o-dak-lak-tac-giai-phong-mat-bang-20260516154253446.htm) - 04:12 17/05/2026
-- 💯 [Dự báo thời tiết từ 17 đến 23-5: Mưa dông kéo dài, trời mát mẻ](https://tuoitre.vn/du-bao-thoi-tiet-tu-17-den-23-5-mua-dong-keo-dai-troi-mat-me-20260516163740748.htm) - 04:02 17/05/2026
-- 🤗 [‘Sức khỏe’ hộ kinh doanh suy giảm](https://tuoitre.vn/suc-khoe-ho-kinh-doanh-suy-giam-20260517103741851.htm) - 03:53 17/05/2026
-- 🕯 [Hình ảnh mưa lũ cuốn trôi xe khách, tàn phá đường ở Cao Bằng](https://tuoitre.vn/hinh-anh-mua-lu-cuon-troi-xe-khach-tan-pha-duong-o-cao-bang-20260517093355265.htm) - 02:57 17/05/2026
-- 🏊 [Cháy nhà trong hẻm, một nam thanh niên chết trong phòng ngủ](https://tuoitre.vn/chay-nha-trong-hem-mot-nam-thanh-nien-chet-trong-phong-ngu-20260517093238919.htm) - 02:49 17/05/2026
-- 🤔 [Công thức tính lương cán bộ, công chức khi tăng lương cơ sở lên 2,53 triệu từ 1-7](https://tuoitre.vn/cong-thuc-tinh-luong-can-bo-cong-chuc-khi-tang-luong-co-so-len-2-53-trieu-tu-1-7-20260517082422822.htm) - 02:09 17/05/2026
-- 🤓 [Thủ tướng: Các bộ trưởng nghiêm túc kiểm điểm trách nhiệm chậm ban hành văn bản](https://tuoitre.vn/thu-tuong-cac-bo-truong-nghiem-tuc-kiem-diem-trach-nhiem-cham-ban-hanh-van-ban-20260517074114363.htm) - 01:01 17/05/2026
-- ⛽️ [Bảng lương chi tiết của quân đội khi tăng lương cơ sở lên 2,53 triệu đồng từ 1-7](https://tuoitre.vn/bang-luong-chi-tiet-cua-quan-doi-khi-tang-luong-co-so-len-2-53-trieu-dong-tu-1-7-20260517074448539.htm) - 01:01 17/05/2026
-- 🗽 [Những chính sách hỗ trợ mức đóng BHYT nào đang áp dụng tại TP.HCM?](https://tuoitre.vn/nhung-chinh-sach-ho-tro-muc-dong-bhyt-nao-dang-ap-dung-tai-tp-hcm-20260516164916232.htm) - 22:55 16/05/2026
-- 🚀 [Tin tức sáng 17-5: Đề xuất tăng gấp đôi số câu hỏi kiểm tra để phục hồi điểm bằng lái xe](https://tuoitre.vn/tin-tuc-sang-17-5-de-xuat-tang-gap-doi-so-cau-hoi-kiem-tra-de-phuc-hoi-diem-bang-lai-xe-20260516220342745.htm) - 22:19 16/05/2026
-- 🐵 [Thời tiết hôm nay 17-5: Bớt nắng nóng, mưa tăng trên cả nước](https://tuoitre.vn/thoi-tiet-hom-nay-17-5-bot-nang-nong-mua-tang-tren-ca-nuoc-20260516163000545.htm) - 20:07 16/05/2026
-- 🦩 [Cục CSGT: Nghiên cứu tổ chức làn đảo chiều thêm 2 tuyến đường, tương tự đường Cộng Hòa](https://tuoitre.vn/cuc-csgt-nghien-cuu-to-chuc-lan-dao-chieu-them-2-tuyen-duong-tuong-tu-duong-cong-hoa-20260516213616753.htm) - 14:50 16/05/2026
-- 🧐 [Cảnh sát tóm gọn kẻ cướp giật điện thoại trên tỉnh lộ 10 chỉ sau 30 phút](https://tuoitre.vn/canh-sat-tom-gon-ke-cuop-giat-dien-thoai-tren-tinh-lo-10-chi-sau-30-phut-20260516205448857.htm) - 14:38 16/05/2026
-- 😺 [Bắt tạm giam một giáo viên ở An Giang lợi dụng tự do ngôn luận xâm phạm lợi ích tổ chức, cá nhân](https://tuoitre.vn/bat-tam-giam-mot-giao-vien-o-an-giang-loi-dung-tu-do-ngon-luan-xam-pham-loi-ich-to-chuc-ca-nhan-20260516193252343.htm) - 13:03 16/05/2026
-- 🐲 [Bộ Công Thương đề xuất thành lập Cục Năng lượng - Dầu khí](https://tuoitre.vn/bo-cong-thuong-de-xuat-thanh-lap-cuc-nang-luong-dau-khi-20260516193548468.htm) - 12:50 16/05/2026
-- 🤔 [Nhận được 400 triệu đồng, người phụ nữ báo công an trả lại người chuyển tiền nhầm](https://tuoitre.vn/nhan-duoc-400-trieu-dong-nguoi-phu-nu-bao-cong-an-tra-lai-nguoi-chuyen-tien-nham-2026051619193553.htm) - 12:44 16/05/2026
-- 💄 [Rủ nhau đi tắm sông, 4 học sinh chết đuối thương tâm](https://tuoitre.vn/dak-lak-ru-nhau-di-tam-song-4-em-hoc-sinh-duoi-nuoc-thuong-tam-20260516191634747.htm) - 12:37 16/05/2026
-- 🤗 [Kiểm tra thực địa, rà soát tiến độ triển khai các công trình phục vụ APEC 2027](https://tuoitre.vn/kiem-tra-thuc-dia-ra-soat-tien-do-trien-khai-cac-cong-trinh-phuc-vu-apec-2027-20260516184358639.htm) - 12:11 16/05/2026
-- 🦏 [Cảnh sát biển Việt Nam khảo sát biển đảo Tây Nam của Tổ quốc](https://tuoitre.vn/canh-sat-bien-viet-nam-khao-sat-bien-dao-tay-nam-cua-to-quoc-20260516180203744.htm) - 12:00 16/05/2026
-- 😎 [Tìm thấy thi thể bé gái cách hiện trường chìm ghe khoảng 3km](https://tuoitre.vn/tim-thay-thi-the-be-gai-cach-hien-truong-chim-ghe-khoang-3km-20260516183803956.htm) - 11:58 16/05/2026
-- 🪜 [Cô gái kể lại thời điểm bị nhóm nam nữ đi Lexus hành hung trên phố](https://tuoitre.vn/co-gai-ke-lai-thoi-diem-bi-nhom-nam-nu-di-lexus-hanh-hung-tren-pho-20260516184207894.htm) - 11:55 16/05/2026
-- 🎉 [Mưa dông đang trút xuống TP.HCM, càng về tối càng lan rộng](https://tuoitre.vn/mua-dong-dang-trut-xuong-tp-hcm-cang-ve-toi-cang-lan-rong-20260516184137068.htm) - 11:49 16/05/2026<!-- tuoitre-thoi-su:END -->
+- 🎡 [Phát lệnh truy nã đặc biệt nghi phạm cầm đầu đường dây cá độ liên tỉnh](https://tuoitre.vn/phat-lenh-truy-na-dac-biet-nghi-pham-cam-dau-duong-day-ca-do-lien-tinh-20260518101954997.htm) - 03:41 18/05/2026
+- 🌈 [Bí thư Trần Lưu Quang trao Huy hiệu 65 tuổi Đảng cho nguyên Phó chủ tịch nước Trương Mỹ Hoa](https://tuoitre.vn/bi-thu-tran-luu-quang-trao-huy-hieu-65-tuoi-dang-cho-nguyen-pho-chu-tich-nuoc-truong-my-hoa-20260518102550444.htm) - 03:34 18/05/2026
+- 🌏 [Cô gái dùng gậy chỉ huy giao thông dừng xe cảnh sát giao thông gây bão mạng](https://tuoitre.vn/co-gai-dung-gay-chi-huy-giao-thong-dung-xe-canh-sat-giao-thong-gay-bao-mang-20260518093344183.htm) - 03:19 18/05/2026
+- 🦏 [Ngắm đô thị Đồng Nai trước giờ công bố lên thành phố](https://tuoitre.vn/ngam-do-thi-dong-nai-truoc-gio-cong-bo-len-thanh-pho-20260518064229796.htm) - 03:15 18/05/2026
+- 🔥 [Đường Cộng Hòa thoáng hơn trong sáng đầu tuần sau 3 ngày mở làn đảo chiều](https://tuoitre.vn/duong-cong-hoa-thoang-hon-trong-sang-dau-tuan-sau-3-ngay-mo-lan-dao-chieu-20260518085837599.htm) - 02:25 18/05/2026
+- 🧰 [Vào cao tốc Biên Hòa - Vũng Tàu đoạn qua thành phố Đồng Nai, tài xế lưu ý gì?](https://tuoitre.vn/vao-cao-toc-bien-hoa-vung-tau-doan-qua-thanh-pho-dong-nai-tai-xe-luu-y-gi-20260517195423973.htm) - 02:08 18/05/2026
+- 🏊 [Nghệ An khởi công siêu dự án nhiệt điện gần 60.000 tỉ đồng](https://tuoitre.vn/nghe-an-khoi-cong-sieu-du-an-nhiet-dien-gan-60-000-ti-dong-20260518084333261.htm) - 01:59 18/05/2026
+- 🕯 [Chi tiết bảng lương công an khi tăng lương cơ sở lên 2,53 triệu từ 1-7](https://tuoitre.vn/chi-tiet-bang-luong-cong-an-khi-tang-luong-co-so-len-2-53-trieu-tu-1-7-20260518084013846.htm) - 01:58 18/05/2026
+- 🌜 [Campuchia trục xuất 457 công dân Trung Quốc và Việt Nam liên quan lừa đảo trực tuyến](https://tuoitre.vn/campuchia-truc-xuat-457-cong-dan-trung-quoc-va-viet-nam-lien-quan-den-lua-dao-truc-tuyen-20260518081733197.htm) - 01:53 18/05/2026
+- 🐲 [Doanh nghiệp tài trợ xây công trình để đời](https://tuoitre.vn/doanh-nghiep-tai-tro-xay-cong-trinh-de-doi-20260518081504464.htm) - 01:25 18/05/2026
+- 🦅 [Ông Lê Công Lý làm Phó chủ tịch thường trực UBND thành phố Cần Thơ](https://tuoitre.vn/ong-le-cong-ly-lam-pho-chu-tich-thuong-truc-ubnd-thanh-pho-can-tho-20260518080746509.htm) - 01:18 18/05/2026
+- 🧰 [Hai người chết ở bếp Làng Hoa nghi do điện giật](https://tuoitre.vn/hai-nguoi-chet-o-bep-lang-hoa-nghi-do-dien-giat-20260518071813328.htm) - 01:05 18/05/2026
+- 🎭 [Hôm nay, công bố nghị quyết của Quốc hội về việc thành lập thành phố Đồng Nai](https://tuoitre.vn/hom-nay-cong-bo-nghi-quyet-cua-quoc-hoi-ve-viec-thanh-lap-thanh-pho-dong-nai-20260518075510034.htm) - 01:03 18/05/2026
+- 🎬 [Hành hung shipper vì từ chối cắt lông chó, đã hung hăng vô lý mà còn ngược đãi động vật](https://tuoitre.vn/hanh-hung-shipper-vi-tu-choi-cat-long-cho-da-hung-hang-vo-ly-ma-con-nguoc-dai-dong-vat-20260516110437226.htm) - 23:09 17/05/2026
+- 🚀 [Tin tức sáng 18-5: Tiêu thụ điện lập kỷ lục nhiều ngày, dự báo còn tăng, nguy cơ El Nino từ tháng 6](https://tuoitre.vn/tin-tuc-sang-18-5-tieu-thu-dien-lap-ky-luc-nhieu-ngay-du-bao-con-tang-nguy-co-el-nino-tu-thang-6-20260517232222727.htm) - 23:00 17/05/2026
+- 🎃 [Bị báo lỗi vượt đèn đỏ nhưng do đèn bị lỗi, tài xế có bị xử phạt?](https://tuoitre.vn/bi-bao-loi-vuot-den-do-nhung-do-den-bi-loi-tai-xe-co-bi-xu-phat-20260517172214473.htm) - 22:51 17/05/2026
+- ⚗️ [Thời tiết hôm nay 18-5: Cả nước có mưa, đề phòng sạt lở, ngập nước](https://tuoitre.vn/thoi-tiet-hom-nay-18-5-ca-nuoc-co-mua-de-phong-sat-lo-ngap-nuoc-20260517170934056.htm) - 22:07 17/05/2026
+- 💫 [Công an Đồng Nai khởi tố 4 người ném ‘bom xăng’ vào nhà người khác trong đêm](https://tuoitre.vn/cong-an-dong-nai-khoi-to-4-nguoi-nem-bom-xang-vao-nha-nguoi-khac-trong-dem-20260517220022225.htm) - 15:11 17/05/2026
+- 💻 [Đồng Nai làm lễ lên thành phố, học sinh ở 10 phường được nghỉ học](https://tuoitre.vn/dong-nai-lam-le-len-thanh-pho-hoc-sinh-o-10-phuong-duoc-nghi-hoc-20260517215553732.htm) - 15:06 17/05/2026
+- 🫶 [Thanh niên 6 lần cướp giật dây chuyền, kiềng vàng tại Gia Lai ra đầu thú](https://tuoitre.vn/thanh-nien-6-lan-cuop-giat-day-chuyen-kieng-vang-tai-gia-lai-ra-dau-thu-20260517211940129.htm) - 15:05 17/05/2026
+- 🦍 [Nguyên Phó chủ tịch Quốc hội: Báo chí nâng đỡ &#39;mầm xanh&#39; nông nghiệp, thúc đẩy thành xu hướng](https://tuoitre.vn/nguyen-pho-chu-tich-quoc-hoi-bao-chi-nang-do-mam-xanh-nong-nghiep-thuc-day-thanh-xu-huong-20260517205521071.htm) - 14:29 17/05/2026
+- 💼 [WHO cảnh báo khẩn cấp vì bùng dịch Ebola: Bộ Y tế khuyến cáo gì?](https://tuoitre.vn/who-canh-bao-khan-cap-vi-bung-dich-ebola-bo-y-te-khuyen-cao-gi-20260517203320906.htm) - 13:53 17/05/2026
+- 🌝 [Thầy hiệu trưởng nhận đỡ đầu bé trai nghi bị cha và mẹ kế bạo hành](https://tuoitre.vn/thay-hieu-truong-nhan-do-dau-be-trai-nghi-bi-cha-va-me-ke-bao-hanh-20260517202050297.htm) - 13:47 17/05/2026
+- 😎 [Sau mưa lớn ở Phú Yên, sạt lở nghiêm trọng trên tuyến đường đang thi công](https://tuoitre.vn/sau-mua-lon-o-phu-yen-sat-lo-nghiem-trong-tren-tuyen-duong-dang-thi-cong-20260517195644918.htm) - 13:35 17/05/2026
+- 🦍 [Chủ tịch Trịnh Văn Tuấn bị khởi tố: Tài sản chục nghìn tỉ, PC1 ra sao sau thời tăng trưởng mạnh?](https://tuoitre.vn/chu-tich-trinh-van-tuan-bi-khoi-to-tai-san-chuc-nghin-ti-pc1-ra-sao-sau-thoi-tang-truong-manh-20260517193750108.htm) - 12:55 17/05/2026
+- 🪜 [&#39;Chảo lửa&#39; ở Khánh Hòa đón ‘mưa vàng’ giữa cao điểm khô hạn](https://tuoitre.vn/chao-lua-o-khanh-hoa-don-mua-vang-giua-cao-diem-kho-han-2026051718402241.htm) - 12:23 17/05/2026
+- 🌏 [Xuất khẩu sầu riêng vào Mỹ, Hàn… tăng mạnh nhưng vẫn còn nhiều nỗi lo](https://tuoitre.vn/xuat-khau-sau-rieng-vao-my-han-tang-manh-nhung-van-con-nhieu-noi-lo-20260517182346146.htm) - 11:39 17/05/2026
+- 🎡 [Gia Lai tăng trưởng quý 1 dẫn đầu vùng Nam Trung Bộ và Tây Nguyên](https://tuoitre.vn/gia-lai-tang-truong-quy-i-dat-8-51-dan-dau-vung-nam-trung-bo-tay-nguyen-20260517173545407.htm) - 10:54 17/05/2026
+- 🤖 [Bắt tạm giam một người ở An Giang sử dụng vũ khí quân dụng](https://tuoitre.vn/bat-tam-giam-mot-nguoi-o-an-giang-su-dung-vu-khi-quan-dung-20260517174052322.htm) - 10:52 17/05/2026
+- 💯 [Chiều mai, khai thác toàn tuyến cao tốc Biên Hòa - Vũng Tàu, tốc độ không quá 80km/h](https://tuoitre.vn/chieu-mai-khai-thac-toan-tuyen-cao-toc-bien-hoa-vung-tau-toc-do-khong-qua-80km-h-2026051716411978.htm) - 10:06 17/05/2026
+- 🤗 [Cục Bà mẹ và Trẻ em đề nghị Đắk Lắk báo cáo vụ 4 trẻ em chết đuối](https://tuoitre.vn/cuc-ba-me-va-tre-em-yeu-cau-tinh-dak-lak-bao-cao-vu-4-tre-em-chet-duoi-o-xa-hoa-my-20260517163341068.htm) - 10:03 17/05/2026
+- 🕯 [Đà Nẵng soạn bộ quy chế quản lý phố cổ Hội An, nhiều ngành nghề sẽ bị hạn chế](https://tuoitre.vn/da-nang-soan-bo-quy-che-quan-ly-pho-co-hoi-an-nhieu-nganh-nghe-se-bi-han-che-20260517163203817.htm) - 09:54 17/05/2026
+- 🏊 [TP.HCM mưa dông mạnh, gió giật ầm ầm](https://tuoitre.vn/tp-hcm-mua-dong-manh-gio-giat-am-am-20260517161358728.htm) - 09:37 17/05/2026
+- 🤔 [Thêm một cây xanh bị &#39;lột da&#39; ở Quảng Ngãi](https://tuoitre.vn/them-mot-cay-xanh-bi-lot-da-o-quang-ngai-20260517143748138.htm) - 08:16 17/05/2026
+- 🤓 [Chợ tự phát hoạt động náo nhiệt giữa khuya ở Hà Nội](https://tuoitre.vn/cho-tu-phat-hoat-dong-nao-nhiet-giua-khuya-o-ha-noi-20260517120114725.htm) - 08:11 17/05/2026
+- ⛽️ [Vĩnh Long đầu tư hơn 3.500 tỉ đồng xây cầu Cổ Chiên 2](https://tuoitre.vn/vinh-long-dau-tu-hon-3-500-ti-dong-xay-cau-co-chien-2-20260517142024668.htm) - 07:51 17/05/2026
+- 🗽 [Nghĩ về Bác để sống đẹp hơn, cống hiến nhiều hơn](https://tuoitre.vn/nghi-ve-bac-de-song-dep-hon-cong-hien-nhieu-hon-20260517141825141.htm) - 07:49 17/05/2026
+- 🚀 [Công an TP.HCM thực hiện cao điểm chuyển hóa địa bàn phức tạp an ninh trật tự](https://tuoitre.vn/cong-an-tp-hcm-thuc-hien-cao-diem-chuyen-hoa-dia-ban-phuc-tap-an-ninh-trat-tu-20260517133713343.htm) - 07:04 17/05/2026
+- 🐵 [Ánh sáng Hồ Chí Minh soi đường cho chúng ta đi](https://tuoitre.vn/anh-sang-ho-chi-minh-soi-duong-cho-chung-ta-di-20260517084509245.htm) - 06:53 17/05/2026
+- 🦩 [4 học sinh chết đuối: Nỗi đau xé lòng bên dòng sông Bánh Lái](https://tuoitre.vn/4-hoc-sinh-chet-duoi-noi-dau-xe-long-ben-dong-song-banh-lai-20260517122314411.htm) - 06:52 17/05/2026
+- 🧐 [Người cho thuê nhà đất nộp thuế thu nhập cá nhân ra sao theo quy định mới?](https://tuoitre.vn/nguoi-cho-thue-nha-dat-nop-thue-thu-nhap-ca-nhan-ra-sao-theo-quy-dinh-moi-2026051211542193.htm) - 06:24 17/05/2026
+- 😺 [Hàng loạt gốc phi lao đại thụ bị đốn hạ, cơ quan chức năng &#39;nhập nhằng&#39; trách nhiệm quản lý](https://tuoitre.vn/hang-loat-goc-phi-lao-dai-thu-bi-don-ha-co-quan-chuc-nang-nhap-nhang-trach-nhiem-quan-ly-20260517121555134.htm) - 05:49 17/05/2026
+- 🐲 [Chở xác ve sầu cần lưu ý nguồn gốc; Lý do thu hồi lô thuốc nhỏ mắt Natri clorid 0,9% của Pharmedic](https://tuoitre.vn/cho-xac-ve-sau-can-luu-y-nguon-goc-ly-do-thu-hoi-lo-thuoc-nho-mat-natri-clorid-0-9-cua-pharmedic-20260515174831517.htm) - 05:29 17/05/2026
+- 🤔 [Định hình lại tương lai An Giang, 19 dự án vốn 66.000 tỉ đồng chuẩn bị vào cuộc](https://tuoitre.vn/dinh-hinh-lai-tuong-lai-an-giang-19-du-an-von-66-000-ti-dong-chuan-bi-vao-cuoc-20260517105354724.htm) - 05:16 17/05/2026
+- 💄 [Hơn 7.000 tỉ đồng trong 141 dự án ở Đắk Lắk &#39;tắc&#39; giải phóng mặt bằng](https://tuoitre.vn/hon-7-000-ti-dong-trong-141-du-an-o-dak-lak-tac-giai-phong-mat-bang-20260516154253446.htm) - 04:12 17/05/2026
+- 🤗 [Dự báo thời tiết từ 17 đến 23-5: Mưa dông kéo dài, trời mát mẻ](https://tuoitre.vn/du-bao-thoi-tiet-tu-17-den-23-5-mua-dong-keo-dai-troi-mat-me-20260516163740748.htm) - 04:02 17/05/2026
+- 🦏 [‘Sức khỏe’ hộ kinh doanh suy giảm](https://tuoitre.vn/suc-khoe-ho-kinh-doanh-suy-giam-20260517103741851.htm) - 03:53 17/05/2026
+- 😎 [Hình ảnh mưa lũ cuốn trôi xe khách, tàn phá đường ở Cao Bằng](https://tuoitre.vn/hinh-anh-mua-lu-cuon-troi-xe-khach-tan-pha-duong-o-cao-bang-20260517093355265.htm) - 02:57 17/05/2026
+- 🪜 [Cháy nhà trong hẻm, một nam thanh niên chết trong phòng ngủ](https://tuoitre.vn/chay-nha-trong-hem-mot-nam-thanh-nien-chet-trong-phong-ngu-20260517093238919.htm) - 02:49 17/05/2026
+- 🎉 [Công thức tính lương cán bộ, công chức khi tăng lương cơ sở lên 2,53 triệu từ 1-7](https://tuoitre.vn/cong-thuc-tinh-luong-can-bo-cong-chuc-khi-tang-luong-co-so-len-2-53-trieu-tu-1-7-20260517082422822.htm) - 02:09 17/05/2026<!-- tuoitre-thoi-su:END -->
