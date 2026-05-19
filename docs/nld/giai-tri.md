@@ -4,53 +4,53 @@ sidebar_position: 12
 ---
 
 <!-- nld-giai-tri:START -->
-- 🦣 [NTK Nguyễn Lan Vy quy tụ dàn hoa hậu, á hậu quốc tế tôn vinh áo dài Việt](https://nld.com.vn/ntk-nguyen-lan-vy-quy-tu-dan-hoa-hau-a-hau-quoc-te-ton-vinh-ao-dai-viet-196260518084931206.htm) - 02:31 18/05/2026
-- 🥷 [Anh trai và cái đuôi nhỏ tung dàn cast &quot;cực phẩm&quot;](https://nld.com.vn/anh-trai-va-cai-duoi-nho-tung-dan-cast-cuc-pham-196260518082446929.htm) - 02:03 18/05/2026
-- ⚗️ [Hoàng tử nhạc số GREY D với live concert đầu tiên](https://nld.com.vn/hoang-tu-nhac-so-grey-d-voi-live-concert-dau-tien-196260518081354515.htm) - 02:00 18/05/2026
-- 🕴 [Hải Đăng Doo lên tiếng về việc sử dụng chất cấm](https://nld.com.vn/hai-dang-doo-len-tieng-ve-viec-su-dung-chat-cam-196260518070929513.htm) - 00:48 18/05/2026
-- 💡 [Quần thể Di sản văn hóa thế giới Yên Tử, Kiếp Bạc thu hút đông đảo du khách](https://nld.com.vn/quan-the-di-san-van-hoa-the-gioi-yen-tu-kiep-bac-thu-hut-dong-dao-du-khach-196260517211840023.htm) - 20:33 17/05/2026
-- 🐲 [Bản chất đại án bản quyền số](https://nld.com.vn/ban-chat-dai-an-ban-quyen-so-196260517132342638.htm) - 06:36 17/05/2026
-- 🚀 [Ca sĩ Quang Lập và tháng 5 đầy biến động: Từ ồn ào nhà đất đến vụ án bản quyền gây chấn động](https://nld.com.vn/ca-si-quang-lap-va-thang-5-day-bien-dong-tu-on-ao-nha-dat-den-vu-an-ban-quyen-gay-chan-dong-19626051707152388.htm) - 00:48 17/05/2026
-- 🌋 [Liên quan đến Miu Lê, VĐV pickleball Trần Đức Phong bị khởi tố là ai?](https://nld.com.vn/lien-quan-den-miu-le-vdv-pickleball-tran-duc-phong-bi-khoi-to-la-ai-196260517064811161.htm) - 00:23 17/05/2026
-- 🧰 [Công ty quản lý lên tiếng khi Miu Lê bị khởi tố, bắt tạm giam](https://nld.com.vn/cong-ty-quan-ly-len-tieng-khi-miu-le-bi-khoi-to-bat-tam-giam-196260517062221557.htm) - 00:05 17/05/2026
-- 🦄 [Ca sĩ Nguyễn Hải Yến khoe kỷ vật &quot;vực dậy&quot; đam mê](https://nld.com.vn/ca-si-nguyen-hai-yen-khoe-ky-vat-vuc-day-dam-me-196260516153031289.htm) - 08:57 16/05/2026
-- 🦄 [TOP Group công bố dự án hợp tác đưa Asian Television Awards và Jupiter Music Awards đến Việt Nam](https://nld.com.vn/top-group-cong-bo-du-an-hop-tac-dua-asian-television-awards-va-jupiter-music-awards-den-viet-nam-196260516081937267.htm) - 01:40 16/05/2026
-- 🦍 [MC Vũ Mạnh Cường vừa rời bàn mổ đã đến lớp](https://nld.com.vn/mc-vu-manh-cuong-vua-roi-ban-mo-da-den-lop-196260516082938879.htm) - 01:39 16/05/2026
-- 🧰 [Võ Hạ Trâm: &quot;Tôi không còn cân đo đong đếm khi làm nhạc như trước&quot;](https://nld.com.vn/vo-ha-tram-toi-khong-con-can-do-dong-dem-khi-lam-nhac-nhu-truoc-196260516075011202.htm) - 01:38 16/05/2026
-- 🌝 [Hoa hậu Tiểu Vy muốn là bông hoa đang tỏa hương](https://nld.com.vn/hoa-hau-tieu-vy-muon-la-bong-hoa-dang-toa-huong-196260515195943624.htm) - 14:08 15/05/2026
-- 🐘 [Mỹ nhân Bạch Lộc, Ngu Thư Hân quyến rũ với đầm Việt](https://nld.com.vn/my-nhan-bach-loc-ngu-thu-han-quyen-ru-voi-dam-viet-196260515131407121.htm) - 09:25 15/05/2026
-- 💼 [Mô hình Cast++ trong &quot;Quán nhà Haha&quot;: Khi truyền hình thực tế ngày càng sáng tạo](https://nld.com.vn/mo-hinh-cast-trong-quan-nha-haha-khi-truyen-hinh-thuc-te-ngay-cang-sang-tao-196260515100537565.htm) - 03:30 15/05/2026
-- 🫣 [Con trai của Đăng Khôi nhận về nhiều chú ý khi xuất hiện](https://nld.com.vn/con-trai-cua-dang-khoi-nhan-ve-nhieu-chu-y-khi-xuat-hien-196260515072903316.htm) - 01:38 15/05/2026
-- 🤩 [Nhan sắc Hoa hậu Thế giới Opal Suchata Chuangsri khi đến Việt Nam](https://nld.com.vn/nhan-sac-hoa-hau-the-gioi-opal-suchata-chuangsri-khi-den-viet-nam-196260515071053431.htm) - 00:56 15/05/2026
-- 🤠 [Khoảnh khắc tinh tế của Hương Tràm khi hỗ trợ khán giả cầu hôn](https://nld.com.vn/khoanh-khac-tinh-te-cua-huong-tram-khi-ho-tro-khan-gia-cau-hon-196260515074431269.htm) - 00:55 15/05/2026
-- ⛽️ [Miu Lê xin lỗi, bày tỏ sự xấu hổ và ân hận](https://nld.com.vn/miu-le-xin-loi-bay-to-su-xau-ho-va-an-han-196260515000949401.htm) - 22:47 14/05/2026
-- 📝 [Lý do Miu Lê chưa bị khởi tố trong vụ việc liên quan ma túy tại Cát Bà](https://nld.com.vn/ly-do-miu-le-chua-bi-khoi-to-trong-vu-viec-lien-quan-ma-tuy-tai-cat-ba-196260514221914763.htm) - 15:45 14/05/2026
-- 🐻 [Minh tinh Demi Moore thu hút ánh nhìn với đầm tím](https://nld.com.vn/minh-tinh-demi-moore-thu-hut-anh-nhin-voi-dam-tim-196260514135111465.htm) - 07:15 14/05/2026
-- 🥷 [&quot;Dính đạn cư dân mạng&quot; vì là bạn thân Miu Lê, Only C tặng 10 tỉ đồng cho ai dám &quot;chơi&quot; ...](https://nld.com.vn/dinh-dan-cu-dan-mang-vi-la-ban-than-miu-le-only-c-tang-10-ti-dong-cho-ai-dam-choi-196260514105604544.htm) - 04:04 14/05/2026
-- 🤗 [Nhạc sĩ Thái Nguyên ra MV về nỗi sợ &quot;không rực rỡ&quot; của người trẻ](https://nld.com.vn/nhac-si-thai-nguyen-ra-mv-ve-noi-so-khong-ruc-ro-cua-nguoi-tre-196260514070317559.htm) - 01:03 14/05/2026
-- 🧠 [NSƯT Hạnh Thúy gây sốc với tạo hình ma quái](https://nld.com.vn/nsut-hanh-thuy-gay-soc-voi-tao-hinh-ma-quai-196260513145206188.htm) - 08:54 13/05/2026
-- 🌊 [Dấu ấn DTAP](https://nld.com.vn/dau-an-dtap-196260513141214034.htm) - 07:36 13/05/2026
-- 👨‍🏫 [Thiều Bảo Trâm &quot;hóa thỏ&quot;, gởi thông điệp về cách yêu chủ động đến phái nữ](https://nld.com.vn/thieu-bao-tram-hoa-tho-goi-thong-diep-ve-cach-yeu-chu-dong-den-phai-nu-196260513075226336.htm) - 02:23 13/05/2026
-- 🕴 [Lộ những hình ảnh của Miu Lê tại &quot;đồn&quot; thu hút sự chú ý](https://nld.com.vn/lo-nhung-hinh-anh-cua-miu-le-tai-don-thu-hut-su-chu-y-196260513082406792.htm) - 02:05 13/05/2026
-- 🤩 [YeaH1 công bố gia nhập thị trường game Việt Nam](https://nld.com.vn/yeah1-cong-bo-gia-nhap-thi-truong-game-viet-nam-196260512114005853.htm) - 04:55 12/05/2026
-- 🌁 [Phim &quot;Đại tiệc trăng máu 8&quot; thế nào giữa &quot;bão&quot; ồn ào nữ chính Miu Lê?](https://nld.com.vn/phim-dai-tiec-trang-mau-8-the-nao-giua-bao-on-ao-nu-chinh-miu-le-196260512094425607.htm) - 04:23 12/05/2026
-- 🎉 [Miu Lê bị bắt quả tang dùng ma túy, ai là người thông tin?](https://nld.com.vn/quanh-chuyen-dia-diem-miu-le-bi-bat-qua-tang-dung-ma-tuy-196260512085955257.htm) - 02:11 12/05/2026
-- 👍 [Ngọc Trinh, Diệp Bảo Ngọc ủng hộ Quốc Trường, Quốc Huy](https://nld.com.vn/ngoc-trinh-diep-bao-ngoc-ung-ho-quoc-truong-quoc-huy-196260512003540325.htm) - 00:17 12/05/2026
-- 🤖 [Từ ồn ào Miu Lê: Những vụ bê bối ma túy gây sốc showbiz Việt](https://nld.com.vn/tu-on-ao-miu-le-nhung-vu-be-boi-ma-tuy-gay-soc-showbiz-viet-196260511232148677.htm) - 23:30 11/05/2026
-- 💫 [Ra mắt chương trình truyền hình về phụ nữ](https://nld.com.vn/ra-mat-chuong-trinh-truyen-hinh-ve-phu-nu-196260511202022839.htm) - 13:50 11/05/2026
-- 🚀 [Trần Đức Phong - Phong Coca, cái tên được nhắc nhiều trên mạng xã hội](https://nld.com.vn/tran-duc-phong-phong-coca-cai-ten-duoc-nhac-nhieu-tren-mang-xa-hoi-196260511203905048.htm) - 13:46 11/05/2026
-- 🫣 [Đã rõ tin đồn về ca sĩ Miu Lê](https://nld.com.vn/da-ro-tin-don-ve-ca-si-miu-le-196260511185915244.htm) - 12:14 11/05/2026
-- 👹 [Công ty quản lý Miu Lê nói gì về tin đồn gây xôn xao?](https://nld.com.vn/phia-miu-le-len-tieng-ve-tin-bi-dieu-tra-lien-quan-den-ma-tuy-o-hai-phong-196260511185156043.htm) - 11:59 11/05/2026
-- 🥸 [Miu Lê với tấm ảnh gây bão mạng xã hội](https://nld.com.vn/miu-le-voi-tam-anh-gay-bao-mang-xa-hoi-196260511163437251.htm) - 09:44 11/05/2026
-- 🎬 [&quot;Chị đẹp&quot; Ngọc Ánh kể chuyện &quot;tích sản&quot; bằng vàng thời hoàng kim](https://nld.com.vn/chi-dep-ngoc-anh-ke-chuyen-tich-san-bang-vang-thoi-hoang-kim-196260511140139098.htm) - 07:13 11/05/2026
-- 🔥 [Minh tinh &quot;Nhà vua và chàng hề&quot; tái hôn tuổi 49 với một bác sĩ](https://nld.com.vn/minh-tinh-nha-vua-va-chang-he-tai-hon-tuoi-49-voi-mot-bac-si-196260511131802316.htm) - 06:49 11/05/2026
-- 🚦 [Cay đắng cho Dương Cẩm Lynh](https://nld.com.vn/cay-dang-cho-duong-cam-lynh-196260511072041021.htm) - 02:22 11/05/2026
-- 🌝 [Top 50 Hoa Hậu - Nam Vương du lịch Việt Nam 2026 chính thức lộ diện](https://nld.com.vn/top-50-hoa-hau-nam-vuong-du-lich-viet-nam-2026-chinh-thuc-lo-dien-196260511080117771.htm) - 01:08 11/05/2026
-- 👨‍🏫 [Shakira tái xuất với ca khúc chủ đề World Cup 2026](https://nld.com.vn/shakira-tai-xuat-voi-ca-khuc-chu-de-world-cup-2026-196260510211707602.htm) - 21:38 10/05/2026
-- 🤠 [Long Đẹp Trai, Hoàng Long, Nàng Mơ… thử sức với phim đam mỹ](https://nld.com.vn/long-dep-trai-hoang-long-nang-mo-thu-suc-voi-phim-dam-my-1962605101441553.htm) - 07:59 10/05/2026
-- 💡 [Dấu ấn Lâm Quang Nhật ở IRONMAN 70.3](https://nld.com.vn/dau-an-lam-quang-nhat-o-ironman-703-196260510143752409.htm) - 07:43 10/05/2026
-- 👀 [Nhìn vào khoản nợ thuế, cư dân mạng chốt &quot;Color Man giàu khủng&quot;](https://nld.com.vn/nhin-vao-khoan-no-thue-cu-dan-mang-chot-color-man-giau-khung-196260510105811903.htm) - 04:06 10/05/2026
-- 🚦 [&quot;AirAsia THE NEXT Live Concert 2026&quot; đổ bộ thành phố biển Đà Nẵng](https://nld.com.vn/airasia-the-next-live-concert-2026-do-bo-thanh-pho-bien-da-nang-196260509191205202.htm) - 00:14 10/05/2026
-- 👍 [Angelababy khoe vẻ đẹp huyền ảo như tranh, như thơ](https://nld.com.vn/angelababy-khoe-ve-dep-huyen-ao-nhu-tranh-nhu-tho-196260509150130843.htm) - 09:03 09/05/2026
-- 🌋 [Sau Jungkook, đến lượt Lisa &lpar;Blackpink&rpar; hát cho World Cup 2026](https://nld.com.vn/sau-jungkook-den-luot-lisa-blackpink-hat-cho-world-cup-2026-19626050913402361.htm) - 07:43 09/05/2026
-- 💼 [Diễn viên Khả Ngân khiến khán giả &quot;choáng&quot;](https://nld.com.vn/dien-vien-kha-ngan-khien-khan-gia-choang-196260509130250775.htm) - 07:41 09/05/2026<!-- nld-giai-tri:END -->
+- 🦣 [Pax Thiên tháp tùng Angelina Jolie, đập tan tin đồn qua đời](https://nld.com.vn/pax-thien-thap-tung-angelina-jolie-dap-tan-tin-don-qua-doi-196260519153747715.htm) - 08:58 19/05/2026
+- 🥷 [Ca sĩ Quách Thành Danh từng áp lực đến mức muốn bỏ nghề](https://nld.com.vn/ca-si-quach-thanh-danh-tung-ap-luc-den-muc-muon-bo-nghe-19626051914114822.htm) - 08:14 19/05/2026
+- ⚗️ [Toki Thành thỏ giảm 9kg, vượt trầm cảm đến với &quot;Anh trai vượt ngàn chông gai&quot;](https://nld.com.vn/toki-thanh-tho-giam-9kg-vuot-tram-cam-den-voi-anh-trai-vuot-ngan-chong-gai-196260519120738116.htm) - 05:34 19/05/2026
+- 🕴 [Isaac tái ngộ cùng Will](https://nld.com.vn/isaac-tai-ngo-cung-will-196260519105638198.htm) - 05:21 19/05/2026
+- 💡 [&quot;Nói em điên&quot;, màn trở lại của m Tú, kết hợp cùng rapper Liu Grace](https://nld.com.vn/noi-em-dien-man-tro-lai-cua-m-tu-ket-hop-cung-rapper-liu-grace-196260519070849999.htm) - 01:14 19/05/2026
+- 🐲 [Bạch Lộc bác tin đang hẹn hò &quot;hồng hài nhi&quot; Chu Dực Nhiên](https://nld.com.vn/bach-loc-bac-tin-dang-hen-ho-hong-hai-nhi-chu-duc-nhien-196260518150927854.htm) - 10:24 18/05/2026
+- 🚀 [Charlie Nguyễn, Nhung Khìn, Đỗ Thành Chung tìm ra biên kịch quán quân](https://nld.com.vn/charlie-nguyen-nhung-khin-do-thanh-chung-tim-ra-bien-kich-quan-quan-196260518144146432.htm) - 10:19 18/05/2026
+- 🌋 [NTK Nguyễn Lan Vy quy tụ dàn hoa hậu, á hậu quốc tế tôn vinh áo dài Việt](https://nld.com.vn/ntk-nguyen-lan-vy-quy-tu-dan-hoa-hau-a-hau-quoc-te-ton-vinh-ao-dai-viet-196260518084931206.htm) - 02:31 18/05/2026
+- 🧰 [Anh trai và cái đuôi nhỏ tung dàn cast &quot;cực phẩm&quot;](https://nld.com.vn/anh-trai-va-cai-duoi-nho-tung-dan-cast-cuc-pham-196260518082446929.htm) - 02:03 18/05/2026
+- 🦄 [Hoàng tử nhạc số GREY D với live concert đầu tiên](https://nld.com.vn/hoang-tu-nhac-so-grey-d-voi-live-concert-dau-tien-196260518081354515.htm) - 02:00 18/05/2026
+- 🦄 [Hải Đăng Doo lên tiếng về việc sử dụng chất cấm](https://nld.com.vn/hai-dang-doo-len-tieng-ve-viec-su-dung-chat-cam-196260518070929513.htm) - 00:48 18/05/2026
+- 🦍 [Quần thể Di sản văn hóa thế giới Yên Tử, Kiếp Bạc thu hút đông đảo du khách](https://nld.com.vn/quan-the-di-san-van-hoa-the-gioi-yen-tu-kiep-bac-thu-hut-dong-dao-du-khach-196260517211840023.htm) - 20:33 17/05/2026
+- 🧰 [Bản chất đại án bản quyền số](https://nld.com.vn/ban-chat-dai-an-ban-quyen-so-196260517132342638.htm) - 06:36 17/05/2026
+- 🌝 [Ca sĩ Quang Lập và tháng 5 đầy biến động: Từ ồn ào nhà đất đến vụ án bản quyền gây chấn động](https://nld.com.vn/ca-si-quang-lap-va-thang-5-day-bien-dong-tu-on-ao-nha-dat-den-vu-an-ban-quyen-gay-chan-dong-19626051707152388.htm) - 00:48 17/05/2026
+- 🐘 [Liên quan đến Miu Lê, VĐV pickleball Trần Đức Phong bị khởi tố là ai?](https://nld.com.vn/lien-quan-den-miu-le-vdv-pickleball-tran-duc-phong-bi-khoi-to-la-ai-196260517064811161.htm) - 00:23 17/05/2026
+- 💼 [Công ty quản lý lên tiếng khi Miu Lê bị khởi tố, bắt tạm giam](https://nld.com.vn/cong-ty-quan-ly-len-tieng-khi-miu-le-bi-khoi-to-bat-tam-giam-196260517062221557.htm) - 00:05 17/05/2026
+- 🫣 [Ca sĩ Nguyễn Hải Yến khoe kỷ vật &quot;vực dậy&quot; đam mê](https://nld.com.vn/ca-si-nguyen-hai-yen-khoe-ky-vat-vuc-day-dam-me-196260516153031289.htm) - 08:57 16/05/2026
+- 🤩 [TOP Group công bố dự án hợp tác đưa Asian Television Awards và Jupiter Music Awards đến Việt Nam](https://nld.com.vn/top-group-cong-bo-du-an-hop-tac-dua-asian-television-awards-va-jupiter-music-awards-den-viet-nam-196260516081937267.htm) - 01:40 16/05/2026
+- 🤠 [MC Vũ Mạnh Cường vừa rời bàn mổ đã đến lớp](https://nld.com.vn/mc-vu-manh-cuong-vua-roi-ban-mo-da-den-lop-196260516082938879.htm) - 01:39 16/05/2026
+- ⛽️ [Võ Hạ Trâm: &quot;Tôi không còn cân đo đong đếm khi làm nhạc như trước&quot;](https://nld.com.vn/vo-ha-tram-toi-khong-con-can-do-dong-dem-khi-lam-nhac-nhu-truoc-196260516075011202.htm) - 01:38 16/05/2026
+- 📝 [Hoa hậu Tiểu Vy muốn là bông hoa đang tỏa hương](https://nld.com.vn/hoa-hau-tieu-vy-muon-la-bong-hoa-dang-toa-huong-196260515195943624.htm) - 14:08 15/05/2026
+- 🐻 [Mỹ nhân Bạch Lộc, Ngu Thư Hân quyến rũ với đầm Việt](https://nld.com.vn/my-nhan-bach-loc-ngu-thu-han-quyen-ru-voi-dam-viet-196260515131407121.htm) - 09:25 15/05/2026
+- 🥷 [Mô hình Cast++ trong &quot;Quán nhà Haha&quot;: Khi truyền hình thực tế ngày càng sáng tạo](https://nld.com.vn/mo-hinh-cast-trong-quan-nha-haha-khi-truyen-hinh-thuc-te-ngay-cang-sang-tao-196260515100537565.htm) - 03:30 15/05/2026
+- 🤗 [Con trai của Đăng Khôi nhận về nhiều chú ý khi xuất hiện](https://nld.com.vn/con-trai-cua-dang-khoi-nhan-ve-nhieu-chu-y-khi-xuat-hien-196260515072903316.htm) - 01:38 15/05/2026
+- 🧠 [Nhan sắc Hoa hậu Thế giới Opal Suchata Chuangsri khi đến Việt Nam](https://nld.com.vn/nhan-sac-hoa-hau-the-gioi-opal-suchata-chuangsri-khi-den-viet-nam-196260515071053431.htm) - 00:56 15/05/2026
+- 🌊 [Khoảnh khắc tinh tế của Hương Tràm khi hỗ trợ khán giả cầu hôn](https://nld.com.vn/khoanh-khac-tinh-te-cua-huong-tram-khi-ho-tro-khan-gia-cau-hon-196260515074431269.htm) - 00:55 15/05/2026
+- 👨‍🏫 [Miu Lê xin lỗi, bày tỏ sự xấu hổ và ân hận](https://nld.com.vn/miu-le-xin-loi-bay-to-su-xau-ho-va-an-han-196260515000949401.htm) - 22:47 14/05/2026
+- 🕴 [Lý do Miu Lê chưa bị khởi tố trong vụ việc liên quan ma túy tại Cát Bà](https://nld.com.vn/ly-do-miu-le-chua-bi-khoi-to-trong-vu-viec-lien-quan-ma-tuy-tai-cat-ba-196260514221914763.htm) - 15:45 14/05/2026
+- 🤩 [Minh tinh Demi Moore thu hút ánh nhìn với đầm tím](https://nld.com.vn/minh-tinh-demi-moore-thu-hut-anh-nhin-voi-dam-tim-196260514135111465.htm) - 07:15 14/05/2026
+- 🌁 [&quot;Dính đạn cư dân mạng&quot; vì là bạn thân Miu Lê, Only C tặng 10 tỉ đồng cho ai dám &quot;chơi&quot; ...](https://nld.com.vn/dinh-dan-cu-dan-mang-vi-la-ban-than-miu-le-only-c-tang-10-ti-dong-cho-ai-dam-choi-196260514105604544.htm) - 04:04 14/05/2026
+- 🎉 [Nhạc sĩ Thái Nguyên ra MV về nỗi sợ &quot;không rực rỡ&quot; của người trẻ](https://nld.com.vn/nhac-si-thai-nguyen-ra-mv-ve-noi-so-khong-ruc-ro-cua-nguoi-tre-196260514070317559.htm) - 01:03 14/05/2026
+- 👍 [NSƯT Hạnh Thúy gây sốc với tạo hình ma quái](https://nld.com.vn/nsut-hanh-thuy-gay-soc-voi-tao-hinh-ma-quai-196260513145206188.htm) - 08:54 13/05/2026
+- 🤖 [Dấu ấn DTAP](https://nld.com.vn/dau-an-dtap-196260513141214034.htm) - 07:36 13/05/2026
+- 💫 [Thiều Bảo Trâm &quot;hóa thỏ&quot;, gởi thông điệp về cách yêu chủ động đến phái nữ](https://nld.com.vn/thieu-bao-tram-hoa-tho-goi-thong-diep-ve-cach-yeu-chu-dong-den-phai-nu-196260513075226336.htm) - 02:23 13/05/2026
+- 🚀 [Lộ những hình ảnh của Miu Lê tại &quot;đồn&quot; thu hút sự chú ý](https://nld.com.vn/lo-nhung-hinh-anh-cua-miu-le-tai-don-thu-hut-su-chu-y-196260513082406792.htm) - 02:05 13/05/2026
+- 🫣 [YeaH1 công bố gia nhập thị trường game Việt Nam](https://nld.com.vn/yeah1-cong-bo-gia-nhap-thi-truong-game-viet-nam-196260512114005853.htm) - 04:55 12/05/2026
+- 👹 [Phim &quot;Đại tiệc trăng máu 8&quot; thế nào giữa &quot;bão&quot; ồn ào nữ chính Miu Lê?](https://nld.com.vn/phim-dai-tiec-trang-mau-8-the-nao-giua-bao-on-ao-nu-chinh-miu-le-196260512094425607.htm) - 04:23 12/05/2026
+- 🥸 [Miu Lê bị bắt quả tang dùng ma túy, ai là người thông tin?](https://nld.com.vn/quanh-chuyen-dia-diem-miu-le-bi-bat-qua-tang-dung-ma-tuy-196260512085955257.htm) - 02:11 12/05/2026
+- 🎬 [Ngọc Trinh, Diệp Bảo Ngọc ủng hộ Quốc Trường, Quốc Huy](https://nld.com.vn/ngoc-trinh-diep-bao-ngoc-ung-ho-quoc-truong-quoc-huy-196260512003540325.htm) - 00:17 12/05/2026
+- 🔥 [Từ ồn ào Miu Lê: Những vụ bê bối ma túy gây sốc showbiz Việt](https://nld.com.vn/tu-on-ao-miu-le-nhung-vu-be-boi-ma-tuy-gay-soc-showbiz-viet-196260511232148677.htm) - 23:30 11/05/2026
+- 🚦 [Ra mắt chương trình truyền hình về phụ nữ](https://nld.com.vn/ra-mat-chuong-trinh-truyen-hinh-ve-phu-nu-196260511202022839.htm) - 13:50 11/05/2026
+- 🌝 [Trần Đức Phong - Phong Coca, cái tên được nhắc nhiều trên mạng xã hội](https://nld.com.vn/tran-duc-phong-phong-coca-cai-ten-duoc-nhac-nhieu-tren-mang-xa-hoi-196260511203905048.htm) - 13:46 11/05/2026
+- 👨‍🏫 [Đã rõ tin đồn về ca sĩ Miu Lê](https://nld.com.vn/da-ro-tin-don-ve-ca-si-miu-le-196260511185915244.htm) - 12:14 11/05/2026
+- 🤠 [Công ty quản lý Miu Lê nói gì về tin đồn gây xôn xao?](https://nld.com.vn/phia-miu-le-len-tieng-ve-tin-bi-dieu-tra-lien-quan-den-ma-tuy-o-hai-phong-196260511185156043.htm) - 11:59 11/05/2026
+- 💡 [Miu Lê với tấm ảnh gây bão mạng xã hội](https://nld.com.vn/miu-le-voi-tam-anh-gay-bao-mang-xa-hoi-196260511163437251.htm) - 09:44 11/05/2026
+- 👀 [&quot;Chị đẹp&quot; Ngọc Ánh kể chuyện &quot;tích sản&quot; bằng vàng thời hoàng kim](https://nld.com.vn/chi-dep-ngoc-anh-ke-chuyen-tich-san-bang-vang-thoi-hoang-kim-196260511140139098.htm) - 07:13 11/05/2026
+- 🚦 [Minh tinh &quot;Nhà vua và chàng hề&quot; tái hôn tuổi 49 với một bác sĩ](https://nld.com.vn/minh-tinh-nha-vua-va-chang-he-tai-hon-tuoi-49-voi-mot-bac-si-196260511131802316.htm) - 06:49 11/05/2026
+- 👍 [Cay đắng cho Dương Cẩm Lynh](https://nld.com.vn/cay-dang-cho-duong-cam-lynh-196260511072041021.htm) - 02:22 11/05/2026
+- 🌋 [Top 50 Hoa Hậu - Nam Vương du lịch Việt Nam 2026 chính thức lộ diện](https://nld.com.vn/top-50-hoa-hau-nam-vuong-du-lich-viet-nam-2026-chinh-thuc-lo-dien-196260511080117771.htm) - 01:08 11/05/2026
+- 💼 [Shakira tái xuất với ca khúc chủ đề World Cup 2026](https://nld.com.vn/shakira-tai-xuat-voi-ca-khuc-chu-de-world-cup-2026-196260510211707602.htm) - 21:38 10/05/2026<!-- nld-giai-tri:END -->
