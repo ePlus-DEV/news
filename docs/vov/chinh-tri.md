@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Nhiều hoạt động ý nghĩa kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh tại Lào](https://vov.vn/chinh-tri/nhieu-hoat-dong-y-nghia-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-tai-lao-post1292985.vov) - 23:12 18/05/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng khát vọng Đồng Nai mới trong tầm vóc 1 thành phố trực thuộc T.Ư](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-khat-vong-dong-nai-moi-trong-tam-voc-1-thanh-pho-truc-thuoc-tu-post1292978.vov) - 22:44 18/05/2026
-- 🫶 [Vận dụng tư tưởng Hồ Chí Minh để kiến tạo Việt Nam phát triển bền vững](https://vov.vn/chinh-tri/van-dung-tu-tuong-ho-chi-minh-de-kien-tao-viet-nam-phat-trien-ben-vung-post1292879.vov) - 22:30 18/05/2026
-- 👨‍🏫 [Suy ngẫm về tư tưởng &amp;quot;lấy dân làm gốc&amp;quot; nhân kỷ niệm 136 năm Ngày sinh Bác Hồ](https://vov.vn/chinh-tri/suy-ngam-ve-tu-tuong-lay-dan-lam-goc-nhan-ky-niem-136-nam-ngay-sinh-bac-ho-post1291192.vov) - 22:00 18/05/2026
-- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ công bố thành lập Thành phố Đồng Nai](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-cong-bo-thanh-lap-thanh-pho-dong-nai-post1292974.vov) - 16:12 18/05/2026
-- 🌋 [Hội nghị Trung ương 8 năm 1941 còn nguyên giá trị thời đại](https://vov.vn/chinh-tri/hoi-nghi-trung-uong-8-nam-1941-con-nguyen-gia-tri-thoi-dai-post1292973.vov) - 16:03 18/05/2026
-- 🎉 [Chính phủ thông qua 3 chính sách Luật chống phổ biến vũ khí hủy diệt hàng loạt](https://vov.vn/chinh-tri/chinh-phu-thong-qua-3-chinh-sach-luat-chong-pho-bien-vu-khi-huy-diet-hang-loat-post1292969.vov) - 15:36 18/05/2026
-- 🌝 [Thủ tướng Chính phủ Lê Minh Hưng tiếp Đại sứ Liên bang Nga](https://vov.vn/chinh-tri/thu-tuong-chinh-phu-le-minh-hung-tiep-dai-su-lien-bang-nga-post1292960.vov) - 14:28 18/05/2026
-- 🏊 [Nhiều giải pháp hạn chế tình trạng thừa, thiếu cán bộ cấp xã ở Hưng Yên](https://vov.vn/chinh-tri/nhieu-giai-phap-han-che-tinh-trang-thua-thieu-can-bo-cap-xa-o-hung-yen-post1292865.vov) - 12:24 18/05/2026
-- 🧑‍💻 [Croatia coi trọng quan hệ hữu nghị truyền thống với Việt Nam](https://vov.vn/chinh-tri/croatia-coi-trong-quan-he-huu-nghi-truyen-thong-voi-viet-nam-post1292933.vov) - 11:12 18/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Bạn bè Ấn Độ tưởng nhớ Chủ tịch Hồ Chí Minh từ Kolkata](https://vov.vn/chinh-tri/ban-be-an-do-tuong-nho-chu-tich-ho-chi-minh-tu-kolkata-post1293333.vov) - 23:24 19/05/2026
+- 💃 [Bộ trưởng Ngoại giao Lê Hoài Trung tiếp Quốc vụ khanh Bộ Ngoại giao Thụy Điển](https://vov.vn/chinh-tri/bo-truong-ngoai-giao-le-hoai-trung-tiep-quoc-vu-khanh-bo-ngoai-giao-thuy-dien-post1293334.vov) - 23:21 19/05/2026
+- 🫶 [Trang trọng Lễ kỷ niệm 136 năm ngày sinh Chủ tịch Hồ Chí Minh ở Montreuil - Pháp](https://vov.vn/chinh-tri/trang-trong-le-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-o-montreuil-phap-post1293330.vov) - 22:51 19/05/2026
+- 👨‍🏫 [&amp;quot;Niềm tin không trao ban một chiều mà hình thành từ thực tiễn phục vụ nhân dân&amp;quot;](https://vov.vn/chinh-tri/niem-tin-khong-trao-ban-mot-chieu-ma-hinh-thanh-tu-thuc-tien-phuc-vu-nhan-dan-post1292549.vov) - 22:30 19/05/2026
+- 🪜 [Việt Nam - Thụy Điển thúc đẩy hợp tác khoa học, đổi mới sáng tạo](https://vov.vn/chinh-tri/viet-nam-thuy-dien-thuc-day-hop-tac-khoa-hoc-doi-moi-sang-tao-post1293312.vov) - 15:44 19/05/2026
+- 🌋 [Bộ trưởng Lương Tam Quang tiếp Phó Đại diện Thương mại Hoa Kỳ](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-tiep-pho-dai-dien-thuong-mai-hoa-ky-post1293295.vov) - 13:30 19/05/2026
+- 🎉 [Dâng hoa kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh tại Philippines](https://vov.vn/chinh-tri/dang-hoa-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-tai-philippines-post1293264.vov) - 11:51 19/05/2026
+- 🌝 [Học Bác từ những điều bình dị: Tận tâm phụng sự, lan tỏa yêu thương](https://vov.vn/chinh-tri/hoc-bac-tu-nhung-dieu-binh-di-tan-tam-phung-su-lan-toa-yeu-thuong-post1293262.vov) - 11:47 19/05/2026
+- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-rajnath-singh-post1293250.vov) - 11:22 19/05/2026
+- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước: Chính sách nhà ở phải được thiết kế ở tầm nhìn mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chinh-sach-nha-o-phai-duoc-thiet-ke-o-tam-nhin-moi-post1293249.vov) - 11:19 19/05/2026<!-- vov-chinh-tri:END -->
