@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Đại tướng Phan Văn Giang chủ trì lễ đón Bộ trưởng Bộ Quốc phòng Ấn Độ](https://vov.vn/quan-su-quoc-phong/dai-tuong-phan-van-giang-chu-tri-le-don-bo-truong-bo-quoc-phong-an-do-post1293116.vov) - 05:10 19/05/2026
-- 🕯 [Thường trực Ban Bí thư Trần Cẩm Tú dự lễ trao tặng Huy hiệu 80 năm tuổi Đảng](https://vov.vn/chinh-tri/thuong-truc-ban-bi-thu-tran-cam-tu-du-le-trao-tang-huy-hieu-80-nam-tuoi-dang-post1293096.vov) - 05:08 19/05/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm trao tặng Huy hiệu Đảng cho đảng viên lão thành tại Hà Nội](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-trao-tang-huy-hieu-dang-cho-dang-vien-lao-thanh-tai-ha-noi-post1293060.vov) - 05:07 19/05/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm trao tặng Huy hiệu Đảng cho đảng viên lão thành tại Hà Nội](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-trao-tang-huy-hieu-dang-cho-dang-vien-lao-thanh-tai-ha-noi-post1293060.vov) - 05:07 19/05/2026
-- 🎡 [Iran nắm rõ cách vô hiệu hóa chiến thuật của Mỹ, Tổng thống Trump đổi giọng](https://vov.vn/the-gioi/quan-sat/iran-nam-ro-cach-vo-hieu-hoa-chien-thuat-cua-my-tong-thong-trump-doi-giong-post1293093.vov) - 04:51 19/05/2026
-- 🚀 [Kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh: Lãnh đạo Đảng, Nhà nước vào Lăng viếng Bác](https://vov.vn/chinh-tri/ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-lanh-dao-dang-nha-nuoc-vao-lang-vieng-bac-post1293059.vov) - 04:09 19/05/2026
-- 🔥 [Dự án Trục đại lộ cảnh quan sông Hồng: Dự kiến bố trí khoảng 85.000 căn hộ, lô đất tái định cư](https://vov.vn/xa-hoi/du-an-truc-dai-lo-canh-quan-song-hong-du-kien-bo-tri-khoang-85000-can-ho-lo-dat-tai-dinh-cu-post1293027.vov) - 03:09 19/05/2026
-- 🌋 [Dự án Trục đại lộ cảnh quan sông Hồng: Dự kiến bố trí khoảng 85.000 căn hộ, lô đất tái định cư](https://vov.vn/xa-hoi/du-an-truc-dai-lo-canh-quan-song-hong-du-kien-bo-tri-khoang-85000-can-ho-lo-dat-tai-dinh-cu-post1293027.vov) - 03:09 19/05/2026
-- 🕴 [Chủ tịch Quốc hội dự Lễ khởi công Dự án trục không gian Quốc lộ 1A](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-du-le-khoi-cong-du-an-truc-khong-gian-quoc-lo-1a-post1293038.vov) - 03:03 19/05/2026
-- 🥰 [Vận dụng tư tưởng Hồ Chí Minh để kiến tạo Việt Nam phát triển bền vững](https://vov.vn/chinh-tri/van-dung-tu-tuong-ho-chi-minh-de-kien-tao-viet-nam-phat-trien-ben-vung-post1292879.vov) - 22:30 18/05/2026
-- 🧐 [Suy ngẫm về tư tưởng &amp;quot;lấy dân làm gốc&amp;quot; nhân kỷ niệm 136 năm Ngày sinh Bác Hồ](https://vov.vn/chinh-tri/suy-ngam-ve-tu-tuong-lay-dan-lam-goc-nhan-ky-niem-136-nam-ngay-sinh-bac-ho-post1291192.vov) - 22:00 18/05/2026<!-- vov:END -->
+- 🌜 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
+- 🕯 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-rajnath-singh-post1293250.vov) - 11:22 19/05/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước: Chính sách nhà ở phải được thiết kế ở tầm nhìn mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chinh-sach-nha-o-phai-duoc-thiet-ke-o-tam-nhin-moi-post1293249.vov) - 11:19 19/05/2026
+- 🎡 [Văn phòng Chính phủ dự kiến giảm còn 17 đơn vị](https://vov.vn/chinh-tri/van-phong-chinh-phu-du-kien-giam-con-17-don-vi-post1293238.vov) - 10:42 19/05/2026
+- 🚀 [&amp;quot;Học Bác không phải bằng khẩu hiệu mà bằng hành động cụ thể, hiệu quả thực chất&amp;quot;](https://vov.vn/chinh-tri/hoc-bac-khong-phai-bang-khau-hieu-ma-bang-hanh-dong-cu-the-hieu-qua-thuc-chat-post1293223.vov) - 10:34 19/05/2026
+- 🔥 [TS Hoàng Ngọc Vinh: Không thể để một kỳ thi quyết định tương lai của trẻ](https://vov.vn/xa-hoi/ts-hoang-ngoc-vinh-khong-the-de-mot-ky-thi-quyet-dinh-tuong-lai-cua-tre-post1293166.vov) - 10:21 19/05/2026
+- 🌋 [Nghẹn lòng 5 đám tang học sinh đuối nước tại xã nghèo ở Phú Thọ](https://vov.vn/xa-hoi/nghen-long-5-dam-tang-hoc-sinh-duoi-nuoc-tai-xa-ngheo-o-phu-tho-post1293210.vov) - 10:16 19/05/2026
+- 🕴 [Những &amp;quot;lằn ranh đỏ&amp;quot; đẩy xung đột Mỹ - Iran vào thế bế tắc](https://vov.vn/the-gioi/quan-sat/nhung-lan-ranh-do-day-xung-dot-my-iran-vao-the-be-tac-post1293159.vov) - 10:15 19/05/2026
+- 🥰 [Nhiều hoạt động ý nghĩa kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh](https://vov.vn/chinh-tri/nhieu-hoat-dong-y-nghia-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-post1293037.vov) - 10:09 19/05/2026
+- 🧐 [Xúc động hành trình hồi hương 80 hài cốt liệt sỹ hy sinh tại Lào về đất mẹ](https://vov.vn/xa-hoi/xuc-dong-hanh-trinh-hoi-huong-80-hai-cot-liet-sy-hy-sinh-tai-lao-ve-dat-me-post1293087.vov) - 09:08 19/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
