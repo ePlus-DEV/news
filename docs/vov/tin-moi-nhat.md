@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Trực tiếp U17 Nhật Bản 1-1 U17 Uzbekistan: Bàn thua cay đắng](https://vov.vn/the-thao/truc-tiep-u17-nhat-ban-1-1-u17-uzbekistan-ban-thua-cay-dang-post1293084.vov) - 17:01 19/05/2026
-- 🦍 [Trực tiếp U17 Nhật Bản 1-1 U17 Uzbekistan: Bàn thua cay đắng](https://vov.vn/the-thao/truc-tiep-u17-nhat-ban-1-1-u17-uzbekistan-ban-thua-cay-dang-post1293084.vov) - 17:01 19/05/2026
+- 👍 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
+- 🦍 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
 - 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-rajnath-singh-post1293250.vov) - 11:22 19/05/2026
 - 😎 [Tổng Bí thư, Chủ tịch nước: Chính sách nhà ở phải được thiết kế ở tầm nhìn mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chinh-sach-nha-o-phai-duoc-thiet-ke-o-tam-nhin-moi-post1293249.vov) - 11:19 19/05/2026
 - 💯 [Văn phòng Chính phủ dự kiến giảm còn 17 đơn vị](https://vov.vn/chinh-tri/van-phong-chinh-phu-du-kien-giam-con-17-don-vi-post1293238.vov) - 10:42 19/05/2026
