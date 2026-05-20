@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
-- 🕯 [U17 Nhật Bản vào chung kết U17 châu Á 2026 theo kịch bản khó tin](https://vov.vn/the-thao/u17-nhat-ban-vao-chung-ket-u17-chau-a-2026-theo-kich-ban-kho-tin-post1293084.vov) - 17:23 19/05/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-rajnath-singh-post1293250.vov) - 11:22 19/05/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước: Chính sách nhà ở phải được thiết kế ở tầm nhìn mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chinh-sach-nha-o-phai-duoc-thiet-ke-o-tam-nhin-moi-post1293249.vov) - 11:19 19/05/2026
-- 🎡 [Văn phòng Chính phủ dự kiến giảm còn 17 đơn vị](https://vov.vn/chinh-tri/van-phong-chinh-phu-du-kien-giam-con-17-don-vi-post1293238.vov) - 10:42 19/05/2026
-- 🚀 [&amp;quot;Học Bác không phải bằng khẩu hiệu mà bằng hành động cụ thể, hiệu quả thực chất&amp;quot;](https://vov.vn/chinh-tri/hoc-bac-khong-phai-bang-khau-hieu-ma-bang-hanh-dong-cu-the-hieu-qua-thuc-chat-post1293223.vov) - 10:34 19/05/2026
-- 🔥 [TS Hoàng Ngọc Vinh: Không thể để một kỳ thi quyết định tương lai của trẻ](https://vov.vn/xa-hoi/ts-hoang-ngoc-vinh-khong-the-de-mot-ky-thi-quyet-dinh-tuong-lai-cua-tre-post1293166.vov) - 10:21 19/05/2026
-- 🌋 [Nghẹn lòng 5 đám tang học sinh đuối nước tại xã nghèo ở Phú Thọ](https://vov.vn/xa-hoi/nghen-long-5-dam-tang-hoc-sinh-duoi-nuoc-tai-xa-ngheo-o-phu-tho-post1293210.vov) - 10:16 19/05/2026
-- 🕴 [Những &amp;quot;lằn ranh đỏ&amp;quot; đẩy xung đột Mỹ - Iran vào thế bế tắc](https://vov.vn/the-gioi/quan-sat/nhung-lan-ranh-do-day-xung-dot-my-iran-vao-the-be-tac-post1293159.vov) - 10:15 19/05/2026
-- 🥰 [Nhiều hoạt động ý nghĩa kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh](https://vov.vn/chinh-tri/nhieu-hoat-dong-y-nghia-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-post1293037.vov) - 10:09 19/05/2026
-- 🧐 [Xúc động hành trình hồi hương 80 hài cốt liệt sỹ hy sinh tại Lào về đất mẹ](https://vov.vn/xa-hoi/xuc-dong-hanh-trinh-hoi-huong-80-hai-cot-liet-sy-hy-sinh-tai-lao-ve-dat-me-post1293087.vov) - 09:08 19/05/2026<!-- vov:END -->
+- 🌜 [Ông Phạm Tất Thắng làm Bí Thư Đảng ủy Cơ quan Ban Tuyên giáo và Dân vận Trung ương](https://vov.vn/chinh-tri/ong-pham-tat-thang-lam-bi-thu-dang-uy-co-quan-ban-tuyen-giao-va-dan-van-trung-uong-post1293386.vov) - 04:30 20/05/2026
+- 🕯 [Trung Quốc bắn 21 loạt đại bác chào đón Tổng thống Nga Vladimir Putin](https://vov.vn/the-gioi/trung-quoc-ban-21-loat-dai-bac-chao-don-tong-thong-nga-vladimir-putin-post1293408.vov) - 04:04 20/05/2026
+- 🌊 [Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến từ chối 2 luật sư bào chữa](https://vov.vn/phap-luat/cuu-bo-truong-y-te-nguyen-thi-kim-tien-tu-choi-2-luat-su-bao-chua-post1293389.vov) - 03:08 20/05/2026
+- 🥷 [Học tập Chủ tịch Hồ Chí Minh thu hút và trọng dụng nhân tài](https://vov.vn/chinh-tri/hoc-tap-chu-tich-ho-chi-minh-thu-hut-va-trong-dung-nhan-tai-post1292870.vov) - 03:00 20/05/2026
+- 🎡 [Chủ tịch Quốc hội: Cần chuyển từ &amp;quot;thẩm tra theo hồ sơ&amp;quot; sang &amp;quot;thẩm tra chính sách&amp;quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-can-chuyen-tu-tham-tra-theo-ho-so-sang-tham-tra-chinh-sach-post1293363.vov) - 02:08 20/05/2026
+- 🚀 [Chủ tịch Quốc hội: Cần chuyển từ &amp;quot;thẩm tra theo hồ sơ&amp;quot; sang &amp;quot;thẩm tra chính sách&amp;quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-can-chuyen-tu-tham-tra-theo-ho-so-sang-tham-tra-chinh-sach-post1293363.vov) - 02:08 20/05/2026
+- 🔥 [Tại sao chất tạo tỉnh táo caffeine trong cà phê liên quan tới sản xuất ma túy?](https://vov.vn/suc-khoe/tai-sao-chat-tao-tinh-tao-caffeine-trong-ca-phe-lien-quan-toi-san-xuat-ma-tuy-post1293329.vov) - 01:49 20/05/2026
+- 🌋 [Áp lực tỷ giá và bài toán giữ ổn định vĩ mô](https://vov.vn/kinh-te/ap-luc-ty-gia-va-bai-toan-giu-on-dinh-vi-mo-post1293220.vov) - 00:30 20/05/2026
+- 🕴 [“Tổng Bí thư, Chủ tịch nước Tô Lâm đưa ra một cách nhìn rất hiện đại về vai trò của đại học&amp;quot;](https://vov.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-dua-ra-mot-cach-nhin-rat-hien-dai-ve-vai-tro-cua-dai-hoc-post1293213.vov) - 22:48 19/05/2026
+- 🥰 [“Tổng Bí thư, Chủ tịch nước Tô Lâm đưa ra một cách nhìn rất hiện đại về vai trò của đại học&amp;quot;](https://vov.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-dua-ra-mot-cach-nhin-rat-hien-dai-ve-vai-tro-cua-dai-hoc-post1293213.vov) - 22:48 19/05/2026
+- 🧐 [Thi tốt nghiệp THPT: Vì sao nhiều học sinh lựa chọn môn Lịch sử?](https://vov.vn/xa-hoi/thi-tot-nghiep-thpt-vi-sao-nhieu-hoc-sinh-lua-chon-mon-lich-su-post1292774.vov) - 22:45 19/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
