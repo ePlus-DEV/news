@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Bạn bè Ấn Độ tưởng nhớ Chủ tịch Hồ Chí Minh từ Kolkata](https://vov.vn/chinh-tri/ban-be-an-do-tuong-nho-chu-tich-ho-chi-minh-tu-kolkata-post1293333.vov) - 23:24 19/05/2026
-- 💃 [Bộ trưởng Ngoại giao Lê Hoài Trung tiếp Quốc vụ khanh Bộ Ngoại giao Thụy Điển](https://vov.vn/chinh-tri/bo-truong-ngoai-giao-le-hoai-trung-tiep-quoc-vu-khanh-bo-ngoai-giao-thuy-dien-post1293334.vov) - 23:21 19/05/2026
-- 🫶 [Trang trọng Lễ kỷ niệm 136 năm ngày sinh Chủ tịch Hồ Chí Minh ở Montreuil - Pháp](https://vov.vn/chinh-tri/trang-trong-le-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-o-montreuil-phap-post1293330.vov) - 22:51 19/05/2026
-- 👨‍🏫 [&amp;quot;Niềm tin không trao ban một chiều mà hình thành từ thực tiễn phục vụ nhân dân&amp;quot;](https://vov.vn/chinh-tri/niem-tin-khong-trao-ban-mot-chieu-ma-hinh-thanh-tu-thuc-tien-phuc-vu-nhan-dan-post1292549.vov) - 22:30 19/05/2026
-- 🪜 [Việt Nam - Thụy Điển thúc đẩy hợp tác khoa học, đổi mới sáng tạo](https://vov.vn/chinh-tri/viet-nam-thuy-dien-thuc-day-hop-tac-khoa-hoc-doi-moi-sang-tao-post1293312.vov) - 15:44 19/05/2026
-- 🌋 [Bộ trưởng Lương Tam Quang tiếp Phó Đại diện Thương mại Hoa Kỳ](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-tiep-pho-dai-dien-thuong-mai-hoa-ky-post1293295.vov) - 13:30 19/05/2026
-- 🎉 [Dâng hoa kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh tại Philippines](https://vov.vn/chinh-tri/dang-hoa-ky-niem-136-nam-ngay-sinh-chu-tich-ho-chi-minh-tai-philippines-post1293264.vov) - 11:51 19/05/2026
-- 🌝 [Học Bác từ những điều bình dị: Tận tâm phụng sự, lan tỏa yêu thương](https://vov.vn/chinh-tri/hoc-bac-tu-nhung-dieu-binh-di-tan-tam-phung-su-lan-toa-yeu-thuong-post1293262.vov) - 11:47 19/05/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-rajnath-singh-post1293250.vov) - 11:22 19/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước: Chính sách nhà ở phải được thiết kế ở tầm nhìn mới](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-chinh-sach-nha-o-phai-duoc-thiet-ke-o-tam-nhin-moi-post1293249.vov) - 11:19 19/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Sắp xuất bản tuyển tập các tác phẩm của Lãnh tụ cách mạng Cuba Fidel Castro Ruz](https://vov.vn/chinh-tri/sap-xuat-ban-tuyen-tap-cac-tac-pham-cua-lanh-tu-cach-mang-cuba-fidel-castro-ruz-post1293547.vov) - 09:57 20/05/2026
+- 💃 [Việt Nam, Cuba củng cố và tăng cường hơn nữa mối quan hệ đặc biệt](https://vov.vn/chinh-tri/viet-nam-cuba-cung-co-va-tang-cuong-hon-nua-moi-quan-he-dac-biet-post1293551.vov) - 09:54 20/05/2026
+- 🫶 [Đại tướng Lương Tam Quang chủ trì hội thảo về an ninh quốc gia trong kỷ nguyên mới](https://vov.vn/chinh-tri/dai-tuong-luong-tam-quang-chu-tri-hoi-thao-ve-an-ninh-quoc-gia-trong-ky-nguyen-moi-post1293529.vov) - 09:22 20/05/2026
+- 👨‍🏫 [Quảng Trị thông qua nhiều Nghị quyết phục vụ vận hành chính quyền địa phương 2 cấp](https://vov.vn/chinh-tri/quang-tri-thong-qua-nhieu-nghi-quyet-phuc-vu-van-hanh-chinh-quyen-dia-phuong-2-cap-post1293511.vov) - 09:17 20/05/2026
+- 🪜 [Tỉnh ủy Vĩnh Long công bố và trao Quyết định của Ban Bí thư về công tác cán bộ](https://vov.vn/chinh-tri/tinh-uy-vinh-long-cong-bo-va-trao-quyet-dinh-cua-ban-bi-thu-ve-cong-tac-can-bo-post1293520.vov) - 09:14 20/05/2026
+- 🌋 [Phó Chánh án TAND TP.HCM giữ chức vụ Chánh án TAND tỉnh Đồng Tháp](https://vov.vn/chinh-tri/pho-chanh-an-tand-tphcm-giu-chuc-vu-chanh-an-tand-tinh-dong-thap-post1293525.vov) - 09:13 20/05/2026
+- 🎉 [Đại sứ Phan Minh Giang trình Thư ủy nhiệm lên Tổng thống Cộng hòa Fiji](https://vov.vn/chinh-tri/dai-su-phan-minh-giang-trinh-thu-uy-nhiem-len-tong-thong-cong-hoa-fiji-post1293527.vov) - 09:08 20/05/2026
+- 🌝 [Chủ tịch Quốc hội Trần Thanh Mẫn làm việc với Thường trực Ủy ban Công tác đại biểu](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tran-thanh-man-lam-viec-voi-thuong-truc-uy-ban-cong-tac-dai-bieu-post1293487.vov) - 07:56 20/05/2026
+- 🏊 [Lâm Đồng định hình Đức Trọng thành trung tâm hành chính - chính trị mới](https://vov.vn/chinh-tri/lam-dong-dinh-hinh-duc-trong-thanh-trung-tam-hanh-chinh-chinh-tri-moi-post1293477.vov) - 07:27 20/05/2026
+- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước: Tập trung nguồn lực cho các cực tăng trưởng](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-tap-trung-nguon-luc-cho-cac-cuc-tang-truong-post1293468.vov) - 06:31 20/05/2026<!-- vov-chinh-tri:END -->
