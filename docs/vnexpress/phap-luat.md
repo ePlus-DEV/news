@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai chị em cầm đầu đường dây bán 100.000 chai nước hoa giả bị bắt](https://vnexpress.net/hai-chi-em-cam-dau-duong-day-ban-100-000-chai-nuoc-hoa-gia-bi-bat-5076289.html) - 15:18 20/05/2026
-- 🥰 [Cựu phó chủ tịch tỉnh Lào Cai Lê Ngọc Hưng bị khởi tố](https://vnexpress.net/cuu-pho-chu-tich-tinh-lao-cai-le-ngoc-hung-bi-khoi-to-5076263.html) - 12:10 20/05/2026
-- 🎓 [Lời kể của người ông cứu cháu 4 tuổi khỏi căn nhà bị phóng hỏa](https://vnexpress.net/loi-ke-cua-nguoi-ong-cuu-chau-4-tuoi-khoi-can-nha-bi-phong-hoa-5076156.html) - 10:14 20/05/2026
-- 🤓 [Những phút cuối trước thảm án 3 người tử vong ở Tây Ninh](https://vnexpress.net/nhung-phut-cuoi-truoc-tham-an-3-nguoi-tu-vong-o-tay-ninh-5076176.html) - 10:03 20/05/2026
-- 🎊 [Cựu cục trưởng của Bộ Y tế khai lúc nhận tiền &#39;chỉ nghĩ là được cảm ơn&#39;](https://vnexpress.net/cuu-cuc-truong-cua-bo-y-te-khai-luc-nhan-tien-chi-nghi-la-duoc-cam-on-5076192.html) - 09:40 20/05/2026
-- 🙉 [Trạm trưởng Kiểm lâm tiếp tay cho chủ tiệm nuôi nhốt chim trái phép](https://vnexpress.net/tram-truong-kiem-lam-tiep-tay-cho-chu-tiem-nuoi-nhot-chim-trai-phep-5076144.html) - 09:09 20/05/2026
-- 🤡 [Người liên quan đến thi thể trong nhà nghỉ ở Khánh Hòa bị bắt](https://vnexpress.net/nguoi-lien-quan-den-thi-the-trong-nha-nghi-o-khanh-hoa-bi-bat-5076180.html) - 08:57 20/05/2026
-- 🗽 [Cựu Bộ trưởng Kim Tiến: &#39;Về nhà mới biết trong túi có 2 tỷ&#39;](https://vnexpress.net/cuu-bo-truong-kim-tien-ve-nha-moi-biet-trong-tui-co-2-ty-5076152.html) - 08:38 20/05/2026
-- 🌋 [Hai nhóm hỗn chiến giữa trung tâm Đồng Nai](https://vnexpress.net/hai-nhom-hon-chien-giua-trung-tam-dong-nai-5076087.html) - 07:48 20/05/2026
-- 🎬 [Cựu vụ phó Bộ Y tế: Nhà thầu bệnh viện &#39;tự mang&#39; 88 tỷ đồng đến biếu](https://vnexpress.net/cuu-vu-pho-bo-y-te-nha-thau-benh-vien-tu-mang-88-ty-dong-den-bieu-5076078.html) - 07:23 20/05/2026
-- 💯 [Cấp dưới khai chọn đơn vị thiết kế bệnh viện sau gợi ý của Bộ trưởng Kim Tiến](https://vnexpress.net/cap-duoi-khai-chon-don-vi-thiet-ke-benh-vien-sau-goi-y-cua-bo-truong-kim-tien-5076040.html) - 05:43 20/05/2026
-- 🌏 [Ca sĩ Long Nhật, Sơn Ngọc Minh bị bắt vì liên quan ma túy](https://vnexpress.net/ca-si-long-nhat-son-ngoc-minh-bi-bat-vi-lien-quan-ma-tuy-5060857.html) - 05:24 20/05/2026
-- 🌊 [Mẹ &#39;đại gia kim cương&#39; Chu Đăng Khoa bị cáo buộc tham ô hơn 79 tỷ đồng](https://vnexpress.net/me-dai-gia-kim-cuong-chu-dang-khoa-bi-cao-buoc-tham-o-hon-79-ty-dong-5076024.html) - 04:00 20/05/2026
+- 😎 [VKS: Bệnh viện Bạch Mai và Việt Đức cơ sở 2 &#39;cỏ hoang um tùm, mà nói không lãng phí&#39;](https://vnexpress.net/vks-benh-vien-bach-mai-va-viet-duc-co-so-2-co-hoang-um-tum-ma-noi-khong-lang-phi-5076717.html) - 17:00 21/05/2026
+- 🥰 [Âm mưu giả vờ mang thai để cướp con của bạn thân](https://vnexpress.net/am-muu-gia-vo-mang-thai-de-cuop-con-cua-ban-than-5076714.html) - 17:00 21/05/2026
+- 🎓 [Kẻ sát hại bạn cướp vàng bị phạt tử hình](https://vnexpress.net/ke-sat-hai-ban-cuop-vang-bi-phat-tu-hinh-5076653.html) - 17:00 21/05/2026
+- 🤓 [5 lỗi thường gặp khiến người nước ngoài bị từ chối cấp thẻ tạm trú](https://vnexpress.net/5-loi-thuong-gap-khien-nguoi-nuoc-ngoai-bi-tu-choi-cap-the-tam-tru-5076258.html) - 17:00 21/05/2026
+- 🎊 [Gửi 50 triệu đồng tiền ăn trộm vào ngân hàng](https://vnexpress.net/gui-50-trieu-dong-tien-an-trom-vao-ngan-hang-5076719.html) - 16:09 21/05/2026
+- 🙉 [Nhiều &#39;bình luận viên&#39; nổi tiếng của Cà Khịa TV, Ra Khơi TV bị bắt](https://vnexpress.net/nhieu-binh-luan-vien-noi-tieng-cua-ca-khia-tv-ra-khoi-tv-bi-bat-5076751.html) - 15:16 21/05/2026
+- 🤡 [Sát hại bạn nhậu vì lời thách thức](https://vnexpress.net/sat-hai-ban-nhau-vi-loi-thach-thuc-5076702.html) - 13:35 21/05/2026
+- 🗽 [Chủ tịch HĐQT Công ty tư vấn Xây dựng Điện 2 &#39;bị khởi tố&#39;](https://vnexpress.net/chu-tich-hdqt-cong-ty-tu-van-xay-dung-dien-2-bi-khoi-to-5076726.html) - 13:29 21/05/2026
+- 🌋 [Nuôi 3 chim công quý hiếm không khai báo, người đàn ông ở TP HCM bị bắt](https://vnexpress.net/nuoi-3-chim-cong-quy-hiem-khong-khai-bao-nguoi-dan-ong-o-tp-hcm-bi-bat-5076682.html) - 10:31 21/05/2026
+- 🎬 [Luật sư: &#39;7 tháng tạm giam là sự trừng phạt nghiêm khắc với cựu bộ trưởng Kim Tiến&#39;](https://vnexpress.net/luat-su-7-thang-tam-giam-la-su-trung-phat-nghiem-khac-voi-cuu-bo-truong-kim-tien-5076625.html) - 09:26 21/05/2026
+- 💯 [Đường dây &#39;rửa&#39; hơn 50 tỷ đồng cho casino nước ngoài](https://vnexpress.net/duong-day-rua-hon-50-ty-dong-cho-casino-nuoc-ngoai-5076613.html) - 09:00 21/05/2026
+- 🌏 [Hai giang hồ cầm súng cướp ngân hàng ở Gia Lai sắp bị xét xử](https://vnexpress.net/hai-giang-ho-cam-sung-cuop-ngan-hang-o-gia-lai-sap-bi-xet-xu-5076592.html) - 08:33 21/05/2026
+- 🌊 [Nhóm nữ sinh đánh hội đồng bạn trong nhà vệ sinh bị triệu tập](https://vnexpress.net/nhom-nu-sinh-danh-hoi-dong-ban-trong-nha-ve-sinh-bi-trieu-tap-5076569.html) - 08:06 21/05/2026
+- 💂 [Kế toán của PVoil Vũng Áng &#39;ôm&#39; 94 tỷ đồng tiền xăng dầu đi đánh bạc](https://vnexpress.net/ke-toan-cua-pvoil-vung-ang-om-94-ty-dong-tien-xang-dau-di-danh-bac-5076422.html) - 07:32 21/05/2026
+- 🎡 [Hơn 42.500 trái chủ Vạn Thịnh Phát nhận bồi thường thêm 1.700 tỷ đồng](https://vnexpress.net/hon-42-500-trai-chu-van-thinh-phat-nhan-boi-thuong-them-1-700-ty-dong-5076496.html) - 07:16 21/05/2026
+- 🫶 [Cựu bộ trưởng Kim Tiến được con bồi thường thay 24 tỷ đồng](https://vnexpress.net/cuu-bo-truong-kim-tien-duoc-con-boi-thuong-thay-24-ty-dong-5076405.html) - 05:48 21/05/2026
+- 🐲 [Nhóm người nước ngoài thuê khách sạn, lắp máy móc nghi lừa đảo mạng](https://vnexpress.net/nhom-nguoi-nuoc-ngoai-thue-khach-san-lap-may-moc-nghi-lua-dao-mang-5076454.html) - 04:25 21/05/2026
+- 🚀 [Cựu bộ trưởng Kim Tiến bị đề nghị 5-6 năm tù, phải nộp 108 tỷ đồng](https://vnexpress.net/cuu-bo-truong-kim-tien-bi-de-nghi-5-6-nam-tu-phai-nop-108-ty-dong-5076418.html) - 03:33 21/05/2026
+- 🎊 [Giả vờ nhảy cầu sau khi sát hại người tình](https://vnexpress.net/gia-vo-nhay-cau-sau-khi-sat-hai-nguoi-tinh-5076435.html) - 03:32 21/05/2026
+- 🤗 [Hai cựu cục trưởng An toàn thực phẩm được đề nghị giảm 2-5 năm tù](https://vnexpress.net/hai-cuu-cuc-truong-an-toan-thuc-pham-duoc-de-nghi-giam-2-5-nam-tu-5076362.html) - 03:16 21/05/2026
+- 🗽 [Vô tư đăng nhạc lên mạng kiếm tiền dễ &#39;vướng&#39; rắc rối nào?](https://vnexpress.net/vo-tu-dang-nhac-len-mang-kiem-tien-de-vuong-rac-roi-nao-5076036.html) - 00:57 21/05/2026
+- 🕴 [Bí mật &#39;lạnh gáy&#39; trong căn hộ của gã nghiên cứu về tội phạm học](https://vnexpress.net/bi-mat-lanh-gay-trong-can-ho-cua-ga-nghien-cuu-ve-toi-pham-hoc-5076253.html) - 17:54 20/05/2026
+- 🌜 [Cựu bộ trưởng Kim Tiến băn khoăn cách tính thiệt hại 803 tỷ đồng của vụ án](https://vnexpress.net/cuu-bo-truong-kim-tien-ban-khoan-cach-tinh-thiet-hai-803-ty-dong-cua-vu-an-5076271.html) - 17:00 20/05/2026
+- 🧑‍🏫 [Hứa trả lãi cao rồi ôm 80 tỷ đồng bỏ trốn](https://vnexpress.net/hua-tra-lai-cao-roi-om-80-ty-dong-bo-tron-5076221.html) - 17:00 20/05/2026
+- 🦩 [Hãm hại con gái 6 tuổi của người tình](https://vnexpress.net/ham-hai-con-gai-6-tuoi-cua-nguoi-tinh-5076141.html) - 17:00 20/05/2026
+- 💼 [Người về hưu có phải đóng bảo hiểm xã hội khi đi làm thêm?](https://vnexpress.net/nguoi-ve-huu-co-phai-dong-bao-hiem-xa-hoi-khi-di-lam-them-5076015.html) - 17:00 20/05/2026
+- 💫 [Hai chị em cầm đầu đường dây bán 100.000 chai nước hoa giả](https://vnexpress.net/hai-chi-em-cam-dau-duong-day-ban-100-000-chai-nuoc-hoa-gia-5076289.html) - 15:18 20/05/2026
+- 🦅 [Cựu phó chủ tịch tỉnh Lào Cai Lê Ngọc Hưng bị khởi tố](https://vnexpress.net/cuu-pho-chu-tich-tinh-lao-cai-le-ngoc-hung-bi-khoi-to-5076263.html) - 12:10 20/05/2026
+- 🧑‍💻 [Lời kể của người ông cứu cháu 4 tuổi khỏi căn nhà bị phóng hỏa](https://vnexpress.net/loi-ke-cua-nguoi-ong-cuu-chau-4-tuoi-khoi-can-nha-bi-phong-hoa-5076156.html) - 10:14 20/05/2026
+- 💻 [Những phút cuối trước thảm án 3 người tử vong ở Tây Ninh](https://vnexpress.net/nhung-phut-cuoi-truoc-tham-an-3-nguoi-tu-vong-o-tay-ninh-5076176.html) - 10:03 20/05/2026
+- 🤠 [Cựu cục trưởng của Bộ Y tế khai lúc nhận tiền &#39;chỉ nghĩ là được cảm ơn&#39;](https://vnexpress.net/cuu-cuc-truong-cua-bo-y-te-khai-luc-nhan-tien-chi-nghi-la-duoc-cam-on-5076192.html) - 09:40 20/05/2026
+- 🧑‍🏫 [Trạm trưởng Kiểm lâm tiếp tay cho chủ tiệm nuôi nhốt chim trái phép](https://vnexpress.net/tram-truong-kiem-lam-tiep-tay-cho-chu-tiem-nuoi-nhot-chim-trai-phep-5076144.html) - 09:09 20/05/2026
+- 🌈 [Người liên quan đến thi thể trong nhà nghỉ ở Khánh Hòa bị bắt](https://vnexpress.net/nguoi-lien-quan-den-thi-the-trong-nha-nghi-o-khanh-hoa-bi-bat-5076180.html) - 08:57 20/05/2026
+- 🌮 [Cựu Bộ trưởng Kim Tiến: &#39;Về nhà mới biết trong túi có 2 tỷ&#39;](https://vnexpress.net/cuu-bo-truong-kim-tien-ve-nha-moi-biet-trong-tui-co-2-ty-5076152.html) - 08:38 20/05/2026
+- 🐲 [Hai nhóm hỗn chiến giữa trung tâm Đồng Nai](https://vnexpress.net/hai-nhom-hon-chien-giua-trung-tam-dong-nai-5076087.html) - 07:48 20/05/2026
+- 🧰 [Cựu vụ phó Bộ Y tế: Nhà thầu bệnh viện &#39;tự mang&#39; 88 tỷ đồng đến biếu](https://vnexpress.net/cuu-vu-pho-bo-y-te-nha-thau-benh-vien-tu-mang-88-ty-dong-den-bieu-5076078.html) - 07:23 20/05/2026
+- 💄 [Cấp dưới khai chọn đơn vị thiết kế bệnh viện sau gợi ý của Bộ trưởng Kim Tiến](https://vnexpress.net/cap-duoi-khai-chon-don-vi-thiet-ke-benh-vien-sau-goi-y-cua-bo-truong-kim-tien-5076040.html) - 05:43 20/05/2026
+- ⛽️ [Ca sĩ Long Nhật, Sơn Ngọc Minh bị bắt vì liên quan ma túy](https://vnexpress.net/ca-si-long-nhat-son-ngoc-minh-bi-bat-vi-lien-quan-ma-tuy-5060857.html) - 05:24 20/05/2026
+- ⛽️ [Mẹ &#39;đại gia kim cương&#39; Chu Đăng Khoa bị cáo buộc tham ô hơn 79 tỷ đồng](https://vnexpress.net/me-dai-gia-kim-cuong-chu-dang-khoa-bi-cao-buoc-tham-o-hon-79-ty-dong-5076024.html) - 04:00 20/05/2026
 - 💂 [Con trai tỷ phú sáng lập Mango bị bắt sau cái chết bí ẩn của cha](https://vnexpress.net/con-trai-ty-phu-sang-lap-mango-bi-bat-sau-cai-chet-bi-an-cua-cha-5076011.html) - 03:47 20/05/2026
-- 🎡 [Hai cựu cục trưởng Bộ Y tế &#39;nhận 52 tỷ đồng&#39; ra tòa xin giảm án](https://vnexpress.net/hai-cuu-cuc-truong-bo-y-te-nhan-52-ty-dong-ra-toa-xin-giam-an-5075926.html) - 02:57 20/05/2026
-- 🫶 [Cảnh sát khám xét 3 shop giày &#39;hàng hiệu&#39; giả ở TP HCM](https://vnexpress.net/canh-sat-kham-xet-3-shop-giay-hang-hieu-gia-o-tp-hcm-5075946.html) - 02:52 20/05/2026
-- 🐲 [Nghi phạm sát hại 3 người nhà bạn gái ở Tây Ninh bị bắt](https://vnexpress.net/nghi-pham-sat-hai-3-nguoi-nha-ban-gai-o-tay-ninh-bi-bat-5075894.html) - 23:30 19/05/2026
-- 🚀 [Cựu bộ trưởng Nguyễn Thị Kim Tiến từ chối 2 trong 4 luật sư bào chữa](https://vnexpress.net/cuu-bo-truong-nguyen-thi-kim-tien-tu-choi-2-trong-4-luat-su-bao-chua-5075842.html) - 17:00 19/05/2026
-- 🎊 [Vụ mất tích bí ẩn của cậu bé 7 tuổi sau khi đến trường cùng mẹ kế](https://vnexpress.net/vu-mat-tich-bi-an-cua-cau-be-7-tuoi-sau-khi-den-truong-cung-me-ke-5075816.html) - 17:00 19/05/2026
-- 🤗 [Hai nữ giám đốc bị bắt sau tố cáo của người muốn đi Hàn Quốc](https://vnexpress.net/hai-nu-giam-doc-bi-bat-sau-to-cao-cua-nguoi-muon-di-han-quoc-5075767.html) - 17:00 19/05/2026
-- 🗽 [Tên cướp nhí đánh cụ bà bất tỉnh](https://vnexpress.net/ten-cuop-nhi-danh-cu-ba-bat-tinh-5075830.html) - 16:06 19/05/2026
-- 🕴 [Truy bắt kẻ sát hại 3 người gia đình bạn gái](https://vnexpress.net/truy-bat-ke-sat-hai-3-nguoi-gia-dinh-ban-gai-5075857.html) - 15:49 19/05/2026
-- 🌜 [Hành khách đeo 2 kg nữ trang qua sân bay, lộ đường dây buôn lậu vàng](https://vnexpress.net/hanh-khach-deo-2-kg-nu-trang-qua-san-bay-lo-duong-day-buon-lau-vang-5075821.html) - 12:34 19/05/2026
-- 🧑‍🏫 [Nhiều người sập bẫy &#39;chạy&#39; giấy phép của giám đốc ở TP HCM](https://vnexpress.net/nhieu-nguoi-sap-bay-chay-giay-phep-cua-giam-doc-o-tp-hcm-5075812.html) - 11:45 19/05/2026
-- 🦩 [Người phụ nữ đánh tài xế ôtô tới tấp sau va chạm giao thông](https://vnexpress.net/nguoi-phu-nu-danh-tai-xe-oto-toi-tap-sau-va-cham-giao-thong-5075797.html) - 10:55 19/05/2026
-- 💼 [Đường dây buôn lậu 8.000 cây vàng từ Hong Kong vào Việt Nam bị triệt phá](https://vnexpress.net/duong-day-buon-lau-8-000-cay-vang-tu-hong-kong-vao-viet-nam-bi-triet-pha-5075790.html) - 10:21 19/05/2026
-- 💫 [Trưởng khoa Dược bị bắt với cáo buộc buôn lậu hàng chục tấn caffeine](https://vnexpress.net/truong-khoa-duoc-bi-bat-voi-cao-buoc-buon-lau-hang-chuc-tan-caffeine-5075780.html) - 10:18 19/05/2026
-- 🦅 [Vợ tử vong, con 4 tuổi nguy kịch nghi do &#39;chồng hờ&#39; phóng hỏa](https://vnexpress.net/vo-tu-vong-con-4-tuoi-nguy-kich-nghi-do-chong-ho-phong-hoa-5075658.html) - 07:46 19/05/2026
-- 🧑‍💻 [Đường dây làm giả 10.000 giấy tờ, thẻ ngành, sổ đỏ bị bắt](https://vnexpress.net/duong-day-lam-gia-10-000-giay-to-the-nganh-so-do-bi-bat-5075576.html) - 05:52 19/05/2026
-- 💻 [Quản lý cửa hàng Petrolimex bán hơn 12.500 lít &#39;dầu pha xăng&#39; ra thị trường](https://vnexpress.net/quan-ly-cua-hang-petrolimex-ban-hon-12-500-lit-dau-pha-xang-ra-thi-truong-5075561.html) - 04:14 19/05/2026
-- 🤠 [Người túm tóc, tát hàng xóm khi bênh con nói &#39;cháu chỉ nghịch hơi quá&#39;](https://vnexpress.net/nguoi-tum-toc-tat-hang-xom-khi-benh-con-noi-chau-chi-nghich-hoi-qua-5075530.html) - 04:13 19/05/2026
-- 🧑‍🏫 [Học sinh 6 tuổi bắn cô giáo, hiệu phó phải ra tòa](https://vnexpress.net/hoc-sinh-6-tuoi-ban-co-giao-hieu-pho-phai-ra-toa-5075476.html) - 03:24 19/05/2026
-- 🌈 [Bước ngoặt cuộc đời của nữ sinh bị kẻ hiếp dâm tấn công khi ngủ](https://vnexpress.net/buoc-ngoat-cuoc-doi-cua-nu-sinh-bi-ke-hiep-dam-tan-cong-khi-ngu-5075338.html) - 17:00 18/05/2026
-- 🌮 [Bộ Công an đề xuất nhiều hành vi chuẩn bị phạm tội cũng có thể bị phạt tù](https://vnexpress.net/bo-cong-an-de-xuat-nhieu-hanh-vi-chuan-bi-pham-toi-cung-co-the-bi-phat-tu-5075243.html) - 17:00 18/05/2026
-- 🐲 [Bị &#39;bóc phốt&#39; sai trên mạng, chủ quán có quyền kiện thực khách?](https://vnexpress.net/bi-boc-phot-sai-tren-mang-chu-quan-co-quyen-kien-thuc-khach-5075170.html) - 17:00 18/05/2026
-- 🧰 [Ân hận muộn màng của bảo mẫu ném bé trai 14 tháng tuổi tử vong](https://vnexpress.net/an-han-muon-mang-cua-bao-mau-nem-be-trai-14-thang-tuoi-tu-vong-5075371.html) - 15:34 18/05/2026
-- 💄 [In hàng trăm tờ 5.000 đồng giả mang đi đổi dọc đường](https://vnexpress.net/in-hang-tram-to-5-000-dong-gia-mang-di-doi-doc-duong-5075359.html) - 13:29 18/05/2026
-- ⛽️ [Kẻ sát hại mẹ, chém chị trong cơn ngáo đá xin nhận án tử hình](https://vnexpress.net/ke-sat-hai-me-chem-chi-trong-con-ngao-da-xin-nhan-an-tu-hinh-5075341.html) - 11:49 18/05/2026
-- ⛽️ [Cha mẹ ở Anh có thể đi tù khi không ngăn được con phạm tội](https://vnexpress.net/cha-me-o-anh-co-the-di-tu-khi-khong-ngan-duoc-con-pham-toi-5075312.html) - 10:01 18/05/2026
-- 💂 [Công an truy tìm người liên quan thi thể trong nhà nghỉ](https://vnexpress.net/cong-an-truy-tim-nguoi-lien-quan-thi-the-trong-nha-nghi-5075191.html) - 08:12 18/05/2026
-- 🤔 [Công an bỏ thủ tục thu thập thông tin sinh trắc học về ADN, giọng nói](https://vnexpress.net/cong-an-bo-thu-tuc-thu-thap-thong-tin-sinh-trac-hoc-ve-adn-giong-noi-5075187.html) - 06:03 18/05/2026
-- 🧐 [Thủ đoạn dụ dỗ những cô gái ham chơi của băng đảng ma túy](https://vnexpress.net/thu-doan-du-do-nhung-co-gai-ham-choi-cua-bang-dang-ma-tuy-5075179.html) - 05:58 18/05/2026
-- 🎃 [Bộ Công an đề xuất còn hai tội áp dụng án tử hình](https://vnexpress.net/bo-cong-an-de-xuat-con-hai-toi-ap-dung-an-tu-hinh-5075120.html) - 05:31 18/05/2026
-- 🤓 [Cô gái thuê người thi hộ tiếng Anh để hoàn tất bằng thạc sĩ](https://vnexpress.net/co-gai-thue-nguoi-thi-ho-tieng-anh-de-hoan-tat-bang-thac-si-5075089.html) - 03:16 18/05/2026
-- 💃 [Thanh niên bị bắt vì 3 lần quan hệ tình dục với người yêu nhí 15 tuổi](https://vnexpress.net/thanh-nien-bi-bat-vi-3-lan-quan-he-tinh-duc-voi-nguoi-yeu-nhi-15-tuoi-5075081.html) - 03:13 18/05/2026
-- 🐵 [Chặn vụ vận chuyển 84 tấn quặng phóng xạ ra nước ngoài](https://vnexpress.net/chan-vu-van-chuyen-84-tan-quang-phong-xa-ra-nuoc-ngoai-5075054.html) - 02:49 18/05/2026
-- 🤖 [Nhóm ném bom xăng vào nhà đối thủ bị bắt](https://vnexpress.net/nhom-nem-bom-xang-vao-nha-doi-thu-bi-bat-5074967.html) - 19:47 17/05/2026
-- ⚗️ [Hai cha con bị cáo buộc cưỡng đoạt tiền CSGT](https://vnexpress.net/hai-cha-con-bi-cao-buoc-cuong-doat-tien-csgt-5074954.html) - 12:45 17/05/2026
-- 🌏 [Công an TP HCM mở đợt cao điểm 45 ngày trấn áp tội phạm](https://vnexpress.net/cong-an-tp-hcm-mo-dot-cao-diem-45-ngay-tran-ap-toi-pham-5074879.html) - 08:29 17/05/2026
-- 🦆 [Quang Lập, BH Media, Mây Sài Gòn &#39;sao chép chương trình âm nhạc để hưởng lợi&#39;](https://vnexpress.net/quang-lap-bh-media-may-sai-gon-sao-chep-chuong-trinh-am-nhac-de-huong-loi-5074853.html) - 04:28 17/05/2026
-- 🐎 [Cô giáo bị bắt với cáo buộc &#39;xúc phạm tổ chức, cá nhân&#39;](https://vnexpress.net/co-giao-bi-bat-voi-cao-buoc-xuc-pham-to-chuc-ca-nhan-5074832.html) - 02:33 17/05/2026
-- 😎 [Để xe ở vỉa hè: Quán cà phê hay khách phải nộp tiền phạt nguội?](https://vnexpress.net/de-xe-o-via-he-quan-ca-phe-hay-khach-phai-nop-tien-phat-nguoi-5074275.html) - 00:00 17/05/2026
-- 💪 [Ba tháng phản kháng tuyệt vọng của cô gái yêu lầm kẻ bạo lực](https://vnexpress.net/ba-thang-phan-khang-tuyet-vong-cua-co-gai-yeu-lam-ke-bao-luc-5073577.html) - 23:00 16/05/2026
-- 🤡 [Đề xuất bỏ phần mô phỏng khi thi phục hồi bằng lái](https://vnexpress.net/de-xuat-bo-phan-mo-phong-khi-thi-phuc-hoi-bang-lai-5074637.html) - 17:00 16/05/2026
-- 🌁 [Dịp lễ, quán tăng giá đến mức nào sẽ bị coi là &#39;chặt chém&#39;?](https://vnexpress.net/dip-le-quan-tang-gia-den-muc-nao-thi-bi-coi-la-chat-chem-5073890.html) - 17:00 16/05/2026
-- 🔥 [Khởi tố vụ án nhóm đi ôtô Lexus đánh hai cô gái ở Hà Nội](https://vnexpress.net/khoi-to-vu-an-nhom-di-oto-lexus-danh-hai-co-gai-o-ha-noi-5074781.html) - 15:41 16/05/2026
-- 🔥 [Chủ tịch HĐQT và nhiều nhân sự chủ chốt của PC1 bị khởi tố](https://vnexpress.net/chu-tich-hdqt-va-nhieu-nhan-su-chu-chot-cua-pc1-bi-khoi-to-5074774.html) - 15:32 16/05/2026
-- 👺 [Tàng trữ hơn 1,3 tấn thuốc nổ để bán cho ngư dân](https://vnexpress.net/me-va-con-trai-tang-tru-hon-1-3-tan-thuoc-no-5074767.html) - 14:53 16/05/2026
-- 🎊 [Vờ mua 10 quả trứng gà để giật dây chuyền vàng](https://vnexpress.net/vo-mua-10-qua-trung-ga-de-giat-day-chuyen-vang-5074765.html) - 14:46 16/05/2026
-- 🎊 [Ca sĩ Miu Lê bị bắt với cáo buộc tổ chức sử dụng ma túy](https://vnexpress.net/ca-si-miu-le-bi-bat-voi-cao-buoc-to-chuc-su-dung-ma-tuy-5074769.html) - 14:35 16/05/2026<!-- vnexpress-phap-luat:END -->
+- 🤔 [Hai cựu cục trưởng Bộ Y tế &#39;nhận 52 tỷ đồng&#39; ra tòa xin giảm án](https://vnexpress.net/hai-cuu-cuc-truong-bo-y-te-nhan-52-ty-dong-ra-toa-xin-giam-an-5075926.html) - 02:57 20/05/2026
+- 🧐 [Cảnh sát khám xét 3 shop giày &#39;hàng hiệu&#39; giả ở TP HCM](https://vnexpress.net/canh-sat-kham-xet-3-shop-giay-hang-hieu-gia-o-tp-hcm-5075946.html) - 02:52 20/05/2026
+- 🎃 [Nghi phạm sát hại 3 người nhà bạn gái ở Tây Ninh bị bắt](https://vnexpress.net/nghi-pham-sat-hai-3-nguoi-nha-ban-gai-o-tay-ninh-bi-bat-5075894.html) - 23:30 19/05/2026
+- 🤓 [Cựu bộ trưởng Nguyễn Thị Kim Tiến từ chối 2 trong 4 luật sư bào chữa](https://vnexpress.net/cuu-bo-truong-nguyen-thi-kim-tien-tu-choi-2-trong-4-luat-su-bao-chua-5075842.html) - 17:00 19/05/2026
+- 💃 [Vụ mất tích bí ẩn của cậu bé 7 tuổi sau khi đến trường cùng mẹ kế](https://vnexpress.net/vu-mat-tich-bi-an-cua-cau-be-7-tuoi-sau-khi-den-truong-cung-me-ke-5075816.html) - 17:00 19/05/2026
+- 🐵 [Hai nữ giám đốc bị bắt sau tố cáo của người muốn đi Hàn Quốc](https://vnexpress.net/hai-nu-giam-doc-bi-bat-sau-to-cao-cua-nguoi-muon-di-han-quoc-5075767.html) - 17:00 19/05/2026
+- 🤖 [Tên cướp nhí đánh cụ bà bất tỉnh](https://vnexpress.net/ten-cuop-nhi-danh-cu-ba-bat-tinh-5075830.html) - 16:06 19/05/2026
+- ⚗️ [Truy bắt kẻ sát hại 3 người gia đình bạn gái](https://vnexpress.net/truy-bat-ke-sat-hai-3-nguoi-gia-dinh-ban-gai-5075857.html) - 15:49 19/05/2026
+- 🌏 [Hành khách đeo 2 kg nữ trang qua sân bay, lộ đường dây buôn lậu vàng](https://vnexpress.net/hanh-khach-deo-2-kg-nu-trang-qua-san-bay-lo-duong-day-buon-lau-vang-5075821.html) - 12:34 19/05/2026
+- 🦆 [Nhiều người sập bẫy &#39;chạy&#39; giấy phép của giám đốc ở TP HCM](https://vnexpress.net/nhieu-nguoi-sap-bay-chay-giay-phep-cua-giam-doc-o-tp-hcm-5075812.html) - 11:45 19/05/2026
+- 🐎 [Người phụ nữ đánh tài xế ôtô tới tấp sau va chạm giao thông](https://vnexpress.net/nguoi-phu-nu-danh-tai-xe-oto-toi-tap-sau-va-cham-giao-thong-5075797.html) - 10:55 19/05/2026
+- 😎 [Đường dây buôn lậu 8.000 cây vàng từ Hong Kong vào Việt Nam bị triệt phá](https://vnexpress.net/duong-day-buon-lau-8-000-cay-vang-tu-hong-kong-vao-viet-nam-bi-triet-pha-5075790.html) - 10:21 19/05/2026
+- 💪 [Trưởng khoa Dược bị bắt với cáo buộc buôn lậu hàng chục tấn caffeine](https://vnexpress.net/truong-khoa-duoc-bi-bat-voi-cao-buoc-buon-lau-hang-chuc-tan-caffeine-5075780.html) - 10:18 19/05/2026
+- 🤡 [Vợ tử vong, con 4 tuổi nguy kịch nghi do &#39;chồng hờ&#39; phóng hỏa](https://vnexpress.net/vo-tu-vong-con-4-tuoi-nguy-kich-nghi-do-chong-ho-phong-hoa-5075658.html) - 07:46 19/05/2026
+- 🌁 [Đường dây làm giả 10.000 giấy tờ, thẻ ngành, sổ đỏ bị bắt](https://vnexpress.net/duong-day-lam-gia-10-000-giay-to-the-nganh-so-do-bi-bat-5075576.html) - 05:52 19/05/2026
+- 🔥 [Quản lý cửa hàng Petrolimex bán hơn 12.500 lít &#39;dầu pha xăng&#39; ra thị trường](https://vnexpress.net/quan-ly-cua-hang-petrolimex-ban-hon-12-500-lit-dau-pha-xang-ra-thi-truong-5075561.html) - 04:14 19/05/2026
+- 🔥 [Người túm tóc, tát hàng xóm khi bênh con nói &#39;cháu chỉ nghịch hơi quá&#39;](https://vnexpress.net/nguoi-tum-toc-tat-hang-xom-khi-benh-con-noi-chau-chi-nghich-hoi-qua-5075530.html) - 04:13 19/05/2026
+- 👺 [Học sinh 6 tuổi bắn cô giáo, hiệu phó phải ra tòa](https://vnexpress.net/hoc-sinh-6-tuoi-ban-co-giao-hieu-pho-phai-ra-toa-5075476.html) - 03:24 19/05/2026
+- 🎊 [Bước ngoặt cuộc đời của nữ sinh bị kẻ hiếp dâm tấn công khi ngủ](https://vnexpress.net/buoc-ngoat-cuoc-doi-cua-nu-sinh-bi-ke-hiep-dam-tan-cong-khi-ngu-5075338.html) - 17:00 18/05/2026
+- 🎊 [Bộ Công an đề xuất nhiều hành vi chuẩn bị phạm tội cũng có thể bị phạt tù](https://vnexpress.net/bo-cong-an-de-xuat-nhieu-hanh-vi-chuan-bi-pham-toi-cung-co-the-bi-phat-tu-5075243.html) - 17:00 18/05/2026<!-- vnexpress-phap-luat:END -->
