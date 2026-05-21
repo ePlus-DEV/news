@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Chủ tịch Quốc hội lưu ý tháo gỡ điểm nghẽn trong chính sách dân tộc](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-luu-y-thao-go-diem-nghen-trong-chinh-sach-dan-toc-post1293774.vov) - 05:22 21/05/2026
-- 💃 [“Happy Vietnam 2026” lan tỏa hình ảnh Việt Nam nhân văn, hạnh phúc](https://vov.vn/chinh-tri/happy-vietnam-2026-lan-toa-hinh-anh-viet-nam-nhan-van-hanh-phuc-post1293737.vov) - 04:26 21/05/2026
-- 🫶 [Thư của Tổng Bí thư, Chủ tịch nước nhân Ngày truyền thống phòng, chống thiên tai](https://vov.vn/chinh-tri/thu-cua-tong-bi-thu-chu-tich-nuoc-nhan-ngay-truyen-thong-phong-chong-thien-tai-post1293717.vov) - 03:25 21/05/2026
-- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì họp Thường trực Ban chỉ đạo về phát triển KHCN](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-hop-thuong-truc-ban-chi-dao-ve-phat-trien-khcn-post1293698.vov) - 02:45 21/05/2026
-- 🪜 [Chủ nghĩa xã hội trong đời sống nhân dân](https://vov.vn/chinh-tri/chu-nghia-xa-hoi-trong-doi-song-nhan-dan-post1293499.vov) - 23:04 20/05/2026
-- 🌋 [Học Chủ tịch Hồ Chí Minh để đáp ứng yêu cầu bộ máy chính quyền địa phương 2 cấp](https://vov.vn/chinh-tri/hoc-chu-tich-ho-chi-minh-de-dap-ung-yeu-cau-bo-may-chinh-quyen-dia-phuong-2-cap-post1292929.vov) - 23:00 20/05/2026
-- 🎉 [Thủ tướng yêu cầu hoàn thành phương án sắp xếp lại thôn, tổ dân phố trước 10/6](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-hoan-thanh-phuong-an-sap-xep-lai-thon-to-dan-pho-truoc-106-post1293632.vov) - 15:07 20/05/2026
-- 🌝 [Thủ tướng Lê Minh Hưng tiếp Đại sứ Anh tại Việt Nam Iain Frew](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-dai-su-anh-tai-viet-nam-iain-frew-post1293630.vov) - 14:10 20/05/2026
-- 🏊 [Thủ tướng Lê Minh Hưng tiếp đại sứ Triều Tiên tại Việt Nam](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-dai-su-trieu-tien-tai-viet-nam-post1293624.vov) - 13:46 20/05/2026
-- 🧑‍💻 [Đắk Lắk cụ thể hoá nghị quyết, phấn đấu tăng trưởng 2 con số](https://vov.vn/chinh-tri/dak-lak-cu-the-hoa-nghi-quyet-phan-dau-tang-truong-2-con-so-post1293509.vov) - 12:48 20/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Lộ trình xây dựng xã, phường xã hội chủ nghĩa qua những giai đoạn nào?](https://vov.vn/chinh-tri/lo-trinh-xay-dung-xa-phuong-xa-hoi-chu-nghia-qua-nhung-giai-doan-nao-post1293958.vov) - 16:34 21/05/2026
+- 💃 [Sắp xếp thôn, tổ ở vùng cao Thái Nguyên: Thận trọng, linh hoạt và giữ gìn bản sắc](https://vov.vn/chinh-tri/sap-xep-thon-to-o-vung-cao-thai-nguyen-than-trong-linh-hoat-va-giu-gin-ban-sac-post1293933.vov) - 14:17 21/05/2026
+- 🫶 [Bộ trưởng Lê Hoài Trung tiếp Nhóm Đại sứ các nước châu Phi tại Việt Nam](https://vov.vn/chinh-tri/bo-truong-le-hoai-trung-tiep-nhom-dai-su-cac-nuoc-chau-phi-tai-viet-nam-post1293931.vov) - 13:52 21/05/2026
+- 👨‍🏫 [Bộ trưởng Ngoại giao Lê Hoài Trung tiếp Đại sứ Campuchia](https://vov.vn/chinh-tri/bo-truong-ngoai-giao-le-hoai-trung-tiep-dai-su-campuchia-post1293916.vov) - 12:15 21/05/2026
+- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
+- 🌋 [Sắp xếp lại thôn, tổ dân phố: Tổ dân phố ở Hà Nội, TP.HCM có thể tăng lên 700 hộ](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-to-dan-pho-o-ha-noi-tphcm-co-the-tang-len-700-ho-post1293872.vov) - 10:56 21/05/2026
+- 🎉 [Bộ Chính trị ban hành kế hoạch chống lãng phí, tiêu cực](https://vov.vn/chinh-tri/bo-chinh-tri-ban-hanh-ke-hoach-chong-lang-phi-tieu-cuc-post1293889.vov) - 10:39 21/05/2026
+- 🌝 [Phó Thủ tướng Phạm Gia Túc trao Huy hiệu Đảng cho đảng viên Đảng bộ Chính phủ](https://vov.vn/chinh-tri/pho-thu-tuong-pham-gia-tuc-trao-huy-hieu-dang-cho-dang-vien-dang-bo-chinh-phu-post1293869.vov) - 10:25 21/05/2026
+- 🏊 [4 giai đoạn xây dựng xã, phường xã hội chủ nghĩa ở Việt Nam từ nay đến năm 2045](https://vov.vn/chinh-tri/4-giai-doan-xay-dung-xa-phuong-xa-hoi-chu-nghia-o-viet-nam-tu-nay-den-nam-2045-post1293812.vov) - 09:28 21/05/2026
+- 🧑‍💻 [Ủy ban Pháp luật và Tư pháp phải là cơ quan đi đầu trong tư duy pháp quyền](https://vov.vn/chinh-tri/uy-ban-phap-luat-va-tu-phap-phai-la-co-quan-di-dau-trong-tu-duy-phap-quyen-post1293819.vov) - 08:39 21/05/2026<!-- vov-chinh-tri:END -->
