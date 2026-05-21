@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Lộ trình xây dựng xã, phường xã hội chủ nghĩa qua những giai đoạn nào?](https://vov.vn/chinh-tri/lo-trinh-xay-dung-xa-phuong-xa-hoi-chu-nghia-qua-nhung-giai-doan-nao-post1293958.vov) - 16:34 21/05/2026
-- 🕯 [Kết quả bốc thăm U17 World Cup 2026: U17 Việt Nam cùng bảng &amp;quot;đàn em&amp;quot; Lukaku](https://vov.vn/the-thao/ket-qua-boc-tham-u17-world-cup-2026-u17-viet-nam-cung-bang-dan-em-lukaku-post1293682.vov) - 14:41 21/05/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
-- 🎡 [Xung đột Mỹ - Iran trước nguy cơ rơi vào vòng xoáy nguy hiểm mới](https://vov.vn/the-gioi/xung-dot-my-iran-truoc-nguy-co-roi-vao-vong-xoay-nguy-hiem-moi-post1293897.vov) - 10:49 21/05/2026
-- 🚀 [Tình báo Mỹ bất ngờ trước tốc độ phục hồi sức mạnh quân sự của Iran](https://vov.vn/the-gioi/quan-sat/tinh-bao-my-bat-ngo-truoc-toc-do-phuc-hoi-suc-manh-quan-su-cua-iran-post1293836.vov) - 09:33 21/05/2026
-- 🔥 [4 giai đoạn xây dựng xã, phường xã hội chủ nghĩa ở Việt Nam từ nay đến năm 2045](https://vov.vn/chinh-tri/4-giai-doan-xay-dung-xa-phuong-xa-hoi-chu-nghia-o-viet-nam-tu-nay-den-nam-2045-post1293812.vov) - 09:28 21/05/2026
-- 🌋 [Những lưu ý đối với người dùng chuyển từ xăng A92 và A95 sang E10](https://vov.vn/o-to-xe-may/nhung-luu-y-doi-voi-nguoi-dung-chuyen-tu-xang-a92-va-a95-sang-e10-post1293409.vov) - 08:54 21/05/2026
-- 🕴 [Ủy ban Pháp luật và Tư pháp phải là cơ quan đi đầu trong tư duy pháp quyền](https://vov.vn/chinh-tri/uy-ban-phap-luat-va-tu-phap-phai-la-co-quan-di-dau-trong-tu-duy-phap-quyen-post1293819.vov) - 08:39 21/05/2026
-- 🥰 [Tổng Bí thư, Chủ tịch nước yêu cầu đầu tư trọng tâm cho công nghệ lượng tử](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-yeu-cau-dau-tu-trong-tam-cho-cong-nghe-luong-tu-post1293795.vov) - 07:39 21/05/2026
-- 🧐 [Hiện trường vụ sạt lở mỏ đá tại Thanh Hóa khiến 3 người tử vong](https://vov.vn/xa-hoi/hien-truong-vu-sat-lo-mo-da-tai-thanh-hoa-khien-3-nguoi-tu-vong-post1293732.vov) - 04:16 21/05/2026<!-- vov:END -->
+- 🌜 [Luật An ninh mạng có hiệu lực từ 1/7/2026: Đặt con người ở vị trí trung tâm](https://vov.vn/phap-luat/luat-an-ninh-mang-co-hieu-luc-tu-172026-dat-con-nguoi-o-vi-tri-trung-tam-post1293776.vov) - 23:20 21/05/2026
+- 🕯 [Bỏ thi lớp 10: Giảm áp lực nhưng làm sao để vẫn công bằng?](https://vov.vn/xa-hoi/bo-thi-lop-10-giam-ap-luc-nhung-lam-sao-de-van-cong-bang-post1293830.vov) - 23:18 21/05/2026
+- 🌊 [Nga giảm tốc giữa lúc Ukraine tăng đòn phản kích: Cục diện đang đảo chiều?](https://vov.vn/the-gioi/quan-sat/nga-giam-toc-giua-luc-ukraine-tang-don-phan-kich-cuc-dien-dang-dao-chieu-post1293726.vov) - 23:15 21/05/2026
+- 🥷 [AI tăng tốc: Cơ hội bứt phá hay cuộc thanh lọc lao động toàn cầu?](https://vov.vn/xa-hoi/ai-tang-toc-co-hoi-but-pha-hay-cuoc-thanh-loc-lao-dong-toan-cau-post1293801.vov) - 23:08 21/05/2026
+- 🎡 [Các trường đại học trọng điểm phải đóng vai trò &amp;quot;đầu tàu công nghệ&amp;quot;](https://vov.vn/xa-hoi/cac-truong-dai-hoc-trong-diem-phai-dong-vai-tro-dau-tau-cong-nghe-post1293860.vov) - 23:00 21/05/2026
+- 🚀 [Các trường đại học trọng điểm phải đóng vai trò &amp;quot;đầu tàu công nghệ&amp;quot;](https://vov.vn/xa-hoi/cac-truong-dai-hoc-trong-diem-phai-dong-vai-tro-dau-tau-cong-nghe-post1293860.vov) - 23:00 21/05/2026
+- 🔥 [Hành trình vun đắp con người Xã hội chủ nghĩa trong thời đại mới](https://vov.vn/chinh-tri/hanh-trinh-vun-dap-con-nguoi-xa-hoi-chu-nghia-trong-thoi-dai-moi-post1293861.vov) - 23:00 21/05/2026
+- 🌋 [Bắc Bộ và Trung Bộ chuẩn bị hứng chịu nắng nóng gay gắt, có nơi lên trên 40 độ C](https://vov.vn/xa-hoi/bac-bo-va-trung-bo-chuan-bi-hung-chiu-nang-nong-gay-gat-co-noi-len-tren-40-do-c-post1293885.vov) - 23:00 21/05/2026
+- 🕴 [Nguồn tin Iran tiết lộ chưa đạt thỏa thuận với Mỹ nhưng bất đồng đã thu hẹp](https://vov.vn/the-gioi/nguon-tin-iran-tiet-lo-chua-dat-thoa-thuan-voi-my-nhung-bat-dong-da-thu-hep-post1293965.vov) - 22:30 21/05/2026
+- 🥰 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước yêu cầu đầu tư trọng tâm cho công nghệ lượng tử](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-yeu-cau-dau-tu-trong-tam-cho-cong-nghe-luong-tu-post1293795.vov) - 07:39 21/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
