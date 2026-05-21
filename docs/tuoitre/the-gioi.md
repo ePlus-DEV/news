@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- tuoitre-the-gioi:START -->
-- 💪 [Điện thờ chứa &#39;ngọn lửa vĩnh cửu&#39; 1.200 năm của Nhật Bản cháy rụi hoàn toàn](https://tuoitre.vn/dien-tho-chua-ngon-lua-vinh-cuu-1-200-nam-cua-nhat-ban-chay-rui-hoan-toan-20260521193702675.htm) - 13:48 21/05/2026
-- 📝 [Mỹ phủ nhận đứng sau vụ Na Uy hủy thương vụ tên lửa 146 triệu USD cho Malaysia](https://tuoitre.vn/my-phu-nhan-dung-sau-vu-na-uy-huy-thuong-vu-ten-lua-146-trieu-usd-cho-malaysia-20260521184911568.htm) - 13:07 21/05/2026
-- 🕴 [Kỷ lục mới, 274 người chinh phục đỉnh Everest trong một ngày](https://tuoitre.vn/ky-luc-moi-274-nguoi-chinh-phuc-dinh-everest-trong-mot-ngay-20260521183549102.htm) - 13:00 21/05/2026
-- 🌏 [Nga và Trung Quốc đồng lòng ủng hộ Cuba sau động thái gây sức ép của Mỹ](https://tuoitre.vn/nga-va-trung-quoc-dong-long-ung-ho-cuba-sau-dong-thai-gay-suc-ep-cua-my-2026052118295233.htm) - 12:55 21/05/2026
-- 🚦 [Thú vị khoảnh khắc Thủ tướng Nhật và Tổng thống Hàn đổi kính cho nhau](https://tuoitre.vn/thu-vi-khoanh-khac-thu-tuong-nhat-va-tong-thong-han-doi-kinh-cho-nhau-20260521174523742.htm) - 11:12 21/05/2026
-- 🙉 [Video Ukraine phá hủy trại huấn luyện drone của Nga, 66 học viên thiệt mạng](https://tuoitre.vn/video-ukraine-pha-huy-trai-huan-luyen-drone-cua-nga-66-hoc-vien-thiet-mang-20260521173858952.htm) - 11:07 21/05/2026
-- 🦒 [AI sẽ &#39;sánh vai&#39; con người tạo ra phát minh đoạt giải Nobel trong năm tới?](https://tuoitre.vn/ai-se-sanh-vai-con-nguoi-tao-ra-phat-minh-doat-giai-nobel-trong-nam-toi-20260521172439765.htm) - 11:02 21/05/2026
-- 🚦 [Mỹ triển khai hai tàu khu trục gắn laser tới Trung Đông với ý đồ gì?](https://tuoitre.vn/my-trien-khai-hai-tau-khu-truc-gan-laser-toi-trung-dong-voi-y-do-gi-20260521165653089.htm) - 10:22 21/05/2026
-- 🧑‍🏫 [8.000 nhân viên Meta toàn cầu nhận email sa thải lúc 4h sáng, dành chỗ cho... AI](https://tuoitre.vn/8-000-nhan-vien-meta-toan-cau-nhan-email-sa-thai-luc-4h-sang-danh-cho-cho-ai-20260521161930336.htm) - 09:53 21/05/2026
-- 🧑‍🏫 [Tình báo Mỹ: Iran khôi phục năng lực quân sự và sản xuất drone nhanh bất ngờ](https://tuoitre.vn/tinh-bao-my-iran-khoi-phuc-nang-luc-quan-su-va-san-xuat-drone-nhanh-bat-ngo-20260521154133699.htm) - 09:28 21/05/2026
-- 🦣 [Iran tuyên bố kiểm soát vùng biển gần cảng dầu chiến lược của UAE](https://tuoitre.vn/iran-tuyen-bo-kiem-soat-vung-bien-gan-cang-dau-chien-luoc-cua-uae-2026052116034928.htm) - 09:13 21/05/2026
-- 🐲 [Việt Nam đã ký hơn 1.200 cam kết và thỏa thuận quốc tế trong hơn 5 năm qua](https://tuoitre.vn/viet-nam-da-ky-hon-1-200-cam-ket-va-thoa-thuan-quoc-te-trong-hon-5-nam-qua-20260521153658998.htm) - 09:13 21/05/2026
-- 🐲 [Ông Trump tuyên bố có thể ra tranh cử thủ tướng Israel](https://tuoitre.vn/ong-trump-tuyen-bo-co-the-ra-tranh-cu-thu-tuong-israel-20260521160450962.htm) - 09:12 21/05/2026
-- 🌝 [Mỹ điều hệ thống tên lửa Typhon và HIMARS tới Nhật Bản](https://tuoitre.vn/my-dieu-he-thong-ten-lua-typhon-va-himars-toi-nhat-ban-20260521160438654.htm) - 09:11 21/05/2026
-- 🏊 [Thủy quân lục chiến Mỹ lên kiểm tra tàu dầu Iran trên vịnh Oman, buộc đổi lộ trình](https://tuoitre.vn/thuy-quan-luc-chien-my-len-kiem-tra-tau-dau-iran-tren-vinh-oman-buoc-doi-lo-trinh-20260521151114642.htm) - 08:36 21/05/2026
-- 🎉 [SpaceX đặt mục tiêu 10.000 vụ phóng tên lửa mỗi năm, chuẩn bị IPO kỷ lục](https://tuoitre.vn/spacex-dat-muc-tieu-10-000-vu-phong-ten-lua-moi-nam-chuan-bi-ipo-ky-luc-20260521145430687.htm) - 08:32 21/05/2026
-- 🙉 [Công chúa Thái Lan Bajrakitiyabha bị nhiễm trùng nặng, diễn biến phức tạp](https://tuoitre.vn/cong-chua-thai-lan-bajrakitiyabha-bi-nhiem-trung-nang-dien-bien-phuc-tap-20260521144318762.htm) - 08:31 21/05/2026
-- 🙉 [Thủ tướng Đức đề xuất cho Ukraine tư cách thành viên &#39;cộng tác&#39; trong EU](https://tuoitre.vn/thu-tuong-duc-de-xuat-cho-ukraine-tu-cach-thanh-vien-cong-tac-trong-eu-2026052114540582.htm) - 08:30 21/05/2026
-- 🤭 [Nhà ở tồn kho tại Trung Quốc giảm lần đầu tiên trong nhiều năm](https://tuoitre.vn/nha-o-ton-kho-tai-trung-quoc-giam-lan-dau-tien-trong-nhieu-nam-20260521145240551.htm) - 07:56 21/05/2026
-- 😎 [Nga chuyển đạn hạt nhân tới Belarus giữa tập trận quy mô lớn](https://tuoitre.vn/nga-chuyen-dan-hat-nhan-toi-belarus-giua-tap-tran-quy-mo-lon-20260521144411085.htm) - 07:55 21/05/2026
-- ⚗️ [6 triệu thùng dầu thô rời eo biển Hormuz sau hai tháng](https://tuoitre.vn/6-trieu-thung-dau-tho-roi-eo-bien-hormuz-sau-hai-thang-20260521134937903.htm) - 07:16 21/05/2026
-- 🔥 [Sân bay Úc náo loạn, sơ tán khẩn vì... máy triệt lông bị nhầm là bom](https://tuoitre.vn/san-bay-uc-nao-loan-so-tan-khan-vi-may-triet-long-bi-nham-la-bom-20260521125825462.htm) - 07:15 21/05/2026
+- 💪 [Israel trục xuất tất cả người thuộc đội tàu viện trợ Gaza](https://tuoitre.vn/israel-truc-xuat-tat-ca-nguoi-thuoc-doi-tau-vien-tro-gaza-20260521223548723.htm) - 16:00 21/05/2026
+- 📝 [Trung Quốc khởi công tổ hợp hàng không lớn nhất thế giới tại Dubai](https://tuoitre.vn/trung-quoc-khoi-cong-to-hop-hang-khong-lon-nhat-the-gioi-tai-dubai-20260521204455312.htm) - 15:02 21/05/2026
+- 🕴 [Điện thờ chứa &#39;ngọn lửa vĩnh cửu&#39; 1.200 năm của Nhật Bản cháy rụi hoàn toàn](https://tuoitre.vn/dien-tho-chua-ngon-lua-vinh-cuu-1-200-nam-cua-nhat-ban-chay-rui-hoan-toan-20260521193702675.htm) - 13:48 21/05/2026
+- 🌏 [Mỹ phủ nhận đứng sau vụ Na Uy hủy thương vụ tên lửa 146 triệu USD cho Malaysia](https://tuoitre.vn/my-phu-nhan-dung-sau-vu-na-uy-huy-thuong-vu-ten-lua-146-trieu-usd-cho-malaysia-20260521184911568.htm) - 13:07 21/05/2026
+- 🚦 [Kỷ lục mới, 274 người chinh phục đỉnh Everest trong một ngày](https://tuoitre.vn/ky-luc-moi-274-nguoi-chinh-phuc-dinh-everest-trong-mot-ngay-20260521183549102.htm) - 13:00 21/05/2026
+- 🙉 [Nga và Trung Quốc đồng lòng ủng hộ Cuba sau động thái gây sức ép của Mỹ](https://tuoitre.vn/nga-va-trung-quoc-dong-long-ung-ho-cuba-sau-dong-thai-gay-suc-ep-cua-my-2026052118295233.htm) - 12:55 21/05/2026
+- 🦒 [Thú vị khoảnh khắc Thủ tướng Nhật và Tổng thống Hàn đổi kính cho nhau](https://tuoitre.vn/thu-vi-khoanh-khac-thu-tuong-nhat-va-tong-thong-han-doi-kinh-cho-nhau-20260521174523742.htm) - 11:12 21/05/2026
+- 🚦 [Video Ukraine phá hủy trại huấn luyện drone của Nga, 66 học viên thiệt mạng](https://tuoitre.vn/video-ukraine-pha-huy-trai-huan-luyen-drone-cua-nga-66-hoc-vien-thiet-mang-20260521173858952.htm) - 11:07 21/05/2026
+- 🧑‍🏫 [AI sẽ &#39;sánh vai&#39; con người tạo ra phát minh đoạt giải Nobel trong năm tới?](https://tuoitre.vn/ai-se-sanh-vai-con-nguoi-tao-ra-phat-minh-doat-giai-nobel-trong-nam-toi-20260521172439765.htm) - 11:02 21/05/2026
+- 🧑‍🏫 [Mỹ triển khai hai tàu khu trục gắn laser tới Trung Đông với ý đồ gì?](https://tuoitre.vn/my-trien-khai-hai-tau-khu-truc-gan-laser-toi-trung-dong-voi-y-do-gi-20260521165653089.htm) - 10:22 21/05/2026
+- 🦣 [8.000 nhân viên Meta toàn cầu nhận email sa thải lúc 4h sáng, dành chỗ cho... AI](https://tuoitre.vn/8-000-nhan-vien-meta-toan-cau-nhan-email-sa-thai-luc-4h-sang-danh-cho-cho-ai-20260521161930336.htm) - 09:53 21/05/2026
+- 🐲 [Tình báo Mỹ: Iran khôi phục năng lực quân sự và sản xuất drone nhanh bất ngờ](https://tuoitre.vn/tinh-bao-my-iran-khoi-phuc-nang-luc-quan-su-va-san-xuat-drone-nhanh-bat-ngo-20260521154133699.htm) - 09:28 21/05/2026
+- 🐲 [Iran tuyên bố kiểm soát vùng biển gần cảng dầu chiến lược của UAE](https://tuoitre.vn/iran-tuyen-bo-kiem-soat-vung-bien-gan-cang-dau-chien-luoc-cua-uae-2026052116034928.htm) - 09:13 21/05/2026
+- 🌝 [Việt Nam đã ký hơn 1.200 cam kết và thỏa thuận quốc tế trong hơn 5 năm qua](https://tuoitre.vn/viet-nam-da-ky-hon-1-200-cam-ket-va-thoa-thuan-quoc-te-trong-hon-5-nam-qua-20260521153658998.htm) - 09:13 21/05/2026
+- 🏊 [Ông Trump tuyên bố có thể ra tranh cử thủ tướng Israel](https://tuoitre.vn/ong-trump-tuyen-bo-co-the-ra-tranh-cu-thu-tuong-israel-20260521160450962.htm) - 09:12 21/05/2026
+- 🎉 [Mỹ điều hệ thống tên lửa Typhon và HIMARS tới Nhật Bản](https://tuoitre.vn/my-dieu-he-thong-ten-lua-typhon-va-himars-toi-nhat-ban-20260521160438654.htm) - 09:11 21/05/2026
+- 🙉 [Thủy quân lục chiến Mỹ lên kiểm tra tàu dầu Iran trên vịnh Oman, buộc đổi lộ trình](https://tuoitre.vn/thuy-quan-luc-chien-my-len-kiem-tra-tau-dau-iran-tren-vinh-oman-buoc-doi-lo-trinh-20260521151114642.htm) - 08:36 21/05/2026
+- 🙉 [SpaceX đặt mục tiêu 10.000 vụ phóng tên lửa mỗi năm, chuẩn bị IPO kỷ lục](https://tuoitre.vn/spacex-dat-muc-tieu-10-000-vu-phong-ten-lua-moi-nam-chuan-bi-ipo-ky-luc-20260521145430687.htm) - 08:32 21/05/2026
+- 🤭 [Công chúa Thái Lan Bajrakitiyabha bị nhiễm trùng nặng, diễn biến phức tạp](https://tuoitre.vn/cong-chua-thai-lan-bajrakitiyabha-bi-nhiem-trung-nang-dien-bien-phuc-tap-20260521144318762.htm) - 08:31 21/05/2026
+- 😎 [Thủ tướng Đức đề xuất cho Ukraine tư cách thành viên &#39;cộng tác&#39; trong EU](https://tuoitre.vn/thu-tuong-duc-de-xuat-cho-ukraine-tu-cach-thanh-vien-cong-tac-trong-eu-2026052114540582.htm) - 08:30 21/05/2026
+- ⚗️ [Nhà ở tồn kho tại Trung Quốc giảm lần đầu tiên trong nhiều năm](https://tuoitre.vn/nha-o-ton-kho-tai-trung-quoc-giam-lan-dau-tien-trong-nhieu-nam-20260521145240551.htm) - 07:56 21/05/2026
+- 🔥 [Nga chuyển đạn hạt nhân tới Belarus giữa tập trận quy mô lớn](https://tuoitre.vn/nga-chuyen-dan-hat-nhan-toi-belarus-giua-tap-tran-quy-mo-lon-20260521144411085.htm) - 07:55 21/05/2026
+- 😎 [6 triệu thùng dầu thô rời eo biển Hormuz sau hai tháng](https://tuoitre.vn/6-trieu-thung-dau-tho-roi-eo-bien-hormuz-sau-hai-thang-20260521134937903.htm) - 07:16 21/05/2026
+- 🤭 [Sân bay Úc náo loạn, sơ tán khẩn vì... máy triệt lông bị nhầm là bom](https://tuoitre.vn/san-bay-uc-nao-loan-so-tan-khan-vi-may-triet-long-bi-nham-la-bom-20260521125825462.htm) - 07:15 21/05/2026
 - 😎 [Đài phát thanh Anh xin lỗi vì phát nhầm tin Vua Charles băng hà](https://tuoitre.vn/dai-phat-thanh-anh-xin-loi-vi-phat-nham-tin-vua-charles-bang-ha-20260521111151307.htm) - 06:49 21/05/2026
-- 🤭 [Bolivia và Colombia trục xuất đại sứ của nhau](https://tuoitre.vn/bolivia-va-colombia-truc-xuat-dai-su-cua-nhau-20260521103737782.htm) - 03:44 21/05/2026
-- 😎 [Lãnh đạo Đài Loan muốn nói chuyện với ông Trump](https://tuoitre.vn/lanh-dao-dai-loan-muon-noi-chuyen-voi-ong-trump-20260521091106904.htm) - 02:24 21/05/2026
-- 🧑‍💻 [Quan hệ Trung - Nga: Trấn an một đối tác chiến lược](https://tuoitre.vn/quan-he-trung-nga-tran-an-mot-doi-tac-chien-luoc-20260521074154316.htm) - 01:54 21/05/2026
-- 🌏 [Thái Lan tính tăng thuế du lịch](https://tuoitre.vn/thai-lan-tinh-tang-thue-du-lich-20260521073845649.htm) - 00:47 21/05/2026
-- 🐎 [Cuba cho vào đại học không cần thi tuyển](https://tuoitre.vn/cuba-cho-vao-dai-hoc-khong-can-thi-tuyen-20260521072923877.htm) - 00:36 21/05/2026
-- 🐎 [Tin tức thế giới 21-5: Ông Trump nói ở lằn ranh &#39;đàm hoặc đánh&#39;; Giá dầu giảm dưới 100 USD/thùng](https://tuoitre.vn/tin-tuc-the-gioi-21-5-ong-trump-noi-o-lan-ranh-dam-hoac-danh-gia-dau-giam-duoi-100-usd-thung-20260521063600785.htm) - 23:42 20/05/2026
-- 🎬 [Ông Tập, ông Putin trà đàm sau khi 42 văn kiện hợp tác được ký kết](https://tuoitre.vn/ong-tap-ong-putin-tra-dam-sau-khi-42-van-kien-hop-tac-duoc-ky-ket-20260520212146285.htm) - 14:33 20/05/2026
-- 💼 [Việt Nam - New Zealand hướng đến kim ngạch thương mại 3 tỉ USD](https://tuoitre.vn/viet-nam-new-zealand-huong-den-kim-ngach-thuong-mai-3-ti-usd-20260520182633177.htm) - 14:22 20/05/2026
-- ⛽️ [Thủ tướng tiếp Đại sứ Triều Tiên tại Việt Nam](https://tuoitre.vn/thu-tuong-tiep-dai-su-trieu-tien-tai-viet-nam-20260520204128374.htm) - 13:56 20/05/2026
-- 💡 [Cuba lên tiếng sau thông điệp của Ngoại trưởng Mỹ Marco Rubio](https://tuoitre.vn/cuba-len-tieng-sau-thong-diep-cua-ngoai-truong-my-marco-rubio-20260520201813841.htm) - 13:23 20/05/2026
-- 🥰 [Lithuania kích hoạt báo động lớn vì drone, lãnh đạo và người dân phải tìm nơi trú ẩn](https://tuoitre.vn/lithunia-kich-hoat-bao-dong-lon-vi-drone-lanh-dao-va-nguoi-dan-phai-tim-noi-tru-an-20260520191556496.htm) - 12:34 20/05/2026
-- 🧑‍💻 [Đại sứ Cuba: Thành tựu phát triển kinh tế - xã hội của Việt Nam là cảm hứng của nhân dân Cuba](https://tuoitre.vn/dai-su-cuba-thanh-tuu-phat-trien-kinh-te-xa-hoi-cua-viet-nam-la-cam-hung-cua-nhan-dan-cuba-20260520184545847.htm) - 12:16 20/05/2026
-- 🧠 [Tầm nhìn kinh tế Việt Nam giao thoa với tương lai doanh nghiệp Hàn Quốc](https://tuoitre.vn/tam-nhin-kinh-te-viet-nam-giao-thoa-voi-tuong-lai-doanh-nghiep-han-quoc-20260520182158788.htm) - 11:39 20/05/2026
-- 🤩 [Nga - Trung đồng loạt chỉ trích kế hoạch &#39;Vòm Vàng&#39; của Mỹ](https://tuoitre.vn/nga-trung-dong-loat-chi-trich-ke-hoach-vom-vang-cua-my-20260520181523749.htm) - 11:31 20/05/2026
-- 🤗 [Nga - Trung ký loạt thỏa thuận lớn, ca ngợi quan hệ ở mức chưa từng có](https://tuoitre.vn/nga-trung-ky-loat-thoa-thuan-lon-ca-ngoi-quan-he-o-muc-chua-tung-co-20260520175013978.htm) - 11:26 20/05/2026
-- 🐲 [Ukraine sắp nhận gói hỗ trợ 3,7 tỉ USD đầu tiên từ gói vay khổng lồ của EU](https://tuoitre.vn/ukraine-sap-nhan-goi-ho-tro-3-7-ti-usd-dau-tien-tu-goi-vay-khong-lo-cua-eu-20260520174726574.htm) - 11:04 20/05/2026
-- 🌮 [Bắc Kinh chốt mua 200 chiếc Boeing, Mỹ - Trung thúc đẩy đàm phán giảm thuế đối ứng](https://tuoitre.vn/bac-kinh-chot-mua-200-chiec-boeing-my-trung-thuc-day-dam-phan-giam-thue-doi-ung-2026052017193564.htm) - 10:36 20/05/2026
-- 🎃 [Nga tung video vận chuyển đầu đạn hạt nhân, tuyên bố &#39;sẵn sàng chiến đấu cao nhất&#39;](https://tuoitre.vn/nga-tung-video-van-chuyen-dau-dan-hat-nhan-tuyen-bo-san-sang-chien-dau-cao-nhat-20260520164632164.htm) - 10:15 20/05/2026
-- 🎊 [Cuộc hội ngộ sau hai thập kỷ giữa Tổng thống Putin và cậu bé Trung Quốc](https://tuoitre.vn/cuoc-hoi-ngo-sau-hai-thap-ky-giua-tong-thong-putin-va-cau-be-trung-quoc-20260520164032646.htm) - 10:13 20/05/2026
-- 🚀 [Bộ Tư pháp Mỹ cấm vĩnh viễn kiểm toán thuế đối với ông Trump và gia đình](https://tuoitre.vn/bo-tu-phap-my-cam-vinh-vien-kiem-toan-thue-doi-voi-ong-trump-va-gia-dinh-20260520155203367.htm) - 09:10 20/05/2026
-- 🧐 [Iran cảnh báo chiến tranh sẽ vượt khỏi Trung Đông nếu Mỹ tái tấn công](https://tuoitre.vn/iran-canh-bao-chien-tranh-se-vuot-khoi-trung-dong-neu-my-tai-tan-cong-20260520155032836.htm) - 09:02 20/05/2026
-- 🕯 [Ông Lại Thanh Đức nói không ai có quyền &#39;sáp nhập&#39; Đài Loan, Trung Quốc lên tiếng](https://tuoitre.vn/ong-lai-thanh-duc-noi-khong-ai-co-quyen-sap-nhap-dai-loan-trung-quoc-len-tieng-20260520144856194.htm) - 08:04 20/05/2026
-- 💂 [Nhật Bản lên kế hoạch triển khai drone Mỹ giám sát hải quân Trung Quốc](https://tuoitre.vn/nhat-ban-len-ke-hoach-trien-khai-drone-my-giam-sat-hai-quan-trung-quoc-20260520141824346.htm) - 07:36 20/05/2026
-- 🦒 [Ông Trump đăng ảnh &#39;bắt sống người ngoài hành tinh&#39;](https://tuoitre.vn/ong-trump-dang-anh-bat-song-nguoi-ngoai-hanh-tinh-20260520115857826.htm) - 06:43 20/05/2026
-- 🔭 [Nhóm tàu đến Gaza vừa bị Israel bắt: Đang triển khai bảo hộ công dân Tiêu Nguyễn Bảo Ngọc](https://tuoitre.vn/nhom-tau-den-gaza-vua-bi-israel-bat-dang-trien-khai-bao-ho-cong-dan-tieu-nguyen-bao-ngoc-20260520124857638.htm) - 06:13 20/05/2026
-- 👨‍🏫 [Thủ tướng tiếp Phó Đại diện thương mại Mỹ: Sớm đạt thỏa thuận Hiệp định thương mại đối ứng](https://tuoitre.vn/thu-tuong-tiep-pho-dai-dien-thuong-mai-my-som-dat-thoa-thuan-hiep-dinh-thuong-mai-doi-ung-20260520123950738.htm) - 06:10 20/05/2026
-- 🦆 [Tam giác lớn Mỹ - Trung - Nga](https://tuoitre.vn/tam-giac-lon-my-trung-nga-20260520084338868.htm) - 05:04 20/05/2026<!-- tuoitre-the-gioi:END -->
+- 🧑‍💻 [Bolivia và Colombia trục xuất đại sứ của nhau](https://tuoitre.vn/bolivia-va-colombia-truc-xuat-dai-su-cua-nhau-20260521103737782.htm) - 03:44 21/05/2026
+- 🌏 [Lãnh đạo Đài Loan muốn nói chuyện với ông Trump](https://tuoitre.vn/lanh-dao-dai-loan-muon-noi-chuyen-voi-ong-trump-20260521091106904.htm) - 02:24 21/05/2026
+- 🐎 [Quan hệ Trung - Nga: Trấn an một đối tác chiến lược](https://tuoitre.vn/quan-he-trung-nga-tran-an-mot-doi-tac-chien-luoc-20260521074154316.htm) - 01:54 21/05/2026
+- 🐎 [Thái Lan tính tăng thuế du lịch](https://tuoitre.vn/thai-lan-tinh-tang-thue-du-lich-20260521073845649.htm) - 00:47 21/05/2026
+- 🎬 [Cuba cho vào đại học không cần thi tuyển](https://tuoitre.vn/cuba-cho-vao-dai-hoc-khong-can-thi-tuyen-20260521072923877.htm) - 00:36 21/05/2026
+- 💼 [Tin tức thế giới 21-5: Ông Trump nói ở lằn ranh &#39;đàm hoặc đánh&#39;; Giá dầu giảm dưới 100 USD/thùng](https://tuoitre.vn/tin-tuc-the-gioi-21-5-ong-trump-noi-o-lan-ranh-dam-hoac-danh-gia-dau-giam-duoi-100-usd-thung-20260521063600785.htm) - 23:42 20/05/2026
+- ⛽️ [Ông Tập, ông Putin trà đàm sau khi 42 văn kiện hợp tác được ký kết](https://tuoitre.vn/ong-tap-ong-putin-tra-dam-sau-khi-42-van-kien-hop-tac-duoc-ky-ket-20260520212146285.htm) - 14:33 20/05/2026
+- 💡 [Việt Nam - New Zealand hướng đến kim ngạch thương mại 3 tỉ USD](https://tuoitre.vn/viet-nam-new-zealand-huong-den-kim-ngach-thuong-mai-3-ti-usd-20260520182633177.htm) - 14:22 20/05/2026
+- 🥰 [Thủ tướng tiếp Đại sứ Triều Tiên tại Việt Nam](https://tuoitre.vn/thu-tuong-tiep-dai-su-trieu-tien-tai-viet-nam-20260520204128374.htm) - 13:56 20/05/2026
+- 🧑‍💻 [Cuba lên tiếng sau thông điệp của Ngoại trưởng Mỹ Marco Rubio](https://tuoitre.vn/cuba-len-tieng-sau-thong-diep-cua-ngoai-truong-my-marco-rubio-20260520201813841.htm) - 13:23 20/05/2026
+- 🧠 [Lithuania kích hoạt báo động lớn vì drone, lãnh đạo và người dân phải tìm nơi trú ẩn](https://tuoitre.vn/lithunia-kich-hoat-bao-dong-lon-vi-drone-lanh-dao-va-nguoi-dan-phai-tim-noi-tru-an-20260520191556496.htm) - 12:34 20/05/2026
+- 🤩 [Đại sứ Cuba: Thành tựu phát triển kinh tế - xã hội của Việt Nam là cảm hứng của nhân dân Cuba](https://tuoitre.vn/dai-su-cuba-thanh-tuu-phat-trien-kinh-te-xa-hoi-cua-viet-nam-la-cam-hung-cua-nhan-dan-cuba-20260520184545847.htm) - 12:16 20/05/2026
+- 🤗 [Tầm nhìn kinh tế Việt Nam giao thoa với tương lai doanh nghiệp Hàn Quốc](https://tuoitre.vn/tam-nhin-kinh-te-viet-nam-giao-thoa-voi-tuong-lai-doanh-nghiep-han-quoc-20260520182158788.htm) - 11:39 20/05/2026
+- 🐲 [Nga - Trung đồng loạt chỉ trích kế hoạch &#39;Vòm Vàng&#39; của Mỹ](https://tuoitre.vn/nga-trung-dong-loat-chi-trich-ke-hoach-vom-vang-cua-my-20260520181523749.htm) - 11:31 20/05/2026
+- 🌮 [Nga - Trung ký loạt thỏa thuận lớn, ca ngợi quan hệ ở mức chưa từng có](https://tuoitre.vn/nga-trung-ky-loat-thoa-thuan-lon-ca-ngoi-quan-he-o-muc-chua-tung-co-20260520175013978.htm) - 11:26 20/05/2026
+- 🎃 [Ukraine sắp nhận gói hỗ trợ 3,7 tỉ USD đầu tiên từ gói vay khổng lồ của EU](https://tuoitre.vn/ukraine-sap-nhan-goi-ho-tro-3-7-ti-usd-dau-tien-tu-goi-vay-khong-lo-cua-eu-20260520174726574.htm) - 11:04 20/05/2026
+- 🎊 [Bắc Kinh chốt mua 200 chiếc Boeing, Mỹ - Trung thúc đẩy đàm phán giảm thuế đối ứng](https://tuoitre.vn/bac-kinh-chot-mua-200-chiec-boeing-my-trung-thuc-day-dam-phan-giam-thue-doi-ung-2026052017193564.htm) - 10:36 20/05/2026
+- 🚀 [Nga tung video vận chuyển đầu đạn hạt nhân, tuyên bố &#39;sẵn sàng chiến đấu cao nhất&#39;](https://tuoitre.vn/nga-tung-video-van-chuyen-dau-dan-hat-nhan-tuyen-bo-san-sang-chien-dau-cao-nhat-20260520164632164.htm) - 10:15 20/05/2026
+- 🧐 [Cuộc hội ngộ sau hai thập kỷ giữa Tổng thống Putin và cậu bé Trung Quốc](https://tuoitre.vn/cuoc-hoi-ngo-sau-hai-thap-ky-giua-tong-thong-putin-va-cau-be-trung-quoc-20260520164032646.htm) - 10:13 20/05/2026
+- 🕯 [Bộ Tư pháp Mỹ cấm vĩnh viễn kiểm toán thuế đối với ông Trump và gia đình](https://tuoitre.vn/bo-tu-phap-my-cam-vinh-vien-kiem-toan-thue-doi-voi-ong-trump-va-gia-dinh-20260520155203367.htm) - 09:10 20/05/2026
+- 💂 [Iran cảnh báo chiến tranh sẽ vượt khỏi Trung Đông nếu Mỹ tái tấn công](https://tuoitre.vn/iran-canh-bao-chien-tranh-se-vuot-khoi-trung-dong-neu-my-tai-tan-cong-20260520155032836.htm) - 09:02 20/05/2026
+- 🦒 [Ông Lại Thanh Đức nói không ai có quyền &#39;sáp nhập&#39; Đài Loan, Trung Quốc lên tiếng](https://tuoitre.vn/ong-lai-thanh-duc-noi-khong-ai-co-quyen-sap-nhap-dai-loan-trung-quoc-len-tieng-20260520144856194.htm) - 08:04 20/05/2026
+- 🔭 [Nhật Bản lên kế hoạch triển khai drone Mỹ giám sát hải quân Trung Quốc](https://tuoitre.vn/nhat-ban-len-ke-hoach-trien-khai-drone-my-giam-sat-hai-quan-trung-quoc-20260520141824346.htm) - 07:36 20/05/2026
+- 👨‍🏫 [Ông Trump đăng ảnh &#39;bắt sống người ngoài hành tinh&#39;](https://tuoitre.vn/ong-trump-dang-anh-bat-song-nguoi-ngoai-hanh-tinh-20260520115857826.htm) - 06:43 20/05/2026
+- 🦆 [Nhóm tàu đến Gaza vừa bị Israel bắt: Đang triển khai bảo hộ công dân Tiêu Nguyễn Bảo Ngọc](https://tuoitre.vn/nhom-tau-den-gaza-vua-bi-israel-bat-dang-trien-khai-bao-ho-cong-dan-tieu-nguyen-bao-ngoc-20260520124857638.htm) - 06:13 20/05/2026<!-- tuoitre-the-gioi:END -->
