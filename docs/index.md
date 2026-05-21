@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Ông Phạm Tất Thắng làm Bí Thư Đảng ủy Cơ quan Ban Tuyên giáo và Dân vận Trung ương](https://vov.vn/chinh-tri/ong-pham-tat-thang-lam-bi-thu-dang-uy-co-quan-ban-tuyen-giao-va-dan-van-trung-uong-post1293386.vov) - 04:30 20/05/2026
-- 🕯 [Trung Quốc bắn 21 loạt đại bác chào đón Tổng thống Nga Vladimir Putin](https://vov.vn/the-gioi/trung-quoc-ban-21-loat-dai-bac-chao-don-tong-thong-nga-vladimir-putin-post1293408.vov) - 04:04 20/05/2026
-- 🌊 [Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến từ chối 2 luật sư bào chữa](https://vov.vn/phap-luat/cuu-bo-truong-y-te-nguyen-thi-kim-tien-tu-choi-2-luat-su-bao-chua-post1293389.vov) - 03:08 20/05/2026
-- 🥷 [Học tập Chủ tịch Hồ Chí Minh thu hút và trọng dụng nhân tài](https://vov.vn/chinh-tri/hoc-tap-chu-tich-ho-chi-minh-thu-hut-va-trong-dung-nhan-tai-post1292870.vov) - 03:00 20/05/2026
-- 🎡 [Chủ tịch Quốc hội: Cần chuyển từ &amp;quot;thẩm tra theo hồ sơ&amp;quot; sang &amp;quot;thẩm tra chính sách&amp;quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-can-chuyen-tu-tham-tra-theo-ho-so-sang-tham-tra-chinh-sach-post1293363.vov) - 02:08 20/05/2026
-- 🚀 [Chủ tịch Quốc hội: Cần chuyển từ &amp;quot;thẩm tra theo hồ sơ&amp;quot; sang &amp;quot;thẩm tra chính sách&amp;quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-can-chuyen-tu-tham-tra-theo-ho-so-sang-tham-tra-chinh-sach-post1293363.vov) - 02:08 20/05/2026
-- 🔥 [Tại sao chất tạo tỉnh táo caffeine trong cà phê liên quan tới sản xuất ma túy?](https://vov.vn/suc-khoe/tai-sao-chat-tao-tinh-tao-caffeine-trong-ca-phe-lien-quan-toi-san-xuat-ma-tuy-post1293329.vov) - 01:49 20/05/2026
-- 🌋 [Áp lực tỷ giá và bài toán giữ ổn định vĩ mô](https://vov.vn/kinh-te/ap-luc-ty-gia-va-bai-toan-giu-on-dinh-vi-mo-post1293220.vov) - 00:30 20/05/2026
-- 🕴 [“Tổng Bí thư, Chủ tịch nước Tô Lâm đưa ra một cách nhìn rất hiện đại về vai trò của đại học&amp;quot;](https://vov.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-dua-ra-mot-cach-nhin-rat-hien-dai-ve-vai-tro-cua-dai-hoc-post1293213.vov) - 22:48 19/05/2026
-- 🥰 [“Tổng Bí thư, Chủ tịch nước Tô Lâm đưa ra một cách nhìn rất hiện đại về vai trò của đại học&amp;quot;](https://vov.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-dua-ra-mot-cach-nhin-rat-hien-dai-ve-vai-tro-cua-dai-hoc-post1293213.vov) - 22:48 19/05/2026
-- 🧐 [Thi tốt nghiệp THPT: Vì sao nhiều học sinh lựa chọn môn Lịch sử?](https://vov.vn/xa-hoi/thi-tot-nghiep-thpt-vi-sao-nhieu-hoc-sinh-lua-chon-mon-lich-su-post1292774.vov) - 22:45 19/05/2026<!-- vov:END -->
+- 🌜 [Tình báo Mỹ bất ngờ trước tốc độ phục hồi sức mạnh quân sự của Iran](https://vov.vn/the-gioi/quan-sat/tinh-bao-my-bat-ngo-truoc-toc-do-phuc-hoi-suc-manh-quan-su-cua-iran-post1293836.vov) - 09:33 21/05/2026
+- 🕯 [4 giai đoạn xây dựng xã, phường xã hội chủ nghĩa ở Việt Nam từ nay đến năm 2045](https://vov.vn/chinh-tri/4-giai-doan-xay-dung-xa-phuong-xa-hoi-chu-nghia-o-viet-nam-tu-nay-den-nam-2045-post1293812.vov) - 09:28 21/05/2026
+- 🌊 [Miền Bắc Ấn Độ chật vật đối phó với nắng nóng kỷ lục](https://vov.vn/the-gioi/cuoc-song-do-day/mien-bac-an-do-chat-vat-doi-pho-voi-nang-nong-ky-luc-post1293828.vov) - 09:18 21/05/2026
+- 🥷 [Những lưu ý đối với người dùng chuyển từ xăng A92 và A95 sang E10](https://vov.vn/o-to-xe-may/nhung-luu-y-doi-voi-nguoi-dung-chuyen-tu-xang-a92-va-a95-sang-e10-post1293409.vov) - 08:54 21/05/2026
+- 🎡 [Chủ tịch Quốc hội làm việc với Thường trực Ủy ban Pháp luật và Tư pháp](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-lam-viec-voi-thuong-truc-uy-ban-phap-luat-va-tu-phap-post1293819.vov) - 08:39 21/05/2026
+- 🚀 [Nhà ở xã hội: Cần thay đổi &amp;quot;khái niệm&amp;quot; để người dân tiếp cận được nhà](https://vov.vn/kinh-te/nha-o-xa-hoi-can-thay-doi-khai-niem-de-nguoi-dan-tiep-can-duoc-nha-post1293798.vov) - 08:30 21/05/2026
+- 🔥 [Giá xăng dầu mới nhất: Xăng dầu trong nước chịu ảnh hưởng từ giá dầu thế giới](https://vov.vn/thi-truong/gia-xang-dau-moi-nhat-xang-dau-trong-nuoc-chiu-anh-huong-tu-gia-dau-the-gioi-post1293803.vov) - 08:00 21/05/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước yêu cầu đầu tư trọng tâm cho công nghệ lượng tử](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-yeu-cau-dau-tu-trong-tam-cho-cong-nghe-luong-tu-post1293795.vov) - 07:39 21/05/2026
+- 🕴 [Tổng Bí thư, Chủ tịch nước yêu cầu đầu tư trọng tâm cho công nghệ lượng tử](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-yeu-cau-dau-tu-trong-tam-cho-cong-nghe-luong-tu-post1293795.vov) - 07:39 21/05/2026
+- 🥰 [Hiện trường vụ sạt lở mỏ đá tại Thanh Hóa khiến 3 người tử vong](https://vov.vn/xa-hoi/hien-truong-vu-sat-lo-mo-da-tai-thanh-hoa-khien-3-nguoi-tu-vong-post1293732.vov) - 04:16 21/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì họp Thường trực Ban chỉ đạo về phát triển KHCN](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-hop-thuong-truc-ban-chi-dao-ve-phat-trien-khcn-post1293698.vov) - 02:45 21/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
