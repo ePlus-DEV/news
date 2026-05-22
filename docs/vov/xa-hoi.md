@@ -39,8 +39,8 @@ sidebar_position: 3
 - 🐘 [Dự án cầu Mễ Sở vượt tiến độ gần 5%, tăng tốc thi công trước mùa mưa lũ](https://vov.vn/xa-hoi/du-an-cau-me-so-vuot-tien-do-gan-5-tang-toc-thi-cong-truoc-mua-mua-lu-post1293605.vov) - 23:16 21/05/2026
 - 🎃 [Sự thật hình ảnh &amp;quot;cháu bé nghi bạo hành cùng mẹ đến quán bia&amp;quot; ở Hà Nội](https://vov.vn/xa-hoi/su-that-hinh-anh-chau-be-nghi-bao-hanh-cung-me-den-quan-bia-o-ha-noi-post1293972.vov) - 23:09 21/05/2026
 - 🌋 [AI tăng tốc: Cơ hội bứt phá hay cuộc thanh lọc lao động toàn cầu?](https://vov.vn/xa-hoi/ai-tang-toc-co-hoi-but-pha-hay-cuoc-thanh-loc-lao-dong-toan-cau-post1293801.vov) - 23:08 21/05/2026
-- 🔥 [Các trường đại học trọng điểm phải đóng vai trò &amp;quot;đầu tàu công nghệ&amp;quot;](https://vov.vn/xa-hoi/cac-truong-dai-hoc-trong-diem-phai-dong-vai-tro-dau-tau-cong-nghe-post1293860.vov) - 23:00 21/05/2026
-- 💂 [Bắc Bộ và Trung Bộ chuẩn bị hứng chịu nắng nóng gay gắt, có nơi lên trên 40 độ C](https://vov.vn/xa-hoi/bac-bo-va-trung-bo-chuan-bi-hung-chiu-nang-nong-gay-gat-co-noi-len-tren-40-do-c-post1293885.vov) - 23:00 21/05/2026
+- 🔥 [Bắc Bộ và Trung Bộ chuẩn bị hứng chịu nắng nóng gay gắt, có nơi lên trên 40 độ C](https://vov.vn/xa-hoi/bac-bo-va-trung-bo-chuan-bi-hung-chiu-nang-nong-gay-gat-co-noi-len-tren-40-do-c-post1293885.vov) - 23:00 21/05/2026
+- 💂 [Các trường đại học trọng điểm phải đóng vai trò &amp;quot;đầu tàu công nghệ&amp;quot;](https://vov.vn/xa-hoi/cac-truong-dai-hoc-trong-diem-phai-dong-vai-tro-dau-tau-cong-nghe-post1293860.vov) - 23:00 21/05/2026
 - 🧐 [1 năm vận hành chính quyền địa phương 2 cấp: Lai Châu nâng cao hiệu quả quản lý](https://vov.vn/xa-hoi/1-nam-van-hanh-chinh-quyen-dia-phuong-2-cap-lai-chau-nang-cao-hieu-qua-quan-ly-post1293829.vov) - 22:40 21/05/2026
 - 🔭 [Thời tiết hôm nay 22/5: Bắc Bộ tiếp tục có mưa, Trung Bộ nắng nóng gay gắt](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-225-bac-bo-tiep-tuc-co-mua-trung-bo-nang-nong-gay-gat-post1293831.vov) - 22:40 21/05/2026
 - 📝 [Kịp thời cứu sống bé trai bị rắn độc cắn ngưng thở](https://vov.vn/xa-hoi/kip-thoi-cuu-song-be-trai-bi-ran-doc-can-ngung-tho-post1293952.vov) - 15:38 21/05/2026
