@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [World Cup 2026 là giải lớn đầu tiên của Haaland](https://vnexpress.net/world-cup-2026-la-giai-lon-dau-tien-cua-haaland-5076997.html) - 08:00 22/05/2026
-- 🦩 [Arteta sắp vô địch tiền lương ở Ngoại hạng Anh](https://vnexpress.net/arteta-sap-vo-dich-tien-luong-o-ngoai-hang-anh-5076479.html) - 07:42 22/05/2026
-- 🧰 [Libero xinh đẹp của bóng chuyền Việt Nam](https://vnexpress.net/libero-xinh-dep-cua-bong-chuyen-viet-nam-5076989.html) - 07:33 22/05/2026
-- 🤗 [Neymar và cơ hội nhảy điệu Samba cuối cùng ở World Cup](https://vnexpress.net/neymar-va-co-hoi-nhay-dieu-samba-cuoi-cung-o-world-cup-5076322.html) - 04:55 22/05/2026
-- 🥳 [Enrique: &#39;Guardiola là HLV vĩ đại nhất mọi thời&#39;](https://vnexpress.net/enrique-guardiola-la-hlv-vi-dai-nhat-moi-thoi-5076780.html) - 04:40 22/05/2026
-- 🦣 [UEFA cải tổ hệ thống giải đội tuyển giống Champions League](https://vnexpress.net/uefa-cai-to-he-thong-giai-doi-tuyen-giong-champions-league-5076782.html) - 02:30 22/05/2026
-- 🌜 [Ronaldo không ngừng khóc khi vô địch Saudi League](https://vnexpress.net/ronaldo-khong-ngung-khoc-khi-vo-dich-saudi-league-5076843.html) - 02:23 22/05/2026
-- 🫶 [&#39;Cơn mưa&#39; điểm số trong ngày khởi tranh VBA 2026](https://vnexpress.net/con-mua-diem-so-trong-ngay-khoi-tranh-vba-2026-5076994.html) - 01:02 22/05/2026
-- 🌜 [Thủ môn Brazil ngất xỉu khi nghe tin được dự World Cup 2026](https://vnexpress.net/thu-mon-brazil-ngat-xiu-khi-nghe-tin-duoc-du-world-cup-2026-5076778.html) - 23:02 21/05/2026
-- 😺 [Sinner, Djokovic, Sabalenka &#39;biểu tình mềm&#39; ở Roland Garros](https://vnexpress.net/sinner-djokovic-sabalenka-bieu-tinh-mem-o-roland-garros-5076781.html) - 22:55 21/05/2026
-- 👍 [Maguire sốc vì lỡ World Cup 2026](https://vnexpress.net/maguire-soc-vi-lo-world-cup-2026-5076777.html) - 22:53 21/05/2026
-- 🐵 [Yamal: &#39;Tây Ban Nha đang chơi thứ bóng đá hay nhất thế giới&#39;](https://vnexpress.net/yamal-tay-ban-nha-dang-choi-thu-bong-da-hay-nhat-the-gioi-5076683.html) - 22:41 21/05/2026
-- 💫 [Ronaldo lập cú đúp, giúp Al Nassr vô địch Saudi League](https://vnexpress.net/ronaldo-lap-cu-dup-giup-al-nassr-vo-dich-saudi-league-5076779.html) - 19:56 21/05/2026
-- 🦆 [Djokovic khác nhánh Sinner ở Roland Garros](https://vnexpress.net/djokovic-khac-nhanh-sinner-o-roland-garros-5076774.html) - 17:30 21/05/2026
-- 🙉 [Arteta: &#39;Tôi đã không xem trận Man City hòa Bournemouth&#39;](https://vnexpress.net/arteta-toi-da-khong-xem-tran-man-city-hoa-bournemouth-5076756.html) - 17:00 21/05/2026
-- 📝 [Kịch bản để Ngoại hạng Anh có 6 đội dự Champions League mùa tới](https://vnexpress.net/kich-ban-de-ngoai-hang-anh-co-6-doi-du-champions-league-mua-toi-5076731.html) - 17:00 21/05/2026
-- 💯 [Thanh Thuý đưa Long An vào chung kết giải bóng chuyền nữ quốc tế](https://vnexpress.net/thanh-thuy-dua-long-an-vao-chung-ket-giai-bong-chuyen-nu-quoc-te-5076757.html) - 16:06 21/05/2026
-- 🌈 [Neuer trở lại tuyển Đức dự World Cup 2026](https://vnexpress.net/neuer-tro-lai-tuyen-duc-du-world-cup-2026-5076728.html) - 13:52 21/05/2026
-- 🦩 [Xác định ba đối thủ của Việt Nam ở vòng bảng U17 World Cup 2026](https://vnexpress.net/xac-dinh-ba-doi-thu-cua-viet-nam-o-vong-bang-u17-world-cup-2026-5076637.html) - 13:40 21/05/2026
-- 🐲 [Cha ngăn con dự World Cup 2026](https://vnexpress.net/cha-ngan-con-du-world-cup-2026-5076554.html) - 10:43 21/05/2026
-- 🌁 [Ronaldo có thể đoạt danh hiệu đầu tiên cùng Al Nassr hôm nay](https://vnexpress.net/ronaldo-co-the-doat-danh-hieu-dau-tien-cung-al-nassr-hom-nay-5076693.html) - 10:41 21/05/2026
-- 💯 [VTC Online mở rộng hệ sinh thái game tại Vietnam GameVerse 2026](https://vnexpress.net/vtc-online-mo-rong-he-sinh-thai-game-tai-vietnam-gameverse-2026-5076669.html) - 10:00 21/05/2026
-- 🌝 [HLV Bayern để quên đĩa bạc Bundesliga trong nhà bếp](https://vnexpress.net/hlv-bayern-de-quen-dia-bac-bundesliga-trong-nha-bep-5076591.html) - 09:26 21/05/2026
-- 🤖 [Tuyển Việt Nam tập huấn ở Hàn Quốc trước ASEAN Cup 2026](https://vnexpress.net/tuyen-viet-nam-tap-huan-o-han-quoc-truoc-asean-cup-2026-5076619.html) - 08:50 21/05/2026
-- 🕯 [Đội sắp dự World Cup 2026 hủy tập huấn vì sợ virus Ebola](https://vnexpress.net/doi-sap-du-world-cup-2026-huy-tap-huan-vi-so-virus-ebola-5076518.html) - 07:17 21/05/2026
-- 🧰 [Enrique: &#39;Arsenal hay nhất châu Âu khi không có bóng&#39;](https://vnexpress.net/enrique-arsenal-hay-nhat-chau-au-khi-khong-co-bong-5076534.html) - 07:07 21/05/2026
-- 🥳 [Haaland: &#39;Man City nên nổi giận&#39;](https://vnexpress.net/haaland-man-city-nen-noi-gian-5076404.html) - 04:18 21/05/2026
-- 👍 [FIFA &#39;quên&#39; đưa Việt Nam vào danh sách dự U17 World Cup 2026](https://vnexpress.net/fifa-quen-dua-viet-nam-vao-danh-sach-du-u17-world-cup-2026-5076408.html) - 02:58 21/05/2026
-- 💪 [Ninh Bình thua ngược ở giải bóng chuyền nữ quốc tế](https://vnexpress.net/ninh-binh-thua-nguoc-o-giai-bong-chuyen-nu-quoc-te-5076323.html) - 00:48 21/05/2026
-- 👹 [Saka: &#39;Giờ thì không ai cười Arsenal nữa&#39;](https://vnexpress.net/saka-gio-thi-khong-ai-cuoi-arsenal-nua-5076306.html) - 22:59 20/05/2026
-- 🧰 [Yamal hẹn hò bạn gái mới tại Hy Lạp](https://vnexpress.net/yamal-hen-ho-ban-gai-moi-tai-hy-lap-5076312.html) - 22:54 20/05/2026
-- 🚀 [Aston Villa vô địch Europa League](https://vnexpress.net/aston-villa-vo-dich-europa-league-5076324.html) - 22:09 20/05/2026
-- 🎃 [Given lo Man City lạc lối như Man Utd thời hậu Ferguson](https://vnexpress.net/given-lo-man-city-lac-loi-nhu-man-utd-thoi-hau-ferguson-5076292.html) - 17:00 20/05/2026
-- 🧰 [Thế giới của Mikel Arteta](https://vnexpress.net/the-gioi-cua-mikel-arteta-5076171.html) - 17:00 20/05/2026
-- 👀 [Thủ môn 43 tuổi lần đầu dự World Cup](https://vnexpress.net/thu-mon-43-tuoi-lan-dau-du-world-cup-5076296.html) - 17:00 20/05/2026
-- 🌜 [HLV tuyển Bồ Đào Nha: &#39;Không có đặc quyền nào cho Ronaldo&#39;](https://vnexpress.net/hlv-tuyen-bo-dao-nha-khong-co-dac-quyen-nao-cho-ronaldo-5076265.html) - 12:28 20/05/2026
-- 🫶 [Emery phủ nhận là &#39;Vua Europa League&#39;](https://vnexpress.net/emery-phu-nhan-la-vua-europa-league-5076207.html) - 12:24 20/05/2026
-- 🦄 [Conte rời Napoli, đợi ghế HLV tuyển Italy](https://vnexpress.net/conte-roi-napoli-doi-ghe-hlv-tuyen-italy-5076228.html) - 12:22 20/05/2026
-- 🥳 [HLV bị cấm hành nghề suốt đời vì quay lén cầu thủ nữ thay đồ](https://vnexpress.net/hlv-bi-cam-hanh-nghe-suot-doi-vi-quay-len-cau-thu-nu-thay-do-5076216.html) - 11:53 20/05/2026
-- 🐲 [Apple ra ứng dụng cập nhật tỷ số mùa World Cup 2026](https://vnexpress.net/apple-ra-ung-dung-cap-nhat-ty-so-mua-world-cup-2026-5076112.html) - 09:38 20/05/2026
-- 🧑‍🏫 [Lần đầu có ngoại binh ở giải VĐQG nữ Việt Nam](https://vnexpress.net/lan-dau-co-ngoai-binh-o-giai-vdqg-nu-viet-nam-5076206.html) - 09:19 20/05/2026
-- 🤔 [Ancelotti không muốn bị mê hoặc bởi hoài niệm về Brazil](https://vnexpress.net/ancelotti-khong-muon-bi-me-hoac-boi-hoai-niem-ve-brazil-5075403.html) - 07:53 20/05/2026
-- 😺 [Man City sẽ ra sao hậu kỷ nguyên Guardiola?](https://vnexpress.net/man-city-se-ra-sao-hau-ky-nguyen-guardiola-5075741.html) - 06:59 20/05/2026
-- 💪 [10 bước ngoặt đưa Arsenal tới ngôi vương Ngoại hạng Anh](https://vnexpress.net/10-buoc-ngoat-dua-arsenal-toi-ngoi-vuong-ngoai-hang-anh-5076023.html) - 05:07 20/05/2026
-- 💼 [Arteta thay đổi Arsenal thế nào để vô địch?](https://vnexpress.net/arteta-thay-doi-arsenal-the-nao-de-vo-dich-5076048.html) - 04:55 20/05/2026
-- 🕴 [7 điểm nhấn vòng 37 Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-vong-37-ngoai-hang-anh-5075597.html) - 04:32 20/05/2026
-- 🕯 [Southampton bị loại khỏi trận play-off lên Ngoại hạng Anh vì bê bối gián điệp](https://vnexpress.net/southampton-bi-loai-khoi-tran-play-off-len-ngoai-hang-anh-vi-be-boi-gian-diep-5075994.html) - 03:29 20/05/2026
-- 📝 [Tiền vệ Bồ Đào Nha muốn vô địch World Cup 2026 vì Ronaldo](https://vnexpress.net/tien-ve-bo-dao-nha-muon-vo-dich-world-cup-2026-vi-ronaldo-5075777.html) - 01:50 20/05/2026
-- 🧐 [Trung Quốc vào chung kết U17 châu Á 2026](https://vnexpress.net/trung-quoc-vao-chung-ket-u17-chau-a-2026-5075898.html) - 23:45 19/05/2026
-- 🙉 [Guardiola chúc mừng Arsenal vô địch](https://vnexpress.net/guardiola-chuc-mung-arsenal-vo-dich-5075891.html) - 23:13 19/05/2026
-- 🏊 [Cầu thủ Arsenal vỡ òa khi vô địch Ngoại hạng Anh](https://vnexpress.net/cau-thu-arsenal-vo-oa-khi-vo-dich-ngoai-hang-anh-5075887.html) - 23:05 19/05/2026
-- 🌊 [Tottenham lỡ bước trong cuộc đua trụ lại Ngoại hạng Anh](https://vnexpress.net/tottenham-lo-buoc-trong-cuoc-dua-tru-lai-ngoai-hang-anh-5075888.html) - 22:14 19/05/2026
-- 👨‍🏫 [Arsenal vô địch Ngoại hạng Anh](https://vnexpress.net/arsenal-vo-dich-ngoai-hang-anh-5075886.html) - 21:37 19/05/2026
-- 🥷 [Man City hết cửa vô địch Ngoại hạng Anh](https://vnexpress.net/man-city-het-cua-vo-dich-ngoai-hang-anh-5075885.html) - 20:26 19/05/2026
-- ⚗️ [Alcaraz không dự Wimbledon 2026](https://vnexpress.net/alcaraz-khong-du-wimbledon-2026-5075873.html) - 17:00 19/05/2026
-- 🌮 [Roy Keane chỉ trích Fernandes mải săn kỷ lục kiến tạo](https://vnexpress.net/roy-keane-chi-trich-fernandes-mai-san-ky-luc-kien-tao-5075848.html) - 17:00 19/05/2026
-- 🤩 [Chelsea kiện Man City &#39;đi đêm&#39; với HLV Maresca](https://vnexpress.net/chelsea-kien-man-city-di-dem-voi-hlv-maresca-5075844.html) - 17:00 19/05/2026
-- 🏊 [Từ tài năng bóng chày bị ruồng bỏ đến cố vấn cho bốn đời tổng thống Mỹ](https://vnexpress.net/tu-tai-nang-bong-chay-bi-ruong-bo-den-co-van-cho-bon-doi-tong-thong-my-5075390.html) - 17:00 19/05/2026
-- 🐎 [Ronaldo lần thứ sáu dự World Cup](https://vnexpress.net/ronaldo-lan-thu-sau-du-world-cup-5075838.html) - 13:14 19/05/2026
-- 💫 [Man City đạt thỏa thuận bổ nhiệm HLV Maresca](https://vnexpress.net/man-city-dat-thoa-thuan-bo-nhiem-hlv-maresca-5075730.html) - 08:43 19/05/2026<!-- vnexpress-the-thao:END -->
+- 🪜 [Danh sách tuyển Anh dự World Cup 2026 gây tranh cãi](https://vnexpress.net/danh-sach-tuyen-anh-du-world-cup-2026-gay-tranh-cai-5077152.html) - 11:45 22/05/2026
+- 🦩 [Guardiola rời Man City vào cuối mùa](https://vnexpress.net/guardiola-roi-man-city-vao-cuoi-mua-5077136.html) - 10:50 22/05/2026
+- 🧰 [Man Utd ký hợp đồng với HLV Carrick đến năm 2028](https://vnexpress.net/man-utd-ky-hop-dong-voi-hlv-carrick-den-nam-2028-5077137.html) - 10:42 22/05/2026
+- 🤗 [Ronaldo lập thêm kỷ lục sau khi vô địch Saudi Pro League](https://vnexpress.net/ronaldo-lap-them-ky-luc-sau-khi-vo-dich-saudi-pro-league-5077116.html) - 10:23 22/05/2026
+- 🥳 [World Cup 2026 là giải lớn đầu tiên của Haaland](https://vnexpress.net/world-cup-2026-la-giai-lon-dau-tien-cua-haaland-5076997.html) - 08:00 22/05/2026
+- 🦣 [Arteta sắp vô địch tiền lương ở Ngoại hạng Anh](https://vnexpress.net/arteta-sap-vo-dich-tien-luong-o-ngoai-hang-anh-5076479.html) - 07:42 22/05/2026
+- 🌜 [Libero xinh đẹp của bóng chuyền Việt Nam](https://vnexpress.net/libero-xinh-dep-cua-bong-chuyen-viet-nam-5076989.html) - 07:33 22/05/2026
+- 🫶 [Neymar và cơ hội nhảy điệu Samba cuối cùng ở World Cup](https://vnexpress.net/neymar-va-co-hoi-nhay-dieu-samba-cuoi-cung-o-world-cup-5076322.html) - 04:55 22/05/2026
+- 🌜 [Enrique: &#39;Guardiola là HLV vĩ đại nhất mọi thời&#39;](https://vnexpress.net/enrique-guardiola-la-hlv-vi-dai-nhat-moi-thoi-5076780.html) - 04:40 22/05/2026
+- 😺 [UEFA cải tổ hệ thống giải đội tuyển giống Champions League](https://vnexpress.net/uefa-cai-to-he-thong-giai-doi-tuyen-giong-champions-league-5076782.html) - 02:30 22/05/2026
+- 👍 [Ronaldo không ngừng khóc khi vô địch Saudi League](https://vnexpress.net/ronaldo-khong-ngung-khoc-khi-vo-dich-saudi-league-5076843.html) - 02:23 22/05/2026
+- 🐵 [&#39;Cơn mưa&#39; điểm số trong ngày khởi tranh VBA 2026](https://vnexpress.net/con-mua-diem-so-trong-ngay-khoi-tranh-vba-2026-5076994.html) - 01:02 22/05/2026
+- 💫 [Thủ môn Brazil ngất xỉu khi nghe tin được dự World Cup 2026](https://vnexpress.net/thu-mon-brazil-ngat-xiu-khi-nghe-tin-duoc-du-world-cup-2026-5076778.html) - 23:02 21/05/2026
+- 🦆 [Sinner, Djokovic, Sabalenka &#39;biểu tình mềm&#39; ở Roland Garros](https://vnexpress.net/sinner-djokovic-sabalenka-bieu-tinh-mem-o-roland-garros-5076781.html) - 22:55 21/05/2026
+- 🙉 [Maguire sốc vì lỡ World Cup 2026](https://vnexpress.net/maguire-soc-vi-lo-world-cup-2026-5076777.html) - 22:53 21/05/2026
+- 📝 [Yamal: &#39;Tây Ban Nha đang chơi thứ bóng đá hay nhất thế giới&#39;](https://vnexpress.net/yamal-tay-ban-nha-dang-choi-thu-bong-da-hay-nhat-the-gioi-5076683.html) - 22:41 21/05/2026
+- 💯 [Ronaldo lập cú đúp, giúp Al Nassr vô địch Saudi League](https://vnexpress.net/ronaldo-lap-cu-dup-giup-al-nassr-vo-dich-saudi-league-5076779.html) - 19:56 21/05/2026
+- 🌈 [Djokovic khác nhánh Sinner ở Roland Garros](https://vnexpress.net/djokovic-khac-nhanh-sinner-o-roland-garros-5076774.html) - 17:30 21/05/2026
+- 🦩 [Arteta: &#39;Tôi đã không xem trận Man City hòa Bournemouth&#39;](https://vnexpress.net/arteta-toi-da-khong-xem-tran-man-city-hoa-bournemouth-5076756.html) - 17:00 21/05/2026
+- 🐲 [Kịch bản để Ngoại hạng Anh có 6 đội dự Champions League mùa tới](https://vnexpress.net/kich-ban-de-ngoai-hang-anh-co-6-doi-du-champions-league-mua-toi-5076731.html) - 17:00 21/05/2026
+- 🌁 [Thanh Thuý đưa Long An vào chung kết giải bóng chuyền nữ quốc tế](https://vnexpress.net/thanh-thuy-dua-long-an-vao-chung-ket-giai-bong-chuyen-nu-quoc-te-5076757.html) - 16:06 21/05/2026
+- 💯 [Neuer trở lại tuyển Đức dự World Cup 2026](https://vnexpress.net/neuer-tro-lai-tuyen-duc-du-world-cup-2026-5076728.html) - 13:52 21/05/2026
+- 🌝 [Xác định ba đối thủ của Việt Nam ở vòng bảng U17 World Cup 2026](https://vnexpress.net/xac-dinh-ba-doi-thu-cua-viet-nam-o-vong-bang-u17-world-cup-2026-5076637.html) - 13:40 21/05/2026
+- 🤖 [Cha ngăn con dự World Cup 2026](https://vnexpress.net/cha-ngan-con-du-world-cup-2026-5076554.html) - 10:43 21/05/2026
+- 🕯 [Ronaldo có thể đoạt danh hiệu đầu tiên cùng Al Nassr hôm nay](https://vnexpress.net/ronaldo-co-the-doat-danh-hieu-dau-tien-cung-al-nassr-hom-nay-5076693.html) - 10:41 21/05/2026
+- 🧰 [VTC Online mở rộng hệ sinh thái game tại Vietnam GameVerse 2026](https://vnexpress.net/vtc-online-mo-rong-he-sinh-thai-game-tai-vietnam-gameverse-2026-5076669.html) - 10:00 21/05/2026
+- 🥳 [HLV Bayern để quên đĩa bạc Bundesliga trong nhà bếp](https://vnexpress.net/hlv-bayern-de-quen-dia-bac-bundesliga-trong-nha-bep-5076591.html) - 09:26 21/05/2026
+- 👍 [Tuyển Việt Nam tập huấn ở Hàn Quốc trước ASEAN Cup 2026](https://vnexpress.net/tuyen-viet-nam-tap-huan-o-han-quoc-truoc-asean-cup-2026-5076619.html) - 08:50 21/05/2026
+- 💪 [Đội sắp dự World Cup 2026 hủy tập huấn vì sợ virus Ebola](https://vnexpress.net/doi-sap-du-world-cup-2026-huy-tap-huan-vi-so-virus-ebola-5076518.html) - 07:17 21/05/2026
+- 👹 [Enrique: &#39;Arsenal hay nhất châu Âu khi không có bóng&#39;](https://vnexpress.net/enrique-arsenal-hay-nhat-chau-au-khi-khong-co-bong-5076534.html) - 07:07 21/05/2026
+- 🧰 [Haaland: &#39;Man City nên nổi giận&#39;](https://vnexpress.net/haaland-man-city-nen-noi-gian-5076404.html) - 04:18 21/05/2026
+- 🚀 [FIFA &#39;quên&#39; đưa Việt Nam vào danh sách dự U17 World Cup 2026](https://vnexpress.net/fifa-quen-dua-viet-nam-vao-danh-sach-du-u17-world-cup-2026-5076408.html) - 02:58 21/05/2026
+- 🎃 [Ninh Bình thua ngược ở giải bóng chuyền nữ quốc tế](https://vnexpress.net/ninh-binh-thua-nguoc-o-giai-bong-chuyen-nu-quoc-te-5076323.html) - 00:48 21/05/2026
+- 🧰 [Saka: &#39;Giờ thì không ai cười Arsenal nữa&#39;](https://vnexpress.net/saka-gio-thi-khong-ai-cuoi-arsenal-nua-5076306.html) - 22:59 20/05/2026
+- 👀 [Yamal hẹn hò bạn gái mới tại Hy Lạp](https://vnexpress.net/yamal-hen-ho-ban-gai-moi-tai-hy-lap-5076312.html) - 22:54 20/05/2026
+- 🌜 [Aston Villa vô địch Europa League](https://vnexpress.net/aston-villa-vo-dich-europa-league-5076324.html) - 22:09 20/05/2026
+- 🫶 [Given lo Man City lạc lối như Man Utd thời hậu Ferguson](https://vnexpress.net/given-lo-man-city-lac-loi-nhu-man-utd-thoi-hau-ferguson-5076292.html) - 17:00 20/05/2026
+- 🦄 [Thế giới của Mikel Arteta](https://vnexpress.net/the-gioi-cua-mikel-arteta-5076171.html) - 17:00 20/05/2026
+- 🥳 [Thủ môn 43 tuổi lần đầu dự World Cup](https://vnexpress.net/thu-mon-43-tuoi-lan-dau-du-world-cup-5076296.html) - 17:00 20/05/2026
+- 🐲 [HLV tuyển Bồ Đào Nha: &#39;Không có đặc quyền nào cho Ronaldo&#39;](https://vnexpress.net/hlv-tuyen-bo-dao-nha-khong-co-dac-quyen-nao-cho-ronaldo-5076265.html) - 12:28 20/05/2026
+- 🧑‍🏫 [Emery phủ nhận là &#39;Vua Europa League&#39;](https://vnexpress.net/emery-phu-nhan-la-vua-europa-league-5076207.html) - 12:24 20/05/2026
+- 🤔 [Conte rời Napoli, đợi ghế HLV tuyển Italy](https://vnexpress.net/conte-roi-napoli-doi-ghe-hlv-tuyen-italy-5076228.html) - 12:22 20/05/2026
+- 😺 [HLV bị cấm hành nghề suốt đời vì quay lén cầu thủ nữ thay đồ](https://vnexpress.net/hlv-bi-cam-hanh-nghe-suot-doi-vi-quay-len-cau-thu-nu-thay-do-5076216.html) - 11:53 20/05/2026
+- 💪 [Apple ra ứng dụng cập nhật tỷ số mùa World Cup 2026](https://vnexpress.net/apple-ra-ung-dung-cap-nhat-ty-so-mua-world-cup-2026-5076112.html) - 09:38 20/05/2026
+- 💼 [Lần đầu có ngoại binh ở giải VĐQG nữ Việt Nam](https://vnexpress.net/lan-dau-co-ngoai-binh-o-giai-vdqg-nu-viet-nam-5076206.html) - 09:19 20/05/2026
+- 🕴 [Ancelotti không muốn bị mê hoặc bởi hoài niệm về Brazil](https://vnexpress.net/ancelotti-khong-muon-bi-me-hoac-boi-hoai-niem-ve-brazil-5075403.html) - 07:53 20/05/2026
+- 🕯 [Man City sẽ ra sao hậu kỷ nguyên Guardiola?](https://vnexpress.net/man-city-se-ra-sao-hau-ky-nguyen-guardiola-5075741.html) - 06:59 20/05/2026
+- 📝 [10 bước ngoặt đưa Arsenal tới ngôi vương Ngoại hạng Anh](https://vnexpress.net/10-buoc-ngoat-dua-arsenal-toi-ngoi-vuong-ngoai-hang-anh-5076023.html) - 05:07 20/05/2026
+- 🧐 [Arteta thay đổi Arsenal thế nào để vô địch?](https://vnexpress.net/arteta-thay-doi-arsenal-the-nao-de-vo-dich-5076048.html) - 04:55 20/05/2026
+- 🙉 [7 điểm nhấn vòng 37 Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-vong-37-ngoai-hang-anh-5075597.html) - 04:32 20/05/2026
+- 🏊 [Southampton bị loại khỏi trận play-off lên Ngoại hạng Anh vì bê bối gián điệp](https://vnexpress.net/southampton-bi-loai-khoi-tran-play-off-len-ngoai-hang-anh-vi-be-boi-gian-diep-5075994.html) - 03:29 20/05/2026
+- 🌊 [Tiền vệ Bồ Đào Nha muốn vô địch World Cup 2026 vì Ronaldo](https://vnexpress.net/tien-ve-bo-dao-nha-muon-vo-dich-world-cup-2026-vi-ronaldo-5075777.html) - 01:50 20/05/2026
+- 👨‍🏫 [Trung Quốc vào chung kết U17 châu Á 2026](https://vnexpress.net/trung-quoc-vao-chung-ket-u17-chau-a-2026-5075898.html) - 23:45 19/05/2026
+- 🥷 [Guardiola chúc mừng Arsenal vô địch](https://vnexpress.net/guardiola-chuc-mung-arsenal-vo-dich-5075891.html) - 23:13 19/05/2026
+- ⚗️ [Cầu thủ Arsenal vỡ òa khi vô địch Ngoại hạng Anh](https://vnexpress.net/cau-thu-arsenal-vo-oa-khi-vo-dich-ngoai-hang-anh-5075887.html) - 23:05 19/05/2026
+- 🌮 [Tottenham lỡ bước trong cuộc đua trụ lại Ngoại hạng Anh](https://vnexpress.net/tottenham-lo-buoc-trong-cuoc-dua-tru-lai-ngoai-hang-anh-5075888.html) - 22:14 19/05/2026
+- 🤩 [Alcaraz không dự Wimbledon 2026](https://vnexpress.net/alcaraz-khong-du-wimbledon-2026-5075873.html) - 17:00 19/05/2026
+- 🏊 [Roy Keane chỉ trích Fernandes mải săn kỷ lục kiến tạo](https://vnexpress.net/roy-keane-chi-trich-fernandes-mai-san-ky-luc-kien-tao-5075848.html) - 17:00 19/05/2026
+- 🐎 [Chelsea kiện Man City &#39;đi đêm&#39; với HLV Maresca](https://vnexpress.net/chelsea-kien-man-city-di-dem-voi-hlv-maresca-5075844.html) - 17:00 19/05/2026
+- 💫 [Từ tài năng bóng chày bị ruồng bỏ đến cố vấn cho bốn đời tổng thống Mỹ](https://vnexpress.net/tu-tai-nang-bong-chay-bi-ruong-bo-den-co-van-cho-bon-doi-tong-thong-my-5075390.html) - 17:00 19/05/2026<!-- vnexpress-the-thao:END -->
