@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Lộ trình xây dựng xã, phường xã hội chủ nghĩa qua những giai đoạn nào?](https://vov.vn/chinh-tri/lo-trinh-xay-dung-xa-phuong-xa-hoi-chu-nghia-qua-nhung-giai-doan-nao-post1293958.vov) - 16:34 21/05/2026
-- 🦍 [Kết quả bốc thăm U17 World Cup 2026: U17 Việt Nam cùng bảng &amp;quot;đàn em&amp;quot; Lukaku](https://vov.vn/the-thao/ket-qua-boc-tham-u17-world-cup-2026-u17-viet-nam-cung-bang-dan-em-lukaku-post1293682.vov) - 14:41 21/05/2026
-- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
-- 😎 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
-- 💯 [Xung đột Mỹ - Iran trước nguy cơ rơi vào vòng xoáy nguy hiểm mới](https://vov.vn/the-gioi/xung-dot-my-iran-truoc-nguy-co-roi-vao-vong-xoay-nguy-hiem-moi-post1293897.vov) - 10:49 21/05/2026
-- 🦩 [Tình báo Mỹ bất ngờ trước tốc độ phục hồi sức mạnh quân sự của Iran](https://vov.vn/the-gioi/quan-sat/tinh-bao-my-bat-ngo-truoc-toc-do-phuc-hoi-suc-manh-quan-su-cua-iran-post1293836.vov) - 09:33 21/05/2026
-- 💃 [4 giai đoạn xây dựng xã, phường xã hội chủ nghĩa ở Việt Nam từ nay đến năm 2045](https://vov.vn/chinh-tri/4-giai-doan-xay-dung-xa-phuong-xa-hoi-chu-nghia-o-viet-nam-tu-nay-den-nam-2045-post1293812.vov) - 09:28 21/05/2026
-- 🦣 [Những lưu ý đối với người dùng chuyển từ xăng A92 và A95 sang E10](https://vov.vn/o-to-xe-may/nhung-luu-y-doi-voi-nguoi-dung-chuyen-tu-xang-a92-va-a95-sang-e10-post1293409.vov) - 08:54 21/05/2026
-- 👹 [Ủy ban Pháp luật và Tư pháp phải là cơ quan đi đầu trong tư duy pháp quyền](https://vov.vn/chinh-tri/uy-ban-phap-luat-va-tu-phap-phai-la-co-quan-di-dau-trong-tu-duy-phap-quyen-post1293819.vov) - 08:39 21/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước yêu cầu đầu tư trọng tâm cho công nghệ lượng tử](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-yeu-cau-dau-tu-trong-tam-cho-cong-nghe-luong-tu-post1293795.vov) - 07:39 21/05/2026
-- 😺 [Hiện trường vụ sạt lở mỏ đá tại Thanh Hóa khiến 3 người tử vong](https://vov.vn/xa-hoi/hien-truong-vu-sat-lo-mo-da-tai-thanh-hoa-khien-3-nguoi-tu-vong-post1293732.vov) - 04:16 21/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến bày tỏ ân hận, xin được khoan hồng](https://vov.vn/phap-luat/cuu-bo-truong-y-te-nguyen-thi-kim-tien-bay-to-an-han-xin-duoc-khoan-hong-post1294062.vov) - 04:30 22/05/2026
+- 🦍 [Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến bày tỏ ân hận, xin được khoan hồng](https://vov.vn/phap-luat/cuu-bo-truong-y-te-nguyen-thi-kim-tien-bay-to-an-han-xin-duoc-khoan-hong-post1294062.vov) - 04:30 22/05/2026
+- 🦏 [Công chức, viên chức có thể bị buộc thôi việc nếu vu khống, tố cáo bịa đặt](https://vov.vn/chinh-tri/cong-chuc-vien-chuc-co-the-bi-buoc-thoi-viec-neu-vu-khong-to-cao-bia-dat-post1294046.vov) - 04:27 22/05/2026
+- 😎 [Đại tướng Phan Văn Giang hội đàm với Bộ trưởng Quốc phòng Liên bang Nga](https://vov.vn/chinh-tri/dai-tuong-phan-van-giang-hoi-dam-voi-bo-truong-quoc-phong-lien-bang-nga-post1294061.vov) - 04:26 22/05/2026
+- 💯 [Giá vàng biến động mạnh, nhà đầu tư “đu đỉnh” có hoang mang, lo lắng?](https://vov.vn/thi-truong/gia-vang-bien-dong-manh-nha-dau-tu-du-dinh-co-hoang-mang-lo-lang-post1294040.vov) - 04:13 22/05/2026
+- 🦩 [Ai là người cầm đầu đường dây Cà khịa TV với các BLV Giàng A Lôi, Giàng A Phò?](https://vov.vn/phap-luat/ai-la-nguoi-cam-dau-duong-day-ca-khia-tv-voi-cac-blv-giang-a-loi-giang-a-pho-post1294013.vov) - 03:04 22/05/2026
+- 💃 [Vải thiều Bắc Ninh thất thu do thời tiết bất lợi, nhiều nhà vườn lao đao](https://vov.vn/kinh-te/vai-thieu-bac-ninh-that-thu-do-thoi-tiet-bat-loi-nhieu-nha-vuon-lao-dao-post1293888.vov) - 00:00 22/05/2026
+- 🦣 [Luật An ninh mạng có hiệu lực từ 1/7/2026: Đặt con người ở vị trí trung tâm](https://vov.vn/phap-luat/luat-an-ninh-mang-co-hieu-luc-tu-172026-dat-con-nguoi-o-vi-tri-trung-tam-post1293776.vov) - 23:20 21/05/2026
+- 👹 [Các trường đại học trọng điểm phải đóng vai trò &amp;quot;đầu tàu công nghệ&amp;quot;](https://vov.vn/xa-hoi/cac-truong-dai-hoc-trong-diem-phai-dong-vai-tro-dau-tau-cong-nghe-post1293860.vov) - 23:00 21/05/2026
+- 🫶 [Hành trình vun đắp con người XHCN trong thời đại mới](https://vov.vn/chinh-tri/hanh-trinh-vun-dap-con-nguoi-xhcn-trong-thoi-dai-moi-post1293861.vov) - 23:00 21/05/2026
+- 😺 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026<!-- vov-tin-moi-nhat:END -->
