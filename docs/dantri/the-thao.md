@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam tránh được bảng tử thần, hy vọng làm nên lịch sử ở World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-tranh-duoc-bang-tu-than-hy-vong-lam-nen-lich-su-o-world-cup-20260521201919456.htm) - 13:19 21/05/2026
+- 🎡 [U17 Việt Nam cùng bảng với Bỉ, tránh được nhiều đối thủ lớn](https://dantri.com.vn/the-thao/u17-viet-nam-cung-bang-voi-bi-tranh-duoc-nhieu-doi-thu-lon-20260521201919456.htm) - 13:19 21/05/2026
 - 💯 [World Cup có thể tăng lên 66 đội, tuyển Việt Nam có cơ hội góp mặt](https://dantri.com.vn/the-thao/world-cup-co-the-tang-len-66-doi-tuyen-viet-nam-co-co-hoi-gop-mat-20260521184800543.htm) - 12:15 21/05/2026
 - ⛽️ [Xem trực tiếp bốc thăm World Cup U17 ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-boc-tham-world-cup-u17-o-dau-20260521121450452.htm) - 09:30 21/05/2026
 - 💃 [CĐV Đông Nam Á dự đoán đối thủ của U17 Việt Nam ở World Cup](https://dantri.com.vn/the-thao/cdv-dong-nam-a-du-doan-doi-thu-cua-u17-viet-nam-o-world-cup-20260521150553107.htm) - 08:21 21/05/2026
