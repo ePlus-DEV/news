@@ -4,14 +4,14 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam cùng bảng với Bỉ, tránh được nhiều đối thủ lớn](https://dantri.com.vn/the-thao/u17-viet-nam-cung-bang-voi-bi-tranh-duoc-nhieu-doi-thu-lon-20260521201919456.htm) - 13:19 21/05/2026
+- 🎡 [U17 Việt Nam tránh được bảng tử thần, hy vọng làm nên lịch sử ở World Cup](https://dantri.com.vn/the-thao/u17-viet-nam-tranh-duoc-bang-tu-than-hy-vong-lam-nen-lich-su-o-world-cup-20260521201919456.htm) - 13:19 21/05/2026
 - 💯 [World Cup có thể tăng lên 66 đội, tuyển Việt Nam có cơ hội góp mặt](https://dantri.com.vn/the-thao/world-cup-co-the-tang-len-66-doi-tuyen-viet-nam-co-co-hoi-gop-mat-20260521184800543.htm) - 12:15 21/05/2026
 - ⛽️ [Xem trực tiếp bốc thăm World Cup U17 ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-boc-tham-world-cup-u17-o-dau-20260521121450452.htm) - 09:30 21/05/2026
-- 💃 [CĐV Đông Nam Á dự đoán đối thủ của U17 Việt Nam ở World Cup](https://dantri.com.vn/the-thao/cdv-dong-nam-a-du-doan-doi-thu-cua-u17-viet-nam-o-world-cup-20260521150553107.htm) - 08:21 21/05/2026
-- 🌈 [Đội bóng Thái Lan tiến sát đến việc bảo vệ danh hiệu Cúp C1 Đông Nam Á](https://dantri.com.vn/the-thao/doi-bong-thai-lan-tien-sat-den-viec-bao-ve-danh-hieu-cup-c1-dong-nam-a-20260521105614710.htm) - 06:49 21/05/2026
-- 🦅 [Nghịch lý Aston Villa phải thua để Ngoại hạng Anh được hưởng lợi](https://dantri.com.vn/the-thao/nghich-ly-aston-villa-phai-thua-de-ngoai-hang-anh-duoc-huong-loi-20260521122253844.htm) - 05:24 21/05/2026
-- 🌝 [VFF lên tiếng khi FIFA không điền tên U17 Việt Nam tham dự World Cup](https://dantri.com.vn/the-thao/vff-len-tieng-khi-fifa-khong-dien-ten-u17-viet-nam-tham-du-world-cup-20260521112657396.htm) - 04:37 21/05/2026
-- 🚀 [HLV Bồ Đào Nha tuyên bố về khả năng Ronaldo ra sân ở World Cup 2026](https://dantri.com.vn/the-thao/hlv-bo-dao-nha-tuyen-bo-ve-kha-nang-ronaldo-ra-san-o-world-cup-2026-20260521111002238.htm) - 04:13 21/05/2026
+- 💃 [HLV Bồ Đào Nha tuyên bố về khả năng Ronaldo ra sân ở World Cup 2026](https://dantri.com.vn/the-thao/hlv-bo-dao-nha-tuyen-bo-ve-kha-nang-ronaldo-ra-san-o-world-cup-2026-20260521111002238.htm) - 09:13 21/05/2026
+- 🌈 [CĐV Đông Nam Á dự đoán đối thủ của U17 Việt Nam ở World Cup](https://dantri.com.vn/the-thao/cdv-dong-nam-a-du-doan-doi-thu-cua-u17-viet-nam-o-world-cup-20260521150553107.htm) - 08:21 21/05/2026
+- 🦅 [Đội bóng Thái Lan tiến sát đến việc bảo vệ danh hiệu Cúp C1 Đông Nam Á](https://dantri.com.vn/the-thao/doi-bong-thai-lan-tien-sat-den-viec-bao-ve-danh-hieu-cup-c1-dong-nam-a-20260521105614710.htm) - 06:49 21/05/2026
+- 🌝 [Nghịch lý Aston Villa phải thua để Ngoại hạng Anh được hưởng lợi](https://dantri.com.vn/the-thao/nghich-ly-aston-villa-phai-thua-de-ngoai-hang-anh-duoc-huong-loi-20260521122253844.htm) - 05:24 21/05/2026
+- 🚀 [VFF lên tiếng khi FIFA không điền tên U17 Việt Nam tham dự World Cup](https://dantri.com.vn/the-thao/vff-len-tieng-khi-fifa-khong-dien-ten-u17-viet-nam-tham-du-world-cup-20260521112657396.htm) - 04:37 21/05/2026
 - 🎉 [Hôm nay bốc thăm U17 World Cup: Bảng &quot;tử thần&quot; chờ đợi U17 Việt Nam](https://dantri.com.vn/the-thao/hom-nay-boc-tham-u17-world-cup-bang-tu-than-cho-doi-u17-viet-nam-20260521091812141.htm) - 03:12 21/05/2026
 - 📝 [Sai sót của FIFA liên quan đến U17 Việt Nam trước lễ bốc thăm World Cup](https://dantri.com.vn/the-thao/sai-sot-cua-fifa-lien-quan-den-u17-viet-nam-truoc-le-boc-tham-world-cup-20260521091857319.htm) - 02:22 21/05/2026
 - 🦄 [Djokovic đối mặt nhiều nỗi lo trước thềm Roland Garros](https://dantri.com.vn/the-thao/djokovic-doi-mat-nhieu-noi-lo-truoc-them-roland-garros-20260521085523199.htm) - 01:57 21/05/2026
