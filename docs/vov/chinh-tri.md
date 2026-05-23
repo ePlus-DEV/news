@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Lộ trình xây dựng xã, phường xã hội chủ nghĩa qua những giai đoạn nào?](https://vov.vn/chinh-tri/lo-trinh-xay-dung-xa-phuong-xa-hoi-chu-nghia-qua-nhung-giai-doan-nao-post1293958.vov) - 16:34 21/05/2026
-- 💃 [Sắp xếp thôn, tổ ở vùng cao Thái Nguyên: Thận trọng, linh hoạt và giữ gìn bản sắc](https://vov.vn/chinh-tri/sap-xep-thon-to-o-vung-cao-thai-nguyen-than-trong-linh-hoat-va-giu-gin-ban-sac-post1293933.vov) - 14:17 21/05/2026
-- 🫶 [Bộ trưởng Lê Hoài Trung tiếp Nhóm Đại sứ các nước châu Phi tại Việt Nam](https://vov.vn/chinh-tri/bo-truong-le-hoai-trung-tiep-nhom-dai-su-cac-nuoc-chau-phi-tai-viet-nam-post1293931.vov) - 13:52 21/05/2026
-- 👨‍🏫 [Bộ trưởng Ngoại giao Lê Hoài Trung tiếp Đại sứ Campuchia](https://vov.vn/chinh-tri/bo-truong-ngoai-giao-le-hoai-trung-tiep-dai-su-campuchia-post1293916.vov) - 12:15 21/05/2026
-- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Phát triển công nghiệp vật liệu theo hướng xanh, bền vững](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-trien-cong-nghiep-vat-lieu-theo-huong-xanh-ben-vung-post1293911.vov) - 11:51 21/05/2026
-- 🌋 [Sắp xếp lại thôn, tổ dân phố: Tổ dân phố ở Hà Nội, TP.HCM có thể tăng lên 700 hộ](https://vov.vn/chinh-tri/sap-xep-lai-thon-to-dan-pho-to-dan-pho-o-ha-noi-tphcm-co-the-tang-len-700-ho-post1293872.vov) - 10:56 21/05/2026
-- 🎉 [Bộ Chính trị ban hành kế hoạch chống lãng phí, tiêu cực](https://vov.vn/chinh-tri/bo-chinh-tri-ban-hanh-ke-hoach-chong-lang-phi-tieu-cuc-post1293889.vov) - 10:39 21/05/2026
-- 🌝 [Phó Thủ tướng Phạm Gia Túc trao Huy hiệu Đảng cho đảng viên Đảng bộ Chính phủ](https://vov.vn/chinh-tri/pho-thu-tuong-pham-gia-tuc-trao-huy-hieu-dang-cho-dang-vien-dang-bo-chinh-phu-post1293869.vov) - 10:25 21/05/2026
-- 🏊 [4 giai đoạn xây dựng xã, phường xã hội chủ nghĩa ở Việt Nam từ nay đến năm 2045](https://vov.vn/chinh-tri/4-giai-doan-xay-dung-xa-phuong-xa-hoi-chu-nghia-o-viet-nam-tu-nay-den-nam-2045-post1293812.vov) - 09:28 21/05/2026
-- 🧑‍💻 [Ủy ban Pháp luật và Tư pháp phải là cơ quan đi đầu trong tư duy pháp quyền](https://vov.vn/chinh-tri/uy-ban-phap-luat-va-tu-phap-phai-la-co-quan-di-dau-trong-tu-duy-phap-quyen-post1293819.vov) - 08:39 21/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Thủ tướng Lê Minh Hưng dâng hương tại các khu di tích lịch sử tỉnh Quảng Trị](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-dang-huong-tai-cac-khu-di-tich-lich-su-tinh-quang-tri-post1294399.vov) - 09:13 23/05/2026
+- 💃 [Việt Nam tăng cường mở rộng hợp tác với các tỉnh phía Đông Bắc Campuchia](https://vov.vn/chinh-tri/viet-nam-tang-cuong-mo-rong-hop-tac-voi-cac-tinh-phia-dong-bac-campuchia-post1294353.vov) - 06:03 23/05/2026
+- 🫶 [Sáp nhập xóm ở miền núi: Bao nhiêu hộ là phù hợp?](https://vov.vn/chinh-tri/sap-nhap-xom-o-mien-nui-bao-nhieu-ho-la-phu-hop-post1294205.vov) - 06:00 23/05/2026
+- 👨‍🏫 [Thủ tướng dự Lễ truy điệu, an táng 28 hài cốt liệt sĩ tại tỉnh Quảng Trị](https://vov.vn/chinh-tri/thu-tuong-du-le-truy-dieu-an-tang-28-hai-cot-liet-si-tai-tinh-quang-tri-post1294328.vov) - 03:45 23/05/2026
+- 🪜 [Việt Nam - Thái Lan nâng cấp quan hệ: Mở rộng không gian hợp tác chiến lược mới](https://vov.vn/chinh-tri/viet-nam-thai-lan-nang-cap-quan-he-mo-rong-khong-gian-hop-tac-chien-luoc-moi-post1294293.vov) - 03:00 23/05/2026
+- 🌋 [Nâng cao năng lực xử lý tính huống thực tiễn đối với độ ngũ cán bộ cơ sở](https://vov.vn/chinh-tri/nang-cao-nang-luc-xu-ly-tinh-huong-thuc-tien-doi-voi-do-ngu-can-bo-co-so-post1294316.vov) - 02:42 23/05/2026
+- 🎉 [Hà Nội, Hải Phòng, Lào Cai triển khai thí điểm xây dựng xã, phường XHCN](https://vov.vn/chinh-tri/ha-noi-hai-phong-lao-cai-trien-khai-thi-diem-xay-dung-xa-phuong-xhcn-post1294060.vov) - 23:00 22/05/2026
+- 🌝 [Chính quyền địa phương hai cấp: Bộ máy gọn hơn, kỳ vọng cao hơn](https://vov.vn/chinh-tri/chinh-quyen-dia-phuong-hai-cap-bo-may-gon-hon-ky-vong-cao-hon-post1294123.vov) - 22:30 22/05/2026
+- 🏊 [Hội nghị Trung ương 8 - Dấu mốc lịch sử soi đường cho cách mạng Việt Nam](https://vov.vn/chinh-tri/hoi-nghi-trung-uong-8-dau-moc-lich-su-soi-duong-cho-cach-mang-viet-nam-post1293580.vov) - 22:10 22/05/2026
+- 🧑‍💻 [Phân công 6 Phó Thủ tướng chỉ đạo các địa phương đạt tăng trưởng 10%](https://vov.vn/chinh-tri/phan-cong-6-pho-thu-tuong-chi-dao-cac-dia-phuong-dat-tang-truong-10-post1294260.vov) - 14:52 22/05/2026<!-- vov-chinh-tri:END -->
