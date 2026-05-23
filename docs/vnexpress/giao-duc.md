@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường Đại học FPT mở chuyên ngành Robot và Trí tuệ nhân tạo](https://vnexpress.net/truong-dai-hoc-fpt-mo-chuyen-nganh-robot-va-tri-tue-nhan-tao-5076651.html) - 09:30 21/05/2026
-- 🦆 [&#39;1 chọi 8&#39; vào lớp 10 Phổ thông Năng khiếu](https://vnexpress.net/ty-le-choi-lop-10-pho-thong-nang-khieu-2026-tang-manh-5076632.html) - 09:27 21/05/2026
-- 🦩 [Lớp trưởng đánh hội đồng, kéo lê bạn trong nhà vệ sinh](https://vnexpress.net/lop-truong-danh-hoi-dong-keo-le-ban-trong-nha-ve-sinh-5076574.html) - 08:33 21/05/2026
-- 🌮 [Cuba bỏ thi đại học, bế giảng sớm vì thiếu nhiên liệu](https://vnexpress.net/cuba-bo-thi-dai-hoc-be-giang-som-vi-thieu-nhien-lieu-5076517.html) - 06:23 21/05/2026
-- 🔭 [Chàng trai hát &#39;Ước mơ của mẹ&#39; trong lễ tốt nghiệp đại học Mỹ](https://vnexpress.net/chang-trai-hat-uoc-mo-cua-me-trong-le-tot-nghiep-dai-hoc-my-5076248.html) - 03:54 21/05/2026
-- 💡 [Trường Đại học Văn Hiến xét tuyển học bạ, trao nhiều học bổng](https://vnexpress.net/truong-dai-hoc-van-hien-xet-tuyen-hoc-ba-trao-nhieu-hoc-bong-5076374.html) - 03:00 21/05/2026
-- 🥰 [Nữ sinh &#39;hóa&#39; công chúa, cô dâu trong dạ hội cuối cấp](https://vnexpress.net/nu-sinh-kim-lien-hoa-cong-chua-co-dau-trong-prom-night-5076309.html) - 17:39 20/05/2026
-- 🐲 [Cựu thủ khoa gốc Á làm hiệu trưởng đại học danh tiếng Mỹ](https://vnexpress.net/cuu-thu-khoa-goc-a-lam-hieu-truong-dai-hoc-danh-tieng-my-5076257.html) - 17:02 20/05/2026
-- 🦒 [Thành phố nào hạnh phúc nhất châu Á?](https://vnexpress.net/thanh-pho-hanh-phuc-nhat-chau-a-5076223.html) - 13:03 20/05/2026
-- 🦆 [DOL THPT luyện thi miễn phí cho học sinh lớp 12](https://vnexpress.net/dol-thpt-luyen-thi-mien-phi-cho-hoc-sinh-lop-12-5053529.html) - 12:00 20/05/2026
-- 🧰 [Khoảng 1% cán bộ TP HCM là tiến sĩ](https://vnexpress.net/khoang-1-can-bo-tp-hcm-la-tien-si-5076140.html) - 09:21 20/05/2026
-- 🐘 [Hơn 1.500 học sinh TP HCM được tuyển thẳng vào lớp 10](https://vnexpress.net/hon-1-500-hoc-sinh-tp-hcm-duoc-tuyen-thang-vao-lop-10-5076064.html) - 06:19 20/05/2026
-- 🤓 [Học sinh Việt Nam vào top 2 Olympic Tin học châu Á](https://vnexpress.net/ket-qua-doi-tuyen-viet-nam-tai-olympic-tin-hoc-chau-a-thai-binh-duong-2026-5076021.html) - 04:15 20/05/2026
+- 🤓 [Người đàn ông cao nhất thế giới ở nước nào?](https://vnexpress.net/nguoi-dan-ong-cao-nhat-the-gioi-o-nuoc-nao-5077442.html) - 13:28 23/05/2026
+- 🦆 [Lo &#39;suy thoái trí tuệ&#39; khi học sinh lạm dụng AI giải toán](https://vnexpress.net/lo-suy-thoai-tri-tue-khi-hoc-sinh-lam-dung-ai-giai-toan-5077400.html) - 12:32 23/05/2026
+- 🦩 [Đề và lời giải môn Toán vòng 1 chuyên Khoa học Tự nhiên](https://vnexpress.net/dap-an-de-thi-toan-vong-1-chuyen-khoa-hoc-tu-nhien-nam-2026-cap-nhat-5077411.html) - 10:34 23/05/2026
+- 🌮 [Tỷ lệ học sinh đỗ lớp 10 công lập ở Đà Nẵng lên tới 88%](https://vnexpress.net/ty-le-hoc-sinh-do-lop-10-cong-lap-o-da-nang-len-toi-88-5077181.html) - 09:49 23/05/2026
+- 🔭 [Nam Vinschool Central Park áp đảo Gia Định, vô địch khu vực TP HCM](https://vnexpress.net/nam-vinschool-central-park-ap-dao-gia-dinh-vo-dich-khu-vuc-tp-hcm-5077316.html) - 08:32 23/05/2026
+- 💡 [Đề Văn lớp 10 Phổ thông Năng khiếu hỏi về &#39;nghịch lý của sự lựa chọn&#39;](https://vnexpress.net/de-thi-van-chung-vao-lop-10-pho-thong-nang-khieu-2026-chi-tiet-5077345.html) - 06:35 23/05/2026
+- 🥰 [Công bố đề tham khảo thi vào 23 trường quân đội](https://vnexpress.net/bo-quoc-phong-cong-bo-de-tham-khao-thi-danh-gia-nang-luc-qda-vao-23-truong-quan-doi-nam-2026-5077339.html) - 05:10 23/05/2026
+- 🐲 [Thí sinh đổ về kỳ thi Sư phạm đông nhất trước nay](https://vnexpress.net/thi-sinh-do-ve-ky-thi-su-pham-dong-nhat-truoc-nay-5077239.html) - 03:28 23/05/2026
+- 🦒 [Đề thi vào lớp 10 trường chuyên Khoa học tự nhiên](https://vnexpress.net/de-thi-toan-van-anh-thi-lop-10-truong-chuyen-khoa-hoc-tu-nhien-2026-day-du-chinh-xac-5077246.html) - 03:14 23/05/2026
+- 🦆 [Đề thi Toán, Văn, Anh vào lớp 10 chuyên Khoa học xã hội và Nhân văn](https://vnexpress.net/de-thi-toan-van-anh-thi-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-2026-chinh-xac-nhat-5077240.html) - 03:12 23/05/2026
+- 🧰 [Học trò bùng nổ, nâng bổng cô giáo trong lễ trưởng thành](https://vnexpress.net/le-truong-thanh-soi-dong-o-truong-thpt-viet-duc-ha-noi-2026-5077185.html) - 02:38 23/05/2026
+- 🐘 [Bị sinh viên phản ứng, trường lùi lịch thi đầu ra tiếng Anh, Tin học](https://vnexpress.net/bi-sinh-vien-phan-ung-truong-lui-lich-thi-dau-ra-tieng-anh-tin-hoc-5077230.html) - 02:11 23/05/2026
+- 🤓 [Chung kết nữ: Nguyễn Thượng Hiền 26-31 Vinschool Central Park](https://vnexpress.net/chung-ket-nu-nguyen-thuong-hien-26-31-vinschool-central-park-5077105.html) - 00:45 23/05/2026
+- 🧰 [Gần 11.000 thí sinh bắt đầu cuộc đua lớp 10 trường chuyên](https://vnexpress.net/cuoc-dua-lop-10-truong-chuyen-2026-bat-dau-5077153.html) - 22:05 22/05/2026
+- 🧑‍💻 [Cậu bé 12 tuổi gốc Việt tốt nghiệp thủ khoa ở Mỹ với điểm tuyệt đối](https://vnexpress.net/cau-be-12-tuoi-goc-viet-tot-nghiep-thu-khoa-o-my-voi-diem-tuyet-doi-5076662.html) - 17:02 22/05/2026
+- 🫶 [Nhiều sinh viên muốn đổi ngành, mông lung việc làm khi ra trường](https://vnexpress.net/nhieu-sinh-vien-muon-doi-nganh-mong-lung-viec-lam-khi-ra-truong-5076831.html) - 15:17 22/05/2026
+- 🪜 [Nước nào có thành phố hạnh phúc nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-thanh-pho-hanh-phuc-nhat-dong-nam-a-5077140.html) - 14:03 22/05/2026
+- 🎊 [Cấp học bổng đến 5,5 triệu/tháng cho sinh viên 15 ngành kỹ thuật, công nghệ](https://vnexpress.net/dieu-kien-danh-sach-15-nganh-khoa-hoc-ky-thuat-cong-nghe-duoc-cap-hoc-bong-37-55-trieu-dong-nam-5077157.html) - 13:12 22/05/2026
+- 🧐 [&#39;Phụ nữ STEM đang dịch chuyển từ tham gia sang ​nghiên cứu&#39;](https://vnexpress.net/phu-nu-stem-dang-dich-chuyen-tu-tham-gia-sang-nghien-cuu-5077144.html) - 13:00 22/05/2026
+- 🌈 [5 trường công lập mới tuyển lớp 10 ở TP HCM](https://vnexpress.net/5-truong-cong-lap-moi-tuyen-lop-10-o-tp-hcm-5077032.html) - 09:18 22/05/2026
+- 🥰 [Trả lại hơn 100 triệu đồng &#39;cảm ơn&#39; thầy cô ôn thi lớp 10](https://vnexpress.net/tra-lai-hon-100-trieu-dong-cam-on-thay-co-on-thi-lop-10-5076833.html) - 07:53 22/05/2026
+- 🎡 [Dùng máy quét an ninh để ngăn gian lận thi tốt nghiệp](https://vnexpress.net/dung-may-quet-an-ninh-de-ngan-gian-lan-thi-tot-nghiep-5076711.html) - 03:28 22/05/2026
+- 🎊 [Sinh viên thời 5.0 cần gì để trở thành công dân toàn cầu?](https://vnexpress.net/sinh-vien-thoi-5-0-can-gi-de-tro-thanh-cong-dan-toan-cau-5076235.html) - 02:00 22/05/2026
+- 🌏 [Hơn 1.000 người trải nghiệm &#39;Ngày hội gia đình&#39; của Scots English](https://vnexpress.net/hon-1-000-nguoi-trai-nghiem-ngay-hoi-gia-dinh-cua-scots-english-5076349.html) - 01:00 22/05/2026
+- 🥸 [Nữ sinh Hà Nội đỗ cả Thanh Hoa và Bắc Đại](https://vnexpress.net/nu-sinh-ha-noi-do-ca-thanh-hoa-va-bac-dai-5076765.html) - 22:55 21/05/2026
+- 🕴 [AI giải bài toán 80 năm gây &#39;sửng sốt&#39;](https://vnexpress.net/ai-giai-bai-toan-80-nam-gay-sung-sot-5076761.html) - 17:24 21/05/2026
+- 💂 [Nước nào có siêu đô thị đông dân nhất thế giới?](https://vnexpress.net/nuoc-nao-co-sieu-do-thi-dong-dan-nhat-the-gioi-5076712.html) - 14:03 21/05/2026
+- 🕴 [Thứ trưởng Giáo dục đề xuất TP HCM chọn bài tổ hợp thi lớp 10](https://vnexpress.net/thu-truong-giao-duc-de-xuat-tp-hcm-chon-bai-to-hop-thi-lop-10-5076681.html) - 12:28 21/05/2026
+- 🌋 [Sinh viên bức xúc vì bất ngờ phải thi chuẩn đầu ra Tiếng Anh, Tin học](https://vnexpress.net/sinh-vien-dai-hoc-cong-doan-buc-xuc-vi-bat-ngo-phai-thi-chuan-dau-ra-tieng-anh-tin-hoc-5076572.html) - 11:40 21/05/2026
+- 🪜 [Nữ sinh Vinschool ghi 24 điểm đưa đội nhà vào chung kết bóng rổ](https://vnexpress.net/nu-sinh-vinschool-dua-doi-nha-vao-chung-ket-vyb-2026-5076488.html) - 11:00 21/05/2026
+- 🕴 [Trường Đại học FPT mở chuyên ngành Robot và Trí tuệ nhân tạo](https://vnexpress.net/truong-dai-hoc-fpt-mo-chuyen-nganh-robot-va-tri-tue-nhan-tao-5076651.html) - 09:30 21/05/2026
+- 🎃 [&#39;1 chọi 8&#39; vào lớp 10 Phổ thông Năng khiếu](https://vnexpress.net/ty-le-choi-lop-10-pho-thong-nang-khieu-2026-tang-manh-5076632.html) - 09:27 21/05/2026
+- 🦏 [Lớp trưởng đánh hội đồng, kéo lê bạn trong nhà vệ sinh](https://vnexpress.net/lop-truong-danh-hoi-dong-keo-le-ban-trong-nha-ve-sinh-5076574.html) - 08:33 21/05/2026
+- 🧑‍🏫 [Cuba bỏ thi đại học, bế giảng sớm vì thiếu nhiên liệu](https://vnexpress.net/cuba-bo-thi-dai-hoc-be-giang-som-vi-thieu-nhien-lieu-5076517.html) - 06:23 21/05/2026
+- 💡 [Chàng trai hát &#39;Ước mơ của mẹ&#39; trong lễ tốt nghiệp đại học Mỹ](https://vnexpress.net/chang-trai-hat-uoc-mo-cua-me-trong-le-tot-nghiep-dai-hoc-my-5076248.html) - 03:54 21/05/2026
+- 🐎 [Trường Đại học Văn Hiến xét tuyển học bạ, trao nhiều học bổng](https://vnexpress.net/truong-dai-hoc-van-hien-xet-tuyen-hoc-ba-trao-nhieu-hoc-bong-5076374.html) - 03:00 21/05/2026
+- 🧰 [Nữ sinh &#39;hóa&#39; công chúa, cô dâu trong dạ hội cuối cấp](https://vnexpress.net/nu-sinh-kim-lien-hoa-cong-chua-co-dau-trong-prom-night-5076309.html) - 17:39 20/05/2026
+- 🙉 [Cựu thủ khoa gốc Á làm hiệu trưởng đại học danh tiếng Mỹ](https://vnexpress.net/cuu-thu-khoa-goc-a-lam-hieu-truong-dai-hoc-danh-tieng-my-5076257.html) - 17:02 20/05/2026
+- ⚗️ [Thành phố nào hạnh phúc nhất châu Á?](https://vnexpress.net/thanh-pho-hanh-phuc-nhat-chau-a-5076223.html) - 13:03 20/05/2026
+- 🌝 [DOL THPT luyện thi miễn phí cho học sinh lớp 12](https://vnexpress.net/dol-thpt-luyen-thi-mien-phi-cho-hoc-sinh-lop-12-5053529.html) - 12:00 20/05/2026
+- ⛽️ [Khoảng 1% cán bộ TP HCM là tiến sĩ](https://vnexpress.net/khoang-1-can-bo-tp-hcm-la-tien-si-5076140.html) - 09:21 20/05/2026
+- 🌜 [Hơn 1.500 học sinh TP HCM được tuyển thẳng vào lớp 10](https://vnexpress.net/hon-1-500-hoc-sinh-tp-hcm-duoc-tuyen-thang-vao-lop-10-5076064.html) - 06:19 20/05/2026
+- ⚗️ [Học sinh Việt Nam vào top 2 Olympic Tin học châu Á](https://vnexpress.net/ket-qua-doi-tuyen-viet-nam-tai-olympic-tin-hoc-chau-a-thai-binh-duong-2026-5076021.html) - 04:15 20/05/2026
 - 🧰 [Khuôn viên hiện đại của trường chuyên 152 tuổi ở TP HCM](https://vnexpress.net/khuon-vien-hien-dai-cua-truong-chuyen-152-tuoi-o-tp-hcm-5075226.html) - 23:12 19/05/2026
-- 🧑‍💻 [5 sinh viên tốt nghiệp sớm với điểm 4.0 ở ĐH Kinh tế Quốc dân](https://vnexpress.net/5-sinh-vien-tot-nghiep-som-voi-diem-4-0-o-dh-kinh-te-quoc-dan-5075691.html) - 17:05 19/05/2026
-- 🫶 [Thủ tướng yêu cầu khẩn trương dạy bơi trong trường phổ thông](https://vnexpress.net/thu-tuong-yeu-cau-khan-truong-day-boi-trong-truong-pho-thong-5075854.html) - 15:08 19/05/2026
-- 🪜 [Nước nào khai thác than nhiều nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-khai-thac-than-nhieu-nhat-dong-nam-a-5075824.html) - 14:01 19/05/2026
-- 🎊 [Gần 450 đội thi châu Á đăng ký Asian Hackathon for Green Future 2026](https://vnexpress.net/gan-450-doi-thi-chau-a-dang-ky-asian-hackathon-for-green-future-2026-5075796.html) - 13:30 19/05/2026
-- 🧐 [23 trường quân đội quy đổi 8.0 IELTS thành 10 điểm tiếng Anh](https://vnexpress.net/bang-quy-doi-ielts-vao-23-truong-quan-doi-nam-2026-chi-tiet-nhat-5075825.html) - 12:31 19/05/2026
-- 🌈 [Nữ sinh lớp 6 bị &#39;đàn chị&#39; ép quỳ gối, lau chân](https://vnexpress.net/nu-sinh-lop-6-bi-dan-chi-ep-quy-goi-lau-chan-5075820.html) - 12:03 19/05/2026
-- 🥰 [Cách giúp học sinh THCS rèn IELTS tự nhiên](https://vnexpress.net/cach-giup-hoc-sinh-thcs-ren-ielts-tu-nhien-5071671.html) - 12:00 19/05/2026
-- 🎡 [5 khối ngành lấy điểm sàn đại học cao vượt trội](https://vnexpress.net/5-khoi-nganh-lay-diem-san-dai-hoc-cao-vuot-troi-5075113.html) - 08:28 19/05/2026
+- 🤗 [5 sinh viên tốt nghiệp sớm với điểm 4.0 ở ĐH Kinh tế Quốc dân](https://vnexpress.net/5-sinh-vien-tot-nghiep-som-voi-diem-4-0-o-dh-kinh-te-quoc-dan-5075691.html) - 17:05 19/05/2026
+- 🔥 [Thủ tướng yêu cầu khẩn trương dạy bơi trong trường phổ thông](https://vnexpress.net/thu-tuong-yeu-cau-khan-truong-day-boi-trong-truong-pho-thong-5075854.html) - 15:08 19/05/2026
+- 💪 [Nước nào khai thác than nhiều nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-khai-thac-than-nhieu-nhat-dong-nam-a-5075824.html) - 14:01 19/05/2026
+- 💂 [Gần 450 đội thi châu Á đăng ký Asian Hackathon for Green Future 2026](https://vnexpress.net/gan-450-doi-thi-chau-a-dang-ky-asian-hackathon-for-green-future-2026-5075796.html) - 13:30 19/05/2026
+- 🌮 [23 trường quân đội quy đổi 8.0 IELTS thành 10 điểm tiếng Anh](https://vnexpress.net/bang-quy-doi-ielts-vao-23-truong-quan-doi-nam-2026-chi-tiet-nhat-5075825.html) - 12:31 19/05/2026
+- 🪄 [Nữ sinh lớp 6 bị &#39;đàn chị&#39; ép quỳ gối, lau chân](https://vnexpress.net/nu-sinh-lop-6-bi-dan-chi-ep-quy-goi-lau-chan-5075820.html) - 12:03 19/05/2026
+- 🎡 [Cách giúp học sinh THCS rèn IELTS tự nhiên](https://vnexpress.net/cach-giup-hoc-sinh-thcs-ren-ielts-tu-nhien-5071671.html) - 12:00 19/05/2026
+- 🌈 [5 khối ngành lấy điểm sàn đại học cao vượt trội](https://vnexpress.net/5-khoi-nganh-lay-diem-san-dai-hoc-cao-vuot-troi-5075113.html) - 08:28 19/05/2026
 - 🎊 [Trường liên cấp song ngữ SenTia gia nhập tập đoàn giáo dục quốc tế](https://vnexpress.net/truong-lien-cap-song-ngu-sentia-gia-nhap-tap-doan-giao-duc-quoc-te-5075634.html) - 07:00 19/05/2026
-- 🌏 [Đại học Kinh tế Quốc dân có giám đốc mới](https://vnexpress.net/tan-giam-doc-dai-hoc-kinh-te-quoc-dan-bui-duc-tho-la-ai-5075547.html) - 03:54 19/05/2026
-- 🥸 [Đề thi thử tốt nghiệp THPT môn Tiếng Anh của tỉnh Bắc Ninh](https://vnexpress.net/chi-tiet-dap-an-48-ma-de-thi-thu-tieng-anh-tot-nghiep-thpt-cua-bac-ninh-5074235.html) - 03:26 19/05/2026
-- 🕴 [Nghiên cứu sinh Việt biến lá cây rụng thành nhựa tự hủy](https://vnexpress.net/nghien-cuu-sinh-viet-bien-la-cay-rung-thanh-nhua-tu-huy-5073186.html) - 23:11 18/05/2026
-- 💂 [Sinh viên trường top rộ mốt &#39;hẹn hò nội bộ&#39;](https://vnexpress.net/sinh-vien-truong-top-ro-mot-hen-ho-gio-tang-nao-gap-may-tang-do-5075008.html) - 17:28 18/05/2026
-- 🕴 [Nơi bị sét đánh nhiều nhất thế giới nằm ở nước nào?](https://vnexpress.net/noi-bi-set-danh-nhieu-nhat-the-gioi-nam-o-nuoc-nao-5075346.html) - 13:03 18/05/2026
-- 🌋 [TOEFL dùng AI đổi độ khó câu hỏi ngay trong phòng thi](https://vnexpress.net/dinh-dang-bai-thi-toefl-ibt-moi-co-gi-thay-doi-5075150.html) - 11:12 18/05/2026
-- 🪜 [Đề xuất rút ngắn một năm cho sinh viên trái ngành làm giáo viên](https://vnexpress.net/de-xuat-rut-ngan-mot-nam-cho-sinh-vien-trai-nganh-lam-giao-vien-5075192.html) - 08:12 18/05/2026
-- 🕴 [Thủ tướng yêu cầu kiểm soát đầu vào đại học](https://vnexpress.net/thu-tuong-chi-dao-ve-de-thi-tot-nghiep-thpt-2026-va-tuyen-sinh-dai-hoc-5075208.html) - 07:13 18/05/2026
-- 🎃 [Nghiên cứu sinh tiến sĩ được hỗ trợ hơn nửa tỷ đồng](https://vnexpress.net/nghien-cuu-sinh-tien-si-duoc-ho-tro-hon-nua-ty-dong-5074911.html) - 04:58 18/05/2026
-- 🦏 [Chuyên gia phân tích cơ hội phát triển của phụ nữ lĩnh vực STEM](https://vnexpress.net/chuyen-gia-phan-tich-co-hoi-phat-trien-cua-phu-nu-linh-vuc-stem-5075079.html) - 03:00 18/05/2026
-- 🧑‍🏫 [Loạt đại học quy đổi IELTS 4.0-4.5 thành 6-9 điểm tiếng Anh](https://vnexpress.net/loat-dai-hoc-quy-doi-ielts-4-0-4-5-thanh-6-9-diem-tieng-anh-5074249.html) - 02:29 18/05/2026
-- 💡 [Scots English đồng hành cùng chương trình &#39;Mẹ vắng nhà ba là siêu nhân&#39;](https://vnexpress.net/scots-english-dong-hanh-cung-chuong-trinh-me-vang-nha-ba-la-sieu-nhan-5073938.html) - 01:00 18/05/2026
-- 🐎 [Ôm máy tính cũ chinh phục hàng chục giải lập trình khắp thế giới](https://vnexpress.net/om-may-tinh-cu-chinh-phuc-hang-chuc-giai-lap-trinh-khap-the-gioi-5074603.html) - 22:59 17/05/2026
-- 🧰 [12 đại học đẹp nổi tiếng nước Mỹ](https://vnexpress.net/khuon-vien-gay-choang-ngop-cua-12-dai-hoc-dep-nhat-nuoc-my-5071555.html) - 17:02 17/05/2026
-- 🙉 [Nước nào có nửa dân số trên 57 tuổi?](https://vnexpress.net/nuoc-nao-co-nua-dan-so-tren-57-tuoi-5074932.html) - 12:25 17/05/2026
-- ⚗️ [Ngại chọn ngành khoa học, công nghệ vì sợ Toán](https://vnexpress.net/ngai-chon-nganh-khoa-hoc-cong-nghe-vi-so-toan-5074863.html) - 05:42 17/05/2026
-- 🌝 [Phụ huynh hồi hộp chờ con thi &#39;1 chọi 20&#39; vào lớp 6](https://vnexpress.net/phu-huynh-hoi-hop-cho-con-thi-1-choi-20-vao-lop-6-5074819.html) - 03:10 17/05/2026
-- ⛽️ [Chàng trai học lập trình muộn tốt nghiệp thủ khoa PTIT](https://vnexpress.net/duong-den-ngoi-thu-khoa-hoc-vien-cong-nghe-buu-chinh-vien-thong-2026-cua-nam-sinh-tung-truot-truong-chuyen-5073316.html) - 22:06 16/05/2026
-- 🌜 [Nước nào dùng điện nhiều nhất thế giới?](https://vnexpress.net/nuoc-nao-dung-dien-nhieu-nhat-the-gioi-5074741.html) - 13:06 16/05/2026
-- ⚗️ [Cái giá của những điểm A &#39;dễ dãi&#39;](https://vnexpress.net/cai-gia-cua-nhung-diem-a-de-dai-5073602.html) - 06:31 16/05/2026
-- 🧰 [&#39;ĐH Quốc gia Hà Nội phải trở thành trụ cột học thuật hàng đầu&#39;](https://vnexpress.net/dh-quoc-gia-ha-noi-phai-tro-thanh-tru-cot-hoc-thuat-hang-dau-5074636.html) - 04:58 16/05/2026
-- 🤗 [Hai trường Luật top đầu trao đổi sinh viên, công nhận tín chỉ](https://vnexpress.net/hai-truong-luat-top-dau-trao-doi-sinh-vien-cong-nhan-tin-chi-5074493.html) - 01:03 16/05/2026
-- 🔥 [Học phí trường quốc tế ở Hà Nội vượt 1 tỷ đồng một năm](https://vnexpress.net/hoc-phi-11-truong-quoc-te-o-ha-noi-nam-2026-chi-tiet-nhat-5073727.html) - 23:05 15/05/2026
-- 💪 [Điểm Toán, Đọc hiểu của học sinh Mỹ lao dốc](https://vnexpress.net/diem-toan-doc-hieu-cua-hoc-sinh-my-lao-doc-5074080.html) - 17:01 15/05/2026
-- 💂 [Nước nào có gần 90% người dân sống gần bờ biển?](https://vnexpress.net/quoc-gia-co-gan-90-dan-so-song-gan-bo-bien-5074486.html) - 14:12 15/05/2026
-- 🌮 [Đề thi thử tốt nghiệp THPT môn Toán của tỉnh Bắc Ninh](https://vnexpress.net/24-ma-de-thi-thu-tot-nghiep-thpt-mon-toan-2026-tinh-bac-ninh-kem-dap-an-chi-tiet-5073958.html) - 13:18 15/05/2026
-- 🪄 [Thầy trò thi hái xoài, thu hoạch nửa tấn sau 20 phút](https://vnexpress.net/thay-tro-thi-hai-xoai-thu-hoach-nua-tan-sau-20-phut-5074463.html) - 13:17 15/05/2026
-- 🎡 [&#39;Sinh viên cần tư duy cởi mở để vượt qua giới hạn tự thân&#39;](https://vnexpress.net/sinh-vien-can-tu-duy-coi-mo-de-vuot-qua-gioi-han-tu-than-5074330.html) - 13:00 15/05/2026
-- 🌈 [Lái xe 1.300 km xuyên đêm giúp bạn nhìn mẹ lần cuối](https://vnexpress.net/lai-xe-1-300-km-xuyen-dem-giup-ban-nhin-me-lan-cuoi-5074458.html) - 12:00 15/05/2026
-- 🎊 [Hơn 70 đơn vị cùng DTU tìm giải pháp phát triển nhân lực luật](https://vnexpress.net/hon-70-don-vi-cung-dtu-tim-giai-phap-phat-trien-nhan-luc-luat-5074471.html) - 12:00 15/05/2026
-- ⚗️ [PTIT mở loạt chương trình &#39;lạ&#39;, lần đầu có ở Việt Nam](https://vnexpress.net/chi-tieu-nganh-hoc-hoc-phi-hoc-vien-cong-nghe-buu-chinh-vien-thong-ptit-nam-2026-5073150.html) - 08:02 15/05/2026
-- 🌁 [Trường Sư phạm xét tốt nghiệp 12 lần mỗi năm để sinh viên &#39;không lỡ việc&#39;](https://vnexpress.net/truong-su-pham-xet-tot-nghiep-12-lan-moi-nam-de-sinh-vien-khong-lo-viec-5071483.html) - 06:40 15/05/2026
-- 🦏 [&#39;Thị trường lao động không còn ưu tiên người biết nhiều&#39;](https://vnexpress.net/thi-truong-lao-dong-khong-con-uu-tien-nguoi-biet-nhieu-5074203.html) - 04:00 15/05/2026
-- 👍 [Cuộc thi &#39;Olympic Toán Tuổi thơ&#39; lên nền tảng số](https://vnexpress.net/cuoc-thi-olympic-toan-tuoi-tho-len-nen-tang-so-5074182.html) - 03:00 15/05/2026
-- 🌈 [Cử nhân U40 tiến thẳng đến IMF, giành học bổng tiến sĩ Mỹ](https://vnexpress.net/cu-nhan-u40-tien-thang-den-imf-gianh-hoc-bong-tien-si-my-5070651.html) - 22:06 14/05/2026
-- 🕴 [Đại học số 1 Mỹ mất &#39;niềm tự hào&#39; hơn 100 năm vì AI](https://vnexpress.net/dai-hoc-so-1-my-mat-niem-tu-hao-hon-100-nam-vi-ai-5074017.html) - 17:02 14/05/2026
-- 🧰 [TP HCM sẽ mở rộng xét tuyển, tiến tới phổ cập lớp 10](https://vnexpress.net/tp-hcm-se-mo-rong-xet-tuyen-tien-toi-pho-cap-lop-10-5074032.html) - 13:49 14/05/2026<!-- vnexpress-giao-duc:END -->
+- ⚗️ [Đại học Kinh tế Quốc dân có giám đốc mới](https://vnexpress.net/tan-giam-doc-dai-hoc-kinh-te-quoc-dan-bui-duc-tho-la-ai-5075547.html) - 03:54 19/05/2026
+- 🌁 [Đề thi thử tốt nghiệp THPT môn Tiếng Anh của tỉnh Bắc Ninh](https://vnexpress.net/chi-tiet-dap-an-48-ma-de-thi-thu-tieng-anh-tot-nghiep-thpt-cua-bac-ninh-5074235.html) - 03:26 19/05/2026
+- 🦏 [Nghiên cứu sinh Việt biến lá cây rụng thành nhựa tự hủy](https://vnexpress.net/nghien-cuu-sinh-viet-bien-la-cay-rung-thanh-nhua-tu-huy-5073186.html) - 23:11 18/05/2026
+- 👍 [Sinh viên trường top rộ mốt &#39;hẹn hò nội bộ&#39;](https://vnexpress.net/sinh-vien-truong-top-ro-mot-hen-ho-gio-tang-nao-gap-may-tang-do-5075008.html) - 17:28 18/05/2026
+- 🌈 [Nơi bị sét đánh nhiều nhất thế giới nằm ở nước nào?](https://vnexpress.net/noi-bi-set-danh-nhieu-nhat-the-gioi-nam-o-nuoc-nao-5075346.html) - 13:03 18/05/2026
+- 🕴 [TOEFL dùng AI đổi độ khó câu hỏi ngay trong phòng thi](https://vnexpress.net/dinh-dang-bai-thi-toefl-ibt-moi-co-gi-thay-doi-5075150.html) - 11:12 18/05/2026
+- 🧰 [Đề xuất rút ngắn một năm cho sinh viên trái ngành làm giáo viên](https://vnexpress.net/de-xuat-rut-ngan-mot-nam-cho-sinh-vien-trai-nganh-lam-giao-vien-5075192.html) - 08:12 18/05/2026<!-- vnexpress-giao-duc:END -->
