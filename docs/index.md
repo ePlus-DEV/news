@@ -722,17 +722,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Khi nghệ sĩ sa ngã, đâu là ranh giới giữa đáng trách và đáng thương?](https://vov.vn/van-hoa/khi-nghe-si-sa-nga-dau-la-ranh-gioi-giua-dang-trach-va-dang-thuong-post1294469.vov) - 15:27 23/05/2026
-- 🕯 [WHO: Ngành y tế Việt Nam chủ động hệ thống và năng lực ứng phó Ebola](https://vov.vn/xa-hoi/who-nganh-y-te-viet-nam-chu-dong-he-thong-va-nang-luc-ung-pho-ebola-post1294471.vov) - 15:26 23/05/2026
-- 🌊 [Vun đắp quan hệ hữu nghị truyền thống Việt Nam - Liên bang Nga](https://vov.vn/quan-su-quoc-phong/vun-dap-quan-he-huu-nghi-truyen-thong-viet-nam-lien-bang-nga-post1294457.vov) - 13:34 23/05/2026
-- 🥷 [Đàm phán vẫn bế tắc, Iran tiếp tục cáo buộc Mỹ đòi hỏi thái quá](https://vov.vn/the-gioi/dam-phan-van-be-tac-iran-tiep-tuc-cao-buoc-my-doi-hoi-thai-qua-post1294453.vov) - 12:06 23/05/2026
-- 🎡 [Biển đảo Tây Nam trong tim những người con đất liền](https://vov.vn/xa-hoi/bien-dao-tay-nam-trong-tim-nhung-nguoi-con-dat-lien-post1294391.vov) - 11:26 23/05/2026
-- 🚀 [Triển khai xăng E10 từ 1/6: Siết giám sát để đảm bảo lộ trình](https://vov.vn/podcast/trien-khai-xang-e10-tu-16-siet-giam-sat-de-dam-bao-lo-trinh-post1294425.vov) - 10:36 23/05/2026
-- 🔥 [Hàng loạt trạm dừng nghỉ cao tốc Bắc - Nam vẫn đang chậm tiến độ](https://vov.vn/xa-hoi/hang-loat-tram-dung-nghi-cao-toc-bac-nam-van-dang-cham-tien-do-post1294415.vov) - 10:18 23/05/2026
-- 🌋 [Phụ huynh &amp;quot;đỏ mắt&amp;quot;, vượt trăm km về Hà Nội chờ con thi lớp 10 trường chuyên](https://vov.vn/xa-hoi/phu-huynh-do-mat-vuot-tram-km-ve-ha-noi-cho-con-thi-lop-10-truong-chuyen-post1294402.vov) - 10:13 23/05/2026
-- 🕴 [Điều gì có thể xảy ra với kho urani làm giàu cao của Iran?](https://vov.vn/the-gioi/quan-sat/dieu-gi-co-the-xay-ra-voi-kho-urani-lam-giau-cao-cua-iran-post1294412.vov) - 09:41 23/05/2026
-- 🥰 [Thủ tướng Lê Minh Hưng dâng hương tại các khu di tích lịch sử tỉnh Quảng Trị](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-dang-huong-tai-cac-khu-di-tich-lich-su-tinh-quang-tri-post1294399.vov) - 09:13 23/05/2026
-- 🧐 [Lạm phát trong tầm kiểm soát - hỗ trợ mục tiêu tăng trưởng kinh tế 2 con số](https://vov.vn/kinh-te/lam-phat-trong-tam-kiem-soat-ho-tro-muc-tieu-tang-truong-kinh-te-2-con-so-post1293749.vov) - 09:00 23/05/2026<!-- vov:END -->
+- 🌜 [Những kỳ vọng lớn từ chuyến thăm Thái Lan của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/nhung-ky-vong-lon-tu-chuyen-tham-thai-lan-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1294512.vov) - 03:32 24/05/2026
+- 🕯 [8 đặc trưng chủ đạo của mô hình xã, phường xã hội chủ nghĩa](https://vov.vn/chinh-tri/8-dac-trung-chu-dao-cua-mo-hinh-xa-phuong-xa-hoi-chu-nghia-post1294454.vov) - 03:00 24/05/2026
+- 🌊 [Đưa 8 hài cốt liệt sĩ quân tình nguyện từ Lào về an táng tại Hà Tĩnh](https://vov.vn/xa-hoi/dua-8-hai-cot-liet-si-quan-tinh-nguyen-tu-lao-ve-an-tang-tai-ha-tinh-post1294514.vov) - 02:49 24/05/2026
+- 🥷 [Xác định đủ 48 đội dự VCK U17 World Cup 2026](https://vov.vn/the-thao/xac-dinh-du-48-doi-du-vck-u17-world-cup-2026-post1294502.vov) - 01:34 24/05/2026
+- 🎡 [Nga mở cuộc tấn công tên lửa quy mô lớn vào thủ đô Ukraine](https://vov.vn/the-gioi/nga-mo-cuoc-tan-cong-ten-lua-quy-mo-lon-vao-thu-do-ukraine-post1294494.vov) - 00:49 24/05/2026
+- 🚀 [Hành xử hung hãn, thiếu văn minh nơi công cộng: Cần xử lý nghiêm](https://vov.vn/xa-hoi/hanh-xu-hung-han-thieu-van-minh-noi-cong-cong-can-xu-ly-nghiem-post1294048.vov) - 00:00 24/05/2026
+- 🔥 [Giải ngân đầu tư công ì ạch: “Điểm nghẽn” cũ tiếp tục cản đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-i-ach-diem-nghen-cu-tiep-tuc-can-da-tang-truong-post1294340.vov) - 00:00 24/05/2026
+- 🌋 [Công tác tư tưởng - chìa khóa thành công trong sáp nhập tổ dân phố](https://vov.vn/chinh-tri/cong-tac-tu-tuong-chia-khoa-thanh-cong-trong-sap-nhap-to-dan-pho-post1293890.vov) - 23:18 23/05/2026
+- 🕴 [Tín dụng không thể mãi là “bà đỡ” cho bất động sản](https://vov.vn/kinh-te/tin-dung-khong-the-mai-la-ba-do-cho-bat-dong-san-post1294447.vov) - 23:15 23/05/2026
+- 🥰 [Cần chấm dứt tình trạng vi phạm bản quyền, đánh cắp chất xám trên nền tảng số](https://vov.vn/van-hoa/can-cham-dut-tinh-trang-vi-pham-ban-quyen-danh-cap-chat-xam-tren-nen-tang-so-post1294089.vov) - 23:01 23/05/2026
+- 🧐 [Top 8 diễn viên Trung Quốc đang có lượng người theo dõi Weibo nhiều nhất hiện nay](https://vov.vn/giai-tri/nghe-si/top-8-dien-vien-trung-quoc-dang-co-luong-nguoi-theo-doi-weibo-nhieu-nhat-hien-nay-post1294105.vov) - 23:00 23/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
