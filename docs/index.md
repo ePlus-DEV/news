@@ -722,17 +722,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Những kỳ vọng lớn từ chuyến thăm Thái Lan của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/nhung-ky-vong-lon-tu-chuyen-tham-thai-lan-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1294512.vov) - 03:32 24/05/2026
-- 🕯 [8 đặc trưng chủ đạo của mô hình xã, phường xã hội chủ nghĩa](https://vov.vn/chinh-tri/8-dac-trung-chu-dao-cua-mo-hinh-xa-phuong-xa-hoi-chu-nghia-post1294454.vov) - 03:00 24/05/2026
-- 🌊 [Đưa 8 hài cốt liệt sĩ quân tình nguyện từ Lào về an táng tại Hà Tĩnh](https://vov.vn/xa-hoi/dua-8-hai-cot-liet-si-quan-tinh-nguyen-tu-lao-ve-an-tang-tai-ha-tinh-post1294514.vov) - 02:49 24/05/2026
-- 🥷 [Xác định đủ 48 đội dự VCK U17 World Cup 2026](https://vov.vn/the-thao/xac-dinh-du-48-doi-du-vck-u17-world-cup-2026-post1294502.vov) - 01:34 24/05/2026
-- 🎡 [Nga mở cuộc tấn công tên lửa quy mô lớn vào thủ đô Ukraine](https://vov.vn/the-gioi/nga-mo-cuoc-tan-cong-ten-lua-quy-mo-lon-vao-thu-do-ukraine-post1294494.vov) - 00:49 24/05/2026
-- 🚀 [Hành xử hung hãn, thiếu văn minh nơi công cộng: Cần xử lý nghiêm](https://vov.vn/xa-hoi/hanh-xu-hung-han-thieu-van-minh-noi-cong-cong-can-xu-ly-nghiem-post1294048.vov) - 00:00 24/05/2026
-- 🔥 [Giải ngân đầu tư công ì ạch: “Điểm nghẽn” cũ tiếp tục cản đà tăng trưởng](https://vov.vn/kinh-te/giai-ngan-dau-tu-cong-i-ach-diem-nghen-cu-tiep-tuc-can-da-tang-truong-post1294340.vov) - 00:00 24/05/2026
-- 🌋 [Công tác tư tưởng - chìa khóa thành công trong sáp nhập tổ dân phố](https://vov.vn/chinh-tri/cong-tac-tu-tuong-chia-khoa-thanh-cong-trong-sap-nhap-to-dan-pho-post1293890.vov) - 23:18 23/05/2026
-- 🕴 [Tín dụng không thể mãi là “bà đỡ” cho bất động sản](https://vov.vn/kinh-te/tin-dung-khong-the-mai-la-ba-do-cho-bat-dong-san-post1294447.vov) - 23:15 23/05/2026
-- 🥰 [Cần chấm dứt tình trạng vi phạm bản quyền, đánh cắp chất xám trên nền tảng số](https://vov.vn/van-hoa/can-cham-dut-tinh-trang-vi-pham-ban-quyen-danh-cap-chat-xam-tren-nen-tang-so-post1294089.vov) - 23:01 23/05/2026
-- 🧐 [Top 8 diễn viên Trung Quốc đang có lượng người theo dõi Weibo nhiều nhất hiện nay](https://vov.vn/giai-tri/nghe-si/top-8-dien-vien-trung-quoc-dang-co-luong-nguoi-theo-doi-weibo-nhieu-nhat-hien-nay-post1294105.vov) - 23:00 23/05/2026<!-- vov:END -->
+- 🌜 [Thủ tướng: Hà Nội phấn đấu khởi công một số dự án nhà ở cho thuê trong tháng 6 tới](https://vov.vn/chinh-tri/thu-tuong-ha-noi-phan-dau-khoi-cong-mot-so-du-an-nha-o-cho-thue-trong-thang-6-toi-post1294919.vov) - 13:18 25/05/2026
+- 🕯 [Thủ tướng: Hà Nội phấn đấu khởi công một số dự án nhà ở cho thuê trong tháng 6 tới](https://vov.vn/chinh-tri/thu-tuong-ha-noi-phan-dau-khoi-cong-mot-so-du-an-nha-o-cho-thue-trong-thang-6-toi-post1294919.vov) - 13:18 25/05/2026
+- 🌊 [Đấu tranh phản bác các quan điểm sai trái, thù địch để giữ vững ổn định chính trị](https://vov.vn/chinh-tri/dau-tranh-phan-bac-cac-quan-diem-sai-trai-thu-dich-de-giu-vung-on-dinh-chinh-tri-post1294910.vov) - 12:28 25/05/2026
+- 🥷 [Đấu tranh phản bác các quan điểm sai trái, thù địch để giữ vững ổn định chính trị](https://vov.vn/chinh-tri/dau-tranh-phan-bac-cac-quan-diem-sai-trai-thu-dich-de-giu-vung-on-dinh-chinh-tri-post1294910.vov) - 12:28 25/05/2026
+- 🎡 [Người dân Nhà Bè, TP.HCM chờ câu trả lời thỏa đáng về nước sạch từ SAWACO](https://vov.vn/kinh-te/nguoi-dan-nha-be-tphcm-cho-cau-tra-loi-thoa-dang-ve-nuoc-sach-tu-sawaco-post1294830.vov) - 12:13 25/05/2026
+- 🚀 [Luật Thủ đô &lpar;sửa đổi&rpar;: Phân quyền mạnh hơn đi liền với giám sát chặt hơn](https://vov.vn/chinh-tri/luat-thu-do-sua-doi-phan-quyen-manh-hon-di-lien-voi-giam-sat-chat-hon-post1294828.vov) - 10:07 25/05/2026
+- 🔥 [Triệu tập nhóm đánh nữ sinh, quay clip tung lên mạng xã hội ở Hải Phòng](https://vov.vn/phap-luat/trieu-tap-nhom-danh-nu-sinh-quay-clip-tung-len-mang-xa-hoi-o-hai-phong-post1294849.vov) - 10:06 25/05/2026
+- 🌋 [GS.TS Lê Anh Tuấn được bổ nhiệm giữ chức Giám đốc Đại học Bách khoa Hà Nội](https://vov.vn/xa-hoi/gsts-le-anh-tuan-duoc-bo-nhiem-giu-chuc-giam-doc-dai-hoc-bach-khoa-ha-noi-post1294838.vov) - 09:31 25/05/2026
+- 🕴 [Vụ đục phá vỉa hè: Phường Hai Bà Trưng báo cáo gì với Thành ủy Hà Nội?](https://vov.vn/xa-hoi/vu-duc-pha-via-he-phuong-hai-ba-trung-bao-cao-gi-voi-thanh-uy-ha-noi-post1294792.vov) - 09:25 25/05/2026
+- 🥰 [Chủ tịch Quốc hội yêu cầu cảnh báo sớm rủi ro quản trị](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-yeu-cau-canh-bao-som-rui-ro-quan-tri-post1294804.vov) - 08:13 25/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước: Hình thành đồng bộ hệ sinh thái nghiên cứu cơ bản](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-hinh-thanh-dong-bo-he-sinh-thai-nghien-cuu-co-ban-post1294789.vov) - 07:39 25/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
