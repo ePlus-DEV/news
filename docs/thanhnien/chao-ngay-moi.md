@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- thanhnien-chao-ngay-moi:START -->
-- 🦣 [Kiểm so&amp;aacute;t h&amp;igrave;nh ảnh AI](https://thanhnien.vn/kiem-soat-hinh-anh-ai-185260522221647806.htm) - 22:52 22/05/2026
-- 🧐 [Siết kỷ luật c&amp;ocirc;ng vụ bằng chế t&amp;agrave;i](https://thanhnien.vn/siet-ky-luat-cong-vu-bang-che-tai-185260521192359331.htm) - 22:53 21/05/2026
-- 👀 [M&amp;ocirc; h&amp;igrave;nh đại học cho tương lai](https://thanhnien.vn/mo-hinh-dai-hoc-cho-tuong-lai-185260520193256905.htm) - 22:51 20/05/2026
-- 🤩 [Phục hồi niềm tin cho thị trường bất động sản](https://thanhnien.vn/phuc-hoi-niem-tin-cho-thi-truong-bat-dong-san-185260519222014703.htm) - 22:50 19/05/2026
-- 🗽 [Để những m&amp;aacute;i nh&amp;agrave; ph&amp;aacute;t điện](https://thanhnien.vn/de-nhung-mai-nha-phat-dien-185260518211554148.htm) - 22:53 18/05/2026
-- 🧐 [Nội đ&amp;ocirc; c&amp;oacute; cần lưu th&amp;ocirc;ng h&amp;agrave;ng h&amp;oacute;a?](https://thanhnien.vn/noi-do-co-can-luu-thong-hang-hoa-185260517191509705.htm) - 22:50 17/05/2026
-- 🔭 [Giảm &amp;aacute;p lực thi cử](https://thanhnien.vn/giam-ap-luc-thi-cu-185260516211359381.htm) - 22:53 16/05/2026
-- 🌜 [Giải quyết b&amp;agrave;i to&amp;aacute;n bản quyền](https://thanhnien.vn/giai-quyet-bai-toan-ban-quyen-185260515220321721.htm) - 22:57 15/05/2026
-- 🎃 [Trả lại mảng xanh cho trung t&amp;acirc;m](https://thanhnien.vn/tra-lai-mang-xanh-cho-trung-tam-185260514201947227.htm) - 22:50 14/05/2026
-- 💯 [Thịt bẩn v&amp;agrave; tr&amp;aacute;ch nhiệm](https://thanhnien.vn/thit-ban-va-trach-nhiem-185260513225855068.htm) - 22:50 13/05/2026
-- 👀 [Ch&amp;igrave;a kh&amp;oacute;a an cư lạc nghiệp](https://thanhnien.vn/chia-khoa-an-cu-lac-nghiep-185260512211020593.htm) - 22:52 12/05/2026
-- 💻 [Thực sự l&amp;agrave; tiếng n&amp;oacute;i của nh&amp;acirc;n d&amp;acirc;n](https://thanhnien.vn/thuc-su-la-tieng-noi-cua-nhan-dan-185260511231830677.htm) - 22:35 11/05/2026
-- 🦍 [Thay đổi tư duy tiếp cận vốn](https://thanhnien.vn/thay-doi-tu-duy-tiep-can-von-185260510213118385.htm) - 22:50 10/05/2026
-- 🐎 [AI: Dao hai lưỡi](https://thanhnien.vn/ai-dao-hai-luoi-185260509203514299.htm) - 22:54 09/05/2026
-- 👺 [Đừng để chuyện đ&amp;atilde; rồi](https://thanhnien.vn/dung-de-chuyen-da-roi-185260508161431708.htm) - 22:58 08/05/2026
-- 🦏 [&amp;#039;Ph&amp;eacute;p thử năng lực&amp;#039; ở APEC 2027](https://thanhnien.vn/phep-thu-nang-luc-o-apec-2027-185260507212945303.htm) - 00:58 08/05/2026
-- 🎬 [Kh&amp;ocirc;ng &amp;#039;loại&amp;#039; học sinh trước ngưỡng cửa lớp 10](https://thanhnien.vn/khong-loai-hoc-sinh-truoc-nguong-cua-lop-10-185260506214147914.htm) - 22:51 06/05/2026
-- 🧐 [Kẹt quốc lộ, nh&amp;igrave;n từ đầu tư c&amp;ocirc;ng](https://thanhnien.vn/ket-quoc-lo-nhin-tu-dau-tu-cong-185260505160024777.htm) - 22:52 05/05/2026
-- 🎡 [Đằng sau những con số kỷ lục](https://thanhnien.vn/dang-sau-nhung-con-so-ky-luc-185260504225919004.htm) - 22:59 04/05/2026
-- 🦏 [Giấy ph&amp;eacute;p con v&amp;agrave; v&amp;agrave;ng](https://thanhnien.vn/giay-phep-con-va-vang-185260503203604321.htm) - 22:54 03/05/2026
-- 🧠 [Cẩn thận với &amp;#039;chuy&amp;ecirc;n gia&amp;#039; tr&amp;ecirc;n mạng](https://thanhnien.vn/can-than-voi-chuyen-gia-tren-mang-185260502225524366.htm) - 22:57 02/05/2026
-- 🎉 [Phương Nam vươn m&amp;igrave;nh trong kỷ nguy&amp;ecirc;n mới](https://thanhnien.vn/phuong-nam-vuon-minh-trong-ky-nguyen-moi-185260427145135432.htm) - 00:40 30/04/2026
-- 🪄 [Đưa lịch sử, văn h&amp;oacute;a Việt Nam v&amp;agrave;o thế giới số](https://thanhnien.vn/dua-lich-su-van-hoa-viet-nam-vao-the-gioi-so-185260428204912292.htm) - 22:57 28/04/2026
-- 🐎 [Cần lắm những kh&amp;ocirc;ng gian xanh](https://thanhnien.vn/can-lam-nhung-khong-gian-xanh-185260427224522143.htm) - 22:53 27/04/2026
-- 🧑‍💻 [Khi Thủ tướng &amp;#039;điểm huyệt&amp;#039; du lịch](https://thanhnien.vn/khi-thu-tuong-diem-huyet-du-lich-185260426200031543.htm) - 22:54 26/04/2026
-- 🦅 [Khoan sức hộ kinh doanh](https://thanhnien.vn/khoan-suc-ho-kinh-doanh-185260425202655977.htm) - 22:59 25/04/2026
-- 🥰 [Để rau quả VN vươn xa](https://thanhnien.vn/de-rau-qua-vn-vuon-xa-1852604242143416.htm) - 22:55 24/04/2026
-- 🏊 [Kh&amp;ocirc;ng để vỡ tiến độ v&amp;igrave; gi&amp;aacute; vật liệu](https://thanhnien.vn/khong-de-vo-tien-do-vi-gia-vat-lieu-185260423212534652.htm) - 22:50 23/04/2026
-- 🚀 [Quyền lợi ch&amp;iacute;nh đ&amp;aacute;ng của nh&amp;agrave; gi&amp;aacute;o](https://thanhnien.vn/quyen-loi-chinh-dang-cua-nha-giao-185260422214916411.htm) - 22:52 22/04/2026
-- 🦄 [Trạm dừng nghỉ kh&amp;ocirc;ng phải c&amp;ocirc;ng tr&amp;igrave;nh phụ](https://thanhnien.vn/tram-dung-nghi-khong-phai-cong-trinh-phu-185260421215131407.htm) - 22:55 21/04/2026
-- 🤭 [Quy hoạch cần &amp;#039;nhạc trưởng&amp;#039;](https://thanhnien.vn/quy-hoach-can-nhac-truong-185260420174928755.htm) - 22:52 20/04/2026
-- 🚀 [Ch&amp;iacute;nh s&amp;aacute;ch thuế, sao cứ m&amp;atilde;i lạc hậu?](https://thanhnien.vn/chinh-sach-thue-sao-cu-mai-lac-hau-185260419185540145.htm) - 22:55 19/04/2026
-- 🐘 [T&amp;iacute;n dụng bất động sản: Đừng để mất b&amp;ograve; mới lo...](https://thanhnien.vn/tin-dung-bat-dong-san-dung-de-mat-bo-moi-lo-185260418232816802.htm) - 22:55 18/04/2026
-- 🎓 [Văn h&amp;oacute;a l&amp;aacute;i xe tr&amp;ecirc;n cao tốc](https://thanhnien.vn/van-hoa-lai-xe-tren-cao-toc-185260417225250941.htm) - 22:52 17/04/2026
-- 🌜 [Nơm nớp với bữa ăn b&amp;aacute;n tr&amp;uacute;](https://thanhnien.vn/nom-nop-voi-bua-an-ban-tru-185260416204747514.htm) - 22:50 16/04/2026
-- 🦆 [Tăng trưởng, nh&amp;igrave;n từ thủ tục h&amp;agrave;nh ch&amp;iacute;nh](https://thanhnien.vn/tang-truong-nhin-tu-thu-tuc-hanh-chinh-185260415232831051.htm) - 22:48 15/04/2026
-- 🌝 [Đổi mới tư duy từ những &amp;yacute; tưởng nhỏ](https://thanhnien.vn/doi-moi-tu-duy-tu-nhung-y-tuong-nho-185260414194031492.htm) - 22:52 14/04/2026
-- 🐲 [Chiến lược &amp;#039;khoan sức d&amp;acirc;n&amp;#039;](https://thanhnien.vn/chien-luoc-khoan-suc-dan-185260413195649781.htm) - 22:53 13/04/2026
-- 🤖 [Ngăn chặn bạo lực đời thường](https://thanhnien.vn/ngan-chan-bao-luc-doi-thuong-185260412221808207.htm) - 22:51 12/04/2026
-- 💯 [Tăng trưởng kh&amp;ocirc;ng theo con đường tắt](https://thanhnien.vn/tang-truong-khong-theo-con-duong-tat-185260411224614753.htm) - 22:50 11/04/2026
-- 🧑‍🏫 [Vi phạm k&amp;eacute;o d&amp;agrave;i trong nu&amp;ocirc;i ch&amp;oacute;](https://thanhnien.vn/vi-pham-keo-dai-trong-nuoi-cho-185260410233854598.htm) - 22:56 10/04/2026
-- 🏊 [Th&amp;aacute;o &amp;#039;&amp;aacute;n treo&amp;#039; cho doanh nghiệp](https://thanhnien.vn/thao-an-treo-cho-doanh-nghiep-185260409213900448.htm) - 22:53 09/04/2026
-- 🗽 [Tin tức đặc biệt tr&amp;ecirc;n b&amp;aacute;o in Thanh Ni&amp;ecirc;n 9.4.2026](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-942026-18526040823112942.htm) - 22:59 08/04/2026
-- 🔥 [Luật sư c&amp;ocirc;ng cho Mặt trận cũng l&amp;agrave; cho d&amp;acirc;n](https://thanhnien.vn/luat-su-cong-cho-mat-tran-cung-la-cho-dan-185260408211233837.htm) - 22:50 08/04/2026
-- 🧰 [Quyết liệt bảo vệ giống n&amp;ograve;i](https://thanhnien.vn/quyet-liet-bao-ve-giong-noi-185260407221835976.htm) - 22:51 07/04/2026
-- 🦅 [Đổi mới tư duy ph&amp;aacute;t triển](https://thanhnien.vn/doi-moi-tu-duy-phat-trien-185260406205752521.htm) - 22:50 06/04/2026
-- 🌊 [Tiết kiệm xăng, nh&amp;igrave;n từ điện](https://thanhnien.vn/tiet-kiem-xang-nhin-tu-dien-185260405211230707.htm) - 22:53 05/04/2026
-- 🌏 [Ngoại ngữ: Năng lực nền tảng học tập](https://thanhnien.vn/ngoai-ngu-nang-luc-nen-tang-hoc-tap-185260404220936559.htm) - 22:50 04/04/2026
-- 🌜 [N&amp;acirc;ng chuẩn &amp;yacute; thức giao th&amp;ocirc;ng](https://thanhnien.vn/nang-chuan-y-thuc-giao-thong-185260403212228738.htm) - 22:58 03/04/2026
-- 🌏 [Nghi&amp;ecirc;n cứu kh&amp;ocirc;ng vụ lợi](https://thanhnien.vn/nghien-cuu-khong-vu-loi-185260402213129091.htm) - 22:52 02/04/2026<!-- thanhnien-chao-ngay-moi:END -->
+- 🦣 [Dưỡng sức mua, phải bắt đầu từ bảo vệ nh&amp;agrave; sản xuất](https://thanhnien.vn/duong-suc-mua-phai-bat-dau-tu-bao-ve-nha-san-xuat-185260524221401516.htm) - 22:51 24/05/2026
+- 🧐 [Tạo cơ hội cho trẻ em v&amp;ugrave;ng xa](https://thanhnien.vn/tao-co-hoi-cho-tre-em-vung-xa-185260523213329172.htm) - 22:50 23/05/2026
+- 👀 [Kiểm so&amp;aacute;t h&amp;igrave;nh ảnh AI](https://thanhnien.vn/kiem-soat-hinh-anh-ai-185260522221647806.htm) - 22:52 22/05/2026
+- 🤩 [Siết kỷ luật c&amp;ocirc;ng vụ bằng chế t&amp;agrave;i](https://thanhnien.vn/siet-ky-luat-cong-vu-bang-che-tai-185260521192359331.htm) - 22:53 21/05/2026
+- 🗽 [M&amp;ocirc; h&amp;igrave;nh đại học cho tương lai](https://thanhnien.vn/mo-hinh-dai-hoc-cho-tuong-lai-185260520193256905.htm) - 22:51 20/05/2026
+- 🧐 [Phục hồi niềm tin cho thị trường bất động sản](https://thanhnien.vn/phuc-hoi-niem-tin-cho-thi-truong-bat-dong-san-185260519222014703.htm) - 22:50 19/05/2026
+- 🔭 [Để những m&amp;aacute;i nh&amp;agrave; ph&amp;aacute;t điện](https://thanhnien.vn/de-nhung-mai-nha-phat-dien-185260518211554148.htm) - 22:53 18/05/2026
+- 🌜 [Nội đ&amp;ocirc; c&amp;oacute; cần lưu th&amp;ocirc;ng h&amp;agrave;ng h&amp;oacute;a?](https://thanhnien.vn/noi-do-co-can-luu-thong-hang-hoa-185260517191509705.htm) - 22:50 17/05/2026
+- 🎃 [Giảm &amp;aacute;p lực thi cử](https://thanhnien.vn/giam-ap-luc-thi-cu-185260516211359381.htm) - 22:53 16/05/2026
+- 💯 [Giải quyết b&amp;agrave;i to&amp;aacute;n bản quyền](https://thanhnien.vn/giai-quyet-bai-toan-ban-quyen-185260515220321721.htm) - 22:57 15/05/2026
+- 👀 [Trả lại mảng xanh cho trung t&amp;acirc;m](https://thanhnien.vn/tra-lai-mang-xanh-cho-trung-tam-185260514201947227.htm) - 22:50 14/05/2026
+- 💻 [Thịt bẩn v&amp;agrave; tr&amp;aacute;ch nhiệm](https://thanhnien.vn/thit-ban-va-trach-nhiem-185260513225855068.htm) - 22:50 13/05/2026
+- 🦍 [Ch&amp;igrave;a kh&amp;oacute;a an cư lạc nghiệp](https://thanhnien.vn/chia-khoa-an-cu-lac-nghiep-185260512211020593.htm) - 22:52 12/05/2026
+- 🐎 [Thực sự l&amp;agrave; tiếng n&amp;oacute;i của nh&amp;acirc;n d&amp;acirc;n](https://thanhnien.vn/thuc-su-la-tieng-noi-cua-nhan-dan-185260511231830677.htm) - 22:35 11/05/2026
+- 👺 [Thay đổi tư duy tiếp cận vốn](https://thanhnien.vn/thay-doi-tu-duy-tiep-can-von-185260510213118385.htm) - 22:50 10/05/2026
+- 🦏 [AI: Dao hai lưỡi](https://thanhnien.vn/ai-dao-hai-luoi-185260509203514299.htm) - 22:54 09/05/2026
+- 🎬 [Đừng để chuyện đ&amp;atilde; rồi](https://thanhnien.vn/dung-de-chuyen-da-roi-185260508161431708.htm) - 22:58 08/05/2026
+- 🧐 [&amp;#039;Ph&amp;eacute;p thử năng lực&amp;#039; ở APEC 2027](https://thanhnien.vn/phep-thu-nang-luc-o-apec-2027-185260507212945303.htm) - 00:58 08/05/2026
+- 🎡 [Kh&amp;ocirc;ng &amp;#039;loại&amp;#039; học sinh trước ngưỡng cửa lớp 10](https://thanhnien.vn/khong-loai-hoc-sinh-truoc-nguong-cua-lop-10-185260506214147914.htm) - 22:51 06/05/2026
+- 🦏 [Kẹt quốc lộ, nh&amp;igrave;n từ đầu tư c&amp;ocirc;ng](https://thanhnien.vn/ket-quoc-lo-nhin-tu-dau-tu-cong-185260505160024777.htm) - 22:52 05/05/2026
+- 🧠 [Đằng sau những con số kỷ lục](https://thanhnien.vn/dang-sau-nhung-con-so-ky-luc-185260504225919004.htm) - 22:59 04/05/2026
+- 🎉 [Giấy ph&amp;eacute;p con v&amp;agrave; v&amp;agrave;ng](https://thanhnien.vn/giay-phep-con-va-vang-185260503203604321.htm) - 22:54 03/05/2026
+- 🪄 [Cẩn thận với &amp;#039;chuy&amp;ecirc;n gia&amp;#039; tr&amp;ecirc;n mạng](https://thanhnien.vn/can-than-voi-chuyen-gia-tren-mang-185260502225524366.htm) - 22:57 02/05/2026
+- 🐎 [Phương Nam vươn m&amp;igrave;nh trong kỷ nguy&amp;ecirc;n mới](https://thanhnien.vn/phuong-nam-vuon-minh-trong-ky-nguyen-moi-185260427145135432.htm) - 00:40 30/04/2026
+- 🧑‍💻 [Đưa lịch sử, văn h&amp;oacute;a Việt Nam v&amp;agrave;o thế giới số](https://thanhnien.vn/dua-lich-su-van-hoa-viet-nam-vao-the-gioi-so-185260428204912292.htm) - 22:57 28/04/2026
+- 🦅 [Cần lắm những kh&amp;ocirc;ng gian xanh](https://thanhnien.vn/can-lam-nhung-khong-gian-xanh-185260427224522143.htm) - 22:53 27/04/2026
+- 🥰 [Khi Thủ tướng &amp;#039;điểm huyệt&amp;#039; du lịch](https://thanhnien.vn/khi-thu-tuong-diem-huyet-du-lich-185260426200031543.htm) - 22:54 26/04/2026
+- 🏊 [Khoan sức hộ kinh doanh](https://thanhnien.vn/khoan-suc-ho-kinh-doanh-185260425202655977.htm) - 22:59 25/04/2026
+- 🚀 [Để rau quả VN vươn xa](https://thanhnien.vn/de-rau-qua-vn-vuon-xa-1852604242143416.htm) - 22:55 24/04/2026
+- 🦄 [Kh&amp;ocirc;ng để vỡ tiến độ v&amp;igrave; gi&amp;aacute; vật liệu](https://thanhnien.vn/khong-de-vo-tien-do-vi-gia-vat-lieu-185260423212534652.htm) - 22:50 23/04/2026
+- 🤭 [Quyền lợi ch&amp;iacute;nh đ&amp;aacute;ng của nh&amp;agrave; gi&amp;aacute;o](https://thanhnien.vn/quyen-loi-chinh-dang-cua-nha-giao-185260422214916411.htm) - 22:52 22/04/2026
+- 🚀 [Trạm dừng nghỉ kh&amp;ocirc;ng phải c&amp;ocirc;ng tr&amp;igrave;nh phụ](https://thanhnien.vn/tram-dung-nghi-khong-phai-cong-trinh-phu-185260421215131407.htm) - 22:55 21/04/2026
+- 🐘 [Quy hoạch cần &amp;#039;nhạc trưởng&amp;#039;](https://thanhnien.vn/quy-hoach-can-nhac-truong-185260420174928755.htm) - 22:52 20/04/2026
+- 🎓 [Ch&amp;iacute;nh s&amp;aacute;ch thuế, sao cứ m&amp;atilde;i lạc hậu?](https://thanhnien.vn/chinh-sach-thue-sao-cu-mai-lac-hau-185260419185540145.htm) - 22:55 19/04/2026
+- 🌜 [T&amp;iacute;n dụng bất động sản: Đừng để mất b&amp;ograve; mới lo...](https://thanhnien.vn/tin-dung-bat-dong-san-dung-de-mat-bo-moi-lo-185260418232816802.htm) - 22:55 18/04/2026
+- 🦆 [Văn h&amp;oacute;a l&amp;aacute;i xe tr&amp;ecirc;n cao tốc](https://thanhnien.vn/van-hoa-lai-xe-tren-cao-toc-185260417225250941.htm) - 22:52 17/04/2026
+- 🌝 [Nơm nớp với bữa ăn b&amp;aacute;n tr&amp;uacute;](https://thanhnien.vn/nom-nop-voi-bua-an-ban-tru-185260416204747514.htm) - 22:50 16/04/2026
+- 🐲 [Tăng trưởng, nh&amp;igrave;n từ thủ tục h&amp;agrave;nh ch&amp;iacute;nh](https://thanhnien.vn/tang-truong-nhin-tu-thu-tuc-hanh-chinh-185260415232831051.htm) - 22:48 15/04/2026
+- 🤖 [Đổi mới tư duy từ những &amp;yacute; tưởng nhỏ](https://thanhnien.vn/doi-moi-tu-duy-tu-nhung-y-tuong-nho-185260414194031492.htm) - 22:52 14/04/2026
+- 💯 [Chiến lược &amp;#039;khoan sức d&amp;acirc;n&amp;#039;](https://thanhnien.vn/chien-luoc-khoan-suc-dan-185260413195649781.htm) - 22:53 13/04/2026
+- 🧑‍🏫 [Ngăn chặn bạo lực đời thường](https://thanhnien.vn/ngan-chan-bao-luc-doi-thuong-185260412221808207.htm) - 22:51 12/04/2026
+- 🏊 [Tăng trưởng kh&amp;ocirc;ng theo con đường tắt](https://thanhnien.vn/tang-truong-khong-theo-con-duong-tat-185260411224614753.htm) - 22:50 11/04/2026
+- 🗽 [Vi phạm k&amp;eacute;o d&amp;agrave;i trong nu&amp;ocirc;i ch&amp;oacute;](https://thanhnien.vn/vi-pham-keo-dai-trong-nuoi-cho-185260410233854598.htm) - 22:56 10/04/2026
+- 🔥 [Th&amp;aacute;o &amp;#039;&amp;aacute;n treo&amp;#039; cho doanh nghiệp](https://thanhnien.vn/thao-an-treo-cho-doanh-nghiep-185260409213900448.htm) - 22:53 09/04/2026
+- 🧰 [Tin tức đặc biệt tr&amp;ecirc;n b&amp;aacute;o in Thanh Ni&amp;ecirc;n 9.4.2026](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-942026-18526040823112942.htm) - 22:59 08/04/2026
+- 🦅 [Luật sư c&amp;ocirc;ng cho Mặt trận cũng l&amp;agrave; cho d&amp;acirc;n](https://thanhnien.vn/luat-su-cong-cho-mat-tran-cung-la-cho-dan-185260408211233837.htm) - 22:50 08/04/2026
+- 🌊 [Quyết liệt bảo vệ giống n&amp;ograve;i](https://thanhnien.vn/quyet-liet-bao-ve-giong-noi-185260407221835976.htm) - 22:51 07/04/2026
+- 🌏 [Đổi mới tư duy ph&amp;aacute;t triển](https://thanhnien.vn/doi-moi-tu-duy-phat-trien-185260406205752521.htm) - 22:50 06/04/2026
+- 🌜 [Tiết kiệm xăng, nh&amp;igrave;n từ điện](https://thanhnien.vn/tiet-kiem-xang-nhin-tu-dien-185260405211230707.htm) - 22:53 05/04/2026
+- 🌏 [Ngoại ngữ: Năng lực nền tảng học tập](https://thanhnien.vn/ngoai-ngu-nang-luc-nen-tang-hoc-tap-185260404220936559.htm) - 22:50 04/04/2026<!-- thanhnien-chao-ngay-moi:END -->
