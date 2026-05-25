@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Xã, phường xã hội chủ nghĩa nên được thiết kế như thế nào?](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-nen-duoc-thiet-ke-nhu-the-nao-post1294394.vov) - 22:30 24/05/2026
-- 🦍 [Giá vàng lao dốc, nhà đầu tư có nên “bắt đáy”?](https://vov.vn/thi-truong/gia-vang-lao-doc-nha-dau-tu-co-nen-bat-day-post1294562.vov) - 22:30 24/05/2026
-- 🦏 [Ngăn chặn thông tin xấu độc: Không chỉ bằng biện pháp hành chính](https://vov.vn/chinh-tri/ngan-chan-thong-tin-xau-doc-khong-chi-bang-bien-phap-hanh-chinh-post1294211.vov) - 22:30 24/05/2026
-- 😎 [Nóng 24h ngày 25/5: Chiêu livestream &amp;quot;cắt đá tìm ngọc&amp;quot; lừa hơn 32.000 người](https://vov.vn/phap-luat/nong-24h-ngay-255-chieu-livestream-cat-da-tim-ngoc-lua-hon-32000-nguoi-post1294606.vov) - 22:30 24/05/2026
-- 💯 [Xã, phường xã hội chủ nghĩa nên được thiết kế như thế nào?](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-nen-duoc-thiet-ke-nhu-the-nao-post1294394.vov) - 22:30 24/05/2026
-- 🦩 [Quan chức Mỹ nói ông Trump cho Iran thêm “5, 6 hoặc 7 ngày” hoàn tất thỏa thuận](https://vov.vn/the-gioi/quan-chuc-my-noi-ong-trump-cho-iran-them-5-6-hoac-7-ngay-hoan-tat-thoa-thuan-post1294658.vov) - 22:29 24/05/2026
-- 💃 [Giá vàng hôm nay 25/5: Giá vàng SJC và vàng thế giới đứng yên](https://vov.vn/thi-truong/gia-vang-hom-nay-255-gia-vang-sjc-va-vang-the-gioi-dung-yen-post1294567.vov) - 22:10 24/05/2026
-- 🦣 [Giá xăng dầu hôm nay 25/5: Giá dầu neo cao giữa bất ổn đàm phán Mỹ - Iran](https://vov.vn/thi-truong/gia-xang-dau-hom-nay-255-gia-dau-neo-cao-giua-bat-on-dam-phan-my-iran-post1294597.vov) - 22:00 24/05/2026
-- 👹 [Tottenham trụ hạng thành công sau chiến thắng nghẹt thở trước Everton](https://vov.vn/the-thao/tottenham-tru-hang-thanh-cong-sau-chien-thang-nghet-tho-truoc-everton-post1294547.vov) - 17:19 24/05/2026
-- 🫶 [Chuyến thăm Thái Lan của Tổng Bí thư Tô Lâm tạo dấu mốc chiến lược](https://vov.vn/chinh-tri/chuyen-tham-thai-lan-cua-tong-bi-thu-to-lam-tao-dau-moc-chien-luoc-post1294637.vov) - 15:05 24/05/2026
-- 😺 [Lộ diện các điều khoản then chốt trong thỏa thuận hòa bình Mỹ - Iran](https://vov.vn/the-gioi/lo-dien-cac-dieu-khoan-then-chot-trong-thoa-thuan-hoa-binh-my-iran-post1294622.vov) - 14:05 24/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Hà Nội điều động, bổ nhiệm loạt cán bộ chủ chốt](https://vov.vn/chinh-tri/ha-noi-dieu-dong-bo-nhiem-loat-can-bo-chu-chot-post1294756.vov) - 05:13 25/05/2026
+- 🦍 [Cháy xe khách chở hơn 30 người trên cao tốc Bắc - Nam đoạn qua Hà Tĩnh](https://vov.vn/xa-hoi/chay-xe-khach-cho-hon-30-nguoi-tren-cao-toc-bac-nam-doan-qua-ha-tinh-post1294759.vov) - 05:04 25/05/2026
+- 🦏 [Thi vào 10 Hà Nội: Giáo viên chỉ rõ &amp;quot;tử huyệt&amp;quot; khiến thí sinh mất điểm môn Văn](https://vov.vn/xa-hoi/thi-vao-10-ha-noi-giao-vien-chi-ro-tu-huyet-khien-thi-sinh-mat-diem-mon-van-post1294651.vov) - 04:12 25/05/2026
+- 😎 [Trao quyết định bổ nhiệm ông Nguyễn Huy Dũng giữ chức Thứ trưởng Bộ VHTT&amp;amp;DL](https://vov.vn/chinh-tri/trao-quyet-dinh-bo-nhiem-ong-nguyen-huy-dung-giu-chuc-thu-truong-bo-vhttdl-post1294726.vov) - 03:54 25/05/2026
+- 💯 [Bắc Bộ chuẩn bị đón &amp;quot;cơn mưa vàng&amp;quot; hạ nhiệt trong những ngày tới](https://vov.vn/xa-hoi/bac-bo-chuan-bi-don-con-mua-vang-ha-nhiet-trong-nhung-ngay-toi-post1294724.vov) - 03:53 25/05/2026
+- 🦩 [Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm định hình 50 năm tiếp theo cho quan hệ Việt-Thái](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-dinh-hinh-50-nam-tiep-theo-cho-quan-he-viet-thai-post1294704.vov) - 02:55 25/05/2026
+- 💃 [Chủ tịch Quốc hội: Đổi mới sáng tạo nhằm đảm bảo tăng trưởng hai con số](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-doi-moi-sang-tao-nham-dam-bao-tang-truong-hai-con-so-post1294697.vov) - 02:29 25/05/2026
+- 🦣 [Tăng mức phạt lấn chiếm vỉa hè: Mục tiêu là lập lại trật tự đô thị](https://vov.vn/xa-hoi/tang-muc-phat-lan-chiem-via-he-muc-tieu-la-lap-lai-trat-tu-do-thi-post1294685.vov) - 02:21 25/05/2026
+- 👹 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì cuộc họp Thường trực Ban Chỉ đạo về khoa học cơ bản](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-cuoc-hop-thuong-truc-ban-chi-dao-ve-khoa-hoc-co-ban-post1294692.vov) - 02:08 25/05/2026
+- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì cuộc họp Thường trực Ban Chỉ đạo về khoa học cơ bản](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-cuoc-hop-thuong-truc-ban-chi-dao-ve-khoa-hoc-co-ban-post1294692.vov) - 02:08 25/05/2026
+- 😺 [Xã, phường xã hội chủ nghĩa nên được thiết kế như thế nào?](https://vov.vn/chinh-tri/xa-phuong-xa-hoi-chu-nghia-nen-duoc-thiet-ke-nhu-the-nao-post1294394.vov) - 22:30 24/05/2026<!-- vov-tin-moi-nhat:END -->
