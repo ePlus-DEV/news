@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Đề thi, đáp án môn ngữ văn lớp 10 Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/de-thi-dap-an-mon-ngu-van-lop-10-ha-tinh-nam-2026-20260523004848218.htm) - 10:05 25/05/2026
-- 🗽 [Đáp án, đề thi lớp 10 môn toán tỉnh Quảng Trị năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-lop-10-mon-toan-tinh-quang-tri-nam-2026-20260525091121025.htm) - 10:02 25/05/2026
-- 🚦 [Đại học Bách khoa Hà Nội có tân Giám đốc](https://dantri.com.vn/giao-duc/dai-hoc-bach-khoa-ha-noi-co-tan-giam-doc-20260525153332199.htm) - 09:25 25/05/2026
-- 🌋 [Đề và đáp án môn tiếng Anh thi lớp 10 Nghệ An năm 2026](https://dantri.com.vn/giao-duc/de-va-dap-an-mon-tieng-anh-thi-lop-10-nghe-an-nam-2026-20260525161932328.htm) - 09:23 25/05/2026
-- 🏊 [Đề thi, đáp án vào lớp 10 môn toán tỉnh Hưng Yên](https://dantri.com.vn/giao-duc/de-thi-dap-an-vao-lop-10-mon-toan-tinh-hung-yen-20260525123741469.htm) - 09:19 25/05/2026
-- 🎃 [Công an dùng ô tô đến tận nhà đưa thí sinh ngủ quên tới điểm thi](https://dantri.com.vn/giao-duc/cong-an-dung-o-to-den-tan-nha-dua-thi-sinh-ngu-quen-toi-diem-thi-20260525151330766.htm) - 08:29 25/05/2026
-- 💄 [Mạo danh cô chủ nhiệm để lừa hơn 50 triệu đồng tiền chữa bệnh của phụ huynh](https://dantri.com.vn/giao-duc/mao-danh-co-chu-nhiem-de-lua-hon-50-trieu-dong-tien-chua-benh-cua-phu-huynh-20260525145959973.htm) - 08:20 25/05/2026
-- 🦅 [Bị hạ thi đua, cắt khen thưởng, trường có văn bản &quot;xin&quot; được... biết lý do](https://dantri.com.vn/giao-duc/bi-ha-thi-dua-cat-khen-thuong-truong-co-van-ban-xin-duoc-biet-ly-do-20260525134604020.htm) - 07:46 25/05/2026
-- 🚦 [Thí sinh Nghệ An nói gì về đề thi môn ngữ văn vào lớp 10?](https://dantri.com.vn/giao-duc/thi-sinh-nghe-an-noi-gi-ve-de-thi-mon-ngu-van-vao-lop-10-20260525103421509.htm) - 06:55 25/05/2026
-- 🐵 [Đại học Quốc gia Hà Nội bổ nhiệm loạt nhân sự mới](https://dantri.com.vn/giao-duc/dai-hoc-quoc-gia-ha-noi-bo-nhiem-loat-nhan-su-moi-20260525111923652.htm) - 05:27 25/05/2026
-- 🐘 [Đáp án, đề thi môn tiếng Anh vào lớp 10 của tỉnh Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-tieng-anh-vao-lop-10-cua-tinh-ha-tinh-nam-2026-20260523115014977.htm) - 05:12 25/05/2026
-- 🦏 [Đề thi và đáp án thi lớp 10 năm 2026 của tất cả 34 tỉnh thành](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-thi-lop-10-nam-2026-cua-tat-ca-34-tinh-thanh-20260523112559530.htm) - 04:22 25/05/2026
-- 💼 [PGS.TS Trần Thành Nam được bổ nhiệm làm Hiệu trưởng Đại học Giáo dục](https://dantri.com.vn/giao-duc/pgsts-tran-thanh-nam-duoc-bo-nhiem-lam-hieu-truong-dai-hoc-giao-duc-20260525111124946.htm) - 04:18 25/05/2026
-- ⛽️ [Đề thi và đáp án môn ngữ văn lớp 10 Lai Châu năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-lai-chau-nam-2026-20260524180836948.htm) - 04:05 25/05/2026
-- 🎭 [Đáp án, đề thi vào lớp 10 môn toán tỉnh Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-vao-lop-10-mon-toan-tinh-ha-tinh-nam-2026-20260525100304410.htm) - 03:26 25/05/2026
-- 🎃 [Trường học cho mở sân cỏ nhân tạo, Pickleball trái quy định](https://dantri.com.vn/giao-duc/truong-hoc-cho-mo-san-co-nhan-tao-pickleball-trai-quy-dinh-20260524232738197.htm) - 03:14 25/05/2026
-- 🚀 [Đề và gợi ý đáp án môn văn thi lớp 10 tỉnh Hưng Yên](https://dantri.com.vn/giao-duc/de-va-goi-y-dap-an-mon-van-thi-lop-10-tinh-hung-yen-20260525095324971.htm) - 03:11 25/05/2026
-- 👀 [Đề thi và đáp án môn ngữ văn lớp 10 Nghệ An năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-nghe-an-nam-2026-20260525095854428.htm) - 03:08 25/05/2026
-- 🌝 [Hiểm nguy lơ lửng trên đầu nhiều giáo viên, học sinh](https://dantri.com.vn/giao-duc/hiem-nguy-lo-lung-tren-dau-nhieu-giao-vien-hoc-sinh-20260524161553428.htm) - 00:56 25/05/2026
-- 🤗 [Thạc sĩ Việt gây xúc động tại Mỹ từng nhận học bổng gần 4 tỷ đồng](https://dantri.com.vn/giao-duc/thac-si-viet-gay-xuc-dong-tai-my-tung-nhan-hoc-bong-gan-4-ty-dong-20260523092234815.htm) - 00:31 25/05/2026
-- 🦄 [Cao điểm thi lớp 10 năm 2026: Học sinh 6 tỉnh “vượt vũ môn”](https://dantri.com.vn/giao-duc/cao-diem-thi-lop-10-nam-2026-hoc-sinh-6-tinh-vuot-vu-mon-20260524223854937.htm) - 23:30 24/05/2026
-- 🦍 [Đề thi văn bị phản ánh sai kiến thức: Sáng tạo, đột phá để tìm nhân tố mới?](https://dantri.com.vn/giao-duc/de-thi-van-bi-phan-anh-sai-kien-thuc-sang-tao-dot-pha-de-tim-nhan-to-moi-20260524094718354.htm) - 22:48 24/05/2026
-- 🪄 [Đề thi văn vào lớp 10 chuyên Nhân văn trái với dạng thức đề thi đã công bố?](https://dantri.com.vn/giao-duc/de-thi-van-vao-lop-10-chuyen-nhan-van-trai-voi-dang-thuc-de-thi-da-cong-bo-20260524204104568.htm) - 14:03 24/05/2026
-- 🦆 [Nam sinh 9 tuổi nghi bị giáo viên dạy thêm đánh bầm mặt, ù tai](https://dantri.com.vn/giao-duc/nam-sinh-9-tuoi-nghi-bi-giao-vien-day-them-danh-bam-mat-u-tai-20260524152040238.htm) - 08:43 24/05/2026
-- 🚀 [Đề thi và đáp án môn toán lớp 10 Đà Nẵng năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-lop-10-da-nang-nam-2026-20260523115647882.htm) - 04:33 24/05/2026
-- 🦒 [Đề thi môn chuyên Khoa học tự nhiên - sinh học Trường Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-mon-chuyen-khoa-hoc-tu-nhien-sinh-hoc-truong-khoa-hoc-tu-nhien-20260524110900606.htm) - 04:31 24/05/2026
-- 🤡 [Đề thi môn toán Trường THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-mon-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260524103036973.htm) - 04:29 24/05/2026
-- 🤔 [Đề thi môn địa lý vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-dia-ly-vao-lop-10-truong-nhan-van-nam-2026-20260523153515204.htm) - 03:52 24/05/2026
-- 🧑‍💻 [Đề thi môn ngữ văn chuyên vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-ngu-van-chuyen-vao-lop-10-truong-nhan-van-nam-2026-20260523151438478.htm) - 03:49 24/05/2026
-- 🤡 [Đề thi môn lịch sử vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-lich-su-vao-lop-10-truong-nhan-van-nam-2026-20260523154010882.htm) - 03:33 24/05/2026
+- 🤡 [Nhiều thí sinh tự tin với bài thi môn tiếng Anh vào lớp 10](https://dantri.com.vn/giao-duc/nhieu-thi-sinh-tu-tin-voi-bai-thi-mon-tieng-anh-vao-lop-10-20260525164928529.htm) - 13:06 25/05/2026
+- 🗽 [Đề thi và đáp án môn tiếng Anh lớp 10 Lai Châu năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-tieng-anh-lop-10-lai-chau-nam-2026-20260524181107466.htm) - 12:45 25/05/2026
+- 🚦 [Đề thi, đáp án môn ngữ văn lớp 10 Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/de-thi-dap-an-mon-ngu-van-lop-10-ha-tinh-nam-2026-20260523004848218.htm) - 10:05 25/05/2026
+- 🌋 [Đáp án, đề thi lớp 10 môn toán tỉnh Quảng Trị năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-lop-10-mon-toan-tinh-quang-tri-nam-2026-20260525091121025.htm) - 10:02 25/05/2026
+- 🏊 [Đại học Bách khoa Hà Nội có tân Giám đốc](https://dantri.com.vn/giao-duc/dai-hoc-bach-khoa-ha-noi-co-tan-giam-doc-20260525153332199.htm) - 09:25 25/05/2026
+- 🎃 [Đề và đáp án môn tiếng Anh thi lớp 10 Nghệ An năm 2026](https://dantri.com.vn/giao-duc/de-va-dap-an-mon-tieng-anh-thi-lop-10-nghe-an-nam-2026-20260525161932328.htm) - 09:23 25/05/2026
+- 💄 [Đề thi, đáp án vào lớp 10 môn toán tỉnh Hưng Yên](https://dantri.com.vn/giao-duc/de-thi-dap-an-vao-lop-10-mon-toan-tinh-hung-yen-20260525123741469.htm) - 09:19 25/05/2026
+- 🦅 [Công an dùng ô tô đến tận nhà đưa thí sinh ngủ quên tới điểm thi](https://dantri.com.vn/giao-duc/cong-an-dung-o-to-den-tan-nha-dua-thi-sinh-ngu-quen-toi-diem-thi-20260525151330766.htm) - 08:29 25/05/2026
+- 🚦 [Mạo danh cô chủ nhiệm để lừa hơn 50 triệu đồng tiền chữa bệnh của phụ huynh](https://dantri.com.vn/giao-duc/mao-danh-co-chu-nhiem-de-lua-hon-50-trieu-dong-tien-chua-benh-cua-phu-huynh-20260525145959973.htm) - 08:20 25/05/2026
+- 🐵 [Bị hạ thi đua, cắt khen thưởng, trường có văn bản &quot;xin&quot; được... biết lý do](https://dantri.com.vn/giao-duc/bi-ha-thi-dua-cat-khen-thuong-truong-co-van-ban-xin-duoc-biet-ly-do-20260525134604020.htm) - 07:46 25/05/2026
+- 🐘 [Thí sinh Nghệ An nói gì về đề thi môn ngữ văn vào lớp 10?](https://dantri.com.vn/giao-duc/thi-sinh-nghe-an-noi-gi-ve-de-thi-mon-ngu-van-vao-lop-10-20260525103421509.htm) - 06:55 25/05/2026
+- 🦏 [Đại học Quốc gia Hà Nội bổ nhiệm loạt nhân sự mới](https://dantri.com.vn/giao-duc/dai-hoc-quoc-gia-ha-noi-bo-nhiem-loat-nhan-su-moi-20260525111923652.htm) - 05:27 25/05/2026
+- 💼 [Đáp án, đề thi môn tiếng Anh vào lớp 10 của tỉnh Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-tieng-anh-vao-lop-10-cua-tinh-ha-tinh-nam-2026-20260523115014977.htm) - 05:12 25/05/2026
+- ⛽️ [Đề thi và đáp án thi lớp 10 năm 2026 của tất cả 34 tỉnh thành](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-thi-lop-10-nam-2026-cua-tat-ca-34-tinh-thanh-20260523112559530.htm) - 04:22 25/05/2026
+- 🎭 [PGS.TS Trần Thành Nam được bổ nhiệm làm Hiệu trưởng Đại học Giáo dục](https://dantri.com.vn/giao-duc/pgsts-tran-thanh-nam-duoc-bo-nhiem-lam-hieu-truong-dai-hoc-giao-duc-20260525111124946.htm) - 04:18 25/05/2026
+- 🎃 [Đề thi và đáp án môn ngữ văn lớp 10 Lai Châu năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-lai-chau-nam-2026-20260524180836948.htm) - 04:05 25/05/2026
+- 🚀 [Đáp án, đề thi vào lớp 10 môn toán tỉnh Hà Tĩnh năm 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-vao-lop-10-mon-toan-tinh-ha-tinh-nam-2026-20260525100304410.htm) - 03:26 25/05/2026
+- 👀 [Trường học cho mở sân cỏ nhân tạo, Pickleball trái quy định](https://dantri.com.vn/giao-duc/truong-hoc-cho-mo-san-co-nhan-tao-pickleball-trai-quy-dinh-20260524232738197.htm) - 03:14 25/05/2026
+- 🌝 [Đề và gợi ý đáp án môn văn thi lớp 10 tỉnh Hưng Yên](https://dantri.com.vn/giao-duc/de-va-goi-y-dap-an-mon-van-thi-lop-10-tinh-hung-yen-20260525095324971.htm) - 03:11 25/05/2026
+- 🤗 [Đề thi và đáp án môn ngữ văn lớp 10 Nghệ An năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-nghe-an-nam-2026-20260525095854428.htm) - 03:08 25/05/2026
+- 🦄 [Hiểm nguy lơ lửng trên đầu nhiều giáo viên, học sinh](https://dantri.com.vn/giao-duc/hiem-nguy-lo-lung-tren-dau-nhieu-giao-vien-hoc-sinh-20260524161553428.htm) - 00:56 25/05/2026
+- 🦍 [Thạc sĩ Việt gây xúc động tại Mỹ từng nhận học bổng gần 4 tỷ đồng](https://dantri.com.vn/giao-duc/thac-si-viet-gay-xuc-dong-tai-my-tung-nhan-hoc-bong-gan-4-ty-dong-20260523092234815.htm) - 00:31 25/05/2026
+- 🪄 [Cao điểm thi lớp 10 năm 2026: Học sinh 6 tỉnh “vượt vũ môn”](https://dantri.com.vn/giao-duc/cao-diem-thi-lop-10-nam-2026-hoc-sinh-6-tinh-vuot-vu-mon-20260524223854937.htm) - 23:30 24/05/2026
+- 🦆 [Đề thi văn bị phản ánh sai kiến thức: Sáng tạo, đột phá để tìm nhân tố mới?](https://dantri.com.vn/giao-duc/de-thi-van-bi-phan-anh-sai-kien-thuc-sang-tao-dot-pha-de-tim-nhan-to-moi-20260524094718354.htm) - 22:48 24/05/2026
+- 🚀 [Đề thi văn vào lớp 10 chuyên Nhân văn trái với dạng thức đề thi đã công bố?](https://dantri.com.vn/giao-duc/de-thi-van-vao-lop-10-chuyen-nhan-van-trai-voi-dang-thuc-de-thi-da-cong-bo-20260524204104568.htm) - 14:03 24/05/2026
+- 🦒 [Nam sinh 9 tuổi nghi bị giáo viên dạy thêm đánh bầm mặt, ù tai](https://dantri.com.vn/giao-duc/nam-sinh-9-tuoi-nghi-bi-giao-vien-day-them-danh-bam-mat-u-tai-20260524152040238.htm) - 08:43 24/05/2026
+- 🤡 [Đề thi và đáp án môn toán lớp 10 Đà Nẵng năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-lop-10-da-nang-nam-2026-20260523115647882.htm) - 04:33 24/05/2026
+- 🤔 [Đề thi môn chuyên Khoa học tự nhiên - sinh học Trường Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-mon-chuyen-khoa-hoc-tu-nhien-sinh-hoc-truong-khoa-hoc-tu-nhien-20260524110900606.htm) - 04:31 24/05/2026
+- 🧑‍💻 [Đề thi môn toán Trường THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-mon-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260524103036973.htm) - 04:29 24/05/2026
+- 🤡 [Đề thi môn địa lý vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-dia-ly-vao-lop-10-truong-nhan-van-nam-2026-20260523153515204.htm) - 03:52 24/05/2026
+- 🧠 [Đề thi môn ngữ văn chuyên vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-ngu-van-chuyen-vao-lop-10-truong-nhan-van-nam-2026-20260523151438478.htm) - 03:49 24/05/2026
+- 🧑‍💻 [Đề thi môn lịch sử vào lớp 10 trường Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-lich-su-vao-lop-10-truong-nhan-van-nam-2026-20260523154010882.htm) - 03:33 24/05/2026
 - 🧠 [Đề thi và đáp án môn toán vào lớp 10 tỉnh Ninh Bình](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-vao-lop-10-tinh-ninh-binh-20260524090830697.htm) - 03:28 24/05/2026
-- 🧑‍💻 [110.000 thí sinh thi đánh giá năng lực đợt 1 tiếp tục thi đợt 2, cao kỷ lục](https://dantri.com.vn/giao-duc/110000-thi-sinh-thi-danh-gia-nang-luc-dot-1-tiep-tuc-thi-dot-2-cao-ky-luc-20260524091737006.htm) - 03:01 24/05/2026
-- 🧠 [Bên trong khu đô thị Đại học Quốc gia TPHCM sau gần 30 năm quy hoạch](https://dantri.com.vn/giao-duc/ben-trong-khu-do-thi-dai-hoc-quoc-gia-tphcm-sau-gan-30-nam-quy-hoach-20260520164101985.htm) - 01:29 24/05/2026
-- 😎 [Đề thi văn vào lớp 10 bị phản ánh sai kiến thức, dùng ngữ liệu SGK](https://dantri.com.vn/giao-duc/de-thi-van-vao-lop-10-bi-phan-anh-sai-kien-thuc-dung-ngu-lieu-sgk-20260523195137999.htm) - 23:15 23/05/2026
-- 🕴 [Sau buổi học cuối của lớp 12, nhóm học sinh đến thắp nhang cho bạn đã mất](https://dantri.com.vn/giao-duc/sau-buoi-hoc-cuoi-cua-lop-12-nhom-hoc-sinh-den-thap-nhang-cho-ban-da-mat-20260523163048460.htm) - 23:00 23/05/2026
-- 🧠 [Nhà giáo được hưởng phụ cấp ưu đãi theo nghề lên tới 80%](https://dantri.com.vn/thoi-su/nha-giao-duoc-huong-phu-cap-uu-dai-theo-nghe-len-toi-80-20260523202257537.htm) - 14:01 23/05/2026
-- 🚀 [Doanh nghiệp cần người “làm được việc”: Đại học Khoa học Ứng dụng lên ngôi](https://dantri.com.vn/giao-duc/doanh-nghiep-can-nguoi-lam-duoc-viec-dai-hoc-khoa-hoc-ung-dung-len-ngoi-20260523182803064.htm) - 12:01 23/05/2026
-- 🕯 [Đề thi và đáp án môn tiếng Anh vào lớp 10 THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-tieng-anh-vao-lop-10-thpt-chuyen-khoa-hoc-tu-nhien-20260523134701846.htm) - 10:40 23/05/2026
-- 🧰 [Đề thi và đáp án môn toán lớp 10 Trường THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260523133534928.htm) - 10:37 23/05/2026
-- ⛽️ [Đề thi và đáp án môn toán vào lớp 10 chuyên Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-vao-lop-10-chuyen-nhan-van-nam-2026-20260523150311879.htm) - 09:51 23/05/2026
-- 🤖 [Đề thi và đáp án môn tiếng Anh vào lớp 10 chuyên Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-tieng-anh-vao-lop-10-chuyen-nhan-van-nam-2026-20260523145252158.htm) - 09:44 23/05/2026
-- 🦍 [Trường thuê xe, cử giáo viên đưa 24 học sinh đi thi vào lớp 10](https://dantri.com.vn/giao-duc/truong-thue-xe-cu-giao-vien-dua-24-hoc-sinh-di-thi-vao-lop-10-20260523125804556.htm) - 09:17 23/05/2026
-- 🐘 [Đề văn lớp 10 Phổ thông Năng khiếu khai thác “nghịch lý của sự lựa chọn”](https://dantri.com.vn/giao-duc/de-van-lop-10-pho-thong-nang-khieu-khai-thac-nghich-ly-cua-su-lua-chon-20260523151003747.htm) - 09:05 23/05/2026
-- 🌊 [Đề thi và đáp án môn văn thi lớp 10 Trường THPT chuyên Khoa học tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-van-thi-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260523130814455.htm) - 06:39 23/05/2026
-- 🕯 [Thí sinh kêu “lạ” khi làm đề thi ngữ văn vào chuyên Nhân văn](https://dantri.com.vn/giao-duc/thi-sinh-keu-la-khi-lam-de-thi-ngu-van-vao-chuyen-nhan-van-20260523130706509.htm) - 06:28 23/05/2026
+- 😎 [110.000 thí sinh thi đánh giá năng lực đợt 1 tiếp tục thi đợt 2, cao kỷ lục](https://dantri.com.vn/giao-duc/110000-thi-sinh-thi-danh-gia-nang-luc-dot-1-tiep-tuc-thi-dot-2-cao-ky-luc-20260524091737006.htm) - 03:01 24/05/2026
+- 🕴 [Bên trong khu đô thị Đại học Quốc gia TPHCM sau gần 30 năm quy hoạch](https://dantri.com.vn/giao-duc/ben-trong-khu-do-thi-dai-hoc-quoc-gia-tphcm-sau-gan-30-nam-quy-hoach-20260520164101985.htm) - 01:29 24/05/2026
+- 🧠 [Đề thi văn vào lớp 10 bị phản ánh sai kiến thức, dùng ngữ liệu SGK](https://dantri.com.vn/giao-duc/de-thi-van-vao-lop-10-bi-phan-anh-sai-kien-thuc-dung-ngu-lieu-sgk-20260523195137999.htm) - 23:15 23/05/2026
+- 🚀 [Sau buổi học cuối của lớp 12, nhóm học sinh đến thắp nhang cho bạn đã mất](https://dantri.com.vn/giao-duc/sau-buoi-hoc-cuoi-cua-lop-12-nhom-hoc-sinh-den-thap-nhang-cho-ban-da-mat-20260523163048460.htm) - 23:00 23/05/2026
+- 🕯 [Nhà giáo được hưởng phụ cấp ưu đãi theo nghề lên tới 80%](https://dantri.com.vn/thoi-su/nha-giao-duoc-huong-phu-cap-uu-dai-theo-nghe-len-toi-80-20260523202257537.htm) - 14:01 23/05/2026
+- 🧰 [Doanh nghiệp cần người “làm được việc”: Đại học Khoa học Ứng dụng lên ngôi](https://dantri.com.vn/giao-duc/doanh-nghiep-can-nguoi-lam-duoc-viec-dai-hoc-khoa-hoc-ung-dung-len-ngoi-20260523182803064.htm) - 12:01 23/05/2026
+- ⛽️ [Đề thi và đáp án môn tiếng Anh vào lớp 10 THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-tieng-anh-vao-lop-10-thpt-chuyen-khoa-hoc-tu-nhien-20260523134701846.htm) - 10:40 23/05/2026
+- 🤖 [Đề thi và đáp án môn toán lớp 10 Trường THPT chuyên Khoa học Tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260523133534928.htm) - 10:37 23/05/2026
+- 🦍 [Đề thi và đáp án môn toán vào lớp 10 chuyên Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-vao-lop-10-chuyen-nhan-van-nam-2026-20260523150311879.htm) - 09:51 23/05/2026
+- 🐘 [Đề thi và đáp án môn tiếng Anh vào lớp 10 chuyên Nhân văn năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-tieng-anh-vao-lop-10-chuyen-nhan-van-nam-2026-20260523145252158.htm) - 09:44 23/05/2026
+- 🌊 [Trường thuê xe, cử giáo viên đưa 24 học sinh đi thi vào lớp 10](https://dantri.com.vn/giao-duc/truong-thue-xe-cu-giao-vien-dua-24-hoc-sinh-di-thi-vao-lop-10-20260523125804556.htm) - 09:17 23/05/2026
+- 🕯 [Đề văn lớp 10 Phổ thông Năng khiếu khai thác “nghịch lý của sự lựa chọn”](https://dantri.com.vn/giao-duc/de-van-lop-10-pho-thong-nang-khieu-khai-thac-nghich-ly-cua-su-lua-chon-20260523151003747.htm) - 09:05 23/05/2026
+- 🐎 [Đề thi và đáp án môn văn thi lớp 10 Trường THPT chuyên Khoa học tự nhiên](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-van-thi-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-20260523130814455.htm) - 06:39 23/05/2026
+- 🐻 [Thí sinh kêu “lạ” khi làm đề thi ngữ văn vào chuyên Nhân văn](https://dantri.com.vn/giao-duc/thi-sinh-keu-la-khi-lam-de-thi-ngu-van-vao-chuyen-nhan-van-20260523130706509.htm) - 06:28 23/05/2026
 - 🐎 [Thay đổi đáng chú ý trong đề thi môn văn vào lớp 10 năm 2026](https://dantri.com.vn/giao-duc/thay-doi-dang-chu-y-trong-de-thi-mon-van-vao-lop-10-nam-2026-20260523124442300.htm) - 05:59 23/05/2026
-- 🐻 [Thí sinh chia sẻ lý do tham gia kỳ thi &quot;đông kỷ lục&quot; của ĐH Sư phạm Hà Nội](https://dantri.com.vn/giao-duc/thi-sinh-chia-se-ly-do-tham-gia-ky-thi-dong-ky-luc-cua-dh-su-pham-ha-noi-20260523115036593.htm) - 05:12 23/05/2026
-- 🐎 [Thí sinh dự kỳ thi của Trường Đại học Sư phạm tăng cao kỷ lục](https://dantri.com.vn/photo-news/thi-sinh-du-ky-thi-cua-truong-dai-hoc-su-pham-tang-cao-ky-luc-20260523102245483.htm) - 04:49 23/05/2026
-- 🫣 [Bài thơ hơn nửa thế kỷ vào đề văn thi lớp 10 chuyên](https://dantri.com.vn/giao-duc/bai-tho-hon-nua-the-ky-vao-de-van-thi-lop-10-chuyen-20260523104741919.htm) - 03:57 23/05/2026
-- 🤭 [Đề thi và đáp án môn ngữ văn lớp 10 Đà Nẵng năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-da-nang-nam-2026-20260523005257609.htm) - 03:54 23/05/2026
-- 🥳 [Đề thi và đáp án môn ngữ văn lớp 10 Ninh Bình năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-ninh-binh-nam-2026-20260523004020588.htm) - 03:26 23/05/2026
-- 🎭 [Vụ thi chuẩn đầu ra sát ngày tốt nghiệp, ĐH Công đoàn tổ chức đối thoại](https://dantri.com.vn/giao-duc/vu-thi-chuan-dau-ra-sat-ngay-tot-nghiep-dh-cong-doan-to-chuc-doi-thoai-20260523082519679.htm) - 03:00 23/05/2026
-- 🥸 [Xã đạt nông thôn mới, sinh viên vùng khó khăn còn được giảm học phí?](https://dantri.com.vn/giao-duc/xa-dat-nong-thon-moi-sinh-vien-vung-kho-khan-con-duoc-giam-hoc-phi-20260520212821245.htm) - 02:00 23/05/2026
+- 🫣 [Thí sinh chia sẻ lý do tham gia kỳ thi &quot;đông kỷ lục&quot; của ĐH Sư phạm Hà Nội](https://dantri.com.vn/giao-duc/thi-sinh-chia-se-ly-do-tham-gia-ky-thi-dong-ky-luc-cua-dh-su-pham-ha-noi-20260523115036593.htm) - 05:12 23/05/2026
+- 🤭 [Thí sinh dự kỳ thi của Trường Đại học Sư phạm tăng cao kỷ lục](https://dantri.com.vn/photo-news/thi-sinh-du-ky-thi-cua-truong-dai-hoc-su-pham-tang-cao-ky-luc-20260523102245483.htm) - 04:49 23/05/2026
+- 🥳 [Bài thơ hơn nửa thế kỷ vào đề văn thi lớp 10 chuyên](https://dantri.com.vn/giao-duc/bai-tho-hon-nua-the-ky-vao-de-van-thi-lop-10-chuyen-20260523104741919.htm) - 03:57 23/05/2026
+- 🎭 [Đề thi và đáp án môn ngữ văn lớp 10 Đà Nẵng năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-da-nang-nam-2026-20260523005257609.htm) - 03:54 23/05/2026
+- 🥸 [Đề thi và đáp án môn ngữ văn lớp 10 Ninh Bình năm 2026](https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-ninh-binh-nam-2026-20260523004020588.htm) - 03:26 23/05/2026
+- 🦣 [Vụ thi chuẩn đầu ra sát ngày tốt nghiệp, ĐH Công đoàn tổ chức đối thoại](https://dantri.com.vn/giao-duc/vu-thi-chuan-dau-ra-sat-ngay-tot-nghiep-dh-cong-doan-to-chuc-doi-thoai-20260523082519679.htm) - 03:00 23/05/2026
+- 🤔 [Xã đạt nông thôn mới, sinh viên vùng khó khăn còn được giảm học phí?](https://dantri.com.vn/giao-duc/xa-dat-nong-thon-moi-sinh-vien-vung-kho-khan-con-duoc-giam-hoc-phi-20260520212821245.htm) - 02:00 23/05/2026
 - 🦣 [Cuộc đua vào lớp 10 Phổ thông Năng khiếu với tỉ lệ &quot;1 chọi 8&quot; ở TPHCM](https://dantri.com.vn/giao-duc/cuoc-dua-vao-lop-10-pho-thong-nang-khieu-voi-ti-le-1-choi-8-o-tphcm-20260523082526086.htm) - 01:52 23/05/2026
-- 🤔 [Phường &quot;xin&quot; bổ sung danh sách tiếp nhận viên chức nhân viên y tế học đường](https://dantri.com.vn/giao-duc/phuong-xin-bo-sung-danh-sach-tiep-nhan-vien-chuc-nhan-vien-y-te-hoc-duong-20260522174408117.htm) - 00:07 23/05/2026
-- 🦣 [Hôm nay, hai tỉnh đầu tiên cả nước thi lớp 10 công lập](https://dantri.com.vn/giao-duc/hom-nay-hai-tinh-dau-tien-ca-nuoc-thi-lop-10-cong-lap-20260523062456367.htm) - 00:04 23/05/2026
-- 🐲 [Học sinh cuối cấp rơi nước mắt ngày tổng kết, kể những đêm học đến 2h](https://dantri.com.vn/giao-duc/hoc-sinh-cuoi-cap-roi-nuoc-mat-ngay-tong-ket-ke-nhung-dem-hoc-den-2h-20260522182708613.htm) - 22:36 22/05/2026
-- 🔭 [Sinh viên bán dẫn và 15 ngành khác được cấp học bổng 5,5 triệu đồng/tháng](https://dantri.com.vn/giao-duc/sinh-vien-ban-dan-va-15-nganh-khac-duoc-cap-hoc-bong-55-trieu-dongthang-20260522234338097.htm) - 22:30 22/05/2026
-- 🥷 [Nhiều sinh viên cho biết muốn đổi ngành học](https://dantri.com.vn/giao-duc/nhieu-sinh-vien-cho-biet-muon-doi-nganh-hoc-20260522153029685.htm) - 11:44 22/05/2026
-- 🎊 [Nghệ An siết chặt công tác chuẩn bị kỳ thi vào lớp 10](https://dantri.com.vn/giao-duc/nghe-an-siet-chat-cong-tac-chuan-bi-ky-thi-vao-lop-10-20260522144452435.htm) - 11:28 22/05/2026<!-- dantri-giao-duc:END -->
+- 🐲 [Phường &quot;xin&quot; bổ sung danh sách tiếp nhận viên chức nhân viên y tế học đường](https://dantri.com.vn/giao-duc/phuong-xin-bo-sung-danh-sach-tiep-nhan-vien-chuc-nhan-vien-y-te-hoc-duong-20260522174408117.htm) - 00:07 23/05/2026
+- 🔭 [Hôm nay, hai tỉnh đầu tiên cả nước thi lớp 10 công lập](https://dantri.com.vn/giao-duc/hom-nay-hai-tinh-dau-tien-ca-nuoc-thi-lop-10-cong-lap-20260523062456367.htm) - 00:04 23/05/2026
+- 🥷 [Học sinh cuối cấp rơi nước mắt ngày tổng kết, kể những đêm học đến 2h](https://dantri.com.vn/giao-duc/hoc-sinh-cuoi-cap-roi-nuoc-mat-ngay-tong-ket-ke-nhung-dem-hoc-den-2h-20260522182708613.htm) - 22:36 22/05/2026
+- 🎊 [Sinh viên bán dẫn và 15 ngành khác được cấp học bổng 5,5 triệu đồng/tháng](https://dantri.com.vn/giao-duc/sinh-vien-ban-dan-va-15-nganh-khac-duoc-cap-hoc-bong-55-trieu-dongthang-20260522234338097.htm) - 22:30 22/05/2026<!-- dantri-giao-duc:END -->
