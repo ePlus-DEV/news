@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Thủ tướng chỉ đạo đồng bộ hệ thống giải quyết thủ tục hành chính](https://vov.vn/chinh-tri/thu-tuong-chi-dao-dong-bo-he-thong-giai-quyet-thu-tuc-hanh-chinh-post1294955.vov) - 16:30 25/05/2026
-- 💃 [Khai thác sân bay Long Thành và cao tốc TP.HCM-Long Thành-Dầu Giây trong năm 2026](https://vov.vn/chinh-tri/khai-thac-san-bay-long-thanh-va-cao-toc-tphcm-long-thanh-dau-giay-trong-nam-2026-post1294946.vov) - 16:08 25/05/2026
-- 🫶 [TP.HCM vận hành bộ máy chính quyền địa phương 2 cấp ổn định, không gián đoạn](https://vov.vn/chinh-tri/tphcm-van-hanh-bo-may-chinh-quyen-dia-phuong-2-cap-on-dinh-khong-gian-doan-post1294934.vov) - 15:24 25/05/2026
-- 👨‍🏫 [Bảo đảm chủ quyền trong xử phạt vi phạm hành chính lĩnh vực thủy sản](https://vov.vn/chinh-tri/bao-dam-chu-quyen-trong-xu-phat-vi-pham-hanh-chinh-linh-vuc-thuy-san-post1294916.vov) - 13:24 25/05/2026
-- 🪜 [Thủ tướng: Hà Nội phấn đấu khởi công một số dự án nhà ở cho thuê trong tháng 6 tới](https://vov.vn/chinh-tri/thu-tuong-ha-noi-phan-dau-khoi-cong-mot-so-du-an-nha-o-cho-thue-trong-thang-6-toi-post1294919.vov) - 13:18 25/05/2026
-- 🌋 [Xây dựng chiến lược quốc gia về phát triển con người Việt Nam trong kỷ nguyên mới](https://vov.vn/chinh-tri/xay-dung-chien-luoc-quoc-gia-ve-phat-trien-con-nguoi-viet-nam-trong-ky-nguyen-moi-post1294913.vov) - 13:16 25/05/2026
-- 🎉 [Quảng Ngãi quy định rõ trách nhiệm người đứng đầu trong cải cách hành chính](https://vov.vn/chinh-tri/quang-ngai-quy-dinh-ro-trach-nhiem-nguoi-dung-dau-trong-cai-cach-hanh-chinh-post1294889.vov) - 12:35 25/05/2026
-- 🌝 [Đấu tranh phản bác các quan điểm sai trái, thù địch để giữ vững ổn định chính trị](https://vov.vn/chinh-tri/dau-tranh-phan-bac-cac-quan-diem-sai-trai-thu-dich-de-giu-vung-on-dinh-chinh-tri-post1294910.vov) - 12:28 25/05/2026
-- 🏊 [Bí thư Đà Nẵng: Không để xảy ra việc trục lợi chính sách phát triển nhà ở xã hội](https://vov.vn/chinh-tri/bi-thu-da-nang-khong-de-xay-ra-viec-truc-loi-chinh-sach-phat-trien-nha-o-xa-hoi-post1294882.vov) - 11:58 25/05/2026
-- 🧑‍💻 [Phó Thủ tướng Phạm Thị Thanh Trà thăm bệnh nhi ung thư tại Bệnh viện Nhi đồng 2](https://vov.vn/chinh-tri/pho-thu-tuong-pham-thi-thanh-tra-tham-benh-nhi-ung-thu-tai-benh-vien-nhi-dong-2-post1294904.vov) - 11:45 25/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Thủ tướng Lê Minh Hưng: Cần Thơ cần chủ động đề xuất cơ chế để bứt phá](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-can-tho-can-chu-dong-de-xuat-co-che-de-but-pha-post1295082.vov) - 05:05 26/05/2026
+- 💃 [Bộ Chính trị định hướng TP.HCM thành đô thị toàn cầu vào 2075](https://vov.vn/chinh-tri/bo-chinh-tri-dinh-huong-tphcm-thanh-do-thi-toan-cau-vao-2075-post1295067.vov) - 04:31 26/05/2026
+- 🫶 [Cần Thơ trao quyết định về công tác cán bộ](https://vov.vn/chinh-tri/can-tho-trao-quyet-dinh-ve-cong-tac-can-bo-post1295066.vov) - 04:18 26/05/2026
+- 👨‍🏫 [Lâm Đồng điều động giám đốc sở làm Bí thư phường Xuân Hương - Đà Lạt](https://vov.vn/chinh-tri/lam-dong-dieu-dong-giam-doc-so-lam-bi-thu-phuong-xuan-huong-da-lat-post1295061.vov) - 04:15 26/05/2026
+- 🪜 [Báo Singapore đánh giá tầm quan trọng của hợp tác Việt Nam - Singapore](https://vov.vn/chinh-tri/bao-singapore-danh-gia-tam-quan-trong-cua-hop-tac-viet-nam-singapore-post1295054.vov) - 04:02 26/05/2026
+- 🌋 [Thủ tướng Lê Minh Hưng làm việc với Ban Thường vụ Thành ủy Cần Thơ](https://vov.vn/chinh-tri/thu-tuong-le-minh-hung-lam-viec-voi-ban-thuong-vu-thanh-uy-can-tho-post1295050.vov) - 04:01 26/05/2026
+- 🎉 [Thủ tướng dâng hương tưởng niệm các Anh hùng liệt sĩ tại Cần Thơ](https://vov.vn/chinh-tri/thu-tuong-dang-huong-tuong-niem-cac-anh-hung-liet-si-tai-can-tho-post1295046.vov) - 03:48 26/05/2026
+- 🌝 [Thanh Hóa tiếp tục sáp nhập thôn, bản, tổ dân phố](https://vov.vn/chinh-tri/thanh-hoa-tiep-tuc-sap-nhap-thon-ban-to-dan-pho-post1295017.vov) - 03:30 26/05/2026
+- 🏊 [Toàn dân chống lãng phí năm 2026: “Tiết kiệm năng lượng, thịnh vượng tương lai”](https://vov.vn/chinh-tri/toan-dan-chong-lang-phi-nam-2026-tiet-kiem-nang-luong-thinh-vuong-tuong-lai-post1294957.vov) - 03:04 26/05/2026
+- 🧑‍💻 [Kỳ họp HĐND tỉnh Đắk Lắk: Chuyển hóa thành hành động và kết quả cụ thể](https://vov.vn/chinh-tri/ky-hop-hdnd-tinh-dak-lak-chuyen-hoa-thanh-hanh-dong-va-ket-qua-cu-the-post1295007.vov) - 02:35 26/05/2026<!-- vov-chinh-tri:END -->
