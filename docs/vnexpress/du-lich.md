@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Bên trong spa cho khách ngủ qua đêm ở Trung Quốc](https://vnexpress.net/ben-trong-spa-cho-khach-ngu-qua-dem-o-trung-quoc-5077132.html) - 02:29 24/05/2026
-- 🪄 [Mở tiệc DJ trong tiệm trà trăm tuổi](https://vnexpress.net/mo-tiec-dj-trong-tiem-tra-tram-tuoi-5077117.html) - 17:00 23/05/2026
-- 🦅 [10 món ăn đường phố bị chấm điểm thấp nhất Đông Nam Á](https://vnexpress.net/10-mon-an-duong-pho-bi-cham-diem-thap-nhat-dong-nam-a-5077369.html) - 14:27 23/05/2026
-- 🕴 [Món súp &#39;tử thần&#39; là đặc sản ở Hàn Quốc](https://vnexpress.net/mon-sup-tu-than-la-dac-san-o-han-quoc-5077350.html) - 13:30 23/05/2026
-- 👀 [Tỉnh nào diện tích được mở rộng qua các năm?](https://vnexpress.net/tinh-nao-dien-tich-duoc-mo-rong-qua-cac-nam-5077360.html) - 11:00 23/05/2026
-- 🎭 [Cẩm nang du lịch biển Dốc Lết](https://vnexpress.net/cam-nang-du-lich-bien-doc-let-5076752.html) - 04:13 23/05/2026
-- 🦒 [Sun PhuQuoc Airways mở đường bay đến Hong Kong](https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-hong-kong-5076549.html) - 01:00 23/05/2026
-- 👨‍🏫 [Vì sao dưa lưới Nhật lên tới 45.000 USD một cặp?](https://vnexpress.net/vi-sao-dua-luoi-nhat-len-toi-45-000-usd-mot-cap-5077139.html) - 23:00 22/05/2026
-- ⚗️ [Nhà leo núi lập kỷ lục 20 lần chinh phục Everest](https://vnexpress.net/nha-leo-nui-lap-ky-luc-20-lan-chinh-phuc-everest-5077189.html) - 16:32 22/05/2026
-- 🥸 [Khối đá cao 30 m như dáng người ngồi giữa rừng Gia Lai](https://vnexpress.net/khoi-da-cao-30-m-nhu-dang-nguoi-ngoi-giua-rung-gia-lai-5074709.html) - 13:30 22/05/2026
-- 🤠 [Sắp có lễ hội hè bên biển tại Vinhomes Green Paradise Cần Giờ](https://vnexpress.net/sap-co-le-hoi-he-ben-bien-tai-vinhomes-green-paradise-can-gio-5077161.html) - 13:00 22/05/2026
-- 🚀 [Bún ốc nguội không thể thiếu loại gia vị nào?](https://vnexpress.net/bun-oc-nguoi-khong-the-thieu-loai-gia-vi-nao-5077016.html) - 12:09 22/05/2026
-- 💻 [&#39;Ngọn lửa 1.200 năm&#39; bị nghi làm cháy rụi điện thờ ở Nhật Bản](https://vnexpress.net/ngon-lua-1-200-nam-bi-nghi-lam-chay-rui-dien-tho-o-nhat-ban-5077055.html) - 09:45 22/05/2026
-- 💼 [&#39;Bức tường cát&#39; có thể dẫn đến thảm kịch 5 khách Italy chết ở Maldives](https://vnexpress.net/buc-tuong-cat-co-the-dan-den-tham-kich-5-khach-italy-chet-o-maldives-5076956.html) - 05:09 22/05/2026
-- 🤡 [10 trải nghiệm hàng đầu thế giới 2026](https://vnexpress.net/10-trai-nghiem-hang-dau-the-gioi-2026-5075778.html) - 00:16 22/05/2026
-- 🐵 [Làng nào &#39;mắc võng&#39; cho bí đao khổng lồ ngủ?](https://vnexpress.net/lang-nao-mac-vong-cho-bi-dao-khong-lo-ngu-5076710.html) - 23:56 21/05/2026
-- 😺 [Thái Lan dự tính tăng thuế du lịch](https://vnexpress.net/thai-lan-du-tinh-tang-thue-du-lich-5076708.html) - 12:17 21/05/2026
-- 🌈 [Việt Nam lần đầu giành huy chương bạc đầu bếp toàn cầu](https://vnexpress.net/viet-nam-lan-dau-gianh-huy-chuong-bac-dau-bep-toan-cau-5076550.html) - 09:48 21/05/2026
-- ⚗️ [Chọn đúng chỗ ngồi trên máy bay](https://vnexpress.net/chon-dung-cho-ngoi-tren-may-bay-5076049.html) - 08:59 21/05/2026
-- 👀 [9 món Việt làm từ thịt lợn ngon nhất châu Á](https://vnexpress.net/9-mon-viet-lam-tu-thit-lon-ngon-nhat-chau-a-5076453.html) - 05:48 21/05/2026
-- 👍 [Vì sao đồ ăn Trung Quốc nhiều dầu mỡ?](https://vnexpress.net/vi-sao-do-an-trung-quoc-nhieu-dau-mo-5076070.html) - 04:53 21/05/2026
-- 💄 [Khách Việt đổi thói quen xê dịch](https://vnexpress.net/khach-viet-doi-thoi-quen-xe-dich-5076233.html) - 03:32 21/05/2026
-- 🥷 [Lặn dưới hồ bơi sâu nhất thế giới](https://vnexpress.net/lan-duoi-ho-boi-sau-nhat-the-gioi-5076256.html) - 00:31 21/05/2026
-- 📝 [Các nước châu Á siết cửa khẩu ngăn dịch Ebola](https://vnexpress.net/cac-nuoc-chau-a-siet-cua-khau-ngan-dich-ebola-5076267.html) - 14:26 20/05/2026
-- 🌜 [Du khách bị voi giẫm chết trong khu du lịch ở Ấn Độ](https://vnexpress.net/du-khach-bi-voi-giam-chet-trong-khu-du-lich-o-an-do-5076222.html) - 13:46 20/05/2026
-- 📝 [Sun PhuQuoc Airways mở đường bay đến Singapore](https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-singapore-5076095.html) - 08:30 20/05/2026
-- 🧰 [Nguyên nhân có thể dẫn đến thảm kịch 5 khách Italy chết ở Maldives](https://vnexpress.net/nguyen-nhan-co-the-dan-den-tham-kich-5-khach-italy-chet-o-maldives-5076073.html) - 06:34 20/05/2026
+- 💂 [Top 5 bãi biển giải nhiệt nắng nóng gần TP HCM và Hà Nội](https://vnexpress.net/top-5-bai-bien-giai-nhiet-nang-nong-gan-tp-hcm-va-ha-noi-5078414.html) - 14:15 26/05/2026
+- 🪄 [Món &#39;vịt guitar&#39; của bác sĩ gốc Việt thu hút thực khách Mỹ](https://vnexpress.net/mon-vit-guitar-cua-bac-si-goc-viet-thu-hut-thuc-khach-my-5078216.html) - 13:00 26/05/2026
+- 🦅 [Giải mã &#39;hầm băng&#39; làm mát Tử Cấm Thành](https://vnexpress.net/giai-ma-ham-bang-lam-mat-tu-cam-thanh-5078419.html) - 12:00 26/05/2026
+- 🕴 [Sun Bavaria Ha Long - tổ hợp ẩm thực lễ hội bên vịnh di sản](https://vnexpress.net/sun-bavaria-ha-long-to-hop-am-thuc-le-hoi-ben-vinh-di-san-5078289.html) - 11:00 26/05/2026
+- 👀 [World Cup 2026 không &#39;cứu nổi&#39; du lịch Mỹ](https://vnexpress.net/world-cup-2026-khong-cuu-noi-du-lich-my-5078295.html) - 09:36 26/05/2026
+- 🎭 [Ưu đãi gần 30% vé xem pháo hoa Đà Nẵng khi thanh toán qua Visa](https://vnexpress.net/uu-dai-gan-30-ve-xem-phao-hoa-da-nang-khi-thanh-toan-qua-visa-5078367.html) - 09:00 26/05/2026
+- 🦒 [Thảm kịch ở Maldives phơi bày rủi ro chết chóc của lặn hang](https://vnexpress.net/tham-kich-o-maldives-phoi-bay-rui-ro-chet-choc-cua-lan-hang-5078153.html) - 05:26 26/05/2026
+- 👨‍🏫 [Con đường hoa phượng nở đỏ rực ở miền Tây](https://vnexpress.net/con-duong-hoa-phuong-no-do-ruc-o-mien-tay-5077800.html) - 04:02 26/05/2026
+- ⚗️ [Chuỗi trải nghiệm giữa thiên nhiên tại TTC World - Thung lũng Tình yêu](https://vnexpress.net/chuoi-trai-nghiem-giua-thien-nhien-tai-ttc-world-thung-lung-tinh-yeu-5078053.html) - 01:00 26/05/2026
+- 🥸 [Thác Bản Giốc &#39;đẹp đến nghẹt thở&#39; trong mắt khách Đức 30 năm trước](https://vnexpress.net/thac-ban-gioc-dep-den-nghet-tho-trong-mat-khach-duc-30-nam-truoc-5077919.html) - 00:10 26/05/2026
+- 🤠 [Khách Việt đi du lịch Ai Cập không cần xin visa trước](https://vnexpress.net/khach-viet-di-du-lich-ai-cap-khong-can-xin-visa-truoc-5078066.html) - 12:07 25/05/2026
+- 🚀 [Khách Australia đổ đến Việt Nam không chỉ vì giá rẻ](https://vnexpress.net/khach-australia-do-den-viet-nam-khong-chi-vi-gia-re-5077920.html) - 08:47 25/05/2026
+- 💻 [Hai du khách bị sát hại ở vườn quốc gia lớn nhất Nam Phi](https://vnexpress.net/hai-du-khach-bi-sat-hai-o-vuon-quoc-gia-lon-nhat-nam-phi-5077783.html) - 04:58 25/05/2026
+- 💼 [10 điểm đến hấp dẫn nhất Đông Nam Á](https://vnexpress.net/10-diem-den-hap-dan-nhat-dong-nam-a-5077608.html) - 03:43 25/05/2026
+- 🤡 [Ký ức phượt xuyên Việt của du khách Đức 35 năm trước](https://vnexpress.net/ky-uc-phuot-xuyen-viet-cua-du-khach-duc-35-nam-truoc-5076242.html) - 02:51 25/05/2026
+- 🐵 [Xuyên rừng Cát Tiên khám phá khu dự trữ sinh quyển thế giới](https://vnexpress.net/xuyen-rung-cat-tien-kham-pha-khu-du-tru-sinh-quyen-the-gioi-5076003.html) - 00:00 25/05/2026
+- 😺 [Ga đường sắt Trung Quốc rộng bằng 170 sân bóng đá](https://vnexpress.net/ga-duong-sat-trung-quoc-rong-bang-170-san-bong-da-5077436.html) - 17:00 24/05/2026
+- 🌈 [Tránh để hộ chiếu trong hành lý xách tay](https://vnexpress.net/tranh-de-ho-chieu-trong-hanh-ly-xach-tay-5077509.html) - 11:59 24/05/2026
+- ⚗️ [Du khách đổ về thủ phủ mận Mộc Châu hái quả chín](https://vnexpress.net/du-khach-do-ve-thu-phu-man-moc-chau-hai-qua-chin-5077578.html) - 11:06 24/05/2026
+- 👀 [Hàng nghìn lồng đèn thắp sáng chùa Pháp Hoa dịp Phật đản](https://vnexpress.net/hang-nghin-long-den-thap-sang-chua-phap-hoa-dip-phat-dan-5077473.html) - 04:02 24/05/2026
+- 👍 [Bên trong spa cho khách ngủ qua đêm ở Trung Quốc](https://vnexpress.net/ben-trong-spa-cho-khach-ngu-qua-dem-o-trung-quoc-5077132.html) - 02:29 24/05/2026
+- 💄 [Mở tiệc DJ trong tiệm trà trăm tuổi](https://vnexpress.net/mo-tiec-dj-trong-tiem-tra-tram-tuoi-5077117.html) - 17:00 23/05/2026
+- 🥷 [10 món ăn đường phố bị chấm điểm thấp nhất Đông Nam Á](https://vnexpress.net/10-mon-an-duong-pho-bi-cham-diem-thap-nhat-dong-nam-a-5077369.html) - 14:27 23/05/2026
+- 📝 [Món súp &#39;tử thần&#39; là đặc sản ở Hàn Quốc](https://vnexpress.net/mon-sup-tu-than-la-dac-san-o-han-quoc-5077350.html) - 13:30 23/05/2026
+- 🌜 [Tỉnh nào diện tích được mở rộng qua các năm?](https://vnexpress.net/tinh-nao-dien-tich-duoc-mo-rong-qua-cac-nam-5077360.html) - 11:00 23/05/2026
+- 📝 [Cẩm nang du lịch biển Dốc Lết](https://vnexpress.net/cam-nang-du-lich-bien-doc-let-5076752.html) - 04:13 23/05/2026
+- 🧰 [Sun PhuQuoc Airways mở đường bay đến Hong Kong](https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-hong-kong-5076549.html) - 01:00 23/05/2026
+- 🎬 [Vì sao dưa lưới Nhật lên tới 45.000 USD một cặp?](https://vnexpress.net/vi-sao-dua-luoi-nhat-len-toi-45-000-usd-mot-cap-5077139.html) - 23:00 22/05/2026
+- 🧐 [Nhà leo núi lập kỷ lục 20 lần chinh phục Everest](https://vnexpress.net/nha-leo-nui-lap-ky-luc-20-lan-chinh-phuc-everest-5077189.html) - 16:32 22/05/2026
+- 👨‍🏫 [Khối đá cao 30 m như dáng người ngồi giữa rừng Gia Lai](https://vnexpress.net/khoi-da-cao-30-m-nhu-dang-nguoi-ngoi-giua-rung-gia-lai-5074709.html) - 13:30 22/05/2026
+- 🦣 [Sắp có lễ hội hè bên biển tại Vinhomes Green Paradise Cần Giờ](https://vnexpress.net/sap-co-le-hoi-he-ben-bien-tai-vinhomes-green-paradise-can-gio-5077161.html) - 13:00 22/05/2026
+- 🌋 [Bún ốc nguội không thể thiếu loại gia vị nào?](https://vnexpress.net/bun-oc-nguoi-khong-the-thieu-loai-gia-vi-nao-5077016.html) - 12:09 22/05/2026
+- 🦄 [&#39;Ngọn lửa 1.200 năm&#39; bị nghi làm cháy rụi điện thờ ở Nhật Bản](https://vnexpress.net/ngon-lua-1-200-nam-bi-nghi-lam-chay-rui-dien-tho-o-nhat-ban-5077055.html) - 09:45 22/05/2026
+- 💡 [&#39;Bức tường cát&#39; có thể dẫn đến thảm kịch 5 khách Italy chết ở Maldives](https://vnexpress.net/buc-tuong-cat-co-the-dan-den-tham-kich-5-khach-italy-chet-o-maldives-5076956.html) - 05:09 22/05/2026
+- 🌏 [10 trải nghiệm hàng đầu thế giới 2026](https://vnexpress.net/10-trai-nghiem-hang-dau-the-gioi-2026-5075778.html) - 00:16 22/05/2026
+- 💂 [Làng nào &#39;mắc võng&#39; cho bí đao khổng lồ ngủ?](https://vnexpress.net/lang-nao-mac-vong-cho-bi-dao-khong-lo-ngu-5076710.html) - 23:56 21/05/2026
+- 🤩 [Thái Lan dự tính tăng thuế du lịch](https://vnexpress.net/thai-lan-du-tinh-tang-thue-du-lich-5076708.html) - 12:17 21/05/2026
+- 💪 [Việt Nam lần đầu giành huy chương bạc đầu bếp toàn cầu](https://vnexpress.net/viet-nam-lan-dau-gianh-huy-chuong-bac-dau-bep-toan-cau-5076550.html) - 09:48 21/05/2026
+- 💻 [Chọn đúng chỗ ngồi trên máy bay](https://vnexpress.net/chon-dung-cho-ngoi-tren-may-bay-5076049.html) - 08:59 21/05/2026
+- 🧑‍💻 [9 món Việt làm từ thịt lợn ngon nhất châu Á](https://vnexpress.net/9-mon-viet-lam-tu-thit-lon-ngon-nhat-chau-a-5076453.html) - 05:48 21/05/2026
+- 🎭 [Vì sao đồ ăn Trung Quốc nhiều dầu mỡ?](https://vnexpress.net/vi-sao-do-an-trung-quoc-nhieu-dau-mo-5076070.html) - 04:53 21/05/2026
+- 🧐 [Khách Việt đổi thói quen xê dịch](https://vnexpress.net/khach-viet-doi-thoi-quen-xe-dich-5076233.html) - 03:32 21/05/2026
+- 💡 [Lặn dưới hồ bơi sâu nhất thế giới](https://vnexpress.net/lan-duoi-ho-boi-sau-nhat-the-gioi-5076256.html) - 00:31 21/05/2026
+- 🌊 [Các nước châu Á siết cửa khẩu ngăn dịch Ebola](https://vnexpress.net/cac-nuoc-chau-a-siet-cua-khau-ngan-dich-ebola-5076267.html) - 14:26 20/05/2026
+- 🎃 [Du khách bị voi giẫm chết trong khu du lịch ở Ấn Độ](https://vnexpress.net/du-khach-bi-voi-giam-chet-trong-khu-du-lich-o-an-do-5076222.html) - 13:46 20/05/2026
+- 🧠 [Sun PhuQuoc Airways mở đường bay đến Singapore](https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-singapore-5076095.html) - 08:30 20/05/2026
+- 💄 [Nguyên nhân có thể dẫn đến thảm kịch 5 khách Italy chết ở Maldives](https://vnexpress.net/nguyen-nhan-co-the-dan-den-tham-kich-5-khach-italy-chet-o-maldives-5076073.html) - 06:34 20/05/2026
 - 🎬 [Thái Lan huỷ chính sách miễn visa 60 ngày](https://vnexpress.net/thai-lan-huy-chinh-sach-mien-visa-60-ngay-5075987.html) - 05:12 20/05/2026
-- 🧐 [5 khách Italy thiệt mạng trong thảm kịch lặn ở Maldives](https://vnexpress.net/5-khach-italy-thiet-mang-trong-tham-kich-lan-o-maldives-5075955.html) - 03:32 20/05/2026
-- 👨‍🏫 [Thủ đô &#39;yên tĩnh&#39; ở Đông Nam Á](https://vnexpress.net/thu-do-yen-tinh-o-dong-nam-a-4991017.html) - 02:07 20/05/2026
-- 🦣 [Những khách sạn liền kề khu giải trí đêm tại Singapore](https://vnexpress.net/nhung-khach-san-lien-ke-khu-giai-tri-dem-tai-singapore-5075700.html) - 02:00 20/05/2026
-- 🌋 [Săn khoảnh khắc cá voi kiếm ăn ở cù lao Mái Nhà](https://vnexpress.net/san-khoanh-khac-ca-voi-kiem-an-o-cu-lao-mai-nha-5075533.html) - 08:29 19/05/2026
-- 🦄 [Hang động 15.000 năm tuổi đóng cửa vì &#39;sợ hơi thở của du khách&#39;](https://vnexpress.net/hang-dong-15-000-nam-tuoi-dong-cua-vi-so-hoi-tho-cua-du-khach-5075595.html) - 07:18 19/05/2026
-- 💡 [Đất nước người dân &#39;ăn&#39; Rolex thay vì đeo trên tay](https://vnexpress.net/dat-nuoc-nguoi-dan-an-rolex-thay-vi-deo-tren-tay-5075376.html) - 03:58 19/05/2026
-- 🌏 [Cẩm nang chiêm bái chùa Pháp Hoa ở TP HCM](https://vnexpress.net/cam-nang-chiem-bai-chua-phap-hoa-o-tp-hcm-5040156.html) - 01:10 19/05/2026
-- 💂 [Phong Nha sắp có khu nghỉ dưỡng wellness đạt chuẩn quốc tế](https://vnexpress.net/phong-nha-sap-co-khu-nghi-duong-wellness-dat-chuan-quoc-te-5075087.html) - 01:00 19/05/2026
-- 🤩 [Thủy thủ hải quân Canada trải nghiệm làm đèn lồng Hội An](https://vnexpress.net/thuy-thu-hai-quan-canada-trai-nghiem-lam-den-long-hoi-an-5075155.html) - 16:18 18/05/2026
-- 💪 [Tàu du lịch áp sát cá voi trên biển để chụp ảnh](https://vnexpress.net/tau-du-lich-ap-sat-ca-voi-tren-bien-de-chup-anh-5075183.html) - 10:34 18/05/2026
-- 💻 [Khách Mỹ bị bắt vì đột nhập chuồng &#39;chú khỉ cô đơn&#39; ở Nhật](https://vnexpress.net/khach-my-bi-bat-vi-dot-nhap-chuong-chu-khi-co-don-o-nhat-5075213.html) - 08:03 18/05/2026
-- 🧑‍💻 [Xe sâm dừa 40 năm hút khách &#39;giải nhiệt&#39; ở Cần Thơ](https://vnexpress.net/xe-sam-dua-40-nam-hut-khach-giai-nhiet-o-can-tho-5075130.html) - 08:00 18/05/2026
-- 🎭 [Trải nghiệm &#39;cho tiền không dám thử lại&#39; ở Thái Lan](https://vnexpress.net/trai-nghiem-cho-tien-khong-dam-thu-lai-o-thai-lan-5075115.html) - 07:29 18/05/2026
-- 🧐 [Nơi nào nổi tiếng với nghề nón ngựa hơn 300 năm tuổi?](https://vnexpress.net/noi-nao-noi-tieng-voi-nghe-non-ngua-hon-300-nam-tuoi-4936902.html) - 00:53 18/05/2026
-- 💡 [Khách Tây bất ngờ cách người Mông giữ nghề dệt vải](https://vnexpress.net/khach-tay-bat-ngo-cach-nguoi-mong-giu-nghe-det-vai-5050115.html) - 00:00 18/05/2026
-- 🌊 [Tháp Pisa nghiêng từ bao giờ?](https://vnexpress.net/thap-pisa-nghieng-tu-bao-gio-5056804.html) - 07:28 17/05/2026
-- 🎃 [Cuộc sống &#39;như mơ&#39; của một gia đình khi rời Mỹ](https://vnexpress.net/cuoc-song-nhu-mo-cua-mot-gia-dinh-khi-roi-my-5074850.html) - 05:04 17/05/2026
-- 🧠 [Cẩm nang du lịch đảo Cồn Cỏ](https://vnexpress.net/cam-nang-du-lich-dao-con-co-5074347.html) - 01:57 17/05/2026
-- 💄 [Khách sạn mùa World Cup 2026 có nguy cơ ế phòng](https://vnexpress.net/khach-san-mua-world-cup-2026-co-nguy-co-e-phong-5074624.html) - 01:24 17/05/2026
-- 🎬 [Diều khổng lồ bay trên quảng trường ở Cà Mau](https://vnexpress.net/dieu-khong-lo-bay-tren-quang-truong-o-ca-mau-5074742.html) - 14:23 16/05/2026
-- 🐻 [Quán mì bình dân tỷ phú Jensen Huang ghé ăn ở Bắc Kinh](https://vnexpress.net/quan-mi-binh-dan-ty-phu-jensen-huang-ghe-an-o-bac-kinh-5074716.html) - 13:00 16/05/2026
-- 🌝 [Đảo hoang thành &#39;quốc gia AI&#39; đầu tiên trên thế giới](https://vnexpress.net/dao-hoang-thanh-quoc-gia-ai-dau-tien-tren-the-gioi-5074697.html) - 09:12 16/05/2026
-- 🤩 [Khách bị cấm đến di sản UNESCO vì trêu chọc khỉ](https://vnexpress.net/khach-bi-cam-den-di-san-unesco-vi-treu-choc-khi-5074268.html) - 08:23 16/05/2026
-- 🎬 [Khách Việt thấp thỏm sợ bị huỷ chuyến bay Trung Quốc](https://vnexpress.net/khach-viet-thap-thom-so-bi-huy-chuyen-bay-trung-quoc-5074484.html) - 01:35 16/05/2026
-- 🦩 [Những bức ảnh thiên nhiên đẹp nhất thế giới năm 2026](https://vnexpress.net/nhung-buc-anh-thien-nhien-dep-nhat-the-gioi-nam-2026-5074406.html) - 00:43 16/05/2026
-- 🦍 [Khách đập phá cổng nhập cảnh tự động ở sân bay Thái Lan](https://vnexpress.net/khach-dap-pha-cong-nhap-canh-tu-dong-o-san-bay-thai-lan-5074450.html) - 12:30 15/05/2026
-- 👀 [Cô gái bỏ việc theo cha phượt xe máy xuyên Việt - Lào](https://vnexpress.net/co-gai-bo-viec-theo-cha-phuot-xe-may-xuyen-viet-lao-5069210.html) - 12:24 15/05/2026
-- 🧰 [Du khách bị bắt vì ném đá vào đầu động vật quý](https://vnexpress.net/du-khach-bi-bat-vi-nem-da-vao-dau-dong-vat-quy-5074282.html) - 05:30 15/05/2026
-- 🕯 [Cộng đồng ở Ấn Độ xăm tên thần linh lên kín mặt](https://vnexpress.net/cong-dong-o-an-do-xam-ten-than-linh-len-kin-mat-5073948.html) - 04:59 15/05/2026
-- 👍 [Món sinh tố ếch sống tại Peru](https://vnexpress.net/mon-sinh-to-ech-song-tai-peru-5073787.html) - 01:00 15/05/2026
-- 😎 [Sân vận động đầu tiên ba lần tổ chức lễ khai mạc World Cup](https://vnexpress.net/san-van-dong-dau-tien-ba-lan-to-chuc-le-khai-mac-world-cup-5073042.html) - 00:08 15/05/2026
-- 🐘 [Khách châu Âu chọn Trung Quốc thay thế cho Đông Nam Á](https://vnexpress.net/khach-chau-au-chon-trung-quoc-thay-the-cho-dong-nam-a-5073879.html) - 12:29 14/05/2026<!-- vnexpress-du-lich:END -->
+- 🐻 [5 khách Italy thiệt mạng trong thảm kịch lặn ở Maldives](https://vnexpress.net/5-khach-italy-thiet-mang-trong-tham-kich-lan-o-maldives-5075955.html) - 03:32 20/05/2026
+- 🌝 [Thủ đô &#39;yên tĩnh&#39; ở Đông Nam Á](https://vnexpress.net/thu-do-yen-tinh-o-dong-nam-a-4991017.html) - 02:07 20/05/2026
+- 🤩 [Những khách sạn liền kề khu giải trí đêm tại Singapore](https://vnexpress.net/nhung-khach-san-lien-ke-khu-giai-tri-dem-tai-singapore-5075700.html) - 02:00 20/05/2026
+- 🎬 [Săn khoảnh khắc cá voi kiếm ăn ở cù lao Mái Nhà](https://vnexpress.net/san-khoanh-khac-ca-voi-kiem-an-o-cu-lao-mai-nha-5075533.html) - 08:29 19/05/2026
+- 🦩 [Hang động 15.000 năm tuổi đóng cửa vì &#39;sợ hơi thở của du khách&#39;](https://vnexpress.net/hang-dong-15-000-nam-tuoi-dong-cua-vi-so-hoi-tho-cua-du-khach-5075595.html) - 07:18 19/05/2026
+- 🦍 [Đất nước người dân &#39;ăn&#39; Rolex thay vì đeo trên tay](https://vnexpress.net/dat-nuoc-nguoi-dan-an-rolex-thay-vi-deo-tren-tay-5075376.html) - 03:58 19/05/2026
+- 👀 [Cẩm nang chiêm bái chùa Pháp Hoa ở TP HCM](https://vnexpress.net/cam-nang-chiem-bai-chua-phap-hoa-o-tp-hcm-5040156.html) - 01:10 19/05/2026
+- 🧰 [Phong Nha sắp có khu nghỉ dưỡng wellness đạt chuẩn quốc tế](https://vnexpress.net/phong-nha-sap-co-khu-nghi-duong-wellness-dat-chuan-quoc-te-5075087.html) - 01:00 19/05/2026
+- 🕯 [Thủy thủ hải quân Canada trải nghiệm làm đèn lồng Hội An](https://vnexpress.net/thuy-thu-hai-quan-canada-trai-nghiem-lam-den-long-hoi-an-5075155.html) - 16:18 18/05/2026
+- 👍 [Tàu du lịch áp sát cá voi trên biển để chụp ảnh](https://vnexpress.net/tau-du-lich-ap-sat-ca-voi-tren-bien-de-chup-anh-5075183.html) - 10:34 18/05/2026
+- 😎 [Khách Mỹ bị bắt vì đột nhập chuồng &#39;chú khỉ cô đơn&#39; ở Nhật](https://vnexpress.net/khach-my-bi-bat-vi-dot-nhap-chuong-chu-khi-co-don-o-nhat-5075213.html) - 08:03 18/05/2026
+- 🐘 [Xe sâm dừa 40 năm hút khách &#39;giải nhiệt&#39; ở Cần Thơ](https://vnexpress.net/xe-sam-dua-40-nam-hut-khach-giai-nhiet-o-can-tho-5075130.html) - 08:00 18/05/2026<!-- vnexpress-du-lich:END -->
