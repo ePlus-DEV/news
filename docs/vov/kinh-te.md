@@ -58,8 +58,8 @@ sidebar_position: 4
 - 💃 [Hiệp hội doanh nghiệp “ngồi lại” tìm lực đẩy mới cho doanh nghiệp Việt](https://vov.vn/kinh-te/hiep-hoi-doanh-nghiep-ngoi-lai-tim-luc-day-moi-cho-doanh-nghiep-viet-post1294714.vov) - 03:54 25/05/2026
 - ⚗️ [Gần 78% hộ, cá nhân kinh doanh ở Cần Thơ sử dụng ứng dụng eTax Mobile](https://vov.vn/kinh-te/gan-78-ho-ca-nhan-kinh-doanh-o-can-tho-su-dung-ung-dung-etax-mobile-post1294681.vov) - 02:40 25/05/2026
 - 🕴 [Sunshine Group xây trung tâm R&amp;amp;D 4 tỷ USD tại Đồng Nai](https://vov.vn/kinh-te/bat-dong-san/sunshine-group-xay-trung-tam-rd-4-ty-usd-tai-dong-nai-post1294400.vov) - 01:01 25/05/2026
-- 🦒 [Trồng loại quả lạ thơm mùi dứa, nông dân miền Tây đổi đời sau vài vụ](https://vov.vn/kinh-te/trong-loai-qua-la-thom-mui-dua-nong-dan-mien-tay-doi-doi-sau-vai-vu-post1294565.vov) - 23:00 24/05/2026
-- 🕴 [TP.HCM gỡ vướng cấp sổ hồng: Không thể “hợp thức hóa” sai phạm của chủ đầu tư](https://vov.vn/kinh-te/tphcm-go-vuong-cap-so-hong-khong-the-hop-thuc-hoa-sai-pham-cua-chu-dau-tu-post1294544.vov) - 23:00 24/05/2026
+- 🦒 [TP.HCM gỡ vướng cấp sổ hồng: Không thể “hợp thức hóa” sai phạm của chủ đầu tư](https://vov.vn/kinh-te/tphcm-go-vuong-cap-so-hong-khong-the-hop-thuc-hoa-sai-pham-cua-chu-dau-tu-post1294544.vov) - 23:00 24/05/2026
+- 🕴 [Trồng loại quả lạ thơm mùi dứa, nông dân miền Tây đổi đời sau vài vụ](https://vov.vn/kinh-te/trong-loai-qua-la-thom-mui-dua-nong-dan-mien-tay-doi-doi-sau-vai-vu-post1294565.vov) - 23:00 24/05/2026
 - 🤗 [Kỳ tích giải phóng mặt bằng các dự án cao tốc trọng điểm ở Đồng Nai](https://vov.vn/kinh-te/ky-tich-giai-phong-mat-bang-cac-du-an-cao-toc-trong-diem-o-dong-nai-post1294577.vov) - 11:31 24/05/2026
 - 🦄 [TP HCM: SAWACO lãi lớn, dân Nhà Bè vẫn khổ vì thiếu nước sạch](https://vov.vn/kinh-te/tp-hcm-sawaco-lai-lon-dan-nha-be-van-kho-vi-thieu-nuoc-sach-post1294543.vov) - 08:09 24/05/2026
 - 🥳 [Điều chỉnh Quy hoạch 6 vùng kinh tế - xã hội: Định hình lại không gian phát triển](https://vov.vn/kinh-te/dieu-chinh-quy-hoach-6-vung-kinh-te-xa-hoi-dinh-hinh-lai-khong-gian-phat-trien-post1294535.vov) - 07:00 24/05/2026
