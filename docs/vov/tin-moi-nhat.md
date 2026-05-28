@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Trước giờ G thi lớp 10 ở Hà Nội: Những lỗi nhỏ dễ khiến thí sinh mất điểm oan](https://vov.vn/xa-hoi/truoc-gio-g-thi-lop-10-o-ha-noi-nhung-loi-nho-de-khien-thi-sinh-mat-diem-oan-post1295381.vov) - 23:18 27/05/2026
-- 🦍 [Ukraine ồ ạt tập kích UAV vào lãnh thổ Nga, NATO bất ngờ “chịu trận”](https://vov.vn/the-gioi/quan-sat/ukraine-o-at-tap-kich-uav-vao-lanh-tho-nga-nato-bat-ngo-chiu-tran-post1295371.vov) - 23:15 27/05/2026
-- 🦏 [Sáp nhập thôn xóm: Định hình chân dung trưởng thôn đáp ứng yêu cầu mới](https://vov.vn/chinh-tri/sap-nhap-thon-xom-dinh-hinh-chan-dung-truong-thon-dap-ung-yeu-cau-moi-post1295430.vov) - 23:10 27/05/2026
-- 😎 [Danh sách thành viên Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, lãng phí, tiêu cực](https://vov.vn/chinh-tri/danh-sach-thanh-vien-ban-chi-dao-trung-uong-ve-phong-chong-tham-nhung-lang-phi-tieu-cuc-post1295568.vov) - 23:00 27/05/2026
-- 💯 [“Quốc phòng mạnh để kiến tạo và bảo vệ không gian phát triển của đất nước”](https://vov.vn/chinh-tri/quoc-phong-manh-de-kien-tao-va-bao-ve-khong-gian-phat-trien-cua-dat-nuoc-post1295532.vov) - 23:00 27/05/2026
-- 🦩 [Góc khuất bạo lực học đường: Khi cái ác lộng hành ngay trong lớp học](https://vov.vn/xa-hoi/goc-khuat-bao-luc-hoc-duong-khi-cai-ac-long-hanh-ngay-trong-lop-hoc-post1295497.vov) - 23:00 27/05/2026
-- 💃 [Chuyên cơ Tổng thống Mỹ chống chịu đòn tấn công hạt nhân như thế nào?](https://vov.vn/the-gioi/ho-so/chuyen-co-tong-thong-my-chong-chiu-don-tan-cong-hat-nhan-nhu-the-nao-post1295533.vov) - 22:45 27/05/2026
-- 🦣 [Khoa học cơ bản: “Bộ rễ” quyết định sức bật của nền kinh tế](https://vov.vn/chinh-tri/khoa-hoc-co-ban-bo-re-quyet-dinh-suc-bat-cua-nen-kinh-te-post1295444.vov) - 22:30 27/05/2026
-- 👹 [&amp;quot;Singapore và Việt Nam đưa quan hệ song phương bước sang một giai đoạn mới&amp;quot;](https://vov.vn/chinh-tri/singapore-va-viet-nam-dua-quan-he-song-phuong-buoc-sang-mot-giai-doan-moi-post1295597.vov) - 22:00 27/05/2026
-- 🫶 [&amp;quot;Singapore và Việt Nam đưa quan hệ song phương bước sang một giai đoạn mới&amp;quot;](https://vov.vn/chinh-tri/singapore-va-viet-nam-dua-quan-he-song-phuong-buoc-sang-mot-giai-doan-moi-post1295597.vov) - 22:00 27/05/2026
-- 😺 [Trước ngưỡng cửa đặc xá, phạm nhân khát vọng trở thành công dân tốt](https://vov.vn/phap-luat/truoc-nguong-cua-dac-xa-pham-nhan-khat-vong-tro-thanh-cong-dan-tot-post1295113.vov) - 22:00 27/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Chính phủ hỗ trợ tiền ăn và gạo cho học sinh nội trú](https://vov.vn/chinh-tri/chinh-phu-ho-tro-tien-an-va-gao-cho-hoc-sinh-noi-tru-post1295907.vov) - 16:09 28/05/2026
+- 🦍 [Thủ tướng yêu cầu xử lý nghiêm hoạt động du lịch “chui”, “chặt chém” du khách](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-xu-ly-nghiem-hoat-dong-du-lich-chui-chat-chem-du-khach-post1295889.vov) - 14:15 28/05/2026
+- 🦏 [Việt Nam - Thái Lan: Khơi mở không gian kinh tế chung 1.100 tỷ USD](https://vov.vn/chinh-tri/viet-nam-thai-lan-khoi-mo-khong-gian-kinh-te-chung-1100-ty-usd-post1295890.vov) - 14:15 28/05/2026
+- 😎 [Quan hệ Việt Nam - Philippines: Dấu mốc lịch sử với kỳ vọng tạo ra đột phá](https://vov.vn/chinh-tri/quan-he-viet-nam-philippines-dau-moc-lich-su-voi-ky-vong-tao-ra-dot-pha-post1295754.vov) - 13:06 28/05/2026
+- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Nhà Vua và Hoàng hậu Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-nha-vua-va-hoang-hau-thai-lan-post1295864.vov) - 12:49 28/05/2026
+- 🦩 [Hà Nội đón mưa giải nhiệt sau chuỗi ngày oi nóng kéo dài](https://vov.vn/xa-hoi/ha-noi-don-mua-giai-nhiet-sau-chuoi-ngay-oi-nong-keo-dai-post1295862.vov) - 12:36 28/05/2026
+- 💃 [Luật Đô thị đặc biệt - không nên ngập ngừng thí điểm](https://vov.vn/chinh-tri/luat-do-thi-dac-biet-khong-nen-ngap-ngung-thi-diem-post1295861.vov) - 12:28 28/05/2026
+- 🦣 [Sao Khuê 2026 ghi dấu bước chuyển của doanh nghiệp công nghệ Việt](https://vov.vn/xa-hoi/sao-khue-2026-ghi-dau-buoc-chuyen-cua-doanh-nghiep-cong-nghe-viet-post1295854.vov) - 11:46 28/05/2026
+- 👹 [Phó Thủ tướng Nguyễn Văn Thắng: Việt Nam hướng tới thu hút công nghệ, tri thức](https://vov.vn/kinh-te/pho-thu-tuong-nguyen-van-thang-viet-nam-huong-toi-thu-hut-cong-nghe-tri-thuc-post1295845.vov) - 11:39 28/05/2026
+- 🫶 [Chủ tịch Quốc hội: Chính sách dân tộc được thể hiện đầy đủ, trong từng dự án luật](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-chinh-sach-dan-toc-duoc-the-hien-day-du-trong-tung-du-an-luat-post1295847.vov) - 11:26 28/05/2026
+- 😺 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo một số tập đoàn tại Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-mot-so-tap-doan-tai-thai-lan-post1295838.vov) - 10:54 28/05/2026<!-- vov-tin-moi-nhat:END -->
