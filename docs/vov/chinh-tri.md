@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Đoàn kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư làm việc với tỉnh Quảng Trị](https://vov.vn/chinh-tri/doan-kiem-tra-giam-sat-cua-bo-chinh-tri-ban-bi-thu-lam-viec-voi-tinh-quang-tri-post1295534.vov) - 11:13 27/05/2026
-- 💃 [Hội nghị HĐND toàn quốc được tổ chức trực tiếp và trực tuyến tại 33 điểm cầu](https://vov.vn/chinh-tri/hoi-nghi-hdnd-toan-quoc-duoc-to-chuc-truc-tiep-va-truc-tuyen-tai-33-diem-cau-post1295492.vov) - 10:53 27/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm tới Bangkok tiếp tục chương trình thăm chính thức Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-toi-bangkok-tiep-tuc-chuong-trinh-tham-chinh-thuc-thai-lan-post1295514.vov) - 10:34 27/05/2026
-- 👨‍🏫 [Thái Lan hiện là đối tác thương mại lớn nhất của Việt Nam trong ASEAN](https://vov.vn/chinh-tri/thai-lan-hien-la-doi-tac-thuong-mai-lon-nhat-cua-viet-nam-trong-asean-post1295513.vov) - 10:24 27/05/2026
-- 🪜 [Mô hình chính quyền địa phương 2 cấp ở Lai Châu vận hành ổn định, hiệu quả](https://vov.vn/chinh-tri/mo-hinh-chinh-quyen-dia-phuong-2-cap-o-lai-chau-van-hanh-on-dinh-hieu-qua-post1295488.vov) - 09:45 27/05/2026
-- 🌋 [Việt Nam vẫn là đối tác chiến lược duy nhất của Philippines tại Đông Nam Á](https://vov.vn/chinh-tri/viet-nam-van-la-doi-tac-chien-luoc-duy-nhat-cua-philippines-tai-dong-nam-a-post1295481.vov) - 09:34 27/05/2026
-- 🎉 [Kinh tế thị trường định hướng XHCN: Nhất quán lấy con người làm trung tâm](https://vov.vn/chinh-tri/kinh-te-thi-truong-dinh-huong-xhcn-nhat-quan-lay-con-nguoi-lam-trung-tam-post1295467.vov) - 09:20 27/05/2026
-- 🌝 [Phó Thủ tướng Phạm Thị Thanh Trà làm việc với Ban Thường vụ Tỉnh ủy Điện Biên](https://vov.vn/chinh-tri/pho-thu-tuong-pham-thi-thanh-tra-lam-viec-voi-ban-thuong-vu-tinh-uy-dien-bien-post1295475.vov) - 09:18 27/05/2026
-- 🏊 [Ninh Bình có tân Bí thư Đảng ủy Các cơ quan Đảng tỉnh](https://vov.vn/chinh-tri/ninh-binh-co-tan-bi-thu-dang-uy-cac-co-quan-dang-tinh-post1295472.vov) - 09:16 27/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng  người Việt Nam tại Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-thai-lan-post1295463.vov) - 08:46 27/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Thái Lan hội đàm](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-thu-tuong-thai-lan-hoi-dam-post1295691.vov) - 05:07 28/05/2026
+- 💃 [&amp;quot;HĐND thành phố Hà Nội cam kết sẽ tiên phong thí điểm các mô hình mới&amp;quot;](https://vov.vn/chinh-tri/hdnd-thanh-pho-ha-noi-cam-ket-se-tien-phong-thi-diem-cac-mo-hinh-moi-post1295617.vov) - 04:58 28/05/2026
+- 🫶 [Anh Y Lê Pas Tơr tiếp tục giữ chức Chủ tịch Hội LHTN Việt Nam tỉnh Đắk Lắk khóa X](https://vov.vn/chinh-tri/anh-y-le-pas-tor-tiep-tuc-giu-chuc-chu-tich-hoi-lhtn-viet-nam-tinh-dak-lak-khoa-x-post1295663.vov) - 04:23 28/05/2026
+- 👨‍🏫 [“Bộ, ngành phải chủ động và sâu sát hơn với địa phương”](https://vov.vn/chinh-tri/bo-nganh-phai-chu-dong-va-sau-sat-hon-voi-dia-phuong-post1295670.vov) - 04:07 28/05/2026
+- 🪜 [Làm rõ vai trò của người đứng đầu khi xảy ra hành vi tham nhũng](https://vov.vn/chinh-tri/lam-ro-vai-tro-cua-nguoi-dung-dau-khi-xay-ra-hanh-vi-tham-nhung-post1295627.vov) - 04:04 28/05/2026
+- 🌋 [Thường trực Ban Bí thư: HĐND phải kiểm soát chặt chẽ quyền lực ở địa phương](https://vov.vn/chinh-tri/thuong-truc-ban-bi-thu-hdnd-phai-kiem-soat-chat-che-quyen-luc-o-dia-phuong-post1295667.vov) - 04:00 28/05/2026
+- 🎉 [Thủ tướng Thái Lan chủ trì lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân](https://vov.vn/chinh-tri/thu-tuong-thai-lan-chu-tri-le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-post1295672.vov) - 03:50 28/05/2026
+- 🌝 [Hình ảnh Thủ tướng Thái Lan chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Phu nhân](https://vov.vn/chinh-tri/hinh-anh-thu-tuong-thai-lan-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-cung-phu-nhan-post1295666.vov) - 03:23 28/05/2026
+- 🏊 [Thái Lan chuẩn bị lễ đón chính thức Tổng Bí thư, Chủ tịch nước Tô Lâm tại Bangkok](https://vov.vn/chinh-tri/thai-lan-chuan-bi-le-don-chinh-thuc-tong-bi-thu-chu-tich-nuoc-to-lam-tai-bangkok-post1295634.vov) - 02:52 28/05/2026
+- 🧑‍💻 [40 xã, phường ở Lào Cai sẽ có Phòng Nông nghiệp và Môi trường](https://vov.vn/chinh-tri/40-xa-phuong-o-lao-cai-se-co-phong-nong-nghiep-va-moi-truong-post1295664.vov) - 02:51 28/05/2026<!-- vov-chinh-tri:END -->
