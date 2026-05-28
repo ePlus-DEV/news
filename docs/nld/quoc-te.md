@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- nld-quoc-te:START -->
-- 💡 [Chiến sự Trung Đông 27-5: IRGC đòi biến bờ biển thành &quot;nghĩa địa&quot;, Hàn Quốc tố Iran bắn tàu](https://nld.com.vn/chien-su-trung-dong-27-5-irgc-doi-bien-bo-bien-thanh-nghia-dia-han-quoc-to-iran-ban-tau-196260527164259084.htm) - 12:40 27/05/2026
-- 🎬 [VIDEO: Bộ trưởng Y tế Mỹ tay không bắt cặp rắn racer đen](https://nld.com.vn/video-bo-truong-y-te-my-tay-khong-bat-cap-ran-racer-den-196260527155323509.htm) - 09:15 27/05/2026
-- 😺 [Mỹ triển khai lực lượng kỷ lục tại Israel; tân thủ lĩnh vũ trang Hamas bị hạ sát](https://nld.com.vn/my-trien-khai-luc-luong-ky-luc-tai-israel-tan-thu-linh-vu-trang-hamas-bi-ha-sat-196260527142450131.htm) - 08:29 27/05/2026
-- 🚦 [VIDEO: Khoảnh khắc kinh hoàng trong vụ nổ mỏ than ở Sơn Tây - Trung Quốc](https://nld.com.vn/video-khoanh-khac-kinh-hoang-trong-vu-no-mo-than-o-son-tay-trung-quoc-19626052621333202.htm) - 06:56 27/05/2026
-- 🚦 [Mặt trăng lớn hơn cả hành tinh đang &quot;sống&quot; theo cách độc đáo](https://nld.com.vn/mat-trang-lon-hon-ca-hanh-tinh-dang-song-theo-cach-doc-dao-196260527114136619.htm) - 04:50 27/05/2026
-- 💡 [Nga tiết lộ loạt mục tiêu mới ở thủ đô Kiev ở Ukraine](https://nld.com.vn/nga-tiet-lo-loat-muc-tieu-moi-o-thu-do-kiev-o-ukraine-19626052709041887.htm) - 03:31 27/05/2026
-- 🤓 [Sập bồn hóa chất tại Mỹ, tình hình nguy hiểm](https://nld.com.vn/sap-bon-hoa-chat-tai-my-tinh-hinh-nguy-hiem-196260527085312464.htm) - 02:10 27/05/2026
-- 🎃 [Độ ẩm 100% biến Vũ Hán - Trung Quốc thành “Thủy Liêm Động”](https://nld.com.vn/do-am-100-bien-vu-han-trung-quoc-thanh-thuy-liem-dong-196260526180612447.htm) - 01:14 27/05/2026
-- 🧑‍💻 [Nhà lãnh đạo Triều Tiên đích thân giám sát thử nghiệm loạt vũ khí trọng yếu](https://nld.com.vn/nha-lanh-dao-trieu-tien-dich-than-giam-sat-thu-nghiem-loat-vu-khi-trong-yeu-196260527070145832.htm) - 00:35 27/05/2026
-- 💄 [Việt Nam - Thái Lan hướng tới những tầm cao mới](https://nld.com.vn/viet-nam-thai-lan-huong-toi-nhung-tam-cao-moi-196260526213213589.htm) - 00:10 27/05/2026
-- 👀 [Nhóm &quot;Bộ tứ&quot; tăng cường hợp tác giám sát hàng hải](https://nld.com.vn/nhom-bo-tu-tang-cuong-hop-tac-giam-sat-hang-hai-196260526213412777.htm) - 23:08 26/05/2026
-- 🤩 [Điểm nóng xung đột ngày 27-5: Đàm phán Iran - Mỹ &quot;ngoài cứng trong mềm&quot;?](https://nld.com.vn/diem-nong-xung-dot-ngay-27-5-dam-phan-iran-my-ngoai-cung-trong-mem-196260525184146093.htm) - 22:48 26/05/2026
-- 🤖 [Cảnh báo đáng lo về dịch Ebola](https://nld.com.vn/canh-bao-dang-lo-ve-dich-ebola-19626052621365632.htm) - 22:10 26/05/2026
-- 👨‍🏫 [Chiến sự Trung Đông ngày 26-5: Iran tuyên bố Mỹ không còn &quot;nơi trú ẩn an toàn&quot;](https://nld.com.vn/chien-su-trung-dong-ngay-26-5-iran-tuyen-bo-my-khong-con-noi-tru-an-an-toan-196260526155833448.htm) - 11:29 26/05/2026
-- 🥳 [Iran tuyên bố bắn rơi MQ-9 Reaper, đẩy lùi F-35 của Mỹ, Lãnh tụ Tối cao cảnh báo đanh thép](https://nld.com.vn/iran-tuyen-bo-ban-roi-mq-9-reaper-day-lui-f-35-cua-my-lanh-tu-toi-cao-canh-bao-danh-thep-196260526161253316.htm) - 09:54 26/05/2026
-- 🎭 [Nhiều nước lớn trong NATO nói &quot;không” với tăng viện trợ quân sự cho Ukraine](https://nld.com.vn/nhieu-nuoc-lon-trong-nato-noi-khong-voi-tang-vien-tro-quan-su-cho-ukraine-19626052517371101.htm) - 07:06 26/05/2026
-- 🚀 [Những ngôi sao này có thể là cấu trúc ngoài hành tinh](https://nld.com.vn/nhung-ngoi-sao-nay-co-the-la-cau-truc-ngoai-hanh-tinh-196260526112433452.htm) - 05:57 26/05/2026
-- 🪜 [&quot;Tàu ma&quot; chở nặng kho báu lộ diện sau 4 thế kỷ](https://nld.com.vn/tau-ma-cho-nang-kho-bau-lo-dien-sau-4-the-ky-19626052610083048.htm) - 03:44 26/05/2026
-- 🌋 [Thông tin mới về vụ rò rỉ hóa chất ở quận Cam](https://nld.com.vn/thong-tin-moi-ve-vu-ro-ri-hoa-chat-o-quan-cam-196260526091158396.htm) - 02:46 26/05/2026
-- 🤔 [Số phận kho uranium làm giàu Iran sau tuyên bố mới nhất của ông Donald Trump](https://nld.com.vn/so-phan-kho-uranium-lam-giau-iran-sau-tuyen-bo-moi-nhat-cua-ong-donald-trump-196260526074831864.htm) - 01:06 26/05/2026
-- 🥳 [Nóng: Iran tấn công tàu trên biển, Mỹ không kích ở vịnh Ba Tư](https://nld.com.vn/nong-iran-tan-cong-tau-tren-bien-my-khong-kich-o-vinh-ba-tu-196260526065606755.htm) - 00:28 26/05/2026
-- 👺 [Sứ mệnh không gian đáng chú ý của Trung Quốc](https://nld.com.vn/su-menh-khong-gian-dang-chu-y-cua-trung-quoc-196260525213539462.htm) - 22:00 25/05/2026
-- ⛽️ [Dự trữ dầu toàn cầu lao dốc](https://nld.com.vn/du-tru-dau-toan-cau-lao-doc-196260525213424613.htm) - 22:00 25/05/2026
-- 🎉 [Điểm nóng xung đột ngày 26-5: Hé lộ trở ngại chặn đường thỏa thuận hòa bình Mỹ - Iran](https://nld.com.vn/diem-nong-xung-dot-ngay-26-5-he-lo-tro-ngai-chan-duong-thoa-thuan-hoa-binh-my-iran-196260525200709407.htm) - 21:34 25/05/2026
-- ⚗️ [Chiến sự Trung Đông ngày 25-5: Iran &quot;đáp lời&quot; ông Donald Trump, bác việc thu phí Hormuz](https://nld.com.vn/chien-su-trung-dong-ngay-25-5-iran-dap-loi-ong-donald-trump-bac-viec-thu-phi-hormuz-196260525164332213.htm) - 11:26 25/05/2026
-- 🎡 [Một vật thể lạc loài ẩn giữa 16 mặt trăng Sao Hải Vương](https://nld.com.vn/mot-vat-the-lac-loai-an-giua-16-mat-trang-sao-hai-vuong-196260525110842038.htm) - 05:37 25/05/2026
-- 🪜 [Vụ rò rỉ hóa chất ở quận Cam: Thống đốc California gửi thông điệp đến ông Donald Trump](https://nld.com.vn/vu-ro-ri-hoa-chat-o-quan-cam-thong-doc-california-gui-thong-diep-den-ong-donald-trump-196260525113022981.htm) - 05:05 25/05/2026
-- 🐘 [&quot;Cầu pha lê tử thần&quot; hiện ra giữa trời](https://nld.com.vn/cau-pha-le-tu-than-hien-ra-giua-troi-196260525094039578.htm) - 02:48 25/05/2026
-- 🦣 [Tổng thống Mỹ bảo vệ thỏa thuận với Iran, Lãnh tụ Tối cao có quyết định quan trọng?](https://nld.com.vn/tong-thong-my-bao-ve-thoa-thuan-voi-iran-lanh-tu-toi-cao-co-quyet-dinh-quan-trong-196260525081424343.htm) - 01:41 25/05/2026
-- 📝 [Mưa lũ kinh hoàng trên diện rộng ở Trung Quốc](https://nld.com.vn/mua-lu-kinh-hoang-tren-dien-rong-o-trung-quoc-196260525071950637.htm) - 00:50 25/05/2026
-- 🙉 [Điểm nóng xung đột ngày 25-5: Ukraine sắp &quot;hạ được 1.000 UAV cùng lúc&quot;](https://nld.com.vn/diem-nong-xung-dot-ngay-25-5-ukraine-sap-ha-duoc-1000-uav-cung-luc-196260524165508534.htm) - 21:30 24/05/2026
-- 🚀 [Diễn biến tích cực ở Trung Đông](https://nld.com.vn/dien-bien-tich-cuc-o-trung-dong-196260524211142146.htm) - 20:14 24/05/2026
-- 💻 [Biến rác thải nhà bếp thành đất](https://nld.com.vn/bien-rac-thai-nha-bep-thanh-dat-196260524211302059.htm) - 17:14 24/05/2026
-- 🧑‍💻 [Chiến sự Trung Đông ngày 24-5: Mỹ nói sắp có &quot;tin tốt&quot;, Iran còn chờ Lãnh đạo Tối cao](https://nld.com.vn/chien-su-trung-dong-ngay-24-5-my-noi-sap-co-tin-tot-iran-con-cho-lao-dao-toi-cao-196260524170422045.htm) - 12:34 24/05/2026
-- 💃 [Iran đang thắng thế trên bàn đàm phán với Mỹ?](https://nld.com.vn/iran-dang-thang-the-tren-ban-dam-phan-voi-my-196260524161528327.htm) - 10:42 24/05/2026
-- 💡 [Tội ác của &quot;gia tộc tội phạm&quot; họ Ngụy: Giết người để &quot;tế trời” kết nghĩa anh em](https://nld.com.vn/toi-ac-cua-gia-toc-toi-pham-ho-nguy-giet-nguoi-de-te-troi-ket-nghia-anh-em-196260524133148291.htm) - 09:29 24/05/2026
-- 🤖 [Hé lộ nội dung đàm phán được giữ kín giữa Mỹ và Iran](https://nld.com.vn/he-lo-noi-dung-dam-phan-duoc-giu-kin-giua-my-va-iran-196260524124652935.htm) - 06:24 24/05/2026
-- 💂 [100 sinh vật kỳ lạ vừa đảo lộn lịch sử sự sống Trái Đất](https://nld.com.vn/100-sinh-vat-ky-la-vua-dao-lon-lich-su-su-song-trai-dat-19626052310230888.htm) - 05:33 24/05/2026
-- 🔭 [Nga tấn công quy mô lớn vào Ukraine, dùng đến tên lửa siêu mạnh?](https://nld.com.vn/nga-tan-cong-quy-mo-lon-vao-ukraine-dung-den-ten-lua-sieu-manh-196260524114327669.htm) - 05:05 24/05/2026
-- 🚀 [Vụ nổ súng gần Nhà Trắng: Nghi phạm hoang tưởng là Chúa Jesus](https://nld.com.vn/vu-no-sung-gan-nha-trang-nghi-pham-hoang-tuong-la-chua-jesus-196260524092328961.htm) - 03:10 24/05/2026
-- 🦄 [Bang California - Mỹ công bố tình trạng khẩn cấp](https://nld.com.vn/bang-california-my-cong-bo-tinh-trang-khan-cap-196260524085312833.htm) - 02:31 24/05/2026
-- 🧑‍🏫 [Phát hiện &quot;bí mật bất tử&quot; của Đại kim tự tháp Giza](https://nld.com.vn/phat-hien-bi-mat-bat-tu-cua-dai-kim-tu-thap-giza-196260523113914761.htm) - 02:16 24/05/2026
-- 🦍 [Nghi phạm xả súng vào chốt an ninh Nhà Trắng bị bắn chết](https://nld.com.vn/nghi-pham-xa-sung-vao-chot-an-ninh-nha-trang-bi-ban-chet-196260524081251772.htm) - 01:43 24/05/2026
-- ⛽️ [Ông Donald Trump ra tuyên bố quan trọng về đàm phán với Iran](https://nld.com.vn/ong-donald-trump-ra-tuyen-bo-quan-trong-ve-dam-phan-voi-iran-19626052407562801.htm) - 01:15 24/05/2026
-- 🤓 [Nóng: 15-30 phát đạn bên ngoài Nhà Trắng, phóng viên tháo chạy](https://nld.com.vn/nong-15-30-phat-dan-ben-ngoai-nha-trang-phong-vien-thao-chay-196260524064856341.htm) - 23:55 23/05/2026
-- 🌋 [Điểm nóng xung đột ngày 24-5: Mỹ lấp đầy kho dự trữ bằng vũ khí giá rẻ](https://nld.com.vn/diem-nong-xung-dot-ngay-24-5-my-lap-day-kho-du-tru-bang-vu-khi-gia-re-196260518190024397.htm) - 22:51 23/05/2026
-- 📝 [Mỹ thay đổi chính sách xin cấp thẻ xanh](https://nld.com.vn/my-thay-doi-chinh-sach-xin-cap-the-xanh-196260523220237955.htm) - 21:45 23/05/2026
-- 🦍 [Dịch Ebola lan nhanh ở Congo](https://nld.com.vn/dich-ebola-lan-nhanh-o-congo-196260523220134767.htm) - 20:46 23/05/2026
-- 👨‍🏫 [Rút củi đáy nồi](https://nld.com.vn/rut-cui-day-noi-196260523220347009.htm) - 19:30 23/05/2026
-- 🎬 [Chiến sự Trung Đông ngày 23-5: Iran &quot;nhắc&quot; ông Donald Trump, bác bỏ tấn công UAE](https://nld.com.vn/chien-su-trung-dong-ngay-23-5-iran-nhac-ong-donald-trump-bac-bo-tan-cong-uae-196260523165707152.htm) - 13:35 23/05/2026<!-- nld-quoc-te:END -->
+- 💡 [Căng thẳng leo thang ở Trung Đông](https://nld.com.vn/cang-thang-leo-thang-o-trung-dong-196260528204042885.htm) - 23:19 28/05/2026
+- 🎬 [Điểm nóng xung đột 29-5: Iran bảo vệ Oman khi ông Donald Trump đe dọa &quot;cho nổ tung&quot;](https://nld.com.vn/diem-nong-xung-dot-29-5-iran-bao-ve-oman-khi-ong-donald-trump-de-doa-cho-no-tung-196260528191840201.htm) - 23:03 28/05/2026
+- 😺 [Tham vọng mở dịch vụ chở hàng lên mặt trăng](https://nld.com.vn/tham-vong-mo-dich-vu-cho-hang-len-mat-trang-196260528203503725.htm) - 22:49 28/05/2026
+- 🚦 [Chiến sự Trung Đông ngày 28-5: Iran tuyên bố chặn tàu Mỹ, ông Donald Trump dọa đánh bom Oman](https://nld.com.vn/chien-su-trung-dong-ngay-28-5-iran-tuyen-bo-chan-tau-my-ong-donald-trump-doa-danh-bom-oman-196260528161930208.htm) - 10:47 28/05/2026
+- 🚦 [VIDEO: Khoảnh khắc sàn cầu đổ sụp, ô tô rơi xuống sông chảy xiết tại Trung Quốc](https://nld.com.vn/video-khoanh-khac-san-cau-do-sup-o-to-roi-xuong-song-chay-xiet-tai-trung-quoc-1962605272039431.htm) - 09:57 28/05/2026
+- 💡 [6 án chung thân vụ sinh viên Hàn Quốc bị sát hại tại Campuchia](https://nld.com.vn/6-an-chung-than-vu-sinh-vien-han-quoc-bi-sat-hai-tai-campuchia-19626052814181825.htm) - 07:57 28/05/2026
+- 🤓 [VIDEO: Hai “quái thú” khổng lồ đại chiến ngay trên đường phố Nepal](https://nld.com.vn/video-hai-quai-thu-khong-lo-dai-chien-ngay-tren-duong-pho-nepal-196260527215610844.htm) - 07:10 28/05/2026
+- 🎃 [Iran tuyên bố đánh trả căn cứ quân sự Mỹ](https://nld.com.vn/iran-tuyen-bo-danh-tra-can-cu-quan-su-my-196260528125508151.htm) - 06:14 28/05/2026
+- 🧑‍💻 [Phát hiện mới từ 741 cấu trúc kỳ lạ trên Sao Kim](https://nld.com.vn/phat-hien-moi-tu-741-cau-truc-ky-la-tren-sao-kim-196260528112846568.htm) - 05:22 28/05/2026
+- 💄 [Leo thang đụng độ quân sự ở miền Nam Iran, Mỹ tung đòn trừng phạt mới](https://nld.com.vn/leo-thang-dung-do-quan-su-o-mien-nam-iran-my-tung-don-trung-phat-moi-196260528110158318.htm) - 04:12 28/05/2026
+- 👀 [Đàm phán Mỹ - Iran: Ông Donald Trump nói &quot;chưa hài lòng&quot;, tiếp tục cảnh báo Tehran](https://nld.com.vn/dam-phan-my-iran-ong-donald-trump-noi-chua-hai-long-tiep-tuc-canh-bao-tehran-196260528094036036.htm) - 03:09 28/05/2026
+- 🤩 [Kho báu vàng 100 món, 1.100 tuổi lộ ra giữa lòng sa mạc](https://nld.com.vn/kho-bau-vang-100-mon-1100-tuoi-lo-ra-giua-long-sa-mac-196260527151248606.htm) - 02:24 28/05/2026
+- 🤖 [Ông Donald Trump dội gáo nước lạnh lên đề xuất của Nga về uranium Iran](https://nld.com.vn/ong-donald-trump-doi-gao-nuoc-lanh-len-de-xuat-cua-nga-ve-uranium-iran-1962605280757037.htm) - 01:41 28/05/2026
+- 👨‍🏫 [Nóng: Mỹ mở đợt không kích mới vào Iran](https://nld.com.vn/nong-my-mo-dot-khong-kich-moi-vao-iran-196260528075504802.htm) - 01:03 28/05/2026
+- 🥳 [Tổng thống Donald Trump đe dọa quân sự chưa từng có nhằm vào Oman](https://nld.com.vn/tong-thong-donald-trump-de-doa-quan-su-chua-tung-co-nham-vao-oman-196260528070345775.htm) - 00:21 28/05/2026
+- 🎭 [Nắng nóng lịch sử bao trùm nhiều nước](https://nld.com.vn/nang-nong-lich-su-bao-trum-nhieu-nuoc-196260527213917317.htm) - 23:31 27/05/2026
+- 🚀 [Chạy đua phát triển vắc-xin Ebola](https://nld.com.vn/chay-dua-phat-trien-vac-xin-ebola-196260527214153065.htm) - 20:06 27/05/2026
+- 🪜 [Điểm nóng xung đột ngày 28-5: Tên lửa 50 triệu USD của Nga nghi gặp sự cố khi tấn công Ukraine](https://nld.com.vn/diem-nong-xung-dot-ngay-28-5-ten-lua-50-trieu-usd-cua-nga-nghi-gap-su-co-khi-tan-cong-ukraine-196260526185733431.htm) - 19:27 27/05/2026
+- 🌋 [Giải pháp hấp thụ nhiệt từ cơ thể](https://nld.com.vn/giai-phap-hap-thu-nhiet-tu-co-the-196260527214036157.htm) - 18:38 27/05/2026
+- 🤔 [Chiến sự Trung Đông 27-5: IRGC đòi biến bờ biển thành &quot;nghĩa địa&quot;, Hàn Quốc tố Iran bắn tàu](https://nld.com.vn/chien-su-trung-dong-27-5-irgc-doi-bien-bo-bien-thanh-nghia-dia-han-quoc-to-iran-ban-tau-196260527164259084.htm) - 12:40 27/05/2026
+- 🥳 [VIDEO: Bộ trưởng Y tế Mỹ tay không bắt cặp rắn racer đen](https://nld.com.vn/video-bo-truong-y-te-my-tay-khong-bat-cap-ran-racer-den-196260527155323509.htm) - 09:15 27/05/2026
+- 👺 [Mỹ triển khai lực lượng kỷ lục tại Israel; tân thủ lĩnh vũ trang Hamas bị hạ sát](https://nld.com.vn/my-trien-khai-luc-luong-ky-luc-tai-israel-tan-thu-linh-vu-trang-hamas-bi-ha-sat-196260527142450131.htm) - 08:29 27/05/2026
+- ⛽️ [VIDEO: Khoảnh khắc kinh hoàng trong vụ nổ mỏ than ở Sơn Tây - Trung Quốc](https://nld.com.vn/video-khoanh-khac-kinh-hoang-trong-vu-no-mo-than-o-son-tay-trung-quoc-19626052621333202.htm) - 06:56 27/05/2026
+- 🎉 [Mặt trăng lớn hơn cả hành tinh đang &quot;sống&quot; theo cách độc đáo](https://nld.com.vn/mat-trang-lon-hon-ca-hanh-tinh-dang-song-theo-cach-doc-dao-196260527114136619.htm) - 04:50 27/05/2026
+- ⚗️ [Nga tiết lộ loạt mục tiêu mới ở thủ đô Kiev ở Ukraine](https://nld.com.vn/nga-tiet-lo-loat-muc-tieu-moi-o-thu-do-kiev-o-ukraine-19626052709041887.htm) - 03:31 27/05/2026
+- 🎡 [Sập bồn hóa chất tại Mỹ, tình hình nguy hiểm](https://nld.com.vn/sap-bon-hoa-chat-tai-my-tinh-hinh-nguy-hiem-196260527085312464.htm) - 02:10 27/05/2026
+- 🪜 [Độ ẩm 100% biến Vũ Hán - Trung Quốc thành “Thủy Liêm Động”](https://nld.com.vn/do-am-100-bien-vu-han-trung-quoc-thanh-thuy-liem-dong-196260526180612447.htm) - 01:14 27/05/2026
+- 🐘 [Nhà lãnh đạo Triều Tiên đích thân giám sát thử nghiệm loạt vũ khí trọng yếu](https://nld.com.vn/nha-lanh-dao-trieu-tien-dich-than-giam-sat-thu-nghiem-loat-vu-khi-trong-yeu-196260527070145832.htm) - 00:35 27/05/2026
+- 🦣 [Việt Nam - Thái Lan hướng tới những tầm cao mới](https://nld.com.vn/viet-nam-thai-lan-huong-toi-nhung-tam-cao-moi-196260526213213589.htm) - 00:10 27/05/2026
+- 📝 [Nhóm &quot;Bộ tứ&quot; tăng cường hợp tác giám sát hàng hải](https://nld.com.vn/nhom-bo-tu-tang-cuong-hop-tac-giam-sat-hang-hai-196260526213412777.htm) - 23:08 26/05/2026
+- 🙉 [Điểm nóng xung đột ngày 27-5: Đàm phán Iran - Mỹ &quot;ngoài cứng trong mềm&quot;?](https://nld.com.vn/diem-nong-xung-dot-ngay-27-5-dam-phan-iran-my-ngoai-cung-trong-mem-196260525184146093.htm) - 22:48 26/05/2026
+- 🚀 [Cảnh báo đáng lo về dịch Ebola](https://nld.com.vn/canh-bao-dang-lo-ve-dich-ebola-19626052621365632.htm) - 22:10 26/05/2026
+- 💻 [Chiến sự Trung Đông ngày 26-5: Iran tuyên bố Mỹ không còn &quot;nơi trú ẩn an toàn&quot;](https://nld.com.vn/chien-su-trung-dong-ngay-26-5-iran-tuyen-bo-my-khong-con-noi-tru-an-an-toan-196260526155833448.htm) - 11:29 26/05/2026
+- 🧑‍💻 [Iran tuyên bố bắn rơi MQ-9 Reaper, đẩy lùi F-35 của Mỹ, Lãnh tụ Tối cao cảnh báo đanh thép](https://nld.com.vn/iran-tuyen-bo-ban-roi-mq-9-reaper-day-lui-f-35-cua-my-lanh-tu-toi-cao-canh-bao-danh-thep-196260526161253316.htm) - 09:54 26/05/2026
+- 💃 [Nhiều nước lớn trong NATO nói &quot;không” với tăng viện trợ quân sự cho Ukraine](https://nld.com.vn/nhieu-nuoc-lon-trong-nato-noi-khong-voi-tang-vien-tro-quan-su-cho-ukraine-19626052517371101.htm) - 07:06 26/05/2026
+- 💡 [Những ngôi sao này có thể là cấu trúc ngoài hành tinh](https://nld.com.vn/nhung-ngoi-sao-nay-co-the-la-cau-truc-ngoai-hanh-tinh-196260526112433452.htm) - 05:57 26/05/2026
+- 🤖 [&quot;Tàu ma&quot; chở nặng kho báu lộ diện sau 4 thế kỷ](https://nld.com.vn/tau-ma-cho-nang-kho-bau-lo-dien-sau-4-the-ky-19626052610083048.htm) - 03:44 26/05/2026
+- 💂 [Thông tin mới về vụ rò rỉ hóa chất ở quận Cam](https://nld.com.vn/thong-tin-moi-ve-vu-ro-ri-hoa-chat-o-quan-cam-196260526091158396.htm) - 02:46 26/05/2026
+- 🔭 [Số phận kho uranium làm giàu Iran sau tuyên bố mới nhất của ông Donald Trump](https://nld.com.vn/so-phan-kho-uranium-lam-giau-iran-sau-tuyen-bo-moi-nhat-cua-ong-donald-trump-196260526074831864.htm) - 01:06 26/05/2026
+- 🚀 [Nóng: Iran tấn công tàu trên biển, Mỹ không kích ở vịnh Ba Tư](https://nld.com.vn/nong-iran-tan-cong-tau-tren-bien-my-khong-kich-o-vinh-ba-tu-196260526065606755.htm) - 00:28 26/05/2026
+- 🦄 [Sứ mệnh không gian đáng chú ý của Trung Quốc](https://nld.com.vn/su-menh-khong-gian-dang-chu-y-cua-trung-quoc-196260525213539462.htm) - 22:00 25/05/2026
+- 🧑‍🏫 [Dự trữ dầu toàn cầu lao dốc](https://nld.com.vn/du-tru-dau-toan-cau-lao-doc-196260525213424613.htm) - 22:00 25/05/2026
+- 🦍 [Điểm nóng xung đột ngày 26-5: Hé lộ trở ngại chặn đường thỏa thuận hòa bình Mỹ - Iran](https://nld.com.vn/diem-nong-xung-dot-ngay-26-5-he-lo-tro-ngai-chan-duong-thoa-thuan-hoa-binh-my-iran-196260525200709407.htm) - 21:34 25/05/2026
+- ⛽️ [Chiến sự Trung Đông ngày 25-5: Iran &quot;đáp lời&quot; ông Donald Trump, bác việc thu phí Hormuz](https://nld.com.vn/chien-su-trung-dong-ngay-25-5-iran-dap-loi-ong-donald-trump-bac-viec-thu-phi-hormuz-196260525164332213.htm) - 11:26 25/05/2026
+- 🤓 [Một vật thể lạc loài ẩn giữa 16 mặt trăng Sao Hải Vương](https://nld.com.vn/mot-vat-the-lac-loai-an-giua-16-mat-trang-sao-hai-vuong-196260525110842038.htm) - 05:37 25/05/2026
+- 🌋 [Vụ rò rỉ hóa chất ở quận Cam: Thống đốc California gửi thông điệp đến ông Donald Trump](https://nld.com.vn/vu-ro-ri-hoa-chat-o-quan-cam-thong-doc-california-gui-thong-diep-den-ong-donald-trump-196260525113022981.htm) - 05:05 25/05/2026
+- 📝 [&quot;Cầu pha lê tử thần&quot; hiện ra giữa trời](https://nld.com.vn/cau-pha-le-tu-than-hien-ra-giua-troi-196260525094039578.htm) - 02:48 25/05/2026
+- 🦍 [Tổng thống Mỹ bảo vệ thỏa thuận với Iran, Lãnh tụ Tối cao có quyết định quan trọng?](https://nld.com.vn/tong-thong-my-bao-ve-thoa-thuan-voi-iran-lanh-tu-toi-cao-co-quyet-dinh-quan-trong-196260525081424343.htm) - 01:41 25/05/2026
+- 👨‍🏫 [Mưa lũ kinh hoàng trên diện rộng ở Trung Quốc](https://nld.com.vn/mua-lu-kinh-hoang-tren-dien-rong-o-trung-quoc-196260525071950637.htm) - 00:50 25/05/2026
+- 🎬 [Điểm nóng xung đột ngày 25-5: Ukraine sắp &quot;hạ được 1.000 UAV cùng lúc&quot;](https://nld.com.vn/diem-nong-xung-dot-ngay-25-5-ukraine-sap-ha-duoc-1000-uav-cung-luc-196260524165508534.htm) - 21:30 24/05/2026<!-- nld-quoc-te:END -->
