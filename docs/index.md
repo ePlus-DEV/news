@@ -723,17 +723,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Mateta tỏa sáng, Crystal Palace vô địch Cúp C3 châu Âu 2025/2026](https://vov.vn/the-thao/mateta-toa-sang-crystal-palace-vo-dich-cup-c3-chau-au-20252026-post1295441.vov) - 21:04 27/05/2026
-- 🕯 [Phường Bồ Đề thông tin tới người dân về Dự án Trục Đại lộ cảnh quan sông Hồng](https://vov.vn/kinh-te/phuong-bo-de-thong-tin-toi-nguoi-dan-ve-du-an-truc-dai-lo-canh-quan-song-hong-post1295577.vov) - 15:11 27/05/2026
-- 🌊 [Israel tiếp tục tấn công dữ dội vào Lebanon](https://vov.vn/the-gioi/israel-tiep-tuc-tan-cong-du-doi-vao-lebanon-post1295572.vov) - 14:35 27/05/2026
-- 🥷 [TP.HCM sẽ thí điểm phần mềm cấp phép, thu phí sử dụng vỉa hè](https://vov.vn/xa-hoi/tin-24h/tphcm-se-thi-diem-phan-mem-cap-phep-thu-phi-su-dung-via-he-post1295545.vov) - 12:37 27/05/2026
-- 🎡 [Hà Nội sẽ triển khai một số dự án điểm nhà ở cho thuê để tạo hình mẫu nhân rộng](https://vov.vn/xa-hoi/ha-noi-se-trien-khai-mot-so-du-an-diem-nha-o-cho-thue-de-tao-hinh-mau-nhan-rong-post1295546.vov) - 11:47 27/05/2026
-- 🚀 [Khẩn trương hoàn thiện thí điểm chấm KPI trong xây dựng pháp luật](https://vov.vn/chinh-tri/khan-truong-hoan-thien-thi-diem-cham-kpi-trong-xay-dung-phap-luat-post1295540.vov) - 11:34 27/05/2026
-- 🔥 [Cựu Bộ trưởng Nguyễn Thị Kim Tiến nhận 6 năm tù vụ sai phạm ở 2 dự án bệnh viện](https://vov.vn/phap-luat/cuu-bo-truong-nguyen-thi-kim-tien-nhan-6-nam-tu-vu-sai-pham-o-2-du-an-benh-vien-post1295473.vov) - 09:18 27/05/2026
-- 🌋 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng  người Việt Nam tại Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-thai-lan-post1295463.vov) - 08:46 27/05/2026
-- 🕴 [Chuyên gia Nhật Bản: “Xăng sinh học E10 lợi nhiều hơn hại”](https://vov.vn/kinh-te/chuyen-gia-nhat-ban-xang-sinh-hoc-e10-loi-nhieu-hon-hai-post1295438.vov) - 08:01 27/05/2026
-- 🥰 [Kỳ lạ ở Sở Xây dựng Hà Nội: Hơn một tháng vẫn “lặng im” trước câu hỏi về NƠXH](https://vov.vn/kinh-te/ky-la-o-so-xay-dung-ha-noi-hon-mot-thang-van-lang-im-truoc-cau-hoi-ve-noxh-post1295399.vov) - 08:00 27/05/2026
-- 🧐 [Chủ tịch Quốc hội: Công tác tham mưu cần có tầm nhìn chiến lược, sát thực tiễn](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-cong-tac-tham-muu-can-co-tam-nhin-chien-luoc-sat-thuc-tien-post1295409.vov) - 06:30 27/05/2026<!-- vov:END -->
+- 🌜 [Xung đột Nga - Ukraine sắp có những diễn biến mới mang tính bước ngoặt?](https://vov.vn/the-gioi/quan-sat/xung-dot-nga-ukraine-sap-co-nhung-dien-bien-moi-mang-tinh-buoc-ngoat-post1295752.vov) - 23:14 28/05/2026
+- 🕯 [Sáng nay &lpar;29/5&rpar;, thí sinh Hà Nội làm thủ tục dự thi lớp 10 THPT công lập](https://vov.vn/xa-hoi/sang-nay-295-thi-sinh-ha-noi-lam-thu-tuc-du-thi-lop-10-thpt-cong-lap-post1295799.vov) - 23:00 28/05/2026
+- 🌊 [Cần đánh giá thực tiễn khi tinh gọn thôn, tổ dân phố ở Hà Nội](https://vov.vn/chinh-tri/can-danh-gia-thuc-tien-khi-tinh-gon-thon-to-dan-pho-o-ha-noi-post1295804.vov) - 23:00 28/05/2026
+- 🥷 [Ba thập kỷ Pokémon: Điều gì khiến Pikachu vẫn được trẻ em toàn cầu yêu mến?](https://vov.vn/van-hoa/ba-thap-ky-pokemon-dieu-gi-khien-pikachu-van-duoc-tre-em-toan-cau-yeu-men-post1295780.vov) - 23:00 28/05/2026
+- 🎡 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân bắt đầu thăm cấp Nhà nước Cộng hòa Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-bat-dau-tham-cap-nha-nuoc-cong-hoa-singapore-post1295926.vov) - 22:41 28/05/2026
+- 🚀 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân bắt đầu thăm cấp Nhà nước Cộng hòa Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-bat-dau-tham-cap-nha-nuoc-cong-hoa-singapore-post1295926.vov) - 22:41 28/05/2026
+- 🔥 [Gia Lai chấn chỉnh vụ chi hỗ trợ thiên tai chỉ vài nghìn đồng](https://vov.vn/xa-hoi/tin-24h/gia-lai-chan-chinh-vu-chi-ho-tro-thien-tai-chi-vai-nghin-dong-post1295921.vov) - 22:27 28/05/2026
+- 🌋 [Chính phủ hỗ trợ tiền ăn và gạo cho học sinh nội trú](https://vov.vn/chinh-tri/chinh-phu-ho-tro-tien-an-va-gao-cho-hoc-sinh-noi-tru-post1295907.vov) - 16:09 28/05/2026
+- 🕴 [Thủ tướng yêu cầu xử lý nghiêm hoạt động du lịch “chui”, “chặt chém” du khách](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-xu-ly-nghiem-hoat-dong-du-lich-chui-chat-chem-du-khach-post1295889.vov) - 14:15 28/05/2026
+- 🥰 [Quan hệ Việt Nam - Philippines: Dấu mốc lịch sử với kỳ vọng tạo ra đột phá](https://vov.vn/chinh-tri/quan-he-viet-nam-philippines-dau-moc-lich-su-voi-ky-vong-tao-ra-dot-pha-post1295754.vov) - 13:06 28/05/2026
+- 🧐 [Làm sâu sắc hơn nữa quan hệ Đối tác Chiến lược toàn diện Việt Nam - Thái Lan](https://vov.vn/chinh-tri/lam-sau-sac-hon-nua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-thai-lan-post1295741.vov) - 08:04 28/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
