@@ -6,8 +6,8 @@ sidebar_position: 3
 <!-- vov-xa-hoi:START -->
 - 👀 [Hà Nội: Sĩ tử và phụ huynh nỗ lực hóa giải áp lực trước kỳ thi lớp 10](https://vov.vn/xa-hoi/ha-noi-si-tu-va-phu-huynh-no-luc-hoa-giai-ap-luc-truoc-ky-thi-lop-10-post1296247.vov) - 23:18 29/05/2026
 - 🚀 [Số hoá tại một số trường học ở Lâm Đồng còn nhiều khó khăn cần tiếp tục tháo gỡ](https://vov.vn/xa-hoi/so-hoa-tai-mot-so-truong-hoc-o-lam-dong-con-nhieu-kho-khan-can-tiep-tuc-thao-go-post1296059.vov) - 23:12 29/05/2026
-- 👀 [Vỉa hè Hà Nội thông thoáng, tiểu thương tìm cách thích nghi](https://vov.vn/xa-hoi/via-he-ha-noi-thong-thoang-tieu-thuong-tim-cach-thich-nghi-post1296174.vov) - 23:00 29/05/2026
-- 🦍 [Đồng Tháp đẩy nhanh tiến độ xây dựng trường nội trú tại các xã, phường biên giới](https://vov.vn/xa-hoi/dong-thap-day-nhanh-tien-do-xay-dung-truong-noi-tru-tai-cac-xa-phuong-bien-gioi-post1296113.vov) - 23:00 29/05/2026
+- 👀 [Đồng Tháp đẩy nhanh tiến độ xây dựng trường nội trú tại các xã, phường biên giới](https://vov.vn/xa-hoi/dong-thap-day-nhanh-tien-do-xay-dung-truong-noi-tru-tai-cac-xa-phuong-bien-gioi-post1296113.vov) - 23:00 29/05/2026
+- 🦍 [Vỉa hè Hà Nội thông thoáng, tiểu thương tìm cách thích nghi](https://vov.vn/xa-hoi/via-he-ha-noi-thong-thoang-tieu-thuong-tim-cach-thich-nghi-post1296174.vov) - 23:00 29/05/2026
 - 🚀 [Gần 125.000 thí sinh Hà Nội bước vào ngày thi đầu tiên kỳ thi lớp 10](https://vov.vn/xa-hoi/gan-125000-thi-sinh-ha-noi-buoc-vao-ngay-thi-dau-tien-ky-thi-lop-10-post1296121.vov) - 23:00 29/05/2026
 - 💫 [Tin vui từ 1/7: Trợ cấp hàng tháng của cán bộ xã già yếu nghỉ việc đồng loạt tăng](https://vov.vn/xa-hoi/tin-vui-tu-17-tro-cap-hang-thang-cua-can-bo-xa-gia-yeu-nghi-viec-dong-loat-tang-post1296242.vov) - 22:46 29/05/2026
 - 🗽 [Thời tiết hôm nay 30/5: Hà Nội có mưa dông rải rác, cảnh báo lốc sét](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-305-ha-noi-co-mua-dong-rai-rac-canh-bao-loc-set-post1296180.vov) - 22:30 29/05/2026
