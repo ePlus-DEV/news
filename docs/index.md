@@ -723,17 +723,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Xung đột Nga - Ukraine sắp có những diễn biến mới mang tính bước ngoặt?](https://vov.vn/the-gioi/quan-sat/xung-dot-nga-ukraine-sap-co-nhung-dien-bien-moi-mang-tinh-buoc-ngoat-post1295752.vov) - 23:14 28/05/2026
-- 🕯 [Sáng nay &lpar;29/5&rpar;, thí sinh Hà Nội làm thủ tục dự thi lớp 10 THPT công lập](https://vov.vn/xa-hoi/sang-nay-295-thi-sinh-ha-noi-lam-thu-tuc-du-thi-lop-10-thpt-cong-lap-post1295799.vov) - 23:00 28/05/2026
-- 🌊 [Cần đánh giá thực tiễn khi tinh gọn thôn, tổ dân phố ở Hà Nội](https://vov.vn/chinh-tri/can-danh-gia-thuc-tien-khi-tinh-gon-thon-to-dan-pho-o-ha-noi-post1295804.vov) - 23:00 28/05/2026
-- 🥷 [Ba thập kỷ Pokémon: Điều gì khiến Pikachu vẫn được trẻ em toàn cầu yêu mến?](https://vov.vn/van-hoa/ba-thap-ky-pokemon-dieu-gi-khien-pikachu-van-duoc-tre-em-toan-cau-yeu-men-post1295780.vov) - 23:00 28/05/2026
-- 🎡 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân bắt đầu thăm cấp Nhà nước Cộng hòa Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-bat-dau-tham-cap-nha-nuoc-cong-hoa-singapore-post1295926.vov) - 22:41 28/05/2026
-- 🚀 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân bắt đầu thăm cấp Nhà nước Cộng hòa Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-bat-dau-tham-cap-nha-nuoc-cong-hoa-singapore-post1295926.vov) - 22:41 28/05/2026
-- 🔥 [Gia Lai chấn chỉnh vụ chi hỗ trợ thiên tai chỉ vài nghìn đồng](https://vov.vn/xa-hoi/tin-24h/gia-lai-chan-chinh-vu-chi-ho-tro-thien-tai-chi-vai-nghin-dong-post1295921.vov) - 22:27 28/05/2026
-- 🌋 [Chính phủ hỗ trợ tiền ăn và gạo cho học sinh nội trú](https://vov.vn/chinh-tri/chinh-phu-ho-tro-tien-an-va-gao-cho-hoc-sinh-noi-tru-post1295907.vov) - 16:09 28/05/2026
-- 🕴 [Thủ tướng yêu cầu xử lý nghiêm hoạt động du lịch “chui”, “chặt chém” du khách](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-xu-ly-nghiem-hoat-dong-du-lich-chui-chat-chem-du-khach-post1295889.vov) - 14:15 28/05/2026
-- 🥰 [Quan hệ Việt Nam - Philippines: Dấu mốc lịch sử với kỳ vọng tạo ra đột phá](https://vov.vn/chinh-tri/quan-he-viet-nam-philippines-dau-moc-lich-su-voi-ky-vong-tao-ra-dot-pha-post1295754.vov) - 13:06 28/05/2026
-- 🧐 [Làm sâu sắc hơn nữa quan hệ Đối tác Chiến lược toàn diện Việt Nam - Thái Lan](https://vov.vn/chinh-tri/lam-sau-sac-hon-nua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-thai-lan-post1295741.vov) - 08:04 28/05/2026<!-- vov:END -->
+- 🌜 [Gần 125.000 học sinh Hà Nội làm thủ tục dự thi vào lớp 10](https://vov.vn/xa-hoi/gan-125000-hoc-sinh-ha-noi-lam-thu-tuc-du-thi-vao-lop-10-post1296001.vov) - 04:42 29/05/2026
+- 🕯 [Thường trực Ban Bí thư Trần Cẩm Tú làm Trưởng Ban Chỉ đạo T.Ư về phát triển văn hóa Việt Nam](https://vov.vn/chinh-tri/thuong-truc-ban-bi-thu-tran-cam-tu-lam-truong-ban-chi-dao-tu-ve-phat-trien-van-hoa-viet-nam-post1296021.vov) - 04:40 29/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Singapore Lawrence Wong](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-singapore-lawrence-wong-post1296017.vov) - 04:21 29/05/2026
+- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Singapore Lawrence Wong](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-singapore-lawrence-wong-post1296017.vov) - 04:21 29/05/2026
+- 🎡 [Vải chín rộ giữa nắng gắt, nông dân Bắc Ninh “chạy đua” thu hoạch sớm](https://vov.vn/kinh-te/vai-chin-ro-giua-nang-gat-nong-dan-bac-ninh-chay-dua-thu-hoach-som-post1295985.vov) - 03:35 29/05/2026
+- 🚀 [Sang tháng 6, miền Bắc và miền Trung sẽ hứng chịu nhiều đợt nắng nóng khốc liệt](https://vov.vn/xa-hoi/sang-thang-6-mien-bac-va-mien-trung-se-hung-chiu-nhieu-dot-nang-nong-khoc-liet-post1295995.vov) - 03:29 29/05/2026
+- 🔥 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước Singapore](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-cap-nha-nuoc-singapore-post1296000.vov) - 03:29 29/05/2026
+- 🌋 [Toàn cảnh chuyến thăm chính thức Thái Lan của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-chinh-thuc-thai-lan-cua-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-post1295987.vov) - 03:27 29/05/2026
+- 🕴 [Mỹ và Iran tiết lộ lằn ranh đỏ giữa lúc đạt thỏa thuận gia hạn ngừng bắn](https://vov.vn/the-gioi/my-va-iran-tiet-lo-lan-ranh-do-giua-luc-dat-thoa-thuan-gia-han-ngung-ban-post1295973.vov) - 03:16 29/05/2026
+- 🥰 [Uy tín và sức hút Việt Nam nhìn từ Đối thoại Shangri-La 2026](https://vov.vn/chinh-tri/uy-tin-va-suc-hut-viet-nam-nhin-tu-doi-thoai-shangri-la-2026-post1295959.vov) - 01:59 29/05/2026
+- 🧐 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân bắt đầu thăm cấp Nhà nước Cộng hòa Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-bat-dau-tham-cap-nha-nuoc-cong-hoa-singapore-post1295926.vov) - 22:41 28/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
