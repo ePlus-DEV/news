@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Chính phủ hỗ trợ tiền ăn và gạo cho học sinh nội trú](https://vov.vn/chinh-tri/chinh-phu-ho-tro-tien-an-va-gao-cho-hoc-sinh-noi-tru-post1295907.vov) - 16:09 28/05/2026
-- 💃 [Việt Nam - Thái Lan mở rộng hợp tác khoa học công nghệ, đổi mới, sáng tạo](https://vov.vn/chinh-tri/viet-nam-thai-lan-mo-rong-hop-tac-khoa-hoc-cong-nghe-doi-moi-sang-tao-post1295894.vov) - 14:31 28/05/2026
-- 🫶 [Thủ tướng yêu cầu xử lý nghiêm hoạt động du lịch “chui”, “chặt chém” du khách](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-xu-ly-nghiem-hoat-dong-du-lich-chui-chat-chem-du-khach-post1295889.vov) - 14:15 28/05/2026
-- 👨‍🏫 [Việt Nam - Thái Lan: Khơi mở không gian kinh tế chung 1.100 tỷ USD](https://vov.vn/chinh-tri/viet-nam-thai-lan-khoi-mo-khong-gian-kinh-te-chung-1100-ty-usd-post1295890.vov) - 14:15 28/05/2026
-- 🪜 [Việt Nam sẵn sàng là “điểm hẹn” đối thoại để hóa giải mối đe dọa an ninh quốc tế](https://vov.vn/chinh-tri/viet-nam-san-sang-la-diem-hen-doi-thoai-de-hoa-giai-moi-de-doa-an-ninh-quoc-te-post1295880.vov) - 13:57 28/05/2026
-- 🌋 [Đẩy nhanh tiến độ xây dựng hệ thống trường nội trú liên cấp tại vùng biên giới](https://vov.vn/chinh-tri/day-nhanh-tien-do-xay-dung-he-thong-truong-noi-tru-lien-cap-tai-vung-bien-gioi-post1295874.vov) - 13:33 28/05/2026
-- 🎉 [Quan hệ Việt Nam - Philippines: Dấu mốc lịch sử với kỳ vọng tạo ra đột phá](https://vov.vn/chinh-tri/quan-he-viet-nam-philippines-dau-moc-lich-su-voi-ky-vong-tao-ra-dot-pha-post1295754.vov) - 13:06 28/05/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Nhà Vua và Hoàng hậu Thái Lan](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-nha-vua-va-hoang-hau-thai-lan-post1295864.vov) - 12:49 28/05/2026
-- 🏊 [Luật Đô thị đặc biệt - không nên ngập ngừng thí điểm](https://vov.vn/chinh-tri/luat-do-thi-dac-biet-khong-nen-ngap-ngung-thi-diem-post1295861.vov) - 12:28 28/05/2026
-- 🧑‍💻 [Việt Nam và WHO thúc đẩy hợp tác bảo vệ sức khỏe người dân, cộng đồng](https://vov.vn/chinh-tri/viet-nam-va-who-thuc-day-hop-tac-bao-ve-suc-khoe-nguoi-dan-cong-dong-post1295856.vov) - 11:49 28/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm nêu định hướng kiến tạo hòa bình khu vực](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-neu-dinh-huong-kien-tao-hoa-binh-khu-vuc-post1296234.vov) - 14:56 29/05/2026
+- 💃 [Sơn La vận hành chính quyền hai cấp ổn định, GRDP tăng 9,76%](https://vov.vn/chinh-tri/son-la-van-hanh-chinh-quyen-hai-cap-on-dinh-grdp-tang-976-post1296230.vov) - 14:33 29/05/2026
+- 🫶 [Gia Lai còn nhiều khó khăn khi vận hành mô hình chính quyền địa phương 2 cấp](https://vov.vn/chinh-tri/gia-lai-con-nhieu-kho-khan-khi-van-hanh-mo-hinh-chinh-quyen-dia-phuong-2-cap-post1296228.vov) - 14:16 29/05/2026
+- 👨‍🏫 [Giao lưu sĩ quan trẻ Việt - Lào - Campuchia tăng cường đoàn kết hữu nghị ba nước](https://vov.vn/chinh-tri/giao-luu-si-quan-tre-viet-lao-campuchia-tang-cuong-doan-ket-huu-nghi-ba-nuoc-post1296224.vov) - 13:43 29/05/2026
+- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm gặp Tổng thống Timor-Leste](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-gap-tong-thong-timor-leste-post1296226.vov) - 13:40 29/05/2026
+- 🌋 [Vĩnh Long hoàn thiện chính quyền hai cấp theo hướng hiệu năng, hiệu lực, hiệu quả](https://vov.vn/chinh-tri/vinh-long-hoan-thien-chinh-quyen-hai-cap-theo-huong-hieu-nang-hieu-luc-hieu-qua-post1296223.vov) - 13:38 29/05/2026
+- 🎉 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng các nước bên lề Đối thoại Shangri-La](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-cac-nuoc-ben-le-doi-thoai-shangri-la-post1296214.vov) - 12:21 29/05/2026
+- 🌝 [Đắk Lắk kiện toàn bộ máy, thúc đẩy chuyển đổi số trong mô hình chính quyền hai cấp](https://vov.vn/chinh-tri/dak-lak-kien-toan-bo-may-thuc-day-chuyen-doi-so-trong-mo-hinh-chinh-quyen-hai-cap-post1296211.vov) - 11:56 29/05/2026
+- 🏊 [Chính quyền địa phương 2 cấp tại Đồng Tháp ngày càng gần dân, sát dân](https://vov.vn/chinh-tri/chinh-quyen-dia-phuong-2-cap-tai-dong-thap-ngay-cang-gan-dan-sat-dan-post1296125.vov) - 10:51 29/05/2026
+- 🧑‍💻 [Đảng ủy Chính phủ hoàn thành khối lượng công việc lớn, có những đột phá](https://vov.vn/chinh-tri/dang-uy-chinh-phu-hoan-thanh-khoi-luong-cong-viec-lon-co-nhung-dot-pha-post1296169.vov) - 10:28 29/05/2026<!-- vov-chinh-tri:END -->
