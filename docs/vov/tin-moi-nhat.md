@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vov-tin-moi-nhat:START -->
-- 👍 [Đảng ủy Chính phủ hoàn thành khối lượng công việc lớn, có những đột phá](https://vov.vn/chinh-tri/dang-uy-chinh-phu-hoan-thanh-khoi-luong-cong-viec-lon-co-nhung-dot-pha-post1296169.vov) - 10:28 29/05/2026
-- 🦍 [Chủ tịch Quốc hội: TP.HCM khẩn trương hoàn thiện dự thảo Luật Đô thị đặc biệt](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-tphcm-khan-truong-hoan-thien-du-thao-luat-do-thi-dac-biet-post1296163.vov) - 10:17 29/05/2026
-- 🦏 [Hướng tới không gian hợp tác công nghệ Việt Nam - Singapore](https://vov.vn/chinh-tri/huong-toi-khong-gian-hop-tac-cong-nghe-viet-nam-singapore-post1296153.vov) - 10:16 29/05/2026
-- 😎 [Chấn chỉnh nạn hát nhép, sáng tác dễ dãi trong đời sống nghệ thuật](https://vov.vn/van-hoa/chan-chinh-nan-hat-nhep-sang-tac-de-dai-trong-doi-song-nghe-thuat-post1296161.vov) - 09:56 29/05/2026
-- 💯 [Hội đồng Bảo an họp khẩn, cảnh báo nguy cơ xung đột Ukraine vượt tầm kiểm soát](https://vov.vn/the-gioi/hoi-dong-bao-an-hop-khan-canh-bao-nguy-co-xung-dot-ukraine-vuot-tam-kiem-soat-post1296128.vov) - 09:23 29/05/2026
-- 🦩 [Giá trị lịch sử và ý nghĩa thời đại của Lời kêu gọi Toàn quốc kháng chiến](https://vov.vn/chinh-tri/gia-tri-lich-su-va-y-nghia-thoi-dai-cua-loi-keu-goi-toan-quoc-khang-chien-post1296031.vov) - 09:09 29/05/2026
-- 💃 [Bộ trưởng Hoàng Minh Sơn kiểm tra tiến độ xây trường PTNT liên cấp tại Đà Nẵng](https://vov.vn/xa-hoi/bo-truong-hoang-minh-son-kiem-tra-tien-do-xay-truong-ptnt-lien-cap-tai-da-nang-post1296139.vov) - 09:07 29/05/2026
-- 🦣 [Tiếp thêm xung lực cho quan hệ Đối tác Chiến lược toàn diện Việt Nam - Singapore](https://vov.vn/chinh-tri/tiep-them-xung-luc-cho-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-singapore-post1296130.vov) - 09:01 29/05/2026
-- 👹 [Tiếp thêm xung lực cho quan hệ Đối tác Chiến lược toàn diện Việt Nam - Singapore](https://vov.vn/chinh-tri/tiep-them-xung-luc-cho-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-singapore-post1296130.vov) - 09:01 29/05/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-singapore-post1296075.vov) - 07:11 29/05/2026
-- 😺 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Singapore Lawrence Wong](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-singapore-lawrence-wong-post1296017.vov) - 04:21 29/05/2026<!-- vov-tin-moi-nhat:END -->
+- 👍 [Gợi ý đáp án môn Ngữ văn kỳ thi tuyển sinh lớp 10 Hà Nội năm 2026](https://vov.vn/xa-hoi/goi-y-dap-an-mon-ngu-van-ky-thi-tuyen-sinh-lop-10-ha-noi-nam-2026-post1296282.vov) - 04:03 30/05/2026
+- 🦍 [Giá vàng bật tăng sau tuần biến động: Đà hồi phục có bền vững?](https://vov.vn/thi-truong/gia-vang-bat-tang-sau-tuan-bien-dong-da-hoi-phuc-co-ben-vung-post1296293.vov) - 03:05 30/05/2026
+- 🦏 [Tuyển sinh lớp 10 ở Hà Nội: Phụ huynh &amp;quot;hạ nhiệt&amp;quot; kỳ thi bằng phương án dự phòng](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-o-ha-noi-phu-huynh-ha-nhiet-ky-thi-bang-phuong-an-du-phong-post1296173.vov) - 02:54 30/05/2026
+- 😎 [Tuyển sinh lớp 10 ở Hà Nội: Phụ huynh &amp;quot;hạ nhiệt&amp;quot; kỳ thi bằng phương án dự phòng](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-o-ha-noi-phu-huynh-ha-nhiet-ky-thi-bang-phuong-an-du-phong-post1296173.vov) - 02:54 30/05/2026
+- 💯 [Bài phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm truyền cảm hứng mạnh mẽ](https://vov.vn/chinh-tri/bai-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-truyen-cam-hung-manh-me-post1296283.vov) - 02:12 30/05/2026
+- 🦩 [Tuyển sinh lớp 10 Hà Nội: Những cái ôm &amp;quot;tiếp lửa&amp;quot; của phụ huynh trước cổng trường](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-ha-noi-nhung-cai-om-tiep-lua-cua-phu-huynh-truoc-cong-truong-post1296090.vov) - 01:59 30/05/2026
+- 💃 [Ngân hàng Nhà nước lên tiếng về chương trình đổi vàng qua bất động sản của Vinhome](https://vov.vn/kinh-te/ngan-hang-nha-nuoc-len-tieng-ve-chuong-trinh-doi-vang-qua-bat-dong-san-cua-vinhome-post1296280.vov) - 01:48 30/05/2026
+- 🦣 [Tổng Bí thư, Chủ tịch nước Tô Lâm phát biểu dẫn đề khai mạc Đối thoại Shangri-La](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-phat-bieu-dan-de-khai-mac-doi-thoai-shangri-la-post1296264.vov) - 00:29 30/05/2026
+- 👹 [Vì sao ông Trump đe dọa cứng rắn với Oman giữa lúc căng thẳng với Iran leo thang?](https://vov.vn/the-gioi/quan-sat/vi-sao-ong-trump-de-doa-cung-ran-voi-oman-giua-luc-cang-thang-voi-iran-leo-thang-post1296109.vov) - 23:06 29/05/2026
+- 🫶 [Vỉa hè Hà Nội thông thoáng, tiểu thương tìm cách thích nghi](https://vov.vn/xa-hoi/via-he-ha-noi-thong-thoang-tieu-thuong-tim-cach-thich-nghi-post1296174.vov) - 23:00 29/05/2026
+- 😺 [Giải quyết chế độ cho cán bộ không chuyên trách, một số được sắp xếp vị trí mới](https://vov.vn/chinh-tri/giai-quyet-che-do-cho-can-bo-khong-chuyen-trach-mot-so-duoc-sap-xep-vi-tri-moi-post1295939.vov) - 22:00 29/05/2026<!-- vov-tin-moi-nhat:END -->
