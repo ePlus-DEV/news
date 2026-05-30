@@ -4,53 +4,53 @@ sidebar_position: 6
 ---
 
 <!-- nld-net-zero:START -->
-- 🤩 [Thứ trưởng Bộ Công Thương nói lý do không bán song song xăng khoáng RON 95 cùng với E10](https://nld.com.vn/thu-truong-bo-cong-thuong-noi-ly-do-khong-ban-song-song-xang-khoang-ron-95-cung-voi-e10-196260527210205156.htm) - 23:00 27/05/2026
-- 🧑‍💻 [Sử dụng xăng E10, từng loại phương tiện tương thích ra sao?](https://nld.com.vn/su-dung-xang-e10-tung-loai-phuong-tien-tuong-thich-ra-sao-196260526124221592.htm) - 06:53 26/05/2026
-- 🎊 [Tính toán &quot;né&quot; giờ cao điểm sử dụng điện](https://nld.com.vn/tinh-toan-ne-gio-cao-diem-su-dung-dien-196260525212157816.htm) - 22:22 25/05/2026
-- 🦍 [Giữ hệ sinh thái carbon xanh dương](https://nld.com.vn/giu-he-sinh-thai-carbon-xanh-duong-196260524191304079.htm) - 00:00 25/05/2026
-- 🤖 [Xe điện ngày càng hút khách, nhiều người quyết bán xe xăng](https://nld.com.vn/xe-dien-ngay-cang-hut-khach-nhieu-nguoi-quyet-ban-xe-xang-196260524092438246.htm) - 02:48 24/05/2026
-- 🦏 [Gỡ khó cho mua bán trực tiếp điện mặt trời mái nhà](https://nld.com.vn/go-kho-cho-mua-ban-truc-tiep-dien-mat-troi-mai-nha-196260523213138367.htm) - 00:30 24/05/2026
-- 🧑‍🏫 [Lắp đặt điện mặt trời mái nhà: Điện lực miền Nam cam kết phản hồi trong 72 giờ](https://nld.com.vn/lap-dat-dien-mat-troi-mai-nha-dien-luc-mien-nam-cam-ket-phan-hoi-trong-72-gio-196260520141103381.htm) - 07:36 20/05/2026
-- 🦍 [Xăng E10 bán trên toàn quốc từ 1-6, sẽ có giá hấp dẫn hơn xăng khoáng](https://nld.com.vn/xang-e10-ban-tren-toan-quoc-tu-1-6-se-co-gia-hap-dan-hon-xang-khoang-196260520083357752.htm) - 02:15 20/05/2026
-- 🧰 [Cần Thơ khởi công 2 dự án điện gió tổng vốn đầu tư gần 24.000 tỉ đồng](https://nld.com.vn/can-tho-khoi-cong-2-du-an-dien-gio-tong-von-dau-tu-gan-24000-ti-dong-196260519133912323.htm) - 07:28 19/05/2026
+- 🤩 [[eMagazine] - Những điều cần biết về xăng E10 trước ngày bán đại trà 1-6](https://nld.com.vn/emagazine-nhung-dieu-can-biet-ve-xang-e10-truoc-ngay-ban-dai-tra-1-6-196260528230323272.htm) - 22:30 29/05/2026
+- 🧑‍💻 [Chuyển đổi xanh trong nông nghiệp: Từ công nghệ đến thị trường](https://nld.com.vn/chuyen-doi-xanh-trong-nong-nghiep-tu-cong-nghe-den-thi-truong-1962605291521581.htm) - 08:43 29/05/2026
+- 🎊 [Thứ trưởng Bộ Công Thương nói lý do không bán song song xăng khoáng RON 95 cùng với E10](https://nld.com.vn/thu-truong-bo-cong-thuong-noi-ly-do-khong-ban-song-song-xang-khoang-ron-95-cung-voi-e10-196260527210205156.htm) - 23:00 27/05/2026
+- 🦍 [Sử dụng xăng E10, từng loại phương tiện tương thích ra sao?](https://nld.com.vn/su-dung-xang-e10-tung-loai-phuong-tien-tuong-thich-ra-sao-196260526124221592.htm) - 06:53 26/05/2026
+- 🤖 [Tính toán &quot;né&quot; giờ cao điểm sử dụng điện](https://nld.com.vn/tinh-toan-ne-gio-cao-diem-su-dung-dien-196260525212157816.htm) - 22:22 25/05/2026
+- 🦏 [Giữ hệ sinh thái carbon xanh dương](https://nld.com.vn/giu-he-sinh-thai-carbon-xanh-duong-196260524191304079.htm) - 00:00 25/05/2026
+- 🧑‍🏫 [Xe điện ngày càng hút khách, nhiều người quyết bán xe xăng](https://nld.com.vn/xe-dien-ngay-cang-hut-khach-nhieu-nguoi-quyet-ban-xe-xang-196260524092438246.htm) - 02:48 24/05/2026
+- 🦍 [Gỡ khó cho mua bán trực tiếp điện mặt trời mái nhà](https://nld.com.vn/go-kho-cho-mua-ban-truc-tiep-dien-mat-troi-mai-nha-196260523213138367.htm) - 00:30 24/05/2026
+- 🧰 [Lắp đặt điện mặt trời mái nhà: Điện lực miền Nam cam kết phản hồi trong 72 giờ](https://nld.com.vn/lap-dat-dien-mat-troi-mai-nha-dien-luc-mien-nam-cam-ket-phan-hoi-trong-72-gio-196260520141103381.htm) - 07:36 20/05/2026
+- 🥳 [Xăng E10 bán trên toàn quốc từ 1-6, sẽ có giá hấp dẫn hơn xăng khoáng](https://nld.com.vn/xang-e10-ban-tren-toan-quoc-tu-1-6-se-co-gia-hap-dan-hon-xang-khoang-196260520083357752.htm) - 02:15 20/05/2026
+- 🦄 [Cần Thơ khởi công 2 dự án điện gió tổng vốn đầu tư gần 24.000 tỉ đồng](https://nld.com.vn/can-tho-khoi-cong-2-du-an-dien-gio-tong-von-dau-tu-gan-24000-ti-dong-196260519133912323.htm) - 07:28 19/05/2026
 - 🥳 [Bộ Công Thương: Từ 1-6, cây xăng phải bán E10, thay thế RON 95](https://nld.com.vn/bo-cong-thuong-tu-1-6-cay-xang-phai-ban-e10-thay-the-ron-95-196260519113629494.htm) - 06:56 19/05/2026
-- 🦄 [Mở rộng trồng trọt giảm phát thải, nâng cao thu nhập cho nông dân](https://nld.com.vn/mo-rong-trong-trot-giam-phat-thai-nang-cao-thu-nhap-cho-nong-dan-196260518145521853.htm) - 08:39 18/05/2026
-- 🥳 [Doanh nghiệp phải tái chế bao bì, pin, đồ điện tử](https://nld.com.vn/doanh-nghiep-phai-tai-che-bao-bi-pin-do-dien-tu-196260517193403625.htm) - 22:59 17/05/2026
-- 🦅 [Lối đi riêng của điện mặt trời Nhật Bản](https://nld.com.vn/loi-di-rieng-cua-dien-mat-troi-nhat-ban-196260517193145728.htm) - 20:19 17/05/2026
-- 🤗 [Thứ trưởng Bộ Nông nghiệp và Môi trường: Hoàn thiện tiêu chí môi trường, ngăn &quot;xanh hóa hình thức&quot;](https://nld.com.vn/thu-truong-bo-nong-nghiep-va-moi-truong-hoan-thien-tieu-chi-moi-truong-ngan-xanh-hoa-hinh-thuc-196260516141625022.htm) - 07:40 16/05/2026
-- 🤡 [Giá tấm pin năng lượng, pin lưu trữ đồng loạt tăng giữa &quot;cơn sốt&quot; lắp điện mặt trời mái nhà](https://nld.com.vn/gia-tam-pin-nang-luong-pin-luu-tru-dong-loat-tang-giua-con-sot-lap-dien-mat-troi-mai-nha-196260516095742553.htm) - 05:48 16/05/2026
-- 🌊 [Kế hoạch mới của Bộ Công Thương, ai lắp điện mặt trời mái nhà sẽ được hỗ trợ?](https://nld.com.vn/ke-hoach-moi-cua-bo-cong-thuong-ai-lap-dien-mat-troi-mai-nha-se-duoc-ho-tro-196260515103320925.htm) - 04:03 15/05/2026
-- 🧰 [Lắp điện mặt trời mái nhà: Tiết kiệm tiền điện, sao vẫn ít người làm?](https://nld.com.vn/lap-dien-mat-troi-mai-nha-tiet-kiem-tien-dien-sao-van-it-nguoi-lam-196260514155346861.htm) - 09:26 14/05/2026
-- 🫶 [Hàng loạt cây xăng tại TPHCM sắp ngừng bán xăng khoáng RON95](https://nld.com.vn/hang-loat-cay-xang-tai-tphcm-sap-ngung-ban-xang-khoang-ron95-196260514130701179.htm) - 06:43 14/05/2026
-- 🧑‍🏫 [Thêm cú hích cho ô tô điện](https://nld.com.vn/them-cu-hich-cho-o-to-dien-196260510184124859.htm) - 22:28 10/05/2026
-- 🔭 [Vùng phát thải thấp ở Hà Nội: Người dân đi lại ra sao?](https://nld.com.vn/vung-phat-thai-thap-o-ha-noi-nguoi-dan-di-lai-ra-sao-196260507205621669.htm) - 22:00 07/05/2026
-- 🎉 [Điện mặt trời mái nhà vẫn va phải rào cản](https://nld.com.vn/dien-mat-troi-mai-nha-van-va-phai-rao-can-196260506200437797.htm) - 00:00 07/05/2026
-- 🐘 [Giá mua điện mặt trời mái nhà còn quá rẻ](https://nld.com.vn/gia-mua-dien-mat-troi-mai-nha-con-qua-re-196260506091944468.htm) - 03:51 06/05/2026
-- 🤓 [Đầu tư sớm 3-5 năm cho hạ tầng điện](https://nld.com.vn/dau-tu-som-3-5-nam-cho-ha-tang-dien-196260505202847965.htm) - 00:50 06/05/2026
-- 🫶 [&quot;Chìa khóa&quot; phát triển của TP HCM](https://nld.com.vn/chia-khoa-phat-trien-cua-tp-hcm-196260505203737954.htm) - 00:15 06/05/2026
-- 🚀 [Dư địa phát triển điện mặt trời mái nhà của TPHCM còn rất lớn](https://nld.com.vn/sang-5-5-hoi-thao-ban-giai-phap-cung-ung-dien-cap-nhat-nhieu-thong-tin-dang-chu-y-ve-dien-mat-troi-196260504180250472.htm) - 00:59 05/05/2026
-- ⛽️ [Dễ dàng lắp đặt điện mặt trời mái nhà](https://nld.com.vn/de-dang-lap-dat-dien-mat-troi-mai-nha-196260503201952496.htm) - 23:41 03/05/2026
-- 🤔 [Những bữa ăn được giữ trọn sinh khí](https://nld.com.vn/nhung-bua-an-duoc-giu-tron-sinh-khi-196260503201753409.htm) - 22:40 03/05/2026
-- 🧠 [[Infographic] - Xe ôm chạy xăng ở Hà Nội sắp tới cần chú ý gì?](https://nld.com.vn/infogaphic-xe-om-chay-xang-o-ha-noi-sap-toi-can-chu-y-gi-196260503181707687.htm) - 22:00 03/05/2026
-- 💯 [Lộ trình siết kiểm soát khí thải ở nhà máy nhiệt điện](https://nld.com.vn/lo-trinh-siet-kiem-soat-khi-thai-o-nha-may-nhiet-dien-196260503201653451.htm) - 21:41 03/05/2026
-- 🤩 [Ngành điện TPHCM hướng dẫn thủ tục lắp điện mặt trời mái nhà](https://nld.com.vn/nganh-dien-tphcm-huong-dan-thu-tuc-lap-dien-mat-troi-mai-nha-196260503095003538.htm) - 03:49 03/05/2026
-- 🫶 [Điều gì khiến nhiều hộ gia đình chần chừ khi lắp điện mặt trời mái nhà?](https://nld.com.vn/dieu-gi-khien-nhieu-ho-gia-dinh-chan-chu-khi-lap-dien-mat-troi-mai-nha-196260501182242217.htm) - 04:35 02/05/2026
-- 🎃 [Điện lực TPHCM thông tin quan trọng cho người dân lắp đặt điện năng lượng mặt trời mái nhà](https://nld.com.vn/dien-luc-tphcm-thong-tin-quan-trong-cho-nguoi-dan-lap-dat-dien-nang-luong-mat-troi-mai-nha-196260501074537305.htm) - 00:14 02/05/2026
-- 🚦 [Thủ tướng: Đẩy mạnh điện mặt trời mái nhà tự dùng, tính phương án điện nổi ứng phó khẩn cấp](https://nld.com.vn/thu-tuong-day-manh-dien-mat-troi-mai-nha-tu-dung-tinh-phuong-an-dien-noi-ung-pho-khan-cap-196260429113604558.htm) - 06:30 29/04/2026
-- 🧰 [[Infographic] - Chi tiết điểm gửi xe, trạm sạc xung quanh khu vực cấm xe máy xăng ở Hà Nội](https://nld.com.vn/infographic-chi-tiet-diem-gui-xe-tram-sac-xe-dien-xung-quanh-khu-vuc-cam-xe-xang-o-ha-noi-19626042721051825.htm) - 21:00 27/04/2026
-- 🧰 [Gỡ rào cản cho điện mặt trời mái nhà tự dùng](https://nld.com.vn/go-rao-can-cho-dien-mat-troi-mai-nha-tu-dung-196260426193344959.htm) - 20:00 26/04/2026
-- 🚀 [Nắng nóng đỉnh điểm, người có nhu cầu lắp điện mặt trời đừng bỏ qua điều này kẻo “tiền mất tật mang”](https://nld.com.vn/nang-nong-dinh-diem-nguoi-co-nhu-cau-lap-dien-mat-troi-dung-bo-qua-dieu-nay-keo-tien-mat-tat-mang-19626042617291191.htm) - 10:55 26/04/2026
-- 🎉 [V-Green và Mediamart triển khai 1.000 tủ đổi pin xe máy điện](https://nld.com.vn/v-green-va-mediamart-trien-khai-1000-tu-doi-pin-xe-may-dien-196260424151419083.htm) - 11:50 24/04/2026
-- 🕯 [Nông nghiệp số, nông nghiệp xanh vẫn &quot;khát&quot; dòng tiền](https://nld.com.vn/nong-nghiep-so-nong-nghiep-xanh-van-khat-dong-tien-196260424165432847.htm) - 11:06 24/04/2026
-- 🕯 [Hãng hàng không ra mắt &quot;Liên minh Xanh - Phát triển bền vững&quot;](https://nld.com.vn/hang-hang-khong-ra-mat-lien-minh-xanh-phat-trien-ben-vung-196260422192530743.htm) - 12:46 22/04/2026
-- 🧠 [Analytica Hanoi 2026 đón sóng công nghệ sinh học mới](https://nld.com.vn/analytica-hanoi-2026-don-song-cong-nghe-sinh-hoc-moi-196260422111551748.htm) - 05:38 22/04/2026
-- 🙉 [Chuyển đổi năng lượng xanh – động lực tăng trưởng bền vững](https://nld.com.vn/chuyen-doi-nang-luong-xanh-dong-luc-tang-truong-ben-vung-19626042117213723.htm) - 11:09 21/04/2026
-- 🏊 [Hóa đơn tiền điện 2,4 triệu đồng/tháng: Lắp điện mặt trời sao cho tiết kiệm?](https://nld.com.vn/hoa-don-tien-dien-24-trieu-dong-thang-lap-dien-mat-troi-sao-cho-tiet-kiem-196260421153008974.htm) - 09:06 21/04/2026
-- 🎡 [Hướng đi mới cho pin năng lượng mặt trời](https://nld.com.vn/huong-di-moi-cho-pin-nang-luong-mat-troi-196260419202007642.htm) - 00:00 20/04/2026
-- 🧑‍🏫 [Khởi động &quot;cách mạng&quot; giao thông xanh](https://nld.com.vn/khoi-dong-cach-mang-giao-thong-xanh-196260419202232633.htm) - 19:26 19/04/2026
-- 🧑‍💻 [Những điều cần biết về xăng E10, nhiên liệu sắp thay thế xăng RON92, RON95?](https://nld.com.vn/nhung-dieu-can-biet-ve-xang-e10-nhien-lieu-sap-thay-the-xang-ron92-ron95-196260417163820406.htm) - 02:48 18/04/2026
-- 🚦 [Định hình hệ sinh thái doanh nghiệp bền vững](https://nld.com.vn/dinh-hinh-he-sinh-thai-doanh-nghiep-ben-vung-196260417194130211.htm) - 12:59 17/04/2026
-- 🥰 [Những lỗi dễ bị phạt khi lắp điện mặt trời mái nhà mà người dân cần biết](https://nld.com.vn/nhung-loi-de-bi-phat-khi-lap-dien-mat-troi-mai-nha-ma-nguoi-dan-can-biet-196260416133054749.htm) - 07:35 16/04/2026
-- 💯 [Khuyến khích và thúc đẩy sử dụng xe điện](https://nld.com.vn/khuyen-khich-va-thuc-day-su-dung-xe-dien-196260414203451302.htm) - 23:00 14/04/2026
-- 🎓 [Xanh SM bất ngờ đổi tên thương hiệu](https://nld.com.vn/xanh-sm-bat-ngo-doi-ten-thuong-hieu-196260414103706091.htm) - 03:49 14/04/2026
-- 🗽 [Xăng E10 sắp thay xăng khoáng, Bộ Công Thương nói gì về tính tương thích với xe máy, ô tô?](https://nld.com.vn/xang-e10-sap-thay-xang-khoang-bo-cong-thuong-noi-gi-ve-tinh-tuong-thich-voi-xe-may-o-to-196260413192526881.htm) - 12:41 13/04/2026<!-- nld-net-zero:END -->
+- 🦅 [Mở rộng trồng trọt giảm phát thải, nâng cao thu nhập cho nông dân](https://nld.com.vn/mo-rong-trong-trot-giam-phat-thai-nang-cao-thu-nhap-cho-nong-dan-196260518145521853.htm) - 08:39 18/05/2026
+- 🤗 [Doanh nghiệp phải tái chế bao bì, pin, đồ điện tử](https://nld.com.vn/doanh-nghiep-phai-tai-che-bao-bi-pin-do-dien-tu-196260517193403625.htm) - 22:59 17/05/2026
+- 🤡 [Lối đi riêng của điện mặt trời Nhật Bản](https://nld.com.vn/loi-di-rieng-cua-dien-mat-troi-nhat-ban-196260517193145728.htm) - 20:19 17/05/2026
+- 🌊 [Thứ trưởng Bộ Nông nghiệp và Môi trường: Hoàn thiện tiêu chí môi trường, ngăn &quot;xanh hóa hình thức&quot;](https://nld.com.vn/thu-truong-bo-nong-nghiep-va-moi-truong-hoan-thien-tieu-chi-moi-truong-ngan-xanh-hoa-hinh-thuc-196260516141625022.htm) - 07:40 16/05/2026
+- 🧰 [Giá tấm pin năng lượng, pin lưu trữ đồng loạt tăng giữa &quot;cơn sốt&quot; lắp điện mặt trời mái nhà](https://nld.com.vn/gia-tam-pin-nang-luong-pin-luu-tru-dong-loat-tang-giua-con-sot-lap-dien-mat-troi-mai-nha-196260516095742553.htm) - 05:48 16/05/2026
+- 🫶 [Kế hoạch mới của Bộ Công Thương, ai lắp điện mặt trời mái nhà sẽ được hỗ trợ?](https://nld.com.vn/ke-hoach-moi-cua-bo-cong-thuong-ai-lap-dien-mat-troi-mai-nha-se-duoc-ho-tro-196260515103320925.htm) - 04:03 15/05/2026
+- 🧑‍🏫 [Lắp điện mặt trời mái nhà: Tiết kiệm tiền điện, sao vẫn ít người làm?](https://nld.com.vn/lap-dien-mat-troi-mai-nha-tiet-kiem-tien-dien-sao-van-it-nguoi-lam-196260514155346861.htm) - 09:26 14/05/2026
+- 🔭 [Hàng loạt cây xăng tại TPHCM sắp ngừng bán xăng khoáng RON95](https://nld.com.vn/hang-loat-cay-xang-tai-tphcm-sap-ngung-ban-xang-khoang-ron95-196260514130701179.htm) - 06:43 14/05/2026
+- 🎉 [Thêm cú hích cho ô tô điện](https://nld.com.vn/them-cu-hich-cho-o-to-dien-196260510184124859.htm) - 22:28 10/05/2026
+- 🐘 [Vùng phát thải thấp ở Hà Nội: Người dân đi lại ra sao?](https://nld.com.vn/vung-phat-thai-thap-o-ha-noi-nguoi-dan-di-lai-ra-sao-196260507205621669.htm) - 22:00 07/05/2026
+- 🤓 [Điện mặt trời mái nhà vẫn va phải rào cản](https://nld.com.vn/dien-mat-troi-mai-nha-van-va-phai-rao-can-196260506200437797.htm) - 00:00 07/05/2026
+- 🫶 [Giá mua điện mặt trời mái nhà còn quá rẻ](https://nld.com.vn/gia-mua-dien-mat-troi-mai-nha-con-qua-re-196260506091944468.htm) - 03:51 06/05/2026
+- 🚀 [Đầu tư sớm 3-5 năm cho hạ tầng điện](https://nld.com.vn/dau-tu-som-3-5-nam-cho-ha-tang-dien-196260505202847965.htm) - 00:50 06/05/2026
+- ⛽️ [&quot;Chìa khóa&quot; phát triển của TP HCM](https://nld.com.vn/chia-khoa-phat-trien-cua-tp-hcm-196260505203737954.htm) - 00:15 06/05/2026
+- 🤔 [Dư địa phát triển điện mặt trời mái nhà của TPHCM còn rất lớn](https://nld.com.vn/sang-5-5-hoi-thao-ban-giai-phap-cung-ung-dien-cap-nhat-nhieu-thong-tin-dang-chu-y-ve-dien-mat-troi-196260504180250472.htm) - 00:59 05/05/2026
+- 🧠 [Dễ dàng lắp đặt điện mặt trời mái nhà](https://nld.com.vn/de-dang-lap-dat-dien-mat-troi-mai-nha-196260503201952496.htm) - 23:41 03/05/2026
+- 💯 [Những bữa ăn được giữ trọn sinh khí](https://nld.com.vn/nhung-bua-an-duoc-giu-tron-sinh-khi-196260503201753409.htm) - 22:40 03/05/2026
+- 🤩 [[Infographic] - Xe ôm chạy xăng ở Hà Nội sắp tới cần chú ý gì?](https://nld.com.vn/infogaphic-xe-om-chay-xang-o-ha-noi-sap-toi-can-chu-y-gi-196260503181707687.htm) - 22:00 03/05/2026
+- 🫶 [Lộ trình siết kiểm soát khí thải ở nhà máy nhiệt điện](https://nld.com.vn/lo-trinh-siet-kiem-soat-khi-thai-o-nha-may-nhiet-dien-196260503201653451.htm) - 21:41 03/05/2026
+- 🎃 [Ngành điện TPHCM hướng dẫn thủ tục lắp điện mặt trời mái nhà](https://nld.com.vn/nganh-dien-tphcm-huong-dan-thu-tuc-lap-dien-mat-troi-mai-nha-196260503095003538.htm) - 03:49 03/05/2026
+- 🚦 [Điều gì khiến nhiều hộ gia đình chần chừ khi lắp điện mặt trời mái nhà?](https://nld.com.vn/dieu-gi-khien-nhieu-ho-gia-dinh-chan-chu-khi-lap-dien-mat-troi-mai-nha-196260501182242217.htm) - 04:35 02/05/2026
+- 🧰 [Điện lực TPHCM thông tin quan trọng cho người dân lắp đặt điện năng lượng mặt trời mái nhà](https://nld.com.vn/dien-luc-tphcm-thong-tin-quan-trong-cho-nguoi-dan-lap-dat-dien-nang-luong-mat-troi-mai-nha-196260501074537305.htm) - 00:14 02/05/2026
+- 🧰 [Thủ tướng: Đẩy mạnh điện mặt trời mái nhà tự dùng, tính phương án điện nổi ứng phó khẩn cấp](https://nld.com.vn/thu-tuong-day-manh-dien-mat-troi-mai-nha-tu-dung-tinh-phuong-an-dien-noi-ung-pho-khan-cap-196260429113604558.htm) - 06:30 29/04/2026
+- 🚀 [[Infographic] - Chi tiết điểm gửi xe, trạm sạc xung quanh khu vực cấm xe máy xăng ở Hà Nội](https://nld.com.vn/infographic-chi-tiet-diem-gui-xe-tram-sac-xe-dien-xung-quanh-khu-vuc-cam-xe-xang-o-ha-noi-19626042721051825.htm) - 21:00 27/04/2026
+- 🎉 [Gỡ rào cản cho điện mặt trời mái nhà tự dùng](https://nld.com.vn/go-rao-can-cho-dien-mat-troi-mai-nha-tu-dung-196260426193344959.htm) - 20:00 26/04/2026
+- 🕯 [Nắng nóng đỉnh điểm, người có nhu cầu lắp điện mặt trời đừng bỏ qua điều này kẻo “tiền mất tật mang”](https://nld.com.vn/nang-nong-dinh-diem-nguoi-co-nhu-cau-lap-dien-mat-troi-dung-bo-qua-dieu-nay-keo-tien-mat-tat-mang-19626042617291191.htm) - 10:55 26/04/2026
+- 🕯 [V-Green và Mediamart triển khai 1.000 tủ đổi pin xe máy điện](https://nld.com.vn/v-green-va-mediamart-trien-khai-1000-tu-doi-pin-xe-may-dien-196260424151419083.htm) - 11:50 24/04/2026
+- 🧠 [Nông nghiệp số, nông nghiệp xanh vẫn &quot;khát&quot; dòng tiền](https://nld.com.vn/nong-nghiep-so-nong-nghiep-xanh-van-khat-dong-tien-196260424165432847.htm) - 11:06 24/04/2026
+- 🙉 [Hãng hàng không ra mắt &quot;Liên minh Xanh - Phát triển bền vững&quot;](https://nld.com.vn/hang-hang-khong-ra-mat-lien-minh-xanh-phat-trien-ben-vung-196260422192530743.htm) - 12:46 22/04/2026
+- 🏊 [Analytica Hanoi 2026 đón sóng công nghệ sinh học mới](https://nld.com.vn/analytica-hanoi-2026-don-song-cong-nghe-sinh-hoc-moi-196260422111551748.htm) - 05:38 22/04/2026
+- 🎡 [Chuyển đổi năng lượng xanh – động lực tăng trưởng bền vững](https://nld.com.vn/chuyen-doi-nang-luong-xanh-dong-luc-tang-truong-ben-vung-19626042117213723.htm) - 11:09 21/04/2026
+- 🧑‍🏫 [Hóa đơn tiền điện 2,4 triệu đồng/tháng: Lắp điện mặt trời sao cho tiết kiệm?](https://nld.com.vn/hoa-don-tien-dien-24-trieu-dong-thang-lap-dien-mat-troi-sao-cho-tiet-kiem-196260421153008974.htm) - 09:06 21/04/2026
+- 🧑‍💻 [Hướng đi mới cho pin năng lượng mặt trời](https://nld.com.vn/huong-di-moi-cho-pin-nang-luong-mat-troi-196260419202007642.htm) - 00:00 20/04/2026
+- 🚦 [Khởi động &quot;cách mạng&quot; giao thông xanh](https://nld.com.vn/khoi-dong-cach-mang-giao-thong-xanh-196260419202232633.htm) - 19:26 19/04/2026
+- 🥰 [Những điều cần biết về xăng E10, nhiên liệu sắp thay thế xăng RON92, RON95?](https://nld.com.vn/nhung-dieu-can-biet-ve-xang-e10-nhien-lieu-sap-thay-the-xang-ron92-ron95-196260417163820406.htm) - 02:48 18/04/2026
+- 💯 [Định hình hệ sinh thái doanh nghiệp bền vững](https://nld.com.vn/dinh-hinh-he-sinh-thai-doanh-nghiep-ben-vung-196260417194130211.htm) - 12:59 17/04/2026
+- 🎓 [Những lỗi dễ bị phạt khi lắp điện mặt trời mái nhà mà người dân cần biết](https://nld.com.vn/nhung-loi-de-bi-phat-khi-lap-dien-mat-troi-mai-nha-ma-nguoi-dan-can-biet-196260416133054749.htm) - 07:35 16/04/2026
+- 🗽 [Khuyến khích và thúc đẩy sử dụng xe điện](https://nld.com.vn/khuyen-khich-va-thuc-day-su-dung-xe-dien-196260414203451302.htm) - 23:00 14/04/2026<!-- nld-net-zero:END -->
