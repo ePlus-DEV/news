@@ -4,53 +4,53 @@ sidebar_position: 7
 ---
 
 <!-- nld-kinh-te:START -->
-- 💡 [Ngân hàng Nhà nước lần đầu lên tiếng về việc huy động vàng để mua bất động sản](https://nld.com.vn/ngan-hang-nha-nuoc-lan-dau-len-tieng-ve-viec-huy-dong-vang-de-mua-bat-dong-san-196260529230359251.htm) - 16:09 29/05/2026
-- 🗽 [Tối 29-5, giá vàng tăng rất mạnh, bạc cũng theo sát](https://nld.com.vn/toi-29-5-gia-vang-tang-rat-manh-bac-cung-theo-sat-196260529223649222.htm) - 15:59 29/05/2026
-- 🎊 [Bộ Công Thương có chỉ đạo sát ngày xăng E10 bán trên toàn quốc](https://nld.com.vn/bo-cong-thuong-co-chi-dao-sat-ngay-xang-e10-ban-tren-toan-quoc-196260529201118059.htm) - 13:19 29/05/2026
-- 🦩 [Bán hàng online tại Việt Nam sắp không cần người](https://nld.com.vn/ban-hang-online-tai-viet-nam-sap-khong-can-nguoi-196260529192856166.htm) - 13:07 29/05/2026
-- 🤓 [Đề xuất thí điểm thanh toán bằng stablecoin tại trung tâm tài chính quốc tế](https://nld.com.vn/de-xuat-thi-diem-thanh-toan-bang-stablecoin-tai-trung-tam-tai-chinh-quoc-te-196260529192142904.htm) - 12:52 29/05/2026
-- 🐎 [Trung tâm Tài chính quốc tế tại TPHCM hợp tác chiến lược với nhiều quỹ từ Singapore](https://nld.com.vn/trung-tam-tai-chinh-quoc-te-tai-tphcm-hop-tac-chien-luoc-voi-nhieu-quy-tu-singapore-1962605291901542.htm) - 12:20 29/05/2026
-- 🧠 [Cơ hội đón dòng vốn Hàn Quốc vào Khu Kinh tế Vân Phong](https://nld.com.vn/co-hoi-don-dong-von-han-quoc-vao-khu-kinh-te-van-phong-196260529181631377.htm) - 12:02 29/05/2026
-- 🦣 [Phát động Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TPHCM năm 2026](https://nld.com.vn/phat-dong-cuoc-thi-tim-hieu-nganh-nghe-nong-thon-va-bao-ve-moi-truong-nong-thon-tphcm-nam-2026-19626052917222863.htm) - 10:52 29/05/2026
-- 👨‍🏫 [Vì sao nhiều nhân sự bất động sản, ngân hàng lâu năm… chuyển sang tư vấn bảo hiểm?](https://nld.com.vn/vi-sao-nhieu-nhan-su-bat-dong-san-ngan-hang-lau-nam-chuyen-sang-tu-van-bao-hiem-196260529162726128.htm) - 10:29 29/05/2026
-- 🥰 [Nếu phương tiện bị hỏng do sử dụng E10, ai sẽ chịu trách nhiệm?](https://nld.com.vn/neu-phuong-tien-bi-hong-do-su-dung-e10-ai-se-chiu-trach-nhiem-196260529151001535.htm) - 09:10 29/05/2026
-- 🌊 [Ưu đãi hấp dẫn: Mua KIMLONG29, nhận ngay KIMLONGX9 hoặc KIMAN9](https://nld.com.vn/uu-dai-hap-dan-mua-kimlong29-nhan-ngay-kimlongx9-hoac-kiman9-196260529155549582.htm) - 08:55 29/05/2026
-- 🧐 [Chuyển đổi xanh trong nông nghiệp: Từ công nghệ đến thị trường](https://nld.com.vn/chuyen-doi-xanh-trong-nong-nghiep-tu-cong-nghe-den-thi-truong-1962605291521581.htm) - 08:43 29/05/2026
-- 👍 [Triển lãm Quốc tế ngành Sữa thúc đẩy đổi mới, nâng cao an toàn thực phẩm và minh bạch chuỗi giá trị](https://nld.com.vn/trien-lam-quoc-te-nganh-sua-thuc-day-doi-moi-nang-cao-an-toan-thuc-pham-va-minh-bach-chuoi-gia-tri-196260529144703251.htm) - 08:12 29/05/2026
-- 🤗 [Giám đốc Sở An toàn thực phẩm TPHCM: Thịt heo, gà pha lóc ở chợ rất khó truy xuất nguồn gốc](https://nld.com.vn/giam-doc-so-an-toan-thuc-pham-tphcm-thit-heo-ga-pha-loc-o-cho-rat-kho-truy-xuat-nguon-goc-196260529132259224.htm) - 07:05 29/05/2026
-- 🤖 [Hội Bảo vệ quyền lợi người tiêu dùng TPHCM gặp khó vì thiếu kinh phí hoạt động](https://nld.com.vn/hoi-bao-ve-quyen-loi-nguoi-tieu-dung-tphcm-gap-kho-vi-thieu-kinh-phi-hoat-dong-196260529130944273.htm) - 06:51 29/05/2026
-- 💂 [Ngân hàng OCB bổ nhiệm chuyên gia hàng đầu về AI làm quyền tổng giám đốc?](https://nld.com.vn/ngan-hang-ocb-bo-nhiem-chuyen-gia-hang-dau-ve-ai-lam-quyen-tong-giam-doc-196260529124152584.htm) - 06:06 29/05/2026
-- 🧰 [Giá bạc hôm nay, 29-5: Ngân hàng Mỹ dự báo có thể lên 100 USD/ounce](https://nld.com.vn/gia-bac-hom-nay-29-5-ngan-hang-my-du-bao-co-the-len-100-usd-ounce-196260529104748813.htm) - 04:44 29/05/2026
-- 🌮 [Thêm động lực cho điện mặt trời Việt Nam](https://nld.com.vn/them-dong-luc-cho-dien-mat-troi-viet-nam-196260529103922922.htm) - 04:16 29/05/2026
-- 🦆 [Xe đời cũ trước năm 2000 cần lưu ý gì khi dùng xăng E10?](https://nld.com.vn/xe-doi-cu-truoc-nam-2000-can-luu-y-gi-khi-dung-xang-e10-196260529104011596.htm) - 04:02 29/05/2026
-- 💫 [Giá vàng miếng SJC biến động mạnh, tăng đến 2,5 triệu đồng/lượng](https://nld.com.vn/gia-vang-mieng-sjc-bien-dong-manh-tang-den-25-trieu-dong-luong-196260529092308455.htm) - 02:41 29/05/2026
-- 🎓 [Giá heo hơi hôm nay, 29-5: Giảm hầu hết ở các vùng miền](https://nld.com.vn/gia-heo-hoi-hom-nay-29-5-giam-hau-het-o-cac-vung-mien-196260529081310922.htm) - 01:29 29/05/2026
-- 🎡 [Yêu cầu Shopee không áp dụng các loại phí mới](https://nld.com.vn/yeu-cau-shopee-khong-ap-dung-cac-loai-phi-moi-196260528204442685.htm) - 00:00 29/05/2026
-- 💄 [Giá cà phê hôm nay, 29-5: Bật tăng trên cả 2 sàn](https://nld.com.vn/gia-ca-phe-hom-nay-29-5-bat-tang-tren-ca-2-san-196260529061024782.htm) - 23:33 28/05/2026
-- 🤔 [Giá vàng hôm nay, 29-5: Bất ngờ đảo chiều tăng mạnh](https://nld.com.vn/gia-vang-hom-nay-29-5-bat-ngo-dao-chieu-tang-manh-196260529061640336.htm) - 23:23 28/05/2026
-- 💫 [Tăng tốc thu hút dòng vốn đổi mới sáng tạo](https://nld.com.vn/tang-toc-thu-hut-dong-von-doi-moi-sang-tao-196260528204247134.htm) - 23:00 28/05/2026
-- 🧰 [Chọn cổ phiếu ngân hàng nửa cuối năm 2026](https://nld.com.vn/chon-co-phieu-ngan-hang-nua-cuoi-nam-2026-196260528205009293.htm) - 22:00 28/05/2026
-- 🦍 [Ranh giới giữa review và &quot;bóc phốt&quot;](https://nld.com.vn/ranh-gioi-giua-review-va-boc-phot-196260528204401641.htm) - 22:00 28/05/2026
-- 🤡 [Yêu cầu Shopee không áp dụng các loại phí mới với người bán hàng](https://nld.com.vn/yeu-cau-shopee-khong-ap-dung-cac-loai-phi-moi-voi-nguoi-ban-hang-196260528162242269.htm) - 22:00 28/05/2026
-- 😎 [Vietnam Airlines công bố đường bay thẳng TPHCM - Phuket và mở rộng hợp tác chiến lược tại Thái Lan](https://nld.com.vn/vietnam-airlines-cong-bo-duong-bay-thang-tphcm-phuket-va-mo-rong-hop-tac-chien-luoc-tai-thai-lan-196260528193916483.htm) - 13:16 28/05/2026
-- ⚗️ [Xổ số miền Nam ngày 28-5: Giải độc đắc đài An Giang và Tây Ninh xuất hiện sớm](https://nld.com.vn/xo-so-mien-nam-ngay-28-5-giai-doc-dac-dai-an-giang-va-tay-ninh-xuat-hien-som-196260528175613834.htm) - 11:30 28/05/2026
-- 🎬 [Cổ phiếu ngân hàng nửa cuối năm 2026: Cơ hội nào cho nhà đầu tư?](https://nld.com.vn/co-phieu-ngan-hang-nua-cuoi-nam-2026-co-hoi-nao-cho-nha-dau-tu-196260528174155446.htm) - 11:10 28/05/2026
-- 🧰 [Một ông lớn ngành thực phẩm dự kiến bán bánh mì que, cơm nắm, cá viên](https://nld.com.vn/mot-ong-lon-nganh-thuc-pham-du-kien-ban-banh-mi-que-com-nam-ca-vien-196260528165552775.htm) - 10:16 28/05/2026
-- 🤗 [Một siêu thị &quot;chốt đơn&quot; vải thiều Bắc Ninh, muốn tăng gấp đôi sản lượng tiêu thụ](https://nld.com.vn/mot-sieu-thi-chot-don-vai-thieu-bac-ninh-muon-tang-gap-doi-san-luong-tieu-thu-19626052815452207.htm) - 09:39 28/05/2026
-- 🎬 [Lần đầu tiên sữa, kem và trà sữa cùng hội tụ tại triển lãm quốc tế](https://nld.com.vn/lan-dau-tien-sua-kem-va-tra-sua-cung-hoi-tu-tai-trien-lam-quoc-te-196260528132013276.htm) - 07:53 28/05/2026
-- 📝 [Giá xăng dầu đồng loạt giảm mạnh, xăng RON95-III giảm tới 1.395 đồng/lít](https://nld.com.vn/gia-xang-dau-dong-loat-giam-manh-xang-ron95-iii-giam-toi-1395-dong-lit-196260527164417745.htm) - 07:53 28/05/2026
-- 🚦 [Nhiều người ở 2 tỉnh trúng 3 giải độc đắc xổ số miền Nam](https://nld.com.vn/nhieu-nguoi-o-2-tinh-trung-3-giai-doc-dac-xo-so-mien-nam-196260528140340634.htm) - 07:10 28/05/2026
-- 🧑‍💻 [TPHCM: Dồn dập vây bắt hàng giả](https://nld.com.vn/tphcm-don-dap-vay-bat-hang-gia-19626052812320334.htm) - 06:32 28/05/2026
-- 👨‍🏫 [Đang diễn ra talkshow chứng khoán: &quot;Kỳ vọng nào cho cổ phiếu ngân hàng nửa cuối năm 2026?&quot;](https://nld.com.vn/dang-dien-ra-talkshow-chung-khoan-ky-vong-nao-cho-co-phieu-ngan-hang-nua-cuoi-nam-2026-196260528102949453.htm) - 03:32 28/05/2026
-- 🤩 [Rớt thêm 1,7 triệu đồng, giá vàng miếng SJC, vàng nhẫn xuống đáy](https://nld.com.vn/rot-them-17-trieu-dong-gia-vang-mieng-sjc-vang-nhan-xuong-day-196260528093542006.htm) - 02:59 28/05/2026
-- 🫣 [Tìm lại ký ức ngành điện qua cuộc thi clip 50 năm](https://nld.com.vn/tim-lai-ky-uc-nganh-dien-qua-cuoc-thi-clip-50-nam-196260528082404754.htm) - 02:22 28/05/2026
-- 👀 [ACB hoàn thiện chiến lược phát triển bền vững, định hình nền tăng trưởng mới](https://nld.com.vn/acb-hoan-thien-chien-luoc-phat-trien-ben-vung-dinh-hinh-nen-tang-truong-moi-196260527181249861.htm) - 01:00 28/05/2026
-- 🪄 [Từ “DNA công nghệ” tới Siêu cảng logistics của Bầu Hiển](https://nld.com.vn/tu-dna-cong-nghe-toi-sieu-cang-logistics-cua-bau-hien-196260527164426233.htm) - 01:00 28/05/2026
-- 🐲 [Tập đoàn Công nghệ CMC bị phạt 225 triệu đồng](https://nld.com.vn/tap-doan-cong-nghe-cmc-bi-phat-225-trieu-dong-19626052807010769.htm) - 00:22 28/05/2026
-- 🌝 [Giá cà phê hôm nay 28-5: Arabica giảm mạnh, Colombia trúng mùa](https://nld.com.vn/gia-ca-phe-hom-nay-28-5-arabica-giam-manh-colombia-trung-mua-196260528053956694.htm) - 00:03 28/05/2026
-- 🥸 [Giá vàng hôm nay 28-5: Tiếp tục giảm](https://nld.com.vn/gia-vang-hom-nay-28-5-tiep-tuc-giam-196260528061123962.htm) - 23:23 27/05/2026
-- 🦅 [Thứ trưởng Bộ Công Thương nói lý do không bán song song xăng khoáng RON 95 cùng với E10](https://nld.com.vn/thu-truong-bo-cong-thuong-noi-ly-do-khong-ban-song-song-xang-khoang-ron-95-cung-voi-e10-196260527210205156.htm) - 23:00 27/05/2026
-- 🐵 [Hai giải độc đắc và 3 giải an ủi xổ số miền Nam lộ diện vào sáng 28-5](https://nld.com.vn/hai-giai-doc-dac-va-3-giai-an-ui-xo-so-mien-nam-lo-dien-vao-sang-28-5-196260527185028858.htm) - 22:48 27/05/2026
-- 🌏 [Nghịch lý sức mua từ phân khúc căn hộ](https://nld.com.vn/nghich-ly-suc-mua-tu-phan-khuc-can-ho-196260527195751621.htm) - 22:10 27/05/2026
-- 🎓 [Giá vàng và bạc đang giảm rất nhanh](https://nld.com.vn/gia-vang-va-bac-dang-giam-rat-nhanh-196260527221129563.htm) - 15:20 27/05/2026
-- 🤗 [Biến động nhân sự cấp cao tại Tổng Công ty Truyền tải điện quốc gia](https://nld.com.vn/bien-dong-nhan-su-cap-cao-tai-tong-cong-ty-truyen-tai-dien-quoc-gia-196260527204135365.htm) - 13:47 27/05/2026<!-- nld-kinh-te:END -->
+- 💡 [Khởi nghiệp nông nghiệp công nghệ cao không dễ](https://nld.com.vn/khoi-nghiep-nong-nghiep-cong-nghe-cao-khong-de-196260531192809517.htm) - 20:00 31/05/2026
+- 🗽 [CLIP: Khai mạc Lễ hội Trái cây Nam Bộ, hàng ngàn du khách đến Suối Tiên](https://nld.com.vn/clip-khai-mac-le-hoi-trai-cay-nam-bo-hang-ngan-du-khach-den-suoi-tien-196260531162724624.htm) - 10:08 31/05/2026
+- 🎊 [Lộ diện nhiều người trúng 1 giải độc đắc và 2 giải an ủi xổ số miền Nam](https://nld.com.vn/lo-dien-nhieu-nguoi-trung-1-giai-doc-dac-va-2-giai-an-ui-xo-so-mien-nam-196260531142047263.htm) - 07:22 31/05/2026
+- 🦩 [Đề xuất định danh người gửi hàng hóa qua bưu chính](https://nld.com.vn/de-xuat-dinh-danh-nguoi-gui-hang-hoa-qua-buu-chinh-196260531105341794.htm) - 05:28 31/05/2026
+- 🤓 [Lộ diện nữ công nhân may mặc trúng độc đắc xổ số miền Nam](https://nld.com.vn/lo-dien-nu-cong-nhan-may-mac-trung-doc-dac-xo-so-mien-nam-196260531091723609.htm) - 02:22 31/05/2026
+- 🐎 [Giá cà phê hôm nay 31-5: Việt Nam bắt đầu giảm lượng cà phê ra thị trường](https://nld.com.vn/gia-ca-phe-hom-nay-31-5-viet-nam-bat-dau-giam-luong-ca-phe-ra-thi-truong-196260531075613017.htm) - 01:01 31/05/2026
+- 🧠 [Giá heo mảnh hôm nay, 31-5: Các vùng miền tiếp tục giảm](https://nld.com.vn/gia-heo-manh-hom-nay-31-5-cac-vung-mien-tiep-tuc-giam-196260531072023082.htm) - 01:01 31/05/2026
+- 🦣 [Giá vàng hôm nay 31-5: Ba tuần, người mua vàng miếng SJC, vàng nhẫn lỗ gần chục triệu đồng/lượng](https://nld.com.vn/gia-vang-hom-nay-31-5-ba-tuan-nguoi-mua-vang-mieng-sjc-vang-nhan-lo-gan-chuc-trieu-dong-luong-196260531073706801.htm) - 00:37 31/05/2026
+- 👨‍🏫 [Tăng tốc kích cầu tiêu dùng](https://nld.com.vn/tang-toc-kich-cau-tieu-dung-196260530215043695.htm) - 00:30 31/05/2026
+- 🥰 [Tồn kho ô tô tăng cao, vắng bóng mẫu mới](https://nld.com.vn/ton-kho-o-to-tang-cao-vang-bong-mau-moi-196260530212205969.htm) - 23:30 30/05/2026
+- 🌊 [Đi ăn buffet sầu riêng, gặp thợ gõ - khui sầu riêng lương 60 triệu đồng/tháng](https://nld.com.vn/di-an-buffet-sau-rieng-gap-tho-go-khui-sau-rieng-luong-60-trieu-dong-thang-196260530214437902.htm) - 15:26 30/05/2026
+- 🧐 [Đề xuất lộ trình và mức hỗ trợ chuyển đổi giao thông xanh tại TPHCM đến 2040](https://nld.com.vn/de-xuat-lo-trinh-va-muc-ho-tro-chuyen-doi-giao-thong-xanh-tai-tphcm-den-2040-196260530213421263.htm) - 14:48 30/05/2026
+- 👍 [Ngân hàng Nhà nước Việt Nam và Bộ Tài chính Mỹ ra tuyên bố chung về điều hành tiền tệ](https://nld.com.vn/ngan-hang-nha-nuoc-viet-nam-va-bo-tai-chinh-my-ra-tuyen-bo-chung-ve-dieu-hanh-tien-te-196260530202139067.htm) - 13:29 30/05/2026
+- 🤗 [VAMM nói gì về lo ngại xăng E10 làm hỏng động cơ, giảm độ bền của xe máy?](https://nld.com.vn/vamm-noi-gi-ve-lo-ngai-xang-e10-lam-hong-dong-co-giam-do-ben-cua-xe-may-196260530170642843.htm) - 11:49 30/05/2026
+- 🤖 [Vinamilk mang câu chuyện 50 năm đến triển lãm chuyên ngành sữa lớn nhất Việt Nam](https://nld.com.vn/vinamilk-mang-cau-chuyen-50-nam-den-trien-lam-chuyen-nganh-sua-lon-nhat-viet-nam-196260530173821782.htm) - 10:41 30/05/2026
+- 💂 [Đà Nẵng thông qua bảng giá đất, các địa phương ven biển phía Nam biến động mạnh](https://nld.com.vn/da-nang-thong-qua-bang-gia-dat-cac-dia-phuong-ven-bien-phia-nam-bien-dong-manh-196260530161513408.htm) - 09:53 30/05/2026
+- 🧰 [Một tập đoàn đề xuất loạt “siêu” dự án ở Lâm Đồng](https://nld.com.vn/mot-tap-doan-de-xuat-loat-sieu-du-an-o-lam-dong-196260530162737802.htm) - 09:46 30/05/2026
+- 🌮 [Xổ số miền Nam: Trúng độc đắc 10 tỉ đồng, khách đến đổi… lộn công ty](https://nld.com.vn/xo-so-mien-nam-trung-doc-dac-10-ti-dong-khach-den-doi-lon-cong-ty-196260530152605606.htm) - 08:35 30/05/2026
+- 🦆 [Shopee, Lazada nói gì về cuộc chiến chống hàng giả, hàng nhái trên sàn?](https://nld.com.vn/shopee-tiktok-shop-lazada-noi-gi-ve-cuoc-chien-chong-hang-gia-hang-nhai-tren-san-196260530135105202.htm) - 07:14 30/05/2026
+- 💫 [Điều gì đang khiến nhà đầu tư quay lưng với chứng khoán?](https://nld.com.vn/dieu-gi-dang-khien-nha-dau-tu-quay-lung-voi-chung-khoan-196260530112226955.htm) - 04:56 30/05/2026
+- 🎓 [Một ngày trước 1-6, Bộ Công Thương yêu cầu hãng xe đánh giá toàn diện tác động của xăng E10](https://nld.com.vn/mot-ngay-truoc-1-6-bo-cong-thuong-yeu-cau-hang-xe-danh-gia-toan-dien-tac-dong-cua-xang-e10-196260530114427073.htm) - 04:49 30/05/2026
+- 🎡 [Giá bạc hôm nay 30-5: Lỗ gần 500 triệu đồng vì mua bạc lúc đỉnh, nên chờ tiếp hay cắt lỗ?](https://nld.com.vn/gia-bac-hom-nay-30-5-lo-gan-500-trieu-dong-vi-mua-bac-luc-dinh-nen-cho-tiep-hay-cat-lo-196260530103328596.htm) - 03:52 30/05/2026
+- 💄 [&quot;Cứu&quot; ngành chuối khỏi căn bệnh gây thất thoát hàng triệu USD mỗi năm](https://nld.com.vn/cuu-nganh-chuoi-khoi-can-benh-gay-that-thoat-hang-trieu-usd-moi-nam-196260530091252505.htm) - 02:55 30/05/2026
+- 🤔 [Sáng 30-5, giá vàng miếng SJC, vàng nhẫn rút ngắn cách biệt với giá thế giới](https://nld.com.vn/sang-30-5-gia-vang-mieng-sjc-vang-nhan-rut-ngan-cach-biet-voi-gia-the-gioi-196260530093952269.htm) - 02:47 30/05/2026
+- 💫 [Không dám ngủ vì sợ đang mơ, nữ nhân viên cao su kể chuyện được hỗ trợ từ &quot;Nhà đồng chí&quot;](https://nld.com.vn/khong-dam-ngu-vi-so-dang-mo-nu-nhan-vien-cao-su-ke-chuyen-duoc-ho-tro-tu-nha-dong-chi-196260530084249112.htm) - 02:38 30/05/2026
+- 🧰 [TP HCM mạnh tay truy quét hàng giả](https://nld.com.vn/tp-hcm-manh-tay-truy-quet-hang-gia-196260529205925128.htm) - 01:00 30/05/2026
+- 🦍 [Giá cà phê hôm nay 30-5: Arabica lao dốc, người Việt uống cà phê nhiều hơn](https://nld.com.vn/gia-ca-phe-hom-nay-30-5-arabica-lao-doc-nguoi-viet-uong-ca-phe-nhieu-hon-196260530070934083.htm) - 00:55 30/05/2026
+- 🤡 [Giá vàng hôm nay, 30-5: Tiếp tục tăng mạnh](https://nld.com.vn/gia-vang-hom-nay-30-5-tiep-tuc-tang-manh-196260530061908665.htm) - 23:50 29/05/2026
+- 😎 [[eMagazine] - Những điều cần biết về xăng E10 trước ngày bán đại trà 1-6](https://nld.com.vn/emagazine-nhung-dieu-can-biet-ve-xang-e10-truoc-ngay-ban-dai-tra-1-6-196260528230323272.htm) - 22:30 29/05/2026
+- ⚗️ [Hút du khách quốc tế nhờ thanh toán QR](https://nld.com.vn/hut-du-khach-quoc-te-nho-thanh-toan-qr-196260529205435208.htm) - 22:00 29/05/2026
+- 🎬 [Ngân hàng Nhà nước lần đầu lên tiếng về việc huy động vàng để mua bất động sản](https://nld.com.vn/ngan-hang-nha-nuoc-lan-dau-len-tieng-ve-viec-huy-dong-vang-de-mua-bat-dong-san-196260529230359251.htm) - 16:09 29/05/2026
+- 🧰 [Tối 29-5, giá vàng tăng rất mạnh, bạc cũng theo sát](https://nld.com.vn/toi-29-5-gia-vang-tang-rat-manh-bac-cung-theo-sat-196260529223649222.htm) - 15:59 29/05/2026
+- 🤗 [Bộ Công Thương có chỉ đạo sát ngày xăng E10 bán trên toàn quốc](https://nld.com.vn/bo-cong-thuong-co-chi-dao-sat-ngay-xang-e10-ban-tren-toan-quoc-196260529201118059.htm) - 13:19 29/05/2026
+- 🎬 [Bán hàng online tại Việt Nam sắp không cần người](https://nld.com.vn/ban-hang-online-tai-viet-nam-sap-khong-can-nguoi-196260529192856166.htm) - 13:07 29/05/2026
+- 📝 [Đề xuất thí điểm thanh toán bằng stablecoin tại trung tâm tài chính quốc tế](https://nld.com.vn/de-xuat-thi-diem-thanh-toan-bang-stablecoin-tai-trung-tam-tai-chinh-quoc-te-196260529192142904.htm) - 12:52 29/05/2026
+- 🚦 [Trung tâm Tài chính quốc tế tại TPHCM hợp tác chiến lược với nhiều quỹ từ Singapore](https://nld.com.vn/trung-tam-tai-chinh-quoc-te-tai-tphcm-hop-tac-chien-luoc-voi-nhieu-quy-tu-singapore-1962605291901542.htm) - 12:20 29/05/2026
+- 🧑‍💻 [Cơ hội đón dòng vốn Hàn Quốc vào Khu Kinh tế Vân Phong](https://nld.com.vn/co-hoi-don-dong-von-han-quoc-vao-khu-kinh-te-van-phong-196260529181631377.htm) - 12:02 29/05/2026
+- 👨‍🏫 [Phát động Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TPHCM năm 2026](https://nld.com.vn/phat-dong-cuoc-thi-tim-hieu-nganh-nghe-nong-thon-va-bao-ve-moi-truong-nong-thon-tphcm-nam-2026-19626052917222863.htm) - 10:52 29/05/2026
+- 🤩 [Vì sao nhiều nhân sự bất động sản, ngân hàng lâu năm… chuyển sang tư vấn bảo hiểm?](https://nld.com.vn/vi-sao-nhieu-nhan-su-bat-dong-san-ngan-hang-lau-nam-chuyen-sang-tu-van-bao-hiem-196260529162726128.htm) - 10:29 29/05/2026
+- 🫣 [Nếu phương tiện bị hỏng do sử dụng E10, ai sẽ chịu trách nhiệm?](https://nld.com.vn/neu-phuong-tien-bi-hong-do-su-dung-e10-ai-se-chiu-trach-nhiem-196260529151001535.htm) - 09:10 29/05/2026
+- 👀 [Ưu đãi hấp dẫn: Mua KIMLONG29, nhận ngay KIMLONGX9 hoặc KIMAN9](https://nld.com.vn/uu-dai-hap-dan-mua-kimlong29-nhan-ngay-kimlongx9-hoac-kiman9-196260529155549582.htm) - 08:55 29/05/2026
+- 🪄 [Chuyển đổi xanh trong nông nghiệp: Từ công nghệ đến thị trường](https://nld.com.vn/chuyen-doi-xanh-trong-nong-nghiep-tu-cong-nghe-den-thi-truong-1962605291521581.htm) - 08:43 29/05/2026
+- 🐲 [Triển lãm Quốc tế ngành Sữa thúc đẩy đổi mới, nâng cao an toàn thực phẩm và minh bạch chuỗi giá trị](https://nld.com.vn/trien-lam-quoc-te-nganh-sua-thuc-day-doi-moi-nang-cao-an-toan-thuc-pham-va-minh-bach-chuoi-gia-tri-196260529144703251.htm) - 08:12 29/05/2026
+- 🌝 [Giám đốc Sở An toàn thực phẩm TPHCM: Thịt heo, gà pha lóc ở chợ rất khó truy xuất nguồn gốc](https://nld.com.vn/giam-doc-so-an-toan-thuc-pham-tphcm-thit-heo-ga-pha-loc-o-cho-rat-kho-truy-xuat-nguon-goc-196260529132259224.htm) - 07:05 29/05/2026
+- 🥸 [Hội Bảo vệ quyền lợi người tiêu dùng TPHCM gặp khó vì thiếu kinh phí hoạt động](https://nld.com.vn/hoi-bao-ve-quyen-loi-nguoi-tieu-dung-tphcm-gap-kho-vi-thieu-kinh-phi-hoat-dong-196260529130944273.htm) - 06:51 29/05/2026
+- 🦅 [Ngân hàng OCB bổ nhiệm chuyên gia hàng đầu về AI làm quyền tổng giám đốc?](https://nld.com.vn/ngan-hang-ocb-bo-nhiem-chuyen-gia-hang-dau-ve-ai-lam-quyen-tong-giam-doc-196260529124152584.htm) - 06:06 29/05/2026
+- 🐵 [Giá bạc hôm nay, 29-5: Ngân hàng Mỹ dự báo có thể lên 100 USD/ounce](https://nld.com.vn/gia-bac-hom-nay-29-5-ngan-hang-my-du-bao-co-the-len-100-usd-ounce-196260529104748813.htm) - 04:44 29/05/2026
+- 🌏 [Thêm động lực cho điện mặt trời Việt Nam](https://nld.com.vn/them-dong-luc-cho-dien-mat-troi-viet-nam-196260529103922922.htm) - 04:16 29/05/2026
+- 🎓 [Xe đời cũ trước năm 2000 cần lưu ý gì khi dùng xăng E10?](https://nld.com.vn/xe-doi-cu-truoc-nam-2000-can-luu-y-gi-khi-dung-xang-e10-196260529104011596.htm) - 04:02 29/05/2026
+- 🤗 [Giá vàng miếng SJC biến động mạnh, tăng đến 2,5 triệu đồng/lượng](https://nld.com.vn/gia-vang-mieng-sjc-bien-dong-manh-tang-den-25-trieu-dong-luong-196260529092308455.htm) - 02:41 29/05/2026<!-- nld-kinh-te:END -->
