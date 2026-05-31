@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Vượt qua Arsenal trên loạt luân lưu, PSG vô địch cúp C1 châu Âu mùa giải 2025/26](https://vov.vn/the-thao/vuot-qua-arsenal-tren-loat-luan-luu-psg-vo-dich-cup-c1-chau-au-mua-giai-202526-post1296318.vov) - 19:13 30/05/2026
-- 🕯 [Mỹ chưa đưa ra quyết định cuối cùng về thỏa thuận với Iran](https://vov.vn/the-gioi/my-chua-dua-ra-quyet-dinh-cuoi-cung-ve-thoa-thuan-voi-iran-post1296475.vov) - 15:45 30/05/2026
-- 🌊 [Hà Nội có thể chưa cấm xe ôm công nghệ chạy xăng vào Vùng phát thải thấp từ 1/7](https://vov.vn/xa-hoi/ha-noi-co-the-chua-cam-xe-om-cong-nghe-chay-xang-vao-vung-phat-thai-thap-tu-17-post1296464.vov) - 14:46 30/05/2026
-- 🥷 [Việt Nam lên tiếng về việc Mỹ khởi xướng điều tra sở hữu trí tuệ theo Mục 301](https://vov.vn/chinh-tri/viet-nam-len-tieng-ve-viec-my-khoi-xuong-dieu-tra-so-huu-tri-tue-theo-muc-301-post1296426.vov) - 12:21 30/05/2026
-- 🎡 [Xin nghỉ làm nhiều ngày, thuê trọ sát điểm thi để cùng con vượt kỳ thi lớp 10](https://vov.vn/xa-hoi/xin-nghi-lam-nhieu-ngay-thue-tro-sat-diem-thi-de-cung-con-vuot-ky-thi-lop-10-post1296407.vov) - 10:51 30/05/2026
-- 🚀 [Tuyển sinh lớp 10 Hà Nội: &amp;quot;Đề thi Tiếng Anh không còn là bài kiểm tra kiến thức đơn thuần&amp;quot;](https://vov.vn/xa-hoi/tuyen-sinh-lop-10-ha-noi-de-thi-tieng-anh-khong-con-la-bai-kiem-tra-kien-thuc-don-thuan-post1296416.vov) - 10:50 30/05/2026
-- 🔥 [9.950 phạm nhân được đặc xá năm 2026](https://vov.vn/chinh-tri/9950-pham-nhan-duoc-dac-xa-nam-2026-post1296399.vov) - 10:33 30/05/2026
-- 🌋 [Cá chết nổi trắng mặt hồ ở Cầu Giấy, bốc mùi nồng nặc dưới nắng như đổ lửa](https://vov.vn/xa-hoi/ca-chet-noi-trang-mat-ho-o-cau-giay-boc-mui-nong-nac-duoi-nang-nhu-do-lua-post1296389.vov) - 10:03 30/05/2026
-- 🕴 [Đáp án toàn bộ 24 mã đề thi Tiếng Anh kỳ thi tuyển sinh lớp 10 ở Hà Nội 2026](https://vov.vn/xa-hoi/dap-an-toan-bo-24-ma-de-thi-tieng-anh-ky-thi-tuyen-sinh-lop-10-o-ha-noi-2026-post1296343.vov) - 09:35 30/05/2026
-- 🥰 [Cách tính lương cơ sở, phụ cấp mới áp dụng từ 1/7](https://vov.vn/chinh-tri/cach-tinh-luong-co-so-phu-cap-moi-ap-dung-tu-17-post1296353.vov) - 07:48 30/05/2026
-- 🧐 [Báo chí quốc tế đánh giá cao thông điệp của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/bao-chi-quoc-te-danh-gia-cao-thong-diep-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1296321.vov) - 04:56 30/05/2026<!-- vov:END -->
+- 🌜 [Trực tiếp HAGL 2-1 Hà Nội FC: Gia Bảo tỏa sáng rực rỡ](https://vov.vn/the-thao/truc-tiep-hagl-2-1-ha-noi-fc-gia-bao-toa-sang-ruc-ro-post1296525.vov) - 12:40 31/05/2026
+- 🕯 [Trực tiếp HAGL 2-1 Hà Nội FC: Gia Bảo tỏa sáng rực rỡ](https://vov.vn/the-thao/truc-tiep-hagl-2-1-ha-noi-fc-gia-bao-toa-sang-ruc-ro-post1296525.vov) - 12:40 31/05/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước: Kiều bào là nguồn lực quan trọng của đất nước](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-kieu-bao-la-nguon-luc-quan-trong-cua-dat-nuoc-post1296640.vov) - 10:51 31/05/2026
+- 🥷 [Kết thúc kỳ thi vào lớp 10 Hà Nội 2026: Đề thi đổi mới, áp lực vẫn chưa hạ nhiệt](https://vov.vn/xa-hoi/ket-thuc-ky-thi-vao-lop-10-ha-noi-2026-de-thi-doi-moi-ap-luc-van-chua-ha-nhiet-post1296533.vov) - 10:15 31/05/2026
+- 🎡 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân dâng hoa tại Tượng đài Bác Hồ ở Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-dang-hoa-tai-tuong-dai-bac-ho-o-philippines-post1296608.vov) - 09:57 31/05/2026
+- 🚀 [TP.HCM công bố nhóm đối tượng được khám sức khỏe miễn phí](https://vov.vn/xa-hoi/tphcm-cong-bo-nhom-doi-tuong-duoc-kham-suc-khoe-mien-phi-post1296623.vov) - 09:51 31/05/2026
+- 🔥 [Iran tuyên bố bắn hạ thêm UAV quân sự trị giá hàng triệu USD của Mỹ](https://vov.vn/the-gioi/iran-tuyen-bo-ban-ha-them-uav-quan-su-tri-gia-hang-trieu-usd-cua-my-post1296599.vov) - 09:32 31/05/2026
+- 🌋 [Đề thi Toán lớp 10 Hà Nội 2026: Giáo viên dự báo sẽ không nhiều điểm 10](https://vov.vn/xa-hoi/de-thi-toan-lop-10-ha-noi-2026-giao-vien-du-bao-se-khong-nhieu-diem-10-post1296560.vov) - 05:09 31/05/2026
+- 🕴 [Xác minh, xử lý &amp;quot;thầy dạy lái ô tô&amp;quot; chỉ học viên đi sai làn, cãi CSGT ở Hà Nội](https://vov.vn/xa-hoi/xac-minh-xu-ly-thay-day-lai-o-to-chi-hoc-vien-di-sai-lan-cai-csgt-o-ha-noi-post1296511.vov) - 02:27 31/05/2026
+- 🥰 [Cảnh báo cứng rắn của Iran và các kịch bản nếu ngoại giao thất bại](https://vov.vn/the-gioi/quan-sat/canh-bao-cung-ran-cua-iran-va-cac-kich-ban-neu-ngoai-giao-that-bai-post1296349.vov) - 23:12 30/05/2026
+- 🧐 [“Đốt” hàng nghìn tên lửa tại Iran, Mỹ mất bao lâu để lấp đầy kho vũ khí?](https://vov.vn/quan-su-quoc-phong/vu-khi/dot-hang-nghin-ten-lua-tai-iran-my-mat-bao-lau-de-lap-day-kho-vu-khi-post1296149.vov) - 23:02 30/05/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
