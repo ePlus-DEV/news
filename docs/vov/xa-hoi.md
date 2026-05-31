@@ -62,5 +62,5 @@ sidebar_position: 3
 - 🎊 [Chuyên gia cảnh báo, nắng nóng năm nay có thể vượt ngưỡng lịch sử](https://vov.vn/xa-hoi/chuyen-gia-canh-bao-nang-nong-nam-nay-co-the-vuot-nguong-lich-su-post1296002.vov) - 00:00 30/05/2026
 - 🦄 [Hà Nội: Sĩ tử và phụ huynh nỗ lực hóa giải áp lực trước kỳ thi lớp 10](https://vov.vn/xa-hoi/ha-noi-si-tu-va-phu-huynh-no-luc-hoa-giai-ap-luc-truoc-ky-thi-lop-10-post1296247.vov) - 23:18 29/05/2026
 - 🐻 [Số hoá tại một số trường học ở Lâm Đồng còn nhiều khó khăn cần tiếp tục tháo gỡ](https://vov.vn/xa-hoi/so-hoa-tai-mot-so-truong-hoc-o-lam-dong-con-nhieu-kho-khan-can-tiep-tuc-thao-go-post1296059.vov) - 23:12 29/05/2026
-- 🤡 [Đồng Tháp đẩy nhanh tiến độ xây dựng trường nội trú tại các xã, phường biên giới](https://vov.vn/xa-hoi/dong-thap-day-nhanh-tien-do-xay-dung-truong-noi-tru-tai-cac-xa-phuong-bien-gioi-post1296113.vov) - 23:00 29/05/2026
-- 🧑‍🏫 [Gần 125.000 thí sinh Hà Nội bước vào ngày thi đầu tiên kỳ thi lớp 10](https://vov.vn/xa-hoi/gan-125000-thi-sinh-ha-noi-buoc-vao-ngay-thi-dau-tien-ky-thi-lop-10-post1296121.vov) - 23:00 29/05/2026<!-- vov-xa-hoi:END -->
+- 🤡 [Gần 125.000 thí sinh Hà Nội bước vào ngày thi đầu tiên kỳ thi lớp 10](https://vov.vn/xa-hoi/gan-125000-thi-sinh-ha-noi-buoc-vao-ngay-thi-dau-tien-ky-thi-lop-10-post1296121.vov) - 23:00 29/05/2026
+- 🧑‍🏫 [Đồng Tháp đẩy nhanh tiến độ xây dựng trường nội trú tại các xã, phường biên giới](https://vov.vn/xa-hoi/dong-thap-day-nhanh-tien-do-xay-dung-truong-noi-tru-tai-cac-xa-phuong-bien-gioi-post1296113.vov) - 23:00 29/05/2026<!-- vov-xa-hoi:END -->
