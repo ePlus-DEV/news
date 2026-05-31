@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Những nhà hàng đặc sản Texas lao đao vì giá thịt tăng phi mã](https://vnexpress.net/nhung-nha-hang-dac-san-texas-lao-dao-vi-gia-thit-tang-phi-ma-5078827.html) - 19:00 28/05/2026
-- 🕴 [&#39;Sát thủ bóng đêm&#39; của Hezbollah khiến Israel lo ngại](https://vnexpress.net/sat-thu-bong-dem-cua-hezbollah-khien-israel-lo-ngai-5078813.html) - 18:00 28/05/2026
-- 🤭 [Ukraine sẽ mua 20 tiêm kích Gripen hiện đại nhất của Thụy Điển](https://vnexpress.net/ukraine-se-mua-20-tiem-kich-gripen-hien-dai-nhat-cua-thuy-dien-5079444.html) - 15:06 28/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Nhà Vua Thái Lan](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-nha-vua-thai-lan-5079424.html) - 14:05 28/05/2026
-- 🦏 [Iran công bố khoảnh khắc phóng tên lửa về phía căn cứ Mỹ](https://vnexpress.net/iran-cong-bo-khoanh-khac-phong-ten-lua-ve-phia-can-cu-my-5079407.html) - 13:28 28/05/2026
-- 🦒 [Ukraine khoe hệ thống khiến tên lửa Nga &#39;tưởng mình đang ở Peru&#39;](https://vnexpress.net/ukraine-khoe-he-thong-khien-ten-lua-nga-tuong-minh-dang-o-peru-5078271.html) - 13:00 28/05/2026
-- 🌈 [Hai sự cố làm dấy lên nỗi lo về hàng triệu bồn hóa chất ở Mỹ](https://vnexpress.net/hai-su-co-lam-day-len-noi-lo-ve-hang-trieu-bon-hoa-chat-o-my-5079129.html) - 12:00 28/05/2026
-- 🧑‍🏫 [FBI tìm thấy 303 thỏi vàng trong nhà cựu quan chức CIA](https://vnexpress.net/fbi-tim-thay-303-thoi-vang-trong-nha-cuu-quan-chuc-cia-5079325.html) - 09:27 28/05/2026
-- 🐲 [Thái Lan sẵn sàng chia sẻ kinh nghiệm sử dụng vệ tinh với Việt Nam](https://vnexpress.net/thai-lan-san-sang-chia-se-kinh-nghiem-su-dung-ve-tinh-voi-viet-nam-5079297.html) - 09:12 28/05/2026
-- 🦒 [Người Triều Tiên xuống đường mừng CLB vô địch giải nữ ở Hàn Quốc](https://vnexpress.net/nguoi-trieu-tien-xuong-duong-mung-clb-vo-dich-giai-nu-o-han-quoc-5079296.html) - 08:30 28/05/2026
-- 🐻 [Dân quận Cam đòi đóng cửa nhà máy có bồn hóa chất suýt phát nổ](https://vnexpress.net/dan-quan-cam-doi-dong-cua-nha-may-co-bon-hoa-chat-suyt-phat-no-5079193.html) - 08:22 28/05/2026
-- 🚀 [Nhóm cảnh sát Campuchia bị bắt vì trộm đồ trong trung tâm lừa đảo](https://vnexpress.net/nhom-canh-sat-campuchia-bi-bat-vi-trom-do-trong-trung-tam-lua-dao-5079141.html) - 08:03 28/05/2026
-- 🥰 [Hạ viện Mỹ tìm cách trì hoãn chế tạo chiến hạm lớp Trump](https://vnexpress.net/ha-vien-my-tim-cach-tri-hoan-che-tao-chien-ham-lop-trump-5079064.html) - 07:50 28/05/2026
-- 🔥 [Con trâu có bờm tóc màu cam thoát cảnh bị hiến tế](https://vnexpress.net/con-trau-co-bom-toc-mau-cam-thoat-canh-bi-hien-te-5079054.html) - 07:34 28/05/2026
-- 🥳 [Phong cách trái ngược của Phó tổng thống, Ngoại trưởng Mỹ tại họp báo Nhà Trắng](https://vnexpress.net/phong-cach-trai-nguoc-cua-pho-tong-thong-ngoai-truong-my-tai-hop-bao-nha-trang-5079131.html) - 07:15 28/05/2026
-- 💼 [Lý do ông Trump dọa thổi bay Oman](https://vnexpress.net/ly-do-ong-trump-doa-thoi-bay-oman-5079104.html) - 05:04 28/05/2026
-- 🤡 [Chiến sự Iran khoét &#39;nỗi đau tên lửa&#39; Mỹ trong 3 năm](https://vnexpress.net/chien-su-iran-khoet-noi-dau-ten-lua-my-trong-3-nam-5079060.html) - 05:00 28/05/2026
-- 🌁 [Kazakhstan điều tiêm kích hộ tống chuyên cơ chở ông Putin](https://vnexpress.net/kazakhstan-dieu-tiem-kich-ho-tong-chuyen-co-cho-ong-putin-5079127.html) - 04:53 28/05/2026
-- 🤩 [Iran tuyên bố tập kích căn cứ không quân Mỹ](https://vnexpress.net/iran-tuyen-bo-tap-kich-can-cu-khong-quan-my-5079125.html) - 04:24 28/05/2026
-- 🎉 [Thủ tướng Thái Lan chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vnexpress.net/thu-tuong-thai-lan-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-5079150.html) - 04:17 28/05/2026
-- 🎉 [Iran bắn cảnh cáo 4 tàu định vượt qua Hormuz](https://vnexpress.net/iran-ban-canh-cao-4-tau-dinh-vuot-qua-hormuz-5079132.html) - 03:56 28/05/2026
-- 🌁 [Nguy cơ người Mỹ chịu thêm cú sốc giá thực phẩm](https://vnexpress.net/nguy-co-nguoi-my-chiu-them-cu-soc-gia-thuc-pham-5079056.html) - 03:50 28/05/2026
-- 🌊 [Bà Biden từng ngỡ chồng bị đột quỵ khi tranh luận với ông Trump](https://vnexpress.net/ba-biden-tung-ngo-chong-bi-dot-quy-khi-tranh-luan-voi-ong-trump-5079040.html) - 03:30 28/05/2026
-- 🕴 [Ông Zelensky gửi thư khẩn cho ông Trump, đề nghị cung cấp tên lửa Patriot](https://vnexpress.net/ong-zelensky-gui-thu-khan-cho-ong-trump-de-nghi-cung-cap-ten-lua-patriot-5079042.html) - 03:21 28/05/2026
-- 🎓 [11 người có thể đã chết trong vụ vỡ bồn hóa chất nhà máy giấy ở Mỹ](https://vnexpress.net/11-nguoi-co-the-da-chet-trong-vu-vo-bon-hoa-chat-nha-may-giay-o-my-5079026.html) - 02:49 28/05/2026
-- 🦩 [Tổng thống Mỹ &#39;chưa hài lòng&#39; về thỏa thuận với Iran](https://vnexpress.net/tong-thong-my-chua-hai-long-ve-thoa-thuan-voi-iran-5079021.html) - 01:19 28/05/2026
-- 🌏 [Chiến lược gây sức ép tối đa của Mỹ vấp thành trì Iran](https://vnexpress.net/chien-luoc-gay-suc-ep-toi-da-cua-my-vap-thanh-tri-iran-5078609.html) - 00:58 28/05/2026
-- 🌋 [Mỹ tiếp tục &#39;không kích Iran&#39;](https://vnexpress.net/my-tiep-tuc-khong-kich-iran-5079015.html) - 00:54 28/05/2026
-- 🪜 [Ông Trump dọa thổi bay đồng minh Oman](https://vnexpress.net/ong-trump-doa-thoi-bay-dong-minh-oman-5079012.html) - 00:01 28/05/2026
-- 🕴 [Thái Lan bắn 21 loạt đại bác đón Tổng Bí thư, Chủ tịch nước Tô Lâm tại sân bay](https://vnexpress.net/thai-lan-ban-21-loat-dai-bac-don-tong-bi-thu-chu-tich-nuoc-to-lam-tai-san-bay-5078960.html) - 13:32 27/05/2026
-- 🧑‍🏫 [Động lực thúc đẩy Mỹ - Iran theo đuổi đàm phán](https://vnexpress.net/dong-luc-thuc-day-my-iran-theo-duoi-dam-phan-5078600.html) - 12:00 27/05/2026
-- 🌮 [Tìm thấy 5 người mắc kẹt trong hang động Lào](https://vnexpress.net/tim-thay-5-nguoi-mac-ket-trong-hang-dong-lao-5078936.html) - 11:31 27/05/2026
-- 🚦 [Israel tuyên bố hạ sát tân thủ lĩnh cánh vũ trang Hamas](https://vnexpress.net/israel-tuyen-bo-ha-sat-tan-thu-linh-canh-vu-trang-hamas-5078787.html) - 10:20 27/05/2026
-- 💫 [Trung Quốc cảnh báo dân về &#39;thợ ảnh gián điệp&#39;](https://vnexpress.net/trung-quoc-canh-bao-dan-ve-tho-anh-gian-diep-5078843.html) - 09:45 27/05/2026
-- 🤡 [Quan chức Iran dọa biến đường bờ biển thành &#39;nghĩa địa&#39; với Mỹ](https://vnexpress.net/quan-chuc-iran-doa-bien-duong-bo-bien-thanh-nghia-dia-voi-my-5078835.html) - 09:14 27/05/2026
-- 🦣 [Các địa danh gắn liền với Việt Nam tại Thái Lan](https://vnexpress.net/cac-dia-danh-gan-lien-voi-viet-nam-tai-thai-lan-5078544.html) - 09:00 27/05/2026
-- 🎬 [Tổng Bí thư, Chủ tịch nước dâng hương tưởng niệm Chủ tịch Hồ Chí Minh tại Thái Lan](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-dang-huong-tuong-niem-chu-tich-ho-chi-minh-tai-thai-lan-5078857.html) - 08:48 27/05/2026
-- 🎉 [Sở chỉ huy lữ đoàn Israel lộ vị trí, hứng đòn của drone Hezbollah](https://vnexpress.net/so-chi-huy-lu-doan-israel-lo-vi-tri-hung-don-cua-drone-hezbollah-5078732.html) - 08:23 27/05/2026
-- 🎡 [Ông Putin tặng 4 con hổ cho Kazakhstan](https://vnexpress.net/ong-putin-tang-4-con-ho-cho-kazakhstan-5078807.html) - 07:56 27/05/2026
-- 🌜 [Iran công bố video khóa mục tiêu &#39;tiêm kích F-35 Mỹ&#39;](https://vnexpress.net/iran-cong-bo-video-khoa-muc-tieu-tiem-kich-f-35-my-5078721.html) - 07:44 27/05/2026
-- 🎡 [Mỹ &#39;không cấp visa&#39; cho Thứ trưởng Nga dự họp LHQ](https://vnexpress.net/my-khong-cap-visa-cho-thu-truong-nga-du-hop-lhq-5078706.html) - 07:05 27/05/2026
-- 🤗 [Nhóm nghị sĩ Mỹ khẳng định sự ủng hộ lưỡng đảng với Việt Nam](https://vnexpress.net/nhom-nghi-si-my-khang-dinh-su-ung-ho-luong-dang-voi-viet-nam-5078700.html) - 06:51 27/05/2026
-- 🦩 [Bộ trưởng Y tế Mỹ dùng tay không bắt rắn](https://vnexpress.net/bo-truong-y-te-my-dung-tay-khong-bat-ran-5078614.html) - 04:58 27/05/2026
-- 🎓 [Tổng Bí thư, Chủ tịch nước lên đường thăm Thái Lan](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-len-duong-tham-thai-lan-5078713.html) - 04:39 27/05/2026
-- 🌁 [Ứng viên được ông Trump hậu thuẫn thắng lớn tại Texas](https://vnexpress.net/ung-vien-duoc-ong-trump-hau-thuan-thang-lon-tai-texas-5078638.html) - 04:34 27/05/2026
-- 🤩 [Thợ lặn kể về hiểm nguy khi tìm 7 người kẹt trong hang ở Lào](https://vnexpress.net/tho-lan-ke-ve-hiem-nguy-khi-tim-7-nguoi-ket-trong-hang-o-lao-5078593.html) - 04:12 27/05/2026
-- 👹 [&#39;Quái vật Bột Hải&#39; của Trung Quốc tái xuất](https://vnexpress.net/quai-vat-bot-hai-cua-trung-quoc-tai-xuat-5078467.html) - 04:03 27/05/2026
-- ⛽️ [Ông Trump khoe sức khỏe &#39;hoàn hảo&#39; trước sinh nhật 80 tuổi](https://vnexpress.net/ong-trump-khoe-suc-khoe-hoan-hao-truoc-sinh-nhat-80-tuoi-5078657.html) - 03:40 27/05/2026
-- 🚀 [Một nửa quốc gia thành viên rời liên minh tiếp đạn cho Ukraine](https://vnexpress.net/mot-nua-quoc-gia-thanh-vien-roi-lien-minh-tiep-dan-cho-ukraine-5078624.html) - 03:15 27/05/2026
-- 🎡 [Iran cáo buộc Mỹ vi phạm nghiêm trọng lệnh ngừng bắn](https://vnexpress.net/iran-cao-buoc-my-vi-pham-nghiem-trong-lenh-ngung-ban-5078575.html) - 02:50 27/05/2026
-- 🕯 [Triều Tiên thử tên lửa hành trình &#39;dẫn đường bằng AI&#39;](https://vnexpress.net/trieu-tien-thu-ten-lua-hanh-trinh-dan-duong-bang-ai-5078590.html) - 01:14 27/05/2026
-- 🐻 [Tính toán của Nga khi tập kích Oreshnik vào Ukraine](https://vnexpress.net/tinh-toan-cua-nga-khi-tap-kich-oreshnik-vao-ukraine-5078005.html) - 01:00 27/05/2026
-- 🚦 [Israel tuyên bố tập kích tân chỉ huy cánh vũ trang Hamas](https://vnexpress.net/israel-tuyen-bo-tap-kich-tan-chi-huy-canh-vu-trang-hamas-5078576.html) - 00:09 27/05/2026
-- 👍 [Vỡ bồn hóa chất tại Mỹ, ít nhất một người chết](https://vnexpress.net/vo-bon-hoa-chat-tai-my-it-nhat-mot-nguoi-chet-5078572.html) - 23:52 26/05/2026
-- 🚀 [Hệ thống hậu cần Nga sau các đợt tập kích tên lửa, UAV vào Ukraine](https://vnexpress.net/he-thong-hau-can-nga-sau-cac-dot-tap-kich-ten-lua-uav-vao-ukraine-5078207.html) - 22:00 26/05/2026
-- 🌮 [Israel, Hezbollah giao tranh dọc sông chiến lược ở Lebanon](https://vnexpress.net/israel-hezbollah-giao-tranh-doc-song-chien-luoc-o-lebanon-5078550.html) - 15:30 26/05/2026
-- 😎 [Diễn đàn Tương lai ASEAN sẽ thảo luận về an ninh năng lượng](https://vnexpress.net/dien-dan-tuong-lai-asean-se-thao-luan-ve-an-ninh-nang-luong-5078510.html) - 13:38 26/05/2026
-- 🐲 [Dấu hỏi quanh &#39;tên lửa Oreshnik thứ hai&#39; trong đòn tập kích Ukraine](https://vnexpress.net/dau-hoi-quanh-ten-lua-oreshnik-thu-hai-trong-don-tap-kich-ukraine-5078184.html) - 13:00 26/05/2026
-- 💫 [Thợ lặn tìm cách cứu 7 người kẹt một tuần trong hang ngập nước](https://vnexpress.net/tho-lan-tim-cach-cuu-7-nguoi-ket-mot-tuan-trong-hang-ngap-nuoc-5078487.html) - 11:12 26/05/2026
-- 👀 [Tàu hỏa đâm xe chở học sinh ở Bỉ, 4 người thiệt mạng](https://vnexpress.net/tau-hoa-dam-xe-cho-hoc-sinh-o-bi-4-nguoi-thiet-mang-5078509.html) - 11:01 26/05/2026<!-- vnexpress-the-gioi:END -->
+- 🎭 [Máy bay Mỹ phóng tên lửa, vô hiệu hóa tàu hàng hướng đến Iran](https://vnexpress.net/may-bay-my-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5080317.html) - 13:30 31/05/2026
+- 🕴 [Tổng Bí thư, Chủ tịch nước dâng hoa tại tượng đài Chủ tịch Hồ Chí Minh ở Philippines](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-dang-hoa-tai-tuong-dai-chu-tich-ho-chi-minh-o-philippines-5080316.html) - 12:26 31/05/2026
+- 🤭 [Những điều khoản chủ chốt trong thỏa thuận tiềm năng Mỹ - Iran](https://vnexpress.net/nhung-dieu-khoan-chu-chot-trong-thoa-thuan-tiem-nang-my-iran-5079915.html) - 12:00 31/05/2026
+- 🧑‍💻 [Mỹ có thể đã mất hai UAV 30 triệu USD vì mảnh vỡ tên lửa Iran](https://vnexpress.net/my-co-the-da-mat-hai-uav-30-trieu-usd-vi-manh-vo-ten-lua-iran-5080306.html) - 11:41 31/05/2026
+- 🦏 [Ukraine tuyên bố phá hủy hai máy bay &#39;sát thủ săn ngầm&#39; Nga](https://vnexpress.net/ukraine-tuyen-bo-pha-huy-hai-may-bay-sat-thu-san-ngam-nga-5080275.html) - 08:58 31/05/2026
+- 🦒 [Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm Philippines](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-bat-dau-tham-philippines-5080272.html) - 08:02 31/05/2026
+- 🌈 [Hơn 400 CĐV bị bắt vì gây rối, đốt phá sau chiến thắng của PSG](https://vnexpress.net/hon-400-cdv-bi-bat-vi-gay-roi-dot-pha-sau-chien-thang-cua-psg-5080265.html) - 07:35 31/05/2026
+- 🧑‍🏫 [Đốt gần 13.000 USD cho trò gắp thú](https://vnexpress.net/dot-gan-13-000-usd-cho-tro-gap-thu-5080215.html) - 03:57 31/05/2026
+- 🐲 [Ông Trump kêu gọi hủy đại nhạc hội quốc khánh Mỹ](https://vnexpress.net/ong-trump-keu-goi-huy-dai-nhac-hoi-quoc-khanh-my-5080200.html) - 02:40 31/05/2026
+- 🦒 [Kỹ năng đọc của học sinh Mỹ sa sút](https://vnexpress.net/ky-nang-doc-cua-hoc-sinh-my-sa-sut-5079593.html) - 02:02 31/05/2026
+- 🐻 [Bà Ngô Phương Ly thăm lớp tiếng Việt tại Singapore](https://vnexpress.net/ba-ngo-phuong-ly-tham-lop-tieng-viet-tai-singapore-5080197.html) - 01:00 31/05/2026
+- 🚀 [Iran nói Mỹ đồng ý &#39;rã băng&#39; 12 tỷ USD trong dự thảo thỏa thuận](https://vnexpress.net/iran-noi-my-dong-y-ra-bang-12-ty-usd-trong-du-thao-thoa-thuan-5080193.html) - 23:46 30/05/2026
+- 🥰 [Mạng lưới UAV giúp Ukraine cầm chân Nga](https://vnexpress.net/mang-luoi-uav-giup-ukraine-cam-chan-nga-5079935.html) - 22:00 30/05/2026
+- 🔥 [Hoài nghi với tương lai đội chiến hạm 60 tỷ USD của Mỹ](https://vnexpress.net/hoai-nghi-voi-tuong-lai-doi-chien-ham-60-ty-usd-cua-my-5079324.html) - 18:00 30/05/2026
+- 🥳 [Việt Nam - Singapore là đối tác đi đầu ASEAN về hợp tác trong lĩnh vực mũi nhọn](https://vnexpress.net/viet-nam-singapore-la-doi-tac-di-dau-asean-ve-hop-tac-trong-linh-vuc-mui-nhon-5080166.html) - 17:45 30/05/2026
+- 💼 [Tổng Bí thư, Chủ tịch nước Tô Lâm trả lời phỏng vấn truyền thông quốc tế](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tra-loi-phong-van-truyen-thong-quoc-te-5080156.html) - 16:19 30/05/2026
+- 🤡 [Hiệp hội Phật giáo Trung Quốc: Cựu trụ trì Thiếu Lâm Tự &#39;gieo gió gặt bão&#39;](https://vnexpress.net/hiep-hoi-phat-giao-trung-quoc-cuu-tru-tri-thieu-lam-tu-gieo-gio-gat-bao-5080135.html) - 13:53 30/05/2026
+- 🌁 [Cú bẻ lái điều quân của ông Trump tại châu Âu](https://vnexpress.net/cu-be-lai-dieu-quan-cua-ong-trump-tai-chau-au-5077226.html) - 12:49 30/05/2026
+- 🤩 [Việt Nam lên tiếng về việc Mỹ điều tra vấn đề sở hữu trí tuệ](https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-dieu-tra-van-de-so-huu-tri-tue-5080110.html) - 11:45 30/05/2026
+- 🎉 [4 người mắc kẹt ở Lào tự thoát khỏi hang](https://vnexpress.net/4-nguoi-mac-ket-o-lao-tu-thoat-khoi-hang-5080078.html) - 10:13 30/05/2026
+- 🎉 [Tổng Bí thư, Chủ tịch nước thăm Trung tâm thử nghiệm đường sắt Singapore](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tham-trung-tam-thu-nghiem-duong-sat-singapore-5080068.html) - 08:59 30/05/2026
+- 🌁 [Giáo sư bị kỷ luật vì phát ngôn 80% phụ nữ Hàn bán dâm](https://vnexpress.net/giao-su-bi-ky-luat-vi-phat-ngon-80-phu-nu-han-ban-dam-5080055.html) - 08:32 30/05/2026
+- 🌊 [Bác sĩ Nhà Trắng khuyên ông Trump giảm cân](https://vnexpress.net/bac-si-nha-trang-khuyen-ong-trump-giam-can-5080046.html) - 07:25 30/05/2026
+- 🕴 [Nhiều khu vực châu Âu đỏ rực trên ảnh vệ tinh vì nắng nóng](https://vnexpress.net/nhieu-khu-vuc-chau-au-do-ruc-tren-anh-ve-tinh-vi-nang-nong-5080022.html) - 06:34 30/05/2026
+- 🎓 [UAV 30 triệu USD của Mỹ nghi trúng tên lửa, lao xuống đất](https://vnexpress.net/uav-30-trieu-usd-cua-my-nghi-trung-ten-lua-lao-xuong-dat-5079996.html) - 05:49 30/05/2026
+- 🦩 [Truyền thông quốc tế đề cao phát biểu của Tổng Bí thư, Chủ tịch nước tại Shangri-La](https://vnexpress.net/truyen-thong-quoc-te-de-cao-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-tai-shangri-la-5079967.html) - 05:02 30/05/2026
+- 🌏 [Mỹ ca ngợi đồng minh châu Á tại Đối thoại Shangri-La](https://vnexpress.net/my-ca-ngoi-dong-minh-chau-a-tai-doi-thoai-shangri-la-5079990.html) - 04:06 30/05/2026
+- 🌋 [Bộ binh Israel lần đầu vượt sông chiến lược ở Lebanon để tấn công Hezbollah](https://vnexpress.net/bo-binh-israel-lan-dau-vuot-song-chien-luoc-o-lebanon-de-tan-cong-hezbollah-5079995.html) - 04:01 30/05/2026
+- 🪜 [Ông Medvedev: Sẽ có thêm nhiều UAV xâm nhập châu Âu](https://vnexpress.net/ong-medvedev-se-co-them-nhieu-uav-xam-nhap-chau-au-5079975.html) - 03:58 30/05/2026
+- 🕴 [UAV Ukraine vượt lưới lửa phòng không, nhắm tới chiến hạm Nga](https://vnexpress.net/uav-ukraine-vuot-luoi-lua-phong-khong-nham-toi-chien-ham-nga-5079941.html) - 03:44 30/05/2026
+- 🧑‍🏫 [Mỹ chọn &#39;binh sĩ vóc dáng cân đối&#39; tới xem trận UFC ở Nhà Trắng](https://vnexpress.net/my-chon-binh-si-voc-dang-can-doi-toi-xem-tran-ufc-o-nha-trang-5079958.html) - 03:17 30/05/2026
+- 🌮 [Mỹ &#39;chưa tìm thấy&#39; thủy lôi Iran tại eo biển Hormuz](https://vnexpress.net/my-chua-tim-thay-thuy-loi-iran-tai-eo-bien-hormuz-5079966.html) - 03:12 30/05/2026
+- 🚦 [Ba Lan dọa tước huân chương từng trao cho Tổng thống Ukraine](https://vnexpress.net/ba-lan-doa-tuoc-huan-chuong-tung-trao-cho-tong-thong-ukraine-5079954.html) - 02:47 30/05/2026
+- 💫 [Phần lớn người nhập cư không cần rời Mỹ để xin thẻ xanh](https://vnexpress.net/phan-lon-nguoi-nhap-cu-khong-can-roi-my-de-xin-the-xanh-5079934.html) - 02:15 30/05/2026
+- 🤡 [Chiến sự Iran giúp Ukraine biến nguy thành cơ](https://vnexpress.net/chien-su-iran-giup-ukraine-bien-nguy-thanh-co-5079695.html) - 01:56 30/05/2026
+- 🦣 [Thợ lặn giải cứu thành công một người kẹt trong hang ở Lào](https://vnexpress.net/tho-lan-giai-cuu-thanh-cong-mot-nguoi-ket-trong-hang-o-lao-5079925.html) - 01:15 30/05/2026
+- 🎬 [1/3 nam giới Mỹ không tham gia thị trường việc làm](https://vnexpress.net/1-3-nam-gioi-my-khong-tham-gia-thi-truong-viec-lam-5079733.html) - 01:06 30/05/2026
+- 🎉 [Ông Zelensky cảnh báo Nga sắp mở đợt tấn công lớn](https://vnexpress.net/ong-zelensky-canh-bao-nga-sap-mo-dot-tan-cong-lon-5079926.html) - 01:02 30/05/2026
+- 🎡 [Ông Trump vạch lằn ranh đỏ trong thỏa thuận hòa bình với Iran](https://vnexpress.net/ong-trump-vach-lan-ranh-do-trong-thoa-thuan-hoa-binh-voi-iran-5079918.html) - 00:19 30/05/2026
+- 🌜 [Thẩm phán lệnh gỡ tên ông Trump khỏi Trung tâm Kennedy](https://vnexpress.net/tham-phan-lenh-go-ten-ong-trump-khoi-trung-tam-kennedy-5079916.html) - 23:56 29/05/2026
+- 🎡 [Tương lai bấp bênh của giới trẻ Seoul giữa cơn sốt giá nhà](https://vnexpress.net/tuong-lai-bap-benh-cua-gioi-tre-seoul-giua-con-sot-gia-nha-5079097.html) - 23:47 29/05/2026
+- 🤗 [Khoản thuế khiến quân đội Ukraine mất hàng nghìn drone mặt đất](https://vnexpress.net/khoan-thue-khien-quan-doi-ukraine-mat-hang-nghin-drone-mat-dat-5079245.html) - 18:00 29/05/2026
+- 🦩 [Tổng Bí thư, Chủ tịch nước nêu &#39;ba cuộc khủng hoảng&#39; tại Đối thoại Shangri-La](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-ba-cuoc-khung-hoang-tai-doi-thoai-shangri-la-5079864.html) - 15:04 29/05/2026
+- 🎓 [Tổng Bí thư, Chủ tịch nước tiếp Bộ trưởng Quốc phòng Mỹ, Australia và Nhật](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tiep-bo-truong-quoc-phong-my-australia-va-nhat-5079855.html) - 13:33 29/05/2026
+- 🌁 [Nỗi đau của thân nhân người thiệt mạng trong vụ vỡ bồn hóa chất Mỹ](https://vnexpress.net/noi-dau-cua-than-nhan-nguoi-thiet-mang-trong-vu-vo-bon-hoa-chat-my-5079717.html) - 13:00 29/05/2026
+- 🤩 [Cựu trụ trì Thiếu Lâm Tự lĩnh án 24 năm tù](https://vnexpress.net/cuu-tru-tri-thieu-lam-tu-linh-an-24-nam-tu-5079841.html) - 12:45 29/05/2026
+- 👹 [Thách thức với kế hoạch phát hành tờ 250 USD in hình ông Trump](https://vnexpress.net/thach-thuc-voi-ke-hoach-phat-hanh-to-250-usd-in-hinh-ong-trump-5079502.html) - 12:00 29/05/2026
+- ⛽️ [Romania nêu lý do không thể bắn hạ UAV nghi của Nga](https://vnexpress.net/romania-neu-ly-do-khong-the-ban-ha-uav-nghi-cua-nga-5079769.html) - 09:55 29/05/2026
+- 🚀 [Trực thăng đưa bệ Pantsir chống UAV lên nóc nhà cao tầng ở Moskva](https://vnexpress.net/truc-thang-dua-be-pantsir-chong-uav-len-noc-nha-cao-tang-o-moskva-5079728.html) - 09:28 29/05/2026
+- 🎡 [Việt Nam - Singapore thúc đẩy trụ cột hợp tác khoa học công nghệ](https://vnexpress.net/viet-nam-singapore-thuc-day-tru-cot-hop-tac-khoa-hoc-cong-nghe-5079716.html) - 09:03 29/05/2026
+- 🕯 [Romania cáo buộc UAV Nga rơi trúng tòa chung cư](https://vnexpress.net/romania-cao-buoc-uav-nga-roi-trung-toa-chung-cu-5079607.html) - 07:39 29/05/2026
+- 🐻 [Drone Hezbollah tập kích radar chống UAV của Israel](https://vnexpress.net/drone-hezbollah-tap-kich-radar-chong-uav-cua-israel-5079579.html) - 07:36 29/05/2026
+- 🚦 [Israel cắt đứt liên lạc với Tổng thư ký LHQ](https://vnexpress.net/israel-cat-dut-lien-lac-voi-tong-thu-ky-lhq-5079463.html) - 07:19 29/05/2026
+- 👍 [Người khuyết tật tay bị cáo buộc &#39;cầm điện thoại khi lái xe&#39;](https://vnexpress.net/nguoi-khuyet-tat-tay-bi-cao-buoc-cam-dien-thoai-khi-lai-xe-5079606.html) - 07:11 29/05/2026
+- 🚀 [Điện - &#39;vũ khí bí mật&#39; của Trung Quốc trong cuộc đua AI với Mỹ](https://vnexpress.net/dien-vu-khi-bi-mat-cua-trung-quoc-trong-cuoc-dua-ai-voi-my-5079509.html) - 05:04 29/05/2026
+- 🌮 [Tổng thống Singapore chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vnexpress.net/tong-thong-singapore-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-5079580.html) - 04:38 29/05/2026
+- 😎 [Hong Kong tìm cách xóa sổ &#39;nhà hộp diêm&#39;](https://vnexpress.net/hong-kong-tim-cach-xoa-so-nha-hop-diem-5079513.html) - 04:05 29/05/2026
+- 🐲 [Tỷ lệ ủng hộ Ngoại trưởng Mỹ tranh cử tổng thống tăng vọt](https://vnexpress.net/ty-le-ung-ho-ngoai-truong-my-tranh-cu-tong-thong-tang-vot-5079540.html) - 03:44 29/05/2026
+- 💫 [Campuchia tuyên án 6 người Trung Quốc tra tấn, sát hại sinh viên Hàn Quốc](https://vnexpress.net/campuchia-tuyen-an-6-nguoi-trung-quoc-tra-tan-sat-hai-sinh-vien-han-quoc-5079577.html) - 03:23 29/05/2026
+- 👀 [Xuồng tự sát nghi của Ukraine tập kích ba tàu dầu trên biển Đen](https://vnexpress.net/xuong-tu-sat-nghi-cua-ukraine-tap-kich-ba-tau-dau-tren-bien-den-5079511.html) - 03:22 29/05/2026<!-- vnexpress-the-gioi:END -->
