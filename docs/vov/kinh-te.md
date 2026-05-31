@@ -8,8 +8,8 @@ sidebar_position: 4
 - 🎉 [Từ 1/6, triển khai số hóa chứng từ hải quan phục vụ thông quan tập trung](https://vov.vn/kinh-te/tu-16-trien-khai-so-hoa-chung-tu-hai-quan-phuc-vu-thong-quan-tap-trung-post1296610.vov) - 11:48 31/05/2026
 - 🧰 [Gia Lai chốt danh sách 8 doanh nghiệp dẫn dắt công nghiệp và năng lượng](https://vov.vn/kinh-te/gia-lai-chot-danh-sach-8-doanh-nghiep-dan-dat-cong-nghiep-va-nang-luong-post1296588.vov) - 11:03 31/05/2026
 - 🥳 [Khánh Hòa gỡ điểm nghẽn tạo đà tăng trưởng 2 con số](https://vov.vn/kinh-te/khanh-hoa-go-diem-nghen-tao-da-tang-truong-2-con-so-post1296632.vov) - 10:27 31/05/2026
-- 🥰 [Xây dựng thương hiệu gạo Việt xanh phát thải thấp](https://vov.vn/kinh-te/xay-dung-thuong-hieu-gao-viet-xanh-phat-thai-thap-post1295901.vov) - 00:00 31/05/2026
-- 🤠 [Để doanh nghiệp nhỏ và vừa không chỉ “tồn tại” mà phải “lớn lên”](https://vov.vn/kinh-te/de-doanh-nghiep-nho-va-vua-khong-chi-ton-tai-ma-phai-lon-len-post1296304.vov) - 00:00 31/05/2026
+- 🥰 [Để doanh nghiệp nhỏ và vừa không chỉ “tồn tại” mà phải “lớn lên”](https://vov.vn/kinh-te/de-doanh-nghiep-nho-va-vua-khong-chi-ton-tai-ma-phai-lon-len-post1296304.vov) - 00:00 31/05/2026
+- 🤠 [Xây dựng thương hiệu gạo Việt xanh phát thải thấp](https://vov.vn/kinh-te/xay-dung-thuong-hieu-gao-viet-xanh-phat-thai-thap-post1295901.vov) - 00:00 31/05/2026
 - 💂 [Hà Nội thu hồi đất, chấm dứt hoạt động 24 dự án chậm triển khai](https://vov.vn/kinh-te/ha-noi-thu-hoi-dat-cham-dut-hoat-dong-24-du-an-cham-trien-khai-post1296472.vov) - 15:46 30/05/2026
 - 🚀 [Hải Phòng sẵn sàng triển khai đồng loạt xăng sinh học E10 từ 1/6](https://vov.vn/kinh-te/hai-phong-san-sang-trien-khai-dong-loat-xang-sinh-hoc-e10-tu-16-post1296473.vov) - 15:20 30/05/2026
 - 👺 [Huế công bố điều chỉnh quy hoạch và trao quyết định đầu tư cho 12 dự án](https://vov.vn/kinh-te/hue-cong-bo-dieu-chinh-quy-hoach-va-trao-quyet-dinh-dau-tu-cho-12-du-an-post1296467.vov) - 14:43 30/05/2026
