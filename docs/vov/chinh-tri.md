@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước thăm Philippines, mở rộng hợp tác song phương](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-tham-philippines-mo-rong-hop-tac-song-phuong-post1296305.vov) - 23:00 30/05/2026
-- 💃 [Làm tốt công tác bồi thường, tái định cư dự án Trục Đại lộ cảnh quan sông Hồng](https://vov.vn/chinh-tri/lam-tot-cong-tac-boi-thuong-tai-dinh-cu-du-an-truc-dai-lo-canh-quan-song-hong-post1296469.vov) - 14:46 30/05/2026
-- 🫶 [Lan tỏa yêu thương tới trẻ em vùng cao Thái Nguyên](https://vov.vn/xa-hoi/lan-toa-yeu-thuong-toi-tre-em-vung-cao-thai-nguyen-post1296456.vov) - 13:48 30/05/2026
-- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước thăm Philippines: Khơi dậy khát vọng từ người trẻ](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-tham-philippines-khoi-day-khat-vong-tu-nguoi-tre-post1296449.vov) - 12:44 30/05/2026
-- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm trả lời phỏng vấn hãng tin Reuters](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tra-loi-phong-van-hang-tin-reuters-post1296445.vov) - 12:40 30/05/2026
-- 🌋 [Việt Nam lên tiếng về việc Mỹ khởi xướng điều tra sở hữu trí tuệ theo Mục 301](https://vov.vn/chinh-tri/viet-nam-len-tieng-ve-viec-my-khoi-xuong-dieu-tra-so-huu-tri-tue-theo-muc-301-post1296426.vov) - 12:21 30/05/2026
-- 🎉 [Bộ trưởng Ngoại giao Việt Nam tiếp Thứ trưởng Ngoại giao và Thương mại Australia](https://vov.vn/chinh-tri/bo-truong-ngoai-giao-viet-nam-tiep-thu-truong-ngoai-giao-va-thuong-mai-australia-post1296437.vov) - 12:05 30/05/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân gặp gỡ cán bộ, nhân viên ĐSQ và đại diện cộng đồng người Việt ở Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-gap-go-can-bo-nhan-vien-dsq-va-dai-dien-cong-dong-nguoi-viet-o-singapore-post1296434.vov) - 11:52 30/05/2026
-- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo các tập đoàn doanh nghiệp lớn của Singapore](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-cac-tap-doan-doanh-nghiep-lon-cua-singapore-post1296424.vov) - 11:39 30/05/2026
-- 🧑‍💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Philippines: Xung lực mới thúc đẩy hợp tác](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-tham-philippines-xung-luc-moi-thuc-day-hop-tac-post1296312.vov) - 11:00 30/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân dâng hoa tại Tượng đài Bác Hồ ở Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-dang-hoa-tai-tuong-dai-bac-ho-o-philippines-post1296608.vov) - 09:57 31/05/2026
+- 💃 [Đồng Nai đưa tổ chức Đảng vào hợp tác xã để thúc đẩy nông nghiệp hiện đại](https://vov.vn/chinh-tri/dong-nai-dua-to-chuc-dang-vao-hop-tac-xa-de-thuc-day-nong-nghiep-hien-dai-post1296596.vov) - 09:17 31/05/2026
+- 🫶 [Đánh giá cao thông điệp của Tổng Bí thư, Chủ tịch nước về an ninh và con người](https://vov.vn/chinh-tri/danh-gia-cao-thong-diep-cua-tong-bi-thu-chu-tich-nuoc-ve-an-ninh-va-con-nguoi-post1296593.vov) - 08:47 31/05/2026
+- 👨‍🏫 [Quy chế làm việc của Chính phủ](https://vov.vn/chinh-tri/quy-che-lam-viec-cua-chinh-phu-post1296587.vov) - 08:10 31/05/2026
+- 🪜 [Phó Thủ tướng Phạm Thị Thanh Trà làm Trưởng BCĐ quốc gia về phát triển ngành Dược](https://vov.vn/chinh-tri/pho-thu-tuong-pham-thi-thanh-tra-lam-truong-bcd-quoc-gia-ve-phat-trien-nganh-duoc-post1296585.vov) - 07:46 31/05/2026
+- 🌋 [Toàn cảnh chuyến thăm Singapore của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-singapore-cua-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-post1296551.vov) - 07:44 31/05/2026
+- 🎉 [Thủ tướng phê chuẩn kết quả bầu 2 Phó Chủ tịch UBND tỉnh Tuyên Quang](https://vov.vn/chinh-tri/thu-tuong-phe-chuan-ket-qua-bau-2-pho-chu-tich-ubnd-tinh-tuyen-quang-post1296581.vov) - 07:35 31/05/2026
+- 🌝 [Cà Mau chốt thời gian có phương án xử lý trụ sở dôi dư](https://vov.vn/chinh-tri/ca-mau-chot-thoi-gian-co-phuong-an-xu-ly-tru-so-doi-du-post1296570.vov) - 06:22 31/05/2026
+- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân tới Manila bắt đầu thăm cấp Nhà nước Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-toi-manila-bat-dau-tham-cap-nha-nuoc-philippines-post1296568.vov) - 06:19 31/05/2026
+- 🧑‍💻 [Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm tới Philippines phản ánh vai trò ngày càng nổi bật của Việt Nam](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-toi-philippines-phan-anh-vai-tro-ngay-cang-noi-bat-cua-viet-nam-post1296549.vov) - 04:13 31/05/2026<!-- vov-chinh-tri:END -->
