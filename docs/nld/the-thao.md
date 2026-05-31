@@ -4,53 +4,53 @@ sidebar_position: 13
 ---
 
 <!-- nld-the-thao:START -->
-- 💻 [Tuyển Việt Nam thuộc nhóm hạt giống số 2 Vòng loại U20 châu Á 2027](https://nld.com.vn/tuyen-viet-nam-thuoc-nhom-hat-giong-so-2-vong-loai-u20-chau-a-2027-196260527181216283.htm) - 11:19 27/05/2026
-- 🦒 [Soi tỉ số trận Crystal Palace – Rayo Vallecano: Trận chiến giữa những chuyên gia phòng thủ](https://nld.com.vn/soi-ti-so-tran-crystal-palace-rayo-vallecano-tran-chien-giua-nhung-chuyen-gia-phong-thu-196260527160723369.htm) - 09:17 27/05/2026
-- 👹 [HLV Việt Thắng ngồi ngoài khi Đồng Nai đứng trước cơ hội vô địch sớm 1 vòng](https://nld.com.vn/hlv-viet-thang-ngoi-ngoai-khi-dong-nai-dung-truoc-co-hoi-vo-dich-som-1-vong-196260527124129612.htm) - 06:28 27/05/2026
-- 🤓 [Messi chưa thể góp mặt ở đợt tập huấn tuyển của Argentina cho World Cup 2026](https://nld.com.vn/messi-chua-the-gop-mat-o-dot-tap-huan-tuyen-cua-argentina-cho-world-cup-2026-196260527120255374.htm) - 06:27 27/05/2026
-- 🙉 [Arsenal nhận “cảnh báo nóng” trước chung kết Champions League](https://nld.com.vn/arsenal-nhan-canh-bao-nong-truoc-chung-ket-champions-league-196260527111653751.htm) - 04:33 27/05/2026
-- 🐵 [Jose Mourinho sớm lên kế hoạch cải tổ Real Madrid](https://nld.com.vn/jose-mourinho-som-len-ke-hoach-cai-to-real-madrid-196260527095632864.htm) - 03:38 27/05/2026
-- 🕯 [Barcelona chia tay biểu tượng bất tử sau chức vô địch Champions League](https://nld.com.vn/barcelona-chia-tay-bieu-tuong-bat-tu-sau-chuc-vo-dich-champions-league-196260527090117071.htm) - 02:30 27/05/2026
-- 🕴 [HLV Arteta được tôn vinh sau kỳ tích cùng Arsenal](https://nld.com.vn/hlv-arteta-duoc-ton-vinh-sau-ky-tich-cung-arsenal-196260527085927571.htm) - 02:13 27/05/2026
-- 🤠 [Vì sao Ronaldo &quot;rớt&quot; khỏi tốp 50 cầu thủ vĩ đại nhất World Cup?](https://nld.com.vn/vi-sao-ronaldo-rot-khoi-top-50-cau-thu-vi-dai-nhat-world-cup-196260527075153957.htm) - 01:11 27/05/2026
-- 🪜 [Trao quyền cho HLV Chu Đình Nghiêm: Ninh Bình từ khác thường đến bình thường](https://nld.com.vn/trao-quyen-cho-hlv-chu-dinh-nghiem-ninh-binh-tu-khac-thuong-den-binh-thuong-196260527005459072.htm) - 22:05 26/05/2026
-- 🧠 [Khủng hoảng Real Madrid lan sang cả tuyển quốc gia](https://nld.com.vn/khung-hoang-real-madrid-lan-sang-ca-tuyen-quoc-gia-196260526205722485.htm) - 21:00 26/05/2026
-- 🙉 [Conference League: Chờ lịch sử gọi tên](https://nld.com.vn/cho-lich-su-goi-ten-196260526205337492.htm) - 19:30 26/05/2026
-- 👺 [Cờ vua Việt Nam: Đã đến lúc phải chuyên nghiệp!](https://nld.com.vn/da-den-luc-phai-chuyen-nghiep-196260526205201539.htm) - 19:00 26/05/2026
-- 🦄 [Medvedev gục ngã trước tay vợt được đặc cách ở vòng 1 Roland Garros](https://nld.com.vn/medvedev-guc-nga-truoc-tay-vot-duoc-dac-cach-o-vong-1-roland-garros-196260526203236983.htm) - 15:38 26/05/2026
-- 👀 [Tay vợt 17 tuổi đánh bại cựu vô địch Mỹ mở rộng, trong trận ra mắt Grand Slam](https://nld.com.vn/tay-vot-17-tuoi-danh-bai-cuu-vo-dich-my-mo-rong-trong-tran-ra-mat-grand-slam-1962605261934009.htm) - 12:43 26/05/2026
-- 🐵 [Lịch thi đấu và phát sóng của U19 Việt Nam đấu Indonesia ở giải Đông Nam Á](https://nld.com.vn/lich-thi-dau-va-phat-song-cua-u19-viet-nam-dau-indonesia-o-giai-dong-nam-a-196260526180504711.htm) - 11:31 26/05/2026
-- 💂 [Nguyễn Xuân Son sa sút phong độ: Nỗi lo không của riêng CLB Nam Định](https://nld.com.vn/nguyen-xuan-son-sa-sut-phong-do-noi-lo-khong-cua-rieng-clb-nam-dinh-196260526120108996.htm) - 05:44 26/05/2026
-- 👍 [HLV Chu Đình Nghiêm muốn khơi lại bản sắc bóng đá Ninh Bình](https://nld.com.vn/hlv-chu-dinh-nghiem-muon-khoi-lai-ban-sac-bong-da-ninh-binh-196260526111717786.htm) - 05:43 26/05/2026
-- 🔥 [Park Hang-seo đến Thai League 2 - Không phải bước lùi](https://nld.com.vn/park-hang-seo-den-thai-league-2-khong-phai-buoc-lui-196260526103707691.htm) - 03:38 26/05/2026
-- 🎉 [Tây Ban Nha chốt danh sách World Cup 2026: Cầu thủ Real Madrid lần đầu vắng bóng](https://nld.com.vn/tay-ban-nha-chot-danh-sach-world-cup-2026-cau-thu-real-madrid-lan-dau-vang-bong-196260526070623742.htm) - 00:14 26/05/2026
-- 🪄 [Nước cờ lạc nhịp!](https://nld.com.vn/nuoc-co-lac-nhip-196260525204822921.htm) - 00:00 26/05/2026
-- 🌊 [CLB Becamex TP HCM rơi vào thế &quot;chân tường&quot;](https://nld.com.vn/clb-becamex-tp-hcm-roi-vao-the-chan-tuong-196260525204221315.htm) - 00:00 26/05/2026
-- 🌮 [HLV Park Hang-seo tái xuất, dẫn dắt CLB Thai League 2](https://nld.com.vn/hlv-park-hang-seo-tai-xuat-dan-dat-clb-thai-league-2-196260525155242097.htm) - 08:58 25/05/2026
-- 🧠 [Haaland đoạt “Vua phá lưới”, Fernandes thành “Vua kiến tạo”](https://nld.com.vn/haaland-doat-vua-pha-luoi-fernandes-thanh-vua-kien-tao-196260525131745984.htm) - 06:19 25/05/2026
-- 🌮 [Vòng 24 V-League: 5 đội cùng đua trụ hạng, Ninh Bình bật khỏi top 3](https://nld.com.vn/vong-24-v-league-5-doi-cung-dua-tru-hang-ninh-binh-bat-khoi-top-3-196260525124245676.htm) - 05:49 25/05/2026
-- 🫣 [Messi không chấn thương, chỉ bị căng cơ và giữ chân cho World Cup](https://nld.com.vn/messi-khong-chan-thuong-chi-bi-cang-co-va-giu-chan-cho-world-cup-196260525123329477.htm) - 05:48 25/05/2026
-- 🎡 [Đội bóng từng phá sản 2 lần giành vé dự Champions League](https://nld.com.vn/doi-bong-tung-pha-san-2-lan-gianh-ve-du-champions-league-19626052512283509.htm) - 05:48 25/05/2026
-- 🦄 [Inter Miami thắng đẹp, Messi ôm đùi rời sân trước thềm World Cup](https://nld.com.vn/inter-miami-thang-dep-messi-om-dui-roi-san-truoc-them-world-cup-196260525084507827.htm) - 01:47 25/05/2026
-- 🚀 [Xác định 8 suất dự cúp châu Âu của Ngoại hạng Anh: Sunderland thắng lớn](https://nld.com.vn/xac-dinh-8-suat-du-cup-chau-au-cua-ngoai-hang-anh-sunderland-thang-lon-196260525083759467.htm) - 01:39 25/05/2026
-- 🕯 [Tham vọng của CLB Ninh Bình và nghịch lý thay HLV trưởng](https://nld.com.vn/tham-vong-cua-clb-ninh-binh-va-nghich-ly-thay-hlv-truong-196260525063435567.htm) - 01:24 25/05/2026
-- 🦏 [Harry Kane: &quot;Bản hợp đồng hay nhất lịch sử&quot; Bayern Munich](https://nld.com.vn/harry-kane-ban-hop-dong-hay-nhat-lich-su-bayern-munich-196260525070658816.htm) - 00:55 25/05/2026
-- 🦄 [Arsenal nâng cúp vô địch Premier League sau 22 năm chờ đợi](https://nld.com.vn/arsenal-nang-cup-vo-dich-premier-league-sau-22-nam-cho-doi-196260525063442489.htm) - 23:59 24/05/2026
-- 🦅 [Nước mắt ngày chia tay Man City của Pep Guardiola](https://nld.com.vn/nuoc-mat-ngay-chia-tay-man-city-cua-pep-guardiola-196260525060255199.htm) - 23:21 24/05/2026
-- 🤭 [Bóng chuyền Việt Nam lại mơ ngôi hậu AVC Women&#39;s Cup](https://nld.com.vn/bong-chuyen-viet-nam-lai-mo-ngoi-hau-avc-womens-cup-196260524212644008.htm) - 22:55 24/05/2026
-- 🦣 [V-League hấp dẫn ở chặng nước rút](https://nld.com.vn/v-league-hap-dan-o-chang-nuoc-rut-19626052421275444.htm) - 21:00 24/05/2026
-- 🎊 [Saigon Heat phô diễn sức mạnh, tiếp tục thắng lớn Cantho Catfish](https://nld.com.vn/saigon-heat-pho-dien-suc-manh-tiep-tuc-thang-lon-cantho-catfish-196260525004351711.htm) - 18:19 24/05/2026
-- 🦅 [Tottenham thoát hiểm phút chót, West Ham thắng vẫn rớt hạng](https://nld.com.vn/tottenham-thoat-hiem-phut-chot-west-ham-thang-van-rot-hang-196260525011540943.htm) - 18:18 24/05/2026
-- 🎬 [Hoàng Hên ghi bàn và kiến tạo giúp Hà Nội FC trở lại Top 3 V-League](https://nld.com.vn/hoang-hen-ghi-ban-va-kien-tao-giup-ha-noi-fc-tro-lai-top-3-v-league-196260524220047068.htm) - 15:14 24/05/2026
-- 🎡 [Chiêm Hồng Thái về nhì World Cup billiards ba băng TPHCM](https://nld.com.vn/chiem-hong-thai-ve-nhi-world-cup-billiards-ba-bang-tphcm-196260524201425499.htm) - 14:49 24/05/2026
-- 🤖 [&quot;Người nhện&quot; U23 Việt Nam giúp Sông Lam Nghệ An trụ hạng V-League](https://nld.com.vn/nguoi-nhen-u23-viet-nam-giup-song-lam-nghe-an-tru-hang-v-league-196260524204859096.htm) - 13:50 24/05/2026
-- 🐎 [Soi tỉ số trận Manchester City - Aston Villa: Kết thúc kỷ nguyên của Pep Guardiola](https://nld.com.vn/soi-ti-so-tran-manchester-city-aston-villa-ket-thuc-ky-nguyen-cua-pep-guardiola-196260524151203685.htm) - 10:50 24/05/2026
-- 🪜 [Soi tỉ số trận Liverpool - Brentford: Trận cầu vì danh dự Anfield](https://nld.com.vn/soi-ti-so-tran-liverpool-brentford-tran-cau-vi-danh-du-anfield-196260524135359298.htm) - 07:39 24/05/2026
-- 🤠 [Chiêm Hồng Thái tạo lập kỳ tích tại World Cup billiards  TPHCM](https://nld.com.vn/chiem-hong-thai-tao-lap-ky-tich-tai-world-cup-billiards-tphcm-196260524143038738.htm) - 07:32 24/05/2026
-- 🎉 [Tuyển Iran chuyển đại bản doanh World Cup 2026 sang Mexico](https://nld.com.vn/tuyen-iran-chuyen-dai-ban-doanh-world-cup-2026-sang-mexico-196260524125946384.htm) - 06:12 24/05/2026
-- 🏊 [Soi tỉ số trận Brighton - Manchester United: Khát vọng châu Âu của Chim mòng biển](https://nld.com.vn/soi-ti-so-tran-brighton-manchester-united-khat-vong-chau-au-cua-chim-mong-bien-196260524085338655.htm) - 02:02 24/05/2026
-- 💫 [Soi tỉ số trận Crystal Palace - Arsenal: Ngày vinh danh Pháo thủ](https://nld.com.vn/soi-ti-so-tran-crystal-palace-arsenal-ngay-vinh-danh-phao-thu-196260523183415003.htm) - 01:58 24/05/2026
-- 🎃 [Dàn cựu tuyển thủ Việt Nam sẽ đối đầu những huyền thoại La Liga tại TP HCM](https://nld.com.vn/dan-cuu-tuyen-thu-viet-nam-se-doi-dau-nhung-huyen-thoai-la-liga-tai-tp-hcm-196260524082919476.htm) - 01:56 24/05/2026
-- 🧑‍💻 [ASEAN Cup 2026: Indonesia vắng dàn sao châu Âu, Việt Nam thêm hy vọng](https://nld.com.vn/asean-cup-2026-indonesia-vang-dan-sao-chau-au-viet-nam-them-hy-vong-196260524071758883.htm) - 00:23 24/05/2026
-- 🤡 [Thắng trận cầu bạc tỉ, Hull City trở lại đấu trường Ngoại hạng Anh](https://nld.com.vn/thang-tran-cau-bac-ti-hull-city-tro-lai-dau-truong-ngoai-hang-anh-196260524005301399.htm) - 22:57 23/05/2026
-- 🗽 [Giang Tô đăng quang thuyết phục tại Cúp VTV9 – Bình Điền 2026](https://nld.com.vn/giang-to-dang-quang-thuyet-phuc-tai-cup-vtv9-binh-dien-2026-196260524023900311.htm) - 22:50 23/05/2026<!-- nld-the-thao:END -->
+- 💻 [Nguyễn Việt Thắng và hai tấm vé V-League](https://nld.com.vn/nguyen-viet-thang-va-hai-tam-ve-v-league-196260601013028764.htm) - 22:09 31/05/2026
+- 🦒 [CLB Công an Hà Nội thắng thuyết phục Becamex TP HCM, đăng quang V-League hoành tráng](https://nld.com.vn/clb-cong-an-ha-noi-thang-thuyet-phuc-becamex-tp-hcm-dang-quang-v-league-hoanh-trang-196260531221731059.htm) - 22:01 31/05/2026
+- 👹 [PSG thăng hoa, vươn lên vị thế mới](https://nld.com.vn/psg-thang-hoa-vuon-len-vi-the-moi-196260531214351881.htm) - 21:31 31/05/2026
+- 🤓 [Bóng đá Đồng Nai trở lại V-League sau 11 năm chờ đợi](https://nld.com.vn/bong-da-dong-nai-tro-lai-v-league-sau-11-nam-cho-doi-196260531214556916.htm) - 20:51 31/05/2026
+- 🙉 [HAGL chính thức trụ hạng sau trận thắng thuyết phục Hà Nội FC](https://nld.com.vn/hagl-chinh-thuc-tru-hang-sau-tran-thang-thuyet-phuc-ha-noi-fc-196260531213540804.htm) - 14:56 31/05/2026
+- 🐵 [Thổi hồn World Cup vào vỏ trứng](https://nld.com.vn/thoi-hon-world-cup-vao-vo-trung-196260531153940933.htm) - 08:59 31/05/2026
+- 🕯 [Arsenal và Mbappe bị chế giễu sau trận chung kết Champions League](https://nld.com.vn/arsenal-va-mbappe-bi-che-gieu-sau-tran-chung-ket-champions-league-196260531130241671.htm) - 06:20 31/05/2026
+- 🕴 [Chung kết Champions League và những tranh cãi chưa có hồi kết](https://nld.com.vn/chung-ket-champions-league-va-nhung-tranh-cai-chua-co-hoi-ket-19626053111563879.htm) - 04:57 31/05/2026
+- 🤠 [PSG dựng tượng đài kỷ lục, Arsenal ôm nỗi đau 266 trận](https://nld.com.vn/psg-dung-tuong-dai-ky-luc-arsenal-om-noi-dau-266-tran-196260531103205463.htm) - 03:52 31/05/2026
+- 🪜 [Trường Tươi Đồng Nai vô địch: Vinh quang không đến từ đường tắt](https://nld.com.vn/truong-tuoi-dong-nai-vo-dich-vinh-quang-khong-den-tu-duong-tat-196260531100145285.htm) - 03:07 31/05/2026
+- 🧠 [Bảo vệ ngai vàng Champions League: PSG gia nhập nhóm tinh hoa châu Âu](https://nld.com.vn/bao-ve-ngai-vang-champions-league-psg-gia-nhap-nhom-tinh-hoa-chau-au-196260531094453809.htm) - 02:48 31/05/2026
+- 🙉 [Lý do trung vệ Gabriel đá quả luân lưu 11 m quyết định của Arsenal](https://nld.com.vn/ly-do-trung-ve-gabriel-da-qua-luan-luu-11-m-quyet-dinh-cua-arsenal-196260531081252615.htm) - 01:18 31/05/2026
+- 👺 [Cảnh Paris hỗn loạn trong đêm PSG đăng quang Champions League](https://nld.com.vn/paris-hon-loan-trong-dem-psg-dang-quang-champions-league-196260531071245617.htm) - 00:17 31/05/2026
+- 🦄 [Diễn viên Phương Nam &quot;mưa đỏ&quot; thất thần khi Arsenal thua ngược](https://nld.com.vn/dien-vien-phuong-nam-mua-do-that-than-khi-arsenal-thua-nguoc-19626053102301178.htm) - 23:12 30/05/2026
+- 👀 [Thời khắc lịch sử của Roland Garros 2026](https://nld.com.vn/thoi-khac-lich-su-cua-roland-garros-2026-196260530211501528.htm) - 20:30 30/05/2026
+- 🐵 [Người kể chuyện World Cup bằng nghệ thuật vỏ trứng](https://nld.com.vn/nguoi-ke-chuyen-world-cup-bang-nghe-thuat-vo-trung-196260530211351279.htm) - 19:29 30/05/2026
+- 💂 [Arsenal sút hỏng 2 lượt 11 m, PSG bảo vệ ngôi vương Champions League](https://nld.com.vn/arsenal-sut-hong-2-luot-11-m-psg-bao-ve-ngoi-vuong-champions-league-196260531022402458.htm) - 19:25 30/05/2026
+- 👍 [Hướng tới World Cup 2026: Siêu sự kiện toàn cầu](https://nld.com.vn/huong-toi-world-cup-2026-sieu-su-kien-toan-cau-196260530203640672.htm) - 19:00 30/05/2026
+- 🔥 [Công Phượng, Xuân Trường và Minh Vương lần đầu nâng cúp vô địch ở cấp CLB](https://nld.com.vn/cong-phuong-xuan-truong-va-minh-vuong-lan-dau-nang-cup-vo-dich-o-cap-clb-196260530202716447.htm) - 13:59 30/05/2026
+- 🎉 [Bóng chuyền TPHCM trăn trở mục tiêu ngày trở lại](https://nld.com.vn/bong-chuyen-tphcm-tran-tro-muc-tieu-ngay-tro-lai-19626053020545389.htm) - 13:58 30/05/2026
+- 🪄 [Liverpool sa thải HLV Arne Slot, sẵn sàng mời Andoni Iraola kế nhiệm](https://nld.com.vn/liverpool-sa-thai-hlv-arne-slot-san-sang-moi-andoni-iraola-ke-nhiem-196260530202445529.htm) - 13:26 30/05/2026
+- 🌊 [Công Phượng vô địch Giải Hạng nhất, nói gì về câu &quot;dành cả thanh xuân để trụ hạng&quot;?](https://nld.com.vn/cong-phuong-vo-dich-giai-hang-nhat-noi-gi-ve-cau-danh-ca-thanh-xuan-de-tru-hang-196260530201803237.htm) - 13:19 30/05/2026
+- 🌮 [Công Phượng ấn định chiến thắng 3-0, Đồng Nai vô địch Hạng nhất sớm một vòng](https://nld.com.vn/cong-phuong-an-dinh-chien-thang-3-0-dong-nai-vo-dich-hang-nhat-som-mot-vong-196260530193656431.htm) - 12:37 30/05/2026
+- 🧠 [Sun Group vận hành Công viên Thể thao đa năng quy mô hàng đầu Việt Nam tại Ninh Bình](https://nld.com.vn/sun-group-van-hanh-cong-vien-the-thao-da-nang-quy-mo-hang-dau-viet-nam-tai-ninh-binh-196260530155335347.htm) - 10:27 30/05/2026
+- 🌮 [Soi tỉ số trận PSG - Arsenal: Phòng ngự chống… phản công](https://nld.com.vn/soi-ti-so-tran-psg-arsenal-phong-ngu-chong-phan-cong-196260530151425015.htm) - 09:52 30/05/2026
+- 🫣 [Thua Fonseca tuổi 19, Djokovic chưa hết thời!](https://nld.com.vn/thua-fonseca-tuoi-19-djokovic-chua-het-thoi-196260530142618249.htm) - 07:34 30/05/2026
+- 🎡 [Canh bạc táo bạo Anthony Gordon của Barcelona](https://nld.com.vn/canh-bac-tao-bao-anthony-gordon-cua-barcelona-196260530130636958.htm) - 07:33 30/05/2026
+- 🦄 [PSG &quot;chốt&quot; đội hình, Arsenal còn một lựa chọn khó...](https://nld.com.vn/psg-chot-doi-hinh-arsenal-con-mot-lua-chon-kho-196260530115047471.htm) - 05:30 30/05/2026
+- 🚀 [“Cạm bẫy” lịch sử Arsenal cần tránh ở chung kết Champions League](https://nld.com.vn/cam-bay-lich-su-arsenal-can-tranh-o-chung-ket-champions-league-196260530101315113.htm) - 03:23 30/05/2026
+- 🕯 [Djokovic cáu gắt với máy quay trong trận thua trước thần đồng Brazil tại Roland Garros](https://nld.com.vn/djokovic-cau-gat-voi-may-quay-trong-tran-thua-truoc-than-dong-brazil-tai-roland-garros-196260530091551341.htm) - 02:26 30/05/2026
+- 🦏 [Saigon Heat ngược dòng hạ á quân VBA](https://nld.com.vn/saigon-heat-nguoc-dong-ha-a-quan-vba-196260530072031723.htm) - 02:26 30/05/2026
+- 🦄 [Sốc: Sterling bị bắt với loạt &quot;dấu hiệu nghiêm trọng&quot;](https://nld.com.vn/soc-sterling-bi-bat-voi-loat-dau-hieu-nghiem-trong-196260530082324537.htm) - 01:30 30/05/2026
+- 🦅 [Chung kết Champions League: Puskas Arena và dự án bóng đá tỉ đô](https://nld.com.vn/chung-ket-champions-league-puskas-arena-va-du-an-bong-da-ti-do-196260530073436835.htm) - 01:01 30/05/2026
+- 🤭 [Djokovic thua ngược tài năng trẻ Brazil ở vòng 3](https://nld.com.vn/djokovic-thua-nguoc-tai-nang-tre-brazil-o-vong-3-196260530073806486.htm) - 00:59 30/05/2026
+- 🦣 [Công Phượng, Minh Vương trước cột mốc lịch sử suốt sự nghiệp](https://nld.com.vn/cong-phuong-minh-vuong-truoc-cot-moc-lich-su-suot-su-nghiep-196260529224105334.htm) - 22:07 29/05/2026
+- 🎊 [6 điểm “nóng” có thể định đoạt ngôi vương Champions League](https://nld.com.vn/6-diem-nong-co-the-dinh-doat-ngoi-vuong-champions-league-196260530003428119.htm) - 22:06 29/05/2026
+- 🦅 [Chung kết Champions League: Arsenal thách thức nhà vô địch](https://nld.com.vn/chung-ket-champions-league-arsenal-thach-thuc-nha-vo-dich-196260529211844513.htm) - 22:00 29/05/2026
+- 🎬 [Robert Huy tiếp tục đồng hành cùng team Lý Hoàng Nam đến 2031](https://nld.com.vn/robert-huy-tiep-tuc-dong-hanh-cung-team-ly-hoang-nam-den-2031-196260529192226379.htm) - 17:04 29/05/2026
+- 🎡 [V-League 2025-2026: Vòng đấu căng thẳng của nhóm cuối](https://nld.com.vn/vong-dau-cang-thang-cua-nhom-cuoi-196260529212041586.htm) - 17:00 29/05/2026
+- 🤖 [Pickleball Banger - “Sân nhà” của Giải Pickleball Báo Người Lao Động 2026](https://nld.com.vn/pickleball-banger-san-nha-cua-giai-pickleball-bao-nguoi-lao-dong-2026-196260529152521399.htm) - 09:29 29/05/2026
+- 🐎 [10 ngôi sao tăng giá mạnh nhất Ngoại hạng Anh mùa này](https://nld.com.vn/10-ngoi-sao-tang-gia-manh-nhat-ngoai-hang-anh-mua-nay-19626052916155372.htm) - 09:26 29/05/2026
+- 🪜 [FIFA bị điều tra trước thềm World Cup tại Mỹ](https://nld.com.vn/fifa-bi-dieu-tra-truoc-them-world-cup-tai-my-196260529161657396.htm) - 09:25 29/05/2026
+- 🤠 [Sinner và Nadal: Khác biệt giữa một nhà vô địch và một huyền thoại](https://nld.com.vn/sinner-va-nadal-khac-biet-giua-mot-nha-vo-dich-va-mot-huyen-thoai-19626052913130229.htm) - 06:24 29/05/2026
+- 🎉 [Moise Kouame gửi lời cảm ơn Alcaraz, nguồn cảm hứng cho câu chuyện cổ tích ở Roland Garros](https://nld.com.vn/moise-kouame-gui-loi-cam-on-alcaraz-nguon-cam-hung-cho-cau-chuyen-co-tich-o-roland-garros-196260529124901538.htm) - 06:14 29/05/2026
+- 🏊 [Việt Nam đăng cai Vietnam DanceSport Festival 2026](https://nld.com.vn/viet-nam-dang-cai-vietnam-dancesport-festival-2026-196260529120329962.htm) - 05:25 29/05/2026
+- 💫 [World Cup 2026: “Vũ điệu cuối cùng” của một thế hệ huyền thoại](https://nld.com.vn/world-cup-2026-vu-dieu-cuoi-cung-cua-mot-the-he-huyen-thoai-196260529113752708.htm) - 05:25 29/05/2026
+- 🎃 [Quyết định bất ngờ về Quả bóng Vàng năm 2026](https://nld.com.vn/quyet-dinh-bat-ngo-ve-qua-bong-vang-nam-2026-196260529100956727.htm) - 03:10 29/05/2026
+- 🧑‍💻 [Sao Real Madrid lại bị gạch tên ở tuyển Argentina dự World Cup](https://nld.com.vn/sao-real-madrid-lai-bi-gach-ten-o-tuyen-argentina-du-world-cup-196260529085110655.htm) - 03:07 29/05/2026
+- 🤡 [10 ngôi sao rớt giá mạnh nhất Ngoại hạng Anh mùa này](https://nld.com.vn/10-ngoi-sao-rot-gia-manh-nhat-ngoai-hang-anh-mua-nay-196260529080030966.htm) - 01:14 29/05/2026
+- 🗽 [Barcelona gây sốc thị trường chuyển nhượng trước World Cup](https://nld.com.vn/barcelona-gay-soc-thi-truong-chuyen-nhuong-truoc-world-cup-196260529073924615.htm) - 01:13 29/05/2026<!-- nld-the-thao:END -->
