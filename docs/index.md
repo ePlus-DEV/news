@@ -719,17 +719,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Muốn có “túi khôn”, phải tháo vòng kim cô cho đại học](https://vov.vn/xa-hoi/muon-co-tui-khon-phai-thao-vong-kim-co-cho-dai-hoc-post1296638.vov) - 23:00 31/05/2026
-- 🕯 [Muốn có “túi khôn”, phải tháo vòng kim cô cho đại học](https://vov.vn/xa-hoi/muon-co-tui-khon-phai-thao-vong-kim-co-cho-dai-hoc-post1296638.vov) - 23:00 31/05/2026
-- 🌊 [Vỉa hè phố Trần Thủ Độ &lpar;Hà Nội&rpar;: Đào bới kéo dài, dân khốn khổ giữa nắng nóng](https://vov.vn/xa-hoi/via-he-pho-tran-thu-do-ha-noi-dao-boi-keo-dai-dan-khon-kho-giua-nang-nong-post1296313.vov) - 23:00 31/05/2026
-- 🥷 [Dự báo El Nino gây nắng nóng kỷ lục, mưa lũ cực đoan từ nay đến cuối năm](https://vov.vn/xa-hoi/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam-post1296595.vov) - 23:00 31/05/2026
-- 🎡 [Vì sao Hải quân Mỹ khai tử F-5 sau nhiều thập kỷ phục vụ?](https://vov.vn/quan-su-quoc-phong/vu-khi/vi-sao-hai-quan-my-khai-tu-f-5-sau-nhieu-thap-ky-phuc-vu-post1296550.vov) - 22:59 31/05/2026
-- 🚀 [Cách Nga bố trí trận địa Pantsir-SMD-E để chống UAV Ukraine](https://vov.vn/quan-su-quoc-phong/phan-tich/cach-nga-bo-tri-tran-dia-pantsir-smd-e-de-chong-uav-ukraine-post1296598.vov) - 22:38 31/05/2026
-- 🔥 [Công tác đặc xá được thực hiện công bằng, công khai, minh bạch, đúng đối tượng](https://vov.vn/phap-luat/cong-tac-dac-xa-duoc-thuc-hien-cong-bang-cong-khai-minh-bach-dung-doi-tuong-post1296656.vov) - 22:30 31/05/2026
-- 🌋 [Công tác đặc xá được thực hiện công bằng, công khai, minh bạch, đúng đối tượng](https://vov.vn/phap-luat/cong-tac-dac-xa-duoc-thuc-hien-cong-bang-cong-khai-minh-bach-dung-doi-tuong-post1296656.vov) - 22:30 31/05/2026
-- 🕴 [Hôm nay, hoc·sinh Hà Nội chính thức khởi cộng &amp;quot;cuộc đua&amp;quot; vào trường THPT chuyên](https://vov.vn/xa-hoi/hom-nay-hocsinh-ha-noi-chinh-thuc-khoi-cong-cuoc-dua-vao-truong-thpt-chuyen-post1296636.vov) - 22:14 31/05/2026
-- 🥰 [Hôm nay, hoc·sinh Hà Nội chính thức khởi cộng &amp;quot;cuộc đua&amp;quot; vào trường THPT chuyên](https://vov.vn/xa-hoi/hom-nay-hocsinh-ha-noi-chinh-thuc-khoi-cong-cuoc-dua-vao-truong-thpt-chuyen-post1296636.vov) - 22:14 31/05/2026
-- 🧐 [Tháo gỡ điểm nghẽn về thể chế nhằm đạt mục tiêu tăng trưởng](https://vov.vn/chinh-tri/thao-go-diem-nghen-ve-the-che-nham-dat-muc-tieu-tang-truong-post1296650.vov) - 22:05 31/05/2026<!-- vov:END -->
+- 🌜 [Lễ trao các văn kiện hợp tác Việt Nam - Philippines](https://vov.vn/chinh-tri/le-trao-cac-van-kien-hop-tac-viet-nam-philippines-post1296805.vov) - 05:18 01/06/2026
+- 🕯 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-philippines-post1296802.vov) - 05:12 01/06/2026
+- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-philippines-post1296802.vov) - 05:12 01/06/2026
+- 🥷 [Mẹ chống nạng đến điểm thi động viên con trong kỳ thi &amp;quot;chọi khủng&amp;quot; vào chuyên Sở](https://vov.vn/xa-hoi/me-chong-nang-den-diem-thi-dong-vien-con-trong-ky-thi-choi-khung-vao-chuyen-so-post1296784.vov) - 04:42 01/06/2026
+- 🎡 [Tổng Bí thư, Chủ tịch nước dâng hoa tại Đài tưởng niệm anh hùng dân tộc Jose Rizal](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-dang-hoa-tai-dai-tuong-niem-anh-hung-dan-toc-jose-rizal-post1296779.vov) - 04:19 01/06/2026
+- 🚀 [Philippines bắn 21 loạt đại bác chào mừng Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/philippines-ban-21-loat-dai-bac-chao-mung-tong-bi-thu-chu-tich-nuoc-to-lam-post1296761.vov) - 04:14 01/06/2026
+- 🔥 [Những sự kiện quốc tế đáng chú ý tháng 5/2026](https://vov.vn/the-gioi/nhung-su-kien-quoc-te-dang-chu-y-thang-52026-post1296763.vov) - 03:59 01/06/2026
+- 🌋 [Sau đợt nóng lịch sử tháng 5, tháng 6 tiếp tục xuất hiện nhiều ngày “thiêu đốt&amp;quot;](https://vov.vn/xa-hoi/sau-dot-nong-lich-su-thang-5-thang-6-tiep-tuc-xuat-hien-nhieu-ngay-thieu-dot-post1296752.vov) - 03:28 01/06/2026
+- 🕴 [Một số dự án chống ngập nội đô Hà Nội sẽ lùi thời hạn hoàn thành sang đầu tháng 6](https://vov.vn/xa-hoi/mot-so-du-an-chong-ngap-noi-do-ha-noi-se-lui-thoi-han-hoan-thanh-sang-dau-thang-6-post1296745.vov) - 03:18 01/06/2026
+- 🥰 [“Chợ đen” dữ liệu: Mua bán công khai, rủi ro khôn lường](https://vov.vn/xa-hoi/cho-den-du-lieu-mua-ban-cong-khai-rui-ro-khon-luong-post1296751.vov) - 03:03 01/06/2026
+- 🧐 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước Philippines](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-philippines-post1296733.vov) - 02:09 01/06/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
