@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Lễ trao các văn kiện hợp tác Việt Nam - Philippines](https://vov.vn/chinh-tri/le-trao-cac-van-kien-hop-tac-viet-nam-philippines-post1296805.vov) - 05:18 01/06/2026
-- 💃 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-philippines-post1296802.vov) - 05:12 01/06/2026
-- 🫶 [Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Philippines gặp gỡ báo chí](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-va-tong-thong-philippines-gap-go-bao-chi-post1296787.vov) - 04:38 01/06/2026
-- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước dâng hoa tại Đài tưởng niệm anh hùng dân tộc Jose Rizal](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-dang-hoa-tai-dai-tuong-niem-anh-hung-dan-toc-jose-rizal-post1296779.vov) - 04:19 01/06/2026
-- 🪜 [Philippines bắn 21 loạt đại bác chào mừng Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/philippines-ban-21-loat-dai-bac-chao-mung-tong-bi-thu-chu-tich-nuoc-to-lam-post1296761.vov) - 04:14 01/06/2026
-- 🌋 [Thôn dưới 150 hộ, tổ dân phố dưới 300 hộ sẽ được rà soát sắp xếp tại Phú Thọ](https://vov.vn/chinh-tri/thon-duoi-150-ho-to-dan-pho-duoi-300-ho-se-duoc-ra-soat-sap-xep-tai-phu-tho-post1296756.vov) - 03:55 01/06/2026
-- 🎉 [Ông Nguyễn Hồng Dương được bầu giữ chức Phó Chủ tịch HĐND tỉnh Quảng Ninh](https://vov.vn/chinh-tri/ong-nguyen-hong-duong-duoc-bau-giu-chuc-pho-chu-tich-hdnd-tinh-quang-ninh-post1296768.vov) - 03:49 01/06/2026
-- 🌝 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước Philippines](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-philippines-post1296733.vov) - 02:09 01/06/2026
-- 🏊 [Dấu ấn Việt Nam tại Đối thoại Shangri-La lần thứ 23](https://vov.vn/chinh-tri/dau-an-viet-nam-tai-doi-thoai-shangri-la-lan-thu-23-post1296728.vov) - 01:49 01/06/2026
-- 🧑‍💻 [Tháo gỡ điểm nghẽn về thể chế nhằm đạt mục tiêu tăng trưởng](https://vov.vn/chinh-tri/thao-go-diem-nghen-ve-the-che-nham-dat-muc-tieu-tang-truong-post1296650.vov) - 22:05 31/05/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Việt Nam - Hoa Kỳ thúc đẩy hợp tác nhân đạo](https://vov.vn/chinh-tri/viet-nam-hoa-ky-thuc-day-hop-tac-nhan-dao-post1296965.vov) - 12:45 01/06/2026
+- 💃 [Các điều kiện để được cấp thẻ đi lại doanh nhân APEC](https://vov.vn/chinh-tri/cac-dieu-kien-de-duoc-cap-the-di-lai-doanh-nhan-apec-post1296958.vov) - 12:37 01/06/2026
+- 🫶 [“Từ Đường Cách mệnh năm 1927 đến kỷ nguyên phát triển mới của dân tộc”](https://vov.vn/chinh-tri/tu-duong-cach-menh-nam-1927-den-ky-nguyen-phat-trien-moi-cua-dan-toc-post1296960.vov) - 12:32 01/06/2026
+- 👨‍🏫 [Tổng Bí thư, Chủ tịch nước về đến Hà Nội, kết thúc chuyến thăm 3 nước Đông Nam Á](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-ve-den-ha-noi-ket-thuc-chuyen-tham-3-nuoc-dong-nam-a-post1296964.vov) - 12:21 01/06/2026
+- 🪜 [Phó Thủ tướng Lê Tiến Châu phê bình một số bộ, ngành, địa phương](https://vov.vn/chinh-tri/pho-thu-tuong-le-tien-chau-phe-binh-mot-so-bo-nganh-dia-phuong-post1296954.vov) - 11:51 01/06/2026
+- 🌋 [Tổng Bí thư, Chủ tịch nước kết thúc chuyến thăm cấp Nhà nước tới Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-ket-thuc-chuyen-tham-cap-nha-nuoc-toi-philippines-post1296936.vov) - 10:47 01/06/2026
+- 🎉 [Thủ tướng làm việc với 5 tỉnh, thành phố về phát triển nhà ở cho thuê](https://vov.vn/chinh-tri/thu-tuong-lam-viec-voi-5-tinh-thanh-pho-ve-phat-trien-nha-o-cho-thue-post1296930.vov) - 10:37 01/06/2026
+- 🌝 [Những chính sách mới có hiệu lực từ tháng 6/2026](https://vov.vn/chinh-tri/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-62026-post1296914.vov) - 10:34 01/06/2026
+- 🏊 [Tổng Bí thư, Chủ tịch nước Tô Lâm gợi mở 4 định hướng hợp tác lớn với Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-goi-mo-4-dinh-huong-hop-tac-lon-voi-philippines-post1296922.vov) - 10:33 01/06/2026
+- 🧑‍💻 [Thủ tướng: Hải Phòng phải đi đầu đổi mới mô hình tăng trưởng](https://vov.vn/chinh-tri/thu-tuong-hai-phong-phai-di-dau-doi-moi-mo-hinh-tang-truong-post1296906.vov) - 10:11 01/06/2026<!-- vov-chinh-tri:END -->
