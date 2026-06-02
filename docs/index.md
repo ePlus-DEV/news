@@ -723,17 +723,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Lễ trao các văn kiện hợp tác Việt Nam - Philippines](https://vov.vn/chinh-tri/le-trao-cac-van-kien-hop-tac-viet-nam-philippines-post1296805.vov) - 05:18 01/06/2026
-- 🕯 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-philippines-post1296802.vov) - 05:12 01/06/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Philippines](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-philippines-post1296802.vov) - 05:12 01/06/2026
-- 🥷 [Mẹ chống nạng đến điểm thi động viên con trong kỳ thi &amp;quot;chọi khủng&amp;quot; vào chuyên Sở](https://vov.vn/xa-hoi/me-chong-nang-den-diem-thi-dong-vien-con-trong-ky-thi-choi-khung-vao-chuyen-so-post1296784.vov) - 04:42 01/06/2026
-- 🎡 [Tổng Bí thư, Chủ tịch nước dâng hoa tại Đài tưởng niệm anh hùng dân tộc Jose Rizal](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-dang-hoa-tai-dai-tuong-niem-anh-hung-dan-toc-jose-rizal-post1296779.vov) - 04:19 01/06/2026
-- 🚀 [Philippines bắn 21 loạt đại bác chào mừng Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/philippines-ban-21-loat-dai-bac-chao-mung-tong-bi-thu-chu-tich-nuoc-to-lam-post1296761.vov) - 04:14 01/06/2026
-- 🔥 [Những sự kiện quốc tế đáng chú ý tháng 5/2026](https://vov.vn/the-gioi/nhung-su-kien-quoc-te-dang-chu-y-thang-52026-post1296763.vov) - 03:59 01/06/2026
-- 🌋 [Sau đợt nóng lịch sử tháng 5, tháng 6 tiếp tục xuất hiện nhiều ngày “thiêu đốt&amp;quot;](https://vov.vn/xa-hoi/sau-dot-nong-lich-su-thang-5-thang-6-tiep-tuc-xuat-hien-nhieu-ngay-thieu-dot-post1296752.vov) - 03:28 01/06/2026
-- 🕴 [Một số dự án chống ngập nội đô Hà Nội sẽ lùi thời hạn hoàn thành sang đầu tháng 6](https://vov.vn/xa-hoi/mot-so-du-an-chong-ngap-noi-do-ha-noi-se-lui-thoi-han-hoan-thanh-sang-dau-thang-6-post1296745.vov) - 03:18 01/06/2026
-- 🥰 [“Chợ đen” dữ liệu: Mua bán công khai, rủi ro khôn lường](https://vov.vn/xa-hoi/cho-den-du-lieu-mua-ban-cong-khai-rui-ro-khon-luong-post1296751.vov) - 03:03 01/06/2026
-- 🧐 [Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước Philippines](https://vov.vn/chinh-tri/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-philippines-post1296733.vov) - 02:09 01/06/2026<!-- vov:END -->
+- 🌜 [Ông Trump có thực sự cảm thấy đàm phán với Iran &amp;quot;rất nhàm chán&amp;quot;?](https://vov.vn/the-gioi/quan-sat/ong-trump-co-thuc-su-cam-thay-dam-phan-voi-iran-rat-nham-chan-post1297097.vov) - 04:48 02/06/2026
+- 🕯 [TP.HCM bàn quy hoạch tổng thể với tầm nhìn 100 năm](https://vov.vn/kinh-te/tphcm-ban-quy-hoach-tong-the-voi-tam-nhin-100-nam-post1297082.vov) - 04:43 02/06/2026
+- 🌊 [Bộ GD&amp;amp;ĐT rà soát công tác tổ chức thi tốt nghiệp THPT 2026 với các tỉnh, thành](https://vov.vn/xa-hoi/bo-gddt-ra-soat-cong-tac-to-chuc-thi-tot-nghiep-thpt-2026-voi-cac-tinh-thanh-post1297065.vov) - 04:31 02/06/2026
+- 🥷 [Sẽ sớm có cơ chế đẩy nhanh xử lý nhà đất và trụ sở dôi dư trong thời gian tới](https://vov.vn/kinh-te/se-som-co-co-che-day-nhanh-xu-ly-nha-dat-va-tru-so-doi-du-trong-thoi-gian-toi-post1297067.vov) - 04:15 02/06/2026
+- 🎡 [Đề xuất không cổ phần hóa bệnh viện, trường học](https://vov.vn/kinh-te/de-xuat-khong-co-phan-hoa-benh-vien-truong-hoc-post1297051.vov) - 03:03 02/06/2026
+- 🚀 [HĐND thành phố Hà Nội xem xét Đề án vùng phát thải thấp trong Vành đai 1](https://vov.vn/xa-hoi/hdnd-thanh-pho-ha-noi-xem-xet-de-an-vung-phat-thai-thap-trong-vanh-dai-1-post1297034.vov) - 02:42 02/06/2026
+- 🔥 [HĐND thành phố Hà Nội xem xét Đề án vùng phát thải thấp trong Vành đai 1](https://vov.vn/xa-hoi/hdnd-thanh-pho-ha-noi-xem-xet-de-an-vung-phat-thai-thap-trong-vanh-dai-1-post1297034.vov) - 02:42 02/06/2026
+- 🌋 [Xăng E10 bán đại trà, người dân TP.HCM thích nghi ra sao?](https://vov.vn/thi-truong/xang-e10-ban-dai-tra-nguoi-dan-tphcm-thich-nghi-ra-sao-post1296962.vov) - 00:00 02/06/2026
+- 🕴 [Gỡ “nút thắt” thể chế để mở đường cho kinh tế biển xanh](https://vov.vn/xa-hoi/go-nut-that-the-che-de-mo-duong-cho-kinh-te-bien-xanh-post1296880.vov) - 23:00 01/06/2026
+- 🥰 [Toàn cảnh chuyến thăm Philippines của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-philippines-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1296932.vov) - 22:25 01/06/2026
+- 🧐 [Sáng kiến trong vận hành chính quyền hai cấp ở TP.HCM](https://vov.vn/chinh-tri/sang-kien-trong-van-hanh-chinh-quyen-hai-cap-o-tphcm-post1296829.vov) - 22:00 01/06/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
