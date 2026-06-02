@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Văn phòng Chính phủ có 17 đơn vị trực thuộc từ 1/6](https://vov.vn/chinh-tri/van-phong-chinh-phu-co-17-don-vi-truc-thuoc-tu-16-post1297069.vov) - 03:42 02/06/2026
-- 💃 [Hà Nội khẩn trương sắp xếp thôn, tổ dân phố, hoàn thành trước ngày 30/6](https://vov.vn/chinh-tri/ha-noi-khan-truong-sap-xep-thon-to-dan-pho-hoan-thanh-truoc-ngay-306-post1297050.vov) - 03:33 02/06/2026
-- 🫶 [Bộ trưởng Lương Tam Quang gặp Cố vấn Hội đồng An ninh quốc gia Philippines](https://vov.vn/chinh-tri/bo-truong-luong-tam-quang-gap-co-van-hoi-dong-an-ninh-quoc-gia-philippines-post1297054.vov) - 03:12 02/06/2026
-- 👨‍🏫 [Điện mừng Quốc khánh Cộng hòa Italia](https://vov.vn/chinh-tri/dien-mung-quoc-khanh-cong-hoa-italia-post1297061.vov) - 03:11 02/06/2026
-- 🪜 [Phát huy tự quản cộng đồng trong bối cảnh chính quyền địa phương hai cấp](https://vov.vn/chinh-tri/phat-huy-tu-quan-cong-dong-trong-boi-canh-chinh-quyen-dia-phuong-hai-cap-post1296098.vov) - 00:00 02/06/2026
-- 🌋 [Hải Phòng xây dựng &amp;quot;Chính quyền thân thiện&amp;quot; từ những việc gần dân](https://vov.vn/chinh-tri/hai-phong-xay-dung-chinh-quyen-than-thien-tu-nhung-viec-gan-dan-post1296743.vov) - 22:30 01/06/2026
-- 🎉 [Toàn cảnh chuyến thăm Philippines của Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vov.vn/chinh-tri/toan-canh-chuyen-tham-philippines-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1296932.vov) - 22:25 01/06/2026
-- 🌝 [Sáng kiến trong vận hành chính quyền hai cấp ở TP.HCM](https://vov.vn/chinh-tri/sang-kien-trong-van-hanh-chinh-quyen-hai-cap-o-tphcm-post1296829.vov) - 22:00 01/06/2026
-- 🏊 [Phu nhân Tổng Bí thư, Chủ tịch nước thăm trẻ em hoàn cảnh đặc biệt tại Philippines](https://vov.vn/chinh-tri/phu-nhan-tong-bi-thu-chu-tich-nuoc-tham-tre-em-hoan-canh-dac-biet-tai-philippines-post1296996.vov) - 15:44 01/06/2026
-- 🧑‍💻 [Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm tới 3 nước mở ra hợp tác mới](https://vov.vn/chinh-tri/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-toi-3-nuoc-mo-ra-hop-tac-moi-post1296992.vov) - 15:18 01/06/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Chuyến thăm của Chủ tịch Hồ Chí Minh có ý nghĩa quan trọng với quan hệ Việt Nam - Ai Cập](https://vov.vn/chinh-tri/chuyen-tham-cua-chu-tich-ho-chi-minh-co-y-nghia-quan-trong-voi-quan-he-viet-nam-ai-cap-post1297320.vov) - 15:11 02/06/2026
+- 💃 [Bộ Công an đẩy mạnh tấn công tội phạm đánh bạc, tổ chức đánh bạc dịp World Cup](https://vov.vn/chinh-tri/bo-cong-an-day-manh-tan-cong-toi-pham-danh-bac-to-chuc-danh-bac-dip-world-cup-post1297308.vov) - 15:07 02/06/2026
+- 🫶 [Ninh Bình dự kiến giảm gần 3.000 thôn, tổ dân phố sau sắp xếp](https://vov.vn/chinh-tri/ninh-binh-du-kien-giam-gan-3000-thon-to-dan-pho-sau-sap-xep-post1297260.vov) - 15:06 02/06/2026
+- 👨‍🏫 [Thứ trưởng Ngoại giao tiếp Đoàn đại biểu UBQP và Lực lượng vũ trang Quốc hội Pháp](https://vov.vn/chinh-tri/thu-truong-ngoai-giao-tiep-doan-dai-bieu-ubqp-va-luc-luong-vu-trang-quoc-hoi-phap-post1297315.vov) - 14:47 02/06/2026
+- 🪜 [Bộ Tư pháp công bố các quyết định về công tác cán bộ](https://vov.vn/chinh-tri/bo-tu-phap-cong-bo-cac-quyet-dinh-ve-cong-tac-can-bo-post1297301.vov) - 14:01 02/06/2026
+- 🌋 [Làm sống động Quan hệ Đối tác Mê Công - Hoa Kỳ](https://vov.vn/chinh-tri/lam-song-dong-quan-he-doi-tac-me-cong-hoa-ky-post1297305.vov) - 13:57 02/06/2026
+- 🎉 [Phó Thủ tướng Thường trực chủ trì cuộc họp lần thứ 3 của Ủy ban quốc gia APEC 2027](https://vov.vn/chinh-tri/pho-thu-tuong-thuong-truc-chu-tri-cuoc-hop-lan-thu-3-cua-uy-ban-quoc-gia-apec-2027-post1297302.vov) - 13:55 02/06/2026
+- 🌝 [Thủ tướng: Tạo cơ chế đột phá để sớm có sản phẩm, dịch vụ tài chính mới chủ chốt](https://vov.vn/chinh-tri/thu-tuong-tao-co-che-dot-pha-de-som-co-san-pham-dich-vu-tai-chinh-moi-chu-chot-post1297283.vov) - 12:16 02/06/2026
+- 🏊 [Hải Phòng: Chính quyền địa phương 2 cấp tạo đà tăng trưởng](https://vov.vn/chinh-tri/hai-phong-chinh-quyen-dia-phuong-2-cap-tao-da-tang-truong-post1297268.vov) - 12:04 02/06/2026
+- 🧑‍💻 [Chủ nhiệm Ủy ban quốc gia về Thanh niên Việt Nam là Bộ trưởng Bộ Nội vụ](https://vov.vn/chinh-tri/chu-nhiem-uy-ban-quoc-gia-ve-thanh-nien-viet-nam-la-bo-truong-bo-noi-vu-post1297269.vov) - 12:02 02/06/2026<!-- vov-chinh-tri:END -->
