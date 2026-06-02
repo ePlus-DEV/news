@@ -35,10 +35,10 @@ sidebar_position: 3
 - 🤓 [Đắk Lắk được đề xuất thí điểm dự án 9,8 triệu USD ứng phó  biến đổi khí hậu](https://vov.vn/xa-hoi/dak-lak-duoc-de-xuat-thi-diem-du-an-98-trieu-usd-ung-pho-bien-doi-khi-hau-post1296877.vov) - 09:39 01/06/2026
 - 💄 [Cao Bằng quyết tâm hoàn thành 11 trường nội trú trước năm học mới](https://vov.vn/xa-hoi/cao-bang-quyet-tam-hoan-thanh-11-truong-noi-tru-truoc-nam-hoc-moi-post1296884.vov) - 09:18 01/06/2026
 - 👨‍🏫 [Khi người thầy được “nâng cấp” mỗi ngày, người hưởng lợi lớn nhất là người học](https://vov.vn/xa-hoi/giao-duc/khi-nguoi-thay-duoc-nang-cap-moi-ngay-nguoi-huong-loi-lon-nhat-la-nguoi-hoc-post1296860.vov) - 08:58 01/06/2026
-- 🤔 [Chiều nay, thi môn chuyên Khoa học tự nhiên vào lớp 10 tại Hà Nội năm 2026](https://vov.vn/xa-hoi/chieu-nay-thi-mon-chuyen-khoa-hoc-tu-nhien-vao-lop-10-tai-ha-noi-nam-2026-post1296699.vov) - 08:40 01/06/2026
+- 🤔 [Hoàn thành môn thi chuyên Địa lí vào lớp 10 tại Hà Nội năm 2026](https://vov.vn/xa-hoi/hoan-thanh-mon-thi-chuyen-dia-li-vao-lop-10-tai-ha-noi-nam-2026-post1296765.vov) - 08:40 01/06/2026
 - 🐘 [Kết thúc môn thi chuyên Lịch sử vào lớp 10 tại Hà Nội năm 2026](https://vov.vn/xa-hoi/ket-thuc-mon-thi-chuyen-lich-su-vao-lop-10-tai-ha-noi-nam-2026-post1296698.vov) - 08:40 01/06/2026
-- 🎃 [Hoàn thành môn thi chuyên Địa lí vào lớp 10 tại Hà Nội năm 2026](https://vov.vn/xa-hoi/hoan-thanh-mon-thi-chuyen-dia-li-vao-lop-10-tai-ha-noi-nam-2026-post1296765.vov) - 08:40 01/06/2026
-- 🌋 [Sỹ tử Hà Nội thi chuyên Tiếng Anh vào lớp 10 năm 2026](https://vov.vn/xa-hoi/sy-tu-ha-noi-thi-chuyen-tieng-anh-vao-lop-10-nam-2026-post1296696.vov) - 08:40 01/06/2026
+- 🎃 [Sỹ tử Hà Nội thi chuyên Tiếng Anh vào lớp 10 năm 2026](https://vov.vn/xa-hoi/sy-tu-ha-noi-thi-chuyen-tieng-anh-vao-lop-10-nam-2026-post1296696.vov) - 08:40 01/06/2026
+- 🌋 [Chiều nay, thi môn chuyên Khoa học tự nhiên vào lớp 10 tại Hà Nội năm 2026](https://vov.vn/xa-hoi/chieu-nay-thi-mon-chuyen-khoa-hoc-tu-nhien-vao-lop-10-tai-ha-noi-nam-2026-post1296699.vov) - 08:40 01/06/2026
 - 🔥 [Hơn 1.500 xã trên cả nước có nguy cơ xảy ra cháy rừng](https://vov.vn/xa-hoi/hon-1500-xa-tren-ca-nuoc-co-nguy-co-xay-ra-chay-rung-post1296864.vov) - 08:21 01/06/2026
 - 💂 [Thi vào lớp 10 tại Hải Phòng: Đề Văn “dễ thở”, vừa sức](https://vov.vn/xa-hoi/thi-vao-lop-10-tai-hai-phong-de-van-de-tho-vua-suc-post1296854.vov) - 08:16 01/06/2026
 - 🧐 [Phát hiện 58 trường hợp vi phạm giao thông từ clip đăng trên mạng xã hội ở Nghệ An](https://vov.vn/xa-hoi/phat-hien-58-truong-hop-vi-pham-giao-thong-tu-clip-dang-tren-mang-xa-hoi-o-nghe-an-post1296852.vov) - 08:16 01/06/2026
