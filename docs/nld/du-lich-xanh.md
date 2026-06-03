@@ -6,7 +6,7 @@ sidebar_position: 15
 <!-- nld-du-lich-xanh:START -->
 - 💻 [Ngàn nụ cười rạng rỡ tại &quot;thành phố lễ hội thu nhỏ&quot; Gigamall dịp Quốc tế thiếu nhi 1-6](https://nld.com.vn/ngan-nu-cuoi-rang-ro-tai-thanh-pho-le-hoi-thu-nho-gigamall-dip-quoc-te-thieu-nhi-1-6-196260601181006438.htm) - 11:34 01/06/2026
 - 🌊 [Saigontourist Group xúc tiến, quảng bá du lịch Việt Nam tại Thái Lan, Singapore và Philippines](https://nld.com.vn/saigontourist-group-xuc-tien-quang-ba-du-lich-viet-nam-tai-thai-lan-singapore-va-philippines-196260601172823478.htm) - 11:33 01/06/2026
-- 👹 [Đề xuất nâng phí tham quan núi Bà Đen lên 20.000 đồng/lượt](https://nld.com.vn/de-xuat-nang-phi-tham-quan-nui-ba-den-len-20000-dong-luot-196260601142443656.htm) - 08:04 01/06/2026
+- 👹 [Tây Ninh chưa thống nhất đề xuất nâng phí tham quan núi Bà Đen](https://nld.com.vn/tay-ninh-chua-thong-nhat-de-xuat-nang-phi-tham-quan-nui-ba-den-196260601142443656.htm) - 08:04 01/06/2026
 - 🚀 [CLIP: Khai mạc Lễ hội Trái cây Nam Bộ, hàng ngàn du khách đến Suối Tiên](https://nld.com.vn/clip-khai-mac-le-hoi-trai-cay-nam-bo-hang-ngan-du-khach-den-suoi-tien-196260531162724624.htm) - 10:08 31/05/2026
 - 👀 [Bản giao hưởng của thành phố Ngọc lục bảo](https://nld.com.vn/ban-giao-huong-cua-thanh-pho-ngoc-luc-bao-196260530203840331.htm) - 01:31 31/05/2026
 - 💫 [Saigontourist Group đồng hành cùng Lễ hội Ẩm thực Chay - Huế 2026](https://nld.com.vn/saigontourist-group-dong-hanh-cung-le-hoi-am-thuc-chay-hue-2026-196260529190614537.htm) - 13:44 29/05/2026
