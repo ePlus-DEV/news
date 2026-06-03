@@ -723,17 +723,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VOV
 <!-- vov:START -->
-- 🌜 [Bổ nhiệm lại ông Nguyễn Đức Chi giữ chức Thứ trưởng Bộ Tài chính](https://vov.vn/chinh-tri/bo-nhiem-lai-ong-nguyen-duc-chi-giu-chuc-thu-truong-bo-tai-chinh-post1297265.vov) - 12:01 02/06/2026
-- 🕯 [Sơn La triển khai các giải pháp tháo gỡ vướng mắc khi thu hồi đất](https://vov.vn/chinh-tri/son-la-trien-khai-cac-giai-phap-thao-go-vuong-mac-khi-thu-hoi-dat-post1297282.vov) - 11:59 02/06/2026
-- 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì cuộc họp BCĐ sơ kết chính quyền 3 cấp](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-cuoc-hop-bcd-so-ket-chinh-quyen-3-cap-post1297278.vov) - 11:48 02/06/2026
-- 🥷 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì cuộc họp BCĐ sơ kết chính quyền 3 cấp](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-cuoc-hop-bcd-so-ket-chinh-quyen-3-cap-post1297278.vov) - 11:48 02/06/2026
-- 🎡 [&amp;quot;Chuyện tâm linh&amp;quot; của nữ du khách gây xôn xao: Ninh Bình vào cuộc xác minh](https://vov.vn/xa-hoi/chuyen-tam-linh-cua-nu-du-khach-gay-xon-xao-ninh-binh-vao-cuoc-xac-minh-post1297199.vov) - 11:06 02/06/2026
-- 🚀 [Hà Nội ngừng cấp điện, nước với nhiều công trình, cơ sở vi phạm](https://vov.vn/xa-hoi/ha-noi-ngung-cap-dien-nuoc-voi-nhieu-cong-trinh-co-so-vi-pham-post1297209.vov) - 11:06 02/06/2026
-- 🔥 [Chi tiết chế độ tiền lương, phụ cấp khi làm nhiệm vụ khẩn cấp từ ngày 13/7](https://vov.vn/chinh-tri/chi-tiet-che-do-tien-luong-phu-cap-khi-lam-nhiem-vu-khan-cap-tu-ngay-137-post1297218.vov) - 11:05 02/06/2026
-- 🌋 [Chàng trai kể khoảnh khắc dùng bình cứu hỏa ngăn kẻ cầm dao tấn công phụ nữ](https://vov.vn/xa-hoi/chang-trai-ke-khoanh-khac-dung-binh-cuu-hoa-ngan-ke-cam-dao-tan-cong-phu-nu-post1297267.vov) - 11:03 02/06/2026
-- 🕴 [Hà Nội tăng quỹ phụ cấp cho người hoạt động không chuyên trách ở thôn, tổ dân phố](https://vov.vn/xa-hoi/ha-noi-tang-quy-phu-cap-cho-nguoi-hoat-dong-khong-chuyen-trach-o-thon-to-dan-pho-post1297254.vov) - 11:03 02/06/2026
-- 🥰 [Dự án rạch Xuyên Tâm &lpar;TP.HCM&rpar;: Công trường đìu hiu vì vướng mặt bằng &amp;quot;da beo&amp;quot;](https://vov.vn/kinh-te/du-an-rach-xuyen-tam-tphcm-cong-truong-diu-hiu-vi-vuong-mat-bang-da-beo-post1296978.vov) - 10:52 02/06/2026
-- 🧐 [Hà Nội bầu bổ sung ông Lê Thanh Nam làm Ủy viên UBND Thành phố](https://vov.vn/chinh-tri/ha-noi-bau-bo-sung-ong-le-thanh-nam-lam-uy-vien-ubnd-thanh-pho-post1297023.vov) - 10:50 02/06/2026<!-- vov:END -->
+- 🌜 [Ngừng cung cấp dịch vụ điện, nước tại Hà Nội trong 8 trường hợp sau](https://vov.vn/xa-hoi/ngung-cung-cap-dich-vu-dien-nuoc-tai-ha-noi-trong-8-truong-hop-sau-post1297406.vov) - 04:01 03/06/2026
+- 🕯 [Giá điện, nước và xăng đồng loạt tăng, lạm phát 5 tháng năm 2026 lên mức 4,31%](https://vov.vn/kinh-te/gia-dien-nuoc-va-xang-dong-loat-tang-lam-phat-5-thang-nam-2026-len-muc-431-post1297397.vov) - 03:50 03/06/2026
+- 🌊 [Iran tuyên bố tấn công trụ sở Hạm đội 5, Mỹ bác bỏ](https://vov.vn/the-gioi/iran-tuyen-bo-tan-cong-tru-so-ham-doi-5-my-bac-bo-post1297395.vov) - 03:48 03/06/2026
+- 🥷 [Cảnh giác với thủ đoạn lợi dụng tôn giáo để phá hoại khối đại đoàn kết dân tộc](https://vov.vn/phap-luat/canh-giac-voi-thu-doan-loi-dung-ton-giao-de-pha-hoai-khoi-dai-doan-ket-dan-toc-post1297369.vov) - 02:40 03/06/2026
+- 🎡 [Thủ tướng: Yêu cầu đặt ra đặc biệt cao, đòi hỏi quyết liệt và cố gắng lớn](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-dat-ra-dac-biet-cao-doi-hoi-quyet-liet-va-co-gang-lon-post1297363.vov) - 02:14 03/06/2026
+- 🚀 [Thủ tướng: Yêu cầu đặt ra đặc biệt cao, đòi hỏi quyết liệt và cố gắng lớn](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-dat-ra-dac-biet-cao-doi-hoi-quyet-liet-va-co-gang-lon-post1297363.vov) - 02:14 03/06/2026
+- 🔥 [Bão Jangmi càn quét hầu khắp các địa phương Nhật Bản, gây hậu quả nghiêm trọng](https://vov.vn/the-gioi/bao-jangmi-can-quet-hau-khap-cac-dia-phuong-nhat-ban-gay-hau-qua-nghiem-trong-post1297356.vov) - 02:09 03/06/2026
+- 🌋 [Công an Hà Nội thử nghiệm UAV phát hiện vi phạm từ trên không](https://vov.vn/xa-hoi/cong-an-ha-noi-thu-nghiem-uav-phat-hien-vi-pham-tu-tren-khong-post1297352.vov) - 02:02 03/06/2026
+- 🕴 [Khơi thông dòng vốn - chìa khóa đạt mục tiêu tăng trưởng](https://vov.vn/kinh-te/khoi-thong-dong-von-chia-khoa-dat-muc-tieu-tang-truong-post1297024.vov) - 00:00 03/06/2026
+- 🥰 [&amp;quot;Sắp xếp thôn, tổ dân phố: Phải thận trọng, dân chủ và có trách nhiệm văn hóa&amp;quot;](https://vov.vn/chinh-tri/sap-xep-thon-to-dan-pho-phai-than-trong-dan-chu-va-co-trach-nhiem-van-hoa-post1297193.vov) - 23:19 02/06/2026
+- 🧐 [Tăng trưởng cao phải đảm bảo tính bao trùm và bền vững](https://vov.vn/chinh-tri/tang-truong-cao-phai-dam-bao-tinh-bao-trum-va-ben-vung-post1296851.vov) - 22:30 02/06/2026<!-- vov:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
