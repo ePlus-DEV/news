@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- tuoitre-kinh-doanh:START -->
-- 🧰 [6 phó chủ tịch Đà Nẵng trực tiếp chỉ đạo xử lý 312 dự án vướng mắc, chậm tiến độ](https://tuoitre.vn/6-pho-chu-tich-da-nang-truc-tiep-chi-dao-xu-ly-312-du-an-vuong-mac-cham-tien-do-20260603210651324.htm) - 14:21 03/06/2026
-- 🪜 [Người trẻ mang công nghệ nông nghiệp về làng](https://tuoitre.vn/nguoi-tre-mang-cong-nghe-nong-nghiep-ve-lang-20260603203316877.htm) - 13:43 03/06/2026
-- 🦣 [&#39;Chiến Binh Đầu Tư&#39; vinh danh các nhà đầu tư xuất sắc nhất tháng 5](https://tuoitre.vn/chien-binh-dau-tu-vinh-danh-cac-nha-dau-tu-xuat-sac-nhat-thang-5-20260603161311873.htm) - 13:10 03/06/2026
-- 🫣 [Nghiên cứu ưu đãi vượt trội về đất đai, tài chính để doanh nghiệp phát triển nhà ở cho thuê](https://tuoitre.vn/nghien-cuu-uu-dai-vuot-troi-ve-dat-dai-tai-chinh-de-doanh-nghiep-phat-trien-nha-o-cho-thue-20260603180531022.htm) - 13:07 03/06/2026
-- 🙉 [Bộ Công Thương lên tiếng về việc đảm bảo chất lượng và hỗ trợ người dùng xăng sinh học](https://tuoitre.vn/bo-cong-thuong-len-tieng-ve-viec-dam-bao-chat-luong-va-ho-tro-nguoi-dung-xang-sinh-hoc-20260603173234125.htm) - 12:07 03/06/2026
-- 💂 [Ông Lê Minh Hoan: Nông dân phải là chủ thể trong quá trình chuyển đổi tư duy làm nông nghiệp](https://tuoitre.vn/ong-le-minh-hoan-nong-dan-phai-la-chu-the-trong-qua-trinh-chuyen-doi-tu-duy-lam-nong-nghiep-20260603183729233.htm) - 11:45 03/06/2026
-- 🎬 [Giá thép lần đầu hạ nhiệt sau chuỗi ngày tăng cao](https://tuoitre.vn/gia-thep-lan-dau-ha-nhiet-sau-chuoi-ngay-tang-cao-20260603181200618.htm) - 11:41 03/06/2026
-- 🚀 [Bộ Nông nghiệp và Môi trường nói gì về phản ánh hồ sơ chứng minh nguồn gốc gỗ chồng chéo](https://tuoitre.vn/bo-nong-nghiep-va-moi-truong-noi-gi-ve-phan-anh-ho-so-chung-minh-nguon-goc-go-chong-cheo-20260603171841988.htm) - 11:28 03/06/2026
-- 😺 [Gian lận thương mại thời AI: Cảnh báo cho doanh nghiệp xuất khẩu](https://tuoitre.vn/gian-lan-thuong-mai-thoi-ai-canh-bao-cho-doanh-nghiep-xuat-khau-20260603153711238.htm) - 08:45 03/06/2026
-- 🦅 [VN-Index giảm 7 phiên liên tiếp, cổ phiếu NVL tiếp tục bị bán mạnh](https://tuoitre.vn/vn-index-giam-7-phien-lien-tiep-co-phieu-nvl-tiep-tuc-bi-ban-manh-20260603152946918.htm) - 08:44 03/06/2026
-- 🎊 [Cửa sáng nào cho nhà đầu tư cá nhân trước làn sóng IPO năm 2026?](https://tuoitre.vn/cua-sang-nao-cho-nha-dau-tu-ca-nhan-truoc-lan-song-ipo-nam-2026-20260603141223133.htm) - 07:53 03/06/2026
-- 🌏 [Thủ tướng Lê Minh Hưng: Tiếp cận trực diện các vấn đề, xây dựng các kịch bản điều hành chi tiết hơn](https://tuoitre.vn/thu-tuong-le-minh-hung-tiep-can-truc-dien-cac-van-de-xay-dung-cac-kich-ban-dieu-hanh-chi-tiet-hon-20260603140028636.htm) - 07:14 03/06/2026
-- 🥸 [Bộ trưởng Tài chính: Tính toán kỹ điều chỉnh giá điện, giáo dục, y tế năm 2026](https://tuoitre.vn/bo-truong-tai-chinh-tinh-toan-ky-dieu-chinh-gia-dien-giao-duc-y-te-nam-2026-20260603131707378.htm) - 06:41 03/06/2026
-- 🙉 [JCB mang bản sắc Nhật Bản dự Ngày tài chính số 2026](https://tuoitre.vn/jcb-mang-ban-sac-nhat-ban-du-ngay-tai-chinh-so-2026-20260603103917132.htm) - 05:01 03/06/2026
-- 🥰 [Mô hình &#39;sandbox&#39; cho TP.HCM](https://tuoitre.vn/mo-hinh-sandbox-cho-tp-hcm-20260603085303367.htm) - 04:20 03/06/2026
-- 🎡 [Sản xuất công nghiệp tăng trưởng tích cực, kim ngạch xuất nhập khẩu tăng mạnh](https://tuoitre.vn/san-xuat-cong-nghiep-tang-truong-tich-cuc-nhap-sieu-tu-trung-quoc-hon-62-ti-usd-20260603104220058.htm) - 04:07 03/06/2026
-- 🧠 [Căn hộ TP.HCM lập đỉnh giá 7.300 USD/m²](https://tuoitre.vn/can-ho-tp-hcm-lap-dinh-gia-7-300-usd-m-20260603101556437.htm) - 03:47 03/06/2026
-- 🎓 [Số hóa là điều kiện sinh tồn của các SME Việt Nam](https://tuoitre.vn/so-hoa-la-dieu-kien-sinh-ton-cua-cac-sme-viet-nam-20260603095333134.htm) - 03:04 03/06/2026
-- 🏊 [Thủ tướng Lê Minh Hưng: Sẽ công khai tiến độ xử lý công việc của bộ ngành](https://tuoitre.vn/thu-tuong-le-minh-hung-se-cong-khai-tien-do-xu-ly-cong-viec-cua-bo-nganh-20260603093512646.htm) - 02:48 03/06/2026
-- 🦩 [Ủy ban Cạnh tranh Quốc gia phạt Xiaomi Việt Nam 290 triệu vì các vi phạm quyền lợi người tiêu dùng](https://tuoitre.vn/uy-ban-canh-tranh-quoc-gia-phat-xiaomi-viet-nam-290-trieu-vi-cac-vi-pham-quyen-loi-nguoi-tieu-dung-20260603074700008.htm) - 01:14 03/06/2026
-- 💫 [Đọc nhanh 3-6: Truyền tải điện Quốc gia thay người đại diện pháp luật; cổ phiếu Sunshine gây bất ngờ](https://tuoitre.vn/doc-nhanh-3-6-truyen-tai-dien-quoc-gia-thay-nguoi-dai-dien-phap-luat-co-phieu-sunshine-gay-bat-ngo-20260603065540797.htm) - 00:42 03/06/2026
-- 🙉 [Chứng khoán 3-6: Chuyên gia chỉ ra bẫy tâm lý nguy hiểm khi nhiều cổ phiếu đi ngang](https://tuoitre.vn/chung-khoan-3-6-chuyen-gia-chi-ra-bay-tam-ly-nguy-hiem-khi-nhieu-co-phieu-di-ngang-20260603072858193.htm) - 00:41 03/06/2026
-- 😎 [Lễ hội âm nhạc E-Concert 2026: Hứa hẹn bùng nổ](https://tuoitre.vn/le-hoi-am-nhac-e-concert-2026-hua-hen-bung-no-20260602234447464.htm) - 22:51 02/06/2026
-- 🦍 [Biến chất lượng và tuân thủ thành lợi thế cạnh tranh](https://tuoitre.vn/bien-chat-luong-va-tuan-thu-thanh-loi-the-canh-tranh-20260602230328495.htm) - 22:50 02/06/2026
-- 🏊 [Phó thủ tướng Phạm Gia Túc: Dùng xăng sinh học, đảm bảo quyền lợi người dùng là quan trọng nhất](https://tuoitre.vn/pho-thu-tuong-pham-gia-tuc-dung-xang-sinh-hoc-dam-bao-quyen-loi-nguoi-dung-la-quan-trong-nhat-20260602224652698.htm) - 16:15 02/06/2026
-- 🙉 [Bộ Công Thương mở app tra cứu thông tin, tiếp nhận các  phản ánh về cửa hàng xăng dầu](https://tuoitre.vn/bo-cong-thuong-mo-app-tra-cuu-thong-tin-tiep-nhan-cac-phan-anh-ve-cua-hang-xang-dau-20260602212211083.htm) - 14:43 02/06/2026
-- 💡 [Vì sao Becamex đề xuất UBND TP.HCM giảm sở hữu nhà nước từ 95% xuống 65%?](https://tuoitre.vn/vi-sao-becamex-de-xuat-ubnd-tp-hcm-giam-so-huu-nha-nuoc-tu-95-xuong-65-20260602210258927.htm) - 14:28 02/06/2026
-- 🌁 [Giá mới về thuê nhà ở xã hội tại Đà Nẵng, cao nhất 171.000 đồng/tháng/m2](https://tuoitre.vn/gia-moi-ve-thue-nha-o-xa-hoi-o-da-nang-cao-nhat-171-000-dong-thang-m2-20260602204926353.htm) - 14:10 02/06/2026
-- 🎡 [Diễn biến mới tại doanh nghiệp điện 6.000 tỉ sau khi tổng giám đốc bị khởi tố](https://tuoitre.vn/dien-bien-moi-tai-doanh-nghiep-dien-6-000-ti-sau-khi-tong-giam-doc-bi-khoi-to-20260602203113072.htm) - 14:06 02/06/2026
-- 🧐 [Vì sao nhà đầu tư chứng khoán theo dõi sát lãi suất liên ngân hàng?](https://tuoitre.vn/vi-sao-nha-dau-tu-chung-khoan-theo-doi-sat-lai-suat-lien-ngan-hang-20260602192537918.htm) - 13:17 02/06/2026
-- 🔭 [Thủ tướng: Cần có cơ chế, chính sách mạnh thu hút nhà đầu tư vào Trung tâm tài chính quốc tế](https://tuoitre.vn/thu-tuong-can-co-co-che-chinh-sach-manh-thu-hut-nha-dau-tu-vao-trung-tam-tai-chinh-quoc-te-20260602194510838.htm) - 13:04 02/06/2026
-- 🌏 [Người Việt chi hơn 161.000 tỉ đồng cho nước giải khát không cồn](https://tuoitre.vn/nguoi-viet-chi-hon-161-000-ti-dong-cho-nuoc-giai-khat-khong-con-2026060218585564.htm) - 12:22 02/06/2026
-- 🦣 [Việt Nam lý giải quy định kiểm tra tạp nhiễm ADN bột xương động vật nhập khẩu](https://tuoitre.vn/viet-nam-ly-giai-quy-dinh-kiem-tra-tap-nhiem-adn-bot-xuong-dong-vat-nhap-khau-20260602184020113.htm) - 12:17 02/06/2026
-- 💡 [Chủ tịch Cần Thơ sẽ họp lấy ý kiến các giám đốc sở để ra nhanh chủ trương đầu tư dự án](https://tuoitre.vn/chu-tich-can-tho-se-hop-lay-y-kien-cac-giam-doc-so-de-ra-nhanh-chu-truong-dau-tu-du-an-20260602182101483.htm) - 11:55 02/06/2026
-- 🫶 [Cổ phiếu tăng sốc 370% sau vài tuần, Thaiholdings kinh doanh ra sao?](https://tuoitre.vn/co-phieu-tang-soc-370-sau-vai-tuan-thaiholdings-kinh-doanh-ra-sao-20260602174927858.htm) - 11:35 02/06/2026
-- 🦍 [Thoát xuất khẩu thô, đưa nông sản Việt chinh phục thị trường cao cấp](https://tuoitre.vn/thoat-xuat-khau-tho-dua-nong-san-viet-chinh-phuc-thi-truong-cao-cap-20260602181846278.htm) - 11:32 02/06/2026
-- 🪄 [Chuyên gia chỉ ra điểm nghẽn lớn nhất cần tháo gỡ khi phát triển nhà ở cho thuê](https://tuoitre.vn/phat-trien-nha-o-cho-thue-diem-nghen-lon-nhat-la-von-20260602171422213.htm) - 11:26 02/06/2026
-- 🤗 [Phấn đấu khởi công mở rộng đường cao tốc Bắc - Nam vào đầu năm 2027](https://tuoitre.vn/phan-dau-khoi-cong-mo-rong-duong-cao-toc-bac-nam-vao-dau-nam-2027-20260602170053289.htm) - 10:17 02/06/2026
-- 💄 [Flycam loạt dự án địa ốc đang cấp tập xây dựng xung quanh nút giao An Phú](https://tuoitre.vn/flycam-loat-du-an-dia-oc-dang-cap-tap-xay-dung-xung-quanh-nut-giao-an-phu-2026060215470374.htm) - 09:19 02/06/2026
-- 🕯 [Cổ phiếu Novaland lao dốc, một mã nối dài chuỗi tăng 19 phiên](https://tuoitre.vn/co-phieu-novaland-lao-doc-mot-ma-noi-dai-chuoi-tang-19-phien-20260602151726678.htm) - 08:32 02/06/2026
-- 👨‍🏫 [Bộ Tài chính: Chưa đánh thuế thu nhập cá nhân với giao dịch vàng miếng](https://tuoitre.vn/bo-tai-chinh-chua-danh-thue-thu-nhap-ca-nhan-voi-giao-dich-vang-mieng-2026060215151932.htm) - 08:21 02/06/2026
-- 🫣 [Hải quan tăng cường kiểm tra sản phẩm giả mạo nhãn hiệu, vi phạm sở hữu trí tuệ](https://tuoitre.vn/hai-quan-tang-cuong-kiem-tra-san-pham-gia-mao-nhan-hieu-vi-pham-so-huu-tri-tue-20260602145651452.htm) - 08:02 02/06/2026
-- 🎃 [Núp bóng dán lịch thi đấu World Cup 2026 để quảng bá web cá độ, phát bóng đá lậu](https://tuoitre.vn/nup-bong-dan-lich-thi-dau-world-cup-2026-de-quang-ba-web-ca-do-phat-bong-da-lau-20260602135616162.htm) - 07:52 02/06/2026
-- 🤩 [Lần đầu tiên giá nhà ở Úc chững lại sau hơn một năm](https://tuoitre.vn/lan-dau-tien-gia-nha-o-uc-chung-lai-sau-hon-mot-nam-20260602142910377.htm) - 07:33 02/06/2026
-- 🫣 [Đề xuất gỡ vướng cho 137 dự án bất động sản ở TP.HCM](https://tuoitre.vn/de-xuat-go-vuong-cho-137-du-an-bat-dong-san-o-tp-hcm-20260602125338771.htm) - 07:32 02/06/2026
-- 🌁 [Kỷ nguyên AI xếp lại thứ hạng các tỉ phú toàn cầu](https://tuoitre.vn/ky-nguyen-ai-xep-lai-thu-hang-hang-cac-ti-phu-toan-cau-20260602140532522.htm) - 07:28 02/06/2026
-- 💫 [Phó thủ tướng: Mở đợt cao điểm mới, siết chặt thực thi quyền sở hữu trí tuệ](https://tuoitre.vn/pho-thu-tuong-mo-dot-cao-diem-moi-siet-chat-thuc-thi-quyen-so-huu-tri-tue-2026060213563379.htm) - 07:09 02/06/2026
-- 💡 [Giúp việc theo giờ, nấu ăn hộ kiếm vài chục triệu mỗi tháng](https://tuoitre.vn/giup-viec-theo-gio-nau-an-ho-kiem-vai-chuc-trieu-moi-thang-20260601164022257.htm) - 06:54 02/06/2026
-- 🦣 [Hơn 68% nhà đầu tư &#39;đặt cược&#39; chứng khoán tăng trong nửa cuối năm 2026, cơ hội và rủi ro thế nào?](https://tuoitre.vn/hon-68-nha-dau-tu-dat-cuoc-chung-khoan-tang-trong-nua-cuoi-nam-2026-co-hoi-va-rui-ro-the-nao-2026060213364265.htm) - 06:52 02/06/2026
-- 👹 [2 giải pháp số của Agribank đạt giải](https://tuoitre.vn/2-giai-phap-so-cua-agribank-dat-giai-20260602123114407.htm) - 06:46 02/06/2026<!-- tuoitre-kinh-doanh:END -->
+- 🧰 [Chinh phục 200km metro đến 2030: TP.HCM sẽ bổ sung tuyến TP Thủ Dầu Một - Tao Đàn vào dự án ưu tiên](https://tuoitre.vn/chinh-phuc-200km-metro-den-2030-tp-hcm-se-bo-sung-tuyen-tp-thu-dau-mot-tao-dan-vao-du-an-uu-tien-20260605190848137.htm) - 13:34 05/06/2026
+- 🪜 [Khánh Hòa mời gọi đầu tư thí điểm dự án nhà ở thương mại có đất thỏa thuận](https://tuoitre.vn/khanh-hoa-moi-goi-dau-tu-thi-diem-du-an-nha-o-thuong-mai-co-dat-thoa-thuan-20260605182454915.htm) - 11:48 05/06/2026
+- 🦣 [Doanh nghiệp muốn xây &#39;chung cư nuôi heo&#39; tại Hà Nội](https://tuoitre.vn/doanh-nghiep-muon-xay-chung-cu-nuoi-heo-tai-ha-noi-20260605165001857.htm) - 10:43 05/06/2026
+- 🫣 [Vì sao Tập đoàn Công nghiệp cao su Việt Nam không bị hủy tư cách công ty đại chúng?](https://tuoitre.vn/vi-sao-tap-doan-cong-nghiep-cao-su-viet-nam-khong-bi-huy-tu-cach-cong-ty-dai-chung-20260605164636186.htm) - 10:07 05/06/2026
+- 🙉 [Lễ hội Tài chính số 2026 sẵn sàng khai hội tại phố đi bộ Nguyễn Huệ](https://tuoitre.vn/le-hoi-tai-chinh-so-2026-san-sang-khai-hoi-tai-pho-di-bo-nguyen-hue-20260605155723413.htm) - 10:01 05/06/2026
+- 💂 [Trúng Vietlott hơn 83,5 tỉ đồng, người đàn ông không đeo mặt nạ](https://tuoitre.vn/trung-vietlott-hon-83-5-ti-dong-nguoi-dan-ong-khong-deo-mat-na-2026060516120469.htm) - 09:24 05/06/2026
+- 🎬 [VinaCapital: 70% cổ phiếu đang bị định giá thấp nhưng đầy triển vọng](https://tuoitre.vn/vinacapital-70-co-phieu-dang-bi-dinh-gia-thap-nhung-day-trien-vong-20260605154112561.htm) - 08:48 05/06/2026
+- 🚀 [Cổ phiếu Vietjet bất ngờ &#39;cất cánh&#39;, VN-Index kết tuần trong sắc xanh](https://tuoitre.vn/co-phieu-vietjet-bat-ngo-cat-canh-vn-index-ket-tuan-trong-sac-xanh-20260605153237838.htm) - 08:42 05/06/2026
+- 😺 [Nhà đầu tư không chuyển tài sản mã hóa về Việt Nam sẽ không bị phạt](https://tuoitre.vn/nha-dau-tu-khong-chuyen-tai-san-ma-hoa-ve-viet-nam-se-khong-bi-phat-20260605144039392.htm) - 08:26 05/06/2026
+- 🦅 [TP.HCM lấy ý kiến Đồng Nai thống nhất phương án làm đường sắt Thủ Thiêm - Long Thành dài 48km](https://tuoitre.vn/tp-hcm-lay-y-kien-dong-nai-thong-nhat-phuong-an-lam-duong-sat-thu-thiem-long-thanh-dai-48km-20260605125340558.htm) - 07:39 05/06/2026
+- 🎊 [Danh sách mới nhất các phòng kiểm nghiệm cadimi và vàng O trong sầu riêng](https://tuoitre.vn/danh-sach-moi-nhat-cac-phong-kiem-nghiem-cadimi-va-vang-o-trong-sau-rieng-20260605135833374.htm) - 07:09 05/06/2026
+- 🌏 [Mời bạn đọc Tuổi Trẻ đến Lễ hội Tài chính số 2026](https://tuoitre.vn/moi-ban-doc-tuoi-tre-den-le-hoi-tai-chinh-so-2026-20260605130326605.htm) - 06:54 05/06/2026
+- 🥸 [Cách nhìn mới của người trẻ về thẻ tín dụng](https://tuoitre.vn/cach-nhin-moi-cua-nguoi-tre-ve-the-tin-dung-20260605134730419.htm) - 06:52 05/06/2026
+- 🙉 [Giá căn hộ mới tại Tokyo tăng vọt lên mức cao kỷ lục](https://tuoitre.vn/gia-can-ho-moi-tai-tokyo-tang-vot-len-muc-cao-ky-luc-20260605132939103.htm) - 06:41 05/06/2026
+- 🥰 [Techcombank tái định nghĩa ngân hàng bằng AI](https://tuoitre.vn/techcombank-tai-dinh-nghia-ngan-hang-bang-ai-2026060512582515.htm) - 06:04 05/06/2026
+- 🎡 [Trải nghiệm Lễ hội Tài chính số sống động với Ting Ting App](https://tuoitre.vn/trai-nghiem-le-hoi-tai-chinh-so-song-dong-voi-ting-ting-app-20260605120632133.htm) - 05:40 05/06/2026
+- 🧠 [Michelin Guide tại TP.HCM có đang bỏ quên bánh mì?](https://tuoitre.vn/michelin-guide-tai-tp-hcm-co-dang-bo-quen-banh-mi-20260604211509545.htm) - 05:38 05/06/2026
+- 🎓 [TP.HCM: Giảm tối đa rác chôn lấp, phấn đấu trên 90% chất thải rắn sinh hoạt được xử lý, tái chế](https://tuoitre.vn/tp-hcm-giam-toi-da-rac-chon-lap-phan-dau-tren-90-chat-thai-ran-sinh-hoat-duoc-xu-ly-tai-che-20260605120026687.htm) - 05:11 05/06/2026
+- 🏊 [Gói gọn du lịch Đông Nam Á vào &#39;Điện thoại, Hộ chiếu và Mastercard&#39;](https://tuoitre.vn/goi-gon-du-lich-dong-nam-a-vao-dien-thoai-ho-chieu-va-mastercard-20260605084152727.htm) - 02:09 05/06/2026
+- 🦩 [Khi thanh toán không dừng lại ở &#39;giao dịch&#39;](https://tuoitre.vn/khi-thanh-toan-khong-dung-lai-o-giao-dich-2026060508364249.htm) - 02:00 05/06/2026
+- 💫 [TP.HCM tăng tốc thủ tục làm metro số 6 đoạn sân bay Tân Sơn Nhất - Phú Hữu](https://tuoitre.vn/tp-hcm-tang-toc-thu-tuc-lam-metro-so-6-doan-san-bay-tan-son-nhat-phu-huu-20260605072944188.htm) - 01:56 05/06/2026
+- 🙉 [Gen Z dẫn dắt thanh toán không tiền mặt](https://tuoitre.vn/gen-z-dan-dat-thanh-toan-khong-tien-mat-20260605075811876.htm) - 01:50 05/06/2026
+- 😎 [Chứng khoán 5-6: Vì sao thị trường trầm lắng?](https://tuoitre.vn/chung-khoan-5-6-vi-sao-thi-truong-tram-lang-20260605083321561.htm) - 01:46 05/06/2026
+- 🦍 [Miền Tây có loại gạo giá tới 112.000 đồng/kg](https://tuoitre.vn/mien-tay-co-loai-gao-gia-toi-112-000-dong-kg-2026060507230854.htm) - 01:43 05/06/2026
+- 🏊 [Đọc nhanh 5-6: Giá dầu giảm, vàng phục hồi, chỉ số Dow Jones của Mỹ tăng 875 điểm](https://tuoitre.vn/doc-nhanh-5-6-gia-dau-giam-vang-phuc-hoi-chi-so-dow-jones-cua-my-tang-875-diem-20260605070446055.htm) - 00:20 05/06/2026
+- 🙉 [Mua điện trực tiếp qua lưới quốc gia: Cột mốc mới của năng lượng xanh](https://tuoitre.vn/mua-dien-truc-tiep-qua-luoi-quoc-gia-cot-moc-moi-cua-nang-luong-xanh-20260604231037595.htm) - 21:59 04/06/2026
+- 💡 [TP.HCM định hướng phát triển kinh tế đêm, mang bản sắc riêng của vùng biển Cần Giờ](https://tuoitre.vn/tp-hcm-dinh-huong-phat-trien-kinh-te-dem-mang-ban-sac-rieng-cua-vung-bien-can-gio-202606041952395.htm) - 15:09 04/06/2026
+- 🌁 [Gửi ngân hàng, cho đối tác vay, tập đoàn của các tỉ phú nhận mấy tỉ tiền lãi mỗi ngày?](https://tuoitre.vn/gui-ngan-hang-cho-doi-tac-vay-tap-doan-cua-cac-ti-phu-nhan-may-ti-tien-lai-moi-ngay-20260604210954768.htm) - 14:26 04/06/2026
+- 🎡 [SpaceX muốn huy động 75 tỉ USD trong đợt chào bán cổ phiếu đầu tiên](https://tuoitre.vn/spacex-muon-huy-dong-75-ti-usd-trong-dot-chao-ban-co-phieu-dau-tien-20260604210009564.htm) - 14:22 04/06/2026
+- 🧐 [Tiền điện tăng cao, chuyên gia chỉ nguyên nhân dùng điều hòa gây ngốn điện](https://tuoitre.vn/tien-dien-tang-cao-chuyen-gia-chi-nguyen-nhan-dung-dieu-hoa-gay-ngon-dien-20260604204951366.htm) - 14:19 04/06/2026
+- 🔭 [Piaggio: Toàn bộ các dòng xe đều tương thích xăng E10](https://tuoitre.vn/piaggio-toan-bo-cac-dong-xe-deu-tuong-thich-xang-e10-20260604183054025.htm) - 14:16 04/06/2026
+- 🌏 [Sâm Tiến Vua, nước mắm Phú Quốc, gạo hữu cơ Campuchia và nhiều đặc sản hội tụ về vùng Bảy Núi](https://tuoitre.vn/sam-tien-vua-nuoc-mam-phu-quoc-gao-huu-co-campuchia-va-nhieu-dac-san-khac-hoi-tu-ve-vung-bay-nui-20260604191611097.htm) - 14:00 04/06/2026
+- 🦣 [Chính phủ giao 3.000 căn nhà ở xã hội, Cần Thơ xây hơn 3.300 căn](https://tuoitre.vn/chinh-phu-giao-3-000-can-nha-o-xa-hoi-can-tho-xay-hon-3-300-can-20260604182248287.htm) - 12:01 04/06/2026
+- 💡 [Thay đổi cơ cấu tổ chức Ngân hàng Nhà nước Việt Nam](https://tuoitre.vn/thay-doi-co-cau-to-chuc-cua-ngan-hang-nha-nuoc-viet-nam-20260604173124926.htm) - 11:08 04/06/2026
+- 🫶 [Tạo hệ sinh thái sản xuất để tăng trưởng 2 con số](https://tuoitre.vn/tao-he-sinh-thai-san-xuat-de-tang-truong-2-con-so-20260604082408709.htm) - 11:00 04/06/2026
+- 🦍 [Vietsovpetro đạt cột mốc lịch sử 255 triệu tấn dầu](https://tuoitre.vn/vietsovpetro-dat-cot-moc-lich-su-255-trieu-tan-dau-20260604163317664.htm) - 10:45 04/06/2026
+- 🪄 [Đề xuất mới về quản lý giá với xăng E10 khi đưa vào diện hàng tiêu dùng phổ biến](https://tuoitre.vn/de-xuat-moi-ve-quan-ly-gia-voi-xang-e10-khi-dua-vao-dien-hang-tieu-dung-pho-bien-2026060417040594.htm) - 10:38 04/06/2026
+- 🤗 [LG Innotek đầu tư nhà máy bán dẫn mới ở Hải Phòng](https://tuoitre.vn/lg-innotek-dau-tu-nha-may-ban-dan-moi-o-hai-phong-20260604161445695.htm) - 09:28 04/06/2026
+- 💄 [Dragon Capital muốn rót hơn 1.300 tỉ đồng vào thương vụ IPO Điện Máy Xanh](https://tuoitre.vn/dragon-capital-muon-rot-hon-1-300-ti-dong-vao-thuong-vu-ipo-dien-may-xanh-20260604155521527.htm) - 09:23 04/06/2026
+- 🕯 [VN-Index xanh trở lại, PLX tăng trần dù Petrolimex dự kiến bán sạch cổ phiếu quỹ](https://tuoitre.vn/vn-index-xanh-tro-lai-plx-tang-tran-du-petrolimex-du-kien-ban-sach-co-phieu-quy-20260604153004892.htm) - 08:38 04/06/2026
+- 👨‍🏫 [Giá xăng dầu giảm mạnh](https://tuoitre.vn/gia-xang-dau-giam-manh-20260604145204293.htm) - 08:10 04/06/2026
+- 🫣 [Chưa đầy một tháng, Quảng Ngãi xử lý 23 vụ xâm phạm sở hữu trí tuệ](https://tuoitre.vn/chua-day-mot-thang-quang-ngai-xu-ly-23-vu-xam-pham-so-huu-tri-tue-20260604145021598.htm) - 08:01 04/06/2026
+- 🎃 [Diễn biến mới tại công ty ô tô từng vay cá nhân lãi suất 18%/năm để có vốn kinh doanh](https://tuoitre.vn/dien-bien-moi-tai-cong-ty-o-to-tung-vay-ca-nhan-lai-suat-18-nam-de-co-von-kinh-doanh-20260604144207795.htm) - 07:54 04/06/2026
+- 🤩 [Bất động sản không còn là &#39;chiếc két sắt&#39; của người Anh](https://tuoitre.vn/bat-dong-san-khong-con-la-chiec-ket-sat-cua-nguoi-anh-20260604120204106.htm) - 06:36 04/06/2026
+- 🫣 [Tiếp tục cắt giảm thực chất thủ tục hành chính, điều kiện kinh doanh](https://tuoitre.vn/tiep-tuc-cat-giam-thuc-chat-thu-tuc-hanh-chinh-dieu-kien-kinh-doanh-20260604120929034.htm) - 06:34 04/06/2026
+- 🌁 [SpaceX được định giá chưa tới một nửa so với mục tiêu IPO 1.750 tỉ đô](https://tuoitre.vn/spacex-duoc-dinh-gia-chua-toi-mot-nua-so-voi-muc-tieu-ipo-1-750-ti-do-20260604104256035.htm) - 05:15 04/06/2026
+- 💫 [So với cuối tháng 1, giá vàng miếng giảm gần 40 triệu đồng/lượng](https://tuoitre.vn/so-voi-cuoi-thang-1-gia-vang-mieng-giam-gan-40-trieu-dong-luong-20260604115252052.htm) - 05:06 04/06/2026
+- 💡 [Đề xuất cắt giảm hàng loạt điều kiện kinh doanh trong lĩnh vực chứng khoán](https://tuoitre.vn/de-xuat-cat-giam-hang-loat-dieu-kien-kinh-doanh-trong-linh-vuc-chung-khoan-20260604101608592.htm) - 03:45 04/06/2026
+- 🦣 [Grab tăng ô tô điện chở khách, tính mở trạm sạc dùng chung](https://tuoitre.vn/grab-tang-oto-dien-cho-khach-tinh-mo-tram-sac-dung-chung-20260604102121373.htm) - 03:44 04/06/2026
+- 👹 [Từ 15-6, thuê bao phụ thuộc chưa xác nhận chính chủ trên VNeID sẽ bị khóa](https://tuoitre.vn/tu-15-6-thue-bao-phu-thuoc-chua-xac-nhan-chinh-chu-tren-vneid-se-bi-khoa-20260604100903819.htm) - 03:38 04/06/2026<!-- tuoitre-kinh-doanh:END -->
