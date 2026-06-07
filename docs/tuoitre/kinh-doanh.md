@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- tuoitre-kinh-doanh:START -->
-- 🧰 [Gen Z chuẩn bị đi concert BTS, The Weeknd, thanh toán MoMo được không?](https://tuoitre.vn/gen-z-chuan-bi-di-concert-bts-the-weeknd-thanh-toan-momo-duoc-khong-20260606204812405.htm) - 13:54 06/06/2026
-- 🪜 [3 doanh nghiệp nào vừa được Hà Nội chọn làm nhà đầu tư xây Trục đại lộ cảnh quan sông Hồng?](https://tuoitre.vn/3-doanh-nghiep-nao-vua-duoc-ha-noi-chon-lam-nha-dau-tu-xay-truc-dai-lo-canh-quan-song-hong-20260606200543891.htm) - 13:20 06/06/2026
-- 🦣 [Dòng người nối dài tại Ngày Tài chính số 2026 trong tối cuối tuần](https://tuoitre.vn/dong-nguoi-noi-dai-tai-ngay-tai-chinh-so-2026-trong-toi-cuoi-tuan-20260606200248282.htm) - 13:19 06/06/2026
-- 🫣 [Du khách hào hứng trải nghiệm thanh toán xuyên biên giới tại gian hàng Sacombank](https://tuoitre.vn/du-khach-hao-hung-trai-nghiem-thanh-toan-xuyen-bien-gioi-tai-gian-hang-sacombank-20260606193053721.htm) - 13:02 06/06/2026
-- 🙉 [Giới trẻ xếp hàng mua trà sữa nửa giá, trải nghiệm công nghệ thanh toán xuyên biên giới tại NAPAS](https://tuoitre.vn/gioi-tre-xep-hang-mua-tra-sua-nua-gia-trai-nghiem-cong-nghe-thanh-toan-xuyen-bien-gioi-tai-napas-20260606171434331.htm) - 11:48 06/06/2026
-- 💂 [Người trẻ cùng &#39;nhìn nhau già đi&#39; tại gian hàng trải nghiệm ở Ngày Tài chính số 2026](https://tuoitre.vn/nguoi-tre-cung-nhin-nhau-gia-di-tai-gian-hang-trai-nghiem-o-ngay-tai-chinh-so-2026-20260606182411534.htm) - 11:39 06/06/2026
-- 🎬 [Bắt hai vợ chồng cầm đầu đường dây sản xuất dép Crocs, Nike… giả ở xã Phú Hòa Đông](https://tuoitre.vn/bat-hai-vo-chong-cam-dau-duong-day-san-xuat-dep-crocs-nike-gia-o-xa-phu-hoa-dong-20260606171538821.htm) - 11:01 06/06/2026
-- 🚀 [Cần Thơ triệt phá 2 cơ sở sản xuất, kinh doanh hàng giả nhãn hiệu nổi tiếng](https://tuoitre.vn/can-tho-triet-pha-2-co-so-san-xuat-kinh-doanh-hang-gia-nhan-hieu-noi-tieng-20260606163246767.htm) - 10:02 06/06/2026
-- 😺 [Sân golf Cồn Ấu cần hơn 2 triệu m³ cát san lấp](https://tuoitre.vn/san-golf-con-au-can-hon-2-trieu-m3-cat-san-lap-20260606155244831.htm) - 09:51 06/06/2026
-- 🦅 [Triệt phá nhóm làm phần mềm vượt sinh trắc học ngân hàng, chiếm đoạt tiền](https://tuoitre.vn/triet-pha-nhom-lam-phan-mem-vuot-sinh-trac-hoc-ngan-hang-chiem-doat-tien-20260606162803377.htm) - 09:33 06/06/2026
-- 🎊 [Người dân xếp hàng &#39;săn quà&#39;, rộn ràng trải nghiệm công nghệ tại Lễ hội Tài chính số 2026](https://tuoitre.vn/nguoi-dan-xep-hang-san-qua-ron-rang-trai-nghiem-cong-nghe-tai-le-hoi-tai-chinh-so-2026-20260606150525828.htm) - 08:43 06/06/2026
-- 🌏 [Đến gian hàng JCB, quẹt &#39;một chạm&#39; uống trà sữa, nhận quà](https://tuoitre.vn/den-gian-hang-jcb-quet-mot-cham-uong-tra-sua-nhan-qua-2026060613321013.htm) - 08:00 06/06/2026
-- 🥸 [Kết nối thanh toán quốc tế, đón làn sóng khách ngoại](https://tuoitre.vn/ket-noi-thanh-toan-quoc-te-don-lan-song-khach-ngoai-20260606144210905.htm) - 08:00 06/06/2026
-- 🙉 [Các doanh nghiệp liên kết đẩy lùi hàng giả, nhận 1 triệu tem chống giả thế hệ mới](https://tuoitre.vn/cac-doanh-nghiep-lien-ket-day-lui-hang-gia-nhan-1-trieu-tem-chong-gia-the-he-moi-20260606140350634.htm) - 07:32 06/06/2026
-- 🥰 [CEO Nvidia gây sốt: Ăn nhậu ở phố đi bộ cùng các trùm công nghệ Hàn Quốc](https://tuoitre.vn/ceo-nvidia-gay-sot-an-nhau-o-pho-di-bo-cung-cac-trum-cong-nghe-han-quoc-20260606122458615.htm) - 05:46 06/06/2026
-- 🎡 [Nhà đầu tư đề xuất thu phí theo chặng ở dự án BOT xa lộ Hà Nội và quốc lộ 1](https://tuoitre.vn/nha-dau-tu-de-xuat-thu-phi-theo-chang-o-du-an-bot-xa-lo-ha-noi-va-quoc-lo-1-20260606112618032.htm) - 05:19 06/06/2026
-- 🧠 [Phát triển thanh toán thông minh nhanh hơn nhưng phải an toàn hơn](https://tuoitre.vn/phat-trien-thanh-toan-thong-minh-nhanh-hon-nhung-phai-an-toan-hon-20260606105727926.htm) - 04:18 06/06/2026
-- 🎓 [Ngành dịch vụ bất động sản Trung Quốc lao đao](https://tuoitre.vn/nganh-dich-vu-bat-dong-san-trung-quoc-lao-dao-20260604174815558.htm) - 04:11 06/06/2026
-- 🏊 [Khách Việt, khách ngoại quan tâm đến thanh toán xuyên biên giới tại Lễ hội Tài chính số 2026](https://tuoitre.vn/khach-viet-khach-ngoai-quan-tam-den-thanh-toan-xuyen-bien-gioi-tai-le-hoi-tai-chinh-so-2026-20260606101116379.htm) - 03:40 06/06/2026
-- 🦩 [Giá vàng miếng SJC giảm mạnh về mức 150 triệu đồng/lượng](https://tuoitre.vn/gia-vang-mieng-sjc-giam-manh-ve-muc-150-trieu-dong-luong-20260606101821698.htm) - 03:36 06/06/2026
-- 💫 [Nhiều công nghệ thanh toán không tiền mặt thu hút sự chú ý tại Ngày Tài chính số](https://tuoitre.vn/nhieu-cong-nghe-thanh-toan-khong-tien-mat-thu-hut-su-chu-y-tai-ngay-tai-chinh-so-20260606094205634.htm) - 03:26 06/06/2026
-- 🙉 [Phó thủ tướng Nguyễn Văn Thắng: Thanh toán số là huyết mạch của nền kinh tế hiện đại](https://tuoitre.vn/pho-thu-tuong-nguyen-van-thang-thanh-toan-so-la-huyet-mach-cua-nen-kinh-te-hien-dai-2026060609223596.htm) - 03:08 06/06/2026
-- 😎 [Green SM mở dịch vụ taxi điện tại Ấn Độ](https://tuoitre.vn/green-sm-mo-dich-vu-taxi-dien-tai-an-do-20260606081827043.htm) - 03:00 06/06/2026
-- 🦍 [Hàng giả trên sàn thương mại điện tử: đã đến lúc siết trách nhiệm nền tảng](https://tuoitre.vn/hang-gia-tren-san-thuong-mai-dien-tu-da-den-luc-siet-trach-nhiem-nen-tang-20260606093829106.htm) - 02:51 06/06/2026
-- 🏊 [Quy hoạch sân bay Cam Ranh công suất 36 triệu khách đến năm 2050](https://tuoitre.vn/quy-hoach-san-bay-cam-ranh-cong-suat-36-trieu-khach-den-nam-2050-20260606084021704.htm) - 02:19 06/06/2026
-- 🙉 [Ghé &#39;Đại Lộ Thịnh Vượng&#39;, rinh quà hot cùng VPBank](https://tuoitre.vn/ghe-dai-lo-thinh-vuong-rinh-qua-hot-cung-vpbank-20260606085909867.htm) - 02:13 06/06/2026
-- 💡 [Hàng trăm chuyên gia cùng hiến kế &#39;Thanh toán thông minh trong kỷ nguyên số&#39;](https://tuoitre.vn/hang-tram-chuyen-gia-cung-hien-ke-thanh-toan-thong-minh-trong-ky-nguyen-so-2026060608493109.htm) - 02:01 06/06/2026
-- 🌁 [Thanh toán số ở chợ đã tiện như siêu thị](https://tuoitre.vn/thanh-toan-so-o-cho-da-tien-nhu-sieu-thi-20260606080732575.htm) - 01:50 06/06/2026
-- 🎡 [Phát triển tài chính số đi cùng niềm tin số](https://tuoitre.vn/phat-trien-tai-chinh-so-di-cung-niem-tin-so-20260606075130693.htm) - 01:49 06/06/2026
-- 🧐 [Khai thác &#39;mỏ vàng&#39; tài chính số](https://tuoitre.vn/khai-thac-mo-vang-tai-chinh-so-20260606081015892.htm) - 01:49 06/06/2026
-- 🔭 [Ngân hàng, bảo hiểm đua chuyển đổi số](https://tuoitre.vn/ngan-hang-bao-hiem-dua-chuyen-doi-so-20260605230758447.htm) - 01:32 06/06/2026
-- 🌏 [LPBank đồng hành cùng Ngày Tài chính số 2026](https://tuoitre.vn/lpbank-dong-hanh-cung-ngay-tai-chinh-so-2026-20260606085614476.htm) - 01:30 06/06/2026
-- 🦣 [Áp lực thu hẹp biên lãi ròng, cổ phiếu ngân hàng có còn hấp dẫn?](https://tuoitre.vn/ap-luc-thu-hep-bien-lai-rong-co-phieu-ngan-hang-co-con-hap-dan-20260606073918319.htm) - 01:11 06/06/2026
-- 💡 [Ngày Tài chính số 2026: mở rộng tầm nhìn từ thanh toán số đến tài chính số](https://tuoitre.vn/ngay-tai-chinh-so-2026-mo-rong-tam-nhin-tu-thanh-toan-so-den-tai-chinh-so-20260606075342544.htm) - 01:06 06/06/2026
-- 🫶 [Vinpearl ra mắt thương hiệu khách sạn siêu sang Legendlux](https://tuoitre.vn/vinpearl-ra-mat-thuong-hieu-khach-san-sieu-sang-legendlux-20260606062239618.htm) - 00:24 06/06/2026
-- 🦍 [Giá vàng thế giới bất ngờ giảm sâu hơn dự đoán, tương đương 4,8 triệu đồng/lượng](https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-giam-sau-hon-du-doan-tuong-duong-4-8-trieu-dong-luong-2026060600394237.htm) - 22:58 05/06/2026
-- 🪄 [Tin tức sáng 6-6: Công đoàn sẽ đề xuất tăng lương tối thiểu, điều chỉnh vùng lương](https://tuoitre.vn/tin-tuc-sang-6-6-cong-doan-se-de-xuat-tang-luong-toi-thieu-dieu-chinh-vung-luong-20260605064007812.htm) - 22:53 05/06/2026
-- 🤗 [VN-Index tăng 3%, 80% cổ phiếu chứng khoán vẫn giảm giá](https://tuoitre.vn/vn-index-tang-3-80-co-phieu-chung-khoan-van-giam-gia-20260605204048816.htm) - 15:41 05/06/2026
-- 💄 [Chinh phục 200km metro đến 2030: TP.HCM sẽ bổ sung tuyến TP Thủ Dầu Một - Tao Đàn vào dự án ưu tiên](https://tuoitre.vn/chinh-phuc-200km-metro-den-2030-tp-hcm-se-bo-sung-tuyen-tp-thu-dau-mot-tao-dan-vao-du-an-uu-tien-20260605190848137.htm) - 13:34 05/06/2026
-- 🕯 [Khánh Hòa mời gọi đầu tư thí điểm dự án nhà ở thương mại có đất thỏa thuận](https://tuoitre.vn/khanh-hoa-moi-goi-dau-tu-thi-diem-du-an-nha-o-thuong-mai-co-dat-thoa-thuan-20260605182454915.htm) - 11:48 05/06/2026
-- 👨‍🏫 [Đề xuất giao Hà Nội đầu tư 2 dự án đường sắt quốc gia](https://tuoitre.vn/de-xuat-giao-ha-noi-dau-tu-2-du-an-duong-sat-quoc-gia-20260605181501818.htm) - 11:33 05/06/2026
-- 🫣 [Doanh nghiệp muốn xây &#39;chung cư nuôi heo&#39; tại Hà Nội](https://tuoitre.vn/doanh-nghiep-muon-xay-chung-cu-nuoi-heo-tai-ha-noi-20260605165001857.htm) - 10:43 05/06/2026
-- 🎃 [Vì sao Tập đoàn Công nghiệp cao su Việt Nam không bị hủy tư cách công ty đại chúng?](https://tuoitre.vn/vi-sao-tap-doan-cong-nghiep-cao-su-viet-nam-khong-bi-huy-tu-cach-cong-ty-dai-chung-20260605164636186.htm) - 10:07 05/06/2026
-- 🤩 [Lễ hội Tài chính số 2026 sẵn sàng khai hội tại phố đi bộ Nguyễn Huệ](https://tuoitre.vn/le-hoi-tai-chinh-so-2026-san-sang-khai-hoi-tai-pho-di-bo-nguyen-hue-20260605155723413.htm) - 10:01 05/06/2026
-- 🫣 [Trúng Vietlott hơn 83,5 tỉ đồng, người đàn ông không đeo mặt nạ](https://tuoitre.vn/trung-vietlott-hon-83-5-ti-dong-nguoi-dan-ong-khong-deo-mat-na-2026060516120469.htm) - 09:24 05/06/2026
-- 🌁 [VinaCapital: 70% cổ phiếu đang bị định giá thấp nhưng đầy triển vọng](https://tuoitre.vn/vinacapital-70-co-phieu-dang-bi-dinh-gia-thap-nhung-day-trien-vong-20260605154112561.htm) - 08:48 05/06/2026
-- 💫 [Cổ phiếu Vietjet bất ngờ &#39;cất cánh&#39;, VN-Index kết tuần trong sắc xanh](https://tuoitre.vn/co-phieu-vietjet-bat-ngo-cat-canh-vn-index-ket-tuan-trong-sac-xanh-20260605153237838.htm) - 08:42 05/06/2026
-- 💡 [Nhà đầu tư không chuyển tài sản mã hóa về Việt Nam sẽ không bị phạt](https://tuoitre.vn/nha-dau-tu-khong-chuyen-tai-san-ma-hoa-ve-viet-nam-se-khong-bi-phat-20260605144039392.htm) - 08:26 05/06/2026
-- 🦣 [Thủ tướng: Sẽ đổi mới mạnh mẽ hệ thống phân phối thuốc, xăng dầu vì lợi ích người lao động](https://tuoitre.vn/thu-tuong-se-doi-moi-manh-me-he-thong-phan-phoi-thuoc-xang-dau-vi-loi-ich-nguoi-lao-dong-20260605100536248.htm) - 08:25 05/06/2026
-- 👹 [TP.HCM lấy ý kiến Đồng Nai thống nhất phương án làm đường sắt Thủ Thiêm - Long Thành dài 48km](https://tuoitre.vn/tp-hcm-lay-y-kien-dong-nai-thong-nhat-phuong-an-lam-duong-sat-thu-thiem-long-thanh-dai-48km-20260605125340558.htm) - 07:39 05/06/2026<!-- tuoitre-kinh-doanh:END -->
+- 🧰 [EVN báo lãi đột biến, xóa sạch lỗ lũy kế, có hơn 150.000 tỉ gửi ngân hàng](https://tuoitre.vn/evn-bao-lai-dot-bien-xoa-sach-lo-luy-ke-co-hon-150-000-ti-gui-ngan-hang-20260607104553775.htm) - 04:40 07/06/2026
+- 🪜 [Đồng Tháp &#39;cầm tay chỉ việc&#39; đưa nông sản lên sàn thương mại điện tử](https://tuoitre.vn/dong-thap-cam-tay-chi-viec-dua-nong-san-len-san-thuong-mai-dien-tu-20260607104145672.htm) - 04:36 07/06/2026
+- 🦣 [Quyết tâm phê duyệt hướng tuyến metro số 6 đoạn sân bay Tân Sơn Nhất - Phú Hữu trong tháng 6-2026](https://tuoitre.vn/quyet-tam-phe-duyet-huong-tuyen-metro-so-6-doan-san-bay-tan-son-nhat-phu-huu-trong-thang-6-2026-20260607105437093.htm) - 04:33 07/06/2026
+- 🫣 [Nghe tên Yến Đảo Cần Giờ, khách liền tìm tới](https://tuoitre.vn/nghe-ten-yen-dao-can-gio-khach-lien-tim-toi-20260607105919719.htm) - 04:25 07/06/2026
+- 🙉 [Chuyên xây nhà ở cho thuê, Công ty Lê Thành góp ý chính sách hỗ trợ gì?](https://tuoitre.vn/chuyen-xay-nha-o-cho-thue-cong-ty-le-thanh-gop-y-chinh-sach-ho-tro-gi-20260607024938877.htm) - 04:16 07/06/2026
+- 💂 [VietinBank giới thiệu tài khoản hộ kinh doanh &#39;3 không&#39; tại Ngày Tài chính số 2026](https://tuoitre.vn/vietinbank-gioi-thieu-tai-khoan-ho-kinh-doanh-3-khong-tai-ngay-tai-chinh-so-2026-20260607102213236.htm) - 04:06 07/06/2026
+- 🎬 [Tại Lễ hội Tài chính số, lần đầu khách hàng được tự quyết hạng thẻ tín dụng](https://tuoitre.vn/tai-le-hoi-tai-chinh-so-lan-dau-khach-hang-duoc-tu-quyet-hang-the-tin-dung-20260607101137972.htm) - 03:38 07/06/2026
+- 🚀 [Quét mã QR xuyên biên giới, lợi trăm bề](https://tuoitre.vn/quet-ma-qr-xuyen-bien-gioi-loi-tram-be-20260607092446332.htm) - 03:00 07/06/2026
+- 😺 [Con trai và con gái ông Nguyễn Đức Thụy gia nhập Sacombank](https://tuoitre.vn/con-trai-va-con-gai-ong-nguyen-duc-thuy-gia-nhap-sacombank-20260607090022238.htm) - 02:34 07/06/2026
+- 🦅 [Đến Lễ hội Tài chính số, bất ngờ được xác thực thuê bao di động](https://tuoitre.vn/den-le-hoi-tai-chinh-so-bat-ngo-duoc-xac-thuc-thue-bao-di-dong-20260607091208436.htm) - 02:32 07/06/2026
+- 🎊 [Vì sao giá vàng giảm sâu?](https://tuoitre.vn/vi-sao-gia-vang-giam-sau-20260606231904368.htm) - 02:05 07/06/2026
+- 🌏 [Đại hội IX Hội Nông dân Việt Nam: Hỗ trợ nông dân chuyển đổi số, sản xuất sạch](https://tuoitre.vn/dai-hoi-ix-hoi-nong-dan-viet-nam-ho-tro-nong-dan-chuyen-doi-so-san-xuat-sach-20260606223300698.htm) - 01:56 07/06/2026
+- 🥸 [Trẩy hội Ting Ting cùng NAPAS, rinh ngàn quà tặng](https://tuoitre.vn/tray-hoi-ting-ting-cung-napas-rinh-ngan-qua-tang-20260607081559283.htm) - 01:22 07/06/2026
+- 🙉 [Thanh toán số trở thành &#39;hệ điều hành&#39; của nền kinh tế](https://tuoitre.vn/thanh-toan-so-tro-thanh-he-dieu-hanh-cua-nen-kinh-te-20260607075127077.htm) - 01:06 07/06/2026
+- 🥰 [Tin tức sáng 7-6: Tài khoản nhà đầu tư chứng khoán lập kỷ lục mới, vượt 13 triệu](https://tuoitre.vn/tin-tuc-sang-7-6-tai-khoan-nha-dau-tu-chung-khoan-lap-ky-luc-moi-vuot-13-trieu-20260606222649059.htm) - 23:00 06/06/2026
+- 🎡 [Gen Z chuẩn bị đi concert BTS, The Weeknd, thanh toán MoMo được không?](https://tuoitre.vn/gen-z-chuan-bi-di-concert-bts-the-weeknd-thanh-toan-momo-duoc-khong-20260606204812405.htm) - 13:54 06/06/2026
+- 🧠 [3 doanh nghiệp nào vừa được Hà Nội chọn làm nhà đầu tư xây Trục đại lộ cảnh quan sông Hồng?](https://tuoitre.vn/3-doanh-nghiep-nao-vua-duoc-ha-noi-chon-lam-nha-dau-tu-xay-truc-dai-lo-canh-quan-song-hong-20260606200543891.htm) - 13:20 06/06/2026
+- 🎓 [Dòng người nối dài tại Ngày Tài chính số 2026 trong tối cuối tuần](https://tuoitre.vn/dong-nguoi-noi-dai-tai-ngay-tai-chinh-so-2026-trong-toi-cuoi-tuan-20260606200248282.htm) - 13:19 06/06/2026
+- 🏊 [Du khách hào hứng trải nghiệm thanh toán xuyên biên giới tại gian hàng Sacombank](https://tuoitre.vn/du-khach-hao-hung-trai-nghiem-thanh-toan-xuyen-bien-gioi-tai-gian-hang-sacombank-20260606193053721.htm) - 13:02 06/06/2026
+- 🦩 [Giới trẻ xếp hàng mua trà sữa nửa giá, trải nghiệm công nghệ thanh toán xuyên biên giới tại NAPAS](https://tuoitre.vn/gioi-tre-xep-hang-mua-tra-sua-nua-gia-trai-nghiem-cong-nghe-thanh-toan-xuyen-bien-gioi-tai-napas-20260606171434331.htm) - 11:48 06/06/2026
+- 💫 [Người trẻ cùng &#39;nhìn nhau già đi&#39; tại gian hàng trải nghiệm ở Ngày Tài chính số 2026](https://tuoitre.vn/nguoi-tre-cung-nhin-nhau-gia-di-tai-gian-hang-trai-nghiem-o-ngay-tai-chinh-so-2026-20260606182411534.htm) - 11:39 06/06/2026
+- 🙉 [Bắt hai vợ chồng cầm đầu đường dây sản xuất dép Crocs, Nike… giả ở xã Phú Hòa Đông](https://tuoitre.vn/bat-hai-vo-chong-cam-dau-duong-day-san-xuat-dep-crocs-nike-gia-o-xa-phu-hoa-dong-20260606171538821.htm) - 11:01 06/06/2026
+- 😎 [Cần Thơ triệt phá 2 cơ sở sản xuất, kinh doanh hàng giả nhãn hiệu nổi tiếng](https://tuoitre.vn/can-tho-triet-pha-2-co-so-san-xuat-kinh-doanh-hang-gia-nhan-hieu-noi-tieng-20260606163246767.htm) - 10:02 06/06/2026
+- 🦍 [Sân golf Cồn Ấu cần hơn 2 triệu m³ cát san lấp](https://tuoitre.vn/san-golf-con-au-can-hon-2-trieu-m3-cat-san-lap-20260606155244831.htm) - 09:51 06/06/2026
+- 🏊 [Triệt phá nhóm làm phần mềm vượt sinh trắc học ngân hàng, chiếm đoạt tiền](https://tuoitre.vn/triet-pha-nhom-lam-phan-mem-vuot-sinh-trac-hoc-ngan-hang-chiem-doat-tien-20260606162803377.htm) - 09:33 06/06/2026
+- 🙉 [Người dân xếp hàng &#39;săn quà&#39;, rộn ràng trải nghiệm công nghệ tại Lễ hội Tài chính số 2026](https://tuoitre.vn/nguoi-dan-xep-hang-san-qua-ron-rang-trai-nghiem-cong-nghe-tai-le-hoi-tai-chinh-so-2026-20260606150525828.htm) - 08:43 06/06/2026
+- 💡 [Đến gian hàng JCB, quẹt &#39;một chạm&#39; uống trà sữa, nhận quà](https://tuoitre.vn/den-gian-hang-jcb-quet-mot-cham-uong-tra-sua-nhan-qua-2026060613321013.htm) - 08:00 06/06/2026
+- 🌁 [Kết nối thanh toán quốc tế, đón làn sóng khách ngoại](https://tuoitre.vn/ket-noi-thanh-toan-quoc-te-don-lan-song-khach-ngoai-20260606144210905.htm) - 08:00 06/06/2026
+- 🎡 [Các doanh nghiệp liên kết đẩy lùi hàng giả, nhận 1 triệu tem chống giả thế hệ mới](https://tuoitre.vn/cac-doanh-nghiep-lien-ket-day-lui-hang-gia-nhan-1-trieu-tem-chong-gia-the-he-moi-20260606140350634.htm) - 07:32 06/06/2026
+- 🧐 [CEO Nvidia gây sốt: Ăn nhậu ở phố đi bộ cùng các trùm công nghệ Hàn Quốc](https://tuoitre.vn/ceo-nvidia-gay-sot-an-nhau-o-pho-di-bo-cung-cac-trum-cong-nghe-han-quoc-20260606122458615.htm) - 05:46 06/06/2026
+- 🔭 [Nhà đầu tư đề xuất thu phí theo chặng ở dự án BOT xa lộ Hà Nội và quốc lộ 1](https://tuoitre.vn/nha-dau-tu-de-xuat-thu-phi-theo-chang-o-du-an-bot-xa-lo-ha-noi-va-quoc-lo-1-20260606112618032.htm) - 05:19 06/06/2026
+- 🌏 [Phát triển thanh toán thông minh nhanh hơn nhưng phải an toàn hơn](https://tuoitre.vn/phat-trien-thanh-toan-thong-minh-nhanh-hon-nhung-phai-an-toan-hon-20260606105727926.htm) - 04:18 06/06/2026
+- 🦣 [Ngành dịch vụ bất động sản Trung Quốc lao đao](https://tuoitre.vn/nganh-dich-vu-bat-dong-san-trung-quoc-lao-dao-20260604174815558.htm) - 04:11 06/06/2026
+- 💡 [Khách Việt, khách ngoại quan tâm đến thanh toán xuyên biên giới tại Lễ hội Tài chính số 2026](https://tuoitre.vn/khach-viet-khach-ngoai-quan-tam-den-thanh-toan-xuyen-bien-gioi-tai-le-hoi-tai-chinh-so-2026-20260606101116379.htm) - 03:40 06/06/2026
+- 🫶 [Giá vàng miếng SJC giảm mạnh về mức 150 triệu đồng/lượng](https://tuoitre.vn/gia-vang-mieng-sjc-giam-manh-ve-muc-150-trieu-dong-luong-20260606101821698.htm) - 03:36 06/06/2026
+- 🦍 [Nhiều công nghệ thanh toán không tiền mặt thu hút sự chú ý tại Ngày Tài chính số](https://tuoitre.vn/nhieu-cong-nghe-thanh-toan-khong-tien-mat-thu-hut-su-chu-y-tai-ngay-tai-chinh-so-20260606094205634.htm) - 03:26 06/06/2026
+- 🪄 [Phó thủ tướng Nguyễn Văn Thắng: Thanh toán số là huyết mạch của nền kinh tế hiện đại](https://tuoitre.vn/pho-thu-tuong-nguyen-van-thang-thanh-toan-so-la-huyet-mach-cua-nen-kinh-te-hien-dai-2026060609223596.htm) - 03:08 06/06/2026
+- 🤗 [Green SM mở dịch vụ taxi điện tại Ấn Độ](https://tuoitre.vn/green-sm-mo-dich-vu-taxi-dien-tai-an-do-20260606081827043.htm) - 03:00 06/06/2026
+- 💄 [Hàng giả trên sàn thương mại điện tử: đã đến lúc siết trách nhiệm nền tảng](https://tuoitre.vn/hang-gia-tren-san-thuong-mai-dien-tu-da-den-luc-siet-trach-nhiem-nen-tang-20260606093829106.htm) - 02:51 06/06/2026
+- 🕯 [Quy hoạch sân bay Cam Ranh công suất 36 triệu khách đến năm 2050](https://tuoitre.vn/quy-hoach-san-bay-cam-ranh-cong-suat-36-trieu-khach-den-nam-2050-20260606084021704.htm) - 02:19 06/06/2026
+- 👨‍🏫 [Ghé &#39;Đại Lộ Thịnh Vượng&#39;, rinh quà hot cùng VPBank](https://tuoitre.vn/ghe-dai-lo-thinh-vuong-rinh-qua-hot-cung-vpbank-20260606085909867.htm) - 02:13 06/06/2026
+- 🫣 [Hàng trăm chuyên gia cùng hiến kế &#39;Thanh toán thông minh trong kỷ nguyên số&#39;](https://tuoitre.vn/hang-tram-chuyen-gia-cung-hien-ke-thanh-toan-thong-minh-trong-ky-nguyen-so-2026060608493109.htm) - 02:01 06/06/2026
+- 🎃 [Thanh toán số ở chợ đã tiện như siêu thị](https://tuoitre.vn/thanh-toan-so-o-cho-da-tien-nhu-sieu-thi-20260606080732575.htm) - 01:50 06/06/2026
+- 🤩 [Phát triển tài chính số đi cùng niềm tin số](https://tuoitre.vn/phat-trien-tai-chinh-so-di-cung-niem-tin-so-20260606075130693.htm) - 01:49 06/06/2026
+- 🫣 [Khai thác &#39;mỏ vàng&#39; tài chính số](https://tuoitre.vn/khai-thac-mo-vang-tai-chinh-so-20260606081015892.htm) - 01:49 06/06/2026
+- 🌁 [Ngân hàng, bảo hiểm đua chuyển đổi số](https://tuoitre.vn/ngan-hang-bao-hiem-dua-chuyen-doi-so-20260605230758447.htm) - 01:32 06/06/2026
+- 💫 [LPBank đồng hành cùng Ngày Tài chính số 2026](https://tuoitre.vn/lpbank-dong-hanh-cung-ngay-tai-chinh-so-2026-20260606085614476.htm) - 01:30 06/06/2026
+- 💡 [Áp lực thu hẹp biên lãi ròng, cổ phiếu ngân hàng có còn hấp dẫn?](https://tuoitre.vn/ap-luc-thu-hep-bien-lai-rong-co-phieu-ngan-hang-co-con-hap-dan-20260606073918319.htm) - 01:11 06/06/2026
+- 🦣 [Ngày Tài chính số 2026: mở rộng tầm nhìn từ thanh toán số đến tài chính số](https://tuoitre.vn/ngay-tai-chinh-so-2026-mo-rong-tam-nhin-tu-thanh-toan-so-den-tai-chinh-so-20260606075342544.htm) - 01:06 06/06/2026
+- 👹 [Vinpearl ra mắt thương hiệu khách sạn siêu sang Legendlux](https://tuoitre.vn/vinpearl-ra-mat-thuong-hieu-khach-san-sieu-sang-legendlux-20260606062239618.htm) - 00:24 06/06/2026<!-- tuoitre-kinh-doanh:END -->
