@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- nld-lao-dong:START -->
-- 🔥 [Nhiều hoạt động chăm lo thiết thực cho người lao động](https://nld.com.vn/nhieu-hoat-dong-cham-lo-thiet-thuc-cho-nguoi-lao-dong-196260604211225134.htm) - 14:15 04/06/2026
-- 📝 [Ban Chấp hành Tổng LĐLĐ Việt Nam khóa XIV gồm 145 ủy viên](https://nld.com.vn/ban-chap-hanh-tong-ldld-viet-nam-khoa-xiv-gom-145-uy-vien-196260604163647902.htm) - 09:51 04/06/2026
-- ⚗️ [Đoàn viên, CNVC-LĐ phường Tân Định gửi gắm kiến nghị về việc làm, nhà ở xã hội](https://nld.com.vn/doan-vien-cnvc-ld-phuong-tan-dinh-gui-gam-kien-nghi-ve-viec-lam-nha-o-xa-hoi-196260604153159605.htm) - 08:40 04/06/2026
-- 🦅 [Cơ quan giải thể trước tuổi hưu, được hưởng chế độ gì?](https://nld.com.vn/co-quan-giai-the-truoc-tuoi-huu-duoc-huong-che-do-gi-196260604144122065.htm) - 07:56 04/06/2026
-- 🧐 [Kiến nghị tăng thêm 2 ngày nghỉ dịp Quốc khánh 2-9](https://nld.com.vn/kien-nghi-tang-them-2-ngay-nghi-dip-quoc-khanh-2-9-19626060410112049.htm) - 04:15 04/06/2026
-- 🧑‍💻 [Tuyển dụng gần 2.000 vị trí tại ngày hội việc làm Đại học Duy Tân](https://nld.com.vn/tuyen-dung-gan-2000-vi-tri-tai-ngay-hoi-viec-lam-dai-hoc-duy-tan-196260604102756407.htm) - 04:10 04/06/2026
-- 🧑‍🏫 [Bước phát triển mới của giai cấp công nhân và Công đoàn Việt Nam](https://nld.com.vn/buoc-phat-trien-moi-cua-giai-cap-cong-nhan-va-cong-doan-viet-nam-196260604092113726.htm) - 03:44 04/06/2026
-- 💯 [Công đoàn phải gần gũi, lắng nghe, hành động vì người lao động](https://nld.com.vn/cong-doan-phai-gan-gui-lang-nghe-hanh-dong-vi-nguoi-lao-dong-196260604101156408.htm) - 03:35 04/06/2026
-- ⚗️ [Chi tiết mức hưởng lương hưu theo số năm đóng BHXH](https://nld.com.vn/chi-tiet-muc-huong-luong-huu-theo-so-nam-dong-bhxh-196260604084656304.htm) - 03:02 04/06/2026
-- 🦅 [Đà Nẵng sắp có phiên chợ công nhân lưu động, hỗ trợ 2.000 phiếu mua hàng](https://nld.com.vn/da-nang-sap-co-phien-cho-cong-nhan-luu-dong-ho-tro-2000-phieu-mua-hang-196260604091935412.htm) - 02:51 04/06/2026
-- 🔭 [Gần 12.000 lao động đi làm việc ở nước ngoài chỉ trong 1 tháng](https://nld.com.vn/gan-12000-lao-dong-di-lam-viec-o-nuoc-ngoai-chi-trong-1-thang-196260604092804236.htm) - 02:41 04/06/2026
-- 🤗 [Bất ngờ xu hướng tuyển dụng ngành Kế toán - Kiểm toán](https://nld.com.vn/bat-ngo-xu-huong-tuyen-dung-nganh-ke-toan-kiem-toan-196260604075823204.htm) - 01:11 04/06/2026
-- 🌋 [Thái độ quyết định cơ hội](https://nld.com.vn/thai-do-quyet-dinh-co-hoi-196260603191733575.htm) - 23:59 03/06/2026
-- 🪄 [Hành trang nghề nghiệp](https://nld.com.vn/hanh-trang-nghe-nghiep-196260603191517479.htm) - 22:30 03/06/2026
-- 🪄 [Xây dựng Công đoàn vững mạnh toàn diện](https://nld.com.vn/xay-dung-cong-doan-vung-manh-toan-dien-196260603193718368.htm) - 21:50 03/06/2026
-- 💼 [Bữa cơm công nhân sau giờ tăng ca](https://nld.com.vn/bua-com-cong-nhan-sau-gio-tang-ca-196260603200634482.htm) - 20:31 03/06/2026
-- 🤔 [Công đoàn xã Bình Mỹ đẩy mạnh phát triển đoàn viên](https://nld.com.vn/cong-doan-xa-binh-my-day-manh-phat-trien-doan-vien-196260603200337741.htm) - 13:19 03/06/2026
-- 🌝 [Bảo vệ, chăm lo cho đoàn viên, người lao động là nhiệm vụ cốt lõi của tổ chức Công đoàn](https://nld.com.vn/bao-ve-cham-lo-cho-doan-vien-nguoi-lao-dong-la-nhiem-vu-cot-loi-cua-to-chuc-cong-doan-196260603190431713.htm) - 13:19 03/06/2026
-- 🌮 [Phát triển đoàn viên, xây dựng tổ chức Công đoàn vững mạnh có ý nghĩa đặc biệt quan trọng](https://nld.com.vn/phat-trien-doan-vien-xay-dung-to-chuc-cong-doan-vung-manh-co-y-nghia-dac-biet-quan-trong-196260603190717434.htm) - 12:17 03/06/2026
-- 👍 [[eMagazine] Rộng cửa an sinh](https://nld.com.vn/emagazine-rong-cua-an-sinh-196260603160718738.htm) - 10:29 03/06/2026
-- 🏊 [Công đoàn vào cuộc giúp khôi phục quyền lợi cho hàng ngàn người lao động](https://nld.com.vn/cong-doan-vao-cuoc-giup-khoi-phuc-quyen-loi-cho-hang-ngan-nguoi-lao-dong-196260603155113189.htm) - 09:07 03/06/2026
-- 💂 [Đại hội XIV Công đoàn Việt Nam bước vào phiên làm việc thứ nhất](https://nld.com.vn/dai-hoi-xiv-cong-doan-viet-nam-buoc-vao-phien-lam-viec-thu-nhat-196260603123243365.htm) - 07:04 03/06/2026
-- 👀 [Đại hội XIV Công đoàn Việt Nam: Dấu ấn trí tuệ người lao động](https://nld.com.vn/dai-hoi-xiv-cong-doan-viet-nam-dau-an-tri-tue-nguoi-lao-dong-196260603132546752.htm) - 06:43 03/06/2026
-- 🌁 [Doanh nghiệp trốn đóng BHXH hết thời &quot;mưu mẹo&quot;](https://nld.com.vn/doanh-nghiep-tron-dong-bhxh-het-thoi-muu-meo-196260603102500905.htm) - 03:54 03/06/2026
-- 💫 [Đoàn đại biểu dự Đại hội XIV Công đoàn Việt Nam vào Lăng viếng Chủ tịch Hồ Chí Minh](https://nld.com.vn/doan-dai-bieu-du-dai-hoi-xiv-cong-doan-viet-nam-vao-lang-vieng-chu-tich-ho-chi-minh-196260603101550138.htm) - 03:31 03/06/2026
-- ⛽️ [Hơn 100 công nhân ngành điện tử Đà Nẵng tranh tài tại hội thi tay nghề](https://nld.com.vn/hon-100-cong-nhan-nganh-dien-tu-da-nang-tranh-tai-tai-hoi-thi-tay-nghe-19626060309431728.htm) - 03:03 03/06/2026
-- 🎭 [Hàn Quốc lập đội phản ứng nhanh bảo vệ lao động nước ngoài](https://nld.com.vn/han-quoc-lap-doi-phan-ung-nhanh-bao-ve-lao-dong-nuoc-ngoai-196260603065550075.htm) - 00:44 03/06/2026
-- 🎊 [ĐIỂM TỰA VỮNG CHẮC CỦA CÔNG NHÂN - LAO ĐỘNG &lpar;*&rpar;: Lấy đoàn viên - lao động làm trung tâm](https://nld.com.vn/diem-tua-vung-chac-cua-cong-nhan-lao-dong-lay-doan-vien-lao-dong-lam-trung-tam-196260602210112437.htm) - 00:21 03/06/2026
-- 🦣 [Chủ quan, mất quyền lợi](https://nld.com.vn/chu-quan-mat-quyen-loi-19626060220575593.htm) - 23:00 02/06/2026
-- 🧠 [Tập trung trí tuệ, đóng góp thiết thực tại Đại hội Công đoàn Việt Nam](https://nld.com.vn/tap-trung-tri-tue-dong-gop-thiet-thuc-tai-dai-hoi-cong-doan-viet-nam-19626060219325867.htm) - 13:25 02/06/2026
-- 🙉 [Hàng triệu người nhận lương hưu, trợ cấp BHXH tháng 6](https://nld.com.vn/hang-trieu-nguoi-nhan-luong-huu-tro-cap-bhxh-thang-6-196260602153149922.htm) - 09:36 02/06/2026
-- 💃 [Đề xuất người lao động ký hợp đồng dưới 1 tháng phải tham gia BHXH bắt buộc](https://nld.com.vn/de-xuat-nguoi-lao-dong-ky-hop-dong-duoi-1-thang-phai-tham-gia-bhxh-bat-buoc-196260602150644598.htm) - 08:13 02/06/2026
-- 🔭 [Ba chức danh ở thôn, tổ dân phố được tham gia BHXH bắt buộc](https://nld.com.vn/ba-chuc-danh-o-thon-to-dan-pho-duoc-tham-gia-bhxh-bat-buoc-196260602091321678.htm) - 03:06 02/06/2026
-- 🚀 [Giữ chỗ đứng giữa dây chuyền tự động](https://nld.com.vn/giu-cho-dung-giua-day-chuyen-tu-dong-196260601205155592.htm) - 00:00 02/06/2026
-- 🎃 [Nâng kỹ năng, vững tương lai](https://nld.com.vn/nang-ky-nang-vung-tuong-lai-196260601205301701.htm) - 23:26 01/06/2026
-- 🪄 [ĐIỂM TỰA VỮNG CHẮC CỦA CÔNG NHÂN - LAO ĐỘNG &lpar;*&rpar;: Củng cố nội lực, khẳng định vai trò](https://nld.com.vn/diem-tua-vung-chac-cua-cong-nhan-lao-dong-cung-co-noi-luc-khang-dinh-vai-tro-196260601205551232.htm) - 23:00 01/06/2026
-- 🦍 [Đối thoại để thấu hiểu, đồng hành với người lao động](https://nld.com.vn/doi-thoai-de-thau-hieu-dong-hanh-voi-nguoi-lao-dong-196260601185431702.htm) - 12:17 01/06/2026
-- 🧑‍💻 [Đi làm sau tuổi hưu: Nhận trợ cấp BHXH gấp 4 lần](https://nld.com.vn/di-lam-sau-tuoi-huu-nhan-tro-cap-bhxh-gap-4-lan-196260601133659153.htm) - 07:27 01/06/2026
-- 🪄 [Tiền đóng BHYT, BHXH từ ngày 1-7: Người dân cần chuẩn bị bao nhiêu?](https://nld.com.vn/tien-dong-bhyt-bhxh-tu-ngay-1-7-nguoi-dan-can-chuan-bi-bao-nhieu-196260601113316131.htm) - 04:40 01/06/2026
-- 🤠 [Dùng sổ BHXH điện tử giải quyết chế độ](https://nld.com.vn/dung-so-bhxh-dien-tu-giai-quyet-che-do-19626060108231941.htm) - 04:15 01/06/2026
-- 🦩 [Căn phòng trọ và bài toán lớn của tăng trưởng](https://nld.com.vn/nhung-cau-chuyen-nho-can-phong-tro-va-bai-toan-lon-cua-tang-truong-196260531204315949.htm) - 00:18 01/06/2026
-- 🙉 [Điểm tựa vững chắc của công nhân - lao động](https://nld.com.vn/diem-tua-vung-chac-cua-cong-nhan-lao-dong-196260531194703039.htm) - 22:00 31/05/2026
-- 🥰 [Tạo sân chơi cho con người lao động trong dịp hè](https://nld.com.vn/tao-san-choi-cho-con-nguoi-lao-dong-trong-dip-he-1962605311609574.htm) - 09:21 31/05/2026
-- 👺 [Sôi nổi giải bóng bàn cho người lao động phường Trung Mỹ Tây](https://nld.com.vn/soi-noi-giai-bong-ban-cho-nguoi-lao-dong-phuong-trung-my-tay-196260531143712965.htm) - 07:51 31/05/2026
-- 🤡 [Xót xa hoàn cảnh thai phụ ở Cần Thơ tử vong do tai nạn giao thông](https://nld.com.vn/xot-xa-hoan-canh-thai-phu-o-can-tho-tu-vong-do-tai-nan-giao-thong-196260531142927093.htm) - 07:50 31/05/2026
-- 🌁 [Trợ cấp thai sản tăng từ 1-7, cao nhất hơn 5 triệu đồng](https://nld.com.vn/tro-cap-thai-san-tang-tu-1-7-cao-nhat-hon-5-trieu-dong-19626053020562854.htm) - 01:33 31/05/2026
-- 🌝 [Đường sang châu Âu rộng mở nhưng không dễ đi](https://nld.com.vn/duong-sang-chau-au-rong-mo-nhung-khong-de-di-196260530204947877.htm) - 20:00 30/05/2026
-- 👺 [Đối thoại với lãnh đạo địa phương, người lao động mong được kết nối giới thiệu việc làm](https://nld.com.vn/doi-thoai-voi-lanh-dao-dia-phuong-nguoi-lao-dong-mong-duoc-ket-noi-gioi-thieu-viec-lam-196260530180707564.htm) - 11:40 30/05/2026
-- 🦅 [TPHCM: Người lao động giãi bày tâm tư khi cà phê cùng lãnh đạo địa phương](https://nld.com.vn/tphcm-nguoi-lao-dong-giai-bay-tam-tu-khi-ca-phe-cung-lanh-dao-dia-phuong-19626053016235414.htm) - 09:48 30/05/2026
-- 👺 [Rèn nghề cho đoàn viên, người lao động](https://nld.com.vn/ren-nghe-cho-doan-vien-nguoi-lao-dong-196260530155712212.htm) - 09:47 30/05/2026<!-- nld-lao-dong:END -->
+- 🔥 [Phát động phong trào thi đua &quot;Lao động giỏi, năng suất cao, thu nhập tốt&quot; giai đoạn 2026-2031](https://nld.com.vn/phat-dong-phong-trao-thi-dua-lao-dong-gioi-nang-suat-cao-thu-nhap-tot-giai-doan-2026-2031-19626060710480057.htm) - 04:09 07/06/2026
+- 📝 [Cách nộp hồ sơ trợ cấp thất nghiệp trực tuyến nhanh gọn](https://nld.com.vn/cach-nop-ho-so-tro-cap-that-nghiep-truc-tuyen-nhanh-gon-196260607102459695.htm) - 04:09 07/06/2026
+- ⚗️ [Bảo vệ lao động nền tảng số](https://nld.com.vn/bao-ve-lao-dong-nen-tang-so-196260606192938861.htm) - 00:00 07/06/2026
+- 🦅 [Người nghỉ hưu từ tháng 7 có thuộc diện tăng lương hưu 8%?](https://nld.com.vn/nguoi-nghi-huu-tu-thang-7-co-thuoc-dien-tang-luong-huu-8-196260605214607219.htm) - 02:38 06/06/2026
+- 🧐 [XUẤT KHẨU LAO ĐỘNG: Chuyển từ lượng sang chất](https://nld.com.vn/xuat-khau-lao-dong-chuyen-tu-luong-sang-chat-196260605195446684.htm) - 22:18 05/06/2026
+- 🧑‍💻 [Bảo đảm đời sống người lao động](https://nld.com.vn/bao-dam-doi-song-nguoi-lao-dong-196260605225225947.htm) - 19:21 05/06/2026
+- 🧑‍🏫 [Ông Nguyễn Anh Tuấn tái đắc cử Chủ tịch Tổng LĐLĐ Việt Nam](https://nld.com.vn/ong-nguyen-anh-tuan-tai-dac-cu-chu-tich-tong-ldld-viet-nam-196260605123425357.htm) - 06:01 05/06/2026
+- 💯 [Chủ tịch LĐLĐ TPHCM Bùi Thanh Nhân được bầu vào Ban Thường vụ Tổng LĐLĐ Việt Nam khóa mới](https://nld.com.vn/chu-tich-ldld-tphcm-bui-thanh-nhan-duoc-bau-vao-ban-thuong-vu-tong-ldld-viet-nam-khoa-moi-196260605091123488.htm) - 05:18 05/06/2026
+- ⚗️ [Đề xuất phát triển các nền tảng học nghề trực tuyến](https://nld.com.vn/de-xuat-phat-trien-cac-nen-tang-hoc-nghe-truc-tuyen-196260605094232689.htm) - 02:52 05/06/2026
+- 🦅 [Công đoàn phải là chỗ dựa tin cậy của CNVC-LĐ](https://nld.com.vn/cong-doan-phai-la-cho-dua-tin-cay-cua-cnvc-ld-19626060420451031.htm) - 22:48 04/06/2026
+- 🔭 [Nhiều hoạt động chăm lo thiết thực cho người lao động](https://nld.com.vn/nhieu-hoat-dong-cham-lo-thiet-thuc-cho-nguoi-lao-dong-196260604211225134.htm) - 14:15 04/06/2026
+- 🤗 [Ban Chấp hành Tổng LĐLĐ Việt Nam khóa XIV gồm 145 ủy viên](https://nld.com.vn/ban-chap-hanh-tong-ldld-viet-nam-khoa-xiv-gom-145-uy-vien-196260604163647902.htm) - 09:51 04/06/2026
+- 🌋 [Đoàn viên, CNVC-LĐ phường Tân Định gửi gắm kiến nghị về việc làm, nhà ở xã hội](https://nld.com.vn/doan-vien-cnvc-ld-phuong-tan-dinh-gui-gam-kien-nghi-ve-viec-lam-nha-o-xa-hoi-196260604153159605.htm) - 08:40 04/06/2026
+- 🪄 [Cơ quan giải thể trước tuổi hưu, được hưởng chế độ gì?](https://nld.com.vn/co-quan-giai-the-truoc-tuoi-huu-duoc-huong-che-do-gi-196260604144122065.htm) - 07:56 04/06/2026
+- 🪄 [Kiến nghị tăng thêm 2 ngày nghỉ dịp Quốc khánh 2-9](https://nld.com.vn/kien-nghi-tang-them-2-ngay-nghi-dip-quoc-khanh-2-9-19626060410112049.htm) - 04:15 04/06/2026
+- 💼 [Tuyển dụng gần 2.000 vị trí tại ngày hội việc làm Đại học Duy Tân](https://nld.com.vn/tuyen-dung-gan-2000-vi-tri-tai-ngay-hoi-viec-lam-dai-hoc-duy-tan-196260604102756407.htm) - 04:10 04/06/2026
+- 🤔 [Bước phát triển mới của giai cấp công nhân và Công đoàn Việt Nam](https://nld.com.vn/buoc-phat-trien-moi-cua-giai-cap-cong-nhan-va-cong-doan-viet-nam-196260604092113726.htm) - 03:44 04/06/2026
+- 🌝 [Công đoàn phải gần gũi, lắng nghe, hành động vì người lao động](https://nld.com.vn/cong-doan-phai-gan-gui-lang-nghe-hanh-dong-vi-nguoi-lao-dong-196260604101156408.htm) - 03:35 04/06/2026
+- 🌮 [Chi tiết mức hưởng lương hưu theo số năm đóng BHXH](https://nld.com.vn/chi-tiet-muc-huong-luong-huu-theo-so-nam-dong-bhxh-196260604084656304.htm) - 03:02 04/06/2026
+- 👍 [Đà Nẵng sắp có phiên chợ công nhân lưu động, hỗ trợ 2.000 phiếu mua hàng](https://nld.com.vn/da-nang-sap-co-phien-cho-cong-nhan-luu-dong-ho-tro-2000-phieu-mua-hang-196260604091935412.htm) - 02:51 04/06/2026
+- 🏊 [Gần 12.000 lao động đi làm việc ở nước ngoài chỉ trong 1 tháng](https://nld.com.vn/gan-12000-lao-dong-di-lam-viec-o-nuoc-ngoai-chi-trong-1-thang-196260604092804236.htm) - 02:41 04/06/2026
+- 💂 [Bất ngờ xu hướng tuyển dụng ngành Kế toán - Kiểm toán](https://nld.com.vn/bat-ngo-xu-huong-tuyen-dung-nganh-ke-toan-kiem-toan-196260604075823204.htm) - 01:11 04/06/2026
+- 👀 [Thái độ quyết định cơ hội](https://nld.com.vn/thai-do-quyet-dinh-co-hoi-196260603191733575.htm) - 23:59 03/06/2026
+- 🌁 [Hành trang nghề nghiệp](https://nld.com.vn/hanh-trang-nghe-nghiep-196260603191517479.htm) - 22:30 03/06/2026
+- 💫 [Xây dựng Công đoàn vững mạnh toàn diện](https://nld.com.vn/xay-dung-cong-doan-vung-manh-toan-dien-196260603193718368.htm) - 21:50 03/06/2026
+- ⛽️ [Bữa cơm công nhân sau giờ tăng ca](https://nld.com.vn/bua-com-cong-nhan-sau-gio-tang-ca-196260603200634482.htm) - 20:31 03/06/2026
+- 🎭 [Công đoàn xã Bình Mỹ đẩy mạnh phát triển đoàn viên](https://nld.com.vn/cong-doan-xa-binh-my-day-manh-phat-trien-doan-vien-196260603200337741.htm) - 13:19 03/06/2026
+- 🎊 [Bảo vệ, chăm lo cho đoàn viên, người lao động là nhiệm vụ cốt lõi của tổ chức Công đoàn](https://nld.com.vn/bao-ve-cham-lo-cho-doan-vien-nguoi-lao-dong-la-nhiem-vu-cot-loi-cua-to-chuc-cong-doan-196260603190431713.htm) - 13:19 03/06/2026
+- 🦣 [Phát triển đoàn viên, xây dựng tổ chức Công đoàn vững mạnh có ý nghĩa đặc biệt quan trọng](https://nld.com.vn/phat-trien-doan-vien-xay-dung-to-chuc-cong-doan-vung-manh-co-y-nghia-dac-biet-quan-trong-196260603190717434.htm) - 12:17 03/06/2026
+- 🧠 [[eMagazine] Rộng cửa an sinh](https://nld.com.vn/emagazine-rong-cua-an-sinh-196260603160718738.htm) - 10:29 03/06/2026
+- 🙉 [Công đoàn vào cuộc giúp khôi phục quyền lợi cho hàng ngàn người lao động](https://nld.com.vn/cong-doan-vao-cuoc-giup-khoi-phuc-quyen-loi-cho-hang-ngan-nguoi-lao-dong-196260603155113189.htm) - 09:07 03/06/2026
+- 💃 [Đại hội XIV Công đoàn Việt Nam bước vào phiên làm việc thứ nhất](https://nld.com.vn/dai-hoi-xiv-cong-doan-viet-nam-buoc-vao-phien-lam-viec-thu-nhat-196260603123243365.htm) - 07:04 03/06/2026
+- 🔭 [Đại hội XIV Công đoàn Việt Nam: Dấu ấn trí tuệ người lao động](https://nld.com.vn/dai-hoi-xiv-cong-doan-viet-nam-dau-an-tri-tue-nguoi-lao-dong-196260603132546752.htm) - 06:43 03/06/2026
+- 🚀 [Doanh nghiệp trốn đóng BHXH hết thời &quot;mưu mẹo&quot;](https://nld.com.vn/doanh-nghiep-tron-dong-bhxh-het-thoi-muu-meo-196260603102500905.htm) - 03:54 03/06/2026
+- 🎃 [Đoàn đại biểu dự Đại hội XIV Công đoàn Việt Nam vào Lăng viếng Chủ tịch Hồ Chí Minh](https://nld.com.vn/doan-dai-bieu-du-dai-hoi-xiv-cong-doan-viet-nam-vao-lang-vieng-chu-tich-ho-chi-minh-196260603101550138.htm) - 03:31 03/06/2026
+- 🪄 [Hơn 100 công nhân ngành điện tử Đà Nẵng tranh tài tại hội thi tay nghề](https://nld.com.vn/hon-100-cong-nhan-nganh-dien-tu-da-nang-tranh-tai-tai-hoi-thi-tay-nghe-19626060309431728.htm) - 03:03 03/06/2026
+- 🦍 [Hàn Quốc lập đội phản ứng nhanh bảo vệ lao động nước ngoài](https://nld.com.vn/han-quoc-lap-doi-phan-ung-nhanh-bao-ve-lao-dong-nuoc-ngoai-196260603065550075.htm) - 00:44 03/06/2026
+- 🧑‍💻 [ĐIỂM TỰA VỮNG CHẮC CỦA CÔNG NHÂN - LAO ĐỘNG &lpar;*&rpar;: Lấy đoàn viên - lao động làm trung tâm](https://nld.com.vn/diem-tua-vung-chac-cua-cong-nhan-lao-dong-lay-doan-vien-lao-dong-lam-trung-tam-196260602210112437.htm) - 00:21 03/06/2026
+- 🪄 [Chủ quan, mất quyền lợi](https://nld.com.vn/chu-quan-mat-quyen-loi-19626060220575593.htm) - 23:00 02/06/2026
+- 🤠 [Tập trung trí tuệ, đóng góp thiết thực tại Đại hội Công đoàn Việt Nam](https://nld.com.vn/tap-trung-tri-tue-dong-gop-thiet-thuc-tai-dai-hoi-cong-doan-viet-nam-19626060219325867.htm) - 13:25 02/06/2026
+- 🦩 [Hàng triệu người nhận lương hưu, trợ cấp BHXH tháng 6](https://nld.com.vn/hang-trieu-nguoi-nhan-luong-huu-tro-cap-bhxh-thang-6-196260602153149922.htm) - 09:36 02/06/2026
+- 🙉 [Đề xuất người lao động ký hợp đồng dưới 1 tháng phải tham gia BHXH bắt buộc](https://nld.com.vn/de-xuat-nguoi-lao-dong-ky-hop-dong-duoi-1-thang-phai-tham-gia-bhxh-bat-buoc-196260602150644598.htm) - 08:13 02/06/2026
+- 🥰 [Ba chức danh ở thôn, tổ dân phố được tham gia BHXH bắt buộc](https://nld.com.vn/ba-chuc-danh-o-thon-to-dan-pho-duoc-tham-gia-bhxh-bat-buoc-196260602091321678.htm) - 03:06 02/06/2026
+- 👺 [Giữ chỗ đứng giữa dây chuyền tự động](https://nld.com.vn/giu-cho-dung-giua-day-chuyen-tu-dong-196260601205155592.htm) - 00:00 02/06/2026
+- 🤡 [Nâng kỹ năng, vững tương lai](https://nld.com.vn/nang-ky-nang-vung-tuong-lai-196260601205301701.htm) - 23:26 01/06/2026
+- 🌁 [ĐIỂM TỰA VỮNG CHẮC CỦA CÔNG NHÂN - LAO ĐỘNG &lpar;*&rpar;: Củng cố nội lực, khẳng định vai trò](https://nld.com.vn/diem-tua-vung-chac-cua-cong-nhan-lao-dong-cung-co-noi-luc-khang-dinh-vai-tro-196260601205551232.htm) - 23:00 01/06/2026
+- 🌝 [Đối thoại để thấu hiểu, đồng hành với người lao động](https://nld.com.vn/doi-thoai-de-thau-hieu-dong-hanh-voi-nguoi-lao-dong-196260601185431702.htm) - 12:17 01/06/2026
+- 👺 [Đi làm sau tuổi hưu: Nhận trợ cấp BHXH gấp 4 lần](https://nld.com.vn/di-lam-sau-tuoi-huu-nhan-tro-cap-bhxh-gap-4-lan-196260601133659153.htm) - 07:27 01/06/2026
+- 🦅 [Tiền đóng BHYT, BHXH từ ngày 1-7: Người dân cần chuẩn bị bao nhiêu?](https://nld.com.vn/tien-dong-bhyt-bhxh-tu-ngay-1-7-nguoi-dan-can-chuan-bi-bao-nhieu-196260601113316131.htm) - 04:40 01/06/2026
+- 👺 [Dùng sổ BHXH điện tử giải quyết chế độ](https://nld.com.vn/dung-so-bhxh-dien-tu-giai-quyet-che-do-19626060108231941.htm) - 04:15 01/06/2026<!-- nld-lao-dong:END -->
