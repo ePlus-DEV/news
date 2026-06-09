@@ -522,66 +522,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Xem trực tiếp 104 trận World Cup 2026 trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-104-tran-world-cup-2026-tren-kenh-nao-101260609103609187.htm) - 03:55 09/06/2026
-- 🥷 [Ngày 12-6, lễ khai mạc World Cup 2026 bắt đầu lúc mấy giờ?](https://muctim.tuoitre.vn/ngay-12-6-le-khai-mac-world-cup-2026-bat-dau-luc-may-gio-101260609092124242.htm) - 03:54 09/06/2026
-- 🤖 [Hôm nay 9-6, bắt đầu đăng ký thi khảo sát vào lớp 6 tại TP.HCM](https://muctim.tuoitre.vn/hom-nay-9-6-bat-dau-dang-ky-thi-khao-sat-vao-lop-6-tai-tphcm-10126060910271796.htm) - 03:40 09/06/2026
-- 🤓 [20h tối nay 9-6, xem U19 Campuchia đấu Úc trên kênh nào?](https://muctim.tuoitre.vn/20h-toi-nay-9-6-xem-u19-campuchia-dau-uc-tren-kenh-nao-101260609071636197.htm) - 00:42 09/06/2026
-- 🎉 [U19 Thái Lan đánh bại Malaysia, U19 Việt Nam rộng cửa vào bán kết](https://muctim.tuoitre.vn/u19-thai-lan-danh-bai-malaysia-u19-viet-nam-rong-cua-vao-ban-ket-101260609060929706.htm) - 00:41 09/06/2026
-- 👨‍🏫 [Kết quả bóng chuyền nữ AVC 2026 ngày 8-6 và lịch thi đấu ngày 9-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-avc-2026-ngay-8-6-va-lich-thi-dau-ngay-9-6-101260608204932582.htm) - 15:23 08/06/2026
-- 🚦 [Lịch thi đấu tuần 1 bóng chuyền nam VNL 2026](https://muctim.tuoitre.vn/lich-thi-dau-tuan-1-bong-chuyen-nam-vnl-2026-101260608202913034.htm) - 14:04 08/06/2026
-- 🤭 [Lào Cai công bố điểm thi lớp 10, thí sinh xem kết quả ở đâu?](https://muctim.tuoitre.vn/lao-cai-cong-bo-diem-thi-lop-10-thi-sinh-xem-ket-qua-o-dau-101260608204607129.htm) - 14:02 08/06/2026
-- 😺 [Đà Nẵng công bố điểm chuẩn lớp 10 năm học 2026-2027](https://muctim.tuoitre.vn/da-nang-cong-bo-diem-chuan-lop-10-nam-hoc-2026-2027-101260608193717428.htm) - 12:41 08/06/2026
-- 😎 [Bạn biết bao nhiêu tiện ích giao thông thông minh của TP.HCM?](https://muctim.tuoitre.vn/ban-biet-bao-nhieu-tien-ich-giao-thong-thong-minh-cua-tphcm-101260608160222898.htm) - 10:32 08/06/2026
-- 🐎 [Ngày Đại dương Thế giới 8-6: Bạn trẻ chia sẻ câu chuyện sống xanh](https://muctim.tuoitre.vn/ngay-dai-duong-the-gioi-8-6-ban-tre-chia-se-cau-chuyen-song-xanh-101260608004505172.htm) - 10:30 08/06/2026
-- 🎓 [Uruguay tại World Cup 2026: thế lực của bóng đá Nam Mỹ](https://muctim.tuoitre.vn/uruguay-tai-world-cup-2026-the-luc-cua-bong-da-nam-my-101260607095116911.htm) - 10:26 08/06/2026
-- 🐎 [Mexico tại World Cup 2026: cơ hội tiến xa trên sân nhà](https://muctim.tuoitre.vn/mexico-tai-world-cup-2026-co-hoi-tien-xa-tren-san-nha-101260607084032924.htm) - 10:21 08/06/2026
-- 💃 [Tuyển Mỹ tại World Cup 2026: cơ hội từ lợi thế sân nhà](https://muctim.tuoitre.vn/tuyen-my-tai-world-cup-2026-co-hoi-tu-loi-the-san-nha-101260607090732191.htm) - 10:20 08/06/2026
-- 🪜 [Đồng Nai công bố điểm chuẩn vào lớp 10: Trường THPT Trấn Biên dẫn đầu với 24,75 điểm](https://muctim.tuoitre.vn/dong-nai-cong-bo-diem-chuan-vao-lop-10-truong-thpt-tran-bien-dan-dau-voi-2475-diem-10126060813553361.htm) - 10:19 08/06/2026
-- 🎉 [Trường đại học Hùng Vương TP.HCM ra mắt hệ sinh thái công nghệ và học thuật](https://muctim.tuoitre.vn/truong-dai-hoc-hung-vuong-tphcm-ra-mat-he-sinh-thai-cong-nghe-va-hoc-thuat-101260608162811044.htm) - 10:10 08/06/2026
-- 🥳 [Ai là người đề xuất tên gọi Thành phố Hồ Chí Minh?](https://muctim.tuoitre.vn/ai-la-nguoi-de-xuat-ten-goi-thanh-pho-ho-chi-minh-101260604113356557.htm) - 10:06 08/06/2026
-- 🤓 [Bóng chuyền nữ AVC 2026: Việt Nam nhọc nhằn đánh bại Indonesia](https://muctim.tuoitre.vn/cap-nhat-bong-chuyen-nu-avc-2026-viet-nam-indonesia-101260608125733696.htm) - 07:46 08/06/2026
-- 🎉 [Đón đọc Khăn Quàng Đỏ 23, phát hành 10-6: Khám phá mùa hè cùng xe đạp](https://muctim.tuoitre.vn/don-doc-khan-quang-do-23-phat-hanh-10-6-kham-pha-mua-he-cung-xe-dap-101260606060107077.htm) - 07:31 08/06/2026
-- 🥳 [Chiến thần tiếng Anh Trường THPT chuyên Bến Tre về đích Đường đến vinh quang với số điểm ấn tượng](https://muctim.tuoitre.vn/chien-than-tieng-anh-truong-thpt-chuyen-ben-tre-ve-dich-duong-den-vinh-quang-voi-so-diem-an-tuong-101260607210323497.htm) - 02:46 08/06/2026
-- 🎡 [20h tối nay 8-6, xem U19 Thái Lan đấu Malaysia trên kênh nào?](https://muctim.tuoitre.vn/20h-toi-nay-8-6-xem-u19-thai-lan-dau-malaysia-tren-kenh-nao-101260608060624359.htm) - 02:10 08/06/2026
-- 👨‍🏫 [Hướng dẫn cách tra cứu điểm thi tuyển sinh lớp 10 Đà Nẵng](https://muctim.tuoitre.vn/huong-dan-cach-tra-cuu-diem-thi-tuyen-sinh-lop-10-da-nang-101260607222543136.htm) - 02:09 08/06/2026
-- 🧠 [Gương mặt Con ngoan trò giỏi: Tay vợt nhí mê học lập trình](https://muctim.tuoitre.vn/guong-mat-con-ngoan-tro-gioi-tay-vot-nhi-me-hoc-lap-trinh-101260604101833517.htm) - 02:01 08/06/2026
-- 🥷 [Vừa vào Say hi rực rỡ, Isaac đã sợ tóc không được phồng](https://muctim.tuoitre.vn/vua-vao-say-hi-ruc-ro-isaac-da-so-toc-khong-duoc-phong-101260608001241175.htm) - 00:58 08/06/2026
-- 🤔 [Cơ hội nào để U19 Việt Nam vào bán kết U19 Đông Nam Á?](https://muctim.tuoitre.vn/co-hoi-nao-de-u19-viet-nam-vao-ban-ket-u19-dong-nam-a-101260608070436908.htm) - 00:55 08/06/2026
-- 🐎 [Tuần mới của 12 cung hoàng đạo: Cự Giải nổi bật](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-cu-giai-noi-bat-10126060722214809.htm) - 00:55 08/06/2026
-- ⛽️ [Kết quả bóng chuyền nữ VNL ngày 7-6 và lịch thi đấu ngày 8-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-vnl-ngay-7-6-va-lich-thi-dau-ngay-8-6-101260607171807149.htm) - 00:53 08/06/2026
-- 🤡 [Xếp hạng bảng A giải U19 Đông Nam Á: U19 Việt Nam hạng 2](https://muctim.tuoitre.vn/xep-hang-bang-a-giai-u19-dong-nam-a-u19-viet-nam-hang-2-101260608055637096.htm) - 00:50 08/06/2026
-- 🌁 [3 trường THPT chuyên ở Đồng Nai công bố kết quả trúng tuyển lớp 10](https://muctim.tuoitre.vn/3-truong-thpt-chuyen-o-dong-nai-cong-bo-ket-qua-trung-tuyen-lop-10-101260607235833859.htm) - 00:49 08/06/2026
-- 🎓 [Đã có điểm thi lớp 10 tỉnh Khánh Hòa, tra cứu thế nào?](https://muctim.tuoitre.vn/da-co-diem-thi-lop-10-tinh-khanh-hoa-tra-cuu-the-nao-10126060800184634.htm) - 00:47 08/06/2026
-- 🦍 [Hôm nay có điểm thi lớp 10 Đồng Nai, cách tra cứu nhanh nhất](https://muctim.tuoitre.vn/hom-nay-co-diem-thi-lop-10-dong-nai-cach-tra-cuu-nhanh-nhat-101260607224220305.htm) - 00:46 08/06/2026
-- 🤠 [Kết quả bóng chuyền nữ AVC 2026 ngày 7-6 và lịch thi đấu ngày 8-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-avc-2026-ngay-7-6-va-lich-thi-dau-ngay-8-6-101260607202347737.htm) - 16:32 07/06/2026
-- 🎬 [Bảng xếp hạng V-League 1 2025-2026: Becamex TP.HCM xuống hạng](https://muctim.tuoitre.vn/bang-xep-hang-v-league-1-2025-2026-becamex-tphcm-xuong-hang-101260607201905268.htm) - 13:25 07/06/2026
-- 🌮 [Bạn trẻ tạo ‘cầu nối’ giữa nghệ thuật và thiện nguyện thông qua workshop gây quỹ](https://muctim.tuoitre.vn/ban-tre-tao-cau-noi-giua-nghe-thuat-va-thien-nguyen-thong-qua-workshop-gay-quy-101260607172517866.htm) - 12:30 07/06/2026
-- 👹 [U19 Việt Nam thua đáng tiếc trước U19 Indonesia](https://muctim.tuoitre.vn/truc-tuyen-u19-dong-nam-a-u19-viet-nam-u19-indonesia-101260607164542699.htm) - 10:33 07/06/2026
-- 🤔 [Thắng Hoàng Anh Gia Lai 3-1, Becamex TP.HCM vẫn phải chia tay V-League 1](https://muctim.tuoitre.vn/truc-tuyen-v-league-1-becamex-tphcm-hoang-anh-gia-lai-101260607141030029.htm) - 10:00 07/06/2026
-- 🏊 [Hải Phòng và Thép Xanh Nam Định chia điểm tại Lạch Tray](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-hai-phong-thep-xanh-nam-dinh-101260607135335154.htm) - 10:00 07/06/2026
-- 📝 [Thắng Đông Á Thanh Hóa 4-0, SHB Đà Nẵng chính thức trụ hạng](https://muctim.tuoitre.vn/truc-tuyen-vong-26-v-league-1-shb-da-nang-dong-a-thanh-hoa-101260607134039645.htm) - 10:00 07/06/2026
-- 👺 [PVF-CAND giành suất đá play-off trụ hạng V-League 1](https://muctim.tuoitre.vn/truc-tuyen-vong-26-v-league-1-song-lam-nghe-an-pvf-cand-101260607132253196.htm) - 10:00 07/06/2026
-- 👹 [Tiến Linh lập công, Công An TP.HCM chia điểm với CLB Hà Nội](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-clb-ha-noi-cong-an-tphcm-101260607101839921.htm) - 10:00 07/06/2026
-- 🎊 [Ninh Bình về đích V-League 1 với vị trí thứ 3](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-ninh-binh-hong-linh-ha-tinh-101260607011829929.htm) - 10:00 07/06/2026
-- 👹 [Thể Công - Viettel giành ngôi á quân V-League 1](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-the-cong-viettel-cong-an-ha-noi-101260607005911923.htm) - 10:00 07/06/2026
-- 🎃 [PiaLinh tiếp lửa tuổi 18 trong lễ trưởng thành của học sinh THPT Trần Hưng Đạo](https://muctim.tuoitre.vn/pialinh-tiep-lua-tuoi-18-trong-le-truong-thanh-cua-hoc-sinh-thpt-tran-hung-dao-101260607143550891.htm) - 08:00 07/06/2026
-- 🧑‍🏫 [Độc đáo mô hình lưu bút điện tử tại lễ Tri ân và Trưởng thành Trường THPT Củ Chi](https://muctim.tuoitre.vn/doc-dao-mo-hinh-luu-but-dien-tu-tai-le-tri-an-va-truong-thanh-truong-thpt-cu-chi-101260607142003143.htm) - 07:59 07/06/2026
-- 🎊 [Về đích ấn tượng, nam sinh Hải Phòng giành vòng nguyệt quế Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/ve-dich-an-tuong-nam-sinh-hai-phong-gianh-vong-nguyet-que-duong-len-dinh-olympia-101260607142035763.htm) - 07:34 07/06/2026
-- 📝 [Hiệu trưởng Trường THPT Trần Nhân Tông nhắn nhủ học trò: &#39;Hãy sống bằng sự tử tế&#39;](https://muctim.tuoitre.vn/hieu-truong-truong-thpt-tran-nhan-tong-nhan-nhu-hoc-tro-hay-song-bang-su-tu-te-101260607113023501.htm) - 07:04 07/06/2026
-- 🥳 [Lễ hội Tài chính số 2026 thu hút bạn trẻ với trải nghiệm công nghệ, quà tặng hấp dẫn](https://muctim.tuoitre.vn/le-hoi-tai-chinh-so-2026-thu-hut-ban-tre-voi-trai-nghiem-cong-nghe-qua-tang-hap-dan-101260607110113911.htm) - 07:01 07/06/2026
-- 💻 [Hàng ngàn sinh viên tình nguyện hào hứng ra quân Tiếp sức mùa thi năm 2026 tại TP.HCM](https://muctim.tuoitre.vn/hang-ngan-sinh-vien-tinh-nguyen-tai-hao-hung-ra-quan-tiep-suc-mua-thi-nam-2026-tai-tphcm-101260607003822314.htm) - 04:23 07/06/2026
-- 😎 [Đồng Tháp công bố điểm thi lớp 10 năm 2026, tra cứu ra sao?](https://muctim.tuoitre.vn/dong-thap-cong-bo-diem-thi-lop-10-nam-2026-tra-cuu-ra-sao-101260607093406061.htm) - 02:49 07/06/2026
-- 🤭 [Lê Dương Bảo Lâm cùng con trai khuấy động Anh trai và cái đuôi nhỏ tập 3](https://muctim.tuoitre.vn/le-duong-bao-lam-cung-con-trai-khuay-dong-anh-trai-va-cai-duoi-nho-tap-3-101260607024904916.htm) - 02:07 07/06/2026
-- 🤩 [Bóng chuyền nữ Thái Lan thua cả 4 trận tại tuần 1 VNL 2026](https://muctim.tuoitre.vn/cap-nhat-bong-chuyen-nu-vnl-2026-7-6-thai-lan-ch-sec-101260606201213112.htm) - 02:00 07/06/2026
-- 🚀 [Lịch trực tiếp vòng cuối V-League 1: tâm điểm đua trụ hạng](https://muctim.tuoitre.vn/lich-truc-tiep-vong-cuoi-v-league-1-tam-diem-dua-tru-hang-101260607074706619.htm) - 00:49 07/06/2026
-- 🕴 [Hạ Đức 3-0, bóng chuyền nữ Nhật Bản nối dài mạch thắng tại VNL 2026](https://muctim.tuoitre.vn/cap-nhat-bong-chuyen-nu-vln-2026-nhat-ban-duc-101260607074412569.htm) - 00:48 07/06/2026
-- ⛽️ [20h tối nay 7-6, xem U19 Việt Nam đấu Indonesia trên kênh nào?](https://muctim.tuoitre.vn/20h-toi-nay-7-6-xem-u19-viet-nam-dau-indonesia-tren-kenh-nao-101260607072636494.htm) - 00:34 07/06/2026
-- 🧐 [Thụy Sĩ tại World Cup 2026 đến lúc khẳng định đẳng cấp?](https://muctim.tuoitre.vn/thuy-si-tai-world-cup-2026-den-luc-khang-dinh-dang-cap-101260519213612679.htm) - 00:33 07/06/2026
-- 🦆 [&quot;Tân binh&quot; Cape Verde tại World Cup 2026 liệu có viết tiếp câu chuyện kỳ tích?](https://muctim.tuoitre.vn/tan-binh-cape-verde-tai-world-cup-2026-lieu-co-viet-tiep-cau-chuyen-ky-tich-101260522223309278.htm) - 00:29 07/06/2026
-- 🤖 [Những điều đáng chú ý về tuyển Thụy Điển tại World Cup 2026](https://muctim.tuoitre.vn/nhung-dieu-dang-chu-y-ve-tuyen-thuy-dien-tai-world-cup-2026-10126051922353567.htm) - 00:26 07/06/2026
-- 💃 [Thổ Nhĩ Kỳ tại World Cup 2026: trở lại sau hơn hai thập kỷ](https://muctim.tuoitre.vn/tho-nhi-ky-tai-world-cup-2026-tro-lai-sau-hon-hai-thap-ky-101260606213807252.htm) - 00:23 07/06/2026
-- 🚀 [Cung hoàng đạo nào thích nhắn tin nhóm mỗi tối?](https://muctim.tuoitre.vn/cung-hoang-dao-nao-thich-nhan-tin-nhom-moi-toi-101260601154000633.htm) - 00:21 07/06/2026
-- 🦍 [Kết quả bóng chuyền nữ VNL 2026 ngày 6-6 và lịch thi đấu ngày 7-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-vln-2026-ngay-6-6-va-lich-thi-dau-ngay-7-6-101260606112907713.htm) - 00:18 07/06/2026<!-- muctim:END -->
+- 🤔 [Khám phá hương vị Sài Gòn độc đáo tại Tuần lễ Văn hóa Ẩm thực](https://muctim.tuoitre.vn/kham-pha-huong-vi-sai-gon-doc-dao-tai-tuan-le-van-hoa-am-thuc-10126060921472044.htm) - 15:17 09/06/2026
+- 🥷 [Náo nức lễ hội Vía Bà Chúa Xứ núi Sam đầu tiên sau khi được UNESCO ghi danh](https://muctim.tuoitre.vn/nao-nuc-le-hoi-via-ba-chua-xu-nui-sam-dau-tien-sau-khi-duoc-unesco-ghi-danh-101260609204252382.htm) - 15:14 09/06/2026
+- 🤖 [Truyện ngắn Mực Tím: Chàng trai tôi ghét năm ấy](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-chang-trai-toi-ghet-nam-ay-101260527161056636.htm) - 12:57 09/06/2026
+- 🤓 [10 lời chúc ý nghĩa gửi sĩ tử thi tốt nghiệp THPT 2026](https://muctim.tuoitre.vn/10-loi-chuc-y-nghia-gui-si-tu-thi-tot-nghiep-thpt-2026-101260609155835967.htm) - 11:29 09/06/2026
+- 🎉 [Hai nữ sinh cùng lớp Trường THPT Bình Phú được kết nạp Đảng ở tuổi 18](https://muctim.tuoitre.vn/hai-nu-sinh-cung-lop-truong-thpt-binh-phu-duoc-ket-nap-dang-o-tuoi-18-101260609170040458.htm) - 11:08 09/06/2026
+- 👨‍🏫 [Thành phố của những vòng tay yêu thương](https://muctim.tuoitre.vn/thanh-pho-cua-nhung-vong-tay-yeu-thuong-101260608142914125.htm) - 10:06 09/06/2026
+- 🚦 [Sooyoung &lpar;SNSD&rpar; và Jung Kyung Ho chia tay sau 14 năm bên nhau](https://muctim.tuoitre.vn/sooyoung-snsd-va-jung-kyung-ho-chia-tay-sau-14-nam-ben-nhau-10126060915111358.htm) - 08:28 09/06/2026
+- 🤭 [Trắc nghiệm: Bạn biết gì về các di tích quốc gia tại TP.HCM?](https://muctim.tuoitre.vn/trac-nghiem-ban-biet-gi-ve-cac-di-tich-quoc-gia-tai-tphcm-10126060414232946.htm) - 06:33 09/06/2026
+- 😺 [Curacao tại World Cup 2026: Chờ cảm hứng từ cựu sao Man United](https://muctim.tuoitre.vn/curacao-tai-world-cup-2026-cho-cam-hung-tu-cuu-sao-man-united-101260523151310899.htm) - 06:21 09/06/2026
+- 😎 [Những điểm đáng chú ý về tuyển Scotland tại World Cup 2026](https://muctim.tuoitre.vn/nhung-diem-dang-chu-y-ve-tuyen-scotland-tai-world-cup-2026-101260519235715106.htm) - 06:17 09/06/2026
+- 🐎 [Tuyển Qatar tại World Cup 2026: đội hình thấp giá nhất giải đấu](https://muctim.tuoitre.vn/tuyen-qatar-tai-world-cup-2026-doi-hinh-thap-gia-nhat-giai-dau-101260607173257022.htm) - 06:14 09/06/2026
+- 🎓 [Tuyển Uzbekistan tại World Cup 2026: trang sử mới của bóng đá Uzbekistan](https://muctim.tuoitre.vn/tuyen-uzbekistan-tai-world-cup-2026-trang-su-moi-cua-bong-da-uzbekistan-101260607171113998.htm) - 06:13 09/06/2026
+- 🐎 [Xem trực tiếp 104 trận World Cup 2026 trên kênh nào?](https://muctim.tuoitre.vn/xem-truc-tiep-104-tran-world-cup-2026-tren-kenh-nao-101260609103609187.htm) - 03:55 09/06/2026
+- 💃 [Ngày 12-6, lễ khai mạc World Cup 2026 bắt đầu lúc mấy giờ?](https://muctim.tuoitre.vn/ngay-12-6-le-khai-mac-world-cup-2026-bat-dau-luc-may-gio-101260609092124242.htm) - 03:54 09/06/2026
+- 🪜 [Hôm nay 9-6, bắt đầu đăng ký thi khảo sát vào lớp 6 tại TP.HCM](https://muctim.tuoitre.vn/hom-nay-9-6-bat-dau-dang-ky-thi-khao-sat-vao-lop-6-tai-tphcm-10126060910271796.htm) - 03:40 09/06/2026
+- 🎉 [20h tối nay 9-6, xem U19 Campuchia đấu Úc trên kênh nào?](https://muctim.tuoitre.vn/20h-toi-nay-9-6-xem-u19-campuchia-dau-uc-tren-kenh-nao-101260609071636197.htm) - 00:42 09/06/2026
+- 🥳 [U19 Thái Lan đánh bại Malaysia, U19 Việt Nam rộng cửa vào bán kết](https://muctim.tuoitre.vn/u19-thai-lan-danh-bai-malaysia-u19-viet-nam-rong-cua-vao-ban-ket-101260609060929706.htm) - 00:41 09/06/2026
+- 🤓 [Kết quả bóng chuyền nữ AVC 2026 ngày 8-6 và lịch thi đấu ngày 9-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-avc-2026-ngay-8-6-va-lich-thi-dau-ngay-9-6-101260608204932582.htm) - 15:23 08/06/2026
+- 🎉 [Lịch thi đấu tuần 1 bóng chuyền nam VNL 2026](https://muctim.tuoitre.vn/lich-thi-dau-tuan-1-bong-chuyen-nam-vnl-2026-101260608202913034.htm) - 14:04 08/06/2026
+- 🥳 [Lào Cai công bố điểm thi lớp 10, thí sinh xem kết quả ở đâu?](https://muctim.tuoitre.vn/lao-cai-cong-bo-diem-thi-lop-10-thi-sinh-xem-ket-qua-o-dau-101260608204607129.htm) - 14:02 08/06/2026
+- 🎡 [Đà Nẵng công bố điểm chuẩn lớp 10 năm học 2026-2027](https://muctim.tuoitre.vn/da-nang-cong-bo-diem-chuan-lop-10-nam-hoc-2026-2027-101260608193717428.htm) - 12:41 08/06/2026
+- 👨‍🏫 [Bạn biết bao nhiêu tiện ích giao thông thông minh của TP.HCM?](https://muctim.tuoitre.vn/ban-biet-bao-nhieu-tien-ich-giao-thong-thong-minh-cua-tphcm-101260608160222898.htm) - 10:32 08/06/2026
+- 🧠 [Ngày Đại dương Thế giới 8-6: Bạn trẻ chia sẻ câu chuyện sống xanh](https://muctim.tuoitre.vn/ngay-dai-duong-the-gioi-8-6-ban-tre-chia-se-cau-chuyen-song-xanh-101260608004505172.htm) - 10:30 08/06/2026
+- 🥷 [Uruguay tại World Cup 2026: thế lực của bóng đá Nam Mỹ](https://muctim.tuoitre.vn/uruguay-tai-world-cup-2026-the-luc-cua-bong-da-nam-my-101260607095116911.htm) - 10:26 08/06/2026
+- 🤔 [Mexico tại World Cup 2026: cơ hội tiến xa trên sân nhà](https://muctim.tuoitre.vn/mexico-tai-world-cup-2026-co-hoi-tien-xa-tren-san-nha-101260607084032924.htm) - 10:21 08/06/2026
+- 🐎 [Tuyển Mỹ tại World Cup 2026: cơ hội từ lợi thế sân nhà](https://muctim.tuoitre.vn/tuyen-my-tai-world-cup-2026-co-hoi-tu-loi-the-san-nha-101260607090732191.htm) - 10:20 08/06/2026
+- ⛽️ [Đồng Nai công bố điểm chuẩn vào lớp 10: Trường THPT Trấn Biên dẫn đầu với 24,75 điểm](https://muctim.tuoitre.vn/dong-nai-cong-bo-diem-chuan-vao-lop-10-truong-thpt-tran-bien-dan-dau-voi-2475-diem-10126060813553361.htm) - 10:19 08/06/2026
+- 🤡 [Trường đại học Hùng Vương TP.HCM ra mắt hệ sinh thái công nghệ và học thuật](https://muctim.tuoitre.vn/truong-dai-hoc-hung-vuong-tphcm-ra-mat-he-sinh-thai-cong-nghe-va-hoc-thuat-101260608162811044.htm) - 10:10 08/06/2026
+- 🌁 [Ai là người đề xuất tên gọi Thành phố Hồ Chí Minh?](https://muctim.tuoitre.vn/ai-la-nguoi-de-xuat-ten-goi-thanh-pho-ho-chi-minh-101260604113356557.htm) - 10:06 08/06/2026
+- 🎓 [Bóng chuyền nữ AVC 2026: Việt Nam nhọc nhằn đánh bại Indonesia](https://muctim.tuoitre.vn/cap-nhat-bong-chuyen-nu-avc-2026-viet-nam-indonesia-101260608125733696.htm) - 07:46 08/06/2026
+- 🦍 [Đón đọc Khăn Quàng Đỏ 23, phát hành 10-6: Khám phá mùa hè cùng xe đạp](https://muctim.tuoitre.vn/don-doc-khan-quang-do-23-phat-hanh-10-6-kham-pha-mua-he-cung-xe-dap-101260606060107077.htm) - 07:31 08/06/2026
+- 🤠 [Chiến thần tiếng Anh Trường THPT chuyên Bến Tre về đích Đường đến vinh quang với số điểm ấn tượng](https://muctim.tuoitre.vn/chien-than-tieng-anh-truong-thpt-chuyen-ben-tre-ve-dich-duong-den-vinh-quang-voi-so-diem-an-tuong-101260607210323497.htm) - 02:46 08/06/2026
+- 🎬 [20h tối nay 8-6, xem U19 Thái Lan đấu Malaysia trên kênh nào?](https://muctim.tuoitre.vn/20h-toi-nay-8-6-xem-u19-thai-lan-dau-malaysia-tren-kenh-nao-101260608060624359.htm) - 02:10 08/06/2026
+- 🌮 [Hướng dẫn cách tra cứu điểm thi tuyển sinh lớp 10 Đà Nẵng](https://muctim.tuoitre.vn/huong-dan-cach-tra-cuu-diem-thi-tuyen-sinh-lop-10-da-nang-101260607222543136.htm) - 02:09 08/06/2026
+- 👹 [Gương mặt Con ngoan trò giỏi: Tay vợt nhí mê học lập trình](https://muctim.tuoitre.vn/guong-mat-con-ngoan-tro-gioi-tay-vot-nhi-me-hoc-lap-trinh-101260604101833517.htm) - 02:01 08/06/2026
+- 🤔 [Vừa vào Say hi rực rỡ, Isaac đã sợ tóc không được phồng](https://muctim.tuoitre.vn/vua-vao-say-hi-ruc-ro-isaac-da-so-toc-khong-duoc-phong-101260608001241175.htm) - 00:58 08/06/2026
+- 🏊 [Cơ hội nào để U19 Việt Nam vào bán kết U19 Đông Nam Á?](https://muctim.tuoitre.vn/co-hoi-nao-de-u19-viet-nam-vao-ban-ket-u19-dong-nam-a-101260608070436908.htm) - 00:55 08/06/2026
+- 📝 [Tuần mới của 12 cung hoàng đạo: Cự Giải nổi bật](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-cu-giai-noi-bat-10126060722214809.htm) - 00:55 08/06/2026
+- 👺 [Kết quả bóng chuyền nữ VNL ngày 7-6 và lịch thi đấu ngày 8-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-vnl-ngay-7-6-va-lich-thi-dau-ngay-8-6-101260607171807149.htm) - 00:53 08/06/2026
+- 👹 [Xếp hạng bảng A giải U19 Đông Nam Á: U19 Việt Nam hạng 2](https://muctim.tuoitre.vn/xep-hang-bang-a-giai-u19-dong-nam-a-u19-viet-nam-hang-2-101260608055637096.htm) - 00:50 08/06/2026
+- 🎊 [3 trường THPT chuyên ở Đồng Nai công bố kết quả trúng tuyển lớp 10](https://muctim.tuoitre.vn/3-truong-thpt-chuyen-o-dong-nai-cong-bo-ket-qua-trung-tuyen-lop-10-101260607235833859.htm) - 00:49 08/06/2026
+- 👹 [Đã có điểm thi lớp 10 tỉnh Khánh Hòa, tra cứu thế nào?](https://muctim.tuoitre.vn/da-co-diem-thi-lop-10-tinh-khanh-hoa-tra-cuu-the-nao-10126060800184634.htm) - 00:47 08/06/2026
+- 🎃 [Hôm nay có điểm thi lớp 10 Đồng Nai, cách tra cứu nhanh nhất](https://muctim.tuoitre.vn/hom-nay-co-diem-thi-lop-10-dong-nai-cach-tra-cuu-nhanh-nhat-101260607224220305.htm) - 00:46 08/06/2026
+- 🧑‍🏫 [Kết quả bóng chuyền nữ AVC 2026 ngày 7-6 và lịch thi đấu ngày 8-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nu-avc-2026-ngay-7-6-va-lich-thi-dau-ngay-8-6-101260607202347737.htm) - 16:32 07/06/2026
+- 🎊 [Bảng xếp hạng V-League 1 2025-2026: Becamex TP.HCM xuống hạng](https://muctim.tuoitre.vn/bang-xep-hang-v-league-1-2025-2026-becamex-tphcm-xuong-hang-101260607201905268.htm) - 13:25 07/06/2026
+- 📝 [Bạn trẻ tạo ‘cầu nối’ giữa nghệ thuật và thiện nguyện thông qua workshop gây quỹ](https://muctim.tuoitre.vn/ban-tre-tao-cau-noi-giua-nghe-thuat-va-thien-nguyen-thong-qua-workshop-gay-quy-101260607172517866.htm) - 12:30 07/06/2026
+- 🥳 [U19 Việt Nam thua đáng tiếc trước U19 Indonesia](https://muctim.tuoitre.vn/truc-tuyen-u19-dong-nam-a-u19-viet-nam-u19-indonesia-101260607164542699.htm) - 10:33 07/06/2026
+- 💻 [Thắng Hoàng Anh Gia Lai 3-1, Becamex TP.HCM vẫn phải chia tay V-League 1](https://muctim.tuoitre.vn/truc-tuyen-v-league-1-becamex-tphcm-hoang-anh-gia-lai-101260607141030029.htm) - 10:00 07/06/2026
+- 😎 [Hải Phòng và Thép Xanh Nam Định chia điểm tại Lạch Tray](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-hai-phong-thep-xanh-nam-dinh-101260607135335154.htm) - 10:00 07/06/2026
+- 🤭 [Thắng Đông Á Thanh Hóa 4-0, SHB Đà Nẵng chính thức trụ hạng](https://muctim.tuoitre.vn/truc-tuyen-vong-26-v-league-1-shb-da-nang-dong-a-thanh-hoa-101260607134039645.htm) - 10:00 07/06/2026
+- 🤩 [PVF-CAND giành suất đá play-off trụ hạng V-League 1](https://muctim.tuoitre.vn/truc-tuyen-vong-26-v-league-1-song-lam-nghe-an-pvf-cand-101260607132253196.htm) - 10:00 07/06/2026
+- 🚀 [Tiến Linh lập công, Công An TP.HCM chia điểm với CLB Hà Nội](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-clb-ha-noi-cong-an-tphcm-101260607101839921.htm) - 10:00 07/06/2026
+- 🕴 [Ninh Bình về đích V-League 1 với vị trí thứ 3](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-ninh-binh-hong-linh-ha-tinh-101260607011829929.htm) - 10:00 07/06/2026
+- ⛽️ [Thể Công - Viettel giành ngôi á quân V-League 1](https://muctim.tuoitre.vn/cap-nhat-vong-26-v-league-1-the-cong-viettel-cong-an-ha-noi-101260607005911923.htm) - 10:00 07/06/2026
+- 🧐 [PiaLinh tiếp lửa tuổi 18 trong lễ trưởng thành của học sinh THPT Trần Hưng Đạo](https://muctim.tuoitre.vn/pialinh-tiep-lua-tuoi-18-trong-le-truong-thanh-cua-hoc-sinh-thpt-tran-hung-dao-101260607143550891.htm) - 08:00 07/06/2026
+- 🦆 [Độc đáo mô hình lưu bút điện tử tại lễ Tri ân và Trưởng thành Trường THPT Củ Chi](https://muctim.tuoitre.vn/doc-dao-mo-hinh-luu-but-dien-tu-tai-le-tri-an-va-truong-thanh-truong-thpt-cu-chi-101260607142003143.htm) - 07:59 07/06/2026
+- 🤖 [Về đích ấn tượng, nam sinh Hải Phòng giành vòng nguyệt quế Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/ve-dich-an-tuong-nam-sinh-hai-phong-gianh-vong-nguyet-que-duong-len-dinh-olympia-101260607142035763.htm) - 07:34 07/06/2026
+- 💃 [Hiệu trưởng Trường THPT Trần Nhân Tông nhắn nhủ học trò: &#39;Hãy sống bằng sự tử tế&#39;](https://muctim.tuoitre.vn/hieu-truong-truong-thpt-tran-nhan-tong-nhan-nhu-hoc-tro-hay-song-bang-su-tu-te-101260607113023501.htm) - 07:04 07/06/2026
+- 🚀 [Lễ hội Tài chính số 2026 thu hút bạn trẻ với trải nghiệm công nghệ, quà tặng hấp dẫn](https://muctim.tuoitre.vn/le-hoi-tai-chinh-so-2026-thu-hut-ban-tre-voi-trai-nghiem-cong-nghe-qua-tang-hap-dan-101260607110113911.htm) - 07:01 07/06/2026
+- 🦍 [Hàng ngàn sinh viên tình nguyện hào hứng ra quân Tiếp sức mùa thi năm 2026 tại TP.HCM](https://muctim.tuoitre.vn/hang-ngan-sinh-vien-tinh-nguyen-tai-hao-hung-ra-quan-tiep-suc-mua-thi-nam-2026-tai-tphcm-101260607003822314.htm) - 04:23 07/06/2026<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
