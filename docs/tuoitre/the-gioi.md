@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- tuoitre-the-gioi:START -->
-- 💪 [Trực thăng quân sự rơi ở Pakistan, 22 người thiệt mạng](https://tuoitre.vn/truc-thang-quan-su-roi-o-pakistan-22-nguoi-thiet-mang-20260611175616171.htm) - 11:16 11/06/2026
-- 📝 [Nhiều doanh nghiệp Thụy Điển muốn tăng đầu tư vì tin vào tăng trưởng dài hạn của Việt Nam](https://tuoitre.vn/nhieu-doanh-nghiep-thuy-dien-muon-tang-dau-tu-vi-tin-vao-tang-truong-dai-han-cua-viet-nam-20260611173000662.htm) - 11:03 11/06/2026
-- 🕴 [Quan chức Mỹ tử vong ở Myanmar, công dân Thái Lan bị tình nghi](https://tuoitre.vn/quan-chuc-my-tu-vong-o-myanmar-cong-dan-thai-lan-bi-tinh-nghi-2026061117070761.htm) - 10:42 11/06/2026
-- 🌏 [Trung Quốc tuyên bố kết thúc đợt tuần tra đặc biệt gần đảo Đài Loan](https://tuoitre.vn/trung-quoc-tuyen-bo-ket-thuc-dot-tuan-tra-dac-biet-gan-dao-dai-loan-20260611161411335.htm) - 09:34 11/06/2026
-- 🚦 [Nông dân nợ chồng chất, Chính phủ Thái Lan đối mặt sức ép lớn](https://tuoitre.vn/nong-dan-no-chong-chat-chinh-phu-thai-lan-doi-mat-suc-ep-lon-20260611155439398.htm) - 09:10 11/06/2026
-- 🙉 [&#39;Đàm phán bằng bom&#39; - Mỹ và Iran cùng mắc kẹt](https://tuoitre.vn/dam-phan-bang-bom-my-va-iran-cung-mac-ket-20260611154137151.htm) - 08:57 11/06/2026
-- 🦒 [Mỹ phá hồ chứa nước Iran giữa hạn hán: Có phải &#39;tội ác chiến tranh&#39;?](https://tuoitre.vn/my-pha-ho-chua-nuoc-iran-giua-han-han-co-phai-toi-ac-chien-tranh-2026061113344766.htm) - 08:23 11/06/2026
-- 🚦 [Hàn Quốc phạt nền tảng thương mại điện tử Coupang kỷ lục 400 triệu USD, Mỹ - Hàn căng thẳng](https://tuoitre.vn/han-quoc-phat-nen-tang-thuong-mai-dien-tu-coupang-ky-luc-400-trieu-usd-my-han-cang-thang-20260611150204558.htm) - 08:16 11/06/2026
-- 🧑‍🏫 [Ông Trump tiết lộ chiến dịch bí mật đưa 100 triệu thùng dầu qua eo biển Hormuz](https://tuoitre.vn/ong-trump-tiet-lo-chien-dich-bi-mat-dua-100-trieu-thung-dau-qua-eo-bien-hormuz-20260611143115939.htm) - 07:55 11/06/2026
-- 🧑‍🏫 [Canada muốn cấm trẻ dưới 16 tuổi dùng mạng xã hội, chatbot AI cũng bị siết](https://tuoitre.vn/canada-muon-cam-tre-duoi-16-tuoi-dung-mang-xa-hoi-chatbot-ai-cung-bi-siet-202606110950283.htm) - 06:48 11/06/2026
-- 🦣 [Lạm phát Mỹ tăng kỷ lục trong 3 năm, ông Trump tuyên bố &#39;tôi thích lạm phát&#39;](https://tuoitre.vn/lam-phat-my-tang-ky-luc-trong-3-nam-ong-trump-tuyen-bo-toi-thich-lam-phat-20260611123848709.htm) - 06:03 11/06/2026
-- 🐲 [Mỹ tấn công dồn dập vào Iran: Chiến dịch &#39;lớn về quy mô, nhưng ngắn về thời gian&#39;?](https://tuoitre.vn/my-tan-cong-don-dap-vao-iran-chien-dich-lon-ve-quy-mo-nhung-ngan-ve-thoi-gian-20260611123843951.htm) - 05:56 11/06/2026
-- 🐲 [Liên hợp quốc chỉ trích Mỹ trừng phạt Cuba, Nhà Trắng đáp trả cứng rắn](https://tuoitre.vn/lien-hop-quoc-chi-trich-my-trung-phat-cuba-nha-trang-dap-tra-cung-ran-20260611113801875.htm) - 04:49 11/06/2026
-- 🌝 [Honda thu hồi hơn 800.000 ô tô vì lỗi kỹ thuật, thay mới linh kiện miễn phí](https://tuoitre.vn/honda-thu-hoi-hon-800-000-o-to-vi-loi-ky-thuat-thay-moi-linh-kien-mien-phi-20260611093334844.htm) - 02:38 11/06/2026
-- 🏊 [Việt Nam - đối tác chủ động, tự tin trên trường quốc tế](https://tuoitre.vn/viet-nam-doi-tac-chu-dong-tu-tin-tren-truong-quoc-te-20260611084432289.htm) - 02:09 11/06/2026
-- 🎉 [Diễn đàn Tương lai ASEAN 2026: Ghi nhận nhiều ý tưởng, đề xuất sáng tạo](https://tuoitre.vn/dien-dan-tuong-lai-asean-2026-ghi-nhan-nhieu-y-tuong-de-xuat-sang-tao-20260611085113085.htm) - 02:05 11/06/2026
-- 🙉 [Mỹ - Iran khai hỏa, Trung Đông rực lửa](https://tuoitre.vn/my-iran-khai-hoa-trung-dong-ruc-lua-20260611074607353.htm) - 01:53 11/06/2026
-- 🙉 [IRGC tấn công chiến đấu cơ Mỹ tại Jordan sau khi Lầu Năm Góc nói hoàn tất đợt không kích](https://tuoitre.vn/irgc-tan-cong-chien-dau-co-my-tai-jordan-sau-khi-lau-nam-goc-noi-hoan-tat-dot-khong-kich-20260611080037881.htm) - 01:09 11/06/2026
-- 🤭 [Tin tức thế giới 11-6: Ông Trump tin lạm phát sớm giảm; Ukraine tấn công cảng ở Donetsk](https://tuoitre.vn/tin-tuc-the-gioi-11-6-ong-trump-tin-lam-phat-som-giam-ukraine-tan-cong-cang-o-donetsk-20260611052607143.htm) - 00:25 11/06/2026
-- 😎 [NÓNG: Mỹ tấn công mạnh nhiều mục tiêu ở Iran, đụng độ trên biển ở Hormuz](https://tuoitre.vn/nong-my-tan-cong-manh-nhieu-muc-tieu-o-iran-dung-do-tren-bien-o-hormuz-20260611052033677.htm) - 22:37 10/06/2026
-- ⚗️ [Hàn Quốc nới lỏng quy định về vành đai xanh để đẩy nhanh nguồn cung nhà ở](https://tuoitre.vn/han-quoc-noi-long-quy-dinh-ve-vanh-dai-xanh-de-day-nhanh-nguon-cung-nha-o-20260610225452659.htm) - 16:45 10/06/2026
-- 🔥 [Đài Loan phóng thử tên lửa Mỹ về phía bờ biển Trung Quốc](https://tuoitre.vn/dai-loan-phong-thu-ten-lua-my-ve-phia-bo-bien-trung-quoc-20260610220732705.htm) - 15:46 10/06/2026
-- 😎 [Thứ trưởng Bộ Ngoại giao Ngô Lê Văn: Địa phương phải trở thành tuyến đầu trong công tác đối ngoại](https://tuoitre.vn/thu-truong-bo-ngoai-giao-ngo-le-van-dia-phuong-phai-tro-thanh-tuyen-dau-trong-cong-tac-doi-ngoai-20260610213216795.htm) - 15:01 10/06/2026
-- 🤭 [Trung Quốc cảnh báo EU về gói trừng phạt nhiều công ty Trung Quốc](https://tuoitre.vn/trung-quoc-canh-bao-eu-ve-goi-trung-phat-nhieu-cong-ty-trung-quoc-20260610194840809.htm) - 13:40 10/06/2026
-- 😎 [Trung Đông tối 10-6: Ông Trump tuyên bố sẽ tấn công Iran &#39;rất mạnh&#39;, gồm khả năng không kích](https://tuoitre.vn/trung-dong-toi-10-6-ong-trump-tuyen-bo-se-tan-cong-iran-rat-manh-gom-kha-nang-khong-kich-20260610190532202.htm) - 12:31 10/06/2026
-- 🧑‍💻 [Chỉ 1/10 người châu Âu coi Mỹ là đồng minh](https://tuoitre.vn/chi-1-10-nguoi-chau-au-coi-my-la-dong-minh-20260610184548145.htm) - 12:00 10/06/2026
-- 🌏 [Timor-Leste mong Việt Nam hỗ trợ tăng cường tự chủ kinh tế, phát triển hạ tầng](https://tuoitre.vn/timor-leste-mong-viet-nam-ho-tro-tang-cuong-tu-chu-kinh-te-phat-trien-ha-tang-20260610184454262.htm) - 11:51 10/06/2026
-- 🐎 [Ukraine tấn công sâu vào lãnh thổ Nga bằng tên lửa nhà làm](https://tuoitre.vn/ukraine-tan-cong-sau-vao-lanh-tho-nga-bang-ten-lua-nha-lam-20260610173939435.htm) - 10:56 10/06/2026
-- 🐎 [Bill Gates sắp ra điều trần về mối quan hệ với &#39;tỉ phú ấu dâm&#39; Epstein](https://tuoitre.vn/bill-gates-sap-ra-dieu-tran-ve-moi-quan-he-voi-ti-phu-au-dam-epstein-20260610173759018.htm) - 10:47 10/06/2026
-- 🎬 [Diễn đàn Tương lai ASEAN lập kỷ lục với hơn 1.200 đại biểu từ khắp thế giới](https://tuoitre.vn/dien-dan-tuong-lai-asean-lap-ky-luc-voi-hon-1-200-dai-bieu-tu-khap-the-gioi-2026061017131661.htm) - 10:33 10/06/2026
-- 💼 [Đại tướng Phan Văn Giang: Mong Mỹ tăng cường chia sẻ thông tin về bộ đội Việt Nam trong chiến tranh](https://tuoitre.vn/dai-tuong-phan-van-giang-mong-my-tang-cuong-chia-se-thong-tin-ve-bo-doi-viet-nam-trong-chien-tranh-20260610170103502.htm) - 10:24 10/06/2026
-- ⛽️ [Phá công xưởng cực lớn bào chế ma túy ngay tại Bangkok](https://tuoitre.vn/pha-cong-xuong-cuc-lon-bao-che-ma-tuy-ngay-tai-bangkok-20260610170946571.htm) - 10:20 10/06/2026
-- 💡 [Nga, Trung Quốc lên tiếng về chiến sự Mỹ - Iran](https://tuoitre.vn/nga-trung-quoc-len-tieng-ve-chien-su-my-iran-2026061017094381.htm) - 10:16 10/06/2026
-- 🥰 [Chồng ép vợ bán dâm cho 120 người suốt 3 năm](https://tuoitre.vn/chong-ep-vo-ban-dam-cho-120-nguoi-suot-3-nam-20260610164214076.htm) - 09:58 10/06/2026
-- 🧑‍💻 [TP.HCM và Indonesia: Còn nhiều tiềm năng hợp tác chưa khai thác](https://tuoitre.vn/tp-hcm-va-indonesia-con-nhieu-tiem-nang-hop-tac-chua-khai-thac-20260610160437719.htm) - 09:30 10/06/2026
-- 🧠 [Trung Đông chiều 10-6: Iran nêu lý do tấn công đáp trả Mỹ; Bahrain đánh chặn tên lửa Iran](https://tuoitre.vn/trung-dong-chieu-10-6-iran-neu-ly-do-tan-cong-dap-tra-my-bahrain-danh-chan-ten-lua-iran-20260610160328751.htm) - 09:18 10/06/2026
-- 🤩 [Xả súng hàng loạt tại Nam Phi, 12 người thiệt mạng](https://tuoitre.vn/xa-sung-hang-loat-tai-nam-phi-12-nguoi-thiet-mang-20260610154454472.htm) - 08:59 10/06/2026
-- 🤗 [Ông JD Vance dựng chuồng gà trong dinh thự Phó tổng thống, nuôi 12 con gà con](https://tuoitre.vn/ong-jd-vance-dung-chuong-ga-trong-dinh-thu-pho-tong-thong-nuoi-12-con-ga-con-20260610154327705.htm) - 08:59 10/06/2026
-- 🐲 [20.000 người Nhật ký đơn phản đối sau video ông Trump &#39;biến hình&#39; thành Naruto](https://tuoitre.vn/20-000-nguoi-nhat-ky-don-phan-doi-sau-video-ong-trump-bien-hinh-thanh-naruto-20260610141238569.htm) - 07:48 10/06/2026
-- 🌮 [Mỹ chuẩn bị xuất khẩu lô nhiên liệu lớn nhất sang Cuba sau hơn 60 năm cấm vận](https://tuoitre.vn/my-chuan-bi-xuat-khau-lo-nhien-lieu-lon-nhat-sang-cuba-sau-hon-60-nam-cam-van-20260610125203933.htm) - 07:46 10/06/2026
-- 🎃 [Ngành công nghệ cao suy giảm gây sức ép lên thị trường bất động sản Israel](https://tuoitre.vn/nganh-cong-nghe-cao-suy-giam-gay-suc-ep-len-thi-truong-bat-dong-san-israel-20260610123323102.htm) - 06:44 10/06/2026
-- 🎊 [NASA công bố phi hành đoàn Artemis III](https://tuoitre.vn/nasa-cong-bo-phi-hanh-doan-artemis-iii-20260610111346155.htm) - 05:13 10/06/2026
-- 🚀 [Mỹ sẵn sàng hỗ trợ an ninh năng lượng dài hạn cho ASEAN](https://tuoitre.vn/my-san-sang-ho-tro-an-ninh-nang-luong-dai-han-cho-asean-20260610101443311.htm) - 05:12 10/06/2026
-- 🧐 [Xuất hiện &#39;cấu trúc nổi&#39; kỳ lạ tại bãi cạn Scarborough, Trung Quốc và Philippines lên tiếng](https://tuoitre.vn/xuat-hien-cau-truc-noi-ky-la-tai-bai-can-scarborough-trung-quoc-va-philippines-len-tieng-20260610114118198.htm) - 04:56 10/06/2026
-- 🕯 [Iran mở rộng tấn công trả đũa sang Jordan, Kuwait, Bahrain](https://tuoitre.vn/iran-mo-rong-tan-cong-tra-dua-sang-jordan-kuwait-bahrain-20260610110933794.htm) - 04:28 10/06/2026
-- 💂 [Tiền nhiên liệu tăng 78%, hàng không Mỹ &#39;đốt&#39; 6,5 tỉ USD chỉ trong một tháng](https://tuoitre.vn/tien-nhien-lieu-tang-78-hang-khong-my-dot-6-5-ti-usd-chi-trong-mot-thang-20260610104335476.htm) - 03:53 10/06/2026
-- 🦒 [Phi công Canada lái 900 chuyến bay suốt 16 năm dù không có giấy phép](https://tuoitre.vn/phi-cong-canada-lai-900-chuyen-bay-suot-16-nam-du-khong-co-giay-phep-20260610101149511.htm) - 03:24 10/06/2026
-- 🔭 [Vành đai an ninh của Iran: Thương lượng dưới nòng pháo](https://tuoitre.vn/vanh-dai-an-ninh-cua-iran-thuong-luong-duoi-nong-phao-20260610095518473.htm) - 03:13 10/06/2026
-- 👨‍🏫 [Lại nổ bom gần Matxcơva, 1 tướng Nga bị ám sát](https://tuoitre.vn/lai-no-bom-gan-matxcova-1-tuong-nga-bi-am-sat-20260610093318835.htm) - 02:43 10/06/2026
-- 🦆 [Làn sóng xuất khẩu công nghệ Việt ra ASEAN](https://tuoitre.vn/lan-song-xuat-khau-cong-nghe-viet-ra-asean-20260610081431559.htm) - 02:36 10/06/2026<!-- tuoitre-the-gioi:END -->
+- 💪 [Lầu Năm Góc phong tỏa vì báo động giả](https://tuoitre.vn/lau-nam-goc-phong-toa-vi-bao-dong-gia-20260611234415747.htm) - 17:02 11/06/2026
+- 📝 [Trung Quốc trừng phạt Bộ trưởng Quốc phòng Philippines](https://tuoitre.vn/trung-quoc-trung-phat-bo-truong-quoc-phong-philippines-20260611215910122.htm) - 15:36 11/06/2026
+- 🕴 [Ông Trump: Sẽ đánh lớn, đánh mạnh Iran đêm nay](https://tuoitre.vn/ong-trump-se-danh-lon-danh-manh-iran-dem-nay-20260611211451487.htm) - 14:31 11/06/2026
+- 🌏 [Búp bê AI trở thành bạn tâm giao của người già Hàn Quốc cô đơn](https://tuoitre.vn/bup-be-ai-tro-thanh-ban-tam-giao-cua-nguoi-gia-han-quoc-co-don-20260611202321762.htm) - 13:35 11/06/2026
+- 🚦 [Ông Trump khám sức khỏe với 22 bác sĩ chuyên khoa, lập kỷ lục trong các đời Tổng thống Mỹ](https://tuoitre.vn/ong-trump-kham-suc-khoe-voi-22-bac-si-chuyen-khoa-lap-ky-luc-trong-cac-doi-tong-thong-my-20260611200726759.htm) - 13:23 11/06/2026
+- 🙉 [Ấn Độ điều quân đội vận chuyển đề thi sau bê bối lộ đề](https://tuoitre.vn/an-do-dieu-quan-doi-van-chuyen-de-thi-sau-be-boi-lo-de-20260611194334209.htm) - 13:20 11/06/2026
+- 🦒 [Iran tuyên bố đóng eo biển Hormuz](https://tuoitre.vn/iran-tuyen-bo-dong-eo-bien-hormuz-2026061119512157.htm) - 13:14 11/06/2026
+- 🚦 [Thụy Điển rút đề xuất gây tranh cãi về bỏ tù trẻ từ 13 tuổi](https://tuoitre.vn/thuy-dien-rut-de-xuat-gay-tranh-cai-ve-bo-tu-tre-tu-13-tuoi-20260611185135311.htm) - 12:07 11/06/2026
+- 🧑‍🏫 [Giáo hoàng Leo ban phước cho nhà thờ cao nhất thế giới](https://tuoitre.vn/giao-hoang-leo-ban-phuoc-cho-nha-tho-cao-nhat-the-gioi-20260611184710656.htm) - 12:06 11/06/2026
+- 🧑‍🏫 [Mỹ bắn tàu chở dầu ngoài khơi Oman, 3 thủy thủ Ấn Độ thiệt mạng](https://tuoitre.vn/my-ban-tau-cho-dau-ngoai-khoi-oman-3-thuy-thu-an-do-thiet-mang-20260611180150308.htm) - 12:03 11/06/2026
+- 🦣 [Nhiều cây xăng ở bán đảo Crimea đã cạn, chuyện gì đang xảy ra?](https://tuoitre.vn/nhieu-cay-xang-o-ban-dao-crimea-da-can-chuyen-gi-dang-xay-ra-20260611184112495.htm) - 11:55 11/06/2026
+- 🐲 [Tân Tổng lãnh sự Úc: Sẵn sàng đồng hành cùng TP.HCM phát triển Trung tâm tài chính quốc tế](https://tuoitre.vn/tan-tong-lanh-su-uc-san-sang-dong-hanh-cung-tp-hcm-phat-trien-trung-tam-tai-chinh-quoc-te-20260611182055818.htm) - 11:36 11/06/2026
+- 🐲 [Kinh tế khó khăn, 71% giáo viên Mỹ phải làm cùng lúc 2 công việc](https://tuoitre.vn/kinh-te-kho-khan-71-giao-vien-my-phai-lam-cung-luc-2-cong-viec-20260611181230003.htm) - 11:25 11/06/2026
+- 🌝 [Trực thăng quân sự rơi ở Pakistan, 22 người thiệt mạng](https://tuoitre.vn/truc-thang-quan-su-roi-o-pakistan-22-nguoi-thiet-mang-20260611175616171.htm) - 11:16 11/06/2026
+- 🏊 [Nhiều doanh nghiệp Thụy Điển muốn tăng đầu tư vì tin vào tăng trưởng dài hạn của Việt Nam](https://tuoitre.vn/nhieu-doanh-nghiep-thuy-dien-muon-tang-dau-tu-vi-tin-vao-tang-truong-dai-han-cua-viet-nam-20260611173000662.htm) - 11:03 11/06/2026
+- 🎉 [Quan chức Mỹ tử vong ở Myanmar, công dân Thái Lan bị tình nghi](https://tuoitre.vn/quan-chuc-my-tu-vong-o-myanmar-cong-dan-thai-lan-bi-tinh-nghi-2026061117070761.htm) - 10:42 11/06/2026
+- 🙉 [Trung Quốc tuyên bố kết thúc đợt tuần tra đặc biệt gần đảo Đài Loan](https://tuoitre.vn/trung-quoc-tuyen-bo-ket-thuc-dot-tuan-tra-dac-biet-gan-dao-dai-loan-20260611161411335.htm) - 09:34 11/06/2026
+- 🙉 [Nông dân nợ chồng chất, Chính phủ Thái Lan đối mặt sức ép lớn](https://tuoitre.vn/nong-dan-no-chong-chat-chinh-phu-thai-lan-doi-mat-suc-ep-lon-20260611155439398.htm) - 09:10 11/06/2026
+- 🤭 [&#39;Đàm phán bằng bom&#39; - Mỹ và Iran cùng mắc kẹt](https://tuoitre.vn/dam-phan-bang-bom-my-va-iran-cung-mac-ket-20260611154137151.htm) - 08:57 11/06/2026
+- 😎 [Mỹ phá hồ chứa nước Iran giữa hạn hán: Có phải &#39;tội ác chiến tranh&#39;?](https://tuoitre.vn/my-pha-ho-chua-nuoc-iran-giua-han-han-co-phai-toi-ac-chien-tranh-2026061113344766.htm) - 08:23 11/06/2026
+- ⚗️ [Hàn Quốc phạt nền tảng thương mại điện tử Coupang kỷ lục 400 triệu USD, Mỹ - Hàn căng thẳng](https://tuoitre.vn/han-quoc-phat-nen-tang-thuong-mai-dien-tu-coupang-ky-luc-400-trieu-usd-my-han-cang-thang-20260611150204558.htm) - 08:16 11/06/2026
+- 🔥 [Ông Trump tiết lộ chiến dịch bí mật đưa 100 triệu thùng dầu qua eo biển Hormuz](https://tuoitre.vn/ong-trump-tiet-lo-chien-dich-bi-mat-dua-100-trieu-thung-dau-qua-eo-bien-hormuz-20260611143115939.htm) - 07:55 11/06/2026
+- 😎 [Canada muốn cấm trẻ dưới 16 tuổi dùng mạng xã hội, chatbot AI cũng bị siết](https://tuoitre.vn/canada-muon-cam-tre-duoi-16-tuoi-dung-mang-xa-hoi-chatbot-ai-cung-bi-siet-202606110950283.htm) - 06:48 11/06/2026
+- 🤭 [Lạm phát Mỹ tăng kỷ lục trong 3 năm, ông Trump tuyên bố &#39;tôi thích lạm phát&#39;](https://tuoitre.vn/lam-phat-my-tang-ky-luc-trong-3-nam-ong-trump-tuyen-bo-toi-thich-lam-phat-20260611123848709.htm) - 06:03 11/06/2026
+- 😎 [Mỹ tấn công dồn dập vào Iran: Chiến dịch &#39;lớn về quy mô, nhưng ngắn về thời gian&#39;?](https://tuoitre.vn/my-tan-cong-don-dap-vao-iran-chien-dich-lon-ve-quy-mo-nhung-ngan-ve-thoi-gian-20260611123843951.htm) - 05:56 11/06/2026
+- 🧑‍💻 [Liên hợp quốc chỉ trích Mỹ trừng phạt Cuba, Nhà Trắng đáp trả cứng rắn](https://tuoitre.vn/lien-hop-quoc-chi-trich-my-trung-phat-cuba-nha-trang-dap-tra-cung-ran-20260611113801875.htm) - 04:49 11/06/2026
+- 🌏 [Honda thu hồi hơn 800.000 ô tô vì lỗi kỹ thuật, thay mới linh kiện miễn phí](https://tuoitre.vn/honda-thu-hoi-hon-800-000-o-to-vi-loi-ky-thuat-thay-moi-linh-kien-mien-phi-20260611093334844.htm) - 02:38 11/06/2026
+- 🐎 [Việt Nam - đối tác chủ động, tự tin trên trường quốc tế](https://tuoitre.vn/viet-nam-doi-tac-chu-dong-tu-tin-tren-truong-quoc-te-20260611084432289.htm) - 02:09 11/06/2026
+- 🐎 [Diễn đàn Tương lai ASEAN 2026: Ghi nhận nhiều ý tưởng, đề xuất sáng tạo](https://tuoitre.vn/dien-dan-tuong-lai-asean-2026-ghi-nhan-nhieu-y-tuong-de-xuat-sang-tao-20260611085113085.htm) - 02:05 11/06/2026
+- 🎬 [Mỹ - Iran khai hỏa, Trung Đông rực lửa](https://tuoitre.vn/my-iran-khai-hoa-trung-dong-ruc-lua-20260611074607353.htm) - 01:53 11/06/2026
+- 💼 [IRGC tấn công chiến đấu cơ Mỹ tại Jordan sau khi Lầu Năm Góc nói hoàn tất đợt không kích](https://tuoitre.vn/irgc-tan-cong-chien-dau-co-my-tai-jordan-sau-khi-lau-nam-goc-noi-hoan-tat-dot-khong-kich-20260611080037881.htm) - 01:09 11/06/2026
+- ⛽️ [Tin tức thế giới 11-6: Ông Trump tin lạm phát sớm giảm; Ukraine tấn công cảng ở Donetsk](https://tuoitre.vn/tin-tuc-the-gioi-11-6-ong-trump-tin-lam-phat-som-giam-ukraine-tan-cong-cang-o-donetsk-20260611052607143.htm) - 00:25 11/06/2026
+- 💡 [NÓNG: Mỹ tấn công mạnh nhiều mục tiêu ở Iran, đụng độ trên biển ở Hormuz](https://tuoitre.vn/nong-my-tan-cong-manh-nhieu-muc-tieu-o-iran-dung-do-tren-bien-o-hormuz-20260611052033677.htm) - 22:37 10/06/2026
+- 🥰 [Hàn Quốc nới lỏng quy định về vành đai xanh để đẩy nhanh nguồn cung nhà ở](https://tuoitre.vn/han-quoc-noi-long-quy-dinh-ve-vanh-dai-xanh-de-day-nhanh-nguon-cung-nha-o-20260610225452659.htm) - 16:45 10/06/2026
+- 🧑‍💻 [Đài Loan phóng thử tên lửa Mỹ về phía bờ biển Trung Quốc](https://tuoitre.vn/dai-loan-phong-thu-ten-lua-my-ve-phia-bo-bien-trung-quoc-20260610220732705.htm) - 15:46 10/06/2026
+- 🧠 [Thứ trưởng Bộ Ngoại giao Ngô Lê Văn: Địa phương phải trở thành tuyến đầu trong công tác đối ngoại](https://tuoitre.vn/thu-truong-bo-ngoai-giao-ngo-le-van-dia-phuong-phai-tro-thanh-tuyen-dau-trong-cong-tac-doi-ngoai-20260610213216795.htm) - 15:01 10/06/2026
+- 🤩 [Trung Quốc cảnh báo EU về gói trừng phạt nhiều công ty Trung Quốc](https://tuoitre.vn/trung-quoc-canh-bao-eu-ve-goi-trung-phat-nhieu-cong-ty-trung-quoc-20260610194840809.htm) - 13:40 10/06/2026
+- 🤗 [Trung Đông tối 10-6: Ông Trump tuyên bố sẽ tấn công Iran &#39;rất mạnh&#39;, gồm khả năng không kích](https://tuoitre.vn/trung-dong-toi-10-6-ong-trump-tuyen-bo-se-tan-cong-iran-rat-manh-gom-kha-nang-khong-kich-20260610190532202.htm) - 12:31 10/06/2026
+- 🐲 [Chỉ 1/10 người châu Âu coi Mỹ là đồng minh](https://tuoitre.vn/chi-1-10-nguoi-chau-au-coi-my-la-dong-minh-20260610184548145.htm) - 12:00 10/06/2026
+- 🌮 [Timor-Leste mong Việt Nam hỗ trợ tăng cường tự chủ kinh tế, phát triển hạ tầng](https://tuoitre.vn/timor-leste-mong-viet-nam-ho-tro-tang-cuong-tu-chu-kinh-te-phat-trien-ha-tang-20260610184454262.htm) - 11:51 10/06/2026
+- 🎃 [Ukraine tấn công sâu vào lãnh thổ Nga bằng tên lửa nhà làm](https://tuoitre.vn/ukraine-tan-cong-sau-vao-lanh-tho-nga-bang-ten-lua-nha-lam-20260610173939435.htm) - 10:56 10/06/2026
+- 🎊 [Bill Gates sắp ra điều trần về mối quan hệ với &#39;tỉ phú ấu dâm&#39; Epstein](https://tuoitre.vn/bill-gates-sap-ra-dieu-tran-ve-moi-quan-he-voi-ti-phu-au-dam-epstein-20260610173759018.htm) - 10:47 10/06/2026
+- 🚀 [Diễn đàn Tương lai ASEAN lập kỷ lục với hơn 1.200 đại biểu từ khắp thế giới](https://tuoitre.vn/dien-dan-tuong-lai-asean-lap-ky-luc-voi-hon-1-200-dai-bieu-tu-khap-the-gioi-2026061017131661.htm) - 10:33 10/06/2026
+- 🧐 [Đại tướng Phan Văn Giang: Mong Mỹ tăng cường chia sẻ thông tin về bộ đội Việt Nam trong chiến tranh](https://tuoitre.vn/dai-tuong-phan-van-giang-mong-my-tang-cuong-chia-se-thong-tin-ve-bo-doi-viet-nam-trong-chien-tranh-20260610170103502.htm) - 10:24 10/06/2026
+- 🕯 [Phá công xưởng cực lớn bào chế ma túy ngay tại Bangkok](https://tuoitre.vn/pha-cong-xuong-cuc-lon-bao-che-ma-tuy-ngay-tai-bangkok-20260610170946571.htm) - 10:20 10/06/2026
+- 💂 [Nga, Trung Quốc lên tiếng về chiến sự Mỹ - Iran](https://tuoitre.vn/nga-trung-quoc-len-tieng-ve-chien-su-my-iran-2026061017094381.htm) - 10:16 10/06/2026
+- 🦒 [Chồng ép vợ bán dâm cho 120 người suốt 3 năm](https://tuoitre.vn/chong-ep-vo-ban-dam-cho-120-nguoi-suot-3-nam-20260610164214076.htm) - 09:58 10/06/2026
+- 🔭 [TP.HCM và Indonesia: Còn nhiều tiềm năng hợp tác chưa khai thác](https://tuoitre.vn/tp-hcm-va-indonesia-con-nhieu-tiem-nang-hop-tac-chua-khai-thac-20260610160437719.htm) - 09:30 10/06/2026
+- 👨‍🏫 [Trung Đông chiều 10-6: Iran nêu lý do tấn công đáp trả Mỹ; Bahrain đánh chặn tên lửa Iran](https://tuoitre.vn/trung-dong-chieu-10-6-iran-neu-ly-do-tan-cong-dap-tra-my-bahrain-danh-chan-ten-lua-iran-20260610160328751.htm) - 09:18 10/06/2026
+- 🦆 [Xả súng hàng loạt tại Nam Phi, 12 người thiệt mạng](https://tuoitre.vn/xa-sung-hang-loat-tai-nam-phi-12-nguoi-thiet-mang-20260610154454472.htm) - 08:59 10/06/2026<!-- tuoitre-the-gioi:END -->
