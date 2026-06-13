@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Sĩ tử chia sẻ về đề văn&quot;làm thế nào để có những Steve Jobs Việt Nam?&quot;](https://dantri.com.vn/giao-duc/si-tu-chia-se-ve-de-vanlam-the-nao-de-co-nhung-steve-jobs-viet-nam-20260611224543042.htm) - 15:57 11/06/2026
-- 🗽 [Nữ sinh phải khâu 8 mũi ở mặt trước khi vào phòng thi](https://dantri.com.vn/giao-duc/nu-sinh-phai-khau-8-mui-o-mat-truoc-khi-vao-phong-thi-20260611181845274.htm) - 13:22 11/06/2026
-- 🚦 [Trường nội trú thuê xe điện chở gần 100 thí sinh đi thi](https://dantri.com.vn/giao-duc/truong-noi-tru-thue-xe-dien-cho-gan-100-thi-sinh-di-thi-20260611182007805.htm) - 13:20 11/06/2026
-- 🌋 [Đề toán tốt nghiệp THPT, dễ vượt qua trung bình, sẽ ít điểm 8](https://dantri.com.vn/giao-duc/de-toan-tot-nghiep-thpt-de-vuot-qua-trung-binh-se-it-diem-8-20260611174745480.htm) - 13:18 11/06/2026
-- 🏊 [Ngày đầu thi tốt nghiệp THPT: 25 thí sinh dùng điện thoại di động](https://dantri.com.vn/giao-duc/ngay-dau-thi-tot-nghiep-thpt-25-thi-sinh-dung-dien-thoai-di-dong-20260610213817790.htm) - 11:12 11/06/2026
-- 🎃 [Nhiều thí sinh tiếc nuối vì &quot;đánh mất&quot; điểm 10 môn toán tốt nghiệp THPT](https://dantri.com.vn/giao-duc/nhieu-thi-sinh-tiec-nuoi-vi-danh-mat-diem-10-mon-toan-tot-nghiep-thpt-20260610210726727.htm) - 10:00 11/06/2026
-- 💄 [Steve Jobs, Mark Zuckerberg, Elon Musk vào đề văn tốt nghiệp 2026 là ai?](https://dantri.com.vn/giao-duc/steve-jobs-mark-zuckerberg-elon-musk-vao-de-van-tot-nghiep-2026-la-ai-20260611161113233.htm) - 09:53 11/06/2026
-- 🦅 [Vin Nexus Center gia nhập ASDAN](https://dantri.com.vn/giao-duc/vin-nexus-center-gia-nhap-asdan-20260611153947898.htm) - 09:09 11/06/2026
-- 🚦 [Tặng bằng khen cho học sinh duy nhất giành “vàng” tại Olympic Toán châu Á](https://dantri.com.vn/giao-duc/tang-bang-khen-cho-hoc-sinh-duy-nhat-gianh-vang-tai-olympic-toan-chau-a-20260611152311236.htm) - 08:31 11/06/2026
-- 🐵 [Đáp án đề thi môn toán thi tốt nghiệp THPT 2026: Mã đề 0120](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0120-20260611072104335.htm) - 08:30 11/06/2026
-- 🐘 [Đáp án đề thi môn toán thi tốt nghiệp THPT 2026: Mã đề 0101](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0101-20260611071540172.htm) - 08:30 11/06/2026
-- 🦏 [Đáp án đề thi môn toán tốt nghiệp THPT 2026: Mã đề 0121-0124](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-tot-nghiep-thpt-2026-ma-de-0121-0124-20260611070754942.htm) - 08:30 11/06/2026
-- 💼 [Đáp án môn toán thi tốt nghiệp THPT 2026: Mã đề 0111-0120](https://dantri.com.vn/giao-duc/dap-an-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0111-0120-20260611065956434.htm) - 08:30 11/06/2026
-- ⛽️ [Đáp án môn toán thi tốt nghiệp THPT 2026: Mã đề 0101-0110](https://dantri.com.vn/giao-duc/dap-an-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0101-0110-20260611064748808.htm) - 08:30 11/06/2026
-- 🎭 [Đáp án 24 mã đề môn toán thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-24-ma-de-mon-toan-thi-tot-nghiep-thpt-2026-20260610092647336.htm) - 08:30 11/06/2026
-- 🎃 [Giám thị phát hiện bất thường trong túi quần thí sinh khi đi vệ sinh vào](https://dantri.com.vn/giao-duc/giam-thi-phat-hien-bat-thuong-trong-tui-quan-thi-sinh-khi-di-ve-sinh-vao-20260611145707371.htm) - 08:09 11/06/2026
-- 🚀 [Tiếng kẻng hy vọng của nam sinh mất cha vì Covid-19, suýt dang dở việc học](https://dantri.com.vn/giao-duc/tieng-keng-hy-vong-cua-nam-sinh-mat-cha-vi-covid-19-suyt-dang-do-viec-hoc-20260611134238177.htm) - 07:50 11/06/2026
-- 👀 [Đề thi văn tốt nghiệp THPT 2026: Hay nhưng khó, điểm 8-9 có thể giảm mạnh](https://dantri.com.vn/giao-duc/de-thi-van-tot-nghiep-thpt-2026-hay-nhung-kho-diem-8-9-co-the-giam-manh-20260611133206613.htm) - 07:36 11/06/2026
-- 🌝 [Đề thi toán tốt nghiệp THPT 2026: Thí sinh than đề khó, dài](https://dantri.com.vn/giao-duc/de-thi-toan-tot-nghiep-thpt-2026-thi-sinh-than-de-kho-dai-20260611141008873.htm) - 07:33 11/06/2026
-- 🤗 [Bí thư Chi bộ 36 tuổi dự thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/bi-thu-chi-bo-36-tuoi-du-thi-tot-nghiep-thpt-2026-20260611123524360.htm) - 06:04 11/06/2026
-- 🦄 [Thí sinh đi lạc điểm thi hơn 30km](https://dantri.com.vn/giao-duc/thi-sinh-di-lac-diem-thi-hon-30km-20260611125148908.htm) - 05:59 11/06/2026
-- 🦍 [Dùng thiết bị đặc biệt ngăn gian lận thi tốt nghiệp THPT](https://dantri.com.vn/giao-duc/dung-thiet-bi-dac-biet-ngan-gian-lan-thi-tot-nghiep-thpt-20260611121226728.htm) - 05:58 11/06/2026
-- 🪄 [Phòng thi đặc biệt chỉ một nữ sinh nằm trên băng ca](https://dantri.com.vn/giao-duc/phong-thi-dac-biet-chi-mot-nu-sinh-nam-tren-bang-ca-20260611121246076.htm) - 05:56 11/06/2026
-- 🦆 [12 thí sinh bị đình chỉ trong môn thi ngữ văn tốt nghiệp THPT năm 2026](https://dantri.com.vn/giao-duc/12-thi-sinh-bi-dinh-chi-trong-mon-thi-ngu-van-tot-nghiep-thpt-nam-2026-20260610205810636.htm) - 05:43 11/06/2026
-- 🚀 [Sĩ tử Hà Nội rạng rỡ sau bài thi môn ngữ văn tốt nghiệp THPT](https://dantri.com.vn/giao-duc/si-tu-ha-noi-rang-ro-sau-bai-thi-mon-ngu-van-tot-nghiep-thpt-20260611110446010.htm) - 04:21 11/06/2026
-- 🦒 [Phụ huynh, thí sinh TPHCM phấn khởi sau môn thi đầu tiên kỳ thi THPT 2026](https://dantri.com.vn/giao-duc/phu-huynh-thi-sinh-tphcm-phan-khoi-sau-mon-thi-dau-tien-ky-thi-thpt-2026-20260611091504945.htm) - 04:04 11/06/2026
-- 🤡 [91 thí sinh Nghệ An vắng thi môn văn tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/91-thi-sinh-nghe-an-vang-thi-mon-van-tot-nghiep-thpt-2026-20260611105541873.htm) - 03:59 11/06/2026
-- 🤔 [Đề văn thi tốt nghiệp THPT 2026 bất ngờ đảo trọng tâm](https://dantri.com.vn/giao-duc/de-van-thi-tot-nghiep-thpt-2026-bat-ngo-dao-trong-tam-20260611102443815.htm) - 03:33 11/06/2026
-- 🧑‍💻 [Sách của blogger nổi tiếng vào đề văn thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/sach-cua-blogger-noi-tieng-vao-de-van-thi-tot-nghiep-thpt-2026-20260611100345725.htm) - 03:07 11/06/2026
-- 🤡 [Ngủ quên trong buổi thi đầu tiên, nữ sinh được công an đến nhà &quot;giải cứu&quot;](https://dantri.com.vn/giao-duc/ngu-quen-trong-buoi-thi-dau-tien-nu-sinh-duoc-cong-an-den-nha-giai-cuu-20260611094236638.htm) - 02:55 11/06/2026
-- 🧠 [Đáp án, đề thi tất cả các môn thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-tat-ca-cac-mon-thi-tot-nghiep-thpt-2026-20260611093253887.htm) - 02:42 11/06/2026
-- 🧑‍💻 [Đáp án, đề thi môn ngữ văn tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-ngu-van-tot-nghiep-thpt-2026-20260610213324290.htm) - 02:42 11/06/2026
-- 🧠 [Cảnh sát bật còi ưu tiên đưa nữ thí sinh ngủ quên đến điểm thi](https://dantri.com.vn/giao-duc/canh-sat-bat-coi-uu-tien-dua-nu-thi-sinh-ngu-quen-den-diem-thi-20260611085101996.htm) - 02:03 11/06/2026
-- 😎 [Người mẹ lao công nhặt con ngoài hẻm: &quot;Không có tiền cũng ráng cho con học tới nơi tới chốn&quot;](https://dantri.com.vn/giao-duc/nguoi-me-lao-cong-nhat-con-ngoai-hem-khong-co-tien-cung-rang-cho-con-hoc-toi-noi-toi-chon-20260610214700774.htm) - 02:01 11/06/2026
-- 🕴 [Giáo viên nhận xét đề văn là &quot;bước tiến lớn&quot; của Bộ Giáo dục](https://dantri.com.vn/giao-duc/giao-vien-nhan-xet-de-van-la-buoc-tien-lon-cua-bo-giao-duc-20260610083155203.htm) - 02:00 11/06/2026
-- 🧠 [Thí sinh bị tai nạn gãy tay ngay trước kỳ thi tốt nghiệp THPT](https://dantri.com.vn/giao-duc/thi-sinh-bi-tai-nan-gay-tay-ngay-truoc-ky-thi-tot-nghiep-thpt-20260611082555562.htm) - 01:36 11/06/2026
-- 🚀 [Lãnh đạo tỉnh đến điểm thi cổ vũ thí sinh trước giờ G](https://dantri.com.vn/giao-duc/lanh-dao-tinh-den-diem-thi-co-vu-thi-sinh-truoc-gio-g-20260611074904001.htm) - 01:02 11/06/2026
-- 🕯 [Hơn 1,2 triệu thí sinh đang làm bài thi môn văn](https://dantri.com.vn/giao-duc/hon-12-trieu-thi-sinh-dang-lam-bai-thi-mon-van-20260611035246434.htm) - 22:19 10/06/2026
-- 🧰 [Nữ sinh đến nhầm điểm thi cách xa hơn 20km](https://dantri.com.vn/giao-duc/nu-sinh-den-nham-diem-thi-cach-xa-hon-20km-20260610190225050.htm) - 12:58 10/06/2026
-- ⛽️ [Trước giờ G thi tốt nghiệp THPT 2026, Bộ trưởng GD&amp;ĐT lưu ý về cách ra đề](https://dantri.com.vn/giao-duc/truoc-gio-g-thi-tot-nghiep-thpt-2026-bo-truong-gddt-luu-y-ve-cach-ra-de-20260610173510148.htm) - 11:03 10/06/2026
-- 🤖 [TPHCM lần đầu tiên vận chuyển đề thi, bài thi bằng đường hàng không](https://dantri.com.vn/giao-duc/tphcm-lan-dau-tien-van-chuyen-de-thi-bai-thi-bang-duong-hang-khong-20260610153020564.htm) - 10:03 10/06/2026
-- 🦍 [Sĩ tử Hà Nội tự tin trước ngày thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/si-tu-ha-noi-tu-tin-truoc-ngay-thi-tot-nghiep-thpt-2026-20260610164000940.htm) - 10:03 10/06/2026
-- 🐘 [Bộ trưởng Hoàng Minh Sơn thị sát điểm thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/bo-truong-hoang-minh-son-thi-sat-diem-thi-tot-nghiep-thpt-2026-20260610162906585.htm) - 09:38 10/06/2026
-- 🌊 [Hơn 142.000 thí sinh TPHCM sẵn sàng cho kỳ thi lớn nhất cả nước](https://dantri.com.vn/giao-duc/hon-142000-thi-sinh-tphcm-san-sang-cho-ky-thi-lon-nhat-ca-nuoc-20260610155100541.htm) - 09:11 10/06/2026
-- 🕯 [TPHCM: 8 thí sinh đặc biệt được thi ở phòng riêng, có người viết hộ bài](https://dantri.com.vn/giao-duc/tphcm-8-thi-sinh-dac-biet-duoc-thi-o-phong-rieng-co-nguoi-viet-ho-bai-20260610150535788.htm) - 08:19 10/06/2026
-- 🐎 [Thêm một tỉnh công bố điểm thi lớp 10 năm 2026](https://dantri.com.vn/giao-duc/them-mot-tinh-cong-bo-diem-thi-lop-10-nam-2026-20260609160227948.htm) - 06:45 10/06/2026
-- 🐻 [Cách tra cứu điểm thi lớp 10 năm 2026 của tỉnh Bắc Ninh](https://dantri.com.vn/giao-duc/cach-tra-cuu-diem-thi-lop-10-nam-2026-cua-tinh-bac-ninh-20260607070129465.htm) - 06:42 10/06/2026
-- 🐎 [Nữ thủ khoa đầu tiên trong lịch sử Trường Phổ thông Năng khiếu](https://dantri.com.vn/giao-duc/nu-thu-khoa-dau-tien-trong-lich-su-truong-pho-thong-nang-khieu-20260610132435050.htm) - 06:35 10/06/2026
-- 🫣 [Trường đầu tiên ở TPHCM công bố điểm chuẩn lớp 10 năm 2026](https://dantri.com.vn/giao-duc/truong-dau-tien-o-tphcm-cong-bo-diem-chuan-lop-10-nam-2026-20260610090354312.htm) - 02:30 10/06/2026
-- 🤭 [Nam sinh vừa học, vừa làm vẫn ẵm học bổng suốt 4 năm nhờ thích xin “học ké”](https://dantri.com.vn/giao-duc/nam-sinh-vua-hoc-vua-lam-van-am-hoc-bong-suot-4-nam-nho-thich-xin-hoc-ke-20260607135111375.htm) - 02:02 10/06/2026
-- 🥳 [Hôm nay, hơn 1,2 triệu thí sinh làm thủ tục dự thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/hom-nay-hon-12-trieu-thi-sinh-lam-thu-tuc-du-thi-tot-nghiep-thpt-2026-20260609161507404.htm) - 23:30 09/06/2026
-- 🎭 [Nam sinh mặc quần rách đi nhận giấy khen, cô giáo bất ngờ làm điều xúc động](https://dantri.com.vn/giao-duc/nam-sinh-mac-quan-rach-di-nhan-giay-khen-co-giao-bat-ngo-lam-dieu-xuc-dong-20260607114807075.htm) - 23:00 09/06/2026
-- 🥸 [Học sinh từ đặc khu vào đất liền thi tốt nghiệp THPT được ăn, nghỉ miễn phí](https://dantri.com.vn/giao-duc/hoc-sinh-tu-dac-khu-vao-dat-lien-thi-tot-nghiep-thpt-duoc-an-nghi-mien-phi-20260609151955251.htm) - 10:08 09/06/2026
-- 🦣 [Công an nêu vấn đề &quot;tối mật&quot; thí sinh cần đặc biệt lưu ý](https://dantri.com.vn/giao-duc/cong-an-neu-van-de-toi-mat-thi-sinh-can-dac-biet-luu-y-20260609145347991.htm) - 09:06 09/06/2026
-- 🤔 [Đã có 14 tỉnh công bố điểm thi, 6 tỉnh công bố điểm chuẩn lớp 10 năm 2026](https://dantri.com.vn/giao-duc/da-co-14-tinh-cong-bo-diem-thi-6-tinh-cong-bo-diem-chuan-lop-10-nam-2026-20260605103542411.htm) - 08:50 09/06/2026
-- 🦣 [Lào Cai công bố điểm thi, điểm chuẩn vào lớp 10 năm 2026](https://dantri.com.vn/giao-duc/lao-cai-cong-bo-diem-thi-diem-chuan-vao-lop-10-nam-2026-20260607140417534.htm) - 07:50 09/06/2026
-- 🐲 [Gọi nhầm cô là bác, nữ sinh ngoại quốc nhận bài học về cách dùng tiếng Việt](https://dantri.com.vn/giao-duc/goi-nham-co-la-bac-nu-sinh-ngoai-quoc-nhan-bai-hoc-ve-cach-dung-tieng-viet-20260608210317369.htm) - 07:45 09/06/2026
-- 🔭 [Bộ Giáo dục giải thích đề xuất &quot;liên thông từ bậc học cao xuống thấp hơn&quot;](https://dantri.com.vn/giao-duc/bo-giao-duc-giai-thich-de-xuat-lien-thong-tu-bac-hoc-cao-xuong-thap-hon-20260609113857303.htm) - 06:11 09/06/2026
-- 🥷 [Kỳ thi tốt nghiệp THPT đầu tiên sau sáp nhập và những con số chưa từng có](https://dantri.com.vn/giao-duc/ky-thi-tot-nghiep-thpt-dau-tien-sau-sap-nhap-va-nhung-con-so-chua-tung-co-20260608231217329.htm) - 01:57 09/06/2026
-- 🎊 [Nhiều “tin đồn” về điểm thi lớp 10, trường chuyên ở TPHCM cảnh báo khẩn](https://dantri.com.vn/giao-duc/nhieu-tin-don-ve-diem-thi-lop-10-truong-chuyen-o-tphcm-canh-bao-khan-20260609054532099.htm) - 00:05 09/06/2026<!-- dantri-giao-duc:END -->
+- 🤡 [Trường Đại học CMC nhận hồ sơ xét học bạ 2026](https://dantri.com.vn/giao-duc/truong-dai-hoc-cmc-nhan-ho-so-xet-hoc-ba-2026-20260612231030778.htm) - 01:00 13/06/2026
+- 🗽 [Nữ giáo viên trẻ tận tuỵ nơi vùng cao](https://dantri.com.vn/giao-duc/nu-giao-vien-tre-tan-tuy-noi-vung-cao-20260612152935838.htm) - 00:44 13/06/2026
+- 🚦 [Thí sinh nhận xét về đề thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/thi-sinh-nhan-xet-ve-de-thi-tot-nghiep-thpt-2026-20260612214457247.htm) - 00:08 13/06/2026
+- 🌋 [Lời cảm ơn bảo vệ, cụ bà nhặt phế liệu trong luận văn gây xúc động](https://dantri.com.vn/giao-duc/loi-cam-on-bao-ve-cu-ba-nhat-phe-lieu-trong-luan-van-gay-xuc-dong-20260608122718229.htm) - 23:30 12/06/2026
+- 🏊 [69 thí sinh bị đình chỉ vì mang điện thoại vào phòng thi tốt nghiệp THPT](https://dantri.com.vn/giao-duc/69-thi-sinh-bi-dinh-chi-vi-mang-dien-thoai-vao-phong-thi-tot-nghiep-thpt-20260612233207364.htm) - 23:14 12/06/2026
+- 🎃 [Khi nào công bố đáp án chính thức tốt nghiệp THPT 2026?](https://dantri.com.vn/giao-duc/khi-nao-cong-bo-dap-an-chinh-thuc-tot-nghiep-thpt-2026-20260612115345945.htm) - 23:00 12/06/2026
+- 💄 [Muôn vàn cảm xúc sau cánh cửa phòng thi ở TPHCM](https://dantri.com.vn/giao-duc/muon-van-cam-xuc-sau-canh-cua-phong-thi-o-tphcm-20260611174117161.htm) - 13:54 12/06/2026
+- 🦅 [Thứ trưởng Bộ Giáo dục: Đề thi mở thì đáp án phải mở](https://dantri.com.vn/giao-duc/thu-truong-bo-giao-duc-de-thi-mo-thi-dap-an-phai-mo-20260612190534952.htm) - 13:03 12/06/2026
+- 🚦 [Phương pháp chấm thi môn văn Rubric lần đầu tiên được áp dụng như thế nào?](https://dantri.com.vn/giao-duc/phuong-phap-cham-thi-mon-van-rubric-lan-dau-tien-duoc-ap-dung-nhu-the-nao-20260612172232150.htm) - 10:35 12/06/2026
+- 🐵 [Bộ GD&amp;ĐT: Câu hỏi liên quan đến Steve Jobs để phân hoá học sinh](https://dantri.com.vn/giao-duc/bo-gddt-cau-hoi-lien-quan-den-steve-jobs-de-phan-hoa-hoc-sinh-20260612114258130.htm) - 08:06 12/06/2026
+- 🐘 [Nhìn lại những &quot;điểm sáng&quot; của đề văn tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/nhin-lai-nhung-diem-sang-cua-de-van-tot-nghiep-thpt-2026-20260612083346969.htm) - 07:53 12/06/2026
+- 🦏 [Thấy bạn mang điện thoại vào phòng thi, thí sinh báo ngay giám thị](https://dantri.com.vn/giao-duc/thay-ban-mang-dien-thoai-vao-phong-thi-thi-sinh-bao-ngay-giam-thi-20260612122405838.htm) - 05:53 12/06/2026
+- 💼 [Đáp án đề thi môn lịch sử thi tốt nghiệp THPT 2026 mã đề 0825 đến 0848](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-lich-su-thi-tot-nghiep-thpt-2026-ma-de-0825-den-0848-20260610231153030.htm) - 04:16 12/06/2026
+- ⛽️ [Đáp án đề thi môn lịch sử tốt nghiệp THPT 2026 mã đề từ 0801 đến 0824](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-lich-su-tot-nghiep-thpt-2026-ma-de-tu-0801-den-0824-20260610231631397.htm) - 04:12 12/06/2026
+- 🎭 [Đáp án, đề thi môn địa lý mã đề 0917-0932 thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-dia-ly-ma-de-0917-0932-thi-tot-nghiep-thpt-2026-20260611165924820.htm) - 02:41 12/06/2026
+- 🎃 [Đáp án, đề thi môn địa lý mã đề từ 0901 đến 0916 thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-dia-ly-ma-de-tu-0901-den-0916-thi-tot-nghiep-thpt-2026-20260611170556945.htm) - 02:40 12/06/2026
+- 🚀 [Đáp án, đề thi môn địa lý mã đề 0933-0948 thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-dia-ly-ma-de-0933-0948-thi-tot-nghiep-thpt-2026-20260611201608556.htm) - 02:39 12/06/2026
+- 👀 [Đáp án môn vật lý mã đề 0233-0248 kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-mon-vat-ly-ma-de-0233-0248-ky-thi-tot-nghiep-thpt-2026-20260611091147575.htm) - 02:38 12/06/2026
+- 🌝 [Đáp án môn vật lý mã đề 0225 đến 0248 kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-mon-vat-ly-ma-de-0225-den-0248-ky-thi-tot-nghiep-thpt-2026-20260611091721948.htm) - 02:37 12/06/2026
+- 🤗 [Đáp án môn vật lý mã đề 0201-0224 kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-mon-vat-ly-ma-de-0201-0224-ky-thi-tot-nghiep-thpt-2026-20260611085819493.htm) - 02:36 12/06/2026
+- 🦄 [Đáp án 48 mã đề môn tiếng Anh thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-48-ma-de-mon-tieng-anh-thi-tot-nghiep-thpt-2026-20260611083341554.htm) - 02:34 12/06/2026
+- 🦍 [Đáp án môn tiếng Anh thi tốt nghiệp 2026: Mã đề từ 1101 đến 1124](https://dantri.com.vn/giao-duc/dap-an-mon-tieng-anh-thi-tot-nghiep-2026-ma-de-tu-1101-den-1124-20260611144811267.htm) - 02:19 12/06/2026
+- 🪄 [Đáp án mã đề 1101 thi tiếng Anh tốt nghiệp 2026](https://dantri.com.vn/giao-duc/dap-an-ma-de-1101-thi-tieng-anh-tot-nghiep-2026-20260611145317424.htm) - 02:17 12/06/2026
+- 🦆 [Đáp án môn địa lý thi tốt nghiệp THPT 2026: Mã đề từ 0925 đến 0948](https://dantri.com.vn/giao-duc/dap-an-mon-dia-ly-thi-tot-nghiep-thpt-2026-ma-de-tu-0925-den-0948-20260611214535461.htm) - 02:16 12/06/2026
+- 🚀 [Đáp án môn địa lý tốt nghiệp THPT 2026: Mã đề từ 0901 đến 0924](https://dantri.com.vn/giao-duc/dap-an-mon-dia-ly-tot-nghiep-thpt-2026-ma-de-tu-0901-den-0924-20260611214751378.htm) - 02:15 12/06/2026
+- 🦒 [Đề và đáp án tất cả các mã đề môn giáo dục kinh tế và pháp luật](https://dantri.com.vn/giao-duc/de-va-dap-an-tat-ca-cac-ma-de-mon-giao-duc-kinh-te-va-phap-luat-20260612022940316.htm) - 02:15 12/06/2026
+- 🤡 [Đáp án tất cả các mã đề môn tin học tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-tat-ca-cac-ma-de-mon-tin-hoc-tot-nghiep-thpt-2026-20260611210828042.htm) - 02:15 12/06/2026
+- 🤔 [Đề và đáp án tất cả các mã đề môn công nghệ - công nghiệp](https://dantri.com.vn/giao-duc/de-va-dap-an-tat-ca-cac-ma-de-mon-cong-nghe-cong-nghiep-20260611205753872.htm) - 02:15 12/06/2026
+- 🧑‍💻 [Đáp án đề thi môn hoá tốt nghiệp THPT 2026: Mã đề từ 0325 đến 0348](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-hoa-tot-nghiep-thpt-2026-ma-de-tu-0325-den-0348-20260611194326383.htm) - 02:15 12/06/2026
+- 🤡 [Đáp án môn hóa thi tốt nghiệp THPT 2026: Mã đề từ 0301 đến 0324](https://dantri.com.vn/giao-duc/dap-an-mon-hoa-thi-tot-nghiep-thpt-2026-ma-de-tu-0301-den-0324-20260611194030162.htm) - 02:15 12/06/2026
+- 🧠 [Đáp án, đề thi tất cả các môn thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-de-thi-tat-ca-cac-mon-thi-tot-nghiep-thpt-2026-20260611093253887.htm) - 02:13 12/06/2026
+- 🧑‍💻 [Đề thi môn lịch sử kỳ thi tốt nghiệp THPT năm 2026](https://dantri.com.vn/giao-duc/de-thi-mon-lich-su-ky-thi-tot-nghiep-thpt-nam-2026-20260612083324143.htm) - 02:10 12/06/2026
+- 🧠 [Đáp án môn công nghệ - nông nghiệp thi tốt nghiệp THPT 2026 tất cả mã đề](https://dantri.com.vn/giao-duc/dap-an-mon-cong-nghe-nong-nghiep-thi-tot-nghiep-thpt-2026-tat-ca-ma-de-20260611200234429.htm) - 02:00 12/06/2026
+- 😎 [Đáp án tiếng Anh thi tốt nghiệp 2026: Mã đề từ 1125 đến 1148](https://dantri.com.vn/giao-duc/dap-an-tieng-anh-thi-tot-nghiep-2026-ma-de-tu-1125-den-1148-20260611144434946.htm) - 02:00 12/06/2026
+- 🕴 [Đề thi môn giáo dục kinh tế và pháp luật tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/de-thi-mon-giao-duc-kinh-te-va-phap-luat-tot-nghiep-thpt-2026-20260611090612016.htm) - 02:00 12/06/2026
+- 🧠 [Đề thi, đáp án 48 mã đề môn hoá tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/de-thi-dap-an-48-ma-de-mon-hoa-tot-nghiep-thpt-2026-20260610212008287.htm) - 02:00 12/06/2026
+- 🚀 [Đáp án 48 mã đề môn lịch sử kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-48-ma-de-mon-lich-su-ky-thi-tot-nghiep-thpt-2026-20260610195257361.htm) - 02:00 12/06/2026
+- 🕯 [Đề thi môn địa lý kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/de-thi-mon-dia-ly-ky-thi-tot-nghiep-thpt-2026-20260610194717150.htm) - 02:00 12/06/2026
+- 🧰 [Đáp án 48 mã đề môn địa lý kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-48-ma-de-mon-dia-ly-ky-thi-tot-nghiep-thpt-2026-20260610194333409.htm) - 02:00 12/06/2026
+- ⛽️ [Đề thi, đáp án 48 mã đề môn sinh kỳ thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/de-thi-dap-an-48-ma-de-mon-sinh-ky-thi-tot-nghiep-thpt-2026-20260610095722208.htm) - 02:00 12/06/2026
+- 🤖 [Đáp án 48 mã đề môn vật lý tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-48-ma-de-mon-vat-ly-tot-nghiep-thpt-2026-20260610095425680.htm) - 02:00 12/06/2026
+- 🦍 [Đạt 8 điểm/môn vẫn có thể trượt lớp 10 trường top](https://dantri.com.vn/giao-duc/dat-8-diemmon-van-co-the-truot-lop-10-truong-top-20260611164223892.htm) - 23:39 11/06/2026
+- 🐘 [Đề thi tiếng Anh tốt nghiệp 2026: Liệu có lặp lại độ khó của năm trước?](https://dantri.com.vn/giao-duc/de-thi-tieng-anh-tot-nghiep-2026-lieu-co-lap-lai-do-kho-cua-nam-truoc-20260611221617979.htm) - 23:30 11/06/2026
+- 🌊 [Ngày thứ 2 thi tốt nghiệp THPT: Lịch sử, địa lý &quot;áp đảo&quot; môn tự chọn](https://dantri.com.vn/giao-duc/ngay-thu-2-thi-tot-nghiep-thpt-lich-su-dia-ly-ap-dao-mon-tu-chon-20260612015943763.htm) - 22:30 11/06/2026
+- 🕯 [Sĩ tử chia sẻ về đề văn &quot;làm thế nào để có những Steve Jobs Việt Nam?&quot;](https://dantri.com.vn/giao-duc/si-tu-chia-se-ve-de-van-lam-the-nao-de-co-nhung-steve-jobs-viet-nam-20260611224543042.htm) - 22:09 11/06/2026
+- 🐎 [Nữ sinh phải khâu 8 mũi ở mặt trước khi vào phòng thi](https://dantri.com.vn/giao-duc/nu-sinh-phai-khau-8-mui-o-mat-truoc-khi-vao-phong-thi-20260611181845274.htm) - 13:22 11/06/2026
+- 🐻 [Trường nội trú thuê xe điện chở gần 100 thí sinh đi thi](https://dantri.com.vn/giao-duc/truong-noi-tru-thue-xe-dien-cho-gan-100-thi-sinh-di-thi-20260611182007805.htm) - 13:20 11/06/2026
+- 🐎 [Đề toán tốt nghiệp THPT, dễ vượt qua trung bình, sẽ ít điểm 8](https://dantri.com.vn/giao-duc/de-toan-tot-nghiep-thpt-de-vuot-qua-trung-binh-se-it-diem-8-20260611174745480.htm) - 13:18 11/06/2026
+- 🫣 [Ngày đầu thi tốt nghiệp THPT: 25 thí sinh dùng điện thoại di động](https://dantri.com.vn/giao-duc/ngay-dau-thi-tot-nghiep-thpt-25-thi-sinh-dung-dien-thoai-di-dong-20260610213817790.htm) - 11:12 11/06/2026
+- 🤭 [Nhiều thí sinh tiếc nuối vì &quot;đánh mất&quot; điểm 10 môn toán tốt nghiệp THPT](https://dantri.com.vn/giao-duc/nhieu-thi-sinh-tiec-nuoi-vi-danh-mat-diem-10-mon-toan-tot-nghiep-thpt-20260610210726727.htm) - 10:00 11/06/2026
+- 🥳 [Steve Jobs, Mark Zuckerberg, Elon Musk vào đề văn tốt nghiệp 2026 là ai?](https://dantri.com.vn/giao-duc/steve-jobs-mark-zuckerberg-elon-musk-vao-de-van-tot-nghiep-2026-la-ai-20260611161113233.htm) - 09:53 11/06/2026
+- 🎭 [Vin Nexus Center gia nhập ASDAN](https://dantri.com.vn/giao-duc/vin-nexus-center-gia-nhap-asdan-20260611153947898.htm) - 09:09 11/06/2026
+- 🥸 [Tặng bằng khen cho học sinh duy nhất giành “vàng” tại Olympic Toán châu Á](https://dantri.com.vn/giao-duc/tang-bang-khen-cho-hoc-sinh-duy-nhat-gianh-vang-tai-olympic-toan-chau-a-20260611152311236.htm) - 08:31 11/06/2026
+- 🦣 [Đáp án đề thi môn toán thi tốt nghiệp THPT 2026: Mã đề 0120](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0120-20260611072104335.htm) - 08:30 11/06/2026
+- 🤔 [Đáp án đề thi môn toán thi tốt nghiệp THPT 2026: Mã đề 0101](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0101-20260611071540172.htm) - 08:30 11/06/2026
+- 🦣 [Đáp án đề thi môn toán tốt nghiệp THPT 2026: Mã đề 0121-0124](https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-toan-tot-nghiep-thpt-2026-ma-de-0121-0124-20260611070754942.htm) - 08:30 11/06/2026
+- 🐲 [Đáp án môn toán thi tốt nghiệp THPT 2026: Mã đề 0111-0120](https://dantri.com.vn/giao-duc/dap-an-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0111-0120-20260611065956434.htm) - 08:30 11/06/2026
+- 🔭 [Đáp án môn toán thi tốt nghiệp THPT 2026: Mã đề 0101-0110](https://dantri.com.vn/giao-duc/dap-an-mon-toan-thi-tot-nghiep-thpt-2026-ma-de-0101-0110-20260611064748808.htm) - 08:30 11/06/2026
+- 🥷 [Đáp án 24 mã đề môn toán thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-24-ma-de-mon-toan-thi-tot-nghiep-thpt-2026-20260610092647336.htm) - 08:30 11/06/2026
+- 🎊 [Giám thị phát hiện bất thường trong túi quần thí sinh khi đi vệ sinh vào](https://dantri.com.vn/giao-duc/giam-thi-phat-hien-bat-thuong-trong-tui-quan-thi-sinh-khi-di-ve-sinh-vao-20260611145707371.htm) - 08:09 11/06/2026<!-- dantri-giao-duc:END -->
