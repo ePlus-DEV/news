@@ -4,63 +4,63 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Đánh bom xe ở ngoại ô Moscow, quan chức quân đội Nga thiệt mạng](https://dantri.com.vn/the-gioi/danh-bom-xe-o-ngoai-o-moscow-quan-chuc-quan-doi-nga-thiet-mang-20260610073508082.htm) - 00:43 10/06/2026
-- 🎬 [Trung Quốc, Triều Tiên đạt “đồng thuận quan trọng”](https://dantri.com.vn/the-gioi/trung-quoc-trieu-tien-dat-dong-thuan-quan-trong-20260610064734078.htm) - 00:18 10/06/2026
-- 🧰 [Mỹ không kích dồn dập, Iran lập tức đáp trả](https://dantri.com.vn/the-gioi/my-khong-kich-don-dap-iran-lap-tuc-dap-tra-20260610051729975.htm) - 22:19 09/06/2026
-- 🌋 [Nổ liên tiếp đường ống khí đốt Nga, lửa cháy dữ dội](https://dantri.com.vn/the-gioi/no-lien-tiep-duong-ong-khi-dot-nga-lua-chay-du-doi-20260610023508565.htm) - 22:19 09/06/2026
-- 🗽 [Iran &quot;bắn hạ trực thăng&quot; Mỹ, Tổng thống Trump cảnh báo đanh thép](https://dantri.com.vn/the-gioi/iran-ban-ha-truc-thang-my-tong-thong-trump-canh-bao-danh-thep-20260610011918550.htm) - 22:14 09/06/2026
-- 💻 [Ukraine muốn dùng tiền tỷ phú Nga bán Chelsea mua lá chắn phòng không](https://dantri.com.vn/the-gioi/ukraine-muon-dung-tien-ty-phu-nga-ban-chelsea-mua-la-chan-phong-khong-20260609215649549.htm) - 15:23 09/06/2026
-- ⛽️ [Vì sao nền kinh tế Iran vẫn chống chịu bất chấp áp lực dồn dập từ Mỹ?](https://dantri.com.vn/the-gioi/vi-sao-nen-kinh-te-iran-van-chong-chiu-bat-chap-ap-luc-don-dap-tu-my-20260609213448812.htm) - 14:58 09/06/2026
-- 🤩 [Iran mở rộng “vành đai an ninh” từ eo biển Hormuz đến Bab el-Mandab](https://dantri.com.vn/the-gioi/iran-mo-rong-vanh-dai-an-ninh-tu-eo-bien-hormuz-den-bab-el-mandab-20260609203653590.htm) - 13:40 09/06/2026
-- 🧐 [Tổng thống Trump: Iran, Israel đồng ý ngừng bắn một tuần](https://dantri.com.vn/the-gioi/tong-thong-trump-iran-israel-dong-y-ngung-ban-mot-tuan-20260609182505236.htm) - 11:39 09/06/2026
-- 🎊 [Trung Quốc thử nghiệm robot giúp việc gia đình](https://dantri.com.vn/the-gioi/trung-quoc-thu-nghiem-robot-giup-viec-gia-dinh-20260609152603592.htm) - 08:38 09/06/2026
-- 📝 [Cách Nga thu hút lính tình nguyện tham chiến ở Ukraine](https://dantri.com.vn/the-gioi/cach-nga-thu-hut-linh-tinh-nguyen-tham-chien-o-ukraine-20260609152849879.htm) - 08:34 09/06/2026
-- 🤡 [Cựu quan chức Lầu Năm Góc: Mỹ có khả năng khơi thông Hormuz](https://dantri.com.vn/the-gioi/cuu-quan-chuc-lau-nam-goc-my-co-kha-nang-khoi-thong-hormuz-20260609142147882.htm) - 07:33 09/06/2026
-- 🥷 [Trực thăng tấn công của Mỹ rơi gần eo biển Hormuz](https://dantri.com.vn/the-gioi/truc-thang-tan-cong-cua-my-roi-gan-eo-bien-hormuz-20260609123841271.htm) - 06:55 09/06/2026
-- 🏊 [Trung Quốc xây siêu dự án đường thủy mới ở đập Tam Hiệp](https://dantri.com.vn/the-gioi/trung-quoc-xay-sieu-du-an-duong-thuy-moi-o-dap-tam-hiep-20260609112950617.htm) - 04:34 09/06/2026
-- 🕯 [Chiến sự Ukraine 9/6: Ukraine bị bật khỏi cứ điểm quan trọng ở Nam Donetsk](https://dantri.com.vn/the-gioi/chien-su-ukraine-96-ukraine-bi-bat-khoi-cu-diem-quan-trong-o-nam-donetsk-20260609112940242.htm) - 04:30 09/06/2026
-- 😎 [Tỷ phú Elon Musk sở hữu tài sản vượt GDP của nhiều nước](https://dantri.com.vn/the-gioi/ty-phu-elon-musk-so-huu-tai-san-vuot-gdp-cua-nhieu-nuoc-20260609102647982.htm) - 03:37 09/06/2026
-- 🌈 [Cựu chánh án Tòa Tối cao Ukraine nhận tội tham ô](https://dantri.com.vn/the-gioi/cuu-chanh-an-toa-toi-cao-ukraine-nhan-toi-tham-o-20260609102256217.htm) - 03:30 09/06/2026
-- 💻 [Máy bay chiến đấu NATO lần đầu bắn hạ UAV xâm nhập không phận Latvia](https://dantri.com.vn/the-gioi/may-bay-chien-dau-nato-lan-dau-ban-ha-uav-xam-nhap-khong-phan-latvia-20260608203143366.htm) - 03:28 09/06/2026
-- 🤖 [Chi tiêu cho vũ khí hạt nhân toàn cầu tăng cao kỷ lục](https://dantri.com.vn/the-gioi/chi-tieu-cho-vu-khi-hat-nhan-toan-cau-tang-cao-ky-luc-20260609100342245.htm) - 03:16 09/06/2026
-- 🦏 [100 ngày chiến sự Trung Đông:  Hỏa lực bùng phát, hòa bình vẫn còn xa](https://dantri.com.vn/the-gioi/100-ngay-chien-su-trung-dong-hoa-luc-bung-phat-hoa-binh-van-con-xa-20260608103840040.htm) - 02:10 09/06/2026
-- 🌁 [Nhân chứng kể khoảnh khắc kinh hoàng trong vụ động đất 7,8 độ ở Philippines](https://dantri.com.vn/the-gioi/nhan-chung-ke-khoanh-khac-kinh-hoang-trong-vu-dong-dat-78-do-o-philippines-20260609083745641.htm) - 01:46 09/06/2026
-- 🐘 [Chủ tịch Kim Jong-un nêu nhiệm vụ chiến lược quan trọng nhất của Triều Tiên](https://dantri.com.vn/the-gioi/chu-tich-kim-jong-un-neu-nhiem-vu-chien-luoc-quan-trong-nhat-cua-trieu-tien-20260609072559128.htm) - 00:39 09/06/2026
-- 🥷 [Tòa án Mỹ bác thu phí 100.000 USD đối với thị thực H-1B](https://dantri.com.vn/the-gioi/toa-an-my-bac-thu-phi-100000-usd-doi-voi-thi-thuc-h-1b-20260609071436381.htm) - 00:18 09/06/2026
-- 💻 [Ukraine giao tranh trên mặt trận khốc liệt nhất, giành lại 600km2 lãnh thổ](https://dantri.com.vn/the-gioi/ukraine-giao-tranh-tren-mat-tran-khoc-liet-nhat-gianh-lai-600km2-lanh-tho-20260609061232806.htm) - 23:17 08/06/2026
-- 🎡 [Iran muốn chấm dứt xung đột, Tổng thống Trump nói về kịch bản sau 2 tuần](https://dantri.com.vn/the-gioi/iran-muon-cham-dut-xung-dot-tong-thong-trump-noi-ve-kich-ban-sau-2-tuan-20260609060643096.htm) - 23:15 08/06/2026
-- 🧰 [Động đất mạnh ngoài khơi Cuba](https://dantri.com.vn/the-gioi/dong-dat-manh-ngoai-khoi-cuba-20260609052854515.htm) - 22:40 08/06/2026
-- 🥸 [Phản ứng của Nga sau thư ngỏ hòa bình của Tổng thống Ukraine](https://dantri.com.vn/the-gioi/phan-ung-cua-nga-sau-thu-ngo-hoa-binh-cua-tong-thong-ukraine-20260608202238003.htm) - 14:24 08/06/2026
-- ⚗️ [Hệ lụy từ việc Israel gia tăng tấn công Hezbollah tại Li Băng](https://dantri.com.vn/the-gioi/he-luy-tu-viec-israel-gia-tang-tan-cong-hezbollah-tai-li-bang-20260608202352447.htm) - 13:25 08/06/2026
-- 🌮 [Iran bất ngờ ngừng tấn công, cảnh báo đanh thép Israel](https://dantri.com.vn/the-gioi/iran-bat-ngo-ngung-tan-cong-canh-bao-danh-thep-israel-20260608192057793.htm) - 13:02 08/06/2026
-- 🎃 [Khoảnh khắc thót tim trong trận động đất khiến 32 người chết ở Philippines](https://dantri.com.vn/the-gioi/khoanh-khac-thot-tim-trong-tran-dong-dat-khien-32-nguoi-chet-o-philippines-20260608184921232.htm) - 13:00 08/06/2026
-- 💫 [Những nước tiến tới cấm trẻ em sử dụng mạng xã hội](https://dantri.com.vn/the-gioi/nhung-nuoc-tien-toi-cam-tre-em-su-dung-mang-xa-hoi-20260608172355322.htm) - 11:38 08/06/2026
-- 🪜 [Tổng thống Trump đề nghị Iran và Israel dừng không kích nhau ngay lập tức](https://dantri.com.vn/the-gioi/tong-thong-trump-de-nghi-iran-va-israel-dung-khong-kich-nhau-ngay-lap-tuc-20260608181302567.htm) - 11:22 08/06/2026
-- 🌋 [Houthi bắn tên lửa, tuyên bố cấm tàu Israel vào biển Đỏ](https://dantri.com.vn/the-gioi/houthi-ban-ten-lua-tuyen-bo-cam-tau-israel-vao-bien-do-20260608161107359.htm) - 10:11 08/06/2026
-- 🦏 [822km đường hầm phủ lưới thép của Ukraine bắt bài &quot;sát thủ không chiến&quot; Nga](https://dantri.com.vn/the-gioi/822km-duong-ham-phu-luoi-thep-cua-ukraine-bat-bai-sat-thu-khong-chien-nga-20260608152200429.htm) - 08:32 08/06/2026
-- 👀 [Nhà lãnh đạo Triều Tiên đích thân ra sân bay đón Chủ tịch Trung Quốc](https://dantri.com.vn/the-gioi/nha-lanh-dao-trieu-tien-dich-than-ra-san-bay-don-chu-tich-trung-quoc-20260608150020494.htm) - 08:09 08/06/2026
-- 🧰 [Lãnh đạo Ukraine lần đầu tiết lộ lý do công bố thư ngỏ gửi Tổng thống Putin](https://dantri.com.vn/the-gioi/lanh-dao-ukraine-lan-dau-tiet-lo-ly-do-cong-bo-thu-ngo-gui-tong-thong-putin-20260608144953825.htm) - 07:53 08/06/2026
-- 🚀 [Iran - Israel dồn dập không kích, &quot;đốt nóng&quot; chiến sự Trung Đông](https://dantri.com.vn/the-gioi/iran-israel-don-dap-khong-kich-dot-nong-chien-su-trung-dong-20260608142455347.htm) - 07:28 08/06/2026
-- 🎓 [Các đồng minh châu Âu nêu 5 điều kiện chấm dứt xung đột Ukraine - Nga](https://dantri.com.vn/the-gioi/cac-dong-minh-chau-au-neu-5-dieu-kien-cham-dut-xung-dot-ukraine-nga-20260608121151930.htm) - 07:21 08/06/2026
-- 🥸 [Chiến sự Ukraine 8/6: Nga tiến công ở miền Đông, Kiev hết tên lửa Patriot](https://dantri.com.vn/the-gioi/chien-su-ukraine-86-nga-tien-cong-o-mien-dong-kiev-het-ten-lua-patriot-20260608103046353.htm) - 05:01 08/06/2026
-- 🦅 [Cảnh tan hoang sau động đất rung chuyển Philippines](https://dantri.com.vn/the-gioi/canh-tan-hoang-sau-dong-dat-rung-chuyen-philippines-20260608110157715.htm) - 04:24 08/06/2026
-- 🤭 [Rộ tin Mỹ muốn dùng tài sản Iran bồi thường cho đồng minh, Tehran lên tiếng](https://dantri.com.vn/the-gioi/ro-tin-my-muon-dung-tai-san-iran-boi-thuong-cho-dong-minh-tehran-len-tieng-20260608104342054.htm) - 03:45 08/06/2026
-- 🤖 [Tổng thống Trump bỏ ngang cuộc phỏng vấn sau màn tranh luận với MC](https://dantri.com.vn/the-gioi/tong-thong-trump-bo-ngang-cuoc-phong-van-sau-man-tranh-luan-voi-mc-20260608095339819.htm) - 02:59 08/06/2026
-- 🐲 [Israel không kích trả đũa, nổ lớn rung chuyển Iran](https://dantri.com.vn/the-gioi/israel-khong-kich-tra-dua-no-lon-rung-chuyen-iran-20260608091304218.htm) - 02:54 08/06/2026
-- 🫣 [Rộ tin Mỹ cân nhắc mua lại quần đảo ở Thái Bình Dương](https://dantri.com.vn/the-gioi/ro-tin-my-can-nhac-mua-lai-quan-dao-o-thai-binh-duong-20260608085700490.htm) - 02:06 08/06/2026
-- 🐵 [Tổng thống Ukraine nêu con đường nhanh nhất dẫn tới hòa bình với Nga](https://dantri.com.vn/the-gioi/tong-thong-ukraine-neu-con-duong-nhanh-nhat-dan-toi-hoa-binh-voi-nga-20260608075333787.htm) - 01:13 08/06/2026
-- 🫶 [Ukraine tấn công dồn dập khi Tổng thống Putin bác thư ngỏ hòa bình](https://dantri.com.vn/the-gioi/ukraine-tan-cong-don-dap-khi-tong-thong-putin-bac-thu-ngo-hoa-binh-20260608065056751.htm) - 00:32 08/06/2026
-- 💃 [Thông điệp của Chủ tịch Trung Quốc trước chuyến thăm Triều Tiên](https://dantri.com.vn/the-gioi/thong-diep-cua-chu-tich-trung-quoc-truoc-chuyen-tham-trieu-tien-20260608070705351.htm) - 00:28 08/06/2026
-- 💫 [Động đất 8,2 độ, cảnh báo sóng thần ở Philippines](https://dantri.com.vn/the-gioi/dong-dat-82-do-canh-bao-song-than-o-philippines-20260608072202944.htm) - 00:26 08/06/2026
-- ⚗️ [Tổng thống Trump nêu 2 lựa chọn với Iran sau trận không kích Israel](https://dantri.com.vn/the-gioi/tong-thong-trump-neu-2-lua-chon-voi-iran-sau-tran-khong-kich-israel-20260608061756374.htm) - 23:40 07/06/2026
-- 🥷 [Phản ứng của Mỹ và Israel sau khi Iran không kích](https://dantri.com.vn/the-gioi/phan-ung-cua-my-va-israel-sau-khi-iran-khong-kich-20260608045958684.htm) - 22:31 07/06/2026
-- 🥸 [Iran ồ ạt phóng tên lửa, còi báo động vang khắp Israel](https://dantri.com.vn/the-gioi/iran-o-at-phong-ten-lua-coi-bao-dong-vang-khap-israel-20260608042418973.htm) - 22:26 07/06/2026
-- 🪄 [Tổng thống Trump nêu khả năng điều quân thu giữ uranium của Iran](https://dantri.com.vn/the-gioi/tong-thong-trump-neu-kha-nang-dieu-quan-thu-giu-uranium-cua-iran-20260608000022785.htm) - 22:25 07/06/2026
-- 🧑‍💻 [Tổng thống Trump nhận định về tình trạng của Lãnh tụ Tối cao Iran](https://dantri.com.vn/the-gioi/tong-thong-trump-nhan-dinh-ve-tinh-trang-cua-lanh-tu-toi-cao-iran-20260607223159969.htm) - 15:47 07/06/2026
-- 🤭 [Nga gửi thông điệp sau thư ngỏ hòa bình của Tổng thống Ukraine](https://dantri.com.vn/the-gioi/nga-gui-thong-diep-sau-thu-ngo-hoa-binh-cua-tong-thong-ukraine-20260607201645914.htm) - 14:00 07/06/2026
-- 🗽 [Iran ra điều kiện then chốt với Mỹ sau loạt vụ đấu súng](https://dantri.com.vn/the-gioi/iran-ra-dieu-kien-then-chot-voi-my-sau-loat-vu-dau-sung-20260607183302781.htm) - 12:53 07/06/2026
-- 🤖 [Ukraine cáo buộc Nga tấn công kho chứa nhiên liệu hạt nhân đã qua sử dụng](https://dantri.com.vn/the-gioi/ukraine-cao-buoc-nga-tan-cong-kho-chua-nhien-lieu-hat-nhan-da-qua-su-dung-20260607164419019.htm) - 09:55 07/06/2026
-- 🌈 [Tổng thống Hàn Quốc đề cử Thủ tướng mới](https://dantri.com.vn/the-gioi/tong-thong-han-quoc-de-cu-thu-tuong-moi-20260607163003203.htm) - 09:52 07/06/2026
-- 🤩 [Bộ trưởng Pakistan mang thông điệp của quân đội gửi Lãnh tụ Tối cao Iran](https://dantri.com.vn/the-gioi/bo-truong-pakistan-mang-thong-diep-cua-quan-doi-gui-lanh-tu-toi-cao-iran-20260607150925995.htm) - 08:35 07/06/2026
-- 🤗 [Mỹ ráo riết truy lùng nghi phạm xả súng kinh hoàng tại lễ hội](https://dantri.com.vn/the-gioi/my-rao-riet-truy-lung-nghi-pham-xa-sung-kinh-hoang-tai-le-hoi-20260607134319748.htm) - 08:33 07/06/2026
-- 🙉 [Ukraine liên tiếp phóng hỏa lực tập kích Moscow, Nga hành động khẩn](https://dantri.com.vn/the-gioi/ukraine-lien-tiep-phong-hoa-luc-tap-kich-moscow-nga-hanh-dong-khan-20260607135914426.htm) - 07:43 07/06/2026<!-- dantri-the-gioi:END -->
+- 🌋 [Bên trong căn nhà thuê giá rẻ tỷ phú Elon Musk đang sinh sống](https://dantri.com.vn/the-gioi/ben-trong-can-nha-thue-gia-re-ty-phu-elon-musk-dang-sinh-song-20260614192656968.htm) - 12:53 14/06/2026
+- 🎬 [Tên lửa Nga phơi bày lỗ hổng phòng không của Ukraine](https://dantri.com.vn/the-gioi/ten-lua-nga-phoi-bay-lo-hong-phong-khong-cua-ukraine-20260614155705919.htm) - 09:38 14/06/2026
+- 🧰 [Hungary nêu điều kiện chấp nhận kết nạp Ukraine vào EU](https://dantri.com.vn/the-gioi/hungary-neu-dieu-kien-chap-nhan-ket-nap-ukraine-vao-eu-20260614153421577.htm) - 08:46 14/06/2026
+- 🌋 [Tướng Iran tuyên bố những điều Tehran không bao giờ thỏa hiệp](https://dantri.com.vn/the-gioi/tuong-iran-tuyen-bo-nhung-dieu-tehran-khong-bao-gio-thoa-hiep-20260614142828473.htm) - 07:32 14/06/2026
+- 🗽 [Chiến sự Ukraine 14/6: Nga chặn đường, bao vây Ukraine ở Konstantinovka](https://dantri.com.vn/the-gioi/chien-su-ukraine-146-nga-chan-duong-bao-vay-ukraine-o-konstantinovka-20260614103714372.htm) - 04:40 14/06/2026
+- 💻 [Mỹ trấn áp loạt đường dây &quot;du lịch sinh con&quot;, thu hồi hàng trăm thị thực](https://dantri.com.vn/the-gioi/my-tran-ap-loat-duong-day-du-lich-sinh-con-thu-hoi-hang-tram-thi-thuc-20260614110618844.htm) - 04:12 14/06/2026
+- ⛽️ [Giới siêu giàu ở Mỹ tích trữ tiền mặt kỷ lục](https://dantri.com.vn/the-gioi/gioi-sieu-giau-o-my-tich-tru-tien-mat-ky-luc-20260614103729716.htm) - 04:01 14/06/2026
+- 🤩 [&quot;Cú sốc&quot; giá cả đắt đỏ chưa từng có với người hâm mộ dự World Cup 2026](https://dantri.com.vn/the-gioi/cu-soc-gia-ca-dat-do-chua-tung-co-voi-nguoi-ham-mo-du-world-cup-2026-20260614091850010.htm) - 02:41 14/06/2026
+- 🧐 [Triều Tiên tuyên bố cứng rắn về vũ khí hạt nhân](https://dantri.com.vn/the-gioi/trieu-tien-tuyen-bo-cung-ran-ve-vu-khi-hat-nhan-20260614085420696.htm) - 02:04 14/06/2026
+- 🎊 [Vì sao Iran vẫn nã được tên lửa sau khi Mỹ trút &quot;mưa bom&quot; xuống bãi phóng?](https://dantri.com.vn/the-gioi/vi-sao-iran-van-na-duoc-ten-lua-sau-khi-my-trut-mua-bom-xuong-bai-phong-20260614074352049.htm) - 01:13 14/06/2026
+- 📝 [Thụy Sĩ trưng cầu dân ý giới hạn dân số 10 triệu người](https://dantri.com.vn/the-gioi/thuy-si-trung-cau-dan-y-gioi-han-dan-so-10-trieu-nguoi-20260614073728883.htm) - 00:50 14/06/2026
+- 🤡 [Nga nêu lý do triển khai vũ khí hạt nhân chiến thuật đến Belarus](https://dantri.com.vn/the-gioi/nga-neu-ly-do-trien-khai-vu-khi-hat-nhan-chien-thuat-den-belarus-20260614064639680.htm) - 23:51 13/06/2026
+- 🥷 [Tổng thống Trump: Mỹ và Iran ký thỏa thuận hôm nay, Hormuz sẽ mở cho tất cả](https://dantri.com.vn/the-gioi/tong-thong-trump-my-va-iran-ky-thoa-thuan-hom-nay-hormuz-se-mo-cho-tat-ca-20260614055151691.htm) - 22:58 13/06/2026
+- 🏊 [Câu hỏi lớn đằng sau tuyên bố &quot;hải quân Iran chìm dưới biển&quot; của Mỹ](https://dantri.com.vn/the-gioi/cau-hoi-lon-dang-sau-tuyen-bo-hai-quan-iran-chim-duoi-bien-cua-my-20260613210241072.htm) - 14:43 13/06/2026
+- 🕯 [Ukraine dùng vũ khí &quot;đáng gờm&quot; từ Mỹ, thách thức hậu cần của Nga](https://dantri.com.vn/the-gioi/ukraine-dung-vu-khi-dang-gom-tu-my-thach-thuc-hau-can-cua-nga-20260613111613559.htm) - 13:37 13/06/2026
+- 😎 [Iskander Nga đáng gờm gấp nhiều lần: Tầm bắn 1.000km, săn lùng F-16 Ukraine](https://dantri.com.vn/the-gioi/iskander-nga-dang-gom-gap-nhieu-lan-tam-ban-1000km-san-lung-f-16-ukraine-20260613184404519.htm) - 12:23 13/06/2026
+- 🌈 [Iran ấn định thời điểm an táng cố Lãnh tụ Tối cao](https://dantri.com.vn/the-gioi/iran-an-dinh-thoi-diem-an-tang-co-lanh-tu-toi-cao-20260613185905697.htm) - 12:21 13/06/2026
+- 💻 [Mỹ bắn rơi loạt UAV tấn công của Iran gần eo biển Hormuz](https://dantri.com.vn/the-gioi/my-ban-roi-loat-uav-tan-cong-cua-iran-gan-eo-bien-hormuz-20260613164321956.htm) - 09:47 13/06/2026
+- 🤖 [Rơi máy bay vận tải quân sự của Ấn Độ](https://dantri.com.vn/the-gioi/roi-may-bay-van-tai-quan-su-cua-an-do-20260613150139072.htm) - 08:06 13/06/2026
+- 🦏 [Iran chôn chặt kho uranium do lo ngại lực lượng Mỹ đổ bộ](https://dantri.com.vn/the-gioi/iran-chon-chat-kho-uranium-do-lo-ngai-luc-luong-my-do-bo-20260613142004583.htm) - 07:25 13/06/2026
+- 🌁 [Lý do Tổng thống Mỹ lùi 1 bước trước &quot;miệng hố&quot; xung đột toàn diện với Iran](https://dantri.com.vn/the-gioi/ly-do-tong-thong-my-lui-1-buoc-truoc-mieng-ho-xung-dot-toan-dien-voi-iran-20260613115010182.htm) - 06:48 13/06/2026
+- 🐘 [Chiến sự Ukraine 13/6: Nga sắp hành động mạnh, Ukraine cảnh báo đỏ](https://dantri.com.vn/the-gioi/chien-su-ukraine-136-nga-sap-hanh-dong-manh-ukraine-canh-bao-do-20260613105401457.htm) - 04:26 13/06/2026
+- 🥷 [Tổng thống Ukraine ký luật mới liên quan tới tiếng Nga](https://dantri.com.vn/the-gioi/tong-thong-ukraine-ky-luat-moi-lien-quan-toi-tieng-nga-20260613105233558.htm) - 04:07 13/06/2026
+- 💻 [Tổng thống Belarus dự đoán thời điểm chấm dứt xung đột Ukraine](https://dantri.com.vn/the-gioi/tong-thong-belarus-du-doan-thoi-diem-cham-dut-xung-dot-ukraine-20260613101034985.htm) - 03:18 13/06/2026
+- 🎡 [Ukraine tăng lương cho binh sĩ, hút thêm người nước ngoài vào quân đội](https://dantri.com.vn/the-gioi/ukraine-tang-luong-cho-binh-si-hut-them-nguoi-nuoc-ngoai-vao-quan-doi-20260613083533557.htm) - 01:58 13/06/2026
+- 🧰 [Rộ tin UAE đã giải ngân cho Iran 3 tỷ USD để hạ nhiệt căng thẳng Vùng Vịnh?](https://dantri.com.vn/the-gioi/ro-tin-uae-da-giai-ngan-cho-iran-3-ty-usd-de-ha-nhiet-cang-thang-vung-vinh-20260613073724080.htm) - 00:45 13/06/2026
+- 🥸 [Cuba công bố loạt cải cách kinh tế](https://dantri.com.vn/the-gioi/cuba-cong-bo-loat-cai-cach-kinh-te-20260613073950688.htm) - 00:43 13/06/2026
+- ⚗️ [Tổng thống Putin cảnh báo đanh thép NATO về cuộc chiến với Nga](https://dantri.com.vn/the-gioi/tong-thong-putin-canh-bao-danh-thep-nato-ve-cuoc-chien-voi-nga-20260613070226013.htm) - 00:22 13/06/2026
+- 🌮 [Nga triển khai hơn 700.000 binh sĩ ở Ukraine](https://dantri.com.vn/the-gioi/nga-trien-khai-hon-700000-binh-si-o-ukraine-20260613061613506.htm) - 23:22 12/06/2026
+- 🎃 [Tổng thống Trump lên tiếng về dự thảo thỏa thuận với Iran](https://dantri.com.vn/the-gioi/tong-thong-trump-len-tieng-ve-du-thao-thoa-thuan-voi-iran-20260613054227385.htm) - 23:02 12/06/2026
+- 💫 [Tổng thống Putin chỉ đạo nóng khi Ukraine dồn dập tập kích lãnh thổ Nga](https://dantri.com.vn/the-gioi/tong-thong-putin-chi-dao-nong-khi-ukraine-don-dap-tap-kich-lanh-tho-nga-20260613004039561.htm) - 23:01 12/06/2026
+- 🪜 [Tổng thống Trump cảnh báo hành động không thể chấp nhận của Iran](https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-hanh-dong-khong-the-chap-nhan-cua-iran-20260612221209997.htm) - 15:20 12/06/2026
+- 🌋 [Mỹ có thực sự mở chiến dịch bí mật áp tải 100 triệu thùng dầu vượt Hormuz?](https://dantri.com.vn/the-gioi/my-co-thuc-su-mo-chien-dich-bi-mat-ap-tai-100-trieu-thung-dau-vuot-hormuz-20260612212007534.htm) - 14:44 12/06/2026
+- 🦏 [Mỹ định rút hàng chục tiêm kích, tàu chiến khỏi châu Âu](https://dantri.com.vn/the-gioi/my-dinh-rut-hang-chuc-tiem-kich-tau-chien-khoi-chau-au-20260612201411943.htm) - 13:59 12/06/2026
+- 👀 [Ukraine cảnh báo Nga sắp tập kích, phóng tên lửa “không thể đánh chặn”](https://dantri.com.vn/the-gioi/ukraine-canh-bao-nga-sap-tap-kich-phong-ten-lua-khong-the-danh-chan-20260612201850056.htm) - 13:24 12/06/2026
+- 🧰 [Nhà lãnh đạo Triều Tiên cam kết &quot;luôn sát cánh cùng Nga&quot;](https://dantri.com.vn/the-gioi/nha-lanh-dao-trieu-tien-cam-ket-luon-sat-canh-cung-nga-20260612145227436.htm) - 13:14 12/06/2026
+- 🚀 [Ấn Độ phản ứng sau vụ thủy thủ thiệt mạng trong cuộc tấn công của Mỹ](https://dantri.com.vn/the-gioi/an-do-phan-ung-sau-vu-thuy-thu-thiet-mang-trong-cuoc-tan-cong-cua-my-20260612143033258.htm) - 11:18 12/06/2026
+- 🎓 [Hé lộ dự thảo thỏa thuận 14 điểm chấm dứt cuộc chiến Mỹ - Iran](https://dantri.com.vn/the-gioi/he-lo-du-thao-thoa-thuan-14-diem-cham-dut-cuoc-chien-my-iran-20260612175953674.htm) - 11:07 12/06/2026
+- 🥸 [Lý do Romania đề nghị Ukraine thêm tính năng &quot;tự hủy&quot; lên xuồng cảm tử](https://dantri.com.vn/the-gioi/ly-do-romania-de-nghi-ukraine-them-tinh-nang-tu-huy-len-xuong-cam-tu-20260612151737730.htm) - 09:05 12/06/2026
+- 🦅 [Dấu hiệu Mỹ - Iran sắp ký thỏa thuận chấm dứt xung đột](https://dantri.com.vn/the-gioi/dau-hieu-my-iran-sap-ky-thoa-thuan-cham-dut-xung-dot-20260612150205178.htm) - 08:44 12/06/2026
+- 🤭 [Phụ huynh Nhật Bản dùng ứng dụng AI để &quot;giải mã&quot; tiếng khóc trẻ sơ sinh](https://dantri.com.vn/the-gioi/phu-huynh-nhat-ban-dung-ung-dung-ai-de-giai-ma-tieng-khoc-tre-so-sinh-20260612145854458.htm) - 08:00 12/06/2026
+- 🤖 [Ông Trump đề cử Giám đốc Tình báo Quốc gia mới sau loạt tranh cãi](https://dantri.com.vn/the-gioi/ong-trump-de-cu-giam-doc-tinh-bao-quoc-gia-moi-sau-loat-tranh-cai-20260612141505834.htm) - 07:56 12/06/2026
+- 🐲 [Hậu trường Mỹ lên dây cót tấn công Iran trước khi ông Trump hủy phút chót](https://dantri.com.vn/the-gioi/hau-truong-my-len-day-cot-tan-cong-iran-truoc-khi-ong-trump-huy-phut-chot-20260612141350144.htm) - 07:25 12/06/2026
+- 🫣 [Mỹ tính cắt giảm mạnh lượng tiêm kích và chiến hạm làm nhiệm vụ ở châu Âu?](https://dantri.com.vn/the-gioi/my-tinh-cat-giam-manh-luong-tiem-kich-va-chien-ham-lam-nhiem-vu-o-chau-au-20260612141323876.htm) - 07:22 12/06/2026
+- 🐵 [Elon Musk trở thành người đầu tiên trên thế giới có hơn 1.000 tỷ USD](https://dantri.com.vn/the-gioi/elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-hon-1000-ty-usd-20260612135637001.htm) - 07:19 12/06/2026
+- 🫶 [Ukraine tập kích sâu lãnh thổ Nga, loạt nhà máy bốc cháy](https://dantri.com.vn/the-gioi/ukraine-tap-kich-sau-lanh-tho-nga-loat-nha-may-boc-chay-20260612134113341.htm) - 07:10 12/06/2026
+- 💃 [Bên trong &quot;nghĩa địa cá voi&quot; 5,3 triệu năm lớn nhất thế giới](https://dantri.com.vn/the-gioi/ben-trong-nghia-dia-ca-voi-53-trieu-nam-lon-nhat-the-gioi-20260612133609512.htm) - 06:44 12/06/2026
+- 💫 [Chiến sự Ukraine 12/6: &quot;Vòng xoáy&quot; khiến Kiev gặp bất lợi ở Konstantinovka](https://dantri.com.vn/the-gioi/chien-su-ukraine-126-vong-xoay-khien-kiev-gap-bat-loi-o-konstantinovka-20260612111631807.htm) - 04:41 12/06/2026
+- ⚗️ [Trung Quốc cảnh báo nguy cơ lũ lụt cực đoan ở sa mạc lớn nhất đất nước](https://dantri.com.vn/the-gioi/trung-quoc-canh-bao-nguy-co-lu-lut-cuc-doan-o-sa-mac-lon-nhat-dat-nuoc-20260612111847140.htm) - 04:28 12/06/2026
+- 🥷 [Lá chắn an ninh kiên cố của Mỹ bảo vệ World Cup](https://dantri.com.vn/the-gioi/la-chan-an-ninh-kien-co-cua-my-bao-ve-world-cup-20260612111605897.htm) - 04:26 12/06/2026
+- 🥸 [Iran đánh trúng trạm radar của Mỹ trên núi cao nhất ở Bahrain](https://dantri.com.vn/the-gioi/iran-danh-trung-tram-radar-cua-my-tren-nui-cao-nhat-o-bahrain-20260612111241915.htm) - 04:14 12/06/2026
+- 🪄 [Mỹ muốn kiểm soát &quot;huyết mạch dầu mỏ&quot; Iran, Tehran cảnh báo đanh thép](https://dantri.com.vn/the-gioi/my-muon-kiem-soat-huyet-mach-dau-mo-iran-tehran-canh-bao-danh-thep-20260612092656433.htm) - 03:07 12/06/2026
+- 🧑‍💻 [Cựu Tổng thống Hàn Quốc bị kết án 30 năm tù](https://dantri.com.vn/the-gioi/cuu-tong-thong-han-quoc-bi-ket-an-30-nam-tu-20260612094202352.htm) - 03:02 12/06/2026
+- 🤭 [Cuộc truy tìm bệnh nhân số 0 ở ổ dịch Ebola](https://dantri.com.vn/the-gioi/cuoc-truy-tim-benh-nhan-so-0-o-o-dich-ebola-20260612083409349.htm) - 02:20 12/06/2026
+- 🗽 [Tổng thống Trump muốn kiểm soát huyết mạch dầu mỏ của Iran](https://dantri.com.vn/the-gioi/tong-thong-trump-muon-kiem-soat-huyet-mach-dau-mo-cua-iran-20260612064236634.htm) - 02:06 12/06/2026
+- 🤖 [Công chúa Thái Lan qua đời sau gần 4 năm hôn mê](https://dantri.com.vn/the-gioi/cong-chua-thai-lan-qua-doi-sau-gan-4-nam-hon-me-20260612090336171.htm) - 02:04 12/06/2026
+- 🌈 [Mỹ điều tra con số khổng lồ xuất hiện bí ẩn gần Nhà Trắng](https://dantri.com.vn/the-gioi/my-dieu-tra-con-so-khong-lo-xuat-hien-bi-an-gan-nha-trang-20260612074556447.htm) - 00:56 12/06/2026
+- 🤩 [Tổng thống Trump: Mỹ đã “chấm dứt cuộc chiến” với Iran hôm nay](https://dantri.com.vn/the-gioi/tong-thong-trump-my-da-cham-dut-cuoc-chien-voi-iran-hom-nay-20260612070343089.htm) - 00:17 12/06/2026
+- 🤗 [Hệ lụy từ việc Ukraine chuyển sang chiến lược đánh sâu vào hậu phương Nga](https://dantri.com.vn/the-gioi/he-luy-tu-viec-ukraine-chuyen-sang-chien-luoc-danh-sau-vao-hau-phuong-nga-20260609154521413.htm) - 00:11 12/06/2026
+- 🙉 [Ukraine tấn công 180.000 mục tiêu quân sự,  ép Nga rút khỏi Crimea](https://dantri.com.vn/the-gioi/ukraine-tan-cong-180000-muc-tieu-quan-su-ep-nga-rut-khoi-crimea-20260612055823586.htm) - 23:10 11/06/2026<!-- dantri-the-gioi:END -->
