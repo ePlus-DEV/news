@@ -4,63 +4,63 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cô giáo cắm bản và nỗi ám ảnh không có nhà vệ sinh](https://vnexpress.net/co-giao-cam-ban-va-noi-am-anh-khong-co-nha-ve-sinh-5083745.html) - 17:00 14/06/2026
-- 🎓 [Nhà khoa học tên lửa 96 tuổi quyết tìm tình yêu cuối đời](https://vnexpress.net/nha-khoa-hoc-ten-lua-96-tuoi-quyet-tim-tinh-yeu-cuoi-doi-5085545.html) - 07:38 14/06/2026
-- 🚦 [Sinh viên bán đồ ăn vặt gom gần 3 tỷ đồng xây cầu, trường học](https://vnexpress.net/sinh-vien-ban-do-an-vat-gom-gan-3-ty-dong-xay-cau-truong-hoc-5085180.html) - 03:41 14/06/2026
-- 🦣 [Lầm tưởng nửa thế kỷ về trứng gà vỏ nâu](https://vnexpress.net/lam-tuong-nua-the-ky-ve-trung-ga-vo-nau-5085411.html) - 03:29 14/06/2026
-- 🎓 [Đau đầu vì con nghỉ hè](https://vnexpress.net/dau-dau-vi-con-nghi-he-5083576.html) - 23:29 13/06/2026
-- 🎭 [Tìm thấy người em sinh đôi sau 35 năm nhờ vết sẹo](https://vnexpress.net/tim-thay-nguoi-em-sinh-doi-sau-35-nam-nho-vet-seo-5085373.html) - 23:00 13/06/2026
-- 🦅 [Rapper trả giá vì xăm đen toàn thân](https://vnexpress.net/rapper-tra-gia-vi-xam-den-toan-than-5085364.html) - 09:37 13/06/2026
-- 🎃 [Nguy cơ nhiễm độc vì dùng màng bọc thực phẩm sai cách](https://vnexpress.net/nguy-co-nhiem-doc-vi-dung-mang-boc-thuc-pham-sai-cach-5082032.html) - 09:12 13/06/2026
-- 💪 [7 sai lầm biến con trai thành người đàn ông độc hại](https://vnexpress.net/7-sai-lam-bien-con-trai-thanh-nguoi-dan-ong-doc-hai-5085021.html) - 04:00 13/06/2026
-- 🐻 [Cộng đồng góp 2 tỷ đồng xây trường cho trẻ em Mông](https://vnexpress.net/cong-dong-gop-2-ty-dong-xay-truong-cho-tre-em-mong-5085176.html) - 01:07 13/06/2026
-- 🧠 [Tổ ấm 300 triệu của vợ chồng hai lần trắng tay](https://vnexpress.net/to-am-300-trieu-cua-vo-chong-hai-lan-trang-tay-5083749.html) - 23:30 12/06/2026
-- 🐘 [Ông bố giám đốc nghỉ việc ở nhà chăm đàn con sinh 7](https://vnexpress.net/ong-bo-giam-doc-nghi-viec-o-nha-cham-dan-con-sinh-7-5084936.html) - 23:00 12/06/2026
-- 👹 [Vì sao thịt kho tàu cần nấu trong ba tiếng?](https://vnexpress.net/vi-sao-thit-kho-tau-can-nau-trong-ba-tieng-5082034.html) - 08:30 12/06/2026
-- 💂 [Gen Z Mỹ hẹn hò với người không phải gu để tập yêu](https://vnexpress.net/gen-z-my-hen-ho-voi-nguoi-khong-phai-gu-de-tap-yeu-5084313.html) - 07:41 12/06/2026
-- 🦍 [Chung cư hoang tàn vì cư dân trốn đóng phí dịch vụ](https://vnexpress.net/chung-cu-hoang-tan-vi-cu-dan-tron-dong-phi-dich-vu-5084806.html) - 04:25 12/06/2026
-- 🧑‍🏫 [4 năm Tân Hiệp Phát đồng hành cùng trẻ em khó khăn](https://vnexpress.net/4-nam-tan-hiep-phat-dong-hanh-cung-tre-em-kho-khan-5084222.html) - 02:00 12/06/2026
-- 🧰 [Vỡ mộng tuổi trung niên vì lối sống không con cái](https://vnexpress.net/vo-mong-tuoi-trung-nien-vi-loi-song-khong-con-cai-5084785.html) - 01:41 12/06/2026
-- 🪄 [Vợ chồng Hà Nội dựng &#39;làng quê Việt&#39; ở Hy Lạp](https://vnexpress.net/vo-chong-ha-noi-dung-lang-que-viet-o-hy-lap-5083861.html) - 23:28 11/06/2026
-- 🐲 [Vo gạo thế nào để loại bỏ asen và vi nhựa?](https://vnexpress.net/vo-gao-the-nao-de-loai-bo-asen-va-vi-nhua-5084606.html) - 08:59 11/06/2026
-- 💻 [Tài xế công nghệ cắt tóc, bán hàng trên xe](https://vnexpress.net/tai-xe-cong-nghe-cat-toc-ban-hang-tren-xe-5084312.html) - 07:39 11/06/2026
-- 🐘 [Những quan niệm tài chính từng đúng nay đã lỗi thời](https://vnexpress.net/nhung-quan-niem-tai-chinh-tung-dung-nay-da-loi-thoi-5084323.html) - 03:51 11/06/2026
-- 🎬 [Tân Hiệp Phát trao quà cho trẻ em khó khăn](https://vnexpress.net/tan-hiep-phat-trao-qua-cho-tre-em-kho-khan-5084188.html) - 03:30 11/06/2026
-- 💻 [Người vô gia cư Mỹ có chỗ ở nhờ World Cup](https://vnexpress.net/nguoi-vo-gia-cu-my-co-cho-o-nho-world-cup-5084311.html) - 03:10 11/06/2026
-- 🧰 [Dịch vụ mua bán ảnh &#39;phông bạt&#39;](https://vnexpress.net/dich-vu-mua-ban-anh-phong-bat-5084122.html) - 23:26 10/06/2026
-- 🫣 [Ngôi làng toàn siêu xe, tỷ phú](https://vnexpress.net/ngoi-lang-toan-sieu-xe-ty-phu-5084287.html) - 23:16 10/06/2026
-- ⚗️ [Hai nguyên liệu từ sữa New Zealand cho ngành bánh, pha chế](https://vnexpress.net/hai-nguyen-lieu-tu-sua-new-zealand-cho-nganh-banh-pha-che-5084204.html) - 13:30 10/06/2026
-- 🌊 [Tại sao có câu &#39;nồi đồng nấu ốc, nồi đất nấu ếch&#39;?](https://vnexpress.net/tai-sao-co-cau-noi-dong-nau-oc-noi-dat-nau-ech-5081992.html) - 09:15 10/06/2026
-- 💃 [&#39;Ví khỏe nhà ta&#39; giúp gia đình tích lũy quyền lợi sức khỏe](https://vnexpress.net/vi-khoe-nha-ta-giup-gia-dinh-tich-luy-quyen-loi-suc-khoe-5084121.html) - 08:00 10/06/2026
-- 🦆 [Nụ hôn trong thang máy cuốn bay 7,5 tỷ USD](https://vnexpress.net/nu-hon-trong-thang-may-cuon-bay-7-5-ty-usd-5084082.html) - 07:05 10/06/2026
-- 🎓 [Bỏ công sở, người trẻ lập &#39;công ty một người&#39;](https://vnexpress.net/bo-cong-so-nguoi-tre-lap-cong-ty-mot-nguoi-5084056.html) - 04:43 10/06/2026
-- 💪 [7 dấu hiệu môi trường làm việc độc hại lộ diện ngày đầu](https://vnexpress.net/7-dau-hieu-moi-truong-lam-viec-doc-hai-lo-dien-ngay-dau-5083858.html) - 01:32 10/06/2026
-- 🤔 [Vì sao nhiều dâu ngoại sang Việt Nam may váy cưới?](https://vnexpress.net/vi-sao-nhieu-dau-ngoai-sang-viet-nam-may-vay-cuoi-5079895.html) - 23:00 09/06/2026
-- 🧰 [Chuyển nhà 10 lần để &#39;cai&#39; điện thoại cho con](https://vnexpress.net/chuyen-nha-10-lan-de-cai-dien-thoai-cho-con-5083603.html) - 22:48 09/06/2026
-- 😎 [Điều phụ nữ mong đợi ở chồng khi gần gũi](https://vnexpress.net/dieu-phu-nu-mong-doi-o-chong-khi-gan-gui-5082817.html) - 14:12 09/06/2026
-- 🌮 [Chiến lược đổi mới sản phẩm tại Generali Việt Nam](https://vnexpress.net/chien-luoc-doi-moi-san-pham-tai-generali-viet-nam-5081493.html) - 08:00 09/06/2026
-- 🧠 [Đạp xe hơn 16.000 km đi xem World Cup](https://vnexpress.net/dap-xe-hon-16-000-km-di-xem-world-cup-5083544.html) - 07:08 09/06/2026
-- 🎡 [Đàn chim công đại náo thị trấn Italy](https://vnexpress.net/dan-chim-cong-dai-nao-thi-tran-italy-5083404.html) - 02:13 09/06/2026
-- 🎡 [Người Việt bối rối với văn hóa hàng xóm ở Nhật](https://vnexpress.net/nguoi-viet-boi-roi-voi-van-hoa-hang-xom-o-nhat-5081510.html) - 23:29 08/06/2026
-- 🌏 [Nhiều người Mỹ &#39;thắt lưng buộc bụng&#39; vì giá xăng](https://vnexpress.net/nhieu-nguoi-my-that-lung-buoc-bung-vi-gia-xang-5083387.html) - 23:00 08/06/2026
+- 🚀 [Tiết lợn cháy hàng ở Singapore sau 27 năm bị cấm](https://vnexpress.net/tiet-lon-chay-hang-o-singapore-sau-27-nam-bi-cam-5086033.html) - 09:54 15/06/2026
+- 🎓 [Mẹo làm món lòng heo trắng giòn](https://vnexpress.net/meo-lam-mon-long-heo-trang-gion-5086006.html) - 09:07 15/06/2026
+- 🚦 [6 ngộ nhận phổ biến về ngoại tình](https://vnexpress.net/6-ngo-nhan-pho-bien-ve-ngoai-tinh-5085844.html) - 04:22 15/06/2026
+- 🦣 [Nguy cơ khi phó thác trẻ em cho AI](https://vnexpress.net/nguy-co-khi-pho-thac-tre-em-cho-ai-5085821.html) - 04:14 15/06/2026
+- 🎓 [&#39;Nội chiến&#39; gia đình vì hóa đơn tiền điện mùa hè](https://vnexpress.net/noi-chien-gia-dinh-vi-hoa-don-tien-dien-mua-he-5083854.html) - 23:00 14/06/2026
+- 🎭 [Cô giáo cắm bản và nỗi ám ảnh không có nhà vệ sinh](https://vnexpress.net/co-giao-cam-ban-va-noi-am-anh-khong-co-nha-ve-sinh-5083745.html) - 17:00 14/06/2026
+- 🦅 [Nhà khoa học tên lửa 96 tuổi quyết tìm tình yêu cuối đời](https://vnexpress.net/nha-khoa-hoc-ten-lua-96-tuoi-quyet-tim-tinh-yeu-cuoi-doi-5085545.html) - 07:38 14/06/2026
+- 🎃 [Sinh viên bán đồ ăn vặt gom gần 3 tỷ đồng xây cầu, trường học](https://vnexpress.net/sinh-vien-ban-do-an-vat-gom-gan-3-ty-dong-xay-cau-truong-hoc-5085180.html) - 03:41 14/06/2026
+- 💪 [Lầm tưởng nửa thế kỷ về trứng gà vỏ nâu](https://vnexpress.net/lam-tuong-nua-the-ky-ve-trung-ga-vo-nau-5085411.html) - 03:29 14/06/2026
+- 🐻 [Đau đầu vì con nghỉ hè](https://vnexpress.net/dau-dau-vi-con-nghi-he-5083576.html) - 23:29 13/06/2026
+- 🧠 [Tìm thấy người em sinh đôi sau 35 năm nhờ vết sẹo](https://vnexpress.net/tim-thay-nguoi-em-sinh-doi-sau-35-nam-nho-vet-seo-5085373.html) - 23:00 13/06/2026
+- 🐘 [Rapper trả giá vì xăm đen toàn thân](https://vnexpress.net/rapper-tra-gia-vi-xam-den-toan-than-5085364.html) - 09:37 13/06/2026
+- 👹 [Nguy cơ nhiễm độc vì dùng màng bọc thực phẩm sai cách](https://vnexpress.net/nguy-co-nhiem-doc-vi-dung-mang-boc-thuc-pham-sai-cach-5082032.html) - 09:12 13/06/2026
+- 💂 [7 sai lầm biến con trai thành người đàn ông độc hại](https://vnexpress.net/7-sai-lam-bien-con-trai-thanh-nguoi-dan-ong-doc-hai-5085021.html) - 04:00 13/06/2026
+- 🦍 [Chàng trai cầu hôn nữ bác sĩ cứu mạng mình](https://vnexpress.net/chang-trai-cau-hon-nu-bac-si-cuu-mang-minh-5084864.html) - 01:30 13/06/2026
+- 🧑‍🏫 [Cộng đồng góp 2 tỷ đồng xây trường cho trẻ em Mông](https://vnexpress.net/cong-dong-gop-2-ty-dong-xay-truong-cho-tre-em-mong-5085176.html) - 01:07 13/06/2026
+- 🧰 [Tổ ấm 300 triệu của vợ chồng hai lần trắng tay](https://vnexpress.net/to-am-300-trieu-cua-vo-chong-hai-lan-trang-tay-5083749.html) - 23:30 12/06/2026
+- 🪄 [Ông bố giám đốc nghỉ việc ở nhà chăm đàn con sinh 7](https://vnexpress.net/ong-bo-giam-doc-nghi-viec-o-nha-cham-dan-con-sinh-7-5084936.html) - 23:00 12/06/2026
+- 🐲 [Vì sao thịt kho tàu cần nấu trong ba tiếng?](https://vnexpress.net/vi-sao-thit-kho-tau-can-nau-trong-ba-tieng-5082034.html) - 08:30 12/06/2026
+- 💻 [Gen Z Mỹ hẹn hò với người không phải gu để tập yêu](https://vnexpress.net/gen-z-my-hen-ho-voi-nguoi-khong-phai-gu-de-tap-yeu-5084313.html) - 07:41 12/06/2026
+- 🐘 [Chung cư hoang tàn vì cư dân trốn đóng phí dịch vụ](https://vnexpress.net/chung-cu-hoang-tan-vi-cu-dan-tron-dong-phi-dich-vu-5084806.html) - 04:25 12/06/2026
+- 🎬 [4 năm Tân Hiệp Phát đồng hành cùng trẻ em khó khăn](https://vnexpress.net/4-nam-tan-hiep-phat-dong-hanh-cung-tre-em-kho-khan-5084222.html) - 02:00 12/06/2026
+- 💻 [Vỡ mộng tuổi trung niên vì lối sống không con cái](https://vnexpress.net/vo-mong-tuoi-trung-nien-vi-loi-song-khong-con-cai-5084785.html) - 01:41 12/06/2026
+- 🧰 [Vợ chồng Hà Nội dựng &#39;làng quê Việt&#39; ở Hy Lạp](https://vnexpress.net/vo-chong-ha-noi-dung-lang-que-viet-o-hy-lap-5083861.html) - 23:28 11/06/2026
+- 🫣 [Vo gạo thế nào để loại bỏ asen và vi nhựa?](https://vnexpress.net/vo-gao-the-nao-de-loai-bo-asen-va-vi-nhua-5084606.html) - 08:59 11/06/2026
+- ⚗️ [Tài xế công nghệ cắt tóc, bán hàng trên xe](https://vnexpress.net/tai-xe-cong-nghe-cat-toc-ban-hang-tren-xe-5084312.html) - 07:39 11/06/2026
+- 🌊 [Những quan niệm tài chính từng đúng nay đã lỗi thời](https://vnexpress.net/nhung-quan-niem-tai-chinh-tung-dung-nay-da-loi-thoi-5084323.html) - 03:51 11/06/2026
+- 💃 [Tân Hiệp Phát trao quà cho trẻ em khó khăn](https://vnexpress.net/tan-hiep-phat-trao-qua-cho-tre-em-kho-khan-5084188.html) - 03:30 11/06/2026
+- 🦆 [Người vô gia cư Mỹ có chỗ ở nhờ World Cup](https://vnexpress.net/nguoi-vo-gia-cu-my-co-cho-o-nho-world-cup-5084311.html) - 03:10 11/06/2026
+- 🎓 [Dịch vụ mua bán ảnh &#39;phông bạt&#39;](https://vnexpress.net/dich-vu-mua-ban-anh-phong-bat-5084122.html) - 23:26 10/06/2026
+- 💪 [Ngôi làng toàn siêu xe, tỷ phú](https://vnexpress.net/ngoi-lang-toan-sieu-xe-ty-phu-5084287.html) - 23:16 10/06/2026
+- 🤔 [Hai nguyên liệu từ sữa New Zealand cho ngành bánh, pha chế](https://vnexpress.net/hai-nguyen-lieu-tu-sua-new-zealand-cho-nganh-banh-pha-che-5084204.html) - 13:30 10/06/2026
+- 🧰 [Tại sao có câu &#39;nồi đồng nấu ốc, nồi đất nấu ếch&#39;?](https://vnexpress.net/tai-sao-co-cau-noi-dong-nau-oc-noi-dat-nau-ech-5081992.html) - 09:15 10/06/2026
+- 😎 [&#39;Ví khỏe nhà ta&#39; giúp gia đình tích lũy quyền lợi sức khỏe](https://vnexpress.net/vi-khoe-nha-ta-giup-gia-dinh-tich-luy-quyen-loi-suc-khoe-5084121.html) - 08:00 10/06/2026
+- 🌮 [Nụ hôn trong thang máy cuốn bay 7,5 tỷ USD](https://vnexpress.net/nu-hon-trong-thang-may-cuon-bay-7-5-ty-usd-5084082.html) - 07:05 10/06/2026
+- 🧠 [Bỏ công sở, người trẻ lập &#39;công ty một người&#39;](https://vnexpress.net/bo-cong-so-nguoi-tre-lap-cong-ty-mot-nguoi-5084056.html) - 04:43 10/06/2026
+- 🎡 [7 dấu hiệu môi trường làm việc độc hại lộ diện ngày đầu](https://vnexpress.net/7-dau-hieu-moi-truong-lam-viec-doc-hai-lo-dien-ngay-dau-5083858.html) - 01:32 10/06/2026
+- 🎡 [Vì sao nhiều dâu ngoại sang Việt Nam may váy cưới?](https://vnexpress.net/vi-sao-nhieu-dau-ngoai-sang-viet-nam-may-vay-cuoi-5079895.html) - 23:00 09/06/2026
+- 🌏 [Chuyển nhà 10 lần để &#39;cai&#39; điện thoại cho con](https://vnexpress.net/chuyen-nha-10-lan-de-cai-dien-thoai-cho-con-5083603.html) - 22:48 09/06/2026
+- 🐻 [Điều phụ nữ mong đợi ở chồng khi gần gũi](https://vnexpress.net/dieu-phu-nu-mong-doi-o-chong-khi-gan-gui-5082817.html) - 14:12 09/06/2026
+- 💂 [Chiến lược đổi mới sản phẩm tại Generali Việt Nam](https://vnexpress.net/chien-luoc-doi-moi-san-pham-tai-generali-viet-nam-5081493.html) - 08:00 09/06/2026
+- 🥸 [Đạp xe hơn 16.000 km đi xem World Cup](https://vnexpress.net/dap-xe-hon-16-000-km-di-xem-world-cup-5083544.html) - 07:08 09/06/2026
+- 🌋 [Đàn chim công đại náo thị trấn Italy](https://vnexpress.net/dan-chim-cong-dai-nao-thi-tran-italy-5083404.html) - 02:13 09/06/2026
+- 🦩 [Người Việt bối rối với văn hóa hàng xóm ở Nhật](https://vnexpress.net/nguoi-viet-boi-roi-voi-van-hoa-hang-xom-o-nhat-5081510.html) - 23:29 08/06/2026
+- 😺 [Nhiều người Mỹ &#39;thắt lưng buộc bụng&#39; vì giá xăng](https://vnexpress.net/nhieu-nguoi-my-that-lung-buoc-bung-vi-gia-xang-5083387.html) - 23:00 08/06/2026
 - 🐻 [Thời gian &#39;vàng&#39; luộc ốc](https://vnexpress.net/thoi-gian-vang-luoc-oc-5082031.html) - 10:17 08/06/2026
-- 💂 [Vì sao hôn nhân dễ tan vỡ vào năm thứ 7?](https://vnexpress.net/vi-sao-hon-nhan-de-tan-vo-vao-nam-thu-7-5083191.html) - 06:41 08/06/2026
-- 🥸 [Thói quen biến cục nóng điều hòa thành &#39;bom nổ chậm&#39;](https://vnexpress.net/thoi-quen-bien-cuc-nong-dieu-hoa-thanh-bom-no-cham-5082745.html) - 03:05 08/06/2026
-- 🌋 [Tuổi 30 - &#39;nút cổ chai&#39; của nhiều lao động Mỹ](https://vnexpress.net/tuoi-30-nut-co-chai-cua-nhieu-lao-dong-my-5082652.html) - 00:46 08/06/2026
-- 🦩 [Cuộc sống trong những &#39;lò nung&#39; xóm trọ công nhân](https://vnexpress.net/cuoc-song-trong-nhung-lo-nung-xom-tro-cong-nhan-5082136.html) - 23:00 07/06/2026
-- 😺 [Chuyến rời bản gần 1.000 km đi cứu con của ông bố người Mông](https://vnexpress.net/chuyen-roi-ban-gan-1-000-km-di-cuu-con-cua-ong-bo-nguoi-mong-5082886.html) - 17:00 07/06/2026
-- 🐻 [Trải nghiệm chạy bộ đa thế hệ tại Galaxy Run](https://vnexpress.net/trai-nghiem-chay-bo-da-the-he-tai-galaxy-run-5082940.html) - 10:00 07/06/2026
-- 🎬 [Mẹo chống nóng giá rẻ của người Anh](https://vnexpress.net/meo-chong-nong-gia-re-cua-nguoi-anh-5082845.html) - 07:32 07/06/2026
-- 🎊 [Cuốn sổ nợ gây sốt của vợ ông chủ hãng môtô](https://vnexpress.net/cuon-so-no-gay-sot-cua-vo-ong-chu-hang-moto-5082818.html) - 04:19 07/06/2026
-- 💄 [Chó hoang đổi đời nhờ lòng tốt của nhóm tài xế](https://vnexpress.net/cho-hoang-doi-doi-nho-long-tot-cua-nhom-tai-xe-5082674.html) - 03:03 07/06/2026
-- 🏊 [Kỹ sư Đức bỏ nghề, sang Việt Nam làm rể sau tiếng sét ái tình](https://vnexpress.net/ky-su-duc-bo-nghe-sang-viet-nam-lam-re-sau-tieng-set-ai-tinh-5081975.html) - 00:00 07/06/2026
-- 🌜 [Cuộc chiến tranh giành tài sản của người không con cái](https://vnexpress.net/cuoc-chien-tranh-gianh-tai-san-cua-nguoi-khong-con-cai-5082572.html) - 23:45 06/06/2026
-- 🤡 [Chi 50.000 USD để cưới chính mình](https://vnexpress.net/chi-50-000-usd-de-cuoi-chinh-minh-5082153.html) - 08:00 06/06/2026
-- 🥰 [Tại sao nên dùng nồi đất cho món kho?](https://vnexpress.net/tai-sao-nen-dung-noi-dat-cho-mon-kho-5081971.html) - 07:05 06/06/2026
-- 🦍 [Đoàn tụ sau 22 năm bỏ nhà đi vì sợ bố mẹ mắng](https://vnexpress.net/doan-tu-sau-22-nam-bo-nha-di-vi-so-bo-me-mang-5082391.html) - 02:02 06/06/2026
-- 🫣 [Bố giấu chuyện trúng độc đắc vì sợ con hư hỏng](https://vnexpress.net/bo-giau-chuyen-trung-doc-dac-vi-so-con-hu-hong-5082559.html) - 00:57 06/06/2026
-- 🚦 [Khó thuê nhà vì các &#39;đại công trường&#39; ở Hà Nội](https://vnexpress.net/kho-thue-nha-vi-cac-dai-cong-truong-o-ha-noi-5082135.html) - 23:29 05/06/2026
-- 🐘 [Chàng trai ngủ gầm cầu, làm shipper kiếm tiền đi học](https://vnexpress.net/chang-trai-ngu-gam-cau-lam-shipper-kiem-tien-di-hoc-5082528.html) - 23:00 05/06/2026
-- 🔥 [3 thói quen của người thông minh bị nhầm là lười biếng](https://vnexpress.net/3-thoi-quen-cua-nguoi-thong-minh-bi-nham-la-luoi-bieng-5082313.html) - 12:21 05/06/2026
-- 🎃 [Thói quen rửa bát không tráng của người Anh](https://vnexpress.net/thoi-quen-rua-bat-khong-trang-cua-nguoi-anh-5082314.html) - 08:06 05/06/2026
-- 🥳 [Cô gái cao 72 cm trở thành người mẫu](https://vnexpress.net/co-gai-cao-72-cm-tro-thanh-nguoi-mau-5082152.html) - 07:45 05/06/2026<!-- vnexpress-doi-song:END -->
+- 🎬 [Vì sao hôn nhân dễ tan vỡ vào năm thứ 7?](https://vnexpress.net/vi-sao-hon-nhan-de-tan-vo-vao-nam-thu-7-5083191.html) - 06:41 08/06/2026
+- 🎊 [Thói quen biến cục nóng điều hòa thành &#39;bom nổ chậm&#39;](https://vnexpress.net/thoi-quen-bien-cuc-nong-dieu-hoa-thanh-bom-no-cham-5082745.html) - 03:05 08/06/2026
+- 💄 [Tuổi 30 - &#39;nút cổ chai&#39; của nhiều lao động Mỹ](https://vnexpress.net/tuoi-30-nut-co-chai-cua-nhieu-lao-dong-my-5082652.html) - 00:46 08/06/2026
+- 🏊 [Cuộc sống trong những &#39;lò nung&#39; xóm trọ công nhân](https://vnexpress.net/cuoc-song-trong-nhung-lo-nung-xom-tro-cong-nhan-5082136.html) - 23:00 07/06/2026
+- 🌜 [Chuyến rời bản gần 1.000 km đi cứu con của ông bố người Mông](https://vnexpress.net/chuyen-roi-ban-gan-1-000-km-di-cuu-con-cua-ong-bo-nguoi-mong-5082886.html) - 17:00 07/06/2026
+- 🤡 [Trải nghiệm chạy bộ đa thế hệ tại Galaxy Run](https://vnexpress.net/trai-nghiem-chay-bo-da-the-he-tai-galaxy-run-5082940.html) - 10:00 07/06/2026
+- 🥰 [Mẹo chống nóng giá rẻ của người Anh](https://vnexpress.net/meo-chong-nong-gia-re-cua-nguoi-anh-5082845.html) - 07:32 07/06/2026
+- 🦍 [Cuốn sổ nợ gây sốt của vợ ông chủ hãng môtô](https://vnexpress.net/cuon-so-no-gay-sot-cua-vo-ong-chu-hang-moto-5082818.html) - 04:19 07/06/2026
+- 🫣 [Chó hoang đổi đời nhờ lòng tốt của nhóm tài xế](https://vnexpress.net/cho-hoang-doi-doi-nho-long-tot-cua-nhom-tai-xe-5082674.html) - 03:03 07/06/2026
+- 🚦 [Kỹ sư Đức bỏ nghề, sang Việt Nam làm rể sau tiếng sét ái tình](https://vnexpress.net/ky-su-duc-bo-nghe-sang-viet-nam-lam-re-sau-tieng-set-ai-tinh-5081975.html) - 00:00 07/06/2026
+- 🐘 [Cuộc chiến tranh giành tài sản của người không con cái](https://vnexpress.net/cuoc-chien-tranh-gianh-tai-san-cua-nguoi-khong-con-cai-5082572.html) - 23:45 06/06/2026
+- 🔥 [Chi 50.000 USD để cưới chính mình](https://vnexpress.net/chi-50-000-usd-de-cuoi-chinh-minh-5082153.html) - 08:00 06/06/2026
+- 🎃 [Tại sao nên dùng nồi đất cho món kho?](https://vnexpress.net/tai-sao-nen-dung-noi-dat-cho-mon-kho-5081971.html) - 07:05 06/06/2026
+- 🥳 [Đoàn tụ sau 22 năm bỏ nhà đi vì sợ bố mẹ mắng](https://vnexpress.net/doan-tu-sau-22-nam-bo-nha-di-vi-so-bo-me-mang-5082391.html) - 02:02 06/06/2026<!-- vnexpress-doi-song:END -->
