@@ -527,66 +527,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Hôm nay 16-6, TP Hải Phòng công bố điểm thi lớp 10, tra cứu nhanh ra sao?](https://muctim.tuoitre.vn/hom-nay-16-6-tp-hai-phong-cong-bo-diem-thi-lop-10-tra-cuu-nhanh-ra-sao-101260615162641072.htm) - 03:45 16/06/2026
-- 🥷 [Bắt sóng tọa độ Hoa phượng đỏ quanh sân trường](https://muctim.tuoitre.vn/bat-song-toa-do-hoa-phuong-do-quanh-san-truong-101260615141706705.htm) - 02:13 16/06/2026
-- 🤖 [Nhân vật ngáo ngơ được yêu thích trong Teach you a lesson là rapper Kpop](https://muctim.tuoitre.vn/nhan-vat-ngao-ngo-duoc-yeu-thich-trong-teach-you-a-lesson-la-rapper-kpop-101260611130851401.htm) - 02:11 16/06/2026
-- 🤓 [Đội hình ra sân Iran đấu New Zealand: Taremi đối đầu Chris Wood](https://muctim.tuoitre.vn/doi-hinh-ra-san-iran-dau-new-zealand-taremi-doi-dau-chris-wood-101260616072107413.htm) - 00:37 16/06/2026
-- 🎉 [Iran thoát thua trước New Zealand ở World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-iran-dau-new-zealand-101260615150419607.htm) - 23:00 15/06/2026
-- 👨‍🏫 [Đội hình ra sân Saudi Arabia đấu Uruguay: Nunez, Valverde đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-saudi-arabia-dau-uruguay-nunez-valverde-da-chinh-101260616041753746.htm) - 22:52 15/06/2026
-- 🚦 [Cách tra cứu điểm thi lớp 10 tỉnh Thái Nguyên năm học 2026 - 2027](https://muctim.tuoitre.vn/cach-tra-cuu-diem-thi-lop-10-tinh-thai-nguyen-nam-hoc-2026-2027-101260616010243164.htm) - 22:52 15/06/2026
-- 🤭 [Saudi Arabia vất vả cầm chân Uruguay 1-1](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-uruguay-dau-saudi-arabia-101260615150808319.htm) - 20:00 15/06/2026
-- 😺 [S.T Sơn Thạch trở lại với &#39;Ngược hướng&#39;](https://muctim.tuoitre.vn/st-son-thach-tro-lai-voi-nguoc-huong-101260615234545353.htm) - 19:28 15/06/2026
-- 😎 [Bắc Ninh công bố điểm chuẩn vào lớp 10: cao nhất 22,76 điểm](https://muctim.tuoitre.vn/bac-ninh-cong-bo-diem-chuan-vao-lop-10-cao-nhat-2276-diem-101260614190618219.htm) - 19:11 15/06/2026
-- 🐎 [Đội hình ra sân của tuyển Bỉ đấu Ai Cập: De Bruyne đối đầu Salah](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-tuyen-bi-dau-ai-cap-de-bruyne-doi-dau-sala-1012606160125345.htm) - 19:09 15/06/2026
-- 🎓 [Tuyển Bỉ và Ai Cập chia điểm ngày ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-tuyen-bi-dau-ai-cap-101260615150214074.htm) - 17:00 15/06/2026
-- 🐎 [Đội hình ra sân Tây Ban Nha đấu Cape Verde: Lamine Yamal dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-tay-ban-nha-dau-cape-verde-lamine-yamal-du-bi-101260615194935037.htm) - 15:06 15/06/2026
-- 💃 [Trường THPT Mạc Đĩnh Chi ra quân chiến dịch Hoa Phượng Đỏ](https://muctim.tuoitre.vn/truong-thpt-mac-dinh-chi-ra-quan-chien-dich-hoa-phuong-do-101260615152813687.htm) - 14:35 15/06/2026
-- 🪜 [Love in the moonlight kỷ niệm 10 năm ra mắt cùng dàn diễn viên chính](https://muctim.tuoitre.vn/love-in-the-moonlight-ky-niem-10-nam-ra-mat-cung-dan-dien-vien-chinh-101260615175937317.htm) - 14:21 15/06/2026
-- 🎉 [Đức bỏ lỡ cơ hội lập kỷ lục hiếm có tại World Cup 2026](https://muctim.tuoitre.vn/duc-bo-lo-co-hoi-lap-ky-luc-hiem-co-tai-world-cup-2026-10126061520425128.htm) - 14:20 15/06/2026
-- 🥳 [HLV đầu tiên bị sa thải tại World Cup 2026?](https://muctim.tuoitre.vn/hlv-dau-tien-bi-sa-thai-tai-world-cup-2026-101260615201822537.htm) - 14:17 15/06/2026
-- 🤓 [Học trò Trường THPT Hàn Thuyên thích thú giải mã kiến thức địa chất](https://muctim.tuoitre.vn/hoc-tro-truong-thpt-han-thuyen-thich-thu-giai-ma-kien-thuc-dia-chat-101260615165648117.htm) - 11:38 15/06/2026
-- 🎉 [Quảng Ngãi công bố điểm thi lớp 10 trước 20-6, tra cứu bằng cách nào?](https://muctim.tuoitre.vn/tra-cuu-bang-cach-nao-10126061516373398.htm) - 09:56 15/06/2026
-- 🥳 [Tây Ban Nha bị tân binh Cape Verde cầm hòa 0-0 trận ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-bang-h-world-cup-2026-tay-ban-nha-cape-verde-101260615152136385.htm) - 09:20 15/06/2026
-- 🎡 [Tuyển Bỉ - Ai Cập: siêu máy tính đoán trận đấu cân bằng](https://muctim.tuoitre.vn/tuyen-bi-ai-cap-sieu-may-tinh-doan-tran-dau-can-bang-10126061417203155.htm) - 09:16 15/06/2026
-- 👨‍🏫 [Tuyển Iran - New Zealand: siêu máy tính đoán đại diện Tây Á thắng trận](https://muctim.tuoitre.vn/tuyen-iran-new-zealand-sieu-may-tinh-doan-dai-dien-tay-a-thang-tran-101260614174420778.htm) - 08:16 15/06/2026
-- 🧠 [Saudi Arabia đấu Uruguay tại World Cup 2026: Đại diện châu Á liệu có tạo địa chấn?](https://muctim.tuoitre.vn/saudi-arabia-dau-uruguay-tai-world-cup-2026-dai-dien-chau-a-lieu-co-tao-dia-chan-101260613175213799.htm) - 08:13 15/06/2026
-- 🥷 [Say hi rực rỡ tập 2: Nicky mất ngủ, Hùng Huỳnh “bóc phốt” dàn cast](https://muctim.tuoitre.vn/say-hi-ruc-ro-tap-2-nicky-mat-ngu-hung-huynh-boc-phot-dan-cast-101260614234854637.htm) - 07:36 15/06/2026
-- 🤔 [Ngôi trường THPT nào lâu đời nhất tại TP.HCM?](https://muctim.tuoitre.vn/ngoi-truong-thpt-nao-lau-doi-nhat-tai-tphcm-10126061321552321.htm) - 02:56 15/06/2026
-- 🐎 [Đón đọc Khăn Quàng Đỏ 24, phát hành 17-6: Viết tiếp câu chuyện tình bạn với KQĐ](https://muctim.tuoitre.vn/don-doc-khan-quang-do-24-phat-hanh-17-6-viet-tiep-cau-chuyen-tinh-ban-voi-kqd-101260612141149934.htm) - 02:03 15/06/2026
-- ⛽️ [Tây Ban Nha đấu Cape Verde tại World Cup 2026: Khẳng định đẳng cấp ông lớn?](https://muctim.tuoitre.vn/tay-ban-nha-dau-cape-verde-tai-world-cup-2026-khang-dinh-dang-cap-ong-lon-101260613165630635.htm) - 02:00 15/06/2026
-- 🤡 [Đội hình xuất phát Thụy Điển đấu Tunisia bảng F World Cup 2026](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-thuy-dien-dau-tunisia-bang-f-world-cup-2026-101260615083540281.htm) - 01:51 15/06/2026
-- 🌁 [Thắng Tunisia 5-1, Thụy Điển tạm dẫn đầu bảng F World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-bang-f-world-cup-2026-thuy-dien-tunisia-101260615074002046.htm) - 00:46 15/06/2026
-- 🎓 [Kết quả bóng chuyền nam VNL 2026 ngày 14-6, lịch thi đấu 15-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nam-vnl-2026-ngay-14-6-lich-thi-dau-15-6-101260614172756432.htm) - 00:19 15/06/2026
-- 🦍 [Tuần mới của 12 cung hoàng đạo: Sư Tử may mắn](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-su-tu-may-man-101260614230144511.htm) - 00:11 15/06/2026
-- 🤠 [Đội hình ra sân Bờ Biển Ngà đấu Ecuador: Moises Caicedo đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-bo-bien-nga-dau-ecuador-moises-caicedo-da-chinh-101260615052150211.htm) - 22:32 14/06/2026
-- 🎬 [Ngôi sao Man United tỏa sáng giúp Bờ Biển Ngà đánh bại Ecuador](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bo-bien-nga-dau-ecuador-101260614163157044.htm) - 22:00 14/06/2026
-- 🌮 [Đội hình ra sân Hà Lan đấu Nhật Bản: Memphis Depay dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-ha-lan-dau-nhat-ban-mempis-depay-du-bi-101260615025230631.htm) - 19:58 14/06/2026
-- 👹 [Nhật Bản hai lần gỡ hòa, cầm chân Hà Lan ngày ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-ha-lan-dau-nhat-ban-101260614161540654.htm) - 19:00 14/06/2026
-- 🤔 [Rực rỡ sắc hè cùng chiến sĩ Hoa phượng đỏ tại Trường THPT Nguyễn Thái Bình](https://muctim.tuoitre.vn/ruc-ro-sac-he-cung-chien-si-hoa-phuong-do-tai-truong-thpt-nguyen-thai-binh-101260614223123973.htm) - 16:44 14/06/2026
-- 🏊 [Đội hình ra sân của Đức đấu Curacao: Kai Havertz đá cao nhất](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-duc-dau-curacao-kai-havertz-da-cao-nhat-101260614232831907.htm) - 16:43 14/06/2026
-- 📝 [&#39;Cỗ xe tăng&#39; Đức thắng tưng bừng Curacao 7-1 trận ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bang-e-duc-curacao-101260614194351767.htm) - 16:00 14/06/2026
-- 👺 [Những người trẻ bền bỉ với hành trình hiến máu cứu người](https://muctim.tuoitre.vn/nhung-nguoi-tre-ben-bi-voi-hanh-trinh-hien-mau-cuu-nguoi-101260614144258433.htm) - 12:57 14/06/2026
-- 👹 [Thuỵ Điển đấu Tunisia tại World Cup 2026: Blagult chiếm ưu thế](https://muctim.tuoitre.vn/thuy-dien-dau-tunisia-tai-world-cup-2026-blagult-chiem-uu-the-101260614164051407.htm) - 12:44 14/06/2026
-- 🎊 [Đã có điểm thi tuyển sinh lớp 10 Bắc Ninh năm 2026: Hướng dẫn tra cứu nhanh](https://muctim.tuoitre.vn/da-co-diem-thi-tuyen-sinh-lop-10-bac-ninh-nam-2026-huong-dan-tra-cuu-nhanh-101260614183015727.htm) - 11:38 14/06/2026
-- 👹 [Bờ Biển Ngà đấu Ecuador tại World Cup 2026: cân tài cân sức](https://muctim.tuoitre.vn/bo-bien-nga-dau-ecuador-tai-world-cup-2026-can-tai-can-suc-101260614155803502.htm) - 11:27 14/06/2026
-- 🎃 [Đức đấu Curacao tại World Cup 2026: Cỗ xe tăng thị uy sức mạnh](https://muctim.tuoitre.vn/duc-dau-curacao-tai-world-cup-2026-co-xe-tang-thi-uy-suc-manh-101260614153310783.htm) - 11:26 14/06/2026
-- 🧑‍🏫 [Hà Lan - Nhật Bản: &quot;Samurai Xanh&quot; xuất trận](https://muctim.tuoitre.vn/ha-lan-nhat-ban-samurai-xanh-xuat-tran-101260613154612871.htm) - 11:24 14/06/2026
-- 🎊 [Tân binh Hàn Quốc vô địch bóng chuyền nữ AVC Nations Cup 2026](https://muctim.tuoitre.vn/truc-tuyen-chung-ket-bong-chuyen-nu-avc-cup-dai-bac-trung-hoa-han-quoc-101260613233047328.htm) - 09:50 14/06/2026
-- 📝 [16h hôm nay 14-6, bắt đầu tra cứu điểm thi lớp 10 tỉnh Phú Thọ](https://muctim.tuoitre.vn/16h-hom-nay-14-6-bat-dau-tra-cuu-diem-thi-lop-10-tinh-phu-tho-101260614150042604.htm) - 08:10 14/06/2026
-- 🥳 [Nam sinh THPT chuyên Sơn Tây giành vé thi tháng Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-thpt-chuyen-son-tay-gianh-ve-thi-thang-duong-len-dinh-olympia-101260614142905657.htm) - 08:01 14/06/2026
-- 💻 [Điểm chuẩn lớp 10 TP Huế: Trường THPT Hai Bà Trưng dẫn đầu, lớp chuyên Anh Quốc học Huế lấy 37,6 điểm](https://muctim.tuoitre.vn/diem-chuan-lop-10-tp-hue-truong-thpt-hai-ba-trung-dan-dau-chuyen-anh-quoc-hoc-lay-376-diem-101260614130220942.htm) - 06:21 14/06/2026
-- 😎 [Đã có điểm thi tuyển sinh lớp 10 TP Huế năm 2026, tra cứu thế nào?](https://muctim.tuoitre.vn/da-co-diem-thi-tuyen-sinh-lop-10-tp-hue-nam-2026-tra-cuu-the-nao-101260614122326226.htm) - 05:33 14/06/2026
-- 🤭 [Thắng Kazakhstan 3-0, Việt Nam xếp hạng 3 Giải bóng chuyền nữ AVC Cup 2026](https://muctim.tuoitre.vn/cap-nhat-tranh-hang-3-bong-chuyen-nu-avc-cup-viet-nam-kazakhstan-101260613231700137.htm) - 05:33 14/06/2026
-- 🤩 [Hạ Ninh Bình 2-1, Công An TP.HCM vô địch Cúp quốc gia](https://muctim.tuoitre.vn/truc-tuyen-chung-ket-cup-quoc-gia-ninh-binh-cong-an-tphcm-101260613225042256.htm) - 05:13 14/06/2026
-- 🚀 [Huỳnh Như, Thy Freestyle truyền cảm hứng &#39;ước mơ sân cỏ&#39; cho cầu thủ nhí TP.HCM](https://muctim.tuoitre.vn/huynh-nhu-thy-freestyle-truyen-cam-hung-uoc-mo-san-co-cau-thu-nhi-tphcm-101260614110457514.htm) - 04:51 14/06/2026
-- 🕴 [Đội hình ra sân Thổ Nhĩ Kỳ đấu Úc: Arda Guler đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-tho-nhi-ky-dau-uc-arda-guler-da-chinh-1012606141016219.htm) - 03:34 14/06/2026
-- ⛽️ [Cấm Gen Alpha dùng mạng xã hội: Nên hay không nên? Kỳ 4: Gen Alpha đưa ra giải pháp dùng mạng xã hội an toàn](https://muctim.tuoitre.vn/cam-gen-alpha-dung-mang-xa-hoi-nen-hay-khong-nen-ky-4-gen-alpha-dua-ra-giai-phap-dung-mang-xa-hoi-an-toan-101260611141205344.htm) - 03:14 14/06/2026
-- 🧐 [Cấm Gen Alpha dùng mạng xã hội: Nên hay không nên? Kỳ 3: Bùng nổ ý kiến từ nhiều phía](https://muctim.tuoitre.vn/cam-gen-alpha-dung-mang-xa-hoi-nen-hay-khong-nen-ky-3-bung-no-y-kien-tu-nhieu-phia-101260611112227402.htm) - 03:11 14/06/2026
-- 🦆 [Cấm gen alpha dùng mạng xã hội: Nên hay không nên? Kỳ 2: &#39;Lạc lối&#39; trong &#39;thành phố không ngủ&#39;](https://muctim.tuoitre.vn/cam-gen-alpha-dung-mang-xa-hoi-nen-hay-khong-nen-ky-2-lac-loi-trong-thanh-pho-khong-ngu-101260611103143041.htm) - 03:09 14/06/2026
-- 🤖 [Cấm gen alpha dùng mạng xã hội: Nên hay không nên? Kỳ 1: Gen alpha bước vào thành phố không ngủ](https://muctim.tuoitre.vn/cam-gen-alpha-dung-mang-xa-hoi-nen-hay-khong-nen-ky-1-gen-alpha-buoc-vao-thanh-pho-khong-ngu-101260611095118204.htm) - 03:00 14/06/2026
-- 💃 [Anh trai và cái đuôi nhỏ tập 4:  Khi các anh trai là “nhân viên” của các sếp nhí](https://muctim.tuoitre.vn/anh-trai-va-cai-duoi-nho-tap-4-khi-cac-anh-trai-la-nhan-vien-cua-cac-sep-nhi-101260614010345617.htm) - 02:01 14/06/2026
-- 🚀 [18h hôm nay 14-6, xem chung kết Cúp quốc gia trên kênh nào?](https://muctim.tuoitre.vn/18h-hom-nay-14-6-xem-chung-ket-cup-quoc-gia-tren-kenh-nao-101260614074156232.htm) - 01:55 14/06/2026
-- 🦍 [Úc tạo địa chấn trước Thổ Nhĩ Kỳ tại World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-bang-d-world-cup-2026-uc-tho-nhi-ky-101260613151348515.htm) - 01:00 14/06/2026<!-- muctim:END -->
+- 🤔 [Đội hình ra sân Iraq đấu Na Uy: Haaland đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-iraq-dau-na-uy-haaland-da-chinh-101260617042402892.htm) - 21:27 16/06/2026
+- 🥷 [Trực tiếp World Cup 2026: Iraq đấu Na Uy](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-iraq-dau-na-uy-10126061616371364.htm) - 20:00 16/06/2026
+- 🤖 [Đội hình ra sân Pháp đấu Senegal: Mbappe, Dembele đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-phap-dau-senegal-mbappe-dembele-da-chinh-101260617012905353.htm) - 18:32 16/06/2026
+- 🤓 [Mbappe lập cú đúp giúp Pháp đánh bại Senegal](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-phap-dau-senegal-101260616162250023.htm) - 17:00 16/06/2026
+- 🎉 [Học trò Trường THPT Dương Văn Thì dùng AI chống bạo lực học đường](https://muctim.tuoitre.vn/hoc-tro-truong-thpt-duong-van-thi-dung-ai-chong-bao-luc-hoc-duong-101260616204120116.htm) - 15:03 16/06/2026
+- 👨‍🏫 [Chuyện lạ World Cup 2026: Cầu thủ ít tên tuổi có hàng triệu lượt theo dõi chỉ sau một đêm](https://muctim.tuoitre.vn/chuyen-la-world-cup-2026-cau-thu-it-ten-tuoi-co-hang-trieu-luot-theo-doi-chi-sau-mot-dem-101260616204213796.htm) - 15:00 16/06/2026
+- 🚦 [Khám phá thế giới từ buồng lái máy bay ảo trên Google Earth, cách trải nghiệm thế nào?](https://muctim.tuoitre.vn/kham-pha-the-gioi-tu-buong-lai-may-bay-ao-tren-google-earth-cach-trai-nghiem-the-nao-101260616190323633.htm) - 13:13 16/06/2026
+- 🤭 [Kpop demon hunters tròn 1 tuổi, Netflix chơi lớn đưa phim ra rạp](https://muctim.tuoitre.vn/kpop-demon-hunters-tron-1-tuoi-netflix-choi-lon-dua-phim-ra-rap-101260616183643039.htm) - 13:11 16/06/2026
+- 😺 [Cựu HLV Nam Định làm HLV trưởng đội tham dự World Cup 2026](https://muctim.tuoitre.vn/cuu-hlv-nam-dinh-lam-hlv-truong-doi-tham-du-world-cup-2026-101260616194941389.htm) - 13:07 16/06/2026
+- 😎 [Argentina đấu Algeria tại World Cup 2026, bắt đầu hành trình bảo vệ ngôi vương](https://muctim.tuoitre.vn/argentina-dau-algeria-tai-world-cup-2026-bat-dau-hanh-trinh-bao-ve-ngoi-vuong-101260616185051025.htm) - 13:04 16/06/2026
+- 🐎 [Mùa hè tất bật của Kim Myung Soo: Lưu diễn khắp châu Á, phim mới chờ lên sóng](https://muctim.tuoitre.vn/mua-he-tat-bat-cua-kim-myung-soo-luu-dien-khap-chau-a-phim-moi-cho-len-song-101260616135901305.htm) - 10:12 16/06/2026
+- 🎓 [Quảng Ngãi công bố điểm chuẩn lớp 10 dự kiến năm 2026](https://muctim.tuoitre.vn/quang-ngai-cong-bo-diem-chuan-lop-10-du-kien-nam-2026-101260616170914051.htm) - 10:11 16/06/2026
+- 🐎 [Nguồn gốc tên gọi cầu Ông Lãnh, cầu Thị Nghè, ngã tư Hàng Xanh?](https://muctim.tuoitre.vn/nguon-goc-ten-goi-cau-ong-lanh-cau-thi-nghe-nga-tu-hang-xanh-101260615172148949.htm) - 10:09 16/06/2026
+- 💃 [Sinh viên UEF được đầu tư phòng thực hành nghiệp vụ ngân hàng hơn 1 tỉ đồng](https://muctim.tuoitre.vn/sinh-vien-uef-duoc-dau-tu-phong-thuc-hanh-nghiep-vu-ngan-hang-hon-1-ti-dong-101260616164544838.htm) - 10:04 16/06/2026
+- 🪜 [World Cup 2026: Na Uy áp đảo Iraq?](https://muctim.tuoitre.vn/world-cup-2026-na-uy-ap-dao-iraq-101260616134806493.htm) - 10:01 16/06/2026
+- 🎉 [Tuyển Pháp - Senegal: siêu máy tính nghiêng về Mbappe và đồng đội](https://muctim.tuoitre.vn/tuyen-phap-senegal-sieu-may-tinh-nghieng-ve-mbappe-va-dong-doi-101260616160832536.htm) - 10:00 16/06/2026
+- 🥳 [So Ji Sub muốn theo đuổi hành động trong 10 năm nữa](https://muctim.tuoitre.vn/so-ji-sub-muon-theo-duoi-hanh-dong-trong-10-nam-nua-10126061610113412.htm) - 08:03 16/06/2026
+- 🤓 [Người hùng giúp Cabo Verde cầm hòa Tây Ban Nha trận ra quân World Cup 2026 là ai?](https://muctim.tuoitre.vn/nguoi-hung-giup-cabo-verde-cam-hoa-tay-ban-nha-tran-ra-quan-world-cup-2026-la-ai-101260616130146085.htm) - 08:01 16/06/2026
+- 🎉 [Sự trở lại đầy mới mẻ của Thanh Hằng trong Mesdames Thanh Sắc](https://muctim.tuoitre.vn/su-tro-lai-day-moi-me-cua-thanh-hang-trong-mesdames-thanh-sac-10126061515314332.htm) - 07:11 16/06/2026
+- 🥳 [10 trường tư thục tại TP.HCM có chỉ tiêu tuyển sinh lớp 10 cao nhất](https://muctim.tuoitre.vn/10-truong-tu-thuc-tai-tphcm-co-chi-tieu-tuyen-sinh-lop-10-cao-nhat-101260616125558345.htm) - 07:09 16/06/2026
+- 🎡 [Đã có điểm chuẩn trúng tuyển lớp 10 của Trường THPT chuyên Thái Nguyên](https://muctim.tuoitre.vn/da-co-diem-chuan-trung-tuyen-lop-10-cua-truong-thpt-chuyen-thai-nguyen-1012606161347347.htm) - 07:08 16/06/2026
+- 👨‍🏫 [Hôm nay 16-6, TP Hải Phòng công bố điểm thi lớp 10, tra cứu nhanh ra sao?](https://muctim.tuoitre.vn/hom-nay-16-6-tp-hai-phong-cong-bo-diem-thi-lop-10-tra-cuu-nhanh-ra-sao-101260615162641072.htm) - 03:45 16/06/2026
+- 🧠 [Bắt sóng tọa độ Hoa phượng đỏ quanh sân trường](https://muctim.tuoitre.vn/bat-song-toa-do-hoa-phuong-do-quanh-san-truong-101260615141706705.htm) - 02:13 16/06/2026
+- 🥷 [Nhân vật ngáo ngơ được yêu thích trong Teach you a lesson là rapper Kpop](https://muctim.tuoitre.vn/nhan-vat-ngao-ngo-duoc-yeu-thich-trong-teach-you-a-lesson-la-rapper-kpop-101260611130851401.htm) - 02:11 16/06/2026
+- 🤔 [Đội hình ra sân Iran đấu New Zealand: Taremi đối đầu Chris Wood](https://muctim.tuoitre.vn/doi-hinh-ra-san-iran-dau-new-zealand-taremi-doi-dau-chris-wood-101260616072107413.htm) - 00:37 16/06/2026
+- 🐎 [Iran thoát thua trước New Zealand ở World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-iran-dau-new-zealand-101260615150419607.htm) - 23:00 15/06/2026
+- ⛽️ [Đội hình ra sân Saudi Arabia đấu Uruguay: Nunez, Valverde đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-saudi-arabia-dau-uruguay-nunez-valverde-da-chinh-101260616041753746.htm) - 22:52 15/06/2026
+- 🤡 [Cách tra cứu điểm thi lớp 10 tỉnh Thái Nguyên năm học 2026 - 2027](https://muctim.tuoitre.vn/cach-tra-cuu-diem-thi-lop-10-tinh-thai-nguyen-nam-hoc-2026-2027-101260616010243164.htm) - 22:52 15/06/2026
+- 🌁 [Saudi Arabia vất vả cầm chân Uruguay 1-1](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-uruguay-dau-saudi-arabia-101260615150808319.htm) - 20:00 15/06/2026
+- 🎓 [S.T Sơn Thạch trở lại với &#39;Ngược hướng&#39;](https://muctim.tuoitre.vn/st-son-thach-tro-lai-voi-nguoc-huong-101260615234545353.htm) - 19:28 15/06/2026
+- 🦍 [Bắc Ninh công bố điểm chuẩn vào lớp 10: cao nhất 22,76 điểm](https://muctim.tuoitre.vn/bac-ninh-cong-bo-diem-chuan-vao-lop-10-cao-nhat-2276-diem-101260614190618219.htm) - 19:11 15/06/2026
+- 🤠 [Đội hình ra sân của tuyển Bỉ đấu Ai Cập: De Bruyne đối đầu Salah](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-tuyen-bi-dau-ai-cap-de-bruyne-doi-dau-sala-1012606160125345.htm) - 19:09 15/06/2026
+- 🎬 [Tuyển Bỉ và Ai Cập chia điểm ngày ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-tuyen-bi-dau-ai-cap-101260615150214074.htm) - 17:00 15/06/2026
+- 🌮 [Đội hình ra sân Tây Ban Nha đấu Cape Verde: Lamine Yamal dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-tay-ban-nha-dau-cape-verde-lamine-yamal-du-bi-101260615194935037.htm) - 15:06 15/06/2026
+- 👹 [Trường THPT Mạc Đĩnh Chi ra quân chiến dịch Hoa Phượng Đỏ](https://muctim.tuoitre.vn/truong-thpt-mac-dinh-chi-ra-quan-chien-dich-hoa-phuong-do-101260615152813687.htm) - 14:35 15/06/2026
+- 🤔 [Love in the moonlight kỷ niệm 10 năm ra mắt cùng dàn diễn viên chính](https://muctim.tuoitre.vn/love-in-the-moonlight-ky-niem-10-nam-ra-mat-cung-dan-dien-vien-chinh-101260615175937317.htm) - 14:21 15/06/2026
+- 🏊 [Đức bỏ lỡ cơ hội lập kỷ lục hiếm có tại World Cup 2026](https://muctim.tuoitre.vn/duc-bo-lo-co-hoi-lap-ky-luc-hiem-co-tai-world-cup-2026-10126061520425128.htm) - 14:20 15/06/2026
+- 📝 [HLV đầu tiên bị sa thải tại World Cup 2026?](https://muctim.tuoitre.vn/hlv-dau-tien-bi-sa-thai-tai-world-cup-2026-101260615201822537.htm) - 14:17 15/06/2026
+- 👺 [Học trò Trường THPT Hàn Thuyên thích thú giải mã kiến thức địa chất](https://muctim.tuoitre.vn/hoc-tro-truong-thpt-han-thuyen-thich-thu-giai-ma-kien-thuc-dia-chat-101260615165648117.htm) - 11:38 15/06/2026
+- 👹 [Quảng Ngãi công bố điểm thi lớp 10 trước 20-6, tra cứu bằng cách nào?](https://muctim.tuoitre.vn/tra-cuu-bang-cach-nao-10126061516373398.htm) - 09:56 15/06/2026
+- 🎊 [Tây Ban Nha bị tân binh Cape Verde cầm hòa 0-0 trận ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-bang-h-world-cup-2026-tay-ban-nha-cape-verde-101260615152136385.htm) - 09:20 15/06/2026
+- 👹 [Tuyển Bỉ - Ai Cập: siêu máy tính đoán trận đấu cân bằng](https://muctim.tuoitre.vn/tuyen-bi-ai-cap-sieu-may-tinh-doan-tran-dau-can-bang-10126061417203155.htm) - 09:16 15/06/2026
+- 🎃 [Tuyển Iran - New Zealand: siêu máy tính đoán đại diện Tây Á thắng trận](https://muctim.tuoitre.vn/tuyen-iran-new-zealand-sieu-may-tinh-doan-dai-dien-tay-a-thang-tran-101260614174420778.htm) - 08:16 15/06/2026
+- 🧑‍🏫 [Saudi Arabia đấu Uruguay tại World Cup 2026: Đại diện châu Á liệu có tạo địa chấn?](https://muctim.tuoitre.vn/saudi-arabia-dau-uruguay-tai-world-cup-2026-dai-dien-chau-a-lieu-co-tao-dia-chan-101260613175213799.htm) - 08:13 15/06/2026
+- 🎊 [Say hi rực rỡ tập 2: Nicky mất ngủ, Hùng Huỳnh “bóc phốt” dàn cast](https://muctim.tuoitre.vn/say-hi-ruc-ro-tap-2-nicky-mat-ngu-hung-huynh-boc-phot-dan-cast-101260614234854637.htm) - 07:36 15/06/2026
+- 📝 [Ngôi trường THPT nào lâu đời nhất tại TP.HCM?](https://muctim.tuoitre.vn/ngoi-truong-thpt-nao-lau-doi-nhat-tai-tphcm-10126061321552321.htm) - 02:56 15/06/2026
+- 🥳 [Đón đọc Khăn Quàng Đỏ 24, phát hành 17-6: Viết tiếp câu chuyện tình bạn với KQĐ](https://muctim.tuoitre.vn/don-doc-khan-quang-do-24-phat-hanh-17-6-viet-tiep-cau-chuyen-tinh-ban-voi-kqd-101260612141149934.htm) - 02:03 15/06/2026
+- 💻 [Tây Ban Nha đấu Cape Verde tại World Cup 2026: Khẳng định đẳng cấp ông lớn?](https://muctim.tuoitre.vn/tay-ban-nha-dau-cape-verde-tai-world-cup-2026-khang-dinh-dang-cap-ong-lon-101260613165630635.htm) - 02:00 15/06/2026
+- 😎 [Đội hình xuất phát Thụy Điển đấu Tunisia bảng F World Cup 2026](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-thuy-dien-dau-tunisia-bang-f-world-cup-2026-101260615083540281.htm) - 01:51 15/06/2026
+- 🤭 [Thắng Tunisia 5-1, Thụy Điển tạm dẫn đầu bảng F World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-bang-f-world-cup-2026-thuy-dien-tunisia-101260615074002046.htm) - 00:46 15/06/2026
+- 🤩 [Kết quả bóng chuyền nam VNL 2026 ngày 14-6, lịch thi đấu 15-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nam-vnl-2026-ngay-14-6-lich-thi-dau-15-6-101260614172756432.htm) - 00:19 15/06/2026
+- 🚀 [Tuần mới của 12 cung hoàng đạo: Sư Tử may mắn](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-su-tu-may-man-101260614230144511.htm) - 00:11 15/06/2026
+- 🕴 [Đội hình ra sân Bờ Biển Ngà đấu Ecuador: Moises Caicedo đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-bo-bien-nga-dau-ecuador-moises-caicedo-da-chinh-101260615052150211.htm) - 22:32 14/06/2026
+- ⛽️ [Ngôi sao Man United tỏa sáng giúp Bờ Biển Ngà đánh bại Ecuador](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bo-bien-nga-dau-ecuador-101260614163157044.htm) - 22:00 14/06/2026
+- 🧐 [Đội hình ra sân Hà Lan đấu Nhật Bản: Memphis Depay dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-ha-lan-dau-nhat-ban-mempis-depay-du-bi-101260615025230631.htm) - 19:58 14/06/2026
+- 🦆 [Nhật Bản hai lần gỡ hòa, cầm chân Hà Lan ngày ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-ha-lan-dau-nhat-ban-101260614161540654.htm) - 19:00 14/06/2026
+- 🤖 [Rực rỡ sắc hè cùng chiến sĩ Hoa phượng đỏ tại Trường THPT Nguyễn Thái Bình](https://muctim.tuoitre.vn/ruc-ro-sac-he-cung-chien-si-hoa-phuong-do-tai-truong-thpt-nguyen-thai-binh-101260614223123973.htm) - 16:44 14/06/2026
+- 💃 [Đội hình ra sân của Đức đấu Curacao: Kai Havertz đá cao nhất](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-duc-dau-curacao-kai-havertz-da-cao-nhat-101260614232831907.htm) - 16:43 14/06/2026
+- 🚀 [&#39;Cỗ xe tăng&#39; Đức thắng tưng bừng Curacao 7-1 trận ra quân World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bang-e-duc-curacao-101260614194351767.htm) - 16:00 14/06/2026
+- 🦍 [Những người trẻ bền bỉ với hành trình hiến máu cứu người](https://muctim.tuoitre.vn/nhung-nguoi-tre-ben-bi-voi-hanh-trinh-hien-mau-cuu-nguoi-101260614144258433.htm) - 12:57 14/06/2026<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
