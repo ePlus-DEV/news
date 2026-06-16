@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Trực tiếp World Cup 2026: Iran đấu New Zealand](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-iran-dau-new-zealand-101260615150419607.htm) - 23:00 15/06/2026
 - 🥷 [Đội hình ra sân Saudi Arabia đấu Uruguay: Nunez, Valverde đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-saudi-arabia-dau-uruguay-nunez-valverde-da-chinh-101260616041753746.htm) - 22:52 15/06/2026
 - 🤖 [Cách tra cứu điểm thi lớp 10 tỉnh Thái Nguyên năm học 2026 - 2027](https://muctim.tuoitre.vn/cach-tra-cuu-diem-thi-lop-10-tinh-thai-nguyen-nam-hoc-2026-2027-101260616010243164.htm) - 22:52 15/06/2026
-- 🤓 [Saudi Arabia đấu Uruguay &lpar;hiệp 2&rpar; 1-1: Maxi Araujo gỡ hoà](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-uruguay-dau-saudi-arabia-101260615150808319.htm) - 20:00 15/06/2026
+- 🤓 [Saudi Arabia vất vả cầm chân Uruguay 1-1](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-uruguay-dau-saudi-arabia-101260615150808319.htm) - 20:00 15/06/2026
 - 🎉 [S.T Sơn Thạch trở lại với &#39;Ngược hướng&#39;](https://muctim.tuoitre.vn/st-son-thach-tro-lai-voi-nguoc-huong-101260615234545353.htm) - 19:28 15/06/2026
 - 👨‍🏫 [Bắc Ninh công bố điểm chuẩn vào lớp 10: cao nhất 22,76 điểm](https://muctim.tuoitre.vn/bac-ninh-cong-bo-diem-chuan-vao-lop-10-cao-nhat-2276-diem-101260614190618219.htm) - 19:11 15/06/2026
 - 🚦 [Đội hình ra sân của tuyển Bỉ đấu Ai Cập: De Bruyne đối đầu Salah](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-tuyen-bi-dau-ai-cap-de-bruyne-doi-dau-sala-1012606160125345.htm) - 19:09 15/06/2026
