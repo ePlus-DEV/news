@@ -4,18 +4,18 @@ sidebar_position: 23
 ---
 
 <!-- nld-video:START -->
-- 🪄 [VIDEO: Công an dựng cảnh phá án cá độ bóng đá trước thêm World Cup](https://nld.com.vn/video-cong-an-dung-canh-pha-an-ca-do-bong-da-truoc-them-world-cup-196260611170810523.htm) - 10:08 11/06/2026
-- 🕯 [VIDEO: Những thí sinh “đặc biệt” trong kỳ thi THPT tại TPHCM](https://nld.com.vn/video-nhung-thi-sinh-dac-biet-trong-ky-thi-thpt-tai-tphcm-196260611160000789.htm) - 10:00 11/06/2026
-- 🧠 [VIDEO: CSGT mở đường đưa nam sinh bị sốt cao đến điểm thi tốt nghiệp THPT](https://nld.com.vn/video-csgt-mo-duong-dua-nam-sinh-bi-sot-cao-den-diem-thi-tot-nghiep-thpt-196260611163747374.htm) - 09:57 11/06/2026
-- 🫣 [Báo Người Lao Động trao giải 3 cuộc thi lớn: Tình yêu, trách nhiệm](https://nld.com.vn/bao-nguoi-lao-dong-trao-giai-3-cuoc-thi-lon-tinh-yeu-trach-nhiem-196260611161235487.htm) - 09:33 11/06/2026
-- 🧑‍💻 [Biến lợi thế nông nghiệp thành sản phẩm du lịch](https://nld.com.vn/bien-loi-the-nong-nghiep-thanh-san-pham-du-lich-196260610171715853.htm) - 05:02 11/06/2026
-- 🦄 [Kỳ thi tốt nghiệp THPT: Nữ sinh khuyết tật gác giấc mơ bác sĩ, chinh phục ngành mới](https://nld.com.vn/ky-thi-tot-nghiep-thpt-nu-sinh-khuyet-tat-gac-giac-mo-bac-si-chinh-phuc-nganh-moi-196260611085447769.htm) - 02:17 11/06/2026
-- 🦩 [Báo in ngày 11-6: Tin nhắn sau buổi thi](https://nld.com.vn/bao-in-ngay-11-6-tin-nhan-sau-buoi-thi-196260610210520539.htm) - 17:00 10/06/2026
-- 🏊 [Talkshow &quot;Cơ hội đầu tư chứng khoán, vàng, bất động sản, nửa cuối năm 2026?&quot;](https://nld.com.vn/sang-10-6-talkshow-co-hoi-dau-tu-chung-khoan-vang-bat-dong-san-nua-cuoi-nam-2026-196260609234913984.htm) - 03:12 10/06/2026
-- 🪄 [NHỮNG CÂU CHUYỆN NHỎ: Cuốn sổ trong con hẻm nhỏ](https://nld.com.vn/nhung-cau-chuyen-nho-cuon-so-trong-con-hem-nho-196260609214554449.htm) - 01:00 10/06/2026
-- 💄 [Báo in ngày 10-6: TP HCM: Khi bò &quot;đe dọa&quot; tuyến cao tốc](https://nld.com.vn/bao-in-ngay-10-6-tp-hcm-khi-bo-de-doa-tuyen-cao-toc-196260609224309585.htm) - 16:59 09/06/2026
-- 🕯 [Vùng kinh tế phía Nam được kỳ vọng trở thành động lực tăng trưởng hai con số](https://nld.com.vn/vung-kinh-te-phia-nam-duoc-ky-vong-tro-thanh-dong-luc-tang-truong-hai-con-so-196260609174321726.htm) - 10:55 09/06/2026
-- 🏊 [Vườn rau 4.0 của nông dân thời số](https://nld.com.vn/vuon-rau-40-cua-nong-dan-thoi-so-196260607213727769.htm) - 03:28 09/06/2026
-- 🥰 [Báo in ngày 9-6: Hành trình tìm đồng đội giữa lòng thành phố](https://nld.com.vn/bao-in-ngay-9-6-hanh-trinh-tim-dong-doi-giua-long-thanh-pho-196260608223714775.htm) - 17:00 08/06/2026
-- 🧑‍🏫 [Talkshow: &quot;World Cup 2026 - Quy mô và khác biệt&quot; - World Cup của những kỷ lục](https://nld.com.vn/talkshow-world-cup-2026-quy-mo-va-khac-biet-world-cup-cua-nhung-ky-luc-1962606081914288.htm) - 12:38 08/06/2026
-- 💯 [VIDEO: Mặt đất rung lắc dữ dội, nhiều người tháo chạy trong động đất 8,2 độ ở Philippines](https://nld.com.vn/video-mat-dat-rung-lac-du-doi-nhieu-nguoi-thao-chay-trong-dong-dat-82-do-o-philippines-196260608140248956.htm) - 08:59 08/06/2026<!-- nld-video:END -->
+- 🪄 [Báo in ngày 17-6: Xôn xao hồ sơ mật UFO của Mỹ](https://nld.com.vn/bao-in-ngay-17-6-xon-xao-ho-so-mat-ufo-cua-my-1962606162200336.htm) - 16:59 16/06/2026
+- 🕯 [VIDEO: Công an TPHCM lập &quot;Bệnh viện dã chiến&quot; cứu sống hơn 400 bé mèo](https://nld.com.vn/video-cong-an-tphcm-lap-benh-vien-da-chien-cuu-song-hon-400-be-meo-19626061619215525.htm) - 12:56 16/06/2026
+- 🧠 [Nhìn lại đề thi tốt nghiệp THPT 2026, dự đoán điểm, chọn ngành](https://nld.com.vn/nhin-lai-de-thi-tot-nghiep-thpt-2026-du-doan-diem-chon-nganh-196260616164449432.htm) - 10:06 16/06/2026
+- 🫣 [Hành trình gìn giữ nghề gốm Lái Thiêu](https://nld.com.vn/hanh-trinh-gin-giu-nghe-gom-lai-thieu-196260616081918505.htm) - 04:13 16/06/2026
+- 🧑‍💻 [Báo in ngày 16-6: Mẩu giấy trên mâm cơm để phần](https://nld.com.vn/bao-in-ngay-16-6-mau-giay-tren-mam-com-de-phan-196260615213218165.htm) - 16:59 15/06/2026
+- 🦄 [Tăng sức hấp dẫn và hiệu quả kinh tế concert Việt](https://nld.com.vn/tang-suc-hap-dan-va-hieu-qua-kinh-te-concert-viet-196260615172736531.htm) - 10:47 15/06/2026
+- 🦩 [Báo in ngày 15-6: Phủ sóng trạm sạc xe điện trên cả nước](https://nld.com.vn/bao-in-ngay-15-6-phu-song-tram-sac-xe-dien-tren-ca-nuoc-19626061422113774.htm) - 17:00 14/06/2026
+- 🏊 [Nhà báo Tô Đình Tuân ra mắt sách &quot;Dấn thân cùng nghề báo&quot;](https://nld.com.vn/nha-bao-to-dinh-tuan-ra-mat-sach-dan-than-cung-nghe-bao-196260614183455349.htm) - 11:51 14/06/2026
+- 🪄 [VIDEO: Vận động viên chiến thắng nói gì về giải Pickleball Báo Người Lao Động 2026?](https://nld.com.vn/video-van-dong-vien-chien-thang-noi-gi-ve-giai-pickleball-bao-nguoi-lao-dong-2026-19626061412101115.htm) - 06:34 14/06/2026
+- 💄 [Cây bưởi da xanh của người nông dân Sông Xoài](https://nld.com.vn/cay-buoi-da-xanh-o-song-xoai-196260612170737032.htm) - 03:32 14/06/2026
+- 🕯 [Báo in ngày 14-6: Bi kịch sau cái lắc đầu](https://nld.com.vn/bao-in-ngay-14-6-bi-kich-sau-cai-lac-dau-196260613222915102.htm) - 17:00 13/06/2026
+- 🏊 [Giải Pickleball Báo Người Lao Động năm 2026: Ấn tượng bảng đấu nghệ sĩ](https://nld.com.vn/giai-pickleball-bao-nguoi-lao-dong-nam-2026-an-tuong-bang-dau-nghe-si-196260613194013193.htm) - 13:13 13/06/2026
+- 🥰 [Thúy Ngân - Hữu Long vô địch thuyết phục tại Giải Pickleball Báo Người Lao Động 2026](https://nld.com.vn/thuy-ngan-huu-long-vo-dich-thuyet-phuc-tai-giai-pickleball-bao-nguoi-lao-dong-2026-196260613180416893.htm) - 11:55 13/06/2026
+- 🧑‍🏫 [Đông đảo nghệ sĩ hào hứng tranh tài tại Giải Pickleball Báo Người Lao Động](https://nld.com.vn/dong-dao-nghe-si-hao-hung-tranh-tai-tai-giai-pickleball-bao-nguoi-lao-dong-196260613134729109.htm) - 07:37 13/06/2026
+- 💯 [Tiếp sức cho nông nghiệp phát triển bền vững](https://nld.com.vn/tiep-suc-cho-nong-nghiep-phat-trien-ben-vung-196260612163201669.htm) - 04:38 13/06/2026<!-- nld-video:END -->
