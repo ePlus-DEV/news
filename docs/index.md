@@ -659,7 +659,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Tuổi Trẻ
 <!-- tuoitre:START -->
 - 🤭 [Thời tiết hôm nay 21-6: Cả nước nắng nóng, nhiệt độ cao nhất có thể gần 40 độ C](https://tuoitre.vn/thoi-tiet-hom-nay-21-6-ca-nuoc-nang-nong-nhiet-do-cao-nhat-co-the-gan-40-do-c-100260620161813742.htm) - 02:07 21/06/2026
-- 🧑‍🏫 [Đức - Bờ Biển Ngà &lpar;Hiệp 1&rpar;: 0-0](https://tuoitre.vn/truc-tuyen-duc-bo-bien-nga-3h-duc-se-som-di-tiep-100260620153648479.htm) - 01:20 21/06/2026
+- 🧑‍🏫 [Đức lần đầu vượt qua vòng bảng World Cup sau 12 năm](https://tuoitre.vn/truc-tuyen-duc-bo-bien-nga-3h-duc-se-som-di-tiep-100260620153648479.htm) - 01:20 21/06/2026
 - 🫶 [Thái Lan, Nhật Bản cùng lúc gây sốc làng bóng chuyền](https://tuoitre.vn/thai-lan-nhat-ban-cung-luc-gay-soc-lang-bong-chuyen-100260620234545219.htm) - 00:23 21/06/2026
 - 🪜 [Đón làn sóng đầu tư năng lượng tái tạo, doanh nghiệp Việt tìm vị thế mới](https://tuoitre.vn/don-lan-song-dau-tu-nang-luong-tai-tao-doanh-nghiep-viet-tim-vi-the-moi-100260620215907461.htm) - 23:29 20/06/2026
 - 😎 [Phong tỏa hiện trường vụ án mạng làm 4 người chết ở Bắc Ninh](https://tuoitre.vn/phong-toa-hien-truong-vu-an-mang-lam-4-nguoi-chet-o-bac-ninh-100260620230611122.htm) - 23:27 20/06/2026
