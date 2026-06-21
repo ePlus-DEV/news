@@ -4,53 +4,53 @@ sidebar_position: 24
 ---
 
 <!-- nld-podcast:START -->
-- 🫣 [Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM](https://nld.com.vn/podcast/cong-bo-quyet-dinh-thanh-lap-bao-va-phat-thanh-truyen-hinh-tphcm-196260620112352536.htm) - 04:40 20/06/2026
-- 💄 [Từ 1-7, người tham gia BHYT có thêm quyền lợi gì?](https://nld.com.vn/podcast/tu-1-7-nguoi-tham-gia-bhyt-co-them-quyen-loi-gi-196260619110108674.htm) - 04:29 19/06/2026
-- 💡 [Ngành học nào “khát” nhân lực, nhiều cơ hội trúng tuyển?](https://nld.com.vn/podcast/nganh-hoc-nao-kha-nhan-luc-nhieu-co-hoi-trung-tuyen-19626061810562882.htm) - 04:18 18/06/2026
-- 🦒 [Chuẩn bị công bố điểm thi lớp 10: Nhiều thông tin đáng chú ý](https://nld.com.vn/podcast/chuan-bi-cong-bo-diem-thi-lop-10-nhieu-thong-tin-dang-chu-y-196260617112025702.htm) - 04:41 17/06/2026
-- 🤭 [Chuyên gia nhận định xu hướng điểm chuẩn ĐH năm nay](https://nld.com.vn/podcast/chuyen-gia-nhan-dinh-xu-huong-diem-chuan-dh-nam-nay-196260616105433598.htm) - 07:51 16/06/2026
-- 🥳 [Talkshow &quot;Tăng sức hấp dẫn và hiệu quả kinh tế từ các concert âm nhạc&quot;](https://nld.com.vn/podcast/talkshow-tang-suc-hap-dan-va-hieu-qua-kinh-te-tu-cac-concert-am-nhac-196260615111442605.htm) - 04:37 15/06/2026
-- 🌝 [Ra mắt sách “Dấn thân cùng nghề báo” của Nhà báo - TS Tô Đình Tuân](https://nld.com.vn/podcast/ra-mat-sach-dan-than-cung-nghe-bao-cua-nha-bao-ts-to-dinh-tuan-196260614112223072.htm) - 04:31 14/06/2026
-- 🙉 [Hấp dẫn Giải Pickleball Báo Người Lao Động năm 2026](https://nld.com.vn/podcast/hap-dan-giai-pickleball-bao-nguoi-lao-dong-nam-2026-196260613114411217.htm) - 04:57 13/06/2026
-- 🏊 [Khám xét “căn cứ bí mật” của ổ nhóm lừa đảo xuyên quốc gia quy mô lớn](https://nld.com.vn/podcast/kham-xet-can-cu-bi-mat-cua-o-nhom-lua-dao-xuyen-quoc-gia-quy-mo-lon-196260612112100218.htm) - 04:31 12/06/2026
-- 🌊 [Báo Người Lao Động trao giải 3 cuộc thi lớn: Tôn vinh những giá trị đẹp](https://nld.com.vn/podcast/bao-nguoi-lao-dong-trao-giai-3-cuoc-thi-lon-ton-vinh-nhung-gia-tri-dep-196260611105841369.htm) - 04:26 11/06/2026
-- 🦅 [Cơ hội nào cho nhà đầu tư chứng khoán, vàng, bất động sản nửa cuối năm 2026?](https://nld.com.vn/podcast/co-hoi-nao-cho-nha-dau-tu-chung-khoan-vang-bat-dong-san-nua-cuoi-nam-2026-196260610110050984.htm) - 04:50 10/06/2026
-- 💻 [Diễn đàn Kinh tế Việt Nam 2026 - lần thứ II: Khơi thông động lực phát triển vùng phía Nam](https://nld.com.vn/podcast/dien-dan-kinh-te-viet-nam-2026-lan-thu-ii-khoi-thong-dong-luc-phat-trien-vung-phia-nam-196260609111148193.htm) - 04:30 09/06/2026
-- 🫶 [Chỉ đạo mới về xăng E10](https://nld.com.vn/podcast/chi-dao-moi-ve-xang-e10-196260608122312832.htm) - 05:43 08/06/2026
-- 🤭 [Năm 2026, thí sinh có thể đăng ký bao nhiêu nguyện vọng đại học?](https://nld.com.vn/podcast/nam-2026-thi-sinh-co-the-dang-ky-bao-nhieu-nguyen-vong-dai-hoc-196260607115437943.htm) - 05:28 07/06/2026
-- 🌈 [Người nghỉ hưu từ tháng 7 có thuộc diện tăng lương hưu 8% ?](https://nld.com.vn/podcast/nguoi-nghi-huu-tu-thang-7-co-thuoc-dien-tang-luong-huu-8-19626060613542527.htm) - 07:21 06/06/2026
-- 💄 [7 năm &quot;Tự hào cờ Tổ quốc&quot;: Hành trình lan tỏa lòng yêu nước](https://nld.com.vn/podcast/7-nam-tu-hao-co-to-quoc-hanh-trinh-lan-toa-long-yeu-nuoc-196260605110942363.htm) - 04:23 05/06/2026
-- 📝 [Đón xem talkshow của Báo Người Lao Động để biết lưu ý thi tốt nghiệp THPT và chọn nguyện vọng](https://nld.com.vn/podcast/don-xem-talkshow-cua-bao-nguoi-lao-dong-de-biet-luu-y-thi-tot-nghiep-thpt-va-chon-nguyen-vong-196260604104402718.htm) - 04:22 04/06/2026
-- 🦣 [Giá vàng “chạm đáy”, người mua ở đỉnh lỗ bao nhiêu?](https://nld.com.vn/podcast/gia-vang-cham-day-nguoi-mua-o-dinh-lo-bao-nhieu-196260603111027465.htm) - 04:27 03/06/2026
-- 🥰 [Giá vàng lao dốc không phanh, giảm thêm 1 triệu đồng/lượng](https://nld.com.vn/podcast/gia-vang-lao-doc-khong-phanh-giam-them-1-trieu-dong-luong-19626060211122503.htm) - 04:30 02/06/2026
-- 🤩 [TPHCM: Thí sinh hoàn thành môn thi đầu tiên kỳ tuyển sinh vào lớp 10](https://nld.com.vn/podcast/tphcm-thi-sinh-hoan-thanh-mon-thi-dau-tien-ky-tuyen-sinh-vao-lop-10-19626060111125795.htm) - 04:38 01/06/2026
-- 🙉 [Lý do hàng loạt công ty dược bị phạt nặng, buộc thu hồi sản phẩm](https://nld.com.vn/podcast/ly-do-hang-loat-cong-ty-duoc-bi-phat-nang-buoc-thu-hoi-san-pham-196260531105224959.htm) - 04:12 31/05/2026
-- 🔭 [Lời khai của đối tượng chủ mưu vụ cướp tiệm vàng ở TPHCM](https://nld.com.vn/podcast/loi-khai-cua-doi-tuong-chu-muu-vu-cuop-tiem-vang-o-tphcm-196260530104656733.htm) - 04:11 30/05/2026
-- 🐲 [Một rapper bị bắt trong cuộc truy quét đường dây ma túy lớn](https://nld.com.vn/podcast/mot-rapper-bi-bat-trong-cuoc-truy-quet-duong-day-ma-tuy-lon-19626052911191128.htm) - 04:31 29/05/2026
-- 🎬 [Kỳ vọng nào cho cổ phiếu ngân hàng nửa cuối năm 2026?](https://nld.com.vn/podcast/ky-vong-nao-cho-co-phieu-ngan-hang-nua-cuoi-nam-2026-19626052811180996.htm) - 04:39 28/05/2026
-- 💫 [Sức hút của chương trình &quot;Doanh nghiệp vì người lao động - Chuẩn mực vàng&quot;](https://nld.com.vn/podcast/suc-hut-cua-chuong-trinh-doanh-nghiep-vi-nguoi-lao-dong-chuan-muc-vang-196260527100149205.htm) - 04:09 27/05/2026
-- 🐲 [Báo Người Lao Động tổ chức talkshow hữu ích về giáo dục nghề nghiệp](https://nld.com.vn/podcast/bao-nguoi-lao-dong-to-chuc-talkshow-huu-ich-ve-giao-duc-nghe-nghiep-196260526105555842.htm) - 04:21 26/05/2026
-- 🤗 [Diễn biến mới nhất vụ nổ súng làm 2 người thương vong ở TPHCM](https://nld.com.vn/podcast/dien-bien-moi-nhat-vu-no-sung-lam-2-nguoi-thuong-vong-o-tphcm-196260525104751776.htm) - 04:30 25/05/2026
-- 🧑‍🏫 [Trường hợp nhà giáo nào được hưởng phụ cấp ưu đãi nghề mức cao 80%?](https://nld.com.vn/podcast/truong-hop-nha-giao-nao-duoc-huong-phu-cap-uu-dai-nghe-muc-cao-80-196260524105746729.htm) - 04:10 24/05/2026
+- 🫣 [Diễn biến vụ thảm án 4 người tử vong ở Bắc Ninh](https://nld.com.vn/podcast/dien-bien-vu-tham-an-4-nguoi-tu-vong-o-bac-ninh-196260621111043767.htm) - 04:28 21/06/2026
+- 💄 [Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM](https://nld.com.vn/podcast/cong-bo-quyet-dinh-thanh-lap-bao-va-phat-thanh-truyen-hinh-tphcm-196260620112352536.htm) - 04:40 20/06/2026
+- 💡 [Từ 1-7, người tham gia BHYT có thêm quyền lợi gì?](https://nld.com.vn/podcast/tu-1-7-nguoi-tham-gia-bhyt-co-them-quyen-loi-gi-196260619110108674.htm) - 04:29 19/06/2026
+- 🦒 [Ngành học nào “khát” nhân lực, nhiều cơ hội trúng tuyển?](https://nld.com.vn/podcast/nganh-hoc-nao-kha-nhan-luc-nhieu-co-hoi-trung-tuyen-19626061810562882.htm) - 04:18 18/06/2026
+- 🤭 [Chuẩn bị công bố điểm thi lớp 10: Nhiều thông tin đáng chú ý](https://nld.com.vn/podcast/chuan-bi-cong-bo-diem-thi-lop-10-nhieu-thong-tin-dang-chu-y-196260617112025702.htm) - 04:41 17/06/2026
+- 🥳 [Chuyên gia nhận định xu hướng điểm chuẩn ĐH năm nay](https://nld.com.vn/podcast/chuyen-gia-nhan-dinh-xu-huong-diem-chuan-dh-nam-nay-196260616105433598.htm) - 07:51 16/06/2026
+- 🌝 [Talkshow &quot;Tăng sức hấp dẫn và hiệu quả kinh tế từ các concert âm nhạc&quot;](https://nld.com.vn/podcast/talkshow-tang-suc-hap-dan-va-hieu-qua-kinh-te-tu-cac-concert-am-nhac-196260615111442605.htm) - 04:37 15/06/2026
+- 🙉 [Ra mắt sách “Dấn thân cùng nghề báo” của Nhà báo - TS Tô Đình Tuân](https://nld.com.vn/podcast/ra-mat-sach-dan-than-cung-nghe-bao-cua-nha-bao-ts-to-dinh-tuan-196260614112223072.htm) - 04:31 14/06/2026
+- 🏊 [Hấp dẫn Giải Pickleball Báo Người Lao Động năm 2026](https://nld.com.vn/podcast/hap-dan-giai-pickleball-bao-nguoi-lao-dong-nam-2026-196260613114411217.htm) - 04:57 13/06/2026
+- 🌊 [Khám xét “căn cứ bí mật” của ổ nhóm lừa đảo xuyên quốc gia quy mô lớn](https://nld.com.vn/podcast/kham-xet-can-cu-bi-mat-cua-o-nhom-lua-dao-xuyen-quoc-gia-quy-mo-lon-196260612112100218.htm) - 04:31 12/06/2026
+- 🦅 [Báo Người Lao Động trao giải 3 cuộc thi lớn: Tôn vinh những giá trị đẹp](https://nld.com.vn/podcast/bao-nguoi-lao-dong-trao-giai-3-cuoc-thi-lon-ton-vinh-nhung-gia-tri-dep-196260611105841369.htm) - 04:26 11/06/2026
+- 💻 [Cơ hội nào cho nhà đầu tư chứng khoán, vàng, bất động sản nửa cuối năm 2026?](https://nld.com.vn/podcast/co-hoi-nao-cho-nha-dau-tu-chung-khoan-vang-bat-dong-san-nua-cuoi-nam-2026-196260610110050984.htm) - 04:50 10/06/2026
+- 🫶 [Diễn đàn Kinh tế Việt Nam 2026 - lần thứ II: Khơi thông động lực phát triển vùng phía Nam](https://nld.com.vn/podcast/dien-dan-kinh-te-viet-nam-2026-lan-thu-ii-khoi-thong-dong-luc-phat-trien-vung-phia-nam-196260609111148193.htm) - 04:30 09/06/2026
+- 🤭 [Chỉ đạo mới về xăng E10](https://nld.com.vn/podcast/chi-dao-moi-ve-xang-e10-196260608122312832.htm) - 05:43 08/06/2026
+- 🌈 [Năm 2026, thí sinh có thể đăng ký bao nhiêu nguyện vọng đại học?](https://nld.com.vn/podcast/nam-2026-thi-sinh-co-the-dang-ky-bao-nhieu-nguyen-vong-dai-hoc-196260607115437943.htm) - 05:28 07/06/2026
+- 💄 [Người nghỉ hưu từ tháng 7 có thuộc diện tăng lương hưu 8% ?](https://nld.com.vn/podcast/nguoi-nghi-huu-tu-thang-7-co-thuoc-dien-tang-luong-huu-8-19626060613542527.htm) - 07:21 06/06/2026
+- 📝 [7 năm &quot;Tự hào cờ Tổ quốc&quot;: Hành trình lan tỏa lòng yêu nước](https://nld.com.vn/podcast/7-nam-tu-hao-co-to-quoc-hanh-trinh-lan-toa-long-yeu-nuoc-196260605110942363.htm) - 04:23 05/06/2026
+- 🦣 [Đón xem talkshow của Báo Người Lao Động để biết lưu ý thi tốt nghiệp THPT và chọn nguyện vọng](https://nld.com.vn/podcast/don-xem-talkshow-cua-bao-nguoi-lao-dong-de-biet-luu-y-thi-tot-nghiep-thpt-va-chon-nguyen-vong-196260604104402718.htm) - 04:22 04/06/2026
+- 🥰 [Giá vàng “chạm đáy”, người mua ở đỉnh lỗ bao nhiêu?](https://nld.com.vn/podcast/gia-vang-cham-day-nguoi-mua-o-dinh-lo-bao-nhieu-196260603111027465.htm) - 04:27 03/06/2026
+- 🤩 [Giá vàng lao dốc không phanh, giảm thêm 1 triệu đồng/lượng](https://nld.com.vn/podcast/gia-vang-lao-doc-khong-phanh-giam-them-1-trieu-dong-luong-19626060211122503.htm) - 04:30 02/06/2026
+- 🙉 [TPHCM: Thí sinh hoàn thành môn thi đầu tiên kỳ tuyển sinh vào lớp 10](https://nld.com.vn/podcast/tphcm-thi-sinh-hoan-thanh-mon-thi-dau-tien-ky-tuyen-sinh-vao-lop-10-19626060111125795.htm) - 04:38 01/06/2026
+- 🔭 [Lý do hàng loạt công ty dược bị phạt nặng, buộc thu hồi sản phẩm](https://nld.com.vn/podcast/ly-do-hang-loat-cong-ty-duoc-bi-phat-nang-buoc-thu-hoi-san-pham-196260531105224959.htm) - 04:12 31/05/2026
+- 🐲 [Lời khai của đối tượng chủ mưu vụ cướp tiệm vàng ở TPHCM](https://nld.com.vn/podcast/loi-khai-cua-doi-tuong-chu-muu-vu-cuop-tiem-vang-o-tphcm-196260530104656733.htm) - 04:11 30/05/2026
+- 🎬 [Một rapper bị bắt trong cuộc truy quét đường dây ma túy lớn](https://nld.com.vn/podcast/mot-rapper-bi-bat-trong-cuoc-truy-quet-duong-day-ma-tuy-lon-19626052911191128.htm) - 04:31 29/05/2026
+- 💫 [Kỳ vọng nào cho cổ phiếu ngân hàng nửa cuối năm 2026?](https://nld.com.vn/podcast/ky-vong-nao-cho-co-phieu-ngan-hang-nua-cuoi-nam-2026-19626052811180996.htm) - 04:39 28/05/2026
+- 🐲 [Sức hút của chương trình &quot;Doanh nghiệp vì người lao động - Chuẩn mực vàng&quot;](https://nld.com.vn/podcast/suc-hut-cua-chuong-trinh-doanh-nghiep-vi-nguoi-lao-dong-chuan-muc-vang-196260527100149205.htm) - 04:09 27/05/2026
+- 🤗 [Báo Người Lao Động tổ chức talkshow hữu ích về giáo dục nghề nghiệp](https://nld.com.vn/podcast/bao-nguoi-lao-dong-to-chuc-talkshow-huu-ich-ve-giao-duc-nghe-nghiep-196260526105555842.htm) - 04:21 26/05/2026
+- 🧑‍🏫 [Diễn biến mới nhất vụ nổ súng làm 2 người thương vong ở TPHCM](https://nld.com.vn/podcast/dien-bien-moi-nhat-vu-no-sung-lam-2-nguoi-thuong-vong-o-tphcm-196260525104751776.htm) - 04:30 25/05/2026
+- 🎓 [Trường hợp nhà giáo nào được hưởng phụ cấp ưu đãi nghề mức cao 80%?](https://nld.com.vn/podcast/truong-hop-nha-giao-nao-duoc-huong-phu-cap-uu-dai-nghe-muc-cao-80-196260524105746729.htm) - 04:10 24/05/2026
 - 🎓 [Thông tin cần biết về xăng E10 sắp thay thế RON 95 trên toàn quốc](https://nld.com.vn/podcast/thong-tin-can-biet-ve-xang-e10-sap-thay-the-ron-95-tren-toan-quoc-19626052310455799.htm) - 04:06 23/05/2026
-- 🎓 [Giá vàng trong nước diễn biến bất ngờ](https://nld.com.vn/podcast/gia-vang-trong-nuoc-dien-bien-bat-ngo-196260522104951104.htm) - 04:13 22/05/2026
-- 🧐 [“Chính sách thuế mới và giải pháp hỗ trợ hộ kinh doanh”: Gỡ áp lực kê khai, hóa đơn điện tử](https://nld.com.vn/podcast/chinh-sach-thue-moi-va-giai-phap-ho-tro-ho-kinh-doanh-go-ap-luc-ke-khai-hoa-don-dien-tu-196260521112442087.htm) - 04:40 21/05/2026
-- 🧑‍🏫 [Nguyên nhân ban đầu vụ sát hại 3 người trong 1 gia đình ở Tây Ninh](https://nld.com.vn/podcast/nguyen-nhan-ban-dau-vu-sat-hai-3-nguoi-trong-1-gia-dinh-o-tay-ninh-19626052010425171.htm) - 04:30 20/05/2026
-- 🚀 [Thông tin thiết thực về lương hưu - bài toán an sinh cho người lao động](https://nld.com.vn/podcast/thong-tin-thiet-thuc-ve-luong-huu-bai-toan-an-sinh-cho-nguoi-lao-dong-196260519104207556.htm) - 04:32 19/05/2026
-- 🦍 [TPHCM: Nam thanh niên nghi rơi từ tầng cao chung cư tử vong](https://nld.com.vn/podcast/tphcm-nam-thanh-nien-nghi-roi-tu-tang-cao-chung-cu-tu-vong-196260518110555602.htm) - 04:30 18/05/2026
-- 🌈 [Công ty quản lý nói gì sau khi Miu Lê bị khởi tố, bắt tạm giam?](https://nld.com.vn/podcast/cong-ty-quan-ly-noi-gi-sau-khi-miu-le-bi-khoi-to-bat-tam-giam-196260517105326065.htm) - 04:26 17/05/2026
-- 💻 [Giải Golf &quot;Tôi yêu Việt Nam&quot; lần 4 - năm 2026: Sân chơi hấp dẫn và ý nghĩa](https://nld.com.vn/podcast/giai-golf-toi-yeu-viet-nam-lan-4-nam-2026-san-choi-hap-dan-va-y-nghia-196260516110841226.htm) - 04:37 16/05/2026
-- 🎭 [Diễn biến mới nhất liên quan ca sĩ Miu Lê](https://nld.com.vn/podcast/dien-bien-moi-nhat-lien-quan-ca-si-miu-le-196260515110928002.htm) - 04:23 15/05/2026
-- 😎 [Công nghiệp văn hóa TP HCM - Từ chính sách đến thực tiễn sáng tạo](https://nld.com.vn/podcast/cong-nghiep-van-hoa-tp-hcm-tu-chinh-sach-den-thuc-tien-sang-tao-196260514111759163.htm) - 04:36 14/05/2026
-- 🎃 [Vụ sát hại bạn gái đang mang thai: Lời kể của người cha](https://nld.com.vn/podcast/vu-sat-hai-ban-gai-dang-mang-thai-loi-ke-cua-nguoi-cha-196260513111048245.htm) - 04:28 13/05/2026
-- 🤡 [Cần Giờ cần gì để trở thành cực tăng trưởng mới của TPHCM?](https://nld.com.vn/podcast/can-gio-can-gi-de-tro-thanh-cuc-tang-truong-moi-cua-tphcm-196260512132612737.htm) - 06:21 12/05/2026
-- 🌋 [Tạm giữ 14 tấn bì heo không rõ nguồn gốc](https://nld.com.vn/podcast/tam-giu-14-tan-bi-heo-khong-ro-nguon-goc-196260511112253565.htm) - 04:42 11/05/2026
-- 🤖 [Bé 2 tuổi ở TPHCM bị mẹ ruột bạo hành đến rách đầu hiện ra sao?](https://nld.com.vn/podcast/be-2-tuoi-o-tphcm-bi-me-ruot-bao-hanh-den-rach-dau-hien-ra-sao-196260510104901741.htm) - 04:24 10/05/2026
-- ⛽️ [Cảnh báo ca bệnh giang mai tăng nhanh](https://nld.com.vn/podcast/canh-bao-ca-benh-giang-mai-tang-nhanh-196260509105424256.htm) - 04:30 09/05/2026
-- 💄 [Thông tin vụ bạo hành bé gái 4 tuổi tử vong](https://nld.com.vn/podcast/thong-tin-vu-bao-hanh-be-gai-4-tuoi-tu-vong-196260508112221465.htm) - 04:39 08/05/2026
-- 🌈 [Điểm cần nắm về thị trường lao động 2026](https://nld.com.vn/podcast/diem-can-nam-ve-thi-truong-lao-dong-2026-196260507111520718.htm) - 04:29 07/05/2026
-- 💄 [Chuyên gia giải bài toán hóc búa của nhà đầu tư bất động sản](https://nld.com.vn/podcast/chuyen-gia-giai-bai-toan-hoc-bua-cua-nha-dau-tu-bat-dong-san-196260506113836738.htm) - 04:48 06/05/2026
-- 🪄 [Thiết thực Hội thảo &quot;Bảo đảm năng lượng cho mục tiêu tăng trưởng 2 con số của TPHCM&quot;](https://nld.com.vn/podcast/thiet-thuc-hoi-thao-bao-dam-nang-luong-cho-muc-tieu-tang-truong-2-con-so-cua-tphcm-196260505105937425.htm) - 04:30 05/05/2026
-- 💻 [Người đàn ông gây thảm án tại Tây Ninh sống khép kín, có biểu hiện khác thường](https://nld.com.vn/podcast/nguoi-dan-ong-gay-tham-an-tai-tay-ninh-song-khep-kin-co-bieu-hien-khac-thuong-196260504110827285.htm) - 04:26 04/05/2026
-- 🦄 [Vụ cháy xe 2 người chết ở Đà Nẵng: Lời khai của tài xế](https://nld.com.vn/podcast/vu-chay-xe-2-nguoi-chet-o-da-nang-loi-khai-cua-tai-xe-196260503110200999.htm) - 04:42 03/05/2026
-- 🦆 [Sự thật vụ hóa đơn bữa ăn 18 triệu đồng ở Sầm Sơn](https://nld.com.vn/podcast/su-that-vu-hoa-don-bua-an-18-trieu-dong-o-sam-son-196260502113041271.htm) - 04:34 02/05/2026<!-- nld-podcast:END -->
+- 🧐 [Giá vàng trong nước diễn biến bất ngờ](https://nld.com.vn/podcast/gia-vang-trong-nuoc-dien-bien-bat-ngo-196260522104951104.htm) - 04:13 22/05/2026
+- 🧑‍🏫 [“Chính sách thuế mới và giải pháp hỗ trợ hộ kinh doanh”: Gỡ áp lực kê khai, hóa đơn điện tử](https://nld.com.vn/podcast/chinh-sach-thue-moi-va-giai-phap-ho-tro-ho-kinh-doanh-go-ap-luc-ke-khai-hoa-don-dien-tu-196260521112442087.htm) - 04:40 21/05/2026
+- 🚀 [Nguyên nhân ban đầu vụ sát hại 3 người trong 1 gia đình ở Tây Ninh](https://nld.com.vn/podcast/nguyen-nhan-ban-dau-vu-sat-hai-3-nguoi-trong-1-gia-dinh-o-tay-ninh-19626052010425171.htm) - 04:30 20/05/2026
+- 🦍 [Thông tin thiết thực về lương hưu - bài toán an sinh cho người lao động](https://nld.com.vn/podcast/thong-tin-thiet-thuc-ve-luong-huu-bai-toan-an-sinh-cho-nguoi-lao-dong-196260519104207556.htm) - 04:32 19/05/2026
+- 🌈 [TPHCM: Nam thanh niên nghi rơi từ tầng cao chung cư tử vong](https://nld.com.vn/podcast/tphcm-nam-thanh-nien-nghi-roi-tu-tang-cao-chung-cu-tu-vong-196260518110555602.htm) - 04:30 18/05/2026
+- 💻 [Công ty quản lý nói gì sau khi Miu Lê bị khởi tố, bắt tạm giam?](https://nld.com.vn/podcast/cong-ty-quan-ly-noi-gi-sau-khi-miu-le-bi-khoi-to-bat-tam-giam-196260517105326065.htm) - 04:26 17/05/2026
+- 🎭 [Giải Golf &quot;Tôi yêu Việt Nam&quot; lần 4 - năm 2026: Sân chơi hấp dẫn và ý nghĩa](https://nld.com.vn/podcast/giai-golf-toi-yeu-viet-nam-lan-4-nam-2026-san-choi-hap-dan-va-y-nghia-196260516110841226.htm) - 04:37 16/05/2026
+- 😎 [Diễn biến mới nhất liên quan ca sĩ Miu Lê](https://nld.com.vn/podcast/dien-bien-moi-nhat-lien-quan-ca-si-miu-le-196260515110928002.htm) - 04:23 15/05/2026
+- 🎃 [Công nghiệp văn hóa TP HCM - Từ chính sách đến thực tiễn sáng tạo](https://nld.com.vn/podcast/cong-nghiep-van-hoa-tp-hcm-tu-chinh-sach-den-thuc-tien-sang-tao-196260514111759163.htm) - 04:36 14/05/2026
+- 🤡 [Vụ sát hại bạn gái đang mang thai: Lời kể của người cha](https://nld.com.vn/podcast/vu-sat-hai-ban-gai-dang-mang-thai-loi-ke-cua-nguoi-cha-196260513111048245.htm) - 04:28 13/05/2026
+- 🌋 [Cần Giờ cần gì để trở thành cực tăng trưởng mới của TPHCM?](https://nld.com.vn/podcast/can-gio-can-gi-de-tro-thanh-cuc-tang-truong-moi-cua-tphcm-196260512132612737.htm) - 06:21 12/05/2026
+- 🤖 [Tạm giữ 14 tấn bì heo không rõ nguồn gốc](https://nld.com.vn/podcast/tam-giu-14-tan-bi-heo-khong-ro-nguon-goc-196260511112253565.htm) - 04:42 11/05/2026
+- ⛽️ [Bé 2 tuổi ở TPHCM bị mẹ ruột bạo hành đến rách đầu hiện ra sao?](https://nld.com.vn/podcast/be-2-tuoi-o-tphcm-bi-me-ruot-bao-hanh-den-rach-dau-hien-ra-sao-196260510104901741.htm) - 04:24 10/05/2026
+- 💄 [Cảnh báo ca bệnh giang mai tăng nhanh](https://nld.com.vn/podcast/canh-bao-ca-benh-giang-mai-tang-nhanh-196260509105424256.htm) - 04:30 09/05/2026
+- 🌈 [Thông tin vụ bạo hành bé gái 4 tuổi tử vong](https://nld.com.vn/podcast/thong-tin-vu-bao-hanh-be-gai-4-tuoi-tu-vong-196260508112221465.htm) - 04:39 08/05/2026
+- 💄 [Điểm cần nắm về thị trường lao động 2026](https://nld.com.vn/podcast/diem-can-nam-ve-thi-truong-lao-dong-2026-196260507111520718.htm) - 04:29 07/05/2026
+- 🪄 [Chuyên gia giải bài toán hóc búa của nhà đầu tư bất động sản](https://nld.com.vn/podcast/chuyen-gia-giai-bai-toan-hoc-bua-cua-nha-dau-tu-bat-dong-san-196260506113836738.htm) - 04:48 06/05/2026
+- 💻 [Thiết thực Hội thảo &quot;Bảo đảm năng lượng cho mục tiêu tăng trưởng 2 con số của TPHCM&quot;](https://nld.com.vn/podcast/thiet-thuc-hoi-thao-bao-dam-nang-luong-cho-muc-tieu-tang-truong-2-con-so-cua-tphcm-196260505105937425.htm) - 04:30 05/05/2026
+- 🦄 [Người đàn ông gây thảm án tại Tây Ninh sống khép kín, có biểu hiện khác thường](https://nld.com.vn/podcast/nguoi-dan-ong-gay-tham-an-tai-tay-ninh-song-khep-kin-co-bieu-hien-khac-thuong-196260504110827285.htm) - 04:26 04/05/2026
+- 🦆 [Vụ cháy xe 2 người chết ở Đà Nẵng: Lời khai của tài xế](https://nld.com.vn/podcast/vu-chay-xe-2-nguoi-chet-o-da-nang-loi-khai-cua-tai-xe-196260503110200999.htm) - 04:42 03/05/2026<!-- nld-podcast:END -->
