@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [10 tỉnh công bố điểm chuẩn lớp 10 năm 2026](https://dantri.com.vn/giao-duc/10-tinh-cong-bo-diem-chuan-lop-10-nam-2026-20260618110818017.htm) - 06:00 18/06/2026
-- 🗽 [Hà Nội sẽ công bố điểm thi lớp 10 theo cách &quot;chưa từng có&quot;](https://dantri.com.vn/giao-duc/ha-noi-se-cong-bo-diem-thi-lop-10-theo-cach-chua-tung-co-20260618110703013.htm) - 04:14 18/06/2026
-- 🚦 [Vụ giám thị gợi ý “xem bài” ở Quảng Ninh: Thí sinh bị trừ điểm khi nào?](https://dantri.com.vn/giao-duc/vu-giam-thi-goi-y-xem-bai-o-quang-ninh-thi-sinh-bi-tru-diem-khi-nao-20260618092716928.htm) - 03:27 18/06/2026
-- 🌋 [9h ngày mai TPHCM công bố điểm thi tuyển sinh lớp 10, điểm chuẩn chuyên](https://dantri.com.vn/giao-duc/9h-ngay-mai-tphcm-cong-bo-diem-thi-tuyen-sinh-lop-10-diem-chuan-chuyen-20260618094253163.htm) - 02:50 18/06/2026
-- 🏊 [Một lớp chuyên chỉ có 4 học sinh thi đỗ](https://dantri.com.vn/giao-duc/mot-lop-chuyen-chi-co-4-hoc-sinh-thi-do-20260618092514633.htm) - 02:45 18/06/2026
-- 🎃 [9 đại học Việt Nam vào top bảng xếp hạng tốt nhất thế giới](https://dantri.com.vn/giao-duc/9-dai-hoc-viet-nam-vao-top-bang-xep-hang-tot-nhat-the-gioi-20260618085225832.htm) - 02:06 18/06/2026
-- 💄 [Sở GD&amp;ĐT Hà Nội &quot;chốt&quot; thời gian công bố điểm thi, điểm chuẩn lớp 10](https://dantri.com.vn/giao-duc/so-gddt-ha-noi-chot-thoi-gian-cong-bo-diem-thi-diem-chuan-lop-10-20260616214839340.htm) - 00:50 18/06/2026
-- 🦅 [Học viện An ninh nhân dân tiên phong trong mô hình đào tạo mới](https://dantri.com.vn/giao-duc/hoc-vien-an-ninh-nhan-dan-tien-phong-trong-mo-hinh-dao-tao-moi-20260617170602230.htm) - 23:00 17/06/2026
-- 🚦 [Lý do hơn 12.000 ngành học ở Trung Quốc bị xoá sổ](https://dantri.com.vn/giao-duc/ly-do-hon-12000-nganh-hoc-o-trung-quoc-bi-xoa-so-20260616152539396.htm) - 22:30 17/06/2026
-- 🐵 [Hủy kết quả bài thi của thí sinh bị phản ánh dùng &quot;phao&quot; thi tốt nghiệp THPT](https://dantri.com.vn/giao-duc/huy-ket-qua-bai-thi-cua-thi-sinh-bi-phan-anh-dung-phao-thi-tot-nghiep-thpt-20260617155013687.htm) - 08:59 17/06/2026
-- 🐘 [Đề thi tiếng Anh tốt nghiệp THPT có đang “đánh đố”, làm khó thí sinh?](https://dantri.com.vn/giao-duc/de-thi-tieng-anh-tot-nghiep-thpt-co-dang-danh-do-lam-kho-thi-sinh-20260617142512907.htm) - 08:21 17/06/2026
-- 🦏 [Xuất hiện 9,25 điểm ngữ văn lớp 10 TPHCM, nhiều bài đạt điểm giỏi](https://dantri.com.vn/giao-duc/xuat-hien-925-diem-ngu-van-lop-10-tphcm-nhieu-bai-dat-diem-gioi-20260617134734763.htm) - 07:03 17/06/2026
-- 💼 [Từ kỷ luật &quot;mỗi ngày một từ vựng&quot;, nữ sinh Đồng Nai giành học bổng quốc tế](https://dantri.com.vn/giao-duc/tu-ky-luat-moi-ngay-mot-tu-vung-nu-sinh-dong-nai-gianh-hoc-bong-quoc-te-20260616165858959.htm) - 02:00 17/06/2026
-- ⛽️ [Hôm nay ngày đầu tiên thí sinh thử nghiệm đăng ký xét tuyển đại học](https://dantri.com.vn/giao-duc/hom-nay-ngay-dau-tien-thi-sinh-thu-nghiem-dang-ky-xet-tuyen-dai-hoc-20260617075051397.htm) - 01:13 17/06/2026
-- 🎭 [RMIT ra mắt ngành Cử nhân Khoa học máy tính](https://dantri.com.vn/giao-duc/rmit-ra-mat-nganh-cu-nhan-khoa-hoc-may-tinh-20260616222031350.htm) - 01:00 17/06/2026
-- 🎃 [Đề khảo sát lớp 6 Trường Trần Đại Nghĩa có những nội dung nào?](https://dantri.com.vn/giao-duc/de-khao-sat-lop-6-truong-tran-dai-nghia-co-nhung-noi-dung-nao-20260617063725381.htm) - 00:36 17/06/2026
-- 🚀 [Nam sinh Đà Nẵng giành Huy chương Vàng Olympic Vật lý châu Âu](https://dantri.com.vn/giao-duc/nam-sinh-da-nang-gianh-huy-chuong-vang-olympic-vat-ly-chau-au-20260617065420494.htm) - 00:31 17/06/2026
-- 👀 [Điểm chuẩn lớp 10 năm 2026 Hà Nội liệu có tăng &quot;sốc&quot;?](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-nam-2026-ha-noi-lieu-co-tang-soc-20260616162914355.htm) - 23:00 16/06/2026
-- 🌝 [Cuộc thi “50 năm Thành phố trong tôi 1976-2026” nhận gần 10.000 bài dự thi](https://dantri.com.vn/giao-duc/cuoc-thi-50-nam-thanh-pho-trong-toi-1976-2026-nhan-gan-10000-bai-du-thi-20260616160342384.htm) - 23:00 16/06/2026
-- 🤗 [Từ 17/7, IELTS thay đổi mẫu chứng chỉ trên toàn cầu](https://dantri.com.vn/giao-duc/tu-177-ielts-thay-doi-mau-chung-chi-tren-toan-cau-20260616212742860.htm) - 22:00 16/06/2026
-- 🦄 [Future Fest Day 7: Đưa những cuộc đối thoại toàn cầu về tương lai đến học sinh Việt](https://dantri.com.vn/giao-duc/future-fest-day-7-dua-nhung-cuoc-doi-thoai-toan-cau-ve-tuong-lai-den-hoc-sinh-viet-20260616205541853.htm) - 13:30 16/06/2026
-- 🦍 [Đã có 19 tỉnh thành công bố điểm thi, 9 tỉnh ban hành điểm chuẩn lớp 10](https://dantri.com.vn/giao-duc/da-co-19-tinh-thanh-cong-bo-diem-thi-9-tinh-ban-hanh-diem-chuan-lop-10-20260605103542411.htm) - 10:15 16/06/2026
-- 🪄 [Quảng Ngãi công bố điểm thi, điểm chuẩn lớp 10 năm 2026](https://dantri.com.vn/giao-duc/quang-ngai-cong-bo-diem-thi-diem-chuan-lop-10-nam-2026-20260614174234153.htm) - 10:11 16/06/2026
-- 🦆 [Hải Phòng công bố điểm thi vào lớp 10 năm 2026](https://dantri.com.vn/giao-duc/hai-phong-cong-bo-diem-thi-vao-lop-10-nam-2026-20260607134255520.htm) - 08:22 16/06/2026
-- 🚀 [Bất ngờ điểm chuẩn lớp 10: Trường top đầu nay chỉ lấy hơn 9 điểm](https://dantri.com.vn/giao-duc/bat-ngo-diem-chuan-lop-10-truong-top-dau-nay-chi-lay-hon-9-diem-20260616133836510.htm) - 07:10 16/06/2026
-- 🦒 [Vụ giám thị gợi ý thí sinh để bạn xem bài: Hai bài thi vẫn được công nhận](https://dantri.com.vn/giao-duc/vu-giam-thi-goi-y-thi-sinh-de-ban-xem-bai-hai-bai-thi-van-duoc-cong-nhan-20260616125028010.htm) - 06:10 16/06/2026
-- 🤡 [50.000 giáo viên ở TPHCM tham gia khảo sát năng lực tiếng Anh để làm gì?](https://dantri.com.vn/giao-duc/50000-giao-vien-o-tphcm-tham-gia-khao-sat-nang-luc-tieng-anh-de-lam-gi-20260616102155053.htm) - 04:02 16/06/2026
-- 🤔 [Bộ GD&amp;ĐT thông tin về công tác chấm thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/bo-gddt-thong-tin-ve-cong-tac-cham-thi-tot-nghiep-thpt-2026-20260616093109787.htm) - 03:27 16/06/2026
-- 🧑‍💻 [Gia đình có 3 con gái sinh 3 cùng đỗ trường chuyên danh tiếng](https://dantri.com.vn/giao-duc/gia-dinh-co-3-con-gai-sinh-3-cung-do-truong-chuyen-danh-tieng-20260616085107885.htm) - 02:19 16/06/2026
-- 🤡 [Xét học bạ, nhận học bổng 70% từ Trường Đại học CMC](https://dantri.com.vn/giao-duc/xet-hoc-ba-nhan-hoc-bong-70-tu-truong-dai-hoc-cmc-20260615172520564.htm) - 01:00 16/06/2026
-- 🧠 [Bắc Ninh công bố điểm chuẩn thi vào lớp 10 năm 2026](https://dantri.com.vn/giao-duc/bac-ninh-cong-bo-diem-chuan-thi-vao-lop-10-nam-2026-20260615234533395.htm) - 16:45 15/06/2026
-- 🧑‍💻 [Kết quả xác minh phản ánh giám thị ở Quảng Ninh gợi ý học sinh cho bạn xem bài thi](https://dantri.com.vn/giao-duc/ket-qua-xac-minh-phan-anh-giam-thi-o-quang-ninh-goi-y-hoc-sinh-cho-ban-xem-bai-thi-20260615182853584.htm) - 11:45 15/06/2026
-- 🧠 [Trường THPT chuyên Sư phạm đính chính thời gian công bố điểm thi lớp 10](https://dantri.com.vn/giao-duc/truong-thpt-chuyen-su-pham-dinh-chinh-thoi-gian-cong-bo-diem-thi-lop-10-20260615175659208.htm) - 11:13 15/06/2026
-- 😎 [Chỉ đạo khẩn vụ phản ánh dùng &quot;phao&quot; thi tốt nghiệp THPT không bị xử lý](https://dantri.com.vn/giao-duc/chi-dao-khan-vu-phan-anh-dung-phao-thi-tot-nghiep-thpt-khong-bi-xu-ly-20260615161634293.htm) - 09:26 15/06/2026
-- 🕴 [Chỉ tiêu lớp 1, lớp 6, lớp 10 toàn bộ các trường tư thục ở TPHCM](https://dantri.com.vn/giao-duc/chi-tieu-lop-1-lop-6-lop-10-toan-bo-cac-truong-tu-thuc-o-tphcm-20260615132657592.htm) - 07:50 15/06/2026
-- 🧠 [Có thể xuất hiện &quot;mưa điểm 10&quot; tiếng Anh thi vào lớp 10 TPHCM năm 2026](https://dantri.com.vn/giao-duc/co-the-xuat-hien-mua-diem-10-tieng-anh-thi-vao-lop-10-tphcm-nam-2026-20260615125957239.htm) - 06:17 15/06/2026
-- 🚀 [Cách tra cứu điểm thi lớp 10 THPT của Hà Nội năm 2026](https://dantri.com.vn/giao-duc/cach-tra-cuu-diem-thi-lop-10-thpt-cua-ha-noi-nam-2026-20260615104948970.htm) - 04:04 15/06/2026
-- 🕯 [Cách tra cứu điểm thi lớp 10 tỉnh Tuyên Quang](https://dantri.com.vn/giao-duc/cach-tra-cuu-diem-thi-lop-10-tinh-tuyen-quang-20260608093748492.htm) - 02:30 15/06/2026
-- 🧰 [Thêm tỉnh công bố điểm thi lớp 10 năm 2026](https://dantri.com.vn/giao-duc/them-tinh-cong-bo-diem-thi-lop-10-nam-2026-20260614110511253.htm) - 00:49 15/06/2026
-- ⛽️ [Hôm nay, hạn cuối nhận bài dự thi “50 năm Thành phố trong tôi 1976-2026”](https://dantri.com.vn/giao-duc/hom-nay-han-cuoi-nhan-bai-du-thi-50-nam-thanh-pho-trong-toi-1976-2026-20260614221025280.htm) - 23:15 14/06/2026
-- 🤖 [Nữ thủ khoa đạt 30/30 điểm thi lớp 10: Làm toán, tiếng Anh trong 30 phút](https://dantri.com.vn/giao-duc/nu-thu-khoa-dat-3030-diem-thi-lop-10-lam-toan-tieng-anh-trong-30-phut-20260614202618658.htm) - 23:00 14/06/2026
-- 🦍 [Điểm chuẩn vào lớp 10 các trường ở Huế tăng cao hơn so với năm trước](https://dantri.com.vn/giao-duc/diem-chuan-vao-lop-10-cac-truong-o-hue-tang-cao-hon-so-voi-nam-truoc-20260614171756465.htm) - 10:28 14/06/2026
-- 🐘 [Quảng Ninh: Xác minh phản ánh giám thị gợi ý học sinh cho bạn xem bài thi](https://dantri.com.vn/giao-duc/quang-ninh-xac-minh-phan-anh-giam-thi-goi-y-hoc-sinh-cho-ban-xem-bai-thi-20260614150747348.htm) - 10:27 14/06/2026
-- 🌊 [Cách tra cứu điểm thi lớp 10 Phú Thọ năm 2026](https://dantri.com.vn/giao-duc/cach-tra-cuu-diem-thi-lop-10-phu-tho-nam-2026-20260614161925286.htm) - 09:44 14/06/2026
-- 🕯 [Xác minh phản ánh sử dụng “phao” thi tốt nghiệp THPT nhưng không bị xử lý](https://dantri.com.vn/giao-duc/xac-minh-phan-anh-su-dung-phao-thi-tot-nghiep-thpt-nhung-khong-bi-xu-ly-20260614124928525.htm) - 06:00 14/06/2026
-- 🐎 [Không biết về Steve Jobs, thí sinh có bị mất điểm bài thi môn ngữ văn?](https://dantri.com.vn/giao-duc/khong-biet-ve-steve-jobs-thi-sinh-co-bi-mat-diem-bai-thi-mon-ngu-van-20260613230052403.htm) - 02:00 14/06/2026
-- 🐻 [Trường Đại học CMC tặng máy tính bảng cho tân sinh viên](https://dantri.com.vn/giao-duc/truong-dai-hoc-cmc-tang-may-tinh-bang-cho-tan-sinh-vien-20260613212818107.htm) - 02:00 14/06/2026
-- 🐎 [&quot;Ngày trưởng thành&quot; ở ngôi trường nước mắt từng nhiều hơn nụ cười](https://dantri.com.vn/giao-duc/ngay-truong-thanh-o-ngoi-truong-nuoc-mat-tung-nhieu-hon-nu-cuoi-20260613213059602.htm) - 01:34 14/06/2026
-- 🫣 [Gia đình vỡ òa khi con gái đỗ trường THPT mơ ước khiến triệu người vui lây](https://dantri.com.vn/giao-duc/gia-dinh-vo-oa-khi-con-gai-do-truong-thpt-mo-uoc-khien-trieu-nguoi-vui-lay-20260613152556356.htm) - 23:30 13/06/2026
-- 🤭 [Điểm toán thi lớp 10 ở TPHCM tăng mạnh, tập trung từ 5,5 đến 7,5](https://dantri.com.vn/giao-duc/diem-toan-thi-lop-10-o-tphcm-tang-manh-tap-trung-tu-55-den-75-20260613222323520.htm) - 23:00 13/06/2026
-- 🥳 [Tuần tới, TPHCM công bố điểm thi lớp 10 năm 2026](https://dantri.com.vn/giao-duc/tuan-toi-tphcm-cong-bo-diem-thi-lop-10-nam-2026-20260613200145956.htm) - 13:19 13/06/2026
-- 🎭 [Nhóm học sinh ném bàn ghế làm tan hoang phòng học ở TPHCM](https://dantri.com.vn/giao-duc/nhom-hoc-sinh-nem-ban-ghe-lam-tan-hoang-phong-hoc-o-tphcm-20260613130856548.htm) - 06:25 13/06/2026
-- 🥸 [TPHCM ban hành quy chế mới về thời gian thuyên chuyển giáo viên](https://dantri.com.vn/giao-duc/tphcm-ban-hanh-quy-che-moi-ve-thoi-gian-thuyen-chuyen-giao-vien-20260613095402647.htm) - 03:15 13/06/2026
-- 🦣 [Trường Đại học CMC nhận hồ sơ xét học bạ 2026](https://dantri.com.vn/giao-duc/truong-dai-hoc-cmc-nhan-ho-so-xet-hoc-ba-2026-20260612231030778.htm) - 01:00 13/06/2026
-- 🤔 [Nữ giáo viên trẻ tận tâm nơi vùng cao](https://dantri.com.vn/giao-duc/nu-giao-vien-tre-tan-tam-noi-vung-cao-20260612152935838.htm) - 00:44 13/06/2026
-- 🦣 [Thí sinh nhận xét về đề thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/thi-sinh-nhan-xet-ve-de-thi-tot-nghiep-thpt-2026-20260612214457247.htm) - 00:08 13/06/2026
-- 🐲 [Lời cảm ơn bảo vệ, cụ bà nhặt phế liệu trong luận văn gây xúc động](https://dantri.com.vn/giao-duc/loi-cam-on-bao-ve-cu-ba-nhat-phe-lieu-trong-luan-van-gay-xuc-dong-20260608122718229.htm) - 23:30 12/06/2026
-- 🔭 [69 thí sinh bị đình chỉ vì mang điện thoại vào phòng thi tốt nghiệp THPT](https://dantri.com.vn/giao-duc/69-thi-sinh-bi-dinh-chi-vi-mang-dien-thoai-vao-phong-thi-tot-nghiep-thpt-20260612233207364.htm) - 23:14 12/06/2026
-- 🥷 [Khi nào công bố đáp án chính thức tốt nghiệp THPT 2026?](https://dantri.com.vn/giao-duc/khi-nao-cong-bo-dap-an-chinh-thuc-tot-nghiep-thpt-2026-20260612115345945.htm) - 23:00 12/06/2026
-- 🎊 [Muôn vàn cảm xúc sau cánh cửa phòng thi ở TPHCM](https://dantri.com.vn/giao-duc/muon-van-cam-xuc-sau-canh-cua-phong-thi-o-tphcm-20260611174117161.htm) - 13:54 12/06/2026<!-- dantri-giao-duc:END -->
+- 🤡 [Tuyển thẳng 2 nữ sinh đạt giải Quốc gia môn lịch sử vào các trường công an](https://dantri.com.vn/giao-duc/tuyen-thang-2-nu-sinh-dat-giai-quoc-gia-mon-lich-su-vao-cac-truong-cong-an-20260621173723863.htm) - 12:10 21/06/2026
+- 🗽 [Thi đánh giá của Bộ Công an: Thí sinh than toán khó, tiếng Anh &quot;dễ thở&quot;](https://dantri.com.vn/giao-duc/thi-danh-gia-cua-bo-cong-an-thi-sinh-than-toan-kho-tieng-anh-de-tho-20260621151409398.htm) - 08:41 21/06/2026
+- 🚦 [Mô hình &quot;học đi đôi với hành&quot; tại Trường Đại học Trưng Vương](https://dantri.com.vn/giao-duc/mo-hinh-hoc-di-doi-voi-hanh-tai-truong-dai-hoc-trung-vuong-20260621140247240.htm) - 08:30 21/06/2026
+- 🌋 [Nam sinh lén sửa nguyện vọng khiến bạn trượt ngôi trường mơ ước](https://dantri.com.vn/giao-duc/nam-sinh-len-sua-nguyen-vong-khien-ban-truot-ngoi-truong-mo-uoc-20260620121456845.htm) - 05:00 21/06/2026
+- 🏊 [Lý do TPHCM chậm công bố điểm chuẩn lớp 10 đại trà](https://dantri.com.vn/giao-duc/ly-do-tphcm-cham-cong-bo-diem-chuan-lop-10-dai-tra-20260621084158362.htm) - 01:57 21/06/2026
+- 🎃 [Loạt trường THPT ngoài công lập “hot” Hà Nội công bố điểm chuẩn lớp 10](https://dantri.com.vn/giao-duc/loat-truong-thpt-ngoai-cong-lap-hot-ha-noi-cong-bo-diem-chuan-lop-10-20260620233159042.htm) - 00:37 21/06/2026
+- 💄 [Cả nhà &quot;chết lặng&quot; khi nghe con nức nở thông báo điểm thi lớp 10](https://dantri.com.vn/giao-duc/ca-nha-chet-lang-khi-nghe-con-nuc-no-thong-bao-diem-thi-lop-10-20260620130935230.htm) - 23:00 20/06/2026
+- 🦅 [Nữ sinh bật mí lý do 3 năm gian nan quyết thi vào trường công an](https://dantri.com.vn/giao-duc/nu-sinh-bat-mi-ly-do-3-nam-gian-nan-quyet-thi-vao-truong-cong-an-20260620165957197.htm) - 22:00 20/06/2026
+- 🚦 [Du học ngành bán dẫn tại Hàn Quốc: Cần một lộ trình an tâm cho học sinh, phụ huynh](https://dantri.com.vn/giao-duc/du-hoc-nganh-ban-dan-tai-han-quoc-can-mot-lo-trinh-an-tam-cho-hoc-sinh-phu-huynh-20260620150945990.htm) - 12:00 20/06/2026
+- 🐵 [Bộ trưởng Công thương: Đại học không chỉ là nơi đào tạo nhân lực](https://dantri.com.vn/giao-duc/bo-truong-cong-thuong-dai-hoc-khong-chi-la-noi-dao-tao-nhan-luc-20260620171257772.htm) - 11:56 20/06/2026
+- 🐘 [Thủ khoa lớp 10 TPHCM: Không “cày đề”, học 1 tiếng mỗi tối, đi ngủ sớm](https://dantri.com.vn/giao-duc/thu-khoa-lop-10-tphcm-khong-cay-de-hoc-1-tieng-moi-toi-di-ngu-som-20260620182202398.htm) - 11:48 20/06/2026
+- 🦏 [Các trường có điểm chuẩn vào lớp 10 tăng mạnh nhất Hà Nội 2026](https://dantri.com.vn/giao-duc/cac-truong-co-diem-chuan-vao-lop-10-tang-manh-nhat-ha-noi-2026-20260620115017621.htm) - 08:00 20/06/2026
+- 💼 [Top thí sinh điểm cao nhất thi lớp 10 TPHCM 2026: Đạt sát nút 30 điểm](https://dantri.com.vn/giao-duc/top-thi-sinh-diem-cao-nhat-thi-lop-10-tphcm-2026-dat-sat-nut-30-diem-20260620131441574.htm) - 06:23 20/06/2026
+- ⛽️ [Lộ diện thủ khoa lớp 10 TPHCM năm 2026 là học sinh trường tư](https://dantri.com.vn/giao-duc/lo-dien-thu-khoa-lop-10-tphcm-nam-2026-la-hoc-sinh-truong-tu-20260619075143457.htm) - 05:32 20/06/2026
+- 🎭 [Thí sinh cần làm gì ngay sau khi biết điểm thi vào lớp 10 ở Hà Nội?](https://dantri.com.vn/giao-duc/thi-sinh-can-lam-gi-ngay-sau-khi-biet-diem-thi-vao-lop-10-o-ha-noi-20260620094826942.htm) - 03:36 20/06/2026
+- 🎃 [Vì sao Hà Nội đề xuất tăng hỗ trợ ăn bán trú cao nhất 40.000 đồng/ngày?](https://dantri.com.vn/giao-duc/vi-sao-ha-noi-de-xuat-tang-ho-tro-an-ban-tru-cao-nhat-40000-dongngay-20260620090213072.htm) - 02:21 20/06/2026
+- 🚀 [Nam sinh Bách khoa được NVIDIA tuyển làm kỹ sư dù chưa ra trường](https://dantri.com.vn/giao-duc/nam-sinh-bach-khoa-duoc-nvidia-tuyen-lam-ky-su-du-chua-ra-truong-20260618112929011.htm) - 00:00 20/06/2026
+- 👀 [Thủ khoa thi lớp 10 Hà Nội đỗ thêm cả 3 trường chuyên danh tiếng](https://dantri.com.vn/giao-duc/thu-khoa-thi-lop-10-ha-noi-do-them-ca-3-truong-chuyen-danh-tieng-20260620002435439.htm) - 23:11 19/06/2026
+- 🌝 [Điểm chuẩn vào chuyên Hà Nội - Amsterdam năm 2026 biến động thế nào?](https://dantri.com.vn/giao-duc/diem-chuan-vao-chuyen-ha-noi-amsterdam-nam-2026-bien-dong-the-nao-20260619215751202.htm) - 23:00 19/06/2026
+- 🤗 [Từ nam sinh bốc hàng mã kiếm tiền đi học đến cơ duyên nghề báo](https://dantri.com.vn/giao-duc/tu-nam-sinh-boc-hang-ma-kiem-tien-di-hoc-den-co-duyen-nghe-bao-20260616151713313.htm) - 22:00 19/06/2026
+- 🦄 [Hà Nội: Hoàng Quán Chi dẫn đầu điểm chuẩn nhóm trường &quot;tân binh&quot;](https://dantri.com.vn/giao-duc/ha-noi-hoang-quan-chi-dan-dau-diem-chuan-nhom-truong-tan-binh-20260619220448358.htm) - 15:56 19/06/2026
+- 🦍 [Học sinh Trường THCS Newton là thủ khoa vào lớp 10 Hà Nội, đạt 29,75 điểm](https://dantri.com.vn/giao-duc/hoc-sinh-truong-thcs-newton-la-thu-khoa-vao-lop-10-ha-noi-dat-2975-diem-20260615134816836.htm) - 14:37 19/06/2026
+- 🪄 [Top 10 trường có điểm chuẩn lớp 10 cao nhất Hà Nội năm 2026](https://dantri.com.vn/giao-duc/top-10-truong-co-diem-chuan-lop-10-cao-nhat-ha-noi-nam-2026-20260615132439676.htm) - 14:05 19/06/2026
+- 🦆 [9 điểm/3 môn vẫn đỗ lớp 10 THPT Hà Nội 2026](https://dantri.com.vn/giao-duc/9-diem3-mon-van-do-lop-10-thpt-ha-noi-2026-20260615133227630.htm) - 14:00 19/06/2026
+- 🚀 [Bộ GD&amp;ĐT hướng dẫn chấm câu nghị luận về “Steve Jobs Việt Nam”](https://dantri.com.vn/giao-duc/bo-gddt-huong-dan-cham-cau-nghi-luan-ve-steve-jobs-viet-nam-20260619200507496.htm) - 13:32 19/06/2026
+- 🦒 [Hà Nội công bố điểm chuẩn lớp 10 chuyên, lớp lý Amsterdam cao nhất](https://dantri.com.vn/giao-duc/ha-noi-cong-bo-diem-chuan-lop-10-chuyen-lop-ly-amsterdam-cao-nhat-20260619202108580.htm) - 13:26 19/06/2026
+- 🤡 [Điểm thi, điểm chuẩn lớp 10 TPHCM, Hà Nội: Quá nhiều bất ngờ](https://dantri.com.vn/giao-duc/diem-thi-diem-chuan-lop-10-tphcm-ha-noi-qua-nhieu-bat-ngo-20260605103542411.htm) - 13:21 19/06/2026
+- 🤔 [Điểm chuẩn lớp 10 THPT Hà Nội 2026, nhiều trường top cao vọt](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-thpt-ha-noi-2026-nhieu-truong-top-cao-vot-20260615134214193.htm) - 13:13 19/06/2026
+- 🧑‍💻 [Cho con niềm vui, khơi nguồn sáng tạo cùng trại hè song ngữ VAS](https://dantri.com.vn/giao-duc/cho-con-niem-vui-khoi-nguon-sang-tao-cung-trai-he-song-ngu-vas-20260619175041946.htm) - 13:00 19/06/2026
+- 🤡 [Tra cứu điểm thi lớp 10 THPT của Hà Nội năm 2026 nhanh nhất](https://dantri.com.vn/giao-duc/tra-cuu-diem-thi-lop-10-thpt-cua-ha-noi-nam-2026-nhanh-nhat-20260615130851559.htm) - 12:52 19/06/2026
+- 🧠 [Đáp án chính thức toàn bộ mã đề môn vật lý tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-chinh-thuc-toan-bo-ma-de-mon-vat-ly-tot-nghiep-thpt-2026-20260619164450128.htm) - 11:04 19/06/2026
+- 🧑‍💻 [Đáp án chính thức môn địa lý thi tốt nghiệp THPT năm 2026](https://dantri.com.vn/giao-duc/dap-an-chinh-thuc-mon-dia-ly-thi-tot-nghiep-thpt-nam-2026-20260619165639544.htm) - 10:51 19/06/2026
+- 🧠 [Đáp án chính thức môn lịch sử tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-chinh-thuc-mon-lich-su-tot-nghiep-thpt-2026-20260619113036552.htm) - 10:50 19/06/2026
+- 😎 [Đáp án chính thức môn ngữ văn tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/dap-an-chinh-thuc-mon-ngu-van-tot-nghiep-thpt-2026-20260619112633227.htm) - 10:43 19/06/2026
+- 🕴 [Ông Nguyễn Tấn Phát làm Giám đốc Sở GD&amp;ĐT TPHCM](https://dantri.com.vn/giao-duc/ong-nguyen-tan-phat-lam-giam-doc-so-gddt-tphcm-20260616093316742.htm) - 10:39 19/06/2026
+- 🧠 [Công bố đáp án chính thức các môn thi tốt nghiệp THPT 2026](https://dantri.com.vn/giao-duc/cong-bo-dap-an-chinh-thuc-cac-mon-thi-tot-nghiep-thpt-2026-20260619111952380.htm) - 10:33 19/06/2026
+- 🚀 [Hoa hậu Bảo Ngọc trúng tuyển đại học top đầu thế giới](https://dantri.com.vn/giao-duc/hoa-hau-bao-ngoc-trung-tuyen-dai-hoc-top-dau-the-gioi-20260619143013443.htm) - 09:23 19/06/2026
+- 🕯 [Vụ nợ giáo viên hơn 14 tỷ đồng: Trách nhiệm thuộc về ai?](https://dantri.com.vn/giao-duc/vu-no-giao-vien-hon-14-ty-dong-trach-nhiem-thuoc-ve-ai-20260619155325254.htm) - 09:12 19/06/2026
+- 🧰 [Mốc phúc khảo, nộp hồ sơ trúng tuyển chuyên, tích hợp, tuyển thẳng lớp 10](https://dantri.com.vn/giao-duc/moc-phuc-khao-nop-ho-so-trung-tuyen-chuyen-tich-hop-tuyen-thang-lop-10-20260619144615254.htm) - 08:35 19/06/2026
+- ⛽️ [Máy quét kiểm tra &quot;chân tơ kẽ tóc&quot; thí sinh dự thi các trường quân đội](https://dantri.com.vn/giao-duc/may-quet-kiem-tra-chan-to-ke-toc-thi-sinh-du-thi-cac-truong-quan-doi-20260619132901663.htm) - 08:15 19/06/2026
+- 🤖 [Công bố điểm chuẩn lớp 10 chuyên Sư phạm Hà Nội, tiếng Anh cao nhất](https://dantri.com.vn/giao-duc/cong-bo-diem-chuan-lop-10-chuyen-su-pham-ha-noi-tieng-anh-cao-nhat-20260619140721406.htm) - 07:15 19/06/2026
+- 🦍 [Điểm chuẩn lớp 10 TPHCM trong 3 năm qua của tất cả các trường công lập](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-tphcm-trong-3-nam-qua-cua-tat-ca-cac-truong-cong-lap-20260619124404847.htm) - 07:04 19/06/2026
+- 🐘 [Bất ngờ điểm chuẩn vào lớp 10 một lớp chuyên ở TPHCM](https://dantri.com.vn/giao-duc/bat-ngo-diem-chuan-vao-lop-10-mot-lop-chuyen-o-tphcm-20260619121033253.htm) - 05:18 19/06/2026
+- 🌊 [Điểm chuẩn lớp 10 chuyên TPHCM năm 2026 biến động mạnh](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-chuyen-tphcm-nam-2026-bien-dong-manh-20260619104609577.htm) - 03:47 19/06/2026
+- 🕯 [Thí sinh chia sẻ lý do quyết chọn ngành học chỉ tuyển 2 nữ](https://dantri.com.vn/giao-duc/thi-sinh-chia-se-ly-do-quyet-chon-nganh-hoc-chi-tuyen-2-nu-20260619100215128.htm) - 03:29 19/06/2026
+- 🐎 [Điểm chuẩn lớp 10 tích hợp của TPHCM năm 2026](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-tich-hop-cua-tphcm-nam-2026-20260618231716010.htm) - 03:02 19/06/2026
+- 🐻 [Điểm chuẩn lớp 10 chuyên TPHCM năm 2026](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-chuyen-tphcm-nam-2026-20260618230917158.htm) - 03:01 19/06/2026
+- 🐎 [Gần 23.000 thí sinh thi đánh giá năng lực vào các trường quân đội](https://dantri.com.vn/giao-duc/gan-23000-thi-sinh-thi-danh-gia-nang-luc-vao-cac-truong-quan-doi-20260618154715913.htm) - 01:44 19/06/2026
+- 🫣 [Điểm chuẩn lớp 10 chuyên TPHCM: Những môn từng có biên độ lệch đến 10 điểm](https://dantri.com.vn/giao-duc/diem-chuan-lop-10-chuyen-tphcm-nhung-mon-tung-co-bien-do-lech-den-10-diem-20260618235424544.htm) - 00:13 19/06/2026
+- 🤭 [Link tra cứu điểm thi vào lớp 10 TPHCM 2026](https://dantri.com.vn/giao-duc/link-tra-cuu-diem-thi-vao-lop-10-tphcm-2026-20260618225205999.htm) - 00:11 19/06/2026
+- 🥳 [Hướng dẫn nhận và tra cứu điểm thi lớp 10 Hà Nội trên ứng dụng iHanoi](https://dantri.com.vn/giao-duc/huong-dan-nhan-va-tra-cuu-diem-thi-lop-10-ha-noi-tren-ung-dung-ihanoi-20260618170845347.htm) - 23:00 18/06/2026
+- 🎭 [Trước giờ G, điểm chuẩn lớp 10 TPHCM dự kiến biến động thế nào?](https://dantri.com.vn/giao-duc/truoc-gio-g-diem-chuan-lop-10-tphcm-du-kien-bien-dong-the-nao-20260618145943342.htm) - 23:00 18/06/2026
+- 🥸 [Thái Nguyên công bố điểm chuẩn, thí sinh trúng tuyển kỳ thi lớp 10 năm 2026](https://dantri.com.vn/giao-duc/thai-nguyen-cong-bo-diem-chuan-thi-sinh-trung-tuyen-ky-thi-lop-10-nam-2026-20260618143653684.htm) - 07:40 18/06/2026
+- 🦣 [11 tỉnh công bố điểm chuẩn lớp 10 năm 2026](https://dantri.com.vn/giao-duc/11-tinh-cong-bo-diem-chuan-lop-10-nam-2026-20260618110818017.htm) - 06:00 18/06/2026
+- 🤔 [Hà Nội sẽ công bố điểm thi lớp 10 theo cách &quot;chưa từng có&quot;](https://dantri.com.vn/giao-duc/ha-noi-se-cong-bo-diem-thi-lop-10-theo-cach-chua-tung-co-20260618110703013.htm) - 04:14 18/06/2026
+- 🦣 [Vụ giám thị gợi ý “xem bài” ở Quảng Ninh: Thí sinh bị trừ điểm khi nào?](https://dantri.com.vn/giao-duc/vu-giam-thi-goi-y-xem-bai-o-quang-ninh-thi-sinh-bi-tru-diem-khi-nao-20260618092716928.htm) - 03:27 18/06/2026
+- 🐲 [9h ngày mai TPHCM công bố điểm thi tuyển sinh lớp 10, điểm chuẩn chuyên](https://dantri.com.vn/giao-duc/9h-ngay-mai-tphcm-cong-bo-diem-thi-tuyen-sinh-lop-10-diem-chuan-chuyen-20260618094253163.htm) - 02:50 18/06/2026
+- 🔭 [Một lớp chuyên chỉ có 4 học sinh thi đỗ](https://dantri.com.vn/giao-duc/mot-lop-chuyen-chi-co-4-hoc-sinh-thi-do-20260618092514633.htm) - 02:45 18/06/2026
+- 🥷 [9 đại học Việt Nam vào top bảng xếp hạng tốt nhất thế giới](https://dantri.com.vn/giao-duc/9-dai-hoc-viet-nam-vao-top-bang-xep-hang-tot-nhat-the-gioi-20260618085225832.htm) - 02:06 18/06/2026
+- 🎊 [Sở GD&amp;ĐT Hà Nội &quot;chốt&quot; thời gian công bố điểm thi, điểm chuẩn lớp 10](https://dantri.com.vn/giao-duc/so-gddt-ha-noi-chot-thoi-gian-cong-bo-diem-thi-diem-chuan-lop-10-20260616214839340.htm) - 00:50 18/06/2026<!-- dantri-giao-duc:END -->
