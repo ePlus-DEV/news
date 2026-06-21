@@ -4,53 +4,53 @@ sidebar_position: 12
 ---
 
 <!-- nld-giai-tri:START -->
-- 🦣 [Hành trình Ray Of Hope: B Ray và đồng nghiệp lan tỏa những điều tử tế](https://nld.com.vn/hanh-trinh-ray-of-hope-b-ray-va-dong-nghiep-lan-toa-nhung-dieu-tu-te-196260620110511326.htm) - 04:45 20/06/2026
-- 🥷 [Chị em Nam Anh- Nam Em &quot;càn quét&quot; vương miện Miss Cosmo TP HCM 2026](https://nld.com.vn/chi-em-nam-anh-nam-em-can-quet-vuong-mien-miss-cosmo-tp-hcm-2026-196260620070450253.htm) - 00:09 20/06/2026
-- ⚗️ [Diễn viên đóng vai phản diện &quot;Bài học đáng đời&quot; quyên góp chống bạo lực học đường](https://nld.com.vn/dien-vien-dong-vai-phan-dien-bai-hoc-dang-doi-quyen-gop-chong-bao-luc-hoc-duong-196260619173313354.htm) - 10:38 19/06/2026
-- 🕴 [Văn hóa áo dài - giá trị gia tăng ngành công nghiệp văn hóa](https://nld.com.vn/van-hoa-ao-dai-gia-tri-gia-tang-nganh-cong-nghiep-van-hoa-196260619104454172.htm) - 04:21 19/06/2026
-- 💡 [Lexxy gây bất ngờ với hình ảnh tự tin, quyến rũ](https://nld.com.vn/lexxy-gay-bat-ngo-voi-hinh-anh-tu-tin-quyen-ru-196260619101201279.htm) - 03:43 19/06/2026
-- 🐲 [&quot;Tân binh&quot; Jake Lê kể trải nghiệm đối đầu với Hồng Ánh, Thanh Hằng](https://nld.com.vn/tan-binh-jake-le-ke-trai-nghiem-doi-dau-voi-hong-anh-thanh-hang-196260619102059274.htm) - 03:27 19/06/2026
-- 🚀 [Chủ nhân hit trăm triệu view &quot;Ánh sao và bầu trời&quot; T.R.I trở lại](https://nld.com.vn/chu-nhan-hit-tram-trieu-view-anh-sao-va-bau-troi-tri-tro-lai-196260619070527583.htm) - 01:30 19/06/2026
-- 🌋 [Bóc trần quy luật vận hành của showbiz](https://nld.com.vn/boc-tran-quy-luat-van-hanh-cua-showbiz-196260618153333821.htm) - 08:57 18/06/2026
-- 🧰 [Thông báo bất ngờ về dàn giám khảo danh tiếng của &quot;Miss Grand Vietnam 2026&quot;](https://nld.com.vn/thong-bao-bat-ngo-ve-dan-giam-khao-danh-tieng-cua-miss-grand-vietnam-2026-196260618075505458.htm) - 01:08 18/06/2026
+- 🦣 [Mỹ nhân Soyee tuyên bố cưới, tung loạt ảnh lung linh](https://nld.com.vn/my-nhan-soyee-tuyen-bo-cuoi-tung-loat-anh-lung-linh-196260621095610485.htm) - 03:35 21/06/2026
+- 🥷 [Hành trình Ray Of Hope: B Ray và đồng nghiệp lan tỏa những điều tử tế](https://nld.com.vn/hanh-trinh-ray-of-hope-b-ray-va-dong-nghiep-lan-toa-nhung-dieu-tu-te-196260620110511326.htm) - 04:45 20/06/2026
+- ⚗️ [Chị em Nam Anh- Nam Em &quot;càn quét&quot; vương miện Miss Cosmo TP HCM 2026](https://nld.com.vn/chi-em-nam-anh-nam-em-can-quet-vuong-mien-miss-cosmo-tp-hcm-2026-196260620070450253.htm) - 00:09 20/06/2026
+- 🕴 [Diễn viên đóng vai phản diện &quot;Bài học đáng đời&quot; quyên góp chống bạo lực học đường](https://nld.com.vn/dien-vien-dong-vai-phan-dien-bai-hoc-dang-doi-quyen-gop-chong-bao-luc-hoc-duong-196260619173313354.htm) - 10:38 19/06/2026
+- 💡 [Văn hóa áo dài - giá trị gia tăng ngành công nghiệp văn hóa](https://nld.com.vn/van-hoa-ao-dai-gia-tri-gia-tang-nganh-cong-nghiep-van-hoa-196260619104454172.htm) - 04:21 19/06/2026
+- 🐲 [Lexxy gây bất ngờ với hình ảnh tự tin, quyến rũ](https://nld.com.vn/lexxy-gay-bat-ngo-voi-hinh-anh-tu-tin-quyen-ru-196260619101201279.htm) - 03:43 19/06/2026
+- 🚀 [&quot;Tân binh&quot; Jake Lê kể trải nghiệm đối đầu với Hồng Ánh, Thanh Hằng](https://nld.com.vn/tan-binh-jake-le-ke-trai-nghiem-doi-dau-voi-hong-anh-thanh-hang-196260619102059274.htm) - 03:27 19/06/2026
+- 🌋 [Chủ nhân hit trăm triệu view &quot;Ánh sao và bầu trời&quot; T.R.I trở lại](https://nld.com.vn/chu-nhan-hit-tram-trieu-view-anh-sao-va-bau-troi-tri-tro-lai-196260619070527583.htm) - 01:30 19/06/2026
+- 🧰 [Bóc trần quy luật vận hành của showbiz](https://nld.com.vn/boc-tran-quy-luat-van-hanh-cua-showbiz-196260618153333821.htm) - 08:57 18/06/2026
+- 🦄 [Thông báo bất ngờ về dàn giám khảo danh tiếng của &quot;Miss Grand Vietnam 2026&quot;](https://nld.com.vn/thong-bao-bat-ngo-ve-dan-giam-khao-danh-tieng-cua-miss-grand-vietnam-2026-196260618075505458.htm) - 01:08 18/06/2026
 - 🦄 [Lễ hội Âm nhạc TP HCM 2026 diễn ra trong 2 ngày](https://nld.com.vn/le-hoi-am-nhac-tp-hcm-2026-dien-ra-trong-2-ngay-196260617202250008.htm) - 18:08 17/06/2026
-- 🦄 [&quot;Bom tấn&quot; xác sống có Ji Chang-wook dẫn đầu phòng vé Việt](https://nld.com.vn/bom-tan-xac-song-co-ji-chang-wook-dan-dau-phong-ve-viet-196260617155452308.htm) - 09:08 17/06/2026
-- 🦍 [&quot;Bà bầu&quot; Thúy Diễm rạng rỡ trong ngày vui của Lương Thế Thành](https://nld.com.vn/ba-bau-thuy-diem-rang-ro-trong-ngay-vui-cua-luong-the-thanh-196260617142750359.htm) - 09:07 17/06/2026
-- 🧰 [Khi âm nhạc mang hơi thở điện ảnh: Ali Hoàng Dương trở lại với &quot;Thật hay Mơ&quot;](https://nld.com.vn/khi-am-nhac-mang-hoi-tho-dien-anh-ali-hoang-duong-tro-lai-voi-that-hay-mo-19626061707394277.htm) - 00:47 17/06/2026
-- 🌝 [Mỹ nhân Angelababy đẹp vô thực với đầm Việt](https://nld.com.vn/my-nhan-angelababy-dep-vo-thuc-voi-dam-viet-196260616104944264.htm) - 04:47 16/06/2026
-- 🐘 [NSND Quế Trân toát mồ hôi, sợ &quot;lẹo lưỡi&quot; khi lần đầu đọc Rap](https://nld.com.vn/nsnd-que-tran-toat-mo-hoi-so-leo-luoi-khi-lan-dau-doc-rap-196260616105015427.htm) - 04:00 16/06/2026
-- 💼 [Hàn Quốc đến Việt Nam tìm thực tập sinh](https://nld.com.vn/han-quoc-den-viet-nam-tim-thuc-tap-sinh-196260616083204704.htm) - 02:02 16/06/2026
-- 🫣 [Ca nương Kiều Anh &quot;gây choáng&quot;](https://nld.com.vn/ca-nuong-kieu-anh-gay-choang-196260616081715213.htm) - 02:01 16/06/2026
-- 🤩 [Thiếu gia nhà Biti&#39;s kết hợp cùng con gái &quot;chị đại&quot; làng nhạc](https://nld.com.vn/thieu-gia-nha-bitis-ket-hop-cung-con-gai-chi-dai-lang-nhac-196260616080634555.htm) - 01:26 16/06/2026
-- 🤠 [Bất ngờ gặp lại Thiều Bảo Trang](https://nld.com.vn/bat-ngo-gap-lai-thieu-bao-trang-196260616075749369.htm) - 01:10 16/06/2026
-- ⛽️ [S.T Sơn Thạch bứt phá trong lần trở lại với &quot;Ngược hướng&quot;](https://nld.com.vn/st-son-thach-but-pha-trong-lan-tro-lai-voi-nguoc-huong-196260616072910747.htm) - 00:40 16/06/2026
-- 📝 [Đông Đào: &quot;Càng lớn tuổi, tôi càng yêu nghề!&quot;](https://nld.com.vn/dong-dao-cang-lon-tuoi-toi-cang-yeu-nghe-196260615145247494.htm) - 09:40 15/06/2026
-- 🐻 [LIVESTREAM TALKSHOW ĐẶC BIỆT: Tăng sức hấp dẫn và hiệu quả kinh tế từ các concert âm nhạc](https://nld.com.vn/livestream-talkshow-dac-biet-tang-suc-hap-dan-va-hieu-qua-kinh-te-tu-cac-concert-am-nhac-196260615064525215.htm) - 01:35 15/06/2026
-- 🥷 [Nam rapper liệt nửa người sau khi xăm hình](https://nld.com.vn/nam-rapper-liet-nua-nguoi-sau-khi-xam-hinh-19626061507155891.htm) - 00:58 15/06/2026
-- 🤗 [Hàng vạn khán giả bùng nổ tại Mega Booming - Charmora City, pháo hoa rực sáng Vịnh Ngọc Nha Trang](https://nld.com.vn/hang-van-khan-gia-bung-no-tai-mega-booming-charmora-city-phao-hoa-ruc-sang-vinh-ngoc-nha-trang-196260614114358488.htm) - 05:12 14/06/2026
-- 🧠 [Ấn tượng fan meeting: OFF SPACE của SS Label](https://nld.com.vn/an-tuong-fan-meeting-off-space-cua-ss-label-196260614095536799.htm) - 03:24 14/06/2026
-- 🌊 [Nhan sắc Việt quyết tâm tạo dấu ấn riêng trên đấu trường quốc tế](https://nld.com.vn/nhan-sac-viet-quyet-tam-tao-dau-an-rieng-tren-dau-truong-quoc-te-196260613143223942.htm) - 07:38 13/06/2026
-- 👨‍🏫 [Người mẫu Hữu Long, Mâu Thủy háo hức, thích thú đấu giải](https://nld.com.vn/nguoi-mau-huu-long-mau-thuy-hao-huc-thich-thu-dau-giai-196260613131514592.htm) - 07:30 13/06/2026
-- 🕴 [Thúy Ngân: &quot;Tôi vẫn chưa tin mình vô địch&quot;](https://nld.com.vn/thuy-ngan-toi-van-chua-tin-minh-vo-dich-196260613131542876.htm) - 07:25 13/06/2026
-- 🤩 [S.T Sơn Thạch: &quot;Giải Pickleball Báo Người Lao Động mang ý nghĩa xã hội sâu sắc&quot;](https://nld.com.vn/st-son-thach-giai-pickleball-bao-nguoi-lao-dong-mang-y-nghia-xa-hoi-sau-sac-196260613114419187.htm) - 05:04 13/06/2026
-- 🌁 [Diễn viên Trương Quỳnh Anh bị &quot;ghiền&quot; môn pickleball](https://nld.com.vn/dien-vien-truong-quynh-anh-bi-ghien-mon-pickleball-196260613113848611.htm) - 04:49 13/06/2026
-- 🎉 [Thúy Ngân: &quot;Anh S.T Sơn Thạch run một, tôi run mười!&quot;](https://nld.com.vn/thuy-ngan-anh-st-son-thach-run-mot-toi-run-muoi-196260613104717195.htm) - 04:34 13/06/2026
-- 👍 [Dàn nghệ sĩ nữ tỏa sáng tại Giải Pickleball Báo Người Lao Động 2026](https://nld.com.vn/dan-nghe-si-nu-toa-sang-tai-giai-pickleball-bao-nguoi-lao-dong-2026-196260613100446498.htm) - 03:33 13/06/2026
-- 🤖 [Ngôi sao Đài Loan &lpar;Trung Quốc&rpar; Amber đến chúc mừng Chi Pu](https://nld.com.vn/ngoi-sao-dai-loan-trung-quoc-amber-den-chuc-mung-chi-pu-196260613062224736.htm) - 00:54 13/06/2026
-- 💫 [Bạch Lộc bác bỏ tin đồn &quot;kim chủ&quot; chống lưng, tuyên bố kiện](https://nld.com.vn/bach-loc-bac-bo-tin-don-kim-chu-chong-lung-tuyen-bo-kien-19626061213490184.htm) - 06:59 12/06/2026
-- 🚀 [Brad Pitt bụi bặm, phong trần hội ngộ khán giả Việt](https://nld.com.vn/brad-pitt-bui-bam-phong-tran-hoi-ngo-khan-gia-viet-196260612123816906.htm) - 05:57 12/06/2026
-- 🫣 [&quot;Ngược hướng&quot; đánh dấu màn trở lại đáng mong chờ của S.T Sơn Thạch](https://nld.com.vn/nguoc-huong-danh-dau-man-tro-lai-dang-mong-cho-cua-st-son-thach-19626061207154981.htm) - 00:49 12/06/2026
-- 👹 [Ngô Thanh Vân nói gì về trầm cảm sau sinh?](https://nld.com.vn/ngo-thanh-van-noi-gi-ve-tram-cam-sau-sinh-19626061117170897.htm) - 10:25 11/06/2026
-- 🥸 [Diễn viên Hiếu Hiền: &quot;Khi mất mẹ, tâm hồn tôi bị rỗng một khoảng lớn&quot;](https://nld.com.vn/dien-vien-hieu-hien-khi-mat-me-tam-hon-toi-bi-rong-mot-khoang-lon-196260611163105755.htm) - 09:51 11/06/2026
-- 🎬 [Từ APEC đến Festival Huế: Hành trình Mỹ Anh trở thành &quot;đại sứ văn hóa&quot; thế hệ mới của V-Pop](https://nld.com.vn/tu-apec-den-festival-hue-hanh-trinh-my-anh-tro-thanh-dai-su-van-hoa-the-he-moi-cua-v-pop-196260611161752649.htm) - 09:32 11/06/2026
-- 🔥 [Mỹ nhân Địch Lệ Nhiệt Ba bị đồn hẹn hò &quot;trai hư&quot; Trần Phi Vũ](https://nld.com.vn/my-nhan-dich-le-nhiet-ba-bi-don-hen-ho-trai-hu-tran-phi-vu-196260611142400692.htm) - 08:03 11/06/2026
-- 🚦 [Tiến Luật, Tín Nguyễn,… kinh ngạc thiệp cưới &quot;bà trùm nông sản&quot; Viên Vibi](https://nld.com.vn/tien-luat-tin-nguyen-kinh-ngac-thiep-cuoi-ba-trum-nong-san-vien-vibi-196260610152659079.htm) - 09:11 10/06/2026
-- 🌝 [Mạng xã hội lan truyền thông tin ca sĩ N.C bị bắt](https://nld.com.vn/mang-xa-hoi-lan-truyen-thong-tin-ca-si-nam-cuong-bi-bat-196260610093851197.htm) - 03:34 10/06/2026
-- 👨‍🏫 [Nghệ sĩ Mai Trần bị nhồi máu não, may mắn vượt qua](https://nld.com.vn/nghe-si-mai-tran-bi-nhoi-mau-nao-may-man-vuot-qua-196260610090924874.htm) - 02:44 10/06/2026
-- 🤠 [Diễn viên Nguyễn Công Nương biến hóa rạng rỡ trên thảm đỏ ra mắt &quot;Lầu Chú Hỏa&quot;](https://nld.com.vn/dien-vien-nguyen-cong-nuong-bien-hoa-rang-ro-tren-tham-do-ra-mat-lau-chu-hoa-196260610083139484.htm) - 02:09 10/06/2026
-- 💡 [Mỹ nam &quot;Những bác sĩ tài hoa&quot; và chân dài Soo-young tan vỡ sau 14 năm](https://nld.com.vn/my-nam-nhung-bac-si-tai-hoa-va-chan-dai-soo-young-tan-vo-sau-14-nam-196260609160142605.htm) - 10:09 09/06/2026
-- 👀 [Mỹ nữ Địch Lệ Nhiệt Ba khoe sắc vóc với trang phục Việt](https://nld.com.vn/my-nu-dich-le-nhiet-ba-khoe-sac-voc-voi-trang-phuc-viet-196260609121542923.htm) - 05:57 09/06/2026
-- 🚦 [NSƯT Cao Minh, Huỳnh Lập, Cody Nam Võ &quot;đối đầu&quot; kịch tính](https://nld.com.vn/nsut-cao-minh-huynh-lap-cody-nam-vo-doi-dau-kich-tinh-196260609112959709.htm) - 05:16 09/06/2026
-- 👍 [Nhìn ca sĩ Hoài Nhân, ta sẽ thấy &quot;không ai là cùng đường&quot;](https://nld.com.vn/nhin-ca-si-hoai-nhan-ta-se-thay-khong-ai-la-cung-duong-196260609083807519.htm) - 03:01 09/06/2026
-- 🌋 [Nhan sắc Việt có thêm danh hiệu](https://nld.com.vn/nhan-sac-viet-co-them-danh-hieu-196260609060817472.htm) - 23:27 08/06/2026
-- 💼 [Dương Hồng Loan &quot;rách áo dài&quot; giữa lúc chạy show Tết](https://nld.com.vn/duong-hong-loan-rach-ao-dai-giua-luc-chay-show-tet-196260608135549374.htm) - 07:15 08/06/2026<!-- nld-giai-tri:END -->
+- 🦍 [&quot;Bom tấn&quot; xác sống có Ji Chang-wook dẫn đầu phòng vé Việt](https://nld.com.vn/bom-tan-xac-song-co-ji-chang-wook-dan-dau-phong-ve-viet-196260617155452308.htm) - 09:08 17/06/2026
+- 🧰 [&quot;Bà bầu&quot; Thúy Diễm rạng rỡ trong ngày vui của Lương Thế Thành](https://nld.com.vn/ba-bau-thuy-diem-rang-ro-trong-ngay-vui-cua-luong-the-thanh-196260617142750359.htm) - 09:07 17/06/2026
+- 🌝 [Khi âm nhạc mang hơi thở điện ảnh: Ali Hoàng Dương trở lại với &quot;Thật hay Mơ&quot;](https://nld.com.vn/khi-am-nhac-mang-hoi-tho-dien-anh-ali-hoang-duong-tro-lai-voi-that-hay-mo-19626061707394277.htm) - 00:47 17/06/2026
+- 🐘 [Mỹ nhân Angelababy đẹp vô thực với đầm Việt](https://nld.com.vn/my-nhan-angelababy-dep-vo-thuc-voi-dam-viet-196260616104944264.htm) - 04:47 16/06/2026
+- 💼 [NSND Quế Trân toát mồ hôi, sợ &quot;lẹo lưỡi&quot; khi lần đầu đọc Rap](https://nld.com.vn/nsnd-que-tran-toat-mo-hoi-so-leo-luoi-khi-lan-dau-doc-rap-196260616105015427.htm) - 04:00 16/06/2026
+- 🫣 [Hàn Quốc đến Việt Nam tìm thực tập sinh](https://nld.com.vn/han-quoc-den-viet-nam-tim-thuc-tap-sinh-196260616083204704.htm) - 02:02 16/06/2026
+- 🤩 [Ca nương Kiều Anh &quot;gây choáng&quot;](https://nld.com.vn/ca-nuong-kieu-anh-gay-choang-196260616081715213.htm) - 02:01 16/06/2026
+- 🤠 [Thiếu gia nhà Biti&#39;s kết hợp cùng con gái &quot;chị đại&quot; làng nhạc](https://nld.com.vn/thieu-gia-nha-bitis-ket-hop-cung-con-gai-chi-dai-lang-nhac-196260616080634555.htm) - 01:26 16/06/2026
+- ⛽️ [Bất ngờ gặp lại Thiều Bảo Trang](https://nld.com.vn/bat-ngo-gap-lai-thieu-bao-trang-196260616075749369.htm) - 01:10 16/06/2026
+- 📝 [S.T Sơn Thạch bứt phá trong lần trở lại với &quot;Ngược hướng&quot;](https://nld.com.vn/st-son-thach-but-pha-trong-lan-tro-lai-voi-nguoc-huong-196260616072910747.htm) - 00:40 16/06/2026
+- 🐻 [Đông Đào: &quot;Càng lớn tuổi, tôi càng yêu nghề!&quot;](https://nld.com.vn/dong-dao-cang-lon-tuoi-toi-cang-yeu-nghe-196260615145247494.htm) - 09:40 15/06/2026
+- 🥷 [LIVESTREAM TALKSHOW ĐẶC BIỆT: Tăng sức hấp dẫn và hiệu quả kinh tế từ các concert âm nhạc](https://nld.com.vn/livestream-talkshow-dac-biet-tang-suc-hap-dan-va-hieu-qua-kinh-te-tu-cac-concert-am-nhac-196260615064525215.htm) - 01:35 15/06/2026
+- 🤗 [Nam rapper liệt nửa người sau khi xăm hình](https://nld.com.vn/nam-rapper-liet-nua-nguoi-sau-khi-xam-hinh-19626061507155891.htm) - 00:58 15/06/2026
+- 🧠 [Hàng vạn khán giả bùng nổ tại Mega Booming - Charmora City, pháo hoa rực sáng Vịnh Ngọc Nha Trang](https://nld.com.vn/hang-van-khan-gia-bung-no-tai-mega-booming-charmora-city-phao-hoa-ruc-sang-vinh-ngoc-nha-trang-196260614114358488.htm) - 05:12 14/06/2026
+- 🌊 [Ấn tượng fan meeting: OFF SPACE của SS Label](https://nld.com.vn/an-tuong-fan-meeting-off-space-cua-ss-label-196260614095536799.htm) - 03:24 14/06/2026
+- 👨‍🏫 [Nhan sắc Việt quyết tâm tạo dấu ấn riêng trên đấu trường quốc tế](https://nld.com.vn/nhan-sac-viet-quyet-tam-tao-dau-an-rieng-tren-dau-truong-quoc-te-196260613143223942.htm) - 07:38 13/06/2026
+- 🕴 [Người mẫu Hữu Long, Mâu Thủy háo hức, thích thú đấu giải](https://nld.com.vn/nguoi-mau-huu-long-mau-thuy-hao-huc-thich-thu-dau-giai-196260613131514592.htm) - 07:30 13/06/2026
+- 🤩 [Thúy Ngân: &quot;Tôi vẫn chưa tin mình vô địch&quot;](https://nld.com.vn/thuy-ngan-toi-van-chua-tin-minh-vo-dich-196260613131542876.htm) - 07:25 13/06/2026
+- 🌁 [S.T Sơn Thạch: &quot;Giải Pickleball Báo Người Lao Động mang ý nghĩa xã hội sâu sắc&quot;](https://nld.com.vn/st-son-thach-giai-pickleball-bao-nguoi-lao-dong-mang-y-nghia-xa-hoi-sau-sac-196260613114419187.htm) - 05:04 13/06/2026
+- 🎉 [Diễn viên Trương Quỳnh Anh bị &quot;ghiền&quot; môn pickleball](https://nld.com.vn/dien-vien-truong-quynh-anh-bi-ghien-mon-pickleball-196260613113848611.htm) - 04:49 13/06/2026
+- 👍 [Thúy Ngân: &quot;Anh S.T Sơn Thạch run một, tôi run mười!&quot;](https://nld.com.vn/thuy-ngan-anh-st-son-thach-run-mot-toi-run-muoi-196260613104717195.htm) - 04:34 13/06/2026
+- 🤖 [Dàn nghệ sĩ nữ tỏa sáng tại Giải Pickleball Báo Người Lao Động 2026](https://nld.com.vn/dan-nghe-si-nu-toa-sang-tai-giai-pickleball-bao-nguoi-lao-dong-2026-196260613100446498.htm) - 03:33 13/06/2026
+- 💫 [Ngôi sao Đài Loan &lpar;Trung Quốc&rpar; Amber đến chúc mừng Chi Pu](https://nld.com.vn/ngoi-sao-dai-loan-trung-quoc-amber-den-chuc-mung-chi-pu-196260613062224736.htm) - 00:54 13/06/2026
+- 🚀 [Bạch Lộc bác bỏ tin đồn &quot;kim chủ&quot; chống lưng, tuyên bố kiện](https://nld.com.vn/bach-loc-bac-bo-tin-don-kim-chu-chong-lung-tuyen-bo-kien-19626061213490184.htm) - 06:59 12/06/2026
+- 🫣 [Brad Pitt bụi bặm, phong trần hội ngộ khán giả Việt](https://nld.com.vn/brad-pitt-bui-bam-phong-tran-hoi-ngo-khan-gia-viet-196260612123816906.htm) - 05:57 12/06/2026
+- 👹 [&quot;Ngược hướng&quot; đánh dấu màn trở lại đáng mong chờ của S.T Sơn Thạch](https://nld.com.vn/nguoc-huong-danh-dau-man-tro-lai-dang-mong-cho-cua-st-son-thach-19626061207154981.htm) - 00:49 12/06/2026
+- 🥸 [Ngô Thanh Vân nói gì về trầm cảm sau sinh?](https://nld.com.vn/ngo-thanh-van-noi-gi-ve-tram-cam-sau-sinh-19626061117170897.htm) - 10:25 11/06/2026
+- 🎬 [Diễn viên Hiếu Hiền: &quot;Khi mất mẹ, tâm hồn tôi bị rỗng một khoảng lớn&quot;](https://nld.com.vn/dien-vien-hieu-hien-khi-mat-me-tam-hon-toi-bi-rong-mot-khoang-lon-196260611163105755.htm) - 09:51 11/06/2026
+- 🔥 [Từ APEC đến Festival Huế: Hành trình Mỹ Anh trở thành &quot;đại sứ văn hóa&quot; thế hệ mới của V-Pop](https://nld.com.vn/tu-apec-den-festival-hue-hanh-trinh-my-anh-tro-thanh-dai-su-van-hoa-the-he-moi-cua-v-pop-196260611161752649.htm) - 09:32 11/06/2026
+- 🚦 [Mỹ nhân Địch Lệ Nhiệt Ba bị đồn hẹn hò &quot;trai hư&quot; Trần Phi Vũ](https://nld.com.vn/my-nhan-dich-le-nhiet-ba-bi-don-hen-ho-trai-hu-tran-phi-vu-196260611142400692.htm) - 08:03 11/06/2026
+- 🌝 [Tiến Luật, Tín Nguyễn,… kinh ngạc thiệp cưới &quot;bà trùm nông sản&quot; Viên Vibi](https://nld.com.vn/tien-luat-tin-nguyen-kinh-ngac-thiep-cuoi-ba-trum-nong-san-vien-vibi-196260610152659079.htm) - 09:11 10/06/2026
+- 👨‍🏫 [Mạng xã hội lan truyền thông tin ca sĩ N.C bị bắt](https://nld.com.vn/mang-xa-hoi-lan-truyen-thong-tin-ca-si-nam-cuong-bi-bat-196260610093851197.htm) - 03:34 10/06/2026
+- 🤠 [Nghệ sĩ Mai Trần bị nhồi máu não, may mắn vượt qua](https://nld.com.vn/nghe-si-mai-tran-bi-nhoi-mau-nao-may-man-vuot-qua-196260610090924874.htm) - 02:44 10/06/2026
+- 💡 [Diễn viên Nguyễn Công Nương biến hóa rạng rỡ trên thảm đỏ ra mắt &quot;Lầu Chú Hỏa&quot;](https://nld.com.vn/dien-vien-nguyen-cong-nuong-bien-hoa-rang-ro-tren-tham-do-ra-mat-lau-chu-hoa-196260610083139484.htm) - 02:09 10/06/2026
+- 👀 [Mỹ nam &quot;Những bác sĩ tài hoa&quot; và chân dài Soo-young tan vỡ sau 14 năm](https://nld.com.vn/my-nam-nhung-bac-si-tai-hoa-va-chan-dai-soo-young-tan-vo-sau-14-nam-196260609160142605.htm) - 10:09 09/06/2026
+- 🚦 [Mỹ nữ Địch Lệ Nhiệt Ba khoe sắc vóc với trang phục Việt](https://nld.com.vn/my-nu-dich-le-nhiet-ba-khoe-sac-voc-voi-trang-phuc-viet-196260609121542923.htm) - 05:57 09/06/2026
+- 👍 [NSƯT Cao Minh, Huỳnh Lập, Cody Nam Võ &quot;đối đầu&quot; kịch tính](https://nld.com.vn/nsut-cao-minh-huynh-lap-cody-nam-vo-doi-dau-kich-tinh-196260609112959709.htm) - 05:16 09/06/2026
+- 🌋 [Nhìn ca sĩ Hoài Nhân, ta sẽ thấy &quot;không ai là cùng đường&quot;](https://nld.com.vn/nhin-ca-si-hoai-nhan-ta-se-thay-khong-ai-la-cung-duong-196260609083807519.htm) - 03:01 09/06/2026
+- 💼 [Nhan sắc Việt có thêm danh hiệu](https://nld.com.vn/nhan-sac-viet-co-them-danh-hieu-196260609060817472.htm) - 23:27 08/06/2026<!-- nld-giai-tri:END -->
