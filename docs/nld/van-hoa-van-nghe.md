@@ -4,53 +4,53 @@ sidebar_position: 11
 ---
 
 <!-- nld-van-hoa-van-nghe:START -->
-- 🙉 [Khai mạc Trại sáng tác kịch bản sân khấu Cần Thơ 2026](https://nld.com.vn/khai-mac-trai-sang-tac-kich-ban-san-khau-can-tho-2026-196260622183302952.htm) - 12:04 22/06/2026
-- 🤡 [Ngày hội Văn hóa dân tộc Chăm 2026: Gìn giữ hồn cốt di sản trong nhịp sống mới](https://nld.com.vn/ngay-hoi-van-hoa-dan-toc-cham-2026-gin-giu-hon-cot-di-san-trong-nhip-song-moi-196260622070215762.htm) - 05:34 22/06/2026
-- 🐘 [Việt Hương, Lê Quốc Nam tung hứng tiếng cười trong vở hài &quot;Hẹn em rằm tháng 7&quot;](https://nld.com.vn/viet-huong-le-quoc-nam-tung-hung-tieng-cuoi-trong-vo-hai-hen-em-ram-thang-7-196260622064114172.htm) - 02:40 22/06/2026
-- 🗽 [Sân khấu đương đại: Khát vọng những vở diễn mới](https://nld.com.vn/khat-vong-nhung-vo-dien-moi-196260621210603328.htm) - 20:15 21/06/2026
-- 🚦 [Hòa nhạc &quot;Frozen Fire&quot; giới thiệu 3 tác phẩm kinh điển](https://nld.com.vn/hoa-nhac-frozen-fire-gioi-thieu-3-tac-pham-kinh-dien-196260621210927123.htm) - 18:30 21/06/2026
-- 🥸 [Nhạc sĩ Nguyễn Quang Vinh tái đắc cử Chủ tịch Hội Âm nhạc TP HCM](https://nld.com.vn/nhac-si-nguyen-quang-vinh-tai-dac-cu-chu-tich-hoi-am-nhac-tp-hcm-196260621150200033.htm) - 08:27 21/06/2026
-- 🦣 [10 năm gieo duyên Quan Họ giữa lòng thành phố mang tên Bác](https://nld.com.vn/10-nam-gieo-duyen-quan-ho-giua-long-thanh-pho-mang-ten-bac-196260621120506167.htm) - 06:59 21/06/2026
-- 🦏 [Đạo diễn Nguyễn Tấn Kiệt dốc sức cho &quot;Gia Lai chào hè 2026&quot;](https://nld.com.vn/dao-dien-nguyen-tan-kiet-doc-suc-cho-gia-lai-chao-he-2026-19626062107085041.htm) - 00:57 21/06/2026
-- 🔥 [Nhà sưu tầm Huỳnh Minh Hiệp: Người lưu giữ ký ức báo chí](https://nld.com.vn/nha-suu-tam-huynh-minh-hiep-nguoi-luu-giu-ky-uc-bao-chi-196260620214627085.htm) - 22:47 20/06/2026
-- 🥳 [&quot;Thám tử lừng danh Conan&quot; tái ngộ khán giả Việt](https://nld.com.vn/tham-tu-lung-danh-conan-tai-ngo-khan-gia-viet-196260620143935197.htm) - 07:41 20/06/2026
-- 👀 [Trịnh Gia Khang và Mini show &quot;Dấu ấn chàng trai si tình&quot;, ca sĩ Bích Thủy hỗ trợ hết mình](https://nld.com.vn/trinh-gia-khang-va-mini-show-dau-an-chang-trai-si-tinh-ca-si-bich-thuy-ho-tro-het-minh-196260620140147975.htm) - 07:24 20/06/2026
-- 🧑‍💻 [NSƯT Ngọc Khanh nhớ di sản nghệ sĩ Ba Út để lại mỗi mùa lễ hội dân gian](https://nld.com.vn/nsut-ngoc-khanh-nho-di-san-nghe-si-ba-ut-de-lai-moi-mua-le-hoi-dan-gian-196260620082534819.htm) - 01:27 20/06/2026
-- 🔭 [&quot;Duyên ngày nợ đêm&quot;, cuộc đối thoại bằng ngôn ngữ múa về tình người](https://nld.com.vn/duyen-ngay-no-dem-cuoc-doi-thoai-bang-ngon-ngu-mua-ve-tinh-nguoi-196260620073810199.htm) - 00:40 20/06/2026
-- 🤖 [Kiến tạo tương lai từ dòng chảy di sản](https://nld.com.vn/kien-tao-tuong-lai-tu-dong-chay-di-san-19626061918275876.htm) - 23:11 19/06/2026
-- 🌝 [Nhà xuất bản Hội Nhà văn bị phạt 100 triệu đồng, đình chỉ hoạt động 2 tháng](https://nld.com.vn/nha-xuat-ban-hoi-nha-van-bi-phat-100-trieu-dong-dinh-chi-hoat-dong-2-thang-19626061919253945.htm) - 12:43 19/06/2026
-- 🧑‍💻 [NSND Hồ Ngọc Trinh thể hiện 2 nhân vật của Kỳ nữ Kim Cương trong &quot;Dưới hai màu áo&quot;](https://nld.com.vn/nsnd-ho-ngoc-trinh-the-hien-2-nhan-vat-cua-ky-nu-kim-cuong-trong-duoi-hai-mau-ao-196260619182141546.htm) - 12:17 19/06/2026
-- 🪜 [Nhiều hiện vật quý giá về báo chí cách mạng được trưng bày, giới thiệu](https://nld.com.vn/nhieu-hien-vat-quy-gia-ve-bao-chi-cach-mang-duoc-trung-bay-gioi-thieu-196260619160649329.htm) - 10:07 19/06/2026
-- 🎉 [Hơn 100 hoạt động tại Hội sách Thiếu nhi TPHCM 2026](https://nld.com.vn/hon-100-hoat-dong-tai-hoi-sach-thieu-nhi-tphcm-2026-196260619111416708.htm) - 07:31 19/06/2026
-- 🤔 [Triển lãm tôn vinh giá trị mỹ thuật báo chí](https://nld.com.vn/trien-lam-ton-vinh-gia-tri-my-thuat-bao-chi-196260618233401643.htm) - 00:03 19/06/2026
-- 🥸 [Những dòng sông kể chuyện Nam Bộ](https://nld.com.vn/nhung-dong-song-ke-chuyen-nam-bo-196260618195606684.htm) - 23:42 18/06/2026
-- 🌁 [Điện ảnh cần vẻ đẹp tự nhiên](https://nld.com.vn/dien-anh-can-ve-dep-tu-nhien-196260618195844877.htm) - 17:39 18/06/2026
-- 🦆 [4 vở cải lương chào mừng 50 năm Ngày Thành phố vinh dự mang tên Chủ tịch Hồ Chí Minh](https://nld.com.vn/4-vo-cai-luong-chao-mung-50-nam-ngay-thanh-pho-vinh-du-mang-ten-chu-tich-ho-chi-minh-19626061815205812.htm) - 08:32 18/06/2026
-- 📝 [Huỳnh Lập bật mí ý tưởng kể khối nghỉ hè và nghỉ hưu](https://nld.com.vn/huynh-lap-bat-mi-y-tuong-ke-khoi-nghi-he-va-nghi-huu-196260618125453257.htm) - 07:02 18/06/2026
-- 👹 [Sao Mai 2026 tìm kiếm những giọng ca xuất sắc](https://nld.com.vn/sao-mai-2026-tim-kiem-nhung-giong-ca-xuat-sac-196260618082537963.htm) - 02:07 18/06/2026
-- 🗽 [Hoa hậu, KOL đổ bộ màn ảnh](https://nld.com.vn/hoa-hau-kol-do-bo-man-anh-196260617201957362.htm) - 23:21 17/06/2026
-- 🌏 [Hòa nhạc &quot;Frozen Fire” mang đến những kiệt tác giao hưởng thế giới](https://nld.com.vn/hoa-nhac-frozen-fire-mang-den-nhung-kiet-tac-giao-huong-the-gioi-196260617154313887.htm) - 09:04 17/06/2026
-- 🌋 [TPHCM đóng góp nhiều ý kiến Luật Xuất bản sửa đổi](https://nld.com.vn/tphcm-dong-gop-nhieu-y-kien-luat-xuat-ban-sua-doi-196260617131629736.htm) - 06:28 17/06/2026
-- 🐵 [Giới thiệu 90 bức tranh minh họa ấn tượng trên báo](https://nld.com.vn/gioi-thieu-hon-60-buc-tranh-minh-hoa-an-tuong-tren-bao-196260617104320595.htm) - 04:12 17/06/2026
-- 🌊 [Bảo Quốc, Kiều Mai Lý và niềm hạnh phúc gặp lại khán giả hâm mộ](https://nld.com.vn/bao-quoc-kieu-mai-ly-va-niem-hanh-phuc-gap-lai-khan-gia-ham-mo-196260617074858939.htm) - 00:51 17/06/2026
-- 🧑‍💻 [NSƯT Phượng Hằng hội ngộ Nguyễn Văn Khởi trong  Âm Thanh Phù Sa](https://nld.com.vn/nsut-phuong-hang-hoi-ngo-nguyen-van-khoi-trong-am-thanh-phu-sa-196260617073147186.htm) - 00:45 17/06/2026
-- 🙉 [&quot;Bóng ma của Macbeth&quot; tại điểm diễn mới của kịch tiếng Anh](https://nld.com.vn/bong-ma-cua-macbeth-tai-diem-dien-moi-cua-kich-tieng-anh-196260617064148206.htm) - 00:43 17/06/2026
-- 🦍 [Tạo cơ chế thuận lợi cho sân khấu truyền thống](https://nld.com.vn/tao-co-che-thuan-loi-cho-san-khau-truyen-thong-196260616212009283.htm) - 00:42 17/06/2026
-- 🫶 [Tháo gỡ những điểm nghẽn về cơ chế, chính sách xuất bản](https://nld.com.vn/thao-go-nhung-diem-nghen-ve-co-che-chinh-sach-xuat-ban-196260616211804733.htm) - 00:25 17/06/2026
-- 👨‍🏫 [Thanh Hằng bật mí về &quot;lần đầu&quot; của Lương Thế Thành](https://nld.com.vn/thanh-hang-bat-mi-ve-lan-dau-cua-luong-the-thanh-196260616223105411.htm) - 18:30 16/06/2026
-- 🌮 [Truyền hình trực tiếp cuộc sống hoang dã tại Vườn quốc gia Côn Đảo](https://nld.com.vn/truyen-hinh-truc-tiep-cuoc-song-hoang-da-tai-vuon-quoc-gia-con-dao-196260616165738126.htm) - 10:10 16/06/2026
-- 🪄 [Ngỡ ngàng với &quot;vũ trụ Á Đông&quot; trong màn trở lại của MONO](https://nld.com.vn/ngo-ngang-voi-vu-tru-a-dong-trong-man-tro-lai-cua-mono-196260616110748905.htm) - 04:47 16/06/2026
-- 🚦 [Concert âm nhạc Việt bùng nổ nhưng chưa &quot;êm&quot;](https://nld.com.vn/concert-am-nhac-viet-bung-no-nhung-chua-em-196260615205526775.htm) - 22:30 15/06/2026
-- 📝 [Concert &quot;Thanh xuân&quot; khơi dậy khát vọng tuổi trẻ](https://nld.com.vn/concert-thanh-xuan-khoi-day-khat-vong-tuoi-tre-196260615191726422.htm) - 12:47 15/06/2026
-- 🥷 [Tăng sức hấp dẫn và hiệu quả kinh tế concert Việt](https://nld.com.vn/tang-suc-hap-dan-va-hieu-qua-kinh-te-concert-viet-196260615172736531.htm) - 10:47 15/06/2026
-- 🦅 [Đạo diễn Minh Nguyệt khởi công vở kịch &quot;Áo xưa dù nhàu&quot;, quy tụ nhiều nghệ sĩ nổi tiếng](https://nld.com.vn/dao-dien-minh-nguyet-khoi-cong-vo-kich-ao-xua-du-nhau-quy-tu-nhieu-nghe-si-noi-tieng-19626061510495488.htm) - 04:10 15/06/2026
-- 💯 [Talkshow &quot;Nâng cao chất lượng và hiệu quả kinh tế cho concert&quot;: Vấn nạn đăng trọn concert lên mạng](https://nld.com.vn/truc-tuyen-talkshow-nang-cao-chat-luong-va-hieu-qua-kinh-te-cho-concert-196260615075421986.htm) - 03:19 15/06/2026
-- 🌈 [Việt Linh – Hải Anh hai thế hệ một tình yêu nghệ thuật sâu sắc](https://nld.com.vn/viet-linh-hai-anh-hai-the-he-mot-tinh-yeu-nghe-thuat-sau-sac-196260615070528963.htm) - 03:17 15/06/2026
-- 🚦 [RA MẮT SÁCH “DẤN THÂN CÙNG NGHỀ BÁO” CỦA NHÀ BÁO - TS TÔ ĐÌNH TUÂN: Dấn thân để phụng sự xã hội](https://nld.com.vn/ra-mat-sach-dan-than-cung-nghe-bao-cua-nha-bao-ts-to-dinh-tuan-dan-than-de-phung-su-xa-hoi-196260614205537723.htm) - 23:10 14/06/2026
-- 🎊 [Nhà báo Tô Đình Tuân ra mắt sách &quot;Dấn thân cùng nghề báo&quot;](https://nld.com.vn/nha-bao-to-dinh-tuan-ra-mat-sach-dan-than-cung-nghe-bao-196260614183455349.htm) - 11:51 14/06/2026
-- 🙉 [Hội Sân khấu TP HCM gieo mầm đờn ca tài tử từ cơ sở](https://nld.com.vn/hoi-san-khau-tp-hcm-gieo-mam-don-ca-tai-tu-tu-co-so-196260614180514937.htm) - 11:33 14/06/2026
-- 🌋 [&quot;Dấn thân cùng nghề báo&quot;: Dấu ấn hơn 30 năm làm nghề](https://nld.com.vn/dan-than-cung-nghe-bao-dau-an-hon-30-nam-lam-nghe-196260614125659071.htm) - 06:07 14/06/2026
-- 🦅 [Nhà báo Tô Đình Tuân: &quot;Cuốn sách này không phải của riêng tôi&quot;](https://nld.com.vn/nha-bao-to-dinh-tuan-cuon-sach-nay-khong-phai-cua-rieng-toi-196260614103904179.htm) - 03:41 14/06/2026
-- 🥸 [Nghệ sĩ Việt Hương vui mừng trước hành trình nối nghiệp của Catherine T. Nguyen](https://nld.com.vn/nghe-si-viet-huong-vui-mung-truoc-hanh-trinh-noi-nghiep-cua-catherine-t-nguyen-196260614074142681.htm) - 00:54 14/06/2026
-- 🫶 [Charles Nguyễn - Người mở đường cho cải lương video đã đi xa](https://nld.com.vn/charles-nguyen-nguoi-mo-duong-cho-cai-luong-video-da-di-xa-196260614072109345.htm) - 00:49 14/06/2026
-- 🙉 [RA MẮT SÁCH &quot;DẤN THÂN CÙNG NGHỀ BÁO&quot; CỦA NHÀ BÁO - TS TÔ ĐÌNH TUÂN: Tri ân nghề báo, cảm ơn cuộc đời](https://nld.com.vn/ra-mat-sach-dan-than-cung-nghe-bao-cua-nha-bao-ts-to-dinh-tuan-tri-an-nghe-bao-cam-on-cuoc-doi-196260613190536902.htm) - 00:00 14/06/2026<!-- nld-van-hoa-van-nghe:END -->
+- 🙉 [Nhà hát Kịch Việt Nam kể chuyện Bác Hồ trên sân khấu Trường ĐH Thăng Long](https://nld.com.vn/nha-hat-kich-viet-nam-ke-chuyen-bac-ho-tren-san-khau-truong-dh-thang-long-196260624161909934.htm) - 09:32 24/06/2026
+- 🤡 [Nàng hậu Thái Lan hội ngộ khán giả Việt](https://nld.com.vn/nang-hau-thai-lan-hoi-ngo-khan-gia-viet-196260624142227344.htm) - 08:33 24/06/2026
+- 🐘 [Đạo diễn NSND Giang Mạnh Hà: &quot;Muốn sân khấu phát triển phải bắt đầu từ tác giả&quot;](https://nld.com.vn/dao-dien-nsnd-giang-manh-ha-muon-san-khau-phat-trien-phai-bat-dau-tu-tac-gia-196260624075801801.htm) - 01:44 24/06/2026
+- 🗽 [Nhìn lại phim kinh dị Việt từ công văn của Cục Điện ảnh](https://nld.com.vn/nhin-lai-phim-kinh-di-viet-tu-cong-van-cua-cuc-dien-anh-196260623194806195.htm) - 23:00 23/06/2026
+- 🚦 [Dàn mỹ nhân quốc tế tìm hiểu di sản văn hóa Việt Nam](https://nld.com.vn/dan-my-nhan-quoc-te-tim-hieu-di-san-van-hoa-viet-nam-196260623210806655.htm) - 14:17 23/06/2026
+- 🥸 [NSND Lan Hương và khát vọng đưa hình tượng liệt sĩ Hồng Quang đến với công chúng qua nghệ thuật](https://nld.com.vn/nsnd-lan-huong-va-khat-vong-dua-hinh-tuong-liet-si-hong-quang-den-voi-cong-chung-qua-nghe-thuat-1962606230756536.htm) - 02:10 23/06/2026
+- 🦣 [PGS.TS Trần Yến Chi và kỳ vọng tìm những hạt nhân mới cho sân khấu thành phố](https://nld.com.vn/pgsts-tran-yen-chi-va-ky-vong-tim-nhung-hat-nhan-moi-cho-san-khau-thanh-pho-196260623084248888.htm) - 02:08 23/06/2026
+- 🦏 [Nghệ sĩ kỳ cựu đua giữ hào quang](https://nld.com.vn/nghe-si-ky-cuu-dua-giu-hao-quang-196260622205806281.htm) - 00:49 23/06/2026
+- 🔥 [Khai mạc Trại sáng tác kịch bản sân khấu Cần Thơ 2026](https://nld.com.vn/khai-mac-trai-sang-tac-kich-ban-san-khau-can-tho-2026-196260622183302952.htm) - 12:04 22/06/2026
+- 🥳 [Ngày hội Văn hóa dân tộc Chăm 2026: Gìn giữ hồn cốt di sản trong nhịp sống mới](https://nld.com.vn/ngay-hoi-van-hoa-dan-toc-cham-2026-gin-giu-hon-cot-di-san-trong-nhip-song-moi-196260622070215762.htm) - 05:34 22/06/2026
+- 👀 [Việt Hương, Lê Quốc Nam tung hứng tiếng cười trong vở hài &quot;Hẹn em rằm tháng 7&quot;](https://nld.com.vn/viet-huong-le-quoc-nam-tung-hung-tieng-cuoi-trong-vo-hai-hen-em-ram-thang-7-196260622064114172.htm) - 02:40 22/06/2026
+- 🧑‍💻 [Sân khấu đương đại: Khát vọng những vở diễn mới](https://nld.com.vn/khat-vong-nhung-vo-dien-moi-196260621210603328.htm) - 20:15 21/06/2026
+- 🔭 [Hòa nhạc &quot;Frozen Fire&quot; giới thiệu 3 tác phẩm kinh điển](https://nld.com.vn/hoa-nhac-frozen-fire-gioi-thieu-3-tac-pham-kinh-dien-196260621210927123.htm) - 18:30 21/06/2026
+- 🤖 [Nhạc sĩ Nguyễn Quang Vinh tái đắc cử Chủ tịch Hội Âm nhạc TP HCM](https://nld.com.vn/nhac-si-nguyen-quang-vinh-tai-dac-cu-chu-tich-hoi-am-nhac-tp-hcm-196260621150200033.htm) - 08:27 21/06/2026
+- 🌝 [10 năm gieo duyên Quan Họ giữa lòng thành phố mang tên Bác](https://nld.com.vn/10-nam-gieo-duyen-quan-ho-giua-long-thanh-pho-mang-ten-bac-196260621120506167.htm) - 06:59 21/06/2026
+- 🧑‍💻 [Đạo diễn Nguyễn Tấn Kiệt dốc sức cho &quot;Gia Lai chào hè 2026&quot;](https://nld.com.vn/dao-dien-nguyen-tan-kiet-doc-suc-cho-gia-lai-chao-he-2026-19626062107085041.htm) - 00:57 21/06/2026
+- 🪜 [Nhà sưu tầm Huỳnh Minh Hiệp: Người lưu giữ ký ức báo chí](https://nld.com.vn/nha-suu-tam-huynh-minh-hiep-nguoi-luu-giu-ky-uc-bao-chi-196260620214627085.htm) - 22:47 20/06/2026
+- 🎉 [&quot;Thám tử lừng danh Conan&quot; tái ngộ khán giả Việt](https://nld.com.vn/tham-tu-lung-danh-conan-tai-ngo-khan-gia-viet-196260620143935197.htm) - 07:41 20/06/2026
+- 🤔 [Trịnh Gia Khang và Mini show &quot;Dấu ấn chàng trai si tình&quot;, ca sĩ Bích Thủy hỗ trợ hết mình](https://nld.com.vn/trinh-gia-khang-va-mini-show-dau-an-chang-trai-si-tinh-ca-si-bich-thuy-ho-tro-het-minh-196260620140147975.htm) - 07:24 20/06/2026
+- 🥸 [NSƯT Ngọc Khanh nhớ di sản nghệ sĩ Ba Út để lại mỗi mùa lễ hội dân gian](https://nld.com.vn/nsut-ngoc-khanh-nho-di-san-nghe-si-ba-ut-de-lai-moi-mua-le-hoi-dan-gian-196260620082534819.htm) - 01:27 20/06/2026
+- 🌁 [&quot;Duyên ngày nợ đêm&quot;, cuộc đối thoại bằng ngôn ngữ múa về tình người](https://nld.com.vn/duyen-ngay-no-dem-cuoc-doi-thoai-bang-ngon-ngu-mua-ve-tinh-nguoi-196260620073810199.htm) - 00:40 20/06/2026
+- 🦆 [Kiến tạo tương lai từ dòng chảy di sản](https://nld.com.vn/kien-tao-tuong-lai-tu-dong-chay-di-san-19626061918275876.htm) - 23:11 19/06/2026
+- 📝 [Nhà xuất bản Hội Nhà văn bị phạt 100 triệu đồng, đình chỉ hoạt động 2 tháng](https://nld.com.vn/nha-xuat-ban-hoi-nha-van-bi-phat-100-trieu-dong-dinh-chi-hoat-dong-2-thang-19626061919253945.htm) - 12:43 19/06/2026
+- 👹 [NSND Hồ Ngọc Trinh thể hiện 2 nhân vật của Kỳ nữ Kim Cương trong &quot;Dưới hai màu áo&quot;](https://nld.com.vn/nsnd-ho-ngoc-trinh-the-hien-2-nhan-vat-cua-ky-nu-kim-cuong-trong-duoi-hai-mau-ao-196260619182141546.htm) - 12:17 19/06/2026
+- 🗽 [Nhiều hiện vật quý giá về báo chí cách mạng được trưng bày, giới thiệu](https://nld.com.vn/nhieu-hien-vat-quy-gia-ve-bao-chi-cach-mang-duoc-trung-bay-gioi-thieu-196260619160649329.htm) - 10:07 19/06/2026
+- 🌏 [Hơn 100 hoạt động tại Hội sách Thiếu nhi TPHCM 2026](https://nld.com.vn/hon-100-hoat-dong-tai-hoi-sach-thieu-nhi-tphcm-2026-196260619111416708.htm) - 07:31 19/06/2026
+- 🌋 [Triển lãm tôn vinh giá trị mỹ thuật báo chí](https://nld.com.vn/trien-lam-ton-vinh-gia-tri-my-thuat-bao-chi-196260618233401643.htm) - 00:03 19/06/2026
+- 🐵 [Những dòng sông kể chuyện Nam Bộ](https://nld.com.vn/nhung-dong-song-ke-chuyen-nam-bo-196260618195606684.htm) - 23:42 18/06/2026
+- 🌊 [Điện ảnh cần vẻ đẹp tự nhiên](https://nld.com.vn/dien-anh-can-ve-dep-tu-nhien-196260618195844877.htm) - 17:39 18/06/2026
+- 🧑‍💻 [4 vở cải lương chào mừng 50 năm Ngày Thành phố vinh dự mang tên Chủ tịch Hồ Chí Minh](https://nld.com.vn/4-vo-cai-luong-chao-mung-50-nam-ngay-thanh-pho-vinh-du-mang-ten-chu-tich-ho-chi-minh-19626061815205812.htm) - 08:32 18/06/2026
+- 🙉 [Huỳnh Lập bật mí ý tưởng kể khối nghỉ hè và nghỉ hưu](https://nld.com.vn/huynh-lap-bat-mi-y-tuong-ke-khoi-nghi-he-va-nghi-huu-196260618125453257.htm) - 07:02 18/06/2026
+- 🦍 [Sao Mai 2026 tìm kiếm những giọng ca xuất sắc](https://nld.com.vn/sao-mai-2026-tim-kiem-nhung-giong-ca-xuat-sac-196260618082537963.htm) - 02:07 18/06/2026
+- 🫶 [Hoa hậu, KOL đổ bộ màn ảnh](https://nld.com.vn/hoa-hau-kol-do-bo-man-anh-196260617201957362.htm) - 23:21 17/06/2026
+- 👨‍🏫 [Hòa nhạc &quot;Frozen Fire” mang đến những kiệt tác giao hưởng thế giới](https://nld.com.vn/hoa-nhac-frozen-fire-mang-den-nhung-kiet-tac-giao-huong-the-gioi-196260617154313887.htm) - 09:04 17/06/2026
+- 🌮 [TPHCM đóng góp nhiều ý kiến Luật Xuất bản sửa đổi](https://nld.com.vn/tphcm-dong-gop-nhieu-y-kien-luat-xuat-ban-sua-doi-196260617131629736.htm) - 06:28 17/06/2026
+- 🪄 [Giới thiệu 90 bức tranh minh họa ấn tượng trên báo](https://nld.com.vn/gioi-thieu-hon-60-buc-tranh-minh-hoa-an-tuong-tren-bao-196260617104320595.htm) - 04:12 17/06/2026
+- 🚦 [Bảo Quốc, Kiều Mai Lý và niềm hạnh phúc gặp lại khán giả hâm mộ](https://nld.com.vn/bao-quoc-kieu-mai-ly-va-niem-hanh-phuc-gap-lai-khan-gia-ham-mo-196260617074858939.htm) - 00:51 17/06/2026
+- 📝 [NSƯT Phượng Hằng hội ngộ Nguyễn Văn Khởi trong  Âm Thanh Phù Sa](https://nld.com.vn/nsut-phuong-hang-hoi-ngo-nguyen-van-khoi-trong-am-thanh-phu-sa-196260617073147186.htm) - 00:45 17/06/2026
+- 🥷 [&quot;Bóng ma của Macbeth&quot; tại điểm diễn mới của kịch tiếng Anh](https://nld.com.vn/bong-ma-cua-macbeth-tai-diem-dien-moi-cua-kich-tieng-anh-196260617064148206.htm) - 00:43 17/06/2026
+- 🦅 [Tạo cơ chế thuận lợi cho sân khấu truyền thống](https://nld.com.vn/tao-co-che-thuan-loi-cho-san-khau-truyen-thong-196260616212009283.htm) - 00:42 17/06/2026
+- 💯 [Tháo gỡ những điểm nghẽn về cơ chế, chính sách xuất bản](https://nld.com.vn/thao-go-nhung-diem-nghen-ve-co-che-chinh-sach-xuat-ban-196260616211804733.htm) - 00:25 17/06/2026
+- 🌈 [Thanh Hằng bật mí về &quot;lần đầu&quot; của Lương Thế Thành](https://nld.com.vn/thanh-hang-bat-mi-ve-lan-dau-cua-luong-the-thanh-196260616223105411.htm) - 18:30 16/06/2026
+- 🚦 [Truyền hình trực tiếp cuộc sống hoang dã tại Vườn quốc gia Côn Đảo](https://nld.com.vn/truyen-hinh-truc-tiep-cuoc-song-hoang-da-tai-vuon-quoc-gia-con-dao-196260616165738126.htm) - 10:10 16/06/2026
+- 🎊 [Ngỡ ngàng với &quot;vũ trụ Á Đông&quot; trong màn trở lại của MONO](https://nld.com.vn/ngo-ngang-voi-vu-tru-a-dong-trong-man-tro-lai-cua-mono-196260616110748905.htm) - 04:47 16/06/2026
+- 🙉 [Concert âm nhạc Việt bùng nổ nhưng chưa &quot;êm&quot;](https://nld.com.vn/concert-am-nhac-viet-bung-no-nhung-chua-em-196260615205526775.htm) - 22:30 15/06/2026
+- 🌋 [Concert &quot;Thanh xuân&quot; khơi dậy khát vọng tuổi trẻ](https://nld.com.vn/concert-thanh-xuan-khoi-day-khat-vong-tuoi-tre-196260615191726422.htm) - 12:47 15/06/2026
+- 🦅 [Tăng sức hấp dẫn và hiệu quả kinh tế concert Việt](https://nld.com.vn/tang-suc-hap-dan-va-hieu-qua-kinh-te-concert-viet-196260615172736531.htm) - 10:47 15/06/2026
+- 🥸 [Đạo diễn Minh Nguyệt khởi công vở kịch &quot;Áo xưa dù nhàu&quot;, quy tụ nhiều nghệ sĩ nổi tiếng](https://nld.com.vn/dao-dien-minh-nguyet-khoi-cong-vo-kich-ao-xua-du-nhau-quy-tu-nhieu-nghe-si-noi-tieng-19626061510495488.htm) - 04:10 15/06/2026
+- 🫶 [Talkshow &quot;Nâng cao chất lượng và hiệu quả kinh tế cho concert&quot;: Vấn nạn đăng trọn concert lên mạng](https://nld.com.vn/truc-tuyen-talkshow-nang-cao-chat-luong-va-hieu-qua-kinh-te-cho-concert-196260615075421986.htm) - 03:19 15/06/2026
+- 🙉 [Việt Linh – Hải Anh hai thế hệ một tình yêu nghệ thuật sâu sắc](https://nld.com.vn/viet-linh-hai-anh-hai-the-he-mot-tinh-yeu-nghe-thuat-sau-sac-196260615070528963.htm) - 03:17 15/06/2026<!-- nld-van-hoa-van-nghe:END -->
