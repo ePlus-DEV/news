@@ -4,63 +4,63 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Tây Ninh có thêm Phó Giám đốc Công an tỉnh](https://dantri.com.vn/phap-luat/tay-ninh-co-them-pho-giam-doc-cong-an-tinh-20260624182806895.htm) - 12:32 24/06/2026
-- 🐲 [Bắt giữ 3 đối tượng trộm nhịp cầu đá cổ, thu hồi toàn bộ hiện vật](https://dantri.com.vn/phap-luat/bat-giu-3-doi-tuong-trom-nhip-cau-da-co-thu-hoi-toan-bo-hien-vat-20260624192119611.htm) - 12:26 24/06/2026
-- 🌁 [Phát hiện súng K54 trong tủ quần áo của cha, con gái mang nộp công an](https://dantri.com.vn/phap-luat/phat-hien-sung-k54-trong-tu-quan-ao-cua-cha-con-gai-mang-nop-cong-an-20260624171742843.htm) - 10:38 24/06/2026
-- 🎃 [Bắt kẻ đạp ngã xe ông lão 70 tuổi, cướp 101 tờ vé số và 40 triệu đồng](https://dantri.com.vn/phap-luat/bat-ke-dap-nga-xe-ong-lao-70-tuoi-cuop-101-to-ve-so-va-40-trieu-dong-20260624172207387.htm) - 10:36 24/06/2026
-- 🦅 [Gần 20 đối tượng lao vào hỗn chiến lúc rạng sáng](https://dantri.com.vn/phap-luat/gan-20-doi-tuong-lao-vao-hon-chien-luc-rang-sang-20260624165125521.htm) - 10:21 24/06/2026
-- 🎭 [Mua thẻ hội viên nhà báo giả, đi hù dọa để chiếm đoạt tài sản](https://dantri.com.vn/phap-luat/mua-the-hoi-vien-nha-bao-gia-di-hu-doa-de-chiem-doat-tai-san-20260624165021317.htm) - 09:52 24/06/2026
-- 🤗 [Người đàn ông bị “kiều nữ” lừa góp 700 triệu đồng đầu tư công ty mỹ phẩm](https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-kieu-nu-lua-gop-700-trieu-dong-dau-tu-cong-ty-my-pham-20260624154929652.htm) - 09:32 24/06/2026
-- 🚀 [Bắt tạm giam nguyên kiểm sát viên VKSND Hà Nội](https://dantri.com.vn/phap-luat/bat-tam-giam-nguyen-kiem-sat-vien-vksnd-ha-noi-20260624160526321.htm) - 09:11 24/06/2026
-- 👍 [Truy tìm người đàn ông cho vay lãi nặng ở TPHCM](https://dantri.com.vn/phap-luat/truy-tim-nguoi-dan-ong-cho-vay-lai-nang-o-tphcm-20260624155709313.htm) - 09:08 24/06/2026
-- 🧐 [Xét nghiệm diện rộng 68 dãy trọ, phát hiện nhiều người dương tính ma túy](https://dantri.com.vn/phap-luat/xet-nghiem-dien-rong-68-day-tro-phat-hien-nhieu-nguoi-duong-tinh-ma-tuy-20260624153504797.htm) - 08:52 24/06/2026
-- 🫶 [Khởi tố tài xế xe khách gây tai nạn làm 2 người tử vong](https://dantri.com.vn/phap-luat/khoi-to-tai-xe-xe-khach-gay-tai-nan-lam-2-nguoi-tu-vong-20260624133420159.htm) - 07:24 24/06/2026
-- 🏊 [Giảm án cho cựu cán bộ Đoàn ở TPHCM làm khống hồ sơ sinh viên](https://dantri.com.vn/phap-luat/giam-an-cho-cuu-can-bo-doan-o-tphcm-lam-khong-ho-so-sinh-vien-20260624125034054.htm) - 07:17 24/06/2026
-- 🌋 [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://dantri.com.vn/phap-luat/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-20260624121044963.htm) - 05:18 24/06/2026
-- 👹 [&quot;Trùm buôn siêu xe&quot; Phan Công Khanh bị truy tố tội danh nhẹ hơn](https://dantri.com.vn/phap-luat/trum-buon-sieu-xe-phan-cong-khanh-bi-truy-to-toi-danh-nhe-hon-20260624115747444.htm) - 05:07 24/06/2026
-- 🫣 [Truy tố người phụ nữ phá hoại chiếc Mercedes GLC200 ở Hà Nội](https://dantri.com.vn/phap-luat/truy-to-nguoi-phu-nu-pha-hoai-chiec-mercedes-glc200-o-ha-noi-20260624115557906.htm) - 04:59 24/06/2026
-- 🎃 [Xử lý hơn 100 người bình luận xuyên tạc trên trang của Lê Trung Khoa](https://dantri.com.vn/phap-luat/xu-ly-hon-100-nguoi-binh-luan-xuyen-tac-tren-trang-cua-le-trung-khoa-20260624110004040.htm) - 04:43 24/06/2026
-- 🌝 [Khống chế người đàn ông cầm dao phay đe dọa người đi đường ở Tây Hồ](https://dantri.com.vn/phap-luat/khong-che-nguoi-dan-ong-cam-dao-phay-de-doa-nguoi-di-duong-o-tay-ho-20260624112711583.htm) - 04:37 24/06/2026
-- 🚀 [Cảnh sát lật tẩy đường đi của ma túy đến nhiều tỉnh, thành](https://dantri.com.vn/phap-luat/canh-sat-lat-tay-duong-di-cua-ma-tuy-den-nhieu-tinh-thanh-20260624110216900.htm) - 04:34 24/06/2026
-- 🥷 [Bắt giữ 2 đối tượng vụ hỗn chiến ở phố Tân Mai](https://dantri.com.vn/phap-luat/bat-giu-2-doi-tuong-vu-hon-chien-o-pho-tan-mai-20260624112257293.htm) - 04:27 24/06/2026
-- 👺 [Người đàn ông bị phạt 6,25 triệu đồng vì dùng bạo lực với vợ](https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-phat-625-trieu-dong-vi-dung-bao-luc-voi-vo-20260624102653505.htm) - 03:50 24/06/2026
-- 🪜 [Góp tiền mua ma túy để cùng sử dụng, 2 cậu cháu bị khởi tố](https://dantri.com.vn/phap-luat/gop-tien-mua-ma-tuy-de-cung-su-dung-2-cau-chau-bi-khoi-to-20260624103957126.htm) - 03:48 24/06/2026
-- 🦄 [Mua thận gần 1 tỷ, người bán nhận 500 triệu đồng](https://dantri.com.vn/phap-luat/mua-than-gan-1-ty-nguoi-ban-nhan-500-trieu-dong-20260624090159115.htm) - 02:45 24/06/2026
-- 🦍 [Bốn phiến đá cầu cổ hơn 100 năm tuổi bị lấy trộm, bán phế liệu](https://dantri.com.vn/phap-luat/bon-phien-da-cau-co-hon-100-nam-tuoi-bi-lay-trom-ban-phe-lieu-20260624090929481.htm) - 02:14 24/06/2026
-- 🌁 [Đột nhập nhà dân trộm hơn 2 cây vàng, gã đàn ông 3 tiền án sa lưới](https://dantri.com.vn/phap-luat/dot-nhap-nha-dan-trom-hon-2-cay-vang-ga-dan-ong-3-tien-an-sa-luoi-20260624084020984.htm) - 01:45 24/06/2026
-- 💯 [Điều tra vụ cô gái 21 tuổi tử vong trong cửa hàng gạch ốp lát](https://dantri.com.vn/phap-luat/dieu-tra-vu-co-gai-21-tuoi-tu-vong-trong-cua-hang-gach-op-lat-20260624054803506.htm) - 23:06 23/06/2026
-- 🌜 [Vay 850 triệu đồng, sau một năm thành khoản nợ hơn 1,5 tỷ đồng](https://dantri.com.vn/phap-luat/vay-850-trieu-dong-sau-mot-nam-thanh-khoan-no-hon-15-ty-dong-20260623220220067.htm) - 15:30 23/06/2026
-- 👹 [Triệt phá nhóm dàn cảnh trộm điện thoại của du khách ở Tân Huê Viên](https://dantri.com.vn/phap-luat/triet-pha-nhom-dan-canh-trom-dien-thoai-cua-du-khach-o-tan-hue-vien-20260623194115909.htm) - 14:06 23/06/2026
-- 🪜 [Khởi tố nữ giám đốc ở Ninh Bình vì trốn thuế](https://dantri.com.vn/phap-luat/khoi-to-nu-giam-doc-o-ninh-binh-vi-tron-thue-20260623195246963.htm) - 13:53 23/06/2026
-- 🦩 [Đang chờ mổ u gan, cựu giám đốc vẫn nhiều lần bị đòi &quot;chi tiền ngoại giao&quot;](https://dantri.com.vn/phap-luat/dang-cho-mo-u-gan-cuu-giam-doc-van-nhieu-lan-bi-doi-chi-tien-ngoai-giao-20260623195704733.htm) - 13:22 23/06/2026
-- 💂 [Công an xác minh vụ bà bầu bị hành hung tại cửa hàng trái cây](https://dantri.com.vn/phap-luat/cong-an-xac-minh-vu-ba-bau-bi-hanh-hung-tai-cua-hang-trai-cay-20260623195608295.htm) - 13:04 23/06/2026
-- 💃 [Đăng tin sai vì yêu mến thần tượng, cô gái bị phạt 7,5 triệu đồng](https://dantri.com.vn/phap-luat/dang-tin-sai-vi-yeu-men-than-tuong-co-gai-bi-phat-75-trieu-dong-20260623182120102.htm) - 11:57 23/06/2026
-- 🧐 [Bộ Công an đề xuất bổ sung tội danh mới, tránh bỏ lọt tội phạm](https://dantri.com.vn/phap-luat/bo-cong-an-de-xuat-bo-sung-toi-danh-moi-tranh-bo-lot-toi-pham-20260623180619772.htm) - 11:41 23/06/2026
-- 🤗 [Bí mật trong những hộp sữa bột gửi từ nước ngoài về Việt Nam](https://dantri.com.vn/phap-luat/bi-mat-trong-nhung-hop-sua-bot-gui-tu-nuoc-ngoai-ve-viet-nam-20260623171239783.htm) - 11:03 23/06/2026
-- 🕴 [Bà Hồng Loan nhập viện, phiên tòa chia thừa kế của nghệ sĩ Vũ Linh hoãn](https://dantri.com.vn/phap-luat/ba-hong-loan-nhap-vien-phien-toa-chia-thua-ke-cua-nghe-si-vu-linh-hoan-20260623144911316.htm) - 07:56 23/06/2026
-- 🐎 [31 người bị nữ &quot;thầy bói&quot; ở TPHCM lừa hơn 28 tỷ đồng](https://dantri.com.vn/phap-luat/31-nguoi-bi-nu-thay-boi-o-tphcm-lua-hon-28-ty-dong-20260623122555239.htm) - 07:52 23/06/2026
-- 🪜 [Giả danh lãnh đạo cấp vụ lừa “chạy án” 9,4 tỷ đồng](https://dantri.com.vn/phap-luat/gia-danh-lanh-dao-cap-vu-lua-chay-an-94-ty-dong-20260623124950441.htm) - 05:59 23/06/2026
-- 🤭 [Khởi tố thanh niên vẽ bậy lên hàng rào cầu đi bộ nghìn tỷ ở TPHCM](https://dantri.com.vn/phap-luat/khoi-to-thanh-nien-ve-bay-len-hang-rao-cau-di-bo-nghin-ty-o-tphcm-20260623122601002.htm) - 05:53 23/06/2026
-- 🌏 [Xử phạt người đàn ông bình luận xúc phạm đoàn cảnh sát cơ động kỵ binh](https://dantri.com.vn/phap-luat/xu-phat-nguoi-dan-ong-binh-luan-xuc-pham-doan-canh-sat-co-dong-ky-binh-20260623110003878.htm) - 05:29 23/06/2026
-- 🎃 [Bắt 30 đối tượng trong đường dây ma túy ở TPHCM, thu giữ 1 tấn tang vật](https://dantri.com.vn/phap-luat/bat-30-doi-tuong-trong-duong-day-ma-tuy-o-tphcm-thu-giu-1-tan-tang-vat-20260623115308765.htm) - 05:05 23/06/2026
-- 🗽 [Tìm bị hại trong vụ lừa nhận làm hộ thủ tục sang tên, chuyển nhượng đất đai](https://dantri.com.vn/phap-luat/tim-bi-hai-trong-vu-lua-nhan-lam-ho-thu-tuc-sang-ten-chuyen-nhuong-dat-dai-20260623113532943.htm) - 04:50 23/06/2026
-- 🌁 [Cựu Chủ tịch Công ty Nam Triệu hầu tòa](https://dantri.com.vn/phap-luat/cuu-chu-tich-cong-ty-nam-trieu-hau-toa-20260623104042449.htm) - 03:56 23/06/2026
-- 🧑‍💻 [Khởi tố 3 đối tượng thu mua, giết mổ lợn bệnh bán ra thị trường](https://dantri.com.vn/phap-luat/khoi-to-3-doi-tuong-thu-mua-giet-mo-lon-benh-ban-ra-thi-truong-20260623102627513.htm) - 03:50 23/06/2026
-- 🌮 [Đang chờ thi hành án tử hình, nhiều phạm nhân bất ngờ khai thêm tội](https://dantri.com.vn/phap-luat/dang-cho-thi-hanh-an-tu-hinh-nhieu-pham-nhan-bat-ngo-khai-them-toi-20260623092822822.htm) - 03:42 23/06/2026
-- 🤗 [Công an vào cuộc vụ cô gái bị hành hung trong cửa hàng làm đẹp](https://dantri.com.vn/phap-luat/cong-an-vao-cuoc-vu-co-gai-bi-hanh-hung-trong-cua-hang-lam-dep-20260623100642157.htm) - 03:39 23/06/2026
-- 👨‍🏫 [Thanh niên dụ người phụ nữ khuyết tật đến nghĩa trang hiếp dâm rồi sát hại](https://dantri.com.vn/phap-luat/thanh-nien-du-nguoi-phu-nu-khuyet-tat-den-nghia-trang-hiep-dam-roi-sat-hai-20260623092138177.htm) - 02:33 23/06/2026
-- 🎉 [Tài xế dán băng dính làm sai lệch biển số nhằm né camera AI](https://dantri.com.vn/phap-luat/tai-xe-dan-bang-dinh-lam-sai-lech-bien-so-nham-ne-camera-ai-20260623074559839.htm) - 00:57 23/06/2026
-- 🤗 [Công an tìm bị hại trong vụ án giả mạo “Đông y gia truyền Cụ Tòng”](https://dantri.com.vn/phap-luat/cong-an-tim-bi-hai-trong-vu-an-gia-mao-dong-y-gia-truyen-cu-tong-20260623074752682.htm) - 00:52 23/06/2026
-- 🤓 [Công an Hà Nội giải cứu nữ sinh bị dụ theo &quot;Hội thánh Đức Chúa Trời Mẹ”](https://dantri.com.vn/phap-luat/cong-an-ha-noi-giai-cuu-nu-sinh-bi-du-theo-hoi-thanh-duc-chua-troi-me-20260622191651912.htm) - 12:27 22/06/2026
-- 👹 [Em vợ lẻn vào nhà, đâm tử vong anh rể đang xem bóng đá](https://dantri.com.vn/phap-luat/em-vo-len-vao-nha-dam-tu-vong-anh-re-dang-xem-bong-da-20260622180604894.htm) - 11:54 22/06/2026
-- 🐘 [Phá đường dây cá độ bóng đá qua mạng, giao dịch hơn 2 tỷ đồng ở Tây Ninh](https://dantri.com.vn/phap-luat/pha-duong-day-ca-do-bong-da-qua-mang-giao-dich-hon-2-ty-dong-o-tay-ninh-20260622173151260.htm) - 10:43 22/06/2026
-- 🪄 [Xử phạt một người ở TPHCM bịa chuyện &quot;chồng bỏ vợ con theo tiểu tam&quot;](https://dantri.com.vn/phap-luat/xu-phat-mot-nguoi-o-tphcm-bia-chuyen-chong-bo-vo-con-theo-tieu-tam-20260622172232297.htm) - 10:31 22/06/2026
-- 💄 [Công an xác minh việc tài xế taxi bị khách đấm liên tục vào mặt](https://dantri.com.vn/phap-luat/cong-an-xac-minh-viec-tai-xe-taxi-bi-khach-dam-lien-tuc-vao-mat-20260622172159804.htm) - 10:29 22/06/2026
-- 🐎 [Hà Nội: Công an điều tra vụ hỗn chiến bằng hung khí trên phố Tân Mai](https://dantri.com.vn/phap-luat/ha-noi-cong-an-dieu-tra-vu-hon-chien-bang-hung-khi-tren-pho-tan-mai-20260622165715751.htm) - 10:01 22/06/2026
-- 💯 [Xử phạt người đăng tin sai về quy trình trồng, chăm sóc cây dứa](https://dantri.com.vn/phap-luat/xu-phat-nguoi-dang-tin-sai-ve-quy-trinh-trong-cham-soc-cay-dua-20260622151219689.htm) - 08:17 22/06/2026
-- 💯 [Cựu giám đốc ngân hàng dùng chiêu đáo hạn để lừa hơn 17 tỷ đồng](https://dantri.com.vn/phap-luat/cuu-giam-doc-ngan-hang-dung-chieu-dao-han-de-lua-hon-17-ty-dong-20260622142829937.htm) - 08:12 22/06/2026
-- 🌈 [Chủ ô tô nhận lại tài sản sau vài giờ báo mất](https://dantri.com.vn/phap-luat/chu-o-to-nhan-lai-tai-san-sau-vai-gio-bao-mat-20260622125131129.htm) - 06:41 22/06/2026
-- 🧠 [Tiền án chồng chất của 3 tử tù trong đường dây gần 1 tạ ma túy](https://dantri.com.vn/phap-luat/tien-an-chong-chat-cua-3-tu-tu-trong-duong-day-gan-1-ta-ma-tuy-20260622103724470.htm) - 06:37 22/06/2026
-- 🌈 [Người phụ nữ bị cướp giật dây chuyền, té cả người lẫn xe ở Tây Ninh](https://dantri.com.vn/phap-luat/nguoi-phu-nu-bi-cuop-giat-day-chuyen-te-ca-nguoi-lan-xe-o-tay-ninh-20260622113205175.htm) - 05:32 22/06/2026
-- 👍 [Xử lý các chủ tài khoản Facebook ở Ninh Bình phát tán thông tin xấu độc](https://dantri.com.vn/phap-luat/xu-ly-cac-chu-tai-khoan-facebook-o-ninh-binh-phat-tan-thong-tin-xau-doc-20260622115709537.htm) - 05:08 22/06/2026
-- 🎓 [Từ đơn tố giác của tử tù, phanh phui thêm 277 bánh heroin ở TPHCM](https://dantri.com.vn/phap-luat/tu-don-to-giac-cua-tu-tu-phanh-phui-them-277-banh-heroin-o-tphcm-20260621195342725.htm) - 04:51 22/06/2026<!-- dantri-phap-luat:END -->
+- 🌊 [Triệt phá đường dây mua bán tê tê liên tỉnh](https://dantri.com.vn/phap-luat/triet-pha-duong-day-mua-ban-te-te-lien-tinh-20260626111330134.htm) - 04:24 26/06/2026
+- 🐲 [Người đàn ông tử vong sau cú tát vì mâu thuẫn giao thông](https://dantri.com.vn/phap-luat/nguoi-dan-ong-tu-vong-sau-cu-tat-vi-mau-thuan-giao-thong-20260626104920215.htm) - 04:05 26/06/2026
+- 🌁 [Phiên tòa xét xử kẻ sát hại 3 người ở Tây Ninh](https://dantri.com.vn/phap-luat/phien-toa-xet-xu-ke-sat-hai-3-nguoi-o-tay-ninh-20260626105032452.htm) - 03:57 26/06/2026
+- 🎃 [Kẻ sát hại 3 người ở Tây Ninh lĩnh án tử hình](https://dantri.com.vn/phap-luat/ke-sat-hai-3-nguoi-o-tay-ninh-linh-an-tu-hinh-20260626102000867.htm) - 03:41 26/06/2026
+- 🦅 [Vụ chặn đầu ô tô thách &quot;biết bố tao là ai không&quot;: Do buồn chuyện vợ bỏ đi](https://dantri.com.vn/phap-luat/vu-chan-dau-o-to-thach-biet-bo-tao-la-ai-khong-do-buon-chuyen-vo-bo-di-20260626084849855.htm) - 03:00 26/06/2026
+- 🎭 [Gần 5 năm tranh chấp bản ghi “Giấc mơ trưa” giữa Giáng Son và BH Media](https://dantri.com.vn/phap-luat/gan-5-nam-tranh-chap-ban-ghi-giac-mo-trua-giua-giang-son-va-bh-media-20260626085743361.htm) - 02:12 26/06/2026
+- 🤗 [Hàng trăm người theo dõi phiên tòa xử vụ thảm án 3 người chết ở Tây Ninh](https://dantri.com.vn/phap-luat/hang-tram-nguoi-theo-doi-phien-toa-xu-vu-tham-an-3-nguoi-chet-o-tay-ninh-20260626084804228.htm) - 02:09 26/06/2026
+- 🚀 [Khởi tố đối tượng đứng tên thuê nhà cho nhóm lừa đảo người nước ngoài](https://dantri.com.vn/phap-luat/khoi-to-doi-tuong-dung-ten-thue-nha-cho-nhom-lua-dao-nguoi-nuoc-ngoai-20260626084915431.htm) - 02:01 26/06/2026
+- 👍 [Xử lý đối tượng xuất cảnh đi lao động ở nước ngoài bất hợp pháp](https://dantri.com.vn/phap-luat/xu-ly-doi-tuong-xuat-canh-di-lao-dong-o-nuoc-ngoai-bat-hop-phap-20260626080218474.htm) - 01:15 26/06/2026
+- 🧐 [Cho hàn the vào giò lợn, người đàn ông bị khởi tố](https://dantri.com.vn/phap-luat/cho-han-the-vao-gio-lon-nguoi-dan-ong-bi-khoi-to-20260626071838990.htm) - 01:11 26/06/2026
+- 🫶 [3 thiếu niên tham gia 5 vụ trộm xe máy](https://dantri.com.vn/phap-luat/3-thieu-nien-tham-gia-5-vu-trom-xe-may-20260625232947054.htm) - 00:14 26/06/2026
+- 🏊 [Người phụ nữ nói gì về việc bị xô ngã bất tỉnh giữa đường](https://dantri.com.vn/phap-luat/nguoi-phu-nu-noi-gi-ve-viec-bi-xo-nga-bat-tinh-giua-duong-20260625194224359.htm) - 23:00 25/06/2026
+- 🌋 [Tìm ra nhóm chặn ô tô, đập vỡ kính xe ở TPHCM](https://dantri.com.vn/phap-luat/tim-ra-nhom-chan-o-to-dap-vo-kinh-xe-o-tphcm-20260625215055874.htm) - 16:05 25/06/2026
+- 👹 [Gã đàn ông say rượu lái ô tô tông vào quán nhậu, thách thức công an](https://dantri.com.vn/phap-luat/ga-dan-ong-say-ruou-lai-o-to-tong-vao-quan-nhau-thach-thuc-cong-an-20260625210725232.htm) - 14:32 25/06/2026
+- 🫣 [Từ vụ bị chiếm tài khoản mất 5 tỷ đồng, lộ đường dây rửa tiền quy mô lớn](https://dantri.com.vn/phap-luat/tu-vu-bi-chiem-tai-khoan-mat-5-ty-dong-lo-duong-day-rua-tien-quy-mo-lon-20260625201355132.htm) - 13:51 25/06/2026
+- 🎃 [Cựu giám đốc công ty bảo hiểm ở Tây Ninh lĩnh 15 năm tù vì tham ô](https://dantri.com.vn/phap-luat/cuu-giam-doc-cong-ty-bao-hiem-o-tay-ninh-linh-15-nam-tu-vi-tham-o-20260625113839859.htm) - 13:11 25/06/2026
+- 🌝 [Khởi tố đôi nam nữ giả danh công an, lừa 3 tỷ đồng ở Tây Ninh](https://dantri.com.vn/phap-luat/khoi-to-doi-nam-nu-gia-danh-cong-an-lua-3-ty-dong-o-tay-ninh-20260625184042634.htm) - 12:40 25/06/2026
+- 🚀 [Người bị tố hành hung bà bầu ở Bắc Ninh ra công an trình diện](https://dantri.com.vn/phap-luat/nguoi-bi-to-hanh-hung-ba-bau-o-bac-ninh-ra-cong-an-trinh-dien-20260625190809816.htm) - 12:28 25/06/2026
+- 🥷 [Bộ Công an thông tin về đối tượng khủng bố Nguyễn Đình Thắng](https://dantri.com.vn/phap-luat/bo-cong-an-thong-tin-ve-doi-tuong-khung-bo-nguyen-dinh-thang-20260625181543120.htm) - 11:49 25/06/2026
+- 👺 [Khởi tố 12 bị can mua bán trái phép tài khoản ngân hàng](https://dantri.com.vn/phap-luat/khoi-to-12-bi-can-mua-ban-trai-phep-tai-khoan-ngan-hang-20260625175914077.htm) - 11:05 25/06/2026
+- 🪜 [Khởi tố Lê Thị Thủy về tội lợi dụng quyền tự do dân chủ](https://dantri.com.vn/phap-luat/khoi-to-le-thi-thuy-ve-toi-loi-dung-quyen-tu-do-dan-chu-20260625162541071.htm) - 09:49 25/06/2026
+- 🦄 [Vụ tung tin giả “tôm khô làm từ cao su non”: Mời làm việc một đối tượng](https://dantri.com.vn/phap-luat/vu-tung-tin-gia-tom-kho-lam-tu-cao-su-non-moi-lam-viec-mot-doi-tuong-20260625152942442.htm) - 09:07 25/06/2026
+- 🦍 [Nhờ &quot;chạy án&quot; cho chồng, người phụ nữ ở TPHCM bị lừa tiền tỷ](https://dantri.com.vn/phap-luat/nho-chay-an-cho-chong-nguoi-phu-nu-o-tphcm-bi-lua-tien-ty-20260625131229904.htm) - 07:56 25/06/2026
+- 🌁 [Chủ kênh YouTube ở TPHCM phát tán thông tin chống Nhà nước](https://dantri.com.vn/phap-luat/chu-kenh-youtube-o-tphcm-phat-tan-thong-tin-chong-nha-nuoc-20260625123807432.htm) - 07:25 25/06/2026
+- 💯 [Truy nã đồng phạm của Phan Công Khanh trong vụ bán siêu xe Brabus G800](https://dantri.com.vn/phap-luat/truy-na-dong-pham-cua-phan-cong-khanh-trong-vu-ban-sieu-xe-brabus-g800-20260624200037151.htm) - 07:19 25/06/2026
+- 🌜 [Lạng lách xe máy, chặn đầu ô tô rồi thách thức &quot;biết bố tao là ai không&quot;](https://dantri.com.vn/phap-luat/lang-lach-xe-may-chan-dau-o-to-roi-thach-thuc-biet-bo-tao-la-ai-khong-20260625134804926.htm) - 07:12 25/06/2026
+- 👹 [World Cup chưa qua vòng bảng đã lộ đường dây cá độ hơn 10 tỷ đồng](https://dantri.com.vn/phap-luat/world-cup-chua-qua-vong-bang-da-lo-duong-day-ca-do-hon-10-ty-dong-20260625132116675.htm) - 07:09 25/06/2026
+- 🪜 [Công an xác minh vụ nữ khách bị shipper hành hung ở đường Nguyễn Chí Thanh](https://dantri.com.vn/phap-luat/cong-an-xac-minh-vu-nu-khach-bi-shipper-hanh-hung-o-duong-nguyen-chi-thanh-20260625113146453.htm) - 04:37 25/06/2026
+- 🦩 [Truy bắt nghi phạm giết người ở TPHCM bỏ trốn qua Đồng Tháp](https://dantri.com.vn/phap-luat/truy-bat-nghi-pham-giet-nguoi-o-tphcm-bo-tron-qua-dong-thap-20260625112354106.htm) - 04:35 25/06/2026
+- 💂 [Tây Ninh khởi tố người đổ gần 600 tấn chất thải xi măng sợi ra môi trường](https://dantri.com.vn/phap-luat/tay-ninh-khoi-to-nguoi-do-gan-600-tan-chat-thai-xi-mang-soi-ra-moi-truong-20260625102401490.htm) - 03:38 25/06/2026
+- 💃 [Cảnh sát xét nghiệm ma túy đột xuất với hàng trăm tài xế, phụ xe](https://dantri.com.vn/phap-luat/canh-sat-xet-nghiem-ma-tuy-dot-xuat-voi-hang-tram-tai-xe-phu-xe-20260625095205237.htm) - 03:00 25/06/2026
+- 🧐 [Vụ nhiều ô tô ở Tây Hồ bị phá hoại: Tạm giữ khẩn cấp một đối tượng](https://dantri.com.vn/phap-luat/vu-nhieu-o-to-o-tay-ho-bi-pha-hoai-tam-giu-khan-cap-mot-doi-tuong-20260625091205054.htm) - 02:15 25/06/2026
+- 🤗 [Chi tiết những hành vi Bộ Công an đề xuất bổ sung vào Bộ luật Hình sự](https://dantri.com.vn/phap-luat/chi-tiet-nhung-hanh-vi-bo-cong-an-de-xuat-bo-sung-vao-bo-luat-hinh-su-20260624234044961.htm) - 01:35 25/06/2026
+- 🕴 [Khởi tố tên trộm xe máy ở Hà Nội](https://dantri.com.vn/phap-luat/khoi-to-ten-trom-xe-may-o-ha-noi-20260625073415301.htm) - 00:53 25/06/2026
+- 🐎 [Phát hiện 3 tàu gắn thiết bị hút cát trái phép trên sông Đồng Nai](https://dantri.com.vn/phap-luat/phat-hien-3-tau-gan-thiet-bi-hut-cat-trai-phep-tren-song-dong-nai-20260624225757381.htm) - 16:20 24/06/2026
+- 🪜 [Nhiều cô gái giúp người nước ngoài ở lại TPHCM hoạt động lừa đảo](https://dantri.com.vn/phap-luat/nhieu-co-gai-giup-nguoi-nuoc-ngoai-o-lai-tphcm-hoat-dong-lua-dao-20260624205520571.htm) - 14:26 24/06/2026
+- 🤭 [Tây Ninh có thêm Phó Giám đốc Công an tỉnh](https://dantri.com.vn/phap-luat/tay-ninh-co-them-pho-giam-doc-cong-an-tinh-20260624182806895.htm) - 12:32 24/06/2026
+- 🌏 [Bắt giữ 3 đối tượng trộm nhịp cầu đá cổ, thu hồi toàn bộ hiện vật](https://dantri.com.vn/phap-luat/bat-giu-3-doi-tuong-trom-nhip-cau-da-co-thu-hoi-toan-bo-hien-vat-20260624192119611.htm) - 12:26 24/06/2026
+- 🎃 [Phát hiện súng K54 trong tủ quần áo của cha, con gái mang nộp công an](https://dantri.com.vn/phap-luat/phat-hien-sung-k54-trong-tu-quan-ao-cua-cha-con-gai-mang-nop-cong-an-20260624171742843.htm) - 10:38 24/06/2026
+- 🗽 [Bắt kẻ đạp ngã xe ông lão 70 tuổi, cướp 101 tờ vé số và 40 triệu đồng](https://dantri.com.vn/phap-luat/bat-ke-dap-nga-xe-ong-lao-70-tuoi-cuop-101-to-ve-so-va-40-trieu-dong-20260624172207387.htm) - 10:36 24/06/2026
+- 🌁 [Gần 20 đối tượng lao vào hỗn chiến lúc rạng sáng](https://dantri.com.vn/phap-luat/gan-20-doi-tuong-lao-vao-hon-chien-luc-rang-sang-20260624165125521.htm) - 10:21 24/06/2026
+- 🧑‍💻 [Mua thẻ hội viên nhà báo giả, đi hù dọa để chiếm đoạt tài sản](https://dantri.com.vn/phap-luat/mua-the-hoi-vien-nha-bao-gia-di-hu-doa-de-chiem-doat-tai-san-20260624165021317.htm) - 09:52 24/06/2026
+- 🌮 [Người đàn ông bị “kiều nữ” lừa góp 700 triệu đồng đầu tư công ty mỹ phẩm](https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-kieu-nu-lua-gop-700-trieu-dong-dau-tu-cong-ty-my-pham-20260624154929652.htm) - 09:32 24/06/2026
+- 🤗 [Bắt tạm giam nguyên kiểm sát viên VKSND Hà Nội](https://dantri.com.vn/phap-luat/bat-tam-giam-nguyen-kiem-sat-vien-vksnd-ha-noi-20260624160526321.htm) - 09:11 24/06/2026
+- 👨‍🏫 [Truy tìm người đàn ông cho vay lãi nặng ở TPHCM](https://dantri.com.vn/phap-luat/truy-tim-nguoi-dan-ong-cho-vay-lai-nang-o-tphcm-20260624155709313.htm) - 09:08 24/06/2026
+- 🎉 [Xét nghiệm diện rộng 68 dãy trọ, phát hiện nhiều người dương tính ma túy](https://dantri.com.vn/phap-luat/xet-nghiem-dien-rong-68-day-tro-phat-hien-nhieu-nguoi-duong-tinh-ma-tuy-20260624153504797.htm) - 08:52 24/06/2026
+- 🤗 [Khởi tố tài xế xe khách gây tai nạn làm 2 người tử vong](https://dantri.com.vn/phap-luat/khoi-to-tai-xe-xe-khach-gay-tai-nan-lam-2-nguoi-tu-vong-20260624133420159.htm) - 07:24 24/06/2026
+- 🤓 [Giảm án cho cựu cán bộ Đoàn ở TPHCM làm khống hồ sơ sinh viên](https://dantri.com.vn/phap-luat/giam-an-cho-cuu-can-bo-doan-o-tphcm-lam-khong-ho-so-sinh-vien-20260624125034054.htm) - 07:17 24/06/2026
+- 👹 [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://dantri.com.vn/phap-luat/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-20260624121044963.htm) - 05:18 24/06/2026
+- 🐘 [&quot;Trùm buôn siêu xe&quot; Phan Công Khanh bị truy tố tội danh nhẹ hơn](https://dantri.com.vn/phap-luat/trum-buon-sieu-xe-phan-cong-khanh-bi-truy-to-toi-danh-nhe-hon-20260624115747444.htm) - 05:07 24/06/2026
+- 🪄 [Truy tố người phụ nữ phá hoại chiếc Mercedes GLC200 ở Hà Nội](https://dantri.com.vn/phap-luat/truy-to-nguoi-phu-nu-pha-hoai-chiec-mercedes-glc200-o-ha-noi-20260624115557906.htm) - 04:59 24/06/2026
+- 💄 [Xử lý hơn 100 người bình luận xuyên tạc trên trang của Lê Trung Khoa](https://dantri.com.vn/phap-luat/xu-ly-hon-100-nguoi-binh-luan-xuyen-tac-tren-trang-cua-le-trung-khoa-20260624110004040.htm) - 04:43 24/06/2026
+- 🐎 [Khống chế người đàn ông cầm dao phay đe dọa người đi đường ở Tây Hồ](https://dantri.com.vn/phap-luat/khong-che-nguoi-dan-ong-cam-dao-phay-de-doa-nguoi-di-duong-o-tay-ho-20260624112711583.htm) - 04:37 24/06/2026
+- 💯 [Cảnh sát lật tẩy đường đi của ma túy đến nhiều tỉnh, thành](https://dantri.com.vn/phap-luat/canh-sat-lat-tay-duong-di-cua-ma-tuy-den-nhieu-tinh-thanh-20260624110216900.htm) - 04:34 24/06/2026
+- 💯 [Bắt giữ 2 đối tượng vụ hỗn chiến ở phố Tân Mai](https://dantri.com.vn/phap-luat/bat-giu-2-doi-tuong-vu-hon-chien-o-pho-tan-mai-20260624112257293.htm) - 04:27 24/06/2026
+- 🌈 [Người đàn ông bị phạt 6,25 triệu đồng vì dùng bạo lực với vợ](https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-phat-625-trieu-dong-vi-dung-bao-luc-voi-vo-20260624102653505.htm) - 03:50 24/06/2026
+- 🧠 [Góp tiền mua ma túy để cùng sử dụng, 2 cậu cháu bị khởi tố](https://dantri.com.vn/phap-luat/gop-tien-mua-ma-tuy-de-cung-su-dung-2-cau-chau-bi-khoi-to-20260624103957126.htm) - 03:48 24/06/2026
+- 🌈 [Mua thận gần 1 tỷ, người bán nhận 500 triệu đồng](https://dantri.com.vn/phap-luat/mua-than-gan-1-ty-nguoi-ban-nhan-500-trieu-dong-20260624090159115.htm) - 02:45 24/06/2026
+- 👍 [Bốn phiến đá cầu cổ hơn 100 năm tuổi bị lấy trộm, bán phế liệu](https://dantri.com.vn/phap-luat/bon-phien-da-cau-co-hon-100-nam-tuoi-bi-lay-trom-ban-phe-lieu-20260624090929481.htm) - 02:14 24/06/2026
+- 🎓 [Đột nhập nhà dân trộm hơn 2 cây vàng, gã đàn ông 3 tiền án sa lưới](https://dantri.com.vn/phap-luat/dot-nhap-nha-dan-trom-hon-2-cay-vang-ga-dan-ong-3-tien-an-sa-luoi-20260624084020984.htm) - 01:45 24/06/2026<!-- dantri-phap-luat:END -->
