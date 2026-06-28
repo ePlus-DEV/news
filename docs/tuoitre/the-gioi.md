@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- tuoitre-the-gioi:START -->
-- 💪 [Nhật Bản dùng nữ cảnh sát AI để chống nạn lừa đảo mạo danh](https://tuoitre.vn/nhat-ban-dung-nu-canh-sat-ai-de-chong-nan-lua-dao-mao-danh-100260628171610923.htm) - 17:42 28/06/2026
-- 📝 [Iran tuyên bố sẽ độc lập kiểm soát eo biển Hormuz trong 30 ngày tới](https://tuoitre.vn/iran-tuyen-bo-se-doc-lap-kiem-soat-eo-bien-hormuz-trong-30-ngay-toi-100260628164811041.htm) - 17:07 28/06/2026
-- 🕴 [Hàn Quốc tính hạ độ tuổi chịu trách nhiệm hình sự xuống 13 với tội nghiêm trọng](https://tuoitre.vn/han-quoc-tinh-ha-do-tuoi-chiu-trach-nhiem-hinh-su-xuong-13-voi-toi-nghiem-trong-100260628150110871.htm) - 15:19 28/06/2026
-- 🌏 [Bộ đội Việt Nam lên đường giúp Venezuela khắc phục hậu quả động đất](https://tuoitre.vn/bo-doi-viet-nam-len-duong-giup-venezuela-khac-phuc-hau-qua-dong-dat-100260628144649829.htm) - 14:44 28/06/2026
+- 💪 [Số người chết ở Pháp tăng hơn 1.000 trong đợt nắng nóng](https://tuoitre.vn/so-nguoi-chet-o-phap-tang-hon-1000-trong-dot-nang-nong-100260628211750857.htm) - 21:29 28/06/2026
+- 📝 [Chàng trai Pháp đạp xe 19.000km đến Việt Nam, quyết chinh phục những cung đường đèo](https://tuoitre.vn/chang-trai-phap-dap-xe-19000km-den-viet-nam-quyet-chinh-phuc-nhung-cung-duong-deo-100260628210130069.htm) - 21:23 28/06/2026
+- 🕴 [Liên tiếp hai vụ tai nạn hàng không ở Pháp và Saudi Arabia, 25 người thiệt mạng](https://tuoitre.vn/lien-tiep-hai-vu-tai-nan-hang-khong-o-phap-va-saudi-arabia-25-nguoi-thiet-mang-100260628203709706.htm) - 20:15 28/06/2026
+- 🌏 [Nhật Bản dùng nữ cảnh sát AI để chống nạn lừa đảo mạo danh](https://tuoitre.vn/nhat-ban-dung-nu-canh-sat-ai-de-chong-nan-lua-dao-mao-danh-100260628171610923.htm) - 17:42 28/06/2026
+- 🚦 [Iran tuyên bố sẽ độc lập kiểm soát eo biển Hormuz trong 30 ngày tới](https://tuoitre.vn/iran-tuyen-bo-se-doc-lap-kiem-soat-eo-bien-hormuz-trong-30-ngay-toi-100260628164811041.htm) - 17:07 28/06/2026
+- 🙉 [Hàn Quốc tính hạ độ tuổi chịu trách nhiệm hình sự xuống 13 với tội nghiêm trọng](https://tuoitre.vn/han-quoc-tinh-ha-do-tuoi-chiu-trach-nhiem-hinh-su-xuong-13-voi-toi-nghiem-trong-100260628150110871.htm) - 15:19 28/06/2026
+- 🦒 [Bộ đội Việt Nam lên đường giúp Venezuela khắc phục hậu quả động đất](https://tuoitre.vn/bo-doi-viet-nam-len-duong-giup-venezuela-khac-phuc-hau-qua-dong-dat-100260628144649829.htm) - 14:44 28/06/2026
 - 🚦 [Cậu bé 7 tuổi qua đời vì béo phì, nặng hơn 115kg](https://tuoitre.vn/cau-be-7-tuoi-qua-doi-vi-beo-phi-nang-hon-115kg-100260628132453816.htm) - 13:53 28/06/2026
-- 🙉 [Ông Trump chọn cựu lính thủy quân lục chiến làm người đứng đầu ICE](https://tuoitre.vn/ong-trump-chon-cuu-linh-thuy-quan-luc-chien-lam-nguoi-dung-dau-ice-100260628124122419.htm) - 13:21 28/06/2026
-- 🦒 [Bahrain lên án Iran, yêu cầu Hội đồng Bảo an họp khẩn](https://tuoitre.vn/bahrain-len-an-iran-yeu-cau-hoi-dong-bao-an-hop-khan-100260628121405135.htm) - 13:05 28/06/2026
-- 🚦 [Dự kiến ngày mai bộ đội Việt Nam lên đường tham gia khắc phục hậu quả động đất tại Venezuela](https://tuoitre.vn/du-kien-ngay-mai-bo-doi-viet-nam-len-duong-tham-gia-khac-phuc-hau-qua-dong-dat-tai-venezuela-100260624122145627.htm) - 12:18 28/06/2026
-- 🧑‍🏫 [Vì sao châu Âu &#39;thất thủ&#39; trước nắng nóng kỷ lục?](https://tuoitre.vn/vi-sao-chau-au-that-thu-truoc-nang-nong-ky-luc-100260628112100116.htm) - 12:00 28/06/2026
-- 🧑‍🏫 [EU thúc đẩy kế hoạch mở rộng khối](https://tuoitre.vn/eu-thuc-day-ke-hoach-mo-rong-khoi-100260628113312268.htm) - 11:54 28/06/2026
-- 🦣 [Động đất tại Venezuela: Số người chết hơn 1.400, còn 50.000 người mất tích](https://tuoitre.vn/dong-dat-tai-venezuela-so-nguoi-chet-hon-1400-con-50000-nguoi-mat-tich-100260628092044993.htm) - 09:53 28/06/2026
-- 🐲 [Mỹ - Iran ngừng bắn chỉ trên giấy](https://tuoitre.vn/my-iran-ngung-ban-chi-tren-giay-100260628001502241.htm) - 09:04 28/06/2026
-- 🐲 [Iran phóng tên lửa vào Kuwait, Bahrain sau khi bị Mỹ không kích](https://tuoitre.vn/iran-phong-ten-lua-vao-kuwait-bahrain-sau-khi-bi-my-khong-kich-100260628075650424.htm) - 07:48 28/06/2026
-- 🌝 [Tin tức thế giới 28-6: Mỹ tấn công thêm nhiều cơ sở ở Iran; Ông Trump cảnh cáo &#39;xóa sổ Iran&#39;](https://tuoitre.vn/tin-tuc-the-gioi-28-6-my-tan-cong-them-nhieu-co-so-o-iran-ong-trump-canh-cao-xoa-so-iran-100260628063427292.htm) - 06:41 28/06/2026
-- 🏊 [Mỹ truy tố 4 người lái drone trái phép tại FIFA World Cup](https://tuoitre.vn/my-truy-to-4-nguoi-lai-drone-trai-phep-tai-fifa-world-cup-100260628011718388.htm) - 01:48 28/06/2026
-- 🎉 [Người Trung Quốc đổ xô sang mua nhà, giá nhà ở Hong Kong tăng tháng thứ 12 liên tiếp](https://tuoitre.vn/nguoi-trung-quoc-do-xo-sang-mua-nha-gia-nha-o-hong-kong-tang-thang-thu-12-lien-tiep-100260628003006007.htm) - 00:40 28/06/2026
-- 🙉 [Bé sơ sinh được đưa ra khỏi đống đổ nát ở Venezuela sau 32 giờ mắc kẹt](https://tuoitre.vn/be-so-sinh-duoc-dua-ra-khoi-dong-do-nat-o-venezuela-sau-32-gio-mac-ket-100260627230701344.htm) - 23:25 27/06/2026
-- 🙉 [Động đất mạnh rung chuyển Afghanistan và Pakistan, người dân khóc hoảng loạn](https://tuoitre.vn/dong-dat-manh-rung-chuyen-afghanistan-va-pakistan-nguoi-dan-khoc-hoang-loan-100260627223314128.htm) - 23:18 27/06/2026
-- 🤭 [Nhiều người Venezuela biết trước động đất nhờ cảnh báo của Google](https://tuoitre.vn/nhieu-nguoi-venezuela-biet-truoc-dong-dat-nho-canh-bao-cua-google-10026062713171002.htm) - 22:13 27/06/2026
+- 🧑‍🏫 [Ông Trump chọn cựu lính thủy quân lục chiến làm người đứng đầu ICE](https://tuoitre.vn/ong-trump-chon-cuu-linh-thuy-quan-luc-chien-lam-nguoi-dung-dau-ice-100260628124122419.htm) - 13:21 28/06/2026
+- 🧑‍🏫 [Bahrain lên án Iran, yêu cầu Hội đồng Bảo an họp khẩn](https://tuoitre.vn/bahrain-len-an-iran-yeu-cau-hoi-dong-bao-an-hop-khan-100260628121405135.htm) - 13:05 28/06/2026
+- 🦣 [Dự kiến ngày mai bộ đội Việt Nam lên đường tham gia khắc phục hậu quả động đất tại Venezuela](https://tuoitre.vn/du-kien-ngay-mai-bo-doi-viet-nam-len-duong-tham-gia-khac-phuc-hau-qua-dong-dat-tai-venezuela-100260624122145627.htm) - 12:18 28/06/2026
+- 🐲 [Vì sao châu Âu &#39;thất thủ&#39; trước nắng nóng kỷ lục?](https://tuoitre.vn/vi-sao-chau-au-that-thu-truoc-nang-nong-ky-luc-100260628112100116.htm) - 12:00 28/06/2026
+- 🐲 [EU thúc đẩy kế hoạch mở rộng khối](https://tuoitre.vn/eu-thuc-day-ke-hoach-mo-rong-khoi-100260628113312268.htm) - 11:54 28/06/2026
+- 🌝 [Động đất tại Venezuela: Số người chết hơn 1.400, còn 50.000 người mất tích](https://tuoitre.vn/dong-dat-tai-venezuela-so-nguoi-chet-hon-1400-con-50000-nguoi-mat-tich-100260628092044993.htm) - 09:53 28/06/2026
+- 🏊 [Mỹ - Iran ngừng bắn chỉ trên giấy](https://tuoitre.vn/my-iran-ngung-ban-chi-tren-giay-100260628001502241.htm) - 09:04 28/06/2026
+- 🎉 [Iran phóng tên lửa vào Kuwait, Bahrain sau khi bị Mỹ không kích](https://tuoitre.vn/iran-phong-ten-lua-vao-kuwait-bahrain-sau-khi-bi-my-khong-kich-100260628075650424.htm) - 07:48 28/06/2026
+- 🙉 [Tin tức thế giới 28-6: Mỹ tấn công thêm nhiều cơ sở ở Iran; Ông Trump cảnh cáo &#39;xóa sổ Iran&#39;](https://tuoitre.vn/tin-tuc-the-gioi-28-6-my-tan-cong-them-nhieu-co-so-o-iran-ong-trump-canh-cao-xoa-so-iran-100260628063427292.htm) - 06:41 28/06/2026
+- 🙉 [Mỹ truy tố 4 người lái drone trái phép tại FIFA World Cup](https://tuoitre.vn/my-truy-to-4-nguoi-lai-drone-trai-phep-tai-fifa-world-cup-100260628011718388.htm) - 01:48 28/06/2026
+- 🤭 [Người Trung Quốc đổ xô sang mua nhà, giá nhà ở Hong Kong tăng tháng thứ 12 liên tiếp](https://tuoitre.vn/nguoi-trung-quoc-do-xo-sang-mua-nha-gia-nha-o-hong-kong-tang-thang-thu-12-lien-tiep-100260628003006007.htm) - 00:40 28/06/2026
+- 😎 [Bé sơ sinh được đưa ra khỏi đống đổ nát ở Venezuela sau 32 giờ mắc kẹt](https://tuoitre.vn/be-so-sinh-duoc-dua-ra-khoi-dong-do-nat-o-venezuela-sau-32-gio-mac-ket-100260627230701344.htm) - 23:25 27/06/2026
+- ⚗️ [Động đất mạnh rung chuyển Afghanistan và Pakistan, người dân khóc hoảng loạn](https://tuoitre.vn/dong-dat-manh-rung-chuyen-afghanistan-va-pakistan-nguoi-dan-khoc-hoang-loan-100260627223314128.htm) - 23:18 27/06/2026
+- 🔥 [Nhiều người Venezuela biết trước động đất nhờ cảnh báo của Google](https://tuoitre.vn/nhieu-nguoi-venezuela-biet-truoc-dong-dat-nho-canh-bao-cua-google-10026062713171002.htm) - 22:13 27/06/2026
 - 😎 [Máy bay đâm vào tòa nhà cao nhất Bắc Kinh: Phi công đã thiệt mạng](https://tuoitre.vn/may-bay-dam-vao-toa-nha-cao-nhat-bac-kinh-phi-cong-da-thiet-mang-100260627191811551.htm) - 20:51 27/06/2026
-- ⚗️ [&#39;Giai điệu hữu nghị&#39; gắn kết cộng đồng quốc tế tại TP.HCM](https://tuoitre.vn/giai-dieu-huu-nghi-gan-ket-cong-dong-quoc-te-tai-tphcm-100260627161828612.htm) - 17:25 27/06/2026
-- 🔥 [Đe dọa áp thuế 100% của ông Trump bị châu Âu xem như &#39;lời nói gió bay&#39;](https://tuoitre.vn/de-doa-ap-thue-100-cua-ong-trump-bi-chau-au-xem-nhu-loi-noi-gio-bay-100260627161448795.htm) - 16:29 27/06/2026
-- 😎 [Thanh niên Đức không thích đi lính, chính phủ sẽ phải khôi phục nghĩa vụ quân sự bắt buộc](https://tuoitre.vn/thanh-nien-duc-khong-thich-di-linh-chinh-phu-se-phai-khoi-phuc-nghia-vu-quan-su-bat-buoc-100260627160447694.htm) - 16:21 27/06/2026
-- 🤭 [Iran lên án Mỹ vi phạm thỏa thuận, Mỹ công bố video tập kích](https://tuoitre.vn/iran-len-an-my-vi-pham-thoa-thuan-my-cong-bo-video-tap-kich-10026062715565704.htm) - 16:16 27/06/2026
-- 😎 [Ba tháng đánh nhau với Mỹ, Iran thiệt hại bằng 8 năm đối đầu Iraq](https://tuoitre.vn/ba-thang-danh-nhau-voi-my-iran-thiet-hai-bang-8-nam-doi-dau-iraq-100260627134701839.htm) - 15:34 27/06/2026
-- 🧑‍💻 [Mỹ bất ngờ cho Anthropic mở lại AI Mythos 5 sau hai tuần đình chỉ](https://tuoitre.vn/my-bat-ngo-cho-anthropic-mo-lai-ai-mythos-5-sau-hai-tuan-dinh-chi-100260627142639178.htm) - 15:05 27/06/2026
-- 🌏 [Mỹ tính chuyển căn cứ quân sự sang Israel để tránh tầm tên lửa Iran](https://tuoitre.vn/my-tinh-chuyen-can-cu-quan-su-sang-israel-de-tranh-tam-ten-lua-iran-100260627142929714.htm) - 14:51 27/06/2026
-- 🐎 [Máy bay chiến đấu Hàn Quốc xuất kích khi phát hiện máy bay Trung Quốc, Nga vào KADIZ](https://tuoitre.vn/may-bay-chien-dau-han-quoc-xuat-kich-khi-phat-hien-may-bay-trung-quoc-nga-vao-kadiz-100260627132203002.htm) - 14:44 27/06/2026
-- 🐎 [Hàng loạt tướng lĩnh, quan chức cấp cao Trung Quốc mất ghế ở Quốc hội](https://tuoitre.vn/hang-loat-tuong-linh-quan-chuc-cap-cao-trung-quoc-mat-ghe-o-quoc-hoi-100260627120837639.htm) - 12:16 27/06/2026
-- 🎬 [Cựu cố vấn an ninh quốc gia Mỹ nhận tội xử lý sai tài liệu mật, nộp phạt hơn 2 triệu USD](https://tuoitre.vn/cuu-co-van-an-ninh-quoc-gia-my-nhan-toi-xu-ly-sai-tai-lieu-mat-nop-phat-hon-2-trieu-usd-10026062710525259.htm) - 12:11 27/06/2026
-- 💼 [Xe buýt ở Trung Quốc giảm khách do &#39;đối thủ&#39; quá mạnh](https://tuoitre.vn/xe-buyt-o-trung-quoc-giam-khach-do-doi-thu-qua-manh-100260627052658466.htm) - 11:05 27/06/2026
-- ⛽️ [Vì sao Mỹ dốc sức cứu trợ Venezuela sau động đất?](https://tuoitre.vn/vi-sao-my-doc-suc-cuu-tro-venezuela-sau-dong-dat-100260627101435719.htm) - 10:44 27/06/2026
-- 💡 [Venezuela lại rung chuyển vì động đất, hơn 50.000 người vẫn mất tích](https://tuoitre.vn/venezuela-lai-rung-chuyen-vi-dong-dat-hon-50000-nguoi-van-mat-tich-100260627101142904.htm) - 10:21 27/06/2026
-- 🥰 [Mỹ hé lộ mẫu &#39;hộ chiếu yêu nước&#39; in hình ông Trump](https://tuoitre.vn/my-he-lo-mau-ho-chieu-yeu-nuoc-in-hinh-ong-trump-100260627090556426.htm) - 09:57 27/06/2026
-- 🧑‍💻 [Chạy đua tìm mạng sống ở Venezuela](https://tuoitre.vn/chay-dua-tim-mang-song-o-venezuela-100260627081144326.htm) - 09:46 27/06/2026
-- 🧠 [Bị Israel và Lebanon đòi giải giáp, Hezbollah cảnh báo &#39;nội chiến&#39;](https://tuoitre.vn/bi-israel-va-lebanon-doi-giai-giap-hezbollah-canh-bao-noi-chien-100260627090017271.htm) - 09:16 27/06/2026
-- 🤩 [Tin tức thế giới 27-6: Số người chết ở Venezuela lên gần 1.000; Mỹ nâng mức đối phó Ebola lên cao nhất](https://tuoitre.vn/tin-tuc-the-gioi-27-6-so-nguoi-chet-o-venezuela-len-gan-1000-my-nang-muc-doi-pho-ebola-len-cao-nhat-100260627074449646.htm) - 07:51 27/06/2026
-- 🤗 [NÓNG: Mỹ - Iran lại tấn công nhau, nguy cơ thỏa thuận vỡ](https://tuoitre.vn/nong-my-iran-lai-tan-cong-nhau-nguy-co-thoa-thuan-vo-100260627055430566.htm) - 06:23 27/06/2026
-- 🐲 [Hơn 1.000 nhân viên cứu hộ khắp thế giới khẩn trương đến Venezuela tham gia cứu người](https://tuoitre.vn/hon-1000-nhan-vien-cuu-ho-khap-the-gioi-khan-truong-den-venezuela-tham-gia-cuu-nguoi-100260626233342162.htm) - 23:52 26/06/2026
-- 🌮 [Quyền Bộ trưởng Hải quân Mỹ Hùng Cao chia sẻ cảm nghĩ sau chuyến đi Việt Nam](https://tuoitre.vn/quyen-bo-truong-hai-quan-my-hung-cao-chia-se-cam-nghi-sau-chuyen-di-viet-nam-100260626222243151.htm) - 23:00 26/06/2026
-- 🎃 [Lộ diện đối thủ lớn nhất của ông Netanyahu trước thềm bầu cử](https://tuoitre.vn/lo-dien-doi-thu-lon-nhat-cua-ong-netanyahu-truoc-them-bau-cu-100260626201949866.htm) - 21:55 26/06/2026
-- 🎊 [Máy bay cỡ nhỏ đâm vào tòa tháp cao nhất thủ đô Trung Quốc](https://tuoitre.vn/may-bay-co-nho-dam-vao-toa-thap-cao-nhat-thu-do-trung-quoc-100260626205851583.htm) - 21:20 26/06/2026
-- 🚀 [Bới gạch đá tìm con ở Venezuela](https://tuoitre.vn/boi-gach-da-tim-con-o-venezuela-100260626191203382.htm) - 20:38 26/06/2026
-- 🧐 [Chính quyền ông Trump có thật sự thống nhất trong cách giải quyết vấn đề Iran?](https://tuoitre.vn/chinh-quyen-ong-trump-co-that-su-thong-nhat-trong-cach-giai-quyet-van-de-iran-100260626191142339.htm) - 20:31 26/06/2026
-- 🕯 [Crimea tuyên bố tình trạng khẩn cấp vì các cuộc tấn công của Ukraine](https://tuoitre.vn/crimea-tuyen-bo-tinh-trang-khan-cap-vi-cac-cuoc-tan-cong-cua-ukraine-100260626194450996.htm) - 20:24 26/06/2026
-- 💂 [Myanmar thiêu hủy hơn 50 tấn ma túy bất hợp pháp](https://tuoitre.vn/myanmar-thieu-huy-hon-50-tan-ma-tuy-bat-hop-phap-100260626193630632.htm) - 20:12 26/06/2026
-- 🦒 [Thành phố sa mạc ở Trung Quốc hứng trận mưa kỷ lục](https://tuoitre.vn/thanh-pho-sa-mac-o-trung-quoc-hung-tran-mua-ky-luc-100260626185601689.htm) - 19:40 26/06/2026
-- 🔭 [Lần đầu tiên, điện từ động cơ chạy 100% hydro hòa vào lưới điện](https://tuoitre.vn/lan-dau-tien-dien-tu-dong-co-chay-100-hydro-hoa-vao-luoi-dien-100260626160700134.htm) - 17:17 26/06/2026
-- 👨‍🏫 [Liên hợp quốc: Nguồn cung heroin giảm, sản lượng ma túy toàn cầu vẫn tăng](https://tuoitre.vn/lien-hop-quoc-nguon-cung-heroin-giam-san-luong-ma-tuy-toan-cau-van-tang-100260626163903738.htm) - 17:15 26/06/2026
-- 🦆 [Cựu Đệ nhất phu nhân Hàn Quốc nhận thêm 7 năm tù](https://tuoitre.vn/cuu-de-nhat-phu-nhan-han-quoc-nhan-them-7-nam-tu-100260626152444945.htm) - 16:27 26/06/2026<!-- tuoitre-the-gioi:END -->
+- 🤭 [&#39;Giai điệu hữu nghị&#39; gắn kết cộng đồng quốc tế tại TP.HCM](https://tuoitre.vn/giai-dieu-huu-nghi-gan-ket-cong-dong-quoc-te-tai-tphcm-100260627161828612.htm) - 17:25 27/06/2026
+- 😎 [Đe dọa áp thuế 100% của ông Trump bị châu Âu xem như &#39;lời nói gió bay&#39;](https://tuoitre.vn/de-doa-ap-thue-100-cua-ong-trump-bi-chau-au-xem-nhu-loi-noi-gio-bay-100260627161448795.htm) - 16:29 27/06/2026
+- 🧑‍💻 [Thanh niên Đức không thích đi lính, chính phủ sẽ phải khôi phục nghĩa vụ quân sự bắt buộc](https://tuoitre.vn/thanh-nien-duc-khong-thich-di-linh-chinh-phu-se-phai-khoi-phuc-nghia-vu-quan-su-bat-buoc-100260627160447694.htm) - 16:21 27/06/2026
+- 🌏 [Iran lên án Mỹ vi phạm thỏa thuận, Mỹ công bố video tập kích](https://tuoitre.vn/iran-len-an-my-vi-pham-thoa-thuan-my-cong-bo-video-tap-kich-10026062715565704.htm) - 16:16 27/06/2026
+- 🐎 [Ba tháng đánh nhau với Mỹ, Iran thiệt hại bằng 8 năm đối đầu Iraq](https://tuoitre.vn/ba-thang-danh-nhau-voi-my-iran-thiet-hai-bang-8-nam-doi-dau-iraq-100260627134701839.htm) - 15:34 27/06/2026
+- 🐎 [Mỹ bất ngờ cho Anthropic mở lại AI Mythos 5 sau hai tuần đình chỉ](https://tuoitre.vn/my-bat-ngo-cho-anthropic-mo-lai-ai-mythos-5-sau-hai-tuan-dinh-chi-100260627142639178.htm) - 15:05 27/06/2026
+- 🎬 [Mỹ tính chuyển căn cứ quân sự sang Israel để tránh tầm tên lửa Iran](https://tuoitre.vn/my-tinh-chuyen-can-cu-quan-su-sang-israel-de-tranh-tam-ten-lua-iran-100260627142929714.htm) - 14:51 27/06/2026
+- 💼 [Máy bay chiến đấu Hàn Quốc xuất kích khi phát hiện máy bay Trung Quốc, Nga vào KADIZ](https://tuoitre.vn/may-bay-chien-dau-han-quoc-xuat-kich-khi-phat-hien-may-bay-trung-quoc-nga-vao-kadiz-100260627132203002.htm) - 14:44 27/06/2026
+- ⛽️ [Hàng loạt tướng lĩnh, quan chức cấp cao Trung Quốc mất ghế ở Quốc hội](https://tuoitre.vn/hang-loat-tuong-linh-quan-chuc-cap-cao-trung-quoc-mat-ghe-o-quoc-hoi-100260627120837639.htm) - 12:16 27/06/2026
+- 💡 [Cựu cố vấn an ninh quốc gia Mỹ nhận tội xử lý sai tài liệu mật, nộp phạt hơn 2 triệu USD](https://tuoitre.vn/cuu-co-van-an-ninh-quoc-gia-my-nhan-toi-xu-ly-sai-tai-lieu-mat-nop-phat-hon-2-trieu-usd-10026062710525259.htm) - 12:11 27/06/2026
+- 🥰 [Xe buýt ở Trung Quốc giảm khách do &#39;đối thủ&#39; quá mạnh](https://tuoitre.vn/xe-buyt-o-trung-quoc-giam-khach-do-doi-thu-qua-manh-100260627052658466.htm) - 11:05 27/06/2026
+- 🧑‍💻 [Vì sao Mỹ dốc sức cứu trợ Venezuela sau động đất?](https://tuoitre.vn/vi-sao-my-doc-suc-cuu-tro-venezuela-sau-dong-dat-100260627101435719.htm) - 10:44 27/06/2026
+- 🧠 [Venezuela lại rung chuyển vì động đất, hơn 50.000 người vẫn mất tích](https://tuoitre.vn/venezuela-lai-rung-chuyen-vi-dong-dat-hon-50000-nguoi-van-mat-tich-100260627101142904.htm) - 10:21 27/06/2026
+- 🤩 [Mỹ hé lộ mẫu &#39;hộ chiếu yêu nước&#39; in hình ông Trump](https://tuoitre.vn/my-he-lo-mau-ho-chieu-yeu-nuoc-in-hinh-ong-trump-100260627090556426.htm) - 09:57 27/06/2026
+- 🤗 [Chạy đua tìm mạng sống ở Venezuela](https://tuoitre.vn/chay-dua-tim-mang-song-o-venezuela-100260627081144326.htm) - 09:46 27/06/2026
+- 🐲 [Bị Israel và Lebanon đòi giải giáp, Hezbollah cảnh báo &#39;nội chiến&#39;](https://tuoitre.vn/bi-israel-va-lebanon-doi-giai-giap-hezbollah-canh-bao-noi-chien-100260627090017271.htm) - 09:16 27/06/2026
+- 🌮 [Tin tức thế giới 27-6: Số người chết ở Venezuela lên gần 1.000; Mỹ nâng mức đối phó Ebola lên cao nhất](https://tuoitre.vn/tin-tuc-the-gioi-27-6-so-nguoi-chet-o-venezuela-len-gan-1000-my-nang-muc-doi-pho-ebola-len-cao-nhat-100260627074449646.htm) - 07:51 27/06/2026
+- 🎃 [NÓNG: Mỹ - Iran lại tấn công nhau, nguy cơ thỏa thuận vỡ](https://tuoitre.vn/nong-my-iran-lai-tan-cong-nhau-nguy-co-thoa-thuan-vo-100260627055430566.htm) - 06:23 27/06/2026
+- 🎊 [Hơn 1.000 nhân viên cứu hộ khắp thế giới khẩn trương đến Venezuela tham gia cứu người](https://tuoitre.vn/hon-1000-nhan-vien-cuu-ho-khap-the-gioi-khan-truong-den-venezuela-tham-gia-cuu-nguoi-100260626233342162.htm) - 23:52 26/06/2026
+- 🚀 [Quyền Bộ trưởng Hải quân Mỹ Hùng Cao chia sẻ cảm nghĩ sau chuyến đi Việt Nam](https://tuoitre.vn/quyen-bo-truong-hai-quan-my-hung-cao-chia-se-cam-nghi-sau-chuyen-di-viet-nam-100260626222243151.htm) - 23:00 26/06/2026
+- 🧐 [Lộ diện đối thủ lớn nhất của ông Netanyahu trước thềm bầu cử](https://tuoitre.vn/lo-dien-doi-thu-lon-nhat-cua-ong-netanyahu-truoc-them-bau-cu-100260626201949866.htm) - 21:55 26/06/2026
+- 🕯 [Máy bay cỡ nhỏ đâm vào tòa tháp cao nhất thủ đô Trung Quốc](https://tuoitre.vn/may-bay-co-nho-dam-vao-toa-thap-cao-nhat-thu-do-trung-quoc-100260626205851583.htm) - 21:20 26/06/2026
+- 💂 [Bới gạch đá tìm con ở Venezuela](https://tuoitre.vn/boi-gach-da-tim-con-o-venezuela-100260626191203382.htm) - 20:38 26/06/2026
+- 🦒 [Chính quyền ông Trump có thật sự thống nhất trong cách giải quyết vấn đề Iran?](https://tuoitre.vn/chinh-quyen-ong-trump-co-that-su-thong-nhat-trong-cach-giai-quyet-van-de-iran-100260626191142339.htm) - 20:31 26/06/2026
+- 🔭 [Crimea tuyên bố tình trạng khẩn cấp vì các cuộc tấn công của Ukraine](https://tuoitre.vn/crimea-tuyen-bo-tinh-trang-khan-cap-vi-cac-cuoc-tan-cong-cua-ukraine-100260626194450996.htm) - 20:24 26/06/2026
+- 👨‍🏫 [Myanmar thiêu hủy hơn 50 tấn ma túy bất hợp pháp](https://tuoitre.vn/myanmar-thieu-huy-hon-50-tan-ma-tuy-bat-hop-phap-100260626193630632.htm) - 20:12 26/06/2026
+- 🦆 [Thành phố sa mạc ở Trung Quốc hứng trận mưa kỷ lục](https://tuoitre.vn/thanh-pho-sa-mac-o-trung-quoc-hung-tran-mua-ky-luc-100260626185601689.htm) - 19:40 26/06/2026<!-- tuoitre-the-gioi:END -->
