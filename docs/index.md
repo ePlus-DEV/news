@@ -531,7 +531,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Đội hình ra sân của Nam Phi đấu Canada: lực lượng mạnh nhất](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-nam-phi-dau-canada-luc-luong-manh-nhat-10126062901110744.htm) - 18:13 28/06/2026
-- 🥷 [Trực tiếp vòng 32 đội World Cup 2026: Nam Phi đấu Canada](https://muctim.tuoitre.vn/truc-tiep-vong-32-doi-world-cup-2026-nam-phi-dau-canada-101260628181543877.htm) - 16:00 28/06/2026
+- 🥷 [Bàn thắng muộn giúp Canada hạ Nam Phi để vào vòng 16 đội World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-vong-32-doi-world-cup-2026-nam-phi-dau-canada-101260628181543877.htm) - 16:00 28/06/2026
 - 🤖 [Lịch thi đấu vòng 1/16 World Cup 2026](https://muctim.tuoitre.vn/lich-thi-dau-vong-1-16-world-cup-2026-101260628192244591.htm) - 12:27 28/06/2026
 - 🤓 [Truyện ngắn Mực Tím: Mùa của riêng mình](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-mua-cua-rieng-minh-101260621100920583.htm) - 12:06 28/06/2026
 - 🎉 [Truyện ngắn Mực Tím: Phía sau lời cá cược](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-phia-sau-loi-ca-cuoc-10126062110185911.htm) - 12:04 28/06/2026
