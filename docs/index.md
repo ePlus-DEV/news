@@ -537,7 +537,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Mời bạn đón đọc Mực Tím 26, phát hành 29-6-2026: Nhịp đập thành phố trẻ](https://muctim.tuoitre.vn/moi-ban-don-doc-muc-tim-26-phat-hanh-29-6-2026-nhip-dap-thanh-pho-tre-101260627124922496.htm) - 12:02 28/06/2026
 - 👨‍🏫 [Viết văn về bữa cơm gia đình, bạn nhỏ mong &quot;con không một mình&quot;](https://muctim.tuoitre.vn/viet-van-ve-bua-com-gia-dinh-ban-nho-mong-con-khong-mot-minh-101260628160503341.htm) - 11:54 28/06/2026
 - 🚦 [Thảo cầm viên làm “mẹ đỡ đầu” cho gia đình 6 em mèo được cứu hộ](https://muctim.tuoitre.vn/thao-cam-vien-lam-me-do-dau-cho-gia-dinh-6-em-meo-duoc-cuu-ho-101260628162121497.htm) - 10:41 28/06/2026
-- 🤭 [Cập nhật chung kết bóng chuyền nữ: U18 Việt Nam 0-0 U18 Thái Lan &lpar;set 1&rpar;](https://muctim.tuoitre.vn/cap-nhat-chung-ket-bong-chuyen-nu-u18-viet-nam-u18-thai-lan-101260628160358646.htm) - 10:08 28/06/2026
+- 🤭 [Thua U18 Thái Lan 0-3, bóng chuyền nữ U18 Việt Nam về nhì Princess Cup 2026](https://muctim.tuoitre.vn/cap-nhat-chung-ket-bong-chuyen-nu-u18-viet-nam-u18-thai-lan-101260628160358646.htm) - 10:08 28/06/2026
 - 😺 [Nam sinh Nghệ An lội ngược dòng ấn tượng tại Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-nghe-an-loi-nguoc-dong-an-tuong-tai-duong-len-dinh-olympia-101260628135844861.htm) - 07:38 28/06/2026
 - 😎 [Thiếu nhi học cách bảo vệ bản thân cùng &quot;Em tự tin - Em an toàn&quot;](https://muctim.tuoitre.vn/thieu-nhi-hoc-cach-bao-ve-ban-than-cung-em-tu-tin-em-an-toan-101260628130213004.htm) - 06:24 28/06/2026
 - 🐎 [Làm sao để ba mẹ hiểu mình hơn?](https://muctim.tuoitre.vn/lam-sao-de-ba-me-hieu-minh-hon-101260623151213733.htm) - 05:06 28/06/2026
