@@ -4,53 +4,53 @@ sidebar_position: 13
 ---
 
 <!-- nld-the-thao:START -->
-- 💻 [World Cup 2026: Tinh thần &quot;Samurai xanh&quot;](https://nld.com.vn/tinh-than-samurai-xanh-196260627182224201.htm) - 17:29 27/06/2026
-- 🦒 [Lịch thi đấu World Cup 2026 hôm nay: Bồ Đào Nha đấu Colombia, Jordan gặp Argentina](https://nld.com.vn/lich-thi-dau-world-cup-2026-hom-nay-bo-dao-nha-dau-colombia-jordan-gap-argentina-196260627211918221.htm) - 17:02 27/06/2026
-- 👹 [Giao lưu pickleball mừng 50 năm thành phố Sài Gòn – Gia Định mang tên Chủ tịch Hồ Chí Minh](https://nld.com.vn/giao-luu-pickleball-mung-50-nam-thanh-pho-sai-gon-gia-dinh-mang-ten-chu-tich-ho-chi-minh-196260627203800044.htm) - 13:54 27/06/2026
-- 🤓 [Khoa Ngô chia tay tuyển Việt Nam vì chấn thương](https://nld.com.vn/khoa-ngo-chia-tay-tuyen-viet-nam-vi-chan-thuong-196260627155659257.htm) - 10:25 27/06/2026
-- 🙉 [Soi tỉ số trận Colombia – Bồ Đào Nha: Quyền lực Ronaldo](https://nld.com.vn/soi-ti-so-tran-colombia-bo-dao-nha-quyen-luc-ronaldo-196260627161453726.htm) - 09:21 27/06/2026
+- 💻 [Đi bộ đồng hành kỷ niệm 50 năm TP Sài Gòn - Gia Định mang tên Bác](https://nld.com.vn/di-bo-dong-hanh-ky-niem-50-nam-tp-sai-gon-gia-dinh-mang-ten-bac-19626062811170843.htm) - 04:29 28/06/2026
+- 🦒 [Tuyển Uruguay rối ren sau World Cup 2026](https://nld.com.vn/tuyen-uruguay-roi-ren-sau-world-cup-2026-196260628110207784.htm) - 04:04 28/06/2026
+- 👹 [Brazil chỉ còn 2 “ngọn núi” trước cửa chung kết World Cup 2026](https://nld.com.vn/brazil-chi-con-2-ngon-nui-truoc-cua-chung-ket-world-cup-2026-196260628094130138.htm) - 02:44 28/06/2026
+- 🤓 [CHDC Congo khiến tuyển Hàn Quốc bị loại khỏi World Cup 2026](https://nld.com.vn/chdc-congo-khien-tuyen-han-quoc-bi-loai-khoi-world-cup-2026-196260628092935916.htm) - 02:31 28/06/2026
+- 🙉 [Ronaldo mờ nhạt, Bồ Đào Nha vào vòng 1/16 với nhánh đấu có 3 ứng viên hạng nặng](https://nld.com.vn/ronaldo-choi-mo-nhat-bo-dao-nha-phai-cham-tran-croatia-o-vong-1-16-world-cup-2026-196260628090742582.htm) - 02:13 28/06/2026
+- 🐵 [Chùm ảnh: CĐV Anh &quot;quẩy hết mình&quot; từ New York tới quê nhà](https://nld.com.vn/chum-anh-cdv-anh-quay-het-minh-tu-new-york-toi-que-nha-196260628075654593.htm) - 00:58 28/06/2026
+- 🕯 [World Cup 2026: Kịch tính vòng knock-out](https://nld.com.vn/kich-tinh-vong-knock-out-196260627182002919.htm) - 00:28 28/06/2026
+- 🕴 [World Cup không có vé cho hào quang cũ](https://nld.com.vn/world-cup-khong-co-ve-cho-hao-quang-cu-196260627181753438.htm) - 23:27 27/06/2026
+- 🤠 [Croatia thắng nghẹt thở Ghana, xếp sau tuyển Anh ở bảng L](https://nld.com.vn/croatia-thang-nghet-tho-ghana-xep-sau-tuyen-anh-o-bang-l-196260628061141954.htm) - 23:16 27/06/2026
+- 🪜 [Tuyển Anh bùng nổ trong hiệp 2, Harry Kane tạo cột mốc mới](https://nld.com.vn/tuyen-anh-bung-no-trong-hiep-2-harry-kane-tao-cot-moc-moi-1962606280517104.htm) - 23:07 27/06/2026
+- 🧠 [World Cup 2026: Tinh thần &quot;Samurai xanh&quot;](https://nld.com.vn/tinh-than-samurai-xanh-196260627182224201.htm) - 17:29 27/06/2026
+- 🙉 [Lịch thi đấu World Cup 2026 hôm nay: Bồ Đào Nha hòa Colombia, Jordan gặp Argentina](https://nld.com.vn/lich-thi-dau-world-cup-2026-hom-nay-bo-dao-nha-dau-colombia-jordan-gap-argentina-196260627211918221.htm) - 17:02 27/06/2026
+- 👺 [Giao lưu pickleball mừng 50 năm thành phố Sài Gòn – Gia Định mang tên Chủ tịch Hồ Chí Minh](https://nld.com.vn/giao-luu-pickleball-mung-50-nam-thanh-pho-sai-gon-gia-dinh-mang-ten-chu-tich-ho-chi-minh-196260627203800044.htm) - 13:54 27/06/2026
+- 🦄 [Khoa Ngô chia tay tuyển Việt Nam vì chấn thương](https://nld.com.vn/khoa-ngo-chia-tay-tuyen-viet-nam-vi-chan-thuong-196260627155659257.htm) - 10:25 27/06/2026
+- 👀 [Soi tỉ số trận Colombia – Bồ Đào Nha: Quyền lực Ronaldo](https://nld.com.vn/soi-ti-so-tran-colombia-bo-dao-nha-quyen-luc-ronaldo-196260627161453726.htm) - 09:21 27/06/2026
 - 🐵 [Giải vô địch Kun Khmer các đội mạnh toàn quốc 2026: TP HCM giành hạng nhì toàn đoàn](https://nld.com.vn/giai-vo-dich-kun-khmer-cac-doi-manh-toan-quoc-2026-tp-hcm-gianh-hang-nhi-toan-doan-196260627124846396.htm) - 07:50 27/06/2026
-- 🕯 [AFC phạt Triều Tiên hơn 1 tỉ đồng, cấm dự giải U17 châu Á](https://nld.com.vn/afc-phat-trieu-tien-hon-1-ti-dong-cam-du-giai-u17-chau-a-196260627142953789.htm) - 07:49 27/06/2026
-- 🕴 [Xuân Son: &quot;Cúp vô địch quan trọng hơn danh hiệu cá nhân&quot;](https://nld.com.vn/xuan-son-cup-vo-dich-quan-trong-hon-danh-hieu-ca-nhan-196260627130027589.htm) - 06:02 27/06/2026
-- 🤠 [World Cup 2026: Không đá lượt cuối, Bồ Đào Nha và Anh vẫn giành vé vòng 1/16](https://nld.com.vn/world-cup-2026-khong-da-luot-cuoi-bo-dao-nha-va-anh-van-gianh-ve-vong-1-16-196260627130120356.htm) - 06:01 27/06/2026
-- 🪜 [Kỳ tích Cape Verde tại World Cup 2026](https://nld.com.vn/ky-tich-cape-verde-tai-world-cup-2026-196260627125300838.htm) - 06:00 27/06/2026
-- 🧠 [Đè bẹp New Zealand, Bỉ đoạt ngôi đầu bảng từ tay Ai Cập](https://nld.com.vn/de-bep-new-zealand-bi-doat-ngoi-dau-bang-tu-tay-ai-cap-196260627124958675.htm) - 05:51 27/06/2026
-- 🙉 [Soi tỉ số trận Croatia – Ghana: Tin vào bản lĩnh sắc áo caro](https://nld.com.vn/soi-ti-so-tran-croatia-ghana-tin-vao-ban-linh-sac-ao-caro-196260627124234436.htm) - 05:50 27/06/2026
-- 👺 [CĐV quyến rũ nhất Panama dự đoán đội nhà thắng Anh 3-1](https://nld.com.vn/cdv-quyen-ru-nhat-panama-du-doan-doi-nha-thang-anh-3-1-196260627101853284.htm) - 03:22 27/06/2026
-- 🦄 [Tây Ban Nha tiễn Uruguay rời World Cup 2026](https://nld.com.vn/tay-ban-nha-tien-uruguay-roi-world-cup-2026-196260627092515019.htm) - 03:17 27/06/2026
-- 👀 [World Cup 2026: Cape Verde làm nên lịch sử, Ả Rập Saudi về nước sớm](https://nld.com.vn/world-cup-2026-cape-verde-lam-nen-lich-su-a-rap-saudi-ve-nuoc-som-196260627094541081.htm) - 02:53 27/06/2026
-- 🐵 [Cuộc chiến của Ronaldo](https://nld.com.vn/cuoc-chien-cua-ronaldo-19626062620163707.htm) - 00:14 27/06/2026
-- 💂 [Hai mục tiêu của &quot;Tam sư&quot;](https://nld.com.vn/hai-muc-tieu-cua-tam-su-196260626201402634.htm) - 00:13 27/06/2026
-- 👍 [Người Việt xem World Cup tại Texas](https://nld.com.vn/nguoi-viet-xem-world-cup-tai-texas-196260626202010235.htm) - 23:19 26/06/2026
-- 🔥 [Senegal thắng đậm Iraq, hồi hộp chờ vé vớt vào vòng 1/16 World Cup 2026](https://nld.com.vn/senegal-thang-dam-iraq-hoi-hop-cho-ve-vot-vao-vong-1-16-world-cup-2026-196260627050137496.htm) - 22:01 26/06/2026
-- 🎉 [&quot;Gà trống&quot; Pháp gáy vang tại Boston sau hat-trick của Dembele](https://nld.com.vn/ga-trong-phap-gay-vang-tai-boston-sau-hat-trick-cua-dembele-19626062704371744.htm) - 21:36 26/06/2026
-- 🪄 [Đương kim á quân thắng nhàn Cantho Catfish](https://nld.com.vn/duong-kim-a-quan-thang-nhan-cantho-catfish-196260627005419825.htm) - 21:20 26/06/2026
-- 🌊 [Lịch thi đấu World Cup 2026 hôm nay: Na Uy đấu Pháp, Uruguay quyết chiến Tây Ban Nha](https://nld.com.vn/lich-thi-dau-world-cup-2026-hom-nay-na-uy-dau-phap-uruguay-quyet-chien-tay-ban-nha-19626062621203396.htm) - 17:01 26/06/2026
-- 🌮 [Soi tỉ số trận Ai Cập - Iran: Ghi danh vào lịch sử](https://nld.com.vn/soi-ti-so-tran-ai-cap-iran-ghi-danh-vao-lich-su-196260626194257969.htm) - 13:03 26/06/2026
-- 🧠 [Nhật Minh cố gắng sánh vai các đàn anh trên tuyển dự ASEAN Cup 2026](https://nld.com.vn/nhat-minh-co-gang-sanh-vai-cac-dan-anh-tren-tuyen-du-asean-cup-2026-19626062619004292.htm) - 12:12 26/06/2026
-- 🌮 [Soi tỉ số trận Uruguay – Tây Ban Nha: Cuộc chiến sống còn](https://nld.com.vn/soi-ti-so-tran-uruguay-tay-ban-nha-cuoc-chien-song-con-196260626174135552.htm) - 11:20 26/06/2026
-- 🫣 [Xuất hiện “trận đấu tệ nhất lịch sử World Cup”](https://nld.com.vn/xuat-hien-tran-dau-te-nhat-lich-su-world-cup-196260626155651123.htm) - 09:21 26/06/2026
-- 🎡 [Đồng diễn dân vũ thể thao chào mừng 50 năm thành phố mang tên Bác](https://nld.com.vn/dong-dien-dan-vu-the-thao-chao-mung-50-nam-thanh-pho-mang-ten-bac-196260626134432351.htm) - 08:39 26/06/2026
-- 🦄 [Soi tỉ số trận Na Uy – Pháp: Tranh ngôi đầu bảng](https://nld.com.vn/soi-ti-so-tran-na-uy-phap-tranh-ngoi-dau-bang-19626062615293705.htm) - 08:33 26/06/2026
-- 🚀 [Top 10 bàn thắng đẹp nhất World Cup 2026 đến thời điểm hiện tại](https://nld.com.vn/top-10-ban-thang-dep-nhat-world-cup-2026-den-thoi-diem-hien-tai-196260626132345985.htm) - 06:29 26/06/2026
-- 🕯 [Châu Phi và những giấc mơ không còn đơn độc](https://nld.com.vn/chau-phi-va-nhung-giac-mo-khong-con-don-doc-196260626125958056.htm) - 06:01 26/06/2026
-- 🦏 [World Cup 2026: 18 đội tuyển chính thức giành vé vào vòng 1/16](https://nld.com.vn/world-cup-2026-18-doi-tuyen-chinh-thuc-gianh-ve-vao-vong-1-16-196260626124616079.htm) - 05:47 26/06/2026
-- 🦄 [Nhật Bản và cuộc đổi ngôi của bóng đá châu Á](https://nld.com.vn/nhat-ban-va-cuoc-doi-ngoi-cua-bong-da-chau-a-196260626120551128.htm) - 05:47 26/06/2026
-- 🦅 [Thổ Nhĩ Kỳ chia tay World Cup 2026 bằng trận thắng chủ nhà Mỹ](https://nld.com.vn/tho-nhi-ky-chia-tay-world-cup-2026-bang-tran-thang-chu-nha-my-196260626114735278.htm) - 04:53 26/06/2026
-- 🤭 [Tuyển Úc cùng Paraguay dắt tay vào vòng 1/16 World Cup 2026](https://nld.com.vn/tuyen-uc-cung-paraguay-dat-tay-vao-vong-1-16-world-cup-2026-196260626113441302.htm) - 04:35 26/06/2026
-- 🦣 [Hanoi Buffaloes thoát hiểm, Amir Gholizadeh hóa người hùng](https://nld.com.vn/hanoi-buffaloes-thoat-hiem-amir-gholizadeh-hoa-nguoi-hung-196260626083823153.htm) - 02:40 26/06/2026
-- 🎊 [Uruguay trước trận đấu sinh tử](https://nld.com.vn/uruguay-truoc-tran-dau-sinh-tu-196260625194857069.htm) - 01:39 26/06/2026
-- 🦅 [Hà Lan thắng thuyết phục Tunisia, giành ngôi đầu bảng](https://nld.com.vn/ha-lan-thang-thuyet-phuc-tunisia-gianh-ngoi-dau-bang-196260626082448244.htm) - 01:38 26/06/2026
-- 🎬 [Elanga giúp Thuỵ Điển chia điểm với Nhật Bản, cùng dắt tay vào vòng 1/16](https://nld.com.vn/elanga-giup-thuy-dien-chia-diem-voi-nhat-ban-cung-dat-tay-vao-vong-1-16-196260626081048463.htm) - 01:14 26/06/2026
-- 🎡 [Pháp - Na Uy tranh ngôi nhất bảng](https://nld.com.vn/phap-na-uy-tranh-ngoi-nhat-bang-196260625195153736.htm) - 01:00 26/06/2026
-- 🤖 [Man City nổ “bom tấn” 4.030 tỉ đồng ngay tại World Cup](https://nld.com.vn/man-city-no-bom-tan-4030-ti-dong-ngay-tai-world-cup-196260626071620959.htm) - 00:18 26/06/2026
-- 🐎 [Nicolas Pepe lập cú đúp, Bờ Biển Ngà lần đầu vượt vòng bảng World Cup](https://nld.com.vn/nicolas-pepe-lap-cu-dup-bo-bien-nga-lan-dau-vuot-vong-bang-world-cup-196260626052107928.htm) - 22:49 25/06/2026
-- 🪜 [Tuyển Đức phung phí cơ hội, nhận thất bại sốc trước Ecuador](https://nld.com.vn/tuyen-duc-phung-phi-co-hoi-nhan-that-bai-soc-truoc-ecuador-196260626054853046.htm) - 22:45 25/06/2026
-- 🤠 [World Cup 2026: Cúp thế giới của những khán đài nhập cư](https://nld.com.vn/world-cup-2026-cup-the-gioi-cua-nhung-khan-dai-nhap-cu-196260625215052884.htm) - 20:52 25/06/2026
-- 🎉 [Lịch thi đấu World Cup 2026 hôm nay: Ecuador muốn gây sốc Đức, Nhật đại chiến Thụy Điển](https://nld.com.vn/lich-thi-dau-world-cup-2026-hom-nay-ecuador-muon-gay-soc-duc-nhat-dai-chien-thuy-dien-196260625214041195.htm) - 17:01 25/06/2026
-- 🏊 [Patrik Lê Giang vắng mặt, Tài Lộc hạnh phúc ngày đầu lên tuyển Việt Nam](https://nld.com.vn/patrik-le-giang-vang-mat-tai-loc-hanh-phuc-ngay-dau-len-tuyen-viet-nam-196260625184104072.htm) - 11:41 25/06/2026
-- 💫 [Soi tỉ số trận Nhật Bản – Thụy Điển: Bất phân thắng bại](https://nld.com.vn/soi-ti-so-tran-nhat-ban-thuy-dien-bat-phan-thang-bai-196260625181946672.htm) - 11:25 25/06/2026
-- 🎃 [Voi so tài đười ươi &quot;tiên tri&quot; trận Đức – Ecuador](https://nld.com.vn/voi-so-tai-duoi-uoi-tien-tri-tran-duc-ecuador-196260625180432406.htm) - 11:11 25/06/2026
-- 🧑‍💻 [Soi tỉ số trận Ecuador – Đức: Sức mạnh của Die Mannschaft](https://nld.com.vn/soi-ti-so-tran-ecuador-duc-suc-manh-cua-die-mannschaft-1962606251638114.htm) - 09:39 25/06/2026
-- 🤡 [Malaysia bổ nhiệm cựu HLV Tan Cheng Hoe trở lại ghế nóng tuyển quốc gia](https://nld.com.vn/malaysia-bo-nhiem-cuu-hlv-tan-cheng-hoe-tro-lai-ghe-nong-tuyen-quoc-gia-196260625143916082.htm) - 07:47 25/06/2026
-- 🗽 [Hàn Quốc ngã, châu Á chờ Nhật Bản](https://nld.com.vn/han-quoc-nga-chau-a-cho-nhat-ban-196260625133645668.htm) - 06:59 25/06/2026<!-- nld-the-thao:END -->
+- 💂 [AFC phạt Triều Tiên hơn 1 tỉ đồng, cấm dự giải U17 châu Á](https://nld.com.vn/afc-phat-trieu-tien-hon-1-ti-dong-cam-du-giai-u17-chau-a-196260627142953789.htm) - 07:49 27/06/2026
+- 👍 [Xuân Son: &quot;Cúp vô địch quan trọng hơn danh hiệu cá nhân&quot;](https://nld.com.vn/xuan-son-cup-vo-dich-quan-trong-hon-danh-hieu-ca-nhan-196260627130027589.htm) - 06:02 27/06/2026
+- 🔥 [World Cup 2026: Không đá lượt cuối, Bồ Đào Nha và Anh vẫn giành vé vòng 1/16](https://nld.com.vn/world-cup-2026-khong-da-luot-cuoi-bo-dao-nha-va-anh-van-gianh-ve-vong-1-16-196260627130120356.htm) - 06:01 27/06/2026
+- 🎉 [Kỳ tích Cape Verde tại World Cup 2026](https://nld.com.vn/ky-tich-cape-verde-tai-world-cup-2026-196260627125300838.htm) - 06:00 27/06/2026
+- 🪄 [Đè bẹp New Zealand, Bỉ đoạt ngôi đầu bảng từ tay Ai Cập](https://nld.com.vn/de-bep-new-zealand-bi-doat-ngoi-dau-bang-tu-tay-ai-cap-196260627124958675.htm) - 05:51 27/06/2026
+- 🌊 [Soi tỉ số trận Croatia – Ghana: Tin vào bản lĩnh sắc áo caro](https://nld.com.vn/soi-ti-so-tran-croatia-ghana-tin-vao-ban-linh-sac-ao-caro-196260627124234436.htm) - 05:50 27/06/2026
+- 🌮 [CĐV quyến rũ nhất Panama dự đoán đội nhà thắng Anh 3-1](https://nld.com.vn/cdv-quyen-ru-nhat-panama-du-doan-doi-nha-thang-anh-3-1-196260627101853284.htm) - 03:22 27/06/2026
+- 🧠 [Tây Ban Nha tiễn Uruguay rời World Cup 2026](https://nld.com.vn/tay-ban-nha-tien-uruguay-roi-world-cup-2026-196260627092515019.htm) - 03:17 27/06/2026
+- 🌮 [World Cup 2026: Cape Verde làm nên lịch sử, Ả Rập Saudi về nước sớm](https://nld.com.vn/world-cup-2026-cape-verde-lam-nen-lich-su-a-rap-saudi-ve-nuoc-som-196260627094541081.htm) - 02:53 27/06/2026
+- 🫣 [Cuộc chiến của Ronaldo](https://nld.com.vn/cuoc-chien-cua-ronaldo-19626062620163707.htm) - 00:14 27/06/2026
+- 🎡 [Hai mục tiêu của &quot;Tam sư&quot;](https://nld.com.vn/hai-muc-tieu-cua-tam-su-196260626201402634.htm) - 00:13 27/06/2026
+- 🦄 [Người Việt xem World Cup tại Texas](https://nld.com.vn/nguoi-viet-xem-world-cup-tai-texas-196260626202010235.htm) - 23:19 26/06/2026
+- 🚀 [Senegal thắng đậm Iraq, hồi hộp chờ vé vớt vào vòng 1/16 World Cup 2026](https://nld.com.vn/senegal-thang-dam-iraq-hoi-hop-cho-ve-vot-vao-vong-1-16-world-cup-2026-196260627050137496.htm) - 22:01 26/06/2026
+- 🕯 [&quot;Gà trống&quot; Pháp gáy vang tại Boston sau hat-trick của Dembele](https://nld.com.vn/ga-trong-phap-gay-vang-tai-boston-sau-hat-trick-cua-dembele-19626062704371744.htm) - 21:36 26/06/2026
+- 🦏 [Đương kim á quân thắng nhàn Cantho Catfish](https://nld.com.vn/duong-kim-a-quan-thang-nhan-cantho-catfish-196260627005419825.htm) - 21:20 26/06/2026
+- 🦄 [Lịch thi đấu World Cup 2026 hôm nay: Na Uy đấu Pháp, Uruguay quyết chiến Tây Ban Nha](https://nld.com.vn/lich-thi-dau-world-cup-2026-hom-nay-na-uy-dau-phap-uruguay-quyet-chien-tay-ban-nha-19626062621203396.htm) - 17:01 26/06/2026
+- 🦅 [Soi tỉ số trận Ai Cập - Iran: Ghi danh vào lịch sử](https://nld.com.vn/soi-ti-so-tran-ai-cap-iran-ghi-danh-vao-lich-su-196260626194257969.htm) - 13:03 26/06/2026
+- 🤭 [Nhật Minh cố gắng sánh vai các đàn anh trên tuyển dự ASEAN Cup 2026](https://nld.com.vn/nhat-minh-co-gang-sanh-vai-cac-dan-anh-tren-tuyen-du-asean-cup-2026-19626062619004292.htm) - 12:12 26/06/2026
+- 🦣 [Soi tỉ số trận Uruguay – Tây Ban Nha: Cuộc chiến sống còn](https://nld.com.vn/soi-ti-so-tran-uruguay-tay-ban-nha-cuoc-chien-song-con-196260626174135552.htm) - 11:20 26/06/2026
+- 🎊 [Xuất hiện “trận đấu tệ nhất lịch sử World Cup”](https://nld.com.vn/xuat-hien-tran-dau-te-nhat-lich-su-world-cup-196260626155651123.htm) - 09:21 26/06/2026
+- 🦅 [Đồng diễn dân vũ thể thao chào mừng 50 năm thành phố mang tên Bác](https://nld.com.vn/dong-dien-dan-vu-the-thao-chao-mung-50-nam-thanh-pho-mang-ten-bac-196260626134432351.htm) - 08:39 26/06/2026
+- 🎬 [Soi tỉ số trận Na Uy – Pháp: Tranh ngôi đầu bảng](https://nld.com.vn/soi-ti-so-tran-na-uy-phap-tranh-ngoi-dau-bang-19626062615293705.htm) - 08:33 26/06/2026
+- 🎡 [Top 10 bàn thắng đẹp nhất World Cup 2026 đến thời điểm hiện tại](https://nld.com.vn/top-10-ban-thang-dep-nhat-world-cup-2026-den-thoi-diem-hien-tai-196260626132345985.htm) - 06:29 26/06/2026
+- 🤖 [Châu Phi và những giấc mơ không còn đơn độc](https://nld.com.vn/chau-phi-va-nhung-giac-mo-khong-con-don-doc-196260626125958056.htm) - 06:01 26/06/2026
+- 🐎 [World Cup 2026: 18 đội tuyển chính thức giành vé vào vòng 1/16](https://nld.com.vn/world-cup-2026-18-doi-tuyen-chinh-thuc-gianh-ve-vao-vong-1-16-196260626124616079.htm) - 05:47 26/06/2026
+- 🪜 [Nhật Bản và cuộc đổi ngôi của bóng đá châu Á](https://nld.com.vn/nhat-ban-va-cuoc-doi-ngoi-cua-bong-da-chau-a-196260626120551128.htm) - 05:47 26/06/2026
+- 🤠 [Thổ Nhĩ Kỳ chia tay World Cup 2026 bằng trận thắng chủ nhà Mỹ](https://nld.com.vn/tho-nhi-ky-chia-tay-world-cup-2026-bang-tran-thang-chu-nha-my-196260626114735278.htm) - 04:53 26/06/2026
+- 🎉 [Tuyển Úc cùng Paraguay dắt tay vào vòng 1/16 World Cup 2026](https://nld.com.vn/tuyen-uc-cung-paraguay-dat-tay-vao-vong-1-16-world-cup-2026-196260626113441302.htm) - 04:35 26/06/2026
+- 🏊 [Hanoi Buffaloes thoát hiểm, Amir Gholizadeh hóa người hùng](https://nld.com.vn/hanoi-buffaloes-thoat-hiem-amir-gholizadeh-hoa-nguoi-hung-196260626083823153.htm) - 02:40 26/06/2026
+- 💫 [Uruguay trước trận đấu sinh tử](https://nld.com.vn/uruguay-truoc-tran-dau-sinh-tu-196260625194857069.htm) - 01:39 26/06/2026
+- 🎃 [Hà Lan thắng thuyết phục Tunisia, giành ngôi đầu bảng](https://nld.com.vn/ha-lan-thang-thuyet-phuc-tunisia-gianh-ngoi-dau-bang-196260626082448244.htm) - 01:38 26/06/2026
+- 🧑‍💻 [Elanga giúp Thuỵ Điển chia điểm với Nhật Bản, cùng dắt tay vào vòng 1/16](https://nld.com.vn/elanga-giup-thuy-dien-chia-diem-voi-nhat-ban-cung-dat-tay-vao-vong-1-16-196260626081048463.htm) - 01:14 26/06/2026
+- 🤡 [Pháp - Na Uy tranh ngôi nhất bảng](https://nld.com.vn/phap-na-uy-tranh-ngoi-nhat-bang-196260625195153736.htm) - 01:00 26/06/2026
+- 🗽 [Man City nổ “bom tấn” 4.030 tỉ đồng ngay tại World Cup](https://nld.com.vn/man-city-no-bom-tan-4030-ti-dong-ngay-tai-world-cup-196260626071620959.htm) - 00:18 26/06/2026<!-- nld-the-thao:END -->
