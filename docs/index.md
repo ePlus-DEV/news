@@ -530,66 +530,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp CHDC Congo đấu Uzbekistan: quyết chiến giành cơ hội đi tiếp](https://muctim.tuoitre.vn/truc-tiep-chdc-congo-dau-uzbekistan-quyet-chien-gianh-co-hoi-di-tiep-101260627215217312.htm) - 16:49 27/06/2026
-- 🥷 [Trực tiếp Colombia đấu Bồ Đào Nha: chờ Ronaldo toả sáng](https://muctim.tuoitre.vn/truc-tiep-colombia-dau-bo-dao-nha-cho-ronaldo-toa-sang-101260627214732708.htm) - 16:49 27/06/2026
-- 🤖 [Trực tiếp Croatia đấu Ghana: đại chiến giành vé knock-out](https://muctim.tuoitre.vn/truc-tiep-croatia-dau-ghana-dai-chien-gianh-ve-knock-out-10126062721433718.htm) - 16:48 27/06/2026
-- 🤓 [Trực tiếp tuyển Anh đấu Panama: 3 điểm cho Harry Kane và đồng đội?](https://muctim.tuoitre.vn/truc-tiep-tuyen-anh-dau-panama-3-diem-cho-harry-kane-va-dong-doi-10126062721373444.htm) - 16:32 27/06/2026
-- 🎉 [Học sinh Trường Trung học Thực hành Đại học Sư phạm đưa nghệ thuật Lân Sư Rồng lên không gian số](https://muctim.tuoitre.vn/hoc-sinh-truong-trung-hoc-thuc-hanh-dai-hoc-su-pham-dua-nghe-thuat-lan-su-rong-len-khong-gian-so-101260627181849341.htm) - 14:13 27/06/2026
-- 👨‍🏫 [Siêu máy tính dự đoán kết quả Uzbekistan đấu CHDC Congo tại World Cup 2026](https://muctim.tuoitre.vn/sieu-may-tinh-du-doan-ket-qua-uzbekistan-dau-chdc-congo-tai-world-cup-2026-101260627191731169.htm) - 14:11 27/06/2026
-- 🚦 [Croatia chạm trán Ghana: Chiến đấu cho tấm vé đi tiếp](https://muctim.tuoitre.vn/croatia-cham-tran-ghana-chien-dau-cho-tam-ve-di-tiep-101260627135416956.htm) - 14:08 27/06/2026
-- 🤭 [Anh đối đầu Panama: Đẳng cấp lên tiếng](https://muctim.tuoitre.vn/anh-doi-dau-panama-dang-cap-len-tieng-101260627113541114.htm) - 14:06 27/06/2026
-- 😺 [Bồ Đào Nha đấu Colombia: Quyết chiến cho ngôi đầu](https://muctim.tuoitre.vn/bo-dao-nha-dau-colombia-quyet-chien-cho-ngoi-dau-10126062711123782.htm) - 14:03 27/06/2026
-- 😎 [Tuyển bóng chuyền nữ U18 Việt Nam vào chung kết Princess Cup 2026](https://muctim.tuoitre.vn/tuyen-bong-chuyen-nu-u18-viet-nam-vao-chung-ket-princess-cup-2026-101260627153910956.htm) - 12:10 27/06/2026
-- 🐎 [The Tri Way lần đầu tiên trở thành tác giả sách](https://muctim.tuoitre.vn/the-tri-way-lan-dau-tien-tro-thanh-tac-gia-sach-101260627151144692.htm) - 12:09 27/06/2026
-- 🎓 [Xem truyền hình trực tiếp chương trình &#39;Cùng ngày mai tỏa sáng - Vì cộng đồng không ma tuý&#39; trên kênh nào?](https://muctim.tuoitre.vn/xem-truyen-hinh-truc-tiep-chuong-trinh-cung-ngay-mai-toa-sang-vi-cong-dong-khong-ma-tuy-tren-kenh-nao-101260627173540013.htm) - 10:50 27/06/2026
-- 🐎 [UPRIZE phát hành album đầu tiên, các thành viên tham gia vào quá trình sản xuất](https://muctim.tuoitre.vn/uprize-phat-hanh-album-dau-tien-cac-thanh-vien-tham-gia-vao-qua-trinh-san-xuat-101260627151758814.htm) - 10:03 27/06/2026
-- 💃 [Người mẫu nhí tỏa sáng tại sân chơi casting Gương mặt ảnh bìa ấn phẩm Nhi đồng TP.HCM](https://muctim.tuoitre.vn/nguoi-mau-nhi-toa-sang-tai-san-choi-casting-guong-mat-anh-bia-an-pham-nhi-dong-tphcm-101260627141612107.htm) - 07:42 27/06/2026
-- 🪜 [Running Man Vietnam 2026 trở lại, đầy đủ đội hình mùa 3](https://muctim.tuoitre.vn/running-man-vietnam-2026-tro-lai-day-du-doi-hinh-mua-3-101260627141813734.htm) - 07:28 27/06/2026
-- 🎉 [Bạn nhỏ hào hứng khám phá khoa học tại Hội sách thiếu nhi TP.HCM](https://muctim.tuoitre.vn/ban-nho-hao-hung-kham-pha-khoa-hoc-tai-hoi-sach-thieu-nhi-tphcm-101260627125431327.htm) - 07:02 27/06/2026
-- 🥳 [World Cup 2026: Cuộc đua vào vòng knock-out dần ngã ngũ](https://muctim.tuoitre.vn/world-cup-2026-cuoc-dua-vao-vong-knock-out-dan-nga-ngu-101260627133402327.htm) - 06:50 27/06/2026
-- 🤓 [Messi dẫn đầu cuộc đua Chiếc giày vàng tại World Cup 2026](https://muctim.tuoitre.vn/messi-dan-dau-cuoc-dua-chiec-giay-vang-tai-world-cup-2026-101260627122854603.htm) - 05:34 27/06/2026
-- 🎉 [Cập nhật các đội xếp hạng 3 World Cup 2026: Uruguay bị loại](https://muctim.tuoitre.vn/cap-nhat-cac-doi-xep-hang-3-world-cup-2026-uruguay-bi-loai-101260627094659097.htm) - 05:26 27/06/2026
-- 🥳 [Jordan đấu Argentina tại World Cup 2026: khó có bất ngờ](https://muctim.tuoitre.vn/jordan-dau-argentina-tai-world-cup-2026-kho-co-bat-ngo-10126062710320474.htm) - 04:08 27/06/2026
-- 🎡 [Truyện ngắn Mực Tím: Khiêu vũ trên tầng thượng](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-khieu-vu-tren-tang-thuong-101260621095918468.htm) - 04:08 27/06/2026
-- 👨‍🏫 [Algeria đấu Áo tại World Cup 2026: tranh suất đi tiếp bảng J](https://muctim.tuoitre.vn/algeria-dau-ao-tai-world-cup-2026-tranh-suat-di-tiep-bang-j-101260627100421951.htm) - 04:07 27/06/2026
-- 🧠 [Kết quả hội thi sáng tác văn học chủ đề Bay vào tương lai](https://muctim.tuoitre.vn/ket-qua-hoi-thi-sang-tac-van-hoc-chu-de-bay-vao-tuong-lai-101260627102749236.htm) - 03:51 27/06/2026
-- 🥷 [Cape Verde viết cổ tích ở kỳ World Cup đầu tiên tham dự](https://muctim.tuoitre.vn/cape-verde-viet-co-tich-o-ky-world-cup-dau-tien-tham-du-101260627093650374.htm) - 02:48 27/06/2026
-- 🤔 [Đội hình ra sân của Bỉ và New Zealand: Lukaku dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-bi-va-new-zealand-lukaku-du-bi-101260627091115486.htm) - 02:12 27/06/2026
-- 🐎 [Đội hình ra sân của Ai Cập và Iran: Salah đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-ai-cap-va-iran-salah-da-chinh-101260627090500768.htm) - 02:12 27/06/2026
-- ⛽️ [Ai Cập và Iran chia điểm tại bảng G World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-ai-cap-iran-salah-va-dong-doi-duoc-danh-gia-cao-101260626185147974.htm) - 01:00 27/06/2026
-- 🤡 [Trossard lập cú đúp, Bỉ thắng đậm New Zealand để đứng đầu bảng G](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bi-dau-new-zealand-101260626170750593.htm) - 01:00 27/06/2026
-- 🌁 [Đội hình ra sân của Saudi Arabia và Cape Verde](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-saudi-arabia-va-cape-verde-101260627061444163.htm) - 23:16 26/06/2026
-- 🎓 [Tối nay 27-6 diễn ra đêm thi bắn pháo hoa thứ 5 tại Đà Nẵng](https://muctim.tuoitre.vn/toi-nay-27-6-dien-ra-dem-thi-ban-phao-hoa-thu-5-tai-da-nang-101260626211408771.htm) - 22:57 26/06/2026
-- 🦍 [Kết quả bóng chuyền nam VNL 2026 ngày 26-6, lịch thi đấu 27-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nam-vnl-2026-ngay-26-6-lich-thi-dau-27-6-101260626233452608.htm) - 22:55 26/06/2026
-- 🤠 [Đội hình xuất phát Tây Ban Nha đấu Uruguay: Lamine Yamal góp mặt](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-tay-ban-nha-dau-uruguay-lamine-yamal-gop-mat-101260626234829736.htm) - 22:50 26/06/2026
-- 🎬 [Đội hình ra sân của Senegal và Iraq: Mane đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-senegal-va-iraq-mane-da-chinh-101260627010013516.htm) - 19:18 26/06/2026
-- 🌮 [Đội hình ra sân của Pháp và Na Uy: Mbappe đá chính, Haaland dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-phap-va-na-uy-mbappe-da-chinh-haaland-du-bi-101260627005232671.htm) - 19:18 26/06/2026
-- 👹 [Senegal thắng Iraq 5-0, vượt Hàn Quốc ở cuộc đua vé vớt](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-senegal-dau-iraq-thang-de-hy-vong-101260626162426351.htm) - 15:57 26/06/2026
-- 🤔 [Thắng tối thiểu Uruguay, Tây Ban Nha đi tiếp với ngôi nhất bảng H](https://muctim.tuoitre.vn/truc-tiep-uruguay-tay-ban-nha-bang-h-world-cup-2026-1012606262046207.htm) - 15:54 26/06/2026
-- 🏊 [Hoà Saudi Arabia, Cape Verde vượt qua vòng bảng World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-saudi-arabia-cape-verde-dai-dien-chau-a-buoc-phai-thang-101260626184808579.htm) - 15:54 26/06/2026
-- 📝 [Sân vận động Goyang có gì mà được BIGBANG chọn là nơi mở màn concert kỷ niệm 20 năm?](https://muctim.tuoitre.vn/san-van-dong-goyang-co-gi-ma-duoc-bigbang-chon-la-noi-mo-man-concert-ky-niem-20-nam-101260626182442516.htm) - 15:54 26/06/2026
-- 👺 [Tây Ban Nha đấu Uruguay: Siêu máy tính đánh giá La Roja vượt trội](https://muctim.tuoitre.vn/tay-ban-nha-dau-uruguay-sieu-may-tinh-danh-gia-la-roja-vuot-troi-101260626203338956.htm) - 15:53 26/06/2026
-- 👹 [Cape Verde đối đầu Saudi Arabia: Quyết đấu cho tấm vé đi tiếp](https://muctim.tuoitre.vn/cape-verde-doi-dau-saudi-arabia-quyet-dau-cho-tam-ve-di-tiep-101260626150844374.htm) - 15:53 26/06/2026
-- 🎊 [Dembele lập hat-trick, Pháp hạ Na Uy 4-1 giữ ngôi đầu bảng I](https://muctim.tuoitre.vn/truc-tiep-na-uy-phap-3-diem-cho-mbappe-va-dong-doi-101260626184345252.htm) - 15:52 26/06/2026
-- 👹 [Senegal đấu Iraq: Cơ hội cuối cho Sư tử Teranga](https://muctim.tuoitre.vn/senegal-dau-iraq-co-hoi-cuoi-cho-su-tu-teranga-101260626202357076.htm) - 14:11 26/06/2026
-- 🎃 [Xác định các đội châu Á đầu tiên vượt qua vòng bảng, bị loại tại World Cup 2026](https://muctim.tuoitre.vn/xac-dinh-cac-doi-chau-a-dau-tien-vuot-qua-vong-bang-bi-loai-tai-world-cup-2026-101260626190344683.htm) - 14:11 26/06/2026
-- 🧑‍🏫 [Có gì trong mô hình khởi nghiệp gắn kết cùng doanh nghiệp trong 48h của UEF?](https://muctim.tuoitre.vn/co-gi-trong-mo-hinh-khoi-nghiep-gan-ket-cung-doanh-nghiep-trong-48h-cua-uef-101260626210446806.htm) - 14:09 26/06/2026
-- 🎊 [Điểm chuẩn lớp 10 Hải Phòng năm 2026: Nhiều trường tốp đầu lấy trên 23 điểm](https://muctim.tuoitre.vn/diem-chuan-lop-10-hai-phong-nam-2026-nhieu-truong-top-dau-lay-tren-23-diem-101260626204132818.htm) - 14:02 26/06/2026
-- 📝 [Hội thi Sáng tác văn học lần thứ 9: 44 tác phẩm xuất sắc được vinh danh](https://muctim.tuoitre.vn/hoi-thi-sang-tac-van-hoc-lan-thu-9-44-tac-pham-xuat-sac-duoc-vinh-danh-101260626174942212.htm) - 13:12 26/06/2026
-- 🥳 [Ai Cập - Iran: Salah và đồng đội được dự báo thắng trận](https://muctim.tuoitre.vn/ai-cap-iran-salah-va-dong-doi-duoc-du-bao-thang-tran-10126062617205559.htm) - 10:25 26/06/2026
-- 💻 [New Zealand - Bỉ: 3 điểm cho đại diện châu Âu?](https://muctim.tuoitre.vn/new-zealand-bi-3-diem-cho-dai-dien-chau-au-10126062617095401.htm) - 10:25 26/06/2026
-- 😎 [Lớp học 0 đồng của Nguyễn Minh Hậu](https://muctim.tuoitre.vn/lop-hoc-0-dong-cua-nguyen-minh-hau-101260622145817335.htm) - 10:15 26/06/2026
-- 🤭 [Na Uy - Pháp: siêu máy tính dự báo Mbappe và đồng đội thắng trận](https://muctim.tuoitre.vn/na-uy-phap-sieu-may-tinh-du-bao-mbappe-va-dong-doi-thang-tran-101260626165146781.htm) - 10:08 26/06/2026
-- 🤩 [200 thiếu nhi phường Bình Đông xem phim điện ảnh giữa sân trường](https://muctim.tuoitre.vn/200-thieu-nhi-phuong-binh-dong-xem-phim-dien-anh-giua-san-truong-101260626142016257.htm) - 08:44 26/06/2026
-- 🚀 [Bạn đọc khám phá khoa học, đọc sách tại Hội sách Thiếu nhi TP.HCM](https://muctim.tuoitre.vn/ban-doc-kham-pha-khoa-hoc-doc-sach-tai-hoi-sach-thieu-nhi-tphcm-101260626112714465.htm) - 07:29 26/06/2026
-- 🕴 [Khen thưởng 60 sáng kiến phòng, chống bạo lực học đường](https://muctim.tuoitre.vn/khen-thuong-60-sang-kien-phong-chong-bao-luc-hoc-duong-101260626111914865.htm) - 06:55 26/06/2026
-- ⛽️ [Lịch thi đấu bán kết bóng chuyền nữ Princess Cup 2026](https://muctim.tuoitre.vn/lich-thi-dau-ban-ket-bong-chuyen-nu-princess-cup-2026-101260626001128711.htm) - 06:55 26/06/2026
-- 🧐 [Rộn ràng khai mạc Hội sách thiếu nhi TP.HCM](https://muctim.tuoitre.vn/ron-rang-khai-mac-hoi-sach-thieu-nhi-tphcm-101260626122612069.htm) - 06:15 26/06/2026
-- 🦆 [Cập nhật bảng xếp hạng các đội hạng 3 World Cup 2026: đội nào chắc suất đi tiếp?](https://muctim.tuoitre.vn/cap-nhat-bang-xep-hang-cac-doi-hang-3-world-cup-2026-doi-nao-chac-suat-di-tiep-101260626113410062.htm) - 04:34 26/06/2026
-- 🤖 [5 bí kíp điều chỉnh đồng hồ sinh học để có giấc ngủ ngon](https://muctim.tuoitre.vn/5-bi-kip-dieu-chinh-dong-ho-sinh-hoc-de-co-giac-ngu-ngon-101260625180316685.htm) - 01:29 26/06/2026
-- 💃 [Tăng Phúc: &#39;Tôi không còn cãi tay đôi với khán giả như trước&#39;](https://muctim.tuoitre.vn/tang-phuc-toi-khong-con-cai-tay-doi-voi-khan-gia-nhu-truoc-101260622150852786.htm) - 01:24 26/06/2026
-- 🚀 [Đội hình ra sân của Paraguay và Úc: hai đội tung lực lượng mạnh nhất](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-paraguay-va-uc-hai-doi-tung-luc-luong-manh-nhat-101260626080008447.htm) - 01:23 26/06/2026
-- 🦍 [Đội hình ra sân của Mỹ và Thổ Nhĩ Kỳ: Arda Guler đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-my-va-tho-nhi-ky-arda-guler-da-chinh-101260626080749225.htm) - 01:22 26/06/2026<!-- muctim:END -->
+- 🤔 [Nam sinh Nghệ An lội ngược dòng ấn tượng tại Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-nghe-an-loi-nguoc-dong-an-tuong-tai-duong-len-dinh-olympia-101260628135844861.htm) - 07:38 28/06/2026
+- 🥷 [Thiếu nhi học cách bảo vệ bản thân cùng &quot;Em tự tin - Em an toàn&quot;](https://muctim.tuoitre.vn/thieu-nhi-hoc-cach-bao-ve-ban-than-cung-em-tu-tin-em-an-toan-101260628130213004.htm) - 06:24 28/06/2026
+- 🤖 [Làm sao để ba mẹ hiểu mình hơn?](https://muctim.tuoitre.vn/lam-sao-de-ba-me-hieu-minh-hon-101260623151213733.htm) - 05:06 28/06/2026
+- 🤓 [Phim của người trẻ tỏa sáng tại Liên hoan phim Sinh viên Nhân Văn năm 2026](https://muctim.tuoitre.vn/phim-cua-nguoi-tre-toa-sang-tai-lien-hoan-phim-sinh-vien-nhan-van-nam-2026-101260628090602294.htm) - 05:05 28/06/2026
+- 🎉 [Bảng xếp hạng chung cuộc vòng bảng World Cup 2026](https://muctim.tuoitre.vn/xep-hang-chung-cuoc-vong-bang-world-cup-2026-101260628120055631.htm) - 05:00 28/06/2026
+- 👨‍🏫 [15 lời chúc ý nghĩa nhân Ngày Gia đình Việt Nam 28-6](https://muctim.tuoitre.vn/15-loi-chuc-y-nghia-nhan-ngay-gia-dinh-viet-nam-28-6-101260628112958069.htm) - 04:36 28/06/2026
+- 🚦 [Hàn Quốc và Iran bị loại ở World Cup 2026](https://muctim.tuoitre.vn/han-quoc-va-iran-bi-loai-o-world-cup-2026-101260628111823088.htm) - 04:36 28/06/2026
+- 🤭 [World Cup 2026: Xác định 32 đội vào vòng knock-out](https://muctim.tuoitre.vn/world-cup-2026-xac-dinh-32-doi-vao-vong-knock-out-101260628110042437.htm) - 04:35 28/06/2026
+- 😺 [Bảng xếp hạng các đội hạng 3 World Cup 2026: Hàn Quốc, Iran bị loại](https://muctim.tuoitre.vn/bang-xep-hang-cac-doi-hang-3-world-cup-2026-han-quoc-iran-bi-loai-101260628113320574.htm) - 04:33 28/06/2026
+- 😎 [Anh trai và cái đuôi nhỏ tập 6: Gin Tuấn Kiệt trổ tài chăm “cái đuôi nhỏ” cực khéo](https://muctim.tuoitre.vn/anh-trai-va-cai-duoi-nho-tap-6-gin-tuan-kiet-tro-tai-cham-cai-duoi-nho-cuc-kheo-101260628022929577.htm) - 03:12 28/06/2026
+- 🐎 [Google ra mắt tính năng Study notebooks trên Gemini](https://muctim.tuoitre.vn/google-ra-mat-tinh-nang-study-notebooks-tren-gemini-101260627212914456.htm) - 03:03 28/06/2026
+- 🎓 [Ngày Gia đình Việt Nam 28-6: Nhà là nơi để con trở về](https://muctim.tuoitre.vn/ngay-gia-dinh-viet-nam-28-6-nha-la-noi-de-con-tro-ve-101260627123351596.htm) - 02:39 28/06/2026
+- 🐎 [Anh trai vượt ngàn chông gai 2026 chiêu đãi khán giả 17 tiết mục mãn nhãn](https://muctim.tuoitre.vn/anh-trai-vuot-ngan-chong-gai-2026-chieu-dai-khan-gia-17-tiet-muc-man-nhan-101260628020710075.htm) - 02:26 28/06/2026
+- 💃 [Kết quả bóng chuyền nam VNL 2026 ngày 27-6, lịch thi đấu 28-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nam-vnl-2026-ngay-27-6-lich-thi-dau-28-6-101260627231741936.htm) - 02:23 28/06/2026
+- 🪜 [Lịch thi đấu chung kết bóng chuyền nữ Princess Cup 2026](https://muctim.tuoitre.vn/lich-thi-dau-chung-ket-bong-chuyen-nu-princess-cup-2026-101260627234031935.htm) - 02:22 28/06/2026
+- 🎉 [Đội hình ra sân của Algeria và Áo: Ibrahim Maza đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-algeria-va-ao-ibrahim-maza-da-chinh-101260628075450075.htm) - 01:15 28/06/2026
+- 🥳 [Đội hình ra sân của Argentina và Jordan: Messi dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-argentina-va-jordan-messi-du-bi-101260628074658283.htm) - 01:15 28/06/2026
+- 🤓 [Algeria chia điểm với Áo trong trận đấu có 6 bàn thắng](https://muctim.tuoitre.vn/truc-tiep-algeria-dau-ao-hai-doi-chia-diem-101260627215755919.htm) - 00:00 28/06/2026
+- 🎉 [Đội hình ra sân của CHDC Congo và Uzbekistan](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-chdc-congo-va-uzbekistan-101260628053446018.htm) - 23:04 27/06/2026
+- 🥳 [Đội hình ra sân Bồ Đào Nha đấu Colombia: Ronaldo đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-bo-dao-nha-dau-colombia-ronaldo-da-chinh-101260628052447973.htm) - 23:03 27/06/2026
+- 🎡 [Messi vào sân ghi bàn, Argentina toàn thắng vòng bảng](https://muctim.tuoitre.vn/truc-tiep-argentina-dau-jordan-messi-tiep-tuc-toa-sang-101260627220252455.htm) - 23:00 27/06/2026
+- 👨‍🏫 [Đội hình ra sân của Croatia và Ghana: Luka Modric đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-croatia-va-ghana-luka-modric-da-chinh-101260628030827258.htm) - 20:11 27/06/2026
+- 🧠 [Đội hình ra sân của Anh và Panama: Harry Kane đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-anh-va-panama-harry-kane-da-chinh-101260628025923851.htm) - 20:05 27/06/2026
+- 🥷 [CHDC Congo thắng ngược Uzbekistan, giành vé vớt qua vòng bảng](https://muctim.tuoitre.vn/truc-tiep-chdc-congo-dau-uzbekistan-quyet-chien-gianh-co-hoi-di-tiep-101260627215217312.htm) - 16:49 27/06/2026
+- 🤔 [Bồ Đào Nha vất vả cầm chân Colombia](https://muctim.tuoitre.vn/truc-tiep-colombia-dau-bo-dao-nha-cho-ronaldo-toa-sang-101260627214732708.htm) - 16:49 27/06/2026
+- 🐎 [Croatia hạ Ghana, vượt qua vòng bảng World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-croatia-dau-ghana-dai-chien-gianh-ve-knock-out-10126062721433718.htm) - 16:48 27/06/2026
+- ⛽️ [Jude Bellingham ghi bàn và kiến tạo giúp Anh hạ Panama](https://muctim.tuoitre.vn/truc-tiep-tuyen-anh-dau-panama-3-diem-cho-harry-kane-va-dong-doi-10126062721373444.htm) - 16:32 27/06/2026
+- 🤡 [Học sinh Trường Trung học Thực hành Đại học Sư phạm đưa nghệ thuật Lân Sư Rồng lên không gian số](https://muctim.tuoitre.vn/hoc-sinh-truong-trung-hoc-thuc-hanh-dai-hoc-su-pham-dua-nghe-thuat-lan-su-rong-len-khong-gian-so-101260627181849341.htm) - 14:13 27/06/2026
+- 🌁 [Siêu máy tính dự đoán kết quả Uzbekistan đấu CHDC Congo tại World Cup 2026](https://muctim.tuoitre.vn/sieu-may-tinh-du-doan-ket-qua-uzbekistan-dau-chdc-congo-tai-world-cup-2026-101260627191731169.htm) - 14:11 27/06/2026
+- 🎓 [Croatia chạm trán Ghana: Chiến đấu cho tấm vé đi tiếp](https://muctim.tuoitre.vn/croatia-cham-tran-ghana-chien-dau-cho-tam-ve-di-tiep-101260627135416956.htm) - 14:08 27/06/2026
+- 🦍 [Anh đối đầu Panama: Đẳng cấp lên tiếng](https://muctim.tuoitre.vn/anh-doi-dau-panama-dang-cap-len-tieng-101260627113541114.htm) - 14:06 27/06/2026
+- 🤠 [Bồ Đào Nha đấu Colombia: Quyết chiến cho ngôi đầu](https://muctim.tuoitre.vn/bo-dao-nha-dau-colombia-quyet-chien-cho-ngoi-dau-10126062711123782.htm) - 14:03 27/06/2026
+- 🎬 [Tuyển bóng chuyền nữ U18 Việt Nam vào chung kết Princess Cup 2026](https://muctim.tuoitre.vn/tuyen-bong-chuyen-nu-u18-viet-nam-vao-chung-ket-princess-cup-2026-101260627153910956.htm) - 12:10 27/06/2026
+- 🌮 [The Tri Way lần đầu tiên trở thành tác giả sách](https://muctim.tuoitre.vn/the-tri-way-lan-dau-tien-tro-thanh-tac-gia-sach-101260627151144692.htm) - 12:09 27/06/2026
+- 👹 [Xem truyền hình trực tiếp chương trình &#39;Cùng ngày mai tỏa sáng - Vì cộng đồng không ma tuý&#39; trên kênh nào?](https://muctim.tuoitre.vn/xem-truyen-hinh-truc-tiep-chuong-trinh-cung-ngay-mai-toa-sang-vi-cong-dong-khong-ma-tuy-tren-kenh-nao-101260627173540013.htm) - 10:50 27/06/2026
+- 🤔 [UPRIZE phát hành album đầu tiên, các thành viên tham gia vào quá trình sản xuất](https://muctim.tuoitre.vn/uprize-phat-hanh-album-dau-tien-cac-thanh-vien-tham-gia-vao-qua-trinh-san-xuat-101260627151758814.htm) - 10:03 27/06/2026
+- 🏊 [Người mẫu nhí tỏa sáng tại sân chơi casting Gương mặt ảnh bìa ấn phẩm Nhi đồng TP.HCM](https://muctim.tuoitre.vn/nguoi-mau-nhi-toa-sang-tai-san-choi-casting-guong-mat-anh-bia-an-pham-nhi-dong-tphcm-101260627141612107.htm) - 07:42 27/06/2026
+- 📝 [Running Man Vietnam 2026 trở lại, đầy đủ đội hình mùa 3](https://muctim.tuoitre.vn/running-man-vietnam-2026-tro-lai-day-du-doi-hinh-mua-3-101260627141813734.htm) - 07:28 27/06/2026
+- 👺 [Bạn nhỏ hào hứng khám phá khoa học tại Hội sách thiếu nhi TP.HCM](https://muctim.tuoitre.vn/ban-nho-hao-hung-kham-pha-khoa-hoc-tai-hoi-sach-thieu-nhi-tphcm-101260627125431327.htm) - 07:02 27/06/2026
+- 👹 [World Cup 2026: Cuộc đua vào vòng knock-out dần ngã ngũ](https://muctim.tuoitre.vn/world-cup-2026-cuoc-dua-vao-vong-knock-out-dan-nga-ngu-101260627133402327.htm) - 06:50 27/06/2026
+- 🎊 [Messi dẫn đầu cuộc đua Chiếc giày vàng tại World Cup 2026](https://muctim.tuoitre.vn/messi-dan-dau-cuoc-dua-chiec-giay-vang-tai-world-cup-2026-101260627122854603.htm) - 05:34 27/06/2026
+- 👹 [Cập nhật các đội xếp hạng 3 World Cup 2026: Uruguay bị loại](https://muctim.tuoitre.vn/cap-nhat-cac-doi-xep-hang-3-world-cup-2026-uruguay-bi-loai-101260627094659097.htm) - 05:26 27/06/2026
+- 🎃 [Jordan đấu Argentina tại World Cup 2026: khó có bất ngờ](https://muctim.tuoitre.vn/jordan-dau-argentina-tai-world-cup-2026-kho-co-bat-ngo-10126062710320474.htm) - 04:08 27/06/2026
+- 🧑‍🏫 [Truyện ngắn Mực Tím: Khiêu vũ trên tầng thượng](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-khieu-vu-tren-tang-thuong-101260621095918468.htm) - 04:08 27/06/2026
+- 🎊 [Algeria đấu Áo tại World Cup 2026: tranh suất đi tiếp bảng J](https://muctim.tuoitre.vn/algeria-dau-ao-tai-world-cup-2026-tranh-suat-di-tiep-bang-j-101260627100421951.htm) - 04:07 27/06/2026
+- 📝 [Kết quả hội thi sáng tác văn học chủ đề Bay vào tương lai](https://muctim.tuoitre.vn/ket-qua-hoi-thi-sang-tac-van-hoc-chu-de-bay-vao-tuong-lai-101260627102749236.htm) - 03:51 27/06/2026
+- 🥳 [Cape Verde viết cổ tích ở kỳ World Cup đầu tiên tham dự](https://muctim.tuoitre.vn/cape-verde-viet-co-tich-o-ky-world-cup-dau-tien-tham-du-101260627093650374.htm) - 02:48 27/06/2026
+- 💻 [Đội hình ra sân của Bỉ và New Zealand: Lukaku dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-bi-va-new-zealand-lukaku-du-bi-101260627091115486.htm) - 02:12 27/06/2026
+- 😎 [Đội hình ra sân của Ai Cập và Iran: Salah đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-ai-cap-va-iran-salah-da-chinh-101260627090500768.htm) - 02:12 27/06/2026
+- 🤭 [Ai Cập và Iran chia điểm tại bảng G World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-ai-cap-iran-salah-va-dong-doi-duoc-danh-gia-cao-101260626185147974.htm) - 01:00 27/06/2026
+- 🤩 [Trossard lập cú đúp, Bỉ thắng đậm New Zealand để đứng đầu bảng G](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-bi-dau-new-zealand-101260626170750593.htm) - 01:00 27/06/2026
+- 🚀 [Đội hình ra sân của Saudi Arabia và Cape Verde](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-saudi-arabia-va-cape-verde-101260627061444163.htm) - 23:16 26/06/2026
+- 🕴 [Tối nay 27-6 diễn ra đêm thi bắn pháo hoa thứ 5 tại Đà Nẵng](https://muctim.tuoitre.vn/toi-nay-27-6-dien-ra-dem-thi-ban-phao-hoa-thu-5-tai-da-nang-101260626211408771.htm) - 22:57 26/06/2026
+- ⛽️ [Kết quả bóng chuyền nam VNL 2026 ngày 26-6, lịch thi đấu 27-6](https://muctim.tuoitre.vn/ket-qua-bong-chuyen-nam-vnl-2026-ngay-26-6-lich-thi-dau-27-6-101260626233452608.htm) - 22:55 26/06/2026
+- 🧐 [Đội hình xuất phát Tây Ban Nha đấu Uruguay: Lamine Yamal góp mặt](https://muctim.tuoitre.vn/doi-hinh-xuat-phat-tay-ban-nha-dau-uruguay-lamine-yamal-gop-mat-101260626234829736.htm) - 22:50 26/06/2026
+- 🦆 [Đội hình ra sân của Senegal và Iraq: Mane đá chính](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-senegal-va-iraq-mane-da-chinh-101260627010013516.htm) - 19:18 26/06/2026
+- 🤖 [Đội hình ra sân của Pháp và Na Uy: Mbappe đá chính, Haaland dự bị](https://muctim.tuoitre.vn/doi-hinh-ra-san-cua-phap-va-na-uy-mbappe-da-chinh-haaland-du-bi-101260627005232671.htm) - 19:18 26/06/2026
+- 💃 [Senegal thắng Iraq 5-0, vượt Hàn Quốc ở cuộc đua vé vớt](https://muctim.tuoitre.vn/truc-tiep-world-cup-2026-senegal-dau-iraq-thang-de-hy-vong-101260626162426351.htm) - 15:57 26/06/2026
+- 🚀 [Thắng tối thiểu Uruguay, Tây Ban Nha đi tiếp với ngôi nhất bảng H](https://muctim.tuoitre.vn/truc-tiep-uruguay-tay-ban-nha-bang-h-world-cup-2026-1012606262046207.htm) - 15:54 26/06/2026
+- 🦍 [Hoà Saudi Arabia, Cape Verde vượt qua vòng bảng World Cup 2026](https://muctim.tuoitre.vn/truc-tiep-saudi-arabia-cape-verde-dai-dien-chau-a-buoc-phai-thang-101260626184808579.htm) - 15:54 26/06/2026<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
