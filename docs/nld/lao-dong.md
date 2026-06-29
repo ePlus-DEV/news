@@ -4,53 +4,53 @@ sidebar_position: 4
 ---
 
 <!-- nld-lao-dong:START -->
-- 🔥 [Xử lý doanh nghiệp nợ BHXH gặp khó khăn](https://nld.com.vn/xu-ly-doanh-nghiep-no-bhxh-gap-kho-khan-196260626192903359.htm) - 12:54 26/06/2026
-- 📝 [Quán triệt Nghị quyết Đại hội XIV Công đoàn Viêt Nam đến cán bộ Công đoàn, người lao độngTPHCM](https://nld.com.vn/quan-triet-nghi-quyet-dai-hoi-xiv-cong-doan-viet-nam-den-can-bo-cong-doan-nguoi-lao-dongtphcm-196260626183602685.htm) - 11:53 26/06/2026
-- ⚗️ [5 tỉnh, thành nâng trợ cấp hưu trí, cao nhất 700.000 đồng/tháng](https://nld.com.vn/5-tinh-thanh-nang-tro-cap-huu-tri-cao-nhat-700000-dong-thang-196260625223552459.htm) - 22:31 25/06/2026
-- 🦅 [Lệch nhịp cung - cầu nhân lực](https://nld.com.vn/lech-nhip-cung-cau-nhan-luc-196260625205306487.htm) - 22:03 25/06/2026
-- 🧐 [Nâng cao khả năng thích ứng](https://nld.com.vn/nang-cao-kha-nang-thich-ung-196260625204444444.htm) - 20:08 25/06/2026
-- 🧑‍💻 [Thêm điểm tựa an sinh xã hội](https://nld.com.vn/them-diem-tua-an-sinh-xa-hoi-196260625204325802.htm) - 20:03 25/06/2026
-- 🧑‍🏫 [Tiếp sức học sinh và tri ân người lao động](https://nld.com.vn/tiep-suc-hoc-sinh-va-tri-an-nguoi-lao-dong-196260625142728454.htm) - 08:39 25/06/2026
-- 💯 [Sự nghiệp cần sức bền](https://nld.com.vn/su-nghiep-can-suc-ben-196260624213357589.htm) - 00:42 25/06/2026
-- ⚗️ [Tăng lương không chỉ là con số](https://nld.com.vn/tang-luong-khong-chi-la-con-so-196260624213641953.htm) - 23:01 24/06/2026
-- 🦅 [Đề xuất giảm tuổi hưởng trợ cấp hưu trí xã hội xuống 70](https://nld.com.vn/de-xuat-giam-tuoi-huong-tro-cap-huu-tri-xa-hoi-xuong-70-196260624221801211.htm) - 23:00 24/06/2026
-- 🔭 [Trang bị kiến thức xây dựng gia đình hạnh phúc cho đoàn viên - lao động](https://nld.com.vn/trang-bi-kien-thuc-xay-dung-gia-dinh-hanh-phuc-cho-doan-vien-lao-dong-19626062420021942.htm) - 13:19 24/06/2026
-- 🤗 [Tiền chậm đóng, trốn đóng BHXH vượt 14.880 tỉ đồng](https://nld.com.vn/tien-cham-dong-tron-dong-bhxh-vuot-14880-ti-dong-19626062409382253.htm) - 02:49 24/06/2026
-- 🌋 [Người Việt ở nước ngoài đóng BHXH tự nguyện từ 330.000 đồng/tháng](https://nld.com.vn/nguoi-viet-o-nuoc-ngoai-dong-bhxh-tu-nguyen-tu-330000-dong-thang-196260623200355588.htm) - 00:30 24/06/2026
-- 🪄 [Không chốt được sổ BHXH vì công ty nợ tiền, người lao động phải làm gì?](https://nld.com.vn/khong-chot-duoc-so-bhxh-vi-cong-ty-no-tien-nguoi-lao-dong-phai-lam-gi-196260623203018334.htm) - 00:00 24/06/2026
-- 🪄 [Đừng xem nhẹ bệnh nghề nghiệp](https://nld.com.vn/dung-xem-nhe-benh-nghe-nghiep-196260623202321717.htm) - 23:29 23/06/2026
-- 💼 [Đề xuất tăng lương tối thiểu vùng mức 9,8% hoặc 8,5%](https://nld.com.vn/de-xuat-tang-luong-toi-thieu-vung-muc-98-hoac-85-196260623204204209.htm) - 21:19 23/06/2026
-- 🤔 [Sáng tạo để nâng chất hoạt động trong bối cảnh mới](https://nld.com.vn/sang-tao-de-nang-chat-hoat-dong-trong-boi-canh-moi-196260623202608015.htm) - 20:27 23/06/2026
-- 🌝 [Xã Hóc Môn triển khai các mô hình không ma túy trong nhà trọ và doanh nghiệp](https://nld.com.vn/xa-hoc-mon-trien-khai-cac-mo-hinh-khong-ma-tuy-trong-nha-tro-va-doanh-nghiep-196260623205830643.htm) - 14:15 23/06/2026
-- 🌮 [Đề xuất 2 phương án tăng lương tối thiểu vùng từ ngày 1-1-2027](https://nld.com.vn/nong-cong-doan-de-xuat-2-phuong-an-tang-luong-toi-thieu-vung-tu-ngay-1-7-2027-19626062318070341.htm) - 11:15 23/06/2026
-- 👍 [Phường Khánh Hội: Đa dạng hoạt động đồng hành với đoàn viên - lao động](https://nld.com.vn/phuong-khanh-hoi-da-dang-hoat-dong-dong-hanh-voi-doan-vien-lao-dong-196260623163434337.htm) - 10:02 23/06/2026
-- 🏊 [Không chỉ là trách nhiệm](https://nld.com.vn/khong-chi-la-trach-nhiem-196260622210006944.htm) - 23:47 22/06/2026
-- 💂 [Cơ hội việc làm lương cao](https://nld.com.vn/co-hoi-viec-lam-luong-cao-19626062220591855.htm) - 22:48 22/06/2026
-- 👀 [An toàn lao động trước thách thức mới](https://nld.com.vn/an-toan-lao-dong-truoc-thach-thuc-moi-196260622210226286.htm) - 22:00 22/06/2026
-- 🌁 [Suy giảm khả năng lao động, điều kiện nào để hưởng lương hưu?](https://nld.com.vn/suy-giam-kha-nang-lao-dong-dieu-kien-nao-de-huong-luong-huu-196260619220436934.htm) - 01:00 22/06/2026
-- 💫 [Chi tiết lịch chi trả lương hưu, trợ cấp của 34 tỉnh, thành](https://nld.com.vn/chi-tiet-lich-chi-tra-luong-huu-tro-cap-cua-34-tinh-thanh-19626062021111573.htm) - 23:50 21/06/2026
-- ⛽️ [Gỡ nút thắt việc làm bền vững](https://nld.com.vn/go-nut-that-viec-lam-ben-vung-1962606212041091.htm) - 21:30 21/06/2026
-- 🎭 [Hơn 2.000 công nhân TPHCM được khám bệnh, hỗ trợ pháp lý miễn phí](https://nld.com.vn/hon-2000-cong-nhan-tphcm-duoc-kham-benh-ho-tro-phap-ly-mien-phi-196260621131434598.htm) - 07:39 21/06/2026
-- 🎊 [Ai được rút BHXH một lần năm 2026?](https://nld.com.vn/ai-duoc-rut-bhxh-mot-lan-nam-2026-196260620210518061.htm) - 01:14 21/06/2026
-- 🦣 [Lấp khoảng trống giữa đào tạo và tuyển dụng](https://nld.com.vn/lap-khoang-trong-giua-dao-tao-va-tuyen-dung-196260620184937964.htm) - 00:43 21/06/2026
-- 🧠 [BẢO HIỂM THẤT NGHIỆP: Một chính sách, hai giá trị](https://nld.com.vn/bao-hiem-that-nghiep-mot-chinh-sach-hai-gia-tri-196260620185536797.htm) - 00:16 21/06/2026
-- 🙉 [Đón đầu nhân lực cho kỷ nguyên số](https://nld.com.vn/don-dau-nhan-luc-cho-ky-nguyen-so-196260620184852575.htm) - 21:23 20/06/2026
-- 💃 [Khoảng cách giữa đào tạo - nhu cầu](https://nld.com.vn/khoang-cach-giua-dao-tao-nhu-cau-196260619211059103.htm) - 00:42 20/06/2026
-- 🔭 [Nghỉ không lương dài ngày, làm sao để không mất quyền lợi BHXH?](https://nld.com.vn/nghi-khong-luong-dai-ngay-lam-sao-de-khong-mat-quyen-loi-bhxh-196260619164338206.htm) - 23:09 19/06/2026
-- 🚀 [Gỡ vướng BHYT cho người dân](https://nld.com.vn/go-vuong-bhyt-cho-nguoi-dan-196260619210821438.htm) - 23:01 19/06/2026
-- 🎃 [Nhiều chính sách BHYT mới có hiệu lực từ ngày 1-7](https://nld.com.vn/nhieu-chinh-sach-bhyt-moi-co-hieu-luc-tu-ngay-1-7-196260619212117731.htm) - 19:07 19/06/2026
-- 🪄 [Hàng triệu người lao động được hỗ trợ trong 6 tháng đầu năm 2026](https://nld.com.vn/hang-trieu-nguoi-lao-dong-duoc-ho-tro-trong-6-thang-dau-nam-2026-196260619172441127.htm) - 10:47 19/06/2026
-- 🦍 [Thêm 3 Công đoàn cơ sở được thành lập tại phường Phú Thạnh](https://nld.com.vn/them-3-cong-doan-co-so-duoc-thanh-lap-tai-phuong-phu-thanh-196260619153402558.htm) - 09:01 19/06/2026
-- 🧑‍💻 [Nhiều thay đổi về chính sách BHYT có lợi cho người tham gia từ ngày 1-7](https://nld.com.vn/nhieu-thay-doi-ve-chinh-sach-bhyt-co-loi-cho-nguoi-tham-gia-tu-ngay-1-7-196260619151856521.htm) - 09:00 19/06/2026
-- 🪄 [Nhân viên y tế, giáo dục rối loạn lo âu đến 60,1%](https://nld.com.vn/nhan-vien-y-te-giao-duc-roi-loan-lo-au-den-601-196260619151535681.htm) - 08:49 19/06/2026
-- 🤠 [Lựa chọn công việc không nên chỉ dựa trên mức lương hiện tại, mà cần nhìn về cơ hội phát triển](https://nld.com.vn/lua-chon-cong-viec-khong-nen-chi-dua-tren-muc-luong-hien-tai-ma-can-nhin-ve-co-hoi-phat-trien-196260619101623171.htm) - 03:43 19/06/2026
-- 🦩 [Hơn 20.000 người có nguy cơ gián đoạn nhận lương hưu tháng 7](https://nld.com.vn/hon-20000-nguoi-co-nguy-co-gian-doan-nhan-luong-huu-thang-7-19626061907124635.htm) - 03:03 19/06/2026
-- 🙉 [Lan tỏa tinh thần cần cù, tận tụy](https://nld.com.vn/lan-toa-tinh-than-can-cu-tan-tuy-196260618191552459.htm) - 01:19 19/06/2026
-- 🥰 [Phạt nặng hành vi trốn đóng, trục lợi BHYT](https://nld.com.vn/phat-nang-hanh-vi-tron-dong-truc-loi-bhyt-196260618191323096.htm) - 00:00 19/06/2026
-- 👺 [Từ vườn cao su đến bằng khen của Thủ tướng](https://nld.com.vn/tu-vuon-cao-su-den-bang-khen-cua-thu-tuong-196260618191824584.htm) - 22:00 18/06/2026
-- 🤡 [Người hưởng lương hưu phải thông báo cho cơ quan BHXH khi chuyển nơi cư trú](https://nld.com.vn/nguoi-huong-luong-huu-phai-thong-bao-cho-co-quan-bhxh-khi-chuyen-noi-cu-tru-196260618203056271.htm) - 14:04 18/06/2026
-- 🌁 [Bộ Nội vụ nói gì về đề xuất thêm 2 ngày nghỉ lễ Quốc khánh 2-9?](https://nld.com.vn/bo-noi-vu-noi-gi-ve-de-xuat-them-2-ngay-nghi-le-quoc-khanh-2-9-196260618205830607.htm) - 13:58 18/06/2026
-- 🌝 [Quy định mới về BHYT sẽ có thay đổi lớn về mức hưởng và thủ tục](https://nld.com.vn/nhung-diem-moi-ve-bhyt-tu-1-7-2026-nguoi-dan-can-biet-196260618152620982.htm) - 08:35 18/06/2026
-- 👺 [Đề xuất tham gia bảo hiểm tai nạn lao động đối với người lao động đang hưởng chế độ hưu trí](https://nld.com.vn/de-xuat-tham-gia-bao-hiem-tai-nan-lao-dong-doi-voi-nguoi-lao-dong-dang-huong-che-do-huu-tri-196260618133355186.htm) - 07:18 18/06/2026
-- 🦅 [Nơi công nhân cảm nhận sự sẻ chia](https://nld.com.vn/noi-cong-nhan-cam-nhan-su-se-chia-196260617202626559.htm) - 00:52 18/06/2026
-- 👺 [Lá chắn tài chính của mọi nhà](https://nld.com.vn/la-chan-tai-chinh-cua-moi-nha-19626061720242999.htm) - 23:01 17/06/2026<!-- nld-lao-dong:END -->
+- 🔥 [Nhiều hoạt động ý nghĩa dành cho đoàn viên, lao động phường Tây Thạnh](https://nld.com.vn/nhieu-hoat-dong-y-nghia-danh-cho-doan-vien-lao-dong-phuong-tay-thanh-196260629093609222.htm) - 03:53 29/06/2026
+- 📝 [Đóng BHXH 17 năm, rút một lần hay bảo lưu có lợi hơn?](https://nld.com.vn/dong-bhxh-17-nam-rut-mot-lan-hay-bao-luu-co-loi-hon-196260629045149923.htm) - 01:30 29/06/2026
+- ⚗️ [Từ 1-7: Tăng lương cơ sở, lương hưu, trợ cấp BHXH](https://nld.com.vn/tu-1-7-tang-luong-co-so-luong-huu-tro-cap-bhxh-196260628100639085.htm) - 01:04 29/06/2026
+- 🦅 [Ba trụ cột, một mục tiêu](https://nld.com.vn/ba-tru-cot-mot-muc-tieu-196260628191958505.htm) - 21:30 28/06/2026
+- 🧐 [Giải bài toán lao động thiếu hụt kỹ năng](https://nld.com.vn/giai-bai-toan-lao-dong-thieu-hut-ky-nang-196260628192258605.htm) - 19:31 28/06/2026
+- 🧑‍💻 [Tuyến đường hoa dọc kênh tại xã Bình Lợi](https://nld.com.vn/tuyen-duong-hoa-doc-kenh-tai-xa-binh-loi-196260628165115947.htm) - 10:27 28/06/2026
+- 🧑‍🏫 [Công đoàn phường An Đông ra mắt 2 công trình ý nghĩa](https://nld.com.vn/cong-doan-phuong-an-dong-ra-mat-2-cong-trinh-y-nghia-196260628160245537.htm) - 09:44 28/06/2026
+- 💯 [77 gia đình tiêu biểu được tuyên dương tại Ngày hội Gia đình công nhân, viên chức, lao động](https://nld.com.vn/77-gia-dinh-tieu-bieu-duoc-tuyen-duong-tai-ngay-hoi-gia-dinh-cong-nhan-vien-chuc-lao-dong-196260628115910544.htm) - 05:29 28/06/2026
+- ⚗️ [Lương hưu tăng mạnh, người rút BHXH một lần giảm hơn 24%](https://nld.com.vn/luong-huu-tang-manh-nguoi-rut-bhxh-mot-lan-giam-hon-24-196260628093349739.htm) - 03:08 28/06/2026
+- 🦅 [SỔ TAY: Đơn giản, linh hoạt](https://nld.com.vn/so-tay-don-gian-linh-hoat-196260627204418218.htm) - 23:54 27/06/2026
+- 🔭 [Từ 1-7: Lương bác sĩ tăng, ai có thể nhận trên 20 triệu đồng/tháng?](https://nld.com.vn/tu-1-7-luong-bac-si-tang-ai-co-the-nhan-tren-20-trieu-dong-thang-196260627212424745.htm) - 23:16 27/06/2026
+- 🤗 [Không để lương hưu bị gián đoạn](https://nld.com.vn/khong-de-luong-huu-bi-gian-doan-19626062720430534.htm) - 21:54 27/06/2026
+- 🌋 [Sôi nổi Hội thao Công đoàn khối đại học, cao đẳng năm 2026](https://nld.com.vn/soi-noi-hoi-thao-cong-doan-khoi-dai-hoc-cao-dang-nam-2026-196260627185313437.htm) - 12:11 27/06/2026
+- 🪄 [Công đoàn Thanh Hóa làm tốt công tác chăm lo, bảo vệ lợi ích chính đáng cho người lao động](https://nld.com.vn/cong-doan-thanh-hoa-tham-lam-tot-cong-tac-cham-lo-bao-ve-loi-chinh-dang-cho-nguoi-lao-dong-196260627124225179.htm) - 05:51 27/06/2026
+- 🪄 [Đề xuất điều chỉnh cách tính thời gian đóng để hưởng lương hưu](https://nld.com.vn/de-xuat-dieu-chinh-cach-tinh-thoi-gian-dong-de-huong-luong-huu-196260626162113169.htm) - 00:27 27/06/2026
+- 💼 [Làn sóng AI buộc người trẻ phải thay đổi](https://nld.com.vn/lan-song-ai-buoc-nguoi-tre-phai-thay-doi-196260626213736295.htm) - 00:05 27/06/2026
+- 🤔 [Khi chăm lo đi vào thực chất](https://nld.com.vn/khi-cham-lo-di-vao-thuc-chat-196260626214338485.htm) - 23:06 26/06/2026
+- 🌝 [Hành động vì người lao động](https://nld.com.vn/hanh-dong-vi-nguoi-lao-dong-196260626213913637.htm) - 23:05 26/06/2026
+- 🌮 [Xử lý doanh nghiệp nợ BHXH gặp khó khăn](https://nld.com.vn/xu-ly-doanh-nghiep-no-bhxh-gap-kho-khan-196260626192903359.htm) - 12:54 26/06/2026
+- 👍 [Quán triệt Nghị quyết Đại hội XIV Công đoàn Viêt Nam đến cán bộ Công đoàn, người lao độngTPHCM](https://nld.com.vn/quan-triet-nghi-quyet-dai-hoi-xiv-cong-doan-viet-nam-den-can-bo-cong-doan-nguoi-lao-dongtphcm-196260626183602685.htm) - 11:53 26/06/2026
+- 🏊 [5 tỉnh, thành nâng trợ cấp hưu trí, cao nhất 700.000 đồng/tháng](https://nld.com.vn/5-tinh-thanh-nang-tro-cap-huu-tri-cao-nhat-700000-dong-thang-196260625223552459.htm) - 22:31 25/06/2026
+- 💂 [Lệch nhịp cung - cầu nhân lực](https://nld.com.vn/lech-nhip-cung-cau-nhan-luc-196260625205306487.htm) - 22:03 25/06/2026
+- 👀 [Nâng cao khả năng thích ứng](https://nld.com.vn/nang-cao-kha-nang-thich-ung-196260625204444444.htm) - 20:08 25/06/2026
+- 🌁 [Thêm điểm tựa an sinh xã hội](https://nld.com.vn/them-diem-tua-an-sinh-xa-hoi-196260625204325802.htm) - 20:03 25/06/2026
+- 💫 [Tiếp sức học sinh và tri ân người lao động](https://nld.com.vn/tiep-suc-hoc-sinh-va-tri-an-nguoi-lao-dong-196260625142728454.htm) - 08:39 25/06/2026
+- ⛽️ [Sự nghiệp cần sức bền](https://nld.com.vn/su-nghiep-can-suc-ben-196260624213357589.htm) - 00:42 25/06/2026
+- 🎭 [Tăng lương không chỉ là con số](https://nld.com.vn/tang-luong-khong-chi-la-con-so-196260624213641953.htm) - 23:01 24/06/2026
+- 🎊 [Đề xuất giảm tuổi hưởng trợ cấp hưu trí xã hội xuống 70](https://nld.com.vn/de-xuat-giam-tuoi-huong-tro-cap-huu-tri-xa-hoi-xuong-70-196260624221801211.htm) - 23:00 24/06/2026
+- 🦣 [Trang bị kiến thức xây dựng gia đình hạnh phúc cho đoàn viên - lao động](https://nld.com.vn/trang-bi-kien-thuc-xay-dung-gia-dinh-hanh-phuc-cho-doan-vien-lao-dong-19626062420021942.htm) - 13:19 24/06/2026
+- 🧠 [Tiền chậm đóng, trốn đóng BHXH vượt 14.880 tỉ đồng](https://nld.com.vn/tien-cham-dong-tron-dong-bhxh-vuot-14880-ti-dong-19626062409382253.htm) - 02:49 24/06/2026
+- 🙉 [Người Việt ở nước ngoài đóng BHXH tự nguyện từ 330.000 đồng/tháng](https://nld.com.vn/nguoi-viet-o-nuoc-ngoai-dong-bhxh-tu-nguyen-tu-330000-dong-thang-196260623200355588.htm) - 00:30 24/06/2026
+- 💃 [Không chốt được sổ BHXH vì công ty nợ tiền, người lao động phải làm gì?](https://nld.com.vn/khong-chot-duoc-so-bhxh-vi-cong-ty-no-tien-nguoi-lao-dong-phai-lam-gi-196260623203018334.htm) - 00:00 24/06/2026
+- 🔭 [Đừng xem nhẹ bệnh nghề nghiệp](https://nld.com.vn/dung-xem-nhe-benh-nghe-nghiep-196260623202321717.htm) - 23:29 23/06/2026
+- 🚀 [Đề xuất tăng lương tối thiểu vùng mức 9,8% hoặc 8,5%](https://nld.com.vn/de-xuat-tang-luong-toi-thieu-vung-muc-98-hoac-85-196260623204204209.htm) - 21:19 23/06/2026
+- 🎃 [Sáng tạo để nâng chất hoạt động trong bối cảnh mới](https://nld.com.vn/sang-tao-de-nang-chat-hoat-dong-trong-boi-canh-moi-196260623202608015.htm) - 20:27 23/06/2026
+- 🪄 [Xã Hóc Môn triển khai các mô hình không ma túy trong nhà trọ và doanh nghiệp](https://nld.com.vn/xa-hoc-mon-trien-khai-cac-mo-hinh-khong-ma-tuy-trong-nha-tro-va-doanh-nghiep-196260623205830643.htm) - 14:15 23/06/2026
+- 🦍 [Đề xuất 2 phương án tăng lương tối thiểu vùng từ ngày 1-1-2027](https://nld.com.vn/nong-cong-doan-de-xuat-2-phuong-an-tang-luong-toi-thieu-vung-tu-ngay-1-7-2027-19626062318070341.htm) - 11:15 23/06/2026
+- 🧑‍💻 [Phường Khánh Hội: Đa dạng hoạt động đồng hành với đoàn viên - lao động](https://nld.com.vn/phuong-khanh-hoi-da-dang-hoat-dong-dong-hanh-voi-doan-vien-lao-dong-196260623163434337.htm) - 10:02 23/06/2026
+- 🪄 [Không chỉ là trách nhiệm](https://nld.com.vn/khong-chi-la-trach-nhiem-196260622210006944.htm) - 23:47 22/06/2026
+- 🤠 [Cơ hội việc làm lương cao](https://nld.com.vn/co-hoi-viec-lam-luong-cao-19626062220591855.htm) - 22:48 22/06/2026
+- 🦩 [An toàn lao động trước thách thức mới](https://nld.com.vn/an-toan-lao-dong-truoc-thach-thuc-moi-196260622210226286.htm) - 22:00 22/06/2026
+- 🙉 [Suy giảm khả năng lao động, điều kiện nào để hưởng lương hưu?](https://nld.com.vn/suy-giam-kha-nang-lao-dong-dieu-kien-nao-de-huong-luong-huu-196260619220436934.htm) - 01:00 22/06/2026
+- 🥰 [Chi tiết lịch chi trả lương hưu, trợ cấp của 34 tỉnh, thành](https://nld.com.vn/chi-tiet-lich-chi-tra-luong-huu-tro-cap-cua-34-tinh-thanh-19626062021111573.htm) - 23:50 21/06/2026
+- 👺 [Gỡ nút thắt việc làm bền vững](https://nld.com.vn/go-nut-that-viec-lam-ben-vung-1962606212041091.htm) - 21:30 21/06/2026
+- 🤡 [Hơn 2.000 công nhân TPHCM được khám bệnh, hỗ trợ pháp lý miễn phí](https://nld.com.vn/hon-2000-cong-nhan-tphcm-duoc-kham-benh-ho-tro-phap-ly-mien-phi-196260621131434598.htm) - 07:39 21/06/2026
+- 🌁 [Ai được rút BHXH một lần năm 2026?](https://nld.com.vn/ai-duoc-rut-bhxh-mot-lan-nam-2026-196260620210518061.htm) - 01:14 21/06/2026
+- 🌝 [Lấp khoảng trống giữa đào tạo và tuyển dụng](https://nld.com.vn/lap-khoang-trong-giua-dao-tao-va-tuyen-dung-196260620184937964.htm) - 00:43 21/06/2026
+- 👺 [BẢO HIỂM THẤT NGHIỆP: Một chính sách, hai giá trị](https://nld.com.vn/bao-hiem-that-nghiep-mot-chinh-sach-hai-gia-tri-196260620185536797.htm) - 00:16 21/06/2026
+- 🦅 [Đón đầu nhân lực cho kỷ nguyên số](https://nld.com.vn/don-dau-nhan-luc-cho-ky-nguyen-so-196260620184852575.htm) - 21:23 20/06/2026
+- 👺 [Khoảng cách giữa đào tạo - nhu cầu](https://nld.com.vn/khoang-cach-giua-dao-tao-nhu-cau-196260619211059103.htm) - 00:42 20/06/2026<!-- nld-lao-dong:END -->
