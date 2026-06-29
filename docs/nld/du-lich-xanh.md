@@ -4,53 +4,53 @@ sidebar_position: 15
 ---
 
 <!-- nld-du-lich-xanh:START -->
-- 💻 [CLIP: Thưởng thức buffet sầu riêng ở Cần Thơ](https://nld.com.vn/clip-thuong-thuc-buffet-sau-rieng-o-can-tho-196260627103227589.htm) - 04:00 27/06/2026
-- 🌊 [Loạt quỹ đầu tư nước ngoài rót 255 triệu USD vào 1 hệ thống nghỉ dưỡng của Việt Nam](https://nld.com.vn/loat-quy-dau-tu-nuoc-ngoai-rot-255-trieu-usd-vao-1-he-thong-nghi-duong-cua-viet-nam-196260624152045039.htm) - 08:53 24/06/2026
-- 👹 [Festival Biển Khánh Hòa 2026 kỳ vọng đón 800.000 lượt khách](https://nld.com.vn/festival-bien-khanh-hoa-2026-ky-vong-don-800000-luot-khach-196260622144228811.htm) - 08:25 22/06/2026
-- 🚀 [Miệt vườn hút khách dịp hè](https://nld.com.vn/miet-vuon-hut-khach-dip-he-196260621203225454.htm) - 23:31 21/06/2026
-- 👀 [Tăng cường xử lý nạn trộm cắp, giữ an toàn cho du khách ở Nha Trang](https://nld.com.vn/tang-cuong-xu-ly-nan-trom-cap-giu-an-toan-cho-du-khach-o-nha-trang-196260620142155188.htm) - 08:03 20/06/2026
-- 💫 [50.000 combo kích cầu đưa Phú Quốc vào giai đoạn tăng trưởng mới](https://nld.com.vn/50000-combo-kich-cau-dua-phu-quoc-vao-giai-doan-tang-truong-moi-19626061917013654.htm) - 11:36 19/06/2026
-- 🥷 [Khởi tố 24 vụ án, 194 bị can trong đại án lừa đảo kỳ nghỉ du lịch trị giá 680 tỉ đồng](https://nld.com.vn/khoi-to-24-vu-an-194-bi-can-trong-dai-an-lua-dao-ky-nghi-du-lich-tri-gia-680-ti-dong-196260619091048424.htm) - 03:18 19/06/2026
-- 🌝 [TP HCM lần đầu tiên ra mắt vườn thú công nghệ khổng lồ Magical Zoo tại TTTM Gigamall](https://nld.com.vn/tp-hcm-lan-dau-tien-ra-mat-vuon-thu-cong-nghe-khong-lo-magical-zoo-tai-tttm-gigamall-196260619092050462.htm) - 02:25 19/06/2026
-- 🚀 [Gigaversal ra mắt siêu phẩm thực tế ảo “Đại chiến vùng băng tuyết” tại Gigamall](https://nld.com.vn/gigaversal-ra-mat-sieu-pham-thuc-te-ao-dai-chien-vung-bang-tuyet-tai-gigamall-196260618164702865.htm) - 09:53 18/06/2026
-- 💪 [Đẹp ngỡ ngàng đồng hoa sen lớn nhất Đà Nẵng, du khách thích thú đến check-in](https://nld.com.vn/dep-ngo-ngang-dong-hoa-sen-lon-nhat-da-nang-du-khach-thich-thu-den-check-in-196260618082059068.htm) - 01:20 18/06/2026
-- 🌁 [Gigaversal: Khám phá thế giới khủng long và vũ trụ 12D+ tại Gigamall](https://nld.com.vn/gigaversal-kham-pha-the-gioi-khung-long-va-vu-tru-12d-tai-gigamall-196260613230213577.htm) - 03:11 13/06/2026
-- 🪄 [Infinity World ra mắt cùng lúc 2 vũ trụ thị giác mới tại Gigamall](https://nld.com.vn/infinity-world-ra-mat-cung-luc-2-vu-tru-thi-giac-moi-tai-gigamall-196260612191438392.htm) - 12:30 12/06/2026
-- 🚀 [Du khách tới TPHCM mà chưa trải nghiệm đường sông là đáng tiếc](https://nld.com.vn/du-khach-toi-tphcm-ma-chua-trai-nghiem-duong-song-la-dang-tiec-196260611153832928.htm) - 10:42 11/06/2026
-- 🎃 [Khánh Hòa đón hơn 1.300 du khách quốc tế từ tàu biển Star Voyager](https://nld.com.vn/khanh-hoa-don-hon-1300-du-khach-quoc-te-tu-tau-bien-star-voyager-196260609095535666.htm) - 08:26 09/06/2026
-- 🤗 [&quot;Hòn ngọc&quot; ở Ấn Độ Dương muốn đón thêm nhiều khách du lịch từ Việt Nam](https://nld.com.vn/hon-ngoc-o-an-do-duong-muon-don-them-nhieu-khach-du-lich-tu-viet-nam-196260608155747917.htm) - 09:28 08/06/2026
-- 💼 [Từ rừng xanh đến vũ trụ công nghệ: Mùa hè kỳ thú đang chờ bạn tại Gigamall](https://nld.com.vn/tu-rung-xanh-den-vu-tru-cong-nghe-mua-he-ky-thu-dang-cho-ban-tai-gigamall-19626060718092351.htm) - 11:12 07/06/2026
-- 🔥 [Bản đồ Việt Nam được làm từ đặc sản của Đồng Tháp](https://nld.com.vn/ban-do-viet-nam-duoc-lam-tu-dac-san-cua-dong-thap-196260605184812115.htm) - 14:13 05/06/2026
-- 🔭 [Xu hướng nào sẽ định hình ngành ẩm thực trong tương lai?](https://nld.com.vn/xu-huong-nao-se-dinh-hinh-nganh-am-thuc-trong-tuong-lai-196260604171943671.htm) - 12:12 04/06/2026
-- 🚦 [Đặc sắc ngày hội truyền thống của đồng bào vùng cao Đà Nẵng](https://nld.com.vn/dac-sac-ngay-hoi-truyen-thong-cua-dong-bao-vung-cao-da-nang-196260604121845395.htm) - 06:23 04/06/2026
-- 🌊 [Ngàn nụ cười rạng rỡ tại &quot;thành phố lễ hội thu nhỏ&quot; Gigamall dịp Quốc tế thiếu nhi 1-6](https://nld.com.vn/ngan-nu-cuoi-rang-ro-tai-thanh-pho-le-hoi-thu-nho-gigamall-dip-quoc-te-thieu-nhi-1-6-196260601181006438.htm) - 11:34 01/06/2026
-- 🤔 [Saigontourist Group xúc tiến, quảng bá du lịch Việt Nam tại Thái Lan, Singapore và Philippines](https://nld.com.vn/saigontourist-group-xuc-tien-quang-ba-du-lich-viet-nam-tai-thai-lan-singapore-va-philippines-196260601172823478.htm) - 11:33 01/06/2026
-- 🤠 [Tây Ninh chưa thống nhất đề xuất nâng phí tham quan núi Bà Đen](https://nld.com.vn/tay-ninh-chua-thong-nhat-de-xuat-nang-phi-tham-quan-nui-ba-den-196260601142443656.htm) - 08:04 01/06/2026
-- 🐘 [CLIP: Khai mạc Lễ hội Trái cây Nam Bộ, hàng ngàn du khách đến Suối Tiên](https://nld.com.vn/clip-khai-mac-le-hoi-trai-cay-nam-bo-hang-ngan-du-khach-den-suoi-tien-196260531162724624.htm) - 10:08 31/05/2026
-- 🦒 [Bản giao hưởng của thành phố Ngọc lục bảo](https://nld.com.vn/ban-giao-huong-cua-thanh-pho-ngoc-luc-bao-196260530203840331.htm) - 01:31 31/05/2026
-- 👺 [Saigontourist Group đồng hành cùng Lễ hội Ẩm thực Chay - Huế 2026](https://nld.com.vn/saigontourist-group-dong-hanh-cung-le-hoi-am-thuc-chay-hue-2026-196260529190614537.htm) - 13:44 29/05/2026
-- 🎉 [Phát động Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TPHCM năm 2026](https://nld.com.vn/phat-dong-cuoc-thi-tim-hieu-nganh-nghe-nong-thon-va-bao-ve-moi-truong-nong-thon-tphcm-nam-2026-19626052917222863.htm) - 10:52 29/05/2026
-- 🌁 [Hơn 95% vé đêm mở màn lễ hội pháo hoa Đà Nẵng đã bán hết](https://nld.com.vn/hon-95-ve-dem-mo-man-le-hoi-phao-hoa-da-nang-da-ban-het-19626052916254528.htm) - 09:32 29/05/2026
-- 🤗 [Dịp 1-6 này, đưa bé &quot;bay xuyên kỷ Jura&quot; ngắm khủng long siêu thực tại Gigamall](https://nld.com.vn/dip-1-6-nay-dua-be-bay-xuyen-ky-jura-ngam-khung-long-sieu-thuc-tai-gigamall-196260528163757795.htm) - 10:45 28/05/2026
-- 🧑‍💻 [Tìm ý tưởng mới cho du lịch Hàm Rồng](https://nld.com.vn/tim-y-tuong-moi-cho-du-lich-ham-rong-196260526110716089.htm) - 07:38 26/05/2026
-- 🐵 [VIDEO: Hàng ngàn người cung rước tượng Phật ngọc mừng lễ Phật Đản tại TPHCM](https://nld.com.vn/video-hang-ngan-nguoi-cung-ruoc-tuong-phat-ngoc-mung-le-phat-dan-tai-tphcm-196260524222524765.htm) - 15:35 24/05/2026
-- 😺 [Du khách rủ nhau check-in tour &quot;độc lạ” giữa TP HCM](https://nld.com.vn/du-khach-ru-nhau-check-in-tour-doc-la-giua-tp-hcm-196260523174709565.htm) - 10:58 23/05/2026
-- 🌝 [Du lịch hè 2026 bắt đầu nóng](https://nld.com.vn/du-lich-he-2026-bat-dau-nong-196260522211910664.htm) - 00:02 23/05/2026
-- 🔭 [Hàng ngàn người trải nghiệm lễ hội Đà Nẵng Food](https://nld.com.vn/hang-ngan-nguoi-trai-nghiem-le-hoi-da-nang-food-196260522210117291.htm) - 15:04 22/05/2026
-- 💼 [Đà Nẵng khai mạc lễ hội ẩm thực quy mô lớn bên bãi biển](https://nld.com.vn/da-nang-khai-mac-le-hoi-am-thuc-quy-mo-lon-ben-bai-bien-196260521193810916.htm) - 13:49 21/05/2026
-- 💯 [Đà Nẵng công bố loạt dự án du lịch, nghỉ dưỡng kêu gọi đầu tư](https://nld.com.vn/da-nang-cong-bo-loat-du-an-du-lich-nghi-duong-keu-goi-dau-tu-196260521153615269.htm) - 08:55 21/05/2026
-- 🥰 [Đón Amazing Summer rực rỡ với chuỗi trải nghiệm công nghệ và mua sắm độc đáo tại Gigamall](https://nld.com.vn/don-amazing-summer-ruc-ro-voi-chuoi-trai-nghiem-cong-nghe-va-mua-sam-doc-dao-tai-gigamall-196260520172117571.htm) - 10:36 20/05/2026
-- 🤡 [&quot;Cung đường xanh&quot; giữa lòng Vũng Tàu](https://nld.com.vn/cung-duong-xanh-giua-long-vung-tau-196260518210157107.htm) - 00:35 19/05/2026
-- 🚀 [Tranh cãi chuyện mặc quần đùi, leo trèo chụp ảnh ở Núi Bà Đen](https://nld.com.vn/tranh-cai-chuyen-mac-quan-dui-leo-treo-chup-anh-o-nui-ba-den-196260518160632286.htm) - 09:50 18/05/2026
-- 🕯 [Đà Nẵng mở tour thưởng trà trên đỉnh Bàn Cờ](https://nld.com.vn/da-nang-mo-tour-thuong-tra-tren-dinh-ban-co-196260518151739675.htm) - 08:25 18/05/2026
-- 🦏 [VIDEO: Người dân TPHCM đổ xô trải nghiệm buffet sầu riêng cuối tuần](https://nld.com.vn/video-nguoi-dan-tphcm-do-xo-trai-nghiem-buffet-sau-rieng-cuoi-tuan-196260517230240408.htm) - 17:08 17/05/2026
-- 🌜 [Vì sao người dân gọi là &quot;Mẹ Nam Hải&quot; và &quot;Mẹ Đông Hải&quot;?](https://nld.com.vn/vi-sao-nguoi-dan-goi-la-me-nam-hai-va-me-dong-hai-196260513130144595.htm) - 09:08 17/05/2026
-- 😎 [VIDEO: Ngôi nhà cổ bằng gỗ lim độc đáo ở xứ Thanh](https://nld.com.vn/video-ngoi-nha-co-bang-go-lim-doc-dao-o-xu-thanh-196260516190556876.htm) - 02:32 17/05/2026
-- 💼 [Một ngày “đầy cảm hứng” với Hòn Cau](https://nld.com.vn/mot-ngay-day-cam-hung-voi-hon-cau-196260516154901163.htm) - 10:51 16/05/2026
-- 🧠 [Khai mạc Mùa du lịch Thái Nguyên: &quot;Hồ trên núi - Trà trong mây&quot;](https://nld.com.vn/khai-mac-mua-du-lich-thai-nguyen-ho-tren-nui-tra-trong-may-196260516111327435.htm) - 04:32 16/05/2026
-- 🎭 [Đưa Cần Giờ thành điểm đến toàn cầu](https://nld.com.vn/dua-can-gio-thanh-diem-den-toan-cau-196260515081617823.htm) - 01:39 15/05/2026
-- 💼 [Du lịch dịp hè bắt đầu sôi động](https://nld.com.vn/du-lich-dip-he-bat-dau-soi-dong-196260514213024716.htm) - 00:15 15/05/2026
-- 🧠 [Hội thảo “Cần Giờ - cực tăng trưởng mới của TP HCM”: ý nghĩa thiết thực](https://nld.com.vn/hoi-thao-can-gio-cuc-tang-truong-moi-cua-tp-hcm-y-nghia-thiet-thuc-196260514210835384.htm) - 14:25 14/05/2026
-- 🗽 [Nâng tầm Mũi Né](https://nld.com.vn/nang-tam-mui-ne-196260513201613772.htm) - 00:00 14/05/2026
-- 🎃 [Điều gì tạo sức hút cho Lễ hội Bánh mì Việt Nam 2026 ở TPHCM?](https://nld.com.vn/dieu-gi-tao-suc-hut-cho-le-hoi-banh-mi-viet-nam-2026-o-tphcm-19626051314503157.htm) - 09:05 13/05/2026
-- 🧰 [Cần Giờ - Điểm nhấn mới của du lịch TPHCM](https://nld.com.vn/can-gio-diem-nhan-moi-cua-du-lich-tphcm-196260512184023984.htm) - 12:39 12/05/2026<!-- nld-du-lich-xanh:END -->
+- 💻 [Gigamall ra mắt siêu phẩm thực tế ảo &quot;Bermuda Adventure - Chuyến tàu bí ẩn&quot;](https://nld.com.vn/gigamall-ra-mat-sieu-pham-thuc-te-ao-bermuda-adventure-chuyen-tau-bi-an-196260629173906768.htm) - 10:50 29/06/2026
+- 🌊 [CLIP: Thưởng thức buffet sầu riêng ở Cần Thơ](https://nld.com.vn/clip-thuong-thuc-buffet-sau-rieng-o-can-tho-196260627103227589.htm) - 04:00 27/06/2026
+- 👹 [Loạt quỹ đầu tư nước ngoài rót 255 triệu USD vào 1 hệ thống nghỉ dưỡng của Việt Nam](https://nld.com.vn/loat-quy-dau-tu-nuoc-ngoai-rot-255-trieu-usd-vao-1-he-thong-nghi-duong-cua-viet-nam-196260624152045039.htm) - 08:53 24/06/2026
+- 🚀 [Festival Biển Khánh Hòa 2026 kỳ vọng đón 800.000 lượt khách](https://nld.com.vn/festival-bien-khanh-hoa-2026-ky-vong-don-800000-luot-khach-196260622144228811.htm) - 08:25 22/06/2026
+- 👀 [Miệt vườn hút khách dịp hè](https://nld.com.vn/miet-vuon-hut-khach-dip-he-196260621203225454.htm) - 23:31 21/06/2026
+- 💫 [Tăng cường xử lý nạn trộm cắp, giữ an toàn cho du khách ở Nha Trang](https://nld.com.vn/tang-cuong-xu-ly-nan-trom-cap-giu-an-toan-cho-du-khach-o-nha-trang-196260620142155188.htm) - 08:03 20/06/2026
+- 🥷 [50.000 combo kích cầu đưa Phú Quốc vào giai đoạn tăng trưởng mới](https://nld.com.vn/50000-combo-kich-cau-dua-phu-quoc-vao-giai-doan-tang-truong-moi-19626061917013654.htm) - 11:36 19/06/2026
+- 🌝 [Khởi tố 24 vụ án, 194 bị can trong đại án lừa đảo kỳ nghỉ du lịch trị giá 680 tỉ đồng](https://nld.com.vn/khoi-to-24-vu-an-194-bi-can-trong-dai-an-lua-dao-ky-nghi-du-lich-tri-gia-680-ti-dong-196260619091048424.htm) - 03:18 19/06/2026
+- 🚀 [TP HCM lần đầu tiên ra mắt vườn thú công nghệ khổng lồ Magical Zoo tại TTTM Gigamall](https://nld.com.vn/tp-hcm-lan-dau-tien-ra-mat-vuon-thu-cong-nghe-khong-lo-magical-zoo-tai-tttm-gigamall-196260619092050462.htm) - 02:25 19/06/2026
+- 💪 [Gigaversal ra mắt siêu phẩm thực tế ảo “Đại chiến vùng băng tuyết” tại Gigamall](https://nld.com.vn/gigaversal-ra-mat-sieu-pham-thuc-te-ao-dai-chien-vung-bang-tuyet-tai-gigamall-196260618164702865.htm) - 09:53 18/06/2026
+- 🌁 [Đẹp ngỡ ngàng đồng hoa sen lớn nhất Đà Nẵng, du khách thích thú đến check-in](https://nld.com.vn/dep-ngo-ngang-dong-hoa-sen-lon-nhat-da-nang-du-khach-thich-thu-den-check-in-196260618082059068.htm) - 01:20 18/06/2026
+- 🪄 [Gigaversal: Khám phá thế giới khủng long và vũ trụ 12D+ tại Gigamall](https://nld.com.vn/gigaversal-kham-pha-the-gioi-khung-long-va-vu-tru-12d-tai-gigamall-196260613230213577.htm) - 03:11 13/06/2026
+- 🚀 [Infinity World ra mắt cùng lúc 2 vũ trụ thị giác mới tại Gigamall](https://nld.com.vn/infinity-world-ra-mat-cung-luc-2-vu-tru-thi-giac-moi-tai-gigamall-196260612191438392.htm) - 12:30 12/06/2026
+- 🎃 [Du khách tới TPHCM mà chưa trải nghiệm đường sông là đáng tiếc](https://nld.com.vn/du-khach-toi-tphcm-ma-chua-trai-nghiem-duong-song-la-dang-tiec-196260611153832928.htm) - 10:42 11/06/2026
+- 🤗 [Khánh Hòa đón hơn 1.300 du khách quốc tế từ tàu biển Star Voyager](https://nld.com.vn/khanh-hoa-don-hon-1300-du-khach-quoc-te-tu-tau-bien-star-voyager-196260609095535666.htm) - 08:26 09/06/2026
+- 💼 [&quot;Hòn ngọc&quot; ở Ấn Độ Dương muốn đón thêm nhiều khách du lịch từ Việt Nam](https://nld.com.vn/hon-ngoc-o-an-do-duong-muon-don-them-nhieu-khach-du-lich-tu-viet-nam-196260608155747917.htm) - 09:28 08/06/2026
+- 🔥 [Từ rừng xanh đến vũ trụ công nghệ: Mùa hè kỳ thú đang chờ bạn tại Gigamall](https://nld.com.vn/tu-rung-xanh-den-vu-tru-cong-nghe-mua-he-ky-thu-dang-cho-ban-tai-gigamall-19626060718092351.htm) - 11:12 07/06/2026
+- 🔭 [Bản đồ Việt Nam được làm từ đặc sản của Đồng Tháp](https://nld.com.vn/ban-do-viet-nam-duoc-lam-tu-dac-san-cua-dong-thap-196260605184812115.htm) - 14:13 05/06/2026
+- 🚦 [Xu hướng nào sẽ định hình ngành ẩm thực trong tương lai?](https://nld.com.vn/xu-huong-nao-se-dinh-hinh-nganh-am-thuc-trong-tuong-lai-196260604171943671.htm) - 12:12 04/06/2026
+- 🌊 [Đặc sắc ngày hội truyền thống của đồng bào vùng cao Đà Nẵng](https://nld.com.vn/dac-sac-ngay-hoi-truyen-thong-cua-dong-bao-vung-cao-da-nang-196260604121845395.htm) - 06:23 04/06/2026
+- 🤔 [Ngàn nụ cười rạng rỡ tại &quot;thành phố lễ hội thu nhỏ&quot; Gigamall dịp Quốc tế thiếu nhi 1-6](https://nld.com.vn/ngan-nu-cuoi-rang-ro-tai-thanh-pho-le-hoi-thu-nho-gigamall-dip-quoc-te-thieu-nhi-1-6-196260601181006438.htm) - 11:34 01/06/2026
+- 🤠 [Saigontourist Group xúc tiến, quảng bá du lịch Việt Nam tại Thái Lan, Singapore và Philippines](https://nld.com.vn/saigontourist-group-xuc-tien-quang-ba-du-lich-viet-nam-tai-thai-lan-singapore-va-philippines-196260601172823478.htm) - 11:33 01/06/2026
+- 🐘 [Tây Ninh chưa thống nhất đề xuất nâng phí tham quan núi Bà Đen](https://nld.com.vn/tay-ninh-chua-thong-nhat-de-xuat-nang-phi-tham-quan-nui-ba-den-196260601142443656.htm) - 08:04 01/06/2026
+- 🦒 [CLIP: Khai mạc Lễ hội Trái cây Nam Bộ, hàng ngàn du khách đến Suối Tiên](https://nld.com.vn/clip-khai-mac-le-hoi-trai-cay-nam-bo-hang-ngan-du-khach-den-suoi-tien-196260531162724624.htm) - 10:08 31/05/2026
+- 👺 [Bản giao hưởng của thành phố Ngọc lục bảo](https://nld.com.vn/ban-giao-huong-cua-thanh-pho-ngoc-luc-bao-196260530203840331.htm) - 01:31 31/05/2026
+- 🎉 [Saigontourist Group đồng hành cùng Lễ hội Ẩm thực Chay - Huế 2026](https://nld.com.vn/saigontourist-group-dong-hanh-cung-le-hoi-am-thuc-chay-hue-2026-196260529190614537.htm) - 13:44 29/05/2026
+- 🌁 [Phát động Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TPHCM năm 2026](https://nld.com.vn/phat-dong-cuoc-thi-tim-hieu-nganh-nghe-nong-thon-va-bao-ve-moi-truong-nong-thon-tphcm-nam-2026-19626052917222863.htm) - 10:52 29/05/2026
+- 🤗 [Hơn 95% vé đêm mở màn lễ hội pháo hoa Đà Nẵng đã bán hết](https://nld.com.vn/hon-95-ve-dem-mo-man-le-hoi-phao-hoa-da-nang-da-ban-het-19626052916254528.htm) - 09:32 29/05/2026
+- 🧑‍💻 [Dịp 1-6 này, đưa bé &quot;bay xuyên kỷ Jura&quot; ngắm khủng long siêu thực tại Gigamall](https://nld.com.vn/dip-1-6-nay-dua-be-bay-xuyen-ky-jura-ngam-khung-long-sieu-thuc-tai-gigamall-196260528163757795.htm) - 10:45 28/05/2026
+- 🐵 [Tìm ý tưởng mới cho du lịch Hàm Rồng](https://nld.com.vn/tim-y-tuong-moi-cho-du-lich-ham-rong-196260526110716089.htm) - 07:38 26/05/2026
+- 😺 [VIDEO: Hàng ngàn người cung rước tượng Phật ngọc mừng lễ Phật Đản tại TPHCM](https://nld.com.vn/video-hang-ngan-nguoi-cung-ruoc-tuong-phat-ngoc-mung-le-phat-dan-tai-tphcm-196260524222524765.htm) - 15:35 24/05/2026
+- 🌝 [Du khách rủ nhau check-in tour &quot;độc lạ” giữa TP HCM](https://nld.com.vn/du-khach-ru-nhau-check-in-tour-doc-la-giua-tp-hcm-196260523174709565.htm) - 10:58 23/05/2026
+- 🔭 [Du lịch hè 2026 bắt đầu nóng](https://nld.com.vn/du-lich-he-2026-bat-dau-nong-196260522211910664.htm) - 00:02 23/05/2026
+- 💼 [Hàng ngàn người trải nghiệm lễ hội Đà Nẵng Food](https://nld.com.vn/hang-ngan-nguoi-trai-nghiem-le-hoi-da-nang-food-196260522210117291.htm) - 15:04 22/05/2026
+- 💯 [Đà Nẵng khai mạc lễ hội ẩm thực quy mô lớn bên bãi biển](https://nld.com.vn/da-nang-khai-mac-le-hoi-am-thuc-quy-mo-lon-ben-bai-bien-196260521193810916.htm) - 13:49 21/05/2026
+- 🥰 [Đà Nẵng công bố loạt dự án du lịch, nghỉ dưỡng kêu gọi đầu tư](https://nld.com.vn/da-nang-cong-bo-loat-du-an-du-lich-nghi-duong-keu-goi-dau-tu-196260521153615269.htm) - 08:55 21/05/2026
+- 🤡 [Đón Amazing Summer rực rỡ với chuỗi trải nghiệm công nghệ và mua sắm độc đáo tại Gigamall](https://nld.com.vn/don-amazing-summer-ruc-ro-voi-chuoi-trai-nghiem-cong-nghe-va-mua-sam-doc-dao-tai-gigamall-196260520172117571.htm) - 10:36 20/05/2026
+- 🚀 [&quot;Cung đường xanh&quot; giữa lòng Vũng Tàu](https://nld.com.vn/cung-duong-xanh-giua-long-vung-tau-196260518210157107.htm) - 00:35 19/05/2026
+- 🕯 [Tranh cãi chuyện mặc quần đùi, leo trèo chụp ảnh ở Núi Bà Đen](https://nld.com.vn/tranh-cai-chuyen-mac-quan-dui-leo-treo-chup-anh-o-nui-ba-den-196260518160632286.htm) - 09:50 18/05/2026
+- 🦏 [Đà Nẵng mở tour thưởng trà trên đỉnh Bàn Cờ](https://nld.com.vn/da-nang-mo-tour-thuong-tra-tren-dinh-ban-co-196260518151739675.htm) - 08:25 18/05/2026
+- 🌜 [VIDEO: Người dân TPHCM đổ xô trải nghiệm buffet sầu riêng cuối tuần](https://nld.com.vn/video-nguoi-dan-tphcm-do-xo-trai-nghiem-buffet-sau-rieng-cuoi-tuan-196260517230240408.htm) - 17:08 17/05/2026
+- 😎 [Vì sao người dân gọi là &quot;Mẹ Nam Hải&quot; và &quot;Mẹ Đông Hải&quot;?](https://nld.com.vn/vi-sao-nguoi-dan-goi-la-me-nam-hai-va-me-dong-hai-196260513130144595.htm) - 09:08 17/05/2026
+- 💼 [VIDEO: Ngôi nhà cổ bằng gỗ lim độc đáo ở xứ Thanh](https://nld.com.vn/video-ngoi-nha-co-bang-go-lim-doc-dao-o-xu-thanh-196260516190556876.htm) - 02:32 17/05/2026
+- 🧠 [Một ngày “đầy cảm hứng” với Hòn Cau](https://nld.com.vn/mot-ngay-day-cam-hung-voi-hon-cau-196260516154901163.htm) - 10:51 16/05/2026
+- 🎭 [Khai mạc Mùa du lịch Thái Nguyên: &quot;Hồ trên núi - Trà trong mây&quot;](https://nld.com.vn/khai-mac-mua-du-lich-thai-nguyen-ho-tren-nui-tra-trong-may-196260516111327435.htm) - 04:32 16/05/2026
+- 💼 [Đưa Cần Giờ thành điểm đến toàn cầu](https://nld.com.vn/dua-can-gio-thanh-diem-den-toan-cau-196260515081617823.htm) - 01:39 15/05/2026
+- 🧠 [Du lịch dịp hè bắt đầu sôi động](https://nld.com.vn/du-lich-dip-he-bat-dau-soi-dong-196260514213024716.htm) - 00:15 15/05/2026
+- 🗽 [Hội thảo “Cần Giờ - cực tăng trưởng mới của TP HCM”: ý nghĩa thiết thực](https://nld.com.vn/hoi-thao-can-gio-cuc-tang-truong-moi-cua-tp-hcm-y-nghia-thiet-thuc-196260514210835384.htm) - 14:25 14/05/2026
+- 🎃 [Nâng tầm Mũi Né](https://nld.com.vn/nang-tam-mui-ne-196260513201613772.htm) - 00:00 14/05/2026
+- 🧰 [Điều gì tạo sức hút cho Lễ hội Bánh mì Việt Nam 2026 ở TPHCM?](https://nld.com.vn/dieu-gi-tao-suc-hut-cho-le-hoi-banh-mi-viet-nam-2026-o-tphcm-19626051314503157.htm) - 09:05 13/05/2026<!-- nld-du-lich-xanh:END -->
