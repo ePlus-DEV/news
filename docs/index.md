@@ -335,7 +335,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [Bảo vệ tài sản trí tuệ trong điện ảnh: Công nghệ mở đường, bản quyền là then chốt](https://www.sggp.org.vn/bao-ve-tai-san-tri-tue-trong-dien-anh-cong-nghe-mo-duong-ban-quyen-la-then-chot-post860012.html) - 13:56 30/06/2026
 - 🦩 [Vụ cháy 16 tàu cá ven đầm Thị Nại: Ngư dân đối mặt nhiều khó khăn](https://www.sggp.org.vn/vu-chay-16-tau-ca-ven-dam-thi-nai-ngu-dan-doi-mat-nhieu-kho-khan-post860011.html) - 13:55 30/06/2026
 - 🥰 [Bản tin tối 30-6: Có thể xuất hiện mưa lớn diện rộng do áp thấp nhiệt đới trên Biển Đông](https://www.sggp.org.vn/ban-tin-toi-30-6-co-the-xuat-hien-mua-lon-dien-rong-do-ap-thap-nhiet-doi-tren-bien-dong-post860021.html) - 13:30 30/06/2026
-- 🎬 [Chiến thắng lịch sử của Paraguay và Morocco được mọi người tôn trọng](https://www.sggp.org.vn/chien-thang-lich-su-cua-paraguay-va-morocco-duoc-moi-nguoi-ton-trong-post860013.html) - 13:27 30/06/2026
+- 🎬 [Chiến thắng lịch sử của Paraguay, Morocco được mọi người tôn trọng](https://www.sggp.org.vn/chien-thang-lich-su-cua-paraguay-morocco-duoc-moi-nguoi-ton-trong-post860013.html) - 13:27 30/06/2026
 - 🦩 [Thành lập Bộ phận nghiên cứu chuyên đề của Thủ tướng Chính phủ](https://www.sggp.org.vn/thanh-lap-bo-phan-nghien-cuu-chuyen-de-cua-thu-tuong-chinh-phu-post860010.html) - 13:21 30/06/2026
 - 🌮 [Tập đoàn UOB mong muốn mở rộng hoạt động tại TPHCM](https://www.sggp.org.vn/tap-doan-uob-mong-muon-mo-rong-hoat-dong-tai-tphcm-post860008.html) - 13:19 30/06/2026
 - 👍 [Áp thấp gần Philippines có khả năng mạnh lên khi vào Biển Đông](https://www.sggp.org.vn/ap-thap-gan-philippines-co-kha-nang-manh-len-khi-vao-bien-dong-post860007.html) - 12:59 30/06/2026
