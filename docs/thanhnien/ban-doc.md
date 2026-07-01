@@ -4,53 +4,53 @@ sidebar_position: 19
 ---
 
 <!-- thanhnien-ban-doc:START -->
-- 🗽 [Nửa tỉ đồng chắp c&amp;aacute;nh ước mơ cho t&amp;acirc;n sinh vi&amp;ecirc;n từ CLB Golf Quảng Ng&amp;atilde;i](https://thanhnien.vn/nua-ti-dong-chap-canh-uoc-mo-cho-tan-sinh-vien-tu-clb-golf-quang-ngai-185260626151440867.htm) - 08:36 26/06/2026
-- 🦣 [Chuyện tử tế: T&amp;igrave;nh người ở gian h&amp;agrave;ng quần &amp;aacute;o 0 đồng](https://thanhnien.vn/chuyen-tu-te-tinh-nguoi-o-gian-hang-quan-ao-0-dong-185260625182504706.htm) - 00:16 26/06/2026
-- 🎬 [Trụ đ&amp;egrave;n bị nghi&amp;ecirc;ng](https://thanhnien.vn/tru-den-bi-nghieng-185260624174113679.htm) - 23:27 24/06/2026
-- 🔥 [Người đ&amp;agrave;n &amp;ocirc;ng tho&amp;aacute;t cảnh t&amp;agrave;n phế nhờ bạn đọc B&amp;aacute;o Thanh Ni&amp;ecirc;n](https://thanhnien.vn/nguoi-dan-ong-thoat-canh-tan-phe-nho-ban-doc-bao-thanh-nien-185260624173708667.htm) - 23:27 24/06/2026
-- 🧰 [Ngư d&amp;acirc;n khốn khổ v&amp;igrave; cửa biển bị bồi lấp](https://thanhnien.vn/ngu-dan-khon-kho-vi-cua-bien-bi-boi-lap-185260623181324286.htm) - 07:42 24/06/2026
-- 🌈 [Vợ chồng khuyết tật nhọc nhằn lo chữa bệnh cho con](https://thanhnien.vn/vo-chong-khuyet-tat-nhoc-nhan-lo-chua-benh-cho-con-18526062217014929.htm) - 23:37 22/06/2026
-- 🦍 [C&amp;ocirc;ng tr&amp;igrave;nh sửa đường qu&amp;aacute; ngổn ngang, g&amp;acirc;y kh&amp;oacute; cho d&amp;acirc;n](https://thanhnien.vn/cong-trinh-sua-duong-qua-ngon-ngang-gay-kho-cho-dan-185260622165601468.htm) - 23:37 22/06/2026
-- 🤡 [Thế Giới Di Động d&amp;agrave;nh 1 tỉ đồng cho học sinh, sinh vi&amp;ecirc;n mồ c&amp;ocirc;i](https://thanhnien.vn/the-gioi-di-dong-danh-1-ti-dong-cho-hoc-sinh-sinh-vien-mo-coi-185260621223600594.htm) - 01:12 22/06/2026
-- 🎓 [Thế Giới Di Động d&amp;agrave;nh 1 tỉ đồng học bổng cho học sinh, sinh vi&amp;ecirc;n mồ c&amp;ocirc;i](https://thanhnien.vn/the-gioi-di-dong-danh-1-ti-dong-hoc-bong-cho-hoc-sinh-sinh-vien-mo-coi-185260620150213178.htm) - 09:14 20/06/2026
-- 🕴 [Khởi c&amp;ocirc;ng x&amp;acirc;y 5 căn nh&amp;agrave; &amp;#039;Nghĩa t&amp;igrave;nh bi&amp;ecirc;n giới Việt Nam - L&amp;agrave;o&amp;#039;](https://thanhnien.vn/khoi-cong-xay-5-can-nha-nghia-tinh-bien-gioi-viet-nam-lao-185260619080144689.htm) - 09:15 19/06/2026
-- 💼 [Chuyện nghề: C&amp;ugrave;ng thắp l&amp;ecirc;n ngọn lửa y&amp;ecirc;u thương](https://thanhnien.vn/chuyen-nghe-cung-thap-len-ngon-lua-yeu-thuong-185260618171552788.htm) - 00:32 19/06/2026
-- 🧑‍💻 [Bạn đọc ở qu&amp;ecirc; n&amp;oacute;i g&amp;igrave; về b&amp;aacute;o ch&amp;iacute;?](https://thanhnien.vn/ban-doc-o-que-noi-gi-ve-bao-chi-185260616160342621.htm) - 00:32 19/06/2026
-- 🐎 [Giải golf hướng về t&amp;acirc;n sinh vi&amp;ecirc;n c&amp;oacute; ho&amp;agrave;n cảnh kh&amp;oacute; khăn](https://thanhnien.vn/giai-golf-huong-ve-tan-sinh-vien-co-hoan-canh-kho-khan-185260618222049884.htm) - 00:31 19/06/2026
-- 🧠 [Chuyện nghề: Nghĩa cử &amp;acirc;m thầm của bạn đọc Thanh Ni&amp;ecirc;n](https://thanhnien.vn/chuyen-nghe-nghia-cu-am-tham-cua-ban-doc-thanh-nien-185260618172541578.htm) - 00:31 19/06/2026
-- 👹 [Người d&amp;acirc;n bức x&amp;uacute;c v&amp;igrave; bụi từ nh&amp;agrave; m&amp;aacute;y vi&amp;ecirc;n n&amp;eacute;n](https://thanhnien.vn/nguoi-dan-buc-xuc-vi-bui-tu-nha-may-vien-nen-185260617181851466.htm) - 01:18 18/06/2026
-- 😎 [Nguy cơ từ những h&amp;agrave;ng c&amp;acirc;y &amp;#039;chết đứng&amp;#039;](https://thanhnien.vn/nguy-co-tu-nhung-hang-cay-chet-dung-185260617181001683.htm) - 01:18 18/06/2026
-- 🕴 [Hai cha con 99 lần hiến m&amp;aacute;u cứu người](https://thanhnien.vn/hai-cha-con-99-lan-hien-mau-cuu-nguoi-185260616191152217.htm) - 23:05 16/06/2026
-- 🤡 [Nhiều miệng cống tho&amp;aacute;t nước bị r&amp;aacute;c thải b&amp;iacute;t k&amp;iacute;n](https://thanhnien.vn/nhieu-mieng-cong-thoat-nuoc-bi-rac-thai-bit-kin-185260616190652756.htm) - 23:05 16/06/2026
-- 🤠 [Những đoạn đường l&amp;ograve;ng chảo lu&amp;ocirc;n ngập nước](https://thanhnien.vn/nhung-doan-duong-long-chao-luon-ngap-nuoc-185260615162136971.htm) - 01:15 16/06/2026
-- 🌮 [Hai anh em bị bại liệt, ước mơ c&amp;oacute; xe lăn đến trường](https://thanhnien.vn/hai-anh-em-bi-bai-liet-uoc-mo-co-xe-lan-den-truong-18526061516160688.htm) - 01:15 16/06/2026
-- 🧰 [Nhếch nh&amp;aacute;c những b&amp;atilde;i r&amp;aacute;c tự ph&amp;aacute;t](https://thanhnien.vn/nhech-nhac-nhung-bai-rac-tu-phat-185260614174600513.htm) - 01:26 15/06/2026
-- 🧐 [B&amp;aacute;o Thanh Ni&amp;ecirc;n b&amp;agrave;n giao nh&amp;agrave; cho hộ d&amp;acirc;n đồng b&amp;agrave;o Khmer kh&amp;oacute; khăn](https://thanhnien.vn/bao-thanh-nien-ban-giao-nha-cho-ho-dan-dong-bao-khmer-kho-khan-185260614174339112.htm) - 01:26 15/06/2026
-- 🥰 [Đường l&amp;agrave;m nhiều năm vẫn dở dang](https://thanhnien.vn/duong-lam-nhieu-nam-van-do-dang-185260612210345972.htm) - 05:41 13/06/2026
-- 🐲 [T&amp;aacute;n c&amp;acirc;y che tầm nh&amp;igrave;n](https://thanhnien.vn/tan-cay-che-tam-nhin-185260611220457218.htm) - 00:00 12/06/2026
-- 🪄 [Đường xuống cấp, đi lại kh&amp;oacute; khăn](https://thanhnien.vn/duong-xuong-cap-di-lai-kho-khan-185260611220144089.htm) - 00:00 12/06/2026
-- 🎊 [Dự &amp;aacute;n bảo tồn ca tr&amp;ugrave; hơn 11 tỉ đồng &amp;ldquo;đắp chiếu&amp;rdquo;](https://thanhnien.vn/du-an-bao-ton-ca-tru-hon-11-ti-dong-dap-chieu-185260611212552529.htm) - 23:59 11/06/2026
-- 🪜 [Tấm l&amp;ograve;ng của nh&amp;agrave; bảo trợ d&amp;agrave;nh cho trẻ mồ c&amp;ocirc;i dự thi tốt nghiệp THPT](https://thanhnien.vn/tam-long-cua-nha-bao-tro-danh-cho-tre-mo-coi-du-thi-tot-nghiep-thpt-185260611112342314.htm) - 06:56 11/06/2026
-- 🔭 [Chuyện tử tế: Hơn 20 năm dạy nghề miễn ph&amp;iacute; cho người khiếm th&amp;iacute;nh](https://thanhnien.vn/chuyen-tu-te-hon-20-nam-day-nghe-mien-phi-cho-nguoi-khiem-thinh-18526060920255062.htm) - 01:11 10/06/2026
-- 😎 [&amp;#039;Điểm n&amp;oacute;ng&amp;#039; lấn chiếm vỉa h&amp;egrave;, l&amp;ograve;ng đường](https://thanhnien.vn/diem-nong-lan-chiem-via-he-long-duong-185260609202135496.htm) - 01:11 10/06/2026
-- 🫣 [Kỹ sư trẻ mắc bệnh hiếm cần được hỗ trợ](https://thanhnien.vn/ky-su-tre-mac-benh-hiem-can-duoc-ho-tro-18526060821240172.htm) - 00:20 09/06/2026
-- 🤗 [Nguy cơ sạt lở n&amp;uacute;i H&amp;ograve;n Ch&amp;agrave; uy hiếp khu d&amp;acirc;n cư](https://thanhnien.vn/nguy-co-sat-lo-nui-hon-cha-uy-hiep-khu-dan-cu-185260605194059193.htm) - 23:05 07/06/2026
-- 👨‍🏫 [Ng&amp;agrave;y vui của trẻ mồ c&amp;ocirc;i](https://thanhnien.vn/ngay-vui-cua-tre-mo-coi-185260607195053917.htm) - 23:04 07/06/2026
-- 🌝 [Trẻ mồ c&amp;ocirc;i do Covid-19 ấm l&amp;ograve;ng, vui tươi trong ng&amp;agrave;y hội sức khỏe](https://thanhnien.vn/tre-mo-coi-do-covid-19-am-long-vui-tuoi-trong-ngay-hoi-suc-khoe-185260606203539823.htm) - 14:12 06/06/2026
-- 🐘 [Nh&amp;agrave; chờ xe bu&amp;yacute;t nằm giữa đường](https://thanhnien.vn/nha-cho-xe-buyt-nam-giua-duong-185260604211426482.htm) - 23:56 04/06/2026
-- 🦒 [&amp;#039;Ổ g&amp;agrave;&amp;#039; th&amp;agrave;nh hố s&amp;acirc;u, d&amp;acirc;n đi lại nguy hiểm](https://thanhnien.vn/o-ga-thanh-ho-sau-dan-di-lai-nguy-hiem-185260603181835408.htm) - 23:56 04/06/2026
-- 🦅 [Trụ đ&amp;egrave;n bị nghi&amp;ecirc;ng](https://thanhnien.vn/tru-den-bi-nghieng-185260604211900427.htm) - 23:55 04/06/2026
-- 🎃 [B&amp;aacute;o Thanh Ni&amp;ecirc;n b&amp;agrave;n giao nh&amp;agrave; tặng cựu chiến binh](https://thanhnien.vn/bao-thanh-nien-ban-giao-nha-tang-cuu-chien-binh-185260604203623274.htm) - 23:55 04/06/2026
-- 👹 [Quỹ từ thiện Tr&amp;uacute;c Thanh bảo trợ nữ sinh mồ c&amp;ocirc;i kh&amp;oacute;c b&amp;ecirc;n di ảnh cha](https://thanhnien.vn/quy-tu-thien-truc-thanh-bao-tro-nu-sinh-mo-coi-khoc-ben-di-anh-cha-185260603181127815.htm) - 02:00 04/06/2026
-- 🌏 [Chuyện tử tế: Hơn 30 năm chữa bệnh miễn ph&amp;iacute;](https://thanhnien.vn/chuyen-tu-te-hon-30-nam-chua-benh-mien-phi-185260602195117736.htm) - 23:51 02/06/2026
-- 🦣 [K&amp;ecirc;nh tắc nghẽn v&amp;igrave; lục b&amp;igrave;nh v&amp;agrave; cỏ dại](https://thanhnien.vn/kenh-tac-nghen-vi-luc-binh-va-co-dai-185260602194712024.htm) - 23:51 02/06/2026
-- 🚦 [Đường hư hỏng nặng, cần sửa chữa](https://thanhnien.vn/duong-hu-hong-nang-can-sua-chua-185260601211649614.htm) - 00:08 02/06/2026
-- 🚀 [Từ phản &amp;aacute;nh bạn đọc: B&amp;atilde;i r&amp;aacute;c tr&amp;agrave;n lan b&amp;ecirc;n đường](https://thanhnien.vn/tu-phan-anh-ban-doc-bai-rac-tran-lan-ben-duong-185260601212005415.htm) - 00:07 02/06/2026
-- 🌜 [Xin gi&amp;uacute;p một học sinh ngh&amp;egrave;o trị bệnh để tiếp tục đến trường](https://thanhnien.vn/xin-giup-mot-hoc-sinh-ngheo-tri-benh-de-tiep-tuc-den-truong-185260601211427411.htm) - 00:07 02/06/2026
-- 🫶 [Đổ r&amp;aacute;c dưới biển cấm](https://thanhnien.vn/do-rac-duoi-bien-cam-185260529195509346.htm) - 23:06 01/06/2026
-- 🤠 [Mua đất tiền tỉ nhưng phải k&amp;eacute;o điện tạm, d&amp;ugrave;ng nước k&amp;eacute;](https://thanhnien.vn/mua-dat-tien-ti-nhung-phai-keo-dien-tam-dung-nuoc-ke-185260529194730561.htm) - 23:05 01/06/2026
-- 🎃 [C&amp;acirc;y chết kh&amp;ocirc;](https://thanhnien.vn/cay-chet-kho-185260529195847869.htm) - 22:16 31/05/2026
-- 🤠 [Đường ngập nước, ngổn ngang do thi c&amp;ocirc;ng](https://thanhnien.vn/duong-ngap-nuoc-ngon-ngang-do-thi-cong-185260531164841038.htm) - 22:15 31/05/2026
-- 🥳 [Xe ben l&amp;agrave;m rơi đất đ&amp;aacute; xuống đường](https://thanhnien.vn/xe-ben-lam-roi-dat-da-xuong-duong-18526053116450611.htm) - 22:15 31/05/2026
-- 🧠 [Người d&amp;acirc;n x&amp;oacute;m nhỏ Cần Thơ mong mỏi c&amp;acirc;y cầu mới](https://thanhnien.vn/nguoi-dan-xom-nho-can-tho-mong-moi-cay-cau-moi-185260531164114111.htm) - 22:15 31/05/2026
-- 👨‍🏫 [Mang qu&amp;agrave; Tết thiếu nhi đến với trẻ mồ c&amp;ocirc;i do Covid-19](https://thanhnien.vn/mang-qua-tet-thieu-nhi-den-voi-tre-mo-coi-do-covid-19-18526053116561522.htm) - 22:14 31/05/2026<!-- thanhnien-ban-doc:END -->
+- 🗽 [Đi qua th&amp;aacute;ng ng&amp;agrave;y khốn kh&amp;oacute;](https://thanhnien.vn/di-qua-thang-ngay-khon-kho-185260630160450683.htm) - 00:10 01/07/2026
+- 🦣 [Ba mẹ c&amp;ugrave;ng l&amp;acirc;m bệnh, nữ sinh vi&amp;ecirc;n 18 tuổi vất vả lo viện ph&amp;iacute;](https://thanhnien.vn/ba-me-cung-lam-benh-nu-sinh-vien-18-tuoi-vat-va-lo-vien-phi-185260629185848794.htm) - 22:18 29/06/2026
+- 🎬 [Trụ sắt trước đường hầm chui bị đổ](https://thanhnien.vn/tru-sat-truoc-duong-ham-chui-bi-do-185260628190504132.htm) - 01:02 29/06/2026
+- 🔥 [R&amp;aacute;c bủa v&amp;acirc;y nh&amp;agrave; chờ xe bu&amp;yacute;t](https://thanhnien.vn/rac-bua-vay-nha-cho-xe-buyt-185260628185748197.htm) - 01:02 29/06/2026
+- 🧰 [Chuyện tử tế: Qu&amp;aacute;n cơm 0 đồng v&amp;agrave; tấm l&amp;ograve;ng của vị linh mục](https://thanhnien.vn/chuyen-tu-te-quan-com-0-dong-va-tam-long-cua-vi-linh-muc-185260628185458092.htm) - 01:01 29/06/2026
+- 🌈 [Nửa tỉ đồng chắp c&amp;aacute;nh ước mơ cho t&amp;acirc;n sinh vi&amp;ecirc;n từ CLB Golf Quảng Ng&amp;atilde;i](https://thanhnien.vn/nua-ti-dong-chap-canh-uoc-mo-cho-tan-sinh-vien-tu-clb-golf-quang-ngai-185260626151440867.htm) - 08:36 26/06/2026
+- 🦍 [Chuyện tử tế: T&amp;igrave;nh người ở gian h&amp;agrave;ng quần &amp;aacute;o 0 đồng](https://thanhnien.vn/chuyen-tu-te-tinh-nguoi-o-gian-hang-quan-ao-0-dong-185260625182504706.htm) - 00:16 26/06/2026
+- 🤡 [Trụ đ&amp;egrave;n bị nghi&amp;ecirc;ng](https://thanhnien.vn/tru-den-bi-nghieng-185260624174113679.htm) - 23:27 24/06/2026
+- 🎓 [Người đ&amp;agrave;n &amp;ocirc;ng tho&amp;aacute;t cảnh t&amp;agrave;n phế nhờ bạn đọc B&amp;aacute;o Thanh Ni&amp;ecirc;n](https://thanhnien.vn/nguoi-dan-ong-thoat-canh-tan-phe-nho-ban-doc-bao-thanh-nien-185260624173708667.htm) - 23:27 24/06/2026
+- 🕴 [Ngư d&amp;acirc;n khốn khổ v&amp;igrave; cửa biển bị bồi lấp](https://thanhnien.vn/ngu-dan-khon-kho-vi-cua-bien-bi-boi-lap-185260623181324286.htm) - 07:42 24/06/2026
+- 💼 [Vợ chồng khuyết tật nhọc nhằn lo chữa bệnh cho con](https://thanhnien.vn/vo-chong-khuyet-tat-nhoc-nhan-lo-chua-benh-cho-con-18526062217014929.htm) - 23:37 22/06/2026
+- 🧑‍💻 [C&amp;ocirc;ng tr&amp;igrave;nh sửa đường qu&amp;aacute; ngổn ngang, g&amp;acirc;y kh&amp;oacute; cho d&amp;acirc;n](https://thanhnien.vn/cong-trinh-sua-duong-qua-ngon-ngang-gay-kho-cho-dan-185260622165601468.htm) - 23:37 22/06/2026
+- 🐎 [Thế Giới Di Động d&amp;agrave;nh 1 tỉ đồng cho học sinh, sinh vi&amp;ecirc;n mồ c&amp;ocirc;i](https://thanhnien.vn/the-gioi-di-dong-danh-1-ti-dong-cho-hoc-sinh-sinh-vien-mo-coi-185260621223600594.htm) - 01:12 22/06/2026
+- 🧠 [Thế Giới Di Động d&amp;agrave;nh 1 tỉ đồng học bổng cho học sinh, sinh vi&amp;ecirc;n mồ c&amp;ocirc;i](https://thanhnien.vn/the-gioi-di-dong-danh-1-ti-dong-hoc-bong-cho-hoc-sinh-sinh-vien-mo-coi-185260620150213178.htm) - 09:14 20/06/2026
+- 👹 [Khởi c&amp;ocirc;ng x&amp;acirc;y 5 căn nh&amp;agrave; &amp;#039;Nghĩa t&amp;igrave;nh bi&amp;ecirc;n giới Việt Nam - L&amp;agrave;o&amp;#039;](https://thanhnien.vn/khoi-cong-xay-5-can-nha-nghia-tinh-bien-gioi-viet-nam-lao-185260619080144689.htm) - 09:15 19/06/2026
+- 😎 [Chuyện nghề: C&amp;ugrave;ng thắp l&amp;ecirc;n ngọn lửa y&amp;ecirc;u thương](https://thanhnien.vn/chuyen-nghe-cung-thap-len-ngon-lua-yeu-thuong-185260618171552788.htm) - 00:32 19/06/2026
+- 🕴 [Bạn đọc ở qu&amp;ecirc; n&amp;oacute;i g&amp;igrave; về b&amp;aacute;o ch&amp;iacute;?](https://thanhnien.vn/ban-doc-o-que-noi-gi-ve-bao-chi-185260616160342621.htm) - 00:32 19/06/2026
+- 🤡 [Giải golf hướng về t&amp;acirc;n sinh vi&amp;ecirc;n c&amp;oacute; ho&amp;agrave;n cảnh kh&amp;oacute; khăn](https://thanhnien.vn/giai-golf-huong-ve-tan-sinh-vien-co-hoan-canh-kho-khan-185260618222049884.htm) - 00:31 19/06/2026
+- 🤠 [Chuyện nghề: Nghĩa cử &amp;acirc;m thầm của bạn đọc Thanh Ni&amp;ecirc;n](https://thanhnien.vn/chuyen-nghe-nghia-cu-am-tham-cua-ban-doc-thanh-nien-185260618172541578.htm) - 00:31 19/06/2026
+- 🌮 [Người d&amp;acirc;n bức x&amp;uacute;c v&amp;igrave; bụi từ nh&amp;agrave; m&amp;aacute;y vi&amp;ecirc;n n&amp;eacute;n](https://thanhnien.vn/nguoi-dan-buc-xuc-vi-bui-tu-nha-may-vien-nen-185260617181851466.htm) - 01:18 18/06/2026
+- 🧰 [Nguy cơ từ những h&amp;agrave;ng c&amp;acirc;y &amp;#039;chết đứng&amp;#039;](https://thanhnien.vn/nguy-co-tu-nhung-hang-cay-chet-dung-185260617181001683.htm) - 01:18 18/06/2026
+- 🧐 [Hai cha con 99 lần hiến m&amp;aacute;u cứu người](https://thanhnien.vn/hai-cha-con-99-lan-hien-mau-cuu-nguoi-185260616191152217.htm) - 23:05 16/06/2026
+- 🥰 [Nhiều miệng cống tho&amp;aacute;t nước bị r&amp;aacute;c thải b&amp;iacute;t k&amp;iacute;n](https://thanhnien.vn/nhieu-mieng-cong-thoat-nuoc-bi-rac-thai-bit-kin-185260616190652756.htm) - 23:05 16/06/2026
+- 🐲 [Những đoạn đường l&amp;ograve;ng chảo lu&amp;ocirc;n ngập nước](https://thanhnien.vn/nhung-doan-duong-long-chao-luon-ngap-nuoc-185260615162136971.htm) - 01:15 16/06/2026
+- 🪄 [Hai anh em bị bại liệt, ước mơ c&amp;oacute; xe lăn đến trường](https://thanhnien.vn/hai-anh-em-bi-bai-liet-uoc-mo-co-xe-lan-den-truong-18526061516160688.htm) - 01:15 16/06/2026
+- 🎊 [Nhếch nh&amp;aacute;c những b&amp;atilde;i r&amp;aacute;c tự ph&amp;aacute;t](https://thanhnien.vn/nhech-nhac-nhung-bai-rac-tu-phat-185260614174600513.htm) - 01:26 15/06/2026
+- 🪜 [B&amp;aacute;o Thanh Ni&amp;ecirc;n b&amp;agrave;n giao nh&amp;agrave; cho hộ d&amp;acirc;n đồng b&amp;agrave;o Khmer kh&amp;oacute; khăn](https://thanhnien.vn/bao-thanh-nien-ban-giao-nha-cho-ho-dan-dong-bao-khmer-kho-khan-185260614174339112.htm) - 01:26 15/06/2026
+- 🔭 [Đường l&amp;agrave;m nhiều năm vẫn dở dang](https://thanhnien.vn/duong-lam-nhieu-nam-van-do-dang-185260612210345972.htm) - 05:41 13/06/2026
+- 😎 [T&amp;aacute;n c&amp;acirc;y che tầm nh&amp;igrave;n](https://thanhnien.vn/tan-cay-che-tam-nhin-185260611220457218.htm) - 00:00 12/06/2026
+- 🫣 [Đường xuống cấp, đi lại kh&amp;oacute; khăn](https://thanhnien.vn/duong-xuong-cap-di-lai-kho-khan-185260611220144089.htm) - 00:00 12/06/2026
+- 🤗 [Dự &amp;aacute;n bảo tồn ca tr&amp;ugrave; hơn 11 tỉ đồng &amp;ldquo;đắp chiếu&amp;rdquo;](https://thanhnien.vn/du-an-bao-ton-ca-tru-hon-11-ti-dong-dap-chieu-185260611212552529.htm) - 23:59 11/06/2026
+- 👨‍🏫 [Tấm l&amp;ograve;ng của nh&amp;agrave; bảo trợ d&amp;agrave;nh cho trẻ mồ c&amp;ocirc;i dự thi tốt nghiệp THPT](https://thanhnien.vn/tam-long-cua-nha-bao-tro-danh-cho-tre-mo-coi-du-thi-tot-nghiep-thpt-185260611112342314.htm) - 06:56 11/06/2026
+- 🌝 [Chuyện tử tế: Hơn 20 năm dạy nghề miễn ph&amp;iacute; cho người khiếm th&amp;iacute;nh](https://thanhnien.vn/chuyen-tu-te-hon-20-nam-day-nghe-mien-phi-cho-nguoi-khiem-thinh-18526060920255062.htm) - 01:11 10/06/2026
+- 🐘 [&amp;#039;Điểm n&amp;oacute;ng&amp;#039; lấn chiếm vỉa h&amp;egrave;, l&amp;ograve;ng đường](https://thanhnien.vn/diem-nong-lan-chiem-via-he-long-duong-185260609202135496.htm) - 01:11 10/06/2026
+- 🦒 [Kỹ sư trẻ mắc bệnh hiếm cần được hỗ trợ](https://thanhnien.vn/ky-su-tre-mac-benh-hiem-can-duoc-ho-tro-18526060821240172.htm) - 00:20 09/06/2026
+- 🦅 [Nguy cơ sạt lở n&amp;uacute;i H&amp;ograve;n Ch&amp;agrave; uy hiếp khu d&amp;acirc;n cư](https://thanhnien.vn/nguy-co-sat-lo-nui-hon-cha-uy-hiep-khu-dan-cu-185260605194059193.htm) - 23:05 07/06/2026
+- 🎃 [Ng&amp;agrave;y vui của trẻ mồ c&amp;ocirc;i](https://thanhnien.vn/ngay-vui-cua-tre-mo-coi-185260607195053917.htm) - 23:04 07/06/2026
+- 👹 [Trẻ mồ c&amp;ocirc;i do Covid-19 ấm l&amp;ograve;ng, vui tươi trong ng&amp;agrave;y hội sức khỏe](https://thanhnien.vn/tre-mo-coi-do-covid-19-am-long-vui-tuoi-trong-ngay-hoi-suc-khoe-185260606203539823.htm) - 14:12 06/06/2026
+- 🌏 [Nh&amp;agrave; chờ xe bu&amp;yacute;t nằm giữa đường](https://thanhnien.vn/nha-cho-xe-buyt-nam-giua-duong-185260604211426482.htm) - 23:56 04/06/2026
+- 🦣 [&amp;#039;Ổ g&amp;agrave;&amp;#039; th&amp;agrave;nh hố s&amp;acirc;u, d&amp;acirc;n đi lại nguy hiểm](https://thanhnien.vn/o-ga-thanh-ho-sau-dan-di-lai-nguy-hiem-185260603181835408.htm) - 23:56 04/06/2026
+- 🚦 [Trụ đ&amp;egrave;n bị nghi&amp;ecirc;ng](https://thanhnien.vn/tru-den-bi-nghieng-185260604211900427.htm) - 23:55 04/06/2026
+- 🚀 [B&amp;aacute;o Thanh Ni&amp;ecirc;n b&amp;agrave;n giao nh&amp;agrave; tặng cựu chiến binh](https://thanhnien.vn/bao-thanh-nien-ban-giao-nha-tang-cuu-chien-binh-185260604203623274.htm) - 23:55 04/06/2026
+- 🌜 [Quỹ từ thiện Tr&amp;uacute;c Thanh bảo trợ nữ sinh mồ c&amp;ocirc;i kh&amp;oacute;c b&amp;ecirc;n di ảnh cha](https://thanhnien.vn/quy-tu-thien-truc-thanh-bao-tro-nu-sinh-mo-coi-khoc-ben-di-anh-cha-185260603181127815.htm) - 02:00 04/06/2026
+- 🫶 [Chuyện tử tế: Hơn 30 năm chữa bệnh miễn ph&amp;iacute;](https://thanhnien.vn/chuyen-tu-te-hon-30-nam-chua-benh-mien-phi-185260602195117736.htm) - 23:51 02/06/2026
+- 🤠 [K&amp;ecirc;nh tắc nghẽn v&amp;igrave; lục b&amp;igrave;nh v&amp;agrave; cỏ dại](https://thanhnien.vn/kenh-tac-nghen-vi-luc-binh-va-co-dai-185260602194712024.htm) - 23:51 02/06/2026
+- 🎃 [Đường hư hỏng nặng, cần sửa chữa](https://thanhnien.vn/duong-hu-hong-nang-can-sua-chua-185260601211649614.htm) - 00:08 02/06/2026
+- 🤠 [Từ phản &amp;aacute;nh bạn đọc: B&amp;atilde;i r&amp;aacute;c tr&amp;agrave;n lan b&amp;ecirc;n đường](https://thanhnien.vn/tu-phan-anh-ban-doc-bai-rac-tran-lan-ben-duong-185260601212005415.htm) - 00:07 02/06/2026
+- 🥳 [Xin gi&amp;uacute;p một học sinh ngh&amp;egrave;o trị bệnh để tiếp tục đến trường](https://thanhnien.vn/xin-giup-mot-hoc-sinh-ngheo-tri-benh-de-tiep-tuc-den-truong-185260601211427411.htm) - 00:07 02/06/2026
+- 🧠 [Đổ r&amp;aacute;c dưới biển cấm](https://thanhnien.vn/do-rac-duoi-bien-cam-185260529195509346.htm) - 23:06 01/06/2026
+- 👨‍🏫 [Mua đất tiền tỉ nhưng phải k&amp;eacute;o điện tạm, d&amp;ugrave;ng nước k&amp;eacute;](https://thanhnien.vn/mua-dat-tien-ti-nhung-phai-keo-dien-tam-dung-nuoc-ke-185260529194730561.htm) - 23:05 01/06/2026<!-- thanhnien-ban-doc:END -->
