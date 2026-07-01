@@ -4,53 +4,53 @@ sidebar_position: 21
 ---
 
 <!-- nld-khoa-hoc:START -->
-- 🐻 [Trái Đất có thể sống sót sau cái chết của Mặt Trời?](https://nc83.cnnd.vn/nld/trai-dat-co-the-song-sot-sau-cai-chet-cua-mat-troi-196260630160630432.htm) - 09:13 30/06/2026
-- 🐻 [Trăng tròn tháng 6 sẽ &quot;mắc kẹt&quot; dị thường](https://nc83.cnnd.vn/nld/trang-tron-thang-6-se-mac-ket-di-thuong-196260629140144751.htm) - 07:24 29/06/2026
-- 🐘 [NASA &quot;đến rất gần&quot; sự sống ngoài hành tinh](https://nc83.cnnd.vn/nld/nasa-den-rat-gan-su-song-ngoai-hanh-tinh-19626062812183608.htm) - 06:01 28/06/2026
-- 🤩 [Phát hiện 2 hành tinh phồng nhất lịch sử thiên văn học](https://nc83.cnnd.vn/nld/phat-hien-2-hanh-tinh-phong-nhat-lich-su-thien-van-hoc-196260627122501742.htm) - 05:26 27/06/2026
-- 😺 [Phát hiện choáng váng ở &quot;hang động của loài người khác&quot; Rising Star](https://nc83.cnnd.vn/nld/phat-hien-choang-vang-o-hang-dong-cua-loai-nguoi-khac-rising-star-196260626093933679.htm) - 02:53 26/06/2026
-- 🎬 [Tín hiệu từ người ngoài hành tinh đã đến Trái Đất nhưng bị nhiễu?](https://nc83.cnnd.vn/nld/tin-hieu-tu-nguoi-ngoai-hanh-tinh-da-den-trai-dat-nhung-bi-nhieu-196260625102653822.htm) - 03:37 25/06/2026
-- 🔭 [Tiết lộ rùng mình về cái chết của Mặt Trời](https://nc83.cnnd.vn/nld/tiet-lo-rung-minh-ve-cai-chet-cua-mat-troi-196260624144754498.htm) - 08:17 24/06/2026
-- 👀 [Vật thể từng bị nghi là tàu ngoài hành tinh đã 12 tỉ năm tuổi](https://nc83.cnnd.vn/nld/vat-the-tung-bi-nghi-la-tau-ngoai-hanh-tinh-da-12-ti-nam-tuoi-196260624103426341.htm) - 03:47 24/06/2026
-- 🧰 [Vật thể cổ đại tiết lộ tương lai đáng sợ của một thiên hà](https://nc83.cnnd.vn/nld/vat-the-co-dai-tiet-lo-tuong-lai-dang-so-cua-mot-thien-ha-196260623124909276.htm) - 06:14 23/06/2026
-- 🎭 [&quot;Mưa sao băng bất thường nhất&quot; có thể bùng nổ bất cứ lúc nào trong tuần này](https://nc83.cnnd.vn/nld/mua-sao-bang-bat-thuong-nhat-co-the-bung-no-bat-cu-luc-nao-trong-tuan-nay-19626062309585107.htm) - 03:09 23/06/2026
-- 💼 [Vật thể này đã bắn “hạt ma” vào Trái Đất 11 tỉ năm trước](https://nc83.cnnd.vn/nld/vat-the-nay-da-ban-hat-ma-vao-trai-dat-11-ti-nam-truoc-196260622140047266.htm) - 07:47 22/06/2026
-- 💯 [NASA &quot;tóm&quot; vật thể nắm giữ thông tin về nguồn gốc Trái Đất](https://nc83.cnnd.vn/nld/nasa-tom-vat-the-nam-giu-thong-tin-ve-nguon-goc-trai-dat-196260622114918486.htm) - 06:09 22/06/2026
-- 🌜 [&quot;Hành tinh Hồng&quot; phơi bày thứ khoa học chưa từng thấy](https://nc83.cnnd.vn/nld/hanh-tinh-hong-phoi-bay-thu-khoa-hoc-chua-tung-thay-196260621103248246.htm) - 06:00 21/06/2026
-- 🤩 [Xuất hiện sinh vật đảo lộn hiểu biết về &quot;tổ tiên 4 chân của chúng ta”](https://nc83.cnnd.vn/nld/xuat-hien-sinh-vat-dao-lon-hieu-biet-ve-to-tien-4-chan-cua-chung-ta-196260621092249397.htm) - 02:47 21/06/2026
-- 👨‍🏫 [Đập vỡ một thiên thạch Sao Hỏa, các nhà khoa học gặp bất ngờ](https://nc83.cnnd.vn/nld/dap-vo-mot-thien-thach-sao-hoa-cac-nha-khoa-hoc-gap-bat-ngo-196260620123842707.htm) - 06:12 20/06/2026
-- 🔥 [Tác động từ lõi Trái Đất vừa làm &quot;trôi&quot; Nhật Bản](https://nc83.cnnd.vn/nld/tac-dong-tu-loi-trai-dat-vua-lam-troi-nhat-ban-196260620103303843.htm) - 03:46 20/06/2026
-- 🦄 [Phát hiện loài &quot;cá mập biết đi&quot; mới ở Thái Bình Dương](https://nc83.cnnd.vn/nld/phat-hien-loai-ca-map-biet-di-moi-o-thai-binh-duong-196260619130535543.htm) - 07:11 19/06/2026
-- 👺 [Trung Quốc chuẩn bị đổ bộ “mặt trăng thứ 3” của Trái Đất](https://nc83.cnnd.vn/nld/trung-quoc-chuan-bi-do-bo-mat-trang-thu-3-cua-trai-dat-19626061909510971.htm) - 03:30 19/06/2026
-- 💯 [3 lý do khiến “người ngoài hành tinh chưa đến Trái Đất”](https://nc83.cnnd.vn/nld/3-ly-do-khien-nguoi-ngoai-hanh-tinh-chua-den-trai-dat-196260618122953893.htm) - 06:07 18/06/2026
-- 💂 [&quot;Sao bóng ma&quot; hiện về từ vũ trụ 12 tỉ năm trước, chưa bao giờ rõ ràng hơn](https://nc83.cnnd.vn/nld/sao-bong-ma-hien-ve-tu-vu-tru-12-ti-nam-truoc-chua-bao-gio-ro-rang-hon-196260618095442008.htm) - 03:18 18/06/2026
-- 👨‍🏫 [Điều kỳ lạ xảy ra giữa ngày và đêm trên một hành tinh xa lạ](https://nc83.cnnd.vn/nld/dieu-ky-la-xay-ra-giua-ngay-va-dem-tren-mot-hanh-tinh-xa-la-196260617115508874.htm) - 06:14 17/06/2026
-- 🎬 [Mặt Trăng sắp &quot;nuốt&quot; Sao Kim 3 lần](https://nc83.cnnd.vn/nld/mat-trang-sap-nuot-sao-kim-3-lan-196260617102929826.htm) - 03:48 17/06/2026
-- 🎃 [Hàng loạt hành tinh ra đời từ &quot;tử địa&quot; của vũ trụ](https://nc83.cnnd.vn/nld/hang-loat-hanh-tinh-ra-doi-tu-tu-dia-cua-vu-tru-196260616131413226.htm) - 07:22 16/06/2026
-- 🎊 [&quot;Tàu địa ngục&quot; Nhật Bản lộ diện gần Philippines sau 80 năm mất tích](https://nc83.cnnd.vn/nld/tau-dia-nguc-nhat-ban-lo-dien-gan-philippines-sau-80-nam-mat-tich-196260616094638952.htm) - 02:52 16/06/2026
-- 🌏 [Đào mỏ, loạt sinh vật từ thế giới 1,7 tỉ năm trước lộ diện](https://nc83.cnnd.vn/nld/dao-mo-loat-sinh-vat-tu-the-gioi-17-ti-nam-truoc-lo-dien-196260615122619498.htm) - 06:14 15/06/2026
-- 🤖 [Trái Đất sở hữu “thế giới ngầm” rộng bằng 10% thiên hà Milky Way](https://nc83.cnnd.vn/nld/trai-dat-so-huu-the-gioi-ngam-rong-bang-10-thien-ha-milky-way-196260615103625071.htm) - 03:47 15/06/2026
-- 🥷 [&quot;Nhịp tim&quot; của Mặt Trời đã thay đổi](https://nc83.cnnd.vn/nld/nhip-tim-cua-mat-troi-da-thay-doi-196260613175114621.htm) - 04:59 14/06/2026
-- 🔥 [Thiên hà vệ tinh của Ngân Hà đang bị xé đôi](https://nc83.cnnd.vn/nld/thien-ha-ve-tinh-cua-ngan-ha-dang-bi-xe-doi-196260613142059067.htm) - 02:03 14/06/2026
-- 🥳 [Sự sống trỗi dậy: “Vật thể lạ” giữa sa mạc hé lộ chuyện 3,5 tỉ năm trước](https://nc83.cnnd.vn/nld/su-song-troi-day-vat-the-la-giua-sa-mac-he-lo-chuyen-35-ti-nam-truoc-196260613105326217.htm) - 06:00 13/06/2026
-- 🎭 [Cá mập yêu tinh lần đầu tiên được ghi hình trong tự nhiên](https://nc83.cnnd.vn/nld/ca-map-yeu-tinh-lan-dau-tien-duoc-ghi-hinh-trong-tu-nhien-196260613094542414.htm) - 03:03 13/06/2026
-- 🪄 [Tác động ngoài Trái Đất này đã tạo ra sự sống?](https://nc83.cnnd.vn/nld/tac-dong-ngoai-trai-dat-nay-da-tao-ra-su-song-196260612130724298.htm) - 07:07 12/06/2026
-- ⚗️ [Phát hiện địa điểm bí mật nơi gần 500 con cá voi &quot;an nghỉ&quot;](https://nc83.cnnd.vn/nld/phat-hien-dia-diem-bi-mat-noi-gan-500-con-ca-voi-an-nghi-196260612100755145.htm) - 03:19 12/06/2026
-- 🦩 [Tìm kiếm sinh vật thông minh ngoài Trái Đất: Một vật thể bị nhắm mục tiêu](https://nc83.cnnd.vn/nld/tim-kiem-sinh-vat-thong-minh-ngoai-trai-dat-mot-vat-the-bi-nham-muc-tieu-196260611111533042.htm) - 05:55 11/06/2026
-- 🎡 [Phát hiện hệ thống hào dài 1,3 km đầy hài cốt không đầu](https://nc83.cnnd.vn/nld/phat-hien-he-thong-hao-dai-13-km-day-hai-cot-khong-dau-196260611091413504.htm) - 02:23 11/06/2026
-- 🎉 [Vệt sáng trên bầu trời là “quái vật ăn thịt” với các đặc điểm gây sốc](https://nc83.cnnd.vn/nld/vet-sang-tren-bau-troi-la-quai-vat-an-thit-voi-cac-dac-diem-gay-soc-19626061011490659.htm) - 08:23 10/06/2026
-- 🐘 [Phát hiện đôi dép nhà tắm cổ nhất thế giới trong &quot;pháo đài kho báu&quot;](https://nc83.cnnd.vn/nld/phat-hien-doi-dep-nha-tam-co-nhat-the-gioi-trong-phao-dai-kho-bau-196260610095719466.htm) - 03:17 10/06/2026
-- 🦆 [161 mảnh xương trong hang động vừa làm đảo lộn lịch sử loài người](https://nc83.cnnd.vn/nld/161-manh-xuong-trong-hang-dong-vua-lam-dao-lon-lich-su-loai-nguoi-196260609115553594.htm) - 05:52 09/06/2026
-- 🥳 [Thứ các nhà thiên văn tìm kiếm nửa thế kỷ vừa xuất hiện](https://nc83.cnnd.vn/nld/thu-cac-nha-thien-van-tim-kiem-nua-the-ky-vua-xuat-hien-19626060910223194.htm) - 03:35 09/06/2026
-- 👍 [Hệ Mặt Trời có thể đã mất 2 hành tinh](https://nc83.cnnd.vn/nld/he-mat-troi-co-the-da-mat-2-hanh-tinh-19626060812321965.htm) - 06:00 08/06/2026
-- 💼 [Thế giới sẽ sớm đón nhật thực toàn phần dài nhất thế kỷ](https://nc83.cnnd.vn/nld/the-gioi-se-som-don-nhat-thuc-toan-phan-dai-nhat-the-ky-196260608103932478.htm) - 04:13 08/06/2026
-- 🔭 [&quot;Thám hiểm&quot; trường học, nhóm học sinh lạc vào dãy phòng ngầm 1.800 tuổi](https://nc83.cnnd.vn/nld/tham-hiem-truong-hoc-nhom-hoc-sinh-lac-vao-day-phong-ngam-1800-tuoi-196260605153940844.htm) - 01:43 07/06/2026
-- 🦒 [Bọ cạp khổng lồ dài 1 mét xuất hiện ở Anh](https://nc83.cnnd.vn/nld/bo-cap-khong-lo-dai-1-met-xuat-hien-o-anh-196260605123355291.htm) - 00:59 07/06/2026
-- 🚀 [7 hành tinh mở ra &quot;lối tắt&quot; đến thế giới sự sống ngoài Trái Đất](https://nc83.cnnd.vn/nld/7-hanh-tinh-mo-ra-loi-tat-den-the-gioi-su-song-ngoai-trai-dat-196260605120941328.htm) - 06:00 06/06/2026
-- ⚗️ [Quái vật &quot;tiêm kích 4 cánh&quot; cực nguy hiểm xuất hiện ở Trung Quốc](https://nc83.cnnd.vn/nld/quai-vat-tiem-kich-4-canh-cuc-nguy-hiem-xuat-hien-o-trung-quoc-19626060511365428.htm) - 23:53 05/06/2026
-- 👍 [Cất giữ tảng đá từ &quot;Trang Trại Ma&quot;, 78 năm sau phát hiện 2 quái vật bên trong](https://nc83.cnnd.vn/nld/cat-giu-tang-da-tu-trang-trai-ma-78-nam-sau-phat-hien-2-quai-vat-ben-trong-196260605101131998.htm) - 03:46 05/06/2026
-- 👍 [Tàu NASA tự xoay tròn rồi mất liên lạc ở &quot;hành tinh sự sống&quot;](https://nc83.cnnd.vn/nld/tau-nasa-tu-xoay-tron-roi-mat-lien-lac-o-hanh-tinh-su-song-196260605085730829.htm) - 02:34 05/06/2026
-- 🐵 [Mảnh “hành tinh đã mất” rơi xuống sa mạc Sahara](https://nc83.cnnd.vn/nld/manh-hanh-tinh-da-mat-roi-xuong-sa-mac-sahara-196260604101818732.htm) - 05:57 04/06/2026
-- 🧑‍🏫 [Sinh vật chưa từng thấy “trỗi dậy” từ lòng hồ cổ](https://nc83.cnnd.vn/nld/sinh-vat-chua-tung-thay-troi-day-tu-long-ho-co-196260604095318114.htm) - 03:15 04/06/2026
-- 🦏 [Trái Đất bắt được 10 tín hiệu radio cực lạ từ vũ trụ](https://nc83.cnnd.vn/nld/trai-dat-bat-duoc-10-tin-hieu-radio-cuc-la-tu-vu-tru-196260603121503091.htm) - 05:57 03/06/2026
-- 🤔 [&quot;Quái vật&quot; thọ 400 tuổi có thể tạo ra đột phá y học cho con người](https://nc83.cnnd.vn/nld/quai-vat-tho-400-tuoi-co-the-tao-ra-dot-pha-y-hoc-cho-con-nguoi-196260603093948988.htm) - 02:58 03/06/2026<!-- nld-khoa-hoc:END -->
+- 🐻 [Trái Đất có thể sống sót sau cái chết của Mặt Trời?](https://tuoitre.vn/nld/trai-dat-co-the-song-sot-sau-cai-chet-cua-mat-troi-196260630160630432.htm) - 09:13 30/06/2026
+- 🐻 [Trăng tròn tháng 6 sẽ &quot;mắc kẹt&quot; dị thường](https://tuoitre.vn/nld/trang-tron-thang-6-se-mac-ket-di-thuong-196260629140144751.htm) - 07:24 29/06/2026
+- 🐘 [NASA &quot;đến rất gần&quot; sự sống ngoài hành tinh](https://tuoitre.vn/nld/nasa-den-rat-gan-su-song-ngoai-hanh-tinh-19626062812183608.htm) - 06:01 28/06/2026
+- 🤩 [Phát hiện 2 hành tinh phồng nhất lịch sử thiên văn học](https://tuoitre.vn/nld/phat-hien-2-hanh-tinh-phong-nhat-lich-su-thien-van-hoc-196260627122501742.htm) - 05:26 27/06/2026
+- 😺 [Phát hiện choáng váng ở &quot;hang động của loài người khác&quot; Rising Star](https://tuoitre.vn/nld/phat-hien-choang-vang-o-hang-dong-cua-loai-nguoi-khac-rising-star-196260626093933679.htm) - 02:53 26/06/2026
+- 🎬 [Tín hiệu từ người ngoài hành tinh đã đến Trái Đất nhưng bị nhiễu?](https://tuoitre.vn/nld/tin-hieu-tu-nguoi-ngoai-hanh-tinh-da-den-trai-dat-nhung-bi-nhieu-196260625102653822.htm) - 03:37 25/06/2026
+- 🔭 [Tiết lộ rùng mình về cái chết của Mặt Trời](https://tuoitre.vn/nld/tiet-lo-rung-minh-ve-cai-chet-cua-mat-troi-196260624144754498.htm) - 08:17 24/06/2026
+- 👀 [Vật thể từng bị nghi là tàu ngoài hành tinh đã 12 tỉ năm tuổi](https://tuoitre.vn/nld/vat-the-tung-bi-nghi-la-tau-ngoai-hanh-tinh-da-12-ti-nam-tuoi-196260624103426341.htm) - 03:47 24/06/2026
+- 🧰 [Vật thể cổ đại tiết lộ tương lai đáng sợ của một thiên hà](https://tuoitre.vn/nld/vat-the-co-dai-tiet-lo-tuong-lai-dang-so-cua-mot-thien-ha-196260623124909276.htm) - 06:14 23/06/2026
+- 🎭 [&quot;Mưa sao băng bất thường nhất&quot; có thể bùng nổ bất cứ lúc nào trong tuần này](https://tuoitre.vn/nld/mua-sao-bang-bat-thuong-nhat-co-the-bung-no-bat-cu-luc-nao-trong-tuan-nay-19626062309585107.htm) - 03:09 23/06/2026
+- 💼 [Vật thể này đã bắn “hạt ma” vào Trái Đất 11 tỉ năm trước](https://tuoitre.vn/nld/vat-the-nay-da-ban-hat-ma-vao-trai-dat-11-ti-nam-truoc-196260622140047266.htm) - 07:47 22/06/2026
+- 💯 [NASA &quot;tóm&quot; vật thể nắm giữ thông tin về nguồn gốc Trái Đất](https://tuoitre.vn/nld/nasa-tom-vat-the-nam-giu-thong-tin-ve-nguon-goc-trai-dat-196260622114918486.htm) - 06:09 22/06/2026
+- 🌜 [&quot;Hành tinh Hồng&quot; phơi bày thứ khoa học chưa từng thấy](https://tuoitre.vn/nld/hanh-tinh-hong-phoi-bay-thu-khoa-hoc-chua-tung-thay-196260621103248246.htm) - 06:00 21/06/2026
+- 🤩 [Xuất hiện sinh vật đảo lộn hiểu biết về &quot;tổ tiên 4 chân của chúng ta”](https://tuoitre.vn/nld/xuat-hien-sinh-vat-dao-lon-hieu-biet-ve-to-tien-4-chan-cua-chung-ta-196260621092249397.htm) - 02:47 21/06/2026
+- 👨‍🏫 [Đập vỡ một thiên thạch Sao Hỏa, các nhà khoa học gặp bất ngờ](https://tuoitre.vn/nld/dap-vo-mot-thien-thach-sao-hoa-cac-nha-khoa-hoc-gap-bat-ngo-196260620123842707.htm) - 06:12 20/06/2026
+- 🔥 [Tác động từ lõi Trái Đất vừa làm &quot;trôi&quot; Nhật Bản](https://tuoitre.vn/nld/tac-dong-tu-loi-trai-dat-vua-lam-troi-nhat-ban-196260620103303843.htm) - 03:46 20/06/2026
+- 🦄 [Phát hiện loài &quot;cá mập biết đi&quot; mới ở Thái Bình Dương](https://tuoitre.vn/nld/phat-hien-loai-ca-map-biet-di-moi-o-thai-binh-duong-196260619130535543.htm) - 07:11 19/06/2026
+- 👺 [Trung Quốc chuẩn bị đổ bộ “mặt trăng thứ 3” của Trái Đất](https://tuoitre.vn/nld/trung-quoc-chuan-bi-do-bo-mat-trang-thu-3-cua-trai-dat-19626061909510971.htm) - 03:30 19/06/2026
+- 💯 [3 lý do khiến “người ngoài hành tinh chưa đến Trái Đất”](https://tuoitre.vn/nld/3-ly-do-khien-nguoi-ngoai-hanh-tinh-chua-den-trai-dat-196260618122953893.htm) - 06:07 18/06/2026
+- 💂 [&quot;Sao bóng ma&quot; hiện về từ vũ trụ 12 tỉ năm trước, chưa bao giờ rõ ràng hơn](https://tuoitre.vn/nld/sao-bong-ma-hien-ve-tu-vu-tru-12-ti-nam-truoc-chua-bao-gio-ro-rang-hon-196260618095442008.htm) - 03:18 18/06/2026
+- 👨‍🏫 [Điều kỳ lạ xảy ra giữa ngày và đêm trên một hành tinh xa lạ](https://tuoitre.vn/nld/dieu-ky-la-xay-ra-giua-ngay-va-dem-tren-mot-hanh-tinh-xa-la-196260617115508874.htm) - 06:14 17/06/2026
+- 🎬 [Mặt Trăng sắp &quot;nuốt&quot; Sao Kim 3 lần](https://tuoitre.vn/nld/mat-trang-sap-nuot-sao-kim-3-lan-196260617102929826.htm) - 03:48 17/06/2026
+- 🎃 [Hàng loạt hành tinh ra đời từ &quot;tử địa&quot; của vũ trụ](https://tuoitre.vn/nld/hang-loat-hanh-tinh-ra-doi-tu-tu-dia-cua-vu-tru-196260616131413226.htm) - 07:22 16/06/2026
+- 🎊 [&quot;Tàu địa ngục&quot; Nhật Bản lộ diện gần Philippines sau 80 năm mất tích](https://tuoitre.vn/nld/tau-dia-nguc-nhat-ban-lo-dien-gan-philippines-sau-80-nam-mat-tich-196260616094638952.htm) - 02:52 16/06/2026
+- 🌏 [Đào mỏ, loạt sinh vật từ thế giới 1,7 tỉ năm trước lộ diện](https://tuoitre.vn/nld/dao-mo-loat-sinh-vat-tu-the-gioi-17-ti-nam-truoc-lo-dien-196260615122619498.htm) - 06:14 15/06/2026
+- 🤖 [Trái Đất sở hữu “thế giới ngầm” rộng bằng 10% thiên hà Milky Way](https://tuoitre.vn/nld/trai-dat-so-huu-the-gioi-ngam-rong-bang-10-thien-ha-milky-way-196260615103625071.htm) - 03:47 15/06/2026
+- 🥷 [&quot;Nhịp tim&quot; của Mặt Trời đã thay đổi](https://tuoitre.vn/nld/nhip-tim-cua-mat-troi-da-thay-doi-196260613175114621.htm) - 04:59 14/06/2026
+- 🔥 [Thiên hà vệ tinh của Ngân Hà đang bị xé đôi](https://tuoitre.vn/nld/thien-ha-ve-tinh-cua-ngan-ha-dang-bi-xe-doi-196260613142059067.htm) - 02:03 14/06/2026
+- 🥳 [Sự sống trỗi dậy: “Vật thể lạ” giữa sa mạc hé lộ chuyện 3,5 tỉ năm trước](https://tuoitre.vn/nld/su-song-troi-day-vat-the-la-giua-sa-mac-he-lo-chuyen-35-ti-nam-truoc-196260613105326217.htm) - 06:00 13/06/2026
+- 🎭 [Cá mập yêu tinh lần đầu tiên được ghi hình trong tự nhiên](https://tuoitre.vn/nld/ca-map-yeu-tinh-lan-dau-tien-duoc-ghi-hinh-trong-tu-nhien-196260613094542414.htm) - 03:03 13/06/2026
+- 🪄 [Tác động ngoài Trái Đất này đã tạo ra sự sống?](https://tuoitre.vn/nld/tac-dong-ngoai-trai-dat-nay-da-tao-ra-su-song-196260612130724298.htm) - 07:07 12/06/2026
+- ⚗️ [Phát hiện địa điểm bí mật nơi gần 500 con cá voi &quot;an nghỉ&quot;](https://tuoitre.vn/nld/phat-hien-dia-diem-bi-mat-noi-gan-500-con-ca-voi-an-nghi-196260612100755145.htm) - 03:19 12/06/2026
+- 🦩 [Tìm kiếm sinh vật thông minh ngoài Trái Đất: Một vật thể bị nhắm mục tiêu](https://tuoitre.vn/nld/tim-kiem-sinh-vat-thong-minh-ngoai-trai-dat-mot-vat-the-bi-nham-muc-tieu-196260611111533042.htm) - 05:55 11/06/2026
+- 🎡 [Phát hiện hệ thống hào dài 1,3 km đầy hài cốt không đầu](https://tuoitre.vn/nld/phat-hien-he-thong-hao-dai-13-km-day-hai-cot-khong-dau-196260611091413504.htm) - 02:23 11/06/2026
+- 🎉 [Vệt sáng trên bầu trời là “quái vật ăn thịt” với các đặc điểm gây sốc](https://tuoitre.vn/nld/vet-sang-tren-bau-troi-la-quai-vat-an-thit-voi-cac-dac-diem-gay-soc-19626061011490659.htm) - 08:23 10/06/2026
+- 🐘 [Phát hiện đôi dép nhà tắm cổ nhất thế giới trong &quot;pháo đài kho báu&quot;](https://tuoitre.vn/nld/phat-hien-doi-dep-nha-tam-co-nhat-the-gioi-trong-phao-dai-kho-bau-196260610095719466.htm) - 03:17 10/06/2026
+- 🦆 [161 mảnh xương trong hang động vừa làm đảo lộn lịch sử loài người](https://tuoitre.vn/nld/161-manh-xuong-trong-hang-dong-vua-lam-dao-lon-lich-su-loai-nguoi-196260609115553594.htm) - 05:52 09/06/2026
+- 🥳 [Thứ các nhà thiên văn tìm kiếm nửa thế kỷ vừa xuất hiện](https://tuoitre.vn/nld/thu-cac-nha-thien-van-tim-kiem-nua-the-ky-vua-xuat-hien-19626060910223194.htm) - 03:35 09/06/2026
+- 👍 [Hệ Mặt Trời có thể đã mất 2 hành tinh](https://tuoitre.vn/nld/he-mat-troi-co-the-da-mat-2-hanh-tinh-19626060812321965.htm) - 06:00 08/06/2026
+- 💼 [Thế giới sẽ sớm đón nhật thực toàn phần dài nhất thế kỷ](https://tuoitre.vn/nld/the-gioi-se-som-don-nhat-thuc-toan-phan-dai-nhat-the-ky-196260608103932478.htm) - 04:13 08/06/2026
+- 🔭 [&quot;Thám hiểm&quot; trường học, nhóm học sinh lạc vào dãy phòng ngầm 1.800 tuổi](https://tuoitre.vn/nld/tham-hiem-truong-hoc-nhom-hoc-sinh-lac-vao-day-phong-ngam-1800-tuoi-196260605153940844.htm) - 01:43 07/06/2026
+- 🦒 [Bọ cạp khổng lồ dài 1 mét xuất hiện ở Anh](https://tuoitre.vn/nld/bo-cap-khong-lo-dai-1-met-xuat-hien-o-anh-196260605123355291.htm) - 00:59 07/06/2026
+- 🚀 [7 hành tinh mở ra &quot;lối tắt&quot; đến thế giới sự sống ngoài Trái Đất](https://tuoitre.vn/nld/7-hanh-tinh-mo-ra-loi-tat-den-the-gioi-su-song-ngoai-trai-dat-196260605120941328.htm) - 06:00 06/06/2026
+- ⚗️ [Quái vật &quot;tiêm kích 4 cánh&quot; cực nguy hiểm xuất hiện ở Trung Quốc](https://tuoitre.vn/nld/quai-vat-tiem-kich-4-canh-cuc-nguy-hiem-xuat-hien-o-trung-quoc-19626060511365428.htm) - 23:53 05/06/2026
+- 👍 [Cất giữ tảng đá từ &quot;Trang Trại Ma&quot;, 78 năm sau phát hiện 2 quái vật bên trong](https://tuoitre.vn/nld/cat-giu-tang-da-tu-trang-trai-ma-78-nam-sau-phat-hien-2-quai-vat-ben-trong-196260605101131998.htm) - 03:46 05/06/2026
+- 👍 [Tàu NASA tự xoay tròn rồi mất liên lạc ở &quot;hành tinh sự sống&quot;](https://tuoitre.vn/nld/tau-nasa-tu-xoay-tron-roi-mat-lien-lac-o-hanh-tinh-su-song-196260605085730829.htm) - 02:34 05/06/2026
+- 🐵 [Mảnh “hành tinh đã mất” rơi xuống sa mạc Sahara](https://tuoitre.vn/nld/manh-hanh-tinh-da-mat-roi-xuong-sa-mac-sahara-196260604101818732.htm) - 05:57 04/06/2026
+- 🧑‍🏫 [Sinh vật chưa từng thấy “trỗi dậy” từ lòng hồ cổ](https://tuoitre.vn/nld/sinh-vat-chua-tung-thay-troi-day-tu-long-ho-co-196260604095318114.htm) - 03:15 04/06/2026
+- 🦏 [Trái Đất bắt được 10 tín hiệu radio cực lạ từ vũ trụ](https://tuoitre.vn/nld/trai-dat-bat-duoc-10-tin-hieu-radio-cuc-la-tu-vu-tru-196260603121503091.htm) - 05:57 03/06/2026
+- 🤔 [&quot;Quái vật&quot; thọ 400 tuổi có thể tạo ra đột phá y học cho con người](https://tuoitre.vn/nld/quai-vat-tho-400-tuoi-co-the-tao-ra-dot-pha-y-hoc-cho-con-nguoi-196260603093948988.htm) - 02:58 03/06/2026<!-- nld-khoa-hoc:END -->
