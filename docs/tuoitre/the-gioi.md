@@ -4,53 +4,53 @@ sidebar_position: 3
 ---
 
 <!-- tuoitre-the-gioi:START -->
-- 💪 [Động đất ở Venezuela: Hy vọng cứu người dần tắt](https://tuoitre.vn/dong-dat-o-venezuela-hy-vong-cuu-nguoi-dan-tat-100260630221928689.htm) - 22:27 30/06/2026
-- 📝 [Cuộc gặp &#39;hụt&#39; tại Doha gây thêm bất định cho hòa đàm Mỹ - Iran](https://tuoitre.vn/cuoc-gap-hut-tai-doha-gay-them-bat-dinh-cho-hoa-dam-my-iran-100260630203728334.htm) - 20:48 30/06/2026
-- 🕴 [Nam sinh khiếm thị trở thành thủ khoa khối y kỳ thi đại học &#39;khốc liệt nhất thế giới&#39;](https://tuoitre.vn/nam-sinh-khiem-thi-tro-thanh-thu-khoa-khoi-y-ky-thi-dai-hoc-khoc-liet-nhat-the-gioi-100260630191256191.htm) - 20:28 30/06/2026
-- 🌏 [Thái Lan: 100 con khỉ sổng chuồng, phải dùng súng gây mê để bắt lại](https://tuoitre.vn/thai-lan-100-con-khi-song-chuong-phai-dung-sung-gay-me-de-bat-lai-100260630193052702.htm) - 20:01 30/06/2026
-- 🚦 [NASA chạy đua giải cứu đài quan sát sắp &#39;rơi tự do&#39; về Trái đất](https://tuoitre.vn/nasa-chay-dua-giai-cuu-dai-quan-sat-sap-roi-tu-do-ve-trai-dat-100260630184044103.htm) - 20:00 30/06/2026
-- 🙉 [Anh chi kỷ lục gần 400 tỉ USD cải tổ quân đội, học cách đánh của Ukraine](https://tuoitre.vn/anh-chi-ky-luc-gan-400-ti-usd-cai-to-quan-doi-hoc-cach-danh-cua-ukraine-100260630193703158.htm) - 19:47 30/06/2026
-- 🦒 [Ba Lan không chuyển thêm tiêm kích MiG-29 cho Ukraine, dọa chặn đường vào EU](https://tuoitre.vn/ba-lan-khong-chuyen-them-tiem-kich-mig-29-cho-ukraine-doa-chan-duong-vao-eu-100260630182055166.htm) - 18:43 30/06/2026
-- 🚦 [Pháp thắp sáng Nữ thần Tự do nhân 250 năm Quốc khánh Mỹ](https://tuoitre.vn/phap-thap-sang-nu-than-tu-do-nhan-250-nam-quoc-khanh-my-100260630172400986.htm) - 17:35 30/06/2026
-- 🧑‍🏫 [Tỉ phú lưu vong Trung Quốc bị Mỹ tuyên án 30 năm tù vì tội lừa đảo](https://tuoitre.vn/ti-phu-luu-vong-trung-quoc-bi-my-tuyen-an-30-nam-tu-vi-toi-lua-dao-100260630172143989.htm) - 17:31 30/06/2026
-- 🧑‍🏫 [Malaysia đối mặt tình trạng mất cân bằng cung cầu thị trường nhà ở](https://tuoitre.vn/malaysia-doi-mat-tinh-trang-mat-can-bang-cung-cau-thi-truong-nha-o-10026063017132494.htm) - 17:12 30/06/2026
-- 🦣 [Em bé chào đời ngay sau khi mẹ được kéo ra khỏi đống đổ nát ở Venezuela](https://tuoitre.vn/em-be-chao-doi-ngay-sau-khi-me-duoc-keo-ra-khoi-dong-do-nat-o-venezuela-100260630162158289.htm) - 16:25 30/06/2026
-- 🐲 [Đức xét xử tài xế gây tai nạn làm hai anh em sinh đôi người Việt tử vong](https://tuoitre.vn/duc-xet-xu-tai-xe-gay-tai-nan-lam-hai-anh-em-sinh-doi-nguoi-viet-tu-vong-10026063016090695.htm) - 16:16 30/06/2026
-- 🐲 [Đánh bom thư tại &#39;thiên đường tỉ phú&#39; Monaco, tài phiệt Ukraine bị thương](https://tuoitre.vn/danh-bom-thu-tai-thien-duong-ti-phu-monaco-tai-phiet-ukraine-bi-thuong-100260630153332101.htm) - 15:44 30/06/2026
-- 🌝 [Nhật Bản sắp thử nghiệm ghép thận heo cho người](https://tuoitre.vn/nhat-ban-sap-thu-nghiem-ghep-than-heo-cho-nguoi-100260630152303331.htm) - 14:58 30/06/2026
-- 🏊 [Đồng sáng lập Gojek đối mặt đề nghị 18 năm tù vì mua máy tính Chromebook cho trường học tại Indonesia](https://tuoitre.vn/dong-sang-lap-gojek-doi-mat-de-nghi-18-nam-tu-vi-mua-may-tinh-chromebook-cho-truong-hoc-tai-indonesia-100260630142047456.htm) - 14:44 30/06/2026
-- 🎉 [Mỗi giờ 5 người chết vì khí thải xe cộ, chính quyền Mỹ vẫn nới lỏng quy định bảo vệ môi trường](https://tuoitre.vn/moi-gio-5-nguoi-chet-vi-khi-thai-xe-co-chinh-quyen-my-van-noi-long-quy-dinh-bao-ve-moi-truong-100260630112341212.htm) - 13:49 30/06/2026
-- 🙉 [Washington cam kết chi 300 triệu USD giúp Venezuela ứng phó động đất](https://tuoitre.vn/washington-cam-ket-chi-300-trieu-usd-giup-venezuela-ung-pho-dong-dat-100260630131558737.htm) - 13:41 30/06/2026
-- 🙉 [Máy bay đâm tòa nhà cao nhất Bắc Kinh, Trung Quốc cấm bay tư nhân hạng nhẹ](https://tuoitre.vn/may-bay-dam-toa-nha-cao-nhat-bac-kinh-trung-quoc-cam-bay-tu-nhan-hang-nhe-100260630120218701.htm) - 12:22 30/06/2026
-- 🤭 [Ông Macron tái xuất với cặp kính râm từng gây sốt toàn cầu](https://tuoitre.vn/ong-macron-tai-xuat-voi-cap-kinh-ram-tung-gay-sot-toan-cau-100260630120214258.htm) - 12:21 30/06/2026
-- 😎 [Tỉ giá yen Nhật rơi xuống mức thấp nhất kể từ năm 1986](https://tuoitre.vn/ti-gia-yen-nhat-roi-xuong-muc-thap-nhat-ke-tu-nam-1986-100260630111453477.htm) - 11:49 30/06/2026
-- ⚗️ [Trung Quốc tiếp tục tuần tra ở Scarborough](https://tuoitre.vn/trung-quoc-tiep-tuc-tuan-tra-o-scarborough-100260630112345115.htm) - 11:22 30/06/2026
-- 🔥 [Rò rỉ ảnh thử nghiệm và danh sách linh kiện iPhone 18 Pro](https://tuoitre.vn/ro-ri-anh-thu-nghiem-va-danh-sach-linh-kien-iphone-18-pro-100260630110001477.htm) - 11:18 30/06/2026
-- 😎 [Khủng hoảng năng lượng bủa vây Nga - Ukraine: Bên thiếu xăng, bên thiếu điện](https://tuoitre.vn/khung-hoang-nang-luong-bua-vay-nga-ukraine-ben-thieu-xang-ben-thieu-dien-100260630105950459.htm) - 11:15 30/06/2026
-- 🤭 [Lãnh đạo Venezuela cảm ơn Việt Nam cử đoàn cứu hộ động đất](https://tuoitre.vn/lanh-dao-venezuela-cam-on-viet-nam-cu-doan-cuu-ho-dong-dat-100260630103516236.htm) - 11:10 30/06/2026
-- 😎 [Liên hợp quốc cung cấp 10.000 túi đựng thi thể cho Venezuela](https://tuoitre.vn/lien-hop-quoc-cung-cap-10000-tui-dung-thi-the-cho-venezuela-1002606300920205.htm) - 09:31 30/06/2026
-- 🧑‍💻 [Tổng giáo phận San Francisco bồi thường 395 triệu USD cho hơn 500 nạn nhân bị lạm dụng tình dục](https://tuoitre.vn/tong-giao-phan-san-francisco-boi-thuong-395-trieu-usd-cho-hon-500-nan-nhan-bi-lam-dung-tinh-duc-100260630085007933.htm) - 09:15 30/06/2026
-- 🌏 [Ông Trump yêu cầu hạ giá xăng dầu, cảnh báo &#39;rắc rối lớn&#39;](https://tuoitre.vn/ong-trump-yeu-cau-ha-gia-xang-dau-canh-bao-rac-roi-lon-100260630081738231.htm) - 09:08 30/06/2026
-- 🐎 [Chuyến bay thứ hai chở 46,8 tấn hàng của Việt Nam cất cánh tới Venezuela](https://tuoitre.vn/chuyen-bay-thu-hai-cho-468-tan-hang-cua-viet-nam-cat-canh-toi-venezuela-100260630085448388.htm) - 08:52 30/06/2026
-- 🐎 [Tin tức thế giới 30-6: Đại diện Iran và Mỹ đến Qatar; Ông Zelensky mỉa mai quân đội Nga](https://tuoitre.vn/tin-tuc-the-gioi-30-6-dai-dien-iran-va-my-den-qatar-ong-zelensky-mia-mai-quan-doi-nga-100260630065142632.htm) - 07:10 30/06/2026
-- 🎬 [Tuổi Trẻ nhật báo trong lòng bạn đọc quốc tế](https://tuoitre.vn/tuoi-tre-nhat-bao-trong-long-ban-doc-quoc-te-100260630003019291.htm) - 06:30 30/06/2026
-- 💼 [Xu hướng báo chí toàn cầu và cơ hội cho Tuổi Trẻ](https://tuoitre.vn/xu-huong-bao-chi-toan-cau-va-co-hoi-cho-tuoi-tre-1002606300021416.htm) - 05:25 30/06/2026
-- ⛽️ [Hàng loạt khu nhà ở công Venezuela sập sau động đất, chất lượng xây dựng bị đặt dấu hỏi](https://tuoitre.vn/hang-loat-khu-nha-o-cong-venezuela-sap-sau-dong-dat-chat-luong-xay-dung-bi-dat-dau-hoi-10026062921571649.htm) - 22:20 29/06/2026
-- 💡 [Tiếp viên hãng Thai Airways bị bắt vì nghi tuồn hơn 1kg heroin vào Úc](https://tuoitre.vn/tiep-vien-hang-thai-airways-bi-bat-vi-nghi-tuon-hon-1kg-heroin-vao-uc-100260629212758364.htm) - 21:55 29/06/2026
-- 🥰 [Apple đối đầu cơ quan chống độc quyền Ấn Độ](https://tuoitre.vn/apple-doi-dau-co-quan-chong-doc-quyen-an-do-100260629205745473.htm) - 21:18 29/06/2026
-- 🧑‍💻 [Liệu lệnh cấm bán chip cho Trung Quốc đang phản đòn lên Mỹ?](https://tuoitre.vn/lieu-lenh-cam-ban-chip-cho-trung-quoc-dang-phan-don-len-my-10026062919462479.htm) - 20:38 29/06/2026
-- 🧠 [Trung Quốc đưa 20 thực thể Nhật Bản vào danh sách kiểm soát xuất khẩu hàng lưỡng dụng](https://tuoitre.vn/trung-quoc-dua-20-thuc-the-nhat-ban-vao-danh-sach-kiem-soat-xuat-khau-hang-luong-dung-100260629200150074.htm) - 20:30 29/06/2026
-- 🤩 [Malaysia chưa từ bỏ hy vọng, tiếp tục cuộc tìm kiếm MH370 đến năm 2027](https://tuoitre.vn/malaysia-chua-tu-bo-hy-vong-tiep-tuc-cuoc-tim-kiem-mh370-den-nam-2027-100260629183355137.htm) - 19:03 29/06/2026
-- 🤗 [Rộ tin Mỹ - Iran chuẩn bị nối lại đàm phán, các bên trung gian lập kênh giảm leo thang](https://tuoitre.vn/ro-tin-my-iran-chuan-bi-noi-lai-dam-phan-cac-ben-trung-gian-lap-kenh-giam-leo-thang-100260629183925222.htm) - 18:58 29/06/2026
-- 🐲 [Điện Kremlin làm rõ lập trường của Nga về hòa bình ở Ukraine](https://tuoitre.vn/dien-kremlin-lam-ro-lap-truong-cua-nga-ve-hoa-binh-o-ukraine-100260629182620191.htm) - 18:36 29/06/2026
-- 🌮 [Cầu kính đạt kỷ lục Guinness của Trung Quốc bị nứt vì... một chiếc ô, sơ tán du khách khẩn cấp](https://tuoitre.vn/cau-kinh-dat-ky-luc-guinness-cua-trung-quoc-bi-nut-vi-mot-chiec-o-100260629181420527.htm) - 18:30 29/06/2026
-- 🎃 [Giới y tế Mỹ cảnh báo loại vi rút hiếm từ ve cắn có thể gây tổn thương não](https://tuoitre.vn/gioi-y-te-my-canh-bao-loai-vi-rut-hiem-tu-ve-can-co-the-gay-ton-thuong-nao-100260629145039667.htm) - 17:48 29/06/2026
-- 🎊 [Nắng nóng kỷ lục khiến số người chết ở Pháp tăng mạnh, nhà xác chật kín chỗ](https://tuoitre.vn/nang-nong-ky-luc-khien-so-nguoi-chet-o-phap-tang-manh-nha-xac-chat-kin-cho-10026062917311858.htm) - 17:42 29/06/2026
-- 🚀 [Ngày càng nhiều đàn ông Hàn Quốc ở nhà làm nội trợ](https://tuoitre.vn/ngay-cang-nhieu-dan-ong-han-quoc-o-nha-lam-noi-tro-100260629163444658.htm) - 17:08 29/06/2026
-- 🧐 [Tiếng súng tạm im, Bản ghi nhớ hòa bình Mỹ - Iran bắt đầu được triển khai](https://tuoitre.vn/tieng-sung-tam-im-ban-ghi-nho-hoa-binh-my-iran-bat-dau-duoc-trien-khai-100260629162546886.htm) - 16:35 29/06/2026
-- 🕯 [Giao tranh mới ở vùng Vịnh: Bản ghi nhớ Mỹ - Iran có vấn đề?](https://tuoitre.vn/giao-tranh-moi-o-vung-vinh-ban-ghi-nho-my-iran-co-van-de-100260629160026054.htm) - 16:23 29/06/2026
-- 💂 [Bài toán ổn định thị trường nhà ở tại Hàn Quốc: Thuế hay nguồn cung?](https://tuoitre.vn/bai-toan-on-dinh-thi-truong-nha-o-tai-han-quoc-thue-hay-nguon-cung-100260629153803976.htm) - 16:08 29/06/2026
-- 🦒 [Nữ thị trưởng Nhật báo nghỉ thai sản, gây tranh cãi dữ dội](https://tuoitre.vn/nu-thi-truong-nhat-bao-nghi-thai-san-gay-tranh-cai-du-doi-100260629152802491.htm) - 15:52 29/06/2026
-- 🔭 [Triều Tiên nổi giận vì Mỹ - Nhật tập trận, cảnh báo &#39;kết cục bi thảm&#39; với Tokyo](https://tuoitre.vn/trieu-tien-noi-gian-vi-my-nhat-tap-tran-canh-bao-ket-cuc-bi-tham-voi-tokyo-100260629145413069.htm) - 15:14 29/06/2026
-- 👨‍🏫 [Hàn Quốc: Hàng trăm ngàn con chó &#39;bốc hơi&#39; gây bối rối](https://tuoitre.vn/han-quoc-hang-tram-ngan-con-cho-boc-hoi-gay-boi-roi-100260629140201675.htm) - 14:43 29/06/2026
-- 🦆 [Tổng thống Hàn Quốc quyết chơi canh bạc AI và chip](https://tuoitre.vn/tong-thong-han-quoc-quyet-choi-canh-bac-ai-va-chip-10026062913023729.htm) - 14:38 29/06/2026<!-- tuoitre-the-gioi:END -->
+- 💪 [Ông Trump: Đàm phán với Iran &#39;rất tốt đẹp&#39;, &#39;Tehran không thể có vũ khí hạt nhân&#39;](https://tuoitre.vn/ong-trump-dam-phan-voi-iran-rat-tot-dep-tehran-khong-the-co-vu-khi-hat-nhan-100260701232408166.htm) - 23:30 01/07/2026
+- 📝 [Nữ chính trị gia Gen Z đánh bại nghị sĩ Mỹ giữ ghế suốt 15 nhiệm kỳ](https://tuoitre.vn/nu-chinh-tri-gia-gen-z-danh-bai-nghi-si-my-giu-ghe-suot-15-nhiem-ky-100260701221218217.htm) - 22:49 01/07/2026
+- 🕴 [Ukraine đánh trúng nhà máy lọc dầu sâu trong lãnh thổ Nga, Matxcơva tức tốc nhập thêm dầu](https://tuoitre.vn/ukraine-danh-trung-nha-may-loc-dau-sau-trong-lanh-tho-nga-matxcova-tuc-toc-nhap-them-dau-100260701221028283.htm) - 22:23 01/07/2026
+- 🌏 [NATO khẳng định Mỹ là nhân tố không thể thiếu với việc phòng thủ của Ukraine](https://tuoitre.vn/nato-khang-dinh-my-la-nhan-to-khong-the-thieu-voi-viec-phong-thu-cua-ukraine-100260701205425889.htm) - 21:14 01/07/2026
+- 🚦 [Ưu tiên dịch vụ của mình trên công cụ tìm kiếm, Google phải bồi thường 1,46 tỉ USD tại Thụy Điển](https://tuoitre.vn/uu-tien-dich-vu-cua-minh-tren-cong-cu-tim-kiem-google-phai-boi-thuong-146-ti-usd-tai-thuy-dien-100260701210434867.htm) - 21:12 01/07/2026
+- 🙉 [AI tiến hóa vượt tầm hiểu biết của con người, Liên hợp quốc cảnh báo khẩn](https://tuoitre.vn/ai-tien-hoa-vuot-tam-hieu-biet-cua-con-nguoi-lien-hop-quoc-canh-bao-khan-100260701194455225.htm) - 20:39 01/07/2026
+- 🦒 [Ngoại trưởng Iran giận dữ sau bình luận của Israel về Lãnh tụ tối cao Mojtaba Khamenei](https://tuoitre.vn/ngoai-truong-iran-gian-du-sau-binh-luan-cua-israel-ve-lanh-tu-toi-cao-mojtaba-khamenei-100260701195515258.htm) - 20:24 01/07/2026
+- 🚦 [Israel tuyên bố sẵn sàng &#39;tấn công lần ba&#39; vào Iran](https://tuoitre.vn/israel-tuyen-bo-san-sang-tan-cong-lan-ba-vao-iran-100260701193241905.htm) - 20:01 01/07/2026
+- 🧑‍🏫 [Iran &#39;nắn gân&#39; Mỹ ở Hormuz, để ngỏ khả năng thu phí tàu qua lại](https://tuoitre.vn/iran-nan-gan-my-o-hormuz-de-ngo-kha-nang-thu-phi-tau-qua-lai-100260701190711263.htm) - 19:47 01/07/2026
+- 🧑‍🏫 [Myanmar tái khởi động siêu đập 3,6 tỉ USD, 90% điện sẽ xuất sang Trung Quốc](https://tuoitre.vn/myanmar-tai-khoi-dong-sieu-dap-36-ti-usd-90-dien-se-xuat-sang-trung-quoc-10026070118154915.htm) - 18:36 01/07/2026
+- 🦣 [Tòa án Tối cao Mỹ khép lại nhiệm kỳ: Ông Trump được và mất gì?](https://tuoitre.vn/toa-an-toi-cao-my-khep-lai-nhiem-ky-ong-trump-duoc-va-mat-gi-100260701175122464.htm) - 18:24 01/07/2026
+- 🐲 [Nghịch lý thị trường lao động Mỹ: Tuyển dụng tăng, người lao động vẫn khó tìm việc](https://tuoitre.vn/nghich-ly-thi-truong-lao-dong-my-tuyen-dung-tang-nguoi-lao-dong-van-kho-tim-viec-100260701171347724.htm) - 18:18 01/07/2026
+- 🐲 [Campuchia hủy lễ hội nước lớn nhất năm vì căng thẳng biên giới với Thái Lan](https://tuoitre.vn/campuchia-huy-le-hoi-nuoc-lon-nhat-nam-vi-cang-thang-bien-gioi-voi-thai-lan-100260701150022302.htm) - 17:34 01/07/2026
+- 🌝 [Tass: Tổng thư ký NATO thừa nhận mất ngủ vì Nga](https://tuoitre.vn/tass-tong-thu-ky-nato-thua-nhan-mat-ngu-vi-nga-100260701164505536.htm) - 17:23 01/07/2026
+- 🏊 [Người đàn ông bơi qua eo biển Nhật Bản, lập thành tích chưa từng có](https://tuoitre.vn/nguoi-dan-ong-boi-qua-eo-bien-nhat-ban-lap-thanh-tich-chua-tung-co-100260701160220978.htm) - 16:52 01/07/2026
+- 🎉 [Ông Tập nhấn mạnh thông điệp toàn cầu tại lễ kỷ niệm 105 năm Đảng Cộng sản Trung Quốc](https://tuoitre.vn/ong-tap-nhan-manh-thong-diep-toan-cau-tai-le-ky-niem-105-nam-dang-cong-san-trung-quoc-100260701161708869.htm) - 16:25 01/07/2026
+- 🙉 [Israel đẩy mạnh các dự án nhà ở nhằm phát triển đô thị](https://tuoitre.vn/israel-day-manh-cac-du-an-nha-o-nham-phat-trien-do-thi-100260701153215955.htm) - 15:29 01/07/2026
+- 🙉 [Ông Trump xây bãi đáp trực thăng ngay trong khuôn viên Nhà Trắng](https://tuoitre.vn/ong-trump-xay-bai-dap-truc-thang-ngay-trong-khuon-vien-nha-trang-100260701144449171.htm) - 15:04 01/07/2026
+- 🤭 [Trung Quốc tụt lại trong cuộc đua triệu phú toàn cầu](https://tuoitre.vn/trung-quoc-tut-lai-trong-cuoc-dua-trieu-phu-toan-cau-100260701141313767.htm) - 14:45 01/07/2026
+- 😎 [Hóa thạch bị quên 40 năm hóa ra là khủng long đầu tiên ở Nam Cực](https://tuoitre.vn/hoa-thach-bi-quen-40-nam-hoa-ra-la-khung-long-dau-tien-o-nam-cuc-100260701120257843.htm) - 14:45 01/07/2026
+- ⚗️ [Cuộc sống bí mật của đội drone tầm xa Ukraine](https://tuoitre.vn/cuoc-song-bi-mat-cua-doi-drone-tam-xa-ukraine-100260701140119793.htm) - 14:40 01/07/2026
+- 🔥 [Hàn Quốc miễn phí visa cho khách đoàn từ Việt Nam](https://tuoitre.vn/han-quoc-mien-phi-visa-cho-khach-doan-tu-viet-nam-100260701130414976.htm) - 14:20 01/07/2026
+- 😎 [Giám đốc CIA ví AI như vũ khí hạt nhân](https://tuoitre.vn/giam-doc-cia-vi-ai-nhu-vu-khi-hat-nhan-10026070112153485.htm) - 12:34 01/07/2026
+- 🤭 [Mỹ trục xuất người di cư đầu tiên đến đảo quốc Palau ở Thái Bình Dương](https://tuoitre.vn/my-truc-xuat-nguoi-di-cu-dau-tien-den-dao-quoc-palau-o-thai-binh-duong-100260701120844095.htm) - 12:32 01/07/2026
+- 😎 [EU áp phí 3 euro với hàng online giá rẻ, giáng đòn mạnh vào Shein, Temu và AliExpress](https://tuoitre.vn/eu-ap-phi-3-euro-voi-hang-online-gia-re-giang-don-manh-vao-shein-temu-va-aliexpress-100260701112057151.htm) - 12:13 01/07/2026
+- 🧑‍💻 [Đối thủ lớn nhất của ông Netanyahu tuyên bố tranh cử, hứa mở &#39;chương mới&#39; cho Israel](https://tuoitre.vn/doi-thu-lon-nhat-cua-ong-netanyahu-tuyen-bo-tranh-cu-hua-mo-chuong-moi-cho-israel-100260701110020984.htm) - 12:09 01/07/2026
+- 🌏 [Ông Trump thu nhập 2,2 tỉ USD năm 2025, 1,4 tỉ USD từ tiền số](https://tuoitre.vn/ong-trump-thu-nhap-22-ti-usd-nam-2025-14-ti-usd-tu-tien-so-100260701111651706.htm) - 12:07 01/07/2026
+- 🐎 [AI phát hiện &#39;đường thẳng&#39; hàng ngàn trận động đất bí ẩn dưới Alaska](https://tuoitre.vn/ai-phat-hien-duong-thang-hang-ngan-tran-dong-dat-bi-an-duoi-alaska-100260701102112939.htm) - 11:53 01/07/2026
+- 🐎 [Thủ tướng Takaichi Sanae thu nhập cao nhất trong 9 lãnh đạo đảng tại Nhật](https://tuoitre.vn/thu-tuong-takaichi-sanae-thu-nhap-cao-nhat-trong-9-lanh-dao-dang-tai-nhat-100260701112520635.htm) - 11:35 01/07/2026
+- 🎬 [NASA công bố 3 sứ mệnh mới xây căn cứ trên Mặt trăng, cạnh tranh với Trung Quốc](https://tuoitre.vn/nasa-cong-bo-3-su-menh-moi-xay-can-cu-tren-mat-trang-canh-tranh-voi-trung-quoc-1002607011109556.htm) - 11:30 01/07/2026
+- 💼 [Quốc vương Thái Lan nhận huân chương cao quý nhất của Pháp](https://tuoitre.vn/quoc-vuong-thai-lan-nhan-huan-chuong-cao-quy-nhat-cua-phap-100260701111312972.htm) - 11:28 01/07/2026
+- ⛽️ [Lực lượng cứu hộ Việt Nam tìm thấy 11 nạn nhân động đất tại Venezuela](https://tuoitre.vn/luc-luong-cuu-ho-viet-nam-tim-thay-8-nan-nhan-tai-venezuela-100260701102518828.htm) - 11:11 01/07/2026
+- 💡 [Toyota thành lập liên doanh xe bay cùng công ty Mỹ](https://tuoitre.vn/toyota-thanh-lap-lien-doanh-xe-bay-cung-cong-ty-my-100260701103536138.htm) - 11:07 01/07/2026
+- 🥰 [Nhật Bản huy động hơn 370.000 tỉ yen đầu tư công - tư, ưu tiên AI và bán dẫn](https://tuoitre.vn/nhat-ban-huy-dong-hon-370000-ti-yen-dau-tu-cong-tu-uu-tien-ai-va-ban-dan-10026070110550569.htm) - 10:52 01/07/2026
+- 🧑‍💻 [Mua 16 tiêm kích Gripen của Thụy Điển, Ukraine được gì?](https://tuoitre.vn/mua-16-tiem-kich-gripen-cua-thuy-dien-ukraine-duoc-gi-100260701101643007.htm) - 10:29 01/07/2026
+- 🧠 [Ngân hàng Thế giới sẽ ngừng cho Trung Quốc vay từ năm 2031](https://tuoitre.vn/ngan-hang-the-gioi-se-ngung-cho-trung-quoc-vay-tu-nam-2031-100260701101043702.htm) - 10:24 01/07/2026
+- 🤩 [Đảng Cộng sản Việt Nam chúc mừng 105 năm thành lập Đảng Cộng sản Trung Quốc](https://tuoitre.vn/dang-cong-san-viet-nam-chuc-mung-105-nam-thanh-lap-dang-cong-san-trung-quoc-100260701095210065.htm) - 10:12 01/07/2026
+- 🤗 [Nga bất ngờ đóng nhiều cửa khẩu đường sắt với 3 nước NATO](https://tuoitre.vn/nga-bat-ngo-dong-nhieu-cua-khau-duong-sat-voi-3-nuoc-nato-100260701080842628.htm) - 09:17 01/07/2026
+- 🐲 [Ford triệu hồi hơn 741.000 xe do lỗi hộp số có thể khiến xe tự trôi](https://tuoitre.vn/ford-trieu-hoi-hon-741000-xe-do-loi-hop-so-co-the-khien-xe-tu-troi-100260701073642708.htm) - 07:44 01/07/2026
+- 🌮 [Tòa án tối cao bảo vệ quyền &#39;sinh ra ở Mỹ là công dân Mỹ&#39;, ông Trump bất bình](https://tuoitre.vn/toa-an-toi-cao-bao-ve-quyen-sinh-ra-o-my-la-cong-dan-my-ong-trump-bat-binh-100260701070531152.htm) - 07:22 01/07/2026
+- 🎃 [Tin tức thế giới 1-7: Cuba nói về đàm phán với Mỹ; Iran thu phí qua Hormuz từ tháng 8](https://tuoitre.vn/tin-tuc-the-gioi-1-7-cuba-noi-ve-dam-phan-voi-my-iran-thu-phi-qua-hormuz-tu-thang-8-100260701054350121.htm) - 06:15 01/07/2026
+- 🎊 [Động đất ở Venezuela: Hy vọng cứu người dần tắt](https://tuoitre.vn/dong-dat-o-venezuela-hy-vong-cuu-nguoi-dan-tat-100260630221928689.htm) - 22:27 30/06/2026
+- 🚀 [Cuộc gặp &#39;hụt&#39; tại Doha gây thêm bất định cho hòa đàm Mỹ - Iran](https://tuoitre.vn/cuoc-gap-hut-tai-doha-gay-them-bat-dinh-cho-hoa-dam-my-iran-100260630203728334.htm) - 20:48 30/06/2026
+- 🧐 [Nam sinh khiếm thị trở thành thủ khoa khối y kỳ thi đại học &#39;khốc liệt nhất thế giới&#39;](https://tuoitre.vn/nam-sinh-khiem-thi-tro-thanh-thu-khoa-khoi-y-ky-thi-dai-hoc-khoc-liet-nhat-the-gioi-100260630191256191.htm) - 20:28 30/06/2026
+- 🕯 [Thái Lan: 100 con khỉ sổng chuồng, phải dùng súng gây mê để bắt lại](https://tuoitre.vn/thai-lan-100-con-khi-song-chuong-phai-dung-sung-gay-me-de-bat-lai-100260630193052702.htm) - 20:01 30/06/2026
+- 💂 [NASA chạy đua giải cứu đài quan sát sắp &#39;rơi tự do&#39; về Trái đất](https://tuoitre.vn/nasa-chay-dua-giai-cuu-dai-quan-sat-sap-roi-tu-do-ve-trai-dat-100260630184044103.htm) - 20:00 30/06/2026
+- 🦒 [Anh chi kỷ lục gần 400 tỉ USD cải tổ quân đội, học cách đánh của Ukraine](https://tuoitre.vn/anh-chi-ky-luc-gan-400-ti-usd-cai-to-quan-doi-hoc-cach-danh-cua-ukraine-100260630193703158.htm) - 19:47 30/06/2026
+- 🔭 [Ba Lan không chuyển thêm tiêm kích MiG-29 cho Ukraine, dọa chặn đường vào EU](https://tuoitre.vn/ba-lan-khong-chuyen-them-tiem-kich-mig-29-cho-ukraine-doa-chan-duong-vao-eu-100260630182055166.htm) - 18:43 30/06/2026
+- 👨‍🏫 [Pháp thắp sáng Nữ thần Tự do nhân 250 năm Quốc khánh Mỹ](https://tuoitre.vn/phap-thap-sang-nu-than-tu-do-nhan-250-nam-quoc-khanh-my-100260630172400986.htm) - 17:35 30/06/2026
+- 🦆 [Tỉ phú lưu vong Trung Quốc bị Mỹ tuyên án 30 năm tù vì tội lừa đảo](https://tuoitre.vn/ti-phu-luu-vong-trung-quoc-bi-my-tuyen-an-30-nam-tu-vi-toi-lua-dao-100260630172143989.htm) - 17:31 30/06/2026<!-- tuoitre-the-gioi:END -->
