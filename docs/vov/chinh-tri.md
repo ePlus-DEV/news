@@ -4,33 +4,33 @@ sidebar_position: 2
 ---
 
 <!-- vov-chinh-tri:START -->
-- 🧑‍🏫 [Quy định mới về chức năng của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng](https://vov.vn/chinh-tri/quy-dinh-moi-ve-chuc-nang-cua-ban-chi-dao-trung-uong-ve-phong-chong-tham-nhung-post1311541.vov) - 14:57 01/07/2026
-- 💃 [Thủ tướng làm Trưởng Ban Chỉ đạo thực hiện các Chương trình mục tiêu quốc gia](https://vov.vn/chinh-tri/thu-tuong-lam-truong-ban-chi-dao-thuc-hien-cac-chuong-trinh-muc-tieu-quoc-gia-post1311516.vov) - 13:10 01/07/2026
-- 🫶 [Việt Nam gửi điện mừng Quốc khánh Cộng hòa Rwanda](https://vov.vn/chinh-tri/viet-nam-gui-dien-mung-quoc-khanh-cong-hoa-rwanda-post1311512.vov) - 12:25 01/07/2026
-- 👨‍🏫 [Điện mừng Quốc khánh Cộng hòa Burundi](https://vov.vn/chinh-tri/dien-mung-quoc-khanh-cong-hoa-burundi-post1311515.vov) - 12:16 01/07/2026
-- 🪜 [Chủ tịch Quốc hội: An ninh đối ngoại phát huy vai trò &quot;đi trước mở đường&quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-an-ninh-doi-ngoai-phat-huy-vai-tro-di-truoc-mo-duong-post1311509.vov) - 11:49 01/07/2026
-- 🌋 [Nghị quyết lịch sử và trọng trách mới của siêu đô thị TP.HCM](https://vov.vn/chinh-tri/nghi-quyet-lich-su-va-trong-trach-moi-cua-sieu-do-thi-tphcm-post1311440.vov) - 11:16 01/07/2026
-- 🎉 [Việc sửa đổi Luật Đất đai cần được tiếp cận với tư duy đổi mới](https://vov.vn/chinh-tri/viec-sua-doi-luat-dat-dai-can-duoc-tiep-can-voi-tu-duy-doi-moi-post1311503.vov) - 11:12 01/07/2026
-- 🌝 [Tổng Bí thư, Chủ tịch nước: Thúc đẩy mạnh mẽ chuyển đổi số, báo cáo bằng sản phẩm](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-thuc-day-manh-me-chuyen-doi-so-bao-cao-bang-san-pham-post1311495.vov) - 11:11 01/07/2026
-- 🏊 [Những “chứng nhân lặng lẽ” ghi dấu hành trình vươn mình của TP.HCM](https://vov.vn/chinh-tri/nhung-chung-nhan-lang-le-ghi-dau-hanh-trinh-vuon-minh-cua-tphcm-post1311415.vov) - 10:44 01/07/2026
-- 🧑‍💻 [Học và làm theo Bác từ những việc làm bình dị giữa đời thường](https://vov.vn/chinh-tri/hoc-va-lam-theo-bac-tu-nhung-viec-lam-binh-di-giua-doi-thuong-post1311437.vov) - 10:39 01/07/2026
-- 🤠 [Đà Nẵng điều động, bổ nhiệm nhiều lãnh đạo sở, ngành địa phương](https://vov.vn/chinh-tri/da-nang-dieu-dong-bo-nhiem-nhieu-lanh-dao-so-nganh-dia-phuong-post1311431.vov) - 10:02 01/07/2026
-- 🦄 [Chủ tịch Quốc hội dự lễ kỷ niệm 80 năm Ngày truyền thống An ninh đối ngoại](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-du-le-ky-niem-80-nam-ngay-truyen-thong-an-ninh-doi-ngoai-post1311447.vov) - 09:48 01/07/2026
-- 💻 [Một năm sắp xếp lại giang sơn - Tinh gọn, gần dân, hiệu quả](https://vov.vn/chinh-tri/mot-nam-sap-xep-lai-giang-son-tinh-gon-gan-dan-hieu-qua-post1311435.vov) - 09:40 01/07/2026
-- 💻 [Hà Nội thực hiện Nghị quyết số 57: 179 đơn vị, hơn 77.000 cán bộ tham gia HanoiWorks](https://vov.vn/chinh-tri/ha-noi-thuc-hien-nghi-quyet-so-57-179-don-vi-hon-77000-can-bo-tham-gia-hanoiworks-post1311379.vov) - 09:34 01/07/2026
-- 🌁 [Sơ kết thực hiện Nghị quyết số 57: Kinh tế số đạt 14% GDP, hơn 84% nhiệm vụ hoàn thành đúng hạn](https://vov.vn/chinh-tri/so-ket-thuc-hien-nghi-quyet-so-57-kinh-te-so-dat-14-gdp-hon-84-nhiem-vu-hoan-thanh-dung-han-post1311406.vov) - 09:16 01/07/2026
-- 🧰 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì Hội nghị sơ kết thực hiện Nghị quyết số 57](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-hoi-nghi-so-ket-thuc-hien-nghi-quyet-so-57-post1311396.vov) - 08:27 01/07/2026
-- 👨‍🏫 [Công bố nhân sự lãnh đạo báo SGGP, báo điện tử Tuổi Trẻ và HTV](https://vov.vn/chinh-tri/cong-bo-nhan-su-lanh-dao-bao-sggp-bao-dien-tu-tuoi-tre-va-htv-post1311387.vov) - 08:08 01/07/2026
-- 👀 [Đà Nẵng: Bí thư phường Hải Châu làm Giám đốc Sở Nội vụ, Chủ tịch Đặc khu Hoàng Sa](https://vov.vn/chinh-tri/da-nang-bi-thu-phuong-hai-chau-lam-giam-doc-so-noi-vu-chu-tich-dac-khu-hoang-sa-post1311325.vov) - 07:45 01/07/2026
-- 💫 [Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Hội nghị sơ kết 1 năm mô hình chính quyền 3 cấp](https://vov.vn/chinh-tri/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-hoi-nghi-so-ket-1-nam-mo-hinh-chinh-quyen-3-cap-post1311378.vov) - 07:37 01/07/2026
-- 🤩 [Đà Nẵng điều động Phó Chủ tịch UBND thành phố làm Bí thư Đảng ủy phường Hội An](https://vov.vn/chinh-tri/da-nang-dieu-dong-pho-chu-tich-ubnd-thanh-pho-lam-bi-thu-dang-uy-phuong-hoi-an-post1311319.vov) - 07:30 01/07/2026
-- 🫣 [Huế điều động, bổ nhiệm nhiều cán bộ chủ chốt](https://vov.vn/chinh-tri/hue-dieu-dong-bo-nhiem-nhieu-can-bo-chu-chot-post1311369.vov) - 07:27 01/07/2026
-- 🤖 [Bí thư phường được giới thiệu hiệp thương cử làm Phó Chủ tịch UBMTTQ TP.Đà Nẵng](https://vov.vn/chinh-tri/bi-thu-phuong-duoc-gioi-thieu-hiep-thuong-cu-lam-pho-chu-tich-ubmttq-tpda-nang-post1311313.vov) - 07:26 01/07/2026
-- 🌁 [Sớm xây dựng kiến trúc dữ liệu thống nhất trong hệ thống chính trị](https://vov.vn/chinh-tri/som-xay-dung-kien-truc-du-lieu-thong-nhat-trong-he-thong-chinh-tri-post1311318.vov) - 05:19 01/07/2026
-- 🐲 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Bộ máy mới phải phục vụ người dân tốt hơn](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-bo-may-moi-phai-phuc-vu-nguoi-dan-tot-hon-post1311351.vov) - 05:08 01/07/2026
-- 🦒 [Hà Nội kiên quyết xử lý cán bộ chậm trễ, né tránh, đùn đẩy trách nhiệm](https://vov.vn/chinh-tri/ha-noi-kien-quyet-xu-ly-can-bo-cham-tre-ne-tranh-dun-day-trach-nhiem-post1311303.vov) - 05:07 01/07/2026
-- 🌈 [3 yếu tố để mô hình chính quyền địa phương hai cấp vận hành hiệu quả hơn](https://vov.vn/chinh-tri/3-yeu-to-de-mo-hinh-chinh-quyen-dia-phuong-hai-cap-van-hanh-hieu-qua-hon-post1311294.vov) - 03:39 01/07/2026
-- 🦏 [Bỏ cấp trung gian, mô hình chính quyền 3 cấp khẳng định tính ưu việt](https://vov.vn/chinh-tri/bo-cap-trung-gian-mo-hinh-chinh-quyen-3-cap-khang-dinh-tinh-uu-viet-post1311243.vov) - 03:18 01/07/2026
-- 🦏 [29 luật quan trọng có hiệu lực từ ngày 1/7/2026](https://vov.vn/chinh-tri/29-luat-quan-trong-co-hieu-luc-tu-ngay-172026-post1311288.vov) - 02:59 01/07/2026
-- 💯 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì hội nghị sơ kết mô hình chính quyền 3 cấp](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-hoi-nghi-so-ket-mo-hinh-chinh-quyen-3-cap-post1311265.vov) - 02:34 01/07/2026
-- 🤔 [Hội nghị toàn quốc sơ kết 1 năm vận hành mô hình chính quyền 3 cấp](https://vov.vn/chinh-tri/hoi-nghi-toan-quoc-so-ket-1-nam-van-hanh-mo-hinh-chinh-quyen-3-cap-post1311255.vov) - 02:19 01/07/2026<!-- vov-chinh-tri:END -->
+- 🧑‍🏫 [Giả bán gỗ nhập khẩu trên Facebook, Zalo để lừa tiền cọc](https://vov.vn/chinh-tri/gia-ban-go-nhap-khau-tren-facebook-zalo-de-lua-tien-coc-post1311795.vov) - 10:11 02/07/2026
+- 💃 [Điện mừng tân Tổng thống Cộng hòa Colombia](https://vov.vn/chinh-tri/dien-mung-tan-tong-thong-cong-hoa-colombia-post1311762.vov) - 09:32 02/07/2026
+- 🫶 [Thủ tướng: Hiện đại hóa quân đội đáp ứng yêu cầu tác chiến trong tình hình mới](https://vov.vn/chinh-tri/thu-tuong-hien-dai-hoa-quan-doi-dap-ung-yeu-cau-tac-chien-trong-tinh-hinh-moi-post1311759.vov) - 09:28 02/07/2026
+- 👨‍🏫 [Ông Nguyễn Văn Toàn giữ chức Phó trưởng Ban Nội chính Thành ủy Hà Nội](https://vov.vn/chinh-tri/ong-nguyen-van-toan-giu-chuc-pho-truong-ban-noi-chinh-thanh-uy-ha-noi-post1311726.vov) - 07:58 02/07/2026
+- 🪜 [Thu hồi hơn 6.000 tỷ đồng từ các vụ án tham nhũng, kinh tế](https://vov.vn/chinh-tri/thu-hoi-hon-6000-ty-dong-tu-cac-vu-an-tham-nhung-kinh-te-post1311701.vov) - 07:47 02/07/2026
+- 🌋 [Xử lý hiệu quả các tình huống, không để bị động, bất ngờ](https://vov.vn/quan-su-quoc-phong/xu-ly-hieu-qua-cac-tinh-huong-khong-de-bi-dong-bat-ngo-post1311668.vov) - 07:45 02/07/2026
+- 🎉 [Thủ tướng yêu cầu siết trách nhiệm xây dựng, ban hành văn bản luật](https://vov.vn/chinh-tri/thu-tuong-yeu-cau-siet-trach-nhiem-xay-dung-ban-hanh-van-ban-luat-post1311710.vov) - 07:44 02/07/2026
+- 🌝 [Hội nghị Quân chính toàn quân 6 tháng năm 2026](https://vov.vn/chinh-tri/hoi-nghi-quan-chinh-toan-quan-6-thang-nam-2026-post1311703.vov) - 07:39 02/07/2026
+- 🏊 [Bảo vệ nền tảng tư tưởng của Đảng từ thực tiễn vận hành chính quyền 3 cấp](https://vov.vn/chinh-tri/bao-ve-nen-tang-tu-tuong-cua-dang-tu-thuc-tien-van-hanh-chinh-quyen-3-cap-post1311697.vov) - 07:22 02/07/2026
+- 🧑‍💻 [Phó Thủ tướng Hồ Quốc Dũng dự khởi công khu công nghệ số tập trung ở Thái Nguyên](https://vov.vn/chinh-tri/pho-thu-tuong-ho-quoc-dung-du-khoi-cong-khu-cong-nghe-so-tap-trung-o-thai-nguyen-post1311704.vov) - 07:13 02/07/2026
+- 🤠 [Thủ tướng dự Hội nghị Quân chính toàn quân 6 tháng đầu năm 2026](https://vov.vn/chinh-tri/thu-tuong-du-hoi-nghi-quan-chinh-toan-quan-6-thang-dau-nam-2026-post1311681.vov) - 05:07 02/07/2026
+- 🦄 [Phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại lễ kỷ niệm 50 năm thành phố mang tên Bác](https://vov.vn/chinh-tri/phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-le-ky-niem-50-nam-thanh-pho-mang-ten-bac-post1311654.vov) - 04:58 02/07/2026
+- 💻 [Thủ tướng: Lực lượng công an nâng cao năng lực dự báo chiến lược](https://vov.vn/chinh-tri/thu-tuong-luc-luong-cong-an-nang-cao-nang-luc-du-bao-chien-luoc-post1311677.vov) - 04:50 02/07/2026
+- 💻 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng TP.HCM thành siêu đô thị chiến lược](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-tphcm-thanh-sieu-do-thi-chien-luoc-post1311678.vov) - 04:43 02/07/2026
+- 🌁 [Sáp nhập thôn, tổ dân phố ở Bắc Ninh: Gọn bộ máy, giữ tên làng cổ](https://vov.vn/chinh-tri/sap-nhap-thon-to-dan-pho-o-bac-ninh-gon-bo-may-giu-ten-lang-co-post1311546.vov) - 03:10 02/07/2026
+- 🧰 [Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ kỷ niệm 50 năm thành phố mang tên Bác](https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-50-nam-thanh-pho-mang-ten-bac-post1311611.vov) - 02:37 02/07/2026
+- 👨‍🏫 [Lai Châu bổ nhiệm Chánh Văn phòng UBND tỉnh](https://vov.vn/chinh-tri/lai-chau-bo-nhiem-chanh-van-phong-ubnd-tinh-post1311597.vov) - 01:49 02/07/2026
+- 👀 [Quy định về thí điểm thành lập văn phòng đại diện của UBND cấp tỉnh ở nước ngoài](https://vov.vn/chinh-tri/quy-dinh-ve-thi-diem-thanh-lap-van-phong-dai-dien-cua-ubnd-cap-tinh-o-nuoc-ngoai-post1311568.vov) - 01:21 02/07/2026
+- 💫 [Kỳ vọng từ những thôn mới sau sắp xếp](https://vov.vn/chinh-tri/ky-vong-tu-nhung-thon-moi-sau-sap-xep-post1311526.vov) - 00:00 02/07/2026
+- 🤩 [Từ chỉ đạo của Thủ tướng đến cơ chế đột phá cho phát triển công nghệ chiến lược](https://vov.vn/chinh-tri/tu-chi-dao-cua-thu-tuong-den-co-che-dot-pha-cho-phat-trien-cong-nghe-chien-luoc-post1311426.vov) - 23:26 01/07/2026
+- 🫣 [&quot;Gần dân, sát dân, hiểu dân, phục vụ dân&quot; là mục tiêu của mọi đổi mới](https://vov.vn/chinh-tri/gan-dan-sat-dan-hieu-dan-phuc-vu-dan-la-muc-tieu-cua-moi-doi-moi-post1311460.vov) - 23:24 01/07/2026
+- 🤖 [Hơn 70 năm gìn giữ câu chuyện má Lê Thị Sảnh tặng Bác Hồ cây vú sữa](https://vov.vn/chinh-tri/hon-70-nam-gin-giu-cau-chuyen-ma-le-thi-sanh-tang-bac-ho-cay-vu-sua-post1311266.vov) - 23:19 01/07/2026
+- 🌁 [Xã Tuyên Hóa &lpar;Quảng Trị&rpar; đưa “chính quyền lưu động” về tận thôn phục vụ người dân](https://vov.vn/chinh-tri/xa-tuyen-hoa-quang-tri-dua-chinh-quyen-luu-dong-ve-tan-thon-phuc-vu-nguoi-dan-post1311316.vov) - 23:00 01/07/2026
+- 🐲 [Lào Cai: Lời hứa sau chất vất là “thước đo” đánh giá năng lực cán bộ](https://vov.vn/chinh-tri/lao-cai-loi-hua-sau-chat-vat-la-thuoc-do-danh-gia-nang-luc-can-bo-post1311418.vov) - 23:00 01/07/2026
+- 🦒 [Từ xã lên phường: Tránh “phần cứng” đã là phường, “phần mềm” vẫn là xã](https://vov.vn/chinh-tri/tu-xa-len-phuong-tranh-phan-cung-da-la-phuong-phan-mem-van-la-xa-post1311357.vov) - 23:00 01/07/2026
+- 🌈 [Quy định mới về chức năng của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng](https://vov.vn/chinh-tri/quy-dinh-moi-ve-chuc-nang-cua-ban-chi-dao-trung-uong-ve-phong-chong-tham-nhung-post1311541.vov) - 14:57 01/07/2026
+- 🦏 [Thủ tướng làm Trưởng Ban Chỉ đạo thực hiện các Chương trình mục tiêu quốc gia](https://vov.vn/chinh-tri/thu-tuong-lam-truong-ban-chi-dao-thuc-hien-cac-chuong-trinh-muc-tieu-quoc-gia-post1311516.vov) - 13:10 01/07/2026
+- 🦏 [Việt Nam gửi điện mừng Quốc khánh Cộng hòa Rwanda](https://vov.vn/chinh-tri/viet-nam-gui-dien-mung-quoc-khanh-cong-hoa-rwanda-post1311512.vov) - 12:25 01/07/2026
+- 💯 [Điện mừng Quốc khánh Cộng hòa Burundi](https://vov.vn/chinh-tri/dien-mung-quoc-khanh-cong-hoa-burundi-post1311515.vov) - 12:16 01/07/2026
+- 🤔 [Chủ tịch Quốc hội: An ninh đối ngoại phát huy vai trò &quot;đi trước mở đường&quot;](https://vov.vn/chinh-tri/chu-tich-quoc-hoi-an-ninh-doi-ngoai-phat-huy-vai-tro-di-truoc-mo-duong-post1311509.vov) - 11:49 01/07/2026<!-- vov-chinh-tri:END -->
