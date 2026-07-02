@@ -4,53 +4,53 @@ sidebar_position: 9
 ---
 
 <!-- nld-giao-duc-khoa-hoc:START -->
-- 💯 [Chọn nguyện vọng ĐH phù hợp khi biết điểm thi](https://nld.com.vn/chon-nguyen-vong-dh-phu-hop-khi-biet-diem-thi-196260625205543116.htm) - 19:04 25/06/2026
-- 🌮 [Trường ĐH Luật TPHCM công bố 4 đề án đào tạo mới](https://nld.com.vn/truong-dh-luat-tphcm-cong-bo-4-de-an-dao-tao-moi-196260625114706706.htm) - 06:03 25/06/2026
-- 🐎 [TS Nguyễn Quốc Chính làm Phó Hiệu trưởng Trường ĐH Quốc tế](https://nld.com.vn/ts-nguyen-quoc-chinh-lam-pho-hieu-truong-truong-dh-quoc-te-196260625112111786.htm) - 05:20 25/06/2026
-- 🔥 [Đang talkshow trực tuyến: Quyết định quan trọng khi biết điểm thi tốt nghiệp THPT](https://nld.com.vn/14-gio-chieu-nay-25-6-talkshow-quyet-dinh-quan-trong-khi-biet-diem-thi-tot-nghiep-thpt-196260625090953193.htm) - 04:05 25/06/2026
-- 🥳 [Hành trình về nguồn tại Côn Đảo: Sở GD-ĐT TPHCM có chỉ đạo mới](https://nld.com.vn/hanh-trinh-ve-nguon-tai-con-dao-so-gd-dt-tphcm-co-chi-dao-moi-196260625095056107.htm) - 04:01 25/06/2026
-- 🤔 [NÓNG: Chậm nhất 15 giờ ngày 30-6, Sở GD-ĐT TPHCM công bố điểm chuẩn lớp 10](https://nld.com.vn/nong-cham-nhat-15-gio-ngay-30-6-so-gd-dt-tphcm-cong-bo-diem-chuan-lop-10-196260625090725926.htm) - 02:38 25/06/2026
-- 🌏 [Trường Tài năng UEH.ISB tuyển sinh Thạc sĩ hai ngành học dẫn đầu xu hướng](https://nld.com.vn/truong-tai-nang-uehisb-tuyen-sinh-thac-si-hai-nganh-hoc-dan-dau-xu-huong-196260624161032277.htm) - 01:41 25/06/2026
-- 💃 [Trường Tài năng UEH.ISB thúc đẩy Nghiên cứu khoa học 2026: Ra mắt quỹ nghiên cứu Asia R&amp;D Connect](https://nld.com.vn/truong-tai-nang-uehisb-thuc-day-nghien-cuu-khoa-hoc-2026-ra-mat-quy-nghien-cuu-asia-rd-connect-196260624160147881.htm) - 13:41 24/06/2026
-- 😎 [Ba bác sĩ nội trú nhận học bổng gần 200 triệu đồng](https://nld.com.vn/ba-bac-si-noi-tru-nhan-hoc-bong-gan-200-trieu-dong-196260624164409839.htm) - 09:49 24/06/2026
-- 🧑‍💻 [Trường Đại học Cửu Long thăm và làm việc với Đại sứ quán Việt Nam tại Hàn Quốc](https://nld.com.vn/truong-dai-hoc-cuu-long-tham-va-lam-viec-voi-dai-su-quan-viet-nam-tai-han-quoc-196260624140412701.htm) - 07:11 24/06/2026
-- 🧠 [Học bạ vẫn là &quot;tấm vé&quot; quan trọng để xét tuyển đại học](https://nld.com.vn/hoc-ba-van-la-tam-ve-quan-trong-de-xet-tuyen-dai-hoc-196260623204202943.htm) - 23:00 23/06/2026
-- 🪄 [ĐH Kinh tế Quốc dân có thêm 21 chương trình đạt kiểm định quốc tế](https://nld.com.vn/dh-kinh-te-quoc-dan-co-them-21-chuong-trinh-dat-kiem-dinh-quoc-te-196260623175539095.htm) - 11:06 23/06/2026
-- ⛽️ [Xét tuyển học bạ năm 2026: Cần hiểu đúng để không bỏ lỡ cơ hội vào đại học](https://nld.com.vn/xet-tuyen-hoc-ba-nam-2026-can-hieu-dung-de-khong-bo-lo-co-hoi-vao-dai-hoc-196260623170148096.htm) - 10:33 23/06/2026
-- 🤗 [14 giờ hôm nay, 23-6: Giải đáp thắc mắc về xét tuyển học bạ 2026](https://nld.com.vn/14-gio-hom-nay-23-6-giai-dap-thac-mac-ve-xet-tuyen-hoc-ba-2026-196260623125931112.htm) - 06:26 23/06/2026
-- 👍 [Trường Đại học Cửu Long hợp tác với trường đại học của Hàn Quốc](https://nld.com.vn/truong-dai-hoc-cuu-long-hop-tac-voi-truong-dai-hoc-cua-han-quoc-196260622201657009.htm) - 13:24 22/06/2026
-- 💻 [Tìm &quot;cửa sáng&quot; sau khi biết điểm thi lớp 10](https://nld.com.vn/tim-cua-sang-sau-khi-biet-diem-thi-lop-10-196260621204851648.htm) - 20:30 21/06/2026
-- 🎊 [Người thầy kính yêu: Thầy của chúng tôi, nhà báo Nguyễn Công Thành!](https://nld.com.vn/nguoi-thay-kinh-yeu-thay-cua-chung-toi-nha-bao-nguyen-cong-thanh-196260620213744883.htm) - 00:00 21/06/2026
-- 🌁 [Sinh viên Việt Nam giành huy chương vàng cuộc thi Kỹ năng nghề Y học cổ truyền Việt - Trung](https://nld.com.vn/sinh-vien-viet-nam-gianh-huy-chuong-vang-cuoc-thi-ky-nang-nghe-y-hoc-co-truyen-viet-trung-196260620220230163.htm) - 22:00 20/06/2026
-- 👹 [Sở GD-ĐT TPHCM nêu lý do chưa thể công bố ngay điểm chuẩn lớp 10 hệ đại trà](https://nld.com.vn/so-gd-dt-tphcm-neu-ly-do-chua-the-cong-bo-ngay-diem-chuan-lop-10-he-dai-tra-196260620155951134.htm) - 09:48 20/06/2026
-- 🌋 [Thủ khoa thi lớp 10 năm 2026 ở TPHCM là học sinh ngoài công lập với 2 điểm 10](https://nld.com.vn/thu-khoa-thi-lop-10-nam-2026-o-tphcm-la-hoc-sinh-ngoai-cong-lap-voi-2-diem-10-196260620122240823.htm) - 05:35 20/06/2026
-- 💼 [Bộ GD-ĐT công bố đáp án các môn thi tốt nghiệp THPT](https://nld.com.vn/bo-gd-dt-cong-bo-dap-an-cac-mon-thi-tot-nghiep-thpt-196260619191455311.htm) - 12:23 19/06/2026
-- 🌊 [Bí thư Đảng ủy phường Sài Gòn làm Giám đốc Sở GD-ĐT TPHCM](https://nld.com.vn/bi-thu-dang-uy-phuong-sai-gon-lam-giam-doc-so-gd-dt-tphcm-196260619181439129.htm) - 11:27 19/06/2026
-- 🌮 [Việc làm ý nghĩa của Trường Đại học Cửu Long với nhiều hộ dân ở Vĩnh Long](https://nld.com.vn/viec-lam-y-nghia-cua-truong-dai-hoc-cuu-long-voi-nhieu-ho-dan-o-vinh-long-196260619171422281.htm) - 10:23 19/06/2026
-- 👺 [Trúng tuyển Trường Phổ thông Năng khiếu TPHCM, thủ tục nhập học thế nào?](https://nld.com.vn/trung-tuyen-truong-pho-thong-nang-khieu-tphcm-thu-tuc-nhap-hoc-the-nao-196260619151722217.htm) - 08:40 19/06/2026
-- 🌈 [Từ 19-6, học sinh thi lớp 10 có 4 ngày đăng ký phúc khảo](https://nld.com.vn/tu-19-6-hoc-sinh-thi-lop-10-co-4-ngay-dang-ky-phuc-khao-196260619142641944.htm) - 07:43 19/06/2026
-- 🫶 [“Bữa ăn học đường” nâng cao dinh dưỡng, lan tỏa ý thức bảo vệ môi trường cho học sinh](https://nld.com.vn/bua-an-hoc-duong-nang-cao-dinh-duong-lan-toa-y-thuc-bao-ve-moi-truong-cho-hoc-sinh-196260619111211007.htm) - 04:19 19/06/2026
-- 🎡 [Chân sút nhí 2026 - 30 tuyển thủ được lựa chọn tham gia trại hè ngoại hạng Elite Camp tại Thái Lan](https://nld.com.vn/chan-sut-nhi-2026-30-tuyen-thu-duoc-lua-chon-tham-gia-trai-he-ngoai-hang-elite-camp-tai-thai-lan-196260619103351953.htm) - 04:19 19/06/2026
-- 🦅 [Công nghệ lượng tử: Việt Nam không thể chậm chân](https://nld.com.vn/cong-nghe-luong-tu-viet-nam-khong-the-cham-chan-196260619100818384.htm) - 03:24 19/06/2026
-- 🫶 [NÓNG: TPHCM công bố điểm chuẩn lớp 10 chuyên, tích hợp; Xem điểm thi, điểm chuẩn TẠI ĐÂY](https://nld.com.vn/nong-tphcm-cong-bo-diem-chuan-lop-10-chuyen-tich-hop-xem-diem-thi-diem-chuan-tai-day-1962606190952116.htm) - 02:58 19/06/2026
-- 🏊 [Nhiều ngành cần nhân lực đang chờ thí sinh](https://nld.com.vn/nhieu-nganh-can-nhan-luc-dang-cho-thi-sinh-196260618201001023.htm) - 21:37 18/06/2026
-- 🪜 [Talkshow “Ngành học ‘khát’ nhân lực, nhiều cơ hội trúng tuyển”: Gợi mở hướng đi cho bạn trẻ](https://nld.com.vn/talkshow-nganh-hoc-khat-nhan-luc-nhieu-co-hoi-trung-tuyen-goi-mo-huong-di-cho-ban-tre-196260618200315953.htm) - 13:36 18/06/2026
-- 🦣 [Đã có điểm thi lớp 10 tại TPHCM, xem điểm TẠI ĐÂY](https://nld.com.vn/9-gio-sang-19-6-cong-bo-diem-thi-lop-10-diem-chuan-truong-chuyen-tai-tphcm-xem-diem-tai-day-196260618110925227.htm) - 04:22 18/06/2026
-- 🎉 [Trường ĐH ở TPHCM xây công trình tri ân liệt sĩ tại Quảng Ngãi](https://nld.com.vn/truong-dh-o-tphcm-xay-cong-trinh-tri-an-liet-si-tai-quang-ngai-196260617182556075.htm) - 03:30 18/06/2026
-- 🎓 [Ngành học khát nhân lực, cơ hội nào cho thí sinh?](https://nld.com.vn/nganh-hoc-khat-nhan-luc-co-hoi-nao-cho-thi-sinh-196260618094120941.htm) - 03:23 18/06/2026
-- 🚀 [Nhiều lựa chọn ngoài lớp 10 công lập](https://nld.com.vn/nhieu-lua-chon-ngoai-lop-10-cong-lap-196260617201552619.htm) - 23:41 17/06/2026
-- 🌈 [Sẽ diễn ra một hội thi quan trọng đối với Trường Đại học Cửu Long](https://nld.com.vn/se-dien-ra-mot-hoi-thi-quan-trong-doi-voi-truong-dai-hoc-cuu-long-196260617170528003.htm) - 10:35 17/06/2026
-- 🌁 [Liên minh Thương hiệu Sài Gòn kết nối 5 trụ cột](https://nld.com.vn/lien-minh-thuong-hieu-sai-gon-ket-noi-5-tru-cot-196260617170227955.htm) - 10:19 17/06/2026
-- 😎 [Thiết thực talkshow “Chuẩn bị công bố điểm thi lớp 10, tìm cơ hội học tập cho học sinh”](https://nld.com.vn/thiet-thuc-talkshow-chuan-bi-cong-bo-diem-thi-lop-10-tim-co-hoi-hoc-tap-cho-hoc-sinh-196260617164957731.htm) - 10:06 17/06/2026
-- 🦆 [Mất nhiều năm tích lũy mới mua được nhà ở](https://nld.com.vn/mat-tu-40-60-nam-tich-luy-moi-mua-duoc-nha-o-196260617111719786.htm) - 06:17 17/06/2026
-- 🌝 [Talkshow: Chuẩn bị công bố điểm thi lớp 10, tìm cơ hội học tập cho học sinh](https://nld.com.vn/talkshow-chuan-bi-cong-bo-diem-thi-lop-10-tim-co-hoi-hoc-tap-cho-hoc-sinh-196260617080806648.htm) - 01:50 17/06/2026
-- 🫣 [Đừng bỏ lỡ cơ hội vào ĐH khi chờ điểm thi](https://nld.com.vn/dung-bo-lo-co-hoi-vao-dh-khi-cho-diem-thi-196260616213957761.htm) - 00:41 17/06/2026
-- 🤩 [Sinh viên tranh tài hùng biện công dân số](https://nld.com.vn/sinh-vien-tranh-tai-hung-bien-cong-dan-so-196260616165410125.htm) - 10:26 16/06/2026
-- 🎓 [Hơn 12.000 thí sinh xét tuyển trường cao đẳng, 8 điểm/môn mới đậu ngành &quot;hot&quot;](https://nld.com.vn/hon-12000-thi-sinh-xet-tuyen-truong-cao-dang-8-diem-mon-moi-dau-nganh-hot-196260616152752376.htm) - 08:57 16/06/2026
-- ⛽️ [Quảng Ngãi có phân hiệu mới của Trường ĐH Tài chính - Marketing](https://nld.com.vn/quang-ngai-co-phan-hieu-moi-cua-truong-dh-tai-chinh-marketing-196260616134539937.htm) - 07:02 16/06/2026
-- 🎡 [Vụ gợi ý thí sinh cho bạn xem bài thi tốt nghiệp THPT: Kỷ luật 3 giám thị](https://nld.com.vn/vu-goi-y-thi-sinh-cho-ban-xem-bai-thi-tot-nghiep-thpt-ky-luat-3-giam-thi-196260616121411807.htm) - 05:28 16/06/2026
-- 🚀 [Điểm chuẩn đại học có thể &quot;nhích&quot; lên, lưu ý khi đăng ký nguyện vọng](https://nld.com.vn/sang-nay-bao-nguoi-lao-dong-to-chuc-talkshow-phan-tich-de-thi-thpt-2026-du-doan-diem-chuan-196260616084549016.htm) - 01:53 16/06/2026
-- 👺 [Trường ĐH Quốc tế Hồng Bàng mở bệnh viện, tạo cơ hội cho sinh viên](https://nld.com.vn/truong-dh-quoc-te-hong-bang-mo-benh-vien-tao-co-hoi-cho-sinh-vien-196260615161415617.htm) - 12:09 15/06/2026
-- 🦄 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Chuyển mạnh sang “quản trị phát triển giáo dục”](https://nld.com.vn/tong-bi-thu-chu-tich-nuoc-to-lam-chuyen-manh-sang-quan-tri-phat-trien-giao-duc-196260615175616567.htm) - 11:31 15/06/2026
-- 🤭 [Bệnh viện ĐH Quốc tế Hồng Bàng được cấp phép hoạt động khám, chữa bệnh](https://nld.com.vn/benh-vien-dh-quoc-te-hong-bang-duoc-cap-phep-hoat-dong-kham-chua-benh-19626061518135436.htm) - 11:18 15/06/2026
-- 🚀 [Sinh viên kể chuyện hành trình vượt qua giới hạn bản thân](https://nld.com.vn/sinh-vien-ke-chuyen-hanh-trinh-vuot-qua-gioi-han-ban-than-196260614234718581.htm) - 01:35 15/06/2026<!-- nld-giao-duc-khoa-hoc:END -->
+- 💯 [Trường ĐH FPT hợp tác với đại học trọng điểm Trung Quốc](https://tuoitre.vn/nld/truong-dh-fpt-hop-tac-voi-dai-hoc-trong-diem-trung-quoc-196260630173626523.htm) - 10:45 30/06/2026
+- 🌮 [TS Lê Trường Sơn giữ thêm cương vị Bí thư Đảng ủy Trường ĐH Luật TPHCM](https://tuoitre.vn/nld/ts-le-truong-son-giu-them-cuong-vi-bi-thu-dang-uy-truong-dh-luat-tphcm-196260630165724625.htm) - 10:12 30/06/2026
+- 🐎 [Quy định mới về trường phổ thông có nhiều cấp học loại hình tư thục](https://tuoitre.vn/nld/quy-dinh-moi-ve-truong-pho-thong-co-nhieu-cap-hoc-loai-hinh-tu-thuc-196260630113952066.htm) - 04:47 30/06/2026
+- 🔥 [72 thí sinh được tuyển thẳng vào 5 học viện, trường quân đội](https://tuoitre.vn/nld/72-thi-sinh-duoc-tuyen-thang-vao-5-hoc-vien-truong-quan-doi-196260630112409829.htm) - 04:47 30/06/2026
+- 🥳 [TPHCM công bố điểm chuẩn lớp 10 công lập năm 2026](https://tuoitre.vn/nld/nong-tphcm-cong-bo-diem-chuan-lop-10-cong-lap-nam-2026-196260630095834068.htm) - 03:04 30/06/2026
+- 🤔 [Các cách tra cứu điểm thi tốt nghiệp THPT năm 2026](https://tuoitre.vn/nld/cac-cach-tra-cuu-diem-thi-tot-nghiep-thpt-nam-2026-196260629230258428.htm) - 00:00 30/06/2026
+- 🌏 [Tổ chức dạy thêm nhằm trục lợi, ép hoặc lôi kéo học thêm có thể bị phạt 50 triệu đồng](https://tuoitre.vn/nld/to-chuc-day-them-nham-truc-loi-ep-hoac-loi-keo-hoc-them-co-the-bi-phat-50-trieu-dong-196260629225625598.htm) - 23:26 29/06/2026
+- 💃 [25 năm chắp cánh ước mơ cho bạn trẻ](https://tuoitre.vn/nld/25-nam-chap-canh-uoc-mo-cho-ban-tre-196260629200801327.htm) - 23:20 29/06/2026
+- 😎 [Đứng gần sự sống và trân trọng giá trị làm nghề!](https://tuoitre.vn/nld/dung-gan-su-song-196260629201730983.htm) - 23:18 29/06/2026
+- 🧑‍💻 [111 ngành khoa học cơ bản được nhận học bổng Chính phủ](https://tuoitre.vn/nld/111-nganh-khoa-hoc-co-ban-duoc-nhan-hoc-bong-chinh-phu-196260629145526503.htm) - 08:31 29/06/2026
+- 🧠 [Điểm chuẩn lớp 10 dự kiến tăng mạnh](https://tuoitre.vn/nld/diem-chuan-lop-10-du-kien-tang-manh-19626062820122243.htm) - 23:28 28/06/2026
+- 🪄 [Hơn 30.000 tân sinh viên sẽ nhận học bổng 37-55 triệu đồng/năm](https://tuoitre.vn/nld/hon-30000-tan-sinh-vien-se-nhan-hoc-bong-37-55-trieu-dong-nam-196260628165347618.htm) - 10:18 28/06/2026
+- ⛽️ [Rộng cửa sau tốt nghiệp THCS](https://tuoitre.vn/nld/rong-cua-sau-tot-nghiep-thcs-196260627192950655.htm) - 22:06 27/06/2026
+- 🤗 [Học sinh sẽ được theo dõi dinh dưỡng, khám sức khỏe định kỳ](https://tuoitre.vn/nld/hoc-sinh-se-duoc-theo-doi-dinh-duong-kham-suc-khoe-dinh-ky-196260627220538559.htm) - 22:00 27/06/2026
+- 👍 [Bộ GD-ĐT đề nghị các trường đại học báo cáo việc mời ông Nguyễn Thành Nam giảng dạy](https://tuoitre.vn/nld/bo-gd-dt-de-nghi-cac-truong-dai-hoc-bao-cao-viec-moi-ong-nguyen-thanh-nam-giang-day-196260627231350645.htm) - 21:59 27/06/2026
+- 💻 [Trường ĐH VinUni: Hơn 55% sinh viên khóa 2026 nhận thư mời làm việc trước tốt nghiệp](https://tuoitre.vn/nld/truong-dh-vinuni-hon-55-sinh-vien-khoa-2026-nhan-thu-moi-lam-viec-truoc-tot-nghiep-196260627234738861.htm) - 21:57 27/06/2026
+- 🎊 [Một trường học ở TPHCM lọt &quot;Top 10&quot; giải thưởng World&#39;s Best School Prizes 2026](https://tuoitre.vn/nld/mot-truong-hoc-o-tphcm-lot-top-10-giai-thuong-worlds-best-school-prizes-2026-196260627175812259.htm) - 11:18 27/06/2026
+- 🌁 [Trường ĐH Quốc tế Hồng Bàng có khóa bác sĩ y khoa đầu tiên tốt nghiệp](https://tuoitre.vn/nld/truong-dh-quoc-te-hong-bang-co-khoa-bac-si-y-khoa-dau-tien-tot-nghiep-196260627160452781.htm) - 09:59 27/06/2026
+- 👹 [Trường ĐH Hùng Vương TP HCM trao bằng cho tân thạc sĩ và tân cử nhân](https://tuoitre.vn/nld/truong-dh-hung-vuong-tp-hcm-trao-bang-cho-tan-thac-si-va-tan-cu-nhan-196260627142915637.htm) - 07:37 27/06/2026
+- 🌋 [Hiệu trưởng Trường ĐH Luật TPHCM đề nghị cá nhân đặt ra 3 câu hỏi trước khi xử lý dữ liệu](https://tuoitre.vn/nld/hieu-truong-truong-dh-luat-tphcm-de-nghi-ca-nhan-dat-ra-3-cau-hoi-truoc-khi-xu-ly-du-lieu-196260627111913199.htm) - 06:20 27/06/2026
+- 💼 [Đổi mới giáo dục gắn với phát triển nhanh đất nước](https://tuoitre.vn/nld/doi-moi-giao-duc-gan-voi-phat-trien-nhanh-dat-nuoc-19626062621281316.htm) - 01:30 27/06/2026
+- 🌊 [Tiếp lửa truyền thống từ nhân chứng lịch sử](https://tuoitre.vn/nld/tiep-lua-truyen-thong-tu-nhan-chung-lich-su-196260626191546163.htm) - 12:54 26/06/2026
+- 🌮 [Trường CĐ Kỹ thuật Cao Thắng - nơi hơn một thế kỷ lưu giữ dấu ấn lịch sử hào hùng](https://tuoitre.vn/nld/truong-cd-ky-thuat-cao-thang-noi-hon-mot-the-ky-luu-giu-dau-an-lich-su-hao-hung-196260626144007332.htm) - 09:39 26/06/2026
+- 👺 [Chọn nguyện vọng ĐH phù hợp khi biết điểm thi](https://tuoitre.vn/nld/chon-nguyen-vong-dh-phu-hop-khi-biet-diem-thi-196260625205543116.htm) - 19:04 25/06/2026
+- 🌈 [Trường ĐH Luật TPHCM công bố 4 đề án đào tạo mới](https://tuoitre.vn/nld/truong-dh-luat-tphcm-cong-bo-4-de-an-dao-tao-moi-196260625114706706.htm) - 06:03 25/06/2026
+- 🫶 [TS Nguyễn Quốc Chính làm Phó Hiệu trưởng Trường ĐH Quốc tế](https://tuoitre.vn/nld/ts-nguyen-quoc-chinh-lam-pho-hieu-truong-truong-dh-quoc-te-196260625112111786.htm) - 05:20 25/06/2026
+- 🎡 [Đang talkshow trực tuyến: Quyết định quan trọng khi biết điểm thi tốt nghiệp THPT](https://tuoitre.vn/nld/14-gio-chieu-nay-25-6-talkshow-quyet-dinh-quan-trong-khi-biet-diem-thi-tot-nghiep-thpt-196260625090953193.htm) - 04:05 25/06/2026
+- 🦅 [Hành trình về nguồn tại Côn Đảo: Sở GD-ĐT TPHCM có chỉ đạo mới](https://tuoitre.vn/nld/hanh-trinh-ve-nguon-tai-con-dao-so-gd-dt-tphcm-co-chi-dao-moi-196260625095056107.htm) - 04:01 25/06/2026
+- 🫶 [NÓNG: Chậm nhất 15 giờ ngày 30-6, Sở GD-ĐT TPHCM công bố điểm chuẩn lớp 10](https://tuoitre.vn/nld/nong-cham-nhat-15-gio-ngay-30-6-so-gd-dt-tphcm-cong-bo-diem-chuan-lop-10-196260625090725926.htm) - 02:38 25/06/2026
+- 🏊 [Trường Tài năng UEH.ISB tuyển sinh Thạc sĩ hai ngành học dẫn đầu xu hướng](https://tuoitre.vn/nld/truong-tai-nang-uehisb-tuyen-sinh-thac-si-hai-nganh-hoc-dan-dau-xu-huong-196260624161032277.htm) - 01:41 25/06/2026
+- 🪜 [Trường Tài năng UEH.ISB thúc đẩy Nghiên cứu khoa học 2026: Ra mắt quỹ nghiên cứu Asia R&amp;D Connect](https://tuoitre.vn/nld/truong-tai-nang-uehisb-thuc-day-nghien-cuu-khoa-hoc-2026-ra-mat-quy-nghien-cuu-asia-rd-connect-196260624160147881.htm) - 13:41 24/06/2026
+- 🦣 [Ba bác sĩ nội trú nhận học bổng gần 200 triệu đồng](https://tuoitre.vn/nld/ba-bac-si-noi-tru-nhan-hoc-bong-gan-200-trieu-dong-196260624164409839.htm) - 09:49 24/06/2026
+- 🎉 [Trường Đại học Cửu Long thăm và làm việc với Đại sứ quán Việt Nam tại Hàn Quốc](https://tuoitre.vn/nld/truong-dai-hoc-cuu-long-tham-va-lam-viec-voi-dai-su-quan-viet-nam-tai-han-quoc-196260624140412701.htm) - 07:11 24/06/2026
+- 🎓 [Học bạ vẫn là &quot;tấm vé&quot; quan trọng để xét tuyển đại học](https://tuoitre.vn/nld/hoc-ba-van-la-tam-ve-quan-trong-de-xet-tuyen-dai-hoc-196260623204202943.htm) - 23:00 23/06/2026
+- 🚀 [ĐH Kinh tế Quốc dân có thêm 21 chương trình đạt kiểm định quốc tế](https://tuoitre.vn/nld/dh-kinh-te-quoc-dan-co-them-21-chuong-trinh-dat-kiem-dinh-quoc-te-196260623175539095.htm) - 11:06 23/06/2026
+- 🌈 [Xét tuyển học bạ năm 2026: Cần hiểu đúng để không bỏ lỡ cơ hội vào đại học](https://tuoitre.vn/nld/xet-tuyen-hoc-ba-nam-2026-can-hieu-dung-de-khong-bo-lo-co-hoi-vao-dai-hoc-196260623170148096.htm) - 10:33 23/06/2026
+- 🌁 [14 giờ hôm nay, 23-6: Giải đáp thắc mắc về xét tuyển học bạ 2026](https://tuoitre.vn/nld/14-gio-hom-nay-23-6-giai-dap-thac-mac-ve-xet-tuyen-hoc-ba-2026-196260623125931112.htm) - 06:26 23/06/2026
+- 😎 [Trường Đại học Cửu Long hợp tác với trường đại học của Hàn Quốc](https://tuoitre.vn/nld/truong-dai-hoc-cuu-long-hop-tac-voi-truong-dai-hoc-cua-han-quoc-196260622201657009.htm) - 13:24 22/06/2026
+- 🦆 [Tìm &quot;cửa sáng&quot; sau khi biết điểm thi lớp 10](https://tuoitre.vn/nld/tim-cua-sang-sau-khi-biet-diem-thi-lop-10-196260621204851648.htm) - 20:30 21/06/2026
+- 🌝 [Người thầy kính yêu: Thầy của chúng tôi, nhà báo Nguyễn Công Thành!](https://tuoitre.vn/nld/nguoi-thay-kinh-yeu-thay-cua-chung-toi-nha-bao-nguyen-cong-thanh-196260620213744883.htm) - 00:00 21/06/2026
+- 🫣 [Sinh viên Việt Nam giành huy chương vàng cuộc thi Kỹ năng nghề Y học cổ truyền Việt - Trung](https://tuoitre.vn/nld/sinh-vien-viet-nam-gianh-huy-chuong-vang-cuoc-thi-ky-nang-nghe-y-hoc-co-truyen-viet-trung-196260620220230163.htm) - 22:00 20/06/2026
+- 🤩 [Sở GD-ĐT TPHCM nêu lý do chưa thể công bố ngay điểm chuẩn lớp 10 hệ đại trà](https://tuoitre.vn/nld/so-gd-dt-tphcm-neu-ly-do-chua-the-cong-bo-ngay-diem-chuan-lop-10-he-dai-tra-196260620155951134.htm) - 09:48 20/06/2026
+- 🎓 [Thủ khoa thi lớp 10 năm 2026 ở TPHCM là học sinh ngoài công lập với 2 điểm 10](https://tuoitre.vn/nld/thu-khoa-thi-lop-10-nam-2026-o-tphcm-la-hoc-sinh-ngoai-cong-lap-voi-2-diem-10-196260620122240823.htm) - 05:35 20/06/2026
+- ⛽️ [Bộ GD-ĐT công bố đáp án các môn thi tốt nghiệp THPT](https://tuoitre.vn/nld/bo-gd-dt-cong-bo-dap-an-cac-mon-thi-tot-nghiep-thpt-196260619191455311.htm) - 12:23 19/06/2026
+- 🎡 [Bí thư Đảng ủy phường Sài Gòn làm Giám đốc Sở GD-ĐT TPHCM](https://tuoitre.vn/nld/bi-thu-dang-uy-phuong-sai-gon-lam-giam-doc-so-gd-dt-tphcm-196260619181439129.htm) - 11:27 19/06/2026
+- 🚀 [Việc làm ý nghĩa của Trường Đại học Cửu Long với nhiều hộ dân ở Vĩnh Long](https://tuoitre.vn/nld/viec-lam-y-nghia-cua-truong-dai-hoc-cuu-long-voi-nhieu-ho-dan-o-vinh-long-196260619171422281.htm) - 10:23 19/06/2026
+- 👺 [Trúng tuyển Trường Phổ thông Năng khiếu TPHCM, thủ tục nhập học thế nào?](https://tuoitre.vn/nld/trung-tuyen-truong-pho-thong-nang-khieu-tphcm-thu-tuc-nhap-hoc-the-nao-196260619151722217.htm) - 08:40 19/06/2026
+- 🦄 [Từ 19-6, học sinh thi lớp 10 có 4 ngày đăng ký phúc khảo](https://tuoitre.vn/nld/tu-19-6-hoc-sinh-thi-lop-10-co-4-ngay-dang-ky-phuc-khao-196260619142641944.htm) - 07:43 19/06/2026
+- 🤭 [“Bữa ăn học đường” nâng cao dinh dưỡng, lan tỏa ý thức bảo vệ môi trường cho học sinh](https://tuoitre.vn/nld/bua-an-hoc-duong-nang-cao-dinh-duong-lan-toa-y-thuc-bao-ve-moi-truong-cho-hoc-sinh-196260619111211007.htm) - 04:19 19/06/2026
+- 🚀 [Chân sút nhí 2026 - 30 tuyển thủ được lựa chọn tham gia trại hè ngoại hạng Elite Camp tại Thái Lan](https://tuoitre.vn/nld/chan-sut-nhi-2026-30-tuyen-thu-duoc-lua-chon-tham-gia-trai-he-ngoai-hang-elite-camp-tai-thai-lan-196260619103351953.htm) - 04:19 19/06/2026<!-- nld-giao-duc-khoa-hoc:END -->
