@@ -4,63 +4,63 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [&#39;Quy tắc 48 giờ&#39; khi vừa nhận lương](https://vnexpress.net/quy-tac-48-gio-khi-vua-nhan-luong-5092543.html) - 12:16 02/07/2026
-- 🎓 [Đế chế 5.000 tỷ USD Nvidia bắt nhân viên trả tiền ăn trưa](https://vnexpress.net/de-che-5-000-ty-usd-nvidia-bat-nhan-vien-tra-tien-an-trua-5092526.html) - 07:59 02/07/2026
-- 🚦 [Thủ môn loại Đức khỏi World Cup từng phải bán áo đấu để cứu con](https://vnexpress.net/thu-mon-loai-duc-khoi-world-cup-tung-phai-ban-ao-dau-de-cuu-con-5092482.html) - 03:51 02/07/2026
-- 🦣 [Hậu trường bức ảnh 12 triệu &#39;like&#39; trên trang của Ronaldo](https://vnexpress.net/hau-truong-buc-anh-12-trieu-like-tren-trang-cua-ronaldo-5092439.html) - 02:57 02/07/2026
-- 🎓 [Hai thói quen dễ bị hiểu lầm của người thông minh](https://vnexpress.net/hai-thoi-quen-de-bi-hieu-lam-cua-nguoi-thong-minh-5091581.html) - 01:53 02/07/2026
-- 🎭 [Tại sao viện dưỡng lão không thể thay thế gia đình?](https://vnexpress.net/tai-sao-vien-duong-lao-khong-the-thay-the-gia-dinh-5091580.html) - 01:36 02/07/2026
-- 🦅 [Mẹ nuôi Mỹ thay đổi cuộc đời cô gái Việt không tay](https://vnexpress.net/me-nuoi-my-thay-doi-cuoc-doi-co-gai-viet-khong-tay-5088273.html) - 23:35 01/07/2026
-- 🎃 [10 năm làm đủ nghề cứu con mắc bệnh hiếm](https://vnexpress.net/10-nam-lam-du-nghe-cuu-con-mac-benh-hiem-5089712.html) - 18:07 01/07/2026
-- 💪 [Mang màn hình 210 inch vào tiệc cưới để chồng xem bóng đá](https://vnexpress.net/mang-man-hinh-210-inch-vao-tiec-cuoi-de-chong-xem-bong-da-5091515.html) - 12:00 01/07/2026
-- 🐻 [Generali cùng UNICEF Việt Nam hỗ trợ trẻ em, gia đình Việt](https://vnexpress.net/generali-cung-unicef-viet-nam-ho-tro-tre-em-gia-dinh-viet-5092247.html) - 12:00 01/07/2026
-- 🧠 [Bí quyết muối dưa ăn ngay trong 10 phút](https://vnexpress.net/bi-quyet-muoi-dua-an-ngay-trong-10-phut-5092059.html) - 08:32 01/07/2026
-- 🐘 [Bão giá thay đổi cách người Mỹ đi nghỉ hè](https://vnexpress.net/bao-gia-thay-doi-cach-nguoi-my-di-nghi-he-5091514.html) - 07:48 01/07/2026
-- 👹 [Bác sĩ giải mã hiểu lầm về bồn cầu có vòi xịt](https://vnexpress.net/bac-si-giai-ma-hieu-lam-ve-bon-cau-co-voi-xit-5091726.html) - 04:40 01/07/2026
-- 💂 [Kiện vợ vì bỗng dưng &#39;được làm bố&#39;](https://vnexpress.net/kien-vo-vi-bong-dung-duoc-lam-bo-5091730.html) - 03:52 01/07/2026
-- 🦍 [Hai tuần sống không điều hoà của người Việt ở Pháp](https://vnexpress.net/hai-tuan-song-khong-dieu-hoa-cua-nguoi-viet-o-phap-5091846.html) - 02:01 01/07/2026
-- 🧑‍🏫 [Toshiba ra mắt bộ đôi máy giặt sấy Japandi T37 phiên bản 2026](https://vnexpress.net/toshiba-ra-mat-bo-doi-may-giat-say-japandi-t37-phien-ban-2026-5091896.html) - 02:00 01/07/2026
-- 🧰 [Tổ ấm của người đàn ông mất hết tay chân](https://vnexpress.net/to-am-cua-nguoi-dan-ong-mat-het-tay-chan-5090134.html) - 23:00 30/06/2026
-- 🪄 [Nhà báo 91 tuổi khiến HLV Argentina phá lệ](https://vnexpress.net/nha-bao-91-tuoi-khien-hlv-argentina-pha-le-5091748.html) - 22:30 30/06/2026
-- 🐲 [500 gia đình dự Ngày hội gia đình Long Châu tại Cần Thơ](https://vnexpress.net/500-gia-dinh-du-ngay-hoi-gia-dinh-long-chau-tai-can-tho-5091765.html) - 11:00 30/06/2026
-- 💻 [Thứ tự tẩm ướp thịt nướng chuẩn vị nhà hàng](https://vnexpress.net/thu-tu-tam-uop-thit-nuong-chuan-vi-nha-hang-5091270.html) - 08:27 30/06/2026
-- 🐘 [185 cảnh sát bảo vệ HLV tuyển Hàn Quốc khi về nước](https://vnexpress.net/185-canh-sat-bao-ve-hlv-tuyen-han-quoc-khi-ve-nuoc-5091568.html) - 07:12 30/06/2026
-- 🎬 [Rủ nhau cắt cỏ, dọn vỉa hè](https://vnexpress.net/ru-nhau-cat-co-don-via-he-5088240.html) - 05:29 30/06/2026
-- 💻 [Cơn sốt mua mộ cạnh người nổi tiếng](https://vnexpress.net/con-sot-mua-mo-canh-nguoi-noi-tieng-5091439.html) - 04:21 30/06/2026
-- 🧰 [Sự thật sau ác cảm với điều hòa của người châu Âu](https://vnexpress.net/su-that-sau-ac-cam-voi-dieu-hoa-cua-nguoi-chau-au-5091461.html) - 03:34 30/06/2026
-- 🫣 [Khách bị phòng gym đuổi khéo vì mùi cơ thể](https://vnexpress.net/khach-bi-phong-gym-duoi-kheo-vi-mui-co-the-5089784.html) - 01:09 30/06/2026
-- ⚗️ [Cuộc sống của chàng chăn bò Sô Y Tiết sau 6 năm nổi tiếng thế giới](https://vnexpress.net/cuoc-song-cua-chang-chan-bo-so-y-tiet-sau-6-nam-noi-tieng-the-gioi-5090834.html) - 23:00 29/06/2026
-- 🌊 [Những căn hộ áp mái  ở Paris thành &#39;lò nướng&#39;](https://vnexpress.net/nhung-can-ho-ap-mai-o-paris-thanh-lo-nuong-5090824.html) - 06:57 29/06/2026
-- 💃 [Bi kịch &#39;thần đồng&#39; 6 năm ăn bám cha mẹ](https://vnexpress.net/bi-kich-than-dong-6-nam-an-bam-cha-me-5090913.html) - 03:57 29/06/2026
-- 🦆 [Nỗi sợ mùa World Cup của những bà vợ có chồng thích đỏ đen](https://vnexpress.net/noi-so-mua-world-cup-cua-nhung-ba-vo-co-chong-thich-do-den-5089561.html) - 02:37 29/06/2026
-- 🎓 [Khoảng trống khiến người già dễ sập bẫy lừa đảo](https://vnexpress.net/khoang-trong-khien-nguoi-gia-de-sap-bay-lua-dao-5090033.html) - 23:19 28/06/2026
-- 💪 [Vì sao nhân tài khoa học Hàn Quốc dứt áo ra đi?](https://vnexpress.net/vi-sao-nhan-tai-khoa-hoc-han-quoc-dut-ao-ra-di-5090693.html) - 23:00 28/06/2026
-- 🤔 [Mẹ nghèo cạn tiền cứu chồng và con trai ung thư](https://vnexpress.net/me-ngheo-can-tien-cuu-chong-va-con-trai-ung-thu-5089178.html) - 17:00 28/06/2026
-- 🧰 [Quy tắc luộc rau không phải ai cũng biết](https://vnexpress.net/quy-tac-luoc-rau-khong-phai-ai-cung-biet-5090703.html) - 08:26 28/06/2026
-- 😎 [Chuyên gia làm đẹp tiết lộ bí quyết trẻ lâu](https://vnexpress.net/chuyen-gia-lam-dep-tiet-lo-bi-quyet-tre-lau-5088566.html) - 08:25 28/06/2026
-- 🌮 [Nên đánh răng trước hay sau khi ăn?](https://vnexpress.net/nen-danh-rang-truoc-hay-sau-khi-an-5090514.html) - 02:30 28/06/2026
-- 🧠 [Cô gái Đức tìm được tình yêu khi sang Việt Nam &#39;chữa lành&#39;](https://vnexpress.net/co-gai-duc-tim-duoc-tinh-yeu-khi-sang-viet-nam-chua-lanh-5087525.html) - 23:32 27/06/2026
-- 🎡 [Cuộc sống xuyên đêm trốn nóng của người Pháp](https://vnexpress.net/cuoc-song-xuyen-dem-tron-nong-cua-nguoi-phap-5090608.html) - 23:00 27/06/2026
-- 🎡 [Bi hài chuyện trùng tên với cầu thủ Kylian Mbappe](https://vnexpress.net/bi-hai-chuyen-trung-ten-voi-cau-thu-kylian-mbappe-5090517.html) - 05:52 27/06/2026
-- 🌏 [Biến hầm villa thành khu đa chức năng không cần khoan cắt sàn](https://vnexpress.net/bien-ham-villa-thanh-khu-da-chuc-nang-khong-can-khoan-cat-san-5090270.html) - 03:00 27/06/2026
+- 🚀 [Cụ bà 96 tuổi bị viện dưỡng lão dọa đuổi vì tiệc tùng thâu đêm](https://vnexpress.net/cu-ba-96-tuoi-bi-vien-duong-lao-doa-duoi-vi-tiec-tung-thau-dem-5093158.html) - 09:20 03/07/2026
+- 🎓 [Ronaldo tưởng nhớ đồng đội sau chiến thắng của Bồ Đào Nha](https://vnexpress.net/ronaldo-tuong-nho-dong-doi-sau-chien-thang-cua-bo-dao-nha-5093026.html) - 04:56 03/07/2026
+- 🚦 [HLV tuyển Anh kêu gọi cho trẻ nghỉ học xem World Cup](https://vnexpress.net/hlv-tuyen-anh-keu-goi-cho-tre-nghi-hoc-xem-world-cup-5092922.html) - 03:01 03/07/2026
+- 🦣 [Người dùng bình chọn &#39;quán đỉnh&#39; trên GrabFood](https://vnexpress.net/nguoi-dung-binh-chon-quan-dinh-tren-grabfood-5092759.html) - 02:00 03/07/2026
+- 🎓 [Cậu bé &#39;lớn nhanh như thổi&#39;, 8 tháng nặng hơn 15 kg](https://vnexpress.net/cau-be-lon-nhanh-nhu-thoi-8-thang-nang-hon-15-kg-5092319.html) - 00:48 03/07/2026
+- 🎭 [Cô đơn vì nghỉ hưu sớm](https://vnexpress.net/co-don-vi-nghi-huu-som-5091741.html) - 22:46 02/07/2026
+- 🦅 [&#39;Quy tắc 48 giờ&#39; khi vừa nhận lương](https://vnexpress.net/quy-tac-48-gio-khi-vua-nhan-luong-5092543.html) - 12:16 02/07/2026
+- 🎃 [Đế chế 5.000 tỷ USD Nvidia bắt nhân viên trả tiền ăn trưa](https://vnexpress.net/de-che-5-000-ty-usd-nvidia-bat-nhan-vien-tra-tien-an-trua-5092526.html) - 07:59 02/07/2026
+- 💪 [Thủ môn loại Đức khỏi World Cup từng phải bán áo đấu để cứu con](https://vnexpress.net/thu-mon-loai-duc-khoi-world-cup-tung-phai-ban-ao-dau-de-cuu-con-5092482.html) - 03:51 02/07/2026
+- 🐻 [Hậu trường bức ảnh 12 triệu &#39;like&#39; trên trang của Ronaldo](https://vnexpress.net/hau-truong-buc-anh-12-trieu-like-tren-trang-cua-ronaldo-5092439.html) - 02:57 02/07/2026
+- 🧠 [Hai thói quen dễ bị hiểu lầm của người thông minh](https://vnexpress.net/hai-thoi-quen-de-bi-hieu-lam-cua-nguoi-thong-minh-5091581.html) - 01:53 02/07/2026
+- 🐘 [Tại sao viện dưỡng lão không thể thay thế gia đình?](https://vnexpress.net/tai-sao-vien-duong-lao-khong-the-thay-the-gia-dinh-5091580.html) - 01:36 02/07/2026
+- 👹 [Mẹ nuôi Mỹ thay đổi cuộc đời cô gái Việt không tay](https://vnexpress.net/me-nuoi-my-thay-doi-cuoc-doi-co-gai-viet-khong-tay-5088273.html) - 23:35 01/07/2026
+- 💂 [10 năm làm đủ nghề cứu con mắc bệnh hiếm](https://vnexpress.net/10-nam-lam-du-nghe-cuu-con-mac-benh-hiem-5089712.html) - 18:07 01/07/2026
+- 🦍 [Mang màn hình 210 inch vào tiệc cưới để chồng xem bóng đá](https://vnexpress.net/mang-man-hinh-210-inch-vao-tiec-cuoi-de-chong-xem-bong-da-5091515.html) - 12:00 01/07/2026
+- 🧑‍🏫 [Generali cùng UNICEF Việt Nam hỗ trợ trẻ em, gia đình Việt](https://vnexpress.net/generali-cung-unicef-viet-nam-ho-tro-tre-em-gia-dinh-viet-5092247.html) - 12:00 01/07/2026
+- 🧰 [Bí quyết muối dưa ăn ngay trong 10 phút](https://vnexpress.net/bi-quyet-muoi-dua-an-ngay-trong-10-phut-5092059.html) - 08:32 01/07/2026
+- 🪄 [Bão giá thay đổi cách người Mỹ đi nghỉ hè](https://vnexpress.net/bao-gia-thay-doi-cach-nguoi-my-di-nghi-he-5091514.html) - 07:48 01/07/2026
+- 🐲 [Bác sĩ giải mã hiểu lầm về bồn cầu có vòi xịt](https://vnexpress.net/bac-si-giai-ma-hieu-lam-ve-bon-cau-co-voi-xit-5091726.html) - 04:40 01/07/2026
+- 💻 [Kiện vợ vì bỗng dưng &#39;được làm bố&#39;](https://vnexpress.net/kien-vo-vi-bong-dung-duoc-lam-bo-5091730.html) - 03:52 01/07/2026
+- 🐘 [Hai tuần sống không điều hoà của người Việt ở Pháp](https://vnexpress.net/hai-tuan-song-khong-dieu-hoa-cua-nguoi-viet-o-phap-5091846.html) - 02:01 01/07/2026
+- 🎬 [Toshiba ra mắt bộ đôi máy giặt sấy Japandi T37 phiên bản 2026](https://vnexpress.net/toshiba-ra-mat-bo-doi-may-giat-say-japandi-t37-phien-ban-2026-5091896.html) - 02:00 01/07/2026
+- 💻 [Tổ ấm của người đàn ông mất hết tay chân](https://vnexpress.net/to-am-cua-nguoi-dan-ong-mat-het-tay-chan-5090134.html) - 23:00 30/06/2026
+- 🧰 [Nhà báo 91 tuổi khiến HLV Argentina phá lệ](https://vnexpress.net/nha-bao-91-tuoi-khien-hlv-argentina-pha-le-5091748.html) - 22:30 30/06/2026
+- 🫣 [500 gia đình dự Ngày hội gia đình Long Châu tại Cần Thơ](https://vnexpress.net/500-gia-dinh-du-ngay-hoi-gia-dinh-long-chau-tai-can-tho-5091765.html) - 11:00 30/06/2026
+- ⚗️ [Thứ tự tẩm ướp thịt nướng chuẩn vị nhà hàng](https://vnexpress.net/thu-tu-tam-uop-thit-nuong-chuan-vi-nha-hang-5091270.html) - 08:27 30/06/2026
+- 🌊 [185 cảnh sát bảo vệ HLV tuyển Hàn Quốc khi về nước](https://vnexpress.net/185-canh-sat-bao-ve-hlv-tuyen-han-quoc-khi-ve-nuoc-5091568.html) - 07:12 30/06/2026
+- 💃 [Rủ nhau cắt cỏ, dọn vỉa hè](https://vnexpress.net/ru-nhau-cat-co-don-via-he-5088240.html) - 05:29 30/06/2026
+- 🦆 [Cơn sốt mua mộ cạnh người nổi tiếng](https://vnexpress.net/con-sot-mua-mo-canh-nguoi-noi-tieng-5091439.html) - 04:21 30/06/2026
+- 🎓 [Sự thật sau ác cảm với điều hòa của người châu Âu](https://vnexpress.net/su-that-sau-ac-cam-voi-dieu-hoa-cua-nguoi-chau-au-5091461.html) - 03:34 30/06/2026
+- 💪 [Khách bị phòng gym đuổi khéo vì mùi cơ thể](https://vnexpress.net/khach-bi-phong-gym-duoi-kheo-vi-mui-co-the-5089784.html) - 01:09 30/06/2026
+- 🤔 [Cuộc sống của chàng chăn bò Sô Y Tiết sau 6 năm nổi tiếng thế giới](https://vnexpress.net/cuoc-song-cua-chang-chan-bo-so-y-tiet-sau-6-nam-noi-tieng-the-gioi-5090834.html) - 23:00 29/06/2026
+- 🧰 [Những căn hộ áp mái  ở Paris thành &#39;lò nướng&#39;](https://vnexpress.net/nhung-can-ho-ap-mai-o-paris-thanh-lo-nuong-5090824.html) - 06:57 29/06/2026
+- 😎 [Bi kịch &#39;thần đồng&#39; 6 năm ăn bám cha mẹ](https://vnexpress.net/bi-kich-than-dong-6-nam-an-bam-cha-me-5090913.html) - 03:57 29/06/2026
+- 🌮 [Nỗi sợ mùa World Cup của những bà vợ có chồng thích đỏ đen](https://vnexpress.net/noi-so-mua-world-cup-cua-nhung-ba-vo-co-chong-thich-do-den-5089561.html) - 02:37 29/06/2026
+- 🧠 [Khoảng trống khiến người già dễ sập bẫy lừa đảo](https://vnexpress.net/khoang-trong-khien-nguoi-gia-de-sap-bay-lua-dao-5090033.html) - 23:19 28/06/2026
+- 🎡 [Vì sao nhân tài khoa học Hàn Quốc dứt áo ra đi?](https://vnexpress.net/vi-sao-nhan-tai-khoa-hoc-han-quoc-dut-ao-ra-di-5090693.html) - 23:00 28/06/2026
+- 🎡 [Mẹ nghèo cạn tiền cứu chồng và con trai ung thư](https://vnexpress.net/me-ngheo-can-tien-cuu-chong-va-con-trai-ung-thu-5089178.html) - 17:00 28/06/2026
+- 🌏 [Quy tắc luộc rau không phải ai cũng biết](https://vnexpress.net/quy-tac-luoc-rau-khong-phai-ai-cung-biet-5090703.html) - 08:26 28/06/2026
+- 🐻 [Chuyên gia làm đẹp tiết lộ bí quyết trẻ lâu](https://vnexpress.net/chuyen-gia-lam-dep-tiet-lo-bi-quyet-tre-lau-5088566.html) - 08:25 28/06/2026
+- 💂 [Nên đánh răng trước hay sau khi ăn?](https://vnexpress.net/nen-danh-rang-truoc-hay-sau-khi-an-5090514.html) - 02:30 28/06/2026
+- 🥸 [Cô gái Đức tìm được tình yêu khi sang Việt Nam &#39;chữa lành&#39;](https://vnexpress.net/co-gai-duc-tim-duoc-tinh-yeu-khi-sang-viet-nam-chua-lanh-5087525.html) - 23:32 27/06/2026
+- 🌋 [Cuộc sống xuyên đêm trốn nóng của người Pháp](https://vnexpress.net/cuoc-song-xuyen-dem-tron-nong-cua-nguoi-phap-5090608.html) - 23:00 27/06/2026
+- 🦩 [Bi hài chuyện trùng tên với cầu thủ Kylian Mbappe](https://vnexpress.net/bi-hai-chuyen-trung-ten-voi-cau-thu-kylian-mbappe-5090517.html) - 05:52 27/06/2026
+- 😺 [Biến hầm villa thành khu đa chức năng không cần khoan cắt sàn](https://vnexpress.net/bien-ham-villa-thanh-khu-da-chuc-nang-khong-can-khoan-cat-san-5090270.html) - 03:00 27/06/2026
 - 🐻 [Những người Pháp không dám bật quạt dù nóng kỷ lục](https://vnexpress.net/nhung-nguoi-phap-khong-dam-bat-quat-du-nong-ky-luc-5090337.html) - 01:32 27/06/2026
-- 💂 [Đi bar xem World Cup](https://vnexpress.net/di-bar-xem-world-cup-5089997.html) - 23:28 26/06/2026
-- 🥸 [Người Anh xếp hàng mua điều hòa](https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-5090333.html) - 23:00 26/06/2026
-- 🌋 [Tại sao chiên ít dầu mỡ mà thức ăn vẫn ngấy?](https://vnexpress.net/tai-sao-chien-it-dau-mo-ma-thuc-an-van-ngay-5090290.html) - 09:28 26/06/2026
-- 🦩 [Người New York bỗng dưng &#39;nghiện&#39; xếp hàng](https://vnexpress.net/nguoi-new-york-bong-dung-nghien-xep-hang-5088699.html) - 08:20 26/06/2026
-- 😺 [Ông bố được khen vì cách xử lý khi con làm cháy nhà](https://vnexpress.net/ong-bo-duoc-khen-vi-cach-xu-ly-khi-con-lam-chay-nha-5090207.html) - 07:45 26/06/2026
-- 🐻 [Biến cố ngừng tim và nụ hôn World Cup của HLV tuyển Na Uy](https://vnexpress.net/bien-co-ngung-tim-va-nu-hon-world-cup-cua-hlv-tuyen-na-uy-5089783.html) - 05:33 26/06/2026
-- 🎬 [Lý do người tiêu dùng Việt chọn mua sữa tươi Vinamilk 100%](https://vnexpress.net/ly-do-nguoi-tieu-dung-viet-chon-mua-sua-tuoi-vinamilk-100-5085093.html) - 04:00 26/06/2026
-- 🎊 [Đêm không ngủ vì World Cup của người nước ngoài ở Việt Nam](https://vnexpress.net/dem-khong-ngu-vi-world-cup-cua-nguoi-nuoc-ngoai-o-viet-nam-5089091.html) - 23:00 25/06/2026
-- 💄 [Chàng trai Hải Phòng bỗng dưng nổi tiếng vì giống cầu thủ Mbappe](https://vnexpress.net/chang-trai-hai-phong-bong-dung-noi-tieng-vi-giong-cau-thu-mbappe-5089986.html) - 17:34 25/06/2026
-- 🏊 [Người Anh khổ vì nhà như &#39;phòng xông hơi&#39;](https://vnexpress.net/nguoi-anh-kho-vi-nha-nhu-phong-xong-hoi-5089641.html) - 09:34 25/06/2026
-- 🌜 [Tuyệt chiêu xào rau xanh và giòn](https://vnexpress.net/tuyet-chieu-xao-rau-xanh-va-gion-5088590.html) - 09:14 25/06/2026
-- 🤡 [Những ông bố đi học tết tóc cho con gái](https://vnexpress.net/nhung-ong-bo-di-hoc-tet-toc-cho-con-gai-5089469.html) - 06:44 25/06/2026
-- 🥰 [Người Mỹ cải tạo nhà để dưỡng lão](https://vnexpress.net/nguoi-my-cai-tao-nha-de-duong-lao-5089205.html) - 04:07 25/06/2026
-- 🦍 [Long Châu mở hơn 1.000 trạm tiếp sức cộng đồng trong mùa hè](https://vnexpress.net/long-chau-mo-hon-1-000-tram-tiep-suc-cong-dong-trong-mua-he-5089681.html) - 03:00 25/06/2026
-- 🫣 [CĐV hóa &#39;tượng sống&#39; tại World Cup](https://vnexpress.net/cdv-hoa-tuong-song-tai-world-cup-5089528.html) - 01:06 25/06/2026
-- 🚦 [Cuộc sống du mục của người phụ nữ nghỉ hưu ở tuổi 48](https://vnexpress.net/cuoc-song-du-muc-cua-nguoi-phu-nu-nghi-huu-o-tuoi-48-5081813.html) - 23:00 24/06/2026
-- 🐘 [&#39;Người hùng&#39; bốn năm trước lại xả thân cứu người](https://vnexpress.net/nguoi-hung-bon-nam-truoc-lai-xa-than-cuu-nguoi-5089533.html) - 22:48 24/06/2026
-- 🔥 [Quy tắc 3-2-1 giúp sườn nướng mềm, róc xương](https://vnexpress.net/quy-tac-3-2-1-giup-suon-nuong-mem-roc-xuong-5089087.html) - 08:32 24/06/2026
-- 🎃 [Hàn Quốc vận động người trên 65 tuổi trả bằng lái xe](https://vnexpress.net/han-quoc-van-dong-nguoi-tren-65-tuoi-tra-bang-lai-xe-5089328.html) - 07:23 24/06/2026
-- 🥳 [Điều hòa: Khắc tinh hay &#39;tội đồ&#39; của mùa hè?](https://vnexpress.net/dieu-hoa-khac-tinh-hay-toi-do-cua-mua-he-5089290.html) - 04:57 24/06/2026<!-- vnexpress-doi-song:END -->
+- 🎬 [Đi bar xem World Cup](https://vnexpress.net/di-bar-xem-world-cup-5089997.html) - 23:28 26/06/2026
+- 🎊 [Người Anh xếp hàng mua điều hòa](https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-5090333.html) - 23:00 26/06/2026
+- 💄 [Tại sao chiên ít dầu mỡ mà thức ăn vẫn ngấy?](https://vnexpress.net/tai-sao-chien-it-dau-mo-ma-thuc-an-van-ngay-5090290.html) - 09:28 26/06/2026
+- 🏊 [Người New York bỗng dưng &#39;nghiện&#39; xếp hàng](https://vnexpress.net/nguoi-new-york-bong-dung-nghien-xep-hang-5088699.html) - 08:20 26/06/2026
+- 🌜 [Ông bố được khen vì cách xử lý khi con làm cháy nhà](https://vnexpress.net/ong-bo-duoc-khen-vi-cach-xu-ly-khi-con-lam-chay-nha-5090207.html) - 07:45 26/06/2026
+- 🤡 [Biến cố ngừng tim và nụ hôn World Cup của HLV tuyển Na Uy](https://vnexpress.net/bien-co-ngung-tim-va-nu-hon-world-cup-cua-hlv-tuyen-na-uy-5089783.html) - 05:33 26/06/2026
+- 🥰 [Lý do người tiêu dùng Việt chọn mua sữa tươi Vinamilk 100%](https://vnexpress.net/ly-do-nguoi-tieu-dung-viet-chon-mua-sua-tuoi-vinamilk-100-5085093.html) - 04:00 26/06/2026
+- 🦍 [Đêm không ngủ vì World Cup của người nước ngoài ở Việt Nam](https://vnexpress.net/dem-khong-ngu-vi-world-cup-cua-nguoi-nuoc-ngoai-o-viet-nam-5089091.html) - 23:00 25/06/2026
+- 🫣 [Chàng trai Hải Phòng bỗng dưng nổi tiếng vì giống cầu thủ Mbappe](https://vnexpress.net/chang-trai-hai-phong-bong-dung-noi-tieng-vi-giong-cau-thu-mbappe-5089986.html) - 17:34 25/06/2026
+- 🚦 [Người Anh khổ vì nhà như &#39;phòng xông hơi&#39;](https://vnexpress.net/nguoi-anh-kho-vi-nha-nhu-phong-xong-hoi-5089641.html) - 09:34 25/06/2026
+- 🐘 [Tuyệt chiêu xào rau xanh và giòn](https://vnexpress.net/tuyet-chieu-xao-rau-xanh-va-gion-5088590.html) - 09:14 25/06/2026
+- 🔥 [Những ông bố đi học tết tóc cho con gái](https://vnexpress.net/nhung-ong-bo-di-hoc-tet-toc-cho-con-gai-5089469.html) - 06:44 25/06/2026
+- 🎃 [Người Mỹ cải tạo nhà để dưỡng lão](https://vnexpress.net/nguoi-my-cai-tao-nha-de-duong-lao-5089205.html) - 04:07 25/06/2026
+- 🥳 [CĐV hóa &#39;tượng sống&#39; tại World Cup](https://vnexpress.net/cdv-hoa-tuong-song-tai-world-cup-5089528.html) - 01:06 25/06/2026<!-- vnexpress-doi-song:END -->
