@@ -4,33 +4,33 @@ sidebar_position: 3
 ---
 
 <!-- vov-xa-hoi:START -->
-- 👀 [Chìm tàu ở vùng biển Cô Tô, khẩn trương tìm kiếm 2 ngư dân mất tích](https://vov.vn/xa-hoi/chim-tau-o-vung-bien-co-to-khan-truong-tim-kiem-2-ngu-dan-mat-tich-post1312009.vov) - 04:45 03/07/2026
-- 🚀 [Hơn 3,5 triệu người được tăng 8% lương hưu, trợ cấp bảo hiểm xã hội từ 1/7](https://vov.vn/xa-hoi/hon-35-trieu-nguoi-duoc-tang-8-luong-huu-tro-cap-bao-hiem-xa-hoi-tu-17-post1311995.vov) - 04:45 03/07/2026
-- 👀 [Bão số 1 cách đảo Hải Nam khoảng 90km, giật cấp 11](https://vov.vn/xa-hoi/bao-so-1-cach-dao-hai-nam-khoang-90km-giat-cap-11-post1312017.vov) - 04:41 03/07/2026
-- 🦍 [Quảng Ninh siết an toàn trước bão số 1, tạm dừng tàu lưu trú trên vịnh Hạ Long](https://vov.vn/xa-hoi/quang-ninh-siet-an-toan-truoc-bao-so-1-tam-dung-tau-luu-tru-tren-vinh-ha-long-post1312001.vov) - 04:09 03/07/2026
-- 🚀 [Hà Nội được chủ động quyết định biên chế công chức từ tháng 7 này](https://vov.vn/xa-hoi/ha-noi-duoc-chu-dong-quyet-dinh-bien-che-cong-chuc-tu-thang-7-nay-post1311966.vov) - 04:00 03/07/2026
-- 💫 [Cái kết đắng của nam thanh niên &quot;bốc đầu&quot; xe máy ở Phú Thọ](https://vov.vn/xa-hoi/cai-ket-dang-cua-nam-thanh-nien-boc-dau-xe-may-o-phu-tho-post1311976.vov) - 03:38 03/07/2026
-- 🗽 [Bộ GD-ĐT yêu cầu giảm 30% đầu mối trường công lập, không sáp nhập cơ học](https://vov.vn/xa-hoi/bo-gd-dt-yeu-cau-giam-30-dau-moi-truong-cong-lap-khong-sap-nhap-co-hoc-post1311986.vov) - 03:34 03/07/2026
-- 🕯 [Bộ GD-ĐT rà soát kết quả thi Toán ở Tuyên Quang khi có dải điểm cao hiếm thấy](https://vov.vn/xa-hoi/bo-gd-dt-ra-soat-ket-qua-thi-toan-o-tuyen-quang-khi-co-dai-diem-cao-hiem-thay-post1311979.vov) - 03:27 03/07/2026
-- 🏊 [Bão số 1 áp sát vịnh Bắc Bộ, cảnh báo mưa trên 350 mm, nguy cơ ngập lụt diện rộng](https://vov.vn/xa-hoi/bao-so-1-ap-sat-vinh-bac-bo-canh-bao-mua-tren-350-mm-nguy-co-ngap-lut-dien-rong-post1311981.vov) - 03:24 03/07/2026
-- 👍 [Đã tìm thấy thi thể du khách bị mất tích trong lúc tắm biển ở Lâm Đồng](https://vov.vn/xa-hoi/da-tim-thay-thi-the-du-khach-bi-mat-tich-trong-luc-tam-bien-o-lam-dong-post1311978.vov) - 03:11 03/07/2026
-- 😺 [Điều kiện hưởng, cách tính mức thanh toán bảo hiểm y tế từ 1/7](https://vov.vn/xa-hoi/dieu-kien-huong-cach-tinh-muc-thanh-toan-bao-hiem-y-te-tu-17-post1311959.vov) - 02:40 03/07/2026
-- 🧑‍💻 [Tăng mạnh mức phạt, trật tự đô thị từng bước được lập lại](https://vov.vn/xa-hoi/tang-manh-muc-phat-trat-tu-do-thi-tung-buoc-duoc-lap-lai-post1311963.vov) - 02:40 03/07/2026
-- 🥰 [Vụ cháy tại công ty thủy sản Gò Đàng gây thiệt hại hơn 162 tỷ đồng](https://vov.vn/xa-hoi/vu-chay-tai-cong-ty-thuy-san-go-dang-gay-thiet-hai-hon-162-ty-dong-post1311940.vov) - 02:00 03/07/2026
-- 💃 [Bão số 1 hướng vào Quảng Ninh, Bắc Bộ mưa rất to từ đêm nay](https://vov.vn/xa-hoi/bao-so-1-huong-vao-quang-ninh-bac-bo-mua-rat-to-tu-dem-nay-post1311930.vov) - 01:33 03/07/2026
-- 🐵 [Bão số 1 gây nước dâng, cảnh báo ngập cục bộ từ Quảng Ninh đến Ninh Bình](https://vov.vn/xa-hoi/bao-so-1-gay-nuoc-dang-canh-bao-ngap-cuc-bo-tu-quang-ninh-den-ninh-binh-post1311926.vov) - 01:18 03/07/2026
-- 🔥 [Chăm sóc sức khỏe toàn dân - Từ an sinh đến hạnh phúc đô thị](https://vov.vn/xa-hoi/cham-soc-suc-khoe-toan-dan-tu-an-sinh-den-hanh-phuc-do-thi-post1310822.vov) - 23:20 02/07/2026
-- 👹 [Muốn đỗ đúng ngành mơ ước, đừng mắc sai lầm khi xếp 15 nguyện vọng](https://vov.vn/xa-hoi/muon-do-dung-nganh-mo-uoc-dung-mac-sai-lam-khi-xep-15-nguyen-vong-post1311055.vov) - 23:16 02/07/2026
-- 📝 [Hà Nội giải phóng mặt bằng ngõ 381 Nguyễn Khang: Sớm xóa bỏ &quot;con ngõ đau khổ&quot;](https://vov.vn/xa-hoi/ha-noi-giai-phong-mat-bang-ngo-381-nguyen-khang-som-xoa-bo-con-ngo-dau-kho-post1311722.vov) - 23:05 02/07/2026
-- 🪜 [Bố thợ hồ, mẹ làm ruộng, con trai vượt khó trở thành Á khoa kỳ thi tốt nghiệp THPT](https://vov.vn/xa-hoi/bo-tho-ho-me-lam-ruong-con-trai-vuot-kho-tro-thanh-a-khoa-ky-thi-tot-nghiep-thpt-post1311835.vov) - 23:00 02/07/2026
-- 🎃 [Toàn cảnh Quốc lộ 6 đoạn Ba La - Xuân Mai tăng tốc giải phóng mặt bằng, thi công](https://vov.vn/xa-hoi/toan-canh-quoc-lo-6-doan-ba-la-xuan-mai-tang-toc-giai-phong-mat-bang-thi-cong-post1311569.vov) - 23:00 02/07/2026
-- 🐲 [Thời tiết hôm nay 3/7: Mưa lớn ở Đông Bắc Bộ và Thanh Hóa](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-37-mua-lon-o-dong-bac-bo-va-thanh-hoa-post1311790.vov) - 22:48 02/07/2026
-- 👹 [Áp thấp nhiệt đới mạnh lên thành bão số 1, đang hướng về Vịnh Bắc Bộ](https://vov.vn/xa-hoi/ap-thap-nhiet-doi-manh-len-thanh-bao-so-1-dang-huong-ve-vinh-bac-bo-post1311913.vov) - 22:42 02/07/2026
-- 🐘 [Biển người hân hoan ngắm pháo hoa rực rỡ trên bầu trời thành phố mang tên Bác](https://vov.vn/xa-hoi/bien-nguoi-han-hoan-ngam-phao-hoa-ruc-ro-tren-bau-troi-thanh-pho-mang-ten-bac-post1311904.vov) - 22:34 02/07/2026
-- 🏊 [Quan tâm chăm lo đời sống người có công tỉnh Đồng Tháp](https://vov.vn/xa-hoi/quan-tam-cham-lo-doi-song-nguoi-co-cong-tinh-dong-thap-post1311901.vov) - 15:55 02/07/2026
-- 💃 [Hành trình chinh phục 30 điểm tuyệt đối của thủ khoa A00 ở Bắc Ninh](https://vov.vn/xa-hoi/hanh-trinh-chinh-phuc-30-diem-tuyet-doi-cua-thu-khoa-a00-o-bac-ninh-post1311695.vov) - 15:03 02/07/2026
-- 🎭 [Tháo dỡ các quầy hàng ẩm thực tại Quảng trường – Công viên Tam Thắng, Vũng Tàu](https://vov.vn/xa-hoi/thao-do-cac-quay-hang-am-thuc-tai-quang-truong-cong-vien-tam-thang-vung-tau-post1311827.vov) - 14:39 02/07/2026
-- 🕯 [Tặng bằng khen cho người đàn ông cứu 2 trẻ em đuối nước ở Hà Tĩnh](https://vov.vn/xa-hoi/tang-bang-khen-cho-nguoi-dan-ong-cuu-2-tre-em-duoi-nuoc-o-ha-tinh-post1311873.vov) - 13:31 02/07/2026
-- 📝 [Tuyển sinh đại học 2026: Hơn 112.000 thí sinh đăng ký nguyện vọng trong ngày đầu](https://vov.vn/xa-hoi/tuyen-sinh-dai-hoc-2026-hon-112000-thi-sinh-dang-ky-nguyen-vong-trong-ngay-dau-post1311841.vov) - 11:54 02/07/2026
-- 🤓 [Hoàn thiện dự thảo sửa đổi Pháp lệnh Ưu đãi người có công với cách mạng](https://vov.vn/xa-hoi/hoan-thien-du-thao-sua-doi-phap-lenh-uu-dai-nguoi-co-cong-voi-cach-mang-post1311811.vov) - 11:18 02/07/2026
-- 💄 [Sau trận lũ lịch sử, Kim Vân chủ động đón mùa mưa bão](https://vov.vn/xa-hoi/sau-tran-lu-lich-su-kim-van-chu-dong-don-mua-mua-bao-post1311754.vov) - 10:55 02/07/2026<!-- vov-xa-hoi:END -->
+- 👀 [Lực lượng An ninh Công an TP Đà Nẵng đồng hành cùng sự phát triển của địa phương](https://vov.vn/xa-hoi/luc-luong-an-ninh-cong-an-tp-da-nang-dong-hanh-cung-su-phat-trien-cua-dia-phuong-post1312222.vov) - 15:15 03/07/2026
+- 🚀 [Bão số 1 cách đặc khu Bạch Long Vĩ &lpar;Hải Phòng&rpar; 240km, sức gió giật cấp 11](https://vov.vn/xa-hoi/bao-so-1-cach-dac-khu-bach-long-vi-hai-phong-240km-suc-gio-giat-cap-11-post1312227.vov) - 14:57 03/07/2026
+- 👀 [Bế mạc chương trình Đối tác Thái Bình Dương - Bạn bè Thái Bình Dương năm 2026](https://vov.vn/xa-hoi/be-mac-chuong-trinh-doi-tac-thai-binh-duong-ban-be-thai-binh-duong-nam-2026-post1312216.vov) - 14:43 03/07/2026
+- 🦍 [Ứng phó bão số 1: Siết chặt các phương án bảo vệ dân sinh và sản xuất](https://vov.vn/xa-hoi/ung-pho-bao-so-1-siet-chat-cac-phuong-an-bao-ve-dan-sinh-va-san-xuat-post1312217.vov) - 14:19 03/07/2026
+- 🚀 [Người chấp hành xong án phạt tù được hỗ trợ vay vốn, học nghề, kết nối việc làm](https://vov.vn/xa-hoi/nguoi-chap-hanh-xong-an-phat-tu-duoc-ho-tro-vay-von-hoc-nghe-ket-noi-viec-lam-post1312205.vov) - 14:07 03/07/2026
+- 💫 [Vinamilk phục vụ người dân trong đêm hội 3D Mapping mừng 50 năm TP.HCM](https://vov.vn/xa-hoi/tin-24h/vinamilk-phuc-vu-nguoi-dan-trong-dem-hoi-3d-mapping-mung-50-nam-tphcm-post1312208.vov) - 13:51 03/07/2026
+- 🗽 [Bất ngờ nhận số tiền 4,5 tỷ đồng từ tài khoản lạ, người nhận trình báo công an](https://vov.vn/xa-hoi/bat-ngo-nhan-so-tien-45-ty-dong-tu-tai-khoan-la-nguoi-nhan-trinh-bao-cong-an-post1312210.vov) - 13:45 03/07/2026
+- 🕯 [TP.HCM triển khai chi quà tri ân dịp kỷ niệm 50 năm mang tên Bác](https://vov.vn/xa-hoi/tphcm-trien-khai-chi-qua-tri-an-dip-ky-niem-50-nam-mang-ten-bac-post1312204.vov) - 13:40 03/07/2026
+- 🏊 [Bộ Y tế thu hồi, tiêu hủy toàn quốc 2 loại dầu gội, dầu xả](https://vov.vn/xa-hoi/bo-y-te-thu-hoi-tieu-huy-toan-quoc-2-loai-dau-goi-dau-xa-post1312186.vov) - 12:40 03/07/2026
+- 👍 [Việt Nam chưa ghi nhận ca mắc virus Hanta chủng Andes](https://vov.vn/xa-hoi/viet-nam-chua-ghi-nhan-ca-mac-virus-hanta-chung-andes-post1312188.vov) - 12:39 03/07/2026
+- 😺 [Bộ Nông nghiệp và Môi trường đưa ra 2 kịch bản về hướng đi của cơn bão số 1](https://vov.vn/xa-hoi/bo-nong-nghiep-va-moi-truong-dua-ra-2-kich-ban-ve-huong-di-cua-con-bao-so-1-post1312189.vov) - 12:25 03/07/2026
+- 🧑‍💻 [Hải Phòng cấm tàu thuyền ra khơi, khẩn trương đưa phương tiện vào nơi tránh trú bão](https://vov.vn/xa-hoi/hai-phong-cam-tau-thuyen-ra-khoi-khan-truong-dua-phuong-tien-vao-noi-tranh-tru-bao-post1312180.vov) - 11:54 03/07/2026
+- 🥰 [Xác minh nhóm học sinh đi xe đạp điện vượt đèn đỏ, lạng lách giữa phố ở Đắk Lắk](https://vov.vn/xa-hoi/xac-minh-nhom-hoc-sinh-di-xe-dap-dien-vuot-den-do-lang-lach-giua-pho-o-dak-lak-post1312176.vov) - 11:37 03/07/2026
+- 💃 [Gia Lai mở đợt cao điểm thu nhận ADN từ thân nhân liệt sĩ chưa xác định danh tính](https://vov.vn/xa-hoi/gia-lai-mo-dot-cao-diem-thu-nhan-adn-tu-than-nhan-liet-si-chua-xac-dinh-danh-tinh-post1312169.vov) - 11:30 03/07/2026
+- 🐵 [Cháy nhà tại khu đô thị Văn Phú, Hà Nội khiến 2 người tử vong](https://vov.vn/xa-hoi/chay-nha-tai-khu-do-thi-van-phu-ha-noi-khien-2-nguoi-tu-vong-post1312175.vov) - 11:29 03/07/2026
+- 🔥 [Năm 2025 Tuyên Quang không có bài thi nào đạt điểm 10 môn Toán tốt nghiệp THPT](https://vov.vn/xa-hoi/nam-2025-tuyen-quang-khong-co-bai-thi-nao-dat-diem-10-mon-toan-tot-nghiep-thpt-post1312174.vov) - 11:04 03/07/2026
+- 👹 [Trường cao đẳng tự chủ tài chính bằng đặt hàng và đào tạo theo đặt hàng](https://vov.vn/xa-hoi/truong-cao-dang-tu-chu-tai-chinh-bang-dat-hang-va-dao-tao-theo-dat-hang-post1312160.vov) - 11:00 03/07/2026
+- 📝 [Lào Cai: Bàn giao động vật rừng nguy cấp về trung tâm bảo tồn sinh vật](https://vov.vn/xa-hoi/lao-cai-ban-giao-dong-vat-rung-nguy-cap-ve-trung-tam-bao-ton-sinh-vat-post1312139.vov) - 10:52 03/07/2026
+- 🪜 [Thời tiết ngày 4/7: Hà Nội mưa dông, Bắc Bộ có nơi mưa rất to](https://vov.vn/xa-hoi/thoi-tiet-ngay-47-ha-noi-mua-dong-bac-bo-co-noi-mua-rat-to-post1312164.vov) - 10:50 03/07/2026
+- 🎃 [Ninh Bình cấm biển từ 14 giờ ngày 3/7 để ứng phó bão số 1](https://vov.vn/xa-hoi/ninh-binh-cam-bien-tu-14-gio-ngay-37-de-ung-pho-bao-so-1-post1312166.vov) - 10:50 03/07/2026
+- 🐲 [Bão số 1 cách đặc khu Bạch Long Vĩ khoảng 320km, Bắc Bộ mưa lớn đến 500mm](https://vov.vn/xa-hoi/bao-so-1-cach-dac-khu-bach-long-vi-khoang-320km-bac-bo-mua-lon-den-500mm-post1312112.vov) - 10:49 03/07/2026
+- 👹 [Đại học Duy Tân xét tuyển đại học đợt 1](https://vov.vn/xa-hoi/dai-hoc-duy-tan-xet-tuyen-dai-hoc-dot-1-post1312064.vov) - 10:31 03/07/2026
+- 🐘 [Cảnh sát biển cứu sống ngư dân trôi dạt trên vùng biển Hòn Mê, Thanh Hóa](https://vov.vn/xa-hoi/canh-sat-bien-cuu-song-ngu-dan-troi-dat-tren-vung-bien-hon-me-thanh-hoa-post1312136.vov) - 10:07 03/07/2026
+- 🏊 [Quảng Ninh hoàn tất việc kêu gọi tàu thuyền về nơi tránh trú bão số 1](https://vov.vn/xa-hoi/quang-ninh-hoan-tat-viec-keu-goi-tau-thuyen-ve-noi-tranh-tru-bao-so-1-post1312123.vov) - 09:52 03/07/2026
+- 💃 [Lộ trình sắp xếp mạng lưới cơ sở giáo dục phù hợp với chính quyền địa phương 2 cấp](https://vov.vn/xa-hoi/lo-trinh-sap-xep-mang-luoi-co-so-giao-duc-phu-hop-voi-chinh-quyen-dia-phuong-2-cap-post1312059.vov) - 09:39 03/07/2026
+- 🎭 [Công điện khẩn ứng phó bão số 1 và mưa lũ sau bão](https://vov.vn/xa-hoi/cong-dien-khan-ung-pho-bao-so-1-va-mua-lu-sau-bao-post1312102.vov) - 09:15 03/07/2026
+- 🕯 [6 tháng đầu năm: Thu nhập bình quân của người lao động đạt 9 triệu đồng/tháng](https://vov.vn/xa-hoi/6-thang-dau-nam-thu-nhap-binh-quan-cua-nguoi-lao-dong-dat-9-trieu-dongthang-post1312080.vov) - 09:02 03/07/2026
+- 📝 [Hội Chữ thập đỏ Đắk Lắk hướng mạnh về cơ sở, đẩy nhanh chuyển đổi số](https://vov.vn/xa-hoi/tin-24h/hoi-chu-thap-do-dak-lak-huong-manh-ve-co-so-day-nhanh-chuyen-doi-so-post1312097.vov) - 09:00 03/07/2026
+- 🤓 [VOV thúc đẩy hợp tác với các đài phát thanh - truyền hình Serbia, Croatia](https://vov.vn/xa-hoi/vov-thuc-day-hop-tac-voi-cac-dai-phat-thanh-truyen-hinh-serbia-croatia-post1312082.vov) - 08:33 03/07/2026
+- 💄 [Công an Tuyên Quang vào cuộc xác minh vụ điểm thi Toán có gần 150 điểm 10](https://vov.vn/xa-hoi/cong-an-tuyen-quang-vao-cuoc-xac-minh-vu-diem-thi-toan-co-gan-150-diem-10-post1312061.vov) - 08:02 03/07/2026<!-- vov-xa-hoi:END -->
