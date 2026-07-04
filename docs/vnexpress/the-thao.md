@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tương quan trước trận Argentina - Cape Verde](https://vnexpress.net/tuong-quan-truoc-tran-argentina-cape-verde-5093229.html) - 14:28 03/07/2026
-- 🦩 [Klopp nhận lời dẫn dắt đội tuyển Đức](https://vnexpress.net/klopp-nhan-loi-dan-dat-doi-tuyen-duc-5093227.html) - 13:36 03/07/2026
-- 🧰 [Khoản hỗ trợ gần 18 triệu USD giúp Cape Verde tạo địa chấn World Cup](https://vnexpress.net/khoan-ho-tro-gan-18-trieu-usd-giup-cape-verde-tao-dia-chan-world-cup-5093205.html) - 12:00 03/07/2026
-- 🤗 [Scaloni: &#39;Argentina không quá phụ thuộc vào Messi&#39;](https://vnexpress.net/scaloni-argentina-khong-qua-phu-thuoc-vao-messi-5093197.html) - 12:00 03/07/2026
-- 🥳 [Chicharito: &#39;Messi là Siêu nhân, còn Ronaldo là Người Dơi&#39;](https://vnexpress.net/chicharito-messi-la-sieu-nhan-con-ronaldo-la-nguoi-doi-5093194.html) - 12:00 03/07/2026
-- 🦣 [Vì sao Ronaldo bị thay ra trong trận thắng Croatia?](https://vnexpress.net/vi-sao-ronaldo-bi-thay-ra-trong-tran-thang-croatia-5093157.html) - 11:00 03/07/2026
-- 🌜 [Tiền vệ Thụy Sĩ có &#39;pha bỏ lỡ khó tin nhất World Cup 2026&#39;](https://vnexpress.net/tien-ve-thuy-si-co-pha-bo-lo-kho-tin-nhat-world-cup-2026-5093153.html) - 11:00 03/07/2026
-- 🫶 [Philipp Lahm: &#39;Tôi không còn nhận ra đội tuyển Đức của ngày xưa nữa&#39;](https://vnexpress.net/philipp-lahm-toi-khong-con-nhan-ra-doi-tuyen-duc-cua-ngay-xua-nua-5092750.html) - 08:31 03/07/2026
-- 🌜 [Tay vợt 44 tuổi vô địch giải cấp quốc gia sau 8 năm chờ đợi](https://vnexpress.net/tay-vot-44-tuoi-vo-dich-giai-cap-quoc-gia-sau-8-nam-cho-doi-5093111.html) - 07:54 03/07/2026
-- 😺 [Báo Na Uy: &#39;Đội tuyển Brazil đang run sợ&#39;](https://vnexpress.net/bao-na-uy-doi-tuyen-brazil-dang-run-so-5092798.html) - 06:00 03/07/2026
-- 👍 [Cầu thủ Cape Verde sẽ không đổi áo với Messi](https://vnexpress.net/cau-thu-cape-verde-se-khong-doi-ao-voi-messi-5092788.html) - 06:00 03/07/2026
-- 🐵 [Modric: &#39;VAR được áp dụng tùy theo tầm vóc của từng đội bóng&#39;](https://vnexpress.net/modric-var-duoc-ap-dung-tuy-theo-tam-voc-cua-tung-doi-bong-5093019.html) - 05:57 03/07/2026
-- 💫 [Nagelsmann từ chức HLV đội tuyển Đức](https://vnexpress.net/nagelsmann-tu-chuc-hlv-doi-tuyen-duc-5093046.html) - 05:48 03/07/2026
-- 🦆 [HLV Bồ Đào Nha: &#39;Không ai đủ bản lĩnh đá 11m như Ronaldo&#39;](https://vnexpress.net/hlv-bo-dao-nha-khong-ai-du-ban-linh-da-11m-nhu-ronaldo-5093005.html) - 04:37 03/07/2026
-- 🙉 [Tranh cãi việc Ronaldo nhận giải hay nhất trận thắng Croatia](https://vnexpress.net/tranh-cai-viec-ronaldo-nhan-giai-hay-nhat-tran-thang-croatia-5093011.html) - 04:24 03/07/2026
-- 📝 [Xác định 6 trận vòng 1/8 World Cup 2026](https://vnexpress.net/xac-dinh-6-tran-vong-1-8-world-cup-2026-5092967.html) - 03:32 03/07/2026
-- 💯 [Ronaldo: &#39;Tương lai của tôi không quan trọng&#39;](https://vnexpress.net/ronaldo-tuong-lai-cua-toi-khong-quan-trong-5092913.html) - 03:04 03/07/2026
-- 🌈 [Thụy Sĩ thắng ở vòng knock-out World Cup sau 88 năm](https://vnexpress.net/thuy-si-v-algeria-5092883-tong-thuat.html) - 02:20 03/07/2026
-- 🦩 [Vì sao Croatia mất bàn gỡ ở phút bù trước Bồ Đào Nha?](https://vnexpress.net/vi-sao-croatia-mat-ban-go-o-phut-bu-truoc-bo-dao-nha-5092901.html) - 02:17 03/07/2026
-- 🐲 [Ronaldo xóa dớp ở vòng knock-out World Cup](https://vnexpress.net/ronaldo-xoa-dop-o-vong-knock-out-world-cup-5092894.html) - 02:08 03/07/2026
-- 🌁 [Chị gái Ronaldo: &#39;World Cup 2026 là điệu nhảy cuối của CR7&#39;](https://vnexpress.net/chi-gai-ronaldo-world-cup-2026-la-dieu-nhay-cuoi-cua-cr7-5092860.html) - 01:44 03/07/2026
-- 💯 [HLV De la Fuente chỉ ra hạn chế của Tây Ban Nha](https://vnexpress.net/hlv-de-la-fuente-chi-ra-han-che-cua-tay-ban-nha-5092870.html) - 01:40 03/07/2026
-- 🌝 [Hơn 14.500 người Pháp ký đơn xin lỗi Mbappe](https://vnexpress.net/hon-14-500-nguoi-phap-ky-don-xin-loi-mbappe-5092780.html) - 01:31 03/07/2026
-- 🤖 [Vì sao Mbappe đứng trên Messi trong cuộc đua Vua phá lưới World Cup?](https://vnexpress.net/vi-sao-mbappe-dung-tren-messi-trong-cuoc-dua-vua-pha-luoi-world-cup-5092782.html) - 01:25 03/07/2026
-- 🕯 [Thủ môn Tây Ban Nha phá kỷ lục giữ sạch lưới ở World Cup](https://vnexpress.net/thu-mon-tay-ban-nha-pha-ky-luc-giu-sach-luoi-o-world-cup-5092844.html) - 00:34 03/07/2026
-- 🧰 [Tây Ban Nha lần đầu thắng trận knock-out World Cup sau 16 năm](https://vnexpress.net/tay-ban-nha-lan-dau-thang-tran-knock-out-world-cup-sau-16-nam-5092837.html) - 23:45 02/07/2026
-- 🥳 [Messi cười lớn khi đồng đội bị thu đồ ở Mỹ](https://vnexpress.net/messi-cuoi-lon-khi-dong-doi-bi-thu-do-o-my-5092765.html) - 23:13 02/07/2026
-- 👍 [Ronaldo giúp Bồ Đào Nha thắng Croatia ở vòng 1/16 World Cup](https://vnexpress.net/bo-dao-nha-vs-croatia-5092817-tong-thuat.html) - 22:00 02/07/2026
-- 💪 [Vì sao Ronaldo đứng nghiêng khi chào cờ?](https://vnexpress.net/vi-sao-ronaldo-dung-nghieng-khi-chao-co-5092805.html) - 15:18 02/07/2026
-- 👹 [Dớp luân lưu đè nặng Tây Ban Nha ở World Cup](https://vnexpress.net/dop-luan-luu-de-nang-tay-ban-nha-o-world-cup-5092784.html) - 13:56 02/07/2026
-- 🧰 [Tương quan trước trận Bồ Đào Nha - Croatia](https://vnexpress.net/tuong-quan-truoc-tran-bo-dao-nha-croatia-5092778.html) - 13:17 02/07/2026
-- 🚀 [Cơn khát của Ronaldo ở vòng knock-out World Cup](https://vnexpress.net/con-khat-cua-ronaldo-o-vong-knock-out-world-cup-5092675.html) - 11:31 02/07/2026
-- 🎃 [Srna: &#39;Modric không cần chạy như tuổi 20&#39;](https://vnexpress.net/srna-modric-khong-can-chay-nhu-tuoi-20-5092708.html) - 11:30 02/07/2026
-- 🧰 [Hàn Quốc bác tin Son dự bị vì &#39;tẩy chay truyền thông&#39;](https://vnexpress.net/han-quoc-bac-tin-son-du-bi-vi-tay-chay-truyen-thong-5092730.html) - 10:42 02/07/2026
-- 👀 [HLV Bồ Đào Nha né câu hỏi cho Ronaldo dự bị ở trận đấu Croatia](https://vnexpress.net/hlv-bo-dao-nha-ne-cau-hoi-cho-ronaldo-du-bi-o-tran-dau-croatia-5092659.html) - 08:40 02/07/2026
-- 🌜 [Nani: &#39;Các đồng đội cần chạy thay phần Ronaldo&#39;](https://vnexpress.net/nani-cac-dong-doi-can-chay-thay-phan-ronaldo-5092647.html) - 08:16 02/07/2026
-- 🫶 [Rooney: &#39;Cứ chơi thế này, Anh sẽ bị loại&#39;](https://vnexpress.net/rooney-cu-choi-the-nay-anh-se-bi-loai-5092522.html) - 07:12 02/07/2026
-- 🦄 [Messi bị réo tên khi tiền đạo Mỹ nhận thẻ đỏ ở World Cup](https://vnexpress.net/messi-bi-reo-ten-khi-tien-dao-my-nhan-the-do-o-world-cup-5092558.html) - 06:08 02/07/2026
-- 🥳 [4 &#39;chàng ngự lâm&#39; Pháp và chiến thuật xé tan hàng thủ Thụy Điển](https://vnexpress.net/4-chang-ngu-lam-phap-va-chien-thuat-xe-tan-hang-thu-thuy-dien-5092297.html) - 04:58 02/07/2026
-- 🐲 [Tottenham chi gần 250 triệu USD trong 24 tiếng](https://vnexpress.net/tottenham-chi-gan-250-trieu-usd-trong-24-tieng-5092387.html) - 03:41 02/07/2026
-- 🧑‍🏫 [Lukaku không dám đá phạt đền ở hiệp phụ trước Senegal](https://vnexpress.net/lukaku-khong-dam-da-phat-den-o-hiep-phu-truoc-senegal-5092431.html) - 02:36 02/07/2026
-- 🤔 [Tuchel lo ngại độ cao khi gặp Mexico ở vòng 1/8](https://vnexpress.net/tuchel-lo-ngai-do-cao-khi-gap-mexico-o-vong-1-8-5092388.html) - 02:31 02/07/2026
-- 😺 [Sinner lập kỷ lục tại vòng hai Wimbledon](https://vnexpress.net/sinner-lap-ky-luc-tai-vong-hai-wimbledon-5092434.html) - 02:17 02/07/2026
-- 💪 [Quãng nghỉ tiếp nước đã cứu đội tuyển Anh ở vòng 1/16?](https://vnexpress.net/quang-nghi-tiep-nuoc-da-cuu-doi-tuyen-anh-o-vong-1-16-5092422.html) - 02:07 02/07/2026
-- 💼 [Djokovic hạ Tsitsipas ở vòng hai Wimbledon 2026](https://vnexpress.net/djokovic-ha-tsitsipas-o-vong-hai-wimbledon-2026-5092404.html) - 01:43 02/07/2026
-- 🕴 [Cầu thủ Thụy Điển chỉ trích trọng tài thiên vị Pháp](https://vnexpress.net/cau-thu-thuy-dien-chi-trich-trong-tai-thien-vi-phap-5092396.html) - 01:33 02/07/2026
-- 🕯 [Henry: &#39;Tôi sẽ gãy lưng nếu sút như Kane&#39;](https://vnexpress.net/henry-toi-se-gay-lung-neu-sut-nhu-kane-5092368.html) - 00:56 02/07/2026
-- 📝 [Anh lần đầu thắng ngược trong 60 năm ở World Cup](https://vnexpress.net/anh-lan-dau-thang-nguoc-trong-60-nam-o-world-cup-5092362.html) - 00:05 02/07/2026
-- 🧐 [Chơi thiếu người, Mỹ vẫn vào vòng 1/8 World Cup 2026](https://vnexpress.net/my-v-bosnia-herzegovina-5091848-tong-thuat.html) - 23:00 01/07/2026
-- 🙉 [Bỉ thắng ngược Senegal dù bị dẫn hai bàn ở World Cup](https://vnexpress.net/bi-thang-nguoc-senegal-du-bi-dan-hai-ban-o-world-cup-5092351.html) - 22:50 01/07/2026
-- 🏊 [Matthaus: &#39;Vợ và bạn gái cầu thủ khiến Đức bị loại ở World Cup 2026&#39;](https://vnexpress.net/matthaus-vo-va-ban-gai-cau-thu-khien-duc-bi-loai-o-world-cup-2026-5092301.html) - 22:00 01/07/2026
-- 🌊 [Tổng thống Cape Verde kỳ vọng &#39;thắng Argentina 1-0&#39;](https://vnexpress.net/tong-thong-cape-verde-ky-vong-thang-argentina-1-0-5092307.html) - 21:00 01/07/2026
-- 👨‍🏫 [Sagnol: &#39;Bóng đá gặp vấn đề nếu Olise không có Quả Bóng Vàng&#39;](https://vnexpress.net/sagnol-bong-da-gap-van-de-neu-olise-khong-co-qua-bong-vang-5092169.html) - 21:00 01/07/2026
-- 🥷 [Kane lập cú đúp, Anh vào vòng 1/8 World Cup 2026](https://vnexpress.net/anh-chdc-congo-5092298.html) - 15:00 01/07/2026
-- ⚗️ [Đội tuyển Mỹ dùng công nghệ để luyện sút luân lưu](https://vnexpress.net/doi-tuyen-my-dung-cong-nghe-de-luyen-sut-luan-luu-5092305.html) - 14:16 01/07/2026
-- 🌮 [Ancelotti làm thế nào để Brazil lật ngược tình thế trước Nhật Bản?](https://vnexpress.net/ancelotti-lam-the-nao-de-brazil-lat-nguoc-tinh-the-truoc-nhat-ban-5092221.html) - 10:54 01/07/2026
-- 🤩 [Hé lộ lý do Son Heung-min phải dự bị ở World Cup 2026](https://vnexpress.net/he-lo-ly-do-son-heung-min-phai-du-bi-o-world-cup-2026-5092254.html) - 10:29 01/07/2026
-- 🏊 [FIFA giải thích lý do từ chối bàn thắng của Đức](https://vnexpress.net/fifa-giai-thich-ly-do-tu-choi-ban-thang-cua-duc-5092222.html) - 10:14 01/07/2026
-- 🐎 [Mbappe không muốn đua ghi bàn với Messi](https://vnexpress.net/mbappe-khong-muon-dua-ghi-ban-voi-messi-5092048.html) - 07:57 01/07/2026
-- 💫 [Olise vượt Mbappe để nhận điểm 10 ở vòng 1/16 World Cup](https://vnexpress.net/olise-vuot-mbappe-de-nhan-diem-10-o-vong-1-16-world-cup-5092103.html) - 07:15 01/07/2026<!-- vnexpress-the-thao:END -->
+- 🪜 [Vì sao Pháp luôn có thủ môn mặc áo 16 ở World Cup?](https://vnexpress.net/vi-sao-phap-luon-co-thu-mon-mac-ao-16-o-world-cup-5093453.html) - 12:00 04/07/2026
+- 🦩 [Lý do Olise chọn đội tuyển Pháp dù không nói sõi tiếng](https://vnexpress.net/ly-do-olise-chon-doi-tuyen-phap-du-khong-noi-soi-tieng-5093491.html) - 11:00 04/07/2026
+- 🧰 [Messi đập tan tin đồn quan hệ ngoài luồng](https://vnexpress.net/messi-dap-tan-tin-don-quan-he-ngoai-luong-5093503.html) - 09:55 04/07/2026
+- 🤗 [Ancelotti: &#39;Chỉ Ferguson có thể cho tôi lời khuyên đúng đắn&#39;](https://vnexpress.net/ancelotti-chi-ferguson-co-the-cho-toi-loi-khuyen-dung-dan-5093298.html) - 08:00 04/07/2026
+- 🥳 [Lời từ biệt đầy bi tráng của Cape Verde ở World Cup 2026](https://vnexpress.net/loi-tu-biet-day-bi-trang-cua-cape-verde-o-world-cup-2026-5093409.html) - 06:35 04/07/2026
+- 🦣 [Henry và Ibrahimovic kêu gọi FIFA trao cup cho Cape Verde](https://vnexpress.net/henry-va-ibrahimovic-keu-goi-fifa-trao-cup-cho-cape-verde-5093368.html) - 06:11 04/07/2026
+- 🌜 [Các đội châu Á không thắng ở vòng knock-out World Cup 6 kỳ liên tiếp](https://vnexpress.net/cac-doi-chau-a-khong-thang-o-vong-knock-out-world-cup-6-ky-lien-tiep-5093412.html) - 05:45 04/07/2026
+- 🫶 [Vozinha: &#39;Chúng tôi đã đưa Cape Verde lên bản đồ bóng đá thế giới&#39;](https://vnexpress.net/vozinha-chung-toi-da-dua-cape-verde-len-ban-do-bong-da-the-gioi-5093397.html) - 05:32 04/07/2026
+- 🌜 [Xác định đủ 8 cặp đấu vòng 1/8 World Cup 2026](https://vnexpress.net/xac-dinh-du-8-cap-dau-vong-1-8-world-cup-2026-5093373.html) - 04:13 04/07/2026
+- 😺 [Djokovic cân bằng kỷ lục của Federer ở Wimbledon](https://vnexpress.net/djokovic-can-bang-ky-luc-cua-federer-o-wimbledon-5093380.html) - 04:09 04/07/2026
+- 👍 [Messi hụt kỷ lục kiến tạo World Cup vì cách tính của FIFA](https://vnexpress.net/messi-hut-ky-luc-kien-tao-world-cup-vi-cach-tinh-cua-fifa-5093364.html) - 03:32 04/07/2026
+- 🐵 [Messi: &#39;Không ai cho không ai cái gì ở World Cup&#39;](https://vnexpress.net/messi-khong-ai-cho-khong-ai-cai-gi-o-world-cup-5093352.html) - 02:58 04/07/2026
+- 💫 [Haaland thâm nhập cuộc sống Mỹ](https://vnexpress.net/haaland-tham-nhap-cuoc-song-my-5092707.html) - 02:12 04/07/2026
+- 🦆 [Chỉ đạo trực tiếp từ HLV Scaloni giúp Messi ghi bàn](https://vnexpress.net/chi-dao-truc-tiep-tu-hlv-scaloni-giup-messi-ghi-ban-5093322.html) - 01:45 04/07/2026
+- 🙉 [Colombia hạ Ghana, giành vé cuối vào vòng 1/8](https://vnexpress.net/colombia-ghana-xac-dinh-ve-cuoi-vao-vong-1-8-5093313.html) - 01:00 04/07/2026
+- 📝 [Vì sao Argentina không được phạt đền trong trận gặp Cape Verde?](https://vnexpress.net/vi-sao-argentina-khong-duoc-phat-den-trong-tran-gap-cape-verde-5093306.html) - 00:27 04/07/2026
+- 💯 [Messi phá loạt cột mốc World Cup](https://vnexpress.net/messi-pha-loat-cot-moc-world-cup-5093299.html) - 23:50 03/07/2026
+- 🌈 [Ai Cập nghiên cứu cú đá 11m của Mbappe để loại Australia](https://vnexpress.net/ai-cap-nghien-cuu-cu-da-11m-cua-mbappe-de-loai-australia-5093291.html) - 23:39 03/07/2026
+- 🦩 [Manzambi - tiền vệ 20 tuổi phá loạt kỷ lục World Cup](https://vnexpress.net/manzambi-tien-ve-20-tuoi-pha-loat-ky-luc-world-cup-5093202.html) - 23:05 03/07/2026
+- 🐲 [Thay thủ môn trước loạt 11m, Australia vẫn thua Ai Cập](https://vnexpress.net/thay-thu-mon-truoc-loat-11m-australia-van-thua-ai-cap-5093287.html) - 23:02 03/07/2026
+- 🌁 [Hàng công Pháp được ví như ngọn đèo khó nhất Tour de France](https://vnexpress.net/hang-cong-phap-duoc-vi-nhu-ngon-deo-kho-nhat-tour-de-france-5093253.html) - 23:00 03/07/2026
+- 💯 [8 cầu thủ nhiễm doping từ thịt tại World Cup 2026](https://vnexpress.net/8-cau-thu-nhiem-doping-tu-thit-tai-world-cup-2026-5093286.html) - 22:55 03/07/2026
+- 🌝 [Tổng thống Brazil cảm ơn Ancelotti vì không thay Casemiro](https://vnexpress.net/tong-thong-brazil-cam-on-ancelotti-vi-khong-thay-casemiro-5093223.html) - 22:51 03/07/2026
+- 🤖 [Messi ghi bàn, Argentina thắng Cape Verde sau hiệp phụ ở World Cup](https://vnexpress.net/ket-qua-argentina-vs-cape-verde-5093283-tong-thuat.html) - 21:10 03/07/2026
+- 🕯 [Tương quan trước trận Argentina - Cape Verde](https://vnexpress.net/tuong-quan-truoc-tran-argentina-cape-verde-5093229.html) - 14:28 03/07/2026
+- 🧰 [Klopp nhận lời dẫn dắt đội tuyển Đức](https://vnexpress.net/klopp-nhan-loi-dan-dat-doi-tuyen-duc-5093227.html) - 13:36 03/07/2026
+- 🥳 [Khoản hỗ trợ gần 18 triệu USD giúp Cape Verde tạo địa chấn World Cup](https://vnexpress.net/khoan-ho-tro-gan-18-trieu-usd-giup-cape-verde-tao-dia-chan-world-cup-5093205.html) - 12:00 03/07/2026
+- 👍 [Chicharito: &#39;Messi là Siêu nhân, còn Ronaldo là Người Dơi&#39;](https://vnexpress.net/chicharito-messi-la-sieu-nhan-con-ronaldo-la-nguoi-doi-5093194.html) - 12:00 03/07/2026
+- 💪 [Scaloni: &#39;Argentina không quá phụ thuộc vào Messi&#39;](https://vnexpress.net/scaloni-argentina-khong-qua-phu-thuoc-vao-messi-5093197.html) - 12:00 03/07/2026
+- 👹 [Vì sao Ronaldo bị thay ra trong trận thắng Croatia?](https://vnexpress.net/vi-sao-ronaldo-bi-thay-ra-trong-tran-thang-croatia-5093157.html) - 11:00 03/07/2026
+- 🧰 [Tiền vệ Thụy Sĩ có &#39;pha bỏ lỡ khó tin nhất World Cup 2026&#39;](https://vnexpress.net/tien-ve-thuy-si-co-pha-bo-lo-kho-tin-nhat-world-cup-2026-5093153.html) - 11:00 03/07/2026
+- 🚀 [Philipp Lahm: &#39;Tôi không còn nhận ra đội tuyển Đức của ngày xưa nữa&#39;](https://vnexpress.net/philipp-lahm-toi-khong-con-nhan-ra-doi-tuyen-duc-cua-ngay-xua-nua-5092750.html) - 08:31 03/07/2026
+- 🎃 [Tay vợt 44 tuổi vô địch giải cấp quốc gia sau 8 năm chờ đợi](https://vnexpress.net/tay-vot-44-tuoi-vo-dich-giai-cap-quoc-gia-sau-8-nam-cho-doi-5093111.html) - 07:54 03/07/2026
+- 🧰 [Báo Na Uy: &#39;Đội tuyển Brazil đang run sợ&#39;](https://vnexpress.net/bao-na-uy-doi-tuyen-brazil-dang-run-so-5092798.html) - 06:00 03/07/2026
+- 👀 [Cầu thủ Cape Verde sẽ không đổi áo với Messi](https://vnexpress.net/cau-thu-cape-verde-se-khong-doi-ao-voi-messi-5092788.html) - 06:00 03/07/2026
+- 🌜 [Modric: &#39;VAR được áp dụng tùy theo tầm vóc của từng đội bóng&#39;](https://vnexpress.net/modric-var-duoc-ap-dung-tuy-theo-tam-voc-cua-tung-doi-bong-5093019.html) - 05:57 03/07/2026
+- 🫶 [Nagelsmann từ chức HLV đội tuyển Đức](https://vnexpress.net/nagelsmann-tu-chuc-hlv-doi-tuyen-duc-5093046.html) - 05:48 03/07/2026
+- 🦄 [HLV Bồ Đào Nha: &#39;Không ai đủ bản lĩnh đá 11m như Ronaldo&#39;](https://vnexpress.net/hlv-bo-dao-nha-khong-ai-du-ban-linh-da-11m-nhu-ronaldo-5093005.html) - 04:37 03/07/2026
+- 🥳 [Tranh cãi việc Ronaldo nhận giải hay nhất trận thắng Croatia](https://vnexpress.net/tranh-cai-viec-ronaldo-nhan-giai-hay-nhat-tran-thang-croatia-5093011.html) - 04:24 03/07/2026
+- 🐲 [Xác định 6 trận vòng 1/8 World Cup 2026](https://vnexpress.net/xac-dinh-6-tran-vong-1-8-world-cup-2026-5092967.html) - 03:32 03/07/2026
+- 🧑‍🏫 [Ronaldo: &#39;Tương lai của tôi không quan trọng&#39;](https://vnexpress.net/ronaldo-tuong-lai-cua-toi-khong-quan-trong-5092913.html) - 03:04 03/07/2026
+- 🤔 [Thụy Sĩ thắng ở vòng knock-out World Cup sau 88 năm](https://vnexpress.net/thuy-si-v-algeria-5092883-tong-thuat.html) - 02:20 03/07/2026
+- 😺 [Vì sao Croatia mất bàn gỡ ở phút bù trước Bồ Đào Nha?](https://vnexpress.net/vi-sao-croatia-mat-ban-go-o-phut-bu-truoc-bo-dao-nha-5092901.html) - 02:17 03/07/2026
+- 💪 [Ronaldo xóa dớp ở vòng knock-out World Cup](https://vnexpress.net/ronaldo-xoa-dop-o-vong-knock-out-world-cup-5092894.html) - 02:08 03/07/2026
+- 💼 [Chị gái Ronaldo: &#39;World Cup 2026 là điệu nhảy cuối của CR7&#39;](https://vnexpress.net/chi-gai-ronaldo-world-cup-2026-la-dieu-nhay-cuoi-cua-cr7-5092860.html) - 01:44 03/07/2026
+- 🕴 [HLV De la Fuente chỉ ra hạn chế của Tây Ban Nha](https://vnexpress.net/hlv-de-la-fuente-chi-ra-han-che-cua-tay-ban-nha-5092870.html) - 01:40 03/07/2026
+- 🕯 [Hơn 14.500 người Pháp ký đơn xin lỗi Mbappe](https://vnexpress.net/hon-14-500-nguoi-phap-ky-don-xin-loi-mbappe-5092780.html) - 01:31 03/07/2026
+- 📝 [Vì sao Mbappe đứng trên Messi trong cuộc đua Vua phá lưới World Cup?](https://vnexpress.net/vi-sao-mbappe-dung-tren-messi-trong-cuoc-dua-vua-pha-luoi-world-cup-5092782.html) - 01:25 03/07/2026
+- 🧐 [Thủ môn Tây Ban Nha phá kỷ lục giữ sạch lưới ở World Cup](https://vnexpress.net/thu-mon-tay-ban-nha-pha-ky-luc-giu-sach-luoi-o-world-cup-5092844.html) - 00:34 03/07/2026
+- 🙉 [Tây Ban Nha lần đầu thắng trận knock-out World Cup sau 16 năm](https://vnexpress.net/tay-ban-nha-lan-dau-thang-tran-knock-out-world-cup-sau-16-nam-5092837.html) - 23:45 02/07/2026
+- 🏊 [Messi cười lớn khi đồng đội bị thu đồ ở Mỹ](https://vnexpress.net/messi-cuoi-lon-khi-dong-doi-bi-thu-do-o-my-5092765.html) - 23:13 02/07/2026
+- 🌊 [Ronaldo giúp Bồ Đào Nha thắng Croatia ở vòng 1/16 World Cup](https://vnexpress.net/bo-dao-nha-vs-croatia-5092817-tong-thuat.html) - 22:00 02/07/2026
+- 👨‍🏫 [Vì sao Ronaldo đứng nghiêng khi chào cờ?](https://vnexpress.net/vi-sao-ronaldo-dung-nghieng-khi-chao-co-5092805.html) - 15:18 02/07/2026
+- 🥷 [Hàn Quốc bác tin Son dự bị vì &#39;tẩy chay truyền thông&#39;](https://vnexpress.net/han-quoc-bac-tin-son-du-bi-vi-tay-chay-truyen-thong-5092730.html) - 10:42 02/07/2026
+- ⚗️ [Nani: &#39;Các đồng đội cần chạy thay phần Ronaldo&#39;](https://vnexpress.net/nani-cac-dong-doi-can-chay-thay-phan-ronaldo-5092647.html) - 08:16 02/07/2026
+- 🌮 [Rooney: &#39;Cứ chơi thế này, Anh sẽ bị loại&#39;](https://vnexpress.net/rooney-cu-choi-the-nay-anh-se-bi-loai-5092522.html) - 07:12 02/07/2026
+- 🤩 [Messi bị réo tên khi tiền đạo Mỹ nhận thẻ đỏ ở World Cup](https://vnexpress.net/messi-bi-reo-ten-khi-tien-dao-my-nhan-the-do-o-world-cup-5092558.html) - 06:08 02/07/2026
+- 🏊 [4 &#39;chàng ngự lâm&#39; Pháp và chiến thuật xé tan hàng thủ Thụy Điển](https://vnexpress.net/4-chang-ngu-lam-phap-va-chien-thuat-xe-tan-hang-thu-thuy-dien-5092297.html) - 04:58 02/07/2026
+- 🐎 [Tottenham chi gần 250 triệu USD trong 24 tiếng](https://vnexpress.net/tottenham-chi-gan-250-trieu-usd-trong-24-tieng-5092387.html) - 03:41 02/07/2026
+- 💫 [Lukaku không dám đá phạt đền ở hiệp phụ trước Senegal](https://vnexpress.net/lukaku-khong-dam-da-phat-den-o-hiep-phu-truoc-senegal-5092431.html) - 02:36 02/07/2026<!-- vnexpress-the-thao:END -->
