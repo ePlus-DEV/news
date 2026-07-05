@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vov-xa-hoi:START -->
-- 👀 [Đặc khu Cô Tô đưa hơn 1.700 du khách về đất liền an toàn sau bão số 1](https://vov.vn/xa-hoi/dac-khu-co-to-dua-hon-1700-du-khach-ve-dat-lien-an-toan-sau-bao-so-1-post1312616.vov) - 11:28 05/07/2026
+- 👀 [Đặc khu Cô Tô đưa hơn 1700 du khách về đất liền an toàn sau bão số 1](https://vov.vn/xa-hoi/dac-khu-co-to-dua-hon-1700-du-khach-ve-dat-lien-an-toan-sau-bao-so-1-post1312616.vov) - 11:28 05/07/2026
 - 🚀 [Quảng Ninh phấn đấu cấp lại điện cho 90% hộ dân tại khu vực Móng Cái trong tối nay](https://vov.vn/xa-hoi/quang-ninh-phan-dau-cap-lai-dien-cho-90-ho-dan-tai-khu-vuc-mong-cai-trong-toi-nay-post1312623.vov) - 11:27 05/07/2026
 - 👀 [Sở GD&amp;ĐT Hà Tĩnh: Chưa thấy dấu hiệu bất thường với 15 điểm 10 môn Toán](https://vov.vn/xa-hoi/so-gddt-ha-tinh-chua-thay-dau-hieu-bat-thuong-voi-15-diem-10-mon-toan-post1312618.vov) - 11:14 05/07/2026
 - 🦍 [Quảng Ninh: Cây đổ, tàu trôi dạt và nhà tốc mái ở nhiều nơi do bão số 1](https://vov.vn/xa-hoi/quang-ninh-cay-do-tau-troi-dat-va-nha-toc-mai-o-nhieu-noi-do-bao-so-1-post1312589.vov) - 10:01 05/07/2026
