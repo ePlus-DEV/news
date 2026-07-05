@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vov-xa-hoi:START -->
-- 👀 [Bộ GD-ĐT: Xác minh, rà soát công tác coi thi tại trường THPT Chuyên Tuyên Quang](https://vov.vn/xa-hoi/bo-gd-dt-xac-minh-ra-soat-cong-tac-coi-thi-tai-truong-thpt-chuyen-tuyen-quang-post1312653.vov) - 16:25 05/07/2026
-- 🚀 [Đồng Tháp: Khống chế thành công đám cháy, đảm bảo an toàn khu dân cư](https://vov.vn/xa-hoi/dong-thap-khong-che-thanh-cong-dam-chay-dam-bao-an-toan-khu-dan-cu-post1312645.vov) - 14:06 05/07/2026
-- 👀 [Thời tiết ngày 6/7: Mưa dông ở Hà Nội và Bắc Bộ](https://vov.vn/xa-hoi/thoi-tiet-ngay-67-mua-dong-o-ha-noi-va-bac-bo-post1312578.vov) - 14:00 05/07/2026
+- 👀 [Thời tiết hôm nay 6/7: Mưa dông ở Hà Nội và Bắc Bộ](https://vov.vn/xa-hoi/thoi-tiet-hom-nay-67-mua-dong-o-ha-noi-va-bac-bo-post1312578.vov) - 22:18 05/07/2026
+- 🚀 [Bộ GD-ĐT: Xác minh, rà soát công tác coi thi tại trường THPT Chuyên Tuyên Quang](https://vov.vn/xa-hoi/bo-gd-dt-xac-minh-ra-soat-cong-tac-coi-thi-tai-truong-thpt-chuyen-tuyen-quang-post1312653.vov) - 16:25 05/07/2026
+- 👀 [Đồng Tháp: Khống chế thành công đám cháy, đảm bảo an toàn khu dân cư](https://vov.vn/xa-hoi/dong-thap-khong-che-thanh-cong-dam-chay-dam-bao-an-toan-khu-dan-cu-post1312645.vov) - 14:06 05/07/2026
 - 🦍 [Xúc động phút tiễn đưa nữ Anh hùng Lực lượng Vũ trang Nhân dân Ngô Thị Tuyển](https://vov.vn/xa-hoi/xuc-dong-phut-tien-dua-nu-anh-hung-luc-luong-vu-trang-nhan-dan-ngo-thi-tuyen-post1312643.vov) - 13:46 05/07/2026
 - 🚀 [Hàng chục học sinh bị ngộ độc thực phẩm, chưa rõ nguyên nhân](https://vov.vn/xa-hoi/hang-chuc-hoc-sinh-bi-ngo-doc-thuc-pham-chua-ro-nguyen-nhan-post1312637.vov) - 12:54 05/07/2026
 - 💫 [Đặc khu Cô Tô đưa hơn 1.700 du khách về đất liền an toàn sau bão số 1](https://vov.vn/xa-hoi/dac-khu-co-to-dua-hon-1700-du-khach-ve-dat-lien-an-toan-sau-bao-so-1-post1312616.vov) - 11:28 05/07/2026
